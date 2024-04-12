@@ -1,0 +1,4 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1440480,usps,COYOTE,,COYOTE,CA,,US,+1 408-226-8391,,"Mo-Fr 09:00-12:00,12:30-13:00",United States Postal Service,Q668687
+9501300001,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,PO BOX 13000,COYOTE,CA,,US,,,,United States Postal Service,Q668687
+9501300000,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,8220 MONTEREY RD,COYOTE,CA,,US,,,,United States Postal Service,Q668687

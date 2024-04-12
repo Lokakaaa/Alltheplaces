@@ -1,0 +1,68 @@
+City,Place Name,Zipcode,Name
+Osaka,audi,550-0025 Osaka OSAKA-CHUO Osaka Kujo Minami Nishi-ku 1-6-3,unknown,Audi Osaka Chuo Service Center
+Osaka,audi,550-0013 Osaka OSAKA-CHUO Osaka Shinmachi Nishi-ku 1-28-3,unknown,Audi Osaka Chuo
+Hirakata,audi,573-0004 Osaka HIRAKATA Hirakata Nakamiya Oike 2-31-10,unknown,Audi Hirakata
+Minoh,audi,562-0014 Osaka MINOU/TOYONAKA Minoh Kayano 2-5-3,unknown,Audi Minoh
+Minoh,audi,562-0014 Osaka MINOU/TOYONAKA/IBARAKI Minoh Kayano 4-3-23,unknown,Audi Approved Automobile Minoh
+Sakai,audi,599-8272 Osaka SAKAI Sakai Fukai Nakamachi Naka-ku 3242,unknown,Audi Sakai
+Sakai,audi,593-8326 Osaka SAKAI Sakai Otori nishi machi Nishi-ku 2-4-1,unknown,Audi Approved Automobile Osaka Minami
+Ibaraki,audi,567-0029 Osaka TAKATSUKI/IBARAKI Ibaraki Itsukaichimidorimachi 2-20,unknown,Audi Ibaraki Inter
+Ibaraki,audi,567-0029 Osaka OSAKA Ibaraki Itsukaichimidorimachi 2-20,unknown,Audi Approved Automobile Ibaraki Inter
+Higashi Osaka,audi,579-8005 Osaka HIGASHISUMIYOSHI/HIGASHIOSAKA Higashi Osaka Motomachi 2-2-50,unknown,Audi Higashi Osaka
+Higashi Osaka,audi,579-8005 Osaka HIGASHISUMIYOSHI/HIGASHIOSAKA Higashi Osaka Motomachi 2-1-47,unknown,Audi Approved Automobile Higashi Osaka
+Izumisano,audi,598-0048 Osaka KISHIWADA Izumisano Rinkuuoraikita 1-55,unknown,Audi Rinku
+Izumisano,audi,598-0048 Osaka OSAKA Izumisano Rinkuuoraikita 1-55,unknown,Audi Approved Automobile Rinku
+Osaka,audi,531-0072 Osaka OSAKATANIMACHI Osaka Toyosaki Kita-ku 3-1-1,unknown,Audi Umeda
+"Sakai-city,",bmw_group,,unknown,"Elbe Auto K.K., Sakai Service"
+Hirakata-city,bmw_group,,unknown,"K.K. Hattori Motor Shokai, MINI Hir akata"
+"Osaka-city,",bmw_group,,unknown,"Sojitz Auto Group Osaka Co., Ltd. , Technical Center"
+Sakai-city,bmw_group,,unknown,K.K.Mitsuoka Jidosha/Mitsuoka Sakai
+"Suita-city,",bmw_group,,unknown,"Sojitz Auto Group Osaka Co., Ltd. , Senri"
+"Osaka city,",bmw_group,,unknown,"K.K. Motoren Hanshin, MINI Osaka-Ki ta"
+"Kadoma-city,",bmw_group,,unknown,"Sojitz Auto Group Osaka Co., Ltd. , Kadoma Service Center"
+"Minoo-city,",bmw_group,,unknown,"K.K. Motoren Hanshin, MINI Minoo"
+Senboku-gun,bmw_group,,unknown,"K.K. Alcon Sakai, MINI Kishiwada/MI NI NEXT Kishiwada"
+"Higashi-Osaka-city,",bmw_group,,unknown,"K.K. Motoren TI, Higashi-Osaka"
+"Higashiosaka-city,",bmw_group,,unknown,"K.K. Motoren TI, BPS Higashi-Osaka"
+"Takatsuki-city,",bmw_group,,unknown,"K.K. Motoren Hanshin,Takatsuki/BPS Takatsuki/MINI NEXT Takatsuki"
+Osaka-city,bmw_group,,unknown,Houkoku Shoji K.K. / M. Osaka-Chuo Motorrad Osaka-Chuo
+"Kaizuka-city,",bmw_group,,unknown,"Elbe Auto K.K., Kaizuka/BPS Kaizu ka"
+Ibaraki-shi,bmw_group,,unknown,K.K Mitsuoka Jidosha Motorrad Mitsuoka Osaka
+Osaka,botteg_aveneta,,unknown,Osaka - Umeda Hankyu - LG
+unknown,hooters,Assorti Honmachi 2F 2-3-4 Honmachi Chuo-ku Osaka Japan,unknown,Hooters
+Minamikawachi-gun,little_free_library,,unknown,Tomoe Nakamura #28160 Minamikawachi-gun Osaka
+Tondabayashi,little_free_library,,unknown,Mikoto Gokami #71543 Tondabayashi Osaka
+Toyonaka,petit_bateau,,unknown,Petit Bateau Senri Hankyu
+Osaka Kita Ward,petit_bateau,,unknown,Petit Bateau Hankyu Umeda
+Osaka Chuo Ward,petit_bateau,,unknown,Petit Bateau Daimaru Shinsaibashi
+Osaka Abeno Ward,petit_bateau,,unknown,Petit Bateau Kintetsu Abeno Harukas
+unknown,shake_shack,Daimaru Shinsaibashi 1F; 1-7-1 Shinsaibashi-suji; Chuo-ku Osaka 542-8501  Japan,unknown,"Osaka, Shinsaibashi"
+unknown,shake_shack,Hanshin Umeda 1F; 1-13-13 Umeda Kita-ku; Osaka 530-8224  Japan,unknown,"Osaka, Hanshin Umeda"
+"Toyonaka-shi,",travelex,1F Osaka Internatioal Airport South Terminal bldg. 3-555 Hotarugaikenishimachi Toyonaka-shi 560-0036,unknown,OSAKA AIRPORT SOUTH TERMINAL STORE
+Izumisano-shi,travelex,1F Terminal Bldg. 1 Senshu Kuko Kita Izumisano-shi 540-001,unknown,Kansai - Int L/Side Arr Lobby North
+"Sennan-gun,",travelex,1 Senshu Kuko Naka Tajiricho Sennan-gun 549-0011,unknown,KANSAI AIRPORT STN.
+"Sennan-gun,Tajiricho",travelex,4F Terminal Bldg. 1 Senshu Kuko Naka Sennan-gun Tajiricho 549-0011,unknown,Kansai Int L Side Dep Center
+"Osaka-shi,",travelex,c/o TiS Osaka JR Osaka Station 3-1-1 Umeda Kita-ku Osaka-shi 530-0001,unknown,TiS Osaka
+Osaka-shi,travelex,2nd Avenue South Namba Walk 1-3-10 Namba Chuo-ku Osaka-shi Osaka 542-0076,unknown,Namba Walk
+"Tennoji-ku, Osaka-shi",travelex,c/o TiS Tennoji JR Tennoji Station 10-45 Hidenincho Tennoji-ku Osaka-shi 543-0055,unknown,TiS Tennoji
+IKEDA-SHI,visa,,unknown,unknown
+TOYONAKA-SHI,visa,,unknown,unknown
+MINO-SHI,visa,,unknown,unknown
+IZUMISANO-SHI,visa,,unknown,unknown
+SUITA-SHI,visa,,unknown,unknown
+OSAKA,visa,,unknown,unknown
+IBARAKI-SHI,visa,,unknown,unknown
+KITA-KU,visa,,unknown,unknown
+TAKATSUKI-SHI,visa,,unknown,unknown
+MORIGUCHI-SHI,visa,,unknown,unknown
+KISHIWADA-SHI,visa,,unknown,unknown
+HIRAKATA-SHI,visa,,unknown,unknown
+HIGASHIOSAKA-SHI,visa,,unknown,unknown
+HIGASHI-OSAKA,visa,,unknown,unknown
+DAITO,visa,,unknown,unknown
+MATSUBARA,visa,,unknown,unknown
+Ikeda,western_union,,unknown,SARTAJ FOODS HEAD OFFICE
+Osaka,western_union,,unknown,PAWNSHOP DAISHIN
+Osaka Shi,western_union,,unknown,JTA THANKYOU TICKET
+Shijonawate,western_union,,unknown,KANTEIKYOKU SHIJONAWATE
+Sakai,western_union,,unknown,CABIN SAKAIHIGASI

@@ -1,0 +1,514 @@
+City,Place Name,Zipcode,Name
+Mühlhausen,aldi_nord_de,,unknown,ALDI Nord
+Gera,aldi_nord_de,,unknown,ALDI Nord
+Meiningen,aldi_nord_de,,unknown,ALDI Nord
+Kölleda,aldi_nord_de,,unknown,ALDI Nord
+Bad Langensalza,aldi_nord_de,,unknown,ALDI Nord
+Eisenberg,aldi_nord_de,,unknown,ALDI Nord
+Zeulenroda-Triebes,aldi_nord_de,,unknown,ALDI Nord
+Gotha,aldi_nord_de,,unknown,ALDI Nord
+Erfurt,aldi_nord_de,,unknown,ALDI Nord
+Nordhausen,aldi_nord_de,,unknown,ALDI Nord
+Hildburghausen,aldi_nord_de,,unknown,ALDI Nord
+Weida,aldi_nord_de,,unknown,ALDI Nord
+Neuhaus am Rennweg,aldi_nord_de,,unknown,ALDI Nord
+Ilmenau,aldi_nord_de,,unknown,ALDI Nord
+Jena,aldi_nord_de,,unknown,ALDI Nord
+Bad Frankenhausen,aldi_nord_de,,unknown,ALDI Nord
+Weimar,aldi_nord_de,,unknown,ALDI Nord
+Eisenach,aldi_nord_de,,unknown,ALDI Nord
+Arnstadt,aldi_nord_de,,unknown,ALDI Nord
+Ohrdruf,aldi_nord_de,,unknown,ALDI Nord
+Greiz,aldi_nord_de,,unknown,ALDI Nord
+Nottertal-Heilinger Höhen,aldi_nord_de,,unknown,ALDI Nord
+Waltershausen,aldi_nord_de,,unknown,ALDI Nord
+Meuselwitz,aldi_nord_de,,unknown,ALDI Nord
+Pößneck,aldi_nord_de,,unknown,ALDI Nord
+Schmölln,aldi_nord_de,,unknown,ALDI Nord
+Blankenhain,aldi_nord_de,,unknown,ALDI Nord
+Rudolstadt,aldi_nord_de,,unknown,ALDI Nord
+Sömmerda,aldi_nord_de,,unknown,ALDI Nord
+Schweina,aldi_nord_de,,unknown,ALDI Nord
+Nobitz,aldi_nord_de,,unknown,ALDI Nord
+Schleusingen,aldi_nord_de,,unknown,ALDI Nord
+Unstruttal,aldi_nord_de,,unknown,ALDI Nord
+Zella-Mehlis,aldi_nord_de,,unknown,ALDI Nord
+Bad Salzungen,aldi_nord_de,,unknown,ALDI Nord
+Schmalkalden,aldi_nord_de,,unknown,ALDI Nord
+Altenburg,aldi_nord_de,,unknown,ALDI Nord
+Sondershausen,aldi_nord_de,,unknown,ALDI Nord
+Leinefelde-Worbis,aldi_nord_de,,unknown,ALDI Nord
+Steinbach-Hallenberg,aldi_nord_de,,unknown,ALDI Nord
+Neustadt an der Orla,aldi_nord_de,,unknown,ALDI Nord
+Wutha-Farnroda,aldi_nord_de,,unknown,ALDI Nord
+Eisfeld,aldi_nord_de,,unknown,ALDI Nord
+Dermbach,aldi_nord_de,,unknown,ALDI Nord
+Stadtroda,aldi_nord_de,,unknown,ALDI Nord
+Hermsdorf,aldi_nord_de,,unknown,ALDI Nord
+Heilbad Heiligenstadt,aldi_nord_de,,unknown,ALDI Nord
+Artern,aldi_nord_de,,unknown,ALDI Nord
+Saalfeld,aldi_nord_de,,unknown,ALDI Nord
+Apolda,aldi_nord_de,,unknown,ALDI Nord
+Suhl,aldi_nord_de,,unknown,ALDI Nord
+Schleiz,aldi_nord_de,,unknown,ALDI Nord
+Zeulenroda-Triebes,deichmann,,unknown,DEICHMANN Filiale Zeulenroda-Triebes Triebeser Straße 8
+Zella Mehlis,deichmann,,unknown,DEICHMANN Filiale Zella Mehlis Industriestraße 4
+Weimar,deichmann,,unknown,DEICHMANN Filiale Weimar Friedensstraße 1
+Suhl,deichmann,,unknown,DEICHMANN Filiale Suhl Friedrich-König-Straße 12
+Sonneberg,deichmann,,unknown,DEICHMANN Filiale Sonneberg Neustadter Straße 199
+Sondershausen,deichmann,,unknown,DEICHMANN Filiale Sondershausen Nordhäuser Straße 1
+Sömmerda,deichmann,,unknown,DEICHMANN Filiale Sömmerda Mainzer Straße 16
+Schmalkalden,deichmann,,unknown,DEICHMANN Filiale Schmalkalden Renthofstraße 8
+Schleusingen,deichmann,,unknown,DEICHMANN Filiale Schleusingen Suhler Straße 32-40
+Schleiz,deichmann,,unknown,DEICHMANN Filiale Schleiz Austeg 5
+Saalfeld,deichmann,,unknown,DEICHMANN Filiale Saalfeld Mittlerer Watzenbach 6
+Rudolstadt,deichmann,,unknown,DEICHMANN Filiale Rudolstadt Am Spielborn 2
+Pößneck,deichmann,,unknown,DEICHMANN Filiale Pößneck Saalfelder Straße 23
+Nordhausen,deichmann,,unknown,DEICHMANN Filiale Nordhausen Landgrabenstraße 6A
+Mühlhausen,deichmann,,unknown,DEICHMANN Filiale Mühlhausen Ammersche Landstraße 27-30
+Meiningen,deichmann,,unknown,DEICHMANN Filiale Meiningen Leipziger Straße 82
+Leinefelde-Worbis,deichmann,,unknown,DEICHMANN Filiale Leinefelde-Worbis Siemensstraße 5
+Jena,deichmann,,unknown,DEICHMANN Filiale Jena Kessler Str. 12
+Ilmenau,deichmann,,unknown,DEICHMANN Filiale Ilmenau Mühltor 1
+Hermsdorf,deichmann,,unknown,DEICHMANN Filiale Hermsdorf Eisenberger Straße 87
+Heilbad Heiligenstadt,deichmann,,unknown,DEICHMANN Filiale Heilbad Heiligenstadt Sperberwiese 2
+Gotha,deichmann,,unknown,DEICHMANN Filiale Gotha Gartenstraße 15A
+Gera,deichmann,,unknown,DEICHMANN Filiale Gera Heinrichstraße 30
+Erfurt,deichmann,,unknown,DEICHMANN Filiale Erfurt Bahnhofstrasse 4
+Eisenach,deichmann,,unknown,DEICHMANN Filiale Eisenach Mühlhäuser Straße 110
+Bad Salzungen,deichmann,,unknown,DEICHMANN Filiale Bad Salzungen Bahnhofstraße 9
+Bad Langensalza,deichmann,,unknown,DEICHMANN Filiale Bad Langensalza Goethestraße 7D
+Arnstadt,deichmann,,unknown,DEICHMANN Filiale Arnstadt Alfred-Ley-Straße 12
+Apolda,deichmann,,unknown,DEICHMANN Filiale Apolda Straße Des Friedens 2
+Altenburg,deichmann,,unknown,DEICHMANN Filiale Altenburg Käthe-Kollwitz-Straße 43
+Saalfeld,edeka_de,,unknown,MARKTKAUF Saalfeld
+Hüpstedt,edeka_de,,unknown,Edith Vahl
+Jena,edeka_de,,unknown,Peter Jakobi e.K.
+Gotha,edeka_de,,unknown,E-Center Herkules SB Warenhaus
+Ohrdruf,edeka_de,,unknown,EDEKA Löhr
+Bad Sulza,edeka_de,,unknown,diska Bad Sulza
+Hohenleuben,edeka_de,,unknown,nah & gut LMH Lebensmittel Hohenleuben
+Dingelstädt - Bickenriede,edeka_de,,unknown,Elmar Simon
+Apolda,edeka_de,,unknown,diska Apolda
+Bad Lobenstein,edeka_de,,unknown,EDEKA Schuldes
+Langenleuba,edeka_de,,unknown,diska Langenleuba
+Schleiz,edeka_de,,unknown,EDEKA Glasse
+Krölpa,edeka_de,,unknown,diska Krölpa
+Sonneberg,edeka_de,,unknown,MARKTKAUF Sonneberg-Hönbach
+Ronneburg,edeka_de,,unknown,diska Ronneburg
+Zeulenroda,edeka_de,,unknown,diska Zeulenroda
+Bad Colberg-Heldburg,edeka_de,,unknown,diska Bad Colberg-Heldburg
+Pölzig,edeka_de,,unknown,diska Pölzig
+Tanna,edeka_de,,unknown,diska Tanna
+Elsterberg,edeka_de,,unknown,diska Elsterberg
+Probstzella,edeka_de,,unknown,diska Probstzella
+Weißensee,edeka_de,,unknown,diska Weißensee
+Rosenthal am Rennsteig,edeka_de,,unknown,diska Blankenstein
+Erfurt-Kerspleben,edeka_de,,unknown,diska Erfurt-Kerspleben
+Seelingstädt,edeka_de,,unknown,diska Seelingstädt
+Zeulenroda-Triebes,edeka_de,,unknown,diska Zeulenroda-Triebes
+Meiningen,edeka_de,,unknown,diska Meiningen
+Mohlsdorf-Teichwolframsdorf,edeka_de,,unknown,diska Mohlsdorf-Teichwolframsdorf
+Crossen,edeka_de,,unknown,diska Crossen
+Bad Klosterlausnitz-Weissenborn,edeka_de,,unknown,diska Bad Klosterlausnitz-Weissenborn
+Münchenbernsdorf,edeka_de,,unknown,diska Münchenbernsdorf
+Sömmerda,edeka_de,,unknown,Lars Becker e.K.
+Magdala,edeka_de,,unknown,EDEKA Kellner
+Suhl,edeka_de,,unknown,E center Blaufuß
+Schmalkalden,edeka_de,,unknown,EDEKA Büto
+Eisfeld,edeka_de,,unknown,EDEKA Büto
+Bad Berka,edeka_de,,unknown,EDEKA Büto
+Königsee,edeka_de,,unknown,EDEKA Fritz & Vollmer
+Schwarzatal OT Oberweißbach,edeka_de,,unknown,EDEKA Sommer
+Ilmenau,edeka_de,,unknown,EDEKA Sander
+Brattendorf,edeka_de,,unknown,EDEKA Geuß
+Altenburg,edeka_de,,unknown,EDEKA Soba
+Weida,edeka_de,,unknown,EDEKA Reinhardt
+Bad Köstritz,edeka_de,,unknown,EDEKA Reinhardt
+Stadtilm,edeka_de,,unknown,EDEKA Bachmann
+Rudolstadt,edeka_de,,unknown,EDEKA Bachmann
+Neuhaus am Rennweg,edeka_de,,unknown,EDEKA Gleichmann
+Zella-Mehlis,edeka_de,,unknown,EDEKA Schleicher
+Schleusingen,edeka_de,,unknown,EDEKA Blaufuß
+Hildburghausen,edeka_de,,unknown,EDEKA Blaufuß
+Saalfeld OT Schmiedefeld,edeka_de,,unknown,EDEKA Gleichmann
+Gräfenthal,edeka_de,,unknown,nah & gut Gleichmann
+Nobitz,edeka_de,,unknown,MARKTKAUF Nobitz
+Nordhausen,edeka_de,,unknown,Kristin Schäfer e.K.
+Eisenach,edeka_de,,unknown,Elmar Simon
+Bad Salzungen,edeka_de,,unknown,Thorsten Hellwig e.K.
+Niedersachswerfen,edeka_de,,unknown,E-Center Herkules SB Warenhaus
+Bad Frankenhausen,edeka_de,,unknown,E-Center Herkules SB Warenhaus
+Arnstadt,edeka_de,,unknown,EDEKA König
+Mühlhausen,edeka_de,,unknown,Steffen Wenzel e.K.
+Weimar,edeka_de,,unknown,Lucas Günther e.K.
+Roßleben-Wiehe,edeka_de,,unknown,NP-Markt Wiehe
+Artern,edeka_de,,unknown,EDEKA Lehne
+Wiehe,edeka_de,,unknown,NP-Markt Wiehe
+An der Schmücke,edeka_de,,unknown,NP-Markt Oldisleben
+Oberdorla,edeka_de,,unknown,Andreas Motz e.K.
+Herrenhof,edeka_de,,unknown,Denis Kalb
+Breitenworbis,edeka_de,,unknown,Martin Seidenstücker e.K.
+Rastenberg,edeka_de,,unknown,Jens Schröder e.K.
+Friedrichroda,edeka_de,,unknown,Daniel Barthel e.K.
+Grossbodungen,edeka_de,,unknown,Christian Schneider e.K.
+Weißenborn,edeka_de,,unknown,Ricarda Fiedler
+Hörselberg - Hainich,edeka_de,,unknown,Birgit Klöppel
+Sondershausen,edeka_de,,unknown,Sebastian Eichenauer
+Dorndorf,edeka_de,,unknown,Sylvia Schmieder
+Straußfurt,edeka_de,,unknown,Klaus Piotrowski e.K.
+Drei Gleichen - Wechmar,edeka_de,,unknown,Joachim Kalb
+Erfurt,edeka_de,,unknown,Florian Pupke e.K.
+Uder,edeka_de,,unknown,Andre Schneider e.K.
+Nesse-Apelstädt / Neudietendorf,edeka_de,,unknown,Melanie Lienert
+Harztor - Ilfeld,edeka_de,,unknown,Maik Fiedler
+Breitungen,edeka_de,,unknown,Christin Wehner-Graul
+Marksuhl,edeka_de,,unknown,Andre König
+Leinefelde,edeka_de,,unknown,Seidenstücker & Schneider OHG
+Wasungen,edeka_de,,unknown,Katja Völker
+Erfurt-Hochheim,edeka_de,,unknown,Mattes Halecker
+Tiefenort,edeka_de,,unknown,Thorsten Hellwig e.K.
+Worbis,edeka_de,,unknown,Andre Glahn
+Bad Liebenstein,edeka_de,,unknown,Tobias Blaufuß
+Barchfeld,edeka_de,,unknown,Thorsten Hellwig e.K.
+Menteroda,edeka_de,,unknown,Edith Vahl
+Dermbach - Stadtlengsfeld,edeka_de,,unknown,Ralph Schleifer
+Bad Langensalza,edeka_de,,unknown,Stephan Swaczyna
+Greußen,edeka_de,,unknown,Karsten Hering e.K.
+Heiligenstadt,edeka_de,,unknown,Sebastian Schneider
+Elxleben,edeka_de,,unknown,Tatjana Schrot e.K.
+Buttstädt,edeka_de,,unknown,Julian Rockel e.K.
+Bleicherode,edeka_de,,unknown,Alexander Graf e.K.
+Rodeberg - Struth,edeka_de,,unknown,Dietmar Schlott GmbH
+Großengottern,edeka_de,,unknown,Torsten Klöppel e.K.
+Niederorschel,edeka_de,,unknown,Franziska Hornung e.K.
+Bad Tennstedt,edeka_de,,unknown,Sven Becker
+Brotterode -Trusetal,edeka_de,,unknown,Johannes Ansorg e.K.
+Erfurt-Daberstedt,edeka_de,,unknown,Mattes Halecker
+Schlotheim,edeka_de,,unknown,Frischemarkt Simon e.K.
+Dermbach,edeka_de,,unknown,Christoph Sell
+Ruhla - Thal,edeka_de,,unknown,Thorsten Hellwig e.K.
+Steinbach-Hallenberg,edeka_de,,unknown,Alexander Werner e.K.
+Geratal,edeka_de,,unknown,Frischemarkt Ronny Heinrich e.K.
+Floh-Seligenthal,edeka_de,,unknown,David Zachariae e.K.
+Ellrich,edeka_de,,unknown,Jana Eckhold e.K.
+Kindelbrück,edeka_de,,unknown,Heiko Löser e.K.
+Eisenberg,edeka_de,,unknown,EDEKA Eisenberg
+Ohrdruf OT Wölfis,edeka_de,,unknown,EDEKA Löhr
+Erfurt,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Erfurt Zentrum, Anger 54"
+Saalfeld- Saale,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Saalfeld- Saale, Obere Straße 1"
+Eschwege,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Eschwege, Stad 35"
+Arnstadt,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Arnstadt, Erfurter Str. 11"
+Weißenfels,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Weißenfels, Jüdenstraße 17"
+Naumburg,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Naumburg, Markt 15"
+Sonneberg,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Sonneberg, Bahnhofstraße 54"
+Ilmenau,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Ilmenau, Straße des Friedens 8"
+Zeitz,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Zeitz, Roßmarkt 9"
+Mühlhausen,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Mühlhausen, Steinweg 8-10"
+Eisenach,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Eisenach, Karlstraße 11"
+Weimar,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Weimar, Schillerstraße 17"
+Jena,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Jena, Markt 18"
+Gotha,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Gotha, Marktstraße 9"
+Suhl,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Suhl, Steinweg 27"
+Gera,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Gera, Humboldtstr. 2a/ Ecke Sorge"
+Rudolstadt,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Rudolstadt, Markt 15"
+Greiz,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Greiz, Am Markt 1"
+Kulmbach,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Kulmbach, Langgasse 20 - 22"
+Coburg,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Coburg, Spitalgasse 25"
+Bayreuth,fielmann_de,,unknown,"Fielmann - Ihr Optiker in Bayreuth, Maximilianstraße 71"
+Eisenach,hm,,unknown,Eisenach
+Nordhausen,hm,,unknown,Echte Nordhäuser Marktpassage
+Erfurt,hm,,unknown,Anger 62 Erfurt
+Gera,hm,,unknown,Gera Arcaden Gera
+Jena,hm,,unknown,Löbderstraße 4 Jena
+Gera,hypovereinsbank_de,,unknown,HypoVereinsbank Gera
+Jena,hypovereinsbank_de,,unknown,HypoVereinsbank Jena
+Eisenach,hypovereinsbank_de,,unknown,HypoVereinsbank Eisenach
+Erfurt,hypovereinsbank_de,,unknown,HypoVereinsbank Erfurt
+Weimar,hypovereinsbank_de,,unknown,HypoVereinsbank Weimar
+Jena,jacques_wein_depot_de,,unknown,Jena
+Erfurt,jacques_wein_depot_de,,unknown,Erfurt
+Erfurt,karstadt_de,,unknown,GALERIA Erfurt
+Erfurt,kieser_training_de,,unknown,Kieser Erfurt
+Leinefelde,markgrafen_getraenkemarkt_de,Birkunger Strasse 29b,unknown,Leinefelde
+Weißendorf,mercedes_benz,,unknown,Z+W Auto-Service GmbH & Co. KG
+Leimbach,mercedes_benz,,unknown,SCHADE Automobile GmbH
+Neudietendorf,mercedes_benz,,unknown,Russ & Janot GmbH
+Schwabhausen/Gotha,mercedes_benz,,unknown,SCHADE Automobile GmbH
+Schmalkalden,mercedes_benz,,unknown,SCHADE Automobile GmbH
+Eisenach,mercedes_benz,,unknown,SCHADE GmbH & Co. KG
+Sondershausen,mercedes_benz,,unknown,Autohaus Peter GmbH
+Mühlhausen,mercedes_benz,,unknown,SCHADE GmbH & Co. KG
+Meiningen,mercedes_benz,,unknown,SCHADE Automobile GmbH & Co. KG
+Hildburghausen,mercedes_benz,,unknown,Max Schultz Automobile GmbH & Co. KG
+Suhl,mercedes_benz,,unknown,Max Schultz Automobile GmbH & Co. KG
+Sonneberg,mercedes_benz,,unknown,Max Schultz Automobile GmbH & Co. KG
+Ilmenau,mercedes_benz,,unknown,Max Schultz Automobile GmbH & Co. KG
+Neustadt/Orla,mercedes_benz,,unknown,Auto Müller GmbH & Co. KG
+Saalfeld,mercedes_benz,,unknown,Auto Müller GmbH & Co. KG
+Apolda,mercedes_benz,,unknown,Max Schultz Automobile GmbH & Co. KG
+Weimar,mercedes_benz,,unknown,Max Schultz Automobile GmbH & Co. KG
+Sömmerda,mercedes_benz,,unknown,Max Schultz Automobile GmbH & Co. KG
+Erfurt,mercedes_benz,,unknown,Russ & Janot GmbH
+Nordhausen,mercedes_benz,,unknown,Autohaus Peter GmbH
+Arnstadt,mercedes_benz,,unknown,Russ & Janot GmbH
+Altenburg - Remsa,mercedes_benz,,unknown,Auto-Scholz-AVS GmbH & Co. KG
+Schmölln,mercedes_benz,,unknown,Auto-Scholz-AVS GmbH & Co. KG
+Eisenberg,mercedes_benz,,unknown,Auto-Scholz-AVS GmbH & Co. KG
+Heilbad Heiligenstadt,mercedes_benz,,unknown,Autohaus Peter GmbH
+Gera,mercedes_benz,,unknown,Auto-Scholz-AVS GmbH & Co. KG
+Sulza-Jena,mercedes_benz,,unknown,Auto-Scholz-AVS GmbH & Co. KG
+Neuhaus-Schierschnitz,netto_de,,unknown,Netto Marken-Discount
+Eisfeld,netto_de,,unknown,Netto Marken-Discount
+Ronneburg,netto_de,,unknown,Netto Marken-Discount
+Altenburg,netto_de,,unknown,Netto Marken-Discount
+Trusetal,netto_de,,unknown,Netto Marken-Discount
+Windischholzhausen,netto_de,,unknown,Netto Marken-Discount
+Erfurt,netto_de,,unknown,Netto Marken-Discount
+Mühlhausen,netto_de,,unknown,Netto Marken-Discount
+Eisenberg,netto_de,,unknown,Netto Getränke-Discount
+Arnstadt,netto_de,,unknown,Netto Marken-Discount
+Apolda,netto_de,,unknown,Netto Marken-Discount
+Jena,netto_de,,unknown,Netto Marken-Discount
+Ilmenau,netto_de,,unknown,Netto Marken-Discount
+Schmölln,netto_de,,unknown,Netto Getränke-Discount
+Zella-Mehlis,netto_de,,unknown,Netto Marken-Discount
+Jena-Lobeda,netto_de,,unknown,Netto Marken-Discount
+Artern,netto_de,,unknown,Netto Marken-Discount
+Gera,netto_de,,unknown,Netto Marken-Discount
+Greiz-Reißberg,netto_de,,unknown,Netto Marken-Discount
+Weimar,netto_de,,unknown,Netto Marken-Discount
+Suhl,netto_de,,unknown,Netto Marken-Discount
+Roßleben,netto_de,,unknown,Netto Marken-Discount
+Bad Blankenburg,netto_de,,unknown,Netto Marken-Discount
+Erfurt-Wiesenhügel,netto_de,,unknown,Netto Marken-Discount
+Gera-Tinz,netto_de,,unknown,Netto Marken-Discount
+Schleiz,netto_de,,unknown,Netto Marken-Discount
+Heldrungen,netto_de,,unknown,Netto Marken-Discount
+Neustadt-Orla,netto_de,,unknown,Netto Marken-Discount
+Eisenach,netto_de,,unknown,Netto Marken-Discount
+Triptis,netto_de,,unknown,Netto Marken-Discount
+Bad Köstritz,netto_de,,unknown,Netto Marken-Discount
+Weida,netto_de,,unknown,Netto Marken-Discount
+Wutha-Farnroda,netto_de,,unknown,Netto Marken-Discount
+Jena-Zwätzen,netto_de,,unknown,Netto Marken-Discount
+Bad Lobenstein,netto_de,,unknown,Netto Marken-Discount
+Bad Tabarz,netto_de,,unknown,Netto Marken-Discount
+Kölleda,netto_de,,unknown,Netto Marken-Discount
+Rudolstadt,netto_de,,unknown,Netto Marken-Discount
+Heilbad Heiligenstadt,netto_de,,unknown,Netto Marken-Discount
+Großbreitenbach,netto_de,,unknown,Netto Marken-Discount
+Worbis,netto_de,,unknown,Netto Marken-Discount
+Niedersachswerfen,netto_de,,unknown,Netto Marken-Discount
+Nordhausen,netto_de,,unknown,Netto Marken-Discount
+Wasungen,netto_de,,unknown,Netto Marken-Discount
+Breitungen,netto_de,,unknown,Netto Marken-Discount
+Niederorschel,netto_de,,unknown,Netto Marken-Discount
+Hildburghausen,netto_de,,unknown,Netto Marken-Discount
+Erfurt-Bindersleben,netto_de,,unknown,Netto Marken-Discount
+Dingelstädt,netto_de,,unknown,Netto Marken-Discount
+Berga-Elster,netto_de,,unknown,Netto Marken-Discount
+Gotha,netto_de,,unknown,Netto Marken-Discount
+Ilmenau-Gehren,netto_de,,unknown,Netto Marken-Discount
+Meiningen,netto_de,,unknown,Netto Marken-Discount
+Gößnitz,netto_de,,unknown,Netto Marken-Discount
+Bad Sulza,netto_de,,unknown,Netto Marken-Discount
+Gebesee,netto_de,,unknown,Netto Marken-Discount
+Bad Langensalza,netto_de,,unknown,Netto Marken-Discount
+Ebeleben,netto_de,,unknown,Netto Marken-Discount
+Tambach-Dietharz,netto_de,,unknown,Netto Marken-Discount
+Treffurt,netto_de,,unknown,Netto Marken-Discount
+Sömmerda,netto_de,,unknown,Netto Marken-Discount
+Rothenstein,netto_de,,unknown,Netto Marken-Discount
+Leimbach,netto_de,,unknown,Netto Marken-Discount
+Gera-Lusan,netto_de,,unknown,Netto Marken-Discount
+Gerstungen,netto_de,,unknown,Netto Marken-Discount
+Bad Liebenstein,netto_de,,unknown,Netto Marken-Discount
+Kaltennordheim,netto_de,,unknown,Netto Marken-Discount
+Stadtroda,netto_de,,unknown,Netto Marken-Discount
+Gräfentonna,netto_de,,unknown,Netto Marken-Discount
+Münchenbernsdorf,netto_de,,unknown,Netto Marken-Discount
+Gräfenroda,netto_de,,unknown,Netto Marken-Discount
+Georgenthal,netto_de,,unknown,Netto Marken-Discount
+Geisa,netto_de,,unknown,Netto Marken-Discount
+Meuselwitz,netto_de,,unknown,Netto Marken-Discount
+Buttstädt,netto_de,,unknown,Netto Marken-Discount
+Steinach,netto_de,,unknown,Netto Marken-Discount
+Waltershausen,netto_de,,unknown,Netto Marken-Discount
+Dorndorf,netto_de,,unknown,Netto Marken-Discount
+Apfelstädt,netto_de,,unknown,Netto Marken-Discount
+Bleicherode,netto_de,,unknown,Netto Marken-Discount
+Bad Salzungen,netto_de,,unknown,Netto Marken-Discount
+Rositz,netto_de,,unknown,Netto Marken-Discount
+Greußen,netto_de,,unknown,Netto Marken-Discount
+Leutenberg,netto_de,,unknown,Netto Marken-Discount
+Schlotheim,netto_de,,unknown,Netto Marken-Discount
+Günthersleben-Wechmar,netto_de,,unknown,Netto Marken-Discount
+Marksuhl,netto_de,,unknown,Netto Marken-Discount
+Vacha,netto_de,,unknown,Netto Marken-Discount
+Ellrich,netto_de,,unknown,Netto Marken-Discount
+Geismar,netto_de,,unknown,Netto Marken-Discount
+Themar,netto_de,,unknown,Netto Marken-Discount
+Schmalkalden,netto_de,,unknown,Netto Marken-Discount
+Lucka,netto_de,,unknown,Netto Marken-Discount
+Königsee,netto_de,,unknown,Netto Marken-Discount
+Ruhla-Thal,netto_de,,unknown,Netto Marken-Discount
+Triebes,netto_de,,unknown,Netto Marken-Discount
+Sonneberg,netto_de,,unknown,Netto Marken-Discount
+Pößneck,netto_de,,unknown,Netto Marken-Discount
+Bad Frankenhausen,netto_de,,unknown,Netto Marken-Discount
+Saalfeld,netto_de,,unknown,Netto Marken-Discount
+Blankenhain,netto_de,,unknown,Netto Marken-Discount
+Gera-Windischenbernsdorf,netto_de,,unknown,Netto Marken-Discount
+Gotha-Siebleben,netto_de,,unknown,Netto Marken-Discount
+Stadtilm,netto_de,,unknown,Netto Marken-Discount
+Straußfurt,netto_de,,unknown,Netto Marken-Discount
+Kranichfeld,netto_de,,unknown,Netto Marken-Discount
+Barchfeld-Immelborn,netto_de,,unknown,Netto Marken-Discount
+Heringen-Helme,netto_de,,unknown,Netto Marken-Discount
+Schalkau,netto_de,,unknown,Netto Marken-Discount
+Erfurt-Stotternheim,netto_de,,unknown,Netto Marken-Discount
+Elxleben,netto_de,,unknown,Netto Marken-Discount
+Kirchgandern-Arenshausen,netto_de,,unknown,Netto Marken-Discount
+Teistungen,netto_de,,unknown,Netto Getränke-Discount
+Gefell,netto_de,,unknown,Netto Marken-Discount
+Jena-Wogau,netto_de,,unknown,Netto Marken-Discount
+Kahla,netto_de,,unknown,Netto Marken-Discount
+Weimar,obi_eu,,unknown,Obi Markt Weimar-Süßenborn
+Sondershausen,obi_eu,,unknown,Obi Markt Sondershausen
+Sömmerda,obi_eu,,unknown,Obi Markt Sömmerda
+Schwabhausen,obi_eu,,unknown,Obi Markt Schwabhausen
+Schleusingen,obi_eu,,unknown,Obi Markt Schleusingen
+Rudolstadt,obi_eu,,unknown,Obi Markt Rudolstadt
+Pößneck,obi_eu,,unknown,Obi Markt Pößneck
+Jena,obi_eu,,unknown,Obi Markt Jena-Löbstedt
+Erfurt,obi_eu,,unknown,Obi Markt Erfurt Nord
+Eisenberg,obi_eu,,unknown,Obi Markt Eisenberg
+Eisenach,obi_eu,,unknown,Obi Markt Eisenach
+Ammern,obi_eu,,unknown,Obi Markt Ammern
+Altenburg,obi_eu,,unknown,Obi Markt Altenburg
+Gera,penny_de,,unknown,Penny Zwötzen
+Bad Blankenburg,penny_de,,unknown,Penny Greifenstein-Blick
+Bad Tennstedt,penny_de,,unknown,Penny Bahnhofstraße
+Gerstungen,penny_de,,unknown,Penny Gerstungen
+Kahla,penny_de,,unknown,Penny Am Dohlenstein
+Gotha,penny_de,,unknown,Penny Schöne Aussicht
+Suhl,penny_de,,unknown,Penny Suhl
+Ohrdruf,penny_de,,unknown,Penny Am Goldberg
+Tiefenort,penny_de,,unknown,Penny Am Hämbacher Kreuz
+Sonneberg,penny_de,,unknown,Penny Am Eichberg
+Langenwetzendorf,penny_de,,unknown,Penny Langenwetzendorf
+Wuenschendorf,penny_de,,unknown,Penny Am Märchenwald
+Wasungen,penny_de,,unknown,Penny Am Storchennest
+Schmalkalden,penny_de,,unknown,Penny Am Gries
+Koelleda,penny_de,,unknown,Penny Am Johannistor
+Crossen,penny_de,,unknown,Penny Im Elstertal
+Erfurt,penny_de,,unknown,Penny Vilnius Passage
+Meiningen,penny_de,,unknown,Penny Henneberger Straße
+Bischofferode,penny_de,,unknown,Penny Bischofferode
+Nordhausen,penny_de,,unknown,Penny Nordhausen
+Hirschberg,penny_de,,unknown,Penny Hirschberg
+Neustadt an der Orla,penny_de,,unknown,Penny An der Orla
+Teichwolframsdorf,penny_de,,unknown,Penny Am Steinberg
+Greiz,penny_de,,unknown,Penny Neustadtring
+Weimar,penny_de,,unknown,Penny Weimar
+Goeßnitz,penny_de,,unknown,Penny Gößnitz
+Saalfeld,penny_de,,unknown,Penny Saalfeld
+Mühlhausen,penny_de,,unknown,Penny Mühlhausen
+Kaulsdorf,penny_de,,unknown,Penny Kaulsdorf
+Altenburg,penny_de,,unknown,Penny An der alten Feuerwehr
+Bad Lobenstein,penny_de,,unknown,Penny Bad Lobenstein
+Ilmenau,penny_de,,unknown,Penny Ilmenau
+Werther,penny_de,,unknown,Penny Werther
+Erfurt,santander_de,,unknown,Santander
+Jena,santander_de,,unknown,Santander
+Eisenach,santander_de,,unknown,Santander
+Nordhausen,santander_de,,unknown,Santander
+Suhl,santander_de,,unknown,Santander
+Gera,santander_de,,unknown,Santander
+GREIZ,shell,,unknown,"GREIZ, GERHARD-HAUPTMANN29."
+PÖSSNECK,shell,,unknown,"POESSNECK, NEUSTAEDTER STR.183."
+GERA,shell,,unknown,"GERA, SIEMENSSTR. 1"
+SCHLEIFREISEN,shell,,unknown,HERMSDORF WEST
+KRAFTSDORF - PÖRSDORF,shell,,unknown,KRAFTSDORF - PÖRSDORF
+KRAFTSDORF,shell,,unknown,"KRAFTSDORF, AM RÜDERSDORF."
+SCHMÖLLN,shell,,unknown,"SCHMÖLLN, AM KEMNITZGRUND 1."
+HERMSDORF,shell,,unknown,OPT HERMSDORF LNG
+BAD KLOSTERLAUSNITZ,shell,,unknown,"BAD KLOSTERLAUSNITZ, AN DER AU"
+EISENBERG,shell,,unknown,"EISENBERG, JENAER STRASSE."
+ALTENBURG,shell,,unknown,"ALTENBURG, SCHMÖLLNSCHE LAND."
+Gräfenroda,shell,,unknown,EV REWE WALDSTRASSE
+ILMENAU,shell,,unknown,"ILMENAU, ZIOLKOWSKISTR.9."
+OHRDRUF,shell,,unknown,"OHRDRUF, WESTFAHLENSTRASSE 1"
+SUHL,shell,,unknown,"SUHL, HOELDERLINSTR"
+SCHWABHAUSEN,shell,,unknown,"SCHWABHAUSEN, AN DER B 247"
+STEINBACH,shell,,unknown,"STEINBACH, BAHNHOF STR."
+GOTHA,shell,,unknown,"GOTHA, OHRDRUFER STR. 42."
+KÖNIGSEE,shell,,unknown,"KÖNIGSEE, GEWERBEGEBIET /B 88"
+HÖRSELGAU,shell,,unknown,"HÖRSELGAU, A4 HÖRSELGAU NORD."
+SCHLEUSINGEN,shell,,unknown,"SCHLEUSINGEN, SUHLER STR"
+ERFURT,shell,,unknown,"ERFURT, STOTTERNHEIM.STR.40."
+EISENACH,shell,,unknown,"EISENACH, CLEMENSSTR."
+WEIMAR,shell,,unknown,"WEIMAR, RIESSNERSTR. 14."
+KRAUTHAUSEN NORDSEITE,shell,,unknown,"KRAUTHAUSEN NORDSEITE, BAB 4."
+KRAUTHAUSEN SUEDSEITE,shell,,unknown,"KRAUTHAUSEN SUEDSEITE, BAB 4."
+SÖMMERDA,shell,,unknown,A71 LEUBINGER FÜRSTENHÜGEL
+GREUSSEN,shell,,unknown,"GREUSSEN, NORDHAEUSER STR.75."
+JENA,shell,,unknown,"JENA, RUDOLSTÄDTER STR. 60"
+KÖLLEDA,shell,,unknown,"KÖLLEDA, WEIMARISCHESTR.B 85"
+JENAPRIESNITZ,shell,,unknown,"JENAPRIESNITZ, BUERGELSCHE STR. 2."
+NIEDERGEBRA,shell,,unknown,"NIEDERGEBRA, AN DER B 80"
+BREITENWORBIS,shell,,unknown,"BREITENWORBIS, AUF DEM PFING."
+NORDHAUSEN,shell,,unknown,"NORDHAUSEN, KASSELER LAND STR. 6"
+OBERLÖDLA/ ALTENBURG,shell,,unknown,"OBERLOEDLA/, LOEDLAER CHAUSS."
+Erfurt,storebox,Wendenstraße 20B 99086 Erfurt Deutschland ,unknown,Storebox Erfurt Wendenstraße
+Gera,storebox,Pfortener Straße 43 07545 Gera Deutschland ,unknown,Storebox Gera Pforten
+Gera,storebox,Sachsenplatz 6 07545 Gera Deutschland ,unknown,Storebox Gera Süd
+Sonneberg,tedi,,unknown,TEDi GmbH & Co. KG
+Schleiz,tedi,,unknown,TEDi GmbH & Co. KG
+Unterwellenborn,tedi,,unknown,TEDi GmbH & Co. KG
+Pößneck,tedi,,unknown,TEDi GmbH & Co. KG
+Neustadt,tedi,,unknown,TEDi GmbH & Co. KG
+Zeulenroda-Triebes,tedi,,unknown,TEDi GmbH & Co. KG
+Saalfeld,tedi,,unknown,TEDi GmbH & Co. KG
+Kahla,tedi,,unknown,TEDi GmbH & Co. KG
+Rudolstadt,tedi,,unknown,TEDi GmbH & Co. KG
+Zöllnitz,tedi,,unknown,TEDi GmbH & Co. KG
+Jena,tedi,,unknown,TEDi GmbH & Co. KG
+Hermsdorf,tedi,,unknown,TEDi GmbH & Co. KG
+Eisenberg,tedi,,unknown,TEDi GmbH & Co. KG
+Apolda,tedi,,unknown,TEDi GmbH & Co. KG
+Weimar,tedi,,unknown,TEDi GmbH & Co. KG
+Gera,tedi,,unknown,TEDi GmbH & Co. KG
+Weida,tedi,,unknown,TEDi GmbH & Co. KG
+Greiz,tedi,,unknown,TEDi GmbH & Co. KG
+Meuselwitz,tedi,,unknown,TEDi GmbH & Co. KG
+Altenburg,tedi,,unknown,TEDi GmbH & Co. KG
+Vacha,tedi,,unknown,TEDi GmbH & Co. KG
+Leimbach,tedi,,unknown,TEDi GmbH & Co. KG
+Heilbad Heiligenstadt,tedi,,unknown,TEDi GmbH & Co. KG
+Leinefelde-Worbis,tedi,,unknown,TEDi GmbH & Co. KG
+Leinefelde,tedi,,unknown,TEDi GmbH & Co. KG
+Treffurt,tedi,,unknown,TEDi GmbH & Co. KG
+Eisenach,tedi,,unknown,TEDi GmbH & Co. KG
+Mühlhausen (Thüringen),tedi,,unknown,TEDi GmbH & Co. KG
+Mühlhausen,tedi,,unknown,TEDi GmbH & Co. KG
+Bad Salzungen,tedi,,unknown,TEDi GmbH & Co. KG
+Wutha-Farnroda,tedi,,unknown,TEDi GmbH & Co. KG
+Bleicherode,tedi,,unknown,TEDi GmbH & Co. KG
+Nordhausen,tedi,,unknown,TEDi GmbH & Co. KG
+Sondershausen,tedi,,unknown,TEDi GmbH & Co. KG
+Bad Langensalza,tedi,,unknown,TEDi GmbH & Co. KG
+Gotha,tedi,,unknown,TEDi GmbH & Co. KG
+Elxleben,tedi,,unknown,TEDi GmbH & Co. KG
+Ohrdruf,tedi,,unknown,TEDi GmbH & Co. KG
+Erfurt,tedi,,unknown,TEDi GmbH & Co. KG
+Schmalkalden,tedi,,unknown,TEDi GmbH & Co. KG
+Bad Frankenhausen,tedi,,unknown,TEDi GmbH & Co. KG
+Sömmerda,tedi,,unknown,TEDi GmbH & Co. KG
+Arnstadt,tedi,,unknown,TEDi GmbH & Co. KG
+Zella-Mehlis,tedi,,unknown,TEDi GmbH & Co. KG
+Neuhaus,tedi,,unknown,TEDi GmbH & Co. KG
+Suhl,tedi,,unknown,TEDi GmbH & Co. KG
+Meiningen,tedi,,unknown,TEDi GmbH & Co. KG
+Eisfeld,tedi,,unknown,TEDi GmbH & Co. KG

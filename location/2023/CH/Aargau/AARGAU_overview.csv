@@ -1,0 +1,428 @@
+City,Place Name,Zipcode,Name
+Schinznach Bad,audi,Aarauerstrasse 22 5116 Schinznach Bad,unknown,AMAG Schinznach-Bad
+Merenschwand,audi,Stiegenackerstrasse 2 5634 Merenschwand,unknown,Garage G. Bürgisser
+Villmergen,audi,Unterdorfstrasse 28 5612 Villmergen,unknown,RH Auto-Service AG
+Wohlen AG,audi,Industriestrasse 16 5610 Wohlen AG,unknown,Auto Käppeli AG
+Windisch,audi,Kestenbergstrasse 32 5210 Windisch,unknown,Emil Baschnagel AG
+Kölliken,audi,Hauptstrasse 3 5742 Kölliken,unknown,Garage F. Eggenberg AG
+Rheinfelden,audi,Zürcherstrasse 34 4310 Rheinfelden,unknown,AMAG Rheinfelden
+Frick,audi,Hauptstrasse 127 5070 Frick,unknown,Römergarage AG
+Oftringen,audi,Bernstrasse 23 4665 Oftringen,unknown,AMAG Oftringen
+Fislisbach,audi,Winkelstrasse 2 5442 Fislisbach,unknown,AMAG Baden
+Aarau,audi,Rohrerstrasse 29 5000 Aarau,unknown,AMAG Aarau
+Waldshut-Tiengen,audi,Porschestraße 1 79761 Waldshut-Tiengen,unknown,Stoll GmbH
+Albbruck,audi,Am Mühlebach 5 79774 Albbruck,unknown,Autohaus Peter Ebner GmbH
+Rothrist,burgerking,,unknown,Burger King
+Aarau,burgerking,,unknown,Burger King
+Hunzenschwil,burgerking,,unknown,Burger King
+Bremgarten,burgerking,,unknown,Burger King
+Lupfig Birrfeld,burgerking,,unknown,Burger King
+Spreitenbach,burgerking,,unknown,Burger King
+Würenlingen,deichmann,,unknown,DOSENBACH Filiale Würenlingen Kuhgässlistrasse 7
+Wohlen,deichmann,,unknown,DOSENBACH Filiale Wohlen Wehrlistrasse 2
+Wettingen,deichmann,,unknown,DOSENBACH Filiale Wettingen Landstrasse 82
+Unterentfelden,deichmann,,unknown,DOSENBACH Filiale Unterentfelden Suhrenmattstrasse 52
+Suhr,deichmann,,unknown,DOSENBACH Filiale Suhr Bernstrasse Ost 49
+Staufen,deichmann,,unknown,DOSENBACH Filiale Staufen Aarauerstrasse 21
+Spreitenbach,deichmann,,unknown,DOSENBACH Filiale Spreitenbach Hochhaus 9
+Reinach,deichmann,,unknown,DOSENBACH Filiale Reinach Hauptstrasse 45
+Oftringen,deichmann,,unknown,DOSENBACH Filiale Oftringen Bernstrasse 4
+Muri,deichmann,,unknown,DOSENBACH Filiale Muri Seetalstrasse 1
+Lupfig,deichmann,,unknown,DOSENBACH Filiale Lupfig Hauserstrasse 1
+Kaiseraugst,deichmann,,unknown,DOSENBACH Filiale Kaiseraugst Junkholzweg 1
+Frick,deichmann,,unknown,DOSENBACH Filiale Frick Hauptstrasse 132
+Dättwil,deichmann,,unknown,DOSENBACH Filiale Dättwil Mellingerstrasse 208
+Brugg AG,deichmann,,unknown,DOSENBACH Filiale Brugg AG Neumarktplatz 14
+Baden,deichmann,,unknown,DOSENBACH Filiale Baden Badstrasse 36
+Aarau,deichmann,,unknown,DOSENBACH Filiale Aarau Kasinostrasse 32
+Spreitenbach,dunkin_ch,Shopping Center 8957 Spreitenbach Switzerland,unknown,Dunkin' Tivoli Spreitenbach
+Aarau,hm,,unknown,Einkaufszentrum Telli
+Bezirk Lenzburg,ich_tanke_strom,Rastplatz Lenzburg A1  5600 Lenzburg,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Rastplatz Suhr A1  5034 Suhr,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Aarauerstrasse  5630 Muri,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Bullenbergstrasse  5610 Wohlen,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Hauptstrasse  5072 Oeschgen,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Aarauerstrasse  5734 Reinach,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Zürichstrasse  4665 Oftringen,unknown,Tesla Supercharger
+Bezirk Zofingen,ich_tanke_strom,Neue Aarburgerstr.  4852 Rothrist,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Othmarsingerstrasse  5600 Lenzburg,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Industriestrasse 13  4800 Zofingen,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Dorfstrasse 489  5728 Gontenschwil,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Lochgasse 18  5722 Gränichen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Wigartestrasse 4  0 Spreitenbach,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Industriestrasse 18  0 Frick,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Autobahnrastplatz Zürich-Bern  0 Walterswil,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Poststrasse 1  0 Würenlos,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Bahnhofplatz 1  0 Aarau,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Lerchenweg 18  0 Kaiseraugst,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,LA Roche AG  0 Kaiseraugst,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Raststätte Würenlos Richtung Bern  0 Würenlos,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Hintere Bahnhofstrasse 6  0 Aarau,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Gewerbeweg 1  0 Birr,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Hauserstrasse 1  0 Lupfig,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Grosszelgstrasse 16  0 Würenlos,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Brügglifeld 7  0 Aarau,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Schachenallee 39  0 Aarau,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Schanzmättelistrasse  0 Aarau,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Luzernerstrasse 270  0 Kirchleerau,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Bahnhofstrasse 6  0 Kölliken,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Feldackerstrasse 1  0 Schöftland,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Hauptstrasse 25  0 Holziken,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Hauptstrasse 15  0 Unterentfelden,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Goldernstrasse 28  0 Aarau,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Poststrasse  0 Aarau,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Trottengasse 2  0 Hirschthal,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Laurenzenvorstadt  0 Aarau,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Kasinostrasse  0 Aarau,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Mühlemattstrasse  0 Aarau,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Rosenweg 11  0 Berikon,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Industriestrasse 43  0 Oberentfelden,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Weihermattstrasse 24  0 Aarau,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Neufeldstrasse 2  0 Unterentfelden,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Edisonstrasse 1  0 Buchs,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Industriestrasse 25  0 Buchs,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Mitteldofstrasse 69  0 Buchs,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Mitteldofstrasse 94  0 Buchs,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Bahnhofplatz 3f  0 Aarau,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Moosersäge 9  0 Williberg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Langhaus 1  0 Baden,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Staadmattstrasse  0 Beinwil am See,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Schwarzenbachstrasse 9  5737 Menziken,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Aarauerstrasse 44  0 Reichach,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Sägestrasse 53  0 Lenzburg,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Gislifluhweg 8  0 Rombach,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Wasserfluhstrasse 10  0 Küttigen,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Schulweg  0 Biberstein,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Roberstenstrasse 31  4310 Rheinfelden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Türliackerstrasse 4  0 Spreitenbach,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Poststrasse 1  0 Augst,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Parkhaus Tivoli  0 Spreitenbach,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Rohrerstrasse 30  0 Aarau,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Jurastrasse 42-44  0 Wettingen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Täfernstrasse11  0 Baden-Dättwill,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Bernstrasse 4  0 Oftringen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Bahnhofstrasse 1-3  0 Brugg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Kreuzung Jurastrasse / Kirschenweg  5507 Mellingen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Türliackerstrasse 4  8957 Spreitenbach,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Schachenallee  0 Aarau,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Neumarkt  5200 Brugg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,P+Rail SBB Bahnhofstrasse 80  5507 Mellingen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Klosterzelgstrasse 3  0 Windisch,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Neumattstrasse 36  5000 Aarau,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Industriestrasse 16  0 Wohlen,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Wohlerstrasse  0 Bremgarten,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Hauptstrasse 42  0 Menziken,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Hauptstrasse 66  0 Reinach,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Luzernerstrasse 13  5630 Muri,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Bernstrasse 4  4665 Oftringen,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Neue Aarburgerstrasse 2  0 Rothrist,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Kronenplatz 20  5600 Lenzburg,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Feldstrasse  0 Menziken,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Bleicheweg 6  0 Zofingen,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Parking Oftringen Ost  0 Oftringen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Kuhgässlistrasse 7  0 Würenlingen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Aarauerstrasse 50  0 Rupperswil,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Junkholzweg 5  0 Kaiseraugst,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Seetalstrasse 1  0 Muri,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Hornerstrasse  0 Hendschiken,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Tägerhardstrasse 122  0 Wettingen,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Luzernerstrasse 37  0 Muri,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Augustin Keller-Strasse 31  0 Lenzburg,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Kehrstrasse 10  0 Dintikon,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Parkhaus Shoppi  0 Spreitenbach,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Zentralstrasse  0 Wettingen,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Unterwerkstrasse 9  0 Reinach,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Raststätte Würenlos Richtung Zürich  0 Würenlos,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Turnhallestrasse 623  5728 Gontenschwil,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Hauptstrasse 37  0 Frick,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Hauptstrasse 9  0 Möhlin,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Langgass 4  0 Birrhard,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Untere Rütenenstrasse 1  0 Rheinfelden,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Bahnhofstrasse 14  0 Sisseln,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Aarburgerstrasse 4  0 Zofingen,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Kaisermatt 1  0 Densbüren,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Obere Stumpenbachstrasse 10  0 Reinach,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Landstrasse 99  5430 Wettingen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Schmiedestrasse  5400 Baden,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Violahofweg  4303 Kaiseraugst,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Kuhgässlistrasse  5303 Würenlingen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Industriestrasse  5242 Lupfig,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Badstrasse  5116 Schinznach-Bad,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Weiherweg  5502 Hunzenschwil,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Flugplatz Birrfeld  5242 Lupfig,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Stapferstrasse  5200 Brugg,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Tellistrasse  5004 Aarau,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Gartenstrasse  5400 Baden,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Dr. Martin Erb-Strasse  5330 Bad Zurzach,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Augraben  5620 Bremgarten,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Schulstrasse  4332 Stein,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Dorfstrasse  5213 Villnachern,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Sternenplatz  5605 Dottikon,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Alte St. Urbanstrasse EW Rothrist AG / Pflegheom Sennhof  4803 Vordemwald,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Bernstrasse EW Rothrist AG  4852 Rothrist,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Obere Vorstadt  5001 Aarau,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Spinnereistrasse  5300 Turgi,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Ackerstrasse  5070 Frick,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Bodenackerstrasse  4337 Sisseln,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Baldegg  5400 Baden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Poststrasse  5300 Turgi,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Hauptstrasse 34  5076 Bözen,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Bernstrasse  4852 Rothrist,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Werkhof PP Haupteingang - Moortalstrasse  5722 Gränichen,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Burghaldenstrasse Seifi  5600 Lenzburg,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Schloss Ellsworthweg  5600 Lenzburg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Landstrasse  5415 Nussbaumen,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Bahnhofplatz  5312 Döttingen,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,böhlerstrasse  5726 Unterkulm,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Sandweg  5600 Lenzburg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Im Ergel  5404 Baden,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Hinterdorfstrasse 9-23  5707 Seengen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Schachen  5113 Holderbank,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Grabenstrasse 11  5313 Klingnau,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Friedlisbergstrasse  8965 Berikon,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Sandäckerstrasse  8957 Spreitenbach,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Wuermatt  5082 Kaisten,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Bruggerstrasse 11  5413 Birmenstorf,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Sportplatzweg  4332 Stein,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Dorfstrasse  5417 Untersiggenthal,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Feuergasse  5506 Mägenwil,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Widenplatz  5070 Frick,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Oelrainstrasse  5400 Baden,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Bahnhofstrasse  8965 Berikon,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Strandbadweg  5617 Tennwil,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Landstrasse  5430 Wettingen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Klosterzelgstrasse  5210 Windisch,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Museum Aargau  5707 Seengen,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Strengelbacherstrasse  4800 Zofingen,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Hauptstrasse  5314 Kleindöttingen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Gässliackerstrasse  5415 Nussbaumen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Lenzburgerstrasse  5242 Lupfig,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Schulhausstrasse  5626 Hermetschwil-Staffeln,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Bahnhofstrasse 28  5615 Fahrwangen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Gaswerkstrasse  5200 Brugg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Halbartenstrasse  5430 Wettingen,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Parkplatz Schützen  4310 Rheinfelden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Zelgweg  5404 Baden-Dättwil,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Werkhof PP Mitarbeiter - Moortalstrasse  5722 Gränichen,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Postweg  5722 Gränichen,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Hauptstrasse  5502 Hunzenschwil,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Stadtturmstrassee  5400 Baden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Theaterplatz  5400 Baden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Gassliackerstrasse  5415 Nussbaumen,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Industriestrasse  5644 Auw,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Stampfiweg  4852 Rothrist,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Bahnhofstrasse  5210 Windisch,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Industriestrasse  5630 Muri,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Friedhofweg  5412 Gebenstorf,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Dürrenäscherstrasse  5705 Hallwil,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Obere Vorstadt  5000 Aarau,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Schulhausstrasse  4334 Sisseln,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Fröschweid  4310 Rheinfelden,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Weststrasse  5506 Mägenwil,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Fröhlichstrasse  5200 Brugg,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Achenbergstrasse  5322 Koblenz,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Dorfstrasse  4303 Kaiseraugst,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Kirchweg  5444 Künten,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Unteräschstrasse  5103 Möriken,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Allmend  8967 Widen,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Bremgarterstrasse  8967 Widen,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Schulstrasse  5504 Othmarsingen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Kirchweg  5415 Nussbaumen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Gipfstrasse  5436 Würenlos,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Lenzburgerstrasse  5702 Niederlenz,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Ländliweg  5400 Baden,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Suhrenmattstrasse  5035 Unterentfelden,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Dorfplatz  5702 Niederlenz,unknown,unknown
+Bezirk Baden,ich_tanke_strom,General-Guisan-Strasse  5415 Nussbaumen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Kornfeldweg  5417 Untersiggenthal,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Autobahnraststätte Süd  5742 Kölliken,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Almuesenacherstrasse  5506 Mägenwil,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Lindenmattstrasse  5616 Meisterschwanden,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Umfahrungsstrasse  5322 Koblenz,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Unterer Haldenweg  5600 Lenzburg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Holzrütistrasse  5443 Niederrohrdorf,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Friedhofstrasse  5620 Bremgarten,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Werkhof  5070 Frick,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Entfelderstrasse  5000 Aarau,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Hauptstrasse  5070 Frick,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Hauptstrasse  5200 Brugg,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Hauptstrasse  5742 Kölliken,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Mellingerstrasse 200  5405 Baden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Bahnhofstrasse 2  8957 Spreitenbach,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Köllikerstrasse 80  5036 Oberentfelden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Grabäckerstrasse 58  8957 Spreitenbach,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Rastplatz Othmarsingen  5504 Othmarsingen,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Rastplatz Mumpf Süd  4322 Mumpf,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Rastplatz Mumpf Nord  4322 Mumpf,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Steinachermattweg 1  5033 Buchs,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Hauptstrasse 15  5737 Menziken,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Zürcherstrasse  5432 Neuenhof,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Zürichstrasse 52  4665 Oftringen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Pfisterstrasse 1  5400 Baden,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Strickereistrasse 2b  4663 Aarburg,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Rastplatz Birrhard  5242 Birr,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Im Halt 2  5412 Gebenstorf,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Bahnhofstrasse 11  5200 Brugg,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Grossmattstrasse  Rudolfstetten,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Steingasse  Wohlen,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Industriestrasse  Aarau,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Rümikerstrasse 5A  Elsau,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Campingweg 11  4665 Oftringen,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Wohlerstrasse 18  5620 Bremgarten,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Bodenäckerstrasse 3  8957 Spreitenbach,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Schulhausstrasse 4  5618 Bettwil,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Brühlstrasse 21  5304 Endingen,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Schützenmattweg 20  5610 Wohlen,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Retterswil 13  5703 Seon,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Hauptstrasse 17  4334 Sisseln,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Dorfstrasse 2  8166 Niederweningen,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Büttihaldenweg 100  5070 Frick,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Siloring 7  5606 Dintikon,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Bodenäckerstrasse 1  8957 Spreitenbach,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Emil-Frey-Strasse  5745 Safenwil,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Hendschikerstrasse 18  5504 Othmarsingen,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Muhenstrasse 58  5036 Oberentfelden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Badenerstrasse 7B  5442 Fislisbach,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Eichmattstrasse 18  5612 Villmergen,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Emil Frey Strasse  5745 Safenwil,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Schulhausstrasse 11  5618 Bettwil,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Pulverhausweg 12  5033 Buchs,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Mellingerstrasse 12  5443 Niederrohrdorf,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Tulpenstrasse 597  5732 Zetzwil,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Allmendstrasse 4  5612 Villmergen,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Korbackerweg 19  5502 Hunzenschwil,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Limmatstrasse 2  8957 Spreitenbach,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Zihlstrasse 2  5712 Beinwil am See,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Landstrasse 40  5073 Gipf-Oberfrick,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Bodenfeldstrasse 9  5643 Sins,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Sägeweg 1  5073 Gipf-Oberfrick,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Feldstrasse 26  5107 Schinznach-Dorf,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Rebschulweg 2  5303 Würenlingen,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Mühlestrasse 1  5618 Bettwil,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Landstrasse 15  5417 Untersiggenthal,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Köllikerstrasse 30  5036 Oberentfelden,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Sandgasse 23  5734 Reinach,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Lenzburgerstrasse 38  5507 Mellingen,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Hornimattstrasse 20  5103 Möriken-Wildegg,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Kirchstrasse 2a  4323 Wallbach,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Tägerhardstrasse 8  5436 Würenlos,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Gass 5  5242 Lupfig,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Aarauerstrasse 75  5200 Brugg,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,A1  5745 Safenwil Safenwil,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Marktstrasse 11  5614 Sarmenstorf,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Gheidstrasse 7  5507 Mellingen,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Schürmattstrasse 9  5745 Safenwil Safenwil,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Mitteldorfstrasse 3  5605 Dottikon,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Fahrwangerstrasse 20  5614 Sarmenstorf,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Landstrasse 148  8957 Spreitenbach,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Bohler 5  6221 Rickenbach,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Marktstrasse 5  5630 Muri,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Rössliweg 29/B  4852 Rothrist,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Industriestrasse 19a  5200 Brugg,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Guggibadstrasse 8  6288 Schongau,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Mutschellenstrasse 2  5454 Bellikon,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,u. Brühlstrasse 19  4800 Zofingen,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Helblingstrasse 2  4852 Rothrist,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Hauptstrasse 37  5027 Herznach,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Landstrasse 10  5524 Nesselnbach,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Corneliastrasse 4  8965 Berikon,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Schulstrasse 9  5027 Herznach,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Guggibadstrasse 10  6288 Schongau,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Lindenhofstrasse 21  4665 Oftringen,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Ob. Gasse 368  5064 Wittnau,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Rötlerstrasse 11  5512 Wohlenschwil,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Brauereiweg 7  5600 Lenzburg,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Hammermattenstrasse 11  5600 Lenzburg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Reussstrasse 5  5444 Künten,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Burkertsmatt 11  8967 Widen,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Grossmattstrasse 19  8964 Rudolfstetten,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Buchserstrasse 3  5000 Aarau,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Bahnhofstrasse 15  5623 Boswil,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Birren 10A  5703 Seon,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Mitteldorf 2  5082 Kaisten,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Bahnhofstrasse 25  5647 Oberrüti,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Schürmattstrasse 4  5643 Sins,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Tiliastrasse 7  5603 Staufen,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Gysulastrasse 21D  5000 Aarau,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Hauptstrasse 68  5113 Holderbank,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Brotkorbstrasse 3  4332 Stein,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Guggibadstrasse 10  6288 Schongau Schongau,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Birren 24  5703 Seon,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Grubenstrasse 2  5070 Frick,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Emil Frey Strasse 3  5745 Safenwil,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Bahnhofstrasse 27  5647 Oberrüti,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Mühlestrasse 2  5618 Bettwil,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Weihermattstrasse 94  5000 Aarau,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Bärenzelg 2  5243 Mülligen,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Industriestrasse 1  5616 Meisterschwanden,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Hinterbächlistrasse 8  5452 Oberrohrdorf,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Hauptstrasse 3  5028 Ueken,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Holzikerstrasse 5  5042 Hirschthal,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Hilfikerstrasse 4  5614 Sarmenstorf,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Nordstrasse 1  5610 Wohlen,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Retterswil 12  5703 Seon,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,u. Brühlstrasse 11  4800 Zofingen,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Klosterfeldstrasse 24  5630 Muri,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Industriestrasse 17  5200 Brugg AG,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Vorderbui 4  6287 Aesch,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Mühlemattstrasse 10  5236 Remigen,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Galtenstrasse 3  5272 Gansingen,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Hauptstrasse 29  5043 Holziken,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Alte Aescherstrasse 17  5615 Fahrwangen,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Dorfstrasse 10  5277 Hottwil,unknown,unknown
+Bezirk Kulm,ich_tanke_strom,Hauptstrasse 58  5736 Burg,unknown,unknown
+Bezirk Muri,ich_tanke_strom,Klosterfeldstrasse 26  5630 Muri,unknown,unknown
+Bezirk Zofingen,ich_tanke_strom,Rishaldenweg 40  4852 Rothrist,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Hofackerstrasse 19  4313 Möhlin,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Im Feld 1  5113 Holderbank,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Veltheimerstrasse 2  5107 Schinznach-Dorf,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Kraftwerkstrasse 4  4313 Möhlin,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Birren 18  5703 Seon,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Bahnhofstrasse 66  5605 Dottikon,unknown,unknown
+Bezirk Laufenburg,ich_tanke_strom,Schupfarterstrasse 7  5074 Eiken,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Bruggerstrasse 25  5102 Rupperswil,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Eggenstrasse 5  5615 Fahrwangen,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Zürcherstrasse 141  5432 Neuenhof,unknown,unknown
+Bezirk Bremgarten,ich_tanke_strom,Schulhausstrasse 5  5618 Bettwil,unknown,unknown
+Bezirk Aarau,ich_tanke_strom,Aarenaustrasse 61  5000 Aarau,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Promenadestrasse 22  5330 Bad Zurzach,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Sarmenstorferstrasse 2  5615 Fahrwangen,unknown,unknown
+Bezirk Zurzach,ich_tanke_strom,Ostzelg 340 5332 Rekingen  - -,unknown,unknown
+Bezirk Rheinfelden,ich_tanke_strom,Sportplatzweg 1  4332 Stein,unknown,unknown
+Bezirk Brugg,ich_tanke_strom,Brunnengässli 1  5107 Schinznach-Dorf,unknown,unknown
+Bezirk Lenzburg,ich_tanke_strom,Fabrikstrasse 3  5600 Lenzburg,unknown,unknown
+Bezirk Baden,ich_tanke_strom,Badenerstrasse 33  5442 Fislisbach,unknown,unknown
+Brunegg,mercedes_benz,,unknown,Robert Huber AG
+Windisch,mercedes_benz,,unknown,Robert Huber AG
+Muri AG,mercedes_benz,,unknown,Robert Huber AG
+Leuggern,mercedes_benz,,unknown,Garage Meisel AG
+Wettingen,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Wettingen"
+Seon,mercedes_benz,,unknown,Robert Huber AG
+Aarau Rohr,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Rohr"
+Unterentfelden,mercedes_benz,,unknown,Auto-Schmid AG
+Villmergen,mercedes_benz,,unknown,Robert Huber AG
+Frick,mercedes_benz,,unknown,Walter Hasler AG
+Aarburg,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Aarburg"
+OFTRINGEN,shell,,unknown,SHELL OFTRINGEN.
+UNTERENTFELDEN,shell,,unknown,GARAGE FREY
+GRÄNICHEN,shell,,unknown,MOVERI GRÄNICHEN
+HUNZENSCHWIL,shell,,unknown,SHELL HUNZENSCHWIL.
+NIEDERLENZ,shell,,unknown,PARKTANKSTELLE.
+BOSWIL,shell,,unknown,MIGROL SERVICE BOSWIL.
+MURI,shell,,unknown,FREY LOUIS
+BREMGARTEN,shell,,unknown,SHELL FOHLENWEIDE.
+BRUGG,shell,,unknown,MIGROL SERVICE BRUGG.
+STEIN,shell,,unknown,SHELL STEIN.
+DAETTWIL,shell,,unknown,SHELL BAREGG.
+KOBLENZ,shell,,unknown,MOVERI KOBLENZ
+BAD ZURZACH,shell,,unknown,MOVERI BAD ZURZACH
+SIGGENTAL,shell,,unknown,MIGROL SERVICE WÜRENLINGEN
+BADEN,shell,,unknown,SHELL KAPPELERHOF.
+SINS,shell,,unknown,MIGROL SERVICE SINS.
+KILLWANGEN,shell,,unknown,SHELL KILLWANGEN.
+WÜRENLOS,shell,,unknown,SHELL WÜRENLOS-LIMMAT.
+Wettingen,smart,,unknown,Kenny's Auto-Center AG
+Baden,starbucks_eu,Bahnhofplatz 5400 Baden,unknown,Bahnhof Baden
+Aarau,starbucks_eu,Kasinogarten 5001 Aarau,unknown,Aarau
+Spreitenbach,starbucks_eu,Shopping Center Shoppi Tivoli 8957 Spreitenbach,unknown,Shoppi Tivoli
+Aarau,storebox,Schiffländestrasse 45 5000 Aarau Schweiz ,unknown,Storebox Aarau

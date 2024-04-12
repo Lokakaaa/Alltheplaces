@@ -1,0 +1,12 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4975,abc_pl,abc,,Pieszyce,dolnośląskie,,PL,,,,abc,Q11683985
+395,abc_pl,abc,,Piskorzów,dolnośląskie,,PL,,,,abc,Q11683985
+443,dr_max,"Apteka Dr.Max, Ogrodowa 20A, Pieszyce",,Pieszyce,Dolnośląskie,,PL,+48 74 810 84 58,https://www.drmax.pl/apteki/pieszyce-ogrodowa-20a-2,,Dr. Max,Q56317371
+708,dr_max,"Apteka Dr.Max, Ogrodowa 20a, Pieszyce",,Pieszyce,Dolnośląskie,,PL,,https://www.drmax.pl/apteki/pieszyce-ogrodowa-20a,,Dr. Max,Q56317371
+PEI01M,paczkomat_inpost_pl,Przy wjeździe na parking Netto,,Pieszyce,dolnośląskie,,PL,,https://inpost.pl/paczkomat-pieszyce-pei01m-ogrodowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+PEI02M,paczkomat_inpost_pl,Market Dino,,Pieszyce,dolnośląskie,,PL,,https://inpost.pl/paczkomat-pieszyce-pei02m-ogrodowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+POP-PEI1,paczkomat_inpost_pl,F.H.U. BEMA,,Pieszyce,dolnośląskie,,PL,,https://inpost.pl/paczkomat-pieszyce-pop-pei1-kosciuszki-paczkomaty-dolnoslaskie,Mo-Fr 09:00-17:00; Sa 10:00-14:00,Paczkomat,Q110970254
+POP-PEI2,paczkomat_inpost_pl,FURGONETKA SKLEP WIELOBRANŻOWY ,,Pieszyce,dolnośląskie,,PL,,https://inpost.pl/paczkomat-pieszyce-pop-pei2-tadeusza-kosciuszki-paczkomaty-dolnoslaskie,Mo-Fr 07:00-19:00; Sa 07:00-15:00,Paczkomat,Q110970254
+POP-PSK1,paczkomat_inpost_pl,SKLEP ABC,,Piskorzów,dolnośląskie,,PL,,https://inpost.pl/paczkomat-piskorzow-pop-psk1-piskorzow-paczkomaty-dolnoslaskie,Mo-Sa 06:00-20:00,Paczkomat,Q110970254
+PSRO01M,paczkomat_inpost_pl,Przed sklepem ABC,,Piskorzów,dolnośląskie,,PL,,https://inpost.pl/paczkomat-piskorzow-psro01m-piskorzow-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+259135,poczta_polska_pl,UP Pieszyce,,Pieszyce,DOLNOŚLĄSKIE,,PL,+48 74 836 54 51,,,Poczta Polska,Q168833

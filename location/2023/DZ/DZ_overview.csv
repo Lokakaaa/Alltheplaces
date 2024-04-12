@@ -1,0 +1,163 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,12
+UNKNOWN,alstom,unknown,1
+UNKNOWN,bmw_group,"Hussein-Dey, Alger",1
+ALGER,chicken_street,unknown,1
+MOSTAGANEM,chicken_street,unknown,1
+ORAN,chicken_street,unknown,2
+UNKNOWN,ernst_young,Alger,1
+04,hugo_boss,Algier,1
+UNKNOWN,man_truck_and_bus,Ain Benian,1
+UNKNOWN,man_truck_and_bus,Alger,1
+UNKNOWN,man_truck_and_bus,senia Oran,1
+UNKNOWN,man_truck_and_bus,Setif,1
+UNKNOWN,marriott,Tlemcen,1
+UNKNOWN,marriott,Oran,2
+UNKNOWN,marriott,Algiers,3
+UNKNOWN,marriott,Constantine,2
+UNKNOWN,marriott,Annaba,1
+OUARGLAPROVINCE,mercedes_benz,Hassi-Messaoud,1
+ORANPROVINCE,mercedes_benz,Oran,1
+,mercedes_benz,Annaba,1
+TLEMCENPROVINCE,mercedes_benz,Tlemcen,1
+SÉTIFPROVINCE,mercedes_benz,Sétif,1
+WILAYADALGER,mercedes_benz,Rouiba,2
+WILAYADALGER,mercedes_benz,Alger,1
+ALGIERS,nike,Algiers,1
+UNKNOWN,ovs,Cheraga,1
+UNKNOWN,reebok,Alger,1
+UNKNOWN,renault,BATNA,4
+UNKNOWN,renault,ALGER,24
+UNKNOWN,renault,TLEMCEN,4
+UNKNOWN,renault,ORAN,4
+UNKNOWN,renault,MASCARA,2
+UNKNOWN,renault,OUARGLA,2
+UNKNOWN,renault,RELIZANE,2
+UNKNOWN,renault,BLIDA,6
+UNKNOWN,renault,HADJOUT,2
+UNKNOWN,renault,BOUMERDES,4
+UNKNOWN,renault,KHEMIS MELIANA,2
+UNKNOWN,renault,JIJEL,2
+UNKNOWN,renault,CHLEF,2
+UNKNOWN,renault,DJELFA,2
+UNKNOWN,renault,BOUIRA,2
+UNKNOWN,renault,OUM EL BOUAGHI,4
+UNKNOWN,renault,SKIKDA,2
+UNKNOWN,renault,ANNABA,2
+UNKNOWN,renault,TIZI OUZOU,4
+UNKNOWN,renault,LAGHOUAT,2
+UNKNOWN,renault,EL TARF,2
+UNKNOWN,renault,ADRAR,2
+UNKNOWN,renault,SETIF,6
+UNKNOWN,renault,CONSTANTINE,4
+UNKNOWN,renault,MOSTAGANEM,2
+UNKNOWN,skoda,unknown,21
+UNKNOWN,sunglass_hut_2,Setif,1
+UNKNOWN,sunglass_hut_2,Algiers,2
+UNKNOWN,tommy_hilfiger,Oran,1
+UNKNOWN,tommy_hilfiger,Algiers,1
+UNKNOWN,united_colors_of_benetton,ANNABA,1
+UNKNOWN,united_colors_of_benetton,SETIF,1
+UNKNOWN,united_colors_of_benetton,ORANO,1
+UNKNOWN,united_colors_of_benetton,ALGER,2
+UNKNOWN,visa,ADRAR,1
+UNKNOWN,visa,BECHAR,1
+UNKNOWN,visa,OUARGLA,1
+UNKNOWN,visa,GHARDAIA,1
+UNKNOWN,visa,LAGHOUAT,1
+UNKNOWN,visa,EL OUED,1
+UNKNOWN,visa,BLIDA,2
+UNKNOWN,visa,DJELFA,1
+UNKNOWN,visa,SAIDA,4
+DZ13,visa,TLEMCEN,1
+UNKNOWN,visa,TLEMCEN,2
+UNKNOWN,visa,SIDI BEL ABBES,1
+UNKNOWN,visa,BISKRA,3
+UNKNOWN,visa,AIN TEMOUCHENT,1
+UNKNOWN,visa,MASCARA,1
+UNKNOWN,visa,TIARET,1
+DZ31,visa,ORAN,5
+UNKNOWN,visa,ORAN,6
+ORAN,visa,ORAN,1
+UNKNOWN,visa,RELIZANE,1
+UNKNOWN,visa,MOSTAGANEM,1
+UNKNOWN,visa,MSILA,1
+UNKNOWN,visa,BATNA,1
+UNKNOWN,visa,KHENCHELA,1
+UNKNOWN,visa,CHLEF,2
+UNKNOWN,visa,TEBESSA,1
+UNKNOWN,visa,BORDJ BOU ARRERIDJ,2
+BORDJBOUARRERIDJ,visa,BORDJ BOU ARRERIDJ,1
+UNKNOWN,visa,MEDEA,1
+UNKNOWN,visa,SETIF,2
+UNKNOWN,visa,AIN MLILA,1
+UNKNOWN,visa,BOUIRA,1
+UNKNOWN,visa,TIPAZA,2
+UNKNOWN,visa,BEJAIA,2
+UNKNOWN,visa,AIN DEFLA,1
+UNKNOWN,visa,ALGER,36
+CONSTANTINE,visa,EL-KHROUB,1
+DZ16,visa,ALGER,8
+ALGIERS,visa,ALGIERS,2
+ALGIERS,visa,HYDRA,1
+UNKNOWN,visa,CONSTANTINE,2
+ALGIERS,visa,EL MOURADIA,1
+UNKNOWN,visa,ALGIERS,1
+ALGIERS,visa,DIDOUCH MOURAD,1
+ALGIERS,visa,BENI MESSOUS,1
+DZ25,visa,CONSTANTINE,1
+UNKNOWN,visa,TIZI OUZOU,2
+UNKNOWN,visa,BOUMERDES,1
+UNKNOWN,visa,GUELMA,1
+UNKNOWN,visa,JIJEL,1
+UNKNOWN,visa,SKIKDA,4
+SKIKDA,visa,SKIKDA,1
+UNKNOWN,visa,ANNABA,4
+DZ23,visa,ANNABA,3
+BECHAR,western_union,Bechar,1
+MASCARA,western_union,Mascara,2
+SAIDA,western_union,Saida,2
+MOSTAGANEM,western_union,Mostaganem,1
+SIDIBELABBES,western_union,Sidi Bel Abbes,2
+RELIZANE,western_union,Relizane,1
+ORAN,western_union,Oran,2
+ALGIERS,western_union,Alger,14
+TIPAZA,western_union,Tipaza,5
+BLIDA,western_union,Blida,3
+MEDEA,western_union,Medea,1
+AINDEFLA,western_union,Ain Defla,2
+TIPAZA,western_union,Meurad,1
+AINTEMOUCHENT,western_union,Ain Temouchent,1
+TLEMCEN,western_union,Tlemcen,2
+ADRAR,western_union,Reggane,1
+ADRAR,western_union,Adrar,1
+GHARDAIA,western_union,El Meniaa,1
+TEBESSA,western_union,Minerve,1
+TEBESSA,western_union,Tebessa,3
+OUMELBOUAGHI,western_union,Ain Beida,1
+OUMELBOUAGHI,western_union,Oum El Bouaghi,1
+BOUIRA,western_union,Bechloul,1
+TIZIOUZOU,western_union,Tizi Ouzou,1
+BOUIRA,western_union,Bouira,1
+MSILA,western_union,Bousaada,1
+BEJAIA,western_union,Bejaia,1
+BORDJBOUARRERIDJ,western_union,Bordj Bou Arreridj,2
+JIJEL,western_union,Jijel,4
+ANNABA,western_union,Annaba,3
+SKIKDA,western_union,Skikda,3
+ELTAREF,western_union,El Taref,1
+ELTAREF,western_union,Ain El Assel,1
+ELOUED,western_union,El Oued,1
+SETIF,western_union,Ain Oulmen,1
+ELTAREF,western_union,El Tarf,3
+SETIF,western_union,Setif,1
+BISKRA,western_union,Biskra,3
+MILA,western_union,Tadjenanet,1
+ANNABA,western_union,Sidi Amar,1
+MILA,western_union,Sidi Merouane,1
+MILA,western_union,Chelghoum Laid,1
+ANNABA,western_union,Ain Berda,1
+GUELMA,western_union,Guelma,1
+CONSTANTINE,western_union,Constantine,1
+GUELMA,western_union,Heliopolis,1
+ILLIZI,western_union,Illizi,1

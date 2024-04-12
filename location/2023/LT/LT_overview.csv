@@ -1,0 +1,467 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,8
+VL,adidas,Vilnius,1
+UNKNOWN,alamo,Vilnius,1
+UNKNOWN,alamo,Kaunas,1
+UNKNOWN,alamo,Palanga,1
+UNKNOWN,alamo,Klaipeda,1
+VILNIUSCOUNTY,audi,Vilnius,2
+KLAIPEDOSAPSKRITIS,audi,Klaipeda,1
+KAUNOAPSKRITIS,audi,Kaunas,1
+VILNIUS,avis,Vilnius,1
+KLAIPEDA,avis,Klaipeda,1
+MEETGREETONLY,avis,Palanga,1
+MEETGREETONLY,avis,Kaunas,1
+UNKNOWN,bmw_group,Vilnius,1
+UNKNOWN,bmw_group,Klaipeda,1
+UNKNOWN,bmw_group,Kaunas,1
+UNKNOWN,calvin_klein,Klaipėda,1
+UNKNOWN,crocs_eu,Vilnius,2
+UNKNOWN,crocs_eu,Kaunas,2
+UNKNOWN,crocs_eu,Klaipeda,1
+UNKNOWN,crocs_eu,Šiauliai,1
+VILNIAUSAPSKRITIS,deichmann,Vilnius,7
+VILNIAUSAPSKRITIS,deichmann,PC CUP,1
+UTENOSAPSKRITIS,deichmann,Visaginas,1
+TELŠIŲAPSKRITIS,deichmann,Mažeikiai,1
+ŠIAULIŲAPSKRITIS,deichmann,Šiauliai,2
+PANEVĖŽIOAPSKRITIS,deichmann,Panevėžys,1
+MARIJAMPOLĖSAPSKRITIS,deichmann,Marijampolė,1
+KLAIPĖDOSAPSKRITIS,deichmann,Klaipėda,3
+KAUNOAPSKRITIS,deichmann,Kaunas,5
+KAUNOAPSKRITIS,deichmann,Jonava,1
+ALYTAUSAPSKRITIS,deichmann,Alytus,1
+UNKNOWN,dodo_pizza,Klaipėda,2
+UNKNOWN,dodo_pizza,Vilnius,5
+UNKNOWN,dodo_pizza,Kaunas,1
+UNKNOWN,ecco,Vilnius,5
+UNKNOWN,ecco,Kaunas,3
+UNKNOWN,ecco,Panevezys,1
+UNKNOWN,ecco,Šiauliai,1
+UNKNOWN,ecco,VILNIUS,1
+UNKNOWN,ecco,Klaipėda,1
+UNKNOWN,enterprise,Kaunas,2
+UNKNOWN,enterprise,Vilnius,2
+UNKNOWN,enterprise,Palanga,1
+UNKNOWN,enterprise,Klaipeda,1
+UNKNOWN,ernst_young,Kaunas,1
+UNKNOWN,ernst_young,Vilnius,1
+UNKNOWN,esprit,Vilnius,1
+UNKNOWN,esprit,Kaunas,2
+UNKNOWN,geox,VILNIUS,2
+UNKNOWN,hm,Vilnius,4
+UNKNOWN,hm,Klaipeda,1
+UNKNOWN,hm,Siauliai,1
+UNKNOWN,hm,Panevezys,1
+UNKNOWN,hm,Kaunas,2
+03,hugo_boss,Klaipeda,1
+02,hugo_boss,Kaunas,1
+10,hugo_boss,Vilnius,2
+VILNIUSCOUNTY,ich_tanke_strom,Vilnius,1
+UNKNOWN,ionity,unknown,1
+KAUNOAPSKRITIS,ionity,Mastaičiai,1
+PANEVEZYS,ionity,Panevezys City,1
+UNKNOWN,lidl_lt,Šiauliai,3
+UNKNOWN,lidl_lt,Mažeikiai,1
+UNKNOWN,lidl_lt,Kėdainiai,1
+UNKNOWN,lidl_lt,Kaunas,12
+UNKNOWN,lidl_lt,Plungė,1
+UNKNOWN,lidl_lt,Alytus,2
+UNKNOWN,lidl_lt,Vilnius,20
+UNKNOWN,lidl_lt,Marijampolė,2
+UNKNOWN,lidl_lt,Jonava,1
+UNKNOWN,lidl_lt,Tauragė,1
+UNKNOWN,lidl_lt,Kretinga,1
+UNKNOWN,lidl_lt,Telšiai,1
+UNKNOWN,lidl_lt,Klaipėda,5
+UNKNOWN,lidl_lt,Utena,1
+UNKNOWN,lidl_lt,Naujoji Vilnia,1
+UNKNOWN,lidl_lt,Panevėžys,3
+UNKNOWN,lidl_lt,Ukmergė,1
+UNKNOWN,lidl_lt,Elektrėnai,1
+UNKNOWN,lidl_lt,Palanga,1
+UNKNOWN,lidl_lt,Visaginas,1
+UNKNOWN,lidl_lt,Šilutė,1
+UNKNOWN,lidl_lt,Vilkaviškis,1
+UNKNOWN,lidl_lt,Radviliškis,1
+UNKNOWN,lidl_lt,Druskininkai,1
+UNKNOWN,lidl_lt,Rokiškis,1
+UNKNOWN,lidl_lt,Vilnius Liepkalnis,1
+UNKNOWN,lidl_lt,Kaišiadorys,1
+UNKNOWN,lidl_lt,Kaunas Ringaudai,1
+UNKNOWN,lidl_lt,Kauno r.,1
+UNKNOWN,lidl_lt,Vilnius Karoliniškės,1
+UNKNOWN,lidl_lt,Nemenčinė,1
+UNKNOWN,lidl_lt,Gargždai,1
+UNKNOWN,lukoil,unknown,1
+UNKNOWN,man_truck_and_bus,Kuprioniskes,1
+UNKNOWN,man_truck_and_bus,Kaunas,1
+UNKNOWN,man_truck_and_bus,Klaipėda,1
+UNKNOWN,man_truck_and_bus,Marijampole,1
+UNKNOWN,man_truck_and_bus,Šiauliai,1
+UNKNOWN,marriott,Vilnius,2
+UNKNOWN,marriott,Kaunas,1
+UNKNOWN,maserati,VILNIUS,1
+VILNIAUSAPSKRITIS,mercedes_benz,Vilnius,1
+KLAIPĖDOSAPSKRITIS,mercedes_benz,Sudmantų,1
+KAUNOAPSKRITIS,mercedes_benz,Kaunas,1
+VILNIUSREGION,michaelkors,Vilnius,2
+UNKNOWN,moneygram,VILNIUS,11
+UNKNOWN,moneygram,NEW YORK,1
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,moneygram,ALYTUS,1
+UNKNOWN,moneygram,DRUSKININKAI,1
+UNKNOWN,moneygram,JONISKIS,1
+UNKNOWN,moneygram,KLAIPEDA,2
+UNKNOWN,moneygram,KUPISKIS,1
+UNKNOWN,moneygram,LAZDIJAI,1
+UNKNOWN,moneygram,MAZEIKIAI,1
+UNKNOWN,moneygram,PASVALYS,1
+UNKNOWN,moneygram,PLUNGE,1
+UNKNOWN,moneygram,RASEINIAI,1
+UNKNOWN,moneygram,SALCININKAI,1
+UNKNOWN,moneygram,SIAULIAI,2
+UNKNOWN,moneygram,TAURAGE,1
+UNKNOWN,moneygram,TELSIAI,1
+UNKNOWN,moneygram,UKMERGE,1
+UNKNOWN,moneygram,KEDAINIAI,1
+UNKNOWN,moneygram,PANEVEZYS,2
+UNKNOWN,moneygram,MARIJAMPOLE,1
+UNKNOWN,moneygram,KAUNAS,2
+UNKNOWN,national,Kaunas,1
+UNKNOWN,national,Vilnius,1
+UNKNOWN,national,Palanga,1
+UNKNOWN,national,Klaipeda,1
+UNKNOWN,newyorker,Klaipeda,1
+UNKNOWN,newyorker,Kaunas,2
+UNKNOWN,newyorker,Vilnius,2
+UNKNOWN,newyorker,Siauliai,1
+UNKNOWN,newyorker,Panevezys,1
+UNKNOWN,next,Vilnius,1
+UNKNOWN,next,VILNIUS,1
+UNKNOWN,next,Klaipėda,1
+UNKNOWN,next,KAUNAS,1
+UNKNOWN,nike,Vilnius,1
+KAUNOAPSKRITIS,orlen,Kaunas,5
+VILNIUSCOUNTY,orlen,Vilnius,4
+KAUNOAPSKRITIS,orlen,Ringaudų,1
+VILNIUSCOUNTY,orlen,Kakliniškių,1
+PANEVEZYS,orlen,Panevežys,3
+TAURAGESAPSKRITIS,orlen,Taurage,1
+UNKNOWN,orlen,Prienai,1
+SIAULIUAPSKRITIS,orlen,Šiauliai,1
+UNKNOWN,orlen,Raseiniai,2
+KLAIPEDOSAPSKRITIS,orlen,Šiauliai,1
+ALYTAUSAPSKRITIS,orlen,Alytus,1
+KLAIPEDOSAPSKRITIS,orlen,Klaipeda,2
+UNKNOWN,orlen,Kaišiadorys,1
+TELSIUAPSKRITIS,orlen,Mažeikiai,2
+KLAIPEDOSAPSKRITIS,orlen,Gargždai,1
+TELSIUAPSKRITIS,orlen,Telšiai,1
+KLAIPEDOSAPSKRITIS,orlen,Palanga,1
+MARIJAMPOLESAPSKRITIS,orlen,Marijampole,1
+UNKNOWN,ovs,Siauliai,1
+UNKNOWN,ovs,Vilnius,3
+UNKNOWN,ovs,Klaipeda,1
+UNKNOWN,ovs,Kaunas,3
+UNKNOWN,ovs,Panevezys,1
+UNKNOWN,ovs,Šiauliai,1
+ALYTAUSAPSKRITIS,pepco,Alytus,2
+UNKNOWN,pepco,unknown,14
+VILNIUSCOUNTY,pepco,unknown,16
+VILNIUSCOUNTY,pepco,Vilnius,7
+KLAIPEDOSAPSKRITIS,pepco,unknown,3
+KLAIPEDOSAPSKRITIS,pepco,Klaipeda,7
+VILNIUSCOUNTY,pepco,Vilniaus Rajonas,1
+ALYTAUSAPSKRITIS,pepco,unknown,2
+KAUNOAPSKRITIS,pepco,Kaunas,7
+KAUNOAPSKRITIS,pepco,unknown,7
+PANEVEZYS,pepco,unknown,1
+UTENOSAPSKRITIS,pepco,Anyksciai,1
+KAUNOAPSKRITIS,pepco,Kauno rajonas,1
+TELSIUAPSKRITIS,pepco,Telsiai,1
+TAURAGESAPSKRITIS,pepco,Jurbarkas,1
+TAURAGESAPSKRITIS,pepco,unknown,1
+TELSIUAPSKRITIS,pepco,unknown,3
+PANEVEZYS,pepco,Panevezys City,2
+MARIJAMPOLESAPSKRITIS,pepco,Marijampole Municipality,2
+UTENOSAPSKRITIS,pepco,unknown,1
+SIAULIUAPSKRITIS,pepco,Siauliai,4
+UTENOSAPSKRITIS,pepco,Utena,1
+UNKNOWN,renault,SIAULIAI [LIETUVA],2
+UNKNOWN,renault,KAUNAS [LIETUVA],2
+UNKNOWN,renault,KLAIPEDA [LIETUVA],2
+UNKNOWN,renault,VILNIUS LIETUVA,4
+UNKNOWN,renault,PANEVEZYS [LIETUVA],2
+UNKNOWN,scania,Kauno raj.,1
+UNKNOWN,scania,Klaipėdos r. sav.,1
+UNKNOWN,scania,Šiauliai,1
+UNKNOWN,scania,Vilnius,1
+UNKNOWN,sixt,Siauliai,1
+UNKNOWN,sixt,Druskininkai,1
+UNKNOWN,sixt,Palanga,2
+UNKNOWN,sixt,Vilnius,4
+UNKNOWN,sixt,Karmelava,1
+UNKNOWN,sixt,Klaipeda,2
+UNKNOWN,sixt,"Karmelava, Kaunas distr.",1
+UNKNOWN,speed_queen,Vilnius,6
+UNKNOWN,speed_queen,Didžioji Riešė,1
+UNKNOWN,subway,Vilnius,2
+UNKNOWN,subway,Kaunas,1
+UNKNOWN,subway,Aristava,1
+UNKNOWN,subway,Girenai,1
+UNKNOWN,subway,Jurbarkas,1
+KLAIPEDOSAPSKRITIS,thomas_philipps,Klaipėda,1
+MARIJAMPOLESAPSKRITIS,thomas_philipps,Marijampolė,1
+KAUNOAPSKRITIS,thomas_philipps,Kaunas,2
+SIAULIUAPSKRITIS,thomas_philipps,Šiauliai,1
+VILNIUSCOUNTY,thomas_philipps,Vilnius,2
+UNKNOWN,timberland,Vilnius,1
+UNKNOWN,timberland,Kaunas,1
+UNKNOWN,timberland,Klaipeda,1
+UNKNOWN,tommy_hilfiger,Vilnius,2
+UNKNOWN,tommy_hilfiger,Kaunas,1
+UNKNOWN,totalenergies,KAUNO R. SAV.,1
+DOWOLNY,tui,Alytus,1
+DOWOLNY,tui,Kaunas,1
+DOWOLNY,tui,Klaipeda,1
+DOWOLNY,tui,Kowno,3
+DOWOLNY,tui,Marijampole,1
+DOWOLNY,tui,Panevezys,1
+DOWOLNY,tui,Siauliai,1
+DOWOLNY,tui,Wilno,6
+DOWOLNY,tui,Wilno ,1
+UNKNOWN,united_colors_of_benetton,KLAIPEDA,1
+UNKNOWN,united_colors_of_benetton,SIAULIAI,1
+UNKNOWN,united_colors_of_benetton,KAUNAS,2
+UNKNOWN,united_colors_of_benetton,VILNIUS,2
+UNKNOWN,united_colors_of_benetton,PANEVEZYS,1
+UNKNOWN,visa,VEISIEJAI,1
+UNKNOWN,visa,DRUSKININKAI,10
+UNKNOWN,visa,DRUSKININKU SAV.,3
+UNKNOWN,visa,LAZDIJAI,4
+UNKNOWN,visa,KALVARIJOS RAJ.,1
+UNKNOWN,visa,KALVARIJA,3
+UNKNOWN,visa,VILKAVISKIS,7
+UNKNOWN,visa,KYBARTAI,2
+UNKNOWN,visa,SIMNAS,1
+UNKNOWN,visa,MARIJAMPOLE,19
+UNKNOWN,visa,MARIJAMPOLES SAV.,3
+UNKNOWN,visa,VARENOS R. SAV.,1
+UNKNOWN,visa,VARENA,5
+UNKNOWN,visa,ALYTUS,33
+UNKNOWN,visa,NERINGA,2
+UNKNOWN,visa,NIDA,2
+UNKNOWN,visa,NERINGOS SAV.,1
+UNKNOWN,visa,EISISKES,1
+UNKNOWN,visa,PAGEGIAI,3
+UNKNOWN,visa,KAZLU RUDA,2
+UNKNOWN,visa,SILUTE,10
+UNKNOWN,visa,SILUTES R. SAV.,2
+UNKNOWN,visa,BIRSTONO SAV.,1
+UNKNOWN,visa,BIRSTONAS,2
+UNKNOWN,visa,PRIENU R. SAV.,1
+UNKNOWN,visa,PRIENAI,6
+UNKNOWN,visa,SAKIAI,4
+UNKNOWN,visa,JURBARKAS,5
+UNKNOWN,visa,JURBARKO R. SAV.,1
+UNKNOWN,visa,TAURAGE,9
+UNKNOWN,visa,TAURAGES R. SAV.,2
+UNKNOWN,visa,SALCININKAI,4
+UNKNOWN,visa,PRIEKULE,1
+UNKNOWN,visa,GARLIAVA,5
+UNKNOWN,visa,RINGAUDAI,1
+UNKNOWN,visa,KAUNAS,167
+UNKNOWN,visa,AKADEMIJA,2
+UNKNOWN,visa,KLAIPEDA,99
+UNKNOWN,visa,PLUNGE,10
+UNKNOWN,visa,KLAIPEDOS R.,1
+UNKNOWN,visa,VILKIJA,2
+UNKNOWN,visa,TRAKAI,6
+UNKNOWN,visa,SILALE,4
+UNKNOWN,visa,GARGZDAI,8
+UNKNOWN,visa,KLAIPEDOS R. SAV.,1
+UNKNOWN,visa,VILNIUS,333
+UNKNOWN,visa,RAMUCIAI,1
+UNKNOWN,visa,KVEDARNA,1
+UNKNOWN,visa,LENTVARIS,5
+UNKNOWN,visa,TRAKU VOKE,2
+UNKNOWN,visa,SKAUDVILE,1
+UNKNOWN,visa,KARMELAVA,3
+UNKNOWN,visa,KARMĖLAVA,1
+UNKNOWN,visa,ELEKTRENAI,5
+UNKNOWN,visa,KAISIADORYS,8
+UNKNOWN,visa,KAISIADORIU R. SAV.,1
+UNKNOWN,visa,ELEKTRENU SAV.,1
+UNKNOWN,visa,KAUNO R. SAV.,1
+UNKNOWN,visa,GRIGISKES,2
+UNKNOWN,visa,RUDAMINA,1
+UNKNOWN,visa,VIEVIS,2
+UNKNOWN,visa,PALANGA,23
+UNKNOWN,visa,KRETINGA,13
+UNKNOWN,visa,KRETINGOS R. SAV.,1
+UNKNOWN,visa,ARIOGALA,1
+UNKNOWN,visa,RASEINIAI,8
+UNKNOWN,visa,RASEINIU R. SAV.,1
+UNKNOWN,visa,RIETAVAS,1
+UNKNOWN,visa,N.VILNIA,2
+UNKNOWN,visa,NAUJOJI VILNIA,1
+UNKNOWN,visa,JONAVA,13
+UNKNOWN,visa,JONAVOS R. SAV.,2
+UNKNOWN,visa,RUKLA,1
+UNKNOWN,visa,DIDZIOJI RIESE,3
+UNKNOWN,visa,SVENTOJI,1
+UNKNOWN,visa,ŠVENTOJI,1
+UNKNOWN,visa,D.RIESE,1
+UNKNOWN,visa,DIDZIOJI REISE,1
+UNKNOWN,visa,TELSIAI,14
+UNKNOWN,visa,VARNIAI,1
+UNKNOWN,visa,KEDAINIU R. SAV.,2
+UNKNOWN,visa,KEDAINIAI,14
+UNKNOWN,visa,UTENA,18
+UNKNOWN,visa,KELME,7
+UNKNOWN,visa,NEMENCINE,2
+UNKNOWN,visa,SIRVINTOS,5
+UNKNOWN,visa,TYTUVENAI,1
+UNKNOWN,visa,SALANTAI,1
+UNKNOWN,visa,MOLETAI,5
+UNKNOWN,visa,UKMERGE,10
+UNKNOWN,visa,UKMERGES R. SAV.,2
+UNKNOWN,visa,UKMERGES R.,1
+UNKNOWN,visa,PABRADE,3
+UNKNOWN,visa,BAISIOGALA,1
+UNKNOWN,visa,SKUODAS,6
+UNKNOWN,visa,KREKENAVA,1
+UNKNOWN,visa,SEDA,1
+UNKNOWN,visa,TRYSKIAI,1
+UNKNOWN,visa,RADVILISKIO R. SAV.,2
+UNKNOWN,visa,RADVILISKIS,9
+UNKNOWN,visa,SEDUVA,1
+UNKNOWN,visa,SIAULIAI,61
+UNKNOWN,visa,KURSENAI,6
+UNKNOWN,visa,SIAULIU R. SAV.,1
+UNKNOWN,visa,ŠIAULIAI,1
+UNKNOWN,visa,GINKUNAI,1
+UNKNOWN,visa,MAZEIKIAI,17
+UNKNOWN,visa,SVENCIONELIAI,2
+UNKNOWN,visa,VENTA,1
+UNKNOWN,visa,PANEVEZYS,54
+UNKNOWN,visa,SVENCIONYS,3
+UNKNOWN,visa,MAZEIKIU R. SAV.,1
+UNKNOWN,visa,ANYKSCIAI,7
+UNKNOWN,visa,ANYKSCIU R. SAV.,1
+UNKNOWN,visa,AKMENE,1
+UNKNOWN,visa,PAKRUOJIS,3
+UNKNOWN,visa,N. AKMENE,3
+UNKNOWN,visa,N.AKMENE,1
+UNKNOWN,visa,IGNALINA,4
+UNKNOWN,visa,IGNALINOS R. SAV.,1
+UNKNOWN,visa,JONISKIS,6
+UNKNOWN,visa,JONISKIO R. SAV.,1
+UNKNOWN,visa,KUPISKIS,5
+UNKNOWN,visa,ZAGARE,1
+UNKNOWN,visa,PASVALYS,5
+UNKNOWN,visa,DUSETOS,1
+UNKNOWN,visa,VISAGINAS,9
+UNKNOWN,visa,VISAGINO SAV.,2
+UNKNOWN,visa,BIRZAI,7
+UNKNOWN,visa,ROKISKIS,7
+UNKNOWN,visa,PAROKISKES KM.,1
+UNKNOWN,visa,ZARASAI,4
+UNKNOWN,visa,ROKISKIO R. SAV.,1
+VILNIAUSRSAV,western_union,Rukainiai,1
+SALCININKURSAV,western_union,Salcininkai,1
+SALCININKURSAV,western_union,Jasiunai,1
+SVENCIONIURSAV,western_union,Svencionys,1
+PABRADESRSAV,western_union,Pabrade,1
+VILNIAUSMSAV,western_union,Vilnius,27
+VILNIAUSRSAV,western_union,Rudamina,1
+VILNIAUSRSAV,western_union,Juodsiliai,1
+VILNIAUSRSAV,western_union,Nemencine,1
+VILNIAUSMSAV,western_union,Salininkai,1
+SVENCIONIURSAV,western_union,Svencioneliai,1
+VILNIUS,western_union,Vilnius,7
+AKMENESRSAV,western_union,Akmene,1
+AKMENESRSAV,western_union,Venta,1
+AKMENESRSAV,western_union,Naujoji Akmene,1
+PAGEGIURSAV,western_union,Pagegiai,1
+SILALESRSAV,western_union,Silale,1
+TELSIURSAV,western_union,Varniai,1
+JONISKIORSAV,western_union,Zagare,1
+TAURAGESRSAV,western_union,Taurage,1
+SIAULIURSAV,western_union,Kursenai,1
+KELMESRSAV,western_union,Uzventis,1
+TAURAGESRSAV,western_union,Skaudvile,1
+KELMESRSAV,western_union,Kelme,1
+JURBARKORSAV,western_union,Smalininkai,1
+SIAULIUMSAV,western_union,Siauliai,3
+SIAULIAI,western_union,Siauliai,1
+JONISKIORSAV,western_union,Joniskis,1
+KALVARIJOSRSAV,western_union,Kalvarija,1
+RASEINIURSAV,western_union,Ariogala,1
+ZARASURSAV,western_union,Zarasai,1
+PASVALIORSAV,western_union,Pasvalys,1
+BIRZURSAV,western_union,Birzai,1
+VILKAVISKIORSAV,western_union,Vilkaviskis,1
+RADVILISKIORSAV,western_union,Radviliskis,1
+RADVILISKIORSAV,western_union,Seduva,1
+SAKIURSAV,western_union,Sakiai,1
+PASVALIORSAV,western_union,Joniskelis,1
+SAKIURSAV,western_union,Kudirkos Naumiestis,1
+PAKRUOJORSAV,western_union,Pakruojis,1
+RASEINIURSAV,western_union,Raseiniai,1
+VILKAVISKIORSAV,western_union,Kybartai,1
+PAKRUOJORSAV,western_union,Linkuva,1
+KAUNORSAV,western_union,Ezerelis,1
+KAZLURUDOSRSAV,western_union,Kazlu Ruda,1
+PANEVEZIOMSAV,western_union,Panevezys,3
+PANEVEZYS,western_union,Panevezys,2
+KAUNORSAV,western_union,Vilkija,1
+MARIJAMPOLESRSAV,western_union,Marijampole,1
+BIRZURSAV,western_union,Vabalninkas,1
+KAUNOMSAV,western_union,Kaunas,18
+KAUNAS,western_union,Kaunas,5
+LAZDIJURSAV,western_union,Veisiejai,1
+KAUNORSAV,western_union,Akademija,1
+ALYTAUSRSAV,western_union,Simnas,1
+KUPISKIORSAV,western_union,Subacius,1
+KAUNORSAV,western_union,Raudondvaris,1
+KEDAINIURSAV,western_union,Kedainiai,1
+LAZDIJURSAV,western_union,Lazdijai,1
+ROKISKIORSAV,western_union,Rokiskis,1
+KAUNORSAV,western_union,Garliava,1
+ALYTUS,western_union,Alytus,1
+ALYTAUSMSAV,western_union,Alytus,1
+KAUNORSAV,western_union,Birstonas,1
+JONAVOSRSAV,western_union,Jonava,1
+DRUSKININKURSAV,western_union,Druskininkai,1
+ANYKSCIURSAV,western_union,Troskunai,1
+PRIENURSAV,western_union,Prienai,1
+ROKISKIORSAV,western_union,Obeliai,1
+KAUNORSAV,western_union,Karmelava,1
+VILNIAUSRSAV,western_union,Didzioji Riese,1
+VILNIAUSMSAV,western_union,Traku Voke,1
+VILNIAUSRSAV,western_union,Avizieniai,1
+SALCININKURSAV,western_union,Eisiskes,1
+IGNALINOSRSAV,western_union,Ignalina,1
+VILNIAUSMSAV,western_union,Grigiskes,1
+TRAKURSAV,western_union,Lentvaris,1
+TRAKURSAV,western_union,Trakai,1
+TRAKURSAV,western_union,Rudiskes,1
+MOLETURSAV,western_union,Moletai,1
+ELEKTRENURSAV,western_union,Vievis,1
+VISAGINORSAV,western_union,Visaginas,1
+SIRVINTURSAV,western_union,Sirvintos,1
+VARENOSRSAV,western_union,Varena,1
+ELEKTRENURSAV,western_union,Elektrenai,1
+UTENOSRSAV,western_union,Utena,1
+KAUNORSAV,western_union,Ziezmariai,1
+KAISIADORIURSAV,western_union,Kaisiadorys,1
+UKMERGESRSAV,western_union,Ukmerge,1
+ZARASURSAV,western_union,Dusetos,1
+ANYKSCIURSAV,western_union,Anyksciai,1
+ANYKSCIURSAV,western_union,Kavarskas,1
+PRIENURSAV,western_union,Jieznas,1
+KELMESRSAV,western_union,Tytuvenai,1
+JURBARKORSAV,western_union,Jurbarkas,1
+NERINGOSRSAV,western_union,Nida,1

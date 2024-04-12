@@ -1,0 +1,6 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1361343,usps,DRY BRANCH,,DRY BRANCH,GA,,US,+1 478-741-5170,,"Mo-Fr 08:00-12:00,13:00-15:00; Sa 08:00-11:15",United States Postal Service,Q668687
+3102000000,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,5615 JEFFERSONVILLE RD,DRY BRANCH,GA,,US,,,,United States Postal Service,Q668687
+3102000001,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,5615 JEFFERSONVILLE RD,DRY BRANCH,GA,,US,,,,United States Postal Service,Q668687
+3102000004,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,5615 JEFFERSONVILLE RD,DRY BRANCH,GA,,US,,,,United States Postal Service,Q668687
+,visa,,,DRY BRANCH,GA,,US,,,,,

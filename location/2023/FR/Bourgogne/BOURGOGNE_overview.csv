@@ -1,0 +1,221 @@
+City,Place Name,Zipcode,Name
+AUXERRE,audi,37 Avenue Charles De Gaulle AUXERRE 89000,unknown,SAS JEANNIN AUTOPRESTIGE 89
+NEVERS,audi,10 Boulevard du grands Près des Bordes NEVERS 58000,unknown,SAS NEVERS PREMIUM AUTOMOBILES
+CHALON SUR SAONE,audi,9 Avenue de l'Automobile CHALON SUR SAONE 71100,unknown,SAS SAONE PREMIUM AUTOMOBILES
+MACON,audi,22 Rue du 134ème Régiment d'Infanterie MACON 71000,unknown,SAS SAONE PREMIUM AUTOMOBILES
+BEAUNE (LADOIX SERRIGNY),audi,61 Route de Beaune BEAUNE (LADOIX SERRIGNY) 21550,unknown,GVA BYMYCAR BOURGOGNE
+DIJON (CHENOVE),audi,5 RUE des Freres Montgolfier DIJON (CHENOVE) 21300,unknown,GVA BYMYCAR BOURGOGNE
+MONTCEAU LES MINES,audi,20 Avenue du Marechal Leclerc MONTCEAU LES MINES 71300,unknown,SOVA BRENOT SAS
+SENS,audi,21 Rue des Carrieres SENS 89100,unknown,JEANNIN AUTOMOBILES SAS
+AUXERRE,cic,,unknown,CIC AUXERRE - CIC JOIGNY
+JOIGNY,cic,,unknown,CIC AUXERRE
+SENS,cic,,unknown,CIC
+LE CREUSOT,cic,,unknown,CIC AUTUN
+CHAUFFAILLES,cic,,unknown,CIC
+AUTUN,cic,,unknown,CIC AUTUN - CIC LE CREUSOT
+MONTCEAU LES MINES,cic,,unknown,CIC
+MARCIGNY,cic,,unknown,CIC CHARLIEU
+NEVERS,cic,,unknown,CIC
+CHATILLON SUR SEINE,cic,,unknown,CIC MONTBARD
+MONTBARD,cic,,unknown,CIC MONTBARD - CIC CHATILLON SUR SEINE
+CHALON SUR SAONE,cic,,unknown,CIC CHALON SUR SAONE - CIC SAINT MARCEL
+ST MARCEL,cic,,unknown,CIC CHALON SUR SAONE
+LOUHANS,cic,,unknown,CIC LOUHANS - CIC TOURNUS
+COSNE COURS SUR LOIRE,cic,,unknown,CIC
+DIJON,cic,,unknown,CIC DIJON JUNOT
+NUITS ST GEORGES,cic,,unknown,CIC
+CHENOVE,cic,,unknown,CIC
+AUXONNE,cic,,unknown,CIC
+CHEVIGNY ST SAUVEUR,cic,,unknown,CIC
+CHAGNY,cic,,unknown,CIC
+BEAUNE,cic,,unknown,CIC
+TOURNUS,cic,,unknown,CIC LOUHANS
+MACON,cic,,unknown,CIC
+CHALON SUR SAONE,cigusto_fr,,unknown,CIGUSTO CHALON SUR SAONE
+COULANGES LES NEVERS,e_leclerc,,unknown,NEVERS
+SAINT ELOI,e_leclerc,,unknown,Express Saint-Eloi
+NEVERS,e_leclerc,,unknown,Drive Nevers
+Saint-Eloi,e_leclerc,,unknown,Drive Saint-Eloi
+MIGENNES,e_leclerc,,unknown,Location
+EPINEAU LES VOVES,e_leclerc,,unknown,DRIVE Relais Epineau-Les-Voves
+BRIENON SUR ARMANCON,e_leclerc,,unknown,Express Brienon-sur-Armançon
+Migennes,e_leclerc,,unknown,Drive MIGENNES
+MARSANNAY LA COTE,e_leclerc,,unknown,Drive Marsannay-la-Côte
+Longvic,e_leclerc,,unknown,E.Leclerc DRIVE Longvic
+CLAMECY,e_leclerc,,unknown,Drive Clamecy
+MACON,e_leclerc,,unknown,Drive Mâcon
+AUXERRE,e_leclerc,,unknown,DRIVE Relais Auxerre Centre Ville
+AUXERRE-PERRIGNY,e_leclerc,,unknown,Drive Auxerre - Perrigny
+DIJON,e_leclerc,,unknown,Drive Dijon Capnord
+FONTAINE LES DIJON,e_leclerc,,unknown,Express Fontaine-Lès-Dijon
+Quetigny,e_leclerc,,unknown,Quetigny
+DECIZE,e_leclerc,,unknown,Drive Decize
+LE BREUIL,e_leclerc,,unknown,Drive Le Breuil
+SAINT DENIS LES SENS,e_leclerc,,unknown,Location
+SENS,e_leclerc,,unknown,Relais Sens
+MAILLOT,e_leclerc,,unknown,Drive Maillot / Sens
+BEAUNE,e_leclerc,,unknown,Drive Beaune
+LEVERNOIS,e_leclerc,,unknown,Station service Beaune Hospices
+CHALON SUR SAONE,e_leclerc,,unknown,CHALON SUR SAONE
+CHATENOY LE ROYAL,e_leclerc,,unknown,Drive Chatenoy-le-Royal
+Chalon-sur-Saône,e_leclerc,,unknown,DRIVE Chalon-sur-Saône
+TONNERRE,e_leclerc,,unknown,Drive Tonnerre
+AUXONNE,e_leclerc,,unknown,Drive Auxonne
+PARAY LE MONIAL,e_leclerc,,unknown,Drive Paray-le-Monial
+LOUHANS,e_leclerc,,unknown, Drive Louhans
+MONTCEAU LES MINES,e_leclerc,,unknown,Drive Montceau-les-Mines
+AUTUN CEDEX,e_leclerc,,unknown,Drive Autun
+AUTUN,e_leclerc,,unknown,Location
+DIGOIN,e_leclerc,,unknown,Drive Digoin
+LUX,e_leclerc,,unknown,Drive Lux
+SEVREY,e_leclerc,,unknown,Jardi
+Vitteaux,fedex,,unknown,unknown
+Villeneuve Sur Yonne,fedex,,unknown,unknown
+Villeneuve L Archeveque,fedex,,unknown,unknown
+Villefargeau,fedex,,unknown,unknown
+Vermenton,fedex,,unknown,unknown
+Venoy,fedex,,unknown,unknown
+Venarey Les Laumes,fedex,,unknown,unknown
+Vaux Sous Aubigny,fedex,,unknown,unknown
+Varzy,fedex,,unknown,unknown
+Varennes Vauzelles,fedex,,unknown,unknown
+Valravillon,fedex,,unknown,unknown
+Tournus,fedex,,unknown,unknown
+Toucy,fedex,,unknown,unknown
+Tonnerre,fedex,,unknown,unknown
+Thorey En Plaine,fedex,,unknown,unknown
+Talant,fedex,,unknown,unknown
+St Vallier,fedex,,unknown,unknown
+St Valerien,fedex,,unknown,unknown
+St Seine L Abbaye,fedex,,unknown,unknown
+St Pierre Le Moutier,fedex,,unknown,unknown
+St Pierre Du Mont,fedex,,unknown,unknown
+St Pere,fedex,,unknown,unknown
+St Marcel,fedex,,unknown,FedEx Express FR
+St Leger Des Vignes,fedex,,unknown,unknown
+St Julien,fedex,,unknown,unknown
+St Julien Du Sault,fedex,,unknown,unknown
+St Jean De Losne,fedex,,unknown,unknown
+St Georges Sur Baulche,fedex,,unknown,unknown
+St Gengoux De Scisse,fedex,,unknown,unknown
+St Florentin,fedex,,unknown,unknown
+St Fargeau,fedex,,unknown,unknown
+St Clement,fedex,,unknown,unknown
+St Benin D Azy,fedex,,unknown,unknown
+St Apollinaire,fedex,,unknown,unknown
+St Amand En Puisaye,fedex,,unknown,unknown
+St Agnan,fedex,,unknown,unknown
+Soucy,fedex,,unknown,unknown
+Simard,fedex,,unknown,unknown
+Seurre,fedex,,unknown,unknown
+Sens,fedex,,unknown,unknown
+Semur En Auxois,fedex,,unknown,unknown
+Selongey,fedex,,unknown,unknown
+Savigny Les Beaune,fedex,,unknown,unknown
+Saulieu,fedex,,unknown,unknown
+Salornay Sur Guye,fedex,,unknown,unknown
+Romenay,fedex,,unknown,unknown
+Quetigny,fedex,,unknown,unknown
+Prisse,fedex,,unknown,unknown
+Premery,fedex,,unknown,unknown
+Pouilly Sur Loire,fedex,,unknown,unknown
+Pouilly En Auxois,fedex,,unknown,unknown
+Pougues Les Eaux,fedex,,unknown,unknown
+Pontailler Sur Saone,fedex,,unknown,unknown
+Pont Sur Yonne,fedex,,unknown,unknown
+Pierreclos,fedex,,unknown,unknown
+Perrigny Les Dijon,fedex,,unknown,unknown
+Pagny Le Chateau,fedex,,unknown,unknown
+Nuits,fedex,,unknown,unknown
+Nuits St Georges,fedex,,unknown,unknown
+Noyers,fedex,,unknown,unknown
+Nevers,fedex,,unknown,unknown
+Nailly,fedex,,unknown,unknown
+Moulins Engilbert,fedex,,unknown,unknown
+Montsauche Les Settons,fedex,,unknown,unknown
+Montceau Les Mines,fedex,,unknown,unknown
+Montbard,fedex,,unknown,unknown
+Mont St Sulpice,fedex,,unknown,unknown
+Moneteau,fedex,,unknown,unknown
+Mirebeau Sur Beze,fedex,,unknown,unknown
+Migennes,fedex,,unknown,unknown
+Meursault,fedex,,unknown,unknown
+Mercurey,fedex,,unknown,unknown
+Marzy,fedex,,unknown,unknown
+Marsannay La Cote,fedex,,unknown,unknown
+Marcigny,fedex,,unknown,unknown
+Maligny,fedex,,unknown,unknown
+Maillot,fedex,,unknown,unknown
+Macon,fedex,,unknown,unknown
+Luzy,fedex,,unknown,unknown
+Lux,fedex,,unknown,unknown
+Lugny,fedex,,unknown,unknown
+Louhans,fedex,,unknown,unknown
+Losne,fedex,,unknown,unknown
+Lormes,fedex,,unknown,unknown
+Longvic,fedex,,unknown,FedEx Express FR
+Longecourt En Plaine,fedex,,unknown,unknown
+Longchamp,fedex,,unknown,unknown
+Lindry,fedex,,unknown,unknown
+Les Sieges,fedex,,unknown,unknown
+Le Creusot,fedex,,unknown,unknown
+La Clayette,fedex,,unknown,unknown
+La Charite Sur Loire,fedex,,unknown,unknown
+La Chapelle De Guinchay,fedex,,unknown,unknown
+L Isle Sur Serein,fedex,,unknown,unknown
+Joigny,fedex,,unknown,unknown
+Is Sur Tille,fedex,,unknown,unknown
+Imphy,fedex,,unknown,unknown
+Gueugnon,fedex,,unknown,unknown
+Guerigny,fedex,,unknown,unknown
+Gron,fedex,,unknown,unknown
+Givry,fedex,,unknown,unknown
+Gevrey Chambertin,fedex,,unknown,unknown
+Genelard,fedex,,unknown,unknown
+Fourchambault,fedex,,unknown,unknown
+Fontaine Les Dijon,fedex,,unknown,unknown
+Fontaine Francaise,fedex,,unknown,unknown
+Etang Sur Arroux,fedex,,unknown,unknown
+Donzy,fedex,,unknown,unknown
+Dijon,fedex,,unknown,unknown
+Digoin,fedex,,unknown,unknown
+Decize,fedex,,unknown,unknown
+Cuy,fedex,,unknown,unknown
+Cuisery,fedex,,unknown,unknown
+Coulanges Sur Yonne,fedex,,unknown,unknown
+Coulanges Les Nevers,fedex,,unknown,unknown
+Couchey,fedex,,unknown,unknown
+Cosne Cours Sur Loire,fedex,,unknown,unknown
+Corgoloin,fedex,,unknown,unknown
+Corbigny,fedex,,unknown,unknown
+Clamecy,fedex,,unknown,unknown
+Chevigny St Sauveur,fedex,,unknown,unknown
+Chevannes,fedex,,unknown,unknown
+Chenove,fedex,,unknown,unknown
+Chauffailles,fedex,,unknown,unknown
+Chatillon Sur Seine,fedex,,unknown,unknown
+Chatenoy Le Royal,fedex,,unknown,unknown
+Chateau Chinon,fedex,,unknown,unknown
+Charny,fedex,,unknown,unknown
+Charnay Les Macon,fedex,,unknown,unknown
+Champigny,fedex,,unknown,unknown
+Chalon Sur Saone,fedex,,unknown,unknown
+Chaintre,fedex,,unknown,unknown
+Chagny,fedex,,unknown,unknown
+Cerisiers,fedex,,unknown,unknown
+Cercy La Tour,fedex,,unknown,unknown
+MACON,ikks,,unknown,IKKS Junior MACON
+CHALON SUR SAONE,ikks,,unknown,IKKS Women CHALON SUR SAONE
+MONTCEAU LES MINES,ikks,,unknown,XandO Women MONTCEAU LES MINES
+BEAUNE,ikks,,unknown,XandO Women Men BEAUNE
+DIJON,ikks,,unknown,IKKS Women Men DIJON
+AUTUN,ikks,,unknown,XandO JUNIOR AUTUN
+Departement de la Cote-d'Or,ionity,,unknown,Bois Guillerot
+Departement de l'Yonne,ionity,,unknown,La Réserve
+Departement de Saone-et-Loire,ionity,,unknown,Mâcon Saint-Albain
+71000 MACON,starbucks_eu,57 RUE CARNOT 71000 MACON,unknown,Macon Carnot
+71460 Saint-Albain,starbucks_eu,Aire de Macon Saint Albain A6 MW 71460 Saint-Albain,unknown,Aire de Macon Saint Albain (A6 MW)
+71100 CHALONS SUR SAONE,starbucks_eu,40 GRANDE RUE 71100 CHALONS SUR SAONE,unknown,Chalon sur Saone Grand Rue
+Merceuil,starbucks_eu,A6 Merceuil Aire de Beaune Tailly 21190 Merceuil,unknown,Merceuil- Aire d Beaune-Tailly (A6)
+Dijon,starbucks_eu,61 rue de la liberte 21000 Dijon,unknown,Dijon Liberte
+Dijon,starbucks_eu,Route de Langres BP 77 864 21000 Dijon,unknown,DIJON TOISON

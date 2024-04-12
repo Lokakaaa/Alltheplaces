@@ -1,0 +1,685 @@
+City,Place Name,Zipcode,Name
+São Paulo,audi,Rua Antônio Camardo 141 03309-060 São Paulo,unknown,AC Tatuapé
+Campinas,audi,Avenida Orosimbo Maia 2653 13024-035 Campinas,unknown,AC Campinas
+São José dos Campos,audi,Av Jorge Zarur 181 12243-081 São José dos Campos,unknown,AC São José dos Campos
+São José do Rio Preto,audi,Avenida Pres. Juscelino Kubitschek de Oliveira 3600 15093-225 São José do Rio Preto,unknown,AC Rio Preto
+Mogi das Cruzes,audi,Av. Francisco Ferreira Lopes 535 08735-200 Mogi das Cruzes,unknown,AC Mogi
+São Paulo,audi,Alameda Araguaia 2011 06455-000 São Paulo,unknown,AC Alphaville
+Ribeirão Preto,audi,Avenida Wladimir Meirelles Ferreira 1566 14021-630 Ribeirão Preto,unknown,AC Ribeirão Preto
+São Paulo,audi,Aeroporto de Congonhas Edifício Garagem - Piso G2 - VIP s/n 04626-911 São Paulo,unknown,Audi Service Aeroporto
+Santo André,audi,Rua Catequese 345 09090-400 Santo André,unknown,AC ABC
+São Paulo,audi,Rua Clodomiro Amazonas 1040 04537-002 São Paulo,unknown,AC Itaim
+São Paulo,audi,Avenida Duquesa de Goiás 800 05686-002 São Paulo,unknown,AC Morumbi
+Santos,audi,Rua Brás Cubas 340 11013-162 Santos,unknown,AC Santos
+Sorocaba,audi,Av. Doutor Armando Pannunzio 1091 18050-000 Sorocaba,unknown,AC Sorocaba
+São Paulo,audi,Avenida Ermano Marchetti 826 05038-000 São Paulo,unknown,AC Lapa
+São Paulo,bmw_group,,unknown,Power Motors Distr. Veics. Ltda.
+Santos,bmw_group,,unknown,Power Motors Distr. Veics. Ltda.
+São Paulo,botteg_aveneta,,unknown,São Paulo - JK Iguatemi
+Campinas,ernst_young,Edifício Trade Tower Av. José de Souza Campos 900 1º andar - Nova Campinas,unknown,EY
+São Paulo,ernst_young,São Paulo Corporate Towers - Avenida Presidente Juscelino Kubitschek 1909 Torre Norte 6º ao 10º andar Itaim Bibi,unknown,EY
+São Paulo,ernst_young,São Paulo Corporate Towers - Avenida Presidente Juscelino Kubitschek 1909 - Torre Norte - Itaim Bibi,unknown,EY-Parthenon Sao Paulo
+São Paulo (CENESP),ernst_young,Centro Empresarial de São Paulo - CENESP Av. Maria Coelho Aguiar 215 Bloco B 4º Andar Jardim São Luiz,unknown,EY
+Ribeirão Preto,ernst_young,Iguatemi Business - Av. Luiz Eduardo Toledo Prado 900 - torre 2 - Vila do Golfe,unknown,EY
+Sao Paulo,google_offices,"Av. Brigadeiro Faria Lima 3477 
+São Paulo
+04538-133 Brazil",unknown,Sao Paulo
+Sao Paulo,google_offices,"Av. Pres. Juscelino Kubitschek Vila Olímpia 1909 
+São Paulo
+04543-907 Brazil",unknown,São Paulo
+Sao Paulo,hooters,Rua Gomes de Carvalho 1575 Sao Paulo Brazil,unknown,Hooters
+Sao Paulo,hooters,Rua Capitao e Chaves 331 Mooca Sao Paulo Brazil,unknown,Hooters
+Sao Paulo,meta,,unknown,Meta
+Teresina,petland_us,Av Joquei Clube 1585,unknown,Piaui
+Rio de Janeiro,petland_us,165 Avenida Jane Maria Martins Figueira - Rio Das Ostras,unknown,Rio Das Ostras
+San Jose Campos,petland_us,407 Rua Paraibuna Jd. Sao Dimas,unknown,Sao Dimas / Sao Jose dos Campos
+Mogi das Cruzes,petland_us,761 Avenida Francisco Rodrigues Filho,unknown,100% PET / Mogi das Cruzes
+Sao Paulo,petland_us,6 N. Avenida Barao de Alagoas - Itaim Paulista,unknown,Itaim Paulista
+Guaruja,petland_us,544 Margaridas Street,unknown,Santo Antonio
+Guaruja,petland_us,Av. Santos Dumont 1011,unknown,Vicente de Carvalho
+Guarulhos,petland_us,384 Av. Brigadeiro Faria Lima - Cocaia,unknown,Faria Lima &#8211; Guarulhos
+Santos,petland_us,Av. Dr. Epitacio Pessoa 656,unknown,Ponta da Praia
+Santos,petland_us,229 Avenida Doutor Epitacio Pessoa - Boqueirao,unknown,Santos &#8211; Embare
+Sao Paulo,petland_us,13956 Avenida Sapopemba,unknown,Aguia de Haia
+Santos,petland_us,408 Avenida Washington Luis - Gonzaga,unknown,Santos &#8211; Canal 3
+Guarulhos,petland_us,116 R. Antonio Pohlman Sala 1 - Sala 2,unknown,100% PET / Teresopolis &#8211; Guarulhos
+Santos,petland_us,Avenida Senador Pinheiro Machado 309,unknown,Santos &#8211; Canal 1
+Santos,petland_us,243 Av Doutor Benardino de Campos-Santos,unknown,Santos
+Santos,petland_us,Av. Dr. Bernardino de Campos 243,unknown,Santos &#8211; Canal 2
+Guarulhos,petland_us,1623 Rua Conego Valadao Gopouva,unknown,Vila Augusta &#8211; Guarulhos
+Sao Paulo,petland_us,2578 N Rua Azevedo Soares - Vila Gomes Cardim,unknown,Azevedo Soares (Tatuape)
+Analia Franco,petland_us,348 Rua Eleonora Cintra,unknown,100% PET / Analia Franco
+Sao Paulo,petland_us,Av. Sapopemba 2824,unknown,Vila Santa Clara
+Teresina,petland_us,,unknown,Piaui
+Sao Paulo,petland_us,Av. Paes De Barros N 334-Compl 342-Mooca,unknown,Mooca
+Santana,petland_us,259 Rus Pedro Doll Stantana,unknown,Pedro Doll
+Sao Paulo,petland_us,102 NO Almadmeda Afonso Schmidt-Loja 1-Santa Teresinha,unknown,Santa Teresinha
+Sao Paulo,petland_us,,unknown,Vila Andrade
+unknown,petland_us,,unknown,Zona Norte
+Aclimacao,petland_us,226 Aclimacao Street,unknown,Aclimacao
+Sao Paulo,petland_us,674 N Avenida Deputado Emilio Carlos - Limao,unknown,Limao
+Sao Paulo,petland_us,177 Rua Figueiredo-Paraiso,unknown,Paraiso
+Sao Paulo,petland_us,R. Teixeira da Silva 433,unknown,Paraiso
+Higienopolis,petland_us,20 Praca Vila Boim,unknown,Higienopolis
+Sao Paolo,petland_us,Av. Conselheiro Rodrigues Alves 635,unknown,Cnso Rodrigues Alves
+Sao Paulo,petland_us,1395 Ria Luis Gois,unknown,Vila Clementino
+Jardins,petland_us,1559 Bela Cintra Street,unknown,Jardins
+Sao Paulo,petland_us,R. Pamplona 1771 Jardim Paulista,unknown,Jardim Pualista
+Perdizes,petland_us,550 Apinjes Street,unknown,Perdizes
+Moema,petland_us,817 Nhambiguaras Street,unknown,Moema Indios
+Sao Paulo,petland_us,Praca Jacomo Zanella N 154- LAPA,unknown,Lapa
+Itaim Bibi,petland_us,514 Pedroso del Alvarenga Street,unknown,Itaim Bibi
+Pinheiros,petland_us,726 Pinheiros Street,unknown,Pinheiros
+Moema Passaros,petland_us,602 Pavao Street,unknown,Moema Passaros
+Campo Belo,petland_us,1245 Vierria de Morais Street,unknown,Campo Belo
+Sao Paulo,petland_us,4777 Av Das Nacoes Unidas - Loja 0008,unknown,Shopping Villa Lobos
+Brooklyn,petland_us,,unknown,Brooklin 2 Pciket
+Brooklin,petland_us,227 Bernardino de Campos,unknown,Brooklin
+Jundiai,petland_us,933 Rua Barao de Teffe,unknown,100% PET / Jd. Ana Maria Jundiai
+Jundiai,petland_us,1270 N Avenida Jundai Anhangabau,unknown,Anhangabau Jundiai
+Osasco,petland_us,Av. Dos Autonomistas 2548,unknown,Vila Suzana / Osasco
+Campinas,petland_us,1470 Av. Albino Jose Barbosa de Oliveira,unknown,100% PET / Barao Geraldo
+Campinas,petland_us,Cambui,unknown,Cambui
+Santana de Parnaiba,petland_us,4700 N Avenida Yojiro Takaoka Subsi Frente,unknown,Alphaville
+Santa Barbara d'este,petland_us,113 Rua do Osmio Jd. Mollon,unknown,Mollom (Sta. B. D&#8217;oeste) Santa Barnara D&#8217;oeste
+Sorocaba,petland_us,1230 Avenida Antonio Carlos Comitre,unknown,Campolim &#8211; Sorocaba
+Jau,petland_us,491 Rua General Isidoro - Chacara Braz Miraglia Jau,unknown,100% PET / Gerneral Isidoro &#8211; Jau
+Botucatu,petland_us,729 Av. Doutor Vital Brasil,unknown,100% PET / Botucatu
+Marilia,petland_us,Av. Pres. Roosevelt 52,unknown,Roosevelt / Marilia
+Diadema,quest_diagnostics,Rua Barão do Triunfo 88 salas 1614-1615 Brooklin Paulista São Paulo SP CEP 04602-000,unknown,Quest do Brasil
+BANANAL,visa,,unknown,unknown
+ARAPEI,visa,,unknown,unknown
+QUELUZ,visa,,unknown,unknown
+AREIAS,visa,,unknown,unknown
+SILVEIRAS,visa,,unknown,unknown
+LAVRINHAS,visa,,unknown,unknown
+CRUZEIRO,visa,,unknown,unknown
+CACHOEIRA PAULISTA,visa,,unknown,unknown
+CUNHA,visa,,unknown,unknown
+LORENA,visa,,unknown,unknown
+PIQUETE,visa,,unknown,unknown
+GUARATINGUETA,visa,,unknown,unknown
+APARECIDA,visa,,unknown,unknown
+POTIM,visa,,unknown,unknown
+TEJUPA,visa,,unknown,unknown
+UBATUBA,visa,,unknown,unknown
+ROSEIRA,visa,,unknown,unknown
+PINDAMONHANGABA,visa,,unknown,unknown
+SAO LUIS DO PARAITINGA,visa,,unknown,unknown
+CAMPOS DO JORDAO,visa,,unknown,unknown
+TREMEMBE,visa,,unknown,unknown
+TAUBATE,visa,,unknown,unknown
+SANTO ANTONIO DO PINHAL,visa,,unknown,unknown
+SAO BENTO DO SAPUCAI,visa,,unknown,unknown
+CARAGUATATUBA,visa,,unknown,unknown
+ILHABELA,visa,,unknown,unknown
+SAO SEBASTIAO,visa,,unknown,unknown
+GUAPIACU,visa,,unknown,unknown
+CACAPAVA,visa,,unknown,unknown
+JAMBEIRO,visa,,unknown,unknown
+PARAIBUNA,visa,,unknown,unknown
+SAO JOSE DOS CAMPOS,visa,,unknown,unknown
+SANTA BRANCA,visa,,unknown,unknown
+CACONDE,visa,,unknown,unknown
+SALESOPOLIS,visa,,unknown,unknown
+JACAREI,visa,,unknown,unknown
+TAPIRATIBA,visa,,unknown,unknown
+GUARAREMA,visa,,unknown,unknown
+GUARA,visa,,unknown,unknown
+DIVINOLANDIA,visa,,unknown,unknown
+IGARATA,visa,,unknown,unknown
+JOANOPOLIS,visa,,unknown,unknown
+BIRITIBA-MIRIM,visa,,unknown,unknown
+AGUAS DA PRATA,visa,,unknown,unknown
+SAO SEBASTIAO DA GRAMA,visa,,unknown,unknown
+SANTO ANTONIO DO JARDIM,visa,,unknown,unknown
+SAO JOSE DO RIO PARDO,visa,,unknown,unknown
+SANTA ISABEL,visa,,unknown,unknown
+PEDRA BELA,visa,,unknown,unknown
+SOCORRO,visa,,unknown,unknown
+VARGEM,visa,,unknown,unknown
+PIRACAIA,visa,,unknown,unknown
+SAO JOAO DA BOA VISTA,visa,,unknown,unknown
+PATROCINIO PAULISTA,visa,,unknown,unknown
+MOGI DAS CRUZES,visa,,unknown,unknown
+MOCOCA,visa,,unknown,unknown
+AGUAS DE LINDOIA,visa,,unknown,unknown
+SANTO ANTONIO DA ALEGRIA,visa,,unknown,unknown
+ESPIRITO SANTO DO PINHAL,visa,,unknown,unknown
+VARGEM GRANDE DO SUL,visa,,unknown,unknown
+FRANCA,visa,,unknown,unknown
+CRISTAIS PAULISTA,visa,,unknown,unknown
+PEDREGULHO,visa,,unknown,unknown
+NAZARE PAULISTA,visa,,unknown,unknown
+BERTIOGA,visa,,unknown,unknown
+ARUJA,visa,,unknown,unknown
+PINHALZINHO,visa,,unknown,unknown
+SUZANO,visa,,unknown,unknown
+BOM JESUS DOS PERDOES,visa,,unknown,unknown
+BRAGANCA PAULISTA,visa,,unknown,unknown
+SERRA NEGRA,visa,,unknown,unknown
+ITAQUAQUECETUBA,visa,,unknown,unknown
+MONTE ALEGRE DO SUL,visa,,unknown,unknown
+POA,visa,,unknown,unknown
+SAO PAULO,visa,,unknown,unknown
+GUARUJA,visa,,unknown,unknown
+GUARULHOS,visa,,unknown,unknown
+FERRAZ DE VASCONCELOS,visa,,unknown,unknown
+RESTINGA,visa,,unknown,unknown
+ITAPIRA,visa,,unknown,unknown
+ATIBAIA,visa,,unknown,unknown
+CASA BRANCA,visa,,unknown,unknown
+AGUAI,visa,,unknown,unknown
+TUIUTI,visa,,unknown,unknown
+RIBEIRAO PIRES,visa,,unknown,unknown
+ALTINOPOLIS,visa,,unknown,unknown
+RIBEIRAO CORRENTE,visa,,unknown,unknown
+CAJURU,visa,,unknown,unknown
+AMPARO,visa,,unknown,unknown
+IGARAPAVA,visa,,unknown,unknown
+ESTIVA GERBI,visa,,unknown,unknown
+BURITIZAL,visa,,unknown,unknown
+MOGI GUACU,visa,,unknown,unknown
+MAIRIPORA,visa,,unknown,unknown
+RIO GRANDE DA SERRA,visa,,unknown,unknown
+SANTOS,visa,,unknown,unknown
+BARBOSA,visa,,unknown,unknown
+TURMALINA,visa,,unknown,unknown
+MAUA,visa,,unknown,unknown
+ARAMINA,visa,,unknown,unknown
+MOGI MIRIM,visa,,unknown,unknown
+MORUNGABA,visa,,unknown,unknown
+SANTO ANDRE,visa,,unknown,unknown
+SANTO ANTONIO DE POSSE,visa,,unknown,unknown
+JARINU,visa,,unknown,unknown
+SAO VICENTE,visa,,unknown,unknown
+TAMBAU,visa,,unknown,unknown
+SANTA ROSA DE VITERBO,visa,,unknown,unknown
+CUBATAO,visa,,unknown,unknown
+BATATAIS,visa,,unknown,unknown
+SANTA CRUZ DAS PALMEIRAS,visa,,unknown,unknown
+PEDREIRA,visa,,unknown,unknown
+ITUVERAVA,visa,,unknown,unknown
+SAO CAETANO DO SUL,visa,,unknown,unknown
+PRAIA GRANDE,visa,,unknown,unknown
+SAO BERNARDO DO CAMPO,visa,,unknown,unknown
+ITATIBA,visa,,unknown,unknown
+PALMARES PAULISTA,visa,,unknown,unknown
+BALBINOS,visa,,unknown,unknown
+FRANCISCO MORATO,visa,,unknown,unknown
+LUIZIANIA,visa,,unknown,unknown
+FRANCO DA ROCHA,visa,,unknown,unknown
+DIADEMA,visa,,unknown,unknown
+CAMPO LIMPO PAULISTA,visa,,unknown,unknown
+JAGUARIUNA,visa,,unknown,unknown
+CAIEIRAS,visa,,unknown,unknown
+JARDINOPOLIS,visa,,unknown,unknown
+BRODOWSKI,visa,,unknown,unknown
+HOLAMBRA,visa,,unknown,unknown
+SUZANAPOLIS,visa,,unknown,unknown
+CONCHAL,visa,,unknown,unknown
+NUPORANGA,visa,,unknown,unknown
+CAMPINAS,visa,,unknown,unknown
+VARZEA PAULISTA,visa,,unknown,unknown
+SERRANA,visa,,unknown,unknown
+SERRA AZUL,visa,,unknown,unknown
+JUNDIAI,visa,,unknown,unknown
+OSASCO,visa,,unknown,unknown
+SAO JOAQUIM DA BARRA,visa,,unknown,unknown
+CAJAMAR,visa,,unknown,unknown
+SAO SIMAO,visa,,unknown,unknown
+LOUVEIRA,visa,,unknown,unknown
+VALINHOS,visa,,unknown,unknown
+VINHEDO,visa,,unknown,unknown
+SANTA RITA DO PASSA QUATRO,visa,,unknown,unknown
+TABOAO DA SERRA,visa,,unknown,unknown
+ARTUR NOGUEIRA,visa,,unknown,unknown
+MIGUELOPOLIS,visa,,unknown,unknown
+ENGENHEIRO COELHO,visa,,unknown,unknown
+SALES OLIVEIRA,visa,,unknown,unknown
+BARUERI,visa,,unknown,unknown
+CARAPICUIBA,visa,,unknown,unknown
+PORTO FERREIRA,visa,,unknown,unknown
+ORLANDIA,visa,,unknown,unknown
+PIRASSUNUNGA,visa,,unknown,unknown
+SANTANA DE PARNAIBA,visa,,unknown,unknown
+COSMOPOLIS,visa,,unknown,unknown
+EMBU DAS ARTES,visa,,unknown,unknown
+PAULINIA,visa,,unknown,unknown
+MONGAGUA,visa,,unknown,unknown
+LEME,visa,,unknown,unknown
+COTIA,visa,,unknown,unknown
+IPUA,visa,,unknown,unknown
+RIBEIRAO PRETO,visa,,unknown,unknown
+SUMARE,visa,,unknown,unknown
+CRAVINHOS,visa,,unknown,unknown
+JANDIRA,visa,,unknown,unknown
+ITUPEVA,visa,,unknown,unknown
+SANTA CRUZ DA CONCEICAO,visa,,unknown,unknown
+ITAPECERICA DA SERRA,visa,,unknown,unknown
+HORTOLANDIA,visa,,unknown,unknown
+ARARAS,visa,,unknown,unknown
+EMBU-GUACU,visa,,unknown,unknown
+ITAPEVI,visa,,unknown,unknown
+CABREUVA,visa,,unknown,unknown
+LUIS ANTONIO,visa,,unknown,unknown
+SERTAOZINHO,visa,,unknown,unknown
+AMERICANA,visa,,unknown,unknown
+DESCALVADO,visa,,unknown,unknown
+NOVA ODESSA,visa,,unknown,unknown
+LIMEIRA,visa,,unknown,unknown
+MORRO AGUDO,visa,,unknown,unknown
+CORDEIROPOLIS,visa,,unknown,unknown
+INDAIATUBA,visa,,unknown,unknown
+ARACARIGUAMA,visa,,unknown,unknown
+ITANHAEM,visa,,unknown,unknown
+VARGEM GRANDE PAULISTA,visa,,unknown,unknown
+SANTA BARBARA D'OESTE,visa,,unknown,unknown
+SAO LOURENCO DA SERRA,visa,,unknown,unknown
+MONTE MOR,visa,,unknown,unknown
+PONTAL,visa,,unknown,unknown
+SANTA GERTRUDES,visa,,unknown,unknown
+DUMONT,visa,,unknown,unknown
+CORUMBATAI,visa,,unknown,unknown
+ANALANDIA,visa,,unknown,unknown
+RIO CLARO,visa,,unknown,unknown
+GUAIRA,visa,,unknown,unknown
+SAO ROQUE,visa,,unknown,unknown
+IRACEMAPOLIS,visa,,unknown,unknown
+SALTO,visa,,unknown,unknown
+ELIAS FAUSTO,visa,,unknown,unknown
+ITU,visa,,unknown,unknown
+MAIRINQUE,visa,,unknown,unknown
+PITANGUEIRAS,visa,,unknown,unknown
+JUQUITIBA,visa,,unknown,unknown
+PRADOPOLIS,visa,,unknown,unknown
+ALUMINIO,visa,,unknown,unknown
+IBIUNA,visa,,unknown,unknown
+GUATAPARA,visa,,unknown,unknown
+ITAPETININGA,visa,,unknown,unknown
+BARRINHA,visa,,unknown,unknown
+CAPIVARI,visa,,unknown,unknown
+IPEUNA,visa,,unknown,unknown
+SAO CARLOS,visa,,unknown,unknown
+VIRADOURO,visa,,unknown,unknown
+TERRA ROXA,visa,,unknown,unknown
+PIRACICABA,visa,,unknown,unknown
+ITIRAPINA,visa,,unknown,unknown
+PERUIBE,visa,,unknown,unknown
+RAFARD,visa,,unknown,unknown
+MOMBUCA,visa,,unknown,unknown
+RIO DAS PEDRAS,visa,,unknown,unknown
+RINCAO,visa,,unknown,unknown
+SOROCABA,visa,,unknown,unknown
+JABORANDI,visa,,unknown,unknown
+CHARQUEADA,visa,,unknown,unknown
+MOTUCA,visa,,unknown,unknown
+SANTA LUCIA,visa,,unknown,unknown
+IBATE,visa,,unknown,unknown
+PORTO FELIZ,visa,,unknown,unknown
+SALTINHO,visa,,unknown,unknown
+GUARIBA,visa,,unknown,unknown
+AMERICO BRASILIENSE,visa,,unknown,unknown
+VOTORANTIM,visa,,unknown,unknown
+JABOTICABAL,visa,,unknown,unknown
+COLOMBIA,visa,,unknown,unknown
+BARRETOS,visa,,unknown,unknown
+ITARIRI,visa,,unknown,unknown
+PIEDADE,visa,,unknown,unknown
+ARARAQUARA,visa,,unknown,unknown
+TAQUARAL,visa,,unknown,unknown
+COLINA,visa,,unknown,unknown
+AGUAS DE SAO PEDRO,visa,,unknown,unknown
+SAO PEDRO,visa,,unknown,unknown
+BEBEDOURO,visa,,unknown,unknown
+TIETE,visa,,unknown,unknown
+TAIUVA,visa,,unknown,unknown
+BOITUVA,visa,,unknown,unknown
+CERQUILHO,visa,,unknown,unknown
+ARACOIABA DA SERRA,visa,,unknown,unknown
+IPERO,visa,,unknown,unknown
+SANTA ERNESTINA,visa,,unknown,unknown
+SALTO DE PIRAPORA,visa,,unknown,unknown
+RIBEIRAO BONITO,visa,,unknown,unknown
+TAIACU,visa,,unknown,unknown
+MATAO,visa,,unknown,unknown
+LARANJAL PAULISTA,visa,,unknown,unknown
+BROTAS,visa,,unknown,unknown
+MONTE ALTO,visa,,unknown,unknown
+TAPIRAI,visa,,unknown,unknown
+MONTE AZUL PAULISTA,visa,,unknown,unknown
+CAPELA DO ALTO,visa,,unknown,unknown
+TAQUARITINGA,visa,,unknown,unknown
+TORRINHA,visa,,unknown,unknown
+VISTA ALEGRE DO ALTO,visa,,unknown,unknown
+MIRACATU,visa,,unknown,unknown
+PIRANGI,visa,,unknown,unknown
+TATUI,visa,,unknown,unknown
+DOURADO,visa,,unknown,unknown
+SANTA MARIA DA SERRA,visa,,unknown,unknown
+PEREIRAS,visa,,unknown,unknown
+CONCHAS,visa,,unknown,unknown
+BOA ESPERANCA DO SUL,visa,,unknown,unknown
+CAJOBI,visa,,unknown,unknown
+CANDIDO RODRIGUES,visa,,unknown,unknown
+SEVERINIA,visa,,unknown,unknown
+PILAR DO SUL,visa,,unknown,unknown
+CESARIO LANGE,visa,,unknown,unknown
+ANHEMBI,visa,,unknown,unknown
+FERNANDO PRESTES,visa,,unknown,unknown
+GUARACI,visa,,unknown,unknown
+PARAISO,visa,,unknown,unknown
+GAVIAO PEIXOTO,visa,,unknown,unknown
+SARAPUI,visa,,unknown,unknown
+OLIMPIA,visa,,unknown,unknown
+NOVA EUROPA,visa,,unknown,unknown
+EMBAUBA,visa,,unknown,unknown
+ALAMBARI,visa,,unknown,unknown
+ARIRANHA,visa,,unknown,unknown
+DOIS CORREGOS,visa,,unknown,unknown
+JUQUIA,visa,,unknown,unknown
+SANTA ADELIA,visa,,unknown,unknown
+ALTAIR,visa,,unknown,unknown
+PORANGABA,visa,,unknown,unknown
+BOCAINA,visa,,unknown,unknown
+NOVAIS,visa,,unknown,unknown
+TABATINGA,visa,,unknown,unknown
+MINEIROS DO TIETE,visa,,unknown,unknown
+IGUAPE,visa,,unknown,unknown
+ILHA COMPRIDA,visa,,unknown,unknown
+PINDORAMA,visa,,unknown,unknown
+ICEM,visa,,unknown,unknown
+TORRE DE PEDRA,visa,,unknown,unknown
+JAU,visa,,unknown,unknown
+BOFETE,visa,,unknown,unknown
+ITAPOLIS,visa,,unknown,unknown
+TABAPUA,visa,,unknown,unknown
+CATANDUVA,visa,,unknown,unknown
+GUAREI,visa,,unknown,unknown
+SAO MIGUEL ARCANJO,visa,,unknown,unknown
+BARRA BONITA,visa,,unknown,unknown
+CATIGUA,visa,,unknown,unknown
+PAULO DE FARIA,visa,,unknown,unknown
+IBITINGA,visa,,unknown,unknown
+ORINDIUVA,visa,,unknown,unknown
+BOTUCATU,visa,,unknown,unknown
+BARIRI,visa,,unknown,unknown
+PARDINHO,visa,,unknown,unknown
+REGISTRO,visa,,unknown,unknown
+ITAPUI,visa,,unknown,unknown
+UCHOA,visa,,unknown,unknown
+ITAJOBI,visa,,unknown,unknown
+ELISIARIO,visa,,unknown,unknown
+NOVA GRANADA,visa,,unknown,unknown
+SAO MANUEL,visa,,unknown,unknown
+SETE BARRAS,visa,,unknown,unknown
+BORACEIA,visa,,unknown,unknown
+MARAPOAMA,visa,,unknown,unknown
+MACATUBA,visa,,unknown,unknown
+PALESTINA,visa,,unknown,unknown
+AREIOPOLIS,visa,,unknown,unknown
+PEDERNEIRAS,visa,,unknown,unknown
+AREALVA,visa,,unknown,unknown
+PARIQUERA-ACU,visa,,unknown,unknown
+SAO JOSE DO RIO PRETO,visa,,unknown,unknown
+IBIRA,visa,,unknown,unknown
+IPIGUA,visa,,unknown,unknown
+BORBOREMA,visa,,unknown,unknown
+PRATANIA,visa,,unknown,unknown
+ANGATUBA,visa,,unknown,unknown
+IACANGA,visa,,unknown,unknown
+LENCOIS PAULISTA,visa,,unknown,unknown
+RIOLANDIA,visa,,unknown,unknown
+ITATINGA,visa,,unknown,unknown
+URUPES,visa,,unknown,unknown
+JACUPIRANGA,visa,,unknown,unknown
+NOVO HORIZONTE,visa,,unknown,unknown
+POTIRENDABA,visa,,unknown,unknown
+CAMPINA DO MONTE ALEGRE,visa,,unknown,unknown
+ELDORADO,visa,,unknown,unknown
+BADY BASSITT,visa,,unknown,unknown
+CANANEIA,visa,,unknown,unknown
+CAPAO BONITO,visa,,unknown,unknown
+MIRASSOL,visa,,unknown,unknown
+AGUDOS,visa,,unknown,unknown
+RIBEIRAO GRANDE,visa,,unknown,unknown
+CAJATI,visa,,unknown,unknown
+IRAPUA,visa,,unknown,unknown
+AMERICO DE CAMPOS,visa,,unknown,unknown
+BAURU,visa,,unknown,unknown
+REGINOPOLIS,visa,,unknown,unknown
+TANABI,visa,,unknown,unknown
+PARANAPANEMA,visa,,unknown,unknown
+NEVES PAULISTA,visa,,unknown,unknown
+BURI,visa,,unknown,unknown
+COSMORAMA,visa,,unknown,unknown
+PIRATININGA,visa,,unknown,unknown
+CARDOSO,visa,,unknown,unknown
+MENDONCA,visa,,unknown,unknown
+MONTE APRAZIVEL,visa,,unknown,unknown
+AVARE,visa,,unknown,unknown
+GUAPIARA,visa,,unknown,unknown
+JOSE BONIFACIO,visa,,unknown,unknown
+TAQUARIVAI,visa,,unknown,unknown
+POLONI,visa,,unknown,unknown
+NIPOA,visa,,unknown,unknown
+UBARANA,visa,,unknown,unknown
+VOTUPORANGA,visa,,unknown,unknown
+PIRAJUI,visa,,unknown,unknown
+PARISI,visa,,unknown,unknown
+ARANDU,visa,,unknown,unknown
+IARAS,visa,,unknown,unknown
+CABRALIA PAULISTA,visa,,unknown,unknown
+CERQUEIRA CESAR,visa,,unknown,unknown
+CAFELANDIA,visa,,unknown,unknown
+AGUAS DE SANTA BARBARA,visa,,unknown,unknown
+DUARTINA,visa,,unknown,unknown
+IPORANGA,visa,,unknown,unknown
+MACAUBAL,visa,,unknown,unknown
+VALENTIM GENTIL,visa,,unknown,unknown
+RIBEIRAO BRANCO,visa,,unknown,unknown
+MACEDONIA,visa,,unknown,unknown
+ITAPEVA,visa,,unknown,unknown
+ITAI,visa,,unknown,unknown
+NHANDEARA,visa,,unknown,unknown
+PLANALTO,visa,,unknown,unknown
+MERIDIANO,visa,,unknown,unknown
+LINS,visa,,unknown,unknown
+GALIA,visa,,unknown,unknown
+GUAICARA,visa,,unknown,unknown
+OLEO,visa,,unknown,unknown
+ESPIRITO SANTO DO TURVO,visa,,unknown,unknown
+MANDURI,visa,,unknown,unknown
+NOVA CAMPINA,visa,,unknown,unknown
+FERNANDOPOLIS,visa,,unknown,unknown
+PROMISSAO,visa,,unknown,unknown
+FLOREAL,visa,,unknown,unknown
+GUARANI D'OESTE,visa,,unknown,unknown
+GARCA,visa,,unknown,unknown
+OUROESTE,visa,,unknown,unknown
+TURIUBA,visa,,unknown,unknown
+AVANHANDAVA,visa,,unknown,unknown
+APIAI,visa,,unknown,unknown
+TAQUARITUBA,visa,,unknown,unknown
+PIRAJU,visa,,unknown,unknown
+GASTAO VIDIGAL,visa,,unknown,unknown
+ITABERA,visa,,unknown,unknown
+ITAOCA,visa,,unknown,unknown
+BERNARDINO DE CAMPOS,visa,,unknown,unknown
+BURITAMA,visa,,unknown,unknown
+UBIRAJARA,visa,,unknown,unknown
+ESTRELA D'OESTE,visa,,unknown,unknown
+GETULINA,visa,,unknown,unknown
+GUAIMBE,visa,,unknown,unknown
+SAO JOAO DE IRACEMA,visa,,unknown,unknown
+NOVA LUZITANIA,visa,,unknown,unknown
+PENAPOLIS,visa,,unknown,unknown
+LOURDES,visa,,unknown,unknown
+VERA CRUZ,visa,,unknown,unknown
+DOLCINOPOLIS,visa,,unknown,unknown
+TAGUAI,visa,,unknown,unknown
+GENERAL SALGADO,visa,,unknown,unknown
+SANTA CRUZ DO RIO PARDO,visa,,unknown,unknown
+LUPERCIO,visa,,unknown,unknown
+PARANAPUA,visa,,unknown,unknown
+BOM SUCESSO DE ITARARE,visa,,unknown,unknown
+JALES,visa,,unknown,unknown
+SAO PEDRO DO TURVO,visa,,unknown,unknown
+IPAUSSU,visa,,unknown,unknown
+FARTURA,visa,,unknown,unknown
+GLICERIO,visa,,unknown,unknown
+MARILIA,visa,,unknown,unknown
+CHAVANTES,visa,,unknown,unknown
+URANIA,visa,,unknown,unknown
+RIVERSUL,visa,,unknown,unknown
+ITAPORANGA,visa,,unknown,unknown
+ITARARE,visa,,unknown,unknown
+SANTA ALBERTINA,visa,,unknown,unknown
+BIRIGUI,visa,,unknown,unknown
+COROADOS,visa,,unknown,unknown
+ITAPIRAPUA PAULISTA,visa,,unknown,unknown
+AURIFLAMA,visa,,unknown,unknown
+CANITAR,visa,,unknown,unknown
+ORIENTE,visa,,unknown,unknown
+BRAUNA,visa,,unknown,unknown
+ARACATUBA,visa,,unknown,unknown
+POMPEIA,visa,,unknown,unknown
+RIBEIRAO DO SUL,visa,,unknown,unknown
+CAMPOS NOVOS PAULISTA,visa,,unknown,unknown
+OURINHOS,visa,,unknown,unknown
+GUZOLANDIA,visa,,unknown,unknown
+SANTA RITA D'OESTE,visa,,unknown,unknown
+SANTANA DA PONTE PENSA,visa,,unknown,unknown
+PALMEIRA D'OESTE,visa,,unknown,unknown
+BILAC,visa,,unknown,unknown
+CLEMENTINA,visa,,unknown,unknown
+SANTA FE DO SUL,visa,,unknown,unknown
+ECHAPORA,visa,,unknown,unknown
+IBIRAREMA,visa,,unknown,unknown
+SANTOPOLIS DO AGUAPEI,visa,,unknown,unknown
+HERCULANDIA,visa,,unknown,unknown
+GUARARAPES,visa,,unknown,unknown
+RUBINEIA,visa,,unknown,unknown
+PIACATU,visa,,unknown,unknown
+TUPA,visa,,unknown,unknown
+PALMITAL,visa,,unknown,unknown
+SUD MENNUCCI,visa,,unknown,unknown
+LUTECIA,visa,,unknown,unknown
+BENTO DE ABREU,visa,,unknown,unknown
+ASSIS,visa,,unknown,unknown
+VALPARAISO,visa,,unknown,unknown
+RINOPOLIS,visa,,unknown,unknown
+CANDIDO MOTA,visa,,unknown,unknown
+IACRI,visa,,unknown,unknown
+LAVINIA,visa,,unknown,unknown
+PEREIRA BARRETO,visa,,unknown,unknown
+BASTOS,visa,,unknown,unknown
+PARAGUACU PAULISTA,visa,,unknown,unknown
+PARAPUA,visa,,unknown,unknown
+QUATA,visa,,unknown,unknown
+OSVALDO CRUZ,visa,,unknown,unknown
+MIRANDOPOLIS,visa,,unknown,unknown
+TARUMA,visa,,unknown,unknown
+JOAO RAMALHO,visa,,unknown,unknown
+ILHA SOLTEIRA,visa,,unknown,unknown
+MARACAI,visa,,unknown,unknown
+GUARACAI,visa,,unknown,unknown
+LUCELIA,visa,,unknown,unknown
+RANCHARIA,visa,,unknown,unknown
+ADAMANTINA,visa,,unknown,unknown
+ANDRADINA,visa,,unknown,unknown
+FLORIDA PAULISTA,visa,,unknown,unknown
+PEDRINHAS PAULISTA,visa,,unknown,unknown
+ITAPURA,visa,,unknown,unknown
+PACAEMBU,visa,,unknown,unknown
+CASTILHO,visa,,unknown,unknown
+NOVA INDEPENDENCIA,visa,,unknown,unknown
+IRAPURU,visa,,unknown,unknown
+MARTINOPOLIS,visa,,unknown,unknown
+CAIABU,visa,,unknown,unknown
+JUNQUEIROPOLIS,visa,,unknown,unknown
+NANTES,visa,,unknown,unknown
+IEPE,visa,,unknown,unknown
+INDIANA,visa,,unknown,unknown
+SANTO EXPEDITO,visa,,unknown,unknown
+DRACENA,visa,,unknown,unknown
+TUPI PAULISTA,visa,,unknown,unknown
+REGENTE FEIJO,visa,,unknown,unknown
+ALFREDO MARCONDES,visa,,unknown,unknown
+PRESIDENTE PRUDENTE,visa,,unknown,unknown
+EMILIANOPOLIS,visa,,unknown,unknown
+ALVARES MACHADO,visa,,unknown,unknown
+OURO VERDE,visa,,unknown,unknown
+SANTA MERCEDES,visa,,unknown,unknown
+PRESIDENTE BERNARDES,visa,,unknown,unknown
+PIRAPOZINHO,visa,,unknown,unknown
+PAULICEIA,visa,,unknown,unknown
+SANTO ANASTACIO,visa,,unknown,unknown
+PANORAMA,visa,,unknown,unknown
+TARABAI,visa,,unknown,unknown
+PIQUEROBI,visa,,unknown,unknown
+PRESIDENTE VENCESLAU,visa,,unknown,unknown
+ESTRELA DO NORTE,visa,,unknown,unknown
+SANDOVALINA,visa,,unknown,unknown
+MIRANTE DO PARANAPANEMA,visa,,unknown,unknown
+PRESIDENTE EPITACIO,visa,,unknown,unknown
+TEODORO SAMPAIO,visa,,unknown,unknown
+EUCLIDES DA CUNHA PAULISTA,visa,,unknown,unknown
+ROSANA,visa,,unknown,unknown
+Presidente Prudente,western_union,,unknown,DAYCAMBIO PARQUE SHOPPING PRUDENTE
+Aracatuba,western_union,,unknown,DAYCAMBIO ARACATUBA
+Praia Grande,western_union,,unknown,DAYCAMBIO PRAIA GRANDE
+Centro,western_union,,unknown,LOJA WU SP SAO BERNARDO
+Santos,western_union,,unknown,CONFIDENCE SANTOS - QUIOSQUE CONCAIS
+Sao Bernardo Do Campo,western_union,,unknown,LOJA SBC
+S�o Bernardo Do Campo,western_union,,unknown,LOJA GOLDEN PLAZA SHOPPING
+Santo Andre,western_union,,unknown,LOJA SKY GRAND PLAZA SHOPPING
+Sao Paulo,western_union,,unknown,DAYCAMBIO SHOPPING METRO SANTA
+Maua,western_union,,unknown,DAYCAMBIO MAUA
+Franca,western_union,,unknown,EASY CASH CAMBIO
+Catanduva,western_union,,unknown,LOJA ANTHARES CATANDUVA
+Bauru,western_union,,unknown,CB CAMBIO
+Araraquara,western_union,,unknown,CONFIDENCE ARARAQUARA JARAGUA
+Campinas,western_union,,unknown,CONFIDENCE CPS SH GALLERIA
+Taubate,western_union,,unknown,T3 CAMBIO
+Registro,western_union,,unknown,VIJAC TURISMO E INTERCAMBIO
+Pindamonhangaba,western_union,,unknown,MAXIMUS CAMBIO EXCHANGE
+Santa Barbara D'oeste,western_union,,unknown,CONFIDENCE SANTA BARBARA
+Itapetininga,western_union,,unknown,LOJA NOSSO VERDE ITAPETININGA
+Piracicaba,western_union,,unknown,CONFIDENCE CPS SH PIRACICABA
+Mogi Guacu,western_union,,unknown,VALORE CAMBIO
+Sao Jose Dos Campos,western_union,,unknown,CONFIDENCE SJC SH COLINAS
+Sorocaba,western_union,,unknown,LOJAO DO BRAS SOROCABA
+Braganca Paulista,western_union,,unknown,AGK BRAGANCA PAULISTA
+Vinhedo,western_union,,unknown,CAMBIO VINHEDO   F DAVANCO TUR EIRELI
+Indaiatuba,western_union,,unknown,CONFIDENCE CPS SH JARAGUA INDAIATUBA
+Sao Sebastiao,western_union,,unknown,ANTARES CAMBIO
+Caraguatatuba,western_union,,unknown,LOJA BONUS CAMBIO
+Limeira,western_union,,unknown,FAST CASH LIMEIRA
+Guaratingueta,western_union,,unknown,LAVELLI CAMBIO TURISMO LTDA EPP   FILIAL
+Rio Claro,western_union,,unknown,CONFIDENCE RIO CLARO SH CENTER
+S  J  Boa Vista,western_union,,unknown,VALORE CAMBIO
+Sao Carlos,western_union,,unknown,CONFIDENCE RP SH SAO CARLOS
+Jau,western_union,,unknown,CONFIDENCE JAU SH CENTER
+Jundiai,western_union,,unknown,CONFIDENCE CPS JUNDIAI SH
+Jacarei,western_union,,unknown,LOJAO DO BRAS JACARE�
+Votorantim,western_union,,unknown,CONFIDENCE CPS SH IGUATEMI ESPLANADA
+Itu,western_union,,unknown,CONFIDENCE ITU PLAZA SH
+Mogi Das Cruzes,western_union,,unknown,DAYCAMBIO MOGI SHOPPING
+S�o Paulo,western_union,,unknown,ESPECIE TOURS VIAGENS E TURISMO LTDA
+Barueri,western_union,,unknown,T10 ALPHAVILLE TURISMO LTDA
+Itapevi,western_union,,unknown,LOJAO DO BRAS ITAPEVI
+Santana De Parnaiba,western_union,,unknown,YOUVENDING SERVICOS ADMINISTRATIVOS LTDA
+Cotia,western_union,,unknown,GRANJA VIANA CAMBIO
+Osasco,western_union,,unknown,CONFIDENCE SP SH OSASCO
+Guarulhos,western_union,,unknown,DAYCAMBIO GUARULHOS
+Penha De Franca,western_union,,unknown,CONSULTORIA C & M
+Liberdade,western_union,,unknown,LAKAY CAMBIO E TURISMO LTDA
+Moema,western_union,,unknown,MOEMA CAMBIO
+Indianopolis,western_union,,unknown,FRISSON TUR
+Diadema,western_union,,unknown,ORION CAMBIO DIADEMA
+Sao Caetano Do Sul,western_union,,unknown,SKY CAMBIO PARK SHOP SAO CAETA
+Birigui,western_union,,unknown,TRAVEL TIME
+Mirassol,western_union,,unknown,EURO CAMBIO   MAR CORRESPONDENTE
+Marilia,western_union,,unknown,CONFIDENCE MARILIA ESMERALDA SH
+Sao Jose Do Rio Preto,western_union,,unknown,LOJAO SAO JOSE DO  RIO PRETO

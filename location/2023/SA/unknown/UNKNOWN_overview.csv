@@ -1,0 +1,923 @@
+City,Place Name,Zipcode,Name
+unknown,accor,SOUTH CORNICHE ROAD P.O.BOX 70300 26 31952 AL KHOBAR,unknown,Sofitel Al Khobar The Corniche
+unknown,accor,Abraj Al Bait Complex King Abdel Aziz Endowment 21955 MAKKAH,unknown,Pullman ZamZam Makkah
+unknown,accor,9033 King Fahd Road Tower 1 P.O. Box 2370 12214 OLAYA RIYADH,unknown,Novotel Riyadh Al Anoud
+unknown,accor,Al Khobar  Dammam Highway P.O.Box 5138 Dammam 31422 Eastern Province 31422 DAMMAM,unknown,Novotel Dammam Business Park
+unknown,accor,2874 King Abdul Aziz Road PO BOX 46429  Yanbu 7198 YANBU,unknown,ibis Yanbu Saudi Arabia
+unknown,accor,Al Olaya Street Opposite to the Kingdom Tower PO BOX 61066 11565 RIYADH,unknown,ibis Riyadh Olaya Street
+unknown,accor,King Abdul Aziz Road Az Zahra District 126001 23522 JEDDAH,unknown,ibis Jeddah Malik Road
+unknown,accor,King Fahd Bin Abdul Aziz Road South Corniche Gizan City 45142 JAZAN,unknown,Novotel Jazan
+unknown,accor,Prince Mohammed Bin Abdulaziz Street P O Box 13147 Jeddah 21493 21493 JEDDAH,unknown,Novotel Jeddah Tahlia Street
+unknown,accor,Olaya Main Street PO Box 2689 Olaya Main Street 12221 RIYADH,unknown,Novotel Suites Riyadh Olaya
+unknown,accor,90 Off Olaya Street P O Box 305988 11361 RIYADH,unknown,Novotel Suites Riyadh Centre
+unknown,accor,2944 Amr bin AlJmoh Street North Zone Central Madina PO Box 40233 6150 42311 Al Madinah Al Munawarah,unknown,Pullman Zamzam Madina
+unknown,accor,Prince Abdulmagid bin Abdulaziz King Abdulmajid Corniche Road P O Box 313 41912 Yanbu,unknown,Novotel Yanbu
+unknown,accor,P O Box 43356 Madinah Branch Road Al Andalus 23326 JEDDAH,unknown,Adagio Jeddah City Center
+unknown,accor,13321 OLAYA STREET AS SAHAFA DISTRICT RIYADH 0 RIYADH,unknown,Novotel Riyadh Sahafa (Opening April 2024)
+unknown,accor,4490 King Fahd Road Al Maabdaah Al Azizia Makkah 4490 4490 MAKKAH,unknown,ibis Styles Makkah
+unknown,accor,6541 Kulliyyat Al Banat Al Jamiah  Mecca 24243 Makkah Al Taif Road 24243 MAKKAH,unknown,Mercure Makkah Aziziah
+unknown,accor,King Abdul Aziz Endowment Ajyad Street 0 MAKKAH,unknown,Swissôtel Makkah
+unknown,accor,King Abdul Aziz Endowment PO Box 1281 21955 MAKKAH,unknown,Raffles Makkah Palace
+unknown,accor,King Abdul Aziz Endowment Clock Towers Complex PO Box 762 0 MAKKAH,unknown,Makkah Clock Royal Tower A Fairmont Hotel
+unknown,accor,King Abdul Aziz Endowment Tower F Ibrahim Al Khaleel St 21955 21955 Al Maqam,unknown,Swissôtel Al Maqam Makkah
+unknown,accor,Business Gate Qurtubah Area Airport Road 11552 RIYADH,unknown,Fairmont Riyadh
+unknown,accor,Al Andalus Dist P O Box 4575 Makkah Al Mukarama 24237 24237 MAKKAH,unknown,Novotel Makkah Thakher City
+unknown,accor,Madinah Road P.O Box 45407 21512 JEDDAH,unknown,Mövenpick Jeddah City Star
+unknown,accor,Al Madinah Munawarah Road Adjacent To Mohammed Al Taweel Street 21451 JEDDAH,unknown,Mövenpick Jeddah
+unknown,accor,P O Box 17700 Abraj Al Bait Makkah 21955 Near King Abdul Aziz 21955 MAKKAH,unknown,Mövenpick Makkah
+unknown,accor,P O Box 14018 North Cornish Road Beside Al Nawras Square 21424 JEDDAH,unknown,Mövenpick Jeddah Al Nawras
+unknown,accor,Prince Turkey Street Po Box 4923 P.O.Box:4923 Al Khobar 31952 31952 AL KHOBAR,unknown,Mövenpick Al Khobar
+unknown,accor,Half Moon Bay Road Aziziyah 31952 AL KHOBAR,unknown,Mövenpick Al Khobar Beach
+unknown,accor,Central Zone Al Khalidiya PO Box 41340 42311 MEDINAH AL MUNAWARA,unknown,Anwar Al Madinah Mövenpick
+unknown,accor,King Khaled Road Po box 31001 51497 BURAYDAH,unknown,Mövenpick Qassim
+unknown,accor,8749 Hail Street Al Andalus 23326 JEDDAH,unknown,Mövenpick Hotel Tahlia Jeddah
+unknown,accor,3478 North Ring Road Exit 4 Al Ghadeer District 13311 RIYADH,unknown,Mövenpick Hotel and Residences Riyadh
+unknown,accor,7713 King Fahad Road Al Sahafah District 13321 RIYADH,unknown,Fairmont Ramla Serviced Residences
+unknown,accor,Al Andalus Dist. Reya Zakher St. P.O BOX 4575 24237-6979 MAKKAH,unknown,Novotel Residences Makkah (Opening Soon)
+unknown,accor,Hail Street Alula 43515 Ksa 43563 AL ULA,unknown,Shaden Resort
+unknown,accor,Wadi Ashar Tabuk Road AlUla 43 Saq District 43562 ALULA,unknown,Banyan Tree AlUla
+unknown,accor,Building No 2652 Prince Saud Al Faisal Street 7490 Al Khaldiya 23422 JEDDAH,unknown,Swissôtel Living Jeddah
+unknown,accor,King Fahd Road Building 2943 0 Al Madinah,unknown,Sofitel Shahd Al Madinah
+Riyadh,adidas,,unknown,"adidas Outlet Store Riyadh, Prince Mohammed Ibn Salman Ibn Abdulaziz Rd, Qurtubah"
+Jeddah,adidas,,unknown,"adidas Outlet Store Jeddah, Hamadania St"
+Muhyail-Aseer,adidas,,unknown,adidas Store Muhyail-Aseer
+Dammam,adidas,,unknown,"adidas Outlet Store Dammam, Prince Mohammed Bin Fahd Road, Al Badi, Dammam"
+Jizan,adidas,,unknown,"adidas Store Jizan, Kadi-Mall"
+Al Ahsa,adidas,,unknown,"adidas Store Al Ahsa, Al Khalij Rd, Alolaya, Al Hofuf"
+Jubail,adidas,,unknown,adidas Store Jubail
+Taif,adidas,,unknown,"adidas Outlet Store Taif, The Park"
+Mecca,adidas,,unknown,"adidas Store Mecca, Makkah, Al Aziziyah main Rd, Al Mursalat, Mecca"
+Hail,adidas,,unknown,adidas Store Hail
+Qassim,adidas,,unknown,adidas Outlet Store Qassim
+Abha,adidas,,unknown,"adidas Outlet Store Abha, Khamis Mushait, Ummsarar, Khamis Mushait"
+Madina,adidas,,unknown,"adidas Outlet Store Madina, Boulevard Almohamadia"
+Tabuk,adidas,,unknown,"adidas Store Tabuk, Park-Mall"
+Al Majmaah,adidas,,unknown,"adidas Outlet Store Al Majmaah, Karam Mall"
+Khobar,adidas,,unknown,adidas Store Khobar
+Riyadh,alamo,,unknown,Riyadh King Khalid Intl. Airport Terminal 5
+Dammam,alamo,,unknown,Dammam King Fahd Intl. Airport
+Jazan,alamo,,unknown,King Abdullah bin Abdulaziz Airport
+Abha,alamo,,unknown,Abha International Airport
+Yanbu,alamo,,unknown,Prince Abdulmohsen Bin Abdulaziz Airport
+Taif,alamo,,unknown,Taif International Airport
+Madinah,alamo,,unknown,Madinah International Airport
+unknown,alstom,King Abdulaziz International Airport KAIA Terminal 1 Alnuzha District Jeddah - Kingdom of Saudi Arabia,unknown,Jeddah
+unknown,alstom,Talgo Madina Site King Khalid 3rd Ring Road Madina - 42512 - Saudi Arabia,unknown,Madina
+Riyadh,american_eagle_outfitters,,unknown,American Eagle Store Al Qasr Mall
+Riyadh Al Mathar Ash Shamali,american_eagle_outfitters,,unknown,American Eagle Store Tafaseel BP Centre
+Riyadh G99-B+C,american_eagle_outfitters,,unknown,American Eagle Store Riyadh Gallery
+Riyadh Ash Shuhada,american_eagle_outfitters,,unknown,American Eagle & Aerie Store Granada Mall
+Qatif,american_eagle_outfitters,,unknown,American Eagle Store Katif Centre
+Jubail,american_eagle_outfitters,,unknown,American Eagle Store Galleria Mall
+Jeddah,american_eagle_outfitters,,unknown,American Eagle Store Debenhams Red Sea Mall
+Jeddah Al Naeem District,american_eagle_outfitters,,unknown,American Eagle Store Heraa Mall
+Jeddah Prince Mohammed Bin Abdulaziz Street,american_eagle_outfitters,,unknown,American Eagle Store Building Nos. 259 & 260
+Dammam,american_eagle_outfitters,,unknown,American Eagle Store Debenhams Othaim
+Tabuk,american_eagle_outfitters,,unknown,American Eagle Store Tabouk Center
+Medina,american_eagle_outfitters,,unknown,American Eagle Store Oberoi Medina
+Mecca,american_eagle_outfitters,,unknown,American Eagle Store Jabal Omar
+Makkah,american_eagle_outfitters,,unknown,American Eagle Store Abraaj Al Bait
+Alkhobar,american_eagle_outfitters,,unknown,"American Eagle Store Rashid Mall, Khobar"
+Abha,american_eagle_outfitters,,unknown,"American Eagle Store Rashid Mall, Abha"
+Al Hufuf,ashley_furniture,,unknown,"Ashley Al Hufuf, SA"
+Riyadh,ashley_furniture,,unknown,"Ashley Riyadh, SA"
+Al Khobar,ashley_furniture,,unknown,"Ashley Al Khobar, SA"
+Riyadh,bmw_group,,unknown,Mohamed Yousuf Naghi Motors LLC Sulaimaniyah Showroom
+Al Khobar,bmw_group,,unknown,Mohamed Yousuf Naghi Motors LLC Rolls-Royce Motor Cars Al Khobar Ow
+Madinah,bmw_group,,unknown,Mohamed Yousuf Naghi Motors LLC Showroom and Fast Lane
+Buraydah,bmw_group,,unknown,Mohamed Yousuf Naghi Motors LC Showroom and Service Centre
+Makkah,bmw_group,,unknown,Mohamed Yousuf Naghi Motors LLC Showroom and Fast Lane
+Jeddah,bmw_group,,unknown,Mohamed Yousuf Naghi Motors LLC Service Center Heraa
+Al Khobar,carhartt_wip,,unknown,Carhartt WIP Store Rashid Mall
+Jeddah,carhartt_wip,,unknown,Carhartt WIP Store Red Sea Mall
+Al Khobar,crocs_eu,,unknown,Crocs Pepsi Street
+Jeddah,crocs_eu,,unknown,Crocs Jeddah Park
+Madina,crocs_eu,,unknown,Crocs Al Noor Mall
+Riyadh Rabwa,crocs_eu,,unknown,Crocs Al Othaim Mall Rabwa
+Riyadh,crocs_eu,,unknown,Crocs Granada Mall Riyadh
+Dhahran,crocs_eu,,unknown,Crocs Amwaj Mall
+Arar,crocs_eu,,unknown,Crocs Othaim Mall Arar
+Al Ahsa,crocs_eu,,unknown,Crocs Othaim Mall-Ahsa
+Al Qatif,crocs_eu,,unknown,Crocs Qatif City Mall
+Al-Kharj,crocs_eu,,unknown,Crocs Panorama Plaza
+Buraidah,crocs_eu,,unknown,Crocs Othaim Mall Buraidah
+Dammam,crocs_eu,,unknown,Crocs Othaim Mall Dammam
+Hail,crocs_eu,,unknown,Crocs Othaim Mall Hail
+Jazan,crocs_eu,,unknown,Crocs Kadi Mall
+Unayzah,crocs_eu,,unknown,Crocs Ohtaim Mall Onaiza
+Tabuk,crocs_eu,,unknown,Crocs Park Mall Tabuk
+Riyadh,deloitte,,unknown,Deloitte - Deloitte Digital
+Al Khobar,deloitte,,unknown,Deloitte - Al Khobar
+Jeddah,deloitte,,unknown,Deloitte - Jeddah
+Riyadh,ecco,,unknown,Granada Mall
+Jeddah,ecco,,unknown,ECCO Mall of Arabia
+Dammam,ecco,,unknown,ECCO Othaim Mall
+Riyadh,enterprise,,unknown,King Fahad Road
+Jeddah,enterprise,,unknown,King Abdulaziz International Airport T1
+Dammam,enterprise,,unknown,Prince Mohammed Bin Fahad Dammam
+Al Khobar,enterprise,,unknown,Al Khobar Al Thuqbah District
+Jazan,enterprise,,unknown,King Abdullah bin Abdulaziz Airport
+Abha,enterprise,,unknown,Abha International Airport
+Yanbu,enterprise,,unknown,Yanbu
+Taif,enterprise,,unknown,Taif International Airport
+Jubail,enterprise,,unknown,Jubail Industrial
+Khamis Mushait,enterprise,,unknown,Khamis Mushait
+Al Madina Al Munawwarah,enterprise,,unknown,Al Madina Al Munawwarah Prince Naif Road
+Al Qassim,enterprise,,unknown,Al Qassim Al Askan District
+Madinah,enterprise,,unknown,Madinah International Airport
+Al Ahsa,enterprise,,unknown,Gharnata
+Makkah,enterprise,,unknown,Al Kakiyyah
+Riyadh,ernst_young,Al Faisaliah Office Tower - 14th Floor King Fahad Road PO Box 2732 Saudi Arabia,unknown,EY
+Riyadh,ernst_young,Al Faisaliah Office Tower – 6th and 14th Floors King Fahad Road,unknown,EY-Parthenon Riyadh
+Jeddah,ernst_young,King’s Road Tower - 13th Floor King Abdul Aziz Road (Malek Road) P.O. Box 1994 Saudi Arabia,unknown,EY
+Al Khobar,ernst_young,Adeer Tower - 15th Floor Prince Turki Bin Abdulaziz ST PO Box 3795 Alkhobar Saudi Arabia,unknown,EY
+Jeddah,esprit,,unknown,Esprit Partnership Store Salaam Mall 
+Makkah,esprit,,unknown,Esprit Partnership Store Abraj Al Baith
+Riyadh,esprit,,unknown,Esprit Partnership Store Outlet Rimal Mall
+Riyadh,five_guys_sa,,unknown,Five Guys Landmark
+Jeddah,five_guys_sa,,unknown,Five Guys Jeddah
+Dhahran,five_guys_sa,,unknown,Five Guys Doha Walk
+Mecca,five_guys_sa,,unknown,Five Guys Makkah
+Dammam,five_guys_sa,,unknown,Five Guys Dammam
+المنطقة الوسطى، الخرج,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع الخرج
+"Central Region, Al Kharj",ford,,unknown,Al Jazirah Vehicles Agencies Co. Al Kharj Branch
+المنطقة الوسطى، الرياض,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع غرناطة
+"Central Region, Riyadh",ford,,unknown,Al Jazirah Vehicles Agencies Co. Gharnata Branch
+المنطقة الشرقية، الجبيل,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع الجبيل
+"Eastern Region, Jubail",ford,,unknown,Al Jazirah Vehicles Agencies Co. Jubail Branch
+المنطقة الشرقية حفر الباطن,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع حفر الباطن
+"Eastern Region, Hafr Al Batin",ford,,unknown,Al Jazirah Vehicles Agencies Co. Hafr Al Batin Branch
+المنطقة الشمالية، عرعر,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع عرعر
+"Northern Borders Province, Arar",ford,,unknown,Al Jazirah Vehicles Agencies Co. Arar Branch
+أبها,ford,,unknown,شركة توكيلات الجزيرة للسيارات ( فرع أبها)
+Abha,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Abha Branch)"
+المنطقة الشرقية، الدمام,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع الدمام
+"Eastern Region, Damam",ford,,unknown,Al Jazirah Vehicles Agencies Co. Dammam Branch
+المنطقة الوسطى، حائل,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع حائل
+"Central Region, Hail",ford,,unknown,Al Jazirah Vehicles Agencies Co. Hail Branch
+جدة,ford,,unknown,شركة توكيلات الجزيرة للسيارات ( فرع جـدة)
+Jeddah,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Jeddah Automall Branch)"
+جازان,ford,,unknown,شركة توكيلات الجزيرة للسيارات ( فرع جدة جازان)
+Jizan,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Jizan Branch)"
+المدينة المنورة,ford,,unknown,شركة محمد يوسف ناغي للسيارات ( فرع المدينة المنورة - العزيزية)
+Madinah,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Madinah Azizia Branch)"
+نجران,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Najran Branch)"
+Najran,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Najran Branch)"
+المنطقة الوسطى، القصيم,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع القصيم
+"Central Region, Qasem",ford,,unknown,Al Jazirah Vehicles Agencies Co. Qasem Branch
+تبوك,ford,,unknown,تبوك
+Tabuk,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Tabuk Branch)"
+ينبع,ford,,unknown,شركة محمد يوسف ناغي للسيارات ( فرع ينبع)
+Yanbu,ford,,unknown,Mohamed Yousuf Naghi Motors - Yanbu
+المنطقة الشرقية، الإحساء,ford,,unknown,شركة توكيلات الجزيرة للسيارات، فرع الإحساء
+"Eastern Region, Hassa",ford,,unknown,Al Jazirah Vehicles Agencies Co. Hassa Branch
+مكة المكرمة,ford,,unknown,شركة محمد يوسف ناغي للسيارات - فرع الكعكية
+Makkah,ford,,unknown,De Lacy Ford Inc
+الطايف,ford,,unknown,شركة محمد يوسف ناغي للسيارات - فرع الطايف
+Taif,ford,,unknown,Taif Sanayah
+بلجرشي,ford,,unknown,شركة محمد يوسف ناغي للسيارات - فرع بلجرشي
+Baljurashi,ford,,unknown,Mohamed Yousuf Naghi Motors Company - Baljurashi
+جدّة,ford,,unknown,شركة توكيلات الجزيرة للسيارات ( فرع جـدة - أوتو مول)
+الطائف,ford,,unknown,الطائف الصناعية
+مكة المكرّمة,ford,,unknown,شارع الحج
+Kharj,ford,,unknown,Kharj
+الرياض,ford,,unknown,الخضرية
+المدينة المنوّرة,ford,,unknown,شركة توكيلات الجزيرة للسيارات ( فرع المدينة المنورة - العزيزية)
+Riyadh,ford,,unknown,Swaidi A'ishah St
+Al Hassa,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Al Hassa Branch)"
+الأحساء,ford,,unknown,الشهابية
+الدمام,ford,,unknown,Dammam Sayhat
+Hofuf,ford,,unknown,Hofuf Sanayah
+الهفوف,ford,,unknown,الهفوف الصناعية
+Ha'fr Al Batin,ford,,unknown,Ha'fr Al Batin Sanayah
+حفر الباطن,ford,,unknown,Ha'fr Al Batin Sanayah
+Onaiza,ford,,unknown,Onaiza
+Qassim,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Qassim Branch)"
+القسيم,ford,,unknown,شركة توكيلات الجزيرة للسيارات ( فرع القسيم)
+Dammam,ford,,unknown,Dammam Sayhat
+Jubail,ford,,unknown,"Al Jazirah Vehicles Agencies Co., Ltd. (Jubail Branch)"
+الجبيل,ford,,unknown,شركة توكيلات الجزيرة للسيارات ( فرع الجبيل)
+Hail,ford,,unknown,King Abdulaziz
+حائل,ford,,unknown,الملك عبد العزيز
+Tubak,ford,,unknown,Tabuk
+Doha Al Janubiyah,fossil,,unknown,Saudi Arabia (KSA)
+ABHA,geox,,unknown,Geox ABHA
+JEDDAH,geox,,unknown,Geox JEDDAH
+RIYADH,geox,,unknown,Geox RIYADH
+RIYADH PANORAMA MALL,geox,,unknown,Geox RIYADH PANORAMA MALL
+Jeddah,goldsgym,,unknown,Gold's Gym Al-Khaldia (Female)
+Riyadh,goldsgym,,unknown,Gold's Gym Riyadh (Male)
+unknown,hilton,6623 Al Shohadaa Eastern Ring Road Riyadh 13241-2892 Saudi Arabia,unknown,Hilton Riyadh Hotel & Residences
+unknown,hilton,8474 King Fahd Rd Al Olaya District Riyadh 12333 Saudi Arabia,unknown,Hilton Riyadh Olaya
+unknown,hilton,Oppst Prophet Mosque King Fahd Str Madinah 41419 Saudi Arabia,unknown,Madinah Hilton
+unknown,hilton,3606 Northern Ring Road Al Ghadeer District Riyadh 13311 6488 Saudi Arabia,unknown,DoubleTree by Hilton Riyadh Financial District Hotel & Suites
+unknown,hilton,2653 Northern Ring Rd Al Muruj Riyadh 12283 Saudi Arabia,unknown,DoubleTree by Hilton Riyadh - Al Muroj Business Gate
+unknown,hilton,8829 Prince Majid Rd Al Faiha District Jeddah 22245 Saudi Arabia,unknown,Al Andalus Mall Hotel Jeddah
+unknown,hilton,3606 Northern Ring Rd Al Ghadeer District Riyadh 13311-6488 Saudi Arabia,unknown,Hilton Garden Inn Riyadh Financial District
+unknown,hilton,7701 Prince Sultan Rd Al Salam Area Tabuk 47311-3655 Saudi Arabia,unknown,Hilton Garden Inn Tabuk
+unknown,hilton,King Saud Street Al Ulaya Al Khobar 34447 Saudi Arabia,unknown,Hilton Garden Inn Al Khobar
+unknown,hilton,Al Dalaa Northern 1244 Bldg No 8964 Al Dhalah Al Shamaliyyah 49643 Saudi Arabia,unknown,Hampton by Hilton Sharma
+Riyadh,hm,,unknown,Riyadh Front
+Mecca,hm,,unknown,Souk Al Diyafa
+Madina,hm,,unknown,Aliat Al Medina
+Jeddah,hm,,unknown,The Village Jeddah
+Dammam,hm,,unknown,Dareen Mall
+Yanbu,hm,,unknown,Yanbu
+Hofuf,hm,,unknown,Othaim Hofuf mall
+Khamies Mushayt,hm,,unknown,Al Khamis Avenue
+Hail,hm,,unknown,Othaim Mall Hail
+Taif,hm,,unknown,Valley Center
+Abha,hm,,unknown,Rashid Mall Abha
+Jizan,hm,,unknown,Rashid Mall Jizan
+Jubail,hm,,unknown,Galleria Mall Jubail
+Khobar,hm,,unknown,Turki Center
+Tabuk,hm,,unknown,King Faisal Rd
+الرياض,ikea,,unknown,الرياض
+الظهران,ikea,,unknown,الظهران
+جدة,ikea,,unknown,جدة
+RIYADH,leonidas,,unknown,LEONIDAS AL MALQA
+Constanta,lukoil,Strada Nationala Nr.192 oras Ovidiu jud Constanta,unknown,Ovidiu
+Constanta,lukoil,Municipiul Constanta B-dul I. C. Bratianu nr. 284 A Judet Constanta,unknown,Constanta 9
+Al-Khobar,man_truck_and_bus,,unknown,Haji Husein Alireza & Co. LTD (Al-Khobar) 
+Khamis Mushait,man_truck_and_bus,,unknown,Haji Husein Alireza & Co. Ltd. (Khamis Mushait)
+Riyadh,man_truck_and_bus,,unknown,Haji Husein Alireza & Co. LTD (Riyadh)
+Jeddah,man_truck_and_bus,,unknown,Haji Husein Alireza & Co. LTD (Jeddah)
+Al Khobar,marriott,,unknown,Le Méridien Al Khobar
+Riyadh,marriott,,unknown,The St. Regis Riyadh
+Jazan,marriott,,unknown,Residence Inn Jazan
+Jubail,marriott,,unknown,Courtyard Jubail
+Jeddah,marriott,,unknown,Sheraton Jeddah Hotel
+Madinah,marriott,,unknown,Marriott Executive Apartments Madinah
+Makkah,marriott,,unknown,Sheraton Makkah Jabal Al Kaaba Hotel
+Medina,marriott,,unknown,Le Méridien Medina
+Dammam,marriott,,unknown,Sheraton Dammam Hotel & Convention Centre
+Red Sea,marriott,,unknown,The St. Regis Red Sea Resort
+RIYADH,maserati,,unknown,UNIVERSAL PREMIUM MOTORS AGENCIES (UMAP)
+JEDDAH,maserati,,unknown,UNIVERSAL PREMIUM MOTORS AGENCIES (UMAP)
+Jeddah,michaelkors,,unknown,Michael Kors Mall Of Arabia
+Dhahran,michaelkors,,unknown,Michael Kors Mall Of Dharhan
+Ar Riyāḑ,michaelkors,,unknown,Michael Kors Ar Riyāḑ
+RIYADH,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - NASE
+BURAIDA,moneygram,,unknown,TAHWEEL AL RAJHI - #94300 - BURAIDA - AL
+AL KHOBAR,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #095
+JEDDAH,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #186
+KHAMIS MUSHAIT,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+AL MADINAH,moneygram,,unknown,TAHWEEL AL RAJHI - #93200 - AL MADINAH -
+YANBU,moneygram,,unknown,BIN YAALA EXCHANGE -  YANBU BRANCH
+DAMMAM,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - BLOC
+JUBAIL,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - JUBA
+MAKKAH,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #030
+TAIF,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #344
+TABUK,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - TABU
+HAFOUF,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #37
+ABHA,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+AL KHARJ,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - AL-K
+HAIL,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+JAIZAN,moneygram,,unknown,TAHWEEL AL RAJHI - #95300 - JAIZAN - AL
+THOQBA,moneygram,,unknown,TAHWEEL AL RAJHI - #73400 - THOQBA - THO
+AL BAHA,moneygram,,unknown,TAHWEEL AL RAJHI - #73600 - AL BAHA - AL
+NAJRAN,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - NAJR
+WADI AL DAWASIR,moneygram,,unknown,TAHWEEL AL RAJHI - #73900 - WADI AL DAWA
+AL BEKAIRYAH,moneygram,,unknown,TAHWEEL AL RAJHI - #74000 - AL BEKAIRYAH
+HAFR AL BATEN,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+AL MAJMA'A,moneygram,,unknown,TAHWEEL AL RAJHI - #74200 - AL MAJMA'A -
+ONAIZAH,moneygram,,unknown,TAHWEEL AL RAJHI - #88800 - ONAIZAH - SE
+RAS TANOURA,moneygram,,unknown,TAHWEEL AL RAJHI - #74800 - RAS TANOURA
+AL DAWADMI,moneygram,,unknown,TAHWEEL AL RAJHI - #75100 - AL DAWADMI -
+AL MOBARRAZ,moneygram,,unknown,TAHWEEL AL RAJHI - #75500 - AL MOBARRAZ
+AL RASS,moneygram,,unknown,TAHWEEL AL RAJHI - #90800 - AL RASS - SO
+BISHAH,moneygram,,unknown,TAHWEEL AL RAJHI - #75800 - BISHAH - BIS
+MAHAIL ASEER,moneygram,,unknown,TAHWEEL AL RAJHI - #75900 - MAHAIL ASEER
+AHAD RFAIDAH,moneygram,,unknown,TAHWEEL AL RAJHI - #76100 - AHAD RFAIDAH
+AL AFLAJ,moneygram,,unknown,TAHWEEL AL RAJHI - #76300 - AL AFLAJ - A
+RABEGH,moneygram,,unknown,TAHWEEL AL RAJHI - #76400 - RABEGH - RAB
+AFIF,moneygram,,unknown,TAHWEEL AL RAJHI - #76800 - AFIF - AFIF
+AL KHAFJY,moneygram,,unknown,TAHWEEL AL RAJHI - #76900 - AL KHAFJY -
+SHAQRA,moneygram,,unknown,TAHWEEL AL RAJHI - #77000 - SHAQRA - SHA
+QOBA,moneygram,,unknown,TAHWEEL AL RAJHI - #77400 - QOBA - QOBA
+SABIA,moneygram,,unknown,TAHWEEL AL RAJHI - #77500 - SABIA - SABI
+AL QUNFUZAH,moneygram,,unknown,TAHWEEL AL RAJHI - #77600 - AL QUNFUZAH
+AL GORAYAT,moneygram,,unknown,TAHWEEL AL RAJHI - #77800 - AL GORAYAT -
+ARAR,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+AL JOUF,moneygram,,unknown,TAHWEEL AL RAJHI - #78000 - AL JOUF - AL
+AL NAIRIYAH,moneygram,,unknown,TAHWEEL AL RAJHI - #78100 - AL NAIRIYAH
+AL LEITH,moneygram,,unknown,TAHWEEL AL RAJHI - #78700 - AL LEITH - A
+SABT AL ALAYA,moneygram,,unknown,TAHWEEL AL RAJHI - #79500 - SABT AL ALAY
+BALGORASHY,moneygram,,unknown,TAHWEEL AL RAJHI - #79700 - BALGORASHY -
+ABQAIQ,moneygram,,unknown,TAHWEEL AL RAJHI - #79900 - ABQAIQ - ABQ
+DEBA,moneygram,,unknown,TAHWEEL AL RAJHI - #80000 - DEBA - DEBA
+OYON AL GEWA,moneygram,,unknown,TAHWEEL AL RAJHI - #80100 - OYON AL GEWA
+AL MEKHWAH,moneygram,,unknown,TAHWEEL AL RAJHI - #80500 - AL MEKHWAH -
+TANOMAH,moneygram,,unknown,TAHWEEL AL RAJHI - #80600 - TANOMAH - TA
+SHARORAH,moneygram,,unknown,TAHWEEL AL RAJHI - #80700 - SHARORAH - S
+BEESH,moneygram,,unknown,TAHWEEL AL RAJHI - #80800 - BEESH - BAIS
+ABU AREESH,moneygram,,unknown,TAHWEEL AL RAJHI - #80900 - ABU AREESH -
+AL QOWYAH,moneygram,,unknown,TAHWEEL AL RAJHI - #81000 - AL QOWYAH -
+DHURUMA,moneygram,,unknown,TAHWEEL AL RAJHI - #82000 - DHURUMA - DH
+AL SAHNAH,moneygram,,unknown,TAHWEEL AL RAJHI - #82100 - AL SAHNAH -
+HOTAT BANI TAMEEM,moneygram,,unknown,TAHWEEL AL RAJHI - #82300 - HOTAT BANI T
+BADR,moneygram,,unknown,TAHWEEL AL RAJHI - #82400 - BADR - BADR
+THUWAL,moneygram,,unknown,TAHWEEL AL RAJHI - #82600 - THUWAL - THO
+AL QATIF,moneygram,,unknown,TAHWEEL AL RAJHI - #82900 - AL QATIF - A
+MAHD AL DAHAB,moneygram,,unknown,TAHWEEL AL RAJHI - #83000 - MAHD AL DAHA
+UMLUG,moneygram,,unknown,TAHWEEL AL RAJHI - #83100 - UMLUG - AMLO
+SAGER,moneygram,,unknown,TAHWEEL AL RAJHI - #83200 - SAGER - SAGE
+SAMTAH,moneygram,,unknown,TAHWEEL AL RAJHI - #83300 - SAMTAH - SAM
+AL DARB,moneygram,,unknown,TAHWEEL AL RAJHI - #83400 - AL DARB - AL
+AL EIDABY,moneygram,,unknown,TAHWEEL AL RAJHI - #83500 - AL EIDABY -
+RNYAH,moneygram,,unknown,TAHWEEL AL RAJHI - #83600 - RNYAH - RANY
+RAFHA,moneygram,,unknown,TAHWEEL AL RAJHI - #83800 - RAFHA - RAFH
+AL MUZAHMIYAH,moneygram,,unknown,TAHWEEL AL RAJHI - #83900 - AL MUZAHMIYA
+AL MUZNAB,moneygram,,unknown,TAHWEEL AL RAJHI - #84000 - AL MUZNAB -
+TABARGAL,moneygram,,unknown,TAHWEEL AL RAJHI - #84100 - TABARGAL - T
+DAHRAN AL JANOUB,moneygram,,unknown,TAHWEEL AL RAJHI - #84400 - DAHRAN AL JA
+AL MJARDAH,moneygram,,unknown,TAHWEEL AL RAJHI - #84500 - AL MJARDAH -
+QARIA AL AULYA,moneygram,,unknown,TAHWEEL AL RAJHI - #84700 - QARIA AL AUL
+AL ZULFI,moneygram,,unknown,TAHWEEL AL RAJHI - #84800 - AL ZULFI - A
+AL DERIYAH,moneygram,,unknown,TAHWEEL AL RAJHI - #87000 - AL DERIYAH -
+AL BDAYEE,moneygram,,unknown,TAHWEEL AL RAJHI - #87100 - AL BDAYEE -
+ALWAJH,moneygram,,unknown,TAHWEEL AL RAJHI - #87200 - ALWAJH - AL-
+HURAIMELA,moneygram,,unknown,TAHWEEL AL RAJHI - #87300 - HURAIMELA -
+AL NAMAS,moneygram,,unknown,TAHWEEL AL RAJHI - #89000 - AL NAMAS - A
+AL AHSA,moneygram,,unknown,TAHWEEL AL RAJHI - #92900 - AL AHSA - AL
+TURAIF,moneygram,,unknown,TAHWEEL AL RAJHI - #91500 - TURAIF - TUR
+AL JUBAIL,moneygram,,unknown,TAHWEEL AL RAJHI - #92300 - AL JUBAIL -
+RIYAD ALKHABRA,moneygram,,unknown,TAHWEEL AL RAJHI - #92500 - RIYAD ALKHAB
+ALAHSSA,moneygram,,unknown,TAHWEEL AL RAJHI - #96800 - ALAHSSA - AL
+HUTAT SUDAIR,moneygram,,unknown,TAHWEEL AL RAJHI - #93400 - HUTAT SUDAIR
+QATIF,moneygram,,unknown,TAHWEEL AL RAJHI - #93600 - QATIF - SAIH
+TATHLEETH,moneygram,,unknown,TAHWEEL AL RAJHI - #94500 - TATHLEETH -
+RIYADH NORTH,moneygram,,unknown,TAHWEEL AL RAJHI - #96100 - RIYADH NORTH
+SARAAT ABIDAH,moneygram,,unknown,TAHWEEL AL RAJHI - #96700 - SARAAT ABIDA
+MADINAH,moneygram,,unknown,BINYALLA EXCHANGE - MADINAH
+QASEEM,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+GURAYAT,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+TUHAMA,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+ZULFI,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+ALBAHA,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+ALKHOBAR,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+ALHASA,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+ALJOUF,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+TRAIF,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+AMARAH,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+ALMAHRAJANA,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+DOMAT AL JANDAL,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+HAQEL,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+TABARJAL,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+HUDAITH,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+ALET AMMAR,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+BOSAYTA,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+SOUTHREN,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+ZUHOOR,moneygram,,unknown,AL RAJHI BANKING AND INVESTMENT CORPORAT
+TAIEF,moneygram,,unknown,BIN YAALA EXCHANGE - TAIF BRANCH
+AL QURAYYAT,moneygram,,unknown,TAHWEEL ALRAJHI - #98300 - AL QURAYYAT -
+AL DALHAM,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #096
+YANBU',moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #340
+KH. MUSHAYT,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #490
+THOGHBAH,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - #38
+HAFR AL-BATIN,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - HAFR
+HA'IL,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - HAIL
+KHOBAR,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - AGRA
+AL-JOUF,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - AL-J
+MADINAH MUNAWRAH,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - SULT
+QASSIM,moneygram,,unknown,NCB QUICK PAY REGISTRATION CENTRE - ONAI
+Riyadh,national,,unknown,King Khalid International Airport Terminal 5
+Dammam,national,,unknown,King Fahad International Airport
+Abha,national,,unknown,Abha International Airport
+Yanbu,national,,unknown,Prince Abdulmohsen Bin Abdulaziz Airport
+Jazan,national,,unknown,King Abdullah bin Abdulaziz Airport
+Taif,national,,unknown,Taif International Airport
+Madinah,national,,unknown,Madinah International Airport
+Jeddah,newyorker,Al Faisaliyyah 23447 Jeddah,unknown,NEW YORKER | AZIZ Mall
+Riyadh,newyorker,King Abdul Aziz Rd 11355 Riyadh,unknown,NEW YORKER | Hayat Mall
+Medina,newyorker,Al Noor Mall 21462 Medina,unknown,NEW YORKER | Al Noor Mall
+Riyadh,newyorker,King Fahad Road 11355 Riyadh,unknown,NEW YORKER | Riyadh Galleria Mall
+Jeddah,newyorker,King Fahd Branch Road 23334 Jeddah,unknown,NEW YORKER | Jeddah Park
+Riyadh,newyorker,Takhassusi St Al Mathar Ash Shamali Riyadh 12332,unknown,NEW YORKER | Panorama Mall
+Riyadh,newyorker,West Ring Road Badiea 30955 Riyadh,unknown,NEW YORKER | Salaam Mall
+Al Hofuf,newyorker,King Abdullah Street Al Hofuf 36441,unknown,NEW YORKER | Al Ahsa Mall
+Mekka,newyorker,King Abdullah Bin Abdulaziz Rd 24246 Mekka,unknown,NEW YORKER | Makkah Mall
+Jeddah,newyorker,Falastin AR Ruwais District 4599 Jeddah,unknown,NEW YORKER | Haifaa Mall
+Jeddah,newyorker,Al Fayha'a 22253 Jeddah,unknown,NEW YORKER | Al Salaam Mall
+Tabuk,newyorker,King Fisal Road 47315 Tabuk,unknown,NEW YORKER | Tabuk Park
+Riyadh,newyorker,Al Imam Saud Ibn Abdul Aziz Branch Road,unknown,NEW YORKER | Al Nakheel Mall
+Jeddah,newyorker,Al Ajawad St 23462 Jeddah,unknown,NEW YORKER | Al Yasmin Mall
+Riyadh,newyorker,King Faisal 13215 Riyadh,unknown,NEW YORKER Al Hamra Mall
+Jeddah,newyorker,Al-Nuzhah 23532 Jeddah,unknown,NEW YORKER | Mall of Arabia
+Ryadh,newyorker,Salah Addine Al Ayyubi Road 12623 Riyadh,unknown,NEW YORKER | The View
+Dammam,newyorker,Al Manar 32274 Dammam,unknown,NEW YORKER | Nakheel Mall
+Taif,next,,unknown,TAIF ABIKHAN MALL
+Western Province,next,,unknown,Rashid Mall Jizan
+KSA,next,,unknown,Sahara Mall
+Riyadh,next,,unknown,Debenhams - Granada Mall
+Jeddah,next,,unknown,RED SEA MALL
+K.S.A,next,,unknown,RASHID MEGA MALL
+Riyadh 14241,next,,unknown,Othaim Mall Rabwa
+Othaim Mall Hail,next,,unknown,Othaim Mall Hail
+Ksa Central Riyadh,next,,unknown,ONIZAH MALL
+Central Province,next,,unknown,Al Khair Mall
+Eastern Province,next,,unknown,GALLERIA MALL
+Madinah,next,,unknown,MADINA
+Dammam,next,,unknown,Debenhams Othaim Mall Damman
+Jeddah 23432,next,,unknown,BIN HOMRAN CENTRE
+Riyadh 12791 7639,next,,unknown,Al QASR MALL
+RIYADH,nike,,unknown,Nike Store OLAYA STREET
+Riyadh,nike,,unknown,Nike Hyatt Mall
+Onaizah,nike,,unknown,Nike Onaiza
+AL KHOBAR,nike,,unknown,Nike Store RASHID MALL
+Makkah,nike,,unknown,Nike Makkah
+JEDDAH,nike,,unknown,Nike Store KHALIDIYAH
+MEDINA,nike,,unknown,Nike Store ALIAT MADINAT
+Dammam,ovs,,unknown,OVS Kids Dammam
+Riyadh,ovs,,unknown,OVS Kids Riyadh Granada
+Abha,ovs,,unknown,OVS Abha Al Rashid
+Buraidah,ovs,,unknown,OVS Buraidah Othaim
+Unaizah,ovs,,unknown,OVS Unaizah Othaim
+Al Ahsa,ovs,,unknown,OVS Al Ahsa Othaim
+Hail Othaim,ovs,,unknown,OVS Hail Othaim
+Jeddah,ovs,,unknown,OVS Kids FC Jeddah Red Sea
+Mecca,ovs,,unknown,OVS Mecca Mall
+Dhahran,ovs,,unknown,OVS Dhahran Mall
+Arar,ovs,,unknown,OVS Arar Othaim Kids
+Hafar Al Batin,ovs,,unknown,OVS Hafar Al Batin Al Mashriq Kids
+Khafji,ovs,,unknown,OVS Kids Khafji Othaim
+Tabuk,ovs,,unknown,OVS Kids Tabuk Park
+Al Rass,ovs,,unknown,OVS Kids FC AL RASS OASIS
+unknown,pizza_hut_ae_sa,"Ibrahim Bin Ubaidah st Aziziyah District Dammam
+",unknown,AZIZIYAH PHUT-DM
+unknown,pizza_hut_ae_sa,Ali bin Abi Talib Street Abdullah Fouad Dammam.,unknown,Murqabat
+unknown,pizza_hut_ae_sa,Al Nada District Abu Bakr Street next to McDonald's,unknown,NADA PHUT-DM
+unknown,pizza_hut_ae_sa,king saud ST next to Altamimi Al Noor neighbourhood,unknown,NOOR PHUT-DM
+unknown,pizza_hut_ae_sa,Al-Manar District the intersection of Abu Bakr Street with King Fahd Road,unknown,Pizza Hut Manar
+unknown,pizza_hut_ae_sa,Al Ashriah Street Ash Shati Al Gharbi,unknown,Synergy-DM-PH
+unknown,pizza_hut_ae_sa,Qatar Street Al-Ahsa University Al-Awaimriya Al-Hofuf,unknown,Gamaa
+unknown,pizza_hut_ae_sa,Hofuf Prince Talal Street Garden Plaza Hotel.,unknown,Garden Plaza
+unknown,pizza_hut_ae_sa,Dhahran Road Al-Hofuf,unknown,Mubaraz
+unknown,pizza_hut_ae_sa,King Abdul Aziz Street Centro Tamimi Complex Al Jubail Al Balad KSA,unknown,JUBAIL-PH King Abdul Aziz St
+unknown,pizza_hut_ae_sa,الفناتير  جلمودة طريق السلام,unknown,Salam Center
+unknown,pizza_hut_ae_sa,Al-Khuzami neighborhood next to Al-Waha Mall,unknown,Kharj
+unknown,pizza_hut_ae_sa,Prince Turki Street Atyaf Avenue Mall Al-Khobar Al-Shamaliyah District Al-Khobar,unknown,Atyaf Avenue
+unknown,pizza_hut_ae_sa,Al Rakah Al Janoubia District Khalid Ibn Al Walid The W Boulevard Al Khobar KSA,unknown,BOULEVARD PH-KH
+unknown,pizza_hut_ae_sa,Al-Fanar  Al-Rawabi District Al-Khobar,unknown,Fanar PH-KH
+unknown,pizza_hut_ae_sa,King Fahd Road Golden Belt District Al Khobar,unknown,Golden Belt-PH
+unknown,pizza_hut_ae_sa,King Khalid RD Al Tahliyah Al Khobar-KSA,unknown,Pizza Hut Aziziah (K)
+unknown,pizza_hut_ae_sa,Ad Difa district  Imam Al-Bukhari Road next to Krispy Kreme.,unknown,Azizia
+unknown,pizza_hut_ae_sa,Al-Mamshi Al-Abbas Bin Obada Street Al-Hadiqa District,unknown,Mamsha
+unknown,pizza_hut_ae_sa,Al Salam Road Al Manakhah Medina,unknown,Manakha
+unknown,pizza_hut_ae_sa,Prince Muhammad bin Abdulaziz Al-Aridh District,unknown,Prince Mohamed
+unknown,pizza_hut_ae_sa,Al-Qiblatain neighborhood Ismail Al-Maghrabi,unknown,Sultana
+unknown,pizza_hut_ae_sa,Abraj Al Bait Haram,unknown,Abraj Al Bait
+unknown,pizza_hut_ae_sa,Jabal Al Thawr East Road Mecca,unknown,Awali
+unknown,pizza_hut_ae_sa,Muhammad Salih Ibrahim Khuzami Green Mecca,unknown,Sharaie
+unknown,pizza_hut_ae_sa,King Fahd Abdul Rahman bin Etab bin Asid,unknown,Shawqyah
+unknown,pizza_hut_ae_sa,Al Zaher District Al Hokair Time,unknown,Zaher
+unknown,pizza_hut_ae_sa,Abbas Bin Qais Street Umm Al-Hammam Al-Gharbi Riyadh,unknown,Al Dove Plaza
+unknown,pizza_hut_ae_sa,Salman Al-Farsi Al-Nahda neighborhood Andalusia Plaza,unknown,Andalusia -PH
+unknown,pizza_hut_ae_sa,Prince Muhammad Bin Saad Bin Abdulaziz Road Al Aqiq Riyadh,unknown,AQIQ Plaza
+unknown,pizza_hut_ae_sa,Makkah Al-Mukarramah Branch RoadAl-Maathar Al-ShamaliyahRiyadh,unknown,Awal Plaza
+unknown,pizza_hut_ae_sa,Al Aziziyah An Nasr RD Riyadh KSA,unknown,AZIZIYAH-PH
+unknown,pizza_hut_ae_sa,Badeeah، Hamzah Ibn Abdul Muttalib Aluraija Al Gharbiyah Riyadh,unknown,Badia Plaza-PH
+unknown,pizza_hut_ae_sa,Al Narjis Abu Bakr intersection with Prince Saudi bin Jalawi.,unknown,Centro Narjes
+unknown,pizza_hut_ae_sa,Al-Takhasossi streetAl Mathar Ash Shamali beside Hardee's,unknown,Euromarche
+unknown,pizza_hut_ae_sa,Dammam Road Granada Riyadh,unknown,Ghernata-PH
+unknown,pizza_hut_ae_sa,Najm al-Din al-Ayyubi Tuwaiq Riyadh Saudi Arabia,unknown,Ghoroob Plaza - PH
+unknown,pizza_hut_ae_sa,King Faisal intersection of Khalid bin Walid with King Abdullah Riyadh Saudi Arabia.,unknown,HAMRAH-PHUT
+unknown,pizza_hut_ae_sa,Prince Mishaal bin Abdulaziz Irqah Plaza Riyadh,unknown,Irqah Plaza- PH
+unknown,pizza_hut_ae_sa,Anas Bin Malik Road Kayan Complex,unknown,KAYAN (Narjis) PH
+unknown,pizza_hut_ae_sa,Khurais Road Al-Manar District next to Al-Sadhan Market,unknown,Khurais
+unknown,pizza_hut_ae_sa,Nahawand street  Dhahrat Laban Riyadh,unknown,LABAN PHUT
+unknown,pizza_hut_ae_sa,Salahuddin Al-Ayyubi Road Al-Malaz District Riyadh KSA,unknown,MALAZ-PH
+unknown,pizza_hut_ae_sa,Al Malqa Anas bin Malik Road Riyadh,unknown,Malqa
+unknown,pizza_hut_ae_sa,Al Imam Saud Ibn Abdul Aziz Branch Rd Al Mursilat Riyadh,unknown,Mursalat- PH
+unknown,pizza_hut_ae_sa,Al Munsiyah Alnajah Square,unknown,NAJAH (Munsiyah) PH
+unknown,pizza_hut_ae_sa,An Nakheel Riyadh KSA.,unknown,NAKHEEL-PH
+unknown,pizza_hut_ae_sa,Prince Muqrin bin Abdul Aziz Street Riman Complex Nozha District,unknown,NOZHA-PHUT
+unknown,pizza_hut_ae_sa,Olaya Main Street next to KFC and Hardee's,unknown,OLAYA-PHUT
+unknown,pizza_hut_ae_sa,Qurtubah Riyadh Prince Saud Bin Mohammed Bin Muqrin Road beside Krispy Kreme,unknown,Pizza Hut Qurtubah 2
+unknown,pizza_hut_ae_sa,Al Qadisiyyah Riyadh The Spot Square Al Sheikh Jaber Al Ahmad Al Sabah ST,unknown,QADISIYAH-PHUT
+unknown,pizza_hut_ae_sa,Al Qairwan  neighborhood next to Spar supermarket,unknown,Qairwan - PH
+unknown,pizza_hut_ae_sa,Althomama road near university housing marketing,unknown,Rabi
+unknown,pizza_hut_ae_sa,Ali Al-Bajadi Al-Rimal neighborhood,unknown,Remal
+unknown,pizza_hut_ae_sa,Al Saada District Joy Avenue,unknown,Saada Walk-PH
+unknown,pizza_hut_ae_sa,Al Mazraaa Markets Al Sahafa District Riyadh,unknown,Sahafa-PH
+unknown,pizza_hut_ae_sa,Ibn Taymeeyah Rd Ash Shifa Riyadh KSA,unknown,SHIFA-PH Ibn Taymeeyah Rd
+unknown,pizza_hut_ae_sa,Sulaymaniyah Musa bin Nusayr Street Al Jazeera Markets,unknown,Sulimanya
+unknown,pizza_hut_ae_sa,Qurtuba Synergy Complex,unknown,SYNERGY Pizza Hut
+unknown,pizza_hut_ae_sa,Alyasmin Riyadh Anas-Anas bin Malek road beside Starbucks,unknown,YASMIN-PHUT
+unknown,pizza_hut_ae_sa,Airport RoadAl-Jawhara DistrictTaif,unknown,Park Mall
+unknown,pizza_hut_ae_sa,Moaz Bin Jabal Street Al-Sadad District,unknown,Shehar
+unknown,pizza_hut_ae_sa,Tera Mall Al-Jal district,unknown,Tera Mall
+unknown,pizza_hut_ae_sa,Al Morouj Yanbu Prince Muqrin bin Abdulaziz Rd,unknown,Yanbu Al Balad
+Riyadh,reebok,,unknown,Reebok store - Al Akaryah
+Al Khobar,reebok,,unknown,Reebok store- Rahmaniyah
+Jeddah,reebok,,unknown,Reebok store- Andalus
+Al-Khobar,scania,,unknown,General Contracting Company - Olayan
+Riyadh,sixt,,unknown,Car Hire Riyadh Airport Terminal 5 | SIXT rent a car
+Al Hofuf,sixt,,unknown,Car Hire Al Hofuf Train Station | SIXT rent a car
+Al Qassim,sixt,,unknown,Car Hire Al Qassim Train Station | SIXT rent a car
+Dammam,sixt,,unknown,Car Hire Dammam Prince Naif Road | SIXT rent a car
+Jizan,sixt,,unknown,Car Hire Jizan Airport | SIXT rent a car
+Khobar,sixt,,unknown,Car Hire Khobar Dhahran Road | SIXT rent a car
+Tabuk,sixt,,unknown,Car Hire Tabuk Airport | SIXT rent a car
+unknown,skoda,,unknown,Skoda Riyadh
+Dhahran,tommy_hilfiger,,unknown,Tommy Hilfiger
+Riyadh,tommy_hilfiger,,unknown,Tommy Hilfiger
+Jeddah,tommy_hilfiger,,unknown,Tommy Hilfiger
+Mecca,tommy_hilfiger,,unknown,Tommy Hilfiger
+Al Khobar,tommy_hilfiger,,unknown,Tommy Hilfiger
+RIYADH,united_colors_of_benetton,,unknown,Benetton Riyadh
+DHAHRAN,united_colors_of_benetton,,unknown,Benetton Dhahran
+JAZAN – DHAMAD,visa,,unknown,unknown
+MADINAH,visa,,unknown,unknown
+JEDDAH,visa,,unknown,unknown
+JIDDAH,visa,,unknown,unknown
+DHEBA,visa,,unknown,unknown
+DHUBA,visa,,unknown,unknown
+NORTH OF JEDDAH,visa,,unknown,unknown
+UMLUJ,visa,,unknown,unknown
+UMMLUJJ,visa,,unknown,unknown
+SHAGRA,visa,,unknown,unknown
+ALWAJH,visa,,unknown,unknown
+AL RASS,visa,,unknown,unknown
+DUBA,visa,,unknown,unknown
+ALBADAA,visa,,unknown,unknown
+DAHBAN,visa,,unknown,unknown
+YANBOU,visa,,unknown,unknown
+YANBU,visa,,unknown,unknown
+BAHRAH,visa,,unknown,unknown
+YANBU AL BAHR,visa,,unknown,unknown
+AL DAYIR,visa,,unknown,unknown
+ASFAN,visa,,unknown,unknown
+AHAD AL-MASARHA,visa,,unknown,unknown
+THOAL,visa,,unknown,unknown
+THUWAL,visa,,unknown,unknown
+KHULAIS,visa,,unknown,unknown
+RABEGH,visa,,unknown,unknown
+KHLEES,visa,,unknown,unknown
+HAQL,visa,,unknown,unknown
+KHLEESS,visa,,unknown,unknown
+ALLAYTH,visa,,unknown,unknown
+AL LAYTH,visa,,unknown,unknown
+RABIGH,visa,,unknown,unknown
+MAKKAH,visa,,unknown,unknown
+HUTAT SEDEER,visa,,unknown,unknown
+MAKKAH ALMOKARRAMAH,visa,,unknown,unknown
+HAQIL,visa,,unknown,unknown
+DAWMAT AL JANDAL,visa,,unknown,unknown
+HAQEL,visa,,unknown,unknown
+BASITA,visa,,unknown,unknown
+BADAYA,visa,,unknown,unknown
+BADAYI,visa,,unknown,unknown
+QUNFITHAH,visa,,unknown,unknown
+AL QUNFUDAH,visa,,unknown,unknown
+AL-KAMIL,visa,,unknown,unknown
+TAIF,visa,,unknown,unknown
+TABUK,visa,,unknown,unknown
+ALTAIF,visa,,unknown,unknown
+AL AIS,visa,,unknown,unknown
+TABOUK,visa,,unknown,unknown
+MAJMAA,visa,,unknown,unknown
+MAJMA'AH,visa,,unknown,unknown
+MOZAHEMIAH,visa,,unknown,unknown
+ARTAWIAH,visa,,unknown,unknown
+QELWAH,visa,,unknown,unknown
+SABT AL ALAYA,visa,,unknown,unknown
+RIYADH,visa,,unknown,unknown
+ALJAFER,visa,,unknown,unknown
+AL MANDAQ,visa,,unknown,unknown
+ALMANDAQ,visa,,unknown,unknown
+HALIT AMMAR,visa,,unknown,unknown
+ALDARB,visa,,unknown,unknown
+HALAT AMMAR,visa,,unknown,unknown
+AL MEKWAH,visa,,unknown,unknown
+ALMIKHWAH,visa,,unknown,unknown
+AL ULLA,visa,,unknown,unknown
+ULA,visa,,unknown,unknown
+JAZAN,visa,,unknown,unknown
+JEZAN,visa,,unknown,unknown
+JAMOM,visa,,unknown,unknown
+JIZAN,visa,,unknown,unknown
+BEESHA,visa,,unknown,unknown
+ALBASHAIR,visa,,unknown,unknown
+AL WADIYAN,visa,,unknown,unknown
+BAHA,visa,,unknown,unknown
+MOUHAIL ASIR,visa,,unknown,unknown
+MEHAYEL,visa,,unknown,unknown
+MAHAYL ASEER,visa,,unknown,unknown
+AL ANBARIYA,visa,,unknown,unknown
+AL KHOBEEB,visa,,unknown,unknown
+AL IBJADIYA,visa,,unknown,unknown
+MHAIL ASEER,visa,,unknown,unknown
+AL-BAHA,visa,,unknown,unknown
+BALJORASHY,visa,,unknown,unknown
+BALJORUSHI,visa,,unknown,unknown
+JAZAN - BAISH,visa,,unknown,unknown
+ALKHURMAH,visa,,unknown,unknown
+JAZAN - SABYA,visa,,unknown,unknown
+BAYSH,visa,,unknown,unknown
+BESHI,visa,,unknown,unknown
+BIESH,visa,,unknown,unknown
+SABYA,visa,,unknown,unknown
+SABBIYA,visa,,unknown,unknown
+SABIA,visa,,unknown,unknown
+BALJURASHI,visa,,unknown,unknown
+ALMADINAH ALMUNAWARAH,visa,,unknown,unknown
+KHABAT SAEED,visa,,unknown,unknown
+JAZAN - ABO ARISH,visa,,unknown,unknown
+SAMTA,visa,,unknown,unknown
+JAZAN - AHAD AL MESARHA,visa,,unknown,unknown
+QUWAYIYAH,visa,,unknown,unknown
+MADINA,visa,,unknown,unknown
+ABHA,visa,,unknown,unknown
+QUBBA,visa,,unknown,unknown
+JAZAN - SAMTA,visa,,unknown,unknown
+SAMTAH,visa,,unknown,unknown
+DHAMAD,visa,,unknown,unknown
+ABU ARAISH,visa,,unknown,unknown
+ALNAMAS,visa,,unknown,unknown
+WEST OF MADINAH,visa,,unknown,unknown
+EAST OF MADINAH,visa,,unknown,unknown
+AL MADINAH AL MUNAWWARAH,visa,,unknown,unknown
+AL OYOUN,visa,,unknown,unknown
+OYOUN AL JAWA,visa,,unknown,unknown
+DAWADMI,visa,,unknown,unknown
+TANOUMAH,visa,,unknown,unknown
+MEDINA,visa,,unknown,unknown
+BALLASMAR,visa,,unknown,unknown
+ASEER,visa,,unknown,unknown
+ABAH,visa,,unknown,unknown
+ABU AREESH,visa,,unknown,unknown
+JAZAN – AL ARDAH,visa,,unknown,unknown
+KHAMIS MUSHAIT,visa,,unknown,unknown
+KHAMIS MUSHIET,visa,,unknown,unknown
+ALMADINAH,visa,,unknown,unknown
+KHAMIS MUSHAYT,visa,,unknown,unknown
+TORBAH,visa,,unknown,unknown
+AHAD RAFIDAH,visa,,unknown,unknown
+DARB,visa,,unknown,unknown
+KHAYBAR,visa,,unknown,unknown
+SURAT OBEDIA,visa,,unknown,unknown
+SARAT ABEEDAH,visa,,unknown,unknown
+SARAT OBEDA,visa,,unknown,unknown
+SARAT OBEED,visa,,unknown,unknown
+TAYMA,visa,,unknown,unknown
+TAIMA,visa,,unknown,unknown
+BISHA,visa,,unknown,unknown
+NAJRAN,visa,,unknown,unknown
+AL HAIT,visa,,unknown,unknown
+ALLETH,visa,,unknown,unknown
+DELAM,visa,,unknown,unknown
+HABONA,visa,,unknown,unknown
+RANYAH,visa,,unknown,unknown
+ALBAHA,visa,,unknown,unknown
+ALHARAJAH,visa,,unknown,unknown
+HAIL,visa,,unknown,unknown
+DUBA AL SHIMAL,visa,,unknown,unknown
+AL SHIMLI,visa,,unknown,unknown
+TURBAT AL SHIMAL,visa,,unknown,unknown
+AL HADITHA,visa,,unknown,unknown
+HADITHAH,visa,,unknown,unknown
+YITMA,visa,,unknown,unknown
+YDAMAH,visa,,unknown,unknown
+AL QURAYAT,visa,,unknown,unknown
+QURAYAT,visa,,unknown,unknown
+ALQURAYAT,visa,,unknown,unknown
+TABARJAL,visa,,unknown,unknown
+AL SULAYIL,visa,,unknown,unknown
+GHAZALA,visa,,unknown,unknown
+AFIF,visa,,unknown,unknown
+AFEEF,visa,,unknown,unknown
+MUQEEK,visa,,unknown,unknown
+SAIHAT,visa,,unknown,unknown
+JUBBAH,visa,,unknown,unknown
+DOMAT AL JANDAL,visa,,unknown,unknown
+DOUMAT AL JANDAL,visa,,unknown,unknown
+WADI DAWASIR,visa,,unknown,unknown
+TURAIF,visa,,unknown,unknown
+TUREEF,visa,,unknown,unknown
+SKAKA,visa,,unknown,unknown
+RAWDAT HAIL,visa,,unknown,unknown
+SAKAKA,visa,,unknown,unknown
+AL JOUF,visa,,unknown,unknown
+JOWAF,visa,,unknown,unknown
+AJFOUR,visa,,unknown,unknown
+AL NAQE'E,visa,,unknown,unknown
+SHINAN,visa,,unknown,unknown
+RASS,visa,,unknown,unknown
+AL DAWADMI,visa,,unknown,unknown
+DUKHNA,visa,,unknown,unknown
+RIYADH ALKABRA,visa,,unknown,unknown
+ALRASS,visa,,unknown,unknown
+AR RASS,visa,,unknown,unknown
+BAQA,visa,,unknown,unknown
+RAS TANAJEEB,visa,,unknown,unknown
+RAS MUSHAB,visa,,unknown,unknown
+BURAIDAH,visa,,unknown,unknown
+DAWDMI,visa,,unknown,unknown
+AL KHABRA,visa,,unknown,unknown
+ONAIZA,visa,,unknown,unknown
+ALBADAI,visa,,unknown,unknown
+BKAIRIAH,visa,,unknown,unknown
+AL BIKARIYA,visa,,unknown,unknown
+SHAROURAH,visa,,unknown,unknown
+SHARORA,visa,,unknown,unknown
+BADAIE,visa,,unknown,unknown
+QUWARA,visa,,unknown,unknown
+QASEEM,visa,,unknown,unknown
+ARAR,visa,,unknown,unknown
+ARA'AR,visa,,unknown,unknown
+UNAIZAH,visa,,unknown,unknown
+AR`AR,visa,,unknown,unknown
+UNAYZAH,visa,,unknown,unknown
+BUREDA,visa,,unknown,unknown
+ONAIZAH,visa,,unknown,unknown
+SHIRI,visa,,unknown,unknown
+ALMIDHNAB,visa,,unknown,unknown
+BURAIYDAH,visa,,unknown,unknown
+BURAYDAH,visa,,unknown,unknown
+MIDHNAB,visa,,unknown,unknown
+AL SAFRA,visa,,unknown,unknown
+SAFRA,visa,,unknown,unknown
+ALJARDAH,visa,,unknown,unknown
+MIDDLE OF QASEEM,visa,,unknown,unknown
+BURIDAH,visa,,unknown,unknown
+BURAIDA,visa,,unknown,unknown
+METHNAB,visa,,unknown,unknown
+ALEHSAA,visa,,unknown,unknown
+HASA,visa,,unknown,unknown
+AL ASYAH,visa,,unknown,unknown
+ALHASSA,visa,,unknown,unknown
+AL MITHNIB,visa,,unknown,unknown
+AL RAFAYE,visa,,unknown,unknown
+SAJER,visa,,unknown,unknown
+SAJIR,visa,,unknown,unknown
+KAHFA,visa,,unknown,unknown
+AR RIYAD,visa,,unknown,unknown
+QUAIEYYAH,visa,,unknown,unknown
+BAREQ,visa,,unknown,unknown
+AL SHMASIYA,visa,,unknown,unknown
+OQLAT AL SUQOUR,visa,,unknown,unknown
+ZULFI,visa,,unknown,unknown
+AL ZULFI,visa,,unknown,unknown
+AL AFLAJ,visa,,unknown,unknown
+AL GHAT,visa,,unknown,unknown
+GHAT,visa,,unknown,unknown
+SHAQRA,visa,,unknown,unknown
+QARAYAT AL ALAYA,visa,,unknown,unknown
+JALAJIL,visa,,unknown,unknown
+RAFHA,visa,,unknown,unknown
+AL MAJMA'AH,visa,,unknown,unknown
+RAWDAT SIDEER,visa,,unknown,unknown
+DURMA,visa,,unknown,unknown
+RGABA,visa,,unknown,unknown
+HAWTET SUDAIR,visa,,unknown,unknown
+HAWTAT SUDAYR,visa,,unknown,unknown
+AL MAJMA'A,visa,,unknown,unknown
+MUZAHMEYAH,visa,,unknown,unknown
+DHURMA,visa,,unknown,unknown
+THADIQ,visa,,unknown,unknown
+AL MOZAHEMIAH,visa,,unknown,unknown
+MZAHMYAH,visa,,unknown,unknown
+HORIMLA,visa,,unknown,unknown
+BAQA'A,visa,,unknown,unknown
+BAKIRIYAH,visa,,unknown,unknown
+EAST OF RIYADH,visa,,unknown,unknown
+HOFUF,visa,,unknown,unknown
+DERIEYYAH,visa,,unknown,unknown
+KHOBAR,visa,,unknown,unknown
+DAMMAM,visa,,unknown,unknown
+HAFER AL BATEN,visa,,unknown,unknown
+THOQBAH,visa,,unknown,unknown
+DHAHRAN,visa,,unknown,unknown
+OYAYNA,visa,,unknown,unknown
+SAFWA,visa,,unknown,unknown
+KHAFJI,visa,,unknown,unknown
+ABQAIQ,visa,,unknown,unknown
+K. MUSHAIT,visa,,unknown,unknown
+QATIF,visa,,unknown,unknown
+JUBAIL,visa,,unknown,unknown
+MUBARRAZ,visa,,unknown,unknown
+OYOUN AL JWA,visa,,unknown,unknown
+MIDDLE OF RIYADH,visa,,unknown,unknown
+DERIAH,visa,,unknown,unknown
+AD-DIRIYAH,visa,,unknown,unknown
+KHARJ,visa,,unknown,unknown
+AHED RUFAIDAH,visa,,unknown,unknown
+RIYADH AL KHABRA,visa,,unknown,unknown
+AMNCO,visa,,unknown,unknown
+WEST OF RIYADH,visa,,unknown,unknown
+NORTH OF RIYADH,visa,,unknown,unknown
+SOLAYEL,visa,,unknown,unknown
+HAREEDAH,visa,,unknown,unknown
+HAFER AL BATEN M.,visa,,unknown,unknown
+WADI AL DAWASER,visa,,unknown,unknown
+TOMAIR,visa,,unknown,unknown
+NAYRIAH,visa,,unknown,unknown
+NAMAS,visa,,unknown,unknown
+BADER,visa,,unknown,unknown
+SEHAT,visa,,unknown,unknown
+AL WAJEH,visa,,unknown,unknown
+HOTAT BANI TAMIM,visa,,unknown,unknown
+MANFUHA,visa,,unknown,unknown
+UYUN,visa,,unknown,unknown
+ROQAIY,visa,,unknown,unknown
+TARUT,visa,,unknown,unknown
+DAMAD,visa,,unknown,unknown
+CENTRAL AREA,visa,,unknown,unknown
+HAFUF,visa,,unknown,unknown
+MOBILE,visa,,unknown,unknown
+FAWARA,visa,,unknown,unknown
+HUTAT SUDEER,visa,,unknown,unknown
+AHAD RAFEDA,visa,,unknown,unknown
+EHSA,visa,,unknown,unknown
+WESTERN AREA,visa,,unknown,unknown
+K. MUSHEET,visa,,unknown,unknown
+REMITTANCE,visa,,unknown,unknown
+ALSHEEBEN,visa,,unknown,unknown
+ALMAZNAB,visa,,unknown,unknown
+ONAYZA,visa,,unknown,unknown
+OMRAN,visa,,unknown,unknown
+HAFOUF,visa,,unknown,unknown
+AFLAJ,visa,,unknown,unknown
+ISMERA,visa,,unknown,unknown
+BEKAIRIAH,visa,,unknown,unknown
+QURAISH,visa,,unknown,unknown
+FAYZIYA,visa,,unknown,unknown
+KITTAH,visa,,unknown,unknown
+ALTWAL,visa,,unknown,unknown
+AL SSADDA,visa,,unknown,unknown
+SADYAN,visa,,unknown,unknown
+ALKHARJ,visa,,unknown,unknown
+RAS TANOURAH,visa,,unknown,unknown
+AARDAH,visa,,unknown,unknown
+ALDELIM,visa,,unknown,unknown
+AL KHARJ,visa,,unknown,unknown
+AL-KHARAJ,visa,,unknown,unknown
+HAFR ALBATEN,visa,,unknown,unknown
+RMAH,visa,,unknown,unknown
+HAFAR ALBATIN,visa,,unknown,unknown
+HAFER AL BATIN,visa,,unknown,unknown
+HAFR AL BATIN,visa,,unknown,unknown
+HAFAR AL BATIN,visa,,unknown,unknown
+HAFER ALBATEN,visa,,unknown,unknown
+AL QAYSOMA,visa,,unknown,unknown
+ALQAISUMAH,visa,,unknown,unknown
+UM AL SAHIK,visa,,unknown,unknown
+AL RUQEI,visa,,unknown,unknown
+ALSARAR,visa,,unknown,unknown
+UDHALIYAH,visa,,unknown,unknown
+NAFI,visa,,unknown,unknown
+MALIDA,visa,,unknown,unknown
+NARIYAH,visa,,unknown,unknown
+AL HAFOUF,visa,,unknown,unknown
+AL HASSA,visa,,unknown,unknown
+ALHAFOOF,visa,,unknown,unknown
+HUFUF,visa,,unknown,unknown
+AL MUBARRAZ,visa,,unknown,unknown
+AL BAKERIA,visa,,unknown,unknown
+ALBAKERIA,visa,,unknown,unknown
+AL ASIYAH,visa,,unknown,unknown
+AL JAFR,visa,,unknown,unknown
+JAFR,visa,,unknown,unknown
+AL KHAFJI,visa,,unknown,unknown
+ALKHAFJI,visa,,unknown,unknown
+EASTERN AREA,visa,,unknown,unknown
+AL JUBAYL,visa,,unknown,unknown
+JUBAIL INDUSTRIAL,visa,,unknown,unknown
+AL EHSA,visa,,unknown,unknown
+AL IHSA,visa,,unknown,unknown
+ALJUBAYL,visa,,unknown,unknown
+ALJUBAIL,visa,,unknown,unknown
+DAHRAN,visa,,unknown,unknown
+ALQATIF,visa,,unknown,unknown
+OM AL SAHIK,visa,,unknown,unknown
+OM AL SAHEK,visa,,unknown,unknown
+AL JARDA,visa,,unknown,unknown
+AD DAMMAM,visa,,unknown,unknown
+SAYHAT,visa,,unknown,unknown
+ALQATIFF,visa,,unknown,unknown
+SEIHAT,visa,,unknown,unknown
+AL-KHOBAR,visa,,unknown,unknown
+QATIFF,visa,,unknown,unknown
+ADDAMMAM,visa,,unknown,unknown
+SEYHAT,visa,,unknown,unknown
+AL KHOBAR,visa,,unknown,unknown
+DHAHRAN JANOU,visa,,unknown,unknown
+DAHRAN AL JANOUB,visa,,unknown,unknown
+DHRAN ALJANOOB,visa,,unknown,unknown
+ALWADEEN,visa,,unknown,unknown
+TUHAMA,visa,,unknown,unknown
+ALKHOBAR,visa,,unknown,unknown
+ATH THUQBAH,visa,,unknown,unknown
+TARROUT,visa,,unknown,unknown
+TAROUT,visa,,unknown,unknown
+THUQBA,visa,,unknown,unknown
+ALKHUBAR,visa,,unknown,unknown
+AL AQRABIYA,visa,,unknown,unknown
+KHUBAR,visa,,unknown,unknown
+RAS TANNURAH,visa,,unknown,unknown
+RAS TANURA,visa,,unknown,unknown
+RAS TANNOURAH,visa,,unknown,unknown
+RA''S TANNURAH,visa,,unknown,unknown
+AREEDAH,visa,,unknown,unknown
+ARTAWIYA,visa,,unknown,unknown

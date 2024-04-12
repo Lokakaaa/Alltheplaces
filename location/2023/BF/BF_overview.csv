@@ -1,0 +1,338 @@
+State,Place Name,City,Establishments
+BP23,avis,Ouagadougou,1
+OUAGADOUGOU,avis,Ouagadougou,1
+UNKNOWN,ford,Ouagadougou,3
+UNKNOWN,ford,Uagadugu,1
+UNKNOWN,moneygram,OUAGADOUGOU,656
+UNKNOWN,moneygram,BEGUEDO,12
+UNKNOWN,moneygram,BANFORA,12
+UNKNOWN,moneygram,DEDOUGOU,8
+UNKNOWN,moneygram,BOUSSOUMA,3
+UNKNOWN,moneygram,BOBO-DIOULASSO,83
+UNKNOWN,moneygram,TOUGAN,4
+UNKNOWN,moneygram,FADA,4
+UNKNOWN,moneygram,KOUDOUGOU,22
+UNKNOWN,moneygram,OUAGAOUGOU,1
+UNKNOWN,moneygram,MOGTEDO,5
+UNKNOWN,moneygram,SAABA,8
+UNKNOWN,moneygram,BITTOU,3
+UNKNOWN,moneygram,OUAGADOUDOU,3
+UNKNOWN,moneygram,FADA N'GOURMA,8
+UNKNOWN,moneygram,DORI,10
+UNKNOWN,moneygram,POUYTENGA,7
+UNKNOWN,moneygram,GAOUA,7
+UNKNOWN,moneygram,OUAHIGOUYA,11
+UNKNOWN,moneygram,OUAGADOGOU,4
+UNKNOWN,moneygram,ORODARA,5
+UNKNOWN,moneygram,KAYA,9
+UNKNOWN,moneygram,HOUNDE,7
+UNKNOWN,moneygram,YAKO,2
+UNKNOWN,moneygram,TENKODOGO,13
+UNKNOWN,moneygram,MANGA,5
+UNKNOWN,moneygram,DIEBOUGOU,3
+UNKNOWN,moneygram,NIAOGHO,3
+UNKNOWN,moneygram,GARANGO,9
+UNKNOWN,moneygram,KONGOUSSI,3
+UNKNOWN,moneygram,KOKOLOGO,1
+UNKNOWN,moneygram,CINKANSE,3
+UNKNOWN,moneygram,BOROMO,5
+UNKNOWN,moneygram,ZINIARE,8
+UNKNOWN,moneygram,OUAGAD,1
+UNKNOWN,moneygram,DIALGAYE,1
+UNKNOWN,moneygram,BAGRE,3
+UNKNOWN,moneygram,GON-BOUSSOUGOU,2
+UNKNOWN,moneygram,OUAGA,5
+UNKNOWN,moneygram,PO,5
+UNKNOWN,moneygram,KOMBISSIRI,3
+UNKNOWN,moneygram,DANO,2
+UNKNOWN,moneygram,KOMTOEGA,1
+UNKNOWN,moneygram,ZABRE,3
+UNKNOWN,moneygram,KADIOGO,1
+UNKNOWN,moneygram,TAMPOUY,1
+UNKNOWN,moneygram,BOGANDE,2
+UNKNOWN,moneygram,BOBO DIOULASSO,6
+UNKNOWN,moneygram,KOUPELA,5
+UNKNOWN,moneygram,NOUNA,2
+UNKNOWN,moneygram,KAMPTI,2
+UNKNOWN,moneygram,BOBO,2
+UNKNOWN,moneygram,TENNKODOGO,1
+UNKNOWN,moneygram,DIAPAGA,2
+UNKNOWN,moneygram,LEO,5
+UNKNOWN,moneygram,SOLENZO,2
+UNKNOWN,moneygram,DIABO,1
+UNKNOWN,moneygram,BITOU,1
+UNKNOWN,moneygram,ZORGHO,3
+UNKNOWN,moneygram,BOUSSE,2
+UNKNOWN,moneygram,NDOROLA,2
+UNKNOWN,moneygram,TENKOGODO,1
+UNKNOWN,moneygram,BOBO 2,1
+UNKNOWN,moneygram,BOASSA,1
+UNKNOWN,moneygram,OUAGOUDOUGOU,5
+UNKNOWN,moneygram,POUYTENGA TANLILI,1
+UNKNOWN,moneygram,ZOUNDWEOGO,1
+UNKNOWN,moneygram,OUARGAYE,3
+UNKNOWN,moneygram,BATIE,1
+UNKNOWN,moneygram,BOBO HAMDALAYE,1
+UNKNOWN,moneygram,DJIBO,1
+UNKNOWN,moneygram,SIDERADOUGOU,1
+UNKNOWN,moneygram,SINDOU,1
+UNKNOWN,moneygram,SAFANE,1
+UNKNOWN,moneygram,GOROM-GOROM,1
+UNKNOWN,moneygram,PAMA,1
+UNKNOWN,moneygram,BOULSA,1
+UNKNOWN,moneygram,TOUSSIANA,1
+UNKNOWN,moneygram,KINDI,1
+UNKNOWN,moneygram,SAPONE,1
+UNKNOWN,moneygram,GOURCY,1
+UNKNOWN,moneygram,TIKARE,1
+UNKNOWN,moneygram,TITAO,1
+UNKNOWN,moneygram,SEGUENEGA,1
+UNKNOWN,moneygram,TOMA,1
+UNKNOWN,moneygram,REO,1
+UNKNOWN,moneygram,KANTCHARI,1
+UNKNOWN,moneygram,NIANGOLOKO,1
+UNKNOWN,moneygram,BAMA,1
+UNKNOWN,moneygram,TEMA BOKIN,1
+UNKNOWN,moneygram,BOBO KOKO,1
+UNKNOWN,moneygram,POURA,1
+UNKNOWN,moneygram,DISSIN,1
+UNKNOWN,moneygram,DJIBASSO,1
+UNKNOWN,moneygram,GASSAN,1
+UNKNOWN,moneygram,BOBO NIENETA,1
+UNKNOWN,moneygram,KOUKA,1
+UNKNOWN,moneygram,KOUBRI,1
+UNKNOWN,moneygram,BONDOKUY,1
+UNKNOWN,moneygram,SAPOUY,1
+UNKNOWN,moneygram,SEEBA,1
+UNKNOWN,moneygram,GAYERI,1
+UNKNOWN,moneygram,ZAGTOULI,1
+UNKNOWN,moneygram,NAMOUNOU,1
+UNKNOWN,moneygram,OUESSA,1
+UNKNOWN,moneygram,FARAMANA,1
+UNKNOWN,moneygram,SABOU,1
+UNKNOWN,moneygram,MANNI,1
+UNKNOWN,moneygram,ARBINDA,1
+UNKNOWN,moneygram,BANZON,1
+UNKNOWN,moneygram,KIEMBARA,1
+UNKNOWN,moneygram,KORSIMORO,1
+UNKNOWN,moneygram,MANGODARA,1
+UNKNOWN,moneygram,PISSILA,1
+UNKNOWN,moneygram,BOURZANGA,1
+UNKNOWN,shell,Kaya,1
+UNKNOWN,shell,Ziniare,1
+UNKNOWN,shell,Kongoussi,1
+UNKNOWN,shell,Ouagadougou,51
+UNKNOWN,shell,Manga,1
+UNKNOWN,shell,Kombissiri,1
+UNKNOWN,shell,Beguedo,1
+UNKNOWN,shell,Gom-Boussougou,1
+UNKNOWN,shell,Po,1
+UNKNOWN,shell,Koubri,1
+UNKNOWN,shell,Tenkodogo,1
+UNKNOWN,shell,Zorgho,1
+UNKNOWN,shell,RÃ©o,1
+UNKNOWN,shell,Fada N'gourma,1
+UNKNOWN,shell,TOECE,1
+UNKNOWN,shell,Pouytenga,1
+UNKNOWN,shell,Gaoua,2
+UNKNOWN,shell,DiÃ©bougou,1
+UNKNOWN,shell,Boromo,1
+UNKNOWN,shell,Bobo-Dioulasso,13
+UNKNOWN,shell,Sabou,1
+UNKNOWN,shell,Dedougou,1
+UNKNOWN,shell,Banfora,1
+UNKNOWN,shell,Koudougou,2
+UNKNOWN,shell,Orodara,1
+UNKNOWN,shell,Nouna,1
+UNKNOWN,shell,BoussÃ©,1
+UNKNOWN,shell,Ouahigouya,1
+UNKNOWN,totalenergies,YAKO VILLE,1
+UNKNOWN,totalenergies,HOUNDE,1
+UNKNOWN,totalenergies,Boromo,2
+UNKNOWN,totalenergies,BOBO PROVINCE,9
+UNKNOWN,totalenergies,Dédougou,1
+UNKNOWN,totalenergies,Bobo-Dioulasso,11
+UNKNOWN,totalenergies,Ouagadougou,46
+UNKNOWN,totalenergies,Banfora,2
+UNKNOWN,totalenergies,BANFORA,1
+UNKNOWN,totalenergies,Bogande,2
+UNKNOWN,totalenergies,OUAGADOUGOU VILLE,3
+UNKNOWN,totalenergies,OUAGA VILLE,9
+UNKNOWN,totalenergies,BOBO VILLE,6
+UNKNOWN,totalenergies,Dano,2
+UNKNOWN,totalenergies,Fada N'Gourma,2
+UNKNOWN,totalenergies,Gaoua,4
+UNKNOWN,totalenergies,Garango,2
+UNKNOWN,totalenergies,OUAGADOUGOU,24
+UNKNOWN,totalenergies,Kaya,4
+UNKNOWN,totalenergies,Kongoussi,2
+UNKNOWN,totalenergies,Koudougou,4
+UNKNOWN,totalenergies,Koupela,2
+UNKNOWN,totalenergies,OUAGA PROVINCE,21
+UNKNOWN,totalenergies,Orodara,2
+UNKNOWN,totalenergies,Ouahigouya,4
+UNKNOWN,totalenergies,Ouaga Province,1
+UNKNOWN,totalenergies,Tenkodogo,2
+UNKNOWN,totalenergies,Toma,2
+UNKNOWN,totalenergies,Tougan,4
+UNKNOWN,totalenergies,Manni,2
+UNKNOWN,totalenergies,Ziniare,2
+UNKNOWN,totalenergies,Toussiana,2
+UNKNOWN,totalenergies,BOBO-DIOULASSO,3
+UNKNOWN,totalenergies,Boulsa,1
+UNKNOWN,totalenergies,Manga,2
+UNKNOWN,totalenergies,Zorgho,2
+UNKNOWN,totalenergies,Bobo Dioulasso,14
+UNKNOWN,totalenergies,BOBO-DIOULASSO VILLE,2
+UNKNOWN,totalenergies,Hounde,3
+UNKNOWN,totalenergies,OUAHIGOUYA,2
+UNKNOWN,totalenergies,Pô,1
+UNKNOWN,totalenergies,Tikare,2
+UNKNOWN,totalenergies,OUAGADOUGOU PROVINCE,12
+UNKNOWN,totalenergies,Boussé,1
+UNKNOWN,totalenergies,Gourcy,2
+UNKNOWN,totalenergies,Reo,2
+UNKNOWN,totalenergies,Pouytenga,2
+UNKNOWN,totalenergies,Djibo,2
+UNKNOWN,totalenergies,Toécé,1
+UNKNOWN,totalenergies,GUIE,1
+UNKNOWN,totalenergies,BOBO-DIOULASSO PROVINCE,12
+UNKNOWN,totalenergies,KOULBILA,1
+UNKNOWN,totalenergies,KOUDOUGOU,2
+UNKNOWN,totalenergies,OUAGADOGOU,1
+UNKNOWN,totalenergies,BOUSSOUMA,1
+UNKNOWN,totalenergies,Yako,2
+UNKNOWN,totalenergies,Loaga,2
+UNKNOWN,totalenergies,TENKODOGO,1
+UNKNOWN,totalenergies,KOMBISSIRI,1
+UNKNOWN,totalenergies,OUAGADOUGOUGOU,1
+UNKNOWN,totalenergies,BOROMO,1
+UNKNOWN,totalenergies,KANDATENGA,1
+UNKNOWN,totalenergies,KOUPELA,1
+UNKNOWN,totalenergies,ZINAIRE,1
+UNKNOWN,totalenergies,YIMDI,1
+UNKNOWN,totalenergies,Bousse,1
+UNKNOWN,totalenergies,BOBO - DIOULASSO,1
+UNKNOWN,totalenergies,Dedougou,1
+UNKNOWN,totalenergies,Di,1
+UNKNOWN,totalenergies,Zabre,1
+UNKNOWN,totalenergies,Gassan,1
+UNKNOWN,totalenergies,Po,1
+UNKNOWN,totalenergies,Yaba,1
+UNKNOWN,totalenergies,Fada,1
+UNKNOWN,visa,GAOUA,1
+UNKNOWN,visa,BANFORA,2
+UNKNOWN,visa,TENKODOGO,1
+UNKNOWN,visa,BOBO DIOULASSO_CENTRE DE CAL,1
+UNKNOWN,visa,BOBO DIOULASSO_PRESTI,1
+UNKNOWN,visa,DIAPAGA,1
+UNKNOWN,visa,POUYTENGA,1
+UNKNOWN,visa,BOBO DIOULASSO,5
+UNKNOWN,visa,OUAGADOUGOU_CISSIN,1
+UNKNOWN,visa,OUAGADOUGOU_PISSY,1
+UNKNOWN,visa,OUAGADOUGOU,22
+UNKNOWN,visa,GOUNGHIN,1
+UNKNOWN,visa,DASSASGO,1
+UNKNOWN,visa,YENNEGA,1
+UNKNOWN,visa,FADA,2
+UNKNOWN,visa,OUAGADOUGOU_SIAO,1
+UNKNOWN,visa,OUAGADOUGOU_SIEG1,1
+UNKNOWN,visa,OUAGADOUGOU_OUAHIGOUYA,1
+UNKNOWN,visa,OUAGADOUGOU_TENKODO,1
+UNKNOWN,visa,OUAGADOUGOU_TRAME,1
+UNKNOWN,visa,OUAGADOUGOU_SANKARY,1
+UNKNOWN,visa,OUAGADOUGOU_KONGOUS,1
+UNKNOWN,visa,OUAGADOUGOU_SIEG2,1
+UNKNOWN,visa,KOUDOUGOU_BENEBSOUKA,1
+UNKNOWN,visa,OUAGADOUGOU_1200,1
+UNKNOWN,visa,BENDOGO,1
+UNKNOWN,visa,TAMPOUY,1
+UNKNOWN,visa,KOUDOUGOU_UNIVERSITE,1
+UNKNOWN,visa,KOUDOUGOU,1
+UNKNOWN,visa,KAYA,1
+UNKNOWN,visa,DEDOUGOU,1
+UNKNOWN,visa,OUAHIGOUYA,1
+UNKNOWN,visa,DORI,1
+KENEDOUGOU,western_union,Orodara,2
+KENEDOUGOU,western_union,Banzon,1
+COMOE,western_union,Banfora,6
+HOUET,western_union,Bobo Dioulasso,42
+HOUET,western_union,Bobo-dioulasso,7
+PASSORE,western_union,Samba,1
+BOULKIEMDE,western_union,Koudougou,14
+UNKNOWN,western_union,Boulkiemde,1
+BOULKIEMDE,western_union,Sabou,1
+YATENGA,western_union,Ouahigouya,4
+SOUROU,western_union,Tougan,1
+ZONDOMA,western_union,Gourcy,1
+BAM,western_union,Kongoussi,1
+YATENGA,western_union,Yako,1
+KADIOGO,western_union,Ouagadougou,418
+BOULGOU,western_union,Boussouma,4
+SISSILI,western_union,Leo,3
+SANGUIE,western_union,Tita,1
+PONI,western_union,Kampti,1
+IOBA,western_union,Dano,1
+PONI,western_union,Gaoua,2
+MOUHOUN,western_union,Tcheriba,1
+MOUHOUN,western_union,Safane,1
+BANWA,western_union,Dedougou,1
+MOUHOUN,western_union,Dedougou,4
+BALE,western_union,Boromo,3
+BALES,western_union,Boromo,1
+BOULGOU,western_union,Tenkodogo,11
+TUY,western_union,Hounde,4
+BURKINAFASO,western_union,Bobo Dioulasso,3
+COMOE,western_union,Niangoloko,1
+BOUGOURIBA,western_union,Diebougou,2
+KADIOGO,western_union,Bobo Dioulasso,2
+HOUET,western_union,Bobo- Dioulasso,1
+BOULGOU,western_union,Garango,8
+NAHOURI,western_union,Po,3
+SANMATENGA,western_union,Kaya,3
+BOULKIEMDE,western_union,Nanoro,1
+UNKNOWN,western_union,Kaya,1
+PASSORE,western_union,Ouagadougou,1
+KOURWEOGO,western_union,Bousse,1
+BOULKIEMDE,western_union,Kokologo,2
+KADIOGO,western_union,Saaba,5
+KOURWEOGO,western_union,Sourgoubila,1
+KADIOGO,western_union,Kadiogo,1
+KADIOGO,western_union,Tanghin Dassouri,1
+UNKNOWN,western_union,Kadiogo,1
+BURKINAFASO,western_union,Ouagadougou,2
+UNKNOWN,western_union,Ouagadougou,5
+KADIOGO,western_union,Ziniare,1
+OUBRITENGA,western_union,Ziniare,2
+SENO,western_union,Dori,2
+KADIOGO,western_union,Ouagdougou,2
+ZOUNDWEOGO,western_union,Manga,3
+KADIAOGO,western_union,Ouagadougou,1
+KADIOGO,western_union,00788698gou,1
+BOULGOU,western_union,Beguedo,8
+BAZEGA,western_union,Kombissiri,3
+KADIOGO,western_union,Kombissiri,1
+NAMENTENGA,western_union,Boulsa,1
+BAZEGA,western_union,Sapone,1
+GANZOURGOU,western_union,Mogtedo,1
+GANZOURGOU,western_union,Tenkodogo,1
+GANZOURGOU,western_union,Zorgho,1
+KOURITENGA,western_union,Pouytenga,3
+GANZOURGOU,western_union,Boudri,1
+KOURITENGA,western_union,Koupela,3
+GOURMA,western_union,Fada N Gourma,4
+BOULGOU,western_union,Torla,1
+BOULGOU,western_union,Komtoega,1
+KADIOGO,western_union,Beguedo,1
+BOULGOU,western_union,Niaogho,1
+KADIOGO,western_union,Niaogho,1
+GOURMA,western_union,Fada Ngourma,1
+KOULPELOGO,western_union,Cinkanse,1
+UNKNOWN,western_union,Tenkodogo,1
+ZOUNDWEOGO,western_union,Komboussougou,1
+ZOUNDWEOGO,western_union,Gomboussougou,1
+BURKINAFASO,western_union,Manga,1
+NAHOURI,western_union,Tiebele Corabie,1
+KOULPELOGO,western_union,Ouargaye,1
+BOULGOU,western_union,Zabre,1
+BOULGOU,western_union,Bagre,1

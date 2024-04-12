@@ -1,0 +1,245 @@
+State,Place Name,City,Establishments
+SOUTHEAST,audi,Gaborone,1
+MAUN,avis,Maun,1
+KASANE,avis,Kasane,1
+GABORONE,avis,Gaborone,1
+FRANCISTOWN,avis,Francistown,1
+UNKNOWN,engen,Francistown,5
+UNKNOWN,engen,Bobonong,1
+UNKNOWN,engen,Gaborone,15
+UNKNOWN,engen,Serowe,2
+UNKNOWN,engen,Charles HIll,1
+UNKNOWN,engen,Mahalapye,2
+UNKNOWN,engen,Ghanzi,1
+UNKNOWN,engen,Gumare,1
+UNKNOWN,engen,Kang,1
+UNKNOWN,engen,Kanye,1
+UNKNOWN,engen,Kazungula,1
+UNKNOWN,engen,Kgatleng,1
+UNKNOWN,engen,Letlhakane,1
+UNKNOWN,engen,Lobatse,1
+UNKNOWN,engen,Tutume,2
+UNKNOWN,engen,Ramokgwebana,2
+UNKNOWN,engen,Molepolole,1
+UNKNOWN,engen,Mopipi,1
+UNKNOWN,engen,Bokaa,1
+UNKNOWN,engen,Moshupa,1
+UNKNOWN,engen,Nata,1
+UNKNOWN,engen,Orapa,1
+UNKNOWN,engen,Palapye,1
+UNKNOWN,engen,Pandamatenga,1
+UNKNOWN,engen,Maun,1
+UNKNOWN,engen,Phaphane,1
+UNKNOWN,engen,Selebi Phikwe,2
+UNKNOWN,engen,Ramokgonami,1
+UNKNOWN,engen,Ramotswa,1
+UNKNOWN,engen,Sebina,1
+UNKNOWN,engen,Thamaga,1
+UNKNOWN,engen,Tsabong,1
+UNKNOWN,engen,Tonota,1
+UNKNOWN,ernst_young,Gaborone,1
+UNKNOWN,ford,Francistown,1
+UNKNOWN,ford,Gaborone,1
+FRANCISTOWN,lovisa,Francistown,1
+FRANCISTOWN,lovisa,Farm Forest Hill,1
+GABORONE,lovisa,South East,1
+SOUTHEASTERN,lovisa,Garborone,1
+UNKNOWN,man_truck_and_bus,"Gaborone, Botswana",1
+UNKNOWN,man_truck_and_bus,Francistown,1
+UNKNOWN,marriott,Gaborone,1
+UNKNOWN,moneygram,GABORONE,11
+UNKNOWN,moneygram,MAUN,2
+UNKNOWN,moneygram,FRANCISTOWN,2
+UNKNOWN,moneygram,KASANE,2
+UNKNOWN,nissan_europe,Francistown,1
+UNKNOWN,nissan_europe,Gaborone,1
+UNKNOWN,nissan_europe,Maun,1
+UNKNOWN,scania,Francistown,1
+UNKNOWN,scania,Gaborone,1
+BOTSWANA,shell,Goodhope,1
+BOTSWANA,shell,Lobatse,5
+BOTSWANA,shell,Otse,1
+BOTSWANA,shell,Ramotswa,1
+BOTSWANA,shell,Kanye,2
+BOTSWANA,shell,Tlokweng,2
+BOTSWANA,shell,Gaborone,10
+BOTSWANA,shell,Moshupa,2
+BOTSWANA,shell,Gabane,1
+BOTSWANA,shell,Mogoditshane,5
+BOTSWANA,shell,Mochudi,2
+BOTSWANA,shell,Shakawe,2
+BOTSWANA,shell,Sikwane,1
+BOTSWANA,shell,Gumare,1
+BOTSWANA,shell,Sehithwa,1
+BOTSWANA,shell,Maun,3
+BOTSWANA,shell,Ghanzi,1
+BOTSWANA,shell,Serule,1
+BOTSWANA,shell,Mmadinare,1
+BOTSWANA,shell,Selibe Phikwe,3
+BOTSWANA,shell,Palapye,2
+BOTSWANA,shell,Serowe,3
+BOTSWANA,shell,Francistown,5
+BOTSWANA,shell,Mathangwane,1
+BOTSWANA,shell,Mokubilo,1
+BOTSWANA,shell,Mahalapye,2
+BOTSWANA,shell,Shoshong,1
+BOTSWANA,shell,Masunga,1
+BOTSWANA,shell,Machaneng,1
+BOTSWANA,shell,Letlhakane,1
+BOTSWANA,shell,Sowa Town,1
+BOTSWANA,shell,Mookane,1
+BOTSWANA,shell,Nata,1
+BOTSWANA,shell,Mopipi,1
+BOTSWANA,shell,Gweta,1
+BOTSWANA,shell,Pilane,1
+BOTSWANA,shell,Molepolole,2
+BOTSWANA,shell,Metsimotlhabe,1
+BOTSWANA,shell,Hukuntsi,1
+BOTSWANA,shell,Letlhakeng,1
+BOTSWANA,shell,Jwaneng,1
+BOTSWANA,shell,Mabutsane,1
+BOTSWANA,shell,Kang,1
+BOTSWANA,shell,Kasane,1
+BOTSWANA,shell,Tsabong,1
+CENTRAL,the_courier_guy,unknown,3
+KGATLENG,the_courier_guy,unknown,1
+UNKNOWN,the_courier_guy,unknown,1
+SOUTHEAST,the_courier_guy,unknown,1
+KGALAGADI,the_courier_guy,unknown,1
+SOUTHEAST,tops_at_spar,Botswana,4
+CENTRAL,tops_at_spar,Botswana,1
+NORTHWEST,tops_at_spar,Botswana,2
+NORTHEAST,tops_at_spar,Botswana,1
+KGATLENG,tops_at_spar,"PHAKALANE, BOTSWANA",1
+SOUTHEAST,tops_at_spar,"Gabarone, Botswana",1
+UNKNOWN,totalenergies,Molepolole,2
+UNKNOWN,totalenergies,Palapye,2
+UNKNOWN,totalenergies,Selebi-Phikwe,1
+UNKNOWN,totalenergies,Sherwood,1
+UNKNOWN,totalenergies,Francistown,1
+UNKNOWN,totalenergies,Kanye,2
+UNKNOWN,totalenergies,Gaborone,7
+UNKNOWN,totalenergies,unknown,3
+UNKNOWN,totalenergies,Letlhakeng,1
+UNKNOWN,totalenergies,DIBETE,1
+UNKNOWN,totalenergies,Sefhare,1
+UNKNOWN,totalenergies,OODI,1
+SOUTHEAST,truworths,Rustenburg,2
+NORTHEAST,truworths,Eastern Cape,1
+UNKNOWN,visa,GUMARE,1
+UNKNOWN,visa,GHANZI,2
+UNKNOWN,visa,GANTSI,1
+UNKNOWN,visa,MAUN,5
+UNKNOWN,visa,KASANE TOWNSHIP,1
+UNKNOWN,visa,KASANE,3
+UNKNOWN,visa,KAZUNGULA,1
+UNKNOWN,visa,KANG,1
+UNKNOWN,visa,ORAPA,1
+UNKNOWN,visa,SOWA,1
+UNKNOWN,visa,LETLHAKANE VILLAGE,1
+UNKNOWN,visa,TURUME,1
+UNKNOWN,visa,TSABONG,1
+UNKNOWN,visa,MASUNGA,1
+UNKNOWN,visa,FRANCISTOWN,6
+UNKNOWN,visa,TONOTA VILLAGE,1
+UNKNOWN,visa,SEROWE,3
+UNKNOWN,visa,SEROWE VILLAGE,1
+UNKNOWN,visa,JWANENG,3
+UNKNOWN,visa,PHIKWE,2
+UNKNOWN,visa,S/PHIKWE,1
+UNKNOWN,visa,PALAPYE,7
+UNKNOWN,visa,MOLEPOLOLE,4
+UNKNOWN,visa,MOLEPOLOLE VILLAGE,2
+UNKNOWN,visa,MAHALAPYE,3
+UNKNOWN,visa,MAHALAPYE VILLAGE,1
+UNKNOWN,visa,MAHALPYE,1
+UNKNOWN,visa,THAMAGA VILLAGE,1
+UNKNOWN,visa,SELIBE-PHIKWE,1
+UNKNOWN,visa,SELEBI PHIKWE,1
+UNKNOWN,visa,S/PHIKWE MALL,1
+UNKNOWN,visa,KANYE,1
+UNKNOWN,visa,KANYE VILLAGE,1
+UNKNOWN,visa,MOGODITSHANE,4
+UNKNOWN,visa,MOGODITSHANE VILLAGE,1
+UNKNOWN,visa,GABORONE,58
+UNKNOWN,visa,MOSHUPA,1
+UNKNOWN,visa,MOCHUDI,2
+UNKNOWN,visa,GLEN VALLEY,1
+UNKNOWN,visa,F/ TOWN,6
+UNKNOWN,visa,F/TOWN,1
+UNKNOWN,visa,"GAME, GABORONE",1
+UNKNOWN,visa,MOCHUDI VILLAGE,1
+UNKNOWN,visa,MAUN VILLAGE,1
+UNKNOWN,visa,NATA VILLAGE,1
+UNKNOWN,visa,TLOKWENG,1
+UNKNOWN,visa,RAMOTSWA VILLAGE,1
+UNKNOWN,visa,RAMOTSWA,1
+UNKNOWN,visa,OTSE,1
+UNKNOWN,visa,LOBATSE,3
+UNKNOWN,visa,LOBATSE TOWN,1
+UNKNOWN,visa,PHITSHANE VILLAGE,1
+NORTHEASTDISTRICT,western_union,Nata,1
+NORTHEASTDISTRICT,western_union,Tsabong,1
+KGALAGADI,western_union,Hukuntsi,1
+NORTHEASTDISTRICT,western_union,Mabutsane,1
+NORTHEASTDISTRICT,western_union,Kang,1
+NORTHEASTDISTRICT,western_union,Maun,4
+GABORONE,western_union,Maun,1
+NGAMILAND,western_union,Maun,1
+CENTRAL,western_union,Gweta,1
+NORTHEASTDISTRICT,western_union,Orapa,1
+NORTHEASTDISTRICT,western_union,Tonota,2
+GHANZI,western_union,Ghanzi,1
+NGAMILAND,western_union,Etsha,1
+NORTHEASTDISTRICT,western_union,Sowa,1
+CENTRAL,western_union,Nata,1
+NORTHEASTDISTRICT,western_union,Gaborone,2
+SOWA,western_union,Dukwi,1
+CHOBE,western_union,Kazungula,2
+NORTHEASTDISTRICT,western_union,Kasane,3
+CHOBE,western_union,Kasane,1
+NORTHEASTDISTRICT,western_union,Molepolole,4
+KWENENG,western_union,Molepolole,1
+NORTHEASTDISTRICT,western_union,Pijsane,1
+NORTHEASTDISTRICT,western_union,Sefhare,1
+NORTHEASTDISTRICT,western_union,Mahalapye,1
+CENTRAL,western_union,Mahalapye,1
+NORTHEASTDISTRICT,western_union,Madiba,1
+CENTRAL,western_union,Lerala,1
+NORTHEASTDISTRICT,western_union,Shoshong,1
+CENTRAL,western_union,Serule,1
+NORTHEASTDISTRICT,western_union,Maunatlala,1
+CENTRAL,western_union,Lecheng,1
+NORTHEASTDISTRICT,western_union,Jwaneng,1
+JWANENG,western_union,Maokane,1
+NORTHEASTDISTRICT,western_union,Tutume,1
+NORTHEASTDISTRICT,western_union,Masunga,1
+NORTHEASTDISTRICT,western_union,Francistown,2
+FRANCISTOWN,western_union,Francistown,5
+NORTHEASTDISTRICT,western_union,Tatitown,1
+FRANCISTOWN,western_union,Tatisiding,1
+NORTHEASTDISTRICT,western_union,Selibe Pikwe,1
+NORTHEASTDISTRICT,western_union,Selebi Phikwe,1
+NORTHEASTDISTRICT,western_union,Sebina,1
+CENTRAL,western_union,Maitengwe,1
+CENTRAL,western_union,Bobonong,1
+NORTHEASTDISTRICT,western_union,Ramokgwebana,1
+KWENENG,western_union,Lentsweletau,1
+NORTHEASTDISTRICT,western_union,Thamaga,1
+NORTHEASTDISTRICT,western_union,Moshupa,1
+SOUTHERNDISTRICT,western_union,Kanye,1
+NORTHEASTDISTRICT,western_union,Mmasekou,1
+NORTHEASTDISTRICT,western_union,Kanye,1
+SOUTH,western_union,Mmathethe,1
+GABORONE,western_union,Gaborone,21
+SOUTHEASTDISTRICT,western_union,Gaborone,1
+NORTHEASTDISTRICT,western_union,Lobatse,2
+NORTHEASTDISTRICT,western_union,Mogoditshana,1
+KWENENG,western_union,Gaborone,1
+NORTHEASTDISTRICT,western_union,Metsimotlhabe,1
+NORTHEASTDISTRICT,western_union,Goodhope,1
+NORTHEASTDISTRICT,western_union,Mochudi,4
+NORTHEASTDISTRICT,western_union,Ramotswa,1
+KGATLENG,western_union,Mochudi,1
+SOUTHEASTDISTRICT,western_union,Ramotswa,1
+NORTHEASTDISTRICT,western_union,Taung,1

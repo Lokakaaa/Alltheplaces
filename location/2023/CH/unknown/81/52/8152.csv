@@ -1,0 +1,30 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+SWB-87,aldi_sud_ch,ALDI,"Balz-Zimmermannstrasse 7, Opfikon-Glattbrugg, 8152",Opfikon-Glattbrugg,,,CH,+41 44 666 20 04,,Mo-Su 07:30-20:00,ALDI,Q41171672
+50524_1,bmw_group,Rolls-Royce Motor Cars Zurich,,Zurich,,,CH,+41 43 211 44 41,,,Rolls-Royce,Q243278
+bahnhofplatz-8a-8152-glattbrugg,denner_ch,Denner,,Glattbrugg,,,CH,+41 58 999 14 41,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/bahnhofplatz-8a-8152-glattbrugg/,Mo-Fr 07:30-20:00; Sa 08:00-20:00,Denner,Q379911
+thurgauerstrasse-106-8152-glattbrugg,denner_ch,Denner,,Glattbrugg,,,CH,+41 58 999 13 50,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/thurgauerstrasse-106-8152-glattbrugg/,Mo-Sa 08:00-20:00,Denner,Q379911
+116-8152-opfikon,denner_ch,Denner,,Opfikon,,,CH,+41 58 999 65 02,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/wallisellerstrasse-114/116-8152-opfikon/,Mo-Sa 08:00-20:00,Denner,Q379911
+schaffhauserstrasse-141-8152-glattbrugg,denner_ch,Denner,,Glattbrugg,,,CH,+41 58 999 04 30,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/schaffhauserstrasse-141-8152-glattbrugg/,Mo-Sa 07:00-20:00,Denner,Q379911
+sharedmobility.ch:carvelo2go:a3e2c5ab-3990-4f8b-b438-c513946fdb39,gbfs,CASACOSI restaurant & bar,,,,,CH,,https://www.sharedmobility.ch/info,,sharedmobility.ch,
+publibike:66d76a20-2eb9-490f-a48f-2560e07ce3a5,gbfs,Bahnhof Opfikon,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:26c775c7-16d2-47ce-91ed-5f5ee7616ec0,gbfs,Bahnhof Glattbrugg,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:0759c9a7-2e4a-414f-b9c6-a507724d6d6f,gbfs,Boulevard Lilienthal,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:bdc7db74-8a33-4b02-9825-85db8d29efc7,gbfs,Sirius-Platz,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:0e5e1e7b-4738-452b-bd28-99ed11000255,gbfs,Stadthaus Opfikon,,,,,CH,,https://www.publibike.ch,,PubliBike,
+sharedmobility.ch:sponticar:1704,gbfs,Opfikon,,,,,CH,,https://www.sharedmobility.ch/info,,sharedmobility.ch,
+4797382_mno,migros_ch,Migrolino,,Glattbrugg,,,CH,+41 58 563 32 50,https://filialen.migros.ch/de/migrolino-glattbrugg-2,Mo-Sa 06:00-22:00; Su 07:00-22:00,Migrolino,Q56745088
+4797235_mno,migros_ch,Migrolino,,Glattbrugg,,,CH,+41 61 512 17 09,https://filialen.migros.ch/de/migrolino-glattbrugg,Mo-Th 05:30-22:00; Fr 05:30-23:00; Sa 06:00-23:00; Su 06:00-22:00,Migrolino,Q56745088
+0150056_super,migros_ch,Migros,,Glattbrugg,,,CH,+41 44 810 65 63,https://filialen.migros.ch/de/migros-supermarkt-glattbrugg,Mo-Sa 07:30-20:00,Migros,Q115661152
+0150154_1169_pickmup_smvmpmubox,migros_ch,PickMup Box,,Opfikon,,,CH,+41 58 561 00 00,https://filialen.migros.ch/de/box-m-opfikon-glattpark-opfikon-glattpark,Mo-Sa 08:00-20:00,PickMup Box,Q115679275
+0150154_super,migros_ch,Migros,,Opfikon,,,CH,+41 58 561 00 00,https://filialen.migros.ch/de/migros-supermarkt-opfikon-glattpark,Mo-Sa 08:00-20:00,Migros,Q115661152
+4797236_mno,migros_ch,Migrolino,,Glattbrugg,,,CH,+41 61 512 17 31,https://filialen.migros.ch/de/migrolino-opfikon,Mo-Th 06:00-22:00; Fr-Sa 06:00-24:00; Su 07:00-22:00,Migrolino,Q56745088
+75600300_001-renault,renault,RRG SUISSE SA,,GLATTPARK (OPFIKON),,,CH,+41 840 774 774,,,Renault,Q6686
+75600300_001-dacia,renault,RRG SUISSE SA,,GLATTPARK (OPFIKON),,,CH,+41 840 774 774,,,Dacia,Q27460
+7612555515332,valora,k kiosk,,Glattbrugg,,,CH,,,,k kiosk,Q60381703
+395,valora,Avec,,Glattbrugg,,,CH,,,,Avec,Q103863974
+,visa,,,ZURICH,,,CH,,,,,
+,visa,,,GLATTPARK,,,CH,,,,,
+,visa,,,GLATTPARK,,,CH,,,,,
+,visa,,,OPFIKON,,,CH,,,,,
+,visa,,,GLATTBRUGG,,,CH,,,,,
+,visa,,,OPFIKON,,,CH,,,,,

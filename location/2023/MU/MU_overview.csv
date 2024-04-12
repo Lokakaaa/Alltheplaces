@@ -1,0 +1,307 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,2
+MOKA,audi,Réduit,1
+BELLEMARE,avis,Belle Mare,3
+TROUDEAUDOUCE,avis,Trou D Eau Douce,2
+POSTEDEFLACQ,avis,Belle Mare,2
+LECOCOBEACH,avis,Belle Mare,1
+MAHEBOURG,avis,Mahebourg,2
+BAIEAUXTORTUES,avis,Point Aux Piments,1
+BALACLAVA,avis,Balaclava,2
+FLICENFLAC,avis,Flic en Flac,4
+WOLMAR,avis,Flic en Flac,1
+PLAINEMAGNIEN,avis,Plaine Magnien,1
+PLAISANCE,avis,Plaisance,1
+QUATREBORNES,avis,Quatre Bornes,1
+TROUAUXBICHES,avis,Trou Aux Biches,2
+ANSELARAIE,avis,Anse La Raie,1
+GRANDGAUBE,avis,Grand Gaube,1
+POINTEAUXPIMENTS,avis,Pointe Aux Piments,1
+BELOMBRE,avis,Bel Ombre,4
+POINTEAUXCANNONIERS,avis,Pointe Aux Cannoniers,2
+LERECIFATTITUDE,avis,Pointe Aux Pemments,1
+MORNEBRABANT,avis,Le Morne,1
+LEMORNE,avis,Le Morne,1
+UNKNOWN,bmw_group,Les Pailles,1
+UNKNOWN,engen,Port-Louis,2
+UNKNOWN,engen,Moka,1
+UNKNOWN,engen,Beau Bassin,1
+UNKNOWN,engen,Chemin Grenier,1
+UNKNOWN,engen,Coromandel,1
+UNKNOWN,engen,Curepipe,1
+UNKNOWN,engen,Grand Baie,2
+UNKNOWN,engen,Grand Gaube,1
+UNKNOWN,engen,La Caroline,2
+UNKNOWN,engen,La Louise,1
+UNKNOWN,engen,La Preneuse,1
+UNKNOWN,engen,La Vigie,1
+UNKNOWN,engen,Mahebourg,1
+UNKNOWN,engen,Mesnil,1
+UNKNOWN,engen,Pamplemousses,1
+UNKNOWN,engen,Raffray,1
+UNKNOWN,engen,Petite Riviere,1
+UNKNOWN,engen,Plaisance,1
+UNKNOWN,engen,Poste de flacq,1
+UNKNOWN,engen,Quarre Bornes,1
+UNKNOWN,engen,Réduit,1
+UNKNOWN,engen,Tere Rouge,1
+UNKNOWN,engen,Riviere des Anguilles,1
+UNKNOWN,engen,Roches Brunes,1
+UNKNOWN,engen,Rose-Belle,1
+UNKNOWN,engen,Rose-Hill,1
+UNKNOWN,engen,Quatre-Bornes,1
+UNKNOWN,engen,Quartier-Militaire,1
+UNKNOWN,engen,Flacq,1
+UNKNOWN,engen,Vacoas,1
+UNKNOWN,ernst_young,Ebene,1
+UNKNOWN,esprit,Trianon,1
+UNKNOWN,esprit,Bagatelle Mauritius,1
+UNKNOWN,esprit,Grand Baie,1
+UNKNOWN,esprit,Floreal,1
+UNKNOWN,ford,Port Louis,4
+01,hugo_boss,Port Louis,1
+01,hugo_boss,Moka,1
+01,hugo_boss,Trianon,1
+UNKNOWN,lhw,Grand Baie,1
+BRITISHCOLUMBIA,lhw,Flic-en-Flac,1
+UNKNOWN,lhw,Poste de Flacq,1
+UNKNOWN,longchamp,MOKA,1
+UNKNOWN,longchamp,PLAINE MAGNIEN,1
+UNKNOWN,marriott,Palmar,1
+UNKNOWN,marriott,Pointe aux Piments,1
+PORTLOUISDISTRICT,mercedes_benz,Pailles ,1
+UNKNOWN,mercedes_benz,Phoenix,1
+UNKNOWN,michaelkors,Plaine Magnien,1
+UNKNOWN,moneygram,CUREPIPE,8
+UNKNOWN,moneygram,CENTRAL FLACQ,1
+UNKNOWN,moneygram,BEAU PLAN,3
+UNKNOWN,moneygram,GOODLANDS,4
+UNKNOWN,moneygram,BEAU BASSIN,3
+UNKNOWN,moneygram,TRIOLET,4
+UNKNOWN,moneygram,MAHEBOURG,4
+UNKNOWN,moneygram,VACOAS,5
+UNKNOWN,moneygram,QUATRE BORNES,6
+UNKNOWN,moneygram,FLACQ,1
+UNKNOWN,moneygram,GRAND BAY,6
+UNKNOWN,moneygram,TERRE ROUGE,1
+UNKNOWN,moneygram,RIVIERE DU REMPART,4
+UNKNOWN,moneygram,TAMARIN,1
+UNKNOWN,moneygram,CHEMIN GRENIER,4
+UNKNOWN,moneygram,ST PIERRE,1
+UNKNOWN,moneygram,ROSE HILL,6
+UNKNOWN,moneygram,ROSE BELLE,3
+UNKNOWN,moneygram,PORT LOUIS,22
+UNKNOWN,moneygram,EBENE,4
+UNKNOWN,moneygram,TRIANON,2
+UNKNOWN,moneygram,CENTRE DE FLACQ,4
+UNKNOWN,moneygram,PHOENIX,2
+UNKNOWN,moneygram,RIVIERE DRAGON,2
+UNKNOWN,moneygram,FLIC-EN-FLACQ,3
+UNKNOWN,moneygram,MOKA,3
+UNKNOWN,moneygram,RIVIERE DES ANGUILLES,2
+UNKNOWN,moneygram,PAMPLEMOUSSES,2
+UNKNOWN,moneygram,BEL AIR,2
+UNKNOWN,moneygram,SAINT PIERRE,2
+UNKNOWN,moneygram,PLAINE MAGNIEN,3
+UNKNOWN,moneygram,PORT MATHURIN,2
+UNKNOWN,moneygram,MONTAGNE BLANCHE,2
+UNKNOWN,moneygram,LALMATIE,2
+UNKNOWN,moneygram,STANLEY,2
+UNKNOWN,moneygram,REDUIT,2
+UNKNOWN,moneygram,FLOREAL,2
+UNKNOWN,moneygram,LALLMATIE,1
+UNKNOWN,moneygram,GRAND BOIS,1
+UNKNOWN,moneygram,TROU D'EAU DOUCE,1
+UNKNOWN,moneygram,TROU AUX BICHES,1
+UNKNOWN,moneygram,PLAINE DES PAPAYES,1
+UNKNOWN,moneygram,BELLE MARE,1
+UNKNOWN,next,Grand Baie,1
+UNKNOWN,next,Moka ,1
+SOUTH,shell,GRAND PORT,6
+EASTCENTRAL,shell,MOKA,3
+UPW,shell,CUREPIPE,4
+SOUTH,shell,SAVANE,1
+EASTCENTRAL,shell,FLACQ,5
+UPW,shell,VACOAS,5
+LPW,shell,QUATRE BORNES,2
+LPW,shell,ROSE HILL,3
+LPW,shell,Moka,1
+EASTCENTRAL,shell,RIVIERE DU REMPART,2
+WEST,shell,BLACK RIVER,2
+LPW,shell,BEAU BASSIN,1
+PORTLOUIS,shell,PORT LOUIS,7
+PORTLOUIS,shell,Notre Dame,1
+NORTH,shell,PAMPLEMOUSSES,5
+NORTH,shell,RIVIERE DU REMPART,3
+UNKNOWN,sixt,Saint Felix,1
+UNKNOWN,sixt,Belle Mare,1
+UNKNOWN,sixt,Trou d'Eau Douce,2
+UNKNOWN,sixt,Balaclava,1
+UNKNOWN,sixt,Pointe aux Piments,1
+UNKNOWN,sixt,Anse La Raie,1
+UNKNOWN,sixt,Calodyne,1
+UNKNOWN,sixt,Bain Boeuf,1
+UNKNOWN,sixt,Flic en Flac,1
+UNKNOWN,sixt,"Quatre Bornes, Mauritius",1
+UNKNOWN,sixt,"Plaisance, Mauritius",1
+UNKNOWN,sixt,Mauritius,1
+UNKNOWN,tommy_hilfiger,Moka,1
+UNKNOWN,totalenergies,Mapou,1
+UNKNOWN,totalenergies,Port Louis,7
+UNKNOWN,totalenergies,Flic en Flac,1
+UNKNOWN,totalenergies,Rose Hill,1
+UNKNOWN,totalenergies,Bambous Virieux,1
+UNKNOWN,totalenergies,Bel Air,1
+UNKNOWN,totalenergies,Beau Bassin-Rose Hill,3
+UNKNOWN,totalenergies,Vacoas-Phoenix,3
+UNKNOWN,totalenergies,Chemin Grenier,1
+UNKNOWN,totalenergies,Curepipe,2
+UNKNOWN,totalenergies,Central Flacq,2
+UNKNOWN,totalenergies,Lalmatie,1
+UNKNOWN,totalenergies,L Escalier,1
+UNKNOWN,totalenergies,Mahebourg,1
+UNKNOWN,totalenergies,Medine Camp de Masque,1
+UNKNOWN,totalenergies,Nouvelle France,2
+UNKNOWN,totalenergies,Plaine Des Papayes,1
+UNKNOWN,totalenergies,Riviere des Anguilles,1
+UNKNOWN,totalenergies,Rivière du Rempart,1
+UNKNOWN,totalenergies,Rose Belle,2
+UNKNOWN,totalenergies,Sebastopol,1
+UNKNOWN,totalenergies,Solitude,1
+UNKNOWN,totalenergies,St Julien d Hotman,1
+UNKNOWN,totalenergies,Saint Pierre,1
+UNKNOWN,totalenergies,Suriname,1
+UNKNOWN,totalenergies,Triolet,1
+UNKNOWN,totalenergies,Petit Raffray,1
+UNKNOWN,totalenergies,Quatre Bornes,1
+UNKNOWN,totalenergies,Trou-aux-Biches,1
+UNKNOWN,totalenergies,Grand Baie,1
+UNKNOWN,totalenergies,Tamarin,1
+UNKNOWN,totalenergies,Trou d'Eau Douce,1
+UNKNOWN,totalenergies,Ilot,1
+UNKNOWN,visa,S U G-BAY,1
+UNKNOWN,visa,FLIC EN FLAC,3
+UNKNOWN,visa,PORT LOUIS,28
+UNKNOWN,visa,QUATRE BORNES,9
+UNKNOWN,visa,GOODLANDS,3
+UNKNOWN,visa,TROU AUX BICHES,1
+UNKNOWN,visa,GRAND BAY,4
+UNKNOWN,visa,PLAISANCE,2
+UNKNOWN,visa,REDUIT,2
+UNKNOWN,visa,VACOAS,8
+UNKNOWN,visa,PLAINE DES PAPAYES,1
+UNKNOWN,visa,PLAINE MAGNIEN,2
+UNKNOWN,visa,RIVIERE NOIRE,2
+UNKNOWN,visa,CUREPIPE,9
+UNKNOWN,visa,RIVIERE DU REMPART,2
+UNKNOWN,visa,TROU D'EAU DOUCE,1
+UNKNOWN,visa,ROSE BELLE,3
+UNKNOWN,visa,MONTAGNE BLANCHE,1
+UNKNOWN,visa,ST PIERRE,1
+UNKNOWN,visa,LALLMATIE,2
+UNKNOWN,visa,MAPOU,2
+UNKNOWN,visa,CASCAVELLE,2
+UNKNOWN,visa,CHEMIN GRENIER,2
+UNKNOWN,visa,ROCHES NOIRES,1
+UNKNOWN,visa,ALBION,1
+UNKNOWN,visa,TAMARIN,1
+UNKNOWN,visa,GRANDE RIVIERE NOIRE,1
+UNKNOWN,visa,CAP TAMARIN,1
+UNKNOWN,visa,LA GAULETTE,1
+UNKNOWN,visa,BAMBOUS,2
+UNKNOWN,visa,POINTE AUX SABLES,1
+UNKNOWN,visa,PTE AUX SABLES,1
+UNKNOWN,visa,LA TOUR KOENIG,1
+UNKNOWN,visa,BEAU BASSIN,6
+UNKNOWN,visa,COROMANDEL,2
+UNKNOWN,visa,B BASSIN,1
+UNKNOWN,visa,STANLEY,2
+UNKNOWN,visa,CASSIS,1
+UNKNOWN,visa,BELL VILLAGE,2
+UNKNOWN,visa,BEAU BASSIN 1,1
+UNKNOWN,visa,ROSE HILL,4
+UNKNOWN,visa,BAIE DU CAP,1
+UNKNOWN,visa,BAIE DU TOMBEAU,1
+UNKNOWN,visa,ST PIERRE 2,1
+UNKNOWN,visa,G BAY,2
+UNKNOWN,visa,Q BORNES,3
+UNKNOWN,visa,P VERTE 1,1
+UNKNOWN,visa,P MAGNIEN,1
+UNKNOWN,visa,Q MILITAIRE 2,1
+UNKNOWN,visa,P VERTE 2,1
+UNKNOWN,visa,POPE HENNESSY,1
+UNKNOWN,visa,Q MILITAIRE 1,1
+UNKNOWN,visa,B ROSE,1
+UNKNOWN,visa,G BOIS,1
+UNKNOWN,visa,ST PIERRE 1,1
+UNKNOWN,visa,R BRUNES,1
+UNKNOWN,visa,CANDOS,1
+UNKNOWN,visa,LE REDUIT,1
+UNKNOWN,visa,EBENE,5
+UNKNOWN,visa,MOKA,3
+UNKNOWN,visa,RICHE TERRE,1
+UNKNOWN,visa,TRIANON,2
+UNKNOWN,visa,PHOENIX,8
+UNKNOWN,visa,VACOAS 2,1
+UNKNOWN,visa,VACOAS 1,1
+UNKNOWN,visa,TRIOLET,3
+UNKNOWN,visa,TERRE ROUGE,4
+UNKNOWN,visa,MORCELLEMENT ST ANDRE,1
+UNKNOWN,visa,FLOREAL,2
+UNKNOWN,visa,GRAND BAIE,2
+UNKNOWN,visa,MESNIL,1
+UNKNOWN,visa,CHEMIN GRENIER 2,1
+UNKNOWN,visa,CHEMIN GRENIER 1,1
+UNKNOWN,visa,FOND DU SAC,1
+UNKNOWN,visa,CUREPIPE 3,1
+UNKNOWN,visa,CUREPIPE 5,1
+UNKNOWN,visa,CUREPIPE 6,1
+UNKNOWN,visa,CUREPIPE 4,1
+UNKNOWN,visa,PAMPLEMMOUSSES 1,1
+UNKNOWN,visa,PAMPLEMMOUSSES 2,1
+UNKNOWN,visa,MTE BLANCHE,1
+UNKNOWN,visa,PAMPLEMOUSSES,3
+UNKNOWN,visa,LONG MOUNTAIN,1
+UNKNOWN,visa,SURINAM,2
+UNKNOWN,visa,LABOURDONNAIS,1
+UNKNOWN,visa,GOODLANDS 2,1
+UNKNOWN,visa,GOODLANDS 1,1
+UNKNOWN,visa,RIV DES ANGUILLES2,1
+UNKNOWN,visa,RIV DES ANGUILLES1,1
+UNKNOWN,visa,RIVIERE DES ANGUILLES,1
+UNKNOWN,visa,BEL AIR,2
+UNKNOWN,visa,ROSE BELLE 1,1
+UNKNOWN,visa,ROSE BELLE 2,1
+UNKNOWN,visa,RIV DU REMPART 2,1
+UNKNOWN,visa,RIV DU REMPART 1,1
+UNKNOWN,visa,LESCALIER,1
+UNKNOWN,visa,FLACQ,2
+UNKNOWN,visa,FLACQ 1,1
+UNKNOWN,visa,FLACQ 2,1
+UNKNOWN,visa,CENTRE DE FLACQ,3
+UNKNOWN,visa,MAHEBOURG,5
+UNKNOWN,visa,MAHEBOURG 1,1
+UNKNOWN,visa,MAHEBOURG 2,1
+UNKNOWN,visa,BELLE MARE,1
+UNKNOWN,visa,RODRIGUES,3
+UNKNOWN,visa,RODRIGUES 2,1
+UNKNOWN,visa,RODRIGUES 3,1
+UNKNOWN,visa,RODRIGUES 1,1
+RIVIEREDUREMPART,western_union,Goodlands,2
+RIVIEREDUREMPART,western_union,Grand Bay,3
+PAMPLEMOUSSES,western_union,Pamplemousses,1
+FLACQ,western_union,Belle Mare,1
+FLACQ,western_union,Flacq,2
+FLACQ,western_union,Central Flacq,1
+PORTLOUIS,western_union,Port Louis,5
+MOKA,western_union,Moka,1
+PLAINESWILHEMS,western_union,Beau Bassin,1
+PLAINESWILHEMS,western_union,Rose Hill,2
+RIVIERENOIRE,western_union,Quatre Bornes,2
+RIVIERENOIRE,western_union,Grand Port,1
+PLAINESWILHEMS,western_union,Quatre Bornes,1
+GRANDPORT,western_union,Mahebourg,1
+PLAINESWILHEMS,western_union,Curepipe,2
+PLAINESWILHEMS,western_union,Curepiepe,1
+GRANDPORT,western_union,Plaine Magnien,1
+RIVIERENOIRE,western_union,Flic En Flac,1

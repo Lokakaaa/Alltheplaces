@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://www.cic.fr:443/fr/agences/30027/17070/01/000,cic,CIC DUNKERQUE ROSENDAEL,,DUNKERQUE,Nord-Pas-de-Calais,,FR,+33 3 28 24 89 90,https://www.cic.fr:443/fr/agences/30027/17070/01/000,"Tu-We 08:45-12:30,13:30-18:00; Th 08:45-12:30,14:30-18:00; Fr 08:45-12:30,14:00-18:00; Sa 08:30-13:00",cic,Q746525
+https://www.cic.fr:443/fr/agences/30027/17070/00/000,cic,CIC DUNKERQUE ROSENDAEL - CIC DUNKERQUE MALO,,DUNKERQUE,Nord-Pas-de-Calais,,FR,+33 3 28 24 89 70,https://www.cic.fr:443/fr/agences/30027/17070/00/000,"Tu-We 08:45-12:30,13:30-18:00; Th 08:45-12:30,14:30-18:00; Fr 08:45-12:30,14:00-18:00; Sa 08:30-13:00",cic,Q746525
+0159t008t1,e_leclerc,Station Service,,DUNKERQUE,Nord-Pas-de-Calais,,FR,+33 3 28 69 06 84,,"Mo-Th 00:00-07:00,20:00-24:00; Fr 00:00-07:00,21:00-24:00; Sa 00:00-07:00,20:00-24:00; Su 00:00-07:00,13:00-24:00",E.Leclerc,Q1273376
+0159t102t2,e_leclerc,ROSENDAEL,,ROSENDAEL,Nord-Pas-de-Calais,,FR,+33 3 28 69 06 84,https://e.leclerc/mag/e-leclerc-rosendael,Mo-Th 08:30-19:30; Fr 08:30-20:00; Sa 08:30-19:30; Su 08:30-12:30,E.Leclerc,Q1273376
+1959t118t4,e_leclerc,Drive Dunkerque - Rosendael,,DUNKERQUE,Nord-Pas-de-Calais,,FR,+33 3 28 63 28 84,,Mo-Sa 09:00-19:30,E.Leclerc Drive,Q1273376
+https://local.fedex.com/#1017448725,fedex,,,Malo Les Bains,Nord-Pas-de-Calais,,FR,,https://local.fedex.com/en-fr/malo-les-bains/lildx,,FedEx,Q459477
+https://local.fedex.com/#1017429030,fedex,,,Dunkerque,Nord-Pas-de-Calais,,FR,,https://local.fedex.com/en-fr/dunkerque/lilzf,,FedEx,Q459477
+https://local.fedex.com/#1017424272,fedex,,,Dunkerque,Nord-Pas-de-Calais,,FR,,https://local.fedex.com/en-fr/dunkerque/lilot,,FedEx,Q459477
+https://local.fedex.com/#1017448683,fedex,,,Dunkerque,Nord-Pas-de-Calais,,FR,,https://local.fedex.com/en-fr/dunkerque/lilor,,FedEx,Q459477
+https://local.fedex.com/#1032157888,fedex,,,Dunkerque,Nord-Pas-de-Calais,,FR,,https://local.fedex.com/en-fr/dunkerque/lilee,,FedEx,Q459477

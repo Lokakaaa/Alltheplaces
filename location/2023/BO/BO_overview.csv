@@ -1,0 +1,575 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+S,ashley_furniture,Av. Busch,1
+LAPAZ,audi,La Paz,1
+SANTACRUZ,audi,Santa Cruz,1
+COCHABAMBA,audi,Cochabamba,1
+BOLIVIA,bmw_group,La Paz,1
+UNKNOWN,bmw_group,Santa Cruz de la Sierra,1
+BOLIVIA,bmw_group,Cochabamba,1
+UNKNOWN,deloitte,unknown,1
+UNKNOWN,ernst_young,La Paz,1
+UNKNOWN,ernst_young,Santa Cruz,1
+LAPAZ,fedex,La Paz,1
+COCHABAMBA,fedex,Cochabamba,1
+UNKNOWN,ford,Santa Cruz Cruz,1
+UNKNOWN,ford,La Paz,1
+UNKNOWN,ford,Santa Cruz de La Sierra,1
+UNKNOWN,ford,Cochabamba,1
+UNKNOWN,ford,Sucre,1
+UNKNOWN,hardrock,La Paz,1
+UNKNOWN,hardrock,Santa Cruz,1
+UNKNOWN,hilton,unknown,1
+UNKNOWN,hipermaxi_bo,Santa Cruz,54
+UNKNOWN,hipermaxi_bo,La paz,18
+UNKNOWN,hipermaxi_bo,Cochabamba,12
+01,hugo_boss,Santa Cruz de la Sierra,2
+UNKNOWN,man_truck_and_bus,Santa Cruz del la Sierra,1
+UNKNOWN,man_truck_and_bus,La Paz,1
+UNKNOWN,marriott,Santa Cruz de la Sierra,1
+DEPARTAMENTODELAPAZ,mercedes_benz,La Paz,4
+DEPARTAMENTODECHUQUISACA,mercedes_benz,Sucre,1
+DEPARTAMENTODECOCHABAMBA,mercedes_benz,Cochabamba,1
+DEPARTAMENTODETARIJA,mercedes_benz,Tarija,1
+DEPARTAMENTODESANTACRUZ,mercedes_benz,Santa Cruz,1
+DEPARTAMENTODESANTACRUZ,mercedes_benz,Santa Cruz de la Sierra,1
+UNKNOWN,moneygram,BENI,10
+UNKNOWN,moneygram,PANDO,4
+UNKNOWN,moneygram,POTOSI,26
+UNKNOWN,moneygram,QUIME,1
+UNKNOWN,moneygram,PADILLA,1
+UNKNOWN,moneygram,HUANUNI,2
+UNKNOWN,moneygram,POCOATA,1
+UNKNOWN,moneygram,LA PAZ,163
+UNKNOWN,moneygram,CUATRO CANADAS,3
+UNKNOWN,moneygram,SANTA CRUZ,300
+UNKNOWN,moneygram,ORURO,32
+UNKNOWN,moneygram,PUERTO PAILA,1
+UNKNOWN,moneygram,EL ALTO,97
+UNKNOWN,moneygram,SAN IGNACIO DE VELASCO,3
+UNKNOWN,moneygram,COCHABAMBA,134
+UNKNOWN,moneygram,SACABA,8
+UNKNOWN,moneygram,QUILLACOLLO,13
+UNKNOWN,moneygram,COCHABABA,1
+UNKNOWN,moneygram,COLCAPIRHUA,4
+UNKNOWN,moneygram,CORO CORO,1
+UNKNOWN,moneygram,CHARAZANI,1
+UNKNOWN,moneygram,MAPIRI,1
+UNKNOWN,moneygram,YAMPARAEZ,1
+UNKNOWN,moneygram,UYUNI,3
+UNKNOWN,moneygram,COBIJA,7
+UNKNOWN,moneygram,PARIA,1
+UNKNOWN,moneygram,JOROCHITO,2
+UNKNOWN,moneygram,PRESTO,1
+UNKNOWN,moneygram,PAZNA,1
+UNKNOWN,moneygram,WARNES,4
+UNKNOWN,moneygram,SICASICA,1
+UNKNOWN,moneygram,MONTERO,7
+UNKNOWN,moneygram,CULPINA,2
+UNKNOWN,moneygram,PALOS BLANCOS,2
+UNKNOWN,moneygram,TARIJA,37
+UNKNOWN,moneygram,TRINIDAD,9
+UNKNOWN,moneygram,UYUSTUS,1
+UNKNOWN,moneygram,SUCRE,37
+UNKNOWN,moneygram,CHUQUISACA,3
+UNKNOWN,moneygram,VILLA ABECIA,1
+UNKNOWN,moneygram,TIPUANI,1
+UNKNOWN,moneygram,YACUIBA,5
+UNKNOWN,moneygram,SANTA CRUZ DE LA SIERRA,15
+UNKNOWN,moneygram,OCURI,1
+UNKNOWN,moneygram,MOROCHATA,1
+UNKNOWN,moneygram,TINGUIPAYA,1
+UNKNOWN,moneygram,ARROYO CONCEPCION,3
+UNKNOWN,moneygram,SAN IGNACIO DE MOXOS,2
+UNKNOWN,moneygram,SAN JOSE DE CHIQUITOS,2
+UNKNOWN,moneygram,LLICA,1
+UNKNOWN,moneygram,COMANCHE,1
+UNKNOWN,moneygram,TAPACARI,1
+UNKNOWN,moneygram,SAN JAVIER,3
+UNKNOWN,moneygram,IXIAMAS,2
+UNKNOWN,moneygram,SHINAHOTA,2
+UNKNOWN,moneygram,UNCIA,1
+UNKNOWN,moneygram,VALLEGRANDE,1
+UNKNOWN,moneygram,MAIRANA,3
+UNKNOWN,moneygram,COTOCA,3
+UNKNOWN,moneygram,YUNCHARA,1
+UNKNOWN,moneygram,CERCADO,2
+UNKNOWN,moneygram,ICLA,1
+UNKNOWN,moneygram,CLIZA,3
+UNKNOWN,moneygram,GUAYARAMERIN,3
+UNKNOWN,moneygram,SAN JOSE,1
+UNKNOWN,moneygram,LA GUARDIA,2
+UNKNOWN,moneygram,MINERO,2
+UNKNOWN,moneygram,CHANE INDEPENDENCIA,1
+UNKNOWN,moneygram,PUNATA,5
+UNKNOWN,moneygram,ZUDANEZ,1
+UNKNOWN,moneygram,EL TORNO,3
+UNKNOWN,moneygram,VIACHA,6
+UNKNOWN,moneygram,SAN JULIAN,3
+UNKNOWN,moneygram,RIBERALTA,4
+UNKNOWN,moneygram,YAPACANI,3
+UNKNOWN,moneygram,ACHOCALLA,1
+UNKNOWN,moneygram,CUATRO ESQUINAS OTB,1
+UNKNOWN,moneygram,VINTO,1
+UNKNOWN,moneygram,TIQUIPAYA,2
+UNKNOWN,moneygram,TOMINA,1
+UNKNOWN,moneygram,TACOBAMBA,1
+UNKNOWN,moneygram,GUARAYOS,2
+UNKNOWN,moneygram,CARAPARI,1
+UNKNOWN,moneygram,LICOMA,1
+UNKNOWN,moneygram,ATOCHA,1
+UNKNOWN,moneygram,PADCAYA,1
+UNKNOWN,moneygram,BETANZOS,2
+UNKNOWN,moneygram,ICHILO,1
+UNKNOWN,moneygram,CAPINOTA,1
+UNKNOWN,moneygram,LLALLAGUA,4
+UNKNOWN,moneygram,CAMIRI,4
+UNKNOWN,moneygram,VILLA LORETO,1
+UNKNOWN,moneygram,CHALLAPATA,2
+UNKNOWN,moneygram,VILLA MONTES,2
+UNKNOWN,moneygram,PATACAMAYA,2
+UNKNOWN,moneygram,CAIROMA,2
+UNKNOWN,moneygram,CARANAVI,3
+UNKNOWN,moneygram,YUNGAS,1
+UNKNOWN,moneygram,EL PUENTE,1
+UNKNOWN,moneygram,VILLAZON,2
+UNKNOWN,moneygram,MIZQUE,1
+UNKNOWN,moneygram,SAN LUCAS,1
+UNKNOWN,moneygram,COROICO,2
+UNKNOWN,moneygram,CHULUMANI,2
+UNKNOWN,moneygram,BATALLAS,2
+UNKNOWN,moneygram,ACHACACHI,2
+UNKNOWN,moneygram,COPACABANA,1
+UNKNOWN,moneygram,APOLO,1
+UNKNOWN,moneygram,CHALLLAPATA,1
+UNKNOWN,moneygram,IVIRGAZAMA,1
+UNKNOWN,moneygram,VILLA TUNARI,1
+UNKNOWN,moneygram,COLOMI,1
+UNKNOWN,moneygram,ENTRE RIOS,2
+UNKNOWN,moneygram,CAMARGO,3
+UNKNOWN,moneygram,VILLAMONTES,2
+UNKNOWN,moneygram,COMARAPA,2
+UNKNOWN,moneygram,SAN BORJA,3
+UNKNOWN,moneygram,SANTA ANA,2
+UNKNOWN,moneygram,RURRENABAQUE,3
+UNKNOWN,moneygram,MONTEAGUDO,4
+UNKNOWN,moneygram,TUPIZA,2
+UNKNOWN,moneygram,SANTA FE DE YAPACANI,1
+UNKNOWN,moneygram,QUILACOLLO,1
+UNKNOWN,moneygram,LURIBAY,1
+UNKNOWN,moneygram,ROBORE,2
+UNKNOWN,moneygram,SAN ISIDRO,1
+UNKNOWN,moneygram,SAIPINA,1
+UNKNOWN,moneygram,LOS NEGROS,1
+UNKNOWN,moneygram,ALTO,4
+UNKNOWN,moneygram,BERMEJO,1
+UNKNOWN,moneygram,AIQUILE,1
+UNKNOWN,moneygram,SIPE SIPE,1
+UNKNOWN,moneygram,TINQUIPAYA,1
+UNKNOWN,moneygram,TIRAQUE,1
+UNKNOWN,moneygram,SAN RAMON,1
+UNKNOWN,moneygram,OMEREQUE,2
+UNKNOWN,moneygram,EL PATO,1
+UNKNOWN,moneygram,TOTORA,2
+UNKNOWN,moneygram,CHARAGUA,1
+UNKNOWN,moneygram,BOLIVIA,1
+UNKNOWN,moneygram,TAQUINA,1
+UNKNOWN,moneygram,ADELA,1
+UNKNOWN,moneygram,CHAPARE,1
+UNKNOWN,moneygram,IVIRGARZAMA,1
+UNKNOWN,moneygram,RIO SECO,1
+UNKNOWN,moneygram,TAGARETE,1
+UNKNOWN,moneygram,EL ALTO LA PAZ,1
+UNKNOWN,moneygram,VITICHI,1
+UNKNOWN,moneygram,MAGDALENA,1
+UNKNOWN,moneygram,CAQUIAVIRI,1
+UNKNOWN,moneygram,CHUA COCANI,1
+UNKNOWN,moneygram,COPACABAN,1
+UNKNOWN,moneygram,GUAQUI,1
+UNKNOWN,moneygram,PUCARANI,1
+UNKNOWN,moneygram,PUERTO PEREZ,1
+UNKNOWN,moneygram,SAN BUENA VENTURA,1
+UNKNOWN,moneygram,SORATA,1
+UNKNOWN,moneygram,TIAHUANACU,1
+UNKNOWN,moneygram,YUCUMO,1
+UNKNOWN,moneygram,HUACARETA,1
+UNKNOWN,moneygram,CORQUE,1
+UNKNOWN,moneygram,QUINTANILLA,1
+UNKNOWN,moneygram,SAN CARLOS,1
+UNKNOWN,moneygram,VILLA SERRANO,1
+UNKNOWN,moneygram,SICA SICA,1
+UNKNOWN,moneygram,MACHACAMARCA,1
+UNKNOWN,moneygram,SAN PEDRO,1
+BOLIVIA,sbarro,unknown,1
+DEPARTAMENTODESANTACRUZ,sbarro,SANTA CRUZ DE LA SIERRA,1
+SANTACRUZ,sbarro,SANTA CRUZ,1
+SANTACRUZ,sbarro,Warnes,1
+COCHABAMBA,sbarro,Cochabamba,1
+DEPARTAMENTODECOCHABAMBA,sbarro,COCHABAMBA,1
+LAPAZ,sbarro,La Paz,1
+UNKNOWN,united_colors_of_benetton,COCHABAMBA,1
+UNKNOWN,united_colors_of_benetton,LA PAZ,1
+UNKNOWN,united_colors_of_benetton,SANTA CRUZ,3
+SANTACRUZ,visa,ARROYO CONCEPCION,1
+ARROYOCONCEPCION,visa,SANTA CRUZ,1
+PUERTOSUAREZ,visa,SANTA CRUZ,1
+SANTACRUZ,visa,PUERTO SUAREZ,1
+SANTACRUZ,visa,SAN MATIAS,1
+SANTACRUZ,visa,ROBORE,1
+UNKNOWN,visa,COCHABAMBA,257
+SANTACRUZ,visa,SAN IGNACIO DE VELASCO,1
+SANIGNACIODEVELAS,visa,SANTA CRUZ,1
+SANTACRUZ,visa,SAN JOSE DE CHIQUITOS,1
+SANMIGUEL,visa,SANTA CRUZ,1
+SANTACRUZ,visa,CONCEPCION,1
+SANTACRUZ,visa,SAN JAVIER,1
+UNKNOWN,visa,SANTA CRUZ,158
+CUATROCAÑADAS,visa,SANTA CRUZ,1
+SANJULIAN,visa,SANTA CRUZ,1
+SANTACRUZDELASIERRA,visa,SANTA CRUZ DE LA SIERRA,7
+SANTACRUZ,visa,SANTA CRUZ,262
+OKINAWAI,visa,SANTA CRUZ,1
+SANTACRUZ,visa,SAN JULIAN,1
+SANTACRUZ,visa,ASCENCION DE GUARAYOS,1
+SANTACRUZ,visa,COTOCA,1
+UNKNOWN,visa,SANTA CRUZ DE LA SIERRA,333
+PUESTOFERNANDEZALO,visa,SANTA CRUZ,1
+WARNES,visa,SANTA CRUZ,3
+UNKNOWN,visa,WARNES,1
+SANTACRUZ,visa,WARNES,1
+GENERALSAAVEDRA,visa,SANTA CRUZ,1
+SANTACRUZ,visa,MINEROS,1
+MINERO,visa,SANTA CRUZ,1
+SANTACRUZ,visa,VILLA 1RO DE MAYO,1
+SANTACRUZ,visa,PLAN 3000,1
+MONTERO,visa,SANTA CRUZ,8
+SANTACRUZ,visa,MONTERO,3
+UNKNOWN,visa,TRINIDAD,22
+SANTACRUZ,visa,PORTACHUELO,1
+PORTACHUELO,visa,SANTA CRUZ,1
+SANPEDRO,visa,SANTA CRUZ,1
+LAGUARDIA,visa,SANTA CRUZ,2
+SANTARITA,visa,SANTA CRUZ,1
+SANTACRUZ,visa,EL TORNO,1
+ELTORNO,visa,SANTA CRUZ,2
+SANTAROSADELSARA,visa,SANTA CRUZ,1
+SANTACRUZ,visa,CHARAGUA,1
+BUENAVISTA,visa,SANTA CRUZ,1
+SANTAFEDEYAPACANI,visa,SANTA CRUZ,1
+YAPACANI,visa,SANTA CRUZ,2
+SANTACRUZ,visa,YAPACANI,1
+UNKNOWN,visa,YAPACANI,1
+CAMIRI,visa,SANTA CRUZ,4
+SANTACRUZ,visa,CAMIRI,2
+SANTACRUZ,visa,SAMAIPATA,1
+MAIRANA,visa,SANTA CRUZ,1
+TARIJA,visa,VILLAMONTES,2
+VILLAMONTES,visa,TARIJA,3
+TARIJA,visa,TARIJA,36
+VALLEGRANDE,visa,SANTA CRUZ,1
+SANTACRUZ,visa,VALLEGRANDE,1
+MONTEAGUDO,visa,CHUQUISACA,1
+CHUQUISACA,visa,MONTEAGUDO,1
+TRINIDAD,visa,BENI,6
+UNKNOWN,visa,YACUIBA,1
+TARIJA,visa,YACUIBA,2
+YACUIBA,visa,TARIJA,3
+UNKNOWN,visa,TARIJA,67
+COCHABAMBA,visa,ENTRE RIOS,2
+TARIJA,visa,CARAPARI,1
+BENI,visa,BENI,11
+UNKNOWN,visa,BENI,6
+RIBERALTA,visa,BENI,1
+BENI,visa,GUAYARAMERIN,1
+CHUQUISACA,visa,VILLA SERRANO,1
+SANTACRUZ,visa,COMARAPA,1
+PUERTOVILLARROEL,visa,COCHABAMBA,1
+COCHABAMBA,visa,IVIRGARZAMA,2
+TARIJA,visa,ENTRE RIOS,1
+BENI,visa,SANTA ANA DEL YACUMA,1
+CHIMORE,visa,COCHABAMBA,1
+COCHABAMBA,visa,CHIMORE,1
+COCHABAMBA,visa,SHINAHOTA,1
+BERMEJO,visa,TARIJA,2
+TARIJA,visa,BERMEJO,2
+COCHABAMBA,visa,AIQUILE,1
+BENI,visa,SAN IGNACIO DE MOXOS,1
+BENI,visa,RIBERALTA,3
+COCHABAMBA,visa,VILLA TUNARI,1
+SUCRE,visa,CHUQUISACA,27
+COCHABAMBA,visa,MIZQUE,1
+CHUQUISACA,visa,SUCRE,20
+UNKNOWN,visa,SUCRE,46
+UNKNOWN,visa,CHUQUISACA,9
+CHUQUISACA,visa,PADILLA,1
+CHUQUISACA,visa,SAN LUCAS,1
+CHUQUISACA,visa,CAMARGO,1
+COCHABAMBA,visa,PUNATA,1
+PUNATA,visa,COCHABAMBA,1
+COCHABAMBA,visa,CLIZA,1
+CLIZA,visa,COCHABAMBA,1
+COCHABAMBA,visa,SACABA,3
+COCHABAMBA,visa,COCHABAMBA,129
+SACABA,visa,COCHABAMBA,3
+UNKNOWN,visa,SACABA,1
+POTOSI,visa,POTOSI,27
+UNKNOWN,visa,POTOSI,37
+UNKNOWN,visa,VILLAZON,2
+UNKNOWN,visa,TIQUIPAYA,1
+TIQUIPAYA,visa,COCHABAMBA,1
+COCHABAMBA,visa,TIQUIPAYA,1
+QUILLACOLLO,visa,COCHABAMBA,6
+COCHABAMBA,visa,COLCAPIRHUA,1
+UNKNOWN,visa,QUILLACOLLO,1
+COCHABAMBA,visa,QUILLACOLLO,5
+COCHABAMBA,visa,CAPINOTA,1
+VINTO,visa,COCHABAMBA,2
+COCHABAMBA,visa,VINTO,1
+POTOSI,visa,VILLAZON,1
+VILLAZON,visa,POTOSI,1
+POTOSI,visa,TUPIZA,1
+TUPIZA,visa,POTOSI,1
+BENI,visa,SAN BORJA,1
+POTOSI,visa,UNCIA,1
+POTOSI,visa,LLALLAGUA,2
+LAPAZ,visa,LA PAZ,196
+LAPAZ,visa,EL ALTO,26
+ORURO,visa,HUANUNI,1
+ORURO,visa,CHALLAPATA,1
+UNKNOWN,visa,ORURO,51
+ORURO,visa,ORURO,34
+RURRENABAQUE,visa,BENI,1
+BENI,visa,RURRENABAQUE,2
+CERCADO,visa,ORURO,1
+ORURO,visa,CARACOLLO,1
+UYUNI,visa,POTOSI,2
+POTOSI,visa,UYUNI,1
+LAPAZ,visa,CARANAVI,1
+CARANAVI,visa,LA PAZ,1
+COROICO,visa,LA PAZ,1
+LAPAZ,visa,COROICO,1
+PATACAMAYA,visa,LA PAZ,1
+LAPAZ,visa,PATACAMAYA,1
+UNKNOWN,visa,LA PAZ,360
+ELALTO,visa,LA PAZ,28
+UNKNOWN,visa,EL ALTO,99
+UNKNOWN,visa,COBIJA,5
+UNKNOWN,visa,PANDO,1
+PANDO,visa,COBIJA,6
+COBIJA,visa,PANDO,8
+LAPAZ,visa,VIACHA,1
+VIACHA,visa,LA PAZ,2
+LAPAZ,visa,ACHACACHI,1
+LAPAZ,visa,DESAGUADERO,1
+COPACABANA,visa,LA PAZ,2
+LAPAZ,visa,COPACABANA,1
+PANDO,western_union,Puerto Rico,1
+BENI,western_union,Yucumo,1
+LAPAZ,western_union,La Paz,178
+LAPAZ,western_union,Caranavi,4
+LAPAZ,western_union,Palos Blancos,2
+TARIJA,western_union,Palos Blancos,1
+LAPAZ,western_union,Sud Yungas,1
+BENI,western_union,Baures,1
+BENI,western_union,Magdalena,1
+SANTACRUZ,western_union,Ascencion De Guarayos,3
+SANTACRUZ,western_union,Guarayos,2
+SANTACRUZ,western_union,Ascension De Guarayos,2
+SANTACRUZ,western_union,Santa Ruz,2
+BENI,western_union,Riberalta,11
+BENI,western_union,Beni,7
+BENI,western_union,Guayaramerin,2
+LAPAZ,western_union,Ixiamas,1
+TARIJA,western_union,Tarija,44
+PANDO,western_union,Cobija,7
+NICOLASSUAREZ,western_union,Pando,1
+PORVENIR,western_union,Pando,1
+SANTACRUZ,western_union,San Ramon,3
+SANTACRUZ,western_union,Santa Cruz,264
+SANTACRUZ,western_union,San Ignacio De Velasco,4
+SANTACRUZ,western_union,Velasco,1
+BENI,western_union,Trinidad,12
+COCHABAMBA,western_union,Mizque,3
+BENI,western_union,Santa Ana,1
+COCHABAMBA,western_union,Entre Rios,1
+TARIJA,western_union,Entre Rios,3
+POTOSI,western_union,Pocoata,1
+COCHABAMBA,western_union,Cochabamba,147
+BENI,western_union,San Joaquin,1
+BENI,western_union,Cercado,1
+POTOSI,western_union,Uncia,1
+POTOSI,western_union,Potosi,33
+ORURO,western_union,Pazna,1
+POTOSI,western_union,Llallagua,4
+POTOSI,western_union,Rafael Bustillo,1
+COCHABAMBA,western_union,Ivirgarzama,3
+COCHABAMBA,western_union,Carrasco,1
+SANTACRUZ,western_union,�uflo De Chavez,3
+SANTACRUZ,western_union,Concepcion,1
+BENI,western_union,San Ramon,1
+SANTACRUZ,western_union,San Javier,3
+COCHABAMBA,western_union,Tacachi,1
+ORURO,western_union,Machacamarca,1
+COCHABAMBA,western_union,Chimore,3
+COCHABAMBA,western_union,Sacabamba,1
+ORURO,western_union,Huanuni,1
+ORURO,western_union,Pantalon Dalence,1
+COCHABAMBA,western_union,German Jordan,1
+COCHABAMBA,western_union,Cliza,2
+COCHABAMBA,western_union,Punata,4
+COCHABAMBA,western_union,Tolata,1
+COCHABAMBA,western_union,Toco,1
+ORURO,western_union,Oruro,32
+COCHABAMBA,western_union,Sacaba,9
+COCHABAMBA,western_union,Chapare,2
+COCHABAMBA,western_union,Colomi,1
+ORURO,western_union,Cercado,4
+CERCADO,western_union,Oruro,1
+COCHABAMBA,western_union,Tarata,1
+VILLATUNARI,western_union,Cochabamba,1
+COCHABAMBA,western_union,Villa Tunari,1
+COCHABAMBA,western_union,Totora,1
+BENI,western_union,Santa Rosa Del Yacuma,1
+COCHABAMBA,western_union,Capinota,3
+COCHABAMBA,western_union,Cercado,5
+COCHABAMBA,western_union,Muyurina,1
+COCHABAMBA,western_union,Quillacollo,20
+COCHABAMBA,western_union,Colcapirhua,2
+BENI,western_union,San Ignacio De Moxos,1
+LAPAZ,western_union,Desaguadero,2
+QUILLACOLLO,western_union,Cochabamba,2
+LAPAZ,western_union,Copacabana,3
+ORURO,western_union,Caracollo,1
+CERCADO,western_union,Cochabamba,1
+COCHABAMBA,western_union,Vinto,1
+LAPAZ,western_union,El Alto,89
+ORURO,western_union,Vinto,1
+COCHABAMBA,western_union,Tiquipaya,4
+INGAVI,western_union,La Paz,1
+LAPAZ,western_union,Tiahuanacu,1
+LAPAZ,western_union,Sica Sica,1
+BENI,western_union,Reyes,1
+LAPAZ,western_union,Guaqui,1
+LAPAZ,western_union,Jesus De Machaca,1
+COCHABAMBA,western_union,Oruro,1
+LAPAZ,western_union,Puerto Carabuco,1
+BENI,western_union,San Borja,3
+CHUQUISACA,western_union,Chuquisaca,16
+LAPAZ,western_union,Achacachi,2
+AROMA,western_union,Colquencha,1
+LAPAZ,western_union,Chua Cocani,1
+LAPAZ,western_union,Patacamaya,3
+BENI,western_union,Rurrenabaque,3
+LAPAZ,western_union,San Buenaventura,1
+LAPAZ,western_union,Viacha,3
+LAPAZ,western_union,Pucarani,1
+LAPAZ,western_union,Batallas,2
+LAPAZ,western_union,Huarina,1
+LAPAZ,western_union,Sorata,1
+OMASUYOSLAPAZ,western_union,Achacachi,1
+LAPAZ,western_union,Achocalla,1
+LAPAZ,western_union,Larecaja,2
+LAPAZ,western_union,Huajchilla,1
+LAPAZ,western_union,Murillo,4
+LAPAZ,western_union,Coroico,2
+LAPAZ,western_union,Coripata,1
+LAPAZ,western_union,Chulumani,2
+GUANAY,western_union,La Paz,2
+LAPAZ,western_union,Guanay,1
+PANDO,western_union,Sena,1
+PANDO,western_union,Pando,2
+COCHABAMBA,western_union,Pando,1
+SANTACRUZ,western_union,Charagua,1
+SANTACRUZ,western_union,Cordillera,1
+SANTACRUZ,western_union,Boyuibe,1
+SANTACRUZ,western_union,Camiri,3
+CHUQUISACA,western_union,Machareti,2
+CABEZAS,western_union,Santa Cruz,1
+CHUQUISACA,western_union,Monteagudo,3
+CHUQUISACA,western_union,Hernando Siles,1
+CHUQUISACA,western_union,Sucre,35
+SANTACRUZ,western_union,El Carmen Rivero Torrez,1
+SANTACRUZ,western_union,Puerto Suarez,3
+SANTACRUZ,western_union,Puerto Quijarro,2
+CHUQUISACA,western_union,Oropeza,2
+SANTACRUZ,western_union,Minero,1
+SANTACRUZ,western_union,Robore,2
+POTOSI,western_union,Betanzos,2
+SANTACRUZ,western_union,San Julian,3
+PADCAYA,western_union,Tarija,1
+POTOSI,western_union,Puna,1
+POTOSI,western_union,Nor Chichas,1
+COCHABAMBA,western_union,Omereque,1
+SANTACRUZ,western_union,Santa Rosa Del Sara,2
+SANTACRUZ,western_union,San Matias,1
+SANTACRUZ,western_union,German Busch,1
+SANTACRUZ,western_union,Quijarro,1
+CHUQUISACA,western_union,Camargo,2
+SANTACRUZ,western_union,Santa Cruz De La Sierra,103
+TARIJA,western_union,Valle De Concepcion,1
+SANTACRUZ,western_union,Santa Fe De Yapacani,1
+SANTACRUZ,western_union,Comarapa,1
+SANTACRUZ,western_union,Ichilo,1
+SANTACRUZ,western_union,Yapacani,6
+SUCRE,western_union,Sucre,3
+CHUQUISACA,western_union,Serrano,1
+SUCRE,western_union,Chuquisaca,1
+CHUQUISACA,western_union,Villa Abecia,1
+SANTACRUZ,western_union,San Juan De Yapacani,1
+TARIJA,western_union,Cercado,3
+MONTERO,western_union,Santa Cruz,1
+SANTACRUZ,western_union,Mineros,1
+COCHABAMBA,western_union,Tarija,2
+SANTACRUZ,western_union,Montero,9
+SANTACRUZ,western_union,Okinawa,2
+SANTACRUZ,western_union,Cuatro Canadas,3
+SANTACRUZ,western_union,Portachuelo,2
+SANTACRUZ,western_union,Buena Vista,3
+TARIJA,western_union,San Lorenzo,1
+SANTACRUZ,western_union,San Carlos,1
+TARIJA,western_union,Yacuiba,7
+TARIJA,western_union,Gran Chaco,1
+SANTACRUZ,western_union,La Belgica,1
+SANTACRUZ,western_union,Warnes,6
+CHUQUISACA,western_union,Zudanez,1
+TARIJA,western_union,Burnet O Oconnor,1
+SANTACRUZ,western_union,Satelite Norte,1
+WARNES,western_union,Santa Cruz,1
+YACUIBA,western_union,Tarija,1
+TARIJA,western_union,Carapari,3
+SANTACRUZ,western_union,Mairana,4
+SANTACRUZ,western_union,Tres Cruces,1
+SANTACRUZ,western_union,San Jose De Chiquitos,2
+SANTACRUZ,western_union,Chiquitos,1
+CHUQUISACA,western_union,Tarabuco,1
+SANTACRUZ,western_union,Cuatro Ca�adas,1
+CHUQUISACA,western_union,Culpina,2
+CHUQUISACA,western_union,Presto,1
+CHUQUISACA,western_union,San Lucas,1
+SANTACRUZ,western_union,Obispo Santiestevan,1
+SANTACRUZ,western_union,Andres Iba�ez,8
+SANTACRUZ,western_union,Puerto Pailas,1
+SANTACRUZ,western_union,Pailon,2
+ANDRESIBANEZ,western_union,Santa Cruz,2
+SANTACRUZ,western_union,Samaipata,1
+SANTACRUZ,western_union,Mora,1
+SANTACRUZ,western_union,La Guardia,3
+SANTACRUZ,western_union,Vallegrande,2
+SANTACRUZ,western_union,El Torno,5
+SANTACRUZ,western_union,Cotoca,1
+SANTACRUZ,western_union,Jorochito,1
+TARIJA,western_union,Villamontes,3
+TARIJA,western_union,Villa Montes,1
+CHUQUISACA,western_union,Padilla,2
+CHUQUISACA,western_union,Sopachuy,1
+POTOSI,western_union,Tomas Frias,2
+TARIJA,western_union,Bermejo,5
+POTOSI,western_union,Potosi              00716437,1
+POTOSI,western_union,Cotagaita,2
+POTOSI,western_union,Tupiza,2
+POTOSI,western_union,Villazon,4
+UYUNI,western_union,Potosi,2
+POTOSI,western_union,Uyuni,4
+POTOSI,western_union,Antonio Quijarro,1
+POTOSI,western_union,Sur Chichas,1
+ELALTO,western_union,La Paz,2

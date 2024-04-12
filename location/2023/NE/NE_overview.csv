@@ -1,0 +1,54 @@
+State,Place Name,City,Establishments
+NIAMEY,avis,Niamey,2
+UNKNOWN,man_truck_and_bus,Niamey/Niger,1
+UNKNOWN,moneygram,KONNI,3
+UNKNOWN,moneygram,MARADI,6
+UNKNOWN,moneygram,TAHOUA,6
+UNKNOWN,moneygram,ZINDER,6
+UNKNOWN,moneygram,AGADEZ,4
+UNKNOWN,moneygram,TESSAOUA,1
+UNKNOWN,moneygram,NIAMEY,61
+UNKNOWN,moneygram,TILLABERY,1
+UNKNOWN,moneygram,DOSSO,3
+UNKNOWN,moneygram,AGEDER,1
+UNKNOWN,moneygram,TORODI,1
+UNKNOWN,moneygram,DIFFA,1
+UNKNOWN,moneygram,GAZAOUA,1
+UNKNOWN,moneygram,GAYA,2
+UNKNOWN,moneygram,ARLIT,1
+UNKNOWN,moneygram,TILLABERI,1
+UNKNOWN,moneygram,DOUTCHI,1
+UNKNOWN,totalenergies,NIAMEY,44
+UNKNOWN,totalenergies,AGADEZ,3
+UNKNOWN,totalenergies,BALLEYARA,1
+UNKNOWN,totalenergies,DOSSO,3
+UNKNOWN,totalenergies,KONNI,2
+UNKNOWN,totalenergies,MARADI,3
+UNKNOWN,totalenergies,TAHOUA,4
+UNKNOWN,totalenergies,TILLABERI,1
+UNKNOWN,totalenergies,ZINDER,4
+UNKNOWN,totalenergies,OUALLAM,1
+UNKNOWN,totalenergies,FILINGUE,1
+UNKNOWN,totalenergies,GAYA,1
+UNKNOWN,totalenergies,DOUTCHI,1
+UNKNOWN,visa,NIAMEY-BUREAU DE YANTALA,1
+UNKNOWN,visa,NIAMEY-BUREAU DE KALLEY SUD,1
+UNKNOWN,visa,NIAMEY-SIEGE,1
+UNKNOWN,visa,NIAMEY-BUREAU DE KATAKO,1
+UNKNOWN,visa,AGENCE DE MARADI,1
+UNKNOWN,visa,AGENCE DE TAHOUA,1
+UNKNOWN,visa,AGENCE DE ZINDER,1
+TILLABERI,western_union,Tillabery,4
+TAHOUA,western_union,Tahoua,7
+TAHOUA,western_union,Tahaoua,1
+NIAMEY,western_union,Niamey,61
+DOSSO,western_union,Doutchi,1
+AGADEZ,western_union,Agadez,6
+MARADI,western_union,Dakoro,1
+ZINDER,western_union,Zinder,10
+MARADI,western_union,Maradi,11
+MARADI,western_union,Tessaoua,1
+MARADI,western_union,Gazaoua,1
+DOSSO,western_union,Gaya,2
+DIFFA,western_union,Diffa,2
+UNKNOWN,western_union,Niamey,1

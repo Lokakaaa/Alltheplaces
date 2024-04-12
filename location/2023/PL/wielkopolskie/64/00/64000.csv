@@ -1,0 +1,80 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+11539,abc_pl,abc,,Racot,wielkopolskie,,PL,,,,abc,Q11683985
+11547,abc_pl,abc,,Nowy Lubosz,wielkopolskie,,PL,,,,abc,Q11683985
+11238,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+7483,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+1466,abc_pl,abc,,Turew,wielkopolskie,,PL,,,,abc,Q11683985
+11550,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+11226,abc_pl,abc,,Stare Oborzyska,wielkopolskie,,PL,,,,abc,Q11683985
+11555,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+7646,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+7645,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+11535,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+11236,abc_pl,abc,,Nowy Dębiec,wielkopolskie,,PL,,,,abc,Q11683985
+12051,abc_pl,abc,,Nowy Lubosz,wielkopolskie,,PL,,,,abc,Q11683985
+14611,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+15185,abc_pl,abc,,Kiełczewo,wielkopolskie,,PL,,,,abc,Q11683985
+14613,abc_pl,abc,,Kokorzyn,wielkopolskie,,PL,,,,abc,Q11683985
+7638,abc_pl,abc,,Kościan,wielkopolskie,,PL,,,,abc,Q11683985
+PL001275,aldi_nord_pl,ALDI,,Kiełczewo,Wielkopolskie,,PL,+48 800 118 118,,Mo-Sa 07:00-21:00,ALDI,Q41171373
+45,bricomarche_pl,Bricomarché Kościan,,Kościan,wielkopolskie,,PL,+48 65 511 90 60,https://www.bricomarche.pl/sklep/bricomarche-koscian,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1620-koscian-wroclawska,credit_agricole_pl,"Credit Agricole Wrocławska 15, Kościan",,Kościan,wielkopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1620-koscian-wroclawska,Mo 10:00-17:00; Tu-Fr 09:00-16:00,Credit Agricole,Q590952
+764,dr_max,"Apteka Dr.Max, Szczepanowskiego 11, Kościan",,Kościan,Wielkopolskie,,PL,+48 723 222 362,https://www.drmax.pl/apteki/koscian-szczepanowskiego-11,,Dr. Max,Q56317371
+11917,groszek_pl,Groszek,,Kościan,wielkopolskie,,PL,,,,Groszek,Q9280965
+11976,groszek_pl,Groszek,,Kościan,wielkopolskie,,PL,,,,Groszek,Q9280965
+12008,groszek_pl,Groszek,,Kiełczewo,wielkopolskie,,PL,,,,Groszek,Q9280965
+13742,groszek_pl,Groszek,,Kościan,wielkopolskie,,PL,,,,Groszek,Q9280965
+707,mcdonalds_pl,McDonald's,,Kościan,Wielkopolskie,,PL,+48 453 690 154,https://mcdonalds.pl/restauracje/wielkopolskie/koscian/koscian-tbc,Mo-Su 06:00-24:00,McDonald's,Q38076
+CHOR01M,paczkomat_inpost_pl,przy sklepie Livio,,Choryń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-choryn-chor01m-choryn-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KCW01M,paczkomat_inpost_pl,Market Dino,,Kiełczewo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kielczewo-kcw01m-sloneczna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KCW01N,paczkomat_inpost_pl,Przy Chińskim Markecie,,Kiełczewo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kielczewo-kcw01n-poznanska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOKO01M,paczkomat_inpost_pl,przy sklepie spożywczym,,Kokorzyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kokorzyn-koko01m-ogrodowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC01APP,paczkomat_inpost_pl,parking Netto,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc01app-ksiedza-jozefa-surzynskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC01HP,paczkomat_inpost_pl,w sklepie Duży Ben,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc01hp-smigielska-paczkomaty-wielkopolskie,Mo-Th 10:00-23:00; Fr 10:00-24:00; Sa 10:00-23:30,Paczkomat,Q110970254
+KSC01M,paczkomat_inpost_pl,parking Lidla,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc01m-smigielska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC02A,paczkomat_inpost_pl,Market Dino,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc02a-skladowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC02M,paczkomat_inpost_pl,Przy budynku usługowo-handlowym,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc02m-kruszewskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC02N,paczkomat_inpost_pl,Przy hurtowni PSB Mrówka,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc02n-lakowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC03A,paczkomat_inpost_pl,przy Kauflandzie,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc03a-kosciuszki-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC03M,paczkomat_inpost_pl,Teren prywatnej posesji,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc03m-maya-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC04A,paczkomat_inpost_pl,Przy sklepie Black Red White,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc04a-zachodnia-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC04M,paczkomat_inpost_pl,Market Dino,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc04m-naclawska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC05A,paczkomat_inpost_pl,parking za sklepem Lewiatan,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc05a-surzynskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC05M,paczkomat_inpost_pl,Za budynkiem od strony ul. Konopnickiej,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc05m-pl-wolnosci-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC06M,paczkomat_inpost_pl,Przy wjeździe do kompleksu rozrywki,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc06m-boczna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC07M,paczkomat_inpost_pl,Parking przy Centrum Medycznym,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc07m-kazmierczaka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC08M,paczkomat_inpost_pl,Za budynkiem stacji Shell,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc08m-gostynska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC09M,paczkomat_inpost_pl,parking za budynkiem mieszkalnym,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc09m-naclawska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC10M,paczkomat_inpost_pl,Przy wjeździe na parking samochodowy,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc10m-polnocna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC11M,paczkomat_inpost_pl,Prywatna posesja od ul. Krasickiego,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc11m-krasickiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC12M,paczkomat_inpost_pl,przy sklepie abc,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc12m-generala-wladyslawa-sikorskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC13M,paczkomat_inpost_pl,przy wjeździe na posesję,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc13m-wielichowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC14M,paczkomat_inpost_pl,parking przy sklepie,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc14m-wyzwolenia-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KSC15M,paczkomat_inpost_pl,przy sklepie Żabka,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-ksc15m-szkolna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KUG01M,paczkomat_inpost_pl,parking przy sklepie ogrodniczym CH DORADO,,Kurza Góra,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kurza-gora-kug01m-gostynska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+NYL01M,paczkomat_inpost_pl,parking przy Lewiatanie,,Nowy Lubosz,wielkopolskie,,PL,,https://inpost.pl/paczkomat-nowy-lubosz-nyl01m-koscianska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PNO01M,paczkomat_inpost_pl,Przy wjeździe na teren myjni,,Pianowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pianowo-pno01m-czempinska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-KSC2,paczkomat_inpost_pl,PUNKT KURIERSKI KOŚCIAN,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-pop-ksc2-ks-jozefa-surzynskiego-paczkomaty-wielkopolskie,Mo-Fr 09:00-17:00,Paczkomat,Q110970254
+POP-KSC5,paczkomat_inpost_pl,DUŻY BEN,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-pop-ksc5-smigielska-paczkomaty-wielkopolskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+POP-KSC6,paczkomat_inpost_pl,HAPPY PACK ALKOHOLE KONESERA ,,Kościan,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koscian-pop-ksc6-smigielska-paczkomaty-wielkopolskie,Mo-Fr 08:00-24:00,Paczkomat,Q110970254
+RAX01M,paczkomat_inpost_pl,Przy sklepie Lewiatan,,Racot,wielkopolskie,,PL,,https://inpost.pl/paczkomat-racot-rax01m-koscianska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SBZ01M,paczkomat_inpost_pl,Market Dino,,Stare Oborzyska,wielkopolskie,,PL,,https://inpost.pl/paczkomat-stare-oborzyska-sbz01m-koscianska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+TEW01M,paczkomat_inpost_pl,Market Dino,,Turew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-turew-tew01m-szkolna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WDO01M,paczkomat_inpost_pl,Market Dino,,Widziszewo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-widziszewo-wdo01m-dworcowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+XQQ01M,paczkomat_inpost_pl,przy wjeździe na posesję,,Bonikowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-bonikowo-xqq01m-dworcowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+XTL01M,paczkomat_inpost_pl,przy sklepie spożywczym,,Stary Lubosz,wielkopolskie,,PL,,https://inpost.pl/paczkomat-stary-lubosz-xtl01m-koscianska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+440,play_pl,Salon Play,Ul. Kościuszki 9,Kościan,wielkopolskie,,PL,+48 790 030 155,,Mo-Sa 09:00-21:00; Su 09:00-19:00,Play,Q7202998
+748373,poczta_polska_pl,AP Kiełczewo,,Kiełczewo,WIELKOPOLSKIE,,PL,+48 508 170 581,,,Poczta Polska,Q168833
+247094,poczta_polska_pl,UP Kościan 1,,Kościan,WIELKOPOLSKIE,,PL,+48 65 511 91 90,,,Poczta Polska,Q168833
+308469,poczta_polska_pl,FUP Kościan 1,,Kościan,WIELKOPOLSKIE,,PL,+48 885 870 557,,,Poczta Polska,Q168833
+308476,poczta_polska_pl,FUP Kościan 1,,Kościan,WIELKOPOLSKIE,,PL,+48 885 920 826,,,Poczta Polska,Q168833
+,visa,,,KOŚCIAN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOŚCIAN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOSCIAN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOŚCIAN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOSCIAN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOŚCIAN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KIEŁCZEWO,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOSCIAN,WIELKOPOLSKIE,,PL,,,,,
+9d2d75bcf4505813a9836ce1a55590f5,western_union,STEFCZYK FINANSE,,Koscian,WIELKOPOLSKIE,,PL,+48 65 536 67 15,https://location.westernunion.com/pl/wielkopolskie/koscian/9d2d75bcf4505813a9836ce1a55590f5,Mo-Fr 09:00-17:00,Western Union,Q861042
+5d3e77eadd1b7362177c1f29f34af024,western_union,BANK SPOLDZIELCZY W KOSCIANIE,,Koscian,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/koscian/5d3e77eadd1b7362177c1f29f34af024,Mo-Fr 07:30-17:00,Western Union,Q861042

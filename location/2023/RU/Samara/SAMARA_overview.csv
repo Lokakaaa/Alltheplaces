@@ -1,0 +1,684 @@
+City,Place Name,Zipcode,Name
+Samara,audi,Moskovskoe shosse 17A 443013 Samara,unknown,Audi Center Samara
+Новокуйбышевск,coffee_like,пр-т Победы 1ж,unknown,Coffee Like
+Самара,coffee_like,просп. Кирова 147,unknown,Coffee Like
+Самара,coffee_like,ш. Московское 49,unknown,Coffee Like
+Самара,coffee_like,ш. Московское 205,unknown,Coffee Like
+Самара,coffee_like,ул. Ново-Садовая 160м,unknown,Coffee Like
+Тольятти,coffee_like,ул. Заставная 1,unknown,Coffee Like
+Тольятти,coffee_like,ул. Карла Маркса 57,unknown,Coffee Like
+Тольятти,coffee_like,Цветной б-р 1,unknown,Coffee Like
+Тольятти,coffee_like,ул. Победы 29,unknown,Coffee Like
+Тольятти,coffee_like,ул. Жилина 17 а,unknown,Coffee Like
+Тольятти,coffee_like,ул. Юбилейная 40 стр. 5,unknown,Coffee Like
+Тольятти,coffee_like,Автозаводское шоссе 6,unknown,Coffee Like
+Тольятти,coffee_like,М-5 Урал 979-й километр 2а,unknown,Coffee Like
+Тольятти,coffee_like,ул. 40 лет Победы 69,unknown,Coffee Like
+Тольятти,coffee_like,бульвар 50 лет Октября 1,unknown,Coffee Like
+Тольятти,coffee_like,ул. Голосова 26 б,unknown,Coffee Like
+Тольятти,coffee_like,Лесопарковое шоссе 35,unknown,Coffee Like
+Тольятти,coffee_like,ул. Тополиная 41 а,unknown,Coffee Like
+Тольятти,coffee_like,ул. Победы 29А,unknown,Coffee Like
+Тольятти,coffee_like,ул. Революционная 52а стр.1,unknown,Coffee Like
+Тольятти,coffee_like,ул. Фрунзе 23 а,unknown,Coffee Like
+Тольятти,coffee_like,ул. Баныкина 74,unknown,Coffee Like
+Тольятти,coffee_like,ул. Льва Яшина 14,unknown,Coffee Like
+Тольятти,coffee_like,ул. 70 лет Октября 3/2,unknown,Coffee Like
+Syzranskiy area,lukoil,Russia Samara Region Syzranskiy area Troyekurovka,unknown,AZS № 63225
+Syzran,lukoil,Russia Samara Region Syzran st. Monastyrskaya 3,unknown,AZS № 63224 
+g. Samara,lukoil,Russia Samara Region g. Samara ul. Antonova-Ovsyeenko 7,unknown,AZS No01 STK
+Syzranʹ,lukoil,Russia Samara Region Syzranʹ Monastyrskaya 3,unknown,AZS No02 SyzranʹNefteProdukt-Avto
+Samara,lukoil,Russia 443047 Samara Region Samara st. Uralskaya 4,unknown,AZS No 63054
+Samara,lukoil,Russia 443063 Samara Region Samara st. Novo-Voеzalʹnaya 143,unknown,AZS No 63007
+unknown,lukoil,Russia 443532 Samara Region Volzhskiy area Preobrazhenka st. Leninskaya 74A,unknown,AZS No 63058
+unknown,lukoil,Russia 446000 Samara Region r-n Krasnoyarskiy g.p. Novosemeykino 2-y km a/d Moskva-Ufa-Chel  soor. 1,unknown,AZS No 63052
+Novokuibyshevsk,lukoil,Russia 446200 Samara Region Novokuibyshevsk road Samarskoe 4,unknown,AZS No63053
+Samara,lukoil,Russia 443106 Samara Region Samara st. Stara-Zagora,unknown,AZS No 63051
+Samara,lukoil,Russia 443000 Samara Region Samara st. Tashkentskaya  79B,unknown,AZS No63050
+Samara,lukoil,Russia 443125 Samara Region Samara Moskovskoe road d. 262B,unknown,AZS No63056
+unknown,lukoil,Russia 446370 Samara Region Krasnoyarskiy area 1047-y (road Moscow-Ufa-Chelyabinsk) km 53,unknown,AZS No63047
+unknown,lukoil,Russia Samara Region p.g.t. Volzhskii Razina 1 А,unknown,AZS No05-F Avto-Traеzit-Servis
+unknown,lukoil,Russia Samara Region 27-28 km avtodorogi samara-Buguruslan,unknown,AZS No06-F Avto-Traеzit-Servis
+unknown,lukoil,Russia 446087 Samara Region m.r-n Syzranskiy s.p. Volzhskoye 906-y km territoriya a/d Moskva-Samara zd. 1,unknown,AZS No86-U (63086)
+unknown,lukoil,Russia 446550 Samara Region 1108km road M5 Ural Moscow-Ufa-Chelyabinsk 324,unknown,AZS No75-u (63075)
+unknown,lukoil,Russia 445140 Samara Region  Timofyeevka Obvodnaya road 7a,unknown,AZS No76-u (63076)
+Tolʹyatti,lukoil,Russia 445043 Samara Region Tolʹyatti st. Borkovskaya vld. 43,unknown,AZS No67-U (63067)
+unknown,lukoil,Russia 446416 Samara Region Gyeorgievka ul. Shosseynaya 17,unknown,AZS No68-U (63068)
+Tolʹyatti,lukoil,Russia 445013 Samara Region  Tolʹyatti st. Kuibysheva 5,unknown,AZS No71-U (63071)
+Tolʹyatti,lukoil,Russia 445028 Samara Region Tolʹyatti b-r Primorskii 50,unknown,AZS No72-U (63072)
+g Samara,lukoil,Russia Samara Region g Samara Krupskoi 32,unknown,AZS No01-F Avto-Traеzit-Servis
+g Samara,lukoil,Russia Samara Region g Samara Kirovskii area Volzhskoe road 103,unknown,AZS No03-F Avto-Traеzit-Servis
+unknown,lukoil,Russia Samara Region Volzhskii area 7 km road near Samara (left side) 7km a/d obvodnoi,unknown,AZS No02-F Avto-Traеzit-Servis
+unknown,lukoil,"Russia 445149 Samara Region Zelenovka 979 km road M-5 Ural
+",unknown,AZS No64-u (63064)
+unknown,lukoil,Russia 000000 Samara Region 1023 km road Moscow-Chelyabinsk М5 1,unknown,AZS №46-U (63046)
+unknown,lukoil,Russia 443528 Samara Region area Volzhskiy Sputnik 26km road Samara-Buguruslan,unknown,AZS №23-U (63023)
+unknown,lukoil,"Russia 443536 Samara Region Nikolayevka
+ 29km road Samara-Orenburg",unknown,AZS No19-U (63019)
+unknown,wildberries,Самарская область Самара улица Гагарина 65,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Молодёжный бульвар 3,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Полевая улица 70,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская обл.) пр. Кирова д. 66,unknown,Wildberries
+unknown,wildberries,г. Новокуйбышевск (Самарская обл.) пр-кт Победы 21,unknown,Wildberries
+unknown,wildberries,г. Тольятти (Самарская область) улица Дзержинского д. 68А,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) Молодёжная улица д. 12,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Гастелло д. 22А,unknown,Wildberries
+unknown,wildberries,г. Тольятти (Самарская область) улица 70 лет Октября д. 15,unknown,Wildberries
+unknown,wildberries,Самарская область Самара улица Мичурина 122,unknown,Wildberries
+unknown,wildberries,г. Сызрань (Самарская область) улица Победы д. 23,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Урицкого д. 4,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Мяги д. 13,unknown,Wildberries
+unknown,wildberries,г. Чапаевск (Самарская область) Железнодорожная улица д. 16 А,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Алексея Толстого д. 70,unknown,Wildberries
+unknown,wildberries,г. Тольятти (Самарская область) Приморский бульвар д. 2,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) Ново-Садовая улица д. 38,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) Минская улица д. 25,unknown,Wildberries
+unknown,wildberries,г. Тольятти (Самарская область) Южное шоссе д. 19,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) проспект Металлургов д. 87,unknown,Wildberries
+unknown,wildberries,г. Тольятти (Самарская область) Приморский бульвар д. 45,unknown,Wildberries
+unknown,wildberries,г. Сызрань (Самарская область) улица Жуковского д. 10Г,unknown,Wildberries
+unknown,wildberries,г. Новокуйбышевск (Самарская область) улица Миронова д. 10,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) Пугачевский тракт д. 80,unknown,Wildberries
+unknown,wildberries,г. Тольятти (Самарская область) улица Мурысева д. 90,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Победы д. 90,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Ташкентская улица 173,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Демократическая улица 30А,unknown,Wildberries
+unknown,wildberries,г. Отрадный (Самарская область) улица Чернышевского д. 17,unknown,Wildberries
+unknown,wildberries,г. Жигулёвск (Самарская область) улица Муравленко д. 6,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) Солнечная улица д. 18,unknown,Wildberries
+unknown,wildberries,г. Сызрань (Самарская область) Гидротурбинная улица д. 24,unknown,Wildberries
+unknown,wildberries,г. Октябрьск (Самарская область) улица Ленина д. 61,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Автозаводское шоссе 47,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) Вольская улица д. 81,unknown,Wildberries
+unknown,wildberries,г. Похвистнево (Самарская область) Революционная улица д. 6,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Безенчук (Самарская область) улица Чапаева д. 21,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Шверника д. 19А,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская обл) Ново Садовая 164,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Гагарина д. 87,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская обл) бульвар Засамарская Слобода 2,unknown,Wildberries
+unknown,wildberries,Самара поселок Новосемейкино Школьная  8,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Николая Панова д. 4,unknown,Wildberries
+unknown,wildberries,г. Новокуйбышевск (Самарская область) проспект Победы д. 47,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область) 6 квартал д. 7,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская область) улица Солдатская д. 10/13,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская обл) Пионерская улица 100,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок Приморский Советская улица 21А,unknown,Wildberries
+unknown,wildberries,Самара Самарская 90,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская обл) Красная Глинка 1 квартал 9,unknown,Wildberries
+unknown,wildberries,Самарская область Самара улица Мориса Тореза 119,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская обл) Дачная 30,unknown,Wildberries
+unknown,wildberries,г. Нефтегорск (Самарская область) улица Буровиков д. 17,unknown,Wildberries
+unknown,wildberries,Самара (Самарская обл) Мичурина 9,unknown,Wildberries
+unknown,wildberries,г. Самара (Самарская обл) пр.Кирова 180,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская обл) Стара-Загора 160,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область) Садовая 221,unknown,Wildberries
+unknown,wildberries,Самарская область Самара бульвар Ивана Финютина 22,unknown,Wildberries
+unknown,wildberries,Самарская область Кинель Южная улица 34,unknown,Wildberries
+unknown,wildberries,г Тольятти (Россия Самарская обл) Ленина 57,unknown,Wildberries
+unknown,wildberries,г Тольятти (Россия Самарская обл) Автостроителей 7,unknown,Wildberries
+unknown,wildberries,пгт Усть-Кинельский (Самарская область городской округ Кинель) улица Испытателей 8,unknown,Wildberries
+unknown,wildberries,г Сызрань (Самарская область) Локомобильная улица 24,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск (Самарская обл) улица Егорова 10В,unknown,Wildberries
+unknown,wildberries,село Пестравка (Самарская область Пестравский район) Коммунистическая улица 56А,unknown,Wildberries
+unknown,wildberries,г Тольятти (Самарская область) улица Мира 92,unknown,Wildberries
+unknown,wildberries,г Тольятти (Самарская область) улица Автостроителей 68А,unknown,Wildberries
+unknown,wildberries,Чапаевск Самарская обл улица Ленина 88,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область) улица Стара Загора 139,unknown,Wildberries
+unknown,wildberries,Сызрань Самарская область городской округ Сызрань проспект 50 лет Октября 24,unknown,Wildberries
+unknown,wildberries,Самара Самарская область городской округ Самара проспект Карла Маркса 196,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область) улица Победы 141,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область) улица Промышленности 291,unknown,Wildberries
+unknown,wildberries,г Тольятти (Самарская область) улица Матросова 54,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область)  Мехзавод 1 квартал 33,unknown,Wildberries
+unknown,wildberries,г. Тольятти бульвар Туполева 15Б,unknown,Wildberries
+unknown,wildberries,Кинель-Черкассы (Самарская область) улица Карла Маркса 7 ,unknown,Wildberries
+unknown,wildberries,Утевка (Самарская обл) Торговая улица 16,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область) Владимирская улица 41А,unknown,Wildberries
+unknown,wildberries,Большая Глушица (Самарская область) Гагарина 51,unknown,Wildberries
+unknown,wildberries,г. Сызрань улица Фридриха Энгельса 54,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область) проспект Кирова 322Ак1,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская обл) Революционная улица 101В,unknown,Wildberries
+unknown,wildberries,Тольятти (Самарская область) Гидротехническая улица 37,unknown,Wildberries
+unknown,wildberries,Тольятти (Самарская область) бульвар Луначарского 17,unknown,Wildberries
+unknown,wildberries,Смышляевка (Самарская обл) улица Чапаева 62Б,unknown,Wildberries
+unknown,wildberries,г Самара (Самарская область) улица Авроры 106,unknown,Wildberries
+unknown,wildberries,Тольятти улица Полякова 26,unknown,Wildberries
+unknown,wildberries,Самара улица Гагарина 6,unknown,Wildberries
+unknown,wildberries,Тольятти Тополиная улица 1,unknown,Wildberries
+unknown,wildberries,с Борское Первомайская 48 б,unknown,Wildberries
+unknown,wildberries,с Красный Яр Кооперативная 99,unknown,Wildberries
+unknown,wildberries,пгт Алексеевка Невская Улица 31б,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Кирова 242,unknown,Wildberries
+unknown,wildberries,г Чапаевск Улица Ленина 37,unknown,Wildberries
+unknown,wildberries,г Самара Чернореченская Улица 49,unknown,Wildberries
+unknown,wildberries,г Самара Никитинская Улица 96,unknown,Wildberries
+unknown,wildberries,с Васильевка Улица Мира 58,unknown,Wildberries
+unknown,wildberries,г Самара Московское Шоссе 147,unknown,Wildberries
+unknown,wildberries,г Тольятти Ленинский Проспект 1а,unknown,Wildberries
+unknown,wildberries,г Самара Улица Зои Космодемьянской 4,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица 40 Лет Победы 47а,unknown,Wildberries
+unknown,wildberries,г Самара 6-Я Просека 149,unknown,Wildberries
+unknown,wildberries,с Ягодное Ставропольская Улица 2,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Карла Маркса 412а,unknown,Wildberries
+unknown,wildberries,с Красный Яр Коммунистический Переулок 3,unknown,Wildberries
+unknown,wildberries,Отрадный Самарская область городской округ Отрадный Советская улица 86,unknown,Wildberries
+unknown,wildberries,пгт Безенчук Улица Мамистова 8б,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская область городской округ Тольятти бульвар Кулибина 6А,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская область городской округ Тольятти улица Толстого 22А,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Улица Дзержинского 45,unknown,Wildberries
+unknown,wildberries,г Самара Улица Академика Платонова 10к7,unknown,Wildberries
+unknown,wildberries,г Самара 7-Я Просека 106,unknown,Wildberries
+unknown,wildberries,г Чапаевск Гостиная Улица 9,unknown,Wildberries
+unknown,wildberries,г Самара Улица Гастелло 49,unknown,Wildberries
+unknown,wildberries,Россия Самарская обл г Самара Улица Гая 36,unknown,Wildberries
+unknown,wildberries,Россия Самарская обл г Самара Улица Мичурина 132,unknown,Wildberries
+unknown,wildberries,Россия Самарская обл г Октябрьск Улица Мира 169,unknown,Wildberries
+unknown,wildberries,Россия Самарская обл г Тольятти Улица 40 Лет Победы 13б,unknown,Wildberries
+unknown,wildberries,Россия Самарская обл г Самара Улица Победы 84,unknown,Wildberries
+unknown,wildberries,пгт Мирный Песочная Улица 7,unknown,Wildberries
+unknown,wildberries,г Самара Съездовская Улица 10,unknown,Wildberries
+unknown,wildberries,г Самара Заводское Шоссе 44,unknown,Wildberries
+unknown,wildberries,г Самара 1-Й Квартал 54,unknown,Wildberries
+unknown,wildberries,с Кошки Лесная Улица 5,unknown,Wildberries
+unknown,wildberries,г Самара Пугачёвский Тракт 39,unknown,Wildberries
+unknown,wildberries,г Тольятти Комсомольская Улица 84б,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская область городской округ Тольятти улица 40 лет Победы 80,unknown,Wildberries
+unknown,wildberries,г Тольятти Юбилейная Улица 25в,unknown,Wildberries
+unknown,wildberries,г Самара Ташкентская Улица 186а,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская область городской округ Тольятти бульвар Космонавтов 7,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Проспект Победы 31,unknown,Wildberries
+unknown,wildberries,г Жигулевск Механический Переулок 1в,unknown,Wildberries
+unknown,wildberries,г Самара Ново-Вокзальная Улица 124,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская область городской округ Тольятти улица Карбышева 12,unknown,Wildberries
+unknown,wildberries,п Сургут Первомайская Улица 18,unknown,Wildberries
+unknown,wildberries,Россия Самарская обл г Самара Белорусская Улица 131,unknown,Wildberries
+unknown,wildberries,г Самара Улица Георгия Димитрова 90,unknown,Wildberries
+unknown,wildberries,г Чапаевск Улица Ленина 16а,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская область городской округ Тольятти улица Матросова 25,unknown,Wildberries
+unknown,wildberries,г Кинель Ладный Переулок 1,unknown,Wildberries
+unknown,wildberries,г Похвистнево Улица Мира 21а,unknown,Wildberries
+unknown,wildberries,г Шентала Вокзальная Улица 35,unknown,Wildberries
+unknown,wildberries,пгт Стройкерамика Школьная Улица 11,unknown,Wildberries
+unknown,wildberries,г Самара Долотный Переулок 9,unknown,Wildberries
+unknown,wildberries,г Самара Улица Стара Загора 59,unknown,Wildberries
+unknown,wildberries,г рощинский Поселок Городского Типа Рощинский 3б,unknown,Wildberries
+unknown,wildberries,с Подстепки Полевая Улица 42/5,unknown,Wildberries
+unknown,wildberries,г Самара Улица Урицкого 30,unknown,Wildberries
+unknown,wildberries,пгт Стройкерамика Улица Анетты Басс 13,unknown,Wildberries
+unknown,wildberries,г Самара 5-Я Просека 133,unknown,Wildberries
+unknown,wildberries,г Самара Ташкентская Улица 137,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Ленина 12а,unknown,Wildberries
+unknown,wildberries,г Тольятти Приморский Бульвар 29,unknown,Wildberries
+unknown,wildberries,г Самара Бульвар Ивана Финютина 7,unknown,Wildberries
+unknown,wildberries,г Самара Корабельная Улица 12,unknown,Wildberries
+unknown,wildberries,Самарская область Самара улица Лукачева 42,unknown,Wildberries
+unknown,wildberries,Чапаевск Самарская область городской округ Чапаевск Медицинская улица 1,unknown,Wildberries
+unknown,wildberries,Самара Самарская область городской округ Самара улица Антонова-Овсеенко 101,unknown,Wildberries
+unknown,wildberries,г Отрадный Первомайская Улица 37,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская область городской округ Тольятти бульвар Орджоникидзе 11,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Улица Островского 6,unknown,Wildberries
+unknown,wildberries,г Самара Киевская Улица 13,unknown,Wildberries
+unknown,wildberries,п Придорожный Николаевский Проспект 68,unknown,Wildberries
+unknown,wildberries,Самара Самарская область городской округ Самара Рижская улица 1,unknown,Wildberries
+unknown,wildberries,Самара Самарская область городской округ Самара Берёзовая аллея 1,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская обл улица Голосова 99,unknown,Wildberries
+unknown,wildberries,г Самара 5-Я Просека 106,unknown,Wildberries
+unknown,wildberries,г Жигулевск Радиозаводская Улица 2,unknown,Wildberries
+unknown,wildberries,Тольятти Самарская область городской округ Тольятти улица Ушакова 48,unknown,Wildberries
+unknown,wildberries,г Самара Пензенская Улица 63,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл Садовая улица 254,unknown,Wildberries
+unknown,wildberries,г Самара Улица Георгия Димитрова 131,unknown,Wildberries
+unknown,wildberries,г Самара Ново-Вокзальная Улица 146,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл улица Победы 12,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Самарская область городской округ Новокуйбышевск улица Миронова 1,unknown,Wildberries
+unknown,wildberries,снт Георгиевка Улица Специалистов 22,unknown,Wildberries
+unknown,wildberries,Сызрань Самарская область городской округ Сызрань Советская улица 31,unknown,Wildberries
+unknown,wildberries,Сызрань Самарская область городской округ Сызрань проспект Гагарина 89А,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл Осетинская улица 7,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Самарская область городской округ Новокуйбышевск улица Свердлова 29,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Кирова 143,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Безенчук улица Мамистова 46А,unknown,Wildberries
+unknown,wildberries,п Управленческий Красногвардейская Улица 2,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл проспект Металлургов 71,unknown,Wildberries
+unknown,wildberries,г Отрадный Улица Победы 1,unknown,Wildberries
+unknown,wildberries,г Кинель Фестивальная Улица 2б,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Советская Улица 10,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл Краснодонская улица 10А,unknown,Wildberries
+unknown,wildberries,п Придорожный Земская Улица 1,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл улица Советской Армии 143А,unknown,Wildberries
+unknown,wildberries,г Самара Улица Мориса Тореза 103,unknown,Wildberries
+unknown,wildberries,с Приволжье Парковая Улица 13г,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Кирова 130,unknown,Wildberries
+unknown,wildberries,г Отрадный Пионерская Улица 24,unknown,Wildberries
+unknown,wildberries,г Сызрань Рудная Улица 8,unknown,Wildberries
+unknown,wildberries,г Самара 6-Я Просека 140,unknown,Wildberries
+unknown,wildberries,г Самара Молодёжная Улица 8б,unknown,Wildberries
+unknown,wildberries,г Тольятти Кооперативная Улица 20а,unknown,Wildberries
+unknown,wildberries,пгт Петра Дубрава Улица 60 Лет Октября 7,unknown,Wildberries
+unknown,wildberries,г Самара Улица Тухачевского 90,unknown,Wildberries
+unknown,wildberries,г Самара Улица Георгия Димитрова 110в,unknown,Wildberries
+unknown,wildberries,г Самара Микрорайон Жилгородок 29ак2,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Ворошилова 24,unknown,Wildberries
+unknown,wildberries,г Кинель Улица Маяковского 77,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Проспект Победы 28,unknown,Wildberries
+unknown,wildberries,г Чапаевск Улица Чапаева 8,unknown,Wildberries
+unknown,wildberries,г Самара 5-Я Просека 97а,unknown,Wildberries
+unknown,wildberries,г Самара Улица Металлистов 55,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл Физкультурная улица 98,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Улица Карбышева 28,unknown,Wildberries
+unknown,wildberries,г Самара Ново-Садовая Улица 22,unknown,Wildberries
+unknown,wildberries,г Самара Революционная Улица 48,unknown,Wildberries
+unknown,wildberries,с Красный Яр Комсомольская Улица 109,unknown,Wildberries
+unknown,wildberries,с Богатое Улица Строителей 69а,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Карла Маркса 6,unknown,Wildberries
+unknown,wildberries,г Сызрань Проспект 50 Лет Октября 54г,unknown,Wildberries
+unknown,wildberries,г Сызрань Проспект Гагарина 35,unknown,Wildberries
+unknown,wildberries,г Сызрань Проспект 50 Лет Октября 87а,unknown,Wildberries
+unknown,wildberries,г Самара Улица Карбышева 67,unknown,Wildberries
+unknown,wildberries,г Самара Улица Антонова-Овсеенко 12,unknown,Wildberries
+unknown,wildberries,г Самара Белорусская Улица 20,unknown,Wildberries
+unknown,wildberries,г Отрадный Улица Буровиков 34,unknown,Wildberries
+unknown,wildberries,пгт Суходол Улица Победы 11,unknown,Wildberries
+unknown,wildberries,г Кинель (Самарская область) Украинская улица 30,unknown,Wildberries
+unknown,wildberries,г Самара Полевая Улица 59,unknown,Wildberries
+unknown,wildberries,г Отрадный Улица Гайдара 33,unknown,Wildberries
+unknown,wildberries,с Хворостянка Первомайская Улица 4а,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Фрунзе 10б,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл проспект Кирова 348,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл Ново-Садовая улица 182,unknown,Wildberries
+unknown,wildberries,г Самара Улица Мичурина 48,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл проспект Карла Маркса 295Б,unknown,Wildberries
+unknown,wildberries,Самара Самарская область городской округ Самара улица Виталия Талабаева 4,unknown,Wildberries
+unknown,wildberries,г Самара Демократическая Улица 23,unknown,Wildberries
+unknown,wildberries,г Самара Революционная Улица 160,unknown,Wildberries
+unknown,wildberries,г Самара Ново-Садовая Улица 21,unknown,Wildberries
+unknown,wildberries,г Самара Улица Советской Армии 181,unknown,Wildberries
+unknown,wildberries,г Самара Улица Стара Загора 293,unknown,Wildberries
+unknown,wildberries,г Самара 1-Й Квартал 58,unknown,Wildberries
+unknown,wildberries,г Самара Ново-Садовая Улица 201а,unknown,Wildberries
+unknown,wildberries,г Тольятти Бульвар Гая 9,unknown,Wildberries
+unknown,wildberries,Самара Самарская обл улица Академика Дмитрия Козлова 23,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Улица Миронова 31г,unknown,Wildberries
+unknown,wildberries,Чапаевск Самарская обл улица Щорса 114,unknown,Wildberries
+unknown,wildberries,с Кинель-Черкассы Улица Калинина 46в,unknown,Wildberries
+unknown,wildberries,Сызрань Самарская обл улица Карла Маркса 10А,unknown,Wildberries
+unknown,wildberries,г Тольятти Бульвар Татищева 13,unknown,Wildberries
+unknown,wildberries,г Самара Демократическая Улица 6к1,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Автостроителей 15,unknown,Wildberries
+unknown,wildberries,Самарская область Самара проспект Карла Маркса 33,unknown,Wildberries
+unknown,wildberries,г Самара Улица Лукачева 10,unknown,Wildberries
+unknown,wildberries,г Самара Улица Победы 2,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Проспект Победы 30,unknown,Wildberries
+unknown,wildberries,с Клявлино Октябрьская Улица 54,unknown,Wildberries
+unknown,wildberries,г Самара Улица Мичурина 149,unknown,Wildberries
+unknown,wildberries,г Тольятти Революционная Улица 40,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Металлургическая улица 5,unknown,Wildberries
+unknown,wildberries,г Самара Улица Губанова 30,unknown,Wildberries
+unknown,wildberries,г Тольятти Железнодорожная Улица 25,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Улица Свердлова 2а,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Лизы Чайкиной 50,unknown,Wildberries
+unknown,wildberries,г Самара Осетинская Улица 1,unknown,Wildberries
+unknown,wildberries,г Самара Улица Советской Армии 123,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Мира 86,unknown,Wildberries
+unknown,wildberries,с Тимашево Революционная Улица 46,unknown,Wildberries
+unknown,wildberries,п Береза 2-Й Квартал 14,unknown,Wildberries
+unknown,wildberries,г Самара Коммунистическая Улица 9,unknown,Wildberries
+unknown,wildberries,г Самара Улица Марии Авейде 27,unknown,Wildberries
+unknown,wildberries,г Самара Севастопольская Улица 15,unknown,Wildberries
+unknown,wildberries,г Самара Товарная Улица 17,unknown,Wildberries
+unknown,wildberries,г Чапаевск Октябрьская Улица 7,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Арцыбушевская улица 162,unknown,Wildberries
+unknown,wildberries,г Самара Улица Гая 30а,unknown,Wildberries
+unknown,wildberries,г Нефтегорск Улица Ленина 14,unknown,Wildberries
+unknown,wildberries,г Самара Осетинская Улица 8,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Фрунзе 31,unknown,Wildberries
+unknown,wildberries,с Подбельск Ленинградская Улица 32,unknown,Wildberries
+unknown,wildberries,с Красноармейское Улица Кирова 17,unknown,Wildberries
+unknown,wildberries,г Самара Улица Свободы 1,unknown,Wildberries
+unknown,wildberries,г Самара Ставропольская Улица 161,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Алексеевка Ульяновская улица 2А,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Ленина 9,unknown,Wildberries
+unknown,wildberries,с Борское Улица Степана Разина 122а,unknown,Wildberries
+unknown,wildberries,Самарская область Самара улица Советской Армии 240Б,unknown,Wildberries
+unknown,wildberries,п Серноводск Улица Ленина 10,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Коммунистическая улица 22,unknown,Wildberries
+unknown,wildberries,г Самара Улица Льва Толстого 14,unknown,Wildberries
+unknown,wildberries,г Самара Самарская Улица 51,unknown,Wildberries
+unknown,wildberries,г Самара Улица Антонова-Овсеенко 83,unknown,Wildberries
+unknown,wildberries,г Самара Улица Гагарина 149,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Карла Маркса 318,unknown,Wildberries
+unknown,wildberries,г Самара Улица Гагарина 129,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Масленникова 17,unknown,Wildberries
+unknown,wildberries,г Самара Улица Академика Дмитрия Козлова 15,unknown,Wildberries
+unknown,wildberries,г Самара Енисейская Улица 46,unknown,Wildberries
+unknown,wildberries,с Красноармейское Улица Мира 11а,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Ингельберга 77,unknown,Wildberries
+unknown,wildberries,г Тольятти Южное Шоссе 77,unknown,Wildberries
+unknown,wildberries,г Самара Коммунистическая Улица 27,unknown,Wildberries
+unknown,wildberries,г Самара Улица Аминева 25,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Улица Дзержинского 4,unknown,Wildberries
+unknown,wildberries,г Самара Улица Павла Маркина 2,unknown,Wildberries
+unknown,wildberries,г Самара Ново-Садовая Улица 246,unknown,Wildberries
+unknown,wildberries,г Самара Съездовская Улица 9,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Свердлова 41,unknown,Wildberries
+unknown,wildberries,Самарская область Сызрань улица Баженова 7,unknown,Wildberries
+unknown,wildberries,с Подстепки Улица 40 Лет Победы 4,unknown,Wildberries
+unknown,wildberries,г Тольятти Приморский Бульвар 61,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Улица Горького 15,unknown,Wildberries
+unknown,wildberries,с Ягодное Улица Территория ОПХ 20,unknown,Wildberries
+unknown,wildberries,Чапаевск Самарская обл Железнодорожная улица 89А,unknown,Wildberries
+unknown,wildberries,г Самара Улица Промышленности 176,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Южное шоссе 59,unknown,Wildberries
+unknown,wildberries,Кинель Самарская обл улица Кутикова 15А,unknown,Wildberries
+unknown,wildberries,г Самара Конноармейская Улица 17,unknown,Wildberries
+unknown,wildberries,г Самара Нагорная Улица 136а,unknown,Wildberries
+unknown,wildberries,с Заглядовка Улица Братьев Красавиных 45кв1,unknown,Wildberries
+unknown,wildberries,Самарская область Самара улица Фрунзе 67/69,unknown,Wildberries
+unknown,wildberries,п Прибрежный Звёздная Улица 11,unknown,Wildberries
+unknown,wildberries,Самарская область село Зольное Первомайская улица 4,unknown,Wildberries
+unknown,wildberries,г Похвистнево Улица Андрея Васильева 6а,unknown,Wildberries
+unknown,wildberries,Самара Самарская область городской округ Самара улица Советской Армии 17,unknown,Wildberries
+unknown,wildberries,пгт Усть-Кинельский Селекционная Улица 9б,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Кирова 273,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица 40 Лет Победы 116,unknown,Wildberries
+unknown,wildberries,г Кинель Улица Ж.Д. Советская 87,unknown,Wildberries
+unknown,wildberries,г Сызрань Проспект 50 Лет Октября 53,unknown,Wildberries
+unknown,wildberries,Самарская область село Обшаровка улица Лепилиной 1С,unknown,Wildberries
+unknown,wildberries,г Самара Пролетарская Улица 150,unknown,Wildberries
+unknown,wildberries,пгт Суходол Улица Суслова 23а,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Улица Миронова 24,unknown,Wildberries
+unknown,wildberries,г Нефтегорск Проспект Победы 9а,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Свердлова 8а,unknown,Wildberries
+unknown,wildberries,г Самара Бульвар Ивана Финютина 55,unknown,Wildberries
+unknown,wildberries,г Самара Микрорайон Крутые Ключи 42,unknown,Wildberries
+unknown,wildberries,п Придорожный Николаевский Проспект 35,unknown,Wildberries
+unknown,wildberries,г Самара Краснопресненская Улица 77,unknown,Wildberries
+unknown,wildberries,с Челно-Вершины Октябрьская Улица 2,unknown,Wildberries
+unknown,wildberries,г Самара Партизанская Улица 175а,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Дзержинского 29,unknown,Wildberries
+unknown,wildberries,г Тольятти Улица Свердлова 11б,unknown,Wildberries
+unknown,wildberries,г Самара Зубчаниновское Шоссе 133,unknown,Wildberries
+unknown,wildberries,г Новокуйбышевск Обкомовская Улица 2акв2,unknown,Wildberries
+unknown,wildberries,с Борское Улица Победы 88,unknown,Wildberries
+unknown,wildberries,г Сызрань Ульяновское Шоссе 5,unknown,Wildberries
+unknown,wildberries,г Тольятти Юбилейная Улица 5а,unknown,Wildberries
+unknown,wildberries,с Исаклы Куйбышевская Улица 85,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Карла Маркса 455,unknown,Wildberries
+unknown,wildberries,нп Яицкое Каширская Улица 2,unknown,Wildberries
+unknown,wildberries,г Сызрань Интернациональная Улица 34,unknown,Wildberries
+unknown,wildberries,г Тольятти Спортивная Улица 18а,unknown,Wildberries
+unknown,wildberries,г Самара Революционная Улица 135,unknown,Wildberries
+unknown,wildberries,Самара Улица Советской Армии 140,unknown,Wildberries
+unknown,wildberries,г Самара Проспект Металлургов 6,unknown,Wildberries
+unknown,wildberries,г Самара Ташкентская Улица 162,unknown,Wildberries
+unknown,wildberries,Похвистнево Улица Газовиков 9а,unknown,Wildberries
+unknown,wildberries,Самарская область Нефтегорск улица Мира 2Б,unknown,Wildberries
+unknown,wildberries,Самарская область Сызрань улица Володарского 8А,unknown,Wildberries
+unknown,wildberries,г Самара Улица Академика Кузнецова 15,unknown,Wildberries
+unknown,wildberries,г Самара Улица Лета 6,unknown,Wildberries
+unknown,wildberries,Самара Революционная Улица 130,unknown,Wildberries
+unknown,wildberries,село Челно-Вершины Центральная Улица 7а,unknown,Wildberries
+unknown,wildberries,Самара Улица Стара Загора 100а,unknown,Wildberries
+unknown,wildberries,Самара Зубчаниновское Шоссе 157,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Московское шоссе 18-й километр 12,unknown,Wildberries
+unknown,wildberries,Самара Улица Авроры 68,unknown,Wildberries
+unknown,wildberries,Похвистнево Косогорная Улица 47,unknown,Wildberries
+unknown,wildberries,Тольятти Спортивная Улица 8б,unknown,Wildberries
+unknown,wildberries,Самара Демократическая Улица 170,unknown,Wildberries
+unknown,wildberries,Самара 11-Й Квартал 20,unknown,Wildberries
+unknown,wildberries,г Самара Улица Дыбенко 120а,unknown,Wildberries
+unknown,wildberries,Самара Улица Пушкина 196,unknown,Wildberries
+unknown,wildberries,Самара 4-Й Квартал 9,unknown,Wildberries
+unknown,wildberries,Самара Улица Гагарина 165,unknown,Wildberries
+unknown,wildberries,Самара Лысвенская Улица 22,unknown,Wildberries
+unknown,wildberries,Самара Ново-Садовая Улица 319,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Смышляевка Шоссейная Улица 2,unknown,Wildberries
+unknown,wildberries,село Шигоны Советская Улица 84б,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Киевская Улица 94а,unknown,Wildberries
+unknown,wildberries,Самарская область село Шигоны Кооперативная улица 15,unknown,Wildberries
+unknown,wildberries,Тольятти Южное Шоссе 35а,unknown,Wildberries
+unknown,wildberries,Самара 9-Я Просека 3-Я Линия 4,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Улица Островского 17,unknown,Wildberries
+unknown,wildberries,Сызрань Улица 1-Я Линия 19,unknown,Wildberries
+unknown,wildberries,Самара Фестивальная Улица 1,unknown,Wildberries
+unknown,wildberries,Жигулёвск Микрорайон Г-1 10,unknown,Wildberries
+unknown,wildberries,Самара Фасадная Улица 18,unknown,Wildberries
+unknown,wildberries,Самара Улица Александра Солженицына 7,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Улица Дзержинского 18,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Фрунзе 35а,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Мира 54,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Ленинградская Улица 13,unknown,Wildberries
+unknown,wildberries,Самара Никольская Улица 1,unknown,Wildberries
+unknown,wildberries,посёлок Варламово Кооперативная Улица 3,unknown,Wildberries
+unknown,wildberries,Самарская область Сызрань улица Комарова 10,unknown,Wildberries
+unknown,wildberries,Тольятти Белорусская Улица 21,unknown,Wildberries
+unknown,wildberries,Самара Ставропольская Улица 74б,unknown,Wildberries
+unknown,wildberries,Самарская область село Тимофеевка улица Строителей 7Б,unknown,Wildberries
+unknown,wildberries,Тольятти Улица 40 Лет Победы 17б,unknown,Wildberries
+unknown,wildberries,Сызрань Интернациональная Улица 178,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Безенчук улица Тимирязева 86,unknown,Wildberries
+unknown,wildberries,Тольятти Гидростроевская Улица 13,unknown,Wildberries
+unknown,wildberries,Сызрань Астраханская Улица 11,unknown,Wildberries
+unknown,wildberries,Сызрань Московская Улица 8,unknown,Wildberries
+unknown,wildberries,Самара Улица Мира 79,unknown,Wildberries
+unknown,wildberries,Самара 5-Я Просека 129,unknown,Wildberries
+unknown,wildberries,село Камышла Улица Победы 107б,unknown,Wildberries
+unknown,wildberries,Самарская область село Кротовка Советская улица 1А,unknown,Wildberries
+unknown,wildberries,Похвистнево Улица Гагарина 33,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Ленинградская улица 45,unknown,Wildberries
+unknown,wildberries,Самарская область Жигулёвск улица Пушкина 19,unknown,Wildberries
+unknown,wildberries,село Верхнее Санчелеево Кооперативная Улица 8г,unknown,Wildberries
+unknown,wildberries,Самарская область Сызрань Комсомольская улица 3,unknown,Wildberries
+unknown,wildberries,село Верхние Белозёрки Улица Жилина 1б,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Свердлова 44,unknown,Wildberries
+unknown,wildberries,село Елховка Советская Улица 14,unknown,Wildberries
+unknown,wildberries,Самара Ново-Вокзальная Улица 161а,unknown,Wildberries
+unknown,wildberries,Тольятти Олимпийская Улица 28а,unknown,Wildberries
+unknown,wildberries,село Алексеевка Советская Улица 40,unknown,Wildberries
+unknown,wildberries,Жигулёвск Приволжская Улица 20,unknown,Wildberries
+unknown,wildberries,Самара Улица Металлистов 30,unknown,Wildberries
+unknown,wildberries,село Курумоч Улица Победы 4а,unknown,Wildberries
+unknown,wildberries,Самара Самарская Улица 148,unknown,Wildberries
+unknown,wildberries,Самара Улица Гастелло 47,unknown,Wildberries
+unknown,wildberries,Самара Проспект Карла Маркса 239,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Улица Гагарина 13,unknown,Wildberries
+unknown,wildberries,Тольятти Белорусская Улица 7,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти проспект Степана Разина 9Ак6,unknown,Wildberries
+unknown,wildberries,Самара Южное Шоссе 7а,unknown,Wildberries
+unknown,wildberries,Самарская область Самара улица Георгия Димитрова 1А,unknown,Wildberries
+unknown,wildberries,Самарская область село Богатое улица Ленина 31,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Баныкина 66,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Цветной бульвар 7,unknown,Wildberries
+unknown,wildberries,Самара 16-Й Квартал 8,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Лизы Чайкиной 69б,unknown,Wildberries
+unknown,wildberries,Самара 7-Й Квартал 2,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Ново-Садовая улица 179,unknown,Wildberries
+unknown,wildberries,Самара Улица Мечникова 5,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Улица Пирогова 18,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Безенчук Советская улица 152,unknown,Wildberries
+unknown,wildberries,Тольятти Цветной Бульвар 35,unknown,Wildberries
+unknown,wildberries,Самара Ново-Садовая Улица 163,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Новосемейкино улица Матюгина 19А,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти улица Горького 34А,unknown,Wildberries
+unknown,wildberries,село Хрящёвка Полевая Улица 36/3,unknown,Wildberries
+unknown,wildberries,село Красный Яр Оренбургская Улица 1,unknown,Wildberries
+unknown,wildberries,Тольятти Проспект Степана Разина 60а,unknown,Wildberries
+unknown,wildberries,село Белозёрки Улица Дзержинского 38,unknown,Wildberries
+unknown,wildberries,Самара Шариковый Переулок 2,unknown,Wildberries
+unknown,wildberries,Самара Проспект Карла Маркса 246,unknown,Wildberries
+unknown,wildberries,Самара Улица Стара Загора 37,unknown,Wildberries
+unknown,wildberries,Самарская область Сызрань улица Шухова 8,unknown,Wildberries
+unknown,wildberries,Самара Больничная Улица 20а,unknown,Wildberries
+unknown,wildberries,село Выселки Улица Победы 57,unknown,Wildberries
+unknown,wildberries,Самара Белорусская Улица 98,unknown,Wildberries
+unknown,wildberries,село Большая Глушица Юбилейная Улица 2,unknown,Wildberries
+unknown,wildberries,Самара Аэродромная Улица 111,unknown,Wildberries
+unknown,wildberries,Чапаевск Улица Калинина 30,unknown,Wildberries
+unknown,wildberries,Отрадный Первомайская Улица 27,unknown,Wildberries
+unknown,wildberries,Самара Улица Калинина 14,unknown,Wildberries
+unknown,wildberries,Сызрань Ульяновское Шоссе 15,unknown,Wildberries
+unknown,wildberries,Тольятти Тополиная Улица 35,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Магистральная улица 127,unknown,Wildberries
+unknown,wildberries,Самара Партизанская Улица 116а,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Лизы Чайкиной 43а,unknown,Wildberries
+unknown,wildberries,Чапаевск Запорожская Улица 28,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Ингельберга 3б,unknown,Wildberries
+unknown,wildberries,село Сергиевск Советская Улица 25,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Московский проспект 6Б,unknown,Wildberries
+unknown,wildberries,Октябрьск Улица Ленина 43а,unknown,Wildberries
+unknown,wildberries,Самара Улица Мичурина 141,unknown,Wildberries
+unknown,wildberries,Самара Революционная Улица 3,unknown,Wildberries
+unknown,wildberries,Самара Улица 22 Партсъезда 17,unknown,Wildberries
+unknown,wildberries,Самара Улица Тухачевского 80,unknown,Wildberries
+unknown,wildberries,посёлок Придорожный Губернаторская Улица 65,unknown,Wildberries
+unknown,wildberries,Самара Улица Аминева 8а,unknown,Wildberries
+unknown,wildberries,село Сергиевск Улица Ленина 93,unknown,Wildberries
+unknown,wildberries,Тольятти Гидротехническая Улица 34,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Суходол Улица Мира 17а,unknown,Wildberries
+unknown,wildberries,Самара Улица Георгия Димитрова 95г,unknown,Wildberries
+unknown,wildberries,село Пестравка Советская Улица 57,unknown,Wildberries
+unknown,wildberries,Самара Отважная Улица 27,unknown,Wildberries
+unknown,wildberries,село Новый Буян Садовая Улица 32а,unknown,Wildberries
+unknown,wildberries,село Савруха Квартал Центральная Усадьба 74,unknown,Wildberries
+unknown,wildberries,село Новодевичье Ленинградская Улица 68г,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти улица Ленина 82,unknown,Wildberries
+unknown,wildberries,посёлок Ильмень Центральная Улица 1б,unknown,Wildberries
+unknown,wildberries,Самара Подшипниковая Улица 15,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Пугачёвский тракт 19,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Зелёная улица 19,unknown,Wildberries
+unknown,wildberries,село Хворостянка Улица Плясункова 15а,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Ленинградская улица 17,unknown,Wildberries
+unknown,wildberries,железнодорожная станция Клявлино Улица 70 Лет Октября 35,unknown,Wildberries
+unknown,wildberries,Самара Улица Александра Матросова 141а,unknown,Wildberries
+unknown,wildberries,село Дубовый Умёт Советская Улица 142,unknown,Wildberries
+unknown,wildberries,посёлок Новоборский Переулок Строителей 8,unknown,Wildberries
+unknown,wildberries,село Большое Микушкино Советская Улица 101,unknown,Wildberries
+unknown,wildberries,Тольятти Бульвар Баумана 10,unknown,Wildberries
+unknown,wildberries,Жигулёвск Морквашинская Улица 5,unknown,Wildberries
+unknown,wildberries,посёлок Новоспасский Улица Ленина 2,unknown,Wildberries
+unknown,wildberries,Самара Улица Стара Загора 142,unknown,Wildberries
+unknown,wildberries,Тольятти Бульвар Ленина 21,unknown,Wildberries
+unknown,wildberries,Жигулёвск Улица Ленина 32а,unknown,Wildberries
+unknown,wildberries,село Малая Царевщина Шоссейная Улица 45а,unknown,Wildberries
+unknown,wildberries,Сызрань Улица Котовского 4а,unknown,Wildberries
+unknown,wildberries,Самара Казачья Улица 1а,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Куйбышева 32,unknown,Wildberries
+unknown,wildberries,село Домашка Большая Улица 8а,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Механизаторов 20а,unknown,Wildberries
+unknown,wildberries,Тольятти Итальянский Бульвар 22,unknown,Wildberries
+unknown,wildberries,посёлок Красносельск Школьная Улица 9,unknown,Wildberries
+unknown,wildberries,посёлок Садгород Школьная Улица 33,unknown,Wildberries
+unknown,wildberries,Тольятти Революционная Улица 18б,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Победы 60,unknown,Wildberries
+unknown,wildberries,посёлок Кинельский Полевая Улица 24,unknown,Wildberries
+unknown,wildberries,Самара Заводское Шоссе 57в,unknown,Wildberries
+unknown,wildberries,посёлок Комсомольский Улица 50 Лет Октября 16,unknown,Wildberries
+unknown,wildberries,село Старая Рачейка Улица Кирова 31а,unknown,Wildberries
+unknown,wildberries,Самара Улица Советской Армии 208,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Автостроителей 34,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Усть-Кинельский Шоссейная улица 1Б,unknown,Wildberries
+unknown,wildberries,Тольятти Бульвар Королёва 15а,unknown,Wildberries
+unknown,wildberries,село Приволжье Аэродромная Улица 13,unknown,Wildberries
+unknown,wildberries,Сызрань Улица Гоголя 20,unknown,Wildberries
+unknown,wildberries,Самарская область Жигулёвск Вокзальная улица 6А,unknown,Wildberries
+unknown,wildberries,село Нижнее Санчелеево Северная Улица 1,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Усть-Кинельский Спортивная улица 12Дс1,unknown,Wildberries
+unknown,wildberries,Самарская область Кинель улица Маяковского 80А,unknown,Wildberries
+unknown,wildberries,Самарская область Отрадный улица Гагарина 44,unknown,Wildberries
+unknown,wildberries,село Чубовка Улица Нефтяников 14,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Стройкерамика улица Николая Симонова 15,unknown,Wildberries
+unknown,wildberries,Самара 7-Я Просека 112,unknown,Wildberries
+unknown,wildberries,Нефтегорск Улица Нефтяников 54а,unknown,Wildberries
+unknown,wildberries,Самара Рабочая Улица 85,unknown,Wildberries
+unknown,wildberries,Жигулёвск Транспортная Улица 4,unknown,Wildberries
+unknown,wildberries,Самара Подшипниковая Улица 2,unknown,Wildberries
+unknown,wildberries,Тольятти Московский Проспект 61,unknown,Wildberries
+unknown,wildberries,Самара Аэродромная Улица 2,unknown,Wildberries
+unknown,wildberries,Самара Средне-Садовая Улица 67,unknown,Wildberries
+unknown,wildberries,Самара Улица Петра Алабина 2,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Карла Маркса 66,unknown,Wildberries
+unknown,wildberries,Самара Краснодонская Улица 95,unknown,Wildberries
+unknown,wildberries,Сызрань Улица Лазо 34,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Офицерская улица 25,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти улица 40 лет Победы 5,unknown,Wildberries
+unknown,wildberries,Самара Физкультурная Улица 29,unknown,Wildberries
+unknown,wildberries,Самарская область Сызрань Кинельская улица 9,unknown,Wildberries
+unknown,wildberries,Самара Проспект Кирова 224,unknown,Wildberries
+unknown,wildberries,Сызрань Звёздная Улица 54,unknown,Wildberries
+unknown,wildberries,посёлок Рассвет Центральная Улица 19а,unknown,Wildberries
+unknown,wildberries,Самара Аэропортовское Шоссе 76,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Казачья улица 34,unknown,Wildberries
+unknown,wildberries,Самарская область Самара улица Мориса Тореза 99,unknown,Wildberries
+unknown,wildberries,посёлок Чёрновский Коммунистическая Улица 10а,unknown,Wildberries
+unknown,wildberries,Самара Улица Георгия Димитрова 110а,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти улица Карбышева 9,unknown,Wildberries
+unknown,wildberries,Самара Октябрьская Улица 125а,unknown,Wildberries
+unknown,wildberries,Тольятти Ленинский Проспект 1г,unknown,Wildberries
+unknown,wildberries,Самара Улица Гагарина 100,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Волжский Улица Максима Горького 1а,unknown,Wildberries
+unknown,wildberries,Тольятти Улица 40 Лет Победы 52,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Усть-Кинельский Шоссейная Улица 8е,unknown,Wildberries
+unknown,wildberries,Самара 1-Й Квартал 59,unknown,Wildberries
+unknown,wildberries,Самара Улица Свободы 194,unknown,Wildberries
+unknown,wildberries,село Ягодное Чудесная Улица 1б,unknown,Wildberries
+unknown,wildberries,Сызрань Проспект Королёва 15,unknown,Wildberries
+unknown,wildberries,железнодорожная станция Погрузная Школьная Улица 1б,unknown,Wildberries
+unknown,wildberries,Самара Ново-Садовая Улица 359,unknown,Wildberries
+unknown,wildberries,село Кинель-Черкассы Проспект 50 Лет Октября 10д,unknown,Wildberries
+unknown,wildberries,Самара Московское Шоссе 199,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти улица Мира 100,unknown,Wildberries
+unknown,wildberries,Самара Юбилейная Улица 5,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти бульвар Кулибина 10,unknown,Wildberries
+unknown,wildberries,Тольятти Бульвар 50 Лет Октября 1,unknown,Wildberries
+unknown,wildberries,Самара Улица Гастелло 47с,unknown,Wildberries
+unknown,wildberries,Сызрань Проспект 50 Лет Октября 4а,unknown,Wildberries
+unknown,wildberries,Самара Ново-Вокзальная Улица 215,unknown,Wildberries
+unknown,wildberries,Самара Улица Ногина 13,unknown,Wildberries
+unknown,wildberries,Чапаевск Улица Щорса 103,unknown,Wildberries
+unknown,wildberries,село Васильевка Коллективная Улица 47а,unknown,Wildberries
+unknown,wildberries,Самара Аэродромная Улица 72,unknown,Wildberries
+unknown,wildberries,Октябрьск Улица Куйбышева 17,unknown,Wildberries
+unknown,wildberries,Самара Улица Мира 21,unknown,Wildberries
+unknown,wildberries,село Старый Аманак Центральная Улица 42б,unknown,Wildberries
+unknown,wildberries,Самарская область село Екатериновка улица Фрунзе 85,unknown,Wildberries
+unknown,wildberries,Самара Нагорная Улица 143,unknown,Wildberries
+unknown,wildberries,посёлок Просвет Самарская Улица 1а,unknown,Wildberries
+unknown,wildberries,Самара Улица Промышленности 263а,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Фрунзе 18,unknown,Wildberries
+unknown,wildberries,Самара Аэродромная Улица 56а,unknown,Wildberries
+unknown,wildberries,Самарская область посёлок городского типа Осинки улица Маяковского 11стр3,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Мира 152,unknown,Wildberries
+unknown,wildberries,Тольятти Ярославская Улица 37,unknown,Wildberries
+unknown,wildberries,Самара Проспект Кирова 175,unknown,Wildberries
+unknown,wildberries,Самарская область Самара Калининградская улица 52,unknown,Wildberries
+unknown,wildberries,Самара Улица Степана Разина 24,unknown,Wildberries
+unknown,wildberries,Тольятти Ленинградская Улица 68,unknown,Wildberries
+unknown,wildberries,посёлок Придорожный Клиническая Улица 7,unknown,Wildberries
+unknown,wildberries,Самара Улица Неверова 172,unknown,Wildberries
+unknown,wildberries,Самара Улица Братьев Коростелёвых 140,unknown,Wildberries
+unknown,wildberries,Самарская область Жигулёвск улица Никитина 12,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти Майский проезд 7В,unknown,Wildberries
+unknown,wildberries,Самарская область Тольятти улица Макарова 8,unknown,Wildberries
+unknown,wildberries,Самара Улица Сергея Лазо 32,unknown,Wildberries
+unknown,wildberries,село Малая Малышевка Советская Улица 142,unknown,Wildberries
+unknown,wildberries,Жигулёвск Улица Фрунзе 37,unknown,Wildberries
+unknown,wildberries,Самара Партизанская Улица 192а,unknown,Wildberries
+unknown,wildberries,Самара Проспект Карла Маркса 171,unknown,Wildberries
+unknown,wildberries,посёлок Придорожный Улица Татищева 2,unknown,Wildberries
+unknown,wildberries,Новокуйбышевск Озёрный Проезд 2ж,unknown,Wildberries
+unknown,wildberries,Самара Чапаевская Улица 126,unknown,Wildberries
+unknown,wildberries,СНТ Приморское Улица Мичурина 1,unknown,Wildberries
+unknown,wildberries,Самара Молодогвардейская Улица 180,unknown,Wildberries
+unknown,wildberries,село Кулешовка Улица Ленина 8,unknown,Wildberries
+unknown,wildberries,Тольятти Улица 70 Лет Октября 51,unknown,Wildberries
+unknown,wildberries,Сызрань Улица Декабристов 362,unknown,Wildberries
+unknown,wildberries,Жигулёвск Микрорайон В-1 20,unknown,Wildberries
+unknown,wildberries,село Воскресенка Рабочая Улица 5,unknown,Wildberries
+unknown,wildberries,село Подстёпки Воздвиженская Улица 26,unknown,Wildberries
+unknown,wildberries,Самара Проспект Металлургов 90,unknown,Wildberries
+unknown,wildberries,Самара Проспект Кирова 71,unknown,Wildberries
+unknown,wildberries,Самара Полевая Улица 1,unknown,Wildberries
+unknown,wildberries,посёлок Придорожный Улица Агнии Барто 8,unknown,Wildberries
+unknown,wildberries,Тольятти Приморский Бульвар 15,unknown,Wildberries
+unknown,wildberries,Тольятти Улица Ворошилова 55а,unknown,Wildberries
+unknown,wildberries,Самара Парковый Переулок 5,unknown,Wildberries

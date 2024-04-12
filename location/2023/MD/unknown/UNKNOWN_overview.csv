@@ -1,0 +1,918 @@
+City,Place Name,Zipcode,Name
+unknown,accor,12 Dimitrie Cantemir Blvd 2001 CHISINAU,unknown,BERDS Chisinau Mgallery Hotel Collection
+unknown,accor,72 Vlaicu Pircalab str MD 2012 CHISINAU,unknown,Mercure Chisinau Center Jazz Hotel
+Kishinev,bmw_group,,unknown,Autospace S.R.L.
+unknown,deloitte,,unknown,Chisinau
+Chisinau,ecco,,unknown,ECCO Pushkin Chisinau
+Balti,enterprise,,unknown,Bălți Train Station
+Chisinau,enterprise,,unknown,Chișinău International Airport
+CHISINAU,geox,,unknown,Geox CHISINAU
+Chisinau,kaufland,,unknown,Chisinau Codru
+Balti,kaufland,,unknown,Balti
+Comrat,kaufland,,unknown,Comrat
+Orhei,kaufland,,unknown,Orhei
+Ungheni,kaufland,,unknown,Ungheni
+Chisinau,leonidas,,unknown,Prochocolate S.R.L.
+Chisinau,man_truck_and_bus,,unknown,AUTOFORTA S.R.L.
+"St. Petersburg, Russia",man_truck_and_bus,,unknown,MT-Group Limited Liability Company 
+LEOVA,moneygram,,unknown,MOLDOVA-AGROINDBANK - #764 - LEOVA
+DROCHIA,moneygram,,unknown,MOLDOVA-AGROINDBANK - #702 - DROCHIA
+CHISINAU,moneygram,,unknown,MOLDINDCONBANK - Agency No. 10
+BENDER,moneygram,,unknown,EXIMBANK - #70 - BENDER
+GLODENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #753 - GLODENI
+CAMENCA,moneygram,,unknown,EXIMBANK - #22
+BALTI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #750 - BALTI
+CALARASI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #768 - CALARASI
+TIRASPOL,moneygram,,unknown,AGROPROMBANK
+KITSKANY,moneygram,,unknown,AGROPROMBANK
+BENDERY,moneygram,,unknown,AGROPROMBANK
+DUBOSSARY,moneygram,,unknown,"""AGROPROMBANK - OTDELENIE V MAGAZINE """"KVI"""
+KAMENKA,moneygram,,unknown,AGROPROMBANK - KAMENKA
+ANENII NOI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #796 - ANENII NOI
+RYBNITSA,moneygram,,unknown,AGROPROMBANK
+SOLDANESTI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #707 - SOLDANESTI
+SOROCA,moneygram,,unknown,POSTA MOLDOVEI
+CEADIR LUNGA,moneygram,,unknown,MOLDOVA-AGROINDBANK - #781 - CEADIR LUNG
+CIMISLIA,moneygram,,unknown,MOLDINDCONBANK - #65 - CIMISLIA
+FLORESTI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #780 - FLORESTI
+KITSKANA,moneygram,,unknown,EXIMBANK - #90 - KITSKANA
+OCNITA,moneygram,,unknown,MOLDOVA-AGROINDBANK - #792 - OCNITA
+COMRAT,moneygram,,unknown,MOLDOVA-AGROINDBANK - #761 - COMRAT
+COSNITA,moneygram,,unknown,POSTA MOLDOVEI
+EDINET,moneygram,,unknown,MOLDOVA-AGROINDBANK - #791 - EDINET
+DONDUSENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #754 - DONDUSENI
+NISPORENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #765 - NISPORENI
+CRICOVA,moneygram,,unknown,POSTA MOLDOVEI
+CAHUL,moneygram,,unknown,MOLDOVA-AGROINDBANK - #756 - CAHUL
+DURLESHTI,moneygram,,unknown,MOLDINDCONBANK - #87 - DURLESHTI - AGENC
+HINCESTI,moneygram,,unknown,POSTA MOLDOVEI
+ORHEI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #766 - ORHEI
+UNGHENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #788 - UNGHENI
+CAUSENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #769 - CAUSENI
+BRICENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #763 - BRICENI
+REZINA,moneygram,,unknown,POSTA MOLDOVEI
+FALESTI,moneygram,,unknown,POSTA MOLDOVEI
+CEADIR-LUNGA,moneygram,,unknown,BC ENERGBANK SA - #5 - COMRAT
+SINGEREI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #773 - SINGEREI
+IALOVENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #797 - IALOVENI
+CORNESHTI,moneygram,,unknown,MOLDINDCONBANK - #90 - CORNESHTI - AGENC
+SCULENI,moneygram,,unknown,POSTA MOLDOVEI
+COCIERI,moneygram,,unknown,POSTA MOLDOVEI
+SANGEREI,moneygram,,unknown,MOLDINDCONBANK - #94 - SANGEREI - AGENCY
+AVDARMA,moneygram,,unknown,POSTA MOLDOVEI
+BASARABEASCA,moneygram,,unknown,MOLDOVA-AGROINDBANK - #786 - BASARABEASC
+CANTEMIR,moneygram,,unknown,MOLDOVA-AGROINDBANK - #712 - CANTEMIR
+CONGAZ,moneygram,,unknown,POSTA MOLDOVEI
+RISCANI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #779 - RISCANI
+STEFAN-VODA,moneygram,,unknown,MOLDINDCONBANK - #107 - STEFAN-VODA - AG
+STRASENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #772 - STRASENI
+TARACLIA,moneygram,,unknown,MOLDOVA-AGROINDBANK - #774 - TARACLIA
+TELENESTI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #775 - TELENESTI
+VULCANESTI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #795 - VULCANESTI
+KAHUL,moneygram,,unknown,BC EUROCREDITBANK S A - #1
+CHSINAU,moneygram,,unknown,MOLDINDCONBANK - #102 - CHSINAU - AGENCY
+CHISINAU TOWN,moneygram,,unknown,MOLDINDCONBANK - #245 - CHISINAU TOWN
+CAINARI,moneygram,,unknown,POSTA MOLDOVEI
+GHINDESTI,moneygram,,unknown,MOLDINDCONBANK - #178 - GHINDESTI - AGEN
+OTACI,moneygram,,unknown,MOLDINDCONBANK - AGENCY NO. 30
+VADUL LUI VODA,moneygram,,unknown,POSTA MOLDOVEI
+SLOBODZEYA,moneygram,,unknown,AGROPROMBANK
+KARAGASH,moneygram,,unknown,AGROPROMBANK - KARAGASH
+SUKLEYA,moneygram,,unknown,AGROPROMBANK - SUKLEYA
+BACIOI,moneygram,,unknown,POSTA MOLDOVEI
+R-L STEFAN VODA,moneygram,,unknown,VALEA FINULUI
+BUDESTI,moneygram,,unknown,POSTA MOLDOVEI
+DUBASARI,moneygram,,unknown,AGROPROMBANK
+CRIULENI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #760 - CRIULENI
+SHTEFAN VODA,moneygram,,unknown,MOLDINDCONBANK
+MERENI VILLAGE,moneygram,,unknown,MOLDINDCONBANK
+STEFANESTI,moneygram,,unknown,AEI STEFANESTI
+DUBASARII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+VATRA,moneygram,,unknown,MOLDINDCONBANK - Branch No. 16
+COJUSNA,moneygram,,unknown,POSTA MOLDOVEI
+DURLESTI,moneygram,,unknown,MOLDINDCONBANK - AGENCY NO. 38
+STEFAN VODA,moneygram,,unknown,MOLDOVA-AGROINDBANK - #762 - STEFAN VODA
+CHISINAU SCMSP,moneygram,,unknown,POSTA MOLDOVEI
+RIBNITA,moneygram,,unknown,EXIMBANK - #23
+SLOBOZIA,moneygram,,unknown,PRIDNESTROVSKY SBEREGATELNY BANK
+DNESTROVSC,moneygram,,unknown,AGROPROMBANK
+GRIGORIPOL,moneygram,,unknown,PRIDNESTROVSKY SBEREGATELNY BANK
+GRIGORIOPOL,moneygram,,unknown,AGROPROMBANK
+PERVOMAISC,moneygram,,unknown,AGROPROMBANK
+PARCANI,moneygram,,unknown,AGROPROMBANK
+STAUCENI,moneygram,,unknown,POSTA MOLDOVEI
+CHISINAU GARA,moneygram,,unknown,POSTA MOLDOVEI
+PERVOMAYSK,moneygram,,unknown,EXIMBANK
+CRASNOE,moneygram,,unknown,EXIMBANK
+BRATUSENI,moneygram,,unknown,POSTA MOLDOVEI
+CHIURT,moneygram,,unknown,POSTA MOLDOVEI
+FETESTI,moneygram,,unknown,POSTA MOLDOVEI
+HLINAIA,moneygram,,unknown,POSTA MOLDOVEI
+LOPATNIC,moneygram,,unknown,POSTA MOLDOVEI
+RUSENI,moneygram,,unknown,POSTA MOLDOVEI
+TEREBNA,moneygram,,unknown,POSTA MOLDOVEI
+HIROVA,moneygram,,unknown,POSTA MOLDOVEI
+HOGINESTI,moneygram,,unknown,POSTA MOLDOVEI
+BULBOACA,moneygram,,unknown,POSTA MOLDOVEI
+MINDRA,moneygram,,unknown,POSTA MOLDOVEI
+CORJEUTI,moneygram,,unknown,POSTA MOLDOVEI
+COTIUJENI,moneygram,,unknown,POSTA MOLDOVEI
+PITUSCA,moneygram,,unknown,POSTA MOLDOVEI
+IORDANOVCA,moneygram,,unknown,POSTA MOLDOVEI
+RACIULA,moneygram,,unknown,POSTA MOLDOVEI
+RADENI CALARASI,moneygram,,unknown,POSTA MOLDOVEI
+TEMELEUTI CALARASI,moneygram,,unknown,POSTA MOLDOVEI
+VALCINET,moneygram,,unknown,POSTA MOLDOVEI
+ACUI,moneygram,,unknown,POSTA MOLDOVEI
+BAIMACLIA,moneygram,,unknown,POSTA MOLDOVEI
+ISERLIA,moneygram,,unknown,POSTA MOLDOVEI
+SADACLIA,moneygram,,unknown,POSTA MOLDOVEI
+BALASINESTI,moneygram,,unknown,POSTA MOLDOVEI
+BOBEICA,moneygram,,unknown,POSTA MOLDOVEI
+LINGURA,moneygram,,unknown,POSTA MOLDOVEI
+TATARASENI,moneygram,,unknown,POSTA MOLDOVEI
+VISNIOVCA,moneygram,,unknown,POSTA MOLDOVEI
+SADIC,moneygram,,unknown,POSTA MOLDOVEI
+CHIRCAESTI,moneygram,,unknown,POSTA MOLDOVEI
+FIRLADENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+OPACI,moneygram,,unknown,POSTA MOLDOVEI
+SALCUTA,moneygram,,unknown,POSTA MOLDOVEI
+TANATARI,moneygram,,unknown,POSTA MOLDOVEI
+TOCUZ,moneygram,,unknown,POSTA MOLDOVEI
+ZVIOZDOCICA,moneygram,,unknown,POSTA MOLDOVEI
+ZAIM,moneygram,,unknown,POSTA MOLDOVEI
+SALCUTA NOUA,moneygram,,unknown,POSTA MOLDOVEI
+COSCALIA,moneygram,,unknown,POSTA MOLDOVEI
+MIHAILENI,moneygram,,unknown,POSTA MOLDOVEI
+PERERITA,moneygram,,unknown,POSTA MOLDOVEI
+BOTNARESTI,moneygram,,unknown,POSTA MOLDOVEI
+SURCHICENI,moneygram,,unknown,POSTA MOLDOVEI
+TARACLIA CAUSENI,moneygram,,unknown,POSTA MOLDOVEI
+BESGHIOZ,moneygram,,unknown,POSTA MOLDOVEI
+CAZACLIA,moneygram,,unknown,POSTA MOLDOVEI
+GAIDAR,moneygram,,unknown,POSTA MOLDOVEI
+CHIRCA,moneygram,,unknown,POSTA MOLDOVEI
+TOMAI,moneygram,,unknown,POSTA MOLDOVEI
+CHIRIET LUNGA,moneygram,,unknown,POSTA MOLDOVEI
+COPCEAC,moneygram,,unknown,POSTA MOLDOVEI
+COBUSCA VECHE,moneygram,,unknown,POSTA MOLDOVEI
+MANTA,moneygram,,unknown,POSTA MOLDOVEI
+TIGANCA,moneygram,,unknown,POSTA MOLDOVEI
+BASCALIA,moneygram,,unknown,POSTA MOLDOVEI
+VALEA PERJEI CIMISLIA,moneygram,,unknown,POSTA MOLDOVEI
+BESALMA,moneygram,,unknown,POSTA MOLDOVEI
+BUGEAC,moneygram,,unknown,POSTA MOLDOVEI
+CHIRSOVA,moneygram,,unknown,POSTA MOLDOVEI
+CISMICHIOI,moneygram,,unknown,POSTA MOLDOVEI
+TREBISAUTI,moneygram,,unknown,POSTA MOLDOVEI
+PIRITA,moneygram,,unknown,POSTA MOLDOVEI
+BALABANESTI,moneygram,,unknown,POSTA MOLDOVEI
+CORJOVA,moneygram,,unknown,POSTA MOLDOVEI
+ISNOVAT,moneygram,,unknown,POSTA MOLDOVEI
+MASCAUTI,moneygram,,unknown,POSTA MOLDOVEI
+ONITCANI,moneygram,,unknown,POSTA MOLDOVEI
+PASCANI CRIULENI,moneygram,,unknown,POSTA MOLDOVEI
+RACULESTI,moneygram,,unknown,POSTA MOLDOVEI
+SLOBOZIA DUSCA,moneygram,,unknown,POSTA MOLDOVEI
+BARABOI,moneygram,,unknown,POSTA MOLDOVEI
+BRICENI DONDUSENI,moneygram,,unknown,POSTA MOLDOVEI
+CERNOLEUCA,moneygram,,unknown,POSTA MOLDOVEI
+CODRENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+TAUL,moneygram,,unknown,POSTA MOLDOVEI
+MINDIC,moneygram,,unknown,POSTA MOLDOVEI
+CHETROSU,moneygram,,unknown,POSTA MOLDOVEI
+NICORENI,moneygram,,unknown,POSTA MOLDOVEI
+ILICIOVCA,moneygram,,unknown,POSTA MOLDOVEI
+TARIGRAD,moneygram,,unknown,POSTA MOLDOVEI
+SOFIA,moneygram,,unknown,POSTA MOLDOVEI
+SLOBOZIA MARE,moneygram,,unknown,POSTA MOLDOVEI
+VADUL LUI ISAC,moneygram,,unknown,POSTA MOLDOVEI
+BORCEAG,moneygram,,unknown,POSTA MOLDOVEI
+BRAVICEA,moneygram,,unknown,POSTA MOLDOVEI
+SADOVA,moneygram,,unknown,POSTA MOLDOVEI
+SASENI,moneygram,,unknown,POSTA MOLDOVEI
+SIPOTENI,moneygram,,unknown,POSTA MOLDOVEI
+CABAIESTI,moneygram,,unknown,POSTA MOLDOVEI
+GURA GALBENEI,moneygram,,unknown,POSTA MOLDOVEI
+PUHOI,moneygram,,unknown,POSTA MOLDOVEI
+RUSESTII NOI,moneygram,,unknown,POSTA MOLDOVEI
+RUSESTII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+SURUCENI,moneygram,,unknown,POSTA MOLDOVEI
+VASIENI IALOVENI,moneygram,,unknown,POSTA MOLDOVEI
+CARBUNA,moneygram,,unknown,POSTA MOLDOVEI
+GANGURA,moneygram,,unknown,POSTA MOLDOVEI
+MISOVCA,moneygram,,unknown,POSTA MOLDOVEI
+RAZENI,moneygram,,unknown,POSTA MOLDOVEI
+CORLATENI,moneygram,,unknown,POSTA MOLDOVEI
+GHIDULENI,moneygram,,unknown,POSTA MOLDOVEI
+IGNATEI,moneygram,,unknown,POSTA MOLDOVEI
+FUNDURII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+HIJDIENI GLODENI,moneygram,,unknown,POSTA MOLDOVEI
+STURZOVCA,moneygram,,unknown,POSTA MOLDOVEI
+TROITA,moneygram,,unknown,POSTA MOLDOVEI
+MESENI,moneygram,,unknown,POSTA MOLDOVEI
+HILIUTI,moneygram,,unknown,POSTA MOLDOVEI
+PERESECINA,moneygram,,unknown,POSTA MOLDOVEI
+HORODISTE,moneygram,,unknown,POSTA MOLDOVEI
+OTAC,moneygram,,unknown,POSTA MOLDOVEI
+PAPAUTI,moneygram,,unknown,POSTA MOLDOVEI
+PECISTE,moneygram,,unknown,POSTA MOLDOVEI
+POHREBENI,moneygram,,unknown,POSTA MOLDOVEI
+SERPENI,moneygram,,unknown,POSTA MOLDOVEI
+MARINESTI,moneygram,,unknown,POSTA MOLDOVEI
+PEPENI,moneygram,,unknown,POSTA MOLDOVEI
+PEPENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+DOBROGEA VECHE,moneygram,,unknown,POSTA MOLDOVEI
+DRAGANESTI,moneygram,,unknown,POSTA MOLDOVEI
+BOCANCEA SCHIT,moneygram,,unknown,POSTA MOLDOVEI
+CEPELEUTI,moneygram,,unknown,POSTA MOLDOVEI
+ALBINETUL NOU,moneygram,,unknown,POSTA MOLDOVEI
+ABACLIA,moneygram,,unknown,POSTA MOLDOVEI
+HORESTI,moneygram,,unknown,POSTA MOLDOVEI
+VOZNESENI,moneygram,,unknown,POSTA MOLDOVEI
+ELIZAVETA,moneygram,,unknown,POSTA MOLDOVEI
+CODRU,moneygram,,unknown,POSTA MOLDOVEI
+BUBUIECI,moneygram,,unknown,POSTA MOLDOVEI
+COLONITA,moneygram,,unknown,POSTA MOLDOVEI
+DOBROGEA,moneygram,,unknown,POSTA MOLDOVEI
+GHIDIGHICI,moneygram,,unknown,POSTA MOLDOVEI
+CIORESCU,moneygram,,unknown,POSTA MOLDOVEI
+REVACA,moneygram,,unknown,POSTA MOLDOVEI
+AGRONOMOVA,moneygram,,unknown,POSTA MOLDOVEI
+GHERMAN,moneygram,,unknown,POSTA MOLDOVEI
+CAINARI GARA,moneygram,,unknown,POSTA MOLDOVEI
+SINGERA,moneygram,,unknown,POSTA MOLDOVEI
+GRATIESTI,moneygram,,unknown,POSTA MOLDOVEI
+STRAISTENI,moneygram,,unknown,POSTA MOLDOVEI
+BALANESTI,moneygram,,unknown,POSTA MOLDOVEI
+BALAURESTI,moneygram,,unknown,POSTA MOLDOVEI
+BOLDURESTI,moneygram,,unknown,POSTA MOLDOVEI
+PIRLITA UNGHENI,moneygram,,unknown,POSTA MOLDOVEI
+RADENII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+SAUCA,moneygram,,unknown,POSTA MOLDOVEI
+VEREJENI,moneygram,,unknown,POSTA MOLDOVEI
+CIOCILTENI,moneygram,,unknown,POSTA MOLDOVEI
+BRATULENI,moneygram,,unknown,POSTA MOLDOVEI
+CIORESTI,moneygram,,unknown,POSTA MOLDOVEI
+VULCANESTI NISPORENI,moneygram,,unknown,POSTA MOLDOVEI
+CIUTESTI,moneygram,,unknown,POSTA MOLDOVEI
+CRISTESTI,moneygram,,unknown,POSTA MOLDOVEI
+GROZESTI,moneygram,,unknown,POSTA MOLDOVEI
+MILESTI,moneygram,,unknown,POSTA MOLDOVEI
+SELISTE,moneygram,,unknown,POSTA MOLDOVEI
+SOLTANESTI,moneygram,,unknown,POSTA MOLDOVEI
+SISCANI,moneygram,,unknown,POSTA MOLDOVEI
+MANA,moneygram,,unknown,POSTA MOLDOVEI
+CAMENCEA,moneygram,,unknown,POSTA MOLDOVEI
+VASILEUTI,moneygram,,unknown,POSTA MOLDOVEI
+ZAICANI,moneygram,,unknown,POSTA MOLDOVEI
+ALEXANDRENI,moneygram,,unknown,POSTA MOLDOVEI
+BALASESTI SINGEREI,moneygram,,unknown,POSTA MOLDOVEI
+BILICENII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+CHISCARENI,moneygram,,unknown,POSTA MOLDOVEI
+SELISTENI,moneygram,,unknown,POSTA MOLDOVEI
+VARZARESTI,moneygram,,unknown,POSTA MOLDOVEI
+ZBEROAIA,moneygram,,unknown,POSTA MOLDOVEI
+PALADEA,moneygram,,unknown,POSTA MOLDOVEI
+IZBISTE,moneygram,,unknown,POSTA MOLDOVEI
+HIRTOP CIMISLIA,moneygram,,unknown,POSTA MOLDOVEI
+IALPUJENI,moneygram,,unknown,POSTA MOLDOVEI
+GHETLOVA,moneygram,,unknown,POSTA MOLDOVEI
+GRINAUTI MOLDOVA,moneygram,,unknown,POSTA MOLDOVEI
+ZAHORENI,moneygram,,unknown,POSTA MOLDOVEI
+PINZARENI,moneygram,,unknown,POSTA MOLDOVEI
+PIRLITA FALESTI,moneygram,,unknown,POSTA MOLDOVEI
+POMPA,moneygram,,unknown,POSTA MOLDOVEI
+RAUTEL,moneygram,,unknown,POSTA MOLDOVEI
+LUNGA,moneygram,,unknown,POSTA MOLDOVEI
+CERNITA,moneygram,,unknown,POSTA MOLDOVEI
+PREPELITA,moneygram,,unknown,POSTA MOLDOVEI
+RADOAIA,moneygram,,unknown,POSTA MOLDOVEI
+ANTONESTI,moneygram,,unknown,POSTA MOLDOVEI
+SINGEREII NOI,moneygram,,unknown,POSTA MOLDOVEI
+CIOBURCIU,moneygram,,unknown,POSTA MOLDOVEI
+TIPLESTI,moneygram,,unknown,POSTA MOLDOVEI
+FLORENI ANENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+GEAMANA,moneygram,,unknown,POSTA MOLDOVEI
+MERENI,moneygram,,unknown,POSTA MOLDOVEI
+MERENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+PUHACENI,moneygram,,unknown,POSTA MOLDOVEI
+ROSCANI ANENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+SPEIA,moneygram,,unknown,POSTA MOLDOVEI
+VARNITA,moneygram,,unknown,POSTA MOLDOVEI
+TODORESTI,moneygram,,unknown,POSTA MOLDOVEI
+COBILEA,moneygram,,unknown,POSTA MOLDOVEI
+COTIUJENII MARI,moneygram,,unknown,POSTA MOLDOVEI
+MARIANCA DE JOS,moneygram,,unknown,POSTA MOLDOVEI
+OLANESTI,moneygram,,unknown,POSTA MOLDOVEI
+PARCANI SOLDANESTI,moneygram,,unknown,POSTA MOLDOVEI
+GHINDESTI ORAS,moneygram,,unknown,POSTA MOLDOVEI
+GHINDESTI SAT,moneygram,,unknown,POSTA MOLDOVEI
+GURA CAMENCII,moneygram,,unknown,POSTA MOLDOVEI
+POPEASCA,moneygram,,unknown,POSTA MOLDOVEI
+POHOARNA,moneygram,,unknown,POSTA MOLDOVEI
+PURCARI,moneygram,,unknown,POSTA MOLDOVEI
+RASCAIETI,moneygram,,unknown,POSTA MOLDOVEI
+SLOBOZIA STEFAN-VODA,moneygram,,unknown,POSTA MOLDOVEI
+TALMAZA,moneygram,,unknown,POSTA MOLDOVEI
+VADUL RASCOV,moneygram,,unknown,POSTA MOLDOVEI
+VOLINTIRI,moneygram,,unknown,POSTA MOLDOVEI
+PUTINESTI,moneygram,,unknown,POSTA MOLDOVEI
+ALEXANDROVCA FLORESTI,moneygram,,unknown,POSTA MOLDOVEI
+CUHURESTII DE SUS,moneygram,,unknown,POSTA MOLDOVEI
+VALEA PERJEI TARACLIA,moneygram,,unknown,POSTA MOLDOVEI
+CAPRIANA,moneygram,,unknown,POSTA MOLDOVEI
+CHIRIANCA,moneygram,,unknown,POSTA MOLDOVEI
+BANESTI,moneygram,,unknown,POSTA MOLDOVEI
+LOZOVA,moneygram,,unknown,POSTA MOLDOVEI
+BURLACENI,moneygram,,unknown,POSTA MOLDOVEI
+SOROCA GLODENI,moneygram,,unknown,POSTA MOLDOVEI
+DAHNOVICI,moneygram,,unknown,POSTA MOLDOVEI
+BOGHICENI,moneygram,,unknown,POSTA MOLDOVEI
+RECEA STRASENI,moneygram,,unknown,POSTA MOLDOVEI
+ROSCANI,moneygram,,unknown,POSTA MOLDOVEI
+SIRETI,moneygram,,unknown,POSTA MOLDOVEI
+TATARESTI STRASENI,moneygram,,unknown,POSTA MOLDOVEI
+CHITCANII NOI,moneygram,,unknown,POSTA MOLDOVEI
+LEUSENI TELENESTI,moneygram,,unknown,POSTA MOLDOVEI
+NEGURENI,moneygram,,unknown,POSTA MOLDOVEI
+BUTENI,moneygram,,unknown,POSTA MOLDOVEI
+CARPINENI,moneygram,,unknown,POSTA MOLDOVEI
+CIOARA,moneygram,,unknown,POSTA MOLDOVEI
+MOLESTI GLODENI,moneygram,,unknown,POSTA MOLDOVEI
+CRASNOARMEISCOE,moneygram,,unknown,POSTA MOLDOVEI
+CARABETOVCA,moneygram,,unknown,POSTA MOLDOVEI
+CUHNESTI,moneygram,,unknown,POSTA MOLDOVEI
+HORJESTI,moneygram,,unknown,POSTA MOLDOVEI
+LAPUSNA,moneygram,,unknown,POSTA MOLDOVEI
+MERESENI,moneygram,,unknown,POSTA MOLDOVEI
+MINGIR,moneygram,,unknown,POSTA MOLDOVEI
+SARATENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+BALABANU,moneygram,,unknown,POSTA MOLDOVEI
+CAIRACLIA,moneygram,,unknown,POSTA MOLDOVEI
+CORTEN,moneygram,,unknown,POSTA MOLDOVEI
+STOLNICENI UNGHENI,moneygram,,unknown,POSTA MOLDOVEI
+ONESTI HINCESTI,moneygram,,unknown,POSTA MOLDOVEI
+CAPRINEANCA,moneygram,,unknown,POSTA MOLDOVEI
+BARDAR,moneygram,,unknown,POSTA MOLDOVEI
+COSTESTI,moneygram,,unknown,POSTA MOLDOVEI
+HANSCA,moneygram,,unknown,POSTA MOLDOVEI
+MILESTII MICI,moneygram,,unknown,POSTA MOLDOVEI
+MOLESTI IALOVENI,moneygram,,unknown,POSTA MOLDOVEI
+NIMORENI,moneygram,,unknown,POSTA MOLDOVEI
+TODIRESTI,moneygram,,unknown,POSTA MOLDOVEI
+COROPCENI,moneygram,,unknown,POSTA MOLDOVEI
+CORNESTI,moneygram,,unknown,POSTA MOLDOVEI
+IARGARA,moneygram,,unknown,MOLDINDCONBANK - Agency No. 19
+SARATICA NOUA,moneygram,,unknown,POSTA MOLDOVEI
+TAREUCA,moneygram,,unknown,POSTA MOLDOVEI
+SOLONCENI,moneygram,,unknown,POSTA MOLDOVEI
+TARASOVA,moneygram,,unknown,POSTA MOLDOVEI
+RACARIA,moneygram,,unknown,POSTA MOLDOVEI
+SUSLENI,moneygram,,unknown,POSTA MOLDOVEI
+DUMBRAVITA,moneygram,,unknown,POSTA MOLDOVEI
+LIPCANI,moneygram,,unknown,POSTA MOLDOVEI
+VIL. GIURGIULESTI,moneygram,,unknown,MOLDINDCONBANK - Giurgiulesti Branch
+VIL. VARNITA,moneygram,,unknown,MOLDINDCONBANK - Agency No. 6
+MAYAK,moneygram,,unknown,AGROPROMBANK
+HIRJAUCA,moneygram,,unknown,POSTA MOLDOVEI
+VARZARESTII NOI,moneygram,,unknown,POSTA MOLDOVEI
+SIRAUTI,moneygram,,unknown,POSTA MOLDOVEI
+GAVANOASA,moneygram,,unknown,POSTA MOLDOVEI
+COSTESTI RISCANI,moneygram,,unknown,POSTA MOLDOVEI
+LIPCENI,moneygram,,unknown,POSTA MOLDOVEI
+FILIPENI,moneygram,,unknown,POSTA MOLDOVEI
+CLOCUSNA,moneygram,,unknown,POSTA MOLDOVEI
+VOLOAVE,moneygram,,unknown,POSTA MOLDOVEI
+TVARDITA,moneygram,,unknown,POSTA MOLDOVEI
+SANATAUCA,moneygram,,unknown,POSTA MOLDOVEI
+CHIOSELIA MARE,moneygram,,unknown,POSTA MOLDOVEI
+VOINOVA,moneygram,,unknown,POSTA MOLDOVEI
+TINTARENI TELENESTI,moneygram,,unknown,POSTA MOLDOVEI
+RASPOPENI,moneygram,,unknown,POSTA MOLDOVEI
+DERENEU,moneygram,,unknown,POSTA MOLDOVEI
+TIBIRICA,moneygram,,unknown,POSTA MOLDOVEI
+PELINIA,moneygram,,unknown,POSTA MOLDOVEI
+SARATA NOUA LEOVA,moneygram,,unknown,POSTA MOLDOVEI
+GASPAR,moneygram,,unknown,POSTA MOLDOVEI
+COVURLUI,moneygram,,unknown,POSTA MOLDOVEI
+ISCALAU,moneygram,,unknown,POSTA MOLDOVEI
+EGORENI,moneygram,,unknown,POSTA MOLDOVEI
+PARCOVA,moneygram,,unknown,POSTA MOLDOVEI
+CIOC MAIDAN,moneygram,,unknown,POSTA MOLDOVEI
+FERAPONTIEVCA,moneygram,,unknown,POSTA MOLDOVEI
+COLIBASI,moneygram,,unknown,POSTA MOLDOVEI
+ALBINETUL VECHI,moneygram,,unknown,POSTA MOLDOVEI
+DOLTU,moneygram,,unknown,POSTA MOLDOVEI
+VASCAUTI,moneygram,,unknown,POSTA MOLDOVEI
+ZUBRESTI,moneygram,,unknown,POSTA MOLDOVEI
+BOBLETICI,moneygram,,unknown,POSTA MOLDOVEI
+ULMU,moneygram,,unknown,POSTA MOLDOVEI
+SEMIONOVCA STEFAN-VODA,moneygram,,unknown,POSTA MOLDOVEI
+TIPALA,moneygram,,unknown,POSTA MOLDOVEI
+BUSILA,moneygram,,unknown,POSTA MOLDOVEI
+COPCIAC,moneygram,,unknown,POSTA MOLDOVEI
+VISCAUTI,moneygram,,unknown,POSTA MOLDOVEI
+PRUTENI,moneygram,,unknown,POSTA MOLDOVEI
+MICIURIN,moneygram,,unknown,POSTA MOLDOVEI
+ISACOVA,moneygram,,unknown,POSTA MOLDOVEI
+ODAIA NISPORENI,moneygram,,unknown,POSTA MOLDOVEI
+SCORTENI,moneygram,,unknown,POSTA MOLDOVEI
+CHIRCAESTII NOI,moneygram,,unknown,POSTA MOLDOVEI
+VIPROVA,moneygram,,unknown,POSTA MOLDOVEI
+COSERNITA CRIULENI,moneygram,,unknown,POSTA MOLDOVEI
+USUREI,moneygram,,unknown,POSTA MOLDOVEI
+SAPTEBANI,moneygram,,unknown,POSTA MOLDOVEI
+VORNICENI,moneygram,,unknown,POSTA MOLDOVEI
+BURLANESTI,moneygram,,unknown,POSTA MOLDOVEI
+TRUSENI,moneygram,,unknown,POSTA MOLDOVEI
+COTIUJENII MICI,moneygram,,unknown,POSTA MOLDOVEI
+STETCANI,moneygram,,unknown,POSTA MOLDOVEI
+HASNASENII MARI,moneygram,,unknown,POSTA MOLDOVEI
+BOROGANI,moneygram,,unknown,POSTA MOLDOVEI
+BAXENI,moneygram,,unknown,POSTA MOLDOVEI
+COSAUTI,moneygram,,unknown,POSTA MOLDOVEI
+COTEALA,moneygram,,unknown,POSTA MOLDOVEI
+BAURCI CEADIR-LUNGA,moneygram,,unknown,POSTA MOLDOVEI
+PALANCA STEFAN-VODA,moneygram,,unknown,POSTA MOLDOVEI
+ORAC,moneygram,,unknown,POSTA MOLDOVEI
+SLOBOZIA HORODISTE,moneygram,,unknown,POSTA MOLDOVEI
+HORODISTE REZINA,moneygram,,unknown,POSTA MOLDOVEI
+PETRESTI,moneygram,,unknown,POSTA MOLDOVEI
+MIHALASENI,moneygram,,unknown,POSTA MOLDOVEI
+LARGUTA,moneygram,,unknown,POSTA MOLDOVEI
+CORNESTI UNGHENI,moneygram,,unknown,POSTA MOLDOVEI
+SARATENII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+VALENI,moneygram,,unknown,POSTA MOLDOVEI
+CINISEUTI,moneygram,,unknown,POSTA MOLDOVEI
+CARAGASH,moneygram,,unknown,EXIMBANK - #73 - CARAGASH
+JAVGUR,moneygram,,unknown,POSTA MOLDOVEI
+VULCANESTI ST,moneygram,,unknown,POSTA MOLDOVEI
+ZAMCIOGI,moneygram,,unknown,POSTA MOLDOVEI
+ZIMBRENI,moneygram,,unknown,POSTA MOLDOVEI
+RUJNITA,moneygram,,unknown,POSTA MOLDOVEI
+GOTESTI,moneygram,,unknown,POSTA MOLDOVEI
+LARGA BRICENI,moneygram,,unknown,POSTA MOLDOVEI
+COPACENI,moneygram,,unknown,POSTA MOLDOVEI
+MIRESTI,moneygram,,unknown,POSTA MOLDOVEI
+HASNASENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+TIRGUL VERTIUJENI,moneygram,,unknown,POSTA MOLDOVEI
+CHITCANII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+HIRTOP FALESTI,moneygram,,unknown,POSTA MOLDOVEI
+CARACUSENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+HIRBOVAT ANENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+GURA BICULUI,moneygram,,unknown,POSTA MOLDOVEI
+SURI,moneygram,,unknown,POSTA MOLDOVEI
+MOSCOVEI,moneygram,,unknown,POSTA MOLDOVEI
+BARONCEA,moneygram,,unknown,POSTA MOLDOVEI
+NEMTENI,moneygram,,unknown,POSTA MOLDOVEI
+IABLOANA,moneygram,,unknown,POSTA MOLDOVEI
+BAURCI CAUSENI,moneygram,,unknown,POSTA MOLDOVEI
+BAIUS,moneygram,,unknown,POSTA MOLDOVEI
+CARAHASANI,moneygram,,unknown,POSTA MOLDOVEI
+BALASESTI CRIULENI,moneygram,,unknown,POSTA MOLDOVEI
+VASIENI TELENESTI,moneygram,,unknown,POSTA MOLDOVEI
+BUIUCANI,moneygram,,unknown,MOLDOVA-AGROINDBANK - #832 - BUIUCANI
+TETCANI,moneygram,,unknown,POSTA MOLDOVEI
+ANDRUSUL DE JOS,moneygram,,unknown,POSTA MOLDOVEI
+ANDRUSUL DE SUS,moneygram,,unknown,POSTA MOLDOVEI
+BADICUL MOLDOVENESC,moneygram,,unknown,POSTA MOLDOVEI
+BAURCI MOLDOVENI,moneygram,,unknown,POSTA MOLDOVEI
+BUCURIA,moneygram,,unknown,POSTA MOLDOVEI
+BURLACU,moneygram,,unknown,POSTA MOLDOVEI
+SPICOASA,moneygram,,unknown,POSTA MOLDOVEI
+CRIHANA VECHE,moneygram,,unknown,POSTA MOLDOVEI
+CUCOARA,moneygram,,unknown,POSTA MOLDOVEI
+LARGA NOUA,moneygram,,unknown,POSTA MOLDOVEI
+ALEXANDRFELD,moneygram,,unknown,POSTA MOLDOVEI
+CISLITA PRUT,moneygram,,unknown,POSTA MOLDOVEI
+BAHU,moneygram,,unknown,POSTA MOLDOVEI
+HORODISTE CALARASI,moneygram,,unknown,POSTA MOLDOVEI
+MELESENI,moneygram,,unknown,POSTA MOLDOVEI
+CARACUSENII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+ONISCANI,moneygram,,unknown,POSTA MOLDOVEI
+CRIVA,moneygram,,unknown,POSTA MOLDOVEI
+PETICENI,moneygram,,unknown,POSTA MOLDOVEI
+ANTONESTI CANTEMIR,moneygram,,unknown,POSTA MOLDOVEI
+CANIA,moneygram,,unknown,POSTA MOLDOVEI
+CIOBALACCIA,moneygram,,unknown,POSTA MOLDOVEI
+GHILAVAT,moneygram,,unknown,POSTA MOLDOVEI
+COCIULIA,moneygram,,unknown,POSTA MOLDOVEI
+ENICHIOI,moneygram,,unknown,POSTA MOLDOVEI
+PLESENI,moneygram,,unknown,POSTA MOLDOVEI
+ALEXANDROVCA CANTEMIR,moneygram,,unknown,POSTA MOLDOVEI
+BACCEALIA,moneygram,,unknown,POSTA MOLDOVEI
+CIRNATENI,moneygram,,unknown,POSTA MOLDOVEI
+FIRLADENI CAUSENI,moneygram,,unknown,POSTA MOLDOVEI
+SAITI,moneygram,,unknown,POSTA MOLDOVEI
+URSOAIA CAUSENI,moneygram,,unknown,POSTA MOLDOVEI
+MARIANCA DE SUS,moneygram,,unknown,POSTA MOLDOVEI
+COPANCA,moneygram,,unknown,POSTA MOLDOVEI
+MARCAUTI BRICENI,moneygram,,unknown,POSTA MOLDOVEI
+CIUFLESTI,moneygram,,unknown,POSTA MOLDOVEI
+CIRNATENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+CONSTANTINOVCA CAUSENI,moneygram,,unknown,POSTA MOLDOVEI
+MEDVEJA,moneygram,,unknown,POSTA MOLDOVEI
+PERVOMAISC CAUSENI,moneygram,,unknown,POSTA MOLDOVEI
+BATIC,moneygram,,unknown,POSTA MOLDOVEI
+ALBINA,moneygram,,unknown,POSTA MOLDOVEI
+COBUSCA NOUA,moneygram,,unknown,POSTA MOLDOVEI
+TARACLIA DE SALCIE,moneygram,,unknown,POSTA MOLDOVEI
+MIHAILOVCA,moneygram,,unknown,POSTA MOLDOVEI
+SAGAIDAC CIMISLIA,moneygram,,unknown,POSTA MOLDOVEI
+SATUL NOU,moneygram,,unknown,POSTA MOLDOVEI
+DEZGHINGEA,moneygram,,unknown,POSTA MOLDOVEI
+ALEXEEVCA COMRAT,moneygram,,unknown,POSTA MOLDOVEI
+CARBALIA,moneygram,,unknown,POSTA MOLDOVEI
+HOLERCANI,moneygram,,unknown,POSTA MOLDOVEI
+MOLOVATA NOUA,moneygram,,unknown,POSTA MOLDOVEI
+MOLOVATA,moneygram,,unknown,POSTA MOLDOVEI
+OXENTEA,moneygram,,unknown,POSTA MOLDOVEI
+USTIA DUBASARI,moneygram,,unknown,POSTA MOLDOVEI
+BALTATA,moneygram,,unknown,POSTA MOLDOVEI
+SAGAIDAC CRIULENI,moneygram,,unknown,POSTA MOLDOVEI
+BOSCANA,moneygram,,unknown,POSTA MOLDOVEI
+CHETROASA,moneygram,,unknown,POSTA MOLDOVEI
+HRUSOVA,moneygram,,unknown,POSTA MOLDOVEI
+CRUGLIC,moneygram,,unknown,POSTA MOLDOVEI
+HIRTOPUL MIC,moneygram,,unknown,POSTA MOLDOVEI
+JEVRENI,moneygram,,unknown,POSTA MOLDOVEI
+MAGDACESTI,moneygram,,unknown,POSTA MOLDOVEI
+MICLESTI,moneygram,,unknown,POSTA MOLDOVEI
+RATUS CRIULENI,moneygram,,unknown,POSTA MOLDOVEI
+RISCOVA,moneygram,,unknown,POSTA MOLDOVEI
+PLOP DONDUSENI,moneygram,,unknown,POSTA MOLDOVEI
+SUDARCA,moneygram,,unknown,POSTA MOLDOVEI
+TIRNOVA DONDUSENI,moneygram,,unknown,POSTA MOLDOVEI
+MARAMONOVCA,moneygram,,unknown,POSTA MOLDOVEI
+COTOVA,moneygram,,unknown,POSTA MOLDOVEI
+DOMINTENI,moneygram,,unknown,POSTA MOLDOVEI
+LAZO DROCHIA,moneygram,,unknown,POSTA MOLDOVEI
+NAPADENI,moneygram,,unknown,POSTA MOLDOVEI
+OCHIUL ALB,moneygram,,unknown,POSTA MOLDOVEI
+PALANCA DROCHIA,moneygram,,unknown,POSTA MOLDOVEI
+CEAPAEVCA,moneygram,,unknown,POSTA MOLDOVEI
+ALEXEEVCA EDINET,moneygram,,unknown,POSTA MOLDOVEI
+BADRAGII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+BADRAGII NOI,moneygram,,unknown,POSTA MOLDOVEI
+BUZDUGENI,moneygram,,unknown,POSTA MOLDOVEI
+CUCONESTII NOI,moneygram,,unknown,POSTA MOLDOVEI
+POIANA EDINET,moneygram,,unknown,POSTA MOLDOVEI
+TIRNOVA EDINET,moneygram,,unknown,POSTA MOLDOVEI
+CALINESTI,moneygram,,unknown,POSTA MOLDOVEI
+FALESTII NOI,moneygram,,unknown,POSTA MOLDOVEI
+GLINJENI FALESTI,moneygram,,unknown,POSTA MOLDOVEI
+ILENUTA,moneygram,,unknown,POSTA MOLDOVEI
+MARANDENI,moneygram,,unknown,POSTA MOLDOVEI
+NAVIRNET,moneygram,,unknown,POSTA MOLDOVEI
+ECATERINOVCA,moneygram,,unknown,POSTA MOLDOVEI
+DELACAU,moneygram,,unknown,POSTA MOLDOVEI
+MAXIMOVCA,moneygram,,unknown,POSTA MOLDOVEI
+ALBINITA,moneygram,,unknown,POSTA MOLDOVEI
+SERCANI,moneygram,,unknown,POSTA MOLDOVEI
+TINTARENI ANENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+SARATA VECHE,moneygram,,unknown,POSTA MOLDOVEI
+MAGURELE,moneygram,,unknown,POSTA MOLDOVEI
+SCUMPIA,moneygram,,unknown,POSTA MOLDOVEI
+TAXOBENI,moneygram,,unknown,POSTA MOLDOVEI
+ALEXEEVCA FLORESTI,moneygram,,unknown,POSTA MOLDOVEI
+BAHRINESTI,moneygram,,unknown,POSTA MOLDOVEI
+CASUNCA,moneygram,,unknown,POSTA MOLDOVEI
+IZVOARE FLORESTI,moneygram,,unknown,POSTA MOLDOVEI
+MAISCOE,moneygram,,unknown,POSTA MOLDOVEI
+STEFANESTI FLORESTI,moneygram,,unknown,POSTA MOLDOVEI
+CUNICEA,moneygram,,unknown,POSTA MOLDOVEI
+JAPCA,moneygram,,unknown,POSTA MOLDOVEI
+TATARESTI CAHUL,moneygram,,unknown,POSTA MOLDOVEI
+ALEXANDRU IOAN CUZA,moneygram,,unknown,POSTA MOLDOVEI
+BRINZA,moneygram,,unknown,POSTA MOLDOVEI
+TEMELEUTI FLORESTI,moneygram,,unknown,POSTA MOLDOVEI
+VERTIUJENI,moneygram,,unknown,POSTA MOLDOVEI
+BALATINA,moneygram,,unknown,POSTA MOLDOVEI
+BUJOR,moneygram,,unknown,POSTA MOLDOVEI
+CAJBA,moneygram,,unknown,POSTA MOLDOVEI
+BRINZENI GLODENI,moneygram,,unknown,POSTA MOLDOVEI
+CIUCIULEA,moneygram,,unknown,POSTA MOLDOVEI
+FUNDUL GALBENEI,moneygram,,unknown,POSTA MOLDOVEI
+COSTESTI IALOVENI,moneygram,,unknown,POSTA MOLDOVEI
+LEUSENI HINCESTI,moneygram,,unknown,POSTA MOLDOVEI
+SARATA GALBENA,moneygram,,unknown,POSTA MOLDOVEI
+CIUCIULENI,moneygram,,unknown,POSTA MOLDOVEI
+HORODCA IALOVENI,moneygram,,unknown,POSTA MOLDOVEI
+MALCOCI,moneygram,,unknown,POSTA MOLDOVEI
+BALTATI,moneygram,,unknown,POSTA MOLDOVEI
+CIGIRLENI,moneygram,,unknown,POSTA MOLDOVEI
+ALEXANDROVCA IALOVENI,moneygram,,unknown,POSTA MOLDOVEI
+MILESTII NOI,moneygram,,unknown,POSTA MOLDOVEI
+VARATIC IALOVENI,moneygram,,unknown,POSTA MOLDOVEI
+DANU,moneygram,,unknown,POSTA MOLDOVEI
+LIMBENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+LIMBENII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+PETRUNEA,moneygram,,unknown,POSTA MOLDOVEI
+USTIA GLODENI,moneygram,,unknown,POSTA MOLDOVEI
+ANINI,moneygram,,unknown,POSTA MOLDOVEI
+CAZANGIC,moneygram,,unknown,POSTA MOLDOVEI
+COLIBABOVCA,moneygram,,unknown,POSTA MOLDOVEI
+TOHATIN,moneygram,,unknown,POSTA MOLDOVEI
+BOLTUN,moneygram,,unknown,POSTA MOLDOVEI
+IURCENI,moneygram,,unknown,POSTA MOLDOVEI
+MARINICI,moneygram,,unknown,POSTA MOLDOVEI
+SENDRENI,moneygram,,unknown,POSTA MOLDOVEI
+BIRLADENI,moneygram,,unknown,POSTA MOLDOVEI
+CALARASOVCA,moneygram,,unknown,POSTA MOLDOVEI
+DINGENI,moneygram,,unknown,POSTA MOLDOVEI
+GRINAUTI RAIA,moneygram,,unknown,POSTA MOLDOVEI
+ANDREEVCA,moneygram,,unknown,POSTA MOLDOVEI
+OCNITA TARANI,moneygram,,unknown,POSTA MOLDOVEI
+SARATENI LEOVA,moneygram,,unknown,POSTA MOLDOVEI
+SIRMA,moneygram,,unknown,POSTA MOLDOVEI
+TIGHECI,moneygram,,unknown,POSTA MOLDOVEI
+TOCHILE RADUCANI,moneygram,,unknown,POSTA MOLDOVEI
+TAHNAUTI,moneygram,,unknown,POSTA MOLDOVEI
+ALEXANDRESTI,moneygram,,unknown,POSTA MOLDOVEI
+CIORNA,moneygram,,unknown,POSTA MOLDOVEI
+BUSAUCA,moneygram,,unknown,POSTA MOLDOVEI
+COGILNICENI,moneygram,,unknown,POSTA MOLDOVEI
+ECHIMAUTI,moneygram,,unknown,POSTA MOLDOVEI
+DURUITOAREA NOUA,moneygram,,unknown,POSTA MOLDOVEI
+LALOVA,moneygram,,unknown,POSTA MOLDOVEI
+MALINOVSCOE,moneygram,,unknown,POSTA MOLDOVEI
+PRIPICENI RAZESI,moneygram,,unknown,POSTA MOLDOVEI
+TRIFESTI,moneygram,,unknown,POSTA MOLDOVEI
+IEZARENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+IEZARENII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+PIRLITA,moneygram,,unknown,POSTA MOLDOVEI
+ALAVA,moneygram,,unknown,POSTA MOLDOVEI
+CAPLANI,moneygram,,unknown,POSTA MOLDOVEI
+TIPLETESTI,moneygram,,unknown,POSTA MOLDOVEI
+CROCMAZ,moneygram,,unknown,POSTA MOLDOVEI
+ALCEDAR,moneygram,,unknown,POSTA MOLDOVEI
+ERMOCLIA,moneygram,,unknown,POSTA MOLDOVEI
+FESTELITA,moneygram,,unknown,POSTA MOLDOVEI
+CLIMAUTI,moneygram,,unknown,POSTA MOLDOVEI
+VADENI,moneygram,,unknown,POSTA MOLDOVEI
+VARANCAU,moneygram,,unknown,POSTA MOLDOVEI
+ALEXANDRU CEL BUN,moneygram,,unknown,POSTA MOLDOVEI
+VOLOVITA,moneygram,,unknown,POSTA MOLDOVEI
+RASCAIETII NOI,moneygram,,unknown,POSTA MOLDOVEI
+SALCIA SOLDANESTI,moneygram,,unknown,POSTA MOLDOVEI
+SAMASCANI,moneygram,,unknown,POSTA MOLDOVEI
+SESTACI SOLDANESTI,moneygram,,unknown,POSTA MOLDOVEI
+TUDORA,moneygram,,unknown,POSTA MOLDOVEI
+SALCIA TARACLIA,moneygram,,unknown,POSTA MOLDOVEI
+BUCOVAT,moneygram,,unknown,POSTA MOLDOVEI
+VINOGRADOVCA,moneygram,,unknown,POSTA MOLDOVEI
+ALEXEEVCA UNGHENI,moneygram,,unknown,POSTA MOLDOVEI
+BULBOCI,moneygram,,unknown,POSTA MOLDOVEI
+CAINARII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+HOLOSNITA,moneygram,,unknown,POSTA MOLDOVEI
+MICAUTI,moneygram,,unknown,POSTA MOLDOVEI
+NEGRESTI,moneygram,,unknown,POSTA MOLDOVEI
+BRINZENII VECHI,moneygram,,unknown,POSTA MOLDOVEI
+PANASESTI,moneygram,,unknown,POSTA MOLDOVEI
+RADENI STRASENI,moneygram,,unknown,POSTA MOLDOVEI
+BRINZENI NOI,moneygram,,unknown,POSTA MOLDOVEI
+SCORENI,moneygram,,unknown,POSTA MOLDOVEI
+CHISTELNITA,moneygram,,unknown,POSTA MOLDOVEI
+HIRISENI,moneygram,,unknown,POSTA MOLDOVEI
+NUCARENI,moneygram,,unknown,POSTA MOLDOVEI
+MOARA DE PIATRA,moneygram,,unknown,POSTA MOLDOVEI
+ORDASEI,moneygram,,unknown,POSTA MOLDOVEI
+PISTRUIENI,moneygram,,unknown,POSTA MOLDOVEI
+DOLNA,moneygram,,unknown,POSTA MOLDOVEI
+MICLEUSENI,moneygram,,unknown,POSTA MOLDOVEI
+ALBOTA DE JOS,moneygram,,unknown,POSTA MOLDOVEI
+ALBOTA DE SUS,moneygram,,unknown,POSTA MOLDOVEI
+CIUMAI,moneygram,,unknown,POSTA MOLDOVEI
+CODRUL NOU,moneygram,,unknown,POSTA MOLDOVEI
+UNTESTI,moneygram,,unknown,POSTA MOLDOVEI
+BUZDUGANII DE JOS,moneygram,,unknown,POSTA MOLDOVEI
+GALESTI,moneygram,,unknown,POSTA MOLDOVEI
+BOGHENII NOI,moneygram,,unknown,POSTA MOLDOVEI
+MACARESTI,moneygram,,unknown,POSTA MOLDOVEI
+CETIRENI,moneygram,,unknown,POSTA MOLDOVEI
+FLORENI UNGHENI,moneygram,,unknown,POSTA MOLDOVEI
+SLOBOZIA HODOROGEA,moneygram,,unknown,POSTA MOLDOVEI
+BULAIESTI,moneygram,,unknown,POSTA MOLDOVEI
+CHIPERCENI,moneygram,,unknown,POSTA MOLDOVEI
+BIRUINTA,moneygram,,unknown,POSTA MOLDOVEI
+BURSUCENI,moneygram,,unknown,POSTA MOLDOVEI
+COSCODENI,moneygram,,unknown,POSTA MOLDOVEI
+Chișinău,newyorker,Str. Calea lesilor 8 2069 Chișinău,unknown,NEW YORKER | Chișinău Zity Mall
+Chisniau,newyorker,Strada Mihai Sadoveanu 42/6 2075 Chişinău,unknown,NEW YORKER | PORT MALL
+Chişinău,next,,unknown,Strada Mihai Sadoveanu
+Chișinău,nike,,unknown,Nike Mall Dova
+Glodeni,omv,,unknown,Petrom
+Hlinaia,omv,,unknown,Petrom
+Riscani,omv,,unknown,Petrom
+Chisinau,omv,,unknown,Petrom
+Costesti,omv,,unknown,Petrom
+Soroca,omv,,unknown,Petrom
+Balti,omv,,unknown,Petrom
+Braviceni,omv,,unknown,Petrom
+Orhei,omv,,unknown,Petrom
+Giurgiulesti,omv,,unknown,Petrom
+Tvardita,omv,,unknown,Petrom
+Straseni,omv,,unknown,Petrom
+Sculeni,omv,,unknown,Petrom
+Causeni,omv,,unknown,Petrom
+Ungheni,omv,,unknown,Petrom
+Lipcani,omv,,unknown,Petrom
+Valea Perjei,omv,,unknown,Petrom
+Calarasi,omv,,unknown,Petrom
+Peresecina,omv,,unknown,Petrom
+Tintareni,omv,,unknown,Petrom
+Tiganca,omv,,unknown,Petrom
+Vulcanesti,omv,,unknown,Petrom
+Comrat,omv,,unknown,Petrom
+Ceadir-Lunga,omv,,unknown,Petrom
+Chiperceni,omv,,unknown,Petrom
+Ruseni,omv,,unknown,Petrom
+Telenesti,omv,,unknown,Petrom
+Saratenii Vechi,omv,,unknown,Petrom
+Mitoc,omv,,unknown,Petrom
+Lozova,omv,,unknown,Petrom
+Bardar,omv,,unknown,Petrom
+Floresti,omv,,unknown,Petrom
+Falestii Noi,omv,,unknown,Petrom
+Briceni,omv,,unknown,Petrom
+Leuseni,omv,,unknown,Petrom
+Varzaresti,omv,,unknown,Petrom
+Basarabeasca,omv,,unknown,Petrom
+Cimislia,omv,,unknown,Petrom
+Cahul,omv,,unknown,Petrom
+Criuleni,omv,,unknown,Petrom
+Chisinau,ovs,,unknown,OVS FC CHISINAU KIEV STREET
+Chisinau,sixt,,unknown,Car Hire Chisinau Airport | SIXT rent a car
+unknown,skoda,,unknown,DAAC AutoTest
+Chisinau,tommy_hilfiger,,unknown,Tommy Hilfiger
+KISHINEV,united_colors_of_benetton,,unknown,Benetton Kishinev
+CHISINAU,united_colors_of_benetton,,unknown,Benetton Chisinau
+VULCANESTI,visa,,unknown,unknown
+CAHUL,visa,,unknown,unknown
+COPCEAC,visa,,unknown,unknown
+TARACLIA,visa,,unknown,unknown
+CANTEMIR,visa,,unknown,unknown
+CONGAZ,visa,,unknown,unknown
+CEADIR-LUNGA,visa,,unknown,unknown
+CEADIR LUNGA,visa,,unknown,unknown
+LEOVA,visa,,unknown,unknown
+COMRAT,visa,,unknown,unknown
+TVARDITA,visa,,unknown,unknown
+BASARABEASCA,visa,,unknown,unknown
+HINCESTI,visa,,unknown,unknown
+CIMISLIA,visa,,unknown,unknown
+COSTESTI,visa,,unknown,unknown
+UNGENY,visa,,unknown,unknown
+UNGHENI,visa,,unknown,unknown
+HANCESTI,visa,,unknown,unknown
+REZINA,visa,,unknown,unknown
+NISPORENI,visa,,unknown,unknown
+IALOVENI,visa,,unknown,unknown
+ERMOCLIA,visa,,unknown,unknown
+BACIOI,visa,,unknown,unknown
+ŞTEFAN-VODĂ,visa,,unknown,unknown
+CAUSENI,visa,,unknown,unknown
+DURLESTI,visa,,unknown,unknown
+SLOBOZIA,visa,,unknown,unknown
+CHISINAU,visa,,unknown,unknown
+CALARASI,visa,,unknown,unknown
+CĂLĂRAŞI,visa,,unknown,unknown
+CHISHINAU,visa,,unknown,unknown
+FALESTI,visa,,unknown,unknown
+BULBOACA,visa,,unknown,unknown
+VATRA,visa,,unknown,unknown
+STRASENI,visa,,unknown,unknown
+OLANESTI,visa,,unknown,unknown
+MERENI,visa,,unknown,unknown
+PURCARI,visa,,unknown,unknown
+ANENII NOI,visa,,unknown,unknown
+GLODENI,visa,,unknown,unknown
+MAGDACESTI,visa,,unknown,unknown
+CRICOVA,visa,,unknown,unknown
+BUDESTI,visa,,unknown,unknown
+CIORESCU,visa,,unknown,unknown
+FLORESTI,visa,,unknown,unknown
+VARNITA,visa,,unknown,unknown
+VADUL LUI VODA,visa,,unknown,unknown
+TELENESTI,visa,,unknown,unknown
+SINGEREI,visa,,unknown,unknown
+LIPCANI,visa,,unknown,unknown
+COSNITA,visa,,unknown,unknown
+BALTI,visa,,unknown,unknown
+RISCANI,visa,,unknown,unknown
+ORHEI,visa,,unknown,unknown
+CRIULENI,visa,,unknown,unknown
+PELINIA,visa,,unknown,unknown
+CUPCINI,visa,,unknown,unknown
+EDINET,visa,,unknown,unknown
+DUBASARI,visa,,unknown,unknown
+COCIERI,visa,,unknown,unknown
+BRICENI,visa,,unknown,unknown
+OXENTEA,visa,,unknown,unknown
+DROCHIA,visa,,unknown,unknown
+DONDUSENI,visa,,unknown,unknown
+OCNITA,visa,,unknown,unknown
+SOLDANESTI,visa,,unknown,unknown
+SOROCA,visa,,unknown,unknown
+Kongaz,western_union,,unknown,FINCOMBANK
+Congaz,western_union,,unknown,ENERGBANK BRANCH COMRAT AG4
+Comrat,western_union,,unknown,AGENTIA NR  44 A SUCURSALEI DIN MUN  COM
+Bendery,western_union,,unknown,AGROPROMBANK BENDERY NO5
+Vulcanesti,western_union,,unknown,SUCURSALA DIN OR  VULCANESTI
+Tiraspol,western_union,,unknown,AGROPROMBANK HEAD OFFICE
+Vulkanesht,western_union,,unknown,FINCOMBANK
+Anenii Noi,western_union,,unknown,AGENTIA NR  41 A SUCURSALEI DIN OR  ANEN
+Avdarma,western_union,,unknown,FINCOMBANK
+Parkany,western_union,,unknown,AGROPROMBANK PARKANY NO8
+Cimislia,western_union,,unknown,AGENTIA NR  65 A SUCURSALEI DIN OR  CIMI
+Basarabeasca,western_union,,unknown,"MAIB BRANCH CIMISLIA, AGENCY 1"
+Ceadir Lunga,western_union,,unknown,SUCURSALA DIN MUN  CEADIR LUNGA
+Taraclia,western_union,,unknown,MAIB BRANCH TARACLIA
+Ceadar Lunga,western_union,,unknown,B C VICTORIABANK S A
+Tarakliya,western_union,,unknown,FINCOMBANK
+Karagash,western_union,,unknown,AGROPROMBANK KARAGASH NO15
+Basarabyaska,western_union,,unknown,FINCOMBANK
+Chadyr Lunga,western_union,,unknown,FINCOMBANK
+Causeni,western_union,,unknown,AGENTIA NR  183 DIN OR  CAINARI A SUCURS
+Keushen,western_union,,unknown,FINCOMBANK
+Sukleya,western_union,,unknown,AGROPROMBANK SUKLEYA NO14
+Kitskany,western_union,,unknown,AGROPROMBANK TIRASPOL NO11
+Slobodzeya,western_union,,unknown,AGROPROMBANK SLOBODZEYA NO16
+Stefan Voda,western_union,,unknown,AGENTIA NR  107 A SUCURSALEI DIN OR  STE
+Shtefan Vode,western_union,,unknown,FINCOMBANK
+Dnestrovsk,western_union,,unknown,AGROPROMBANK DNESTROVSK NO1
+Pervomaysk,western_union,,unknown,AGROPROMBANK PERVOMAYSK NO3
+Chimishliya,western_union,,unknown,FINCOMBANK
+Hincesti,western_union,,unknown,B C VICTORIABANK S A
+Khynchesht,western_union,,unknown,FINCOMBANK
+Hancesti,western_union,,unknown,SUCURSALA NR 17 HANCESTI
+Ungheni,western_union,,unknown,MAIB BRANCH UNGHENI
+Bacioi,western_union,,unknown,MICROIMPRUMUT   BACIOI
+Ungen,western_union,,unknown,EUROCREDITBANK
+Nisporeni,western_union,,unknown,MAIB BRANCH NISPORENI AGENCY 2
+Ungeny,western_union,,unknown,FINCOMBANK
+Novye Aneny,western_union,,unknown,FINCOMBANK
+Ialoveni,western_union,,unknown,B C VICTORIABANK S A
+Yaloven,western_union,,unknown,FINCOMBANK
+Nisporen,western_union,,unknown,FINCOMBANK
+Chisinau,western_union,,unknown,MAIB BRANCH STEFAN CEL MARE AGN NR4
+Sat Chetrosu,western_union,,unknown,PAYNET SERVICES SRL OCN BANCASSURANCE
+Mun  Chisinau,western_union,,unknown,PAYNET SERVICES SRL AEI MICROIMPRUMUT
+Durlesti,western_union,,unknown,AGENTIA NR  87 A SUCURSALEI DURLESTI
+Balti,western_union,,unknown,B C VICTORIABANK S A
+Mereni,western_union,,unknown,MICROIMPRUMUT   MERENI
+Kishineu,western_union,,unknown,EUROCREDITBANK
+Mun Chisinau,western_union,,unknown,PAYNET SERVICES SRL OCN BANCASSURANCE
+Truseni,western_union,,unknown,MICROIMPRUMUT   TRUSENI
+Kalarash,western_union,,unknown,FINCOMBANK
+Calarasi,western_union,,unknown,SUCURSALA DIN OR  CALARASI
+Cricova,western_union,,unknown,ENERGBANK BRANCH CRICOVA
+Criuleni,western_union,,unknown,MAIB BRANCH CRIULENI
+Ciorescu,western_union,,unknown,MICROIMPRUMUT   OFICIUL CENTRAL
+Cosnita,western_union,,unknown,SUCURSALA DIN S  COSNITA
+Falesti,western_union,,unknown,SUCURSALA NR  50 FALESTI
+Felesht,western_union,,unknown,FINCOMBANK
+Briceni,western_union,,unknown,ENERGBANK BRANCH BRICENI
+Grigoriopol,western_union,,unknown,AGROPROMBANK GRIGORIOPOL NO7
+Faleshty,western_union,,unknown,FINCOMBANK
+Lipcani,western_union,,unknown,MAIB BRANCH LIPCANI
+Glodeni,western_union,,unknown,GLODENI AGN 1
+Gloden,western_union,,unknown,FINCOMBANK
+Dubossary,western_union,,unknown,AGROPROMBANK DUBOSSARY NO11
+Mayak,western_union,,unknown,AGROPROMBANK MAYAK NO4
+Singerei,western_union,,unknown,AGENTIA NR  254 DIN OR  BIRUINTA A SUCUR
+Telenesti,western_union,,unknown,SUCURSALA DIN OR  TELENESTI
+Telenesht,western_union,,unknown,FINCOMBANK
+Orkhey,western_union,,unknown,FINCOMBANK
+Orhei,western_union,,unknown,MAIB BRANCH ORHEI
+Synzherey,western_union,,unknown,FINCOMBANK
+Leova,western_union,,unknown,ENERGBANK BRANCH LEOVA
+Cocieri,western_union,,unknown,MAIB BRANCH COCIERI
+Riscani,western_union,,unknown,SUCURSALA DIN OR  RISCANI
+Belts,western_union,,unknown,FINCOMBANK
+Ryshkan,western_union,,unknown,FINCOMBANK
+Beltsy,western_union,,unknown,FINCOMBANK
+Edinet,western_union,,unknown,MAIB BRANCH EDINET
+Brichen,western_union,,unknown,FINCOMBANK
+Sat Saratenii Vechi,western_union,,unknown,PAYNET SERVICES SRL   AEI SARATENII
+Edinets,western_union,,unknown,FINCOMBANK
+Cupcini,western_union,,unknown,ENERGBANK BRANCH EDINET AG2
+Drochia,western_union,,unknown,MAIB BRANCH DROCHIA
+Drokiya,western_union,,unknown,FINCOMBANK
+Donduseni,western_union,,unknown,PAYNET SERVICES SRL CREDITE DIN BARABOI
+Dondushen,western_union,,unknown,FINCOMBANK
+Floresti,western_union,,unknown,AGENTIA NR  178 DIN OR  GHINDESTI A SUCU
+Ocnita,western_union,,unknown,AGENTIA NR  30 A SUCURSALEI DIN OR  OCNI
+Oknitsa,western_union,,unknown,FINCOMBANK
+Floresht,western_union,,unknown,FINCOMBANK
+Rezina,western_union,,unknown,SUCURSALA NR  48 REZINA
+Rybnitsa,western_union,,unknown,AGROPROMBANK RYBNITSA NO3
+Soldanesti,western_union,,unknown,MAIB BRANCH SOLDANESTI
+Soroca,western_union,,unknown,SUCURSALA NR  22 SOROCA
+Kamenka,western_union,,unknown,AGROPROMBANK KAMENKA NO1
+Soroka,western_union,,unknown,FINCOMBANK
+Cahul,western_union,,unknown,AGENTIA NR  117 DIN S  GIURGIULESTI A SU
+Kakhul,western_union,,unknown,EUROCREDITBANK
+Straseni,western_union,,unknown,B C VICTORIABANK S A
+Strashen,western_union,,unknown,FINCOMBANK

@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1352263,usps,ABBOT,,ABBOT,ME,,US,+1 207-876-4009,,"Mo-Fr 08:00-11:15,12:15-15:00; Sa 08:00-11:30",United States Postal Service,Q668687
+0440600003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,1 WEST RD,ABBOT,ME,,US,,,,United States Postal Service,Q668687
+0440600002,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,1 WEST RD,ABBOT,ME,,US,,,,United States Postal Service,Q668687
+0440600001,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,1 WEST RD,ABBOT,ME,,US,,,,United States Postal Service,Q668687

@@ -1,0 +1,8 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+30560,bluerhino,AAFES - Dugway Exchange,,Dugway,UT,,US,+1 435-831-4773,,,Blue Rhino,Q65681213
+(for FedEx) 11600 North Aptus RoadDugwayUT,clean_harbors,Clean Harbors,,Dugway,UT,,US,NULL,,,Clean Harbors,Q5130494
+1361402,usps,DUGWAY,,DUGWAY,UT,,US,+1 435-831-4261,,"Mo-Fr 09:00-13:00,13:30-16:00; Sa 09:00-11:00",United States Postal Service,Q668687
+8402200001,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,5326 VALDEZ CIR,DUGWAY,UT,,US,,,,United States Postal Service,Q668687
+8402200003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,5326 VALDEZ CIR,DUGWAY,UT,,US,,,,United States Postal Service,Q668687
+8402200004,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,5326 VALDEZ CIR,DUGWAY,UT,,US,,,,United States Postal Service,Q668687
+8402200002,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,5440 STARK RD,DUGWAY,UT,,US,,,,United States Postal Service,Q668687

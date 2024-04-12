@@ -1,0 +1,705 @@
+City,Place Name,Zipcode,Name
+Netta Druga,abc_pl,,unknown,abc
+Suwałki,abc_pl,,unknown,abc
+Smolniki,abc_pl,,unknown,abc
+Rutka-Tartak,abc_pl,,unknown,abc
+Filipów,abc_pl,,unknown,abc
+Białystok,abc_pl,,unknown,abc
+Rutki-Kossaki,abc_pl,,unknown,abc
+Nowogród,abc_pl,,unknown,abc
+Chmielewo,abc_pl,,unknown,abc
+Augustów,abc_pl,,unknown,abc
+Drozdowo,abc_pl,,unknown,abc
+Piątnica Poduchowna,abc_pl,,unknown,abc
+Grabowo,abc_pl,,unknown,abc
+Mońki,abc_pl,,unknown,abc
+Przerośl,abc_pl,,unknown,abc
+Juchnowiec Dolny,abc_pl,,unknown,abc
+Łomża,abc_pl,,unknown,abc
+Konarzyce,abc_pl,,unknown,abc
+Podgórze,abc_pl,,unknown,abc
+Wygoda,abc_pl,,unknown,abc
+Nowe Kupiski,abc_pl,,unknown,abc
+Turośń Kościelna,abc_pl,,unknown,abc
+Trypucie,abc_pl,,unknown,abc
+Słobódka,abc_pl,,unknown,abc
+Szypliszki,abc_pl,,unknown,abc
+Kamionka Poprzeczna,abc_pl,,unknown,abc
+Płonka Kościelna,abc_pl,,unknown,abc
+Łapy,abc_pl,,unknown,abc
+Kleosin,abc_pl,,unknown,abc
+Wiżajny,abc_pl,,unknown,abc
+Raczki,abc_pl,,unknown,abc
+Wysokie,abc_pl,,unknown,abc
+Łyski,abc_pl,,unknown,abc
+Bombla,abc_pl,,unknown,abc
+Jeleniewo,abc_pl,,unknown,abc
+Hołny Mejera,abc_pl,,unknown,abc
+Sejny,abc_pl,,unknown,abc
+Pogorzelec,abc_pl,,unknown,abc
+Srebrna,abc_pl,,unknown,abc
+Bryzgiel,abc_pl,,unknown,abc
+Wysokie Mazowieckie,abc_pl,,unknown,abc
+Wnory-Kużele,abc_pl,,unknown,abc
+Zambrów,abc_pl,,unknown,abc
+Wąsosz,abc_pl,,unknown,abc
+Stawiski,abc_pl,,unknown,abc
+Łacha,abc_pl,,unknown,abc
+Leman,abc_pl,,unknown,abc
+Zimna,abc_pl,,unknown,abc
+Michałowo,abc_pl,,unknown,abc
+Śniadowo,abc_pl,,unknown,abc
+Truszki,abc_pl,,unknown,abc
+Dobry Las,abc_pl,,unknown,abc
+Zbójna,abc_pl,,unknown,abc
+Jedwabne,abc_pl,,unknown,abc
+Grabowo-Kolonie,abc_pl,,unknown,abc
+Maćkowa Ruda,abc_pl,,unknown,abc
+Bondary,abc_pl,,unknown,abc
+Lachowo,abc_pl,,unknown,abc
+Puńsk,abc_pl,,unknown,abc
+Koziki,abc_pl,,unknown,abc
+Księżyno,abc_pl,,unknown,abc
+Prudziszki,abc_pl,,unknown,abc
+Grądy-Woniecko,abc_pl,,unknown,abc
+Zabiele,abc_pl,,unknown,abc
+Białystok,agata_meble_pl,,unknown,Białystok
+Grajewo,aldi_nord_pl,,unknown,ALDI
+Łomża,aldi_nord_pl,,unknown,ALDI
+Białystok,aldi_nord_pl,,unknown,ALDI
+Suwałki,aldi_nord_pl,,unknown,ALDI
+Sokółka,bricomarche_pl,,unknown,Bricomarché Sokółka
+Łomża,bricomarche_pl,,unknown,Bricomarché Łomża
+Koszarówka (Grajewo),bricomarche_pl,,unknown,Bricomarché Koszarówka (Grajewo)
+Siemiatycze,credit_agricole_pl,,unknown,"Credit Agricole Plac Jana Pawła II 27, Siemiatycze"
+Międzyrzec Podlaski,credit_agricole_pl,,unknown,"Credit Agricole Warszawska 12, Międzyrzec Podlaski"
+Łomża,credit_agricole_pl,,unknown,"Credit Agricole Aleja Legionów 42, Łomża"
+Kolno,credit_agricole_pl,,unknown,"Credit Agricole pl. Wolności 44, Kolno"
+Hajnówka,credit_agricole_pl,,unknown,"Credit Agricole 3 Maja 22, Hajnówka"
+Grajewo,credit_agricole_pl,,unknown,"Credit Agricole Pl. Niepodległości 20/1, Grajewo"
+Bielsk Podlaski,credit_agricole_pl,,unknown,"Credit Agricole Mickiewicza 51, Bielsk Podlaski"
+Zambrów,credit_agricole_pl,,unknown,"Credit Agricole Sadowa 2, Zambrów"
+Suwałki,credit_agricole_pl,,unknown,"Credit Agricole Kościuszki 64, Suwałki"
+Białystok,credit_agricole_pl,,unknown,"Credit Agricole Antoniukowska 56/U021, Białystok"
+Augustów,credit_agricole_pl,,unknown,"Credit Agricole Mostowa 26, Augustów"
+Łomża,dr_max,,unknown,"Apteka Dr.Max, Dworna 1, Łomża"
+Łapy,dr_max,,unknown,"Apteka Dr.Max, Sikorskiego 54, Łapy"
+Suwałki,dr_max,,unknown,"Apteka Dr.Max, Kościuszki 103, Suwałki"
+Hajnówka,dr_max,,unknown,"Apteka Dr.Max, 3 Maja 47, Hajnówka"
+Białystok,dr_max,,unknown,"Apteka Dr.Max, Fabryczna 22, Białystok"
+Sokółka,dr_max,,unknown,"Apteka Dr.Max, Grodzieńska 6A, Sokółka"
+Czarna Białostocka,dr_max,,unknown,"Apteka Dr.Max, Torowa 3, Czarna Białostocka"
+Dąbrowa Białostocka,dr_max,,unknown,"Apteka Dr.Max, Plac Tadeusza Kościuszki 3, Dąbrowa Białostocka"
+Augustów,dr_max,,unknown,"Apteka Dr.Max, Mostowa 2, Augustów"
+Siemiatycze,dr_max,,unknown,"Apteka Dr.Max, 11 Listopada 26, Siemiatycze"
+Sejny,groszek_pl,,unknown,Groszek
+Puńsk,groszek_pl,,unknown,Groszek
+Wiżajny,groszek_pl,,unknown,Groszek
+Zambrów,groszek_pl,,unknown,Groszek
+Sztabin,groszek_pl,,unknown,Groszek
+Augustów,groszek_pl,,unknown,Groszek
+Jasionówka,groszek_pl,,unknown,Groszek
+Korycin,groszek_pl,,unknown,Groszek
+Przebród,groszek_pl,,unknown,Groszek
+Białystok,groszek_pl,,unknown,Groszek
+Suwałki,groszek_pl,,unknown,Groszek
+Krynki,groszek_pl,,unknown,Groszek
+Lipsk,groszek_pl,,unknown,Groszek
+Olmonty,groszek_pl,,unknown,Groszek
+Tykocin,groszek_pl,,unknown,Groszek
+Hajnówka,groszek_pl,,unknown,Groszek
+Sidra,groszek_pl,,unknown,Groszek
+Łomża,groszek_pl,,unknown,Groszek
+Łapy,groszek_pl,,unknown,Groszek
+Obrubniki,groszek_pl,,unknown,Groszek
+Kolno,groszek_pl,,unknown,Groszek
+Kizielany,groszek_pl,,unknown,Groszek
+Kalinówka Kościelna,groszek_pl,,unknown,Groszek
+Cisów,groszek_pl,,unknown,Groszek
+Wasilków,groszek_pl,,unknown,Groszek
+Studzianki,groszek_pl,,unknown,Groszek
+Krasnopol,groszek_pl,,unknown,Groszek
+Nurzec-Stacja,groszek_pl,,unknown,Groszek
+Sokółka,groszek_pl,,unknown,Groszek
+Przerośl,groszek_pl,,unknown,Groszek
+Wólka,groszek_pl,,unknown,Groszek
+Dąbrowa Białostocka,groszek_pl,,unknown,Groszek
+Wilanowo,groszek_pl,,unknown,Groszek
+Letniki,groszek_pl,,unknown,Groszek
+Czarna Białostocka,groszek_pl,,unknown,Groszek
+Stanisławowo,groszek_pl,,unknown,Groszek
+Wizna,groszek_pl,,unknown,Groszek
+Zabłudów,groszek_pl,,unknown,Groszek
+Krypno,groszek_pl,,unknown,Groszek
+Białystok,itaka_pl,,unknown,ITAKA BIAŁYSTOK
+Suwałki,itaka_pl,,unknown,ITAKA SUWAŁKI
+Białystok,mcdonalds_pl,,unknown,McDonald's
+Łomża,mcdonalds_pl,,unknown,McDonald's
+Suwałki,mcdonalds_pl,,unknown,McDonald's
+Augustów,mcdonalds_pl,,unknown,McDonald's
+Bielsk Podlaski,mcdonalds_pl,,unknown,McDonald's
+Zambrów,mcdonalds_pl,,unknown,McDonald's
+Białystok,mercedes_benz,,unknown,Auto Idea Sp. z o.o.
+Augustów,paczkomat_inpost_pl,,unknown,LEWIATAN (WEJ. OD REGRODZKIEJ)
+Bakałarzewo,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Barszczewo,paczkomat_inpost_pl,,unknown,przy sklepie spożywczym
+Boćki,paczkomat_inpost_pl,,unknown,Naprzeciwko wejścia do sklepu
+Białystok,paczkomat_inpost_pl,,unknown,HAPPY PACK - SKLEP WIELOBRANŻOWY
+Biebrza,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Białobrzegi,paczkomat_inpost_pl,,unknown,przy sklepie Korona
+Bielsk Podlaski,paczkomat_inpost_pl,,unknown,EPAKA
+Brończany,paczkomat_inpost_pl,,unknown,"Przy sklepie spożywczym, po lewej stronie budynku"
+Brańsk,paczkomat_inpost_pl,,unknown,Po lewej stronie budynku
+Bargłów Kościelny,paczkomat_inpost_pl,,unknown,STACJA PALIW
+Białowieża,paczkomat_inpost_pl,,unknown,STACJA PALIW ORLEN
+Czarna Białostocka,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Ciechanowiec,paczkomat_inpost_pl,,unknown,przy sklepie spożywczym
+Choroszcz,paczkomat_inpost_pl,,unknown,PRO-TECH
+Czeremcha,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Czarna Wieś Kościelna,paczkomat_inpost_pl,,unknown,przy sklepie spożywczym
+Czyżew,paczkomat_inpost_pl,,unknown,LEWIATAN
+Czyże,paczkomat_inpost_pl,,unknown,parking przed Urzędem
+Dąbrowa Białostocka,paczkomat_inpost_pl,,unknown,SKLEP KOMPUTEROWY
+Dubicze Cerkiewne,paczkomat_inpost_pl,,unknown,Przy Ośrodku Zdrowia
+Dziadkowice,paczkomat_inpost_pl,,unknown,Na parkingu przed sklepem Arhelan
+Dobrzyniewo Duże,paczkomat_inpost_pl,,unknown,przy Pizzerii Biesiadowo
+Dobrzyniewo Fabryczne,paczkomat_inpost_pl,,unknown,przy sklepie  Chorten
+Dobrzyniewo Kościelne,paczkomat_inpost_pl,,unknown,Sklep z akcesoriami
+Dobrzyniówka,paczkomat_inpost_pl,,unknown,biuro SM Krokus
+Drohiczyn,paczkomat_inpost_pl,,unknown,parking przed sklepem
+Dubiny,paczkomat_inpost_pl,,unknown,parking przed sklepem
+Faszcze,paczkomat_inpost_pl,,unknown,Przy stacji benzynowej
+Filipów,paczkomat_inpost_pl,,unknown,przy sklepie Lewiatan
+Fasty,paczkomat_inpost_pl,,unknown,Zajazd Boghan
+Grabówka,paczkomat_inpost_pl,,unknown,LEWIATAN 
+Goniądz,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Grodzisk,paczkomat_inpost_pl,,unknown,przy remizie OSP
+Grajewo,paczkomat_inpost_pl,,unknown,HAPPY PACK - CHORTEN
+Koszarówka,paczkomat_inpost_pl,,unknown,Przy markecie Intermarche
+Gródek,paczkomat_inpost_pl,,unknown,sklep spożywczy Łasuch
+Grabowo,paczkomat_inpost_pl,,unknown,przy stacji paliw
+Grądy-Woniecko,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Hajnówka,paczkomat_inpost_pl,,unknown,PAKERSI HAJNÓWKA
+Horodniany,paczkomat_inpost_pl,,unknown,Przy budynku hurtowni
+Ignatki,paczkomat_inpost_pl,,unknown,Przy sklepie mięsnym
+Ignatki-Osiedle,paczkomat_inpost_pl,,unknown,Przy szkole językowej
+Jaświły,paczkomat_inpost_pl,,unknown,przy sklepie Lewiatan
+Jabłoń Kościelna,paczkomat_inpost_pl,,unknown,przy Top Markecie
+Juchnowiec Kościelny,paczkomat_inpost_pl,,unknown,przy sklepie mięsnym
+Jedwabne,paczkomat_inpost_pl,,unknown,Market Dino
+Jeleniewo,paczkomat_inpost_pl,,unknown,przy sklepie Lewiatan
+Janów,paczkomat_inpost_pl,,unknown,Przy ścianie po lewej stronie budynku
+Jasionówka,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Kobylin-Borzymy,paczkomat_inpost_pl,,unknown,przy Aptece DOZ
+Księżyno,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Krypno Kościelne,paczkomat_inpost_pl,,unknown,przy Sklepie TopMarket
+Kulesze Kościelne,paczkomat_inpost_pl,,unknown,Market Dino
+Kleosin,paczkomat_inpost_pl,,unknown,Przy pawilonie handlowym
+Klepacze,paczkomat_inpost_pl,,unknown,przed remiża po prawej stronie
+Kolno,paczkomat_inpost_pl,,unknown,SKLEP BIT
+Knyszyn,paczkomat_inpost_pl,,unknown,przy sklepie arhelan
+Konarzyce,paczkomat_inpost_pl,,unknown,Market Dino
+Kuriany,paczkomat_inpost_pl,,unknown,Przy ścianie po lewej stronie sklepu
+Kleszczele,paczkomat_inpost_pl,,unknown,Naprzeciwko parkingu z tyłu budynku
+Kuźnica,paczkomat_inpost_pl,,unknown,Przy ścianie sklepu po prawej stronie budynku
+Klukowo,paczkomat_inpost_pl,,unknown,Parking Delikatesów Centrum
+Korycin,paczkomat_inpost_pl,,unknown,przy Stacji Paliw
+Krynki,paczkomat_inpost_pl,,unknown,"Stacja Paliw ""Rolnik"""
+Łapy,paczkomat_inpost_pl,,unknown,SHIP CENTER
+Ławsk,paczkomat_inpost_pl,,unknown,przy sklepie Kapi
+Lewkowo Stare,paczkomat_inpost_pl,,unknown,parking przed OSP
+Łomża,paczkomat_inpost_pl,,unknown,PUNKT UBEZPIECZENIOWO-KREDYTOWY
+Lipsk,paczkomat_inpost_pl,,unknown,LEWIATAN
+Łyski,paczkomat_inpost_pl,,unknown,posesja prywatna
+Mały Płock,paczkomat_inpost_pl,,unknown,przy sklepie ABC
+Michałowo,paczkomat_inpost_pl,,unknown,Prawa ściana budynku
+Mielnik,paczkomat_inpost_pl,,unknown,Za budynkiem władz gminy
+Milejczyce,paczkomat_inpost_pl,,unknown,przy sklepie Arhelan
+Mońki,paczkomat_inpost_pl,,unknown,SHIP CENTER MOŃKI
+Miastkowo,paczkomat_inpost_pl,,unknown,Przy Motelu
+Niećkowo,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Narew,paczkomat_inpost_pl,,unknown,Przy sklepie Arhelan
+Niewodnica Korycka,paczkomat_inpost_pl,,unknown,przy Sklepie Chorten
+Nowinka,paczkomat_inpost_pl,,unknown,przy sklepie spożywczym
+Narewka,paczkomat_inpost_pl,,unknown,Przy sklepie Arhelan
+Nurzec-Stacja,paczkomat_inpost_pl,,unknown,Przy Urzędzie Gminy
+Nowodworce,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Nowogród,paczkomat_inpost_pl,,unknown,przy sklepie Prim
+Nowy Dwór,paczkomat_inpost_pl,,unknown,przy Top Markecie
+Ogrodniczki,paczkomat_inpost_pl,,unknown,"Przed budynkiem sklepu ""Chorten"""
+Olmonty,paczkomat_inpost_pl,,unknown,posesja prywatna
+Orla,paczkomat_inpost_pl,,unknown,przy Sklepie Arhelan
+Pawły,paczkomat_inpost_pl,,unknown,z boku sklepu
+Poddubówek,paczkomat_inpost_pl,,unknown,na Stacji Moya
+Perlejewo,paczkomat_inpost_pl,,unknown,parking
+Piekuty-Urbany,paczkomat_inpost_pl,,unknown,Market Dino
+Płaska,paczkomat_inpost_pl,,unknown,przy sklepie spożywczym
+Porosły,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym Agat
+Pniewo,paczkomat_inpost_pl,,unknown,przy sklepie Lewiatan
+Puńsk,paczkomat_inpost_pl,,unknown,przy Sklepie GS
+Pogorzałki,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Białystok ,paczkomat_inpost_pl,,unknown,BIMBEER AGNIESZKA OKSIEJCZUK
+Bielsk Podlaski ,paczkomat_inpost_pl,,unknown,STACJA CIRCLE K
+Czarna Białostocka ,paczkomat_inpost_pl,,unknown,BIMBEER
+Łomża ,paczkomat_inpost_pl,,unknown,PAKERSI
+Michałowo ,paczkomat_inpost_pl,,unknown,KSZERE CENTRUM
+Mońki ,paczkomat_inpost_pl,,unknown,EPAKA
+Raczki,paczkomat_inpost_pl,,unknown,prz sklepie GS
+Radziłów,paczkomat_inpost_pl,,unknown,przy Top Markecie
+Szepietowo,paczkomat_inpost_pl,,unknown,przy Auchan
+Sejny,paczkomat_inpost_pl,,unknown,przy sklepie narzędziowym u Józefa
+Siemiatycze ,paczkomat_inpost_pl,,unknown,MARPHONE
+Sokółka,paczkomat_inpost_pl,,unknown,przy sklepie spożywczym
+Sokoły,paczkomat_inpost_pl,,unknown,Przy sklepie Prim
+Suwałki,paczkomat_inpost_pl,,unknown,przy Aldi
+Suwałki ,paczkomat_inpost_pl,,unknown,HAPPY PACK PLANETA PIZZY
+Sztabin,paczkomat_inpost_pl,,unknown,przy sklepie Lewiatan
+Wysokie Mazowieckie,paczkomat_inpost_pl,,unknown,Zakład Handlowo – Produkcyjny Stanisław Zgierun
+Wysokie Mazowieckie ,paczkomat_inpost_pl,,unknown,PIZZERIA DRAGON
+Wąsosz,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Zabłudów,paczkomat_inpost_pl,,unknown,przy sklepie Lewiatan
+Zambrów,paczkomat_inpost_pl,,unknown,Przy centrum handlowym Gregorek
+Piątnica Poduchowna,paczkomat_inpost_pl,,unknown,przy sklepie Prim
+Poświętne,paczkomat_inpost_pl,,unknown,"Przy sklepie spożywczym, od strony parkingu"
+Przerośl,paczkomat_inpost_pl,,unknown,przy Urzędzie Gminy
+Płonka Kościelna,paczkomat_inpost_pl,,unknown,przy sklepie Gama
+Przytuły,paczkomat_inpost_pl,,unknown,Market Dino
+Rajgród,paczkomat_inpost_pl,,unknown,przy Arhelanie
+Rudka,paczkomat_inpost_pl,,unknown,Market Dino
+Rutka-Tartak,paczkomat_inpost_pl,,unknown,przy sklepie Majster
+Rutki-Kossaki,paczkomat_inpost_pl,,unknown,Sklep spożywczy Chorten
+Stawiski,paczkomat_inpost_pl,,unknown,Market Dino
+Szczuczyn,paczkomat_inpost_pl,,unknown,Restauracja Biesiadna
+Sidra,paczkomat_inpost_pl,,unknown,posesja prywatna
+Śródlesie,paczkomat_inpost_pl,,unknown,Po prawej stronie działki przy płocie
+Sochonie,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Siemiatycze,paczkomat_inpost_pl,,unknown,Parking przed biurem rachunkowym
+Szumowo,paczkomat_inpost_pl,,unknown,Market Dino
+Śniadowo,paczkomat_inpost_pl,,unknown,Market Dino
+Sobolewo,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Supraśl,paczkomat_inpost_pl,,unknown,Przy Delikatesach Centrum
+Suchowola,paczkomat_inpost_pl,,unknown,parkin sklepuChorten
+Stare Kupiski,paczkomat_inpost_pl,,unknown,przy Sali Gracja
+Szudziałowo,paczkomat_inpost_pl,,unknown,posesja prywatna
+Szypliszki,paczkomat_inpost_pl,,unknown,przy Sklepie DC
+Turośń Kościelna,paczkomat_inpost_pl,,unknown,przy sklepie Top Market
+Tykocin,paczkomat_inpost_pl,,unknown,przy sklepie Lewiatan
+Trypucie,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Turośl,paczkomat_inpost_pl,,unknown,Market Dino
+Trzcianne,paczkomat_inpost_pl,,unknown,przy sklepie Chorten
+Uhowo,paczkomat_inpost_pl,,unknown,Obok sklepu spożywczego
+Wasilków,paczkomat_inpost_pl,,unknown,przy hurtowni motoryzacyjnej Gordon
+Wierzchlesie,paczkomat_inpost_pl,,unknown,przy sklepie Top Market
+Wiżajny,paczkomat_inpost_pl,,unknown,przy sklepie Lewiatan
+Wygoda,paczkomat_inpost_pl,,unknown,przy stacji paliw
+Wyszki,paczkomat_inpost_pl,,unknown,parking Urzędu Gminy
+Wizna,paczkomat_inpost_pl,,unknown,Market Dino
+Studzianki,paczkomat_inpost_pl,,unknown,przy sklepie spożywczym
+Giby,paczkomat_inpost_pl,,unknown,przy Circle K
+Kołaki Kościelne,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Ruda,paczkomat_inpost_pl,,unknown,przy sklepie odido
+Krupniki,paczkomat_inpost_pl,,unknown,"Parking sklepu ""Chorten"""
+Krasnopol,paczkomat_inpost_pl,,unknown,Przed budynkiem apteki
+Stanisławowo,paczkomat_inpost_pl,,unknown,przy Markecie Rodzinnym
+Suraż,paczkomat_inpost_pl,,unknown,posesja prywatna
+Zbójna,paczkomat_inpost_pl,,unknown,przy sklepie ABC
+Złotoria,paczkomat_inpost_pl,,unknown,przy OSP
+Zaścianki,paczkomat_inpost_pl,,unknown,Po prawej stronie wjazdu na plac
+Zawady,paczkomat_inpost_pl,,unknown,przy sklepie spożywczym
+Białystok,pizzeria_105_pl,,unknown,Pizzeria 105
+Wysokie Mazowieckie,play_pl,Ul. im. Józefa Piłsudskiego 81B,unknown,Salon Play
+Łapy,play_pl,Pl. Niepodległości 2,unknown,Stoisko Play
+Kolno,play_pl,Ul. Wojska Polskiego 24,unknown,Stoisko Play
+Mońki,play_pl,Al. Niepodległości 2A/10,unknown,Stoisko Play
+Zambrów,play_pl,Ul. Świętokrzyska 11,unknown,Salon Play
+Hajnówka,play_pl,Ul. Stefana Batorego 16,unknown,Salon Play
+Białystok,play_pl,Ul. Hetmańska 16,unknown,Salon Play
+Białystok,play_pl,Ul. Jurowiecka 1,unknown,Salon Play
+Bielsk Podlaski,play_pl,Ul. Adama Mickiewicza 60/4,unknown,Salon Play
+Grajewo,play_pl,Ul. Ełcka 26A,unknown,Salon Play
+Sejny,play_pl,Ul. Józefa Piłsudskiego 9,unknown,Salon Play
+Siemiatycze,play_pl,Ul. Plac Jana Pawła II 35,unknown,Salon Play
+Sokółka,play_pl,Ul. Grodzieńska 17,unknown,Salon Play
+Białystok,play_pl,Ul. Produkcyjna 84,unknown,Salon Play
+Białystok,play_pl,Ul. Wrocławska 20,unknown,Salon Play
+Suwałki,play_pl,Ul. Dwernickiego 15,unknown,Salon Play
+Białystok,play_pl,Ul. Miłosza 2,unknown,Salon Play
+Łomża,play_pl,Ul. Zawadzka 38,unknown,Salon Play
+Suwałki,play_pl,Ul. Kościuszki 103,unknown,Salon Play
+Białystok,play_pl,Ul. Legionowa 9/1,unknown,Salon Play
+Augustów,play_pl,Ul. Rynek Zygmunta Augusta 33,unknown,Salon Play
+Augustów,poczta_polska_pl,,unknown,FUP Augustów 1
+Bakałarzewo,poczta_polska_pl,,unknown,FUP Suwałki 1
+Bargłów Kościelny,poczta_polska_pl,,unknown,FUP Augustów 1
+Barszczewo,poczta_polska_pl,,unknown,AP Barszczewo
+Berżniki,poczta_polska_pl,,unknown,AP Berżniki
+Białaszewo,poczta_polska_pl,,unknown,AP Białaszewo
+Białobrzegi,poczta_polska_pl,,unknown,AP Białobrzegi
+Białowieża,poczta_polska_pl,,unknown,FUP Hajnówka
+Białystok,poczta_polska_pl,,unknown,AP Białystok
+Biebrza,poczta_polska_pl,,unknown,AP Biebrza
+Bielsk Podlaski,poczta_polska_pl,,unknown,FUP Bielsk Podlaski 1
+Boćki,poczta_polska_pl,,unknown,FUP Bielsk Podlaski 1
+Boguszewo,poczta_polska_pl,,unknown,AP Boguszewo
+Bondary,poczta_polska_pl,,unknown,AP Bondary
+Brańsk,poczta_polska_pl,,unknown,UP Brańsk
+Brulino-Piwki,poczta_polska_pl,,unknown,AP Brulino-Koski
+Choroszcz,poczta_polska_pl,,unknown,UP Choroszcz
+Chraboły,poczta_polska_pl,,unknown,AP Chraboły
+Ciechanowiec,poczta_polska_pl,,unknown,UP Ciechanowiec
+Czaje,poczta_polska_pl,,unknown,AP Czaje
+Czarna Białostocka,poczta_polska_pl,,unknown,AP Czarna Białostocka
+Czarna Wieś Kościelna,poczta_polska_pl,,unknown,AP Czarna Wieś Kościelna
+Czartajew,poczta_polska_pl,,unknown,AP Czartajew
+Czeremcha,poczta_polska_pl,,unknown,FUP Kleszczele
+Czerwone,poczta_polska_pl,,unknown,AP Czerwone
+Czyże,poczta_polska_pl,,unknown,AP Czyże
+Czyżew,poczta_polska_pl,,unknown,FUP Wysokie Mazowieckie
+Dąbrowa Białostocka,poczta_polska_pl,,unknown,AP Dąbrowa Białostocka
+Dąbrowa-Kaski,poczta_polska_pl,,unknown,AP Dąbrowa-Kaski
+Dobry Las,poczta_polska_pl,,unknown,AP Dobry Las
+Dobrzyjałowo,poczta_polska_pl,,unknown,AP Dobrzyjałowo
+Dobrzyniewo Duże,poczta_polska_pl,,unknown,FUP Białystok 2
+Dobrzyniówka,poczta_polska_pl,,unknown,AP Dobrzyniówka
+Doktorce,poczta_polska_pl,,unknown,AP Doktorce
+Dolistowo Nowe,poczta_polska_pl,,unknown,AP Dolistowo Nowe
+Dołubowo,poczta_polska_pl,,unknown,AP Dołubowo
+Domanowo,poczta_polska_pl,,unknown,AP Domanowo
+Drohiczyn,poczta_polska_pl,,unknown,FUP Siemiatycze
+Drozdowo,poczta_polska_pl,,unknown,AP Drozdowo
+Dubicze Cerkiewne,poczta_polska_pl,,unknown,AP Dubicze Cerkiewne
+Dziemianówka,poczta_polska_pl,,unknown,AP Dziemianówka
+Dzierzbia,poczta_polska_pl,,unknown,AP Dzierzbia
+Filipów,poczta_polska_pl,,unknown,UP Filipów
+Folwarki Tylwickie,poczta_polska_pl,,unknown,AP Folwarki Tylwickie
+Garbas Drugi,poczta_polska_pl,,unknown,AP Garbas Drugi
+Goniądz,poczta_polska_pl,,unknown,FUP Mońki
+Grabowo,poczta_polska_pl,,unknown,FUP Stawiski
+Grajewo,poczta_polska_pl,,unknown,AP Grajewo
+Grodzisk,poczta_polska_pl,,unknown,UP Grodzisk
+Gródek,poczta_polska_pl,,unknown,UP Gródek
+Hajnówka,poczta_polska_pl,,unknown,AP Hajnówka
+Hodyszewo,poczta_polska_pl,,unknown,AP Hodyszewo
+Ignatowizna,poczta_polska_pl,,unknown,AP Ignatowizna
+Jabłonka Kościelna,poczta_polska_pl,,unknown,AP Jabłonka Kościelna
+Jałówka,poczta_polska_pl,,unknown,AP Jałówka
+Jaminy,poczta_polska_pl,,unknown,AP Jaminy
+Janów,poczta_polska_pl,,unknown,FUP Suchowola
+Janówka,poczta_polska_pl,,unknown,AP Janówka
+Jasionówka,poczta_polska_pl,,unknown,FUP Mońki
+Jaświły,poczta_polska_pl,,unknown,FUP Mońki
+Jedwabne,poczta_polska_pl,,unknown,UP Jedwabne
+Jeleniewo,poczta_polska_pl,,unknown,FUP Suwałki 1
+Juchnowiec Kościelny,poczta_polska_pl,,unknown,FUP Kleosin
+Juszkowy Gród,poczta_polska_pl,,unknown,AP Juszkowy Gród
+Kalinowo,poczta_polska_pl,,unknown,AP Kalinowo
+Kędziorowo,poczta_polska_pl,,unknown,AP Kędziorowo
+Kleosin,poczta_polska_pl,,unknown,UP Kleosin
+Kleszczele,poczta_polska_pl,,unknown,UP Kleszczele
+Klimaszewnica,poczta_polska_pl,,unknown,AP Klimaszewnica
+Klukowicze,poczta_polska_pl,,unknown,AP Klukowicze
+Klukowo,poczta_polska_pl,,unknown,FUP Ciechanowiec
+Kłopoty-Stanisławy,poczta_polska_pl,,unknown,AP Kłopoty-Stanisławy
+Knyszyn,poczta_polska_pl,,unknown,UP Knyszyn
+Kobylin-Borzymy,poczta_polska_pl,,unknown,FUP Sokoły
+Kolno,poczta_polska_pl,,unknown,FUP Kolno
+Kołaki Kościelne,poczta_polska_pl,,unknown,FUP Zambrów 1
+Korycin,poczta_polska_pl,,unknown,FUP Suchowola
+Korzeniste,poczta_polska_pl,,unknown,AP Korzeniste
+Koszarówka,poczta_polska_pl,,unknown,AP Koszarówka
+Krasnopol,poczta_polska_pl,,unknown,FUP Sejny
+Krasnybór,poczta_polska_pl,,unknown,AP Krasnybór
+Krynki,poczta_polska_pl,,unknown,FUP Sokółka
+Krypno Kościelne,poczta_polska_pl,,unknown,FUP Knyszyn
+Krzyżewo,poczta_polska_pl,,unknown,AP Krzyżewo
+Kulesze Kościelne,poczta_polska_pl,,unknown,FUP Wysokie Mazowieckie
+Kuźnica,poczta_polska_pl,,unknown,FUP Sokółka
+Leman,poczta_polska_pl,,unknown,AP Leman
+Leszczka Duża,poczta_polska_pl,,unknown,AP Leszczka Duża
+Lipsk,poczta_polska_pl,,unknown,UP Lipsk
+Liza Stara,poczta_polska_pl,,unknown,AP Liza Stara
+Łapy,poczta_polska_pl,,unknown,FUP Łapy
+Ławsk,poczta_polska_pl,,unknown,AP Ławsk
+Łomża,poczta_polska_pl,,unknown,AP Łomża
+Łosinka,poczta_polska_pl,,unknown,AP Łosinka
+Łubin Kościelny,poczta_polska_pl,,unknown,AP Łubin Kościelny
+Łupianka Stara,poczta_polska_pl,,unknown,AP Łupianka Stara
+Maćkowa Ruda,poczta_polska_pl,,unknown,AP Maćkowa Ruda
+Mały Płock,poczta_polska_pl,,unknown,FUP Kolno
+Miastkowo,poczta_polska_pl,,unknown,FUP Zbójna
+Michałowo,poczta_polska_pl,,unknown,FUP Gródek
+Mielnik,poczta_polska_pl,,unknown,FUP Siemiatycze
+Milejczyce,poczta_polska_pl,,unknown,FUP Siemiatycze
+Mogilnice,poczta_polska_pl,,unknown,AP Mogilnice
+Mołowiste,poczta_polska_pl,,unknown,AP Mołowiste
+Mońki,poczta_polska_pl,,unknown,FUP Mońki
+Mścichy,poczta_polska_pl,,unknown,AP Mścichy
+Narew,poczta_polska_pl,,unknown,FUP Hajnówka
+Narewka,poczta_polska_pl,,unknown,FUP Hajnówka
+Niećkowo,poczta_polska_pl,,unknown,AP Niećkowo
+Niksowizna,poczta_polska_pl,,unknown,AP Niksowizna
+Nowa Pawłówka,poczta_polska_pl,,unknown,AP Nowa Pawłówka
+Nowe Leśne Bohatery,poczta_polska_pl,,unknown,AP Nowe Leśne Bohatery
+Nowe Piekuty,poczta_polska_pl,,unknown,FUP Sokoły
+Nowinka,poczta_polska_pl,,unknown,FUP Augustów 1
+Nowodwory,poczta_polska_pl,,unknown,AP Nowodwory
+Nowogród,poczta_polska_pl,,unknown,FUP Zbójna
+Nowy Dwór,poczta_polska_pl,,unknown,FUP Dąbrowa Białostocka
+Nurzec-Stacja,poczta_polska_pl,,unknown,FUP Siemiatycze
+Olszyny,poczta_polska_pl,,unknown,AP Olszyny
+Orla,poczta_polska_pl,,unknown,FUP Bielsk Podlaski 1
+Orzeszkowo,poczta_polska_pl,,unknown,AP Orzeszkowo
+Osipy-Kolonia,poczta_polska_pl,,unknown,AP Osipy-Kolonia
+Ostra Góra,poczta_polska_pl,,unknown,AP Ostra Góra
+Patoki,poczta_polska_pl,,unknown,AP Patoki
+Perlejewo,poczta_polska_pl,,unknown,FUP Grodzisk
+Piątnica Poduchowna,poczta_polska_pl,,unknown,FUP Łomża 1
+Płaska,poczta_polska_pl,,unknown,FUP Augustów 1
+Pobikry,poczta_polska_pl,,unknown,AP Pobikry
+Poddubówek,poczta_polska_pl,,unknown,AP Poddubówek
+Pogorzałki,poczta_polska_pl,,unknown,AP Pogorzałki
+Pogorzelec,poczta_polska_pl,,unknown,AP Pogorzelec
+Pokośno,poczta_polska_pl,,unknown,AP Pokośno
+Poryte,poczta_polska_pl,,unknown,AP Poryte
+Poryte-Jabłoń,poczta_polska_pl,,unknown,AP Poryte-Jabłoń
+Poświętne,poczta_polska_pl,,unknown,FUP Łapy
+Przerośl,poczta_polska_pl,,unknown,FUP Suwałki 1
+Przesławka,poczta_polska_pl,,unknown,AP Przesławka
+Przybyszyn,poczta_polska_pl,,unknown,AP Przybyszyn
+Przytuły,poczta_polska_pl,,unknown,FUP Jedwabne
+Pulsze,poczta_polska_pl,,unknown,AP Pulsze
+Puńsk,poczta_polska_pl,,unknown,FUP Sejny
+Raczki,poczta_polska_pl,,unknown,FUP Suwałki 1
+Radziłów,poczta_polska_pl,,unknown,FUP Szczuczyn
+Rajgród,poczta_polska_pl,,unknown,AP Rajgród
+Rosochate Kościelne,poczta_polska_pl,,unknown,AP Rosochate Kościelne
+Rudawka,poczta_polska_pl,,unknown,AP Rudawka
+Rudka,poczta_polska_pl,,unknown,AP Rudka
+Rutka-Tartak,poczta_polska_pl,,unknown,UP Rutka-Tartak
+Rutki-Kossaki,poczta_polska_pl,,unknown,FUP Zambrów 1
+Sejny,poczta_polska_pl,,unknown,UP Sejny
+Sidra,poczta_polska_pl,,unknown,FUP Dąbrowa Białostocka
+Siemiatycze,poczta_polska_pl,,unknown,FUP Siemiatycze
+Siemiatycze-Stacja,poczta_polska_pl,,unknown,AP Siemiatycze-Stacja
+Sobolewo,poczta_polska_pl,,unknown,FUP Białystok 8
+Sokoły,poczta_polska_pl,,unknown,UP Sokoły
+Sokółka,poczta_polska_pl,,unknown,UP Sokółka
+Srebrna,poczta_polska_pl,,unknown,AP Srebrna
+Stara Kamionka,poczta_polska_pl,,unknown,AP Stara Kamionka
+Stara Rozedranka,poczta_polska_pl,,unknown,AP Stara Rozedranka
+Stare Bożejewo,poczta_polska_pl,,unknown,AP Stare Bożejewo
+Stary Kornin,poczta_polska_pl,,unknown,AP Stary Kornin
+Stawiski,poczta_polska_pl,,unknown,UP Stawiski
+Suchowola,poczta_polska_pl,,unknown,UP Suchowola
+Supraśl,poczta_polska_pl,,unknown,UP Supraśl
+Surały,poczta_polska_pl,,unknown,AP Surały
+Suraż,poczta_polska_pl,,unknown,FUP Łapy
+Suwałki,poczta_polska_pl,,unknown,FUP Suwałki 1
+Szczuczyn,poczta_polska_pl,,unknown,UP Szczuczyn
+Szepietowo,poczta_polska_pl,,unknown,FUP Wysokie Mazowieckie
+Szepietowo-Żaki,poczta_polska_pl,,unknown,AP Szepietowo-Żaki
+Sztabin,poczta_polska_pl,,unknown,UP Sztabin
+Szudziałowo,poczta_polska_pl,,unknown,AP Szudziałowo
+Szumowo,poczta_polska_pl,,unknown,FUP Zambrów 1
+Szymki,poczta_polska_pl,,unknown,AP Szymki
+Szypliszki,poczta_polska_pl,,unknown,FUP Rutka-Tartak
+Śniadowo,poczta_polska_pl,,unknown,FUP Łomża 1
+Tabędz,poczta_polska_pl,,unknown,AP Tabędz
+Tajno Stare,poczta_polska_pl,,unknown,AP Tajno Stare
+Tarnopol,poczta_polska_pl,,unknown,AP Tarnopol
+Topiłówka,poczta_polska_pl,,unknown,AP Topiłówka
+Trypucie,poczta_polska_pl,,unknown,AP Trypucie
+Trzcianne,poczta_polska_pl,,unknown,FUP Mońki
+Trześcianka,poczta_polska_pl,,unknown,AP Trześcianka
+Turośl,poczta_polska_pl,,unknown,FUP Kolno
+Turośń Kościelna,poczta_polska_pl,,unknown,FUP Łapy
+Tykocin,poczta_polska_pl,,unknown,UP Tykocin
+Wasilków,poczta_polska_pl,,unknown,UP Wasilków
+Wąsosz,poczta_polska_pl,,unknown,AP Wąsosz
+Wierciochy,poczta_polska_pl,,unknown,AP Wierciochy
+Wierzbowo,poczta_polska_pl,,unknown,AP Wierzbowo
+Wierzchlesie,poczta_polska_pl,,unknown,AP Wierzchlesie
+Wierzchuca Nagórna,poczta_polska_pl,,unknown,AP Wierzchuca Nagórna
+Wilanowo,poczta_polska_pl,,unknown,AP Wilanowo
+Wizna,poczta_polska_pl,,unknown,FUP Jedwabne
+Wiżajny,poczta_polska_pl,,unknown,FUP Rutka-Tartak
+Wojny-Pietrasze,poczta_polska_pl,,unknown,AP Wojny-Pietrasze
+Woźnawieś,poczta_polska_pl,,unknown,AP Woźnawieś
+Wólka,poczta_polska_pl,,unknown,AP Wólka
+Wygoda,poczta_polska_pl,,unknown,AP Wygoda
+Wysokie Mazowieckie,poczta_polska_pl,,unknown,AP Wysokie Mazowieckie
+Wyszki,poczta_polska_pl,,unknown,AP Wyszki
+Zabłudów,poczta_polska_pl,,unknown,UP Zabłudów
+Zajęczniki,poczta_polska_pl,,unknown,AP Zajęczniki
+Zambrów,poczta_polska_pl,,unknown,UP Zambrów 1
+Zawady,poczta_polska_pl,,unknown,FUP Tykocin
+Zbójna,poczta_polska_pl,,unknown,UP Zbójna
+Złotoria,poczta_polska_pl,,unknown,AP Złotoria
+Zwierzyniec Wielki,poczta_polska_pl,,unknown,AP Zwierzyniec Wielki
+Żelechy,poczta_polska_pl,,unknown,AP Żelechy
+Żurobice,poczta_polska_pl,,unknown,AP Żurobice
+Zambrów,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Suwałki,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Białystok,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Augustów,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Biała Podlaska,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Augustów,tui,Wojska Polskiego 6/3a1,unknown,Holiday Market Józefa Brzozowska
+Białystok,tui,ul. Czesława Miłosza 2 CH Atrium Biała parter,unknown,TUI CH Atrium Biała
+Białystok,tui,Piasta 5 lok. 3 ,unknown,BIURO PARTNERSKIE TUI: Lex Travel
+Białystok,tui,ul. Św. Mikołaja 1/1,unknown,24 Holiday
+Białystok,tui,ul. Świętojańska 15/51,unknown,24 Holiday
+Białystok,tui,ul.  Al. Piłsudskiego 32,unknown,123 wakacje Biuro Podróży
+Białystok,tui,ul. Al. 1000-lecia P.P. 8,unknown,Let's Go Holiday
+Białystok,tui,ul. Jurowiecka 1,unknown,"TUI Galeria Jurowiecka (piętro -1, lok.41)"
+Bielsk Podlaski,tui,Kazimierzowska 1a/12,unknown,Biuro Podróży AKWILON
+Suwałki,tui,ul. Utrata 2c/16,unknown,Biuro Podróży DOROTA-TRAVEL
+Suwałki,tui,ul. Dwernickiego 15,unknown,A.T. Suwalszczyzna (C.H. PLAZA)
+Łomża,tui,uL. Farna 12,unknown,Biuro Podróży AVIAREST
+Łomża,tui,Al. Legionów 44,unknown,Biuro Podróży KING TRAVEL
+Łomża,tui,al. Pilsudskiego 14B/4,unknown,Dalax Holidays Sp. z o.o.
+DROHICZYN,visa,,unknown,unknown
+MIELNIK,visa,,unknown,unknown
+SIEMIATYCZE,visa,,unknown,unknown
+PERLEJEWO,visa,,unknown,unknown
+NURZEC STACJA,visa,,unknown,unknown
+GRODZISK,visa,,unknown,unknown
+CIECHANOWIEC,visa,,unknown,unknown
+BOGUTY,visa,,unknown,unknown
+DZIADKOWICE,visa,,unknown,unknown
+CZYŻEW,visa,,unknown,unknown
+KLUKOWO,visa,,unknown,unknown
+SZUMOWO,visa,,unknown,unknown
+ROSOCHATE KOŚCIELNE,visa,,unknown,unknown
+BOĆKI,visa,,unknown,unknown
+KLESZCZELE,visa,,unknown,unknown
+BRAŃSK,visa,,unknown,unknown
+ŚNIADOWO,visa,,unknown,unknown
+ZAMBROW,visa,,unknown,unknown
+SZEPIETOWO,visa,,unknown,unknown
+JABŁONKA KOŚCIELNA,visa,,unknown,unknown
+WYSOKIE MAZOWIECKIE,visa,,unknown,unknown
+NOWE PIEKUTY,visa,,unknown,unknown
+MIASTKOWO,visa,,unknown,unknown
+SZCZEPANKOWO,visa,,unknown,unknown
+ORLA,visa,,unknown,unknown
+BIELSK PODLASKI,visa,,unknown,unknown
+KOŁAKI KOŚCIELNE,visa,,unknown,unknown
+WYSZKI,visa,,unknown,unknown
+KULESZE KOŚCIELNE,visa,,unknown,unknown
+LOMZA,visa,,unknown,unknown
+ŁOMŻA,visa,,unknown,unknown
+ZBOJNA,visa,,unknown,unknown
+POŚWIĘTNE,visa,,unknown,unknown
+NOWOGROD,visa,,unknown,unknown
+RUTKI,visa,,unknown,unknown
+PIĄTNICA,visa,,unknown,unknown
+HAJNOWKA,visa,,unknown,unknown
+SURAŻ,visa,,unknown,unknown
+ŁAPY,visa,,unknown,unknown
+BIAŁOWIEŻA,visa,,unknown,unknown
+KOBYLIN BORZYMY,visa,,unknown,unknown
+TUROŚL,visa,,unknown,unknown
+MAŁY PŁOCK,visa,,unknown,unknown
+WIZNA,visa,,unknown,unknown
+TUROŚŃ KOŚCIELNA,visa,,unknown,unknown
+ZAWADY,visa,,unknown,unknown
+JUCHNOWIEC GORNY,visa,,unknown,unknown
+JEDWABNE,visa,,unknown,unknown
+KOLNO,visa,,unknown,unknown
+NAREWKA,visa,,unknown,unknown
+STAWISKI,visa,,unknown,unknown
+NAREW,visa,,unknown,unknown
+NIEWODNICA KORYCKA,visa,,unknown,unknown
+ZABŁUDOW,visa,,unknown,unknown
+KLEOSIN,visa,,unknown,unknown
+BIALYSTOK,visa,,unknown,unknown
+CHOROSZCZ,visa,,unknown,unknown
+BIAŁYSTOK,visa,,unknown,unknown
+PRZYTUŁY,visa,,unknown,unknown
+POROSLY,visa,,unknown,unknown
+LACHOWO,visa,,unknown,unknown
+GRABOWO,visa,,unknown,unknown
+RADZIŁOW,visa,,unknown,unknown
+KRYPNO WIELKIE,visa,,unknown,unknown
+TRZCIANNE,visa,,unknown,unknown
+WASILKOW,visa,,unknown,unknown
+KNYSZYN,visa,,unknown,unknown
+WĄSOSZ,visa,,unknown,unknown
+MOŃKI,visa,,unknown,unknown
+MONKI,visa,,unknown,unknown
+SZCZUCZYN,visa,,unknown,unknown
+CZARNA BIAŁOSTOCKA,visa,,unknown,unknown
+JASIONOWKA,visa,,unknown,unknown
+GONIĄDZ,visa,,unknown,unknown
+JAŚWIŁY,visa,,unknown,unknown
+GRAJEWO,visa,,unknown,unknown
+KORYCIN,visa,,unknown,unknown
+EŁK,visa,,unknown,unknown
+SZUDZIAŁOWO,visa,,unknown,unknown
+JANOW,visa,,unknown,unknown
+SOKOŁKA,visa,,unknown,unknown
+SOKOLKA,visa,,unknown,unknown
+SUCHOWOLA,visa,,unknown,unknown
+BARGŁOW KOSCIELNY,visa,,unknown,unknown
+RAJGROD,visa,,unknown,unknown
+SZTABIN,visa,,unknown,unknown
+KUŹNICA,visa,,unknown,unknown
+DABROWA BIALOSTOCKA,visa,,unknown,unknown
+DĄBROWA BIAŁOSTOCKA,visa,,unknown,unknown
+AUGUSTOW,visa,,unknown,unknown
+RACZKI,visa,,unknown,unknown
+FILIPOW,visa,,unknown,unknown
+SUWAŁKI,visa,,unknown,unknown
+SUWALKI,visa,,unknown,unknown
+GIBY,visa,,unknown,unknown
+SEJNY,visa,,unknown,unknown
+SZYPLISZKI,visa,,unknown,unknown
+PUŃSK,visa,,unknown,unknown
+RUTKA TARTAK,visa,,unknown,unknown
+WIŻAJNY,visa,,unknown,unknown
+Czyzew,western_union,,unknown,BS CZYZEW
+Perlejewo,western_union,,unknown,BANK SPOLDZIELCZY W CIECHANOWC
+Lomza,western_union,,unknown,INMEDIO
+Kolno,western_union,,unknown,BANK SPOLDZIELCZY W KOLNIE
+Ciechanowiec,western_union,,unknown,BANK SPOLDZIELCZY W CIECHANOWCU
+Maly Plock,western_union,,unknown,BANK SPOLDZIELCZY W KOLNIE
+Zambrow,western_union,,unknown,KANTOR ZLOTO LOMBARD MAREK BANKOWSKI
+Siemiatycze,western_union,,unknown,BANK SPOLDZIELCZY W SIEMIATYCZACH
+Mielnik,western_union,,unknown,BANK SPOLDZIELCZY W HAJNOWCE
+Klukowo,western_union,,unknown,BANK SPOLDZIELCZY W CIECHANOWC
+Wysokie Mazowieckie,western_union,,unknown,BANK SPOLDZIELCZY W WYSOKIEM M
+Rutki,western_union,,unknown,BANK SPOLDZIELCZY W ZAMBROWIE
+Nurzec Stacja,western_union,,unknown,BANK SPOLDZIELCZY W HAJNOWCE
+Bransk,western_union,,unknown,BS BRANSK
+Kobylin Borzymy,western_union,,unknown,BANK SPOLDZIELCZY W ZAMBROWIE
+Sokoly,western_union,,unknown,BANK SPOLDZIELCZY W SOKOLACH
+Bocki,western_union,,unknown,BS BRANSK O BOCKI
+Kleszczele,western_union,,unknown,BANK SPOLDZIELCZY W HAJNOWCE
+Wyszki,western_union,,unknown,BS BRANSK O WYSZKI
+Bielsk Podlaski,western_union,,unknown,BANK PEKAO SA
+Tykocin,western_union,,unknown,BS BIALYSTOK O  TYKOCIN
+Grajewo,western_union,,unknown,BANK PEKAO SA
+Lapy,western_union,,unknown,BANK SPOLDZIELCZY W LAPACH
+Fasty,western_union,,unknown,BS BIALYSTOK F NR 4
+Bialystok,western_union,,unknown,INMEDIO
+Dobrzyniewo,western_union,,unknown,BS BIALYSTOK O  DOBRZYNIEWO
+Choroszcz,western_union,,unknown,BS BIALYSTOK O  CHOROSZCZ
+Hajnowka,western_union,,unknown,BANK PEKAO SA
+Sokolka,western_union,,unknown,BANK PEKAO SA
+Grodek,western_union,,unknown,BS BIALYSTOK O  GRODEK
+Zabludow,western_union,,unknown,PODLASKO MAZURSKI BANK SPOLDZIELCZY W
+Przerosl,western_union,,unknown,BANK SPOLDZIELCZY W RUTCE TART
+Michalowo,western_union,,unknown,BS BIALYSTOK O  MICHALOWO
+Suwalki,western_union,,unknown,BANK PEKAO SA
+Augustow,western_union,,unknown,BIAL TUR SP ZOO BIURO TURYSTYC
+Narewka,western_union,,unknown,BS BRANSK O NAREWKA
+Suprasl,western_union,,unknown,BS BIALYSTOK O  SUPRASL
+Narew,western_union,,unknown,BANK SPOLDZELCZY W NARWI
+Raczki,western_union,,unknown,BANK SPOLDZIELCZY W RUTCE TART
+Zascianki,western_union,,unknown,BS BIALYSTOK O  ZASCIANKI
+Sejny,western_union,,unknown,BANK SPOLDZIELCZY W SEJNACH
+Krynki,western_union,,unknown,BS BIALYSTOK O  KRYNKI
+Bia?ystok,western_union,,unknown,BANK PEKAO SA
+Grodzisk,western_union,,unknown,BS BRANSK O GRODZISK
+Drohiczyn,western_union,,unknown,BANK SPOLDZIELCZY W SIEMIATYCZ
+Zawady,western_union,,unknown,BANK SPOLDZIELCZY W ZAMBROWIE

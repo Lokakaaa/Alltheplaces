@@ -1,0 +1,1123 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+UNKNOWN,alamo,Manta,1
+UNKNOWN,alamo,Quito,2
+UNKNOWN,alamo,Guayaquil,1
+UNKNOWN,alstom,unknown,1
+UNKNOWN,ashley_furniture,Cuenca,1
+UNKNOWN,ashley_furniture,Quito,1
+UNKNOWN,ashley_furniture,Guayaquil,1
+QUITO,avis,Quito,1
+MANTA,avis,Manta,1
+JOSEJOAQUINDEOLMEDO,avis,Guayaquil,1
+YLACASTELLANAMARISCALLAM,avis,Cuenca,1
+UNKNOWN,bmw_group,Quito,1
+UNKNOWN,bmw_group,Guayaquil,1
+GUAYAS,deloitte,Guayaquil,1
+PICHINCHA,deloitte,Quito,1
+UNKNOWN,enterprise,Guayaquil,1
+UNKNOWN,enterprise,Quito,2
+UNKNOWN,enterprise,Manta,1
+UNKNOWN,ernst_young,Guayaquil,1
+UNKNOWN,ernst_young,Quito,1
+PICHINCHA,fedex,Quito,7
+GUAYAS,fedex,Guayaquil,1
+AZUAY,fedex,Cuenca,1
+TUNGURAHUA,fedex,Ambato,2
+UNKNOWN,hilton,unknown,2
+PICHINCHA,hm,Quito,2
+GUAYAS,hm,Guayaquil,1
+09,hugo_boss,Quito,3
+13,hugo_boss,Guayaquil,1
+GALAPAGOS,ich_tanke_strom,Canton Isabela,1
+UNKNOWN,man_truck_and_bus,Cuenca,2
+UNKNOWN,man_truck_and_bus,Guayaquil,1
+UNKNOWN,man_truck_and_bus,Quito,1
+UNKNOWN,marriott,Guayaquil,2
+UNKNOWN,marriott,Cuenca,1
+UNKNOWN,marriott,Quito,1
+UNKNOWN,maserati,QUITO,1
+UNKNOWN,mcdonalds_latin_america,CUENCA,1
+UNKNOWN,mcdonalds_latin_america,QUITO,11
+UNKNOWN,mcdonalds_latin_america,MACHALA,1
+UNKNOWN,mcdonalds_latin_america,Quito,1
+UNKNOWN,mcdonalds_latin_america,DURAN,1
+UNKNOWN,mcdonalds_latin_america,GUAYAQUIL,11
+UNKNOWN,mcdonalds_latin_america,SAMBORONDON,1
+UNKNOWN,mcdonalds_latin_america,DAULE,1
+UNKNOWN,mcdonalds_latin_america,Guayaquil,1
+PICHINCHA,mercedes_benz,Quito,3
+QUITO,mercedes_benz,Quito,1
+AZUAY,mercedes_benz,Cuenca,1
+GUAYAS,mercedes_benz,Guayaquil,1
+UNKNOWN,michaelkors,Quito,2
+UNKNOWN,moneygram,EL CHACO,3
+UNKNOWN,moneygram,EL COCA,5
+UNKNOWN,moneygram,PUYO,19
+UNKNOWN,moneygram,SUCUA,6
+UNKNOWN,moneygram,NARANJAL,11
+UNKNOWN,moneygram,SANTA ISABEL,8
+UNKNOWN,moneygram,CAMILO PONCE ENRIQUEZ,5
+UNKNOWN,moneygram,MILAGRO,27
+UNKNOWN,moneygram,BALAO,4
+UNKNOWN,moneygram,CUENCA,185
+UNKNOWN,moneygram,DAULE,13
+UNKNOWN,moneygram,GUAYAQUIL,317
+UNKNOWN,moneygram,YAGUACHI,3
+UNKNOWN,moneygram,LA LIBERTAD,18
+UNKNOWN,moneygram,LATACUNGA,37
+UNKNOWN,moneygram,QUITO,375
+UNKNOWN,moneygram,PELILEO,14
+UNKNOWN,moneygram,ESMERALDAS,22
+UNKNOWN,moneygram,CHILLANES,3
+UNKNOWN,moneygram,GUARANDA,14
+UNKNOWN,moneygram,MONTALVO,5
+UNKNOWN,moneygram,SAN MIGUEL,5
+UNKNOWN,moneygram,VENTANAS,6
+UNKNOWN,moneygram,BANOS,5
+UNKNOWN,moneygram,PORTOVIEJO,35
+UNKNOWN,moneygram,AZOGUES,25
+UNKNOWN,moneygram,MACHALA,70
+UNKNOWN,moneygram,CHIMBO,2
+UNKNOWN,moneygram,LOJA,45
+UNKNOWN,moneygram,TUMBACO,4
+UNKNOWN,moneygram,JOYA DE LOS SACHAS,3
+UNKNOWN,moneygram,PILLARO,8
+UNKNOWN,moneygram,SAN VICENTE,2
+UNKNOWN,moneygram,CANARIBAMBA,1
+UNKNOWN,moneygram,PASAJE,12
+UNKNOWN,moneygram,CALUMA,5
+UNKNOWN,moneygram,ALAMOR,2
+UNKNOWN,moneygram,PLAYAS,6
+UNKNOWN,moneygram,QUINSALOMA,3
+UNKNOWN,moneygram,LA TRONCAL,14
+UNKNOWN,moneygram,SALCEDO,13
+UNKNOWN,moneygram,IBARRA,36
+UNKNOWN,moneygram,AMBATO,74
+UNKNOWN,moneygram,RIOBAMBA,57
+UNKNOWN,moneygram,GENERAL VILLAMIL,1
+UNKNOWN,moneygram,SANTA ELENA,8
+UNKNOWN,moneygram,ZARUMA,3
+UNKNOWN,moneygram,CHILLA,1
+UNKNOWN,moneygram,DURAN,38
+UNKNOWN,moneygram,ZAMBIZA,1
+UNKNOWN,moneygram,LIBERTAD,2
+UNKNOWN,moneygram,SANTO DOMINGO,37
+UNKNOWN,moneygram,PAJAN,3
+UNKNOWN,moneygram,PORTOVELO,3
+UNKNOWN,moneygram,SAN PEDRO DE PELILEO,1
+UNKNOWN,moneygram,TADAY,1
+UNKNOWN,moneygram,SANTA ROSA,14
+UNKNOWN,moneygram,MANTA,31
+UNKNOWN,moneygram,ARENILLAS,5
+UNKNOWN,moneygram,SALINAS,3
+UNKNOWN,moneygram,ROCAFUERTE,3
+UNKNOWN,moneygram,QUEVEDO,23
+UNKNOWN,moneygram,EL EMPALME,6
+UNKNOWN,moneygram,QUERO,3
+UNKNOWN,moneygram,PALESTINA,3
+UNKNOWN,moneygram,ATACAMES,3
+UNKNOWN,moneygram,QUININDE,3
+UNKNOWN,moneygram,SEVILLA DEL ORO,1
+UNKNOWN,moneygram,HUAQUILLAS,6
+UNKNOWN,moneygram,CATAMAYO,7
+UNKNOWN,moneygram,BABAHOYO,17
+UNKNOWN,moneygram,BIBLIAN,7
+UNKNOWN,moneygram,VINCES,8
+UNKNOWN,moneygram,POSORJA,3
+UNKNOWN,moneygram,PEDERNALES,4
+UNKNOWN,moneygram,CAYAMBE,8
+UNKNOWN,moneygram,PORTO VIEJO,1
+UNKNOWN,moneygram,GUALACEO,13
+UNKNOWN,moneygram,PUERTO QUITO,3
+UNKNOWN,moneygram,MEJIA,3
+UNKNOWN,moneygram,SALITRE,5
+UNKNOWN,moneygram,BUENA FE,8
+UNKNOWN,moneygram,OTAVALO,15
+UNKNOWN,moneygram,SUMAYPAMBA,1
+UNKNOWN,moneygram,PUERTO INCA,1
+UNKNOWN,moneygram,SHAGLLI,2
+UNKNOWN,moneygram,JIPIJAPA,7
+UNKNOWN,moneygram,LA CONCORDIA,7
+UNKNOWN,moneygram,PASCUALES,2
+UNKNOWN,moneygram,CUMBAYA,1
+UNKNOWN,moneygram,GUACHAPALA,1
+UNKNOWN,moneygram,SIGSIG,9
+UNKNOWN,moneygram,COTACACHI,8
+UNKNOWN,moneygram,GUEL,1
+UNKNOWN,moneygram,MACHACHI,12
+UNKNOWN,moneygram,GUALAQUIZA,5
+UNKNOWN,moneygram,JIMA,2
+UNKNOWN,moneygram,CHORDELEG,5
+UNKNOWN,moneygram,CHONE,5
+UNKNOWN,moneygram,ALAUSI,7
+UNKNOWN,moneygram,ZAMORA,4
+UNKNOWN,moneygram,EL QUINCHE,2
+UNKNOWN,moneygram,SANGOLQUI,13
+UNKNOWN,moneygram,EL CARMEN,5
+UNKNOWN,moneygram,SAN RAFAEL,6
+UNKNOWN,moneygram,TAMBO,1
+UNKNOWN,moneygram,MUISNE,2
+UNKNOWN,moneygram,MACARA,4
+UNKNOWN,moneygram,NARANJITO,9
+UNKNOWN,moneygram,CHUNCHI,5
+UNKNOWN,moneygram,SHUSHUFINDI,4
+UNKNOWN,moneygram,DELEG,2
+UNKNOWN,moneygram,TULCAN,11
+UNKNOWN,moneygram,BAHIA,1
+UNKNOWN,moneygram,LAGO AGRIO,13
+UNKNOWN,moneygram,BABA,3
+UNKNOWN,moneygram,PINDAL,1
+UNKNOWN,moneygram,MORONA,2
+UNKNOWN,moneygram,PUERTO AYORA,4
+UNKNOWN,moneygram,PUERTO VELASCO IBARRA,1
+UNKNOWN,moneygram,PUERTO VILLAMIL,1
+UNKNOWN,moneygram,PUERTO BAQUERIZO MORENO,1
+UNKNOWN,moneygram,SALASACA,1
+UNKNOWN,moneygram,24 DE MAYO,2
+UNKNOWN,moneygram,PUCARA,3
+UNKNOWN,moneygram,PEDRO PABLO,1
+UNKNOWN,moneygram,JAMA,1
+UNKNOWN,moneygram,PUEBLOVIEJO,1
+UNKNOWN,moneygram,MANABI,2
+UNKNOWN,moneygram,SOLANO,1
+UNKNOWN,moneygram,VILCABAMBA,2
+UNKNOWN,moneygram,ATUNTAQUI,5
+UNKNOWN,moneygram,PINLLO,1
+UNKNOWN,moneygram,PICOAZA,1
+UNKNOWN,moneygram,MONTECRISTI,5
+UNKNOWN,moneygram,GONZANAMA,2
+UNKNOWN,moneygram,NAMBACOLA,1
+UNKNOWN,moneygram,PEDRO VICENTE MALDONADO,4
+UNKNOWN,moneygram,PUERTO BOLIVAR,2
+UNKNOWN,moneygram,LA NARANJA,1
+UNKNOWN,moneygram,LUCERO,1
+UNKNOWN,moneygram,CARIAMANGA,4
+UNKNOWN,moneygram,LA JOYA DE LOS SACHAS,2
+UNKNOWN,moneygram,TENA,13
+UNKNOWN,moneygram,EL GUABO,4
+UNKNOWN,moneygram,ZHUD,1
+UNKNOWN,moneygram,ORIANGA,1
+UNKNOWN,moneygram,QUISAPINCHA,4
+UNKNOWN,moneygram,ROBERTO ASTUDILLO,1
+UNKNOWN,moneygram,MULALILLO,1
+UNKNOWN,moneygram,SAN PEDRO DE TABOADA,1
+UNKNOWN,moneygram,LAS GOLONDRINAS,1
+UNKNOWN,moneygram,SARAGURO,4
+UNKNOWN,moneygram,SUSCAL,4
+UNKNOWN,moneygram,EL TAMBO,3
+UNKNOWN,moneygram,EL TRIUNFO,5
+UNKNOWN,moneygram,PIMAMPIRO,4
+UNKNOWN,moneygram,PICHINCHA,3
+UNKNOWN,moneygram,SAN JACINTO,1
+UNKNOWN,moneygram,CHARAPOTO,1
+UNKNOWN,moneygram,GUAMOTE,3
+UNKNOWN,moneygram,LA MANA,6
+UNKNOWN,moneygram,SAN GABRIEL,3
+UNKNOWN,moneygram,BAHIA DE CARAQUEZ,3
+UNKNOWN,moneygram,PAQUISHA,2
+UNKNOWN,moneygram,RUMINAUI,1
+UNKNOWN,moneygram,CRUCITA,1
+UNKNOWN,moneygram,SAQUISILI,5
+UNKNOWN,moneygram,YANTZAZA,6
+UNKNOWN,moneygram,MOLLETURO,2
+UNKNOWN,moneygram,CHAUCHA,1
+UNKNOWN,moneygram,SIMON BOLIVAR,2
+UNKNOWN,moneygram,PINAS,6
+UNKNOWN,moneygram,EL PANGUI,5
+UNKNOWN,moneygram,MACAS,16
+UNKNOWN,moneygram,JADAN,1
+UNKNOWN,moneygram,ZAPOTILLO,1
+UNKNOWN,moneygram,BALSAS,3
+UNKNOWN,moneygram,PATATE,2
+UNKNOWN,moneygram,MOCHA,1
+UNKNOWN,moneygram,ISIDRO AYORA,1
+UNKNOWN,moneygram,GUAYAS,1
+UNKNOWN,moneygram,SAMBORONDON,8
+UNKNOWN,moneygram,MONTANITA,2
+UNKNOWN,moneygram,MARCELINO MARIDUENA,2
+UNKNOWN,moneygram,NOBOL,4
+UNKNOWN,moneygram,SAN JACINTO DE YAGUACHI,1
+UNKNOWN,moneygram,PEDRO CARBO,4
+UNKNOWN,moneygram,CUMANDA,3
+UNKNOWN,moneygram,RICAURTE,5
+UNKNOWN,moneygram,CANAR,13
+UNKNOWN,moneygram,INGAPIRCA,1
+UNKNOWN,moneygram,LOMAS DE SARGENTILLO,2
+UNKNOWN,moneygram,EL ANGEL,2
+UNKNOWN,moneygram,URCUQUI,3
+UNKNOWN,moneygram,COLIMES,2
+UNKNOWN,moneygram,PALORA,3
+UNKNOWN,moneygram,SANTA CLARA,1
+UNKNOWN,moneygram,IZAMBA,3
+UNKNOWN,moneygram,SAN CARLOS,1
+UNKNOWN,moneygram,TAMBILLO,1
+UNKNOWN,moneygram,PAUTE,5
+UNKNOWN,moneygram,ARAJUNO,1
+UNKNOWN,moneygram,HUAMBALO,1
+UNKNOWN,moneygram,SANTO DOMINGO DE LOS COLORADOS,1
+UNKNOWN,moneygram,GUANO,2
+UNKNOWN,moneygram,YANZATZA,2
+UNKNOWN,moneygram,PLAYAS (GENERAL VILLAMIL),1
+UNKNOWN,moneygram,BOLIVAR,3
+UNKNOWN,moneygram,TOSAGUA,3
+UNKNOWN,moneygram,CHAMBO,2
+UNKNOWN,moneygram,PALLATANGA,2
+UNKNOWN,moneygram,ECHEANDIA,1
+UNKNOWN,moneygram,DUCUR,1
+UNKNOWN,moneygram,JUNIN,1
+UNKNOWN,moneygram,PANGUI,1
+UNKNOWN,moneygram,MANA,1
+UNKNOWN,moneygram,GUABO,1
+UNKNOWN,moneygram,BALZAR,4
+UNKNOWN,moneygram,PUERTO LOPEZ,3
+UNKNOWN,moneygram,PI?AS,1
+UNKNOWN,moneygram,BUCAY,3
+UNKNOWN,moneygram,LA UNION,2
+UNKNOWN,moneygram,CASCALES,1
+UNKNOWN,moneygram,SAN LORENZO,2
+UNKNOWN,moneygram,GIRON,5
+UNKNOWN,moneygram,RUMINAHUI,1
+UNKNOWN,moneygram,SAN RAFAEL DE SHARUG,1
+UNKNOWN,moneygram,LATACUNG,1
+UNKNOWN,moneygram,ESPEJO,1
+UNKNOWN,moneygram,PUJILI,6
+UNKNOWN,moneygram,TABACUNDO,1
+UNKNOWN,moneygram,SAN JUAN,2
+UNKNOWN,moneygram,MOCACHE,3
+UNKNOWN,moneygram,GUAYACAN,1
+UNKNOWN,moneygram,RUMINAHI,4
+UNKNOWN,moneygram,FRANCISCO DE ORELLANA,1
+UNKNOWN,moneygram,SANTA ANA,1
+UNKNOWN,moneygram,BAHIAL DE MACHALA,1
+UNKNOWN,moneygram,ONA,2
+UNKNOWN,moneygram,LASSO,1
+UNKNOWN,moneygram,SHELL,2
+UNKNOWN,moneygram,BANOS CUENCA,1
+UNKNOWN,moneygram,CUMBE,5
+UNKNOWN,moneygram,SAN JUAN BOSCO,2
+UNKNOWN,moneygram,ZUMBA,1
+UNKNOWN,moneygram,ZUMBI,1
+UNKNOWN,moneygram,PALANDA,2
+UNKNOWN,moneygram,YACUAMBI,1
+UNKNOWN,moneygram,GUAYZIMY,1
+UNKNOWN,moneygram,VALLADOLID,1
+UNKNOWN,moneygram,CELICA,1
+UNKNOWN,moneygram,SAN MIGUEL DE LOS BANCOS,2
+UNKNOWN,moneygram,SININCAY,1
+UNKNOWN,moneygram,LOGRONO,1
+UNKNOWN,moneygram,COTOGCHOA,1
+UNKNOWN,moneygram,CUTUGLAGUA,1
+UNKNOWN,moneygram,LLANO CHICO,2
+UNKNOWN,moneygram,PUERTO LIMON,1
+UNKNOWN,moneygram,VALENCIA,2
+UNKNOWN,moneygram,MALCHINGUI,1
+UNKNOWN,moneygram,NABON,2
+UNKNOWN,moneygram,CALCETA,3
+UNKNOWN,moneygram,GUMOTE,1
+UNKNOWN,moneygram,ABRAHAM CALAZACON,1
+UNKNOWN,moneygram,STO DOMINGO DE LOS COLORADOS,1
+UNKNOWN,moneygram,SAN MIGUEL DE BOLIVAR,1
+UNKNOWN,moneygram,CACHA,1
+UNKNOWN,moneygram,MALACATOS,1
+UNKNOWN,moneygram,NAZON,1
+UNKNOWN,moneygram,MORASPUNGO,1
+UNKNOWN,moneygram,ALLURIQUIN,1
+UNKNOWN,moneygram,LAUREL,1
+UNKNOWN,moneygram,SANTA LUCIA,1
+UNKNOWN,moneygram,CHECA,1
+UNKNOWN,moneygram,SAN FERNANDO,2
+UNKNOWN,moneygram,LA MERCED,1
+UNKNOWN,moneygram,SANTO DOMINGO DE ONZOLE,2
+UNKNOWN,moneygram,CEBADAS,1
+UNKNOWN,moneygram,AYORA,1
+UNKNOWN,moneygram,ANUNTAQUI,1
+UNKNOWN,moneygram,CHIGUINDA,1
+UNKNOWN,moneygram,BAQUERIZO MORENO,1
+UNKNOWN,moneygram,PASTAZA,3
+UNKNOWN,moneygram,MENDEZ,2
+UNKNOWN,moneygram,MATA DE CACAO,1
+UNKNOWN,moneygram,CAJABAMBA,2
+UNKNOWN,moneygram,COLUMBE,1
+UNKNOWN,moneygram,MIRA,1
+UNKNOWN,moneygram,SAN RAFAEL DE BOLIVAR,1
+UNKNOWN,moneygram,IMANTAG,1
+UNKNOWN,moneygram,QUIMIAG,1
+UNKNOWN,moneygram,PENIPE,1
+UNKNOWN,moneygram,LIMON,2
+UNKNOWN,moneygram,SIGCHOS,1
+UNKNOWN,moneygram,CEVALLOS,2
+UNKNOWN,moneygram,TISALEO,1
+UNKNOWN,moneygram,QUINNDE,1
+UNKNOWN,moneygram,EMPALME,1
+UNKNOWN,moneygram,COCA,2
+UNKNOWN,moneygram,LAS LAJAS,1
+UNKNOWN,moneygram,HUAMBOYA,1
+UNKNOWN,moneygram,CUELLAJE,1
+UNKNOWN,moneygram,GARCIA MORENO,1
+UNKNOWN,moneygram,APUELA,1
+UNKNOWN,moneygram,CIELO VERDE,1
+UNKNOWN,moneygram,GOLONDRINAS,1
+UNKNOWN,moneygram,LOS ENCUENTROS,1
+UNKNOWN,moneygram,BANOS DE AGUA SANTA,1
+UNKNOWN,moneygram,FLAVIO ALFARO,3
+UNKNOWN,moneygram,SHINA,1
+UNKNOWN,moneygram,PONCE ENRIQUEZ,1
+UNKNOWN,moneygram,SEVILLA DE ORO,2
+UNKNOWN,moneygram,AMALUZA,1
+UNKNOWN,moneygram,SAN LUCAS,1
+UNKNOWN,moneygram,LA BRAMADORA,1
+UNKNOWN,moneygram,ESMERALDAD,1
+UNKNOWN,moneygram,LIMON INDANZA,1
+UNKNOWN,national,Guayaquil,1
+UNKNOWN,national,Manta,1
+UNKNOWN,national,Quito,2
+PICHINCHA,nissan_europe,Quito,12
+CHIMBORAZO,nissan_europe,Riobamba,2
+MANABÍ,nissan_europe,Manta,2
+AZUAY,nissan_europe,Cuenca,2
+GUAYAS,nissan_europe,Guayaquil,7
+TUNGURAHUA,nissan_europe,Ambato,2
+GUAYAS,nissan_europe,Samborondón,1
+LOJA,nissan_europe,Loja,1
+IMBABURA,nissan_europe,Ibarra,2
+ELORO,nissan_europe,Machala,2
+GUAYAS,nissan_europe,unknown,1
+UNKNOWN,shell,QUITO,5
+UNKNOWN,shell,PICHINCHA,3
+UNKNOWN,shell,GUAYAS,11
+UNKNOWN,shell,GUAYAQUIL,5
+UNKNOWN,shell,MANTA,2
+UNKNOWN,shell,DAULE,1
+UNKNOWN,shell,MANABÍ,1
+UNKNOWN,shell,EL ORO,3
+UNKNOWN,sixt,Guayaquil,1
+UNKNOWN,sixt,Quito,2
+NORTHERNSOUTHAMERICA,the_north_face,CUMBAYA,1
+NORTHERNSOUTHAMERICA,the_north_face,QUITO,2
+UNKNOWN,united_colors_of_benetton,QUITO,2
+UNKNOWN,united_colors_of_benetton,GUAYAQUIL,1
+UNKNOWN,visa,SHUSHUFINFI,1
+SUCUMBIOS,visa,SHUSHUFINDI,5
+UNKNOWN,visa,JOYA DE LOS SACHAS,1
+PICHINCHA,visa,QUITO,504
+PICHINCHA,visa,RUMINAHUI,20
+ORELLANA,visa,JOYA DE LOS SACHAS,5
+UNKNOWN,visa,LAGO AGRIO,7
+SUCUMBIOS,visa,LAGO AGRIO,7
+ORELLANA,visa,EL COCA,2
+ORELLANA,visa,FRANCISCO DE ORELLANA,10
+UNKNOWN,visa,ORELLANA,6
+ORELLANA,visa,ORELLANA,1
+UNKNOWN,visa,GUAYAQUIL,323
+UNKNOWN,visa,LORETO,1
+PASTAZA,visa,PUYO,3
+CARCHI,visa,TULCAN,5
+UNKNOWN,visa,TULCAN,5
+UNKNOWN,visa,SANTO DOMINGO,21
+TULCAN,visa,TULCAN,1
+NAPO,visa,ARCHIDONA,1
+UNKNOWN,visa,ARCHIDONA,1
+UNKNOWN,visa,TENA,4
+NAPO,visa,TENA,3
+PASTAZA,visa,PASTAZA,12
+UNKNOWN,visa,BOLIVAR,3
+MORONASANTIAGO,visa,PALORA,1
+UNKNOWN,visa,NARANJAL,1
+UNKNOWN,visa,PASTAZA,1
+UNKNOWN,visa,AMBUQUI,1
+PASTAZA,visa,SHELL MERA,1
+PASTAZA,visa,MERA,1
+UNKNOWN,visa,MERA,1
+IMBABURA,visa,IBARRA,51
+MORONASANTIAGO,visa,MORONA,10
+UNKNOWN,visa,PUJILI,2
+UNKNOWN,visa,IBARRA,14
+UNKNOWN,visa,GENERAL ANTONIO ELIZALDE,1
+MORONASANTIAGO,visa,MACAS,1
+UNKNOWN,visa,MORONA,1
+PICHINCHA,visa,CAYAMBE,5
+UNKNOWN,visa,CAYAMBE,4
+UNKNOWN,visa,SAN PABLO,1
+TUNGURAHUA,visa,AMBATO,65
+MORONASANTIAGO,visa,SUCUA,5
+IMBABURA,visa,ANTONIO ANTE,3
+PICHINCHA,visa,PEDRO MONCAYO,1
+IMBABURA,visa,SAN JOAQUIN,1
+IMBABURA,visa,SAN MIGUEL DE URCUQUI,1
+MORONASANTIAGO,visa,LOGRONO,1
+IMBABURA,visa,ATUNTAQUI,1
+UNKNOWN,visa,ANTONIO ANTE,1
+UNKNOWN,visa,PEDRO MONCAYO,1
+UNKNOWN,visa,OTAVALO,5
+UNKNOWN,visa,QUITO,314
+IMBABURA,visa,OTAVALO,6
+MACHALA,visa,MACHALA,1
+UNKNOWN,visa,COTACACHI,1
+IMBABURA,visa,COTACACHI,3
+MORONASANTIAGO,visa,SANTIAGO,1
+PICHINCHA,visa,DISTRITO METROPOLITANO DE QUITO,86
+PICHINCHA,visa,BABAHOYO,1
+UNKNOWN,visa,SANTIAGO DE PILLARO,1
+UNKNOWN,visa,RUMIÑAHUI,13
+TUNGURAHUA,visa,BANOS,4
+TUNGURAHUA,visa,BANOS DE AGUA SANTA,1
+UNKNOWN,visa,BAÑOS DE AGUA SANTA,1
+UNKNOWN,visa,RUMINAHUI,17
+PICHINCHA,visa,SANGOLQUÍ,2
+PICHINCHA,visa,SANGOLQUI,8
+MORONASANTIAGO,visa,LIMON INDANZA,1
+CHIMBORAZO,visa,GUANO,3
+PICHINCHA,visa,POMASQUI,1
+GUAYAS,visa,GUAYAQUIL,590
+UNKNOWN,visa,LATACUNGA,10
+PICHINCHA,visa,CONOCOTO,1
+UNKNOWN,visa,AMAGUAÑA,1
+ESMERALDAS,visa,ESMERALDAS,21
+TUNGURAHUA,visa,HUAMBALO,1
+UNKNOWN,visa,MEJIA,6
+TUNGURAHUA,visa,PELILEO,2
+TUNGURAHUA,visa,SANTIAGO DE PILLARO,1
+MORONASANTIAGO,visa,SAN JUAN BOSCO,1
+UNKNOWN,visa,SAN PEDRO DE PELILEO,1
+UNKNOWN,visa,PELILEO,2
+PICHINCHA,visa,MEJIA,2
+TUNGURAHUA,visa,PILLARO,2
+TUNGURAHUA,visa,SAN PEDRO DE PELILEO,2
+GUAYAS,visa,PLAYAS,10
+UNKNOWN,visa,MACHACHI,1
+COTOPAXI,visa,SALCEDO,2
+UNKNOWN,visa,SALCEDO,2
+UNKNOWN,visa,AMBATO,22
+MORONASANTIAGO,visa,GUALAQUIZA,3
+UNKNOWN,visa,EL PANGUI,1
+TUNGURAHUA,visa,SALCEDO,1
+COTOPAXI,visa,LATACUNGA,25
+ZAMORACHINCHIPE,visa,EL PANGUI,2
+TUNGURAHUA,visa,CEVALLOS,2
+TUNGURAHUA,visa,QUERO,1
+UNKNOWN,visa,RIOBAMBA,17
+CHIMBORAZO,visa,RIOBAMBA,42
+CHIMBORAZO,visa,CHIMBORAZO,1
+COTOPAXI,visa,SAQUISILI,1
+AZUAY,visa,SEVILLA DE ORO,1
+AZUAY,visa,EL PAN,1
+TUNGURAHUA,visa,QUISAPINCHA,1
+COTOPAXI,visa,PUJILI,3
+CHIMBORAZO,visa,GUAMOTE,1
+AZUAY,visa,GUACHAPALA,1
+AZUAY,visa,PAUTE,6
+CHIMBORAZO,visa,COLTA,1
+AZUAY,visa,CHORDELEG,2
+LOJA,visa,LOJA,70
+ZAMORACHINCHIPE,visa,YANTZAZA,2
+CANAR,visa,AZOGUES,20
+AZUAY,visa,CUENCA,284
+AZUAY,visa,GUALACEO,7
+UNKNOWN,visa,GUALACEO,3
+SANTODOMINGODELOSTSACHILAS,visa,TANDAPI,1
+AZUAY,visa,SIGSIG,6
+UNKNOWN,visa,ALAUSI,1
+CHIMBORAZO,visa,ALAUSI,1
+UNKNOWN,visa,AZOGUES,1
+CAÑAR,visa,AZOGUES,1
+SANTODOMINGODELOSTSACHILAS,visa,SANTO DOMINGO,42
+CANAR,visa,CANAR,10
+CANAR,visa,BIBLIAN,3
+CANAR,visa,EL TAMBO,2
+CHIMBORAZO,visa,CHUNCHI,1
+CANAR,visa,DELEG,1
+ZAMORACHINCHIPE,visa,ZAMORA,8
+UNKNOWN,visa,CANAR,1
+UNKNOWN,visa,SAN MIGUEL DE LOS BANCOS,2
+UNKNOWN,visa,CUENCA,39
+CHIMBORAZO,visa,PALLATANGA,1
+UNKNOWN,visa,ALLURIQUIN,1
+UNKNOWN,visa,GUARANDA,4
+BOLIVAR,visa,GUARANDA,4
+CUENCA,visa,CUENCA,1
+BOLIVAR,visa,CHIMBO,1
+UNKNOWN,visa,DURAN,22
+CANAR,visa,SUSCAL,2
+BOLIVAR,visa,CHILLANES,1
+AZUAY,visa,NABON,2
+GUAYAS,visa,NARANJAL,7
+BOLIVAR,visa,SAN MIGUEL,1
+CHIMBORAZO,visa,CUMANDA,3
+GUAYAS,visa,MILAGRO,35
+STODOMINGO,visa,STO. DOMINGO,5
+SANTODOMINGODELOSSACHILAS,visa,SANTO DOMINGO,8
+SANTODOMINGO,visa,SANTO DOMINGO,4
+AZUAY,visa,GIRON,4
+SANTODOMINGO,visa,STO. DOMINGO,1
+UNKNOWN,visa,PUERTO QUITO,1
+STODOMINGODELOSTSACHILA,visa,STO DOMINGO,2
+AZUAY,visa,ONA,1
+UNKNOWN,visa,BUENA FE,3
+UNKNOWN,visa,LA CONCORDIA,1
+UNKNOWN,visa,LOJA,14
+UNKNOWN,visa,LA MANA,1
+COTOPAXI,visa,LA MANÁ,1
+LOSRIOS,visa,QUEVEDO,26
+COTOPAXI,visa,LA MANA,1
+BOLIVAR,visa,CALUMA,2
+PICHINCHA,visa,PUERTO QUITO,1
+LOJA,visa,VILCABAMBA,1
+LOJA,visa,SARAGURO,1
+BOLIVAR,visa,ECHEANDIA,1
+LOJA,visa,MALACATOS,1
+AZUAY,visa,SANTA ISABEL,7
+UNKNOWN,visa,MONTALVO,2
+LOSRIOS,visa,MONTALVO,1
+GUAYAS,visa,BABAHOYO,1
+CANAR,visa,LA TRONCAL,12
+LOSRIOS,visa,QUINSALOMA,1
+UNKNOWN,visa,NARANJITO,4
+CAÑAR,visa,LA TRONCAL,3
+UNKNOWN,visa,LA TRONCAL,3
+UNKNOWN,visa,VALENCIA,1
+LOSRIOS,visa,VALENCIA,1
+LOSRIOS,visa,BUENA FE,2
+LOJA,visa,CATAMAYO,6
+SANTODOMINGO,visa,LA CONCORDIA,1
+ESMERALDAS,visa,LA CONCORDIA,2
+ESMERALDAS,visa,QUININDE,6
+MANABI,visa,EL CARMEN,3
+UNKNOWN,visa,QUININDE,5
+UNKNOWN,visa,EL TRIUNFO,2
+GUAYAS,visa,EL TRIUNFO,1
+LOSRÍOS,visa,QUEVEDO,3
+GUAYAS,visa,MARCELINO MARIDUEÑA,1
+GUAYAS,visa,MARCELINO MARIDUENA,2
+GUAYAS,visa,CORONEL MARCELINO MARIDUENA,1
+UNKNOWN,visa,MARCELINO MARIDUENA,1
+MANABÍ,visa,EL CARMEN,1
+UNKNOWN,visa,EL CARMEN,1
+UNKNOWN,visa,QUEVEDO,11
+LOSRIOS,visa,VENTANAS,3
+UNKNOWN,visa,VENTANAS,1
+UNKNOWN,visa,EL EMPALME,2
+LOSRIOS,visa,URDANETA,2
+UNKNOWN,visa,URDANETA,1
+GUAYAS,visa,NARANJITO,1
+LOSRIOS,visa,BABAHOYO,21
+AZUAY,visa,PUCARA,2
+UNKNOWN,visa,SIMON BOLIVAR,1
+LOSRÍOS,visa,BUENA FE,1
+LOSRIOS,visa,MOCACHE,1
+UNKNOWN,visa,MOCACHE,1
+UNKNOWN,visa,EL GUABO,1
+UNKNOWN,visa,BABAHOYO,10
+LOSRÍOS,visa,BABAHOYO,3
+LOSRIOS,visa,PUEBLOVIEJO,3
+UNKNOWN,visa,PUEBLOVIEJO,1
+LOSRIOS,visa,PUEBLO VIEJO,1
+UNKNOWN,visa,BABA,2
+ELORO,visa,ZARUMA,2
+GUAYAS,visa,ALFREDO BAQUERIZO MORENO,2
+UNKNOWN,visa,JUJAN,1
+LOSRIOS,visa,SAN JUAN,1
+UNKNOWN,visa,MILAGRO,12
+LOJA,visa,CARIAMANGA,1
+UNKNOWN,visa,PORTOVIEJO,23
+ELORO,visa,PORTOVELO,2
+GUAYAS,visa,EL EMPALME,3
+GUAYAS,visa,SAN JACINTO DE YAGUACHI,3
+UNKNOWN,visa,ESMERALDAS,13
+LOJA,visa,CHAGUARPAMBA,1
+LOJA,visa,PALTAS,1
+LOJA,visa,CATACOCHA,1
+LOSRIOS,visa,BABA,1
+ELORO,visa,ATAHUALPA,1
+ELORO,visa,PINAS,5
+UNKNOWN,visa,YAGUACHI,4
+UNKNOWN,visa,SAMBORONDON,20
+GUAYAS,visa,SAMBORONDON,9
+UNKNOWN,visa,PIÑAS,1
+UNKNOWN,visa,VINCES,2
+LOSRIOS,visa,VINCES,4
+AZUAY,visa,CAMILO PONCE ENRIQUEZ,2
+ELORO,visa,MACHALA,77
+ELORO,visa,PASAJE,16
+GUAYAS,visa,DURAN,19
+ELORO,visa,EL GUABO,7
+ESMERALDAS,visa,ATACAMES,2
+GUAYAS,visa,SALITRE,2
+GUAYAS,visa,DURÁN,7
+UNKNOWN,visa,PASAJE,3
+UNKNOWN,visa,MACHALA,13
+GUAYAS,visa,BALAO,2
+MANABI,visa,FLAVIO ALFARO,2
+ELORO,visa,BALSAS,1
+UNKNOWN,visa,DURÁN,1
+UNKNOWN,visa,ATACAMES,1
+UNKNOWN,visa,DAULE,25
+GUAYAS,visa,SAMBORONDÓN,10
+GUAYAS,visa,DAULE,31
+ELORO,visa,GUAYAQUIL,1
+GUAYAS,visa,BALZAR,1
+UNKNOWN,visa,FLAVIO ALFARO,1
+UNKNOWN,visa,BALZAR,2
+ELORO,visa,MARCABELI,1
+UNKNOWN,visa,PAJAN,1
+UNKNOWN,visa,EMPALME,1
+LOJA,visa,MACARÁ,1
+UNKNOWN,visa,SANTA ROSA,3
+ELORO,visa,SANTA ROSA,12
+UNKNOWN,visa,SALITRE,1
+UNKNOWN,visa,SANTA ELENA,9
+GUAYAS,visa,PALESTINA,1
+UNKNOWN,visa,PALESTINA,1
+GUAYAS,visa,SANTA LUCIA,1
+UNKNOWN,visa,SANTA LUCIA,2
+UNKNOWN,visa,COLIMES,1
+LOSRIOS,visa,COLIMES,1
+GUAYAS,visa,NOBOL,2
+LOJA,visa,PUYANGO,1
+UNKNOWN,visa,PEDERNALES,5
+LOJA,visa,ALAMOR,1
+MANABI,visa,PEDERNALES,1
+MANABI,visa,CHONE,4
+ELORO,visa,LAS LAJAS,1
+ELORO,visa,ARENILLAS,3
+UNKNOWN,visa,ARENILLAS,1
+GUAYAS,visa,CHONGON,1
+UNKNOWN,visa,LOMAS DE SARGENTILLO,1
+GUAYAS,visa,LOMAS DE SARGENTILLO,1
+MANABI,visa,PORTOVIEJO,56
+UNKNOWN,visa,CHONE,5
+GUAYAS,visa,ISIDRO AYORA,1
+UNKNOWN,visa,ISIDRO AYORA,1
+UNKNOWN,visa,PEDRO CARBO,2
+MANABI,visa,TOSAGUA,2
+GUAYAS,visa,PEDRO CARBO,1
+UNKNOWN,visa,TOSAGUA,1
+UNKNOWN,visa,HUAQUILLAS,1
+ELORO,visa,HUAQUILLAS,6
+GUAYAS,visa,POSORJA,3
+UNKNOWN,visa,PLAYAS,8
+UNKNOWN,visa,SANTA ANA,2
+MANABI,visa,SANTA ANA,1
+UNKNOWN,visa,SAN VICENTE,1
+MANABI,visa,SAN VICENTE,1
+MANABI,visa,SUCRE,2
+UNKNOWN,visa,SUCRE,1
+MANABI,visa,MANTA,62
+MANABI,visa,PAJAN,1
+MANABI,visa,ROCAFUERTE,3
+MANABÍ,visa,PORTOVIEJO,5
+UNKNOWN,visa,ROCAFUERTE,1
+MANABI,visa,JARAMIJO,1
+MANABI,visa,JIPIJAPA,3
+UNKNOWN,visa,JIPIJAPA,2
+MANABI,visa,MONTECRISTI,5
+UNKNOWN,visa,JARAMIJO,4
+MANABÍ,visa,MONTECRISTI,1
+UNKNOWN,visa,MONTECRISTI,2
+UNKNOWN,visa,MANTA,25
+MANABÍ,visa,MANTA,3
+SANTAELENA,visa,CHANDUY,1
+MANABI,visa,QUITO,1
+SANTAELENA,visa,LA LIBERTAD,26
+UNKNOWN,visa,LA LIBERTAD,8
+SANTAELENA,visa,SANTA ELENA,12
+SANTAELENA,visa,OLON,1
+MANABI,visa,PUERTO LOPEZ,1
+UNKNOWN,visa,PUERTO LOPEZ,1
+GUAYAS,visa,SANTA ELENA,3
+SANTAELENA,visa,ANCONCITO,1
+GUAYAS,visa,LA LIBERTAD,1
+SANTAELENA,visa,SALINAS,10
+SANTAELENA,visa,SANTA ROSA DE SALINAS,1
+UNKNOWN,visa,SALINAS,3
+GALAPAGOS,visa,SAN CRISTOBAL,3
+GALAPAGOS,visa,SANTA CRUZ,4
+GALÁPAGOS,visa,SANTA CRUZ,1
+UNKNOWN,visa,PUERTO AYORA,1
+UNKNOWN,visa,SANTA CRUZ,1
+GALAPAGOS,visa,BALTRA,1
+GUAYAS,western_union,Guayaquil,799
+IMBABURA,western_union,Ibarra,107
+PICHINCHA,western_union,San Miguel De Los Bancos,10
+PICHINCHA,western_union,Quito,959
+SANTAELENA,western_union,La Libertad,42
+SANTAELENA,western_union,Santa Elena,53
+MORONASANTIAGO,western_union,Tiwintza,2
+SANTAELENA,western_union,Salinas,15
+GUAYAS,western_union,Posorja,4
+GUAYAS,western_union,El Triunfo,13
+CHIMBORAZO,western_union,Chunchi,3
+CHIMBORAZO,western_union,Alausi,9
+CHIMBORAZO,western_union,Riobamba,107
+MORONASANTIAGO,western_union,Sucua,12
+CAAR,western_union,Canar,22
+CAAR,western_union,La Troncal,19
+CANAR,western_union,La Troncal,3
+CAAR,western_union,Toncal,1
+CAAR,western_union,Bibli�n,8
+CAAR,western_union,El Tambo,7
+SANTODOMINGO,western_union,Santo Domingo,11
+GUAYAS,western_union,Naranjal,48
+CAAR,western_union,Ducur,1
+AZUAY,western_union,Cuenca,310
+CANAR,western_union,Canar,3
+CAAR,western_union,Suscal,3
+MORONASANTIAGO,western_union,Suc�a,1
+CAAR,western_union,Ca�ar,12
+CAAR,western_union,Ingapirca,1
+GUAYAS,western_union,Guayas,28
+MORONASANTIAGO,western_union,Santiago,4
+AZUAY,western_union,Paute,16
+CANAR,western_union,Ca�ar,1
+CAAR,western_union,Biblian,17
+CANAR,western_union,Biblian,1
+CAAR,western_union,Azogues,45
+MORONASANTIAGO,western_union,Logro�o,1
+GUAYAS,western_union,Balao,13
+CANAR,western_union,Azogues,3
+GUAYAS,western_union,San Carlos,1
+CAAR,western_union,Azoguez,2
+AZUAY,western_union,Gualaceo,20
+AZUAY,western_union,Guachapala,2
+CAAR,western_union,Deleg,2
+AZUAY,western_union,Sevilla De Oro,2
+AZUAY,western_union,El Pan,1
+AZUAY,western_union,Azuay,5
+AZUAY,western_union,Nulti,1
+AZUAY,western_union,Camilo Ponce Enriquez,16
+AZUAY,western_union,Ricaurte,1
+AZUAY,western_union,Camilo Ponce Enr�quez,1
+ELORO,western_union,El Guabo,15
+PICHINCHA,western_union,Cuenca,1
+AZUAY,western_union,Santa Isabel,12
+SANTODOMINGODELOSTSACHILAS,western_union,Santo Domingo,173
+AZUAY,western_union,Cuanca,1
+LOJA,western_union,Loja,113
+BOLIVAR,western_union,San Miguel,7
+PICHINCHA,western_union,Cayambe,33
+ELORO,western_union,Balsas,6
+AZUAY,western_union,Chordeleg,6
+ELORO,western_union,Puerto Bol�var,1
+ELORO,western_union,Machala,126
+ELORO,western_union,Huaquillas,41
+ELORO,western_union,El Oro,3
+ELORO,western_union,Puerto Bolivar,1
+ELORO,western_union,Barbones,1
+GUAYAS,western_union,Pedro Carbo,5
+MORONASANTIAGO,western_union,Limon Indanza,3
+ELORO,western_union,Pasaje,30
+MORONASANTIAGO,western_union,Lim�n Indanza,1
+AZUAY,western_union,Sigsig,16
+COTOPAXI,western_union,Saquisil�,1
+AZUAY,western_union,Cumbe,2
+MORONASANTIAGO,western_union,Morona,19
+ELORO,western_union,Santa Rosa,17
+AZUAY,western_union,San Fernando,3
+AZUAY,western_union,Chumblin,1
+AZUAY,western_union,Pucara,2
+AZUAY,western_union,Giron,9
+AZUAY,western_union,Gir�n,1
+MORONASANTIAGO,western_union,San Juan Bosco,2
+AZUAY,western_union,Nabon,6
+CHONE,western_union,Chone,1
+ELORO,western_union,Chilla,1
+MORONASANTIAGO,western_union,Gualaquiza,10
+ELORO,western_union,Atahualpa,2
+MORONASANTIAGO,western_union,Logrono,1
+ELORO,western_union,Las Lajas,2
+LOJA,western_union,Saraguro,16
+ELORO,western_union,Arenillas,4
+ELORO,western_union,Pinas,11
+ELORO,western_union,Pi�as,7
+MANABI,western_union,Portoviejo,126
+ELORO,western_union,Portovelo,7
+ELORO,western_union,Zaruma,6
+LOJA,western_union,Puyango,6
+LOJA,western_union,Alamor,1
+AZUAY,western_union,O�a,1
+ELORO,western_union,Marcabeli,3
+LOJA,western_union,Pindal,3
+GUAYAS,western_union,Pindal,1
+LOJA,western_union,Paltas,2
+LOJA,western_union,Catamayo,16
+ZAMORACHINCHIPE,western_union,Zamora,12
+LOJA,western_union,Macara,6
+LOJA,western_union,Yantzaza,1
+ZAMORACHINCHIPE,western_union,Zamora Chinchipe,1
+ZAMORACHINCHIPE,western_union,El Pangui,9
+IMBABURA,western_union,Zapotillo,1
+LOJA,western_union,Zapotillo,2
+LOJA,western_union,Sozoranga,1
+ZAMORACHINCHIPE,western_union,Centinela Del Condor,2
+ZAMORACHINCHIPE,western_union,Yantzaza,15
+ZAMORACHINCHIPE,western_union,Yanzatza,5
+TUNGURAHUA,western_union,Ambato,182
+LOJA,western_union,Celica,7
+LOJA,western_union,Chaguarpamba,1
+ZAMORACHINCHIPE,western_union,Paquisha,4
+LOJA,western_union,Gonzanama,5
+LOJA,western_union,Calvas,11
+ZAMORACHINCHIPE,western_union,Chinchipe,1
+ZAMORACHINCHIPE,western_union,Nangaritza,1
+LOJA,western_union,Espindola,1
+LOJA,western_union,Vilcabamba,1
+LOJA,western_union,Quilanga,1
+LOJA,western_union,Cariamanga,1
+GUAYAS,western_union,Salinas,2
+SANTAELENA,western_union,Libertad,5
+GUAYAS,western_union,Playas,16
+SANTAELENA,western_union,Ballenita,1
+SUCUMBIOS,western_union,Putumayo,2
+MORONASANTIAGO,western_union,Taisha,3
+MANABI,western_union,Puerto Lopez,5
+MANABI,western_union,Puerto Bolivar,1
+ESMERALDAS,western_union,Eloy Alfaro,7
+GUAYAS,western_union,Guyaquil,1
+GUAYAS,western_union,Duran,58
+GUAYAS,western_union,Balzar,8
+MANABI,western_union,Puerto Machalilla,1
+PICHINCHA,western_union,Guayaquil,1
+GUAYAS,western_union,Tarqui,1
+GUAYAS,western_union,Simon Bolivar,13
+UNKNOWN,western_union,Guayaquil,2
+GUAYAS,western_union,Dur�n,7
+GUAYAQUIL,western_union,Guayas,2
+SUCUMBIOS,western_union,Cuyabeno,3
+COTOPAXI,western_union,Sigchos,3
+GUAYAS,western_union,El Trunfo,1
+GUAYAS,western_union,Samborondon,27
+GUAYAS,western_union,Virgen De Fatima(yaguachi),1
+GUAYAS,western_union,San Jacinto De Yaguachi,17
+GUAYAS,western_union,San Jacinto,1
+GUAYAS,western_union,Daule,47
+MANABI,western_union,Manta,122
+MORONASANTIAGO,western_union,Macas,6
+MANABI,western_union,Pajan,8
+GUAYAS,western_union,Isidro Ayora,2
+GUAYAS,western_union,Milagro,100
+IMBABURA,western_union,Otavalo,27
+GUAYAS,western_union,Nobol,7
+GUAYAS,western_union,Lomas De Sargentillo,5
+GUAYAS,western_union,Coronel Marcelino Mariduena,1
+GUAYAS,western_union,Marcelino Maridue�a,2
+GUAYAS,western_union,Marcelino Mariduena,1
+GUAYAS,western_union,Yaguachi,2
+GUAYAS,western_union,Naranjito,17
+MANABI,western_union,Jipijapa,12
+CHIMBORAZO,western_union,Chambo,2
+CHIMBORAZO,western_union,Cumanda,8
+LOSRIOS,western_union,Babahoyo,41
+GUAYAS,western_union,San Jacinto Yaguachi,1
+MANABI,western_union,Montecristi,17
+GUAYAS,western_union,General Antonio Elizalde ( Buc,2
+GUAYAS,western_union,Bucay,2
+GUAYAS,western_union,General Antonio Elizalde (buca,1
+GUAYAS,western_union,General Antonio Elizalde,3
+MANAB,western_union,Manta,2
+MANABI,western_union,Manabi,11
+GUAYAS,western_union,Montecristi,1
+GUAYAS,western_union,Samborond�n,1
+GUAYAS,western_union,Tres Postes,1
+SUCUMBIOS,western_union,Sucumbios,5
+SUCUMBIOS,western_union,Lago Agrios,1
+SUCUMBIOS,western_union,Shushufindi,11
+MANABI,western_union,Jaramijo,6
+GUAYAS,western_union,El Laurel,1
+GUAYAS,western_union,Sim�n Bol�var,1
+UNKNOWN,western_union,Salitre,1
+GUAYAS,western_union,Alfredo Baquerizo Moreno,6
+MANABI,western_union,24 De Mayo,3
+MANABI,western_union,Sucre,20
+GUAYAS,western_union,Sanata Lucia,1
+GUAYAS,western_union,Santa Lucia,2
+GUAYAS,western_union,Salitre,10
+GUAYAS,western_union,Jujan,1
+SUCUMBIOS,western_union,Lago Agrio,50
+ORELLANA,western_union,Orellana,29
+MORONASANTIAGO,western_union,Huamboya,1
+PALESTINA,western_union,Guayas,1
+GUAYAS,western_union,Palestina,7
+MANABI,western_union,Santa Ana,13
+MANABI,western_union,Lodana,1
+CHIMBORAZO,western_union,Pallatanga,7
+MANABI,western_union,Olmedo,5
+TUNGURAHUA,western_union,Patate,4
+LOSRIOS,western_union,Baba,3
+MANAB,western_union,Portoviejo,1
+GUAYAS,western_union,Colimes,7
+MANABI,western_union,Rocafuerte,12
+BOLIVAR,western_union,Chillanes,2
+MANABI,western_union,Portiviejo,1
+ORELLANA,western_union,La Joya De Los Sachas,11
+MANABI,western_union,San Clemente,1
+MANABI,western_union,El Carmen,31
+CHIMBORAZO,western_union,Guamote,11
+MANABI,western_union,Charapoto,1
+TUNGURAHUA,western_union,San Pedro De Pelileo,17
+LOSRIOS,western_union,Vinces,11
+LOSRIOS,western_union,Los Rios,3
+LOSROS,western_union,El Oro,1
+BABAHOYO,western_union,Babahoyo,1
+ORELLANA,western_union,Joya De Los Sagchas,1
+ORELLANA,western_union,Joya De Los Sachas,1
+MANABI,western_union,Abdon Calderon,1
+MORONASANTIAGO,western_union,Palora,2
+SUCUMBIOS,western_union,Nueva Loja,4
+SUCUMBIOS,western_union,Lago Lagrio,1
+LOSRIOS,western_union,Montalvo,9
+LOSROS,western_union,Montalvo,2
+LAGOAGRIO,western_union,Lago Agrio,1
+SANTODOMINGODELOSTSACHILAS,western_union,Lago Agrio,1
+LOSRIOS,western_union,San Juan,4
+ORELLANA,western_union,Coca,4
+ORELLANA,western_union,Elcoca,1
+ORELLANA,western_union,El Coca,1
+MANABI,western_union,San Placido,1
+PASTAZA,western_union,Arajuno,1
+LOSRIOS,western_union,Palenque,1
+MANABI,western_union,San Vicente,6
+LOSROS,western_union,Patricia Pilar,1
+ORELLANA,western_union,Francisco De Orellana,1
+CHIMBORAZO,western_union,Chimborazo,1
+BOLIVAR,western_union,Chimbo,2
+BOLIVAR,western_union,Caluma,7
+LOSRIOS,western_union,Urdaneta,2
+LOSRIOS,western_union,Ricaurte,1
+MANABI,western_union,Tosagua,4
+CHIMBORAZO,western_union,Colta,4
+MANABI,western_union,Bahia De Caraquez,1
+BOLIVAR,western_union,San Jose De Chimbo,1
+PASTAZA,western_union,Pastaza,27
+PASTAZA,western_union,Puyo,4
+COTOPAXI,western_union,Latacunga,63
+LOSRIOS,western_union,Ventanas,9
+BOLIVAR,western_union,Guaranda,28
+LOSROS,western_union,Ventanas,1
+MANABI,western_union,Junin,2
+LOSROS,western_union,Puebloviejo,1
+LOSRIOS,western_union,Pueblo Viejo,3
+CHIMBORAZO,western_union,Guano,6
+NAPO,western_union,Tena,23
+CHIMBORAZO,western_union,Penipe,3
+PASTAZA,western_union,Mera,3
+MANABI,western_union,Chone,18
+CHIMBORAZO,western_union,San Andres,1
+ORELLANA,western_union,Loreto,3
+BOLIVAR,western_union,Bolivar,1
+BOLIVAR,western_union,Echeandia,4
+ESMERALDAS,western_union,Atacames,13
+NAPO,western_union,Carlos Julio Arosemena,1
+TUNGURAHUA,western_union,Ba�os De Agua Santa,6
+LOSRIOS,western_union,Mocache,4
+MANABI,western_union,Pichincha,4
+BOLIVAR,western_union,Echendia,1
+BOLIVAR,western_union,Echeand�a,1
+MANABI,western_union,Jama,2
+SUCUMBIOS,western_union,Cascales,1
+MANABI,western_union,Calceta,2
+PASTAZA,western_union,Shell,1
+MANAB,western_union,Bol�var,1
+ESMERALDAS,western_union,Muisne,5
+TUNGURAHUA,western_union,Mocha,1
+SUCUMBIOS,western_union,Gonzalo Pizarro,1
+TUNGURAHUA,western_union,Banos De Agua Santa,8
+BOLIVAR,western_union,Las Naves,5
+ESMERALDAS,western_union,Esmeraldas,55
+TUNGURAHUA,western_union,Banos,2
+TUNGURAHUA,western_union,Tungurahua,2
+TUNGURAHUA,western_union,Quero,3
+TUNGURAHUA,western_union,Pelileo,5
+MANABI,western_union,Pedernales,15
+ESMERALDAS,western_union,Rio Verde,7
+TUNGURAHUA,western_union,Tisaleo,6
+TUNGURAHUA,western_union,Cevallos,3
+CARCHI,western_union,Tulcan,27
+GUAYAS,western_union,El Empalme,13
+LOSRIOS,western_union,Quinsaloma,8
+LOSROS,western_union,Quinsaloma,1
+COTOPAXI,western_union,Quinsaloma,1
+NAPO,western_union,Napo,1
+CARCHI,western_union,Tulc�n,2
+LOSRIOS,western_union,Quevedo,32
+NAPO,western_union,Archidona,4
+ESMERALDAS,western_union,Esmeralda,1
+ESMERALDAS,western_union,Quininde,21
+ESMERALDAS,western_union,San Lorenzo,10
+COTOPAXI,western_union,Pangua,7
+IMBABURA,western_union,San Miguel De Urcuqui,3
+LOSROS,western_union,Quevedo,2
+LOSRIOS,western_union,San Camilo,1
+LOSROS,western_union,Buena F�,1
+TUNGURAHUA,western_union,Pillaro,8
+TUNGURAHUA,western_union,P�llaro,2
+TUNGURAHUA,western_union,Santiago De Pillaro,13
+CARCHI,western_union,Huaca,2
+MANABI,western_union,Flavio Alfaro,4
+CARCHI,western_union,Julio Andrade,1
+CARCHI,western_union,San Gabriel,3
+CARCHI,western_union,Montufar,4
+COTOPAXI,western_union,Salcedo,21
+COTOPAXI,western_union,La Mana,13
+COTOPAXI,western_union,Cotopaxi,9
+ESMERALDAS,western_union,Borbon,1
+LOSROS,western_union,Valencia,1
+LOSRIOS,western_union,Valencia,6
+LOSRIOS,western_union,Buena Fe,13
+COTOPAXI,western_union,La Man�,2
+CARCHI,western_union,Carchi,2
+COTOPAXI,western_union,Latacnga,1
+COTOPAXI,western_union,Pujili,9
+NAPO,western_union,Quijos,1
+NAPO,western_union,Baeza,1
+CARCHI,western_union,Bolivar,2
+NAPO,western_union,Chaco,1
+CARCHI,western_union,Mira,4
+IMBABURA,western_union,Pimampiro,4
+NAPO,western_union,El Chaco,1
+CARCHI,western_union,El Angel,1
+CARCHI,western_union,Espejo,3
+COTOPAXI,western_union,La Matriz,1
+MANAB,western_union,La Bramadora,1
+MANAB,western_union,El Carmen,1
+SANTODOMINGODELOSTSACHILAS,western_union,La Concordia,22
+COTOPAXI,western_union,Saquisili,6
+IMBABURA,western_union,Imbabura,6
+PICHINCHA,western_union,Pichincha,11
+IMBABURA,western_union,Cotacachi,13
+IMBABURA,western_union,Antonio Ante,9
+IMBABURA,western_union,Atuntaqui,7
+SANTODOMINGODELOSTSACHILAS,western_union,Santo Domingo De Los Tsachilas,6
+ESMERALDAS,western_union,La Concordia,1
+ESMERALDAS,western_union,Santo Domingo,11
+IMBABURA,western_union,San Antonio Ibarra,1
+PICHINCHA,western_union,Olmedo,1
+PICHINCHA,western_union,Cangahua,1
+PICHINCHA,western_union,Mejia,28
+IMBABURA,western_union,San Pablo,1
+PICHINCHA,western_union,La Concordia,1
+PICHINCHA,western_union,Pedro Moncayo,6
+PICHINCHA,western_union,Machachi,6
+PICHINCHA,western_union,Puerto Quito,3
+PICHINCHA,western_union,Tabacundo,2
+SANTODOMINGODELOSTSACHILAS,western_union,Santo Domingo De Los Colorados,1
+PICHINCHA,western_union,Quinche,1
+PICHINCHA,western_union,Ruminahui,31
+PICHINCHA,western_union,Rumi�ahui,11
+PICHINCHA,western_union,Sangolqui,8
+PICHINCHA,western_union,San Rafael,1
+PICHINCHA,western_union,Malchingui,1
+COTOPAXI,western_union,Sangolqui,1
+PICHINCHA,western_union,Cumbay�,1
+PICHINCHA,western_union,San Jose De Minas,1
+MANAB,western_union,Pichincha,3
+PASTAZA,western_union,Quito,1
+QUITO,western_union,Pichincha,2
+PICHINCHA,western_union,La Magdalena,1
+PICHINCHA,western_union,Pedro Vicente Maldonado,6
+SANTODOMINGODELOSTSACHILAS,western_union,Quito,1
+ORELLANA,western_union,Aguarico,1
+PICHINCHA,western_union,Latacunga,1
+PAZTAZA,western_union,Mera,1
+GALAPAGOS,western_union,San Cristobal,3
+GALAPAGOS,western_union,Galapagos,3
+GALAPAGOS,western_union,Santa Cruz,7

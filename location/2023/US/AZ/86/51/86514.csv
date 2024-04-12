@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://stations.sinclairoil.com/az/red-mesa/us-highway-160,sinclair_us,Sinclair Gas Station,,Red Mesa,AZ,,US,+1 928-656-3261,https://stations.sinclairoil.com/az/red-mesa/us-highway-160,Mo-Su 06:00-22:00,Sinclair,Q1290900
+https://stations.sinclairoil.com/az/mexican-water/hwy-160,sinclair_us,Sinclair Gas Station,,Mexican Water,AZ,,US,+1 928-233-8140,https://stations.sinclairoil.com/az/mexican-water/hwy-160,Mo-Su 06:00-22:00,Sinclair,Q1290900
+1384368,usps,TEEC NOS POS,,TEEC NOS POS,AZ,,US,+1 928-656-3460,,"Mo-Fr 08:00-11:00,12:00-16:45; Sa 10:00-12:00",United States Postal Service,Q668687
+8651400001,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,100 STATE HIGHWAY 64 N,TEEC NOS POS,AZ,,US,,,,United States Postal Service,Q668687
+8651400003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,100 STATE HIGHWAY 64 N,TEEC NOS POS,AZ,,US,,,,United States Postal Service,Q668687
+8651400000,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,100 STATE HIGHWAY 64 N,TEEC NOS POS,AZ,,US,,,,United States Postal Service,Q668687
+,visa,,,TEEC NOS POS,AZ,,US,,,,,
+,visa,,,TEEC NOS POS,AZ,,US,,,,,
+,visa,,,RED MESA,AZ,,US,,,,,
+,visa,,,DOUGLAS,AZ,,US,,,,,

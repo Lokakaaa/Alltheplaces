@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://stations.sinclairoil.com/wy/crowheart/8526-us-highway-26-287,sinclair_us,Sinclair Gas Station,,Crowheart,WY,,US,+1 307-486-2285,https://stations.sinclairoil.com/wy/crowheart/8526-us-highway-26-287,Mo-Sa 08:00-18:00; Su 00:00-24:00,Sinclair,Q1290900
+1359927,usps,CROWHEART,,CROWHEART,WY,,US,+1 307-486-2239,,"Mo-Fr 08:30-12:00,12:30-15:00; Sa 08:30-10:30",United States Postal Service,Q668687
+8251200000,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,8526 US HIGHWAY 26-287,CROWHEART,WY,,US,,,,United States Postal Service,Q668687
+8251200001,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,8526 US HIGHWAY 26,CROWHEART,WY,,US,,,,United States Postal Service,Q668687

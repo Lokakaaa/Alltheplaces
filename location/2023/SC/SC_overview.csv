@@ -1,0 +1,41 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+SEYCHELLESINTLAIRPORT,avis,Seychelles,1
+PROVIDENCE,avis,Mahe,1
+MAHE,bmw_group,Victoria,1
+UNKNOWN,ford,Port Victoria Mahe,3
+UNKNOWN,ford,Victoria,1
+UNKNOWN,hilton,unknown,2
+UNKNOWN,lhw,Praslin,1
+UNKNOWN,moneygram,VICTORIA,15
+UNKNOWN,moneygram,MAHE,1
+UNKNOWN,moneygram,GRAND ANSE,2
+UNKNOWN,moneygram,PROVIDENCE,1
+UNKNOWN,moneygram,AIE SAINT ANNE,1
+UNKNOWN,moneygram,COTE D'OR,1
+UNKNOWN,moneygram,BEAU VALLON,1
+UNKNOWN,moneygram,LA DIGUE,1
+UNKNOWN,moneygram,LA PASSE,1
+UNKNOWN,sixt,Mahe,2
+UNKNOWN,sixt,"Beau Vallon, Mahe",1
+BELOMBRE,tier,unknown,2
+UNKNOWN,visa,MAHE,3
+UNKNOWN,visa,VICTORIA,19
+UNKNOWN,visa,PRASLIN,4
+UNKNOWN,visa,MAHE ISLAND,9
+UNKNOWN,visa,VICTOIA,1
+UNKNOWN,visa,LA DIGUE,1
+UNKNOWN,visa,PRASLIN ISLAND,2
+UNKNOWN,visa,LA DIGUE ISLAND,1
+LADIGUE,western_union,La Digue,1
+LADIGUE,western_union,Ladigue,1
+PRASLIN,western_union,Baie Ste Anne,1
+PRASLIN,western_union,Praslin,2
+PRASLIN,western_union,Grand Anse,1
+MAHE,western_union,Perseverance,1
+MAHE,western_union,Victoria,3
+MAHE,western_union,Bois De Rose,1
+MAHE,western_union,Eden Island,1
+MAHE,western_union,Beau Vallon,1
+MAHE,western_union,Mahe,1
+MAHE,western_union,Providence,1

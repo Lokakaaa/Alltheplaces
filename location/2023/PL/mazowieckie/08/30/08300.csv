@@ -1,0 +1,43 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+3296,abc_pl,abc,,Sokołów Podlaski,mazowieckie,,PL,,,,abc,Q11683985
+1232,abc_pl,abc,,Skibniew-Podawce,mazowieckie,,PL,,,,abc,Q11683985
+297,bricomarche_pl,Bricomarché Sokołów Podlaski,,Sokołów Podlaski,mazowieckie,,PL,+48 25 787 66 30,https://www.bricomarche.pl/sklep/bricomarche-sokolow-podlaski,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1406-sokolow-podlaski-wilczynskiego,credit_agricole_pl,"Credit Agricole Wilczyńskiego 11, Sokołów Podlaski",,Sokołów Podlaski,mazowieckie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1406-sokolow-podlaski-wilczynskiego,Mo-Fr 09:00-16:00,Credit Agricole,Q590952
+484,mcdonalds_pl,McDonald's,,Sokołów Podlaski,Mazowieckie,,PL,+48 880 975 908,https://mcdonalds.pl/restauracje/mazowieckie/sokolow-podlaski/sokolow-podlaski-ul-wegrowska-1-a,Mo-Su 07:00-24:00,McDonald's,Q38076
+GCS01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Grochów Szlachecki,mazowieckie,,PL,,https://inpost.pl/paczkomat-grochow-szlachecki-gcs01m-sokolowskiej-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+NOWI01M,paczkomat_inpost_pl,przed OSP,,Nowa Wieś,mazowieckie,,PL,,https://inpost.pl/paczkomat-nowa-wies-nowi01m-wolnosci-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+POP-SPO11,paczkomat_inpost_pl,EPAKA,,Sokołów Podlaski ,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-pop-spo11-marii-sklodowskiej-curie-paczkomaty-mazowieckie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+POP-SPO12,paczkomat_inpost_pl,TANIA PAKA,,Sokołów Podlaski ,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-pop-spo12-tartaczna-paczkomaty-mazowieckie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-SPO14,paczkomat_inpost_pl,PUNKT KURIERSKI,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-pop-spo14-wokulskiego-paczkomaty-mazowieckie,Mo-Fr 09:00-17:00,Paczkomat,Q110970254
+POP-SPO9,paczkomat_inpost_pl,UBEZPIECZENIA LIDER,,Sokołów Podlaski ,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-pop-spo9-pilsudskiego-paczkomaty-mazowieckie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+SBP01M,paczkomat_inpost_pl,parking przed OSP,,Skibniew-Podawce,mazowieckie,,PL,,https://inpost.pl/paczkomat-skibniew-podawce-sbp01m-sokolowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO01A,paczkomat_inpost_pl,parking za stacją przy myjni,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo01a-wegrowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO01APP,paczkomat_inpost_pl,Na parkingu sklepu spożywczego,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo01app-kupientynska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO01M,paczkomat_inpost_pl,Przy myjni bezdotykowej,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo01m-zabkowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO02M,paczkomat_inpost_pl,Przy sklepie Topaz,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo02m-magistracka-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO02N,paczkomat_inpost_pl,Przy sklepie Żabka,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo02n-wolnosci-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO03A,paczkomat_inpost_pl,"Przy sklepie Topaz, na tyłach parkingu",,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo03a-pilsudskiego-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO03M,paczkomat_inpost_pl,"Przy Drogerii Aurora, obok wejścia",,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo03m-andersa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO03N,paczkomat_inpost_pl,Przy Centrum Ogrodniczym Replin,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo03n-wolnosci-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO04M,paczkomat_inpost_pl,"przy sklepie Topaz, po lewej stronie budynku",,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo04m-wegrowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO05M,paczkomat_inpost_pl,Przy osiedlu Topolowy Zakątek,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo05m-bartoszowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO06M,paczkomat_inpost_pl,Przy budynku stacji paliw Topaz,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo06m-kolejowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO07M,paczkomat_inpost_pl,Na parkingu sklepu Gama,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo07m-pilsudskiego-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SPO08M,paczkomat_inpost_pl,z boku sklepu,,Sokołów Podlaski,mazowieckie,,PL,,https://inpost.pl/paczkomat-sokolow-podlaski-spo08m-dluga-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+562,play_pl,Salon Play,Ul. Kilińskiego 18,Sokołów Podlaski,mazowieckie,,PL,+48 790 030 712,,Mo-Fr 09:00-17:00; Sa 10:00-14:00,Play,Q7202998
+312856,poczta_polska_pl,FUP Sokołów Podlaski 1,,Sokołów Podlaski,MAZOWIECKIE,,PL,+48 885 950 039,,,Poczta Polska,Q168833
+265959,poczta_polska_pl,UP Sokołów Podlaski 1,,Sokołów Podlaski,MAZOWIECKIE,,PL,+48 25 644 50 89;+48 25 644 50 87;+48 25 644 50 28,,,Poczta Polska,Q168833
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOLOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOŁOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOLOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOLOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOLOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOŁOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOLOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOŁOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOŁOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOLOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+,visa,,,SOKOŁOW PODLASKI,MAZOWIECKIE,,PL,,,,,
+500a8ae25eec39997d2d4921c374aa63,western_union,STEFCZYK FINANSE,,Sokolow Podlaski,MAZOWIECKIE,,PL,+48 25 781 70 55,https://location.westernunion.com/pl/mazowieckie/sokolow-podlaski/500a8ae25eec39997d2d4921c374aa63,Mo-Fr 09:00-17:00,Western Union,Q861042
+ed9e762b2ab9ad8149b5d90250e4d833,western_union,BANK PEKAO SA,,Sokolow Podlaski,MAZOWIECKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/mazowieckie/sokolow-podlaski/ed9e762b2ab9ad8149b5d90250e4d833,Mo-Fr 09:00-16:30,Western Union,Q861042

@@ -1,0 +1,453 @@
+City,Place Name,Zipcode,Name
+ST MALO,audi,14 RUE de la grassinais ST MALO 35400,unknown,DANIEL MOUTON SAINT MALO
+LORIENT (LANESTER),audi,Z.I. de Kerpont-Rue Arago CS80911 LORIENT (LANESTER) 56607,unknown,ESPACE PREMIUM
+VANNES,audi,3 RUE GERTRUDE BELL - PARC LAROISEAU II VANNES 56007,unknown,EXCLUSIVE AUTOMOBILES
+AURAY,audi,2 Rue Yves Kerguelen AURAY 56400,unknown,KERMORVANT AUTOMOBILES
+SAINT BRIEUC,audi,24 RUE CHAPTAL SAINT BRIEUC 22000,unknown,PRESTIGE AUTOMOBILES
+MORLAIX (ST MARTIN DES CHAMPS),audi,RUE DE KERELIZA ZA DU LAUNAY MORLAIX (ST MARTIN DES CHAMPS) 29600,unknown,ALLIANCE AUTO
+VITRE CEDEX,audi,10 Rue de la Guerche VITRE CEDEX 35503,unknown,DANIEL MOUTON SA
+BREST,audi,1-3 Rue Gustave Zédé BREST 29200,unknown,EXCEL AUTOMOBILES
+LANNION,audi,3 RUE YVES COPPENS LANNION 22304,unknown,ALLIANCE AUTO LANNION
+GUINGAMP,audi,12 Avenue Du Goelo GUINGAMP 22200,unknown,GARAGE BEYOU GUINGAMP
+LANNION,audi,3 Rue Yves Coppens LANNION 22300,unknown,GARAGE BEYOU LANNION
+QUIMPER,audi,3 RUE DU TRO BREIZ QUIMPER 29000,unknown,EXCEL QUIMPER
+DINAN (QUEVERT),audi,Rue Auguste Pavie DINAN (QUEVERT) 22100,unknown,SELECTION AUTO
+RENNES (CESSON SEVIGNE),audi,RUE DES MESLIERS ZI S EST RENNES (CESSON SEVIGNE) 35510,unknown,OLYMPE AUTOMOBILES SAS
+PLOERMEL CEDEX,audi,Rue Edouard Branly Zône Industrielle Du Bois Vert PLOERMEL CEDEX 56803,unknown,CEDAM SA
+BRUZ,cic,,unknown,CIC
+BAIN DE BRETAGNE,cic,,unknown,CIC
+LA TRINITE SUR MER,cic,,unknown,CIC AURAY
+MONTFORT SUR MEU,cic,,unknown,CIC
+PONTIVY,cic,,unknown,CIC
+GUICHEN,cic,,unknown,CIC
+AURAY,cic,,unknown,CIC AURAY - CIC LA TRINITE-SUR-MER
+MOREAC,cic,,unknown,CIC
+VANNES,cic,,unknown,CIC
+PLESCOP,cic,,unknown,CIC
+REDON,cic,,unknown,CIC
+MUZILLAC,cic,,unknown,CIC MUZILLAC - CIC QUESTEMBERT
+VANNES LE PRAT,cic,,unknown,CIC VANNES
+QUESTEMBERT,cic,,unknown,CIC MUZILLAC
+PLOERMEL,cic,,unknown,CIC
+LANESTER,cic,,unknown,CIC PAYS DE LORIENT
+RENNES,cic,,unknown,CIC RENNES GARES
+VERN SUR SEICHE,cic,,unknown,CIC RENNES SUD
+LORIENT,cic,,unknown,CIC PAYS DE LORIENT - CIC LORIENT KERYADO
+CESSON SEVIGNE,cic,,unknown,CIC RENNES CESSON - LONGCHAMPS - CIC RENNES LONGCHAMPS
+FOUGERES,cic,,unknown,CIC
+VITRE,cic,,unknown,CIC
+HENNEBONT,cic,,unknown,CIC
+QUIBERON,cic,,unknown,CIC
+ERGUE GABERIC,cic,,unknown,CIC QUIMPER-ODET
+FOUESNANT,cic,,unknown,CIC CONCARNEAU
+CONCARNEAU,cic,,unknown,CIC CONCARNEAU - CIC FOUESNANT
+QUIMPERLE,cic,,unknown,CIC
+PLOEMEUR,cic,,unknown,CIC
+PLERIN,cic,,unknown,CIC BAIE DE SAINT-BRIEUC
+PACE,cic,,unknown,CIC SAINT GREGOIRE - CIC ST GREGOIRE
+LE RHEU,cic,,unknown,CIC
+QUIMPER,cic,,unknown,CIC QUIMPER-ODET - QUIMPER CREAC'H GWEN
+ST BRIEUC,cic,,unknown,CIC BAIE DE SAINT-BRIEUC - CIC PLERIN
+LANGUEUX,cic,,unknown,CIC LANGUEUX - CIC LAMBALLE
+CARHAIX PLOUGUER,cic,,unknown,CIC CARHAIX - CIC CHATEAULIN
+ST GREGOIRE,cic,,unknown,CIC SAINT GREGOIRE - CIC PACE
+LAMBALLE ARMOR,cic,,unknown,CIC LANGUEUX
+CHATEAULIN,cic,,unknown,CIC CARHAIX
+PONT L ABBE,cic,,unknown,CIC
+LANDERNEAU,cic,,unknown,CIC LANDERNEAU - CIC LESNEVEN
+GUINGAMP,cic,,unknown,CIC
+DOUARNENEZ,cic,,unknown,CIC DOUARNENEZ - CIC AUDIERNE
+LANDIVISIAU,cic,,unknown,CIC PAYS DE MORLAIX
+MORLAIX,cic,,unknown,CIC PAYS DE MORLAIX - CIC LANDIVISIAU
+PLOUGASTEL DAOULAS,cic,,unknown,CIC LANDERNEAU
+LESNEVEN,cic,,unknown,CIC LANDERNEAU
+AUDIERNE,cic,,unknown,CIC DOUARNENEZ
+ST POL DE LEON,cic,,unknown,CIC PAYS DE MORLAIX
+DINAN,cic,,unknown,CIC
+DINARD,cic,,unknown,CIC SAINT-MALO
+ST MALO,cic,,unknown,CIC SAINT-MALO - CIC DINARD
+LANNION,cic,,unknown,CIC
+PAIMPOL,cic,,unknown,CIC
+BREST,cic,,unknown,CIC BREST SIAM
+GUIPAVAS,cic,,unknown,CIC
+LANNION,e_leclerc,,unknown,LANNION CENTRE
+SAINT POL DE LEON,e_leclerc,,unknown,Drive Saint-Pol-de-Léon
+NOYAL SUR VILAINE,e_leclerc,,unknown,Drive Noyal-sur-Vilaine
+BREST,e_leclerc,,unknown,Drive BREST PORTE DE GOUESNOU
+PONT L'ABBE,e_leclerc,,unknown,Location
+Plonéour-Lanvern,e_leclerc,,unknown,Drive Plonéour-Lanvern
+pont l'abbé,e_leclerc,,unknown,Espace Culturel
+Pont l'Abbé,e_leclerc,,unknown,Pont l'Abbé
+PLOMEUR,e_leclerc,,unknown,Drive Plomeur - Pendreff
+LECOUSSE FOUGERES,e_leclerc,,unknown,FOUGERES
+LECOUSSE,e_leclerc,,unknown,Drive Fougères - Lecousse
+CROZON,e_leclerc,,unknown,Drive Crozon
+DINAN CEDEX,e_leclerc,,unknown,Drive Dinan
+DINAN,e_leclerc,,unknown,DINAN
+LANVALLAY,e_leclerc,,unknown,Express Lanvallay
+Lanvallay,e_leclerc,,unknown,DRIVE Relais Lanvallay
+CARHAIX,e_leclerc,,unknown,Location
+CARHAIX PLOUGUER CEDEX,e_leclerc,,unknown,Drive Carhaix Plouguer
+RENNES CEDEX,e_leclerc,,unknown,Espace Culturel
+RENNES,e_leclerc,,unknown,Station Service
+RENNES CLEUNAY,e_leclerc,,unknown,CLEUNAY
+BRUZ,e_leclerc,,unknown,Drive Bruz - Ker Lann
+Rennes,e_leclerc,,unknown,Drive Rennes - Cleunay
+Cesson Sévigne,e_leclerc,,unknown,Drive Cesson - Autopôle
+GUINGAMP CEDEX,e_leclerc,,unknown,GUINGAMP
+PLOUMAGOAR,e_leclerc,,unknown,Drive Ploumagoar / Guingamp
+Begard,e_leclerc,,unknown,Drive Bégard
+PLOUGUERNEVEL,e_leclerc,,unknown,Drive Plouguernevel
+Plouguernevel,e_leclerc,,unknown,Location
+SAINT MALO,e_leclerc,,unknown,Drive Saint-Malo
+GOURIN,e_leclerc,,unknown,Drive Gourin
+VITRE,e_leclerc,,unknown,Drive Vitré
+VANNES,e_leclerc,,unknown,Drive Vannes
+THEIX,e_leclerc,,unknown,Drive Theix-Noyalo
+LAMBALLE,e_leclerc,,unknown,Drive Lamballe
+Yffiniac,e_leclerc,,unknown,Drive Yffiniac
+SAINT GREGOIRE,e_leclerc,,unknown,DRIVE Relais Rennes - Guéhenno
+La Mézière,e_leclerc,,unknown,CAP MALO - LA MEZIERE
+HENNEBONT CEDEX,e_leclerc,,unknown,Drive Kervignac
+Hennebont,e_leclerc,,unknown,Drive Hennebont
+LOUDEAC,e_leclerc,,unknown,Drive Loudéac
+PLEUMELEUC,e_leclerc,,unknown,Drive Pleumeleuc
+AURAY,e_leclerc,,unknown,Drive Auray
+PAIMPOL,e_leclerc,,unknown,Drive Paimpol
+Lanvollon,e_leclerc,,unknown,Drive Lanvollon
+MORLAIX,e_leclerc,,unknown,Drive Morlaix
+Saint-Martin-des-Champs,e_leclerc,,unknown,Drive Saint-Martin-des-Champs
+LANNION CEDEX,e_leclerc,,unknown,Drive Lannion - Route Perros Guirec
+Lannion,e_leclerc,,unknown,Drive Lannion - Route de Guingamp
+VERN SUR SEICHE,e_leclerc,,unknown,Drive Vern- Val d'Orson
+NOYAL CHATILLON SUR SEICHE,e_leclerc,,unknown,Drive Noyal-Châtillon
+PONTIVY,e_leclerc,,unknown,PONTIVY
+PONTIVY CEDEX,e_leclerc,,unknown,Drive Pontivy
+Pontivy,e_leclerc,,unknown,Voyages
+Moréac,e_leclerc,,unknown,Drive Moréac
+Baud,e_leclerc,,unknown,Drive Baud
+PLOUFRAGAN,e_leclerc,,unknown,DRIVE Le Carpont - Ploufragan
+Bain de Bretagne,e_leclerc,,unknown,Drive Bain de Bretagne
+BAIN DE BRETAGNE,e_leclerc,,unknown,BAIN DE BRETAGNE
+LARMOR PLAGE,e_leclerc,,unknown,Drive Larmor-Plage
+PLERIN,e_leclerc,,unknown,Location
+TREMUSON,e_leclerc,,unknown,Drive Trémuson/ Plérin
+Saint-Brieuc,e_leclerc,,unknown,Drive Saint-Brieuc
+CONCARNEAU,e_leclerc,,unknown,Drive Concarneau
+Rosporden,e_leclerc,,unknown,Drive Rosporden
+PLOERMEL,e_leclerc,,unknown,Drive Ploermel
+Saint-Brandan,e_leclerc,,unknown,Drive Saint-Brandan
+SAINT-BRANDAN,e_leclerc,,unknown,SAINT-BRANDAN
+Plaintel,e_leclerc,,unknown,Brico
+Trégueux,e_leclerc,,unknown,Drive Trégueux - Les Chatelets
+CHATEAULIN,e_leclerc,,unknown,Drive Châteaulin
+LANESTER,e_leclerc,,unknown,LANESTER
+PLENEUF VAL ANDRE,e_leclerc,,unknown,Drive Pléneuf-Val-André
+SCAER,e_leclerc,,unknown,Drive Scaer
+QUEVEN,e_leclerc,,unknown,Drive Quéven
+PLUDUNO,e_leclerc,,unknown,Drive
+RIANTEC,e_leclerc,,unknown,Drive Riantec
+CHATEAUNEUF DU FAOU,e_leclerc,,unknown,DRIVE Châteauneuf-du-Faou
+Josselin,e_leclerc,,unknown,Drive Josselin
+JOSSELIN,e_leclerc,,unknown,JOSSELIN
+AUDIERNE,e_leclerc,,unknown,DRIVE Audierne
+LE FOLGOET,e_leclerc,,unknown,Drive Le Folgoët
+QUIMPER,e_leclerc,,unknown,Drive Quimper Nord Parc Expo
+Quimper,e_leclerc,,unknown,Drive Quimper Ouest Lududu
+QUIMPERLE,e_leclerc,,unknown,Drive Quimperlé
+Rédené,e_leclerc,,unknown,Drive Rédéné / Quimperlé Est
+GUILERS,e_leclerc,,unknown,Drive Guilers
+Brest,e_leclerc,,unknown,Drive Brest - 1ère DFL
+LANDIVISIAU CEDEX,e_leclerc,,unknown,Drive Landivisiau
+SAINT NICOLAS DE REDON,e_leclerc,,unknown,Drive Saint-Nicolas-de-Redon
+PLOUGASTEL DAOULAS,e_leclerc,,unknown,Drive Plougastel
+DOUARNENEZ,e_leclerc,,unknown,DRIVE Douarnenez-Pouldavid
+PLOUDALMEZEAU,e_leclerc,,unknown,Drive Ploudalmézeau
+LE RELECQ KERHUON,e_leclerc,,unknown,Drive Le Relecq-Kerhuon
+Guipavas,e_leclerc,,unknown,Drive Guipavas
+LANNILIS,e_leclerc,,unknown,Drive
+GOUESNOU,e_leclerc,,unknown,Location
+LANDERNEAU ,e_leclerc,,unknown,Voyages
+landerneau,e_leclerc,,unknown,Centre Auto Landerneau
+Saint Thonan,e_leclerc,,unknown,Centre Auto Saint Thonan
+LANDERNEAU CEDEX,e_leclerc,,unknown,Drive LANDERNEAU
+Landerneau,e_leclerc,,unknown,LANDERNEAU
+SAINT-THONAN,e_leclerc,,unknown,Location Auto SaintThonan
+SAINT THONAN,e_leclerc,,unknown,Drive Saint-Thonan
+PLEUVEN,e_leclerc,,unknown,Drive Fouesnant / Pleuven
+Yffiniac,fedex,,unknown,unknown
+Vitre,fedex,,unknown,unknown
+Vignoc,fedex,,unknown,unknown
+Vezin Le Coquet,fedex,,unknown,unknown
+Vern Sur Seiche,fedex,,unknown,unknown
+Vannes,fedex,,unknown,unknown
+Treverien,fedex,,unknown,unknown
+Tressignaux,fedex,,unknown,unknown
+Tregunc,fedex,,unknown,unknown
+Tregueux,fedex,,unknown,unknown
+Tregastel,fedex,,unknown,unknown
+Treffendel,fedex,,unknown,unknown
+Thorigne Fouillard,fedex,,unknown,unknown
+Talensac,fedex,,unknown,unknown
+Taden,fedex,,unknown,unknown
+St Thegonnec,fedex,,unknown,unknown
+St Sauveur,fedex,,unknown,unknown
+St Renan,fedex,,unknown,unknown
+St Quay Perros,fedex,,unknown,unknown
+St Pol De Leon,fedex,,unknown,unknown
+St Nolff,fedex,,unknown,unknown
+St Meloir Des Ondes,fedex,,unknown,unknown
+St Melaine,fedex,,unknown,unknown
+St Meen Le Grand,fedex,,unknown,unknown
+St Martin Des Champs,fedex,,unknown,unknown
+St Marc Le Blanc,fedex,,unknown,unknown
+St Malo,fedex,,unknown,unknown
+St Lormel,fedex,,unknown,unknown
+St Julien,fedex,,unknown,unknown
+St Jouan Des Guerets,fedex,,unknown,unknown
+St Jean Brevelay,fedex,,unknown,unknown
+St Jacques De La Lande,fedex,,unknown,FedEx Express FR
+St Guinoux,fedex,,unknown,unknown
+St Gregoire,fedex,,unknown,unknown
+St Gonnery,fedex,,unknown,unknown
+St Gilles,fedex,,unknown,unknown
+St Germain Sur Ille,fedex,,unknown,unknown
+St Germain En Cogles,fedex,,unknown,unknown
+St Ganton,fedex,,unknown,unknown
+St Evarzec,fedex,,unknown,unknown
+St Donan,fedex,,unknown,unknown
+St Divy,fedex,,unknown,unknown
+St Christophe Des Bois,fedex,,unknown,unknown
+St Cast Le Guildo,fedex,,unknown,unknown
+St Brieuc,fedex,,unknown,unknown
+St Barthelemy,fedex,,unknown,unknown
+St Aubin Du Cormier,fedex,,unknown,unknown
+St Aubin D Aubigne,fedex,,unknown,unknown
+St Agathon,fedex,,unknown,unknown
+Sizun,fedex,,unknown,unknown
+Serent,fedex,,unknown,unknown
+Scaer,fedex,,unknown,unknown
+Rospez,fedex,,unknown,unknown
+Roscoff,fedex,,unknown,unknown
+Romagne,fedex,,unknown,unknown
+Riantec,fedex,,unknown,unknown
+Reze,fedex,,unknown,unknown
+Retiers,fedex,,unknown,unknown
+Rennes,fedex,,unknown,unknown
+Reguiny,fedex,,unknown,unknown
+Redon,fedex,,unknown,unknown
+Redene,fedex,,unknown,unknown
+Quintin,fedex,,unknown,unknown
+Quimperle,fedex,,unknown,unknown
+Quimper,fedex,,unknown,unknown
+Quiberon,fedex,,unknown,unknown
+Quevert,fedex,,unknown,unknown
+Queven,fedex,,unknown,unknown
+Questembert,fedex,,unknown,unknown
+Priziac,fedex,,unknown,unknown
+Pouldreuzic,fedex,,unknown,unknown
+Pordic,fedex,,unknown,unknown
+Pontivy,fedex,,unknown,unknown
+Pont L Abbe,fedex,,unknown,unknown
+Pont De Buis Les Quimerch,fedex,,unknown,unknown
+Pluneret,fedex,,unknown,unknown
+Plufur,fedex,,unknown,unknown
+Plouzane,fedex,,unknown,unknown
+Plouvara,fedex,,unknown,unknown
+Plourin Les Morlaix,fedex,,unknown,unknown
+Ploumagoar,fedex,,unknown,unknown
+Ploulec H,fedex,,unknown,unknown
+Plouigneau,fedex,,unknown,unknown
+Plouhinec,fedex,,unknown,unknown
+Plouharnel,fedex,,unknown,unknown
+Plouguerneau,fedex,,unknown,unknown
+Plougourvest,fedex,,unknown,unknown
+Plougoumelen,fedex,,unknown,unknown
+Plougonven,fedex,,unknown,unknown
+Plougastel Daoulas,fedex,,unknown,unknown
+Plougasnou,fedex,,unknown,unknown
+Plouezec,fedex,,unknown,unknown
+Plouescat,fedex,,unknown,unknown
+Plouer Sur Rance,fedex,,unknown,unknown
+Plouenan,fedex,,unknown,unknown
+Ploudalmezeau,fedex,,unknown,unknown
+Ploubalay,fedex,,unknown,unknown
+Ploermel,fedex,,unknown,unknown
+Ploemeur,fedex,,unknown,unknown
+Pleurtuit,fedex,,unknown,unknown
+Pleumeur Gautier,fedex,,unknown,unknown
+Pleumeur Bodou,fedex,,unknown,unknown
+Pleumeleuc,fedex,,unknown,unknown
+Pleucadeuc,fedex,,unknown,unknown
+Plestan,fedex,,unknown,unknown
+Pleslin Trigavou,fedex,,unknown,unknown
+Plerin,fedex,,unknown,unknown
+Plerguer,fedex,,unknown,unknown
+Pleneuf Val Andre,fedex,,unknown,unknown
+Plemet,fedex,,unknown,unknown
+Plelan Le Petit,fedex,,unknown,unknown
+Plelan Le Grand,fedex,,unknown,unknown
+Pleine Fougeres,fedex,,unknown,unknown
+Pledeliac,fedex,,unknown,unknown
+Plechatel,fedex,,unknown,unknown
+Plabennec,fedex,,unknown,unknown
+Pipriac,fedex,,unknown,unknown
+Peumerit,fedex,,unknown,unknown
+Perros Guirec,fedex,,unknown,unknown
+Penvenan,fedex,,unknown,unknown
+Penmarch,fedex,,unknown,unknown
+Parthenay De Bretagne,fedex,,unknown,unknown
+Paimpol,fedex,,unknown,unknown
+Pace,fedex,,unknown,unknown
+Orgeres,fedex,,unknown,unknown
+Noyal Sur Vilaine,fedex,,unknown,unknown
+Noyal Chatillon Sur Seiche,fedex,,unknown,unknown
+Nouvoitou,fedex,,unknown,unknown
+Mur De Bretagne,fedex,,unknown,unknown
+Moulins,fedex,,unknown,unknown
+Morlaix,fedex,,unknown,unknown
+Mordelles,fedex,,unknown,unknown
+Montfort Sur Meu,fedex,,unknown,unknown
+Monterblanc,fedex,,unknown,unknown
+Montauban De Bretagne,fedex,,unknown,unknown
+Moncontour De Bretagne,fedex,,unknown,unknown
+Moelan Sur Mer,fedex,,unknown,unknown
+Minihy Treguier,fedex,,unknown,unknown
+Mezieres Sur Couesnon,fedex,,unknown,unknown
+Mernel,fedex,,unknown,unknown
+Medreac,fedex,,unknown,unknown
+Maurs,fedex,,unknown,unknown
+Mauron,fedex,,unknown,unknown
+Matignon,fedex,,unknown,unknown
+Martigne Ferchaud,fedex,,unknown,unknown
+Malguenac,fedex,,unknown,unknown
+Malestroit,fedex,,unknown,unknown
+Malansac,fedex,,unknown,unknown
+Louvigne Du Desert,fedex,,unknown,unknown
+Loudeac,fedex,,unknown,unknown
+Lorient,fedex,,unknown,unknown
+Locoal Mendon,fedex,,unknown,unknown
+Locmine,fedex,,unknown,unknown
+Locmaria Plouzane,fedex,,unknown,unknown
+Liffre,fedex,,unknown,unknown
+Lecousse,fedex,,unknown,unknown
+Le Vivier Sur Mer,fedex,,unknown,unknown
+Le Tour Du Parc,fedex,,unknown,unknown
+Le Rheu,fedex,,unknown,unknown
+Le Relecq Kerhuon,fedex,,unknown,unknown
+Le Pertre,fedex,,unknown,unknown
+Le Faou,fedex,,unknown,unknown
+Le Cloitre Pleyben,fedex,,unknown,unknown
+Larre,fedex,,unknown,unknown
+Lanvollon,fedex,,unknown,unknown
+Lanvenegen,fedex,,unknown,unknown
+Lannion,fedex,,unknown,unknown
+Lanmeur,fedex,,unknown,unknown
+Langueux,fedex,,unknown,unknown
+Lanester,fedex,,unknown,unknown
+Landrevarzec,fedex,,unknown,unknown
+Landivisiau,fedex,,unknown,unknown
+Landevant,fedex,,unknown,unknown
+Landerneau,fedex,,unknown,unknown
+Landeda,fedex,,unknown,unknown
+Lampaul Plouarzel,fedex,,unknown,unknown
+Lamballe,fedex,,unknown,unknown
+La Vraie Croix,fedex,,unknown,unknown
+La Richardais,fedex,,unknown,unknown
+La Noe Blanche,fedex,,unknown,unknown
+La Motte,fedex,,unknown,unknown
+La Guerche De Bretagne,fedex,,unknown,unknown
+La Gacilly,fedex,,unknown,unknown
+La Chapelle Thouarault,fedex,,unknown,unknown
+La Chapelle Des Fougeretz,fedex,,unknown,unknown
+La Chapelle Chaussee,fedex,,unknown,unknown
+La Bouexiere,fedex,,unknown,unknown
+La Bosse De Bretagne,fedex,,unknown,unknown
+Kervignac,fedex,,unknown,unknown
+Kerlouan,fedex,,unknown,unknown
+Janze,fedex,,unknown,unknown
+Inzinzac Lochrist,fedex,,unknown,unknown
+Inguiniel,fedex,,unknown,unknown
+Iffendic,fedex,,unknown,unknown
+Huelgoat,fedex,,unknown,unknown
+Hennebont,fedex,,unknown,unknown
+Hemonstoir,fedex,,unknown,unknown
+Guitte,fedex,,unknown,unknown
+Guiscriff,fedex,,unknown,unknown
+Guipry,fedex,,unknown,unknown
+Guipavas,fedex,,unknown,FedEx Express FR
+Guingamp,fedex,,unknown,unknown
+Guilvinec,fedex,,unknown,unknown
+Guilers,fedex,,unknown,unknown
+Guignen,fedex,,unknown,unknown
+Guidel,fedex,,unknown,unknown
+Guiclan,fedex,,unknown,unknown
+Guichen,fedex,,unknown,unknown
+Guer,fedex,,unknown,unknown
+Guemene Sur Scorff,fedex,,unknown,unknown
+Gueltas,fedex,,unknown,unknown
+Grand Champ,fedex,,unknown,unknown
+Gourin,fedex,,unknown,unknown
+Gouesnou,fedex,,unknown,unknown
+Geveze,fedex,,unknown,unknown
+Gausson,fedex,,unknown,unknown
+Garlan,fedex,,unknown,unknown
+Fougeres,fedex,,unknown,unknown
+Fouesnant,fedex,,unknown,unknown
+Evran,fedex,,unknown,unknown
+Etel,fedex,,unknown,unknown
+Ergue Gaberic,fedex,,unknown,unknown
+Erdeven,fedex,,unknown,unknown
+Erce Pres Liffre,fedex,,unknown,unknown
+Erce En Lamee,fedex,,unknown,unknown
+Elven,fedex,,unknown,unknown
+Douarnenez,fedex,,unknown,unknown
+Domloup,fedex,,unknown,unknown
+Dol De Bretagne,fedex,,unknown,unknown
+Dinard,fedex,,unknown,unknown
+Dinan,fedex,,unknown,unknown
+Cuille,fedex,,unknown,unknown
+Corseul,fedex,,unknown,unknown
+Coray,fedex,,unknown,unknown
+Concarneau,fedex,,unknown,unknown
+Combourg,fedex,,unknown,unknown
+Cleder,fedex,,unknown,unknown
+Chatelaudren,fedex,,unknown,unknown
+Chateauneuf Du Faou,fedex,,unknown,unknown
+Chateaulin,fedex,,unknown,unknown
+Chateaugiron,fedex,,unknown,unknown
+Chasne Sur Illet,fedex,,unknown,unknown
+Chantepie,fedex,,unknown,unknown
+Cesson Sevigne,fedex,,unknown,FedEx Express FR
+Cerilly,fedex,,unknown,unknown
+Caulnes,fedex,,unknown,unknown
+Caudan,fedex,,unknown,unknown
+Carnac,fedex,,unknown,unknown
+Carhaix Plouguer,fedex,,unknown,unknown
+Cancale,fedex,,unknown,unknown
+Camors,fedex,,unknown,unknown
+Callac De Bretagne,fedex,,unknown,unknown
+VITRE,ikks,,unknown,XandO Women VITRE
+FOUGERES,ikks,,unknown,XandO JUNIOR FOUGERES
+RENNES,ikks,,unknown,IKKS Junior RENNES
+ST GREGOIRE,ikks,,unknown,IKKS Junior ST GREGOIRE
+SAINT GREGOIRE,ikks,,unknown,IKKS Women Men RENNES ST GREGOIRE
+PLOERMEL,ikks,,unknown,XandO JUNIOR PLOERMEL
+VANNES,ikks,,unknown,IKKS JUNIOR VANNES
+AURAY,ikks,,unknown,XandO JUNIOR AURAY
+SAINT MALO,ikks,,unknown,IKKS Junior ST MALO
+PONTIVY,ikks,,unknown,XandO JUNIOR PONTIVY
+LORIENT,ikks,,unknown,ICODE LORIENT
+LAMBALLE,ikks,,unknown,LAMBALLE MMXJ
+ST BRIEUC,ikks,,unknown,IKKS Women Men ST BRIEUC
+CONCARNEAU,ikks,,unknown,XandO Women CONCARNEAU
+FOUESNANT,ikks,,unknown,FOUESNANT MMXJ
+QUIMPER,ikks,,unknown,IKKS Junior QUIMPER
+LANNION,ikks,,unknown,XandO Women LANNION
+BREST,ikks,,unknown,IKKS Men BREST
+Departement des Cotes-d'Armor,ionity,,unknown,Kergoët
+Departement du Finistere,ionity,,unknown,Le Faou
+Renneslebastard,lovisa,,unknown,Lovisa
+Departement du Finistere,pokawa,E.Leclerc Porte De Gouesnou  Gouesnou   29850,unknown,Pokawa Gouesnou
+Rennes,starbucks_eu,Pl de la Republique 3500 Rennes,unknown,Rennes Place De La Republique
+Rennes,starbucks_eu,5 Rue du Bosphore 350001 Rennes,unknown,Rennes CC-Alma

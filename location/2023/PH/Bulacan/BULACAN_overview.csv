@@ -1,0 +1,116 @@
+City,Place Name,Zipcode,Name
+San Jose Del Monte,anytime_fitness,,unknown,Anytime Fitness
+Marilao,anytime_fitness,,unknown,Anytime Fitness
+Malolos,anytime_fitness,,unknown,Anytime Fitness
+Marilao,caltex,,unknown,Caltex Marilao
+Guiguinto,caltex,,unknown,Caltex Guiguinto
+"Gen. Alejo Santos Highway, Bustos",caltex,,unknown,Caltex Bustos
+Baliuag,mcdonalds_ph,PLAZA NANING NEAR ST. AUGUSTINE CHURCH POBLACION BALIUAG BULACAN,unknown,BALIUAG
+Bocaue,mcdonalds_ph,NATIONAL HI-WAY BO. BINANG II BOCAUE BULACAN,unknown,BOCAUE
+Bocaue,mcdonalds_ph,KM 30 NLT ALONG NORTH EXPRESS WAY PETRON GASOLINE STATION BOCAUE BULACAN,unknown,PETRON NORTH
+Malolos City,mcdonalds_ph,SOUTH SUPERMARKET MCARTHUR HI-WAY MALOLOS BULACAN,unknown,SO. SUPERMARKET MALOLOS
+Marilao,mcdonalds_ph,MCARTHUR HIGHWAY MARILAO BULACAN,unknown,SM MARILAO
+Sta Maria,mcdonalds_ph,PNB & BRAINSTORMS BUILDING STA. MARIA BULACAN,unknown,STA MARIA
+Malolos City,mcdonalds_ph,MCARTHUR HIGHWAY MALOLOS BULACAN,unknown,BSU MALOLOS
+Meycauayan,mcdonalds_ph,SUPIMA SQUARE MALHACAN ROAD BRGY. MALHACAN MEYCAUAYAN CITY BULACAN,unknown,SUPIMA
+Pulilan,mcdonalds_ph,DRT HIGHWAY BRGY. CUTCOT PULILAN BULACAN,unknown,PULILAN DRT HIGHWAY
+San Jose Del Monte,mcdonalds_ph,QUIRINO HIGHWAY COR. KAYPIAN RD. BRGY. KAYPIAN SAN JOSE DEL MONTE BULACAN,unknown,STARMALL SJDM BULACAN
+Bocaue,mcdonalds_ph,MCARTHUR HIGHWAY BRGY. LOLOMBOY BOCAUE BULACAN,unknown,MCARTHUR BOCAUE
+Malolos City,mcdonalds_ph,MANHATTAN PLAZA MACARTHUR HIGHWAY BRGY. TIKAY MALOLOS BULACAN,unknown,MALOLOS ARCH
+San Jose Del Monte,mcdonalds_ph,159-161A UGF SM SAN JOSE DEL MONTE QUIRINO AVE BULACAN,unknown,SM SAN JOSE
+Plaridel,mcdonalds_ph,PETRON KM 42 NLEX NORTHBOUND PULILAN BULACAN,unknown,NLEX KM42 PETRON
+Plaridel,mcdonalds_ph,STA. RITA- CAGAYAN ROAD PLARIDEL BULACAN,unknown,PLARIDEL
+Meycauayan,mcdonalds_ph,MAHARLIKA HIGHWAY CAUAYAN CITY ISABELA,unknown,PRIMARK CAUAYAN
+Sta Maria,mcdonalds_ph,STA. MARIA BY-PASS ROAD BRGY. STA. CLARA STA. MARIA BULACAN,unknown,STA CLARA
+San Jose Del Monte,mcdonalds_ph,SAVANO PARK CORNER NARRA ST. BRGY. SAN MANUEL SAN JOSE DEL MONTE BULACAN,unknown,SAVANO PARK
+Malolos City,mcdonalds_ph,ESTRELLA  ST. CORNER STO. NINO ST. POBLACION MALOLOS BULACAN,unknown,MALOLOS BAYAN
+Plaridel,mcdonalds_ph,PRIMARK PLARIDEL NATIONAL HIGHWAY CORNER REYES PLARIDEL BULACAN,unknown,PRIMARK PLARIDEL
+San Miguel Bulacan,mcdonalds_ph,CAGAYAN VALLEY ROAD CAMIAS SAN MIGUEL BULACAN,unknown,SAN MIGUEL
+Balagtas,mcdonalds_ph,ALONG MCARTHUR HIGHWAY CORNER GALVEZ ST. BRGY SAN JUAN BALAGTAS BULACAN,unknown,BALAGTAS BULACAN
+Marilao,mcdonalds_ph,MCARTHUR HIGHWAY CORNER SANDICO ST. BRGY. IBAYO MARILAO BULACAN,unknown,MARILAO TRES PICOS
+San Jose Del Monte,mcdonalds_ph,285 CARRIEDO ST. BRGY. MUZON SAN JOSE DEL MONTE BULACAN,unknown,MUZON
+Guiguinto,mcdonalds_ph,MCARTHUR HWAY BRGY. TUKTUKAN GUIGUINTO BULACAN,unknown,GUIGUINTO
+Sta Maria,mcdonalds_ph,NORZAGARAY STA MARIA ROAD BRGY. PULONG BUHANGIN STA MARIA BULACAN,unknown,PULONG BUHANGIN
+Baliuag,mcdonalds_ph,DONA REMEDIOS TRINIDAD HIGHWAY BRGY. PAGALA BALIWAG BULACAN,unknown,BALIWAG HIGHWAY
+Guiguinto,mcdonalds_ph,346 CAGAYAN VALLEY ROAD BRGY. STA RITA GUIGUINTO BULACAN,unknown,SANTA RITA GUIGUINTO
+Guiguinto,mcdonalds_ph,Plaridle Bypass Road Brgy Tiaong Guiguinto Bulacan,unknown,GUIGUINTO PLARIDEL - BYPASS
+PAOMBONG,shell,,unknown,SH PAOMBONG BULACAN
+MALOLOS CITY,shell,,unknown,SH BRGY DAKILA MALOLOS
+BULACAN,shell,,unknown,SH PARADA STA MARIA BUL
+PULILAN,shell,,unknown,SH DRT HWAY S CRISTO PUL
+PLARIDEL,shell,,unknown,SH PLARIDEL BYPASS ROAD
+SAN JOSE DEL MONTE CITY,shell,,unknown,SH MAHARLIKA SAN JOSE DEL MONTE
+MEYCAUAYAN CITY,shell,,unknown,SH BANGA MCARTHUR HWAY
+MARILAO BULACAN,shell,,unknown,SH MCARTHUR MARILAO BULACAN
+GUIGUINTO,shell,,unknown,SH TABANG TOLL GUIGUINTO
+BALAGTAS,shell,,unknown,SH SAN JUAN BALAGTAS BUL
+BALIUAG,shell,,unknown,SH DRT TANGOS BALIWAG BUL
+BULACAN CITY,shell,,unknown,SH DRT CARPA BALIUAG BUL
+SANTA MARIA,shell,,unknown,SH BYPASS STA MARIA BUL
+BOCAUE,shell,,unknown,SH BINAN II MCARTHUR HWAY
+BUSTOS,shell,,unknown,SH POBLACION BUSTOS BULCN
+BALIWAG,shell,,unknown,SH SABANG BALIUAG
+STA MARIA,shell,,unknown,SH SAN JOSE PATAG STA MARIA
+MARILAO,shell,,unknown,SH MARILAO BULACAN
+ANGAT,shell,,unknown,SH FERNANDO ANGAT BULACAN
+NORZAGARAY,shell,,unknown,SH NORZAGARAY BULACAN
+SAN JOSE DEL MONTE,shell,,unknown,SH MINUYAN SJDM
+SAN RAFAEL,shell,,unknown,SH CASOBEY SN RAFAEL BULCN
+SAN MIGUEL,shell,,unknown,SH OLD STA RITA SN MIGUEL
+SAN ILDEFONSO,shell,,unknown,SH SAN IDELFONSO BULACAN
+NORZAGARAY,visa,,unknown,unknown
+MEYCAUAYAN,visa,,unknown,unknown
+SAN JOSE DEL MONTE CITY,visa,,unknown,unknown
+ANGAT,visa,,unknown,unknown
+SAN RAFAEL,visa,,unknown,unknown
+SAN ILDEFONSO,visa,,unknown,unknown
+MALOLOS,visa,,unknown,unknown
+SAN MIGUEL,visa,,unknown,unknown
+MARILAO,visa,,unknown,unknown
+HAGONOY,visa,,unknown,unknown
+CALUMPIT,visa,,unknown,unknown
+MALOLOS CITY,visa,,unknown,unknown
+PULILAN,visa,,unknown,unknown
+PAOMBONG,visa,,unknown,unknown
+PLARIDEL,visa,,unknown,unknown
+GUIGUINTO,visa,,unknown,unknown
+BALIWAG,visa,,unknown,unknown
+GUIGUINTO(CITY),visa,,unknown,unknown
+BALIUAG,visa,,unknown,unknown
+BUSTOS,visa,,unknown,unknown
+BALAGTAS,visa,,unknown,unknown
+BOCAUE,visa,,unknown,unknown
+STA MARIA,visa,,unknown,unknown
+BULAKAN,visa,,unknown,unknown
+SANTA MARIA,visa,,unknown,unknown
+PANDI,visa,,unknown,unknown
+OBANDO,visa,,unknown,unknown
+STA. MARIA,visa,,unknown,unknown
+MEYCAUAYAN CITY,visa,,unknown,unknown
+BALIUAG(CITY),visa,,unknown,unknown
+SAN JOSE DEL MONTE,visa,,unknown,unknown
+SAN JOSE CITY,visa,,unknown,unknown
+SAN JOSE,visa,,unknown,unknown
+STA. ROSA,visa,,unknown,unknown
+San Rafael,western_union,,unknown,PALAWAN PAWNSHOP-SAN RAFAEL
+San Miguel,western_union,,unknown,CLH SAN MIGUEL STA RITA
+San Jose Del Monte,western_union,,unknown,LTJ HARDWARE TRADING
+San Jose Del Monte City,western_union,,unknown,PALAWAN PAWNSHOP  SAPANG PALAY
+Santa Maria,western_union,,unknown,IRENE TARDIO REMITTANCE CENTER
+Pandi,western_union,,unknown,BYBLOS ENTERPRISES
+Sta  Maria,western_union,,unknown,HRV VILLARICA PAWNSHOP INC CAYPOMBO
+Guiguinto,western_union,,unknown,BDO BULACAN  STA RITA GUIGUINTO
+Plaridel,western_union,,unknown,MLI PLARIDEL 1 BULACAN
+Sta Maria,western_union,,unknown,MLI PULONG BUHANGIN
+Bustos,western_union,,unknown,HL VILLARICA PAWNSHOP INC  BUSTOS
+Baliuag,western_union,,unknown,LEGACY PAWNSHOP
+Baliwag,western_union,,unknown,PFSI BULACAN-BALIUAG-BAGONG NAYON
+"Santa Maria,",western_union,,unknown,SINAG PAWNSHOP CORP-C.POMBO STAMARIA BUL
+Bulacan,western_union,,unknown,PETNET SAN MIGUEL
+Balagtas,western_union,,unknown,HRV VILLARICA PAWNSHOP INC  BALAGTAS 5
+Norzagaray,western_union,,unknown,MLI NORZAGARAY BULACAN
+Bigte,western_union,,unknown,MLI BIGTE BULACAN
+Baluiag,western_union,,unknown,SM FOREX DEPT  STORE BALIWAG
+Angat,western_union,,unknown,MLI ANGAT BULACAN
+San Ildefonso,western_union,,unknown,SINAG PAWNSHOP CORP-SN ILDEFONSO BUN 3
+Malolos City,western_union,,unknown,PALAWAN PAWNSHOP MALOLOS HIGHWAY

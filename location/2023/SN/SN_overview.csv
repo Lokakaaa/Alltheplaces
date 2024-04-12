@@ -1,0 +1,567 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+DELACOMMUNEDEDAKARBP2631,avis,Dakar,1
+DIASS,avis,Diass,1
+DAKAR,deloitte,unknown,1
+UNKNOWN,ernst_young,Dakar,1
+UNKNOWN,ford,Dakar,5
+01,hugo_boss,Dakar,1
+UNKNOWN,leonidas,Dakar,2
+UNKNOWN,man_truck_and_bus,Dakar,1
+UNKNOWN,marriott,Dakar,1
+DAKARREGION,mercedes_benz,Dakar,1
+UNKNOWN,moneygram,GUEDIAWAYE,121
+UNKNOWN,moneygram,DAKAR,4082
+UNKNOWN,moneygram,DIAMALAYE,1
+UNKNOWN,moneygram,MBACKE,18
+UNKNOWN,moneygram,THIES,470
+UNKNOWN,moneygram,KAOLACK,296
+UNKNOWN,moneygram,DIOURBEL,343
+UNKNOWN,moneygram,TOUBA,386
+UNKNOWN,moneygram,PIKINE,307
+UNKNOWN,moneygram,BAKEL,27
+UNKNOWN,moneygram,AMITIE,2
+UNKNOWN,moneygram,OUEST FOIRE,4
+UNKNOWN,moneygram,CAYAR,1
+UNKNOWN,moneygram,GRAND DAKAR,5
+UNKNOWN,moneygram,PATTES D'OIE,1
+UNKNOWN,moneygram,YOFF,17
+UNKNOWN,moneygram,THIAROYE,16
+UNKNOWN,moneygram,NIACOURAB,1
+UNKNOWN,moneygram,MARISTES,3
+UNKNOWN,moneygram,DIACKSAO,2
+UNKNOWN,moneygram,SICAP MBAO,2
+UNKNOWN,moneygram,MEDINA,4
+UNKNOWN,moneygram,OUAKAM,2
+UNKNOWN,moneygram,SICAP LIBERTE,3
+UNKNOWN,moneygram,SCAT URBAN,1
+UNKNOWN,moneygram,RUFISQUE,151
+UNKNOWN,moneygram,YEUMBEUL,17
+UNKNOWN,moneygram,GRAND YOFF,7
+UNKNOWN,moneygram,FADIA,1
+UNKNOWN,moneygram,MACKA KOULIBANTAN,1
+UNKNOWN,moneygram,CAMBERENE,1
+UNKNOWN,moneygram,CASTOR,3
+UNKNOWN,moneygram,FANN,1
+UNKNOWN,moneygram,PLATEAU,3
+UNKNOWN,moneygram,GOLF SUD,6
+UNKNOWN,moneygram,KEUR MASSAR,9
+UNKNOWN,moneygram,SIPRES,1
+UNKNOWN,moneygram,COLOBANE,3
+UNKNOWN,moneygram,FOIRE,2
+UNKNOWN,moneygram,PARCELLES ASSAINIES,8
+UNKNOWN,moneygram,MERMOZ,1
+UNKNOWN,moneygram,BARGNY,13
+UNKNOWN,moneygram,BAMBILOR,3
+UNKNOWN,moneygram,DIEUPEUL,2
+UNKNOWN,moneygram,KARANG,2
+UNKNOWN,moneygram,M'BAO,4
+UNKNOWN,moneygram,SOR,1
+UNKNOWN,moneygram,TAMBA,9
+UNKNOWN,moneygram,BOUNE,1
+UNKNOWN,moneygram,KEUR MBAYE FALL,5
+UNKNOWN,moneygram,ZAC MBAO,2
+UNKNOWN,moneygram,BOUCOTTE,2
+UNKNOWN,moneygram,NIORO,3
+UNKNOWN,moneygram,BOURGUIBA,2
+UNKNOWN,moneygram,SAMPATHE,1
+UNKNOWN,moneygram,YARAKH,2
+UNKNOWN,moneygram,ZONE DE CAPTAGE,1
+UNKNOWN,moneygram,MBOUR,368
+UNKNOWN,moneygram,FASS,2
+UNKNOWN,moneygram,CITE SENGHOR,1
+UNKNOWN,moneygram,RTE NATIONAL,1
+UNKNOWN,moneygram,SEBIKOTANE,4
+UNKNOWN,moneygram,GARE ROUTIERE,1
+UNKNOWN,moneygram,FASS MBAO,1
+UNKNOWN,moneygram,IMPOTS ET DOMAINES,1
+UNKNOWN,moneygram,PODOR,32
+UNKNOWN,moneygram,TIVAOUANE PEULH,1
+UNKNOWN,moneygram,FATICK,69
+UNKNOWN,moneygram,KOLDA,91
+UNKNOWN,moneygram,GOUDIRY,5
+UNKNOWN,moneygram,HANN,6
+UNKNOWN,moneygram,TIVAOUANE,26
+UNKNOWN,moneygram,TAMBA COUNDA,30
+UNKNOWN,moneygram,SAINT-LOUIS,151
+UNKNOWN,moneygram,ZIGUINCHOR,254
+UNKNOWN,moneygram,LOUGA,169
+UNKNOWN,moneygram,JOAL,9
+UNKNOWN,moneygram,TAMBACOUNDA,166
+UNKNOWN,moneygram,LIBERTE 6,1
+UNKNOWN,moneygram,MALIKA,4
+UNKNOWN,moneygram,ROSSO,2
+UNKNOWN,moneygram,LAC ROSE,1
+UNKNOWN,moneygram,ALMADIES,1
+UNKNOWN,moneygram,SICAP FOIRE,1
+UNKNOWN,moneygram,BALA,1
+UNKNOWN,moneygram,NIARRY TALLY,2
+UNKNOWN,moneygram,NDAGANE SAMBOU,1
+UNKNOWN,moneygram,CITE LAMY,1
+UNKNOWN,moneygram,DAROU SALAM,1
+UNKNOWN,moneygram,HAMO,1
+UNKNOWN,moneygram,GUEULE TAPEE,1
+UNKNOWN,moneygram,PATTES D OIES,1
+UNKNOWN,moneygram,UCAD,1
+UNKNOWN,moneygram,MATAM,90
+UNKNOWN,moneygram,OUROSSOGUI,21
+UNKNOWN,moneygram,KAFFRINE,20
+UNKNOWN,moneygram,MBORO,15
+UNKNOWN,moneygram,DALIFORT,1
+UNKNOWN,moneygram,RICHARD TOLL,7
+UNKNOWN,moneygram,KEDOUGOU,26
+UNKNOWN,moneygram,SEDHIOU,32
+UNKNOWN,moneygram,KIDIRA,14
+UNKNOWN,moneygram,TOUBACOUTA,4
+UNKNOWN,moneygram,GUADIAWAYE,1
+UNKNOWN,moneygram,FOUTA,5
+UNKNOWN,moneygram,OUSSOUYE,2
+UNKNOWN,moneygram,BIGNONA,11
+UNKNOWN,moneygram,ESCALE,1
+UNKNOWN,moneygram,KOUNGHEUL,1
+UNKNOWN,moneygram,PASSY,2
+UNKNOWN,moneygram,TIVAOUNE,23
+UNKNOWN,moneygram,ST LOUIS,29
+UNKNOWN,moneygram,VELINGARA,8
+UNKNOWN,moneygram,KEBEMER,20
+UNKNOWN,moneygram,ZIGUNICHOR,7
+UNKNOWN,moneygram,TAMBACOUNA,2
+UNKNOWN,moneygram,MBAO,6
+UNKNOWN,moneygram,NGOR,3
+UNKNOWN,moneygram,MERY,1
+UNKNOWN,moneygram,NOTO,1
+UNKNOWN,moneygram,SEBIKHOTANE,2
+UNKNOWN,moneygram,BOKIDIAWE,3
+UNKNOWN,moneygram,MEKHE,5
+UNKNOWN,moneygram,KEDOUGO,1
+UNKNOWN,moneygram,M. TENDENG GERARD,1
+UNKNOWN,moneygram,NIODIOR,1
+UNKNOWN,moneygram,SAINT LOUIS,10
+UNKNOWN,moneygram,MEOUANE,1
+UNKNOWN,moneygram,SALY PORTUDAL,4
+UNKNOWN,moneygram,DINGUIRAYE,1
+UNKNOWN,moneygram,GOULOUMBOU,1
+UNKNOWN,moneygram,NGUEKHOKH,1
+UNKNOWN,moneygram,TEROKH,1
+UNKNOWN,moneygram,NDIOUM,4
+UNKNOWN,moneygram,DIOUBEL,1
+UNKNOWN,moneygram,BAMBEY,6
+UNKNOWN,moneygram,DAGANA,2
+UNKNOWN,moneygram,KAOKACK,1
+UNKNOWN,moneygram,AGNAM,1
+UNKNOWN,moneygram,MEDINA GOUNASS,2
+UNKNOWN,moneygram,KHOMBOLE,3
+UNKNOWN,moneygram,DIAOBE,3
+UNKNOWN,moneygram,DIAWARA,3
+UNKNOWN,moneygram,MEDINA YORO FOULAH,1
+UNKNOWN,moneygram,POUT,2
+UNKNOWN,moneygram,NDOULOUMADJI,1
+UNKNOWN,moneygram,KANEL,10
+UNKNOWN,moneygram,LINGUERE,2
+UNKNOWN,moneygram,MISSIRAH,2
+UNKNOWN,moneygram,SAINT-LOUISE,1
+UNKNOWN,moneygram,USINE,1
+UNKNOWN,moneygram,MARSASSOUM,1
+UNKNOWN,moneygram,TOUBA MOSQUEE,1
+UNKNOWN,moneygram,THILOGNE,3
+UNKNOWN,moneygram,TAMCOUNDA,1
+UNKNOWN,moneygram,DAHRA,3
+UNKNOWN,moneygram,RUFIQUE,1
+UNKNOWN,moneygram,ZIGUINCHROR,1
+UNKNOWN,moneygram,FACTICK,1
+UNKNOWN,moneygram,GOSSAS,1
+UNKNOWN,moneygram,FIMELA,2
+UNKNOWN,moneygram,THIENABA,2
+UNKNOWN,moneygram,NORD FOIRE,1
+UNKNOWN,moneygram,THI?S,1
+UNKNOWN,moneygram,NIANING,1
+UNKNOWN,moneygram,SALY,7
+UNKNOWN,moneygram,GOUDIRI,1
+UNKNOWN,moneygram,NOTTO,1
+UNKNOWN,moneygram,GOUDOMP,1
+UNKNOWN,moneygram,LEONA,2
+UNKNOWN,moneygram,FOUNDIOUGNE,4
+UNKNOWN,moneygram,DIOULOULOU,1
+UNKNOWN,moneygram,GUINGUINEO,8
+UNKNOWN,moneygram,ST LOUI,1
+UNKNOWN,moneygram,GAMBIE,1
+UNKNOWN,moneygram,KOUGHEUL,1
+UNKNOWN,moneygram,TAMBANCOUNDA,1
+UNKNOWN,moneygram,KAFOUNTINE,1
+UNKNOWN,moneygram,ZIGUINCHO,1
+UNKNOWN,moneygram,MATAMA,1
+UNKNOWN,moneygram,SAINT LOOUIS,1
+UNKNOWN,moneygram,SANGALKAM,2
+UNKNOWN,moneygram,SOKONE,2
+UNKNOWN,moneygram,GOREE,1
+UNKNOWN,moneygram,SABADOLA,1
+UNKNOWN,moneygram,WAOUNDE,1
+UNKNOWN,moneygram,GALOYA,2
+UNKNOWN,moneygram,MPAL,1
+UNKNOWN,moneygram,RICHARD-TOLL,1
+UNKNOWN,moneygram,MBOURG,1
+UNKNOWN,moneygram,SEMME,1
+UNKNOWN,moneygram,BANDAJIKAKI,1
+UNKNOWN,moneygram,OUAOUNDE,1
+UNKNOWN,moneygram,SOMONE,1
+UNKNOWN,moneygram,KOUSSANAR,2
+UNKNOWN,moneygram,GUANDIAYE,1
+UNKNOWN,moneygram,GUEDIAWYE,6
+UNKNOWN,moneygram,JOAL-FADIOUTH,1
+UNKNOWN,moneygram,ZINGUINCHOR,1
+UNKNOWN,moneygram,GEOULE,1
+UNKNOWN,moneygram,MBEDIENE,1
+UNKNOWN,moneygram,KAB GUEYE,1
+UNKNOWN,moneygram,THIAROYE SUR MER,1
+UNKNOWN,moneygram,GUEOUL,1
+UNKNOWN,moneygram,KEDOUDOU,1
+UNKNOWN,moneygram,GUEDIAWE,2
+UNKNOWN,moneygram,BOUNKILING,2
+UNKNOWN,moneygram,FANAYE,1
+UNKNOWN,moneygram,KAYAR,2
+UNKNOWN,moneygram,SINTHIOU GARBA,1
+UNKNOWN,moneygram,DIASS,1
+UNKNOWN,moneygram,KOBILO DIADIABE,1
+UNKNOWN,moneygram,RAO,1
+UNKNOWN,moneygram,NIORO DU RIP,2
+UNKNOWN,moneygram,DIAMNIADIO,1
+UNKNOWN,moneygram,SEDIOU,1
+UNKNOWN,moneygram,CAP SKIRRING,1
+UNKNOWN,moneygram,DANTHIADY,1
+UNKNOWN,moneygram,GOLMY,1
+UNKNOWN,moneygram,KOLIBANTANG,1
+UNKNOWN,moneygram,SALIKEGNE,1
+UNKNOWN,moneygram,TANAFF,1
+UNKNOWN,moneygram,CAS-CAS,1
+UNKNOWN,moneygram,KARANG POSTE,1
+UNKNOWN,moneygram,NDANDE,1
+UNKNOWN,moneygram,KEUR MOUSSA,1
+UNKNOWN,moneygram,DARA,1
+UNKNOWN,moneygram,RICHARDTOLL,1
+UNKNOWN,moneygram,OURO SOGUI,2
+UNKNOWN,moneygram,MBAKE,2
+UNKNOWN,moneygram,BOKI DIAW,1
+UNKNOWN,moneygram,HANN BEL AIR,1
+UNKNOWN,moneygram,ESCALE SUD,1
+UNKNOWN,moneygram,PARECELLES ASSAINIES,1
+UNKNOWN,moneygram,GUINAW RAILS NORD,1
+UNKNOWN,moneygram,SL-LOUIS,2
+UNKNOWN,moneygram,COMMUNE CAYAR,1
+UNKNOWN,moneygram,HAMADY OUNARE,1
+UNKNOWN,moneygram,NABADJI CIVOL,1
+UNKNOWN,moneygram,SAINT LYESS,1
+UNKNOWN,shell,Saint Louis,6
+UNKNOWN,shell,Sindia,2
+UNKNOWN,shell,Dakar,31
+UNKNOWN,shell,Mpal,1
+UNKNOWN,shell,Louga,4
+UNKNOWN,shell,Kébémer,2
+UNKNOWN,shell,Ouarak,1
+UNKNOWN,shell,Richard Toll,2
+UNKNOWN,shell,Thiès,9
+UNKNOWN,shell,Mboro,1
+UNKNOWN,shell,Tivaouane,3
+UNKNOWN,shell,Cayar,1
+UNKNOWN,shell,Touba,10
+UNKNOWN,shell,Bambey,1
+UNKNOWN,shell,Mbacké,1
+UNKNOWN,shell,Rufisque,5
+UNKNOWN,shell,Diourbel,2
+UNKNOWN,shell,Yéba,1
+UNKNOWN,shell,Pikine,6
+UNKNOWN,shell,Bakel,1
+UNKNOWN,shell,Goudiry,1
+UNKNOWN,shell,Kédougou,1
+UNKNOWN,shell,Ourossogui,2
+UNKNOWN,shell,Tambacounda,2
+UNKNOWN,shell,Vélingara,1
+UNKNOWN,shell,Diaoubé,1
+UNKNOWN,shell,Koumpentoum,1
+UNKNOWN,shell,Koungheul,1
+UNKNOWN,shell,Linguère,1
+UNKNOWN,shell,Kolda,2
+UNKNOWN,shell,Missirah,1
+UNKNOWN,shell,Passy,1
+UNKNOWN,shell,Ndangane,1
+UNKNOWN,shell,Joal,2
+UNKNOWN,shell,Kaolack,2
+UNKNOWN,shell,Fatick,2
+UNKNOWN,shell,Ndiosmone,1
+UNKNOWN,shell,Mbour,6
+UNKNOWN,shell,Sedhiou,1
+UNKNOWN,shell,Saly,1
+UNKNOWN,shell,Bignona,1
+UNKNOWN,shell,Gossas,1
+UNKNOWN,shell,Ngaparou,1
+UNKNOWN,shell,Diaroumé,1
+UNKNOWN,shell,Ziguinchor,3
+UNKNOWN,shell,Cap Skirring,1
+UNKNOWN,sixt,Diass,1
+UNKNOWN,sixt,Dakar,1
+UNKNOWN,totalenergies,Dakar,51
+UNKNOWN,totalenergies,DAKAR,3
+UNKNOWN,totalenergies,JOAL,2
+UNKNOWN,totalenergies,M'bour,2
+UNKNOWN,totalenergies,Fimela,1
+UNKNOWN,totalenergies,Mbour,2
+UNKNOWN,totalenergies,Icotaf,1
+UNKNOWN,totalenergies,Pikine,2
+UNKNOWN,totalenergies,Thiès,4
+UNKNOWN,totalenergies,Khombole,1
+UNKNOWN,totalenergies,Thies,4
+UNKNOWN,totalenergies,Saint-Louis,3
+UNKNOWN,totalenergies,Saint Louis,1
+UNKNOWN,totalenergies,Ross Béthio,1
+UNKNOWN,totalenergies,FANAYE DIERY,1
+UNKNOWN,totalenergies,Ndioum,1
+UNKNOWN,totalenergies,Podor,1
+UNKNOWN,totalenergies,Touba,8
+UNKNOWN,totalenergies,Darou Mousty,1
+UNKNOWN,totalenergies,Darha,1
+UNKNOWN,totalenergies,Bambey,1
+UNKNOWN,totalenergies,Linguere,1
+UNKNOWN,totalenergies,Louga,2
+UNKNOWN,totalenergies,Kébémer,2
+UNKNOWN,totalenergies,Tivaouane,2
+UNKNOWN,totalenergies,Mboro,1
+UNKNOWN,totalenergies,Meckhe,1
+UNKNOWN,totalenergies,CAYAR,1
+UNKNOWN,totalenergies,thies,1
+UNKNOWN,totalenergies,Tambacounda,2
+UNKNOWN,totalenergies,Velingara,1
+UNKNOWN,totalenergies,Bakel,1
+UNKNOWN,totalenergies,Ouro Sogui,2
+UNKNOWN,totalenergies,Koungheul,1
+UNKNOWN,totalenergies,Ziguinchor,4
+UNKNOWN,totalenergies,Bignona,1
+UNKNOWN,totalenergies,Kolda,2
+UNKNOWN,totalenergies,ZIGUINCHOR,2
+UNKNOWN,totalenergies,Kaolack,7
+UNKNOWN,totalenergies,KAFFRINE,1
+UNKNOWN,totalenergies,Nioro Du Rip,2
+UNKNOWN,totalenergies,MBOUR,1
+UNKNOWN,totalenergies,TOUBA,1
+UNKNOWN,totalenergies,Gnibi ( Mbacké Vers Kaffrine),1
+UNKNOWN,totalenergies,LOUGA,1
+UNKNOWN,totalenergies,Kedougou,1
+UNKNOWN,totalenergies,DIOBE,1
+UNKNOWN,totalenergies,Amadi Ounare,1
+UNKNOWN,totalenergies,Tattaguine,1
+UNKNOWN,totalenergies,Mbacke,1
+UNKNOWN,totalenergies,Ndgoundiane,1
+UNKNOWN,totalenergies,Gossas,2
+UNKNOWN,totalenergies,Keur Ayip,1
+UNKNOWN,totalenergies,Dahra,1
+UNKNOWN,totalenergies,Darou Marnane,1
+UNKNOWN,totalenergies,Rufisque,1
+UNKNOWN,totalenergies,Gandigal,1
+UNKNOWN,totalenergies,Diourbel,3
+UNKNOWN,totalenergies,Mbacké,1
+UNKNOWN,totalenergies,Karang,1
+UNKNOWN,totalenergies,sokone mer,1
+UNKNOWN,totalenergies,Fatick,1
+UNKNOWN,totalenergies,Tamba,1
+UNKNOWN,totalenergies,St Louis,1
+UNKNOWN,totalenergies,Sedhiou,1
+UNKNOWN,totalenergies,THIES,1
+UNKNOWN,totalenergies,ST LOUIS,1
+UNKNOWN,totalenergies,Toubacouta,1
+UNKNOWN,totalenergies,Ndendory,1
+UNKNOWN,visa,KEDOUGOU,1
+UNKNOWN,visa,TAMBACOUNDA,1
+UNKNOWN,visa,KOLDA,1
+UNKNOWN,visa,TOUBA,3
+UNKNOWN,visa,ZIGUINCHOR,3
+UNKNOWN,visa,KAOLACK,1
+UNKNOWN,visa,DIOURBEL,1
+UNKNOWN,visa,MBOUR,2
+UNKNOWN,visa,THIES,3
+UNKNOWN,visa,LOUGA,1
+UNKNOWN,visa,DAKAR,57
+UNKNOWN,visa,DAKR,1
+UNKNOWN,visa,SAINT LOUIS,2
+SAINTLOUIS,western_union,Podor,6
+LOUGA,western_union,Louga,76
+LOUGA,western_union,Kebemer,11
+DAKAR,western_union,Dakar,1848
+THIES,western_union,Thies,187
+DAKAR,western_union,Pikine,60
+RUFISQUE,western_union,Rufisque,2
+THIES,western_union,Mbour,103
+KAOLACK,western_union,Kaolack,142
+KAOLACK,western_union,Koalack,1
+DIOURBEL,western_union,Diourbel,105
+TAMBACOUNDA,western_union,Tambacounda,130
+SAINTLOUIS,western_union,Saint-louis,14
+KOLDA,western_union,Medina Gounas,1
+DIOURBEL,western_union,Mbacke,9
+SENEGAL,western_union,Dakar,200
+TOUBA,western_union,Touba,61
+DIOURBEL,western_union,Touba,106
+SENE,western_union,Touba,1
+TAMBACOUNDA,western_union,Bakel,14
+TOUBA,western_union,Bakel,1
+ZIGUINCHOR,western_union,Ziguinchor,110
+SEDHIOU,western_union,Diaroume,1
+TAMBACOUNDA,western_union,Goudiry,3
+TAMBACOUNDA,western_union,Tambcounda,1
+MATAM,western_union,Ouaounde,1
+MATAM,western_union,Matam,41
+TAMBACOUNDA,western_union,Gabou,1
+KOLDA,western_union,Kolda,40
+MATAM,western_union,Kanel,10
+MATAM,western_union,Dakar,1
+MATAM,western_union,Waounde,3
+PODOR,western_union,Podor,10
+DAKAR,western_union,Matam,1
+UNKNOWN,western_union,Ziguinchor,3
+SENEGAL,western_union,Ziguinchor,3
+SENEGAL,western_union,Kolda,6
+TAMBACOUNDA,western_union,Ziguinchor,1
+MATAM,western_union,Wodobere,1
+SINTHIOUGARBA,western_union,Matam,1
+DAKAR,western_union,Guediawaye,51
+MATAM,western_union,Fouta,2
+OUROSSOGUI,western_union,Ourossogui,2
+TAMBACOUNDA,western_union,Goudiri,1
+PODOR,western_union,Matam,2
+KOBILODIADIABE,western_union,Matam,1
+SEDHIOU,western_union,Satioum,1
+SAINTLOUIS,western_union,Saint Louis,51
+SEDHIOU,western_union,Goudomp,1
+MATAM,western_union,Thilogne,1
+KOLDA,western_union,Velingara,3
+ZIGUINCHOR,western_union,Bignona,3
+ZIGUINCHOR,western_union,Casamance,1
+UNKNOWN,western_union,Velingara,1
+TAMBACOUNDA,western_union,Koumpetoum,1
+SENEGAL,western_union,Tambacounda,7
+MATAM,western_union,Ourossogui,2
+MATAM,western_union,Podor,1
+THIAM,western_union,Boinadji,1
+UNKNOWN,western_union,Tambacounda,1
+TAMBACOUNDA,western_union,Tamba,1
+TAMBA,western_union,Tamba,1
+CASAMANCE,western_union,Sedhiou,1
+SENEGAL,western_union,Kaolack,22
+FATICKSN,western_union,Baouth,1
+CAMARA,western_union,Podor,1
+PODOR,western_union,Saint-louis,1
+SEDHIOU,western_union,Sedhiou,9
+MBOUR,western_union,Mbour,12
+SEDHIOU,western_union,Kolda,1
+ZIGUINCHOR,western_union,Sedhiou,1
+KOLDA,western_union,Sedhiou,1
+TAMBACOUNDA,western_union,Kidira,7
+UNKNOWN,western_union,Kolda,7
+UNKNOWN,western_union,Dakar,35
+NDIAYE,western_union,Kolda,1
+DAKAR,western_union,Ngor,2
+KAOLACK,western_union,Nioro Du Rip,4
+UNKNOWN,western_union,Sedhiou,2
+DAKAR,western_union,Yoff,1
+THIES,western_union,Dakar,3
+THIES,western_union,Mboro,5
+DIOURBEL,western_union,Bambey,6
+SENEGAL,western_union,Sedhiou,1
+DAKAR,western_union,Keur Massar,3
+DAKAR,western_union,Grand Yoff,3
+DAKAR,western_union,Rufisque,76
+DAKAR,western_union,Fass,1
+DAKAR,western_union,Gueule Tapee,1
+DAKAR,western_union,Medina,2
+NIANG,western_union,Dakar,1
+DAKAR,western_union,Bopp,1
+UNKNOWN,western_union,Mbacke,3
+DAKAR,western_union,Colobane,1
+DAKAR,western_union,Castor,1
+DAKAR,western_union,Parcelles Assainies,1
+UNKNOWN,western_union,Diourbel,3
+DAKAR,western_union,Hann Mariste,2
+DAKAR,western_union,00687925,1
+UNKNOWN,western_union,Touba,6
+DAKR,western_union,Dakar,1
+FALL,western_union,Dakar,1
+SENEGAL,western_union,Pikine,4
+UNKNOWN,western_union,Pikine,1
+BARGNY,western_union,Dakar,1
+SAINTLOUIS,western_union,Saintlouis,5
+DAKAR,western_union,Thiaroye,1
+SAINTLOUIS,western_union,Dagana,5
+DAKAR,western_union,Malika,2
+DAKAR,western_union,Yeumbeul,3
+SEDHIOU,western_union,Bounkiling,1
+LO,western_union,Rosso,1
+DAKAR,western_union,Fadia,1
+MBAR,western_union,Mbar,1
+SAINTLOUIS,western_union,Richard Toll,2
+FATICK,western_union,Karang Poste,1
+DAKAR,western_union,Tivaoune Peulh,1
+DAKAR,western_union,Mbao,3
+DAKAR,western_union,Akar,1
+THIESS,western_union,Thiess,1
+SAINTLOUIS,western_union,Sanar,1
+SENEGAL,western_union,Saint -louis,1
+THIES,western_union,Popenguine,1
+UNKNOWN,western_union,Thies,2
+THIES,western_union,Nguaparou,1
+FATICK,western_union,Fatick,39
+SENEGAL,western_union,Thies,11
+THIES,western_union,Diass,1
+THIES,western_union,Saly,1
+SENEGAL,western_union,Mbour,4
+THIES,western_union,Ngaparou,1
+UNKNOWN,western_union,Tivaouane,2
+THIES,western_union,Pout,1
+THIES,western_union,Ngaparrou,1
+SENEGAL,western_union,Diourbel,19
+FATICK,western_union,Foundiougne,1
+THIES,western_union,Tivaouane,18
+UNKNOWN,western_union,Mbour,1
+THIES,western_union,Joal,2
+DAKAR,western_union,Mbour,1
+MBOUR,western_union,Mbour Sn,1
+RAO,western_union,Saint-louis,1
+THIES,western_union,Nianing,1
+FATICK,western_union,Toubacouta,1
+SENEGAL,western_union,Tivaouane,3
+TAMBACOUNDA,western_union,Koumpentoum,2
+SAINTLOUIS,western_union,Thies,1
+FATICK,western_union,Diofior,2
+SENEGAL,western_union,Diofior,1
+LO,western_union,Makka Baragueye,1
+UNKNOWN,western_union,Kaolack,3
+MEKHE,western_union,Thies,1
+LOUGA,western_union,Gueoul,1
+SENEGAL,western_union,Louga,11
+SENEGAL,western_union,Kaffrine,2
+LOUGA,western_union,Niomre,1
+FATICK,western_union,Sokone,1
+DIOURBEL,western_union,Ndondol,1
+LOUGA,western_union,Ndande,1
+KAOLACK,western_union,Q,1
+LEONA,western_union,Kaolack,1
+LOUGA,western_union,Sakal Louga,1
+KAFFRINE,western_union,Kaffrine,7
+BAMBEY,western_union,Diourbel,1
+KAOLACK,western_union,Koungheul,1
+KAOLACKSN,western_union,Kaolack,1
+LOUGA,western_union,Dahra,2
+KAOLACK,western_union,Kaffrine,2
+DIOURBEL,western_union,Dioubel,1
+NGOM,western_union,Diourbel,1
+SENEGAL,western_union,Touba,5
+KAFFRINE,western_union,Mbamba,1
+SENEGAL,western_union,Fatick,1
+SENEGAL,western_union,Matam,3
+SENEGAL,western_union,Saint Louis,1
+SENEGAL,western_union,Bambey,1
+BAKELKOUNGHANY,western_union,Bakel Kounghany,1
+BAKEL,western_union,Tambacounda,1
+TAMBACOUNDA,western_union,Commune De Gabou,1
+BAKEL,western_union,Bakel,1
+SENEGAL,western_union,Kedougou,6
+KEDOUGOU,western_union,Kedougou,11
+SALL,western_union,Dakar,1
+UNKNOWN,western_union,Louga,1
+UNKNOWN,western_union,Kedougou,1

@@ -1,0 +1,894 @@
+City,Place Name,Zipcode,Name
+unknown,accor,3 Stadium Road Rumuomasi Port Harcourt Rivers State 0 PORT HARCOURT RIVERS STATE,unknown,Novotel Port Harcourt
+unknown,accor,Murtala Mohamed Intl Airport Road AJAO ESTATE 234 LAGOS,unknown,ibis Lagos Airport
+unknown,accor,23 Toyin Street Ikeja 0000 LAGOS,unknown,ibis Lagos Ikeja
+unknown,accor,47 ALFRED REWANE ROAD IKOYI 101233 LAGOS,unknown,Mövenpick Hotel Ikoyi Lagos
+Abuja,bmw_group,,unknown,Coscharis Motors Ltd.
+Uyo,bmw_group,,unknown,Coscharis Motors Ltd.
+Lagos,bmw_group,,unknown,Coscharis Motors Ltd.
+Enugu,bmw_group,,unknown,Coscharis Motors Ltd.
+AWKA,bmw_group,,unknown,Coscharis Motors Ltd.
+Port Harcourt,bmw_group,,unknown,Coscharis Motors Ltd.
+CALABAR,bmw_group,,unknown,Coscharis Motors Ltd.
+LAGOS,bmw_group,,unknown,Coscharis Motors Ltd.
+Kano,bmw_group,,unknown,Coscharis Motors Ltd.
+ABUJA,bmw_group,,unknown,Coscharis Motors Ltd.
+Ibadan,bmw_group,,unknown,Coscharis Motors Ltd.
+Lagos,dodo_pizza,,unknown,Surelere
+Abuja,dodo_pizza,,unknown,Gwarimpa
+Lagos,ford,,unknown,Coscharis Group Limited
+Lagos,hardrock,,unknown,Hard Rock Cafe Lagos
+unknown,hilton,1 Aguiyi Ironsi Street Maitama Abuja 900001 Nigeria,unknown,Transcorp Hilton Abuja
+Otukpo,little_free_library,,unknown,Ignatius Obeya #140491 Otukpo
+Lagos,man_truck_and_bus,,unknown,SCOA Nigeria Plc
+Ikot Ekpene,marriott,,unknown,Four Points by Sheraton Ikot Ekpene
+Lagos,marriott,,unknown,Sheraton Lagos Hotel
+Benin City,marriott,,unknown,Protea Hotel Benin City Select Emotan
+New Owerri,marriott,,unknown,Protea Hotel Owerri Select
+Kaduna,mercedes_benz,,unknown,Barbedos Cars Ltd.
+"Ikeja, Lagos",mercedes_benz,,unknown,Skymit Motors Ltd.
+Maitma/Abuja,mercedes_benz,,unknown,Barbedos Cars Ltd.
+Enugu,mercedes_benz,,unknown,Tetralog Nigeria Ltd.
+Abuja,mercedes_benz,,unknown,Weststar Associates Ltd.
+"Lekkis, Lagos",mercedes_benz,,unknown,Sunny Motors Ltd.
+Lagos,mercedes_benz,,unknown,MB-Automobile Services Ltd.
+Lekki,mercedes_benz,,unknown,Jetvan Automobiles Limited
+OGUN,moneygram,,unknown,FBN - #771 - OGUN - IBAFO MAIN BRANCH
+IBADAN,moneygram,,unknown,FIRST BANK OF NIGERIA LIMITED - #794 - I
+LAGOS,moneygram,,unknown,FIDELITY BANK PLC - AGEGE BRANCH
+FCT,moneygram,,unknown,ACCESS BANK PLC - DURUMI
+RIVERS,moneygram,,unknown,ACCESS BANK PLC - RUMUOKORO BRANCH
+ONDO,moneygram,,unknown,WEMA BANK PLC - IKARE
+ANAMBRA,moneygram,,unknown,UNITED BANK FOR AFRICA
+YENAGOA,moneygram,,unknown,UNITED BANK FOR AFRICA PLC - #607 - YENA
+UYO,moneygram,,unknown,FBN - #784 - UYO - UYO ORON ROAD
+OYO,moneygram,,unknown,WEMA BANK PLC - IGBETTI
+PORT HARCOURT,moneygram,,unknown,ZENITH BANK PLC - PORT HARCOURT - TRANS
+BENIN CITY,moneygram,,unknown,FBN - BENIN AKPAPAVA
+KADUNA,moneygram,,unknown,FIDELITY BANK - KADUNA - NORTHCENTRAL BA
+ABIA,moneygram,,unknown,FBN - UMUAHIA UZUAKOLI
+KANO,moneygram,,unknown,FIDELITY BANK - KANO - ZOO ROAD BRANCH
+OSUN,moneygram,,unknown,WEMA BANK PLC - IWO
+EKITI,moneygram,,unknown,WEMA BANK PLC - ARAMOKO
+ENUGU,moneygram,,unknown,FIDELITY BANK PLC - ESUT BRANCH
+BORNO,moneygram,,unknown,UNITED BANK FOR AFRICA
+ZAMFARA,moneygram,,unknown,FIRST BANK OF NIGERIA - #317 - ZAMFARA -
+SOKOTO,moneygram,,unknown,UNITY BANK PLC - #270 - SOKOTO - SOKOTO
+NIGER,moneygram,,unknown,UNION BANK OF NIGERIA - #596 - NIGER BRI
+JIGAWA,moneygram,,unknown,UNITED BANK FOR AFRICA
+GOMBE,moneygram,,unknown,UNITY BANK PLC - #426 - GOMBE - TUDUN HA
+KEBBI,moneygram,,unknown,UNITED BANK FOR AFRICA
+BAUCHI,moneygram,,unknown,UNITY BANK PLC - #252 - BAUCHI - COMMERC
+PLATEAU,moneygram,,unknown,UNION BANK OF NIGERIA - #349 - PLATEAU -
+CROSS RIVERS,moneygram,,unknown,POLARIS BANK LIMITED - #543 - CROSS RIVE
+KWARA,moneygram,,unknown,UNITED BANK FOR AFRICA
+IMO,moneygram,,unknown,FBN - MBAISE BRANCH
+EBONYI,moneygram,,unknown,FBN - #149 - EZZAMGBO
+WARRI,moneygram,,unknown,UNION BANK - #257 - WARRI - KABBA
+KOGI,moneygram,,unknown,FBN - KOGI STATE U
+ASABA,moneygram,,unknown,UNITED BANK FOR AFRICA PLC - #173 - ASAB
+ADAMAWA,moneygram,,unknown,FIRST BANK OF NIGERIA - #152 - ADAMAWA -
+NASARAWA,moneygram,,unknown,FBN - LAFIA
+KATSINA,moneygram,,unknown,UNITY BANK PLC - #429 - KATSINA - KATSIN
+TARABA STATE,moneygram,,unknown,POLARIS BANK LIMITED - #299 - TARABA STA
+NASSARAWA,moneygram,,unknown,KEYSTONE BANK LIMITED
+BENUE,moneygram,,unknown,FBN - MARKURDI N. BANK
+YOBE,moneygram,,unknown,UNITED BANK FOR AFRICA
+EDO,moneygram,,unknown,WEMA BANK PLC - WARRI
+ANNAMBRA,moneygram,,unknown,POLARIS BANK LIMITED - #336 - ANNAMBRA -
+DELTA,moneygram,,unknown,UNION BANK OF NIGERIA - #719 - AIRPORT R
+AKWA-IBOM,moneygram,,unknown,POLARIS BANK LIMITED - #597 - AKWA-IBOM
+TARABA,moneygram,,unknown,FIRST BANK OF NIGERIA - #371 - TARABA -
+ABAKALIKI,moneygram,,unknown,ZENITH BANK PLC - ABAKALIKI - ABAKALIKI2
+ONNE,moneygram,,unknown,FBN - ONNE
+AKWAIBOM,moneygram,,unknown,POLARIS BANK LIMITED - #630 - AKWAIBOM -
+OJO,moneygram,,unknown,KEYSTONE BANK LIMITED
+CALABAR,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #139 - CALAB
+OWERRI,moneygram,,unknown,STERLING BANK PLC
+IJORA,moneygram,,unknown,FIDELITY BANK PLC - IJORA BADIA
+AIYETORO GBEDE,moneygram,,unknown,FBN - #740 - AIYETORO GBEDE
+ABUJA,moneygram,,unknown,FIDELITY BANK PLC - GWARINPA BRANCH
+IKORODU,moneygram,,unknown,ZENITH BANK PLC - IKORODU - IKORODU ROAD
+IBADAN POLYTECHNIC,moneygram,,unknown,ACCESS BANK PLC - BODIJA
+ANTHONY VILLAGE,moneygram,,unknown,FBN - #785 - ANTHONY VILLAGE - ANTHONY B
+ILORIN,moneygram,,unknown,UNITY BANK PLC - #302 - ILORIN - NEW MAR
+STEEL MARKET,moneygram,,unknown,FIDELITY BANK PLC - STEEL MICRO MARKET
+IKERE,moneygram,,unknown,WEMA BANK PLC - #180 - IKERE
+EDE,moneygram,,unknown,ACCESS BANK PLC - EDE - REDEEMER UNIVERS
+IYANA IPAJA,moneygram,,unknown,ECOBANK - IYANA IPAJA ROUND
+AKURE,moneygram,,unknown,WEMA BANK PLC - OYEMEKUN ROAD
+OJOTA,moneygram,,unknown,FIDELITY BANK PLC
+SURULERE,moneygram,,unknown,ACCESS BANK PLC -  BODE THOMAS
+OSOGBO,moneygram,,unknown,FIDELITY BANK PLC
+SANGO OTA,moneygram,,unknown,STERLING BANK PLC - SANGO OTA - IJOKO
+OFFA,moneygram,,unknown,UNION BANK OF NIGERIA  - #565 - OFFA
+IKEJA,moneygram,,unknown,FBN  - #487 - Toyin Olowu
+ORJI LAYOUT,moneygram,,unknown,FBN - #772 - OWERRI ORJI
+ABRAKA,moneygram,,unknown,FIDELITY BANK PLC - DELTA STATE UNIVERSI
+ADO EKITI,moneygram,,unknown,FBN  - #382 - FEDERAL POLYTECHNIC ADO QS
+ADO - EKITI,moneygram,,unknown,ACCESS BANK PLC - ADO EKITI
+BENIN,moneygram,,unknown,FIDELITY BANK PLC - OBA MARKET BRANCH
+EFFURUN,moneygram,,unknown,UNION BANK OF NIGERIA - #172 - EFFURUN M
+ERIN,moneygram,,unknown,FBN - ERIN OSUN
+IDANRE,moneygram,,unknown,HERITAGE BANK LIMITED
+IKIRE,moneygram,,unknown,FBN - IKIRE
+ISEYIN,moneygram,,unknown,UNION BANK OF NIGERIA - #332 - ISEYIN
+NKPOR,moneygram,,unknown,UNION BANK OF NIGERIA - #181 - NKPOR-JUN
+SAPELE,moneygram,,unknown,ACCESS BANK PLC - SAPELE ROAD
+UROMI,moneygram,,unknown,ZENITH BANK PLC - UROMI - UROMI
+OKE-ARO,moneygram,,unknown,FBN - AKURE OKE ARO
+YABA,moneygram,,unknown,UNITY BANK PLC - #205 - YABA - YABA COMM
+IBUSA,moneygram,,unknown,UNION BANK OF NIGERIA  - #254 - IBUSA
+IGUEGBE,moneygram,,unknown,UNION BANK OF NIGERIA - #282 - IGUEBEN
+OGBOMOSHO,moneygram,,unknown,WEMA BANK PLC - OGBOMOSHO
+AGEGE,moneygram,,unknown,UNITY BANK PLC - #372 - AGEGE - ABULE EG
+EKPOMA,moneygram,,unknown,KEYSTONE BANK LIMITED
+IJEBU ODE,moneygram,,unknown,FBN - IJEBUODE
+ILE-IFE,moneygram,,unknown,FIDELITY BANK PLC - ILE-IFE - ILE-IFE BR
+OGBA,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - ISHERI BER
+OKADA,moneygram,,unknown,STERLING BANK PLC
+ASHAKA,moneygram,,unknown,FCMB - #130 - ASHAKA - ASHAKA BRANCH
+FUNTUA,moneygram,,unknown,UNITY BANK PLC - #257 - FUNTUA - FUNTUA
+OTURKPO,moneygram,,unknown,FBN - #288 - OTURKPO
+YENEGOA,moneygram,,unknown,FBN - YENEGOA
+UDI,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #263 - UDI -
+EGOSI ILE,moneygram,,unknown,UNITED BANK FOR AFRICA - #602 - EGOSI IL
+SANGO OTTA,moneygram,,unknown,ZENITH BANK PLC - SANGO OTTA - SANGO OTA
+IBENO,moneygram,,unknown,UNITED BANK FOR AFRICA - #613 - IBENO -
+KADO,moneygram,,unknown,UNITED BANK FOR AFRICA - #614 - KADO - K
+NSUKKA,moneygram,,unknown,FIDELITY BANK PLC - NSUKKA - UNN BRANCH
+ABA,moneygram,,unknown,ZENITH BANK PLC - ABA - ABA 2 ASA ROAD
+ABEOKUTA,moneygram,,unknown,ZENITH BANK PLC - ABEOKUTA - ABEOKUTA
+AFIKPO,moneygram,,unknown,FIDELITY BANK PLC
+AGBARA,moneygram,,unknown,FBN - AGBARA INDUSTRIAL
+AGBOR,moneygram,,unknown,ZENITH BANK PLC - AGBOR - AGBOR
+ANYIGBA,moneygram,,unknown,ACCESS BANK PLC - ANYIGBA - ANYIGBA BRAN
+APAPA,moneygram,,unknown,UNITY BANK PLC - #378 - APAPA - TINCAN P
+ASOKORO,moneygram,,unknown,ZENITH BANK PLC - ASOKORO - ASOKORO
+AUCHI,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #89 - AUCHI
+AWKA,moneygram,,unknown,STERLING BANK PLC
+AZARE,moneygram,,unknown,UNITY BANK PLC - #282 - AZARE - AZARE BR
+BADAGRY,moneygram,,unknown,FBN - BADAGRY
+BIDA,moneygram,,unknown,UNITY BANK PLC - #305 - BIDA - BIDA BRAN
+BIRNIN KEBBI,moneygram,,unknown,UNITY BANK PLC - #258 - BIRNIN KEBBI - B
+BUKURU,moneygram,,unknown,FBN - BUKURU
+BWARI,moneygram,,unknown,UNITY BANK PLC - #417 - BWARI - BWARI BR
+CENTRAL BUSINESS DISTRICT,moneygram,,unknown,ZENITH BANK PLC - CENTRAL BUSINESS DISTR
+DAMATURU,moneygram,,unknown,UNITY BANK PLC - #272 - DAMATURU - DAMAT
+DEI DEI,moneygram,,unknown,ZENITH BANK PLC - DEI DEI - DEI DEI
+DURUMI,moneygram,,unknown,ZENITH BANK PLC - DURUMI - DURUMI
+GARKI,moneygram,,unknown,ZENITH BANK PLC - GARKI - EFAB
+GBOKO,moneygram,,unknown,UNITY BANK PLC - #283 - GBOKO - GBOKO BR
+GWAGWALADA,moneygram,,unknown,UNITY BANK PLC - #250 - GWAGWALADA - GWA
+GWARIMPA,moneygram,,unknown,ZENITH BANK PLC - GWARIMPA - GWARIMPA
+GWARZO,moneygram,,unknown,UNITY BANK PLC - #445 - GWARZO - GWARZO
+HOTORO,moneygram,,unknown,ZENITH BANK PLC - HOTORO - HOTORO
+IJEBU -ODE,moneygram,,unknown,ZENITH BANK PLC - IJEBU -ODE - IJEBU ODE
+IKOM,moneygram,,unknown,FIDELITY BANK PLC - IKOM
+IKOT EKPENE,moneygram,,unknown,ACCESS BANK PLC - IKOT EKPENE
+ILESA,moneygram,,unknown,UNION BANK OF NIGERIA - #314 - ILESHA
+JALINGO,moneygram,,unknown,UNITY BANK PLC - #271 - JALINGO - JALING
+JOS,moneygram,,unknown,FIDELITY BANK PLC - UNIJOS BRANCH
+KAFANCHAN,moneygram,,unknown,UNITY BANK PLC - #292 - KAFANCHAN - KAFA
+KARU,moneygram,,unknown,UNION BANK OF NIGERIA - #400 - KARU
+KAZAURE,moneygram,,unknown,UNITY BANK PLC - #394 - KAZAURE - KAZAUR
+KONTAGORA,moneygram,,unknown,UNITY BANK PLC - #472 - KONTAGORA - KONT
+KUBWA,moneygram,,unknown,ZENITH BANK PLC - KUBWA - KUBWA
+KWALE,moneygram,,unknown,UNITY BANK PLC - #343 - KWALE - KWALE BR
+LAFIA,moneygram,,unknown,UNITY BANK PLC - #264 - LAFIA - LAFIA BR
+LOKOJA,moneygram,,unknown,UNION BANK - #28 - LOKOJA - IBB WAY LOKO
+MAIDUGURI,moneygram,,unknown,UNITY BANK PLC - #390 - MAIDUGURI - BAGA
+MAITAMA,moneygram,,unknown,ZENITH BANK PLC - MAITAMA - GANA STREET
+MAKURDI,moneygram,,unknown,UNITY BANK PLC - #338 - MAKURDI - BANK R
+MARKURDI,moneygram,,unknown,ZENITH BANK PLC - MARKURDI - MAKURDI 2
+MINNA,moneygram,,unknown,WEMA BANK PLC - #108 - MINNA - JEBBA
+MOWE,moneygram,,unknown,FBN - MOWE
+MUBI,moneygram,,unknown,UNITY BANK PLC - #276 - MUBI - MUBI BRAN
+NNEWI,moneygram,,unknown,ACCESS BANK PLC - NNEWI 1
+OBAJANA,moneygram,,unknown,ECOBANK - OBAJANA
+OGIDI,moneygram,,unknown,ACCESS BANK PLC - OGIDI
+OGOJA,moneygram,,unknown,ACCESS BANK PLC - OGOJA
+OHAFIA,moneygram,,unknown,UNION BANK OF NIGERIA - #571 - OHAFIA
+OKENE,moneygram,,unknown,UNITY BANK PLC - #261 - OKENE - OKENE BR
+OKIGWE,moneygram,,unknown,FBN - OKIGWE
+ONITSHA,moneygram,,unknown,UNION BANK OF NIGERIA - #595 - NEW MKT R
+ORE,moneygram,,unknown,STERLING BANK PLC
+ORLU,moneygram,,unknown,ACCESS BANK PLC - ORLU
+ORO AGO,moneygram,,unknown,ZENITH BANK PLC - ORO AGO - ORO-AGO CRES
+ORUMBA SOUTH,moneygram,,unknown,ZENITH BANK PLC - ORUMBA SOUTH - UMUNZE
+OWODE,moneygram,,unknown,ZENITH BANK PLC - OWODE - OWODE BRANCH
+OYIGBO,moneygram,,unknown,FCMB - #108 - OYIGBO -  OYIGBO BRANCH
+PORTHACOURT,moneygram,,unknown,FCMB - #239 - PORTHACOURT - IKWERRE ROAD
+POTISKUM,moneygram,,unknown,ACCESS BANK PLC - POTISKUM - POTISKUM
+SAKI,moneygram,,unknown,FBN - SAKI
+SEME,moneygram,,unknown,ECOBANK - SEME 2
+SHAGAMU,moneygram,,unknown,STANBICIBTC BANK - SHAGAMU - SHAGAMU
+SULEJA,moneygram,,unknown,UNITY BANK PLC - #206 - SULEJA - SULEJA
+TALATA MAFARA,moneygram,,unknown,ZENITH BANK PLC - TALATA MAFARA - TALATA
+THREE ARM ZONE,moneygram,,unknown,ZENITH BANK PLC - THREE ARM ZONE - NATIO
+UGHELLI,moneygram,,unknown,FBN - UGHELI PATANI
+UMUAHIA,moneygram,,unknown,WEMA BANK PLC - #54 - UMUAHIA - ABA
+UTAKO,moneygram,,unknown,FBN - #778 - UTAKO - ABUJA MARKET
+WUKARI,moneygram,,unknown,UNITY BANK PLC - #316 - WUKARI - WUKARI
+WUSE,moneygram,,unknown,FBN - #759 -  AMINU KANO WAY
+WUSE 2,moneygram,,unknown,ZENITH BANK PLC - WUSE 2 - AMINU KANO 2
+WUSE ZONE 3,moneygram,,unknown,ZENITH BANK PLC - WUSE ZONE 3 - SULTAN A
+YOLA,moneygram,,unknown,UNITY BANK PLC - #251 - YOLA - YOLA BRAN
+ZARIA,moneygram,,unknown,UNITY BANK PLC - #293 - ZARIA - MAIN STR
+ZUBA,moneygram,,unknown,ZENITH BANK PLC - ZUBA - ZUBA
+IKOYI,moneygram,,unknown,FIRST BANK OF NIGERIA LTD - #241 - IKOYI
+EKET,moneygram,,unknown,ZENITH BANK PLC - EKET - EKET
+OTUN EKITI,moneygram,,unknown,HERITAGE BANK LIMITED
+BIRIN KEBBI,moneygram,,unknown,FBN - #357 - BIRIN KEBBI
+MISAU,moneygram,,unknown,UNION BANK OF NIGERIA - #95 - HEAD OFFIC
+BAJOGA,moneygram,,unknown,FCMB - #195 - BAJOGA - BAJOGA BRANCH
+MASAKA,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #274 - MASAK
+LEKKI,moneygram,,unknown,KEYSTONE BANK LIMITED
+BARIGA,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #520 - BA
+KURMI,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #279 - KURMI
+EKWULOBIA,moneygram,,unknown,ZENITH BANK PLC - EKWULOBIA - EKWULOBIA
+OGWASHI OLOR,moneygram,,unknown,FBN - OGASHI UKU
+OKA-AKOKO,moneygram,,unknown,FBN - #280 - OKA-AKOKO - Oka-Akoko
+IJEBU IJESHA,moneygram,,unknown,FBN - IJEBUJESHA
+SABO,moneygram,,unknown,FBN - ONDO 2
+GBAGADA,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - IFAKO GBAGA
+ILESHA,moneygram,,unknown,ACCESS BANK PLC - ILESHA
+ABAK,moneygram,,unknown,UNION BANK OF NIGERIA - #24 - ABAK
+OTTA,moneygram,,unknown,WEMA BANK PLC - #156 - OTTA - BELLS UNIV
+ILE IFE,moneygram,,unknown,ACCESS BANK PLC - ILE IFE
+IHIALA,moneygram,,unknown,ZENITH BANK PLC - IHIALA - IHIALA
+AKWANGA,moneygram,,unknown,UNITY BANK PLC - #303 - AKWANGA - AKWANG
+DUTSE,moneygram,,unknown,ZENITH BANK PLC - DUTSE - DUTSE
+BONNY,moneygram,,unknown,FBN - BONNY
+GUSAU,moneygram,,unknown,UNITY BANK PLC - #273 - GUSAU - GUSAU BR
+IDIROKO,moneygram,,unknown,ACCESS BANK PLC - IDI IROKO BORDER BRANC
+KEFFI,moneygram,,unknown,UNITY BANK PLC - #265 - KEFFI - KEFFI BR
+MBAISE,moneygram,,unknown,ACCESS BANK PLC - MBAISE
+OBOSI,moneygram,,unknown,FBN - UGUAGBA OBOSI
+(OSOGBO),moneygram,,unknown,ACCESS BANK PLC - OSHOGBO GBONGAN-IBADA
+SAGAMU,moneygram,,unknown,ACCESS BANK PLC - SAGAMU
+AJILETE,moneygram,,unknown,ACCESS BANK PLC - YEWA AJILETE INTL MKT
+FADEYI,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #281 - FADEY
+SARDAUNA,moneygram,,unknown,UNITED BANK FOR AFRICA - #190 - SARDAUNA
+IPERU,moneygram,,unknown,WEMA BANK PLC - #193 - IPERU
+KASHERE,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #268 - KASHE
+KADUNA NORTH,moneygram,,unknown,FIDELITY BANK - KADUNA NORTH - KADUNA (N
+SERTI,moneygram,,unknown,UNITED BANK FOR AFRICA - #308 - SERTI -
+EPE,moneygram,,unknown,ZENITH BANK PLC - EPE - EPE
+AJAH,moneygram,,unknown,FBN - #664 - BADORE BRANCH
+AKUTE,moneygram,,unknown,ZENITH BANK PLC - AKUTE - AKUTE
+OJOO,moneygram,,unknown,FCMB - #122 - OJOO - OJOO BRANCH
+TRANS-EKULU,moneygram,,unknown,FIDELITY BANK PLC - TRANS-EKULU BRANCH
+OJU,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #572 - OJU -
+EGOSI,moneygram,,unknown,UBA - #0604 - EGOSI - EGOSI ILE
+YENOGOA,moneygram,,unknown,OTUOKE - #607 - YENOGOA - OTUOKE
+IREE,moneygram,,unknown,ACCESS BANK PLC - IREE BRANCH
+OGHEDE,moneygram,,unknown,UNITED BANK FOR AFRICA OGHARA - #0522
+ILISAN REMO,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #284 - ILISA
+ISOLO,moneygram,,unknown,KEYSTONE BANK LIMITED
+ANCHAU,moneygram,,unknown,ACCESS BANK PLC - ANCHAU BRANCH
+OGBOMOSO,moneygram,,unknown,ACCESS BANK PLC - OGBOMOSO
+DANJA,moneygram,,unknown,ACCESS BANK PLC - DANJA BRANCH
+ERUWA,moneygram,,unknown,ACCESS BANK PLC - ERUWA BRANCH
+IBEKU-LEKKI,moneygram,,unknown,ACCESS BANK PLC - IBEJU-LEKKI
+ILESA WEST,moneygram,,unknown,ACCESS BANK PLC - IPETU-IJESHA BRANCH
+KAFUR,moneygram,,unknown,ACCESS BANK PLC - KAFUR BRANCH
+OWO,moneygram,,unknown,FBN - OWO
+SANGO,moneygram,,unknown,IDI IROKO BORDER - #610 - SANGO - IDI IR
+ILAWE,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #39 - ILAWE-
+JEGA,moneygram,,unknown,UNITY BANK PLC - #231 - JEGA - JEGA BRAN
+DUGBE IBADAN,moneygram,,unknown,FIDELITY BANK PLC - DUGBE BRANCH
+KOKO,moneygram,,unknown,ECOBANK - KOKO
+ORILE,moneygram,,unknown,ACCESS BANK PLC - COKER LAGOS/BADAGRY E
+JIMETA,moneygram,,unknown,FIRST BANK OF NIGERIA - #750 - JIMETA -
+MARKUDI,moneygram,,unknown,FBN - #557 - MARKUDI - OTUKPO MARKET
+OKOTA,moneygram,,unknown,ACCESS BANK PLC - ISOLO
+OKE ARIN LAGOS,moneygram,,unknown,UNITED BANK FOR AFRICA - #424
+IKERE-EKITI,moneygram,,unknown,HERITAGE BANK LIMITED
+IKORO EKITI,moneygram,,unknown,HERITAGE BANK LIMITED
+IKEJA ALLEN,moneygram,,unknown,HERITAGE BANK LIMITED
+IBADAN AGBENI,moneygram,,unknown,HERITAGE BANK LIMITED
+ABBI,moneygram,,unknown,UNITED BANK OF AFRICA ABBI - #0173
+LAGOS ISLAND,moneygram,,unknown,FBN - #746 - LAGOS ISLAND - DOSUNMU BRAN
+AHOADA,moneygram,,unknown,FBN - AHOADA
+AWE,moneygram,,unknown,FIRST BANK OF NIGERIA - #398 - AWE - AWE
+NGURU,moneygram,,unknown,UNITY BANK PLC - #317 - NGURU - NGURU YO
+GASHUA,moneygram,,unknown,UNION BANK - #593 - GASHUA - GASHUA
+OGBEDE,moneygram,,unknown,UNION BANK OF NIGERIA - #185 - OGBETE MA
+IRUEKPEN,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #319 - IRUEK
+OSHODI,moneygram,,unknown,FIDELITY BANK PLC
+OPEBI,moneygram,,unknown,KEYSTONE BANK LIMITED
+SAMINAKA,moneygram,,unknown,KEYSTONE BANK LIMITED
+MAKARFI,moneygram,,unknown,KEYSTONE BANK LIMITED
+OGARA,moneygram,,unknown,UNION BANK OF NIGERIA - #564 - OGHARA
+OTA,moneygram,,unknown,STERLING BANK PLC
+BWARI ABUJA,moneygram,,unknown,FCMB - #218 - BWARI ABUJA - ABUJA BWARI
+WASE,moneygram,,unknown,UNITY BANK PLC - #308 - WASE - WASE BRAN
+HONG,moneygram,,unknown,UNITY BANK PLC - #449 - HONG - HONG BRAN
+GANYE,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #164 - GA
+OKOTO,moneygram,,unknown,STERLING BANK PLC
+IKERE EKITI,moneygram,,unknown,STERLING BANK PLC - IKERE EKITI - IKERE
+PORT HACOURT,moneygram,,unknown,UNITED BANK FOR AFRICA PLC - #596 - PORT
+AKUNGBA AKOKO,moneygram,,unknown,UNITED BANK FOR AFRICA - #620 - AKUNGBA
+KUBWA ABUJA,moneygram,,unknown,UNITED BANK FOR AFRICA - #624 - KUBWA AB
+AKOWONJO,moneygram,,unknown,UNITED BANK FOR AFRICA
+VICTORIA ISLAND,moneygram,,unknown,ACCESS BANK PLC - #111 - VICTORIA ISLAND
+36/38 M/MOHMAMMED WAY,moneygram,,unknown,ACCESS BANK PLC - 36/38 MURTALA MOHAMMED
+ALAUSA,moneygram,,unknown,ACCESS BANK PLC - ALAUSA BRANCH
+AMUWO ODOFIN,moneygram,,unknown,ACCESS BANK PLC - AMUWO ODOFIN BRANCH
+BADAGRT,moneygram,,unknown,ACCESS BANK PLC - BADAGRY JOSEPH DOSU R
+BONNY ISLAND,moneygram,,unknown,ACCESS BANK PLC - BONNYPH
+EBUTE METTA,moneygram,,unknown,ACCESS BANK PLC - OYINGBO  BORNO
+FESTAC,moneygram,,unknown,ACCESS BANK PLC - FESTAC
+ELEME,moneygram,,unknown,ACCESS BANK PLC - ELEME
+SHOMOLU,moneygram,,unknown,ACCESS BANK PLC - SHOMOLU
+BIU,moneygram,,unknown,KEYSTONE BANK LIMITED
+IKOTUN,moneygram,,unknown,UNION BANK OF NIGERIA - #441 - IDIMU AXI
+FAGGE,moneygram,,unknown,ACCESS BANK PLC - KANO FRANCE ROAD SAB
+MAGODO,moneygram,,unknown,ACCESS BANK PLC - MAGODO CMD ROAD IKOSI
+BAGA ROAD,moneygram,,unknown,ACCESS BANK PLC - MAIDUGURI BURGA ROAD
+MARYLAND,moneygram,,unknown,UNION BANK - #261 - MARYLAND - MARYLAND
+MATORI,moneygram,,unknown,FCMB - #087 - MATORI - MATORI BRANCH
+IDEMILI,moneygram,,unknown,ACCESS BANK PLC - ONITSHA NKPOR DEMUDE
+OKIJA TOWN,moneygram,,unknown,ACCESS BANK PLC - OKIJA OLD OKIJA IHIAL
+OGBARU,moneygram,,unknown,ACCESS BANK PLC - ONITSHA OGBARU ENAMEL
+OREGUN,moneygram,,unknown,UNITY BANK PLC - #377 - OREGUN - OREGUN
+OWRRI,moneygram,,unknown,ACCESS BANK PLC - ORLU ORLU INTERNATION
+OSHODI-APAPA,moneygram,,unknown,ACCESS BANK PLC - OSHODI OSHODI-APAPA E
+YEWA,moneygram,,unknown,ACCESS BANK PLC - OWODE YEWA MARKET BRAN
+DOPEMU,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - ALUMINUM VI
+REMO,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - BABCOCK UNI
+AKOKA,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - BARIGA AKOK
+ADO BAYERO,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - BAYERO UNI.
+MUSHIN,moneygram,,unknown,FIDELITY BANK PLC
+DAWANAU,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - DAWANUA KA
+ABAKILIKI,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - EBONYI STAT
+KETU,moneygram,,unknown,STERLING BANK PLC
+OSISIOMA,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - OSISIOMA (0
+UNIMAID,moneygram,,unknown,ACCESS BANK PLC - RET SHOP - UNIV. OF MA
+AMASOMA,moneygram,,unknown,ACCESS BANK PLC - RET SHOP-NIGER DELTA U
+SEME BORDER,moneygram,,unknown,FBN - #521 - SEME BORDER
+GALADIMA AMINU WAY,moneygram,,unknown,ACCESS BANK PLC - YOLA GALADIMA AMINU W
+ADOBAYERO,moneygram,,unknown,UNION BANK - #376 - ADO BAYERO
+ILARA-MOKIN,moneygram,,unknown,WEMA BANK PLC - #195 - ILARA-MOKIN - ELI
+NEW OWERRI,moneygram,,unknown,FIDELITY BANK PLC - NEW OWERRI - NEW OWE
+BICHI,moneygram,,unknown,FIRST BANK OF NIGERIA - #624 - BICHI - B
+DAURA,moneygram,,unknown,UNITY BANK PLC - #295 - DAURA - DAURA BR
+DUKKU,moneygram,,unknown,ACCESS BANK PLC - DUKKU BRANCH
+ILUPEJU,moneygram,,unknown,WEMA BANK PLC - #210 - ILUPEJU - ILUPEJU
+KUMO,moneygram,,unknown,ACCESS BANK PLC - KUMO BRANCH
+YAMALTU,moneygram,,unknown,ACCESS BANK PLC - YAMALTU DEBA BRANCH
+IGBOGILA,moneygram,,unknown,FIRST BANK OF NIGERIA - IGBOGILA
+IDIMU,moneygram,,unknown,FCMB - #129 - IDIMU - IDIMU BRANCH
+IPAJA ABESAN,moneygram,,unknown,ECOBANK - ABESAN
+ADO-EKITI,moneygram,,unknown,ECOBANK - ADO EKITI 2
+AJAO ESTATE,moneygram,,unknown,ECOBANK - AJAO ESTATE
+OJO-ALABA,moneygram,,unknown,ECOBANK - ALABA 4 AGUDOSI
+ALABA,moneygram,,unknown,ACCESS BANK PLC - 144ALABA
+ALIERO,moneygram,,unknown,ECOBANK - ALIERO
+PORTHARCOURT,moneygram,,unknown,FIDELITY BANK PLC - PH ABA BRANCH
+MARINA,moneygram,,unknown,ACCESS BANK PLC - MARINA 1
+IGBESA,moneygram,,unknown,ECOBANK - CRAWFORD UNIVERSIT
+EGBEDA,moneygram,,unknown,ACCESS BANK PLC - EGBEDA
+EJIGBO,moneygram,,unknown,ECOBANK - FADU
+GARKI II,moneygram,,unknown,ECOBANK - FCDA
+FESTACTOWN,moneygram,,unknown,ECOBANK - FESTAC 221 RD
+IDDO,moneygram,,unknown,UNITY BANK PLC - #437 - IDDO - IDDO BRAN
+ILASAMAJA,moneygram,,unknown,ECOBANK - ILASA-MAJA
+ILEILA,moneygram,,unknown,ECOBANK - ILLELA
+KOTANGORA,moneygram,,unknown,ECOBANK - KONTAGORA
+MARABA,moneygram,,unknown,ECOBANK - MARARABA
+IBAFO,moneygram,,unknown,ACCESS BANK PLC - IBAFO - IBAFO BRANCH
+ALAUSA IKEJA,moneygram,,unknown,ACCESS BANK PLC - ALAUSA IKEJA
+PORT-HARCOURT,moneygram,,unknown,ECOBANK - RUMUOKORO
+IFE,moneygram,,unknown,FBN - OBAFEMI AWOLOWO U.
+IBESIKPO,moneygram,,unknown,ECOBANK - NNUNGUDOE
+OBIARUKU,moneygram,,unknown,ECOBANK - OBIARUKU
+OBINZE,moneygram,,unknown,ECOBANK - OBINZE
+OGHAREFE,moneygram,,unknown,ECOBANK - OGHAREFE
+IGOLI-OGOJA,moneygram,,unknown,ECOBANK - OGOJA 2
+OJUELEGBA,moneygram,,unknown,ACCESS BANK PLC - OJUELEGBA
+OMU ARAN,moneygram,,unknown,ECOBANK - OMU ARAN
+ONDO TOWN,moneygram,,unknown,ECOBANK - ONDO TOWN
+OSHOGBO,moneygram,,unknown,STERLING BANK PLC
+REDEMPTION CAMP,moneygram,,unknown,ACCESS BANK PLC - RCCG
+SOMOLU,moneygram,,unknown,ECOBANK - SHOMOLU
+SULEIJA,moneygram,,unknown,ECOBANK - SULEIJA
+OLODI-APAPA,moneygram,,unknown,ECOBANK - TRINITY
+ULI,moneygram,,unknown,ECOBANK - ULI
+KAURA NAMODA,moneygram,,unknown,FIRST BANK OF NIGERIA - #219 - KAURA NAM
+WUSE ABUJA,moneygram,,unknown,ECOBANK - ZONE 6 WUSE
+ABULOMA,moneygram,,unknown,ACCESS BANK PLC - ABULOMA CLOSA OUTLET
+AGBOWA-IKOSI,moneygram,,unknown,ACCESS BANK PLC - AGBOWA CLOSA OUTLET
+ANAMBRA EAST LGA,moneygram,,unknown,ACCESS BANK PLC - AGULERI CLOSA OUTLET
+KABBA,moneygram,,unknown,UNITY BANK PLC - #300 - KABBA - KABBA BR
+GORA,moneygram,,unknown,ACCESS BANK PLC - GONIN-GORA CLOSA OUTLE
+IKWERRE,moneygram,,unknown,ACCESS BANK PLC - ISIOKPO BRANCH
+ADAVI,moneygram,,unknown,ACCESS BANK PLC - OKENE CLOSA OUTLET
+OLEH,moneygram,,unknown,UNITY BANK PLC - #344 - OLEH - OLEH BRAN
+SANGOTEDO,moneygram,,unknown,UNITED BANK FOR AFRICA - #629 - SANGOTED
+ODE-OMU,moneygram,,unknown,FIRST BANK OF NIGERIA PLC - #644 - ODE-O
+IYIN-EKITI,moneygram,,unknown,WEMA BANK PLC - #199 - IYIN-EKITI - IYIN
+JIBIA,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #339 - JIBIA
+MODAKEKE,moneygram,,unknown,FIRST BANK OF NIGERIA - #199 - MODAKEKE
+IDIMU IKOTUN ROAD,moneygram,,unknown,KEYSTONE BANK LIMITED - #113 - IDIMU IKO
+APATA,moneygram,,unknown,ACCESS BANK PLC - APATA BRANCH
+ILELA,moneygram,,unknown,ACCESS BANK PLC - GADA MARKET BRANCH
+GBAGI,moneygram,,unknown,UNION BANK OF NIGERIA - #235 - NEW GBAGI
+ONIKAN,moneygram,,unknown,FCMB - #119 - ONIKAN - MACARTHY BRANCH
+OJODU BERGER,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #285 - OJODU
+MAGBORO,moneygram,,unknown,STERLING BANK PLC - MAGBORO - MAGBORO
+BOJI-BOJI AGBOR,moneygram,,unknown,ZENITH BANK PLC - #AGBOR2 - BOJI-BOJI AG
+OZORO,moneygram,,unknown,ZENITH BANK PLC - #OZORO - OZORO - OZORO
+OZOBO,moneygram,,unknown,FBN - OZORO
+BORI,moneygram,,unknown,FCMB - #261 - BORI - BORI BRANCH
+KATISINA,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #509 - KATIS
+AGO IWOYE,moneygram,,unknown,ACCESS BANK PLC - OOU BRANCH
+AMUWO-ODOFIN,moneygram,,unknown,FCMB - #174 - AMUWO-ODOFIN - FESTAC TOWN
+TRADE FAIR,moneygram,,unknown,FCMB - #147 - TRADE FAIR - TRADE FAIR BR
+WUSE 2 ABUJA,moneygram,,unknown,FCMB - #233 - WUSE 2 ABUJA  - EXCLUSIVE
+OGUDU,moneygram,,unknown,UNITED BANK FOR AFRICA
+OKO,moneygram,,unknown,FBN - OKO
+ONUEKE,moneygram,,unknown,UNITED BANK FOR AFRICA PLC - ONUEKE - ON
+AKWARA,moneygram,,unknown,UNITED BANK FOR AFRICA
+IDUMOTA,moneygram,,unknown,FIDELITY BANK PLC
+UMUAKA,moneygram,,unknown,UNITED BANK FOR AFRICA
+OTUKPO,moneygram,,unknown,ZENITH BANK PLC - OTUKPO - OTUKPO
+MAITAMA ABUJA,moneygram,,unknown,UNION BANK OF NIGERIA - #41 - FED SEC
+RIVERS STATE,moneygram,,unknown,UNION BANK OF NIGERIA  - #657 - TRANS AM
+AKWA IBOM,moneygram,,unknown,UNION BANK OF NIGERIA - #718 - UYO MAIN
+ONUPA,moneygram,,unknown,UNITED BANK FOR AFRICA
+ASPAMDA,moneygram,,unknown,UNITY BANK PLC - #442 - ASPAMDA - ASPAMD
+BAYELSA,moneygram,,unknown,FBN - OGOJA BRANCH
+ABBA,moneygram,,unknown,FBN - #376 - ABBA
+AYANGBA,moneygram,,unknown,FBN - AYANGBA
+GBAGEDE,moneygram,,unknown,UNITED BANK FOR AFRICA
+ONIPANU,moneygram,,unknown,FCMB - #145 - ONIPANU - ONIPANU BRANCH
+SHAGBA,moneygram,,unknown,UNITED BANK FOR AFRICA
+COKER,moneygram,,unknown,UNITED BANK FOR AFRICA
+ISSELE-UKU,moneygram,,unknown,UNITED BANK FOR AFRICA ISSELE UKU - #032
+IWO,moneygram,,unknown,STERLING BANK PLC
+DOCEMO,moneygram,,unknown,UNITED BANK FOR AFRICA - #420
+OKITIPUPA,moneygram,,unknown,FBN - OKITIPUPA
+TRD FAIR BADAGRY,moneygram,,unknown,UNITED BANK FOR AFRICA
+TAKUM,moneygram,,unknown,UNITED BANK FOR AFRICA - #456
+ABONNEMA,moneygram,,unknown,UNITED BANK FOR AFRICA - #257
+ILARO,moneygram,,unknown,UNION BANK OF NIGERIA  - #144 - ILARO
+ORUN,moneygram,,unknown,UBA PLC - #255
+GEMBU,moneygram,,unknown,UBA PLC - #275
+ANKPA,moneygram,,unknown,UNITY BANK PLC - #299 - ANKPA - ANKPA BR
+DARAZO,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #131 - DA
+BIRNIN,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #173 - BI
+ALLEN,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #209 - AL
+KOSUBOSU,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #228 - KO
+EBUTE META,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #234 - EB
+ZURU,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #390 - ZU
+AHMADU BELLO,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #423 - AH
+OJODU,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #495 - OJ
+ABULE EGBA,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #545 - AB
+LAPIA,moneygram,,unknown,FIRSTBANK OF NIGERIA LIMITED - #745 - LA
+ILAJE,moneygram,,unknown,FCMB - #100 - ILAJE - IGBOKODA BRANCH
+YENAGOA RD,moneygram,,unknown,FCMB - #047 - YENAGOA RD - YENEGOA BRANC
+MUTUM BIYU,moneygram,,unknown,UBA - #0455 - MUTUM BIYU
+KWALI,moneygram,,unknown,KEYSTONE BANK LIMITED
+PANKSHIN,moneygram,,unknown,UNITY BANK PLC - #309 - PANKSHIN - PANKS
+APA,moneygram,,unknown,UNITY BANK PLC - #431 - APA - APA BRANCH
+MILE 12,moneygram,,unknown,UNITY BANK PLC - #376 - MILE 12 - MILE 1
+JAHUN,moneygram,,unknown,UNITY BANK PLC - #448 - JAHUN - JAHUN BR
+OZORRO,moneygram,,unknown,UNITY BANK PLC - #424 - OZORRO - OZORRO
+AFUZE,moneygram,,unknown,UNITY BANK PLC - #348 - AFUZE - AFUZE BR
+IGARRA,moneygram,,unknown,KEYSTONE BANK LIMITED
+WOJI,moneygram,,unknown,UNITY BANK PLC - #471 - WOJI - WOJI BRAN
+WUDIL,moneygram,,unknown,ZENITH BANK PLC - WUDIL - WUDIL KANO
+MAIYAMA,moneygram,,unknown,FIRST BANK OF NIGERIA - #366 - MAIYAMA -
+AKWA,moneygram,,unknown,FCMB - #094 - AKWA - AWKA BRANCH
+WUSE ZONE 4 ABUJA,moneygram,,unknown,FCMB - #189 - WUSE ZONE 4 ABUJA - ZONE 4
+GWAGWALADA ABUJA,moneygram,,unknown,FCMB - #225 - GWAGWALADA ABUJA  - GWAGW
+KAKURI,moneygram,,unknown,FCMB - #197 - KAKURI - KAKURI BRANCH
+CBD ABUJA,moneygram,,unknown,FCMB - #190 - CBD ABUJA - CBD ABUJA BRAN
+BOMPAI,moneygram,,unknown,FCMB - #213 - BOMPAI - KANO BOMPAI ROAD
+ANNEX 2 ABUJA,moneygram,,unknown,FCMB - #206 - ANNEX 2 ABUJA - FEDERAL S
+IKOTA VGC,moneygram,,unknown,KEYSTONE BANK LIMITED - #1 - IKOTA VGC -
+KUJE TOWN,moneygram,,unknown,FCMB - #226 - KUJE TOWN - KUJE TOWN CENT
+GWARINPA,moneygram,,unknown,FCMB - #227 - GWARINPA - ABUJA CREST PLA
+KAWO,moneygram,,unknown,UNITED BANK FOR AFRICA - #634 - KAWO - K
+UBURU,moneygram,,unknown,UNITED BANK FOR AFRICA - #0631 - UBURU -
+OVOM-BAYELSA YENEGOA,moneygram,,unknown,FCMB - #240 - OVOM-BAYELSA YENEGOA - YEN
+AGBANI TOWN,moneygram,,unknown,FCMB - #265 - AGBANI TOWN - AGBANI TOWN
+GARKI ABUJA,moneygram,,unknown,FCMB - #185 - GARKI ABUJA - GARKI YOLA S
+AREA 8 ABUJA,moneygram,,unknown,FCMB - #044 - AREA 8 ABUJA - OGBOMOSHO
+LANGTANG,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #483 - LANGT
+IKEJA GRA,moneygram,,unknown,FCMB - #137 - IKEJA GRA - IKEJA GRA BRAN
+WUSE ZONE 6 ABUJA,moneygram,,unknown,FCMB - #220 - WUSE ZONE 6 ABUJA - AMINU
+KWARI,moneygram,,unknown,UNITED BANK FOR AFRICA - #51 - KWARI - K
+AYINGBA,moneygram,,unknown,FCMB - #224 - AYINGBA - AYINGBA BRANCH
+MALUMFASHI,moneygram,,unknown,ACCESS BANK PLC - MALUMFASHI - MALUMFASH
+KACHIA,moneygram,,unknown,FCMB - #209 - KACHIA - KACHIA POLICE BRA
+BODIJA,moneygram,,unknown,FIDELITY BANK PLC - BODIJA - BODIJA BRAN
+UMUNZE,moneygram,,unknown,ACCESS BANK PLC - UMUNZE
+UTURN,moneygram,,unknown,UNITED BANK FOR AFRICA - #415 - UTURN -
+TAFAWABALEWA,moneygram,,unknown,FIRST BANK OF NIGERIA LTD - #321 - TAFAW
+VANDEIKYA,moneygram,,unknown,FIRST BANK OF NIGERIA - #340 - VANDEIKYA
+OKUKU,moneygram,,unknown,WEMA BANK PLC - #175 - OKUKU
+ONIRU,moneygram,,unknown,WEMA BANK PLC - #202 - ONIRU
+IRUN AKOKO,moneygram,,unknown,WEMA BANK PLC - #26 - IRUN AKOKO - IRUN-
+ONITSHA NORTH,moneygram,,unknown,ACCESS BANK - ONITSHA NORTH - 33 TRANS-N
+IDEMMILI NORTH,moneygram,,unknown,ACCESS BANK - IDEMMILI NORTH - OBA BRANC
+AWKUZU,moneygram,,unknown,ACCESS BANK - AWKUZU - AWKUZU BRANCH
+WUYE,moneygram,,unknown,ACCESS BANK - WUYE - WUYE BRANCH
+IBEJU LEKKI,moneygram,,unknown,ACCESS BANK - IBEJU LEKKI - IDASHO IBEJU
+ALAGBADO,moneygram,,unknown,FIDELITY BANK PLC
+SABO OWODE YEWA,moneygram,,unknown,ACCESS BANK - SABO OWODE YEWA - SABO OWO
+IGBOKODA,moneygram,,unknown,FBN - IGBOKODA
+KADU,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #346 - KADU
+UMUDIKE,moneygram,,unknown,ACCESS BANK PLC - UMUDIKE
+MANGU,moneygram,,unknown,FBN - #255 - MANGU
+LAFIAGI,moneygram,,unknown,UNION BANK OF NIGERIA PLC - #409 - LAFIA
+IDO-EKITI,moneygram,,unknown,HERITAGE BANK LIMITED
+ISE EKITI,moneygram,,unknown,HERITAGE BANK LIMITED
+ASHABA,moneygram,,unknown,STERLING BANK PLC
+IBADAN AGODI,moneygram,,unknown,HERITAGE BANK LIMITED
+IBADAN DUGBE,moneygram,,unknown,HERITAGE BANK LIMITED
+DIOBU PORTHARCOURT,moneygram,,unknown,UNION BANK OF NIGERIA - #655 - 101 IKWER
+PHT,moneygram,,unknown,STERLING BANK PLC
+FESTAC TOWN LAGOS,moneygram,,unknown,FIDELITY BANK PLC
+BBA,moneygram,,unknown,KEYSTONE BANK LIMITED
+IKARE,moneygram,,unknown,KEYSTONE BANK LIMITED
+IDUMOTA LAGOS,moneygram,,unknown,UNION BANK OF NIGERIA - #765 - OKE-ARIN
+HOTORO KANO,moneygram,,unknown,UNION BANK OF NIGERIA - #453 - HOTORO KA
+IBADAN BODIJA,moneygram,,unknown,HERITAGE BANK LIMITED
+ALABA INTL MKT,moneygram,,unknown,HERITAGE BANK LIMITED
+APAPA TRINITY,moneygram,,unknown,HERITAGE BANK LIMITED
+BROAD STREET,moneygram,,unknown,HERITAGE BANK LIMITED
+IKEJA AGIDINGBI,moneygram,,unknown,HERITAGE BANK LIMITED
+MARTINS STR,moneygram,,unknown,HERITAGE BANK LIMITED
+OJUWOYE,moneygram,,unknown,HERITAGE BANK LIMITED
+ONITSHA BRIDGEHEAD,moneygram,,unknown,HERITAGE BANK LIMITED
+ONITSHA IWEKA RD,moneygram,,unknown,HERITAGE BANK LIMITED
+ONITSHA NEW MKT,moneygram,,unknown,HERITAGE BANK LIMITED
+ONITSHA OLD MKT,moneygram,,unknown,HERITAGE BANK LIMITED
+DEEDE,moneygram,,unknown,UNION BANK OF NIGERIA - #180 - DEI-DEI
+MISSENE,moneygram,,unknown,UNION BANK OF NIGERIA - #119 - MISSION R
+IJEBU,moneygram,,unknown,UNION BANK OF NIGERIA  - #288 - IJEBU OD
+ILE IGBO,moneygram,,unknown,UNION BANK OF NIGERIA - #267 - ILE IFE
+SAMARU,moneygram,,unknown,UNION BANK OF NIGERIA  - #664 - SAMARU
+IMO STATE,moneygram,,unknown,FBN - NKWOAGU ISOUCHI
+BAYELSA STATE,moneygram,,unknown,UNION BANK OF NIGERIA  - #662 - YENAGOA
+YELWA,moneygram,,unknown,UNION BANK OF NIGERIA - #737 - YELWA
+AJAOKUTA,moneygram,,unknown,UNITY BANK PLC - #259 - AJAOKUTA - AJAOK
+IDAH,moneygram,,unknown,UNION BANK OF NIGERIA - #260 - IDAH
+ABAGANA,moneygram,,unknown,UNION BANK OF NIGERIA - #21 - ABAGANA
+AJALLI,moneygram,,unknown,UNION BANK OF NIGERIA - #52 - AJALLI
+ENUGU UKWU,moneygram,,unknown,UNION BANK OF NIGERIA - #195 - ENUGU  UK
+IGBO-UKWU,moneygram,,unknown,UNION BANK OF NIGERIA - #182 - IGBO-UKWU
+OLE,moneygram,,unknown,UNION BANK OF NIGERIA - #576 - OLEH
+ALADJE,moneygram,,unknown,UNION BANK OF NIGERIA - #612 - OVWIAN AL
+AGBANI,moneygram,,unknown,UNION BANK OF NIGERIA - #48 - AGBANI
+NGWO UNO,moneygram,,unknown,FBN - 9TH MILE CORNER
+ODE,moneygram,,unknown,UNION BANK OF NIGERIA - #560 - ODE IRELE
+AROCHUKWU,moneygram,,unknown,FBN - AROCHUKWU
+IKOT ABASI,moneygram,,unknown,UNION BANK OF NIGERIA - #157 - IKOT ABAS
+OGERE,moneygram,,unknown,UNION BANK OF NIGERIA - #566 - OGERE
+AGODILE,moneygram,,unknown,STERLING BANK PLC
+SABON GARI,moneygram,,unknown,KEYSTONE BANK LIMITED
+ALAOJI,moneygram,,unknown,FBN - ABA ALAOJI
+IKOT,moneygram,,unknown,FBN - IKOT EKPENE
+NIMO,moneygram,,unknown,FBN - NIMO
+ORBA,moneygram,,unknown,FBN - ORBA
+OVOKO,moneygram,,unknown,FBN - #346 - OVOKO
+IPETU IJESHA,moneygram,,unknown,FBN - #195 - IPETU IJESHA
+CROSS RIVER,moneygram,,unknown,FBN - #178 - IKOM
+AGBARHO,moneygram,,unknown,FBN - #169 - AGBARHO
+EKPA,moneygram,,unknown,FBN - EKPAN
+EFON,moneygram,,unknown,FBN - EFONALAYE
+EMUREN,moneygram,,unknown,FBN - EMURE
+IFAKI,moneygram,,unknown,FBN - IFAKI
+IKOLE,moneygram,,unknown,FBN - IKOLE
+AKOKWA,moneygram,,unknown,FBN - AKOKWA
+NKWERRE,moneygram,,unknown,FBN - NKWERRE
+EGBE,moneygram,,unknown,FBN - EGBE
+IYAMOYE,moneygram,,unknown,FBN - #206 - IYAMOYE
+INISA,moneygram,,unknown,FBN - INISA
+ARAROMI OBU,moneygram,,unknown,FBN - ARAROMI OBU
+IDOANI,moneygram,,unknown,FBN - IDOANI
+OGBERE,moneygram,,unknown,FBN - #285 - OGBERE
+EWEKORO,moneygram,,unknown,FBN - EWEKORO
+OGBUNIKE,moneygram,,unknown,FBN - ONITSHA BRIDGE HEA
+AMAOKWE ITEM,moneygram,,unknown,FBN - #328 - AMAOKWE ITEM
+INYI,moneygram,,unknown,FBN - #174 - INYI
+OGBAGA,moneygram,,unknown,FBN - ONITSHA OGBARU
+MOPA,moneygram,,unknown,FBN - MOPA
+ORON,moneygram,,unknown,ACCESS BANK PLC - ORON
+ABIRIBA,moneygram,,unknown,FBN - ABIRIBA
+AHABA IMENYI,moneygram,,unknown,FBN - AHABA IMENYI
+RIJIYA,moneygram,,unknown,FBN - RIJIYA
+ILUTITU,moneygram,,unknown,UNION BANK OF NIGERIA - #327 - ILUTITU -
+EHIME,moneygram,,unknown,FBN - #765 - MBANO
+AKUNGBA-AKOKO,moneygram,,unknown,ACCESS BANK PLC - ADEKUNLE
+MARARABA,moneygram,,unknown,UNITY BANK PLC - #380 - MARARABA - MARAR
+OYINGBO,moneygram,,unknown,ACCESS BANK PLC - OYINGBO WILLOUGHBY
+GARKI AREA 3,moneygram,,unknown,ACCESS BANK PLC - JOS STREET
+ABAKPA,moneygram,,unknown,ACCESS BANK PLC - ABAKPA NIKE
+PORTHACORT,moneygram,,unknown,ACCESS BANK PLC - RSUST
+OKPORO,moneygram,,unknown,FBN - #717 - OKPORO - PH RUMUODARA
+BORIKI,moneygram,,unknown,FBN - #710 - PH CHURCH HILL
+BRASS,moneygram,,unknown,FBN - #769 - BRASS
+AWO-OMAMMA,moneygram,,unknown,FBN - #773 - AWOMAMA
+PORTHACROURT,moneygram,,unknown,WEMA BANK PLC - OLU OBASANJO ROAD
+LAFENWA,moneygram,,unknown,FBN  - #781 - LAFENWA
+KUJE,moneygram,,unknown,FBN  - #779 - ABUJA KUJE
+ISLAND,moneygram,,unknown,FBN  - #780 - Balogun
+ILE OLUJI,moneygram,,unknown,FBN - ILEOLUJI
+MAIDUGURUI,moneygram,,unknown,UNITED BANK FOR AFRICA PLC - #505 - MAID
+SHENDAM,moneygram,,unknown,FBN - #684 - SHENDAM
+PAIKO,moneygram,,unknown,UNION BANK - #633 - PAIKO - PAIKO
+EMENE,moneygram,,unknown,UNION BANK - #196 - EMENE - EMENE
+ZAKI IBIAM,moneygram,,unknown,ACCESS BANK PLC - ZAKI IBIAM - ZAKI IBIA
+BAGUDO,moneygram,,unknown,UNION BANK - #99 - BAGUDO - BAGUDO
+JEBUBASSA,moneygram,,unknown,FBN - #115 - BASSA
+LKOTUN,moneygram,,unknown,FBN - #783 - LGANDO
+AKAMKPA,moneygram,,unknown,UNION BANK - #549 - AKAMKPA - AKAMKPA
+DUTSE ALHAJI,moneygram,,unknown,ZENITH BANK PLC - DUTSE ALHAJI - DUTSE A
+JABI,moneygram,,unknown,ZENITH BANK PLC - JABI - JABI
+MPAPE,moneygram,,unknown,ZENITH BANK PLC - MPAPE - MPAPE
+BUNGUDU,moneygram,,unknown,UNITY BANK PLC - #211 - BUNGUDU - BUNGUD
+IKARA,moneygram,,unknown,UNITY BANK PLC - #223 - IKARA - IKARA BR
+NUMAN,moneygram,,unknown,UNITY BANK PLC - #277 - NUMAN - NUMAN BR
+ALKALERI,moneygram,,unknown,UNITY BANK PLC - #281 - ALKALERI - ALKAL
+UGBOKOLO,moneygram,,unknown,UNITY BANK PLC - #285 - UGBOKOLO - UGBOK
+ZAKI-BIAM,moneygram,,unknown,UNITY BANK PLC - #286 - ZAKI-BIAM - ZAKI
+BILLIRI,moneygram,,unknown,UNITY BANK PLC - #289 - BILLIRI - BILLIR
+HADEJIA,moneygram,,unknown,ACCESS BANK PLC - HADEJIA - HADEJIA BRAN
+DUTSIN-MA,moneygram,,unknown,UNITY BANK PLC - #296 - DUTSIN-MA - DUTS
+WASAGU,moneygram,,unknown,UNITY BANK PLC - #298 - WASAGU - WASAGU
+ZUNGERU,moneygram,,unknown,UNITY BANK PLC - #306 - ZUNGERU - ZUNGER
+GADA,moneygram,,unknown,UNITY BANK PLC - #311 - GADA - GADA BRAN
+GWADABAWA,moneygram,,unknown,UNITY BANK PLC - #312 - GWADABAWA - GWAD
+SABON BIRNI,moneygram,,unknown,UNITY BANK PLC - #313 - SABON BIRNI - SA
+YABO,moneygram,,unknown,UNITY BANK PLC - #315 - YABO - YABO BRAN
+TALATAN MAFARA,moneygram,,unknown,UNITY BANK PLC - #319 - TALATAN MAFARA -
+BIRNIN-KUDU,moneygram,,unknown,UNITY BANK PLC - #391 - BIRNIN-KUDU - BI
+MAIGATARI,moneygram,,unknown,UNITY BANK PLC - #395 - MAIGATARI - MAIG
+DANBATTA,moneygram,,unknown,UNITY BANK PLC - #399 - DANBATTA - DANBA
+BIRNIN GWARI,moneygram,,unknown,UNITY BANK PLC - #413 - BIRNIN GWARI - B
+YAURI,moneygram,,unknown,UNITY BANK PLC - #433 - YAURI - YAURI BR
+GUMEL,moneygram,,unknown,UNITY BANK PLC - #451 - GUMEL - GUMEL BR
+PAMBEGUA,moneygram,,unknown,UNITY BANK PLC - #453 - PAMBEGUA - PAMBE
+KAFIN HAUSA,moneygram,,unknown,UNITY BANK PLC - #465 - KAFIN HAUSA - KA
+MUSAWA,moneygram,,unknown,UNITY BANK PLC - #467 - MUSAWA - MUSAWA
+OYE,moneygram,,unknown,UNITED BANK FOR AFRICA OYE-EKITI - #0569
+IFAKO,moneygram,,unknown,FBN  - #673 - Ifako-Gbagada
+GBOGAN,moneygram,,unknown,FBN  - #574 - Osogbo Gbogan Rd
+DOEMAK,moneygram,,unknown,UNION BANK - #164 - DOEMAK - DOEMARK
+AJEGUNLE,moneygram,,unknown,FIDELITY BANK PLC - BOUNDARY MARKET
+"Uyo, Akwa Ibom",sixt,,unknown,Car Hire Uyo/Le Méridien Ibom Hotel | SIXT rent a car
+Abuja,sixt,,unknown,Car Hire Abuja | SIXT rent a car
+Lagos,sixt,,unknown,Car Hire Lagos Ikeja | SIXT rent a car
+Port Harcourt,sixt,,unknown,Car Hire Port Harcourt | SIXT rent a car
+Port Harcourt,tommy_hilfiger,,unknown,Tommy Hilfiger
+Lagos,tommy_hilfiger,,unknown,Tommy Hilfiger
+unknown,totalenergies,,unknown,FCE Okene (Big H)
+ABUJA 2,totalenergies,,unknown,WUSE 1
+ABUJA 3,totalenergies,,unknown,WUSE 2
+ABEOKUTA,totalenergies,,unknown,WASIMI
+EGBADO,totalenergies,,unknown,SANGO OTTA F/S
+SAGAMU,totalenergies,,unknown,ODE REMO
+IJEBU,totalenergies,,unknown,ORU
+IKORODU,totalenergies,,unknown,JUBILEE ESTATE
+ISLAND,totalenergies,,unknown,KM 47 LEKKI EPE
+ORILE,totalenergies,,unknown,KIRIKIRI  STATION
+IKEJA,totalenergies,,unknown,ONIPETESI
+SURULERE,totalenergies,,unknown,ISOLO 2
+APAPA,totalenergies,,unknown,AJARA TOPA
+ILESHA,totalenergies,,unknown,OSHOGBO RD. SS
+ILORIN,totalenergies,,unknown,YAKUBA ROAD PSS
+IBADAN NORTH,totalenergies,,unknown,UCH PFS
+IBADAN SOUTH,totalenergies,,unknown,WORKSHOP S/S
+OYO,totalenergies,,unknown,SHAKI
+ABA,totalenergies,,unknown,OLD ABA RD UMUAHIA
+CALABAR,totalenergies,,unknown,YELLOW DUKE SS
+ENUGU,totalenergies,,unknown,UWANI
+ONITSHA,totalenergies,,unknown,OLD MKT ROAD
+OWERRI,totalenergies,,unknown,PHC EXP. OWERRI
+PHC,totalenergies,,unknown,RUMUOMASI
+AKURE,totalenergies,,unknown,ST. DAVIDS
+ASABA,totalenergies,,unknown,UMUNEDE
+BENIN,totalenergies,,unknown,WIRE ROAD
+EKITI,totalenergies,,unknown,OWO CENTRE
+WARRI,totalenergies,,unknown,WARRI CENTRE
+ABUJA 1,totalenergies,,unknown,UKE
+ABUJA,totalenergies,,unknown,TOTAL HOUSE
+MINNA,totalenergies,,unknown,"YAURI RD, KONTAGORA"
+MAKURDI,totalenergies,,unknown,WUKARI F/S
+KADUNA,totalenergies,,unknown,WAFF RD
+JOS,totalenergies,,unknown,ZARIA RD JOS
+GOMBE,totalenergies,,unknown,"YOLA RD, KALTUNGO"
+ZARIA,totalenergies,,unknown,NEW BRIDGE
+GUSAU,totalenergies,,unknown,WESTERN BYE PASS
+HADEJIA,totalenergies,,unknown,GARINDAU (PLATINUM SYNERGY)
+KANO,totalenergies,,unknown,ZARIA ROAD 2
+MAIDUGURI,totalenergies,,unknown,UNIMAID S/S
+YOLA,totalenergies,,unknown,YOLA RD
+BAYELSA,totalenergies,,unknown,PALM EXPRESSWAY
+SHAGAMU,totalenergies,,unknown,SAGAMU LAGOS ROAD
+Island,totalenergies,,unknown,SURA
+Apapa,totalenergies,,unknown,YSR ILOGBO PSS
+Orile,totalenergies,,unknown,WHARF ROAD
+Ikorodu,totalenergies,,unknown,TINUBU VILLAGE
+Ikeja,totalenergies,,unknown,TOYIN ST
+Surulere,totalenergies,,unknown,SURULERE
+Gombe,totalenergies,,unknown,BIU RD SS
+HADEIJA,totalenergies,,unknown,ZOO ROAD
+MARKURDI,totalenergies,,unknown,"MARKURDI RD., LAFIA"
+orile,totalenergies,,unknown,WESTERN AVE
+SULEJA,totalenergies,,unknown,TIPPER GARAGE S/S
+LAGOS- NIGERIA,united_colors_of_benetton,,unknown,Benetton Lagos- Nigeria
+LAGOS,visa,,unknown,unknown
+OGUN,visa,,unknown,unknown
+AGBARA,visa,,unknown,unknown
+OJO,visa,,unknown,unknown
+APAPA,visa,,unknown,unknown
+VICTORIA ISLAND,visa,,unknown,unknown
+LAGOS ISLAND,visa,,unknown,unknown
+IFAKO,visa,,unknown,unknown
+IKEJA,visa,,unknown,unknown
+AJILETE,visa,,unknown,unknown
+SURULERE,visa,,unknown,unknown
+ILUPEJU,visa,,unknown,unknown
+IDIMU,visa,,unknown,unknown
+AGEGE,visa,,unknown,unknown
+OTA,visa,,unknown,unknown
+OTTA,visa,,unknown,unknown
+SANGO-OTA,visa,,unknown,unknown
+IKORODU,visa,,unknown,unknown
+ILARO,visa,,unknown,unknown
+SHAGAMU,visa,,unknown,unknown
+LEKKI,visa,,unknown,unknown
+SAGAMU,visa,,unknown,unknown
+ODOGBOLU,visa,,unknown,unknown
+IJAIYE,visa,,unknown,unknown
+IJEBU-ODE,visa,,unknown,unknown
+BAYELSA,visa,,unknown,unknown
+ABEOKUTA,visa,,unknown,unknown
+IJEBU,visa,,unknown,unknown
+WARRI,visa,,unknown,unknown
+AGO IWOYE,visa,,unknown,unknown
+YENEGOA,visa,,unknown,unknown
+YENOGOA,visa,,unknown,unknown
+YENAGOA,visa,,unknown,unknown
+IJEBU-IGBO,visa,,unknown,unknown
+OKITIPUPA,visa,,unknown,unknown
+DELTA,visa,,unknown,unknown
+UGHELLI,visa,,unknown,unknown
+SAPELE,visa,,unknown,unknown
+IBADAN,visa,,unknown,unknown
+EDO,visa,,unknown,unknown
+OYO,visa,,unknown,unknown
+BENIN,visa,,unknown,unknown
+OGIDI,visa,,unknown,unknown
+IDANRE,visa,,unknown,unknown
+IKARE AKOKO,visa,,unknown,unknown
+PORT HARCOURT,visa,,unknown,unknown
+IDIROKO,visa,,unknown,unknown
+RIVERS,visa,,unknown,unknown
+ONDO,visa,,unknown,unknown
+OKADA,visa,,unknown,unknown
+IKIRUN,visa,,unknown,unknown
+ILE-OLUJI,visa,,unknown,unknown
+IWO,visa,,unknown,unknown
+ILE IFE,visa,,unknown,unknown
+IKOYI,visa,,unknown,unknown
+UMUNEDE,visa,,unknown,unknown
+OSUN,visa,,unknown,unknown
+OWERRI,visa,,unknown,unknown
+EDE,visa,,unknown,unknown
+AKURE,visa,,unknown,unknown
+ABA,visa,,unknown,unknown
+ILESA,visa,,unknown,unknown
+OGWASHI UKU,visa,,unknown,unknown
+OSHOGBO,visa,,unknown,unknown
+OSOGBO,visa,,unknown,unknown
+IFON,visa,,unknown,unknown
+ANAMBRA,visa,,unknown,unknown
+IBUSA,visa,,unknown,unknown
+OWO,visa,,unknown,unknown
+IMO,visa,,unknown,unknown
+ORLU,visa,,unknown,unknown
+AKWA IBOM,visa,,unknown,unknown
+ASABA,visa,,unknown,unknown
+IKERE-EKITI,visa,,unknown,unknown
+ONITSHA,visa,,unknown,unknown
+NNEWI,visa,,unknown,unknown
+OGBOMOSO,visa,,unknown,unknown
+EKET,visa,,unknown,unknown
+NKPOR,visa,,unknown,unknown
+MBAISE,visa,,unknown,unknown
+ADO-EKITI,visa,,unknown,unknown
+ADO EKITI,visa,,unknown,unknown
+IKOT EKPENE,visa,,unknown,unknown
+IKOT-EKPENE,visa,,unknown,unknown
+ABIA,visa,,unknown,unknown
+UMUAHIA,visa,,unknown,unknown
+OKIGWE,visa,,unknown,unknown
+UYO,visa,,unknown,unknown
+AGBADO,visa,,unknown,unknown
+ILA ORANGUN,visa,,unknown,unknown
+OFA,visa,,unknown,unknown
+ILA ORAGUN,visa,,unknown,unknown
+AWKA,visa,,unknown,unknown
+AKUNGBA,visa,,unknown,unknown
+OFFA,visa,,unknown,unknown
+AUCHI,visa,,unknown,unknown
+IKARE,visa,,unknown,unknown
+IGARRA,visa,,unknown,unknown
+ILORIN,visa,,unknown,unknown
+CALABAR,visa,,unknown,unknown
+CALBAR,visa,,unknown,unknown
+EBONYI,visa,,unknown,unknown
+ENUGU,visa,,unknown,unknown
+KWARA,visa,,unknown,unknown
+CROSS RIVER,visa,,unknown,unknown
+NSUKKA,visa,,unknown,unknown
+KOGI,visa,,unknown,unknown
+OBAJANA,visa,,unknown,unknown
+ABAKALIKI,visa,,unknown,unknown
+LOKOJA,visa,,unknown,unknown
+IKOM,visa,,unknown,unknown
+OTURKPO,visa,,unknown,unknown
+NEW BUSSA,visa,,unknown,unknown
+BIDA,visa,,unknown,unknown
+OGOJA,visa,,unknown,unknown
+MAKURDI,visa,,unknown,unknown
+NASARAWA,visa,,unknown,unknown
+GBOKO,visa,,unknown,unknown
+MINNA,visa,,unknown,unknown
+SULEJA,visa,,unknown,unknown
+ABUJA,visa,,unknown,unknown
+GARKI,visa,,unknown,unknown
+NIGER,visa,,unknown,unknown
+KEFFI,visa,,unknown,unknown
+LAFIA,visa,,unknown,unknown
+TARABA,visa,,unknown,unknown
+AKWANGA,visa,,unknown,unknown
+BENUE,visa,,unknown,unknown
+KEBBI,visa,,unknown,unknown
+PLATEAU,visa,,unknown,unknown
+WUSE,visa,,unknown,unknown
+KAFANCHAN,visa,,unknown,unknown
+KADUNA,visa,,unknown,unknown
+ZAMFARA,visa,,unknown,unknown
+TURUNKU,visa,,unknown,unknown
+BIRNIN KEBBI,visa,,unknown,unknown
+BIRNIN-KEBBI,visa,,unknown,unknown
+BUKURU,visa,,unknown,unknown
+JOS,visa,,unknown,unknown
+ZARIA,visa,,unknown,unknown
+SAMINAKA,visa,,unknown,unknown
+KOTANGORA,visa,,unknown,unknown
+FUNTUA,visa,,unknown,unknown
+GUSAU,visa,,unknown,unknown
+MALUMFASHI,visa,,unknown,unknown
+KANKARA,visa,,unknown,unknown
+SOKOTO,visa,,unknown,unknown
+BAUCHI,visa,,unknown,unknown
+JALINGO,visa,,unknown,unknown
+KANO,visa,,unknown,unknown
+KASTINA,visa,,unknown,unknown
+SEME,visa,,unknown,unknown
+DUTSE,visa,,unknown,unknown
+MARARABA,visa,,unknown,unknown
+KATSINA,visa,,unknown,unknown
+GOMBE,visa,,unknown,unknown
+KWALE,visa,,unknown,unknown
+ADAMAWA,visa,,unknown,unknown
+DAURA,visa,,unknown,unknown
+YOLA,visa,,unknown,unknown
+JIGAWA,visa,,unknown,unknown
+ASHAKA,visa,,unknown,unknown
+YABA,visa,,unknown,unknown
+BORNO,visa,,unknown,unknown
+DAMATURU,visa,,unknown,unknown
+MUBI,visa,,unknown,unknown
+YOBE,visa,,unknown,unknown
+MAIDUGURI,visa,,unknown,unknown
+Port Harcourt,western_union,,unknown,FIRST BANK OF NIGERIA PLC

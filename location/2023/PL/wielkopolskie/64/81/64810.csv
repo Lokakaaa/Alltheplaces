@@ -1,0 +1,15 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1382,abc_pl,abc,,Morzewo,wielkopolskie,,PL,,,,abc,Q11683985
+11240,abc_pl,abc,,Morzewo,wielkopolskie,,PL,,,,abc,Q11683985
+12618,groszek_pl,Groszek,,Śmiłowo,wielkopolskie,,PL,,,,Groszek,Q9280965
+11695,groszek_pl,Groszek,,Dziembowo,wielkopolskie,,PL,,,,Groszek,Q9280965
+6777,groszek_pl,Groszek,,Kaczory,wielkopolskie,,PL,,,,Groszek,Q9280965
+KCR01A,paczkomat_inpost_pl,Przy sklepie Lewiatan,,Kaczory,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kaczory-kcr01a-dziembowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KCR01M,paczkomat_inpost_pl,Przy myjni samoobsługowej 24H,,Kaczory,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kaczory-kcr01m-dworcowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KCR02M,paczkomat_inpost_pl,Przy sklepie spożywczym Jagódka,,Kaczory,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kaczory-kcr02m-brzozowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+MQO01M,paczkomat_inpost_pl,Przy prywatnej posesji,,Morzewo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-morzewo-mqo01m-rynek-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-DZB1,paczkomat_inpost_pl,LEWIATAN,,Dziembowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-dziembowo-pop-dzb1-glowna-paczkomaty-wielkopolskie,Mo-Sa 08:00-20:00; Su 11:00-16:00,Paczkomat,Q110970254
+POP-KAC1,paczkomat_inpost_pl,MAJKA SKLEP ZABAWKOWY,,Kaczory,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kaczory-pop-kac1-pilska-paczkomaty-wielkopolskie,Mo-Fr 10:00-18:00; Sa 10:00-14:00,Paczkomat,Q110970254
+POP-KAC2,paczkomat_inpost_pl,LEWIATAN,,Kaczory,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kaczory-pop-kac2-dziembowska-paczkomaty-wielkopolskie,Mo-Sa 06:00-21:00,Paczkomat,Q110970254
+975927,poczta_polska_pl,FUP Piła 2,,Kaczory,WIELKOPOLSKIE,,PL,+48 887 854 404,,,Poczta Polska,Q168833
+89679e4745582834aaa98303afdfb362,western_union,BS CHODZIEZ O KACZORY,,Kaczory,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/kaczory/89679e4745582834aaa98303afdfb362,Mo-Fr 09:00-16:00,Western Union,Q861042

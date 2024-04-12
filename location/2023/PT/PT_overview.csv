@@ -1,0 +1,5019 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,36
+11,adidas,Lisbon,1
+UNKNOWN,adidas,Modivas,1
+UNKNOWN,adidas,Almancil,1
+15,adidas,Alcochete,1
+UNKNOWN,alamo,Ponta Delgada,1
+UNKNOWN,alamo,Lisbon,1
+UNKNOWN,alamo,Faro,1
+UNKNOWN,alamo,Santa Cruz,1
+UNKNOWN,alamo,Porto,1
+LISBOA,aldi_nord_pt,Azambuja,1
+PORTO,aldi_nord_pt,Leça da Palmeira,1
+PORTO,aldi_nord_pt,Vila Nova de Gaia,3
+BRAGA,aldi_nord_pt,Guimarães,1
+SETÚBAL,aldi_nord_pt,Aroeira,1
+LISBOA,aldi_nord_pt,Vila Franca de Xira,1
+AVEIRO,aldi_nord_pt,Lourosa,1
+FARO,aldi_nord_pt,Guia,2
+FARO,aldi_nord_pt,Silves,1
+LISBOA,aldi_nord_pt,Ericeira,1
+SANTARÉM,aldi_nord_pt,Entroncamento,1
+FARO,aldi_nord_pt,Vila Real de Santo António,1
+LEIRIA,aldi_nord_pt,Nazaré,1
+PORTALEGRE,aldi_nord_pt,Elvas,1
+LISBOA,aldi_nord_pt,São Domingos de Rana,2
+SANTARÉM,aldi_nord_pt,Almeirim,1
+FARO,aldi_nord_pt,Albufeira,1
+LEIRIA,aldi_nord_pt,Leiria,2
+SETÚBAL,aldi_nord_pt,Alcochete,1
+SETÚBAL,aldi_nord_pt,Almada,2
+FARO,aldi_nord_pt,Altura,1
+LEIRIA,aldi_nord_pt,Peniche,1
+SETÚBAL,aldi_nord_pt,Santana,1
+GUARDA,aldi_nord_pt,Guarda,1
+BEJADISTRICT,aldi_nord_pt,Ourique,1
+CASTELOBRANCO,aldi_nord_pt,Covilhã,1
+PORTO,aldi_nord_pt,S. Cosme,1
+BRAGA,aldi_nord_pt,Esposende,1
+LISBOA,aldi_nord_pt,Loures,1
+PORTO,aldi_nord_pt,Canelas,1
+LISBOA,aldi_nord_pt,Torres Vedras,1
+PORTO,aldi_nord_pt,Vila do Conde,1
+LEIRIA,aldi_nord_pt,Marinha Grande,1
+LISBOA,aldi_nord_pt,Lisboa,7
+LISBOA,aldi_nord_pt,Carregado,1
+SETÚBAL,aldi_nord_pt,Moita,1
+LISBOA,aldi_nord_pt,Vialonga,1
+LISBOA,aldi_nord_pt,Bobadela,1
+FARO,aldi_nord_pt,Lagoa,1
+SANTARÉM,aldi_nord_pt,Santarém,1
+COIMBRA,aldi_nord_pt,Coimbra,2
+LISBOA,aldi_nord_pt,Campo de Ourique,1
+PORTALEGRE,aldi_nord_pt,Portalegre,1
+SETÚBAL,aldi_nord_pt,Amora,1
+LISBOA,aldi_nord_pt,Venda do Pinheiro,1
+SANTARÉM,aldi_nord_pt,Fátima,1
+FARO,aldi_nord_pt,Faro,2
+BEJA,aldi_nord_pt,Odemira,1
+VISEU,aldi_nord_pt,Viseu,1
+LISBOA,aldi_nord_pt,Alcabideche,2
+LISBOA,aldi_nord_pt,Casal de Cambra,1
+SANTARÉM,aldi_nord_pt,Torres Novas,1
+LISBOA,aldi_nord_pt,Famões,1
+LISBOA,aldi_nord_pt,Amadora,1
+PORTO,aldi_nord_pt,Lavra,1
+PORTO,aldi_nord_pt,Pedrouços,1
+LEIRIA,aldi_nord_pt,Caldas da Rainha,1
+PORTO,aldi_nord_pt,Valbom,1
+COIMBRA,aldi_nord_pt,Figueira da Foz,1
+FARO,aldi_nord_pt,Portimão,1
+LISBOA,aldi_nord_pt,Póvoa de Santa Iria,1
+LISBOA,aldi_nord_pt,Agualva-Cacém,2
+FARO,aldi_nord_pt,Lagos,1
+FARO,aldi_nord_pt,Almancil,1
+FARO,aldi_nord_pt,Tavira,1
+LISBOA,aldi_nord_pt,Sintra,2
+VIANADOCASTELO,aldi_nord_pt,Vila Praia de Âncora,1
+SETÚBAL,aldi_nord_pt,Setúbal,1
+SETÚBAL,aldi_nord_pt,Quinta do Conde,1
+SANTARÉM,aldi_nord_pt,Samora Correia,1
+BRAGA,aldi_nord_pt,Braga,1
+FARO,aldi_nord_pt,Quelfes,1
+SANTARÉM,aldi_nord_pt,Ourém,1
+SETÚBAL,aldi_nord_pt,Palmela,1
+LISBOA,aldi_nord_pt,Santa Iria de Azoia,1
+FARO,aldi_nord_pt,Boliqueime,1
+FARO,aldi_nord_pt,Alcantarilha,1
+PORTO,aldi_nord_pt,Alfena,1
+PORTO,aldi_nord_pt,Valongo,1
+LISBOA,aldi_nord_pt,Alfragide,1
+SETÚBAL,aldi_nord_pt,Casal do Marco,1
+LISBOA,aldi_nord_pt,Queluz,2
+LISBOA,aldi_nord_pt,Infantado,1
+PORTO,aldi_nord_pt,Rio Tinto,1
+PORTO,aldi_nord_pt,Maia,1
+SETÚBAL,aldi_nord_pt,Pinhal Novo,1
+VILAREAL,aldi_nord_pt,Vila Real,1
+SETÚBAL,aldi_nord_pt,Barreiro,1
+LISBOA,aldi_nord_pt,Mem Martins,1
+FARODISTRICT,aldi_nord_pt,Albufeira,1
+SETÚBAL,aldi_nord_pt,Corroios,1
+SETÚBAL,aldi_nord_pt,Santiago do Cacém,1
+LISBOA,aldi_nord_pt,Alverca do Ribatejo,1
+LEIRIA,aldi_nord_pt,Alcobaça,1
+SETÚBAL,aldi_nord_pt,Baixa da Banheira,1
+BEJA,aldi_nord_pt,Beja,1
+BRAGA,aldi_nord_pt,Nespereira,1
+AVEIRO,aldi_nord_pt,São João da Madeira,1
+LISBOA,aldi_nord_pt,Lourinhã,1
+VIANADOCASTELO,aldi_nord_pt,Viana do Castelo,1
+AVEIRO,aldi_nord_pt,Santa Maria da Feira,1
+SETÚBAL,aldi_nord_pt,Quinta do Anjo,1
+PORTO,aldi_nord_pt,Leça do Balio,1
+VILANOVADEFAMALICÃO,aldi_nord_pt,Joane,1
+PORTO,aldi_nord_pt,Marco de Canaveses,1
+COIMBRA,aldi_nord_pt,Oliveira do Hospital,1
+FARO,aldi_nord_pt,Ferreiras,1
+PORTO,aldi_nord_pt,Águas Santas,1
+SANTARÉM,aldi_nord_pt,Abrantes,1
+PORTO,aldi_nord_pt,Moreira,1
+PORTO,aldi_nord_pt,Guifões,1
+FARO,aldi_nord_pt,Loulé,1
+SETÚBAL,aldi_nord_pt,Montijo,1
+LISBOA,aldi_nord_pt,Mafra,1
+BRAGA,aldi_nord_pt,Fafe,1
+LISBOA,aldi_nord_pt,Terrugem,1
+CASTELOBRANCO,aldi_nord_pt,Fundão,1
+SETÚBAL,aldi_nord_pt,Alcácer do Sal,1
+AVEIRO,aldi_nord_pt,Mealhada,1
+SETÚBAL,aldi_nord_pt,Grândola,1
+LISBOA,aldi_nord_pt,Sacavém,1
+PORTO,aldi_nord_pt,Paredes,1
+SANTARÉM,aldi_nord_pt,Tomar,1
+GUARDA,aldi_nord_pt,Seia,1
+UNKNOWN,alstom,unknown,1
+FARO,asics_eu,Almancil,1
+SETUBAL,asics_eu,Alcochete,1
+PORTO,asics_eu,Mindelo,1
+AVEIRO,auchan_pt,Aradas,2
+CASTELOBRANCO,auchan_pt,Castelo Branco,2
+COIMBRA,auchan_pt,Coimbra,2
+COIMBRA,auchan_pt,Eiras,2
+FIGUEIRADAFOZ,auchan_pt,Figueira da Foz,2
+CALDASDARAINHA,auchan_pt,Caldas da Rainha,1
+GUARDA,auchan_pt,Guarda,1
+VISEU,auchan_pt,Viseu,2
+OEIRAS,auchan_pt,Carnaxide,2
+ALMADA,auchan_pt,Almada,9
+SETÚBAL,auchan_pt,Setúbal,3
+ÉVORA,auchan_pt,Évora,2
+SETÚBAL,auchan_pt,Vale do Cobro,1
+PORTIMÃO,auchan_pt,Portimão,2
+LAGOA,auchan_pt,Lagoa,2
+FARO,auchan_pt,Faro,3
+BARREIRO,auchan_pt,Coina,2
+OLHÃO,auchan_pt,Olhão,1
+PORTO,auchan_pt,Lisboa,2
+PORTO,auchan_pt,Porto,4
+VILAREAL,auchan_pt,São Pedro,1
+SANTOTIRSO,auchan_pt,Santo Tirso,2
+MAIA,auchan_pt,Moreira,1
+MAIA,auchan_pt,Gueifães,1
+GUIMARÃES,auchan_pt,Silvares,1
+PORTO,auchan_pt,Campanhã,1
+GONDOMAR,auchan_pt,Rio Tinto,2
+VILANOVADEFAMALICÃO,auchan_pt,Vila Nova de Famalicão,2
+VILANOVADEGAIA,auchan_pt,Canidelo,2
+PORTO,auchan_pt,Vila do Conde,1
+VILAREAL,auchan_pt,Vila Real,1
+VILANOVADEGAIA,auchan_pt,Vila Nova de Gaia,1
+MATOSINHOS,auchan_pt,Matosinhos,1
+MAIA,auchan_pt,Maia,1
+GUIMARÃES,auchan_pt,Guimarães,1
+LISBOA,auchan_pt,Lisboa,22
+AMADORA,auchan_pt,Amadora,3
+ALMADA,auchan_pt,Caparica,1
+LOURES,auchan_pt,Bobadela,1
+SINTRA,auchan_pt,Queluz,2
+LISBOA,auchan_pt,Campo de Ourique,2
+ODIVELAS,auchan_pt,Odivelas,1
+VILAFRANCADEXIRA,auchan_pt,Vila Franca de Xira,1
+OEIRAS,auchan_pt,Algés,1
+TORRESVEDRAS,auchan_pt,Torres Vedras,2
+SINTRA,auchan_pt,Mem Martins,2
+PAÇODEARCOS,auchan_pt,Paço de Arcos,1
+CASCAIS,auchan_pt,Alcabideche,1
+VILAFRANCADEXIRA,auchan_pt,Alverca do Ribatejo,2
+ALENQUER,auchan_pt,Carregado,1
+OEIRAS,auchan_pt,Paços de Arcos,1
+CASCAIS,auchan_pt,Cascais,1
+LISBON,audi,Lisboa,6
+VILAREAL,audi,Chaves,1
+LISBON,audi,Cacém,1
+LISBON,audi,Alfragide - Amadora,1
+PORTO,audi,Porto,3
+COIMBRA,audi,Coimbra,2
+SETUBAL,audi,Setúbal,1
+SETUBAL,audi,Sto António da Charneca,1
+LISBON,audi,Alenquer,1
+SANTAREM,audi,Torres Novas,1
+VIANADOCASTELO,audi,Viana do Castelo,2
+BRAGA,audi,Vila Nova de Famalicão,1
+FARO,audi,Faro,1
+AZORES,audi,Ponta Delgada,1
+MADEIRA,audi,Funchal,2
+LISBON,audi,Loures,1
+PORTO,audi,Vila Nova de Gaia,1
+SANTAREM,audi,Santarém,1
+LISBON,audi,Torres Vedras,1
+LISBON,audi,Paço De Arcos,1
+PORTO,audi,Leça da Palmeira (Porto),1
+FARO,audi,Portimão,1
+BRAGANCA,audi,Bragança,1
+VILAREAL,audi,Vila Real,1
+EVORA,audi,Évora,1
+PORTO,audi,Amarante,1
+SETUBAL,audi,Santiago do Cacém,1
+BRAGA,audi,Guimarães,1
+BRAGA,audi,Braga,1
+VISEU,audi,Viseu,1
+PORTO,audi,Nogueira,1
+AVEIRO,audi,Aveiro,1
+SETUBAL,audi,Feijó,1
+LEIRIA,audi,Leiria,1
+PORTO,audi,Guilhufe,1
+LEIRIA,audi,Caldas da Rainha,1
+AVEIRO,audi,ARRIFANA,1
+PORTO,audi,Maia,1
+PORTO,audi,Vila do Conde,1
+LOTE126LOJA2,avis,Viseu,1
+CAMPANHACOMBOIOSDEPORTUGAL,avis,Porto,1
+PORTIMAO,avis,Praia Da Rocha,1
+ALBUFEIRA,avis,Albufeira,1
+FARO,avis,Faro,1
+EDIFMARINAPLAZALOJA97,avis,Vilamoura,1
+PORTO,avis,Porto,1
+MAIA,avis,Maia,2
+GUIMARAES,avis,Guimaraes,1
+JUNTOAOMINIPRECOMAXIMINOS,avis,Braga,1
+LOJA1,avis,Vilanova Famalicao,1
+AZORESISLAND,avis,Velas De Sao Jorge,2
+SANTAREM,avis,Santarem,1
+ALMADA,avis,Corroios,1
+VERDERENA,avis,Barreiro,1
+CARNAXIDE,avis,Carnaxide,1
+BANDEIRASAZORESISLAND,avis,"Bandeiras, Azores Island",1
+LISBON,avis,Lisbon,3
+STAMARIAFEIRA,avis,Sta Maria Feira,1
+1PISOLOJA11,avis,Sines,1
+SETUBAL,avis,Setubal,1
+CENTERPARKFRACCAOF,avis,Torres Vedras,1
+COMBOIOSDEPORTUGAL,avis,Lisbon,1
+POVOSJUNTOAOHOSPITAL,avis,Vila Franca Xira,1
+ANGRAHEROISMAZORESISL,avis,"Angra Heroism, Azores Isl",1
+PRAIADAVITORIAAZORESISL,avis,"Praia da Vitoria,Azores isl",1
+CONDOMINIODOINFANTELOJA25,avis,Lagos,1
+DNA,avis,"Ponta Delgada,Azores Island",1
+PONTADELGADAAZORESISLAND,avis,"Ponta Delgada, Azores Island",2
+HORTAAZORESISLAND,avis,"Horta, Azores Island",3
+AZORESISLAND,avis,"Madalena,Pico Island",1
+ESTORIL,avis,Estoril,1
+LOTE102,avis,Leiria,1
+SOVIALMALDA,avis,"Funchal, Madeira Island",1
+AVDOINFANTE,avis,"Funchal, Madeira Island",1
+EVORA,avis,Evora,1
+COVILHA,avis,Covilha,1
+COIMBRA,avis,Coimbra,1
+LOJAC,avis,Beja,1
+AVEIRO,avis,Aveiro,1
+KWAZULUNATAL,baby_city,Amanzimtoti,1
+CONTINENTE,bmw_group,Leiria,1
+CONTINENTE,bmw_group,Vila Real,1
+CONTINENTE,bmw_group,Guimarães,1
+CONTINENTE,bmw_group,Guarda,1
+CONTINENTE,bmw_group,Castelo Branco,1
+CONTINENTE,bmw_group,Aveiro,1
+CONTINENTE,bmw_group,Braga,1
+CONTINENTE,bmw_group,Povoa de Varzim,1
+CONTINENTE,bmw_group,Corroios,1
+CONTINENTE,bmw_group,Amora,1
+CONTINENTE,bmw_group,Bragança,1
+CONTINENTE,bmw_group,Viseu,1
+CONTINENTE,bmw_group,Lisboa,5
+CONTINENTE,bmw_group,Carnaxide,1
+CONTINENTE,bmw_group,Setubal,1
+UNKNOWN,bmw_group,Vila Real,1
+ACORES,bmw_group,Ponta Delgada,3
+CONTINENTE,bmw_group,Santarem,1
+CONTINENTE,bmw_group,Torres Vedras,1
+CONTINENTE,bmw_group,Barcelos,1
+CONTINENTE,bmw_group,Évora,1
+UNKNOWN,bmw_group,Lisboa,4
+CONTINENTE,bmw_group,Porto,2
+ACORES,bmw_group,Angra do Heroismo,1
+CONTINENTE,bmw_group,Coimbra,1
+CONTINENTE,bmw_group,Oeiras,1
+CONTINENTE,bmw_group,Paredes,1
+UNKNOWN,bmw_group,Porto,1
+UNKNOWN,bmw_group,Leiria,1
+UNKNOWN,bmw_group,Santo Antão do Tojal,1
+CONTINENTE,bmw_group,Trofa,1
+CONTINENTE,bmw_group,Pombal,1
+UNKNOWN,bmw_group,Portimão,1
+CONTINENTE,bmw_group,Maia,1
+UNKNOWN,bmw_group,Matosinhos,1
+CONTINENTE,bmw_group,Vila Nova de Gaia,1
+MADEIRA,bmw_group,Funchal,1
+CONTINENTE,bmw_group,Caldas da Rainha,1
+UNKNOWN,bmw_group,Faro,1
+CONTINENTE,bmw_group,Viana do Castelo,1
+CONTINENTE,bmw_group,Pedroso,1
+UNKNOWN,bmw_group,Espargo Santa Maria da Feira,1
+UNKNOWN,bmw_group,Alcabideche,1
+LISBOAREGION,botteg_aveneta,Lisbon,1
+UNKNOWN,bp,Monte Redondo,1
+UNKNOWN,bp,Carnide,1
+UNKNOWN,bp,Colmeias,2
+UNKNOWN,bp,Confraria,1
+UNKNOWN,bp,Leiria,1
+UNKNOWN,bp,Pombal,1
+UNKNOWN,bp,Embra,1
+UNKNOWN,bp,Marinha Grande,1
+UNKNOWN,bp,Azóia,1
+UNKNOWN,bp,Figueira da Foz,2
+UNKNOWN,bp,Santa Catarina da Serra,1
+UNKNOWN,bp,Tavarede,1
+UNKNOWN,bp,Calvaria de Cima,1
+UNKNOWN,bp,Porto de Mós,1
+UNKNOWN,bp,Ansião,1
+UNKNOWN,bp,PORTO DE MÓS CODEX,1
+UNKNOWN,bp,Ourem,1
+UNKNOWN,bp,Pataias,3
+UNKNOWN,bp,Ega,1
+UNKNOWN,bp,Alcobaça,1
+UNKNOWN,bp,Aljubarrota,1
+UNKNOWN,bp,Cabaços,1
+UNKNOWN,bp,Coimbra,2
+UNKNOWN,bp,Gorduchas,1
+UNKNOWN,bp,Cantanhede,3
+UNKNOWN,bp,Entroncamento,2
+UNKNOWN,bp,Murtede,1
+UNKNOWN,bp,Pernes,2
+UNKNOWN,bp,Lavradio,2
+UNKNOWN,bp,Caldas da Rainha,2
+UNKNOWN,bp,Casal da Comba,1
+UNKNOWN,bp,VIDAIS,1
+UNKNOWN,bp,Algés,1
+UNKNOWN,bp,Rio Maior,2
+UNKNOWN,bp,Anadia,2
+UNKNOWN,bp,Bustos,1
+UNKNOWN,bp,Palhoça,1
+UNKNOWN,bp,Santarem,1
+UNKNOWN,bp,São João da Talha,2
+UNKNOWN,bp,Prior Velho,1
+UNKNOWN,bp,Flamenga - Frielas,1
+UNKNOWN,bp,Loures,2
+UNKNOWN,bp,Lisboa,13
+UNKNOWN,bp,Moscavide,1
+UNKNOWN,bp,Odivelas,1
+UNKNOWN,bp,Sete Casas,1
+UNKNOWN,bp,ramada,1
+UNKNOWN,bp,Famões,1
+UNKNOWN,bp,Caneças,1
+UNKNOWN,bp,São Domingos de Benfica,1
+UNKNOWN,bp,Amadora,2
+UNKNOWN,bp,Alcochete,1
+UNKNOWN,bp,Venda Pinheiro,1
+UNKNOWN,bp,Carnaxide,1
+UNKNOWN,bp,Queluz,1
+UNKNOWN,bp,Arruda dos Vinhos,1
+UNKNOWN,bp,MONTIJO,2
+UNKNOWN,bp,Agualva Cacém,1
+UNKNOWN,bp,Barreiro,1
+UNKNOWN,bp,Vila Franca de Xira,1
+UNKNOWN,bp,MAFRA,1
+UNKNOWN,bp,Almada,1
+UNKNOWN,bp,Barcarena,1
+UNKNOWN,bp,"Igreja Nova, Mafra",1
+UNKNOWN,bp,Lançada,1
+UNKNOWN,bp,Feijó,1
+UNKNOWN,bp,Santo André,1
+UNKNOWN,bp,Corroios,1
+UNKNOWN,bp,Moita,1
+UNKNOWN,bp,Seixal,6
+UNKNOWN,bp,Lourinhã,1
+UNKNOWN,bp,Peniche,1
+UNKNOWN,bp,Torres Vedras,2
+UNKNOWN,bp,TORRES VEDRAS,1
+UNKNOWN,bp,RUNA,1
+UNKNOWN,bp,Espinheira,1
+UNKNOWN,bp,Ericeira,1
+UNKNOWN,bp,Mafra,1
+UNKNOWN,bp,Carregado,2
+UNKNOWN,bp,PERO PINHEIRO,1
+UNKNOWN,bp,Sintra,6
+UNKNOWN,bp,Mem Martins,1
+UNKNOWN,bp,SINTRA,1
+UNKNOWN,bp,Mercês,1
+UNKNOWN,bp,Ramalhão,1
+UNKNOWN,bp,Pegões,2
+UNKNOWN,bp,Pinhal Novo,2
+UNKNOWN,bp,Palmela,2
+UNKNOWN,bp,Setubal,5
+UNKNOWN,bp,Coruche,1
+UNKNOWN,bp,Montemor-O-Novo,2
+UNKNOWN,bp,Samora Correia,2
+UNKNOWN,bp,SAMORA CORREIA,1
+UNKNOWN,bp,Quinta do Anjo,1
+UNKNOWN,bp,Salvaterra de Magos,1
+UNKNOWN,bp,Marinhais,1
+UNKNOWN,bp,Couço,1
+UNKNOWN,bp,Cartaxo,3
+UNKNOWN,bp,Grândola,3
+UNKNOWN,bp,Trofa,2
+UNKNOWN,bp,Lousado,1
+UNKNOWN,bp,Braga,9
+UNKNOWN,bp,Santo Tirso,1
+UNKNOWN,bp,Calendário - Vila Nova de Famalicão,1
+UNKNOWN,bp,Vila Nova de Famalicão,3
+UNKNOWN,bp,São Mamede do Coronado,1
+UNKNOWN,bp,Maia,6
+UNKNOWN,bp,Vila do Conde,1
+UNKNOWN,bp,"Alfena, Valongo",1
+UNKNOWN,bp,Mouquim,1
+UNKNOWN,bp,Alfena,2
+UNKNOWN,bp,Macieira da Maia,1
+UNKNOWN,bp,Balazar,1
+UNKNOWN,bp,Águas Santas,2
+UNKNOWN,bp,PAÇOS DE FERREIRA,1
+UNKNOWN,bp,Mindelo,1
+UNKNOWN,bp,Póvoa de Varzim,3
+UNKNOWN,bp,Ermesinde,1
+UNKNOWN,bp,Paços de Ferreira,4
+UNKNOWN,bp,Leça do Balio,2
+UNKNOWN,bp,Lordelo ? Guimarães,1
+UNKNOWN,bp,S. Mamede de Infesta,1
+UNKNOWN,bp,Vermil,1
+UNKNOWN,bp,Pedrouços,1
+UNKNOWN,bp,Matosinhos,1
+UNKNOWN,bp,Matosinhos - Perafita,1
+UNKNOWN,bp,São Mamede da Infesta,2
+UNKNOWN,bp,Campo,1
+UNKNOWN,bp,Tadim,1
+UNKNOWN,bp,PORTO,1
+UNKNOWN,bp,Porto,6
+UNKNOWN,bp,Fânzeres,1
+UNKNOWN,bp,Bragança,2
+UNKNOWN,bp,Miranda do Douro,1
+UNKNOWN,bp,Montalegre,2
+UNKNOWN,bp,Mogadouro,1
+UNKNOWN,bp,Mirandela,2
+UNKNOWN,bp,Vila Flor,1
+UNKNOWN,bp,Vilar Flor,1
+UNKNOWN,bp,Torre de Moncorvo,2
+UNKNOWN,bp,Vila Pouca de Aguiar,1
+UNKNOWN,bp,Lamares,1
+UNKNOWN,bp,Lamares - Vila Real,1
+UNKNOWN,bp,Sabrosa,1
+UNKNOWN,bp,Vila Real,5
+UNKNOWN,bp,Ponte de Sor,1
+UNKNOWN,bp,Portalegre,2
+UNKNOWN,bp,Pavia,1
+UNKNOWN,bp,Alpiarça,1
+UNKNOWN,bp,Vila Velha de Ródão,1
+UNKNOWN,bp,Estremoz,1
+UNKNOWN,bp,Sertã,1
+UNKNOWN,bp,Castelo Branco,2
+UNKNOWN,bp,Évora,2
+UNKNOWN,bp,Elvas,1
+UNKNOWN,bp,Guarda,2
+UNKNOWN,bp,GUARDA,1
+UNKNOWN,bp,Celorico da Beira,1
+UNKNOWN,bp,Gouveia,1
+UNKNOWN,bp,Trancoso,1
+UNKNOWN,bp,Castelo Mendo,2
+UNKNOWN,bp,Lagarinhos,1
+UNKNOWN,bp,Covilhã,1
+UNKNOWN,bp,Pinheiro-Aguiar da Beira,1
+UNKNOWN,bp,Mangualde,4
+UNKNOWN,bp,SÃO ROMÃO,1
+UNKNOWN,bp,Sátão,1
+UNKNOWN,bp,Fundão,1
+UNKNOWN,bp,Oliveira do Hospital,1
+UNKNOWN,bp,Viseu,2
+UNKNOWN,bp,Penha Garcia,1
+UNKNOWN,bp,Oledo - Ribeira São Gens,1
+UNKNOWN,bp,TONDELA,1
+UNKNOWN,bp,Tondela,1
+UNKNOWN,bp,Tarouca,1
+UNKNOWN,bp,Castro Daire,1
+UNKNOWN,bp,São Pedro do Sul,1
+UNKNOWN,bp,Campo de Besteiros,1
+UNKNOWN,bp,Lamego,1
+UNKNOWN,bp,Vouzela,1
+UNKNOWN,bp,Mortágua,1
+UNKNOWN,bp,Resende,1
+UNKNOWN,bp,Resende Centro,1
+UNKNOWN,bp,Vila Nova de Gaia,2
+UNKNOWN,bp,Valadares,2
+UNKNOWN,bp,Vilar de Andorinho,1
+UNKNOWN,bp,Perafita,1
+UNKNOWN,bp,Vilar do Andorinho,1
+UNKNOWN,bp,Arcozelo,1
+UNKNOWN,bp,Perosinho,1
+UNKNOWN,bp,Carvalhos,1
+UNKNOWN,bp,Lavra,1
+UNKNOWN,bp,São Félix da Marinha,1
+UNKNOWN,bp,Espinho,1
+UNKNOWN,bp,PAÇOS DE BRANDÃO,1
+UNKNOWN,bp,Esmoriz,1
+UNKNOWN,bp,Aguada de Baixo,2
+UNKNOWN,bp,Oliveira do Bairro,1
+UNKNOWN,bp,Águeda,2
+UNKNOWN,bp,Valongo do Vouga,1
+UNKNOWN,bp,Albergaria-A-Velha,2
+UNKNOWN,bp,Aveiro,3
+UNKNOWN,bp,Ílhavo,1
+UNKNOWN,bp,Sever do Vouga,1
+UNKNOWN,bp,Estarreja,1
+UNKNOWN,bp,Avanca,2
+UNKNOWN,bp,Oliveira de Azemeis,3
+UNKNOWN,bp,Vale de Cambra,1
+UNKNOWN,bp,Ovar,3
+UNKNOWN,bp,SÃO JOÃO DA MADEIRA,1
+UNKNOWN,bp,Arrifana,2
+UNKNOWN,bp,Arada,1
+UNKNOWN,bp,Santa Maria da Feira,1
+UNKNOWN,bp,Lugar do Cruzeiro,1
+UNKNOWN,bp,Arouca,1
+UNKNOWN,bp,Guisande,1
+UNKNOWN,bp,Almodôvar,1
+UNKNOWN,bp,Ourique,1
+UNKNOWN,bp,Alacaria Ruiva - Mértola,1
+UNKNOWN,bp,São Bartolomeu de Messines,2
+UNKNOWN,bp,Santa Clara-a-Velha,1
+UNKNOWN,bp,Aljustrel,1
+UNKNOWN,bp,Loulé,1
+UNKNOWN,bp,Boliqueime,2
+UNKNOWN,bp,Quarteira,3
+UNKNOWN,bp,"Algoz, Silves",1
+UNKNOWN,bp,QUARTEIRA,2
+UNKNOWN,bp,Almancil,2
+UNKNOWN,bp,Santa Barbara de Nexe,1
+UNKNOWN,bp,Albufeira,1
+UNKNOWN,bp,MONCHIQUE,1
+UNKNOWN,bp,Armação de Pêra,1
+UNKNOWN,bp,Porches,2
+UNKNOWN,bp,Faro,3
+UNKNOWN,bp,Tavira,1
+UNKNOWN,bp,Olhão,1
+UNKNOWN,bp,Beja,3
+UNKNOWN,bp,Marmelete,1
+UNKNOWN,bp,Parchal- Lagoa,1
+UNKNOWN,bp,Portimão,3
+UNKNOWN,bp,Serpa,1
+UNKNOWN,bp,Alvor,2
+UNKNOWN,bp,PORTIMÃO,1
+UNKNOWN,bp,Vila Real de Santo António,2
+UNKNOWN,bp,Cercal do Alentejo,1
+UNKNOWN,bp,"Abela, Cova do Gato",1
+UNKNOWN,bp,Lagos,3
+UNKNOWN,bp,Cuba,1
+UNKNOWN,bp,Vila Meã,1
+UNKNOWN,bp,Lousada - Meinedo,1
+UNKNOWN,bp,Marco de Canaveses,2
+UNKNOWN,bp,Lousada,1
+UNKNOWN,bp,Penafiel,2
+UNKNOWN,bp,LOUSADA,2
+UNKNOWN,bp,São Gonçalo Amarante,1
+UNKNOWN,bp,Lixa,1
+UNKNOWN,bp,Abragão - Penafiel,1
+UNKNOWN,bp,Varziela,1
+UNKNOWN,bp,Paredes,1
+UNKNOWN,bp,IRIVO - PENAFIEL,1
+UNKNOWN,bp,Friande,1
+UNKNOWN,bp,Vizela,1
+UNKNOWN,bp,Vandoma,1
+UNKNOWN,bp,Infias,1
+UNKNOWN,bp,Infias - Vizela,1
+UNKNOWN,bp,Moreira de Conegos,1
+UNKNOWN,bp,Fafe,1
+UNKNOWN,bp,Celorico de Basto,1
+UNKNOWN,bp,Guimarães,2
+UNKNOWN,bp,Cumieira - Fafe,1
+UNKNOWN,bp,GUIMARÃES,1
+UNKNOWN,bp,Pevidém,1
+UNKNOWN,bp,Mondim de Basto,1
+UNKNOWN,bp,Travassós - Fafe,1
+UNKNOWN,bp,Caldas Das Taipas,1
+UNKNOWN,bp,Arco de Baúlhe,1
+UNKNOWN,bp,Póvoa de Lanhoso,2
+UNKNOWN,bp,Lugar do Souto - Correlhã,1
+UNKNOWN,bp,Ponte de Lima,1
+UNKNOWN,bp,Viana do Castelo,3
+UNKNOWN,bp,Balugães,1
+UNKNOWN,bp,Portuzelo,1
+UNKNOWN,bp,PONTE DA BARCA,1
+UNKNOWN,bp,Vila Verde,1
+UNKNOWN,bp,PAREDES DE COURA,1
+UNKNOWN,bp,Arcos de Valdevez,1
+UNKNOWN,bp,Barcelos,4
+UNKNOWN,bp,Ucha,1
+UNKNOWN,bp,Caminha,1
+UNKNOWN,bp,Palmeira,1
+UNKNOWN,bp,Martim,1
+UNKNOWN,bp,Esposende,2
+UNKNOWN,bp,Fão,1
+UNKNOWN,bp,Póvoa Lanhoso,1
+UNKNOWN,bp,PÓVOA VARZIM,1
+UNKNOWN,bp,ARGIVAI,1
+UNKNOWN,bp,SANTIAGO DO CACÉM,2
+UNKNOWN,bp,Sines,1
+UNKNOWN,bp,Melides,1
+UNKNOWN,bp,Santana,1
+UNKNOWN,bp,Sesimbra,1
+UNKNOWN,bp,Amora,1
+UNKNOWN,bp,Vieira do Minho,2
+UNKNOWN,bp,São Pedro do Estoril,1
+UNKNOWN,bp,Carcavelos,1
+UNKNOWN,bp,Estoril,2
+UNKNOWN,bp,Oeiras,2
+UNKNOWN,bp,"S. Domingos de Rana, Cascais",1
+UNKNOWN,bp,Cascais,2
+UNKNOWN,bp,PAÇO DE ARCOS,1
+UNKNOWN,bp,Ponta do Sol,1
+UNKNOWN,bp,Prazeres Calheta,1
+UNKNOWN,bp,Funchal,2
+UNKNOWN,bp,FUNCHAL,4
+UNKNOWN,bp,CANIÇO,1
+UNKNOWN,bp,SANTANA,1
+UNKNOWN,bp,Porto Santo,1
+UNKNOWN,bp,Ponta Delgada,2
+UNKNOWN,bp,PONTA DELGADA,1
+UNKNOWN,bp,Moura,1
+UNKNOWN,bp,Gião,1
+UNKNOWN,burgerking,Lisboa,7
+GRANDELISBOA,burgerking,Lisboa,7
+ALENTEJOCENTRAL,burgerking,Lisboa,2
+UNKNOWN,burgerking,Almada,1
+ALENTEJOCENTRAL,burgerking,Barreiro,1
+UNKNOWN,burgerking,Odivelas,1
+UNKNOWN,burgerking,Algés,1
+GRANDELISBOA,burgerking,Corroios,1
+GRANDELISBOA,burgerking,Barreiro,1
+UNKNOWN,burgerking,Amadora,1
+UNKNOWN,burgerking,Loures,2
+ALENTEJOCENTRAL,burgerking,Amora,1
+UNKNOWN,burgerking,Queluz,1
+GRANDELISBOA,burgerking,Seixal,1
+PENÍNSULADESETÚBAL,burgerking,Samouco,1
+GRANDELISBOA,burgerking,Moita,1
+GRANDELISBOA,burgerking,Cacem,1
+UNKNOWN,burgerking,Oeiras,1
+GRANDELISBOA,burgerking,Agualva-Cacém,1
+ALENTEJOCENTRAL,burgerking,Montijo,1
+ALENTEJOCENTRAL,burgerking,Cacém,1
+UNKNOWN,burgerking,Montijo,1
+ALENTEJOCENTRAL,burgerking,Oeiras,1
+UNKNOWN,burgerking,S. Domingos De Rana,1
+GRANDELISBOA,burgerking,Alcochete,1
+UNKNOWN,burgerking,Quinta Do Conde,1
+GRANDELISBOA,burgerking,Vialonga,1
+UNKNOWN,burgerking,Rio De Mouro,1
+ALGARVE,burgerking,Pinhal Novo,1
+ALENTEJOCENTRAL,burgerking,Cascais,1
+PENÍNSULADESETÚBAL,burgerking,Palmela,1
+ALGARVE,burgerking,Malveira,1
+PENÍNSULADESETÚBAL,burgerking,Sesimbra,1
+UNKNOWN,burgerking,Cascais,1
+ALENTEJOLITORAL,burgerking,Mafra,1
+PENÍNSULADESETÚBAL,burgerking,Setubal,1
+ALENTEJOLITORAL,burgerking,Porto Alto,1
+UNKNOWN,burgerking,Vila Franca De Xira,1
+UNKNOWN,burgerking,Ericeira,1
+GRANDELISBOA,burgerking,Torres Vedras,1
+UNKNOWN,burgerking,Torres Vedras,1
+GRANDEPORTO,burgerking,Lourinha,1
+UNKNOWN,burgerking,Santarém,1
+GRANDELISBOA,burgerking,Rio Maior,1
+UNKNOWN,burgerking,Peniche,1
+UNKNOWN,burgerking,Caldas Da Rainha,1
+GRANDELISBOA,burgerking,Montemor,1
+PENÍNSULADESETÚBAL,burgerking,Sines,1
+UNKNOWN,burgerking,Alcobaça,1
+UNKNOWN,burgerking,Torres Novas,1
+UNKNOWN,burgerking,Nazaré,1
+ALENTEJOCENTRAL,burgerking,Entroncamento,1
+GRANDELISBOA,burgerking,Batalha,1
+ALENTEJOCENTRAL,burgerking,Évora,1
+ALENTEJOLITORAL,burgerking,Fatima,1
+GRANDELISBOA,burgerking,Ourém,1
+GRANDELISBOA,burgerking,M.nha Grande,1
+UNKNOWN,burgerking,Leiria,1
+MÉDIOTEJO,burgerking,Abrantes,1
+GRANDEPORTO,burgerking,Tomar,1
+GRANDELISBOA,burgerking,Leiria,1
+MÉDIOTEJO,burgerking,Leiria,1
+ALGARVE,burgerking,Beja,1
+UNKNOWN,burgerking,Pombal,1
+ALENTEJOCENTRAL,burgerking,Portalegre,1
+UNKNOWN,burgerking,Esperança,1
+BEIRAINTERIORNORTE,burgerking,Coimbra,1
+ALENTEJOCENTRAL,burgerking,Coimbra,1
+UNKNOWN,burgerking,Coimbra,2
+UNKNOWN,burgerking,Portimão,1
+ALENTEJOCENTRAL,burgerking,Lagos,1
+ALGARVE,burgerking,Cruz de Montalvão 6000-050,1
+UNKNOWN,burgerking,Castelo Branco,1
+ALGARVE,burgerking,Lagoa,1
+PINHALLITORAL,burgerking,Alcantarilha,1
+UNKNOWN,burgerking,Guia,1
+GRANDELISBOA,burgerking,Albufeira,1
+UNKNOWN,burgerking,Quarteira,1
+GRANDEPORTO,burgerking,Fundão,1
+UNKNOWN,burgerking,Faro,1
+ALENTEJOCENTRAL,burgerking,Verdemilho,1
+ALGARVE,burgerking,Faro,1
+ALENTEJOCENTRAL,burgerking,Faro,1
+UNKNOWN,burgerking,Aveiro,1
+UNKNOWN,burgerking,Covilhã,1
+GRANDEPORTO,burgerking,Covilhã,1
+ALENTEJOCENTRAL,burgerking,Vila Real De Santo António,1
+GRANDEPORTO,burgerking,Albergaria-A-Velha,1
+AVE,burgerking,Estarreja,1
+UNKNOWN,burgerking,Viseu,1
+PINHALINTERIORN,burgerking,Mangualde,1
+DÃOLAFOES,burgerking,Viseu,1
+BEIRAINTERIORNORTE,burgerking,Oliveira De Azemeis,1
+UNKNOWN,burgerking,Ovar,1
+UNKNOWN,burgerking,São João Da Madeira,1
+AVE,burgerking,Santa Maria Da Feira,1
+GRANDEPORTO,burgerking,Espinho,1
+GRANDEPORTO,burgerking,Lourosa,1
+UNKNOWN,burgerking,Guarda,1
+GRANDEPORTO,burgerking,Ultramar Português,1
+UNKNOWN,burgerking,Vila Nova De Gaia,2
+GRANDELISBOA,burgerking,Vila Nova De Gaia,1
+GRANDEPORTO,burgerking,Vila Nova De Gaia,1
+GRANDEPORTO,burgerking,Porto,5
+ALENTEJOCENTRAL,burgerking,Vila Nova De Gaia,1
+UNKNOWN,burgerking,Rio Tinto,1
+GRANDEPORTO,burgerking,Matosinhos,3
+UNKNOWN,burgerking,Porto,1
+UNKNOWN,burgerking,Matosinhos,4
+GRANDEPORTO,burgerking,Rio Tinto,1
+ALENTEJOCENTRAL,burgerking,Porto,1
+GRANDEPORTO,burgerking,Gondomar,1
+GRANDELISBOA,burgerking,São Mamede Infesta,1
+GRANDEPORTO,burgerking,Gandra,1
+GRANDELISBOA,burgerking,Valongo,1
+UNKNOWN,burgerking,Maia,2
+UNKNOWN,burgerking,Oporto,1
+GRANDEPORTO,burgerking,Alfena,1
+GRANDEPORTO,burgerking,Penafiel,1
+ALENTEJOCENTRAL,burgerking,Paredes,1
+ALENTEJOLITORAL,burgerking,Marco De Canaveses,1
+GRANDEPORTO,burgerking,Lamego,1
+UNKNOWN,burgerking,Vila Do Conde,2
+GRANDEPORTO,burgerking,Lousada,1
+GRANDEPORTO,burgerking,Paços De Ferreira,1
+UNKNOWN,burgerking,Trofa,1
+GRANDEPORTO,burgerking,Santo Tirso,1
+GRANDEPORTO,burgerking,Amarante,1
+UNKNOWN,burgerking,Povoa De Varzim,1
+UNKNOWN,burgerking,Vila Nova Famalicão,1
+GRANDEPORTO,burgerking,Vizela,1
+BAIXOVOUGA,burgerking,Felgueiras,1
+AVE,burgerking,Guimarães,1
+DOURO,burgerking,Vila Real,1
+UNKNOWN,burgerking,Vila Real,1
+BEIRAINTERIORNORTE,burgerking,Guimarães,1
+UNKNOWN,burgerking,Guimarães,1
+UNKNOWN,burgerking,Fafe,1
+UNKNOWN,burgerking,Barcelos,1
+UNKNOWN,burgerking,Braga,2
+GRANDEPORTO,burgerking,Braga (Frossos/Real),1
+UNKNOWN,burgerking,"São Vicente, Braga, Portugal",1
+AVE,burgerking,Braga,1
+GRANDEPORTO,burgerking,Braga,1
+GRANDEPORTO,burgerking,Viana Castelo,1
+GRANDELISBOA,burgerking,Ponte Lima,1
+GRANDEPORTO,burgerking,V. N. Cerveira,1
+TÂMEGA,burgerking,Chaves,1
+UNKNOWN,burgerking,Monção,1
+GRANDELISBOA,burgerking,Bragança,1
+ALENTEJOCENTRAL,burgerking,Bragança,1
+REGAUTDAMADEIRA,burgerking,Santa Cruz,1
+GRANDEPORTO,burgerking,Funchal,1
+UNKNOWN,burgerking,Funchal,1
+FUNCHAL,burgerking,Funchal,1
+UNKNOWN,burger_king_es_pt,Leiria,2
+UNKNOWN,burger_king_es_pt,Leça da Palmeira,1
+UNKNOWN,burger_king_es_pt,Marinha Grande,1
+UNKNOWN,burger_king_es_pt,Batalha,1
+UNKNOWN,burger_king_es_pt,VIALONGA,1
+UNKNOWN,burger_king_es_pt,Fundão,1
+UNKNOWN,burger_king_es_pt,Castelo Branco,2
+UNKNOWN,burger_king_es_pt,Ponte de Lima,1
+UNKNOWN,burger_king_es_pt,Gandra,1
+UNKNOWN,burger_king_es_pt,Albufeira,1
+UNKNOWN,burger_king_es_pt,Valadares,1
+UNKNOWN,burger_king_es_pt,Porto,7
+UNKNOWN,burger_king_es_pt,Pinhal Novo,1
+UNKNOWN,burger_king_es_pt,Corroios,1
+UNKNOWN,burger_king_es_pt,Abrantes,1
+UNKNOWN,burger_king_es_pt,Ourém,1
+UNKNOWN,burger_king_es_pt,Lourosa,1
+UNKNOWN,burger_king_es_pt,LEIRIA,1
+UNKNOWN,burger_king_es_pt,GUIMARÃES,1
+UNKNOWN,burger_king_es_pt,AGUALVA-CACÉM,1
+UNKNOWN,burger_king_es_pt,ALCOBAÇA,1
+UNKNOWN,burger_king_es_pt,ALCANTARILHA,1
+UNKNOWN,burger_king_es_pt,LAGOA,1
+UNKNOWN,burger_king_es_pt,LISBOA,1
+UNKNOWN,burger_king_es_pt,Braga,4
+UNKNOWN,burger_king_es_pt,Gondomar,1
+UNKNOWN,burger_king_es_pt,Peniche,1
+UNKNOWN,burger_king_es_pt,Espinho,1
+UNKNOWN,burger_king_es_pt,Mangualde,1
+UNKNOWN,burger_king_es_pt,Covilhã,2
+UNKNOWN,burger_king_es_pt,Seixal,1
+UNKNOWN,burger_king_es_pt,Vila Nova de Gaia,5
+UNKNOWN,burger_king_es_pt,Lousada,1
+UNKNOWN,burger_king_es_pt,Vila Real de Santo António,1
+UNKNOWN,burger_king_es_pt,Lamego,1
+UNKNOWN,burger_king_es_pt,Funchal,3
+UNKNOWN,burger_king_es_pt,Felgueiras,1
+UNKNOWN,burger_king_es_pt,Guimarães,2
+UNKNOWN,burger_king_es_pt,Nazaré,1
+UNKNOWN,burger_king_es_pt,Entroncamento,1
+UNKNOWN,burger_king_es_pt,Guarda,1
+UNKNOWN,burger_king_es_pt,Barcelos,1
+UNKNOWN,burger_king_es_pt,Trofa,1
+UNKNOWN,burger_king_es_pt,Alcochete,1
+UNKNOWN,burger_king_es_pt,Moita,1
+UNKNOWN,burger_king_es_pt,SINES,1
+UNKNOWN,burger_king_es_pt,Sesimbra,1
+UNKNOWN,burger_king_es_pt,São Mamede Infesta,1
+UNKNOWN,burger_king_es_pt,Tomar,1
+UNKNOWN,burger_king_es_pt,TORRES NOVAS,1
+UNKNOWN,burger_king_es_pt,Queluz,1
+UNKNOWN,burger_king_es_pt,Oliveira de Azemeis,1
+UNKNOWN,burger_king_es_pt,Montemor,1
+UNKNOWN,burger_king_es_pt,RIO MAIOR,1
+UNKNOWN,burger_king_es_pt,Torres Vedras,2
+UNKNOWN,burger_king_es_pt,Madalena do Pico,1
+UNKNOWN,burger_king_es_pt,Montijo,1
+UNKNOWN,burger_king_es_pt,BARREIRO,1
+UNKNOWN,burger_king_es_pt,Lisboa,13
+UNKNOWN,burger_king_es_pt,"São Vicente, Braga, Portugal",1
+UNKNOWN,burger_king_es_pt,PORTO ALTO,1
+UNKNOWN,burger_king_es_pt,Mafra,1
+UNKNOWN,burger_king_es_pt,Amarante,1
+UNKNOWN,burger_king_es_pt,Fatima,1
+UNKNOWN,burger_king_es_pt,Marco de Canaveses,1
+UNKNOWN,burger_king_es_pt,Paços de Ferreira,1
+UNKNOWN,burger_king_es_pt,Valongo,1
+UNKNOWN,burger_king_es_pt,Lourinha,1
+UNKNOWN,burger_king_es_pt,Santa Cruz,1
+UNKNOWN,burger_king_es_pt,Paredes,1
+UNKNOWN,burger_king_es_pt,VILA FRANCA DE XIRA,1
+UNKNOWN,burger_king_es_pt,ERICEIRA,1
+UNKNOWN,burger_king_es_pt,Verdemilho,1
+UNKNOWN,burger_king_es_pt,Oeiras,2
+UNKNOWN,burger_king_es_pt,V. N. Cerveira,1
+UNKNOWN,burger_king_es_pt,Viana Castelo,1
+UNKNOWN,burger_king_es_pt,Faro,2
+UNKNOWN,burger_king_es_pt,Praia da Vitória (Açores),1
+UNKNOWN,burger_king_es_pt,Santa Maria da Feira,1
+UNKNOWN,burger_king_es_pt,Braga (Frossos/Real),1
+UNKNOWN,burger_king_es_pt,Matosinhos,6
+UNKNOWN,burger_king_es_pt,Bragança,2
+UNKNOWN,burger_king_es_pt,Barreiro,1
+UNKNOWN,burger_king_es_pt,Cascais,2
+UNKNOWN,burger_king_es_pt,Coimbra,4
+UNKNOWN,burger_king_es_pt,Algés,1
+UNKNOWN,burger_king_es_pt,Portimão,1
+UNKNOWN,burger_king_es_pt,OPORTO,1
+UNKNOWN,burger_king_es_pt,Santo Tirso,1
+UNKNOWN,burger_king_es_pt,Fafe,1
+UNKNOWN,burger_king_es_pt,Albergaria-a-Velha,1
+UNKNOWN,burger_king_es_pt,Estarreja,1
+UNKNOWN,burger_king_es_pt,Santarém,1
+UNKNOWN,burger_king_es_pt,Malveira,1
+UNKNOWN,burger_king_es_pt,Samouco,1
+UNKNOWN,burger_king_es_pt,Quinta do Conde,1
+UNKNOWN,burger_king_es_pt,VIZELA,1
+UNKNOWN,burger_king_es_pt,Beja,1
+UNKNOWN,burger_king_es_pt,ALFENA,1
+UNKNOWN,burger_king_es_pt,Setubal,1
+UNKNOWN,burger_king_es_pt,Vila Real,2
+UNKNOWN,burger_king_es_pt,Palmela,1
+UNKNOWN,burger_king_es_pt,Lagos,1
+UNKNOWN,burger_king_es_pt,Évora,1
+UNKNOWN,burger_king_es_pt,Chaves,1
+UNKNOWN,burger_king_es_pt,Viseu,2
+UNKNOWN,burger_king_es_pt,Rio Tinto,2
+UNKNOWN,burger_king_es_pt,Penafiel,1
+UNKNOWN,burger_king_es_pt,Portalegre,1
+UNKNOWN,burger_king_es_pt,Cacem,1
+UNKNOWN,burger_king_es_pt,Vila Nova Famalicão,1
+UNKNOWN,burger_king_es_pt,Pombal,1
+UNKNOWN,burger_king_es_pt,Monção,1
+UNKNOWN,burger_king_es_pt,Vila do conde,1
+UNKNOWN,burger_king_es_pt,MAIA,1
+UNKNOWN,burger_king_es_pt,Caldas da Rainha,1
+UNKNOWN,burger_king_es_pt,Cacém,1
+UNKNOWN,burger_king_es_pt,Amora,1
+UNKNOWN,burger_king_es_pt,Angra do Heroismo,1
+UNKNOWN,burger_king_es_pt,Ponta Delgada,3
+UNKNOWN,burger_king_es_pt,Loures,2
+UNKNOWN,burger_king_es_pt,S. Domingos de Rana,1
+UNKNOWN,burger_king_es_pt,Rio de Mouro,1
+UNKNOWN,burger_king_es_pt,Amadora,1
+UNKNOWN,burger_king_es_pt,Maia,1
+UNKNOWN,burger_king_es_pt,Povoa de Varzim,1
+UNKNOWN,burger_king_es_pt,São João da Madeira,1
+UNKNOWN,burger_king_es_pt,Ovar,1
+UNKNOWN,burger_king_es_pt,Aveiro,1
+UNKNOWN,burger_king_es_pt,Montijo - Setubal,1
+UNKNOWN,burger_king_es_pt,Vila do Conde,1
+UNKNOWN,burger_king_es_pt,Odivelas,1
+UNKNOWN,burger_king_es_pt,Almada,1
+UNKNOWN,burger_king_es_pt,Quarteira,1
+UNKNOWN,burger_king_es_pt,Guia,1
+UNKNOWN,calvin_klein,Alcochete,2
+UNKNOWN,calvin_klein,Porto,1
+UNKNOWN,calvin_klein,Loule,1
+UNKNOWN,carhartt_wip,Lisbon,1
+UNKNOWN,church_of_england_gb,unknown,9
+UNKNOWN,claires,Vila-Real,1
+UNKNOWN,claires,Viana do Castelo,1
+UNKNOWN,claires,Montijo,1
+UNKNOWN,claires,Seixal,1
+UNKNOWN,claires,Almada,1
+UNKNOWN,claires,Barreiro,1
+UNKNOWN,claires,So Miguel,1
+UNKNOWN,claires,Vila Nova de Gaia,1
+UNKNOWN,claires,Vila Nova De Gaia,1
+UNKNOWN,claires,Porto,2
+UNKNOWN,claires,Torres Vedras,1
+UNKNOWN,claires,Rio Tinto,1
+UNKNOWN,claires,Paco de Arcos,1
+UNKNOWN,claires,Alcochete,1
+UNKNOWN,claires,Loures,1
+UNKNOWN,claires,Funchal,2
+UNKNOWN,claires,Lisboa,2
+UNKNOWN,claires,Rio De Mouro,1
+UNKNOWN,claires,Matosinhos,2
+UNKNOWN,claires,Amadora,1
+UNKNOWN,claires,Maia,1
+UNKNOWN,claires,Lisbon,1
+UNKNOWN,claires,Tavagueira Guia  Albufeira,1
+UNKNOWN,claires,Coimbra,2
+UNKNOWN,claires,Cascais,1
+UNKNOWN,claires,Carnaxide-Alfragide,1
+UNKNOWN,claires,Almancil,1
+UNKNOWN,claires,Guarda,1
+UNKNOWN,claires,Vila Nova Famalio,1
+UNKNOWN,claires,Aveiro,1
+UNKNOWN,claires,Guimaraes,1
+UNKNOWN,claires,Caldas Da Rainha,1
+UNKNOWN,claires,So Joo da Madeira,1
+UNKNOWN,claires,Faro,1
+UNKNOWN,claires,Braga,1
+PORTO,continente_pt,Amarante,1
+AVEIRO,continente_pt,Espinho,1
+PORTALEGRE,continente_pt,Ponte de Sor,1
+SANTARÉM,continente_pt,Torres Novas,2
+MADEIRA,continente_pt,Funchal,8
+SANTARÉM,continente_pt,Rio Maior,1
+PORTO,continente_pt,Vila Nova de Gaia,7
+AVEIRO,continente_pt,Albergaria-a-Velha,1
+COIMBRA,continente_pt,Coimbra,4
+AVEIRO,continente_pt,Esgueira,1
+PORTO,continente_pt,Massarelos,1
+AVEIRO,continente_pt,Ílhavo,1
+BEJA,continente_pt,Beja,2
+FARO,continente_pt,Portimão,2
+LEIRIA,continente_pt,Alcobaça,1
+PORTO,continente_pt,Pte. da Pedra,1
+LISBOA,continente_pt,Massamá,1
+BRAGA,continente_pt,Póvoa de Lanhoso,1
+PORTO,continente_pt,Ermesinde,2
+SANTARÉM,continente_pt,Santarém,1
+SETÚBAL,continente_pt,Barreiro,2
+SETÚBAL,continente_pt,Charneca de Caparica,1
+AVEIRO,continente_pt,Anadia,1
+LISBOA,continente_pt,Loures,2
+COIMBRA,continente_pt,Lousã,1
+AVEIRO,continente_pt,Vagos,1
+SETÚBAL,continente_pt,Grândola,1
+SETÚBAL,continente_pt,Moita,2
+SETÚBAL,continente_pt,Quinta do Anjo,1
+PORTO,continente_pt,Maia,2
+AVEIRO,continente_pt,Mozelos,1
+VIANADOCASTELO,continente_pt,Vila Praia de Âncora,1
+PORTO,continente_pt,Vale Formoso,1
+SANTARÉM,continente_pt,Almeirim,1
+FARO,continente_pt,Albufeira,1
+PORTO,continente_pt,Trofa,1
+BRAGA,continente_pt,Cabeceiras de Basto,1
+LISBOA,continente_pt,Lisboa,32
+BRAGA,continente_pt,Vizela,1
+LISBOA,continente_pt,Parede,1
+PORTO,continente_pt,Gulpilhares,1
+VILAREAL,continente_pt,Vila Real,1
+FARO,continente_pt,Faro,3
+LISBOA,continente_pt,Odivelas,2
+PORTO,continente_pt,Moreira,1
+SETÚBAL,continente_pt,Laranjeiro,1
+LISBON,continente_pt,Lisboa,4
+VILAREAL,continente_pt,Chaves,2
+LISBOA,continente_pt,Mafra,2
+MADEIRA,continente_pt,Estreito De Câmara,1
+PORTO,continente_pt,Marco de Canaveses,1
+LEIRIA,continente_pt,Leiria,3
+FARO,continente_pt,Olhão,2
+SANTARÉM,continente_pt,Ourém,1
+SETÚBAL,continente_pt,Sines,1
+PORTO,continente_pt,Felgueiras,1
+LEIRIA,continente_pt,Caldas da Rainha,2
+PORTO,continente_pt,Porto,16
+PORTO,continente_pt,Senhora da Hora,1
+ÉVORA,continente_pt,Reguengos de Monsaraz,1
+MADEIRA,continente_pt,Câmara de Lobos,1
+BRAGANÇA,continente_pt,Bragança,1
+SETÚBAL,continente_pt,Alhos Vedros,1
+LISBOA,continente_pt,São Domingos de Rana,1
+BRAGA,continente_pt,Braga,6
+AVEIRO,continente_pt,Ovar,2
+SETÚBAL,continente_pt,Cruz de Pau,1
+SANTARÉM,continente_pt,Samora Correia,1
+LISBOA,continente_pt,Campo Grande,1
+PORTO,continente_pt,Rebordosa,1
+VISEU,continente_pt,Tondela,1
+BRAGANÇA,continente_pt,Macedo de Cavaleiros,1
+SANTARÉM,continente_pt,Fátima,1
+LEIRIA,continente_pt,Nazaré,1
+PORTO,continente_pt,Póvoa de Varzim,1
+LISBOA,continente_pt,São João da Talha,1
+PORTO,continente_pt,São Cosme,1
+BRAGA,continente_pt,Vila Frescainha (São Pedro),1
+GUARDA,continente_pt,Seia,1
+VISEU,continente_pt,Mangualde,1
+PORTO,continente_pt,Avintes,1
+LEIRIA,continente_pt,Pombal,1
+LISBOA,continente_pt,Alcabideche,1
+FARO,continente_pt,Loulé,2
+PORTO,continente_pt,Valongo,1
+BRAGA,continente_pt,Celeirós,1
+AÇORES,continente_pt,Horta,1
+LISBOA,continente_pt,Oeiras,4
+PORTO,continente_pt,Santo Tirso,1
+PORTO,continente_pt,Lavra,1
+AVEIRO,continente_pt,Vale de Cambra,1
+AVEIRO,continente_pt,Aveiro,2
+AVEIRO,continente_pt,Oliveira de Azeméis,1
+SETÚBAL,continente_pt,Sesimbra,1
+LISBOA,continente_pt,Rio de Mouro,1
+CASTELOBRANCO,continente_pt,Fundão,1
+PORTALEGRE,continente_pt,Portalegre,2
+PORTO,continente_pt,Matosinhos,2
+LISBON,continente_pt,Algueirão-Mem Martins,1
+PORTO,continente_pt,Águas Santas,1
+AVEIRO,continente_pt,São João da Madeira,2
+SANTARÉM,continente_pt,Entroncamento,1
+PORTO,continente_pt,São Mamede de Infesta,2
+LISBOA,continente_pt,Benfica,1
+SETÚBAL,continente_pt,Montijo,2
+VISEU,continente_pt,Viseu,1
+VISEU,continente_pt,Castro Daire,1
+PORTO,continente_pt,Rechousa,1
+FARO,continente_pt,Quarteira,1
+LISBOA,continente_pt,Lourel,1
+LISBOA,continente_pt,Alverca do Ribatejo,1
+PORTO,continente_pt,Rio Tinto,1
+PORTO,continente_pt,Vila Cova de Lixa,1
+BRAGA,continente_pt,Fafe,1
+SANTARÉM,continente_pt,Tomar,1
+CASTELOBRANCO,continente_pt,Castelo Branco,2
+SETÚBAL,continente_pt,Pinhal Novo,1
+LEIRIA,continente_pt,Marinha Grande,2
+VIANADOCASTELO,continente_pt,Viana do Castelo,3
+LISBOA,continente_pt,Algueirão-Mem Martins,1
+CASTELOBRANCO,continente_pt,Covilhã,2
+SANTARÉM,continente_pt,Cartaxo,1
+VIANADOCASTELO,continente_pt,Ponte de Lima,1
+LISBOA,continente_pt,Torres Vedras,2
+AÇORES,continente_pt,Praia da Vitória,1
+SETÚBAL,continente_pt,Seixal,1
+LISBOA,continente_pt,Ericeira,1
+AÇORES,continente_pt,Ponta Delgada,2
+MADEIRA,continente_pt,Machico,2
+MADEIRA,continente_pt,Ribeira Brava,1
+SETÚBAL,continente_pt,Santiago do Cacém,1
+LISBOA,continente_pt,Arruda dos Vinhos,1
+LISBOA,continente_pt,São Marcos,1
+AÇORES,continente_pt,Lagoa,1
+LISBOA,continente_pt,Póvoa de Santa Iria,1
+VILAREAL,continente_pt,Peso da Régua,1
+LEIRIA,continente_pt,Bombarral,1
+ÉVORA,continente_pt,Estremoz,1
+MADEIRA,continente_pt,Caniço,1
+AVEIRO,continente_pt,Avanca,1
+PORTO,continente_pt,Carvalhosa,1
+SETÚBAL,continente_pt,Setúbal,2
+ÉVORA,continente_pt,Vendas Novas,1
+COIMBRA,continente_pt,Cantanhede,1
+LISBOA,continente_pt,Queluz,2
+SANTARÉM,continente_pt,Golegã,1
+BRAGA,continente_pt,Guimarães,1
+ÉVORA,continente_pt,Évora,1
+FARO,continente_pt,Tavira,1
+SETÚBAL,continente_pt,Quinta do Conde,2
+VIANADOCASTELO,continente_pt,Pte. da Barca,1
+PORTO,continente_pt,Vila do Conde,1
+MADEIRA,continente_pt,Cancela,1
+PORTO,continente_pt,Lousada,1
+LISBOA,continente_pt,Belas,2
+BRAGA,continente_pt,Esposende,1
+FARO,continente_pt,Silves,1
+AVEIRO,continente_pt,Águeda,1
+LEIRIA,continente_pt,Peniche,1
+LISBOA,continente_pt,Carregado,1
+COIMBRA,continente_pt,Oliveira do Hospital,1
+PORTO,continente_pt,Areosa,1
+FARO,continente_pt,Lagos,2
+SANTARÉM,continente_pt,Abrantes,1
+LISBOA,continente_pt,Montelavar,1
+LISBOA,continente_pt,Algés,1
+VISEU,continente_pt,Lamego,1
+AVEIRO,continente_pt,Santa Maria da Feira,1
+PORTO,continente_pt,Paços de Ferreira,1
+SETÚBAL,continente_pt,Alcochete,1
+PORTO,continente_pt,Paredes,1
+AÇORES,continente_pt,São Bento,1
+PORTO,continente_pt,Leça do Balio,1
+VISEU,continente_pt,Abraveses,1
+AÇORES,continente_pt,Fajã de Baixo,1
+LISBOA,continente_pt,Amadora,2
+SANTARÉM,continente_pt,Salvaterra de Magos,1
+SETÚBAL,continente_pt,Palmela,1
+PORTO,continente_pt,Milhundos,1
+GUARDA,continente_pt,Guarda,2
+FARO,continente_pt,Guia,1
+PORTALEGRE,continente_pt,Elvas,1
+BRAGA,continente_pt,Caldelas,1
+BEJA,continente_pt,Moura,1
+AVEIRO,continente_pt,Santa Maria de Lamas,1
+PORTO,continente_pt,Santa Cruz do Bispo,1
+LISBOA,continente_pt,Carnaxide,2
+AVEIRO,continente_pt,Fiães,1
+VIANADOCASTELO,continente_pt,Valença,1
+LISBOA,continente_pt,Alfornelos,1
+PORTO,continente_pt,Alpendurada,1
+COIMBRA,continente_pt,Figueira da Foz,2
+VIANADOCASTELO,continente_pt,Darque,1
+SETÚBAL,continente_pt,Santo André,1
+SETÚBAL,continente_pt,Caparica,1
+FARO,continente_pt,Vila Real de Santo António,2
+AÇORES,continente_pt,Capelas,1
+AÇORES,continente_pt,Arrifes,1
+SETÚBAL,continente_pt,Almada,1
+PORTO,continente_pt,Pedroso,1
+LISBOA,continente_pt,Sobral de Monte Agraço,1
+AVEIRO,continente_pt,Esmoriz,1
+LEIRIA,continente_pt,Calvaria de Cima,1
+VISEU,continente_pt,Santa Comba Dão,1
+PORTO,continente_pt,Grijó,1
+LEIRIA,continente_pt,Óbidos,1
+FARO,continente_pt,Armação de Pêra,1
+BRAGANÇA,continente_pt,Mirandela,1
+VIANADOCASTELO,continente_pt,Vila Nova de Cerveira,1
+AVEIRO,continente_pt,Estarreja,1
+AVEIRO,continente_pt,Canedo,1
+SANTARÉM,continente_pt,Alpiarça,1
+PORTO,continente_pt,Baguim do Monte,1
+AÇORES,continente_pt,Madalena,1
+SETÚBAL,continente_pt,Sobreda,1
+LISBOA,continente_pt,Portela,1
+ÉVORA,continente_pt,Montemor-o-Novo,1
+CASTELOBRANCO,continente_pt,Sertã,1
+BRAGA,continente_pt,Vila Verde,1
+BRAGA,continente_pt,Barcelos,1
+FARO,continente_pt,São Brás de Alportel,1
+PORTO,continente_pt,Penafiel,1
+PORTO,continente_pt,Vila Chã,1
+GUARDA,continente_pt,Gouveia,1
+LISBOA,continente_pt,Carcavelos,1
+FARODISTRICT,continente_pt,Alcantarilha,1
+AÇORES,continente_pt,Vila do Porto,1
+COIMBRA,continente_pt,Condeixa-a-Nova,1
+AVEIRO,continente_pt,Oiã,1
+PORTO,continente_pt,Gandra,1
+LISBOA,continente_pt,Vialonga,1
+LISBOA,continente_pt,Estoril,1
+PAREDES,continente_pt,Paredes,1
+CORUCHE,continente_pt,Coruche,1
+LISBOA,continente_pt,Gafanha da Nazaré,1
+ALCÁCERDOSAL,continente_pt,Alcácer do Sal,1
+VILAPOUCADEAGUIAR,continente_pt,Vila Pouca de Aguiar,1
+OLIVEIRADEAZEMÉIS,continente_pt,Oliveira de Azeméis,1
+ARGANIL,continente_pt,Arganil,1
+OLIVEIRADEFRADES,continente_pt,Oliveira de Frades,1
+ALCANENA,continente_pt,Alcanena,1
+POUSADADESARAMAGOS,continente_pt,Vila Nova de Famalicão,1
+SÃOPEDRODACOVA,continente_pt,São Pedro da Cova,1
+SJORGEDESELHO,continente_pt,Guimarães,1
+LEÇADAPALMEIRA,continente_pt,Leça da Palmeira,1
+DELÃES,continente_pt,Vila Nova de Famalicão,1
+UNKNOWN,c_and_a,Viseu,1
+UNKNOWN,c_and_a,Vila Nova de Gaia,1
+UNKNOWN,c_and_a,Vila Nova de Famalicao,1
+UNKNOWN,c_and_a,Viana do Castelo,1
+UNKNOWN,c_and_a,Tavira,1
+UNKNOWN,c_and_a,Seixal,1
+UNKNOWN,c_and_a,Santarem,1
+UNKNOWN,c_and_a,San Joao de Madeira,1
+UNKNOWN,c_and_a,S. Pedro - Faro,1
+UNKNOWN,c_and_a,Porto,1
+UNKNOWN,c_and_a,Portimao,1
+UNKNOWN,c_and_a,Odivelas,1
+UNKNOWN,c_and_a,Montijo,1
+UNKNOWN,c_and_a,Massama,1
+UNKNOWN,c_and_a,Loures/Portugal,1
+UNKNOWN,c_and_a,Lisboa,2
+UNKNOWN,c_and_a,Leiria,1
+UNKNOWN,c_and_a,Guimaraes,1
+UNKNOWN,c_and_a,Guia/Albufeira,1
+UNKNOWN,c_and_a,Funchal Madeira,1
+UNKNOWN,c_and_a,Coimbra,1
+UNKNOWN,c_and_a,Braga,1
+UNKNOWN,c_and_a,Aveiro,1
+UNKNOWN,c_and_a,Almada,1
+UNKNOWN,c_and_a,Alcabideche (Lisboa),1
+UNKNOWN,c_and_a,Aguas Santas/Maia,1
+UNKNOWN,decathlon_pt,Amadora,1
+UNKNOWN,decathlon_pt,Loures,1
+UNKNOWN,decathlon_pt,Montijo,1
+UNKNOWN,decathlon_pt,Aveiro,1
+UNKNOWN,decathlon_pt,Almada,1
+UNKNOWN,decathlon_pt,Maia,1
+UNKNOWN,decathlon_pt,Sintra,1
+UNKNOWN,decathlon_pt,Portimão,1
+UNKNOWN,decathlon_pt,Guarda,1
+UNKNOWN,decathlon_pt,Braga,1
+UNKNOWN,decathlon_pt,Alcabideche,1
+UNKNOWN,decathlon_pt,Castelo Branco,1
+UNKNOWN,decathlon_pt,Torres Vedras,1
+UNKNOWN,decathlon_pt,Santarém,1
+UNKNOWN,decathlon_pt,Matosinhos,1
+UNKNOWN,decathlon_pt,Guimarães,1
+UNKNOWN,decathlon_pt,Barreiro,1
+UNKNOWN,decathlon_pt,Ponta Delgada,1
+UNKNOWN,decathlon_pt,Viseu,1
+UNKNOWN,decathlon_pt,Faro,1
+UNKNOWN,decathlon_pt,Leiria,1
+UNKNOWN,decathlon_pt,Setúbal,1
+UNKNOWN,decathlon_pt,Vila Real,1
+UNKNOWN,decathlon_pt,Lisboa,2
+UNKNOWN,decathlon_pt,Vila Nova de Gaia,1
+UNKNOWN,decathlon_pt,Alcobaça,1
+UNKNOWN,decathlon_pt,Évora,1
+UNKNOWN,decathlon_pt,Penafiel,1
+UNKNOWN,decathlon_pt,Sesimbra,1
+UNKNOWN,decathlon_pt,Coimbra,1
+UNKNOWN,decathlon_pt,Funchal,2
+UNKNOWN,decathlon_pt,Vila Nova de Famalicão,1
+UNKNOWN,decathlon_pt,Quarteira,1
+UNKNOWN,decathlon_pt,Porto,1
+UNKNOWN,decathlon_pt,Chaves,1
+UNKNOWN,decathlon_pt,Ovar,1
+UNKNOWN,decathlon_pt,Tróia,1
+UNKNOWN,decathlon_pt,Albufeira,1
+UNKNOWN,decathlon_pt,Cascais,1
+UNKNOWN,deichmann,Montijo,1
+UNKNOWN,deichmann,Barreiro,1
+UNKNOWN,deichmann,Almada,1
+UNKNOWN,deichmann,Sintra,1
+UNKNOWN,deichmann,Loures,1
+UNKNOWN,deichmann,Amadora,1
+UNKNOWN,deichmann,Portimão,1
+UNKNOWN,deichmann,Almancil,1
+UNKNOWN,deichmann,Guimaraes,1
+UNKNOWN,deloitte,Faro,1
+UNKNOWN,deloitte,Coimbra,1
+UNKNOWN,deloitte,Viseu,1
+UNKNOWN,deloitte,Lisbon,3
+UNKNOWN,deloitte,Oporto,2
+UNKNOWN,ecco,LISBOA,1
+UNKNOWN,ecco,Guia,1
+UNKNOWN,ecco,Lisboa,2
+UNKNOWN,ecco,Braga,1
+UNKNOWN,ecco,Oeiras,1
+UNKNOWN,ecco,Almancil,1
+UNKNOWN,ecco,Lisbon,1
+UNKNOWN,ecco,Matosinhos,1
+UNKNOWN,ecco,Vila Nova da Gaia,1
+UNKNOWN,ecco,Sra. Da Hora,1
+UNKNOWN,ecco,Porto,1
+UNKNOWN,ecco,Alcabideche,1
+UNKNOWN,ecco,Alcochete,1
+UNKNOWN,ecco,São João de Ver,1
+UNKNOWN,enterprise,Lisboa,1
+UNKNOWN,enterprise,Faro,1
+UNKNOWN,enterprise,Santa Cruz,1
+UNKNOWN,enterprise,Porto,2
+UNKNOWN,enterprise,Cascais,1
+UNKNOWN,enterprise,Lisbon,2
+UNKNOWN,enterprise,Coimbra,1
+UNKNOWN,enterprise,Perafita,1
+UNKNOWN,enterprise,Amadora,1
+UNKNOWN,enterprise,Braga,1
+UNKNOWN,enterprise,Almada,1
+UNKNOWN,enterprise,Funchal,1
+UNKNOWN,enterprise,Castelo Branco,1
+UNKNOWN,enterprise,Viseu,1
+UNKNOWN,enterprise,Aveiro,1
+UNKNOWN,enterprise,Vila Nova De Gaia,1
+UNKNOWN,enterprise,Leiria,1
+UNKNOWN,enterprise,Setubal,1
+UNKNOWN,enterprise,Portimao,1
+UNKNOWN,enterprise,Ponta Delgada,1
+UNKNOWN,ernst_young,Lisbon,2
+UNKNOWN,ernst_young,Porto,1
+UNKNOWN,esprit,San Miguel(Portugal),1
+VIANADOCASTELO,fedex,Salvaterra De Mino,1
+PT14,footlocker,Montijo,1
+PT13,footlocker,Vila Nova De Gaia,1
+PT14,footlocker,Almada,1
+PT13,footlocker,Rio Tinto,1
+PT11,footlocker,Sintra,1
+PT11,footlocker,Lisboa,4
+PT13,footlocker,Porto,1
+PT13,footlocker,Matosinhos,1
+PT11,footlocker,Amadora,1
+PT08,footlocker,Portimao,1
+NY,footlocker,New York,15
+UNKNOWN,ford,BRAGA,1
+UNKNOWN,ford,VIANA DO CASTELO,1
+UNKNOWN,ford,MONCAO,1
+UNKNOWN,ford,ESPOSENDE,1
+UNKNOWN,ford,PACOS DE FERREIRA,1
+UNKNOWN,ford,VISEU,1
+UNKNOWN,ford,LEIRIA,1
+UNKNOWN,ford,CALDAS DA RAINHA,1
+UNKNOWN,ford,POMBAL,1
+UNKNOWN,ford,SANTAREM,1
+UNKNOWN,ford,CARRIÇO - POMBAL,1
+UNKNOWN,ford,MAIORGA-ALCOBACA,1
+UNKNOWN,ford,GUIMARAES,1
+UNKNOWN,ford,VILA NOVA DE FAMALICAO,1
+UNKNOWN,ford,FAFE,1
+UNKNOWN,ford,AREOSA-RIO TINTO,1
+UNKNOWN,ford,PAREDES,1
+UNKNOWN,ford,VILA REAL,1
+UNKNOWN,ford,BRAGANÇA,1
+UNKNOWN,ford,AMARANTE,1
+UNKNOWN,ford,MARCO DE CANAVESES,2
+UNKNOWN,ford,SEVER DO VOUGA,1
+UNKNOWN,ford,Gafanha da Encarnação,1
+UNKNOWN,ford,REGUA,1
+UNKNOWN,ford,AVEIRO,1
+UNKNOWN,ford,OLIVEIRA DE AZEMÉIS,1
+UNKNOWN,ford,MAIA,1
+UNKNOWN,ford,PORTO,1
+UNKNOWN,ford,PERAFITA,1
+UNKNOWN,ford,ALCABIDECHE,1
+UNKNOWN,ford,CARNAXIDE,1
+UNKNOWN,ford,SINTRA,1
+UNKNOWN,ford,VILA NOVA DE GAIA,1
+UNKNOWN,ford,OVAR,1
+UNKNOWN,ford,ESPINHO,1
+UNKNOWN,ford,RIO TINTO,1
+UNKNOWN,ford,CAMARATE,1
+UNKNOWN,ford,COIMBRA,1
+UNKNOWN,ford,SACAVEM,1
+UNKNOWN,ford,LOURES,1
+UNKNOWN,ford,CARREGADO,1
+UNKNOWN,ford,LISBOA,1
+UNKNOWN,ford,FEIJÓ,1
+UNKNOWN,ford,MIRAVENTOS,1
+UNKNOWN,ford,EVORA,1
+UNKNOWN,ford,unknown,1
+UNKNOWN,ford,Beja,1
+UNKNOWN,ford,Pontes de Marchil,1
+UNKNOWN,ford,PORTIMAO,1
+UNKNOWN,ford,FUNCHAL,1
+UNKNOWN,ford,PONTA DELGADA,1
+UNKNOWN,gant,Lisboa,2
+UNKNOWN,gant,Braga,1
+UNKNOWN,gant,Alcabideche,1
+UNKNOWN,gant,Faro,1
+UNKNOWN,gant,Matosinhos,1
+UNKNOWN,gant,Oeiras,1
+UNKNOWN,gant,Almancil,1
+UNKNOWN,gant,Alcochete,1
+UNKNOWN,gant,Modivas,1
+UNKNOWN,gbfs,unknown,142
+UNKNOWN,geox,ALCOCHETE OUTLET,1
+UNKNOWN,geox,BRAGA,1
+UNKNOWN,geox,COIMBRA,1
+UNKNOWN,geox,DESIGNER OUTLET ALGARVE,1
+UNKNOWN,geox,FARO,1
+UNKNOWN,geox,LISBOA,4
+UNKNOWN,geox,MADEIRA,1
+UNKNOWN,geox,OEIRAS,1
+UNKNOWN,geox,PORTO,1
+UNKNOWN,geox,PORTO AEROPORTO,1
+LISBON,google_offices,Lisbon,1
+UNKNOWN,hardrock,Lisbon,1
+UNKNOWN,hardrock,Porto,1
+UNKNOWN,hilton,unknown,2
+LISBOA,hm,Lisbon,5
+MONTIJO,hm,Montijo,1
+PORTO,hm,Porto,4
+COIMBRA,hm,Coimbra,1
+LOURES,hm,Lisbon,1
+VALEDEMOURELOSALMADA,hm,Almada,1
+MATOSINHOS,hm,Porto,1
+SINTRA,hm,Sintra,1
+VISEU,hm,Viseu,1
+BRAGA,hm,Braga,2
+UNKNOWN,hm,Guimaraes,1
+LEIRIA,hm,Leiria,1
+ALGARVE,hm,Portimao,1
+MADEIRA,hm,Fuchal,2
+ALGARVE,hm,Albufeira,1
+CASTELOBRANCO,hm,Castelo Branco,1
+AVEIRO,hm,Aveiro,1
+SETÚBAL,hm,Setubal,1
+ALGARVE,hm,Loulé,1
+10,hugo_boss,Braga,1
+13,hugo_boss,Porto,4
+13,hugo_boss,Senhora da Hora,1
+13,hugo_boss,Vilanova de Gaia(Oporto),1
+20,hugo_boss,Aveiro,1
+31,hugo_boss,Lisboa,9
+20,hugo_boss,Lisboa,1
+31,hugo_boss,Alcabideche,1
+13,hugo_boss,Vila Nova de Gaia,1
+31,hugo_boss,Oeiras,1
+31,hugo_boss,Cascais,1
+50,hugo_boss,Almancil,1
+31,hugo_boss,Vilamoura-Quarteira,1
+31,hugo_boss,Almancil,1
+AZORES,ich_tanke_strom,unknown,43
+AZORES,ich_tanke_strom,Santa Cruz da Graciosa,5
+AZORES,ich_tanke_strom,Praia da Vitoria,1
+UNKNOWN,ikea,"Amadora, Lisboa",1
+UNKNOWN,ikea,Braga,1
+UNKNOWN,ikea,Almancil,1
+UNKNOWN,ikea,"Frielas, Loures, Lisboa",1
+UNKNOWN,ikea,Matosinhos,1
+LEIRIA,ionity,Leiria,2
+EVORA,ionity,Estremoz,2
+BEJA,ionity,Almodovar,1
+GUARDA,ionity,unknown,2
+BEJA,ionity,Ourique,1
+BRAGA,ionity,Barcelos,2
+AVEIRO,ionity,Albergaria-A-Velha,1
+PORTO,jardiland_es_pt,unknown,1
+UNKNOWN,jardiland_fr,Maia,1
+EMEA,jll,Portugal,1
+PORTUGAL,jll,Lisbon,2
+PORTUGAL,jll,Porto,1
+UNKNOWN,jysk,Alverca do Ribatejo,1
+UNKNOWN,jysk,Olhão,1
+UNKNOWN,jysk,Moreira,1
+UNKNOWN,jysk,"Paio Pires, Seixal",1
+UNKNOWN,jysk,Lisboa,1
+UNKNOWN,jysk,Odiáxere,1
+UNKNOWN,jysk,Aveiro,1
+UNKNOWN,jysk,Guarda,1
+UNKNOWN,jysk,Guimarães,1
+UNKNOWN,jysk,Matosinhos,1
+UNKNOWN,jysk,Estoril,1
+UNKNOWN,jysk,Barcelos,1
+UNKNOWN,jysk,Albufeira,1
+UNKNOWN,jysk,"Nova Arcada, Braga",1
+UNKNOWN,jysk,Viseu,1
+UNKNOWN,jysk,Leiria,1
+UNKNOWN,jysk,Portimão,1
+UNKNOWN,jysk,Vila Nova de Gaia,1
+UNKNOWN,jysk,Vila Nova de Famalicão,1
+UNKNOWN,jysk,Coimbra,1
+UNKNOWN,jysk,Coina,1
+UNKNOWN,jysk,"Retail Center, Braga",1
+UNKNOWN,jysk,Santarém,1
+UNKNOWN,jysk,Torres Novas,1
+UNKNOWN,jysk,"Alhos Vedros,",1
+UNKNOWN,jysk,Tavira,1
+UNKNOWN,kik,Faro,1
+UNKNOWN,kik,Setubal,1
+UNKNOWN,kik,Paio Pires,1
+UNKNOWN,kik,Lisboa,1
+UNKNOWN,kik,Abrantes,1
+UNKNOWN,kik,Tomar,1
+UNKNOWN,kik,Viseu,1
+UNKNOWN,kik,Espinho,1
+UNKNOWN,kik,Pedroso,1
+UNKNOWN,kik,Carvalhosa,1
+UNKNOWN,kik,Maia,1
+UNKNOWN,kik,Guimaraes,1
+UNKNOWN,kik,Chaves,1
+BRAGA,kiwoko,Viana do Castelo,1
+PORTO,kiwoko,SANTA CRUZ DO BISPO,1
+PORTO,kiwoko,MATOSINHOS,1
+PORTUGAL,kiwoko,Braga,1
+UNKNOWN,leonidas,Lisboa,8
+UNKNOWN,leonidas,Braga,1
+UNKNOWN,leonidas,Guarda,1
+UNKNOWN,leonidas,Espinho,1
+UNKNOWN,leonidas,Viseu,1
+UNKNOWN,leonidas,Aveiro,1
+UNKNOWN,leonidas,Coimbra,1
+UNKNOWN,leonidas,Etubal,1
+UNKNOWN,leonidas,Maia,1
+UNKNOWN,leonidas,Santarem,1
+UNKNOWN,leonidas,TORRES VEDRAS,1
+UNKNOWN,leonidas,LEIRIA,1
+UNKNOWN,leonidas,FARO,1
+UNKNOWN,leonidas,seixal,1
+UNKNOWN,leonidas,Loulé,1
+UNKNOWN,leonidas,LISBOA,1
+UNKNOWN,leonidas,PORTO,1
+UNKNOWN,leonidas,FAFÉ,1
+UNKNOWN,lhw,Funchal,2
+UNKNOWN,lhw,Almancil,1
+UNKNOWN,lhw,Lisbon,4
+UNKNOWN,lhw,Porches,1
+UNKNOWN,lhw,Cascais,1
+UNKNOWN,lhw,Vidago,1
+UNKNOWN,lhw,Porto,3
+UNKNOWN,lhw,Monsaraz,1
+UNKNOWN,lidl_pt,Leiria,3
+UNKNOWN,lidl_pt,Amadora,3
+UNKNOWN,lidl_pt,Valongo,3
+UNKNOWN,lidl_pt,Vila do Conde,2
+UNKNOWN,lidl_pt,Guimarães,4
+UNKNOWN,lidl_pt,Moita,1
+UNKNOWN,lidl_pt,Benavente,1
+UNKNOWN,lidl_pt,V. N. Famalicão,1
+UNKNOWN,lidl_pt,Viseu,3
+UNKNOWN,lidl_pt,Oeiras,4
+UNKNOWN,lidl_pt,Oliveira do Hospital,1
+UNKNOWN,lidl_pt,Ovar,1
+UNKNOWN,lidl_pt,Montijo,2
+UNKNOWN,lidl_pt,Porto,7
+UNKNOWN,lidl_pt,Almada,4
+UNKNOWN,lidl_pt,Vale de Cambra,1
+UNKNOWN,lidl_pt,Castro Verde,1
+UNKNOWN,lidl_pt,Faro,3
+UNKNOWN,lidl_pt,Loulé,4
+UNKNOWN,lidl_pt,Sintra,11
+UNKNOWN,lidl_pt,Torres Novas,1
+UNKNOWN,lidl_pt,Abrantes,1
+UNKNOWN,lidl_pt,Marinha Grande,1
+UNKNOWN,lidl_pt,Castelo Branco,2
+UNKNOWN,lidl_pt,Torres Vedras,1
+UNKNOWN,lidl_pt,Loures,6
+UNKNOWN,lidl_pt,Odivelas,3
+UNKNOWN,lidl_pt,Alcobaça,2
+UNKNOWN,lidl_pt,Peniche,1
+UNKNOWN,lidl_pt,Rio Maior,1
+UNKNOWN,lidl_pt,Caneças,1
+UNKNOWN,lidl_pt,Vila Franca de Xira,4
+UNKNOWN,lidl_pt,Portalegre,1
+UNKNOWN,lidl_pt,Lisboa,12
+UNKNOWN,lidl_pt,Lissabon,3
+UNKNOWN,lidl_pt,Cascais,7
+UNKNOWN,lidl_pt,Salvaterra de Magos,1
+UNKNOWN,lidl_pt,Ponte de Sor,1
+UNKNOWN,lidl_pt,Santarém,1
+UNKNOWN,lidl_pt,Coruche,1
+UNKNOWN,lidl_pt,Bombarral,1
+UNKNOWN,lidl_pt,Caldas da Rainha,2
+UNKNOWN,lidl_pt,Mafra,2
+UNKNOWN,lidl_pt,Arruda dos Vinhos,1
+UNKNOWN,lidl_pt,Gondomar,4
+UNKNOWN,lidl_pt,Matosinhos,5
+UNKNOWN,lidl_pt,Santo Tirso,2
+UNKNOWN,lidl_pt,Oliveira de Azeméis,1
+UNKNOWN,lidl_pt,Pombal,1
+UNKNOWN,lidl_pt,Águeda,1
+UNKNOWN,lidl_pt,Vila Nova de Gaia,9
+UNKNOWN,lidl_pt,Paredes,1
+UNKNOWN,lidl_pt,Maia,4
+UNKNOWN,lidl_pt,Santa Maria da Feira,2
+UNKNOWN,lidl_pt,Figueira da Foz,2
+UNKNOWN,lidl_pt,Guarda,1
+UNKNOWN,lidl_pt,Vila Nova de Famalicão,3
+UNKNOWN,lidl_pt,Mangualde,1
+UNKNOWN,lidl_pt,Tondela,1
+UNKNOWN,lidl_pt,Bragança,1
+UNKNOWN,lidl_pt,Coimbra,2
+UNKNOWN,lidl_pt,Paços de Ferreira,1
+UNKNOWN,lidl_pt,Valença,1
+UNKNOWN,lidl_pt,Esposende,1
+UNKNOWN,lidl_pt,Fafe,1
+UNKNOWN,lidl_pt,Lamego,1
+UNKNOWN,lidl_pt,Aveiro,2
+UNKNOWN,lidl_pt,Anadia,1
+UNKNOWN,lidl_pt,Lousada,1
+UNKNOWN,lidl_pt,Condeixa-a-Nova,1
+UNKNOWN,lidl_pt,Penafiel,1
+UNKNOWN,lidl_pt,Sever do Vouga,1
+UNKNOWN,lidl_pt,Póvoa de Lanhoso,1
+UNKNOWN,lidl_pt,Mirandela,1
+UNKNOWN,lidl_pt,Castelo de Paiva,1
+UNKNOWN,lidl_pt,Barcelos,2
+UNKNOWN,lidl_pt,São Pedro do Sul,1
+UNKNOWN,lidl_pt,Macedo de Cavaleiros,1
+UNKNOWN,lidl_pt,Mealhada,1
+UNKNOWN,lidl_pt,Ponte de Lima,1
+UNKNOWN,lidl_pt,Vieira do Minho,1
+UNKNOWN,lidl_pt,Vizela,1
+UNKNOWN,lidl_pt,Chaves,1
+UNKNOWN,lidl_pt,Évora,1
+UNKNOWN,lidl_pt,Elvas,1
+UNKNOWN,lidl_pt,Palmela,2
+UNKNOWN,lidl_pt,Seixal,7
+UNKNOWN,lidl_pt,Beja,1
+UNKNOWN,lidl_pt,Portimão,1
+UNKNOWN,lidl_pt,Sesimbra,2
+UNKNOWN,lidl_pt,Olhão,1
+UNKNOWN,lidl_pt,Tavira,1
+UNKNOWN,lidl_pt,Setúbal,4
+UNKNOWN,lidl_pt,Vila Real de Santo António,1
+UNKNOWN,lidl_pt,Odemira,1
+UNKNOWN,lidl_pt,Montemor-o-Novo,1
+UNKNOWN,lidl_pt,Alcochete,1
+UNKNOWN,lidl_pt,Lagos,1
+UNKNOWN,lidl_pt,Alcácer do Sal,1
+UNKNOWN,lidl_pt,Albufeira,1
+UNKNOWN,lidl_pt,São Brás de Alportel,1
+UNKNOWN,lidl_pt,Sines,1
+UNKNOWN,lidl_pt,Vendas Novas,1
+UNKNOWN,lidl_pt,Vila Viçosa,1
+UNKNOWN,lidl_pt,Reguengos de Monsaraz,1
+UNKNOWN,lidl_pt,Grândola,1
+UNKNOWN,lidl_pt,Santiago do Cacém,1
+UNKNOWN,lidl_pt,Vila do Bispo,1
+UNKNOWN,lidl_pt,Montemor-o-Velho,1
+UNKNOWN,lidl_pt,Miranda do Corvo,1
+UNKNOWN,lidl_pt,Tábua,1
+UNKNOWN,lidl_pt,Alcanena,1
+UNKNOWN,lidl_pt,Santa Comba Dão,1
+UNKNOWN,lidl_pt,Gouveia,1
+UNKNOWN,lidl_pt,Nelas,1
+UNKNOWN,lidl_pt,Oliveira do Bairro,1
+UNKNOWN,lidl_pt,Ourém,1
+UNKNOWN,lidl_pt,Penacova,1
+UNKNOWN,lidl_pt,Nazaré,1
+UNKNOWN,lidl_pt,Entroncamento,1
+UNKNOWN,lidl_pt,Felgueiras,2
+UNKNOWN,lidl_pt,São João da Madeira,1
+UNKNOWN,lidl_pt,Braga,3
+UNKNOWN,lidl_pt,Peso da Régua,1
+UNKNOWN,lidl_pt,Soure,1
+UNKNOWN,lidl_pt,Fundão,1
+UNKNOWN,lidl_pt,Batalha,1
+UNKNOWN,lidl_pt,Vidigueira,1
+UNKNOWN,lidl_pt,Alenquer,1
+UNKNOWN,lidl_pt,Póvoa de Varzim,1
+UNKNOWN,lidl_pt,Estremoz,1
+UNKNOWN,lidl_pt,Cantanhede,1
+UNKNOWN,lidl_pt,Barreiro,3
+UNKNOWN,lidl_pt,Silves,1
+UNKNOWN,lidl_pt,Espinho,1
+UNKNOWN,lidl_pt,Viana do Castelo,1
+UNKNOWN,lidl_pt,Estarreja,1
+UNKNOWN,lidl_pt,Vila Verde,1
+UNKNOWN,lidl_pt,Lourosa,1
+UNKNOWN,lidl_pt,Monção,1
+UNKNOWN,lidl_pt,Lagoa,1
+UNKNOWN,lidl_pt,Tomar,1
+UNKNOWN,lidl_pt,Covilhã,1
+UNKNOWN,lidl_pt,Vagos,1
+UNKNOWN,lidl_pt,"Darque, Viana do Castelo",1
+UNKNOWN,lidl_pt,Vila Real,1
+UNKNOWN,lidl_pt,Lousã,1
+UNKNOWN,lidl_pt,Lourinhã,1
+UNKNOWN,lidl_pt,Almeirim,1
+UNKNOWN,lidl_pt,Seia,1
+UNKNOWN,lidl_pt,Amarante,1
+UNKNOWN,lidl_pt,Arganil,1
+UNKNOWN,lidl_pt,Serpa,1
+UNKNOWN,lidl_pt,Armação de Pêra,1
+UNKNOWN,lidl_pt,Cartaxo,1
+UNKNOWN,lidl_pt,Marco de Canaveses,1
+UNKNOWN,longchamp,VILA NOVA DE GAIA,1
+UNKNOWN,longchamp,MODIVAS,1
+UNKNOWN,longchamp,PORTO,1
+UNKNOWN,longchamp,LISBOA,5
+UNKNOWN,longchamp,ALCOCHETE,1
+UNKNOWN,longchamp,SINTRA,1
+UNKNOWN,man_truck_and_bus,Perafita,1
+UNKNOWN,man_truck_and_bus,Loulé,1
+UNKNOWN,man_truck_and_bus,Arrifes,1
+UNKNOWN,man_truck_and_bus,Turquel,1
+UNKNOWN,man_truck_and_bus,Alverca do Ribatejo,2
+UNKNOWN,man_truck_and_bus,Braga,1
+UNKNOWN,man_truck_and_bus,Lagos,1
+UNKNOWN,man_truck_and_bus,Cascais,1
+UNKNOWN,man_truck_and_bus,Azores,1
+UNKNOWN,man_truck_and_bus,Vila do Conde,1
+UNKNOWN,man_truck_and_bus,Louirinha,1
+UNKNOWN,man_truck_and_bus,Mirandela,1
+UNKNOWN,man_truck_and_bus,Caniço,1
+UNKNOWN,man_truck_and_bus,Vilamoura,1
+UNKNOWN,man_truck_and_bus,Caniço (Madeira),1
+UNKNOWN,man_truck_and_bus,Montijo,1
+UNKNOWN,man_truck_and_bus,Aveiro - Oiã,1
+UNKNOWN,man_truck_and_bus,Mangualde,1
+UNKNOWN,marriott,Porto,3
+UNKNOWN,marriott,Ericeira,1
+UNKNOWN,marriott,Lisbon,4
+UNKNOWN,marriott,Monforte,1
+UNKNOWN,marriott,Matosinhos,1
+UNKNOWN,marriott,Sesimbra,1
+UNKNOWN,marriott,Obidos,1
+UNKNOWN,marriott,Lisboa,1
+UNKNOWN,marriott,Sintra,1
+UNKNOWN,marriott,Cascais,1
+UNKNOWN,maserati,LISBOA,1
+UNKNOWN,maserati,PORTO,1
+ALBUFEIRA,mcdonalds_pt,Guia (Algarve Shopping),1
+RIODEMOURO,mcdonalds_pt,Alegro Sintra,1
+SET218BAL,mcdonalds_pt,Alegro Set&#250;bal,1
+CARNAXIDE,mcdonalds_pt,Alfragide - C.C. Alegro,1
+ALBUFEIRA,mcdonalds_pt,Albufeira,1
+193GUEDA,mcdonalds_pt,&#193;gueda,1
+LISBOA,mcdonalds_pt,"Aeroporto de Lisboa, Terminal 2",1
+LISBOA,mcdonalds_pt,Aeroporto,1
+UNKNOWN,mcdonalds_pt,Abrantes,1
+S195ODOMINGOSDERANA,mcdonalds_pt,Estrada Nacional 249 – km4,1
+LISBOA,mcdonalds_pt,2&#170; Circular,1
+LISBOA,mcdonalds_pt,Bel&#233;m,1
+BARREIRO,mcdonalds_pt,Santo Andr&#233;,1
+BARREIRO,mcdonalds_pt,Barreiro,1
+BARCELOS,mcdonalds_pt,Barcelos,1
+COINA,mcdonalds_pt,B Planet – Coina,1
+RIOMAIOR,mcdonalds_pt,Rio Maior,1
+ALCOCHETE,mcdonalds_pt,Alcochete,1
+BRAGA,mcdonalds_pt,Braga,1
+CANTANHEDE,mcdonalds_pt,Cantanhede,1
+FAFE,mcdonalds_pt,R. Monsenhor Vieira de Castro,1
+LAMEGO,mcdonalds_pt,Lamego,1
+VISEU,mcdonalds_pt,Viseu,1
+LUGARDEBOU231AFREGUESIADEVILAVERDEEBARBUDO,mcdonalds_pt,unknown,1
+VILAREALDESANTOANT211NIO,mcdonalds_pt,Vila Real de Santo Ant&#243;nio,1
+VILAREAL,mcdonalds_pt,Vila Real Nosso Shopping,1
+VILAREAL,mcdonalds_pt,Vila Real,1
+QUARTEIRA,mcdonalds_pt,Vilamoura,1
+VILAFRANCADEXIRA,mcdonalds_pt,Vila Franca de Xira,1
+MODIVAS,mcdonalds_pt,Vila do Conde,1
+P243VOADESANTAIRIA,mcdonalds_pt,P&#243;voa de Santa Iria,1
+UNKNOWN,mcdonalds_pt,Porto de M&#243;s,1
+PORTALEGRE,mcdonalds_pt,Portalegre,1
+UNKNOWN,mcdonalds_pt,unknown,1
+VILADOCONDE,mcdonalds_pt,Vila do Conde,1
+VIANADOCASTELO,mcdonalds_pt,Viana do Castelo Drive,1
+VIANADOCASTELO,mcdonalds_pt,Viana do Castelo - Esta&#231;&#227;o CP,1
+PORTO,mcdonalds_pt,Via Catarina,1
+LISBOA,mcdonalds_pt,Vasco da Gama,1
+VALONGO,mcdonalds_pt,Valongo,1
+TROFA,mcdonalds_pt,Trofa,1
+TORRESVEDRAS,mcdonalds_pt,Torres Vedras,1
+TORRESNOVAS,mcdonalds_pt,Torres Novas,1
+TOMAR,mcdonalds_pt,Tomar,1
+LISBOA,mcdonalds_pt,Telheiras,1
+RIODEMOURO,mcdonalds_pt,Tagus Park,1
+S195OJO195ODAMADEIRA,mcdonalds_pt,S&#227;o Jo&#227;o da Madeira,1
+ODIVELAS,mcdonalds_pt,Odivelas Park,1
+LISBOA,mcdonalds_pt,Olivais (Spacio Shopping),1
+RIODEMOURO,mcdonalds_pt,Sintra Retail Park,1
+SINES,mcdonalds_pt,Sines,1
+SET218BAL,mcdonalds_pt,Set&#250;bal,1
+SET218BAL,mcdonalds_pt,Set&#250;bal Centro,1
+SESIMBRA,mcdonalds_pt,Sesimbra,1
+AMORA,mcdonalds_pt,Seixal – A2,1
+SEIXAL,mcdonalds_pt,Rio Sul Shopping,1
+LISBOA,mcdonalds_pt,Saldanha,1
+SANTAR201M,mcdonalds_pt,Santar&#233;m,1
+UNKNOWN,mcdonalds_pt,Santo Tirso,1
+SACAV201M,mcdonalds_pt,Sacav&#233;m,1
+LISBOA,mcdonalds_pt,Rossio,1
+LISBOA,mcdonalds_pt,Av. de Roma,1
+LISBOA,mcdonalds_pt,Rodrigo da Fonseca,1
+RIOTINTO,mcdonalds_pt,Rio Tinto,1
+PORTO,mcdonalds_pt,Porto,1
+LISBOA,mcdonalds_pt,Restelo,1
+QUELUZ,mcdonalds_pt,Queluz,1
+P243VOADEVARZIM,mcdonalds_pt,P&#243;voa de Varzim,1
+SAMORACORREIA,mcdonalds_pt,Porto Alto,1
+PORTO,mcdonalds_pt,Centro Comercial Alameda Shop &amp; Spot,1
+PORTIM195O,mcdonalds_pt,Portim&#227;o,1
+PONTEDELIMA,mcdonalds_pt,Ponte de Lima,1
+PONTADELGADA,mcdonalds_pt,Ponta Delgada,1
+PINHALNOVO,mcdonalds_pt,Pinhal Novo,1
+PENAFIEL,mcdonalds_pt,Penafiel,1
+PA199OSDEFERREIRA,mcdonalds_pt,Pa&#231;os de Ferreira - Ferrara Plaza,1
+LISBOA,mcdonalds_pt,Pa&#231;o de Arcos,1
+LISBOA,mcdonalds_pt,Parque das Na&#231;&#245;es,1
+PONTADELGADA,mcdonalds_pt,Parque Atl&#226;ntico,1
+UNKNOWN,mcdonalds_pt,Paredes,1
+VISEU,mcdonalds_pt,Viseu - C.C. Pal&#225;cio do Gelo,1
+PALMELA,mcdonalds_pt,Palmela,1
+LISBOA,mcdonalds_pt,Av. Padre Cruz - BP Est&#225;dio de Alvalade,1
+OLH195O,mcdonalds_pt,Olh&#227;o,1
+PA199ODEARCOS,mcdonalds_pt,Oeiras Parque,1
+OEIRAS,mcdonalds_pt,A5 - Oeiras,1
+OEIRAS,mcdonalds_pt,Oeiras - Santo Amaro,1
+ODIVELAS,mcdonalds_pt,Odivelas,1
+NAZAR233,mcdonalds_pt,Nazar&#233;,1
+MATOSINHOS,mcdonalds_pt,Norte Shopping,1
+MONTIJO,mcdonalds_pt,Forum Montijo,1
+MONTIJO,mcdonalds_pt,Montijo,1
+MEMMARTINS,mcdonalds_pt,Merc&#234;s,1
+MEMMARTINS,mcdonalds_pt,Mem Martins,1
+MATOSINHOS,mcdonalds_pt,Matosinhos,1
+QUELUZ,mcdonalds_pt,Massam&#225; Sul,1
+BELAS,mcdonalds_pt,Massam&#225; Norte,1
+LISBOA,mcdonalds_pt,Lisboa,1
+MARINHAGRANDE,mcdonalds_pt,Marinha Grande,1
+LISBOA,mcdonalds_pt,Av. Marechal Gomes da Costa 33,1
+MARCODECANAVESES,mcdonalds_pt,Marco de Canaveses,1
+MATOSINHOS,mcdonalds_pt,Marshopping (IKEA),1
+MALVEIRA,mcdonalds_pt,Malveira,1
+MAIA,mcdonalds_pt,Maia Shopping,1
+MAIA,mcdonalds_pt,Maia Centro,1
+MAIA,mcdonalds_pt,Maia,1
+MAFRA,mcdonalds_pt,Mafra,1
+FUNCHAL,mcdonalds_pt,Madeira Shopping,1
+LOUROSA,mcdonalds_pt,Lourosa,1
+LOURES,mcdonalds_pt,LouresShopping,1
+LOURESFLAMENGA,mcdonalds_pt,"Frielas, Santo Ant&#243;nio dos Cavaleiros",1
+ALMANCIL,mcdonalds_pt,Mar Shopping Loul&#233;,1
+LOUL201,mcdonalds_pt,Loul&#233;,1
+MATOSINHOS,mcdonalds_pt,Le&#231;a da Palmeira,1
+LEIRIA,mcdonalds_pt,Leiriashopping,1
+LEIRIA,mcdonalds_pt,Leiria,1
+LEIRIA,mcdonalds_pt,"Porto Moniz, Leiria",1
+LISBOA,mcdonalds_pt,Largo Chiado,1
+LAGOS,mcdonalds_pt,Lagos,1
+LISBOA,mcdonalds_pt,ZOO de Lisboa (zona de acesso livre),1
+PORTO,mcdonalds_pt,Imperial,1
+GUIMAR195ES,mcdonalds_pt,Guimar&#227;es Shopping,1
+GUIMAR195ES,mcdonalds_pt,Guimar&#227;es Drive,1
+UNKNOWN,mcdonalds_pt,Guarda,1
+GONDOMAR,mcdonalds_pt,Gondomar (Parque Nascente),1
+GONDOMAR,mcdonalds_pt,Gondomar,1
+VILANOVADEGAIA,mcdonalds_pt,Gaiashopping,1
+VILANOVADEGAIA,mcdonalds_pt,Gaia,1
+VILANOVADEGAIA,mcdonalds_pt,Gaia Drive,1
+FUNCHAL,mcdonalds_pt,S&#237;tio da Vargem,1
+CASTELOBRANCO,mcdonalds_pt,Castelo Branco,1
+FUNCHAL,mcdonalds_pt,Funchal - Av.do Mar,1
+FUNCHAL,mcdonalds_pt,Forum Madeira,1
+AVEIRO,mcdonalds_pt,Forum Aveiro,1
+FIGUEIRADAFOZ,mcdonalds_pt,Figueira da Foz,1
+FELGUEIRAS,mcdonalds_pt,Felgueiras,1
+SANTAMARIADAFEIRA,mcdonalds_pt,St. Maria da Feira,1
+FARO,mcdonalds_pt,Faro - Forum Algarve,1
+FARO,mcdonalds_pt,Faro,1
+F193TIMA,mcdonalds_pt,F&#225;tima,1
+VILANOVADEFAMALIC195O,mcdonalds_pt,Famalic&#227;o,1
+UNKNOWN,mcdonalds_pt,Estoril,1
+201VORA,mcdonalds_pt,&#201;vora Plaza,1
+201VORA,mcdonalds_pt,&#201;vora,1
+ESPINHO,mcdonalds_pt,Espinho,1
+GUIMAR195ES,mcdonalds_pt,Espa&#231;o Guimar&#227;es,1
+ERMESINDE,mcdonalds_pt,Ermesinde,1
+LISBOA,mcdonalds_pt,Av. D Carlos I,1
+COVILH195,mcdonalds_pt,Covilh&#227; Serra Shopping,1
+COVILH195,mcdonalds_pt,Covilh&#227;,1
+CORROIOS,mcdonalds_pt,Corroios - BP Estrada Nacional,1
+LISBOA,mcdonalds_pt,C.C. Colombo,1
+COIMBRA,mcdonalds_pt,CoimbraShopping,1
+COIMBRA,mcdonalds_pt,Coimbra 2,1
+COIMBRA,mcdonalds_pt,Coimbra Forum,1
+COIMBRA,mcdonalds_pt,"Av. Fern&#227;o Magalh&#227;es, 701",1
+PORTO,mcdonalds_pt,Circunvala&#231;&#227;o,1
+LISBOA,mcdonalds_pt,Chiado - Armanz&#233;ns do Chiado,1
+CHAVES,mcdonalds_pt,Chaves,1
+CHARNECADACAPARICA,mcdonalds_pt,Charneca da Caparica/Almada,1
+S195OJO195ODAMADEIRA,mcdonalds_pt,Centro Comercial 8&#170; Avenida,1
+UNKNOWN,mcdonalds_pt,Castelo Branco,1
+ALCABIDECHE,mcdonalds_pt,CascaiShopping,1
+CASCAIS,mcdonalds_pt,Cascais,1
+ALENQUER,mcdonalds_pt,Carregado - Campera,1
+CARNAXIDE,mcdonalds_pt,Carnaxide,1
+PORTO,mcdonalds_pt,Galerias Campus S. Jo&#227;o,1
+LISBOA,mcdonalds_pt,Campo Grande,1
+CALDASDARAINHA,mcdonalds_pt,Caldas da Rainha,2
+BRAGAN199A,mcdonalds_pt,Bragan&#231;a,1
+BRAGA,mcdonalds_pt,Braga Parque,1
+BRAGA,mcdonalds_pt,Braga - Minho Center,1
+BRAGA,mcdonalds_pt,Maximinos,1
+BRAGA,mcdonalds_pt,Braga - Gualtar,1
+BRAGA,mcdonalds_pt,Braga  - Avenida Central,1
+PORTO,mcdonalds_pt,Bom Sucesso,1
+PORTO,mcdonalds_pt,Av. Boavista,1
+CASCAIS,mcdonalds_pt,Birre,1
+LISBOA,mcdonalds_pt,Avenida Santo Condest&#225;vel,1
+BEJA,mcdonalds_pt,Beja,1
+AVEIRO,mcdonalds_pt,Aveiro,1
+AVEIRO,mcdonalds_pt,Aveiro Pingo Doce,1
+AVEIRO,mcdonalds_pt,Aveiro Glic&#237;nias,1
+VILANOVADEGAIA,mcdonalds_pt,Arr&#225;bida Shopping,1
+TORRESVEDRAS,mcdonalds_pt,Torres Vedras - Arena Shopping,1
+PORTIM195O,mcdonalds_pt,Aqua Portim&#227;o,1
+PORTO,mcdonalds_pt,Antas,1
+LISBOA,mcdonalds_pt,C.C. Amoreiras,1
+AMADORA,mcdonalds_pt,Dolce Vita Tejo,1
+AMADORA,mcdonalds_pt,Amadora,1
+ALVERCA,mcdonalds_pt,Alverca - Hipermercado Jumbo,1
+ALVERCADORIBATEJO,mcdonalds_pt,Alverca,1
+LISBOA,mcdonalds_pt,Alvalade - Av. Igreja,1
+ANGRADOHERO237SMO,mcdonalds_pt,Angra do Hero&#237;smo,1
+ALMADA,mcdonalds_pt,Almada Forum,1
+ALMADA,mcdonalds_pt,Almada Drive,1
+ALMADA,mcdonalds_pt,Almada,1
+COIMBRA,mcdonalds_pt,Centro Comercial Alma Shopping,1
+ALG201S,mcdonalds_pt,Alg&#233;s,1
+PORTO,mercedes_benz,Vila Nova de Gaia,2
+PORTO,mercedes_benz,Porto,2
+PORTO,mercedes_benz,Felgueiras,1
+SANTARÉM,mercedes_benz,Tomar,1
+LEIRIA,mercedes_benz,Leiria,3
+LISBOA,mercedes_benz,Porto Salvo,1
+BEJA,mercedes_benz,Beja,2
+LEIRIA,mercedes_benz,CALDAS DA RAINHA,1
+FARO,mercedes_benz,Portimão,1
+VISEU,mercedes_benz,Viseu,2
+BRAGA,mercedes_benz,Barcelos,1
+GUARDA,mercedes_benz,Guarda,2
+LISBOA,mercedes_benz,Lisboa,5
+SANTARÉM,mercedes_benz,Santarém,1
+LISBOA,mercedes_benz,Sintra,1
+COIMBRA,mercedes_benz,Coimbra,1
+FARO,mercedes_benz,Faro,1
+PORTO,mercedes_benz,Matosinhos,1
+ÉVORA,mercedes_benz,Évora,1
+PORTO,mercedes_benz,Maia,1
+AVEIRO,mercedes_benz,Stª Maria da Feira,1
+AÇORES,mercedes_benz,Angra do Heroísmo,1
+LISBOA,mercedes_benz,Loures,1
+LISBOA,mercedes_benz,TORRES VEDRAS,1
+AÇORES,mercedes_benz,Ponta Delgada,1
+AVEIRO,mercedes_benz,Aveiro,1
+BRAGA,mercedes_benz,Braga,1
+LISBOA,mercedes_benz,Alcabideche,2
+SETÚBAL,mercedes_benz,Montijo,1
+BRAGA,mercedes_benz,Guimarães,1
+VIANADOCASTELO,mercedes_benz,Viana do Castelo,1
+PORTO,mercedes_benz,Vila do Conde,1
+SANTARÉM,mercedes_benz,Ourém,1
+BRAGA,mercedes_benz,Vila Nova de Famalicão,1
+CASTELOBRANCO,mercedes_benz,Castelo Branco,1
+PORTALEGRE,mercedes_benz,Portalegre,1
+CASTELOBRANCO,mercedes_benz,Covilhã,1
+PORTO,mercedes_benz,Penafiel,1
+VILAREAL,mercedes_benz,Vila Real,1
+BRAGANÇA,mercedes_benz,Bragança,1
+PORTO,mercedes_benz,Paredes,1
+LISBOA,mercedes_benz,Carnaxide,1
+SETÚBAL,mercedes_benz,Palmela,1
+SETÚBAL,mercedes_benz,Almada,1
+FUNCHAL,mercedes_benz,Funchal,1
+UNKNOWN,michaelkors,Lisbon,6
+UNKNOWN,michaelkors,Vila Do Conde,2
+UNKNOWN,moneygram,LISBOA,99
+UNKNOWN,moneygram,MATOSINHOS,6
+UNKNOWN,moneygram,AMADORA,22
+UNKNOWN,moneygram,VILA NOVA DE GAIA,7
+UNKNOWN,moneygram,SINES,5
+UNKNOWN,moneygram,TORRES VEDRAS,3
+UNKNOWN,moneygram,FUNCHAL,12
+UNKNOWN,moneygram,MACHICO,1
+UNKNOWN,moneygram,SANTANA,1
+UNKNOWN,moneygram,CAMACHA,1
+UNKNOWN,moneygram,QUELUZ,14
+UNKNOWN,moneygram,PORTO,27
+UNKNOWN,moneygram,AGUALVA-CACEM,5
+UNKNOWN,moneygram,PEDRAS SALGADAS,1
+UNKNOWN,moneygram,CALDAS DA RAINHA,6
+UNKNOWN,moneygram,SANTO ISIDRO PEGOES,1
+UNKNOWN,moneygram,QUARTEIRA,6
+UNKNOWN,moneygram,ARMACAO DE PERA,5
+UNKNOWN,moneygram,ODIVELAS,23
+UNKNOWN,moneygram,BARREIRO,16
+UNKNOWN,moneygram,ILHAVO,2
+UNKNOWN,moneygram,ALGOZ,1
+UNKNOWN,moneygram,ALMADA,11
+UNKNOWN,moneygram,S. PEDRO ESTORIL,1
+UNKNOWN,moneygram,TAPADA DAS MERCES,1
+UNKNOWN,moneygram,CARCAVELOS,3
+UNKNOWN,moneygram,ALCACER SAL,1
+UNKNOWN,moneygram,MEM MARTINS,7
+UNKNOWN,moneygram,ALGUEIRAO- MEM MARTINS,1
+UNKNOWN,moneygram,VILAMOURA,1
+UNKNOWN,moneygram,COIMBRA,7
+UNKNOWN,moneygram,ALBUFEIRA,6
+UNKNOWN,moneygram,ALGES,6
+UNKNOWN,moneygram,ALMIRANTE REIS,1
+UNKNOWN,moneygram,ARROIOS,1
+UNKNOWN,moneygram,CASCAIS,5
+UNKNOWN,moneygram,ERICEIRA,2
+UNKNOWN,moneygram,EVORA,6
+UNKNOWN,moneygram,LARANJEIRO,2
+UNKNOWN,moneygram,LEIRIA,5
+UNKNOWN,moneygram,LOURES,4
+UNKNOWN,moneygram,MARQUES DE POMBAL,1
+UNKNOWN,moneygram,MONTIJO,6
+UNKNOWN,moneygram,ROSSIO,1
+UNKNOWN,moneygram,SEIXAL,2
+UNKNOWN,moneygram,V. N. GAIA,1
+UNKNOWN,moneygram,FARO,13
+UNKNOWN,moneygram,PORTIMAO,11
+UNKNOWN,moneygram,PONTINHA,5
+UNKNOWN,moneygram,SAO TEOTONIO,5
+UNKNOWN,moneygram,ARMACAODEPERA,1
+UNKNOWN,moneygram,MONTE GORDO,1
+UNKNOWN,moneygram,ALFORNELAS,1
+UNKNOWN,moneygram,SETUBAL,13
+UNKNOWN,moneygram,CORROIOS,1
+UNKNOWN,moneygram,QUELUZ E BELAS,1
+UNKNOWN,moneygram,FAJOZES,1
+UNKNOWN,moneygram,SENHORA DA HORA,2
+UNKNOWN,moneygram,ALVERCA,3
+UNKNOWN,moneygram,CABECEIRAS DE BASTO,1
+UNKNOWN,moneygram,TONDELA,2
+UNKNOWN,moneygram,SINTRA,3
+UNKNOWN,moneygram,OUREM,3
+UNKNOWN,moneygram,ODEMIRA,5
+UNKNOWN,moneygram,LISBOA - MARVILA,1
+UNKNOWN,moneygram,PORTO DE MOS - CALVARIA DE CIMA,1
+UNKNOWN,moneygram,LISBOA - ALTA DE LISBOA,1
+UNKNOWN,moneygram,VILA REAL SANTO ANTONIO,2
+UNKNOWN,moneygram,LISBOA - LUMIAR,1
+UNKNOWN,moneygram,SINTRA - BELAS,1
+UNKNOWN,moneygram,LOURES - UNIAO DAS FREGUESIAS DE MOSCAVI,1
+UNKNOWN,moneygram,ALENQUER - SANTO ESTEVAO,1
+UNKNOWN,moneygram,BEJA - SALVADOR,1
+UNKNOWN,moneygram,MIRANDELA,2
+UNKNOWN,moneygram,VILA NOVA DE CACELA,2
+UNKNOWN,moneygram,LINDA A VELHA,1
+UNKNOWN,moneygram,GONDOMAR,2
+UNKNOWN,moneygram,SESIMBRA,2
+UNKNOWN,moneygram,TAVIRA,3
+UNKNOWN,moneygram,PENAFIEL,2
+UNKNOWN,moneygram,FAMALICAO,2
+UNKNOWN,moneygram,ESPINHO,2
+UNKNOWN,moneygram,MAFRA,2
+UNKNOWN,moneygram,VISEU,5
+UNKNOWN,moneygram,FAIAL,1
+UNKNOWN,moneygram,MOITA,4
+UNKNOWN,moneygram,PALMELA,4
+UNKNOWN,moneygram,VENDA DO PINHEIRO,1
+UNKNOWN,moneygram,MAIA,4
+UNKNOWN,moneygram,LOULE,6
+UNKNOWN,moneygram,PENICHE,2
+UNKNOWN,moneygram,POVOA DE VARZIM,5
+UNKNOWN,moneygram,OLHAO,5
+UNKNOWN,moneygram,CASTRO VERDE,1
+UNKNOWN,moneygram,VILA FRANCA DE XIRA,3
+UNKNOWN,moneygram,VENDA NOVAS,1
+UNKNOWN,moneygram,SACAVEM,2
+UNKNOWN,moneygram,SANTAREM,7
+UNKNOWN,moneygram,OLIVAL BASTO,1
+UNKNOWN,moneygram,QUINTA DO ANJO,1
+UNKNOWN,moneygram,BOBADELA,1
+UNKNOWN,moneygram,AFURADA,1
+UNKNOWN,moneygram,POVOA DE SANTO ADRIAO,3
+UNKNOWN,moneygram,FERREIRA DO ALENTEJO,2
+UNKNOWN,moneygram,FETAIS DE BAIXO,1
+UNKNOWN,moneygram,MOSCAVIDE,5
+UNKNOWN,moneygram,APELACAO,1
+UNKNOWN,moneygram,SERPA,3
+UNKNOWN,moneygram,SAO JOAO DA TALHA,1
+UNKNOWN,moneygram,A DOS CUNHADOS,1
+UNKNOWN,moneygram,CARREGADO,2
+UNKNOWN,moneygram,RIO DE MOURO,4
+UNKNOWN,moneygram,ESTORIL,2
+UNKNOWN,moneygram,ALTURA,1
+UNKNOWN,moneygram,SANTO ANTONIO DOS CAVALEIROS,1
+UNKNOWN,moneygram,VENDAS NOVAS,2
+UNKNOWN,moneygram,BRANDOA,2
+UNKNOWN,moneygram,PONTA DELGADA,5
+UNKNOWN,moneygram,VILA NOVA DE MILFONTES,2
+UNKNOWN,moneygram,BELAS,1
+UNKNOWN,moneygram,BEJA,7
+UNKNOWN,moneygram,S.TEOTONIO,1
+UNKNOWN,moneygram,AVEIRO,5
+UNKNOWN,moneygram,NOVA OEIRAS,1
+UNKNOWN,moneygram,CACEM,2
+UNKNOWN,moneygram,FETAIS,1
+UNKNOWN,moneygram,ARRUDA DOS VINHOS,2
+UNKNOWN,moneygram,AGUEDA,2
+UNKNOWN,moneygram,BRAGA,11
+UNKNOWN,moneygram,AMORA,4
+UNKNOWN,moneygram,ALMANCIL,3
+UNKNOWN,moneygram,AGUALVA CACEM,1
+UNKNOWN,moneygram,AVEIRAS DE BAIXO,1
+UNKNOWN,moneygram,CASAL DE CAMBRA,1
+UNKNOWN,moneygram,PORTELA,1
+UNKNOWN,moneygram,MONCAO,2
+UNKNOWN,moneygram,RIO TINTO,2
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,moneygram,BAIXA DA BANHEIRA,3
+UNKNOWN,moneygram,ALGUEIRAO - MEM MARTINS,1
+UNKNOWN,moneygram,SAN MARCOS,1
+UNKNOWN,moneygram,ALMEIRIM,3
+UNKNOWN,moneygram,LISBON,1
+UNKNOWN,moneygram,CAMARATE,1
+UNKNOWN,moneygram,BOMBARRAL,2
+UNKNOWN,moneygram,ARRANTELA,1
+UNKNOWN,moneygram,PEGOES,3
+UNKNOWN,moneygram,ALJUSTREL,1
+UNKNOWN,moneygram,FATIMA,2
+UNKNOWN,moneygram,MIRATEJO,1
+UNKNOWN,moneygram,VIEIRA DE LEIRIA,1
+UNKNOWN,moneygram,VALENCA,3
+UNKNOWN,moneygram,TROFA,3
+UNKNOWN,moneygram,ZAMBUJEIRA DO MAR,1
+UNKNOWN,moneygram,FUNDAO,3
+UNKNOWN,moneygram,JARDIA,1
+UNKNOWN,moneygram,CARRICO,1
+UNKNOWN,moneygram,LAGOS,4
+UNKNOWN,moneygram,VILA NOVA DE FAMALICAO,1
+UNKNOWN,moneygram,FERNAO FERRO,1
+UNKNOWN,moneygram,MONTE DE CAPARICA,1
+UNKNOWN,moneygram,LOURINHA,2
+UNKNOWN,moneygram,GRANDOLA,2
+UNKNOWN,moneygram,RIO MAIOR,3
+UNKNOWN,moneygram,VIANA DO CASTELO,3
+UNKNOWN,moneygram,MADALENA (PICO),1
+UNKNOWN,moneygram,VILA DO PORTO,1
+UNKNOWN,moneygram,MADALENA,2
+UNKNOWN,moneygram,LOMBA DA FAZENDA,1
+UNKNOWN,moneygram,VILA FRANCA DO CAMPO,1
+UNKNOWN,moneygram,RABO DE PEIXE,1
+UNKNOWN,moneygram,RIBEIRA GRANDE,2
+UNKNOWN,moneygram,MONTEMOR-O-NOVO,1
+UNKNOWN,moneygram,ALCACER DO SAL,1
+UNKNOWN,moneygram,HORTA,1
+UNKNOWN,moneygram,PRAIA DA VITORIA,2
+UNKNOWN,moneygram,LONGUEIRA-ALMOGRAVE,2
+UNKNOWN,moneygram,FIGUEIRA DA FOZ,1
+UNKNOWN,moneygram,SILVES,2
+UNKNOWN,moneygram,BERINGEL,1
+UNKNOWN,moneygram,RAMALHAL,1
+UNKNOWN,moneygram,ALPIARCA,1
+UNKNOWN,moneygram,SANTO ANTONIO DA CHARNECA,1
+UNKNOWN,moneygram,CRUZ DE PAU,1
+UNKNOWN,moneygram,SANTA COMBA DAO,1
+UNKNOWN,moneygram,ALCOCHETE,1
+UNKNOWN,moneygram,GOUVEIA,1
+UNKNOWN,moneygram,JOANE,1
+UNKNOWN,moneygram,GUARDA,2
+UNKNOWN,moneygram,VELAS S JORGE,1
+UNKNOWN,moneygram,CARTAXO,2
+UNKNOWN,moneygram,FELGUEIRAS,2
+UNKNOWN,moneygram,PACOS DE FERREIRA,2
+UNKNOWN,moneygram,PORTALEGRE,2
+UNKNOWN,moneygram,PORTO DE MOS,1
+UNKNOWN,moneygram,TOMAR,2
+UNKNOWN,moneygram,SANTO TIRSO,2
+UNKNOWN,moneygram,REBORDOSA,1
+UNKNOWN,moneygram,ANADIA,2
+UNKNOWN,moneygram,LAMEGO,3
+UNKNOWN,moneygram,MARCO DE CANAVESES,1
+UNKNOWN,moneygram,SANDIM,1
+UNKNOWN,moneygram,ALBERGARIA A VELHA,1
+UNKNOWN,moneygram,FIGUEIRA FOZ,1
+UNKNOWN,moneygram,LAJES DO PICO,1
+UNKNOWN,moneygram,CHARNECA CAPARICA,1
+UNKNOWN,moneygram,MARINHA GRANDE,2
+UNKNOWN,moneygram,ENTRONCAMENTO,1
+UNKNOWN,moneygram,COVILHA,3
+UNKNOWN,moneygram,VILA REAL,2
+UNKNOWN,moneygram,LAGOA,1
+UNKNOWN,moneygram,AMARANTE,2
+UNKNOWN,moneygram,ARCOS DE VALDEVEZ,1
+UNKNOWN,moneygram,BRITO,1
+UNKNOWN,moneygram,CACIA,1
+UNKNOWN,moneygram,ESMORIZ,1
+UNKNOWN,moneygram,CASAL DA SERRA,1
+UNKNOWN,moneygram,MANGUALDE,2
+UNKNOWN,moneygram,ANGRA HEROISMO,1
+UNKNOWN,moneygram,SANTA MARIA FEIRA,1
+UNKNOWN,moneygram,ELVAS,2
+UNKNOWN,moneygram,ABOBODA,1
+UNKNOWN,moneygram,ABRANTES,2
+UNKNOWN,moneygram,ALCOBACA,2
+UNKNOWN,moneygram,CASTELO BRANCO,2
+UNKNOWN,moneygram,ESTREMOZ,2
+UNKNOWN,moneygram,INFESTA,1
+UNKNOWN,moneygram,SERTA,1
+UNKNOWN,moneygram,VALONGO,2
+UNKNOWN,moneygram,ERMESINDE,2
+UNKNOWN,moneygram,ESPOSENDE,2
+UNKNOWN,moneygram,CANTANHEDE,2
+UNKNOWN,moneygram,MACEDO DE CAVALEIROS,1
+UNKNOWN,moneygram,COLARES,1
+UNKNOWN,moneygram,MASSAMA,1
+UNKNOWN,moneygram,NORDESTE,1
+UNKNOWN,moneygram,FITARES,1
+UNKNOWN,moneygram,PINHAL NOVO,1
+UNKNOWN,moneygram,PONTE DE LIMA,1
+UNKNOWN,moneygram,GUIMARES,1
+UNKNOWN,moneygram,TORRE DA MARINHA,1
+UNKNOWN,moneygram,TORRES NOVAS,2
+UNKNOWN,moneygram,APENDURADA,1
+UNKNOWN,moneygram,BARCELOS,2
+UNKNOWN,moneygram,CANICO,2
+UNKNOWN,moneygram,PAREDE,1
+UNKNOWN,moneygram,PAREDES,3
+UNKNOWN,moneygram,POVOA VARZIM,1
+UNKNOWN,moneygram,VILA DO CONDE,2
+UNKNOWN,moneygram,BRAGANCA,2
+UNKNOWN,moneygram,ALFENA,1
+UNKNOWN,moneygram,SAMORA CORREIA,2
+UNKNOWN,moneygram,INFANTADO,1
+UNKNOWN,moneygram,GUIMARAES,2
+UNKNOWN,moneygram,POVOACAO,1
+UNKNOWN,moneygram,CASTELO DA MAIA,1
+UNKNOWN,moneygram,LECA DA PALMEIRA,1
+UNKNOWN,moneygram,FAJOES,1
+UNKNOWN,moneygram,SAO JOAO DE VER,2
+UNKNOWN,moneygram,SAO JOAO MADEIRA,2
+UNKNOWN,moneygram,ARADAS,1
+UNKNOWN,moneygram,VALE DE CAMBRA,1
+UNKNOWN,moneygram,OLIVEIRA DE AZEMEIS,1
+UNKNOWN,moneygram,SEVER DO VOUGA,1
+UNKNOWN,moneygram,AROUCA,1
+UNKNOWN,moneygram,VAGOS,2
+UNKNOWN,moneygram,PALMEIRA,1
+UNKNOWN,moneygram,FAFE,2
+UNKNOWN,moneygram,TAIPAS,1
+UNKNOWN,moneygram,VILA VERDE,1
+UNKNOWN,moneygram,VIZELA,1
+UNKNOWN,moneygram,MIRANDA DO DOURO,1
+UNKNOWN,moneygram,PEDROSO,1
+UNKNOWN,moneygram,ARVORE,1
+UNKNOWN,moneygram,LOUSADA,2
+UNKNOWN,moneygram,VILA DAS AVES,1
+UNKNOWN,moneygram,VALBOM,1
+UNKNOWN,moneygram,AVINTES,1
+UNKNOWN,moneygram,POVOA DO VARZIM,1
+UNKNOWN,moneygram,SAO DOMINGOS DE RANA,1
+UNKNOWN,moneygram,REGUENGOS DE MONSARAZ,1
+UNKNOWN,moneygram,VALE CAMBRA,1
+UNKNOWN,moneygram,OEIRAS,1
+UNKNOWN,moneygram,OVAR,2
+UNKNOWN,moneygram,VILA COVA DE LIXA,1
+UNKNOWN,moneygram,MARCO,1
+UNKNOWN,moneygram,CHAVES,1
+UNKNOWN,moneygram,SANTA MARIA DA FEIRA,2
+UNKNOWN,moneygram,OLIVEIRA AZEMEIS,1
+UNKNOWN,moneygram,PONTE LIMA,1
+UNKNOWN,moneygram,REGUA,1
+UNKNOWN,moneygram,S. FELIX DA MARINHA,1
+UNKNOWN,moneygram,LOUSA,1
+UNKNOWN,moneygram,NAZARE,1
+UNKNOWN,moneygram,POMBAL,1
+UNKNOWN,moneygram,ALHOS VEDROS,1
+UNKNOWN,moneygram,MONTELAVAR,1
+UNKNOWN,moneygram,CARVALHOSA,1
+UNKNOWN,moneygram,QUINTA DO CONDE,1
+UNKNOWN,moneygram,PONTE DE SOR,1
+UNKNOWN,moneygram,BENAVENTE,1
+UNKNOWN,moneygram,LECA DO BALIO,1
+UNKNOWN,moneygram,CAMARA DE LOBOS,1
+UNKNOWN,moneygram,RIBEIRA BRAVA,1
+UNKNOWN,moneygram,SAO MARTINHO DO PORTO,1
+UNKNOWN,national,Ponta Delgada,1
+UNKNOWN,national,Lisbon,1
+UNKNOWN,national,Faro,1
+UNKNOWN,national,Santa Cruz,1
+UNKNOWN,national,Porto,1
+UNKNOWN,newyorker,Amadora,1
+UNKNOWN,newyorker,Guimarães,1
+UNKNOWN,newyorker,Montijo,1
+UNKNOWN,newyorker,Rio de Mouro,1
+UNKNOWN,newyorker,Almada,1
+UNKNOWN,newyorker,Porto,1
+UNKNOWN,newyorker,Lissabon,1
+UNKNOWN,newyorker,Matosinhos / Porto,1
+UNKNOWN,newyorker,Aveiro,1
+UNKNOWN,newyorker,Braga,1
+UNKNOWN,nike,Porto,2
+UNKNOWN,nike,Lisbon,1
+PORTUGAL,nike,LISBOA,1
+BRAGA,pepco,Barcelos,1
+LISBON,pepco,Odivelas,1
+LEIRIA,pepco,Pombal,1
+SETUBAL,pepco,Barreiro,1
+FARO,pepco,Tavira,1
+PORTALEGRE,pepco,Elvas,1
+FARO,pepco,Albufeira,1
+FARO,pepco,Olhao,1
+COIMBRA,pepco,Coimbra,1
+AVEIRO,pepco,Aveiro,1
+PORTO,pepco,Maia,2
+PORTO,pepco,Porto,1
+BRAGA,pepco,Braga,1
+LISBON,pokawa,Lisbon,1
+,q8_italia,SALVATIERRA DE MIÑO,1
+UNKNOWN,renault,LEIRIA,2
+UNKNOWN,renault,LISBOA,10
+UNKNOWN,renault,MALVEIRA,2
+UNKNOWN,renault,PEDROSO VNG,4
+UNKNOWN,renault,RIACHOS,2
+UNKNOWN,renault,PÓVOA DE SANTO ADRIÃO,2
+UNKNOWN,renault,SANTO ANTÃO DO TOJAL - LOURES,2
+UNKNOWN,renault,ESTREMOZ,2
+UNKNOWN,renault,SANTO ANTAO DO TOJAL - LOURES,2
+UNKNOWN,renault,VILA DO PORTO,1
+UNKNOWN,renault,ALFENA,2
+UNKNOWN,renault,MIRANDELA,2
+UNKNOWN,renault,VILA NOVA DE GAIA,5
+UNKNOWN,renault,COLMEIAS,2
+UNKNOWN,renault,BRAGANCA,2
+UNKNOWN,renault,PORTO,5
+UNKNOWN,renault,POMBAL,2
+UNKNOWN,renault,BARREIRO,2
+UNKNOWN,renault,GUIMARAES,2
+UNKNOWN,renault,MARCO DE CANAVESES,2
+UNKNOWN,renault,BARCELOS,2
+UNKNOWN,renault,Sines,2
+UNKNOWN,renault,CASCAIS,2
+UNKNOWN,renault,PESO DA RÉGUA,1
+UNKNOWN,renault,SINTRA,2
+UNKNOWN,renault,GONDOMAR,2
+UNKNOWN,renault,AMADORA,6
+UNKNOWN,renault,VILA DO CONDE,2
+UNKNOWN,renault,BEJA,2
+UNKNOWN,renault,PORTALEGRE,2
+UNKNOWN,renault,OLIVEIRA DO BAIRRO,2
+UNKNOWN,renault,SANTAREM,2
+UNKNOWN,renault,VALE DE CAMBRA,2
+UNKNOWN,renault,FIGUEIRA DA FOZ,2
+UNKNOWN,renault,FUNCHAL,2
+UNKNOWN,renault,TORRES NOVAS,4
+UNKNOWN,renault,CARAPELHOS,2
+UNKNOWN,renault,COIMBRA,4
+UNKNOWN,renault,PEDROUÇOS,2
+UNKNOWN,renault,DEOCRISTE,1
+UNKNOWN,renault,SANTO TIRSO,2
+UNKNOWN,renault,VILA NOVA DE FAMALICAO,4
+UNKNOWN,renault,CANTANHEDE,2
+UNKNOWN,renault,SANTARÉM,2
+UNKNOWN,renault,AMARANTE,2
+UNKNOWN,renault,VILA REAL,4
+UNKNOWN,renault,CARCAVELOS,2
+UNKNOWN,renault,ANSIÃO,4
+UNKNOWN,renault,LAGOS,4
+UNKNOWN,renault,FETEIRA HRT,2
+UNKNOWN,renault,PÓVOA DE LANHOSO,1
+UNKNOWN,renault,MONTE-CANDELARIA(MADALENA DO PICO),2
+UNKNOWN,renault,CALDAS DA RAINHA,2
+UNKNOWN,renault,ANGRA DO HEROISMO,2
+UNKNOWN,renault,ALCANENA,2
+UNKNOWN,renault,ABRANTES,2
+UNKNOWN,renault,ILHAVO,2
+UNKNOWN,renault,MILHEIRÓS DE POIARES,2
+UNKNOWN,renault,CHAVES,2
+UNKNOWN,renault,VISEU,2
+UNKNOWN,renault,FAMOES,2
+UNKNOWN,renault,LAMEGO,1
+UNKNOWN,renault,BENAVENTE,2
+UNKNOWN,renault,LINDA-A-VELHA,2
+UNKNOWN,renault,ALBERGARIA DOS DOZE,2
+UNKNOWN,renault,ESTARREJA,2
+UNKNOWN,renault,FARO,2
+UNKNOWN,renault,OVAR,2
+UNKNOWN,renault,VIEIRA DO MINHO,1
+UNKNOWN,renault,MONTIJO,2
+UNKNOWN,renault,PAREDES,2
+UNKNOWN,renault,ALMADA,2
+UNKNOWN,renault,MAIA,2
+UNKNOWN,renault,BRAGA,2
+UNKNOWN,renault,EVORA,2
+UNKNOWN,renault,VIANA DO CASTELO,2
+UNKNOWN,renault,PESSEGUEIRO DO VOUGA,1
+UNKNOWN,renault,CARNAXIDE,2
+UNKNOWN,renault,TORRES VEDRAS,2
+UNKNOWN,renault,BELAS,2
+UNKNOWN,renault,Cacem,1
+UNKNOWN,renault,PONTA DELGADA,2
+UNKNOWN,renault,SETUBAL,2
+UNKNOWN,renault,MOURA,1
+UNKNOWN,renault,OLIVEIRA DE AZEMEIS,2
+UNKNOWN,renault,AVEIRO,4
+UNKNOWN,renault,SANTA MARIA DA FEIRA,2
+UNKNOWN,renault,MIRANDA DO CORVO,2
+UNKNOWN,renault,PORTIMAO,2
+UNKNOWN,renault,GUARDA,2
+UNKNOWN,renault,COVILHA,2
+UNKNOWN,renault,CASTELO BRANCO,2
+UNKNOWN,renault,S.DOMINGOS DE RANA,2
+UNKNOWN,renault,VILA FRANCA DE XIRA,2
+UNKNOWN,renault,LOULÉ,2
+UNKNOWN,renault,S.JOÃO DE OVAR,2
+AVEIROREGION,repsol_pt,SAIDA IC2 - AGUEDA NORTE Z0470611,1
+AVEIROREGION,repsol_pt,LAGOAS - ESGUEIRA Z0470662,1
+ÁREAMETDOPORTO,repsol_pt,"E.N 109 KM19,5 - ESPINHO Z0470853",1
+AVEIROREGION,repsol_pt,ESMORIZ Z0461724,1
+ÁREAMETDOPORTO,repsol_pt,OLIVEIRA AZEMEIS,1
+TÂMEGAESOUSA,repsol_pt,CASTELO DE PAIVA Z0470613,1
+AVEIROREGION,repsol_pt,VALEGA OVAR Z0470603,1
+AVEIROREGION,repsol_pt,AREEIRO - VALEGA OVAR Z0470603,1
+REGIÃODECOIMBRA,repsol_pt,MEALHADA 1 Z0463597,1
+REGIÃODECOIMBRA,repsol_pt,MEALHADA 2 Z0463478,1
+ÁREAMETDOPORTO,repsol_pt,Z.I.TRAV-S J MADEIRA Z0470585,1
+ÁREAMETDOPORTO,repsol_pt,OLIVEIRA DE AZEMEIS Z0470602,1
+AVEIROREGION,repsol_pt,BARRO-AGUEDA,1
+ÁREAMETDOPORTO,repsol_pt,FEIRA-S JOAO VER,1
+AVEIROREGION,repsol_pt,OLIVEIRA DO BAIRRO,1
+AVEIROREGION,repsol_pt,AVEIRO-RIA(1)Z0461442,1
+AVEIROREGION,repsol_pt,AVEIRO-RIA(2) Z0461453,1
+AVEIROREGION,repsol_pt,AVEIRO,1
+AVEIROREGION,repsol_pt,AGUEDA Z0463489,1
+AVEIROREGION,repsol_pt,BRANCA ALB,1
+AVEIROREGION,repsol_pt,Albergaria-a-Velha,2
+ÁREAMETDOPORTO,repsol_pt,S JOAO MADEIRA Z0461726,1
+ÁREAMETDELISBOA,repsol_pt,SANTA MARIA DE LAMAS,1
+AVEIROREGION,repsol_pt,AVEIRO (1) Z0462144,1
+AVEIROREGION,repsol_pt,AVEIRO (B) Z0461451,1
+AVEIROREGION,repsol_pt,VAGOS,3
+AVEIROREGION,repsol_pt,VAGOS Z0463496,1
+ÁREAMETDOPORTO,repsol_pt,ARGONCILHE Z0461960,1
+ÁREAMETDOPORTO,repsol_pt,S.JOAO DA MADEIRA,1
+ÁREAMETDOPORTO,repsol_pt,AROUCA,1
+ÁREAMETDOPORTO,repsol_pt,ESPINHO,1
+AVEIROREGION,repsol_pt,ESTARREJA Z0461437,1
+ÁREAMETDOPORTO,repsol_pt,OLIV AZEMEIS Z0461719,1
+AVEIROREGION,repsol_pt,DORNELAS - SEVER DO VOUGA,1
+AVEIROREGION,repsol_pt,ANADIA Z0461448,1
+BAIXOALENTEJO,repsol_pt,BEJA,2
+BAIXOALENTEJO,repsol_pt,CASTRO VERDE,1
+ALENTEJOLITORAL,repsol_pt,ODEMIRA Z0452534,1
+BAIXOALENTEJO,repsol_pt,ALJUSTREL,1
+CÁVADO,repsol_pt,BRAGA FERREIROS Z0458759,1
+AVE,repsol_pt,GUIMARAES Z0461698,1
+AVE,repsol_pt,PEDOME,1
+AVE,repsol_pt,GUIMARAES Z0461700,1
+CÁVADO,repsol_pt,BRAGA Z0458756,1
+CÁVADO,repsol_pt,BRAGA Z0458757,1
+CÁVADO,repsol_pt,BARCELOS - NOVO Z0458753,1
+CÁVADO,repsol_pt,BRAGA,1
+TÂMEGAESOUSA,repsol_pt,CELORICO BASTOS Z0461695,1
+AVE,repsol_pt,POLVOREIRA,2
+CÁVADO,repsol_pt,BARCELINHOS Z0458752,1
+AVE,repsol_pt,V N FAMALICAO Z0461727,1
+AVE,repsol_pt,GONFIFELOS,1
+CÁVADO,repsol_pt,BRAGA Z0471088,1
+AVE,repsol_pt,V NOVA FAMALICAO Z0470583,1
+CÁVADO,repsol_pt,FROSSOS-BRAGA Z0471167,1
+AVE,repsol_pt,S JOAO DA PONTE-GUIMARAES Z0470587,1
+AVE,repsol_pt,CALDAS DAS TAIPAS - GUIM Z0470596,1
+CÁVADO,repsol_pt,Esposende,1
+CÁVADO,repsol_pt,MARINHAS - ESPOSENDE,1
+TRASOSMONTES,repsol_pt,BRAGANCA Z0463417,1
+TRASOSMONTES,repsol_pt,BRAGANCA,1
+TRASOSMONTES,repsol_pt,MIRANDELA (VELHO) Z0463418,1
+TRASOSMONTES,repsol_pt,MIRANDELA (NOVO) Z0463465,1
+TRASOSMONTES,repsol_pt,TORRE D CHAMA Z0463551,1
+DOURO,repsol_pt,CARRAZEDA ANSIAES,1
+BEIRASANDESTRELAS,repsol_pt,COVILHA,1
+BEIRASANDESTRELAS,repsol_pt,CARIA-BELMONTE,1
+MÉDIOTEJO,repsol_pt,SERTA,1
+BEIRABAIXA,repsol_pt,CERNACHE DO BONJARDIM,1
+BEIRASANDESTRELAS,repsol_pt,FUNDAO,2
+BEIRABAIXA,repsol_pt,CASTELO BRANCO,2
+BEIRABAIXA,repsol_pt,SOBREIRA FORMOSA,1
+REGIÃODECOIMBRA,repsol_pt,FIGUEIRA DA FOZ,2
+REGIÃODECOIMBRA,repsol_pt,TOCHA (1),1
+REGIÃODECOIMBRA,repsol_pt,TOCHA (2),1
+REGIÃODECOIMBRA,repsol_pt,Oliveira do Hospital,1
+REGIÃODECOIMBRA,repsol_pt,MARINHA DAS ONDAS,2
+REGIÃODECOIMBRA,repsol_pt,FIG FOZ,1
+REGIÃODECOIMBRA,repsol_pt,ROSSIO-ANCA-CANTANHEDE,1
+REGIÃODECOIMBRA,repsol_pt,SOURE,1
+REGIÃODECOIMBRA,repsol_pt,SOURE-POSTO NOVO,1
+REGIÃODECOIMBRA,repsol_pt,CONDEIXA(1),1
+REGIÃODECOIMBRA,repsol_pt,CONDEIXA(2),1
+REGIÃODECOIMBRA,repsol_pt,CANTANHEDE Z0471089,1
+REGIÃODECOIMBRA,repsol_pt,COIMBRA-,1
+REGIÃODECOIMBRA,repsol_pt,MIRANDA DO CORVO Z0471198,1
+REGIÃODECOIMBRA,repsol_pt,MIRANDA DO CORVO,1
+REGIÃODECOIMBRA,repsol_pt,Lousã,1
+REGIÃODECOIMBRA,repsol_pt,AMEAL,1
+REGIÃODECOIMBRA,repsol_pt,TABUA,1
+ALENTEJOCENTRAL,repsol_pt,MONTEMOR NOVO*PA,1
+ALENTEJOCENTRAL,repsol_pt,ARRAIOLOS,1
+ALENTEJOCENTRAL,repsol_pt,EVORA*PA CHAFARIZ,1
+ALENTEJOCENTRAL,repsol_pt,REDONDO,1
+ALENTEJOCENTRAL,repsol_pt,Terena,1
+ALENTEJOCENTRAL,repsol_pt,ESTREMOZ*PA,1
+ALENTEJOCENTRAL,repsol_pt,VENDAS NOVAS (A),1
+ALENTEJOCENTRAL,repsol_pt,VENDAS NOVAS,3
+ALENTEJOCENTRAL,repsol_pt,EVORAMONTE,1
+ALENTEJOCENTRAL,repsol_pt,MARATECA,1
+ALENTEJOCENTRAL,repsol_pt,Estremoz,1
+ALENTEJOCENTRAL,repsol_pt,AGUIAR,1
+ALGARVE,repsol_pt,FARO,1
+ALGARVE,repsol_pt,PORTELA DE MESSINES,1
+ALGARVE,repsol_pt,LAGOS Z0452393,1
+ALGARVE,repsol_pt,S. BRAS DE ALPORTEL,1
+ALGARVE,repsol_pt,ALFANDANGA Z0452392,1
+ALGARVE,repsol_pt,QUARTEIRA,1
+ALGARVE,repsol_pt,LOULE,1
+ALGARVE,repsol_pt,PORTIMAO Z0452451,1
+ALGARVE,repsol_pt,S BARTOLOMEU MESSINES Z0452532,1
+ALGARVE,repsol_pt,VILA NOVA DE CACELA,1
+ALGARVE,repsol_pt,MONTE GORDO,1
+ALGARVE,repsol_pt,VILA REAL SANTO ANTONIO Z0452426,1
+ALGARVE,repsol_pt,FARO Z0452395,1
+ALGARVE,repsol_pt,FARO Z0452396,1
+ALGARVE,repsol_pt,PARCHAL,1
+ALGARVE,repsol_pt,ALBUFEIRA Z0452445,1
+ALGARVE,repsol_pt,ALBUFEIRA Z0452436,1
+ALGARVE,repsol_pt,MONCHIQUE,1
+ALGARVE,repsol_pt,ROGIL Z0452449,1
+ALGARVE,repsol_pt,FARO (A) Z0452458,1
+ALGARVE,repsol_pt,FARO (B) Z0452461,1
+ALGARVE,repsol_pt,SAGRES,2
+ALGARVE,repsol_pt,PORTIMAO Z0474898,1
+ALGARVE,repsol_pt,MONTECHORO-ALBUFEIRA Z0467635,1
+ALGARVE,repsol_pt,ALMANCIL-LOULE Z0470639,1
+ALGARVE,repsol_pt,ALVOR,1
+ALGARVE,repsol_pt,BENAFIM Z0470649,1
+ALGARVE,repsol_pt,OLHAO Z0467659,1
+ALGARVE,repsol_pt,TAVIRA Z0470636,1
+BEIRASANDESTRELAS,repsol_pt,VILAR FORMOSO Z0463455,1
+BEIRASANDESTRELAS,repsol_pt,CELORICO DA BEIRA,1
+BEIRASANDESTRELAS,repsol_pt,GUARDA Z0463458,1
+BEIRASANDESTRELAS,repsol_pt,GUARDA,1
+BEIRASANDESTRELAS,repsol_pt,SABUGAL,1
+BEIRASANDESTRELAS,repsol_pt,ALDEIA DA PONTE,1
+BEIRASANDESTRELAS,repsol_pt,SEIA Z0463416,1
+BEIRASANDESTRELAS,repsol_pt,Vinho,1
+BEIRASANDESTRELAS,repsol_pt,TRANCOSO Z0463409,1
+BEIRASANDESTRELAS,repsol_pt,GUARDA Z0463593,1
+BEIRASANDESTRELAS,repsol_pt,CASTELOS VELHOS-GUARDA,1
+LEIRIAREGION,repsol_pt,POMBAL,1
+LEIRIAREGION,repsol_pt,ANSIAO,1
+LEIRIAREGION,repsol_pt,BATALHA,2
+LEIRIAREGION,repsol_pt,AVELAR,1
+LEIRIAREGION,repsol_pt,JUNCAL-CUMEIRA DE CIMA,1
+OESTE,repsol_pt,CALDAS RAINHA*PA2,1
+LEIRIAREGION,repsol_pt,COVA FAIAS (A),1
+LEIRIAREGION,repsol_pt,COVA FAIAS (B),1
+LEIRIAREGION,repsol_pt,SANTA CATARINA DA SERRA,1
+LEIRIAREGION,repsol_pt,LEIRIA,2
+LEIRIAREGION,repsol_pt,BIDOEIRA DE CIMA,1
+LEIRIAREGION,repsol_pt,MONTE REDONDO LRA,2
+LEIRIAREGION,repsol_pt,PATAIAS,1
+LEIRIAREGION,repsol_pt,MARINHA GRANDE*PA,1
+LEIRIAREGION,repsol_pt,MARINHA GRANDE,2
+OESTE,repsol_pt,CELA,1
+LEIRIAREGION,repsol_pt,PEDROGAO,1
+LEIRIAREGION,repsol_pt,PEDROGAO GRANDE,1
+LEIRIAREGION,repsol_pt,ARRABAL,1
+OESTE,repsol_pt,VALADO DOS FRADES-NAZARE,1
+LEIRIAREGION,repsol_pt,MACEIRINHA,1
+OESTE,repsol_pt,ALCOBACA,2
+OESTE,repsol_pt,BOMBARRAL,1
+OESTE,repsol_pt,ST ONOFRE-CALDAS RAINHA,1
+OESTE,repsol_pt,CALDAS DA RAINHA,1
+LEIRIAREGION,repsol_pt,REGUEIRA DE PONTES-LEIRIA,2
+LEIRIAREGION,repsol_pt,POMBAL Z0470606,1
+LEIRIAREGION,repsol_pt,STO ANTONIO-PORTO DE MOS,1
+ÁREAMETDELISBOA,repsol_pt,SANTA IRIA DE AZOIA,1
+OESTE,repsol_pt,VIMEIRO,1
+ÁREAMETDELISBOA,repsol_pt,LISBOA(B 3),1
+OESTE,repsol_pt,LOURINHA,2
+ÁREAMETDELISBOA,repsol_pt,S. DOMINGOS BENFICA,2
+ÁREAMETDELISBOA,repsol_pt,Lisboa,1
+OESTE,repsol_pt,URB SOLCARREGADO-ALENQUER,1
+ÁREAMETDELISBOA,repsol_pt,LISBOA,11
+ÁREAMETDELISBOA,repsol_pt,ALDEIA DO JUZO-CASCAIS,1
+ÁREAMETDELISBOA,repsol_pt,ESTORIL,1
+ÁREAMETDELISBOA,repsol_pt,QTA MARINHA-CASCAIS,1
+ÁREAMETDELISBOA,repsol_pt,PAREDE,1
+ÁREAMETDELISBOA,repsol_pt,PORTO SALVO,1
+ÁREAMETDELISBOA,repsol_pt,BURACA*PA,1
+ÁREAMETDELISBOA,repsol_pt,MALVEIRA,1
+ÁREAMETDELISBOA,repsol_pt,CARNAXIDE,1
+ÁREAMETDELISBOA,repsol_pt,SAO JULIAO TOJAL,1
+ÁREAMETDELISBOA,repsol_pt,ALCOITAO*PA,1
+LEZÍRIADOTEJO,repsol_pt,AVEIRAS DE CIMA(A),1
+LEZÍRIADOTEJO,repsol_pt,AVEIRAS DE CIMA(B),1
+ÁREAMETDELISBOA,repsol_pt,QUELUZ,1
+ÁREAMETDELISBOA,repsol_pt,CASCAIS,1
+ÁREAMETDELISBOA,repsol_pt,GADO BRAVO*PA,1
+ÁREAMETDELISBOA,repsol_pt,CARCAVELOS-OEIRAS,1
+OESTE,repsol_pt,ABRIGADA,2
+ÁREAMETDELISBOA,repsol_pt,POVOA STA IRIA,1
+ÁREAMETDELISBOA,repsol_pt,AMADORA,2
+ÁREAMETDELISBOA,repsol_pt,SINTRA,2
+ÁREAMETDELISBOA,repsol_pt,ALVERCA,1
+ÁREAMETDELISBOA,repsol_pt,CREL A - BUCELAS,1
+ÁREAMETDELISBOA,repsol_pt,SANTO ANTAO DO TOJAL,1
+ÁREAMETDELISBOA,repsol_pt,TERRUGEM,1
+ÁREAMETDELISBOA,repsol_pt,V FRANCA DE XIRA,1
+ÁREAMETDELISBOA,repsol_pt,LOURES (A),1
+ÁREAMETDELISBOA,repsol_pt,LOURES (B),1
+ÁREAMETDELISBOA,repsol_pt,CASAL VAL MILHO-ALGUEIRAO-M MARTINS,1
+ÁREAMETDELISBOA,repsol_pt,LOURES,1
+ÁREAMETDELISBOA,repsol_pt,EST LARANJEIRAS - LISBOA,1
+ÁREAMETDELISBOA,repsol_pt,Povoa Sto Adriao,1
+ÁREAMETDELISBOA,repsol_pt,MEM MARTINS (A),1
+ÁREAMETDELISBOA,repsol_pt,MEM MARTINS (B),1
+ÁREAMETDELISBOA,repsol_pt,MEM MARTINS,1
+ÁREAMETDELISBOA,repsol_pt,Rio de Mouro,1
+ÁREAMETDELISBOA,repsol_pt,Odivelas,1
+OESTE,repsol_pt,A DOS CUNHADOS,2
+ÁREAMETDELISBOA,repsol_pt,ALVERCA DO RIBATEJO,1
+ÁREAMETDELISBOA,repsol_pt,DAMAIA,1
+ÁREAMETDELISBOA,repsol_pt,BARCARENA,1
+ÁREAMETDELISBOA,repsol_pt,ALGES,1
+OESTE,repsol_pt,ARRUDA DOS VINHOS,1
+ÁREAMETDELISBOA,repsol_pt,S. João das Lampas,1
+OESTE,repsol_pt,TORRES VEDRAS,1
+ÁREAMETDELISBOA,repsol_pt,COLARES,1
+LEZÍRIADOTEJO,repsol_pt,AZAMBUJA (A),1
+LEZÍRIADOTEJO,repsol_pt,AZAMBUJA (B),1
+OESTE,repsol_pt,MARTELEIRA,1
+OESTE,repsol_pt,TORRES VEDRAS-HIPER,1
+ÁREAMETDELISBOA,repsol_pt,MALVEIRA*PA,1
+OESTE,repsol_pt,OUTEIRO DA CABECA,1
+ÁREAMETDELISBOA,repsol_pt,BUCELAS- LOURES,1
+OESTE,repsol_pt,S. PEDRO DA CADEIRA,1
+OESTE,repsol_pt,ALENQUER,1
+OESTE,repsol_pt,SAPATARIA*PA,1
+ÁREAMETDELISBOA,repsol_pt,S. J LAMPAS,1
+ALTOALENTEJO,repsol_pt,"FLOR DA ROSA, CRATO",1
+ALTOALENTEJO,repsol_pt,ZONA IND PORTALEGRE,1
+ALTOALENTEJO,repsol_pt,FRONTEIRA,1
+ALTOALENTEJO,repsol_pt,PORTALEGRE,1
+ALTOALENTEJO,repsol_pt,CAIA A,1
+ALTOALENTEJO,repsol_pt,CAIA B,1
+ALTOALENTEJO,repsol_pt,MONTARGIL,1
+ÁREAMETDOPORTO,repsol_pt,ALFENA,1
+ÁREAMETDOPORTO,repsol_pt,RIBEIRA CAMPO-VALONGO Z0470858,1
+ÁREAMETDOPORTO,repsol_pt,PORTO Z0460404,1
+ÁREAMETDOPORTO,repsol_pt,Ermesinde Z0467637,1
+ÁREAMETDOPORTO,repsol_pt,ERMESINDE A4 Z0467642,1
+ÁREAMETDOPORTO,repsol_pt,Porto - ANTAS (VELHO) Z0460399,1
+ÁREAMETDOPORTO,repsol_pt,PORTO    Z0460401,1
+TÂMEGAESOUSA,repsol_pt,FELGUEIRAS Z0470601,1
+ÁREAMETDOPORTO,repsol_pt,V NOVA GAIA Z0471031,1
+ÁREAMETDOPORTO,repsol_pt,PORTO Z0460461,1
+ÁREAMETDOPORTO,repsol_pt,PORTO-Z0467645,1
+ÁREAMETDOPORTO,repsol_pt,LECA DO BALIO-Z0467647,1
+ÁREAMETDOPORTO,repsol_pt,MAIA,2
+ÁREAMETDOPORTO,repsol_pt,PORTO-Z0467658,1
+ÁREAMETDOPORTO,repsol_pt,VILA DAS AVES-1 Z0471050,1
+ÁREAMETDOPORTO,repsol_pt,VILA DAS AVES-2 Z0471050,1
+TÂMEGAESOUSA,repsol_pt,PACOS DE FERREIRA Z0470859,1
+ÁREAMETDOPORTO,repsol_pt,V N GAIA (1) Z0460375,1
+ÁREAMETDOPORTO,repsol_pt,V N GAIA (2) Z0460376,1
+ÁREAMETDOPORTO,repsol_pt,Moreira da Maia PORTO-Z0467660,1
+TÂMEGAESOUSA,repsol_pt,PENAFIEL Z0467754,1
+TÂMEGAESOUSA,repsol_pt,PENAFIEL Z0467755,1
+ÁREAMETDOPORTO,repsol_pt,RIO TINTO-Z0467757,1
+ÁREAMETDOPORTO,repsol_pt,VILA NOVA DE GAIA,2
+ÁREAMETDOPORTO,repsol_pt,SRA HORA - MATOSINHOS Z0471175,1
+ÁREAMETDOPORTO,repsol_pt,GONDOMAR Z0460383,1
+ÁREAMETDOPORTO,repsol_pt,TROFA,1
+ÁREAMETDOPORTO,repsol_pt,V NOVA GAIA Z0467643,1
+TÂMEGAESOUSA,repsol_pt,LOUSADA Z0460384,1
+ÁREAMETDOPORTO,repsol_pt,V NOVA GAIA Z0467613,1
+ÁREAMETDOPORTO,repsol_pt,POVOA VARZIM Z0470630,1
+ÁREAMETDOPORTO,repsol_pt,PORTO Z0460402,1
+ÁREAMETDOPORTO,repsol_pt,MATOSINHOS Z0460396,1
+ÁREAMETDOPORTO,repsol_pt,ERMESINDE Z0460380,1
+ÁREAMETDOPORTO,repsol_pt,MATOSINHOS-IP4 Z0460397,1
+ÁREAMETDOPORTO,repsol_pt,S MAMEDE INFESTA Z0460405,1
+TÂMEGAESOUSA,repsol_pt,VILA N GAIA,1
+ÁREAMETDOPORTO,repsol_pt,STO TIRSO Z0460408,1
+TÂMEGAESOUSA,repsol_pt,PENAFIEL,2
+ÁREAMETDOPORTO,repsol_pt,Vila Nova Gaia,2
+ÁREAMETDOPORTO,repsol_pt,GONDOMAR,1
+ÁREAMETDOPORTO,repsol_pt,POVOA DE VARZIM,1
+ÁREAMETDOPORTO,repsol_pt,S MAMEDE INFESTA Z0460394,1
+TÂMEGAESOUSA,repsol_pt,MARCO CANAVEZES,1
+ÁREAMETDOPORTO,repsol_pt,AZURARA - VILA DO CONDE,1
+TÂMEGAESOUSA,repsol_pt,LIXA,1
+TÂMEGAESOUSA,repsol_pt,STA MARIA FEIRA Z0467648,1
+TÂMEGAESOUSA,repsol_pt,PACOS DE FERREIRA,1
+ÁREAMETDOPORTO,repsol_pt,Arcozelo,1
+TÂMEGAESOUSA,repsol_pt,PAÇOS DE FERREIRA,1
+ÁREAMETDOPORTO,repsol_pt,RIO TINTO,1
+ÁREAMETDOPORTO,repsol_pt,V N GAIA Z0460386,1
+ÁREAMETDOPORTO,repsol_pt,CANELAS,1
+TÂMEGAESOUSA,repsol_pt,LODARES,1
+ÁREAMETDOPORTO,repsol_pt,MAIA Z0460385,1
+ÁREAMETDOPORTO,repsol_pt,TROFA  Z0460464,1
+ÁREAMETDOPORTO,repsol_pt,VALONGO Z0460387,1
+TÂMEGAESOUSA,repsol_pt,BAIAO Z0460379,1
+ÁREAMETDOPORTO,repsol_pt,GANDRA,1
+ÁREAMETDOPORTO,repsol_pt,PAREDES,1
+ÁREAMETDOPORTO,repsol_pt,SOBROSA-PAREDES,1
+ÁREAMETDOPORTO,repsol_pt,BROALHOS Z0460462,1
+TÂMEGAESOUSA,repsol_pt,ENTRE RIOS Z0461723,1
+ÁREAMETDOPORTO,repsol_pt,MOREIRA MAIA Z0460398,1
+TÂMEGAESOUSA,repsol_pt,FELGUEIRAS Z0460381,1
+LEZÍRIADOTEJO,repsol_pt,CORUCHE A,1
+LEZÍRIADOTEJO,repsol_pt,CORUCHE B,1
+LEZÍRIADOTEJO,repsol_pt,PONTEVEL - CARTAXO,1
+LEZÍRIADOTEJO,repsol_pt,SALVATERRA DE MAGOS,1
+LEZÍRIADOTEJO,repsol_pt,ALTO VALE*PA,1
+LEZÍRIADOTEJO,repsol_pt,SANTAREM,2
+MÉDIOTEJO,repsol_pt,TOMAR,1
+LEZÍRIADOTEJO,repsol_pt,PERNES-SANTAREM,1
+LEZÍRIADOTEJO,repsol_pt,Pontével- Cartaxo,1
+LEZÍRIADOTEJO,repsol_pt,ALPIARCA,1
+LEZÍRIADOTEJO,repsol_pt,RIO MAIOR,1
+LEZÍRIADOTEJO,repsol_pt,ALCANEDE,1
+MÉDIOTEJO,repsol_pt,FATIMA,2
+LEZÍRIADOTEJO,repsol_pt,PORTO ALTO,1
+LEZÍRIADOTEJO,repsol_pt,SAMORA CORREIA,1
+LEZÍRIADOTEJO,repsol_pt,SANTO ESTEVAO-BNV,1
+LEZÍRIADOTEJO,repsol_pt,ALMEIRIM,1
+LEZÍRIADOTEJO,repsol_pt,BENAVENTE*PA,1
+MÉDIOTEJO,repsol_pt,TOMAR*PA,1
+MÉDIOTEJO,repsol_pt,TORRES NOVAS,1
+MÉDIOTEJO,repsol_pt,TRAMAGAL*PA,1
+MÉDIOTEJO,repsol_pt,BEMPOSTA*PA,1
+MÉDIOTEJO,repsol_pt,ABRANTES,1
+LEZÍRIADOTEJO,repsol_pt,CHAMUSCA*PA,1
+LEZÍRIADOTEJO,repsol_pt,MARINHAIS*PA,1
+MÉDIOTEJO,repsol_pt,V N BARQUINHA*PA,1
+LEZÍRIADOTEJO,repsol_pt,S PEDRO SANTAREM,1
+MÉDIOTEJO,repsol_pt,ALVIOBEIRA*PA,1
+MÉDIOTEJO,repsol_pt,OUREM,1
+MÉDIOTEJO,repsol_pt,MONTALVO-CONSTANCIA,1
+ÁREAMETDELISBOA,repsol_pt,PALMELA,4
+ÁREAMETDELISBOA,repsol_pt,FOGUETEIRO-VALONGO-SEIXAL,1
+ÁREAMETDELISBOA,repsol_pt,PINHAL NOVO,1
+ÁREAMETDELISBOA,repsol_pt,CORROIOS,1
+ÁREAMETDELISBOA,repsol_pt,COVA DA PIEDADE,1
+ALENTEJOLITORAL,repsol_pt,SANTO ANDRE,1
+ÁREAMETDELISBOA,repsol_pt,ST MARIA GRACA-SETUBAL,1
+ÁREAMETDELISBOA,repsol_pt,SETUBAL,2
+ÁREAMETDELISBOA,repsol_pt,AZEITAO,2
+ÁREAMETDELISBOA,repsol_pt,MACA SESIMBRA,1
+ÁREAMETDELISBOA,repsol_pt,MONTIJO-A,1
+ÁREAMETDELISBOA,repsol_pt,MONTIJO-B,1
+ALENTEJOLITORAL,repsol_pt,AZINHEIRA BARROS,1
+ALENTEJOLITORAL,repsol_pt,C. CAVEIRA (B),1
+ÁREAMETDELISBOA,repsol_pt,ALMADA B,1
+ÁREAMETDELISBOA,repsol_pt,ALMADA A,1
+ÁREAMETDELISBOA,repsol_pt,ALMADA,1
+ÁREAMETDELISBOA,repsol_pt,SEIXAL,1
+ÁREAMETDELISBOA,repsol_pt,Costa da Caparica,1
+ÁREAMETDELISBOA,repsol_pt,PEGOES VELHOS,1
+ÁREAMETDELISBOA,repsol_pt,ALCOCHETE,1
+ÁREAMETDELISBOA,repsol_pt,Palmela,1
+ÁREAMETDELISBOA,repsol_pt,POCEIRAO,1
+ÁREAMETDELISBOA,repsol_pt,SETUBAL*PA,1
+ÁREAMETDELISBOA,repsol_pt,Baixa da Banheira,1
+ÁREAMETDELISBOA,repsol_pt,MOITA,1
+ÁREAMETDELISBOA,repsol_pt,BARREIRO*PA,1
+ÁREAMETDELISBOA,repsol_pt,COINA,1
+ÁREAMETDELISBOA,repsol_pt,TAIPADAS (A),1
+ÁREAMETDELISBOA,repsol_pt,TAIPADAS (B),1
+ÁREAMETDELISBOA,repsol_pt,BARREIRO,1
+ÁREAMETDELISBOA,repsol_pt,ALTO ESTANQUEIRO*PA,1
+ÁREAMETDELISBOA,repsol_pt,Lagoa da Palha,1
+ALENTEJOLITORAL,repsol_pt,SINES*PA,1
+ALENTEJOLITORAL,repsol_pt,GRANDOLA,2
+ALTOMINHO,repsol_pt,CAMINHA Z0458761,1
+ALTOMINHO,repsol_pt,VILA PRAIA DE ANCORA Z0458715,1
+ALTOMINHO,repsol_pt,NEIVA (A) Z0458712,1
+ALTOMINHO,repsol_pt,ARCOS VALDEVEZ Z0458760,1
+ALTOMINHO,repsol_pt,PONTE DE LIMA (1) Z0458714,1
+ALTOMINHO,repsol_pt,PONTE DE LIMA (2) Z0458762,1
+ALTOMINHO,repsol_pt,VIANA CASTELO Z0458717,1
+ALTOMINHO,repsol_pt,PONTE DE LIMA Z0470598,1
+ALTOMINHO,repsol_pt,ARAO - VALENCA Z0470855,1
+ALTOMINHO,repsol_pt,VIANA DO CASTELO,1
+ALTOMINHO,repsol_pt,VILA FRANCA - VIANA DO CASTELO,1
+DOURO,repsol_pt,REGUA (RODOVIARIA) Z0463452,1
+DOURO,repsol_pt,VILA REAL Z0463595,1
+DOURO,repsol_pt,VILA REAL,1
+ALTOTÂMEGA,repsol_pt,BECA - BOTICAS,1
+ALTOTÂMEGA,repsol_pt,CHAVES Z0463461,1
+DOURO,repsol_pt,VILARINHO DE SAMARDA,1
+DOURO,repsol_pt,MURCA Z0463479,1
+DOURO,repsol_pt,REGUA (EST SERVICO) Z0463491,1
+ALTOTÂMEGA,repsol_pt,VALPACOS Z0463481,1
+ALTOTÂMEGA,repsol_pt,CHAVES Z0471190,1
+ALTOTÂMEGA,repsol_pt,VILA POUCA AGUIAR(NOVO) Z0463596,1
+ALTOTÂMEGA,repsol_pt,VIL DE SOUTO,1
+VISEUDAOLAFOES,repsol_pt,CARREGAL DO SAL,1
+ALTOTÂMEGA,repsol_pt,VISEU Z0463454,1
+ALTOTÂMEGA,repsol_pt,VISEU,2
+TÂMEGAESOUSA,repsol_pt,CINFAES,1
+ALTOTÂMEGA,repsol_pt,NELAS Z0463408,1
+ALTOTÂMEGA,repsol_pt,CANAS DE SENHORIM,1
+ALTOTÂMEGA,repsol_pt,VISEU Z0463801,1
+DOURO,repsol_pt,SÃO JOÃO DA PESQUEIRA,1
+ALTOTÂMEGA,repsol_pt,VISEU Z0463414,1
+ALTOTÂMEGA,repsol_pt,SANTA COMBA DAO,1
+DOURO,repsol_pt,ARMAMAR Z0463399,1
+DOURO,repsol_pt,MOIMENTA BEIRA Z0463713,1
+DOURO,repsol_pt,LAMEGO,1
+ALTOTÂMEGA,repsol_pt,MANGUALDE Z0463396,1
+ALTOTÂMEGA,repsol_pt,PINDELO DOS MILAGRES,1
+VISEUDAOLAFOES,repsol_pt,SÃO PEDRO DO SUL,1
+VISEUDAOLAFOES,repsol_pt,SÃO JOAO DA AREIA - STA COMBA DAO,1
+ALTOTÂMEGA,repsol_pt,PENALVA CASTELO-NOVO Z0463413,1
+VISEUDAOLAFOES,repsol_pt,Campia - Vouzela,1
+ALTOTÂMEGA,repsol_pt,SATAO (1),1
+ALTOTÂMEGA,repsol_pt,SATAO (2),1
+ALTOTÂMEGA,repsol_pt,VISEU Z0470608,1
+REGAUTDAMADEIRA,repsol_pt,LEVADA A - FUNCHAL,1
+REGAUTDAMADEIRA,repsol_pt,LEVADA B - FUNCHAL,1
+REGAUTDAMADEIRA,repsol_pt,STA CRUZ,1
+REGAUTDAMADEIRA,repsol_pt,SANTA CRUZ,1
+REGAUTDAMADEIRA,repsol_pt,NAZARE,1
+REGAUTDAMADEIRA,repsol_pt,SANTO ANTONIO,1
+REGAUTDAMADEIRA,repsol_pt,CANICO DE BAIXO,1
+REGAUTDAMADEIRA,repsol_pt,S ROQUE-FUNCHAL,1
+REGAUTDAMADEIRA,repsol_pt,FUNCHAL,2
+REGAUTDAMADEIRA,repsol_pt,GAULA A - STA CRUZ,1
+REGAUTDAMADEIRA,repsol_pt,SERRA - FUNCHAL,1
+REGAUTDAMADEIRA,repsol_pt,SANTANA,1
+REGAUTDAMADEIRA,repsol_pt,PORTO MONIZ,1
+REGAUTDAMADEIRA,repsol_pt,CAMPANARIO,1
+REGAUTDAMADEIRA,repsol_pt,CAMARA LOBOS,1
+REGAUTDAMADEIRA,repsol_pt,Camara de Lobos,1
+REGAUTDAMADEIRA,repsol_pt,Estreito de Camara de Lobos,1
+REGAUTDAMADEIRA,repsol_pt,RIBEIRA BRAVA,1
+REGAUTDAMADEIRA,repsol_pt,S VICENTE-MADEIRA,1
+REGAUTDAMADEIRA,repsol_pt,BOAVENTURA,1
+REGAUTDAMADEIRA,repsol_pt,Funchal,2
+REGAUTDOSAÇORES,repsol_pt,PONTA DELGADA,8
+REGAUTDOSAÇORES,repsol_pt,ARRIFES - PONTA DELGADA,1
+REGAUTDOSAÇORES,repsol_pt,RIBEIRA GRANDE,2
+REGAUTDOSAÇORES,repsol_pt,LOMBA DA MAIA,2
+REGAUTDOSAÇORES,repsol_pt,POVOACAO ACORES,1
+REGAUTDOSAÇORES,repsol_pt,S.MIGUEL-ACORES,1
+REGAUTDOSAÇORES,repsol_pt,FURNAS,1
+REGAUTDOSAÇORES,repsol_pt,LAGOA,1
+REGAUTDOSAÇORES,repsol_pt,NORDESTE,1
+REGAUTDOSAÇORES,repsol_pt,VILA PORTO,1
+REGAUTDOSAÇORES,repsol_pt,VILA DO PORTO,1
+REGAUTDOSAÇORES,repsol_pt,PRAIA VITORIA,1
+REGAUTDOSAÇORES,repsol_pt,PRAIA DA VITORIA,1
+REGAUTDOSAÇORES,repsol_pt,Santa Cruz da Graciosa,1
+REGAUTDOSAÇORES,repsol_pt,SAO ROQUE DO PICO,1
+REGAUTDOSAÇORES,repsol_pt,Velas,1
+REGAUTDOSAÇORES,repsol_pt,HORTA (ACORES),1
+UNKNOWN,samsonite_eu,Lisboa,1
+UNKNOWN,scania,Braga,1
+UNKNOWN,scania,Caniço-Madeira,1
+UNKNOWN,scania,Castelo Branco,1
+UNKNOWN,scania,Coimbra,1
+UNKNOWN,scania,Leiria,1
+UNKNOWN,scania,Lisboa-Vialonga,1
+UNKNOWN,scania,Mangualde,1
+UNKNOWN,scania,Maia- Moreira da Maia,1
+MATOSINHOS,shell,Porto,1
+LEÇADOBALIO,shell,Leça do Balio,1
+VILADOCONDE,shell,Porto,1
+BAGUIMDOMONTE,shell,Baguim do Monte,1
+AVEIRO,shell,Santa Maria da Feira,1
+LOUSADA,shell,Lousada,2
+GUIMARÃES,shell,Guimarães,2
+BRAGA,shell,Esposende,1
+BRAGA,shell,Braga,3
+FERREIROS,shell,Ferreiros,2
+AGUADADEBAIXO,shell,Aguada de Baixo,2
+SANTAMARTADAMONTANHA,shell,Santa Marta da Montanha,1
+VILAPOUCADEAGUIAR,shell,Vila Pouca de Aguiar,1
+VISEU,shell,Mortágua,1
+VIDAGO,shell,Vidago,1
+VISEU,shell,Viseu,1
+MONTEREDONDO,shell,Leiria,1
+MOGADOURO,shell,Bragança,1
+NAZARÉ,shell,Nazaré,1
+ÓBIDOS,shell,Óbidos,2
+MIRASINTRA,shell,Mira-Sintra,2
+SEIXAL,shell,Seixal,1
+ALVALADE,shell,Alvalade,1
+ALGÉS,shell,Algés,1
+TAVIRA,shell,Tavira,1
+UNKNOWN,sixt,"Maia, Porto",2
+UNKNOWN,sixt,Faro,3
+UNKNOWN,sixt,Aveiro,1
+UNKNOWN,sixt,Almada,1
+UNKNOWN,sixt,Porto,2
+UNKNOWN,sixt,Portimao,1
+UNKNOWN,sixt,Leiria,1
+UNKNOWN,sixt,Lisboa,4
+UNKNOWN,sixt,Comporta,1
+UNKNOWN,sixt,Sines,1
+UNKNOWN,sixt,Albufeira,1
+UNKNOWN,sixt,Sintra,1
+UNKNOWN,sixt,Amadora,1
+UNKNOWN,sixt,Prior Velho,1
+UNKNOWN,sixt,Braga,1
+UNKNOWN,sixt,Vila Real,1
+UNKNOWN,sixt,Guimaraes,1
+UNKNOWN,sixt,Paredes,1
+UNKNOWN,sixt,Horta,1
+UNKNOWN,sixt,Madalena,1
+UNKNOWN,sixt,Angra do Heroismo,1
+UNKNOWN,sixt,Velas de São Jorge,2
+UNKNOWN,sixt,Castelo Branco,1
+UNKNOWN,sixt,Bandeiras,1
+UNKNOWN,sixt,Praia de Vitória,1
+UNKNOWN,sixt,Vila do Porto,1
+UNKNOWN,sixt,Santa Cruz das Flores,1
+UNKNOWN,sixt,Vilamoura,1
+UNKNOWN,sixt,Ponta Delgada,1
+UNKNOWN,sixt,Madeira,1
+UNKNOWN,sixt,Santa Cruz,1
+UNKNOWN,sixt,"Prior Velho, Lisboa",1
+UNKNOWN,sixt,Maia,1
+08,skoda,unknown,4
+16,skoda,unknown,1
+03,skoda,unknown,3
+13,skoda,unknown,6
+15,skoda,unknown,3
+01,skoda,unknown,3
+05,skoda,unknown,1
+07,skoda,unknown,1
+14,skoda,unknown,2
+31,skoda,unknown,1
+09,skoda,unknown,1
+18,skoda,unknown,1
+17,skoda,unknown,2
+02,skoda,unknown,1
+42,skoda,unknown,2
+10,skoda,unknown,2
+04,skoda,unknown,1
+UNKNOWN,skoda,unknown,1
+06,skoda,unknown,1
+11,skoda,unknown,7
+GUARDA,smart,Guarda,1
+LISBOA,smart,Lisboa,1
+VISEU,smart,Viseu,1
+LISBOA,smart,TORRES VEDRAS,1
+FARO,smart,Portimão,1
+LISBOA,smart,Loures,1
+LEIRIA,smart,Leiria,1
+PORTO,smart,Senhora da Hora - Porto,1
+PORTO,smart,Porto,2
+UNKNOWN,speed_queen,Espinho,1
+UNKNOWN,speed_queen,Vilanova De Gaia,1
+UNKNOWN,speed_queen,Mangualde,1
+UNKNOWN,speed_queen,Bragança,2
+UNKNOWN,speed_queen,Barreiro,1
+UNKNOWN,speed_queen,Lisbon,7
+UNKNOWN,speed_queen,Quarteira,2
+UNKNOWN,speed_queen,Lagos,1
+UNKNOWN,speed_queen,Cacem,1
+UNKNOWN,speed_queen,Vila Do Conde,1
+UNKNOWN,speed_queen,Gafanha Da Nazare,1
+UNKNOWN,speed_queen,Paredes,1
+UNKNOWN,speed_queen,Moscavide,1
+UNKNOWN,speed_queen,Coimbra,1
+UNKNOWN,speed_queen,Queluz,3
+UNKNOWN,speed_queen,Cacilhas,1
+UNKNOWN,speed_queen,Lousada,1
+UNKNOWN,speed_queen,Amadora,4
+UNKNOWN,speed_queen,"Santana, Sesimbra",1
+UNKNOWN,speed_queen,Portalegre,1
+UNKNOWN,speed_queen,Portimao,1
+UNKNOWN,speed_queen,Portimao Amparo,1
+UNKNOWN,speed_queen,Carcavelos,1
+UNKNOWN,speed_queen,Agualva-Cacém,1
+UNKNOWN,speed_queen,Olhao,1
+UNKNOWN,speed_queen,Carregado - Nuno Tavares Loja Propria 20,1
+UNKNOWN,speed_queen,Custoias,1
+UNKNOWN,speed_queen,Arcozelo,1
+UNKNOWN,speed_queen,Macieira Da Maia,1
+UNKNOWN,speed_queen,"Perafita, Matosinhos",1
+UNKNOWN,speed_queen,Alges,1
+UNKNOWN,speed_queen,Oeiras,1
+UNKNOWN,speed_queen,Figueira da Foz,1
+UNKNOWN,speed_queen,Ermensinde,1
+UNKNOWN,speed_queen,Ramada,1
+UNKNOWN,speed_queen,Albufeira,1
+UNKNOWN,speed_queen,Braga,1
+UNKNOWN,speed_queen,Maia,2
+UNKNOWN,speed_queen,Lisboa,1
+UNKNOWN,speed_queen,Senhora da Hora,1
+UNKNOWN,speed_queen,Sacavem,1
+UNKNOWN,speed_queen,Beja,1
+UNKNOWN,speed_queen,Porto,2
+UNKNOWN,speed_queen,Moreira de Maia,1
+UNKNOWN,speed_queen,Lagoa,1
+UNKNOWN,speed_queen,Armaçao de Pera,1
+UNKNOWN,speed_queen,Vagos,1
+UNKNOWN,speed_queen,Vila das Aves,1
+MADEIRA,starbucks_eu,Santa   Cruz,1
+SETUBAL,starbucks_eu,Lisboa,2
+LISBON,starbucks_eu,Lisboa,12
+LISBON,starbucks_eu,Cascais,1
+PORTO,starbucks_eu,Porto,6
+PORTO,starbucks_eu,Maia,1
+FARO,starbucks_eu,Faro,2
+UNKNOWN,subway,Vila Nova de Gaia,1
+UNKNOWN,subway,Vila Do Conde,1
+UNKNOWN,subway,Viseu,1
+UNKNOWN,subway,Setubal,1
+UNKNOWN,subway,Ponta Delgada,2
+UNKNOWN,subway,Seixal,1
+UNKNOWN,subway,Lisbon,5
+UNKNOWN,subway,Lisboa,2
+UNKNOWN,subway,Coimbra,1
+UNKNOWN,subway,Leiria,1
+UNKNOWN,subway,Faro,1
+UNKNOWN,subway,Angra Do Heroismo,1
+UNKNOWN,subway,Amadora,1
+UNKNOWN,subway,Albufeira,1
+UNKNOWN,subway,Alges,1
+PORTUGAL,sunglass_hut_2,Funchal,1
+PORTUGAL,sunglass_hut_2,Faro,1
+FARO,sunglass_hut_2,Faro,1
+FUNCHAL,sunglass_hut_2,Funchal,2
+VIANADOCASTELO,sunglass_hut_2,Viana Do Castelo,1
+PORTO,sunglass_hut_2,Matosinhos,1
+PORTO,sunglass_hut_2,V.N.Gaia,1
+PORTO,sunglass_hut_2,Porto,3
+COIMBRA,sunglass_hut_2,Coimbra,1
+PORTO,sunglass_hut_2,Vila do Conde,1
+VILAREAL,sunglass_hut_2,Vila Real,1
+MONTIJO,sunglass_hut_2,Montijo,1
+CARREGADO,sunglass_hut_2,Carregado,1
+LISBOA,sunglass_hut_2,Lisboa,5
+LISBOA,sunglass_hut_2,Alcabideche,1
+BRAGA,sunglass_hut_2,Braga,1
+ALBUFEIRA,sunglass_hut_2,Albufeira,2
+PONTADELGADA,sunglass_hut_2,Ponta Delgada,1
+LEIRIA,sunglass_hut_2,Leiria,1
+PORTO,sunglass_hut_2,S.João da Madeira,1
+LISBOA,sunglass_hut_2,Amadora,1
+COIMBRA,sunglass_hut_2,Santa Clara,1
+FIGUEIRADAFOZ,sunglass_hut_2,Figueira Da Foz,1
+PORTO,sunglass_hut_2,Senhora Da Horta,1
+AVEIRO,sunglass_hut_2,Aveiro,1
+ALCOCHETE,sunglass_hut_2,Alcochete,1
+ALMADA,sunglass_hut_2,Almada,1
+FUNCHAL,sunglass_hut_2,Santa Cruz Madeira,1
+UNKNOWN,superdry,Porto,1
+UNKNOWN,superdry,Lisboa,1
+ALGARVE,tedi,Lagos,1
+NORTE,tedi,Águeda,1
+NORTE,tedi,Maia,1
+NORTE,tedi,Vila do Conde,1
+NORTE,tedi,Barcelos,1
+NORTE,tedi,Viana do Castelo,1
+NORTE,tedi,Guimarães,1
+NORTE,tedi,Mazedo,1
+UNKNOWN,thebodyshop,unknown,1
+UNKNOWN,thebodyshop,Porto,1
+UNKNOWN,thebodyshop,Oeiras,1
+UNKNOWN,thebodyshop,Montijo,1
+UNKNOWN,thebodyshop,Almancil,1
+UNKNOWN,thebodyshop,Alcochete,1
+UNKNOWN,thebodyshop,Odivelas,1
+UNKNOWN,thebodyshop,Modivas|Vila Do Conde,1
+UNKNOWN,thebodyshop,Sintra,1
+UNKNOWN,thebodyshop,Braga,1
+UNKNOWN,thebodyshop,Matosinhos,2
+UNKNOWN,thebodyshop,Carnaxide,1
+UNKNOWN,thebodyshop,Coimbra,2
+UNKNOWN,thebodyshop,Alcabideche,1
+UNKNOWN,thebodyshop,Almada,1
+UNKNOWN,thebodyshop,Ponta Delgada,1
+UNKNOWN,thebodyshop,Albufeira,1
+UNKNOWN,thebodyshop,Funchal,1
+UNKNOWN,thebodyshop,Lisboa,4
+UNKNOWN,thebodyshop,Vila Nova Gaia,1
+UNKNOWN,thebodyshop,Aveiro,1
+UNKNOWN,thebodyshop,Cascais,1
+UNKNOWN,the_north_face_eu,Lisbon,2
+UNKNOWN,the_north_face_eu,Feijó,1
+UNKNOWN,the_north_face_eu,Matosinhos,3
+UNKNOWN,the_north_face_eu,Lisboa,6
+UNKNOWN,the_north_face_eu,Senhora da Hora,1
+UNKNOWN,the_north_face_eu,Leiria,1
+UNKNOWN,the_north_face_eu,Alcabideche,2
+UNKNOWN,the_north_face_eu,Coimbra,4
+UNKNOWN,the_north_face_eu,Porto,9
+UNKNOWN,the_north_face_eu,Santo Tirso,3
+UNKNOWN,the_north_face_eu,Guimarães,7
+UNKNOWN,the_north_face_eu,Povoa de Varzim,3
+UNKNOWN,the_north_face_eu,Vila Nova de Famalicão,2
+UNKNOWN,the_north_face_eu,Braga,6
+UNKNOWN,the_north_face_eu,Barcelos,1
+UNKNOWN,the_north_face_eu,Paços de Ferreira,2
+UNKNOWN,the_north_face_eu,Povoa de Lanhoso,1
+UNKNOWN,the_north_face_eu,Caldas das Taipas,1
+UNKNOWN,the_north_face_eu,Vila Real,2
+UNKNOWN,the_north_face_eu,Santa Maria da Feira,1
+UNKNOWN,the_north_face_eu,Figueira da Foz,1
+UNKNOWN,the_north_face_eu,Chaves,1
+UNKNOWN,the_north_face_eu,Aveiro,4
+UNKNOWN,the_north_face_eu,Vila Nova de Gaia,2
+UNKNOWN,the_north_face_eu,São João Madeira,1
+UNKNOWN,the_north_face_eu,Viseu,2
+UNKNOWN,the_north_face_eu,Marco de Canaveses,1
+UNKNOWN,the_north_face_eu,Caminha,1
+UNKNOWN,the_north_face_eu,Praia da Barra,1
+UNKNOWN,the_north_face_eu,Macedo de Cavaleiros,1
+UNKNOWN,the_north_face_eu,Ponta Delgada,1
+UNKNOWN,the_north_face_eu,Rio Tinto,1
+UNKNOWN,the_north_face_eu,Viana do castelo,1
+UNKNOWN,the_north_face_eu,Faro,1
+UNKNOWN,the_north_face_eu,Setubal,1
+UNKNOWN,the_north_face_eu,Castelo Branco,1
+UNKNOWN,timberland,Lisboa,4
+UNKNOWN,timberland,Faro,1
+UNKNOWN,timberland,Coimbra,1
+UNKNOWN,timberland,Alcabideche,1
+UNKNOWN,timberland,Aveiro,1
+ALGARVE,timberland,Albufeira,1
+UNKNOWN,timberland,Almada,1
+PORTO,timberland,Senhora da hora,1
+UNKNOWN,timberland,Viseu,1
+UNKNOWN,timberland,Matosinhos,1
+LISBOA,timberland,Odivelas,1
+PORTO,timberland,Modivas,1
+LISBOA,timberland,Montijo,1
+MADEIRA,timberland,Funchal,1
+PORTO,timberland,Vila Nova de Gaia,1
+UNKNOWN,timberland,Leiria,1
+LISBOA,timberland,Alcochete,1
+ALGARVE,timberland,Almancil,1
+LISBOA,timberland,Oeiras,1
+UNKNOWN,tommy_hilfiger,Vila do Conde Porto,1
+UNKNOWN,tommy_hilfiger,Lisbon,2
+UNKNOWN,tommy_hilfiger,Braga,1
+UNKNOWN,tommy_hilfiger,Alcochete,1
+UNKNOWN,tommy_hilfiger,Matosinhos,1
+AZORES,tops_at_spar,Mt Frere,1
+AZORES,tops_at_spar,Port Edward ,1
+AZORES,tops_at_spar,Vryheid ,1
+UNKNOWN,totalenergies,CARREGAL DO SAL,2
+UNKNOWN,totalenergies,MATOSINHOS,10
+UNKNOWN,totalenergies,AMARES,4
+UNKNOWN,totalenergies,VIZELA,2
+UNKNOWN,totalenergies,EL CASTILLO DE LAS GUARDAS,1
+UNKNOWN,totalenergies,MOIMENTA DA BEIRA,3
+UNKNOWN,totalenergies,VILA NOVA DE FAMALICAO,10
+UNKNOWN,totalenergies,VILA REAL,4
+UNKNOWN,totalenergies,AVEIRO,5
+UNKNOWN,totalenergies,BRAGANÇA,3
+UNKNOWN,totalenergies,OLHAO,6
+UNKNOWN,totalenergies,AMADORA,2
+UNKNOWN,totalenergies,GONDOMAR,4
+UNKNOWN,totalenergies,ALMEIRIM,3
+UNKNOWN,totalenergies,LAGOA,6
+UNKNOWN,totalenergies,MOITA,7
+UNKNOWN,totalenergies,VILA NOVA DE GAIA,8
+UNKNOWN,totalenergies,TERRAS DE BOURO,2
+UNKNOWN,totalenergies,PENAFIEL,6
+UNKNOWN,totalenergies,PORTIMAO,4
+UNKNOWN,totalenergies,ALCACER DO SAL,3
+UNKNOWN,totalenergies,MIRANDA DO DOURO,4
+UNKNOWN,totalenergies,OVAR,10
+UNKNOWN,totalenergies,SEIXAL,10
+UNKNOWN,totalenergies,PAÇOS DE FERREIRA,2
+UNKNOWN,totalenergies,TONDELA,2
+UNKNOWN,totalenergies,GUARDA,6
+UNKNOWN,totalenergies,VILA FRANCA DE XIRA,4
+UNKNOWN,totalenergies,OPORTO,7
+UNKNOWN,totalenergies,CASTELO DE PAIVA,3
+UNKNOWN,totalenergies,ESPOSENDE,2
+UNKNOWN,totalenergies,SILVES,6
+UNKNOWN,totalenergies,VOUZELA,2
+UNKNOWN,totalenergies,LISBOA,9
+UNKNOWN,totalenergies,SESIMBRA,2
+UNKNOWN,totalenergies,AGUEDA,1
+UNKNOWN,totalenergies,SANTO TIRSO,2
+UNKNOWN,totalenergies,VALONGO,6
+UNKNOWN,totalenergies,VILA DO CONDE,7
+UNKNOWN,totalenergies,BEJA,1
+UNKNOWN,totalenergies,TAVIRA,2
+UNKNOWN,totalenergies,PALMELA,9
+UNKNOWN,totalenergies,CADAVAL,2
+UNKNOWN,totalenergies,CINFAES,2
+UNKNOWN,totalenergies,CORUCHE,1
+UNKNOWN,totalenergies,PAREDES,10
+UNKNOWN,totalenergies,OLIVEIRA DE AZEMEIS,6
+UNKNOWN,totalenergies,PENICHE,2
+UNKNOWN,totalenergies,ALBUFEIRA,4
+UNKNOWN,totalenergies,SANTA COMBA DAO,8
+UNKNOWN,totalenergies,MAIA,7
+UNKNOWN,totalenergies,COIMBRA,10
+UNKNOWN,totalenergies,CHAVES,4
+UNKNOWN,totalenergies,MARCO DE CANAVESES,3
+UNKNOWN,totalenergies,CASCAIS,16
+UNKNOWN,totalenergies,BARCELOS,6
+UNKNOWN,totalenergies,LOULE,4
+UNKNOWN,totalenergies,ALIJO,2
+UNKNOWN,totalenergies,SANTA MARIA DA FEIRA,8
+UNKNOWN,totalenergies,PORTALEGRE,2
+UNKNOWN,totalenergies,PORTO DE MOS,2
+UNKNOWN,totalenergies,ESTREMOZ,2
+UNKNOWN,totalenergies,SAO JOAO DA MADEIRA,1
+UNKNOWN,totalenergies,OUREM,2
+UNKNOWN,totalenergies,COVILHA,2
+UNKNOWN,totalenergies,ALCANENA,1
+UNKNOWN,totalenergies,MARINHA GRANDE,2
+UNKNOWN,totalenergies,FELGUEIRAS,2
+UNKNOWN,totalenergies,GUIMARAES,5
+UNKNOWN,totalenergies,MAXIMINOS,2
+UNKNOWN,totalenergies,VIDIGUEIRA,4
+UNKNOWN,totalenergies,VALPACOS,2
+UNKNOWN,totalenergies,TORRES NOVAS,4
+UNKNOWN,totalenergies,ALVAIAZARE,2
+UNKNOWN,totalenergies,TOMAR,2
+UNKNOWN,totalenergies,SINTRA,9
+UNKNOWN,totalenergies,NELAS,6
+UNKNOWN,totalenergies,VILA VERDE,5
+UNKNOWN,totalenergies,SANTAREM,4
+UNKNOWN,totalenergies,ARCOS DE VALDEVEZ,1
+UNKNOWN,totalenergies,PENELA,2
+UNKNOWN,totalenergies,LOUROSA,3
+UNKNOWN,totalenergies,ODEMIRA,4
+UNKNOWN,totalenergies,BRAGA,12
+UNKNOWN,totalenergies,CARRAZEDA DE ANSIAES,2
+UNKNOWN,totalenergies,FARO,4
+UNKNOWN,totalenergies,VINHAIS,2
+UNKNOWN,totalenergies,LAGOS,4
+UNKNOWN,totalenergies,SAO BRAS DE ALPORTEL,2
+UNKNOWN,totalenergies,ARGANIL,4
+UNKNOWN,totalenergies,CELORICO DA BEIRA,2
+UNKNOWN,totalenergies,TRANCOSO,2
+UNKNOWN,totalenergies,FIGUEIRO DOS VINHOS,3
+UNKNOWN,totalenergies,ALVAIAZERE,2
+UNKNOWN,totalenergies,LOURES,2
+UNKNOWN,totalenergies,ALCOBAÇA,2
+UNKNOWN,totalenergies,CHAMUSCA,2
+UNKNOWN,totalenergies,ODIVELAS,6
+UNKNOWN,totalenergies,OEIRAS,2
+UNKNOWN,totalenergies,AVIS,2
+UNKNOWN,totalenergies,PONTE DE SOR,2
+UNKNOWN,totalenergies,SAO JOAO DA PESQUEIRA,2
+UNKNOWN,totalenergies,PAREDES DO COURA,2
+UNKNOWN,totalenergies,TROFA,6
+UNKNOWN,totalenergies,PONTE LIMA,2
+UNKNOWN,totalenergies,VILA NOVA DE PAIVA,2
+UNKNOWN,totalenergies,VISEU,4
+UNKNOWN,totalenergies,ILHAVO,1
+UNKNOWN,totalenergies,LEIRIA,6
+UNKNOWN,totalenergies,MELGAÇO,2
+UNKNOWN,totalenergies,ALBERGARIA-A-VELHA,2
+UNKNOWN,totalenergies,FIGUEIRA DE CASTELO RODRIGO,3
+UNKNOWN,totalenergies,FAFE,2
+UNKNOWN,totalenergies,VALE DE CAMBRA,2
+UNKNOWN,totalenergies,AGUIAR DA BEIRA,3
+UNKNOWN,totalenergies,MAFRA,3
+UNKNOWN,totalenergies,TORRES VEDRAS,2
+UNKNOWN,totalenergies,ALMODOVAR,2
+UNKNOWN,totalenergies,FERREIRA DO ZEZERE,2
+UNKNOWN,totalenergies,ABRANTES,2
+UNKNOWN,totalenergies,PALMEIRA BGR,4
+UNKNOWN,totalenergies,CASTELO BRANCO,2
+UNKNOWN,totalenergies,FUNDAO,2
+UNKNOWN,totalenergies,CONDEIXA-A-NOVA,4
+UNKNOWN,totalenergies,VIANA DO CASTELO,2
+UNKNOWN,totalenergies,LOUSADA,2
+UNKNOWN,totalenergies,ESPINHO-AVEIRO,1
+UNKNOWN,totalenergies,MIRANDELA,2
+UNKNOWN,totalenergies,SATAO,2
+UNKNOWN,totalenergies,MONTIJO,5
+UNKNOWN,totalenergies,BARREIRO,1
+UNKNOWN,totalenergies,COJA,2
+UNKNOWN,totalenergies,MACEDO DE CAVALEIROS,2
+UNKNOWN,totalenergies,OLIVEIRA DO BAIRRO,2
+UNKNOWN,totalenergies,MIRANDA DO DOURO-TRAS OS MONTES,1
+UNKNOWN,totalenergies,PORTO,6
+UNKNOWN,totalenergies,BATALHA,1
+UNKNOWN,totalenergies,ELVAS,2
+UNKNOWN,totalenergies,S. JOAO MADEIRA,1
+UNKNOWN,totalenergies,VIEIRA DE LEIRIA,1
+UNKNOWN,totalenergies,MAXIMINOS-BRAGA,1
+UNKNOWN,totalenergies,ROMARIZ-FEIRA,1
+UNKNOWN,totalenergies,ÍLHAVO,1
+UNKNOWN,totalenergies,SAO PEDRO DE PENAFERRIM,1
+UNKNOWN,totalenergies,SETUBAL,1
+UNKNOWN,totalenergies,MONFORTE,1
+UNKNOWN,united_colors_of_benetton,EVORA,2
+UNKNOWN,united_colors_of_benetton,LISBOA,12
+UNKNOWN,united_colors_of_benetton,PACOS DE FERREIRA,1
+UNKNOWN,united_colors_of_benetton,FUNCHAL-MADEIRA,2
+UNKNOWN,united_colors_of_benetton,BRAGA,3
+UNKNOWN,united_colors_of_benetton,QUARTEIRA,1
+UNKNOWN,united_colors_of_benetton,GUIMARAES,1
+UNKNOWN,united_colors_of_benetton,SANTAREM,2
+UNKNOWN,united_colors_of_benetton,MATOSINHOS,3
+UNKNOWN,united_colors_of_benetton,GUARDA,1
+UNKNOWN,united_colors_of_benetton,AMADORA,1
+UNKNOWN,united_colors_of_benetton,VISEU,1
+UNKNOWN,united_colors_of_benetton,TAVIRA,1
+UNKNOWN,united_colors_of_benetton,AGUEDA,1
+UNKNOWN,united_colors_of_benetton,BEJA,1
+UNKNOWN,united_colors_of_benetton,VILANOVA DE GAIA,2
+UNKNOWN,united_colors_of_benetton,Angra do Heroísmo,1
+UNKNOWN,united_colors_of_benetton,BARCELOS,1
+UNKNOWN,united_colors_of_benetton,SETUBAL,2
+UNKNOWN,united_colors_of_benetton,CALDAS DA RAINHA,1
+UNKNOWN,united_colors_of_benetton,FIGUEIRA DA FOZ,1
+UNKNOWN,united_colors_of_benetton,PENAFIEL,1
+UNKNOWN,united_colors_of_benetton,MONTIJO,1
+UNKNOWN,united_colors_of_benetton,BRAGANCA,1
+UNKNOWN,united_colors_of_benetton,AMARANTE,1
+UNKNOWN,united_colors_of_benetton,OEIRAS,3
+UNKNOWN,united_colors_of_benetton,FAFE,1
+UNKNOWN,united_colors_of_benetton,POVOA DE VARZIM,3
+UNKNOWN,united_colors_of_benetton,PONTE DE LIMA,1
+UNKNOWN,united_colors_of_benetton,POVOA DE LANHOSO,1
+UNKNOWN,united_colors_of_benetton,MARCO DE CANAVESES,1
+UNKNOWN,united_colors_of_benetton,COVILHA,1
+UNKNOWN,united_colors_of_benetton,ALMADA,1
+UNKNOWN,united_colors_of_benetton,PORTO,3
+UNKNOWN,united_colors_of_benetton,CASCAIS,2
+UNKNOWN,united_colors_of_benetton,VILA NOVA DE FAMALICAO,1
+UNKNOWN,united_colors_of_benetton,VILA REAL DE SANTO ANTONIO,1
+UNKNOWN,united_colors_of_benetton,TORRES VEDRAS,1
+UNKNOWN,united_colors_of_benetton,MIRANDELA,1
+UNKNOWN,united_colors_of_benetton,FARO,1
+UNKNOWN,united_colors_of_benetton,AVEIRO,3
+UNKNOWN,united_colors_of_benetton,CASTELO BRANCO,2
+UNKNOWN,united_colors_of_benetton,PONTA DELGADA,1
+UNKNOWN,united_colors_of_benetton,TOMAR,1
+UNKNOWN,united_colors_of_benetton,ESPOSENDE,1
+UNKNOWN,united_colors_of_benetton,LEIRIA,2
+UNKNOWN,united_colors_of_benetton,TORRES NOVAS,1
+UNKNOWN,united_colors_of_benetton,ESPINHO,1
+UNKNOWN,united_colors_of_benetton,MAIA,1
+UNKNOWN,united_colors_of_benetton,PORTALEGRE,1
+UNKNOWN,united_colors_of_benetton,CHAVES,1
+UNKNOWN,united_colors_of_benetton,VIANA DO CASTELO,1
+UNKNOWN,united_colors_of_benetton,VILA REAL,1
+UNKNOWN,united_colors_of_benetton,COIMBRA,1
+UNKNOWN,united_colors_of_benetton,OVAR,1
+UNKNOWN,united_colors_of_benetton,FELGUEIRAS,1
+UNKNOWN,united_colors_of_benetton,POMBAL,1
+UNKNOWN,united_colors_of_benetton,SAO JOAO DE MADEIRA,1
+ALGARVE,vans,Faro,1
+MADEIRA,vans,Funchal,1
+REGIÃODONORTE,vans,Vila Nova De Gaia,1
+LISBOA,vans,Lisboa,2
+REGIÃODOCENTRO,vans,Leiria,1
+LISBOA,vans,Alcabideche,1
+LISBOA,vans,Almada,1
+LISBOA,vans,Oeiras,1
+LISBOA,vans,Alcochete,1
+LEIRIA,vans,Leiria,1
+UNKNOWN,visa,FUNCHAL (SANTA MARIA MAIOR),43
+UNKNOWN,visa,FUNCHAL,93
+UNKNOWN,visa,CANICO,12
+UNKNOWN,visa,STA CRUZ BISPO,1
+UNKNOWN,visa,SANTA CRUZ,10
+UNKNOWN,visa,SANTA CRUZ - CANICO,1
+UNKNOWN,visa,CAMACHA,4
+UNKNOWN,visa,FUNCHAL (SANTA LUZIA),9
+UNKNOWN,visa,FUNCHAL (SE),10
+UNKNOWN,visa,MACHICO,11
+UNKNOWN,visa,SANTA MARIA MAIOR,208
+UNKNOWN,visa,SAO MARTINHO,11
+UNKNOWN,visa,FUNCHAL (SAO PEDRO),1
+UNKNOWN,visa,MONTE - FUNCHAL,1
+UNKNOWN,visa,SAO ROQUE - FUNCHAL,1
+UNKNOWN,visa,PONTA DELGADA,39
+UNKNOWN,visa,SAO VICENTE,29
+UNKNOWN,visa,MONTE,1
+UNKNOWN,visa,CAMARA DE LOBOS,10
+UNKNOWN,visa,JARDIM DA SERRA,1
+UNKNOWN,visa,RIBEIRA BRAVA,9
+UNKNOWN,visa,PONTA DO SOL,4
+UNKNOWN,visa,SANTANA,6
+UNKNOWN,visa,PORTO SANTO,3
+UNKNOWN,visa,CALHETA,16
+UNKNOWN,visa,S VICENTE,1
+UNKNOWN,visa,SEIXAL,37
+UNKNOWN,visa,PORTO MONIZ,6
+UNKNOWN,visa,UDFD FARO (SE E SAO PEDRO),29
+UNKNOWN,visa,OLHAO,29
+UNKNOWN,visa,FARO,74
+UNKNOWN,visa,PECHAO-OLHAO,1
+UNKNOWN,visa,GAMBELAS - FARO,1
+UNKNOWN,visa,PONTES MARCHIL,3
+UNKNOWN,visa,FUZETA,2
+UNKNOWN,visa,SITIO DA MA VONTADE,1
+UNKNOWN,visa,MONTENEGRO,4
+UNKNOWN,visa,UDFD MONCARAPACHO E FUSETA,2
+UNKNOWN,visa,ALMANCIL,33
+UNKNOWN,visa,LOULE (SAO CLEMENTE),32
+UNKNOWN,visa,BOLIQUEIME,2
+UNKNOWN,visa,UDFD CONCEICAO E CABANAS DE TAVIRA,12
+UNKNOWN,visa,TAVIRA,21
+UNKNOWN,visa,UDFD TAVIRA (SANTA MARIA E SANTIAGO),22
+UNKNOWN,visa,SANTA LUZIA,3
+UNKNOWN,visa,MONCARAPACHO,2
+UNKNOWN,visa,CABANAS,2
+UNKNOWN,visa,VALE DO LOBO,1
+UNKNOWN,visa,"UDFD CEDOFEITA, SANTO ILDEFONSO, SE, MIRAGAIA, SAO",186
+UNKNOWN,visa,QUINTA DO LAGO,2
+UNKNOWN,visa,VILA NOVA DE CACELA,4
+UNKNOWN,visa,QUARTEIRA,76
+UNKNOWN,visa,MONTE GORDO,9
+UNKNOWN,visa,VILA REAL DE SANTO ANTONIO,29
+UNKNOWN,visa,CASTRO MARIM,7
+UNKNOWN,visa,ENCALHE - VILA REAL SANTO ANTONIO,1
+UNKNOWN,visa,SANTA BARBARA DE NEXE,1
+UNKNOWN,visa,VILAMOURA,10
+UNKNOWN,visa,ALCOCHETE,12
+UNKNOWN,visa,ALTURA,1
+UNKNOWN,visa,MANTA ROTA,1
+UNKNOWN,visa,STA CATARINA FONTE BISPO,1
+UNKNOWN,visa,ALBUFEIRA E OLHOS DE AGUA,240
+UNKNOWN,visa,ALBUFEIRA,39
+UNKNOWN,visa,LOULE,19
+UNKNOWN,visa,ACOTEIAS,1
+UNKNOWN,visa,SAO BRAS DE ALPORTEL,6
+UNKNOWN,visa,GUIA,16
+UNKNOWN,visa,LOULE (SAO SEBASTIAO),1
+UNKNOWN,visa,ARMACAO DE PERA,15
+UNKNOWN,visa,SILVES,22
+UNKNOWN,visa,UDFD LAGOA E CARVOEIRO,52
+UNKNOWN,visa,FERREIRAS,1
+UNKNOWN,visa,GUIA OESTE - POMBAL,1
+UNKNOWN,visa,GUIA OESTE,1
+UNKNOWN,visa,CARVOEIRO,4
+UNKNOWN,visa,PORCHES,3
+UNKNOWN,visa,SAGRES,14
+UNKNOWN,visa,ALCANTARILHA,1
+UNKNOWN,visa,UDFD ALCANTARILHA E PERA,2
+UNKNOWN,visa,VILA DO BISPO E RAPOSEIRA,4
+UNKNOWN,visa,LAGOA,20
+UNKNOWN,visa,SILVES-PERA,1
+UNKNOWN,visa,TUNES,1
+UNKNOWN,visa,PORTIMAO,96
+UNKNOWN,visa,SAO GONCALO DE LAGOS,90
+UNKNOWN,visa,ALGOZ,2
+UNKNOWN,visa,FERRAGUDO,7
+UNKNOWN,visa,PRAIA DA ROCHA - PORTIMAO,1
+UNKNOWN,visa,PRAIA DA ROCHA,2
+UNKNOWN,visa,MEIXILHOEIRA GRANDE,1
+UNKNOWN,visa,BUDENS,11
+UNKNOWN,visa,LAGOS,22
+UNKNOWN,visa,LUZ,11
+UNKNOWN,visa,PARCHAL,1
+UNKNOWN,visa,ALVOR,34
+UNKNOWN,visa,ESTOMBAR,1
+UNKNOWN,visa,SAO VALE DO POUCO,1
+UNKNOWN,visa,VILA DO BISPO,3
+UNKNOWN,visa,BIDENS,1
+UNKNOWN,visa,ALTE,1
+UNKNOWN,visa,ODEAXERE,1
+UNKNOWN,visa,SAO BARTOLOMEU DE MESSINES,3
+UNKNOWN,visa,MEXILHOEIRA GRANDE,1
+UNKNOWN,visa,BORDEIRA,2
+UNKNOWN,visa,ALCOUTIM,1
+UNKNOWN,visa,ALMODOVAR,4
+UNKNOWN,visa,MONCHIQUE,4
+UNKNOWN,visa,ALJEZUR,14
+UNKNOWN,visa,ODECEIXE,4
+UNKNOWN,visa,ROGIL,1
+UNKNOWN,visa,MERTOLA,2
+UNKNOWN,visa,CASTRO VERDE,5
+UNKNOWN,visa,ODEMIRA,9
+UNKNOWN,visa,SAO LUIS,4
+UNKNOWN,visa,OURIQUE,3
+UNKNOWN,visa,VILA NOVA DE SAO BENTO,1
+UNKNOWN,visa,VILA VERDE FICALHO,1
+UNKNOWN,visa,VILA VERDE DE FICALHO,1
+UNKNOWN,visa,SERPA,4
+UNKNOWN,visa,VILA NOVA DE MILFONTES,7
+UNKNOWN,visa,VILA NOVA MILFONTES,1
+UNKNOWN,visa,BEJA,36
+UNKNOWN,visa,CABECA GORDA,1
+UNKNOWN,visa,ALJUSTREL,4
+UNKNOWN,visa,STO ALEIXO RESTAURACAO MOURA,1
+UNKNOWN,visa,CERCAL,2
+UNKNOWN,visa,PIAS,1
+UNKNOWN,visa,BARRANCOS,2
+UNKNOWN,visa,MOURA,9
+UNKNOWN,visa,ERVIDEL,1
+UNKNOWN,visa,SANTA MARIA DA FEIRA,20
+UNKNOWN,visa,SINES,15
+UNKNOWN,visa,ALVALADE DO SADO,1
+UNKNOWN,visa,BERINGEL,1
+UNKNOWN,visa,ERMIDAS-SADO,1
+UNKNOWN,visa,AMARELEJA,1
+UNKNOWN,visa,FERREIRA DO ALENTEJO,3
+UNKNOWN,visa,ERMIDAS DO SADO,2
+UNKNOWN,visa,SANTIAGO DO CACEM,15
+UNKNOWN,visa,QUINTALOES,1
+UNKNOWN,visa,CUBA,4
+UNKNOWN,visa,GRANDOLA,10
+UNKNOWN,visa,VIDIGUEIRA,2
+UNKNOWN,visa,AZINHAL,1
+UNKNOWN,visa,VILA NOVA SANTO ANDRE,1
+UNKNOWN,visa,SANTO ANDRE,5
+UNKNOWN,visa,VILA NOVA DE SANTO,1
+UNKNOWN,visa,MOURAO,3
+UNKNOWN,visa,ALVITO,3
+UNKNOWN,visa,PORTEL,2
+UNKNOWN,visa,MELIDES,4
+UNKNOWN,visa,UDFD GRANDOLA E SANTA MARGARIDA DA SERRA,3
+UNKNOWN,visa,CARVALHAL,3
+UNKNOWN,visa,VIANA DO ALENTEJO,4
+UNKNOWN,visa,TORREAO,1
+UNKNOWN,visa,TORRAO,1
+UNKNOWN,visa,REGUENGOS MONSARAZ,1
+UNKNOWN,visa,REGUENGOS DE MONSARAZ,6
+UNKNOWN,visa,MONTE DO TRIGO,1
+UNKNOWN,visa,REGUENGOS DE MONSARA,1
+UNKNOWN,visa,ALCACER DO SAL,8
+UNKNOWN,visa,SAO MANCOS,1
+UNKNOWN,visa,ALCACOVAS,2
+UNKNOWN,visa,UDFD ALCACER DO SAL (SANTA MARIA DO CASTELO E SANTIAGO) E SANTA SUSANA,1
+UNKNOWN,visa,EVORA,55
+UNKNOWN,visa,MONTEMOR O NOVO,8
+UNKNOWN,visa,"UDFD EVORA (SAO MAMEDE, SE, SAO PEDRO E SANTO ANTAO)",7
+UNKNOWN,visa,SENTIDO LX/EVORA,1
+UNKNOWN,visa,REDONDO,2
+UNKNOWN,visa,SANTIAGO DO ESCOURAL,1
+UNKNOWN,visa,BAIRRO BACELO,1
+UNKNOWN,visa,CANAVIAIS,1
+UNKNOWN,visa,ALANDROAL,2
+UNKNOWN,visa,SESIMBRA (SANTIAGO),5
+UNKNOWN,visa,VILA VICOSA,6
+UNKNOWN,visa,SESIMBRA,8
+UNKNOWN,visa,BENCATEL,1
+UNKNOWN,visa,SAO ROMAO,3
+UNKNOWN,visa,AZARUJA,1
+UNKNOWN,visa,SETUBAL,70
+UNKNOWN,visa,RIO DE MOINHOS,1
+UNKNOWN,visa,FAJARDA,1
+UNKNOWN,visa,SETUBAL (SAO SEBASTIAO),6
+UNKNOWN,visa,"UDFD SETUBAL (SAO JULIAO, NOSSA SENHORA DA ANUNCIADA E SANTA MARIA DA GRACA)",2
+UNKNOWN,visa,S. SEBASTIAO - SETUBAL,1
+UNKNOWN,visa,MONTEMOR-O-NOVO,1
+UNKNOWN,visa,VENDAS DE AZEITAO,1
+UNKNOWN,visa,ALFARIM,1
+UNKNOWN,visa,BORBA,5
+UNKNOWN,visa,MONTE BELO,2
+UNKNOWN,visa,OUTAO,1
+UNKNOWN,visa,PALMELA,17
+UNKNOWN,visa,TROIA,1
+UNKNOWN,visa,MITRENA,1
+UNKNOWN,visa,ALFRAGIDE,19
+UNKNOWN,visa,AGUAS DE MOURA,1
+UNKNOWN,visa,ESTREMOZ,10
+UNKNOWN,visa,BREJOS DE AZEITAO,3
+UNKNOWN,visa,ARRAIOLOS,3
+UNKNOWN,visa,ELVAS,18
+UNKNOWN,visa,QUINTA DO ANJO,3
+UNKNOWN,visa,LAGES,1
+UNKNOWN,visa,VOLTA DA PEDRA,1
+UNKNOWN,visa,ARCOS,1
+UNKNOWN,visa,QUINTA DO CONDE,5
+UNKNOWN,visa,VENDAS NOVAS,7
+UNKNOWN,visa,QUINTA CONDE,1
+UNKNOWN,visa,POCEIRAO,1
+UNKNOWN,visa,FERNAO FERRO,4
+UNKNOWN,visa,PEGOES,2
+UNKNOWN,visa,BARREIRO,46
+UNKNOWN,visa,PINHAL NOVO,15
+UNKNOWN,visa,PEGOES VELHOS,1
+UNKNOWN,visa,CORROIOS,15
+UNKNOWN,visa,CHARNECA DA CAPARICA,7
+UNKNOWN,visa,"UDFD ALMADA, COVA DA PIEDADE, PRAGAL E CACILHAS",10
+UNKNOWN,visa,VIMIEIRO,2
+UNKNOWN,visa,CASAL DO MARCO,3
+UNKNOWN,visa,FOGUETEIRO,7
+UNKNOWN,visa,BAIXA DA BANHEIRA,10
+UNKNOWN,visa,AMORA,7
+UNKNOWN,visa,TORRE DA MARINHA-SEIXAL,1
+UNKNOWN,visa,MOITA,12
+UNKNOWN,visa,ST ANTONIO CHARNECA-,1
+UNKNOWN,visa,PAIVAS AMORA,1
+UNKNOWN,visa,PAIVAS,6
+UNKNOWN,visa,PAIO PIRES,2
+UNKNOWN,visa,ALMADA,53
+UNKNOWN,visa,CRUZ DE PAU,6
+UNKNOWN,visa,VALE DA AMOREIRA,1
+UNKNOWN,visa,VALE MOREIRA,1
+UNKNOWN,visa,ALHOS VEDROS,6
+UNKNOWN,visa,QUINTA DA LOMBA,2
+UNKNOWN,visa,FOROS DE VALE DE FIGUEIRA,1
+UNKNOWN,visa,SANTA MARTA DO PINHAL,2
+UNKNOWN,visa,MOITA DO RIBATEJO,1
+UNKNOWN,visa,VALE DE MILHACOS,2
+UNKNOWN,visa,SOBREADA DA CAPARICA,1
+UNKNOWN,visa,SANTA MARTA CORROIOS,1
+UNKNOWN,visa,BAIXA BANHEIRA,1
+UNKNOWN,visa,SARILHOS GRANDES,2
+UNKNOWN,visa,CAMPO MAIOR,8
+UNKNOWN,visa,LAVRADIO,9
+UNKNOWN,visa,MONTIJO,28
+UNKNOWN,visa,MIRATEJO,1
+UNKNOWN,visa,LANCADA - MONTIJO,1
+UNKNOWN,visa,OEIRAS,53
+UNKNOWN,visa,SAMOUCO,3
+UNKNOWN,visa,UDFD LARANJEIRO E FEIJO,1
+UNKNOWN,visa,COSTA DA CAPARICA,21
+UNKNOWN,visa,MONTE DA CAPARICA,11
+UNKNOWN,visa,FEIJO,5
+UNKNOWN,visa,LARANJEIRO,9
+UNKNOWN,visa,TRAFARIA,3
+UNKNOWN,visa,SOBREDA DA CAPARICA,1
+UNKNOWN,visa,CANHA,1
+UNKNOWN,visa,COVA DA PIEDADE,9
+UNKNOWN,visa,SOUSEL,4
+UNKNOWN,visa,PRAGAL,4
+UNKNOWN,visa,CACILHAS,6
+UNKNOWN,visa,SOUSELO,1
+UNKNOWN,visa,ALFEITE,4
+UNKNOWN,visa,PORTO BRANDAO,1
+UNKNOWN,visa,COSTA CAPARICA,1
+UNKNOWN,visa,PAVIA,1
+UNKNOWN,visa,BROTAS,1
+UNKNOWN,visa,CASA BRANCA,1
+UNKNOWN,visa,LISBOA,1007
+UNKNOWN,visa,MISERICORDIA,75
+UNKNOWN,visa,BELEM,5
+UNKNOWN,visa,ALCANTARA,8
+UNKNOWN,visa,CHELAS,1
+UNKNOWN,visa,LISBO,1
+UNKNOWN,visa,ESTRELA,15
+UNKNOWN,visa,CANO,1
+UNKNOWN,visa,AVENIDAS NOVAS,21
+UNKNOWN,visa,LISBOAA,1
+UNKNOWN,visa,BEATO,1
+UNKNOWN,visa,ARROIOS,37
+UNKNOWN,visa,SANTO ANTONIO,26
+UNKNOWN,visa,ALGES,13
+UNKNOWN,visa,PENHA DE FRANCA,2
+UNKNOWN,visa,CAMPO DE OURIQUE,2
+UNKNOWN,visa,CARCAVELOS,21
+UNKNOWN,visa,UDFD CARCAVELOS E PAREDE,6
+UNKNOWN,visa,AVEIRAS DE CIMA-AZAMBUJA,1
+UNKNOWN,visa,LINDA A VELHA,16
+UNKNOWN,visa,PACO DE ARCOS,11
+UNKNOWN,visa,CRUZ QUEBRADA,3
+UNKNOWN,visa,RESTELO,1
+UNKNOWN,visa,TIRES,3
+UNKNOWN,visa,S DOMINGO,1
+UNKNOWN,visa,AJUDA,1
+UNKNOWN,visa,AMADORA,69
+UNKNOWN,visa,REBELVA - CARCAVELOS,1
+UNKNOWN,visa,PAREDE,22
+UNKNOWN,visa,CAMPOLIDE,3
+UNKNOWN,visa,CAXIAS,2
+UNKNOWN,visa,MIRAFLORES,3
+UNKNOWN,visa,BARCARENA,3
+UNKNOWN,visa,LINDA-A-VELHA,5
+UNKNOWN,visa,QUEIJAS,5
+UNKNOWN,visa,CARNAXIDE,20
+UNKNOWN,visa,QUELUZ,25
+UNKNOWN,visa,LINHO,3
+UNKNOWN,visa,S. DOMINGOS DE RANA,1
+UNKNOWN,visa,REBELVA,1
+UNKNOWN,visa,AREEIRO,3
+UNKNOWN,visa,BENFICA,1
+UNKNOWN,visa,MARVILA,1
+UNKNOWN,visa,"UDFD OEIRAS E SAO JULIAO DA BARRA, PACO DE ARCOS E CAXIAS",3
+UNKNOWN,visa,SAO DOMINGOS DE RANA,8
+UNKNOWN,visa,TIRES SAO DOMINGOS DE RANA,1
+UNKNOWN,visa,UDFD CARNAXIDE E QUEIJAS,1
+UNKNOWN,visa,ESTORIL,20
+UNKNOWN,visa,MOLEDO,1
+UNKNOWN,visa,CASCAIS,54
+UNKNOWN,visa,TRAJOUCE,1
+UNKNOWN,visa,MONFORTE,2
+UNKNOWN,visa,PARQUE DAS NACOES,16
+UNKNOWN,visa,PORTO SALVO,5
+UNKNOWN,visa,UDFD CASCAIS E ESTORIL,59
+UNKNOWN,visa,SAO JOAO DO ESTORIL,7
+UNKNOWN,visa,SAO DOMINGOS DE BENFICA,2
+UNKNOWN,visa,RIO DE MOURO,21
+UNKNOWN,visa,CABECAO,1
+UNKNOWN,visa,BURACA,1
+UNKNOWN,visa,POMBAL,27
+UNKNOWN,visa,S.DOMINGOS DE RANA,1
+UNKNOWN,visa,ALVALADE,2
+UNKNOWN,visa,PORTELA SACAVEM,3
+UNKNOWN,visa,OLIVAIS,4
+UNKNOWN,visa,MORA,3
+UNKNOWN,visa,MONTE ESTORIL,3
+UNKNOWN,visa,DAMAIA,6
+UNKNOWN,visa,ODIVELAS,41
+UNKNOWN,visa,ALCABIDECHE,18
+UNKNOWN,visa,MANIQUE DE BAIXO,1
+UNKNOWN,visa,MINA DE AGUA,1
+UNKNOWN,visa,CARNIDE,6
+UNKNOWN,visa,PARQUE NACOES,1
+UNKNOWN,visa,ABOBODA,4
+UNKNOWN,visa,FONTAINHAS,1
+UNKNOWN,visa,QUELUZ DE BAIXO,2
+UNKNOWN,visa,REBOLEIRA,8
+UNKNOWN,visa,VENDA NOVA,8
+UNKNOWN,visa,MOSCAVIDE,2
+UNKNOWN,visa,BENAVENTE,8
+UNKNOWN,visa,PONTINHA,3
+UNKNOWN,visa,MASSAMA,25
+UNKNOWN,visa,QUELUZ OCIDENTAL,2
+UNKNOWN,visa,VENTEIRA,5
+UNKNOWN,visa,CASAL DE CAMBRA,2
+UNKNOWN,visa,COLINA DO SOL,1
+UNKNOWN,visa,PORTELA DE SACAVEM,3
+UNKNOWN,visa,ALCOITAO,1
+UNKNOWN,visa,LOURES,31
+UNKNOWN,visa,VENDA NOVA-AMADORA,1
+UNKNOWN,visa,UDFD SINTRA,17
+UNKNOWN,visa,RANHOLAS,1
+UNKNOWN,visa,TERCENA,2
+UNKNOWN,visa,AMOREIRA,2
+UNKNOWN,visa,CACEM,44
+UNKNOWN,visa,SACAVEM,29
+UNKNOWN,visa,BRANDOA,6
+UNKNOWN,visa,BELAS,8
+UNKNOWN,visa,MASSAMA NORTE,1
+UNKNOWN,visa,UDFD QUELUZ E BELAS,1
+UNKNOWN,visa,LUMIAR,1
+UNKNOWN,visa,SINTRA,24
+UNKNOWN,visa,FRONTEIRA,3
+UNKNOWN,visa,MAFRA,26
+UNKNOWN,visa,UNHOS,1
+UNKNOWN,visa,BOBADELA,7
+UNKNOWN,visa,LOURES-APELACAO,1
+UNKNOWN,visa,SAO JOAO DA TALHA,4
+UNKNOWN,visa,SANTA IRIA DA AZOIA,8
+UNKNOWN,visa,LECEIA - BARCARENA,1
+UNKNOWN,visa,VALE FIGUEIRA,2
+UNKNOWN,visa,PRIOR VELHO,2
+UNKNOWN,visa,CASAL DE SAO BRAS,1
+UNKNOWN,visa,ALTO DE FAMOES,1
+UNKNOWN,visa,ARRONCHES,2
+UNKNOWN,visa,ENCOSTA DO SOL,1
+UNKNOWN,visa,PATAMEIRAS,1
+UNKNOWN,visa,OLIVAL BASTO,1
+UNKNOWN,visa,VAIAMONTE,1
+UNKNOWN,visa,ERVEDAL,1
+UNKNOWN,visa,CAMARATE,2
+UNKNOWN,visa,POVOA DE SANTO ADRIAO,9
+UNKNOWN,visa,UNIAO DAS FREGUESIAS DO CACEM E SAO MARCOS,3
+UNKNOWN,visa,IDANHA,1
+UNKNOWN,visa,UDFD AGUALVA E MIRA-SINTRA,1
+UNKNOWN,visa,AGUALVA-CACEM,1
+UNKNOWN,visa,ALBARRAQUE,1
+UNKNOWN,visa,CORUCHE,13
+UNKNOWN,visa,POVOA DE SANTA IRIA,10
+UNKNOWN,visa,S JOAO DA TALHA,1
+UNKNOWN,visa,SANTO ANTONIO DOS CAVALEIROS,1
+UNKNOWN,visa,ABRUNHEIRA,4
+UNKNOWN,visa,MEM MARTINS,29
+UNKNOWN,visa,CANECAS,4
+UNKNOWN,visa,MIRA SINTRA,1
+UNKNOWN,visa,CASAL DA CAMBRA,1
+UNKNOWN,visa,AVIS,4
+UNKNOWN,visa,FRIELAS,1
+UNKNOWN,visa,MEM-MARTINS,1
+UNKNOWN,visa,RINCHOA,2
+UNKNOWN,visa,MERCES,3
+UNKNOWN,visa,TAPADA DAS MERCES,1
+UNKNOWN,visa,ALGUEIRAO-MEM MARTINS,1
+UNKNOWN,visa,ALGUEIRAO,6
+UNKNOWN,visa,SAO PEDRO DE SINTRA,1
+UNKNOWN,visa,SAEO JULIAO DO TOJAL,1
+UNKNOWN,visa,CABECO DE VIDE,1
+UNKNOWN,visa,PORTELA DE SINTRA,1
+UNKNOWN,visa,SAO JOAO LAMPAS,1
+UNKNOWN,visa,COLARES,10
+UNKNOWN,visa,S JOAO LAMPAS,1
+UNKNOWN,visa,FORTE DA CASA,5
+UNKNOWN,visa,PORTO ALTO,3
+UNKNOWN,visa,SABUGO,1
+UNKNOWN,visa,CASAL DA SERRA-POVOA STA IRIA,1
+UNKNOWN,visa,SAO JULIAO DO TOJAL,2
+UNKNOWN,visa,VIALONGA,7
+UNKNOWN,visa,SAMORA CORREIA,9
+UNKNOWN,visa,VARZEA DE COLARES,1
+UNKNOWN,visa,SAO JULIAO TOJAL,1
+UNKNOWN,visa,SANTO ANTAO DO TOJAL,1
+UNKNOWN,visa,LOURES - S JULIAO TOJAL,1
+UNKNOWN,visa,NEGRAIS,2
+UNKNOWN,visa,ALMARGEM DO BISPO,2
+UNKNOWN,visa,ALVERCA DO RIBATEJO,2
+UNKNOWN,visa,ALVERCA,30
+UNKNOWN,visa,LOUREL,1
+UNKNOWN,visa,BARROSA - BENAVENTE,1
+UNKNOWN,visa,FANHOES,1
+UNKNOWN,visa,PERO PINHEIRO,5
+UNKNOWN,visa,TERRUGEM,4
+UNKNOWN,visa,BUCELAS,5
+UNKNOWN,visa,MONTARGIL,2
+UNKNOWN,visa,VILA FRANCA DE XIRA,28
+UNKNOWN,visa,MONTELAVAR,1
+UNKNOWN,visa,ALHANDRA,3
+UNKNOWN,visa,PORTALEGRE,28
+UNKNOWN,visa,S. JOAO DAS LAMPAS,1
+UNKNOWN,visa,SAO JOAO DAS LAMPAS,3
+UNKNOWN,visa,CHELEIROS,1
+UNKNOWN,visa,ALTER DO CHAO,3
+UNKNOWN,visa,FOROS DE SALVATERRA,1
+UNKNOWN,visa,VENDA DO PINHEIRO,4
+UNKNOWN,visa,GALVEIAS,2
+UNKNOWN,visa,CASTANHEIRA DO RIBATEJO,3
+UNKNOWN,visa,ARRANHO,1
+UNKNOWN,visa,MALVEIRA,6
+UNKNOWN,visa,MARINHAIS,3
+UNKNOWN,visa,SALVATERRA DE MAGOS,3
+UNKNOWN,visa,VILA FRANCA XIRA,1
+UNKNOWN,visa,GRANHO,1
+UNKNOWN,visa,ARRUDA DOS VINHOS,4
+UNKNOWN,visa,VILA FRANCA DO ROSARIO,1
+UNKNOWN,visa,MANGUALDE,16
+UNKNOWN,visa,SOBRAL DE MONTE AGRACO,4
+UNKNOWN,visa,ALENQUER,14
+UNKNOWN,visa,CARREGADO,17
+UNKNOWN,visa,VILA NOVA DA RAINHA,2
+UNKNOWN,visa,ERICEIRA,27
+UNKNOWN,visa,CARTAXO,13
+UNKNOWN,visa,SOBREIRO,1
+UNKNOWN,visa,VALADA,1
+UNKNOWN,visa,ENXARA DO BISPO,1
+UNKNOWN,visa,AZAMBUJA,9
+UNKNOWN,visa,CRATO,2
+UNKNOWN,visa,MUGE,1
+UNKNOWN,visa,SOBRAL MONTE AGRACO,1
+UNKNOWN,visa,AVEIRAS DE CIMA,5
+UNKNOWN,visa,PONTE DE SOR,11
+UNKNOWN,visa,VALE DA PEDRA,1
+UNKNOWN,visa,AVEIRAS DE BAIXO,1
+UNKNOWN,visa,BENFICA DO RIBATEJO,1
+UNKNOWN,visa,FREIRIA,1
+UNKNOWN,visa,ALMEIRIM,14
+UNKNOWN,visa,VALE PARAISO,1
+UNKNOWN,visa,TORRES VEDRAS,43
+UNKNOWN,visa,RUNA,2
+UNKNOWN,visa,MARVAO,1
+UNKNOWN,visa,OLHALVO,1
+UNKNOWN,visa,MERCEANA,1
+UNKNOWN,visa,PONTEVEL,1
+UNKNOWN,visa,SANTO ANTONIO DAS AR,1
+UNKNOWN,visa,CASTELO DE VIDE,2
+UNKNOWN,visa,"SANTA MARIA, SAO PEDRO E MATACAES",5
+UNKNOWN,visa,CAMPELOS,1
+UNKNOWN,visa,CHAMUSCA,8
+UNKNOWN,visa,PONTE DO ROL,2
+UNKNOWN,visa,SANTAREM,42
+UNKNOWN,visa,ALPALHAO,1
+UNKNOWN,visa,ALPIARCA,3
+UNKNOWN,visa,SILVEIRA,1
+UNKNOWN,visa,RAMALHAL,1
+UNKNOWN,visa,MANIQUE DO INTENDENTE,1
+UNKNOWN,visa,ALCOENTRE,3
+UNKNOWN,visa,A DOS CUNHADOS,2
+UNKNOWN,visa,CADAVAL,8
+UNKNOWN,visa,ABRANTES,25
+UNKNOWN,visa,ALCANHOES,1
+UNKNOWN,visa,LOURINHA,11
+UNKNOWN,visa,MARTELEIRA,2
+UNKNOWN,visa,GOLEGA,4
+UNKNOWN,visa,RIBAMAR,2
+UNKNOWN,visa,GAVIAO,2
+UNKNOWN,visa,SAO DOMINGOS,1
+UNKNOWN,visa,POVOA DA ISENTA,1
+UNKNOWN,visa,NISA,2
+UNKNOWN,visa,BOMBARRAL,9
+UNKNOWN,visa,ARROTEIAS,1
+UNKNOWN,visa,UDFD LOURINHA E ATALAIA,1
+UNKNOWN,visa,ATALAIA,1
+UNKNOWN,visa,CONSTANCIA,3
+UNKNOWN,visa,TREMES,1
+UNKNOWN,visa,RIO MAIOR,17
+UNKNOWN,visa,TRAMAGAL,2
+UNKNOWN,visa,ALCANEDE,1
+UNKNOWN,visa,CALDAS DA RAINHA,38
+UNKNOWN,visa,POVOA DE SANTAREM,1
+UNKNOWN,visa,PERNES,2
+UNKNOWN,visa,ALFERRAREDE,1
+UNKNOWN,visa,A-DOS-FRANCOS,1
+UNKNOWN,visa,REGUENGO GRANDE,1
+UNKNOWN,visa,ROSSIO SUL TEJO,1
+UNKNOWN,visa,ROSSIO SUL DO TEJO,1
+UNKNOWN,visa,PRAIA DO RIBATEJO,1
+UNKNOWN,visa,TANCOS,1
+UNKNOWN,visa,CONSTANCIA - MONTALVO,1
+UNKNOWN,visa,VILA NOVA DA BARQUINHA,3
+UNKNOWN,visa,RIACHOS,1
+UNKNOWN,visa,USSEIRA,1
+UNKNOWN,visa,VAU,2
+UNKNOWN,visa,MACAO,4
+UNKNOWN,visa,ENTRONCAMENTO,16
+UNKNOWN,visa,TORRES NOVAS,25
+UNKNOWN,visa,MOURISCAS,1
+UNKNOWN,visa,"UDFD TORRES NOVAS (SANTA MARIA, SALVADOR E SANTIAGO)",1
+UNKNOWN,visa,AMIAIS DE CIMA - ABRA,1
+UNKNOWN,visa,ALCANENA,7
+UNKNOWN,visa,SARDOAL,3
+UNKNOWN,visa,OBIDOS,1
+UNKNOWN,visa,SERRA D'EL-REI,2
+UNKNOWN,visa,"SANTA MARIA, SAO PEDRO E SOBRAL DA LAGOA",1
+UNKNOWN,visa,AMIAIS DE BAIXO,2
+UNKNOWN,visa,ATOUGUIA DA BALEIA,5
+UNKNOWN,visa,PENICHE,23
+UNKNOWN,visa,MONSANTO,2
+UNKNOWN,visa,MACAS D MARIA,2
+UNKNOWN,visa,VILA VELHA DE RODAO,4
+UNKNOWN,visa,BENEDITA,8
+UNKNOWN,visa,FERREL,7
+UNKNOWN,visa,"UDFD CALDAS DA RAINHA - NOSSA SENHORA DO POPULO, COTO E SAO GREGORIO",1
+UNKNOWN,visa,CALDAS RAINHA,1
+UNKNOWN,visa,MINDE,2
+UNKNOWN,visa,TURQUEL,2
+UNKNOWN,visa,TOMAR,28
+UNKNOWN,visa,PORTO DE MOS,10
+UNKNOWN,visa,VIMEIRO,2
+UNKNOWN,visa,FOZ DO ARELHO,1
+UNKNOWN,visa,MIRA DE AIRE,1
+UNKNOWN,visa,CASTELO BRANCO,38
+UNKNOWN,visa,ALFEIZERAO,2
+UNKNOWN,visa,VILA DE REI,3
+UNKNOWN,visa,PORTO MOS,1
+UNKNOWN,visa,UDFD CALDAS DA RAINHA - SANTO ONOFRE E SERRA DO BOURO,1
+UNKNOWN,visa,ALCOBACA,22
+UNKNOWN,visa,SAO MARTINHO PORTO,1
+UNKNOWN,visa,SAO MARTINHO DO PORTO,5
+UNKNOWN,visa,LADOEIRO,1
+UNKNOWN,visa,COS-ALCOBACA,1
+UNKNOWN,visa,UDFD ALCOBACA E VESTIARIA,3
+UNKNOWN,visa,CELA,1
+UNKNOWN,visa,FAMALICAO,1
+UNKNOWN,visa,FATIMA,22
+UNKNOWN,visa,ALJUBARROTA,1
+UNKNOWN,visa,PROENCA A NOVA,2
+UNKNOWN,visa,ALBURITEL,1
+UNKNOWN,visa,FERREIRA DO ZEZERE,3
+UNKNOWN,visa,"UDFD VALENCA, CRISTELO COVO E ARAO",1
+UNKNOWN,visa,BARRIO,1
+UNKNOWN,visa,CAXARIAS,3
+UNKNOWN,visa,URQUEIRA,1
+UNKNOWN,visa,VILA NOVA DE OUREM,14
+UNKNOWN,visa,NOSSA SENHORA DA PIEDADE,1
+UNKNOWN,visa,MAIORGA - ALCOBACA,1
+UNKNOWN,visa,OUREM,2
+UNKNOWN,visa,NAZARE,32
+UNKNOWN,visa,VALADO DOS FRADES,2
+UNKNOWN,visa,CRUZ DA LEGUA,1
+UNKNOWN,visa,IDANHA A NOVA,4
+UNKNOWN,visa,BATALHA,9
+UNKNOWN,visa,AREIAS - FERREIRA DO ZEZERE,1
+UNKNOWN,visa,SANTA CATARINA DA SERRA,1
+UNKNOWN,visa,SAO MARTINHO BISPO,1
+UNKNOWN,visa,LEIRIA,57
+UNKNOWN,visa,SERTA,6
+UNKNOWN,visa,MACEIRA DO LIZ,1
+UNKNOWN,visa,ALCAINS,4
+UNKNOWN,visa,MACEIRA LIZ,2
+UNKNOWN,visa,LUGAR DA GANDARA,1
+UNKNOWN,visa,CERNACHE DO BONJARDIM,1
+UNKNOWN,visa,PATAIAS,5
+UNKNOWN,visa,MARTINGANCA - ALCOBA,1
+UNKNOWN,visa,"UDFD LEIRIA, POUSOS, BARREIRA E CORTES",1
+UNKNOWN,visa,CABACOS,1
+UNKNOWN,visa,COLMEIAS,1
+UNKNOWN,visa,CARANGUEJEIRA,3
+UNKNOWN,visa,MARINHA GRANDE,26
+UNKNOWN,visa,ALVAIAZERE,3
+UNKNOWN,visa,SANTA EUFEMIA,1
+UNKNOWN,visa,MARRAZES - LEIRIA,1
+UNKNOWN,visa,GANDARA DOS OLIVAIS,4
+UNKNOWN,visa,BARRACAO,1
+UNKNOWN,visa,GANDARA OLIVAIS,1
+UNKNOWN,visa,REDINHA,2
+UNKNOWN,visa,UDFD MONSANTO E IDANHA-A-VELHA,1
+UNKNOWN,visa,ALBERGARIA DOS DOZE,2
+UNKNOWN,visa,OLEIROS,2
+UNKNOWN,visa,BOAVISTA,1
+UNKNOWN,visa,PEDROGAO GRANDE,2
+UNKNOWN,visa,FIGUEIRO DOS VINHOS,2
+UNKNOWN,visa,SOALHEIRA,1
+UNKNOWN,visa,ANSIAO,6
+UNKNOWN,visa,MARRAZES,1
+UNKNOWN,visa,BIDOEIRA DE CIMA,1
+UNKNOWN,visa,SAO VICENTE DA BEIRA,1
+UNKNOWN,visa,MEIRINHAS,1
+UNKNOWN,visa,ORTIGOSA,1
+UNKNOWN,visa,AVELAR,2
+UNKNOWN,visa,MATA MOURISCA - POMBAL,1
+UNKNOWN,visa,MONTE REAL,4
+UNKNOWN,visa,ALPEDRINHA,1
+UNKNOWN,visa,VIEIRA DE LEIRIA,3
+UNKNOWN,visa,LEIRIA - MONTE REAL,1
+UNKNOWN,visa,COIMBRAO,1
+UNKNOWN,visa,SOUSELAS,1
+UNKNOWN,visa,PENAMACOR,3
+UNKNOWN,visa,PAMPILHOSA DA SERRA,4
+UNKNOWN,visa,MONTE REDONDO,1
+UNKNOWN,visa,CASTANHEIRA DE PERA,2
+UNKNOWN,visa,CARNIDE-POMBAL,1
+UNKNOWN,visa,FUNDAO,11
+UNKNOWN,visa,SILVARES,1
+UNKNOWN,visa,PENELA,2
+UNKNOWN,visa,DEGRACIAS,1
+UNKNOWN,visa,ALMAGREIRA,1
+UNKNOWN,visa,VILA NOVA AZEITAO,1
+UNKNOWN,visa,LOURICAL,3
+UNKNOWN,visa,GOIS,2
+UNKNOWN,visa,TEIXOSO,1
+UNKNOWN,visa,PAUL,1
+UNKNOWN,visa,COVILHA,35
+UNKNOWN,visa,MIRANDA DO CORVO,4
+UNKNOWN,visa,LOUSA,6
+UNKNOWN,visa,TORTOSENDO,1
+UNKNOWN,visa,SABUGAL,4
+UNKNOWN,visa,SOURE,7
+UNKNOWN,visa,FIGUEIRA DA FOZ,40
+UNKNOWN,visa,UDFD COVILHA E CANHOSO,2
+UNKNOWN,visa,BELMONTE,4
+UNKNOWN,visa,CONDEIXA,4
+UNKNOWN,visa,SERPINS,1
+UNKNOWN,visa,CARIA,2
+UNKNOWN,visa,SOUTO,2
+UNKNOWN,visa,UNHAIS DA SERRA,2
+UNKNOWN,visa,CONDEIXA A NOVA,2
+UNKNOWN,visa,BOIDOBRA - COVILHA,1
+UNKNOWN,visa,ALMALAGUES,1
+UNKNOWN,visa,PIODAO,1
+UNKNOWN,visa,SORTELHA,1
+UNKNOWN,visa,VILA NOVA ANCOS,1
+UNKNOWN,visa,SERNANCELHE,3
+UNKNOWN,visa,ARGANIL,3
+UNKNOWN,visa,VILA NOVA DE POIARES,3
+UNKNOWN,visa,FIGUEIRA,1
+UNKNOWN,visa,COIMBRA,127
+UNKNOWN,visa,VILA NOVA POIARES,1
+UNKNOWN,visa,COJA,1
+UNKNOWN,visa,LORIGA,1
+UNKNOWN,visa,SAO MARTINHO DO BISPO,4
+UNKNOWN,visa,SEIA,14
+UNKNOWN,visa,UDFD SANTA CLARA E CASTELO VIEGAS,1
+UNKNOWN,visa,LORDEMAO,1
+UNKNOWN,visa,"UDFD COIMBRA (SE NOVA, SANTA CRUZ, ALMEDINA E SAO",13
+UNKNOWN,visa,CELAS - COIMBRA,1
+UNKNOWN,visa,MONTEMOR-O-VELHO,1
+UNKNOWN,visa,TAVEIRO,1
+UNKNOWN,visa,MANTEIGAS,3
+UNKNOWN,visa,MONTEMOR O VELHO,3
+UNKNOWN,visa,BUARCOS E SAO JULIAO,2
+UNKNOWN,visa,UDFD EIRAS E SAO PAULO DE FRADES,1
+UNKNOWN,visa,SAO PEDRO,1
+UNKNOWN,visa,PENACOVA,3
+UNKNOWN,visa,OLIVEIRA DO HOSPITAL,10
+UNKNOWN,visa,VALHELHAS,1
+UNKNOWN,visa,BUARCOS,6
+UNKNOWN,visa,CARAPINHEIRA,1
+UNKNOWN,visa,ARAZEDE,1
+UNKNOWN,visa,SAO PEDRO ALVA,1
+UNKNOWN,visa,TABUA,3
+UNKNOWN,visa,FORNOS-COIMBRA,1
+UNKNOWN,visa,LEIROSA,1
+UNKNOWN,visa,TENTUGAL,1
+UNKNOWN,visa,CANTANHEDE,10
+UNKNOWN,visa,"UDFD SEIA, SAO ROMAO E LAPA DOS DINHEIROS",1
+UNKNOWN,visa,OLIV HOSPITAL-LAGARES DA BEIRA,1
+UNKNOWN,visa,BARCOUCO,1
+UNKNOWN,visa,MEALHADA,9
+UNKNOWN,visa,CARREGAL DO SAL,6
+UNKNOWN,visa,VILA CORTEZ MONDEGO,1
+UNKNOWN,visa,GUARDA,46
+UNKNOWN,visa,SANTA COMBA DAO,4
+UNKNOWN,visa,VILAR FORMOSO,6
+UNKNOWN,visa,CORDINHA,1
+UNKNOWN,visa,MURTEDE,2
+UNKNOWN,visa,GOUVEIA,7
+UNKNOWN,visa,MORTAGUA,4
+UNKNOWN,visa,SAO MIGUEL DA GUARDA,1
+UNKNOWN,visa,CORTEGACA,4
+UNKNOWN,visa,PINHEL,6
+UNKNOWN,visa,TOCHA,5
+UNKNOWN,visa,LUSO,2
+UNKNOWN,visa,LINHARES,1
+UNKNOWN,visa,AZAREDE,1
+UNKNOWN,visa,CADIMA,1
+UNKNOWN,visa,VILA NOVA DE TAZEM,1
+UNKNOWN,visa,ANTES - PECAVI,1
+UNKNOWN,visa,CANAS DE SENHORIM,2
+UNKNOWN,visa,NELAS,9
+UNKNOWN,visa,ANADIA,17
+UNKNOWN,visa,TONDELA,12
+UNKNOWN,visa,FEBRES,1
+UNKNOWN,visa,VILAMAR,2
+UNKNOWN,visa,TAMENGOS,1
+UNKNOWN,visa,COVOES,1
+UNKNOWN,visa,CELORICO DA BEIRA,4
+UNKNOWN,visa,FORNOS DE ALGODRES,2
+UNKNOWN,visa,CASTELO MENDO - VILA,1
+UNKNOWN,visa,VISEU,59
+UNKNOWN,visa,ALMEIDA,2
+UNKNOWN,visa,MIRA,2
+UNKNOWN,visa,CAMPO DE BESTEIROS,1
+UNKNOWN,visa,VAGOS,10
+UNKNOWN,visa,OLIVEIRA DO BAIRRO,13
+UNKNOWN,visa,AGUEDA,24
+UNKNOWN,visa,AGUADA DE CIMA,1
+UNKNOWN,visa,PRAIA DE MIRA,2
+UNKNOWN,visa,CARAMULO,2
+UNKNOWN,visa,CAMPO,1
+UNKNOWN,visa,VILA FRANCA DAS NAVES,2
+UNKNOWN,visa,PENALVA DO CASTELO,3
+UNKNOWN,visa,COVAO DO LOBO,1
+UNKNOWN,visa,PALHACA,1
+UNKNOWN,visa,ABRAVEZES,1
+UNKNOWN,visa,TROFA,23
+UNKNOWN,visa,FERMENTELOS,1
+UNKNOWN,visa,MOURISCA DO VOUGA,1
+UNKNOWN,visa,TRANCOSO,4
+UNKNOWN,visa,ABRAVESES,2
+UNKNOWN,visa,AVEIRO,68
+UNKNOWN,visa,ARRANCADA DO VOUGA,1
+UNKNOWN,visa,LOBAO,1
+UNKNOWN,visa,LAJES,2
+UNKNOWN,visa,SATAO,4
+UNKNOWN,visa,EIROL,1
+UNKNOWN,visa,ILHAVO,9
+UNKNOWN,visa,VARZEA,2
+UNKNOWN,visa,QUEIRA,1
+UNKNOWN,visa,UDFD AGUEDA E BORRALHA,1
+UNKNOWN,visa,CASTELO RODRIGO,1
+UNKNOWN,visa,EIXO,2
+UNKNOWN,visa,VOUZELA,5
+UNKNOWN,visa,FIGUEIRA DE CASTELO RODRIGO,4
+UNKNOWN,visa,EUCALIPTO - AVEIRO,1
+UNKNOWN,visa,GAFANHA DA ENCARNACAO,2
+UNKNOWN,visa,AGUIAR DA BEIRA,3
+UNKNOWN,visa,CURIA,1
+UNKNOWN,visa,LAMAS,1
+UNKNOWN,visa,GAFANHA NAZARE,1
+UNKNOWN,visa,UDFD GLORIA E VERA CRUZ,8
+UNKNOWN,visa,ESGUEIRA,3
+UNKNOWN,visa,GAFANHA DA NAZARE,1
+UNKNOWN,visa,OLIVEIRA DE FRADES,3
+UNKNOWN,visa,ALBERGARIA A VELHA,11
+UNKNOWN,visa,SAO PEDRO SUL,1
+UNKNOWN,visa,SAO PEDRO DO SUL,5
+UNKNOWN,visa,SEVER DO VOUGA,5
+UNKNOWN,visa,CACIA,3
+UNKNOWN,visa,ANGEJA,1
+UNKNOWN,visa,SANTA CRUZ DA TRAPA,1
+UNKNOWN,visa,VILA NOVA DE PAIVA,2
+UNKNOWN,visa,SALREU,1
+UNKNOWN,visa,MEDA,2
+UNKNOWN,visa,ESTARREJA,13
+UNKNOWN,visa,MOES,1
+UNKNOWN,visa,MURTOSA,6
+UNKNOWN,visa,VEIROS,1
+UNKNOWN,visa,FERREIRIM,1
+UNKNOWN,visa,OLIVEIRA DE AZEMEIS,22
+UNKNOWN,visa,TORREIRA - MURTOSA,1
+UNKNOWN,visa,CASTRO DE AIRE,1
+UNKNOWN,visa,CASTRO DAIRE,4
+UNKNOWN,visa,PENEDONO,2
+UNKNOWN,visa,MOIMENTA DA BEIRA,5
+UNKNOWN,visa,OSSELA,1
+UNKNOWN,visa,VALE DE CAMBRA,13
+UNKNOWN,visa,COVAS DO BARRO,1
+UNKNOWN,visa,FREIXO ESPADA A CINTA,2
+UNKNOWN,visa,VILA CHA,1
+UNKNOWN,visa,VILA NOVA DE FOZ COA,3
+UNKNOWN,visa,VILA NOVA FOZ COA,1
+UNKNOWN,visa,FREIXO DE NUMAO,1
+UNKNOWN,visa,CARREGOSA,1
+UNKNOWN,visa,CUCUJAES,1
+UNKNOWN,visa,OVAR,23
+UNKNOWN,visa,SAO JOAO DA MADEIRA,27
+UNKNOWN,visa,AROUCA,8
+UNKNOWN,visa,S.J.MADEIRA,1
+UNKNOWN,visa,TAROUCA,2
+UNKNOWN,visa,ARRIFANA,3
+UNKNOWN,visa,FEIRA,7
+UNKNOWN,visa,SAO JOAO DE TAROUCA,2
+UNKNOWN,visa,"UDFD SANTA MARIA DA FEIRA, TRAVANCA, SANFINS E ESPARGO",1
+UNKNOWN,visa,LUGAR DA TORRE,1
+UNKNOWN,visa,SAO JOAO DE VER,1
+UNKNOWN,visa,MONCORVO,2
+UNKNOWN,visa,TORRE DE MONCORVO,1
+UNKNOWN,visa,MACEDA,1
+UNKNOWN,visa,SAO JOAO DA PESQUEIR,1
+UNKNOWN,visa,TABUACO,3
+UNKNOWN,visa,CALDAS DE SAO JORGE,1
+UNKNOWN,visa,ARMAMAR,2
+UNKNOWN,visa,SAO JOAO DA PESQUEIRA,4
+UNKNOWN,visa,ESMORIZ,8
+UNKNOWN,visa,"UDFD OVAR, SAO JOAO, ARADA E SAO VICENTE DE PEREIRA JUSA",1
+UNKNOWN,visa,CINFAES,4
+UNKNOWN,visa,LAMEGO,13
+UNKNOWN,visa,VILA DE CAMBRES,1
+UNKNOWN,visa,LAMEGO (ALMACAVE E SE),3
+UNKNOWN,visa,LOUROSA,18
+UNKNOWN,visa,SANTA MARIA DE LAMAS,6
+UNKNOWN,visa,PACOS DE BRANDAO,3
+UNKNOWN,visa,FIAES,1
+UNKNOWN,visa,CORGA DO LOBAO,1
+UNKNOWN,visa,VILA DE LOBAO,1
+UNKNOWN,visa,CASTELO DE PAIVA,7
+UNKNOWN,visa,STA MARIA FEIRA,1
+UNKNOWN,visa,SANGUEDO,1
+UNKNOWN,visa,RESENDE,3
+UNKNOWN,visa,ESPINHO,36
+UNKNOWN,visa,NOGUEIRA DA REGEDOUR,1
+UNKNOWN,visa,CARVALHOS,11
+UNKNOWN,visa,GRIJO,2
+UNKNOWN,visa,PINHAO,2
+UNKNOWN,visa,ALIJO,5
+UNKNOWN,visa,PESO DA REGUA,12
+UNKNOWN,visa,VILA NOVA GAIA,6
+UNKNOWN,visa,VILA NOVA DE GAIA,85
+UNKNOWN,visa,ALPENDURADA,2
+UNKNOWN,visa,UDFD PESO DA REGUA E GODIM,1
+UNKNOWN,visa,SAO FELIX DA MARINHA,1
+UNKNOWN,visa,CARRAZEDA DE ANSIAES,1
+UNKNOWN,visa,MESAO FRIO,3
+UNKNOWN,visa,VALADARES,8
+UNKNOWN,visa,ENTRE OS RIOS,3
+UNKNOWN,visa,FAVAIOS,1
+UNKNOWN,visa,MOGADOURO,5
+UNKNOWN,visa,ARCOZELO,7
+UNKNOWN,visa,SERZEDO,2
+UNKNOWN,visa,PEDROSO,2
+UNKNOWN,visa,MIRANDA DO DOURO,4
+UNKNOWN,visa,SENDIM,1
+UNKNOWN,visa,VILA BOA DO BISPO,1
+UNKNOWN,visa,BAIAO,5
+UNKNOWN,visa,TERMAS SAO VICENTE,1
+UNKNOWN,visa,OLIVEIRA DO DOURO,17
+UNKNOWN,visa,SANTA MARTA DE PENAGUIAO,2
+UNKNOWN,visa,VILA FLOR,2
+UNKNOWN,visa,MARCO DE CANAVEZES,11
+UNKNOWN,visa,CANELAS,1
+UNKNOWN,visa,ALFANDEGA DA FE,4
+UNKNOWN,visa,SOALHAES,1
+UNKNOWN,visa,AVINTES,10
+UNKNOWN,visa,PENAFIEL,19
+UNKNOWN,visa,SAO CAETANO,1
+UNKNOWN,visa,VILAR DO PARAISO,2
+UNKNOWN,visa,SABROSA,3
+UNKNOWN,visa,VALONGO,17
+UNKNOWN,visa,JOVIM,1
+UNKNOWN,visa,VILAR DO ANDORINHO,1
+UNKNOWN,visa,SOBREIRA,1
+UNKNOWN,visa,GONDOMAR,29
+UNKNOWN,visa,MAFAMUDE,1
+UNKNOWN,visa,VILA REAL,33
+UNKNOWN,visa,S PEDRO COVA,1
+UNKNOWN,visa,SANTA MARINHA,1
+UNKNOWN,visa,VALADARINHOS,1
+UNKNOWN,visa,VALBOM,2
+UNKNOWN,visa,CANIDELO,1
+UNKNOWN,visa,UDFD SANTA MARINHA E SAO PEDRO DA AFURADA,12
+UNKNOWN,visa,PORTO,360
+UNKNOWN,visa,FANZERES - GONDOMAR,1
+UNKNOWN,visa,SAO PEDRO DA COVA,1
+UNKNOWN,visa,BONFIM,3
+UNKNOWN,visa,UDFD LORDELO DO OURO E MASSARELOS,4
+UNKNOWN,visa,CORUJEIRA,1
+UNKNOWN,visa,CAMPANHA,3
+UNKNOWN,visa,MARCO DE CANAVESES,1
+UNKNOWN,visa,FANZERES,3
+UNKNOWN,visa,MIRANDA DOURO,1
+UNKNOWN,visa,BARROSAS,1
+UNKNOWN,visa,FREIXIEIRO,1
+UNKNOWN,visa,PAREDES,22
+UNKNOWN,visa,BALTAR,1
+UNKNOWN,visa,RIO TINTO,22
+UNKNOWN,visa,"UDFD ALDOAR, FOZ DO DOURO E NEVOGILDE",3
+UNKNOWN,visa,GANDRA,2
+UNKNOWN,visa,CASTELOES DE CEPEDA,1
+UNKNOWN,visa,RIO TINTO - GONDOMAR,1
+UNKNOWN,visa,CARVALHIDO,1
+UNKNOWN,visa,BAGUIM DO MONTE,1
+UNKNOWN,visa,VILA MEA,3
+UNKNOWN,visa,LOUSADA,9
+UNKNOWN,visa,SALGUEIROS,1
+UNKNOWN,visa,AMARANTE,11
+UNKNOWN,visa,REBORDOSA,1
+UNKNOWN,visa,MATOSINHOS,60
+UNKNOWN,visa,MONTE DOS BURGOS,3
+UNKNOWN,visa,SOBRADO,1
+UNKNOWN,visa,SAO MAMEDE INFESTA,14
+UNKNOWN,visa,RAMALDE,1
+UNKNOWN,visa,CRISTELO,1
+UNKNOWN,visa,UDFD MATOSINHOS E LECA DA PALMEIRA,9
+UNKNOWN,visa,UDFD SAO MAMEDE DE INFESTA E SENHORA DA HORA,1
+UNKNOWN,visa,SENHORA DA HORA,4
+UNKNOWN,visa,ERMESINDE,16
+UNKNOWN,visa,LEIXOES,1
+UNKNOWN,visa,MAIA,64
+UNKNOWN,visa,LORDELO,2
+UNKNOWN,visa,PADRAO DA LEGUA,1
+UNKNOWN,visa,CUSTOIAS,4
+UNKNOWN,visa,LECA DO BALIO,4
+UNKNOWN,visa,AGUAS SANTAS,6
+UNKNOWN,visa,LECA DA PALMEIRA,14
+UNKNOWN,visa,CACHIM,1
+UNKNOWN,visa,PERAFITA,2
+UNKNOWN,visa,ANGEIRAS - LAVRA,1
+UNKNOWN,visa,SRA DA HORA - MATOSINHOS,1
+UNKNOWN,visa,LORDELO - PAREDES,2
+UNKNOWN,visa,LECA DO BALIO - MATOSINHOS,1
+UNKNOWN,visa,PACOS DE FERREIRA,18
+UNKNOWN,visa,GUEIFAES,3
+UNKNOWN,visa,MURCA,4
+UNKNOWN,visa,ALFENA,3
+UNKNOWN,visa,LECA DO BAILIO,1
+UNKNOWN,visa,SANTA CRUZ DO BISPO,1
+UNKNOWN,visa,SAO PEDRO FINS,1
+UNKNOWN,visa,CIDADE DA MAIA,3
+UNKNOWN,visa,VERMOIM,5
+UNKNOWN,visa,FREAMUNDE,3
+UNKNOWN,visa,FELGUEIRAS,14
+UNKNOWN,visa,LIXA,5
+UNKNOWN,visa,GUARDEIRAS,1
+UNKNOWN,visa,LUGAR DA AREOSA,1
+UNKNOWN,visa,NOGUEIRA DA MAIA,1
+UNKNOWN,visa,CASTELO DA MAIA,3
+UNKNOWN,visa,LIXA - FELGUEIRAS,1
+UNKNOWN,visa,MOREIRA,1
+UNKNOWN,visa,MEIXOMIL,1
+UNKNOWN,visa,MOREIRA DA MAIA,2
+UNKNOWN,visa,MIRANDELA,14
+UNKNOWN,visa,PADRAO DE MOREIRA -,1
+UNKNOWN,visa,PACOS FERREIRA,1
+UNKNOWN,visa,VIMIOSO,3
+UNKNOWN,visa,MACEDO DE CAVALEIROS,11
+UNKNOWN,visa,MONDIM DE BASTO,2
+UNKNOWN,visa,BRAGANCA,34
+UNKNOWN,visa,VILAR DE PINHEIRO,1
+UNKNOWN,visa,IZEDA,1
+UNKNOWN,visa,CELORICO DE BASTO,3
+UNKNOWN,visa,SANTO TIRSO,27
+UNKNOWN,visa,VILA DAS AVES,6
+UNKNOWN,visa,MODIM DE BASTO,1
+UNKNOWN,visa,RIBEIRA DA PENA,2
+UNKNOWN,visa,CALDAS DE VIZELA,14
+UNKNOWN,visa,VILA DO CONDE,29
+UNKNOWN,visa,SAO TIAGO DE BOUGADO,1
+UNKNOWN,visa,SAO MARTINHO DO CAMPO,2
+UNKNOWN,visa,AVES,1
+UNKNOWN,visa,CALDAS VIZELA,1
+UNKNOWN,visa,ARGOZELO,1
+UNKNOWN,visa,VILA POUCA DE AGUIAR,3
+UNKNOWN,visa,VILA NOVA DE FAMALICAO,52
+UNKNOWN,visa,CERVA,1
+UNKNOWN,visa,RIBA DE AVE,2
+UNKNOWN,visa,MACIEIRA DA MAIA,1
+UNKNOWN,visa,LUGAR LAMEIRINHO,1
+UNKNOWN,visa,GUIMARAES,51
+UNKNOWN,visa,LUGAR DE PEDRINHAS,1
+UNKNOWN,visa,CAXINAS,2
+UNKNOWN,visa,DELAES,2
+UNKNOWN,visa,ARVORE,1
+UNKNOWN,visa,RIBA D'AVE,1
+UNKNOWN,visa,PINHEIRO DE LOURES,1
+UNKNOWN,visa,RIBA D AVE,1
+UNKNOWN,visa,MINDELO,1
+UNKNOWN,visa,FAFE,17
+UNKNOWN,visa,CARRAZEDO MONTENEGRO,2
+UNKNOWN,visa,CARRAZEDO DE MONTENEGRO,1
+UNKNOWN,visa,CABECEIRAS DE BASTO,4
+UNKNOWN,visa,JOANE,4
+UNKNOWN,visa,V N FAMALICAO,1
+UNKNOWN,visa,PEDRAS SALGADAS,1
+UNKNOWN,visa,PEVIDEM,4
+UNKNOWN,visa,VILA CONDE,1
+UNKNOWN,visa,AZUREM,2
+UNKNOWN,visa,"UDFD OLIVEIRA, SAO PAIO E SAO SEBASTIAO",6
+UNKNOWN,visa,CALDAS DAS TAIPAS,10
+UNKNOWN,visa,VILA NOVA FAMALICAO,2
+UNKNOWN,visa,POVOA DO VARZIM,27
+UNKNOWN,visa,POVOA VARZIM,1
+UNKNOWN,visa,GUIMARAES - MESAO FRIO,1
+UNKNOWN,visa,PONTE DE LIMA,14
+UNKNOWN,visa,VALPACOS,4
+UNKNOWN,visa,"UNIAO DAS FREGUESIAS DA POVOA DE VARZIM, BEIRIZ E ARGIVAI",10
+UNKNOWN,visa,POVOA DE VARZIM,7
+UNKNOWN,visa,CABECEIRAS DE BAIXO,1
+UNKNOWN,visa,TORRE CHAMA,2
+UNKNOWN,visa,PONTE DE FRIELAS,1
+UNKNOWN,visa,CREIMOXIL,1
+UNKNOWN,visa,COVAS - GUIMARAES,1
+UNKNOWN,visa,CREIXOMIL,1
+UNKNOWN,visa,MACIEIRA,1
+UNKNOWN,visa,VIATODOS,1
+UNKNOWN,visa,BARCELOS,28
+UNKNOWN,visa,NINE,1
+UNKNOWN,visa,VIDAGO,1
+UNKNOWN,visa,CHAVES,26
+UNKNOWN,visa,BRAGA,119
+UNKNOWN,visa,POVOA DE LANHOSO,9
+UNKNOWN,visa,NOGUEIRA,1
+UNKNOWN,visa,LOMAR - BRAGA,1
+UNKNOWN,visa,UDFD NOGUEIRO E TENOES,1
+UNKNOWN,visa,REBORDELO,1
+UNKNOWN,visa,UDFD BRAGA (SAO JOSE DE SAO LAZARO E SAO JOAO DO SOUTO),10
+UNKNOWN,visa,"UDFD BRAGA (MAXIMINOS, SE E CIVIDADE)",9
+UNKNOWN,visa,POVOA DO LANHOSO,1
+UNKNOWN,visa,BRAGA (SAO VITOR),1
+UNKNOWN,visa,GUALTAR,1
+UNKNOWN,visa,BARCELINHOS,3
+UNKNOWN,visa,GUALTAR - BRAGA,2
+UNKNOWN,visa,FUJACAL,1
+UNKNOWN,visa,BOTICAS,2
+UNKNOWN,visa,FAO,3
+UNKNOWN,visa,SAO PEDRO MERELIM,1
+UNKNOWN,visa,VIEIRA DO MINHO,4
+UNKNOWN,visa,ESPOSENDE,11
+UNKNOWN,visa,VALE DE ANTA,2
+UNKNOWN,visa,GRANDA,1
+UNKNOWN,visa,AMARES,6
+UNKNOWN,visa,VINHAIS,4
+UNKNOWN,visa,VILA VERDE,15
+UNKNOWN,visa,MONTALEGRE,4
+UNKNOWN,visa,PICO DA REGALADA,1
+UNKNOWN,visa,PRADO,1
+UNKNOWN,visa,CALDAS DO GERES,1
+UNKNOWN,visa,TERRAS DO BOURO,2
+UNKNOWN,visa,GERES,1
+UNKNOWN,visa,BARROSELAS,5
+UNKNOWN,visa,VIANA DO CASTELO,41
+UNKNOWN,visa,MUJAES,1
+UNKNOWN,visa,SALTO,1
+UNKNOWN,visa,UDFD VIANA DO CASTELO (SANTA MARIA MAIOR E MONSERRATE) E MEADELA,2
+UNKNOWN,visa,DARQUE,1
+UNKNOWN,visa,ARCA E PONTE DE LIMA,1
+UNKNOWN,visa,SANTA MARTA PORTUZELO,1
+UNKNOWN,visa,LUGAR PETIGUEIRAS,1
+UNKNOWN,visa,PONTE DA BARCA,7
+UNKNOWN,visa,ARCOS DE VALDEVEZ,10
+UNKNOWN,visa,CAMINHA,5
+UNKNOWN,visa,VILA PRAIA DE ANCORA,5
+UNKNOWN,visa,PAREDES DE COURA,5
+UNKNOWN,visa,VILAR DE MOUROS,1
+UNKNOWN,visa,VILA NOVA DE CERVEIRA,6
+UNKNOWN,visa,VALENCA,6
+UNKNOWN,visa,UDFD MONCAO E TROVISCOSO,1
+UNKNOWN,visa,MONCAO,6
+UNKNOWN,visa,MELGACO,4
+UNKNOWN,visa,VILA DO PORTO,3
+UNKNOWN,visa,POVOACAO,4
+UNKNOWN,visa,NORDESTE,3
+UNKNOWN,visa,FURNAS,1
+UNKNOWN,visa,VILA FRANCA DO CAMPO,3
+UNKNOWN,visa,LAGOA DE SAO MIGUEL,2
+UNKNOWN,visa,RIBEIRA GRANDE,8
+UNKNOWN,visa,PONTA DELGADA - SAO,1
+UNKNOWN,visa,PONTA DELGADA (SAO SEBASTIAO),8
+UNKNOWN,visa,PONTA DELGADA (SAO PEDRO),4
+UNKNOWN,visa,PONTA DELGADA (SAO JOSE),1
+UNKNOWN,visa,RIBEIRA GRANDE - SAO,1
+UNKNOWN,visa,CAPELAS,1
+UNKNOWN,visa,PRAIA DA VITORIA,10
+UNKNOWN,visa,PRAIA DA VITORIA LAGES,1
+UNKNOWN,visa,ANGRA DO HEROISMO,16
+UNKNOWN,visa,BISCOITOS,1
+UNKNOWN,visa,PIEDADE,1
+UNKNOWN,visa,LAJES DO PICO,3
+UNKNOWN,visa,CALHETA - SAO JORGE,1
+UNKNOWN,visa,SAO ROQUE DO PICO,3
+UNKNOWN,visa,SANTA QUITERIA - FUNCHAL,1
+UNKNOWN,visa,VELAS - SAO JORGE,1
+UNKNOWN,visa,VELAS,3
+UNKNOWN,visa,MADALENA DO PICO,1
+UNKNOWN,visa,MADALENA,3
+UNKNOWN,visa,HORTA,11
+UNKNOWN,visa,GRACIOSA,2
+UNKNOWN,visa,LAJES DAS FLORES,1
+UNKNOWN,visa,FLORES,1
+UNKNOWN,visa,SANTA CRUZ DAS FLORES,1
+UNKNOWN,visa,CORVO,1
+CASTELOBRANCO,western_union,Tortosendo,1
+ACORES,western_union,Corvo,1
+ACORES,western_union,Santa Cruz Das Flores,1
+ACORES,western_union,Lajes Das Flores,1
+SAOMIGUELACORES,western_union,Ponta Delgada,1
+ACORES,western_union,Aeroporto Ponta Delgada,1
+ACORES,western_union,Ponta Delgada,5
+ACORES,western_union,Lagoa (sao Miguel),1
+ACORES,western_union,Rabo De Peixe,1
+ACORES,western_union,Ribeira Grande,1
+ACORES,western_union,Vila Franca Do Campo,1
+ACORES,western_union,Vila Do Porto,1
+ACORES,western_union,Povoacao,1
+ACORES,western_union,Angra De Heroismo,1
+ACORES,western_union,Angra Do Heroismo,1
+LEIRIA,western_union,Peniche,3
+LISBOA,western_union,Ericeira,2
+LEIRIA,western_union,Atouguia Da Baleia,1
+LEIRIA,western_union,Ferrel,1
+LISBOA,western_union,Atalaia,1
+LISBOA,western_union,Ribamar,1
+LISBOA,western_union,Lourinha,2
+LISBOA,western_union,Sao Joao Das Lampas,1
+LISBOA,western_union,Malveira Da Serra,1
+LEIRIA,western_union,Serra D El Rei,1
+VIANADOCASTELO,western_union,Barroselas,1
+VIANADOCASTELO,western_union,Castelo Do Neiva,1
+VIANADOCASTELO,western_union,Sao Juliao De Freixo,1
+VIANADOCASTELO,western_union,Viana Do Castelo,6
+VIANADOCASTELO,western_union,Ponte Da Barca,2
+VIANADOCASTELO,western_union,Lavradas,1
+VIANADOCASTELO,western_union,Darque,1
+BRAGA,western_union,Braga,1
+SANTAREM,western_union,Ferreira Do Zezere,2
+SETUBAL,western_union,Vila Nova De Santo Andre,1
+SETUBAL,western_union,Sines,2
+EVORA,western_union,Vendas Novas,1
+SETUBAL,western_union,Santo Andre,2
+AVEIRO,western_union,Ovar,2
+AVEIRO,western_union,Anadia,2
+COIMBRA,western_union,Miranda Do Corvo,1
+AVEIRO,western_union,Estarreja,1
+LEIRIA,western_union,Figueiro Dos Vinhos,1
+AVEIRO,western_union,Avanca,1
+AVEIRO,western_union,Aveiro,8
+LEIRIA,western_union,Alvaiazere,1
+AVEIRO,western_union,Oia,1
+COIMBRA,western_union,Coimbra,10
+COIMBRA,western_union,Penela,1
+SANTAREM,western_union,Constancia,1
+LEIRIA,western_union,Cabacos,1
+COIMBRA,western_union,Almalagues,1
+COIMBRA,western_union,Mira,2
+AVEIRO,western_union,Cacia,1
+COIMBRA,western_union,Nogueiras,1
+AVEIRO,western_union,Mealhada,1
+VISEU,western_union,Mealhada,1
+AVEIRO,western_union,Oliveira Do Bairro,2
+SANTAREM,western_union,Abrantes,2
+SANTAREM,western_union,Vila Nova Da Barquinha,1
+SANTAREM,western_union,Tomar Sao Joao Batista,1
+SANTAREM,western_union,Tomar,2
+LEIRIA,western_union,Ansiao,1
+AVEIRO,western_union,Palhaca,2
+AVEIRO,western_union,Murtosa,1
+SETUBAL,western_union,Carvalhal,1
+AVEIRO,western_union,Vera Cruz,1
+SANTAREM,western_union,Golega,1
+COIMBRA,western_union,Febres,1
+SETUBAL,western_union,Comporta,1
+SANTAREM,western_union,Torres Novas,1
+SANTAREM,western_union,Chamusca,1
+SANTAREM,western_union,Entroncamento,1
+AVEIRO,western_union,Vagos,1
+COIMBRA,western_union,Cantanhede,1
+AVEIRO,western_union,Gafanha Da Nazare,1
+SANTAREM,western_union,Freixianda,1
+CANTANHEDE,western_union,Cantanhede,1
+SANTAREM,western_union,Coruche,2
+COIMBRA,western_union,Condeixa A Nova,1
+AVEIRO,western_union,Ilhavo,1
+SANTAREM,western_union,Almeirim,2
+LEIRIA,western_union,Pombal,1
+COIMBRA,western_union,Montemor O Velho,1
+LEIRIA,western_union,Senhora De Belem - Pombal,1
+SANTAREM,western_union,Gloria Do Ribatejo,1
+LEIRIA,western_union,Albergaria Dos Doze,1
+SANTAREM,western_union,Ourem,2
+COIMBRA,western_union,Soure,2
+SANTAREM,western_union,Alpiarca,1
+LEIRIA,western_union,Redinha,1
+AVEIRO,western_union,Gafanha Da Vagueira,1
+COIMBRA,western_union,Figueira Da Foz,7
+LEIRIA,western_union,Carrico,1
+SETUBAL,western_union,Azeitao,1
+LEIRIA,western_union,Guia,1
+SANTAREM,western_union,Cartaxo,2
+SANTAREM,western_union,Benavente,2
+LEIRIA,western_union,Serra Santo Antonio,1
+SANTAREM,western_union,Salvaterra De Magos,2
+LEIRIA,western_union,Sao Mamede,1
+LEIRIA,western_union,Mira De Aire,1
+SANTAREM,western_union,Benfica Do Ribatejo,1
+SANTAREM,western_union,Alcanhoes,1
+SETUBAL,western_union,Setubal,8
+SANTAREM,western_union,Marinhais,1
+COIMBRA,western_union,Tocha,2
+SETUBAL,western_union,Setubal Praca Pt,1
+LEIRIA,western_union,Almagreira,1
+COIMBRA,western_union,Praia De Mira,1
+LEIRIA,western_union,Leiria,9
+SETUBAL,western_union,Montijo,4
+SANTAREM,western_union,Pontevel,1
+SETUBAL,western_union,Moita,1
+SETUBAL,western_union,Alcochete,2
+SANTAREM,western_union,Samora Correia,1
+FIGUEIRADAFOZ,western_union,Figueira Da Foz,1
+SETUBAL,western_union,Pinhal Novo,2
+SANTAREM,western_union,Fatima,3
+SETUBAL,western_union,Palmela,2
+SANTAREM,western_union,Fatima Ourem,1
+COIMBRA,western_union,Vinha Da Rainha,1
+SANTAREM,western_union,Alcanena,1
+SANTAREM,western_union,Obidos,1
+SANTAREM,western_union,Santarem,2
+SANTAREM,western_union,Pernes,1
+SANTAREM,western_union,Alcanede,1
+LISBOA,western_union,Azambuja,2
+SETUBAL,western_union,Quinta Do Conde,2
+SETUBAL,western_union,Sesimbra,4
+SETUBAL,western_union,Alhos Vedros,1
+LISBOA,western_union,Amora,2
+LISBOA,western_union,Castanheira Do Ribatejo,1
+SETUBAL,western_union,Seixal,3
+SETUBAL,western_union,Torre Da Marinha,1
+SETUBAL,western_union,Barreiro,7
+SETUBAL,western_union,Alfarim,1
+LISBOA,western_union,Aveiras De Cima,1
+SETUBAL,western_union,Lavradio,1
+SETUBAL,western_union,Fernao Ferro - Seixal,1
+SETUBAL,western_union,Baixa Da Banheira,2
+LEIRIA,western_union,Monte Real,1
+SETUBAL,western_union,Baixa Banheira,1
+SETUBAL,western_union,Vale Da Amoreira,1
+LEIRIA,western_union,Batalha,2
+LISBOA,western_union,Queluz,12
+LEIRIA,western_union,Ilha,1
+LEIRIA,western_union,Porto De Mos,2
+LISBOA,western_union,Povoa De Santa Iria,2
+LISBOA,western_union,Lisboa,77
+SETUBAL,western_union,Corroios,3
+LISBOA,western_union,Alverca Do Ribatejo,2
+SANTAREM,western_union,Rio Maior,1
+LEIRIA,western_union,Marinha Grande,2
+LISBOA,western_union,Alhandra,1
+LISBOA,western_union,Carregado,1
+LISBOA,western_union,Vila Franca De Xira,2
+LEIRIA,western_union,Maceira Liz,1
+ALMADA,western_union,Almada,1
+SETUBAL,western_union,Paivas,1
+LISBOA,western_union,Alenquer,2
+LISBOA,western_union,Forte Da Casa,1
+LISBOA,western_union,Alverca,1
+LISBOA,western_union,Portela Lrs,1
+LISBOA,western_union,Portela De Sacavem,1
+LISBOA,western_union,Sacavem,3
+LISBOA,western_union,Bobadela,1
+SETUBAL,western_union,Cova Da Piedade,1
+LISBOA,western_union,Vialonga,2
+LISBOA,western_union,Santa Iria De Azoia,1
+LISBOA,western_union,Moscavide,4
+SETUBAL,western_union,Almada,5
+LISBOA,western_union,Sao Joao Da Talha,2
+LISBOA,western_union,Almada,1
+LISBOA,western_union,Areeiro,1
+SETUBAL,western_union,Charneca Da Caparica,1
+LEIRIA,western_union,Turquel,1
+LISBOA,western_union,Lisboa Miguel Bombarda,1
+LEIRIA,western_union,Benedita,1
+LISBOA,western_union,Prior Velho,2
+LISBOA,western_union,Lisbon,1
+LISBOA,western_union,Camarate,3
+LISBOA,western_union,Campo De Ourique,1
+SETUBAL,western_union,Monte De Caparica,1
+LISBOA,western_union,Abrigada,1
+LEIRIA,western_union,Alcobaca,1
+LISBOA,western_union,Bucelas,1
+LISBOA,western_union,Arruda Dos Vinhos,3
+LEIRIA,western_union,Pataias,1
+LISBOA,western_union,Apelacao,1
+LISBOA,western_union,Odivelas,11
+LEIRIA,western_union,Valado Dos Frades,1
+LISBOA,western_union,Loures,3
+SETUBAL,western_union,Costa Da Caparica,2
+LISBOA,western_union,Santo Antonio Dos Cavaleiros,1
+LISBOA,western_union,Amadora,18
+LISBOA,western_union,Aldeia Galega Da Merceana,1
+LISBOA,western_union,Alges,2
+LISBOA,western_union,Carnaxide,2
+LISBOA,western_union,Pontinha,4
+ALGES,western_union,Alges,1
+LISBOA,western_union,Loures Extensao,1
+LISBOA,western_union,Lousa,2
+LEIRIA,western_union,Nazare,2
+LISBOA,western_union,Linda A Velha,2
+LISBOA,western_union,Belas,2
+LISBOA,western_union,Oeiras,4
+LISBOA,western_union,Barcarena,1
+LISBOA,western_union,Paco De Arcos,1
+LEIRIA,western_union,Bombarral,1
+LISBOA,western_union,Cacem,3
+LEIRIA,western_union,Sao Martinho Do Porto,1
+LISBOA,western_union,Agualva Cacem,3
+LEIRIA,western_union,Caldas Da Rainha,5
+LISBOA,western_union,Almargem Do Bispo,1
+SETUBAL,western_union,Agualva De Cima Portugal,1
+LISBOA,western_union,Venda Do Pinheiro,1
+LEIRIA,western_union,Obidos,1
+LISBOA,western_union,Porto Salvo,1
+LISBOA,western_union,Canecas,2
+LISBOA,western_union,Queijas,1
+LISBOA,western_union,Cadaval Ii,1
+LISBOA,western_union,Sobral De Monte Agraco,2
+LISBOA,western_union,Cadaval,2
+LISBOA,western_union,Sobral Monte Agraco,1
+LISBOA,western_union,Torres Vedras,3
+LISBOA,western_union,Moita Dos Ferreiros,1
+LISBOA,western_union,Estoril,3
+LISBOA,western_union,Mem Martins,4
+LISBOA,western_union,Pero Pinheiro,1
+LISBOA,western_union,Rio De Mouro,3
+LISBOA,western_union,Tapada Das Merces,1
+LISBOA,western_union,Sintra,5
+LISBOA,western_union,Algueirao Mem Martins,1
+LISBOA,western_union,Rinchoa,1
+LISBOA,western_union,Cascais,7
+MALVEIRA,western_union,Malveira,1
+LISBOA,western_union,Parede,2
+LISBOA,western_union,S Domingos De Rana,1
+LISBOA,western_union,Malveira,1
+LEIRIA,western_union,Usseira,1
+LISBOA,western_union,Carcavelos,1
+LISBOA,western_union,Marteleira,1
+LISBOA,western_union,Moita Dos Ferreiros I,1
+LISBOA,western_union,Mafra,1
+LISBOA,western_union,Alcabideche,1
+LEIRIA,western_union,Foz Do Arelho,1
+VIANADOCASTELO,western_union,Arcos De Valdevez,4
+VIANADOCASTELO,western_union,Areosa,1
+VIANADOCASTELO,western_union,Ponte De Lima,3
+VIANADOCASTELO,western_union,Abelheira,1
+VIANADOCASTELO,western_union,Vila Nova De Cerveira,3
+VIANADOCASTELO,western_union,Caminha,2
+VIANADOCASTELO,western_union,Paredes De Coura,1
+VIANADOCASTELO,western_union,Ancora,1
+VIANADOCASTELO,western_union,Moncao,1
+VIANADOCASTELO,western_union,Valenca,3
+VIANADOCASTELO,western_union,Melgaco,1
+MADEIRA,western_union,Porto Santo,1
+MADEIRA,western_union,Machico,1
+MADEIRA,western_union,Santana,1
+MADEIRA,western_union,Santa Cruz,2
+MADEIRA,western_union,Canico,1
+MADEIRA,western_union,Funchal,10
+MADEIRA,western_union,Sao Vicente,1
+MADEIRA,western_union,Camara De Lobos,2
+MADEIRA,western_union,Porto Moniz,1
+MADEIRA,western_union,Ribeira Brava,1
+MADEIRA,western_union,Ponta Do Sol,1
+MADEIRA,western_union,Canhas,1
+MADEIRA,western_union,Ponta Do Pargo,1
+MADEIRA,western_union,Calheta Madeira,1
+BEJA,western_union,Moura,2
+BEJA,western_union,Barrancos,1
+SETUBAL,western_union,Alvalade Do Sado,1
+SETUBAL,western_union,Santiago Do Cacem,1
+SETUBAL,western_union,Porto Covo,1
+BEJA,western_union,Beja,4
+BEJA,western_union,Mira Serra,1
+BEJA,western_union,Ferreira Do Alentejo,2
+SETUBAL,western_union,Ermidas,1
+BEJA,western_union,Pias,1
+BEJA,western_union,Aljustrel,3
+BEJA,western_union,Vila Nova De Milfontes,4
+SETUBAL,western_union,Cercal Do Alentejo,1
+BEJA,western_union,Serpa,2
+BEJA,western_union,Cabeca Gorda,1
+BEJA,western_union,Vila Verde De Ficalho,1
+BEJA,western_union,S. Luis,1
+BEJA,western_union,Vila Nova De Sao Bento,1
+BEJA,western_union,Almograve,1
+BEJA,western_union,Odemira,2
+BEJA,western_union,Castro Verde,2
+BEJA,western_union,Ourique,1
+SETUBAL,western_union,Ourique,1
+BEJA,western_union,S Teotonio,1
+BEJA,western_union,Sao Teotonio,1
+FARO,western_union,Odeceixe,1
+BEJA,western_union,Mertola,2
+FARO,western_union,Aljezur,2
+BEJA,western_union,Almodovar,2
+FARO,western_union,Monchique,2
+FARO,western_union,Martinlongo,1
+FARO,western_union,Alcoutim,2
+FARO,western_union,Sagres,2
+FARO,western_union,Vila Do Bispo,2
+FARO,western_union,Luz,2
+FARO,western_union,S Bartolomeu Messines,1
+FARO,western_union,S Bartolomeu De Messines,1
+FARO,western_union,Silves,1
+FARO,western_union,Alvor,3
+FARO,western_union,Lagos,4
+LAGOS,western_union,Lagos,1
+LEIRIA,western_union,Vau,1
+FARO,western_union,Portimao,5
+FARO,western_union,Lagoa,2
+FARO,western_union,Paderne,1
+FARO,western_union,Carvoeiro,2
+FARO,western_union,Armacao De Pera,1
+AVEIRO,western_union,Armacao De Pera,1
+FARO,western_union,Alte,1
+FARO,western_union,Ferreiras,1
+FARO,western_union,Boliqueime,1
+FARO,western_union,Albufeira,14
+FARO,western_union,Castro Marim,1
+FARO,western_union,Loule,5
+FARO,western_union,S Bras Alportel,1
+FARO,western_union,Tavira,3
+FARO,western_union,Vila Real De Santo Antonio,2
+FARO,western_union,Sao Bras De Alportel,1
+FARO,western_union,Sta Catarina Da Fonte Do Bis,1
+FARO,western_union,Altura,1
+FARO,western_union,Vilamoura,1
+FARO,western_union,Vila Nova De Cacela,1
+FARO,western_union,Monte Gordo,2
+FARO,western_union,Quarteira,4
+FARO,western_union,Almancil,3
+FARO,western_union,Moncarapacho,1
+FARO,western_union,Faro,10
+FARO,western_union,Fuzeta,1
+FARO,western_union,Olhao,5
+BEJA,western_union,Alvito,2
+PORTO,western_union,Sao Martinho Do Campo,1
+PORTO,western_union,Lordelo,1
+BEJA,western_union,Cuba,2
+AVEIRO,western_union,Santa Maria Feira,1
+BRAGA,western_union,Guimaraes,5
+AVEIRO,western_union,Fiaes,1
+AVEIRO,western_union,Santa Maria Da Feira,2
+PORTO,western_union,Frazao,1
+AVEIRO,western_union,Lourosa,1
+BRAGA,western_union,Urgezes,1
+PORTO,western_union,Pacos De Ferreira,1
+BRAGA,western_union,Vieira Do Minho,1
+PORTO,western_union,Rebordosa,1
+EVORA,western_union,Viana Do Alentejo,1
+BEJA,western_union,Viana Do Alentejo,1
+PORTO,western_union,Lever,1
+BRAGA,western_union,Caldas De Vizela,1
+AVEIRO,western_union,Arrifana,1
+AVEIRO,western_union,Canedo,1
+EVORA,western_union,Montemor-o-novo,2
+AVEIRO,western_union,Sao Joao Da Madeira,4
+AVEIRO,western_union,S Joao Da Madeira,1
+BEJA,western_union,Vidigueira,1
+AVEIRO,western_union,Oliveira De Azemeis,2
+BRAGA,western_union,Fafe,2
+BRAGA,western_union,Fafe  Zona Urbana,1
+PORTO,western_union,Lousada,3
+PORTO,western_union,Paredes,1
+PORTO,western_union,Felgueiras,2
+AVEIRO,western_union,Cesar,1
+PORTO,western_union,Penafiel,3
+AVEIRO,western_union,Albergaria A Velha,3
+VILAREAL,western_union,Montalegre,2
+PORTO,western_union,Lixa,1
+PORTO,western_union,Vila Mea,1
+AVEIRO,western_union,Trofa,1
+AVEIRO,western_union,Vale De Cambra,2
+AVEIRO,western_union,Sever Do Vouga,2
+AVEIRO,western_union,Agueda,2
+PORTO,western_union,Alpendurada E Matos,1
+AVEIRO,western_union,Castelo De Paiva,1
+BRAGA,western_union,Cabeceiras De Basto,2
+VISEU,western_union,Ariz,1
+EVORA,western_union,Mora,2
+BRAGA,western_union,Celorico De Basto,1
+PORTO,western_union,Amarante,1
+EVORA,western_union,Evora,2
+EVORA,western_union,Praca Do Giraldo,1
+AVEIRO,western_union,Arouca,1
+PORTO,western_union,Marco De Canavezes,1
+EVORA,western_union,Portel,1
+VILAREAL,western_union,Boticas,1
+VILAREAL,western_union,Ribeira De Pena,2
+SANTAREM,western_union,Tramagal,1
+VISEU,western_union,Cinfaes,1
+VILAREAL,western_union,Mondim De Basto,1
+EVORA,western_union,Arraiolos,1
+PORTO,western_union,Baiao,3
+COIMBRA,western_union,Penacova,1
+VISEU,western_union,Oliveira De Frades,1
+VISEU,western_union,Resende,1
+VILAREAL,western_union,Chaves,3
+COIMBRA,western_union,Lousa (coimbra),1
+COIMBRA,western_union,Lousa,1
+VISEU,western_union,Mortagua,2
+COIMBRA,western_union,Vila Nova De Poiares,1
+LEIRIA,western_union,Castanheira De Pera,2
+VISEU,western_union,Vouzela,2
+EVORA,western_union,Reguengos De Monsaraz,1
+SANTAREM,western_union,Sardoal,2
+VILAREAL,western_union,Mesao Frio,1
+CASTELOBRANCO,western_union,Cernache Do Bonjardim,1
+VILAREAL,western_union,Vila Real,3
+LEIRIA,western_union,Pedrogao Grande,2
+BEJA,western_union,Amareleja,1
+VISEU,western_union,Carregal Do Sal,1
+SANTAREM,western_union,Cardigos,1
+COIMBRA,western_union,Tabua,2
+SANTAREM,western_union,Macao,1
+COIMBRA,western_union,Arganil,1
+VILAREAL,western_union,Carrazedo Montenegro,1
+PORTALEGRE,western_union,Cano,1
+EVORA,western_union,Redondo,1
+VILAREAL,western_union,Murca,1
+BRAGANCA,western_union,Vinhais,1
+EVORA,western_union,Estremoz,2
+VILAREAL,western_union,Sabrosa,1
+VISEU,western_union,Armamar,2
+PORTALEGRE,western_union,Sousel,1
+VISEU,western_union,Viseu,4
+VILAREAL,western_union,Valpacos,1
+EVORA,western_union,Sao  Pedro Do Corval,1
+VISEU,western_union,Santa Comba Dao,2
+PORTALEGRE,western_union,Ponte De Sor,1
+CASTELOBRANCO,western_union,Vila De Rei,2
+VISEU,western_union,Sao Pedro Do Sul,1
+VILAREAL,western_union,Vila Pouca De Aguiar,2
+VISEU,western_union,Campia,1
+VISEU,western_union,Tarouca,1
+BRAGA,western_union,Gaviao,1
+VISEU,western_union,Lamego,1
+EVORA,western_union,Mourao,1
+VILAREAL,western_union,Peso Regua,1
+VILAREAL,western_union,Peso De Regua,1
+VISEU,western_union,Castro Daire,1
+COIMBRA,western_union,Gois,1
+CASTELOBRANCO,western_union,Serta,2
+AVEIRO,western_union,Paivas,1
+CASTELOBRANCO,western_union,Proenca A Nova,2
+COIMBRA,western_union,Pampilhosa Da Serra,2
+VISEU,western_union,Canas De Senhorim,1
+VISEU,western_union,Moimenta Da Beira,1
+BRAGANCA,western_union,Mirandela,3
+VISEU,western_union,Satao,2
+EVORA,western_union,Vila Vicosa,1
+EVORA,western_union,Borba,2
+COIMBRA,western_union,Oliveira Do Hospital,2
+VISEU,western_union,Tondela,2
+VILAREAL,western_union,Santa Marta De Penaguiao,1
+PORTALEGRE,western_union,Avis,1
+VISEU,western_union,Tabuaco,1
+VILAREAL,western_union,Alijo,1
+VISEU,western_union,Vila Nova De Paiva,1
+EVORA,western_union,Alandroal,1
+PORTALEGRE,western_union,Fronteira,1
+VISEU,western_union,Nelas,1
+CASTELOBRANCO,western_union,Oleiros,2
+COIMBRA,western_union,Avo,1
+SANTAREM,western_union,Pego,1
+PORTALEGRE,western_union,Cabeco De Vide,1
+VISEU,western_union,Mangualde,2
+PORTALEGRE,western_union,Alter Do Chao,1
+BRAGANCA,western_union,Braganca,3
+PORTALEGRE,western_union,Crato,1
+VISEU,western_union,Penalva Do Castelo,1
+GUARDA,western_union,S Romao Sei,1
+VISEU,western_union,Sao  Joao Da Pesqueira,1
+GUARDA,western_union,Vila Nova De Tazem,1
+VISEU,western_union,Sao Joao Da Pesqueira,1
+BRAGANCA,western_union,Macedo De Cavaleiros,1
+VISEU,western_union,Sernancelhe,1
+GUARDA,western_union,Aguiar Da Beira,1
+CASTELOBRANCO,western_union,Vila Velha De Rodao,1
+PORTALEGRE,western_union,Monforte,1
+PORTALEGRE,western_union,Nisa,1
+BRAGANCA,western_union,Carrazeda De Ansiaes,1
+GUARDA,western_union,Seia,1
+PORTALEGRE,western_union,Castelo De Vide,1
+PORTALEGRE,western_union,Elvas,1
+PORTALEGRE,western_union,Portalegre,2
+GUARDA,western_union,Fornos De Algodres,1
+GUARDA,western_union,Gouveia,1
+BRAGANCA,western_union,Vila Flor,1
+VISEU,western_union,Penedono,1
+CASTELOBRANCO,western_union,Alcains,1
+BRAGANCA,western_union,Moncorvo,1
+BRAGANCA,western_union,Torre De Moncorvo,1
+GUARDA,western_union,Vila Nova Foz Coa,1
+CASTELOBRANCO,western_union,Castelo Branco,5
+CASTELOBRANCO,western_union,Fundao,2
+GUARDA,western_union,Celorico Da Beira,1
+PORTALEGRE,western_union,Marvao,2
+GUARDA,western_union,Trancoso,1
+CASTELOBRANCO,western_union,Covilha,1
+BRAGANCA,western_union,Alfandega Da Fe,1
+GUARDA,western_union,Meda,1
+BRAGANCA,western_union,Izeda,1
+PORTALEGRE,western_union,Arronches,1
+CASTELOBRANCO,western_union,Belmonte,1
+PORTALEGRE,western_union,Campo Maior,1
+BRAGANCA,western_union,Vimioso,1
+GUARDA,western_union,Guarda,3
+GUARDA,western_union,Pinhel,1
+GUARDA,western_union,Figueira De Castelo Rodrigo,1
+CASTELOBRANCO,western_union,Idanha-a-nova,1
+GUARDA,western_union,Almeida,1
+GUARDA,western_union,Sabugal,1
+GUARDA,western_union,Vilar Formoso,1
+BRAGANCA,western_union,Mogadouro,1
+BRAGANCA,western_union,Miranda Do Douro,1
+CASTELOBRANCO,western_union,Penamacor,1
+BRAGANCA,western_union,Freixo De Espada A Cinta,1
+QUELUZ,western_union,Queluz,1
+LOULE,western_union,Loule,1

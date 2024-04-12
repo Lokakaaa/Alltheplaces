@@ -1,0 +1,13 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+11429,abc_pl,abc,,Częstkowo,pomorskie,,PL,,,,abc,Q11683985
+11261,abc_pl,abc,,Przetoczyno,pomorskie,,PL,,,,abc,Q11683985
+13509,groszek_pl,Groszek,,Szemud,pomorskie,,PL,,,,Groszek,Q9280965
+CZT01M,paczkomat_inpost_pl,Przy sklepie Groszek,,Częstkowo,pomorskie,,PL,,https://inpost.pl/paczkomat-czestkowo-czt01m-wejherowska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KAEN01APP,paczkomat_inpost_pl,Przy sklepie spożywczym,,Kamień,pomorskie,,PL,,https://inpost.pl/paczkomat-kamien-kaen01app-wladyslawa-reymonta-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+LEBN01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Łebno,pomorskie,,PL,,https://inpost.pl/paczkomat-lebno-lebn01m-kartuska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+POP-CZE40,paczkomat_inpost_pl,GROSZEK CZĘSTKOWO,,Częstkowo,pomorskie,,PL,,https://inpost.pl/paczkomat-czestkowo-pop-cze40-wejherowska-paczkomaty-pomorskie,Mo-Sa 06:00-18:00,Paczkomat,Q110970254
+POP-SZM3,paczkomat_inpost_pl,SKLEP WIELOBRANŻOWY KWADJA,,Szemud,pomorskie,,PL,,https://inpost.pl/paczkomat-szemud-pop-szm3-wejherowska-paczkomaty-pomorskie,Mo-Fr 09:00-17:00; Sa 08:00-15:00; Su 00:00-01:00,Paczkomat,Q110970254
+PTCN01G,paczkomat_inpost_pl,Przy sklepie spożywczym,,Przetoczyno,pomorskie,,PL,,https://inpost.pl/paczkomat-przetoczyno-ptcn01g-wiatrowa-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+SMD01M,paczkomat_inpost_pl,parking Boterm,,Szemud,pomorskie,,PL,,https://inpost.pl/paczkomat-szemud-smd01m-wejherowska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+SMD02M,paczkomat_inpost_pl,Market Dino,,Szemud,pomorskie,,PL,,https://inpost.pl/paczkomat-szemud-smd02m-wejherowska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+268822,poczta_polska_pl,UP Szemud,,Szemud,POMORSKIE,,PL,+48 58 676 11 22;+48 58 676 11 80,,,Poczta Polska,Q168833

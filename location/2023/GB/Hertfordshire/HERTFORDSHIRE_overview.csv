@@ -1,0 +1,390 @@
+City,Place Name,Zipcode,Name
+Watford,apple,,unknown,Apple Watford
+Borehamwood,asda_gb,,unknown,Asda
+Hitchin,asda_gb,,unknown,Asda
+Hoddesdon,asda_gb,,unknown,Asda
+Stevenage,asda_gb,,unknown,Asda
+Hemel Hempstead,asda_gb,,unknown,Asda
+Watford,asda_gb,,unknown,Asda
+Hemel Hempstead,benchmarx_gb,,unknown,Benchmarx
+London,benchmarx_gb,,unknown,Benchmarx
+Welwyn Garden City,benchmarx_gb,,unknown,Benchmarx
+Stevenage,bestone_gb,,unknown,Best-one
+Welwyn Garden City,bhf_gb,,unknown,Welwyn Garden BHF Charity Shop
+Watford,bhf_gb,,unknown,Watford BHF Charity Shop
+Hertford,bhf_gb,,unknown,Hertford BHF Charity Shop
+Bishops Stortford,bmw_group,,unknown,Group 1 Stansted
+Borehamwood,bmw_group,,unknown,Group 1 Borehamwood
+Watford,bmw_group,,unknown,Group 1 Watford Authorised Repairer
+Tring,bmw_group,,unknown,Sytner Tring
+Stevenage,bmw_group,,unknown,Sytner Stevenage
+Watton-at-Stone,budgens_gb,,unknown,Budgens Budgens Watton at Stone
+Kimpton,budgens_gb,,unknown,Budgens Kimpton
+Stevenage,budgens_gb,,unknown,Budgens Pin Green
+Walkern,budgens_gb,,unknown,Budgens Walkern
+unknown,budgens_gb,,unknown,Budgens Berkhamsted
+Watford,budgens_gb,,unknown,Budgens Watford
+Hatfield,burgerking,,unknown,Burger King
+Welwyn Garden City,burgerking,,unknown,Burger King
+Borehamwood,b_and_m,,unknown,B&M Borehamwood (755) Home Store
+Hitchin,b_and_m,,unknown,B&M Hitchin (616) Store with Garden Centre
+Hatfield,b_and_m,,unknown,B&M Hatfield (612) Home Store with Garden Centre
+Stevenage,b_and_m,,unknown,B&M Stevenage - London Road (527) Home Store
+Letchworth,b_and_m,,unknown,B&M Letchworth (442) Home Store
+Watford,b_and_m,,unknown,B&M Watford (374) Store
+Hemel Hempstead,b_and_m,,unknown,B&M Hemel Hempstead (229) Store
+Bishop's Stortford,b_and_m,,unknown,B&M Bishop's Stortford (97) Store
+Letchworth,carpetright_gb,,unknown,Carpetright
+Welwyn Garden City,carpetright_gb,,unknown,Carpetright
+Hemel Hempstead,carpetright_gb,,unknown,Carpetright
+Watford,carpetright_gb,,unknown,Carpetright
+Stevenage,carpetright_gb,,unknown,Carpetright
+unknown,central_england_cooperative,,unknown,unknown
+Hertford,cex,,unknown,Hertford
+Letchworth,cex,,unknown,Letchworth
+Borehamwood,cex,,unknown,Borehamwood
+Welwyn Garden City,cex,,unknown,Welwyn Garden City
+Hatfield,cex,,unknown,Hatfield
+Bishops Stortford,cex,,unknown,Bishops Stortford
+Waltham Cross,cex,,unknown,Waltham Cross
+ST Albans,cex,,unknown,St Albans
+Stevenage,cex,,unknown,Stevenage
+Hemel Hempstead,cex,,unknown,Hemel Hempstead
+Watford,cex,,unknown,Watford
+Watford,costcutter_gb,,unknown,"Costcutter - Owen Square, Watford"
+St Albans,dunelm_gb,,unknown,St Albans
+Watford,dunelm_gb,,unknown,Watford
+St Albans,ember_inns_gb,,unknown,"Three Hammers, St. Albans St Albans"
+Hemel Hempstead,ember_inns_gb,,unknown,"Crabtree, Hemel Hempstead Hemel Hempstead"
+Watford,ember_inns_gb,,unknown,The Essex Arms Watford
+Welwyn Garden City,ember_inns_gb,,unknown,The Attimore Hall Welwyn Garden City
+Watford,favorite_chicken_gb,,unknown,Favorite Chicken & Ribs
+Waltham Cross,favorite_chicken_gb,,unknown,Favorite Chicken & Ribs
+Stevenage,favorite_chicken_gb,,unknown,Favorite Chicken & Ribs
+St Albans,favorite_chicken_gb,,unknown,Favorite Chicken & Ribs
+Hoddesdon,favorite_chicken_gb,,unknown,Favorite Chicken & Ribs
+Hemel Hempstead,favorite_chicken_gb,,unknown,Favorite Chicken & Ribs
+Hatfield,favorite_chicken_gb,,unknown,Favorite Chicken & Ribs
+Watford,furniture_village_gb,,unknown,Furniture Village Watford
+Stevenage,furniture_village_gb,,unknown,Furniture Village Stevenage
+Borehamwood,game_gb,,unknown,GAME Borehamwood
+Stevenage,game_gb,,unknown,GAME Stevenage Forum
+Hemel Hempstead,game_gb,,unknown,GAME Hemel Hempstead
+"Cheshunt, Waltham Cross",game_gb,,unknown,GAME Cheshunt
+Welwyn Garden City,grape_tree_gb,,unknown,Grape Tree Welwyn Garden City
+Hatfield,grape_tree_gb,,unknown,Grape Tree Hatfield
+Hertford,indigo,,unknown,Hertford County Hospital Car Park
+Watford,indigo,,unknown,Watford Station Car Park (TfL)
+Bishop's Stortford,indigo,,unknown,Herts and Essex Community Hospital
+Hemel Hempstead,indigo,,unknown,Hemel Hempstead Hospital Patient & Visitor Car Park
+St Albans,indigo,,unknown,St Albans Abbey Station Car Park
+Abbots Langley,indigo,,unknown,Jacketts Field Patient & Visitor Car Park
+Berkhamstead,indigo,,unknown,Berkhamsted Station Car Park
+Kings Langley,indigo,,unknown,Kings Langley Station Car Park
+Tring,indigo,,unknown,Tring Station Car Park
+Waltham Cross,indigo,,unknown,Theobalds Grove Station Car Park (TfL)
+Chorleywood,indigo,,unknown,Chorleywood Station Car Park (TfL)
+Croxley,indigo,,unknown,Croxley Station Car Park (TfL)
+St Albans,j_d_wetherspoon,St Peters Street St Albans Hertfordshire AL1 3LE,unknown,Waterend Barn
+Letchworth,j_d_wetherspoon,18–20 Leys Avenue Letchworth Hertfordshire SG6 3EW,unknown,The Three Magnets
+Hoddesdon,j_d_wetherspoon,105 High Street Hoddesdon Hertfordshire EN11 8TN,unknown,The Star
+Stevenage,j_d_wetherspoon,33 High Street Stevenage Hertfordshire SG1 3AU,unknown,The Standing Order
+Hertford,j_d_wetherspoon,1 The Wash Hertford Hertfordshire SG14 1PS,unknown,The Six Templars
+Bishop’s Stortford,j_d_wetherspoon,Ground Floor Units D1/D2 Block D Riverside Wharf Riverside Bishop’s Stortford Hertfordshire CM23 3GN,unknown,The Port Jackson
+Rickmansworth,j_d_wetherspoon,115–117 High Street Rickmansworth Hertfordshire WD3 1AN,unknown,The Pennsylvanian
+Watford,j_d_wetherspoon,44 High Street Watford Hertfordshire WD17 2BS,unknown,The Moon Under Water
+Waltham Cross,j_d_wetherspoon,104–106 High Street Waltham Cross Hertfordshire EN8 7BX,unknown,The Moon and Cross
+Royston,j_d_wetherspoon,14 Melbourn Street Royston Hertfordshire SG8 7BZ,unknown,The Manor House
+Borehamwood,j_d_wetherspoon,148 Shenley Road Borehamwood Hertfordshire WD6 1EQ,unknown,The Hart & Spool
+Hemel Hempstead,j_d_wetherspoon,128 Marlowes Hemel Hempstead Hertfordshire HP1 1EZ,unknown,The Full House
+Berkhamsted,j_d_wetherspoon,145 High Street Berkhamsted Hertfordshire HP4 3HH,unknown,The Crown
+Hitchin,j_d_wetherspoon,5 Sun Street Hitchin Hertfordshire SG5 1AE,unknown,The Angel Vaults Inn
+Potters Bar,j_d_wetherspoon,186–192 Darkes Lane Potters Bar Hertfordshire EN6 1AF,unknown,The Admiral Byng
+Hatfield,j_d_wetherspoon,13a Parkhouse Court Hatfield Hertfordshire AL10 9RQ,unknown,Harpsfield Hall
+Hitchin,kwik_fit_gb,,unknown,Kwik Fit Plus - Hitchin - Bedford Road
+Hertford,kwik_fit_gb,,unknown,Kwik Fit - Hertford
+St Albans,leightons_gb,,unknown,Leightons Opticians & Hearing Care
+Bishop's Stortford,londis_gb,,unknown,Londis Start Hill
+Hertford,londis_gb,,unknown,Londis Hertford
+Welwyn Garden City,londis_gb,,unknown,Londis Eastbridge
+Uxbridge Rd Rickmansworth,londis_gb,,unknown,Londis Rickmansworth
+Hitchin,londis_gb,,unknown,Londis LONDIS - WHITWELL P.O. & STORE
+Buntingford,londis_gb,,unknown,Londis Buntingford
+Letchworth Garden City,londis_gb,,unknown,Londis Jackmans
+Arrington,londis_gb,,unknown,Londis Arrington
+Royston,londis_gb,,unknown,Londis LONDIS - LITLINGTON
+Rickmansworth,londis_gb,,unknown,Londis LONDIS - TUDOR PARADE
+Hatfield,londis_gb,,unknown,Londis LONDIS - GALA EXPRESS
+Bushey,londis_gb,,unknown,Londis LONDIS BUSHEY
+Bricket Wood,londis_gb,,unknown,Londis LONDIS OAKWOOD ROAD
+Stevenage,londis_gb,,unknown,Londis Shell Stevenage Service Station
+Watton at stone,londis_gb,,unknown,"Londis Londis, Watton at stone"
+Croxley green,londis_gb,,unknown,"Londis Londis, Croxley Green"
+Garston,londis_gb,,unknown,Londis GARSTON ROAD PARADE LONDIS
+Hemel Hempstead,londis_gb,,unknown,Londis BP Everest Way Service Station
+Broxbourne,londis_gb,,unknown,Londis LONDIS BROXBOURNE
+Ware,londis_gb,,unknown,Londis LONDIS THE GREEN WARE
+Barley,londis_gb,,unknown,Londis BARLEY STORES
+Potters Bar,londis_gb,,unknown,Londis Jet Potters Bar Service Station
+Watford,londis_gb,,unknown,Londis Vimco Food & Wine
+Much Hadam,londis_gb,,unknown,Londis VILLAGE CONVIENIENCE STORE
+Bishops Stortford,londis_gb,,unknown,Londis POST OFFICE STORES
+St Albans,londis_gb,,unknown,Londis Shell King William Service Station
+Kings Langley,londis_gb,,unknown,Londis Texaco Primrose Service Station
+Sarratt,londis_gb,,unknown,Londis Post Office Stores
+Barent,londis_gb,,unknown,Londis Texaco Wood Street Service Station
+Welwyn Garden City,marstons_plc,Bessemer Road Welwyn Garden City Hertfordshire AL7 1HH,unknown,Bakehouse
+Hitchin,marstons_plc,31 Market Place Hitchin Hertfordshire SG5 1DY,unknown,Pitcher & Piano Hitchin
+Chorleywood,midcounties_cooperative_gb,,unknown,Your Coop Food
+Watford,midcounties_cooperative_gb,,unknown,Watford South Oxhey Nursery
+Rickmansworth,miller_and_carter_gb,,unknown,Miller & Carter Rickmansworth Croxley Green
+Kings Langley,miller_and_carter_gb,,unknown,Miller & Carter Kings Langley Hertfordshire
+St Albans,miller_and_carter_gb,,unknown,Miller & Carter St Albans St Albans
+Hatfield,miller_and_carter_gb,,unknown,Miller & Carter Brookmans Park Potters Bar
+Letchworth Garden City,morrisons_gb,,unknown,Letchworth
+St Albans,morrisons_gb,,unknown,Morrisons Daily St Albans Cell Barnes Lane
+Welwyn Garden City,morrisons_gb,,unknown,Welwyn Garden City Petrol Station
+Borehamwood,morrisons_gb,,unknown,Morrisons Daily Borehamwood Hartforde Road
+Hoddesdon,morrisons_gb,,unknown,Hoddesdon
+Watford,morrisons_gb,,unknown,Morrisons Daily Watford Tolpits Lane
+Royston,morrisons_gb,,unknown,Morrisons Daily Royston Queens Road
+Hatfield,morrisons_gb,,unknown,Morrisons Daily Hatfield
+Tring,morrisons_gb,,unknown,Morrisons Daily Tring High Street
+Rickmansworth,morrisons_gb,,unknown,Morrisons Daily Rickmansworth Maple Cross
+Hemel Hempstead,morrisons_gb,,unknown,Morrisons Daily Hemel Hempstead Queens Sq
+Sawbridgeworth,morrisons_gb,,unknown,Morrisons Daily Sawbridgeworth Bell Street
+Welwyn Gdn City,morrisons_gb,,unknown,Martin's Welwyn Garden Moors Walk
+Stevenage,morrisons_gb,,unknown,Morrisons Daily Stevenage High Street
+Bishops Stortfd,morrisons_gb,,unknown,Morrisons Daily Bishops Stortford Snowley
+Abbots Langley,morrisons_gb,,unknown,Martin's Abbots Langley High St
+Bushey,morrisons_gb,,unknown,Morrisons Daily Bushey 78 High Road
+Ware,morrisons_gb,,unknown,Martin's Ware Amwell End
+Letchworth,morrisons_gb,,unknown,Morrisons Daily Letchworth Station Rd
+Welwyn Garden,morrisons_gb,,unknown,Martin's Welwyn Garden City Hallgrove
+Harpenden,morrisons_gb,,unknown,Morrisons Daily Harpenden High Street
+Potters Bar,national_trust_gb,,unknown,Morven Park
+near Welwyn,national_trust_gb,,unknown,Shaw's Corner
+Near Berkhamsted,national_trust_gb,,unknown,Ashridge Estate
+Watford,next,,unknown,Watford - Waterfields
+STEVENAGE,next,,unknown,STEVENAGE - THE FORUM
+HITCHIN,next,,unknown,HITCHIN
+Stevenage,o2_gb,,unknown,O2 Shop Stevenage
+St. Albans,o2_gb,,unknown,O2 Shop St Albans
+Watford,o2_gb,,unknown,O2 Shop Watford
+Hitchin,o2_gb,,unknown,O2 Shop Hitchin
+Bishops Stortford,o2_gb,,unknown,O2 Shop Bishops Stortford
+Welwyn Garden City,o2_gb,,unknown,O2 Shop Welwyn Garden City
+Hemel Hempstead,o2_gb,,unknown,O2 Shop Hemel Hempstead
+Hertfordshire,pizza_express_gb,242-248 High Street Barnet Hertfordshire EN5 5TD,unknown,Barnet High Street
+Hertfordshire,pizza_express_gb,114 Watling Street Radlett Hertfordshire WD7 7AB,unknown,Radlett Watling Street
+Herfordshire,pizza_express_gb,Unit A3 Riverside Hemel Hempstead Herfordshire HP1 1BT,unknown,Hemel Hempstead Riverside
+Hertfordshire,pizza_express_gb,11 Verulam Road St Albans Hertfordshire AL3 4DA,unknown,St Albans Verulam Road
+Berkhamsted,pizza_express_gb,300 High Street Berkhamsted Hertfordshire HP4 1ZZ,unknown,Berkhamsted High Street
+Hertfordshire,pizza_express_gb,40 Howardsgate Welwyn Garden City Hertfordshire AL8 6BJ,unknown,Welwyn Garden City Howardsgate
+Bishops Stortford,pizza_express_gb,25 North Street Bishops Stortford Hertfordshire CM23 2LD,unknown,Bishops Stortford North Street
+Hertfordshire,pizza_express_gb,19 Market Place Hitchin Hertfordshire SG5 1DT,unknown,Hitchin Market Place
+Hertfordshire,pizza_hut_gb,,unknown,Pizza Hut Borehamwood
+Stevenage,premier_gb,,unknown,Premier Sandersons Convenience Store
+Welwyn,premier_gb,,unknown,Premier Mardley Stores
+Hatfield,premier_gb,,unknown,Premier Garden Village Stores
+Cheshunt,premier_gb,,unknown,Premier Cromwell Local Store
+Letchworth,premier_gb,,unknown,Premier Basra Food & Wine
+Hitchin,premier_gb,,unknown,Premier Sunny's
+Letchworth Garden City,premier_gb,,unknown,Premier Triangle Stores
+Watford,premier_gb,,unknown,Premier The Corner Shop
+Hemel Hempstaed,premier_gb,,unknown,Premier Warners End
+St Albans,premier_gb,,unknown,Premier Harpenden Road
+Welwyn Garden City,screwfix_gb,,unknown,Screwfix Welwyn Garden City
+Watford,screwfix_gb,,unknown,Screwfix Watford - Imperial Way
+Stevenage,screwfix_gb,,unknown,Screwfix Stevenage
+St Albans,screwfix_gb,,unknown,Screwfix St Albans - Hatfield Road
+Letchworth,screwfix_gb,,unknown,Screwfix Letchworth
+Hoddesdon,screwfix_gb,,unknown,Screwfix Hoddesdon
+Hertford,screwfix_gb,,unknown,Screwfix Hertford
+Hemel Hempstead,screwfix_gb,,unknown,Screwfix Hemel Hempstead
+Borehamwood,screwfix_gb,,unknown,Screwfix Borehamwood
+Bishop's Stortford,screwfix_gb,,unknown,Screwfix Bishops Stortford
+Berkhamsted,screwfix_gb,,unknown,Screwfix Berkhamsted
+BERKHAMSTED,shell,,unknown,SHELL BUDGENS BERKHAMSTED
+HEMEL HEMPSTEAD,shell,,unknown,MFG APSLEY
+ST ALBANS,shell,,unknown,SHELL ORBITAL
+AMERSHAM,shell,,unknown,AMERSHAM SERVICE STATION
+HITCHIN,shell,,unknown,SHELL HITCHIN
+Hitchin,shell,,unknown,EV WAITROSE HITCHIN
+KINGS LANGLEY,shell,,unknown,SHELL HUNTON BRIDGE
+ST. ALBANS,shell,,unknown,SHELL SMALLFORD
+Rickmansworth,shell,,unknown,SHELL CROXLEY GREEN
+Barnet,shell,,unknown,SHELL LITTLE WAITROSE STIRLING
+BOREHAMWOOD,shell,,unknown,SHELL ELSTREE WAY
+WALTHAM CROSS,shell,,unknown,MFG CHESHUNT
+BROXBOURNE,shell,,unknown,SHELL LITTLE WAITROSE BROXBOURNE
+WELWYN GARDEN CITY,shell,,unknown,SHELL LITTLE WAITROSE WELWYN GARDEN
+Welwyn Garden City,shell,,unknown,EV WAITROSE WELWYN GARDEN CITY
+SAWBRIDGEWORTH,shell,,unknown,SHELL LW SAWBRIDGEWORTH
+Baldock Road,shell,,unknown,SHELL BALDOCK
+STEVENAGE,shell,,unknown,MFG STEVENAGE
+Bishops Stortford,shell,,unknown,SHELL OAKLANDS PARK
+BISHOPS STORTFORD,shell,,unknown,BIRCHANGER MWSA
+unknown,shoezone_gb,,unknown,Shoe Zone
+Rickmansworth,specsavers,,unknown,Rickmansworth
+Watford,specsavers,,unknown,Watford
+Borehamwood,specsavers,,unknown,Borehamwood
+Potters Bar,specsavers,,unknown,Potters Bar
+Hemel Hempstead,specsavers,,unknown,Hemel Hempstead
+St Albans,specsavers,,unknown,St Albans
+Hoddesdon,specsavers,,unknown,Hoddesdon
+Hatfield,specsavers,,unknown,Hatfield
+Welwyn Garden City,specsavers,,unknown,Welwyn Garden City
+Harpenden,specsavers,,unknown,Harpenden
+Bishop's Stortford,specsavers,,unknown,Bishop's Stortford
+Stevenage,specsavers,,unknown,Stevenage
+Hitchin,specsavers,,unknown,Hitchin
+Letchworth Garden City,stonehouse_gb,,unknown,The Wilbury Letchworth
+Waltham,tanning_shop_ie,,unknown,The Tanning Shop Waltham Cross (franchise)
+St. Albans,the_cooperative_group,,unknown,St Albans Funeralcare
+Northolt,the_cooperative_group,,unknown,"The Co-operative Food, LSHF Northolt"
+Watford,the_cooperative_group,,unknown,Kingswood Funeralcare
+St Albans,the_cooperative_group,,unknown,"The Co-operative Food, St. Albans - London Road"
+Rickmansworth,the_cooperative_group,,unknown,"Co-op Funeralcare, Rickmansworth"
+Welwyn Garden City,the_cooperative_group,,unknown,Welwyn Garden City Funeralcare
+Hemel Hempstead,the_cooperative_group,,unknown,"Co-op Funeralcare, Wood Lane"
+Tring,the_cooperative_group,,unknown,"The Co-operative Food, Tring"
+Stevenage,the_cooperative_group,,unknown,Stevenage Funeralcare
+Ware,the_cooperative_group,,unknown,"The Co-operative Food, Stanstead Abbotts"
+Potters Bar,the_cooperative_group,,unknown,Potters Bar Funeralcare
+Knebworth,the_cooperative_group,,unknown,"The Co-operative Food, Knebworth"
+Harpenden,the_cooperative_group,,unknown,"The Co-operative Food, Batford"
+Waltham Cross,the_cooperative_group,,unknown,"The Co-operative Food, Cheshunt"
+Hertford,the_cooperative_group,,unknown,"The Co-operative Food, Bengeo"
+Croxley Green,the_cooperative_group,,unknown,"The Co-operative Food, Croxley Green - New Road"
+Buntingford,the_cooperative_group,,unknown,"The Co-operative Food, Buntingford"
+Hatfield,the_cooperative_group,,unknown,"The Co-operative Food, Birchwood"
+Borehamwood,the_cooperative_group,,unknown,"Co-op Funeralcare, Borehamwood"
+London Colney,the_cooperative_group,,unknown,London Colney Funeralcare
+Broxbourne,the_cooperative_group,,unknown,Broxbourne Funeralcare
+Hitchin,the_cooperative_group,,unknown,Hitchin Funeralcare (Inc. V R Jennings)
+Letchworth,the_cooperative_group,,unknown,Letchworth Funeralcare
+Watford,the_range,,unknown,The Range: Watford Arches
+Stevenage,the_range,,unknown,The Range: Stevenage
+St Albans,the_range,,unknown,The Range: St Albans
+Hemel Hempstead,the_range,,unknown,The Range: Hemel Hempstead
+Watford,timpson_gb,,unknown,"Watford, Tesco"
+St Albans,timpson_gb,,unknown,"St Albans, Morrisons"
+Hatfield,timpson_gb,,unknown,"Hatfield, Asda"
+Barnet,timpson_gb,,unknown,"Barnet, The Spires"
+Hemel Hempstead,toby_carvery_gb,,unknown,Toby Carvery Hemel Hempstead Hertfordshire
+Stevenage,toby_carvery_gb,,unknown,Toby Carvery Old Forge Stevenage
+Watford,toby_carvery_gb,,unknown,Toby Carvery Aldenham Watford
+Borehamwood,toby_carvery_gb,,unknown,Toby Carvery Oaklands Borehamwood
+Bishop's Stortford,vets4pets_gb,,unknown,Bishops Stortford Vets4Pets
+Borehamwood,vets4pets_gb,,unknown,Borehamwood Vets4Pets
+Hatfield,vets4pets_gb,,unknown,Hatfield Vets4Pets
+Letchworth,vets4pets_gb,,unknown,Letchworth Vets4Pets
+Hertford,vets4pets_gb,,unknown,Hertford Vets4Pets
+Watford,vets4pets_gb,,unknown,Watford Century Vets4Pets
+Stevenage,vets4pets_gb,,unknown,Stevenage Vets4Pets
+St Albans,vets4pets_gb,,unknown,St Albans Vets4Pets
+Hemel Hempstead,vets4pets_gb,,unknown,Hemel Hempstead Vets4Pets
+HATCH END,visa,,unknown,unknown
+SOUTH OXHEY,visa,,unknown,unknown
+WATFORD,visa,,unknown,unknown
+BUSHEY HEATH,visa,,unknown,unknown
+RICKMANSWORTH,visa,,unknown,unknown
+BARNET,visa,,unknown,unknown
+NEW BARNET,visa,,unknown,unknown
+BUSHEY,visa,,unknown,unknown
+BOREHAMWOOD,visa,,unknown,unknown
+ELSTREE,visa,,unknown,unknown
+RADLETT,visa,,unknown,unknown
+WALTHAM CROSS,visa,,unknown,unknown
+SHENLEY,visa,,unknown,unknown
+POTTERS BAR,visa,,unknown,unknown
+"LEAVESDON, WATFORD",visa,,unknown,unknown
+CUFFLEY,visa,,unknown,unknown
+ST ALBANS,visa,,unknown,unknown
+KINGS LANGLEY,visa,,unknown,unknown
+BROXBOURNE,visa,,unknown,unknown
+BOVINGTON,visa,,unknown,unknown
+HEMEL HEMPSTEAD,visa,,unknown,unknown
+HEMPSTEAD,visa,,unknown,unknown
+ST. ALBANS,visa,,unknown,unknown
+HODDESON,visa,,unknown,unknown
+HODDESDON,visa,,unknown,unknown
+HEMEL HEMPSTED,visa,,unknown,unknown
+BERKHAMSTEAD,visa,,unknown,unknown
+HATFIELD,visa,,unknown,unknown
+"GROVE HILL, HEMEL HEMPSTEAD",visa,,unknown,unknown
+WELWYN GARDEN CITY,visa,,unknown,unknown
+WHEATHAMPSTEAD,visa,,unknown,unknown
+HARPENDEN,visa,,unknown,unknown
+WELWYN,visa,,unknown,unknown
+WARE,visa,,unknown,unknown
+KNEBWORTH,visa,,unknown,unknown
+CHESHUNT,visa,,unknown,unknown
+BISHOPS STORTFORD,visa,,unknown,unknown
+BISHOPS STORT,visa,,unknown,unknown
+STEVENAGE,visa,,unknown,unknown
+HITCHIN,visa,,unknown,unknown
+LETCHWORTH,visa,,unknown,unknown
+BALDOCK,visa,,unknown,unknown
+ROYSTON,visa,,unknown,unknown
+HEREFORD,visa,,unknown,unknown
+HERTFORD,visa,,unknown,unknown
+unknown,voyagecare,17 Walsworth Road,unknown,Walsworth Road
+unknown,voyagecare,Birchwood Bungalow,unknown,Birchwood Bungalow
+St Albans,voyagecare,25 Mile House Lane,unknown,Mile House Lane
+Stevenage,voyagecare,Room F21 - Business and Technology Centre,unknown,Hertfordshire DCA
+London Colney,well_gb,,unknown,Well Pharmacy
+Hoddesdon,well_gb,,unknown,Well Pharmacy
+Hertford,well_gb,,unknown,Well Pharmacy
+Berkhamsted,western_union,,unknown,BERKHAMSTED POST OFFICE
+Stevenage,western_union,,unknown,MARYMEAD POST OFFICE
+Royston,western_union,,unknown,ROYSTON POST OFFICE
+Hitchin,western_union,,unknown,WHITWELL POST OFFICE
+Letchworth Garden City,western_union,,unknown,SAINSBURYS  LETCHWORTH
+St Albans,western_union,,unknown,THE CAMP POST OFFICE
+Tring,western_union,,unknown,TRING POST OFFICE
+Baldock,western_union,,unknown,BALDOCK POST OFFICE
+Buntingford,western_union,,unknown,BUNTINGFORD POST OFFICE
+Hemel Hempstead,western_union,,unknown,HEMEL HEMPSTEAD POST OFFICE
+Knebworth,western_union,,unknown,KNEBWORTH POST OFFICE
+Harpenden,western_union,,unknown,SAINSBURYS  LONDON COLNEY
+Welwyn Garden City,western_union,,unknown,PANSHANGER POST OFFICE
+Stalbans,western_union,,unknown,ROBERT DYAS ST ALBANS
+Kings Langley,western_union,,unknown,KINGS LANGLEY POST OFFICE
+Hatfield,western_union,,unknown,BIRCHWOOD POST OFFICE
+Watford,western_union,,unknown,PRESTWICK ROAD POST OFFICE
+Ware,western_union,,unknown,KINGSHILL POST OFFICE
+Rickmansworth,western_union,,unknown,RICKMANSWORTH POST OFFICE
+Bishops Stortford,western_union,,unknown,SHEERING POST OFFICE
+Hertford,western_union,,unknown,HERTFORD POST OFFICE
+Bishop S Stortford,western_union,,unknown,HAYS TRAVEL BISHOPS STORTFORD
+Radlett,western_union,,unknown,SHENLEY POST OFFICE
+Much Hadham,western_union,,unknown,MUCH HADHAM POST OFFICE
+Abbots Langley,western_union,,unknown,ABBOTS LANGLEY POST OFFICE
+Bushey,western_union,,unknown,BUSHEY HEATH POST OFFICE
+Borehamwood,western_union,,unknown,BOREHAMWOOD POST OFFICE
+Sawbridgeworth,western_union,,unknown,SAWBRIDGEWORTH POST OFFICE
+Hoddesdon,western_union,,unknown,HODDESDON POST OFFICE
+Potters Bar,western_union,,unknown,POTTERS BAR POST OFFICE
+Broxbourne,western_union,,unknown,WORMLEY POST OFFICE
+Barnet,western_union,,unknown,JANS
+Waltham Cross,western_union,,unknown,F MOBILE UK
+Royston,whsmith,,unknown,"WHSmith, High Street, Royston"
+Baldock,whsmith,,unknown,"WHSmith, Motorway Services, A1 Junction 10, Baldock"
+Letchworth,whsmith,,unknown,"WHSmith, Leys Avenue, Letchworth"
+Hitchin,whsmith,,unknown,"WHSmith, Bancroft, Hitchin"
+Stevenage,whsmith,,unknown,"WHSmith, Queensway, Stevenage"
+Harpenden,whsmith,,unknown,"WHSmith, High Street, Harpenden"
+Bishops Stortford,whsmith,,unknown,"WHSmith, Bishops Stortford Railway Station"
+Berkhamsted,whsmith,,unknown,"WHSmith, High Street, Berkhamsted"
+Welwyn Garden City,whsmith,,unknown,"WHSmith, The Howard Centre, Welwyn Garden City"
+Hertford,whsmith,,unknown,"WHSmith, Green Street, Hertford"
+St Albans,whsmith,,unknown,"WHSmith, Market Place, St Albans"
+Watford,whsmith,,unknown,"WHSmith, The Intu Centre, Watford"
+Rickmansworth,whsmith,,unknown,"WHSmith, High Street, Rickmansworth"
+Borehamwood,whsmith,,unknown,"WHSmith, Borehamwood Shopping Park"
+Waltham Cross,whsmith,,unknown,"WHSmith, Waltham Cross Shopping Centre"
+Potters Bar,wolseley_gb,,unknown,Potters Bar
+Stevenage,wrenkitchens_gb,,unknown,Stevenage showroom
+Hemel Hempstead,wrenkitchens_gb,,unknown,Hemel Hempstead showroom

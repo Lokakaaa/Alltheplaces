@@ -1,0 +1,15 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+PER-45,aldi_sud_ch,ALDI,"Schönbühl/Langensandstr. 23, Luzern, 6005",Luzern,,,CH,+41 41 361 02 87,,Mo-We 08:30-19:00; Th 08:00-19:00; Fr 08:30-20:00; Sa 07:00-17:00,ALDI,Q41171672
+52-6005-luzern,denner_ch,Denner,,Luzern,,,CH,+41 58 999 14 37,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/moosmattstrasse-50/52-6005-luzern/,Mo-We 08:00-19:00; Th 08:00-21:00; Fr 08:00-19:00; Sa 08:00-17:00,Denner,Q379911
+saelistrasse-21-6005-luzern,denner_ch,Denner,,Luzern,,,CH,+41 58 999 04 91,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/saelistrasse-21-6005-luzern/,Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 08:00-17:00,Denner,Q379911
+kellerstrasse-bruenigstrasse-16-18-6005-luzern,denner_ch,Denner,,Luzern,,,CH,+41 58 999 06 55,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/kellerstrasse-bruenigstrasse-16-18-6005-luzern/,Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00,Denner,Q379911
+shopping-center-schoenbuehl-langensandstrasse-23-6005-luzern,denner_ch,Denner,,Luzern,,,CH,+41 58 999 05 04,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/shopping-center-schoenbuehl-langensandstrasse-23-6005-luzern/,Mo-Th 08:30-19:00; Fr 08:30-21:00; Sa 08:00-17:00,Denner,Q379911
+sharedmobility.ch:carvelo2go:6f2d44c6-3cc3-4277-aee6-6c7688530cfe,gbfs,Markt Wärchbrogg,,,,,CH,,https://www.sharedmobility.ch/info,,sharedmobility.ch,
+7,medbase_ch,Medbase,,Luzern,,,CH,+41 41 318 61 61,https://www.medbase.ch/standorte/detail/medbase-luzern-allmend,"Mo-Fr 07:30-12:00,13:00-17:00",Medbase,Q50038690
+0074260_1173_pickmup_smvmpmubox,migros_ch,PickMup Box,,Luzern,,,CH,+41 41 368 11 44,https://filialen.migros.ch/de/box-m-luzern-schoenbuehl-luzern-schoenbuehl,Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:00-17:00,PickMup Box,Q115679275
+0074260_super,migros_ch,Migros,,Luzern,,,CH,+41 41 368 11 44,https://filialen.migros.ch/de/migros-supermarkt-luzern-schoenbuehl,Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:00-17:00,Migros,Q115661152
+0074260_flori,migros_ch,Florissimo,,Luzern,,,CH,+41 41 368 11 44,https://filialen.migros.ch/de/florissimo-luzern-schoenbuehl,Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:00-17:00,Florissimo,Q115659418
+0073840_super,migros_ch,Migros,,Luzern,,,CH,+41 41 414 48 40,https://filialen.migros.ch/de/migros-supermarkt-luzern-allmend,Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00,Migros,Q115661152
+0073170_1311_pickmup_smvmpmubox,migros_ch,PickMup Box,,Luzern,,,CH,+41 41 360 13 30,https://filialen.migros.ch/de/box-m-weinbergli-luzern-weinbergli-luzern,Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00,PickMup Box,Q115679275
+0073170_super,migros_ch,Migros,,Luzern,,,CH,+41 41 360 13 30,https://filialen.migros.ch/de/migros-supermarkt-weinbergli-luzern,Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-17:00,Migros,Q115661152
+490,valora,k kiosk,,Luzern,,,CH,,,,k kiosk,Q60381703

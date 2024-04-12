@@ -1,0 +1,749 @@
+City,Place Name,Zipcode,Name
+Chelyabinsk,audi,Chicherina 52 454003 Chelyabinsk,unknown,Audi Center Chelyabinsk
+Актобе,coffee_like,ул. Братьев Жубановых 285 а,unknown,Coffee Like
+Магнитогорск,coffee_like,ул. Зеленый Лог 32,unknown,Coffee Like
+Челябинск,coffee_like,ул. Труда 183,unknown,Coffee Like
+Челябинск,coffee_like,ул. Труда 163/1,unknown,Coffee Like
+Челябинск,coffee_like,ул. Артиллерийская 117,unknown,Coffee Like
+Челябинск,coffee_like,ул. Труда 203/3,unknown,Coffee Like
+Челябинск,coffee_like,ул. Артиллерийская 136,unknown,Coffee Like
+Челябинск,coffee_like,ул. Энтузиастов 30Б,unknown,Coffee Like
+Челябинск,coffee_like,ул. Братьев Кашириных 133/9,unknown,Coffee Like
+Челябинск,coffee_like,ул. Елькина 59,unknown,Coffee Like
+Челябинск,coffee_like,ул. Молдавская 14,unknown,Coffee Like
+Челябинск,coffee_like,Свердловский пр-т 51А,unknown,Coffee Like
+Челябинск,coffee_like,ул. Кирова 86,unknown,Coffee Like
+Челябинск,coffee_like,ул. Труда 203,unknown,Coffee Like
+Челябинск,coffee_like,Копейское шоссе 64,unknown,Coffee Like
+Челябинск,coffee_like,Копейское шоссе 64 (Лента),unknown,Coffee Like
+Chelyabinsk,lukoil,Russia 454001 Chelyabinsk Region Chelyabinsk st. Bratyev Kashirinykh 129D1,unknown,AZS No406 (74406)
+g. Chelyabinsk,lukoil,Russia 454080 Chelyabinsk Region g. Chelyabinsk ul. Truda 148A s. 1,unknown,AZS No405 (74405)
+Chelyabinsk,lukoil,Russia 454092 Chelyabinsk Region Chelyabinsk st. Saltykova 45,unknown,AZS No403 (74403)
+Yuzhnouralʹsk,lukoil,Russia 457040 Chelyabinsk Region Yuzhnouralʹsk st. Pobedy 4V,unknown,AZSNo122 (74122)
+unknown,lukoil,Russia 456446 Chelyabinsk Region Malkovo 1797km road M-5 Chelyabinsk-Moskva,unknown,AZS №106 (74106)
+Kopyeisk,lukoil,Russia 456617 Chelyabinsk Region Kopyeisk st. Liхacheva 21,unknown,AZS No99 (74099)
+Chelyabinsk,lukoil,"Russia 454038 Chelyabinsk Region Chelyabinsk st. Avtomatiki
+ 12 1",unknown,AZS No92 (74092)
+Chelyabinsk,lukoil,Russia 454901 Chelyabinsk Region Chelyabinsk st. Molodogvardyeitsev 15-g 1,unknown,AZS No83 (74083)
+Plast,lukoil,Russia 457020 Chelyabinsk Region Plast Magnitogorskiy trakt 2,unknown,AZS No78 (74078)
+Chelyabinsk,lukoil,Russia 454077 Chelyabinsk Region Chelyabinsk Brodokalmakskii trakt 46,unknown,AZS No73 (74073)
+Chebarkulskiy,lukoil,Russia 456440 Chelyabinsk Region Chebarkulskiy Chebarkul st. 1 Maya 1,unknown,AZS № 74062
+unknown,lukoil,"Russia 456560 Chelyabinsk Region Yetkulʹ 50 km road Yetkul-Oktyabrskoye
+",unknown,AZSNo30 (74030)
+g. Chelyabinsk,lukoil,Russia 454016 Chelyabinsk Region g. Chelyabinsk ul. Bratyev Kashirinykh 65A s.1,unknown,AZS No27 (74027)
+Chelyabinsk,lukoil,Russia 454077 Chelyabinsk Region Chelyabinsk trakt Brodokalmakskii 45 1,unknown,AZS No22 (74022)
+Chelyabinsk,lukoil,"Russia 454046 Chelyabinsk Region Chelyabinsk st. Igumenka
+ 89 1",unknown,AZS No14 (74014)
+unknown,lukoil,Russia 456620 Chelyabinsk Region Kopeysk st. Pobedy pr. 45,unknown,AZS №13 (74013)
+unknown,lukoil,"Russia 456110 Chelyabinsk Region 1608 km road M-5 ""Ural""
+",unknown,AZS No190 (74190)
+Chelyabinsk,lukoil,Russia 454004 Chelyabinsk Region Chelyabinsk st. Universitetskaya Naberezhnaya,unknown,AZS No400 (74400)
+Chelyabinsk,lukoil,"Russia 454080 Chelyabinsk Region Chelyabinsk st. Truda
+ 166A 1",unknown,AZS No74076
+unknown,lukoil,Russia 458645 Chelyabinsk Region Kaslinskij area 122km road Chelyabinsk-Yekaterinburg left road Ekaterinburg M5 U ter 1,unknown,AZS №74074
+unknown,lukoil,Russia 456845 Chelyabinsk Region Koslinskij area road Ekaterinburg M5 U ter 1,unknown,AZS №74075
+unknown,lukoil,"Russia 456110 Chelyabinsk Region 1608 km road M-5 ""Ural""(sprava)
+",unknown,AZS No191 (74191)
+Magnitogorsk,lukoil,Russia 455000 Chelyabinsk Region Magnitogorsk Severnyi 3,unknown,AZS No57 (74057)
+Asha,lukoil,"Russia 456010 Chelyabinsk Region Asha st. Uzkokoleynaya
+",unknown,AZS No50 (74050)
+unknown,lukoil,Russia 454000 Chelyabinsk Region Buхarino 54 km road Chelyabinsk-Yekaterinburg,unknown,AZS No107 (74107)
+Kusa,lukoil,Russia 456940 Chelyabinsk Region  Kusa st. Gertsena 102,unknown,AZS No188 (74188)
+Zlatoust,lukoil,Russia 456200 Chelyabinsk Region Zlatoust road m/u r-om Gagarina i Mashzavodompovorot na internat No30,unknown,AZS No187 (74187)
+Zlatoust,lukoil,Russia 456200 Chelyabinsk Region  Zlatoust st. Taganaiskaya,unknown,AZS No186 (74186)
+Zlatoust,lukoil,Russia 454000 Chelyabinsk Region Zlatoust 1717 km road Ufa - Chelyabinsk 1,unknown,AZS No184 (74184)
+Zlatoust,lukoil,Russia 456200 Chelyabinsk Region Zlatoust st. im. A.S.Griboyedova,unknown,AZS No182 (74182)
+Zlatoust,lukoil,Russia 456207 Chelyabinsk Region Zlatoust st. Karla Marksa Bldg. 27,unknown,AZS No181 (74181)
+Zlatoustovskiy g.o.,lukoil,Russia 456219 Chelyabinsk Region Zlatoustovskiy g.o. g. Zlatoust pr-kt im YU.A. Gagarina 8-ya liniya soor. 19B,unknown,No AZS 74180
+Magnitogorsk,lukoil,Russia 455020 Chelyabinsk Region Magnitogorsk st. Magnitnaya 158,unknown,AZS No168 (74168)
+unknown,lukoil,Russia 457029 Chelyabinsk Region Stepnoe 78 km road Yuzhnouralsk-Magnitogorsk,unknown,AZS No167 (74167)
+Ozersk,lukoil,"Russia 456799 Chelyabinsk Region Ozersk Metlino st. Chelyabinskaya
+ 37",unknown,AZS No158 (74158)
+Treхgornyi,lukoil,Russia 456080 Chelyabinsk Region  Treхgornyi st. Mira 1б,unknown,AZS No152 (74152)
+Sim,lukoil,Russia 456021 Chelyabinsk Region Sim st. Gaydara 34,unknown,AZS No149 (74149)
+Zlatoust,lukoil,"Russia 456217 Chelyabinsk Region Zlatoust st. A.S.Griboyedova
+ 114",unknown,AZS No143 (74143)
+unknown,lukoil,"Russia 456913 Chelyabinsk Region Berezovyy most 1705km road M-5 Chelyabinsk-Moskva
+",unknown,AZS No142 (74142)
+Asha,lukoil,"Russia 456010 Chelyabinsk Region Asha st. Sovetskaya
+",unknown,AZS No135 (74135)
+Snezhinsk,lukoil,Russia 456770 Chelyabinsk Region Snezhinsk st. Transportnaya 56,unknown,AZS No116 (74116)
+Zlatoust,lukoil,"Russia 456203 Chelyabinsk Region Zlatoust st. N.G. Chernyshevskogo
+",unknown,AZS No115 (74115)
+Magnitogorsk,lukoil,Russia 455019 Chelyabinsk Region Magnitogorsk st. Pushkina prospect 8/1,unknown,AZS No111 (74111)
+Kyshtym,lukoil,Russia 456871 Chelyabinsk Region Kyshtym K.Likbneхta,unknown,AZS No110 (74110)
+Magnitogorsk,lukoil,Russia 455020 Chelyabinsk Region  Magnitogorsk st. Magnitnaya 27,unknown,AZS No108 (74108)
+Troitsk,lukoil,Russia 457100 Chelyabinsk Region  Troitsk Chelyabinskii trakt,unknown,AZS No96 (74096)
+Kyshtym,lukoil,Russia 456874 Chelyabinsk Region  Kyshtym st. Kaolinovaya,unknown,AZS No91 (74091)
+Yuryuzanʹ,lukoil,Russia 456011 Chelyabinsk Region Yuryuzanʹ st. Sakharova 28A,unknown,AZS No90 (74090)
+Miass,lukoil,Russia 456300 Chelyabinsk Region Miass Turgoyakskoye road,unknown,AZS No86 (74086)
+Kasli,lukoil,Russia 456833 Chelyabinsk Region Kasli 24 km. road Tyubuk-Kyshtym,unknown,AZS No84 (74084)
+unknown,lukoil,Russia 457221 Chelyabinsk Region Chesma st. Chapaeva 77,unknown,AZS No70 (74070)
+Miass,lukoil,Russia 456300 Chelyabinsk Region Miass road Turgoyakskoye,unknown,AZS No 74065
+Miass,lukoil,Russia 456303 Chelyabinsk Region Miass 60 let Oktyabrya 11,unknown,AZS №61 (74061)
+Magnitogorsk,lukoil,Russia 455000 Chelyabinsk Region Magnitogorsk st. Voеzalʹnaya 19 1,unknown,AZS No60 (74060)
+Magnitogorsk,lukoil,Russia 455016 Chelyabinsk Region  Magnitogorsk st. Shossyeinaya 60,unknown,AZS No55 (74055)
+Magnitogorsk,lukoil,Russia 455047 Chelyabinsk Region Magnitogorsk st. Sovetskaya 160 4,unknown,AZS No54 (74054)
+Verхnyeuralʹsk,lukoil,Russia 457670 Chelyabinsk Region Verхnyeuralʹsk st. Yuzhnaya 23,unknown,AZS No53 (74053)
+Magnitogorsk,lukoil,Russia 455005 Chelyabinsk Region Magnitogorsk st. Proselochnaya 261,unknown,AZS No51 (74051)
+Minʹyar,lukoil,Russia 456007 Chelyabinsk Region Minʹyar st. Vokzalnaya 31,unknown,AZS No47 (74047)
+Kyshtym,lukoil,Russia 456870 Chelyabinsk Region Kyshtym road Kaslinskoye 35 m from DRSU,unknown,AZS No41 (74041)
+Verхnii Ufalyei,lukoil,"Russia 456804 Chelyabinsk Region Verхnii Ufalyei st. Dzerzhinskogo
+ 13",unknown,AZS No39 (74039)
+Kusa,lukoil,Russia 456940 Chelyabinsk Region Kusa st. Nizhnezavodskaya 3,unknown,AZS No34 (74034)
+Zlatoustovskiy g.o.,lukoil,Russia 456205 Chelyabinsk Region Zlatoustovskiy g.o. g. Zlatoust Malkovskiy tup. soor. 12,unknown,No AZS 74033
+unknown,lukoil,Russia 457400 Chelyabinsk Region Agapovka st. Asfaltovaya 2/B,unknown,AZS No23 (74023)
+unknown,lukoil,"Russia 457650 Chelyabinsk Region Fershampenuaz st. Sovetskaya
+ 121",unknown,AZS No21 (74021)
+Satka,lukoil,Russia 456910 Chelyabinsk Region Satka st. Bakalʹskaya 3A,unknown,AZS No18 (74018)
+unknown,lukoil,Russia 456881 Chelyabinsk Region Argayash Neftebaza area 1A,unknown,AZS №15 (74015)
+Zlatoust,lukoil,Russia 454000 Chelyabinsk Region Zlatoust 1717 km road Samara-Ufa-Chelyabinsk 2,unknown,AZS №189 (74189)
+Chelyabinsk,lukoil,Russia 454080 Chelyabinsk Region Chelyabinsk st. Truda 157-b,unknown,AZS No433 (74433)
+Chelyabinsk,lukoil,Russia 454138 Chelyabinsk Region Chelyabinsk st. Komsomol'skii prospect 22-v,unknown,AZS No432 (74432)
+unknown,lukoil,Russia 456446 Chelyabinsk Region Malkovo 1797 km road M-5 Ural,unknown,AZS №431 (74431)
+Chelyabinsk,lukoil,Russia 454036 Chelyabinsk Region Chelyabinsk Sverdlovskiy trakt 1-l 1,unknown,AZS No430 (74430)
+Chelyabinsk,lukoil,Russia 454021 Chelyabinsk Region Chelyabinsk st. Moldavskaya 14-a,unknown,AZS No427 (74427)
+Chelyabinsk,lukoil,Russia 454021 Chelyabinsk Region Chelyabinsk st Brat'ev Kashirinih 86-a,unknown,AZS No426 (74426)
+Chelyabinsk,lukoil,Russia 454074 Chelyabinsk Region Chelyabinsk st. Pobedy prospect 2-a 1,unknown,AZS No425 (74425)
+Chelyabinsk,lukoil,Russia 454107 Chelyabinsk Region Chelyabinsk st. Lenina prospect 26-a 1,unknown,AZS No424 (74424)
+Chelyabinsk,lukoil,Russia 454091 Chelyabinsk Region Chelyabinsk st. Dovatora 8-a 1,unknown,AZS No423 (74423)
+Chelyabinsk,lukoil,Russia 454081 Chelyabinsk Region Chelyabinsk gorodskoj okrug CHelyabinskij vnutrigorodskoj rajon Traktorozavodskoj st. Geroev Tankograda 95-a1,unknown,AZS No421 (74421)
+Chebarkulʹ,lukoil,Russia 456446 Chelyabinsk Region Chebarkulʹ 1 km road Chebarkul-Arkhangelskoye,unknown,AZS No419 (74419)
+Chelyabinsk,lukoil,"Russia 454082 Chelyabinsk Region Chelyabinsk Troitskiy
+ 70B",unknown,AZS No418 (74418)
+Chelyabinsk,lukoil,Russia 454100 Chelyabinsk Region Chelyabinsk st. Pobedy prospect 378-g 1,unknown,AZS No417 (74417)
+Chelyabinsk,lukoil,Russia 454902 Chelyabinsk Region Chelyabinsk st. Gostevaya 6 1,unknown,AZS № 74416
+Chelyabinsk,lukoil,Russia 454087 Chelyabinsk Region Chelyabinsk st. Blyukhera 96-a 1,unknown,AZS №415 (74415)
+Chelyabinsk,lukoil,"Russia 454091 Chelyabinsk Region Chelyabinsk st. Rossiyskaya
+ 167-b",unknown,AZS No413 (74413)
+Chelyabinsk,lukoil,"Russia 454092 Chelyabinsk Region Chelyabinsk st. Vorovskogo
+ 37",unknown,AZS No412 (74412)
+Chelyabinsk,lukoil,Russia 454036 Chelyabinsk Region Chelyabinsk st. Cherkasskaya 24,unknown,AZS No409 (74409)
+unknown,lukoil,Russia 456660 Chelyabinsk Region Miasskoe Kirova pereulok st. 1V,unknown,AZS No12 (74012)
+unknown,lukoil,Russia 456510 Chelyabinsk Region Dolgoderevenskoe st. Sverdlovskaya 82,unknown,AZS No11 (74011)
+Chelyabinsk,lukoil,Russia 454045 Chelyabinsk Region Chelyabinsk st. Novoelevatornaya 121B,unknown,AZS No10 (74010)
+Chelyabinsk,lukoil,Russia 454014 Chelyabinsk Region Chelyabinsk prospect Komsomolʹskii st. 70-g 1,unknown,AZS No408 (74408)
+Chelyabinsk,lukoil,Russia 454010 Chelyabinsk Region Chelyabinsk road. Kopyeiskoe 33-b 1,unknown,AZS No9 (74009)
+Chelyabinsk,lukoil,Russia 454082 Chelyabinsk Region Chelyabinsk trakt Troitskii 43a 1,unknown,AZS No7 (74007)
+Chelyabinsk,lukoil,Russia 454081 Chelyabinsk Region Chelyabinsk st. Meхanicheskaya 67-a 1,unknown,AZS No6 (74006)
+Chelyabinsk,lukoil,Russia 454047 Chelyabinsk Region Chelyabinsk st. Mira 65 1,unknown,AZS No5 (74005)
+Chelyabinsk,lukoil,Russia 454007 Chelyabinsk Region Chelyabinsk st. Artilleriiskaya 138 1,unknown,AZS No2 (74002)
+Chelyabinsk,lukoil,Russia 454000 Chelyabinsk Region Chelyabinsk st. Neftebazovaya 25-a 1,unknown,AZS No1 (74001)
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск проспект Карла Маркса 59,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк Советская улица 64,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Дзержинского 125,unknown,Wildberries
+unknown,wildberries,г. Златоуст (Челябинская область) улица Карла Маркса д. 9,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс проспект Автозаводцев 24,unknown,Wildberries
+unknown,wildberries,Челябинская область Снежинск проспект Мира 19,unknown,Wildberries
+unknown,wildberries,г. Озёрск (Челябинская область) проспект Победы д. 53,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск проспект Ленина 129,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Свободы д. 62,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) ул. Гагарина  д. 12,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) проспект Победы д. 127,unknown,Wildberries
+unknown,wildberries,г. Златоуст (Челябинская область) пр-т Гагарина 1-я линия д. 13,unknown,Wildberries
+unknown,wildberries,г. Копейск (Челябинская область) Учительская улица д. 18,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Первой Пятилетки 23,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) 1-я Окружная улица д. 5,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Университетская Набережная д. 60,unknown,Wildberries
+unknown,wildberries,г. Сатка (Челябинская область) Пролетарская улица д. 23,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск проспект Ленина 14,unknown,Wildberries
+unknown,wildberries,г. Златоуст (Челябинская область) улица Тургенева д. 14,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс проспект Макеева 12,unknown,Wildberries
+unknown,wildberries,г. Миасс (Челябинская область) улица 8 Марта д. 122,unknown,Wildberries
+unknown,wildberries,г. Челябинск (Челябинская область) Краснопольский проспект д. 3,unknown,Wildberries
+unknown,wildberries,г. Челябинск (Челябинская область) улица Бейвеля д. 116,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Образцова 1,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г. Магнитогорск (Челябинская область) улица Труда д. 31,unknown,Wildberries
+unknown,wildberries,г. Челябинск (Челябинская область) улица Жукова д. 3,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Кронштадтская улица 32,unknown,Wildberries
+unknown,wildberries,Челябинская область Кыштым улица Ленина 6,unknown,Wildberries
+unknown,wildberries,г. Челябинск (Челябинская область) улица Сергея Герасимова д. 29,unknown,Wildberries
+unknown,wildberries,г. Чебаркуль (Челябинская область) улица 9 Мая д. 24,unknown,Wildberries
+unknown,wildberries,Челябинская область Сим улица Кирова 10,unknown,Wildberries
+unknown,wildberries,Челябинская область Аша улица Толстого 5,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г. Магнитогорск (Челябинская область) улица Строителей д. 49,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Каслинская улица 25,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Академика Сахарова 11,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск Шагольская улица 41,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Новороссийская улица 77,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк улица имени Ю.А. Гагарина 24,unknown,Wildberries
+unknown,wildberries,Челябинская область Южноуральск улица Мира 49,unknown,Wildberries
+unknown,wildberries,г. Озерск (Челябинская область) бульвар Гайдара д. 12,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Университетская Набережная д. 46,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г. Магнитогорск (Челябинская область) проспект Карла Маркса д. 48,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) Комсомольский проспект д. 30,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица 8 Марта 197,unknown,Wildberries
+unknown,wildberries,г. Еманжелинск (Челябинская область) улица Гагарина д. 7,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Ворошилова 37,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Российская улица 67,unknown,Wildberries
+unknown,wildberries,г. Пласт  (Челябинская область) Октябрьская улица д. 33,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск Комсомольская улица 77,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г. Магнитогорск (Челябинская область) проспект Карла Маркса д. 136,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) Солнечная улица д. 19,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Энергетиков 65,unknown,Wildberries
+unknown,wildberries,г. Озерск (Челябинская область) улица Семёнова д. 14А,unknown,Wildberries
+unknown,wildberries,Челябинская область Сатка улица Свободы 16,unknown,Wildberries
+unknown,wildberries,Челябинская область Бакал улица 50 лет ВЛКСМ 11,unknown,Wildberries
+unknown,wildberries,г. Миасс (Челябинская область) улица Победы д. 11,unknown,Wildberries
+unknown,wildberries,г. Сатка (Челябинская область) улица 50 лет Октября д. 3,unknown,Wildberries
+unknown,wildberries,г. Копейск (Челябинская область) проспект Славы д. 22,unknown,Wildberries
+unknown,wildberries,г. Карталы (Челябинская область) улица Ленина д. 13А,unknown,Wildberries
+unknown,wildberries,Челябинская область село Варна Мостовой переулок 1Г,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Тарасова 46,unknown,Wildberries
+unknown,wildberries,г. Верхний Уфалей (Челябинская область) улица Ленина д. 161Б,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Агалакова д. 64,unknown,Wildberries
+unknown,wildberries,Челябинская область Усть-Катав 1-й микрорайон 4,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) площадь МОПРа д. 8А,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Первомайский (Челябинская область) улица Ленина д. 6,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Сталеваров д. 58,unknown,Wildberries
+unknown,wildberries,г. Миасс (Челябинская область) улица Богдана Хмельницкого д. 62,unknown,Wildberries
+unknown,wildberries,Челябинская область Трёхгорный улица Мира 9,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Чичерина 2,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) Комсомольский проспект д. 13,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Калинина д. 3,unknown,Wildberries
+unknown,wildberries,г. Миньяр (Челябинская область) улица Горького д. 101,unknown,Wildberries
+unknown,wildberries,г. Златоуст (Челябинская область) улица Аносова д.180,unknown,Wildberries
+unknown,wildberries,г. Кыштым (Челябинская область) улица Свободы д. 3,unknown,Wildberries
+unknown,wildberries,г. Златоуст (Челябинская область) 2-й квартал Северо-Запад  22,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск проспект Карла Маркса 222,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Энтузиастов д. 15,unknown,Wildberries
+unknown,wildberries,г. Челябинск (Челябинская область) Новороссийская улица д. 20,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Братьев Кашириных д. 89,unknown,Wildberries
+unknown,wildberries,г. Копейск (Челябинская область) проспект Победы д. 10,unknown,Wildberries
+unknown,wildberries,село Аргаяш (Челябинская область) улица 8 Марта д. 34,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г. Челябинск (Челябинская область) улица Коммуны д. 127,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Скульптора Головницкого 16Б,unknown,Wildberries
+unknown,wildberries,г. Нязепетровск (Челябинская область) улица Свердлова д. 5,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск Ленинградская улица 19,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Готвальда 16,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Роза (Челябинская область) улица 50 лет Октября д. 17А,unknown,Wildberries
+unknown,wildberries,г. Катав-Ивановск Дмитрия Тараканова д. 49А,unknown,Wildberries
+unknown,wildberries,г. Снежинск (Челябинская область) улица Победы д. 22А,unknown,Wildberries
+unknown,wildberries,г. Челябинск (Челябинская область) улица Петра Столыпина д. 3,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс проспект Октября 19,unknown,Wildberries
+unknown,wildberries,г. Копейск (Челябинская обл) Коммунистическая 23,unknown,Wildberries
+unknown,wildberries,Карабаш (Челябинская обл) улица Комсомольская 19Б,unknown,Wildberries
+unknown,wildberries,г. Юрюзань (Челябинская область) Советская 96,unknown,Wildberries
+unknown,wildberries,г Озерск (Челябинская обл) Уральская 11,unknown,Wildberries
+unknown,wildberries,г Златоуст (Челябинская обл) 40 летия Победы 44,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск (Россия Челябинская обл) Сталеваров 16,unknown,Wildberries
+unknown,wildberries,Челябинская область село Миасское Спортивная улица 8,unknown,Wildberries
+unknown,wildberries,г Верхнеуральск (Россия Челябинская обл Верхнеуральский р-н) Ленина 63,unknown,Wildberries
+unknown,wildberries,г Западный (Россия Челябинская обл) ул. Светлая  1Б,unknown,Wildberries
+unknown,wildberries,с Агаповка Челябинская область Агаповский район Рабочая улица 51,unknown,Wildberries
+unknown,wildberries,г Троицк (Челябинская область городской округ Троицк) улица Энергетиков 7,unknown,Wildberries
+unknown,wildberries,с Долгодеревенское (Челябинская обл Сосновский р-н) ул 50 лет ВЛКСМ 17 а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск (Челябинская область) Челябинск улица 250-летия Челябинска 14,unknown,Wildberries
+unknown,wildberries,с Еткуль Челябинская область Еткульский район улица Ручьева 6,unknown,Wildberries
+unknown,wildberries,рп Красногорский (Челябинская область Еманжелинский район) улица Лермонтова 13,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск (Челябинская область городской округ Челябинск) улица Академика Макеева 15,unknown,Wildberries
+unknown,wildberries,г Озерск (Челябинская область) Иртяшская улица 3к1,unknown,Wildberries
+unknown,wildberries,г Снежинск (Челябинская область) улица Свердлова 36,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Челябинская область городской округ Челябинск улица Мамина 13,unknown,Wildberries
+unknown,wildberries,Аша Челябинская область Ашинский район улица 40 летия Победы 13,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск Сиреневый проезд 25,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск Советская улица 54,unknown,Wildberries
+unknown,wildberries,г Бреды (Челябинская область) Милицейская улица 42,unknown,Wildberries
+unknown,wildberries,Челябинская область Южноуральск улица Мира 27,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск улица 50-летия Магнитки 58,unknown,Wildberries
+unknown,wildberries,г Челябинск (Челябинская область) улица Лермонтова 24 (Новосинеглазово),unknown,Wildberries
+unknown,wildberries,Полетаево Челябинская область Сосновский район Пионерская  24а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица 50-летия ВЛКСМ 37В,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Пушкина 73А,unknown,Wildberries
+unknown,wildberries,Зауральский (Челябинская область) улица Труда 6А,unknown,Wildberries
+unknown,wildberries,Еманжелинск (Челябинская область) улица Титова 11,unknown,Wildberries
+unknown,wildberries,Уйское (Челябинская обл) Пионерская улица 34,unknown,Wildberries
+unknown,wildberries,Озерск (Челябинская обл) бульвар Гайдара 27,unknown,Wildberries
+unknown,wildberries,Миасс (Челябинская область) улица Колесова 7,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Гончаренко 80,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск (Челябинская область) улица Братьев Кашириных 97,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Челябинская обл улица Чайковского 15,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Челябинская обл улица Цвиллинга 65,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск (Челябинская обл) Новороссийская улица 86,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Комсомольская Улица 18,unknown,Wildberries
+unknown,wildberries,г Касли Улица Ленина 27,unknown,Wildberries
+unknown,wildberries,г Южноуральск Улица Космонавтов 3,unknown,Wildberries
+unknown,wildberries,Златоуст Челябинская область улица 40-летия Победы 14,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Проспект Карла Маркса 172,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Коммунаров 36,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Румянцева 34,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Художника Русакова 7,unknown,Wildberries
+unknown,wildberries,Чебаркуль Челябинская область Чебаркульский городской округ улица Ленина 12,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Челябинская обл улица Доменщиков 3,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Россия Челябинская обл г Челябинск Комсомольский Проспект 55,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Академика Макеева 26,unknown,Wildberries
+unknown,wildberries,г Челябинск Молдавская Улица 16,unknown,Wildberries
+unknown,wildberries,г Копейск Международная Улица 69,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Университетская Набережная 28,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Университетская Набережная 82,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Советская Улица 65,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Сталеваров 19,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Якутская Улица 9,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Братьев Кашириных 131а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Энгельса 38,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Хохрякова 36,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Чичерина 36,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Героев Танкограда 114,unknown,Wildberries
+unknown,wildberries,Снежинск Челябинская область городской округ Снежинск улица Академика Забабахина 52,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Новая Пикадилли 27,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Лесопарковая Улица 3,unknown,Wildberries
+unknown,wildberries,Троицк (Челябинская область) улица имени И.Д. Селивановской 51,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Улица Суворова 121,unknown,Wildberries
+unknown,wildberries,Озерск Челябинская область Озерский городской округ проспект Победы 26,unknown,Wildberries
+unknown,wildberries,Челябинская область Кыштым улица Республики 35,unknown,Wildberries
+unknown,wildberries,Западный Челябинская обл Сосновский р-н Изумрудная улица 6Б,unknown,Wildberries
+unknown,wildberries,Челябинская область Копейск улица Бажова 10,unknown,Wildberries
+unknown,wildberries,г Копейск Коммунистический Проспект 24,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Чичерина 13,unknown,Wildberries
+unknown,wildberries,Челябинская область Кыштым улица Ленина 24,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Гагарина 66,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск шоссе Металлургов 55,unknown,Wildberries
+unknown,wildberries,Трехгорный Челябинская область городской округ Трёхгорный улица Островского 27,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Сталеваров 72,unknown,Wildberries
+unknown,wildberries,Озерск Челябинская область Озерский городской округ проспект Карла Маркса 23,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Челябинская обл проспект Карла Маркса 198,unknown,Wildberries
+unknown,wildberries,г Копейск Переулок Свободы 6,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Потёмкина 31,unknown,Wildberries
+unknown,wildberries,г Челябинск Олимпийская Улица 1,unknown,Wildberries
+unknown,wildberries,Касли Челябинская область Каслинский район улица Лобашова 138,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Попова 6,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Пограничная улица 2,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Тухачевского 16,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск улица Завенягина 1,unknown,Wildberries
+unknown,wildberries,г Озерск Проспект Карла Маркса 1,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская обл Челябинск улица Котина 17,unknown,Wildberries
+unknown,wildberries,Верхний Уфалей Челябинская область город Верхний Уфалей улица Ленина 137,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Братьев Кашириных 110,unknown,Wildberries
+unknown,wildberries,Челябинская область Коркино улица 9 Января 33,unknown,Wildberries
+unknown,wildberries,Усть-Катав Челябинская обл улица Ленина 31,unknown,Wildberries
+unknown,wildberries,Челябинская область Копейск Международная улица 74,unknown,Wildberries
+unknown,wildberries,Троицк Челябинская область городской округ Троицк  2 микрорайон  6Б,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Братьев Кашириных 105,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Челябинская обл улица Доватора 7,unknown,Wildberries
+unknown,wildberries,г Копейск Коммунистический Проспект 14,unknown,Wildberries
+unknown,wildberries,г Копейск Улица XXVI Партсъезда 2,unknown,Wildberries
+unknown,wildberries,г Копейск Улица Луначарского 28,unknown,Wildberries
+unknown,wildberries,г Коркино Улица 30 Лет ВЛКСМ 25,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Сталеваров 3а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Молодогвардейцев 19,unknown,Wildberries
+unknown,wildberries,Челябинская область Златоуст улица Горького 5,unknown,Wildberries
+unknown,wildberries,г Копейск Улица Сутягина 2,unknown,Wildberries
+unknown,wildberries,с Варна Улица Спартака 18,unknown,Wildberries
+unknown,wildberries,Снежинск Челябинская область городской округ Снежинск улица Васильева 6,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Улица Жукова 19,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Университетская Набережная 103,unknown,Wildberries
+unknown,wildberries,с Кунашак Больничная Улица 1в,unknown,Wildberries
+unknown,wildberries,г Миасс Улица Инструментальщиков 5,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Бейвеля 51,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Аношкина 8,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Петра Сумина 22,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Скульптора Головницкого 4,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица 50-Летия ВЛКСМ 31,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Бейвеля 43,unknown,Wildberries
+unknown,wildberries,г Чебаркуль Улица 9 Мая 21,unknown,Wildberries
+unknown,wildberries,г Копейск Улица Калинина 17а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Курчатова 1,unknown,Wildberries
+unknown,wildberries,г Копейск Улица Калинина 16,unknown,Wildberries
+unknown,wildberries,Озерск Челябинская область Озерский городской округ Заозерный 4,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Братьев Кашириных 124,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Энгельса 97,unknown,Wildberries
+unknown,wildberries,г Копейск Коммунистический Проспект 1а,unknown,Wildberries
+unknown,wildberries,г Сатка Солнечная Улица 12,unknown,Wildberries
+unknown,wildberries,г Челябинск Звенигородская Улица 56а,unknown,Wildberries
+unknown,wildberries,Озерск Челябинская область Озерский городской округ Монтажников 54А,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Чичерина 29,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Бейвеля 44,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Доватора 10в,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Улица 50-Летия Магнитки 47,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Салавата Юлаева 13а,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Проспект Ленина 63,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Братьев Кашириных 157,unknown,Wildberries
+unknown,wildberries,г Снежинск Улица Ленина 22,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Либкнехта 1,unknown,Wildberries
+unknown,wildberries,Пласт Челябинская обл р-н Пластовский Октябрьская улица 63,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск улица Труда 21,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск улица Зелёный Лог 35,unknown,Wildberries
+unknown,wildberries,Чебаркуль Челябинская область Чебаркульский городской округ улица Ленина 48,unknown,Wildberries
+unknown,wildberries,г Куса Улица Михаила Бубнова 28,unknown,Wildberries
+unknown,wildberries,г Карталы Улица Славы 8,unknown,Wildberries
+unknown,wildberries,Челябинская область Златоуст Тульская улица 6,unknown,Wildberries
+unknown,wildberries,Челябинская область Кыштым улица Карла Либкнехта 176,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Университетская Набережная 22в,unknown,Wildberries
+unknown,wildberries,г Челябинск Комсомольский Проспект 105,unknown,Wildberries
+unknown,wildberries,г Катав-Ивановск Улица Караваева 42,unknown,Wildberries
+unknown,wildberries,с Фершампенуаз Улица Ленина 60/2,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Сталеваров 22,unknown,Wildberries
+unknown,wildberries,г Коркино Улица 30 Лет ВЛКСМ 5а,unknown,Wildberries
+unknown,wildberries,г Троицк Улица Имени Ю.А. Гагарина 114,unknown,Wildberries
+unknown,wildberries,г Сатка Комсомольская Улица 29,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Академика Королёва 21,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Шаумяна 81,unknown,Wildberries
+unknown,wildberries,г Верхний Уфалей Улица Ленина 190,unknown,Wildberries
+unknown,wildberries,г Златоуст Улица Аносова 257,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица 250-Летия Челябинска 44а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Вагнера 85,unknown,Wildberries
+unknown,wildberries,г Чебаркуль Улица Каширина 37а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Университетская Набережная 56,unknown,Wildberries
+unknown,wildberries,Миасс Челябинская область городской округ Миасс проспект Макеева 44,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Наркома Малышева 3,unknown,Wildberries
+unknown,wildberries,г Чебаркуль Улица Карпенко 3,unknown,Wildberries
+unknown,wildberries,Челябинская область г Златоуст Улица Карла Маркса 29,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Конструктора Духова 1,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Университетская Набережная 80,unknown,Wildberries
+unknown,wildberries,г Озерск Микрорайон Заозёрный 3,unknown,Wildberries
+unknown,wildberries,Челябинская область посёлок Новогорный Школьная улица 5,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Артиллерийская Улица 104а,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк улица Жиркомбинат 17,unknown,Wildberries
+unknown,wildberries,Златоуст Челябинская область улица Космонавтов 9,unknown,Wildberries
+unknown,wildberries,г Копейск Улица Петра Томилова 17,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Южный Бульвар 26А,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Улица Труда 38,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Калинина 24,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Советская Улица 195,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Проспект Карла Маркса 235,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Проспект Ленина 1,unknown,Wildberries
+unknown,wildberries,г Челябинск Псковская Улица 4,unknown,Wildberries
+unknown,wildberries,Челябинская область Чебаркуль улица 1 Мая 3В,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Молодогвардейцев 62,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Бейвеля 20,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Комсомольский проспект 76,unknown,Wildberries
+unknown,wildberries,Златоуст Челябинская область город Златоуст Ленина 22,unknown,Wildberries
+unknown,wildberries,Миасс Челябинская область городской округ Миасс Керченская 17,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Улица Жукова 4а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Бажова 91,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Трашутина 35,unknown,Wildberries
+unknown,wildberries,п Рощино Улица Ленина 27а,unknown,Wildberries
+unknown,wildberries,г Чебаркуль Октябрьская Улица 1б,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Профессора Благих 59,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Худякова 23,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Проспект Победы 302,unknown,Wildberries
+unknown,wildberries,г Златоуст 3-Й Микрорайон Проспекта Имени Ю.А. Гагарина 27,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г Магнитогорск Улица Тевосяна 2,unknown,Wildberries
+unknown,wildberries,г Челябинск Улица Александра Шмакова 39а,unknown,Wildberries
+unknown,wildberries,г Челябинск Комсомольский Проспект 78,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Курчатова 16,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Первомайский Улица Мира 9,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Татьяничевой 9,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Троицкий Тракт 50,unknown,Wildberries
+unknown,wildberries,Челябинская область Аша улица Кирова 32,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица 40-летия Победы 7,unknown,Wildberries
+unknown,wildberries,Златоуст Зелёная Улица 18,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Богдана Хмельницкого 18,unknown,Wildberries
+unknown,wildberries,Челябинская область Сим улица Пушкина 17А,unknown,Wildberries
+unknown,wildberries,Копейск Проспект Славы 15,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Салавата Юлаева 27а,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Ворошилова 9,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Ворошилова 20,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Горького 5,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,г Челябинск Улица Работниц 72а,unknown,Wildberries
+unknown,wildberries,Челябинская область село Кременкуль Сосновая улица 18,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Уральская Улица 6/1,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Проспект Победы 196,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Гагарина 38,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Ленина 156,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Александра Шмакова 44,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Монакова 4б,unknown,Wildberries
+unknown,wildberries,посёлок Тимирязевский Улица Мичурина 5а,unknown,Wildberries
+unknown,wildberries,Челябинская область посёлок Увельский улица 30 лет ВЛКСМ 36,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Карла Маркса 101,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Малояз Коммунистическая улица 62,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Электростальская улица 23,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Татищева 256,unknown,Wildberries
+unknown,wildberries,Снежинск Улица Академика Забабахина 40,unknown,Wildberries
+unknown,wildberries,Челябинск Проспект Героя России Е.Н. Родионова 6,unknown,Wildberries
+unknown,wildberries,Аша Коммунистическая Улица 6,unknown,Wildberries
+unknown,wildberries,село Кундравы Больничная Улица 2б,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Курчатова 23Б,unknown,Wildberries
+unknown,wildberries,село Миасское Улица Ленина 4у,unknown,Wildberries
+unknown,wildberries,Челябинская область Коркино улица Ленина 11,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Кузнецова 14,unknown,Wildberries
+unknown,wildberries,село Тюбук Улица Ленина 20,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Свердловский проспект 78,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Кирова 3,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Труда 174,unknown,Wildberries
+unknown,wildberries,Челябинская область Южноуральск улица Победы 22Б,unknown,Wildberries
+unknown,wildberries,Челябинская область Миньяр Центральная улица 4,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск Октябрьская улица 14,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Салютная Улица 21,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Белорецкая Улица 60а,unknown,Wildberries
+unknown,wildberries,Миасс Улица Малышева 6,unknown,Wildberries
+unknown,wildberries,Челябинская область Трёхгорный улица Строителей 37,unknown,Wildberries
+unknown,wildberries,Челябинская область Сатка Солнечная улица 23,unknown,Wildberries
+unknown,wildberries,Снежинск Улица Дзержинского 28,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Блюхера 2Б,unknown,Wildberries
+unknown,wildberries,Челябинская область Сатка проспект Мира 9,unknown,Wildberries
+unknown,wildberries,Челябинская область Еманжелинск улица Гагарина 18,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Косарева 63,unknown,Wildberries
+unknown,wildberries,Снежинск Улица Ломинского 43,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Захаренко 9б,unknown,Wildberries
+unknown,wildberries,Челябинская область Трёхгорный улица Карла Маркса 44А,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Румянцева 27,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Солнечная улица 40,unknown,Wildberries
+unknown,wildberries,Снежинск Улица Ломинского 29,unknown,Wildberries
+unknown,wildberries,Челябинская область Озерск улица Блюхера 24,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс проспект Автозаводцев 47,unknown,Wildberries
+unknown,wildberries,Челябинская область село Аргаяш улица Чкалова 16А,unknown,Wildberries
+unknown,wildberries,Челябинская область город Верхний Уфалей улица Чекасина 6,unknown,Wildberries
+unknown,wildberries,Челябинская область село Долгодеревенское Свердловская улица 16,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Захаренко 3,unknown,Wildberries
+unknown,wildberries,Озерск Улица Дзержинского 55а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Батумская улица 20,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Барбюса 17,unknown,Wildberries
+unknown,wildberries,Челябинская область Снежинск улица Строителей 8,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Каслинская улица 34,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Комарова 110,unknown,Wildberries
+unknown,wildberries,Челябинская область Карабаш улица Металлургов 15/1,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Ильмен-Тау 17А,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Героев Танкограда 80,unknown,Wildberries
+unknown,wildberries,Челябинская область посёлок городского типа Вишневогорск улица Ленина 44,unknown,Wildberries
+unknown,wildberries,Челябинская область Трёхгорный улица Космонавтов 24А,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск шоссе Металлургов 11,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,г. Магнитогорск Привольная Улица 1,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Братьев Кашириных 102,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Хохрякова 12,unknown,Wildberries
+unknown,wildberries,Челябинская область Златоуст квартал Металлист 1,unknown,Wildberries
+unknown,wildberries,Челябинская область Златоуст улица 40-летия Победы 9,unknown,Wildberries
+unknown,wildberries,Аша Улица Озимина 35,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Южноуральская улица 12Б,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск Шагольская улица 1-й квартал 6А,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица 60 лет Октября 12,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск проспект Ленина 34,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск улица Калмыкова 9,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Комсомольский проспект 66Б,unknown,Wildberries
+unknown,wildberries,Челябинская область Юрюзань переулок Чернышевского 1,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица 60-летия Октября 22,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Коммунаров 2,unknown,Wildberries
+unknown,wildberries,Челябинская область Касли Советская улица 33,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс Ильменская улица 130,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск Комсомольская улица 4,unknown,Wildberries
+unknown,wildberries,Челябинск Октябрьская Улица 17,unknown,Wildberries
+unknown,wildberries,Снежинск Чкаловская Улица 13,unknown,Wildberries
+unknown,wildberries,Юрюзань Советская Улица 96,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Кузнецова 6,unknown,Wildberries
+unknown,wildberries,Бакал Улица Пугачёва 1,unknown,Wildberries
+unknown,wildberries,Челябинская область Карталы улица Пушкина 15/3,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Косарева 18,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Университетская Набережная 153А,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Марченко 25А,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Проспект Победы 289,unknown,Wildberries
+unknown,wildberries,Челябинская область Сим улица Давыдова 8,unknown,Wildberries
+unknown,wildberries,Верхнеуральск Советская Улица 21,unknown,Wildberries
+unknown,wildberries,Челябинская область Копейск Театральная улица 12А,unknown,Wildberries
+unknown,wildberries,Челябинская область Пласт Октябрьская улица 25А,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Металлургов 5,unknown,Wildberries
+unknown,wildberries,деревня Казанцево Уфимская Улица 14,unknown,Wildberries
+unknown,wildberries,Челябинская область Кыштым улица Свердлова 115,unknown,Wildberries
+unknown,wildberries,Челябинская область Куса улица Ленина 21,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица 50-Летия ВЛКСМ 18а,unknown,Wildberries
+unknown,wildberries,село Кременкуль Улица Ленина 15а,unknown,Wildberries
+unknown,wildberries,посёлок Западный Никольская Улица 25а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Цвиллинга 58,unknown,Wildberries
+unknown,wildberries,Челябинская область Кыштым Каолиновая улица 2,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Молодогвардейцев 41,unknown,Wildberries
+unknown,wildberries,село Чесма Улица Чапаева 37,unknown,Wildberries
+unknown,wildberries,Копейск Улица Елькина 7,unknown,Wildberries
+unknown,wildberries,Копейск Российская Улица 4,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Кропачёво Улица Свердлова 115,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Межевой Советская Улица 13а,unknown,Wildberries
+unknown,wildberries,село Бродокалмак Улица Усадьба Совхоза 5,unknown,Wildberries
+unknown,wildberries,Челябинская область село Уйское Советская улица 47,unknown,Wildberries
+unknown,wildberries,село Канашево Колхозная Улица 15,unknown,Wildberries
+unknown,wildberries,посёлок Мирный Пионерская Улица 3,unknown,Wildberries
+unknown,wildberries,Челябинск Калининградская Улица 23,unknown,Wildberries
+unknown,wildberries,Челябинская область Катав-Ивановск улица Дмитрия Тараканова 53,unknown,Wildberries
+unknown,wildberries,Челябинская область посёлок Бреды Советская улица 38,unknown,Wildberries
+unknown,wildberries,Челябинская область Катав-Ивановск Красноармейская улица 51,unknown,Wildberries
+unknown,wildberries,село Агаповка Дорожная Улица 54а,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк улица имени Т.Д. Дерибаса 32,unknown,Wildberries
+unknown,wildberries,Челябинская область село Агаповка Октябрьская улица 32,unknown,Wildberries
+unknown,wildberries,село Коелга Улица 1 Мая 21,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск улица Труда 12,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Бердяуш Профессиональная Улица 26а,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Красногорский Улица Победы 20,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Победы 2,unknown,Wildberries
+unknown,wildberries,Челябинск Краснопольский Проспект 5е,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Грязнова 15,unknown,Wildberries
+unknown,wildberries,Коркино Улица 30 Лет ВЛКСМ 126в,unknown,Wildberries
+unknown,wildberries,Челябинская область село Еткуль Первомайская улица 30А,unknown,Wildberries
+unknown,wildberries,Челябинская область Златоуст 3-й микрорайон проспекта имени Ю.А. Гагарина 14,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Свободы 90,unknown,Wildberries
+unknown,wildberries,посёлок Остроленский Улица Ленина 87/1,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Московская Улица 22,unknown,Wildberries
+unknown,wildberries,посёлок Центральный Центральная Улица 31,unknown,Wildberries
+unknown,wildberries,Челябинская область Кыштым улица Карла Либкнехта 125,unknown,Wildberries
+unknown,wildberries,Златоуст Проспект Гагарина 6-Я Линия 8,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Бурденко 13,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Толбухина 5,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс Орловская улица 34,unknown,Wildberries
+unknown,wildberries,село Бобровка Механическая Улица 5,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск Новороссийская улица 9,unknown,Wildberries
+unknown,wildberries,Челябинская область рабочий посёлок Красногорский улица 40 лет Октября 10,unknown,Wildberries
+unknown,wildberries,Челябинская область посёлок Западный Изумрудная улица 6,unknown,Wildberries
+unknown,wildberries,Златоуст Улица Аносова 127,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Гагарина 18,unknown,Wildberries
+unknown,wildberries,посёлок Октябрьский Улица Ленина 25,unknown,Wildberries
+unknown,wildberries,Коркино Улица Терешковой 17,unknown,Wildberries
+unknown,wildberries,посёлок Буранный Торговая Улица 1/2,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Фрунзе 3,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск улица Жукова 1,unknown,Wildberries
+unknown,wildberries,Копейск Коммунистическая Улица 31,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица 40-Летия Победы 36в,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Мичурина 136/3,unknown,Wildberries
+unknown,wildberries,Бакал Улица Ленина 19,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Вернадского 19,unknown,Wildberries
+unknown,wildberries,Челябинская область Копейск проспект Победы 46А,unknown,Wildberries
+unknown,wildberries,село Кулуево Советская Улица 27а,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Советская Улица 176,unknown,Wildberries
+unknown,wildberries,Челябинская область деревня Казанцево Взлётная улица 5,unknown,Wildberries
+unknown,wildberries,Челябинская область Сатка Бакальская улица 4,unknown,Wildberries
+unknown,wildberries,Копейск Проспект Победы 13,unknown,Wildberries
+unknown,wildberries,село Карсы Кооперативный Переулок 9,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Братская Улица 3а,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Зальцмана 32,unknown,Wildberries
+unknown,wildberries,село Смородинка Советская Улица 27б,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск Ленинградская улица 27,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Магнитка Улица Карла Маркса 42,unknown,Wildberries
+unknown,wildberries,Миасс Улица 8 Марта 161,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск улица Петра Столыпина 19,unknown,Wildberries
+unknown,wildberries,Челябинская область Чебаркуль улица Ленина 21,unknown,Wildberries
+unknown,wildberries,Челябинская область Кыштым улица Интернационала 101,unknown,Wildberries
+unknown,wildberries,Челябинская область Пласт Октябрьская улица 60В,unknown,Wildberries
+unknown,wildberries,Челябинская область Златоуст улица имени А.С. Грибоедова 14,unknown,Wildberries
+unknown,wildberries,Миасс Проспект Макеева 29,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Агалакова 37,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Советской Армии 51,unknown,Wildberries
+unknown,wildberries,Челябинская область Сатка Пролетарская улица 31,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Ленина 141,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Агалакова 66,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Братьев Кашириных 78,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Николая Шишка 23,unknown,Wildberries
+unknown,wildberries,Миасс Улица Пушкина 56б,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Габдуллы Тукая 17а,unknown,Wildberries
+unknown,wildberries,Верхнеуральск Советская Улица 89,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Петра Сумина 18,unknown,Wildberries
+unknown,wildberries,посёлок Есаульский Школьная Улица 19,unknown,Wildberries
+unknown,wildberries,Карталы Улица Пушкина 20,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Мамина 19/2,unknown,Wildberries
+unknown,wildberries,Челябинск Арматурный Переулок 5,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Шоссе Металлургов 22,unknown,Wildberries
+unknown,wildberries,Усть-Катав 3-Й Микрорайон 4,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Доватора 20,unknown,Wildberries
+unknown,wildberries,Челябинск Комсомольский Проспект 149,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Александра Шмакова 37,unknown,Wildberries
+unknown,wildberries,Челябинская область Верхний Уфалей улица Бабикова 72А,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Набережная улица 5В,unknown,Wildberries
+unknown,wildberries,Златоуст 1-Й Квартал 17а,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Ленина 37,unknown,Wildberries
+unknown,wildberries,Челябинск Комсомольский Проспект 140,unknown,Wildberries
+unknown,wildberries,посёлок Лазурный Улица 70 Лет Октября 2,unknown,Wildberries
+unknown,wildberries,Челябинская область село Аргаяш улица 8 Марта 17,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк улица имени Ю.А. Гагарина 35,unknown,Wildberries
+unknown,wildberries,посёлок Западный Улица Вишнёвая Аллея 2,unknown,Wildberries
+unknown,wildberries,Нязепетровск Улица Свердлова 19,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк Путевая улица 10,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Проспект Победы 153а,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Пионерская Улица 25,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Ленина 126,unknown,Wildberries
+unknown,wildberries,посёлок Красное Поле Солнечная Улица 2,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс проспект Автозаводцев 37,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,деревня Красная Башкирия Центральная Улица 13,unknown,Wildberries
+unknown,wildberries,Челябинская область посёлок Бреды улица Труда 9Б,unknown,Wildberries
+unknown,wildberries,Сатка Улица 50 Лет ВЛКСМ 31,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Александра Шмакова 13,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Маршала Чуйкова 7,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Колесова 19,unknown,Wildberries
+unknown,wildberries,село Ургала Улица Ленина 43,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Шуменская улица 31,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Готвальда 32,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Романенко 14,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск проспект Карла Маркса 220,unknown,Wildberries
+unknown,wildberries,Челябинская область рабочий посёлок Первомайский улица Победы 8,unknown,Wildberries
+unknown,wildberries,Троицк 10-Й Квартал 7,unknown,Wildberries
+unknown,wildberries,Снежинск Улица Васильева 35,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Карла Маркса 178,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Каслинская улица 36,unknown,Wildberries
+unknown,wildberries,Южноуральск Улица Павлова 39,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Имени Газеты Правда 84,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Худякова 8,unknown,Wildberries
+unknown,wildberries,Челябинская область село Уйское Пионерская улица 27А,unknown,Wildberries
+unknown,wildberries,село Варламово Улица Кирова 19,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Салавата Юлаева 1,unknown,Wildberries
+unknown,wildberries,посёлок Метлино Центральная Улица 86,unknown,Wildberries
+unknown,wildberries,посёлок Полевой Солнечная Улица 11а,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Марченко 18,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк Юго-Восточный тракт 23,unknown,Wildberries
+unknown,wildberries,Карталы Нефтебазный Переулок 5а,unknown,Wildberries
+unknown,wildberries,Верхний Уфалей Улица Ленина 10в,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Бейвеля 61,unknown,Wildberries
+unknown,wildberries,посёлок железнодорожная станция Муслюмово Восточная Улица 2а,unknown,Wildberries
+unknown,wildberries,Копейск Улица Петра Томилова 1,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк улица имени Ю.А. Гагарина 14,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Горького 53,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Академика Павлова 1К,unknown,Wildberries
+unknown,wildberries,Челябинская область Коркино улица Цвиллинга 8,unknown,Wildberries
+unknown,wildberries,Юрюзань Улица 3-Го Интернационала 33,unknown,Wildberries
+unknown,wildberries,Челябинская область Златоуст квартал имени А.М. Матросова 1,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Сулея Улица 9 Мая 1,unknown,Wildberries
+unknown,wildberries,Челябинская область Златоуст улица Карла Маркса 51,unknown,Wildberries
+unknown,wildberries,Челябинск Проспект Героя России Е.Н. Родионова 19,unknown,Wildberries
+unknown,wildberries,Копейск Проспект Славы 30,unknown,Wildberries
+unknown,wildberries,Копейск Улица Кирова 26,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Харлова 9,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Тагильская Улица 42,unknown,Wildberries
+unknown,wildberries,Челябинск Челябинская Улица 15,unknown,Wildberries
+unknown,wildberries,Челябинск Улица Дружбы 1б,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Локомотивный Советская Улица 11,unknown,Wildberries
+unknown,wildberries,Челябинская область Трёхгорный улица Островского 52,unknown,Wildberries
+unknown,wildberries,Троицк Рабочая Улица 37,unknown,Wildberries
+unknown,wildberries,Коркино Улица Дзержинского 11а,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Карла Маркса 143,unknown,Wildberries
+unknown,wildberries,Сатка Улица 50 Лет Октября 16а,unknown,Wildberries
+unknown,wildberries,Челябинская область посёлок Терема улица Ломоносова 22,unknown,Wildberries
+unknown,wildberries,Миасс Проспект Макеева 17,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Дзержинского 6,unknown,Wildberries
+unknown,wildberries,посёлок Саргазы Южная Улица 15,unknown,Wildberries
+unknown,wildberries,Челябинская область Куса улица Михаила Бубнова 8,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Академика Королёва 17,unknown,Wildberries
+unknown,wildberries,посёлок Первомайский Центральная Улица 36/1,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Хохрякова 34,unknown,Wildberries
+unknown,wildberries,Челябинская область Челябинск Краснопольский проспект 25,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Советская Улица 125,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Карла Маркса 105,unknown,Wildberries
+unknown,wildberries,Миасс Улица 8 Марта 169,unknown,Wildberries
+unknown,wildberries,Челябинская область деревня Малково улица Куйбышева 30А,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс улица Ильмен-Тау 8,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Комсомольский проспект 43,unknown,Wildberries
+unknown,wildberries,Челябинская область Троицк улица имени В.И. Ленина 58А,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Челябинская область Магнитогорск улица Сталеваров 15/3,unknown,Wildberries
+unknown,wildberries,Челябинская область Миасс Пролетарская улица 3,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск улица Труда 163,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинская область Челябинск Свердловский проспект 64,unknown,Wildberries
+unknown,wildberries,Усть-Катав Центральная Улица 43,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Бахметьева 33/1,unknown,Wildberries
+unknown,wildberries,Челябинск Проспект Победы 323,unknown,Wildberries
+unknown,wildberries,Миасс Проспект Октября 66,unknown,Wildberries
+unknown,wildberries,Южноуральск Улица Советской Армии 4,unknown,Wildberries
+unknown,wildberries,село Форштадт Октябрьская Улица 1а,unknown,Wildberries
+unknown,wildberries,деревня Казанцево Улица 1 Мая 23,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Российская Улица 275,unknown,Wildberries
+unknown,wildberries,посёлок Петровский Ленинградская Улица 1,unknown,Wildberries
+unknown,wildberries,Куса Индустриальная Улица 39,unknown,Wildberries
+unknown,wildberries,село Варна Улица Спартака 29/1,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица 40-Летия Победы 29в,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Набережная Героя России С.А. Кислова 23,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица 50-Летия Магнитки 31,unknown,Wildberries
+unknown,wildberries,Челябинск Краснопольский Проспект 11,unknown,Wildberries
+unknown,wildberries,Карталы Переулок Дзержинского 9б,unknown,Wildberries
+unknown,wildberries,село Вознесенка Большая Улица 60,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Улица Галиуллина 37,unknown,Wildberries
+unknown,wildberries,село Айлино Улица Ленина 22а,unknown,Wildberries
+unknown,wildberries,Южноуральск Улица Космонавтов 15,unknown,Wildberries
+unknown,wildberries,посёлок железнодорожная станция Ишалино Школьная Улица 1,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Проспект Карла Маркса 104,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Жемчужная Улица 19а,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Первомайская Улица 3,unknown,Wildberries
+Gorod Chelyabinsk,wildberries,Челябинск Улица Труда 30,unknown,Wildberries
+unknown,wildberries,Копейск Проспект Победы 21,unknown,Wildberries
+unknown,wildberries,Златоуст Улица Степана Разина 17,unknown,Wildberries
+unknown,wildberries,село Еманжелинка Улица Карла Маркса 18,unknown,Wildberries
+Gorod Magnitogorsk,wildberries,Магнитогорск Советская Улица 223,unknown,Wildberries

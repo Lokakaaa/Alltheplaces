@@ -1,0 +1,1040 @@
+City,Place Name,Zipcode,Name
+unknown,accor,Carrera 13 # 85-80 Cundinamarca 0 BOGOTA,unknown,Sofitel Bogota Victoria Regia
+unknown,accor,Calle Del Torno 39-29 Barrio San Diego (STATE) BOLIVAR 0 CARTAGENA,unknown,Sofitel Legend Santa Clara Cartagena
+unknown,accor,Transversal 6 No 27 - 85 Centro Internacional 11001 BOGOTA,unknown,ibis Bogota Museo
+unknown,accor,Calle 20 N 44 16 5001000 MEDELLIN,unknown,ibis Medellin
+unknown,accor,AVENIDA SANTANDER # 47-90 47 90 130002 CARTAGENA,unknown,ibis Cartagena Marbella
+unknown,accor,CALLE 115 NO 2 39 Bello Horizonte 470001 SANTA MARTA,unknown,Mercure Santa Marta Emile
+unknown,accor,Calle 86 No 50 66 80001 BARRANQUILLA,unknown,ibis Barranquilla
+unknown,accor,80001 BARRANQUILLA,unknown,Ibis budget Barranquilla (Opening January 2020)
+unknown,accor,Av 8 Norte 21 Norte 40 Granada District 760042 CALI,unknown,ibis Cali Granada
+unknown,accor,Cra 8 39 114 Barrio San Diego 130001 CARTAGENA,unknown,Hotel Boutique Bovedas de Santa Clara By Accor
+unknown,accor,Avenida 0 14 68 540006 CUCUTA,unknown,Ibis Cúcuta
+unknown,accor,Carrera 7 65 01 110231 BOGOTÁ,unknown,Mercure Bogotá BH Zona Financiera
+unknown,accor,Av Cll 80 no 10-11 110221 BOGOTA,unknown,Mercure Bogota BH Retiro
+unknown,accor,Carrera 100 88 21 57841 APARTADO,unknown,Ibis Apartadó
+unknown,accor,KM 7 Sector Cartagena Departamento Bolivar Baru 130017 CARTAGENA,unknown,Sofitel Baru Calablanca
+unknown,accor,2500001 CHIA,unknown,ibis Chia
+unknown,accor,Calle 50 40 17 55413 ITAGÜI,unknown,Ibis Budget Itagüí
+unknown,accor,CARRERA 8 49 110231 BOGOTA,unknown,ibis budget Bogota Marly
+unknown,accor,Cra 25 1 Sur 45 El Poblad 50022 MEDELLIN,unknown,Novotel Medellín El Tesoro (Ex Atton)
+unknown,accor,110111 BOGOTÁ,unknown,Novotel Bogotá Parque 93 (Ex Atton)
+unknown,accor,Transv. 23 98 27 Chico N. 110010 BOGOTÁ,unknown,Mercure Bogotá Calle 100 (Ex Atton)
+Barranquilla,alamo,,unknown,Barranquilla Airport
+Cali,alamo,,unknown,Downtown Cali
+Palmira,alamo,,unknown,Cali International Airport
+Cartagena,alamo,,unknown,Cartagena International Airport
+Santa Marta,alamo,,unknown,Santa Marta Airport
+Medellin,alamo,,unknown,Downtown Medellín
+Bogota,alamo,,unknown,Bogota El Dorado Intl. Airport
+Medellin Rionegro,alamo,,unknown,Jose Maria Cordova Intl. Airport
+Pereira,alamo,,unknown,Pereira Intl Airprot
+Bucaramanga,alamo,,unknown,Bucaramanga Airport
+Riohacha,alamo,,unknown,Riohacha Airport
+Valledupar,alamo,,unknown,Valledupar Airport
+unknown,alstom,Cra 7 No. 71-21 Piso.5 Torre A Bogota 110221 Colombia,unknown,Bogota
+Bogota,bmw_group,,unknown,Autogermana S.A.S.
+Bogota D.C.,bmw_group,,unknown,Autogermana S.A.S. Autogermana Carrera 50
+Ibague,bmw_group,,unknown,Autogermana S.A.S. Autogermana Ibague
+Bucaramanga,bmw_group,,unknown,Autogermana S.A. Bucaramanga
+"Bogota, D.C.",bmw_group,,unknown,M-tech M-tech
+Barranquilla,bmw_group,,unknown,Automunich
+Bogotá D.C.,bmw_group,,unknown,The BMW Store
+Pereira,bmw_group,,unknown,Autogermana S.A. Pereira
+Medellin,bmw_group,,unknown,Autogermana Medellin Autogermana S.A.S. Autogermana Medellin
+Bogotá DC,deloitte,,unknown,Deloitte - Bogotá
+Palmira,enterprise,,unknown,Cali International Airport
+Barranquilla,enterprise,,unknown,Barranquilla Airport
+Cali,enterprise,,unknown,Downtown Cali
+Cartagena,enterprise,,unknown,Cartagena International Airport
+Santa Marta Rodadero,enterprise,,unknown,Santa Marta Rodadero
+Santa Marta,enterprise,,unknown,Santa Marta Airport
+Medellin,enterprise,,unknown,Downtown Medellín
+Bogota,enterprise,,unknown,Bogota El Dorado Intl. Airport
+Medellin Rionegro,enterprise,,unknown,Jose Maria Cordova Intl. Airport
+Bucaramanga,enterprise,,unknown,Bucaramanga Airport
+Pereira,enterprise,,unknown,Pereira Intl Airport
+Riohacha,enterprise,,unknown,Riohacha Airport
+Valledupar,enterprise,,unknown,Valledupar Airport
+Barranquilla,ernst_young,Cll 77B No. 59-61 - Oficina 311 Centro Empresarial de Las Americas II,unknown,EY
+Bogotá,ernst_young,Carrera 11 No. 98 - 07 Piso 3 Green Office,unknown,EY
+Cali,ernst_young,Avenida 4 Norte No. 6N-61 Oficina 502 Edificio Siglo XXI,unknown,EY
+Medellin,ernst_young,Centro Empresarial Milla de Oro Carrera 43 A # 3 Sur - 130 Piso 14,unknown,EY
+Cali,esprit,,unknown,Esprit Partnership Centro Comercial Jardin Plaza
+Barranquilla,esprit,,unknown,Esprit Partnership Centro Comercial Buenavista
+Medellín,esprit,,unknown,Esprit Partnership Centro Comercial El Tesoro Medellin 
+Bogota,esprit,,unknown,Esprit Partnership Centro Comercial Atlantis
+Bucaramanga,esprit,,unknown,Esprit Partnership Centro Comercial Parque Coracoli
+Armenia,esprit,,unknown,Esprit Partnership Centro Comercial Unicentro Armenia
+Cartagena,esprit,,unknown,Esprit Partnership Centro Comercial Mall Plaza
+Pereira,esprit,,unknown,Esprit Partnership Centro Comercial Parque Arboleda
+Cucuta,esprit,,unknown,Esprit Partnership Centro Comercial Cucuta
+Duitama,esprit,,unknown,Esprit Partnership Centro Comercial Duitama
+Ibague,esprit,,unknown,Esprit Partnership Centro Commercial Multicentro Ibague
+Manizales,esprit,,unknown,Esprit Partnership Fundadores
+Medellin ,esprit,,unknown,Esprit Partnership Centro Comercial Molinos 
+Medellin,esprit,,unknown,Esprit Partnership Centro Comercial City Plaza
+Monteria,esprit,,unknown,Esprit Partnership Centro Comercial Monteria
+Neiva,esprit,,unknown,Esprit Partnership Centro Comercial SanPedro Plaza Neiva
+Pasto,esprit,,unknown,Esprit Partnership Centro Comercial Pasto
+Santa Marta,esprit,,unknown,Esprit Partnership Centro Comercial Santa Marta
+Tunja,esprit,,unknown,Esprit Partnership Centro Comercial Tunja
+Villavicencio,esprit,,unknown,Esprit Partnership Centro Comercial Villavicencio
+Yopal,esprit,,unknown,Esprit Partnership Centro Comercial Yopal
+Valledupar,esprit,,unknown,Esprit Partnership Centro Comercial Valledupar
+Medellín,ford,,unknown,EL ROBLE MOTOR
+Pereira,ford,,unknown,EL ROBLE MOTOR
+Manizales,ford,,unknown,EL ROBLE MOTOR
+Bogotá,ford,,unknown,AUTONAL (Solo ventas)
+Cali,ford,,unknown,AUTONIZA S.A. (SUR)
+Barranquilla,ford,,unknown,AUTOLAND
+Santa Marta,ford,,unknown,AUTONORTE
+Valledupar,ford,,unknown,AUTONORTE
+Pasto,ford,,unknown,AUTOPACIFICO FORD PASTO (Solo servicio)
+Cartagena,ford,,unknown,BARÚ MOTOR'S
+Cúcuta,ford,,unknown,AUTOMARCOL
+Montería,ford,,unknown,BARÚ MOTOR'S
+Chía,ford,,unknown,CASATORO CHÍA
+Ibagué,ford,,unknown,SIMOTOR
+Envigado,ford,,unknown,EL ROBLE MOTOR
+Neiva,ford,,unknown,SIMOTOR
+Villavicencio,ford,,unknown,CASATORO
+Bucaramanga,ford,,unknown,CENTRAL MOTOR
+Bogota,fossil,,unknown,Fossil
+unknown,gbfs,,unknown,Calle 13 - 316
+Cartagena,hardrock,,unknown,Hard Rock Cafe Cartagena
+unknown,hilton,Calle 70 No. 6-22 Bogota Colombia,unknown,Embassy Suites by Hilton Bogotá Rosales
+unknown,hilton,No. 22-99 Ave. Carrera 60 Bogota Colombia,unknown,DoubleTree by Hilton Bogota Salitre AR
+unknown,hilton,Calle 30   6 a 133 Valledupar Colombia,unknown,Hampton by Hilton Valledupar
+unknown,hilton,Calle 8 San Martin Cartagena Colombia,unknown,Hampton by Hilton Cartagena
+unknown,hilton,Calle 30   28 - 64 Yopal Colombia,unknown,Hampton by Hilton Yopal
+unknown,hilton,Calle 25G   73B-90 Bogota Colombia,unknown,Hampton by Hilton Bogota Airport
+Medellin,hm,,unknown,H&M El Tesoro
+Bogota,hm,,unknown,H&M
+Cali,hm,,unknown,H&M Jardín Plaza
+Barranquilla,hm,,unknown,H&M
+Strensham,leon,Strensham North Motorway Service Area Junction 8 M5,unknown,Strensham North
+Stansted ,leon,Leon Landside Arrivals Terminal Building Stansted Airport,unknown,Stansted Airport Landside
+London,leon,14a Hanover Square,unknown,Hanover Square
+Cartagena,lhw,Centro Calle de La Universidad No. 36-44 Cartagena 1300 Colombia,unknown,Hotel Casa San Agustin
+Barranquilla,lovisa,,unknown,Lovisa
+Santander,lovisa,,unknown,Lovisa
+Cartagena,man_truck_and_bus,,unknown,DES TECNO INDUSTRIAL
+Bogota,marriott,,unknown,City Express Plus by Marriott Bogota Aeropuerto
+Santa Marta,marriott,,unknown,Santa Marta Marriott Resort Playa Dormida
+Medellin,marriott,,unknown,City Express Plus by Marriott Medellin Colombia
+Barranquilla,marriott,,unknown,Barranquilla Marriott Hotel
+Cali,marriott,,unknown,City Express Plus by Marriott Cali Colombia
+BOGOTA,mcdonalds_latin_america,,unknown,Aeropuerto
+BOGOTÁ,mcdonalds_latin_america,,unknown,Plazoleta Salitre
+CHIA,mcdonalds_latin_america,,unknown,Chia
+IBAGUE,mcdonalds_latin_america,,unknown,Estación
+BUCARAMANGA,mcdonalds_latin_america,,unknown,San Pio
+LOS PATIOS,mcdonalds_latin_america,,unknown,McDonald's PINAR DEL RIO
+Cucuta,mcdonalds_latin_america,,unknown,Libertadores
+PALMIRA,mcdonalds_latin_america,,unknown,Llano Grande
+Cali,mcdonalds_latin_america,,unknown,McDonald's Jardin Plaza
+CALI,mcdonalds_latin_america,,unknown,Chipichape
+unknown,mcdonalds_latin_america,,unknown,Guadalupe
+PEREIRA,mcdonalds_latin_america,,unknown,Circunvalar Pereira
+MANIZALES,mcdonalds_latin_america,,unknown,Fundadores
+MEDELLIN,mcdonalds_latin_america,,unknown,Puerta del Norte
+Valledupar,mcdonalds_latin_america,,unknown,McDonald's Valledupar
+MONTERIA,mcdonalds_latin_america,,unknown,Montería
+SANTA MARTA,mcdonalds_latin_america,,unknown,Buenavista Santa Marta
+BARRANQUILLA,mcdonalds_latin_america,,unknown,Calle 93
+Barranquilla,mcdonalds_latin_america,,unknown,Carrera 53
+CARTAGENA,mcdonalds_latin_america,,unknown,Caribe Plaza
+CALI,moneygram,,unknown,PAGOS INTERNACIONALES - #26
+BOGOTA,moneygram,,unknown,BANCO DAVIVIENDA - #4957 - BOGOTA - PUNT
+CARTAGENA,moneygram,,unknown,DAVIVIENDA - #560 - CARTAGENA - LA PLAZU
+BUCARAMANGA,moneygram,,unknown,PAGOS INTERNACIONALES - #66
+GIRON,moneygram,,unknown,DAVIVIENDA - #422 - GIRON
+SAN ANDRES DE TUMACO,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - SAN ANDR
+MONTERIA,moneygram,,unknown,DAVIVIENDA - #1529 - MONTERIA
+IBAGUE,moneygram,,unknown,PAGOS INTERNACIONALES - #81
+FUNZA,moneygram,,unknown,DAVIVIENDA - #4581 - FUNZA
+ARMENIA,moneygram,,unknown,DAVIVIENDA - #1360 - PORTAL DEL QUINDIO
+BARRANQUILLA,moneygram,,unknown,DAVIVIENDA - #261 - BARRANQUILLA
+MADRID,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - PV. MADR
+COTA,moneygram,,unknown,DAVIVIENDA - #4627 - TERMINAL TERRESTRE
+CUCUTA,moneygram,,unknown,JURISCOOP - CUCUTA - JURISCOOP-CUCUTA
+GIRARDOT,moneygram,,unknown,DAVIVIENDA - #1660 - CARREFOUR GIRARDOT
+VILLAVICENCIO,moneygram,,unknown,DAVIVIENDA - VILLAVICENCIO
+VALLEDUPAR,moneygram,,unknown,DAVIVIENDA - #2565 - GUATAPURI
+VILLA DE LEYVA,moneygram,,unknown,BANCOLOMBIA
+MEDELLIN,moneygram,,unknown,DAVIVIENDA - #364 - MEDELLIN - FLORIDA P
+BOGOTA D.C.,moneygram,,unknown,BANCOLOMBIA - SANOFI
+LA UNION,moneygram,,unknown,DAVIVIENDA - #1064 - LA UNION
+MANIZALES,moneygram,,unknown,PAGOS INTERNACIONALES - #45
+NEIRA,moneygram,,unknown,DAVIVIENDA - #848 - NEIRA
+NEIVA,moneygram,,unknown,DAVIVIENDA - #760 - NEIVA - OASIS PLAZA
+SABANETA,moneygram,,unknown,DAVIVIENDA - #384 - MAYORCA
+ACACIAS,moneygram,,unknown,DAVIVIENDA - #971 - ACACIAS
+APARTADO,moneygram,,unknown,DAVIVIENDA - #358 - APARTADO
+ARAUCA,moneygram,,unknown,DAVIVIENDA - #5060 - ARAUCA
+BARRANCABERMEJA,moneygram,,unknown,DAVIVIENDA - #1462 - BARRANCABERMEJA
+BELLO,moneygram,,unknown,PAGOS INTERNACIONALES - #93
+BUENAVENTURA,moneygram,,unknown,PAGOS INTERNACIONALES - #30
+BUGA,moneygram,,unknown,PAGOS INTERNACIONALES - #53
+CALARCA,moneygram,,unknown,DAVIVIENDA - #1364 - CALARCA
+CALDAS,moneygram,,unknown,DAVIVIENDA - #385 - CALDAS
+CARTAGENA DEL CHAIRA,moneygram,,unknown,BANCO W
+CARTAGO,moneygram,,unknown,PAGOS INTERNACIONALES - #58
+CERETE,moneygram,,unknown,BANCOLOMBIA - CERETE
+CERRITO,moneygram,,unknown,BANCO W
+CHAPARRAL,moneygram,,unknown,DAVIVIENDA - #1674 - CHAPARRAL
+CHICHINA,moneygram,,unknown,BANCO W
+CIENAGA,moneygram,,unknown,DAVIVIENDA - #1173 - CIENAGA
+COROZAL,moneygram,,unknown,BANCOLOMBIA - COROZAL
+DOSQUEBRADAS,moneygram,,unknown,PAGOS INTERNACIONALES - #41
+DUITAMA,moneygram,,unknown,DAVIVIENDA - #1760 - INNOVO
+EL BORDO,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - EL BORDO
+ESPINAL,moneygram,,unknown,DAVIVIENDA - ESPINAL
+FACATATIVA,moneygram,,unknown,DAVIVIENDA - #4782 - FACATATIVA
+FLORENCIA,moneygram,,unknown,DAVIVIENDA - #4960 - FLORENCIA - GRAN PL
+FLORIDA,moneygram,,unknown,BANCOLOMBIA - FLORIDA
+FONSECA,moneygram,,unknown,MASRED - FONSECA - JOYERIA OROEXPRESS PR
+FUNDACION,moneygram,,unknown,DAVIVIENDA - #1166 - FUNDACION
+FUSAGASUGA,moneygram,,unknown,DAVIVIENDA - #4060 - FUSAGASUGA
+GARZON,moneygram,,unknown,DAVIVIENDA - #773 - GARZON
+GRANADA,moneygram,,unknown,DAVIVIENDA - #915 - GRANADA
+IPIALES,moneygram,,unknown,DAVIVIENDA - #3460 - IPIALES
+ISTMINA,moneygram,,unknown,BANCO W
+ITAGUI,moneygram,,unknown,PAGOS INTERNACIONALES - #91
+JAMUNDI,moneygram,,unknown,DAVIVIENDA - #134 - JAMUNDI
+LA DORADA,moneygram,,unknown,DAVIVIENDA - #850 - LA DORADA
+LA PLATA,moneygram,,unknown,DAVIVIENDA - #772 - LA PLATA
+LA UNION VALLE,moneygram,,unknown,BANCO W
+LETICIA,moneygram,,unknown,BANCOLOMBIA
+LORICA,moneygram,,unknown,BANCOLOMBIA - LORICA
+MAICAO,moneygram,,unknown,MASRED - MAICAO - JOYERIA OROEXPRESS CAC
+MANGANGUE,moneygram,,unknown,BANCO W
+MOCOA,moneygram,,unknown,BANCOLOMBIA
+MONTELIBANO,moneygram,,unknown,BANCOLOMBIA - MONTELIBANO
+OCANA,moneygram,,unknown,DAVIVIENDA - #2260 - OCANA
+PALMIRA,moneygram,,unknown,DAVIVIENDA - #162 - PALMIRA - LLANOGRAND
+PASTO,moneygram,,unknown,DAVIVIENDA - #1060 - PASTO - UNICO
+PEREIRA,moneygram,,unknown,PAGOS INTERNACIONALES - #42
+PIENDAMO,moneygram,,unknown,BANCO W
+PITALITO,moneygram,,unknown,DAVIVIENDA - #767 - PITALITO - PLAZA COM
+PLANADAS,moneygram,,unknown,BANCO W
+POPAYAN,moneygram,,unknown,BANCO DAVIVIENDA - #1944 - POPAYAN - TER
+PRADERA,moneygram,,unknown,BANCOLOMBIA - PRADERA
+PUERTO ASIS,moneygram,,unknown,MASRED - PUERTO ASIS - JOYERIA OROEXPRES
+PUERTO GAITAN,moneygram,,unknown,DAVIVIENDA - #917 - PUERTO GAITAN
+PUERTO TEJADA,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - PUERTO T
+QUIBDO,moneygram,,unknown,JURISCOOP - QUIBDO - JURISCOOP-QUIBDO
+RIOHACHA,moneygram,,unknown,DAVIVIENDA - #2360 - RIOHACHA
+RIONEGRO,moneygram,,unknown,DAVIVIENDA - #3940 - SAN NICOLAS RIONEGR
+RIOSUCIO,moneygram,,unknown,DAVIVIENDA - #842 - RIOSUCIO
+SABANALARGA,moneygram,,unknown,GANA - SABANALARGA - GANASERVICIOS SABAN
+SAN GIL,moneygram,,unknown,DAVIVIENDA - #479 - SAN GIL
+SAN JOSE DE ISNOS,moneygram,,unknown,BANCO W
+SAN JOSE DEL GUAVIARE,moneygram,,unknown,MASRED - SAN JOSE DEL GUAVIARE - JOYERIA
+SAN JUAN DEL CESAR,moneygram,,unknown,DAVIVIENDA - #2567 - SAN JUAN DEL CESAR
+SAN VICENTE DEL CAGUAN,moneygram,,unknown,BANCOLOMBIA
+SANTA MARTHA,moneygram,,unknown,BANCO W
+SANTA ROSA DE CABAL,moneygram,,unknown,DAVIVIENDA - #1275 - SANTA ROSA DE CABAL
+SANTANDER DE Q.,moneygram,,unknown,BANCO W
+SEVILLA,moneygram,,unknown,DAVIVIENDA - #1376 - SEVILLA
+SIBUNDOY,moneygram,,unknown,BANCO W
+SINCELEJO,moneygram,,unknown,DAVIVIENDA - #2065 - SINCELEJO
+SOGAMOSO,moneygram,,unknown,DAVIVIENDA - #1860 - SOGAMOSO - TUNJA
+SOLEDAD,moneygram,,unknown,DAVIVIENDA - #297 - SOLEDAD - GRANABASTO
+TAME,moneygram,,unknown,DAVIVIENDA - #5064 - TAME
+TULUA,moneygram,,unknown,PAGOS INTERNACIONALES - #55
+TUMACO,moneygram,,unknown,BANCO DAVIVIENDA - TUMACO - CENTRO DE RE
+TUNJA,moneygram,,unknown,DAVIVIENDA - #1763 - UNICENTRO TUNJA
+TUQUERRES,moneygram,,unknown,DAVIVIENDA - #1068 - TUQUERRES
+VILLETA,moneygram,,unknown,DAVIVIENDA - #4774 - VILLETA
+YOPAL,moneygram,,unknown,DAVIVIENDA - #2860 - YOPAL - ALCARAVAN
+YUMBO,moneygram,,unknown,DAVIVIENDA - #184 - YUMBO
+ZARZAL,moneygram,,unknown,DAVIVIENDA - #133 - ZARZAL
+ZIPAQUIRA,moneygram,,unknown,DAVIVIENDA - #76 - ZIPAQUIRA
+SANTA MARTA,moneygram,,unknown,BANCO DAVIVIENDA - #1168 - SANTA MARTA -
+PAIPA,moneygram,,unknown,DAVIVIENDA - #4160 - PAIPA
+SIBERIA,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - SIBERIA
+CHIA,moneygram,,unknown,DAVIVIENDA - #4517 - SABANA NORTE
+VILLAMARIA,moneygram,,unknown,DAVIVIENDA - VILLAMARIA
+LERIDA,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - LERIDA -
+BERLIN,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - PV.BERLI
+MANIZALEZ,moneygram,,unknown,BANCO DAVIVIENDA - #867 - MANIZALEZ - MA
+QUIMBAYA,moneygram,,unknown,DAVIVIENDA - #1369 - QUIMBAYA
+HONDA,moneygram,,unknown,BANCOLOMBIA
+CHINCHINA,moneygram,,unknown,DAVIVIENDA - #846 - CHINCHINA
+LA CEJA,moneygram,,unknown,DAVIVIENDA - #3961 - LA CEJA
+ANSERMA,moneygram,,unknown,DAVIVIENDA - #844 - ANSERMA
+SOCORRO,moneygram,,unknown,DAVIVIENDA - #480 - SOCORRO
+FLORIDABLANCA,moneygram,,unknown,DAVIVIENDA - #478 - FLORIDA
+MOSQUERA,moneygram,,unknown,DAVIVIENDA - #4760 - MOSQUERA
+AGUADAS,moneygram,,unknown,DAVIVIENDA - #851 - AGUADAS
+MELGAR,moneygram,,unknown,DAVIVIENDA - MELGAR
+GARAGOA,moneygram,,unknown,BANCOLOMBIA
+AGUACHICA,moneygram,,unknown,DAVIVIENDA - #673 - AGUACHICA
+VELEZ,moneygram,,unknown,BANCOLOMBIA - VELEZ
+CHIQUINQUIRA,moneygram,,unknown,DAVIVIENDA - CHIQUINQUIRA
+PAMPLONA,moneygram,,unknown,DAVIVIENDA - #680 - PAMPLONA
+SALAMINA,moneygram,,unknown,DAVIVIENDA - #849 - SALAMINA
+LA VIRGINIA,moneygram,,unknown,DAVIVIENDA - #1283 - LA VIRGINIA
+YARUMAL,moneygram,,unknown,DAVIVIENDA - #3965 - YARUMAL
+ENVIGADO,moneygram,,unknown,PAGOS INTERNACIONALES - #92
+PUERTO BOYACA,moneygram,,unknown,DAVIVIENDA - #1626 - PUERTO BOYACA
+GUATEQUE,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - GUATEQUE
+CIMITARRA,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - CIMITARR
+LIBANO,moneygram,,unknown,DAVIVIENDA - #1668 - LIBANO
+CANDELARIA,moneygram,,unknown,POBLADO CAMPESTRE - CANDELARIA - POBLADO
+UBATE,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - UBATE -
+LA MESA,moneygram,,unknown,DAVIVIENDA - #4753 - LA MESA
+MONTENEGRO,moneygram,,unknown,DAVIVIENDA - #1373 - MONTENEGRO
+BARBOSA,moneygram,,unknown,DAVIVIENDA - #486 - BARBOSA
+MAGANGUE,moneygram,,unknown,DAVIVIENDA - #591 - MAGANGUE - EXITO MAG
+GUADUAS,moneygram,,unknown,DAVIVIENDA - #4730 - GUADUAS
+PIEDECUESTA,moneygram,,unknown,DAVIVIENDA - #483 - PIEDECUESTA
+MARINILLA,moneygram,,unknown,GANA - MARINILLA - BILLARES EL PASTUSO
+ROLDANILLO,moneygram,,unknown,DAVIVIENDA - #125 - ROLDANILLO
+CAICEDONIA,moneygram,,unknown,DAVIVIENDA - #1375 - CAICEDONIA
+MARIQUITA,moneygram,,unknown,DAVIVIENDA - #1625 - MARIQUITA
+SANTANDER DE QUILICHAO,moneygram,,unknown,DAVIVIENDA - #118 - SANTANDER DE QUILICH
+MONIQUIRA,moneygram,,unknown,DAVIVIENDA - #1767 - MONIQUIRA
+PACHO,moneygram,,unknown,DAVIVIENDA - #4659 - PACHO - BOGOTA
+SAN ANDRES,moneygram,,unknown,BANCO DAVIVIENDA - SAN ANDRES - CENTRO D
+BOCAS DE SATINGA,moneygram,,unknown,MEGA GIROS - MEGA GIROS BOCAS DE SATINGA
+EL BANCO,moneygram,,unknown,MASRED - EL BANCO - ALMACEN Y JOYERIA LA
+PUERTO LOPEZ,moneygram,,unknown,BANCOLOMBIA
+URIBE,moneygram,,unknown,CONGENTE - #212 - CORRESPONSAL URIBE
+SAN VICENTE DE CHUCURI,moneygram,,unknown,DAVIVIENDA - #481 - SAN VICENTE
+CAUCASIA,moneygram,,unknown,DAVIVIENDA - #3936 - CAUCASIA
+GUAMO,moneygram,,unknown,BANCOLOMBIA - GUAMO
+CAQUEZA,moneygram,,unknown,DAVIVIENDA - #4694 - CAQUEZA
+PUEBLORRICO,moneygram,,unknown,PTM - BAUZ COMUNICACIONES LTDA
+ANAPOIMA,moneygram,,unknown,DAVIVIENDA - #45 - ANAPOIMA
+SABANA DE TORRES,moneygram,,unknown,BANCOLOMBIA
+BOGOTA D.C,moneygram,,unknown,PTM - MATIAS CENTRO DE COPIADO 2
+MUTATA,moneygram,,unknown,GANA - MUTATA - MUTATA
+CAMPOALEGRE,moneygram,,unknown,BANCOLOMBIA - CAMPOALEGRE
+VILLANUEVA,moneygram,,unknown,DAVIVIENDA - #2568 - VILLANUEVA
+SURATA,moneygram,,unknown,PTM - DISTRIBUCIONES SURATA
+SAN ANDRES DE SOTAVENTO,moneygram,,unknown,PTM - VARIEDADES ANDREA DE TUCHIN
+PENSILVANIA,moneygram,,unknown,DAVIVIENDA - #854 - PENSILVANIA
+EL CERRITO,moneygram,,unknown,BANCOLOMBIA - EL CERRITO
+SOACHA,moneygram,,unknown,DAVIVIENDA - #4849 - SOACHA - CENTRO COM
+BOGOTA DC,moneygram,,unknown,COLTEFINANCIERA - BOGOTA DC - FLAMINGO C
+ANDES,moneygram,,unknown,DAVIVIENDA - #3964 - ANDES
+SOATA,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - SOATA -
+ARMERIA,moneygram,,unknown,COLTEFINANCIERA - ARMERIA - FLAMINGO ARM
+CARMEN DE VIBORAL,moneygram,,unknown,GANA - CARMEN DE VIBORAL - LA OTRA ESQUI
+GIRARDOTA,moneygram,,unknown,GANA - GIRARDOTA - FRUVER GIRARDOTA
+ABEJORRAL,moneygram,,unknown,DAVIVIENDA - #3976 - ABEJORRAL
+ALEJANDRIA,moneygram,,unknown,GANA - ALEJANDRIA - ALEJANDRIA
+AMAGA,moneygram,,unknown,DAVIVIENDA - #3974 - AMAGA
+AMALFI,moneygram,,unknown,DAVIVIENDA - #3966 - AMALFI
+ANGELOPOLIS,moneygram,,unknown,GANA - ANGELOPOLIS - PV OFICINA PRINCIPA
+ANGOSTURA,moneygram,,unknown,GANA - ANGOSTURA - EL REY
+ANORI,moneygram,,unknown,GANA - ANORI - ANORI GS
+ANZA,moneygram,,unknown,GANA - ANZA - ANZA
+ARBOLETES,moneygram,,unknown,GANA - ARBOLETES - LA BOMBA
+ARGELIA,moneygram,,unknown,DAVIVIENDA - #119 - ARGELIA
+BELMIRA,moneygram,,unknown,GANA - BELMIRA - BELMIRA
+BETANIA,moneygram,,unknown,GANA - BETANIA - LA SALIDA
+BETULIA,moneygram,,unknown,DAVIVIENDA - #3990 - BETULIA
+BRICENO,moneygram,,unknown,GANA - BRICENO - BRICENO
+BURITICA,moneygram,,unknown,GANA - BURITICA - BURITICA
+CACERES,moneygram,,unknown,GANA - CACERES - JARDIN BAJO CAUCA
+CAICEDO,moneygram,,unknown,GANA - CAICEDO - CAICEDO
+CAMPAMENTO,moneygram,,unknown,GANA - CAMPAMENTO - GANASERVICIOS CAMPAM
+CANAS GORDAS,moneygram,,unknown,GANA - CANAS GORDAS - CANAS GORDAS
+CARACOLI,moneygram,,unknown,GANA - CARACOLI - CARACOLI
+CARAMANTA,moneygram,,unknown,GANA - CARAMANTA - GANASERVICIOS CARAMAN
+CAREPA,moneygram,,unknown,BANCO DAVIVIENDA - #3913 - CAREPA - CENT
+CAROLINA,moneygram,,unknown,GANA - CAROLINA - CAROLINA
+CHIGORODO,moneygram,,unknown,BANCO DAVIVIENDA S.A. - #3912 - CHIGOROD
+CISNEROS,moneygram,,unknown,GANA - CISNEROS - EL PALERMO
+CIUDAD BOLIVAR,moneygram,,unknown,DAVIVIENDA - BOLIVAR
+COCORNA,moneygram,,unknown,GANA - COCORNA - REY COCORNA
+CONCEPCION,moneygram,,unknown,GANA - CONCEPCION - CONCEPCION
+CONCORDIA,moneygram,,unknown,DAVIVIENDA - #3968 - CONCORDIA
+COPACABANA,moneygram,,unknown,DAVIVIENDA - #366 - COPACABANA - HACEB
+DABEIBA,moneygram,,unknown,GANA - DABEIBA - REMOLINO
+DON MATIAS,moneygram,,unknown,BANCOLOMBIA - DON MATIAS
+DORADAL,moneygram,,unknown,GANA - DORADAL - GANA LA DANTA
+EBEJICO,moneygram,,unknown,GANA - EBEJICO - LA REPUBLICA
+EL BAGRE,moneygram,,unknown,GANA - EL BAGRE - LA VICTORIA
+ENTRERRIOS,moneygram,,unknown,GANA - ENTRERRIOS - ESTANQUILLO CARLOS C
+FREDONIA,moneygram,,unknown,DAVIVIENDA - #3972 - FREDONIA
+FRONTINO,moneygram,,unknown,GANA - FRONTINO - MANGURUMA 2
+GIRALDO,moneygram,,unknown,GANA - GIRALDO - PARQUE PRINCIPAL
+GOMEZ PLATA,moneygram,,unknown,GANA - GOMEZ PLATA - GOMEZ PLATA LA 51
+GUADALUPE,moneygram,,unknown,GANA - GUADALUPE - ACOPIO EL REY 2
+GUARNE,moneygram,,unknown,GANA - GUARNE - OFICINA PRINCIPAL CANDIL
+GUATAPE,moneygram,,unknown,GANA - GUATAPE - EL REY
+HELICONIA,moneygram,,unknown,GANA - HELICONIA - HELICONIA
+HISPANIA,moneygram,,unknown,GANA - HISPANIA - PV OFICINA PRINCIPAL G
+ITUANGO,moneygram,,unknown,GANA - ITUANGO - ITUANGO
+JARDIN,moneygram,,unknown,DAVIVIENDA - #3985 - JARDIN
+JERICO,moneygram,,unknown,DAVIVIENDA - #3992 - JERICO
+LA ESTRELLA,moneygram,,unknown,BANCO DAVIVIENDA - #3919 - LA ESTRELLA -
+LA PINTADA,moneygram,,unknown,GANA - LA PINTADA - PINTADA
+LA SIERRA,moneygram,,unknown,GANA - LA SIERRA - EL PUERTO
+LIBORINA,moneygram,,unknown,GANA - LIBORINA - EL REY SAN DIEGO
+MACEO,moneygram,,unknown,GANA - MACEO - GANASERVICIOS MACEO
+MONTEBELLO,moneygram,,unknown,GANA - MONTEBELLO - EL PARQUE
+MURINDO,moneygram,,unknown,GANA - MURINDO - SAN JUDAS
+NARINO,moneygram,,unknown,GANA - NARINO - NARINO
+NECHI,moneygram,,unknown,GANA - NECHI - MILENIUN
+NECOCLI,moneygram,,unknown,GANA - NECOCLI - OFICINA ANTUGUA GANA NE
+PENOL,moneygram,,unknown,GANA - PENOL - EL BOHIO
+PEQUE,moneygram,,unknown,GANA - PEQUE - PEQUE
+PUEBLO RICO,moneygram,,unknown,GANA - PUEBLO RICO - PUEBLORRICO CENTRAL
+PUERTO BERRIO,moneygram,,unknown,DAVIVIENDA - #314 - PUERTO BERRIO - MEDE
+PUERTO NARE,moneygram,,unknown,GANA - PUERTO NARE - LA PLAZA
+PUERTO PERALES,moneygram,,unknown,GANA - PUERTO PERALES - PUERTO PERALES
+PUERTO TRIUNFO,moneygram,,unknown,GANA - PUERTO TRIUNFO - LOS ESTUDIANTES
+REMEDIOS,moneygram,,unknown,GANA - REMEDIOS - OFICINA ANTIGUA REMEDI
+RETIRO,moneygram,,unknown,GANA - RETIRO - CALLE 19
+S JOSE DE LA MONTANA,moneygram,,unknown,GANA - S JOSE DE LA MONTANA - SAN JOSE D
+S. PEDRO DE LOS MILAGROS,moneygram,,unknown,GANA - S. PEDRO DE LOS MILAGROS - PUNTO
+SALGAR,moneygram,,unknown,DAVIVIENDA - #3975 - SALGAR
+SAN ANDRES DE CUERQUIA,moneygram,,unknown,GANA - SAN ANDRES DE CUERQUIA - SAN ANDR
+SAN CARLOS,moneygram,,unknown,GANA - SAN CARLOS - NUEVO GANASERVICIOS
+SAN FRANCISCO,moneygram,,unknown,GANA - SAN FRANCISCO - NUEVO FRANCISCO
+SAN JERONIMO,moneygram,,unknown,GANA - SAN JERONIMO - PARQUE SAN JERONIM
+SAN JOSE DEL NUS,moneygram,,unknown,GANA - SAN JOSE DEL NUS - NUEVO SAN JOSE
+SAN JUAN DE URABA,moneygram,,unknown,GANA - SAN JUAN DE URABA - SAN JUAN
+SAN LUIS,moneygram,,unknown,GANA - SAN LUIS - SAN LUIS
+SAN MIGUEL,moneygram,,unknown,GANA - SAN MIGUEL - SAN MIGUEL
+SAN PEDRO DE URABA,moneygram,,unknown,GANA - SAN PEDRO DE URABA - SAN PEDRO
+SAN RAFAEL,moneygram,,unknown,GANA - SAN RAFAEL - LA NUEVA ERA 2
+SAN ROQUE,moneygram,,unknown,GANA - SAN ROQUE - EL REY
+SAN VICENTE,moneygram,,unknown,GANA - SAN VICENTE - VICENT
+SANTA BARBARA,moneygram,,unknown,DAVIVIENDA - #3977 - SANTA BARBARA
+SANTA ROSA DE OSOS,moneygram,,unknown,GANA - SANTA ROSA DE OSOS - LA VIRGEN
+SANTAFE DE ANTIOQUIA,moneygram,,unknown,BANCOLOMBIA - SANTAFE DE ANTIOQUIA
+SANTO DOMINGO,moneygram,,unknown,GANA - SANTO DOMINGO - SANTO DOMINGO
+SANTUARIO,moneygram,,unknown,DAVIVIENDA - #3981 - EL SANTUARIO
+SEGOVIA,moneygram,,unknown,GANA - SEGOVIA - LA REINA
+SONSON,moneygram,,unknown,DAVIVIENDA - #3971 - SONSON
+SOPETRAN,moneygram,,unknown,GANA - SOPETRAN - OFICINA ANTIGUA SOPETR
+TAMESIS,moneygram,,unknown,DAVIVIENDA - #3994 - TAMESIS
+TARAZA,moneygram,,unknown,GANA - TARAZA - NUEVO PARQUE
+TARSO,moneygram,,unknown,GANA - TARSO - LA FARMACIA
+TITIRIBI,moneygram,,unknown,GANA - TITIRIBI - ALCALDIA TITIRIBI
+TOLEDO,moneygram,,unknown,GANA - TOLEDO - VALLE DE TOLEDO
+TURBO,moneygram,,unknown,GANA - TURBO - PAPAYASO
+URAMITA,moneygram,,unknown,GANA - URAMITA - URAMITA
+URRAO,moneygram,,unknown,GANA - URRAO - LA CASA ROSADA
+VALDIVIA,moneygram,,unknown,GANA - VALDIVIA - PARROQUIA VALDIVIA
+VALPARAISO,moneygram,,unknown,GANA - VALPARAISO - LA Y
+VEGACHI,moneygram,,unknown,GANA - VEGACHI - GS VEGACHI
+VENECIA,moneygram,,unknown,DAVIVIENDA - #3987 - VENECIA
+VIGIA DEL FUERTE,moneygram,,unknown,GANA - VIGIA DEL FUERTE - VIGIA DEL FUER
+YALI,moneygram,,unknown,GANA - YALI - PV LA CITA
+YOLOMBO,moneygram,,unknown,GANA - YOLOMBO - YOLOMBO
+YONDO,moneygram,,unknown,GANA - YONDO - VETERINARIA EL BUFALO
+ZARAGOZA,moneygram,,unknown,GANA - ZARAGOZA - MAQUINITAS
+TOCANCIPA,moneygram,,unknown,DAVIVIENDA - #4665 - TOCANCIPA
+BOJACA,moneygram,,unknown,BANCOLOMBIA
+GUASCA,moneygram,,unknown,BANCOLOMBIA
+LOS PATIOS,moneygram,,unknown,MASRED - LOS PATIOS - JOYERIA OROEXPRESS
+ABREGO,moneygram,,unknown,BANCOLOMBIA
+MIRANDA,moneygram,,unknown,BANCOLOMBIA
+HATONUEVO,moneygram,,unknown,MASRED - HATONUEVO - JOYERIA OROEXPRESS
+ARJONA,moneygram,,unknown,BANCOLOMBIA
+CIENAGA DE ORO,moneygram,,unknown,BANCOLOMBIA
+BARRANCAS,moneygram,,unknown,BANCOLOMBIA
+DIBULLA,moneygram,,unknown,BANCOLOMBIA
+GIGANTE,moneygram,,unknown,BANCOLOMBIA
+CHOCONTA,moneygram,,unknown,BANCOLOMBIA
+BECERRIL,moneygram,,unknown,BANCOLOMBIA
+MALAMBO,moneygram,,unknown,BANCOLOMBIA
+AYAPEL,moneygram,,unknown,BANCOLOMBIA
+MOMPOX,moneygram,,unknown,MASRED - MOMPOX - ALMACEN Y JOYERIA LA V
+PALERMO,moneygram,,unknown,DAVIVIENDA - #768 - PALERMO
+GUACHENE,moneygram,,unknown,BANCOLOMBIA
+PUERTO CARRENO,moneygram,,unknown,BANCOLOMBIA
+SAN LUIS DE SINCE,moneygram,,unknown,BANCOLOMBIA
+BARANOA,moneygram,,unknown,BANCOLOMBIA
+MANI,moneygram,,unknown,BANCOLOMBIA
+CHINU,moneygram,,unknown,BANCOLOMBIA
+SOCHA,moneygram,,unknown,BANCOLOMBIA
+RAMIRIQUI,moneygram,,unknown,BANCOLOMBIA
+PLANETA RICA,moneygram,,unknown,BANCOLOMBIA - PLANETA RICA
+EL ROSAL,moneygram,,unknown,DAVIVIENDA - #4564 - EL ROSAL
+SAHAGUN,moneygram,,unknown,BANCOLOMBIA - SAHAGUN
+LA CALERA,moneygram,,unknown,DAVIVIENDA - #4746 - LA CALERA
+MALAGA,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - MALAGA -
+CAJICA,moneygram,,unknown,DAVIVIENDA - #67 - CAJICA
+AGUAZUL,moneygram,,unknown,DAVIVIENDA - #962 - AGUAZUL
+PUERTO SALGAR,moneygram,,unknown,BANCOLOMBIA - PUERTO SALGAR
+AMBALEMA,moneygram,,unknown,BANCOLOMBIA - AMBALEMA
+SANTIAGO DE TOLU,moneygram,,unknown,BANCOLOMBIA - SANTIAGO DE TOLU
+BOLIVAR,moneygram,,unknown,BANCOLOMBIA - BOLIVAR
+GUADALAJARA DE BUGA,moneygram,,unknown,DAVIVIENDA - BUGA
+BUGALAGRANDE,moneygram,,unknown,BANCOLOMBIA - BUGALAGRANDE
+BOSCONIA,moneygram,,unknown,BANCOLOMBIA - BOSCONIA
+BELEN DE UMBRIA,moneygram,,unknown,DAVIVIENDA - #1279 - BELEN DE UMBRIA
+SIBATE,moneygram,,unknown,DAVIVIENDA - #4666 - SIBATE
+SALDANA,moneygram,,unknown,BANCOLOMBIA - SALDANA
+PLATO,moneygram,,unknown,MASRED - PLATO - JOYERIA OROEXPRESS CAIM
+YAGUARA,moneygram,,unknown,BANCOLOMBIA
+CUMARAL,moneygram,,unknown,BANCOLOMBIA
+TABIO,moneygram,,unknown,BANCOLOMBIA - TABIO
+GALAPA,moneygram,,unknown,BANCOLOMBIA
+EL PASO,moneygram,,unknown,BANCOLOMBIA
+PAZ DE ARIPORO,moneygram,,unknown,BANCOLOMBIA
+SUPIA,moneygram,,unknown,DAVIVIENDA - #847 - SUPIA
+SAN MARCOS,moneygram,,unknown,BANCOLOMBIA
+BUENAVISTA,moneygram,,unknown,BANCOLOMBIA
+AIPE,moneygram,,unknown,BANCOLOMBIA
+OROCUE,moneygram,,unknown,BANCOLOMBIA
+LEBRIJA,moneygram,,unknown,BANCOLOMBIA
+COVENAS,moneygram,,unknown,BANCOLOMBIA
+EL SANTUARIO,moneygram,,unknown,DAVIVIENDA - #1277 - SANTUARIO
+GACHANCIPA,moneygram,,unknown,BANCOLOMBIA
+SAN MARTIN,moneygram,,unknown,BANCOLOMBIA
+INIRIDA,moneygram,,unknown,BANCOLOMBIA
+PATIA,moneygram,,unknown,BANCOLOMBIA
+ARACATACA,moneygram,,unknown,SERVICIOS POSTALES NACIONALES - ARACATAC
+ITAGUEI,moneygram,,unknown,MASRED - ITAGUEI - ALMACEN Y JOYERIA LA
+SAMPUES,moneygram,,unknown,MASRED - SAMPUES - ALMACEN Y JOYERIA LA
+TURBACO,moneygram,,unknown,DAVIVIENDA - #565 - TURBACO
+URIBIA,moneygram,,unknown,BANCOLOMBIA - URIBIA
+SUBACHOQUE,moneygram,,unknown,DAVIVIENDA - #4593 - SUBACHOQUE
+SIMIJACA,moneygram,,unknown,BANCOLOMBIA - SIMIJACA
+SAN PEDRO,moneygram,,unknown,GANA - SAN PEDRO - HOSPITAL
+SANDONA,moneygram,,unknown,BANCOLOMBIA - SANDONA
+TENJO,moneygram,,unknown,DAVIVIENDA - #4683 - TENJO
+CHARALA,moneygram,,unknown,DAVIVIENDA - #488 - CHARALA
+NEMOCON,moneygram,,unknown,BANCOLOMBIA - NEMOCON
+GUACHETA,moneygram,,unknown,BANCOLOMBIA - GUACHETA
+PURIFICACION,moneygram,,unknown,BANCOLOMBIA - PURIFICACION
+CAJAMARCA,moneygram,,unknown,BANCOLOMBIA - CAJAMARCA
+VILLAPINZON,moneygram,,unknown,BANCOLOMBIA - VILLAPINZON
+SAMACA,moneygram,,unknown,BANCOLOMBIA - SAMACA
+MANAURE,moneygram,,unknown,BANCOLOMBIA - MANAURE
+LA VEGA,moneygram,,unknown,BANCOLOMBIA - LA VEGA
+SOPO,moneygram,,unknown,DAVIVIENDA - #4631 - SOPO
+VILLA DE SANDIEGO DE UBATE,moneygram,,unknown,BANCOLOMBIA - VILLA DE SANDIEGO DE UBATE
+ARIGUANI,moneygram,,unknown,BANCOLOMBIA - ARIGUANI
+SESQUILE,moneygram,,unknown,BANCOLOMBIA - SESQUILE
+TAURAMENA,moneygram,,unknown,DAVIVIENDA - #1769 - TAURAMENA
+FRESNO,moneygram,,unknown,DAVIVIENDA - #1676 - FRESNO
+CUNDINAMARCA,moneygram,,unknown,BANCO DAVIVIENDA - #4898 - CUNDINAMARCA
+RIONEGRO PORVENIR,moneygram,,unknown,GANA - RIONEGRO PORVENIR - LA MOTA
+SAN JUAN,moneygram,,unknown,GANA - SAN JUAN - DAMAQUIEL
+SAN ANTONIO DE PRADO,moneygram,,unknown,GANA - SAN ANTONIO DE PRADO - SALSAMENTA
+PINTADA,moneygram,,unknown,GANA - PINTADA - AVENIDA
+SANTO DOMINGO SAVIO,moneygram,,unknown,GANA - SANTO DOMINGO SAVIO - ESTACION ME
+DONMATIAS,moneygram,,unknown,ASESORIAS Y&E
+DIAMANTE,moneygram,,unknown,GANA - DIAMANTE - LOPEZ DE MESA
+LINEA METRO,moneygram,,unknown,GANA - LINEA METRO - PLAZA MAYOR
+ALPUJARRA,moneygram,,unknown,GANA - ALPUJARRA - EL DORADO
+POBLADO,moneygram,,unknown,GANA - POBLADO - CARULLA SAN LUCAS
+TABLAZA,moneygram,,unknown,GANA - TABLAZA - LA TABLAZA REY
+AMERICA,moneygram,,unknown,GANA - AMERICA - EXITO LAURELES
+SANTA MARIA,moneygram,,unknown,GANA - SANTA MARIA - NUEVO SIMON BOLIVAR
+GUAYABAL,moneygram,,unknown,GANA - GUAYABAL - TORTAS Y TORTAS
+LOS SAUCES,moneygram,,unknown,GANA - LOS SAUCES - MACRORAIZ
+BOSTON,moneygram,,unknown,GANA - BOSTON - GANASERVICIOS BOSTON
+BELENCITO,moneygram,,unknown,GANA - BELENCITO - TERMINAL BELENCITO
+BUENOS AIRES,moneygram,,unknown,GANA - BUENOS AIRES - LA CENTRAL
+BARRIO ANTIOQUIA,moneygram,,unknown,GANA - BARRIO ANTIOQUIA - ANTIOQUIA
+PARQUE BERRIO,moneygram,,unknown,GANA - PARQUE BERRIO - EXITO JUNIN
+CURRULAO,moneygram,,unknown,GANA - CURRULAO - EL POLICIA
+SAN DIEGO,moneygram,,unknown,GANA - SAN DIEGO - CARULLA VIVA PALMAS
+LLANOS DE CUIVA,moneygram,,unknown,GANA - LLANOS DE CUIVA - GANSERVICIOS LL
+JARDIN BAJO CAUCA,moneygram,,unknown,GANA - JARDIN BAJO CAUCA - ANTIGUO JARDI
+BARRIO OBRERO,moneygram,,unknown,GANA - BARRIO OBRERO - PARQUE FABRICATO
+MAYORISTA,moneygram,,unknown,GANA - MAYORISTA - CENCOSUD JUMBO LAS VE
+ROSELLON,moneygram,,unknown,GANA - ROSELLON - BARRIO EL SALADO EL SO
+TERMINAL DEL NORTE,moneygram,,unknown,GANA - TERMINAL DEL NORTE - DELICIAS LA
+BELEN RINCON,moneygram,,unknown,GANA - BELEN RINCON - MERCADOS MULTIMERC
+BELEN PARQUE,moneygram,,unknown,GANA - BELEN PARQUE - OFICINA LA 80
+BELEN VIOLETAS,moneygram,,unknown,GANA - BELEN VIOLETAS - VIOLET
+SAN PIO,moneygram,,unknown,GANA - SAN PIO - SALSAMENTARIA YARANA
+SAN JAVIER,moneygram,,unknown,GANA - SAN JAVIER - HELADERIA TOXON
+MANRIQUE,moneygram,,unknown,GANA - MANRIQUE - GRANERO CHATANOGA # 2
+ANDALUCIA,moneygram,,unknown,GANA - ANDALUCIA - HOSPITAL ZAMORA
+PUEBLO NUEVO,moneygram,,unknown,GANA - PUEBLO NUEVO - CARACOLI
+CANASGORDAS,moneygram,,unknown,GANA - CANASGORDAS - EL COMERCIO
+CASTILLA,moneygram,,unknown,GANA - CASTILLA - ZEA 1
+ARANJUEZ,moneygram,,unknown,GANA - ARANJUEZ - PROMOCIONES CON ESTILO
+ENCISO,moneygram,,unknown,GANA - ENCISO - ENCISO LAS DELICIAS
+BARRIO SEVILLA,moneygram,,unknown,GANA - BARRIO SEVILLA - AVENTURA CENTRO
+SAN CRISTOBAL,moneygram,,unknown,GANA - SAN CRISTOBAL - EL HOSPITAL
+SAN GABRIEL,moneygram,,unknown,GANA - SAN GABRIEL - LA 27
+BOLOMBOLO,moneygram,,unknown,GANA - BOLOMBOLO - PUNTO POLLOS MARIO
+GAITAN,moneygram,,unknown,CONGENTE - #110 - AGENCIA PTO GAITAN
+SANTA FE,moneygram,,unknown,GANA - SANTA FE - BUGA
+SANTACRUZ,moneygram,,unknown,GANA - SANTACRUZ - MADRE LAURITA
+BARRIO CAICEDO,moneygram,,unknown,GANA - BARRIO CAICEDO - GANASERVICIOS BA
+EL BOSQUE,moneygram,,unknown,GANA - EL BOSQUE - BOSQUE PLAZA
+SAN BLAS,moneygram,,unknown,GANA - SAN BLAS - SAN BLAS
+BELEN PLAYAS,moneygram,,unknown,GANA - BELEN PLAYAS - ARKADIA
+VILLAHERMOSA,moneygram,,unknown,GANA - VILLAHERMOSA - PARQUE VILLA HERMO
+LA CAMPINA,moneygram,,unknown,GANA - LA CAMPINA - EXITO ROBLEDO
+RIONEGRO SAN ANTONIO,moneygram,,unknown,GANA - RIONEGRO SAN ANTONIO - ZONA ROSA
+SALVADOR,moneygram,,unknown,GANA - SALVADOR - SALVADOR IGLESIA
+MILAGROSA,moneygram,,unknown,GANA - MILAGROSA - LA MILA
+VERSALLES,moneygram,,unknown,DAVIVIENDA - #152 - VERSALLES
+LAURELES,moneygram,,unknown,GANA - LAURELES - DE UNO LAURELES
+BELLANITA,moneygram,,unknown,GANA - BELLANITA - SAN GABRIEL
+MACHADO,moneygram,,unknown,GANA - MACHADO - GRAN G.S MACHADO
+SANTANDER,moneygram,,unknown,GANA - SANTANDER - GANA PEDREGAL
+NIQUIA METRO,moneygram,,unknown,GANA - NIQUIA METRO - NIQUIA METRO
+ALFONSO LOPEZ,moneygram,,unknown,GANA - ALFONSO LOPEZ - GANASERVICIOS ALF
+SAN JOSE DE LA MONTANA,moneygram,,unknown,GANA - SAN JOSE DE LA MONTANA - CASINO
+SANTA RITA,moneygram,,unknown,GANA - SANTA RITA - PUNTO DE ACOPIO SANT
+MINAS,moneygram,,unknown,GANA - MINAS - PUNTO DE ACOPIO MINAS
+PUERTA DEL NORTE,moneygram,,unknown,GANA - PUERTA DEL NORTE - FRUVER NIQUIA
+LOS MOLINOS,moneygram,,unknown,GANA - LOS MOLINOS - EXITO MOLINOS
+ALTO DE LAS PALMAS,moneygram,,unknown,GANA - ALTO DE LAS PALMAS - GANA EXPRES
+EL REPOSO,moneygram,,unknown,GANA - EL REPOSO - CASA VERDE
+TAPARTO,moneygram,,unknown,GANA - TAPARTO - PUNTO DE ACOPIO TAPARTO
+RIOGRANDE,moneygram,,unknown,GANA - RIOGRANDE - PUNTO DE ACOPIO RIOGR
+VALLE DE TOLEDO,moneygram,,unknown,GANA - VALLE DE TOLEDO - VALLE DE TOLEDO
+ABRIAQUI,moneygram,,unknown,GANA - ABRIAQUI - PARROQUIA
+CARREFOUR LLANO GRANDE,moneygram,,unknown,GANA - CARREFOUR LLANO GRANDE - CARULLA
+MINORISTA,moneygram,,unknown,GANA - MINORISTA - EL CHAGUALO
+LEJANIAS,moneygram,,unknown,CONGENTE - #205 - CORRESPONSAL LEJANIAS
+VISTAHERMOSA,moneygram,,unknown,CONGENTE - #112 - VISTA HERMOSA
+CABUYARO,moneygram,,unknown,CONGENTE - #111 - AGENCIA CABUYARO
+RISARALDA,moneygram,,unknown,BANCO DAVIVIENDA - #1267 - RISARALDA - P
+PUERTO COLOMBIA,moneygram,,unknown,BANCOLOMBIA - VILLA CAMPESTRE
+ALBANIA,moneygram,,unknown,BANCOLOMBIA - ALBANIA
+TIBASOSA,moneygram,,unknown,BANCOLOMBIA - BAVARIA DUITAMA
+GAMARRA,moneygram,,unknown,DAVIVIENDA - #663 - GAMARRA
+GENOVA,moneygram,,unknown,DAVIVIENDA - #1374 - GENOVA
+MANZANARES,moneygram,,unknown,DAVIVIENDA - MANZANARES
+MARSELLA,moneygram,,unknown,DAVIVIENDA - #1282 - MARSELLA
+MIRAFLORES,moneygram,,unknown,DAVIVIENDA - #1768 - MIRAFLORES
+OBANDO,moneygram,,unknown,DAVIVIENDA - #139 - OBANDO
+OIBA,moneygram,,unknown,DAVIVIENDA - #490 - OIBA
+ORTEGA,moneygram,,unknown,DAVIVIENDA - #1669 - ORTEGA
+PACORA,moneygram,,unknown,DAVIVIENDA - #853 - PACORA
+PALESTINA,moneygram,,unknown,DAVIVIENDA - #859 - PALESTINA
+QUINCHIA,moneygram,,unknown,DAVIVIENDA - #1281 - QUINCHIA
+RESTREPO,moneygram,,unknown,DAVIVIENDA - #135 - RESTREPO
+SUAITA,moneygram,,unknown,DAVIVIENDA - #489 - SUAITA
+VIANI,moneygram,,unknown,DAVIVIENDA - #4784 - VIANI
+APIA,moneygram,,unknown,DAVIVIENDA - #1285 - APIA
+ARANZAZU,moneygram,,unknown,DAVIVIENDA - #855 - ARANZAZU
+AGUSTIN CODAZZI,moneygram,,unknown,DAVIVIENDA - CODAZZI
+EL CAIRO,moneygram,,unknown,DAVIVIENDA - #1287 - EL CAIRO
+EL COLEGIO,moneygram,,unknown,DAVIVIENDA - #4759 - EL COLEGIO
+EL DOVIO,moneygram,,unknown,DAVIVIENDA - #148 - EL DOVIO
+FILADELFIA,moneygram,,unknown,DAVIVIENDA - #858 - FILADELFIA
+LA TEBAIDA,moneygram,,unknown,DAVIVIENDA - #1362 - LA TEBAIDA
+VILLA DE SAN DIEGO DE UBATE,moneygram,,unknown,DAVIVIENDA - #4684 - UBATE
+SAN ANTONIO DEL TEQUENDAMA,moneygram,,unknown,DAVIVIENDA - #4891 - SAN ANTONIO DE TEQU
+NOBSA,moneygram,,unknown,DAVIVIENDA - #1776 - ACERIAS PAZ DEL RIO
+SARAVENA,moneygram,,unknown,DAVIVIENDA - #5061 - SARAVENA
+EL CARMEN DE BOLIVAR,moneygram,,unknown,DAVIVIENDA - #589 - EL CARMEN DE BOLIVAR
+Cartagena,national,,unknown,Cartagena International Airport
+Santa Marta Rodadero,national,,unknown,Santa Marta Rodadero
+Medellin Rionegro,national,,unknown,Jose Maria Cordova Intl. Airport
+Santander,national,,unknown,Bucaramanga Airport
+Pereira,national,,unknown,Pereira Intl Airport
+Valledupar,national,,unknown,Valledupar Airport
+Riohacha,national,,unknown,Riohacha Airport
+Barranquilla,national,,unknown,Barranquilla Airport
+Cali,national,,unknown,Downtown Cali
+Palmira,national,,unknown,Cali International Airport
+Santa Marta,national,,unknown,Santa Marta Airport
+Medellin,national,,unknown,Downtown Medellín
+Bogota,national,,unknown,Bogota El Dorado Intl. Airport
+Cali,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Jardin Plaza
+Bucaramanga,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Bucaramanga
+Santiago,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Santafe Bogota
+Cundinamarca,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Fontanar Chia
+Caminos de San Lorenzo,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Parque Colina
+Bogota DC 110911 Colombia,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Titan Plaza
+Bogotá,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Centro Andino Bogota #916
+Bogota,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Plaza de las Americas
+Cartagena,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Cartagena
+Barranquilla,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Barranquilla
+Medellin,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Santa Fe
+Medellín,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Tesoro
+Envigado,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Viva Envigado
+CALI,reebok,,unknown,REEBOK C.COMERCIAL CHIPICHAPE
+Bucaramanga,reebok,,unknown,Tienda Reebok Bucaramanga
+BARRANQUILLA,shell,,unknown,EDS MAKRO VILLA SANTOS
+Bogota,sixt,,unknown,Car Hire Bogota El Dorado Intl Airport | SIXT rent a car
+Medellin,sixt,,unknown,Car Hire Medellin City El Poblado | SIXT rent a car
+"Pereira, Risaralda",sixt,,unknown,Car Hire Pereira Airport Matecana Intl | SIXT rent a car
+"Rionegro, Antioquia",sixt,,unknown,Car Hire Medellin Airport Jose Maria Cordova | SIXT rent a car
+Medellin,superdry,,unknown,Superdry CALLE 16 # 55-129 - LOCAL 110 - MEDELLIN - ANTIOQUIA
+Manizales,superdry,,unknown,"Superdry Carrera 14, Av. Kevin Ángel #55D – 251 Local A - 1032"
+Ipiales,superdry,,unknown,Superdry carrera 7 14-51 centro comercila platinum local 103
+Envigado,superdry,,unknown,Superdry CR 48 # 32 B SUR 139 LOCAL 142
+Bogota,superdry,,unknown,Superdry Av. Boyacá #80-94 local 371
+Barranquilla,superdry,,unknown,"Superdry calle 98 # 52 - 115, Local 241 Centro comercial Buenavista, Barranquilla, Atlantico"
+ISLA SAN ANDRES,united_colors_of_benetton,,unknown,PRAGA/APT/I. SAN ANDRES/COLOMBIA
+PUERTO INIRIDA,visa,,unknown,unknown
+PUERTO CARREÑO,visa,,unknown,unknown
+PUERTO CARRENO,visa,,unknown,unknown
+LETICIA,visa,,unknown,unknown
+ARAUCA,visa,,unknown,unknown
+ARAUQUITA,visa,,unknown,unknown
+SARAVENA,visa,,unknown,unknown
+PAZ DE ARIPORO,visa,,unknown,unknown
+PUERTO GAITAN,visa,,unknown,unknown
+YOPAL,visa,,unknown,unknown
+TULUÁ,visa,,unknown,unknown
+SONSÓN,visa,,unknown,unknown
+MAICAO,visa,,unknown,unknown
+AGUAZUL,visa,,unknown,unknown
+MANI,visa,,unknown,unknown
+CÚCUTA,visa,,unknown,unknown
+VILLA DEL ROSARIO,visa,,unknown,unknown
+URIBIA,visa,,unknown,unknown
+CUCUTA,visa,,unknown,unknown
+SAN JOSE DEL GUAVIARE,visa,,unknown,unknown
+CALI,visa,,unknown,unknown
+MANIZALES,visa,,unknown,unknown
+LOS PATIOS,visa,,unknown,unknown
+OCANA,visa,,unknown,unknown
+CHINÁCOTA,visa,,unknown,unknown
+EL ZULIA,visa,,unknown,unknown
+SOCHA,visa,,unknown,unknown
+PAMPLONA,visa,,unknown,unknown
+TAURAMENA,visa,,unknown,unknown
+MÁLAGA,visa,,unknown,unknown
+RIOHACHA,visa,,unknown,unknown
+ALBANIA,visa,,unknown,unknown
+SOGAMOSO,visa,,unknown,unknown
+VILLANUEVA,visa,,unknown,unknown
+PUERTO LOPEZ,visa,,unknown,unknown
+PUERTO LÓPEZ,visa,,unknown,unknown
+BARRANCA DE UPIA,visa,,unknown,unknown
+HATO NUEVO,visa,,unknown,unknown
+BARRANCAS,visa,,unknown,unknown
+DUITAMA,visa,,unknown,unknown
+SAN GIL,visa,,unknown,unknown
+SUESCA,visa,,unknown,unknown
+LOS SANTOS,visa,,unknown,unknown
+SAN JOSÉ DEL GUAVIARE,visa,,unknown,unknown
+NEIVA,visa,,unknown,unknown
+FONSECA,visa,,unknown,unknown
+"BOGOTÁ, D.C.",visa,,unknown,unknown
+PIEDECUESTA,visa,,unknown,unknown
+ANDES,visa,,unknown,unknown
+VILLA DE LEYVA,visa,,unknown,unknown
+PAIPA,visa,,unknown,unknown
+BUENAVISTA,visa,,unknown,unknown
+FLORIDABLANCA,visa,,unknown,unknown
+BUCARAMANGA,visa,,unknown,unknown
+ENVIGADO,visa,,unknown,unknown
+GIRÓN,visa,,unknown,unknown
+GIRON,visa,,unknown,unknown
+SAN JUAN DEL CESAR,visa,,unknown,unknown
+LEBRIJA,visa,,unknown,unknown
+MONTERÍA,visa,,unknown,unknown
+SOCORRO,visa,,unknown,unknown
+ÁBREGO,visa,,unknown,unknown
+TUNJA,visa,,unknown,unknown
+GARAGOA,visa,,unknown,unknown
+BOGOTA,visa,,unknown,unknown
+VALLEDUPAR,visa,,unknown,unknown
+LA PAZ,visa,,unknown,unknown
+AGUSTIN CODAZZI,visa,,unknown,unknown
+BECERRIL,visa,,unknown,unknown
+OCAÑA,visa,,unknown,unknown
+CUMARAL,visa,,unknown,unknown
+SAMACÁ,visa,,unknown,unknown
+VILLAVICENCIO,visa,,unknown,unknown
+SABANA DE TORRES,visa,,unknown,unknown
+MONIQUIRA,visa,,unknown,unknown
+VILLAPINZÓN,visa,,unknown,unknown
+PUERTO GAITÁN,visa,,unknown,unknown
+SAN MARTÍN,visa,,unknown,unknown
+SAN MARTIN,visa,,unknown,unknown
+BARBOSA,visa,,unknown,unknown
+RÁQUIRA,visa,,unknown,unknown
+CURUMANI,visa,,unknown,unknown
+DIBULLA,visa,,unknown,unknown
+GRANADA,visa,,unknown,unknown
+GUACHETÁ,visa,,unknown,unknown
+VÉLEZ,visa,,unknown,unknown
+VELEZ,visa,,unknown,unknown
+TENJO,visa,,unknown,unknown
+AGUACHICA,visa,,unknown,unknown
+ACACÍAS,visa,,unknown,unknown
+ACACIAS,visa,,unknown,unknown
+EL PASO,visa,,unknown,unknown
+SESQUILÉ,visa,,unknown,unknown
+VILLA DE SAN DIEGO DE UBATE,visa,,unknown,unknown
+PLATO,visa,,unknown,unknown
+VILLA DE SAN DIEGO DE UBATÉ,visa,,unknown,unknown
+BARRANCABERMEJA,visa,,unknown,unknown
+CHIQUINQUIRÁ,visa,,unknown,unknown
+CHIQUINQUIRA,visa,,unknown,unknown
+GUATAVITA,visa,,unknown,unknown
+SIMIJACA,visa,,unknown,unknown
+GACHANCIPÁ,visa,,unknown,unknown
+GUASCA,visa,,unknown,unknown
+NEMOCÓN,visa,,unknown,unknown
+TOCANCIPÁ,visa,,unknown,unknown
+TOCANCIPA,visa,,unknown,unknown
+SOPÓ,visa,,unknown,unknown
+LA CALERA,visa,,unknown,unknown
+ZIPAQUIRA,visa,,unknown,unknown
+YONDO,visa,,unknown,unknown
+CIMITARRA,visa,,unknown,unknown
+ZIPAQUIRÁ,visa,,unknown,unknown
+CHIA,visa,,unknown,unknown
+CAJICA,visa,,unknown,unknown
+BOGOTÁ,visa,,unknown,unknown
+CAJICÁ,visa,,unknown,unknown
+TABIO,visa,,unknown,unknown
+CHÍA,visa,,unknown,unknown
+IBAGUÉ,visa,,unknown,unknown
+CAJAMARCA,visa,,unknown,unknown
+SOPO,visa,,unknown,unknown
+SIBERIA,visa,,unknown,unknown
+COTA,visa,,unknown,unknown
+PUERTO ASÍS,visa,,unknown,unknown
+BOSCONIA,visa,,unknown,unknown
+PEREIRA,visa,,unknown,unknown
+CONCORDIA,visa,,unknown,unknown
+BOJACÁ,visa,,unknown,unknown
+ARMENIA,visa,,unknown,unknown
+CHARALÁ,visa,,unknown,unknown
+EL BANCO,visa,,unknown,unknown
+MEDELLÍN,visa,,unknown,unknown
+ITAGUI,visa,,unknown,unknown
+JAMUNDI,visa,,unknown,unknown
+PUERTO NARE,visa,,unknown,unknown
+RAMIRIQUÍ,visa,,unknown,unknown
+"BOGOTA, D.C.",visa,,unknown,unknown
+PACHO,visa,,unknown,unknown
+SUBACHOQUE,visa,,unknown,unknown
+SOACHA,visa,,unknown,unknown
+FUNZA,visa,,unknown,unknown
+LA CEJA,visa,,unknown,unknown
+SIBATE,visa,,unknown,unknown
+MOSQUERA,visa,,unknown,unknown
+EL ROSAL,visa,,unknown,unknown
+SIBATÉ,visa,,unknown,unknown
+GUARNE,visa,,unknown,unknown
+MADRID,visa,,unknown,unknown
+SAN LUIS DE SINCÉ,visa,,unknown,unknown
+BARRANQUILLA,visa,,unknown,unknown
+CARTAGENA,visa,,unknown,unknown
+HATONUEVO,visa,,unknown,unknown
+LA VEGA,visa,,unknown,unknown
+FACATATIVA,visa,,unknown,unknown
+MANAURE,visa,,unknown,unknown
+FACATATIVÁ,visa,,unknown,unknown
+FUSAGASUGA,visa,,unknown,unknown
+FUSAGASUGÁ,visa,,unknown,unknown
+SAN ANTONIO DEL TEQUENDAMA,visa,,unknown,unknown
+ROSAL,visa,,unknown,unknown
+GUADUAS,visa,,unknown,unknown
+ARACATACA,visa,,unknown,unknown
+FUNDACION,visa,,unknown,unknown
+SANTA MARTA,visa,,unknown,unknown
+FUNDACIÓN,visa,,unknown,unknown
+PUERTO BERRIO,visa,,unknown,unknown
+PUERTO BERRÍO,visa,,unknown,unknown
+LA MESA,visa,,unknown,unknown
+VILLETA,visa,,unknown,unknown
+CIENAGA,visa,,unknown,unknown
+CIÉNAGA,visa,,unknown,unknown
+ANAPOIMA,visa,,unknown,unknown
+MOMPOS,visa,,unknown,unknown
+MOMPÓS,visa,,unknown,unknown
+MANÍ,visa,,unknown,unknown
+GIRARDOT,visa,,unknown,unknown
+PUERTO BOYACÁ,visa,,unknown,unknown
+PUERTO BOYACA,visa,,unknown,unknown
+MELGAR,visa,,unknown,unknown
+NILO,visa,,unknown,unknown
+PUERTO SALGAR,visa,,unknown,unknown
+LA DORADA,visa,,unknown,unknown
+HONDA,visa,,unknown,unknown
+SAN VICENTE DEL CAGUÁN,visa,,unknown,unknown
+RICAURTE,visa,,unknown,unknown
+GIGANTE,visa,,unknown,unknown
+AMBALEMA,visa,,unknown,unknown
+PUERTO TRIUNFO,visa,,unknown,unknown
+COPACABANA,visa,,unknown,unknown
+ESPINAL,visa,,unknown,unknown
+MAGANGUE,visa,,unknown,unknown
+EL BAGRE,visa,,unknown,unknown
+MAGANGUÉ,visa,,unknown,unknown
+MARIQUITA,visa,,unknown,unknown
+PURIFICACIÓN,visa,,unknown,unknown
+CHINÚ,visa,,unknown,unknown
+SABANAGRANDE,visa,,unknown,unknown
+SANTO TOMÁS,visa,,unknown,unknown
+SOLEDAD,visa,,unknown,unknown
+MALAMBO,visa,,unknown,unknown
+RIONEGRO,visa,,unknown,unknown
+SANTO TOMAS,visa,,unknown,unknown
+FRESNO,visa,,unknown,unknown
+LÍBANO,visa,,unknown,unknown
+GALAPA,visa,,unknown,unknown
+PUERTO COLOMBIA,visa,,unknown,unknown
+SABANALARGA,visa,,unknown,unknown
+BARANOA,visa,,unknown,unknown
+IBAGUE,visa,,unknown,unknown
+GUATAPÉ,visa,,unknown,unknown
+AIPE,visa,,unknown,unknown
+RIVERA,visa,,unknown,unknown
+AYAPEL,visa,,unknown,unknown
+SAN MARCOS,visa,,unknown,unknown
+SAN JUAN NEPOMUCENO,visa,,unknown,unknown
+PEÑOL,visa,,unknown,unknown
+EL CARMEN DE BOLÍVAR,visa,,unknown,unknown
+CAMPOALEGRE,visa,,unknown,unknown
+CAUCASIA,visa,,unknown,unknown
+EL SANTUARIO,visa,,unknown,unknown
+LURUACO,visa,,unknown,unknown
+EL CARMEN DE VIBORAL,visa,,unknown,unknown
+MARINILLA,visa,,unknown,unknown
+LA UNIÓN,visa,,unknown,unknown
+MEDELLIN,visa,,unknown,unknown
+DON MATÍAS,visa,,unknown,unknown
+COROZAL,visa,,unknown,unknown
+FLORENCIA,visa,,unknown,unknown
+MORROA,visa,,unknown,unknown
+YARUMAL,visa,,unknown,unknown
+AGUADAS,visa,,unknown,unknown
+GIRARDOTA,visa,,unknown,unknown
+YAGUARÁ,visa,,unknown,unknown
+YAGUARA,visa,,unknown,unknown
+ANSERMA,visa,,unknown,unknown
+BELÉN DE UMBRÍA,visa,,unknown,unknown
+SANTA ROSA DE OSOS,visa,,unknown,unknown
+MONTELÍBANO,visa,,unknown,unknown
+MONTELIBANO,visa,,unknown,unknown
+PALERMO,visa,,unknown,unknown
+VILLAMARÍA,visa,,unknown,unknown
+SINCELEJO,visa,,unknown,unknown
+RETIRO,visa,,unknown,unknown
+NEIRA,visa,,unknown,unknown
+ARJONA,visa,,unknown,unknown
+SAN ANDRES DE SOTAVENTO,visa,,unknown,unknown
+CHINU,visa,,unknown,unknown
+CHAPARRAL,visa,,unknown,unknown
+SEVILLA,visa,,unknown,unknown
+ENTRERRÍOS,visa,,unknown,unknown
+SALENTO,visa,,unknown,unknown
+SAHAGUN,visa,,unknown,unknown
+SAHAGÚN,visa,,unknown,unknown
+GUAMO,visa,,unknown,unknown
+BELLO,visa,,unknown,unknown
+GARZON,visa,,unknown,unknown
+GARZÓN,visa,,unknown,unknown
+JARDÍN,visa,,unknown,unknown
+SANTA BÁRBARA,visa,,unknown,unknown
+SAN PEDRO DE LOS MILAGROS,visa,,unknown,unknown
+TURBACO,visa,,unknown,unknown
+TURBACO BOLIVAR,visa,,unknown,unknown
+ITAGÜÍ,visa,,unknown,unknown
+SANTAFE DE ANTIOQUIA,visa,,unknown,unknown
+CHINCHINA,visa,,unknown,unknown
+CHINCHINÁ,visa,,unknown,unknown
+SANTA ROSA DE CABAL,visa,,unknown,unknown
+LA VIRGINIA,visa,,unknown,unknown
+PALESTINA,visa,,unknown,unknown
+CIRCASIA,visa,,unknown,unknown
+CALARCÁ,visa,,unknown,unknown
+CALARCA,visa,,unknown,unknown
+SABANETA,visa,,unknown,unknown
+PLANETA RICA,visa,,unknown,unknown
+FILANDIA,visa,,unknown,unknown
+LA ESTRELLA,visa,,unknown,unknown
+DOSQUEBRADAS,visa,,unknown,unknown
+SUPÍA,visa,,unknown,unknown
+CALDAS,visa,,unknown,unknown
+CARMEN DE BOLIVAR,visa,,unknown,unknown
+OROCUÉ,visa,,unknown,unknown
+PERERIRA,visa,,unknown,unknown
+DOS QUEBRADAS,visa,,unknown,unknown
+SAN ONOFRE,visa,,unknown,unknown
+FREDONIA,visa,,unknown,unknown
+MONTENEGRO,visa,,unknown,unknown
+RIOSUCIO,visa,,unknown,unknown
+MONTERIA,visa,,unknown,unknown
+SANTIAGO DE TOLÚ,visa,,unknown,unknown
+AMAGÁ,visa,,unknown,unknown
+ARIGUANI,visa,,unknown,unknown
+CIÉNAGA DE ORO,visa,,unknown,unknown
+QUIMBAYA,visa,,unknown,unknown
+SAN JERÓNIMO,visa,,unknown,unknown
+ALCALÁ,visa,,unknown,unknown
+LA TEBAIDA,visa,,unknown,unknown
+CAICEDONIA,visa,,unknown,unknown
+COVENAS,visa,,unknown,unknown
+LA PLATA,visa,,unknown,unknown
+JAMUNDÍ,visa,,unknown,unknown
+SANTA FÉ DE ANTIOQUIA,visa,,unknown,unknown
+SAN ANDRÉS,visa,,unknown,unknown
+CHOCONTÁ,visa,,unknown,unknown
+VITERBO,visa,,unknown,unknown
+CARTAGO,visa,,unknown,unknown
+CAREPA,visa,,unknown,unknown
+CERETE,visa,,unknown,unknown
+CERETÉ,visa,,unknown,unknown
+LORICA,visa,,unknown,unknown
+SAN PELAYO,visa,,unknown,unknown
+BETANIA,visa,,unknown,unknown
+CIENAGA DE ORO,visa,,unknown,unknown
+PITALITO,visa,,unknown,unknown
+SALGAR,visa,,unknown,unknown
+CIUDAD BOLÍVAR,visa,,unknown,unknown
+ZARZAL,visa,,unknown,unknown
+TULUA,visa,,unknown,unknown
+LA UNION,visa,,unknown,unknown
+BUGALAGRANDE,visa,,unknown,unknown
+ROLDANILLO,visa,,unknown,unknown
+PASTO,visa,,unknown,unknown
+ANDALUCÍA,visa,,unknown,unknown
+CORDOBA,visa,,unknown,unknown
+URRAO,visa,,unknown,unknown
+MIRANDA,visa,,unknown,unknown
+FLORIDA,visa,,unknown,unknown
+SAN PEDRO,visa,,unknown,unknown
+PRADERA,visa,,unknown,unknown
+GINEBRA,visa,,unknown,unknown
+PALMIRA,visa,,unknown,unknown
+RIOFRÍO,visa,,unknown,unknown
+BUGA,visa,,unknown,unknown
+YOTOCO,visa,,unknown,unknown
+EL CERRITO,visa,,unknown,unknown
+GUACARÍ,visa,,unknown,unknown
+CANDELARIA,visa,,unknown,unknown
+CALOTO,visa,,unknown,unknown
+PUERTO TEJADA,visa,,unknown,unknown
+SANTANDER DE QUILICHAO,visa,,unknown,unknown
+PUERTO ASIS,visa,,unknown,unknown
+YUMBO,visa,,unknown,unknown
+SALDAÑA,visa,,unknown,unknown
+POPAYAN,visa,,unknown,unknown
+ARBOLETES,visa,,unknown,unknown
+POPAYÁN,visa,,unknown,unknown
+VILLAGARZON,visa,,unknown,unknown
+GUACHENÉ,visa,,unknown,unknown
+MOCOA,visa,,unknown,unknown
+NECOCLÍ,visa,,unknown,unknown
+QUIBDO,visa,,unknown,unknown
+COVEÑAS,visa,,unknown,unknown
+APARTADÓ,visa,,unknown,unknown
+APARTADO,visa,,unknown,unknown
+TURBO,visa,,unknown,unknown
+CHIGORODÓ,visa,,unknown,unknown
+ORITO,visa,,unknown,unknown
+PATÍA,visa,,unknown,unknown
+SANTIAGO,visa,,unknown,unknown
+BUENAVENTURA,visa,,unknown,unknown
+TÚQUERRES,visa,,unknown,unknown
+CHACHAGÜÍ,visa,,unknown,unknown
+SANDONÁ,visa,,unknown,unknown
+TUQUERRES,visa,,unknown,unknown
+IPIALES,visa,,unknown,unknown
+SAN ANDRES DE TUMACO,visa,,unknown,unknown
+TUMACO,visa,,unknown,unknown
+SAN ANDRES,visa,,unknown,unknown
+SAN ANDRES ISLAS,visa,,unknown,unknown

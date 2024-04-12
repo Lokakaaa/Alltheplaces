@@ -1,0 +1,1254 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+NIGERIA,avis,Nigeria,1
+OWERRI,avis,Owerri,1
+BEHINDIMOHOURSEOFASSEMBLY,avis,Owerri,1
+GRAPHASE2,avis,Port Harcourt,1
+PARKLANEROADGRAAPAPA,avis,Lagos,1
+LOCALAIRPORT,avis,Benin,1
+UNKNOWN,bmw_group,Abuja,1
+UNKNOWN,bmw_group,Uyo,2
+UNKNOWN,bmw_group,Lagos,2
+UNKNOWN,bmw_group,Enugu,1
+UNKNOWN,bmw_group,AWKA,1
+UNKNOWN,bmw_group,Port Harcourt,2
+UNKNOWN,bmw_group,CALABAR,1
+UNKNOWN,bmw_group,LAGOS,2
+UNKNOWN,bmw_group,Kano,2
+UNKNOWN,bmw_group,ABUJA,1
+UNKNOWN,bmw_group,Ibadan,1
+UNKNOWN,dodo_pizza,Lagos,11
+UNKNOWN,dodo_pizza,Abuja,3
+UNKNOWN,ford,Lagos,7
+LAGOS,google_offices,unknown,1
+UNKNOWN,hardrock,Lagos,1
+UNKNOWN,hilton,unknown,1
+02,hugo_boss,Abuja,1
+02,hugo_boss,Lagos,1
+UNKNOWN,little_free_library,Otukpo,1
+UNKNOWN,man_truck_and_bus,Lagos,1
+UNKNOWN,marriott,Ikot Ekpene,1
+UNKNOWN,marriott,Lagos,5
+UNKNOWN,marriott,Benin City,1
+UNKNOWN,marriott,New Owerri,1
+LAGOS,mercedes_benz,Lagos,1
+UNKNOWN,mercedes_benz,Kaduna,1
+UNKNOWN,mercedes_benz,"Ikeja, Lagos",1
+UNKNOWN,mercedes_benz,Maitma/Abuja,1
+UNKNOWN,mercedes_benz,Enugu,1
+UNKNOWN,mercedes_benz,Abuja,1
+FEDERALCAPITALTERRITORY,mercedes_benz,Abuja,1
+UNKNOWN,mercedes_benz,"Lekkis, Lagos",1
+LAGOS,mercedes_benz,"Ikate-Lekki, Lagos",1
+UNKNOWN,mercedes_benz,Lagos,1
+UNKNOWN,mercedes_benz,Lekki,1
+LAGOS,meta,unknown,1
+UNKNOWN,moneygram,OGUN,42
+UNKNOWN,moneygram,IBADAN,114
+UNKNOWN,moneygram,LAGOS,1064
+UNKNOWN,moneygram,FCT,26
+UNKNOWN,moneygram,RIVERS,31
+UNKNOWN,moneygram,ONDO,36
+UNKNOWN,moneygram,ANAMBRA,26
+UNKNOWN,moneygram,YENAGOA,17
+UNKNOWN,moneygram,UYO,45
+UNKNOWN,moneygram,OYO,60
+UNKNOWN,moneygram,PORT HARCOURT,173
+UNKNOWN,moneygram,BENIN CITY,46
+UNKNOWN,moneygram,KADUNA,104
+UNKNOWN,moneygram,ABIA,25
+UNKNOWN,moneygram,KANO,127
+UNKNOWN,moneygram,OSUN,28
+UNKNOWN,moneygram,EKITI,12
+UNKNOWN,moneygram,ENUGU,98
+UNKNOWN,moneygram,BORNO,7
+UNKNOWN,moneygram,ZAMFARA,7
+UNKNOWN,moneygram,SOKOTO,32
+UNKNOWN,moneygram,NIGER,10
+UNKNOWN,moneygram,JIGAWA,7
+UNKNOWN,moneygram,GOMBE,24
+UNKNOWN,moneygram,KEBBI,6
+UNKNOWN,moneygram,BAUCHI,27
+UNKNOWN,moneygram,PLATEAU,7
+UNKNOWN,moneygram,CROSS RIVERS,3
+UNKNOWN,moneygram,KWARA,6
+UNKNOWN,moneygram,IMO,15
+UNKNOWN,moneygram,EBONYI,4
+UNKNOWN,moneygram,WARRI,63
+UNKNOWN,moneygram,KOGI,11
+UNKNOWN,moneygram,ASABA,34
+UNKNOWN,moneygram,ADAMAWA,6
+UNKNOWN,moneygram,NASARAWA,4
+UNKNOWN,moneygram,KATSINA,31
+UNKNOWN,moneygram,TARABA STATE,1
+UNKNOWN,moneygram,NASSARAWA,5
+UNKNOWN,moneygram,BENUE,8
+UNKNOWN,moneygram,YOBE,3
+UNKNOWN,moneygram,EDO,21
+UNKNOWN,moneygram,ANNAMBRA,1
+UNKNOWN,moneygram,DELTA,17
+UNKNOWN,moneygram,AKWA-IBOM,3
+UNKNOWN,moneygram,TARABA,4
+UNKNOWN,moneygram,ABAKALIKI,21
+UNKNOWN,moneygram,ONNE,3
+UNKNOWN,moneygram,AKWAIBOM,1
+UNKNOWN,moneygram,OJO,19
+UNKNOWN,moneygram,CALABAR,45
+UNKNOWN,moneygram,OWERRI,64
+UNKNOWN,moneygram,IJORA,1
+UNKNOWN,moneygram,AIYETORO GBEDE,1
+UNKNOWN,moneygram,ABUJA,266
+UNKNOWN,moneygram,IKORODU,16
+UNKNOWN,moneygram,IBADAN POLYTECHNIC,3
+UNKNOWN,moneygram,ANTHONY VILLAGE,1
+UNKNOWN,moneygram,ILORIN,43
+UNKNOWN,moneygram,STEEL MARKET,1
+UNKNOWN,moneygram,IKERE,3
+UNKNOWN,moneygram,EDE,3
+UNKNOWN,moneygram,IYANA IPAJA,4
+UNKNOWN,moneygram,AKURE,36
+UNKNOWN,moneygram,OJOTA,4
+UNKNOWN,moneygram,SURULERE,14
+UNKNOWN,moneygram,OSOGBO,9
+UNKNOWN,moneygram,SANGO OTA,2
+UNKNOWN,moneygram,OFFA,6
+UNKNOWN,moneygram,IKEJA,50
+UNKNOWN,moneygram,ORJI LAYOUT,1
+UNKNOWN,moneygram,ABRAKA,7
+UNKNOWN,moneygram,ADO EKITI,18
+UNKNOWN,moneygram,ADO - EKITI,9
+UNKNOWN,moneygram,BENIN,66
+UNKNOWN,moneygram,EFFURUN,8
+UNKNOWN,moneygram,ERIN,1
+UNKNOWN,moneygram,IDANRE,2
+UNKNOWN,moneygram,IKIRE,1
+UNKNOWN,moneygram,ISEYIN,4
+UNKNOWN,moneygram,NKPOR,6
+UNKNOWN,moneygram,SAPELE,13
+UNKNOWN,moneygram,UROMI,7
+UNKNOWN,moneygram,OKE-ARO,2
+UNKNOWN,moneygram,YABA,6
+UNKNOWN,moneygram,IBUSA,1
+UNKNOWN,moneygram,IGUEGBE,1
+UNKNOWN,moneygram,OGBOMOSHO,9
+UNKNOWN,moneygram,AGEGE,4
+UNKNOWN,moneygram,EKPOMA,7
+UNKNOWN,moneygram,IJEBU ODE,13
+UNKNOWN,moneygram,ILE-IFE,4
+UNKNOWN,moneygram,OGBA,5
+UNKNOWN,moneygram,OKADA,3
+UNKNOWN,moneygram,ASHAKA,2
+UNKNOWN,moneygram,FUNTUA,4
+UNKNOWN,moneygram,OTURKPO,2
+UNKNOWN,moneygram,YENEGOA,8
+UNKNOWN,moneygram,UDI,1
+UNKNOWN,moneygram,EGOSI ILE,1
+UNKNOWN,moneygram,SANGO OTTA,7
+UNKNOWN,moneygram,IBENO,2
+UNKNOWN,moneygram,KADO,1
+UNKNOWN,moneygram,NSUKKA,19
+UNKNOWN,moneygram,ABA,71
+UNKNOWN,moneygram,ABEOKUTA,29
+UNKNOWN,moneygram,AFIKPO,2
+UNKNOWN,moneygram,AGBARA,9
+UNKNOWN,moneygram,AGBOR,11
+UNKNOWN,moneygram,ANYIGBA,2
+UNKNOWN,moneygram,APAPA,28
+UNKNOWN,moneygram,ASOKORO,1
+UNKNOWN,moneygram,AUCHI,7
+UNKNOWN,moneygram,AWKA,34
+UNKNOWN,moneygram,AZARE,4
+UNKNOWN,moneygram,BADAGRY,6
+UNKNOWN,moneygram,BIDA,8
+UNKNOWN,moneygram,BIRNIN KEBBI,11
+UNKNOWN,moneygram,BUKURU,3
+UNKNOWN,moneygram,BWARI,2
+UNKNOWN,moneygram,CENTRAL BUSINESS DISTRICT,3
+UNKNOWN,moneygram,DAMATURU,10
+UNKNOWN,moneygram,DEI DEI,1
+UNKNOWN,moneygram,DURUMI,1
+UNKNOWN,moneygram,GARKI,7
+UNKNOWN,moneygram,GBOKO,10
+UNKNOWN,moneygram,GWAGWALADA,3
+UNKNOWN,moneygram,GWARIMPA,1
+UNKNOWN,moneygram,GWARZO,2
+UNKNOWN,moneygram,HOTORO,1
+UNKNOWN,moneygram,IJEBU -ODE,1
+UNKNOWN,moneygram,IKOM,7
+UNKNOWN,moneygram,IKOT EKPENE,10
+UNKNOWN,moneygram,ILESA,6
+UNKNOWN,moneygram,JALINGO,16
+UNKNOWN,moneygram,JOS,52
+UNKNOWN,moneygram,KAFANCHAN,7
+UNKNOWN,moneygram,KARU,4
+UNKNOWN,moneygram,KAZAURE,3
+UNKNOWN,moneygram,KONTAGORA,2
+UNKNOWN,moneygram,KUBWA,1
+UNKNOWN,moneygram,KWALE,3
+UNKNOWN,moneygram,LAFIA,18
+UNKNOWN,moneygram,LOKOJA,20
+UNKNOWN,moneygram,MAIDUGURI,32
+UNKNOWN,moneygram,MAITAMA,5
+UNKNOWN,moneygram,MAKURDI,29
+UNKNOWN,moneygram,MARKURDI,1
+UNKNOWN,moneygram,MINNA,22
+UNKNOWN,moneygram,MOWE,5
+UNKNOWN,moneygram,MUBI,8
+UNKNOWN,moneygram,NNEWI,24
+UNKNOWN,moneygram,OBAJANA,6
+UNKNOWN,moneygram,OGIDI,6
+UNKNOWN,moneygram,OGOJA,5
+UNKNOWN,moneygram,OHAFIA,2
+UNKNOWN,moneygram,OKENE,6
+UNKNOWN,moneygram,OKIGWE,6
+UNKNOWN,moneygram,ONITSHA,83
+UNKNOWN,moneygram,ORE,6
+UNKNOWN,moneygram,ORLU,8
+UNKNOWN,moneygram,ORO AGO,1
+UNKNOWN,moneygram,ORUMBA SOUTH,1
+UNKNOWN,moneygram,OWODE,1
+UNKNOWN,moneygram,OYIGBO,2
+UNKNOWN,moneygram,PORTHACOURT,7
+UNKNOWN,moneygram,POTISKUM,7
+UNKNOWN,moneygram,SAKI,5
+UNKNOWN,moneygram,SEME,2
+UNKNOWN,moneygram,SHAGAMU,3
+UNKNOWN,moneygram,SULEJA,13
+UNKNOWN,moneygram,TALATA MAFARA,1
+UNKNOWN,moneygram,THREE ARM ZONE,3
+UNKNOWN,moneygram,UGHELLI,13
+UNKNOWN,moneygram,UMUAHIA,22
+UNKNOWN,moneygram,UTAKO,3
+UNKNOWN,moneygram,WUKARI,3
+UNKNOWN,moneygram,WUSE,8
+UNKNOWN,moneygram,WUSE 2,3
+UNKNOWN,moneygram,WUSE ZONE 3,2
+UNKNOWN,moneygram,YOLA,19
+UNKNOWN,moneygram,ZARIA,24
+UNKNOWN,moneygram,ZUBA,1
+UNKNOWN,moneygram,IKOYI,12
+UNKNOWN,moneygram,EKET,15
+UNKNOWN,moneygram,OTUN EKITI,2
+UNKNOWN,moneygram,BIRIN KEBBI,1
+UNKNOWN,moneygram,MISAU,3
+UNKNOWN,moneygram,BAJOGA,3
+UNKNOWN,moneygram,MASAKA,1
+UNKNOWN,moneygram,LEKKI,16
+UNKNOWN,moneygram,BARIGA,2
+UNKNOWN,moneygram,KURMI,1
+UNKNOWN,moneygram,EKWULOBIA,6
+UNKNOWN,moneygram,OGWASHI OLOR,1
+UNKNOWN,moneygram,OKA-AKOKO,1
+UNKNOWN,moneygram,IJEBU IJESHA,1
+UNKNOWN,moneygram,SABO,1
+UNKNOWN,moneygram,GBAGADA,3
+UNKNOWN,moneygram,ILESHA,8
+UNKNOWN,moneygram,ABAK,4
+UNKNOWN,moneygram,OTTA,13
+UNKNOWN,moneygram,ILE IFE,5
+UNKNOWN,moneygram,IHIALA,5
+UNKNOWN,moneygram,AKWANGA,5
+UNKNOWN,moneygram,DUTSE,15
+UNKNOWN,moneygram,BONNY,6
+UNKNOWN,moneygram,GUSAU,15
+UNKNOWN,moneygram,IDIROKO,3
+UNKNOWN,moneygram,KEFFI,13
+UNKNOWN,moneygram,MBAISE,6
+UNKNOWN,moneygram,OBOSI,4
+UNKNOWN,moneygram,(OSOGBO),3
+UNKNOWN,moneygram,SAGAMU,9
+UNKNOWN,moneygram,AJILETE,2
+UNKNOWN,moneygram,FADEYI,1
+UNKNOWN,moneygram,SARDAUNA,1
+UNKNOWN,moneygram,IPERU,1
+UNKNOWN,moneygram,KASHERE,1
+UNKNOWN,moneygram,KADUNA NORTH,1
+UNKNOWN,moneygram,SERTI,1
+UNKNOWN,moneygram,EPE,4
+UNKNOWN,moneygram,AJAH,8
+UNKNOWN,moneygram,AKUTE,5
+UNKNOWN,moneygram,OJOO,1
+UNKNOWN,moneygram,TRANS-EKULU,1
+UNKNOWN,moneygram,OJU,2
+UNKNOWN,moneygram,EGOSI,1
+UNKNOWN,moneygram,YENOGOA,2
+UNKNOWN,moneygram,IREE,3
+UNKNOWN,moneygram,OGHEDE,1
+UNKNOWN,moneygram,ILISAN REMO,3
+UNKNOWN,moneygram,ISOLO,9
+UNKNOWN,moneygram,ANCHAU,2
+UNKNOWN,moneygram,OGBOMOSO,6
+UNKNOWN,moneygram,DANJA,2
+UNKNOWN,moneygram,ERUWA,2
+UNKNOWN,moneygram,IBEKU-LEKKI,1
+UNKNOWN,moneygram,ILESA WEST,1
+UNKNOWN,moneygram,KAFUR,1
+UNKNOWN,moneygram,OWO,4
+UNKNOWN,moneygram,SANGO,3
+UNKNOWN,moneygram,ILAWE,1
+UNKNOWN,moneygram,JEGA,3
+UNKNOWN,moneygram,DUGBE IBADAN,1
+UNKNOWN,moneygram,KOKO,2
+UNKNOWN,moneygram,ORILE,2
+UNKNOWN,moneygram,JIMETA,2
+UNKNOWN,moneygram,MARKUDI,1
+UNKNOWN,moneygram,OKOTA,6
+UNKNOWN,moneygram,OKE ARIN LAGOS,2
+UNKNOWN,moneygram,IKERE-EKITI,1
+UNKNOWN,moneygram,IKORO EKITI,1
+UNKNOWN,moneygram,IKEJA ALLEN,1
+UNKNOWN,moneygram,IBADAN AGBENI,1
+UNKNOWN,moneygram,ABBI,1
+UNKNOWN,moneygram,LAGOS ISLAND,27
+UNKNOWN,moneygram,AHOADA,1
+UNKNOWN,moneygram,AWE,2
+UNKNOWN,moneygram,NGURU,2
+UNKNOWN,moneygram,GASHUA,2
+UNKNOWN,moneygram,OGBEDE,3
+UNKNOWN,moneygram,IRUEKPEN,1
+UNKNOWN,moneygram,OSHODI,5
+UNKNOWN,moneygram,OPEBI,1
+UNKNOWN,moneygram,SAMINAKA,1
+UNKNOWN,moneygram,MAKARFI,1
+UNKNOWN,moneygram,OGARA,1
+UNKNOWN,moneygram,OTA,6
+UNKNOWN,moneygram,BWARI ABUJA,1
+UNKNOWN,moneygram,WASE,1
+UNKNOWN,moneygram,HONG,1
+UNKNOWN,moneygram,GANYE,2
+UNKNOWN,moneygram,OKOTO,1
+UNKNOWN,moneygram,IKERE EKITI,1
+UNKNOWN,moneygram,PORT HACOURT,4
+UNKNOWN,moneygram,AKUNGBA AKOKO,1
+UNKNOWN,moneygram,KUBWA ABUJA,1
+UNKNOWN,moneygram,AKOWONJO,4
+UNKNOWN,moneygram,VICTORIA ISLAND,37
+UNKNOWN,moneygram,36/38 M/MOHMAMMED WAY,1
+UNKNOWN,moneygram,ALAUSA,1
+UNKNOWN,moneygram,AMUWO ODOFIN,1
+UNKNOWN,moneygram,BADAGRT,1
+UNKNOWN,moneygram,BONNY ISLAND,1
+UNKNOWN,moneygram,EBUTE METTA,5
+UNKNOWN,moneygram,FESTAC,4
+UNKNOWN,moneygram,ELEME,6
+UNKNOWN,moneygram,SHOMOLU,2
+UNKNOWN,moneygram,BIU,4
+UNKNOWN,moneygram,IKOTUN,4
+UNKNOWN,moneygram,FAGGE,2
+UNKNOWN,moneygram,MAGODO,1
+UNKNOWN,moneygram,BAGA ROAD,1
+UNKNOWN,moneygram,MARYLAND,2
+UNKNOWN,moneygram,MATORI,2
+UNKNOWN,moneygram,IDEMILI,2
+UNKNOWN,moneygram,OKIJA TOWN,1
+UNKNOWN,moneygram,OGBARU,1
+UNKNOWN,moneygram,OREGUN,3
+UNKNOWN,moneygram,OWRRI,1
+UNKNOWN,moneygram,OSHODI-APAPA,1
+UNKNOWN,moneygram,YEWA,1
+UNKNOWN,moneygram,DOPEMU,1
+UNKNOWN,moneygram,REMO,1
+UNKNOWN,moneygram,AKOKA,1
+UNKNOWN,moneygram,ADO BAYERO,1
+UNKNOWN,moneygram,MUSHIN,10
+UNKNOWN,moneygram,DAWANAU,1
+UNKNOWN,moneygram,ABAKILIKI,1
+UNKNOWN,moneygram,KETU,4
+UNKNOWN,moneygram,OSISIOMA,1
+UNKNOWN,moneygram,UNIMAID,1
+UNKNOWN,moneygram,AMASOMA,1
+UNKNOWN,moneygram,SEME BORDER,2
+UNKNOWN,moneygram,GALADIMA AMINU WAY,1
+UNKNOWN,moneygram,ADOBAYERO,1
+UNKNOWN,moneygram,ILARA-MOKIN,1
+UNKNOWN,moneygram,NEW OWERRI,1
+UNKNOWN,moneygram,BICHI,2
+UNKNOWN,moneygram,DAURA,2
+UNKNOWN,moneygram,DUKKU,1
+UNKNOWN,moneygram,ILUPEJU,6
+UNKNOWN,moneygram,KUMO,1
+UNKNOWN,moneygram,YAMALTU,1
+UNKNOWN,moneygram,IGBOGILA,1
+UNKNOWN,moneygram,IDIMU,1
+UNKNOWN,moneygram,IPAJA ABESAN,1
+UNKNOWN,moneygram,ADO-EKITI,1
+UNKNOWN,moneygram,AJAO ESTATE,1
+UNKNOWN,moneygram,OJO-ALABA,1
+UNKNOWN,moneygram,ALABA,6
+UNKNOWN,moneygram,ALIERO,1
+UNKNOWN,moneygram,PORTHARCOURT,21
+UNKNOWN,moneygram,MARINA,5
+UNKNOWN,moneygram,IGBESA,1
+UNKNOWN,moneygram,EGBEDA,3
+UNKNOWN,moneygram,EJIGBO,2
+UNKNOWN,moneygram,GARKI II,1
+UNKNOWN,moneygram,FESTACTOWN,1
+UNKNOWN,moneygram,IDDO,2
+UNKNOWN,moneygram,ILASAMAJA,1
+UNKNOWN,moneygram,ILEILA,1
+UNKNOWN,moneygram,KOTANGORA,1
+UNKNOWN,moneygram,MARABA,1
+UNKNOWN,moneygram,IBAFO,3
+UNKNOWN,moneygram,ALAUSA IKEJA,2
+UNKNOWN,moneygram,PORT-HARCOURT,2
+UNKNOWN,moneygram,IFE,4
+UNKNOWN,moneygram,IBESIKPO,1
+UNKNOWN,moneygram,OBIARUKU,1
+UNKNOWN,moneygram,OBINZE,1
+UNKNOWN,moneygram,OGHAREFE,1
+UNKNOWN,moneygram,IGOLI-OGOJA,1
+UNKNOWN,moneygram,OJUELEGBA,2
+UNKNOWN,moneygram,OMU ARAN,1
+UNKNOWN,moneygram,ONDO TOWN,1
+UNKNOWN,moneygram,OSHOGBO,5
+UNKNOWN,moneygram,REDEMPTION CAMP,2
+UNKNOWN,moneygram,SOMOLU,1
+UNKNOWN,moneygram,SULEIJA,1
+UNKNOWN,moneygram,OLODI-APAPA,1
+UNKNOWN,moneygram,ULI,1
+UNKNOWN,moneygram,KAURA NAMODA,3
+UNKNOWN,moneygram,WUSE ABUJA,1
+UNKNOWN,moneygram,ABULOMA,1
+UNKNOWN,moneygram,AGBOWA-IKOSI,1
+UNKNOWN,moneygram,ANAMBRA EAST LGA,1
+UNKNOWN,moneygram,KABBA,5
+UNKNOWN,moneygram,GORA,1
+UNKNOWN,moneygram,IKWERRE,1
+UNKNOWN,moneygram,ADAVI,1
+UNKNOWN,moneygram,OLEH,2
+UNKNOWN,moneygram,SANGOTEDO,2
+UNKNOWN,moneygram,ODE-OMU,1
+UNKNOWN,moneygram,IYIN-EKITI,1
+UNKNOWN,moneygram,JIBIA,1
+UNKNOWN,moneygram,MODAKEKE,1
+UNKNOWN,moneygram,IDIMU IKOTUN ROAD,1
+UNKNOWN,moneygram,APATA,1
+UNKNOWN,moneygram,ILELA,1
+UNKNOWN,moneygram,GBAGI,2
+UNKNOWN,moneygram,ONIKAN,2
+UNKNOWN,moneygram,OJODU BERGER,1
+UNKNOWN,moneygram,MAGBORO,1
+UNKNOWN,moneygram,BOJI-BOJI AGBOR,1
+UNKNOWN,moneygram,OZORO,1
+UNKNOWN,moneygram,OZOBO,1
+UNKNOWN,moneygram,BORI,1
+UNKNOWN,moneygram,KATISINA,1
+UNKNOWN,moneygram,AGO IWOYE,2
+UNKNOWN,moneygram,AMUWO-ODOFIN,1
+UNKNOWN,moneygram,TRADE FAIR,1
+UNKNOWN,moneygram,WUSE 2 ABUJA,1
+UNKNOWN,moneygram,OGUDU,2
+UNKNOWN,moneygram,OKO,3
+UNKNOWN,moneygram,ONUEKE,1
+UNKNOWN,moneygram,AKWARA,1
+UNKNOWN,moneygram,IDUMOTA,2
+UNKNOWN,moneygram,UMUAKA,1
+UNKNOWN,moneygram,OTUKPO,3
+UNKNOWN,moneygram,MAITAMA ABUJA,4
+UNKNOWN,moneygram,RIVERS STATE,4
+UNKNOWN,moneygram,AKWA IBOM,5
+UNKNOWN,moneygram,ONUPA,1
+UNKNOWN,moneygram,ASPAMDA,2
+UNKNOWN,moneygram,BAYELSA,3
+UNKNOWN,moneygram,ABBA,3
+UNKNOWN,moneygram,AYANGBA,2
+UNKNOWN,moneygram,GBAGEDE,1
+UNKNOWN,moneygram,ONIPANU,2
+UNKNOWN,moneygram,SHAGBA,1
+UNKNOWN,moneygram,COKER,1
+UNKNOWN,moneygram,ISSELE-UKU,1
+UNKNOWN,moneygram,IWO,4
+UNKNOWN,moneygram,DOCEMO,1
+UNKNOWN,moneygram,OKITIPUPA,2
+UNKNOWN,moneygram,TRD FAIR BADAGRY,1
+UNKNOWN,moneygram,TAKUM,1
+UNKNOWN,moneygram,ABONNEMA,1
+UNKNOWN,moneygram,ILARO,3
+UNKNOWN,moneygram,ORUN,1
+UNKNOWN,moneygram,GEMBU,1
+UNKNOWN,moneygram,ANKPA,3
+UNKNOWN,moneygram,DARAZO,1
+UNKNOWN,moneygram,BIRNIN,1
+UNKNOWN,moneygram,ALLEN,1
+UNKNOWN,moneygram,KOSUBOSU,1
+UNKNOWN,moneygram,EBUTE META,1
+UNKNOWN,moneygram,ZURU,1
+UNKNOWN,moneygram,AHMADU BELLO,1
+UNKNOWN,moneygram,OJODU,1
+UNKNOWN,moneygram,ABULE EGBA,1
+UNKNOWN,moneygram,LAPIA,1
+UNKNOWN,moneygram,ILAJE,1
+UNKNOWN,moneygram,YENAGOA RD,1
+UNKNOWN,moneygram,MUTUM BIYU,1
+UNKNOWN,moneygram,KWALI,2
+UNKNOWN,moneygram,PANKSHIN,1
+UNKNOWN,moneygram,APA,1
+UNKNOWN,moneygram,MILE 12,1
+UNKNOWN,moneygram,JAHUN,1
+UNKNOWN,moneygram,OZORRO,1
+UNKNOWN,moneygram,AFUZE,1
+UNKNOWN,moneygram,IGARRA,2
+UNKNOWN,moneygram,WOJI,1
+UNKNOWN,moneygram,WUDIL,2
+UNKNOWN,moneygram,MAIYAMA,1
+UNKNOWN,moneygram,AKWA,1
+UNKNOWN,moneygram,WUSE ZONE 4 ABUJA,1
+UNKNOWN,moneygram,GWAGWALADA ABUJA,1
+UNKNOWN,moneygram,KAKURI,1
+UNKNOWN,moneygram,CBD ABUJA,1
+UNKNOWN,moneygram,BOMPAI,1
+UNKNOWN,moneygram,ANNEX 2 ABUJA,1
+UNKNOWN,moneygram,IKOTA VGC,1
+UNKNOWN,moneygram,KUJE TOWN,1
+UNKNOWN,moneygram,GWARINPA,2
+UNKNOWN,moneygram,KAWO,1
+UNKNOWN,moneygram,UBURU,1
+UNKNOWN,moneygram,OVOM-BAYELSA YENEGOA,1
+UNKNOWN,moneygram,AGBANI TOWN,1
+UNKNOWN,moneygram,GARKI ABUJA,1
+UNKNOWN,moneygram,AREA 8 ABUJA,1
+UNKNOWN,moneygram,LANGTANG,2
+UNKNOWN,moneygram,IKEJA GRA,1
+UNKNOWN,moneygram,WUSE ZONE 6 ABUJA,1
+UNKNOWN,moneygram,KWARI,1
+UNKNOWN,moneygram,AYINGBA,1
+UNKNOWN,moneygram,MALUMFASHI,1
+UNKNOWN,moneygram,KACHIA,1
+UNKNOWN,moneygram,BODIJA,1
+UNKNOWN,moneygram,UMUNZE,3
+UNKNOWN,moneygram,UTURN,1
+UNKNOWN,moneygram,TAFAWABALEWA,1
+UNKNOWN,moneygram,VANDEIKYA,1
+UNKNOWN,moneygram,OKUKU,1
+UNKNOWN,moneygram,ONIRU,1
+UNKNOWN,moneygram,IRUN AKOKO,1
+UNKNOWN,moneygram,ONITSHA NORTH,1
+UNKNOWN,moneygram,IDEMMILI NORTH,1
+UNKNOWN,moneygram,AWKUZU,1
+UNKNOWN,moneygram,WUYE,1
+UNKNOWN,moneygram,IBEJU LEKKI,1
+UNKNOWN,moneygram,ALAGBADO,2
+UNKNOWN,moneygram,SABO OWODE YEWA,1
+UNKNOWN,moneygram,IGBOKODA,2
+UNKNOWN,moneygram,KADU,1
+UNKNOWN,moneygram,UMUDIKE,2
+UNKNOWN,moneygram,MANGU,2
+UNKNOWN,moneygram,LAFIAGI,2
+UNKNOWN,moneygram,IDO-EKITI,1
+UNKNOWN,moneygram,ISE EKITI,1
+UNKNOWN,moneygram,ASHABA,1
+UNKNOWN,moneygram,IBADAN AGODI,1
+UNKNOWN,moneygram,IBADAN DUGBE,1
+UNKNOWN,moneygram,DIOBU PORTHARCOURT,1
+UNKNOWN,moneygram,PHT,1
+UNKNOWN,moneygram,FESTAC TOWN LAGOS,2
+UNKNOWN,moneygram,BBA,1
+UNKNOWN,moneygram,IKARE,1
+UNKNOWN,moneygram,IDUMOTA LAGOS,1
+UNKNOWN,moneygram,HOTORO KANO,1
+UNKNOWN,moneygram,IBADAN BODIJA,1
+UNKNOWN,moneygram,ALABA INTL MKT,1
+UNKNOWN,moneygram,APAPA TRINITY,1
+UNKNOWN,moneygram,BROAD STREET,1
+UNKNOWN,moneygram,IKEJA AGIDINGBI,1
+UNKNOWN,moneygram,MARTINS STR,1
+UNKNOWN,moneygram,OJUWOYE,1
+UNKNOWN,moneygram,ONITSHA BRIDGEHEAD,1
+UNKNOWN,moneygram,ONITSHA IWEKA RD,1
+UNKNOWN,moneygram,ONITSHA NEW MKT,1
+UNKNOWN,moneygram,ONITSHA OLD MKT,1
+UNKNOWN,moneygram,DEEDE,1
+UNKNOWN,moneygram,MISSENE,1
+UNKNOWN,moneygram,IJEBU,1
+UNKNOWN,moneygram,ILE IGBO,1
+UNKNOWN,moneygram,SAMARU,1
+UNKNOWN,moneygram,IMO STATE,3
+UNKNOWN,moneygram,BAYELSA STATE,1
+UNKNOWN,moneygram,YELWA,1
+UNKNOWN,moneygram,AJAOKUTA,3
+UNKNOWN,moneygram,IDAH,1
+UNKNOWN,moneygram,ABAGANA,1
+UNKNOWN,moneygram,AJALLI,1
+UNKNOWN,moneygram,ENUGU UKWU,1
+UNKNOWN,moneygram,IGBO-UKWU,1
+UNKNOWN,moneygram,OLE,1
+UNKNOWN,moneygram,ALADJE,1
+UNKNOWN,moneygram,AGBANI,1
+UNKNOWN,moneygram,NGWO UNO,2
+UNKNOWN,moneygram,ODE,1
+UNKNOWN,moneygram,AROCHUKWU,2
+UNKNOWN,moneygram,IKOT ABASI,2
+UNKNOWN,moneygram,OGERE,1
+UNKNOWN,moneygram,AGODILE,1
+UNKNOWN,moneygram,SABON GARI,1
+UNKNOWN,moneygram,ALAOJI,1
+UNKNOWN,moneygram,IKOT,1
+UNKNOWN,moneygram,NIMO,1
+UNKNOWN,moneygram,ORBA,1
+UNKNOWN,moneygram,OVOKO,1
+UNKNOWN,moneygram,IPETU IJESHA,1
+UNKNOWN,moneygram,CROSS RIVER,2
+UNKNOWN,moneygram,AGBARHO,1
+UNKNOWN,moneygram,EKPA,1
+UNKNOWN,moneygram,EFON,1
+UNKNOWN,moneygram,EMUREN,1
+UNKNOWN,moneygram,IFAKI,1
+UNKNOWN,moneygram,IKOLE,1
+UNKNOWN,moneygram,AKOKWA,1
+UNKNOWN,moneygram,NKWERRE,1
+UNKNOWN,moneygram,EGBE,1
+UNKNOWN,moneygram,IYAMOYE,1
+UNKNOWN,moneygram,INISA,1
+UNKNOWN,moneygram,ARAROMI OBU,1
+UNKNOWN,moneygram,IDOANI,1
+UNKNOWN,moneygram,OGBERE,1
+UNKNOWN,moneygram,EWEKORO,1
+UNKNOWN,moneygram,OGBUNIKE,2
+UNKNOWN,moneygram,AMAOKWE ITEM,1
+UNKNOWN,moneygram,INYI,1
+UNKNOWN,moneygram,OGBAGA,1
+UNKNOWN,moneygram,MOPA,1
+UNKNOWN,moneygram,ORON,2
+UNKNOWN,moneygram,ABIRIBA,1
+UNKNOWN,moneygram,AHABA IMENYI,1
+UNKNOWN,moneygram,RIJIYA,1
+UNKNOWN,moneygram,ILUTITU,1
+UNKNOWN,moneygram,EHIME,1
+UNKNOWN,moneygram,AKUNGBA-AKOKO,1
+UNKNOWN,moneygram,MARARABA,2
+UNKNOWN,moneygram,OYINGBO,1
+UNKNOWN,moneygram,GARKI AREA 3,1
+UNKNOWN,moneygram,ABAKPA,1
+UNKNOWN,moneygram,PORTHACORT,1
+UNKNOWN,moneygram,OKPORO,1
+UNKNOWN,moneygram,BORIKI,1
+UNKNOWN,moneygram,BRASS,1
+UNKNOWN,moneygram,AWO-OMAMMA,1
+UNKNOWN,moneygram,PORTHACROURT,2
+UNKNOWN,moneygram,LAFENWA,1
+UNKNOWN,moneygram,KUJE,1
+UNKNOWN,moneygram,ISLAND,1
+UNKNOWN,moneygram,ILE OLUJI,1
+UNKNOWN,moneygram,MAIDUGURUI,1
+UNKNOWN,moneygram,SHENDAM,2
+UNKNOWN,moneygram,PAIKO,1
+UNKNOWN,moneygram,EMENE,2
+UNKNOWN,moneygram,ZAKI IBIAM,1
+UNKNOWN,moneygram,BAGUDO,1
+UNKNOWN,moneygram,JEBUBASSA,1
+UNKNOWN,moneygram,LKOTUN,1
+UNKNOWN,moneygram,AKAMKPA,1
+UNKNOWN,moneygram,DUTSE ALHAJI,1
+UNKNOWN,moneygram,JABI,1
+UNKNOWN,moneygram,MPAPE,1
+UNKNOWN,moneygram,BUNGUDU,1
+UNKNOWN,moneygram,IKARA,1
+UNKNOWN,moneygram,NUMAN,1
+UNKNOWN,moneygram,ALKALERI,1
+UNKNOWN,moneygram,UGBOKOLO,1
+UNKNOWN,moneygram,ZAKI-BIAM,1
+UNKNOWN,moneygram,BILLIRI,1
+UNKNOWN,moneygram,HADEJIA,2
+UNKNOWN,moneygram,DUTSIN-MA,1
+UNKNOWN,moneygram,WASAGU,1
+UNKNOWN,moneygram,ZUNGERU,1
+UNKNOWN,moneygram,GADA,1
+UNKNOWN,moneygram,GWADABAWA,1
+UNKNOWN,moneygram,SABON BIRNI,1
+UNKNOWN,moneygram,YABO,1
+UNKNOWN,moneygram,TALATAN MAFARA,1
+UNKNOWN,moneygram,BIRNIN-KUDU,1
+UNKNOWN,moneygram,MAIGATARI,1
+UNKNOWN,moneygram,DANBATTA,1
+UNKNOWN,moneygram,BIRNIN GWARI,1
+UNKNOWN,moneygram,YAURI,1
+UNKNOWN,moneygram,GUMEL,1
+UNKNOWN,moneygram,PAMBEGUA,1
+UNKNOWN,moneygram,KAFIN HAUSA,1
+UNKNOWN,moneygram,MUSAWA,1
+UNKNOWN,moneygram,OYE,1
+UNKNOWN,moneygram,IFAKO,1
+UNKNOWN,moneygram,GBOGAN,1
+UNKNOWN,moneygram,DOEMAK,1
+UNKNOWN,moneygram,AJEGUNLE,1
+UNKNOWN,sixt,"Uyo, Akwa Ibom",1
+UNKNOWN,sixt,Abuja,2
+UNKNOWN,sixt,Lagos,3
+UNKNOWN,sixt,Port Harcourt,1
+UNKNOWN,tommy_hilfiger,Port Harcourt,1
+UNKNOWN,tommy_hilfiger,Lagos,2
+UNKNOWN,totalenergies,unknown,12
+UNKNOWN,totalenergies,ABUJA 2,17
+UNKNOWN,totalenergies,ABUJA 3,22
+UNKNOWN,totalenergies,ABEOKUTA,26
+UNKNOWN,totalenergies,EGBADO,26
+UNKNOWN,totalenergies,SAGAMU,13
+UNKNOWN,totalenergies,IJEBU,22
+UNKNOWN,totalenergies,IKORODU,12
+UNKNOWN,totalenergies,ISLAND,19
+UNKNOWN,totalenergies,ORILE,9
+UNKNOWN,totalenergies,IKEJA,12
+UNKNOWN,totalenergies,SURULERE,12
+UNKNOWN,totalenergies,APAPA,13
+UNKNOWN,totalenergies,ILESHA,32
+UNKNOWN,totalenergies,ILORIN,36
+UNKNOWN,totalenergies,IBADAN NORTH,36
+UNKNOWN,totalenergies,IBADAN SOUTH,28
+UNKNOWN,totalenergies,OYO,39
+UNKNOWN,totalenergies,ABA,14
+UNKNOWN,totalenergies,CALABAR,15
+UNKNOWN,totalenergies,ENUGU,22
+UNKNOWN,totalenergies,ONITSHA,20
+UNKNOWN,totalenergies,OWERRI,14
+UNKNOWN,totalenergies,PHC,39
+UNKNOWN,totalenergies,AKURE,21
+UNKNOWN,totalenergies,ASABA,33
+UNKNOWN,totalenergies,BENIN,31
+UNKNOWN,totalenergies,EKITI,29
+UNKNOWN,totalenergies,WARRI,27
+UNKNOWN,totalenergies,ABUJA 1,24
+UNKNOWN,totalenergies,ABUJA,2
+UNKNOWN,totalenergies,MINNA,32
+UNKNOWN,totalenergies,MAKURDI,17
+UNKNOWN,totalenergies,KADUNA,26
+UNKNOWN,totalenergies,JOS,23
+UNKNOWN,totalenergies,GOMBE,19
+UNKNOWN,totalenergies,ZARIA,16
+UNKNOWN,totalenergies,GUSAU,23
+UNKNOWN,totalenergies,HADEJIA,17
+UNKNOWN,totalenergies,KANO,31
+UNKNOWN,totalenergies,MAIDUGURI,18
+UNKNOWN,totalenergies,YOLA,16
+UNKNOWN,totalenergies,BAYELSA,1
+UNKNOWN,totalenergies,SHAGAMU,13
+UNKNOWN,totalenergies,Island,14
+UNKNOWN,totalenergies,Apapa,10
+UNKNOWN,totalenergies,Orile,6
+UNKNOWN,totalenergies,Ikorodu,11
+UNKNOWN,totalenergies,Ikeja,13
+UNKNOWN,totalenergies,Surulere,12
+UNKNOWN,totalenergies,Gombe,2
+UNKNOWN,totalenergies,HADEIJA,14
+UNKNOWN,totalenergies,MARKURDI,1
+UNKNOWN,totalenergies,orile,3
+UNKNOWN,totalenergies,SULEJA,3
+UNKNOWN,united_colors_of_benetton,LAGOS- NIGERIA,1
+UNKNOWN,visa,LAGOS,632
+UNKNOWN,visa,OGUN,20
+UNKNOWN,visa,AGBARA,2
+UNKNOWN,visa,OJO,1
+UNKNOWN,visa,APAPA,3
+UNKNOWN,visa,VICTORIA ISLAND,23
+UNKNOWN,visa,LAGOS ISLAND,3
+UNKNOWN,visa,IFAKO,1
+UNKNOWN,visa,IKEJA,11
+UNKNOWN,visa,AJILETE,1
+UNKNOWN,visa,SURULERE,1
+UNKNOWN,visa,ILUPEJU,2
+UNKNOWN,visa,IDIMU,1
+UNKNOWN,visa,AGEGE,1
+UNKNOWN,visa,OTA,1
+UNKNOWN,visa,OTTA,3
+UNKNOWN,visa,SANGO-OTA,5
+UNKNOWN,visa,IKORODU,3
+UNKNOWN,visa,ILARO,3
+UNKNOWN,visa,SHAGAMU,2
+UNKNOWN,visa,LEKKI,1
+UNKNOWN,visa,SAGAMU,4
+UNKNOWN,visa,ODOGBOLU,1
+UNKNOWN,visa,IJAIYE,2
+UNKNOWN,visa,IJEBU-ODE,1
+UNKNOWN,visa,BAYELSA,2
+UNKNOWN,visa,ABEOKUTA,9
+UNKNOWN,visa,IJEBU,2
+UNKNOWN,visa,WARRI,13
+UNKNOWN,visa,AGO IWOYE,1
+UNKNOWN,visa,YENEGOA,5
+UNKNOWN,visa,YENOGOA,2
+UNKNOWN,visa,YENAGOA,2
+UNKNOWN,visa,IJEBU-IGBO,3
+UNKNOWN,visa,OKITIPUPA,1
+UNKNOWN,visa,DELTA,18
+UNKNOWN,visa,UGHELLI,1
+UNKNOWN,visa,SAPELE,2
+UNKNOWN,visa,IBADAN,36
+UNKNOWN,visa,EDO,24
+UNKNOWN,visa,OYO,21
+UNKNOWN,visa,BENIN,32
+UNKNOWN,visa,OGIDI,1
+UNKNOWN,visa,IDANRE,1
+UNKNOWN,visa,IKARE AKOKO,2
+UNKNOWN,visa,PORT HARCOURT,68
+UNKNOWN,visa,IDIROKO,1
+UNKNOWN,visa,RIVERS,21
+UNKNOWN,visa,ONDO,8
+UNKNOWN,visa,OKADA,1
+UNKNOWN,visa,IKIRUN,2
+UNKNOWN,visa,ILE-OLUJI,1
+UNKNOWN,visa,IWO,4
+UNKNOWN,visa,ILE IFE,4
+UNKNOWN,visa,IKOYI,1
+UNKNOWN,visa,UMUNEDE,1
+UNKNOWN,visa,OSUN,5
+UNKNOWN,visa,OWERRI,17
+UNKNOWN,visa,EDE,2
+UNKNOWN,visa,AKURE,11
+UNKNOWN,visa,ABA,16
+UNKNOWN,visa,ILESA,3
+UNKNOWN,visa,OGWASHI UKU,1
+UNKNOWN,visa,OSHOGBO,3
+UNKNOWN,visa,OSOGBO,9
+UNKNOWN,visa,IFON,1
+UNKNOWN,visa,ANAMBRA,18
+UNKNOWN,visa,IBUSA,1
+UNKNOWN,visa,OWO,3
+UNKNOWN,visa,IMO,7
+UNKNOWN,visa,ORLU,1
+UNKNOWN,visa,AKWA IBOM,9
+UNKNOWN,visa,ASABA,6
+UNKNOWN,visa,IKERE-EKITI,1
+UNKNOWN,visa,ONITSHA,11
+UNKNOWN,visa,NNEWI,7
+UNKNOWN,visa,OGBOMOSO,3
+UNKNOWN,visa,EKET,2
+UNKNOWN,visa,NKPOR,1
+UNKNOWN,visa,MBAISE,1
+UNKNOWN,visa,ADO-EKITI,3
+UNKNOWN,visa,ADO EKITI,4
+UNKNOWN,visa,IKOT EKPENE,1
+UNKNOWN,visa,IKOT-EKPENE,1
+UNKNOWN,visa,ABIA,12
+UNKNOWN,visa,UMUAHIA,5
+UNKNOWN,visa,OKIGWE,1
+UNKNOWN,visa,UYO,15
+UNKNOWN,visa,AGBADO,1
+UNKNOWN,visa,ILA ORANGUN,1
+UNKNOWN,visa,OFA,1
+UNKNOWN,visa,ILA ORAGUN,1
+UNKNOWN,visa,AWKA,7
+UNKNOWN,visa,AKUNGBA,2
+UNKNOWN,visa,OFFA,2
+UNKNOWN,visa,AUCHI,1
+UNKNOWN,visa,IKARE,1
+UNKNOWN,visa,IGARRA,1
+UNKNOWN,visa,ILORIN,13
+UNKNOWN,visa,CALABAR,10
+UNKNOWN,visa,CALBAR,1
+UNKNOWN,visa,EBONYI,5
+UNKNOWN,visa,ENUGU,34
+UNKNOWN,visa,KWARA,6
+UNKNOWN,visa,CROSS RIVER,10
+UNKNOWN,visa,NSUKKA,4
+UNKNOWN,visa,KOGI,7
+UNKNOWN,visa,OBAJANA,3
+UNKNOWN,visa,ABAKALIKI,7
+UNKNOWN,visa,LOKOJA,7
+UNKNOWN,visa,IKOM,1
+UNKNOWN,visa,OTURKPO,1
+UNKNOWN,visa,NEW BUSSA,1
+UNKNOWN,visa,BIDA,1
+UNKNOWN,visa,OGOJA,1
+UNKNOWN,visa,MAKURDI,9
+UNKNOWN,visa,NASARAWA,3
+UNKNOWN,visa,GBOKO,1
+UNKNOWN,visa,MINNA,7
+UNKNOWN,visa,SULEJA,2
+UNKNOWN,visa,ABUJA,126
+UNKNOWN,visa,GARKI,3
+UNKNOWN,visa,NIGER,5
+UNKNOWN,visa,KEFFI,2
+UNKNOWN,visa,LAFIA,5
+UNKNOWN,visa,TARABA,5
+UNKNOWN,visa,AKWANGA,2
+UNKNOWN,visa,BENUE,4
+UNKNOWN,visa,KEBBI,1
+UNKNOWN,visa,PLATEAU,3
+UNKNOWN,visa,WUSE,1
+UNKNOWN,visa,KAFANCHAN,1
+UNKNOWN,visa,KADUNA,26
+UNKNOWN,visa,ZAMFARA,3
+UNKNOWN,visa,TURUNKU,1
+UNKNOWN,visa,BIRNIN KEBBI,3
+UNKNOWN,visa,BIRNIN-KEBBI,2
+UNKNOWN,visa,BUKURU,1
+UNKNOWN,visa,JOS,15
+UNKNOWN,visa,ZARIA,5
+UNKNOWN,visa,SAMINAKA,1
+UNKNOWN,visa,KOTANGORA,1
+UNKNOWN,visa,FUNTUA,1
+UNKNOWN,visa,GUSAU,4
+UNKNOWN,visa,MALUMFASHI,1
+UNKNOWN,visa,KANKARA,1
+UNKNOWN,visa,SOKOTO,10
+UNKNOWN,visa,BAUCHI,8
+UNKNOWN,visa,JALINGO,4
+UNKNOWN,visa,KANO,43
+UNKNOWN,visa,KASTINA,1
+UNKNOWN,visa,SEME,1
+UNKNOWN,visa,DUTSE,6
+UNKNOWN,visa,MARARABA,1
+UNKNOWN,visa,KATSINA,8
+UNKNOWN,visa,GOMBE,7
+UNKNOWN,visa,KWALE,1
+UNKNOWN,visa,ADAMAWA,5
+UNKNOWN,visa,DAURA,1
+UNKNOWN,visa,YOLA,4
+UNKNOWN,visa,JIGAWA,2
+UNKNOWN,visa,ASHAKA,1
+UNKNOWN,visa,YABA,1
+UNKNOWN,visa,BORNO,4
+UNKNOWN,visa,DAMATURU,2
+UNKNOWN,visa,MUBI,2
+UNKNOWN,visa,YOBE,2
+UNKNOWN,visa,MAIDUGURI,16
+RIVERSSTATE,western_union,Port Harcourt City,2
+NIGER,western_union,Kontagora,2
+KEBBI,western_union,Yauri,2
+KEBBI,western_union,Zuru,3
+NIGER,western_union,Minna,10
+NIGER,western_union,Niger,4
+FCT,western_union,Abuja,311
+KWARA,western_union,Ilorin,37
+KANO,western_union,Kano,96
+EKITI,western_union,Aramoko,2
+DELTA,western_union,Patani,2
+EKITI,western_union,Ikere,4
+DELTA,western_union,Abraka,1
+KATSINA,western_union,Daura,2
+KATSINA,western_union,Katsina,14
+OSUN,western_union,Osogbo,12
+OYO,western_union,Ogbomosho,4
+OSUN,western_union,Iragbiji,2
+OYO,western_union,Ogbomoso,2
+OSUN,western_union,Ipetu,1
+EDO,western_union,Benin,23
+OSUN,western_union,Ilesa,3
+OSUN,western_union,Oshogbo,10
+BAYELSA,western_union,Amassoma,2
+EDO,western_union,Benin City,61
+EDO,western_union,Oredo,8
+ONDO,western_union,Akure,20
+ONDO,western_union,Ilara,2
+OGUN,western_union,Akure,2
+OSUN,western_union,Osun,6
+DELTA,western_union,Ughelli,6
+DELTA,western_union,Uvwie,6
+DELTA,western_union,Warri,49
+ONDO,western_union,Idanre,4
+DELTA,western_union,Sapele,6
+OSUN,western_union,Ede,4
+OYO,western_union,Oyo,6
+EDO,western_union,Warri,2
+ONDO,western_union,Ile Oluji,2
+OSUN,western_union,Modakeke,2
+OSUN,western_union,Ile Ife,7
+OSUN,western_union,Ife,2
+ONDO,western_union,Ondo,12
+RIVERS,western_union,Port Hacourt,2
+OYO,western_union,Iwo,2
+EDO,western_union,Egor,2
+ONDO,western_union,Ore,4
+OYO,western_union,Ibadan,106
+OYO,western_union,Monatan,2
+OYO,western_union,Lanlate,2
+OYO,western_union,Oyo Town,2
+DELTA,western_union,Delta,2
+OYO,western_union,Igboora,2
+ONDO,western_union,Ilutitun,2
+OGUN,western_union,Abeokuta,38
+OGUN,western_union,Ogun,16
+OGUN,western_union,Ago Iwoye,2
+OGUN,western_union,Ilishan,4
+OGUN,western_union,Ilishan Remo,2
+OGUN,western_union,Iperu,2
+OGUN,western_union,Ijebu Ode,12
+OGUN,western_union,Sagamu,1
+OGUN,western_union,Owode,1
+LAGOS,western_union,Lagos,1118
+LAGOS,western_union,Lekki,24
+OGUN,western_union,Ijebu,4
+OGUN,western_union,Ifo,7
+OGUN,western_union,Shagamu,2
+OGUN,western_union,Mowe,4
+LAGOS,western_union,Epe,4
+LAGOS,western_union,Ibeju Lekki,1
+OGUN,western_union,Ibafo,3
+LAGOS,western_union,Agbowa,2
+OGUN,western_union,Pakuro,2
+LAGOS,western_union,Ojodu,2
+LAGOS,western_union,Abule-egba,2
+LAGOS,western_union,Ikorodu,9
+OGUN,western_union,Yewa,2
+LAGOS,western_union,Ifako,4
+OGUN,western_union,Ota,8
+OGUN,western_union,Sango Ota,2
+OGUN,western_union,Iju,2
+OGUN,western_union,Sango Otta,2
+OGUN,western_union,Idi Iroko,2
+LAGOS,western_union,Agege,4
+OYO,western_union,Lagos,2
+OGUN,western_union,Alimosho,2
+LAGOS,western_union,Ikeja,40
+NIGER,western_union,Lagos,2
+LAGOS,western_union,Alausa,1
+LAGOS,western_union,Magodo,2
+LAGOS,western_union,Iyana Ipaja,1
+LAGOS,western_union,Ketu,5
+LAGOS,western_union,Sangotedo,2
+LAGOS,western_union,Ikotun,4
+LAGOS,western_union,Opebi,4
+LAGOS,western_union,Alimosho,4
+LAGOS,western_union,Ojota,2
+LAGOS,western_union,Allen Olowu,1
+LAGOS,western_union,Maryland,2
+LAGOS,western_union,Maryland Estate,2
+LAGOS,western_union,Oregun,2
+LAGOS,western_union,Eti Osa,11
+LAGOS,western_union,Idimu,2
+LAGOS,western_union,Ilupeju,6
+LAGOS,western_union,Gbagada,3
+LAGOS,western_union,Dopemu Egbeda,1
+LAGOS,western_union,Obanikoro,2
+LAGOS,western_union,Shomolu,6
+LAGOS,western_union,Isolo,6
+LAGOS,western_union,Ajao,2
+LAGOS,western_union,Somulu,2
+LAGOS,western_union,Yaba,14
+LAGOS,western_union,Mushin,4
+LAGOS,western_union,Matori,2
+LAGOS,western_union,Ikota,6
+LAGOS,western_union,Igando,2
+LAGOS,western_union,Somolu,2
+LAGOS,western_union,Ajah Lagos,2
+LAGOS,western_union,Idi-oro,2
+LAGOS,western_union,Idi Araba,2
+LAGOS,western_union,Surulere,6
+LAGOS,western_union,Okota,2
+LAGOS,western_union,Orile,3
+LAGOS,western_union,Surelere,2
+LAGOS,western_union,Ikoyi,5
+LAGOS,western_union,Aguda,1
+LAGOS,western_union,Ebute Metta,1
+LAGOS,western_union,Ojo,6
+LAGOS,western_union,Iddo,2
+LAGOS,western_union,Moloney,2
+LAGOS,western_union,Idumota,2
+LAGOS,western_union,Lagos Island,3
+OGUN,western_union,Agbara,2
+LAGOS,western_union,Victoria Island,27
+LAGOS,western_union,Pbl House Branch,1
+LAGOS,western_union,Vi,2
+LAGOS,western_union,Festac Town,2
+LAGOS,western_union,Apapa,10
+LAGOS,western_union,Awuwo,2
+LAGOS,western_union,Victorial Island,2
+LAGOS,western_union,Maza Maza,2
+LAGOS,western_union,Amuwo,4
+LAGOS,western_union,Satelite,2
+LAGOS,western_union,Amuwo Odofin,2
+IMO,western_union,Owerri,65
+LAGOS,western_union,Badagry,4
+LAGOS,western_union,Marina,1
+KOGI,western_union,Okene,8
+ONDO,western_union,Ikare,4
+PLATEAU,western_union,Bassa,2
+KOGI,western_union,Lokoja,18
+OYO,western_union,Saki,2
+EKITI,western_union,Ado Ekiti,17
+NASARAWA,western_union,Akwanga,2
+KOGI,western_union,Ajaokuta,2
+SOKOTO,western_union,Sokoto,16
+OYO,western_union,Igboho,2
+KWARA,western_union,Offa,2
+ZAMFARA,western_union,Shinkafi,1
+KOGI,western_union,Obajana,2
+NASARAWA,western_union,Mararaba,8
+NASARAWA,western_union,Mararaba Karu Lga,2
+FCT,western_union,Garki,2
+NASARAWA,western_union,Lafia,2
+OYO,western_union,Igbeti,2
+KEBBI,western_union,Birnin Kebbi,4
+NASARAWA,western_union,Keffi,9
+EKITI,western_union,Omuo,2
+EKITI,western_union,Oye-ekiti,2
+EKITI,western_union,Ikole,4
+KATSINA,western_union,Dutsinma,2
+KADUNA,western_union,Kafanchan,2
+KOGI,western_union,Kabba,2
+NASARAWA,western_union,Karu,2
+NASARAWA,western_union,Masaka,2
+ADAMAWA,western_union,Yola,20
+FCT,western_union,Garki Ii,2
+RIVERS,western_union,Bonny Island,1
+KEBBI,western_union,Argungu,2
+TARABA,western_union,Potiskum,1
+FCT,western_union,Lagos,2
+ANAMBRA,western_union,Awka,33
+BORNO,western_union,Maiduguri,15
+ANAMBRA,western_union,Anambra,5
+FCT,western_union,Maitama,4
+ABUJA,western_union,Abuja,1
+FCT,western_union,Lugbe,2
+FCT,western_union,Utako,2
+ADAMAWA,western_union,Mubi,4
+FCT,western_union,Kuje,2
+FCT,western_union,Wuse,2
+FCT,western_union,Gwarimpa,4
+FCT,western_union,Wuse 2,2
+ZAMFARA,western_union,Mafara,2
+KADUNA,western_union,Zaria,20
+KADUNA,western_union,Kaduna,70
+NIGER,western_union,Lapai,2
+ZAMFARA,western_union,Gusau,7
+KADUNA,western_union,Igabi,2
+KATSINA,western_union,Funtua,2
+NIGER,western_union,Suleja,4
+EDO,western_union,Edo,2
+KADUNA,western_union,Mogadishu,2
+KADUNA,western_union,Kaduna South,2
+KEBBI,western_union,Kebbi-aliero,1
+FCT,western_union,Gwagwalada,6
+KEBBI,western_union,Maiyama,1
+KADUNA,western_union,Samaru,4
+ANAMBRA,western_union,Kaduna,2
+EDO,western_union,Uromi,2
+KADUNA,western_union,Sabon Tasha,2
+KEBBI,western_union,Koko,2
+NIGER,western_union,Bida,4
+ZAMFARA,western_union,Gummi,1
+CROSSRIVER,western_union,Calabar,47
+GOMBE,western_union,Gombe,11
+GOMBE,western_union,Kaltungo,1
+TARABA,western_union,Gembu,2
+KANO,western_union,Sabon Gari,2
+TARABA,western_union,Wukari,2
+KANO,western_union,Hotoro,2
+KANO,western_union,Kofar Ruwa,1
+PLATEAU,western_union,Plateau,6
+PLATEAU,western_union,Jos,38
+YOBE,western_union,Nguru,2
+PLATEAU,western_union,Laranto Jos,2
+NASARAWA,western_union,Nasarawa,2
+PLATEAU,western_union,Shendam,2
+YOBE,western_union,Gashua,1
+JIGAWA,western_union,Hadejia,4
+BORNO,western_union,Maiduguro,2
+ADAMAWA,western_union,Adamawa,2
+JIGAWA,western_union,Dutse,2
+TARABA,western_union,Jalingo,8
+TARABA,western_union,Taraba,2
+ADAMAWA,western_union,Yola South,2
+BAUCHI,western_union,Ningi,2
+BAUCHI,western_union,Bauchi,11
+YOBE,western_union,Damaturu,8
+ADAMAWA,western_union,Gombi,1
+BAUCHI,western_union,Jama Are,1
+YOBE,western_union,Potiskum,2
+ADAMAWA,western_union,Numam,2
+BAUCHI,western_union,Darazo,2
+EDO,western_union,Auchi,2
+EDO,western_union,Etsako,6
+EDO,western_union,Agenebode,2
+DELTA,western_union,Agbor,8
+OGUN,western_union,Idanre,2
+EDO,western_union,Ekpoma,4
+EDO,western_union,Esan,2
+BENUE,western_union,Makurdi,8
+BENUE,western_union,Markurdi,6
+BAYELSA,western_union,Yenegoa,6
+BAYELSA,western_union,Otuoke,2
+BAYELSA,western_union,Yenagoa,12
+DELTA,western_union,Asaba,11
+BENUE,western_union,Katsina-ala,1
+BENUE,western_union,Gboko,8
+BAYELSA,western_union,Yenaoga,2
+DELTA,western_union,Ozoro,2
+DELTA,western_union,Oshimili,24
+ANAMBRA,western_union,Onitsha,69
+ANAMBRA,western_union,Nsugbe,2
+BENUE,western_union,Otukpo,2
+BENUE,western_union,Oturkpo,2
+ANAMBRA,western_union,Otuocha,2
+DELTA,western_union,Kwale,2
+ENUGU,western_union,Nsukka,20
+ANAMBRA,western_union,Igbariam,2
+ANAMBRA,western_union,Idemili,1
+ANAMBRA,western_union,Nkpor,4
+ANAMBRA,western_union,P. Oyi L.g.a.,2
+ANAMBRA,western_union,Oba,2
+RIVERS,western_union,Port Harcourt,228
+RIVERS,western_union,Ahoada Town,2
+ANAMBRA,western_union,Nnewi,20
+ANAMBRA,western_union,Ihiala,2
+ANAMBRA,western_union,Akwa,2
+RIVERS,western_union,Eleme,3
+ENUGU,western_union,Oji River,2
+ENUGU,western_union,Udi,4
+ENUGU,western_union,Ngwo,2
+RIVERS,western_union,Rivers,5
+IMO,western_union,Mgbidi,2
+IMO,western_union,Umuelemai,2
+ANAMBRA,western_union,Ekwulobia,4
+ANAMBRA,western_union,Aguata,6
+RIVERS,western_union,Bonny,2
+RIVERS,western_union,Portharcout,1
+ENUGU,western_union,Enugu,107
+BENUE,western_union,Vandeika,1
+RIVERS,western_union,Choba,2
+RIVERS,western_union,Isiokpo,1
+ABIA,western_union,Aba,87
+IMO,western_union,Orlu,2
+LAGOS,western_union,Enugu,1
+IMO,western_union,Nkwerre,2
+CROSSRIVER,western_union,Port Harcourt,2
+UNKNOWN,western_union,Port Harcourt,1
+RIVERS,western_union,Onne,2
+IMO,western_union,Akokwa,2
+IMO,western_union,Urualla,2
+IMO,western_union,Obinze,2
+RIVERS,western_union,Phc,2
+RIVERS,western_union,Woji,2
+ANAMBRA,western_union,Orumba,4
+ABIA,western_union,Umuahia,31
+RIVERS,western_union,Fot Onne,2
+IMO,western_union,Naze,2
+ENUGU,western_union,Akpugo,2
+CROSSRIVER,western_union,Ogoja,2
+RIVERS,western_union,Elele,1
+RIVERS,western_union,Oyigbo,6
+ABIA,western_union,Okigwe,2
+IMO,western_union,Okigwe,6
+ABIA,western_union,Okigwe L.g.a,2
+ABIA,western_union,Umudike,4
+ABIA,western_union,Umuikaa,2
+AKWAIBOM,western_union,Ikot Abasi,4
+IMO,western_union,Oru,2
+IMO,western_union,Mbaise,2
+IMO,western_union,Okwelle,2
+RIVERS,western_union,Bori,2
+RIVERS,western_union,Khana,2
+IMO,western_union,Umuokwara,2
+IMO,western_union,Aba,2
+ABIA,western_union,Abia,4
+EBONYI,western_union,Abakaliki,20
+EBONYI,western_union,Ohaozara Lga,2
+EBONYI,western_union,Ebonyi,2
+AKWAIBOM,western_union,Eket,8
+AKWAIBOM,western_union,Ibeno,2
+DELTA,western_union,Umudike,1
+IMO,western_union,Umuahia,2
+AKWAIBOM,western_union,Uyo,51
+AKWAIBOM,western_union,Oron,2
+CROSSRIVER,western_union,Ikom,4
+AKWAIBOM,western_union,Abak,4
+ABIA,western_union,Umu Obasi,2
+ABIA,western_union,Ohafia,2
+AKWAIBOM,western_union,Ikot Ekpene,10
+AKWAIBOM,western_union,Akwa-ibom,2
+EBONYI,western_union,Afikpo,2
+CROSSRIVER,western_union,Uyo,2
+AKWAIBOM,western_union,Udo Udoma Uyo,2
+ANAMBRA,western_union,Obosi,2
+AKWAIBOM,western_union,Itu,2
+ABIA,western_union,Arochukwu,4
+AKWAIBOM,western_union,Akwa Ibom,2

@@ -1,0 +1,15 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+321069972,bp,SANDBACH NORTH CONNECT MWSA,,SANDBACH,,,GB,+44 1270 767745,,24/7,BP,Q152057
+1729162560,bp,SANDBACH SOUTH CONNECT MWSA,,SANDBACH,,,GB,+44 1270 762731,,24/7,BP,Q152057
+f4cf54f9-dc96-eb11-b1ac-000d3a2ed776,costa_coffee_gg_gb_im_je,Roadchef Motorways Limited - Sandbach South DTO,,Sandbach,,,GB,,,Mo 06:30-19:00; Tu-We 06:30-18:00; Th-Fr 06:30-19:00; Sa 07:00-18:00; Su 08:00-19:00,Costa Coffee,Q608845
+f51bb345-dd96-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef Motorways Limited - Sandbach North DTO,,Sandbach,,,GB,,,Mo-Fr 07:00-16:00; Sa-Su 07:00-17:00,Costa Coffee,Q608845
+ed36e7ed-dc96-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef Sandbach South MSA,,Sandbach,,,GB,,,,Costa Coffee,Q608845
+6136e7ed-dc96-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef Sandbach North MSA,,Sandbach,,,GB,,,Mo 07:00-19:00; Tu-Th 07:00-18:00; Fr-Sa 07:00-19:00; Su 08:00-20:00,Costa Coffee,Q608845
+0c08e88b-0797-eb11-b1ac-000d3a2ed776,costa_coffee_gg_gb_im_je,Roadchef Retail @ Sandbach North,,Sandbach,,,GB,,,Mo-Su 06:00-22:00,Costa Express,Q113556385
+a001d68d-0797-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef Retail @ Sandbach South,,Sandbach,,,GB,,,Mo-Su 06:00-22:00,Costa Express,Q113556385
+gcqq6ccfkq8n,gov_cma_fuel_gb,BP,M6,,,,GB,,,,BP,Q152057
+gcqq6ce7gbtb,gov_cma_fuel_gb,BP,M6,,,,GB,,,,BP,Q152057
+34,gridserve_gb,Roadchef Sandbach Northbound Services,M6 Motorway Northbound,Kenilworth,,,GB,,,,Gridserve,Q89575318
+156,gridserve_gb,Roadchef Sandbach Southbound Services,M6 Motorway Southbound,Betchton,,,GB,,,,Gridserve,Q89575318
+GB_EXT_01127,totalenergies,Sandbach North Connect MWSA,,SANDBACH,,,GB,+44 1270 767745,https://store.totalenergies.fr/en_EN/GB_EXT_01127,,BP,Q152057
+GB_EXT_01128,totalenergies,Sandbach South Connect MWSA,,SANDBACH,,,GB,+44 1270 762731,https://store.totalenergies.fr/en_EN/GB_EXT_01128,,BP,Q152057

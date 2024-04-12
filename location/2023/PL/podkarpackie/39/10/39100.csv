@@ -1,0 +1,40 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5193,abc_pl,abc,,Ropczyce,podkarpackie,,PL,,,,abc,Q11683985
+3964,abc_pl,abc,,Ropczyce,podkarpackie,,PL,,,,abc,Q11683985
+298,dr_max,"Apteka Dr.Max, Grunwaldzka 1, Ropczyce",,Ropczyce,Podkarpackie,,PL,+48 17 221 82 48,https://www.drmax.pl/apteki/ropczyce-grunwaldzka-1,,Dr. Max,Q56317371
+13353,groszek_pl,Groszek,,Ropczyce,podkarpackie,,PL,,,,Groszek,Q9280965
+POP-OTO1,paczkomat_inpost_pl,JUBILATKA,,Ostrów ,podkarpackie,,PL,,https://inpost.pl/paczkomat-ostrow-pop-oto1-ostrow-paczkomaty-podkarpackie,Mo-Sa 08:00-20:00,Paczkomat,Q110970254
+POP-ROP3,paczkomat_inpost_pl,COMAX COMPUTERS,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-pop-rop3-3-go-maja-paczkomaty-podkarpackie,Mo-Fr 09:00-17:00; Sa 09:00-14:00,Paczkomat,Q110970254
+POP-ROP5,paczkomat_inpost_pl,JUBILATKA,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-pop-rop5-krola-k-wielkiego-paczkomaty-podkarpackie,Mo-Sa 08:00-20:00,Paczkomat,Q110970254
+POP-ROP6,paczkomat_inpost_pl,JUBILATKA,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-pop-rop6-pilsudskiego-paczkomaty-podkarpackie,Mo-Sa 08:00-20:00,Paczkomat,Q110970254
+POP-ROP7,paczkomat_inpost_pl,AL.CAPONE,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-pop-rop7-rynek-paczkomaty-podkarpackie,Mo-Su 08:00-24:00,Paczkomat,Q110970254
+POP-ROP8,paczkomat_inpost_pl,UBEZPIECZENIA MARTA,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-pop-rop8-slowackiego-paczkomaty-podkarpackie,Mo-Fr 08:00-17:00,Paczkomat,Q110970254
+ROP01A,paczkomat_inpost_pl,Przy Banku Alior,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop01a-juliusza-slowackiego-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP01M,paczkomat_inpost_pl,"przy dawnym sklepie Lewiatan, w pobliżu warsztatu",,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop01m-kolonia-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP01N,paczkomat_inpost_pl,Przy markecie Mrówka,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop01n-ogrodnicza-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP02A,paczkomat_inpost_pl,Na parkingu restauracji Laguna,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop02a-grunwaldzka-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP02G,paczkomat_inpost_pl,Stacja Alta Trans,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop02g-kolejowa-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP02M,paczkomat_inpost_pl,PRZY WEJŚCIU DO SKLEPU SPAR,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop02m-robotnicza-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP03M,paczkomat_inpost_pl,Przy plebanii kościoła Św. Barbary,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop03m-siewierskiego-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP04M,paczkomat_inpost_pl,Na parkingu po prawej stronie,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop04m-najswietszej-marii-panny-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP05M,paczkomat_inpost_pl,Przy sklepie Delikatesy Centrum,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop05m-3-maja-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP06M,paczkomat_inpost_pl,Parking sklepu Lidl - po lewej stronie od wjazdu,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop06m-wyszynskiego-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP07M,paczkomat_inpost_pl,Parking przy Delikatesach Orzech,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop07m-sw-barbary-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ROP08M,paczkomat_inpost_pl,Stacja Circle K - Ropczyce ul. 3 Maja 589,,Ropczyce,podkarpackie,,PL,,https://inpost.pl/paczkomat-ropczyce-rop08m-3-maja-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+419,play_pl,Salon Play,Ul. Grunwaldzka 11,Ropczyce,podkarpackie,,PL,+48 790 031 473,,Mo-Fr 09:00-17:00; Sa 09:00-14:00,Play,Q7202998
+290079,poczta_polska_pl,AP Łączki Kucharskie,,Łączki Kucharskie,PODKARPACKIE,,PL,+48 538 300 895,,,Poczta Polska,Q168833
+422709,poczta_polska_pl,AP Niedźwiada,,Niedźwiada,PODKARPACKIE,,PL,+48 504 294 772,,,Poczta Polska,Q168833
+312113,poczta_polska_pl,FUP Ropczyce,,Ropczyce,PODKARPACKIE,,PL,+48 17 222 71 60,,,Poczta Polska,Q168833
+262817,poczta_polska_pl,UP Ropczyce,,Ropczyce,PODKARPACKIE,,PL,+48 17 221 84 10;+48 17 221 83 17;+48 885 900 294,,,Poczta Polska,Q168833
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+,visa,,,ROPCZYCE,PODKARPACKIE,,PL,,,,,
+cb3e97145c61d4f5ca8fc01a03375e35,western_union,KANTOR WYMIANY WALUT,,Ropczyce,PODKARPACKIE,,PL,+48 509 213 501,https://location.westernunion.com/pl/podkarpackie/ropczyce/cb3e97145c61d4f5ca8fc01a03375e35,Mo-Fr 08:30-17:00; Sa 08:30-13:00,Western Union,Q861042
+fe4fc9dfa31e749552da8cc97b014b7e,western_union,BANK SPOLDZIELCZY W ROPCZYCACH,,Ropczyce,PODKARPACKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/podkarpackie/ropczyce/fe4fc9dfa31e749552da8cc97b014b7e,Mo-Fr 07:00-17:00; Sa 07:00-12:00,Western Union,Q861042
+5d9cb995f88ad2cd0fd6d4c924b19912,western_union,BANK PEKAO SA,,Ropczyce,PODKARPACKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/podkarpackie/ropczyce/5d9cb995f88ad2cd0fd6d4c924b19912,Mo-Fr 08:30-16:00,Western Union,Q861042

@@ -1,0 +1,4792 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,50
+UNKNOWN,adidas,Hiroshima,1
+UNKNOWN,adidas,Nasu Shiobara Tochigi,1
+13,adidas,Tokyo,1
+UNKNOWN,adidas,Tokyo,3
+UNKNOWN,adidas,Chiba,2
+UNKNOWN,adidas,北広島市,1
+UNKNOWN,adidas,横浜市,1
+20,adidas,北佐久郡,2
+26,adidas,京都市,1
+23,adidas,名古屋市,2
+40,adidas,FUKUOKA,1
+UNKNOWN,adidas,151-8580,1
+UNKNOWN,adidas,Osaka,2
+46,adidas,鹿児島市,1
+27,adidas,大阪市,4
+13,adidas,東京都,10
+40,adidas,福岡市,3
+01,adidas,札幌市,2
+11,adidas,三郷市,1
+27,adidas,吹田市,1
+14,adidas,横浜市,3
+UNKNOWN,adidas,滋賀県蒲生郡,1
+UNKNOWN,adidas,御殿場市,1
+UNKNOWN,adidas,桑名市,1
+UNKNOWN,adidas,稲敷郡,1
+UNKNOWN,adidas,土岐市,1
+11,adidas,富士見市,1
+24,adidas,桑名市,1
+14,adidas,神奈川県,1
+22,adidas,磐田市,1
+28,adidas,西宮市,1
+14,adidas,海老名市,1
+13,adidas,立川市,1
+14,adidas,川崎市,1
+12,adidas,船橋市,1
+28,adidas,神戸市,2
+13,adidas,武蔵野市,1
+UNKNOWN,adidas,入間市,1
+01,adidas,北広島市,1
+11,adidas,入間市,1
+47,adidas,豊見城市,1
+09,adidas,那須塩原市,1
+25,adidas,蒲生郡,1
+04,adidas,仙台市,2
+12,adidas,木更津市,1
+13,adidas,八王子市,1
+41,adidas,鳥栖市,1
+21,adidas,土岐市,1
+12,adidas,千葉市,1
+22,adidas,御殿場市,1
+09,adidas,佐野市,1
+12,adidas,印旛郡,1
+08,adidas,稲敷郡,1
+34,adidas,広島市,1
+33,adidas,倉敷市,1
+福岡県,akachan_jp,飯塚市,1
+大阪府,akachan_jp,高槻市,1
+埼玉県,akachan_jp,深谷市,1
+東京都,akachan_jp,板橋区,1
+北海道,akachan_jp,札幌市 厚別区,1
+神奈川県,akachan_jp,相模原市 緑区,1
+北海道,akachan_jp,札幌市 東区,1
+大阪府,akachan_jp,八尾市,1
+東京都,akachan_jp,江東区,2
+宮城県,akachan_jp,仙台市 太白区,1
+埼玉県,akachan_jp,三郷市,1
+静岡県,akachan_jp,磐田市,1
+愛知県,akachan_jp,稲沢市,1
+千葉県,akachan_jp,柏市,2
+埼玉県,akachan_jp,川口市,2
+山口県,akachan_jp,防府市,1
+宮城県,akachan_jp,仙台市 泉区,1
+滋賀県,akachan_jp,草津市,1
+静岡県,akachan_jp,浜松市 中央区,1
+兵庫県,akachan_jp,西宮市,2
+京都府,akachan_jp,久世郡 久御山町,1
+沖縄県,akachan_jp,中頭郡 北谷町,1
+青森県,akachan_jp,弘前市,1
+沖縄県,akachan_jp,浦添市,1
+東京都,akachan_jp,品川区,1
+兵庫県,akachan_jp,神戸市 西区,1
+埼玉県,akachan_jp,春日部市,1
+愛知県,akachan_jp,春日井市,1
+東京都,akachan_jp,墨田区,1
+静岡県,akachan_jp,三島市,1
+神奈川県,akachan_jp,相模原市 南区,1
+静岡県,akachan_jp,静岡市 駿河区,1
+愛知県,akachan_jp,安城市,1
+兵庫県,akachan_jp,明石市,1
+神奈川県,akachan_jp,横浜市 南区,1
+山梨県,akachan_jp,中巨摩郡 昭和町,1
+神奈川県,akachan_jp,横浜市 泉区,1
+千葉県,akachan_jp,千葉市 花見川区,1
+大阪府,akachan_jp,大阪市 阿倍野区,1
+埼玉県,akachan_jp,さいたま市 北区,1
+埼玉県,akachan_jp,和光市,1
+東京都,akachan_jp,昭島市,1
+東京都,akachan_jp,小金井市,1
+群馬県,akachan_jp,高崎市,1
+岐阜県,akachan_jp,岐阜市,1
+大阪府,akachan_jp,堺市 西区,1
+北海道,akachan_jp,札幌市 北区,1
+東京都,akachan_jp,東久留米市,1
+神奈川県,akachan_jp,川崎市 高津区,1
+滋賀県,akachan_jp,彦根市,1
+岡山県,akachan_jp,岡山市 北区,1
+大阪府,akachan_jp,門真市,1
+茨城県,akachan_jp,つくば市,1
+大阪府,akachan_jp,寝屋川市,1
+大阪府,akachan_jp,堺市 美原区,1
+奈良県,akachan_jp,大和高田市,1
+岡山県,akachan_jp,岡山市 南区,1
+福岡県,akachan_jp,福岡市 博多区,1
+広島県,akachan_jp,廿日市市,1
+宮崎県,akachan_jp,宮崎市,1
+神奈川県,akachan_jp,大和市,1
+神奈川県,akachan_jp,横浜市 港南区,1
+群馬県,akachan_jp,伊勢崎市,1
+愛知県,akachan_jp,愛知郡,1
+京都府,akachan_jp,京都市 左京区,1
+和歌山県,akachan_jp,和歌山市,1
+千葉県,akachan_jp,松戸市,1
+富山県,akachan_jp,富山市 婦中町,1
+静岡県,akachan_jp,沼津市,1
+広島県,akachan_jp,福山市,1
+熊本県,akachan_jp,菊池郡 菊陽町,1
+青森県,akachan_jp,青森市,1
+大阪府,akachan_jp,大阪市 中央区,2
+兵庫県,akachan_jp,姫路市,1
+栃木県,akachan_jp,宇都宮市,1
+千葉県,akachan_jp,四街道市,1
+愛知県,akachan_jp,名古屋市 港区,1
+福岡県,akachan_jp,行橋市,1
+兵庫県,akachan_jp,神戸市 東灘区,1
+京都府,akachan_jp,相楽郡 精華町,1
+長野県,akachan_jp,松本市,1
+鹿児島県,akachan_jp,鹿児島市,1
+島根県,akachan_jp,出雲市,1
+愛知県,akachan_jp,日進市,1
+東京都,akachan_jp,江戸川区,1
+福岡県,akachan_jp,北九州市 小倉北区,1
+大分県,akachan_jp,大分市,1
+熊本県,akachan_jp,熊本市 南区,1
+佐賀県,akachan_jp,佐賀市,1
+広島県,akachan_jp,広島市 安佐南区,1
+神奈川県,akachan_jp,平塚市,1
+新潟県,akachan_jp,長岡市,1
+大阪府,akachan_jp,枚方市,1
+福岡県,akachan_jp,筑紫野市,1
+香川県,akachan_jp,高松市,1
+神奈川県,akachan_jp,海老名市,1
+大阪府,akachan_jp,吹田市,1
+東京都,akachan_jp,立川市,1
+茨城県,akachan_jp,ひたちなか市,1
+埼玉県,akachan_jp,富士見市,1
+大阪府,akachan_jp,和泉市,1
+神奈川県,akachan_jp,川崎市 中原区,1
+広島県,akachan_jp,広島市 南区,1
+福井県,akachan_jp,福井市,1
+千葉県,akachan_jp,船橋市,1
+千葉県,akachan_jp,市原市,1
+兵庫県,akachan_jp,神戸市 垂水区,1
+東京都,akachan_jp,足立区,1
+埼玉県,akachan_jp,上尾市,1
+埼玉県,akachan_jp,久喜市,1
+東京都,akachan_jp,八王子市,1
+神奈川県,akachan_jp,藤沢市,1
+長野県,akachan_jp,上田市,1
+愛媛県,akachan_jp,伊予郡 松前町,1
+石川県,akachan_jp,金沢市,1
+新潟県,akachan_jp,新潟市 江南区,1
+神奈川県,akachan_jp,横浜市 都筑区,1
+神奈川県,akachan_jp,川崎市 幸区,1
+福岡県,akachan_jp,福岡市 西区,1
+東京都,akachan_jp,葛飾区,1
+兵庫県,akachan_jp,姫路市 広畑区,1
+UNKNOWN,alamo,Abashiri Gun,1
+UNKNOWN,alamo,Omura Shi,1
+UNKNOWN,alamo,Kunisaki Shi,1
+UNKNOWN,alamo,Okayama Shi,1
+UNKNOWN,alamo,Takamatsu Shi,1
+UNKNOWN,alamo,Utsunomiya Shi,1
+UNKNOWN,alamo,Hakodate Shi,2
+UNKNOWN,alamo,Kumage Gun,1
+UNKNOWN,alamo,Yokohama Shi,2
+UNKNOWN,alamo,Fukuoka Shi,3
+UNKNOWN,alamo,Ishigaki Shi,1
+UNKNOWN,alamo,Kitasaku Gun,1
+UNKNOWN,alamo,Kumamoto Shi,1
+UNKNOWN,alamo,Morioka Shi,1
+UNKNOWN,alamo,Makinohara Shi,1
+UNKNOWN,alamo,Nagano Shi,1
+UNKNOWN,alamo,Minato Ku,1
+UNKNOWN,alamo,Kamikawa Gun,1
+UNKNOWN,alamo,Hokuto Shi,1
+UNKNOWN,alamo,Osaka Shi,4
+UNKNOWN,alamo,Taito Ku,2
+UNKNOWN,alamo,Aomori Shi,2
+UNKNOWN,alamo,Shibuya Ku,3
+UNKNOWN,alamo,Minamitsuru Gun,1
+UNKNOWN,alamo,Nagasaki Shi,1
+UNKNOWN,alamo,Sapporo Shi,4
+UNKNOWN,alamo,Nikko Shi,1
+UNKNOWN,alamo,Chiyoda Ku,1
+UNKNOWN,alamo,Gotemba Shi,1
+UNKNOWN,alamo,Toshima Ku,1
+UNKNOWN,alamo,Shinjuku Ku,2
+UNKNOWN,alamo,Naha Shi,2
+UNKNOWN,alamo,Chuo Ku,2
+UNKNOWN,alamo,Atami Shi,1
+UNKNOWN,alamo,Kanazawa Shi,1
+UNKNOWN,alamo,Kamimashiki Gun,1
+UNKNOWN,alamo,Kushiro Shi,1
+UNKNOWN,alamo,Chitose Shi,1
+UNKNOWN,alamo,Misawa Shi,1
+UNKNOWN,alamo,Narita-Shi,1
+UNKNOWN,alamo,Ota Ku,1
+UNKNOWN,alamo,Tokoname Shi,1
+UNKNOWN,alamo,Sennan Gun,1
+UNKNOWN,alamo,Mihara Shi,1
+UNKNOWN,alamo,Kirishima Shi,1
+UNKNOWN,alamo,Tomigusuku Shi,1
+UNKNOWN,alamo,Asahikawa Shi,1
+UNKNOWN,alamo,Kyoto Shi,1
+UNKNOWN,alamo,Nagoya Shi,1
+UNKNOWN,alamo,Odawara Shi,1
+UNKNOWN,alamo,Suzuka Shi,1
+UNKNOWN,alamo,Tachikawa Shi,1
+UNKNOWN,alamo,Yokosuka Shi,1
+UNKNOWN,alamo,Iwakuni Shi,1
+UNKNOWN,alamo,Matsumoto Shi,1
+UNKNOWN,alamo,Miyazaki Shi,1
+UNKNOWN,alamo,Toyonaka Shi,1
+UNKNOWN,alamo,Saga Shi,1
+UNKNOWN,alamo,Sendai Shi,1
+福岡県,anytime_fitness,福岡市中央区,1
+茨城県,anytime_fitness,つくば市,2
+東京都,anytime_fitness,町田市,2
+岡山県,anytime_fitness,倉敷市,1
+東京都,anytime_fitness,江東区,2
+愛知県,anytime_fitness,安城市,2
+埼玉県,anytime_fitness,入間郡毛呂山町,1
+千葉県,anytime_fitness,鎌ヶ谷市,1
+愛知県,anytime_fitness,名古屋市,18
+福岡県,anytime_fitness,福岡市,28
+福岡県,anytime_fitness,太宰府市,1
+神奈川県,anytime_fitness,横浜市,11
+福岡県,anytime_fitness,春日市,2
+福岡県,anytime_fitness,古賀市,1
+愛媛県,anytime_fitness,松山市,5
+岐阜県,anytime_fitness,岐阜市,4
+千葉県,anytime_fitness,浦安市,2
+福岡県,anytime_fitness,北九州市,8
+千葉県,anytime_fitness,志野市,1
+千葉県,anytime_fitness,千葉市中央区,1
+福岡県,anytime_fitness,大野城市,1
+千葉県,anytime_fitness,船橋市,7
+千葉県,anytime_fitness,千葉市,11
+高知県,anytime_fitness,高知市,1
+千葉県,anytime_fitness,習志野市,2
+千葉県,anytime_fitness,八千代市,2
+千葉県,anytime_fitness,市川市,4
+福岡県,anytime_fitness,糟屋郡,1
+福岡県,anytime_fitness,久留米市,3
+愛知県,anytime_fitness,小牧市,1
+大分県,anytime_fitness,大分市,2
+東京都,anytime_fitness,千代田区,2
+愛知県,anytime_fitness,刈谷市,1
+愛知県,anytime_fitness,西尾市,1
+福岡県,anytime_fitness,宗像市,2
+東京都,anytime_fitness,荒川区,1
+千葉県,anytime_fitness,佐倉市,3
+福島県,anytime_fitness,郡山市,2
+大阪府,anytime_fitness,大阪市,7
+岐阜県,anytime_fitness,美濃加茂市,1
+愛知県,anytime_fitness,日進市,1
+青森県,anytime_fitness,青森市,1
+愛知県,anytime_fitness,一宮市,2
+東京都,anytime_fitness,大田区,3
+千葉県,anytime_fitness,松戸市,5
+福岡県,anytime_fitness,糟屋郡新宮町,1
+千葉県,anytime_fitness,柏市,6
+福岡県,anytime_fitness,小郡市,1
+群馬県,anytime_fitness,みどり市,1
+千葉県,anytime_fitness,八街市,1
+群馬県,anytime_fitness,前橋市,3
+青森県,anytime_fitness,八戸市,1
+千葉県,anytime_fitness,印西市,1
+福島県,anytime_fitness,いわき市,3
+福井県,anytime_fitness,福井市,2
+千葉県,anytime_fitness,山武郡芝山町,1
+千葉県,anytime_fitness,四街道市,2
+愛知県,anytime_fitness,蒲郡市,1
+岐阜県,anytime_fitness,恵那市,1
+岐阜県,anytime_fitness,各務原市,2
+福岡県,anytime_fitness,遠賀郡水巻町,1
+岐阜県,anytime_fitness,瑞穂市,1
+愛知県,anytime_fitness,豊橋市,2
+群馬県,anytime_fitness,高崎市,2
+福島県,anytime_fitness,会津若松市,1
+福島県,anytime_fitness,二本松市,1
+群馬県,anytime_fitness,伊勢崎市,1
+愛知県,anytime_fitness,豊田市,4
+東京都,anytime_fitness,足立区,2
+千葉県,anytime_fitness,木更津市,1
+愛知県,anytime_fitness,知立市,1
+群馬県,anytime_fitness,北群馬郡吉岡町,1
+福岡県,anytime_fitness,朝倉市,1
+福岡県,anytime_fitness,中間市,1
+千葉県,anytime_fitness,野田市,1
+秋田県,anytime_fitness,秋田市,2
+福島県,anytime_fitness,福島市,1
+兵庫県,anytime_fitness,神戸市,5
+愛知県,anytime_fitness,江南市,1
+福島県,anytime_fitness,伊達市,1
+福岡県,anytime_fitness,糸島市,1
+千葉県,anytime_fitness,市原市,2
+愛知県,anytime_fitness,春日井市,3
+青森県,anytime_fitness,弘前市,1
+愛知県,anytime_fitness,尾張旭市,1
+岐阜県,anytime_fitness,不破郡垂井町,1
+愛知県,anytime_fitness,岡崎市,3
+大阪府,anytime_fitness,寝屋川市,1
+愛知県,anytime_fitness,碧南市,1
+愛知県,anytime_fitness,豊川市,2
+千葉県,anytime_fitness,流山市,1
+千葉県,anytime_fitness,旭市,1
+愛知県,anytime_fitness,北名古屋市,2
+愛知県,anytime_fitness,大府市,1
+沖縄県,anytime_fitness,那覇市,3
+千葉県,anytime_fitness,東金市,1
+福岡県,anytime_fitness,飯塚市,1
+千葉県,anytime_fitness,茂原市,1
+岐阜県,anytime_fitness,関市,1
+愛知県,anytime_fitness,知多市,1
+愛知県,anytime_fitness,半田市,1
+埼玉県,anytime_fitness,八潮市,1
+愛媛県,anytime_fitness,今治市,1
+福島県,anytime_fitness,白河市,1
+福島県,anytime_fitness,南相馬市,1
+千葉県,anytime_fitness,袖ケ浦市,1
+福岡県,anytime_fitness,京都郡苅田町,1
+東京都,anytime_fitness,台東区,1
+福岡県,anytime_fitness,八女市,1
+群馬県,anytime_fitness,館林市,1
+愛知県,anytime_fitness,津島市,1
+千葉県,anytime_fitness,我孫子市,1
+岐阜県,anytime_fitness,瑞浪市,1
+福岡県,anytime_fitness,福津市,1
+福岡県,anytime_fitness,糟屋郡粕屋町,2
+岐阜県,anytime_fitness,大垣市,1
+兵庫県,anytime_fitness,明石市,1
+奈良県,anytime_fitness,磯城郡田原本町,1
+神奈川県,anytime_fitness,綾瀬市,1
+大阪府,anytime_fitness,泉佐野市,1
+熊本県,anytime_fitness,玉名市,1
+神奈川県,anytime_fitness,横浜市青葉区,1
+岩手県,anytime_fitness,北上市,1
+東京都,anytime_fitness,中央区,2
+京都府,anytime_fitness,京都市,1
+東京都,anytime_fitness,杉並区,4
+埼玉県,anytime_fitness,新座市,2
+福岡県,anytime_fitness,那珂川市,1
+東京都,anytime_fitness,国立市,1
+東京都,anytime_fitness,練馬区,1
+神奈川県,anytime_fitness,横須賀市,1
+広島県,anytime_fitness,広島市,4
+神奈川県,anytime_fitness,高知市,1
+静岡県,anytime_fitness,沼津市,1
+東京都,anytime_fitness,墨田区,1
+宮崎県,anytime_fitness,宮崎市,1
+東京都,anytime_fitness,品川区,2
+千葉県,anytime_fitness,大網白里市,1
+東京都,anytime_fitness,新宿区,2
+千葉県,anytime_fitness,成田市,1
+神奈川県,anytime_fitness,川崎市,4
+東京都,anytime_fitness,目黒区,3
+東京都,anytime_fitness,国分寺市,1
+東京都,anytime_fitness,港区,2
+東京都,anytime_fitness,調布市,1
+東京都,anytime_fitness,葛飾区,1
+熊本県,anytime_fitness,熊本市,1
+東京都,anytime_fitness,八王子市,1
+東京都,anytime_fitness,江戸川区,1
+福岡県,anytime_fitness,直方市,1
+静岡県,anytime_fitness,御殿場市,1
+新潟県,anytime_fitness,新発田市,1
+東京都,anytime_fitness,世田谷区,2
+埼玉県,anytime_fitness,さいたま市,3
+大阪府,anytime_fitness,堺市,1
+埼玉県,anytime_fitness,朝霞市,1
+大阪府,anytime_fitness,吹田市,1
+東京都,anytime_fitness,渋谷区,2
+埼玉県,anytime_fitness,三郷市,1
+長野県,anytime_fitness,松本市,1
+富山県,anytime_fitness,砺波市,1
+愛知県,anytime_fitness,名古屋市中区,2
+兵庫県,anytime_fitness,福山市,1
+茨城県,anytime_fitness,かすみがうら市,1
+埼玉県,anytime_fitness,春日部市,1
+北海道,anytime_fitness,札幌市,2
+栃木県,anytime_fitness,栃木市,1
+大阪府,anytime_fitness,泉大津市,1
+滋賀県,anytime_fitness,大津市,1
+東京都,anytime_fitness,武蔵野市,1
+神奈川県,anytime_fitness,大和市,1
+大阪府,apple,大阪市,1
+東京都,apple,新宿区,1
+東京都,apple,渋谷区,2
+愛知県,apple,名古屋市,1
+東京都,apple,千代田区,1
+京都府,apple,京都市,1
+神奈川県,apple,川崎市,1
+東京都,apple,中央区,1
+福岡県,apple,福岡市,1
+14,ashley_furniture,Yokohama,1
+23,ashley_furniture,Miyoshi,1
+28,ashley_furniture,Kobe,1
+HOKKAIDO,audi,Sapporo,5
+HOKKAIDO,audi,Hokuto,1
+HOKKAIDO,audi,Asahikawa,1
+HOKKAIDO,audi,Kushiro,1
+HOKKAIDO,audi,Obihiro,1
+HOKKAIDO,audi,Kitami,1
+AOMORI,audi,Aomori,2
+AOMORI,audi,Hachinohe,1
+IWATE,audi,Morioka,1
+MIYAGI,audi,Sendai,3
+AKITA,audi,Akita,2
+YAMAGATA,audi,Yamagata,2
+FUKUSHIMA,audi,Koriyama,1
+IBARAKI,audi,Mito,2
+IBARAKI,audi,Tsukuba,2
+TOCHIGI,audi,Utsunomiya,2
+GUNMA,audi,Ohta,1
+GUNMA,audi,Takasaki,2
+SAITAMA,audi,Saitama,4
+SAITAMA,audi,Saitama City,2
+SAITAMA,audi,Tokorozawa,1
+SAITAMA,audi,Kawagoe,1
+TOKYO,audi,Urayasu,1
+CHIBA,audi,Ichikawa,1
+CHIBA,audi,Nagareyama,1
+CHIBA,audi,Chiba,3
+CHIBA,audi,Kashiwa,2
+TOKYO,audi,Setagaya,2
+TOKYO,audi,Suginami,1
+TOKYO,audi,Minato,1
+TOKYO,audi,Meguro,1
+TOKYO,audi,Koto,3
+TOKYO,audi,Edogawa,1
+TOKYO,audi,Toshima,1
+TOKYO,audi,Chofu,2
+TOKYO,audi,Hino,1
+TOKYO,audi,Kodaira,1
+SAITAMA,audi,Adachi,1
+SAITAMA,audi,Adachi-ku,1
+KANAGAWA,audi,Shinagawa,1
+SAITAMA,audi,Nrima,1
+SAITAMA,audi,Nerima,1
+TOKYO,audi,Tachikawa,1
+TOKYO,audi,Chiyoda,1
+KANAGAWA,audi,Yokohama,6
+TOKYO,audi,Yokohama,2
+TOKYO,audi,Yamato,1
+KANAGAWA,audi,Hiratsuka,1
+TOKYO,audi,Sagamihara,2
+TOKYO,audi,Kawasaki,1
+NIIGATA,audi,Niigata,1
+NIIGATA,audi,Nagaoka,1
+TOYAMA,audi,Toyama,2
+ISHIKAWA,audi,Kanazawa,2
+FUKUI,audi,Fukui,1
+YAMANASHI,audi,Kai,1
+NAGANO,audi,Nagano,2
+NAGANO,audi,Tomi,1
+NAGANO,audi,Shiojiri,1
+NAGANO,audi,Shioziri,1
+GIFU,audi,Gifu,2
+GIFU,audi,Takayama,1
+GIFU,audi,Ogaki,1
+GIFU,audi,Tajimi,2
+SHIZUOKA,audi,Shizuoka,3
+SHIZUOKA,audi,Hamamatsu,2
+SHIZUOKA,audi,Numazu,1
+AICHI,audi,Nagoya,6
+AICHI,audi,Okazaki,1
+AICHI,audi,Toyohashi,2
+AICHI,audi,Nagakute,1
+AICHI,audi,Ichinomiya,1
+AICHI,audi,Kariya,2
+MIE,audi,Yokkaichi,1
+MIE,audi,Tsu,1
+SHIGAPREFECTURE,audi,Otsu,1
+SHIGAPREFECTURE,audi,Hikone,1
+SHIGAPREFECTURE,audi,Ritto,1
+KYOTO,audi,Kyoto,3
+OSAKA,audi,Osaka,3
+OSAKA,audi,Hirakata,1
+OSAKA,audi,Minoh,2
+OSAKA,audi,Sakai,2
+OSAKA,audi,Ibaraki,2
+OSAKA,audi,Higashi Osaka,2
+OSAKA,audi,Izumisano,2
+HYOGO,audi,Kobe,3
+HYOGO,audi,Nishinomiya,2
+HYOGO,audi,Himeji,2
+HYOGO,audi,Takarazuka,1
+NARA,audi,Nara,2
+WAKAYAMA,audi,Wakayama,1
+SHIMANE,audi,Matsue,1
+TOTTORI,audi,Tottori,1
+TOTTORI,audi,Yonago,1
+OKAYAMA,audi,Okayama,2
+OKAYAMA,audi,Kurashiki,1
+HIROSHIMA,audi,Hiroshima,3
+HIROSHIMA,audi,Fukuyama,1
+TOKUSHIMA,audi,Tokushima,2
+KAGAWA,audi,Takamatsu,1
+KAGAWA,audi,Taktamatsu,1
+EHIME,audi,Matsuyama,1
+FUKUOKA,audi,Fukuoka,4
+FUKUOKA,audi,Fukuoka-shi,1
+FUKUOKA,audi,Kurume,1
+FUKUOKA,audi,Kitakyushu,2
+SAGAPREFECTURE,audi,Saga,1
+NAGASAKI,audi,Isahaya,2
+NAGASAKI,audi,Sasebo-shi,1
+KUMAMOTO,audi,Kumamoto,1
+OITA,audi,Oita,2
+MIYAZAKI,audi,Miyazaki,1
+KAGOSHIMA,audi,Kagoshima,1
+YAMAGUCHI,audi,Yamaguchi,1
+11,aveda,埼玉県さいたま市,1
+14,aveda,神奈川県横浜市,1
+13,aveda,東京都武蔵村山市,1
+33,aveda,岡山県岡山市,1
+35,aveda,山口県山口市,1
+27,aveda,大阪府堺市,1
+22,aveda,静岡県沼津市,1
+13,aveda,武蔵野市,1
+TOKYO,avis,Tokyo,1
+AICHI,avis,Tokoname City,1
+SHIMONOGOU,avis,Iwanuma City,1
+JYONISHIKITAKUSAPPOROCITY,avis,Sapporo,1
+FUKUOKA,avis,Fukuoka,5
+NAGASAKI,avis,Nagasaki,1
+OITA,avis,Oita,2
+TOKYONARITA,avis,Tokyo Narita,1
+OMURA,avis,Omura,1
+MIYAZAKI,avis,Miyazaki,1
+MIYAZAKICITY,avis,Miyazaki City,1
+HAKATAKU,avis,Fukuoka,3
+KIKUCHIGUN,avis,Kikuchi-Gun,1
+KOKURAMINAMIKU,avis,Kitakyushu,1
+KITAKYUSHU,avis,Kitakyushu,1
+KAGOSHIMA,avis,Kagoshima,1
+KIRISHIMACITY,avis,Kirishima City,1
+KUMAMOTO,avis,Kumamoto,1
+SAGACITY,avis,Saga City,2
+CHITOSECITYHOKKAIDO,avis,Chitose City,1
+IZUMISANOCITY,avis,Izumisano city,1
+TOYONAKACITY,avis,Osaka,1
+TOMIGUSUKUCITY,avis,Okinawa,1
+HIGASHIYODOGAWAKU,avis,Osaka,1
+UNKNOWN,birkenstock,博多区 福岡市 福岡市,1
+UNKNOWN,birkenstock, 鳥栖市 鳥栖市,1
+UNKNOWN,birkenstock, 豊見城市 豊見城市,1
+UNKNOWN,birkenstock,札幌市中央区,1
+UNKNOWN,birkenstock,北区 大阪市 大阪市,1
+UNKNOWN,birkenstock, 泉佐野市 泉佐野市,1
+UNKNOWN,birkenstock,土岐ヶ丘 土岐市 土岐市,1
+UNKNOWN,birkenstock,玉川 世田谷区 世田谷区,1
+東京都,birkenstock,渋谷区,1
+UNKNOWN,birkenstock,辻堂神台 藤沢市 藤沢市,1
+UNKNOWN,bmw_group,"Suminoe-Ku, Osaka City",1
+KANAGAWA,bmw_group,"Yokohama-city,",9
+SAITAMA,bmw_group,"Koshigaya-city,",2
+OKINAWA,bmw_group,"Urasoe-city,",1
+TOKYO,bmw_group,Hachioji-city,1
+AICHI,bmw_group,"Okazaki-city,",4
+OSAKA,bmw_group,"Sakai-city,",2
+AOMORI,bmw_group,"Hachinohe-city,",2
+NAGASAKI,bmw_group,"Isahaya-city,",1
+NAGASAKI,bmw_group,"Sasebo-city,",1
+HOKKAIDO,bmw_group,"Sapporo-city,",8
+KANAGAWA,bmw_group,"Atsugi-city,",2
+KANAGAWA,bmw_group,Odawara-city,1
+TOYAMA,bmw_group,Toyama-City,1
+KAGAWA,bmw_group,Takamatsu-city,1
+AICHI,bmw_group,"Ichinomiya-city,",3
+TOKYO,bmw_group,"Toshima-ku,",1
+TOKYO,bmw_group,"Suginami-ku,",3
+AICHI,bmw_group,"Nagoya-city,",13
+AICHI,bmw_group,"Komaki-city,",2
+AICHI,bmw_group,"Kasugai-city,",2
+KYOTO,bmw_group,"Joyo-city,",1
+KYOTO,bmw_group,"Kyoto-city,",4
+OSAKA,bmw_group,Hirakata-city,2
+HIROSHIMA,bmw_group,"Hiroshima-city,",4
+AKITA,bmw_group,"Akita-City,",1
+SAITAMA,bmw_group,"Kawagoe-city,",2
+SAITAMA,bmw_group,Saitama-city,2
+KOCHI,bmw_group,"Kochi-city,",2
+IBARAKI,bmw_group,Moriya-city,2
+CHIBA,bmw_group,Chiba-shi,1
+CHIBA,bmw_group,Chiba-city,3
+IBARAKI,bmw_group,Mito-city,2
+KANAGAWA,bmw_group,"Sagamihara-city,",4
+YAMANASHI,bmw_group,"Kofu-city,",2
+TOTTORI,bmw_group,"Yonago-city,",1
+TOTTORI,bmw_group,"Tottori-city,",1
+TOKYO,bmw_group,Adachi-ku,1
+MIYAGI,bmw_group,Sendai-shi,1
+MIYAGI,bmw_group,"Sendai-city,",5
+SHIZUOKA,bmw_group,"Hamamatsu-city,",7
+OKAYAMA,bmw_group,"Okayama-city,",2
+CHIBA,bmw_group,Matsudo-city,1
+TOKYO,bmw_group,Koto-ku,4
+TOKYO,bmw_group,Minato-ku,3
+TOKYO,bmw_group,Meguro-ku,1
+AKITA,bmw_group,Akita City,1
+TOKYO,bmw_group,"Machida-city,",3
+TOCHIGI,bmw_group,"Nasu-Shiobaha-city,",1
+HYOGO,bmw_group,"Kakogawa-city,",1
+AOMORI,bmw_group,Aomori-city,1
+OSAKA,bmw_group,"Osaka-city,",8
+FUKUOKA,bmw_group,"Kitakyusyu-city,",1
+SHIGA,bmw_group,Otsu-city,1
+KYOTO,bmw_group,Kyoto-city,2
+HOKKAIDO,bmw_group,Hakodate-city,1
+OSAKA,bmw_group,Sakai-city,2
+KANAGAWA,bmw_group,"Kawasaki-city,",3
+AICHI,bmw_group,Toyohashi-city,1
+TOKYO,bmw_group,"Higashiyamato-city,",1
+EHIME,bmw_group,"Matsuyama-city,",3
+HOKKAIDO,bmw_group,"Kushiro-city,",1
+HOKKAIDO,bmw_group,"Obihiro-city,",1
+AICHI,bmw_group,"Nagakute-city,",2
+GIFU,bmw_group,"Ogaki-city,",1
+KANAGAWA,bmw_group,"Fujisawa-city,",3
+SHIZUOKA,bmw_group,Shizuoka-shi,1
+NIIGATA,bmw_group,Nagaoka City,1
+AICHI,bmw_group,"Kariya-city,",2
+AOMORI,bmw_group,"Aomori-city,",1
+NIIGATA,bmw_group,"Niigata-city,",3
+HOKKAIDO,bmw_group,"Kitami-city,",1
+KANAGAWA,bmw_group,"Hiratsuka-city,",2
+CHIBA,bmw_group,Ichikawa-city,2
+CHIBA,bmw_group,Yachiyo-City,1
+KAGOSHIMA,bmw_group,Kagoshima-city,2
+GUNMA,bmw_group,Ora-gun,1
+SHIZUOKA,bmw_group,"Numazu-city,",1
+HIROSHIMA,bmw_group,"Fukuyama-city,",1
+ISHIKAWA,bmw_group,"Nonoichi-city,",3
+AKITA,bmw_group,"Akita-city,",2
+SAITAMA,bmw_group,"Warabi-city,",1
+MIE,bmw_group,"Suzuka-city,",1
+MIE,bmw_group,"Tsu-city,",2
+YAMAGATA,bmw_group,Tsuruoka-city,1
+NAGANO,bmw_group,"Nagano-city,",2
+IBARAKI,bmw_group,"Tsukuba-city,",1
+IWATE,bmw_group,"Mizusawa-ku, Ousyu-city,",1
+TOKYO,bmw_group,"Fuchu-city,",2
+KUMAMOTO,bmw_group,"Kumamoto-city,",4
+SHIGA,bmw_group,"Otsu-city,",2
+SHIMANE,bmw_group,"Matsue-city,",1
+TOKYO,bmw_group,"Edogawa-ku,",1
+SAGA,bmw_group,"Tosu-city,",1
+NARA,bmw_group,"Nara-city,",2
+GUNMA,bmw_group,Maebashi-city,1
+CHIBA,bmw_group,Funabashi-city,1
+GIFU,bmw_group,"Gifu-city,",2
+TOKYO,bmw_group,Chuo-ku,1
+MIE,bmw_group,"Yokkaichi-city,",2
+FUKUOKA,bmw_group,"Fukuoka-city,",7
+GUNMA,bmw_group,"Takasaki-city,",3
+HOKKAIDO,bmw_group,Sapporo-city,2
+TOCHIGI,bmw_group,"Oyama-city,",2
+TOCHIGI,bmw_group,"Kanuma-city,",1
+HYOGO,bmw_group,"Kobe-city,",8
+HYOGO,bmw_group,"Himeji-city,",3
+OSAKA,bmw_group,"Suita-city,",2
+OSAKA,bmw_group,"Osaka city,",1
+FUKUOKA,bmw_group,"Kokurakita-ku, Kitakyushu-city,",1
+FUKUOKA,bmw_group,"Kitakyushu-city,",1
+MIE,bmw_group,Suzuka-shi,1
+WAKAYAMA,bmw_group,"Wakayama-city,",1
+SHIGA,bmw_group,"Ritto-city,",2
+KAGOSHIMA,bmw_group,"Kagoshima-city,",2
+CHIBA,bmw_group,"Ichikawa-city,",1
+TOKYO,bmw_group,"Minato-ku,",1
+TOKYO,bmw_group,Shinagawa-ku,1
+TOCHIGI,bmw_group,"Utsunomiya-city,",3
+OSAKA,bmw_group,"Kadoma-city,",1
+OSAKA,bmw_group,"Minoo-city,",3
+HYOGO,bmw_group,"Takarazuka-city,",2
+YAMAGUCHI,bmw_group,"Shunan-city,",1
+YAMAGUCHI,bmw_group,Yamaguchi-city,1
+KANAGAWA,bmw_group,Yokohama-shi,1
+CHIBA,bmw_group,Nagareyama-city,1
+HOKKAIDO,bmw_group,"Asahikawa-city,",1
+AICHI,bmw_group,Toyota-city,1
+IWATE,bmw_group,Morioka-city,1
+IBARAKI,bmw_group,Tsuchiura-city,1
+NAGANO,bmw_group,Nagano-shi,1
+GIFU,bmw_group,Gifu-city,1
+UNKNOWN,bmw_group,Tokyo,1
+OSAKA,bmw_group,Senboku-gun,1
+KANAGAWA,bmw_group,Fujisawa city,1
+TOKUSHIMA,bmw_group,Tokushima-city,1
+OKAYAMA,bmw_group,"Kurashiki-city,",1
+YAMAGUCHI,bmw_group,"Shimonoseki-city,",1
+SAITAMA,bmw_group,"Saitama-city,",2
+SAITAMA,bmw_group,"Tsurugashima-city,",1
+SAITAMA,bmw_group,"Kumagaya-city,",2
+IWATE,bmw_group,"Morioka-city,",2
+TOKYO,bmw_group,"Hachioji-city,",1
+OKAYAMA,bmw_group,Okayama-city,1
+AICHIKEN,bmw_group,Nagoya-shi,1
+SHIZUOKA,bmw_group,"Fuji-city,",2
+SHIZUOKA,bmw_group,"Shizuoka-city,",3
+YAMAGUCHI,bmw_group,"Yamaguchi-city,",1
+HIROSHIMA,bmw_group,Hiroshima-city,2
+OKAYAMA,bmw_group,"Okayama-shi,",1
+SAITAMA,bmw_group,"Tokorozawa-city,",1
+SAITAMA,bmw_group,"Toda-city,",1
+SAITAMA,bmw_group,Kawaguchi-city,2
+NAGANO,bmw_group,"Matsumoto-city,",2
+CHIBA,bmw_group,Narita-city,1
+TOKYO,bmw_group,"Kunitachi-city,",2
+MIYAGI,bmw_group,"Taihaku-ku, Sendai-city",1
+OSAKA,bmw_group,"Higashi-Osaka-city,",1
+OSAKA,bmw_group,"Higashiosaka-city,",1
+TOKUSHIMA,bmw_group,"Tokushima-city,",2
+CHIBA,bmw_group,"Funabashi-city,",1
+TOKYO,bmw_group,Ota-ku,3
+OITA,bmw_group,"Oita-city,",2
+OSAKA,bmw_group,"Takatsuki-city,",1
+OSAKA,bmw_group,Osaka-city,1
+FUKUOKA,bmw_group,"Kurume-city,",3
+TOKYO,bmw_group,Shinagwa-ku,1
+TOKYO,bmw_group,Setagaya-ku,2
+TOKYO,bmw_group,"Setagaya-ku,",4
+OITA,bmw_group,Oita-city,1
+FUKUOKA,bmw_group,Fukuoka-shi,1
+TOKYO,bmw_group,Kita-ku,1
+MIE,bmw_group,"Ise-city,",1
+CHIBA,bmw_group,"Chiba-city,",1
+TOKYO,bmw_group,"Komae-city,",1
+SHIGA,bmw_group,"Higashi-Omi-city,",1
+ISHIKAWA,bmw_group,Nonoichi-shi,1
+KANAGAWA,bmw_group,Yokohama-city,2
+TOKYO,bmw_group,"Higashikurume-city,",1
+TOKYO,bmw_group,"Kodaira-city,",1
+AOMORI,bmw_group,"Hirosaki-city,",1
+NIIGATA,bmw_group,"Nagaoka-city,",1
+TOKYO,bmw_group,"Nerima-ku,",2
+KANAGAWA,bmw_group,Hiratsuka-city,1
+KANAGAWA,bmw_group,"Yamato-city,",1
+KANAGAWA,bmw_group,"Yakohama-city,",1
+HYOGO,bmw_group,"Nishinomiya-city,",3
+MIYAZAKI,bmw_group,"Miyazaki-city,",2
+GIFU,bmw_group,Ogaki-city,1
+SHIZUOKA,bmw_group,"Yaizu-city,",1
+OKAYAMA,bmw_group,"Okayama-City,",1
+YAMAGUCHI,bmw_group,"Kudamatsu-city,",1
+FUKUOKA,bmw_group,Kita-kyushu-city,1
+SAITAMA,bmw_group,"Kawaguchi-city,",1
+YAMAGATA,bmw_group,"Yamagata-city,",1
+CHIBA,bmw_group,"Narita-city,",1
+EHIME,bmw_group,Matsuyama-city,1
+HYOGO,bmw_group,"Amagasaki-city,",2
+FUKUSIMA,bmw_group,"Iwaki-city,",1
+TOKYO,bmw_group,Shibuya-ku,1
+TOYAMA,bmw_group,Toyama-city,1
+GUNMA,bmw_group,"Maebashi-city,",1
+HOKKAIDO,bmw_group,Asahikawa-city,1
+AICHI,bmw_group,Nagoya-shi,1
+GUNMA,bmw_group,"Ota-city,",1
+TOKYO,bmw_group,"Chofu-city,",1
+HYOGO,bmw_group,Amagasaki-city,1
+FUKUSHIMA,bmw_group,"Koriyama-city,",1
+JAPAN,bmw_group,"Nishi-ku, Osaka City",1
+SHIZUOKA,bmw_group,Hamamatsu-city,1
+JAPAN,bmw_group,Tokyo,1
+SAITAMA,bmw_group,"Ageo-city,",1
+FUKUOKA,bmw_group,Fukuoka-city,2
+TOKYO,bmw_group,"Higashi-Kurume-city,",1
+NIIGATA,bmw_group,"Jyoetsu-city,",1
+TOKYO,bmw_group,Toshima-Ku,1
+GIFU,bmw_group,"Tajimi-city,",2
+GIFU,bmw_group,"Hashima-gun,",1
+OKINAWA,bmw_group,Naha-city,1
+TOYAMA,bmw_group,"Toyama-city,",2
+FUKUI,bmw_group,"Fukui-city,",1
+KUMAMOTO,bmw_group,"Kikuchi-gun,",1
+SAITAMA,bmw_group,Koshigaya-city,1
+SAGA,bmw_group,"Saga-city,",1
+SHIZUOKA,bmw_group,"Sunto-gun,",1
+CHIBA,bmw_group,Urayasu-city,1
+TOKYO,bmw_group,"Ota-ku,",1
+HYOGO,bmw_group,Kobe-city,1
+HYOGO,bmw_group,"Ashiya-city,",1
+NAGASAKI,bmw_group,Nishi-Sonogi-gun,1
+AICHI,bmw_group,Nagoya-City,1
+NAGANO,bmw_group,Shiojiri-city,1
+AICHI,bmw_group,"Owariasahi-city,",1
+TOKYO,bmw_group,Suginami-ku,1
+IBARAKI,bmw_group,"Tsuchiura-city,",1
+KAGAWA,bmw_group,"Takamatsu-city,",2
+TOKYO,bmw_group,"Adachi-ku,",1
+AICHI,bmw_group,Nagoya-city,1
+AICHI,bmw_group,"Toyohashi-city,",1
+CHIBA,bmw_group,Kashiwa-city,1
+KANAGAWA,bmw_group,"Kanagawa-ku, Yokohama-City,",1
+SAITAMA,bmw_group,"Kasukabe-city,",1
+GUNMA,bmw_group,Takasaki-city,1
+NIIGATA,bmw_group,Niigata-city,1
+NIIGATA,bmw_group,Jyoetsu-city,1
+OSAKA,bmw_group,"Kaizuka-city,",1
+HYOGO,bmw_group,Himeji-city,1
+FUKUSHIMA,bmw_group,Fukushima-city,1
+TOKYO,bmw_group,"Shinjuku-ku,",1
+OSAKA,bmw_group,Ibaraki-shi,1
+KANAGAWA,bmw_group,"Yokosuka-city,",1
+TOKYO,bmw_group,"Nakano-ku,",1
+FUKUOKA,bmw_group,Kasuya-gun,1
+SAITAMA,bmw_group,Kawagoe-shi,1
+TOKYO,bmw_group,Fuchu-city,1
+SAITAMA,bmw_group,"Soka-city,",1
+NAGANO,bmw_group,"Ueda-city,",1
+TOCHIGI,bmw_group,Utsunomiya-shi,1
+AICHI,bmw_group,"Naka-ku, Nagoya-city,",1
+KANAGAWA,bmw_group,Sagamihara-shi,1
+UNKNOWN,bmw_group,Fukuoka,1
+TOKYO,bmw_group,"Siginami-ku,",1
+TOKYO,botteg_aveneta,Tokyo,15
+EHIME,botteg_aveneta,Matsuyama,1
+OSAKA,botteg_aveneta,Osaka,8
+NIIGATA,botteg_aveneta,Niigata,1
+KUMAMOTO,botteg_aveneta,Kumamoto,1
+AICHI,botteg_aveneta,Nagoya,4
+HIROSHIMA,botteg_aveneta,Hiroshima,1
+KANAGAWA,botteg_aveneta,Yokohama,3
+KYOTO,botteg_aveneta,Kyoto,3
+HOKKAIDO,botteg_aveneta,Sapporo,1
+CHIBA,botteg_aveneta,Chiba,1
+FUKUOKA,botteg_aveneta,Fukuoka,1
+FUKUOKA,botteg_aveneta,Kitakyushu,1
+ISHIKAWA,botteg_aveneta,Kanazawa,1
+KAGAWA,botteg_aveneta,Takamatsu,1
+HYOGO,botteg_aveneta,Kobe,2
+MIYAGI,botteg_aveneta,Sendai,1
+TOKYO,brewdog,unknown,1
+UNKNOWN,carhartt_wip,Fukuoka,1
+UNKNOWN,carhartt_wip,Hiroshima,1
+UNKNOWN,carhartt_wip,Kyoto,1
+UNKNOWN,carhartt_wip,Aichi,1
+UNKNOWN,carhartt_wip,Osaka,1
+UNKNOWN,carhartt_wip,"Sapporo Chuo-ku, Hokkaido",1
+UNKNOWN,carhartt_wip,Tokyo,2
+UNKNOWN,carhartt_wip,"Yokohama, Kanagawa",1
+UNKNOWN,costa_coffee,unknown,110
+佐賀県,crocs_eu,鳥栖市,1
+北海道,crocs_eu,北海道,1
+UNKNOWN,cycle_spot_jp,unknown,89
+UNKNOWN,deloitte,unknown,39
+UNKNOWN,dominos_pizza_jp,unknown,1016
+UNKNOWN,ecco,Hachioji-shi,1
+UNKNOWN,ecco,"Kobe-shi, Chuo-ku",1
+UNKNOWN,ecco,Tomigusuku-shi,1
+UNKNOWN,ecco,Chiyoda-ku,1
+UNKNOWN,ecco,"Chiba-shi, Chuo-ku",2
+UNKNOWN,ecco,"Kobe-shi, Kita-ku",1
+UNKNOWN,ecco,Adachi-ku,1
+UNKNOWN,ecco,Ebina-shi,1
+UNKNOWN,ecco,Chuo-ku,2
+UNKNOWN,ecco,"Kawaki-shi, Kawasaki-ku",1
+UNKNOWN,ecco,Shibuya-ku,2
+UNKNOWN,ecco,"Yokohama-shi, Aoba-ku",1
+UNKNOWN,ecco,Inba-gun,1
+UNKNOWN,ecco,Musashino-shi,1
+UNKNOWN,ecco,Nishinomiya-shi,1
+UNKNOWN,ecco,Toki-shi,1
+UNKNOWN,ecco,"Yokohama-shi, Tsuzuki-ku",1
+UNKNOWN,ecco,"Saitama-shi, Urawa-ku",1
+UNKNOWN,ecco,Meguro-ku,1
+UNKNOWN,ecco,"Minato-ku, Tokyo",1
+UNKNOWN,ecco,Sano-shi,1
+UNKNOWN,ecco,Gotemba-shi,1
+UNKNOWN,ecco,Izumisano-shi,1
+UNKNOWN,ecco,"Yokohama-shi, Naka-ku",1
+UNKNOWN,ecco,Nagareyama-shi,1
+UNKNOWN,enterprise,Matsumoto Shi,1
+UNKNOWN,enterprise,Abashiri Gun,1
+UNKNOWN,enterprise,Miyazaki Shi,1
+UNKNOWN,enterprise,Omura Shi,1
+UNKNOWN,enterprise,Okayama Shi,1
+UNKNOWN,enterprise,Toyonaka Shi,1
+UNKNOWN,enterprise,Saga Shi,1
+UNKNOWN,enterprise,Sendai Shi,1
+UNKNOWN,enterprise,Takamatsu Shi,1
+UNKNOWN,enterprise,Utsunomiya Shi,1
+UNKNOWN,enterprise,Kumage Gun,1
+UNKNOWN,enterprise,Hakodate Shi,2
+UNKNOWN,enterprise,Yokohama Shi,2
+UNKNOWN,enterprise,Fukuoka Shi,3
+UNKNOWN,enterprise,Kumamoto Shi,1
+UNKNOWN,enterprise,Morioka Shi,1
+UNKNOWN,enterprise,Makinohara Shi,1
+UNKNOWN,enterprise,Kamikawa Gun,1
+UNKNOWN,enterprise,Minato Ku,1
+UNKNOWN,enterprise,Hokuto Shi,1
+UNKNOWN,enterprise,Taito Ku,2
+UNKNOWN,enterprise,Aomori Shi,2
+UNKNOWN,enterprise,Shibuya Ku,3
+UNKNOWN,enterprise,Minamitsuru Gun,1
+UNKNOWN,enterprise,Osaka Shi,4
+UNKNOWN,enterprise,Sapporo Shi,4
+UNKNOWN,enterprise,Chiyoda Ku,1
+UNKNOWN,enterprise,Kunisaki Shi,1
+UNKNOWN,enterprise,Ishigaki Shi,1
+UNKNOWN,enterprise,Kitasaku Gun,1
+UNKNOWN,enterprise,Nagano Shi,1
+UNKNOWN,enterprise,Nagoya Shi,2
+UNKNOWN,enterprise,Nagasaki Shi,1
+UNKNOWN,enterprise,Nikko Shi,1
+UNKNOWN,enterprise,Gotemba Shi,1
+UNKNOWN,enterprise,Toshima Ku,1
+UNKNOWN,enterprise,Shinjuku Ku,2
+UNKNOWN,enterprise,Naha Shi,2
+UNKNOWN,enterprise,Chuo Ku,2
+UNKNOWN,enterprise,Atami Shi,1
+UNKNOWN,enterprise,Kanazawa Shi,1
+UNKNOWN,enterprise,Kamimashiki Gun,1
+UNKNOWN,enterprise,Kushrio Shi,1
+UNKNOWN,enterprise,Tachikawa Shi,1
+UNKNOWN,enterprise,Yokosuka Shi,1
+UNKNOWN,enterprise,Narita Shi,1
+UNKNOWN,enterprise,Chitose Shi,1
+UNKNOWN,enterprise,Misawa Shi,1
+UNKNOWN,enterprise,Ota Ku,1
+UNKNOWN,enterprise,Tokoname Shi,1
+UNKNOWN,enterprise,Sennan Gun,1
+UNKNOWN,enterprise,Mihara Shi,1
+UNKNOWN,enterprise,Kirishima Shi,1
+UNKNOWN,enterprise,Tomigusuku Shi,1
+UNKNOWN,enterprise,Asahikawa Shi,1
+UNKNOWN,enterprise,Kyoto Shi,1
+UNKNOWN,enterprise,Odawara Shi,1
+UNKNOWN,enterprise,Suzuka Shi,1
+UNKNOWN,enterprise,Iwakuni Shi,1
+HK,ernst_young,Hokkaido,1
+AC,ernst_young,aichi,1
+OK,ernst_young,okinawa,2
+UNKNOWN,ernst_young,Chiba,1
+UNKNOWN,ernst_young,Fukuoka,6
+UNKNOWN,ernst_young,Fukushima,1
+UNKNOWN,ernst_young,Hiroshima,1
+UNKNOWN,ernst_young,Kanazawa,1
+UNKNOWN,ernst_young,Kumamoto,1
+UNKNOWN,ernst_young,Kyoto,1
+UNKNOWN,ernst_young,Matsumoto,1
+UNKNOWN,ernst_young,Matsuyama,1
+UNKNOWN,ernst_young,Miyazaki,1
+UNKNOWN,ernst_young,Nagano,1
+UNKNOWN,ernst_young,Nagaoka,1
+UNKNOWN,ernst_young,Nagoya,2
+UNKNOWN,ernst_young,Naha,2
+UNKNOWN,ernst_young,Niigata,1
+UNKNOWN,ernst_young,Omiya,1
+UNKNOWN,ernst_young,Osaka,5
+UNKNOWN,ernst_young,Sapporo,1
+UNKNOWN,ernst_young,Sendai,1
+UNKNOWN,ernst_young,Shizuoka,2
+UNKNOWN,ernst_young,Takamatsu,1
+UNKNOWN,ernst_young,Takasaki,1
+UNKNOWN,ernst_young,Tokyo,18
+UNKNOWN,ernst_young,Toyama,1
+UNKNOWN,ernst_young,Yamagata,1
+UNKNOWN,ernst_young,Yokohama,1
+UNKNOWN,ford,Tokyo,2
+UNKNOWN,ford,Tokyo 106-0044,2
+UNKNOWN,ford,Ota-ku,4
+東京都,fossil,渋谷区,1
+埼玉県,fossil,入間市,1
+三重県,fossil,桑名市,1
+岐阜県,fossil,土岐市,1
+滋賀県,fossil,蒲生郡,1
+大阪市,fossil,大阪府,1
+UNKNOWN,gbfs,unknown,12385
+UNKNOWN,geox,SHINJUKU,1
+UNKNOWN,goldsgym,Fukuoka City,1
+UNKNOWN,goldsgym,"Urayasu-city, Chiba",1
+UNKNOWN,goldsgym,"Narashino-city, Chiba",1
+UNKNOWN,goldsgym,"Shibuya-ku, Tokyo",3
+UNKNOWN,goldsgym,"Totsuka-ku, Yokohama-city",1
+UNKNOWN,goldsgym,Tokyo,4
+UNKNOWN,goldsgym,"Takatsuki-city, Osaka",1
+UNKNOWN,goldsgym,Matsukicho,1
+UNKNOWN,goldsgym,"Gotenba-city, Shizuoka",1
+UNKNOWN,goldsgym,"Takasaki-city, Gunma",1
+UNKNOWN,goldsgym,Chiba,1
+UNKNOWN,goldsgym,Machida-shi,1
+UNKNOWN,goldsgym,"Yoshikawa-city, Saitama",1
+UNKNOWN,goldsgym,Osaka,1
+UNKNOWN,goldsgym,Hyogo,1
+UNKNOWN,goldsgym,Ashikaga-city,1
+UNKNOWN,goldsgym,Narita-city,1
+UNKNOWN,goldsgym,Nakano-ku,1
+UNKNOWN,goldsgym,"Niihama-city, Ehime",1
+UNKNOWN,goldsgym,"Utsunomiya-city, Tochigi",1
+UNKNOWN,goldsgym,Osaka-city,1
+UNKNOWN,goldsgym,"Saitama-city, Saitama",2
+UNKNOWN,goldsgym,"Ritto-city, Shiga",1
+UNKNOWN,goldsgym,"Adachi-ku, Tokyo",1
+UNKNOWN,goldsgym,"Kyoto-city, Kyoto",1
+UNKNOWN,goldsgym,"Naka-ku, Nagoya, Aichi",1
+UNKNOWN,goldsgym,"Osaka-city, Osaka",1
+UNKNOWN,goldsgym,"Atsugi-city, Kanagawa",1
+UNKNOWN,goldsgym,"Fujisawa-city, Kanagawa",1
+UNKNOWN,goldsgym,"Sendai-city, Miyagi",1
+UNKNOWN,goldsgym,"Yokosuka-city, Kanagawa",1
+UNKNOWN,goldsgym,"Ota-ku, Tokyo",1
+UNKNOWN,goldsgym,"Nakano-ku, Tokyo",1
+UNKNOWN,goldsgym,"Chiba-city, Chiba",1
+UNKNOWN,goldsgym,"Yokohama-city, Kanagawa",1
+UNKNOWN,goldsgym,"Shinagawa-ku, Tokyo",1
+UNKNOWN,goldsgym,"Kobe-city, Hyogo",1
+UNKNOWN,goldsgym,"Toshima-ku, Tokyo",1
+UNKNOWN,goldsgym,"Koto-ku, Tokyo",1
+UNKNOWN,goldsgym,"Ichikawa-city, Chiba",1
+TOKYO,google_offices,unknown,2
+TÔKYÔTOKYO,g_star_raw,TOKYO,4
+ÔSAKAOSAKA,g_star_raw,OSAKA,3
+SAITAMA,g_star_raw,MISATO,1
+AITIAICHI,g_star_raw,NAGOYA,2
+KANAGAWA,g_star_raw,YOKOHAMA,1
+HYÔGOHYOGO,g_star_raw,KOBE,1
+UNKNOWN,g_star_raw,SAPPORO,1
+HUKUOKAFUKUOKA,g_star_raw,FUKUOKA,1
+UNKNOWN,g_star_raw,KYOTO,1
+UNKNOWN,g_star_raw,SUITA,1
+UNKNOWN,hardrock,Osaka,1
+UNKNOWN,hardrock,Tokyo,2
+UNKNOWN,hardrock,Yokohama,1
+47,hilton,unknown,3
+12,hilton,unknown,2
+13,hilton,unknown,2
+26,hilton,unknown,1
+27,hilton,unknown,1
+UNKNOWN,hm,Unknown,1
+UNKNOWN,hm,Tokyo,12
+UNKNOWN,hm,Yokohama,3
+UNKNOWN,hm,Saitama,5
+UNKNOWN,hm,Hyogo,2
+UNKNOWN,hm,Fujisawa,1
+UNKNOWN,hm,Fukuoka,2
+UNKNOWN,hm,Gifu,4
+UNKNOWN,hm,Ibaraki,1
+UNKNOWN,hm,Hiroshima,4
+UNKNOWN,hm,Osaka,8
+UNKNOWN,hm,Shizuoka,1
+UNKNOWN,hm,Tsukuba,1
+UNKNOWN,hm,Kobe,1
+UNKNOWN,hm,Sapporo,2
+UNKNOWN,hm,Utsunomiya,1
+UNKNOWN,hm,Nigata,2
+UNKNOWN,hm,Kagoshima,1
+UNKNOWN,hm,Okayama,1
+UNKNOWN,hm,Mie,1
+UNKNOWN,hm,Ichihara,1
+UNKNOWN,hm,Hamamatsu,2
+UNKNOWN,hm,Chiba,6
+UNKNOWN,hm,Oita,2
+UNKNOWN,hm,Tendo,1
+UNKNOWN,hm,Wakayama,1
+UNKNOWN,hm,Nagoya,3
+UNKNOWN,hm,Shiga,1
+UNKNOWN,hm,Kyoto,1
+UNKNOWN,hm,Izumi,1
+UNKNOWN,hm,Ishikawa,2
+UNKNOWN,hm,Nara,1
+UNKNOWN,hm,Tokoname,1
+UNKNOWN,hm,Morioka,1
+UNKNOWN,hm,Imabari,1
+UNKNOWN,hm,Izumo,1
+UNKNOWN,hm,Hiratsuka,1
+UNKNOWN,hm,Itami,1
+UNKNOWN,hm,Komatsu,1
+UNKNOWN,hm,Yamanashi,1
+UNKNOWN,hm,Tokushima,1
+UNKNOWN,hm,Okinawa,3
+UNKNOWN,hm,Ayauta,1
+UNKNOWN,hm,Suzuka,1
+UNKNOWN,hm,Iwata,1
+UNKNOWN,hm,Ebina,1
+UNKNOWN,hm,Nagano,2
+UNKNOWN,hm,Zama,1
+UNKNOWN,hm,Iwaki,1
+UNKNOWN,hm,Miyagi,3
+UNKNOWN,hm,Miyazaki,1
+UNKNOWN,hm,Tsu,1
+UNKNOWN,hm,Funabashi,1
+UNKNOWN,hm,Kumamoto,2
+UNKNOWN,hm,Shimonoseki,1
+UNKNOWN,hm,Odawara,1
+UNKNOWN,hm,Kawaguchi,1
+UNKNOWN,hm,Sagamihara,1
+UNKNOWN,hm,Numazu,1
+UNKNOWN,hm,Suita,1
+UNKNOWN,hm,Matsudo,1
+UNKNOWN,hm,Toyama,1
+UNKNOWN,hm,Takasaki,1
+UNKNOWN,hm,Takaoka,1
+UNKNOWN,hm,Tottori,2
+UNKNOWN,hm,Kochi,1
+UNKNOWN,hm,Akita,1
+UNKNOWN,hm,Yokosuka,1
+UNKNOWN,hm,Kishiwada,1
+UNKNOWN,hm,Aichi,2
+UNKNOWN,hm,Uki,1
+UNKNOWN,hm,Ikebukuro,1
+UNKNOWN,hm,Takamatsu,1
+MIYAGI,hm,Ishinomaki,1
+OSAKA,hooters,unknown,1
+AICHI,hooters,unknown,1
+TOKYO,hooters,unknown,1
+01,hugo_boss,Hokkaido,2
+45,hugo_boss,Miyagi,1
+17,hugo_boss,Ishikawa,1
+40,hugo_boss,Fukuoka,3
+40,hugo_boss,"Kitakyushu City, Fukuoka",1
+09,hugo_boss,Tochigi,2
+41,hugo_boss,Saga,1
+20,hugo_boss,Nagano,1
+33,hugo_boss,Okayama,2
+28,hugo_boss,Hyogo,3
+26,hugo_boss,Kyoto,4
+39,hugo_boss,Kagawa,1
+38,hugo_boss,Ehime,1
+11,hugo_boss,Saitama,3
+25,hugo_boss,Shiga,1
+28,hugo_boss,Kobe,1
+21,hugo_boss,Gifu,1
+27,hugo_boss,Osaka,10
+23,hugo_boss,Aichi,4
+23,hugo_boss,Nagoya,2
+43,hugo_boss,Kumamoto,1
+24,hugo_boss,Mie,1
+11,hugo_boss,Tokyo,1
+13,hugo_boss,Tokyo,25
+22,hugo_boss,Shizuoka,2
+12,hugo_boss,Chiba,3
+14,hugo_boss,Kanagawa,5
+47,hugo_boss,Okinawa,1
+UNKNOWN,ikea,宮城県仙台市,1
+UNKNOWN,ikea,群馬県前橋市,1
+UNKNOWN,ikea,埼玉県三郷市,1
+UNKNOWN,ikea,千葉県船橋市,1
+UNKNOWN,ikea,東京都立川市,1
+UNKNOWN,ikea,東京都渋谷区,2
+UNKNOWN,ikea,東京都新宿区,1
+UNKNOWN,ikea,神奈川県横浜市,1
+UNKNOWN,ikea,愛知県長久手市,1
+UNKNOWN,ikea,大阪府大阪市,1
+UNKNOWN,ikea,兵庫県神戸市,1
+UNKNOWN,ikea,福岡県,1
+JAPAN,jll,Fukuoka,1
+TOKYO,jll,unknown,1
+ASIAPACIFIC,jll,Japan,1
+JAPAN,jll,Tokyo,5
+JAPAN,jll,Osaka,1
+京都府,kfc_jp,京都市北区,2
+滋賀県,kfc_jp,守山市,1
+愛知県,kfc_jp,豊明市,1
+神奈川県,kfc_jp,横浜市中区,4
+石川県,kfc_jp,金沢市,4
+東京都,kfc_jp,港区,3
+静岡県,kfc_jp,沼津市,2
+新潟県,kfc_jp,新潟市秋葉区,1
+熊本県,kfc_jp,熊本市北区,2
+北海道,kfc_jp,旭川市,3
+北海道,kfc_jp,北見市,2
+大阪府,kfc_jp,八尾市,3
+静岡県,kfc_jp,浜松市中央区,6
+北海道,kfc_jp,札幌市東区,5
+北海道,kfc_jp,恵庭市,1
+滋賀県,kfc_jp,甲賀市,1
+新潟県,kfc_jp,柏崎市,1
+青森県,kfc_jp,弘前市,2
+愛知県,kfc_jp,豊川市,2
+福岡県,kfc_jp,北九州市小倉南区,3
+熊本県,kfc_jp,熊本市南区,3
+茨城県,kfc_jp,守谷市,1
+岡山県,kfc_jp,岡山市中区,1
+京都府,kfc_jp,宇治市,2
+千葉県,kfc_jp,松戸市,6
+群馬県,kfc_jp,沼田市,1
+福岡県,kfc_jp,福岡市早良区,2
+佐賀県,kfc_jp,鳥栖市,1
+北海道,kfc_jp,札幌市手稲区,2
+神奈川県,kfc_jp,横浜市旭区,4
+香川県,kfc_jp,観音寺市,1
+香川県,kfc_jp,丸亀市,1
+栃木県,kfc_jp,真岡市,1
+鳥取県,kfc_jp,鳥取市,2
+北海道,kfc_jp,函館市,2
+愛知県,kfc_jp,名古屋市南区,1
+福井県,kfc_jp,敦賀市,1
+滋賀県,kfc_jp,近江八幡市,1
+栃木県,kfc_jp,大田原市,1
+茨城県,kfc_jp,牛久市,1
+山口県,kfc_jp,山口市,2
+山口県,kfc_jp,下関市,3
+東京都,kfc_jp,多摩市,3
+北海道,kfc_jp,札幌市西区,3
+群馬県,kfc_jp,富岡市,1
+福岡県,kfc_jp,福岡市博多区,4
+島根県,kfc_jp,松江市,2
+福岡県,kfc_jp,福岡市東区,4
+京都府,kfc_jp,京都市右京区,4
+群馬県,kfc_jp,藤岡市,1
+新潟県,kfc_jp,新発田市,1
+栃木県,kfc_jp,宇都宮市,7
+山口県,kfc_jp,防府市,1
+埼玉県,kfc_jp,久喜市,2
+栃木県,kfc_jp,足利市,2
+長野県,kfc_jp,松本市,2
+神奈川県,kfc_jp,横浜市金沢区,3
+広島県,kfc_jp,広島市東区,1
+福岡県,kfc_jp,中間市,1
+熊本県,kfc_jp,菊池郡大津町,1
+北海道,kfc_jp,釧路市,3
+茨城県,kfc_jp,土浦市,3
+鹿児島県,kfc_jp,鹿児島市,10
+北海道,kfc_jp,帯広市,2
+宮城県,kfc_jp,柴田郡大河原町,1
+大阪府,kfc_jp,東大阪市,4
+石川県,kfc_jp,小松市,1
+栃木県,kfc_jp,佐野市,2
+長野県,kfc_jp,諏訪市,1
+静岡県,kfc_jp,藤枝市,1
+北海道,kfc_jp,苫小牧市,2
+福島県,kfc_jp,郡山市,3
+長崎県,kfc_jp,西彼杵郡時津町,1
+宮崎県,kfc_jp,宮崎市,8
+青森県,kfc_jp,八戸市,4
+岐阜県,kfc_jp,岐阜市,4
+群馬県,kfc_jp,伊勢崎市,3
+広島県,kfc_jp,広島市佐伯区,1
+福岡県,kfc_jp,福岡市城南区,1
+大阪府,kfc_jp,大阪市住吉区,1
+山梨県,kfc_jp,甲府市,1
+北海道,kfc_jp,札幌市豊平区,4
+富山県,kfc_jp,高岡市,1
+愛知県,kfc_jp,海部郡蟹江町,1
+広島県,kfc_jp,東広島市,2
+福岡県,kfc_jp,福岡市南区,1
+静岡県,kfc_jp,磐田市,1
+神奈川県,kfc_jp,川崎市川崎区,4
+埼玉県,kfc_jp,新座市,4
+愛知県,kfc_jp,愛知郡東郷町,2
+福島県,kfc_jp,福島市,2
+岐阜県,kfc_jp,中津川市,1
+福岡県,kfc_jp,太宰府市,1
+新潟県,kfc_jp,三条市,1
+福島県,kfc_jp,会津若松市,3
+京都府,kfc_jp,京都市左京区,2
+新潟県,kfc_jp,新潟市東区,1
+宮崎県,kfc_jp,都城市,2
+岐阜県,kfc_jp,美濃加茂市,1
+福岡県,kfc_jp,飯塚市,3
+埼玉県,kfc_jp,越谷市,3
+愛知県,kfc_jp,岡崎市,3
+岡山県,kfc_jp,岡山市北区,1
+奈良県,kfc_jp,橿原市,2
+岐阜県,kfc_jp,大垣市,2
+三重県,kfc_jp,四日市市,4
+岐阜県,kfc_jp,土岐市,1
+佐賀県,kfc_jp,佐賀市,4
+福島県,kfc_jp,いわき市,3
+広島県,kfc_jp,福山市,3
+静岡県,kfc_jp,富士宮市,2
+滋賀県,kfc_jp,大津市,3
+東京都,kfc_jp,東村山市,1
+愛知県,kfc_jp,刈谷市,2
+佐賀県,kfc_jp,唐津市,1
+山口県,kfc_jp,宇部市,1
+千葉県,kfc_jp,柏市,4
+山梨県,kfc_jp,富士吉田市,1
+静岡県,kfc_jp,静岡市駿河区,2
+愛知県,kfc_jp,瀬戸市,1
+千葉県,kfc_jp,市川市,5
+北海道,kfc_jp,札幌市中央区,5
+愛知県,kfc_jp,豊田市,2
+福岡県,kfc_jp,福岡市西区,2
+兵庫県,kfc_jp,伊丹市,3
+福岡県,kfc_jp,大牟田市,2
+群馬県,kfc_jp,前橋市,4
+岩手県,kfc_jp,宮古市,1
+神奈川県,kfc_jp,横浜市青葉区,3
+神奈川県,kfc_jp,横浜市港南区,3
+岡山県,kfc_jp,津山市,2
+青森県,kfc_jp,つがる市,1
+東京都,kfc_jp,足立区,5
+茨城県,kfc_jp,笠間市,2
+宮城県,kfc_jp,仙台市宮城野区,3
+宮城県,kfc_jp,石巻市,1
+宮城県,kfc_jp,名取市,2
+宮城県,kfc_jp,富谷市,1
+宮城県,kfc_jp,宮城郡利府町,1
+兵庫県,kfc_jp,神戸市中央区,2
+兵庫県,kfc_jp,三田市,1
+千葉県,kfc_jp,我孫子市,1
+兵庫県,kfc_jp,赤穂市,1
+栃木県,kfc_jp,矢板市,1
+兵庫県,kfc_jp,神戸市西区,5
+福岡県,kfc_jp,筑紫野市,1
+神奈川県,kfc_jp,川崎市宮前区,2
+東京都,kfc_jp,府中市,3
+北海道,kfc_jp,滝川市,1
+茨城県,kfc_jp,下妻市,1
+栃木県,kfc_jp,小山市,2
+秋田県,kfc_jp,大仙市,1
+群馬県,kfc_jp,安中市,1
+静岡県,kfc_jp,静岡市清水区,1
+福島県,kfc_jp,田村市,1
+北海道,kfc_jp,北斗市,1
+埼玉県,kfc_jp,羽生市,1
+愛知県,kfc_jp,知立市,1
+茨城県,kfc_jp,つくば市,2
+埼玉県,kfc_jp,さいたま市北区,2
+茨城県,kfc_jp,石岡市,1
+福岡県,kfc_jp,北九州市八幡東区,1
+群馬県,kfc_jp,高崎市,5
+大阪府,kfc_jp,守口市,2
+埼玉県,kfc_jp,比企郡嵐山町,1
+岡山県,kfc_jp,倉敷市,4
+北海道,kfc_jp,標津郡中標津町,1
+埼玉県,kfc_jp,三郷市,2
+千葉県,kfc_jp,四街道市,1
+兵庫県,kfc_jp,神戸市垂水区,2
+北海道,kfc_jp,岩見沢市,1
+兵庫県,kfc_jp,明石市,3
+大阪府,kfc_jp,茨木市,4
+大阪府,kfc_jp,寝屋川市,3
+群馬県,kfc_jp,太田市,3
+北海道,kfc_jp,札幌市南区,2
+茨城県,kfc_jp,結城市,1
+埼玉県,kfc_jp,熊谷市,1
+茨城県,kfc_jp,古河市,2
+千葉県,kfc_jp,流山市,2
+三重県,kfc_jp,松阪市,1
+神奈川県,kfc_jp,小田原市,3
+千葉県,kfc_jp,印西市,2
+福岡県,kfc_jp,北九州市小倉北区,3
+愛知県,kfc_jp,東海市,2
+栃木県,kfc_jp,下野市,1
+大分県,kfc_jp,佐伯市,1
+石川県,kfc_jp,河北郡津幡町,1
+神奈川県,kfc_jp,海老名市,2
+長野県,kfc_jp,中野市,1
+神奈川県,kfc_jp,大和市,3
+青森県,kfc_jp,青森市,3
+山形県,kfc_jp,東田川郡三川町,1
+京都府,kfc_jp,舞鶴市,1
+岐阜県,kfc_jp,各務原市,1
+滋賀県,kfc_jp,草津市,2
+北海道,kfc_jp,札幌市厚別区,2
+北海道,kfc_jp,釧路郡釧路町,1
+北海道,kfc_jp,札幌市清田区,1
+福岡県,kfc_jp,宗像市,1
+熊本県,kfc_jp,熊本市中央区,2
+静岡県,kfc_jp,伊豆の国市,1
+長崎県,kfc_jp,長崎市,5
+千葉県,kfc_jp,成田市,2
+福岡県,kfc_jp,古賀市,1
+山梨県,kfc_jp,中巨摩郡昭和町,2
+北海道,kfc_jp,札幌市北区,4
+福島県,kfc_jp,西白河郡西郷村,1
+山形県,kfc_jp,山形市,2
+京都府,kfc_jp,京都市伏見区,4
+北海道,kfc_jp,名寄市,1
+栃木県,kfc_jp,栃木市,1
+茨城県,kfc_jp,那珂郡東海村,1
+長野県,kfc_jp,佐久市,1
+神奈川県,kfc_jp,平塚市,3
+山形県,kfc_jp,東根市,1
+秋田県,kfc_jp,横手市,1
+愛知県,kfc_jp,名古屋市北区,1
+大阪府,kfc_jp,大阪市西区,2
+山口県,kfc_jp,周南市,1
+愛知県,kfc_jp,豊橋市,3
+愛知県,kfc_jp,江南市,1
+鳥取県,kfc_jp,米子市,2
+福岡県,kfc_jp,久留米市,4
+北海道,kfc_jp,千歳市,1
+静岡県,kfc_jp,御殿場市,1
+広島県,kfc_jp,広島市安佐南区,3
+北海道,kfc_jp,札幌市白石区,3
+熊本県,kfc_jp,熊本市東区,2
+北海道,kfc_jp,江別市,1
+愛知県,kfc_jp,西尾市,1
+神奈川県,kfc_jp,横浜市港北区,4
+静岡県,kfc_jp,焼津市,1
+三重県,kfc_jp,伊勢市,1
+京都府,kfc_jp,京都市南区,4
+東京都,kfc_jp,大田区,6
+大分県,kfc_jp,大分市,5
+三重県,kfc_jp,津市,2
+静岡県,kfc_jp,富士市,2
+千葉県,kfc_jp,千葉市稲毛区,2
+大阪府,kfc_jp,藤井寺市,1
+群馬県,kfc_jp,桐生市,2
+東京都,kfc_jp,調布市,5
+兵庫県,kfc_jp,西宮市,6
+埼玉県,kfc_jp,さいたま市中央区,2
+東京都,kfc_jp,江戸川区,8
+埼玉県,kfc_jp,ふじみ野市,1
+千葉県,kfc_jp,千葉市花見川区,1
+埼玉県,kfc_jp,さいたま市浦和区,2
+福岡県,kfc_jp,春日市,1
+広島県,kfc_jp,広島市南区,2
+長野県,kfc_jp,長野市,4
+愛知県,kfc_jp,あま市,1
+愛知県,kfc_jp,蒲郡市,1
+神奈川県,kfc_jp,座間市,2
+兵庫県,kfc_jp,神戸市須磨区,2
+愛知県,kfc_jp,名古屋市中川区,2
+愛知県,kfc_jp,名古屋市昭和区,1
+愛知県,kfc_jp,名古屋市千種区,3
+北海道,kfc_jp,小樽市,2
+愛知県,kfc_jp,一宮市,2
+岐阜県,kfc_jp,羽島郡岐南町,1
+愛知県,kfc_jp,安城市,1
+愛知県,kfc_jp,半田市,1
+岐阜県,kfc_jp,多治見市,1
+愛知県,kfc_jp,名古屋市天白区,2
+愛知県,kfc_jp,春日井市,1
+神奈川県,kfc_jp,川崎市多摩区,3
+愛知県,kfc_jp,北名古屋市,1
+愛知県,kfc_jp,名古屋市守山区,2
+富山県,kfc_jp,富山市,3
+愛知県,kfc_jp,名古屋市中村区,1
+静岡県,kfc_jp,静岡市葵区,1
+東京都,kfc_jp,渋谷区,4
+広島県,kfc_jp,広島市中区,1
+福岡県,kfc_jp,福岡市中央区,4
+東京都,kfc_jp,杉並区,4
+愛知県,kfc_jp,名古屋市港区,3
+東京都,kfc_jp,北区,4
+愛知県,kfc_jp,名古屋市,1
+東京都,kfc_jp,豊島区,7
+兵庫県,kfc_jp,高砂市,1
+東京都,kfc_jp,町田市,6
+愛知県,kfc_jp,日進市,1
+千葉県,kfc_jp,千葉市中央区,4
+大阪府,kfc_jp,大阪市中央区,1
+神奈川県,kfc_jp,横浜市戸塚区,3
+東京都,kfc_jp,八王子市,6
+東京都,kfc_jp,小金井市,2
+神奈川県,kfc_jp,横浜市西区,4
+埼玉県,kfc_jp,さいたま市南区,3
+東京都,kfc_jp,世田谷区,7
+埼玉県,kfc_jp,川口市,7
+東京都,kfc_jp,新宿区,6
+東京都,kfc_jp,中野区,2
+埼玉県,kfc_jp,蕨市,1
+埼玉県,kfc_jp,戸田市,2
+東京都,kfc_jp,国分寺市,2
+東京都,kfc_jp,練馬区,6
+大阪府,kfc_jp,高石市,1
+千葉県,kfc_jp,船橋市,6
+埼玉県,kfc_jp,所沢市,2
+埼玉県,kfc_jp,入間市,2
+奈良県,kfc_jp,生駒郡斑鳩町,1
+新潟県,kfc_jp,新潟市江南区,2
+東京都,kfc_jp,台東区,3
+神奈川県,kfc_jp,横浜市緑区,3
+埼玉県,kfc_jp,日高市,1
+東京都,kfc_jp,福生市,1
+埼玉県,kfc_jp,狭山市,1
+神奈川県,kfc_jp,藤沢市,6
+奈良県,kfc_jp,大和郡山市,2
+兵庫県,kfc_jp,加古川市,3
+神奈川県,kfc_jp,横浜市都筑区,4
+東京都,kfc_jp,中央区,2
+大阪府,kfc_jp,堺市堺区,2
+東京都,kfc_jp,立川市,2
+埼玉県,kfc_jp,さいたま市大宮区,1
+大阪府,kfc_jp,吹田市,3
+兵庫県,kfc_jp,神戸市灘区,1
+東京都,kfc_jp,日野市,1
+千葉県,kfc_jp,木更津市,2
+埼玉県,kfc_jp,富士見市,1
+千葉県,kfc_jp,市原市,4
+埼玉県,kfc_jp,川越市,1
+千葉県,kfc_jp,千葉市美浜区,1
+東京都,kfc_jp,江東区,7
+大阪府,kfc_jp,羽曳野市,1
+東京都,kfc_jp,板橋区,6
+千葉県,kfc_jp,茂原市,1
+東京都,kfc_jp,墨田区,3
+大阪府,kfc_jp,大阪市阿倍野区,1
+神奈川県,kfc_jp,横浜市神奈川区,1
+奈良県,kfc_jp,生駒市,2
+兵庫県,kfc_jp,加西市,1
+東京都,kfc_jp,昭島市,2
+大阪府,kfc_jp,堺市北区,3
+京都府,kfc_jp,木津川市,2
+東京都,kfc_jp,西多摩郡瑞穂町,1
+大阪府,kfc_jp,大阪市旭区,1
+兵庫県,kfc_jp,神戸市北区,2
+東京都,kfc_jp,武蔵村山市,2
+大阪府,kfc_jp,大阪市鶴見区,1
+埼玉県,kfc_jp,さいたま市緑区,2
+東京都,kfc_jp,千代田区,1
+埼玉県,kfc_jp,北足立郡伊奈町,1
+東京都,kfc_jp,西東京市,2
+千葉県,kfc_jp,浦安市,2
+大阪府,kfc_jp,大阪市平野区,2
+千葉県,kfc_jp,館山市,1
+兵庫県,kfc_jp,芦屋市,1
+神奈川県,kfc_jp,鎌倉市,3
+大阪府,kfc_jp,大阪市淀川区,2
+千葉県,kfc_jp,千葉市若葉区,1
+大阪府,kfc_jp,豊中市,1
+千葉県,kfc_jp,千葉市緑区,3
+千葉県,kfc_jp,鴨川市,1
+東京都,kfc_jp,青梅市,2
+奈良県,kfc_jp,奈良市,3
+東京都,kfc_jp,荒川区,2
+東京都,kfc_jp,品川区,6
+兵庫県,kfc_jp,尼崎市,4
+千葉県,kfc_jp,山武市,1
+奈良県,kfc_jp,天理市,1
+神奈川県,kfc_jp,愛甲郡愛川町,1
+大阪府,kfc_jp,大阪市西成区,1
+埼玉県,kfc_jp,蓮田市,2
+京都府,kfc_jp,福知山市,1
+東京都,kfc_jp,武蔵野市,2
+兵庫県,kfc_jp,朝来市,1
+神奈川県,kfc_jp,横浜市磯子区,3
+神奈川県,kfc_jp,川崎市幸区,3
+大阪府,kfc_jp,大阪市天王寺区,2
+大阪府,kfc_jp,大阪市住之江区,1
+神奈川県,kfc_jp,川崎市高津区,3
+神奈川県,kfc_jp,川崎市麻生区,2
+大阪府,kfc_jp,大阪市福島区,1
+神奈川県,kfc_jp,横浜市泉区,2
+大阪府,kfc_jp,大阪市北区,2
+三重県,kfc_jp,伊賀市四十九町,1
+愛知県,kfc_jp,岩倉市鈴井町,1
+岐阜県,kfc_jp,可児市,1
+静岡県,kfc_jp,伊東市,1
+愛媛県,kfc_jp,伊予郡松前町,1
+愛媛県,kfc_jp,東温市,1
+徳島県,kfc_jp,板野郡北島町,1
+愛媛県,kfc_jp,松山市,1
+香川県,kfc_jp,高松市,3
+愛媛県,kfc_jp,宇和島市,1
+福岡県,kfc_jp,糸島市,1
+福岡県,kfc_jp,北九州市,1
+奈良県,kfc_jp,北葛城郡,1
+神奈川県,kfc_jp,横須賀市,5
+福岡県,kfc_jp,直方市,2
+神奈川県,kfc_jp,厚木市,1
+埼玉県,kfc_jp,上尾市,2
+新潟県,kfc_jp,新潟市,1
+群馬県,kfc_jp,北群馬郡吉岡町,1
+大阪府,kfc_jp,門真市,2
+石川県,kfc_jp,加賀市,1
+福島県,kfc_jp,伊達市,1
+群馬県,kfc_jp,邑楽郡千代田町,1
+埼玉県,kfc_jp,草加市,4
+静岡県,kfc_jp,袋井市,1
+広島県,kfc_jp,三原市,1
+埼玉県,kfc_jp,児玉郡上里町,1
+山口県,kfc_jp,岩国市,2
+神奈川県,kfc_jp,川崎市中原区,2
+兵庫県,kfc_jp,川辺郡猪名川町,1
+大阪府,kfc_jp,堺市美原区,1
+福岡県,kfc_jp,北九州市戸畑区,1
+大阪府,kfc_jp,大阪市西淀川区,1
+山口県,kfc_jp,柳井市,1
+神奈川県,kfc_jp,横浜市保土ケ谷区,2
+兵庫県,kfc_jp,神戸市東灘区,1
+大阪府,kfc_jp,泉佐野市,2
+大阪府,kfc_jp,高槻市,3
+京都府,kfc_jp,亀岡市,2
+福岡県,kfc_jp,大野城市,1
+青森県,kfc_jp,上北郡おいらせ町,1
+静岡県,kfc_jp,浜松市浜名区,1
+埼玉県,kfc_jp,春日部市,2
+愛知県,kfc_jp,長久手市,1
+埼玉県,kfc_jp,和光市,1
+宮城県,kfc_jp,登米市,1
+愛知県,kfc_jp,名古屋市中区,1
+島根県,kfc_jp,出雲市,1
+長崎県,kfc_jp,島原市,1
+宮城県,kfc_jp,仙台市泉区,2
+愛知県,kfc_jp,大府市,1
+奈良県,kfc_jp,大和高田市,1
+神奈川県,kfc_jp,横浜市南区,1
+岩手県,kfc_jp,盛岡市,3
+大阪府,kfc_jp,松原市,2
+神奈川県,kfc_jp,茅ヶ崎市,2
+三重県,kfc_jp,鈴鹿市,2
+大阪府,kfc_jp,堺市西区,1
+鹿児島県,kfc_jp,指宿市,1
+愛知県,kfc_jp,稲沢市,1
+京都府,kfc_jp,京都市中京区,3
+神奈川県,kfc_jp,横浜市栄区,1
+岩手県,kfc_jp,釜石市,1
+滋賀県,kfc_jp,高島市安曇川町,1
+北海道,kfc_jp,室蘭市,1
+京都府,kfc_jp,京都市下京区,1
+静岡県,kfc_jp,牧之原市,1
+京都府,kfc_jp,京都市,2
+熊本県,kfc_jp,熊本市,1
+佐賀県,kfc_jp,武雄市,1
+北海道,kfc_jp,網走市,1
+新潟県,kfc_jp,上越市,2
+香川県,kfc_jp,綾歌郡,1
+神奈川県,kfc_jp,三浦市,1
+東京都,kfc_jp,羽村市,1
+埼玉県,kfc_jp,東松山市,1
+埼玉県,kfc_jp,比企郡川島町,1
+埼玉県,kfc_jp,比企郡滑川町,1
+千葉県,kfc_jp,香取市,1
+愛知県,kfc_jp,津島市,1
+東京都,kfc_jp,西多摩郡日の出町,1
+東京都,kfc_jp,三鷹市,2
+宮城県,kfc_jp,仙台市太白区,2
+埼玉県,kfc_jp,鶴ヶ島市,1
+愛知県,kfc_jp,西春日井郡豊山町,1
+熊本県,kfc_jp,菊池郡菊陽町,1
+愛知県,kfc_jp,名古屋市熱田区,1
+山口県,kfc_jp,山陽小野田市,1
+愛知県,kfc_jp,知多郡東浦町,1
+神奈川県,kfc_jp,秦野市,2
+東京都,kfc_jp,目黒区,2
+山口県,kfc_jp,下松市,1
+大阪府,kfc_jp,堺市南区,1
+大阪府,kfc_jp,四條畷市,1
+埼玉県,kfc_jp,さいたま市見沼区,2
+山梨県,kfc_jp,甲州市,1
+京都府,kfc_jp,京都市山科区,1
+埼玉県,kfc_jp,桶川市,1
+埼玉県,kfc_jp,鴻巣市,1
+埼玉県,kfc_jp,幸手市,1
+神奈川県,kfc_jp,相模原市緑区,2
+神奈川県,kfc_jp,相模原市中央区,2
+福岡県,kfc_jp,大川市,1
+大阪府,kfc_jp,泉南市,1
+長野県,kfc_jp,千曲市,1
+青森県,kfc_jp,五所川原市,1
+秋田県,kfc_jp,秋田市,2
+大阪府,kfc_jp,和泉市,1
+兵庫県,kfc_jp,姫路市,6
+茨城県,kfc_jp,鹿嶋市,1
+千葉県,kfc_jp,銚子市,1
+千葉県,kfc_jp,匝瑳市,1
+茨城県,kfc_jp,神栖市,1
+茨城県,kfc_jp,龍ケ崎市,1
+千葉県,kfc_jp,野田市,2
+宮崎県,kfc_jp,日向市,1
+愛知県,kfc_jp,碧南市,1
+佐賀県,kfc_jp,伊万里市,1
+長崎県,kfc_jp,諫早市,2
+愛媛県,kfc_jp,新居浜市,1
+大阪府,kfc_jp,河内長野市,1
+神奈川県,kfc_jp,横浜市鶴見区,2
+大阪府,kfc_jp,阪南市,1
+千葉県,kfc_jp,八千代市,3
+神奈川県,kfc_jp,足柄上郡大井町,1
+北海道,kfc_jp,北広島市,1
+宮崎県,kfc_jp,小林市,1
+京都府,kfc_jp,向日市,1
+福岡県,kfc_jp,朝倉市,1
+和歌山県,kfc_jp,新宮市,1
+鹿児島県,kfc_jp,姶良市,1
+山形県,kfc_jp,鶴岡市,1
+京都府,kfc_jp,八幡市,1
+和歌山県,kfc_jp,和歌山市,3
+和歌山県,kfc_jp,橋本市,1
+山梨県,kfc_jp,南アルプス市,1
+大阪府,kfc_jp,枚方市,3
+千葉県,kfc_jp,佐倉市,2
+和歌山県,kfc_jp,御坊市,1
+京都府,kfc_jp,京田辺市,1
+広島県,kfc_jp,廿日市市,1
+茨城県,kfc_jp,ひたちなか市,2
+和歌山県,kfc_jp,岩出市,1
+奈良県,kfc_jp,北葛城郡広陵町,1
+北海道,kfc_jp,上川郡東神楽町,1
+熊本県,kfc_jp,熊本市西区,1
+福岡県,kfc_jp,北九州市八幡西区,1
+高知県,kfc_jp,南国市,1
+熊本県,kfc_jp,山鹿市,1
+愛知県,kfc_jp,名古屋市緑区,1
+山形県,kfc_jp,天童市,1
+三重県,kfc_jp,員弁郡東員町,1
+長崎県,kfc_jp,佐世保市,2
+福岡県,kfc_jp,小郡市,1
+愛知県,kfc_jp,小牧市,1
+宮城県,kfc_jp,仙台市若林区,1
+熊本県,kfc_jp,玉名市,1
+佐賀県,kfc_jp,杵島郡白石町,1
+高知県,kfc_jp,香南市,1
+高知県,kfc_jp,高知市,1
+三重県,kfc_jp,名張市,1
+東京都,kfc_jp,東久留米市,2
+神奈川県,kfc_jp,相模原市南区,2
+茨城県,kfc_jp,水戸市,3
+愛知県,kfc_jp,名古屋市東区,1
+岐阜県,kfc_jp,本巣市,1
+愛媛県,kfc_jp,西条市,1
+佐賀県,kfc_jp,神埼郡吉野ヶ里町,1
+神奈川県,kfc_jp,伊勢原市,2
+長野県,kfc_jp,塩尻市,1
+福岡県,kfc_jp,那珂川市,1
+福岡県,kfc_jp,福津市,1
+福井県,kfc_jp,坂井市,1
+新潟県,kfc_jp,新潟市西区,2
+京都府,kfc_jp,久世郡久御山町,1
+新潟県,kfc_jp,村上市,1
+宮城県,kfc_jp,多賀城市,1
+熊本県,kfc_jp,上益城郡嘉島町,1
+新潟県,kfc_jp,新潟市中央区,2
+徳島県,kfc_jp,板野郡藍住町,1
+長野県,kfc_jp,小諸市,1
+鹿児島県,kfc_jp,霧島市,1
+兵庫県,kfc_jp,小野市,1
+神奈川県,kfc_jp,高座郡寒川町,1
+福岡県,kfc_jp,八女市,1
+宮城県,kfc_jp,東松島市,1
+宮城県,kfc_jp,大崎市,1
+宮城県,kfc_jp,仙台市青葉区,1
+岩手県,kfc_jp,北上市,1
+兵庫県,kfc_jp,豊岡市,1
+静岡県,kfc_jp,田方郡函南町,1
+山梨県,kfc_jp,甲斐市,1
+栃木県,kfc_jp,さくら市,1
+茨城県,kfc_jp,日立市,1
+愛知県,kfc_jp,知多郡阿久比町,1
+福島県,kfc_jp,相馬市,1
+大阪府,kfc_jp,岸和田市,1
+栃木県,kfc_jp,那須塩原市,1
+茨城県,kfc_jp,筑西市,1
+兵庫県,kfc_jp,川西市,1
+山形県,kfc_jp,米沢市,1
+新潟県,kfc_jp,長岡市,2
+大分県,kfc_jp,中津市,1
+岩手県,kfc_jp,一関市,1
+長野県,kfc_jp,上田市,2
+福島県,kfc_jp,須賀川市,1
+福井県,kfc_jp,福井市,2
+青森県,kfc_jp,十和田市,1
+岡山県,kfc_jp,笠岡市,1
+岡山県,kfc_jp,岡山市東区,1
+茨城県,kfc_jp,坂東市,1
+千葉県,kfc_jp,鎌ケ谷市,1
+千葉県,kfc_jp,君津市,1
+東京都,kfc_jp,小平市,1
+東京都,kfc_jp,清瀬市,1
+千葉県,kfc_jp,東金市,1
+奈良県,kfc_jp,葛城市,1
+神奈川県,kfc_jp,横浜市瀬谷区,1
+大阪府,kfc_jp,箕面市,2
+東京都,kfc_jp,葛飾区,5
+大阪府,kfc_jp,大阪狭山市,1
+千葉県,kfc_jp,習志野市,1
+大阪府,kfc_jp,摂津市,1
+大阪府,kfc_jp,池田市,1
+福井県,kfc_jp,鯖江市,1
+福岡県,kfc_jp,糟屋郡粕屋町,1
+福岡県,kfc_jp,北九州市門司区,1
+長野県,kfc_jp,飯田市,1
+福岡県,kfc_jp,行橋市,1
+埼玉県,kfc_jp,秩父市,1
+栃木県,kfc_jp,鹿沼市,1
+埼玉県,kfc_jp,行田市,1
+埼玉県,kfc_jp,加須市,1
+群馬県,kfc_jp,館林市,1
+埼玉県,kfc_jp,深谷市,1
+埼玉県,kfc_jp,朝霞市,1
+鹿児島県,kfc_jp,出水市,1
+大阪府,kfc_jp,大阪市都島区,1
+広島県,kfc_jp,広島市西区,1
+兵庫県,kfc_jp,揖保郡太子町,1
+福岡県,kfc_jp,北九州市若松区,1
+富山県,kfc_jp,魚津市,1
+大阪府,kfc_jp,大阪市東淀川区,1
+熊本県,kfc_jp,宇城市,1
+岡山県,kfc_jp,岡山市南区,1
+秋田県,kfc_jp,能代市,1
+島根県,kfc_jp,益田市,1
+新潟県,kfc_jp,南魚沼市,1
+静岡県,kfc_jp,掛川市,1
+大阪府,kfc_jp,大阪市浪速区,1
+大阪府,kfc_jp,大東市,1
+徳島県,kfc_jp,徳島市,2
+鹿児島県,kfc_jp,薩摩川内市,1
+滋賀県,kfc_jp,彦根市,2
+島根県,kfc_jp,大田市,1
+秋田県,kfc_jp,大館市,1
+鹿児島県,kfc_jp,日置市,1
+千葉県,kfc_jp,八街市,1
+新潟県,kfc_jp,小千谷市,1
+熊本県,kfc_jp,天草市,1
+福岡県,kfc_jp,糟屋郡久山町,1
+北海道,kfc_jp,日高郡新ひだか町,1
+茨城県,kfc_jp,稲敷市,1
+北海道,kfc_jp,伊達市,1
+長野県,kfc_jp,伊那市,1
+三重県,kfc_jp,桑名市,1
+広島県,kfc_jp,呉市,1
+群馬県,kfc_jp,吾妻郡東吾妻町,1
+兵庫県,kfc_jp,宝塚市,1
+長野県,kfc_jp,安曇野市,1
+広島県,kfc_jp,尾道市,1
+滋賀県,kfc_jp,東近江市,1
+静岡県,kfc_jp,三島市,1
+群馬県,kfc_jp,渋川市,1
+大阪府,kfc_jp,泉大津市,1
+埼玉県,kfc_jp,吉川市,1
+滋賀県,kfc_jp,長浜市,1
+滋賀県,kfc_jp,栗東市,1
+青森県,kfc_jp,むつ市,1
+熊本県,kfc_jp,人吉市,1
+鳥取県,kfc_jp,倉吉市,1
+北海道,kfc_jp,紋別市,1
+長崎県,kfc_jp,大村市,1
+鹿児島県,kfc_jp,鹿屋市,1
+熊本県,kfc_jp,八代市,1
+大分県,kfc_jp,別府市,1
+大分県,kfc_jp,日田市,1
+栃木県,kfc_jp,日光市,1
+熊本県,kfc_jp,荒尾市,1
+大阪府,kfc_jp,大阪市港区,1
+宮崎県,kfc_jp,延岡市,1
+UNKNOWN,leonidas,Chiba City,1
+UNKNOWN,leonidas,Kamakura City,1
+UNKNOWN,leonidas,Kobe City,1
+UNKNOWN,leonidas,Musashino City,1
+UNKNOWN,leonidas,Osaka City,1
+UNKNOWN,leonidas,Tokyo,7
+UNKNOWN,leonidas,Toyonaka City,2
+UNKNOWN,leonidas,Narashino City,1
+UNKNOWN,leonidas,Kashiwa,1
+UNKNOWN,leonidas,Saitama,1
+UNKNOWN,leonidas,Neyagawa,1
+UNKNOWN,leonidas,Okayama-city,1
+UNKNOWN,leonidas,Ken Iwade City,1
+UNKNOWN,leonidas,"Midorimachi, Asahikawa City",1
+UNKNOWN,leonidas,Kyoto,1
+UNKNOWN,leonidas,Osaka,1
+UNKNOWN,leonidas,Nagoya,3
+UNKNOWN,leonidas,Azumino,1
+UNKNOWN,leonidas,Kyotonabe,1
+UNKNOWN,leonidas,NARASHINO CITY,1
+UNKNOWN,leonidas,Yatsushiro,1
+UNKNOWN,leonidas,BUNKYO-KU  TOKYO,1
+UNKNOWN,leonidas,KYOTO,1
+UNKNOWN,leonidas,OKINAWA,1
+UNKNOWN,leonidas,TOKYO,1
+UNKNOWN,leonidas,YAMAGUCHI,1
+UNKNOWN,leonidas,YOKOHAMA,1
+UNKNOWN,leonidas,SAKURA,1
+UNKNOWN,leonidas,KOBE,1
+UNKNOWN,lhw,Kyoto,2
+UNKNOWN,lhw,Tokyo,3
+UNKNOWN,lhw,Okinawa,1
+UNKNOWN,lhw,Yokohama,1
+KANAGAWA,little_free_library,Yokosuka,1
+KANAGAWA,little_free_library,Zushi,1
+KANAGAWA,little_free_library,Kamakura,1
+UNKNOWN,little_free_library,Tokyo,5
+,little_free_library,Kawasaki,1
+SETAGAYAKU,little_free_library,Tokyo,1
+TSUZUKIKUKAWAWADAI,little_free_library,Kanagawa,1
+KANAGAWA,little_free_library,Sagamihara,1
+MACHIDASI,little_free_library,Tokyo,1
+,little_free_library,Kumagaya,1
+YAMAGATAPREFECTURE,little_free_library,Yamagata City,1
+UNKNOWN,little_free_library,Chino City,1
+NIIGATA,little_free_library,Nagaoka,1
+UNKNOWN,little_free_library,Yamatotakada-city,1
+UNKNOWN,little_free_library,Maibara-city,1
+OSAKA,little_free_library,Minamikawachi-gun,1
+OSAKA,little_free_library,Tondabayashi,1
+WAKAYAMA,little_free_library,Wakayama,1
+,little_free_library,Osaka,1
+UNKNOWN,little_free_library,Kobeshi Tyuouku,1
+KAGAWA,little_free_library,Takamatsu,1
+UNKNOWN,little_free_library,sapporo hokkaido,1
+OKINAWASHI,little_free_library,Kitanakagusuku-son,1
+OKINAWA,little_free_library,unknown,1
+UNKNOWN,little_free_library,"Naha-shi, Okinawa",1
+CHATAN,little_free_library,Okinawa,1
+FUKUOKAKEN,little_free_library,"Kawara-machi, Tagawa-gun",1
+KYUSHU,little_free_library,Nagasaki,1
+UNKNOWN,man_truck_and_bus,Kokurakita-Ku; Kita-Kyusyu-City; Fukuoka,2
+UNKNOWN,man_truck_and_bus,Tomakomai-City; Hokkaido,1
+UNKNOWN,man_truck_and_bus,Niigata-City; Niigata,1
+UNKNOWN,man_truck_and_bus,Nisi-Ku; Osaka-City; Osaka,1
+UNKNOWN,man_truck_and_bus,Onomichi-City; Hiroshima,1
+UNKNOWN,man_truck_and_bus,Ishinomaki-City; Miyagi,1
+UNKNOWN,man_truck_and_bus,Naha-City; Okinawa,1
+UNKNOWN,man_truck_and_bus,Shimizu-Ku; Shizuoka-City; Shizuoka,1
+UNKNOWN,man_truck_and_bus,Hyogo-Ku; Kobe-City; Kobe,1
+UNKNOWN,man_truck_and_bus,Ibaraki,1
+UNKNOWN,man_truck_and_bus,Ishikawa; Nanao-City,1
+UNKNOWN,man_truck_and_bus,"Yaoshi,Osaka-fu",1
+UNKNOWN,marriott,Osaka,9
+UNKNOWN,marriott,Tokyo,10
+UNKNOWN,marriott,"Onna-son,  Kunigami-gun",1
+UNKNOWN,marriott,Fukui,1
+UNKNOWN,marriott,Nagano,1
+UNKNOWN,marriott,Nagoya,2
+UNKNOWN,marriott,Osaka-City,1
+UNKNOWN,marriott,Kyoto,5
+UNKNOWN,marriott,Chuo-Ku,1
+UNKNOWN,marriott,Aso,1
+UNKNOWN,marriott,Awaji,1
+UNKNOWN,marriott,"Eniwa, Hokkaido",1
+UNKNOWN,marriott,Gifu,4
+UNKNOWN,marriott,Maniwa,1
+UNKNOWN,marriott,Mie,2
+UNKNOWN,marriott,Minami Awaji,1
+UNKNOWN,marriott,Sapporo,1
+UNKNOWN,marriott,Sera,1
+UNKNOWN,marriott,"Sorachi-gun, Hokkaido",1
+UNKNOWN,marriott,Tarumizu,1
+UNKNOWN,marriott,"Tenri, Nara",1
+UNKNOWN,marriott,Tochigi,3
+UNKNOWN,marriott,"Toyooka, Hyogo",1
+UNKNOWN,marriott,Tsuyama,1
+UNKNOWN,marriott,Ukiha,1
+UNKNOWN,marriott,Ureshino,1
+UNKNOWN,marriott,Wakayama,2
+UNKNOWN,marriott,Yabu,1
+UNKNOWN,marriott,"Yubari-gun, Hokkaido",1
+UNKNOWN,marriott,Tokoname City,1
+UNKNOWN,marriott,Karuizawa,1
+UNKNOWN,marriott,Nagasaki,1
+UNKNOWN,marriott,Shiga,1
+UNKNOWN,marriott,Shizuoka,1
+UNKNOWN,marriott,Wakayama-ken,1
+UNKNOWN,marriott,"Yamanakako, Minamitsuru-gun",1
+UNKNOWN,marriott,"Kyotoshi, Kyotofu",1
+UNKNOWN,marriott,Fukuoka,1
+UNKNOWN,marriott,Nago City,1
+UNKNOWN,marriott,Nikko,1
+UNKNOWN,marriott,Niseko,1
+UNKNOWN,marriott,Hiroshima City,1
+UNKNOWN,marriott,Kagoshima,1
+UNKNOWN,marriott,Kobe,1
+UNKNOWN,marriott,Kunigami-gun,1
+UNKNOWN,marriott,Miyazaki,1
+UNKNOWN,marriott,Urayasu,1
+UNKNOWN,marriott,Yokohama,1
+UNKNOWN,maserati,高松市,1
+UNKNOWN,maserati,YOKOHAMA,2
+UNKNOWN,maserati,HAMAMATSU,1
+UNKNOWN,maserati,KOBE,1
+UNKNOWN,maserati,SAPPORO,1
+UNKNOWN,maserati,NAGOYA,3
+UNKNOWN,maserati,KANAZAWA,1
+UNKNOWN,maserati,CHIBA,1
+UNKNOWN,maserati,TSUKUBA,1
+UNKNOWN,maserati,KYOTO,1
+UNKNOWN,maserati,SENDAI,1
+UNKNOWN,maserati,"IKEDA-CITY, OSAKA",1
+UNKNOWN,maserati,TAKASAKI CITY,1
+UNKNOWN,maserati,TOKYO,4
+UNKNOWN,maserati,OSAKA,2
+UNKNOWN,maserati,FUKUYAMA,1
+UNKNOWN,maserati,FUKUOKA,1
+UNKNOWN,maserati,SAITAMA,1
+UNKNOWN,maserati,HIROSHIMA,1
+UNKNOWN,mcdonalds_jp,unknown,2969
+UNKNOWN,mercedes_benz,Fujisawa-shi,2
+UNKNOWN,mercedes_benz,"Tsurumi-ku, Yokohama-shi",4
+UNKNOWN,mercedes_benz,Minato-ku,5
+UNKNOWN,mercedes_benz,Chuo-ku,2
+UNKNOWN,mercedes_benz,"Isogo-ku, Yokohama-shi",2
+UNKNOWN,mercedes_benz,Katsushika-ku,2
+UNKNOWN,mercedes_benz,Nakano-ku,2
+UNKNOWN,mercedes_benz,Gifu-shi,2
+UNKNOWN,mercedes_benz,Ota-ku,3
+UNKNOWN,mercedes_benz,"Kohoku-ku, Yokohama-shi",2
+UNKNOWN,mercedes_benz,"Sakyo-ku, Kyoto-shi",2
+UNKNOWN,mercedes_benz,Koto-ku,3
+UNKNOWN,mercedes_benz,Minoh-shi,3
+UNKNOWN,mercedes_benz,Bunkyo-ku,2
+UNKNOWN,mercedes_benz,Ichikawa-shi,3
+UNKNOWN,mercedes_benz,Urayasu-shi,2
+UNKNOWN,mercedes_benz,Shinjuku-ku,2
+UNKNOWN,mercedes_benz,"Aoba-ku, Sendai-shi",1
+UNKNOWN,mercedes_benz,Hokuto-shi,2
+UNKNOWN,mercedes_benz,"Toyohira-ku, Sapporo-shi",2
+UNKNOWN,mercedes_benz,"Wakabayashi-ku, Sendai-shi",2
+UNKNOWN,mercedes_benz,Kushiro-shi,1
+UNKNOWN,mercedes_benz,Asahikawa-shi,1
+UNKNOWN,mercedes_benz,Chikusei-shi,2
+UNKNOWN,mercedes_benz,Tsukuba-shi,2
+UNKNOWN,mercedes_benz,Kitami-shi,2
+UNKNOWN,mercedes_benz,"Taihaku-ku, Sendai-shi",2
+UNKNOWN,mercedes_benz,Hachinohe-shi,1
+UNKNOWN,mercedes_benz,Oita-shi,2
+UNKNOWN,mercedes_benz,Miyazaki-shi,2
+UNKNOWN,mercedes_benz,"Sawara-ku, Fukuoka-shi",2
+UNKNOWN,mercedes_benz,"Kokurakita-ku, Kitakyushu-shi",2
+UNKNOWN,mercedes_benz,"Higashi-ku, Fukuoka-shi",2
+UNKNOWN,mercedes_benz,"Hakata-ku, Fukuoka-shi",1
+UNKNOWN,mercedes_benz,Urasoe-shi,2
+UNKNOWN,mercedes_benz,Takasaki-shi,2
+UNKNOWN,mercedes_benz,Fuchu-shi,2
+UNKNOWN,mercedes_benz,Toshima-ku,2
+UNKNOWN,mercedes_benz,Tokorozawa-shi,1
+UNKNOWN,mercedes_benz,Nerima-ku,2
+UNKNOWN,mercedes_benz,Adachi-ku,1
+UNKNOWN,mercedes_benz,Kashiwa-shi,2
+UNKNOWN,mercedes_benz,Utsunomiya-shi,2
+UNKNOWN,mercedes_benz,"Saiwai-ku, Kawasaki-shi",1
+UNKNOWN,mercedes_benz,"Tsuzuki-ku, Yokohama-shi",3
+UNKNOWN,mercedes_benz,"Miyamae-ku, Kawasaki-shi",1
+UNKNOWN,mercedes_benz,Itabashi-ku,2
+UNKNOWN,mercedes_benz,Meguro-ku,2
+UNKNOWN,mercedes_benz,Kofu-shi,2
+UNKNOWN,mercedes_benz,Ageo-shi,1
+UNKNOWN,mercedes_benz,Tama-shi,2
+UNKNOWN,mercedes_benz,Shinagawa-ku,2
+UNKNOWN,mercedes_benz,Matsudo-shi,3
+UNKNOWN,mercedes_benz,Fuji-shi,1
+UNKNOWN,mercedes_benz,Akishima-shi,2
+UNKNOWN,mercedes_benz,Machida-shi,2
+UNKNOWN,mercedes_benz,Setagaya-ku,5
+UNKNOWN,mercedes_benz,Suginami-ku,4
+UNKNOWN,mercedes_benz,Hitachi-shi,1
+UNKNOWN,mercedes_benz,Maebashi-shi,1
+UNKNOWN,mercedes_benz,Mito-shi,3
+UNKNOWN,mercedes_benz,Kawagoe-shi,1
+UNKNOWN,mercedes_benz,Ota-shi,1
+UNKNOWN,mercedes_benz,"Aoi-ku, Shizuoka-shi",2
+UNKNOWN,mercedes_benz,"Inage-ku, Chiba-shi",2
+UNKNOWN,mercedes_benz,"Chuo-ku, Saitama-shi",1
+UNKNOWN,mercedes_benz,"Hodogaya-ku, Yokohama-shi",1
+UNKNOWN,mercedes_benz,"Aoba-ku, Yokohama-shi",2
+UNKNOWN,mercedes_benz,Yokohama-shi,4
+UNKNOWN,mercedes_benz,Funabashi-shi,1
+UNKNOWN,mercedes_benz,Hachioji-shi,2
+UNKNOWN,mercedes_benz,Musashimurayama-shi,1
+UNKNOWN,mercedes_benz,"Totsuka-ku, Yokohama-shi",2
+UNKNOWN,mercedes_benz,Edogawa-ku,1
+UNKNOWN,mercedes_benz,Koshigaya-shi,1
+UNKNOWN,mercedes_benz,Narita-shi,1
+UNKNOWN,mercedes_benz,"Suruga-ku, Shizuoka-shi",2
+UNKNOWN,mercedes_benz,Higashikurume-shi,1
+UNKNOWN,mercedes_benz,"Midori-ku, Saitama-shi",3
+UNKNOWN,mercedes_benz,"Asao-ku, Kawasaki-shi",2
+UNKNOWN,mercedes_benz,Yokosuka-shi,2
+UNKNOWN,mercedes_benz,"Asaminami-ku, Hiroshima-shi",1
+UNKNOWN,mercedes_benz,"Higashi-ku, Okayama-shi",2
+UNKNOWN,mercedes_benz,"Nishi-ku, Hiroshima-shi",2
+AYAUTADISTRICT,mercedes_benz,"Utazu-cho, Ayauta-gun",2
+UNKNOWN,mercedes_benz,Higashiosaka-shi,2
+UNKNOWN,mercedes_benz,"Midori-ku, Nagoya-shi",2
+UNKNOWN,mercedes_benz,Yokkaichi-shi,1
+UNKNOWN,mercedes_benz,Tsu-shi,2
+UNKNOWN,mercedes_benz,"Minami-ku, Okayama-shi",1
+UNKNOWN,mercedes_benz,Matsue-shi,2
+UNKNOWN,mercedes_benz,Tottori-shi,2
+UNKNOWN,mercedes_benz,"Chuo-ku, Kobe-shi",2
+UNKNOWN,mercedes_benz,Himeji-shi,2
+UNKNOWN,mercedes_benz,Okazaki-shi,2
+UNKNOWN,mercedes_benz,Wakayama-shi,2
+UNKNOWN,mercedes_benz,Nara-shi,4
+UNKNOWN,mercedes_benz,Suita-shi,4
+UNKNOWN,mercedes_benz,"Nishiyodogawa-ku, Osaka-shi",1
+UNKNOWN,mercedes_benz,"Kita-ku, Sakai-shi",1
+SEMBOKUDISTRICT,mercedes_benz,"Tadaoka-cho, Senboku-gun",1
+UNKNOWN,mercedes_benz,"Nishi-ku, Kobe-shi",2
+UNKNOWN,mercedes_benz,Toyohashi-shi,2
+UNKNOWN,mercedes_benz,"Nishi-ku, Osaka-shi",1
+UNKNOWN,mercedes_benz,Sanjo-shi,1
+UNKNOWN,mercedes_benz,Kanazawa-shi,1
+UNKNOWN,mercedes_benz,Ogaki-shi,1
+UNKNOWN,mercedes_benz,Tomi-shi,1
+UNKNOWN,mercedes_benz,Joetsu-shi,1
+UNKNOWN,mercedes_benz,Uji-shi,1
+UNKNOWN,mercedes_benz,Otsu-shi,2
+UNKNOWN,mercedes_benz,"Tennoji-ku, Osaka-shi",1
+UNKNOWN,mercedes_benz,"Mizuho-ku, Nagoya-shi",1
+UNKNOWN,mercedes_benz,Hikone-shi,2
+UNKNOWN,mercedes_benz,Tajimi-shi,1
+UNKNOWN,mercedes_benz,GIfu-shi,1
+UNKNOWN,mercedes_benz,Ito-shi,1
+SUNTODISTRICT,mercedes_benz,"Shimizu-cho, Sunto-gun",2
+UNKNOWN,mercedes_benz,"Kita-ku, Nagoya-shi",1
+UNKNOWN,mercedes_benz,Nagaoka-shi,1
+UNKNOWN,mercedes_benz,"Chuo-ku, Niigata-shi",1
+UNKNOWN,mercedes_benz,"Naka-ku, Nagoya-shi",2
+UNKNOWN,mercedes_benz,"Nakagawa-ku, Nagoya-shi",1
+UNKNOWN,mercedes_benz,Sakyo-ku Kyoto-shi,1
+UNKNOWN,mercedes_benz,"Joto-ku, Osaka-shi",1
+UNKNOWN,mercedes_benz,Ritto-shi,1
+UNKNOWN,mercedes_benz,"Sakai-ku, Sakai-shi",1
+UNKNOWN,mercedes_benz,Itami-shi,2
+UNKNOWN,mercedes_benz,Tsuruga-shi,1
+UNKNOWN,mercedes_benz,Takaoka-shi,1
+UNKNOWN,mercedes_benz,"Chuo-ku, Chiba-shi",1
+UNKNOWN,mercedes_benz,"Chuo-ku, Sagamihara-shi",1
+UNKNOWN,mercedes_benz,Atsugi-shi,2
+UNKNOWN,mercedes_benz,"Moriyama-ku, Nagoya-shi",1
+UNKNOWN,mercedes_benz,Yamagata-shi,2
+UNKNOWN,mercedes_benz,Sanmu-shi,1
+UNKNOWN,mercedes_benz,"Chuo-ku, Sapporo-shi",2
+UNKNOWN,mercedes_benz,Aomori-shi,1
+UNKNOWN,mercedes_benz,Koriyama-shi,1
+UNKNOWN,mercedes_benz,Fukushima-shi,1
+UNKNOWN,mercedes_benz,Morioka-shi,1
+UNKNOWN,mercedes_benz,"Izumi-ku, Sendai-shi",1
+UNKNOWN,mercedes_benz,Kawasaki-shi,2
+UNKNOWN,mercedes_benz,"Suma-ku, Kobe-shi",1
+UNKNOWN,mercedes_benz,"Kita-ku, Kumamoto-shi",1
+UNKNOWN,mercedes_benz,Yonago-shi,1
+UNKNOWN,mercedes_benz,Hiroshima-shi,1
+UNKNOWN,mercedes_benz,Saga-shi,1
+UNKNOWN,mercedes_benz,"Chuo-ku, Hamamatsu-shi",2
+UNKNOWN,mercedes_benz,Shimonoseki-shi,1
+UNKNOWN,mercedes_benz,Nishitokyo-shi,1
+UNKNOWN,mercedes_benz,Nonoichi-shi,1
+UNKNOWN,mercedes_benz,"Saeki-ku, Hiroshima-shi",1
+UNKNOWN,mercedes_benz,Zushi-shi,1
+UNKNOWN,mercedes_benz,Matsuyama-shi,1
+UNKNOWN,mercedes_benz,Owariasahi-shi,1
+UNKNOWN,mercedes_benz,Suzuka-shi,1
+UNKNOWN,mercedes_benz,"Ukyo-ku, Kyoto-shi",2
+UNKNOWN,mercedes_benz,"Wakaba-ku, Chiba-shi",1
+UNKNOWN,mercedes_benz,Fukui-shi,2
+UNKNOWN,mercedes_benz,Toyama-shi,2
+UNKNOWN,mercedes_benz,"Minami-ku, Kyoto-shi",1
+UNKNOWN,mercedes_benz,Fukuyama-shi,1
+UNKNOWN,mercedes_benz,Fujieda-shi,1
+UNKNOWN,mercedes_benz,"Yahatanishi-ku, Kitakyushu-shi",1
+UNKNOWN,mercedes_benz,"Chuo-ku, Fukuoka-shi",1
+UNKNOWN,mercedes_benz,Takamatsu-shi,1
+UNKNOWN,mercedes_benz,Kochi-shi,1
+UNKNOWN,mercedes_benz,Yamaguchi-shi,1
+UNKNOWN,mercedes_benz,Tokushima-shi,1
+UNKNOWN,mercedes_benz,Sasebo-shi,1
+NISHISONOGIDISTRICT,mercedes_benz,"Togitsu-cho, Nishisonogi-gun",1
+UNKNOWN,mercedes_benz,Kurume-shi,1
+UNKNOWN,mercedes_benz,Shunan-shi,1
+UNKNOWN,mercedes_benz,Kagoshima-shi,1
+UNKNOWN,mercedes_benz,Nisshin-shi,1
+UNKNOWN,mercedes_benz,"Meito-ku, Nagoya-shi",1
+UNKNOWN,mercedes_benz,Hirakata-shi,1
+UNKNOWN,mercedes_benz,Ibaraki-shi,1
+UNKNOWN,mercedes_benz,"Higashisumiyoshi-ku, Osaka-shi",1
+UNKNOWN,mercedes_benz,Nishinomiya-shi,1
+UNKNOWN,mercedes_benz,Hiratsuka-shi,1
+UNKNOWN,mercedes_benz,Odawara-shi,1
+UNKNOWN,mercedes_benz,Ichinomiya-shi,1
+UNKNOWN,mercedes_benz,"Kokuraminami-ku, Kitakyushu-shi",1
+UNKNOWN,mercedes_benz,Kakogawa-shi,1
+UNKNOWN,mercedes_benz,Matsumoto-shi,1
+UNKNOWN,mercedes_benz,Oyama-shi,1
+UNKNOWN,mercedes_benz,Kumagaya-shi,1
+UNKNOWN,mercedes_benz,"Hanamigawa-ku, Chiba-shi",1
+UNKNOWN,mercedes_benz,"Naka-ku, Yokohama-shi",1
+UNKNOWN,mercedes_benz,Saitama-shi,1
+UNKNOWN,mercedes_benz,Sagamihara,1
+UNKNOWN,mercedes_benz,"Karuizawa-machi, Kitasaku-gun",1
+UNKNOWN,mercedes_benz,Ota-Ku,1
+UNKNOWN,mercedes_benz,Kasuga-shi,1
+UNKNOWN,mercedes_benz,Hamura-shi,1
+UNKNOWN,mercedes_benz,Sakura-shi,1
+UNKNOWN,mercedes_benz,Hino-shi,1
+UNKNOWN,mercedes_benz,Iwaki-shi,1
+UNKNOWN,mercedes_benz,Konosu-shi,1
+UNKNOWN,mercedes_benz,Koga-shi,1
+UNKNOWN,mercedes_benz,Kobe-shi,2
+UNKNOWN,mercedes_benz,"Nishi-ku, Sapporo-shi",1
+UNKNOWN,mercedes_benz,Obihiro-shi,1
+UNKNOWN,mercedes_benz,Fukuoka-shi,1
+UNKNOWN,mercedes_benz,Nagoya-shi,2
+UNKNOWN,mercedes_benz,Takaishi-shi,1
+UNKNOWN,mercedes_benz,"Kashiwa-shi,",1
+UNKNOWN,mercedes_benz,Nagano-shi,1
+UNKNOWN,mercedes_benz,Kakamigahara-shi,1
+UNKNOWN,mercedes_benz,Musashino-shi,1
+UNKNOWN,mercedes_benz,Izumisano-shi,1
+UNKNOWN,mercedes_benz,"Higashi-ku, Niigata-shi",1
+UNKNOWN,mercedes_benz,Uji-shi Makishima-chou,1
+UNKNOWN,mercedes_benz,Akita-shi,1
+UNKNOWN,mercedes_benz,Chofu-shi,1
+UNKNOWN,mercedes_benz,Kisarazu-shi,1
+UNKNOWN,mercedes_benz,Sumida-ku,1
+UNKNOWN,mercedes_benz,Kawaguchi-shi,1
+UNKNOWN,mercedes_benz,"Minami-ku, Kumamoto-shi",1
+TOKYO,meta,unknown,1
+UNKNOWN,moneygram,TOKYO-TO,3
+UNKNOWN,moneygram,FUKUOKA,2
+UNKNOWN,moneygram,TOKYO TO,5
+UNKNOWN,moneygram,SHIZUOKA-KEN,1
+UNKNOWN,moneygram,HAMAMASUCHO,1
+UNKNOWN,moneygram,TOKYO,10
+UNKNOWN,moneygram,AICHI,1
+UNKNOWN,moneygram,OURA-GUN,1
+UNKNOWN,moneygram,NAGOYA,1
+UNKNOWN,moneygram,SHINJUKU KU,1
+UNKNOWN,moneygram,TAITO-KU,2
+UNKNOWN,moneygram,HANYU,1
+UNKNOWN,moneygram,YOKOHAMA,1
+UNKNOWN,moneygram,GUNMA KEN,4
+UNKNOWN,moneygram,OSAKA FU,1
+UNKNOWN,moneygram,OSAKA SHI,1
+UNKNOWN,moneygram,OTA,1
+UNKNOWN,moneygram,SUMIDA-KU,1
+UNKNOWN,moneygram,FUKUOKA KEN,2
+UNKNOWN,moneygram,KANAGAWA KEN,2
+UNKNOWN,moneygram,AICHI KEN,1
+UNKNOWN,moneygram,TOCHIGI KEN,1
+UNKNOWN,moneygram,OKINAWA KEN,1
+UNKNOWN,national,Kamikawa Gun,1
+UNKNOWN,national,Abashiri Gun,1
+UNKNOWN,national,Kushiro Shi,1
+UNKNOWN,national,Sendai Shi,1
+UNKNOWN,national,Utsunomiya Shi,1
+UNKNOWN,national,Nikko Shi,1
+UNKNOWN,national,Shibuya Ku,3
+UNKNOWN,national,Chuo Ku,2
+UNKNOWN,national,Yokohama Shi,2
+UNKNOWN,national,Matsumoto Shi,1
+UNKNOWN,national,Atami Shi,1
+UNKNOWN,national,Nagoya Shi,1
+UNKNOWN,national,Kanazawa Shi,1
+UNKNOWN,national,Kyoto-Shi,1
+UNKNOWN,national,Suzuka Shi,1
+UNKNOWN,national,Osaka Shi,4
+UNKNOWN,national,Toyonaka Shi,1
+UNKNOWN,national,Fukuoka Shi,3
+UNKNOWN,national,Okayama Shi,1
+UNKNOWN,national,Takamatsu Shi,1
+UNKNOWN,national,Kunisaki Shi,1
+UNKNOWN,national,Nagasaki Shi,1
+UNKNOWN,national,Omura Shi,1
+UNKNOWN,national,Miyazaki Shi,1
+UNKNOWN,national,Kamimashiki Gun,1
+UNKNOWN,national,Hakodate Shi,2
+UNKNOWN,national,Hokuto Shi,1
+UNKNOWN,national,Sapporo Shi,4
+UNKNOWN,national,Asahikawa Shi,1
+UNKNOWN,national,Aomori Shi,2
+UNKNOWN,national,Morioka Shi,1
+UNKNOWN,national,Taito Ku,2
+UNKNOWN,national,Shinjuku Ku,2
+UNKNOWN,national,Minato Ku,1
+UNKNOWN,national,Toshima Ku,1
+UNKNOWN,national,Chiyoda Ku,1
+UNKNOWN,national,Odawara Shi,1
+UNKNOWN,national,Minamitsuru Gun,1
+UNKNOWN,national,Kitasaku Gun,1
+UNKNOWN,national,Nagano Shi,1
+UNKNOWN,national,Kumage Gun,1
+UNKNOWN,national,Naha Shi,2
+UNKNOWN,national,Ishigaki Shi,1
+UNKNOWN,national,Tachikawa Shi,1
+UNKNOWN,national,Yokosuka Shi,1
+UNKNOWN,national,Ota Ku,1
+UNKNOWN,national,Mihara Shi,1
+UNKNOWN,national,Kirishima Shi,1
+UNKNOWN,national,Tomigusuku Shi,1
+UNKNOWN,national,Gotemba Shi,1
+UNKNOWN,national,Makinohara Shi,1
+UNKNOWN,national,Saga Shi,1
+UNKNOWN,national,Kumamoto Shi,1
+UNKNOWN,national,Chitose Shi,1
+UNKNOWN,national,Misawa Shi,1
+UNKNOWN,national,Narita Shi,1
+UNKNOWN,national,Tokoname Shi,1
+UNKNOWN,national,Sennan Gun,1
+UNKNOWN,national,Iwakuni Shi,1
+東京都,nike,渋谷区,2
+兵庫県,nike,神戸市,1
+北海道,nike,北広島市,1
+大阪府,nike,門真市,1
+大阪府,nike,泉佐野市,1
+東京都,nike,武蔵野市,1
+大阪府,nike,大阪市,1
+神奈川県,nike,横浜市西区,1
+埼玉県,nike,越谷市,1
+栃木県,nike,佐野市,1
+静岡県,nike,御殿場市,1
+佐賀県,nike,鳥栖市,1
+広島県,nike,広島市,1
+埼玉県,nike,入間市,1
+東京都,nike,中央区,1
+神奈川県,nike,横浜市,1
+愛知県,nike,名古屋市中区,1
+三重県,nike,桑名市,1
+東京都,nike,町田市,1
+千葉県,nike,印旛郡,1
+滋賀県,nike,蒲生郡,1
+0115,nissan_europe,unknown,5
+0111,nissan_europe,unknown,1
+0114,nissan_europe,unknown,2
+0112,nissan_europe,unknown,1
+0113,nissan_europe,unknown,1
+0117,nissan_europe,unknown,1
+0116,nissan_europe,unknown,1
+0141,nissan_europe,unknown,9
+0142,nissan_europe,unknown,1
+0143,nissan_europe,unknown,1
+0144,nissan_europe,unknown,2
+0146,nissan_europe,unknown,1
+0147,nissan_europe,unknown,1
+0148,nissan_europe,unknown,1
+0149,nissan_europe,unknown,1
+0145,nissan_europe,unknown,1
+0131,nissan_europe,unknown,23
+0132,nissan_europe,unknown,4
+0135,nissan_europe,unknown,6
+0133,nissan_europe,unknown,3
+0134,nissan_europe,unknown,2
+0136,nissan_europe,unknown,1
+02A1,nissan_europe,unknown,3
+02B0,nissan_europe,unknown,1
+02C1,nissan_europe,unknown,5
+02C2,nissan_europe,unknown,1
+0211,nissan_europe,unknown,4
+0212,nissan_europe,unknown,2
+03A2,nissan_europe,unknown,12
+03A3,nissan_europe,unknown,5
+03A5,nissan_europe,unknown,2
+03A6,nissan_europe,unknown,4
+03C2,nissan_europe,unknown,2
+03C1,nissan_europe,unknown,2
+03A4,nissan_europe,unknown,1
+03B2,nissan_europe,unknown,2
+03A1,nissan_europe,unknown,2
+0301,nissan_europe,unknown,2
+0302,nissan_europe,unknown,2
+0303,nissan_europe,unknown,1
+0304,nissan_europe,unknown,2
+0307,nissan_europe,unknown,1
+0306,nissan_europe,unknown,1
+03B1,nissan_europe,unknown,2
+0311,nissan_europe,unknown,2
+0313,nissan_europe,unknown,2
+0314,nissan_europe,unknown,1
+0315,nissan_europe,unknown,1
+0312,nissan_europe,unknown,1
+04A5,nissan_europe,unknown,13
+04B3,nissan_europe,unknown,18
+04A6,nissan_europe,unknown,3
+04B4,nissan_europe,unknown,2
+04A2,nissan_europe,unknown,4
+04A4,nissan_europe,unknown,4
+04A3,nissan_europe,unknown,4
+04A1,nissan_europe,unknown,3
+05A2,nissan_europe,unknown,14
+05B1,nissan_europe,unknown,7
+05B2,nissan_europe,unknown,11
+05A1,nissan_europe,unknown,4
+05A3,nissan_europe,unknown,5
+05B3,nissan_europe,unknown,4
+06C2,nissan_europe,unknown,2
+06C1,nissan_europe,unknown,2
+06A3,nissan_europe,unknown,8
+06A1,nissan_europe,unknown,3
+06A2,nissan_europe,unknown,2
+06D0,nissan_europe,unknown,2
+06B1,nissan_europe,unknown,4
+06B2,nissan_europe,unknown,2
+07A1,nissan_europe,unknown,9
+07A2,nissan_europe,unknown,13
+07C2,nissan_europe,unknown,3
+07C1,nissan_europe,unknown,2
+07B3,nissan_europe,unknown,7
+07B1,nissan_europe,unknown,3
+07A3,nissan_europe,unknown,4
+01E0,nissan_europe,unknown,2
+01D3,nissan_europe,unknown,1
+01D2,nissan_europe,unknown,2
+01D1,nissan_europe,unknown,1
+01F2,nissan_europe,unknown,1
+01F1,nissan_europe,unknown,1
+0151,nissan_europe,unknown,3
+0155,nissan_europe,unknown,1
+0152,nissan_europe,unknown,1
+0154,nissan_europe,unknown,1
+0153,nissan_europe,unknown,1
+0157,nissan_europe,unknown,2
+0158,nissan_europe,unknown,1
+0159,nissan_europe,unknown,1
+015A,nissan_europe,unknown,1
+08A2,nissan_europe,unknown,6
+08A1,nissan_europe,unknown,12
+08B1,nissan_europe,unknown,5
+08B2,nissan_europe,unknown,19
+08B3,nissan_europe,unknown,10
+0904,nissan_europe,unknown,9
+0905,nissan_europe,unknown,5
+0903,nissan_europe,unknown,2
+0901,nissan_europe,unknown,3
+0902,nissan_europe,unknown,1
+10B1,nissan_europe,unknown,10
+10B2,nissan_europe,unknown,8
+10A1,nissan_europe,unknown,2
+10B3,nissan_europe,unknown,9
+10A2,nissan_europe,unknown,2
+1133,nissan_europe,unknown,15
+1134,nissan_europe,unknown,8
+1131,nissan_europe,unknown,7
+1132,nissan_europe,unknown,10
+1122,nissan_europe,unknown,5
+1123,nissan_europe,unknown,1
+1121,nissan_europe,unknown,2
+1112,nissan_europe,unknown,6
+1113,nissan_europe,unknown,7
+1111,nissan_europe,unknown,4
+12B3,nissan_europe,unknown,11
+12B2,nissan_europe,unknown,15
+12B1,nissan_europe,unknown,8
+12A1,nissan_europe,unknown,4
+12A2,nissan_europe,unknown,3
+12C1,nissan_europe,unknown,3
+12C2,nissan_europe,unknown,1
+1201,nissan_europe,unknown,8
+1204,nissan_europe,unknown,4
+1203,nissan_europe,unknown,2
+1202,nissan_europe,unknown,4
+1205,nissan_europe,unknown,1
+1401,nissan_europe,unknown,15
+1402,nissan_europe,unknown,13
+1403,nissan_europe,unknown,15
+1404,nissan_europe,unknown,13
+1405,nissan_europe,unknown,4
+1415,nissan_europe,unknown,5
+1416,nissan_europe,unknown,3
+1413,nissan_europe,unknown,3
+1414,nissan_europe,unknown,3
+1411,nissan_europe,unknown,3
+1412,nissan_europe,unknown,4
+1543,nissan_europe,unknown,4
+1546,nissan_europe,unknown,2
+1548,nissan_europe,unknown,1
+1549,nissan_europe,unknown,1
+1551,nissan_europe,unknown,3
+1547,nissan_europe,unknown,1
+1542,nissan_europe,unknown,1
+1541,nissan_europe,unknown,1
+1553,nissan_europe,unknown,1
+1544,nissan_europe,unknown,1
+1531,nissan_europe,unknown,4
+1536,nissan_europe,unknown,1
+1538,nissan_europe,unknown,1
+1537,nissan_europe,unknown,1
+1532,nissan_europe,unknown,2
+1533,nissan_europe,unknown,1
+1534,nissan_europe,unknown,1
+1513,nissan_europe,unknown,5
+1512,nissan_europe,unknown,1
+1515,nissan_europe,unknown,1
+1516,nissan_europe,unknown,1
+1501,nissan_europe,unknown,3
+1505,nissan_europe,unknown,1
+1506,nissan_europe,unknown,1
+1503,nissan_europe,unknown,1
+1502,nissan_europe,unknown,1
+1504,nissan_europe,unknown,1
+1903,nissan_europe,unknown,2
+1902,nissan_europe,unknown,2
+1906,nissan_europe,unknown,1
+1904,nissan_europe,unknown,1
+1901,nissan_europe,unknown,1
+19B1,nissan_europe,unknown,6
+19B2,nissan_europe,unknown,1
+19A2,nissan_europe,unknown,1
+19A1,nissan_europe,unknown,1
+19B3,nissan_europe,unknown,1
+2001,nissan_europe,unknown,1
+2002,nissan_europe,unknown,6
+2005,nissan_europe,unknown,1
+2003,nissan_europe,unknown,3
+2004,nissan_europe,unknown,2
+2006,nissan_europe,unknown,2
+2032,nissan_europe,unknown,9
+2031,nissan_europe,unknown,2
+2033,nissan_europe,unknown,4
+2034,nissan_europe,unknown,3
+2042,nissan_europe,unknown,4
+2041,nissan_europe,unknown,1
+2045,nissan_europe,unknown,1
+2044,nissan_europe,unknown,2
+2046,nissan_europe,unknown,2
+2043,nissan_europe,unknown,3
+20B3,nissan_europe,unknown,4
+20A3,nissan_europe,unknown,1
+20C2,nissan_europe,unknown,1
+20C1,nissan_europe,unknown,2
+20C3,nissan_europe,unknown,2
+20B5,nissan_europe,unknown,3
+1622,nissan_europe,unknown,2
+1623,nissan_europe,unknown,1
+1624,nissan_europe,unknown,1
+1621,nissan_europe,unknown,2
+17B1,nissan_europe,unknown,4
+17B2,nissan_europe,unknown,5
+17A2,nissan_europe,unknown,2
+17A1,nissan_europe,unknown,2
+1701,nissan_europe,unknown,3
+1802,nissan_europe,unknown,3
+1801,nissan_europe,unknown,1
+1803,nissan_europe,unknown,1
+1804,nissan_europe,unknown,1
+1811,nissan_europe,unknown,4
+1812,nissan_europe,unknown,2
+22C2,nissan_europe,unknown,26
+22B1,nissan_europe,unknown,12
+22B2,nissan_europe,unknown,9
+22A1,nissan_europe,unknown,6
+22A2,nissan_europe,unknown,1
+2301,nissan_europe,unknown,19
+2303,nissan_europe,unknown,4
+2302,nissan_europe,unknown,10
+2304,nissan_europe,unknown,4
+2305,nissan_europe,unknown,4
+23A2,nissan_europe,unknown,8
+23B2,nissan_europe,unknown,10
+23B1,nissan_europe,unknown,2
+24A1,nissan_europe,unknown,18
+24A2,nissan_europe,unknown,13
+24A3,nissan_europe,unknown,4
+24B1,nissan_europe,unknown,6
+24B2,nissan_europe,unknown,2
+25A2,nissan_europe,unknown,2
+25B1,nissan_europe,unknown,2
+25B3,nissan_europe,unknown,2
+25A3,nissan_europe,unknown,1
+25B2,nissan_europe,unknown,7
+25A1,nissan_europe,unknown,2
+2801,nissan_europe,unknown,15
+2802,nissan_europe,unknown,20
+2805,nissan_europe,unknown,10
+2807,nissan_europe,unknown,2
+2803,nissan_europe,unknown,2
+2806,nissan_europe,unknown,9
+2804,nissan_europe,unknown,1
+28A1,nissan_europe,unknown,1
+28A2,nissan_europe,unknown,2
+2901,nissan_europe,unknown,5
+2902,nissan_europe,unknown,2
+2903,nissan_europe,unknown,1
+2911,nissan_europe,unknown,4
+2912,nissan_europe,unknown,3
+30A1,nissan_europe,unknown,5
+30A2,nissan_europe,unknown,1
+30B2,nissan_europe,unknown,1
+30B1,nissan_europe,unknown,1
+3103,nissan_europe,unknown,2
+3101,nissan_europe,unknown,2
+3102,nissan_europe,unknown,1
+3201,nissan_europe,unknown,2
+3206,nissan_europe,unknown,1
+3202,nissan_europe,unknown,1
+3205,nissan_europe,unknown,1
+3203,nissan_europe,unknown,1
+3204,nissan_europe,unknown,1
+3207,nissan_europe,unknown,1
+3221,nissan_europe,unknown,2
+3223,nissan_europe,unknown,2
+3224,nissan_europe,unknown,1
+3222,nissan_europe,unknown,1
+3301,nissan_europe,unknown,7
+3302,nissan_europe,unknown,1
+3303,nissan_europe,unknown,2
+3304,nissan_europe,unknown,1
+3305,nissan_europe,unknown,1
+3306,nissan_europe,unknown,1
+3307,nissan_europe,unknown,1
+3311,nissan_europe,unknown,5
+3312,nissan_europe,unknown,4
+3315,nissan_europe,unknown,1
+3313,nissan_europe,unknown,1
+3314,nissan_europe,unknown,1
+3401,nissan_europe,unknown,5
+3413,nissan_europe,unknown,7
+3411,nissan_europe,unknown,1
+3412,nissan_europe,unknown,1
+3414,nissan_europe,unknown,1
+3421,nissan_europe,unknown,6
+3506,nissan_europe,unknown,2
+3503,nissan_europe,unknown,3
+3504,nissan_europe,unknown,5
+3501,nissan_europe,unknown,4
+3505,nissan_europe,unknown,3
+3612,nissan_europe,unknown,1
+3613,nissan_europe,unknown,1
+3614,nissan_europe,unknown,1
+3611,nissan_europe,unknown,2
+3615,nissan_europe,unknown,1
+3601,nissan_europe,unknown,6
+3602,nissan_europe,unknown,3
+3603,nissan_europe,unknown,1
+3713,nissan_europe,unknown,1
+3711,nissan_europe,unknown,4
+3714,nissan_europe,unknown,3
+3712,nissan_europe,unknown,1
+3715,nissan_europe,unknown,1
+3803,nissan_europe,unknown,6
+3802,nissan_europe,unknown,2
+3801,nissan_europe,unknown,3
+3804,nissan_europe,unknown,2
+3805,nissan_europe,unknown,1
+39B1,nissan_europe,unknown,5
+39A2,nissan_europe,unknown,1
+39C2,nissan_europe,unknown,1
+3901,nissan_europe,unknown,3
+3902,nissan_europe,unknown,1
+3903,nissan_europe,unknown,1
+3904,nissan_europe,unknown,1
+40B1,nissan_europe,unknown,4
+40B2,nissan_europe,unknown,3
+40C0,nissan_europe,unknown,1
+4113,nissan_europe,unknown,2
+4111,nissan_europe,unknown,1
+4112,nissan_europe,unknown,1
+4114,nissan_europe,unknown,1
+4115,nissan_europe,unknown,1
+4116,nissan_europe,unknown,1
+4117,nissan_europe,unknown,1
+4103,nissan_europe,unknown,2
+4104,nissan_europe,unknown,3
+4105,nissan_europe,unknown,1
+4106,nissan_europe,unknown,1
+4101,nissan_europe,unknown,1
+4102,nissan_europe,unknown,1
+4211,nissan_europe,unknown,2
+4212,nissan_europe,unknown,3
+4213,nissan_europe,unknown,2
+4321,nissan_europe,unknown,8
+4325,nissan_europe,unknown,2
+4326,nissan_europe,unknown,1
+4324,nissan_europe,unknown,1
+4322,nissan_europe,unknown,1
+4323,nissan_europe,unknown,1
+44B0,nissan_europe,unknown,7
+44A0,nissan_europe,unknown,2
+44D1,nissan_europe,unknown,1
+44C0,nissan_europe,unknown,4
+44D2,nissan_europe,unknown,1
+4402,nissan_europe,unknown,8
+4401,nissan_europe,unknown,2
+4404,nissan_europe,unknown,2
+4403,nissan_europe,unknown,3
+4511,nissan_europe,unknown,2
+4512,nissan_europe,unknown,1
+4513,nissan_europe,unknown,4
+4516,nissan_europe,unknown,1
+4515,nissan_europe,unknown,1
+4514,nissan_europe,unknown,1
+4503,nissan_europe,unknown,4
+4501,nissan_europe,unknown,4
+4502,nissan_europe,unknown,1
+4506,nissan_europe,unknown,2
+4505,nissan_europe,unknown,1
+4504,nissan_europe,unknown,1
+4603,nissan_europe,unknown,9
+4604,nissan_europe,unknown,2
+4601,nissan_europe,unknown,4
+4602,nissan_europe,unknown,4
+4605,nissan_europe,unknown,3
+47B3,nissan_europe,unknown,3
+133B,nissan_europe,unknown,1
+133G,nissan_europe,unknown,1
+133C,nissan_europe,unknown,2
+133E,nissan_europe,unknown,1
+133D,nissan_europe,unknown,2
+133F,nissan_europe,unknown,3
+133H,nissan_europe,unknown,1
+133I,nissan_europe,unknown,2
+01L2,nissan_europe,unknown,11
+01L3,nissan_europe,unknown,3
+01N1,nissan_europe,unknown,1
+01M3,nissan_europe,unknown,1
+01M2,nissan_europe,unknown,1
+01J2,nissan_europe,unknown,3
+0163,nissan_europe,unknown,6
+0164,nissan_europe,unknown,1
+0161,nissan_europe,unknown,1
+0162,nissan_europe,unknown,1
+0201,nissan_europe,unknown,4
+0203,nissan_europe,unknown,4
+0204,nissan_europe,unknown,3
+0202,nissan_europe,unknown,1
+0712,nissan_europe,unknown,4
+0713,nissan_europe,unknown,1
+0717,nissan_europe,unknown,1
+0711,nissan_europe,unknown,5
+0716,nissan_europe,unknown,3
+0714,nissan_europe,unknown,2
+0914,nissan_europe,unknown,5
+0915,nissan_europe,unknown,4
+0911,nissan_europe,unknown,2
+0913,nissan_europe,unknown,1
+0912,nissan_europe,unknown,1
+1002,nissan_europe,unknown,2
+1003,nissan_europe,unknown,3
+1004,nissan_europe,unknown,2
+1005,nissan_europe,unknown,1
+1001,nissan_europe,unknown,1
+1104,nissan_europe,unknown,4
+1101,nissan_europe,unknown,7
+1102,nissan_europe,unknown,12
+1103,nissan_europe,unknown,9
+1105,nissan_europe,unknown,6
+1106,nissan_europe,unknown,1
+12D2,nissan_europe,unknown,7
+12D8,nissan_europe,unknown,2
+12D7,nissan_europe,unknown,6
+12D5,nissan_europe,unknown,2
+12D6,nissan_europe,unknown,2
+12D1,nissan_europe,unknown,3
+12D3,nissan_europe,unknown,8
+12D4,nissan_europe,unknown,3
+1211,nissan_europe,unknown,4
+1212,nissan_europe,unknown,1
+14A1,nissan_europe,unknown,40
+14A3,nissan_europe,unknown,5
+14A2,nissan_europe,unknown,8
+14B1,nissan_europe,unknown,7
+14B3,nissan_europe,unknown,2
+2311,nissan_europe,unknown,16
+2314,nissan_europe,unknown,5
+2312,nissan_europe,unknown,10
+2313,nissan_europe,unknown,6
+2315,nissan_europe,unknown,6
+22D2,nissan_europe,unknown,26
+1523,nissan_europe,unknown,6
+1528,nissan_europe,unknown,1
+1527,nissan_europe,unknown,1
+1522,nissan_europe,unknown,1
+1521,nissan_europe,unknown,1
+1524,nissan_europe,unknown,2
+1525,nissan_europe,unknown,1
+1529,nissan_europe,unknown,1
+1526,nissan_europe,unknown,1
+20B1,nissan_europe,unknown,2
+20A2,nissan_europe,unknown,5
+20B2,nissan_europe,unknown,2
+20A1,nissan_europe,unknown,1
+2022,nissan_europe,unknown,1
+2021,nissan_europe,unknown,1
+2024,nissan_europe,unknown,1
+2023,nissan_europe,unknown,1
+2101,nissan_europe,unknown,12
+2102,nissan_europe,unknown,6
+2104,nissan_europe,unknown,8
+2103,nissan_europe,unknown,7
+2105,nissan_europe,unknown,4
+1601,nissan_europe,unknown,1
+1602,nissan_europe,unknown,3
+1604,nissan_europe,unknown,2
+1605,nissan_europe,unknown,1
+2601,nissan_europe,unknown,17
+2602,nissan_europe,unknown,6
+2603,nissan_europe,unknown,4
+28B3,nissan_europe,unknown,4
+28B1,nissan_europe,unknown,1
+28B4,nissan_europe,unknown,4
+28B2,nissan_europe,unknown,1
+28B5,nissan_europe,unknown,4
+3001,nissan_europe,unknown,5
+3002,nissan_europe,unknown,2
+3004,nissan_europe,unknown,2
+3003,nissan_europe,unknown,1
+2504,nissan_europe,unknown,3
+2505,nissan_europe,unknown,1
+2503,nissan_europe,unknown,1
+2501,nissan_europe,unknown,1
+2502,nissan_europe,unknown,1
+2921,nissan_europe,unknown,5
+2922,nissan_europe,unknown,2
+3433,nissan_europe,unknown,13
+3432,nissan_europe,unknown,1
+3431,nissan_europe,unknown,1
+3511,nissan_europe,unknown,2
+3512,nissan_europe,unknown,3
+3513,nissan_europe,unknown,2
+3514,nissan_europe,unknown,3
+3515,nissan_europe,unknown,3
+3516,nissan_europe,unknown,1
+3111,nissan_europe,unknown,1
+3112,nissan_europe,unknown,1
+3113,nissan_europe,unknown,2
+3707,nissan_europe,unknown,1
+3704,nissan_europe,unknown,1
+3702,nissan_europe,unknown,1
+3705,nissan_europe,unknown,1
+3701,nissan_europe,unknown,1
+3706,nissan_europe,unknown,1
+38B0,nissan_europe,unknown,1
+38A1,nissan_europe,unknown,1
+38A2,nissan_europe,unknown,1
+38C2,nissan_europe,unknown,1
+38C1,nissan_europe,unknown,1
+4001,nissan_europe,unknown,40
+4002,nissan_europe,unknown,15
+4003,nissan_europe,unknown,5
+4004,nissan_europe,unknown,17
+4204,nissan_europe,unknown,4
+4201,nissan_europe,unknown,3
+4202,nissan_europe,unknown,3
+4203,nissan_europe,unknown,1
+4304,nissan_europe,unknown,4
+4302,nissan_europe,unknown,2
+4307,nissan_europe,unknown,1
+4305,nissan_europe,unknown,1
+4301,nissan_europe,unknown,1
+4303,nissan_europe,unknown,1
+4306,nissan_europe,unknown,2
+2703,nissan_europe,unknown,18
+2704,nissan_europe,unknown,10
+2702,nissan_europe,unknown,18
+2701,nissan_europe,unknown,17
+2705,nissan_europe,unknown,14
+2811,nissan_europe,unknown,7
+1341,nissan_europe,unknown,12
+1342,nissan_europe,unknown,9
+1345,nissan_europe,unknown,8
+1343,nissan_europe,unknown,18
+1344,nissan_europe,unknown,10
+1346,nissan_europe,unknown,24
+1348,nissan_europe,unknown,18
+1347,nissan_europe,unknown,6
+KANAGAWA,orangetheory_fitness,Yokohama city,1
+TOKYO,orangetheory_fitness,Azabujuban,1
+TOKYO,orangetheory_fitness,Higashikurume,1
+CHIBA,orangetheory_fitness,Ichikawa,1
+TOKYO,orangetheory_fitness,Hachioji,1
+SHIZUOKA,orangetheory_fitness,Shizuoka,1
+SAITAMA,orangetheory_fitness,Urawa,1
+AICHI,orangetheory_fitness,Nagoya,1
+MITAKA,orangetheory_fitness,Shimorenjaku,1
+AICHI,orangetheory_fitness,Hirojicho,1
+TŌKYŌ,orangetheory_fitness,Koganei,1
+TŌKYŌ,orangetheory_fitness,Machida,1
+TŌKYŌ,orangetheory_fitness,Kanagawa,1
+TŌKYŌ,orangetheory_fitness,Saitama City,1
+JPN,orangetheory_fitness,Tokyo,1
+UNKNOWN,pandora,Kitakyushu-shi,1
+UNKNOWN,pandora,Fukuoka-shi,1
+UNKNOWN,pandora,Yokohama-shi,2
+UNKNOWN,pandora,Toshima-ku,2
+UNKNOWN,pandora,Shinjuku-ku,1
+UNKNOWN,pandora,Shibuya-ku,2
+UNKNOWN,pandora,Machida,1
+UNKNOWN,pandora,Koto-ku,1
+UNKNOWN,pandora,Chuo-ku,1
+UNKNOWN,pandora,Sendai-shi,1
+KANAGAWA,petit_bateau,Yokohama Aoba Ward,1
+KANAGAWA,petit_bateau,Yokohama Nishi Ward,1
+OSAKA,petit_bateau,Toyonaka,1
+TOKYO,petit_bateau,Toshima City,1
+SHIZUOKA,petit_bateau,Shizuoka Aoi Ward,1
+TOKYO,petit_bateau,Shinjuku City,1
+TOKYO,petit_bateau,Shibuya City,1
+TOKYO,petit_bateau,Setagaya City,1
+HOKKAIDO,petit_bateau,Sapporo Chuo Ward,1
+OSAKA,petit_bateau,Osaka Kita Ward,2
+OSAKA,petit_bateau,Osaka Chuo Ward,1
+OSAKA,petit_bateau,Osaka Abeno Ward,1
+HYŌGO,petit_bateau,Nishinomiya,1
+AICHI,petit_bateau,Nagoya Naka Ward,1
+AICHI,petit_bateau,Nagoya Chikusa Ward,1
+TOKYO,petit_bateau,Musashino,1
+TOKYO,petit_bateau,Meguro City,1
+KYOTO,petit_bateau,Kyoto Shimogyo Ward,2
+KUMAMOTO,petit_bateau,Kumamoto Chuo Ward,1
+HYOGO,petit_bateau,Kobe Chuo Ward,1
+KAGOSHIMA,petit_bateau,Kagoshima,1
+SHIZUOKA,petit_bateau,Gotemba,1
+FUKUOKA,petit_bateau,Fukuoka Chuo Ward,1
+FUKUOKA,petit_bateau,Fukuoka Hakata Ward,1
+TOKYO,petit_bateau,Chuo City,2
+TOKYO,petit_bateau,Chiyoda City,1
+TOKYO,rains,unknown,1
+UNKNOWN,scania,Aichi,2
+UNKNOWN,scania,Aomori,1
+UNKNOWN,scania,Chiba,1
+UNKNOWN,scania,Fukui,1
+UNKNOWN,scania,Fukuoka,1
+UNKNOWN,scania,Fukushima,2
+UNKNOWN,scania,Gifu,1
+UNKNOWN,scania,Gunma,1
+UNKNOWN,scania,Hiroshima,1
+UNKNOWN,scania,Hokkaido,2
+UNKNOWN,scania,Hokaiddo,1
+UNKNOWN,scania,Ibaraki,2
+UNKNOWN,scania,Iwate,1
+UNKNOWN,scania,Kagoshima,1
+UNKNOWN,scania,Kanagawa,3
+UNKNOWN,scania,Kochi,1
+UNKNOWN,scania,Kumamoto,1
+UNKNOWN,scania,Ehime,1
+UNKNOWN,scania,Mie,1
+UNKNOWN,scania,Miyagi,1
+UNKNOWN,scania,Niigata,1
+UNKNOWN,scania,Oita,1
+UNKNOWN,scania,Okayama,1
+UNKNOWN,scania,Okinawa,1
+UNKNOWN,scania,Osaka,5
+UNKNOWN,scania,Saga,1
+UNKNOWN,scania,Tosu,1
+UNKNOWN,scania,Saitama,1
+UNKNOWN,scania,Shiga,1
+UNKNOWN,scania,Shizuoka,1
+UNKNOWN,scania,Tokushima-ken,1
+UNKNOWN,scania,"Itano-gun, Tokushima-ken",1
+UNKNOWN,scania,Tokyo,4
+UNKNOWN,scania,Toyama,1
+UNKNOWN,scania,Yamanashi,1
+TOKYO,shake_shack,unknown,7
+OSAKA,shake_shack,unknown,2
+KYOTO,shake_shack,unknown,1
+SHIZUOKA,shake_shack,unknown,1
+UNKNOWN,sixt,Miyazaki,1
+UNKNOWN,sixt,Mihara,1
+UNKNOWN,sixt,Nobeoka,1
+UNKNOWN,sixt,Tokyo,3
+UNKNOWN,sixt,Niigata,1
+UNKNOWN,sixt,Osaka,4
+UNKNOWN,sixt,Hokuto,1
+UNKNOWN,sixt,Suzuka,1
+UNKNOWN,sixt,Aomori,2
+UNKNOWN,sixt,Koriyama,1
+UNKNOWN,sixt,Nasushiobara,1
+UNKNOWN,sixt,Abashiri,1
+UNKNOWN,sixt,Kushiro,2
+UNKNOWN,sixt,Obihiro,1
+UNKNOWN,sixt,Kamikawa,1
+UNKNOWN,sixt,Hakodate,2
+UNKNOWN,sixt,Sapporo,3
+UNKNOWN,sixt,"Sapporo, Chuo-ku",1
+UNKNOWN,sixt,Kitami,1
+UNKNOWN,sixt,Asahikawa,1
+UNKNOWN,sixt,Nakashibetsu-cho,1
+UNKNOWN,sixt,Kunigami-gun,1
+UNKNOWN,sixt,Naha,2
+UNKNOWN,sixt,Morioka,1
+UNKNOWN,sixt,Fukuoka,2
+UNKNOWN,sixt,Kitakyushu,1
+UNKNOWN,sixt,Sennan,1
+UNKNOWN,sixt,Kyoto,1
+UNKNOWN,sixt,Nagoya,1
+UNKNOWN,sixt,Sendai,1
+UNKNOWN,sixt,Utsunomiya,1
+UNKNOWN,sixt,Narita,1
+UNKNOWN,sixt,Iwanuma,1
+UNKNOWN,sixt,Chitose,1
+UNKNOWN,sixt,Tomigusuku,1
+UNKNOWN,smart,Shibuya-ku,1
+UNKNOWN,smart,Ota-ku,1
+UNKNOWN,smart,Gifu-shi,1
+UNKNOWN,smart,Nakano-ku,1
+UNKNOWN,smart,Minato-ku,1
+UNKNOWN,smart,"Kita-ku, Kumamoto-shi",1
+UNKNOWN,smart,"Tsurumi-ku, Yokohama-shi",1
+UNKNOWN,smart,Fujisawa-shi,1
+UNKNOWN,smart,Kariya-shi,1
+UNKNOWN,smart,Naha-shi,1
+UNKNOWN,super_hotel_jp,unknown,174
+UNKNOWN,timberland,Aichi-ken,1
+UNKNOWN,timberland,Chiba-ken,1
+UNKNOWN,timberland,Fukuoka-ken,2
+UNKNOWN,timberland,Gifu-ken,1
+UNKNOWN,timberland,Hiroshima-ken,1
+UNKNOWN,timberland,Hokkai-do,3
+UNKNOWN,timberland,Hyogo-ken,1
+UNKNOWN,timberland,Ibaraki-ken,1
+UNKNOWN,timberland,Iwate-ken,1
+UNKNOWN,timberland,Kagawa-ken,1
+UNKNOWN,timberland,Kagoshima-ken,1
+UNKNOWN,timberland,Kanagawa-ken,5
+UNKNOWN,timberland,Mie-ken,1
+UNKNOWN,timberland,Miyagi-ken,1
+UNKNOWN,timberland,Nagano-ken,1
+UNKNOWN,timberland,Nagasaki-ken,1
+UNKNOWN,timberland,Niigata-ken,1
+UNKNOWN,timberland,Osaka-fu,5
+UNKNOWN,timberland,Saga-ken,1
+UNKNOWN,timberland,Saitama-ken,1
+UNKNOWN,timberland,Shizuoka-ken,1
+UNKNOWN,timberland,Tochigi-ken,2
+UNKNOWN,timberland,Tokyo,7
+UNKNOWN,timberland,Wakayama-ken,1
+FUKUOKA,travelex,"Hakata-ku, Fukuoka-shi,",1
+FUKUOKA,travelex,"Fukuoka-shi,",2
+OKINAWA,travelex,Naha-shi,1
+HIROSHIMA,travelex,"Naka-ku, Hiroshima-shi",1
+HIROSHIMA,travelex,"Mihara-shi,",1
+OKAYAMA,travelex,"Okayama-shi,",1
+HOKKAIDO,travelex,"Sapporo-shi,",1
+HOKKAIDO,travelex,"Chitose-shi,",6
+HOKKAIDO,travelex,Chitose-shi,1
+HYOGO,travelex,"Kobe-shi,",1
+ISHIKAWA,travelex,"Kanazawa-shi,",1
+OSAKA,travelex,"Toyonaka-shi,",1
+OSAKA,travelex,Izumisano-shi,1
+OSAKA,travelex,"Sennan-gun,",1
+OSAKA,travelex,"Sennan-gun,Tajiricho",1
+OSAKA,travelex,"Osaka-shi,",1
+OSAKA,travelex,Osaka-shi,1
+OSAKA,travelex,"Tennoji-ku, Osaka-shi",1
+KYOTO,travelex,Kyoto-shi,1
+AICHI,travelex,"Nagoya-shi,",2
+AICHI,travelex,"Tokoname-shi,",3
+AICHI,travelex,Tokoname-shi,1
+SHIZUOKA,travelex,"Hamamatsu-shi,",1
+MIYAGI,travelex,"Sendai-shi, Aoba-ku",1
+MIYAGI,travelex,Sendai-shi,1
+MIYAGI,travelex,Natori-shi,1
+SHIZUOKA,travelex,Makinohara-shi,1
+SHIZUOKA,travelex,Shizuoka-shi,1
+SAITAMA,travelex,"Saitama-shi, Saitama",1
+SAITAMA,travelex,Saitama-shi,1
+TOKYO,travelex,"Toshima-ku,",1
+TOKYO,travelex,Toshima-ku,1
+TOKYO,travelex,Shinjuku-ku,1
+TOKYO,travelex,Shibuya-ku,1
+TOKYO,travelex,"Shibuya-ku,",2
+TOKYO,travelex,Taito-Ku,1
+TOKYO,travelex,Chiyoda-Ku,1
+TOKYO,travelex,"Chiyoda-ku,",1
+TOKYO,travelex,"Minato-ku,",2
+TOKYO,travelex,"Taito-ku,",1
+TOKYO,travelex,"Yaesu, Chuo-ku",1
+KANAGAWA,travelex,Fujisawa-shi,1
+TOKYO,travelex,Chuo-ku,1
+KANAGAWA,travelex,"Yokohama-shi,",2
+KANAGAWA,travelex,"Nishi-kuYokohama-shi,",1
+KANAGAWA,travelex,Kawasaki-shi,1
+TOKYO,travelex,Tokyo,1
+TOKYO,travelex,Ota-ku,4
+TOKYO,travelex,Otaku,1
+CHIBA,travelex,"Funabashi-shi,",1
+CHIBA,travelex,Narita-shi,2
+UNKNOWN,trekbikes,仙台市泉区,1
+UNKNOWN,trekbikes,名古屋市,1
+UNKNOWN,trekbikes,千代田区,1
+UNKNOWN,trekbikes,東大阪市,1
+UNKNOWN,trekbikes,新潟市中央区,1
+UNKNOWN,trekbikes,高崎市,1
+UNKNOWN,trekbikes,静岡市駿河区,1
+UNKNOWN,trekbikes,金沢市,1
+UNKNOWN,trekbikes,鹿児島市,1
+UNKNOWN,trekbikes,豊島区,1
+UNKNOWN,trekbikes,福岡市,1
+UNKNOWN,trekbikes,神戸市中央区,1
+UNKNOWN,trekbikes,渋谷区,1
+UNKNOWN,trekbikes,深谷市,1
+UNKNOWN,trekbikes,浜松市,1
+UNKNOWN,trekbikes,岐阜市,1
+UNKNOWN,trekbikes,富山市,1
+UNKNOWN,trekbikes,宇都宮市,1
+UNKNOWN,trekbikes,天理市,1
+UNKNOWN,trekbikes,大阪市,3
+UNKNOWN,trekbikes,四日市市,1
+UNKNOWN,trekbikes,仙台市青葉区,1
+UNKNOWN,trekbikes,甲府市,1
+UNKNOWN,trekbikes,港区,1
+UNKNOWN,trekbikes,昭島市,1
+UNKNOWN,trekbikes,市原市,1
+UNKNOWN,trekbikes,横浜市,1
+UNKNOWN,trekbikes,神戸市,1
+UNKNOWN,trekbikes,福岡県北九州市,1
+UNKNOWN,trekbikes,松山市,1
+UNKNOWN,united_colors_of_benetton,OSAKA,1
+TOKYO,verve_coffee_roasters,unknown,3
+KANAGAWA,verve_coffee_roasters,unknown,1
+UNKNOWN,visa,OKINAWA,225
+UNKNOWN,visa,ISHIGAKI-SHI OKINAWA,2
+UNKNOWN,visa,NAGASAKI,326
+UNKNOWN,visa,HIRADO-SHI NAGASAKI,4
+UNKNOWN,visa,SAGA,188
+UNKNOWN,visa,SASEBO-SHI NAGASAKI,43
+UNKNOWN,visa,MATSUURA-SHI NAGASAKI,3
+UNKNOWN,visa,KITAMATSUURA-GUN NAGASAKI,2
+UNKNOWN,visa,KARATSU-SHI SAGA,26
+UNKNOWN,visa,SAIKAI-SHI NAGASAKI,6
+JAPAN,visa,SASEBO,3
+UNKNOWN,visa,IMARI-SHI SAGA,12
+UNKNOWN,visa,NISHIMATSUURA-GUN SAGA,6
+UNKNOWN,visa,FUKUOKA,828
+UNKNOWN,visa,HIGASHISONOGI-GUN NAGASAKI,6
+UNKNOWN,visa,TAKEO-SHI SAGA,10
+UNKNOWN,visa,NAGASAKI-SHI NAGASAKI,65
+UNKNOWN,visa,ITOSHIMA-SHI FUKUOKA,15
+UNKNOWN,visa,NISHI-KU FUKUOKA-SHI FUKUOKA,34
+UNKNOWN,visa,NISHISONOGI-GUN NAGASAKI,7
+UNKNOWN,visa,URESHINO-SHI SAGA,3
+UNKNOWN,visa,TAKU-SHI SAGA,5
+UNKNOWN,visa,OMURA-SHI NAGASAKI,20
+UNKNOWN,visa,HIGASHI-KU FUKUOKA-SHI FUKUOKA,57
+UNKNOWN,visa,KISHIMA-GUN SAGA,9
+UNKNOWN,visa,SAWARA-KU FUKUOKA-SHI FUKUOKA,36
+NAGASAKI,visa,NAGASAKI-SHI,1
+UNKNOWN,visa,KASHIMA-SHI SAGA,7
+UNKNOWN,visa,OGI-SHI SAGA,9
+UNKNOWN,visa,FUKUTSU-SHI FUKUOKA,12
+UNKNOWN,visa,CHUO-KU FUKUOKA-SHI FUKUOKA,55
+UNKNOWN,visa,KASUYA-GUN FUKUOKA,39
+UNKNOWN,visa,JONAN-KU FUKUOKA-SHI FUKUOKA,23
+UNKNOWN,visa,SAGA-SHI SAGA,59
+UNKNOWN,visa,KOGA-SHI FUKUOKA,16
+UNKNOWN,visa,HAKATA-KU FUKUOKA-SHI FUKUOKA,78
+FUKUOKASHI,visa,CHUO-KU,2
+UNKNOWN,visa,ISAHAYA-SHI NAGASAKI,24
+UNKNOWN,visa,MINAMI-KU FUKUOKA-SHI FUKUOKA,44
+UNKNOWN,visa,MUNAKATA-SHI FUKUOKA,14
+UNKNOWN,visa,YAMAGUCHI,381
+FUKUOKA,visa,FUKUOKA-SHI,1
+FUKUOKASHI,visa,HAKATA-KU,2
+UNKNOWN,visa,ONGA-GUN FUKUOKA,16
+UNKNOWN,visa,KASUGA-SHI FUKUOKA,20
+UNKNOWN,visa,NAKAGAWA-SHI FUKUOKA,1
+UNKNOWN,visa,ONOJO-SHI FUKUOKA,18
+UNKNOWN,visa,FUJITSU-GUN SAGA,1
+UNKNOWN,visa,MIYAWAKA-SHI FUKUOKA,8
+UNKNOWN,visa,KANZAKI-SHI SAGA,6
+UNKNOWN,visa,WAKAMATSU-KU KITAKYUSHU-SHI FUKUOKA,18
+UNKNOWN,visa,DAZAIFU-SHI FUKUOKA,15
+UNKNOWN,visa,YAHATANISHI-KU KITAKYUSHU-SHI FUKUOKA,50
+UNKNOWN,visa,KANZAKI-GUN SAGA,2
+UNKNOWN,visa,CHIKUSHINO-SHI FUKUOKA,21
+UNKNOWN,visa,KURATE-GUN FUKUOKA,5
+UNKNOWN,visa,NAKAMA-SHI FUKUOKA,11
+UNKNOWN,visa,OKAWA-SHI FUKUOKA,8
+UNKNOWN,visa,MIYAKI-GUN SAGA,9
+UNKNOWN,visa,NOGATA-SHI FUKUOKA,9
+UNKNOWN,visa,UNZEN-SHI NAGASAKI,8
+UNKNOWN,visa,TOSU-SHI SAGA,18
+UNKNOWN,visa,SHIMONOSEKI-SHI YAMAGUCHI,71
+UNKNOWN,visa,NAGATO-SHI YAMAGUCHI,6
+UNKNOWN,visa,KURUME-SHI FUKUOKA,57
+UNKNOWN,visa,YANAGAWA-SHI FUKUOKA,13
+UNKNOWN,visa,IIZUKA-SHI FUKUOKA,31
+UNKNOWN,visa,YAHATAHIGASHI-KU KITAKYUSHU-SHI FUKUOKA,10
+UNKNOWN,visa,KUMAMOTO,421
+UNKNOWN,visa,ASAKURA-GUN FUKUOKA,6
+UNKNOWN,visa,OGORI-SHI FUKUOKA,8
+UNKNOWN,visa,TOBATA-KU KITAKYUSHU-SHI FUKUOKA,10
+UNKNOWN,visa,MIZUMA-GUN FUKUOKA,3
+UNKNOWN,visa,KAHO-GUN FUKUOKA,4
+UNKNOWN,visa,KOKURAKITA-KU KITAKYUSHU-SHI FUKUOKA,50
+FUKUOKA,visa,KURUME-SHI,1
+UNKNOWN,visa,CHIKUGO-SHI FUKUOKA,13
+UNKNOWN,visa,KAMA-SHI FUKUOKA,7
+UNKNOWN,visa,MII-GUN FUKUOKA,3
+UNKNOWN,visa,TAGAWA-GUN FUKUOKA,8
+UNKNOWN,visa,YAME-GUN FUKUOKA,3
+KITAKYUSHUSHI,visa,KOKURAKITA-KU,1
+UNKNOWN,visa,MIYAMA-SHI FUKUOKA,6
+UNKNOWN,visa,KOKURAMINAMI-KU KITAKYUSHU-SHI FUKUOKA,37
+UNKNOWN,visa,KAGOSHIMA,450
+UNKNOWN,visa,MINAMISHIMABARA-SHI NAGASAKI,4
+UNKNOWN,visa,SHIMABARA-SHI NAGASAKI,9
+UNKNOWN,visa,OMUTA-SHI FUKUOKA,25
+UNKNOWN,visa,YAME-SHI FUKUOKA,12
+UNKNOWN,visa,TAGAWA-SHI FUKUOKA,10
+UNKNOWN,visa,MOJI-KU KITAKYUSHU-SHI FUKUOKA,21
+UNKNOWN,visa,ASAKURA-SHI FUKUOKA,13
+UNKNOWN,visa,ARAO-SHI KUMAMOTO,11
+UNKNOWN,visa,AMAKUSA-SHI KUMAMOTO,6
+UNKNOWN,visa,TAMANA-GUN KUMAMOTO,8
+UNKNOWN,visa,SAN-YOONODA-SHI YAMAGUCHI,17
+UNKNOWN,visa,MIYAKO-GUN FUKUOKA,15
+UNKNOWN,visa,UKIHA-SHI FUKUOKA,5
+UNKNOWN,visa,MINE-SHI YAMAGUCHI,3
+UNKNOWN,visa,YUKUHASHI-SHI FUKUOKA,16
+UNKNOWN,visa,TAMANA-SHI KUMAMOTO,14
+UNKNOWN,visa,HAGI-SHI YAMAGUCHI,6
+UNKNOWN,visa,HOKKAIDO,1361
+UNKNOWN,visa,UBE-SHI YAMAGUCHI,41
+UNKNOWN,visa,CHIKUJO-GUN FUKUOKA,6
+UNKNOWN,visa,YAMAGA-SHI KUMAMOTO,10
+UNKNOWN,visa,KAMIAMAKUSA-SHI KUMAMOTO,1
+UNKNOWN,visa,OITA,315
+UNKNOWN,visa,KITA-KU KUMAMOTO-SHI KUMAMOTO,26
+UNKNOWN,visa,HITA-SHI OITA,13
+UNKNOWN,visa,SHIMANE,275
+UNKNOWN,visa,UTO-SHI KUMAMOTO,8
+UNKNOWN,visa,NISHI-KU KUMAMOTO-SHI KUMAMOTO,18
+UNKNOWN,visa,YAMAGUCHI-SHI YAMAGUCHI,45
+UNKNOWN,visa,BUZEN-SHI FUKUOKA,6
+UNKNOWN,visa,KIKUCHI-SHI KUMAMOTO,9
+UNKNOWN,visa,MINAMI-KU KUMAMOTO-SHI KUMAMOTO,26
+UNKNOWN,visa,KOSHI-SHI KUMAMOTO,7
+UNKNOWN,visa,CHUO-KU KUMAMOTO-SHI KUMAMOTO,61
+OKINAWA,visa,NAHA,7
+UNKNOWN,visa,NAHA-SHI OKINAWA,53
+UNKNOWN,visa,NAKAGAMI-GUN OKINAWA,11
+JAPAN,visa,OKINAWA,7
+KUMAMOTOSHI,visa,CHUO-KU,1
+UNKNOWN,visa,IZUMI-SHI KAGOSHIMA,5
+UNKNOWN,visa,URASOE-SHI OKINAWA,14
+UNKNOWN,visa,TOMIGUSUKU-SHI OKINAWA,9
+UNKNOWN,visa,MASUDA-SHI SHIMANE,5
+UNKNOWN,visa,KIKUCHI-GUN KUMAMOTO,11
+UNKNOWN,visa,NAKATSU-SHI OITA,16
+OKINAWA,visa,TOMIGUSUKU,1
+OKINAWA,visa,URASOE,4
+OKINAWA,visa,ITOMAN,1
+UNKNOWN,visa,HIGASHI-KU KUMAMOTO-SHI KUMAMOTO,45
+UNKNOWN,visa,HOFU-SHI YAMAGUCHI,28
+UNKNOWN,visa,YATSUSHIRO-SHI KUMAMOTO,32
+UNKNOWN,visa,MINAMATA-SHI KUMAMOTO,2
+UNKNOWN,visa,ITOMAN-SHI OKINAWA,3
+UNKNOWN,visa,UKI-SHI KUMAMOTO,13
+UNKNOWN,visa,ASHIKITA-GUN KUMAMOTO,4
+UNKNOWN,visa,KUNIGAMI-GUN OKINAWA,8
+UNKNOWN,visa,GINOWAN-SHI OKINAWA,8
+UNKNOWN,visa,KAMIMASHIKI-GUN KUMAMOTO,15
+UNKNOWN,visa,SHIMAJIRI-GUN OKINAWA,6
+OKINAWA,visa,GINOWAN,2
+JAPAN,visa,FUTENMA,1
+OKINAWA,visa,SHIMAJIRI-GUN,2
+UNKNOWN,visa,YATSUSHIRO-GUN KUMAMOTO,4
+UNKNOWN,visa,SATSUMASENDAI-SHI KAGOSHIMA,14
+OKINAWA,visa,OKINAWA,4
+UNKNOWN,visa,HAMADA-SHI SHIMANE,10
+UNKNOWN,visa,URUMA-SHI OKINAWA,15
+UNKNOWN,visa,OKINAWA-SHI OKINAWA,13
+JAPAN,visa,"CHATAN TOWN, OKINAWA",1
+UNKNOWN,visa,JAPAN,4
+JAPAN,visa,"URUMA CITY, OKINAWA",2
+JP,visa,OKINAWA,2
+UNKNOWN,visa,NANJO-SHI OKINAWA,3
+OKINAWA,visa,NANJO,1
+OKINAWA,visa,URUMA,1
+UNKNOWN,visa,KUSU-GUN OITA,5
+UNKNOWN,visa,NAGO-SHI OKINAWA,12
+UNKNOWN,visa,ASO-GUN KUMAMOTO,3
+UNKNOWN,visa,ICHIKIKUSHIKINO-SHI KAGOSHIMA,4
+OKINAWA,visa,NAGO,2
+UNKNOWN,visa,USA-SHI OITA,11
+UNKNOWN,visa,GOTSU-SHI SHIMANE,3
+UNKNOWN,visa,ASO-SHI KUMAMOTO,5
+UNKNOWN,visa,SATSUMA-GUN KAGOSHIMA,2
+UNKNOWN,visa,HIOKI-SHI KAGOSHIMA,6
+UNKNOWN,visa,SHUNAN-SHI YAMAGUCHI,39
+UNKNOWN,visa,BUNGOTAKADA-SHI OITA,3
+UNKNOWN,visa,ISA-SHI KAGOSHIMA,3
+UNKNOWN,visa,HITOYOSHI-SHI KUMAMOTO,8
+UNKNOWN,visa,HIROSHIMA,675
+UNKNOWN,visa,MINAMISATSUMA-SHI KAGOSHIMA,2
+UNKNOWN,visa,KUMA-GUN KUMAMOTO,4
+UNKNOWN,visa,KAGOSHIMA-SHI KAGOSHIMA,87
+UNKNOWN,visa,YUFU-SHI OITA,5
+UNKNOWN,visa,IZUMO-SHI SHIMANE,18
+UNKNOWN,visa,KUDAMATSU-SHI YAMAGUCHI,13
+UNKNOWN,visa,AIRA-SHI KAGOSHIMA,7
+UNKNOWN,visa,MINAMIKYUSHU-SHI KAGOSHIMA,1
+UNKNOWN,visa,BEPPU-SHI OITA,21
+UNKNOWN,visa,HAYAMI-GUN OITA,5
+UNKNOWN,visa,MIYAZAKI,206
+UNKNOWN,visa,EBINO-SHI MIYAZAKI,4
+UNKNOWN,visa,KIRISHIMA-SHI KAGOSHIMA,21
+UNKNOWN,visa,AIRA-GUN KAGOSHIMA,1
+UNKNOWN,visa,YAMAGATA-GUN HIROSHIMA,6
+UNKNOWN,visa,HIKARI-SHI YAMAGUCHI,12
+UNKNOWN,visa,KITSUKI-SHI OITA,2
+UNKNOWN,visa,IWAKUNI-SHI YAMAGUCHI,29
+UNKNOWN,visa,HATSUKAICHI-SHI HIROSHIMA,21
+UNKNOWN,visa,KUNISAKI-SHI OITA,4
+UNKNOWN,visa,MATSUE-SHI SHIMANE,19
+UNKNOWN,visa,OITA-SHI OITA,81
+JAPAN,visa,IWAKUNI,2
+UNKNOWN,visa,OTAKE-SHI HIROSHIMA,6
+UNKNOWN,visa,KUMAGE-GUN YAMAGUCHI,5
+UNKNOWN,visa,YANAI-SHI YAMAGUCHI,10
+UNKNOWN,visa,KUGA-GUN YAMAGUCHI,1
+UNKNOWN,visa,SAEKI-KU HIROSHIMA-SHI HIROSHIMA,22
+UNKNOWN,visa,ASAKITA-KU HIROSHIMA-SHI HIROSHIMA,24
+UNKNOWN,visa,ASAMINAMI-KU HIROSHIMA-SHI HIROSHIMA,45
+UNKNOWN,visa,TARUMIZU-SHI KAGOSHIMA,2
+UNKNOWN,visa,KOBAYASHI-SHI MIYAZAKI,6
+UNKNOWN,visa,NISHI-KU HIROSHIMA-SHI HIROSHIMA,40
+UNKNOWN,visa,IBUSUKI-SHI KAGOSHIMA,6
+UNKNOWN,visa,BUNGOONO-SHI OITA,2
+UNKNOWN,visa,NAKA-KU HIROSHIMA-SHI HIROSHIMA,50
+UNKNOWN,visa,HIGASHI-KU HIROSHIMA-SHI HIROSHIMA,17
+UNKNOWN,visa,NISHIMOROKATA-GUN MIYAZAKI,1
+UNKNOWN,visa,AKITAKATA-SHI HIROSHIMA,6
+HIROSHIMASHI,visa,NAKA-KU,2
+UNKNOWN,visa,TOTTORI,155
+UNKNOWN,visa,MINAMI-KU HIROSHIMA-SHI HIROSHIMA,33
+UNKNOWN,visa,MIYOSHI-SHI HIROSHIMA,15
+UNKNOWN,visa,SAKAIMINATO-SHI TOTTORI,5
+UNKNOWN,visa,AKI-GUN HIROSHIMA,19
+UNKNOWN,visa,OSHIMA-GUN YAMAGUCHI,2
+UNKNOWN,visa,USUKI-SHI OITA,3
+UNKNOWN,visa,AKI-KU HIROSHIMA-SHI HIROSHIMA,13
+UNKNOWN,visa,SOO-SHI KAGOSHIMA,4
+UNKNOWN,visa,MIYAKONOJO-SHI MIYAZAKI,35
+UNKNOWN,visa,KANOYA-SHI KAGOSHIMA,13
+UNKNOWN,visa,YASUGI-SHI SHIMANE,3
+UNKNOWN,visa,ETAJIMA-SHI HIROSHIMA,4
+UNKNOWN,visa,HIGASHIHIROSHIMA-SHI HIROSHIMA,39
+UNKNOWN,visa,YONAGO-SHI TOTTORI,19
+UNKNOWN,visa,KURE-SHI HIROSHIMA,40
+UNKNOWN,visa,KIMOTSUKI-GUN KAGOSHIMA,3
+UNKNOWN,visa,SHIBUSHI-SHI KAGOSHIMA,5
+UNKNOWN,visa,KITAMOROKATA-GUN MIYAZAKI,3
+UNKNOWN,visa,TSUKUMI-SHI OITA,2
+UNKNOWN,visa,HIGASHIMOROKATA-GUN MIYAZAKI,3
+UNKNOWN,visa,SHOBARA-SHI HIROSHIMA,7
+UNKNOWN,visa,EHIME,365
+UNKNOWN,visa,SAIHAKU-GUN TOTTORI,3
+UNKNOWN,visa,SAIKI-SHI OITA,10
+UNKNOWN,visa,NOBEOKA-SHI MIYAZAKI,15
+UNKNOWN,visa,MIYAZAKI-SHI MIYAZAKI,72
+UNKNOWN,visa,SOO-GUN KAGOSHIMA,1
+UNKNOWN,visa,SAITO-SHI MIYAZAKI,6
+UNKNOWN,visa,HYUGA-SHI MIYAZAKI,9
+UNKNOWN,visa,HIGASHIUSUKI-GUN MIYAZAKI,2
+UNKNOWN,visa,KOYU-GUN MIYAZAKI,9
+UNKNOWN,visa,TOMAMAE-GUN HOKKAIDO,1
+UNKNOWN,visa,MIHARA-SHI HIROSHIMA,19
+UNKNOWN,visa,TAKEHARA-SHI HIROSHIMA,5
+UNKNOWN,visa,OKAYAMA,453
+UNKNOWN,visa,SERA-GUN HIROSHIMA,2
+UNKNOWN,visa,FUCHU-SHI HIROSHIMA,5
+UNKNOWN,visa,KUSHIMA-SHI MIYAZAKI,2
+UNKNOWN,visa,TOHAKU-GUN TOTTORI,3
+UNKNOWN,visa,NICHINAN-SHI MIYAZAKI,11
+UNKNOWN,visa,YAWATAHAMA-SHI EHIME,2
+UNKNOWN,visa,MATSUYAMA-SHI EHIME,64
+UNKNOWN,visa,NIIMI-SHI OKAYAMA,2
+UNKNOWN,visa,MANIWA-SHI OKAYAMA,10
+UNKNOWN,visa,ONOMICHI-SHI HIROSHIMA,16
+UNKNOWN,visa,IMABARI-SHI EHIME,14
+UNKNOWN,visa,IYO-GUN EHIME,6
+UNKNOWN,visa,OZU-SHI EHIME,2
+UNKNOWN,visa,IYO-SHI EHIME,2
+UNKNOWN,visa,RUMOI-GUN HOKKAIDO,1
+UNKNOWN,visa,KURAYOSHI-SHI TOTTORI,5
+UNKNOWN,visa,SEIYO-SHI EHIME,3
+UNKNOWN,visa,MASHIKE-GUN HOKKAIDO,1
+UNKNOWN,visa,IWANAI-GUN HOKKAIDO,2
+UNKNOWN,visa,FUKUYAMA-SHI HIROSHIMA,84
+UNKNOWN,visa,YOICHI-GUN HOKKAIDO,5
+UNKNOWN,visa,RUMOI-SHI HOKKAIDO,4
+UNKNOWN,visa,KITA-GUN EHIME,1
+UNKNOWN,visa,NAKAGAWA-GUN HOKKAIDO,8
+UNKNOWN,visa,OTARU-SHI HOKKAIDO,20
+UNKNOWN,visa,TOON-SHI EHIME,3
+UNKNOWN,visa,UWAJIMA-SHI EHIME,4
+UNKNOWN,visa,IBARA-SHI OKAYAMA,7
+UNKNOWN,visa,TAKAHASHI-SHI OKAYAMA,5
+UNKNOWN,visa,TOTTORI-SHI TOTTORI,13
+UNKNOWN,visa,KASAOKA-SHI OKAYAMA,6
+HOKKAIDO,visa,OTARU,1
+UNKNOWN,visa,SAIJO-SHI EHIME,8
+UNKNOWN,visa,NAYORO-SHI HOKKAIDO,6
+UNKNOWN,visa,ODA-GUN OKAYAMA,3
+UNKNOWN,visa,SOJA-SHI OKAYAMA,9
+UNKNOWN,visa,ABUTA-GUN HOKKAIDO,14
+HOKKAIDO,visa,KUTCHAN,1
+UNKNOWN,visa,ASAKUCHI-SHI OKAYAMA,5
+UNKNOWN,visa,ASAKUCHI-GUN OKAYAMA,2
+UNKNOWN,visa,TOMATA-GUN OKAYAMA,3
+UNKNOWN,visa,YAMAKOSHI-GUN HOKKAIDO,2
+UNKNOWN,visa,KOCHI,253
+UNKNOWN,visa,TSUYAMA-SHI OKAYAMA,19
+UNKNOWN,visa,SHIBETSU-SHI HOKKAIDO,3
+UNKNOWN,visa,KURASHIKI-SHI OKAYAMA,84
+UNKNOWN,visa,NIIHAMA-SHI EHIME,9
+UNKNOWN,visa,HYOGO,941
+UNKNOWN,visa,YAZU-GUN TOTTORI,1
+UNKNOWN,visa,TEINE-KU SAPPORO-SHI HOKKAIDO,19
+UNKNOWN,visa,KITA-KU OKAYAMA-SHI OKAYAMA,71
+UNKNOWN,visa,KUME-GUN OKAYAMA,1
+UNKNOWN,visa,ISHIKARI-SHI HOKKAIDO,9
+UNKNOWN,visa,FUTAMI-GUN HOKKAIDO,3
+UNKNOWN,visa,KITA-KU SAPPORO-SHI HOKKAIDO,55
+UNKNOWN,visa,NISHI-KU SAPPORO-SHI HOKKAIDO,38
+UNKNOWN,visa,KAMIKAWA-GUN HOKKAIDO,17
+UNKNOWN,visa,FUKAGAWA-SHI HOKKAIDO,2
+UNKNOWN,visa,TSUKUBO-GUN OKAYAMA,1
+UNKNOWN,visa,TAKIKAWA-SHI HOKKAIDO,9
+UNKNOWN,visa,MINAMI-KU OKAYAMA-SHI OKAYAMA,24
+UNKNOWN,visa,KATSUTA-GUN OKAYAMA,1
+UNKNOWN,visa,HIGASHI-KU SAPPORO-SHI HOKKAIDO,51
+UNKNOWN,visa,ISHIKARI-GUN HOKKAIDO,5
+UNKNOWN,visa,KAGAWA,207
+UNKNOWN,visa,SHIKOKUCHUO-SHI EHIME,4
+UNKNOWN,visa,CHUO-KU SAPPORO-SHI HOKKAIDO,94
+UNKNOWN,visa,OKAYAMA-SHI OKAYAMA,1
+UNKNOWN,visa,MIMASAKA-SHI OKAYAMA,2
+HOKKAIDO,visa,SAPPORO,1
+UNKNOWN,visa,AKAIWA-SHI OKAYAMA,8
+UNKNOWN,visa,KABATO-GUN HOKKAIDO,1
+UNKNOWN,visa,HOKAIDO,1
+OKAYAMASHI,visa,KITA-KU,2
+SAPPOROSHI,visa,CHUO-KU,2
+UNKNOWN,visa,SUNAGAWA-SHI HOKKAIDO,5
+UNKNOWN,visa,NAKA-KU OKAYAMA-SHI OKAYAMA,22
+UNKNOWN,visa,NISHI-GUN HOKKAIDO,1
+UNKNOWN,visa,SHIROISHI-KU SAPPORO-SHI HOKKAIDO,48
+UNKNOWN,visa,TOYOHIRA-KU SAPPORO-SHI HOKKAIDO,40
+UNKNOWN,visa,MINAMI-KU SAPPORO-SHI HOKKAIDO,18
+UNKNOWN,visa,HIGASHI-KU OKAYAMA-SHI OKAYAMA,19
+UNKNOWN,visa,MITOYO-SHI KAGAWA,5
+UNKNOWN,visa,TAMANO-SHI OKAYAMA,7
+UNKNOWN,visa,ASAHIKAWA-SHI HOKKAIDO,76
+UNKNOWN,visa,AKABIRA-SHI HOKKAIDO,2
+UNKNOWN,visa,TAKAOKA-GUN KOCHI,2
+UNKNOWN,visa,SAKAIDE-SHI KAGAWA,12
+UNKNOWN,visa,KAN-ONJI-SHI KAGAWA,6
+UNKNOWN,visa,SORACHI-GUN HOKKAIDO,7
+UNKNOWN,visa,HIYAMA-GUN HOKKAIDO,3
+UNKNOWN,visa,NAKATADO-GUN KAGAWA,5
+UNKNOWN,visa,EBETSU-SHI HOKKAIDO,16
+UNKNOWN,visa,ATSUBETSU-KU SAPPORO-SHI HOKKAIDO,16
+UNKNOWN,visa,KIYOTA-KU SAPPORO-SHI HOKKAIDO,13
+UNKNOWN,visa,ZENTSUJI-SHI KAGAWA,6
+UNKNOWN,visa,DATE-SHI HOKKAIDO,6
+UNKNOWN,visa,MARUGAME-SHI KAGAWA,12
+UNKNOWN,visa,AYAUTA-GUN KAGAWA,4
+UNKNOWN,visa,BIBAI-SHI HOKKAIDO,4
+UNKNOWN,visa,WAKE-GUN OKAYAMA,2
+UNKNOWN,visa,SETOUCHI-SHI OKAYAMA,5
+UNKNOWN,visa,IWAMIZAWA-SHI HOKKAIDO,18
+UNKNOWN,visa,KITAHIROSHIMA-SHI HOKKAIDO,7
+UNKNOWN,visa,SUSAKI-SHI KOCHI,1
+UNKNOWN,visa,MIKASA-SHI HOKKAIDO,2
+UNKNOWN,visa,KAGAWA-GUN KAGAWA,1
+UNKNOWN,visa,BIZEN-SHI OKAYAMA,2
+UNKNOWN,visa,TOKUSHIMA,216
+UNKNOWN,visa,ASHIBETSU-SHI HOKKAIDO,3
+UNKNOWN,visa,TOYOOKA-SHI HYOGO,1
+UNKNOWN,visa,KAYABE-GUN HOKKAIDO,4
+UNKNOWN,visa,TOSA-SHI KOCHI,3
+UNKNOWN,visa,MOMBETSU-SHI HOKKAIDO,5
+UNKNOWN,visa,AGAWA-GUN KOCHI,1
+UNKNOWN,visa,TAKAMATSU-SHI KAGAWA,43
+UNKNOWN,visa,MIYOSHI-SHI TOKUSHIMA,4
+UNKNOWN,visa,KOCHI-SHI KOCHI,31
+UNKNOWN,visa,MURORAN-SHI HOKKAIDO,18
+UNKNOWN,visa,ENIWA-SHI HOKKAIDO,15
+UNKNOWN,visa,KYOTO,501
+UNKNOWN,visa,AKO-GUN HYOGO,2
+UNKNOWN,visa,YUBARI-GUN HOKKAIDO,6
+UNKNOWN,visa,NOBORIBETSU-SHI HOKKAIDO,10
+UNKNOWN,visa,SHOZU-GUN KAGAWA,6
+UNKNOWN,visa,AKO-SHI HYOGO,5
+UNKNOWN,visa,MIYOSHI-GUN TOKUSHIMA,2
+UNKNOWN,visa,SHISO-SHI HYOGO,3
+UNKNOWN,visa,CHITOSE-SHI HOKKAIDO,23
+UNKNOWN,visa,AIOI-SHI HYOGO,5
+UNKNOWN,visa,NANKOKU-SHI KOCHI,3
+UNKNOWN,visa,SHIRAOI-GUN HOKKAIDO,4
+UNKNOWN,visa,KAMEDA-GUN HOKKAIDO,4
+UNKNOWN,visa,KAMI-SHI KOCHI,3
+UNKNOWN,visa,HIMEJI-SHI HYOGO,91
+UNKNOWN,visa,TATSUNO-SHI HYOGO,9
+UNKNOWN,visa,KITA-GUN KAGAWA,1
+HOKKAIDO,visa,HOKUTO,1
+UNKNOWN,visa,SANUKI-SHI KAGAWA,4
+UNKNOWN,visa,HOKUTO-SHI HOKKAIDO,10
+HOKKAIDO,visa,CHITOSE,1
+UNKNOWN,visa,KAMIISO-GUN HOKKAIDO,2
+UNKNOWN,visa,KONAN-SHI KOCHI,2
+UNKNOWN,visa,TOMAKOMAI-SHI HOKKAIDO,37
+UNKNOWN,visa,IBO-GUN HYOGO,6
+UNKNOWN,visa,FURANO-SHI HOKKAIDO,5
+UNKNOWN,visa,MIMA-SHI TOKUSHIMA,4
+UNKNOWN,visa,HAKODATE-SHI HOKKAIDO,54
+UNKNOWN,visa,MOMBETSU-GUN HOKKAIDO,4
+UNKNOWN,visa,KANZAKI-GUN HYOGO,3
+UNKNOWN,visa,YUFUTSU-GUN HOKKAIDO,4
+KYOTO,visa,MIYAZU,1
+UNKNOWN,visa,YUBARI-SHI HOKKAIDO,1
+HYOGO,visa,HIMEJI-SHI,2
+UNKNOWN,visa,HIGASHIKAGAWA-SHI KAGAWA,2
+UNKNOWN,visa,YOSHINOGAWA-SHI TOKUSHIMA,5
+UNKNOWN,visa,KASAI-SHI HYOGO,7
+UNKNOWN,visa,FUKUCHIYAMA-SHI KYOTO,11
+UNKNOWN,visa,TAKA-GUN HYOGO,1
+UNKNOWN,visa,TAKASAGO-SHI HYOGO,13
+UNKNOWN,visa,AWA-SHI TOKUSHIMA,2
+UNKNOWN,visa,TAMBA-SHI HYOGO,6
+UNKNOWN,visa,NISHIWAKI-SHI HYOGO,5
+UNKNOWN,visa,KAKOGAWA-SHI HYOGO,33
+UNKNOWN,visa,AOMORI,293
+UNKNOWN,visa,ISHIKAWA,290
+UNKNOWN,visa,AYABE-SHI KYOTO,4
+UNKNOWN,visa,KATO-SHI HYOGO,5
+UNKNOWN,visa,MAIZURU-SHI KYOTO,10
+UNKNOWN,visa,ONO-SHI HYOGO,8
+UNKNOWN,visa,ITANO-GUN TOKUSHIMA,15
+UNKNOWN,visa,KAKO-GUN HYOGO,11
+UNKNOWN,visa,MIKI-SHI HYOGO,11
+UNKNOWN,visa,NARUTO-SHI TOKUSHIMA,7
+UNKNOWN,visa,AKASHI-SHI HYOGO,38
+UNKNOWN,visa,MYOZAI-GUN TOKUSHIMA,1
+UNKNOWN,visa,TOKORO-GUN HOKKAIDO,2
+UNKNOWN,visa,TOKUSHIMA-SHI TOKUSHIMA,33
+UNKNOWN,visa,FUKUI,231
+UNKNOWN,visa,NISHI-KU KOBE-SHI HYOGO,28
+UNKNOWN,visa,TAMBASASAYAMA-SHI HYOGO,2
+UNKNOWN,visa,KITAMI-SHI HOKKAIDO,31
+UNKNOWN,visa,SARU-GUN HOKKAIDO,2
+UNKNOWN,visa,SANDA-SHI HYOGO,12
+UNKNOWN,visa,KOMATSUSHIMA-SHI TOKUSHIMA,6
+HYOGO,visa,AKASHI-SHI,1
+UNKNOWN,visa,KITA-KU KOBE-SHI HYOGO,22
+UNKNOWN,visa,SAKAI-SHI FUKUI,14
+UNKNOWN,visa,MINAMIAWAJI-SHI HYOGO,2
+UNKNOWN,visa,TARUMI-KU KOBE-SHI HYOGO,21
+UNKNOWN,visa,AWAJI-SHI HYOGO,4
+UNKNOWN,visa,KAIFU-GUN TOKUSHIMA,2
+UNKNOWN,visa,NAKA-GUN TOKUSHIMA,1
+UNKNOWN,visa,SUMA-KU KOBE-SHI HYOGO,14
+UNKNOWN,visa,AWARA-SHI FUKUI,6
+UNKNOWN,visa,KAGA-SHI ISHIKAWA,8
+UNKNOWN,visa,SUMOTO-SHI HYOGO,2
+UNKNOWN,visa,NANAO-SHI ISHIKAWA,8
+UNKNOWN,visa,HAKUI-SHI ISHIKAWA,2
+UNKNOWN,visa,NISHINOMIYA-SHI HYOGO,63
+UNKNOWN,visa,NAGATA-KU KOBE-SHI HYOGO,16
+UNKNOWN,visa,KOMATSU-SHI ISHIKAWA,12
+UNKNOWN,visa,NOMI-SHI ISHIKAWA,7
+UNKNOWN,visa,KATO-GUN HOKKAIDO,9
+UNKNOWN,visa,AKITA,291
+UNKNOWN,visa,HAKUSAN-SHI ISHIKAWA,13
+UNKNOWN,visa,ANAN-SHI TOKUSHIMA,4
+UNKNOWN,visa,HYOGO-KU KOBE-SHI HYOGO,20
+UNKNOWN,visa,TSUGARU-SHI AOMORI,2
+UNKNOWN,visa,OBAMA-SHI FUKUI,2
+KOBESHI,visa,NAGATA-KU,1
+UNKNOWN,visa,NANTAN-SHI KYOTO,5
+UNKNOWN,visa,FUKUI-SHI FUKUI,55
+UNKNOWN,visa,KAHOKU-SHI ISHIKAWA,2
+UNKNOWN,visa,KASHIMA-GUN ISHIKAWA,2
+UNKNOWN,visa,CHUO-KU KOBE-SHI HYOGO,57
+UNKNOWN,visa,KANAZAWA-SHI ISHIKAWA,64
+KOBESHI,visa,HYOGO-KU,1
+UNKNOWN,visa,NOMI-GUN ISHIKAWA,2
+UNKNOWN,visa,KAHOKU-GUN ISHIKAWA,5
+UNKNOWN,visa,KAWABE-GUN HYOGO,4
+KOBESHI,visa,CHUO-KU,7
+UNKNOWN,visa,OSAKA,1255
+UNKNOWN,visa,NADA-KU KOBE-SHI HYOGO,24
+UNKNOWN,visa,ABASHIRI-SHI HOKKAIDO,8
+UNKNOWN,visa,GOSHOGAWARA-SHI AOMORI,4
+KOBESHI,visa,NADA-KU,2
+UNKNOWN,visa,NONOICHI-SHI ISHIKAWA,13
+UNKNOWN,visa,HIGASHINADA-KU KOBE-SHI HYOGO,26
+UNKNOWN,visa,SABAE-SHI FUKUI,13
+KOBESHI,visa,HIGASHINADA-KU,2
+UNKNOWN,visa,YOSHIDA-GUN FUKUI,3
+UNKNOWN,visa,KAWANISHI-SHI HYOGO,10
+UNKNOWN,visa,TAKARAZUKA-SHI HYOGO,22
+UNKNOWN,visa,KITATSUGARU-GUN AOMORI,2
+UNKNOWN,visa,ECHIZEN-SHI FUKUI,11
+UNKNOWN,visa,ABASHIRI-GUN HOKKAIDO,8
+ISHIKAWA,visa,KANAZAWA-SHI,2
+UNKNOWN,visa,ASHIYA-SHI HYOGO,10
+HYOGO,visa,ASHIYA-SHI,2
+UNKNOWN,visa,TOYAMA,233
+UNKNOWN,visa,KAMEOKA-SHI KYOTO,12
+UNKNOWN,visa,TOYONO-GUN OSAKA,1
+HYOGO,visa,NISHINOMIYA-SHI,2
+UNKNOWN,visa,ITAMI-SHI HYOGO,22
+UNKNOWN,visa,MIKATAKAMINAKA-GUN FUKUI,1
+UNKNOWN,visa,MINO-SHI OSAKA,11
+UNKNOWN,visa,IKEDA-SHI OSAKA,12
+UNKNOWN,visa,AMAGASAKI-SHI HYOGO,60
+UNKNOWN,visa,HIMI-SHI TOYAMA,4
+UNKNOWN,visa,NIIKAPPU-GUN HOKKAIDO,1
+OSAKA,visa,IKEDA-SHI,2
+UNKNOWN,visa,NANJO-GUN FUKUI,2
+UNKNOWN,visa,TSURUGA-SHI FUKUI,14
+UNKNOWN,visa,WAKAYAMA,280
+UNKNOWN,visa,KASAI-GUN HOKKAIDO,6
+UNKNOWN,visa,TOYONAKA-SHI OSAKA,45
+OSAKA,visa,TOYONAKA-SHI,8
+OSAKA,visa,MINO-SHI,1
+UNKNOWN,visa,AOMORI-SHI AOMORI,29
+UNKNOWN,visa,HIDAKA-GUN HOKKAIDO,5
+UNKNOWN,visa,OYABE-SHI TOYAMA,4
+UNKNOWN,visa,HIROSAKI-SHI AOMORI,22
+UNKNOWN,visa,MINAMITSUGARU-GUN AOMORI,1
+UNKNOWN,visa,SUITA-SHI OSAKA,39
+UNKNOWN,visa,IBARAKI-SHI OSAKA,39
+UNKNOWN,visa,SENNAN-GUN OSAKA,9
+UNKNOWN,visa,WAKAYAMA-SHI WAKAYAMA,55
+UNKNOWN,visa,KONOHANA-KU OSAKA-SHI OSAKA,10
+UNKNOWN,visa,IZUMISANO-SHI OSAKA,21
+UNKNOWN,visa,NOSHIRO-SHI AKITA,1
+UNKNOWN,visa,SHIGA,261
+UNKNOWN,visa,TAKAOKA-SHI TOYAMA,19
+UNKNOWN,visa,ASHORO-GUN HOKKAIDO,1
+OSAKA,visa,IZUMISANO-SHI,3
+UNKNOWN,visa,OBIHIRO-SHI HOKKAIDO,49
+UNKNOWN,visa,YODOGAWA-KU OSAKA-SHI OSAKA,32
+UNKNOWN,visa,NISHIYODOGAWA-KU OSAKA-SHI OSAKA,9
+OSAKA,visa,SUITA-SHI,8
+OSAKASHI,visa,NISHIYODOGAWA-KU,1
+UNKNOWN,visa,UKYO-KU KYOTO-SHI KYOTO,27
+UNKNOWN,visa,SUMINOE-KU OSAKA-SHI OSAKA,28
+UNKNOWN,visa,TAKATSUKI-SHI OSAKA,48
+OSAKASHI,visa,SUMINOE-KU,3
+UNKNOWN,visa,MINATO-KU OSAKA-SHI OSAKA,17
+UNKNOWN,visa,HANNAN-SHI OSAKA,5
+OSAKASHI,visa,YODOGAWA-KU,11
+UNKNOWN,visa,FUKUSHIMA-KU OSAKA-SHI OSAKA,17
+OSAKASHI,visa,MINATO-KU,2
+OSAKASHI,visa,KONOHANA-KU,1
+UNKNOWN,visa,NISHIKYO-KU KYOTO-SHI KYOTO,19
+UNKNOWN,visa,HIGASHIYODOGAWA-KU OSAKA-SHI OSAKA,22
+UNKNOWN,visa,KUROISHI-SHI AOMORI,3
+UNKNOWN,visa,SETTSU-SHI OSAKA,16
+UNKNOWN,visa,KITA-KU OSAKA-SHI OSAKA,58
+OSAKASHI,visa,FUKUSHIMA-KU,3
+UNKNOWN,visa,KATSUYAMA-SHI FUKUI,4
+UNKNOWN,visa,KITA-KU KYOTO-SHI KYOTO,20
+UNKNOWN,visa,NISHI-KU OSAKA-SHI OSAKA,33
+UNKNOWN,visa,MINAMIAKITA-GUN AKITA,4
+UNKNOWN,visa,TONAMI-SHI TOYAMA,6
+UNKNOWN,visa,NANTO-SHI TOYAMA,4
+KYOTO,visa,KITA-KU,1
+OSAKASHI,visa,KITA-KU,17
+OSAKASHI,visa,HIGASHIYODOGAWA-KU,5
+UNKNOWN,visa,TAISHO-KU OSAKA-SHI OSAKA,14
+KYOTOSHI,visa,NISHIKYO-KU,1
+OSAKA,visa,OSAKA,4
+UNKNOWN,visa,SENNAN-SHI OSAKA,4
+UNKNOWN,visa,NAKAGYO-KU KYOTO-SHI KYOTO,40
+OSAKA,visa,IBARAKI-SHI,2
+OSAKA,visa,KITA-KU,3
+UMEDA,visa,3,1
+UNKNOWN,visa,KAMIGYO-KU KYOTO-SHI KYOTO,15
+KITAKU,visa,KAKUDACHO,1
+UNKNOWN,visa,CHUO-KU OSAKA-SHI OSAKA,84
+WAKAYAMA,visa,WAKAYAMA-SHI,1
+UNKNOWN,visa,TAKASHIMA-SHI SHIGA,10
+UNKNOWN,visa,NANIWA-KU OSAKA-SHI OSAKA,21
+UNKNOWN,visa,MIYAKOJIMA-KU OSAKA-SHI OSAKA,22
+OSAKASHI,visa,TAISHO-KU,1
+OSAKASHI,visa,NISHI-KU,3
+KYOTOSHI,visa,UKYO-KU,3
+UNKNOWN,visa,OGA-SHI AKITA,2
+OSAKASHI,visa,CHUO-KU,25
+UNKNOWN,visa,NAGAOKAKYO-SHI KYOTO,8
+SENBONDORI,visa,IMADEGAWA-SAGARU,1
+UNKNOWN,visa,IMIZU-SHI TOYAMA,12
+UNKNOWN,visa,SAKYO-KU KYOTO-SHI KYOTO,21
+UNKNOWN,visa,SAKAI-KU SAKAI-SHI OSAKA,28
+OSAKA,visa,TAKATSUKI-SHI,2
+UNKNOWN,visa,NISHI-KU SAKAI-SHI OSAKA,24
+UNKNOWN,visa,MUKO-SHI KYOTO,8
+UNKNOWN,visa,KAIZUKA-SHI OSAKA,9
+UNKNOWN,visa,MINAMI-KU KYOTO-SHI KYOTO,29
+UNKNOWN,visa,ASAHI-KU OSAKA-SHI OSAKA,12
+MINAMISENBA,visa,4,1
+UNKNOWN,visa,SHIMOGYO-KU KYOTO-SHI KYOTO,37
+OSAKASHI,visa,NANIWA-KU,4
+OSAKASHI,visa,MIYAKOJIMA-KU,6
+MUKOSHI,visa,TERADOCHO,1
+UNKNOWN,visa,NISHINARI-KU OSAKA-SHI OSAKA,14
+SHIMOGYOKU,visa,NISHISHICHIJO,1
+UNKNOWN,visa,JOTO-KU OSAKA-SHI OSAKA,27
+SENNICHIMAE,visa,1,1
+UNKNOWN,visa,MORIGUCHI-SHI OSAKA,22
+UNKNOWN,visa,TOKYO,1999
+UNKNOWN,visa,KISHIWADA-SHI OSAKA,25
+UNKNOWN,visa,ARIDA-SHI WAKAYAMA,1
+UNKNOWN,visa,MISHIMA-GUN OSAKA,3
+OMIYADORI,visa,SHIJO-SAGARU,1
+UNKNOWN,visa,IZUMIOTSU-SHI OSAKA,9
+UNKNOWN,visa,TENNOJI-KU OSAKA-SHI OSAKA,23
+DEMACHIDORI,visa,IMADEGAWA-AGARU,1
+OSAKASHI,visa,ASAHI-KU,1
+OSAKASHI,visa,NISHINARI-KU,3
+UNKNOWN,visa,SEMBOKU-GUN OSAKA,1
+UNKNOWN,visa,HIRAKAWA-SHI AOMORI,1
+UNKNOWN,visa,ONO-SHI FUKUI,3
+UNKNOWN,visa,SHARI-GUN HOKKAIDO,5
+UNKNOWN,visa,OTOKUNI-GUN KYOTO,1
+KYOTO,visa,KYOTO,1
+UNKNOWN,visa,NEYAGAWA-SHI OSAKA,32
+OSAKA,visa,MORIGUCHI-SHI,1
+UNKNOWN,visa,ABENO-KU OSAKA-SHI OSAKA,19
+KARASUMADORI,visa,GOJO-SAGARU,1
+SHIJODORI,visa,KARASUMA-HIGASHIIRU,2
+UNKNOWN,visa,HIRAKATA-SHI OSAKA,55
+UNKNOWN,visa,SUMIYOSHI-KU OSAKA-SHI OSAKA,21
+UNKNOWN,visa,KADOMA-SHI OSAKA,17
+UNKNOWN,visa,HIGASHIYAMA-KU KYOTO-SHI KYOTO,12
+UNKNOWN,visa,HIGASHINARI-KU OSAKA-SHI OSAKA,13
+UNKNOWN,visa,TAKAISHI-SHI OSAKA,7
+OSAKASHI,visa,TENNOJI-KU,3
+KYOTO,visa,SHIMOGYO-KU,1
+UNKNOWN,visa,IKUNO-KU OSAKA-SHI OSAKA,20
+OSAKASHI,visa,ABENO-KU,5
+UNKNOWN,visa,TSURUMI-KU OSAKA-SHI OSAKA,16
+MINAMIKU,visa,NISHIKUJO,1
+SHIOKOJIDORI,visa,KARASUMA-NISHIIRU,1
+SAKAISHI,visa,SAKAI-KU,5
+SHIJODORI,visa,KAWARAMACHI-NISHIIRU,1
+KYOTOSHI,visa,SAKYO-KU,1
+HIGASHIYAMAKU,visa,SANJODORIOHASHI-HIGASHIIRU,1
+SHIMOGYOKU,visa,SHIJODORI,1
+KARASUMADORI,visa,SHIOKOJI-SAGARU,1
+KARASUMADORI,visa,SHICHIJO-SAGARU,1
+SHIMOGYOKU,visa,HIGASHISHIOKOJI,1
+UNKNOWN,visa,FUSHIMI-KU KYOTO-SHI KYOTO,48
+SHIMOGYOKU,visa,KARASUMADORI,1
+OSAKASHI,visa,HIGASHINARI-KU,3
+UNKNOWN,visa,KAINAN-SHI WAKAYAMA,7
+KYOTO,visa,HIGASHIYAMA-KU,1
+OSAKA,visa,KISHIWADA-SHI,1
+UNKNOWN,visa,NAGAHAMA-SHI SHIGA,20
+OSAKA,visa,HIRAKATA-SHI,2
+UNKNOWN,visa,OTSU-SHI SHIGA,43
+OSAKASHI,visa,SUMIYOSHI-KU,3
+UNKNOWN,visa,IZUMI-SHI OSAKA,22
+UNKNOWN,visa,NIIGATA,575
+UNKNOWN,visa,HIGASHISUMIYOSHI-KU OSAKA-SHI OSAKA,13
+UNKNOWN,visa,YAWATA-SHI KYOTO,9
+OSAKASHI,visa,TSURUMI-KU,1
+OSAKASHI,visa,IKUNO-KU,2
+UNKNOWN,visa,HIGASHIOSAKA-SHI OSAKA,82
+KYOTO,visa,FUSHIMI-KU,1
+UNKNOWN,visa,IWADE-SHI WAKAYAMA,6
+UNKNOWN,visa,YAMASHINA-KU KYOTO-SHI KYOTO,30
+UNKNOWN,visa,KITA-KU SAKAI-SHI OSAKA,21
+SAKAISHI,visa,NISHI-KU,2
+UNKNOWN,visa,DAITO-SHI OSAKA,23
+OSAKASHI,visa,HIGASHISUMIYOSHI-KU,2
+OSAKA,visa,HIGASHIOSAKA-SHI,3
+OSAKA,visa,HIGASHI-OSAKA,1
+UNKNOWN,visa,HIRANO-KU OSAKA-SHI OSAKA,30
+KYOTOSHI,visa,FUSHIMI-KU,2
+SAKAISHI,visa,KITA-KU,2
+UNKNOWN,visa,KUSE-GUN KYOTO,4
+UNKNOWN,visa,NAKA-KU SAKAI-SHI OSAKA,16
+OSAKASHI,visa,HIRANO-KU,5
+UNKNOWN,visa,SHIJONAWATE-SHI OSAKA,5
+UNKNOWN,visa,KATANO-SHI OSAKA,12
+UNKNOWN,visa,MATSUBARA-SHI OSAKA,18
+KYOTO,visa,KYOTO-SHI,1
+UNKNOWN,visa,MINAMI-KU SAKAI-SHI OSAKA,17
+UNKNOWN,visa,TOYAMA-SHI TOYAMA,62
+OSAKA,visa,DAITO,1
+OSAKA,visa,MATSUBARA,1
+SAKAISHI,visa,NAKA-KU,1
+UNKNOWN,visa,UJI-SHI KYOTO,14
+UNKNOWN,visa,HIGASHI-KU SAKAI-SHI OSAKA,9
+UNKNOWN,visa,YAO-SHI OSAKA,41
+UNKNOWN,visa,KATAGAMI-SHI AKITA,3
+UNKNOWN,visa,KINOKAWA-SHI WAKAYAMA,9
+SAKAISHI,visa,MINAMI-KU,3
+UNKNOWN,visa,MORIYAMA-SHI SHIGA,12
+UNKNOWN,visa,ARIDA-GUN WAKAYAMA,4
+UNKNOWN,visa,KYOTANABE-SHI KYOTO,8
+UNKNOWN,visa,JOYO-SHI KYOTO,4
+UNKNOWN,visa,MIHARA-KU SAKAI-SHI OSAKA,6
+UJISHI,visa,HIRONOCHO,1
+UNKNOWN,visa,KITAAKITA-SHI AKITA,1
+UNKNOWN,visa,HABIKINO-SHI OSAKA,12
+SAKAISHI,visa,HIGASHI-KU,1
+UNKNOWN,visa,HIDAKA-GUN WAKAYAMA,1
+UNKNOWN,visa,KUSHIRO-SHI HOKKAIDO,45
+UNKNOWN,visa,OSAKASAYAMA-SHI OSAKA,4
+UNKNOWN,visa,FUJIIDERA-SHI OSAKA,8
+UNKNOWN,visa,KASHIWARA-SHI OSAKA,11
+UNKNOWN,visa,IKOMA-SHI NARA,12
+UNKNOWN,visa,KUSATSU-SHI SHIGA,27
+UNKNOWN,visa,NARA,264
+UNKNOWN,visa,TONDABAYASHI-SHI OSAKA,16
+UNKNOWN,visa,KAWACHINAGANO-SHI OSAKA,9
+UNKNOWN,visa,YASU-SHI SHIGA,7
+UNKNOWN,visa,GIFU,384
+UNKNOWN,visa,SORAKU-GUN KYOTO,5
+UNKNOWN,visa,RITTO-SHI SHIGA,10
+UNKNOWN,visa,NARA-SHI NARA,42
+NARA,visa,IKOMA-SHI,1
+SHIGA,visa,KUSATSU-SHI,1
+UNKNOWN,visa,KAMIKITA-GUN AOMORI,6
+UNKNOWN,visa,TSUZUKI-GUN KYOTO,1
+UNKNOWN,visa,HIGASHIOMI-SHI SHIGA,16
+UNKNOWN,visa,MINAMIKAWACHI-GUN OSAKA,3
+UNKNOWN,visa,KIZUGAWA-SHI KYOTO,8
+NARA,visa,NARA-SHI,4
+UNKNOWN,visa,OMIHACHIMAN-SHI SHIGA,12
+UNKNOWN,visa,IKOMA-GUN NARA,5
+UNKNOWN,visa,KUROBE-SHI TOYAMA,7
+UNKNOWN,visa,KITAKATSURAGI-GUN NARA,9
+UNKNOWN,visa,ODATE-SHI AKITA,5
+UNKNOWN,visa,ITO-GUN WAKAYAMA,1
+KITAKATSURAGIGUN,visa,OJICHO,1
+UNKNOWN,visa,KASHIBA-SHI NARA,9
+UNKNOWN,visa,NAKANIIKAWA-GUN TOYAMA,8
+UNKNOWN,visa,UOZU-SHI TOYAMA,9
+UNKNOWN,visa,GOBO-SHI WAKAYAMA,1
+UNKNOWN,visa,NAMERIKAWA-SHI TOYAMA,6
+UNKNOWN,visa,YAMATOKORIYAMA-SHI NARA,13
+UNKNOWN,visa,SHIMONIIKAWA-GUN TOYAMA,2
+UNKNOWN,visa,AKITA-SHI AKITA,49
+KITAKATSURAGIGUN,visa,KAWAICHO,1
+UNKNOWN,visa,HIKONE-SHI SHIGA,17
+UNKNOWN,visa,KATSURAGI-SHI NARA,6
+UNKNOWN,visa,HASHIMOTO-SHI WAKAYAMA,7
+NARA,visa,YAMATOKORIYAMA-SHI,1
+UNKNOWN,visa,KONAN-SHI SHIGA,10
+UNKNOWN,visa,MAIBARA-SHI SHIGA,10
+UNKNOWN,visa,YAMAGATA,304
+UNKNOWN,visa,GAMOU-GUN SHIGA,6
+UNKNOWN,visa,SHIKI-GUN NARA,7
+UNKNOWN,visa,YAMATOTAKADA-SHI NARA,7
+UNKNOWN,visa,URAKAWA-GUN HOKKAIDO,3
+UNKNOWN,visa,ECHI-GUN SHIGA,4
+UNKNOWN,visa,TENRI-SHI NARA,15
+UNKNOWN,visa,INUKAMI-GUN SHIGA,3
+UNKNOWN,visa,KAWAKAMI-GUN HOKKAIDO,4
+UNKNOWN,visa,KASHIHARA-SHI NARA,16
+UNKNOWN,visa,KOKA-SHI SHIGA,12
+UNKNOWN,visa,GOSE-SHI NARA,1
+UNKNOWN,visa,TAKAICHI-GUN NARA,3
+UNKNOWN,visa,GOJO-SHI NARA,3
+UNKNOWN,visa,SAKURAI-SHI NARA,6
+UNKNOWN,visa,TOKACHI-GUN HOKKAIDO,1
+UNKNOWN,visa,HIROO-GUN HOKKAIDO,3
+UNKNOWN,visa,KAZUNO-SHI AKITA,2
+UNKNOWN,visa,YURIHONJO-SHI AKITA,11
+UNKNOWN,visa,FUWA-GUN GIFU,3
+UNKNOWN,visa,IBI-GUN GIFU,3
+UNKNOWN,visa,ITOIGAWA-SHI NIIGATA,13
+UNKNOWN,visa,MIE,394
+UNKNOWN,visa,TOWADA-SHI AOMORI,6
+UNKNOWN,visa,HIDA-SHI GIFU,2
+UNKNOWN,visa,SAMANI-GUN HOKKAIDO,1
+UNKNOWN,visa,GUJO-SHI GIFU,2
+WAKAYAMA,visa,TANABE-SHI,1
+UNKNOWN,visa,TANABE-SHI WAKAYAMA,1
+UNKNOWN,visa,OGAKI-SHI GIFU,21
+UNKNOWN,visa,TAKAYAMA-SHI GIFU,16
+UNKNOWN,visa,UDA-SHI NARA,1
+UNKNOWN,visa,IGA-SHI MIE,9
+UNKNOWN,visa,AMPACHI-GUN GIFU,5
+JAPAN,visa,AOMORI-KEN,1
+UNKNOWN,visa,YORO-GUN GIFU,4
+UNKNOWN,visa,MOTOSU-SHI GIFU,5
+UNKNOWN,visa,MISAWA-SHI AOMORI,6
+UNKNOWN,visa,NIKAHO-SHI AKITA,2
+UNKNOWN,visa,MIZUHO-SHI GIFU,5
+UNKNOWN,visa,NISHIMURO-GUN WAKAYAMA,1
+UNKNOWN,visa,SHIRANUKA-GUN HOKKAIDO,2
+UNKNOWN,visa,MOTOSU-GUN GIFU,2
+UNKNOWN,visa,NABARI-SHI MIE,3
+UNKNOWN,visa,GIFU-SHI GIFU,54
+UNKNOWN,visa,JOETSU-SHI NIIGATA,43
+UNKNOWN,visa,INABE-SHI MIE,6
+UNKNOWN,visa,NOTSUKE-GUN HOKKAIDO,3
+UNKNOWN,visa,YAMAGATA-SHI GIFU,2
+UNKNOWN,visa,SHIBETSU-GUN HOKKAIDO,7
+UNKNOWN,visa,DAISEN-SHI AKITA,11
+UNKNOWN,visa,IWATE,314
+UNKNOWN,visa,KAIZU-SHI GIFU,3
+UNKNOWN,visa,HASHIMA-SHI GIFU,4
+UNKNOWN,visa,AKUMI-GUN YAMAGATA,1
+UNKNOWN,visa,MIE-GUN MIE,7
+GIFU,visa,GIFU-SHI,1
+UNKNOWN,visa,NAGANO,490
+UNKNOWN,visa,HASHIMA-GUN GIFU,6
+UNKNOWN,visa,HACHINOHE-SHI AOMORI,27
+UNKNOWN,visa,SUZUKA-SHI MIE,29
+UNKNOWN,visa,MINO-SHI GIFU,1
+UNKNOWN,visa,ICHINOMIYA-SHI AICHI,41
+UNKNOWN,visa,AICHI,955
+UNKNOWN,visa,SAKATA-SHI YAMAGATA,18
+UNKNOWN,visa,SEKI-SHI GIFU,9
+NAGANO,visa,HAKUBA,1
+UNKNOWN,visa,KAKAMIGAHARA-SHI GIFU,9
+UNKNOWN,visa,HOROIZUMI-GUN HOKKAIDO,1
+UNKNOWN,visa,INAZAWA-SHI AICHI,20
+UNKNOWN,visa,KUWANA-SHI MIE,19
+UNKNOWN,visa,INABE-GUN MIE,3
+UNKNOWN,visa,YOKKAICHI-SHI MIE,41
+UNKNOWN,visa,KITAAZUMI-GUN NAGANO,5
+UNKNOWN,visa,KUSHIRO-GUN HOKKAIDO,6
+UNKNOWN,visa,KAMEYAMA-SHI MIE,4
+UNKNOWN,visa,HACHIMANTAI-SHI IWATE,4
+AICHI,visa,ICHINOMIYA-SHI,1
+UNKNOWN,visa,KONAN-SHI AICHI,14
+UNKNOWN,visa,TSUSHIMA-SHI AICHI,9
+UNKNOWN,visa,AISAI-SHI AICHI,6
+UNKNOWN,visa,SEMBOKU-SHI AKITA,2
+UNKNOWN,visa,NISHI-KU NIIGATA-SHI NIIGATA,26
+UNKNOWN,visa,NISHIKAN-KU NIIGATA-SHI NIIGATA,6
+UNKNOWN,visa,TSU-SHI MIE,28
+UNKNOWN,visa,TSURUOKA-SHI YAMAGATA,17
+MIE,visa,KUWANA-SHI,1
+AICHI,visa,INAZAWA-SHI,3
+UNKNOWN,visa,MURAKAMI-SHI NIIGATA,15
+UNKNOWN,visa,HIGASHITAGAWA-GUN YAMAGATA,4
+UNKNOWN,visa,NINOHE-SHI IWATE,2
+UNKNOWN,visa,NIWA-GUN AICHI,6
+UNKNOWN,visa,MYOKO-SHI NIIGATA,9
+UNKNOWN,visa,MINOKAMO-SHI GIFU,8
+UNKNOWN,visa,KAMO-GUN GIFU,4
+UNKNOWN,visa,CHUO-KU NIIGATA-SHI NIIGATA,48
+UNKNOWN,visa,YATOMI-SHI AICHI,9
+UNKNOWN,visa,KASHIWAZAKI-SHI NIIGATA,19
+UNKNOWN,visa,AMA-SHI AICHI,7
+UNKNOWN,visa,IWAKURA-SHI AICHI,6
+UNKNOWN,visa,KITANAGOYA-SHI AICHI,6
+UNKNOWN,visa,KIYOSU-SHI AICHI,7
+MIE,visa,YOKKAICHI-SHI,2
+UNKNOWN,visa,NISHIKAMBARA-GUN NIIGATA,2
+UNKNOWN,visa,INUYAMA-SHI AICHI,8
+UNKNOWN,visa,KOMAKI-SHI AICHI,28
+INUYAMASHI,visa,OAZA-INUYAMA,1
+UNKNOWN,visa,OMACHI-SHI NAGANO,2
+UNKNOWN,visa,HIGASHI-KU NIIGATA-SHI NIIGATA,31
+IWAKURASHI,visa,SHIMOHONMACHI,1
+UNKNOWN,visa,KARIWA-GUN NIIGATA,2
+UNKNOWN,visa,SANNOHE-GUN AOMORI,2
+UNKNOWN,visa,SANTO-GUN NIIGATA,1
+UNKNOWN,visa,AMA-GUN AICHI,7
+UNKNOWN,visa,NAKAGAWA-KU NAGOYA-SHI AICHI,31
+AICHI,visa,KITANAGOYA-SHI,2
+UNKNOWN,visa,NISHI-KU NAGOYA-SHI AICHI,23
+UNKNOWN,visa,TSUBAME-SHI NIIGATA,18
+UNKNOWN,visa,KONAN-KU NIIGATA-SHI NIIGATA,12
+UNKNOWN,visa,NAGAOKA-SHI NIIGATA,62
+UNKNOWN,visa,KANI-SHI GIFU,10
+UNKNOWN,visa,NISHIKASUGAI-GUN AICHI,2
+AICHI,visa,KOMAKI-SHI,1
+NAGOYASHI,visa,NISHI-KU,9
+UNKNOWN,visa,MINAMI-KU NIIGATA-SHI NIIGATA,9
+UNKNOWN,visa,NAKAMURA-KU NAGOYA-SHI AICHI,46
+UNKNOWN,visa,KITA-KU NIIGATA-SHI NIIGATA,12
+MIE,visa,TSU-SHI,1
+UNKNOWN,visa,SEMBOKU-GUN AKITA,2
+UNKNOWN,visa,MINATO-KU NAGOYA-SHI AICHI,22
+UNKNOWN,visa,KITA-KU NAGOYA-SHI AICHI,22
+NAGOYASHI,visa,NAKAMURA-KU,13
+UNKNOWN,visa,YOKOTE-SHI AKITA,14
+UNKNOWN,visa,KASUGAI-SHI AICHI,48
+UNKNOWN,visa,KANI-GUN GIFU,1
+NAGOYASHI,visa,KITA-KU,5
+NAGOYASHI,visa,NAKAGAWA-KU,2
+UNKNOWN,visa,KAMIMINOCHI-GUN NAGANO,4
+UNKNOWN,visa,NAGANO-SHI NAGANO,82
+UNKNOWN,visa,AKKESHI-GUN HOKKAIDO,3
+UNKNOWN,visa,NAKA-KU NAGOYA-SHI AICHI,36
+NAGOYASHI,visa,NAKA-KU,18
+UNKNOWN,visa,MATSUSAKA-SHI MIE,20
+UNKNOWN,visa,NIIGATA-SHI NIIGATA,1
+UNKNOWN,visa,HIGASHI-KU NAGOYA-SHI AICHI,13
+UNKNOWN,visa,MORIYAMA-KU NAGOYA-SHI AICHI,16
+NAGOYASHI,visa,HIGASHI-KU,7
+UNKNOWN,visa,SANJO-SHI NIIGATA,21
+UNKNOWN,visa,AKIHA-KU NIIGATA-SHI NIIGATA,10
+UNKNOWN,visa,ATSUTA-KU NAGOYA-SHI AICHI,13
+UNKNOWN,visa,KITAKAMBARA-GUN NIIGATA,5
+NAGOYASHI,visa,ATSUTA-KU,4
+UNKNOWN,visa,SHIBATA-SHI NIIGATA,23
+UNKNOWN,visa,AZUMINO-SHI NAGANO,14
+UNKNOWN,visa,SHOWA-KU NAGOYA-SHI AICHI,15
+UNKNOWN,visa,CHIKUSA-KU NAGOYA-SHI AICHI,21
+NAGOYASHI,visa,MINATO-KU,2
+NAGOYASHI,visa,SHOWA-KU,7
+UNKNOWN,visa,OGACHI-GUN AKITA,1
+AICHI,visa,KASUGAI-SHI,2
+UNKNOWN,visa,TAJIMI-SHI GIFU,10
+NAGOYASHI,visa,CHIKUSA-KU,10
+UNKNOWN,visa,MITSUKE-SHI NIIGATA,7
+NAGOYASHI,visa,MORIYAMA-KU,2
+GIFU,visa,TAJIMI-SHI,2
+UNKNOWN,visa,MIZUHO-KU NAGOYA-SHI AICHI,15
+NAGOYASHI,visa,MINAMI-KU,2
+UNKNOWN,visa,MINAMI-KU NAGOYA-SHI AICHI,23
+UNKNOWN,visa,KAMO-SHI NIIGATA,4
+NAGOYASHI,visa,MIZUHO-KU,2
+UNKNOWN,visa,TAINAI-SHI NIIGATA,7
+AICHI,visa,NAGOYA,2
+UNKNOWN,visa,MEITO-KU NAGOYA-SHI AICHI,26
+MIE,visa,MATSUSAKA-SHI,1
+NAGOYASHI,visa,MEITO-KU,5
+UNKNOWN,visa,IWATE-GUN IWATE,1
+UNKNOWN,visa,OWARIASAHI-SHI AICHI,15
+UNKNOWN,visa,AGANO-SHI NIIGATA,4
+UNKNOWN,visa,MINAMIKAMBARA-GUN NIIGATA,2
+UNKNOWN,visa,TEMPAKU-KU NAGOYA-SHI AICHI,25
+NAGOYASHI,visa,TENPAKU-KU,8
+UNKNOWN,visa,TOKAI-SHI AICHI,12
+UNKNOWN,visa,CHITA-SHI AICHI,8
+UNKNOWN,visa,YUZAWA-SHI AKITA,6
+UNKNOWN,visa,MIDORI-KU NAGOYA-SHI AICHI,24
+UNKNOWN,visa,NAGAKUTE-SHI AICHI,13
+UNKNOWN,visa,IIYAMA-SHI NAGANO,5
+NAGANO,visa,NAGANO,1
+MIDORIKU,visa,ODAKACHO,1
+UNKNOWN,visa,CHIKUMA-SHI NAGANO,11
+MIDORIKU,visa,NARUMICHO,2
+UNKNOWN,visa,TOKONAME-SHI AICHI,10
+UNKNOWN,visa,HIGASHICHIKUMA-GUN NAGANO,3
+UNKNOWN,visa,SETO-SHI AICHI,12
+UNKNOWN,visa,TOKAMACHI-SHI NIIGATA,13
+UNKNOWN,visa,TOKI-SHI GIFU,6
+UNKNOWN,visa,TAKIZAWA-SHI IWATE,5
+UNKNOWN,visa,GOSEN-SHI NIIGATA,14
+UNKNOWN,visa,NISSHIN-SHI AICHI,13
+NAGANO,visa,NOZAWAONSEN,1
+UNKNOWN,visa,MATSUMOTO-SHI NAGANO,49
+UNKNOWN,visa,OJIYA-SHI NIIGATA,6
+UNKNOWN,visa,NAKANO-SHI NAGANO,10
+AICHI,visa,TOKONAME-SHI,3
+UNKNOWN,visa,OBU-SHI AICHI,13
+NAGOYASHI,visa,MIDORI-KU,1
+UNKNOWN,visa,TOYOAKE-SHI AICHI,6
+UNKNOWN,visa,CHITA-GUN AICHI,18
+UNKNOWN,visa,MORIOKA-SHI IWATE,38
+UNKNOWN,visa,MIZUNAMI-SHI GIFU,5
+UNKNOWN,visa,NAKATSUGAWA-SHI GIFU,7
+UNKNOWN,visa,IWAFUNE-GUN NIIGATA,1
+UNKNOWN,visa,NEMURO-SHI HOKKAIDO,7
+UNKNOWN,visa,AICHI-GUN AICHI,5
+UNKNOWN,visa,MOGAMI-GUN YAMAGATA,5
+TOYOAKESHI,visa,ZENGOCHO,1
+AICHI,visa,NISSHIN-SHI,1
+UNKNOWN,visa,SUZAKA-SHI NAGANO,11
+UNKNOWN,visa,TOYOTA-SHI AICHI,70
+UNKNOWN,visa,HANDA-SHI AICHI,18
+UNKNOWN,visa,KAMITAKAI-GUN NAGANO,2
+UNKNOWN,visa,KARIYA-SHI AICHI,21
+UNKNOWN,visa,WATARAI-GUN MIE,2
+UNKNOWN,visa,MIYOSHI-SHI AICHI,8
+NAGANO,visa,MATSUMOTO,1
+AICHI,visa,KARIYA-SHI,2
+UNKNOWN,visa,SHIMOTAKAI-GUN NAGANO,3
+AICHI,visa,HANDA-SHI,1
+UNKNOWN,visa,ISE-SHI MIE,8
+UNKNOWN,visa,HANISHINA-GUN NAGANO,5
+UNKNOWN,visa,TAKAHAMA-SHI AICHI,9
+UNKNOWN,visa,CHIRYU-SHI AICHI,6
+UNKNOWN,visa,NAKAUONUMA-GUN NIIGATA,1
+UNKNOWN,visa,KISO-GUN NAGANO,5
+UNKNOWN,visa,SHIOJIRI-SHI NAGANO,13
+UNKNOWN,visa,SHIWA-GUN IWATE,10
+UNKNOWN,visa,SHINJO-SHI YAMAGATA,10
+UNKNOWN,visa,HIGASHIKAMBARA-GUN NIIGATA,2
+UNKNOWN,visa,CHIISAGATA-GUN NAGANO,3
+UNKNOWN,visa,ENA-SHI GIFU,4
+UNKNOWN,visa,HEKINAN-SHI AICHI,16
+UNKNOWN,visa,ANJO-SHI AICHI,30
+UNKNOWN,visa,UEDA-SHI NAGANO,35
+UNKNOWN,visa,UONUMA-SHI NIIGATA,9
+AICHI,visa,TOYOTA-SHI,1
+UNKNOWN,visa,NISHIO-SHI AICHI,21
+AICHI,visa,ANJO-SHI,1
+UNKNOWN,visa,OKAZAKI-SHI AICHI,38
+AICHI,visa,NISHIO-SHI,2
+UNKNOWN,visa,MINAMIUONUMA-SHI NIIGATA,16
+AICHI,visa,OKAZAKI-SHI,2
+UNKNOWN,visa,HANAMAKI-SHI IWATE,18
+UNKNOWN,visa,OKAYA-SHI NAGANO,12
+UNKNOWN,visa,TOBA-SHI MIE,2
+UNKNOWN,visa,NISHIOKITAMA-GUN YAMAGATA,3
+OKAZAKISHI,visa,TOSAKICHO,1
+OKAZAKISHI,visa,HANECHO,1
+UNKNOWN,visa,KAMIINA-GUN NAGANO,11
+UNKNOWN,visa,NISHIMURAYAMA-GUN YAMAGATA,8
+UNKNOWN,visa,TOMI-SHI NAGANO,6
+UNKNOWN,visa,SUWA-GUN NAGANO,7
+UNKNOWN,visa,MINAMIUONUMA-GUN NIIGATA,3
+UNKNOWN,visa,NUKATA-GUN AICHI,5
+UNKNOWN,visa,KITAKAMI-SHI IWATE,15
+UNKNOWN,visa,GUNMA,331
+UNKNOWN,visa,SUWA-SHI NAGANO,10
+UNKNOWN,visa,INA-SHI NAGANO,14
+UNKNOWN,visa,AGATSUMA-GUN GUNMA,12
+UNKNOWN,visa,OBANAZAWA-SHI YAMAGATA,3
+UNKNOWN,visa,KITASAKU-GUN NAGANO,7
+UNKNOWN,visa,GAMAGORI-SHI AICHI,10
+UNKNOWN,visa,KOMORO-SHI NAGANO,11
+UNKNOWN,visa,MURAYAMA-SHI YAMAGATA,5
+UNKNOWN,visa,KOMAGANE-SHI NAGANO,4
+UNKNOWN,visa,SAKU-SHI NAGANO,20
+UNKNOWN,visa,CHINO-SHI NAGANO,8
+UNKNOWN,visa,MIYAGI,427
+UNKNOWN,visa,TAHARA-SHI AICHI,7
+UNKNOWN,visa,FUKUSHIMA,460
+UNKNOWN,visa,ISAWA-GUN IWATE,1
+UNKNOWN,visa,SAGAE-SHI YAMAGATA,8
+UNKNOWN,visa,NAGAI-SHI YAMAGATA,5
+UNKNOWN,visa,IIDA-SHI NAGANO,21
+UNKNOWN,visa,HIGASHINE-SHI YAMAGATA,9
+UNKNOWN,visa,SHIMOINA-GUN NAGANO,4
+UNKNOWN,visa,HIGASHIMURAYAMA-GUN YAMAGATA,2
+UNKNOWN,visa,TOYOKAWA-SHI AICHI,25
+UNKNOWN,visa,OSAKI-SHI MIYAGI,33
+UNKNOWN,visa,OSHU-SHI IWATE,13
+UNKNOWN,visa,HIGASHIOKITAMA-GUN YAMAGATA,7
+UNKNOWN,visa,YAMA-GUN FUKUSHIMA,7
+UNKNOWN,visa,TENDO-SHI YAMAGATA,11
+UNKNOWN,visa,YAMAGATA-SHI YAMAGATA,55
+UNKNOWN,visa,TOYOHASHI-SHI AICHI,61
+UNKNOWN,visa,NAN-YO-SHI YAMAGATA,7
+UNKNOWN,visa,TONE-GUN GUNMA,8
+UNKNOWN,visa,SHINSHIRO-SHI AICHI,5
+UNKNOWN,visa,MINAMISAKU-GUN NAGANO,6
+AICHI,visa,TOYOHASHI-SHI,1
+UNKNOWN,visa,KAMINOYAMA-SHI YAMAGATA,7
+TOYOHASHISHI,visa,MUKOKUSAMACHO,1
+UNKNOWN,visa,KITAKATA-SHI FUKUSHIMA,11
+UNKNOWN,visa,ICHINOSEKI-SHI IWATE,16
+UNKNOWN,visa,YONEZAWA-SHI YAMAGATA,19
+UNKNOWN,visa,HOKUTO-SHI YAMANASHI,10
+UNKNOWN,visa,KAWANUMA-GUN FUKUSHIMA,7
+UNKNOWN,visa,NISHIIWAI-GUN IWATE,1
+UNKNOWN,visa,YAMANASHI,212
+UNKNOWN,visa,KURIHARA-SHI MIYAGI,17
+UNKNOWN,visa,TAKASAKI-SHI GUNMA,66
+UNKNOWN,visa,TONO-SHI IWATE,3
+UNKNOWN,visa,ANNAKA-SHI GUNMA,13
+UNKNOWN,visa,NUMATA-SHI GUNMA,13
+UNKNOWN,visa,SHIZUOKA,508
+UNKNOWN,visa,KITA-KU HAMAMATSU-SHI SHIZUOKA,13
+UNKNOWN,visa,KOSAI-SHI SHIZUOKA,9
+UNKNOWN,visa,KAMI-GUN MIYAGI,7
+UNKNOWN,visa,MIYAKO-SHI IWATE,2
+UNKNOWN,visa,AIZUWAKAMATSU-SHI FUKUSHIMA,42
+UNKNOWN,visa,SHIBUKAWA-SHI GUNMA,12
+UNKNOWN,visa,ONUMA-GUN FUKUSHIMA,3
+UNKNOWN,visa,NIRASAKI-SHI YAMANASHI,10
+UNKNOWN,visa,TOMIOKA-SHI GUNMA,10
+UNKNOWN,visa,NISHI-KU HAMAMATSU-SHI SHIZUOKA,16
+UNKNOWN,visa,KITAGUNMA-GUN GUNMA,7
+UNKNOWN,visa,KANRA-GUN GUNMA,3
+UNKNOWN,visa,AOBA-KU SENDAI-SHI MIYAGI,67
+UNKNOWN,visa,TOME-SHI MIYAGI,14
+UNKNOWN,visa,KUROKAWA-GUN MIYAGI,10
+UNKNOWN,visa,NAKA-KU HAMAMATSU-SHI SHIZUOKA,52
+UNKNOWN,visa,HAMAKITA-KU HAMAMATSU-SHI SHIZUOKA,14
+UNKNOWN,visa,MAEBASHI-SHI GUNMA,80
+UNKNOWN,visa,KESEN-GUN IWATE,1
+UNKNOWN,visa,KATTA-GUN MIYAGI,3
+UNKNOWN,visa,TENRYU-KU HAMAMATSU-SHI SHIZUOKA,3
+UNKNOWN,visa,IZUMI-KU SENDAI-SHI MIYAGI,36
+UNKNOWN,visa,SHIMOHEI-GUN IWATE,2
+UNKNOWN,visa,HIGASHI-KU HAMAMATSU-SHI SHIZUOKA,20
+UNKNOWN,visa,SHIBATA-GUN MIYAGI,18
+UNKNOWN,visa,MINAMI-KU HAMAMATSU-SHI SHIZUOKA,16
+UNKNOWN,visa,TOMIYA-SHI MIYAGI,10
+UNKNOWN,visa,KAI-SHI YAMANASHI,14
+UNKNOWN,visa,TAIHAKU-KU SENDAI-SHI MIYAGI,37
+UNKNOWN,visa,MINAMIAIZU-GUN FUKUSHIMA,3
+UNKNOWN,visa,MINAMI-ALPS-SHI YAMANASHI,15
+UNKNOWN,visa,TODA-GUN MIYAGI,8
+UNKNOWN,visa,TOCHIGI,338
+HAMAMATSUSHI,visa,NAKA-KU,1
+UNKNOWN,visa,IWATA-SHI SHIZUOKA,29
+UNKNOWN,visa,KAMAISHI-SHI IWATE,5
+UNKNOWN,visa,KAMIHEI-GUN IWATE,2
+UNKNOWN,visa,KOFU-SHI YAMANASHI,53
+UNKNOWN,visa,MINAMIKOMA-GUN YAMANASHI,5
+UNKNOWN,visa,FUKUSHIMA-SHI FUKUSHIMA,62
+UNKNOWN,visa,FUJIOKA-SHI GUNMA,14
+UNKNOWN,visa,RIKUZENTAKATA-SHI IWATE,3
+UNKNOWN,visa,SHIROISHI-SHI MIYAGI,8
+UNKNOWN,visa,CHUO-SHI YAMANASHI,7
+UNKNOWN,visa,OFUNATO-SHI IWATE,5
+UNKNOWN,visa,NAKAKOMA-GUN YAMANASHI,4
+MIYAGI,visa,SENDAI,2
+UNKNOWN,visa,SHUCHI-GUN SHIZUOKA,3
+UNKNOWN,visa,NISHIYATSUSHIRO-GUN YAMANASHI,3
+UNKNOWN,visa,SAWA-GUN GUNMA,8
+UNKNOWN,visa,MIYAGINO-KU SENDAI-SHI MIYAGI,43
+SENDAISHI,visa,AOBA-KU,2
+UNKNOWN,visa,MIYAGI-GUN MIYAGI,8
+UNKNOWN,visa,WAKABAYASHI-KU SENDAI-SHI MIYAGI,29
+UNKNOWN,visa,NATORI-SHI MIYAGI,15
+UNKNOWN,visa,KESENNUMA-SHI MIYAGI,17
+UNKNOWN,visa,FUKUROI-SHI SHIZUOKA,17
+UNKNOWN,visa,DATE-GUN FUKUSHIMA,6
+UNKNOWN,visa,ISESAKI-SHI GUNMA,46
+UNKNOWN,visa,KIRYU-SHI GUNMA,19
+UNKNOWN,visa,DATE-SHI FUKUSHIMA,11
+UNKNOWN,visa,TAGAJO-SHI MIYAGI,14
+UNKNOWN,visa,KODAMA-GUN SAITAMA,12
+UNKNOWN,visa,MIDORI-SHI GUNMA,6
+UNKNOWN,visa,FUEFUKI-SHI YAMANASHI,22
+UNKNOWN,visa,ISHINOMAKI-SHI MIYAGI,28
+UNKNOWN,visa,SHIOGAMA-SHI MIYAGI,11
+UNKNOWN,visa,SAITAMA,732
+UNKNOWN,visa,KAKEGAWA-SHI SHIZUOKA,23
+UNKNOWN,visa,SENDAI-SHI MIYAGI,1
+UNKNOWN,visa,YAMANASHI-SHI YAMANASHI,8
+UNKNOWN,visa,IWANUMA-SHI MIYAGI,11
+UNKNOWN,visa,SHIMADA-SHI SHIZUOKA,18
+UNKNOWN,visa,KORIYAMA-SHI FUKUSHIMA,79
+UNKNOWN,visa,KOSHU-SHI YAMANASHI,5
+UNKNOWN,visa,HONJO-SHI SAITAMA,22
+UNKNOWN,visa,NIKKO-SHI TOCHIGI,16
+UNKNOWN,visa,OTA-SHI GUNMA,52
+UNKNOWN,visa,MOTOYOSHI-GUN MIYAGI,2
+TOCHIGI,visa,NIKKO,1
+UNKNOWN,visa,ADACHI-GUN FUKUSHIMA,1
+UNKNOWN,visa,KAKUDA-SHI MIYAGI,4
+UNKNOWN,visa,CHICHIBU-GUN SAITAMA,6
+MIYAGI,visa,NATORI,1
+UNKNOWN,visa,CHICHIBU-SHI SAITAMA,14
+UNKNOWN,visa,WATARI-GUN MIYAGI,9
+UNKNOWN,visa,HIGASHIMATSUSHIMA-SHI MIYAGI,4
+UNKNOWN,visa,NIHOMMATSU-SHI FUKUSHIMA,12
+UNKNOWN,visa,MOTOMIYA-SHI FUKUSHIMA,9
+UNKNOWN,visa,FUKAYA-SHI SAITAMA,32
+UNKNOWN,visa,IGU-GUN MIYAGI,2
+UNKNOWN,visa,ASHIKAGA-SHI TOCHIGI,34
+UNKNOWN,visa,NASU-GUN TOCHIGI,11
+UNKNOWN,visa,OSATO-GUN SAITAMA,7
+UNKNOWN,visa,NASUSHIOBARA-SHI TOCHIGI,30
+UNKNOWN,visa,KIKUGAWA-SHI SHIZUOKA,7
+UNKNOWN,visa,FUJINOMIYA-SHI SHIZUOKA,28
+UNKNOWN,visa,SUKAGAWA-SHI FUKUSHIMA,23
+UNKNOWN,visa,AOI-KU SHIZUOKA-SHI SHIZUOKA,53
+UNKNOWN,visa,MINAMITSURU-GUN YAMANASHI,10
+UNKNOWN,visa,FUJIEDA-SHI SHIZUOKA,27
+UNKNOWN,visa,IWASE-GUN FUKUSHIMA,6
+UNKNOWN,visa,MAKINOHARA-SHI SHIZUOKA,9
+UNKNOWN,visa,NISHISHIRAKAWA-GUN FUKUSHIMA,13
+UNKNOWN,visa,KUMAGAYA-SHI SAITAMA,40
+UNKNOWN,visa,ORA-GUN GUNMA,24
+UNKNOWN,visa,TAMURA-GUN FUKUSHIMA,6
+UNKNOWN,visa,SHIOYA-GUN TOCHIGI,8
+UNKNOWN,visa,OSHIKA-GUN MIYAGI,3
+UNKNOWN,visa,SHIRAKAWA-SHI FUKUSHIMA,18
+UNKNOWN,visa,SURUGA-KU SHIZUOKA-SHI SHIZUOKA,45
+UNKNOWN,visa,YAIZU-SHI SHIZUOKA,23
+UNKNOWN,visa,FUJIYOSHIDA-SHI YAMANASHI,12
+UNKNOWN,visa,HIKI-GUN SAITAMA,25
+UNKNOWN,visa,YAITA-SHI TOCHIGI,6
+UNKNOWN,visa,OTAWARA-SHI TOCHIGI,21
+UNKNOWN,visa,SOMA-GUN FUKUSHIMA,2
+UNKNOWN,visa,HAIBARA-GUN SHIZUOKA,3
+UNKNOWN,visa,OTSUKI-SHI YAMANASHI,4
+UNKNOWN,visa,SHIMIZU-KU SHIZUOKA-SHI SHIZUOKA,44
+SHIZUOKASHI,visa,AOI-KU,2
+UNKNOWN,visa,OMAEZAKI-SHI SHIZUOKA,5
+UNKNOWN,visa,KANUMA-SHI TOCHIGI,25
+UNKNOWN,visa,SANO-SHI TOCHIGI,25
+UNKNOWN,visa,UTSUNOMIYA-SHI TOCHIGI,117
+UNKNOWN,visa,TSURU-SHI YAMANASHI,7
+UNKNOWN,visa,FUJI-SHI SHIZUOKA,51
+UNKNOWN,visa,TAMURA-SHI FUKUSHIMA,6
+UNKNOWN,visa,SOMA-SHI FUKUSHIMA,9
+UNKNOWN,visa,TATEBAYASHI-SHI GUNMA,21
+UNKNOWN,visa,HIGASHIMATSUYAMA-SHI SAITAMA,24
+UNKNOWN,visa,TOCHIGI-SHI TOCHIGI,37
+UNKNOWN,visa,NISHITAMA-GUN TOKYO,12
+UNKNOWN,visa,IRUMA-GUN SAITAMA,12
+UNKNOWN,visa,ISHIKAWA-GUN FUKUSHIMA,14
+UNKNOWN,visa,SAKURA-SHI TOCHIGI,9
+UNKNOWN,visa,GYODA-SHI SAITAMA,17
+UNKNOWN,visa,KONOSU-SHI SAITAMA,20
+UNKNOWN,visa,HANNO-SHI SAITAMA,15
+UNKNOWN,visa,UENOHARA-SHI YAMANASHI,4
+SAITAMA,visa,HIGASHIMATSUYAMA-SHI,1
+UNKNOWN,visa,HANYU-SHI SAITAMA,16
+UNKNOWN,visa,OME-SHI TOKYO,26
+UNKNOWN,visa,SAKADO-SHI SAITAMA,21
+UNKNOWN,visa,SHIMOTSUGA-GUN TOCHIGI,11
+UNKNOWN,visa,SUNTO-GUN SHIZUOKA,20
+UNKNOWN,visa,HIDAKA-SHI SAITAMA,7
+UNKNOWN,visa,TSURUGASHIMA-SHI SAITAMA,13
+UNKNOWN,visa,MINAMISOMA-SHI FUKUSHIMA,19
+UNKNOWN,visa,AKIRUNO-SHI TOKYO,9
+UNKNOWN,visa,GOTEMBA-SHI SHIZUOKA,16
+UNKNOWN,visa,HIGASHISHIRAKAWA-GUN FUKUSHIMA,9
+UNKNOWN,visa,SHIMOTSUKE-SHI TOCHIGI,11
+UNKNOWN,visa,OYAMA-SHI TOCHIGI,46
+UNKNOWN,visa,KAZO-SHI SAITAMA,30
+UNKNOWN,visa,KAWAGOE-SHI SAITAMA,52
+UNKNOWN,visa,IRUMA-SHI SAITAMA,20
+UNKNOWN,visa,KITAMOTO-SHI SAITAMA,12
+UNKNOWN,visa,KANAGAWA,878
+UNKNOWN,visa,HAMURA-SHI TOKYO,12
+UNKNOWN,visa,KAWACHI-GUN TOCHIGI,8
+UNKNOWN,visa,MIDORI-KU SAGAMIHARA-SHI KANAGAWA,30
+UNKNOWN,visa,NUMAZU-SHI SHIZUOKA,42
+UNKNOWN,visa,SAYAMA-SHI SAITAMA,18
+UNKNOWN,visa,SUSONO-SHI SHIZUOKA,10
+UNKNOWN,visa,NASUKARASUYAMA-SHI TOCHIGI,4
+UNKNOWN,visa,KOGA-SHI IBARAKI,32
+UNKNOWN,visa,HACHIOJI-SHI TOKYO,75
+UNKNOWN,visa,KUKI-SHI SAITAMA,36
+UNKNOWN,visa,IBARAKI,496
+UNKNOWN,visa,FUSSA-SHI TOKYO,9
+UNKNOWN,visa,OKEGAWA-SHI SAITAMA,12
+UNKNOWN,visa,HAGA-GUN TOCHIGI,12
+TOKYO,visa,FUSSA-SHI,1
+SAITAMA,visa,KAWAGOE-SHI,3
+JAPAN,visa,TOKYO-TO,1
+UNKNOWN,visa,MOKA-SHI TOCHIGI,18
+UNKNOWN,visa,TOKOROZAWA-SHI SAITAMA,43
+UNKNOWN,visa,MUSASHIMURAYAMA-SHI TOKYO,13
+UNKNOWN,visa,AGEO-SHI SAITAMA,33
+UNKNOWN,visa,AKISHIMA-SHI TOKYO,23
+UNKNOWN,visa,KITAADACHI-GUN SAITAMA,6
+UNKNOWN,visa,YUKI-SHI IBARAKI,9
+UNKNOWN,visa,TACHIKAWA-SHI TOKYO,34
+UNKNOWN,visa,SHIRAOKA-SHI SAITAMA,10
+UNKNOWN,visa,HASUDA-SHI SAITAMA,13
+TOKYO,visa,AKISHIMA-SHI,1
+UNKNOWN,visa,ASHIGARASHIMO-GUN KANAGAWA,12
+UNKNOWN,visa,FUJIMINO-SHI SAITAMA,18
+SAITAMA,visa,AGEO-SHI,1
+UNKNOWN,visa,MISHIMA-SHI SHIZUOKA,20
+UNKNOWN,visa,NISHI-KU SAITAMA-SHI SAITAMA,11
+UNKNOWN,visa,MACHIDA-SHI TOKYO,55
+UNKNOWN,visa,SATTE-SHI SAITAMA,12
+UNKNOWN,visa,HIGASHIYAMATO-SHI TOKYO,18
+TOKYO,visa,HACHIOJI-SHI,1
+UNKNOWN,visa,KITA-KU SAITAMA-SHI SAITAMA,18
+UNKNOWN,visa,FUJIMI-SHI SAITAMA,16
+UNKNOWN,visa,MINAMIASHIGARA-SHI KANAGAWA,6
+UNKNOWN,visa,FUTABA-GUN FUKUSHIMA,5
+UNKNOWN,visa,CHIKUSEI-SHI IBARAKI,25
+UNKNOWN,visa,HINO-SHI TOKYO,27
+UNKNOWN,visa,SASHIMA-GUN IBARAKI,7
+UNKNOWN,visa,KITAKATSUSHIKA-GUN SAITAMA,12
+UNKNOWN,visa,HIGASHIMURAYAMA-SHI TOKYO,20
+SAITAMA,visa,TOKOROZAWA-SHI,2
+UNKNOWN,visa,AIKO-GUN KANAGAWA,3
+UNKNOWN,visa,MINAMISAITAMA-GUN SAITAMA,5
+UNKNOWN,visa,KODAIRA-SHI TOKYO,26
+UNKNOWN,visa,OMIYA-KU SAITAMA-SHI SAITAMA,32
+TOKYO,visa,TACHIKAWA-SHI,3
+TOKYO,visa,HINO-SHI,1
+UNKNOWN,visa,ASHIGARAKAMI-GUN KANAGAWA,9
+UNKNOWN,visa,MINUMA-KU SAITAMA-SHI SAITAMA,23
+UNKNOWN,visa,KUJI-GUN IBARAKI,1
+TOKYO,visa,HIGASHIMURAYAMA-SHI,1
+UNKNOWN,visa,KOKUBUNJI-SHI TOKYO,23
+UNKNOWN,visa,KUNITACHI-SHI TOKYO,12
+SAGAMIHARASHI,visa,MIDORI-KU,2
+UNKNOWN,visa,HADANO-SHI KANAGAWA,28
+UNKNOWN,visa,KIYOSE-SHI TOKYO,11
+UNKNOWN,visa,YUKI-GUN IBARAKI,5
+UNKNOWN,visa,IZU-SHI SHIZUOKA,9
+UNKNOWN,visa,CHUO-KU SAITAMA-SHI SAITAMA,20
+UNKNOWN,visa,TAGATA-GUN SHIZUOKA,4
+TOKYO,visa,KODAIRA-SHI,3
+UNKNOWN,visa,SAKURA-KU SAITAMA-SHI SAITAMA,17
+UNKNOWN,visa,IWATSUKI-KU SAITAMA-SHI SAITAMA,30
+UNKNOWN,visa,CHUO-KU SAGAMIHARA-SHI KANAGAWA,43
+UNKNOWN,visa,NIIZA-SHI SAITAMA,25
+UNKNOWN,visa,SHIKI-SHI SAITAMA,12
+UNKNOWN,visa,HITACHIOMIYA-SHI IBARAKI,10
+UNKNOWN,visa,HIGASHIKURUME-SHI TOKYO,12
+TOKYO,visa,KUNITACHI-SHI,2
+SAITAMASHI,visa,OMIYA-KU,3
+UNKNOWN,visa,SAGAMIHARA-SHI KANAGAWA,10
+UNKNOWN,visa,KASUKABE-SHI SAITAMA,41
+UNKNOWN,visa,NODA-SHI CHIBA,27
+UNKNOWN,visa,SAITAMA-SHI SAITAMA,1
+UNKNOWN,visa,CHIBA,790
+UNKNOWN,visa,FUCHU-SHI TOKYO,39
+UNKNOWN,visa,TAMA-SHI TOKYO,24
+UNKNOWN,visa,ATSUGI-SHI KANAGAWA,49
+UNKNOWN,visa,ODAWARA-SHI KANAGAWA,31
+UNKNOWN,visa,IZUNOKUNI-SHI SHIZUOKA,8
+TOKYO,visa,KOKUBUNJI-SHI,4
+UNKNOWN,visa,KAMO-GUN SHIZUOKA,8
+UNKNOWN,visa,URAWA-KU SAITAMA-SHI SAITAMA,22
+SAGAMIHARASHI,visa,CHUO-KU,4
+UNKNOWN,visa,BANDO-SHI IBARAKI,11
+SAITAMA,visa,NIIZA-SHI,2
+SAITAMASHI,visa,CHUO-KU,1
+UNKNOWN,visa,ASAKA-SHI SAITAMA,22
+UNKNOWN,visa,SHIMOTSUMA-SHI IBARAKI,11
+TOKYO,visa,TAMA-SHI,3
+UNKNOWN,visa,KOGANEI-SHI TOKYO,17
+UNKNOWN,visa,NISHITOKYO-SHI TOKYO,37
+SAITAMA,visa,ASAKA-SHI,1
+TOKYO,visa,FUCHU-SHI,3
+TOKYO,visa,KOGANEI-SHI,2
+UNKNOWN,visa,MINAMI-KU SAITAMA-SHI SAITAMA,27
+UNKNOWN,visa,SAKURAGAWA-SHI IBARAKI,7
+UNKNOWN,visa,MIDORI-KU SAITAMA-SHI SAITAMA,22
+UNKNOWN,visa,MINAMI-KU SAGAMIHARA-SHI KANAGAWA,40
+UNKNOWN,visa,NERIMA-KU TOKYO,98
+TOKYO,visa,NISHITOKYO-SHI,4
+UNKNOWN,visa,TODA-SHI SAITAMA,21
+SAITAMASHI,visa,URAWA-KU,1
+UNKNOWN,visa,MUSASHINO-SHI TOKYO,23
+UNKNOWN,visa,WAKO-SHI SAITAMA,10
+UNKNOWN,visa,INAGI-SHI TOKYO,10
+TOKYO,visa,NERIMA-KU,14
+UNKNOWN,visa,ISEHARA-SHI KANAGAWA,20
+UNKNOWN,visa,IWAKI-SHI FUKUSHIMA,77
+UNKNOWN,visa,ASAO-KU KAWASAKI-SHI KANAGAWA,14
+SAITAMA,visa,WAKO-SHI,3
+UNKNOWN,visa,MITAKA-SHI TOKYO,26
+TOKYO,visa,MUSASHINO-SHI,8
+SAITAMASHI,visa,MINAMI-KU,1
+UNKNOWN,visa,HIRATSUKA-SHI KANAGAWA,50
+UNKNOWN,visa,CHOFU-SHI TOKYO,43
+UNKNOWN,visa,KAWAGUCHI-SHI SAITAMA,94
+UNKNOWN,visa,KOSHIGAYA-SHI SAITAMA,63
+UNKNOWN,visa,ATAMI-SHI SHIZUOKA,9
+UNKNOWN,visa,ITABASHI-KU TOKYO,82
+UNKNOWN,visa,WARABI-SHI SAITAMA,12
+TOKYO,visa,MITAKA-SHI,2
+UNKNOWN,visa,NAKA-GUN KANAGAWA,5
+UNKNOWN,visa,JOSO-SHI IBARAKI,17
+UNKNOWN,visa,ZAMA-SHI KANAGAWA,18
+UNKNOWN,visa,TAMA-KU KAWASAKI-SHI KANAGAWA,32
+SAGAMIHARASHI,visa,MINAMI-KU,5
+TOKYO,visa,MACHIDA-SHI,3
+UNKNOWN,visa,EBINA-SHI KANAGAWA,20
+KANAGAWA,visa,ATSUGI-SHI,3
+UNKNOWN,visa,SUGINAMI-KU TOKYO,72
+SAITAMA,visa,WARABI-SHI,1
+SAITAMA,visa,KAWAGUCHI-SHI,4
+TOKYO,visa,CHOFU-SHI,3
+TOKYO,visa,ITABASHI-KU,14
+UNKNOWN,visa,AOBA-KU YOKOHAMA-SHI KANAGAWA,25
+SAITAMA,visa,TODA-SHI,1
+KAWASAKISHI,visa,ASAO-KU,2
+UNKNOWN,visa,HITACHIOTA-SHI IBARAKI,9
+UNKNOWN,visa,YAMATO-SHI KANAGAWA,40
+TOKYO,visa,SUGINAMI-KU,16
+UNKNOWN,visa,NAKANO-KU TOKYO,48
+KANAGAWA,visa,EBINA-SHI,1
+KAWASAKISHI,visa,TAMA-KU,3
+UNKNOWN,visa,SETAGAYA-KU TOKYO,116
+KANAGAWA,visa,YAMATO-SHI,2
+UNKNOWN,visa,KOMAE-SHI TOKYO,9
+UNKNOWN,visa,TSUKUBA-SHI IBARAKI,65
+UNKNOWN,visa,KITA-KU TOKYO,50
+UNKNOWN,visa,AYASE-SHI KANAGAWA,16
+UNKNOWN,visa,KASAMA-SHI IBARAKI,16
+SAITAMA,visa,KOSHIGAYA-SHI,2
+UNKNOWN,visa,MIDORI-KU YOKOHAMA-SHI KANAGAWA,15
+TOKYO,visa,SETAGAYA-KU,23
+UNKNOWN,visa,MIYAMAE-KU KAWASAKI-SHI KANAGAWA,30
+UNKNOWN,visa,SOKA-SHI SAITAMA,46
+UNKNOWN,visa,KOZA-GUN KANAGAWA,6
+TOKYO,visa,NAKANO-KU,11
+YOKOHAMASHI,visa,MIDORI-KU,4
+UNKNOWN,visa,SEYA-KU YOKOHAMA-SHI KANAGAWA,14
+UNKNOWN,visa,HIGASHIIBARAKI-GUN IBARAKI,15
+UNKNOWN,visa,TOSHIMA-KU TOKYO,60
+UNKNOWN,visa,ITO-SHI SHIZUOKA,17
+YOKOHAMASHI,visa,AOBA-KU,9
+JAPAN,visa,KANAGAWA,1
+TOKYO,visa,KITA-KU,11
+UNKNOWN,visa,FUJISAWA-SHI KANAGAWA,61
+UNKNOWN,visa,YOSHIKAWA-SHI SAITAMA,14
+UNKNOWN,visa,ASAHI-KU YOKOHAMA-SHI KANAGAWA,20
+TOKYO,visa,TOSHIMA-KU,20
+UNKNOWN,visa,ADACHI-KU TOKYO,134
+UNKNOWN,visa,SHINJUKU-KU TOKYO,88
+KANAGAWA,visa,HIRATSUKA-SHI,2
+UNKNOWN,visa,TAKATSU-KU KAWASAKI-SHI KANAGAWA,29
+UNKNOWN,visa,CHIGASAKI-SHI KANAGAWA,27
+TOKYO,visa,SHINJUKU-KU,40
+TOKYO,visa,TOSHIMA,1
+UNKNOWN,visa,SHIBUYA-KU TOKYO,63
+KAWASAKISHI,visa,MIYAMAE-KU,1
+UNKNOWN,visa,TSUZUKI-KU YOKOHAMA-SHI KANAGAWA,24
+TOKYO,visa,SHIBUYA-KU,30
+UNKNOWN,visa,IZUMI-KU YOKOHAMA-SHI KANAGAWA,15
+KAWASAKISHI,visa,TAKATSU-KU,2
+YOKOHAMASHI,visa,TSUZUKI-KU,4
+UNKNOWN,visa,BUNKYO-KU TOKYO,38
+TOKYO,visa,SHINJUKU,2
+UNKNOWN,visa,ARAKAWA-KU TOKYO,33
+UNKNOWN,visa,NAGAREYAMA-SHI CHIBA,40
+TOKYO,visa,BUNKYO-KU,14
+UNKNOWN,visa,YASHIO-SHI SAITAMA,18
+TOKYO,visa,ADACHI-KU,5
+UNKNOWN,visa,MEGURO-KU TOKYO,44
+UNKNOWN,visa,MISATO-SHI SAITAMA,31
+UNKNOWN,visa,NAKAHARA-KU KAWASAKI-SHI KANAGAWA,37
+KANAGAWA,visa,CHIGASAKI-SHI,1
+TOKYO,visa,MEGURO-KU,14
+KAWASAKISHI,visa,NAKAHARA-KU,5
+UNKNOWN,visa,MORIYA-SHI IBARAKI,15
+UNKNOWN,visa,TSUKUBAMIRAI-SHI IBARAKI,11
+UNKNOWN,visa,TAITO-KU TOKYO,57
+UNKNOWN,visa,HODOGAYA-KU YOKOHAMA-SHI KANAGAWA,25
+UNKNOWN,visa,KOHOKU-KU YOKOHAMA-SHI KANAGAWA,45
+UNKNOWN,visa,MINATO-KU TOKYO,98
+UNKNOWN,visa,ISHIOKA-SHI IBARAKI,17
+UNKNOWN,visa,CHIYODA-KU TOKYO,79
+TOKYO,visa,MINATO-KU,47
+TOKYO,visa,ARAKAWA-KU,5
+UNKNOWN,visa,KANAGAWA-KU YOKOHAMA-SHI KANAGAWA,31
+TOKYO,visa,CHIYODA-KU,47
+UNKNOWN,visa,KASHIWA-SHI CHIBA,73
+UNKNOWN,visa,KITAIBARAKI-SHI IBARAKI,11
+UNKNOWN,visa,OTA-KU TOKYO,108
+TOKYO,visa,OTA-KU,20
+UNKNOWN,visa,SHIMODA-SHI SHIZUOKA,6
+UNKNOWN,visa,NAKA-SHI IBARAKI,12
+UNKNOWN,visa,TOTSUKA-KU YOKOHAMA-SHI KANAGAWA,21
+TOKYO,visa,TAITO-KU,14
+TOKYO,visa,TAITO,1
+UNKNOWN,visa,KATSUSHIKA-KU TOKYO,83
+UNKNOWN,visa,MITO-SHI IBARAKI,56
+KAWASAKI,visa,NAKAHARA-KU,1
+UNKNOWN,visa,SHINAGAWA-KU TOKYO,64
+TOKYO,visa,CHIYODA,2
+YOKOHAMASHI,visa,KOHOKU-KU,7
+TOKYO,visa,SHINAGAWA-KU,18
+UNKNOWN,visa,TAKAHAGI-SHI IBARAKI,6
+TOKYO,visa,KATSUSHIKA-KU,11
+UNKNOWN,visa,CHUO-KU TOKYO,68
+UNKNOWN,visa,SAIWAI-KU KAWASAKI-SHI KANAGAWA,25
+YOKOHAMASHI,visa,TOTSUKA-KU,5
+IBARAKI,visa,TSUKUBA-SHI,2
+TOKYO,visa,CHUO-KU,32
+UNKNOWN,visa,SUMIDA-KU TOKYO,67
+UNKNOWN,visa,TSURUMI-KU YOKOHAMA-SHI KANAGAWA,41
+KANAGAWA,visa,FUJISAWA-SHI,3
+TOKYO,visa,MINATO,2
+UNKNOWN,visa,MATSUDO-SHI CHIBA,72
+UNKNOWN,visa,KAMAKURA-SHI KANAGAWA,15
+TOKYO,visa,SUMIDA-KU,12
+UNKNOWN,visa,NISHI-KU YOKOHAMA-SHI KANAGAWA,27
+UNKNOWN,visa,SAKAE-KU YOKOHAMA-SHI KANAGAWA,10
+UNKNOWN,visa,KOTO-KU TOKYO,88
+UNKNOWN,visa,MINAMI-KU YOKOHAMA-SHI KANAGAWA,24
+UNKNOWN,visa,KONAN-KU YOKOHAMA-SHI KANAGAWA,27
+KAWASAKISHI,visa,SAIWAI-KU,2
+YOKOHAMASHI,visa,KANAGAWA-KU,4
+UNKNOWN,visa,OMITAMA-SHI IBARAKI,12
+CHIBA,visa,MATSUDO-SHI,6
+UNKNOWN,visa,TORIDE-SHI IBARAKI,22
+UNKNOWN,visa,KASUMIGAURA-SHI IBARAKI,6
+YOKOHAMASHI,visa,NISHI-KU,8
+UNKNOWN,visa,TSUCHIURA-SHI IBARAKI,40
+YOKOHAMASHI,visa,TSURUMI-KU,5
+UNKNOWN,visa,EDOGAWA-KU TOKYO,96
+TOKYO,visa,KOTO-KU,16
+UNKNOWN,visa,HITACHI-SHI IBARAKI,37
+YOKOHAMASHI,visa,KONAN-KU,3
+KANAGAWA,visa,KAMAKURA-SHI,5
+CHIBA,visa,KASHIWA-SHI,3
+UNKNOWN,visa,NAKA-KU YOKOHAMA-SHI KANAGAWA,40
+UNKNOWN,visa,KAWASAKI-KU KAWASAKI-SHI KANAGAWA,55
+TOKYO,visa,EDOGAWA-KU,10
+UNKNOWN,visa,ABIKO-SHI CHIBA,23
+YOKOHAMASHI,visa,NAKA-KU,7
+KAWASAKISHI,visa,KAWASAKI-KU,3
+UNKNOWN,visa,ISOGO-KU YOKOHAMA-SHI KANAGAWA,19
+KANAGAWA,visa,YOKOHAMA,1
+UNKNOWN,visa,ICHIKAWA-SHI CHIBA,59
+UNKNOWN,visa,HITACHINAKA-SHI IBARAKI,31
+UNKNOWN,visa,NAKA-GUN IBARAKI,7
+IBARAKI,visa,TSUCHIURA-SHI,1
+CHIBA,visa,MATSUDO,2
+UNKNOWN,visa,USHIKU-SHI IBARAKI,15
+CHIBA,visa,ICHIKAWA-SHI,6
+UNKNOWN,visa,ZUSHI-SHI KANAGAWA,8
+UNKNOWN,visa,KANAZAWA-KU YOKOHAMA-SHI KANAGAWA,27
+UNKNOWN,visa,INASHIKI-GUN IBARAKI,14
+UNKNOWN,visa,KAMAGAYA-SHI CHIBA,23
+UNKNOWN,visa,URAYASU-SHI CHIBA,30
+JAPAN,visa,ZUSHI,1
+UNKNOWN,visa,MIURA-GUN KANAGAWA,4
+CHIBA,visa,URAYASU-SHI,5
+YOKOHAMASHI,visa,KANAZAWA-KU,2
+UNKNOWN,visa,FUNABASHI-SHI CHIBA,92
+UNKNOWN,visa,RYUGASAKI-SHI IBARAKI,19
+CHIBA,visa,URAYASU,1
+UNKNOWN,visa,YOKOSUKA-SHI KANAGAWA,60
+UNKNOWN,visa,SHIROI-SHI CHIBA,10
+CHIBA,visa,FUNABASHI-SHI,9
+UNKNOWN,visa,INZAI-SHI CHIBA,28
+UNKNOWN,visa,KITASOMA-GUN IBARAKI,2
+UNKNOWN,visa,NARASHINO-SHI CHIBA,26
+UNKNOWN,visa,HOKOTA-SHI IBARAKI,11
+KANAGAWA,visa,YOKOSUKA-SHI,2
+UNKNOWN,visa,YACHIYO-SHI CHIBA,29
+JAPAN,visa,YOKOSUKA,4
+CHIBA,visa,NARASHINO-SHI,4
+UNKNOWN,visa,NAMEGATA-SHI IBARAKI,7
+UNKNOWN,visa,INASHIKI-SHI IBARAKI,9
+UNKNOWN,visa,MIURA-SHI KANAGAWA,6
+UNKNOWN,visa,HANAMIGAWA-KU CHIBA-SHI CHIBA,24
+UNKNOWN,visa,MIHAMA-KU CHIBA-SHI CHIBA,17
+CHIBASHI,visa,HANAMIGAWA-KU,1
+UNKNOWN,visa,KISARAZU-SHI CHIBA,36
+CHIBASHI,visa,MIHAMA-KU,2
+UNKNOWN,visa,IMBA-GUN CHIBA,10
+UNKNOWN,visa,INAGE-KU CHIBA-SHI CHIBA,21
+UNKNOWN,visa,SAKURA-SHI CHIBA,24
+CHIBASHI,visa,INAGE-KU,2
+UNKNOWN,visa,FUTTSU-SHI CHIBA,10
+CHIBA,visa,KISARAZU,1
+UNKNOWN,visa,YOTSUKAIDO-SHI CHIBA,13
+UNKNOWN,visa,CHUO-KU CHIBA-SHI CHIBA,52
+UNKNOWN,visa,WAKABA-KU CHIBA-SHI CHIBA,24
+UNKNOWN,visa,SODEGAURA-SHI CHIBA,17
+CHIBA,visa,CHIBA,3
+UNKNOWN,visa,KIMITSU-SHI CHIBA,20
+UNKNOWN,visa,NARITA-SHI CHIBA,39
+CHIBASHI,visa,CHUO-KU,2
+UNKNOWN,visa,ICHIHARA-SHI CHIBA,58
+UNKNOWN,visa,KATORI-GUN CHIBA,7
+CHIBA,visa,NARITA,5
+UNKNOWN,visa,TOMISATO-SHI CHIBA,8
+UNKNOWN,visa,ITAKO-SHI IBARAKI,9
+UNKNOWN,visa,MIDORI-KU CHIBA-SHI CHIBA,18
+CHIBA,visa,SHISUI,1
+UNKNOWN,visa,KATORI-SHI CHIBA,18
+UNKNOWN,visa,KASHIMA-SHI IBARAKI,14
+UNKNOWN,visa,YACHIMATA-SHI CHIBA,16
+UNKNOWN,visa,AWA-GUN CHIBA,2
+NARITASHI,visa,FURUGOME,1
+NARITASHI,visa,SANRIZUKA,2
+UNKNOWN,visa,SAMBU-GUN CHIBA,13
+UNKNOWN,visa,MINAMIBOSO-SHI CHIBA,8
+UNKNOWN,visa,SAMMU-SHI CHIBA,10
+UNKNOWN,visa,TOGANE-SHI CHIBA,13
+UNKNOWN,visa,OAMISHIRASATO-SHI CHIBA,10
+UNKNOWN,visa,TATEYAMA-SHI CHIBA,14
+UNKNOWN,visa,KAMISU-SHI IBARAKI,22
+UNKNOWN,visa,CHOSEI-GUN CHIBA,13
+UNKNOWN,visa,MOBARA-SHI CHIBA,20
+UNKNOWN,visa,SOSA-SHI CHIBA,9
+UNKNOWN,visa,KAMOGAWA-SHI CHIBA,8
+UNKNOWN,visa,ASAHI-SHI CHIBA,16
+UNKNOWN,visa,ISUMI-GUN CHIBA,5
+UNKNOWN,visa,CHOSHI-SHI CHIBA,14
+UNKNOWN,visa,ISUMI-SHI CHIBA,6
+UNKNOWN,visa,KATSUURA-SHI CHIBA,5
+FUKUOKA,western_union,Higashi Ku,1
+AICHI,western_union,Nagoya,9
+SHIZUOKA,western_union,Shizuoka Shi,4
+TOKYO,western_union,Kita Ku,1
+CHIBA,western_union,Yachiyo,1
+TOKYO,western_union,Ota,1
+KANAGAWA,western_union,Yokohama,2
+OKINAWA,western_union,Okinawa Shi,1
+OKINAWA,western_union,Nakagami Gun,1
+OKINAWA,western_union,Chatan,1
+NAGASAKI,western_union,Nagasaki,1
+FUKUOKA,western_union,Fukuoka Shi,3
+FUKUOKA,western_union,Fukuoka,2
+KAGOSHIMA,western_union,Kagoshima Shi,1
+KYOTO,western_union,Kyoto,1
+OSAKA,western_union,Ikeda,1
+HYOGO,western_union,Kakogawa,1
+SHIGA,western_union,Kusatsu Shi,1
+HYOGO,western_union,Kakogawa Shi,1
+HYOGO,western_union,Kobe,2
+OSAKA,western_union,Osaka,6
+OSAKA,western_union,Osaka Shi,3
+OSAKA,western_union,Shijonawate,1
+SHIZUOKA,western_union,Yaizu Shi,1
+SHIZUOKA,western_union,Numazu Shi,1
+KANAGAWA,western_union,Yokosuka Shi,1
+SHIZUOKA,western_union,Shizuoka,2
+SHIZUOKA,western_union,Kakegawa,1
+SHIZUOKA,western_union,Iwata Shi,1
+KANAGAWA,western_union,Hiratsuka,2
+SHIZUOKA,western_union,Fuji,1
+KANAGAWA,western_union,Hiratsuka Shi,1
+SHIZUOKA,western_union,Fuji Shi,1
+HOKKAIDO,western_union,Abuta Gun Kutchan Cho,1
+AKITA,western_union,Yokote Shi,1
+YAMAGATA,western_union,Sakata Shi,1
+YAMAGATA,western_union,Yamagata,1
+MIYAGI,western_union,Natori,1
+AKITA,western_union,Akita,1
+AKITA,western_union,Akita Shi,1
+IWATE,western_union,Morioka Shi,1
+FUKUSHIMA,western_union,Fukushima,2
+FUKUSHIMA,western_union,Nihonmatsu,1
+FUKUSHIMA,western_union,Aizuwakamatsu,1
+AKITA,western_union,Odate Shi,1
+FUKUSHIMA,western_union,Koriyama Shi,1
+FUKUSHIMA,western_union,Koriyama,1
+FUKUSHIMA,western_union,Sukagawa,1
+SHIZUOKA,western_union,Kosai,1
+SHIZUOKA,western_union,Hamamatsu,3
+HIROSHIMA,western_union,Hiroshima,1
+HIROSHIMA,western_union,Hiroshima Shi,1
+EHIME,western_union,Matsuyama Shi,2
+YAMANASHI,western_union,Nakakoma Gun,1
+AICHI,western_union,Kasugai,1
+KAGAWA,western_union,Marugame Shi,2
+AICHI,western_union,Miyoshi,1
+AICHI,western_union,Kariya,1
+HIROSHIMA,western_union,Fukuyama Shi,1
+AICHI,western_union,Toyota Shi,1
+AICHI,western_union,Nishio,2
+AICHI,western_union,Okazaki Shi,1
+HIROSHIMA,western_union,Mihara Shi,1
+AICHI,western_union,Toyokawa Shi,1
+AICHI,western_union,Toyohashi Shi,1
+AICHI,western_union,Toyohashi,1
+SHIGA,western_union,Koka,1
+ISHIKAWA,western_union,Kanazawa,1
+OSAKA,western_union,Sakai,1
+NARA,western_union,Nara,1
+GIFU,western_union,Gifu,1
+OKAYAMA,western_union,Okayama Shi,3
+GIFU,western_union,Kagamigahara Shi,1
+AICHI,western_union,Ichinomiya,1
+OKAYAMA,western_union,Kurashiki Shi,1
+AICHI,western_union,Iwakura,1
+MIE,western_union,Suzuka,1
+AICHI,western_union,Inuyama Shi,1
+AICHI,western_union,Komaki,1
+AICHI,western_union,Nagoya Shi,5
+GIFU,western_union,Kani,1
+TOKYO,western_union,Hachioji Shi,1
+TOKYO,western_union,Shinjuku Ku,3
+TOKYO,western_union,Hachioji,1
+CHIBA,western_union,Funabashi-city,1
+TOKYO,western_union,Shinjuku,1
+TOKYO,western_union,Shiunjuku,2
+TOKYO,western_union,Nakano,1
+CHIBA,western_union,Ichikawa,1
+TOKYO,western_union,Tachikawa Shi,1
+TOKYO,western_union,Edogawa-ku,1
+TOKYO,western_union,Toshima Ku,1
+CHIBA,western_union,Kisarazu,1
+CHIBA,western_union,Mobara Shi,1
+KANAGAWA,western_union,Yokohama Shi,3
+CHIBA,western_union,Ichihara Shi,1
+KANAGAWA,western_union,Kawasaki Shi,2
+KANAGAWA,western_union,Sagamihara Shi,1
+TOKYO,western_union,Ota-ku,1
+SAITAMA,western_union,Kasukabe,1
+SAITAMA,western_union,Higashi Matsuyama,1
+IBARAKI,western_union,Kamisu,1
+SAITAMA,western_union,Koshigaya,1
+SAITAMA,western_union,Sakado,1
+CHIBA,western_union,Abiko,1
+SAITAMA,western_union,Saitama Shi,2
+SAITAMA,western_union,Saitama,1
+SAITAMA,western_union,Kawagoe,1
+CHIBA,western_union,Matsudo,1
+SAITAMA,western_union,Kawaguchi,2
+SAITAMA,western_union,Soka,1
+TOKYO,western_union,Adachi Ku,1
+AOMORI,western_union,Hirosaki Shi,1
+FUKUSHIMA,western_union,Iwaki,2
+AOMORI,western_union,Hachinohe Shi,1
+IBARAKI,western_union,Hitachi,1
+TOCHIGI,western_union,Utsunomiya,1
+TOCHIGI,western_union,Utsunomiya Shi,1
+TOCHIGI,western_union,Moka Shi,1
+IBARAKI,western_union,Mito Shi,1
+TOCHIGI,western_union,Sano,1
+GUNMA,western_union,Isezaki,1
+GUNMA,western_union,Oura,1
+IBARAKI,western_union,Tsuchiura,1
+IBARAKI,western_union,Joso,1
+IBARAKI,western_union,Tsukuba,1
+KANAGAWA,western_union,Aikou,1
+TOKYO,western_union,Ota Ku,1
+TOKYO,western_union,Machida Shi,2
+CHIBA,western_union,Chiba,1
+TOKYO,western_union,Minato Ku,3
+TOKYO,western_union,Setagaya,1
+TOKYO,western_union,Minato,1
+TOKYO,western_union,Chuo Ku,2
+TOKYO,western_union,Sumida,1

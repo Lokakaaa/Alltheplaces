@@ -1,0 +1,17 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+28810000,bp,Marc Liesenfeld,,Löf,,,DE,+49 2605 952325,http://tankstelle.aral.de/tankstelle/28810000,Mo-Fr 06:00-20:00; Sa-Su 08:00-20:00,BP,Q152057
+50.226847.44462,dpd_de,Kiosk & Touristinfo Brodenbach,,Brodenbach,,,DE,,,,DPD,Q541030
+50.2584737.4450556,dpd_de,Bäckerei Barth GmbH,,Oberfell,,,DE,,,,DPD,Q541030
+25094,sparkasse_de,Sparkasse Koblenz Geldautomat Brodenbach,,Brodenbach,,,DE,+49 261 39350500,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-koblenz-geldautomat-brodenbach-25094,Mo-Su 05:00-23:00,Sparkasse,Q13601825
+9627,sparkasse_de,Sparkasse Koblenz Geschäftsstelle Brodenbach,,Brodenbach,,,DE,+49 261 39350500,https://www.sparkasse.de/standorte/filialen/sparkasse-koblenz-geschaeftsstelle-brodenbach-9627,"Tu 09:00-12:00,14:00-16:00; Th 09:00-12:00,14:00-16:00",Sparkasse,Q13601825
+25092,sparkasse_de,Sparkasse Koblenz Geldautomat Dieblich,,Dieblich,,,DE,+49 261 39351300,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-koblenz-geldautomat-dieblich-25092,Mo-Su 05:00-23:00,Sparkasse,Q13601825
+9629,sparkasse_de,Sparkasse Koblenz SB-Center Dieblich,,Dieblich,,,DE,+49 261 3930,https://www.sparkasse.de/standorte/filialen/sparkasse-koblenz-sb-center-dieblich-9629,Mo-Su 05:00-23:00,Sparkasse,Q13601825
+DE_EXT_00532,totalenergies,"ARAL TANKSTELLE LÖF, MOSELSTR.",,Löf,,,DE,,https://store.totalenergies.fr/en_EN/DE_EXT_00532,,Aral,Q565734
+DE_EXT_01273,totalenergies,BAT Mosel Ost,,Dieblich,,,DE,,https://store.totalenergies.fr/en_EN/DE_EXT_01273,,Aral,Q565734
+DE_EXT_01284,totalenergies,BAT Mosel West,,Dieblich,,,DE,,https://store.totalenergies.fr/en_EN/DE_EXT_01284,,Aral,Q565734
+,visa,,,LOEF,,,DE,,,,,
+,visa,,,OBERFELL,,,DE,,,,,
+,visa,,,DIEBLICH,,,DE,,,,,
+,visa,,,BRODENBACH,,,DE,,,,,
+https://www.vr.de/standorte/O/vr-bank-rheinahreifel-eg-filiale-oberfell-19683.html,vr_bank,"VR Bank RheinAhrEifel eG, Filiale Oberfell",,Oberfell,,,DE,+49 261 39060,https://www.vr-rheinahreifel.de,"Mo-We 09:00-12:00; Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00",,
+https://www.vr.de/standorte/B/Bn-Bz/vr-bank-rheinahreifel-eg-filiale-brodenbach-13541.html,vr_bank,"VR Bank RheinAhrEifel eG, Filiale Brodenbach",,Brodenbach,,,DE,+49 2605 848380,https://www.vr-rheinahreifel.de,"Mo 08:30-12:30; Tu 08:30-12:30,14:00-16:00; Th 08:30-12:30,14:00-18:00",,

@@ -1,0 +1,357 @@
+City,Place Name,Zipcode,Name
+SARREGUEMINES,audi,6 RUE DES FRERES LUMIERE SARREGUEMINES 57200,unknown,QUATTROMOTORS SARREGUEMINES
+EPINAL,audi,40 RUE Rose Poirier ZI La Voivre BP11068 EPINAL 88000,unknown,SAS PASSION AUTOMOBILES 88
+THIONVILLE,audi,35 RUE LAYDECKER THIONVILLE 57100,unknown,DIETTERT A31 SAS
+METZ (AUGNY),audi,3 Rue des Becottes Actisud les Gravières METZ (AUGNY) 57685,unknown,QUATTROMOTORS METZ
+NANCY (LAXOU),audi,11 RUE DU SAINTOIS NANCY (LAXOU) 54523,unknown,QUATTROMOTORS NANCY
+TOMBLAINE,audi,Avenue Eugène Pottier TOMBLAINE 54510,unknown,QUATTROMOTORS NANCY
+LONGEVILLE LES ST AVOLD,audi,Z.A.C. R.N. 3 LONGEVILLE LES ST AVOLD 57740,unknown,LORAUTO - JACOB SA
+Departement de la Moselle,chicken_street,Centre commercial Muse 2 Rue des Messageries   Metz   57000 ,unknown,Chicken Street
+ST NICOLAS DE PORT,cic,,unknown,CIC SAINT NICOLAS DE PORT - CIC DOMBASLE
+DOMBASLE SUR MEURTHE,cic,,unknown,CIC SAINT NICOLAS DE PORT
+VANDOEUVRE LES NANCY,cic,,unknown,CIC VANDOEUVRE - CIC HOUDEMONT
+RAMBERVILLERS,cic,,unknown,CIC THAON LES VOSGES
+TOUL,cic,,unknown,CIC TOUL - CIC COMMERCY
+HOUDEMONT,cic,,unknown,CIC VANDOEUVRE
+REMIREMONT,cic,,unknown,CIC REMIREMONT - CIC LE THILLOT
+CHALIGNY,cic,,unknown,CIC
+GOLBEY,cic,,unknown,CIC EPINAL
+EPINAL,cic,,unknown,CIC EPINAL - CIC GOLBEY
+THAON LES VOSGES,cic,,unknown,CIC THAON LES VOSGES - CIC RAMBERVILLERS
+CHARMES,cic,,unknown,CIC
+NEUFCHATEAU,cic,,unknown,CIC
+VITTEL,cic,,unknown,CIC
+COMMERCY,cic,,unknown,CIC TOUL
+VAGNEY,cic,,unknown,CIC REMIREMONT
+LA BRESSE,cic,,unknown,CIC GERARDMER
+LE THILLOT,cic,,unknown,CIC REMIREMONT
+NANCY,cic,,unknown,CIC NANCY DOMINICAINS
+GERARDMER,cic,,unknown,CIC GERARDMER - CIC LA BRESSE
+BAR LE DUC,cic,,unknown,CIC BAR LE DUC - CIC LIGNY EN BARROIS
+LIGNY EN BARROIS,cic,,unknown,CIC BAR LE DUC
+ST DIE DES VOSGES,cic,,unknown,CIC SAINT DIE - CIC FRAIZE
+LUNEVILLE,cic,,unknown,CIC
+RAON L ETAPE,cic,,unknown,CIC RAON L ETAPE - CIC BACCARAT
+BACCARAT,cic,,unknown,CIC RAON L ETAPE
+FRAIZE,cic,,unknown,CIC SAINT DIE
+CLOUANGE,cic,,unknown,CIC HAGONDANGE
+METZ,cic,,unknown,CIC
+ST JULIEN LES METZ,cic,,unknown,CIC
+MONTIGNY LES METZ,cic,,unknown,CIC METZ MARLY
+MARLY,cic,,unknown,CIC METZ MARLY - CIC MONTIGNY SAINT JOSEPH
+HAGONDANGE,cic,,unknown,CIC HAGONDANGE - CIC CLOUANGE
+LONGEVILLE LES METZ,cic,,unknown,CIC METZ ACTISUD
+HOMECOURT,cic,,unknown,CIC HOMECOURT - CIC BRIEY
+BRIEY,cic,,unknown,CIC HOMECOURT
+JOUY AUX ARCHES,cic,,unknown,CIC METZ ACTISUD - CIC LONGEVILLE LES METZ
+PONT A MOUSSON,cic,,unknown,CIC PONT A MOUSSON - CIC FROUARD CC LECLERC
+VERDUN,cic,,unknown,CIC VERDUN DE GAULLE - CIC ETAIN
+JARNY,cic,,unknown,CIC
+ETAIN,cic,,unknown,CIC VERDUN DE GAULLE
+ST MIHIEL,cic,,unknown,CIC VERDUN DE GAULLE
+JARVILLE LA MALGRANGE,cic,,unknown,CIC NANCY RIVES DE MEURTHE - CIC NANCY RIVES D.MEURTHE
+LAXOU,cic,,unknown,CIC
+VILLERS LES NANCY,cic,,unknown,CIC NANCY SAINT LEON
+SARREBOURG,cic,,unknown,CIC SAVERNE
+FROUARD,cic,,unknown,CIC PONT A MOUSSON
+ST MAX,cic,,unknown,CIC NANCY RIVES DE MEURTHE - CIC NANCY RIVES D.MEURTHE
+HAYANGE,cic,,unknown,CIC
+MAIZIERES LES METZ,cic,,unknown,CIC
+ESSEY LES NANCY,cic,,unknown,CIC
+AUDUN LE TICHE,cic,,unknown,CIC
+LONGWY,cic,,unknown,CIC LONGWY HAUT - CIC LONGUYON
+HETTANGE GRANDE,cic,,unknown,CIC THIONVILLE LINKLING
+TERVILLE,cic,,unknown,CIC THIONVILLE LINKLING - CIC HETTANGE-GRANDE
+THIONVILLE,cic,,unknown,CIC THIONVILLE R.PARIS - CIC YUTZ
+YUTZ,cic,,unknown,CIC THIONVILLE R.PARIS
+BITCHE,cic,,unknown,CIC SARREGUEMINES
+SARRALBE,cic,,unknown,CIC SARREGUEMINES
+SARREGUEMINES,cic,,unknown,CIC SARREGUEMINES - CIC SARRALBE
+DIEUZE,cic,,unknown,CIC
+MORHANGE,cic,,unknown,CIC FAULQUEMONT
+FAULQUEMONT,cic,,unknown,CIC FAULQUEMONT - CIC MORHANGE
+FORBACH,cic,,unknown,CIC
+FREYMING MERLEBACH,cic,,unknown,CIC
+BOULAY,cic,,unknown,CIC CREUTZWALD
+ST AVOLD,cic,,unknown,CIC
+CREUTZWALD,cic,,unknown,CIC CREUTZWALD - CIC BOULAY
+ESSEY LES NANCY,cigusto_fr,,unknown,CIGUSTO ESSEY LES NANCY
+CREUTZWALD,cigusto_fr,,unknown,CIGUSTO CREUTZWALD
+TOUL,cigusto_fr,,unknown,CIGUSTO TOUL
+Longeville-lès-saint-Avold,cigusto_fr,,unknown,CIGUSTO SAINT AVOLD
+MONCEL LES LUNEVILLE,cigusto_fr,,unknown,CIGUSTO LUNEVILLE
+BAR LE DUC,e_leclerc,,unknown,Drive Bar-le-Duc
+LONGEVILLE EN BARROIS / BAR LE DUC,e_leclerc,,unknown,Jardi
+LIGNY EN BARROIS,e_leclerc,,unknown,Drive Ligny-en-Barrois Point Retrait
+CONTREXEVILLE,e_leclerc,,unknown,DRIVE Contrexeville
+BRUYERES,e_leclerc,,unknown,Drive Bruyères
+VERDUN,e_leclerc,,unknown,Location
+SAINT-MIHIEL,e_leclerc,,unknown,Drive Saint Mihiel
+Haudainville,e_leclerc,,unknown,Drive Haudainville
+Verdun,e_leclerc,,unknown,Drive Verdun
+CREUTZWALD,e_leclerc,,unknown,Drive Creutzwald
+SAINT-AVOLD,e_leclerc,,unknown,Drive Saint-Avold
+GOLBEY CEDEX,e_leclerc,,unknown,Drive Golbey
+THIONVILLE Cédex 1,e_leclerc,,unknown,Location
+THIONVILLE,e_leclerc,,unknown,THIONVILLE
+THIONVILLE VEYMERANGE,e_leclerc,,unknown,Drive Thionville Veymerange
+Basse-Ham,e_leclerc,,unknown,Drive Basse-Ham
+TERVILLE,e_leclerc,,unknown,DRIVE Thionville Terville
+SAINT DIE DES VOSGES,e_leclerc,,unknown,Drive Saint-Dié-des-Vosges
+FAMECK,e_leclerc,,unknown,Drive Fameck
+ROMBAS,e_leclerc,,unknown,Express Rombas
+CHARMES,e_leclerc,,unknown,CHARMES
+SARREBOURG,e_leclerc,,unknown,Drive Sarrebourg
+PHALSBOURG,e_leclerc,,unknown,Express Phalsbourg
+Phalsbourg,e_leclerc,,unknown,E.Leclerc DRIVE Phalsbourg
+DIEUZE,e_leclerc,,unknown,E.Leclerc Drive Relais Dieuze
+NEUFCHATEAU,e_leclerc,,unknown,Drive Neufchâteau
+MARLY,e_leclerc,,unknown,Location Marly
+MARLY CEDEX,e_leclerc,,unknown,Drive Marly
+BOUSSE,e_leclerc,,unknown,Express Bousse
+ST ETIENNE LES REMIREMONT,e_leclerc,,unknown,Station Service
+SAINT ETIENNE LES REMIREMONT,e_leclerc,,unknown,ST ETIENNE LES REMIREMONT
+Saint-Etienne-lès-Remiremont,e_leclerc,,unknown,Drive
+HAUCONCOURT - MAIZIERES LES METZ,e_leclerc,,unknown,Location
+HAUCONCOURT MAIZIERES LES METZ,e_leclerc,,unknown,MAIZIERES
+MAIZIERES LES METZ,e_leclerc,,unknown,Express  MAIZIERES LES METZ
+WOIPPY,e_leclerc,,unknown,Drive Woippy
+Hauconcourt,e_leclerc,,unknown,Drive Hauconcourt / Maizières-lès-Metz
+RAON L'ETAPE,e_leclerc,,unknown,Drive
+LUNEVILLE,e_leclerc,,unknown,Location
+REHAINVILLER,e_leclerc,,unknown,Drive Lunéville
+FREYMING MERLEBACH,e_leclerc,,unknown,DRIVE FREYMING
+Farébersviller,e_leclerc,,unknown,Drive Farébersviller
+MORSBACH,e_leclerc,,unknown,Drive Morsbach / Forbach
+CONFLANS EN JARNISY,e_leclerc,,unknown,Drive Conflans Jarny
+CONFLANS-EN-JARNISY,e_leclerc,,unknown,L'Auto E.Leclerc
+JARNY,e_leclerc,,unknown,Location
+AMNEVILLE,e_leclerc,,unknown,Drive
+SARREGUEMINES,e_leclerc,,unknown,SARREGUEMINES
+VANDOEUVRE LES NANCY,e_leclerc,,unknown,Drive Vandoeuvre les Nancy
+Vandoeuvre-les-Nancy,e_leclerc,,unknown,Drive Vélodrome
+NANCY,e_leclerc,,unknown,Drive Relais Albert 1er
+FROUARD,e_leclerc,,unknown,Drive Frouard
+Nancy,e_leclerc,,unknown,DRIVE Relais Saint-Dizier - Nancy
+DOMMARTIN-LES-TOUL,e_leclerc,,unknown,Drive Dommartin-lès-Toul
+Essey,e_leclerc,,unknown,Drive Essey-les-Nancy
+LEXY,e_leclerc,,unknown,LEXY
+AUDUN-LE-ROMAN,e_leclerc,,unknown,Audun-le-Roman
+Audun-Le-Roman,e_leclerc,,unknown,Drive Audun-Le-Roman
+Yutz,fedex,,unknown,unknown
+Woippy,fedex,,unknown,unknown
+Void Vacon,fedex,,unknown,unknown
+Vittel,fedex,,unknown,unknown
+Vitry Sur Orne,fedex,,unknown,unknown
+Villerupt,fedex,,unknown,unknown
+Vigy,fedex,,unknown,unknown
+Vezelise,fedex,,unknown,unknown
+Verny,fedex,,unknown,unknown
+Verdun,fedex,,unknown,unknown
+Veckring,fedex,,unknown,unknown
+Vaucouleurs,fedex,,unknown,unknown
+Varennes En Argonne,fedex,,unknown,unknown
+Varangeville,fedex,,unknown,unknown
+Vantoux,fedex,,unknown,unknown
+Vandoeuvre Les Nancy,fedex,,unknown,unknown
+Vagney,fedex,,unknown,unknown
+Uckange,fedex,,unknown,unknown
+Tucquegnieux,fedex,,unknown,unknown
+Toul,fedex,,unknown,unknown
+Tomblaine,fedex,,unknown,unknown
+Thionville,fedex,,unknown,unknown
+Thierville Sur Meuse,fedex,,unknown,unknown
+Thiaucourt Regnieville,fedex,,unknown,unknown
+Thaon Les Vosges,fedex,,unknown,unknown
+Terville,fedex,,unknown,unknown
+Tantonville,fedex,,unknown,unknown
+Talange,fedex,,unknown,unknown
+Stiring Wendel,fedex,,unknown,unknown
+Stenay,fedex,,unknown,unknown
+Ste Marie Aux Chenes,fedex,,unknown,unknown
+Ste Marguerite,fedex,,unknown,unknown
+St Privat La Montagne,fedex,,unknown,unknown
+St Nicolas De Port,fedex,,unknown,unknown
+St Mihiel,fedex,,unknown,unknown
+St Max,fedex,,unknown,unknown
+St Genest Malifaux,fedex,,unknown,unknown
+St Die Des Vosges,fedex,,unknown,unknown
+St Clement,fedex,,unknown,unknown
+St Avold,fedex,,unknown,unknown
+St Ame,fedex,,unknown,unknown
+Senones,fedex,,unknown,unknown
+Seichamps,fedex,,unknown,unknown
+Saulxures Les Nancy,fedex,,unknown,unknown
+Sarreguemines,fedex,,unknown,unknown
+Sarrebourg,fedex,,unknown,unknown
+Sarralbe,fedex,,unknown,unknown
+Rozerieulles,fedex,,unknown,unknown
+Rosieres Aux Salines,fedex,,unknown,unknown
+Rombas,fedex,,unknown,unknown
+Rohrbach Les Bitche,fedex,,unknown,unknown
+Rettel,fedex,,unknown,unknown
+Remiremont,fedex,,unknown,unknown
+Remilly,fedex,,unknown,unknown
+Rehon,fedex,,unknown,unknown
+Raon L Etape,fedex,,unknown,unknown
+Rambervillers,fedex,,unknown,unknown
+Puttelange Aux Lacs,fedex,,unknown,unknown
+Pulnoy,fedex,,unknown,unknown
+Pulligny,fedex,,unknown,unknown
+Poussay,fedex,,unknown,unknown
+Porcelette,fedex,,unknown,unknown
+Pont St Vincent,fedex,,unknown,unknown
+Pont A Mousson,fedex,,unknown,unknown
+Pompey,fedex,,unknown,unknown
+Pierrevillers,fedex,,unknown,unknown
+Piennes,fedex,,unknown,unknown
+Phalsbourg,fedex,,unknown,unknown
+Pagny Sur Moselle,fedex,,unknown,unknown
+Nomeny,fedex,,unknown,unknown
+Neuves Maisons,fedex,,unknown,unknown
+Neufchef,fedex,,unknown,unknown
+Nancy,fedex,,unknown,unknown
+Moyeuvre Grande,fedex,,unknown,unknown
+Moulins Les Metz,fedex,,unknown,unknown
+Morhange,fedex,,unknown,unknown
+Montois La Montagne,fedex,,unknown,unknown
+Montmedy,fedex,,unknown,unknown
+Montigny Les Metz,fedex,,unknown,unknown
+Mont Sur Meurthe,fedex,,unknown,unknown
+Mondelange,fedex,,unknown,unknown
+Moncel Les Luneville,fedex,,unknown,unknown
+Mirecourt,fedex,,unknown,unknown
+Metz,fedex,,unknown,unknown
+Messein,fedex,,unknown,unknown
+Maxeville,fedex,,unknown,unknown
+Martigny Les Bains,fedex,,unknown,unknown
+Marly,fedex,,unknown,unknown
+Marbache,fedex,,unknown,unknown
+Marainviller,fedex,,unknown,unknown
+Malzeville,fedex,,unknown,unknown
+Maizieres Les Metz,fedex,,unknown,unknown
+Madonne Et Lamerey,fedex,,unknown,unknown
+Luneville,fedex,,unknown,unknown
+Ludres,fedex,,unknown,FedEx Express FR
+Longwy,fedex,,unknown,unknown
+Longuyon,fedex,,unknown,unknown
+Longeville Les St Avold,fedex,,unknown,unknown
+Liverdun,fedex,,unknown,unknown
+Ligny En Barrois,fedex,,unknown,unknown
+Liffol Le Grand,fedex,,unknown,unknown
+Le Val D Ajol,fedex,,unknown,unknown
+Lay St Christophe,fedex,,unknown,unknown
+Laxou,fedex,,unknown,unknown
+Laquenexy,fedex,,unknown,unknown
+Laneuveville Devant Nancy,fedex,,unknown,unknown
+La Bresse,fedex,,unknown,unknown
+Koenigsmacker,fedex,,unknown,unknown
+Knutange,fedex,,unknown,unknown
+Kerbach,fedex,,unknown,unknown
+Joeuf,fedex,,unknown,unknown
+Jeuxey,fedex,,unknown,unknown
+Jarville La Malgrange,fedex,,unknown,unknown
+Jarny,fedex,,unknown,unknown
+Imling,fedex,,unknown,unknown
+Igney,fedex,,unknown,unknown
+Hundling,fedex,,unknown,unknown
+Houdemont,fedex,,unknown,unknown
+Houdelaincourt,fedex,,unknown,unknown
+Homecourt,fedex,,unknown,unknown
+Hombourg Haut,fedex,,unknown,unknown
+Holling,fedex,,unknown,unknown
+Hettange Grande,fedex,,unknown,unknown
+Herserange,fedex,,unknown,unknown
+Heillecourt,fedex,,unknown,unknown
+Hayange,fedex,,unknown,unknown
+Hauconcourt,fedex,,unknown,unknown
+Ham Sous Varsberg,fedex,,unknown,unknown
+Hagondange,fedex,,unknown,unknown
+Guenange,fedex,,unknown,unknown
+Grosbliederstroff,fedex,,unknown,unknown
+Grand,fedex,,unknown,unknown
+Gondrecourt Le Chateau,fedex,,unknown,unknown
+Golbey,fedex,,unknown,unknown
+Gerardmer,fedex,,unknown,unknown
+Frouard,fedex,,unknown,unknown
+Freyming Merlebach,fedex,,unknown,unknown
+Fresnes En Woevre,fedex,,unknown,unknown
+Foug,fedex,,unknown,unknown
+Forbach,fedex,,unknown,unknown
+Fontoy,fedex,,unknown,unknown
+Folschviller,fedex,,unknown,unknown
+Florange,fedex,,unknown,unknown
+Flevy,fedex,,unknown,FedEx Express FR
+Farebersviller,fedex,,unknown,unknown
+Fameck,fedex,,unknown,unknown
+Falck,fedex,,unknown,unknown
+Essey Les Nancy,fedex,,unknown,unknown
+Erstroff,fedex,,unknown,unknown
+Epinal,fedex,,unknown,unknown
+Ennery,fedex,,unknown,unknown
+Eloyes,fedex,,unknown,unknown
+Dun Sur Meuse,fedex,,unknown,unknown
+Dommartin Les Toul,fedex,,unknown,unknown
+Dombasle Sur Meurthe,fedex,,unknown,unknown
+Dijon,fedex,,unknown,unknown
+Dieuze,fedex,,unknown,unknown
+Dieulouard,fedex,,unknown,unknown
+Dieue Sur Meuse,fedex,,unknown,unknown
+Deneuvre,fedex,,unknown,unknown
+Darney,fedex,,unknown,unknown
+Damvillers,fedex,,unknown,unknown
+Creutzwald,fedex,,unknown,unknown
+Crehange,fedex,,unknown,unknown
+Courcelles Chaussy,fedex,,unknown,unknown
+Corny Sur Moselle,fedex,,unknown,unknown
+Cornimont,fedex,,unknown,unknown
+Corcieux,fedex,,unknown,unknown
+Contrexeville,fedex,,unknown,unknown
+Consenvoye,fedex,,unknown,unknown
+Conflans En Jarnisy,fedex,,unknown,unknown
+Commercy,fedex,,unknown,unknown
+Colombey Les Belles,fedex,,unknown,unknown
+Chatenois,fedex,,unknown,unknown
+Chateau Salins,fedex,,unknown,unknown
+Charmes,fedex,,unknown,unknown
+Chanteheux,fedex,,unknown,unknown
+Champigneulles,fedex,,unknown,unknown
+Cattenom,fedex,,unknown,unknown
+Carling,fedex,,unknown,unknown
+Thionville,hema,,unknown,HEMA
+Metz,hema,,unknown,HEMA
+Nancy,hema,,unknown,HEMA
+Departement de la Moselle,ich_tanke_strom,Zum Gehlbacher Hof 3  66271 Kleinblittersdorf,unknown,unknown
+REMIREMONT,ikks,,unknown,REMIREMONT MMXJ UN MONDE A PART
+SAINT DIE DES VOSGES,ikks,,unknown,XandO Women ST DIE DES VOSGES
+EPINAL,ikks,,unknown,IKKS Junior EPINAL
+SARREBOURG,ikks,,unknown,XandO Women SARREBOURG
+NEUFCHATEAU,ikks,,unknown,XandO Women NEUFCHATEAU
+NANCY,ikks,,unknown,ICODE NANCY
+SARREGUEMINES,ikks,,unknown,XandO Women Men SARREGUEMINES
+TOUL,ikks,,unknown,TOUL MMXJ
+METZ,ikks,,unknown,IKKS Women METZ
+SEMECOURT,ikks,,unknown,XandO Women METZ SEMECOURT
+TALANGE,ikks,,unknown,FERME : IKKS Marques Avenue Talange XGSO
+BAR LE DUC,ikks,,unknown,XandO Women BAR LE DUC
+THIONVILLE,ikks,,unknown,IKKS Women Men THIONVILLE
+VERDUN,ikks,,unknown,XandO Women Men VERDUN
+VILLERUPT,ikks,,unknown,VILLERUPT MMXJ
+MONT SAINT MARTIN,ikks,,unknown,IKKS Women Men MONT SAINT MARTIN
+Departement de la Meuse,ionity,,unknown,Verdun Saint-Nicolas Sud
+Departement de la Moselle,ionity,,unknown,Hauconcourt
+Departement de Meurthe-et-Moselle,ionity,,unknown,Frouard
+RODANGE (GDL),lukoil,Route de Longwy 426 4832 RODANGE (GDL) Belgium,unknown,LUKOIL RODANGE
+Ilsfeld,nordsee,,unknown,NORDSEE Autobahnraststätte Wunnenstein West
+Departement de la Moselle,pokawa,2 rue des Messageries  Metz   57000,unknown,Pokawa Metz Muse
+57740 Longeville-les-Saint-Avold,starbucks_eu,Aire de Service de Longeville Sud 57740 Longeville-les-Saint-Avold,unknown,Longeville-les-Saint-Avold (A4)
+Metz,starbucks_eu,9 rue du Petit Paris 57000 Metz,unknown,Metz Petit Paris
+Metz,starbucks_eu,1 Place du General de Gaulle 57000 Metz,unknown,Gare de Metz
+Metz,starbucks_eu,2 rue des Messageries 57000 Metz,unknown,CC Muse
+Nancy,starbucks_eu,13 Rue Saint George 5400 Nancy,unknown,Saint George
+Nancy,starbucks_eu,5 Bis avenue Foch 54045 Nancy,unknown,Nancy Republicain
+57106 THIONVILLE,starbucks_eu,17 RUE DE PARIS 57106 Thionville 57106 THIONVILLE,unknown,Thionville rue de Paris
+Haudiomont,starbucks_eu,Aire de Verdun Saint Nicolas Sud 55160 Haudiomont,unknown,Haudiomont - Aire de Verdun (A4)
+SEMECOURT,visa,,unknown,unknown
+MONT-SAINT-MARTIN,visa,,unknown,unknown
+MONT SAINT MARTIN,visa,,unknown,unknown

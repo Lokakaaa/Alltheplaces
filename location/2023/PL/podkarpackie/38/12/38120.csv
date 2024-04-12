@@ -1,0 +1,13 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+3592,abc_pl,abc,,Wyżne,podkarpackie,,PL,,,,abc,Q11683985
+BBX01M,paczkomat_inpost_pl,Przy stacji BP i stacji kontroli,,Babica,podkarpackie,,PL,,https://inpost.pl/paczkomat-babica-bbx01m-babica-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+BBX02M,paczkomat_inpost_pl,Przy sklepie Spożywczy Piotruś Pan,,Babica,podkarpackie,,PL,,https://inpost.pl/paczkomat-babica-bbx02m-babica-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+CZC01M,paczkomat_inpost_pl,Przy sklepie Marmax,,Czudec,podkarpackie,,PL,,https://inpost.pl/paczkomat-czudec-czc01m-szarych-szeregow-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+CZC02M,paczkomat_inpost_pl,Przy sklepie Marmax,,Czudec,podkarpackie,,PL,,https://inpost.pl/paczkomat-czudec-czc02m-kolejowa-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+CZC03M,paczkomat_inpost_pl,Przy OSP Czudec,,Czudec,podkarpackie,,PL,,https://inpost.pl/paczkomat-czudec-czc03m-sw-marcina-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+POP-CUD1,paczkomat_inpost_pl,KOMET SKLEP,,Czudec,podkarpackie,,PL,,https://inpost.pl/paczkomat-czudec-pop-cud1-rynek-paczkomaty-podkarpackie,Mo-Fr 08:00-17:00; Sa 08:00-14:00,Paczkomat,Q110970254
+VYZ01M,paczkomat_inpost_pl,Przy Stacji Paliw,,Wyżne,podkarpackie,,PL,,https://inpost.pl/paczkomat-wyzne-vyz01m-wyzne-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+237030,poczta_polska_pl,UP Czudec,,Czudec,PODKARPACKIE,,PL,+48 17 277 12 97,,,Poczta Polska,Q168833
+622901,poczta_polska_pl,AP Pstrągowa,,Pstrągowa,PODKARPACKIE,,PL,+48 17 783 77 88,,,Poczta Polska,Q168833
+,visa,,,CZUDEC,PODKARPACKIE,,PL,,,,,
+4f199a36ffb2fffe87232518ee788a27,western_union,BANK SPOLDZIELCZY W STRZYZOWIE,,Czudec,PODKARPACKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/podkarpackie/czudec/4f199a36ffb2fffe87232518ee788a27,Mo 08:00-17:45; Tu-Fr 08:00-15:45,Western Union,Q861042

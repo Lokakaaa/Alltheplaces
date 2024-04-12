@@ -1,0 +1,1090 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,2
+CHISINAU,audi,Chisinau,1
+UNKNOWN,bmw_group,Kishinev,1
+UNKNOWN,deloitte,unknown,1
+UNKNOWN,ecco,Chisinau,2
+UNKNOWN,enterprise,Balti,1
+UNKNOWN,enterprise,Chisinau,1
+CHISINAU,ernst_young,Chisinau,1
+UNKNOWN,geox,CHISINAU,1
+04,hugo_boss,Chisinau,1
+UNKNOWN,kaufland,Chisinau,5
+UNKNOWN,kaufland,Balti,1
+UNKNOWN,kaufland,Comrat,1
+UNKNOWN,kaufland,Orhei,1
+UNKNOWN,kaufland,Ungheni,1
+UNKNOWN,leonidas,Chisinau,1
+STRASENI,lukoil,Straseni city,2
+CHISINAU,lukoil,mun. Chisinau,11
+ORHEI,lukoil,unknown,3
+CHISINAU,lukoil,Chisinau,18
+GAGAUZIA,lukoil,Comrat,1
+CHISINAU,lukoil,unknown,3
+FLORESTI,lukoil,Floresti,1
+TARACLIA,lukoil,Telenesti,1
+LALOVENI,lukoil,Ialoveni,1
+BALTI,lukoil,unknown,2
+BRICENI,lukoil,unknown,1
+LALOVENI,lukoil,Ialoveni city,1
+ANENIINOI,lukoil,unknown,2
+NISPORENI,lukoil,unknown,1
+DONDUSENI,lukoil,unknown,1
+RAIONULEDINET,lukoil,Edinet city,1
+UNGHENI,lukoil,unknown,1
+LALOVENI,lukoil,unknown,1
+HINCESTI,lukoil,Hincesti city,2
+REZINA,lukoil,unknown,1
+CANTEMIR,lukoil,Cantemir,1
+BALTI,lukoil,mun. Balti,4
+LEOVA,lukoil,Leova,1
+ANENIINOI,lukoil,Anenii Noi,1
+BALTI,lukoil,Balti,2
+TARACLIA,lukoil,unknown,1
+HINCESTI,lukoil,Hincesti,1
+RISCANI,lukoil,unknown,1
+DROCHIA,lukoil,Drochia,1
+STINGANISTRULUI,lukoil,unknown,1
+RAIONULOCNITA,lukoil,unknown,1
+STRASENI,lukoil,Taraclia,1
+CAUSENI,lukoil,Causeni city,1
+CALARASI,lukoil,unknown,1
+GLODENI,lukoil,Glodeni,1
+RAIONULSOROCA,lukoil,unknown,1
+FLORESTI,lukoil,unknown,1
+GAGAUZIA,lukoil,Vulcanesti,1
+RISCANI,lukoil,Ryshkany,1
+ORHEI,lukoil,Orhei,1
+GAGAUZIA,lukoil,Chadyr-Lunga,1
+BRICENI,lukoil,Briceni,1
+LALOVENI,lukoil,mun. Chisinau,1
+CAHUL,lukoil,unknown,2
+UNGHENI,lukoil,Ungheni city,1
+ORHEI,lukoil,Orgeyev,1
+HINCESTI,lukoil,unknown,1
+FALESTI,lukoil,Falesti,1
+GAGAUZIA,lukoil,unknown,1
+RAIONULSOROCA,lukoil,Soroca,1
+CAHUL,lukoil,Cahul city,1
+STEFANVODA,lukoil,Stefan-Vode,1
+RAIONULEDINET,lukoil,Edinet,1
+GAGAUZIA,lukoil,Ciadir-Lunga city,1
+UNKNOWN,man_truck_and_bus,Chisinau,1
+UNKNOWN,man_truck_and_bus,"St. Petersburg, Russia",1
+UNKNOWN,moneygram,LEOVA,6
+UNKNOWN,moneygram,DROCHIA,12
+UNKNOWN,moneygram,CHISINAU,279
+UNKNOWN,moneygram,BENDER,20
+UNKNOWN,moneygram,GLODENI,5
+UNKNOWN,moneygram,CAMENCA,9
+UNKNOWN,moneygram,BALTI,59
+UNKNOWN,moneygram,CALARASI,5
+UNKNOWN,moneygram,TIRASPOL,69
+UNKNOWN,moneygram,KITSKANY,1
+UNKNOWN,moneygram,BENDERY,6
+UNKNOWN,moneygram,DUBOSSARY,4
+UNKNOWN,moneygram,KAMENKA,2
+UNKNOWN,moneygram,ANENII NOI,10
+UNKNOWN,moneygram,RYBNITSA,10
+UNKNOWN,moneygram,SOLDANESTI,4
+UNKNOWN,moneygram,SOROCA,12
+UNKNOWN,moneygram,CEADIR LUNGA,5
+UNKNOWN,moneygram,CIMISLIA,7
+UNKNOWN,moneygram,FLORESTI,12
+UNKNOWN,moneygram,KITSKANA,1
+UNKNOWN,moneygram,OCNITA,6
+UNKNOWN,moneygram,COMRAT,14
+UNKNOWN,moneygram,COSNITA,3
+UNKNOWN,moneygram,EDINET,11
+UNKNOWN,moneygram,DONDUSENI,8
+UNKNOWN,moneygram,NISPORENI,7
+UNKNOWN,moneygram,CRICOVA,2
+UNKNOWN,moneygram,CAHUL,14
+UNKNOWN,moneygram,DURLESHTI,1
+UNKNOWN,moneygram,HINCESTI,15
+UNKNOWN,moneygram,ORHEI,14
+UNKNOWN,moneygram,UNGHENI,18
+UNKNOWN,moneygram,CAUSENI,9
+UNKNOWN,moneygram,BRICENI,9
+UNKNOWN,moneygram,REZINA,8
+UNKNOWN,moneygram,FALESTI,11
+UNKNOWN,moneygram,CEADIR-LUNGA,4
+UNKNOWN,moneygram,SINGEREI,7
+UNKNOWN,moneygram,IALOVENI,7
+UNKNOWN,moneygram,CORNESHTI,1
+UNKNOWN,moneygram,SCULENI,2
+UNKNOWN,moneygram,COCIERI,2
+UNKNOWN,moneygram,SANGEREI,1
+UNKNOWN,moneygram,AVDARMA,2
+UNKNOWN,moneygram,BASARABEASCA,4
+UNKNOWN,moneygram,CANTEMIR,4
+UNKNOWN,moneygram,CONGAZ,3
+UNKNOWN,moneygram,RISCANI,5
+UNKNOWN,moneygram,STEFAN-VODA,2
+UNKNOWN,moneygram,STRASENI,8
+UNKNOWN,moneygram,TARACLIA,8
+UNKNOWN,moneygram,TELENESTI,6
+UNKNOWN,moneygram,VULCANESTI,4
+UNKNOWN,moneygram,KAHUL,1
+UNKNOWN,moneygram,CHSINAU,7
+UNKNOWN,moneygram,CHISINAU TOWN,1
+UNKNOWN,moneygram,CAINARI,2
+UNKNOWN,moneygram,GHINDESTI,1
+UNKNOWN,moneygram,OTACI,3
+UNKNOWN,moneygram,VADUL LUI VODA,4
+UNKNOWN,moneygram,SLOBODZEYA,3
+UNKNOWN,moneygram,KARAGASH,1
+UNKNOWN,moneygram,SUKLEYA,1
+UNKNOWN,moneygram,BACIOI,2
+UNKNOWN,moneygram,R-L STEFAN VODA,1
+UNKNOWN,moneygram,BUDESTI,2
+UNKNOWN,moneygram,DUBASARI,6
+UNKNOWN,moneygram,CRIULENI,5
+UNKNOWN,moneygram,SHTEFAN VODA,1
+UNKNOWN,moneygram,MERENI VILLAGE,1
+UNKNOWN,moneygram,STEFANESTI,1
+UNKNOWN,moneygram,DUBASARII VECHI,2
+UNKNOWN,moneygram,VATRA,3
+UNKNOWN,moneygram,COJUSNA,2
+UNKNOWN,moneygram,DURLESTI,2
+UNKNOWN,moneygram,STEFAN VODA,3
+UNKNOWN,moneygram,CHISINAU SCMSP,1
+UNKNOWN,moneygram,RIBNITA,11
+UNKNOWN,moneygram,SLOBOZIA,4
+UNKNOWN,moneygram,DNESTROVSC,4
+UNKNOWN,moneygram,GRIGORIPOL,1
+UNKNOWN,moneygram,GRIGORIOPOL,5
+UNKNOWN,moneygram,PERVOMAISC,1
+UNKNOWN,moneygram,PARCANI,1
+UNKNOWN,moneygram,STAUCENI,2
+UNKNOWN,moneygram,CHISINAU GARA,1
+UNKNOWN,moneygram,PERVOMAYSK,1
+UNKNOWN,moneygram,CRASNOE,1
+UNKNOWN,moneygram,BRATUSENI,1
+UNKNOWN,moneygram,CHIURT,1
+UNKNOWN,moneygram,FETESTI,1
+UNKNOWN,moneygram,HLINAIA,1
+UNKNOWN,moneygram,LOPATNIC,1
+UNKNOWN,moneygram,RUSENI,1
+UNKNOWN,moneygram,TEREBNA,1
+UNKNOWN,moneygram,HIROVA,1
+UNKNOWN,moneygram,HOGINESTI,1
+UNKNOWN,moneygram,BULBOACA,2
+UNKNOWN,moneygram,MINDRA,1
+UNKNOWN,moneygram,CORJEUTI,1
+UNKNOWN,moneygram,COTIUJENI,1
+UNKNOWN,moneygram,PITUSCA,1
+UNKNOWN,moneygram,IORDANOVCA,1
+UNKNOWN,moneygram,RACIULA,1
+UNKNOWN,moneygram,RADENI CALARASI,1
+UNKNOWN,moneygram,TEMELEUTI CALARASI,1
+UNKNOWN,moneygram,VALCINET,1
+UNKNOWN,moneygram,ACUI,1
+UNKNOWN,moneygram,BAIMACLIA,2
+UNKNOWN,moneygram,ISERLIA,1
+UNKNOWN,moneygram,SADACLIA,1
+UNKNOWN,moneygram,BALASINESTI,1
+UNKNOWN,moneygram,BOBEICA,1
+UNKNOWN,moneygram,LINGURA,1
+UNKNOWN,moneygram,TATARASENI,1
+UNKNOWN,moneygram,VISNIOVCA,1
+UNKNOWN,moneygram,SADIC,1
+UNKNOWN,moneygram,CHIRCAESTI,1
+UNKNOWN,moneygram,FIRLADENII NOI,1
+UNKNOWN,moneygram,OPACI,1
+UNKNOWN,moneygram,SALCUTA,1
+UNKNOWN,moneygram,TANATARI,1
+UNKNOWN,moneygram,TOCUZ,1
+UNKNOWN,moneygram,ZVIOZDOCICA,1
+UNKNOWN,moneygram,ZAIM,1
+UNKNOWN,moneygram,SALCUTA NOUA,1
+UNKNOWN,moneygram,COSCALIA,1
+UNKNOWN,moneygram,MIHAILENI,2
+UNKNOWN,moneygram,PERERITA,1
+UNKNOWN,moneygram,BOTNARESTI,1
+UNKNOWN,moneygram,SURCHICENI,1
+UNKNOWN,moneygram,TARACLIA CAUSENI,1
+UNKNOWN,moneygram,BESGHIOZ,1
+UNKNOWN,moneygram,CAZACLIA,1
+UNKNOWN,moneygram,GAIDAR,1
+UNKNOWN,moneygram,CHIRCA,1
+UNKNOWN,moneygram,TOMAI,2
+UNKNOWN,moneygram,CHIRIET LUNGA,1
+UNKNOWN,moneygram,COPCEAC,1
+UNKNOWN,moneygram,COBUSCA VECHE,1
+UNKNOWN,moneygram,MANTA,1
+UNKNOWN,moneygram,TIGANCA,1
+UNKNOWN,moneygram,BASCALIA,1
+UNKNOWN,moneygram,VALEA PERJEI CIMISLIA,1
+UNKNOWN,moneygram,BESALMA,1
+UNKNOWN,moneygram,BUGEAC,1
+UNKNOWN,moneygram,CHIRSOVA,1
+UNKNOWN,moneygram,CISMICHIOI,1
+UNKNOWN,moneygram,TREBISAUTI,1
+UNKNOWN,moneygram,PIRITA,1
+UNKNOWN,moneygram,BALABANESTI,1
+UNKNOWN,moneygram,CORJOVA,1
+UNKNOWN,moneygram,ISNOVAT,1
+UNKNOWN,moneygram,MASCAUTI,1
+UNKNOWN,moneygram,ONITCANI,1
+UNKNOWN,moneygram,PASCANI CRIULENI,1
+UNKNOWN,moneygram,RACULESTI,1
+UNKNOWN,moneygram,SLOBOZIA DUSCA,1
+UNKNOWN,moneygram,BARABOI,1
+UNKNOWN,moneygram,BRICENI DONDUSENI,1
+UNKNOWN,moneygram,CERNOLEUCA,1
+UNKNOWN,moneygram,CODRENII NOI,1
+UNKNOWN,moneygram,TAUL,1
+UNKNOWN,moneygram,MINDIC,1
+UNKNOWN,moneygram,CHETROSU,2
+UNKNOWN,moneygram,NICORENI,1
+UNKNOWN,moneygram,ILICIOVCA,2
+UNKNOWN,moneygram,TARIGRAD,1
+UNKNOWN,moneygram,SOFIA,2
+UNKNOWN,moneygram,SLOBOZIA MARE,1
+UNKNOWN,moneygram,VADUL LUI ISAC,1
+UNKNOWN,moneygram,BORCEAG,1
+UNKNOWN,moneygram,BRAVICEA,1
+UNKNOWN,moneygram,SADOVA,1
+UNKNOWN,moneygram,SASENI,1
+UNKNOWN,moneygram,SIPOTENI,2
+UNKNOWN,moneygram,CABAIESTI,1
+UNKNOWN,moneygram,GURA GALBENEI,1
+UNKNOWN,moneygram,PUHOI,1
+UNKNOWN,moneygram,RUSESTII NOI,1
+UNKNOWN,moneygram,RUSESTII VECHI,1
+UNKNOWN,moneygram,SURUCENI,1
+UNKNOWN,moneygram,VASIENI IALOVENI,1
+UNKNOWN,moneygram,CARBUNA,1
+UNKNOWN,moneygram,GANGURA,1
+UNKNOWN,moneygram,MISOVCA,1
+UNKNOWN,moneygram,RAZENI,2
+UNKNOWN,moneygram,CORLATENI,1
+UNKNOWN,moneygram,GHIDULENI,1
+UNKNOWN,moneygram,IGNATEI,1
+UNKNOWN,moneygram,FUNDURII VECHI,1
+UNKNOWN,moneygram,HIJDIENI GLODENI,1
+UNKNOWN,moneygram,STURZOVCA,1
+UNKNOWN,moneygram,TROITA,1
+UNKNOWN,moneygram,MESENI,2
+UNKNOWN,moneygram,HILIUTI,2
+UNKNOWN,moneygram,PERESECINA,1
+UNKNOWN,moneygram,HORODISTE,1
+UNKNOWN,moneygram,OTAC,1
+UNKNOWN,moneygram,PAPAUTI,1
+UNKNOWN,moneygram,PECISTE,1
+UNKNOWN,moneygram,POHREBENI,1
+UNKNOWN,moneygram,SERPENI,1
+UNKNOWN,moneygram,MARINESTI,1
+UNKNOWN,moneygram,PEPENI,1
+UNKNOWN,moneygram,PEPENII NOI,1
+UNKNOWN,moneygram,DOBROGEA VECHE,1
+UNKNOWN,moneygram,DRAGANESTI,1
+UNKNOWN,moneygram,BOCANCEA SCHIT,1
+UNKNOWN,moneygram,CEPELEUTI,1
+UNKNOWN,moneygram,ALBINETUL NOU,1
+UNKNOWN,moneygram,ABACLIA,1
+UNKNOWN,moneygram,HORESTI,2
+UNKNOWN,moneygram,VOZNESENI,1
+UNKNOWN,moneygram,ELIZAVETA,1
+UNKNOWN,moneygram,CODRU,2
+UNKNOWN,moneygram,BUBUIECI,1
+UNKNOWN,moneygram,COLONITA,1
+UNKNOWN,moneygram,DOBROGEA,1
+UNKNOWN,moneygram,GHIDIGHICI,1
+UNKNOWN,moneygram,CIORESCU,1
+UNKNOWN,moneygram,REVACA,1
+UNKNOWN,moneygram,AGRONOMOVA,1
+UNKNOWN,moneygram,GHERMAN,1
+UNKNOWN,moneygram,CAINARI GARA,1
+UNKNOWN,moneygram,SINGERA,1
+UNKNOWN,moneygram,GRATIESTI,1
+UNKNOWN,moneygram,STRAISTENI,1
+UNKNOWN,moneygram,BALANESTI,1
+UNKNOWN,moneygram,BALAURESTI,1
+UNKNOWN,moneygram,BOLDURESTI,1
+UNKNOWN,moneygram,PIRLITA UNGHENI,1
+UNKNOWN,moneygram,RADENII VECHI,1
+UNKNOWN,moneygram,SAUCA,1
+UNKNOWN,moneygram,VEREJENI,2
+UNKNOWN,moneygram,CIOCILTENI,1
+UNKNOWN,moneygram,BRATULENI,1
+UNKNOWN,moneygram,CIORESTI,1
+UNKNOWN,moneygram,VULCANESTI NISPORENI,1
+UNKNOWN,moneygram,CIUTESTI,1
+UNKNOWN,moneygram,CRISTESTI,1
+UNKNOWN,moneygram,GROZESTI,1
+UNKNOWN,moneygram,MILESTI,1
+UNKNOWN,moneygram,SELISTE,1
+UNKNOWN,moneygram,SOLTANESTI,1
+UNKNOWN,moneygram,SISCANI,1
+UNKNOWN,moneygram,MANA,1
+UNKNOWN,moneygram,CAMENCEA,1
+UNKNOWN,moneygram,VASILEUTI,1
+UNKNOWN,moneygram,ZAICANI,1
+UNKNOWN,moneygram,ALEXANDRENI,2
+UNKNOWN,moneygram,BALASESTI SINGEREI,1
+UNKNOWN,moneygram,BILICENII VECHI,1
+UNKNOWN,moneygram,CHISCARENI,1
+UNKNOWN,moneygram,SELISTENI,1
+UNKNOWN,moneygram,VARZARESTI,1
+UNKNOWN,moneygram,ZBEROAIA,1
+UNKNOWN,moneygram,PALADEA,1
+UNKNOWN,moneygram,IZBISTE,1
+UNKNOWN,moneygram,HIRTOP CIMISLIA,1
+UNKNOWN,moneygram,IALPUJENI,1
+UNKNOWN,moneygram,GHETLOVA,1
+UNKNOWN,moneygram,GRINAUTI MOLDOVA,1
+UNKNOWN,moneygram,ZAHORENI,1
+UNKNOWN,moneygram,PINZARENI,1
+UNKNOWN,moneygram,PIRLITA FALESTI,1
+UNKNOWN,moneygram,POMPA,1
+UNKNOWN,moneygram,RAUTEL,1
+UNKNOWN,moneygram,LUNGA,1
+UNKNOWN,moneygram,CERNITA,1
+UNKNOWN,moneygram,PREPELITA,1
+UNKNOWN,moneygram,RADOAIA,1
+UNKNOWN,moneygram,ANTONESTI,1
+UNKNOWN,moneygram,SINGEREII NOI,1
+UNKNOWN,moneygram,CIOBURCIU,1
+UNKNOWN,moneygram,TIPLESTI,1
+UNKNOWN,moneygram,FLORENI ANENII NOI,1
+UNKNOWN,moneygram,GEAMANA,1
+UNKNOWN,moneygram,MERENI,2
+UNKNOWN,moneygram,MERENII NOI,1
+UNKNOWN,moneygram,PUHACENI,1
+UNKNOWN,moneygram,ROSCANI ANENII NOI,1
+UNKNOWN,moneygram,SPEIA,1
+UNKNOWN,moneygram,VARNITA,1
+UNKNOWN,moneygram,TODORESTI,1
+UNKNOWN,moneygram,COBILEA,1
+UNKNOWN,moneygram,COTIUJENII MARI,1
+UNKNOWN,moneygram,MARIANCA DE JOS,1
+UNKNOWN,moneygram,OLANESTI,2
+UNKNOWN,moneygram,PARCANI SOLDANESTI,1
+UNKNOWN,moneygram,GHINDESTI ORAS,1
+UNKNOWN,moneygram,GHINDESTI SAT,1
+UNKNOWN,moneygram,GURA CAMENCII,1
+UNKNOWN,moneygram,POPEASCA,1
+UNKNOWN,moneygram,POHOARNA,1
+UNKNOWN,moneygram,PURCARI,1
+UNKNOWN,moneygram,RASCAIETI,1
+UNKNOWN,moneygram,SLOBOZIA STEFAN-VODA,1
+UNKNOWN,moneygram,TALMAZA,1
+UNKNOWN,moneygram,VADUL RASCOV,1
+UNKNOWN,moneygram,VOLINTIRI,1
+UNKNOWN,moneygram,PUTINESTI,1
+UNKNOWN,moneygram,ALEXANDROVCA FLORESTI,1
+UNKNOWN,moneygram,CUHURESTII DE SUS,1
+UNKNOWN,moneygram,VALEA PERJEI TARACLIA,1
+UNKNOWN,moneygram,CAPRIANA,1
+UNKNOWN,moneygram,CHIRIANCA,1
+UNKNOWN,moneygram,BANESTI,1
+UNKNOWN,moneygram,LOZOVA,1
+UNKNOWN,moneygram,BURLACENI,1
+UNKNOWN,moneygram,SOROCA GLODENI,1
+UNKNOWN,moneygram,DAHNOVICI,1
+UNKNOWN,moneygram,BOGHICENI,1
+UNKNOWN,moneygram,RECEA STRASENI,1
+UNKNOWN,moneygram,ROSCANI,1
+UNKNOWN,moneygram,SIRETI,1
+UNKNOWN,moneygram,TATARESTI STRASENI,1
+UNKNOWN,moneygram,CHITCANII NOI,1
+UNKNOWN,moneygram,LEUSENI TELENESTI,1
+UNKNOWN,moneygram,NEGURENI,1
+UNKNOWN,moneygram,BUTENI,1
+UNKNOWN,moneygram,CARPINENI,1
+UNKNOWN,moneygram,CIOARA,1
+UNKNOWN,moneygram,MOLESTI GLODENI,1
+UNKNOWN,moneygram,CRASNOARMEISCOE,1
+UNKNOWN,moneygram,CARABETOVCA,1
+UNKNOWN,moneygram,CUHNESTI,1
+UNKNOWN,moneygram,HORJESTI,1
+UNKNOWN,moneygram,LAPUSNA,1
+UNKNOWN,moneygram,MERESENI,1
+UNKNOWN,moneygram,MINGIR,1
+UNKNOWN,moneygram,SARATENII NOI,1
+UNKNOWN,moneygram,BALABANU,1
+UNKNOWN,moneygram,CAIRACLIA,1
+UNKNOWN,moneygram,CORTEN,1
+UNKNOWN,moneygram,STOLNICENI UNGHENI,1
+UNKNOWN,moneygram,ONESTI HINCESTI,1
+UNKNOWN,moneygram,CAPRINEANCA,1
+UNKNOWN,moneygram,BARDAR,1
+UNKNOWN,moneygram,COSTESTI,1
+UNKNOWN,moneygram,HANSCA,1
+UNKNOWN,moneygram,MILESTII MICI,1
+UNKNOWN,moneygram,MOLESTI IALOVENI,1
+UNKNOWN,moneygram,NIMORENI,1
+UNKNOWN,moneygram,TODIRESTI,1
+UNKNOWN,moneygram,COROPCENI,1
+UNKNOWN,moneygram,CORNESTI,1
+UNKNOWN,moneygram,IARGARA,2
+UNKNOWN,moneygram,SARATICA NOUA,1
+UNKNOWN,moneygram,TAREUCA,1
+UNKNOWN,moneygram,SOLONCENI,1
+UNKNOWN,moneygram,TARASOVA,1
+UNKNOWN,moneygram,RACARIA,1
+UNKNOWN,moneygram,SUSLENI,1
+UNKNOWN,moneygram,DUMBRAVITA,1
+UNKNOWN,moneygram,LIPCANI,4
+UNKNOWN,moneygram,VIL. GIURGIULESTI,1
+UNKNOWN,moneygram,VIL. VARNITA,1
+UNKNOWN,moneygram,MAYAK,1
+UNKNOWN,moneygram,HIRJAUCA,1
+UNKNOWN,moneygram,VARZARESTII NOI,1
+UNKNOWN,moneygram,SIRAUTI,1
+UNKNOWN,moneygram,GAVANOASA,1
+UNKNOWN,moneygram,COSTESTI RISCANI,1
+UNKNOWN,moneygram,LIPCENI,1
+UNKNOWN,moneygram,FILIPENI,1
+UNKNOWN,moneygram,CLOCUSNA,1
+UNKNOWN,moneygram,VOLOAVE,1
+UNKNOWN,moneygram,TVARDITA,1
+UNKNOWN,moneygram,SANATAUCA,1
+UNKNOWN,moneygram,CHIOSELIA MARE,1
+UNKNOWN,moneygram,VOINOVA,1
+UNKNOWN,moneygram,TINTARENI TELENESTI,1
+UNKNOWN,moneygram,RASPOPENI,1
+UNKNOWN,moneygram,DERENEU,1
+UNKNOWN,moneygram,TIBIRICA,1
+UNKNOWN,moneygram,PELINIA,1
+UNKNOWN,moneygram,SARATA NOUA LEOVA,1
+UNKNOWN,moneygram,GASPAR,1
+UNKNOWN,moneygram,COVURLUI,1
+UNKNOWN,moneygram,ISCALAU,1
+UNKNOWN,moneygram,EGORENI,1
+UNKNOWN,moneygram,PARCOVA,1
+UNKNOWN,moneygram,CIOC MAIDAN,1
+UNKNOWN,moneygram,FERAPONTIEVCA,1
+UNKNOWN,moneygram,COLIBASI,1
+UNKNOWN,moneygram,ALBINETUL VECHI,1
+UNKNOWN,moneygram,DOLTU,1
+UNKNOWN,moneygram,VASCAUTI,1
+UNKNOWN,moneygram,ZUBRESTI,1
+UNKNOWN,moneygram,BOBLETICI,1
+UNKNOWN,moneygram,ULMU,1
+UNKNOWN,moneygram,SEMIONOVCA STEFAN-VODA,1
+UNKNOWN,moneygram,TIPALA,1
+UNKNOWN,moneygram,BUSILA,1
+UNKNOWN,moneygram,COPCIAC,1
+UNKNOWN,moneygram,VISCAUTI,1
+UNKNOWN,moneygram,PRUTENI,1
+UNKNOWN,moneygram,MICIURIN,1
+UNKNOWN,moneygram,ISACOVA,1
+UNKNOWN,moneygram,ODAIA NISPORENI,1
+UNKNOWN,moneygram,SCORTENI,1
+UNKNOWN,moneygram,CHIRCAESTII NOI,1
+UNKNOWN,moneygram,VIPROVA,1
+UNKNOWN,moneygram,COSERNITA CRIULENI,1
+UNKNOWN,moneygram,USUREI,1
+UNKNOWN,moneygram,SAPTEBANI,1
+UNKNOWN,moneygram,VORNICENI,2
+UNKNOWN,moneygram,BURLANESTI,1
+UNKNOWN,moneygram,TRUSENI,2
+UNKNOWN,moneygram,COTIUJENII MICI,1
+UNKNOWN,moneygram,STETCANI,1
+UNKNOWN,moneygram,HASNASENII MARI,1
+UNKNOWN,moneygram,BOROGANI,1
+UNKNOWN,moneygram,BAXENI,1
+UNKNOWN,moneygram,COSAUTI,1
+UNKNOWN,moneygram,COTEALA,1
+UNKNOWN,moneygram,BAURCI CEADIR-LUNGA,1
+UNKNOWN,moneygram,PALANCA STEFAN-VODA,1
+UNKNOWN,moneygram,ORAC,1
+UNKNOWN,moneygram,SLOBOZIA HORODISTE,1
+UNKNOWN,moneygram,HORODISTE REZINA,1
+UNKNOWN,moneygram,PETRESTI,1
+UNKNOWN,moneygram,MIHALASENI,1
+UNKNOWN,moneygram,LARGUTA,1
+UNKNOWN,moneygram,CORNESTI UNGHENI,1
+UNKNOWN,moneygram,SARATENII VECHI,1
+UNKNOWN,moneygram,VALENI,1
+UNKNOWN,moneygram,CINISEUTI,1
+UNKNOWN,moneygram,CARAGASH,1
+UNKNOWN,moneygram,JAVGUR,1
+UNKNOWN,moneygram,VULCANESTI ST,1
+UNKNOWN,moneygram,ZAMCIOGI,1
+UNKNOWN,moneygram,ZIMBRENI,1
+UNKNOWN,moneygram,RUJNITA,1
+UNKNOWN,moneygram,GOTESTI,1
+UNKNOWN,moneygram,LARGA BRICENI,1
+UNKNOWN,moneygram,COPACENI,1
+UNKNOWN,moneygram,MIRESTI,1
+UNKNOWN,moneygram,HASNASENII NOI,1
+UNKNOWN,moneygram,TIRGUL VERTIUJENI,1
+UNKNOWN,moneygram,CHITCANII VECHI,1
+UNKNOWN,moneygram,HIRTOP FALESTI,1
+UNKNOWN,moneygram,CARACUSENII NOI,1
+UNKNOWN,moneygram,HIRBOVAT ANENII NOI,1
+UNKNOWN,moneygram,GURA BICULUI,1
+UNKNOWN,moneygram,SURI,1
+UNKNOWN,moneygram,MOSCOVEI,1
+UNKNOWN,moneygram,BARONCEA,1
+UNKNOWN,moneygram,NEMTENI,1
+UNKNOWN,moneygram,IABLOANA,1
+UNKNOWN,moneygram,BAURCI CAUSENI,1
+UNKNOWN,moneygram,BAIUS,1
+UNKNOWN,moneygram,CARAHASANI,1
+UNKNOWN,moneygram,BALASESTI CRIULENI,1
+UNKNOWN,moneygram,VASIENI TELENESTI,1
+UNKNOWN,moneygram,BUIUCANI,1
+UNKNOWN,moneygram,TETCANI,1
+UNKNOWN,moneygram,ANDRUSUL DE JOS,1
+UNKNOWN,moneygram,ANDRUSUL DE SUS,1
+UNKNOWN,moneygram,BADICUL MOLDOVENESC,1
+UNKNOWN,moneygram,BAURCI MOLDOVENI,1
+UNKNOWN,moneygram,BUCURIA,1
+UNKNOWN,moneygram,BURLACU,1
+UNKNOWN,moneygram,SPICOASA,1
+UNKNOWN,moneygram,CRIHANA VECHE,1
+UNKNOWN,moneygram,CUCOARA,1
+UNKNOWN,moneygram,LARGA NOUA,1
+UNKNOWN,moneygram,ALEXANDRFELD,1
+UNKNOWN,moneygram,CISLITA PRUT,1
+UNKNOWN,moneygram,BAHU,1
+UNKNOWN,moneygram,HORODISTE CALARASI,1
+UNKNOWN,moneygram,MELESENI,1
+UNKNOWN,moneygram,CARACUSENII VECHI,1
+UNKNOWN,moneygram,ONISCANI,1
+UNKNOWN,moneygram,CRIVA,1
+UNKNOWN,moneygram,PETICENI,1
+UNKNOWN,moneygram,ANTONESTI CANTEMIR,1
+UNKNOWN,moneygram,CANIA,1
+UNKNOWN,moneygram,CIOBALACCIA,1
+UNKNOWN,moneygram,GHILAVAT,1
+UNKNOWN,moneygram,COCIULIA,1
+UNKNOWN,moneygram,ENICHIOI,1
+UNKNOWN,moneygram,PLESENI,1
+UNKNOWN,moneygram,ALEXANDROVCA CANTEMIR,1
+UNKNOWN,moneygram,BACCEALIA,1
+UNKNOWN,moneygram,CIRNATENI,1
+UNKNOWN,moneygram,FIRLADENI CAUSENI,1
+UNKNOWN,moneygram,SAITI,1
+UNKNOWN,moneygram,URSOAIA CAUSENI,1
+UNKNOWN,moneygram,MARIANCA DE SUS,1
+UNKNOWN,moneygram,COPANCA,1
+UNKNOWN,moneygram,MARCAUTI BRICENI,1
+UNKNOWN,moneygram,CIUFLESTI,1
+UNKNOWN,moneygram,CIRNATENII NOI,1
+UNKNOWN,moneygram,CONSTANTINOVCA CAUSENI,1
+UNKNOWN,moneygram,MEDVEJA,1
+UNKNOWN,moneygram,PERVOMAISC CAUSENI,1
+UNKNOWN,moneygram,BATIC,1
+UNKNOWN,moneygram,ALBINA,1
+UNKNOWN,moneygram,COBUSCA NOUA,1
+UNKNOWN,moneygram,TARACLIA DE SALCIE,1
+UNKNOWN,moneygram,MIHAILOVCA,1
+UNKNOWN,moneygram,SAGAIDAC CIMISLIA,1
+UNKNOWN,moneygram,SATUL NOU,1
+UNKNOWN,moneygram,DEZGHINGEA,1
+UNKNOWN,moneygram,ALEXEEVCA COMRAT,1
+UNKNOWN,moneygram,CARBALIA,1
+UNKNOWN,moneygram,HOLERCANI,1
+UNKNOWN,moneygram,MOLOVATA NOUA,1
+UNKNOWN,moneygram,MOLOVATA,1
+UNKNOWN,moneygram,OXENTEA,1
+UNKNOWN,moneygram,USTIA DUBASARI,1
+UNKNOWN,moneygram,BALTATA,1
+UNKNOWN,moneygram,SAGAIDAC CRIULENI,1
+UNKNOWN,moneygram,BOSCANA,1
+UNKNOWN,moneygram,CHETROASA,1
+UNKNOWN,moneygram,HRUSOVA,1
+UNKNOWN,moneygram,CRUGLIC,1
+UNKNOWN,moneygram,HIRTOPUL MIC,1
+UNKNOWN,moneygram,JEVRENI,1
+UNKNOWN,moneygram,MAGDACESTI,1
+UNKNOWN,moneygram,MICLESTI,1
+UNKNOWN,moneygram,RATUS CRIULENI,1
+UNKNOWN,moneygram,RISCOVA,1
+UNKNOWN,moneygram,PLOP DONDUSENI,1
+UNKNOWN,moneygram,SUDARCA,1
+UNKNOWN,moneygram,TIRNOVA DONDUSENI,1
+UNKNOWN,moneygram,MARAMONOVCA,1
+UNKNOWN,moneygram,COTOVA,1
+UNKNOWN,moneygram,DOMINTENI,1
+UNKNOWN,moneygram,LAZO DROCHIA,1
+UNKNOWN,moneygram,NAPADENI,1
+UNKNOWN,moneygram,OCHIUL ALB,1
+UNKNOWN,moneygram,PALANCA DROCHIA,1
+UNKNOWN,moneygram,CEAPAEVCA,1
+UNKNOWN,moneygram,ALEXEEVCA EDINET,1
+UNKNOWN,moneygram,BADRAGII VECHI,1
+UNKNOWN,moneygram,BADRAGII NOI,1
+UNKNOWN,moneygram,BUZDUGENI,1
+UNKNOWN,moneygram,CUCONESTII NOI,1
+UNKNOWN,moneygram,POIANA EDINET,1
+UNKNOWN,moneygram,TIRNOVA EDINET,1
+UNKNOWN,moneygram,CALINESTI,1
+UNKNOWN,moneygram,FALESTII NOI,1
+UNKNOWN,moneygram,GLINJENI FALESTI,1
+UNKNOWN,moneygram,ILENUTA,1
+UNKNOWN,moneygram,MARANDENI,1
+UNKNOWN,moneygram,NAVIRNET,1
+UNKNOWN,moneygram,ECATERINOVCA,1
+UNKNOWN,moneygram,DELACAU,1
+UNKNOWN,moneygram,MAXIMOVCA,1
+UNKNOWN,moneygram,ALBINITA,1
+UNKNOWN,moneygram,SERCANI,1
+UNKNOWN,moneygram,TINTARENI ANENII NOI,1
+UNKNOWN,moneygram,SARATA VECHE,1
+UNKNOWN,moneygram,MAGURELE,1
+UNKNOWN,moneygram,SCUMPIA,1
+UNKNOWN,moneygram,TAXOBENI,1
+UNKNOWN,moneygram,ALEXEEVCA FLORESTI,1
+UNKNOWN,moneygram,BAHRINESTI,1
+UNKNOWN,moneygram,CASUNCA,1
+UNKNOWN,moneygram,IZVOARE FLORESTI,1
+UNKNOWN,moneygram,MAISCOE,1
+UNKNOWN,moneygram,STEFANESTI FLORESTI,1
+UNKNOWN,moneygram,CUNICEA,1
+UNKNOWN,moneygram,JAPCA,1
+UNKNOWN,moneygram,TATARESTI CAHUL,1
+UNKNOWN,moneygram,ALEXANDRU IOAN CUZA,1
+UNKNOWN,moneygram,BRINZA,1
+UNKNOWN,moneygram,TEMELEUTI FLORESTI,1
+UNKNOWN,moneygram,VERTIUJENI,1
+UNKNOWN,moneygram,BALATINA,1
+UNKNOWN,moneygram,BUJOR,1
+UNKNOWN,moneygram,CAJBA,1
+UNKNOWN,moneygram,BRINZENI GLODENI,1
+UNKNOWN,moneygram,CIUCIULEA,1
+UNKNOWN,moneygram,FUNDUL GALBENEI,1
+UNKNOWN,moneygram,COSTESTI IALOVENI,1
+UNKNOWN,moneygram,LEUSENI HINCESTI,1
+UNKNOWN,moneygram,SARATA GALBENA,1
+UNKNOWN,moneygram,CIUCIULENI,1
+UNKNOWN,moneygram,HORODCA IALOVENI,1
+UNKNOWN,moneygram,MALCOCI,1
+UNKNOWN,moneygram,BALTATI,1
+UNKNOWN,moneygram,CIGIRLENI,1
+UNKNOWN,moneygram,ALEXANDROVCA IALOVENI,1
+UNKNOWN,moneygram,MILESTII NOI,1
+UNKNOWN,moneygram,VARATIC IALOVENI,1
+UNKNOWN,moneygram,DANU,1
+UNKNOWN,moneygram,LIMBENII NOI,1
+UNKNOWN,moneygram,LIMBENII VECHI,1
+UNKNOWN,moneygram,PETRUNEA,1
+UNKNOWN,moneygram,USTIA GLODENI,1
+UNKNOWN,moneygram,ANINI,1
+UNKNOWN,moneygram,CAZANGIC,1
+UNKNOWN,moneygram,COLIBABOVCA,1
+UNKNOWN,moneygram,TOHATIN,1
+UNKNOWN,moneygram,BOLTUN,1
+UNKNOWN,moneygram,IURCENI,1
+UNKNOWN,moneygram,MARINICI,1
+UNKNOWN,moneygram,SENDRENI,1
+UNKNOWN,moneygram,BIRLADENI,1
+UNKNOWN,moneygram,CALARASOVCA,1
+UNKNOWN,moneygram,DINGENI,1
+UNKNOWN,moneygram,GRINAUTI RAIA,1
+UNKNOWN,moneygram,ANDREEVCA,1
+UNKNOWN,moneygram,OCNITA TARANI,1
+UNKNOWN,moneygram,SARATENI LEOVA,1
+UNKNOWN,moneygram,SIRMA,1
+UNKNOWN,moneygram,TIGHECI,1
+UNKNOWN,moneygram,TOCHILE RADUCANI,1
+UNKNOWN,moneygram,TAHNAUTI,1
+UNKNOWN,moneygram,ALEXANDRESTI,1
+UNKNOWN,moneygram,CIORNA,1
+UNKNOWN,moneygram,BUSAUCA,1
+UNKNOWN,moneygram,COGILNICENI,1
+UNKNOWN,moneygram,ECHIMAUTI,1
+UNKNOWN,moneygram,DURUITOAREA NOUA,1
+UNKNOWN,moneygram,LALOVA,1
+UNKNOWN,moneygram,MALINOVSCOE,1
+UNKNOWN,moneygram,PRIPICENI RAZESI,1
+UNKNOWN,moneygram,TRIFESTI,1
+UNKNOWN,moneygram,IEZARENII NOI,1
+UNKNOWN,moneygram,IEZARENII VECHI,1
+UNKNOWN,moneygram,PIRLITA,1
+UNKNOWN,moneygram,ALAVA,1
+UNKNOWN,moneygram,CAPLANI,1
+UNKNOWN,moneygram,TIPLETESTI,1
+UNKNOWN,moneygram,CROCMAZ,1
+UNKNOWN,moneygram,ALCEDAR,1
+UNKNOWN,moneygram,ERMOCLIA,1
+UNKNOWN,moneygram,FESTELITA,1
+UNKNOWN,moneygram,CLIMAUTI,1
+UNKNOWN,moneygram,VADENI,1
+UNKNOWN,moneygram,VARANCAU,1
+UNKNOWN,moneygram,ALEXANDRU CEL BUN,1
+UNKNOWN,moneygram,VOLOVITA,1
+UNKNOWN,moneygram,RASCAIETII NOI,1
+UNKNOWN,moneygram,SALCIA SOLDANESTI,1
+UNKNOWN,moneygram,SAMASCANI,1
+UNKNOWN,moneygram,SESTACI SOLDANESTI,1
+UNKNOWN,moneygram,TUDORA,1
+UNKNOWN,moneygram,SALCIA TARACLIA,1
+UNKNOWN,moneygram,BUCOVAT,1
+UNKNOWN,moneygram,VINOGRADOVCA,1
+UNKNOWN,moneygram,ALEXEEVCA UNGHENI,1
+UNKNOWN,moneygram,BULBOCI,1
+UNKNOWN,moneygram,CAINARII VECHI,1
+UNKNOWN,moneygram,HOLOSNITA,1
+UNKNOWN,moneygram,MICAUTI,1
+UNKNOWN,moneygram,NEGRESTI,1
+UNKNOWN,moneygram,BRINZENII VECHI,1
+UNKNOWN,moneygram,PANASESTI,1
+UNKNOWN,moneygram,RADENI STRASENI,1
+UNKNOWN,moneygram,BRINZENI NOI,1
+UNKNOWN,moneygram,SCORENI,1
+UNKNOWN,moneygram,CHISTELNITA,1
+UNKNOWN,moneygram,HIRISENI,1
+UNKNOWN,moneygram,NUCARENI,1
+UNKNOWN,moneygram,MOARA DE PIATRA,1
+UNKNOWN,moneygram,ORDASEI,1
+UNKNOWN,moneygram,PISTRUIENI,1
+UNKNOWN,moneygram,DOLNA,1
+UNKNOWN,moneygram,MICLEUSENI,1
+UNKNOWN,moneygram,ALBOTA DE JOS,1
+UNKNOWN,moneygram,ALBOTA DE SUS,1
+UNKNOWN,moneygram,CIUMAI,1
+UNKNOWN,moneygram,CODRUL NOU,1
+UNKNOWN,moneygram,UNTESTI,1
+UNKNOWN,moneygram,BUZDUGANII DE JOS,1
+UNKNOWN,moneygram,GALESTI,1
+UNKNOWN,moneygram,BOGHENII NOI,1
+UNKNOWN,moneygram,MACARESTI,1
+UNKNOWN,moneygram,CETIRENI,1
+UNKNOWN,moneygram,FLORENI UNGHENI,1
+UNKNOWN,moneygram,SLOBOZIA HODOROGEA,1
+UNKNOWN,moneygram,BULAIESTI,1
+UNKNOWN,moneygram,CHIPERCENI,1
+UNKNOWN,moneygram,BIRUINTA,1
+UNKNOWN,moneygram,BURSUCENI,1
+UNKNOWN,moneygram,COSCODENI,1
+UNKNOWN,newyorker,Chișinău,1
+UNKNOWN,newyorker,Chisniau,1
+UNKNOWN,next,Chişinău,1
+UNKNOWN,nike,Chișinău,1
+UNKNOWN,omv,Glodeni,1
+UNKNOWN,omv,Hlinaia,1
+UNKNOWN,omv,Riscani,1
+UNKNOWN,omv,Chisinau,17
+UNKNOWN,omv,Costesti,1
+UNKNOWN,omv,Soroca,1
+UNKNOWN,omv,Balti,8
+UNKNOWN,omv,Braviceni,1
+UNKNOWN,omv,Orhei,3
+UNKNOWN,omv,Giurgiulesti,1
+UNKNOWN,omv,Tvardita,1
+UNKNOWN,omv,Straseni,2
+UNKNOWN,omv,Sculeni,1
+UNKNOWN,omv,Causeni,1
+UNKNOWN,omv,Ungheni,2
+UNKNOWN,omv,Lipcani,1
+UNKNOWN,omv,Valea Perjei,1
+UNKNOWN,omv,Calarasi,1
+UNKNOWN,omv,Peresecina,1
+UNKNOWN,omv,Tintareni,1
+UNKNOWN,omv,Tiganca,1
+UNKNOWN,omv,Vulcanesti,1
+UNKNOWN,omv,Comrat,2
+UNKNOWN,omv,Ceadir-Lunga,2
+UNKNOWN,omv,Chiperceni,1
+UNKNOWN,omv,Ruseni,1
+UNKNOWN,omv,Telenesti,1
+UNKNOWN,omv,Saratenii Vechi,1
+UNKNOWN,omv,Mitoc,1
+UNKNOWN,omv,Lozova,1
+UNKNOWN,omv,Bardar,1
+UNKNOWN,omv,Floresti,1
+UNKNOWN,omv,Falestii Noi,1
+UNKNOWN,omv,Briceni,1
+UNKNOWN,omv,Leuseni,1
+UNKNOWN,omv,Varzaresti,1
+UNKNOWN,omv,Basarabeasca,1
+UNKNOWN,omv,Cimislia,1
+UNKNOWN,omv,Cahul,1
+UNKNOWN,omv,Criuleni,1
+UNKNOWN,ovs,Chisinau,2
+CHISINAU,rompetrol,Chisinau,42
+ANENIINOI,rompetrol,Anenii Noi,2
+HINCESTI,rompetrol,Hincesti,5
+STRASENI,rompetrol,Straseni,1
+RISCANI,rompetrol,Riscani,2
+OCNITA,rompetrol,Ocnita,2
+ORHEI,rompetrol,Orhei,3
+DROCHIA,rompetrol,Drochia,2
+CAHUL,rompetrol,Cahul,2
+STEFANVODA,rompetrol,Stefan Voda,1
+BALTI,rompetrol,Balti,5
+SOROCA,rompetrol,Soroca,1
+FALESTI,rompetrol,Falesti,1
+UNGHENI,rompetrol,Ungheni,1
+NISPORENI,rompetrol,Nisporeni,1
+EDINET,rompetrol,Cupcini,1
+SOLDANESTI,rompetrol,Soldanesti,1
+CALARASI,rompetrol,Calarasi,1
+IALOVENI,rompetrol,Ialoveni,1
+ANENIINOI,rompetrol,Anenii-Noi,1
+EDINET,rompetrol,Edinet,1
+GAGAUZIA,rompetrol,Vulcanesti,1
+CHISINAU,rompetrol,or.Durlesti,2
+DONDUSENI,rompetrol,Donduseni,1
+COMRAT,rompetrol,Comrat,1
+FLORESTI,rompetrol,Floresti,1
+BĂLȚI,rompetrol,Bălți,1
+FLOREȘTI,rompetrol,Florești,1
+CHIȘINĂU,rompetrol,Stăuceni,1
+DONDUSENI,rompetrol,Sat Taul,1
+CAUSENI,rompetrol,Causeni,1
+TELENESTI,rompetrol,Sat Ratus,1
+BRICENI,rompetrol,Briceni,1
+UNGHENI,rompetrol,Zagarancea,2
+CIMISLIA,rompetrol,Cimislia,1
+CHISINAU,rompetrol,Durlesti,1
+CHISINAU,rompetrol,Codru,1
+STEFANVODA,rompetrol,Ermoclia,1
+CHISINAU,rompetrol,Truseni,1
+UNKNOWN,sixt,Chisinau,6
+1CH,skoda,unknown,1
+UNKNOWN,skoda,unknown,1
+3C,skoda,unknown,1
+UNKNOWN,tommy_hilfiger,Chisinau,1
+UNKNOWN,united_colors_of_benetton,KISHINEV,1
+UNKNOWN,united_colors_of_benetton,CHISINAU,2
+MDA,visa,VULCANESTI,1
+UNKNOWN,visa,VULCANESTI,2
+GĂGĂUZIA,visa,VULCĂNEŞTI,1
+MDA,visa,CAHUL,4
+UNKNOWN,visa,CAHUL,18
+MDA,visa,COPCEAC,1
+UNKNOWN,visa,COPCEAC,1
+MDA,visa,TARACLIA,2
+UNKNOWN,visa,TARACLIA,7
+TARACLIA,visa,TARACLIA,1
+MDA,visa,CANTEMIR,2
+UNKNOWN,visa,CANTEMIR,6
+UNKNOWN,visa,CONGAZ,1
+UNKNOWN,visa,CEADIR-LUNGA,7
+UNKNOWN,visa,CEADIR LUNGA,1
+MDA,visa,CEADAR-LUNGA,1
+MDA,visa,CEADIR-LUNGA,2
+MDA,visa,LEOVA,2
+UNKNOWN,visa,LEOVA,7
+UNKNOWN,visa,COMRAT,8
+GĂGĂUZIA,visa,COMRAT,2
+MDA,visa,COMRAT,4
+UNKNOWN,visa,TVARDITA,1
+MDA,visa,BASARABEASCA,1
+UNKNOWN,visa,BASARABEASCA,3
+UNKNOWN,visa,HINCESTI,17
+UNKNOWN,visa,CIMISLIA,4
+MDA,visa,CIMISLIA,1
+UNKNOWN,visa,COSTESTI,2
+MDA,visa,UNGENY,5
+MDA,visa,UNGHENI,1
+UNKNOWN,visa,UNGENY,6
+UNKNOWN,visa,UNGHENI,10
+UNGHENI,visa,UNGHENI,2
+MDA,visa,HINCESTI,6
+UNKNOWN,visa,HANCESTI,1
+HINCEŞTI,visa,HINCEŞTI,1
+MDA,visa,REZINA,3
+UNKNOWN,visa,REZINA,9
+MDA,visa,NISPORENI,4
+UNKNOWN,visa,NISPORENI,3
+MDA,visa,IALOVENI,3
+UNKNOWN,visa,IALOVENI,16
+UNKNOWN,visa,ERMOCLIA,1
+MDA,visa,BACIOI,1
+UNKNOWN,visa,BACIOI,1
+UNKNOWN,visa,ŞTEFAN-VODĂ,1
+CĂUŞENI,visa,CĂUŞENI,1
+UNKNOWN,visa,CAUSENI,10
+MDA,visa,CAUSENI,3
+ŞTEFANVODĂ,visa,ŞTEFAN-VODĂ,1
+MDA,visa,CHISINAU,108
+MDA,visa,STEFAN VODA,1
+MDA,visa,DURLESTI,2
+UNKNOWN,visa,DURLESTI,4
+UNKNOWN,visa,SLOBOZIA,1
+UNKNOWN,visa,CHISINAU,336
+MDA,visa,CALARASI,3
+UNKNOWN,visa,CALARASI,6
+MDA,visa,TRUSENI,1
+UNKNOWN,visa,CĂLĂRAŞI,1
+MDA,visa,DUMBRAVA,1
+CHIŞINĂU,visa,CHIŞINĂU,24
+UNKNOWN,visa,CHISHINAU,1
+UNKNOWN,visa,FALESTI,9
+FĂLEŞTI,visa,FĂLEŞTI,1
+MDA,visa,FALESTI,4
+UNKNOWN,visa,BULBOACA,1
+UNKNOWN,visa,VATRA,1
+UNKNOWN,visa,STRASENI,6
+MDA,visa,STRASENI,2
+UNKNOWN,visa,OLANESTI,2
+UNKNOWN,visa,MERENI,1
+UNKNOWN,visa,PURCARI,1
+MDA,visa,ANENII NOI,3
+UNKNOWN,visa,ANENII NOI,11
+MDA,visa,STAUCENI,2
+UNKNOWN,visa,GLODENI,9
+MDA,visa,GLODENI,1
+UNKNOWN,visa,MAGDACESTI,1
+UNKNOWN,visa,CRICOVA,3
+UNKNOWN,visa,BUDESTI,1
+MDA,visa,CRICOVA,1
+UNKNOWN,visa,CIORESCU,2
+MDA,visa,FLORESTI,4
+UNKNOWN,visa,FLORESTI,5
+MDA,visa,VARNITA,1
+UNKNOWN,visa,VARNITA,3
+UNKNOWN,visa,VADUL LUI VODA,1
+MDA,visa,VADUL LUI VODA,1
+MDA,visa,PERESECINA,1
+UNKNOWN,visa,TELENESTI,4
+MDA,visa,TELENESTI,2
+MDA,visa,BALTI,18
+MDA,visa,SINGEREI,4
+UNKNOWN,visa,SINGEREI,6
+MDA,visa,LIPCANI,1
+UNKNOWN,visa,LIPCANI,1
+UNKNOWN,visa,COSNITA,1
+BĂLŢI,visa,BĂLŢI,5
+UNKNOWN,visa,BALTI,37
+MDA,visa,RISCANI,1
+UNKNOWN,visa,RISCANI,4
+RIŞCANI,visa,RIŞCANI,1
+UNKNOWN,visa,ORHEI,13
+ORHEI,visa,ORHEI,1
+MDA,visa,ORHEI,6
+MDA,visa,CRIULENI,1
+UNKNOWN,visa,CRIULENI,4
+UNKNOWN,visa,PELINIA,1
+UNKNOWN,visa,CUPCINI,1
+EDINEŢ,visa,EDINEŢ,2
+UNKNOWN,visa,EDINET,6
+MDA,visa,EDINET,4
+UNKNOWN,visa,DUBASARI,4
+UNKNOWN,visa,COCIERI,1
+UNKNOWN,visa,BRICENI,6
+UNKNOWN,visa,OXENTEA,1
+MDA,visa,DROCHIA,2
+UNKNOWN,visa,DROCHIA,9
+DROCHIA,visa,DROCHIA,1
+MDA,visa,DONDUSENI,1
+UNKNOWN,visa,DONDUSENI,1
+FLOREŞTI,visa,FLOREŞTI,2
+DONDUŞENI,visa,DONDUŞENI,2
+UNKNOWN,visa,OCNITA,6
+MDA,visa,OCNITA,1
+MDA,visa,SOLDANESTI,1
+UNKNOWN,visa,SOLDANESTI,3
+MDA,visa,BRICENI,3
+REZINA,visa,REZINA,1
+MDA,visa,SOROCA,3
+UNKNOWN,visa,SOROCA,14
+SOROCA,visa,SOROCA,1
+UNKNOWN,western_union,Kongaz,1
+UNKNOWN,western_union,Congaz,1
+UNKNOWN,western_union,Comrat,1
+UNKNOWN,western_union,Bendery,12
+UNKNOWN,western_union,Vulcanesti,2
+UNKNOWN,western_union,Tiraspol,25
+UNKNOWN,western_union,Vulkanesht,1
+UNKNOWN,western_union,Anenii Noi,9
+UNKNOWN,western_union,Avdarma,1
+UNKNOWN,western_union,Parkany,1
+UNKNOWN,western_union,Cimislia,6
+UNKNOWN,western_union,Basarabeasca,1
+UNKNOWN,western_union,Ceadir Lunga,5
+UNKNOWN,western_union,Taraclia,4
+UNKNOWN,western_union,Ceadar Lunga,1
+UNKNOWN,western_union,Tarakliya,2
+UNKNOWN,western_union,Karagash,1
+UNKNOWN,western_union,Basarabyaska,1
+UNKNOWN,western_union,Chadyr Lunga,1
+UNKNOWN,western_union,Causeni,6
+UNKNOWN,western_union,Keushen,2
+UNKNOWN,western_union,Sukleya,1
+UNKNOWN,western_union,Kitskany,1
+UNKNOWN,western_union,Slobodzeya,3
+UNKNOWN,western_union,Stefan Voda,4
+UNKNOWN,western_union,Shtefan Vode,1
+UNKNOWN,western_union,Dnestrovsk,2
+UNKNOWN,western_union,Pervomaysk,1
+UNKNOWN,western_union,Chimishliya,1
+UNKNOWN,western_union,Hincesti,9
+UNKNOWN,western_union,Khynchesht,4
+UNKNOWN,western_union,Hancesti,1
+UNKNOWN,western_union,Ungheni,9
+UNKNOWN,western_union,Bacioi,1
+UNKNOWN,western_union,Ungen,3
+UNKNOWN,western_union,Nisporeni,5
+UNKNOWN,western_union,Ungeny,1
+UNKNOWN,western_union,Novye Aneny,1
+UNKNOWN,western_union,Ialoveni,4
+UNKNOWN,western_union,Yaloven,1
+UNKNOWN,western_union,Nisporen,2
+UNKNOWN,western_union,Chisinau,196
+UNKNOWN,western_union,Sat Chetrosu,1
+CHISINAU,western_union,Chisinau,6
+UNKNOWN,western_union,Mun  Chisinau,2
+UNKNOWN,western_union,Durlesti,2
+UNKNOWN,western_union,Balti,24
+UNKNOWN,western_union,Mereni,1
+UNKNOWN,western_union,Kishineu,1
+MUNCHISINAU,western_union,Mun. Chisinau,2
+MUNCHISINAU,western_union,Bubuieci,1
+UNKNOWN,western_union,Mun Chisinau,1
+UNKNOWN,western_union,Truseni,1
+MUNCHISINAU,western_union,Or Vatra,1
+CHISINAU,western_union,Ciorescu,1
+CHISINAU,western_union,Budesti,1
+CALARASI,western_union,Calarasi,1
+UNKNOWN,western_union,Kalarash,1
+UNKNOWN,western_union,Calarasi,1
+UNKNOWN,western_union,Cricova,1
+UNKNOWN,western_union,Criuleni,4
+UNKNOWN,western_union,Ciorescu,1
+UNKNOWN,western_union,Cosnita,2
+UNKNOWN,western_union,Falesti,5
+UNKNOWN,western_union,Felesht,1
+UNKNOWN,western_union,Briceni,7
+UNKNOWN,western_union,Grigoriopol,5
+UNKNOWN,western_union,Faleshty,1
+UNKNOWN,western_union,Lipcani,1
+UNKNOWN,western_union,Glodeni,4
+UNKNOWN,western_union,Gloden,1
+UNKNOWN,western_union,Dubossary,6
+UNKNOWN,western_union,Mayak,1
+UNKNOWN,western_union,Singerei,6
+UNKNOWN,western_union,Telenesti,4
+UNKNOWN,western_union,Telenesht,1
+UNKNOWN,western_union,Orkhey,2
+UNKNOWN,western_union,Orhei,8
+UNKNOWN,western_union,Synzherey,1
+UNKNOWN,western_union,Leova,1
+UNKNOWN,western_union,Cocieri,1
+UNKNOWN,western_union,Riscani,2
+UNKNOWN,western_union,Belts,5
+UNKNOWN,western_union,Ryshkan,1
+UNKNOWN,western_union,Beltsy,4
+UNKNOWN,western_union,Edinet,7
+UNKNOWN,western_union,Brichen,2
+UNKNOWN,western_union,Sat Saratenii Vechi,1
+UNKNOWN,western_union,Edinets,1
+UNKNOWN,western_union,Cupcini,1
+UNKNOWN,western_union,Drochia,6
+UNKNOWN,western_union,Drokiya,3
+UNKNOWN,western_union,Donduseni,5
+UNKNOWN,western_union,Dondushen,1
+UNKNOWN,western_union,Floresti,7
+UNKNOWN,western_union,Ocnita,6
+UNKNOWN,western_union,Oknitsa,1
+UNKNOWN,western_union,Floresht,1
+UNKNOWN,western_union,Rezina,6
+UNKNOWN,western_union,Rybnitsa,10
+UNKNOWN,western_union,Soldanesti,2
+UNKNOWN,western_union,Soroca,8
+UNKNOWN,western_union,Kamenka,4
+UNKNOWN,western_union,Soroka,1
+UNKNOWN,western_union,Cahul,11
+UNKNOWN,western_union,Kakhul,2
+CHISINAU,western_union,Stauceni,1
+UNKNOWN,western_union,Straseni,4
+UNKNOWN,western_union,Strashen,1

@@ -1,0 +1,457 @@
+City,Place Name,Zipcode,Name
+ARCACHON (LA TESTE),audi,70 Avenue Lagrua ARCACHON (LA TESTE) 33260,unknown,DBF ARCACHON
+PERIGUEUX (TRELISSAC),audi,45 AVENUE de l'Automobile PERIGUEUX (TRELISSAC) 24750,unknown,PREMIUM 24
+PAU (LESCAR),audi,2 BOULEVARD Benjamin Franklin PAU (LESCAR) 64230,unknown,ETS LAVILLAUROY
+ST AVIT (MONT DE MARSAN),audi,52 Allée de l'Ermite Parc d'activité Lagace ST AVIT (MONT DE MARSAN) 40090,unknown,FAURIE PREMIUM SUD-OUEST
+ST PAUL LES DAX,audi,351 Avenue des Lacs ST PAUL LES DAX 40990,unknown,FAURIE PREMIUM SUD-OUEST
+AGEN (LE PASSAGE),audi,ZI BEAUREGARD AVENUE DES PYRENEES AGEN (LE PASSAGE) 47520,unknown,FAURIE PREMIUM SUD-OUEST
+BAYONNE,audi,1 Chemin de Lachiste - Rond Point de Sutar BAYONNE 64100,unknown,CAR BAYONNE
+MARMANDE,audi,Route de Bordeaux MARMANDE 47200,unknown,FRECHIC SA
+ARTIGUES PRES BORDEAUX,audi,9 Avenue Du Millac ARTIGUES PRES BORDEAUX 33370,unknown,DBF BORDEAUX PREMIUM
+MERIGNAC,audi,34 Avenue Roland Garros MERIGNAC 33700,unknown,DBF BORDEAUX PREMIUM
+PERIGUEUX,cic,,unknown,CIC
+CHANCELADE,cic,,unknown,CIC PERIGUEUX
+CASTELJALOUX,cic,,unknown,CIC MARMANDE
+STE FOY LA GRANDE,cic,,unknown,CIC BERGERAC - CIC STE FOY LA GRANDE
+MARMANDE,cic,,unknown,CIC MARMANDE - CIC CASTELJALOUX
+MONTPON MENESTEROL,cic,,unknown,CIC COUTRAS
+BERGERAC,cic,,unknown,CIC BERGERAC - CIC STE FOY LA GRANDE
+SARLAT LA CANEDA,cic,,unknown,CIC
+TERRASSON LAVILLEDIEU,cic,,unknown,CIC BRIVE - CIC TERRASSON - CIC TULLE
+COUTRAS,cic,,unknown,CIC COUTRAS - CIC MONTPON MENESTEROL
+NERAC,cic,,unknown,CIC
+VILLENEUVE SUR LOT,cic,,unknown,CIC
+AGEN,cic,,unknown,CIC AGEN - CIC BOE
+BOE,cic,,unknown,CIC AGEN
+MONT DE MARSAN,cic,,unknown,CIC MONT DE MARSAN M.JUIN - CIC AIRE SUR L'ADOUR
+OLORON STE MARIE,cic,,unknown,CIC
+LESCAR,cic,,unknown,CIC LESCAR - CIC ORTHEZ
+BILLERE,cic,,unknown,CIC
+PAU,cic,,unknown,CIC PAU GAL LECLERC - CIC NAY
+NAY,cic,,unknown,CIC PAU GAL LECLERC
+ORTHEZ,cic,,unknown,CIC LESCAR - CIC ORTHEZ
+BLAYE,cic,,unknown,CIC
+PAUILLAC,cic,,unknown,CIC
+LESPARRE MEDOC,cic,,unknown,CIC
+BORDEAUX,cic,,unknown,CIC BORDEAUX NANSOUTY - CIC BORDEAUX VICTOIRE
+EYSINES,cic,,unknown,CIC EYSINES - CIC BRUGES
+LE BOUSCAT,cic,,unknown,CIC
+BRUGES,cic,,unknown,CIC EYSINES
+ST LOUBES,cic,,unknown,CIC
+CENON,cic,,unknown,CIC
+ST JEAN DE LUZ,cic,,unknown,CIC ST JEAN DE LUZ - CIC HENDAYE
+CAPBRETON,cic,,unknown,CIC CAPBRETON - CIC VIEUX BOUCAU
+BIARRITZ,cic,,unknown,CIC BIARRITZ - CIC BIARRITZ CENTRE
+ANGLET,cic,,unknown,CIC ANGLET - CIC ANGLET BAHINOS
+ST VINCENT DE TYROSSE,cic,,unknown,CIC
+DAX,cic,,unknown,CIC
+HENDAYE,cic,,unknown,CIC ST JEAN DE LUZ
+VIEUX BOUCAU LES BAINS,cic,,unknown,CIC CAPBRETON
+BOUCAU,cic,,unknown,CIC BAYONNE
+BAYONNE,cic,,unknown,CIC BAYONNE - CIC BOUCAU
+CAMBO LES BAINS,cic,,unknown,CIC HASPARREN - CIC CAMBO LES BAINS
+ST JEAN PIED DE PORT,cic,,unknown,CIC BASSE NAVARRE - CIC SAINT PALAIS
+HASPARREN,cic,,unknown,CIC HASPARREN - CIC CAMBO LES BAINS
+ST PALAIS,cic,,unknown,CIC BASSE NAVARRE - CIC ST JEAN PIED DE PORT
+MERIGNAC,cic,,unknown,CIC
+ST MEDARD EN JALLES,cic,,unknown,CIC ST MEDARD EN JALLES - CIC LE TAILLAN - CIC LE TAILLAN MEDOC
+LE TAILLAN MEDOC,cic,,unknown,CIC ST MEDARD EN JALLES - CIC LE TAILLAN
+BLANQUEFORT,cic,,unknown,CIC
+ST ANDRE DE CUBZAC,cic,,unknown,CIC
+VILLENAVE D ORNON,cic,,unknown,CIC
+GRADIGNAN,cic,,unknown,CIC GRADIGNAN - CIC TALENCE
+PESSAC,cic,,unknown,CIC PESSAC ALOUETTE - CIC ST JEAN D'ILLAC - CIC SAINT JEAN D'ILLAC
+LA BREDE,cic,,unknown,CIC LEOGNAN
+LEOGNAN,cic,,unknown,CIC LEOGNAN - CIC LA BREDE
+ST JEAN D ILLAC,cic,,unknown,CIC PESSAC ALOUETTE - CIC ST JEAN D'ILLAC
+CESTAS,cic,,unknown,CIC
+TALENCE,cic,,unknown,CIC GRADIGNAN - CIC TALENCE
+ANDERNOS LES BAINS,cic,,unknown,CIC
+BIGANOS,cic,,unknown,CIC
+ARCACHON,cic,,unknown,CIC
+GUJAN MESTRAS,cic,,unknown,CIC LA TESTE
+LA TESTE DE BUCH,cic,,unknown,CIC LA TESTE - CIC GUJAN MESTRAS
+BISCARROSSE,cic,,unknown,CIC BISCARROSSE - CIC MIMIZAN
+MIMIZAN,cic,,unknown,CIC BISCARROSSE - CIC MIMIZAN
+LANGON,cic,,unknown,CIC LANGON - CIC BAZAS
+LIBOURNE,cic,,unknown,CIC
+CREON,cic,,unknown,CIC
+BAZAS,cic,,unknown,CIC LANGON
+BEGLES,cic,,unknown,CIC
+CASTELCULIER,cigusto_fr,,unknown,CIGUSTO AGEN - CASTELCULIER
+URRUGNE,cigusto_fr,,unknown,CIGUSTO URRUGNE
+TARNOS,cigusto_fr,,unknown,CIGUSTO TARNOS
+SAINT JEAN DE LUZ,cigusto_fr,,unknown,CIGUSTO SAINT JEAN DE LUZ
+MONT DE MARSAN,cigusto_fr,,unknown,CIGUSTO MONT DE MARSAN
+LIBOURNE,cigusto_fr,,unknown,CIGUSTO LIBOURNE
+LESCAR,cigusto_fr,,unknown,CIGUSTO LESCAR
+BORDEAUX,cigusto_fr,,unknown,CIGUSTO BORDEAUX STE CATHERINE
+STE EULALIE,cigusto_fr,,unknown,CIGUSTO BORDEAUX - SAINTE EULALIE
+PESSAC,cigusto_fr,,unknown,CIGUSTO BORDEAUX - PESSAC
+MERIGNAC,cigusto_fr,,unknown,CIGUSTO BORDEAUX - MERIGNAC
+ARES,cigusto_fr,,unknown,CIGUSTO ARCACHON-ARES
+BERGERAC,e_leclerc,,unknown,BERGERAC
+BORDEAUX,e_leclerc,,unknown,Drive Relais Bordeaux Caudéran Stéhélin
+SAINT PAUL LES DAX,e_leclerc,,unknown,Drive Saint-Paul-lès-Dax
+RION DES LANDES,e_leclerc,,unknown,Express Rion Des Landes
+PINEUILH,e_leclerc,,unknown,Drive Pineuilh / Sainte-Foy
+PORT SAINTE-FOY,e_leclerc,,unknown,Brico
+PORT STE FOY,e_leclerc,,unknown,Station Port-Sainte-Foy-et-Ponchapt
+PESSAC,e_leclerc,,unknown,Location
+Biscarrosse,e_leclerc,,unknown,Drive Biscarrosse
+BISCARROSSE,e_leclerc,,unknown,BISCARROSSE
+BISCARROSSE- PLAGE,e_leclerc,,unknown,Express BISCARROSSE- PLAGE
+MOURENX,e_leclerc,,unknown,MOURENX
+ARTIX,e_leclerc,,unknown,Express Artix
+Artix,e_leclerc,,unknown,DRIVE Artix
+SARLAT,e_leclerc,,unknown,DRIVE Sarlat La Caneda
+MIMIZAN,e_leclerc,,unknown,Location
+LABOUHEYRE,e_leclerc,,unknown,Express Labouheyre
+ORTHEZ CEDEX,e_leclerc,,unknown,Drive Orthez
+ORTHEZ,e_leclerc,,unknown,ORTHEZ
+saint laurent des vignes,e_leclerc,,unknown,Location
+SAINT LAURENT DES VIGNES,e_leclerc,,unknown,Drive Bergerac
+Bergerac,e_leclerc,,unknown,Drive Bergerac Pasteur
+SAINT PIERRE DU MONT,e_leclerc,,unknown,Drive Saint-Pierre-du-Mont - Grand Moun
+MONT DE MARSAN,e_leclerc,,unknown,Location
+SAINT-PIERRE-DU-MONT,e_leclerc,,unknown,Express Sarbazan
+RIBERAC,e_leclerc,,unknown,RIBERAC
+SAINTE EULALIE,e_leclerc,,unknown,Drive Sainte-Eulalie
+AMBARES,e_leclerc,,unknown,Location
+Artigues,e_leclerc,,unknown,Drive Artigues / Bordeaux
+Bordeaux,e_leclerc,,unknown,Relais Bordeaux Stalingrad
+CENON ,e_leclerc,,unknown,E.Leclerc Relais Cenon Cassagne
+ST VINCENT DE TYROSSE,e_leclerc,,unknown,Drive Saint-Vincent-de-Tyrosse
+SAINT VINCENT DE TYROSSE,e_leclerc,,unknown,TYROSSE
+Tosse,e_leclerc,,unknown,Express Tosse
+CASTELJALOUX,e_leclerc,,unknown,DRIVE Casteljaloux
+BAYONNE CEDEX,e_leclerc,,unknown,BAYONNE
+OSSES,e_leclerc,,unknown,Express Ossès
+HASPARREN,e_leclerc,,unknown,Express Hasparren
+SAINT ASTIER,e_leclerc,,unknown,Brico
+LANGON,e_leclerc,,unknown,Drive Langon
+MAZERES,e_leclerc,,unknown,Brico
+Beguey,e_leclerc,,unknown,Drive Beguey
+CAPBRETON,e_leclerc,,unknown,Location
+VILLENEUVE SUR LOT,e_leclerc,,unknown,Drive Villeneuve-sur-Lot
+ANGLET,e_leclerc,,unknown,Station Service Anglet Centre
+PERIGUEUX,e_leclerc,,unknown,Location
+PERIGUEUX CEDEX,e_leclerc,,unknown,PERIGUEUX
+DAX,e_leclerc,,unknown,DAX
+BON ENCONTRE,e_leclerc,,unknown,Location
+BON ENCONTRE - AGEN,e_leclerc,,unknown,Auto
+AGEN,e_leclerc,,unknown,Drive Agen
+Bon-Encontre,e_leclerc,,unknown,DRIVE Bon-Encontre/Castelculier
+URRUGNE,e_leclerc,,unknown,URRUGNE
+SAINT JEAN DE LUZ,e_leclerc,,unknown,Station St Jean de Luz
+SAINT-JEAN-DE-LUZ,e_leclerc,,unknown,Drive Saint-Jean-de-Luz
+Saint-Jean-de-Luz-Nord,e_leclerc,,unknown,Location St Jean-de-Luz
+TRELISSAC CEDEX,e_leclerc,,unknown,TRELISSAC
+TRELISSAC,e_leclerc,,unknown,Drive Trélissac
+NOTRE DAME DE SANILHAC,e_leclerc,,unknown,Location Notre Dame de Sanilhac
+Périgueux,e_leclerc,,unknown,Drive Périgueux Le Privilège
+Notre-Dame-de-Sanilhac,e_leclerc,,unknown,Drive Notre Dame de Sanilhac
+SOUSTONS,e_leclerc,,unknown,Location
+LINXE,e_leclerc,,unknown,Express Linxe
+TONNEINS,e_leclerc,,unknown,DRIVE Tonneins
+OLORON SAINTE MARIE,e_leclerc,,unknown,Drive Oloron
+TERRASSON LAVILLEDIEU,e_leclerc,,unknown,TERRASSON LAVILLEDIEU
+MONTAYRAL,e_leclerc,,unknown,Location
+PAU,e_leclerc,,unknown,Drive Pau Universite
+LESCAR,e_leclerc,,unknown,Jardi
+Lons,e_leclerc,,unknown,Drive Lons
+MARMANDE,e_leclerc,,unknown,DRIVE Marmande - Route de Bordeaux
+MAZERES LEZONS,e_leclerc,,unknown,Drive Mazères / Pau-Sud
+ST MEDARD EN JALLES CEDEX,e_leclerc,,unknown,Location
+SAINT MEDARD EN JALLES,e_leclerc,,unknown,SAINT MEDARD EN JALLES
+Saint-Jean-d'Illac,e_leclerc,,unknown,Drive Saint-Jean-D'Illac
+Saint-Médard-en-Jalles,e_leclerc,,unknown,Drive Saint-Médard-en-Jalles
+MERIGNAC,e_leclerc,,unknown,Drive Relais Piéton YSER MERIGNAC
+BIARRITZ,e_leclerc,,unknown,Drive Biarritz
+Bassussarry,e_leclerc,,unknown,DRIVE Bassussarry
+Aicirits,e_leclerc,,unknown,Drive Aicirits
+Sauveterre de Bearn,e_leclerc,,unknown,Express Sauveterre de Bearn
+LESPARRE MEDOC Cedex,e_leclerc,,unknown,Location
+LESPARRE MEDOC,e_leclerc,,unknown,Auto
+LESPARRE MEDOC CEDEX,e_leclerc,,unknown,LESPARRE
+ANGLET LE BUSQUET,e_leclerc,,unknown,ANGLET LE BUSQUET
+BLAYE,e_leclerc,,unknown,Location
+CARS,e_leclerc,,unknown,DRIVE Blaye
+BRUGES CEDEX,e_leclerc,,unknown,Location
+BRUGES,e_leclerc,,unknown,Drive Bruges
+COUTRAS,e_leclerc,,unknown,DRIVE E.LECLERC COUTRAS
+BEGLES Cedex,e_leclerc,,unknown,BEGLES
+TALENCE CEDEX,e_leclerc,,unknown,TALENCE
+LIBOURNE,e_leclerc,,unknown,Drive Libourne
+LEOGNAN,e_leclerc,,unknown,Location
+Villenave d'Ornon,e_leclerc,,unknown,Drive Villenave-d'Ornon
+ARES,e_leclerc,,unknown,E.Leclerc Drive Arès
+LE PIAN MEDOC,e_leclerc,,unknown,Drive Le Pian Médoc
+SAINT MAGNE DE CASTILLON,e_leclerc,,unknown,Drive Saint-Magne-de-Castillon
+La Teste de Buch,e_leclerc,,unknown,Location
+LA TESTE DE BUCH,e_leclerc,,unknown,LA TESTE
+LE VERDON SUR MER,e_leclerc,,unknown,VERDON SUR MER
+MIOS,e_leclerc,,unknown,DRIVE Mios
+BIGANOS,e_leclerc,,unknown,Drive Biganos
+Yzosse,fedex,,unknown,unknown
+Yvrac,fedex,,unknown,unknown
+Villeneuve Sur Lot,fedex,,unknown,unknown
+Villenave D Ornon,fedex,,unknown,unknown
+Vieux Boucau Les Bains,fedex,,unknown,unknown
+Vezac,fedex,,unknown,unknown
+Vergt,fedex,,unknown,unknown
+Vensac,fedex,,unknown,unknown
+Vayres,fedex,,unknown,unknown
+Ustaritz,fedex,,unknown,unknown
+Urt,fedex,,unknown,unknown
+Tresses,fedex,,unknown,unknown
+Toulenne,fedex,,unknown,unknown
+Tosse,fedex,,unknown,unknown
+Tonneins,fedex,,unknown,unknown
+Tombeboeuf,fedex,,unknown,unknown
+Tocane St Apre,fedex,,unknown,unknown
+Thiviers,fedex,,unknown,unknown
+Thenon,fedex,,unknown,unknown
+Terrasson Lavilledieu,fedex,,unknown,unknown
+Talence,fedex,,unknown,unknown
+Ste Eulalie,fedex,,unknown,unknown
+St Vite,fedex,,unknown,unknown
+St Vincent De Paul,fedex,,unknown,unknown
+St Symphorien,fedex,,unknown,unknown
+St Sylvestre Sur Lot,fedex,,unknown,unknown
+St Selve,fedex,,unknown,unknown
+St Pierre De Chignac,fedex,,unknown,unknown
+St Pierre D Irube,fedex,,unknown,unknown
+St Pierre D Aurillac,fedex,,unknown,unknown
+St Paul Les Dax,fedex,,unknown,unknown
+St Pardoux Isaac,fedex,,unknown,unknown
+St Palais,fedex,,unknown,unknown
+St Michel De Rieufret,fedex,,unknown,unknown
+St Medard De Mussidan,fedex,,unknown,unknown
+St Martin De Seignanx,fedex,,unknown,unknown
+St Martin D Oney,fedex,,unknown,unknown
+St Magne,fedex,,unknown,unknown
+St Magne De Castillon,fedex,,unknown,unknown
+St Loubes,fedex,,unknown,unknown
+St Laurent Sur Manoire,fedex,,unknown,unknown
+St Laurent D Arce,fedex,,unknown,unknown
+St Julien En Born,fedex,,unknown,unknown
+St Jean Le Vieux,fedex,,unknown,unknown
+St Jean De Luz,fedex,,unknown,unknown
+St Jean D Illac,fedex,,unknown,unknown
+St Front Sur Lemance,fedex,,unknown,unknown
+St Etienne De Baigorry,fedex,,unknown,unknown
+St Denis De Pile,fedex,,unknown,unknown
+St Ciers Sur Gironde,fedex,,unknown,unknown
+St Christoly De Blaye,fedex,,unknown,unknown
+St Caprais De Bordeaux,fedex,,unknown,unknown
+St Astier,fedex,,unknown,unknown
+St Andre De Cubzac,fedex,,unknown,unknown
+Soustons,fedex,,unknown,unknown
+Soussans,fedex,,unknown,unknown
+Souprosse,fedex,,unknown,unknown
+Soulac Sur Mer,fedex,,unknown,unknown
+Sore,fedex,,unknown,unknown
+Sevignacq,fedex,,unknown,unknown
+Serres Castet,fedex,,unknown,unknown
+Serignac Sur Garonne,fedex,,unknown,unknown
+Seignosse,fedex,,unknown,unknown
+Savignac De L Isle,fedex,,unknown,unknown
+Sauveterre De Guyenne,fedex,,unknown,unknown
+Saugnac Et Cambran,fedex,,unknown,unknown
+Sarlat La Caneda,fedex,,unknown,unknown
+Sanguinet,fedex,,unknown,unknown
+Salles,fedex,,unknown,unknown
+Salignac,fedex,,unknown,unknown
+Roquefort,fedex,,unknown,unknown
+Riberac,fedex,,unknown,unknown
+Quinsac,fedex,,unknown,unknown
+Puyoo,fedex,,unknown,unknown
+Puynormand,fedex,,unknown,unknown
+Pujols,fedex,,unknown,unknown
+Prechac,fedex,,unknown,unknown
+Prayssas,fedex,,unknown,unknown
+Pouillon,fedex,,unknown,unknown
+Port Ste Marie,fedex,,unknown,unknown
+Pontonx Sur L Adour,fedex,,unknown,unknown
+Pont Du Casse,fedex,,unknown,unknown
+Pomerol,fedex,,unknown,unknown
+Podensac,fedex,,unknown,unknown
+Pineuilh,fedex,,unknown,unknown
+Peyrehorade,fedex,,unknown,unknown
+Pessac,fedex,,unknown,unknown
+Perissac,fedex,,unknown,unknown
+Perigueux,fedex,,unknown,unknown
+Penne D Agenais,fedex,,unknown,unknown
+Pauillac,fedex,,unknown,unknown
+Pau,fedex,,unknown,FedEx Express FR
+Parempuyre,fedex,,unknown,unknown
+Orthez,fedex,,unknown,unknown
+Oloron Ste Marie,fedex,,unknown,unknown
+Nousty,fedex,,unknown,unknown
+Nontron,fedex,,unknown,unknown
+Nerac,fedex,,unknown,unknown
+Navarrenx,fedex,,unknown,unknown
+Mussidan,fedex,,unknown,unknown
+Mourenx,fedex,,unknown,unknown
+Mourens,fedex,,unknown,unknown
+Moulis En Medoc,fedex,,unknown,unknown
+Mouleydier,fedex,,unknown,unknown
+Mouguerre,fedex,,unknown,FedEx Express FR
+Morlaas,fedex,,unknown,unknown
+Montpon Menesterol,fedex,,unknown,unknown
+Montignac,fedex,,unknown,unknown
+Montfort En Chalosse,fedex,,unknown,unknown
+Montaut,fedex,,unknown,unknown
+Montardon,fedex,,unknown,unknown
+Mont De Marsan,fedex,,unknown,unknown
+Monflanquin,fedex,,unknown,unknown
+Mimizan,fedex,,unknown,unknown
+Mezin,fedex,,unknown,unknown
+Merignac,fedex,,unknown,FedEx Express FR Station offering FedEx services only (international parcels)
+Mazeres Lezons,fedex,,unknown,unknown
+Mauleon Licharre,fedex,,unknown,unknown
+Marsac Sur L Isle,fedex,,unknown,unknown
+Marmande,fedex,,unknown,unknown
+Marcillac,fedex,,unknown,unknown
+Marcheprime,fedex,,unknown,unknown
+Ludon Medoc,fedex,,unknown,unknown
+Loupiac De La Reole,fedex,,unknown,unknown
+Lormont,fedex,,unknown,unknown
+Lons,fedex,,unknown,unknown
+Lit Et Mixe,fedex,,unknown,unknown
+Libourne,fedex,,unknown,unknown
+Lesparre Medoc,fedex,,unknown,unknown
+Lescar,fedex,,unknown,unknown
+Les Peintures,fedex,,unknown,unknown
+Les Billaux,fedex,,unknown,unknown
+Lerm Et Musset,fedex,,unknown,unknown
+Le Temple Sur Lot,fedex,,unknown,unknown
+Le Porge,fedex,,unknown,unknown
+Le Pian Medoc,fedex,,unknown,unknown
+Le Passage,fedex,,unknown,unknown
+Le Haillan,fedex,,unknown,unknown
+Le Buisson De Cadouin,fedex,,unknown,unknown
+Le Bugue,fedex,,unknown,unknown
+Le Bouscat,fedex,,unknown,unknown
+Lavardac,fedex,,unknown,unknown
+Latresne,fedex,,unknown,unknown
+Lanton,fedex,,unknown,unknown
+Langon,fedex,,unknown,unknown
+Langoiran,fedex,,unknown,unknown
+Lamarque,fedex,,unknown,unknown
+Laluque,fedex,,unknown,unknown
+Lalinde,fedex,,unknown,unknown
+Lahontan,fedex,,unknown,unknown
+Lahonce,fedex,,unknown,unknown
+Lafitte Sur Lot,fedex,,unknown,unknown
+Lacapelle Biron,fedex,,unknown,unknown
+Labenne,fedex,,unknown,unknown
+Labatut,fedex,,unknown,unknown
+La Teste De Buch,fedex,,unknown,unknown
+La Brede,fedex,,unknown,unknown
+La Bastide Clairence,fedex,,unknown,unknown
+Izon,fedex,,unknown,unknown
+Itxassou,fedex,,unknown,unknown
+Idron,fedex,,unknown,unknown
+Hourtin,fedex,,unknown,unknown
+Heugas,fedex,,unknown,unknown
+Hendaye,fedex,,unknown,unknown
+Helette,fedex,,unknown,unknown
+Hautefage La Tour,fedex,,unknown,unknown
+Haut Mauco,fedex,,unknown,unknown
+Hasparren,fedex,,unknown,unknown
+Gujan Mestras,fedex,,unknown,unknown
+Guitres,fedex,,unknown,unknown
+Gradignan,fedex,,unknown,unknown
+Gironde Sur Dropt,fedex,,unknown,unknown
+Ger,fedex,,unknown,unknown
+Gastes,fedex,,unknown,unknown
+Gan,fedex,,unknown,unknown
+Galgon,fedex,,unknown,unknown
+Gaillan En Medoc,fedex,,unknown,unknown
+Fumel,fedex,,unknown,unknown
+Francescas,fedex,,unknown,unknown
+Foulayronnes,fedex,,unknown,unknown
+Floirac,fedex,,unknown,unknown
+Fargues St Hilaire,fedex,,unknown,unknown
+Eysines,fedex,,unknown,unknown
+Excideuil,fedex,,unknown,unknown
+Etauliers,fedex,,unknown,unknown
+Duras,fedex,,unknown,unknown
+Dax,fedex,,unknown,unknown
+Damazan,fedex,,unknown,unknown
+Cubzac Les Ponts,fedex,,unknown,unknown
+Cubnezais,fedex,,unknown,unknown
+Creysse,fedex,,unknown,unknown
+Coutras,fedex,,unknown,unknown
+Condezaygues,fedex,,unknown,unknown
+Colayrac St Cirq,fedex,,unknown,unknown
+Clairac,fedex,,unknown,unknown
+Civrac De Blaye,fedex,,unknown,unknown
+Cissac Medoc,fedex,,unknown,unknown
+Ciboure,fedex,,unknown,unknown
+Charras,fedex,,unknown,unknown
+Chancelade,fedex,,unknown,unknown
+Cestas,fedex,,unknown,unknown
+Cenon,fedex,,unknown,unknown
+Cavignac,fedex,,unknown,unknown
+Castillon La Bataille,fedex,,unknown,unknown
+Castelnaud De Gratecambe,fedex,,unknown,unknown
+Casteljaloux,fedex,,unknown,unknown
+Castelculier,fedex,,unknown,unknown
+Cartelegue,fedex,,unknown,unknown
+Carbon Blanc,fedex,,unknown,unknown
+Capbreton,fedex,,unknown,unknown
+Cancon,fedex,,unknown,unknown
+Cambo Les Bains,fedex,,unknown,unknown
+Bordeaux,hema,,unknown,HEMA
+AGEN,ikks,,unknown,IKKS WOMEN MEN AGEN
+PAU,ikks,,unknown,IKKS Women Men PAU
+MONT DE MARSAN,ikks,,unknown,XandO General Store MONT DE MARSAN
+BERGERAC,ikks,,unknown,XandO Women Men BERGERAC
+DAX,ikks,,unknown,XandO Women DAX
+LANGON,ikks,,unknown,LANGON MMXJ
+BAYONNE,ikks,,unknown,XandO JUNIOR BAYONNE
+ANGLET,ikks,,unknown,IKKS Women Men ANGLET
+BIARRITZ,ikks,,unknown,IKKS Women Men BIARRITZ
+SAINT JEAN DE LUZ,ikks,,unknown,IKKS Junior ST JEAN DE LUZ
+SOORTS HOSSEGOR,ikks,,unknown,ICODE SOORTS HOSSEGOR
+HOSSEGOR,ikks,,unknown,XandO Women HOSSEGOR
+CREON,ikks,,unknown,CREON MMXJ
+LIBOURNE,ikks,,unknown,XandO Women LIBOURNE
+BEGLES,ikks,,unknown,IKKS Women Men BEGLES
+BORDEAUX,ikks,,unknown,IKKS Women Men BORDEAUX LAC
+MERIGNAC,ikks,,unknown,IKKS Women MERIGNAC
+SAINT MEDARD EN JALLES,ikks,,unknown,XandO Women ST MEDARD EN JALLES
+LESPARRE,ikks,,unknown,LESPARRE MMXJ
+ARCACHON,ikks,,unknown,IKKS JUNIOR ARCACHON
+Departement des Landes,ionity,,unknown,Hastingues Sud
+Departement de la Gironde,ionity,,unknown,Bedenac Ouest
+Departement du Lot-et-Garonne,ionity,,unknown,Mas-d’Agenais
+Departement des Pyrenees-Atlantiques,ionity,,unknown,Lacq Audéjos Nord
+Departement de la Dordogne,ionity,,unknown,Périgueux Sud
+Departement de la Dordogne,pokawa,E.Leclerc Route de Bordeaux  Bergerac   24100,unknown,Pokawa Bergerac
+Departement de la Gironde,pokawa,Rue des Fonderies  Biganos   33380,unknown,Pokawa Biganos Facture
+Departement de la Gironde,pokawa,117 bis Cours Victor Hugo  Bordeaux   33000,unknown,Pokawa Bordeaux Victor Hugo
+Departement de la Gironde,pokawa,Centre E. Leclerc - 473 Rte de Pauillac   Le Pian Médoc 33290,unknown,Pokawa Le Pian Médoc
+Bayonne,starbucks_eu,Avenue Leon laporte 64600 Bayonne,unknown,CC Bayonne BAB2
+Merignac,starbucks_eu,Avenue Rene Gassin 33700 Merignac,unknown,Bordeaux- Airport Hall A (landside)
+Merignac,starbucks_eu,Aeroport de Bordeaux Merignac Avenue 33700 Merignac,unknown,Bordeaux - Airport T. Billi
+Talence,starbucks_eu,289 cours de la liberation 33400 Talence,unknown,Talence Cr Liberation
+Bordeaux,starbucks_eu,57 rue du chateau d eau 33000 Bordeaux,unknown,Bordeaux CC Meriadeck
+Bordeaux,starbucks_eu,41 Rue Chateau deau 33000 Bordeaux,unknown,La Poste - Bordeaux
+Bordeaux,starbucks_eu,1 avenue des 40 journaux 33300 Bordeaux,unknown,CC Bordeaux Lac
+Bordeaux,starbucks_eu,Quai des Marques 33000 Bordeaux,unknown,Quai Des Marques
+Bordeaux,starbucks_eu,9 Rue Margaux 33000 Bordeaux,unknown,CC Ste Catherine - Bordeaux
+Bordeaux,starbucks_eu,140 Cours Victor Hugo 33000 Bordeaux,unknown,Bordeaux Victor Hugo 140
+Bordeaux,starbucks_eu,Parvis Louis Armand 33800 Bordeaux,unknown,Bordeaux Station
+Begles,starbucks_eu,Center Commercial Rives d Arcins 33324 Begles,unknown,CC Rives d'Arins
+Pau,starbucks_eu,24 rue marechal foch 64000 Pau,unknown,Pau Foch
+Departement de la Gironde,tier,,unknown,Tier
+Bordeaux,travelex,Gare de Bordeaux Saint Jean Parvis Louis Armand Rue Charles domercq Bordeaux 33800,unknown,Bordeaux Gare De Saint Jean
+BOULIAC,visa,,unknown,unknown
+BORDEAUX,visa,,unknown,unknown
+MARSAC-SUR-L'ISLE,visa,,unknown,unknown
+Agen,western_union,,unknown,CYBER AMAL
+Bordeaux,western_union,,unknown,COPIE CANDALE

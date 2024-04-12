@@ -1,0 +1,113 @@
+State,Place Name,City,Establishments
+CA,benihana, Ontario,1
+CA,benihana, Newport Beach,1
+UNKNOWN,ernst_young,Kabul,1
+UNKNOWN,ford,Kabul,1
+UNKNOWN,ford,ك ابُل,1
+WA,little_free_library,Anacortes,1
+WA,little_free_library,Battle Ground,1
+UNKNOWN,moneygram,KABUL,56
+UNKNOWN,moneygram,KANDAHAR,7
+UNKNOWN,moneygram,HERAT,5
+UNKNOWN,moneygram,MAZAR,4
+UNKNOWN,moneygram,JALALABAD,4
+UNKNOWN,moneygram,KUNDUZ,2
+UNKNOWN,moneygram,HELMAND,2
+UNKNOWN,moneygram,GHAZNI,3
+UNKNOWN,moneygram,PARWAN,2
+UNKNOWN,moneygram,NANGARHAR,3
+UNKNOWN,moneygram,KHOST,4
+UNKNOWN,moneygram,ZARANG,1
+UNKNOWN,moneygram,BAGHLAN,7
+UNKNOWN,moneygram,BALKH,4
+UNKNOWN,moneygram,BADAKHSHAN,2
+UNKNOWN,moneygram,BAMYAN,3
+UNKNOWN,moneygram,JAWZJAN,3
+UNKNOWN,moneygram,KUNAR,2
+UNKNOWN,moneygram,KUNDOZ,3
+UNKNOWN,moneygram,LAGHMAN,3
+UNKNOWN,moneygram,NIMRUZ,1
+UNKNOWN,moneygram,FARYAB,3
+UNKNOWN,moneygram,PAKTIA,1
+UNKNOWN,moneygram,PAKTIKA,1
+UNKNOWN,moneygram,SAMANGAN,3
+UNKNOWN,moneygram,TAKHAR,4
+UNKNOWN,moneygram,FARAH,3
+UNKNOWN,moneygram,KHUST,1
+UNKNOWN,moneygram,SARI PULL,1
+UNKNOWN,moneygram,JUZJWAN,1
+UNKNOWN,moneygram,LOGAR,1
+UNKNOWN,moneygram,KAPISA,4
+UNKNOWN,moneygram,ZABUL,2
+UNKNOWN,moneygram,GHOR,3
+UNKNOWN,moneygram,WARDAK,1
+UNKNOWN,moneygram,DAIKANDI,1
+UNKNOWN,moneygram,BADGHIS,1
+UNKNOWN,moneygram,NIMROZ,1
+UNKNOWN,moneygram,PANJSHIR,1
+UNKNOWN,moneygram,SAREPULL,1
+UNKNOWN,visa,HERAT,3
+UNKNOWN,visa,KABUL,36
+UNKNOWN,visa,KANDAHAR,3
+UNKNOWN,visa,MAZAR,2
+UNKNOWN,visa,PARWAN,2
+UNKNOWN,visa,JALAABAD,1
+FARAH,western_union,Farah,2
+FARAH,western_union,Maymana,1
+HERAT,western_union,Herat,10
+NIMRUZ,western_union,Zaranj,2
+SAMANGAN,western_union,Samangan,4
+SAMANGAN,western_union,Haibak,1
+SAMANGAN,western_union,Aybak,1
+BALKH,western_union,Mazar E Sharif,7
+BALKH,western_union,Balkh,2
+BALKH,western_union,Mazar,2
+BADAKHSHAN,western_union,Baharak,1
+KANDAHAR,western_union,Kandahar,6
+ZABUL,western_union,Qalat,1
+UROZGAN,western_union,Urozgan,1
+ZABUL,western_union,Zabul,1
+GHOR,western_union,Chaghcharan,2
+PAKTIA,western_union,Paktia,2
+PAKTIA,western_union,Gardez,2
+LAGHMAN,western_union,Mihtarlam,2
+LAGHMAN,western_union,Laghman,2
+BADAKHSHAN,western_union,Keshm,1
+KABUL,western_union,Surobi,1
+LOGAR,western_union,Logar,2
+LOGAR,western_union,Pol E Alam,2
+DAYKUNDI,western_union,Daykundi,1
+GHAZNI,western_union,Herat,1
+GHAZNI,western_union,Ghazni,3
+BADAKHSHAN,western_union,Faizabad,2
+BADAKHSHAN,western_union,Badakhshan,2
+FARYAB,western_union,Andkhoy,1
+KABUL,western_union,Kabul,111
+KABUL,western_union,Karte Seh,1
+FARYAB,western_union,Faryab,3
+FARYAB,western_union,Maymana,2
+FARYAB,western_union,Maimana,1
+KAPISA,western_union,Mahmude Raqi,2
+TAKHAR,western_union,Takhar,2
+TAKHAR,western_union,Taleqan,5
+JOWZJAN,western_union,Sheberghan,2
+JOWZJAN,western_union,Jowzjan,4
+KUNDUZ,western_union,Kunduz,9
+PARWAN,western_union,Parwan,1
+BAMYAN,western_union,Panjab,1
+PARWAN,western_union,Charikar,4
+WARDAK,western_union,Maidan Shahr,1
+WARDAK,western_union,Wardak,1
+BAGHLAN,western_union,Puli Khumri,6
+BAGHLAN,western_union,Pule Khumri,1
+BAGHLAN,western_union,Baghlan,1
+BAGHLAN,western_union,Doshi,1
+BAMYAN,western_union,Bamyan,4
+JOWZJAN,western_union,Aqcha,2
+BALKH,western_union,Hairatan,3
+SAREPOL,western_union,Sar-e Pol,1
+SAREPOL,western_union,Sar E Pol,1
+SAREPOL,western_union,Sarepol,1
+BADAKHSHAN,western_union,Ishkashim,1
+BADAKHSHAN,western_union,Darwaz,1
+BADAKHSHAN,western_union,Shughnan,1

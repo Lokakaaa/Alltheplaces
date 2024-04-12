@@ -1,0 +1,382 @@
+City,Place Name,Zipcode,Name
+Maringá,audi,Rua Gaspar Ricardo 189 87040-365 Maringá,unknown,AC Maringá
+Londrina,audi,Avenida Tirarentes 5620 86072-000 Londrina,unknown,AC Londrina
+Curitiba,audi,Rua Padre Germano Mayer 1629 80040170 Curitiba,unknown,AC Alto da XV
+Curitiba,audi,Rua General Mário Tourinho 1082 80740-000 Curitiba,unknown,AC Curitiba
+Cascavel,audi,Av. Brasil 1869 85816-290 Cascavel,unknown,AC Cascavel
+Curitiba,ernst_young,Condomínio Centro Século XXI Rua Visconde de Nacar 1440 - 14º andar Centro,unknown,EY
+Curitiba,petland_us,Av. Victor Ferreira do Amaral 2633,unknown,Jockey Plaza
+Curitiba,petland_us,655 Rocha Pombo Street,unknown,Juveve
+Curitiba,petland_us,603 Comedador Araujo Street,unknown,Batel
+Curitiba,petland_us,2184 Avenida Silva Jardim,unknown,Agua Verde
+Curitiba,petland_us,1276 Rua Padre Anchieta-Champagnat,unknown,Champagnat
+Curitiba,petland_us,,unknown,Curitiba
+Londrina,petland_us,,unknown,Londrina
+GUARAQUECABA,visa,,unknown,unknown
+PONTAL DO PARANA,visa,,unknown,unknown
+PARANAGUA,visa,,unknown,unknown
+MATINHOS,visa,,unknown,unknown
+ANTONINA,visa,,unknown,unknown
+GUARATUBA,visa,,unknown,unknown
+MORRETES,visa,,unknown,unknown
+RIBEIRAO CLARO,visa,,unknown,unknown
+TUNAS DO PARANA,visa,,unknown,unknown
+CARLOPOLIS,visa,,unknown,unknown
+SENGES,visa,,unknown,unknown
+SANTANA DO ITARARE,visa,,unknown,unknown
+CAMPINA GRANDE DO SUL,visa,,unknown,unknown
+CERRO AZUL,visa,,unknown,unknown
+BOCAIUVA DO SUL,visa,,unknown,unknown
+QUATRO BARRAS,visa,,unknown,unknown
+SAO JOSE DA BOA VISTA,visa,,unknown,unknown
+PIRAQUARA,visa,,unknown,unknown
+JACAREZINHO,visa,,unknown,unknown
+COLOMBO,visa,,unknown,unknown
+SIQUEIRA CAMPOS,visa,,unknown,unknown
+CAMBARA,visa,,unknown,unknown
+JOAQUIM TAVORA,visa,,unknown,unknown
+PINHAIS,visa,,unknown,unknown
+QUATIGUA,visa,,unknown,unknown
+CURITIBA,visa,,unknown,unknown
+WENCESLAU BRAZ,visa,,unknown,unknown
+SAO JOSE DOS PINHAIS,visa,,unknown,unknown
+RIO BRANCO DO SUL,visa,,unknown,unknown
+JAGUARIAIVA,visa,,unknown,unknown
+ALMIRANTE TAMANDARE,visa,,unknown,unknown
+SANTO ANTONIO DA PLATINA,visa,,unknown,unknown
+ITAPERUCU,visa,,unknown,unknown
+MARUMBI,visa,,unknown,unknown
+IVATUBA,visa,,unknown,unknown
+GUAPIRAMA,visa,,unknown,unknown
+ARAPOTI,visa,,unknown,unknown
+ANDIRA,visa,,unknown,unknown
+TIJUCAS DO SUL,visa,,unknown,unknown
+FAZENDA RIO GRANDE,visa,,unknown,unknown
+CAMPO MAGRO,visa,,unknown,unknown
+JABOTI,visa,,unknown,unknown
+ARAUCARIA,visa,,unknown,unknown
+MANDIRITUBA,visa,,unknown,unknown
+CONSELHEIRO MAIRINCK,visa,,unknown,unknown
+ITAMBARACA,visa,,unknown,unknown
+BANDEIRANTES,visa,,unknown,unknown
+CAMPO LARGO,visa,,unknown,unknown
+IBAITI,visa,,unknown,unknown
+RIBEIRAO DO PINHAL,visa,,unknown,unknown
+PIRAI DO SUL,visa,,unknown,unknown
+SANTA AMELIA,visa,,unknown,unknown
+CONTENDA,visa,,unknown,unknown
+SANTA MARIANA,visa,,unknown,unknown
+QUITANDINHA,visa,,unknown,unknown
+BALSA NOVA,visa,,unknown,unknown
+PIEN,visa,,unknown,unknown
+CASTRO,visa,,unknown,unknown
+VENTANIA,visa,,unknown,unknown
+FIGUEIRA,visa,,unknown,unknown
+CORNELIO PROCOPIO,visa,,unknown,unknown
+CONGONHINHAS,visa,,unknown,unknown
+LAPA,visa,,unknown,unknown
+CURIUVA,visa,,unknown,unknown
+CARAMBEI,visa,,unknown,unknown
+URAI,visa,,unknown,unknown
+PALMEIRA,visa,,unknown,unknown
+PONTA GROSSA,visa,,unknown,unknown
+SAO SEBASTIAO DA AMOREIRA,visa,,unknown,unknown
+TIBAGI,visa,,unknown,unknown
+RIO NEGRO,visa,,unknown,unknown
+ASSAI,visa,,unknown,unknown
+PRIMEIRO DE MAIO,visa,,unknown,unknown
+SAO JERONIMO DA SERRA,visa,,unknown,unknown
+SERTANOPOLIS,visa,,unknown,unknown
+JATAIZINHO,visa,,unknown,unknown
+TELEMACO BORBA,visa,,unknown,unknown
+IBIPORA,visa,,unknown,unknown
+BELA VISTA DO PARAISO,visa,,unknown,unknown
+LONDRINA,visa,,unknown,unknown
+IMBAU,visa,,unknown,unknown
+TEIXEIRA SOARES,visa,,unknown,unknown
+SAO JOAO DO TRIUNFO,visa,,unknown,unknown
+PORECATU,visa,,unknown,unknown
+ANTONIO OLINTO,visa,,unknown,unknown
+ORTIGUEIRA,visa,,unknown,unknown
+CAMBE,visa,,unknown,unknown
+IMBITUVA,visa,,unknown,unknown
+FERNANDES PINHEIRO,visa,,unknown,unknown
+RESERVA,visa,,unknown,unknown
+SAO MATEUS DO SUL,visa,,unknown,unknown
+ROLANDIA,visa,,unknown,unknown
+IRATI,visa,,unknown,unknown
+MAUA DA SERRA,visa,,unknown,unknown
+MARILANDIA DO SUL,visa,,unknown,unknown
+JAGUAPITA,visa,,unknown,unknown
+ARAPONGAS,visa,,unknown,unknown
+IVAI,visa,,unknown,unknown
+CALIFORNIA,visa,,unknown,unknown
+GUARACI,visa,,unknown,unknown
+APUCARANA,visa,,unknown,unknown
+FAXINAL,visa,,unknown,unknown
+ROSARIO DO IVAI,visa,,unknown,unknown
+SANTO INACIO,visa,,unknown,unknown
+ASTORGA,visa,,unknown,unknown
+CRUZMALTINA,visa,,unknown,unknown
+SANTA FE,visa,,unknown,unknown
+JANDAIA DO SUL,visa,,unknown,unknown
+MANDAGUARI,visa,,unknown,unknown
+CANDIDO DE ABREU,visa,,unknown,unknown
+PRUDENTOPOLIS,visa,,unknown,unknown
+BORRAZOPOLIS,visa,,unknown,unknown
+COLORADO,visa,,unknown,unknown
+KALORE,visa,,unknown,unknown
+MARIALVA,visa,,unknown,unknown
+ANGULO,visa,,unknown,unknown
+BOM SUCESSO,visa,,unknown,unknown
+SARANDI,visa,,unknown,unknown
+MARINGA,visa,,unknown,unknown
+XAMBRE,visa,,unknown,unknown
+IVAIPORA,visa,,unknown,unknown
+JARDIM ALEGRE,visa,,unknown,unknown
+ATALAIA,visa,,unknown,unknown
+LUNARDELLI,visa,,unknown,unknown
+INAJA,visa,,unknown,unknown
+PARANACITY,visa,,unknown,unknown
+SAO PEDRO DO IVAI,visa,,unknown,unknown
+SAO JOAO DO IVAI,visa,,unknown,unknown
+BOA VENTURA DE SAO ROQUE,visa,,unknown,unknown
+MANOEL RIBAS,visa,,unknown,unknown
+PAICANDU,visa,,unknown,unknown
+MANDAGUACU,visa,,unknown,unknown
+ITAMBE,visa,,unknown,unknown
+NOSSA SENHORA DAS GRACAS,visa,,unknown,unknown
+ARAPUA,visa,,unknown,unknown
+TURVO,visa,,unknown,unknown
+UNIAO DA VITORIA,visa,,unknown,unknown
+SANTO ANTONIO DO CAIUA,visa,,unknown,unknown
+NOVA ESPERANCA,visa,,unknown,unknown
+SAO JOAO DO CAIUA,visa,,unknown,unknown
+GUARAPUAVA,visa,,unknown,unknown
+ALTO PARANA,visa,,unknown,unknown
+PITANGA,visa,,unknown,unknown
+DOUTOR CAMARGO,visa,,unknown,unknown
+FLORAI,visa,,unknown,unknown
+CRUZ MACHADO,visa,,unknown,unknown
+NOVA TEBAS,visa,,unknown,unknown
+SAO JORGE DO IVAI,visa,,unknown,unknown
+PARANAVAI,visa,,unknown,unknown
+ENGENHEIRO BELTRAO,visa,,unknown,unknown
+TERRA RICA,visa,,unknown,unknown
+GENERAL CARNEIRO,visa,,unknown,unknown
+TAMBOARA,visa,,unknown,unknown
+PINHAO,visa,,unknown,unknown
+PEABIRU,visa,,unknown,unknown
+JUSSARA,visa,,unknown,unknown
+BITURUNA,visa,,unknown,unknown
+PARAISO DO NORTE,visa,,unknown,unknown
+TERRA BOA,visa,,unknown,unknown
+JAPURA,visa,,unknown,unknown
+GUAIRACA,visa,,unknown,unknown
+CAMPO MOURAO,visa,,unknown,unknown
+GOIOXIM,visa,,unknown,unknown
+DIAMANTE DO NORTE,visa,,unknown,unknown
+ITAUNA DO SUL,visa,,unknown,unknown
+ARARUNA,visa,,unknown,unknown
+CIANORTE,visa,,unknown,unknown
+INDIANOPOLIS,visa,,unknown,unknown
+PALMITAL,visa,,unknown,unknown
+NOVA LONDRINA,visa,,unknown,unknown
+CANTAGALO,visa,,unknown,unknown
+CANDOI,visa,,unknown,unknown
+MARILENA,visa,,unknown,unknown
+MAMBORE,visa,,unknown,unknown
+CIDADE GAUCHA,visa,,unknown,unknown
+TAPEJARA,visa,,unknown,unknown
+LOANDA,visa,,unknown,unknown
+SANTA MONICA,visa,,unknown,unknown
+SANTA ISABEL DO IVAI,visa,,unknown,unknown
+MANGUEIRINHA,visa,,unknown,unknown
+PALMAS,visa,,unknown,unknown
+LARANJEIRAS DO SUL,visa,,unknown,unknown
+SANTA CRUZ DE MONTE CASTELO,visa,,unknown,unknown
+ALTAMIRA DO PARANA,visa,,unknown,unknown
+CRUZEIRO DO OESTE,visa,,unknown,unknown
+CAMPINA DA LAGOA,visa,,unknown,unknown
+MOREIRA SALES,visa,,unknown,unknown
+RIO BONITO DO IGUACU,visa,,unknown,unknown
+GOIOERE,visa,,unknown,unknown
+DOURADINA,visa,,unknown,unknown
+QUARTO CENTENARIO,visa,,unknown,unknown
+UBIRATA,visa,,unknown,unknown
+IVATE,visa,,unknown,unknown
+CHOPINZINHO,visa,,unknown,unknown
+QUERENCIA DO NORTE,visa,,unknown,unknown
+CLEVELANDIA,visa,,unknown,unknown
+UMUARAMA,visa,,unknown,unknown
+GUARANIACU,visa,,unknown,unknown
+CORONEL VIVIDA,visa,,unknown,unknown
+QUEDAS DO IGUACU,visa,,unknown,unknown
+ICARAIMA,visa,,unknown,unknown
+NOVA AURORA,visa,,unknown,unknown
+ALTO PIQUIRI,visa,,unknown,unknown
+PATO BRANCO,visa,,unknown,unknown
+ITAPEJARA D'OESTE,visa,,unknown,unknown
+CAFELANDIA,visa,,unknown,unknown
+CORBELIA,visa,,unknown,unknown
+ALTO PARAISO,visa,,unknown,unknown
+VITORINO,visa,,unknown,unknown
+BRASILANDIA DO SUL,visa,,unknown,unknown
+CAFEZAL DO SUL,visa,,unknown,unknown
+PEROLA,visa,,unknown,unknown
+ASSIS CHATEAUBRIAND,visa,,unknown,unknown
+DOIS VIZINHOS,visa,,unknown,unknown
+TRES BARRAS DO PARANA,visa,,unknown,unknown
+CRUZEIRO DO IGUACU,visa,,unknown,unknown
+IPORA,visa,,unknown,unknown
+CASCAVEL,visa,,unknown,unknown
+MARMELEIRO,visa,,unknown,unknown
+FRANCISCO BELTRAO,visa,,unknown,unknown
+ALTONIA,visa,,unknown,unknown
+FRANCISCO ALVES,visa,,unknown,unknown
+NOVA PRATA DO IGUACU,visa,,unknown,unknown
+NOVA ESPERANCA DO SUDOESTE,visa,,unknown,unknown
+SALTO DO LONTRA,visa,,unknown,unknown
+PALOTINA,visa,,unknown,unknown
+SANTA TEREZA DO OESTE,visa,,unknown,unknown
+TOLEDO,visa,,unknown,unknown
+SANTA IZABEL DO OESTE,visa,,unknown,unknown
+CAPITAO LEONIDAS MARQUES,visa,,unknown,unknown
+NOVA SANTA ROSA,visa,,unknown,unknown
+AMPERE,visa,,unknown,unknown
+REALEZA,visa,,unknown,unknown
+TERRA ROXA,visa,,unknown,unknown
+OURO VERDE DO OESTE,visa,,unknown,unknown
+CEU AZUL,visa,,unknown,unknown
+MARECHAL CANDIDO RONDON,visa,,unknown,unknown
+GUAIRA,visa,,unknown,unknown
+CAPANEMA,visa,,unknown,unknown
+MATELANDIA,visa,,unknown,unknown
+SANTO ANTONIO DO SUDOESTE,visa,,unknown,unknown
+PATO BRAGADO,visa,,unknown,unknown
+MEDIANEIRA,visa,,unknown,unknown
+MISSAL,visa,,unknown,unknown
+SANTA HELENA,visa,,unknown,unknown
+SAO MIGUEL DO IGUACU,visa,,unknown,unknown
+SANTA TEREZINHA DE ITAIPU,visa,,unknown,unknown
+FOZ DO IGUACU,visa,,unknown,unknown
+Palmas,western_union,,unknown,LOJAS MM 243 PALMAS
+Gal Carneiro,western_union,,unknown,LOJAS MM 73 GAL CARNEIRO
+Bituruna,western_union,,unknown,LOJAS MM 72 BITURUNA
+Clevelandia,western_union,,unknown,LOJAS MM 238 CLEVELANDIA
+Uniao Da Vitoria,western_union,,unknown,LOJAS MM 108 UNIAO DA VITORIA
+Cruz Machado,western_union,,unknown,LOJAS MM 85 CRUZ MACHADO
+Jandaia Do Sul,western_union,,unknown,LOJAS MM 168 JANDAIA DO SUL
+Cambara,western_union,,unknown,LOJAS MM 139 CAMBARA
+Douradina,western_union,,unknown,GAZIN 002 DOURADINA PR
+Jacarezinho,western_union,,unknown,LOJAS MM 242 JACAREZINHO
+Sto Antonio Da Platina,western_union,,unknown,LOJAS MM 6 STO ANTONIO DA PLATINA
+Londrina,western_union,,unknown,LOJA WU LONDRINA
+Sarandi,western_union,,unknown,LOJAS MM 10 SARANDI
+Paicandu,western_union,,unknown,LOJAS MM 155 PAICANDU
+Arapongas,western_union,,unknown,LOJAS MM 113 ARAPONGAS
+Marialva,western_union,,unknown,LOJAS MM 240 MARIALVA
+Bandeirantes,western_union,,unknown,LOJAS MM 133 BANDEIRANTES
+Mandaguari,western_union,,unknown,LOJAS MM 193 MANDAGUARI
+Andira,western_union,,unknown,LOJAS MM 170 ANDIRA
+Apucarana,western_union,,unknown,LOJAS MM 26 APUCARANA
+Jaguariaiva,western_union,,unknown,LOJAS MM 19 JAGUARIAIVA
+Mal Candido Rondon,western_union,,unknown,LOJAS MM 67 MAL CANDIDO RONDON
+Arapoti,western_union,,unknown,LOJAS MM 63 ARAPOTI
+Paranagua,western_union,,unknown,LOJAS MM 33 PARANAGUA II
+Pontal Do Parana,western_union,,unknown,LOJAS MM 84 PONTAL DO PARANA
+Curitiba,western_union,,unknown,DAYCAMBIO JOCKEY PLAZA SHOPPING
+Wenceslau Braz,western_union,,unknown,LOJAS MM 187 WENCESLAU BRAZ
+Siqueira Campos,western_union,,unknown,LOJAS MM 65 SIQUEIRA CAMPOS
+Fazenda Rio Grande,western_union,,unknown,LOJAS MM 64 FAZENDA RIO GRANDE II
+Antonina,western_union,,unknown,LOJAS MM 215 ANTONINA
+Matinhos,western_union,,unknown,LOJAS MM 115 MATINHOS
+Curiuva,western_union,,unknown,LOJAS MM 45 CURIUVA
+Foz Do Iguacu,western_union,,unknown,APICE CAMBIOS E TURISMO - PETROPOLIS
+Assis Chateaubriand,western_union,,unknown,LOJAS MM 23 ASSIS CHATEAUBRIAND
+Maua Da Serra,western_union,,unknown,LOJAS MM 36 MAUA DA SERRA
+Faxinal,western_union,,unknown,LOJAS MM 42 FAXINAL
+Campo Mourao,western_union,,unknown,LOJAS MM 20 CAMPO MOURAO
+Peabiru,western_union,,unknown,LOJAS MM 176 PEABIRU
+Campina Grande Do Sul,western_union,,unknown,LOJAS MM 31 CAMPINA GRANDE DO SUL
+Sao Miguel Do Iguacu,western_union,,unknown,LOJAS MM 27 SAO MIGUEL DO IGUACU
+Pirai Do Sul,western_union,,unknown,LOJAS MM 32 PIRAI DO SUL
+Toledo,western_union,,unknown,LOJAS MM 55 TOLEDO
+Guaratuba,western_union,,unknown,LOJAS MM 48 GUARATUBA
+Santa Terezinha De Itaipu,western_union,,unknown,LOJAS MM 161 STA TEREZINHA DO ITAIPU
+Ventania,western_union,,unknown,LOJAS MM 185 VENTANIA
+Goioere,western_union,,unknown,LOJAS MM 254 GOIOERE
+Sao Jose Dos Pinhais,western_union,,unknown,LOJAS MM 91 SAO JOSE DOS PINHAIS
+Ortigueira,western_union,,unknown,LOJAS MM 54 ORTIGUEIRA
+Rio Branco Do Sul,western_union,,unknown,LOJAS MM 137 RIO BRANCO DO SUL
+Colombo,western_union,,unknown,LOJAS MM 210 COLOMBO
+Piraquara,western_union,,unknown,LOJAS MM 38 PIRAQUARA
+Ivaipora,western_union,,unknown,LOJAS MM 74 IVAIPORA
+Tibagi,western_union,,unknown,LOJAS MM 17 TIBAGI
+Ubirata,western_union,,unknown,LOJAS MM 144 UBIRATA
+Ceu Azul,western_union,,unknown,LOJAS MM 247 CEU AZUL
+Araucaria,western_union,,unknown,LOJAS MM 111 ARAUCARIA II
+Cascavel,western_union,,unknown,LOJA WU PR CASCAVEL
+Ponta Grossa,western_union,,unknown,LOJAS MM 214 TOZETTO III BOA VISTA
+Capitao Leonidas Marques,western_union,,unknown,LOJAS MM 263 CAPITAO LEONIDAS MARQUES
+Candido De Abreu,western_union,,unknown,LOJAS MM 89 CANDIDO DE ABREU
+Imbau,western_union,,unknown,LOJAS MM 61 IMBAU
+Santa Tereza Do Oeste,western_union,,unknown,LOJAS MM 217 SANTA TEREZA DO OESTE
+Castro,western_union,,unknown,LOJAS MM 30 CASTRO II
+Imbituva,western_union,,unknown,LOJAS MM 44 IMBITUVA
+Ampere,western_union,,unknown,LOJAS MM 149 AMPERE
+Santa Maria Do Oeste,western_union,,unknown,LOJAS MM 180 SANTA MARIA DO OESTE
+Ivai,western_union,,unknown,LOJAS MM 4 IVAI
+Palmital,western_union,,unknown,LOJAS MM 179 PALMITAL
+Realeza,western_union,,unknown,LOJAS MM 252 REALEZA
+Santo Antonio Do Sudoeste,western_union,,unknown,LOJAS MM 244 SANTO ANTONIO DO SUDOESTE
+Guaraniacu,western_union,,unknown,LOJAS MM 57 GUARANIACU
+Ipiranga,western_union,,unknown,LOJAS MM 70 IPIRANGA
+Pitanga,western_union,,unknown,LOJAS MM 9 PITANGA
+Palmeira,western_union,,unknown,LOJAS MM 35 PALMEIRA
+Lapa,western_union,,unknown,LOJAS MM 22 LAPA
+Catanduvas,western_union,,unknown,LOJAS MM 207 CATANDUVAS
+Reserva,western_union,,unknown,LOJAS MM - 5 RESERVA
+Manoel Ribas,western_union,,unknown,LOJAS MM 81 MANOEL RIBAS
+Carambei,western_union,,unknown,LOJAS MM 14 CARAMBEI
+Campo Largo,western_union,,unknown,LOJAS MM 29 CAMPO LARGO
+Itapejara D Oeste,western_union,,unknown,LOJAS MM 265 ITAPEJARA D OESTE
+Inacio Martins,western_union,,unknown,LOJAS MM 16 INACIO MARTINS
+Rio Azul,western_union,,unknown,LOJAS MM 96 RIO AZUL
+Guarapuava,western_union,,unknown,LOJAS MM 203 GUARAPUAVA COLONIA VITORIA
+Francisco Beltrao,western_union,,unknown,LOJAS MM 21 FRANCISCO BELTRAO
+Reboucas,western_union,,unknown,LOJAS MM 69 REBOUCAS
+Cantagalo,western_union,,unknown,LOJAS MM 211 CANTAGALO
+Sao Mateus Do Sul,western_union,,unknown,LOJAS MM 18 SAO MATEUS DO SUL
+Laranjeiras Do Sul,western_union,,unknown,LOJAS MM 56 LARANJEIRAS DO SUL
+Irati,western_union,,unknown,LOJAS MM 47 IRATI II
+Mangueirinha,western_union,,unknown,LOJAS MM 246 MANGUEIRINHA
+Pato Branco,western_union,,unknown,PARCIANELLO TROJAN LTDA
+Pinhao,western_union,,unknown,LOJAS MM - 71 PINHAO
+Coronel Vivida,western_union,,unknown,LOJAS MM 260 CORONEL VIVIDA
+Mallet,western_union,,unknown,LOJAS MM 15 MALLET
+Chopinzinho,western_union,,unknown,LOJAS MM 248 CHOPINZINHO
+Candoi,western_union,,unknown,LOJAS MM 95 CANDOI
+Pinhais,western_union,,unknown,LOJAS MM   88 PINHAIS II
+Itaperucu,western_union,,unknown,LOJAS MM 221 ITAPERUCU
+Telemaco Borba,western_union,,unknown,LOJAS MM 8 TELEMACO BORBA
+Medianeira,western_union,,unknown,LOJAS MM 173 MEDIANEIRA
+Dois Vizinhos,western_union,,unknown,LOJAS MM 112 DOIS VIZINHOS
+Sao Joao Do Triunfo,western_union,,unknown,LOJAS MM 77 SAO JOAO DO TRIUNFO
+Prudentopolis,western_union,,unknown,LOJAS MM 7 PRUDENTOPOLIS
+Quedas Do Iguacu,western_union,,unknown,LOJAS MM 90 QUEDAS DO IGUACU
+Turvo,western_union,,unknown,LOJAS MM 98 TURVO
+Teixeira Soares,western_union,,unknown,LOJAS MM 59 TEXEIRA SOARES
+Rio Negro,western_union,,unknown,LOJAS MM 194 RIO NEGRO
+Senges,western_union,,unknown,LOJAS MM 97 SENGES
+Ibipora,western_union,,unknown,LOJAS MM 224 IBIPORA
+Maringa,western_union,,unknown,AGK MARINGA CENTRO
+Porecatu,western_union,,unknown,LOJAS MM 178 PORECATU
+Colorado,western_union,,unknown,LOJAS MM 253 COLORADO
+Santa Fe,western_union,,unknown,LOJAS MM 227 SANTA FE
+Mandaguacu,western_union,,unknown,LOJAS MM 236 MANDAGUACU
+Cambe,western_union,,unknown,LOJAS MM 79 CAMBE
+Rolandia,western_union,,unknown,LOJAS MM 138 ROLANDIA
+Astorga,western_union,,unknown,LOJAS MM 136 ASTORGA
+Palotina,western_union,,unknown,LOJAS MM 219 PALOTINA
+Guaira,western_union,,unknown,LOJAS MM 251 GUAIRA

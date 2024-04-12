@@ -1,0 +1,564 @@
+City,Place Name,Zipcode,Name
+unknown,accor,Av. Américo Vespucio Norte 1630 Vitacura 7630340 SANTIAGO,unknown,Novotel Santiago Vitacura
+unknown,accor,Av San Andres 37 Lomas de San Andrees 4090205 CONCEPCION,unknown,ibis Concepcion
+unknown,accor,Av Jose Miguel Carrera 1627 1240000 ANTOFAGASTA,unknown,ibis Antofagasta
+unknown,accor,Avenida Diego Portales 1001 Puerto Montt 5480000 PUERTO MONTT,unknown,ibis Puerto Montt
+unknown,accor,Av Lib Ber O Higgins  3780 Comuna Estacion Central 0 SANTIAGO,unknown,ibis Santiago Estacion Central
+unknown,accor,Avenida Providencia 1187 7500585 SANTIAGO,unknown,ibis Santiago Providencia
+unknown,accor,Calle O Connell 165 Comuna Las Condes 7550000 SANTIAGO,unknown,ibis Santiago Las Condes Manquehue
+unknown,accor,Av Errazuriz 811 2340000 VALPARAISO,unknown,ibis Valparaiso
+unknown,accor,Colipi 610 1530000 COPIAPO,unknown,ibis Copiapo
+unknown,accor,Avda Lib Bernardo O'Higgins632 Santiago Centro 8330066 SANTIAGO,unknown,Mercure Santiago Centro
+unknown,accor,Manuel Rodríguez 733 1530000 COPIAPO,unknown,ibis budget Copiapo
+unknown,accor,Calle 6 Norte 745 2520000 Viña del Mar,unknown,Novotel Viña del Mar
+unknown,accor,Calle Nueva 2 1857 Parque Poniente 1490000 CALAMA,unknown,ibis Calama
+unknown,accor,Patricio Lynch 1296 Region De Tarapaca 1101214 IQUIQUE,unknown,ibis budget Iquique
+unknown,accor,Av. José Santos Ossa 2002 1271680 Antofagasta,unknown,Ibis Styles Antofagasta
+unknown,accor,Orella 434 Region de Tarapaca 1101214 IQUIQUE,unknown,ibis Iquique
+unknown,accor,7500591 Santiago,unknown,Ibis budget Santiago Providencia
+unknown,accor,Avenida Holanda 222 Providencia 7510084 SANTIAGO,unknown,Novotel Santiago Providencia
+unknown,accor,Roger De Flor 2770 Las Condes 7550000 SANTIAGO,unknown,Pullman Santiago El Bosque
+unknown,accor,Av San martin 667 2520096 VIÑA DEL MAR,unknown,Pullman Viña del Mar San Martín (Ex Atton)
+unknown,accor,Cochrane Poniente 75 4030000 CONCEPCIÓN,unknown,Mercure Concepción
+unknown,accor,Av Alonso de Cordova 5199 Las Condes 7560873 SANTIAGO,unknown,Novotel Santiago Las Condes
+unknown,accor,Av Vitacura 3201 Vitacura 7630578 SANTIAGO,unknown,Pullman Santiago Vitacura
+unknown,accor,100000 ARICA,unknown,Novotel Arica
+unknown,accor,123245 Puerto Montt,unknown,Novotel Puerto Montt
+Santiago,adidas,,unknown,"adidas Outdoor/Terrex Santiago, Parque Arauco"
+Santiago,alamo,,unknown,Providencia Santiago
+Talca,alamo,,unknown,Talca
+unknown,alstom,Mariano Sánchez Fontecilla 310 - 9 piso - 7550296 Las Condes - Chile,unknown,Las Condes
+unknown,alstom,Calle Miraflores 101 - 2240000 Limache - Chile,unknown,Limache
+unknown,alstom,Av. Lo Ovalle 192 - San Miguel  - ZIP 8930605 - Chile,unknown,Lo Ovalle
+unknown,alstom,Avenida Dorsal 6252 - 8990924 Lo Prado - Chile,unknown,Lo Prado
+unknown,alstom,Calle La Balanza 1018 - 8181287 Puento Alto - Chile,unknown,Puente Alto
+unknown,alstom,Av. Centenario sin número Maestranza san Eugenio EFE Estación central - Chile,unknown,Taller Siglo XXI - Proyecto Rancagua Express
+Santiago,american_eagle_outfitters,,unknown,American Eagle Store Paris - Portal De Lahesa M
+Las Condes,american_eagle_outfitters,,unknown,American Eagle Store Paris - Alto Las Condes M
+Concepci&#243;n,ashley_furniture,,unknown,"Ashley Concepci&#243;n, CL"
+Viña del Mar,bmw_group,,unknown,Williamson Balfour Motors Viña del
+Antofagasta,deloitte,,unknown,Deloitte - Antofagasta
+Puerto Montt,deloitte,,unknown,Deloitte - Puerto Montt
+Concepción,deloitte,,unknown,Deloitte - Concepción
+Viña del Mar,deloitte,,unknown,Deloitte - Viña del Mar
+Santiago,deloitte,,unknown,Deloitte - Santiago
+Punta Arenas,enterprise,,unknown,Alamo Rent A Car
+Antofagasta,enterprise,,unknown,Alamo Rent A Car
+Calama,enterprise,,unknown,Alamo Rent A Car
+Puerto Montt,enterprise,,unknown,Alamo Rent A Car
+Santiago,enterprise,,unknown,Providencia Santiago
+Talca,enterprise,,unknown,Talca
+Concepción,ernst_young,Arturo Prat 199 Torre A piso 5to,unknown,EY
+Puerto Montt,ernst_young,Concepción N° 120 9° Floor. Oficina 906,unknown,EY
+Santiago,ernst_young,Presidente Riesco 5435 - 4° Floor Las Condes,unknown,EY
+Viña del Mar,ernst_young,Avenida Nueva Libertad 1405 20° Floor,unknown,EY
+Santiago,esprit,,unknown,Esprit Partnership Costanera Center
+Concepción,esprit,,unknown,Esprit Partnership Plaza Trebol
+Temuco,esprit,,unknown,Esprit Partnership Portal Temuco
+Vina del Mar,esprit,,unknown,Esprit Partnership Mall Plaza Renaca
+Maipu,esprit,,unknown,Esprit Partnership Arauco Maipu
+Antofagasta,esprit,,unknown,Esprit Partnership Plaza Antofagasta
+Rancagua,esprit,,unknown,Esprit Partnership Portal Rancagua
+R. Metropolitana,ford,,unknown,VALENZUELA & DELARZE
+XII Región,ford,,unknown,Southland
+IV Región,ford,,unknown,Callegari
+V Región,ford,,unknown,VALENZUELA & DELARZE
+VIII Región,ford,,unknown,Difor
+X Región,ford,,unknown,Difor
+II Región,ford,,unknown,Auto Summit
+VI  Región,ford,,unknown,Curifor
+VII Región,ford,,unknown,Curifor
+III Región,ford,,unknown,Callegari
+IX Región,ford,,unknown,Salazar Israel
+XI Región,ford,,unknown,OSCAR ROLF TRAEGER SCWARZ
+XIV Región,ford,,unknown,Difor
+unknown,gbfs,,unknown,N47 - Unimarc
+Santiago,hardrock,,unknown,Hard Rock Cafe Santiago
+unknown,hilton,Americo Vespucio Ave 1292 Pudahuel Santiago Chile,unknown,Hilton Garden Inn Santiago Airport
+unknown,hilton,Av. Arturo Prat 1660 Iquique Chile,unknown,Hilton Garden Inn Iquique
+unknown,hilton,Manquehue Norte 255 Santiago Chile,unknown,Hampton by Hilton Santiago Las Condes
+Santiago,hm,,unknown,H&M
+Concepción,hm,,unknown,Mall Plaza Trébol
+La Serena,hm,,unknown,Mall Plaza La Serena
+Talca,hm,,unknown,H&M
+Coquimbo,hm,,unknown,Vivo Coquimbo
+Antofagasta,hm,,unknown,Mall Plaza Antofagasta
+Temuco,hm,,unknown,Portal Temuco
+Viña del Mar,hm,,unknown,Marina Arauco
+Arica,hm,,unknown,H&M
+Curico,hm,,unknown,Mall Curicó
+Valdivia,hm,,unknown,Mall Paseo Valdivia
+Calama,hm,,unknown,H&M
+Las Condes - Santiago,ikea,,unknown,IKEA Plaza Oeste - Cerrillos
+Santiago,leonidas,,unknown,Leonidas
+PROVIDENCIA,leonidas,,unknown,LEONIDAS PROVIDENCIA
+Santiago,lhw,Merced 294 8320000 Santiago Chile,unknown,"The Singular Santiago, Lastarria Hotel"
+Puerto Natales,lhw,Km. 55 Puerto Bories 6160000 Puerto Natales Chile,unknown,"The Singular Patagonia, Puerto Bories Hotel"
+San Pedro De Atacama,lhw,3km/1.9mi From San Pedro De Atacama 1410000 Chile Suchor Ayllú de Quitor,unknown,Nayara Alto Atacama
+Easter Island,lhw,Av. Pont S/N Isla De Pascua Chile,unknown,Nayara Hangaroa
+Los Muermos,lhw,Hacienda Parga S/N Los Muermos Chile,unknown,Mari Mari Natural Reserve Experience
+Santiago,lhw,Jose Julio Nieto s/n Pirque,unknown,Hotel Las Majadas
+Concepcion,man_truck_and_bus,,unknown,EILERS Y COMPANIA LIMITADA
+Puerto Montt,man_truck_and_bus,,unknown,EILERS Y COMPANIA LIMITADA
+Quintero,man_truck_and_bus,,unknown,EILERS Y COMPANIA LIMITADA
+Santiago,man_truck_and_bus,,unknown,Zentrum Camiones Santiago Norte
+Valparaiso,man_truck_and_bus,,unknown,Zentrum Camiones Placilla
+Talca,man_truck_and_bus,,unknown,Zentrum Camiones Talca
+Copiapó,man_truck_and_bus,,unknown,Automotriz Carmona y Compañía 
+La Serena,man_truck_and_bus,,unknown,Automotriz Carmona y Compañía 
+Alto Hospicio,man_truck_and_bus,,unknown,Soluciones de Transporte Wintata
+Punta Arenas,man_truck_and_bus,,unknown,EILERS Y COMPANIA LIMITADA
+Antofagasta,man_truck_and_bus,,unknown,Auto Summit Antofagasta
+Calama,man_truck_and_bus,,unknown,Auto Summit Calama
+Santiago,marriott,,unknown,Sheraton Santiago Hotel and Convention Center
+Puerto Montt,marriott,,unknown,Courtyard Puerto Montt
+Los Angeles,marriott,,unknown,Four Points by Sheraton Los Angeles
+Santiago de Chile,marriott,,unknown,Le Méridien Santiago
+Viña del Mar,marriott,,unknown,Sheraton Miramar Hotel & Convention Center
+Pudahuel,marriott,,unknown,City Express by Marriott Santiago Aeropuerto Chile
+SANTIAGO,maserati,,unknown,ASTARA LUXURY SPA
+CALAMA,mcdonalds_latin_america,,unknown,CALAMA
+Arica,mcdonalds_latin_america,,unknown,ARICA
+Iquique,mcdonalds_latin_america,,unknown,Iquique/ Héroes
+Antofagasta ,mcdonalds_latin_america,,unknown,Antofagasta Mall La Portada 
+Antofagasta,mcdonalds_latin_america,,unknown,Antofagasta Playa 
+COPIAPO,mcdonalds_latin_america,,unknown,COPIAPO
+La Serena,mcdonalds_latin_america,,unknown,Mall Plaza la Serena
+Chile,mcdonalds_latin_america,,unknown,La Serena Balmaceda
+"Tierras Blancas, Coquimbo",mcdonalds_latin_america,,unknown,SERENA TIERRAS BLANCAS
+ELQUI,mcdonalds_latin_america,,unknown,LA CANTERA
+Coquimbo,mcdonalds_latin_america,,unknown,Mall Coquimbo
+OVALLE,mcdonalds_latin_america,,unknown,OVALLE
+Santiago,mcdonalds_latin_america,,unknown,BUIN
+SANTIAGO,mcdonalds_latin_america,,unknown,EYZAGUIRRE
+Pudahuel,mcdonalds_latin_america,,unknown,Aeropuerto Embarque Nacional
+Las Condes,mcdonalds_latin_america,,unknown,AEROPUERTO EMBARQUE INTERNACIONAL
+ Ciudad Santiago,mcdonalds_latin_america,,unknown,PAJARITOS/ Pdo.15 #2872 [PA2]
+unknown,mcdonalds_latin_america,,unknown,Shell Chillan Salida Norte
+Peñaflor,mcdonalds_latin_america,,unknown,PEÑAFLOR
+San Francisco de Mostazal,mcdonalds_latin_america,,unknown,SHELL SAN FRANCISCO DE MOSTAZA
+Reñaca,mcdonalds_latin_america,,unknown,VINA 4 - RENACA
+Viña del Mar,mcdonalds_latin_america,,unknown,VINA 2 - SAN MARTIN
+Valparaiso,mcdonalds_latin_america,,unknown,"Shell Placilla, Valparaiso (PLC)"
+Rancagua,mcdonalds_latin_america,,unknown,Mall Centro Rancagua (Patio de Comida)
+Rancahua,mcdonalds_latin_america,,unknown,San Ramon/ Rancagua (Cugat)
+Melipilla,mcdonalds_latin_america,,unknown,MELIPILLA
+Talca,mcdonalds_latin_america,,unknown,TALCA CENTRO
+TALCA,mcdonalds_latin_america,,unknown,TALCA COLIN
+Los Angeles,mcdonalds_latin_america,,unknown,LOS ANGELES
+CONCEPCION,mcdonalds_latin_america,,unknown,TALCAHUANO
+Concepción,mcdonalds_latin_america,,unknown,Mall Mirador Bio Bio
+Temuco,mcdonalds_latin_america,,unknown,PORTAL TEMUCO
+Valdivia,mcdonalds_latin_america,,unknown,VALDIVIA
+Puerto Montt,mcdonalds_latin_america,,unknown,PUERTO MONTT 1
+Metropolitana Las Condes,michaelkors,,unknown,Michael Kors Parque Arauco
+SANTIAGO,moneygram,,unknown,GIROS EXPRESS-ANDESMAR - SANTIAGO - SANT
+ANTOFAGASTA,moneygram,,unknown,AFEX
+RANCAGUA PLAZA AMERICA,moneygram,,unknown,CORREOSCHILE - SUCURSAL RANCAGUA PLAZA A
+PUNTA ARENAS,moneygram,,unknown,CORREOS CHILE - SUCURSAL ZONA FRANCA PUN
+NUNOA,moneygram,,unknown,CORREOS CHILE - SUCURSAL IRARRAZAVAL
+ESTACION CENTRAL,moneygram,,unknown,CORREOS CHILE - SUCURSAL CARGA EXPOSICIO
+IQUIQUE,moneygram,,unknown,AFEX - #II - IQUIQUE
+PENAFLOR,moneygram,,unknown,CORREOS CHILE - SUCURSAL PENAFLOR
+LA REINA,moneygram,,unknown,CORREOS CHILE - SUCURSAL VILLA LA REINA
+LA GRANJA,moneygram,,unknown,CORREOS CHILE - SUCURSAL LA GRANJA
+TOCOPILLA,moneygram,,unknown,CORREOS CHILE - SUCURSAL TOCOPILLA
+TALAGANTE,moneygram,,unknown,CORREOS CHILE - SUCURSAL TALAGANTE
+SAN BERNARDO,moneygram,,unknown,AFEX - MALL PLAZA SUR
+HUECHURABA,moneygram,,unknown,CORREOS CHILE - SUCURSAL MALL PLAZA NORT
+RECOLETA,moneygram,,unknown,CORREOS CHILE - SUCURSAL PATRONATO
+LA CISTERNA,moneygram,,unknown,CORREOS CHILE - SUCURSAL INTERMODAL LA C
+PAINE,moneygram,,unknown,CORREOS CHILE - SUCURSAL PAINE
+LO BARNECHEA,moneygram,,unknown,CORREOS CHILE - SUCURSAL LA DEHESA
+LA FLORIDA,moneygram,,unknown,CORREOS CHILE - SUCURSAL LA FLORIDA
+SAN MIGUEL,moneygram,,unknown,CORREOS CHILE - SUCURSAL GRAN AVENIDA
+PUENTE ALTO,moneygram,,unknown,CORREOS CHILE - SUCURSAL PLAZA PUENTE AL
+VITACURA,moneygram,,unknown,CORREOS CHILE - SUCURSAL ALONSO DE CORDO
+MACUL,moneygram,,unknown,CORREOS CHILE - SUCURSAL MACUL
+COLINA,moneygram,,unknown,CORREOS CHILE - SUCURSAL COLINA
+LAS CONDES,moneygram,,unknown,CORREOS CHILE - SUCURSAL APUMANQUE
+CERRILLOS,moneygram,,unknown,CORREOS CHILE - SUCURSAL MALL PLAZA OEST
+CALAMA,moneygram,,unknown,AFEX
+CURICO,moneygram,,unknown,TURISMO BUCALEMU
+MELIPILLA,moneygram,,unknown,GIROS EXPRESS-ANDESMAR - MELIPILLA - MEL
+RANCAGUA CENTRO,moneygram,,unknown,CORREOS CHILE - SUCURSAL RANCAGUA CENTRO
+OVALLE,moneygram,,unknown,CORREOS CHILE - SUCURSAL OVALLE
+VINA DEL MAR,moneygram,,unknown,CORREOS CHILE - SUCURSAL VINA PLAZA
+QUINTA NORMAL,moneygram,,unknown,CORREOS CHILE - SUCURSAL QUINTA NORMAL
+VALPARAISO,moneygram,,unknown,CORREOS CHILE - SUCURSAL VALPARAISO PRAT
+LINARES,moneygram,,unknown,CORREOS CHILE - SUCURSAL LINARES
+NACIMIENTO,moneygram,,unknown,CORREOS CHILE - SUCURSAL NACIMIENTO
+LOS ANDES,moneygram,,unknown,AFEX
+CON-CON,moneygram,,unknown,CORREOS CHILE - SUCURSAL NUEVA CONCON
+COQUIMBO,moneygram,,unknown,AFEX - COQUIMBO
+LA SERENA,moneygram,,unknown,AFEX
+SAN ANTONIO,moneygram,,unknown,AFEX
+TALCAHUANO,moneygram,,unknown,AFEX - TALCAHUANO - AFEX MALL PLAZA TREB
+LA LIGUA,moneygram,,unknown,CORREOS CHILE - SUCURSAL LA LIGUA
+BULNES,moneygram,,unknown,CORREOS CHILE - SUCURSAL BULNES
+CORONEL,moneygram,,unknown,CORREOS CHILE - SUCURSAL CORONEL
+VILLA ALEMANA,moneygram,,unknown,CORREOS CHILE - SUCURSAL VILLA ALEMANA
+ILLAPEL,moneygram,,unknown,CORREOS CHILE - SUCURSAL ILLAPEL
+TALCA,moneygram,,unknown,AFEX
+PENALOLEN,moneygram,,unknown,CORREOS CHILE - SUCURSAL PENALOLEN
+MULCHEN,moneygram,,unknown,CORREOS CHILE - SUCURSAL MULCHEN
+QUILPUE,moneygram,,unknown,CORREOS CHILE - SUCURSAL BLANCO ENCALADA
+ANGOL,moneygram,,unknown,NAHUELTOUR
+PROVIDENCIA,moneygram,,unknown,CORREOS CHILE - SUCURSAL NUEVA TOBALABA
+CHILLAN,moneygram,,unknown,CORREOS CHILE - SUCURSAL CHILLAN 5 DE AB
+CURACAVI,moneygram,,unknown,CORREOS CHILE - SUCURSAL CURACAVI
+SAN FELIPE,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN FELIPE
+SALAMANCA,moneygram,,unknown,CORREOS CHILE - SUCURSAL SALAMANCA
+COPIAPO,moneygram,,unknown,AFEX - MALL PLAZA COPIAPO
+LAJA,moneygram,,unknown,CORREOS CHILE - SUCURSAL LAJA
+BUIN,moneygram,,unknown,CORREOS CHILE - SUCURSAL BUIN
+NUEVA IMPERIAL,moneygram,,unknown,CORREOS CHILE - SUCURSAL NUEVA IMPERIAL
+CHIGUAYANTE,moneygram,,unknown,CORREOS CHILE - SUCURSAL CHIGUAYANTE
+CARTAGENA,moneygram,,unknown,CORREOS CHILE - SUCURSAL CARTAGENA
+LA CALERA,moneygram,,unknown,CORREOS CHILE - SUCURSAL LA CALERA
+OSORNO,moneygram,,unknown,CORREOS CHILE - SUCURSAL OSORNO
+CONCEPCION,moneygram,,unknown,CORREOS CHILE - SUCURSAL CONCEPCION - CE
+PARRAL,moneygram,,unknown,CORREOS CHILE - SUCURSAL PARRAL
+VALDIVIA,moneygram,,unknown,CORREOS CHILE - SUCURSAL VALDIVIA PLANTA
+LOS ANGELES,moneygram,,unknown,AFEX - LOS ANGELES - MALL PLAZA LOS ANGE
+SAN FERNANDO,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN FERNANDO
+TOME,moneygram,,unknown,CORREOS CHILE - SUCURSAL TOME
+CABILDO,moneygram,,unknown,CORREOS CHILE - SUCURSAL CABILDO
+CALDERA,moneygram,,unknown,CORREOS CHILE - SUCURSAL CALDERA
+PIRQUE,moneygram,,unknown,CORREOS CHILE - SUCURSAL PIRQUE
+QUILLOTA,moneygram,,unknown,CAMBIOS ACONCAGUA
+PUERTO VARAS,moneygram,,unknown,AFEX
+CONSTITUCION,moneygram,,unknown,CORREOS CHILE - SUCURSAL CONSTITUCION
+SAN PEDRO DE LA PAZ,moneygram,,unknown,CORREOS CHILE - SUCURSAL VILLA SAN PEDRO
+QUILICURA,moneygram,,unknown,CORREOS CHILE - SUCURSAL QUILICURA
+LOS VILOS,moneygram,,unknown,CORREOS CHILE - SUCURSAL LOS VILOS
+COYHAIQUE,moneygram,,unknown,CORREOS CHILE - SUCURSAL COIHAIQUE
+PICHILEMU,moneygram,,unknown,CORREOS CHILE - SUCURSAL PICHILEMU
+PUERTO NATALES,moneygram,,unknown,CORREOS CHILE - SUCURSAL PUERTO NATALES
+VICUNA,moneygram,,unknown,CORREOS CHILE - SUCURSAL VICUNA
+LOTA,moneygram,,unknown,CORREOS CHILE - SUCURSAL LOTA
+CAUQUENES,moneygram,,unknown,CORREOS CHILE - SUCURSAL CAUQUENES
+CASTRO,moneygram,,unknown,CORREOS CHILE - SUCURSAL CASTRO
+ARAUCO,moneygram,,unknown,CORREOS CHILE - SUCURSAL ARAUCO - ARAUCO
+SAN CARLOS,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN CARLOS
+COLLIPULLI,moneygram,,unknown,CORREOS CHILE - SUCURSAL COLLIPULLI
+PENCO,moneygram,,unknown,CORREOS CHILE - SUCURSAL PENCO
+PUCON,moneygram,,unknown,CORREOS CHILE - SUCURSAL PUCON
+SAN JOSE DE LA MARIQUINA,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN JOSE DE LA
+CABRERO,moneygram,,unknown,CORREOS CHILE - SUCURSAL CABRERO
+LAUTARO,moneygram,,unknown,CORREOS CHILE - SUCURSAL LAUTARO
+QUINTERO,moneygram,,unknown,CORREOS CHILE - SUCURSAL QUINTERO
+VILLARRICA,moneygram,,unknown,CORREOS CHILE - SUCURSAL VILLARRICA
+VICTORIA,moneygram,,unknown,CORREOS CHILE - SUCURSAL VICTORIA
+LA UNION,moneygram,,unknown,CORREOS CHILE - SUCURSAL LA UNION
+LEBU,moneygram,,unknown,CORREOS CHILE - SUCURSAL LEBU
+LOS LAGOS,moneygram,,unknown,CORREOS CHILE - SUCURSAL LOS LAGOS
+PORVENIR,moneygram,,unknown,CORREOS CHILE - SUCURSAL PUERTO PORVENIR
+ANCUD,moneygram,,unknown,CORREOS CHILE - SUCURSAL ANCUD
+LIMACHE,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN FRANCISCO D
+RENGO,moneygram,,unknown,CORREOS CHILE - SUCURSAL RENGO
+CHIMBARONGO,moneygram,,unknown,CORREOS CHILE - SUCURSAL CHIMBARONGO
+CASABLANCA,moneygram,,unknown,CORREOS CHILE - SUCURSAL CASABLANCA
+SANTA CRUZ,moneygram,,unknown,CORREOS CHILE - SUCURSAL SANTA CRUZ
+CURACAUTIN,moneygram,,unknown,CORREOS CHILE - SUCURSAL CURACAUTIN
+ALTO HOSPICIO,moneygram,,unknown,CORREOS CHILE - SUCURSAL NUEVA ALTO HOSP
+PANGUIPULLI,moneygram,,unknown,CORREOS CHILE - SUCURSAL PANGUIPULLI
+RIO BUENO,moneygram,,unknown,CORREOS CHILE - SUCURSAL RIO BUENO
+SAN VICENTE TAGUA-TAGUA,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN VICENTE DE
+PITRUFQUEN,moneygram,,unknown,CORREOS CHILE - SUCURSAL PITRUFQUEN
+INDEPENDENCIA,moneygram,,unknown,CORREOS CHILE - SUCURSAL VIVACETA
+LANCO,moneygram,,unknown,CORREOS CHILE - SUCURSAL LANCO
+TRAIGUEN,moneygram,,unknown,CORREOS CHILE - SUCURSAL TRAIGUEN
+VALLENAR,moneygram,,unknown,CORREOS CHILE - SUCURSAL VALLENAR
+ALGARROBO,moneygram,,unknown,CORREOS CHILE - SUCURSAL ALGARROBO
+MOLINA,moneygram,,unknown,CORREOS CHILE - SUCURSAL MOLINA
+QUIRIHUE,moneygram,,unknown,CORREOS CHILE - SUCURSAL QUIRIHUE
+EL SALVADOR,moneygram,,unknown,CORREOS CHILE - SUCURSAL EL SALVADOR
+JUAN FERNANDEZ,moneygram,,unknown,CORREOS CHILE - SUCURSAL ISLA ROBINSON C
+CURANILAHUE,moneygram,,unknown,CORREOS CHILE - SUCURSAL CURANILAHUE
+HUASCO,moneygram,,unknown,CORREOS CHILE - SUCURSAL HUASCO
+GRANEROS,moneygram,,unknown,CORREOS CHILE - SUCURSAL GRANEROS
+QUELLON,moneygram,,unknown,CORREOS CHILE - SUCURSAL QUELLON
+LLAY-LLAY,moneygram,,unknown,CORREOS CHILE - SUCURSAL LLAY-LLAY
+SAN JAVIER,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN JAVIER
+CHANARAL,moneygram,,unknown,CORREOS CHILE - SUCURSAL CHANARAL
+PAILLACO,moneygram,,unknown,CORREOS CHILE - SUCURSAL PAILLACO
+CABO DE HORNOS,moneygram,,unknown,CORREOS CHILE - SUCURSAL PUERTO WILLIAMS
+YUNGAY,moneygram,,unknown,CORREOS CHILE - SUCURSAL YUNGAY
+PUERTO MONTT,moneygram,,unknown,CORREOS CHILE - SUCURSAL PUERTO MONTT CE
+LAMPA,moneygram,,unknown,CORREOS CHILE - SUCURSAL LAMPA
+PURRANQUE,moneygram,,unknown,CORREOS CHILE - SUCURSAL PURRANQUE
+CALBUCO,moneygram,,unknown,CORREOS CHILE - SUCURSAL CALBUCO
+SAN PEDRO DE ATACAMA,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN PEDRO DE AT
+PUERTO AYSEN,moneygram,,unknown,CORREOS CHILE - SUCURSAL PUERTO AYSEN
+GORBEA,moneygram,,unknown,CORREOS CHILE - GORBEA
+RENCA,moneygram,,unknown,CORREOSCHILE - SUCURSAL RENCA
+SAN JOAQUIN,moneygram,,unknown,CORREOS CHILE - SUCURSAL SAN JOAQUIN
+CANETE,moneygram,,unknown,CORREOS CHILE - SUCURSAL CANETE
+COELEMU,moneygram,,unknown,CORREOS CHILE - SUCURSAL COELEMU
+TEMUCO,moneygram,,unknown,CORREOS CHILE - SUCURSAL TEMUCO - CENTRO
+RANCAGUA,moneygram,,unknown,GIROS EXPRESS-ANDESMAR - RANCAGUA - RANC
+ARICA,moneygram,,unknown,CORREOSCHILE - CORREOSCHILE
+MAIPU,moneygram,,unknown,CORREOS CHILE - SUCURSAL MAIPU PAJARITOS
+CUNCO,moneygram,,unknown,CORREOS CHILE - SUCURSAL CUNCO
+FRUTILLAR,moneygram,,unknown,CORREOS CHILE - SUCURSAL FRUTILLAR ALTO
+ISLA DE PASCUA,moneygram,,unknown,CORREOS CHILE - SUCURSAL ISLA DE PASCUA
+Santiago,national,,unknown,Providencia Santiago
+Talca,national,,unknown,Talca
+VII Región,next,,unknown,TALCA
+Santiago,next,,unknown,ALTO LAS CONDES
+Región de Valparaíso,next,,unknown,MARINA
+Región Metropolitana,next,,unknown,COSTANERA CENTRE
+Vina del Mar,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Vina del Mar
+Iquique,pandora,,unknown,Acerca de Joyería Pandora Pandora Zofri
+Santiago,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Arauco Maipu
+Providencia,pandora,,unknown,Acerca de Joyería Pandora Ripley Costanera Center
+La Florida,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Vespucio
+Lo Barnechea,pandora,,unknown,Acerca de Joyería Pandora SOCIEDAD IMPORTADORA EUROPA DISENOS / PORTAL LA DEHESA
+DeHesa,pandora,,unknown,Acerca de Joyería Pandora 3802CLR Pandora @ Portal La Dehesa - Store #746
+Pudahuel,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Ecommerce Chile
+Osorno,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Osorno
+Rancagua,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Rancagua
+La Serena,pandora,,unknown,Acerca de Joyería Pandora 3814CLR Pandora @ Falabella la Serena
+Concepcion,pandora,,unknown,Acerca de Joyería Pandora 3801CLR Pandora @ Plaza Trebol - Store #842
+Los Angeles,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Los Angeles
+Antofagasta,pandora,,unknown,Acerca de Joyería Pandora Boutique VP Spa/Pandora @ Mall Plaza Antofagasta
+Temuco,pandora,,unknown,Acerca de Joyería Pandora Pandora @ Falabella Temuco
+unknown,pizza_hut_cl,,unknown,ESPACIO URBANO MAIPU PH
+1240000,scania,,unknown,Scania Chile S.A. (Antofagasta)
+3820572,scania,,unknown,Scania Chile S.A. (Chillán)
+1530000,scania,,unknown,Scania Chile S.A. (Copiapó)
+Iquique,scania,,unknown,Scania Chile S.A. (Iquique)
+5480000,scania,,unknown,Scania Chile S.A. (Puerto Montt)
+6200000,scania,,unknown,Scania Chile S.A. (Punta Arenas)
+8320000,scania,,unknown,Scania Chile S.A. (Santiago Norte)
+3480094,scania,,unknown,Scania Chile S.A. (Talca)
+Valparaiso,scania,,unknown,Scania Chile S.A. (Valparaíso)
+Concepcion,sixt,,unknown,Car Hire Concepcion Airport  | SIXT rent a car
+Santiago de Chile,sixt,,unknown,Car Hire Santiago de Chile Las Condes | SIXT rent a car
+Puerto Montt,sixt,,unknown,Car Hire Puerto Montt Airport | SIXT rent a car
+Antofagasta,sixt,,unknown,Car Hire Antofagasta Airport | SIXT rent a car
+Temuco,sixt,,unknown,Car Hire Temuco Airport | SIXT rent a car
+Santiago City,timberland,,unknown,Timberland - Santiago City
+Valdivia,timberland,,unknown,Timberland - Valdivia
+Calama,timberland,,unknown,Timberland - Calama
+Concepcion City,timberland,,unknown,Timberland - Concepcion City
+Punta Arenas City,timberland,,unknown,Timberland - Punta Arenas City
+Temuco City,timberland,,unknown,Timberland - Temuco City
+Villarica City,timberland,,unknown,Timberland - Villarica City
+Vina del Mar City,timberland,,unknown,Timberland - Vina del Mar City
+IQUIQUE,united_colors_of_benetton,,unknown,Benetton Iquique
+PUERTO VARAS,united_colors_of_benetton,,unknown,Benetton Puerto Varas
+SANTIAGO DE CHILE,united_colors_of_benetton,,unknown,Benetton Santiago De Chile
+PUNTA ARENAS,united_colors_of_benetton,,unknown,Benetton Punta Arenas
+COYHAIQUE,united_colors_of_benetton,,unknown,Benetton Coyhaique
+ANTOFAGASTA,united_colors_of_benetton,,unknown,Benetton Antofagasta
+OVALLE,visa,,unknown,unknown
+SANTIAGO,visa,,unknown,unknown
+CALAMA,visa,,unknown,unknown
+ANTOFAGASTA,visa,,unknown,unknown
+COPIAPO,visa,,unknown,unknown
+IQUIQUE,visa,,unknown,unknown
+VALDIVIA,visa,,unknown,unknown
+PICA,visa,,unknown,unknown
+TOCOPILLA,visa,,unknown,unknown
+MARIA ELENA,visa,,unknown,unknown
+ARICA,visa,,unknown,unknown
+ALTO HOSPICIO,visa,,unknown,unknown
+VALLENAR,visa,,unknown,unknown
+LA SERENA,visa,,unknown,unknown
+DIEGO DE ALMAGRO,visa,,unknown,unknown
+TIERRA AMARILLA,visa,,unknown,unknown
+CHANARAL,visa,,unknown,unknown
+CALDERA,visa,,unknown,unknown
+TEMUCO,visa,,unknown,unknown
+LOS ANDES,visa,,unknown,unknown
+HUASCO,visa,,unknown,unknown
+MONTE PATRIA,visa,,unknown,unknown
+COQUIMBO,visa,,unknown,unknown
+VINA DEL MAR,visa,,unknown,unknown
+SAN ESTEBAN,visa,,unknown,unknown
+LAS CONDES,visa,,unknown,unknown
+CONCEPCION,visa,,unknown,unknown
+LO BARNECHEA,visa,,unknown,unknown
+SAN FELIPE,visa,,unknown,unknown
+PUTAENDO,visa,,unknown,unknown
+PENALOLEN,visa,,unknown,unknown
+VITACURA,visa,,unknown,unknown
+LA REINA,visa,,unknown,unknown
+PUENTE ALTO,visa,,unknown,unknown
+NUNOA,visa,,unknown,unknown
+LA FLORIDA,visa,,unknown,unknown
+PROVIDENCIA,visa,,unknown,unknown
+SALAMANCA,visa,,unknown,unknown
+COLINA,visa,,unknown,unknown
+MACUL,visa,,unknown,unknown
+HUECHURABA,visa,,unknown,unknown
+PIRQUE,visa,,unknown,unknown
+RECOLETA,visa,,unknown,unknown
+SAN JOAQUIN,visa,,unknown,unknown
+LA GRANJA,visa,,unknown,unknown
+CONCHALI,visa,,unknown,unknown
+RANCAGUA,visa,,unknown,unknown
+INDEPENDENCIA,visa,,unknown,unknown
+SAN RAMON,visa,,unknown,unknown
+SAN MIGUEL,visa,,unknown,unknown
+LA PINTANA,visa,,unknown,unknown
+LINARES,visa,,unknown,unknown
+PEDRO AGUIRRE CERDA,visa,,unknown,unknown
+RENCA,visa,,unknown,unknown
+LA CISTERNA,visa,,unknown,unknown
+QUILICURA,visa,,unknown,unknown
+ESTACION CENTRAL,visa,,unknown,unknown
+QUINTA NORMAL,visa,,unknown,unknown
+CURICO,visa,,unknown,unknown
+PUNITAQUI,visa,,unknown,unknown
+EL BOSQUE,visa,,unknown,unknown
+LAMPA,visa,,unknown,unknown
+LO PRADO,visa,,unknown,unknown
+LO ESPEJO,visa,,unknown,unknown
+SAN BERNARDO,visa,,unknown,unknown
+CERRILLOS,visa,,unknown,unknown
+PAINE,visa,,unknown,unknown
+PUDAHUEL,visa,,unknown,unknown
+MAIPU,visa,,unknown,unknown
+ILLAPEL,visa,,unknown,unknown
+BUIN,visa,,unknown,unknown
+CALERA DE TANGO,visa,,unknown,unknown
+CATEMU,visa,,unknown,unknown
+PAIHUANO,visa,,unknown,unknown
+MACHALI,visa,,unknown,unknown
+MOSTAZAL,visa,,unknown,unknown
+TILTIL,visa,,unknown,unknown
+PADRE HURTADO,visa,,unknown,unknown
+LA LIGUA,visa,,unknown,unknown
+PENAFLOR,visa,,unknown,unknown
+ISLA DE MAIPO,visa,,unknown,unknown
+TALAGANTE,visa,,unknown,unknown
+REQUINOA,visa,,unknown,unknown
+PUNILLA,visa,,unknown,unknown
+QUILLOTA,visa,,unknown,unknown
+VALPARAISO,visa,,unknown,unknown
+NOGALES,visa,,unknown,unknown
+LA CALERA,visa,,unknown,unknown
+OLMUE,visa,,unknown,unknown
+RENGO,visa,,unknown,unknown
+ZAPALLAR,visa,,unknown,unknown
+LA CRUZ,visa,,unknown,unknown
+CURACAVI,visa,,unknown,unknown
+CANELA,visa,,unknown,unknown
+CHOAPA,visa,,unknown,unknown
+DONIHUE,visa,,unknown,unknown
+LOS VILOS,visa,,unknown,unknown
+LIMACHE,visa,,unknown,unknown
+SAN FERNANDO,visa,,unknown,unknown
+MELIPILLA,visa,,unknown,unknown
+PAPUDO,visa,,unknown,unknown
+ALHUE,visa,,unknown,unknown
+PUCHUNCAVI,visa,,unknown,unknown
+VILLA ALEMANA,visa,,unknown,unknown
+COLTAUCO,visa,,unknown,unknown
+SAN VICENTE,visa,,unknown,unknown
+QUINTERO,visa,,unknown,unknown
+QUILPUE,visa,,unknown,unknown
+CHIMBARONGO,visa,,unknown,unknown
+TENO,visa,,unknown,unknown
+CASABLANCA,visa,,unknown,unknown
+CONCON,visa,,unknown,unknown
+ROMERAL,visa,,unknown,unknown
+NANCAGUA,visa,,unknown,unknown
+LAS CABRAS,visa,,unknown,unknown
+CHEPICA,visa,,unknown,unknown
+SAGRADA FAMILIA,visa,,unknown,unknown
+SAN ANTONIO,visa,,unknown,unknown
+CARTAGENA,visa,,unknown,unknown
+EL TABO,visa,,unknown,unknown
+SANTA CRUZ,visa,,unknown,unknown
+ALGARROBO,visa,,unknown,unknown
+MOLINA,visa,,unknown,unknown
+SANTO DOMINGO,visa,,unknown,unknown
+EL QUISCO,visa,,unknown,unknown
+NAVIDAD,visa,,unknown,unknown
+CARDENAL CARO,visa,,unknown,unknown
+TALCA,visa,,unknown,unknown
+LITUECHE,visa,,unknown,unknown
+SAN RAFAEL,visa,,unknown,unknown
+SAN CLEMENTE,visa,,unknown,unknown
+MAULE,visa,,unknown,unknown
+SAN JAVIER,visa,,unknown,unknown
+PICHILEMU,visa,,unknown,unknown
+PENCAHUE,visa,,unknown,unknown
+PARRAL,visa,,unknown,unknown
+COIHUECO,visa,,unknown,unknown
+SAN CARLOS,visa,,unknown,unknown
+DIGUILLIN,visa,,unknown,unknown
+CHILLAN,visa,,unknown,unknown
+EL CARMEN,visa,,unknown,unknown
+LOS ANGELES,visa,,unknown,unknown
+CONSTITUCION,visa,,unknown,unknown
+TUCAPEL,visa,,unknown,unknown
+CHILLAN VIEJO,visa,,unknown,unknown
+YUNGAY,visa,,unknown,unknown
+CAUQUENES,visa,,unknown,unknown
+BULNES,visa,,unknown,unknown
+ITATA,visa,,unknown,unknown
+QUIRIHUE,visa,,unknown,unknown
+CABRERO,visa,,unknown,unknown
+QUILLON,visa,,unknown,unknown
+MULCHEN,visa,,unknown,unknown
+PUCON,visa,,unknown,unknown
+YUMBEL,visa,,unknown,unknown
+COELEMU,visa,,unknown,unknown
+COBQUECURA,visa,,unknown,unknown
+VICTORIA,visa,,unknown,unknown
+COLLIPULLI,visa,,unknown,unknown
+LAJA,visa,,unknown,unknown
+VILLARRICA,visa,,unknown,unknown
+NACIMIENTO,visa,,unknown,unknown
+TOME,visa,,unknown,unknown
+ANGOL,visa,,unknown,unknown
+HUALQUI,visa,,unknown,unknown
+TRAIGUEN,visa,,unknown,unknown
+PANGUIPULLI,visa,,unknown,unknown
+CHIGUAYANTE,visa,,unknown,unknown
+TALCAHUANO,visa,,unknown,unknown
+BIO - BIO,visa,,unknown,unknown
+HUALPEN,visa,,unknown,unknown
+ARAUCO,visa,,unknown,unknown
+SAN PEDRO DE LA PAZ,visa,,unknown,unknown
+OSORNO,visa,,unknown,unknown
+PITRUFQUEN,visa,,unknown,unknown
+CORONEL,visa,,unknown,unknown
+LONCOCHE,visa,,unknown,unknown
+LAGO RANCO,visa,,unknown,unknown
+NUEVA IMPERIAL,visa,,unknown,unknown
+CURANILAHUE,visa,,unknown,unknown
+LOS LAGOS,visa,,unknown,unknown
+PUERTO MONTT,visa,,unknown,unknown
+PALENA,visa,,unknown,unknown
+CANETE,visa,,unknown,unknown
+MARIQUINA,visa,,unknown,unknown
+PAILLACO,visa,,unknown,unknown
+RIO BUENO,visa,,unknown,unknown
+LEBU,visa,,unknown,unknown
+LA UNION,visa,,unknown,unknown
+PUERTO VARAS,visa,,unknown,unknown
+FRUTILLAR,visa,,unknown,unknown
+LLANQUIHUE,visa,,unknown,unknown
+PURRANQUE,visa,,unknown,unknown
+ANTARTICA CHILENA,visa,,unknown,unknown
+COYHAIQUE,visa,,unknown,unknown
+CALBUCO,visa,,unknown,unknown
+PUERTO AYSEN,visa,,unknown,unknown
+LOS MUERMOS,visa,,unknown,unknown
+QUEMCHI,visa,,unknown,unknown
+CHILOE,visa,,unknown,unknown
+QUINCHAO,visa,,unknown,unknown
+AYSEN,visa,,unknown,unknown
+ANCUD,visa,,unknown,unknown
+CASTRO,visa,,unknown,unknown
+QUELLON,visa,,unknown,unknown
+PUNTA ARENAS,visa,,unknown,unknown
+PUERTO NATALES,visa,,unknown,unknown
+NATALES,visa,,unknown,unknown
+ISLA DE PASCUA,visa,,unknown,unknown

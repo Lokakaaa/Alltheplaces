@@ -1,0 +1,60 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+3014,abc_pl,abc,,Krotoszyn,wielkopolskie,,PL,,,,abc,Q11683985
+7874,abc_pl,abc,,Benice,wielkopolskie,,PL,,,,abc,Q11683985
+7852,abc_pl,abc,,Lutogniew,wielkopolskie,,PL,,,,abc,Q11683985
+7536,abc_pl,abc,,Krotoszyn,wielkopolskie,,PL,,,,abc,Q11683985
+7863,abc_pl,abc,,Lutogniew,wielkopolskie,,PL,,,,abc,Q11683985
+PL001220,aldi_nord_pl,ALDI,,Krotoszyn,Wielkopolskie,,PL,+48 800 118 118,,Mo-Sa 08:00-21:00,ALDI,Q41171373
+39,bricomarche_pl,Bricomarché Krotoszyn,,Krotoszyn,wielkopolskie,,PL,+48 62 722 76 73,https://www.bricomarche.pl/sklep/bricomarche-krotoszyn,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1776-krotoszyn-rynek,credit_agricole_pl,"Credit Agricole Rynek 28, Krotoszyn",,Krotoszyn,wielkopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1776-krotoszyn-rynek,Mo 09:30-17:00; Tu-Fr 08:30-16:00,Credit Agricole,Q590952
+753,dr_max,"Apteka Dr.Max, Kościuszki 3, Krotoszyn",,Krotoszyn,Wielkopolskie,,PL,+48 62 725 36 89,https://www.drmax.pl/apteki/krotoszyn-kosciuszki-3,,Dr. Max,Q56317371
+759,dr_max,"Apteka Dr.Max, Masłowskiego 2 A, Krotoszyn",,Krotoszyn,Wielkopolskie,,PL,+48 62 722 62 21,https://www.drmax.pl/apteki/krotoszyn-masowskiego-2-a,,Dr. Max,Q56317371
+766,dr_max,"Apteka Dr.Max, Bolewskiego 2/1, Krotoszyn",,Krotoszyn,Wielkopolskie,,PL,+48 513 715 267,https://www.drmax.pl/apteki/krotoszyn-bolewskiego-2-1,,Dr. Max,Q56317371
+470,mcdonalds_pl,McDonald's,,Krotoszyn,Wielkopolskie,,PL,+48 790 229 960,https://mcdonalds.pl/restauracje/wielkopolskie/krotoszyn/krotoszyn-ul-benicka-11a,Mo-Su 06:00-01:00,McDonald's,Q38076
+KRS01M,paczkomat_inpost_pl,Market Dino,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs01m-zdunowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS01N,paczkomat_inpost_pl,Market Dino,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs01n-kozminska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS02A,paczkomat_inpost_pl,Przy supermarkecie Kaufland,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs02a-mickiewicza-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS02G,paczkomat_inpost_pl,Stacja paliw Watis,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs02g-56-pulku-piechoty-wlkp-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS02M,paczkomat_inpost_pl,Przy salonie Motocyklowym,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs02m-ostrowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS02N,paczkomat_inpost_pl,Przy parkingu Sklepu Polskiego,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs02n-szosa-benicka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS03M,paczkomat_inpost_pl,parking Lidla,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs03m-sienkiewicza-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS03N,paczkomat_inpost_pl,Market Dino,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs03n-rawicka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS04M,paczkomat_inpost_pl,Market Dino,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs04m-przemyslowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS05M,paczkomat_inpost_pl,parking przy kompleksie usługowo-handlowym,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs05m-kosciuszki-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS06M,paczkomat_inpost_pl,Przy markecie Lewiatan,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs06m-gen-grudzielskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS07M,paczkomat_inpost_pl,Przy wejściu do marketu Mrówka,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs07m-sloneczna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS08M,paczkomat_inpost_pl,przy pawilonie Meble Bodzio,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs08m-wiezniow-politycznych-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS09M,paczkomat_inpost_pl,Sciana szczytowa budynku,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs09m-ostrowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS10M,paczkomat_inpost_pl,przy sklepie spożywczym,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs10m-grudzielskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS11M,paczkomat_inpost_pl,przy budynku stacji,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs11m-kozminska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS12M,paczkomat_inpost_pl,Market Dino,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs12m-1-stycznia-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS13M,paczkomat_inpost_pl,Market Dino,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs13m-ostrowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRS14M,paczkomat_inpost_pl,przy parkingu Netto,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-krs14m-kobylinska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KRV01M,paczkomat_inpost_pl,Market Dino,,Konarzew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-konarzew-krv01m-baszkowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+LUGN01M,paczkomat_inpost_pl,Na parkingu przy sklepie ABC,,Lutogniew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-lutogniew-lugn01m-akacjowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-KRS10,paczkomat_inpost_pl,SKLEP I WYPOŻYCZALNIA Z ARTYKUŁAMI IMPREZOWYMI,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-pop-krs10-aleja-powstancow-wielkopolskich-paczkomaty-wielkopolskie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+POP-KRS11,paczkomat_inpost_pl,HAPPY PACK-KING VAPE E-PAPIEROSY,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-pop-krs11-zdunowska-paczkomaty-wielkopolskie,Mo-Fr 10:00-18:00; Sa 10:00-16:00,Paczkomat,Q110970254
+POP-KRS3,paczkomat_inpost_pl,SALON MOTOROWERY,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-pop-krs3-ostrowska-paczkomaty-wielkopolskie,Mo-Fr 09:00-17:00,Paczkomat,Q110970254
+POP-KRS4,paczkomat_inpost_pl,PAKERSI,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-pop-krs4-osadnicza-paczkomaty-wielkopolskie,Mo-Fr 09:00-17:00; Sa 09:00-13:00,Paczkomat,Q110970254
+POP-KRS5,paczkomat_inpost_pl,EPAKA,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-pop-krs5-zamkowy-folwark-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-KRS8,paczkomat_inpost_pl,STACJA CIRCLE K,,Krotoszyn,wielkopolskie,,PL,,https://inpost.pl/paczkomat-krotoszyn-pop-krs8-kozminska-paczkomaty-wielkopolskie,Mo-Sa 08:00-18:00,Paczkomat,Q110970254
+XCE01M,paczkomat_inpost_pl,Market Dino,,Benice,wielkopolskie,,PL,,https://inpost.pl/paczkomat-benice-xce01m-krotoszynska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+671,play_pl,Salon Play,Ul. Rynek 13,Krotoszyn,wielkopolskie,,PL,+48 790 031 205,,Mo-Fr 10:00-18:00; Sa 09:00-13:00,Play,Q7202998
+278512,poczta_polska_pl,AP Benice,,Benice,WIELKOPOLSKIE,,PL,+48 62 721 25 44,,,Poczta Polska,Q168833
+358469,poczta_polska_pl,AP Chwaliszew,,Chwaliszew,WIELKOPOLSKIE,,PL,+48 62 722 49 53,,,Poczta Polska,Q168833
+342069,poczta_polska_pl,FUP Krotoszyn 1,,Krotoszyn,WIELKOPOLSKIE,,PL,+48 887 850 768,,,Poczta Polska,Q168833
+401771,poczta_polska_pl,AP Krotoszyn,,Krotoszyn,WIELKOPOLSKIE,,PL,+48 512 146 022,,,Poczta Polska,Q168833
+543619,poczta_polska_pl,FUP Krotoszyn 1,,Krotoszyn,WIELKOPOLSKIE,,PL,+48 885 870 459,,,Poczta Polska,Q168833
+248466,poczta_polska_pl,UP Krotoszyn 1,,Krotoszyn,WIELKOPOLSKIE,,PL,+48 62 725 25 25,,,Poczta Polska,Q168833
+308807,poczta_polska_pl,FUP Krotoszyn 1,,Krotoszyn,WIELKOPOLSKIE,,PL,+48 887 852 278,,,Poczta Polska,Q168833
+289931,poczta_polska_pl,AP Lutogniew,,Lutogniew,WIELKOPOLSKIE,,PL,+48 698 623 114,,,Poczta Polska,Q168833
+308795,poczta_polska_pl,FUP Krotoszyn 1,,Sulmierzyce,WIELKOPOLSKIE,,PL,+48 887 851 476,,,Poczta Polska,Q168833
+,visa,,,KROTOSZYN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KROTOSZYN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KROTOSZYN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KROTOSZYN,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KROTOSZYN,WIELKOPOLSKIE,,PL,,,,,
+4354d47ac2ebf15d983336f51c94e1be,western_union,BS W KROTOSZYNIE ODDZIAL II,,Krotoszyn,WIELKOPOLSKIE,,PL,(+48) 625-00606350,https://location.westernunion.com/pl/wielkopolskie/krotoszyn/4354d47ac2ebf15d983336f51c94e1be,Mo-Fr 09:00-17:00,Western Union,Q861042
+9a1df2ebcc0e298ae3f8f198c4a167d0,western_union,STEFCZYK FINANSE,,Krotoszyn,WIELKOPOLSKIE,,PL,+48 62 722 50 92,https://location.westernunion.com/pl/wielkopolskie/krotoszyn/9a1df2ebcc0e298ae3f8f198c4a167d0,Mo-Fr 09:30-16:30,Western Union,Q861042
+47192601d45e6c7f025e8ffe573985c3,western_union,BS KROTOSZYN,,Krotoszyn,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/krotoszyn/47192601d45e6c7f025e8ffe573985c3,Mo-Fr 08:00-17:00,Western Union,Q861042
+1733d323777ddbc7283a638a2cdeecd5,western_union,BS KROTOSZYN F CEGLARSKA,,Krotoszyn,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/krotoszyn/1733d323777ddbc7283a638a2cdeecd5,Mo-Fr 08:15-16:00,Western Union,Q861042

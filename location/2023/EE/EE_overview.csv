@@ -1,0 +1,298 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,6
+UNKNOWN,alamo,Tallinn,1
+HARJU,audi,Tallinn,1
+SAARE,audi,Kuressaare,1
+TARTU,audi,Tartu,1
+PAERNUMAA,audi,Pärnu,1
+IDAVIRUMAA,audi,Jõhvi,1
+TARTUMAA,avis,Tartumaa,1
+TALLINN,avis,Tallinn,2
+UNKNOWN,bmw_group,"Peetri, Rae vald",1
+ESTONIA,bmw_group,Tallinn,1
+MAAKOND,bmw_group,Soinaste  Küla,1
+UNKNOWN,bmw_group,Kohtla-Järve,1
+HARJUMAA,bmw_group,Tallinn,1
+HARJUMAA,bmw_group,Rae Vald Harjumaa,1
+ESTONIA,bmw_group,Pärnu,2
+HARJU,brewdog,Tallinna linn,1
+UNKNOWN,calvin_klein,Tallinn,2
+UNKNOWN,church_of_england_gb,unknown,1
+UNKNOWN,crocs_eu,Tallinn,2
+UNKNOWN,crocs_eu,Tartu,1
+UNKNOWN,dodo_pizza,Tallinn,3
+UNKNOWN,dodo_pizza,Pärnu,1
+UNKNOWN,ecco,Tartu,4
+UNKNOWN,ecco,Pärnu,1
+UNKNOWN,ecco,Tallinn,7
+UNKNOWN,ecco,Narva,2
+UNKNOWN,enterprise,Tallinn,1
+UNKNOWN,ernst_young,Tallinn,1
+UNKNOWN,esprit,Tallin,1
+UNKNOWN,esprit,Tallinn,1
+UNKNOWN,hilton,unknown,1
+UNKNOWN,hm,Tallinn,5
+UNKNOWN,hm,Pärnu,1
+UNKNOWN,hm,Narva,1
+UNKNOWN,hm,Tartu,2
+UNKNOWN,hm,Rakvere,1
+UNKNOWN,hm,Kuressaare,1
+UNKNOWN,hm,Johvi,1
+01,hugo_boss,Tallinn,3
+12,hugo_boss,Tartu,1
+HARJU,ich_tanke_strom,Tallinna linn,1
+RAPLAMAA,ionity,Maerjamaa vald,1
+UNKNOWN,lhw,Tallinn,1
+UNKNOWN,lidl_ee,Tallinn,6
+UNKNOWN,lidl_ee,Narva,2
+UNKNOWN,lidl_ee,Tartu,1
+UNKNOWN,lidl_ee,Pärnu,1
+UNKNOWN,lidl_ee,Jõhvi,1
+UNKNOWN,lidl_ee,Räni alevik,1
+UNKNOWN,lidl_ee,Rakvere vald,1
+UNKNOWN,longchamp,TALLINN,1
+UNKNOWN,man_truck_and_bus,Valga,1
+UNKNOWN,man_truck_and_bus,Tallinn,2
+UNKNOWN,maserati,TALLINN,1
+UNKNOWN,mercedes_benz,Tallinn,1
+UNKNOWN,mercedes_benz,Maardu/ Tallinn,1
+UNKNOWN,mercedes_benz,Pärnu,1
+TARTUMAAKOND,mercedes_benz,Õssu,1
+UNKNOWN,mercedes_benz,Rakvere,1
+UNKNOWN,moneygram,TALLINN,8
+UNKNOWN,moneygram,PARNU,1
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,national,Tallinn,1
+UNKNOWN,newyorker,Tallinn,4
+UNKNOWN,newyorker,Tartu,2
+UNKNOWN,newyorker,Pärnu,1
+UNKNOWN,newyorker,Rakvere,1
+UNKNOWN,newyorker,Narva,1
+UNKNOWN,newyorker,Viljandi,1
+UNKNOWN,newyorker,Johvi,1
+UNKNOWN,next,11415 Tallinn,1
+UNKNOWN,next,Tallinn,1
+UNKNOWN,next,Tartu,1
+UNKNOWN,next,13522 Tallinn,1
+UNKNOWN,next,Rae Parish,1
+ESTONIA,nike,Tallinn,2
+UNKNOWN,nike,Tartu,1
+UNKNOWN,nike,Tallinn,1
+UNKNOWN,ovs,Tallinn,3
+UNKNOWN,ovs,Tartu,1
+UNKNOWN,ovs,Rae Parish,1
+JAERVAMAA,pepco,Paide linn,1
+HARJU,pepco,Tallinna linn,11
+PAERNUMAA,pepco,Paernu linn,3
+HARJU,pepco,Saue vald,3
+HARJU,pepco,Kiili vald,1
+LAEAENEVIRUMAA,pepco,Rakvere linn,2
+RAPLAMAA,pepco,Rapla vald,1
+IDAVIRUMAA,pepco,Narva linn,2
+TARTU,pepco,Tartu linn,3
+HARJU,pepco,Viimsi vald,1
+HARJU,pepco,Keila linn,1
+HARJU,pepco,Maardu linn,1
+LAEAENE,pepco,Ridala Parish,1
+IDAVIRUMAA,pepco,Sillamaee linn,1
+IDAVIRUMAA,pepco,Johvi vald,1
+IDAVIRUMAA,pepco,Kohtla-Jaerve linn,1
+VORUMAA,pepco,Voru linn,1
+SAARE,pepco,Kuressaare linn,1
+VILJANDIMAA,pepco,Viljandi linn,1
+UNKNOWN,renault,VILJANDI [EESTI],2
+UNKNOWN,renault,NARVA [EESTI],2
+UNKNOWN,renault,TALLINN  EESTI,4
+UNKNOWN,renault,RAKVERE [EESTI],2
+UNKNOWN,renault,KURESSAARE/SAAREMAA [EESTI],2
+UNKNOWN,renault,TALLINNA LAAGRI ESINDUS,2
+UNKNOWN,renault,"HARKU, HARJUMAA [EESTI]",2
+UNKNOWN,renault,TARTU EESTI,2
+UNKNOWN,renault,PARNU  [EESTI],2
+UNKNOWN,renault,HAAPSALU EESTI,2
+UNKNOWN,scania,Rakvere,1
+UNKNOWN,scania,Saue,1
+UNKNOWN,scania,Tallinn,1
+UNKNOWN,sixt,Paernu,1
+UNKNOWN,sixt,Tartu,2
+UNKNOWN,sixt,Tallinn,4
+UNKNOWN,skoda,unknown,12
+UNKNOWN,subway,Tartu,1
+UNKNOWN,subway,Tallinn,1
+UNKNOWN,superdry,Tallinn,2
+UNKNOWN,timberland,Riga,2
+UNKNOWN,timberland,Parnu,1
+UNKNOWN,timberland,Tallinn,5
+UNKNOWN,timberland,Tartu,3
+UNKNOWN,tommy_hilfiger,Tallinn,4
+UNKNOWN,tommy_hilfiger,Tartu,2
+UNKNOWN,tommy_hilfiger,Narva,1
+UNKNOWN,united_colors_of_benetton,TALLINN,1
+UNKNOWN,united_colors_of_benetton,TARTU,1
+UNKNOWN,visa,SAAREMAA,1
+UNKNOWN,visa,KURESSAARE,13
+UNKNOWN,visa,MUHU,1
+UNKNOWN,visa,KARLA,1
+UNKNOWN,visa,KAARMAA VALD,1
+UNKNOWN,visa,SAAREMAA VALD,1
+UNKNOWN,visa,VALJALA,1
+UNKNOWN,visa,"SAAREMAA, LEISI",1
+UNKNOWN,visa,HAADEMEESTE,1
+UNKNOWN,visa,ORISSAARE,1
+UNKNOWN,visa,HIIUMAA,2
+UNKNOWN,visa,VALGA,9
+UNKNOWN,visa,TORVA,2
+UNKNOWN,visa,MUHUMAA,1
+UNKNOWN,visa,KILINGI-NOMME,1
+UNKNOWN,visa,VIRTSU,1
+UNKNOWN,visa,TORREMAE,4
+UNKNOWN,visa,"HIIUMAA, KAINA,",1
+UNKNOWN,visa,ABJA-PALUOJA,1
+UNKNOWN,visa,PARNU,39
+UNKNOWN,visa,AUDRU VALD,1
+UNKNOWN,visa,PAPSAARE KULA,1
+UNKNOWN,visa,KARKSI-NUIA,2
+UNKNOWN,visa,ANTSLA,2
+UNKNOWN,visa,SAUGA,1
+UNKNOWN,visa,SINDI,2
+UNKNOWN,visa,ROUGE,1
+UNKNOWN,visa,LIHULA,2
+UNKNOWN,visa,KARDLA,5
+UNKNOWN,visa,LINNUMAE KULA,1
+UNKNOWN,visa,"HIIUMAA, PUHALEPA VALD",1
+UNKNOWN,visa,KOPU,1
+UNKNOWN,visa,LOO,1
+UNKNOWN,visa,VASTSELIINA,1
+UNKNOWN,visa,VORU,12
+UNKNOWN,visa,PARNU-JAAGUPI,1
+UNKNOWN,visa,MUSTLA,2
+UNKNOWN,visa,OTEPAA,5
+UNKNOWN,visa,RONGU,1
+UNKNOWN,visa,KANEPI,1
+UNKNOWN,visa,VILJANDI,18
+UNKNOWN,visa,HAAPSALU,9
+UNKNOWN,visa,UUEMOISA,1
+UNKNOWN,visa,SAVERNA,1
+UNKNOWN,visa,TAEBLA,1
+UNKNOWN,visa,ELVA,6
+UNKNOWN,visa,VANDRA,2
+UNKNOWN,visa,POLVA,7
+UNKNOWN,visa,SUURE-JAANI,1
+UNKNOWN,visa,PUHJA,1
+UNKNOWN,visa,JARVAKANDI,1
+UNKNOWN,visa,NOO,1
+UNKNOWN,visa,RISTI,1
+UNKNOWN,visa,MARJAMAA,2
+UNKNOWN,visa,VARSKA,1
+UNKNOWN,visa,VOHMA,1
+UNKNOWN,visa,ULENURME,1
+UNKNOWN,visa,RAPINA,3
+UNKNOWN,visa,TARTU,79
+UNKNOWN,visa,RIISIPERE,1
+UNKNOWN,visa,TALLINN,274
+UNKNOWN,visa,LUUNJA,1
+UNKNOWN,visa,TURI,4
+UNKNOWN,visa,POLTSAMAA,4
+UNKNOWN,visa,RAPLA,6
+UNKNOWN,visa,PUURMANI,1
+UNKNOWN,visa,IMAVERE,2
+UNKNOWN,visa,RUMMU,1
+UNKNOWN,visa,TABIVERE,1
+UNKNOWN,visa,PAIDE,7
+UNKNOWN,visa,MAO,1
+UNKNOWN,visa,PALDISKI,2
+UNKNOWN,visa,KOHILA,3
+UNKNOWN,visa,URGE,1
+UNKNOWN,visa,KEILA,9
+UNKNOWN,visa,JOGEVA,6
+UNKNOWN,visa,SAKU,5
+UNKNOWN,visa,SAUE,5
+UNKNOWN,visa,KOSE,2
+UNKNOWN,visa,LAAGRI,3
+UNKNOWN,visa,KOERU,1
+UNKNOWN,visa,KIILI,2
+UNKNOWN,visa,JARVA-JAANI,1
+UNKNOWN,visa,KALLASTE,1
+UNKNOWN,visa,RAUDALU,1
+UNKNOWN,visa,TABASALU,4
+UNKNOWN,visa,JURI,4
+UNKNOWN,visa,RAKKE,1
+UNKNOWN,visa,PEETRI,3
+UNKNOWN,visa,ARAVETE,1
+UNKNOWN,visa,ARUKULA,1
+UNKNOWN,visa,MUSTVEE,2
+UNKNOWN,visa,RAASIKU,1
+UNKNOWN,visa,KEHRA,2
+UNKNOWN,visa,SIMUNA,1
+UNKNOWN,visa,MAARDU,8
+UNKNOWN,visa,HARJU MK. VIIMSI,1
+UNKNOWN,visa,VIIMSI,6
+UNKNOWN,visa,HAABNEEME,1
+UNKNOWN,visa,TAMSALU,2
+UNKNOWN,visa,VAIKE-MAARJA,2
+UNKNOWN,visa,AVINURME,1
+UNKNOWN,visa,TAPA,3
+UNKNOWN,visa,KUUSALU,2
+UNKNOWN,visa,KADRINA,1
+UNKNOWN,visa,RAKVERE,16
+UNKNOWN,visa,RAKVERE LINN,1
+UNKNOWN,visa,RAKVERE VALD,1
+UNKNOWN,visa,NAPI,1
+UNKNOWN,visa,SOMERU,1
+UNKNOWN,visa,IISAKU,1
+UNKNOWN,visa,LOKSA,3
+UNKNOWN,visa,JOHVI,12
+UNKNOWN,visa,HALJALA,1
+UNKNOWN,visa,KIVIOLI,6
+UNKNOWN,visa,KUNDA,3
+UNKNOWN,visa,ASERI,2
+UNKNOWN,visa,AHTME,2
+UNKNOWN,visa,IIDLA,2
+UNKNOWN,visa,KOHTLA-JARVE,12
+UNKNOWN,visa,SILLAMAE,6
+UNKNOWN,visa,SINIMAE,1
+UNKNOWN,visa,NARVA,30
+UNKNOWN,visa,NARVA-JOESUU,2
+IDAVIRU,western_union,Narva,1
+NARVA,western_union,Narva,1
+IDAVIRU,western_union,Sillamae,1
+IDAVIRU,western_union,Johvi,1
+IDAVIRU,western_union,Kohtla-jarve,1
+IDAVIRU,western_union,Kohtla-jaerve,1
+IDAVIRU,western_union,Kivioli,1
+LAANEVIRU,western_union,Rakvere,1
+LAANEVIRU,western_union,Tapa,1
+JOGEVA,western_union,Jogeva,1
+HARJU,western_union,Loksa,1
+TARTU,western_union,Tartu,4
+POLVA,western_union,Polva,1
+JOGEVA,western_union,Poltsamaa,1
+HARJU,western_union,Kehra,1
+TARTU,western_union,Elva,1
+VORU,western_union,Voru,1
+JARVA,western_union,Paide,1
+VALGA,western_union,Otepaeae,1
+HIIU,western_union,Kaerdla,1
+VALGA,western_union,Torva,1
+JARVA,western_union,Tueri,1
+PARNU,western_union,Parnu,1
+PARNU,western_union,Sindi,1
+PARNU,western_union,Paernu,1
+VILJANDI,western_union,Vohma,1
+VILJANDI,western_union,Viljandi,1
+HARJU,western_union,Keila,1
+HARJU,western_union,Tabasalu,1
+HARJU,western_union,Saue,1
+HARJU,western_union,Laagri,1
+HARJU,western_union,Tallinn,11
+HARJUMAA,western_union,Tallinn,3
+HARJU,western_union,Peetri,1
+RAPLA,western_union,Kohila,1
+HARJU,western_union,Haabneeme,1
+HARJU,western_union,Jueri,1
+RAPLA,western_union,Rapla,1
+HARJU,western_union,Maardu,1
+SAARE,western_union,Kuressaare,1
+LAANE,western_union,Paldiski,1
+SAARE,western_union,Orissaare,1
+LAANE,western_union,Haapsalu,1

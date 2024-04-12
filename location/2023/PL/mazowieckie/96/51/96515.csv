@@ -1,0 +1,15 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5011,abc_pl,abc,,Pawłowice,mazowieckie,,PL,,,,abc,Q11683985
+10167,abc_pl,abc,,Teresin,mazowieckie,,PL,,,,abc,Q11683985
+15112,abc_pl,abc,,Maszna,mazowieckie,,PL,,,,abc,Q11683985
+POP-TEE4,paczkomat_inpost_pl,PAKERSI,,Teresin,mazowieckie,,PL,,https://inpost.pl/paczkomat-teresin-pop-tee4-szymanowska-paczkomaty-mazowieckie,Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su 10:00-14:00,Paczkomat,Q110970254
+POP-TEE5,paczkomat_inpost_pl,EPAKA,,Teresin,mazowieckie,,PL,,https://inpost.pl/paczkomat-teresin-pop-tee5-kolbego-paczkomaty-mazowieckie,Mo-Fr 08:00-18:00; Sa 08:00-15:00,Paczkomat,Q110970254
+PPR01M,paczkomat_inpost_pl,Na Parkingu przy OSP Paprotnia,,Paprotnia,mazowieckie,,PL,,https://inpost.pl/paczkomat-paprotnia-ppr01m-kampinoska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+TEE01AP,paczkomat_inpost_pl,Przy sklepie z farbami,,Teresin,mazowieckie,,PL,,https://inpost.pl/paczkomat-teresin-tee01ap-rynkowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+TEE01N,paczkomat_inpost_pl,Dom Handlowy Kwadrat,,Teresin,mazowieckie,,PL,,https://inpost.pl/paczkomat-teresin-tee01n-szymanowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+TEE02M,paczkomat_inpost_pl,Market Dino,,Teresin,mazowieckie,,PL,,https://inpost.pl/paczkomat-teresin-tee02m-swietokrzyska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+TEE03M,paczkomat_inpost_pl,Parking przy firmie SAGA,,Teresin,mazowieckie,,PL,,https://inpost.pl/paczkomat-teresin-tee03m-guzowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+980579,poczta_polska_pl,FUP Sochaczew 1,,Paprotnia,MAZOWIECKIE,,PL,+48 46 861 37 47,,,Poczta Polska,Q168833
+,visa,,,SOCHACZEW,MAZOWIECKIE,,PL,,,,,
+,visa,,,TERESIN,MAZOWIECKIE,,PL,,,,,
+65c69e59e5ae350c93491817f19b4376,western_union,BS ZIEMI LOWICKIEJ O TERESIN,,Teresin,MAZOWIECKIE,,PL,+48 46 861 37 87,https://location.westernunion.com/pl/mazowieckie/teresin/65c69e59e5ae350c93491817f19b4376,Mo-Fr 08:00-15:00,Western Union,Q861042

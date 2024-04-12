@@ -1,0 +1,9 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://www.cic.fr:443/fr/agences/10057/19549/00/000,cic,CIC,,BIGANOS,Aquitaine,,FR,+33 5 57 05 00 90,https://www.cic.fr:443/fr/agences/10057/19549/00/000,"Tu 08:45-12:30,14:30-18:00; We-Fr 08:45-12:30,13:30-18:00; Sa 08:30-12:30",cic,Q746525
+3233t008t1,e_leclerc,Station Service,,MIOS,Aquitaine,,FR,+33 5 56 82 78 37,,24/7,E.Leclerc,Q1273376
+3233t101t1,e_leclerc,MIOS,,MIOS,Aquitaine,,FR,+33 5 56 82 78 37,https://e.leclerc/mag/e-leclerc-mios,Mo-Sa 08:30-20:00; Su 09:00-12:45,E.Leclerc,Q1273376
+3233t114t1,e_leclerc,Express Biganos,,BIGANOS,Aquitaine,,FR,+33 5 56 82 78 37,https://www.e.leclerc/mag/e-leclerc-express-biganos,Mo-Sa 09:00-20:00; Su 09:00-12:45,E.Leclerc Express,Q1273376
+3233t117t1,e_leclerc,Location,,MIOS,Aquitaine,,FR,+33 5 56 82 78 37,https://e.leclerc/mag/e-leclerc-mios,Mo-Sa 09:00-18:00,E.Leclerc Location,Q1273376
+3233t118t1,e_leclerc,DRIVE Mios,,MIOS,Aquitaine,,FR,+33 5 56 82 78 37,https://e.leclerc/mag/e-leclerc-mios,Mo-Sa 08:30-19:30,E.Leclerc Drive,Q1273376
+3233t118t2,e_leclerc,Drive Biganos,,BIGANOS,Aquitaine,,FR,+33 5 56 82 78 37,https://e.leclerc/mag/e-leclerc-mios,Mo-Sa 09:00-19:30,E.Leclerc Drive,Q1273376
+https://local.fedex.com/#1017448550,fedex,,,Marcheprime,Aquitaine,,FR,,https://local.fedex.com/en-fr/marcheprime/zfqdy,,FedEx,Q459477

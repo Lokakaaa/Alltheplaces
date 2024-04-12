@@ -1,0 +1,26 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+9851,abc_pl,abc,,Jabłonowo,mazowieckie,,PL,,,,abc,Q11683985
+5237,abc_pl,abc,,Łazy,mazowieckie,,PL,,,,abc,Q11683985
+2932,abc_pl,abc,,Łazy,mazowieckie,,PL,,,,abc,Q11683985
+2619,abc_pl,abc,,Wola Mrokowska,mazowieckie,,PL,,,,abc,Q11683985
+14950,abc_pl,abc,,Wola Mrokowska,mazowieckie,,PL,,,,abc,Q11683985
+JOV01M,paczkomat_inpost_pl,Przy budynku ul. Nadrzeczna 3I,,Jabłonowo,mazowieckie,,PL,,https://inpost.pl/paczkomat-jablonowo-jov01m-nadrzeczna-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+LAZ01G,paczkomat_inpost_pl,"Przy wjeździe na teren magazynów Ikea, InPost, UPS",,Łazy,mazowieckie,,PL,,https://inpost.pl/paczkomat-lazy-laz01g-al-krakowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+LZX01APP,paczkomat_inpost_pl,Market Dino,,Łazy,mazowieckie,,PL,,https://inpost.pl/paczkomat-lazy-lzx01app-ks-kanonika-henryka-slojewskiego-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+LZX01M,paczkomat_inpost_pl,Na automyjni,,Łazy,mazowieckie,,PL,,https://inpost.pl/paczkomat-lazy-lzx01m-aleja-krakowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+LZX02M,paczkomat_inpost_pl,Prawa ściana budynku,,Łazy,mazowieckie,,PL,,https://inpost.pl/paczkomat-lazy-lzx02m-przyszlosci-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+MRO01A,paczkomat_inpost_pl,Przy Centrum Handlowym European,,Mroków,mazowieckie,,PL,,https://inpost.pl/paczkomat-mrokow-mro01a-swiatkiewicz-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+POP-WKO2,paczkomat_inpost_pl,STACJA CIRCLE K,,Wólka Kosowska ,mazowieckie,,PL,,https://inpost.pl/paczkomat-wolka-kosowska-pop-wko2-al-krakowska-paczkomaty-mazowieckie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+STF01M,paczkomat_inpost_pl,Przy wejściu do sklepu,,Stefanowo,mazowieckie,,PL,,https://inpost.pl/paczkomat-stefanowo-stf01m-malinowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+VAS01M,paczkomat_inpost_pl,Market Dino,,Warszawianka,mazowieckie,,PL,,https://inpost.pl/paczkomat-warszawianka-vas01m-brzozowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+WKO01M,paczkomat_inpost_pl,Przed Delikatesami Express,,Wólka Kosowska,mazowieckie,,PL,,https://inpost.pl/paczkomat-wolka-kosowska-wko01m-nadrzeczna-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+WKO01N,paczkomat_inpost_pl,Na stacji paliw Circle K,,Wólka Kosowska,mazowieckie,,PL,,https://inpost.pl/paczkomat-wolka-kosowska-wko01n-aleja-krakowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+WMR01A,paczkomat_inpost_pl,Na Parkingu przy Delikatesach Bogucki,,Wola Mrokowska,mazowieckie,,PL,,https://inpost.pl/paczkomat-wola-mrokowska-wmr01a-rejonowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+WMR01M,paczkomat_inpost_pl,"Po prawej stronie, przy wjeździe na osiedle",,Wola Mrokowska,mazowieckie,,PL,,https://inpost.pl/paczkomat-wola-mrokowska-wmr01m-zachodnia-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+590339,poczta_polska_pl,FUP Mysiadło,,Jabłonowo,MAZOWIECKIE,,PL,+48 22 756 15 10,,,Poczta Polska,Q168833
+,visa,,,MROKOW,MAZOWIECKIE,,PL,,,,,
+,visa,,,JABŁONOWO,MAZOWIECKIE,,PL,,,,,
+,visa,,,WOLKA KOSOWSKA,MAZOWIECKIE,,PL,,,,,
+,visa,,,ŁAZY,MAZOWIECKIE,,PL,,,,,
+529910ad44af9a2abcc70fc41c943189,western_union,DICH VU CHUYEN TIEN WESTERN UNION,,Wolka Kosowska,MAZOWIECKIE,,PL,+48 732 888 858,https://location.westernunion.com/pl/mazowieckie/wolka-kosowska/529910ad44af9a2abcc70fc41c943189,Mo-Fr 07:00-17:00,Western Union,Q861042
+b8917a69a062038a6c16aea2aa8f6aaa,western_union,BANK SPOLDZIELCZY W TARCZYNIE,,Wolka Kosowska,MAZOWIECKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/mazowieckie/wolka-kosowska/b8917a69a062038a6c16aea2aa8f6aaa,Mo-Fr 08:30-16:30,Western Union,Q861042

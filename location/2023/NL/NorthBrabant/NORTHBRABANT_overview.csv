@@ -1,0 +1,143 @@
+City,Place Name,Zipcode,Name
+TILBURG,audi,Kraaivenstraat 14 5048 AB TILBURG,unknown,Audi Centrum Tilburg
+GASSEL (NB),audi,Nieuweweg 15 5438 AB GASSEL (NB),unknown,Autobedrijf Thoonen B.V.
+VEGHEL,audi,Heuvelplein 7 5463 XG VEGHEL,unknown,Autobedrijf Van den Udenhout B.V.
+HELMOND,audi,Varenschut 17 5705 DK HELMOND,unknown,Autobedrijf Van den Udenhout B.V.
+BREDA,audi,Konijnenberg 1 4825 BC BREDA,unknown,Van Tilburg-Bastianen B.V.
+EINDHOVEN,audi,Wekkerstraat 43 5652 AN EINDHOVEN,unknown,Autobedrijf Van den Udenhout B.V.
+WAALWIJK,audi,Van Andelstraat 1 5141 PB WAALWIJK,unknown,Van Mossel Waalwijk
+OSS,audi,Kantsingel 22 H/J 5349 AJ OSS,unknown,Autobedrijf Van den Udenhout B.V.
+VALKENSWAARD,audi,Dragonder 16 5554 GM VALKENSWAARD,unknown,Van Mossel Valkenswaard
+HAPERT,audi,Oude Provincialeweg 84 5527 BR HAPERT,unknown,Van Mossel Hapert
+DEN BOSCH,audi,Balkweg 1 5232 BT DEN BOSCH,unknown,Autobedrijf Van den Udenhout B.V.
+OUD-GASTEL,audi,Argon 41 4751 XC OUD-GASTEL,unknown,Audi Centrum Roosendaal
+Воронеж,coffee_like,пр-т Московский 129/1 (2 этаж),unknown,Coffee Like
+Tilburg,hema,,unknown,HEMA
+Den Bosch,hema,,unknown,HEMA
+Eindhoven,hema,,unknown,HEMA
+Breda,hema,,unknown,HEMA
+Helmond,hema,,unknown,HEMA
+Oosterhout,hema,,unknown,HEMA
+Bergen op Zoom,hema,,unknown,HEMA
+Roosendaal,hema,,unknown,HEMA
+Oss,hema,,unknown,HEMA
+Waalwijk,hema,,unknown,HEMA
+Cuyk,hema,,unknown,HEMA
+Steenbergen,hema,,unknown,HEMA
+Boxmeer,hema,,unknown,HEMA
+Etten-Leur,hema,,unknown,HEMA
+Uden,hema,,unknown,HEMA
+Veghel,hema,,unknown,HEMA
+Valkenswaard,hema,,unknown,HEMA
+Veldhoven,hema,,unknown,HEMA
+Boxtel,hema,,unknown,HEMA
+Budel,hema,,unknown,HEMA
+Asten,hema,,unknown,HEMA
+Schijndel,hema,,unknown,HEMA
+Oisterwijk,hema,,unknown,HEMA
+Deurne,hema,,unknown,HEMA
+Best,hema,,unknown,HEMA
+Gemert,hema,,unknown,HEMA
+Kaatsheuvel,hema,,unknown,HEMA
+Bladel,hema,,unknown,HEMA
+Geldrop,hema,,unknown,HEMA
+Dongen,hema,,unknown,HEMA
+Goirle,hema,,unknown,HEMA
+Vught,hema,,unknown,HEMA
+Raamsdonksveer,hema,,unknown,HEMA
+Bergeijk,hema,,unknown,HEMA
+Zevenbergen,hema,,unknown,HEMA
+Nuenen,hema,,unknown,HEMA
+St. Oedenrode,hema,,unknown,HEMA
+Beek en Donk,hema,,unknown,HEMA
+Rijen,hema,,unknown,HEMA
+ Breda,hema,,unknown,HEMA
+Eersel,hema,,unknown,HEMA
+Prinsenbeek,hema,,unknown,HEMA
+Berkel-Enschot,hema,,unknown,HEMA
+Numansdorp,hema,,unknown,HEMA
+Malden,hema,,unknown,HEMA
+Someren,hema,,unknown,HEMA
+Sint Michielsgestel,hema,,unknown,HEMA
+Boekel,hema,,unknown,HEMA
+Mill,hema,,unknown,HEMA
+Wijk en Aalburg,hema,,unknown,HEMA
+Nieuw-Bergen,hema,,unknown,HEMA
+Hilvarenbeek,hema,,unknown,HEMA
+Reusel,hema,,unknown,HEMA
+Baarle-Nassau,hema,,unknown,HEMA
+Made,hema,,unknown,HEMA
+Drunen,hema,,unknown,HEMA
+Rosmalen,hema,,unknown,HEMA
+Zundert,hema,,unknown,HEMA
+Mierlo,hema,,unknown,HEMA
+Hoogerheide,hema,,unknown,HEMA
+Heesch,hema,,unknown,HEMA
+Son,hema,,unknown,HEMA
+Berlicum,hema,,unknown,HEMA
+Werkendam,hema,,unknown,HEMA
+Grave,hema,,unknown,HEMA
+Heeze,hema,,unknown,HEMA
+Oirschot,hema,,unknown,HEMA
+Halsteren,hema,,unknown,HEMA
+Oudenbosch,hema,,unknown,HEMA
+Schaijk,hema,,unknown,HEMA
+Den Bosch,hm_nl,Arena 101,unknown,H&M Den Bosch
+Eindhoven,hm_nl,Heuvel Galerie 160,unknown,H&M Eindhoven Heuvel
+Bergen op Zoom,hm_nl,Voetboog 5,unknown,H&M Bergen op Zoom
+Eindhoven,hm_nl,Woensel 276,unknown,H&M Eindhoven Woensel
+Roosendaal,hm_nl,Nieuwe Markt 3,unknown,H&M Roosendaal
+Tilburg,hm_nl,Heuvelstraat 75,unknown,H&M Tilburg
+Etten Leur,hm_nl,Winkelcentrum 30,unknown,H&M Etten-Leur
+Helmond,hm_nl,Markt 17,unknown,H&M Helmond
+Waalwijk,hm_nl,De Els 66,unknown,H&M Waalwijk
+Uden,hm_nl,Promenade 62,unknown,H&M Uden
+Oosterhout,hm_nl,Arendshof 295,unknown,H&M Oosterhout
+Breda,hm_nl,Ginnekenstraat 30-32,unknown,H&M Breda
+BREDA,ikks,,unknown,IKKS Women BREDA
+Gemeente Best,ionity,,unknown,Best
+Gemeente Oosterhout,ionity,,unknown,Oosterhout
+Woudrichem,lukoil,Almkerkseweg 3C 4285 WZ Woudrichem Netherlands,unknown,ROTONDE Woudrichem
+Wijk en Aalburg,lukoil,Maasdijk 22 4261 AD Wijk en Aalburg Netherlands,unknown,ROTONDE Wijk & Aalburg
+Werkendam,lukoil,Bolstrastraat 15 4251 LK Werkendam Netherlands,unknown,ROTONDE Werkendam
+Best,lukoil,Oranjestraat 95 5682 CB Best Netherlands,unknown,VEROLMA Expr Best
+Maarheze,lukoil,Moonslaan 2 6026 EJ Maarheze Netherlands,unknown,VEROLMA Maarheeze
+Gemeente Tilburg,shurgard,,unknown,Tilburg
+Gemeente Veldhoven,shurgard,,unknown,Veldhoven
+Gemeente Eindhoven,shurgard,,unknown,Eindhoven Acht
+Gemeente 's-Hertogenbosch,shurgard,,unknown,Den Bosch
+Gemeente Breda,shurgard,,unknown,Breda
+Breda,starbucks_eu,Hazeldonk 5002 4836 LZ Breda,unknown,Breda - Shell Hazeldonk West (E19)
+Breda,starbucks_eu,Gravinnen van Nassauboulevard 27 4811 BN Breda,unknown,Breda Central Station -
+Tilburg,starbucks_eu,Warandelaan 2 Goossens Building 5037 AB Tilburg,unknown,University of Tilburg
+Eindhoven,starbucks_eu,Luchthavenweg 25 047 5657 EA Eindhoven,unknown,Eindhoven Airport -
+Eindhoven,starbucks_eu,Luchthavenweg 25 5657 EA Eindhoven,unknown,Eindhoven Airport Airside -
+Eindhoven,starbucks_eu,Rechtestraat 27 5611 GM Eindhoven Paises Bajos 5611 GM Eindhoven,unknown,Eindhoven Rechtestraat 27
+Eindhoven,starbucks_eu,Hermanus Boexstraat 5611 AJ Eindhoven,unknown,Eindhoven Hermanus Boexstraat
+Eindhoven,starbucks_eu,Neckerspoel Stationsplein 22 17 5611 AD Eindhoven,unknown,Eindhoven Central Station -
+Tilburg,starbucks_eu,Tilburg CS 5038 CB Tilburg,unknown,Tilburg Station
+Tilburg,starbucks_eu,Paleisring 27 29 5038 WD Tilburg NL 5038 WD Tilburg,unknown,Tilburg EmmaPassage
+5211 BP s-Hertogenbosch,starbucks_eu,Stationsplein 151 5211 BP s-Hertogenbosch,unknown,Den Bosch Centraal Station -
+Gemeente Eindhoven,tier,,unknown,Tier
+Gemeente Waalre,tier,,unknown,Tier
+Gemeente Son en Breugel,tier,,unknown,Tier
+Gemeente Veldhoven,tier,,unknown,Tier
+HERTOGENBOSCH,timberland,,unknown,Timberland - Den Bosch
+Eindhoven,travelex,Stationsplein 24-3 Eindhoven 5611 AC,unknown,GWK Travelex Eindhoven
+Eindhoven,travelex,Luchthavenweg 21 (in de vertrekhal van Eindhoven Airport) Eindhoven 5657 EA,unknown,GWK Travelex Eindhoven Airport
+Roosendaal,travelex,Stationsplein 1 Roosendaal 4702 VX,unknown,GWK Travelex Roosendaal
+Tilburg,travelex,Spoorlaan 31 Tilburg 5038 CB,unknown,GWK Travelex Tilburg
+Breda,travelex,Gravinnen van Nassauboulevard 59 Breda 4811 BN,unknown,GWK Travelex Breda
+Den Bosch,travelex,Stationsplein 133 Den Bosch 5211 BP,unknown,GWK Travelex Den Bosch
+Eindhoven,travelex,Stationsplein 24-3  Eindhoven  5611 AC,unknown,GWK Travelex Eindhoven
+Roosendaal,travelex,Stationsplein 1  Roosendaal  4702 VX,unknown,GWK Travelex Roosendaal
+Tilburg,travelex,Spoorlaan 39  Tilburg  5038 CB,unknown,GWK Travelex Tilburg
+Breda,travelex,Gravinnen van Nassauboulevard 59  Breda  4811 BN,unknown,GWK Travelex Breda
+Den Bosch,travelex,Stationsplein 133  Den Bosch  5211 BP,unknown,GWK Travelex Den Bosch
+Eindhoven,travelex,Luchthavenweg 21  Eindhoven  5657 EA,unknown,GWK Travelex Eindhoven Airport
+Schijndel,western_union,,unknown,PHONE STUDIO
+S Hertogenbosch,western_union,,unknown,MAGIC PHONE ROMPERT
+Geldrop,western_union,,unknown,ZIELONA ZABKA B V
+Veldhoven,western_union,,unknown,APPLEAMBULANCE
+Hilvarenbeek,western_union,,unknown,FIXPOINT SMARTPHONE REPAIR
+Uden,western_union,,unknown,REPAIRPOINT UDEN

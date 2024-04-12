@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1387132,usps,WEST PARK,,WEST PARK,NY,,US,+1 845-384-6717,,"Mo-Fr 10:00-13:00,14:00-17:00; Sa 09:00-12:00",United States Postal Service,Q668687
+1249300003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,1740 ROUTE 9W,WEST PARK,NY,,US,,,,United States Postal Service,Q668687
+1249300001,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,1740 ROUTE 9W,WEST PARK,NY,,US,,,,United States Postal Service,Q668687
+1249300002,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,1740 ROUTE 9W ( LOBBY DROP SLOT ),WEST PARK,NY,,US,,,,United States Postal Service,Q668687

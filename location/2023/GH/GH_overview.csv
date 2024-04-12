@@ -1,0 +1,745 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,2
+GL350284596,avis,Accra,1
+WESTERN,beer_store,unknown,1
+UNKNOWN,bmw_group,Kumasi,1
+UNKNOWN,bmw_group,Takoradi,1
+UNKNOWN,ernst_young,Accra,1
+WESTERN,e_leclerc,CREVECOEUR LE GRAND,1
+GREATERACCRA,fedex,Accra,1
+UNKNOWN,ford,Accra,4
+GREATERACCRA,google_offices,unknown,1
+UNITEDSTATES,jll,New Jersey,1
+FLORIDA,jll,West Palm Beach,1
+UNITEDKINGDOM,jll,London,3
+ASIAPACIFIC,jll,Singapore,2
+ASIAPACIFIC,jll,Korea,1
+UNITEDSTATES,jll,California,1
+WESTERN,jll,unknown,1
+WR,little_free_library,TAKORADLH,1
+WESTERN,louisa_coffee,unknown,8
+UNKNOWN,man_truck_and_bus,Accra Community 25,1
+UNKNOWN,marriott,Accra,1
+GREATERACCRAREGION,mercedes_benz,Accra,1
+UNKNOWN,moneygram,ACCRA,668
+UNKNOWN,moneygram,KUMASI,200
+UNKNOWN,moneygram,YEJI,1
+UNKNOWN,moneygram,TARKWA,14
+UNKNOWN,moneygram,SUNYANI,35
+UNKNOWN,moneygram,NUNGUA,1
+UNKNOWN,moneygram,TEMA,61
+UNKNOWN,moneygram,BEREKUM,7
+UNKNOWN,moneygram,DENU,2
+UNKNOWN,moneygram,TECHIMAN,20
+UNKNOWN,moneygram,WESTERN,3
+UNKNOWN,moneygram,TAMALE,40
+UNKNOWN,moneygram,EJISU,3
+UNKNOWN,moneygram,TAKORADI,47
+UNKNOWN,moneygram,KASOA,19
+UNKNOWN,moneygram,JUABOSO,2
+UNKNOWN,moneygram,KPASSA,2
+UNKNOWN,moneygram,SWEDRU,5
+UNKNOWN,moneygram,BUI,1
+UNKNOWN,moneygram,ASHAIMAN,3
+UNKNOWN,moneygram,BOLGATANGA,13
+UNKNOWN,moneygram,CAPE COAST,18
+UNKNOWN,moneygram,HO,18
+UNKNOWN,moneygram,KOFORIDUA,29
+UNKNOWN,moneygram,WA,11
+UNKNOWN,moneygram,ABETIFI,1
+UNKNOWN,moneygram,ABUAKWA,2
+UNKNOWN,moneygram,AGONA SWEDRU,7
+UNKNOWN,moneygram,ASAWINSO,1
+UNKNOWN,moneygram,BAWKU,3
+UNKNOWN,moneygram,BOLE,3
+UNKNOWN,moneygram,DINKWAW ON OFFIN,1
+UNKNOWN,moneygram,KRONUM,1
+UNKNOWN,moneygram,MAAKRO,1
+UNKNOWN,moneygram,NEW ABIREM,2
+UNKNOWN,moneygram,SOKOBAN,2
+UNKNOWN,moneygram,WINNEBA,4
+UNKNOWN,moneygram,BIBIANI,4
+UNKNOWN,moneygram,ADA,1
+UNKNOWN,moneygram,LAPAZ,1
+UNKNOWN,moneygram,WENCHI,3
+UNKNOWN,moneygram,GAOSO,1
+UNKNOWN,moneygram,CENTRAL,4
+UNKNOWN,moneygram,DORMAA,1
+UNKNOWN,moneygram,SAMPA,2
+UNKNOWN,moneygram,AFLAO,5
+UNKNOWN,moneygram,SOMANYA,2
+UNKNOWN,moneygram,ACHIMOTA,2
+UNKNOWN,moneygram,ADUM,1
+UNKNOWN,moneygram,ASAMANKESE,2
+UNKNOWN,moneygram,AKIM ODA,4
+UNKNOWN,moneygram,DUNKWA,3
+UNKNOWN,moneygram,GOASO,5
+UNKNOWN,moneygram,KONONGO,4
+UNKNOWN,moneygram,KWASHIMAN,1
+UNKNOWN,moneygram,MAMPONG,3
+UNKNOWN,moneygram,MANKESSIM,4
+UNKNOWN,moneygram,NKAWKAW,7
+UNKNOWN,moneygram,OBUASI,9
+UNKNOWN,moneygram,OFFINSO,3
+UNKNOWN,moneygram,SALAGA,1
+UNKNOWN,moneygram,SUHUM,2
+UNKNOWN,moneygram,TAFO,1
+UNKNOWN,moneygram,BAWJIASE,1
+UNKNOWN,moneygram,ASHIAMAN,1
+UNKNOWN,moneygram,ESIAMA,3
+UNKNOWN,moneygram,DWENASE,1
+UNKNOWN,moneygram,CENTRAL REGION,5
+UNKNOWN,moneygram,ASHANTI REGION,1
+UNKNOWN,moneygram,SUAME,2
+UNKNOWN,moneygram,HOHOE,4
+UNKNOWN,moneygram,DUNKWA-ON-OFFIN,1
+UNKNOWN,moneygram,KINTAMPO,4
+UNKNOWN,moneygram,NKWANTA,4
+UNKNOWN,moneygram,SAWLA,1
+UNKNOWN,moneygram,YENDI,3
+UNKNOWN,moneygram,SEKONDI-TAKORADI,1
+UNKNOWN,moneygram,OSU,3
+UNKNOWN,moneygram,EMA,1
+UNKNOWN,moneygram,NSAWAM,2
+UNKNOWN,moneygram,ACCRA NORTH,1
+UNKNOWN,moneygram,AHINSAN,1
+UNKNOWN,moneygram,BECHEM,2
+UNKNOWN,moneygram,KETA,1
+UNKNOWN,moneygram,NEW TAFO,2
+UNKNOWN,moneygram,TAMALE MAIN,1
+UNKNOWN,moneygram,TANTRA HILL,1
+UNKNOWN,moneygram,TEMA FISHING HARBOUR,1
+UNKNOWN,moneygram,WEIJA,2
+UNKNOWN,moneygram,NKRANNKWANTA,1
+UNKNOWN,moneygram,DROBO,1
+UNKNOWN,moneygram,NALERIGU,1
+UNKNOWN,moneygram,DORMAA AHENKRO,4
+UNKNOWN,moneygram,KPONE-TEMA,1
+UNKNOWN,moneygram,AWOSHIE,1
+UNKNOWN,moneygram,SANTA MARIA,1
+UNKNOWN,moneygram,BUKOM,1
+UNKNOWN,moneygram,ENCHI,3
+UNKNOWN,moneygram,GREL,1
+UNKNOWN,moneygram,KPANDO,1
+UNKNOWN,moneygram,BAATSONA,1
+UNKNOWN,moneygram,SWEDRU TEXACO,1
+UNKNOWN,moneygram,NANDOM,1
+UNKNOWN,moneygram,AXIM,2
+UNKNOWN,moneygram,EJISU MAIN,1
+UNKNOWN,moneygram,KOMENDA,1
+UNKNOWN,moneygram,APAM,2
+UNKNOWN,moneygram,BOHYEN,1
+UNKNOWN,moneygram,PAGA,1
+UNKNOWN,moneygram,PUSIGA,1
+UNKNOWN,moneygram,AJUMAKO,1
+UNKNOWN,moneygram,LAWRA,1
+UNKNOWN,moneygram,DAMBAI,1
+UNKNOWN,moneygram,SALTPOND,1
+UNKNOWN,moneygram,ZEBILLA,1
+UNKNOWN,moneygram,UCEW-K,1
+UNKNOWN,moneygram,NEW EDUBIASE,2
+UNKNOWN,moneygram,ABURA DUNKWA,1
+UNKNOWN,moneygram,SEFWI-BEKWAI,1
+UNKNOWN,moneygram,JUABEN,1
+UNKNOWN,moneygram,ASH TOWN,1
+UNKNOWN,moneygram,JAMASI,1
+UNKNOWN,moneygram,JIRAPA,1
+UNKNOWN,moneygram,SANDEMA,1
+UNKNOWN,moneygram,SENYA BREKU,1
+UNKNOWN,moneygram,ASANKRAGWA,1
+UNKNOWN,moneygram,TUMU,2
+UNKNOWN,moneygram,SEKONDI,3
+UNKNOWN,moneygram,PRESTEA,1
+UNKNOWN,moneygram,BEKWAI,2
+UNKNOWN,moneygram,BREMAN ASIKUMA,1
+UNKNOWN,moneygram,ELMINA,1
+UNKNOWN,moneygram,AIRPORT,1
+UNKNOWN,moneygram,ATEBUBU,2
+UNKNOWN,moneygram,PRAMPRAM,1
+UNKNOWN,moneygram,STADIUM,1
+UNKNOWN,moneygram,ASAWASE,1
+UNKNOWN,moneygram,BANTAMA,1
+UNKNOWN,moneygram,NAVORONGO,1
+UNKNOWN,moneygram,KOJO BEEDU,1
+UNKNOWN,moneygram,AGONA,1
+UNKNOWN,moneygram,ANYINAM,1
+UNKNOWN,moneygram,MAMPONTENG,1
+UNKNOWN,moneygram,BEGORO,1
+UNKNOWN,moneygram,HALF ASSINI,1
+UNKNOWN,moneygram,KUKURANTUMI,1
+UNKNOWN,moneygram,EJURA,1
+UNKNOWN,moneygram,TEPA,1
+UNKNOWN,moneygram,TESHIE,1
+UNKNOWN,moneygram,DOMPOASE,1
+UNKNOWN,moneygram,SPINTEX,1
+UNKNOWN,moneygram,ABOADZE,1
+UNKNOWN,moneygram,SEFWI WAIWSO,1
+UNKNOWN,moneygram,CAPE COST,1
+UNKNOWN,moneygram,MADINA,1
+UNKNOWN,moneygram,ADUM BANSO,1
+UNKNOWN,moneygram,NKORANZA,1
+UNKNOWN,moneygram,KWAPON,1
+UNKNOWN,moneygram,ASIN,1
+UNKNOWN,moneygram,ESSAM,1
+UNKNOWN,moneygram,KENYASI,2
+UNKNOWN,moneygram,JUAMANG,1
+UNKNOWN,moneygram,SEFWI,1
+UNKNOWN,moneygram,KPANDU,1
+UNKNOWN,moneygram,KPEVE,1
+UNKNOWN,moneygram,ELUBO,1
+UNKNOWN,moneygram,TWIDO PRASO,1
+UNKNOWN,moneygram,BENSO,1
+UNKNOWN,moneygram,NAVRONGO,1
+UNKNOWN,moneygram,SAVELUGU,1
+UNKNOWN,moneygram,SOGAKOPE,1
+UNKNOWN,moneygram,AGONA NKWANTA,1
+UNKNOWN,moneygram,KADE,1
+UNKNOWN,moneygram,GREATER ACCRA,1
+UNKNOWN,moneygram,ASHANTI,1
+UNKNOWN,moneygram,ASIAKWA,1
+UNKNOWN,moneygram,BERKWAI,1
+UNKNOWN,moneygram,SEFWI WIAWSO,1
+UNKNOWN,moneygram,ASSIN-FOSU,1
+UNKNOWN,moneygram,AKOSOMBO,1
+UNKNOWN,moneygram,BOGOSO,1
+UNKNOWN,moneygram,BOLGA,1
+UNKNOWN,moneygram,DANSOMAN,1
+UNKNOWN,moneygram,KENYASE,1
+WESTERN,pepco,unknown,25
+BE,q8_italia,CHARLEROI,1
+MI,q8_italia,MILANO,1
+25,q8_italia,GOLMES,1
+VI,q8_italia,COLCERESA,2
+BA,q8_italia,BARI,1
+NA,q8_italia,NAPOLI,1
+WESTERN,sbarro,ISTANBUL ,1
+ASUNCIÓN,sbarro,ASUNCIÓN,1
+WESTERN,sbarro,TAMUNING 96911,1
+WESTERN,sbarro,Mexico City,1
+UNKNOWN,scania,Tema,1
+GHANA,shell,Konongo,1
+GHANA,shell,Bomfa,1
+GHANA,shell,Kumasi,46
+GHANA,shell,Unknown,7
+GHANA,shell,Fumesua,1
+GHANA,shell,Akim Akoase,1
+GHANA,shell,Nkawkaw,2
+GHANA,shell,Tema,18
+GHANA,shell,Anwiankwanta,1
+GHANA,shell,Ashanti,1
+GHANA,shell,Accra,59
+GHANA,shell,Madina,1
+GHANA,shell,Kwabenya,1
+GHANA,shell,Teshie,1
+GHANA,shell,Dormaa Ahenkro,1
+GHANA,shell,Goaso,1
+GHANA,shell,Kukuom,1
+GHANA,shell,Sefwi Wiawso,1
+GHANA,shell,Bibiani,1
+GHANA,shell,Sunyani,3
+GHANA,shell,Kpandu,1
+GHANA,shell,Nkonya,1
+GHANA,shell,Hohoe,2
+GHANA,shell,Ho,1
+GHANA,shell,Asikuma,1
+GHANA,shell,Atimpoku,1
+GHANA,shell,Akatsi,2
+GHANA,shell,Koforidua,6
+GHANA,shell,Suhum,1
+GHANA,shell,Denu,1
+GHANA,shell,Aflao,1
+GHANA,shell,Afienya Mataheko,1
+GHANA,shell,Keta,1
+GHANA,shell,Nsawam,2
+GHANA,shell,Nsawam Agoagyiri,1
+GHANA,shell,Bolgatanga,2
+GHANA,shell,Pusu Namongo,1
+GHANA,shell,Yendi,1
+GHANA,shell,Tamale,8
+GHANA,shell,Savelugu,1
+GHANA,shell,Kintampo,1
+GHANA,shell,Wa,1
+GHANA,shell,Nadowli,1
+GHANA,shell,Techiman,3
+GHANA,shell,Akomadan,1
+GHANA,shell,Hamile,1
+GHANA,shell,unknown,2
+GHANA,shell,Brofuyedur,1
+GHANA,shell,Wassa Akropong,1
+GHANA,shell,Finaso,1
+GHANA,shell,Obuasi,1
+GHANA,shell,Bogoso,1
+GHANA,shell,Prestea,1
+GHANA,shell,Abuakwa-Kumasi,1
+GHANA,shell,Ntensere,1
+GHANA,shell,Tarkwa,1
+GHANA,shell,Tarkwah,1
+GHANA,shell,Takoradi,12
+GHANA,shell,Komenda,1
+GHANA,shell,Cape Coast,2
+GHANA,shell,Elmina,1
+GHANA,shell,Central Region,1
+GHANA,shell,Mankessim,1
+GHANA,shell,Assin Manso,1
+GHANA,shell,Assin Fosu,1
+GHANA,shell,Elubo,1
+GHANA,shell,Swedru,1
+GHANA,shell,Akim Oda,2
+GHANA,shell,Gomoa Okyereko,1
+GHANA,shell,Kasoa,4
+GHANA,shell,Nungua-Tema Beach Road,1
+WESTERN,swarco_e_connect,unknown,4
+WESTERN,tier,unknown,1
+UNKNOWN,totalenergies,Accra,38
+UNKNOWN,totalenergies,ACCRA,82
+UNKNOWN,totalenergies,WA,14
+UNKNOWN,totalenergies,KOFORIDUA,32
+UNKNOWN,totalenergies,SUNYANI,8
+UNKNOWN,totalenergies,KUMASI,49
+UNKNOWN,totalenergies,ADENTA,2
+UNKNOWN,totalenergies,Aboabo,1
+UNKNOWN,totalenergies,Abossey Okai,1
+UNKNOWN,totalenergies,Abrepo,1
+UNKNOWN,totalenergies,Achimota,1
+UNKNOWN,totalenergies,Pokuase,1
+UNKNOWN,totalenergies,Aflao,1
+UNKNOWN,totalenergies,Afrancho,1
+UNKNOWN,totalenergies,TAKORADI,24
+UNKNOWN,totalenergies,HO,15
+UNKNOWN,totalenergies,Takoradi,8
+UNKNOWN,totalenergies,Kumasi,30
+UNKNOWN,totalenergies,Akim oda,1
+UNKNOWN,totalenergies,Akosombo,1
+UNKNOWN,totalenergies,Ngleshi Amanfro,1
+UNKNOWN,totalenergies,Ashaiman,1
+UNKNOWN,totalenergies,Foso,1
+UNKNOWN,totalenergies,Medie,2
+UNKNOWN,totalenergies,Knust,1
+UNKNOWN,totalenergies,Bawku,1
+UNKNOWN,totalenergies,BAWKU,3
+UNKNOWN,totalenergies,Bechem,1
+UNKNOWN,totalenergies,Bekwai,1
+UNKNOWN,totalenergies,Berekum,4
+UNKNOWN,totalenergies,Bogoso,1
+UNKNOWN,totalenergies,DAMONGO,2
+UNKNOWN,totalenergies,BOLGATANGA,10
+UNKNOWN,totalenergies,Bolgatanga,1
+UNKNOWN,totalenergies,Buduburam,1
+UNKNOWN,totalenergies,Cape Coast,6
+UNKNOWN,totalenergies,Tema,12
+UNKNOWN,totalenergies,Daboya,1
+UNKNOWN,totalenergies,Sunyani,3
+UNKNOWN,totalenergies,Dunkwa,1
+UNKNOWN,totalenergies,Dzodze,1
+UNKNOWN,totalenergies,Elubo,1
+UNKNOWN,totalenergies,Nsawam,3
+UNKNOWN,totalenergies,Haasto,1
+UNKNOWN,totalenergies,Ashiedu Keteke,1
+UNKNOWN,totalenergies,Ho,2
+UNKNOWN,totalenergies,Ho Dome,1
+UNKNOWN,totalenergies,Hohoe,1
+UNKNOWN,totalenergies,Inchaban,1
+UNKNOWN,totalenergies,James Town,1
+UNKNOWN,totalenergies,Kyebi,1
+UNKNOWN,totalenergies,Kintampo,1
+UNKNOWN,totalenergies,Asafo,1
+UNKNOWN,totalenergies,Koforidua,6
+UNKNOWN,totalenergies,Konongo,1
+UNKNOWN,totalenergies,Kotobabi,1
+UNKNOWN,totalenergies,Kpando,1
+UNKNOWN,totalenergies,Krofrom,1
+UNKNOWN,totalenergies,Labadi,2
+UNKNOWN,totalenergies,Legon,2
+UNKNOWN,totalenergies,Laterbiokorshie,1
+UNKNOWN,totalenergies,Mallam,1
+UNKNOWN,totalenergies,Asuoyeboa,1
+UNKNOWN,totalenergies,Tamale,3
+UNKNOWN,totalenergies,Nkawkaw,1
+UNKNOWN,totalenergies,Kaneshie,3
+UNKNOWN,totalenergies,Nungua,1
+UNKNOWN,totalenergies,Graphic Road,1
+UNKNOWN,totalenergies,Obuasi,3
+UNKNOWN,totalenergies,Ofankor,1
+UNKNOWN,totalenergies,Tafo,1
+UNKNOWN,totalenergies,Sakaman,1
+UNKNOWN,totalenergies,Sakumono,1
+UNKNOWN,totalenergies,Sankore,1
+UNKNOWN,totalenergies,Sogakope,1
+UNKNOWN,totalenergies,Somanya,1
+UNKNOWN,totalenergies,Suhum,1
+UNKNOWN,totalenergies,Agona Swedru,3
+UNKNOWN,totalenergies,CAPE COAST,13
+UNKNOWN,totalenergies,Tarkwa,2
+UNKNOWN,totalenergies,Techiman,3
+UNKNOWN,totalenergies,Tumu,1
+UNKNOWN,totalenergies,Wa,1
+UNKNOWN,totalenergies,NALERIGU,2
+UNKNOWN,totalenergies,Winneba,1
+UNKNOWN,totalenergies,Osu,1
+UNKNOWN,totalenergies,Yamoransa,1
+UNKNOWN,totalenergies,Yendi,2
+UNKNOWN,totalenergies,Spintex,2
+UNKNOWN,totalenergies,WINNEBA,2
+UNKNOWN,totalenergies,Aburi,1
+UNKNOWN,totalenergies,Salaga,1
+UNKNOWN,totalenergies,Bibiani,1
+UNKNOWN,totalenergies,Lapaz,1
+UNKNOWN,totalenergies,GOASO,4
+UNKNOWN,totalenergies,AMASAMAN,1
+UNKNOWN,totalenergies,TEMA,7
+UNKNOWN,totalenergies,Sekondi-Takoradi,1
+UNKNOWN,totalenergies,BUIPE,1
+UNKNOWN,totalenergies,TAMALE,10
+UNKNOWN,totalenergies,CENTRAL,5
+UNKNOWN,totalenergies,SEFWI WIASO,2
+UNKNOWN,totalenergies,TARKWA,4
+UNKNOWN,totalenergies,WESTERN REGION,1
+UNKNOWN,totalenergies,KASOA,2
+UNKNOWN,totalenergies,EASTERN,1
+UNKNOWN,totalenergies,OBUASI,2
+UNKNOWN,totalenergies,unknown,3
+UNKNOWN,totalenergies,GBAWE,1
+UNKNOWN,totalenergies,TECHIMAM,2
+UNKNOWN,totalenergies,TECHIMAN,1
+UNKNOWN,totalenergies,SEKONDI-TAKORADI,3
+UNKNOWN,totalenergies,SALAGA,1
+UNKNOWN,totalenergies,BURMA,1
+UNKNOWN,totalenergies,Cantoments Rd,1
+UNKNOWN,totalenergies,Dansoman,1
+UNKNOWN,totalenergies,Darkuman,1
+UNKNOWN,totalenergies,DAWHENYA,1
+GREATERACCRA,visa,TEMA,2
+NA,visa,TAKORADI,2
+UNKNOWN,visa,TAKORADI,11
+WESTERN,visa,TAKORADI,2
+UNKNOWN,visa,"TAMAKLOE HOUSE, 45 RING ROAD INDUSTRIAL ESTATES,SOUTH EXTENSION,ACCRA",1
+WESTERNREGION,visa,TAKORADI,1
+UNKNOWN,visa,ABOADZE,1
+UNKNOWN,visa,CAPE COAST,9
+UNKNOWN,visa,C. COAST,1
+UNKNOWN,visa,PREMIER TOWERS,1
+UNKNOWN,visa,UNIVERSITY OF CAPE COAST OLD SITE,1
+UNKNOWN,visa,WINNEBA,1
+UNKNOWN,visa,AIRPORT CITY,2
+UNKNOWN,visa,ACCRA,121
+GREATERACCRA,visa,ACCRA,10
+UNKNOWN,visa,KASOA,1
+NA,visa,ACCRA,28
+GTACCRA,visa,ACCRA,20
+UNKNOWN,visa,EASTERN REGION,1
+GTACCRA,visa,SPINTEX,1
+GREATERACCRAREGION,visa,ACCRA,19
+GTACCRA,visa,"ACCRA,",1
+UNKNOWN,visa,GREATER ACCRA,6
+GTACCRA,visa,ADABRAKA,1
+GTACCRA,visa,DANSOMAN,1
+UNKNOWN,visa,GREATER ACCRA - LABONE,1
+UNKNOWN,visa,GREATER ACCRA - TETTEH QUASHI,1
+GTACCRA,visa,KANESHIE,1
+BRONGAHAFA,visa,AIRPORT CITY,1
+GTACCRA,visa,AIRPORT CITY,1
+ASHANTI,visa,AIRPORT CITY,1
+GHANA,visa,ACCRA,1
+ASHANTI,visa,ACCRA,1
+GREATERACCRA,visa,AIRPORT CITY,2
+GREATERACCRA,visa,AIRPORT CITY ACCRA,1
+GTACCRA,visa,ABEKA,1
+GREATERACCRAREGION,visa,TEMA,3
+WESTERNREGION,visa,TARKWA,4
+UNKNOWN,visa,TEMA,17
+UNKNOWN,visa,GREATER ACCRA- EAST LEGON,1
+EASTLEGON,visa,A&C MALL SHOPPING MALL,1
+UNKNOWN,visa,UNIVERSITY OF GHANA LEGON VOLTA HALL,1
+GTACCRA,visa,TEMA,4
+UNKNOWN,visa,TEMA COMMUNITY 1,1
+UNKNOWN,visa,TARKWA,5
+WESTERN,visa,TARKWA,1
+GTACCRA,visa,PRAMPRAM,1
+WESTERNREGION,visa,WASSA,1
+WESTERREGION,visa,TARKWA,1
+WESTERNREGION,visa,BIBIANI,1
+GTACCRA,visa,DODOWA,1
+UNKNOWN,visa,"TETTEH QUARSHIE,ACCRA MALL",1
+EASTERNREGION,visa,KOFORIDUA,2
+EASTERN,visa,KOFORIDUA,1
+UNKNOWN,visa,KOFORIDUA,1
+EASTERNREGION,visa,SOMANYA,1
+ASHANTIREGION,visa,KUMASI,8
+UNKNOWN,visa,HO,2
+VOLTAREGION,visa,HO,1
+CENTRALREGION,visa,KASOA,1
+NA,visa,KUMASI,8
+ASHANTI,visa,BIBIANI,1
+UNKNOWN,visa,BRONG AHAFO,4
+UNKNOWN,visa,KUMASI ASHANTI REGION,1
+UNKNOWN,visa,KUMASI,22
+UNKNOWN,visa,"GOLDEN TULIP HOTEL,ACCRA",1
+UNKNOWN,visa,"PLOT NO.IND/A23/1,HEAVY INDUSTRIAL AREA,TEMA",1
+ASHANTI,visa,KUMASI,3
+UNKNOWN,visa,"TARKWA, WESTERN REGION",1
+GREATERACCRA,visa,WEIJA,1
+GREATERACCRA,visa,ADENTAN,1
+UNKNOWN,visa,SUNYANI,1
+UNKNOWN,visa,TECHIMAN,2
+UNKNOWN,visa,KIA AIRPORT ARIVAL,1
+UNKNOWN,visa,COPU CHRISS,1
+UNKNOWN,visa,"MERIDAIN DRIVE,COMMUNITY 1,TEMA",1
+UNKNOWN,visa,"DAKMAK HOUSE, ACCRA",1
+UNKNOWN,visa,"C26/30, ACCRA-NSAWAM ROAD,ACHIMOTA",1
+UNKNOWN,visa,"PLOT NO.A.229, PLB,AIRPORT RESIDENTIAL AREA",1
+UNKNOWN,visa,"LAGOS STREET, EAST LEGON, ACCRA",1
+UNKNOWN,visa,"HSE. NO.F166-6,NORTH LABONE, ACCRA",1
+UNKNOWN,visa,NEAR AHOJO ROUNDABOUT,1
+UNKNOWN,visa,PRAMPRAM,1
+UNKNOWN,visa,"PLOT 53A, TARKWA MARKO,SUAME",1
+UNKNOWN,visa,OBUASI,2
+BRONGAHAFOREGION,visa,SUNYANI,1
+NORTHERNREGION,visa,TAMALE,3
+UNKNOWN,visa,"32 KAKATSOFA STREET,KANESHIE-ACCRA",1
+UNKNOWN,visa,"18 AYIKU LANE,SPINTEX ROAD",1
+UNKNOWN,visa,TAMALE HOSPITAL,1
+UNKNOWN,visa,TAMALE,8
+UNKNOWN,visa,FREE ZONE,1
+GREATERACCRA,western_union,Accra,427
+UPPEREAST,western_union,Tumu,1
+UPPERWEST,western_union,Wa,10
+NORTHERN,western_union,Wa,1
+UPPERWEST,western_union,Upper West,1
+NORTHERN,western_union,Lawra,1
+UPPERWEST,western_union,Nandom,2
+WESTERN,western_union,Prestea,1
+WESTERN,western_union,Samreboi,1
+WESTERN,western_union,Tarkwa,8
+WESTERN,western_union,Kumasi,1
+ASHANTI,western_union,Tarkwa,1
+WESTERN,western_union,Takoradi,35
+WESTERN,western_union,Bogoso,1
+CENTRAL,western_union,Agona Nkwanta,1
+VOLTA,western_union,Ho,13
+UNKNOWN,western_union,Dabala,1
+GREATERACCRA,western_union,Ashaiman,3
+GREATERACCRA,western_union,Ashiaman,3
+GREATERACCRA,western_union,Tema,49
+GREATERACCRA,western_union,Nungua,2
+CENTRAL,western_union,Asikuma,1
+GREATERACCRA,western_union,Miotso,1
+VOLTA,western_union,Juapong,2
+EASTERN,western_union,Akuse,1
+VOLTA,western_union,Kpeve,1
+GREATERACCRA,western_union,Kpone Katamanso,1
+VOLTA,western_union,Sogakope,4
+VOLTA,western_union,Akatsi,2
+VOLTA,western_union,Abor,1
+GREATERACCRA,western_union,Ada,1
+VOLTA,western_union,Aflao,5
+VOLTA,western_union,Dzodze,2
+VOLTA,western_union,Keta,1
+VOLTA,western_union,Denu,2
+SERBIA,western_union,Kragujevac,1
+SERBIA,western_union,Beograd,1
+BRONGAHAFO,western_union,Sunyani,17
+EASTERN,western_union,Donkorkrom,1
+BRONGAHAFO,western_union,Jema,1
+BRONGAHAFO,western_union,Sampa,2
+BRONGAHAFO,western_union,Atebubu,1
+BONOEAST,western_union,Atebubu,2
+BONOEAST,western_union,Amantin Atebubu,1
+BONOEAST,western_union,Kintampo,1
+BRONGAHAFO,western_union,Kintampo,1
+BRONGAHAFO,western_union,Wenchi,2
+EASTERN,western_union,Somanya,2
+EASTERN,western_union,Akosombo,2
+EASTERN,western_union,Akropong Akwapim,1
+GREATERACCRA,western_union,Teshie Nungua,2
+EASTERN,western_union,Mampong Akuapem,1
+EASTERN,western_union,Mampong Akwapim,1
+BRONGAHAFO,western_union,Brong Ahafo,5
+BONOEAST,western_union,Techiman,8
+BRONGAHAFO,western_union,Nkoranza,3
+BRONGAHAFO,western_union,Techiman,8
+BRONGAHAFO,western_union,Drobo,2
+BONOEAST,western_union,Tarkwa,1
+EASTERN,western_union,Koforidua,21
+EASTERN,western_union,Begoro,2
+ASHANTI,western_union,Ejura,2
+GREATERACCRA,western_union,Teshie,1
+GREATERACCRA,western_union,Oyarifa,1
+GREATERACCRA,western_union,Madina,1
+BONOEAST,western_union,Koforidua,1
+EASTERN,western_union,New Tafo,1
+EASTERN,western_union,New Tafo Akyem,1
+GREATERACCRA,western_union,Accra North,1
+BRONGAHAFO,western_union,Akumadan,1
+UNKNOWN,western_union,Accra,2
+GREATERACCRA,western_union,Lapaz,1
+EASTERN,western_union,Old Tafo,1
+EASTERN,western_union,Kukurantumi,1
+GREATERACCRA,western_union,Kwabenya,1
+BONOEAST,western_union,Berekum,1
+BRONGAHAFO,western_union,Berekum,3
+AHAFO,western_union,Berekum,1
+UNKNOWN,western_union,Berekum,1
+BONOEAST,western_union,Brekum,1
+ACCRA,western_union,Accra,1
+GHANA,western_union,Accra,1
+GREATERACCRA,western_union,Achimota,1
+EASTERN,western_union,Anyinam,1
+EASTERN,western_union,Abetifi,1
+ASHANTI,western_union,Akumadan,1
+GREATERACCRA,western_union,Dansoman,1
+EASTERN,western_union,Nsawam,3
+EASTERN,western_union,Asiakwa,2
+UNKNOWN,western_union,Sege,1
+EASTERN,western_union,Mpraeso,1
+GREATERACCRA,western_union,Ablekuma,1
+BRONGAHAFO,western_union,Dormaa Ahenkro,1
+EASTERN,western_union,Kwabeng,1
+EASTERN,western_union,Suhum,2
+CENTRAL,western_union,Kasoa Nyanyano,1
+CENTRAL,western_union,Kasoa,13
+ASHANTI,western_union,Mampong,2
+EASTERN,western_union,Nkawkaw,5
+EASTERN,western_union,Kibi,2
+BONOEAST,western_union,Sunyani,9
+BONOEAST,western_union,Sunyani B/a,1
+BONOEAST,western_union,Dormaa Ahenkro,1
+GREATERACCRA,western_union,Kasoa,1
+CENTRAL,western_union,Cape Coast,27
+CENTRAL,western_union,Accra,1
+WESTERN,western_union,Kasoa,1
+CENTRAL,western_union,Senya Beraku,1
+EASTERN,western_union,Abomosu,1
+ASHANTI,western_union,Agogo,1
+CENTRAL,western_union,Awutu - Ofaakor,1
+ASHANTI,western_union,Ashanti,1
+BRONGAHAFO,western_union,Odumase,1
+GREATERACCRA,western_union,Adjen Kotoku,1
+EASTERN,western_union,Adjen Kotoku,1
+ASHANTI,western_union,Agona Ashanti,1
+ASHANTI,western_union,Juansa,1
+ASHANTI,western_union,Juaben,2
+BRONGAHAFO,western_union,Duayaw Nkwanta,1
+EASTERN,western_union,New Abirem,2
+ASHANTI,western_union,Kumasi,148
+ASHANTI,western_union,Effiduase,1
+CENTRAL,western_union,Senya Breku,1
+EASTERN,western_union,Asamankese,2
+EASTERN,western_union,Asamankesse,1
+BRONGAHAFO,western_union,Bechem,1
+CENTRAL,western_union,Winneba,4
+ASHANTI,western_union,Juaso,1
+CENTRAL,western_union,Kojo Beedu,1
+ASHANTI,western_union,New Offinso,1
+CENTRAL,western_union,Pomadze,1
+ASHANTI,western_union,Konongo,4
+WESTERN,western_union,Kade,1
+EASTERN,western_union,Kade,1
+CENTRAL,western_union,Agona Swedru,4
+CENTRAL,western_union,Swedru,1
+ASHANTI,western_union,Tepa,2
+ASHANTI,western_union,Tafo,1
+ASHANTI,western_union,Ejisu,4
+BRONGAHAFO,western_union,Hwidiem,1
+BRONGAHAFO,western_union,Kenyasi,1
+ASHANTI,western_union,Kenyasi,1
+ASHANTI,western_union,Panrono Kumasi,1
+ASHANTI,western_union,"Magazine,kumasi",1
+ASHANTI,western_union,Old Tafo Ashanti,1
+ASHANTI,western_union,Kronum,1
+BRONGAHAFO,western_union,Mim,1
+BRONGAHAFO,western_union,Goaso,1
+ASHANTI,western_union,Suame,2
+ASHANTI,western_union,Kunsu,1
+ASHANTI,western_union,Kumasi Aboabo,1
+ASHANTI,western_union,Asawasi,1
+ASHANTI,western_union,Ayeduase,1
+ASHANTI,western_union,Abrepo Bohyen,1
+ASHANTI,western_union,Bohyen,1
+ASHANTI,western_union,Offinso,1
+ASHANTI,western_union,Nhyiaeso,1
+ASHANTI,western_union,Bantama,1
+ASHANTI,western_union,Sofoline,1
+ASHANTI,western_union,Ofoase,1
+ASHANTI,western_union,Abuakwa,1
+ASHANTI,western_union,"Ahinsan,kumasi",1
+AHAFO,western_union,Goaso,1
+BRONGAHAFO,western_union,Gawso,1
+AHAFO,western_union,Gaoso,1
+EASTERN,western_union,Akim Oda,2
+CENTRAL,western_union,Agona Nyakrom,1
+ASHANTI,western_union,Kejetia,1
+CENTRAL,western_union,Mankessim,2
+CENTRAL,western_union,Breman Asikuma,1
+CENTRAL,western_union,Ajumako,1
+BRONGAHAFO,western_union,Sankore,1
+CENTRAL,western_union,Abura Dunkwa,2
+ASHANTI,western_union,New Edubiase,2
+CENTRAL,western_union,New Kotokuraba Market,1
+BRONGAHAFO,western_union,Kwapong,1
+CENTRAL,western_union,Assin Fosu,2
+CENTRAL,western_union,Assin Foso,1
+WESTERNNORTH,western_union,Sefwi Asawinso,1
+ASHANTI,western_union,Obuasi,4
+WESTERN,western_union,Bibiani,1
+WESTERN,western_union,Juaboso,1
+CENTRAL,western_union,Saltpond,1
+CENTRAL,western_union,Ankaful,1
+BRONGAHAFO,western_union,Elluokrom,1
+ASHANTI,western_union,Bekwai,2
+WESTERN,western_union,Sefwi Bekwai,2
+WESTERN,western_union,Dadieso,1
+CENTRAL,western_union,Elmina,3
+WESTERN,western_union,Sekondi,2
+NORTHERN,western_union,Takoradi,1
+EASTERN,western_union,Dunkwa,1
+CENTRAL,western_union,Dunkwa On Offin,1
+WESTERN,western_union,Enchi,2
+WESTERN,western_union,Sefwi Wiawso,2
+WESTERN,western_union,Amanful,1
+CENTRAL,western_union,Dunkwan-on-offin,1
+CENTRAL,western_union,Twifo Praso,1
+ASHANTI,western_union,Sefwi Bekwai,1
+WESTERN,western_union,Sefwi Dwenase,1
+CENTRAL,western_union,Komenda,1
+WESTERNNORTH,western_union,Sefwi Dweanease,1
+WESTERNNORTH,western_union,Sefwi Bodi,1
+VOLTA,western_union,Kete Krachi,1
+WESTERN,western_union,Eikwe,1
+GREATERACCRA,western_union,Esiama,1
+WESTERN,western_union,Esiama,1
+WESTERN,western_union,"Elubo, W/r",1
+WESTERN,western_union,Elubo,1
+WESTERN,western_union,Asankragua,1
+WESTERN,western_union,Asankragua High Street,1
+WESTERN,western_union,Axim,1
+WESTERN,western_union,Agona Amenfi,1
+WESTERN,western_union,Agona Nkwanta,1
+WESTERN,western_union,Half Assini,1
+NORTHERN,western_union,Buipe,2
+VOLTA,western_union,Volta Region,1
+NORTHERN,western_union,Damango,1
+BRONGAHAFO,western_union,Damango,1
+SAVANNAH,western_union,Damongo,1
+BRONGAHAFO,western_union,Yeji,1
+VOLTA,western_union,Nkwanta,2
+NORTHERN,western_union,Salaga,2
+OTI,western_union,Kpassa,1
+NORTHERN,western_union,Tamale,31
+NORTHERN,western_union,Bimbilla,1
+NORTHEAST,western_union,Walewale,1
+NORTHERN,western_union,"Kaladan, Tamale",1
+UPPEREAST,western_union,Adjacent Health Ser Premises,1
+NORTHERN,western_union,Navrongo,1
+UPPEREAST,western_union,Navrongo,2
+UNKNOWN,western_union,Navrongo,1
+NORTHERN,western_union,Saboba,1
+UPPEREAST,western_union,Bolgatanga,10
+NORTHERN,western_union,Bolgatanga,1
+UPPEREAST,western_union,Bolga,2
+UPPEREAST,western_union,Ghana,1
+NORTHERN,western_union,Yendi,2
+UPPEREAST,western_union,Nalerigu,1
+NORTHEAST,western_union,Nalerigu,1
+UPPEREAST,western_union,Zebilla,2
+UPPEREAST,western_union,Bawku,2
+NORTHERN,western_union,Bawku,1

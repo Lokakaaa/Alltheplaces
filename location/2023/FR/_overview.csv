@@ -1,0 +1,441 @@
+City,Place Name,Zipcode,Name
+Marseille,indigo,,unknown,Marseille Euromed
+Bordeaux,indigo,,unknown,Bourse Jean-Jaurès
+Versailles,indigo,,unknown,Saint-Cloud
+Asnières-sur-Seine,indigo,,unknown,Hôtel de ville
+Issy-les-Moulineaux,indigo,,unknown,Camille Desmoulins
+Chaville,indigo,,unknown,Chaville Atrium
+Sèvres,indigo,,unknown,Sèvres Gabriel Péri
+Vanves,indigo,,unknown,Vanves Marché
+Lyon,indigo,,unknown,Parking Opéra
+Lille,indigo,,unknown,Euratechnologies
+Bussy-Saint-Georges,indigo,,unknown,Relais Bienvenue
+Thorigny-sur-Marne,indigo,,unknown,Gare
+Pomponne,indigo,,unknown,Chabanneaux
+Paris,indigo,,unknown,André Honnorat
+Thonon-les-Bains,indigo,,unknown,Aristide Briand
+Nancy,indigo,,unknown,Joffre Saint-Thiébaut
+Tourcoing,indigo,,unknown,Tourcoing Gare P+R
+Poissy,indigo,,unknown,Hôtel de Ville (République)
+Mantes-la-Ville,indigo,,unknown,Parc Relais Jaouen
+Conflans-Sainte-Honorine,indigo,,unknown,Conflans-Sainte-Honorine Parc Armand Leprince
+Salon-de-Provence,indigo,,unknown,Centre hospitalier
+Nîmes,indigo,,unknown,Maison Carrée
+Aigues-Mortes,indigo,,unknown,Voirie et parcs en enclos
+Toulouse,indigo,,unknown,Gare - Marengo
+Nice,indigo,,unknown,Nice Etoile
+Grasse,indigo,,unknown,Hôtel de Ville - Cathédrale
+Saint-Paul-de-Vence,indigo,,unknown,Saint Paul
+La Ciotat,indigo,,unknown,Vieux Port
+Caen,indigo,,unknown,Gardin
+Blagnac,indigo,,unknown,Centre-Ville
+Cagnes-sur-Mer,indigo,,unknown,Mattei et Renoir
+Lunel,indigo,,unknown,Canal
+Tours,indigo,,unknown,Mirabeau
+Vallauris,indigo,,unknown,Espace Loisirs
+Périgueux,indigo,,unknown,Bugeaud
+Montargis,indigo,,unknown,Dorée
+Deauville,indigo,,unknown,Marché
+Vernon,indigo,,unknown,Collégiale
+Laon,indigo,,unknown,Parc Visiteurs
+Trouville-sur-Mer,indigo,,unknown,Foch
+Arcachon,indigo,,unknown,Centre-Ville Gare
+Montpellier,indigo,,unknown,Triangle
+Narbonne,indigo,,unknown,Halles
+Nantes,indigo,,unknown,Confluent
+Rezé,indigo,,unknown,Portes 1 à 4 et Urgences
+Orléans,indigo,,unknown,Le Martroi
+Nevers,indigo,,unknown,Saint-Pierre
+Joué-lès-Tours,indigo,,unknown,Gamard Centre Ville
+Aubervilliers,indigo,,unknown,Marché du Centre
+Le Castellet,indigo,,unknown,La Ferrage et Le cros du Loup
+Le Perreux-sur-Marne,indigo,,unknown,2 Avenues
+Pontoise,indigo,,unknown,Jean Luc Maire
+Saint-Cloud,indigo,,unknown,Libération
+Cannes,indigo,,unknown,Palais Stéphanie
+Noisy-le-Grand,indigo,,unknown,Pavé Neuf
+Meudon,indigo,,unknown,Place Centrale
+Rambouillet,indigo,,unknown,Prairie
+Metz,indigo,,unknown,Saint Jacques
+Argenteuil,indigo,,unknown,Provence
+Rueil-Malmaison,indigo,,unknown,Médiathèque
+Courbevoie,indigo,,unknown,Tour Egée
+Neuilly-sur-Seine,indigo,,unknown,Bagatelle
+Suresnes,indigo,,unknown,Hopital Foch
+Montrouge,indigo,,unknown,Emile Cresp
+Roissy-en-France,indigo,,unknown,CC Aéroville
+Vincennes,indigo,,unknown,Marigny Château
+Ivry-sur-Seine,indigo,,unknown,Quai d'Ivry
+La Garenne-Colombes,indigo,,unknown,Marché Liberté
+Bagnolet,indigo,,unknown,Porte de Bagnolet
+Neuilly-Plaisance,indigo,,unknown,Lamarque
+Ville-d'Avray,indigo,,unknown,Fontaine du Roy
+Malakoff,indigo,,unknown,Parc Plateau de Vanves
+Saint-Denis,indigo,,unknown,Saint-Denis Université
+Rosny-sous-Bois,indigo,,unknown,Centre Ville
+Épinay-sur-Seine,indigo,,unknown,Centre commercial l'Ilo
+Nogent-sur-Marne,indigo,,unknown,SNCF
+Saint-Maur-des-Fossés,indigo,,unknown,Stalingrad
+Mulhouse,indigo,,unknown,Les Halles - La Paix
+Agen,indigo,,unknown,Gare STRUCTURE - P1
+Compiègne,indigo,,unknown,Oise
+Sarreguemines,indigo,,unknown,Le Moulin
+Chambéry,indigo,,unknown,Parking Palais de Justice
+Châlons-en-Champagne,indigo,,unknown,Viviers
+Toul,indigo,,unknown,Place de la République
+La Madeleine,indigo,,unknown,Lille la Madeleine Carrefour Property
+Dunkerque,indigo,,unknown,Centre Commercial Pôle Marine
+Cambrai,indigo,,unknown,C H CAMBRAI
+Clermont-Ferrand,indigo,,unknown,Carmes Delille
+Biarritz,indigo,,unknown,Bellevue
+Strasbourg,indigo,,unknown,Gare Vélos
+Perpignan,indigo,,unknown,Catalogne
+Arras,indigo,,unknown,Centre Hospitalier Arras
+Saint-Jean-de-Luz,indigo,,unknown,Grande Plage
+Achères,indigo,,unknown,Achères Parc-Relais
+Le Chesnay-Rocquencourt,indigo,,unknown,Hôpital André Mignot
+Mantes-la-Jolie,indigo,,unknown,Centre Hospitalier François Quesnay
+Meaux,indigo,,unknown,Meaux Luxembourg
+Saint-Germain-en-Laye,indigo,,unknown,Centre Château
+Amiens,indigo,,unknown,CHU Amiens Picardie
+Toulon,indigo,,unknown,Palais Liberté
+Les Sables-d'Olonne,indigo,,unknown,Plage
+Hyères,indigo,,unknown,Joffre
+Boulogne-Billancourt,indigo,,unknown,BOULOGNE Forum Pont de Sèvres
+Chessy,indigo,,unknown,Hergé Haddock
+Rouen,indigo,,unknown,La Pucelle
+Bures-sur-Yvette,indigo,,unknown,Parc Relais Hacquinière
+Dieppe,indigo,,unknown,Quai de la Marne
+Melun,indigo,,unknown,PSR - Parc de la Gare
+Belfort,indigo,,unknown,Nouvelles Galeries
+Avignon,indigo,,unknown,Oratoire
+Villejuif,indigo,,unknown,Villejuif Louis Aragon
+L'Haÿ-les-Roses,indigo,,unknown,Halle des saveurs
+Beausoleil,indigo,,unknown,Beausoleil Victor Hugo
+Tignes,indigo,,unknown,Borsat
+MARTIGUES,q8_italia,,unknown,unknown
+NARBONNE,q8_italia,,unknown,unknown
+CARCASSONNE,q8_italia,,unknown,unknown
+DONZERE,q8_italia,,unknown,unknown
+LE PRADET,q8_italia,,unknown,unknown
+GAP,q8_italia,,unknown,unknown
+TOULOUSE,q8_italia,,unknown,unknown
+LE MUY,q8_italia,,unknown,unknown
+LIMOUX,q8_italia,,unknown,unknown
+MAGAGNOSC,q8_italia,,unknown,unknown
+BESSAN,q8_italia,,unknown,unknown
+FUVEAU,q8_italia,,unknown,unknown
+NICE,q8_italia,,unknown,unknown
+MONTELIMAR,q8_italia,,unknown,unknown
+CHALON SUR SAONE,q8_italia,,unknown,unknown
+VENISSIEUX,q8_italia,,unknown,unknown
+VILLEFRANCHE SUR SAONE,q8_italia,,unknown,unknown
+DIJON,q8_italia,,unknown,unknown
+CLUSES,q8_italia,,unknown,unknown
+VALENCE,q8_italia,,unknown,unknown
+BESANCON,q8_italia,,unknown,unknown
+BIVIERS,q8_italia,,unknown,unknown
+ALIXAN,q8_italia,,unknown,unknown
+ST PIERRE EN FAUCIGNY,q8_italia,,unknown,unknown
+EYBENS,q8_italia,,unknown,unknown
+LAMBERSART,q8_italia,,unknown,unknown
+SARREGUEMINES,q8_italia,,unknown,unknown
+ST OMER,q8_italia,,unknown,unknown
+BETTING LES ST AVOLD,q8_italia,,unknown,unknown
+LAON,q8_italia,,unknown,unknown
+CAMBRAI,q8_italia,,unknown,unknown
+CERGY,q8_italia,,unknown,unknown
+LA CELLE ST CLOUD,q8_italia,,unknown,unknown
+BONDY,q8_italia,,unknown,unknown
+CHANTILLY,q8_italia,,unknown,unknown
+ST ETIENNE DU ROUVRAY,q8_italia,,unknown,unknown
+LE HAVRE,q8_italia,,unknown,unknown
+LA PATTE D OIE D HERBLAY,q8_italia,,unknown,unknown
+LE PERREUX SUR MARNE,q8_italia,,unknown,unknown
+GENTILLY,q8_italia,,unknown,unknown
+DAMPIERRE SOUS BROU,q8_italia,,unknown,unknown
+AUCAMVILLE,q8_italia,,unknown,unknown
+ROMAGNEUX,q8_italia,,unknown,unknown
+MORIERES-LES-AVIGNON,q8_italia,,unknown,unknown
+DIGNE LES BAINS,q8_italia,,unknown,unknown
+ANTIBES,q8_italia,,unknown,unknown
+AUBAGNE,q8_italia,,unknown,unknown
+SORGUES,q8_italia,,unknown,unknown
+LUNEL,q8_italia,,unknown,unknown
+CASTRES,q8_italia,,unknown,unknown
+PERPIGNAN,q8_italia,,unknown,unknown
+VENDARGUES,q8_italia,,unknown,unknown
+CLERMONT FERRAND,q8_italia,,unknown,unknown
+THONON LES BAINS,q8_italia,,unknown,unknown
+ANNEMASSE,q8_italia,,unknown,unknown
+MARLY,q8_italia,,unknown,unknown
+ARMENTIERES,q8_italia,,unknown,unknown
+ESSEY LES NANCY,q8_italia,,unknown,unknown
+SIN LE NOBLE,q8_italia,,unknown,unknown
+SEDAN,q8_italia,,unknown,unknown
+OETING,q8_italia,,unknown,unknown
+LILLE,q8_italia,,unknown,unknown
+AIRE SUR LA LYS,q8_italia,,unknown,unknown
+BIERNE,q8_italia,,unknown,unknown
+CAMBRIN,q8_italia,,unknown,unknown
+NEUVES MAISONS,q8_italia,,unknown,unknown
+GRAND COURONNE,q8_italia,,unknown,unknown
+ASNIERES SUR SEINE,q8_italia,,unknown,unknown
+AMIENS,q8_italia,,unknown,unknown
+EAUBONNE,q8_italia,,unknown,unknown
+LE BLANC MESNIL,q8_italia,,unknown,unknown
+BIEVRES,q8_italia,,unknown,unknown
+SUCY EN BRIE,q8_italia,,unknown,unknown
+CHALONS EN CHAMPAGNE,q8_italia,,unknown,unknown
+ARCUEIL,q8_italia,,unknown,unknown
+PARIS,q8_italia,,unknown,unknown
+ROISSY EN BRIE,q8_italia,,unknown,unknown
+PIERRELAYE,q8_italia,,unknown,unknown
+RICHARDMENIL,q8_italia,,unknown,unknown
+PERONNE,q8_italia,,unknown,unknown
+BEAUNE LES MINES,q8_italia,,unknown,unknown
+ST JEAN DU CARDONNAY,q8_italia,,unknown,unknown
+GEVREY CHAMBERTIN,q8_italia,,unknown,unknown
+MOISSELLES,q8_italia,,unknown,unknown
+PORT LEUCATE,q8_italia,,unknown,unknown
+LA BAUME D'HOSTUN,q8_italia,,unknown,unknown
+PESSAC,q8_italia,,unknown,unknown
+BLAGNAC,q8_italia,,unknown,unknown
+FOS SUR MER,q8_italia,,unknown,unknown
+PAU,q8_italia,,unknown,unknown
+VILLEFRANCHE DE ROUERGUE,q8_italia,,unknown,unknown
+MARSEILLE  7,q8_italia,,unknown,unknown
+LE CANNET,q8_italia,,unknown,unknown
+MARSEILLE 15,q8_italia,,unknown,unknown
+MOIRANS,q8_italia,,unknown,unknown
+DOLE,q8_italia,,unknown,unknown
+BOURGOIN JALLIEU,q8_italia,,unknown,unknown
+FRANCHEVILLE,q8_italia,,unknown,unknown
+DECINES CHARPIEU,q8_italia,,unknown,unknown
+MALZEVILLE,q8_italia,,unknown,unknown
+NANCY,q8_italia,,unknown,unknown
+VALENCIENNES,q8_italia,,unknown,unknown
+COMPIEGNE,q8_italia,,unknown,unknown
+WITTENHEIM,q8_italia,,unknown,unknown
+HAGUENAU,q8_italia,,unknown,unknown
+METZ,q8_italia,,unknown,unknown
+VAUXBUIN,q8_italia,,unknown,unknown
+SARREBOURG,q8_italia,,unknown,unknown
+HORBOURG WIHR,q8_italia,,unknown,unknown
+LE TRAIT,q8_italia,,unknown,unknown
+HOUILLES,q8_italia,,unknown,unknown
+IGOVILLE,q8_italia,,unknown,unknown
+BAYEUX,q8_italia,,unknown,unknown
+ND DE GRAVENCHON,q8_italia,,unknown,unknown
+ALENCON,q8_italia,,unknown,unknown
+LA GARENNE COLOMBES,q8_italia,,unknown,unknown
+AUXERRE,q8_italia,,unknown,unknown
+BAR SUR SEINE,q8_italia,,unknown,unknown
+CHOISY LE ROI,q8_italia,,unknown,unknown
+CHILLY MAZARIN,q8_italia,,unknown,unknown
+ST GERMAIN LES ARPAJON,q8_italia,,unknown,unknown
+MAISONS ALFORT,q8_italia,,unknown,unknown
+BRUGES,q8_italia,,unknown,unknown
+BRIGNOUD,q8_italia,,unknown,unknown
+LABENNE,q8_italia,,unknown,unknown
+BRESSOLS,q8_italia,,unknown,unknown
+AIX EN PROVENCE,q8_italia,,unknown,unknown
+CANNES,q8_italia,,unknown,unknown
+MONTPELLIER,q8_italia,,unknown,unknown
+ST ETIENNE,q8_italia,,unknown,unknown
+BEAUNE,q8_italia,,unknown,unknown
+ANNECY,q8_italia,,unknown,unknown
+MARCQ EN BAROEUL,q8_italia,,unknown,unknown
+ARS SUR MOSELLE,q8_italia,,unknown,unknown
+ROUBAIX,q8_italia,,unknown,unknown
+LONGFOSSE,q8_italia,,unknown,unknown
+SOISSONS,q8_italia,,unknown,unknown
+FOUGERES,q8_italia,,unknown,unknown
+BEAUVAIS,q8_italia,,unknown,unknown
+EPINAY SUR SEINE,q8_italia,,unknown,unknown
+LE VESINET,q8_italia,,unknown,unknown
+PARIS 10,q8_italia,,unknown,unknown
+REIMS,q8_italia,,unknown,unknown
+CHEVILLY LARUE,q8_italia,,unknown,unknown
+NOISY LE GRAND,q8_italia,,unknown,unknown
+FOUCHERES,q8_italia,,unknown,unknown
+VILLERBON,q8_italia,,unknown,unknown
+BLIGNY SUR OUCHE,q8_italia,,unknown,unknown
+ST SULPICE LES FEUILLES,q8_italia,,unknown,unknown
+RELY,q8_italia,,unknown,unknown
+CORBEIL ESSONNES,q8_italia,,unknown,unknown
+LAGNY SUR MARNE,q8_italia,,unknown,unknown
+VILLEFRANCHE SUR MER,q8_italia,,unknown,unknown
+PORTET SUR GARONNE,q8_italia,,unknown,unknown
+PIA,q8_italia,,unknown,unknown
+TARBES,q8_italia,,unknown,unknown
+NIMES,q8_italia,,unknown,unknown
+ALBI,q8_italia,,unknown,unknown
+MARSEILLE 10,q8_italia,,unknown,unknown
+PLAN DE CUQUES,q8_italia,,unknown,unknown
+MARSEILLE  8,q8_italia,,unknown,unknown
+TASSIN LA DEMI LUNE,q8_italia,,unknown,unknown
+ECULLY,q8_italia,,unknown,unknown
+CRAN GEVRIER,q8_italia,,unknown,unknown
+CHAMBERY,q8_italia,,unknown,unknown
+ST LAURENT DE MURE,q8_italia,,unknown,unknown
+JOEUF,q8_italia,,unknown,unknown
+HAYANGE,q8_italia,,unknown,unknown
+VOUZIERS,q8_italia,,unknown,unknown
+ERSTEIN,q8_italia,,unknown,unknown
+LE QUESNOY,q8_italia,,unknown,unknown
+CHAUMONT,q8_italia,,unknown,unknown
+FORBACH,q8_italia,,unknown,unknown
+PHALSBOURG,q8_italia,,unknown,unknown
+VERSAILLES,q8_italia,,unknown,unknown
+ARNOUVILLE LES GONESSE,q8_italia,,unknown,unknown
+MATHIEU,q8_italia,,unknown,unknown
+CLAMART,q8_italia,,unknown,unknown
+SAINT MAUR,q8_italia,,unknown,unknown
+MEAUX,q8_italia,,unknown,unknown
+VITRY,q8_italia,,unknown,unknown
+AUTHEZAT,q8_italia,,unknown,unknown
+VITRIMONT,q8_italia,,unknown,unknown
+LA VALETTE DU VAR,q8_italia,,unknown,unknown
+BOUC BEL AIR,q8_italia,,unknown,unknown
+COUPVRAY,q8_italia,,unknown,unknown
+MARMAGNE,q8_italia,,unknown,unknown
+BRIGNOLES,q8_italia,,unknown,unknown
+LOURDES,q8_italia,,unknown,unknown
+CRAPONNE,q8_italia,,unknown,unknown
+SAIN BEL,q8_italia,,unknown,unknown
+RIOM,q8_italia,,unknown,unknown
+LE PUY EN VELAY,q8_italia,,unknown,unknown
+CHAMALIERES,q8_italia,,unknown,unknown
+AVESNES SUR HELPE,q8_italia,,unknown,unknown
+GRENAY,q8_italia,,unknown,unknown
+DOMBASLE SUR MEURTHE,q8_italia,,unknown,unknown
+VERDUN,q8_italia,,unknown,unknown
+ST DIZIER,q8_italia,,unknown,unknown
+LE PECQ,q8_italia,,unknown,unknown
+FRANCONVILLE,q8_italia,,unknown,unknown
+OUISTREHAM,q8_italia,,unknown,unknown
+DIEPPE,q8_italia,,unknown,unknown
+AVON,q8_italia,,unknown,unknown
+MONTGERON,q8_italia,,unknown,unknown
+TROYES,q8_italia,,unknown,unknown
+ISSY LES MOULINEAUX,q8_italia,,unknown,unknown
+FAGNIERES,q8_italia,,unknown,unknown
+CRETEIL,q8_italia,,unknown,unknown
+MIGENNES,q8_italia,,unknown,unknown
+ANTONY,q8_italia,,unknown,unknown
+RIS ORANGIS,q8_italia,,unknown,unknown
+EVRY,q8_italia,,unknown,unknown
+ANTRAN,q8_italia,,unknown,unknown
+TAVEL,q8_italia,,unknown,unknown
+LES VEYS,q8_italia,,unknown,unknown
+ST DENIS D ORQUES,q8_italia,,unknown,unknown
+BOLLEVILLE,q8_italia,,unknown,unknown
+WOIPPY,q8_italia,,unknown,unknown
+LA MAXE,q8_italia,,unknown,unknown
+LES CHERES,q8_italia,,unknown,unknown
+VIRONVAY,q8_italia,,unknown,unknown
+COLOMIERS,q8_italia,,unknown,unknown
+DECAZEVILLE,q8_italia,,unknown,unknown
+GRASSE,q8_italia,,unknown,unknown
+LYON  9,q8_italia,,unknown,unknown
+MEYZIEU,q8_italia,,unknown,unknown
+GENLIS,q8_italia,,unknown,unknown
+AIX LES BAINS,q8_italia,,unknown,unknown
+DARDILLY,q8_italia,,unknown,unknown
+LES ECHETS,q8_italia,,unknown,unknown
+PIERRE BENITE,q8_italia,,unknown,unknown
+VOIRON,q8_italia,,unknown,unknown
+ST MICHEL SUR TERNOISE,q8_italia,,unknown,unknown
+CHATEAU SALINS,q8_italia,,unknown,unknown
+CHARLEVILLE MEZIERES,q8_italia,,unknown,unknown
+LENS,q8_italia,,unknown,unknown
+CLIRON,q8_italia,,unknown,unknown
+STRASBOURG MEINAU,q8_italia,,unknown,unknown
+TOURCOING,q8_italia,,unknown,unknown
+ST POL SUR MER,q8_italia,,unknown,unknown
+FOUQUIERES LES LENS,q8_italia,,unknown,unknown
+BAILLEUL,q8_italia,,unknown,unknown
+SAINT QUENTIN,q8_italia,,unknown,unknown
+OCTEVILLE,q8_italia,,unknown,unknown
+BONNEUIL SUR MARNE,q8_italia,,unknown,unknown
+FONTENAY AUX ROSES,q8_italia,,unknown,unknown
+VERRIERES LE BUISSON,q8_italia,,unknown,unknown
+VILLE D AVRAY,q8_italia,,unknown,unknown
+STE SAVINE,q8_italia,,unknown,unknown
+EPERNAY,q8_italia,,unknown,unknown
+FARGES ALLICHAMPS,q8_italia,,unknown,unknown
+BALMA,q8_italia,,unknown,unknown
+AVIGNON,q8_italia,,unknown,unknown
+VILLEFRANCHE DE LAURAGAI,q8_italia,,unknown,unknown
+HYERES,q8_italia,,unknown,unknown
+LYON  4,q8_italia,,unknown,unknown
+WASQUEHAL,q8_italia,,unknown,unknown
+CREUTZWALD,q8_italia,,unknown,unknown
+VANDOEUVRE LES NANCY,q8_italia,,unknown,unknown
+MONT ST AIGNAN,q8_italia,,unknown,unknown
+DEUIL LA BARRE,q8_italia,,unknown,unknown
+SALOUEL,q8_italia,,unknown,unknown
+ARGENTEUIL,q8_italia,,unknown,unknown
+DARNETAL,q8_italia,,unknown,unknown
+ROUEN,q8_italia,,unknown,unknown
+CHERBOURG,q8_italia,,unknown,unknown
+ABBEVILLE,q8_italia,,unknown,unknown
+SAINT CLOUD,q8_italia,,unknown,unknown
+ROMILLY,q8_italia,,unknown,unknown
+VILLENEUVE ST GEORGES,q8_italia,,unknown,unknown
+PONT STE MARIE,q8_italia,,unknown,unknown
+CHAUMONT SUR THARONNE,q8_italia,,unknown,unknown
+LA TURBIE,q8_italia,,unknown,unknown
+SAINT MITRE LES REMPARTS,q8_italia,,unknown,unknown
+Nancy,western_union,,unknown,YOUR SHOP
+Semur En Auxois,western_union,,unknown,BOZON EMMANUEL DANIEL
+Fleury Les Aubrais,western_union,,unknown,EURO CASH
+Caen,western_union,,unknown,THE COFFEE BAR
+Dunkerque,western_union,,unknown,LINA SHOP
+Nemours,western_union,,unknown,DEKRA
+Evry Courcouronnes,western_union,,unknown,AMMAN ALIMENTATION GENERALE
+Savigny Le Temple,western_union,,unknown,LE RELAIS DE BEAUMONT
+Magny Les Hameaux,western_union,,unknown,SAVEURS DU MONDE
+Chelles,western_union,,unknown,PIZZA CASA 77
+Maurepas,western_union,,unknown,LE BRETAGNE
+Villemomble,western_union,,unknown,REPARATION EXPRESS
+Montreuil,western_union,,unknown,ASHVIN
+Romainville,western_union,,unknown,3 COMMUNES INFORMATIQUE
+Noisy Le Sec,western_union,,unknown,MUNNA EXOTIQUE MARCHE
+Pantin,western_union,,unknown,PHONE STORE
+Paris,western_union,,unknown,MT TELECOM
+Levallois Perret,western_union,,unknown,LEVALLOIS INFORMATIQUE
+Saint Ouen,western_union,,unknown,ALPHA EXOTIQUE
+Drancy,western_union,,unknown,AVINASH TEX
+Colombes,western_union,,unknown,LE MONDIAL
+Le Pecq,western_union,,unknown,SOS PHONE REPAIR
+Saint Denis,western_union,,unknown,ANJALI
+Villiers Le Bel,western_union,,unknown,GREEN VOYAGES
+Argenteuil,western_union,,unknown,POINT K
+Mantes La Ville,western_union,,unknown,RIS INFORMATIQUE
+Les Mureaux,western_union,,unknown,DEFRESNE MARJORIE
+Mery Sur Oise,western_union,,unknown,MAMA AFRICA EXOTIC
+Aurillac,western_union,,unknown,SOILI EXOTIC
+Auray,western_union,,unknown,CHEZ FRANCKY
+Vannes,western_union,,unknown,OUNGUETOU DOROTHEE
+Flagnac,western_union,,unknown,VINCEPI
+Tarbes,western_union,,unknown,TOUTE L AFRIQUE CHEZ GLODY
+Auch,western_union,,unknown,TROPICAL DOM
+Soyaux,western_union,,unknown,LE PEROU
+Angouleme,western_union,,unknown,SOGOE CLOTILDE
+Bordeaux,western_union,,unknown,CABINE AUBRY
+Clermont Ferrand,western_union,,unknown,DOTIRI
+Roanne,western_union,,unknown,AZZOTECH
+Montpellier,western_union,,unknown,RIF MARKET
+Saint Etienne,western_union,,unknown,PROPERCASE
+Lyon,western_union,,unknown,ILIZITECH
+Salaise Sur Sanne,western_union,,unknown,GORTAT MARKET
+Berre L Etang,western_union,,unknown,LE RAIMU
+Marseille,western_union,,unknown,BACHA TELECOM
+Aix En Provence,western_union,,unknown,EUROPE PHONE AIX PRESSE
+Cavalaire Sur Mer,western_union,,unknown,TABAC L ARIEL
+Albertville,western_union,,unknown,L HOMME A SUIVRE
+Grenoble,western_union,,unknown,STAM CONSULTING
+Nice,western_union,,unknown,DALIKARIM IMPORT
+Perpignan,western_union,,unknown,SNC OLISTORE

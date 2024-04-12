@@ -1,0 +1,332 @@
+City,Place Name,Zipcode,Name
+Bergamo,anytime_fitness,,unknown,Anytime Fitness
+Ghisalba,arcaplanet_it,,unknown,Arcaplanet
+Dalmine,arcaplanet_it,,unknown,Arcaplanet
+Nembro,arcaplanet_it,,unknown,Arcaplanet
+Curno,arcaplanet_it,,unknown,Arcaplanet
+Treviglio,arcaplanet_it,,unknown,Arcaplanet
+Medolago,arcaplanet_it,,unknown,Arcaplanet
+Pedrengo,arcaplanet_it,,unknown,Arcaplanet
+Grumello del Monte,arcaplanet_it,,unknown,Arcaplanet
+Orio al Serio,arcaplanet_it,,unknown,Arcaplanet
+Mapello,arcaplanet_it,,unknown,Arcaplanet
+Ambivere,arcaplanet_it,,unknown,Arcaplanet
+Antegnate,arcaplanet_it,,unknown,Arcaplanet
+Osio Sotto,arcaplanet_it,,unknown,Arcaplanet
+Rogno,arcaplanet_it,,unknown,Arcaplanet
+BERGAMO,bmw_group,,unknown,LARIO BERGAUTO SPA
+ARCENE,bmw_group,,unknown,RIVOLTELLA SPA
+Grumello del Monte,bmw_group,,unknown,LARIO BERGAUTO SPA
+LALLIO,bmw_group,,unknown,PEREGO MOTORRAD SRL
+Treviglio,brico_io_it,,unknown,TREVIGLIO
+CARAVAGGIO,carrefour_it,,unknown,Carrefour Market VIA TREVIGLIO - CARAVAGGIO (BG)
+PAGAZZANO,carrefour_it,,unknown,Carrefour Market VIA DON LUIGI MILANI N.12 - PAGAZZANO (BG)
+OSIO SOTTO,carrefour_it,,unknown,Carrefour Market C.SO V. VENETO N. 88/90 - OSIO SOTTO (BG)
+Verdello,carrefour_it,,unknown,"Carrefour Market Via Papa Giovanni XXIII, 5 - Verdello (BG)"
+STEZZANO,carrefour_it,,unknown,Carrefour Express VIA PAPA GIOVANNI XXIII N.9 - STEZZANO (BG)
+CALUSCO D'ADDA,carrefour_it,,unknown,"Carrefour Market Via Rivierasca, 339 - CALUSCO D'ADDA (BG)"
+Costa di mezzate,carrefour_it,,unknown,Carrefour Express via foppe 6 - Costa di mezzate (BG)
+BERGAMO,carrefour_it,,unknown,Carrefour Market VIA MAFALDA DI SAVOIA N. 4 - BERGAMO (BG)
+ALBANO SANT'ALESSANDRO,carrefour_it,,unknown,Carrefour Market VIA TONALE ANGOLO VIA CAVOUR - ALBANO SANT'ALESSANDRO (BG)
+MOZZO,carrefour_it,,unknown,Carrefour Market VIA DELL'INDUSTRIA N. 2 - MOZZO (BG)
+VILLA DI SERIO,carrefour_it,,unknown,Carrefour Express VIA LOCATELLI 36 - VILLA DI SERIO (BG)
+ALBINO,carrefour_it,,unknown,"Carrefour Market VIA PROVINCIALE,64/B - ALBINO (BG)"
+SAN PELLEGRINO TERME,carrefour_it,,unknown,Carrefour Market VIA DE' MEDICI N.71 - SAN PELLEGRINO TERME (BG)
+VERTOVA,carrefour_it,,unknown,Carrefour Express VIA XI FEBBRAIO 2 - VERTOVA (BG)
+ROGNO,carrefour_it,,unknown,Carrefour Express via nazionale 42 - ROGNO (BG)
+unknown,conad_it,VIA ALBERICI 27 24040 ARZAGO D'ADDA,unknown,unknown
+unknown,conad_it,Via dell'Armonia 72 24058 ROMANO DI LOMBARDIA,unknown,Conad
+unknown,conad_it,VIA DEL COMMERCIO SNC 24058 ROMANO DI LOMBARDIA,unknown,Conad
+unknown,conad_it,VIA ISONZO 26 24058 ROMANO DI LOMBARDIA,unknown,Conad
+unknown,conad_it,VIA BERGAMO 1 24040 CANONICA D'ADDA,unknown,Conad
+unknown,conad_it,VIA ALESSANDRO MANZONI 11 24040 ARCENE,unknown,unknown
+unknown,conad_it,VIA DIONISIO BERIZZI SNC 24055 COLOGNO AL SERIO,unknown,Conad Superstore
+unknown,conad_it,VIA SOLFERINO 4 24055 COLOGNO AL SERIO,unknown,unknown
+unknown,conad_it,VIA CARDINAL GUSTAVO TESTA 38 24040 BOLTIERE,unknown,Conad
+unknown,conad_it,VIA PAPA GIOVANNI XXIII SNC 24042 CAPRIATE SAN GERVASIO,unknown,Conad
+unknown,conad_it,VIA G.B. BONAITA SNC 24059 URGNANO,unknown,Conad
+unknown,conad_it,CORSO EUROPA 10 24050 GHISALBA,unknown,Conad
+unknown,conad_it,VIA ZANICA SNC 24040 COMUN NUOVO,unknown,Conad City
+unknown,conad_it,VIA SALMEGGIA 5/7 24044 DALMINE,unknown,Conad
+unknown,conad_it,VIA VITTORIO VENETO 82 n 24040 BONATE SOTTO,unknown,Conad
+unknown,conad_it,Viale Delle Rose 2 24060 BOLGARE,unknown,Conad
+unknown,conad_it,VIA PESCHIERA 1/B 24060 BOLGARE,unknown,unknown
+unknown,conad_it,VIA DONATORE AVIS 7 24052 AZZANO SAN PAOLO,unknown,Conad
+unknown,conad_it,VIA MARCONI SNC 24064 GRUMELLO DEL MONTE,unknown,Conad
+unknown,conad_it,Via Enrico Fermi 1 24035 CURNO,unknown,unknown
+unknown,conad_it,VIA TRIESTE 38 24060 CHIUDUNO,unknown,Conad City
+unknown,conad_it,VIA TIRONI 1 24060 CHIUDUNO,unknown,unknown
+unknown,conad_it,Via Giosuè Carducci 55 24127 BERGAMO,unknown,unknown
+unknown,conad_it,via Giosuè Carducci 55 24127 BERGAMO,unknown,Conad Superstore
+unknown,conad_it,VIA GARIBALDI 7 24100 BERGAMO,unknown,Conad
+unknown,conad_it,VIA REGINA MARGHERITA 42 24060 GORLAGO,unknown,Conad City
+unknown,conad_it,VIA AMELLINA 100 24069 TRESCORE BALNEARIO,unknown,Conad
+unknown,conad_it,VIA KENNEDY 15 24060 CAROBBIO DEGLI ANGELI,unknown,unknown
+unknown,conad_it,VIA PAPA GIOVANNI XXIII 9 24060 SAN PAOLO D'ARGON,unknown,Conad City
+unknown,conad_it,VIA S. ANNA 2 24060 VILLONGO,unknown,Conad Superstore
+unknown,conad_it,Via L. Suardo 14 24067 SARNICO,unknown,Conad
+unknown,conad_it,Via Monte Grappa 3 24067 SARNICO,unknown,Conad
+unknown,conad_it,VIA DON SPINELLI 2 24020 SCANZOROSCIATE,unknown,unknown
+unknown,conad_it,VIA DEL COMMERCIO 2 24030 ALMENNO SAN BARTOLOMEO,unknown,Conad
+unknown,conad_it,VIA DON L. PALAZZOLO SNC 24020 TORRE BOLDONE,unknown,Conad
+unknown,conad_it,VIALE ITALIA 90 24011 ALME',unknown,Conad City
+unknown,conad_it,PIAZZA PAPA GIOVANNI PAOLO II 11 24022 ALZANO LOMBARDO,unknown,Conad
+unknown,conad_it,VIA ALDO MORO 11 24010 UBIALE CLANEZZO,unknown,unknown
+unknown,conad_it,PIAZZA PIETRO MASCAGNI 3 24038 SANT'OMOBONO TERME,unknown,Conad
+unknown,conad_it,VIA DEGLI ALPINI 11 24019 ZOGNO,unknown,Conad
+unknown,conad_it,VIA PIAVE 8 24026 LEFFE,unknown,Conad
+unknown,conad_it,VIA BOSELLI 36 24015 SAN GIOVANNI BIANCO,unknown,Conad
+unknown,conad_it,VIA DANTE ALIGHIERI 3 24065 LOVERE,unknown,Conad City
+unknown,conad_it,VIALE G.GUSMINI SNC 24023 CLUSONE,unknown,Conad Superstore
+Telgate,dr_max,,unknown,"Parafarmacia Dr. Max Telgate, via Lombardia 25/27"
+Orio Al Serio,gamestop_it,,unknown,ORIO AL SERIO
+Curno,gamestop_it,,unknown,CURNO
+Seriate,gamestop_it,,unknown,SERIATE
+Antegnate,gamestop_it,,unknown,ANTEGNATE
+Seriate,giunti_al_punto_it,Via Brusaporto 41 c/o Centro Commerciale Alle Valli 24068 Seriate BG,unknown,Libreria Giunti al Punto Seriate
+Orio Al Serio,giunti_al_punto_it,Via Portico 59/61 c/o Centro Commerciale Orio Center 24050 Orio Al Serio BG,unknown,Libreria Giunti al Punto Orio al Serio
+Antegnate,giunti_al_punto_it,Via del Commercio 3  c/o  C. Comm.le Antegnate Gran Shopping  24051 Antegnate BG,unknown,Libreria Giunti al Punto Antegnate
+BERGAMO,gnp_it,,unknown,GNP
+Orio al Serio,hugo_boss,,unknown,BOSS Menswear Store
+CANONICA D ADDA,moneygram,,unknown,IQBAL ZAFAR PHONE CENTER
+CAMERATA CORNELLO,moneygram,,unknown,POSTE ITALIANE
+CARONA,moneygram,,unknown,POSTE ITALIANE
+GRONE,moneygram,,unknown,POSTE ITALIANE
+CAP,moneygram,,unknown,CAKILLI MARCO
+VERDELLO,moneygram,,unknown,AKBAR MINIMARKET
+SERIATE,moneygram,,unknown,SINGH SATWINDER SAS
+BERGAMO,moneygram,,unknown,BISMILLA MINIMARKET
+TREVIGLIO,moneygram,,unknown,KAPPADUE UNIVERSAL SRL - #2
+CISERANO,moneygram,,unknown,KAPPADUE UNIVERSAL SRL
+CREDARO,moneygram,,unknown,GULZAR ALI MINI MARKET
+TRESCORE BALNEARIO,moneygram,,unknown,ALIMENTARI SONIL PIU
+GRUMELLO DEL MONTE,moneygram,,unknown,PUNJABI MARKET - GRUMELLO DEL MONTE
+VERDELLINO,moneygram,,unknown,A-M MODA
+GHISALBA,moneygram,,unknown,KAUR GURDEEP - GHISALBA
+CALUSCO D'ADDA,moneygram,,unknown,AYMAN MINIMARKET - CALUSCO D'ADDA
+ALBANO SANT ALESSANDRO,moneygram,,unknown,RAJPUT FOOD STORE SNC
+GANDINO,moneygram,,unknown,TABACCHERIA - CASTELLI
+BOLTIERE,moneygram,,unknown,ANAS - BOLTIERE
+URGNANO,moneygram,,unknown,BMS DI MAHMOOD SAJID
+ROMANO DI LOMBARDIA,moneygram,,unknown,TECNO NET
+CIVIDATE AL PIANO,moneygram,,unknown,MARKET DI KAUR AMANDEEP - CIVIDATE AL PI
+TERNO D'ISOLA,moneygram,,unknown,RETROH S.A.S. - TERNO D'ISOLA
+CASAZZA,moneygram,,unknown,PUNIT INDIAN MARKET
+MARTINENGO,moneygram,,unknown,KAINTH SHOP
+COLOGNO AL SERIO,moneygram,,unknown,RANI SULEKHA
+VILLONGO,moneygram,,unknown,RANI BABITA CENTER
+GORLAGO,moneygram,,unknown,PUNJAB BAZAR DI SINGH JAGTAR
+CARAVAGGIO,moneygram,,unknown,CARTOLIBRERIA LA MATITA
+FARA GERA D ADDA,moneygram,,unknown,EFFEG
+PALAZZAGO,moneygram,,unknown,PIZZERIA E GASTRONOMIA D'ASPORTO AMOR MI
+CHIUDUNO,moneygram,,unknown,R&J INDIAN STORE SRLS
+FONTANELLA,moneygram,,unknown,KHATTRA FOOD STORE - FONTANELLA
+PALOSCO,moneygram,,unknown,GILL FOOD STORE
+PONTE SAN PIETRO,moneygram,,unknown,BUSINESS CENTER EKPO
+COVO,moneygram,,unknown,JAIN MINIMARKET
+TELGATE,moneygram,,unknown,JK IMPORT EXPORT SAS
+ANTEGNATE,moneygram,,unknown,KRISH MINI MARKET
+Curno,obi_eu,,unknown,Negozio OBI Curno
+Bergamo,petit_bateau,,unknown,Petit Bateau Bergamo
+CURNO,q8_italia,,unknown,Q8
+CISERANO,q8_italia,,unknown,Q8
+BERGAMO,q8_italia,,unknown,Q8
+GORLAGO,q8_italia,,unknown,Q8 Easy
+SERIATE,q8_italia,,unknown,Q8
+ARCENE,q8_italia,,unknown,Q8 Easy
+ROMANO DI LOMBARDIA,q8_italia,,unknown,Q8
+TREVIOLO,q8_italia,,unknown,Q8
+CAPRIATE S. GERVASIO,q8_italia,,unknown,Q8 Easy
+SAN PELLEGRINO TERME,q8_italia,,unknown,Q8 Easy
+CREDARO,q8_italia,,unknown,Q8
+GAZZANIGA,q8_italia,,unknown,Q8
+COLOGNO AL SERIO,q8_italia,,unknown,Q8
+CHIUDUNO,q8_italia,,unknown,Q8
+MOZZO,q8_italia,,unknown,Q8
+BREMBATE,q8_italia,,unknown,Q8
+OSIO SOPRA,q8_italia,,unknown,Q8
+SCANZOROSCIATE,q8_italia,,unknown,Q8
+LOVERE,q8_italia,,unknown,Q8
+LUZZANA,q8_italia,,unknown,Q8 Easy
+PONTE SAN PIETRO,q8_italia,,unknown,Q8
+ANTEGNATE,q8_italia,,unknown,Q8 Easy
+TREVIGLIO,q8_italia,,unknown,Q8
+VILLA D'OGNA,q8_italia,,unknown,Q8
+AZZANO SAN PAOLO,q8_italia,,unknown,Q8
+ALME,q8_italia,,unknown,Q8
+FILAGO,q8_italia,,unknown,Q8
+OSIO SOTTO,q8_italia,,unknown,Q8
+FIORANO AL SERIO,q8_italia,,unknown,Q8
+BREMBATE SOPRA,q8_italia,,unknown,Q8
+GRASSOBBIO,q8_italia,,unknown,Q8
+CARAVAGGIO,q8_italia,,unknown,Q8
+CASTELLI CALEPIO,q8_italia,,unknown,Q8
+FARA GERA D'ADDA,q8_italia,,unknown,Q8
+ALBANO SANT'ALESSANDRO,q8_italia,,unknown,Q8
+ALBINO,q8_italia,,unknown,Q8
+BRUSAPORTO,q8_italia,,unknown,Q8
+CARVICO,q8_italia,,unknown,Q8
+unknown,remax_it,Via Giuseppe Garibaldi 52/54 24036 Ponte San Pietro BG Italia,unknown,RE/MAX Evolution Project
+unknown,remax_it,Via Martiri della Libertà 14 24040 Bonate Sotto BG Italia,unknown,RE/MAX Expo
+unknown,remax_it,Via Enrico Fermi 28 24035 Curno BG Italia,unknown,RE/MAX Expo 3
+unknown,remax_it,Via Montegrappa angolo Via De Gasperi 1 24046 Osio Sotto BG Italia,unknown,RE/MAX Expo 4
+unknown,remax_it,Via Verdi 23/F 24121 Bergamo BG Italia,unknown,RE/MAX Expo 5
+unknown,remax_it,Via San Martino 6 24067 Sarnico BG Italia,unknown,RE/MAX IceBerg 2
+unknown,remax_it,Via Cardinal Ferrari 47 24064 Grumello del Monte BG Italia,unknown,RE/MAX Iceberg
+unknown,remax_it,Via Pietro Mascagni 2/A 24044 Lallio BG Italia,unknown,RE/MAX Orange
+unknown,remax_it,Via Mazzini 7/A 24044 Dalmine BG Italia,unknown,RE/MAX Orange 2
+unknown,remax_it,Passaggio Don Seghezzi 3 24122 Bergamo BG Italia,unknown,RE/MAX Orange 3
+unknown,remax_it,Via Nazionale 194 24062 Costa Volpino BG Italia,unknown,RE/MAX Orange 4
+unknown,remax_it,Via Tonale 2 24066 Pedrengo BG Italia,unknown,RE/MAX Orange 5
+unknown,remax_it,Via Vittorio Veneto 40/B 24067 Sarnico BG Italia,unknown,RE/MAX Orange 6
+unknown,remax_it,Via Sorte 34 24030 Brembate di Sopra BG Italia,unknown,RE/MAX Privilege
+unknown,remax_it,Via Nazario Sauro 32 24069 Trescore Balneario BG Italia,unknown,RE/MAX Pro
+unknown,remax_it,- - Sarnico BG Italia,unknown,RE/MAX Prossima apertura in Sarnico
+unknown,remax_it,Piazza Don Sergio Colombo 4 24124 Bergamo BG Italia,unknown,RE/MAX Revolve
+unknown,remax_it,Via Marco Biagi 95 24030 Terno d'Isola BG Italia,unknown,RE/MAX Wave
+unknown,remax_it,Piazza Achille e Cesare Bortolotti 11 2406 Predore BG Italia,unknown,RE/MAX Wave 2
+Gromo,shell,,unknown,Gromo
+Clusone,shell,,unknown,Clusone
+Costa Volpino,shell,,unknown,Costa Volpino
+Albano San Alessandro,shell,,unknown,Albano San Alessandro
+Foresto Sparso,shell,,unknown,Foresto Sparso
+Antegnate,shell,,unknown,Antegnate
+unknown,skoda,,unknown,VALOTA PIETRO S.N.C.
+Orio al Serio,the_north_face_eu,,unknown,THE NORTH FACE STORE ORIO
+TREVIOLO,visa,,unknown,unknown
+PALOSCO,visa,,unknown,unknown
+SARNICO,visa,,unknown,unknown
+MILANO,visa,,unknown,unknown
+CORNAREDO,visa,,unknown,unknown
+RHO,visa,,unknown,unknown
+CASIRATE D'ADDA,visa,,unknown,unknown
+CARAVAGGIO,visa,,unknown,unknown
+TREVIGLIO,visa,,unknown,unknown
+ANTEGNATE,visa,,unknown,unknown
+FARA GERA D'ADDA,visa,,unknown,unknown
+ROMANO DI LOMBARDIA,visa,,unknown,unknown
+CALCIO,visa,,unknown,unknown
+BRIGNANO GERA D'ADDA,visa,,unknown,unknown
+PONTIROLO NUOVO,visa,,unknown,unknown
+CANONICA D'ADDA,visa,,unknown,unknown
+CISERANO,visa,,unknown,unknown
+CIVIDATE AL PIANO,visa,,unknown,unknown
+TREZZO SULL'ADDA,visa,,unknown,unknown
+SPIRANO,visa,,unknown,unknown
+COLOGNO AL SERIO,visa,,unknown,unknown
+ZINGONIA,visa,,unknown,unknown
+BOLTIERE,visa,,unknown,unknown
+MARTINENGO,visa,,unknown,unknown
+CAPRIATE SAN GERVASIO,visa,,unknown,unknown
+BREMBATE,visa,,unknown,unknown
+MADONE,visa,,unknown,unknown
+OSIO SOTTO,visa,,unknown,unknown
+ALBIATE,visa,,unknown,unknown
+VERDELLINO,visa,,unknown,unknown
+VERDELLO,visa,,unknown,unknown
+URGNANO,visa,,unknown,unknown
+BOTTANUCO,visa,,unknown,unknown
+OSIO SOPRA,visa,,unknown,unknown
+FILAGO,visa,,unknown,unknown
+SUISIO,visa,,unknown,unknown
+DALMINE,visa,,unknown,unknown
+BERGAMO,visa,,unknown,unknown
+STEZZANO,visa,,unknown,unknown
+CALCINATE,visa,,unknown,unknown
+ZANICA,visa,,unknown,unknown
+AZZANO SAN PAOLO,visa,,unknown,unknown
+BONATE SOTTO,visa,,unknown,unknown
+CASTELLI CALEPIO,visa,,unknown,unknown
+LALLIO,visa,,unknown,unknown
+CALUSCO D'ADDA,visa,,unknown,unknown
+TELGATE,visa,,unknown,unknown
+BOLGARE,visa,,unknown,unknown
+TERNO D'ISOLA,visa,,unknown,unknown
+BONATE SOPRA,visa,,unknown,unknown
+GRASSOBBIO,visa,,unknown,unknown
+GRUMELLO DEL MONTE,visa,,unknown,unknown
+CARVICO,visa,,unknown,unknown
+PRESEZZO,visa,,unknown,unknown
+MOZZO,visa,,unknown,unknown
+SOTTO IL MONTE GIOVANNI,visa,,unknown,unknown
+CHIUDUNO,visa,,unknown,unknown
+SOTTO IL MONTE GIOVANNI XXIII,visa,,unknown,unknown
+VILLA D'ADDA,visa,,unknown,unknown
+BAGNATICA,visa,,unknown,unknown
+PONTE SAN PIETRO,visa,,unknown,unknown
+MONTELLO,visa,,unknown,unknown
+CURNO,visa,,unknown,unknown
+BRUSAPORTO,visa,,unknown,unknown
+MAPELLO,visa,,unknown,unknown
+SERIATE,visa,,unknown,unknown
+ALBANO SANT'ALESSANDRO,visa,,unknown,unknown
+GORLAGO,visa,,unknown,unknown
+VALBREMBO,visa,,unknown,unknown
+BREMBATE DI SOPRA,visa,,unknown,unknown
+PONTIDA,visa,,unknown,unknown
+CAPRINO BERGAMASCO,visa,,unknown,unknown
+CISANO BERGAMASCO,visa,,unknown,unknown
+PEDRENGO,visa,,unknown,unknown
+SAN PAOLO D'ARGON,visa,,unknown,unknown
+GORLE,visa,,unknown,unknown
+VILLONGO,visa,,unknown,unknown
+PALADINA,visa,,unknown,unknown
+TRESCORE BALNEARIO,visa,,unknown,unknown
+PONTERANICA,visa,,unknown,unknown
+SCANZOROSCIATE,visa,,unknown,unknown
+CENATE SOTTO,visa,,unknown,unknown
+TORRE BOLDONE,visa,,unknown,unknown
+VILLA DI SERIO,visa,,unknown,unknown
+ALMENNO SAN BARTOLOMEO,visa,,unknown,unknown
+BLELLO,visa,,unknown,unknown
+BEDULITA,visa,,unknown,unknown
+ALME',visa,,unknown,unknown
+RANICA,visa,,unknown,unknown
+VILLA D'ALME',visa,,unknown,unknown
+ALMENNO SAN SALVATORE,visa,,unknown,unknown
+ALZANO LOMBARDO,visa,,unknown,unknown
+NEMBRO,visa,,unknown,unknown
+SEDRINA,visa,,unknown,unknown
+TAVERNOLA BERGAMASCA,visa,,unknown,unknown
+ALBINO,visa,,unknown,unknown
+BERZO SAN FERMO,visa,,unknown,unknown
+VIGANO SAN MARTINO,visa,,unknown,unknown
+LUZZANA,visa,,unknown,unknown
+CASAZZA,visa,,unknown,unknown
+ZOGNO,visa,,unknown,unknown
+SANT'OMOBONO TERME,visa,,unknown,unknown
+SELVINO,visa,,unknown,unknown
+BREMBILLA,visa,,unknown,unknown
+CENE,visa,,unknown,unknown
+VAL BREMBILLA,visa,,unknown,unknown
+GAZZANIGA,visa,,unknown,unknown
+FIORANO AL SERIO,visa,,unknown,unknown
+SAN PELLEGRINO TERME,visa,,unknown,unknown
+LEFFE,visa,,unknown,unknown
+PEIA,visa,,unknown,unknown
+VERTOVA,visa,,unknown,unknown
+ENDINE GAIANO,visa,,unknown,unknown
+SOLTO COLLINA,visa,,unknown,unknown
+COLZATE,visa,,unknown,unknown
+GANDINO,visa,,unknown,unknown
+CASNIGO,visa,,unknown,unknown
+SAN GIOVANNI BIANCO,visa,,unknown,unknown
+SOVERE,visa,,unknown,unknown
+LOVERE,visa,,unknown,unknown
+COSTA VOLPINO,visa,,unknown,unknown
+PONTE NOSSA,visa,,unknown,unknown
+OLTRE IL COLLE,visa,,unknown,unknown
+CLUSONE,visa,,unknown,unknown
+PARRE,visa,,unknown,unknown
+ROGNO,visa,,unknown,unknown
+ROVETTA,visa,,unknown,unknown
+PIAZZA BREMBANA,visa,,unknown,unknown
+COSTA DI SERINA,visa,,unknown,unknown
+PIAZZOLO,visa,,unknown,unknown
+CASSIGLIO,visa,,unknown,unknown
+CASTIONE DELLA PRESOLANA,visa,,unknown,unknown
+ARDESIO,visa,,unknown,unknown
+GROMO,visa,,unknown,unknown
+VALBONDIONE,visa,,unknown,unknown
+Curno,yves_rocher_it,,unknown,Yves Rocher Italia
+Orio al Serio,yves_rocher_it,,unknown,Yves Rocher Italia

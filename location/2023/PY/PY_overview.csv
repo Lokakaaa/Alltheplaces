@@ -1,0 +1,670 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+UNKNOWN,alamo,Asuncion,2
+ASUNCION,audi,Asuncion,1
+ALTOPARANA,audi,Ciudad del Este,1
+ASUNCION,avis,Asuncion,2
+PARAGUAY,bmw_group,Asuncion,1
+UNKNOWN,bmw_group,Asunción,2
+PARAGUAY,bmw_group,Paraguay,1
+PARAGUAY,bmw_group,Asunción,1
+UNKNOWN,deloitte,Asunción,1
+UNKNOWN,enterprise,Asuncion,6
+UNKNOWN,ernst_young,Asunción,1
+UNKNOWN,geox,ASUNCION,1
+UNKNOWN,hardrock,Asunción,1
+02,hugo_boss,Ciudad del Este,2
+UNKNOWN,hugo_boss,unknown,2
+04,hugo_boss,Asuncion,2
+UNKNOWN,marriott,Asuncion,2
+UNKNOWN,maserati,ASUNCION,1
+ALTOPARANÁ,mercedes_benz,Ciudad del Este,1
+ITAPÚADEPARTMENT,mercedes_benz,Encarnación,1
+TETÃVOREKAAGUASU,mercedes_benz,Coronel Oviedo,1
+ASUNCIÓN,mercedes_benz,Asunción,3
+CENTRALDEPARTMENT,mercedes_benz,Limpio,1
+UNKNOWN,moneygram,MINGA GUAZU,1
+UNKNOWN,moneygram,NEMBY,2
+UNKNOWN,moneygram,ASUNCION,41
+UNKNOWN,moneygram,CAPIATA,2
+UNKNOWN,moneygram,CORONEL OVIEDO,2
+UNKNOWN,moneygram,LUQUE,4
+UNKNOWN,moneygram,CIUDAD DEL ESTE,13
+UNKNOWN,moneygram,GUARAMBARE,1
+UNKNOWN,moneygram,ENCARNACION,3
+UNKNOWN,moneygram,SAN LORENZO,13
+UNKNOWN,moneygram,MARIANO ROQUE ALONSO,6
+UNKNOWN,moneygram,LIMPIO,4
+UNKNOWN,moneygram,VILLARRICA,1
+UNKNOWN,moneygram,FERNANDO DE LA MORA,5
+UNKNOWN,moneygram,CAACUPE,1
+UNKNOWN,moneygram,SAN ESTANISLAO,1
+UNKNOWN,moneygram,PEDRO JUAN CABALLERO,1
+UNKNOWN,moneygram,CORDILLERA,2
+UNKNOWN,moneygram,VILLETA,1
+UNKNOWN,moneygram,SANTA RITA,1
+UNKNOWN,moneygram,CARAPEGUA,1
+UNKNOWN,moneygram,SALTO DEL GUAIRA,1
+UNKNOWN,moneygram,CORONEL BOGADO,1
+UNKNOWN,moneygram,SAN IGNACIO,1
+UNKNOWN,moneygram,HORQUETA,1
+UNKNOWN,moneygram,OBLIGADO,1
+UNKNOWN,moneygram,SANTA ROSA DEL AGUARAY,1
+UNKNOWN,moneygram,CONCEPCION,1
+UNKNOWN,moneygram,CAAGUAZU,3
+UNKNOWN,moneygram,TEBICUARY,1
+UNKNOWN,moneygram,VILLA HAYES,1
+UNKNOWN,moneygram,ITA,1
+UNKNOWN,moneygram,COLONIA CATUETE,1
+UNKNOWN,moneygram,CURUGUATY,1
+UNKNOWN,moneygram,SAN JUAN NEPOMUCENO,1
+UNKNOWN,moneygram,LAMBARE,2
+UNKNOWN,moneygram,ENCAMACION,1
+UNKNOWN,moneygram,TOMAS ROMERO PEREIRA,1
+UNKNOWN,moneygram,LOMA PLATA,1
+UNKNOWN,moneygram,PILAR,1
+UNKNOWN,moneygram,ITAGUA,1
+UNKNOWN,moneygram,SAN BERNARDINO,1
+UNKNOWN,moneygram,SAN PEDRO DEL YCUAMANDIYU,1
+UNKNOWN,moneygram,JOSE AUGUSTO SALDIVAR,1
+UNKNOWN,moneygram,PARAGUARI,2
+UNKNOWN,moneygram,AREGUA,1
+UNKNOWN,moneygram,YPACARAI,1
+UNKNOWN,moneygram,CAPITAN MEZA,1
+UNKNOWN,moneygram,VILLA ELISA,1
+UNKNOWN,moneygram,SAN ALBERTO,1
+UNKNOWN,moneygram,CRUCE LIBERACION,1
+UNKNOWN,moneygram,HERNANDARIAS,1
+UNKNOWN,national,Asuncion,2
+CAPITAL,nissan_europe,Asuncion,2
+ITAPUA,nissan_europe,Encarnacion,1
+ALTOPARANA,nissan_europe,Ciudad del Este,1
+CAPITAL,nissan_europe,Mariano Roque Alonso,1
+CAPITAL,nissan_europe,Filadelfia,1
+UNKNOWN,ovs,Asuncion,1
+CENTRAL,sbarro,Luque ,1
+CENTRAL,sbarro,ASUNCIÓN,1
+ASUNCIÓN,sbarro,ASUNCIÓN,1
+BOQUERON,sbarro,unknown,1
+CENTRAL,shell,YPACARAI,2
+CENTRAL,shell,ITAUGUA,4
+CORDILLERA,shell,SAN BERNARDINO,1
+CORDILLERA,shell,CAACUPE,5
+CENTRAL,shell,ITA,7
+CENTRAL,shell,AREGUA,1
+CENTRAL,shell,CAPIATÁ,5
+CENTRAL,shell,J. AUGUSTO SALDIVAR,1
+PARAGUARI,shell,YAGUARON,1
+CENTRAL,shell,SAN LORENZO,14
+CENTRAL,shell,LUQUE,12
+CENTRAL,shell,GUARAMBARE,1
+CORDILLERA,shell,TOBATI,1
+CORDILLERA,shell,PIRIBEBUY,1
+ITAPUA,shell,CNEL. BOGADO,1
+ITAPUA,shell,GENERAL DELGADO,1
+ITAPUA,shell,ENCARNACION,7
+ITAPUA,shell,CAPITAN MIRANDA,2
+MISIONES,shell,SAN RAMON,1
+ITAPUA,shell,Hohenau,1
+ITAPUA,shell,HOHENAU,1
+ITAPUA,shell,OBLIGADO,1
+MISIONES,shell,AYOLAS,2
+MISIONES,shell,SANTA ROSA DE LIMA,1
+ITAPUA,shell,BELLA VISTA,1
+MISIONES,shell,SAN JUAN BAUTISTA,2
+CAAZAPA,shell,CAAZAPA,1
+CAAZAPA,shell,SAN JUAN NEPOMUCENO,1
+GUAIRA,shell,VILLARRICA,3
+GUAIRA,shell,MBOCAYATY,1
+PARAGUARI,shell,QUIINDY,1
+AMAMBAY,shell,BELLA VISTA NORTE,1
+CENTRAL,shell,VILLA ELISA,1
+CENTRAL,shell,LAMBARE,3
+CENTRAL,shell,FDO. DE LA MORA,6
+CENTRAL,shell,ÑEMBY,6
+CENTRAL,shell,ASUNCION,33
+CENTRAL,shell,SAN ANTONIO,1
+ÑEEMBUCU,shell,PILAR,3
+ALTOPARANA,shell,CIUDAD DEL ESTE,14
+ALTOPARANA,shell,PRESIDENTE FRANCO,3
+ALTOPARANA,shell,HERNANDARIAS,3
+ALTOPARANA,shell,MINGA GUAZU,5
+ALTOPARANA,shell,MINGA PORA,1
+ALTOPARANA,shell,SANTA RITA,1
+CONCEPCION,shell,CONCEPCION,4
+CONCEPCION,shell,Concepción,1
+CONCEPCION,shell,BELEN,1
+CONCEPCION,shell,HORQUETA,1
+CONCEPCION,shell,AZOTEY,1
+SANPEDRO,shell,COLONIA MEXICO,2
+CONCEPCION,shell,YBY YA'U,1
+SANPEDRO,shell,SANTA ROSA,1
+SANPEDRO,shell,COLONIA CORORO-I,1
+SANPEDRO,shell,SANTA ROSA DEL AGUARAY,1
+SANPEDRO,shell,GRAL. RESQUIN,1
+PTEHAYES,shell,BENJAMIN ACEVAL,1
+SANPEDRO,shell,CHORE,1
+SANPEDRO,shell,SAN PEDRO,1
+PTEHAYES,shell,POZO COLORADO,1
+SANPEDRO,shell,GUAYAIBI,1
+SANPEDRO,shell,COLONIA DEFENSORES DEL CHACO,1
+SANPEDRO,shell,SAN ESTANISLAO,1
+CORDILLERA,shell,ARROYOS Y ESTEROS,3
+PTEHAYES,shell,VILLA HAYES,1
+CORDILLERA,shell,EMBOSCADA,1
+CENTRAL,shell,LIMPIO,4
+CENTRAL,shell,MARIANO ROQUE ALONSO,5
+CENTRAL,shell,ZEVALLOS CUE,1
+AMAMBAY,shell,PEDRO JUAN CABALLERO,4
+AMAMBAY,shell,CAPITAN BADO,2
+CANINDEYU,shell,YPEHU,1
+CANINDEYU,shell,CORPUS CHRISTI,1
+CAAGUAZU,shell,CNEL. OVIEDO,3
+CAAGUAZU,shell,CAAGUAZU,4
+CORDILLERA,shell,EUSEBIO AYALA,1
+PARAGUARI,shell,PARAGUARI,1
+CAAGUAZU,shell,J.E.ESTIGARRIBIA,2
+SANPEDRO,shell,CAPIIBARY,1
+CANINDEYU,shell,SALTO DEL GUAIRA,7
+CANINDEYU,shell,LA PALOMA,1
+CANINDEYU,shell,NUEVA ESPERANZA,1
+CANINDEYU,shell,YBY PYTA,1
+CENTRAL,shell,VILLETA,1
+BOQUERON,shell,LOMA PLATA,1
+BOQUERON,shell,MCAL. ESTIGARRIBIA,1
+ALTOPARANA,shell,JUAN LEON MALLORQUIN,1
+UNKNOWN,sixt,Asuncion,1
+UNKNOWN,sixt,Luque,1
+UNKNOWN,united_colors_of_benetton,PEDRO JUAN CABALLERO,2
+UNKNOWN,united_colors_of_benetton,ASUNCION,5
+SALTODELGUAIRA,visa,CANINDEYU,2
+CANINDEYU,visa,SALTO DEL GUAIRA,4
+PRESIDENTEHAYES,visa,VILLA HAYES,5
+ALTOPARANA,visa,CIUDAD DEL ESTE,70
+CANINDEYU,visa,KATUETE,8
+KATUETE,visa,CANINDEYU,1
+CANINDEYU,visa,NUEVA ESPERANZA,3
+NUEVAESPERANZA,visa,CANINDEYU,1
+ALTOPARANA,visa,HERNANDARIAS,17
+CIUDADDELESTE,visa,ALTO PARANA,12
+ALTOPARANA,visa,MINGA GUAZU,7
+ALTOPARANA,visa,PRESIDENTE FRANCO,3
+CENTRAL,visa,SAN LORENZO,62
+PRESIDENTEFRANCO,visa,ALTO PARANA,2
+ALTOPARANA,visa,MINGA PORA,1
+ALTOPARANA,visa,SAN ALBERTO,3
+SANALBERTO,visa,ALTO PARANA,2
+ALTOPARANA,visa,CEDRALES,1
+PEDROJUANCABALLERO,visa,AMAMBAY,3
+AMAMBAY,visa,PEDRO JUAN CABALLERO,5
+ITAPUA,visa,ENCARNACION,29
+ALTOPARANA,visa,SANTA RITA,11
+SANTARITA,visa,ALTO PARANA,3
+YGUAZU,visa,ALTO PARANA,1
+ITAPUA,visa,KRESSBURGO,1
+KRESSBURGO,visa,ITAPUA,1
+ALTOPARANA,visa,NARANJAL,2
+CURUGUATY,visa,CANINDEYU,3
+CANINDEYU,visa,CURUGUATY,4
+ALTOPARANA,visa,DR.RAUL PENA,1
+ITAPUA,visa,SAN RAFAEL DEL PARANA,1
+MARIAAUXILIADORA,visa,ITAPUA,2
+CAAGUAZU,visa,J.E.ESTIGARRIBIA,8
+NATALIO,visa,ITAPUA,2
+ALTOPARANA,visa,SAN CRISTOBAL,1
+SANCRISTOBAL,visa,ALTO PARANA,1
+ITAPUA,visa,MARIA AUXILIADORA,4
+JEESTIGARRIBIA,visa,CAAGUAZU,2
+CAAGUAZU,visa,CAAGUAZU,10
+CONCEPCION,visa,YBY YAU,1
+CAPITANMEZA,visa,ITAPUA,1
+ALTOPARANA,visa,SANTA ROSA DEL MONDAY,1
+SANPEDRO,visa,SANTA ROSA DEL AGUARAY,5
+ITAPUA,visa,PIRAPO,1
+SANTAROSADELAGUARAY,visa,SAN PEDRO,1
+CENTRAL,visa,VILLA ELISA,6
+ITAPUA,visa,BELLA VISTA SUR,2
+SANJUANNEPOMUCENO,visa,CAAZAPA,1
+CAAZAPA,visa,SAN JUAN NEPOMUCENO,1
+ITAPUA,visa,OBLIGADO,5
+OBLIGADO,visa,ITAPUA,1
+CENTRAL,visa,ASUNCION,295
+HOHENAU,visa,ITAPUA,1
+ITAPUA,visa,HOHENAU,1
+SANPEDRO,visa,SAN ESTANISLAO,6
+SANESTANISLAO,visa,SAN PEDRO,2
+BELLAVISTASUR,visa,ITAPUA,1
+GUAIRA,visa,MAURICIO JOSE TROCHE,1
+CAPITANMIRANDA,visa,ITAPUA,1
+ITAPUA,visa,CAPITAN MIRANDA,1
+ITAPUA,visa,LA PAZ,1
+CONCEPCION,visa,HORQUETA,2
+CAAGUAZU,visa,CORONEL OVIEDO,15
+CORONELOVIEDO,visa,CAAGUAZU,2
+ENCARNACION,visa,ITAPUA,14
+CAMBYRETA,visa,ITAPUA,2
+ITAPUA,visa,CAMBYRETA,1
+GUAIRA,visa,VILLARRICA,11
+VILLARRICA,visa,GUAIRA,2
+ITAPUA,visa,FRAM,1
+FRAM,visa,ITAPUA,1
+ITAPUA,visa,SAN JUAN DEL PARANA,1
+CAAZAPA,visa,CAAZAPA,1
+YUTY,visa,CAAZAPA,1
+SANPEDRODELYCUAMANDIYU,visa,SAN PEDRO,1
+SANPEDRO,visa,SAN PEDRO DEL YCUAMANDIYU,1
+CONCEPCION,visa,BELEN,1
+ITAPUA,visa,CARMEN DEL PARANA,1
+GUAIRA,visa,TEBICUARY,2
+ITAPUA,visa,CORONEL BOGADO,2
+CORONELBOGADO,visa,ITAPUA,2
+CONCEPCION,visa,CONCEPCION,19
+CORDILLERA,visa,EUSEBIO AYALA,1
+CORDILLERA,visa,ARROYOS Y ESTEROS,1
+CONCEPCION,visa,SAN LAZARO,1
+CORDILLERA,visa,TOBATI,1
+CONCEPCION,visa,VALLEMI,1
+PIRIBEBUY,visa,CORDILLERA,1
+CORDILLERA,visa,CAACUPE,4
+CORDILLERA,visa,ALTOS,1
+PARAGUARI,visa,PARAGUARI,6
+CORDILLERA,visa,SAN BERNARDINO,11
+SANBERNARDINO,visa,CORDILLERA,1
+CENTRAL,visa,YPACARAI,3
+CENTRAL,visa,AREGUA,2
+CENTRAL,visa,ITAUGUA,4
+PARAGUARI,visa,CARAPEGUA,4
+PARAGUARI,visa,YAGUARON,1
+CARAPEGUA,visa,PARAGUARI,1
+ITAUGUA,visa,CENTRAL,1
+CENTRAL,visa,ITA,4
+CENTRAL,visa,FERNANDO DE LA MORA,44
+MISIONES,visa,SAN MIGUEL,1
+CENTRAL,visa,LIMPIO,13
+LIMPIO,visa,CENTRAL,3
+QUIINDY,visa,PARAGUARI,1
+CENTRAL,visa,CAPIATA,12
+CENTRAL,visa,LUQUE,44
+PARAGUARI,visa,QUIINDY,1
+CAPIATA,visa,CENTRAL,3
+BOQUERON,visa,LOMA PLATA,6
+VILLAHAYES,visa,PRESIDENTE HAYES,2
+CENTRAL,visa,MARIANO ROQUE ALONSO,30
+LUQUE,visa,CENTRAL,10
+MISIONES,visa,AYOLAS,2
+CENTRAL,visa,J.A.SALDIVAR,3
+CENTRAL,visa,GUARAMBARE,2
+SANLORENZO,visa,CENTRAL,13
+MARIANOROQUEALONSO,visa,CENTRAL,8
+GUARAMBARE,visa,CENTRAL,1
+MISIONES,visa,SAN IGNACIO,4
+CENTRAL,visa,LOMA PYTA,1
+SANIGNACIO,visa,MISIONES,1
+FERNANDODELAMORA,visa,CENTRAL,16
+PRESIDENTEHAYES,visa,CHACO'I,1
+ASUNCION,visa,CENTRAL,87
+CENTRAL,visa,NEMBY,14
+CENTRAL,visa,YPANE,4
+CORDILLERA,visa,EMBOSCADA,1
+MISIONES,visa,SAN JUAN BAUTISTA-MISIONES,4
+NEMBY,visa,CENTRAL,1
+CENTRAL,visa,SAN ANTONIO,7
+YPANE,visa,CENTRAL,1
+BOQUERON,visa,NEULAND,1
+SANANTONIO,visa,CENTRAL,1
+VILLAELISA,visa,CENTRAL,4
+CENTRAL,visa,LAMBARE,23
+LAMBARE,visa,CENTRAL,6
+CENTRAL,visa,VILLETA,4
+VILLETA,visa,CENTRAL,1
+PRESIDENTEHAYES,visa,POZO COLORADO,1
+NEEMBUCU,visa,ALBERDI,1
+PILAR,visa,NEEMBUCU,1
+NEEMBUCU,visa,PILAR,4
+LOMAPLATA,visa,BOQUERON,1
+BOQUERON,visa,FILADELFIA,5
+CENTRAL,western_union,Aregua,12
+PRESIDENTEHAYES,western_union,Villa Hayes,2
+MISIONES,western_union,Santa Rosa De Lima,2
+GUAIRA,western_union,Tebicuary,1
+CONCEPCION,western_union,Horqueta,10
+CENTRAL,western_union,Horqueta,1
+SANPEDRO,western_union,Tacuati,1
+CONCEPCION,western_union,Loreto,2
+CONCEPCION,western_union,Arroyito,2
+ITAPUA,western_union,Edelira 28,1
+ITAPUA,western_union,Natalio,7
+ALTOPARANA,western_union,Minga Guazu,14
+MISIONES,western_union,Villa Florida,4
+ITAPUA,western_union,Capitan Mesa,1
+ITAPUA,western_union,Edelira,5
+CAAZAPA,western_union,3 De Mayo,3
+ITAPUA,western_union,Itapua Poty,1
+ITAPUA,western_union,Itakua Poty,1
+CAAZAPA,western_union,Caazapa,7
+ALTOPARANA,western_union,Minga Guasu,2
+ITAPUA,western_union,Maria Auxiliadora,1
+ITAPUA,western_union,Yatytay,4
+ALTOPARANA,western_union,Ciudad Del Este,90
+CENTRAL,western_union,Hernandarias,1
+ALTOPARANA,western_union,"Ciudad Del Este,",1
+ALTOPARANA,western_union,Hernandarias,19
+ITAPUA,western_union,San Rafael Del Parana,3
+CIUDADDELESTE,western_union,Alto Parana,1
+ALTOPARANA,western_union,Presidente Franco,6
+ALTOPARANA,western_union,Los Cedrales,2
+ALTOPARANA,western_union,Pte Franco,2
+ALTOPARANA,western_union,Pte. Franco,1
+ITAPUA,western_union,Julio D. Ota�o,1
+ITAPUA,western_union,Mayor Otano,2
+ITAPUA,western_union,Mayor Ota�o,1
+ITAPUA,western_union,Carlos Antonio L�pez,1
+ITAPUA,western_union,Carlos A Lopez,1
+CENTRAL,western_union,San Lorenzo,62
+ITAPUA,western_union,Carlos Antonio Lopez,1
+CAAZAPA,western_union,Fulgencio Yegros,2
+CAAZAPA,western_union,Yuty,7
+ITAPUA,western_union,San Pedro Del Parana,11
+EEMBUCU,western_union,San Juan,1
+ITAPUA,western_union,San Pedro Del Paran�,2
+NEEMBUCU,western_union,San Juan Del �eembucu,1
+ITAPUA,western_union,Capitan Meza,1
+ITAPUA,western_union,Alto Vera,2
+ITAPUA,western_union,Yuty,1
+NEEMBUCU,western_union,Pilar,15
+EEMBUCU,western_union,Pilar,2
+ITAPUA,western_union,Pirapo,3
+PILAR,western_union,�eembucu,1
+NEEMBUCU,western_union,Neembucu,1
+MISIONES,western_union,San Juan Bautista,2
+ITAPUA,western_union,Fram,3
+ITAPUA,western_union,Jesus,1
+ITAPUA,western_union,Hohenau,4
+ITAPUA,western_union,Colonias Unidas,1
+ITAPUA,western_union,Obligado,3
+MISIONES,western_union,Santa Maria,2
+MISIONES,western_union,San Ignacio,10
+NEEMBUCU,western_union,Mayor Jose D. Martinez,1
+NEEMBUCU,western_union,Gral. Jose E Diaz,1
+NEEMBUCU,western_union,Gral Eduvigis Diaz,1
+ITAPUA,western_union,General Artigas,6
+ITAPUA,western_union,Trinidad,3
+MISIONES,western_union,Santa Rosa,3
+MISIONES,western_union,Santo Rosa Misiones,1
+SANPEDRO,western_union,Santa Rosa,1
+MISIONES,western_union,Santa Rosa Misiones,1
+NEEMBUCU,western_union,Isla Umbu,1
+NEEMBUCU,western_union,Humiata,1
+ITAPUA,western_union,Jose Leandro Oviedo,1
+ITAPUA,western_union,Encarnacion,54
+ITAPUA,western_union,Capitan Miranda,2
+MISIONES,western_union,San Patricio,1
+MISIONES,western_union,San Patricio Misiones,1
+ITAPUA,western_union,Colonia Fram,1
+NEEMBUCU,western_union,Ita Cora,1
+ITAPUA,western_union,Colonias Fram,1
+ITAPUA,western_union,Bella Vista,2
+ITAPUA,western_union,Carmen Del Parana,6
+CENTRAL,western_union,Gral Diaz,1
+ITAPUA,western_union,Coronel Bogado,9
+ITAPUA,western_union,Encarnaci�n,3
+UNKNOWN,western_union,Encarnacion,1
+CAAGUAZU,western_union,Coronel Oviedo,30
+UNKNOWN,western_union,Coronel Bogado,1
+ITAPUA,western_union,Gral Delgado,1
+ITAPUA,western_union,General Jose Maria Delgado,2
+GUAIRA,western_union,Villarrica,33
+ITAPUA,western_union,Gral. Artigas,1
+ALTOPARANA,western_union,Encarnacion,1
+ITAPUA,western_union,San Cosme Y Damian,3
+NEEMBUCU,western_union,Laureles,1
+MISIONES,western_union,Santiago,2
+ITAPUA,western_union,Cambyreta,2
+MISIONES,western_union,Ayolas,2
+ALTOPARANA,western_union,Naranjal,1
+CAAZAPA,western_union,Tavai,4
+CAAZAPA,western_union,San Juan Nepomuceno,16
+CAAZAPA,western_union,Toro Blanco,1
+ALTOPARANA,western_union,Tavapy,3
+CAAZAPA,western_union,San Juan Nepomunceno,1
+PARAGUAR,western_union,Quiindy,1
+GUAIRA,western_union,General Eugenio A. Garay,1
+GUAIRA,western_union,Eugenio A. Garay,1
+GUAIRA,western_union,Iturbe,1
+GUAIRA,western_union,Jose A. Fassardi,1
+GUAIRA,western_union,Jose Fassardi,2
+NEEMBUCU,western_union,Villa Oliva,1
+CAAZAPA,western_union,Abai,1
+CAAZAPA,western_union,General Morinigo,1
+PARAGUARI,western_union,Ybycui,7
+ALTOPARANA,western_union,Yguazu,1
+PARAGUARI,western_union,Quiindy,5
+ALTOPARANA,western_union,Juan Leon Mallorquin,4
+CANINDEYU,western_union,Salto Del Guaira,4
+ALTOPARANA,western_union,Juan L  Mallorquin,1
+BOQUERON,western_union,Filadelfia,2
+ALTOPARANA,western_union,Juan E Oleary,2
+ALTOPARANA,western_union,Juan E O Leary,1
+ALTOPARANA,western_union,Juan E  Oleary,1
+ALTOPARANA,western_union,Cruce Itakyry,1
+ALTOPARANA,western_union,Mbaracayu,1
+PARAGUARI,western_union,Carapegua,15
+CENTRAL,western_union,Quiindy,1
+CAAGUAZU,western_union,Culantrillo,1
+CAAGUAZU,western_union,Jose Domingo Ocampo,2
+GUAIRA,western_union,Paso Yobai,3
+ALTOPARANA,western_union,San Alberto,2
+PARAGUARI,western_union,Acahay,4
+GUAIRA,western_union,Independencia,4
+GUAIRA,western_union,Villarica,1
+CENTRAL,western_union,Villarrica,1
+GUAIRA,western_union,Colonia Independencia,2
+CAAGUAZU,western_union,Tembiapora,2
+ALTOPARANA,western_union,Itakyry,5
+PARAGUARI,western_union,Roque Gonzalez De Santacruz,1
+PARAGUARI,western_union,San Roque Gonzalez,1
+PARAGUARI,western_union,La Colmena,4
+PARAGUARI,western_union,Paraguari,16
+ALTOPARANA,western_union,Minga Pora,2
+ALTOPARANA,western_union,Colonia Yguazu,1
+PARAGUARI,western_union,Quyquyho,1
+PARAGUARI,western_union,Quindy,1
+PARAGUARI,western_union,Mbuyapey,2
+SANPEDRO,western_union,Mbuyapey,1
+PARAGUARI,western_union,Caapucu,1
+CENTRAL,western_union,Fernando De La Mora,29
+PARAGUARI,western_union,Ybicui,1
+ALTOPARANA,western_union,Ybycui,1
+GUAIRA,western_union,Numi,2
+PARAGUAR,western_union,Carapegu�,1
+GUAIRA,western_union,Mbocayaty,1
+CORDILLERA,western_union,Mbocajaty,1
+ALTOPARANA,western_union,Santa Rita,4
+GUAIRA,western_union,Mauricio Jose Troche,3
+SANPEDRO,western_union,San Estanislao,14
+CAAGUAZU,western_union,Toledo,1
+CAAGUAZU,western_union,J E Estigarribia,1
+CAAGUAZU,western_union,Dr Juan Eulogio Estigarribia,1
+ALTOPARANA,western_union,Campo 9,1
+CAAGUAZU,western_union,Campo 9,6
+CAAGUAZU,western_union,Repatriacion,4
+ITAPUA,western_union,Yataity,1
+GUAIRA,western_union,Yataity,3
+SANPEDRO,western_union,Yataity,1
+CAAGUAZU,western_union,Caaguazu,30
+PARAGUARI,western_union,Gral Bernardino Caballero,1
+CANINDEYU,western_union,Nueva Esperanza,1
+ALTOPARAGUAY,western_union,Gral. Bernardino Caballero,1
+CANINDEYU,western_union,"Francisco Caballero Alvarez,",1
+CANINDEYU,western_union,Francisco Caballero Alvarez,1
+GUAIRA,western_union,Jose Mauricio Troche,1
+CANINDEYU,western_union,Mauricio J. Troche,1
+CANINDEYU,western_union,Katuete,3
+CAAGUAZU,western_union,Juan Manuel Frutos,3
+CENTRAL,western_union,Nueva Italia,1
+CAAGUAZU,western_union,Caaguaz�,2
+CENTRAL,western_union,Caaguazu,1
+CANINDEYU,western_union,Curuguaty,7
+CAAGUAZU,western_union,Cnel Oviedo,3
+CAAGUAZU,western_union,Raul Arsenio Oviedo,1
+CAAGUAZU,western_union,Raul Arsernio Oviedo,1
+PARAGUARI,western_union,Escobar,1
+GUAIRA,western_union,Natalicio Talavera,2
+CENTRAL,western_union,�emby,9
+CARAPEGUA,western_union,Paraguari,1
+CENTRAL,western_union,Carapegua,1
+CAAGUAZU,western_union,3 De Febrero,7
+CENTRAL,western_union,Yaguaron,2
+CORDILLERA,western_union,Valenzuela,2
+CENTRAL,western_union,Ita,10
+CENTRAL,western_union,Guarambare,2
+CENTRAL,western_union,Ypane,8
+PARAGUARI,western_union,Pirayu,2
+CENTRAL,western_union,It�,1
+CENTRAL,western_union,J.augusto Saldivar,1
+CENTRAL,western_union,Villeta,6
+CAAGUAZU,western_union,San Jose De Los Arroyos,1
+PARAGUARI,western_union,Yaguaron,8
+CAAGUAZU,western_union,Yhu,4
+CAAGUAZU,western_union,Dr Juan Manuel Frutos,2
+CAAGUAZU,western_union,Juan M Frutos,1
+CENTRAL,western_union,Capiata,46
+CANINDEYU,western_union,Corpus Christi,1
+CENTRAL,western_union,Asuncion,97
+CENTRAL,western_union,J. Augusto Saldivar,9
+CENTRAL,western_union,Julian Augusto Saldivar,2
+CORDILLERA,western_union,Piribebui,1
+CORDILLERA,western_union,Piribebuy,3
+CENTRAL,western_union,Ypan�,1
+CENTRAL,western_union,J  A  Saldivar,1
+CORDILLERA,western_union,Tacurubi De La Cordillera,1
+CENTRAL,western_union,San Antonio,8
+CENTRAL,western_union,Itagua,1
+CENTRAL,western_union,Nemby,19
+CENTRAL,western_union,J A  Saldivar,1
+ALTOPARANA,western_union,Julian Augusto Saldivar,1
+CENTRAL,western_union,Acceso Sur,1
+CENTRAL,western_union,Villa Elisa,17
+CENTRAL,western_union,Lambare,20
+CENTRAL,western_union,J Augusto Saldivar,2
+CENTRAL,western_union,Ipane,1
+CANINDEYU,western_union,Ybyrarobana,1
+CORDILLERA,western_union,Santa Elena,3
+CENTRAL,western_union,Itaugua,19
+CORDILLERA,western_union,Santa Elea,1
+CENTRAL,western_union,Capiat�,4
+CENTRAL,western_union,Ypacarai,7
+CORDILLERA,western_union,San Lorenzo,1
+CENTRAL,western_union,Limpio,23
+CORDILLERA,western_union,Isla Pucu,4
+CORDILLERA,western_union,Caacupe,10
+CENTRAL,western_union,Asunci�n,7
+CORDILLERA,western_union,Eusebio Ayala,7
+CENTRAL,western_union,Pedrozo,1
+CORDILLERA,western_union,Caacuoe,1
+ITAPUA,western_union,Caacupe,1
+CENTRAL,western_union,Caacupe,1
+CENTRAL,western_union,Aragua,1
+DISTRITOCAPITAL,western_union,Asuncion,11
+CENTRAL,western_union,Luque,22
+PRESIDENTEHAYES,western_union,Nanawa,1
+CORDILLERA,western_union,Mbocayaty Del Yhaguy,1
+PRESIDENTEHAYES,western_union,Jose Falcon,1
+PTEHAYES,western_union,Jose Falcon,1
+PRESIDENTHAYES,western_union,Jose Falcon,1
+CAPITAL,western_union,Asuncion,6
+AREGUA,western_union,Central,2
+ASUNCION,western_union,Asuncion,1
+CAAGUAZU,western_union,Vaqueria,2
+CENTRAL,western_union,San Bernardino,2
+CENTRAL,western_union,Gran Asuncion,2
+CORDILLERA,western_union,San Bernardino,4
+CORDILLERA,western_union,Altos,2
+CENTRAL,western_union,Mariano Roque Alonso,23
+CORDILLERA,western_union,Atyra,3
+CAAGUAZU,western_union,Carayao,1
+CORDILLERA,western_union,Tobati,5
+GUAIRA,western_union,Luque,1
+CENTRAL,western_union,Mariano Roque Allonso,1
+CAAGUAZU,western_union,San Joaquin,3
+SANPEDRO,western_union,Capiibary,4
+CORDILLERA,western_union,Arrollos Y Estero,1
+CORDILLERA,western_union,Cordillera,1
+PRESIDENTHAYES,western_union,Benjamin Aceval,1
+CAAGUAZU,western_union,Santa Rosa Del Mbutuy,1
+CORDILLERA,western_union,Emboscada,3
+PRESIDENTHAYES,western_union,Villa Hayes,6
+CAAGUAZU,western_union,Cecilio Baez,1
+CORDILLERA,western_union,Caraguatay,2
+CANINDEYU,western_union,Yby Pyta,1
+CONCEPCION,western_union,Vallemi (san Lazaro),1
+CANINDEYU,western_union,Yasy Cany,1
+CANINDEYU,western_union,Yasy Ka�y,1
+CANINDEYU,western_union,Jasy Kany,1
+CORDILLERA,western_union,Juan De Mena,3
+SANPEDRO,western_union,Yataity Del Norte,3
+CAPIIBARY,western_union,San Pedro,1
+SANPEDRO,western_union,Kapiibary,1
+CORDILLERA,western_union,San Jose Obrero,1
+CAAGUAZU,western_union,Simon Bolivar,2
+CANINDEYU,western_union,Ybypyta,1
+CORDILLERA,western_union,Loma Grande,1
+CANINDEYU,western_union,Yvy Pyta,1
+SANPEDRO,western_union,Guayayvi,1
+SANPEDRO,western_union,Guayaib�,1
+GUAYAIB,western_union,San Pedro,1
+SANPEDRO,western_union,Guayaibi,12
+SANPEDRO,western_union,Guajayvi,3
+SANPEDRO,western_union,San Vicente Pancholo,2
+SANPEDRO,western_union,Guayaivy,2
+SANPEDRO,western_union,Santani,2
+SANPEDRO,western_union,San Pedro,3
+SANPEDRO,western_union,Yrybucua,2
+SANPEDRO,western_union,Yrybycua,1
+ITAPUA,western_union,Itacurubi Del Rosario,1
+GUARAMBARE,western_union,Guarambare,1
+SANPEDRO,western_union,Itacurubi Del Rosario,2
+CANINDEYU,western_union,Maracana,1
+SANPEDRO,western_union,25 De Diciembre,1
+CANINDEYU,western_union,Villa Ygatymi,1
+AMAMBAY,western_union,Pedro Juan Caballero,7
+SANPEDRO,western_union,Union,1
+CONCEPCION,western_union,Vallemi,1
+CONCEPCION,western_union,San Lazaro,1
+CONCEPCION,western_union,Sgto. Jose Felix Lopez,1
+CONCEPCION,western_union,Sargento Jose Felix Lopez,1
+SANPEDRO,western_union,Gral. Aquino,2
+SANPEDRO,western_union,General Aquino,3
+SANPEDRO,western_union,Gral. Elizardo Aquino,1
+SANPEDRO,western_union,Santa Rosa Del Aguaray,4
+ALTOPARANA,western_union,Itacurubi Del Rosario,1
+SANPEDRO,western_union,Antequera,2
+SANPEDRO,western_union,Lima,2
+SANPEDRO,western_union,San Pablo,2
+SANPEDRO,western_union,Cruce Liberacion,6
+SANPEDRO,western_union,Chore,5
+SANPEDRO,western_union,Liberacion Norte,1
+CONCEPCION,western_union,Concepcion,14
+SANPEDRO,western_union,Gral. Isidoro Resquin,2
+SANPEDRO,western_union,General Resquin,1
+SANPEDRO,western_union,Gral Resquin,1
+SANPEDRO,western_union,Villa Del Rosario,1
+CONCEPCION,western_union,Yby Yau,5
+CONCEPCION,western_union,Yvy Ya U,1
+SANPEDRO,western_union,San Pedro Del Ycuamanduyu,1
+SANPEDRO,western_union,San Pedro Del Ykuamandyju,2
+SANPEDRO,western_union,San Pedro Del Ycuamandiyu,2
+SANPEDRO,western_union,San Pedro Del Ycuamandyyu,3
+SANPEDRO,western_union,San Pedo Del Ycuamandiyu,1
+SANPEDRO,western_union,San Pedro Del Ycua Mandiyu,1
+SANPEDRO,western_union,Liberacion,1
+SANPEDRO,western_union,Karapai,1
+AMAMBAY,western_union,Karapai,1
+SANPEDRO,western_union,Genreal Elizardo Aquino,1
+CONCEPCION,western_union,Sgto. Jos� F�lix L�pez,1
+CONCEPCION,western_union,Concepci�n,1
+CENTRAL,western_union,Concepcion,1
+SANPEDRO,western_union,Colonia Andres Barbero,1
+CONCEPCION,western_union,Azotey,5
+CONCEPCION,western_union,Asotey,1
+SANPEDRO,western_union,San Pedro Del Itacua,1

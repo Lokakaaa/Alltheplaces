@@ -1,0 +1,541 @@
+City,Place Name,Zipcode,Name
+Le Val-d'Hazey,aldi_nord_fr,,unknown,ALDI Le Val-d'Hazey
+Vaucelles,aldi_nord_fr,,unknown,ALDI Vaucelles
+Flers,aldi_nord_fr,,unknown,ALDI Flers
+Caudebec-lès-Elbeuf,aldi_nord_fr,,unknown,ALDI Caudebec-lès-Elbeuf
+Barentin,aldi_nord_fr,,unknown,ALDI Barentin
+Gisors,aldi_nord_fr,,unknown,ALDI Gisors
+Nonancourt,aldi_nord_fr,,unknown,ALDI Nonancourt
+Vimoutiers,aldi_nord_fr,,unknown,ALDI Vimoutiers
+Évreux,aldi_nord_fr,,unknown,ALDI Évreux
+Val-de-Reuil,aldi_nord_fr,,unknown,ALDI Val-de-Reuil
+Neufchâtel-en-Bray,aldi_nord_fr,,unknown,ALDI Neufchâtel-en-Bray
+Fécamp,aldi_nord_fr,,unknown,ALDI Fécamp
+Bernay,aldi_nord_fr,,unknown,ALDI Bernay
+Vernon,aldi_nord_fr,,unknown,ALDI Vernon
+Les Monts d'Aunay,aldi_nord_fr,,unknown,ALDI Les Monts d'Aunay
+Le Neubourg,aldi_nord_fr,,unknown,ALDI Le Neubourg
+Gruchet-le-Valasse,aldi_nord_fr,,unknown,ALDI Gruchet-le-Valasse
+Le Havre,aldi_nord_fr,,unknown,ALDI Le Havre
+Le Mesnil-Esnard,aldi_nord_fr,,unknown,ALDI Le Mesnil-Esnard
+Montivilliers,aldi_nord_fr,,unknown,ALDI Montivilliers
+Étrépagny,aldi_nord_fr,,unknown,ALDI Étrépagny
+L'Aigle,aldi_nord_fr,,unknown,ALDI L'Aigle
+Saint-Hilaire-du-Harcouët,aldi_nord_fr,,unknown,ALDI Saint-Hilaire-du-Harcouët
+Saint-Aubin-sur-Scie,aldi_nord_fr,,unknown,ALDI Saint-Aubin-sur-Scie
+Saint-Amand-Villages,aldi_nord_fr,,unknown,ALDI Saint-Amand-Villages
+Cherbourg-en-Cotentin,aldi_nord_fr,,unknown,ALDI Cherbourg-en-Cotentin
+Harfleur,aldi_nord_fr,,unknown,ALDI Harfleur
+La Rivière-Saint-Sauveur,aldi_nord_fr,,unknown,ALDI La Rivière-Saint-Sauveur
+Breteuil,aldi_nord_fr,,unknown,ALDI Breteuil
+Mortagne-au-Perche,aldi_nord_fr,,unknown,ALDI Mortagne-au-Perche
+Caen,aldi_nord_fr,,unknown,ALDI Caen
+Granville,aldi_nord_fr,,unknown,ALDI Granville
+Saint-Valery-en-Caux,aldi_nord_fr,,unknown,ALDI Saint Valery En Caux
+Rouen,aldi_nord_fr,,unknown,ALDI Rouen
+Pont-de-l'Arche,aldi_nord_fr,,unknown,ALDI Pont-de-l'Arche
+Totes,aldi_nord_fr,,unknown,ALDI Totes
+Avranches,aldi_nord_fr,,unknown,ALDI Avranches
+Lisieux,aldi_nord_fr,,unknown,ALDI Lisieux
+La Haye,aldi_nord_fr,,unknown,ALDI La Haye
+Le Petit-Quevilly,aldi_nord_fr,,unknown,ALDI Le Petit-Quevilly
+Forges-les-Eaux,aldi_nord_fr,,unknown,ALDI Forges-les-Eaux
+Touques,aldi_nord_fr,,unknown,ALDI Touques
+Alençon,aldi_nord_fr,,unknown,ALDI Alençon
+Condé-en-Normandie,aldi_nord_fr,,unknown,ALDI Condé-en-Normandie
+Yvetot,aldi_nord_fr,,unknown,ALDI Yvetot
+Bosroumois,aldi_nord_fr,,unknown,ALDI Bosroumois
+Verneuil d'Avre et d'Iton,aldi_nord_fr,,unknown,ALDI Verneuil d'Avre et d'Iton
+Saint-Étienne-du-Rouvray,aldi_nord_fr,,unknown,ALDI Saint-Etienne-du-Rouvray
+Le Trait,aldi_nord_fr,,unknown,ALDI Le Trait
+Saint-Lô,aldi_nord_fr,,unknown,ALDI Saint-Lô
+Mortain-Bocage,aldi_nord_fr,,unknown,ALDI Mortain-Bocage
+Gournay-en-Bray,aldi_nord_fr,,unknown,ALDI Gournay-en-Bray
+Pont-Audemer,aldi_nord_fr,,unknown,ALDI Pont-Audemer
+Giberville,aldi_nord_fr,,unknown,ALDI Giberville
+Ifs,aldi_nord_fr,,unknown,ALDI Ifs
+Cleon,aldi_nord_fr,,unknown,ALDI Cleon
+Vire-Normandie,aldi_nord_fr,,unknown,ALDI Vire-Normandie
+Dives-sur-Mer,aldi_nord_fr,,unknown,ALDI Dives-sur-Mer
+Pacy-sur-Eure,aldi_nord_fr,,unknown,ALDI Pacy sur Eure
+Agneaux,grand_optical,,unknown,Opticien SAINT LO Générale d'Optique
+Argentan,grand_optical,,unknown,Opticien ARGENTAN Générale d'Optique
+Barentin,grand_optical,,unknown,Opticien ROUEN BARENTIN Générale d'Optique
+Bayeux,grand_optical,,unknown,Opticien BAYEUX Générale d'Optique
+Pont-Audemer,grand_optical,,unknown,Opticien PONT AUDEMER Générale d'Optique
+Mondeville,grand_optical,,unknown,Opticien CAEN MONDEVILLE Générale d'Optique
+Gonfreville-l'Orcher,grand_optical,,unknown,Opticien LE HAVRE GONFREVILLE Générale d'Optique
+Caen,grand_optical,,unknown,Opticien CAEN COTE DE NACRE Générale d'Optique
+Montivilliers,grand_optical,,unknown,Opticien LE HAVRE MONTIVILLIERS Générale d'Optique
+Gruchet-le-Valasse,grand_optical,,unknown,Opticien GRUCHET LE VALASSE Générale d'Optique
+Hérouville-Saint-Clair,grand_optical,,unknown,Opticien CAEN HEROUVILLE Générale d'Optique
+La Glacerie,grand_optical,,unknown,Opticien CHERBOURG 2 Générale d'Optique
+Rots,grand_optical,,unknown,Opticien CAEN ROTS Générale d'Optique
+Rouen,grand_optical,,unknown,Opticien ROUEN SAINT SEVER Générale d'Optique
+Cherbourg-en-Cotentin,grand_optical,,unknown,Opticien CHERBOURG Générale d'Optique
+Le Grand-Quevilly,grand_optical,,unknown,Opticien GRAND QUEVILLY Générale d'Optique
+Le Havre,grand_optical,,unknown,Opticien LE HAVRE GRAND CAP Générale d'Optique
+Lisieux,grand_optical,,unknown,Opticien LISIEUX Générale d'Optique
+Dieppe,grand_optical,,unknown,Opticien DIEPPE Générale d'Optique
+Saint-Marcel,grand_optical,,unknown,Opticien VERNON Générale d'Optique
+Évreux,grand_optical,,unknown,Opticien Évreux GrandOptical
+Flers,grand_optical,,unknown,Opticien FLERS ORNE Générale d'Optique
+Tourville-la-Rivière,grand_optical,,unknown,Opticien et Audioprothésiste TOURVILLE Générale d'Optique
+Val-de-Reuil,grand_optical,,unknown,Opticien VAL DE REUIL Générale d'Optique
+Yquelon,grand_optical,,unknown,Opticien Granville GrandOptical
+Yvetot,grand_optical,,unknown,Opticien YVETOT Générale d'Optique
+Menneval,grand_optical,,unknown,Opticien BERNAY Générale d'Optique
+Avranches,grand_optical,,unknown,Opticien AVRANCHES Générale d'Optique
+Neufchâtel-en-Bray,grand_optical,,unknown,Opticien NEUFCHATEL EN BRAY Générale d'Optique
+Vire,grand_optical,,unknown,Opticien VIRE Générale d'Optique
+Fécamp,grand_optical,,unknown,Opticien Fécamp Générale d'Optique
+Alencon,korian_fr,,unknown,Korian Le Diamant
+Bois-Guillaume,korian_fr,,unknown,Korian Villa Saint Do
+Breteuil,korian_fr,,unknown,Korian Ville en Vert
+Bueil,korian_fr,,unknown,Korian Val aux Fleurs
+Équeurdreville-Hainneville,korian_fr,,unknown,Korian La Goélette
+Évrecy,korian_fr,,unknown,Korian Les Rives de l'Odon
+Grainville-sur-odon,korian_fr,,unknown,Korian Reine Mathilde
+Le Havre,korian_fr,,unknown,Korian Porte Océane
+Le Teilleul,korian_fr,,unknown,Korian Rive de Sélune
+Lisieux,korian_fr,,unknown,Korian Villa Bérat
+Louviers,korian_fr,,unknown,Korian L'Ermitage
+Montivilliers,korian_fr,,unknown,Korian Hauts de L'Abbaye
+Ouistreham,korian_fr,,unknown,Korian Thalatta
+Perriers-sur-Andelle,korian_fr,,unknown,Korian Jardin de L'Andelle
+Rouen,korian_fr,,unknown,Korian Le Jardin
+Rugles,korian_fr,,unknown,Korian La Risle
+Vernon,korian_fr,,unknown,Korian Nymphéas Bleus
+MONDEVILLE,mercedes_benz,,unknown,SOCIETE AUBIN NORMANDIE
+CARENTAN,mercedes_benz,,unknown,LEBAUDY-LANGLOIS
+EVREUX,mercedes_benz,,unknown,DAVIS 27
+ROUEN,mercedes_benz,,unknown,DAVIS 76
+LA-CHAPELLE-AU-MOINE,mercedes_benz,,unknown,GRAVELAT FLEURY AUTOMOBILES
+LE HAVRE,mercedes_benz,,unknown,ANVU
+SAINT-PLANCHERS,mercedes_benz,,unknown,DUREY CHANCEY
+RICHEVILLE,mercedes_benz,,unknown,GARAGE LEROYER
+SAINT-ROMAIN-DE-COLBOSC,mercedes_benz,,unknown,CARROSSERIE AUBIN
+DIEPPE,mercedes_benz,,unknown,DAVIS DIEPPE
+YVETOT,mercedes_benz,,unknown,GARAGE PERCHEY
+GLOS,mercedes_benz,,unknown,SOVELEX
+TOURLAVILLE,mercedes_benz,,unknown,LEBAUDY-LANGLOIS
+CERISÉ,mercedes_benz,,unknown,NORMANDIE ETOILE AUTOMOBILES
+FAUVILLE,mercedes_benz,,unknown,NORMANDY DIESEL 27
+GRENTHEVILLE,mercedes_benz,,unknown,ANVU
+SAINT-ETIENNE-DU-ROUVRAY,mercedes_benz,,unknown,NORMANDY DIESEL
+NEUFCHATEL-EN-BRAY,mercedes_benz,,unknown,NORMANDY DIESEL
+Mont Saint Aignan,ricoh_europe,,unknown,Agence Mont Saint Aignan
+MONDEVILLE,smart,,unknown,SOCIETE AUBIN NORMANDIE
+DOURGNE,visa,,unknown,unknown
+SAINT JUERY,visa,,unknown,unknown
+VILLEFRANCHE DE ROUERGUE,visa,,unknown,unknown
+AUBIN,visa,,unknown,unknown
+EPAIGNES,visa,,unknown,unknown
+ROUEN,visa,,unknown,unknown
+LAIGNE EN BELIN,visa,,unknown,unknown
+LANGRES,visa,,unknown,unknown
+CETON,visa,,unknown,unknown
+LE THEIL SUR HUISNE,visa,,unknown,unknown
+BELLEME,visa,,unknown,unknown
+SAINT PIERRE DES NIDS,visa,,unknown,unknown
+ALENCON,visa,,unknown,unknown
+REMALARD,visa,,unknown,unknown
+CONDE SUR SARTHE,visa,,unknown,unknown
+BRETONCELLES,visa,,unknown,unknown
+DAMIGNY,visa,,unknown,unknown
+CEAUCE,visa,,unknown,unknown
+LE MELE SUR SARTHE,visa,,unknown,unknown
+PASSAIS LA CONCEPTION,visa,,unknown,unknown
+MORTAGNE AU PERCHE,visa,,unknown,unknown
+SAINT LANGIS LES MORTAGNE,visa,,unknown,unknown
+LA CHAPELLE D ANDAINE,visa,,unknown,unknown
+SAINT JAMES,visa,,unknown,unknown
+LONGNY AU PERCHE,visa,,unknown,unknown
+LE TEILLEUL,visa,,unknown,unknown
+SAINT MARTIN DE LANDELLES,visa,,unknown,unknown
+BAGNOLES DE L ORNE,visa,,unknown,unknown
+BAGNOLES DE L'ORNE,visa,,unknown,unknown
+CARROUGES,visa,,unknown,unknown
+PONTORSON,visa,,unknown,unknown
+SAINT HILAIRE DU HARCOUET,visa,,unknown,unknown
+LA FERTE MACE,visa,,unknown,unknown
+DOMFRONT,visa,,unknown,unknown
+TOUROUVRE,visa,,unknown,unknown
+SEES,visa,,unknown,unknown
+BARENTON,visa,,unknown,unknown
+COURTOMER,visa,,unknown,unknown
+ISIGNY LE BUAT,visa,,unknown,unknown
+DUCEY,visa,,unknown,unknown
+MORTREE,visa,,unknown,unknown
+MOULINS LA MARCHE,visa,,unknown,unknown
+MORTAIN,visa,,unknown,unknown
+LA FERRIERE AUX ETANGS,visa,,unknown,unknown
+SAINT MARTIN DES CHAMPS,visa,,unknown,unknown
+AVRANCHE,visa,,unknown,unknown
+BRIOUZE,visa,,unknown,unknown
+AVRANCHES,visa,,unknown,unknown
+LE MERLERAULT,visa,,unknown,unknown
+MESSEI,visa,,unknown,unknown
+SAINTE GAUBURGE STE COLOMBE,visa,,unknown,unknown
+ECOUCHE,visa,,unknown,unknown
+SOURDEVAL,visa,,unknown,unknown
+BRECEY,visa,,unknown,unknown
+ARGENTAN,visa,,unknown,unknown
+VERNEUIL SUR AVRE,visa,,unknown,unknown
+FLERS,visa,,unknown,unknown
+VERNEUIL S/AVRE,visa,,unknown,unknown
+FLERS DE L'ORNE,visa,,unknown,unknown
+PUTANGES PONT ECREPIN,visa,,unknown,unknown
+L AIGLE,visa,,unknown,unknown
+TOURLAVILLE,visa,,unknown,unknown
+TINCHEBRAY,visa,,unknown,unknown
+SARTILLY,visa,,unknown,unknown
+SAINT GEORGES GROSEILLERS,visa,,unknown,unknown
+NONANCOURT,visa,,unknown,unknown
+JULLOUVILLE,visa,,unknown,unknown
+GACE,visa,,unknown,unknown
+LA HAYE PESNEL,visa,,unknown,unknown
+ATHIS DE L ORNE,visa,,unknown,unknown
+TRUN,visa,,unknown,unknown
+RUGLES,visa,,unknown,unknown
+SAINT PAIR SUR MER,visa,,unknown,unknown
+LA FERTE FRENEL,visa,,unknown,unknown
+BRETEUIL,visa,,unknown,unknown
+VIRE,visa,,unknown,unknown
+VILLEDIEU LES POELES,visa,,unknown,unknown
+SAINT SEVER CALVADOS,visa,,unknown,unknown
+GRANVILLE,visa,,unknown,unknown
+VASSY,visa,,unknown,unknown
+CONDE SUR NOIREAU,visa,,unknown,unknown
+DONVILLE LES BAINS,visa,,unknown,unknown
+MESNILS SUR ITON,visa,,unknown,unknown
+EZY SUR EURE,visa,,unknown,unknown
+PARIS 15,visa,,unknown,unknown
+LE SAP,visa,,unknown,unknown
+FALAISE,visa,,unknown,unknown
+IVRY LA BATAILLE,visa,,unknown,unknown
+LA NEUVE LYRE,visa,,unknown,unknown
+BREHAL,visa,,unknown,unknown
+SAINT ANDRE DE L'EURE,visa,,unknown,unknown
+GAVRAY,visa,,unknown,unknown
+VIMOUTIERS,visa,,unknown,unknown
+PERCY,visa,,unknown,unknown
+CERENCES,visa,,unknown,unknown
+MONTREUIL L'ARGILLE,visa,,unknown,unknown
+LA BARRE EN OUCHE,visa,,unknown,unknown
+HONFLEUR,visa,,unknown,unknown
+CONCHES EN OUCHE,visa,,unknown,unknown
+TESSY SUR VIRE,visa,,unknown,unknown
+THURY HARCOURT,visa,,unknown,unknown
+QUETTREVILLE SUR SIENNE,visa,,unknown,unknown
+LIVAROT,visa,,unknown,unknown
+MONTMARTIN SUR MER,visa,,unknown,unknown
+BROGLIE,visa,,unknown,unknown
+ST SEBASTIEN DE MORSENT,visa,,unknown,unknown
+SAINT MARTIN DES BESACES,visa,,unknown,unknown
+SAINT PIERRE SUR DIVES,visa,,unknown,unknown
+EVREUX,visa,,unknown,unknown
+ORBEC,visa,,unknown,unknown
+AUNAY SUR ODON,visa,,unknown,unknown
+PACY SUR EURE,visa,,unknown,unknown
+CERISY LA SALLE,visa,,unknown,unknown
+TORIGNI SUR VIRE,visa,,unknown,unknown
+BRETTEVILLE SUR LAIZE,visa,,unknown,unknown
+CONDE SUR VIRE,visa,,unknown,unknown
+COUTANCES,visa,,unknown,unknown
+GRAVIGNY,visa,,unknown,unknown
+AGON COUTAINVILLE,visa,,unknown,unknown
+MEZIDON CANON,visa,,unknown,unknown
+MESNIL EN OUCHE,visa,,unknown,unknown
+DOUAINS,visa,,unknown,unknown
+VILLERS BOCAGE,visa,,unknown,unknown
+BEAUMONT LE ROGER,visa,,unknown,unknown
+CANISY,visa,,unknown,unknown
+BERNAY,visa,,unknown,unknown
+CAUMONT L EVENTE,visa,,unknown,unknown
+SAINT JEAN DES BAISANTS,visa,,unknown,unknown
+EVRECY,visa,,unknown,unknown
+VERNON,visa,,unknown,unknown
+MARIGNY,visa,,unknown,unknown
+SERQUIGNY,visa,,unknown,unknown
+SAINT MARTIN DE FONTENAY,visa,,unknown,unknown
+GOUVILLE SUR MER,visa,,unknown,unknown
+SAINT LO,visa,,unknown,unknown
+ST MARCEL,visa,,unknown,unknown
+SAINT-LO,visa,,unknown,unknown
+GASNY,visa,,unknown,unknown
+AGNEAUX,visa,,unknown,unknown
+ARGENCES,visa,,unknown,unknown
+LISIEUX,visa,,unknown,unknown
+THIBERVILLE,visa,,unknown,unknown
+FLEURY SUR ORNE,visa,,unknown,unknown
+SAINT SAUVEUR LENDELIN,visa,,unknown,unknown
+CAGNY,visa,,unknown,unknown
+IFS,visa,,unknown,unknown
+CAMBREMER,visa,,unknown,unknown
+LE NEUBOURG,visa,,unknown,unknown
+VERSON,visa,,unknown,unknown
+LOUVIGNY,visa,,unknown,unknown
+CAEN,visa,,unknown,unknown
+BRETTEVILLE,visa,,unknown,unknown
+GAILLON,visa,,unknown,unknown
+PONT HEBERT,visa,,unknown,unknown
+MONDEVILLE,visa,,unknown,unknown
+VEXIN SUR EPTE,visa,,unknown,unknown
+TILLY SUR SEULLES,visa,,unknown,unknown
+TROARN,visa,,unknown,unknown
+GIBERVILLE,visa,,unknown,unknown
+PIROU,visa,,unknown,unknown
+PERIERS,visa,,unknown,unknown
+BRIONNE,visa,,unknown,unknown
+CERISY LA FORET,visa,,unknown,unknown
+SAINT CLAIR SUR L ELLE,visa,,unknown,unknown
+SAINT CONTEST,visa,,unknown,unknown
+HEROUVILLE ST CLAIR,visa,,unknown,unknown
+COLOMBELLES,visa,,unknown,unknown
+BRETTEVILLE L ORGUEILLEU,visa,,unknown,unknown
+CREANCES,visa,,unknown,unknown
+LOUVIERS,visa,,unknown,unknown
+BLAINVILLE SUR ORNE,visa,,unknown,unknown
+BIEVILLE BEUVILLE,visa,,unknown,unknown
+LESSAY,visa,,unknown,unknown
+LIEUREY,visa,,unknown,unknown
+DOZULE,visa,,unknown,unknown
+GOUVIEUX,visa,,unknown,unknown
+SAINT JEAN DE DAYE,visa,,unknown,unknown
+SAINT GEORGES DU VIEVRE,visa,,unknown,unknown
+LE MOLAY LITTRY,visa,,unknown,unknown
+CORMEILLES,visa,,unknown,unknown
+PRECY SUR OISE,visa,,unknown,unknown
+LES ANDELYS,visa,,unknown,unknown
+LE VAUDREUIL,visa,,unknown,unknown
+OUISTREHAM,visa,,unknown,unknown
+LE THUIT SIGNOL,visa,,unknown,unknown
+PONT L EVEQUE,visa,,unknown,unknown
+BAYEUX,visa,,unknown,unknown
+VAL DE REUIL,visa,,unknown,unknown
+DIVES SUR MER,visa,,unknown,unknown
+SAINT PIERRE LES ELBEUF,visa,,unknown,unknown
+CREULLY,visa,,unknown,unknown
+CAUDEBEC LES ELBEUF,visa,,unknown,unknown
+CABOURG,visa,,unknown,unknown
+ELBEUF,visa,,unknown,unknown
+DOUVRES LA DELIVRANDE,visa,,unknown,unknown
+MONTIVILLIERS,visa,,unknown,unknown
+MONTFORT SUR RISLE,visa,,unknown,unknown
+GISORS,visa,,unknown,unknown
+GRAND BOURGTHEROULDE,visa,,unknown,unknown
+LA HAYE DU PUITS,visa,,unknown,unknown
+BOSROUMOIS,visa,,unknown,unknown
+CARENTAN,visa,,unknown,unknown
+ST SYMPHORIEN LE VALOIS,visa,,unknown,unknown
+PONT DE L'ARCHE,visa,,unknown,unknown
+LUC SUR MER,visa,,unknown,unknown
+VILLERS SUR MER,visa,,unknown,unknown
+ETREPAGNY,visa,,unknown,unknown
+COURSEULLES SUR MER,visa,,unknown,unknown
+ISIGNY SUR MER,visa,,unknown,unknown
+SAINT AUBIN SUR MER,visa,,unknown,unknown
+PONT SAINT PIERRE,visa,,unknown,unknown
+BEUZEVILLE,visa,,unknown,unknown
+TOUQUES,visa,,unknown,unknown
+SAINT GATIEN DES BOIS,visa,,unknown,unknown
+OISSEL,visa,,unknown,unknown
+GRAND-COURONNE,visa,,unknown,unknown
+PONT AUDEMER,visa,,unknown,unknown
+PORTBAIL,visa,,unknown,unknown
+BOURG-ACHARD,visa,,unknown,unknown
+DEAUVILLE,visa,,unknown,unknown
+BOURG ACHARD,visa,,unknown,unknown
+TROUVILLE SUR MER,visa,,unknown,unknown
+GRAND COURONNE,visa,,unknown,unknown
+FLEURY SUR ANDELLE,visa,,unknown,unknown
+ROUTOT,visa,,unknown,unknown
+ST ETIENNE DU ROUVRAY,visa,,unknown,unknown
+PICAUVILLE,visa,,unknown,unknown
+PETIT COURONNE,visa,,unknown,unknown
+GRANDCAMP MAISY,visa,,unknown,unknown
+BOOS,visa,,unknown,unknown
+SAINT SAUVEUR LE VICOMTE,visa,,unknown,unknown
+BARNEVILLE CARTERET,visa,,unknown,unknown
+SAINT ETIENNE DU ROUVRAY,visa,,unknown,unknown
+LA RIVIERE ST SAUVEUR,visa,,unknown,unknown
+LE GRAND QUEVILLY,visa,,unknown,unknown
+FRANQUEVILLE SAINT PIERRE,visa,,unknown,unknown
+LYONS LA FORET,visa,,unknown,unknown
+MESNIL-ESNARD,visa,,unknown,unknown
+SAINTE MERE EGLISE,visa,,unknown,unknown
+SOTTEVILLE LES ROUEN,visa,,unknown,unknown
+SOTTEVILLE,visa,,unknown,unknown
+SOTTEVILLE JARDIN DES PLANTES,visa,,unknown,unknown
+BONSECOURS,visa,,unknown,unknown
+LE PETIT QUEVILLY,visa,,unknown,unknown
+ROUEN SAINT,visa,,unknown,unknown
+DARNETAL,visa,,unknown,unknown
+BIHOREL,visa,,unknown,unknown
+MONT ST AIGNAN,visa,,unknown,unknown
+MONT SAINT AIGNAN,visa,,unknown,unknown
+DEVILLE LES ROUEN,visa,,unknown,unknown
+PORT JEROME SUR SEINE,visa,,unknown,unknown
+BOIS GUILLAUME,visa,,unknown,unknown
+MAROMME,visa,,unknown,unknown
+RY,visa,,unknown,unknown
+LE TRAIT,visa,,unknown,unknown
+LE HAVRE,visa,,unknown,unknown
+BRICQUEBEC,visa,,unknown,unknown
+DUCLAIR,visa,,unknown,unknown
+BACQUEVILLE EN CAUX,visa,,unknown,unknown
+MONTEBOURG,visa,,unknown,unknown
+GOURNAY EN BRAY,visa,,unknown,unknown
+LE HAVRE SANVIC,visa,,unknown,unknown
+ISNEAUVILLE,visa,,unknown,unknown
+HARFLEUR,visa,,unknown,unknown
+VALOGNES,visa,,unknown,unknown
+LILLEBONNE,visa,,unknown,unknown
+RIVES EN SEINE,visa,,unknown,unknown
+ST ROMAIN DE COLBOSC,visa,,unknown,unknown
+SAINT ROMAIN DE COLBOSC,visa,,unknown,unknown
+ST ROMAIN COLBO,visa,,unknown,unknown
+LES PIEUX,visa,,unknown,unknown
+BARENTIN,visa,,unknown,unknown
+OCTEVILLE SUR MER,visa,,unknown,unknown
+MONTVILLE,visa,,unknown,unknown
+BOLBEC,visa,,unknown,unknown
+FLAMANVILLE,visa,,unknown,unknown
+PAVILLY,visa,,unknown,unknown
+BUCHY,visa,,unknown,unknown
+SAINT VAAST LA HOUGUE,visa,,unknown,unknown
+QUETTEHOU,visa,,unknown,unknown
+TOLLEVAST,visa,,unknown,unknown
+YVETOT,visa,,unknown,unknown
+LA GLACERIE,visa,,unknown,unknown
+FORGES LES EAUX,visa,,unknown,unknown
+BOSC LE HARD,visa,,unknown,unknown
+SERQUEUX,visa,,unknown,unknown
+CRIQUETOT L'ESNEVAL,visa,,unknown,unknown
+GODERVILLE,visa,,unknown,unknown
+OCTEVILLE,visa,,unknown,unknown
+LASSIGNY,visa,,unknown,unknown
+TERRES DE CAUX,visa,,unknown,unknown
+CHERBOURG,visa,,unknown,unknown
+EQUEURDREVILLE HAINNEVIL,visa,,unknown,unknown
+YERVILLE,visa,,unknown,unknown
+BARFLEUR,visa,,unknown,unknown
+SAINT PIERRE EGLISE,visa,,unknown,unknown
+SAINT-SAENS,visa,,unknown,unknown
+QUERQUEVILLE,visa,,unknown,unknown
+TOTES,visa,,unknown,unknown
+BEAUMONT HAGUE,visa,,unknown,unknown
+URVILLE NACQUEVILLE,visa,,unknown,unknown
+ETRETAT,visa,,unknown,unknown
+DOUDEVILLE,visa,,unknown,unknown
+AUFFAY,visa,,unknown,unknown
+VALMONT,visa,,unknown,unknown
+NEUFCHATEL EN BRAY,visa,,unknown,unknown
+FECAMP,visa,,unknown,unknown
+CANY BARVILLE,visa,,unknown,unknown
+CANY-BARVILLE,visa,,unknown,unknown
+AUMALE,visa,,unknown,unknown
+LES GRANDES VENTES,visa,,unknown,unknown
+GAUVILLE,visa,,unknown,unknown
+POIX DE PICARDIE,visa,,unknown,unknown
+LONGUEVILLE SUR SCIE,visa,,unknown,unknown
+FONTAILE LE DUN,visa,,unknown,unknown
+LUNERAY,visa,,unknown,unknown
+LONDINIERES,visa,,unknown,unknown
+VEULETTES SUR MER,visa,,unknown,unknown
+FOUCARMONT,visa,,unknown,unknown
+OFFRANVILLE,visa,,unknown,unknown
+SAINT NICOLAS D'ALIERMONT,visa,,unknown,unknown
+SAINT VALERY EN CAUX,visa,,unknown,unknown
+ENVERMEU,visa,,unknown,unknown
+DIEPPE,visa,,unknown,unknown
+NEUVILLE LES DIEPPE,visa,,unknown,unknown
+BLANGY SUR BRESLE,visa,,unknown,unknown
+ST MARTIN EN CAMPAGNE,visa,,unknown,unknown
+CRIEL SUR MER,visa,,unknown,unknown
+EU,visa,,unknown,unknown
+LE TREPORT,visa,,unknown,unknown
+MERS LES BAINS,visa,,unknown,unknown
+Gaillefontaine,western_union,,unknown,MAG PRESSE
+Gisors,western_union,,unknown,GISORS BP
+Neufchatel En Bray,western_union,,unknown,NEUFCHATEL EN BRAY BP
+Granville,western_union,,unknown,GRANVILLE BP
+Avranches,western_union,,unknown,AVRANCHES BP
+Cherbourg Octeville,western_union,,unknown,CHERBOURG PRINCIPAL BP
+Cherbourg En Cotentin,western_union,,unknown,TOURLAVILLE BP
+Coutances,western_union,,unknown,COUTANCES BP
+Valognes,western_union,,unknown,VALOGNES BP
+St Hilaire Du Harcouet,western_union,,unknown,SAINT HILAIRE DU HARCOUET BP
+Carentan Les Marais,western_union,,unknown,CARENTAN BP
+Saint Lo,western_union,,unknown,SAINT LO R P BP
+Vire,western_union,,unknown,VIRE BP
+Tinchebray Bocage,western_union,,unknown,LA CIVETTE
+Flers,western_union,,unknown,FLERS BP
+Villers Bocage,western_union,,unknown,VILLERS BOCAGE BP
+Bayeux,western_union,,unknown,BAYEUX BP
+Alencon,western_union,,unknown,ALENCON R P BP
+Thury Harcourt,western_union,,unknown,THURY HARCOURT BP
+Caen,western_union,,unknown,CAEN DETOLLE BP
+Ifs,western_union,,unknown,IFS BP
+La Ferte Mace,western_union,,unknown,LA FERTE MACE BP
+Herouville Saint Clair,western_union,,unknown,SYRIANA MARKET
+Mondeville,western_union,,unknown,MONDEVILLE BP
+Douvres La Delivrande,western_union,,unknown,DOUVRES LA DELIVRANDE BP
+Falaise,western_union,,unknown,FALAISE BP
+Courseulles Sur Mer,western_union,,unknown,COURSEULLES SUR MER BP
+Argentan,western_union,,unknown,ARGENTAN BP
+Ouistreham,western_union,,unknown,OUISTREHAM BP
+Mortagne Au Perche,western_union,,unknown,AU COMPTOIR
+Le Havre,western_union,,unknown,FDJ LA LORGNETTE
+L Aigle,western_union,,unknown,L AIGLE BP
+Pont L Eveque,western_union,,unknown,PONT L EVEQUE BP
+Deauville,western_union,,unknown,DEAUVILLE BP
+Honfleur,western_union,,unknown,HONFLEUR BP
+Bernay,western_union,,unknown,BERNAY BP
+Verneuil Sur Avre,western_union,,unknown,VERNEUIL SUR AVRE BP
+Beuzeville,western_union,,unknown,BEUZEVILLE BP
+Le Havre Mont Gaillard,western_union,,unknown,LE HAVRE MONT GAILLARD BP
+Lisieux,western_union,,unknown,LISIEUX PRINCIPAL BP
+Harfleur,western_union,,unknown,HARFLEUR BP
+Montivilliers,western_union,,unknown,MONTIVILLIERS BP
+Pont Audemer,western_union,,unknown,PONT AUDEMER BP
+Le Fidelaire,western_union,,unknown,LE NARVAL
+Bolbec,western_union,,unknown,BOLBEC BP
+Lillebonne,western_union,,unknown,L ESCALE
+Fecamp,western_union,,unknown,FECAMP BP
+Cany Barville,western_union,,unknown,CANY BARVILLE BP
+Conches En Ouche,western_union,,unknown,CONCHES EN OUCHE BP
+Le Neubourg,western_union,,unknown,LE NEUBOURG BP
+Yvetot,western_union,,unknown,YVETOT BP
+Evreux,western_union,,unknown,EVREUX NETREVILLE BP
+Gravigny,western_union,,unknown,GRAVIGNY BP
+Duclair,western_union,,unknown,DUCLAIR BP
+Elbeuf,western_union,,unknown,LA GUILDE DU DEMENAGEMENT
+Dieppe,western_union,,unknown,DIEPPE HOTEL DE VILLE BP
+Caudebec Les Elbeuf,western_union,,unknown,CAUDEBEC LES ELBEUF BP
+Pacy Sur Eure,western_union,,unknown,PACY SUR EURE BP
+Barentin,western_union,,unknown,BARENTIN BP
+Louviers,western_union,,unknown,LA CIVETTE
+Saint Etienne Du Rouvray,western_union,,unknown,MAG PRESSE DU RENAN
+Oissel,western_union,,unknown,OISSEL BP
+Maromme,western_union,,unknown,MAROMME BP
+Eu,western_union,,unknown,EU BP
+Canteleu,western_union,,unknown,CANTELEU BP
+Le Grand Quevilly Pal,western_union,,unknown,LE GRAND QUEVILLY HOTEL DE VILLE BP
+Mont Saint Aignan,western_union,,unknown,MONT SAINT AIGNAN BP
+Rouen,western_union,,unknown,ROUEN JEANNE D ARC BP
+St Etienne Du Rouvray,western_union,,unknown,SAINT ETIENNE DU ROUVRAY CARNOT BP
+Sotteville Les Rouen,western_union,,unknown,SOTTEVILLE LES ROUEN BP
+Vernon,western_union,,unknown,NINA SERVICES
+Saint Marcel,western_union,,unknown,SAINT MARCEL BP
+Val De Reuil,western_union,,unknown,VAL DE REUIL BP
+Gaillon,western_union,,unknown,GMBD SERVICE
+Le Mesnil Esnard,western_union,,unknown,LE MESNIL ESNARD BP
+Bois Guillaume,western_union,,unknown,BOISGUILLAUME BP
+Bois Guillaume Bihorel,western_union,,unknown,BIHOREL BP
+Les Andelys,western_union,,unknown,LES ANDELYS BP
+Boos,western_union,,unknown,BOOS BP
+Darnetal,western_union,,unknown,DARNETAL BP
+Deville Les Rouen,western_union,,unknown,DEVILLE LES ROUEN BP
+Le Petit Quevilly,western_union,,unknown,LE PETIT QUEVILLY BP

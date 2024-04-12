@@ -1,0 +1,636 @@
+City,Place Name,Zipcode,Name
+Zurich,apple,,unknown,Apple Rennweg
+Wallisellen,apple,,unknown,Apple Glattzentrum
+Zürich,audi,Utoquai 47-49 8008 Zürich,unknown,AMAG Utoquai
+Feldmeilen,audi,Seestrasse 269 8706 Feldmeilen,unknown,"Garage Huber AG, 
+Seebad Garage"
+Zürich,audi,Nordstrasse 124 8037 Zürich,unknown,Garage H.U. Eugster AG
+Hombrechtikon,audi,Rütistrasse 41 8634 Hombrechtikon,unknown,Garage Huber AG
+Bäretswil,audi,Baumastrasse 8344 Bäretswil,unknown,Garage Heinz Stern AG
+Zürich,audi,Rautistrasse 23 8047 Zürich,unknown,AMAG Audi Center Zürich Altstetten
+Horgen,audi,Im Schnegg 1 8810 Horgen,unknown,AMAG Horgen
+Geroldswil,audi,Grindlenstrasse 2 8954 Geroldswil,unknown,Autocenter Limmattal B. Strebel AG
+Volketswil,audi,Hölzliwisenstrasse 1 8604 Volketswil,unknown,AMAG Volketswil
+Bachenbülach,audi,Bächliwis 29 8184 Bachenbülach,unknown,AMAG Bülach
+Dübendorf,audi,Giessenstrasse 4 8600 Dübendorf,unknown,Audi Center AMAG Zürich (AMAG Autowelt)
+Rüschlikon (ZH),audi,Seehaldenstrasse 2 8803 Rüschlikon (ZH),unknown,Küry Park Side AG
+Winterthur,audi,Zürcherstrasse 240 8406 Winterthur,unknown,AMAG Winterthur
+Zurich,avis,,unknown,Avis Switzerland Zurich
+Zurich,botteg_aveneta,,unknown,Zurich - Bahnhofstrasse
+Spreitenbach,burgerking,,unknown,Burger King
+Schlieren,burgerking,,unknown,Burger King
+Regensdorf,burgerking,,unknown,Burger King
+Zurich,burgerking,,unknown,Burger King
+Zürich,burgerking,,unknown,Burger King
+Richterswil,burgerking,,unknown,Burger King
+Rumlang,burgerking,,unknown,Burger King
+Bachenbülach,burgerking,,unknown,Burger King
+Volketswil,burgerking,,unknown,Burger King
+Pfäffikon,burgerking,,unknown,Burger King
+Hinwil,burgerking,,unknown,Burger King
+Winterthur,burgerking,,unknown,Burger King
+Seuzach,burgerking,,unknown,Burger King
+Bezirk Zuerich,google_offices,"Gustav-Gull-Platz 1  
+8004 Zürich",unknown,Zürich EUR
+Bezirk Zuerich,google_offices,"Brandschenkestrasse 110
+8002 Zürich
+Switzerland",unknown,Zürich BRA
+Bezirk Zuerich,hooters,Stauffacherstrasse 96 Zurich Switzerland,unknown,Hooters
+Bezirk Pfaeffikon,ich_tanke_strom,Autobahn A1 Raststätte Kemptthal  8310 Lindau,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Bremgartnerstrasse  8953 Dietikon,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Forchstrasse  8704 Herrliberg,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Im Schörli  8600 Dübendorf,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Schaffhauserstrasse  8302 Kloten,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Lägernstrasse  8154 Oberglatt,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Schützenhausstrasse  8330 Pfäffikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Reitmenstrasse  8952 Schlieren,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Müllerenstrasse  8604 Volketswil,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Steinacherstrasse  8820 Wädenswil,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Im Schönengrund  8409 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,In der Au  8406 Winterthur,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Moosbachstrasse  8910 Affoltern am Albis,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Kemptpark  8310 Kemptthal,unknown,Tesla Supercharger
+Bezirk Affoltern,ich_tanke_strom,Moosbachstrasse  8912 Obfelden,unknown,Tesla Supercharger
+Bezirk Buelach,ich_tanke_strom,Neue Winterthurerstrasse  8304 Wallisellen,unknown,Tesla Supercharger
+Bezirk Dietikon,ich_tanke_strom,Moosmattstrasse  8953 Dietikon,unknown,Tesla Supercharger
+Bezirk Buelach,ich_tanke_strom,Erlenweg  8305 Dietlikon,unknown,Tesla Supercharger
+Bezirk Dietikon,ich_tanke_strom,Bernstrasse  5953 Dietikon,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Zürcherstrasse  8406 Winterthur,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Industriestrasse  8604 Volketswil,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Husacherstrasse  8304 Wallisellen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,A4 8046 Zürich  8046 Zürich,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,153 Seestrasse  8712 Stäfa,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Sihlfeldstrasse 125  8004 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,37 Ohrbühlstrasse  8409 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Tösstalstrasse  8483 Zell,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Kochstrasse 10  8004 Zürich,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Vogelsangstrasse 8  8307 Effretikon,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Grubenstrasse 8  8620 Wetzikon,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Schaffhauserstrasse 15  8525 Niederneunforn,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Deisrütistrasse 12  8472 Seuzach,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,alte Rheinstrasse 87  8424 Embrach,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Feldstrasse 50  8180 Bülach,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Technoparkstrasse 2  8400 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Tösstalstrasse 52  8483 Kollbrunn,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Wiesenstrasse 17  8952 Schlieren,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Oberdorfstrasse  8953 Dietikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hardturmstrasse 120-134  8005 Zürich,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Wiesenstrasse 11  8307 Illnau-Effretikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Freiestrasse 6  8952 Schlieren,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Schwerzelbodenstrasse 41  8305 Dietlikon,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Chrummenacher 9  8308 Illnau-Effretikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Überlandstrasse 2  8953 Dietikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Grindelstrasse 21  8303 Bassersdorf,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Neumühlequai 6  8001 Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Seestrasse 34  8802 Kilchberg,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Schaufelbergstrasse 28+30  8055 Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Schokoladenplatz 1  8802 Kilchberg,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Stationsstrasse 15  8623 Wetzikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse 110+112  8903 Birmensdorf,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Bühstrasse 49+51  8700 Küsnacht,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Lerchenbergstr. 93a-107b  8703 Erlenbach,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Badstrasse 6 + 6a  8134 Adliswil,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Albisstrasse 35  8935 Mettmenstetten,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Waldstrasse 60  8340 Hinwil,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Niederfeldstrasse 2  8932 Mettmenstetten,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Zürcherstrasse 68  8800 Thalwil,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Laubisrütistrasse 68  8712 Stäfa,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Mönchaltorferstrasse 6  8132 Egg b. Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Gotthardstrasse 14  8800 Thalwil,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Seestrasse 38  8810 Horgen,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Seestrasse 4  8714 Feldbach,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Bahnhof Parkplatz  8805 Richterswil,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Niederfeldstrasse 10  8932 Mettmenstetten,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Schulhausstrasse 12  8932 Mettmenstetten,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Forchstrasse 4  0 Esslingen,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Zürichstrasse 2  0 Uster,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Hardhofstrasse 7  0 Embrach,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Grünauring 42  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Wehntalerstrasse  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Wiswandstrasse 6  0 Wiesendangen,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Welsikerstrasse 4  0 Dinhard,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Seestrasse 39  0 Küsnacht,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Allmendstrasse 121  0 Zürich,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Bergstrasse 49  0 Gossau ZH,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Riedmattstrasse 8  0 Rümlang,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Huttenstrasse 63  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Am Wasser 55  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Birmensdorferstrasse 484  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Limmattalstrasse 19a  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Industriestrasse 44  0 Winterthur,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Bergstrasse 4  0 Männedorf,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Seestrasse 15  0 Pfäffikon ZH,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Mettlenstrasse 7  0 Pfäffikon ZH,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Zürichstrasse 8  0 Adliswil,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Baumenstrasse  0 Pfäffikon ZH,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Binzmühlestrasse 90  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Thurgauerstrasse 40  0 Zürich,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Speerstrasse 15  8330 Pfäffikon ZH,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Oberteufenerstrasse 1  0 Freienstein-Teufen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Lerchenhalde 75  8046 Zürich,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Chorbstrasse 10  0 Rheinau,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Riedstrasse 4  0 Dietikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Giessereistrasse 18  0 Zürich,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Breitestrasse 21  0 Adlikon,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Mettlenbachstrasse 11  0 Mönchaltorf,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Paul-Clairmont-Strasse 6  0 Zürich,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Lauferstrasse  8447 Laufen-Uhwiesen,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Gossauerstrasse 14  8340 Hinwil,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Schloss Laufen  0 Laufen-Uhwiesen,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Rudolf Diesel-Strasse 19  0 Winterthur,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Gewerbestrasse 9  0 Steinmaur,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Grabenwisstrasse 5  0 Volketswil,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Bahnhofstrasse 196  0 Wetzikon,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Schaffhauserstrasse 62  0 Kleinandelfingen,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Stegackerstrasse 22  0 Winterthur,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Bandwiesstrasse 11  0 Rüti,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Bahnhofplatz 1a  0 Wallisellen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Orellistrasse 21  0 Zürich,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Hauptstrasse 17  0 Steinmaur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Schärenmoosstrasse 77  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Robert-Sulzer-Gasse 4  0 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Forchstrasse 95  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hagenholz 110  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Forellenweg 9  0 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Flughafenstrasse 75  0 Kloten,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Wässeristrasse 19  8340 Hinwil,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Silbernstrasse 1  0 Dietikon,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Breiterstrasse 33  0 Adlikon-Regensdorf,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Geissbüelstrasse 24  0 Volketswil,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Kreuzstrasse 2  0 Dürnten,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Wagistrasse 33  0 Schlieren,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Riedhofstrasse 11  0 Au ZH,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Bramenstrasse 2  0 Bachenbülach,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Industriestrasse 33  0 Dietlikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Untere Bruech 109  0 Meilen,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Berghofstrasse 7  0 Gossau ZH,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Riedthofstrasse 228  0 Regensdorf,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Hatzenbühlstrasse 51  0 Nürensdorf,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Richtistrasse 2  0 Wallisellen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Werdstrasse 4  0 Zürich,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Kemptthalstrasse 65  8320 Fehraltorf,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Kreuzstrasse 10  0 Dürnten,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Zürcherstrasse 51  0 Winterthur,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Im Laternenacker 5  0 Schaffhausen,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Hungerbühlstrasse 22  0 Embrach,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Schützenmattstrasse 48  8180 Null,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Meierwiesenstrasse 4.25  0 Zürich,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Kesselstrasse 6  0 Schaffhausen,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Kempttalstrasse 107  0 Illnau-Effretikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Juliastrasse 5  8032 Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Austrasse 36  0 Volketswil,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Räffelstrasse 29  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Schlosstalstrasse 139  0 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Sihlfeldstrasse 125  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Schlosstalstrasse 95  0 Winterthur,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Neue Winterthurerstrasse 99  0 Wallisellen,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Badenerstrasse 41  0 Schlieren,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Rämistrasse 100  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Kalanderplatz 1  0 Zürich,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Rikonerstrasse 20  0 Effretikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hagenholzstrasse 119  0 Opfikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Klotenerstrasse 3  0 Bassersdorf,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,General-Wille-Strasse 201  0 Feldmeilen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Andreasstrasse 11  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Bändlistrasse 108  0 Zürich,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Im Zentrum 1  0 Regensdorf,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Dorfstrasse 16  8706 Meilen,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Industriestrasse 28  0 Dietlikon,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Gottlieb Hinderer-Weg /Bergstrasse 21 (Schlössliareal)  8618 Oetwil am See,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Motorenstrasse 2  8620 Wetzikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Im Zentrum 18  8102 Oberengstringen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Buckhauserstrasse 34  0 Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Bahnhofstrasse 10  8810 Horgen,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Thurgauerstrasse 132-156  0 Glattpark,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,General-Guisan-Strasse 42  0 Winterthur,unknown,unknown
+Bezirk Uster,ich_tanke_strom,In der Au 6  0 Volketswil,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Rappenstrasse 17  0 Effretikon,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Studbachstrasse 13  8340 Hinwil,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Schanzweg 2  8330 Pfäffikon ZH,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Mettlenstrasse 2  8193 Eglisau,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Hegifeldstrasse 38  0 Winterthur,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Risistrasse 11a-d  8903 Birmensdorf,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Tiechestrasse 99  0 Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Seestrasse 193a  0 Kilchberg,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Mythenquai 320  8038 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Forchstrasse 158  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Barbara-Reinhart-Strasse 29  0 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Else-Züblin-Strasse 5  8400 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Neuwiesenstrasse 62  0 Winterthur,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Schützenstrasse 30  0 Feuerthalen,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Gheistrasse 37  0 Rüschlikon,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Zürichstrasse  0 Dübendorf,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Coop Tankstelle Zürichstrasse 114  0 Adliswil,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse 2  0 Uitikon,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Industriestrasse 1  8604 Volketswil,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Tramstrasse 35  0 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Sägereistrasse 27  0 Opfikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Singlistrasse 2  8049 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Mythenquai 50/60  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Bocklerstrasse 10  8051 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Rautistrasse 369  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Gässli 2-16  0 Oftringen,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Bahnstrasse 5 - 7  0 Embrach,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Bahnhofstr. 75/79  0 Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Oberlandstr.52/58 Winterthurerstr.22/26  0 Uster,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Stockerstr.64/Brandschenkestr. 5  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Barbara-Reinhart-Strasse 28  0 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Freilagerstrasse 57  0 Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Speerstrasse 95  0 Wädenswil,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Bodenstrasse 15  8800 Thalwil,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Kanzleistrasse 23  8405 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,General-Guisan-Strasse.  8400 Winterthur,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Kemptpark 1  8310 Kemptthal,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Technoramastrasse 19  8404 Winterthur,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Flughofstrasse 77  0 Rümlang,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Zürichstrasse 44  0 Neftenbach,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Strickerstrasse 3  8400 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Raststätte Forrenberg  0 Seuzach,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Seestrasse 1  8712 Stäfa,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Bachsertalstrasse 12  0 Bachs,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Witikonerstrasse 390  0 Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Hochbordstrasse 43  0 Dübendorf,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Seestrasse 155  8712 Stäfa,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Rundstrasse 1  0 Winterthur,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Am Stadtrand 1  8600 Dübendorf,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Schulstrasse 7  0 Neftenbach,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Allmendstrasse 13  0 Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Parkplatz A3 Zugerstrasse 231  0 Horgen,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Steinackerstrasse 56c  0 Kloten,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Pfingstweidstrasse 102  8005 Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Im Zentrum 18  8604 Volketswil,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Leuengasse 53  0 Uitikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Giessereistrasse  8005 Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Soodring 6  0 Adliswil,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,St. Gallerstrasse 25a  0 Turbenthal,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Widenholzstrasse 2  0 Dietlikon,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Hörnlistrasse 76  0 Pfäffikon,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Rutschbergstrasse 10  8607 Aathal-Seegräben,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Wachtstrasse / Albisstrasse  8134 Adliswil,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Schulstrasse 44  0 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Wehntalerstrasse 38  0 Höri,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Breitistrasse 23-25  0 Kloten,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Wässeristrasse 22  0 Hinwil,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Parking 4  0 Flughafen Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Industriestrasse 1  0 Volketswil,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Theaterstrasse 15a  0 Winterthur,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Niederhaslistrasse 5  0 Dielsdorf,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Dolderstrasse 39  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Lagerhausstrasse 2  8400 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,0 Null,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Thurgauerstrasse 119  0 Opfikon,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Zentrum 1  8105 Regensdorf,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Im Winkel 8  0 Dinhard,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Tössfeldstrasse 39  0 Winterthur,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Spranglenstrasse 30a  0 Bassersdorf,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Käferholzstrasse 40  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Wülflingerstrasse 271  0 Winterthur,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Grabenstrasse 2  8184 Bachenbülach,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Sophie-Taeuber-Strasse 4  0 Zürich,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,GOFAST Wettswil Moosstrasse 7  8907 Wettswil,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Florastrasse 9  0 Adliswil,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Grindelstrasse 2  0 Wallisellen,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Zelgstrasse 805 Adliswil  8134 Adliswil,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Parking 6  0 Kloten,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Obstgartenstrasse 5  8910 Affoltern am Albis,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Albisstrasse 2  8932 Mettmenstetten,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Silbernstrasse 12  0 Dietikon,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Hostbachstrasse 4  0 Andelfingen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Limmatstrasse 310  0 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Steinackerstrasse 57  0 Kloten,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Klosterweg 34  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Fronwaldstrasse 15  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Socar Tankstelle Hohlstrasse 554  8048 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Kurhausstrasse 65  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Zur Kesselschmiede 37  8400 Winterthur,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Industriestrasse 8  0 Bubikon,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Säumerstrasse 53  8800 Thalwil,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Zürichstrasse 14  8610 Uster,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Birkenweg 2  0 Wallisellen,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Moosbachstrasse 13  0 Affoltern am Albis,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Brauerstrasse 15  0 Winterthur,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Buchgrindelstrasse 13  0 Wetzikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Silbernstrasse 9  0 Dietikon,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Rütenenweg 4  0 Feuerthalen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Winterthurerstrasse 147  0 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Haldenstrasse 61  0 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Saumackerstrasse 35  0 Zürich,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Breitestrasse 15  0 Adlikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Ausstellungsstrasse 17  0 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Siewerdtstrasse 8  0 Zürich,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Binzstrasse 31  0 Wetzikon,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Flughofstrasse 63  0 Rümlang,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Tolackerstrasse 30  0 Volketswil,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hohlstrasse 100/104  0 Zürich,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Albisstrasse 4  0 Langnau am Albis,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Lengghalde 2  8008 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Zollikerstrasse 1  8008 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Rämistrasse  8001 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Weiacherstrasse  8422 Pfungen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Rennweg  8001 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Molkenstrasse Amtshaus Helvetiaplatz  8004 Zürich,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Obfelderstrasse  8910 Affoltern am Albis,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Tösstalstrasse  8488 Turbenthal,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Winterthurerstrasse  8057 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Forenweidstrasse  8044 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Uraniastrasse  8001 Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Zürichstrasse  8123 Ebmatingen,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Schaffhauserstrasse  8400 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Rudolf-Diesel-Strasse  8404 Winterthur,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Industriestrasse  8307 Illnau-Effretikon,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Stadthausstrasse  8402 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Badenerstrasse Crown Plaza Hotel  8040 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Sihlquai  8005 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Utoquai  8000 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Nüschelerstrasse AMAG Parkhaus Talgarten  8001 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Förrlibuckstrasse  8001 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Grabenstrasse  8184 Bachenbülach,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Zollstrasse  8005 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Flughofstrasse  8152 Opfikon,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Esslingerstrasse  8618 Oetwil am See,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Beethoven-Strasse  8002 Zürich,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Speckstrasse  8330 Pfäffikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Talacherstrasse  8302 Kloten,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Lindbergh-Platz  8152 Opfikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Neumühlequai  8006 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Wasserwerkstrasse  8006 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Hohenbuehlstrasse Hotel Hilton  8152 Opfikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Förrlibuckstrasse Atmos Park  8005 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Bülacherstrasse Migros Embrach  8424 Embrach,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Schiffbaustrasse  8005 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Limmattalstrasse  8049 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Heidi-Abel-Weg  8050 Zürich,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Wässeristrasse  8340 Hinwil,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Riesbachstrasse  8008 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Dufaux-Strasse  8152 Opfikon,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Boldernstrasse Hotel Boldern  8708 Männedorf,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Bahnhofstrasse Migros Wetzikon  8620 Wetzikon,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Motorenstrasse  8620 Wetzikon,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Zürichstrasse  8134 Adliswil,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Thurgauerstrasse  8152 Opfikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Beethovenstrasse  8002 Zürich,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Spitalstrasse  8630 Rüti,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Bahnhofplatz  8400 Winterthur,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Mettlenbachstrasse  8617 Mönchaltorf,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Brühlbergstrasse  8400 Winterthur,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Hofstrasse  8620 Wetzikon,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Dielsdorferstrasse  8155 Niederhasli,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Farlifangstrasse  8126 Zumikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Wagistrasse  8952 Schlieren,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Rötlerweg  8112 Otelfingen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Vulkanstrasse  8048 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Europaallee  8004 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Lindenbachstrasse  8006 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Schluefweg  8302 Kloten,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hardstrasse  8005 Zürich,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Querstrasse  8951 Fahrweid,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Stationsstrasse  8623 Wetzikon,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Bahnhofstrasse  8932 Mettmenstetten,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse  8903 Birmensdorf,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Dorfstrasse  8422 Pfungen,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Bahnstrasse  8603 Schwerzenbach,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Rikonerstrasse  8307 Illnau-Effretikon,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Länggstrasse  8308 Ilnau,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Kirchgasse  8332 Russikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Ohmstrasse  8000 Zürich,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Wehntalerstrasse  8157 Dielsdorf,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Tösstrasse  8488 Turbenthal,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Flaachtalstrasse  8444 Henggart,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Poststrasse  8610 Uster,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Strehlgasse  8472 Seuzach,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Rütistrasse  8635 Dürnten,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Grabenackerstrasse  8156 Oberhasli,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Spinnerei Lettenstrasse  8192 Zweidlen,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Bernstrasse  8952 Schlieren,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Albisriederstrasse  8047 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Theaterstrasse  8400 Winterthur,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Hohenbühlstrasse  8152 Opfikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Oberhauserstrasse  8152 Opfikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Ifangstrasse  8152 Opfikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Querstrasse  8152 Opfikon,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Am Lochenweiher  8906 Bonstetten,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Riethofstrasse  8152 Glattbrugg,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Brauerstrasse  8400 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Dufourstrasse  8008 Zürich,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Wässerwiesenstrasse  8408 Winterthur,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Säumerstrasse  8803 Rüschlikon,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Bahnhofstrasse  8800 Thalwil,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Neuhausstrasse  8142 Uitikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Sägereistrasse  8152 Opfikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Seestrasse  8027 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hirschengraben  8001 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Fernsehstrasse  8052 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Gessnerallee 14  8001 Zürich,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Zürichstrasse 145  8700 Küsnacht,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Schulweg  8610 Uster,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Feldstrasse 72  8180 Bülach,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Weiheralle 20  8610 Uster,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Heuwinkelstrasse 3  8606 Nänikon,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Industriestrasse 18  8604 Volketswil,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Bergstrasse 90  8707 Uetikon am See,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Seeweg 6  8610 Uster,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Westpark Pfingstweidstrasse  8005 Zürich,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,A1 Raststätte Kempthal  8310 Lindau (Kempthal),unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Auenring 37  8303 Bassersdorf,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Hochstrasse 1  8330 Pfäffikon,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Rastplatz Aspholz  8134 Adliswil,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Hallenbadweg  8610 Uster,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Freihofstrasse 30  8700 Küsnacht,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Turbinenstrasse 18  8005 Zürich,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Rotfluhstrasse 98  8702 Zollikon,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Schwerzenbachstrasse 41  8117 Fällanden,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Kurt-Hirschfeld-Weg  8050 Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Braschlergasse 7  8610 Uster,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Niklausenplatz  8200 Schaffhausen,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Seestrasse 60  8712 Stäfa,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,SOCAR Herrlisberg Süd  8820 Wädenswil,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Würzacherstrasse 2  8493 Saland,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Breitacher 3  8493 Saland,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Pumpwerkstrasse 50  8105 Regensdorf,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Kirchgasse 1  8320 Fehraltorf,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Zürcherstrasse 84  8620 Wetzikon,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Überlandstrasse 189  8600 Dübendorf,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Bankstrasse 44  8610 Uster,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Bergstrasse 202  8712 Stäfa,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Gewerbestrasse 22  8800 Thalwil,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Bönirainstrasse 4  8800 Thalwil,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Oberlandstrasse 78  8610 Uster,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Überlandstrasse 74  8953 Dietikon,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Werkstrasse 27  8630 Rüti,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Seestrasse 120  8700 Küsnacht,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Ackerstrasse  8610 Uster,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Marktgasse  Kloten,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Johannisburgstrasse  Küsnacht,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Klosterstrasse 17  Winterthur,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Seestrasse  Horgen,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Seestrasse  Küsnacht,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Wildbachstrasse  Winterthur,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Eichstrasse  Buchs,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Schaffhauserstrasse 154  8400 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Wehntalerstrasse 586c  8046 Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Forchstrasse  8127 Maur,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Neue Winterthurerstrasse 15  8305 Dietlikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Witenwisenstrasse 8  8180 Bülach,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Binzmühlestrasse 9  8050 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Industriestrasse 17  8304 Wallisellen,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Hegmattenstrasse 3  8404 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Buckweg 6  8452 Adlikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Dorfstrasse 2  8185 Winkel,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Langwiesenstrasse 9  8108 Dällikon,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Bönirainstrasse 13  8800 Thalwil,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Bramenstrasse 15  8184 Bachenbülach,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Soodstrasse 53  8134 Adliswil,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Rütistrasse 13  8952 Schlieren,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Kaltensteinstrasse 32  8127 Forch,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Industriestrasse 21  8304 Wallisellen,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Untere Bahnhofstrasse 3  8932 Mettmenstetten,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Alpenblickstrasse 5  8630 Rüti,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse 145  8952 Schlieren,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Schaffhauserstrasse 79  8472 Seuzach,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Grindelstrasse 8  8303 Bassersdorf,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Marthalerstrasse 9  8463 Benken,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse 109  8952 Schlieren,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Uitikonerstrasse 9  8952 Schlieren,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Haldenstrasse 5  8955 Oetwil an der Limmat,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Giessereistrasse 1  8620 Wetzikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Parkweg 1  8952 Schlieren,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Hügsamstrasse 4  8833 Samstagern,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Bernstrasse 390  8953 Dietikon,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Deisrütistrasse 6  8472 Seuzach,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Industriestrasse 6  8157 Dielsdorf,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Zürichstrasse 102  8134 Adliswil,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Industriestrasse 41  8625 Gossau,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Rebenhalde 1  8317 Lindau,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse 6  8952 Schlieren,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Aspstrasse 12  8154 Oberglatt,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Luegete 28  8053 Zürich,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Wildbachstrasse 3  8340 Hinwil,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Zürichstrasse 22  8306 Wangen-Brüttisellen,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Gjuchstrasse 1  8905 Arni,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Haagächerstrasse 22  8155 Niederhasli,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Thurgauerstrasse 35  8050 Zürich,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Wiesenstrasse 10A  8952 Schlieren,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Badenerstrasse 28  8952 Schlieren,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Bettenstrasse 24  8400 Winterthur,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Hertistrasse 11  8304 Wallisellen,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse 94  8952 Schlieren,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Soodring 36  8134 Adliswil,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hardstrasse 319  8005 Zürich,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Auf der Burg 41  8706 Meilen,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Im Schörli 5  8600 Dübendorf,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Wildbachstrasse 3b  8340 Hinwil,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Lindliweg 2  8200 Schaffhausen,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Ebmattstrasse 14  8608 Bubikon,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Chlupfstrasse 7  8165 Oberweningen,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Brühlbergstrasse 4  8400 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Binzmühlestrasse 72  8050 Zürich,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Seestrasse 5  8702 Zollikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Haldenstrasse 87  8045 Zürich Alt-Wiedikon,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Im Gewerbepark 4a  8104 Weiningen,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Hofwiesenstrasse 26  8113 Boppelsen,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Badenerstrasse 600  8048 Zürich,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Industriestrasse 2b  8604 Volketswil,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Quentlistrasse 106  8193 Eglisau,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Zugerstrasse 7  6340 Sihlbrugg,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Ob der Gass 8  8450 Andelfingen,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Dorfstrasse 24  8310 Lindau,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Lindengartenstrasse 4  8302 Kloten,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Gublenstrasse 10  8494 Bauma,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Heidenbüelstrasse 3  8352 Elsau,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Schlipfstrasse 10  8636 Wald,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Quentlistrasse 104  8193 Eglisau,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Grüzefeldstrasse 65  8404 Winterthur,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Hauptstrasse 41  8467 Truttikon,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Forchstrasse 111  8127 Forch,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,In der Rüti 14  8800 Thalwil,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Hügsamstrasse 6  8833 Richterswil,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Tösstalstrasse 191  8497 Fischenthal,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Eichstrasse 2  8107 Buchs ZH,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Grossrietstrasse  8606 Nänikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Albulastrasse 50  8048 Zürich,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse 104  8952 Schlieren,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Industriestrasse 1  8404 Winterthur,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hochstrasse 37  8044 Zürich,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Nauenstrasse 44c  8632 Dürnten,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Weieracherstrasse 2  8184 Bachenbülach,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Ueberlandstrasse 197  8600 Dübendorf,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Jonastrasse 17b  8636 Wald,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Rütistrasse 28  8952 Schlieren,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Bachtelstrasse 13  8123 Ebmatingen,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Hügsamstrasse 6  8833 Samstagern,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Zürcherstrasse 133  8952 Schlieren,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,P+R Mittelwiesstrasse 34  8708 Männedorf,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Am Bach 12B  8352 Elsau Unter Schottikon,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Alte Winterthurerstrasse 11  8180 Bülach,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Im Gewerbepark 1  8104 Weiningen,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Zürichstrasse 38 - 44  8306 Wangen-Brüttisellen,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Trockenloostrasse 65  8105 Regensdorf Regensdorf,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Tössweg 3  8496 Steg im Tösstal,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Zürichstrasse 28  8306 Wangen-Brüttisellen,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Rosenthalstrasse 3  8636 Wald,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Speckstrasse 18  8330 Pfäffikon,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Heinrich Gujerstrasse 30  8494 Bauma,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Sellenbüren 52  8143 Stallikon,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Tumbelenstrasse 20  8330 Pfäffikon,unknown,unknown
+Bezirk Meilen,ich_tanke_strom,Spitzliweg  8703 Erlenbach,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Rütistrasse 26  8952 Schlieren,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Allmendstrasse 11  8320 Fehraltorf,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Frauenfelderstr. 9  8404 Winterthur,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Heidenbüelstrasse 17  8352 Elsau,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Jonastrasse 12  8636 Wald,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Rickenbacherstrasse 17  8913 Ottenbach,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Industriestrasse 33  8604 Volketswil,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Harbernstrasse 2  8112 Otelfingen,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Dorfstrasse 78  8954 Geroldswil,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Kirchweg 64  8245 Feuerthalen,unknown,unknown
+Bezirk Uster,ich_tanke_strom,Hegnaustrasse 15  8602 Wangen-Brüttisellen,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Sägereistrasse 28  8152 Opfikon,unknown,unknown
+Bezirk Pfaeffikon,ich_tanke_strom,Im Böl 1  8494 Bauma,unknown,unknown
+Bezirk Andelfingen,ich_tanke_strom,Neunfornerstrasse 20a  8475 Ossingen,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Hauptstrasse 30  8637 Laupen,unknown,unknown
+Bezirk Dietikon,ich_tanke_strom,Birmensdorferstrasse 21  8142 Uitikon,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Hildastrasse 14A  8004 Zürich,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Unterwiesstrasse 3  8630 Rüti,unknown,unknown
+Bezirk Zuerich,ich_tanke_strom,Reckenholzstrasse 191  8046 Zürich,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Badener Landstrasse 23  8197 Rafz,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Schlossackerstrasse 11  8526 Oberneunforn,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Hauptstrasse 6  8414 Buch am Irchel,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Zelgstrasse 2  8344 Bäretswil,unknown,unknown
+Bezirk Hinwil,ich_tanke_strom,Tobelstrasse 10  8345 Bäretswil,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Weisbrod-Areal 3h  8915 Hausen am Albis,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Riedthofstrasse 122  8105 Regensdorf,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Weisbrod-Areal 4  8915 Hausen am Albis,unknown,unknown
+Bezirk Horgen,ich_tanke_strom,Schönenbergstrasse 139  8820 Wädenswil,unknown,unknown
+Bezirk Dielsdorf,ich_tanke_strom,Rümlangerstrasse 7  8105 Watt,unknown,unknown
+Bezirk Affoltern,ich_tanke_strom,Ottenbacherstrasse 25  8912 Obfelden,unknown,unknown
+Bezirk Buelach,ich_tanke_strom,Schluefweg 10  8302 Kloten,unknown,unknown
+Bezirk Winterthur,ich_tanke_strom,Am Bach 12B  8352 Elsau,unknown,unknown
+Bezirk Pfaeffikon,ionity,,unknown,Kemptthal
+Bezirk Zuerich,meta,,unknown,Meta
+Zurich,starbucks_eu,Airport Center 8060 Zurich,unknown,Zurich Airport Railway Shopping
+Winterthur,starbucks_eu,Bahnhof Bahnhofplatz Winterthur 8410 Winterthur,unknown,Bahnhof Winterthur
+Thalwil,starbucks_eu,Gotthardstrasse 40 8800 Thalwil,unknown,Thalwil
+Wallisellen,starbucks_eu,Glattzentrum 8304 Wallisellen,unknown,Glattzentrum
+Zurich,starbucks_eu,Limmatquai 144 8001 Zurich,unknown,Central
+Zurich,starbucks_eu,Hauptbahnhof Halle Landesmuseum 8001 Zurich,unknown,RailCity Zurich
+Zurich,starbucks_eu,Bahnhofplatz 6 8001 Zurich,unknown,Bahnhofplatz Zurich
+Zurich,starbucks_eu,Kreuzplatz 22 8008 Zurich,unknown,Kreuzplatz
+Zurich,starbucks_eu,Limmatstrasse 5 8005 Zurich,unknown,Limmatstrasse
+Zurich,starbucks_eu,Stadelhoferstrasse 8 8001 Zurich,unknown,Bahnhof Stadelhofen
+Zurich,starbucks_eu,Limmatquai 4 8001 Zurich,unknown,Zurcherhof Bellevue
+Zurich,starbucks_eu,Rennweg 48 8001 Zurich,unknown,Rennweg
+Zurich,starbucks_eu,Theaterstrasse 8 8001 Zurich,unknown,Orell Fussli Stadelhofen
+Zurich,starbucks_eu,Europaallee 7 8004 Zurich,unknown,Europaallee
+Zurich,starbucks_eu,Fusslistrasse 4 8001 Zurich,unknown,Orell Fussli Kramhof
+Zurich,starbucks_eu,Badenerstrasse 21 8004 Zurich,unknown,Stauffacher
+Zurich,starbucks_eu,Seestrasse 19 8002 Zurich,unknown,Tessinerplatz
+Zuerich,starbucks_eu,1 Pfingstweidstrasse 9 8005 Zuerich,unknown,Prime 2
+Zurich,starbucks_eu,Kalanderplatz 1 8045 Zurich,unknown,Sihlcity
+Zurich,starbucks_eu,Airside Center Landside 8060 Zurich,unknown,Zurich Airport Airside / Check In 2
+Zürich,swing_kitchen,,unknown,Swing Kitchen Zürich
+Bezirk Zuerich,tier,,unknown,Tier
+Bezirk Andelfingen,tier,,unknown,Tier
+Bezirk Buelach,tier,,unknown,Tier
+Bezirk Winterthur,tier,,unknown,Tier
+Zuerich-Flughafen,travelex,Departure Landside PO Box 2518 Zuerich-Flughafen CH-8060,unknown,Zurich Airport - Departure Landside
+Zurich,western_union,,unknown,MI-MOBILE BELLEVUE

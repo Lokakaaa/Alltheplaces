@@ -1,0 +1,156 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+SUVA,avis,Suva,2
+NADI,avis,Nadi,1
+DENARAURETAILCOMPLEX,avis,Port Denarau,1
+LABASA,avis,Labasa,1
+KOROTOGO,avis,Korotogo,1
+UNKNOWN,ernst_young,Suva,1
+UNKNOWN,ford,Nadi,2
+UNKNOWN,ford,Lautoka,2
+UNKNOWN,ford,Labasa,2
+UNKNOWN,ford,Suva,2
+UNKNOWN,harcourts,Nadi,1
+UNKNOWN,harcourts,Suva,1
+UNKNOWN,hilton,unknown,1
+UNKNOWN,man_truck_and_bus," Auckland, New Zealand",1
+UNKNOWN,marriott,Nadi,4
+UNKNOWN,moneygram,SUVA,22
+UNKNOWN,moneygram,SIGATOKA,3
+UNKNOWN,moneygram,NAUSORI,6
+UNKNOWN,moneygram,NADI,13
+UNKNOWN,moneygram,LAUTOKA,6
+UNKNOWN,moneygram,BA,6
+UNKNOWN,moneygram,LABASA,4
+UNKNOWN,moneygram,NAKASI,2
+UNKNOWN,moneygram,TAVUA,4
+UNKNOWN,moneygram,KOROVOU,1
+UNKNOWN,moneygram,NASINU,2
+UNKNOWN,moneygram,NAMAKA,1
+UNKNOWN,moneygram,NAVUA,3
+UNKNOWN,moneygram,RAIWAQA,1
+UNKNOWN,moneygram,RAKIRAKI,3
+UNKNOWN,moneygram,SAMABULA,1
+UNKNOWN,moneygram,SAVUSAVU,2
+UNKNOWN,moneygram,TAVEUNI,1
+UNKNOWN,moneygram,VALELEVU,1
+UNKNOWN,moneygram,NABUA,1
+UNKNOWN,moneygram,SUVA - CITY CENTER,1
+UNKNOWN,moneygram,MAKOI,1
+UNKNOWN,moneygram,NANDI,1
+UNKNOWN,moneygram,WAIYEVO,1
+UNKNOWN,moneygram,LEVUKA,1
+NORTHERN,tops_at_spar,Umzimkhulu,1
+NORTHERN,tops_at_spar,Centurion,1
+UNKNOWN,totalenergies,NASINU,1
+UNKNOWN,totalenergies,NADI,2
+UNKNOWN,totalenergies,MAUFANGA,1
+UNKNOWN,totalenergies,PEA,1
+UNKNOWN,totalenergies,FUAMOTU,1
+UNKNOWN,totalenergies,TELEKAVA,1
+UNKNOWN,totalenergies,HIHIFO,3
+UNKNOWN,totalenergies,HAATEIHO,1
+UNKNOWN,totalenergies,FATAFEHI,1
+UNKNOWN,totalenergies,FANGALOTO,1
+UNKNOWN,totalenergies,Lami,1
+UNKNOWN,totalenergies,Walubay,1
+UNKNOWN,totalenergies,Suva,2
+UNKNOWN,totalenergies,Nadi,3
+UNKNOWN,totalenergies,Ba,1
+UNKNOWN,totalenergies,Lautoka City,2
+UNKNOWN,totalenergies,"Laucala Beach Estate, Nasinu",1
+UNKNOWN,totalenergies,"4 Sovuli Street, Navutu",1
+UNKNOWN,totalenergies,Sigatoka Town,1
+UNKNOWN,totalenergies,TAVUA TOWN,1
+UNKNOWN,totalenergies,Rakiraki,1
+UNKNOWN,totalenergies,Nadi Town,1
+UNKNOWN,totalenergies,Labasa Town,1
+UNKNOWN,totalenergies,Makoi,1
+UNKNOWN,totalenergies,Taveuni,1
+UNKNOWN,totalenergies,Nausori (Back Road),1
+UNKNOWN,totalenergies,Savusavu Town,1
+UNKNOWN,totalenergies,Maui Bay,1
+UNKNOWN,totalenergies,LAUTOKA,1
+UNKNOWN,totalenergies,unknown,1
+UNKNOWN,totalenergies,KOROVOU,1
+UNKNOWN,totalenergies,Nausori,1
+UNKNOWN,totalenergies,Raiwaqa,1
+UNKNOWN,totalenergies,Nabua,1
+UNKNOWN,totalenergies,Flagstaff,1
+UNKNOWN,totalenergies,Nasinu,1
+UNKNOWN,visa,NAUSORI,12
+UNKNOWN,visa,SIGATOKA,18
+UNKNOWN,visa,SUVA,114
+UNKNOWN,visa,SAVUSAVU,4
+UNKNOWN,visa,BA,8
+UNKNOWN,visa,KOROVOU,2
+UNKNOWN,visa,RAKIRAKI,5
+UNKNOWN,visa,NASINU,21
+UNKNOWN,visa,NAVUA,4
+UNKNOWN,visa,NADI,52
+UNKNOWN,visa,PACIFIC HARBOUR,2
+UNKNOWN,visa,TAVEUNI,6
+UNKNOWN,visa,LAUTOKA,28
+UNKNOWN,visa,DEUBA,2
+UNKNOWN,visa,SUNA,1
+UNKNOWN,visa,NABUA,2
+UNKNOWN,visa,NAKASI,2
+UNKNOWN,visa,NAULU,2
+UNKNOWN,visa,NAMAKA,5
+UNKNOWN,visa,TAVUA,4
+UNKNOWN,visa,LEVUKA,1
+UNKNOWN,visa,LABASA,9
+UNKNOWN,western_union,Rotuma,1
+UNKNOWN,western_union,Lautoka,11
+UNKNOWN,western_union,Ba,7
+UNKNOWN,western_union,Lomaloma,1
+UNKNOWN,western_union,Lakeba,2
+UNKNOWN,western_union,Cicia,1
+UNKNOWN,western_union,Taveuni,1
+UNKNOWN,western_union,Lau,1
+UNKNOWN,western_union,Rabi,1
+UNKNOWN,western_union,Waiyevo,1
+UNKNOWN,western_union,Natewa,1
+UNKNOWN,western_union,Kandavu,1
+UNKNOWN,western_union,Matuku,1
+UNKNOWN,western_union,Kadavu,1
+UNKNOWN,western_union,Suva,26
+UNKNOWN,western_union,Ono-i-lau,1
+UNKNOWN,western_union,Naroi,1
+UNKNOWN,western_union,Pacific Harbour,1
+UNKNOWN,western_union,Navua,2
+UNKNOWN,western_union,Suva City,1
+UNKNOWN,western_union,Nasinu,3
+UNKNOWN,western_union,Narere,1
+UNKNOWN,western_union,Raiwaqa,1
+UNKNOWN,western_union,Wainikoro,1
+UNKNOWN,western_union,Lami,2
+UNKNOWN,western_union,Nausori,2
+UNKNOWN,western_union,Fiji,1
+UNKNOWN,western_union,Nakasi,1
+UNKNOWN,western_union,Nadi,16
+UNKNOWN,western_union,Rakiraki,3
+UNKNOWN,western_union,Lekutu,1
+UNKNOWN,western_union,Nabouwalu,1
+UNKNOWN,western_union,Dreketi,1
+UNKNOWN,western_union,Novosa,1
+UNKNOWN,western_union,Korovou,1
+UNKNOWN,western_union,Labasa,6
+UNKNOWN,western_union,Vanua Levu,1
+UNKNOWN,western_union,Lomaivuna,1
+SAVUSAVU,western_union,Savusavu,1
+UNKNOWN,western_union,Savusavu,2
+VANUALEVU,western_union,Savusavu,1
+UNKNOWN,western_union,Levuka,1
+UNKNOWN,western_union,Tavua,3
+UNKNOWN,western_union,Vatukoula,1
+UNKNOWN,western_union,Sabeto,1
+UNKNOWN,western_union,Sigatoka,7
+UNKNOWN,western_union,Nayavu,1
+UNKNOWN,western_union,Seaqaqa,1
+UNKNOWN,western_union,Namalata,1
+UNKNOWN,western_union,Vunidaya,1
+UNKNOWN,western_union,Korolevu,1
+UNKNOWN,western_union,Qarani,1
+UNKNOWN,western_union,Kabara,1
+CENTRAL,western_union,Suva,1

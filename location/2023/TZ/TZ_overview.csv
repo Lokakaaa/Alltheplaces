@@ -1,0 +1,445 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+PWANI,audi,CASTELO BRANCO,1
+UNKNOWN,ernst_young,Dar es Salaam,1
+UNKNOWN,ford,Dar es Salaam,4
+UNKNOWN,lhw,District of Mafia Island,1
+UNKNOWN,man_truck_and_bus,"Buguruni, Dar es Salaam",1
+UNKNOWN,marriott,Dar es Salaam,4
+UNKNOWN,marriott,Arusha,1
+UNKNOWN,marriott,Oyster Bay,1
+,mercedes_benz,Arusha,1
+DARESSALAM,mercedes_benz,Dar es Salaam,1
+UNKNOWN,moneygram,MOROGORO,13
+UNKNOWN,moneygram,DAR ES SALAAM ILALA,1
+UNKNOWN,moneygram,KAHAMA,2
+UNKNOWN,moneygram,ARUSHA,33
+UNKNOWN,moneygram,ZANZIBAR,51
+UNKNOWN,moneygram,DAR ES SALAAM,257
+UNKNOWN,moneygram,DODOMA,15
+UNKNOWN,moneygram,MOSHI,10
+UNKNOWN,moneygram,MBEYA,8
+UNKNOWN,moneygram,MWANZA,19
+UNKNOWN,moneygram,TANGA,6
+UNKNOWN,moneygram,PWANI,2
+UNKNOWN,moneygram,TABORA,3
+UNKNOWN,moneygram,TEMEKE,2
+UNKNOWN,moneygram,IRINGA,5
+UNKNOWN,moneygram,ARUSHA MUNICIPAL,1
+UNKNOWN,moneygram,SINGIDA,2
+UNKNOWN,moneygram,SHINYANGA,5
+UNKNOWN,moneygram,RUVUMA,1
+UNKNOWN,moneygram,MTWARA,3
+UNKNOWN,moneygram,ROMBO,1
+UNKNOWN,moneygram,KIGOMA,3
+UNKNOWN,moneygram,DODOMA CITY,1
+UNKNOWN,moneygram,RUKWA,1
+UNKNOWN,moneygram,KILIMANJARO,3
+UNKNOWN,moneygram,KAGERA,1
+UNKNOWN,moneygram,SALEM,1
+UNKNOWN,moneygram,DSM,5
+UNKNOWN,moneygram,KILMANJARO,1
+UNKNOWN,moneygram,GEITA,3
+UNKNOWN,moneygram,SIMIYU,2
+UNKNOWN,moneygram,UGUNJA,1
+UNKNOWN,moneygram,UNGUJA,10
+UNKNOWN,moneygram,BUKOBA,1
+UNKNOWN,moneygram,MARA,2
+UNKNOWN,moneygram,KILINDONI,1
+UNKNOWN,moneygram,SONGWE,2
+UNKNOWN,moneygram,TEGETA,1
+UNKNOWN,moneygram,MICHENZANI,1
+UNKNOWN,moneygram,NYAMONGO,1
+UNKNOWN,moneygram,KIGAMBONI,1
+UNKNOWN,moneygram,MWANJELWA,1
+UNKNOWN,moneygram,DAR-ES-SALAAM,2
+UNKNOWN,moneygram,KARATU,1
+UNKNOWN,moneygram,MANYARA,1
+UNKNOWN,moneygram,ILALA,1
+UNKNOWN,moneygram,TUNDUMA,1
+UNKNOWN,totalenergies,MBEYA,10
+UNKNOWN,totalenergies,MWANZA,4
+UNKNOWN,totalenergies,Dar es Salaam,22
+UNKNOWN,totalenergies,Arusha,12
+UNKNOWN,totalenergies,Moshi,4
+UNKNOWN,totalenergies,Tanga,3
+UNKNOWN,totalenergies,Mwanza,4
+UNKNOWN,totalenergies,Bukoba,2
+UNKNOWN,totalenergies,Shinyanga,2
+UNKNOWN,totalenergies,Kigoma,2
+UNKNOWN,totalenergies,Mafinga,2
+UNKNOWN,totalenergies,Mbeya,6
+UNKNOWN,totalenergies,Morogoro,7
+UNKNOWN,totalenergies,Iringa,5
+UNKNOWN,totalenergies,Mtwara,3
+UNKNOWN,totalenergies,Bagamoyo,2
+UNKNOWN,totalenergies,Dodoma,4
+UNKNOWN,totalenergies,MARA,2
+UNKNOWN,totalenergies,Pwani,1
+UNKNOWN,totalenergies,Chimala,1
+UNKNOWN,totalenergies,Lindi,1
+UNKNOWN,totalenergies,Makambako,1
+UNKNOWN,totalenergies,Kilimanjaro,3
+UNKNOWN,totalenergies,Musoma,1
+UNKNOWN,totalenergies,Kagera,1
+UNKNOWN,totalenergies,MSOMA,3
+UNKNOWN,totalenergies,Njombe,2
+UNKNOWN,totalenergies,Singida,1
+UNKNOWN,totalenergies,Sumbawanga,1
+UNKNOWN,totalenergies,Tunduma,1
+UNKNOWN,totalenergies,Usagara,1
+UNKNOWN,totalenergies,Mkuranga,1
+UNKNOWN,totalenergies,DAR ES SALAAM,23
+UNKNOWN,totalenergies,IRINGA,8
+UNKNOWN,totalenergies,COASTAL REGION,1
+UNKNOWN,totalenergies,KIBAHA,1
+UNKNOWN,totalenergies,TANGA,1
+UNKNOWN,totalenergies,ARUSHA,7
+UNKNOWN,totalenergies,Korogwe,1
+UNKNOWN,totalenergies,Kibiti,1
+UNKNOWN,totalenergies,DODOMA,5
+UNKNOWN,totalenergies,MOROGORO,5
+UNKNOWN,totalenergies,SUMBAWANGA,1
+UNKNOWN,totalenergies,KILIMANJARO,3
+UNKNOWN,totalenergies,PWANI,2
+UNKNOWN,totalenergies,DAR RE SALAAM,1
+UNKNOWN,totalenergies,DAR ES SALAM,1
+UNKNOWN,totalenergies,KOROGWE,1
+UNKNOWN,totalenergies,LINDI,1
+UNKNOWN,totalenergies,MTWARA,2
+UNKNOWN,totalenergies,SINGIDA,1
+UNKNOWN,totalenergies,KAGERA,3
+UNKNOWN,totalenergies,MKURANGA,1
+DARESSALAAM,visa,KINONDONI,7
+DARESSALAAM,visa,ILALA,6
+ARUSHA,visa,ARUSHA,7
+MOROGORO,visa,MOROGORO,1
+ARUSHA,visa,ARUMERU,1
+MWANZA,visa,NYAMAGANA,1
+IRINGA,visa,IRINGA,2
+ZANZIBAR,visa,UNGUJA,1
+DODOMA,visa,DODOMA,2
+UNKNOWN,visa,KIGOMA,2
+UNKNOWN,visa,KIGOMA TOWN,1
+UNKNOWN,visa,KIGOMA - KASULU,1
+UNKNOWN,visa,KAGERA - NGARA,1
+UNKNOWN,visa,KAGERA - MISENYI,1
+UNKNOWN,visa,KIGOMA - KIBONDO,1
+UNKNOWN,visa,KIGOMA - KAKONKO,1
+UNKNOWN,visa,KAGERA - KARAGWE,1
+UNKNOWN,visa,KAGERA - MULEBA,1
+UNKNOWN,visa,KAGERA - BIHARAMULO,1
+UNKNOWN,visa,BUKOBA,1
+UNKNOWN,visa,BUKOBA TOWN,2
+UNKNOWN,visa,BUKUBA RURAL,1
+UNKNOWN,visa,BUKOBA RURAL,1
+UNKNOWN,visa,NKASI - NAMANYERE,1
+UNKNOWN,visa,GEITA - KATORO,2
+UNKNOWN,visa,GEITA TOWN,1
+UNKNOWN,visa,GEITA - CHATO,1
+UNKNOWN,visa,GEITA - BUKOMBE,1
+UNKNOWN,visa,MPANDA TOWN,1
+UNKNOWN,visa,RUKWA,1
+UNKNOWN,visa,SUMBAWANGA TOWN,1
+UNKNOWN,visa,SHINYANGA - KAHAMA,1
+UNKNOWN,visa,MWANZA CITY,4
+UNKNOWN,visa,MWANZA TOWN,1
+UNKNOWN,visa,MWANZA - UKEREWE,1
+UNKNOWN,visa,MWANZA - MISUNGWI,1
+UNKNOWN,visa,MWANZA - KWIMBA,1
+UNKNOWN,visa,MWANZA - MAGU,1
+UNKNOWN,visa,MWANZA,13
+UNKNOWN,visa,MWANZA - SENGEREMA,1
+NYAMAGANA,visa,MWANZA,1
+UNKNOWN,visa,TABORA TOWN,1
+UNKNOWN,visa,TABORA,1
+UNKNOWN,visa,TABORA - NZEGA,1
+UNKNOWN,visa,TABORA - SIKONGE,1
+UNKNOWN,visa,TABORA - IGUNGA,1
+UNKNOWN,visa,TABORA - URAMBO,1
+UNKNOWN,visa,TABORA - KALIUA,1
+UNKNOWN,visa,SHINYANGA TOWN,1
+UNKNOWN,visa,SHINYANGA - KISHAPU,1
+UNKNOWN,visa,SHINYANGA - MAGANZO,1
+UNKNOWN,visa,SHINYANGA - MWADUI,1
+UNKNOWN,visa,SHINYANGA,4
+UNKNOWN,visa,SIMIYU - MASWA,1
+UNKNOWN,visa,MARA - MUSOMA,1
+UNKNOWN,visa,"MUSOMA, MARA",1
+UNKNOWN,visa,MARA - RORYA,1
+UNKNOWN,visa,MARA - NYAMOMNGO,1
+UNKNOWN,visa,MARA - BUNDA,1
+UNKNOWN,visa,MBOZI - VWAWA,1
+UNKNOWN,visa,BARIADI TOWN,1
+UNKNOWN,visa,MBOZI - MLOWO,1
+UNKNOWN,visa,MARA - TARIME,1
+UNKNOWN,visa,TARIME,1
+UNKNOWN,visa,SONGWE - ILEJE,1
+UNKNOWN,visa,SIMIYU - MEATU,1
+MBEYA,visa,MBEYA,2
+UNKNOWN,visa,MBEYA CITY,4
+UNKNOWN,visa,MBEYA,5
+UNKNOWN,visa,MBEYA - TUKUYU,1
+UNKNOWN,visa,MBEYA - KIWIRA,1
+UNKNOWN,visa,MBEYA - MBARALI,1
+UNKNOWN,visa,MBEYA - TUNDUMA TOWN,1
+UNKNOWN,visa,MBEYA - CHUNYA,1
+UNKNOWN,visa,MARA - SERENGETI,1
+UNKNOWN,visa,SINGIDA,1
+UNKNOWN,visa,SINGIDA TOWN,1
+UNKNOWN,visa,SINGIDA - ITIGI,1
+UNKNOWN,visa,SINGIDA - KIOMBOI,1
+UNKNOWN,visa,SINGIDA - MANYONI,1
+UNKNOWN,visa,MANYARA - MBULU,1
+UNKNOWN,visa,KAGERA,1
+UNKNOWN,visa,NJOMBE - MAKAMBAKO,1
+UNKNOWN,visa,NJOMBE TOWN,1
+UNKNOWN,visa,NJOMBE - MAKETE,1
+UNKNOWN,visa,MANYARA - KATESH,1
+UNKNOWN,visa,MANYARA - HYDOM,1
+UNKNOWN,visa,MIRERANI - MANYARA,1
+UNKNOWN,visa,BABATI TOWN,1
+UNKNOWN,visa,NJOMBE - LUDEWA,1
+UNKNOWN,visa,DODOMA,5
+UNKNOWN,visa,DODOMA - KIBAIGWA,1
+UNKNOWN,visa,DODOMA - KONDOA,1
+UNKNOWN,visa,DODOMA - KONGWA,1
+UNKNOWN,visa,DODOMA TOWN,2
+UNKNOWN,visa,DODOMA - MPWAPWA,1
+UNKNOWN,visa,MBINGA,1
+UNKNOWN,visa,RUVUMA - MBAMBA,1
+UNKNOWN,visa,IRINGA,5
+UNKNOWN,visa,IRINGA TOWN,1
+UNKNOWN,visa,IRINGA - MAFINGA,1
+UNKNOWN,visa,IRINGA - KILOLO,1
+UNKNOWN,visa,RUVUMA - MBINGA,2
+UNKNOWN,visa,MANYARA - SIMANJIRO,1
+UNKNOWN,visa,ARUSHA,8
+UNKNOWN,visa,ARUSHA - LONGIDO,1
+UNKNOWN,visa,ARUSHA - LOLIONDO,1
+UNKNOWN,visa,ARUSHA - MONDULI,1
+UNKNOWN,visa,ARUSHA - KARATU,1
+UNKNOWN,visa,ARUSHA CITY,1
+UNKNOWN,visa,SONGEA,1
+UNKNOWN,visa,SONGEA TOWN,1
+UNKNOWN,visa,TANGA,2
+UNKNOWN,visa,TANGA - MUHEZA,1
+UNKNOWN,visa,TANGA - MOMBO,1
+UNKNOWN,visa,TANGA - MKINGA DC,1
+UNKNOWN,visa,TANGA - LUSHOTO,1
+UNKNOWN,visa,TANGA - KOROGWE,1
+UNKNOWN,visa,TANGA - HANDENI,1
+UNKNOWN,visa,TANGA - KILINDI,1
+UNKNOWN,visa,RUVUMA - NAMTUMBO,1
+UNKNOWN,visa,KILIMANJARO,4
+UNKNOWN,visa,GAIRO - MOROGORO,1
+UNKNOWN,visa,IFAKARA - MOROGORO,1
+UNKNOWN,visa,MOSHI,5
+MOSHI,visa,MOSHI,1
+UNKNOWN,visa,"MOSHI,KILIMANJARO",1
+UNKNOWN,visa,KILOSA - MOROGORO,1
+UNKNOWN,visa,KILIMANJARO - ROMBO,1
+UNKNOWN,visa,KILOMBERO - MOROGORO,2
+UNKNOWN,visa,KILIMANJARO - TARAKEA,1
+UNKNOWN,visa,MVOMERO - MOROGORO,1
+UNKNOWN,visa,MOROGORO TOWN,6
+UNKNOWN,visa,MOROGORO,7
+UNKNOWN,visa,MORORGORO,1
+UNKNOWN,visa,MAHENGE - MOROGORO,1
+UNKNOWN,visa,MLIMABA - MOROGORO,2
+UNKNOWN,visa,TURIANI - MOROGORO,1
+ILALA,visa,DAR ES SALAAM,5
+UNKNOWN,visa,KILIMANJARO - MOSHI,1
+UNKNOWN,visa,KILIMANJARO - SAME,1
+UNKNOWN,visa,NGERENGERE,1
+UNKNOWN,visa,MSATA - COAST REGION,1
+UNKNOWN,visa,CHALINZE - COAST REGION,1
+UNKNOWN,visa,RUVUMA - TUNDURU,1
+UNKNOWN,visa,LINDI - LIWALE,1
+UNKNOWN,visa,BAGAMOYO - COAST REGION,1
+UNKNOWN,visa,MLANDIZI TOWN,1
+UNKNOWN,visa,KIBAHA TOWN,3
+UNKNOWN,visa,"KIBAHA,COAST REGION",1
+UNKNOWN,visa,KISARAWE TOWN,1
+UNKNOWN,visa,TANGA - PANGANI,1
+UNKNOWN,visa,TANGA CITY,1
+TANGA,visa,TANGA,2
+UNKNOWN,visa,MANYARA - KIBAYA,1
+UNKNOWN,visa,KIBITI TOWN,1
+UNGUJA,visa,ZANZIBAR,7
+UNKNOWN,visa,ZANZIBAR,6
+UNKNOWN,visa,DAR ES SALAAM,113
+KINONDONI,visa,DAR ES SALAAM,10
+UNKNOWN,visa,MKURANGA - MOROGORO,1
+UNKNOWN,visa,DA ES SALAAM,1
+UNKNOWN,visa,MBEYA - KYELA,1
+UNKNOWN,visa,DAR ES SALLAM,1
+UNKNOWN,visa,LINDI - NACHINGWEA,1
+KIGAMBONI,visa,DAR ES SALAAM,1
+UNKNOWN,visa,LINDI - RUANGWA,1
+UNKNOWN,visa,MOSHI TOWN,1
+UNKNOWN,visa,CHAKE CHAKE - PEMBA,1
+UNKNOWN,visa,MAFIA ISLAND,1
+UNKNOWN,visa,LINDI - KILWA MASOKO,1
+UNKNOWN,visa,LINDI TOWN,1
+UNKNOWN,visa,MTWARA TOWN,1
+UNKNOWN,visa,MTWARA,1
+UNKNOWN,visa,MTWARA - NEWALA,1
+UNKNOWN,visa,MTWARA - NDANDA,1
+UNKNOWN,visa,MTWARA - MASASI,1
+UNKNOWN,visa,MTWARA - NANYUMBU,1
+UNKNOWN,visa,MTWARA - TANDAHIMBA,1
+KIGOMA,western_union,Kigoma,6
+KIGOMA,western_union,Kasulu,2
+SHINYANGA,western_union,Kahama,11
+SHINYANGA,western_union,Shinyanga,15
+KAGERA,western_union,Ngara,1
+GEITA,western_union,Katoro,2
+RUKWA,western_union,Sumbawanga,5
+GEITA,western_union,Geita,11
+MWANZA,western_union,Ngudu,1
+SIMIYU,western_union,Bariadi,2
+GEITA,western_union,Chato,2
+UNKNOWN,western_union,Chato,1
+MWANZA,western_union,Misungwi,2
+MARA,western_union,Mugumu,1
+UNKNOWN,western_union,Serengeti,1
+KAGERA,western_union,Biharamulo,1
+MWANZA,western_union,Magu,1
+MWANZA,western_union,Nyamagana,2
+MWANZA,western_union,Ilala,1
+MWANZA,western_union,Sengerema,3
+MWANZA,western_union,Mwanza,38
+MWANZA,western_union,Ilemela,1
+MARA,western_union,Mara,1
+MARA,western_union,Bunda,2
+KAGERA,western_union,Kagera,3
+MARA,western_union,Tarime,2
+KAGERA,western_union,Karagwe,3
+MWANZA,western_union,Nansio,1
+MBEYA,western_union,Mbeya,23
+SIMIYU,western_union,Lamadi,1
+KAGERA,western_union,Muleba,1
+KAGERA,western_union,Bukoba,12
+KAGERA,western_union,Biharamuro,1
+KAGERA,western_union,Kamachumu,1
+MARA,western_union,Musoma,6
+DODOMA,western_union,Bunge,1
+KAGERA,western_union,Kyaka,1
+TABORA,western_union,Tabora,8
+KIGOMA,western_union,Kibondo,4
+KATAVI,western_union,Mpanda,3
+MBEYA,western_union,Kyela,2
+SINGIDA,western_union,Manyoni,2
+UNKNOWN,western_union,Singida,1
+SINGIDA,western_union,Kiomboi,1
+DODOMA,western_union,Dodoma,15
+MOROGORO,western_union,Morogoro,23
+KILIMANJARO,western_union,Moshi,24
+KILIMANJARO,western_union,Kilimanjaro,6
+ZANZIBAR,western_union,Zanzibar,4
+KILIMANJARO,western_union,Rombo,1
+ARUSHA,western_union,Namanga,3
+DARESSALAAM,western_union,Dar Es Salaam,335
+MANYARA,western_union,Mererani,1
+MOROGORO,western_union,Kidatu,1
+ARUSHA,western_union,Arusha,50
+DARESSALAAM,western_union,Arusha,2
+ARUSHA,western_union,Usariver,2
+IRINGA,western_union,Mafinga,3
+IRINGA,western_union,Iringa,12
+SHINYANGA,western_union,Mwanihuzi,1
+KILIMANJARO,western_union,Same,3
+KILIMANJARO,western_union,Hai,2
+KILIMANJARO,western_union,Klimanjaro Moshi,1
+KILIMANJARO,western_union,Mwanga,1
+TANGA,western_union,Handeni,2
+MOROGORO,western_union,Ifakara,1
+DARESSALAAM,western_union,Kigamboni,1
+SINGIDA,western_union,Singida,6
+DODOMA,western_union,Kondoa,1
+DODOMA,western_union,Kondoa Dodoma,1
+MANYARA,western_union,Manyara,1
+MANYARA,western_union,Katesh,1
+MANYARA,western_union,Arusha,1
+ARUSHA,western_union,Karatu,3
+ARUSHA,western_union,Mto Wa Mbu,3
+TABORA,western_union,Nzega,3
+MOROGORO,western_union,Tuliani,1
+SHINYANGA,western_union,Maswa,1
+DODOMA,western_union,Kongwa,1
+DODOMA,western_union,Mpwapwa,1
+MANYARA,western_union,Babati,5
+MANYARA,western_union,Mbulu,2
+MOROGORO,western_union,Gairo,1
+TABORA,western_union,Igunga,1
+MOROGORO,western_union,Kilosa,1
+IRINGA,western_union,Ilula,1
+NJOMBE,western_union,Njombe,5
+NJOMBE,western_union,Iringa,1
+MBEYA,western_union,Chunya,1
+MBEYA,western_union,Mbozi,1
+RUVUMA,western_union,Ruvuma,1
+RUVUMA,western_union,Namtumbo,1
+MBEYA,western_union,Rujewa,1
+NJOMBE,western_union,Makambako,3
+RUVUMA,western_union,Songea,3
+RUVUMA,western_union,Mbinga,2
+MBEYA,western_union,Ileje,1
+MBEYA,western_union,Tukuyu,2
+SONGWE,western_union,Tunduma,5
+MBEYA,western_union,Tunduma,1
+SONGWE,western_union,Songwe,1
+LINDI,western_union,Lindi,5
+MTWARA,western_union,Mtwara,11
+LINDI,western_union,Ruangwa,1
+LINDI,western_union,Kilwa,1
+PEMBANORTH,western_union,Pemba,3
+PEMBASOUTH,western_union,Zanzibar,2
+PEMBASOUTH,western_union,Pemba,2
+ZANZIBARWEST,western_union,Zanzibar Town,3
+ZANZIBARWEST,western_union,Zanzibar,35
+PEMBANORTH,western_union,Wete,1
+ZANZIBARNORTH,western_union,Zanzibar,7
+PEMBANORTH,western_union,Zanzibar,1
+DARESSALAAM,western_union,Mbagala,1
+DARESSALAAM,western_union,Chang'ombe,1
+DARESSALAAM,western_union,University Of Dar Es Salaam,1
+DARESSALAAM,western_union,Ubungo,2
+DARESSALAAM,western_union,Tazara,1
+PWANI,western_union,Bagamoyo,2
+TANGA,western_union,Korogwe,1
+TANGA,western_union,Tanga,12
+DARESSALAAM,western_union,Mwenge,1
+DARESSALAAM,western_union,Ilala,4
+PWANI,western_union,Kibaha,4
+DARESSALAAM,western_union,Kinondoni,1
+DARESSALAAM,western_union,Nguruka,1
+DARESSALAAM,western_union,Dar Es Sallaam,1
+DARESSALAAM,western_union,Mnazi Mmoja,1
+RUKWA,western_union,Rukwa,1
+DARESSALAAM,western_union,Kariakoo,1
+DARESSALAAM,western_union,Victoria,1
+DARESSALAAM,western_union,Upanga,1
+DARESSALAAM,western_union,City Centre,4
+DARESSALAAM,western_union,Mbezi Beach,1
+DARESSALAAM,western_union,Tegeta,1
+TANGA,western_union,Muheza,2
+DARESSALAAM,western_union,Masaki,2
+ZANZIBARSOUTHANDCENTRAL,western_union,Zanzibar,5
+ZANZIBAR,western_union,Unguja,3
+ZANZIBARWEST,western_union,Unguja,1
+ZANZIBARSOUTHANDCENTRAL,western_union,Unguja,2
+ZANZIBARNORTH,western_union,Unguja,1
+PWANI,western_union,Pwani,5
+PWANI,western_union,Kisarawe,1
+RUVUMA,western_union,Tunduru,1
+PWANI,western_union,Rufiji,2
+MTWARA,western_union,Kilwa Kivinje,1
+LINDI,western_union,Nachingwea,2
+MTWARA,western_union,Dar Es Salaam,1
+MTWARA,western_union,Newala,1
+MTWARA,western_union,Masasi,1
+MTWARA,western_union,Tunduru,1
+PWANI,western_union,Mafia,1
+PWANI,western_union,Ikwiriri,1

@@ -1,0 +1,140 @@
+City,Place Name,Zipcode,Name
+Zuchwil,audi,Langfeldstrasse 30 4528 Zuchwil,unknown,AMAG Zuchwil
+Dulliken,audi,Bodenackerstrasse 61 4657 Dulliken,unknown,AMAG Dulliken
+Zuchwil,deichmann,,unknown,DOSENBACH Filiale Zuchwil Dorfackerstrasse 45
+Solothurn,deichmann,,unknown,DOSENBACH Filiale Solothurn Hauptgasse 14
+Olten,deichmann,,unknown,DOSENBACH Filiale Olten Louis Giroud-Strasse 26
+Oensingen,deichmann,,unknown,DOSENBACH Filiale Oensingen Bienkenstrasse 18
+Grenchen,deichmann,,unknown,DOSENBACH Filiale Grenchen Bettlachstrasse 20
+Egerkingen,deichmann,,unknown,DOSENBACH Filiale Egerkingen Hausimollstrasse 14
+Olten,dunkin_ch,Tannwaldstrasse 48 4600 Olten Switzerland,unknown,Dunkin' Olten
+Solothurn,hm,,unknown,Hauptgasse 8-10
+Bezirk Lebern,ich_tanke_strom,Solothurnstrasse  2540 Grenchen,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Grederstrasse  4512 Bellach,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Hauptstrasse  4566 Kriegstetten,unknown,Tesla Supercharger
+Bezirk Gaeu,ich_tanke_strom,Höhenstrasse  4622 Egerkingen,unknown,Tesla Supercharger
+Bezirk Thal,ich_tanke_strom,Dorfstrasse 25  4717 Mümliswil,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Brühlstrasse 15  2540 Grenchen,unknown,unknown
+Bezirk Goesgen,ich_tanke_strom,Grundstrasse 1  4654 Lostorf,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Aesplistrasse 1  0 Biberist,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Hauptstrasse 44  0 Biberist,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Gewerbestrasse 1  0 Derendingen,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Gluzenhofstrasse 5  0 Solothurn,unknown,unknown
+Bezirk Gaeu,ich_tanke_strom,Solothurnstrasse 37a  0 Oensingen,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Hausmattstrasse 3  0 Gerlafingen,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Grederstrasse 35  0 Bellach,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Solothurnstrasse 20  0 Grenchen,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Raststätte Deitingen Süd A1 Bern-Zürich  4543 Deitingen,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Rastplatz Teufengraben  0 Hägendorf,unknown,unknown
+Bezirk Goesgen,ich_tanke_strom,Dorfplatz 1  0 Erlinsbach,unknown,unknown
+Bezirk Goesgen,ich_tanke_strom,Küttigerstrasse 23  0 Erlinsbach,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Riverside  0 Zuchwil,unknown,unknown
+Bezirk Goesgen,ich_tanke_strom,Brogliweg 96  0 Anwil,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Rastplatz Eggberg  0 Hägendorf,unknown,unknown
+Bezirk Thal,ich_tanke_strom,Falkensteinerstrasse 1  0 Balsthal,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Neumattstrasse 25  2540 Grenchen,unknown,unknown
+Bezirk Dorneck,ich_tanke_strom,Auf der Holle 4  0 Hochwald,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Bischmattstrasse 9  2544 Bettlach,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Raststätte Gunzgen Süd  0 Gunzgen,unknown,unknown
+Bezirk Bucheggberg,ich_tanke_strom,Hauptstrasse 116  0 Messen,unknown,unknown
+Bezirk Dorneck,ich_tanke_strom,Hauptstrasse 33  0 Dornach,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Bielstrasse 7  0 Bellach,unknown,unknown
+Bezirk Dorneck,ich_tanke_strom,Grundackerstrasse 12  0 Dornach,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Gunzgen Nord  4617 Gunzgen,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Louis Giroud-Strasse 26  4600 Olten,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Schützenweg 2  0 Zuchwil,unknown,unknown
+Bezirk Dorneck,ich_tanke_strom,Nepomukplatz 1  0 Dornach,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Dornacherstrasse 26  0 Solothurn,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Bleichematt  0 Biberist,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Gösgerstrasse 5  0 Schönenwerd,unknown,unknown
+Bezirk Goesgen,ich_tanke_strom,Stüsslingerstrasse 12  0 Erlinsbach,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Bahnhofstrasse 6  2540 Grenchen,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Bettlachstrasse 20  2540 Grenchen,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Hunnenweg  4500 Solothurn,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Neuhardstrasse  4600 Olten,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Leuzigenstrasse  2540 Grenchen,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Bolacker  4563 Obergerlafingen,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Wachtelweg  4553 Subingen,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Dorfackerstrasse  4528 Zuchwil,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Swisscom-Gasse  4600 Olten,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Hauptstrasse 50  5013 Niedergösgen,unknown,unknown
+Bezirk Thierstein,ich_tanke_strom,Grubenweg  4226 Breitenbach,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Luzernstrasse Parkplatz Bahnhof  4500 Solothurn,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Bornfeldstrasse 15  4600 Olten,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Wengistrasse 34  4502 Solothurn,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Westbahnhofstrasse 3  4502 Solothurn,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Hauptstrasse 109  4565 Recherswil,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Hauptstrasse 62  4566 Kriegstetten,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Baselstrasse 23  4533 Riedholz,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Marktstrasse Parkplatz SBB  4512 Bellach,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Sonneggstrasse 32  4600 Olten,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Frank Buchserstrasse  4532 Feldbrunnen,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Untergrundstrasse  4600 Olten,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Attisholzstrasse 11  5442 Luterbach,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Burmattstrasse 2-10  4652 Winznau,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Aarburgerstrasse 6  4600 Olten,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Bahnhofstrasse 1  4563 Gerlafingen,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Tellstrasse 14  4512 Bellach,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Engestrasse 1  4500 Solothurn,unknown,unknown
+Bezirk Dorneck,ich_tanke_strom,Amtshausstrasse 12  4143 Dornach,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Baslerstrasse 150  4600 Olten,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Langfeldstrasse 25  4528 Zuchwil,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Erlimattstrasse 17  4658 Däniken,unknown,unknown
+Bezirk Thal,ich_tanke_strom,Bechburgerstrasse 21  4710 Balsthal,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Schöngrünstrasse 42  4500 Solothurn,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Parkstrasse 1  5012 Schönenwerd,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Werkhofstrasse 2  4600 Olten,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Alte Landstrasse 3  4657 Dulliken,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Amthausquai 24  4600 Olten,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Bürenstrasse 63  4574 Lüsslingen,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Aarauerstrasse 68  4600 Olten,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Munzingerplatz / Konradstrasse 1  4600 Olten,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Hauptstrasse 65  4528 Zuchwil,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Eigasse 9  4614 Hägendorf,unknown,unknown
+Bezirk Thierstein,ich_tanke_strom,Eichelbergstrasse 6  4208 Nunningen,unknown,unknown
+Bezirk Gaeu,ich_tanke_strom,Dünnernstrasse 24  4702 Oensingen,unknown,unknown
+Bezirk Gaeu,ich_tanke_strom,Oltnerstrasse 22  4622 Egerkingen,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Untere Schulstrasse 28  4656 Starrkirch-Wil,unknown,unknown
+Bezirk Dorneck,ich_tanke_strom,Haglenweg 13  4145 Gempen,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Dürrbachstrasse 2  4513 Langendorf,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Schänzlistrasse 2  2545 Selzach,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Autobahn A1  4543 Deitingen,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Untere Steingrubenstrasse 1  4502 Solothurn,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Römerstrasse 49  4500 Solothurn,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Oltnerstrasse 5  4652 Winznau,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Ritterquai  4502 Solothurn,unknown,unknown
+Bezirk Solothurn,ich_tanke_strom,Dornacherplatz 13  4500 Solothurn,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Aarburgerstrasse 39  4600 Olten,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Oltnerstrasse  5012 Schönenwerd,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Bleichenmattstrasse AFEG Areal .  4562 Biberist,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Dorfplatz  4513 Langendorf,unknown,unknown
+Bezirk Gaeu,ich_tanke_strom,Ostringstrasse 10  4702 Oensingen,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Schützenmattweg 18  4600 Olten,unknown,unknown
+Bezirk Gaeu,ich_tanke_strom,Neue Strasse 6  4703 Kestenholz,unknown,unknown
+Bezirk Goesgen,ich_tanke_strom,Barmelweid  Barmelweid,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Solothurnstrasse  Bettlach,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Neuhardstrasse 34  4600 Olten,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Bielstrasse 85  2540 Grenchen,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Güterstrasse 25  5014 Gretzenbach,unknown,unknown
+Bezirk Thierstein,ich_tanke_strom,Hagenbuchenstrasse 2  4244 Röschenz,unknown,unknown
+Bezirk Gaeu,ich_tanke_strom,Ostringstrasse 17  4702 Oensingen,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Gewerbestrasse 1  4528 Zuchwil,unknown,unknown
+Bezirk Olten,ich_tanke_strom,Hinterer Steinacker 70  4600 Olten,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Industriestrasse 8  4562 Biberist,unknown,unknown
+Bezirk Bucheggberg,ich_tanke_strom,Hauptstrasse 116  3254 Messen,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Gewerbestrasse 3  4552 Derendingen,unknown,unknown
+Bezirk Lebern,ich_tanke_strom,Eibenweg 1  4500 Solothurn,unknown,unknown
+Bezirk Gaeu,ich_tanke_strom,Südringstrasse 12  4702 Oensingen,unknown,unknown
+Bezirk Gaeu,ich_tanke_strom,Oltnerstrasse 46  4622 Egerkingen,unknown,unknown
+Bezirk Wasseramt,ich_tanke_strom,Langfeldstrasse 1  4528 Zuchwil,unknown,unknown
+Neuendorf,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Neuendorf"
+Bellach,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Bellach"
+Härkingen,ricoh_europe,,unknown,Ricoh Schweiz AG - Härkingen
+NEUENDORF,shell,,unknown,MARIO VON ARX
+OLTEN,shell,,unknown,MIGROL SERVICE OLTEN.
+OENSINGEN,shell,,unknown,GARAGE BASCHNAGEL AG (SOLOTH.)
+DÄNIKEN,shell,,unknown,SHELL DÄNIKEN.
+BALSTHAL,shell,,unknown,MOVERI BALSTHAL
+ERLINSBACH,shell,,unknown,AUTOWASCHCENTER SUPO GMBH
+ZUCHWIL,shell,,unknown,SHELL ZUCHWIL
+SOLOTHURN,shell,,unknown,SHELL SOLOTHURN

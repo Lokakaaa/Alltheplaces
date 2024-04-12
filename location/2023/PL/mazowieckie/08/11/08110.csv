@@ -1,0 +1,104 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5923,abc_pl,abc,,Grubale,mazowieckie,,PL,,,,abc,Q11683985
+4912,abc_pl,abc,,Pruszyn-Pieńki,mazowieckie,,PL,,,,abc,Q11683985
+5159,abc_pl,abc,,Ujrzanów,mazowieckie,,PL,,,,abc,Q11683985
+4625,abc_pl,abc,,Wołyńce,mazowieckie,,PL,,,,abc,Q11683985
+3899,abc_pl,abc,,Grabianów,mazowieckie,,PL,,,,abc,Q11683985
+3898,abc_pl,abc,,Białki,mazowieckie,,PL,,,,abc,Q11683985
+275,bricomarche_pl,Bricomarché Siedlce,,Siedlce,mazowieckie,,PL,+48 25 506 54 17,https://www.bricomarche.pl/sklep/bricomarche-siedlce,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/2004-siedlce-pilsudskiego,credit_agricole_pl,"Credit Agricole Piłsudskiego 35, Siedlce",,Siedlce,mazowieckie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/2004-siedlce-pilsudskiego,Mo-Th 10:00-17:00; Fr 09:00-16:00,Credit Agricole,Q590952
+879,dr_max,"Apteka Dr.Max, Kazimierza Pułaskiego 13, Siedlce",,Siedlce,Mazowieckie,,PL,+48 25 644 61 89,https://www.drmax.pl/apteki/siedlce-kazimierza-puaskiego-13,,Dr. Max,Q56317371
+880,dr_max,"Apteka Dr.Max, Armii Krajowej 3A, Siedlce",,Siedlce,Mazowieckie,,PL,+48 25 644 34 22,https://www.drmax.pl/apteki/siedlce-armii-krajowej-3a,,Dr. Max,Q56317371
+357,mcdonalds_pl,McDonald's,,Siedlce,Mazowieckie,,PL,+48 539 991 850,https://mcdonalds.pl/restauracje/mazowieckie/siedlce/siedlce-pilsudskiego-74,Mo-Th 09:00-21:30; Fr-Sa 09:00-22:00; Su 10:00-21:30,McDonald's,Q38076
+GS00111730,mercedes_benz,Daimler Truck Retail Polska Sp. z o.o.,,Siedlce,Mazowieckie,,PL,+48 800 888 900,https://www.dtrp.mercedes-benz.pl,,Mercedes-Benz,Q36008
+BAI01M,paczkomat_inpost_pl,Przy Rossmanie,,Białki,mazowieckie,,PL,,https://inpost.pl/paczkomat-bialki-bai01m-lukowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+BAI02M,paczkomat_inpost_pl,vis a vis sklepu ABC,,Białki,mazowieckie,,PL,,https://inpost.pl/paczkomat-bialki-bai02m-diamentowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+POP-SIE10,paczkomat_inpost_pl,SALONIK PRASOWY LOTTO,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-pop-sie10-browarna-paczkomaty-mazowieckie,Mo-Fr 07:00-19:00; Sa 08:00-15:00,Paczkomat,Q110970254
+POP-SIE11,paczkomat_inpost_pl,KWIACIARNIA,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-pop-sie11-mazurska-paczkomaty-mazowieckie,Mo-Fr 09:00-18:00; Sa 09:00-15:00,Paczkomat,Q110970254
+POP-SIE14,paczkomat_inpost_pl,EPAKA,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-pop-sie14-warszawska-paczkomaty-mazowieckie,Mo-Fr 09:00-17:00,Paczkomat,Q110970254
+POP-SIE19,paczkomat_inpost_pl,IBE,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-pop-sie19-gen-ryszarda-kuklinskiego-paczkomaty-mazowieckie,Mo-Fr 09:00-17:00,Paczkomat,Q110970254
+POP-SIE21,paczkomat_inpost_pl,MAILBOX,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-pop-sie21-10-lutego-paczkomaty-mazowieckie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-SIE23,paczkomat_inpost_pl,PUNKT KURIERSKI VOGLA,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-pop-sie23-vogla-paczkomaty-mazowieckie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+POP-SIE25,paczkomat_inpost_pl,P1 PUŁASKIEGO 1.,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-pop-sie25-pulaskiego-paczkomaty-mazowieckie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-SIE28,paczkomat_inpost_pl,PUPIL,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-pop-sie28-kazimierzowska-paczkomaty-mazowieckie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+PRP01M,paczkomat_inpost_pl,Przy wejściu,,Pruszyn-Pieńki,mazowieckie,,PL,,https://inpost.pl/paczkomat-pruszyn-pienki-prp01m-pruszyn-pienki-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE01APP,paczkomat_inpost_pl,z boku budynku,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie01app-3-maja-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE02A,paczkomat_inpost_pl,Przy markecie Carrefour,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie02a-monte-cassino-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE02G,paczkomat_inpost_pl,Stacja paliw Axan,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie02g-budowlana-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE02N,paczkomat_inpost_pl,Pod reklamą po lewej stronie przy parkingu,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie02n-sokolowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE03A,paczkomat_inpost_pl,Stacja paliw Axan,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie03a-czerwonego-krzyza-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE03M,paczkomat_inpost_pl,Przy budynku usługowo-handlowym ul. Starowiejska 21,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie03m-starowiejska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE04A,paczkomat_inpost_pl,Przy sklepie Żabka,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie04a-kasztanowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE04M,paczkomat_inpost_pl,Przy stacji paliw Avia od strony torów kolejowych,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie04m-skladowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE04N,paczkomat_inpost_pl,Przy sklepie Topaz - Brofaktura,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie04n-armii-krajowej-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE05N,paczkomat_inpost_pl,Przy parkingu sklepu Topaz,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie05n-brzeska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE06N,paczkomat_inpost_pl,Przy wjeździe do sklepu Reaktor,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie06n-garwolinska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE07M,paczkomat_inpost_pl,Przy wejściu,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie07m-aslanowicza-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE07N,paczkomat_inpost_pl,parking przed sklepem,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie07n-garwolinska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE07W,paczkomat_inpost_pl,Gałązka Techniczne Zaopatrzenie Przemysłu i Rolnictwa,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie07w-brzeska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE08A,paczkomat_inpost_pl,Przy sklepie Arhelan,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie08a-sokolowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE08M,paczkomat_inpost_pl,Przy budynku,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie08m-pl-wolnosci-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE08W,paczkomat_inpost_pl,Przy wejściu do sklepu Eurodom od ulicy Wojska Polskiego,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie08w-glucha-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE09A,paczkomat_inpost_pl,Kwiaciarnia przy cmentarzu,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie09a-cmentarna-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE09W,paczkomat_inpost_pl,Przy budynku usługowym Konstpol,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie09w-starowiejska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE10A,paczkomat_inpost_pl,Przy wejściu,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie10a-kazimierzowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE11A,paczkomat_inpost_pl,Przy wejściu do supermarketu Topaz,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie11a-janowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE11M,paczkomat_inpost_pl,Na parkingu,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie11m-starowiejska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE12A,paczkomat_inpost_pl,Parking przy budynku,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie12a-florianska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE12M,paczkomat_inpost_pl,Na parkingu za sklepem,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie12m-ksiecia-jozefa-poniatowskiego-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE13A,paczkomat_inpost_pl,obok sklepu Action,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie13a-franciszka-kleeberga-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE13M,paczkomat_inpost_pl,Przy wejściu od ul. Brzeskiej,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie13m-brzeska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE14M,paczkomat_inpost_pl,Przy budynku myjni obok odkurzacza,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie14m-sokolowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE15M,paczkomat_inpost_pl,Z tyłu budynku od ul. Obozowej,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie15m-artyleryjska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE16M,paczkomat_inpost_pl,Parking przed sklepem AGMA,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie16m-lukowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE18M,paczkomat_inpost_pl,z boku Delikatesów Centrum,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie18m-kurpiowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE19M,paczkomat_inpost_pl,Przy sklepie Media Expert,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie19m-partyzantow-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE354,paczkomat_inpost_pl,Przy markecie Tesco,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie354-11-listopada-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SIE420,paczkomat_inpost_pl,Parking,,Siedlce,mazowieckie,,PL,,https://inpost.pl/paczkomat-siedlce-sie420-wojskowa-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SLF01M,paczkomat_inpost_pl,Parking z boku sklepu,,Stok Lacki-Folwark,mazowieckie,,PL,,https://inpost.pl/paczkomat-stok-lacki-folwark-slf01m-siedlecka-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+ZABA02M,paczkomat_inpost_pl,Auto Spa Myjnia Bezdotykowa,,Żabokliki,mazowieckie,,PL,,https://inpost.pl/paczkomat-zabokliki-zaba02m-korczewska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+ZEK02M,paczkomat_inpost_pl,Przy wjeździe do Serwisu MADAR,,Żelków-Kolonia,mazowieckie,,PL,,https://inpost.pl/paczkomat-zelkow-kolonia-zek02m-siedlecka-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+ZEK03M,paczkomat_inpost_pl,parking przed sklepem,,Żelków-Kolonia,mazowieckie,,PL,,https://inpost.pl/paczkomat-zelkow-kolonia-zek03m-siedlecka-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+169,play_pl,Salon Play,Ul. Wojskowa 3,Siedlce,mazowieckie,,PL,+48 790 005 897,,Mo-Sa 09:00-21:00; Su 10:00-20:00,Play,Q7202998
+581,play_pl,Salon Play,Ul. Kilińskiego 7,Siedlce,mazowieckie,,PL,+48 790 031 056,,Mo-Fr 09:00-18:00; Sa 09:00-14:00,Play,Q7202998
+546913,poczta_polska_pl,FUP Siedlce 2,,Białki,MAZOWIECKIE,,PL,+48 25 633 71 77,,,Poczta Polska,Q168833
+264475,poczta_polska_pl,UP Siedlce 2,,Siedlce,MAZOWIECKIE,,PL,+48 25 644 94 66;+48 25 644 74 24;+48 25 644 24 50;+48 25 644 14 23,,,Poczta Polska,Q168833
+312513,poczta_polska_pl,FUP Siedlce 2,,Siedlce,MAZOWIECKIE,,PL,+48 25 644 08 68,,,Poczta Polska,Q168833
+7112,tedi,TEDi Sieć Handlowa Sp. z o.o.,,Siedlce,Mazowieckie,,PL,+48 32 450 36 20,https://www.tedi.com/stores/7112/pl/Mazowieckie/Siedlce/Łukowska-109,Mo-Sa 10:00-18:00,TEDi,Q1364603
+,visa,,,SIEDLCE (GMINA),MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+,visa,,,SIEDLCE,MAZOWIECKIE,,PL,,,,,
+753a4b5c0bdf48e9357aad88b75b8852,western_union,AGENCJA MONETIA,,Siedlce,MAZOWIECKIE,,PL,+48 502 109 884,https://location.westernunion.com/pl/mazowieckie/siedlce/753a4b5c0bdf48e9357aad88b75b8852,Mo-Fr 09:00-16:00; Sa 09:00-13:00,Western Union,Q861042
+655c117ca3237721807f8dbdeb39698d,western_union,RELAY,,Siedlce,MAZOWIECKIE,,PL,+48 22 572 31 31,https://location.westernunion.com/pl/mazowieckie/siedlce/655c117ca3237721807f8dbdeb39698d,Mo-Fr 06:00-21:00,Western Union,Q861042
+5f621385e34bb4b66427ce3e5eedffca,western_union,SKOK IM ZYGMUNTA CHMIELEWSKIEGO,,Siedlce,MAZOWIECKIE,,PL,+48 25 644 78 59,https://location.westernunion.com/pl/mazowieckie/siedlce/5f621385e34bb4b66427ce3e5eedffca,Mo-Fr 09:00-17:00,Western Union,Q861042
+18e02509a41fd505a570a5917e78fdfc,western_union,KANTOR EXCHANGE GROUP,,Siedlce,MAZOWIECKIE,,PL,+48 25 786 36 27,https://location.westernunion.com/pl/mazowieckie/siedlce/18e02509a41fd505a570a5917e78fdfc,Mo-Sa 09:00-21:00; Su 10:00-20:00,Western Union,Q861042
+43c633de883239c6f16d9b37606a60c3,western_union,STEFCZYK FINANSE,,Siedlce,MAZOWIECKIE,,PL,+48 25 633 11 39,https://location.westernunion.com/pl/mazowieckie/siedlce/43c633de883239c6f16d9b37606a60c3,Mo-Fr 09:00-16:00,Western Union,Q861042
+29cafd1842221bbd25df829f3a9534cc,western_union,BANK PEKAO SA,,Siedlce,MAZOWIECKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/mazowieckie/siedlce/29cafd1842221bbd25df829f3a9534cc,Mo-Fr 09:00-16:30,Western Union,Q861042

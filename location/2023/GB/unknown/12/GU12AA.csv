@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+guildford,bupa_gb,Bupa Dental Care Guildford,,,,,GB,+44 1483 573282,https://www.bupa.co.uk/dental/dental-care/practices/guildford,,Bupa,Q931628
+/services/dentist/bupa-dental-care-guildford/V004726,nhs_england_gb,"Bupa Dental Care, Guildford","17 London Road, Guildford, Surrey",,,,GB,+44 1483 573282,https://www.bupa.co.uk/dental/dental-care/practices/guildford,Mo-Fr 09:00-17:00,NHS England,Q16251481
+/services/dentist/northdene-services-ltd/V004718,nhs_england_gb,Northdene Services Ltd,"North Dene Dental Practice, 13 London Road, Guildford",,,,GB,+44 1483 560068,https://www.northdenedentalsurgery.co.uk,Mo-Fr 08:30-17:00,NHS England,Q16251481
+/services/dentist/dene-lodge-dental-practice/V004727,nhs_england_gb,Dene Lodge Dental Practice,"Dene Lodge Dental Practice, Dene Lodge, 9 London Road, Guildford, Surrey",,,,GB,+44 1483 575865,https://www.denelodgedental.com/,"Mo-Fr 08:45-13:00,14:00-17:00",NHS England,Q16251481

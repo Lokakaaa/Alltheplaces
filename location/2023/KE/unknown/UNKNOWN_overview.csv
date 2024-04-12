@@ -1,0 +1,552 @@
+City,Place Name,Zipcode,Name
+unknown,accor,Masai Mara National Reserve PO Box 58581 0 AITONG,unknown,Fairmont Mara Safari Club
+unknown,accor,Mount Kenya PO Box 35 0 NANYUKI,unknown,Fairmont Mount Kenya Safari Club
+unknown,accor,00200 PO Box 58581 0 NAIROBI,unknown,Fairmont The Norfolk
+unknown,accor,Rhapta Road Po Box 14746 00800 NAIROBI,unknown,ibis Styles Nairobi Westlands
+unknown,accor,Mkungu Close Westlands off Parklands Road Nairobi P.O Box 49719 00100 NAIROBI,unknown,Mövenpick Residences Nairobi
+unknown,accor,LIMURU ROAD 621 NAIROBI,unknown,Gem Forest Hotel Nairobi - MGallery Collection (Opening Soon)
+unknown,accor,Kenya Road Upper Hill P O Box 25574 00100 NAIROBI,unknown,Pullman Nairobi Upper Hill
+unknown,accor,Longonot Road Upper Hill Upper Hill PO Box 25574 00100 NAIROBI,unknown,Mercure Nairobi Upper Hill
+Nairobi,bmw_group,,unknown,Inchcape Kenya Limited
+Nairobi,ernst_young,Kenya Re Towers Off Ragati Road P.O. Box 44286,unknown,EY
+Nairobi,ford,,unknown,CMC Motors Group Ltd.
+Machakos,goodlife_pharmacy_ke,,unknown,GreenPark Mall
+Karen,goodlife_pharmacy_ke,,unknown,Rubis Karen
+Nairobi,man_truck_and_bus,,unknown,Mobikey (JAP AFRICA MOBILITY) Truck and Bus Limited Kenya
+Nairobi,marriott,,unknown,Four Points by Sheraton Nairobi Airport
+Nairobi,mercedes_benz,,unknown,St. Austins Service Stations Ltd.
+Mombasa,mercedes_benz,,unknown,DT DOBIE & CO (K) LTD
+Nakuru,mercedes_benz,,unknown,DT DOBIE & CO (K) LTD
+Kisumu,mercedes_benz,,unknown,DT DOBIE & CO (K) LTD
+EMBU,moneygram,,unknown,K-REP BANK
+NAIROBI,moneygram,,unknown,KCB - #71942728 - NAIROBI - PLATINUM UPP
+KARUNGU,moneygram,,unknown,KCB - KARUNGU - SORI
+THIKA,moneygram,,unknown,ECOBANK - THIKA
+MOMBASA,moneygram,,unknown,ECOBANK - MOMBASA MAIN
+WAJIR,moneygram,,unknown,EQUITY BANK - WAJIR
+BUSIA,moneygram,,unknown,EQUITY BANK - BUSIA
+NAROK,moneygram,,unknown,NCBA BANK KENYA PLC - NAROK - NIC BANK N
+ELDORET,moneygram,,unknown,ECOBANK - ELDORET
+NAKURU,moneygram,,unknown,ECOBANK - NAKURU
+MTWAPA,moneygram,,unknown,NATIONAL BANK OF KENYA - #51 - MTWAPA
+ONGATA RONGAI,moneygram,,unknown,DIAMOND TRUST BANK KENYA - RONGAI
+KISUMU,moneygram,,unknown,ECOBANK - KISUMU
+KAWANGWARE,moneygram,,unknown,JAMII BORA BANK - KAWANGWARE
+KAYOLE,moneygram,,unknown,JAMII BORA BANK - KAYOLE
+JUJA,moneygram,,unknown,EQUITY BANK - JUJA
+KISERIAN,moneygram,,unknown,KCB - KISERIAN BRANCH
+RONGAI,moneygram,,unknown,EQUITY BANK - ONGATA RONGAI
+MERU,moneygram,,unknown,CONSOLIDATED BANK - MERU - MERU
+NYERI,moneygram,,unknown,ECOBANK - NYERI
+LODWAR,moneygram,,unknown,EQUITY BANK - LODWAR
+NANDI HILLS,moneygram,,unknown,EQUITY BANK - NANDI HILLS
+KABARTONJO,moneygram,,unknown,KCB - BANK - KABARTONJO
+KINANGOP,moneygram,,unknown,CO-OPERATIVE BANK - KINANGOP
+LOKICHOGGIO,moneygram,,unknown,KCB - LOKICHOGGIO - KCB - KAKUMA
+CHOGORIA,moneygram,,unknown,EQUITY BANK - CHOGORIA - DOMIZIANO KABUR
+UKUNDA,moneygram,,unknown,EQUITY BANK - UKUNDA
+RONGO,moneygram,,unknown,KCB - RONGO BRANCH
+KISII,moneygram,,unknown,ECOBANK - KISII
+MALINDI,moneygram,,unknown,NCBA BANK KENYA PLC - MALINDI - MALINDI
+LAARE,moneygram,,unknown,EQUITY BANK LAARE - LAARE
+MURANG'A,moneygram,,unknown,EQUITY BANK - MURANGA
+ISIOLO,moneygram,,unknown,K-REP BANK
+MAUA,moneygram,,unknown,KENYA POST OFFICE - MAUA BRANCH
+KIKIMA,moneygram,,unknown,KCB - KIKIMA
+DIANI,moneygram,,unknown,NCBA BANK KENYA PLC - DIANI - DIANI
+BONDO,moneygram,,unknown,EQUITY BANK - BONDO
+KAPENGURIA,moneygram,,unknown,KENYA POST OFFICE - KAPENGURIA - LODWAR
+MARALAL,moneygram,,unknown,EQUITY BANK - MARALAL
+ENKARE TOWN,moneygram,,unknown,K-UNITY SACCO LTD - ENKARE TOWN - K-UNIT
+KILIFI,moneygram,,unknown,DIAMOND TRUST BANK - KILIFI BRANCH
+BOMET,moneygram,,unknown,NATIONAL BANK OF KENYA
+BUNGOMA,moneygram,,unknown,K-REP BANK
+GARISSA,moneygram,,unknown,NATIONAL BANK OF KENYA - GARISSA
+GILGIL,moneygram,,unknown,EQUITY BANK - GILGIL
+GITHUNGURI,moneygram,,unknown,CO-OPERATIVE BANK - GITHUNGURI BRANCH
+HOMA BAY,moneygram,,unknown,EQUITY BANK - HOMA BAY
+KABARNET,moneygram,,unknown,EQUITY BANK - KABARNET
+KAKAMEGA,moneygram,,unknown,EQUITY BANK - KAKAMEGA
+KALIMONI,moneygram,,unknown,ABSA BANK KENYA PLC - KALIMONI - JUJA
+KARATINA,moneygram,,unknown,ECOBANK - KARATINA
+KERICHO,moneygram,,unknown,K-REP BANK
+KERUGOYA,moneygram,,unknown,EQUITY BANK - KERUGOYA
+KIKUYU,moneygram,,unknown,CO-OPERATIVE BANK - KIKUYU
+KITALE,moneygram,,unknown,K-REP BANK
+KITENGELA,moneygram,,unknown,KENYA POST OFFICE - KITENGELA
+KITUI,moneygram,,unknown,NATIONAL BANK OF KENYA - SEKU
+LIMURU,moneygram,,unknown,CO-OPERATIVE BANK - LIMURU BRANCH
+MACHAKOS,moneygram,,unknown,K-REP BANK
+MARAGOLI,moneygram,,unknown,ABSA BANK KENYA PLC - MARAGOLI - MBALE
+MIGORI,moneygram,,unknown,EQUITY BANK - MIGORI
+MURANGA,moneygram,,unknown,KENYA POST OFFICE - MURANGA BRANCH
+NAIVASHA,moneygram,,unknown,K-REP BANK
+NANYUKI,moneygram,,unknown,K-REP BANK
+NGONG,moneygram,,unknown,CO-OPERATIVE BANK - NGONG BRANCH
+NYAHURURU,moneygram,,unknown,K-REP BANK
+TAVETA,moneygram,,unknown,KCB - TAVETA
+VOI,moneygram,,unknown,EQUITY BANK - VOI
+WEBUYE,moneygram,,unknown,CO-OPERATIVE BANK - WEBUYE BRANCH
+WOTE,moneygram,,unknown,CO-OPERATIVE BANK - WOTE BRANCH
+NAIROBIV,moneygram,,unknown,SAFARICOM LIMITED
+RUIRU,moneygram,,unknown,CO-OPERATIVE BANK - RUIRU
+AHERO,moneygram,,unknown,EQUITY BANK - AHERO - ARCHYTECH SYSTEMS
+OGEMBO,moneygram,,unknown,EQUITY BANK - OGEMBO - RICOM AUTOSPARES
+KENDU BAY,moneygram,,unknown,EQUITY BANK - KENDU BAY - SAMUEL OTIENO
+LONDON,moneygram,,unknown,THUNES
+CHUKA,moneygram,,unknown,KCB - CHOGORIA
+NYANDARUA,moneygram,,unknown,EQUITY BANK KENYA LIMITED - NJABINI SUB
+NARO MORU,moneygram,,unknown,KCB - NARO MORU
+MANDERA,moneygram,,unknown,KCB - MANDERA
+KIMENDE,moneygram,,unknown,EQUITY BANK - KIMENDE
+RUMURUTI,moneygram,,unknown,KCB - RUMURUTI - RUMURUTI
+SYOKIMAU,moneygram,,unknown,KCB - SYOKIMAU
+ITEN,moneygram,,unknown,TRANSNATIONAL BANK   - ITEN
+MOYALE,moneygram,,unknown,EQUITY BANK KENYA - MOYALE
+KAJIADO,moneygram,,unknown,K-REP BANK
+KAMBU,moneygram,,unknown,K-UNITY SACCO - RUAKA
+VILLAGE MARKET,moneygram,,unknown,KCB - GIGIRI SQUARE
+NANDI,moneygram,,unknown,NATIONAL BANK OF KENYA - NANDI HILLS
+KAMULU,moneygram,,unknown,THE CO-OPERATIVE BANK OF KENYA LIMITED -
+KAGWE,moneygram,,unknown,K-UNITY SACCO - K-UNITY KAGWE
+MUTOMO,moneygram,,unknown,NATIONAL BANK OF KENYA - #017
+KYUSO,moneygram,,unknown,KCB - KYUSO BRANCH
+MAKINDU,moneygram,,unknown,KCB - MAKINDU BRANCH
+MUTITU,moneygram,,unknown,KITUI TEACHERS SACCO LIMITED - MUTITU
+MWINGI,moneygram,,unknown,EQUITY BANK - MWINGI
+DIANI BEACH,moneygram,,unknown,DIAMOND TRUST BANK - DIANI BRANCH
+KIAMBU,moneygram,,unknown,EQUITY BANK - KIAMBU
+WATAMU,moneygram,,unknown,NCBA BANK KENYA PLC - WATAMU - WATAMU
+KIRINYAGA,moneygram,,unknown,FAMILY BANK - KIRINYAGA - KERUGOYA
+MOLO,moneygram,,unknown,CO-OPERATIVE BANK - MOLO
+OLKALOU,moneygram,,unknown,FAMILY BANK - OLKALOU - OLKALOU
+WANGIGE,moneygram,,unknown,EQUITY BANK - WANGIGE
+KAPSABET,moneygram,,unknown,EQUITY BANK - KAPSABET
+NYAMIRA,moneygram,,unknown,KENYA POST OFFICE - NYAMIRA
+MAI MAHIU,moneygram,,unknown,K-UNITY SACCO  - K-UNITY MAAI MAHIU
+EMALI,moneygram,,unknown,MURINGIA AUTO ENTERPRISES LIMITED - #111
+KUTUS,moneygram,,unknown,CO-OPERATIVE BANK - KUTUS
+CHAKA,moneygram,,unknown,EQUITY BANK - CHAKA SUB BRANCH
+GATUNDU,moneygram,,unknown,CO-OPERATIVE BANK - GATUNDU
+MWEA,moneygram,,unknown,K-REP BANK
+MUMIAS,moneygram,,unknown,EQUITY BANK - MUMIAS
+KIBWEZI,moneygram,,unknown,K-REP BANK
+UTAWALA,moneygram,,unknown,COOPERATIVE BANK OF KENYA - #11155 - UTA
+MAJENGO,moneygram,,unknown,METRINE KAGAI ALUMASA
+KAHAWA WEST,moneygram,,unknown,EQUITY BANK (K) LTD - KAHAWA WEST
+THIKA MAKONGENI,moneygram,,unknown,FAMILY BANK - THIKA MAKONGENI
+MLOLONGO,moneygram,,unknown,CO-OPERATIVE BANK - MLOLONGO BRANCH
+GATEWAY MALL-MOMBASA ROAD,moneygram,,unknown,FAMILY BANK - GATEWAY MALL NBI
+MUKURWEINI,moneygram,,unknown,EQUITY BANK - MUKURWE-INI
+MAKUENI,moneygram,,unknown,NCBA BANK KENYA PLC - WOTE
+ISEBANIA,moneygram,,unknown,EQUITY BANK - ISEBANIA
+KESSES,moneygram,,unknown,NATIONAL BANK OF KENYA - MOI UNIVERSITY
+KWALE,moneygram,,unknown,KCB - UKUNDA
+RUNYEJES,moneygram,,unknown,EQUITY BANK KENYA LIMITED - RUNYEJES - R
+MARSABIT,moneygram,,unknown,CO-OPERATIVE BANK - MARSABIT
+KAKUMA,moneygram,,unknown,BAAY & BAKOOL SHOP
+ISINYA,moneygram,,unknown,EQUITY BANK (K) LTD - ISINYA
+SOTIK,moneygram,,unknown,EQUITY BANK (K) LTD - SOTIK
+KAMAKIS,moneygram,,unknown,THE CO-OPERATIVE BANK OF KENYA LIMITED -
+LAMU,moneygram,,unknown,DIAMOND TRUST BANK - LAMU BRANCH
+NJABINI,moneygram,,unknown,K-UNITY SACCO LIMITED - WAKIMBO
+BAMBURI,moneygram,,unknown,EL SHADDAI INC.
+DONYO SABUK,moneygram,,unknown,SUNSHINE STUDIO
+MATUU,moneygram,,unknown,EQUITY BANK - MATUU
+OYUGIS,moneygram,,unknown,EQUITY BANK - OYUGIS
+MWATATE,moneygram,,unknown,QWETU SACCO LTD - MWATATE - QWETU SACCO
+LIKONI,moneygram,,unknown,BEMARIE FINASERVE LIMITED
+NAIROIBI,moneygram,,unknown,CHASE BANK - Strathmore
+ELDORET WEST,moneygram,,unknown,BROWN TRADERS - ELDORET WEST
+KIGUMO,moneygram,,unknown,FARIJI SACCO SOCIETY LIMITED - #3 - KIGU
+KABSABET,moneygram,,unknown,NCBA BANK KENYA PLC - KABSABET
+SONDU,moneygram,,unknown,KCB - SONDU
+MARIGAT,moneygram,,unknown,KCB - MARIGAT
+LITEIN,moneygram,,unknown,EQUITY BANK - LITEIN
+KERUGUYA,moneygram,,unknown,CO-OPERATIVE BANK - KERUGOYA BRANCH
+ATHI RIVER,moneygram,,unknown,CO-OPERATIVE BANK - ATHI RIVER BRANCH
+SIAYA,moneygram,,unknown,EQUITY BANK - SIAYA
+MBITA,moneygram,,unknown,KCB - MBITA
+NANGA,moneygram,,unknown,KCB - KAPSABET
+UNJIRU,moneygram,,unknown,KCB - U.N. GIGIRI
+NYAMWARE,moneygram,,unknown,KCB - NYAMIRA
+KIRANGA,moneygram,,unknown,KCB - KERUGOYA
+VIDUNGENI,moneygram,,unknown,KCB - MBALE
+MATUMBI,moneygram,,unknown,KCB - MATUU
+MVINDENI,moneygram,,unknown,KCB - MVITA
+ELDAMA RAVINE,moneygram,,unknown,KENYA POST OFFICE - ELDAMA RAVINE - ELDA
+UPPER HILL,moneygram,,unknown,ECOBANK - UPPER HILL
+MWE,moneygram,,unknown,KENYA POST OFFICE - WANG'URU BRANCH
+KARENGE,moneygram,,unknown,KCB - KAREN
+NJEGA,moneygram,,unknown,KCB - NJABINI
+LOKICHOKIO,moneygram,,unknown,KCB - LOKICHOGGIO
+KANGARE,moneygram,,unknown,KCB - KANGARI
+KIANYAGA,moneygram,,unknown,KCB - KIANYAGA
+NUNDU,moneygram,,unknown,KCB - NKUBU
+OL KALOU,moneygram,,unknown,CO-OPERATIVE BANK - OL KALOU - OL KALOU
+KENEGUT,moneygram,,unknown,KENYA POST OFFICE - KEHANCHA
+NJORA,moneygram,,unknown,KCB - NJORA
+KAPSOWAR,moneygram,,unknown,KCB - KAPSOWAR
+KILGORIS,moneygram,,unknown,CO-OPERATIVE BANK - KILGORIS
+KIMILILI,moneygram,,unknown,CO-OPERATIVE BANK - KIMILILI - KIMILILI
+LONDIANI,moneygram,,unknown,KCB - LONDIANI
+LUANDA,moneygram,,unknown,EQUITY BANK - LUANDA
+MALABA,moneygram,,unknown,CO-OPERATIVE BANK - MALABA
+MUHORONI,moneygram,,unknown,KCB - MUHORONI
+MARIAKANI,moneygram,,unknown,KCB - MARIAKANI
+EGGE,moneygram,,unknown,KCB - EGERTON UNIVERSITY
+MAKERE,moneygram,,unknown,KCB - MPEKETONI
+MTITO ANDEI,moneygram,,unknown,KCB - MTITO ANDEI
+MTAA,moneygram,,unknown,KCB - MTWAPA
+KEGAA,moneygram,,unknown,KCB - KENGELENI
+GARSEN,moneygram,,unknown,KCB - GARSEN
+SERICHO,moneygram,,unknown,KCB - SEREM
+MOI,moneygram,,unknown,NATIONAL BANK OF KENYA - #013
+ISHIARA,moneygram,,unknown,KENYA POST OFFICE - SUNA MIGORI BRANCH
+KEROKA,moneygram,,unknown,EQUITY BANK - KEROKA
+MALINDA,moneygram,,unknown,KENYA POST OFFICE - MALINDI
+KANGEMA,moneygram,,unknown,COOPERATIVE BANK OF KENYA - #11160 - KAN
+TURA,moneygram,,unknown,KCB - LODWAR
+HOLA,moneygram,,unknown,EQUITY BANK - HOLA
+NZIU,moneygram,,unknown,KCB - KITALE
+POKA,moneygram,,unknown,KCB - KAPENGURIA
+BARINGO,moneygram,,unknown,KCB - KABARNET
+ELAA,moneygram,,unknown,KCB - ITEN
+KIANJAI,moneygram,,unknown,NATIONAL BANK OF KENYA - #007
+TALA,moneygram,,unknown,EQUITY BANK - TALA
+SIAKAGO,moneygram,,unknown,CO-OPERATIVE BANK - SIAKAGO BRANCH
+ISIBANIA,moneygram,,unknown,KCB - ISIBANIA BRANCH
+KIRIAINI,moneygram,,unknown,KCB - KIRIAINI BRANCH
+MASII,moneygram,,unknown,KCB - MASII BRANCH
+NAMANGA,moneygram,,unknown,EQUITY BANK - NAMANGA
+MURARANDIA,moneygram,,unknown,EQUITY BANK - MURARANDIA
+NKUBU,moneygram,,unknown,EQUITY BANK - NKUBU
+LOITOKTOK,moneygram,,unknown,EQUITY BANK - LOITOKTOK
+GITHURAI,moneygram,,unknown,EQUITY BANK - GITHURAI
+OTHAYA,moneygram,,unknown,CO-OPERATIVE BANK - OTHAYA
+KAGIO,moneygram,,unknown,EQUITY BANK - KAGIO
+KENOL,moneygram,,unknown,EQUITY BANK - KENOL
+KIRIANI,moneygram,,unknown,EQUITY BANK - KIRIANI
+MBALE,moneygram,,unknown,CO-OPERATIVE BANK - MBALE
+MBITA POINT,moneygram,,unknown,EQUITY BANK - MBITA POINT
+KANGARI,moneygram,,unknown,EQUITY BANK - KANGARI
+RIFT VALLEY,moneygram,,unknown,DIAMOND TRUST BANK - RIFT VALLEY - ELDOR
+KASARANI,moneygram,,unknown,EQUITY BANK - KASARANI
+MPEKETONI,moneygram,,unknown,CO-OPERATIVE BANK - MPEKETONI
+NDHIWA,moneygram,,unknown,CO-OPERATIVE BANK - NDHIWA - NDHIWA BRAN
+EMBAKASI,moneygram,,unknown,EQUITY BANK - Embakasi
+RIDGEWAYS,moneygram,,unknown,EQUITY BANK - Ridgeways
+CHANGAMWE,moneygram,,unknown,CO-OPERATIVE BANK - CHANGAMWE - CHANGAMW
+RUNYENJES,moneygram,,unknown,EQUITY BANK - RUNYENJES
+DADAAB,moneygram,,unknown,EQUITY BANK - DADAAB
+KANGEMI,moneygram,,unknown,EQUITY BANK - KANGEMI
+NYALI,moneygram,,unknown,ECOBANK - NYALI
+LAVINGTON,moneygram,,unknown,EQUITY BANK - LAVINGTON
+WESTLANDS,moneygram,,unknown,ECOBANK - WESTLANDS
+EASTLEIGH,moneygram,,unknown,DIAMOND TRUST BANK - EASTLEIGH - MADINA
+PORT VICTORIA,moneygram,,unknown,KCB - PORT VICTORIA BRANCH
+ONGATA-RONGAI-KAJIADO,moneygram,,unknown,K-REP BANK
+ELDORSET,moneygram,,unknown,K-REP BANK
+YALA,moneygram,,unknown,CO-OPERATIVE BANK - YALA
+KILIMANI,moneygram,,unknown,EQUITY BANK - KILIMANI
+TAITA TAVETA,moneygram,,unknown,EQUITY BANK - TAITA TAVETA
+EWASO NYIRO,moneygram,,unknown,EQUITY BANK - EWASO NYIRO
+KAREN,moneygram,,unknown,ECOBANK - KAREN
+Nairobi,nike,,unknown,Nike Store Westgate (Partnered)
+AHERO TOWN,totalenergies,,unknown,TotalEnergies Ahero
+NAKURU,totalenergies,,unknown,WEST END
+BUNGOMA,totalenergies,,unknown,BUNGOMA
+ELDORET TOWN,totalenergies,,unknown,TotalEnergies Eldoret
+Gatitu shopping centre,totalenergies,,unknown,NEW GATITU
+GILGIL,totalenergies,,unknown,NEW GILGIL
+KIAMBU,totalenergies,,unknown,TotalEnergies Gitaru
+HOMABAY,totalenergies,,unknown,TotalEnergies Homabay
+Kagwe,totalenergies,,unknown,KAGWE
+KISUMU,totalenergies,,unknown,NEW KAMASI
+NAIROBI,totalenergies,,unknown,KASARANI
+ELDORET,totalenergies,,unknown,ELGON VIEW
+MOMBASA,totalenergies,,unknown,BAMBURI
+TURKANA COUNTY,totalenergies,,unknown,TotalEnergies Lokichoggio
+MACHAKOS,totalenergies,,unknown,MACHAKOS
+MERU,totalenergies,,unknown,MILIMANI
+MISIKHU,totalenergies,,unknown,TotalEnergies Misikhu
+BUMGOMA COUNTY,totalenergies,,unknown,TotalEnergies Mumias
+NAIVASHA,totalenergies,,unknown,NAIVASHA
+NAROK COUNTY,totalenergies,,unknown,TotalEnergies Ilmashariani
+NYERI,totalenergies,,unknown,TEMPLE ROAD
+LAIKIPIA COUNTY,totalenergies,,unknown,TotalEnergies Ng'arua
+Limuru,totalenergies,,unknown,NGENIA
+NKUBU,totalenergies,,unknown,TotalEnergies Nkubu
+NYANDARUA COUNTY,totalenergies,,unknown,TotalEnergies OlKalou
+SOTIK,totalenergies,,unknown,TotalEnergies Sotik
+KARATINA,totalenergies,,unknown,CHURCH ROAD
+EMALI,totalenergies,,unknown,EMALI
+MARIAKANI,totalenergies,,unknown,TotalEnergies Front View
+KAJIADO,totalenergies,,unknown,KAJIADO
+KAMWANGI,totalenergies,,unknown,KAMWANGI
+KAPSABET,totalenergies,,unknown,KAPSABET
+KERUGOYA,totalenergies,,unknown,TotalEnergies Kerugoya
+KISII,totalenergies,,unknown,KISII
+KITALE,totalenergies,,unknown,LAINI MOJA
+KITUI,totalenergies,,unknown,NEW KITUI 2
+NANYUKI,totalenergies,,unknown,TotalEnergies Nanyuki
+MALAVA,totalenergies,,unknown,MALAVA
+MASENO,totalenergies,,unknown,MASENO
+Mtito Andei,totalenergies,,unknown,MTITO ANDEI
+MURANGA,totalenergies,,unknown,MWIHOTI
+EMBU,totalenergies,,unknown,TOTALENERGIES EMBU
+Kisumu Town,totalenergies,,unknown,TOSHEKA
+UTHIRU,totalenergies,,unknown,UTHIRU
+BUNGOMA  TOWN,totalenergies,,unknown,TotalEnergies New Bungoma
+KAKAMEGA,totalenergies,,unknown,TotalEnergies Kakamega
+KERICHO,totalenergies,,unknown,KERICHO STAR
+MALINDI,totalenergies,,unknown,MALINDI
+NYAHURURU,totalenergies,,unknown,NYAHURURU
+UASIN GISHU COUNTY,totalenergies,,unknown,TotalEnergies Iten Road
+MUHOYA,totalenergies,,unknown,MUHOYA ROAD
+MUMIAS,totalenergies,,unknown,NEW MUMIAS
+MOLO,totalenergies,,unknown,TotalEnergies Molo
+Mombasa,totalenergies,,unknown,BONDENI
+TALA,totalenergies,,unknown,TALA
+UKUNDA,totalenergies,,unknown,UKUNDA
+NJABINI,totalenergies,,unknown,NJABINI
+ISIOLO,totalenergies,,unknown,TotalEnergies New Isiolo
+BOMET COUNTY,totalenergies,,unknown,TotalEnergies New Sotik
+KILGORIS,totalenergies,,unknown,KILGORIS
+VOI,totalenergies,,unknown,VOI
+KAPENGURIA,totalenergies,,unknown,KAPENGURIA
+Bondo,totalenergies,,unknown,TotalEnergies Bondo
+KIMININI,totalenergies,,unknown,KIMININI
+MWINGI,totalenergies,,unknown,MWINGI
+Emali,totalenergies,,unknown,NEW EMALI
+Uthiru - Nairobi,totalenergies,,unknown,UTHIRU 87
+GEDE,totalenergies,,unknown,WATAMU
+KAYOLE,totalenergies,,unknown,KAYOLE
+Nairobi,totalenergies,,unknown,RIDGEWAYS
+ISINYA,totalenergies,,unknown,ISINYA
+Meru,totalenergies,,unknown,MAKUTANO
+KITENGELA,totalenergies,,unknown,KITENGELA
+NAMANGA,totalenergies,,unknown,NAMANGA
+Busia,totalenergies,,unknown,BUSIA DALDA
+ISEBANIA,totalenergies,,unknown,TotalEnergies Isebania
+KAMULU,totalenergies,,unknown,KAMULU
+Kiserian,totalenergies,,unknown,OLOOTEPES
+MAKUYU,totalenergies,,unknown,MAKUYU
+MATUU,totalenergies,,unknown,MATUU
+KIMENDE,totalenergies,,unknown,KIMENDE
+GARISSA COUNTY,totalenergies,,unknown,TotalEnergies Garissa
+Kathwana/Chiakariga Centre,totalenergies,,unknown,KATHWANA
+WOTE,totalenergies,,unknown,WOTE
+ATHI RIVER,totalenergies,,unknown,TotalEnergies Athi River
+MARSABIT COUNTY,totalenergies,,unknown,TotalEnergies Marsabit
+KISUMU COUNTY,totalenergies,,unknown,TotalEnergies Nairobi Road
+MAI MAHIU,totalenergies,,unknown,TotalEnergies Maai Mahiu
+MACHOKOS,totalenergies,,unknown,TotalEnergies Mutituni
+BUNGOMA COUNTY,totalenergies,,unknown,TotalEnergies Webuye
+KAJIADO COUNTY,totalenergies,,unknown,TotalEnergies Ngong
+MURANGA COUNTY,totalenergies,,unknown,TotalEnergies Makuyu Highway
+BURNT FOREST,totalenergies,,unknown,TotalEnergies Burnt Forest
+VIHIGA COUNTY,totalenergies,,unknown,TotalEnergies Mbale
+RUAKA,totalenergies,,unknown,TotalEnergies Ruaka
+MIGORI,totalenergies,,unknown,TotalEnergies Migori
+SIGONA,totalenergies,,unknown,TotalEnergies Sigona
+MAUA,totalenergies,,unknown,TotalEnergies Maua
+RUIRU,totalenergies,,unknown,TOTALENERGIES RUIRU IMANI
+GACHIE,totalenergies,,unknown,TOTALENERGIES GACHIE
+MUGUGA,totalenergies,,unknown,MUGUGA
+LUANDA,totalenergies,,unknown,TOTALENERGIES LUANDA
+KIBWEZI,totalenergies,,unknown,TOTALENERGIES KIBWEZI
+MAKUTANO,totalenergies,,unknown,TOTALENERGIES SAGANA BRIDGE
+BUSIA,totalenergies,,unknown,BUSIA ROAD
+MAU SUMMIT,totalenergies,,unknown,MAU SUMMIT TOTAL
+KILIFI,totalenergies,,unknown,SHARIANI
+NAIROBI,visa,,unknown,unknown
+BUSIA,visa,,unknown,unknown
+0 WOTE,visa,,unknown,unknown
+MAVOKO,visa,,unknown,unknown
+SIAYA,visa,,unknown,unknown
+HOMA BAY,visa,,unknown,unknown
+HOMABAY,visa,,unknown,unknown
+0 MIGORI,visa,,unknown,unknown
+MIGORI,visa,,unknown,unknown
+MUMIAS,visa,,unknown,unknown
+0 MUMIAS,visa,,unknown,unknown
+AWENDO,visa,,unknown,unknown
+SARE AWENDO,visa,,unknown,unknown
+0 BUNGOMA,visa,,unknown,unknown
+BUNGOMA,visa,,unknown,unknown
+KAKAMEGA,visa,,unknown,unknown
+KISUMU,visa,,unknown,unknown
+OYUGIS,visa,,unknown,unknown
+0 KAKAMEGA,visa,,unknown,unknown
+0 KISUMU,visa,,unknown,unknown
+0 KISII,visa,,unknown,unknown
+0 WEBUYE,visa,,unknown,unknown
+WEBUYE,visa,,unknown,unknown
+KISII,visa,,unknown,unknown
+0 ITEN,visa,,unknown,unknown
+0 NYAMIRA,visa,,unknown,unknown
+KITALE,visa,,unknown,unknown
+0 KITALE,visa,,unknown,unknown
+KAPSABET,visa,,unknown,unknown
+KAPENGURIA,visa,,unknown,unknown
+KERICHO,visa,,unknown,unknown
+0 KERICHO,visa,,unknown,unknown
+0 KAPSABET,visa,,unknown,unknown
+0 KAPENGURIA,visa,,unknown,unknown
+0 SOTIK,visa,,unknown,unknown
+NANDI HILLS,visa,,unknown,unknown
+ELDORET,visa,,unknown,unknown
+0 ELDORET,visa,,unknown,unknown
+0 BOMET,visa,,unknown,unknown
+BOMET,visa,,unknown,unknown
+MOLO,visa,,unknown,unknown
+ELDAMA RAVINE,visa,,unknown,unknown
+KABARNET,visa,,unknown,unknown
+0 KABARNET,visa,,unknown,unknown
+NAROK,visa,,unknown,unknown
+0 NAROK,visa,,unknown,unknown
+NAKURU,visa,,unknown,unknown
+0 NAKURU,visa,,unknown,unknown
+GILGIL,visa,,unknown,unknown
+0 GILGIL,visa,,unknown,unknown
+NYAHURURU,visa,,unknown,unknown
+0 NAIVASHA,visa,,unknown,unknown
+NAIVASHA,visa,,unknown,unknown
+LIMURU,visa,,unknown,unknown
+NGONG,visa,,unknown,unknown
+0 KAJIADO,visa,,unknown,unknown
+0 KIKUYU,visa,,unknown,unknown
+KIKUYU,visa,,unknown,unknown
+CENTRAL,visa,,unknown,unknown
+ONGATA RONGAI,visa,,unknown,unknown
+GITHUNGURI,visa,,unknown,unknown
+0 GITHUNGURI,visa,,unknown,unknown
+KITENGELA,visa,,unknown,unknown
+WESTLANDS,visa,,unknown,unknown
+RUNDA,visa,,unknown,unknown
+KAJIADO,visa,,unknown,unknown
+WESTLANDS - NBI,visa,,unknown,unknown
+MOMBASA,visa,,unknown,unknown
+RIFT VALLEY,visa,,unknown,unknown
+MATUU,visa,,unknown,unknown
+EASTERN,visa,,unknown,unknown
+NYANZA,visa,,unknown,unknown
+COAST,visa,,unknown,unknown
+NORTH - EASTERN,visa,,unknown,unknown
+WESTERN,visa,,unknown,unknown
+KANGARI,visa,,unknown,unknown
+KOINANGE STR - NBI,visa,,unknown,unknown
+MOI AVENUE - NBI,visa,,unknown,unknown
+HARAMBEE STR - NBI,visa,,unknown,unknown
+TOM MBOYA STR - NBI,visa,,unknown,unknown
+MAMANGINA STR - NBI,visa,,unknown,unknown
+GIKOMBA - NBI,visa,,unknown,unknown
+CITY HALL WAY - NBI,visa,,unknown,unknown
+COMMUNITY - NBI,visa,,unknown,unknown
+NYAMIRA,visa,,unknown,unknown
+MUINDU MBINGU STR -NBI,visa,,unknown,unknown
+JOGOO ROAD -NBI,visa,,unknown,unknown
+KIMATHI STR - NBI,visa,,unknown,unknown
+KARATINA,visa,,unknown,unknown
+ONGATA - NBI,visa,,unknown,unknown
+BURUBURU -NBI,visa,,unknown,unknown
+MWEA,visa,,unknown,unknown
+NKUBU,visa,,unknown,unknown
+KIRIAINI,visa,,unknown,unknown
+MFANGANO STR - NBI,visa,,unknown,unknown
+DIGO RD - MSA,visa,,unknown,unknown
+PIPELINE - NBI,visa,,unknown,unknown
+0 NAIROBI,visa,,unknown,unknown
+KIAMBU,visa,,unknown,unknown
+NAROBI,visa,,unknown,unknown
+0 KIAMBU,visa,,unknown,unknown
+THIKA,visa,,unknown,unknown
+RUIRU,visa,,unknown,unknown
+KARIOBANGI - NBI,visa,,unknown,unknown
+SYOKIMAU,visa,,unknown,unknown
+EMBAKASI - NBI,visa,,unknown,unknown
+0 OTHAYA,visa,,unknown,unknown
+NYERI,visa,,unknown,unknown
+NANYUKI,visa,,unknown,unknown
+0 NYERI,visa,,unknown,unknown
+OTHAYA,visa,,unknown,unknown
+0 KITENGELA,visa,,unknown,unknown
+KANGEMA,visa,,unknown,unknown
+0 KANGEMA,visa,,unknown,unknown
+0 RUIRI,visa,,unknown,unknown
+ATHI RIVER,visa,,unknown,unknown
+JUJA,visa,,unknown,unknown
+MURANGA,visa,,unknown,unknown
+0 MURANGA,visa,,unknown,unknown
+0 MUKURWENI,visa,,unknown,unknown
+0 KARATINA,visa,,unknown,unknown
+GITHURAI,visa,,unknown,unknown
+KERUGOYA,visa,,unknown,unknown
+KAGIO,visa,,unknown,unknown
+MACHAKOS,visa,,unknown,unknown
+0 MACHAKOS,visa,,unknown,unknown
+0 KERUGOYA,visa,,unknown,unknown
+0 TALA,visa,,unknown,unknown
+EMBU,visa,,unknown,unknown
+0 EMBU,visa,,unknown,unknown
+0 MATUU,visa,,unknown,unknown
+ISIOLO,visa,,unknown,unknown
+MERU,visa,,unknown,unknown
+CHUKA,visa,,unknown,unknown
+0 CHUKA,visa,,unknown,unknown
+WOTE,visa,,unknown,unknown
+TAVETA,visa,,unknown,unknown
+MAUA,visa,,unknown,unknown
+KITUI,visa,,unknown,unknown
+0 KITUI,visa,,unknown,unknown
+0 KIBWEZI,visa,,unknown,unknown
+KIBWEZI,visa,,unknown,unknown
+MWINGI,visa,,unknown,unknown
+0 MWINGI,visa,,unknown,unknown
+MTITO ANDEI,visa,,unknown,unknown
+0 WUNDANYI,visa,,unknown,unknown
+WUNDANYI,visa,,unknown,unknown
+MBALE,visa,,unknown,unknown
+0 MBALE,visa,,unknown,unknown
+VOI,visa,,unknown,unknown
+MOYALE,visa,,unknown,unknown
+GARISSA,visa,,unknown,unknown
+0 GARISSA,visa,,unknown,unknown
+0 UKUNDA,visa,,unknown,unknown
+DIANI,visa,,unknown,unknown
+UKUNDA,visa,,unknown,unknown
+UKUNDA - MSA,visa,,unknown,unknown
+0 KILIFI,visa,,unknown,unknown
+0 MOMBASA,visa,,unknown,unknown
+MOMBASA-NYALI,visa,,unknown,unknown
+KILIFI,visa,,unknown,unknown
+MALINDI,visa,,unknown,unknown
+WATAMU,visa,,unknown,unknown
+MALINDI - MSA,visa,,unknown,unknown
+0 MALINDI,visa,,unknown,unknown
+0 LAMU,visa,,unknown,unknown
+Bomet,western_union,,unknown,DTB  BOMET
+Kapenguria,western_union,,unknown,EQUITY BANK KENYA LTD
+Moi's Bridge,western_union,,unknown,EQUITY BANK KENYA LTD
+Kasabet,western_union,,unknown,DTB KAPSABET
+Kapsabet,western_union,,unknown,NCBA KAPSABET
+Sondu,western_union,,unknown,EQUITY BANK KENYA LTD
+Kisii,western_union,,unknown,EQUITY BANK KENYA LTD
+Nandi Hills,western_union,,unknown,EQUITY BANK KENYA LTD
+Chwele,western_union,,unknown,NCBA CHWELE
+Bumala,western_union,,unknown,EQUITY BANK KENYA LTD
+Mandera,western_union,,unknown,EQUITY BANK KENYA LTD
+Mikinduri,western_union,,unknown,EQUITY BANK KENYA LTD
+Mitunguu,western_union,,unknown,EQUITY BANK KENYA LTD
+Mokowe,western_union,,unknown,EQUITY BANK KENYA LTD
+Moyale,western_union,,unknown,EQUITY BANK KENYA LTD
+Nairobi,western_union,,unknown,EQUITY BANK KENYA LTD
+Mai Mahiu,western_union,,unknown,EQUITY BANK KENYA LTD
+Masii,western_union,,unknown,EQUITY BANK KENYA LTD
+Nyahururu,western_union,,unknown,DTB NYAHURURU
+Karatina,western_union,,unknown,DTB KARATINA
+Nanyuki,western_union,,unknown,DTB NANYUKI
+Timau,western_union,,unknown,EQUITY BANK KENYA LTD
+Kiritiri,western_union,,unknown,EQUITY BANK KENYA LTD
+Laare,western_union,,unknown,EQUITY BANK KENYA LTD

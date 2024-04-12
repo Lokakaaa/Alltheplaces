@@ -1,0 +1,13 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+13457,abc_pl,abc,,Żodyń,wielkopolskie,,PL,,,,abc,Q11683985
+11821,groszek_pl,Groszek,,Siedlec,wielkopolskie,,PL,,,,Groszek,Q9280965
+13457,groszek_pl,Groszek,,Żodyń,wielkopolskie,,PL,,,,Groszek,Q9280965
+14090,groszek_pl,Groszek,,Kiełpiny,wielkopolskie,,PL,,,,Groszek,Q9280965
+SIL01G,paczkomat_inpost_pl,Przy Urzędzie Gminy,,Siedlec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-siedlec-sil01g-zbaszynska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SIL01M,paczkomat_inpost_pl,przy wejściu do apteki,,Siedlec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-siedlec-sil01m-wolsztynska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SIL02M,paczkomat_inpost_pl,przy budynku delikatesów,,Siedlec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-siedlec-sil02m-piaskowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZDY01M,paczkomat_inpost_pl,na terenie stacji paliw,,Żodyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zodyn-zdy01m-glowna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+278431,poczta_polska_pl,AP Belęcin,,Belęcin,WIELKOPOLSKIE,,PL,+48 68 346 30 69,,,Poczta Polska,Q168833
+972166,poczta_polska_pl,FUP Wolsztyn 1,,Siedlec,WIELKOPOLSKIE,,PL,+48 68 384 85 09,,,Poczta Polska,Q168833
+301118,poczta_polska_pl,AP Tuchorza,,Tuchorza,WIELKOPOLSKIE,,PL,+48 68 346 41 49,,,Poczta Polska,Q168833
+d9bdadd402183262a30aa3a646487ff4,western_union,BS SIEDLEC,,Siedlec,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/siedlec/d9bdadd402183262a30aa3a646487ff4,Mo-Fr 07:30-15:00,Western Union,Q861042

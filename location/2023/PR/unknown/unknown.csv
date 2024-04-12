@@ -1,0 +1,161 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+B6V4,accor,Fairmont El San Juan Hotel,"6063 Av Isla Verde, 00979 San Juan",,,,PR,,https://all.accor.com/hotel/B6V4/index.en.shtml,,Fairmont,Q1393345
+Ford900266PRI,ford,"Autos Vega, Inc.",,San Juan,,,PR,+1 787-782-4030,http://www.autosvegaford.com,Mo-Sa 08:00-18:00,Ford,Q44294
+Ford900312PRI,ford,"Caguas Expressway Motors, Inc.",,Caguas,,,PR,+1 787-641-4242,http://www.caguasexpressway.com,Mo-Sa 08:00-18:00,Ford,Q44294
+Ford900351PRI,ford,Central Ford,,Vega Alta,,,PR,+1 787-915-5000,http://www.centralfordpr.com/,Mo-Sa 09:00-18:00,Ford,Q44294
+Ford901659PRI,ford,"Metro Motors V. I., Inc.",,St. Thomas,,,PR,+1 340-775-4900,,,Ford,Q44294
+Ford901677PRI,ford,Metro Motors S. C. Inc.,,St. Croix,,,PR,+1 340-718-2121,,,Ford,Q44294
+Ford904499PRI,ford,"Fajardo Ford, Inc.",,Luquillo,,,PR,+1 787-355-5555,http://www.micasaford.com/,Mo-Sa 08:00-18:00,Ford,Q44294
+Ford905191PRI,ford,Cabrera Auto Group,,Arecibo,,,PR,+1 787-880-8082,http://www.cabreraauto.com,Mo-Sa 07:00-19:00; Su 11:00-17:00,Ford,Q44294
+Ford905214PRI,ford,Mayagüez Ford,,Mayagüez,,,PR,+1 787-805-3673,http://www.mayaguezford.com,Mo-Sa 08:00-19:00; Su 11:00-17:00,Ford,Q44294
+Ford905240PRI,ford,"Ford Del Sur, Inc.",,Ponce,,,PR,+1 787-651-0000,http://www.micasaford.com/,Mo-Sa 08:00-18:00,Ford,Q44294
+Ford905292PRI,ford,Auto Grupo Ford de Bayamón,,Toa Baja,,,PR,+1 787-474-6565,http://www.autogrupoford.com,Mo-Sa 09:00-18:00,Ford,Q44294
+Motorcraft316PRIEnglish,ford,Ford del Sur Inc,,Ponce,,,PR,+1 787-651-0000,www.micasaford.com,,Ford,Q44294
+Motorcraft317PRISpanish,ford,Ford Del Sur Inc,,Ponce,,,PR,+1 787-651-0000,www.micasaford.com,,Ford,Q44294
+Motorcraft319PRISpanish,ford,Alberic Ford,,San Juan,,,PR,+1 787-474-2222,albericcolon.com,,Ford,Q44294
+Motorcraft324PRIEnglish,ford,Mayaguez Ford,,Mayaguez,,,PR,+1 787-805-3673,www.MayaguezFord.com,,Ford,Q44294
+Motorcraft325PRISpanish,ford,Mayaguez Ford,,Mayagüez,,,PR,+1 787-805-3673,www.MayaguezFord.com,,Ford,Q44294
+Motorcraft328PRIEnglish,ford,Caguas Expressway Motor inc.,,Caguas,,,PR,+1 787-641-4242,www.caguasexpressway.com,,Ford,Q44294
+Motorcraft329PRISpanish,ford,Caguas Expressway Motor Inc.,,Caguas,,,PR,+1 787-641-4242,www.caguasexpressway.com,,Ford,Q44294
+Motorcraft332PRIEnglish,ford,Fajardo Ford Inc,,Luquillo,,,PR,+1 787-355-5555,www.micasaford.com,,Ford,Q44294
+Motorcraft333PRISpanish,ford,Fajardo Ford Inc,,Luquillo,,,PR,+1 787-355-5555,www.micasaford.com,,Ford,Q44294
+Motorcraft334PRIEnglish,ford,The Parts House,,Guaynabo,,,PR,+1 787-273-0125,http://www.thepartshouse.com/,,Ford,Q44294
+Motorcraft335PRISpanish,ford,The Parts House,,Guaynabo,,,PR,+1 787-273-0125,http://www.alcaldeautoparts.com/,,Ford,Q44294
+Motorcraft336PRIEnglish,ford,AutoGrupo Ford Bayamon,,Bayamon,,,PR,+1 787-474-6565,autogrupoford.com,,Ford,Q44294
+Motorcraft337PRISpanish,ford,Autogrupo Ford Bayamon,,Bayamón,,,PR,+1 787-474-6565,autogrupoford.com,,Ford,Q44294
+Motorcraft338PRIEnglish,ford,CENTRAL FORD,,Vega Alta,,,PR,+1 787-915-5000,www.centralfordpr.com,,Ford,Q44294
+Motorcraft339PRISpanish,ford,Central Ford,,Vega Alta,,,PR,+1 787-915-5000,www.centralfordpr.com,,Ford,Q44294
+Motorcraft340PRIEnglish,ford,Alcalde Auto Parts,,San Juan,,,PR,+1 787-753-1845,http://www.alcaldeautoparts.com/,,Ford,Q44294
+Motorcraft341PRISpanish,ford,Alcalde Auto Parts,,San Juan,,,PR,+1 787-753-1845,http://www.alcaldeautoparts.com/,,Ford,Q44294
+Motorcraft342PRIEnglish,ford,Autos Vega Ford,,San Juan,,,PR,+1 787-782-4030,www.autosvegaford.com,,Ford,Q44294
+Motorcraft343PRISpanish,ford,Autos Vega Ford,,San Juan,,,PR,+1 787-782-4030,www.autosvegaford.com,,Ford,Q44294
+Motorcraft348PRIEnglish,ford,CABRERA,,Hatillo.Arecibo,,,PR,+1 787-880-8080,cabreraauto.com,,Ford,Q44294
+Motorcraft349PRISpanish,ford,Cabrera,,Hatillo.Arecibo,,,PR,+1 787-880-8080,cabreraauto.com,,Ford,Q44294
+YAB,mcdonalds_latin_america,YABUCOA,"Carr 3 Int. Carr 901, Yabucoa  00767",,,,PR,,,Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00,McDonald's,Q38076
+GHO,mcdonalds_latin_america,GUAYAMA HOSPITAL,"PR 54, Desvio Sur, Guayama  00654",,,,PR,,,Mo-Fr 05:00-24:00; Sa-Su 06:00-24:00,McDonald's,Q38076
+HU3,mcdonalds_latin_america,HUMACAO III,"Carr 3, Km 83.6, Rio Abajo, Humacao, PR,00791",,,,PR,,,Mo-Th 07:00-22:00; Fr-Sa 07:00-23:00; Su 07:00-22:00,McDonald's,Q38076
+HUM,mcdonalds_latin_america,HUMACAO,"Carr 908, Km 8.0, HumCarr 908, Km 8.0, Humacao  00792acao  00792",,,,PR,,,Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 07:00-23:00; Su 07:00-22:00,McDonald's,Q38076
+FAJ,mcdonalds_latin_america,FAJARDO,Carr 3 Int. 194 Fajardo  00738,Fajardo,,,PR,,,"Mo-We 06:00-01:00; Th 00:00-02:00,06:00-24:00; Fr-Sa 00:00-24:00; Su 00:00-02:00,05:00-24:00",McDonald's,Q38076
+CY3,mcdonalds_latin_america,Cayey Pérez Hermanos Plaza,C. Marginal Cayey 0736,Cayey,,,PR,,,Mo-Th 06:00-23:00; Fr-Sa 06:00-01:00; Su 06:00-23:00,McDonald's,Q38076
+CY2,mcdonalds_latin_america,CAYEY II,"36 Baldorioty St., Bo. Rincon, Cayey  00633",,,,PR,,,Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00,McDonald's,Q38076
+COA,mcdonalds_latin_america,COAMO,"PR #153 y PR #52 Coamo, PR 00769",,,,PR,,,Mo-Th 05:00-24:00; Fr-Su 00:00-24:00,McDonald's,Q38076
+LUQ,mcdonalds_latin_america,LUQUILLO,"Carr 3, Km 34.3, Luquillo, PR  00773",,,,PR,,,Mo-We 06:00-23:00; Th 06:00-24:00; Fr-Sa 06:00-01:00; Su 06:00-24:00,McDonald's,Q38076
+PRO,mcdonalds_latin_america,CAGUAS PROGRESO,"Luis Muñoz Marin Ave., Tomas de Castro, Esq., Caguas 00725",,,,PR,,,Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 07:00-23:00,McDonald's,Q38076
+CA2,mcdonalds_latin_america,CAGUAS II,"Carr 1, Esq. Degetau, Caguas  00725",,,,PR,,,Mo-Su 06:00-24:00,McDonald's,Q38076
+GUR,mcdonalds_latin_america,GURABO,"Carr 189, Km 3.3, Barrio Navarro, Gurabo  00778 3.3, Barrio Navarro, Gurabo  00778",,,,PR,,,Mo-Su 07:00-22:00,McDonald's,Q38076
+CID,mcdonalds_latin_america,CIDRA,"Carr 172, Esq. Carr 173, Cidra  00739",,,,PR,,,Mo-We 06:00-23:00; Th-Sa 06:00-24:00; Su 07:00-23:00,McDonald's,Q38076
+LCT,mcdonalds_latin_america,LAS CATALINAS,Ave. José Garrido Carr. 196 Las Catalinas Mall Caguas PR 00725,,,,PR,,,Mo-Th 05:30-01:00; Fr-Sa 05:30-02:00; Su 05:30-01:00,McDonald's,Q38076
+BAI,mcdonalds_latin_america,BAIROA,"PR-1 & Calle. Angora, Bo. Bairoa, Caguas, PR 00725.",,,,PR,,,Mo-Sa 05:30-23:00; Su 07:00-23:00,McDonald's,Q38076
+AIB,mcdonalds_latin_america,AIBONITO,"301 San Jose Este St.,  State Road PR, 00705",,,,PR,,,Mo-Th 06:00-24:00; Fr-Sa 00:00-24:00; Su 06:00-24:00,McDonald's,Q38076
+RGR,mcdonalds_latin_america,RIO GRANDE,"Urb. Industrial Las Flores, Carr3, Cienagabaja, Rio Grande, PR,   00745-0000",,,,PR,,,"Mo-Th 06:00-23:00; Fr 06:00-02:00; Sa 00:00-02:00,06:00-02:00; Su 00:00-02:00,06:00-23:00",McDonald's,Q38076
+PBP,mcdonalds_latin_america,PONCE BY PASS,"Ponce By-Pass & K St., Ponce  00731",Ponce,,,PR,,,Mo-Th 06:00-24:00; Fr-Sa 00:00-24:00; Su 06:00-24:00,McDonald's,Q38076
+JAD,mcdonalds_latin_america,JUANA DIAZ,"PR 149 Esq. PR 14, Sector Lomas Ward, Juana Diaz, PR 00795",,,,PR,,,Mo-Th 05:30-24:00; Fr-Sa 05:30-02:00; Su 05:30-24:00,McDonald's,Q38076
+LCB,mcdonalds_latin_america,LOS COLOBOS,"Lote #3, Carr. Pr-3, Barrio Canovanillas, Carolina, Puerto Rico, 00729",,,,PR,,,Mo-Th 06:00-24:00; Fr-Sa 06:00-02:00; Su 06:00-24:00,McDonald's,Q38076
+PPL,mcdonalds_latin_america,PONCE PALACE,Int. PR 2 and PR 585 Ponce 00716,Ponce,,,PR,,,24/7,McDonald's,Q38076
+PLA,mcdonalds_latin_america,PONCE LAS AMERICAS,"Las Americas Ave., PR 2, Esq., Ponce  00731",,,,PR,,,Mo-Th 06:00-24:00; Fr-Sa 06:00-01:00; Su 06:00-24:00,McDonald's,Q38076
+LOZ,mcdonalds_latin_america,LOIZA,"Carr 188, Km 10.9, Loiza  00772",,,,PR,,,Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 06:00-23:00,McDonald's,Q38076
+LCU,mcdonalds_latin_america,LAS CUMBRES,Ave Las Cumbres y Carr 176,San Juan,,,PR,,,24/7,McDonald's,Q38076
+65I,mcdonalds_latin_america,65I NFANTERIA,"65 Infanteria & Carr 849, Rio Piedras 00924",San Juan,,,PR,,,Mo-Th 06:00-22:00; Fr-Su 00:00-24:00,McDonald's,Q38076
+SOS,mcdonalds_latin_america,SANCHEZ OSORIO,"Sanchez Osorio Ave., Campo Rico Ave., Esq, PR, 00982",Carolina,,,PR,,,Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 06:00-23:00,McDonald's,Q38076
+65X,mcdonalds_latin_america,65XTRA,"Pueblo Xtra 65th Inf.St., Km 3.3, Rio Piedras, 00928",,,,PR,,,Mo-Th 06:00-24:00; Fr-Sa 06:00-02:00; Su 06:00-24:00,McDonald's,Q38076
+NAR,mcdonalds_latin_america,NARANJITO,"State Road 152 & A. Streets, Km 12.4, Naranjito, PR 00719",,,,PR,,,Mo-Sa 06:00-24:00; Su 07:00-24:00,McDonald's,Q38076
+SAG,mcdonalds_latin_america,SAN AGUSTIN,"65 Inf. Ave., Cabo Maximo Street, Esq., Rio Piedras,   00926",,,,PR,,,Mo-Tu 06:00-22:00; We 06:00-24:00; Th-Su 00:00-24:00,McDonald's,Q38076
+PGU,mcdonalds_latin_america,PLAZA GUAYNABO,"AVE FRANCISCO CARVAJAL NARVAEZ, PLAZA GUAYNABO, GUAYNABO, PR, 00969",GUAYNABO,,,PR,,,Mo-Su 06:00-23:00,McDonald's,Q38076
+BVB,mcdonalds_latin_america,BUENA VISTA,"PR-167, km 14.6, Sector El Portón, Buena Vista Ward, Bayamón, PR 00956",,,,PR,,,Mo-Th 06:00-24:00; Fr-Sa 06:00-01:00; Su 07:00-24:00,McDonald's,Q38076
+HR3,mcdonalds_latin_america,HATO REY 3,"Ave. Muñoz Rivera (PR-1) Intercecsion con Ave. Roosevelt (PR-23), Bo. Hato Rey, San Juan, PR, 00918",,,,PR,,,Mo-Tu 05:30-24:00; We-Sa 00:00-11:59; Su 05:30-24:00,McDonald's,Q38076
+LFS,mcdonalds_latin_america,LOS FILTROS,Centro Comercial Los Filtros Carretra PR 177 km 2.0 local11/13 Minillas Ward,Bayamón,,,PR,,,Mo-We 06:00-24:00; Th 06:00-02:00; Fr 06:00-24:00; Sa 00:00-24:00; Su 07:00-24:00,McDonald's,Q38076
+GUY,mcdonalds_latin_america,GUAYANILLA,"PR 127, Int. PR 2, Guayanilla  00656",,,,PR,,,"Mo-Th 00:00-00:30,06:00-24:00; Fr-Sa 00:00-01:03,06:00-01:00; Su 00:00-00:30,07:00-24:00",McDonald's,Q38076
+REX,mcdonalds_latin_america,REXVILLE,"Carr 167, Km 1.4,Bo. Pajaros, Bayamon  00957",,,,PR,,,Mo-We 06:00-24:00; Th 06:00-01:00; Fr 06:00-24:00; Sa 00:00-24:00; Su 06:00-24:00,McDonald's,Q38076
+MAG,mcdonalds_latin_america,MAGNOLIA,"State Road 167, Marginal Magnolia, Bayamon 00956",,,,PR,,,Mo-Su 06:00-24:00,McDonald's,Q38076
+GUA,mcdonalds_latin_america,GUANICA,"State Road 116, Int. PR 332, Guanica  00653",,,,PR,,,Mo-Su 07:00-23:00,McDonald's,Q38076
+LOI,mcdonalds_latin_america,CALLE LOIZA,"Loiza St., Santa Cecilia St., Esq., Santurce, 00911",,,,PR,,,Mo-Sa 06:00-23:00; Su 07:00-23:00,McDonald's,Q38076
+PLZ,mcdonalds_latin_america,PLAZOLETA CANTÓN,"State Road 167 & West Main, Bayamon  00957",Bayamón,,,PR,,,24/7,McDonald's,Q38076
+YAU,mcdonalds_latin_america,YAUCO,"Highway 2, Corner State Road 128, Yauco Plaza, Yauco  00698",,,,PR,,,Mo-We 06:00-24:00; Th 06:00-02:00; Fr 06:00-24:00; Sa 00:00-24:00; Su 06:00-24:00,McDonald's,Q38076
+DRI,mcdonalds_latin_america,DRIVE IN,"State Road 2, Km 13.9, Hato Tejas, Bayamon  00961",,,,PR,,,Mo-Su 06:00-24:00,McDonald's,Q38076
+BAO,mcdonalds_latin_america,BAYAMON OESTE,"Carr 2, Km 14.7 Hato Tejas, Bayamon  00961",,,,PR,,,Mo-Su 06:00-24:00,McDonald's,Q38076
+TOA,mcdonalds_latin_america,TOA BAJA,"PR - 2 & ROAD 863, PAJAROS WARD, TOA BAJA, PUERTO RICO 00949",,,,PR,,,Mo-Th 06:00-24:00; Fr-Sa 06:00-01:00; Su 06:00-24:00,McDonald's,Q38076
+LEV,mcdonalds_latin_america,LEVITTOWN,"Sabana Seca Ave., Comerio Ave., Esq., Levitown  00949",,,,PR,,,Mo-Th 07:00-24:00; Fr-Sa 07:00-01:00; Su 07:00-24:00,McDonald's,Q38076
+VEA,mcdonalds_latin_america,VEGA ALTA,"Carr 2, Km 29.5, Vega Alta, PR, 00692",,,,PR,,,Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 06:00-23:00,McDonald's,Q38076
+CIA,mcdonalds_latin_america,CIALES,"PR 149, Km 12.1, Expreso Ciales, Ciales 00638",,,,PR,,,Mo-Th 06:30-22:30; Fr-Sa 06:30-24:00; Su 08:00-23:00,McDonald's,Q38076
+DOR,mcdonalds_latin_america,DORADO,"PR 693, Km 7.6, Dorado, pr 00646",,,,PR,,,Mo-Th 06:00-23:00; Fr 06:00-24:00; Sa 00:00-24:00; Su 06:00-23:00,McDonald's,Q38076
+LAJ,mcdonalds_latin_america,LAJAS,"PR 116, Km 1.4, Bo Sabanayegua, Lajas, PR, 00667",,,,PR,,,Mo-We 06:00-23:00; Th-Sa 06:00-24:00; Su 06:00-23:00,McDonald's,Q38076
+VEB,mcdonalds_latin_america,VEGA BAJA,"Carr 155, Km 37.2, Vega Baja S. C., Vega Baja, PR00693",,,,PR,,,Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 07:00-23:00,McDonald's,Q38076
+UTU,mcdonalds_latin_america,UTUADO,"PR 10, Km 50.5, Bo Salto Abajo, Utuado  00641",,,,PR,,,Mo-Su 07:00-22:00,McDonald's,Q38076
+SGE,mcdonalds_latin_america,SAN GERMAN,"Plaza del Oeste 391, Castro Perez Ave., San German, PR, 00683",,,,PR,,,Mo-Su 06:00-24:00,McDonald's,Q38076
+MAN,mcdonalds_latin_america,MANATI,"Carr 2, McKinley, Esq., Manati, PR, 00674y, Esq., Manati, PR, 00674",,,,PR,,,Mo-Th 06:00-24:00; Fr-Sa 06:00-01:00; Su 07:00-24:00,McDonald's,Q38076
+BRC,mcdonalds_latin_america,BARCELONETA,"Carr 2, Cruce Davila, KM 57.8, BO. Florida Afuera, Barceloneta, PR 00617",,,,PR,,,Mo-Th 05:30-24:00; Fr-Sa 05:30-02:00; Su 06:30-24:00,McDonald's,Q38076
+SNT,mcdonalds_latin_america,SANTANA,Carr. #2 Int. 662 Km 70.0 Bo. Santana Arecibo PR 00613,,,,PR,,,Mo-Th 06:30-24:00; Fr-Sa 06:30-01:00; Su 06:30-24:00,McDonald's,Q38076
+SSE,mcdonalds_latin_america,SAN SEBASTIAN,"Carr 111, Km 18.5, Mahomamey Ward, San Sebastian, PR, 00685",,,,PR,,,Mo-Th 06:30-23:00; Fr-Sa 06:30-24:00; Su 07:00-23:00,McDonald's,Q38076
+HAT,mcdonalds_latin_america,HATILLO PUEBLO,"Car 2, Km 87.5, Marginal, Hatillo  00659",Hatillo,,,PR,,,Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 07:00-23:00,McDonald's,Q38076
+CAM,mcdonalds_latin_america,CAMUY,"Carr 2, Km 92.4, Barrio Membrillo, Camuy  00627",,,,PR,,,Mo-Th 07:00-22:00; Fr-Sa 07:00-23:00; Su 07:00-22:00,McDonald's,Q38076
+ISA,mcdonalds_latin_america,ISABELA,"Carr 2, Km 115.1, Sector La Curva, Isabela  00602",,,,PR,,,Mo-Th 06:30-24:00; Fr-Sa 00:00-24:00; Su 06:30-24:00,McDonald's,Q38076
+AGU,mcdonalds_latin_america,AGUADA,"Carr 1115, Km 22.4, Bo. Guaniquilla, Aguada 00602",,,,PR,,,Mo-Th 07:00-23:00; Fr-Sa 07:00-24:00; Su 07:00-23:00,McDonald's,Q38076
+AGD,mcdonalds_latin_america,AGUADILLA,Carr 2  Km 125.1 Aguadilla  00605,Aguadilla,,,PR,,,24/7,McDonald's,Q38076
+VI111S4760,totalenergies,ALTONA,,ST THOMAS,,,PR,,https://store.totalenergies.fr/en_EN/VI111S4760,,TotalEnergies,Q154037
+,visa,,,CEIBA,,,PR,,,,,
+,visa,,,HUMACAO,,,PR,,,,,
+,visa,,,YABUCOA,,,PR,,,,,
+,visa,,,LAS PIEDRAS,,,PR,,,,,
+,visa,,,CANOVANAS,,,PR,,,,,
+,visa,,,SAN LORENZO MUNICIPIO,,,PR,,,,,
+,visa,,,SAN LORENZO,,,PR,,,,,
+,visa,,,CAROLINA,,,PR,,,,,
+,visa,,,CAROLINA,,,PR,,,,,
+,visa,,,CAGUAS,,,PR,,,,,
+,visa,,,CAGUAS,,,PR,,,,,
+,visa,,,CAGUAS,,,PR,,,,,
+,visa,,,CAGUAS,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,GUAYAMA,,,PR,,,,,
+,visa,,,BAYAMON,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,HATO REY,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,RIO PIEDRAS,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,GUAYNABO,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,CAYEY,,,PR,,,,,
+,visa,,,GUAYNABO,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,CAYEY,,,PR,,,,,
+,visa,,,GUAYNABO,,,PR,,,,,
+,visa,,,BAYAMON,,,PR,,,,,
+,visa,,,CATANO,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,BAYAMON,,,PR,,,,,
+,visa,,,BAYAMON,,,PR,,,,,
+,visa,,,BAYAMON,,,PR,,,,,
+,visa,,,BAYAMON,,,PR,,,,,
+,visa,,,BAYAMON,,,PR,,,,,
+,visa,,,AIBONITO,,,PR,,,,,
+,visa,,,COAMO,,,PR,,,,,
+,visa,,,COAMO,,,PR,,,,,
+,visa,,,JUANA DIAZ,,,PR,,,,,
+,visa,,,MANATI,,,PR,,,,,
+,visa,,,PONCE,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,PONCE,,,PR,,,,,
+,visa,,,PONCE,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,
+,visa,,,PONCE,,,PR,,,,,
+,visa,,,PENUELAS,,,PR,,,,,
+,visa,,,HATILLO,,,PR,,,,,
+,visa,,,YAUCO,,,PR,,,,,
+,visa,,,CAGUAS,,,PR,,,,,
+,visa,,,MAYAGUEZ,,,PR,,,,,
+,visa,,,MAYAGUEZ,,,PR,,,,,
+,visa,,,AGUADILLA,,,PR,,,,,
+,visa,,,CAYEY,,,PR,,,,,
+,visa,,,SAN JUAN,,,PR,,,,,

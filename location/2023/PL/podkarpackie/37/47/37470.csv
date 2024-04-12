@@ -1,0 +1,16 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+11337,abc_pl,abc,,Lipa,podkarpackie,,PL,,,,abc,Q11683985
+7212,abc_pl,abc,,Lipa,podkarpackie,,PL,,,,abc,Q11683985
+3163,abc_pl,abc,,Zaklików,podkarpackie,,PL,,,,abc,Q11683985
+12593,groszek_pl,Groszek,,Lipa,podkarpackie,,PL,,,,Groszek,Q9280965
+2239,groszek_pl,Groszek,,Zaklików,podkarpackie,,PL,,,,Groszek,Q9280965
+2336,groszek_pl,Groszek,,Zdziechowice Drugie,podkarpackie,,PL,,,,Groszek,Q9280965
+LIA01M,paczkomat_inpost_pl,Przy Sklepie Abc Herkules,,Lipa,podkarpackie,,PL,,https://inpost.pl/paczkomat-lipa-lia01m-sandomieska-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ZDD01M,paczkomat_inpost_pl,Przy Delikatesach Premium,,Zdziechowice Drugie,podkarpackie,,PL,,https://inpost.pl/paczkomat-zdziechowice-drugie-zdd01m-zdziechowice-drugie-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ZKK01M,paczkomat_inpost_pl,Przy sklepie Stokrotka,,Zaklików,podkarpackie,,PL,,https://inpost.pl/paczkomat-zaklikow-zkk01m-zachodnia-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ZKK02M,paczkomat_inpost_pl,Z boku sklepu,,Zaklików,podkarpackie,,PL,,https://inpost.pl/paczkomat-zaklikow-zkk02m-dluga-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+289274,poczta_polska_pl,AP Lipa,,Lipa,PODKARPACKIE,,PL,+48 798 091 588,,,Poczta Polska,Q168833
+276361,poczta_polska_pl,UP Zaklików,,Zaklików,PODKARPACKIE,,PL,+48 15 873 84 18,,,Poczta Polska,Q168833
+,visa,,,ZAKLIKOW,PODKARPACKIE,,PL,,,,,
+f85e1187e8f673d5cf4df1e5eaba27ec,western_union,NADSANSKI BANK SPOLDZIELCZY,,Zaklikow,PODKARPACKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/podkarpackie/zaklikow/f85e1187e8f673d5cf4df1e5eaba27ec,Mo-Fr 08:00-16:00,Western Union,Q861042
+c6d76975d6cad23e30273110aa34d94d,western_union,BANK SPOLDZIELCZY ZIEMII KRASN,,Zaklikow,PODKARPACKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/podkarpackie/zaklikow/c6d76975d6cad23e30273110aa34d94d,Mo-Fr 08:00-17:00; Sa 08:00-11:00,Western Union,Q861042

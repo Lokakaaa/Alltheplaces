@@ -1,0 +1,949 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+UNKNOWN,alamo,Sarajevo,1
+UNKNOWN,alamo,Tuzla,1
+BRCKO,audi,Brcko,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,audi,Sarajevo,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,audi,Tuzla,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,audi,Mostar,1
+REPUBLIKASRPSKA,audi,Banja Luka,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,audi,Bihac,1
+DUBRAVEGORNJE,avis,Tuzla,1
+KURTASCHORKA36,avis,Sarajevo,1
+UNKNOWN,bmw_group,Banja Luka,1
+UNKNOWN,bmw_group,Sarajevo,1
+UNKNOWN,bmw_group,Mostar,1
+UNKNOWN,church_of_england_gb,unknown,1
+UNKNOWN,deichmann,Zvornik,1
+UNKNOWN,deichmann,Trebinje,1
+UNKNOWN,deichmann,Prijedor,1
+UNKNOWN,deichmann,Gradiška,1
+UNKNOWN,deichmann,Bijeljina,1
+UNKNOWN,deichmann,Banja Luka,3
+UNKNOWN,deichmann,Živinice,1
+UNKNOWN,deichmann,Zenica,1
+UNKNOWN,deichmann,Usora,1
+UNKNOWN,deichmann,Tuzla,2
+UNKNOWN,deichmann,Sarajevo,3
+UNKNOWN,deichmann,Orasje,1
+UNKNOWN,deichmann,Mostar,2
+UNKNOWN,deichmann,Livno,1
+UNKNOWN,deichmann,Ilidža,1
+UNKNOWN,deichmann,Gračanica,1
+UNKNOWN,deichmann,Goražde,1
+UNKNOWN,deichmann,Citluk,1
+UNKNOWN,deichmann,Cazin,1
+UNKNOWN,deichmann,Bugojno,1
+UNKNOWN,deichmann,Bihać,1
+UNKNOWN,deichmann,Brcko,1
+UNKNOWN,dm,Sarajevo,15
+UNKNOWN,dm,Mostar,6
+UNKNOWN,dm,Zenica,3
+UNKNOWN,dm,Bugojno,1
+UNKNOWN,dm,Kiseljak,1
+UNKNOWN,dm,Široki Brijeg,1
+UNKNOWN,dm,Livno,1
+UNKNOWN,dm,Kozarska Dubica,1
+UNKNOWN,dm,Banja Luka,8
+UNKNOWN,dm,Gradiška,2
+UNKNOWN,dm,Gračanica,2
+UNKNOWN,dm,Tuzla,5
+UNKNOWN,dm,Međugorje,1
+UNKNOWN,dm,Orašje,1
+UNKNOWN,dm,Sanski Most,1
+UNKNOWN,dm,Bihać,2
+UNKNOWN,dm,Doboj,1
+UNKNOWN,dm,Goražde,1
+UNKNOWN,dm,Konjic,1
+UNKNOWN,dm,Prnjavor,1
+UNKNOWN,dm,Vitez,1
+UNKNOWN,dm,Ilidža,2
+UNKNOWN,dm,Lukavica,1
+UNKNOWN,dm,Bijeljina,2
+UNKNOWN,dm,Pale,1
+UNKNOWN,dm,Trebinje,1
+UNKNOWN,dm,Cazin,2
+UNKNOWN,dm,Banovići,1
+UNKNOWN,dm,Čapljina,1
+UNKNOWN,dm,Tomislavgrad,1
+UNKNOWN,dm,Grude,1
+UNKNOWN,dm,Kakanj,1
+UNKNOWN,dm,Posušje,1
+UNKNOWN,dm,Ljubuški,1
+UNKNOWN,dm,Derventa,1
+UNKNOWN,dm,Zvornik,2
+UNKNOWN,dm,Prijedor,2
+UNKNOWN,dm,Neum,1
+UNKNOWN,dm,Jajce,1
+UNKNOWN,dm,Živinice,1
+UNKNOWN,dm,Lukavac,1
+UNKNOWN,dm,Travnik,1
+UNKNOWN,dm,Velika Kladuša,1
+UNKNOWN,dm,Brčko,2
+UNKNOWN,dm,Novi Travnik,1
+UNKNOWN,dm,Bosanska Krupa,1
+UNKNOWN,dm,Usora,1
+UNKNOWN,dm,Blažuj,1
+UNKNOWN,dm,Visoko,1
+UNKNOWN,dm,Gradačac,1
+UNKNOWN,enterprise,Sarajevo,2
+UNKNOWN,enterprise,Mostar,2
+UNKNOWN,enterprise,Tuzla,1
+UNKNOWN,ernst_young,Sarajevo,1
+UNKNOWN,ernst_young,Banja Luka,1
+UNKNOWN,extreme_intimo,unknown,13
+UNKNOWN,gbfs,unknown,52
+UNKNOWN,geox,BANJA LUKA,1
+UNKNOWN,geox,BANJA LUKA TC DELTA PLANET,1
+UNKNOWN,geox,SARAJEVO,1
+UNKNOWN,hm,Banja Luka,1
+UNKNOWN,hm,Tuzla,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,ich_tanke_strom,unknown,1
+UNKNOWN,jasmil,unknown,6
+UNKNOWN,jysk,Zvornik,1
+UNKNOWN,jysk,Jajce,1
+UNKNOWN,jysk,Žepče,1
+UNKNOWN,jysk,Orašje,1
+UNKNOWN,jysk,Živinice,1
+UNKNOWN,jysk,Gradačac,1
+UNKNOWN,jysk,Livno,1
+UNKNOWN,jysk,Tuzla,1
+UNKNOWN,jysk,Banja Luka,2
+UNKNOWN,jysk,Prijedor,1
+UNKNOWN,jysk,Trebinje,1
+UNKNOWN,jysk,Istočno Sarajevo,1
+UNKNOWN,jysk,Derventa,1
+UNKNOWN,jysk,Bugojno ,1
+UNKNOWN,jysk,Doboj,1
+UNKNOWN,jysk,Mostar,1
+UNKNOWN,jysk,Sarajevo,2
+UNKNOWN,jysk,Vitez,1
+UNKNOWN,jysk,Bijeljina,1
+UNKNOWN,jysk,Tešanj,1
+UNKNOWN,jysk,Bihać,1
+UNKNOWN,jysk,ZENICA,1
+UNKNOWN,jysk,Gračanica,1
+UNKNOWN,jysk,Čitluk,1
+UNKNOWN,jysk,Gradiška,1
+UNKNOWN,jysk,Cazin,1
+UNKNOWN,jysk,Kakanj,1
+UNKNOWN,man_truck_and_bus,Janja,1
+UNKNOWN,man_truck_and_bus,Ljubuški,1
+UNKNOWN,man_truck_and_bus,Doboj Jug,1
+UNKNOWN,man_truck_and_bus,ILIDŻA,1
+UNKNOWN,man_truck_and_bus,Lukavac,1
+UNKNOWN,marriott,Banja Luka,1
+UNKNOWN,marriott,Sarajevo,2
+UNKNOWN,marriott,Mostar,1
+UNKNOWN,mercedes_benz,Banja Luka,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,mercedes_benz,Nova Bila,1
+FEDERACIJABOSNEIHERCEGOVINE,mercedes_benz,Mostar,1
+FEDERACIJABOSNEIHERCEGOVINE,mercedes_benz,Ilidža,1
+FEDERACIJABOSNEIHERCEGOVINE,mercedes_benz,Živinice,1
+UNKNOWN,moneygram,BANJA LUKA,38
+UNKNOWN,moneygram,KOZARSKA DUBICA,4
+UNKNOWN,moneygram,STANARI,1
+UNKNOWN,moneygram,SARAJEVO,79
+UNKNOWN,moneygram,TUZLA,26
+UNKNOWN,moneygram,NOVA VAROS,1
+UNKNOWN,moneygram,MRKONJIC GRAD,3
+UNKNOWN,moneygram,MOSTAR,22
+UNKNOWN,moneygram,NOVA TOPOLA,2
+UNKNOWN,moneygram,BRKO,1
+UNKNOWN,moneygram,BROD,2
+UNKNOWN,moneygram,BIHAC,18
+UNKNOWN,moneygram,BIJELJINA,12
+UNKNOWN,moneygram,BANOVICI,3
+UNKNOWN,moneygram,BOSANSKA KRUPA,4
+UNKNOWN,moneygram,BUGOJNO,4
+UNKNOWN,moneygram,BUZIM,3
+UNKNOWN,moneygram,CAPLJINA,2
+UNKNOWN,moneygram,CAZIN,13
+UNKNOWN,moneygram,CITLUK,2
+UNKNOWN,moneygram,DERVENTA,4
+UNKNOWN,moneygram,DOBOJ,9
+UNKNOWN,moneygram,GORAZDE,7
+UNKNOWN,moneygram,GRACANICA,8
+UNKNOWN,moneygram,GRADAAC,1
+UNKNOWN,moneygram,GRADIKA,1
+UNKNOWN,moneygram,JELAH,2
+UNKNOWN,moneygram,KAKANJ,5
+UNKNOWN,moneygram,GRUDE,2
+UNKNOWN,moneygram,HADZICI,4
+UNKNOWN,moneygram,ISTONO NOVO SARAJEVO,1
+UNKNOWN,moneygram,ILIDZA,10
+UNKNOWN,moneygram,ILIJAS,4
+UNKNOWN,moneygram,KISELJAK,3
+UNKNOWN,moneygram,KLJUC,6
+UNKNOWN,moneygram,KONJIC,6
+UNKNOWN,moneygram,KOTOR VAROS,4
+UNKNOWN,moneygram,LAKTAI,1
+UNKNOWN,moneygram,LIVNO,4
+UNKNOWN,moneygram,LJUBUSKI,4
+UNKNOWN,moneygram,LUKAVAC,6
+UNKNOWN,moneygram,ODZAK,2
+UNKNOWN,moneygram,ORASJE,3
+UNKNOWN,moneygram,MODRICA,3
+UNKNOWN,moneygram,MAGLAJ,3
+UNKNOWN,moneygram,PALE,3
+UNKNOWN,moneygram,NOVI GRAD,5
+UNKNOWN,moneygram,POSUSJE,3
+UNKNOWN,moneygram,PRIJEDOR,11
+UNKNOWN,moneygram,PRNJAVOR,6
+UNKNOWN,moneygram,AMAC,1
+UNKNOWN,moneygram,SANSKI MOST,10
+UNKNOWN,moneygram,SREBRENIK,5
+UNKNOWN,moneygram,TESANJ,8
+UNKNOWN,moneygram,SIROKI BRIJEG,4
+UNKNOWN,moneygram,UGLJEVIK,3
+UNKNOWN,moneygram,VELIKA KLADUSA,8
+UNKNOWN,moneygram,TESLIC,4
+UNKNOWN,moneygram,TOMISLAVGRAD,2
+UNKNOWN,moneygram,TRAVNIK,11
+UNKNOWN,moneygram,TREBINJE,4
+UNKNOWN,moneygram,VISOKO,6
+UNKNOWN,moneygram,VITEZ,5
+UNKNOWN,moneygram,VOGOSCA,5
+UNKNOWN,moneygram,ZAVIDOVICI,4
+UNKNOWN,moneygram,ZENICA,16
+UNKNOWN,moneygram,EPE,1
+UNKNOWN,moneygram,ZIVINICE,9
+UNKNOWN,moneygram,ZVORNIK,6
+UNKNOWN,moneygram,BRCKO,12
+UNKNOWN,moneygram,ZEPCE,4
+UNKNOWN,moneygram,FOJNICA,2
+UNKNOWN,moneygram,JABLANICA,2
+UNKNOWN,moneygram,GRADACAC,4
+UNKNOWN,moneygram,DELIJAS,1
+UNKNOWN,moneygram,DONJI VAKUF,1
+UNKNOWN,moneygram,DOBOJ-ISTOK,1
+UNKNOWN,moneygram,KALESIJA,3
+UNKNOWN,moneygram,GORNJI VAKUF,2
+UNKNOWN,moneygram,TRNOVO,2
+UNKNOWN,moneygram,VARES,2
+UNKNOWN,moneygram,OLOVO,1
+UNKNOWN,moneygram,BREZA,1
+UNKNOWN,moneygram,STARI VITEZ,1
+UNKNOWN,moneygram,BUSOVACA,2
+UNKNOWN,moneygram,NOVI TRAVNIK,2
+UNKNOWN,moneygram,PALE-PRACA,1
+UNKNOWN,moneygram,DOBOJ - JUG,1
+UNKNOWN,moneygram,CELLIC,1
+UNKNOWN,moneygram,KLADANJ,1
+UNKNOWN,moneygram,SAPNA,1
+UNKNOWN,moneygram,TEOCAK,1
+UNKNOWN,moneygram,BOSANSKI PETROVAC,1
+UNKNOWN,moneygram,LAKTASI,7
+UNKNOWN,moneygram,KRESEVO,1
+UNKNOWN,moneygram,USKOPLJE,1
+UNKNOWN,moneygram,DRVAR,1
+UNKNOWN,moneygram,GLAMOC,1
+UNKNOWN,moneygram,KUPRES,1
+UNKNOWN,moneygram,JAJCE,1
+UNKNOWN,moneygram,STOLAC,1
+UNKNOWN,moneygram,MEDJUGORJE,2
+UNKNOWN,moneygram,BUNA,1
+UNKNOWN,moneygram,VISICI,1
+UNKNOWN,moneygram,VITINA,1
+UNKNOWN,moneygram,SOVICI,1
+UNKNOWN,moneygram,SEONJACI,1
+UNKNOWN,moneygram,PROZOR,1
+UNKNOWN,moneygram,NOVA BILA,1
+UNKNOWN,moneygram,BOSANSKI GRAHOVAC,1
+UNKNOWN,moneygram,NEUM,1
+UNKNOWN,moneygram,USPRA,1
+UNKNOWN,moneygram,DOMALJEVAC,1
+UNKNOWN,moneygram,BOSANSKA GRADISKA,1
+UNKNOWN,moneygram,LOPARE,2
+UNKNOWN,moneygram,FOCA,2
+UNKNOWN,moneygram,VISEGRAD,2
+UNKNOWN,moneygram,LONCARI,1
+UNKNOWN,moneygram,LUKAVICA,1
+UNKNOWN,moneygram,ROGATICA,2
+UNKNOWN,moneygram,SOKOLAC,2
+UNKNOWN,moneygram,BRATUNAC,2
+UNKNOWN,moneygram,MILICI,2
+UNKNOWN,moneygram,VLASENICA,2
+UNKNOWN,moneygram,SREBRENICA,2
+UNKNOWN,moneygram,GACKO,2
+UNKNOWN,moneygram,SEKOVICI,2
+UNKNOWN,moneygram,CELINAC,2
+UNKNOWN,moneygram,GRADISKA,2
+UNKNOWN,moneygram,KNEZEVO,1
+UNKNOWN,moneygram,SRBAC,3
+UNKNOWN,moneygram,SIPOVO,1
+UNKNOWN,moneygram,DOBRLJIN,1
+UNKNOWN,moneygram,KOSTAJNICA,1
+UNKNOWN,moneygram,PETROVO,1
+UNKNOWN,moneygram,OSTRA LUKA,1
+UNKNOWN,moneygram,SAMAC,2
+UNKNOWN,moneygram,OSINJA,1
+UNKNOWN,moneygram,VUKOSAVLJE,1
+UNKNOWN,moneygram,CRKVINA,1
+UNKNOWN,moneygram,PELAGICEVO,1
+UNKNOWN,moneygram,DONJI ZABARI,1
+UNKNOWN,moneygram,KORAJ,1
+UNKNOWN,moneygram,PRIBOJ,1
+UNKNOWN,moneygram,PILICA,1
+UNKNOWN,moneygram,I.SARAJEVO,1
+UNKNOWN,moneygram,SKELANI,1
+UNKNOWN,moneygram,KALINOVIK,1
+UNKNOWN,moneygram,RUDO,1
+UNKNOWN,moneygram,BILECA,1
+UNKNOWN,moneygram,MOKRO,1
+UNKNOWN,moneygram,NOVO GORAZDE,1
+UNKNOWN,moneygram,NEVESINJE,1
+UNKNOWN,moneygram,LJUBINJE,1
+UNKNOWN,moneygram,BOSANSKI BROD,1
+UNKNOWN,national,Sarajevo,1
+UNKNOWN,national,Tuzla,1
+UNKNOWN,neuroth,Brčko,1
+UNKNOWN,neuroth,Bihać,1
+UNKNOWN,neuroth,Tuzla,1
+UNKNOWN,neuroth,Sarajevo,1
+UNKNOWN,neuroth,Bijeljina,1
+UNKNOWN,neuroth,Mostar,1
+UNKNOWN,neuroth,Banja Luka,1
+UNKNOWN,newyorker,Zenica,1
+UNKNOWN,newyorker,Sarajevo,3
+UNKNOWN,newyorker,Bijeljina,1
+UNKNOWN,newyorker,Banja Luka,2
+UNKNOWN,newyorker,Tuzla,1
+UNKNOWN,newyorker,Orasje,1
+UNKNOWN,newyorker,Mostar,2
+UNKNOWN,newyorker,Prijedor,1
+UNKNOWN,newyorker,Bihac,1
+UNKNOWN,newyorker,Trebinje,1
+UNKNOWN,newyorker,Cazin,1
+UNKNOWN,newyorker,Gračanica,1
+UNKNOWN,newyorker,Gradiska,1
+UNKNOWN,newyorker,Tešanj,1
+UNKNOWN,newyorker,Brcko,1
+UNKNOWN,nike,Sarajevo,3
+UNKNOWN,nike,Mostar,1
+UNKNOWN,ovs,Banja Luka,2
+UNKNOWN,ovs,Sarajevo,1
+REPUBLIKASRPSKA,pepco,unknown,9
+BRCKO,pepco,unknown,2
+FEDERATIONOFBOSNIAANDHERZEGOVINA,pepco,unknown,13
+FEDERATIONOFBOSNIAANDHERZEGOVINA,pepco,Kanton Sarajevo,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,pepco,Hercegovacko-Bosanski Kanton,1
+UNKNOWN,petrol,MOSTAR,2
+UNKNOWN,petrol,DONJE DUBRAVE,1
+UNKNOWN,petrol,ILIDŽA,3
+UNKNOWN,petrol,ŽELJUŠA,1
+UNKNOWN,petrol,DRAŽEVIĆI,1
+UNKNOWN,petrol,BIHAĆ,1
+UNKNOWN,petrol,SARAJEVO,3
+UNKNOWN,petrol,VISOKO,2
+UNKNOWN,petrol,TRŠIĆ,1
+UNKNOWN,petrol,ŠIRKOI BRIJEG,1
+UNKNOWN,petrol,TUZLA,5
+UNKNOWN,petrol,PRIGRAĐANI,1
+UNKNOWN,petrol,DERVENTA,1
+UNKNOWN,petrol,VITEZ,1
+UNKNOWN,petrol,DOBOJ,2
+UNKNOWN,petrol,ZENICA,1
+UNKNOWN,petrol,STUPARI,1
+UNKNOWN,petrol,CAZIN,1
+UNKNOWN,petrol,BEGOV HAN,1
+UNKNOWN,petrol,BANJA LUKA,4
+UNKNOWN,petrol,KOZLUK,1
+UNKNOWN,petrol,USORA,1
+UNKNOWN,petrol,GORNJI VAKUF-USKOPLJE,1
+UNKNOWN,petrol,BIJELJINA,1
+UNKNOWN,petrol,VLASENICA,1
+UNKNOWN,petrol,VOGOŠĆA,1
+UNKNOWN,petrol,KONJIC,2
+UNKNOWN,renault,BIJELJINA,2
+UNKNOWN,renault,ŠIROKI BRIJEG,2
+UNKNOWN,renault,TUZLA,2
+UNKNOWN,renault,ZENICA,2
+UNKNOWN,renault,VITEZ,2
+UNKNOWN,renault,ODZAK,2
+UNKNOWN,renault,SARAJEVO,4
+UNKNOWN,renault,MOSTAR,2
+UNKNOWN,renault,BANJA LUKA,2
+UNKNOWN,scania,Blazuj (Sarajevo),1
+UNKNOWN,sixt,Sarajevo,4
+UNKNOWN,sixt,Tuzla,1
+SARAJEVO,skoda,unknown,3
+SREDNJOBOSANSKI,skoda,unknown,1
+HERCEGOVAČKONERETVANSKI,skoda,unknown,2
+TUZLANSKI,skoda,unknown,4
+BANJALUČKA,skoda,unknown,1
+DOBOJSKOBIJELJINSKA,skoda,unknown,1
+DISTRIKTBRČKO,skoda,unknown,1
+POSAVSKI,skoda,unknown,1
+UNSKOSANSKI,skoda,unknown,1
+ZENICKODOBOJSKI,skoda,unknown,1
+UNKNOWN,superdry,Sarajevo,1
+UNKNOWN,tommy_hilfiger,Sarajevo,1
+UNKNOWN,tommy_hilfiger,Banja Luka,1
+UNKNOWN,united_colors_of_benetton,VITEZ,1
+UNKNOWN,united_colors_of_benetton,SARAJEVO,1
+UNKNOWN,united_colors_of_benetton,BANJA LUKA,1
+UNKNOWN,united_colors_of_benetton,TOMISLAVGRAD,1
+UNKNOWN,visa,OMARSKA,2
+UNKNOWN,visa,GRACANICA,11
+UNKNOWN,visa,BIHAC,18
+UNKNOWN,visa,PRIJEDOR,17
+UNKNOWN,visa,PETROVO,2
+UNKNOWN,visa,USKOPLJE,3
+UNKNOWN,visa,NEUM,1
+RS,visa,TREBINJE,3
+REPUBLIKASRPSKA,visa,TREBINJE,2
+UNKNOWN,visa,TREBINJE,8
+REPUBLICOFSRPSKA,visa,TREBINJE,1
+UNKNOWN,visa,LJUBINJE,1
+UNKNOWN,visa,CAPLJINA,7
+FEDERACIJABOSNEIHERCEGOVINE,visa,CAPLJINA,1
+UNKNOWN,visa,BILECA,3
+UNKNOWN,visa,LJUBUŠKI,4
+UNKNOWN,visa,LJUBSKI,1
+FBIH,visa,LJUBUSKI,1
+UNKNOWN,visa,LJUBUSKI,2
+FEDERACIJABOSNEIHERCEGOVINE,visa,LJUBUŠKI,1
+UNKNOWN,visa,VITINA,1
+UNKNOWN,visa,STOLAC,1
+UNKNOWN,visa,MEDJUGORJE,3
+UNKNOWN,visa,MEDUGORJE,3
+FEDERACIJABIH,visa,CITLUK,1
+UNKNOWN,visa,CITLUK,4
+UNKNOWN,visa,GRUDE,4
+UNKNOWN,visa,ŠIROKI BRIJEG LJUTI DOLAC,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,MOSTAR,7
+UNKNOWN,visa,MOSTAR ORTIJEŠ,1
+UNKNOWN,visa,MOSTAR,54
+FEDERACIJABOSNEIHERCEGOVINE,visa,BLAGAJ,1
+UNKNOWN,visa,SIROKI BRIJEG,5
+UNKNOWN,visa,ŠIROKI BRIJEG,5
+UNKNOWN,visa,POSUŠJE,3
+FEDERACIJABOSNEIHERZEGOVINE,visa,SIROKI BRIJEG,1
+UNKNOWN,visa,POSUSJE,2
+FBIH,visa,MOSTAR,4
+BH,visa,MOSTAR,1
+RS,visa,MOSTAR,1
+FEDERACIJABOSNEIHERZEGOVINE,visa,MOSTAR,1
+UNKNOWN,visa,NEVESINJE,3
+UNKNOWN,visa,GACKO,3
+RS,visa,GACKO,1
+UNKNOWN,visa,TOMISLAVGRAD,5
+LIVNO,visa,TOMISLAVGRAD,1
+UNKNOWN,visa,LIVNO,6
+UNKNOWN,visa,JABLANICA,2
+UNKNOWN,visa,KONJIC,7
+UNKNOWN,visa,RAMA,2
+UNKNOWN,visa,PROZOR,1
+UNKNOWN,visa,FOCA,3
+UNKNOWN,visa,KUPRES,2
+RS,visa,FOCA,1
+REPUBLIKASRPSKA,visa,FOCA,1
+UNKNOWN,visa,GORNJI VAKUF,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,visa,DRVAR,1
+UNKNOWN,visa,BUGOJNO,6
+UNKNOWN,visa,KRESEVO,2
+UNKNOWN,visa,HADŽICI,2
+UNKNOWN,visa,SARAJEVO,150
+FEDERACIJABIH,visa,SARAJEVO,2
+UNKNOWN,visa,FOJNICA,3
+UNKNOWN,visa,ILIDZA,5
+UNKNOWN,visa,BLAŽUJ,1
+REPUBLICOFSRPSKA,visa,PALE,2
+UNKNOWN,visa,ILIDŽA,2
+UNKNOWN,visa,CAJNICE,1
+RS,visa,JAHORINA,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,ILIDZA,2
+UNKNOWN,visa,SARAJEVO ILIDZA,1
+FEDRACIJABIH,visa,DONJI VAKUF,1
+RS,visa,I. SARAJEVO,3
+REPUBLICOFSRPSKA,visa,ISTOCNO NOVO SARAJEVO,1
+BH,visa,ILIDZA,1
+UNKNOWN,visa,LUKAVICA,2
+UNKNOWN,visa,DONJI VAKUF,3
+FEDERACIJABOSNEIHERZEGOVINE,visa,SARAJEVO,2
+UNKNOWN,visa,ISTOCNO SARAJEVO,4
+FEDERACIJABOSNEIHERCEGOVINE,visa,SARAJEVO,21
+REPUBLIKASRPSKA,visa,ISTOCNO NOVO SARAJEVO,1
+UNKNOWN,visa,I.SARAJEVO,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,ILIDŽA,1
+UNKNOWN,visa,I. SARAJEVO,2
+FBIH,visa,SARAJEVO,11
+UNKNOWN,visa,BREZA,5
+UNKNOWN,visa,KISELJAK,4
+FEDERACIJABOSNEIHERCEGOVINE,visa,KISELJAK,1
+BH,visa,SARAJEVO,1
+SARAJEVO,visa,SARAJEVO,2
+REPUBLICOFSRPSKA,visa,SIPOVO,1
+UNKNOWN,visa,SIPOVO,2
+UNKNOWN,visa,VOGOSCA,2
+FEDERACIJABOSNEIHERCEGOVINE,visa,VOGOSCA,1
+UNKNOWN,visa,71000,1
+FEDERATIONOFBOSNIAANDHERZEGOVINA,visa,SARAJEVO,1
+UNKNOWN,visa,LUKAVAC,7
+UNKNOWN,visa,ZIVINICE,6
+UNKNOWN,visa,ORASJE,4
+UNKNOWN,visa,GORAZDE,3
+FEDERACIJABOSNEIHERCEGOVINE,visa,STARI GRAD,2
+UNKNOWN,visa,PALE,6
+REPUBLIKASRPSKA,visa,PALE,1
+RS,visa,PALE,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,VOGOŠCA,1
+UNKNOWN,visa,VOGOŠCA,3
+UNKNOWN,visa,VOGOSCA - SARAJEVO,1
+UNKNOWN,visa,SEMIZOVAC,1
+UNKNOWN,visa,RIBNIK,1
+UNKNOWN,visa,BOSANSKI PETROVAC,2
+FEDERACIJABOSNEIHERCEGOVINE,visa,VISOKO,3
+UNKNOWN,visa,ILIJAS,2
+UNKNOWN,visa,VISOKO,6
+UNKNOWN,visa,ILIJAŠ,1
+UNKNOWN,visa,NOVI TRAVNIK,5
+UNKNOWN,visa,BUSOVACA,2
+BH,visa,BUSOVACA,1
+UNKNOWN,visa,DONJE MOŠTRE,1
+REPUBLICOFSRPSKA,visa,JEZERO,1
+UNKNOWN,visa,VITEZ,11
+FEDERACIJABOSNEIHERCEGOVINE,visa,VITEZ,1
+UNKNOWN,visa,RUDO,1
+UNKNOWN,visa,JAJCE,5
+UNKNOWN,visa,TURBE,1
+UNKNOWN,visa,TRAVNIK,9
+FEDERACIJABOSNEIHERCEGOVINE,visa,TRAVNIK,2
+REPUBLICOFSRPSKA,visa,RIBNIK,1
+UNKNOWN,visa,MRKONJIC GRAD,4
+REPUBLICOFSRPSKA,visa,MRKONJIC GRAD,1
+UNKNOWN,visa,KLJUC,2
+FBIH,visa,KLJUC,1
+RS,visa,ROGATICA,1
+UNKNOWN,visa,ROGATICA,2
+FEDERACIJABOSNEIHERCEGOVINE,visa,BIHAC,4
+RS,visa,DOBOJ,3
+BH,visa,BIHAC,1
+FEDERACIJABIH,visa,BIHAC,1
+UNKNOWN,visa,KAKANJ,6
+UNKNOWN,visa,ZENICA,22
+FEDERACIJABOSNEIHERCEGOVINE,visa,KAKANJ,2
+FEDERACIJABOSNEIHERCEGOVINE,visa,ZENICA,4
+BH,visa,ZENICA,1
+UNKNOWN,visa,SOKOLAC,5
+RS,visa,SOKOLAC,1
+REPUBLIKASRPSKA,visa,VISEGRAD,1
+RS,visa,VISEGRAD,1
+UNKNOWN,visa,VISEGRAD,1
+UNKNOWN,visa,VAREŠ,1
+UNKNOWN,visa,KNEZEVO,2
+UNKNOWN,visa,NEMILA,2
+UNKNOWN,visa,BOSANSKA KRUPA,2
+UNKNOWN,visa,SANSKI MOST,2
+UNKNOWN,visa,OLOVO,3
+UNKNOWN,visa,CAZIN,8
+FEDERACIJABOSNEIHERCEGOVINE,visa,CAZIN,1
+FEDERACIJABOSNEIHERZEGOVINE,visa,CAZIN,1
+FBIH,visa,SANSKI MOST,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,SANSKI MOST,2
+UNKNOWN,visa,DOBOJ,11
+UNKNOWN,visa,LAKTASI,10
+UNKNOWN,visa,KOTOR VAROS,5
+RS,visa,STANARI,1
+UNKNOWN,visa,ŽEPCE,2
+UNKNOWN,visa,ZEPCE,2
+FEDERACIJABOSNEIHERCEGOVINE,visa,ŽEPCE,1
+UNKNOWN,visa,BUŽIM,1
+UNKNOWN,visa,BUZIM,1
+UNKNOWN,visa,KLADANJ,2
+UNKNOWN,visa,ZAVIDOVICI,3
+UNKNOWN,visa,VELIKA KLADUŠA,2
+UNKNOWN,visa,BANJA LUKA,70
+REPUBLIKASRPSKA,visa,BANJA LUKA,3
+UNKNOWN,visa,VELIKA KLADUSA,4
+UNKNOWN,visa,VLASENICA,2
+UNKNOWN,visa,CELINAC,5
+RS,visa,BANJA LUKA,26
+UNKNOWN,visa,UGLJEVIK,5
+REPUBLICOFSRPSKA,visa,BANJA LUKA,7
+UNKNOWN,visa,BANJALUKA,2
+RS,visa,VLASENICA,1
+UNKNOWN,visa,MAGLAJ,5
+REPUBLIKASRPSKA,visa,NOVI GRAD,1
+UNKNOWN,visa,MILICI,2
+UNKNOWN,visa,NOVI GRAD,5
+RS,visa,MILICI,1
+UNKNOWN,visa,BANOVICI,6
+UNKNOWN,visa,TESLIC,7
+UNKNOWN,visa,SREBRENICA,1
+RS,visa,BOSANSKI NOVI,1
+RS,visa,TESLIC,2
+REPUBLICOFSRPSKA,visa,PRIJEDOR,1
+RS,visa,PRIJEDOR,4
+FEDERACIJABOSNEIHERCEGOVINE,visa,BANOVICI,1
+RS,visa,SEKOVICI,1
+UNKNOWN,visa,KOZARAC,2
+UNKNOWN,visa,SLATINA,1
+UNKNOWN,visa,TEŠANJ,3
+FEDERACIJABOSNEIHERCEGOVINE,visa,TEŠANJ,1
+UNKNOWN,visa,TESANJ,3
+REPUBLIKASRPSKA,visa,LAKTAŠI,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,TESANJ,3
+UNKNOWN,visa,BRATUNAC,3
+UNKNOWN,visa,JELAH,2
+RS,visa,BRATUNAC,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,ZIVINICE,1
+UNKNOWN,visa,ŽIVINICE,3
+UNKNOWN,visa,USORA,1
+UNKNOWN,visa,LAKTAŠI,1
+REPUBLICOFSRPSKA,visa,LAKTASI,1
+RS,visa,LAKTASI,3
+UNKNOWN,visa,STANARI,2
+UNKNOWN,visa,KRASEVO,1
+REPUBLIKASRPSKA,visa,LAKTASI,1
+UNKNOWN,visa,LUKOVAC,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,LUKAVAC,2
+UNKNOWN,visa,MATUZICI,1
+UNKNOWN,visa,RMU KREKA,1
+UNKNOWN,visa,TUZLA,42
+UNKNOWN,visa,KALESIJA,6
+RS,visa,PRNJAVOR,2
+UNKNOWN,visa,TOJSICI,1
+FBIH,visa,TUZLA,6
+FEDERACIJABOSNEIHERCEGOVINE,visa,TUZLA,3
+RS,visa,PETROVO,1
+ZVORNIK,visa,ZVORNIK,1
+UNKNOWN,visa,ZVORNIK,8
+UNKNOWN,visa,PRNJAVOR,8
+REPUBLICOFSRPSKA,visa,GRADISKA,2
+REPUBLIKASRPSKA,visa,PRNJAVOR,1
+RS,visa,ZVORNIK,2
+UNKNOWN,visa,GRANICA,1
+FEDERACIJABOSNEIHERZEGOVINE,visa,TUZLA,2
+UNKNOWN,visa,KAKANY,1
+UNKNOWN,visa,KOSTAJNICA,2
+REPUBLIKASRPSKA,visa,KOSTAJNICA,1
+REPUBLICOFSRPSKA,visa,ZVORNIK,1
+UNKNOWN,visa,KLOKOTNICA,1
+UNKNOWN,visa,VELIKA BRIJESNICA,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,GRACANICA,2
+RS,visa,KOZARSKA DUBICA,1
+UNKNOWN,visa,KOZARSKA DUBICA,5
+UNKNOWN,visa,DUBICA,1
+UNKNOWN,visa,SAPNA,1
+UNKNOWN,visa,NOVA TOPOLA,1
+REPUBLICOFSRPSKA,visa,ALEKSANDROVAC - LAKTASI,1
+UNKNOWN,visa,SREBRENIK,7
+RS,visa,GRADISKA,1
+UNKNOWN,visa,GRADISKA,10
+UNKNOWN,visa,TEOCAK,1
+UNKNOWN,visa,SRBAC,6
+UNKNOWN,visa,DERVENTA,7
+RS,visa,DERVENTA,2
+UNKNOWN,visa,CELIC,1
+RS,visa,UGLJEVIK,1
+RS,visa,BOSANSKI BROD,1
+UNKNOWN,visa,GORNJI RAHIC,1
+UNKNOWN,visa,GRADACAC,6
+FEDERACIJABOSNEIHERCEGOVINE,visa,GRADACAC,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,GRADAČAC,1
+UNKNOWN,visa,BRCKO,12
+RS,visa,MODRICA,1
+UNKNOWN,visa,MODRICA,5
+RS,visa,VUKOSAVLJE,1
+UNKNOWN,visa,BIJELJINA,14
+UNKNOWN,visa,JANJA,1
+UNKNOWN,visa,ODZAK,2
+UNKNOWN,visa,ODŽAK,1
+RS,visa,PUCILE,1
+UNKNOWN,visa,BROD,4
+BRCKODISTRICT,visa,BRCKO,2
+RS,visa,BRCKO,1
+FEDERACIJABOSNEIHERCEGOVINE,visa,BRCKO,2
+BRCKODISTRIKT,visa,BRCKO,1
+REPUBLIKASRPSKA,visa,BROD,1
+REPUBLIKASRPSKA,visa,BIJELJINA,3
+RS,visa,BIJELJINA,6
+RS,visa,LONCARI,1
+REPUBLICOFSRPSKA,visa,BIJELJINA,2
+UNKNOWN,visa,SAMAC,3
+REPUBLIKASRPSKA,visa,SAMAC,1
+UNKNOWN,visa,DOMALJEVAC,2
+UNKNOWN,visa,ORAŠJE,3
+FEDERACIJABOSNEIHERCEGOVINE,visa,ORASJE,3
+UNKNOWN,western_union,Sarajevo,84
+UNKNOWN,western_union,Rudo,1
+UNKNOWN,western_union,Skelani,1
+UNKNOWN,western_union,Visegrad,3
+UNKNOWN,western_union,Srebrenica,2
+UNKNOWN,western_union,Bratunac,3
+UNKNOWN,western_union,Trebinje,7
+BIH,western_union,Trebinje,1
+UNKNOWN,western_union,Cajnice,1
+UNKNOWN,western_union,Janja,2
+UNKNOWN,western_union,Dvorovi,1
+UNKNOWN,western_union,Bileca,2
+UNKNOWN,western_union,Bijeljina,16
+UNKNOWN,western_union,Patkovaca,1
+BIH,western_union,Bijeljina,3
+UNKNOWN,western_union,Gorazde,8
+UNKNOWN,western_union,Batkovic,1
+UNKNOWN,western_union,Brijesnica,1
+UNKNOWN,western_union,Han Pijesak,2
+UNKNOWN,western_union,Pilica,1
+UNKNOWN,western_union,Glavicice,1
+UNKNOWN,western_union,Rogatica,2
+UNKNOWN,western_union,Gacko,2
+BIH,western_union,Gacko,1
+UNKNOWN,western_union,Foca,2
+UNKNOWN,western_union,Milici,2
+UNKNOWN,western_union,Zvornik,9
+UNKNOWN,western_union,Kozluk,1
+UNKNOWN,western_union,Sekovici,3
+UNKNOWN,western_union,Ugljevik,3
+UNKNOWN,western_union,Sapna,1
+UNKNOWN,western_union,Teocak,1
+UNKNOWN,western_union,Vlasenica,1
+UNKNOWN,western_union,Vlesenica,1
+UNKNOWN,western_union,Ljubinje,1
+BIH,western_union,Ljubinje,1
+UNKNOWN,western_union,Brezovo Polje,1
+UNKNOWN,western_union,Sokolac,2
+UNKNOWN,western_union,Kalesija,4
+UNKNOWN,western_union,Celic,1
+UNKNOWN,western_union,Kalinovik,1
+UNKNOWN,western_union,Brcko,15
+UNKNOWN,western_union,Lopare,2
+BIH,western_union,Brcko,1
+UNKNOWN,western_union,Koraj,1
+UNKNOWN,western_union,Pale,8
+UNKNOWN,western_union,Tuzla,20
+UNKNOWN,western_union,Lukavica,1
+BIH,western_union,Pale,1
+UNKNOWN,western_union,Osmaci,1
+UNKNOWN,western_union,Orasje,2
+UNKNOWN,western_union,Brka,1
+BIH,western_union,Orasje,1
+UNKNOWN,western_union,Kladanj,1
+UNKNOWN,western_union,Stolac,1
+UNKNOWN,western_union,Simin Han,1
+UNKNOWN,western_union,Gornji Rahic,2
+UNKNOWN,western_union,Nevesinje,2
+UNKNOWN,western_union,Domaljevac,1
+UNKNOWN,western_union,Obudovac,2
+UNKNOWN,western_union,Pelagicevo,2
+UNKNOWN,western_union,Zivinice,6
+BIH,western_union,Zivinice,1
+FEDERACIJA,western_union,Zivinice,1
+UNKNOWN,western_union,Olovo,2
+UNKNOWN,western_union,Neum,1
+UNKNOWN,western_union,Trnovo,1
+UNKNOWN,western_union,Dubrave Gornje,1
+UNKNOWN,western_union,Sibosnica,1
+UNKNOWN,western_union,Podorasje,1
+BIH,western_union,Tuzla,2
+UNKNOWN,western_union,Donji Zabar,1
+UNKNOWN,western_union,Djurdjevik,1
+BIH,western_union,Sarajevo,9
+UNKNOWN,western_union,Dubrave Donje,1
+UNKNOWN,western_union,Sarajevo Lukavica,1
+UNKNOWN,western_union,Tinja,1
+UNKNOWN,western_union,Istocno Sarajevo,4
+BIH,western_union,Istocno Sarajevo,1
+UNKNOWN,western_union,Istocno Sarajevo- Lukavica,1
+UNKNOWN,western_union,Banovici,1
+UNKNOWN,western_union,Samac,3
+UNKNOWN,western_union,Seonjaci,1
+UNKNOWN,western_union,Lukavac,6
+UNKNOWN,western_union,Bl   N  Varos,1
+BIH,western_union,Lukavac,1
+BIH,western_union,Banovici,1
+UNKNOWN,western_union,Capljina,3
+UNKNOWN,western_union,Vogosca,3
+UNKNOWN,western_union,Sarajevo Osjek,1
+UNKNOWN,western_union,Puracic,1
+UNKNOWN,western_union,Srebrenik,6
+UNKNOWN,western_union,Dobrinja,1
+UNKNOWN,western_union,Crkvina,1
+UNKNOWN,western_union,Sarejevo,1
+UNKNOWN,western_union,Buna,1
+UNKNOWN,western_union,Gradacac,6
+BIH,western_union,Gradacac,1
+UNKNOWN,western_union,Blagaj,1
+UNKNOWN,western_union,Domanovici,1
+UNKNOWN,western_union,Sarajev,1
+UNKNOWN,western_union,Slatina Ilidza,1
+UNKNOWN,western_union,Duboki Potok,1
+UNKNOWN,western_union,Ilidza,1
+UNKNOWN,western_union,Mostar,21
+UNKNOWN,western_union,Karaula,1
+BIH,western_union,Mostar,3
+UNKNOWN,western_union,Potoci,1
+UNKNOWN,western_union,Hadzici,3
+UNKNOWN,western_union,Ilijas,5
+UNKNOWN,western_union,Medjugorje,1
+UNKNOWN,western_union,Odzak,1
+UNKNOWN,western_union,Orahovica Donja,1
+UNKNOWN,western_union,Vares,1
+UNKNOWN,western_union,Busovaca,3
+BIH,western_union,Modrica,1
+UNKNOWN,western_union,Modrica,6
+UNKNOWN,western_union,Petrovo,2
+UNKNOWN,western_union,Miricina,1
+UNKNOWN,western_union,Vrapcici,1
+UNKNOWN,western_union,Citluk,3
+UNKNOWN,western_union,Zavidovici,4
+UNKNOWN,western_union,Breza,2
+UNKNOWN,western_union,Gracanica,8
+UNKNOWN,western_union,Visoko,9
+UNKNOWN,western_union,Konjic,6
+BIH,western_union,Visoko,1
+UNKNOWN,western_union,Kresevo,1
+UNKNOWN,western_union,Kiseljak,3
+UNKNOWN,western_union,Hajdarevici,1
+UNKNOWN,western_union,Vitina,1
+UNKNOWN,western_union,Siroki Brijeg,5
+BIH,western_union,Siroki Brijeg,1
+UNKNOWN,western_union,Klokotnica,1
+UNKNOWN,western_union,Kakanj,6
+UNKNOWN,western_union,Zenica,23
+UNKNOWN,western_union,Ljubuski,4
+UNKNOWN,western_union,Osjecani,1
+BIH,western_union,Kakanj,1
+UNKNOWN,western_union,Celebici,1
+UNKNOWN,western_union,Kotorsko,1
+UNKNOWN,western_union,Kosova Maglaj,1
+UNKNOWN,western_union,Doboj,13
+BIH,western_union,Doboj,1
+UNKNOWN,western_union,Maglaj,5
+UNKNOWN,western_union,Kacuni,1
+UNKNOWN,western_union,Velika Bukovica,1
+UNKNOWN,western_union,Matuzici,1
+UNKNOWN,western_union,Fojnica,2
+UNKNOWN,western_union,Grude,2
+UNKNOWN,western_union,Jablanica,4
+UNKNOWN,western_union,Usora,2
+UNKNOWN,western_union,Begov Han,1
+UNKNOWN,western_union,Jelah,5
+BIH,western_union,Tesanj,2
+UNKNOWN,western_union,Zepce,4
+UNKNOWN,western_union,Derventa,5
+BIH,western_union,Zenica,1
+UNKNOWN,western_union,Vukosavlje,1
+BIH,western_union,Derventa,1
+UNKNOWN,western_union,Srpski Brod,1
+UNKNOWN,western_union,Brod,4
+UNKNOWN,western_union,Buturovic Polje,1
+BIH,western_union,Brod,1
+UNKNOWN,western_union,Tesanj,7
+UNKNOWN,western_union,Vitez,5
+BIH,western_union,Vitez,1
+UNKNOWN,western_union,Teslic,6
+BIH,western_union,Teslic,1
+UNKNOWN,western_union,Stari Vitez,1
+UNKNOWN,western_union,Bl   Starcevica,1
+UNKNOWN,western_union,Prozor,1
+UNKNOWN,western_union,Nemila,1
+UNKNOWN,western_union,Posusje,2
+UNKNOWN,western_union,Kalenderovci,1
+UNKNOWN,western_union,Nova Bila,1
+UNKNOWN,western_union,Han Bila,1
+UNKNOWN,western_union,Gornji Vakuf Uskoplje,3
+UNKNOWN,western_union,Travnik,9
+UNKNOWN,western_union,Gornji Vakuf,1
+UNKNOWN,western_union,Stanari,1
+BIH,western_union,Travnik,1
+UNKNOWN,western_union,Novi Travnik,3
+UNKNOWN,western_union,Srbac,3
+UNKNOWN,western_union,Dolac Na Lasvi,1
+UNKNOWN,western_union,Sibovska,1
+UNKNOWN,western_union,Cecava,1
+BIH,western_union,Srbac,1
+UNKNOWN,western_union,Prnjavor,6
+BIH,western_union,Prnjavor,1
+UNKNOWN,western_union,Tomislavgrad,2
+UNKNOWN,western_union,Tomislav Grad,1
+UNKNOWN,western_union,Novo Gorazde,1
+UNKNOWN,western_union,Bugojno,8
+UNKNOWN,western_union,Potocani,1
+UNKNOWN,western_union,Maslovare,1
+UNKNOWN,western_union,Siprage,1
+UNKNOWN,western_union,Nova Topola,2
+UNKNOWN,western_union,Gradiska,10
+BIH,western_union,Gradiska,1
+UNKNOWN,western_union,Josavka,1
+UNKNOWN,western_union,Kriskovci,1
+UNKNOWN,western_union,Kupres,2
+UNKNOWN,western_union,Donji Vakuf,2
+UNKNOWN,western_union,Stara Dubrava,1
+UNKNOWN,western_union,Aleksandrovac,2
+UNKNOWN,western_union,Vrbanjci,1
+UNKNOWN,western_union,Celinac,2
+UNKNOWN,western_union,Livno,5
+UNKNOWN,western_union,Laktasi,6
+UNKNOWN,western_union,Lakta I,1
+UNKNOWN,western_union,Kotor Varos,3
+UNKNOWN,western_union,Knezevo,1
+BIH,western_union,Laktasi,1
+UNKNOWN,western_union,Jajce,3
+UNKNOWN,western_union,Trn,1
+BIH,western_union,Trn,1
+UNKNOWN,western_union,Vrbanja,1
+UNKNOWN,western_union,Nova Varos,1
+UNKNOWN,western_union,Zaluzani,1
+UNKNOWN,western_union,Banja Luka,39
+UNKNOWN,western_union,Bl   Borik,1
+BIH,western_union,Banja Luka,6
+UNKNOWN,western_union,Bl   Lazarevo,1
+UNKNOWN,western_union,Mrkonjic Grad,4
+UNKNOWN,western_union,Sipovo,2
+UNKNOWN,western_union,Kozarska Dubica,4
+BIH,western_union,Kozarska Dubica,1
+UNKNOWN,western_union,Glamoc,1
+UNKNOWN,western_union,Prijedor,11
+UNKNOWN,western_union,Kostajnica,2
+UNKNOWN,western_union,Kljuc,3
+UNKNOWN,western_union,Ribnik,1
+UNKNOWN,western_union,Gornji Ribnik,1
+BIH,western_union,Prijedor,1
+UNKNOWN,western_union,Sanski Most,8
+UNKNOWN,western_union,Ljubija,1
+UNKNOWN,western_union,Svodna,1
+UNKNOWN,western_union,Krasulje,1
+UNKNOWN,western_union,Bihac,14
+BIH,western_union,Sanski Most,1
+UNKNOWN,western_union,Velika Kladusa,8
+UNKNOWN,western_union,Vrnograc,1
+UNKNOWN,western_union,Lusci Palanka,1
+UNKNOWN,western_union,Bosansko Grahovo,1
+BIH,western_union,Novi Grad,1
+UNKNOWN,western_union,Novi Grad,4
+UNKNOWN,western_union,Sanica Gornja,1
+UNKNOWN,western_union,Stari Mejdan,1
+UNKNOWN,western_union,Drvar,2
+UNKNOWN,western_union,Kozarac,1
+UNKNOWN,western_union,Omarska,2
+UNKNOWN,western_union,Donji Kamengrad,1
+UNKNOWN,western_union,Donji Agici,1
+UNKNOWN,western_union,Gornja Koprivna,1
+UNKNOWN,western_union,Bosanska Krupa,3
+UNKNOWN,western_union,Pecigrad,1
+BIH,western_union,Cazin,1
+UNKNOWN,western_union,Coralici,1
+UNKNOWN,western_union,Cazin,11
+UNKNOWN,western_union,Ostra Luka,1
+UNKNOWN,western_union,Dobrljin,1
+UNKNOWN,western_union,Sumatac,1
+UNKNOWN,western_union,Jezerski,1
+UNKNOWN,western_union,Todorovo,1
+UNKNOWN,western_union,Bosanski Petrovac,1
+UNKNOWN,western_union,Bosanska Otoka,1
+UNKNOWN,western_union,Buzim,2
+UNKNOWN,western_union,Mala Kladusa,1
+UNKNOWN,western_union,Velika Gata,1
+UNKNOWN,western_union,Ostrozac,1
+UNKNOWN,western_union,Trzacka Rastela,1
+UNKNOWN,western_union,Stijena,1
+UNKNOWN,western_union,Izacic,1
+UNKNOWN,western_union,Pokoj,1
+UNKNOWN,western_union,Vrsta,1
+UNKNOWN,western_union,Brekovica,1
+UNKNOWN,western_union,Kulen Vakuf,1
+BIH,western_union,Bihac,1
+UNKNOWN,western_union,Kamenica,1

@@ -1,0 +1,358 @@
+City,Place Name,Zipcode,Name
+Buchs SG,audi,St. Gallerstrasse 100 9470 Buchs SG,unknown,AMAG Buchs
+Bad Ragaz,audi,Industriestrasse 86 7310 Bad Ragaz,unknown,Garage Tondo AG
+Gossau SG,audi,Langfeldstrasse 10 9200 Gossau SG,unknown,GNG AG
+Heerbrugg,audi,Auerstrasse 20 9435 Heerbrugg,unknown,AMAG Heerbrugg
+Wittenbach,audi,Arbonerstrasse 14 9300 Wittenbach,unknown,PP Autotreff AG
+Uznach,audi,Benknerstrasse 20 8730 Uznach,unknown,Central-Garage H. Böckmann AG
+Jona,audi,St. Dionys 3 8645 Jona,unknown,"Garage Huber AG,
+happy-netz jona"
+Wahlkreis Sarganserland,ich_tanke_strom,A13 Zürich - Chur  7304 Fläsch,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Staatsstrasse  9246 Niederbüren,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Feldlistrasse  8645 Jona,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Lerchenfeldstrasse  9014 St. Gallen,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Bahnweg Nord  9475 Sevelen,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Eichenaustrasse  9470 Buchs,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Arbonerstrasse  9300 Wittenbach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Zürcherstrasse  9000 St. Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Wilerstrasse  9200 Gossau SG,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Grämigerstrasse 6  9606 Bütschwil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Mittelbergstrasse 8  9313 Muolen,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Schildstrasse 2  9475 Sevelen,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Oberseestrasse  0 Rapperswil-Jona,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Güterstrasse 777  8640 Rapperswil-Jona,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Tellstrasse 5  9200 Gossau,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,St. Gallerstrasse 75  0 Gossau (SG),unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Grünaustrasse 4  9630 Wattwil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Raststätte Thurau Nord  0 Züberwangen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Churerstrasse 10  0 Rorschach,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Neugrütstrasse 1  0 St. Margrethen,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Heidenerstrasse 24  0 Altstätten,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Quartnerstrasse  0 Oberterzen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Niederbürerstrasse 5  0 Bischofszell,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Flughafenstrasse 11  0 Altenrhein,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Im Buriet  9424 Thal,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Schlossweg 193  9200 Gossau,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,St. Leonhard-Strasse 35  0 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Raststätte Walensee (Chur-Zürich)  0 Quarten,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Güterschuppen  9200 Gossau,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Schuppisstrasse 11  0 St.Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Breitestrasse 4  0 Rickenbach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Wilerstrasse 73  0 Gossau,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Bahnhofstrasse 2  0 Bazenheid,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Höfenstrasse 6  0 Weesen,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Bahnhofstrasse 17-21  0 Buchs,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Florastrasse 2  9533 Kirchberg SG,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,St. Gallerstrasse 68  0 Buchs,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Herisauerstrasse 25  0 Gossau,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Schachenstrasse 3  0 St.Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Wiesenbachstrasse 5  0 Abtwil SG,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Favrestrasse 6  0 St.Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Marktplatz  0 Gossau,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Wattstrasse 1  0 Uzwil,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Tiefrietstrasse  7320 Sargans,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Buchental 11  9245 Oberbüren,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Feldwiesenstrasse 31  0 Altstätten,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Bernhardzellerstrasse 2  0 Waldkirch,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Staatsstrasse 10  0 Flums,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Gewerbepark 11  0 Dietfurt,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Geltenwilerstrasse 16/18  0 St. Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Gupfenstrasse  9244 Niederuzwil,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Zeughausstrasse 3  0 Uznach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Bergstrasse 31c  0 Flums,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Neubrunnstrasse 1  0 Waldkirch,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Ringstrasse 5  0 Gossau,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Tufertschwil 20  9604 Lütisburg,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Panoramastrasse 8  0 Filzbach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Dorfstrasse 19A  0 Andwil SG,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Rheinstrasse 7  0 Oberriet,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Aufeld 10  0 Mosnang,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Schuppisstrasse 3  9016 St.Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Tellstrasse 5  0 Gossau,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Sandackerstrasse 16  0 Oberbüren,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Zürcherstrasse 8a  0 Bronschhofen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Schönbüelstrasse  0 Engelburg,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Vorbachstrasse 7  8882 Unterterzen,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Schutt  0 Goldingen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Industriestrasse 1  0 Flums,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Rhyguetstrasse 2  0 Rheineck,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Dorfstrasse 1  0 Lenggenwil,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Quartnerstrasse  0 Quarten,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Bilterstrasse 32  0 Schänis,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Öko-Tankstelle Rietwissstrasse 15  9630 Wattwil,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Gostenstrasse 20  8882 Unterterzen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Feldstrasse 42  9113 Degersheim,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Dorfstrasse  9125 Brunnadern,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Burgstrasse  9000 St.Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Grossfeldstrasse  8879 Mels,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Neudorfstrasse  9430 St.Margrethen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Ulrich-Rösch Strasse  9403 Goldach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,St. Jakob-Strasse  9000 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Loisstrasse  7310 Bad Ragaz,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Herbergstrasse  9524 Zuzwil,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Schaanerstrasse  9487 Bendern,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Hotel Wolfensberg  9113 Mogelsberg,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Herrenackerstrasse  8730 Uznach,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Uznacherstrasse  8732 Neuhaus,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Passhöhe  9658 Wildhaus,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Schulstrasse  9402 Mörschwil,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Alte Staatsstrasse  8877 Murg,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Dorf_  9657 Alt St. Johann,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Speerplatz  8872 Weesen,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Unterdorf  9607 Mosnang,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Unterstrasse  9000 St.Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Steigstrasse  9220 Bischofszell,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,St.Gallerstrasse Löwengarten Quartier Rorschach  9400 Rorschach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Dorfstrasse Jung Immobilien  9313 Muolen,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Gemeinde LichtensteigParkhaus Wolfhalden  9620 Lichtensteig,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Rietwisstrasse  9630 Wattwil,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Vordere Schwendistrasse  9658 Wildhaus,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Dorfstrasse  8873 Amden,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,"Chapfstrasse ""Bushaltestelle Arvenbüel""  8873 Amden",unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Kirchstrasse  9200 Gossau SG,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Obere Bahnhofstrasse Migros Ostschweiz Migros Wil  9500 Wil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Gemeinde Uzwil - Flawilerstrasse  9244 Niederuzwil,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Adlerwiesstrasse  8737 Gommiswald,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Industriestrasse  7310 Bad Ragaz,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Wiesentalstrasse  9425 Thal,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Wiesenbachstrasse  9030 Abtwil,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Hauptstrasse  9650 Nesslau,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Moos Migros OstschweizGolfpark Waldkirch  9205 Waldkirch,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Hinterdorfstrasse Gemeinde Mosnang  9607 Mosnang,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Wilerstrasse  9602 Kirchberg,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Dorfstrasse  8722 Kaltbrunn,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Zentrumplatz  8717 Benken,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Kapplerstrasse  9642 Ebnat-Kappel,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Schwägalp  9107 Schwägalp,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,St.Gallerstrasse  9200 Gossau,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Rickenstrasse  8735 St.Gallenkappel,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Rütistrasse  8733 Eschenbach,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Stossstrasse  9450 Altstätten,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Zürcherstrasse  8730 Uznach,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Churerstrasse Migros Ostschweiz Migros Buchs  9470 Buchs,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Ghürststrasse Gemeinde Oberuzwil  9242 Oberuzwil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Bachstrasse  9008 St.Gallen,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Seefeld Gemeinde Schmerikon  8716 Schmerikon,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Chapelistrasse  8723 Rufi,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Wasserfluh  9620 Lichtensteig,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Oedenhof  9300 Wittenbach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Fürstenlandstrasse Elektrofachschule St.Gallen  9014 St.Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Holzstrasse Weiterbildungszentrum Holzweid  9010 St.Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,St. Gallerstrasse  9500 Wil,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Gemeindeplatz  9444 Diepoldsau,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Dorfplatz  8737 Gommiswald,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Hans Albrecht-Strasse  7310 Bad Ragaz,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Wilerstrasse  9200 Gossau,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Rorschacher Strasse 286  9016 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Flumserberg Molseralp  8898 Flums,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Wiler Strasse 25  9536 Schwarzenbach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Bahnhofstrasse  7323 Wangs,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Lerchenfeldstrasse 5  9014 St. Gallen,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Lindenweg 2  9472 Grabs,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Dufourstrasse 40  9000 St. Gallen,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Grenzstrasse 3  9430 St. Margrethen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Arbonerstrasse 14  9300 Wittenbach,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Kirchbergstrasse 36  9534 Gähwil,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Bahnhofstrasse  9470 Buchs,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Speerstrasse 10  9500 Wil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Mattstrasse  9500 Wil,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Hauptstrasse 90  9434 Au SG,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Grüenaustrasse 7  9630 Wattwil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Langgasse 151  9008 St. Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Schochengasse 5  9001 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Rastätte A13 Heidiland  7304 Maienfeld,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Bahnhofplatz 7  9001 St. Gallen,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Marolanistrasse 7.1  9450 Altstätten,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Toggenburgerstrasse 41  9230 Flawil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Sonnegg  9230 Flawil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Lindenstrasse  9230 Flawil,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Aegetenstrasse 60  9443 Widnau,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Poststrasse 23  9000 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Grofstrasse 42  8887 Mels,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Gamserstrasse  9469 Haag,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Steinachstrasse 41  9000 St. Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Torstrasse 12  9000 St. Gallen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Favrestrasse 6  9016 St. Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Burggraben 16  9000 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Oberdorfstrasse 48  8887 Mels,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Weststrasse 4  9500 Wil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Flawilerstrasse 31  9500 Wil,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Melibündtenweg 30  8887 Mels,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Zürcher Strasse 204  9001 St. Gallen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Tübacherstrasse 11  9326 Horn,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Breite 45  9450 Altstätten,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Bahnhofstrasse 31  7323 Wangs,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Vilterserstrasse 60  7323 Wangs,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Alvierstrasse  9470 Buchs,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Brunnenstrasse 4  9470 Buchs,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Fürstenlandstrasse 32  9500 Wil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Zürcherstrasse 30  9500 Wil,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Churerstrasse (Parzelle 1457)  9400 Rorschach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Strandbodenstrasse  8877 Murg,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Bahnhofstrasse 1  9630 Wattwil,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Industriestrasse 10  9630 Wattwil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Steinachstrasse  9000 St. Gallen,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Bomertstrasse 2  9423 Thal,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Seestrasse 101  8880 Walenstadt,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Spitalstrasse 5  8880 Walenstadt,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Bergholzstrasse 9  9500 Wil,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Hauptstrasse 2  9403 Goldach,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Marmorstrasse 2  9403 Goldach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Rechenstrasse 37  9001 St. Gallen,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Werdenbergstrasse 4  9470 Buchs,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Dufourstrasse 12  9500 Wil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Splügenstrasse 12  9000 St. Gallen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Rorschacher Strasse 284  9016 St. Gallen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Zilstrasse 79  9016 St. Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Tonhallestrasse  9500 Wil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Engistrasse 94  9535 Wilen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Fürstenlandstrasse 122  9014 St. Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Erlacherstrasse 3  9014 St. Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Im Zentrum 1  9300 Wittenbach,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Bahnhofstrasse 19  9630 Wattwil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Dottenwilerstrasse 2  9300 Wittenbach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Kreuzbleicheweg 2  9000 St. Gallen,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Oberrieterstrasse 87  9450 Altstätten,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Magdenauerstrasse  9230 Flawil,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Murgtalstrasse  8877 Murg,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Gartenstrasse 8  9000 St. Gallen,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Gasenzenstrasse 16  9473 Gams,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Rorschacher Strasse 311  9016 St. Gallen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Lagerstrasse 6  9000 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Sarganserstrasse 1  8887 Mels,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Rorschacher Strasse 253  9016 St. Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Rotschürstrasse 17  9500 Wil,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Stockbrühlweg 4  7320 Sargans,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Tobelmülistrasse 2  9425 Thal SG,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Blumenstrasse 2  9403 Goldach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Ulmenstrasse  St.Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Unterdorf  Oberbüren,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Zürcherstrasse 8a  9552 Bronschhofen,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Glärnischstrasse 20  8640 Rapperswil-Jona,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Rütiwiesstrasse 60  8645 Rapperswil-Jona,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Reitbahnstrasse 4  9400 Rorschach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Industriestrasse 4  9300 Wittenbach,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Lohren 3A  8722 Kaltbrunn,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Horben 3233  9642 Ebnat-Kappel,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Grütlistrasse 27  9000 St. Gallen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Churerstrasse 10  9400 Rorschach,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Trischlistrasse 16  9400 Rorschach,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Wilerstrasse 72  9542 Münchwilen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Bahnhofstrasse 107  9240 Uzwil,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Bahnhofstrasse 1  7320 Sargans,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Trempel 2324  9643 Nesslau-Krummenau,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Flawilerstrasse 23  9500 Wil,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Trempel 2317  9643 Krummenau,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Meierseggstrasse 40  9230 Flawil,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Büechliberg 2  8733 Eschenbach SG,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Sandackerstrasse 26  9245 Oberbüren,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Tramstrasse 19  9444 Diepoldsau,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Wiesenstrasse 13  9400 Rorschach,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Webereistrasse 11  8730 Uznach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Aeulistrasse 8  7324 Vilters-Wangs,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Gasterstrasse 25  8730 Uznach,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Gublenstrasse 4  8733 Eschenbach,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Flawilerstrasse 36  9242 Oberuzwil,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Ringstrasse 4  9524 Zuzwil,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Rapperswilerstrasse  8733 Eschenbach,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Rheinhofstrasse 44  9423 Thal,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Eichwiesstrasse 12  8645 Jona SG,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Webereistrasse 3  8730 Uznach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Lattmanngasse 8  7310 Bad Ragaz,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Bahnhofstrasse 37  9200 Gossau,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Hauptstrasse 17  9400 Rorschach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Schiggstrasse 30  7323 Vilters-Wangs,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Eichenstrasse 3  9220 Bischofszell,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Grünbergstrasse 6  9000 St. Gallen,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Allmeindstrasse 56  8716 Schmerikon,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Webereistrasse 5  8730 Uznach,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Kirchstrasse 9  9400 Rorschach,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Friedbergstrasse 16  9200 Gossau,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Schiggstrasse 32  7323 Vilters-Wangs,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Industriestrasse 23  9552 Bronschhofen,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Lagerstrasse 4  9200 Gossau,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Seestrasse 96  9326 Horn,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Hauptstrasse 81  8716 Schmerikon,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Industriestrasse 18  9464 Rüthi,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Gemeindepl. 1  9444 Diepoldsau,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Flugplatz C Büro  8718 Schänis,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Thalerstrasse 57  9404 Rorschacherberg,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Pradasolstrasse 7  8890 Flums,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Schuppisstrasse 3  9016 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Bahnhofstrasse 56  7323 Vilters-Wangs,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Ottilienstrasse 20  9606 Bütschwil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Molkenstrasse 7  9000 St. Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Zürcherstrasse 8A  9552 Bronschhofen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Flumserbergstrasse 131  8897 Flums,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Pestalozzistrasse 11  9400 Rorschach,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Lohren 3C  8722 Kaltbrunn,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,137  9434 Au,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Bischofszellerstrasse 90  9200 Gossau,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Rollenstrasse 1  9630 Wattwil,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Zürcherstrasse 3  8730 Uznach,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Webereistrasse 7  8730 Uznach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Grofstrasse 45  8887 Mels,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Tannenstrasse 54  9010 St. Gallen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Marktstrasse 25  8890 Flums,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Sommeraustrasse 8  9532 Rickenbach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Steigstrasse 12  7306 Fläsch,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Rietlistrasse 3  9403 Goldach,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Bleikenstrasse 92  9630 Wattwil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Rotfarbstrasse 7  9213 Hauptwil-Gottshaus,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Gasterstrasse 23  8730 Uznach,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Warteggstrasse 31  9404 Rorschacherberg,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Aabachstrasse 5  8716 Schmerikon,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Gärtlistrasse 1  9475 Sevelen,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Paradiesstrasse 4  8890 Flums,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Werkstrasse 13  8645 Jona SG,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Lettenstrasse 4  9008 St. Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Kirchweg 2  9113 Degersheim,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Enzenbühlstrasse 26  9230 Flawil,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Lukasstrasse 30  9001 St. Gallen,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Soor 2339  9606 Bütschwil,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Staatsstrasse 57  9472 Grabs,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Industriestrasse 12  9450 Altstätten,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,St. Leonhard-Strasse 20  9000 St. Gallen,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Gonzenstrasse 7  9475 Sevelen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Warteggstrasse 34  9404 Rorschacherberg,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Neue Industriestrasse 81  9602 Bazenheid,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Grünaustrasse 2  9300 Wittenbach,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Innerfeld 21  9606 Bütschwil,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Seestrasse 33a  9326 Horn,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Allmeindstrasse 19  8716 Schmerikon,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Selemad 12  9487 Gamprin,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Fabrikstrasse 14  8887 Mels,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Schwärzi 7  8732 Neuhaus,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Ebnetstrasse 10  9125 Brunnadern,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Lukasstrasse 18  9008 St. Gallen,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Zürcherstrasse 10  9552 Bronschhofen,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Olensbachstrasse 15B  9631 Ulisbach,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Buchenstrasse 2  7310 Bad Ragaz,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Gemeindehaus  9205 Waldkirch,unknown,unknown
+Wahlkreis Wil,ich_tanke_strom,Flawilerstrasse  9242 Oberuzwil,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Seebleichestrasse 64  9404 Rorschacherberg,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Horben 1858  9642 Ebnat-Kappel,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Hauptstrasse 77  9650 Nesslau,unknown,unknown
+Wahlkreis Sarganserland,ich_tanke_strom,Wolfrietstrasse 4  8887 Mels,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Dorfstrasse 50  8717 Benken,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Langgasse 3  9008 St. Gallen,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Hauptstrasse 104  9422 Staad,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Werkstrasse 30  8645 Jona SG,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Calandastrasse 8  9475 Sevelen,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Bleichistrasse 1A  9404 Rorschacherberg Bleichi,unknown,unknown
+Wahlkreis Werdenberg,ich_tanke_strom,Rüti 1  9473 Gams,unknown,unknown
+Wahlkreis Toggenburg,ich_tanke_strom,Trempel 2324  9643 Krummenau,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Feldlistrasse 13  8645 Jona SG,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Blaubrunnenstrasse 2  8645 Rapperswil-Jona,unknown,unknown
+Wahlkreis Rorschach,ich_tanke_strom,Weinhaldenstrasse 12  9404 Rorschacherberg,unknown,unknown
+Wahlkreis St. Gallen,ich_tanke_strom,Lagerstrasse 16  9000 St. Gallen,unknown,unknown
+Wahlkreis Rheintal,ich_tanke_strom,Mühlackerweg 25  9450 Altstätten,unknown,unknown
+Wahlkreis See-Gaster,ich_tanke_strom,Oberbirgstrasse 4  8718 Schänis,unknown,unknown
+Wahlkreis St. Gallen,ionity,,unknown,Gossau
+Wahlkreis Sarganserland,ionity,,unknown,Heidiland
+Gallen,starbucks_eu,Personenunterfuhrung Ost U10 9000 St. Gallen,unknown,Bahnhof St.Gallen
+Gallen,starbucks_eu,Marktgasse 9 9000 St. Gallen,unknown,Marktgasse
+Rapperswil,starbucks_eu,Schmiedgasse 30 8640 Rapperswil,unknown,Rapperswil
+Wahlkreis St. Gallen,tier,,unknown,Tier
+Wahlkreis Rorschach,tier,,unknown,Tier
+Wahlkreis Wil,tier,,unknown,Tier

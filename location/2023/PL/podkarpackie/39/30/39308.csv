@@ -1,0 +1,18 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1801,abc_pl,abc,,Podborze,podkarpackie,,PL,,,,abc,Q11683985
+1526,abc_pl,abc,,Wadowice Dolne,podkarpackie,,PL,,,,abc,Q11683985
+3575,abc_pl,abc,,Wampierzów,podkarpackie,,PL,,,,abc,Q11683985
+10666,abc_pl,abc,,Wierzchowiny,podkarpackie,,PL,,,,abc,Q11683985
+2358,groszek_pl,Groszek,,Wadowice Górne,podkarpackie,,PL,,,,Groszek,Q9280965
+2359,groszek_pl,Groszek,,Jamy,podkarpackie,,PL,,,,Groszek,Q9280965
+2360,groszek_pl,Groszek,,Wampierzów,podkarpackie,,PL,,,,Groszek,Q9280965
+13925,groszek_pl,Groszek,,Wadowice Górne,podkarpackie,,PL,,,,Groszek,Q9280965
+13926,groszek_pl,Groszek,,Wadowice Górne,podkarpackie,,PL,,,,Groszek,Q9280965
+PODB01APP,paczkomat_inpost_pl,Przy sklepie,,Podborze,podkarpackie,,PL,,https://inpost.pl/paczkomat-podborze-podb01app-podborze-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+POP-WAC1,paczkomat_inpost_pl,WOJMOT SKLEP CZĘŚCI,,Wadowice Górne,podkarpackie,,PL,,https://inpost.pl/paczkomat-wadowice-gorne-pop-wac1-wadowice-gorne-paczkomaty-podkarpackie,Mo-Fr 09:00-19:00; Sa 10:00-14:00,Paczkomat,Q110970254
+WDD01APP,paczkomat_inpost_pl,Sklep Stokrotka,,Wadowice Dolne,podkarpackie,,PL,,https://inpost.pl/paczkomat-wadowice-dolne-wdd01app-wadowice-dolne-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+WDG01M,paczkomat_inpost_pl,Z boku restauracji Kebab House,,Wadowice Górne,podkarpackie,,PL,,https://inpost.pl/paczkomat-wadowice-gorne-wdg01m-wadowice-gorne-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+WDG02M,paczkomat_inpost_pl,Przy stacji,,Wadowice Górne,podkarpackie,,PL,,https://inpost.pl/paczkomat-wadowice-gorne-wdg02m-wadowice-gorne-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+271623,poczta_polska_pl,UP Wadowice Górne,,Wadowice Górne,PODKARPACKIE,,PL,+48 14 666 97 60,,,Poczta Polska,Q168833
+304755,poczta_polska_pl,AP Zgórsko,,Zgórsko,PODKARPACKIE,,PL,+48 14 682 16 54,,,Poczta Polska,Q168833
+4449c1b52d43807005331bcce843770d,western_union,BANK SPOLDZIELCZY RZEMIOSLA,,Wadowice,PODKARPACKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/podkarpackie/wadowice/4449c1b52d43807005331bcce843770d,Mo-Fr 07:45-15:15,Western Union,Q861042

@@ -1,0 +1,3003 @@
+City,Place Name,Zipcode,Name
+Mile End,99_bikes_au,,unknown,Mile End
+Nailsworth,99_bikes_au,,unknown,Prospect
+Marion,99_bikes_au,,unknown,Marion
+College Park ,99_bikes_au,,unknown,College Park
+West Lakes,99_bikes_au,,unknown,West Lakes
+Modbury,99_bikes_au,,unknown,Modbury
+Noarlunga,99_bikes_au,,unknown,Noarlunga
+Adelaide,alamo,,unknown,Adelaide Airport
+Wandilo,alamo,,unknown,Mount Gambier Airport
+Ceduna,alamo,,unknown,Ceduna Airport
+Coober Pedy,alamo,,unknown,Coober Pedy Airport
+North Shields,alamo,,unknown,Port Lincoln Airport
+Mullaquana,alamo,,unknown,Whyalla Airport
+Kilkenny,ally_fashion_au,,unknown,Armada Arndale
+Torrensville ,ally_fashion_au,,unknown,Brickworks
+Kilburn North,ally_fashion_au,,unknown,Churchill
+Noarlunga Centre,ally_fashion_au,,unknown,Colonnades
+Elizabeth,ally_fashion_au,,unknown,Elizabeth 
+Salisubry Downs,ally_fashion_au,,unknown,Hollywood Plaza
+Ingle Farm,ally_fashion_au,,unknown,Ingle Farm
+Adelaide ,ally_fashion_au,,unknown,Myer Centre
+Seaford ,ally_fashion_au,,unknown,Seaford 
+Mount Barker,amcal_au,485 Heysen Bvd Mount Barker SA 5251 Australia,unknown,Amcal Aston Hills Mount Barker
+Berri,amcal_au,14 Vaughan Terrace Berri SA 5343,unknown,Amcal+ Pharmacy Berri
+Murray Bridge,amcal_au,Shop 42 8-10 Riverview Rd Murray Bridge SA 5253,unknown,Amcal+ Pharmacy Murray Bridge
+Modbury,amcal_au,18/954 North East Road Modbury SA 5092,unknown,Amcal+ Pharmacy Modbury Triangle
+Millicent,amcal_au,Shop 3 Corner Davenport and Glen St Millicent SA 5280,unknown,Amcal+ Pharmacy Glen Street Millicent
+West Lakes,amcal_au,Westfield West Lakes 111 West Lakes Boulevard Shop 18 West Lakes SA 5021,unknown,Amcal+ Pharmacy West Lakes
+Victor Harbor,amcal_au,60 Victoria St Victor Harbor SA 5211 Australia,unknown,Amcal + Pharmacy Victor Harbor
+St Clair,amcal_au,40 Cheltenham Parade Shop 6 St Clair Shopping Centre St Clair SA 5011,unknown,Amcal+ Pharmacy St Clair
+Marden,amcal_au,Marden Shopping Centre 9-21 Lower Portrush Road Marden SA 5070,unknown,Amcal+ Pharmacy Marden
+Loxton,amcal_au,6 East Terrace Loxton SA 5333,unknown,Amcal+ Pharmacy East Terrace Loxton
+Loxton,amcal_au,13 Anzac Crescent Loxton SA 5333,unknown,Amcal+ Pharmacy Loxton ANZAC
+Holden Hill,amcal_au,Shop 5 746 North East Road Holden Hill SA 5088,unknown,Amcal+ Pharmacy Holden Hill
+Fairview Park,amcal_au,325 Hancock Road Fairview Park SA 5126,unknown,Amcal+ Pharmacy  Fairview - ED & M Edgecombe
+Nairne,anytime_fitness,,unknown,Anytime Fitness
+Seaford,anytime_fitness,,unknown,Anytime Fitness
+Port Adelaide,anytime_fitness,,unknown,Anytime Fitness
+Walkerville,anytime_fitness,,unknown,Anytime Fitness
+Blakeview,anytime_fitness,,unknown,Anytime Fitness
+Glenelg,anytime_fitness,,unknown,Anytime Fitness
+Mitchell Park,anytime_fitness,,unknown,Anytime Fitness
+Blackwood,anytime_fitness,,unknown,Anytime Fitness
+Greenacres,anytime_fitness,,unknown,Anytime Fitness
+Sheidow Park,anytime_fitness,,unknown,Anytime Fitness
+Glen Osmond,anytime_fitness,,unknown,Anytime Fitness
+Para Hills West,anytime_fitness,,unknown,Anytime Fitness
+Saints Road Shopping Centre,anytime_fitness,,unknown,Anytime Fitness
+Mawson Lakes,anytime_fitness,,unknown,Anytime Fitness
+Brighton,anytime_fitness,,unknown,Anytime Fitness
+Findon,anytime_fitness,,unknown,Anytime Fitness
+Whyalla,anytime_fitness,,unknown,Anytime Fitness
+Angaston,anytime_fitness,,unknown,Anytime Fitness
+Nuriootpa,anytime_fitness,,unknown,Anytime Fitness
+Balhannah,anytime_fitness,,unknown,Anytime Fitness
+Victor Harbor,anytime_fitness,,unknown,Anytime Fitness
+Parafield Gardens,anytime_fitness,,unknown,Anytime Fitness
+Port Lincoln,anytime_fitness,,unknown,Anytime Fitness
+Elizabeth,anytime_fitness,,unknown,Anytime Fitness
+Woodcroft,anytime_fitness,,unknown,Anytime Fitness
+Modbury,anytime_fitness,,unknown,Anytime Fitness
+Munno Para,anytime_fitness,,unknown,Anytime Fitness
+Prospect,anytime_fitness,,unknown,Anytime Fitness
+Campbelltown,anytime_fitness,,unknown,Anytime Fitness
+Newton,anytime_fitness,,unknown,Anytime Fitness
+Unley,anytime_fitness,,unknown,Anytime Fitness
+Golden Grove,anytime_fitness,,unknown,Anytime Fitness
+Adelaide CBD,anytime_fitness,,unknown,Anytime Fitness
+Adelaide,anytime_fitness,,unknown,Anytime Fitness
+Gawler,anytime_fitness,,unknown,Anytime Fitness
+Aldinga,anytime_fitness,,unknown,Anytime Fitness
+Fulham Gardens,anytime_fitness,,unknown,Anytime Fitness
+Evanston,anytime_fitness,,unknown,Anytime Fitness
+Murray Bridge,anytime_fitness,,unknown,Anytime Fitness
+Aberfoyle Park,anytime_fitness,,unknown,Anytime Fitness
+Mount Barker,anytime_fitness,,unknown,Anytime Fitness
+Black Forest,anytime_fitness,,unknown,Anytime Fitness
+Mile End,anytime_fitness,,unknown,Anytime Fitness
+Colonnades,anytime_fitness,,unknown,Anytime Fitness
+Salisbury Downs,anytime_fitness,,unknown,Anytime Fitness
+St Morris,anytime_fitness,,unknown,Anytime Fitness
+Mansfield Park,anytime_fitness,,unknown,Anytime Fitness
+Munno Para West,anytime_fitness,,unknown,Anytime Fitness
+Daw Park,anytime_fitness,,unknown,Anytime Fitness
+Adelaide,aquila_au,,unknown,Rundle Place
+OODNADATTA,australia_post_au,,unknown,unknown
+COCKBURN,australia_post_au,,unknown,COCKBURN CPA
+OLARY,australia_post_au,,unknown,unknown
+MANNAHILL,australia_post_au,,unknown,MANNAHILL CPA
+YUNTA,australia_post_au,,unknown,unknown
+COOLTONG,australia_post_au,,unknown,unknown
+RENMARK NORTH,australia_post_au,,unknown,unknown
+RENMARK WEST,australia_post_au,,unknown,RENMARK NORTH CPA
+RENMARK,australia_post_au,,unknown,RENMARK SOUTH LPO
+PARINGA,australia_post_au,,unknown,PARINGA LPO
+RENMARK SOUTH,australia_post_au,,unknown,unknown
+NACKARA,australia_post_au,,unknown,unknown
+LYRUP,australia_post_au,,unknown,LYRUP LPO
+TALDRA,australia_post_au,,unknown,unknown
+MONASH,australia_post_au,,unknown,unknown
+BERRI,australia_post_au,,unknown,Berri Parcel Locker
+GLOSSOP,australia_post_au,,unknown,GLOSSOP LPO
+BARMERA,australia_post_au,,unknown,unknown
+COBDOGLA,australia_post_au,,unknown,COBDOGLA CPA
+KINGSTON ON MURRAY,australia_post_au,,unknown,unknown
+KINGSTON-ON-MURRAY,australia_post_au,,unknown,KINGSTON-ON-MURRAY CPA
+LOVEDAY,australia_post_au,,unknown,unknown
+MOOROOK SOUTH,australia_post_au,,unknown,MOOROOK CPA
+GERARD,australia_post_au,,unknown,GERARD CPA
+LOXTON,australia_post_au,,unknown,unknown
+TAPLAN,australia_post_au,,unknown,TAPLAN CPA
+MARLA,australia_post_au,,unknown,MARLA LPO
+WAIKERIE,australia_post_au,,unknown,unknown
+COOBER PEDY,australia_post_au,,unknown,COOBER PEDY LPO
+MIMILI,australia_post_au,,unknown,MIMILI CPA
+KALTJITI,australia_post_au,,unknown,FREGON CPA
+PUKATJA,australia_post_au,,unknown,ERNABELLA CPA
+AMATA,australia_post_au,,unknown,AMATA CPA
+CADELL,australia_post_au,,unknown,unknown
+RAMCO,australia_post_au,,unknown,unknown
+RAMCO HEIGHTS,australia_post_au,,unknown,RAMCO CPA
+MORGAN,australia_post_au,,unknown,unknown
+PETERBOROUGH,australia_post_au,,unknown,unknown
+GLENDAMBO,australia_post_au,,unknown,GLENDAMBO CPA
+ROXBY DOWNS,australia_post_au,,unknown,ROXBY DOWNS LPO
+ANDAMOOKA,australia_post_au,,unknown,unknown
+TEROWIE,australia_post_au,,unknown,TEROWIE LPO
+MERIBAH,australia_post_au,,unknown,unknown
+WHYTE YARCOWIE,australia_post_au,,unknown,WHYTE YARCOWIE CPA
+PARUNA,australia_post_au,,unknown,PARUNA CPA
+MARREE,australia_post_au,,unknown,unknown
+KOONIBBA,australia_post_au,,unknown,unknown
+PENONG,australia_post_au,,unknown,PENONG LPO
+WOOMERA,australia_post_au,,unknown,WOOMERA LPO
+CEDUNA,australia_post_au,,unknown,CEDUNA LPO
+YONGALA,australia_post_au,,unknown,YONGALA CPA
+ORROROO,australia_post_au,,unknown,ORROROO LPO
+CARRIETON,australia_post_au,,unknown,unknown
+HALLET,australia_post_au,,unknown,unknown
+BLINMAN,australia_post_au,,unknown,unknown
+THEVENARD,australia_post_au,,unknown,THEVENARD LPO
+FOWLERS BAY,australia_post_au,,unknown,FOWLERS BAY CPA
+HALLETT,australia_post_au,,unknown,HALLETT CPA
+CRADOCK,australia_post_au,,unknown,unknown
+MORCHARD,australia_post_au,,unknown,unknown
+ALAWOONA,australia_post_au,,unknown,ALAWOONA CPA
+PEKINA,australia_post_au,,unknown,unknown
+MOUNT BRYAN,australia_post_au,,unknown,unknown
+HAWKER,australia_post_au,,unknown,HAWKER LPO
+PEEBINGA,australia_post_au,,unknown,PEEBINGA CPA
+BOWER,australia_post_au,,unknown,BOWER CPA
+BURRA,australia_post_au,,unknown,unknown
+SMOKY BAY,australia_post_au,,unknown,unknown
+WIRRULLA,australia_post_au,,unknown,unknown
+LYNDHURST,australia_post_au,,unknown,LYNDHURST CPA
+HASLAM,australia_post_au,,unknown,unknown
+BLANCHETOWN,australia_post_au,,unknown,BLANCHETOWN LPO
+TARCOWIE,australia_post_au,,unknown,TARCOWIE CPA
+JAMESTOWN,australia_post_au,,unknown,unknown
+WANBI,australia_post_au,,unknown,unknown
+COPLEY,australia_post_au,,unknown,unknown
+LEIGH CREEK,australia_post_au,,unknown,LEIGH CREEK LPO
+PIPALYATJARA,australia_post_au,,unknown,PIPALYATJARA CPA
+KALKA,australia_post_au,,unknown,KALKA CPA
+POOCHERA,australia_post_au,,unknown,unknown
+STREAKY BAY,australia_post_au,,unknown,unknown
+PARACHILNA,australia_post_au,,unknown,unknown
+BOOBOROWIE,australia_post_au,,unknown,BOOBOROWIE LPO
+MINNIPA,australia_post_au,,unknown,unknown
+YANINEE,australia_post_au,,unknown,unknown
+WUDINNA,australia_post_au,,unknown,WUDINNA LPO
+PT KENNY,australia_post_au,,unknown,unknown
+ROBERTSTOWN,australia_post_au,,unknown,ROBERTSTOWN LPO
+SUTHERLANDS,australia_post_au,,unknown,SUTHERLANDS CPA
+MINDARIE,australia_post_au,,unknown,MINDARIE CPA
+CALTOWIE,australia_post_au,,unknown,unknown
+BOOLEROO CENTRE,australia_post_au,,unknown,BOOLEROO CENTRE LPO
+PORT KENNY,australia_post_au,,unknown,PORT KENNY LPO
+VENUS BAY,australia_post_au,,unknown,VENUS BAY CPA
+KYANCUTTA,australia_post_au,,unknown,unknown
+WARRAMBOO,australia_post_au,,unknown,WARRAMBOO CPA
+SPALDING,australia_post_au,,unknown,SPALDING CPA
+EUDUNDA,australia_post_au,,unknown,unknown
+POINT PASS,australia_post_au,,unknown,unknown
+ANDREWS,australia_post_au,,unknown,unknown
+FARRELL FLAT,australia_post_au,,unknown,FARRELL FLAT CPA
+IRON KNOB,australia_post_au,,unknown,unknown
+PORT AUGUSTA,australia_post_au,,unknown,unknown
+PORT AUGUSTA WEST,australia_post_au,,unknown,unknown
+SWAN REACH,australia_post_au,,unknown,SWAN REACH LPO
+NILDOTTIE,australia_post_au,,unknown,NILDOTTIE LPO
+KIMBA,australia_post_au,,unknown,KIMBA LPO
+QUORN,australia_post_au,,unknown,unknown
+WIRRABARA,australia_post_au,,unknown,WIRRABARA LPO
+GLADSTONE,australia_post_au,,unknown,GLADSTONE LPO
+MELROSE,australia_post_au,,unknown,MELROSE CPA
+GEORGETOWN,australia_post_au,,unknown,GEORGETOWN CPA
+STIRLING NORTH,australia_post_au,,unknown,STIRLING NORTH LPO
+ELLISTON,australia_post_au,,unknown,ELLISTON LPO
+LOCK,australia_post_au,,unknown,unknown
+DARKE PEAKE,australia_post_au,,unknown,unknown
+WILMINGTON,australia_post_au,,unknown,unknown
+WHYALLA NORRIE EAST,australia_post_au,,unknown,unknown
+MINTARO,australia_post_au,,unknown,unknown
+GULNARE,australia_post_au,,unknown,GULNARE CPA
+MANOORA,australia_post_au,,unknown,MANOORA LPO
+LAURA,australia_post_au,,unknown,LAURA LPO
+WHYALLA STUART,australia_post_au,,unknown,unknown
+WHYALLA NORRIE,australia_post_au,,unknown,Whyalla Norrie Parcel Locker
+WHYALLA NORRIE NORTH,australia_post_au,,unknown,unknown
+WHYALLA,australia_post_au,,unknown,unknown
+YACKA,australia_post_au,,unknown,unknown
+WHYALLA PLAYFORD,australia_post_au,,unknown,WHYALLA PLAYFORD LPO
+MARRABEL,australia_post_au,,unknown,unknown
+PINNAROO,australia_post_au,,unknown,unknown
+CLARE,australia_post_au,,unknown,unknown
+MURDINGA,australia_post_au,,unknown,unknown
+BUTLER TANKS,australia_post_au,,unknown,unknown
+TRURO,australia_post_au,,unknown,unknown
+SADDLEWORTH,australia_post_au,,unknown,SADDLEWORTH LPO
+RUDALL,australia_post_au,,unknown,unknown
+PORT GERMEIN,australia_post_au,,unknown,unknown
+CLEVE,australia_post_au,,unknown,unknown
+WALKER FLAT,australia_post_au,,unknown,unknown
+SEDAN,australia_post_au,,unknown,unknown
+WATERVALE,australia_post_au,,unknown,WATERVALE LPO
+AUBURN,australia_post_au,,unknown,AUBURN LPO
+COWELL,australia_post_au,,unknown,unknown
+KARKOO,australia_post_au,,unknown,unknown
+PORT PIRIE,australia_post_au,,unknown,unknown
+MOCULTA,australia_post_au,,unknown,unknown
+KOONUNGA,australia_post_au,,unknown,unknown
+STOCKWELL,australia_post_au,,unknown,unknown
+CRYSTAL BROOK,australia_post_au,,unknown,unknown
+BRINKWORTH,australia_post_au,,unknown,BRINKWORTH LPO
+PORT PIRIE WEST,australia_post_au,,unknown,unknown
+SOLMONTOWN,australia_post_au,,unknown,unknown
+PORT PIRIE SOUTH,australia_post_au,,unknown,PORT PIRIE SOUTH CPA
+KOOLUNGA,australia_post_au,,unknown,KOOLUNGA CPA
+NAPPERBY,australia_post_au,,unknown,unknown
+PURNONG,australia_post_au,,unknown,unknown
+RIVERTON,australia_post_au,,unknown,unknown
+RISDON PARK,australia_post_au,,unknown,RISDON PARK LPO
+BLYTH,australia_post_au,,unknown,BLYTH LPO
+PARILLA,australia_post_au,,unknown,PARILLA CPA
+KAPUNDA,australia_post_au,,unknown,unknown
+CAMBRAI,australia_post_au,,unknown,CAMBRAI LPO
+WARNERTOWN,australia_post_au,,unknown,WARNERTOWN CPA
+ARNO BAY,australia_post_au,,unknown,unknown
+YEELANNA,australia_post_au,,unknown,YEELANNA CPA
+COCKALEECHIE,australia_post_au,,unknown,COCKALEECHIE CPA
+UNGARRA,australia_post_au,,unknown,UNGARRA CPA
+CUMMINS,australia_post_au,,unknown,CUMMINS LPO
+BOWHILL,australia_post_au,,unknown,BOWHILL CPA
+KYBUNGA,australia_post_au,,unknown,unknown
+LIGHT PASS,australia_post_au,,unknown,unknown
+ANGASTON,australia_post_au,,unknown,unknown
+PT NEILL,australia_post_au,,unknown,unknown
+PORT NEILL,australia_post_au,,unknown,PORT NEILL LPO
+NURIOOTPA,australia_post_au,,unknown,unknown
+MARAMA,australia_post_au,,unknown,MARAMA CPA
+HOYLETON,australia_post_au,,unknown,unknown
+COULTA,australia_post_au,,unknown,unknown
+PORT BROUGHTON,australia_post_au,,unknown,unknown
+GILES CORNER,australia_post_au,,unknown,unknown
+REDHILL,australia_post_au,,unknown,unknown
+TARLEE,australia_post_au,,unknown,TARLEE CPA
+LAMEROO,australia_post_au,,unknown,unknown
+EDILLILIE,australia_post_au,,unknown,unknown
+MUNDOORA,australia_post_au,,unknown,MUNDOORA CPA
+TICKENA,australia_post_au,,unknown,unknown
+TUMBY BAY,australia_post_au,,unknown,TUMBY BAY LPO
+KAROONDA,australia_post_au,,unknown,unknown
+GREENOCK,australia_post_au,,unknown,GREENOCK LPO
+WANGARY,australia_post_au,,unknown,WANGARY CPA
+NORTH BEACH,australia_post_au,,unknown,unknown
+TANUNDA,australia_post_au,,unknown,unknown
+ALFORD,australia_post_au,,unknown,ALFORD CPA
+WANILLA,australia_post_au,,unknown,WANILLA CPA
+WALLAROO,australia_post_au,,unknown,unknown
+COFFIN BAY,australia_post_au,,unknown,COFFIN BAY LPO
+KADINA,australia_post_au,,unknown,unknown
+LOUTH BAY,australia_post_au,,unknown,unknown
+MOONTA BAY,australia_post_au,,unknown,unknown
+PORT HUGHES,australia_post_au,,unknown,PORT HUGHES LPO
+BUTE,australia_post_au,,unknown,unknown
+MOONTA,australia_post_au,,unknown,unknown
+EDEN VALLEY,australia_post_au,,unknown,unknown
+STOCKPORT,australia_post_au,,unknown,unknown
+NORTH SHIELDS,australia_post_au,,unknown,NORTH SHIELDS CPA
+SNOWTOWN,australia_post_au,,unknown,unknown
+PORT LINCOLN,australia_post_au,,unknown,PORT LINCOLN SOUTH CPA
+PASKEVILLE,australia_post_au,,unknown,PASKEVILLE CPA
+FREELING,australia_post_au,,unknown,unknown
+ROWLAND FLAT,australia_post_au,,unknown,unknown
+SPRINGTON,australia_post_au,,unknown,unknown
+LOCHIEL,australia_post_au,,unknown,unknown
+KULPARA,australia_post_au,,unknown,unknown
+WEETULTA,australia_post_au,,unknown,unknown
+HAMLEY BRIDGE,australia_post_au,,unknown,unknown
+WYNARKA,australia_post_au,,unknown,WYNARKA CPA
+SHEOAK LOG,australia_post_au,,unknown,unknown
+MANNUM,australia_post_au,,unknown,unknown
+OWEN,australia_post_au,,unknown,OWEN LPO
+BALGOWAN,australia_post_au,,unknown,unknown
+ARTHURTON,australia_post_au,,unknown,unknown
+BEAUFORT,australia_post_au,,unknown,unknown
+LYNDOCH,australia_post_au,,unknown,unknown
+PARRAKIE,australia_post_au,,unknown,PARRAKIE CPA
+BALAKLAVA,australia_post_au,,unknown,unknown
+POINT PEARCE,australia_post_au,,unknown,POINT PEARCE CPA
+MAITLAND,australia_post_au,,unknown,MAITLAND LPO
+BARABBA,australia_post_au,,unknown,unknown
+PALMER,australia_post_au,,unknown,PALMER LPO
+MOUNT PLEASANT,australia_post_au,,unknown,unknown
+PORT CLINTON,australia_post_au,,unknown,PORT CLINTON CPA
+CLINTON,australia_post_au,,unknown,unknown
+PORT WAKEFIELD,australia_post_au,,unknown,unknown
+SOUTH KILKERRAN,australia_post_au,,unknown,unknown
+PORT VICTORIA,australia_post_au,,unknown,unknown
+PRICE,australia_post_au,,unknown,PRICE CPA
+GERANIUM,australia_post_au,,unknown,unknown
+WASLEYS,australia_post_au,,unknown,unknown
+SANDY CREEK,australia_post_au,,unknown,SANDY CREEK CPA
+ROSEWORTHY,australia_post_au,,unknown,unknown
+COCKATOO VALLEY,australia_post_au,,unknown,unknown
+URANIA,australia_post_au,,unknown,unknown
+WILLIAMSTOWN,australia_post_au,,unknown,WILLIAMSTOWN LPO
+TUNGKILLO,australia_post_au,,unknown,unknown
+JABUK,australia_post_au,,unknown,JABUK CPA
+ARDROSSAN,australia_post_au,,unknown,unknown
+WILD HORSE PLAINS,australia_post_au,,unknown,unknown
+PINE POINT,australia_post_au,,unknown,PINE POINT CPA
+WILLASTON,australia_post_au,,unknown,WILLASTON LPO
+GAWLER EAST,australia_post_au,,unknown,unknown
+GAWLER,australia_post_au,,unknown,unknown
+MYPOLONGA,australia_post_au,,unknown,MYPOLONGA LPO
+PINERY,australia_post_au,,unknown,unknown
+LONG PLAINS,australia_post_au,,unknown,unknown
+CORNY POINT,australia_post_au,,unknown,unknown
+GAWLER SOUTH,australia_post_au,,unknown,unknown
+PT VINCENT,australia_post_au,,unknown,unknown
+CURRAMULKA,australia_post_au,,unknown,CURRAMULKA CPA
+WINDSOR,australia_post_au,,unknown,unknown
+THE PINES,australia_post_au,,unknown,unknown
+MINLATON,australia_post_au,,unknown,unknown
+PEAKE,australia_post_au,,unknown,PEAKE CPA
+EVANSTON,australia_post_au,,unknown,unknown
+EVANSTON PARK,australia_post_au,,unknown,unknown
+SHERLOCK,australia_post_au,,unknown,SHERLOCK CPA
+HILLIER,australia_post_au,,unknown,HILLIER CPA
+EVANSTON GARDENS,australia_post_au,,unknown,unknown
+CALOMBA,australia_post_au,,unknown,CALOMBA CPA
+DUBLIN,australia_post_au,,unknown,DUBLIN CPA
+BRENTWOOD,australia_post_au,,unknown,unknown
+HARDWICKE BAY,australia_post_au,,unknown,HARDWICKE BAY CPA
+BIRDWOOD,australia_post_au,,unknown,BIRDWOOD LPO
+BURDETT,australia_post_au,,unknown,KALPARRIN CPA
+EVANSTON SOUTH,australia_post_au,,unknown,unknown
+MALLALA,australia_post_au,,unknown,MALLALA LPO
+FORRESTON,australia_post_au,,unknown,unknown
+KERSBROOK,australia_post_au,,unknown,KERSBROOK LPO
+POINT TURTON,australia_post_au,,unknown,POINT TURTON CPA
+PORT VINCENT,australia_post_au,,unknown,PORT VINCENT LPO
+LOWER LIGHT,australia_post_au,,unknown,unknown
+ONE TREE HILL,australia_post_au,,unknown,ONE TREE HILL LPO
+MT TORRENS,australia_post_au,,unknown,unknown
+MOUNT TORRENS,australia_post_au,,unknown,MOUNT TORRENS LPO
+MUNNO PARA,australia_post_au,,unknown,unknown
+GUMERACHA,australia_post_au,,unknown,unknown
+MUNNO PARA WEST,australia_post_au,,unknown,unknown
+BLAKEVIEW,australia_post_au,,unknown,BLAKEVIEW CPA
+WAROOKA,australia_post_au,,unknown,unknown
+MURRAY BRIDGE EAST,australia_post_au,,unknown,unknown
+CRAIGMORE,australia_post_au,,unknown,CRAIGMORE LPO
+LEWISTON,australia_post_au,,unknown,unknown
+ANGLE VALE,australia_post_au,,unknown,unknown
+SMITHFIELD,australia_post_au,,unknown,SMITHFIELD LPO
+ELIZABETH DOWNS,australia_post_au,,unknown,unknown
+MURRAY BRIDGE,australia_post_au,,unknown,unknown
+ANDREWS FARM,australia_post_au,,unknown,unknown
+SMITHFIELD PLAINS,australia_post_au,,unknown,unknown
+STANSBURY,australia_post_au,,unknown,unknown
+TWO WELLS,australia_post_au,,unknown,unknown
+DAVOREN PARK NORTH,australia_post_au,,unknown,unknown
+ELIZABETH PARK,australia_post_au,,unknown,unknown
+ELIZABETH NORTH,australia_post_au,,unknown,unknown
+YORKETOWN,australia_post_au,,unknown,YORKETOWN LPO
+MARION BAY,australia_post_au,,unknown,unknown
+WOOL BAY,australia_post_au,,unknown,unknown
+DAVOREN PARK,australia_post_au,,unknown,DAVOREN PARK SOUTH LPO
+VIRGINIA,australia_post_au,,unknown,VIRGINIA LPO
+COOBOWIE,australia_post_au,,unknown,unknown
+TAILEM BEND,australia_post_au,,unknown,unknown
+ELIZABETH EAST,australia_post_au,,unknown,unknown
+ELIZABETH WEST,australia_post_au,,unknown,unknown
+ELIZABETH,australia_post_au,,unknown,ELIZABETH POST SHOP
+CUDLEE CREEK,australia_post_au,,unknown,CUDLEE CREEK CPA
+GREENWITH,australia_post_au,,unknown,GREENWITH LPO
+EDITHBURGH,australia_post_au,,unknown,unknown
+ST KILDA,australia_post_au,,unknown,unknown
+LOBETHAL,australia_post_au,,unknown,unknown
+CHARLESTON,australia_post_au,,unknown,unknown
+ELIZABETH SOUTH,australia_post_au,,unknown,unknown
+EDINBURGH,australia_post_au,,unknown,EDINBURGH RAAF LPO
+GOLDEN GROVE,australia_post_au,,unknown,unknown
+ELIZABETH GROVE,australia_post_au,,unknown,unknown
+INGLEWOOD,australia_post_au,,unknown,INGLEWOOD LPO
+SALISBURY HEIGHTS,australia_post_au,,unknown,unknown
+NORTH HAVEN,australia_post_au,,unknown,unknown
+HILLBANK,australia_post_au,,unknown,unknown
+BURTON,australia_post_au,,unknown,BURTON LPO
+FAIRVIEW PARK,australia_post_au,,unknown,unknown
+ELIZABETH VALE,australia_post_au,,unknown,unknown
+HOUGHTON,australia_post_au,,unknown,HOUGHTON CPA
+PARALOWIE,australia_post_au,,unknown,unknown
+OSBORNE,australia_post_au,,unknown,unknown
+SALISBURY NORTH,australia_post_au,,unknown,unknown
+PARACOMBE,australia_post_au,,unknown,PARACOMBE CPA
+SALISBURY PARK,australia_post_au,,unknown,unknown
+BANKSIA PARK,australia_post_au,,unknown,unknown
+TAPEROO,australia_post_au,,unknown,unknown
+REDWOOD PARK,australia_post_au,,unknown,unknown
+SURREY DOWNS,australia_post_au,,unknown,unknown
+TEA TREE GULLY,australia_post_au,,unknown,unknown
+SALISBURY EAST,australia_post_au,,unknown,unknown
+ST AGNES,australia_post_au,,unknown,unknown
+SALISBURY,australia_post_au,,unknown,unknown
+LARGS NORTH,australia_post_au,,unknown,unknown
+LARGS BAY,australia_post_au,,unknown,unknown
+SALISBURY PLAIN,australia_post_au,,unknown,unknown
+PARAFIELD GARDENS,australia_post_au,,unknown,PARAFIELD GARDENS LPO
+SALISBURY DOWNS,australia_post_au,,unknown,unknown
+MONARTO SOUTH,australia_post_au,,unknown,unknown
+BRAHMA LODGE,australia_post_au,,unknown,unknown
+MODBURY HEIGHTS,australia_post_au,,unknown,unknown
+WYNN VALE,australia_post_au,,unknown,unknown
+VISTA,australia_post_au,,unknown,unknown
+WOODSIDE,australia_post_au,,unknown,WOODSIDE LPO
+PETERHEAD,australia_post_au,,unknown,unknown
+SEMAPHORE,australia_post_au,,unknown,unknown
+BRUKUNGA,australia_post_au,,unknown,unknown
+RIDGEHAVEN,australia_post_au,,unknown,unknown
+LENSWOOD,australia_post_au,,unknown,unknown
+COOKE PLAINS,australia_post_au,,unknown,unknown
+SEMAPHORE SOUTH,australia_post_au,,unknown,unknown
+EXETER,australia_post_au,,unknown,unknown
+GREEN FIELDS,australia_post_au,,unknown,unknown
+BIRKENHEAD,australia_post_au,,unknown,unknown
+ETHELTON,australia_post_au,,unknown,unknown
+PORT ADELAIDE,australia_post_au,,unknown,PORT ADELAIDE DC
+SEMAPHORE PARK,australia_post_au,,unknown,unknown
+MODBURY,australia_post_au,,unknown,HOLDEN HILL LPO
+MODBURY NORTH,australia_post_au,,unknown,unknown
+SALISBURY SOUTH,australia_post_au,,unknown,SALISBURY SOUTH BUSINESS CENTR
+WEST LAKES SHORE,australia_post_au,,unknown,unknown
+KANMANTOO,australia_post_au,,unknown,KANMANTOO CPA
+HIGHBURY,australia_post_au,,unknown,HIGHBURY LPO
+PARA HILLS WEST,australia_post_au,,unknown,unknown
+FOREST RANGE,australia_post_au,,unknown,unknown
+MAWSON LAKES,australia_post_au,,unknown,unknown
+PARAFIELD,australia_post_au,,unknown,unknown
+ROSEWATER,australia_post_au,,unknown,unknown
+PARA HILLS,australia_post_au,,unknown,unknown
+HOPE VALLEY,australia_post_au,,unknown,unknown
+ALBERTON,australia_post_au,,unknown,unknown
+OTTOWAY,australia_post_au,,unknown,unknown
+WEST LAKES,australia_post_au,,unknown,unknown
+ROSEWATER EAST,australia_post_au,,unknown,unknown
+QUEENSTOWN,australia_post_au,,unknown,unknown
+ROYAL PARK,australia_post_au,,unknown,unknown
+PARA VISTA,australia_post_au,,unknown,unknown
+DAWESLEY,australia_post_au,,unknown,unknown
+COOMANDOOK,australia_post_au,,unknown,unknown
+WINGFIELD,australia_post_au,,unknown,unknown
+TENNYSON,australia_post_au,,unknown,unknown
+PENNINGTON,australia_post_au,,unknown,unknown
+ATHELSTONE,australia_post_au,,unknown,unknown
+MANSFIELD PARK,australia_post_au,,unknown,unknown
+CHERRYVILLE,australia_post_au,,unknown,unknown
+INGLE FARM,australia_post_au,,unknown,unknown
+MONTACUTE,australia_post_au,,unknown,unknown
+CALLINGTON,australia_post_au,,unknown,CALLINGTON CPA
+CHELTENHAM,australia_post_au,,unknown,unknown
+ALBERT PARK,australia_post_au,,unknown,unknown
+POORAKA,australia_post_au,,unknown,unknown
+DRY CREEK,australia_post_au,,unknown,DRY CREEK LPO
+VALLEY VIEW,australia_post_au,,unknown,unknown
+HENDON,australia_post_au,,unknown,unknown
+ST CLAIR,australia_post_au,,unknown,unknown
+NAIRNE,australia_post_au,,unknown,unknown
+OAKBANK,australia_post_au,,unknown,OAKBANK CPA
+HOLDEN HILL,australia_post_au,,unknown,unknown
+GEPPS CROSS,australia_post_au,,unknown,unknown
+SEATON NORTH,australia_post_au,,unknown,unknown
+SEATON,australia_post_au,,unknown,unknown
+WOODVILLE GARDENS,australia_post_au,,unknown,unknown
+FERRYDEN PARK,australia_post_au,,unknown,unknown
+GRANGE,australia_post_au,,unknown,unknown
+DERNANCOURT,australia_post_au,,unknown,unknown
+GILLES PLAINS,australia_post_au,,unknown,GILLES PLAINS LPO
+REGENCY PARK,australia_post_au,,unknown,unknown
+WOODVILLE,australia_post_au,,unknown,unknown
+KILKENNY,australia_post_au,,unknown,KILKENNY POST SHOP
+WOODVILLE SOUTH,australia_post_au,,unknown,unknown
+WOODVILLE WEST,australia_post_au,,unknown,unknown
+PARADISE,australia_post_au,,unknown,unknown
+WALKLEY HEIGHTS,australia_post_au,,unknown,unknown
+BASKET RANGE,australia_post_au,,unknown,unknown
+BLAIR ATHOL WEST,australia_post_au,,unknown,unknown
+KILBURN,australia_post_au,,unknown,unknown
+WINDSOR GARDENS,australia_post_au,,unknown,unknown
+NORTHFIELD,australia_post_au,,unknown,unknown
+WOODVILLE PARK,australia_post_au,,unknown,unknown
+ENFIELD,australia_post_au,,unknown,unknown
+NEWTON,australia_post_au,,unknown,unknown
+ROSTREVOR,australia_post_au,,unknown,unknown
+OAKDEN,australia_post_au,,unknown,unknown
+BALHANNAH,australia_post_au,,unknown,BALHANNAH LPO
+CROYDON PARK,australia_post_au,,unknown,unknown
+HILLCREST,australia_post_au,,unknown,unknown
+NORTON SUMMIT,australia_post_au,,unknown,NORTON SUMMIT CPA
+CAMPBELLTOWN,australia_post_au,,unknown,unknown
+BLAIR ATHOL,australia_post_au,,unknown,unknown
+WOODFORDE,australia_post_au,,unknown,unknown
+ASHTON,australia_post_au,,unknown,unknown
+NORTHGATE,australia_post_au,,unknown,unknown
+HENLEY BEACH,australia_post_au,,unknown,unknown
+BEVERLEY,australia_post_au,,unknown,unknown
+CAREY GULLY,australia_post_au,,unknown,unknown
+KI KI,australia_post_au,,unknown,KI KI CPA
+HECTORVILLE,australia_post_au,,unknown,unknown
+MAGILL,australia_post_au,,unknown,unknown
+FINDON,australia_post_au,,unknown,Findon Parcel Locker
+PROSPECT WEST,australia_post_au,,unknown,unknown
+URAIDLA,australia_post_au,,unknown,unknown
+KLEMZIG,australia_post_au,,unknown,unknown
+GREENACRES,australia_post_au,,unknown,unknown
+LITTLEHAMPTON,australia_post_au,,unknown,unknown
+CLEARVIEW,australia_post_au,,unknown,unknown
+CROYDON PARK SOUTH,australia_post_au,,unknown,unknown
+TRANMERE NORTH,australia_post_au,,unknown,unknown
+TRANMERE,australia_post_au,,unknown,unknown
+FELIXSTOW,australia_post_au,,unknown,unknown
+MAGILL NORTH,australia_post_au,,unknown,unknown
+FULHAM GARDENS,australia_post_au,,unknown,unknown
+WEST CROYDON,australia_post_au,,unknown,unknown
+GLYNDE,australia_post_au,,unknown,unknown
+MYLOR,australia_post_au,,unknown,MYLOR LPO
+MAGILL SOUTH,australia_post_au,,unknown,unknown
+WELLAND,australia_post_au,,unknown,WELLAND LPO
+FLINDERS PARK,australia_post_au,,unknown,unknown
+PROSPECT,australia_post_au,,unknown,unknown
+SUMMERTOWN,australia_post_au,,unknown,unknown
+HAMPSTEAD GARDENS,australia_post_au,,unknown,unknown
+SEFTON PARK,australia_post_au,,unknown,unknown
+HENLEY BEACH SOUTH,australia_post_au,,unknown,unknown
+DEVON PARK,australia_post_au,,unknown,unknown
+RIDLEYTON,australia_post_au,,unknown,unknown
+KIDMAN PARK,australia_post_au,,unknown,unknown
+FIRLE,australia_post_au,,unknown,unknown
+VERDUN,australia_post_au,,unknown,VERDUN CPA
+MOUNT BARKER,australia_post_au,,unknown,unknown
+PAYNEHAM,australia_post_au,,unknown,unknown
+BROADVIEW,australia_post_au,,unknown,unknown
+HAHNDORF,australia_post_au,,unknown,unknown
+VALE PARK,australia_post_au,,unknown,unknown
+MANNINGHAM,australia_post_au,,unknown,unknown
+ROSSLYN PARK,australia_post_au,,unknown,unknown
+MT BARKER,australia_post_au,,unknown,unknown
+ALLENBY GARDENS,australia_post_au,,unknown,unknown
+BROMPTON,australia_post_au,,unknown,unknown
+MARDEN,australia_post_au,,unknown,unknown
+KENSINGTON GARDENS,australia_post_au,,unknown,unknown
+WEST HINDMARSH,australia_post_au,,unknown,unknown
+FULHAM,australia_post_au,,unknown,unknown
+ST MORRIS,australia_post_au,,unknown,unknown
+LOCKLEYS,australia_post_au,,unknown,unknown
+HINDMARSH,australia_post_au,,unknown,unknown
+PROSPECT EAST,australia_post_au,,unknown,unknown
+WEST BEACH,australia_post_au,,unknown,unknown
+WALKERVILLE,australia_post_au,,unknown,WALKERVILLE LPO
+COLLINSWOOD,australia_post_au,,unknown,unknown
+PAYNEHAM SOUTH,australia_post_au,,unknown,unknown
+KENSINGTON PARK,australia_post_au,,unknown,unknown
+BOWDEN,australia_post_au,,unknown,unknown
+UNDERDALE,australia_post_au,,unknown,unknown
+TORRENSVILLE,australia_post_au,,unknown,unknown
+STONYFELL,australia_post_au,,unknown,unknown
+MAYLANDS,australia_post_au,,unknown,unknown
+GREENHILL,australia_post_au,,unknown,unknown
+ROYSTON PARK,australia_post_au,,unknown,unknown
+MEDINDIE,australia_post_au,,unknown,unknown
+BROOKLYN PARK,australia_post_au,,unknown,unknown
+ERINDALE,australia_post_au,,unknown,unknown
+BEULAH PARK,australia_post_au,,unknown,unknown
+ST PETERS,australia_post_au,,unknown,unknown
+NORTH ADELAIDE,australia_post_au,,unknown,unknown
+THEBARTON,australia_post_au,,unknown,unknown
+PICCADILLY,australia_post_au,,unknown,unknown
+BRIDGEWATER,australia_post_au,,unknown,BRIDGEWATER LPO
+BURNSIDE,australia_post_au,,unknown,unknown
+STEPNEY,australia_post_au,,unknown,unknown
+LEABROOK,australia_post_au,,unknown,unknown
+NORWOOD,australia_post_au,,unknown,NORWOOD SOUTH LPO
+CAWANDILLA,australia_post_au,,unknown,unknown
+MILE END,australia_post_au,,unknown,unknown
+KENSINGTON,australia_post_au,,unknown,unknown
+ADELAIDE AIRPORT,australia_post_au,,unknown,unknown
+GILBERTON,australia_post_au,,unknown,unknown
+WISTOW,australia_post_au,,unknown,WISTOW CPA
+WEST RICHMOND,australia_post_au,,unknown,unknown
+MARRYATVILLE,australia_post_au,,unknown,unknown
+STIRLING,australia_post_au,,unknown,unknown
+HILTON,australia_post_au,,unknown,unknown
+ADELAIDE,australia_post_au,,unknown,unknown
+COLLEGE PARK,australia_post_au,,unknown,unknown
+TOORAK GARDENS,australia_post_au,,unknown,unknown
+ALDGATE,australia_post_au,,unknown,ALDGATE LPO
+TUSMORE,australia_post_au,,unknown,unknown
+HAZELWOOD PARK,australia_post_au,,unknown,unknown
+KENT TOWN,australia_post_au,,unknown,Kent Town Parcel Locker
+NORWOOD SOUTH,australia_post_au,,unknown,unknown
+ROSE PARK,australia_post_au,,unknown,unknown
+CRAFERS,australia_post_au,,unknown,unknown
+BEAUMONT,australia_post_au,,unknown,unknown
+MILE END SOUTH,australia_post_au,,unknown,unknown
+LINDEN PARK,australia_post_au,,unknown,unknown
+GLENSIDE,australia_post_au,,unknown,unknown
+RICHMOND,australia_post_au,,unknown,unknown
+DULWICH,australia_post_au,,unknown,unknown
+GLENELG NORTH,australia_post_au,,unknown,unknown
+ST GEORGES,australia_post_au,,unknown,unknown
+NETLEY,australia_post_au,,unknown,unknown
+NORTH PLYMPTON,australia_post_au,,unknown,unknown
+MARLESTON,australia_post_au,,unknown,unknown
+KESWICK,australia_post_au,,unknown,unknown
+GLENUNGA,australia_post_au,,unknown,unknown
+GLEN OSMOND,australia_post_au,,unknown,unknown
+ASHFORD,australia_post_au,,unknown,unknown
+WILIAMSTOWN,australia_post_au,,unknown,unknown
+EASTWOOD,australia_post_au,,unknown,unknown
+CAMDEN PARK,australia_post_au,,unknown,unknown
+WAYVILLE,australia_post_au,,unknown,unknown
+NOVAR GARDENS,australia_post_au,,unknown,unknown
+FREWVILLE,australia_post_au,,unknown,unknown
+FULLARTON,australia_post_au,,unknown,unknown
+FORESTVILLE,australia_post_au,,unknown,unknown
+GLENELG JETTY ROAD,australia_post_au,,unknown,unknown
+EVERARD PARK,australia_post_au,,unknown,unknown
+HEATHFIELD,australia_post_au,,unknown,unknown
+GLENELG,australia_post_au,,unknown,unknown
+GLANDORE,australia_post_au,,unknown,unknown
+PLYMPTON,australia_post_au,,unknown,unknown
+GLENELG EAST,australia_post_au,,unknown,unknown
+UNLEY,australia_post_au,,unknown,unknown
+MYRTLE BANK,australia_post_au,,unknown,unknown
+PARKSIDE,australia_post_au,,unknown,unknown
+URRBRAE,australia_post_au,,unknown,unknown
+GLENGOWRIE,australia_post_au,,unknown,unknown
+GOODWOOD,australia_post_au,,unknown,unknown
+BLACK FOREST,australia_post_au,,unknown,BLACK FOREST LPO
+GLENELG SOUTH,australia_post_au,,unknown,GLENELG SOUTH LPO
+SOUTH PLYMPTON,australia_post_au,,unknown,SOUTH PLYMPTON LPO
+CRAFERS WEST,australia_post_au,,unknown,unknown
+PLYMPTON PARK,australia_post_au,,unknown,unknown
+HIGHGATE,australia_post_au,,unknown,unknown
+CLARENCE PARK,australia_post_au,,unknown,unknown
+LONGWOOD,australia_post_au,,unknown,unknown
+SOMERTON PARK,australia_post_au,,unknown,unknown
+EDWARDSTOWN,australia_post_au,,unknown,unknown
+HYDE PARK,australia_post_au,,unknown,unknown
+MALVERN,australia_post_au,,unknown,unknown
+MILLSWOOD,australia_post_au,,unknown,unknown
+CLARENCE GARDENS,australia_post_au,,unknown,unknown
+NETHERBY,australia_post_au,,unknown,unknown
+MORPHETTVILLE,australia_post_au,,unknown,unknown
+KINGSWOOD,australia_post_au,,unknown,unknown
+UNLEY PARK,australia_post_au,,unknown,unknown
+ASCOT PARK,australia_post_au,,unknown,unknown
+CUMBERLAND PARK,australia_post_au,,unknown,unknown
+ECHUNGA,australia_post_au,,unknown,ECHUNGA LPO
+KINGS PARK,australia_post_au,,unknown,unknown
+WARRADALE,australia_post_au,,unknown,unknown
+FLAXLEY,australia_post_au,,unknown,FLAXLEY CPA
+NORTH BRIGHTON,australia_post_au,,unknown,unknown
+MELROSE PARK,australia_post_au,,unknown,MELROSE PARK DC
+MITCHAM,australia_post_au,,unknown,unknown
+WESTBOURNE PARK,australia_post_au,,unknown,unknown
+PARK HOLME,australia_post_au,,unknown,unknown
+HOVE,australia_post_au,,unknown,unknown
+OAKLANDS PARK,australia_post_au,,unknown,unknown
+HAWTHORN,australia_post_au,,unknown,unknown
+COONALPYN,australia_post_au,,unknown,unknown
+DAW PARK,australia_post_au,,unknown,unknown
+MITCHELL PARK,australia_post_au,,unknown,unknown
+TORRENS PARK,australia_post_au,,unknown,unknown
+UPPER STURT,australia_post_au,,unknown,UPPER STURT CPA
+BRIGHTON,australia_post_au,,unknown,unknown
+COLONEL LIGHT GARDENS,australia_post_au,,unknown,unknown
+LOWER MITCHAM,australia_post_au,,unknown,unknown
+CLOVELLY PARK,australia_post_au,,unknown,unknown
+BELAIR,australia_post_au,,unknown,unknown
+MARION,australia_post_au,,unknown,unknown
+ST MARYS,australia_post_au,,unknown,unknown
+GLENALTA,australia_post_au,,unknown,unknown
+CLAPHAM,australia_post_au,,unknown,unknown
+SOUTH BRIGHTON,australia_post_au,,unknown,unknown
+SEACLIFF,australia_post_au,,unknown,unknown
+PASADENA,australia_post_au,,unknown,unknown
+LANGHORNE CREEK,australia_post_au,,unknown,LANGHORNE CREEK LPO
+SEACLIFF PARK,australia_post_au,,unknown,SEACLIFF PARK LPO
+DOVER GARDENS,australia_post_au,,unknown,unknown
+PANORAMA,australia_post_au,,unknown,unknown
+STURT,australia_post_au,,unknown,unknown
+SEAVIEW DOWNS,australia_post_au,,unknown,unknown
+MARINO,australia_post_au,,unknown,unknown
+SEACOMBE HEIGHTS,australia_post_au,,unknown,unknown
+EDEN HILLS,australia_post_au,,unknown,unknown
+BEDFORD PARK,australia_post_au,,unknown,FLINDERS UNIVERSITY LPO
+BLACKWOOD,australia_post_au,,unknown,unknown
+MACCLESFIELD,australia_post_au,,unknown,MACCLESFIELD LPO
+DARLINGTON,australia_post_au,,unknown,unknown
+HAWTHORNDENE,australia_post_au,,unknown,unknown
+BELLEVUE HEIGHTS,australia_post_au,,unknown,unknown
+HALLETT COVE,australia_post_au,,unknown,unknown
+FLAGSTAFF HILL,australia_post_au,,unknown,unknown
+TROTT PARK,australia_post_au,,unknown,unknown
+O'HALLORAN HILL,australia_post_au,,unknown,O'HALLORAN HILL LPO
+CRAIGBURN FARM,australia_post_au,,unknown,unknown
+SHEIDOW PARK,australia_post_au,,unknown,unknown
+COROMANDEL VALLEY,australia_post_au,,unknown,unknown
+HAPPY VALLEY,australia_post_au,,unknown,unknown
+WOODLEA,australia_post_au,,unknown,unknown
+OSULLIVAN BEACH,australia_post_au,,unknown,unknown
+O'SULLIVAN BEACH,australia_post_au,,unknown,O'SULLIVAN BEACH LPO
+REYNELLA,australia_post_au,,unknown,unknown
+OLD REYNELLA,australia_post_au,,unknown,unknown
+REYNELLA EAST,australia_post_au,,unknown,unknown
+LONSDALE,australia_post_au,,unknown,LONSDALE DC
+STRATHALBYN,australia_post_au,,unknown,STRATHALBYN POST SHOP
+OHALLORAN HILL,australia_post_au,,unknown,unknown
+MORPHETT VALE,australia_post_au,,unknown,unknown
+ABERFOYLE PARK,australia_post_au,,unknown,ABERFOYLE PARK LPO
+CHRISTIES BEACH,australia_post_au,,unknown,unknown
+FINNISS,australia_post_au,,unknown,FINNISS CPA
+CHRISTIE DOWNS,australia_post_au,,unknown,unknown
+WOODCROFT,australia_post_au,,unknown,unknown
+MEADOWS,australia_post_au,,unknown,unknown
+PORT NOARLUNGA,australia_post_au,,unknown,unknown
+NOARLUNGA CENTRE,australia_post_au,,unknown,NOARLUNGA CENTRE POST SHOP
+HACKHAM,australia_post_au,,unknown,HACKHAM CPA
+HACKHAM WEST,australia_post_au,,unknown,unknown
+ONKAPARINGA HILLS,australia_post_au,,unknown,unknown
+PORT NOARLUNGA SOUTH,australia_post_au,,unknown,unknown
+SEAFORD MEADOWS,australia_post_au,,unknown,unknown
+CLARENDON,australia_post_au,,unknown,CLARENDON LPO
+KANGARILLA,australia_post_au,,unknown,KANGARILLA LPO
+SEAFORD,australia_post_au,,unknown,Seaford Post Shop Parcel Locker 
+OLD NOARLUNGA,australia_post_au,,unknown,unknown
+MOANA,australia_post_au,,unknown,unknown
+TINTINARA,australia_post_au,,unknown,unknown
+SEAFORD RISE,australia_post_au,,unknown,unknown
+MASLIN BEACH,australia_post_au,,unknown,unknown
+MCLAREN VALE,australia_post_au,,unknown,unknown
+MCLAREN FLAT,australia_post_au,,unknown,unknown
+PROSPECT HILL,australia_post_au,,unknown,unknown
+PORT WILLUNGA,australia_post_au,,unknown,unknown
+ALDINGA BEACH,australia_post_au,,unknown,unknown
+WILLUNGA,australia_post_au,,unknown,unknown
+NARRUNG,australia_post_au,,unknown,RAUKKAN CPA
+SELLICKS BEACH,australia_post_au,,unknown,SELLICKS BEACH LPO
+KINGSCOTE,australia_post_au,,unknown,unknown
+MILANG,australia_post_au,,unknown,MILANG LPO
+PARNDANA,australia_post_au,,unknown,PARNDANA LPO
+NORMANVILLE,australia_post_au,,unknown,unknown
+ASHBOURNE,australia_post_au,,unknown,ASHBOURNE CPA
+MYPONGA,australia_post_au,,unknown,unknown
+YANKALILLA,australia_post_au,,unknown,YANKALILLA LPO
+SECOND VALLEY,australia_post_au,,unknown,SECOND VALLEY CPA
+MOUNT COMPASS,australia_post_au,,unknown,MOUNT COMPASS LPO
+CAPE JERVIS,australia_post_au,,unknown,unknown
+DELAMERE,australia_post_au,,unknown,DELAMERE LPO
+INMAN VALLEY,australia_post_au,,unknown,INMAN VALLEY CPA
+MENINGIE,australia_post_au,,unknown,MENINGIE LPO
+AMERICAN RIVER,australia_post_au,,unknown,unknown
+PENNESHAW,australia_post_au,,unknown,unknown
+VIVONNE BAY,australia_post_au,,unknown,VIVONNE BAY CPA
+KEITH,australia_post_au,,unknown,unknown
+CLAYTON BAY,australia_post_au,,unknown,CLAYTON BAY CPA
+HAYBOROUGH,australia_post_au,,unknown,unknown
+MCCRACKEN,australia_post_au,,unknown,unknown
+VICTOR HARBOR,australia_post_au,,unknown,unknown
+CHITON,australia_post_au,,unknown,unknown
+MIDDLETON,australia_post_au,,unknown,unknown
+ENCOUNTER BAY,australia_post_au,,unknown,unknown
+HINDMARSH ISLAND,australia_post_au,,unknown,HINDMARSH ISLAND CPA
+GOOLWA,australia_post_au,,unknown,unknown
+PORT ELLIOT,australia_post_au,,unknown,unknown
+BORDERTOWN,australia_post_au,,unknown,unknown
+WOLSELEY,australia_post_au,,unknown,unknown
+MUNDULLA,australia_post_au,,unknown,MUNDULLA LPO
+SALT CREEK,australia_post_au,,unknown,SALT CREEK CPA
+PADTHAWAY,australia_post_au,,unknown,unknown
+FRANCES,australia_post_au,,unknown,unknown
+KYBYBOLITE,australia_post_au,,unknown,KYBYBOLITE CPA
+HYNAM,australia_post_au,,unknown,unknown
+NARACOORTE,australia_post_au,,unknown,unknown
+AVENUE RANGE,australia_post_au,,unknown,AVENUE RANGE CPA
+KINGSTON SE,australia_post_au,,unknown,unknown
+LUCINDALE,australia_post_au,,unknown,LUCINDALE LPO
+COONAWARRA,australia_post_au,,unknown,COONAWARRA LPO
+PENOLA,australia_post_au,,unknown,unknown
+ROBE,australia_post_au,,unknown,unknown
+NANGWARRY,australia_post_au,,unknown,unknown
+KALANGADOO,australia_post_au,,unknown,KALANGADOO LPO
+MOUNT BURR,australia_post_au,,unknown,MOUNT BURR CPA
+TARPEENA,australia_post_au,,unknown,unknown
+BEACHPORT,australia_post_au,,unknown,BEACHPORT LPO
+MILLICENT,australia_post_au,,unknown,unknown
+RENDELSHAM,australia_post_au,,unknown,unknown
+SOUTHEND,australia_post_au,,unknown,SOUTHEND LPO
+GLENCOE,australia_post_au,,unknown,GLENCOE LPO
+TANTANOOLA,australia_post_au,,unknown,TANTANOOLA LPO
+MOUNT GAMBIER,australia_post_au,,unknown,unknown
+MOUNT GAMBIER WEST,australia_post_au,,unknown,unknown
+MOUNT GAMBIER EAST,australia_post_au,,unknown,unknown
+MOORAK,australia_post_au,,unknown,MOORAK CPA
+KONGORONG,australia_post_au,,unknown,unknown
+CARPENTER ROCKS,australia_post_au,,unknown,CARPENTER ROCKS CPA
+DONOVANS,australia_post_au,,unknown,DONOVANS CPA
+ALLENDALE EAST,australia_post_au,,unknown,ALLENDALE EAST CPA
+ALLANDALE EAST,australia_post_au,,unknown,unknown
+PORT MACDONNELL,australia_post_au,,unknown,PORT MACDONNELL LPO
+PT MACDONNELL,australia_post_au,,unknown,unknown
+MOUNT GAMBIER,aveda,,unknown,LA AESTHETICS PTY LTD
+Hectorville,baby_bunting,46 Glynburn Road,unknown,Hectorville
+Melrose Park,baby_bunting,Melrose Plaza 1031-1037 South Road Melrose Park SA,unknown,Melrose Park
+Gepps Cross,baby_bunting,Shop 10 750 Main North Road Gepps Cross SA,unknown,Gepps Cross
+Richmond,baby_bunting,Shop 10 340 South Road Richmond SA,unknown,Mile End
+Smithfield,baby_bunting,600 Main N Road Smithfield SA,unknown,Munno Para
+Torrens Park,bakers_delight,,unknown,Bakers Delight Mitcham
+Port Adelaide,bakers_delight,,unknown,Bakers Delight Port Adelaide
+Seaford,bakers_delight,,unknown,Bakers Delight Seaford SA
+unknown,bakers_delight,,unknown,Bakers Delight Goolwa
+Newton,bakers_delight,,unknown,Bakers Delight Newton &#8211; Gorge Road
+Cheltenham,bakers_delight,,unknown,Bakers Delight St Clair
+Brighton,bakers_delight,,unknown,Bakers Delight Brighton Central
+Marryatville,bakers_delight,,unknown,Bakers Delight Marryatville
+Mawson Lakes,bakers_delight,,unknown,Bakers Delight Mawson Lakes
+Happy Valley,bakers_delight,,unknown,Bakers Delight Happy Valley
+Morphett Vale,bakers_delight,,unknown,Bakers Delight Southgate &#8211; SA
+Mount Gambier,bakers_delight,,unknown,Bakers Delight Mount Gambier Compton Street
+St Agnes,bakers_delight,,unknown,Bakers Delight St Agnes
+Park Holme,bakers_delight,,unknown,Bakers Delight Park Holme
+Hallett Cove,bakers_delight,,unknown,Bakers Delight Hallett Cove
+Renmark,bakers_delight,,unknown,Bakers Delight Renmark
+Welland,bakers_delight,,unknown,Bakers Delight Welland Plaza
+Port Pirie,bakers_delight,,unknown,Bakers Delight Port Pirie
+Port Lincoln,bakers_delight,,unknown,Bakers Delight Port Lincoln
+Murray Bridge,bakers_delight,,unknown,Bakers Delight Murray Bridge Marketplace
+Aberfoyle Park,bakers_delight,,unknown,Bakers Delight The Hub
+Kurralta Park,bakers_delight,,unknown,Bakers Delight Kurralta Park
+North Adelaide,bakers_delight,,unknown,Bakers Delight North Adelaide
+Hilton,bakers_delight,,unknown,Bakers Delight Hilton
+West Lakes,bakers_delight,,unknown,Bakers Delight West Lakes &#8211; SA
+Fulham Gardens,bakers_delight,,unknown,Bakers Delight Fulham Gardens
+Smithfield,bakers_delight,,unknown,Bakers Delight Munno Para
+Findon,bakers_delight,,unknown,Bakers Delight Findon
+Norwood,bakers_delight,,unknown,Bakers Delight Norwood
+Mount Barker,bakers_delight,,unknown,Bakers Delight Mount Barker
+Whyalla Norrie,bakers_delight,,unknown,Bakers Delight Whyalla
+Stirling,bakers_delight,,unknown,Bakers Delight Stirling
+Glenside,bakers_delight,,unknown,Bakers Delight Burnside
+Victor Harbor,bakers_delight,,unknown,Bakers Delight Victor Harbor
+Noarlunga Centre,bakers_delight,,unknown,Bakers Delight Colonnades
+Unley,bakers_delight,,unknown,Bakers Delight Unley
+Gawler,bakers_delight,,unknown,Bakers Delight Gawler
+Glenelg,bakers_delight,,unknown,Bakers Delight Glenelg
+Oaklands Park,bakers_delight,,unknown,Bakers Delight Marion
+Blackwood,bakers_delight,,unknown,Bakers Delight Blackwood
+Modbury,bakers_delight,,unknown,Bakers Delight Tea Tree Plaza
+Smithfield,barbeques_galore_au,,unknown,Munno Para
+Mile End,barbeques_galore_au,,unknown,Mile End
+Marion,barbeques_galore_au,,unknown,Marion
+Gepps Cross,barbeques_galore_au,,unknown,Gepps Cross
+Gawler South,battery_world_au,,unknown,Battery World Gawler
+Glynde,battery_world_au,,unknown,Battery World Glynde
+Hilton,battery_world_au,,unknown,Battery World Hilton
+Seacombe Gardens,battery_world_au,,unknown,Battery World Marion
+Melrose Park,battery_world_au,,unknown,Battery World Melrose Park
+Morphett Vale,battery_world_au,,unknown,Battery World Morphett Vale
+Littlehampton,battery_world_au,,unknown,Battery World Mount Barker
+Parafield,battery_world_au,,unknown,Battery World Parafield
+Hendon,battery_world_au,,unknown,Battery World Port Adelaide
+Arndale,best_and_less_au,Centro Arndale 470 Torrens Rd Arndale South Australia 5009,unknown,Arndale
+Colonnades,best_and_less_au,Centro Colonnades Cnr Beach Rd & Goldsmith Dr Colonnades South Australia 5168,unknown,Colonnades
+Elizabeth,best_and_less_au,Elizabeth Shopping Centre 50 Elizabeth Way Elizabeth South Australia 5112,unknown,Elizabeth
+Fulham Gardens,best_and_less_au,445/457 Tapleys Hill Rd Fulham Gardens South Australia 5024,unknown,Fulham Gardens
+Salisbury Downs,best_and_less_au,Hollywood Plaza Winzor St & Spains Road Salisbury Downs South Australia 5108,unknown,Hollywood
+Ingle Farm,best_and_less_au,Ingle Farm Shopping Centre Cnr Montague & Walkleys Rd Ingle Farm South Australia 5098,unknown,Ingle Farm
+Oaklands Park ,best_and_less_au,Westfield Marion 297 Diagonal Rd Oaklands Park  South Australia 5046,unknown,Marion
+Mt Gambier,best_and_less_au,Shop M2 Centro Mount Gambier  21 Helen Street Mt Gambier South Australia 5290,unknown,Mt Gambier
+Smithfield,best_and_less_au,Shop 55 600 Main North Road Smithfield South Australia 5114,unknown,Munno Para
+Seaford,best_and_less_au,108 Commercial Road Seaford South Australia 5169,unknown,Seaford
+Sefton,best_and_less_au,Shop MM1 231 Main North Rd Sefton South Australia 5083,unknown,Sefton Plaza
+Adelaide Airport,betts_au,,unknown,BRAND DIRECT SA - Selected Betts Kids School Shoes
+Elizabeth,betts_au,,unknown,BETTS ELIZABETH - Selected Betts Kids School Shoes
+West Lakes,betts_au,,unknown,BETTS LAKES - Selected Betts Kids School Shoes
+Oaklands Park,betts_au,,unknown,AIRFLEX MARION - Selected Betts Kids School Shoes
+Adelaide,betts_au,,unknown,BETTS RUNDLE MALL - Selected Betts Kids School Shoes
+Modbury,betts_au,,unknown,BETTS MODBURY
+Oaklands Park,billini_au,,unknown,Billini Marion
+Modbury,billini_au,,unknown,Billini Tea Tree Plaza
+Adelaide,bmw_group,,unknown,Adelaide BMW
+Medindie,bmw_group,,unknown,Medindie BMW
+Glenelg South,bmw_group,,unknown,Glenelg BMW
+Melrose Park,bmw_group,,unknown,Moto Adelaide
+unknown,bottlemart_au,,unknown,Rob Roy Hotel
+Mile End,bottlemart_au,,unknown,Mile End Hotel
+Willunga,bottlemart_au,,unknown,Alma Hotel
+Parkside,bottlemart_au,,unknown,Unley Hotel
+Stepney,bottlemart_au,,unknown,Avenues Hotel
+Coromandel Valley,bottlemart_au,,unknown,Coromandel Valley Duck Inn
+Kingswood,bp,,unknown,BP OTR KINGSWOOD
+CLARENCE PARK,bp,,unknown,BP CLARENCE PARK
+FULLARTON,bp,,unknown,BP OTR FULLARTON
+UNLEY,bp,,unknown,BP OTR UNLEY
+WAYVILLE,bp,,unknown,BP OTR WAYVILLE
+GLENUNGA,bp,,unknown,BP OTR GLENUNGA
+Glen Osmond,bp,,unknown,OTR GLEN OSMOND
+Glenside,bp,,unknown,OTR GLENSIDE
+BELAIR,bp,,unknown,BP OTR BELAIR
+GLANDORE,bp,,unknown,BP OTR GLANDORE
+ADELAIDE,bp,,unknown,BP OTR WEST TERRACE
+KURRALTA PARK,bp,,unknown,BP OTR KURRALTA PARK
+PASADENA,bp,,unknown,BP OTR PASADENA
+CLOVELLY PARK,bp,,unknown,OTR CLOVELLY PARK
+ST MARYS,bp,,unknown,BP OTR ST MARYS
+EDWARDSTOWN,bp,,unknown,AMPM EDWARDSTOWN
+LINDEN PARK,bp,,unknown,BP OTR LINDEN PARK
+PLYMPTON,bp,,unknown,BP OTR PLYMPTON
+HILTON,bp,,unknown,BP OTR HILTON
+NORWOOD,bp,,unknown,BP NORWOOD
+HACKNEY,bp,,unknown,BP OTR HACKNEY
+Kent Town,bp,,unknown,OTR KENT TOWN
+BLACKWOOD,bp,,unknown,BP BLACKWOOD
+MILE END,bp,,unknown,AMPM MILE END
+HAZELWOOD PARK,bp,,unknown,BP OTR HAZELWOOD PARK
+KENSINGTON,bp,,unknown,BP OTR KENSINGTON
+MARRYATVILLE,bp,,unknown,BP OTR MARRYATVILLE
+ST PETERS,bp,,unknown,AMPM ST PETERS
+MITCHELL PARK,bp,,unknown,BP MITCHELL PARK
+STEPNEY,bp,,unknown,BP OTR STEPNEY
+Marion,bp,,unknown,BP OTR MARION
+TRINITY GARDENS,bp,,unknown,BP OTR TRINITY GARDENS
+ERINDALE,bp,,unknown,BP OTR ERINDALE
+UNDERDALE,bp,,unknown,BP OTR UNDERDALE
+Kensington Gardens,bp,,unknown,BP OTR KENSINGTON GARDENS
+EVANDALE,bp,,unknown,BP EVANDALE
+THORNGATE,bp,,unknown,BP OTR THORNGATE
+GLENGOWRIE,bp,,unknown,BP OTR GLENGOWRIE
+DARLINGTON,bp,,unknown,BP DARLINGTON
+BROMPTON,bp,,unknown,BP BROMPTON
+TRANMERE,bp,,unknown,BP TRANMERE
+PROSPECT,bp,,unknown,BP OTR PROSPECT
+FLINDERS PARK,bp,,unknown,BP OTR FLINDERS PARK
+WALKERVILLE,bp,,unknown,BP OTR WALKERVILLE
+Welland,bp,,unknown,BP OTR WELLAND
+RIDLEYTON,bp,,unknown,BP OTR RIDLEYTON
+WEST CROYDON,bp,,unknown,BP OTR WEST CROYDON
+VICTOR HARBOR,bp,,unknown,BP OTR VICTOR HARBOR
+GOOLWA,bp,,unknown,BP GOOLWA
+MOUNT COMPASS,bp,,unknown,BP MT COMPASS
+Aldinga,bp,,unknown,BP OTR ALDINGA
+STRATHALBYN,bp,,unknown,AMPM STRATHALBYN
+Seaford,bp,,unknown,BP OTR SEAFORD
+OLD NOARLUNGA,bp,,unknown,BP OTR NOARLUNGA
+CHRISTIES BEACH,bp,,unknown,BP OTR CHRISTIES BEACH GULFVIEW RD
+MORPHETT VALE,bp,,unknown,BP OTR MORPHETT VALE INBOUND
+Morphett Vale,bp,,unknown,OTR MORPHETT VALE OUTBOUND
+Christies Beach,bp,,unknown,BP OTR CHRISTIES BEACH DYSON RD
+REYNELLA,bp,,unknown,BP REYNELLA
+MOUNT GAMBIER,bp,,unknown,BP MT GAMBIER WEST
+ABERFOYLE PARK,bp,,unknown,BP OTR ABERFOYLE PARK
+Sheidow Park,bp,,unknown,BP OTR SHEIDOW PARK
+O'HALLORAN HILL,bp,,unknown,BP OTR O'HALLORAN HILL
+MOUNT BARKER,bp,,unknown,AMPM STIRLING
+MT BARKER,bp,,unknown,OTR MOUNT BARKER ADELAIDE ROAD
+Seaview Downs,bp,,unknown,BP OTR SEAVIEW DOWNS
+LITTLEHAMPTON,bp,,unknown,BP OTR LITTLEHAMPTON
+BRIGHTON,bp,,unknown,BP OTR BRIGHTON
+BRIDGEWATER,bp,,unknown,BP SOUTH MOOREBANK
+CRAFERS,bp,,unknown,AMPM CRAFERS
+GLENELG,bp,,unknown,BP OTR GLENELG EAST
+BALHANNAH,bp,,unknown,BP OTR BALHANNAH
+CAVAN,bp,,unknown,BP OTR CAVAN INBOUND
+DRY CREEK,bp,,unknown,BP OTR DRY CREEK
+GEPPS CROSS,bp,,unknown,BP OTR GEPPS CROSS
+POORAKA,bp,,unknown,BP OTR POORAKA
+WINGFIELD,bp,,unknown,BP WINGFIELD
+BLAIR ATHOL,bp,,unknown,BP BLAIR ATHOL
+KILBURN,bp,,unknown,BP OTR KILBURN
+MAWSON LAKES,bp,,unknown,AMPM MAWSON LAKES
+ANGLE PARK,bp,,unknown,BP ANGLE PARK
+BROADVIEW,bp,,unknown,BP OTR BROADVIEW
+Para Hills,bp,,unknown,BP OTR PARA HILLS
+PARAFIELD GARDENS,bp,,unknown,OTR PARAFIELD GARDENS
+PARA HILLS WEST,bp,,unknown,BP OTR PARA HILLS WEST
+CROYDON PARK,bp,,unknown,OTR CROYDON PARK
+Hillcrest,bp,,unknown,OTR GREENACRES
+HILLCREST,bp,,unknown,BP OTR HILLCREST
+Parafield,bp,,unknown,BP OTR PARAFIELD
+Salisbury Downs,bp,,unknown,BP SALISBURY DOWNS
+HOLDEN HILL,bp,,unknown,BP OTR HOLDEN HILL NORTH
+WOODVILLE PARK,bp,,unknown,BP WOODVILLE PARK MOTORS
+ROSEWATER,bp,,unknown,BP OTR ROSEWATER
+BOLIVAR,bp,,unknown,BP OTR PORT WAKEFIELD ROAD
+MODBURY,bp,,unknown,BP OTR MODBURY
+PARALOWIE,bp,,unknown,BP OTR PARALOWIE
+WOODVILLE WEST,bp,,unknown,BP OTR WOODVILLE WEST
+DERNANCOURT,bp,,unknown,BP DERNANCOURT
+ALBERTON,bp,,unknown,BP OTR ALBERTON
+NEWTON,bp,,unknown,BP OTR NEWTON
+SALISBURY,bp,,unknown,BP OTR SALISBURY (COMMERCIAL RD)
+SALISBURY NORTH,bp,,unknown,BP OTR SALISBURY NORTH
+NANGWARRY,bp,,unknown,BP NANGWARRY OPT
+MT GAMBIER,bp,,unknown,BP OTR MOUNT GAMBIER
+SUTTONTOWN,bp,,unknown,BP OPT MOUNT GAMBIER
+NARACOORTE,bp,,unknown,BP OTR NARACOORTE
+CARPENTER ROCKS,bp,,unknown,BP OPT CARPENTER ROCKS
+LUCINDALE,bp,,unknown,BP LUCINDALE (GUM AVE)
+PADTHAWAY,bp,,unknown,BP PADTHAWAY (12 MEMORIAL DR)
+BORDERTOWN,bp,,unknown,BP OTR BORDERTOWN
+KINGSTON SE,bp,,unknown,BP OTR KINGSTON (SA)
+KEITH,bp,,unknown,BP OPT KEITH
+PORT WAKEFIELD,bp,,unknown,BP PORT WAKEFIELD TRUCKSTOP
+ARDROSSAN,bp,,unknown,BP ARDROSSAN
+KADINA,bp,,unknown,BP OTR KADINA
+MAITLAND,bp,,unknown,BP MAITLAND (PORT VICTORIA RD)
+CLARE,bp,,unknown,BP OTR CLARE
+ROSEWORTHY,bp,,unknown,AMPM ROSEWORTHY
+Angle Vale,bp,,unknown,BP OTR ANGLE VALE
+WILLASTON,bp,,unknown,AMPM WILLASTON
+Evanston Gardens,bp,,unknown,BP OTR EVANSTON GARDENS
+GAWLER,bp,,unknown,AMPM GAWLER
+KAPUNDA,bp,,unknown,BP OTR KAPUNDA
+Evanston,bp,,unknown,BP OTR EVANSTON
+MUNNO PARA,bp,,unknown,BP OTR MUNNO PARA WEST
+DAVOREN PARK,bp,,unknown,BP OTR DAVOREN PARK
+SMITHFIELD,bp,,unknown,OTR SMITHFIELD
+Elizabeth,bp,,unknown,AMPM ELIZABETH
+ELIZABETH,bp,,unknown,BP OTR ELIZABETH
+LARGS NORTH,bp,,unknown,DPT LARGS NORTH & WAREHOUSE
+WOODVILLE SOUTH,bp,,unknown,BP OTR WOODVILLE SOUTH
+ELIZABETH SOUTH,bp,,unknown,BP OTR ELIZABETH SOUTH
+LARGS BAY,bp,,unknown,BP OTR LARGS BAY MILITARY ROAD
+Largs Bay,bp,,unknown,BP OTR LARGS BAY VICTORIA ROAD
+Hillbank,bp,,unknown,OTR HILLBANK
+PETERHEAD,bp,,unknown,BP OTR PETERHEAD
+SEATON,bp,,unknown,BP OTR SEATON
+TAILEM BEND,bp,,unknown,BP OTR MOTORSPORT PARK
+MURRAY BRIDGE,bp,,unknown,BP OTR MURRAY BRIDGE ADELAIDE ROAD
+MURRAY BRIDGE EAST,bp,,unknown,BP OTR MURRAY BRIDGE EASTSIDE
+MANNUM,bp,,unknown,BP OTR MANNUM
+ATHELSTONE,bp,,unknown,BP OTR ATHELSTONE
+HECTORVILLE,bp,,unknown,BP COLONIAL (SA)
+SURRREY DOWNS,bp,,unknown,BP OTR SURREY DOWNS
+GOLDEN GROVE,bp,,unknown,BP OTR GOLDEN GROVE
+TANUNDA,bp,,unknown,BP OTR TANUNDA
+GLENDAMBO,bp,,unknown,AMPM GLENDAMBO TRAVELSTOP OPT
+ROXBY DOWNS,bp,,unknown,AMPM ROXBY DOWNS
+CEDUNA,bp,,unknown,OTR MOZIES
+KIMBA,bp,,unknown,BP OPT KIMBA
+PORT AUGUSTA,bp,,unknown,BP OTR PORT AUGUSTA
+HAWKER,bp,,unknown,BP OPT HAWKER
+WHYALLA,bp,,unknown,BP OTR WHYALLA PLAYFORD
+PORT PIRIE,bp,,unknown,BP PORT PIRIE (SENATE RD)
+WINTINNA,bp,,unknown,BP CADNEY ROADHOUSE
+CADNEY PARK,bp,,unknown,BP CADNEY PARK
+TEROWIE,bp,,unknown,BP OPT TEROWIE ROADHOUSE and MOTEL
+YUNTA,bp,,unknown,BP YUNTA
+PORT LINCOLN,bp,,unknown,BP OTR PORT LINCOLN
+BURRA,bp,,unknown,BP BURRA
+EDITHBURGH,bp,,unknown,BP EDITHBURGH MOTORS
+RENMARK,bp,,unknown,BP OTR RENMARK
+BERRI,bp,,unknown,BP OTR BERRI
+LOXTON,bp,,unknown,BP OTR LOXTON ROUNDABOUT
+BARMERA,bp,,unknown,BP LAKE BONNEY
+PINNAROO,bp,,unknown,BP OTR PINNAROO
+FULHAM,bp,,unknown,BP OTR FULHAM
+WEST BEACH,bp,,unknown,BP OTR WEST BEACH
+West Beach,bp,,unknown,BP OTR HARBOURTOWN
+KINGSCOTE,bp,,unknown,BP OTR KINGSCOTE
+PENNESHAW,bp,,unknown,BP OPT PENNESHAW FUEL AND HARDWARE
+NURIOOTPA,bp,,unknown,BP OTR NURIOOTPA
+Willunga,bridgestone_select,,unknown,Bridgestone Service Centre Willunga
+Whyalla Norrie,bridgestone_select,,unknown,Bridgestone Service Centre Whyalla Norrie
+Victor Harbor,bridgestone_select,,unknown,Bridgestone Service Centre Victor Harbor Hindmarsh Rd
+Parkside,bridgestone_select,,unknown,Bridgestone Service Centre Unley
+Tintinara,bridgestone_select,,unknown,Bridgestone Service Centre Tintinara
+Swan Reach,bridgestone_select,,unknown,Bridgestone Service Centre Swan Reach
+Olympic Dam,bridgestone_select,,unknown,Bridgestone Service Centre Roxby Downs
+Port Pirie,bridgestone_select,,unknown,Bridgestone Service Centre Port Pirie
+Port Augusta,bridgestone_select,,unknown,Bridgestone Service Centre Port Augusta
+Port Lincoln,bridgestone_select,,unknown,Bridgestone Service Centre Port Lincoln
+Peterborough,bridgestone_select,,unknown,Bridgestone Service Centre Peterborough
+Naracoorte,bridgestone_select,,unknown,Bridgestone Service Centre Naracoorte
+Mount Gambier,bridgestone_select,,unknown,Bridgestone Service Centre Mount Gambier Car Centre
+Nuriootpa (Truck),bridgestone_select,,unknown,Bridgestone Service Centre Nuriootpa Truck Centre
+Maitland,bridgestone_select,,unknown,Bridgestone Service Centre Maitland
+Keith,bridgestone_select,,unknown,Bridgestone Service Centre Keith
+Jamestown,bridgestone_select,,unknown,Bridgestone Service Centre Jamestown
+Coober Pedy,bridgestone_select,,unknown,Bridgestone Service Centre Coober Pedy
+Cleve,bridgestone_select,,unknown,Bridgestone Service Centre Cleve
+Clare,bridgestone_select,,unknown,Bridgestone Service Centre Clare
+Ceduna,bridgestone_select,,unknown,Bridgestone Service Centre Ceduna
+Bordertown,bridgestone_select,,unknown,Bridgestone Service Centre Bordertown Car Centre
+Barmera,bridgestone_select,,unknown,Bridgestone Service Centre Barmera
+Wingfield,bridgestone_select,,unknown,Bridgestone Select Wingfield
+Windsor Gardens,bridgestone_select,,unknown,Bridgestone Select Windsor Gardens
+West Lakes,bridgestone_select,,unknown,Bridgestone Select West Lakes
+Smithfield Plains,bridgestone_select,,unknown,Bridgestone Select Smithfield Plains
+Salisbury,bridgestone_select,,unknown,Bridgestone Select Salisbury
+Reynella,bridgestone_select,,unknown,Bridgestone Select Reynella
+Port Adelaide,bridgestone_select,,unknown,Bridgestone Select Port Adelaide
+Oaklands Park,bridgestone_select,,unknown,Bridgestone Select Oaklands Park
+Nuriootpa,bridgestone_select,,unknown,Bridgestone Select Nuriootpa
+Norwood,bridgestone_select,,unknown,Bridgestone Select Norwood
+Murray Bridge,bridgestone_select,,unknown,Bridgestone Select Murray Bridge
+Lock,bridgestone_select,,unknown,Bridgestone Service Centre Lock
+Mount Barker,bridgestone_select,,unknown,Bridgestone Select Mt Barker
+Modbury,bridgestone_select,,unknown,Bridgestone Select Modbury
+Magill,bridgestone_select,,unknown,Bridgestone Select Magill
+Kidman Park,bridgestone_select,,unknown,Bridgestone Select Kidman Park
+Keswick,bridgestone_select,,unknown,Bridgestone Select Keswick
+Golden Grove,bridgestone_select,,unknown,Bridgestone Select Golden Grove
+Glenelg,bridgestone_select,,unknown,Bridgestone Select Glenelg
+Edwardstown,bridgestone_select,,unknown,Bridgestone Select Edwardstown
+Dernancourt,bridgestone_select,,unknown,Bridgestone Select Dernancourt
+Croydon Park,bridgestone_select,,unknown,Bridgestone Select Croydon Park
+Blair Athol,bridgestone_select,,unknown,Bridgestone Select Blair Athol
+Blackwood,bridgestone_select,,unknown,Bridgestone Select Blackwood
+Adelaide,bridgestone_select,,unknown,Bridgestone Select Adelaide
+Aberfoyle Park,bridgestone_select,,unknown,Bridgestone Select Aberfoyle Park
+BERRI,burson_auto_parts_au,1 GILBERT STREET BERRI SA 5343 Australia,unknown,BERRI
+EDWARDSTOWN,burson_auto_parts_au,66 DAWS ROAD EDWARDSTOWN SA 5039 Australia,unknown,EDWARDSTOWN
+GAWLER SOUTH,burson_auto_parts_au,19 SEVENTH STREET GAWLER SOUTH SA 5118 Australia,unknown,GAWLER
+GILLES PLAINS,burson_auto_parts_au,633 NORTH EAST ROAD GILLES PLAINS SA 5086 Australia,unknown,HOLDEN HILL
+NORWOOD,burson_auto_parts_au,38 MAGILL ROAD NORWOOD SA 5067 Australia,unknown,KENT TOWN
+KILKENNY,burson_auto_parts_au,381 TORRENS ROAD KILKENNY SA 5009 Australia,unknown,KILKENNY
+LONSDALE,burson_auto_parts_au,6 DEVON STREET LONSDALE SA 5160 Australia,unknown,LONSDALE
+MILE END,burson_auto_parts_au,319 SOUTH ROAD MILE END SA 5031 Australia,unknown,MILE END
+MOUNT BARKER,burson_auto_parts_au,Lot 67 31 LIGHT CRESCENT MOUNT BARKER SA 5251 Australia,unknown,MOUNT BARKER
+MT GAMBIER,burson_auto_parts_au,Cnr STURT AND CROUCH STREETS MT GAMBIER SA 5290 Australia,unknown,MOUNT GAMBIER
+MURRAY BRIDGE,burson_auto_parts_au,103 ADELAIDE ROAD MURRAY BRIDGE SA 5253 Australia,unknown,MURRAY BRIDGE
+PORT LINCOLN,burson_auto_parts_au,35-37 EDINBURGH STREET PORT LINCOLN SA 5606 Australia,unknown,PORT LINCOLN
+SALISBURY PLAIN,burson_auto_parts_au,1 STANBEL ROAD SALISBURY PLAIN SA 5109 Australia,unknown,SALISBURY PLAIN
+SEAFORD,burson_auto_parts_au,2 CASCADE DRIVE SEAFORD SA 5169 Australia,unknown,SEAFORD
+VICTOR HARBOR,burson_auto_parts_au,69 MAUDE STREET VICTOR HARBOR SA 5211 Australia,unknown,VICTOR HARBOR
+WINGFIELD,burson_auto_parts_au,TENANCY C 13 STREIFF ROAD WINGFIELD SA 5013 Australia,unknown,WINGFIELD
+Port Augusta,caltex,,unknown,Puma Energy Port Augusta
+Blackwood,caltex,,unknown,Caltex Blackwood
+Ceduna,caltex,,unknown,Caltex Ceduna
+Darlington,caltex,,unknown,Caltex Darlington
+Edwardstown,caltex,,unknown,Caltex Edwardstown
+Findon,caltex,,unknown,Caltex Findon
+Gawler,caltex,,unknown,Caltex Gawler
+Golden Grove,caltex,,unknown,Caltex Golden Grove
+Hallett Cove,caltex,,unknown,Caltex Hallett Cove
+Hawthorn,caltex,,unknown,Caltex Hawthorn
+Hectorville,caltex,,unknown,Caltex Hectorville
+Kilburn,caltex,,unknown,Caltex Islington
+Klemzig,caltex,,unknown,Caltex Klemzig
+Modbury North,caltex,,unknown,Caltex Modbury North
+Noarlunga Centre,caltex,,unknown,Caltex Noarlunga
+Parafield Gardens,caltex,,unknown,Caltex Parafield Gardens
+Park Holme,caltex,,unknown,Caltex Park Holme
+Queenstown,caltex,,unknown,Caltex Queenstown
+Reynella,caltex,,unknown,Caltex Reynella
+Rose Park,caltex,,unknown,Caltex Rose Park
+Salisbury East,caltex,,unknown,Caltex Salisbury East
+Blakeview,caltex,,unknown,Caltex Smithfield East
+Thebarton,caltex,,unknown,Caltex Thebarton
+Adelaide,caltex,,unknown,Caltex West Terrace
+Windsor Gardens,caltex,,unknown,Caltex Windsor Gardens
+Woodville,caltex,,unknown,Caltex Woodville
+West Beach,calvin_klein_au,Harbourtown Outlet Cente Shop T121 Harbourtown Outlet Tapleys Hill Road West Beach SA 5024,unknown,Adelaide Harbourtown Outlet
+Glenside,calvin_klein_au,Shop 116 Burnside Villiage 447 Portrush Rd Glenside SA 5065,unknown,Burnside Village Underwear
+Adelaide,camera_house_au,Shop 5 Central Market Adelaide 5000 SA,unknown,Adelaide - Central Market
+Adelaide,camera_house_au,66 Gawler Place Adelaide 5000 SA,unknown,Adelaide - Twin City
+Mount Gambier,camera_house_au,11a James Street Mount Gambier 5290 SA,unknown,Mount Gambier
+Glenside,carla_zampatti,,unknown,Burnside Boutique
+Unley,carla_zampatti,,unknown,Unley Boutique
+BROKEN HILL,cellarbrations_au,,unknown,CELLARBRATIONS AT SCHINELLAS
+ROBE,cellarbrations_au,,unknown,CELLARBRATIONS AT ROBE
+MANNUM,cellarbrations_au,,unknown,CELLARBRATIONS AT MANNUM
+KAPUNDA,cellarbrations_au,,unknown,CELLARBRATIONS AT KAPUNDA
+NAIRNE,cellarbrations_au,,unknown,CELLARBRATIONS AT NAIRNE
+MOUNT BARKER,cellarbrations_au,,unknown,CELLARBRATIONS AT ASTON HILLS
+WOODSIDE,cellarbrations_au,,unknown,CELLARBRATIONS AT WOODSIDE
+MT BARKER,cellarbrations_au,,unknown,CELLARBRATIONS AT MT BARKER
+GAWLER EAST,cellarbrations_au,,unknown,CELLARBRATIONS AT GAWLER EAST
+ALDGATE,cellarbrations_au,,unknown,CELLARBRATIONS AT ALDGATE PUMP
+FAIRVIEW PARK,cellarbrations_au,,unknown,CELLARBRATIONS AT FAIRVIEW PARK
+HOPE VALLEY,cellarbrations_au,,unknown,CELLARBRATIONS AT VALLEY INN
+NEWTON,cellarbrations_au,,unknown,CELLARBRATIONS AT THE REZZ
+EYRE,cellarbrations_au,,unknown,CELLARBRATIONS AT EYRE
+MIDDLETON,cellarbrations_au,,unknown,CELLARBRATIONS AT MIDDLETON
+FREWVILLE,cellarbrations_au,,unknown,CELLARBRATIONS AT FREWVILLE
+FULLARTON,cellarbrations_au,,unknown,CELLARBRATIONS AT FULLARTON
+BLACKWOOD,cellarbrations_au,,unknown,CELLARBRATIONS AT BLACKWOOD
+VICTOR HARBOR,cellarbrations_au,,unknown,CELLARBRATIONS AT McCRACKEN
+PROSPECT,cellarbrations_au,,unknown,CELLARBRATIONS AT PROSPECT
+BOLIVAR,cellarbrations_au,,unknown,CELLARBRATIONS AT WHITEHORSE INN
+EDWARDSTOWN,cellarbrations_au,,unknown,CELLARBRATIONS AT CASTLE PLAZA
+BROOKLYN PARK,cellarbrations_au,,unknown,CELLARBRATIONS AT BROOKLYN PARK
+FINDON,cellarbrations_au,,unknown,CELLARBRATIONS AT FINDON
+BRIGHTON,cellarbrations_au,,unknown,CELLARBRATIONS AT BRIGHTON
+JAMESTOWN,cellarbrations_au,,unknown,CELLARBRATIONS AT JAMESTOWN
+HENLEY BEACH,cellarbrations_au,,unknown,CELLARBRATIONS AT HENLEY SQUARE
+EXETER,cellarbrations_au,,unknown,CELLARBRATIONS AT SEMAPHORE ROAD
+MOANA HEIGHTS,cellarbrations_au,,unknown,CELLARBRATIONS AT MOANA
+ARDROSSAN,cellarbrations_au,,unknown,CELLARBRATIONS AT ARDROSSAN
+PORT PIRIE,cellarbrations_au,,unknown,CELLARBRATIONS AT PORT PIRIE
+WALLAROO,cellarbrations_au,,unknown,CELLARBRATIONS AT WALLAROO
+YORKETOWN,cellarbrations_au,,unknown,CELLARBRATIONS AT YORKETOWN
+ANDAMOOKA,cellarbrations_au,,unknown,CELLARBRATIONS AT ANDAMOOKA
+COFFIN BAY,cellarbrations_au,,unknown,CELLARBRATIONS AT COFFIN BAY
+CEDUNA,cellarbrations_au,,unknown,CELLARBRATIONS AT CEDUNA FORESHORE HOTEL
+COOBER PEDY,cellarbrations_au,,unknown,CELLARBRATIONS AT COOBER PEDY
+unknown,choices_flooring_au,17 Lawrence Hargrave Way Parafield Airport SA 5106,unknown,Parafield
+unknown,choices_flooring_au,"160-168 Beach Road
+Noarlunga SA 5168",unknown,Noarlunga
+unknown,choices_flooring_au,6 Smart Road Modbury SA 5092,unknown,Modbury
+unknown,choices_flooring_au,12/941 Marion Rd Mitchell Park SA 5043,unknown,Marion
+unknown,choices_flooring_au,36-38 Richmond Road Keswick SA 5035,unknown,Keswick
+unknown,choices_flooring_au,635 Lower North East Road Campbelltown SA 5074,unknown,Campbelltown
+unknown,choices_flooring_au,18 Bay Road Mount Gambier VIC 5290,unknown,"by Somerfields, Mount Gambier"
+unknown,choices_flooring_au,89 Washington Street Port Lincoln SA 5606,unknown,"by Kym Woolford, Port Lincoln"
+Port Lincoln,coles_au,,unknown,Coles Port Lincoln
+Whyalla Stuart,coles_au,,unknown,Whyalla Westlands
+Whyalla Norrie,coles_au,,unknown,Coles Whyalla
+Port Augusta,coles_au,,unknown,Coles Express Port Augusta Meteor Roadhouse
+Whyalla,coles_au,,unknown,Coles Express Whyalla
+Port Pirie,coles_au,,unknown,Coles Express Port Pirie
+Port Wakefield,coles_au,,unknown,Coles Express Port Wakefield
+Osborne,coles_au,,unknown,North Haven
+Port Adelaide,coles_au,,unknown,Port Adelaide
+Gawler,coles_au,,unknown,Coles Gawler
+Evanston,coles_au,,unknown,Gawler Green
+West Lakes,coles_au,,unknown,Coles Express West Lakes
+Christies Beach,coles_au,,unknown,Coles Christies Beach
+Glenelg,coles_au,,unknown,Coles Glenelg
+Pennington,coles_au,,unknown,Grand Junction Drive Thru
+Aldinga Beach,coles_au,,unknown,Coles Aldinga Beach
+Seaford,coles_au,,unknown,Seaford
+Noarlunga Centre,coles_au,,unknown,Coles Noarlunga
+Cheltenham,coles_au,,unknown,St Clair
+Morphett Vale,coles_au,,unknown,Coles Reynella
+Reynella,coles_au,,unknown,Reynella
+Brighton,coles_au,,unknown,Brighton Drive Thru
+Paralowie,coles_au,,unknown,Waterloo Drive
+St Clair,coles_au,,unknown,Coles St Clair
+Findon,coles_au,,unknown,Coles Findon
+Mclaren Vale,coles_au,,unknown,Coles Mclaren Vale
+Victor Harbor,coles_au,,unknown,Coles Victor Harbor
+Mccracken,coles_au,,unknown,Victor Harbour Mccracken - Coles
+Warradale,coles_au,,unknown,Coles Warradale
+Waikerie,coles_au,,unknown,Coles Express Waikerie
+Oaklands Park,coles_au,,unknown,Coles Marion
+Evanston Gardens,coles_au,,unknown,Coles Gawler Green
+Aberfoyle Park,coles_au,,unknown,Aberfoyle Park
+Smithfield,coles_au,,unknown,Munno Para
+Munno Para,coles_au,,unknown,Coles Munno Para
+Mansfield Park,coles_au,,unknown,Coles Express Mansfield Park
+Elizabeth,coles_au,,unknown,Elizabeth
+Salisbury Downs,coles_au,,unknown,Coles Salisbury Downs
+Welland,coles_au,,unknown,Coles Welland
+Elizabeth Park,coles_au,,unknown,Coles Express Elizabeth Park
+Craigmore,coles_au,,unknown,Coles Craigmore
+Berri,coles_au,,unknown,Berri
+Salisbury,coles_au,,unknown,Coles Parabanks
+Parafield Gardens,coles_au,,unknown,Parafield Gardens
+Golden Grove,coles_au,,unknown,Golden Grove
+Fairview Park,coles_au,,unknown,Coles Express Fairview Park
+Modbury Heights,coles_au,,unknown,Modbury Heights
+Bridgewater,coles_au,,unknown,Coles Bridgewater
+Athelstone,coles_au,,unknown,Athelstone
+Mount Barker,coles_au,,unknown,Mount Barker
+St Agnes,coles_au,,unknown,Coles St Agnes
+Newton,coles_au,,unknown,Coles Newton
+Hope Valley,coles_au,,unknown,Coles Express Hope Valley
+Dernancourt,coles_au,,unknown,Coles Dernancourt
+Modbury,coles_au,,unknown,Coles Tea Tree Plaza
+Firle,coles_au,,unknown,Coles Firle
+Blackwood,coles_au,,unknown,Coles Blackwood
+Edwardstown,coles_au,,unknown,Coles Edwardstown
+North Adelaide,coles_au,,unknown,North Adelaide
+Prospect,coles_au,,unknown,Coles Northpark
+Adelaide,coles_au,,unknown,Rundle Mall
+Hindmarsh,coles_au,,unknown,Hindmarsh
+Stepney,coles_au,,unknown,Coles St Peters
+Collinswood,coles_au,,unknown,Collinswood
+Royston Park,coles_au,,unknown,Payneham Drive Thru
+Norwood,coles_au,,unknown,Norwood
+Kilburn,coles_au,,unknown,Churchill
+Greenacres,coles_au,,unknown,Coles Greenacres
+Murray Bridge,coles_au,,unknown,Coles Murray Bridge
+Tailem Bend,coles_au,,unknown,Coles Express Tailem Bend
+Glenside,coles_au,,unknown,Coles Burnside
+Naracoorte,coles_au,,unknown,Coles Express Naracoorte
+Mount Gambier,coles_au,,unknown,Coles Mount Gambier
+Oaklands Park,colette_by_colette_hayman_au,,unknown,Marion
+Modbury,colette_by_colette_hayman_au,,unknown,Tea Tree Plaza
+Port Lincoln,commonwealth_bank_au,,unknown,Port Lincoln
+Whyalla,commonwealth_bank_au,,unknown,Whyalla
+Kadina,commonwealth_bank_au,,unknown,Kadina
+Port Augusta,commonwealth_bank_au,,unknown,Port Augusta
+Port Pirie,commonwealth_bank_au,,unknown,Port Pirie
+West Lakes,commonwealth_bank_au,,unknown,West Lakes
+Seaford,commonwealth_bank_au,,unknown,Seaford
+Port Adelaide,commonwealth_bank_au,,unknown,Port Adelaide
+Noarlunga Centre,commonwealth_bank_au,,unknown,Colonnades Noarlunga
+Glenelg,commonwealth_bank_au,,unknown,Glenelg
+Kilkenny,commonwealth_bank_au,,unknown,Kilkenny
+Oaklands Park,commonwealth_bank_au,,unknown,Marion Shopping Centre
+Torrensville,commonwealth_bank_au,,unknown,Torrensville
+Edwardstown,commonwealth_bank_au,,unknown,Castle Plaza
+Adelaide,commonwealth_bank_au,,unknown,University Of Adelaide
+Prospect,commonwealth_bank_au,,unknown,Northpark
+Unley,commonwealth_bank_au,,unknown,Unley
+Salisbury Downs,commonwealth_bank_au,,unknown,Hollywood Pl Salisbury
+Norwood,commonwealth_bank_au,,unknown,Norwood
+Salisbury,commonwealth_bank_au,,unknown,Salisbury
+Ingle Farm,commonwealth_bank_au,,unknown,Ingle Farm
+Glenside,commonwealth_bank_au,,unknown,Burnside Vlge Glenside
+Elizabeth,commonwealth_bank_au,,unknown,Elizabeth
+Campbelltown,commonwealth_bank_au,,unknown,Campbelltown Sa
+Victor Harbor,commonwealth_bank_au,,unknown,Victor Harbor
+Smithfield,commonwealth_bank_au,,unknown,Munno Para
+Modbury,commonwealth_bank_au,,unknown,Modbury
+Golden Grove,commonwealth_bank_au,,unknown,Golden Grove
+Berri,commonwealth_bank_au,,unknown,Berri
+Nuriootpa,commonwealth_bank_au,,unknown,Nuriootpa
+Gawler,commonwealth_bank_au,,unknown,Gawler
+Mount Barker,commonwealth_bank_au,,unknown,Mount Barker
+Murray Bridge,commonwealth_bank_au,,unknown,Murray Bridge
+Bordertown,commonwealth_bank_au,,unknown,Bordertown
+Naracoorte,commonwealth_bank_au,,unknown,Naracoorte
+Mount Gambier,commonwealth_bank_au,,unknown,Mount Gambier
+Park Holme,commonwealth_bank_au,,unknown,Park Holme Shop Centre
+Firle,commonwealth_bank_au,,unknown,Firle Plaza
+Kilburn,commonwealth_bank_au,,unknown,Kilburn
+Rosewater,commonwealth_bank_au,,unknown,Rosewater
+Mawson Lakes,commonwealth_bank_au,,unknown,Mawson Central
+Paralowie,commonwealth_bank_au,,unknown,Paralowie Village
+Elizabeth South,commonwealth_bank_au,,unknown,Elizabeth South S/C
+Wallaroo,compleat_angler_camping_world_au,,unknown,Compleat Angler Wallaroo
+Moonta,compleat_angler_camping_world_au,,unknown,Compleat Angler Moonta
+Unley,crust_au,129-131 Unley Road Unley SA 5061,unknown,Unley
+Norwood,crust_au,5-6  47 The Parade Norwood SA 5067,unknown,Norwood
+Port Adelaide,cue,Shop T37 200-220 Commercial Rd,unknown,Port Adelaide
+Adelaide,cue,203 Rundle Street,unknown,Rundle Street
+Elizabeth,dangerfield,,unknown,DANGERFIELD SA - ELIZABETH
+Oaklands Park,dangerfield,,unknown,DANGERFIELD SA - MARION
+Adelaide,dangerfield,,unknown,DANGERFIELD SA - RUNDLE ST
+Modbury,dangerfield,,unknown,DANGERFIELD SA - TEA TREE PLAZA
+West Lakes,dangerfield,,unknown,DANGERFIELD SA - WEST LAKES
+Mount Gambier,donut_king_au,Shop 13 Mount Gambier Marketplace,unknown,Donut King Mt Gambier
+Camden Park,donut_king_au,476 Anzac Hwy,unknown,Donut King Mobile Glenelg
+Mile End South,donut_king_au,Deacon Ave,unknown,Donut King Mobile Mile End
+Modbury,donut_king_au,Kiosk 18 Westfield Tea Tree Plaza,unknown,Donut King Tea Tree Plaza
+Salisbury,donut_king_au,29 Fisher St,unknown,Donut King Mobile Salisbury
+St Marys,doors_plus_au,1199 South Road,unknown,St Marys
+Sefton Park,doors_plus_au,213-215 Main North Rd,unknown,Sefton Park
+Beverley,drakes_au,,unknown,Adelaide Storage Solutions
+Torrensville,drakes_au,,unknown,Drakes Head Office SA
+Hallett Cove,drakes_au,,unknown,Drakes Hallett Cove
+Port Lincoln,drakes_au,,unknown,Drakes Port Lincoln
+Kingscote,drakes_au,,unknown,Drakes Kingscote
+Yankalilla,drakes_au,,unknown,Drakes Yankalilla
+Victor Harbor,drakes_au,,unknown,Drakes Victor Harbor
+Aldinga,drakes_au,,unknown,Drakes Aldinga
+Moonta,drakes_au,,unknown,Drakes Moonta
+Seaford,drakes_au,,unknown,Drakes Seaford
+Ardrossan,drakes_au,,unknown,Drakes Ardrossan
+Hackham,drakes_au,,unknown,Drakes Hackham
+Wallaroo,drakes_au,,unknown,Drakes Wallaroo
+Woodcroft,drakes_au,,unknown,Drakes Woodcroft
+Aberfoyle Park,drakes_au,,unknown,Drakes Aberfoyle Park
+West Beach,drakes_au,,unknown,Drakes Mini West Beach
+Ascot Park,drakes_au,,unknown,Drakes Ascot Park
+Grange,drakes_au,,unknown,Drakes Mini Grange
+Fulham Gardens,drakes_au,,unknown,Drakes Fulham Gardens
+Edwardstown,drakes_au,,unknown,Drakes Castle Plaza
+Blackwood,drakes_au,,unknown,Drakes Blackwood
+Findon,drakes_au,,unknown,Drakes Findon
+Semaphore,drakes_au,,unknown,Drakes Semaphore
+Royal Park,drakes_au,,unknown,Drakes Royal Park
+Mile End,drakes_au,,unknown,Drakes Torrensville
+Wayville,drakes_au,,unknown,Drakes Wayville
+Allenby Gardens,drakes_au,,unknown,Drakes Allenby Gardens
+North Haven,drakes_au,,unknown,Drakes North Haven
+Glenunga,drakes_au,,unknown,Drakes Mini Glenunga
+Collinswood,drakes_au,,unknown,Drakes Collinswood
+Lightsview,drakes_au,,unknown,Drakes Lightsview
+Walkley Heights,drakes_au,,unknown,Drakes Mini Walkley Heights
+Newton,drakes_au,,unknown,Drakes Newton
+Modbury North,drakes_au,,unknown,Drakes Clovercrest
+Salisbury North,drakes_au,,unknown,Drakes Salisbury North
+Mount Barker,drakes_au,,unknown,Drakes Aston Hills
+Hope Valley,drakes_au,,unknown,Drakes Hope Valley
+Wynn Vale,drakes_au,,unknown,Drakes Mini Sunnybrook
+Surrey Downs,drakes_au,,unknown,Drakes Surrey Downs
+Golden Grove,drakes_au,,unknown,Drakes Golden Grove
+Edinburgh North,drakes_au,,unknown,Drakes Distribution Centre (SA)
+Fairview Park,drummond_golf_au,,unknown,Tea Tree Gully Golf Course
+Enfield,drummond_golf_au,,unknown,Enfield Drummond Golf
+Mile End,drummond_golf_au,,unknown,Mile End Drummond Golf
+Darlington,drummond_golf_au,,unknown,Darlington Drummond Golf
+West Beach,drummond_golf_au,,unknown,West Beach Driving Range
+Ingle Farm,dusk_au,,unknown,dusk Ingle Farm
+Modbury,dusk_au,,unknown,dusk Tea Tree Plaza
+West Lakes,dusk_au,,unknown,dusk West Lakes
+Noarlunga Centre,dusk_au,,unknown,dusk Colonnades
+Oaklands Park,dusk_au,,unknown,dusk Marion
+Mount Barker,dusk_au,,unknown,dusk Mt Barker
+Elizabeth,dusk_au,,unknown,dusk Elizabeth
+Smithfield,dusk_au,,unknown,dusk Munno Para
+Golden Grove,dusk_au,,unknown,dusk Golden Grove
+Adelaide,early_settler,,unknown,Adelaide
+Verdun,eq_saddlery_au,,unknown,Adelaide Hills
+Adelaide,ernst_young,Level 12 EY Building 121 King William Street,unknown,EY
+Croydon Park,exxonmobil,,unknown,Mobil Croydon Park
+Plympton,exxonmobil,,unknown,Mobil Anzac Highway
+Maitland,exxonmobil,,unknown,Mobil Maitland
+Jamestown,exxonmobil,,unknown,Mobil Jamestown
+Coober Pedy,exxonmobil,,unknown,Mobil Coober Pedy
+Hayborough,exxonmobil,,unknown,Mobil Hayborough
+Panorama,exxonmobil,,unknown,Mobil Panorama
+Forestville,exxonmobil,,unknown,Mobil Goodwood
+Nuriootpa,exxonmobil,,unknown,Mobil Nuriootpa
+Salisbury,exxonmobil,,unknown,Mobil Salisbury
+Hindmarsh,exxonmobil,,unknown,Mobil Hindmarsh
+Hillcrest,exxonmobil,,unknown,Mobil Hillcrest
+Birdwood,exxonmobil,,unknown,Mobil Birdwood
+Brighton,exxonmobil,,unknown,Mobil North Brighton
+Northfield,exxonmobil,,unknown,Mobil Briens Rd
+Paradise,exxonmobil,,unknown,Mobil Paradise
+Unley,exxonmobil,,unknown,Mobil Unley
+Lonsdale,exxonmobil,,unknown,Mobil Lonsdale
+Mount Barker,exxonmobil,,unknown,Mobil Mount Barker
+Sheidow Park,exxonmobil,,unknown,Mobil Sheidow Park
+Gawler East,exxonmobil,,unknown,Mobil Springwood
+Newton,exxonmobil,,unknown,Mobil Newton
+Mt Gambier,exxonmobil,,unknown,Mobil Mt Gambier
+Murray Bridge,exxonmobil,,unknown,Mobil Murray Bridge
+Eyre,exxonmobil,,unknown,Mobil Penfield Wooma Rd
+Moonta,exxonmobil,,unknown,Mobil Moonta
+Green Fields,exxonmobil,,unknown,Mobil Green Fields
+Virginia,exxonmobil,,unknown,Mobil Virginia
+Clare,exxonmobil,,unknown,Mobil Clare
+Gepps Cross,exxonmobil,,unknown,Mobil Gepps Cross
+Wallaroo,exxonmobil,,unknown,Mobil Wallaroo
+Valley View,exxonmobil,,unknown,Mobil Valley View
+Nundroo,exxonmobil,,unknown,Mobil Nundroo
+Klemzig,exxonmobil,,unknown,Mobil OG Road
+Hampstead,exxonmobil,,unknown,Mobil Hampstead
+Bordertown,exxonmobil,,unknown,Mobil Bordertown
+Dublin,exxonmobil,,unknown,Mobil Dublin
+Kapunda,exxonmobil,,unknown,Mobil Kapunda
+Yunta,exxonmobil,,unknown,Mobil Yunta
+Port Pirie,exxonmobil,,unknown,Mobil Port Pirie (The Terrace)
+Crystal Brook,exxonmobil,,unknown,Mobil Crystal Brook
+Napperby,exxonmobil,,unknown,Mobil Nelshaby (Tin Man)
+Aldgate,exxonmobil,,unknown,Mobil Aldgate
+Aldinga,exxonmobil,,unknown,Mobil Aldinga
+Prospect,exxonmobil,,unknown,Mobil Prospect
+Elizabeth South,exxonmobil,,unknown,Mobil Philip Hwy
+Port Adelaide,exxonmobil,,unknown,Mobil Port Adelaide
+Torrensville,exxonmobil,,unknown,Mobil Henley Beach
+Littlehampton,exxonmobil,,unknown,Mobil Littlehampton
+Seaford,exxonmobil,,unknown,Mobil Seaford
+Kadina,exxonmobil,,unknown,Mobil Kadina
+Woodville North,exxonmobil,,unknown,Mobil Woodville
+St Peters,exxonmobil,,unknown,Mobil St Peters
+Golden Grove,exxonmobil,,unknown,Mobil Golden Grove
+Brooklyn Park,exxonmobil,,unknown,Mobil Brooklyn Park
+Welland,exxonmobil,,unknown,Mobil Welland
+Semaphore,exxonmobil,,unknown,Mobil Semaphore
+Netley,exxonmobil,,unknown,Mobil Netley
+Elizabeth Downs,exxonmobil,,unknown,Mobil Elizabeth Downs
+Cross Roads,exxonmobil,,unknown,Mobil Cross Roads
+Tea Tree Gully,first_national_real_estate_au,,unknown,First National Real Estate Burton Groves
+WALLAROO,first_national_real_estate_au,,unknown,First National Real Estate Copper Coast
+Glandore,first_national_real_estate_au,,unknown,First National Real Estate Evergrand
+GLENELG,first_national_real_estate_au,,unknown,First National Real Estate Glenelg
+Warradale,first_national_real_estate_au,,unknown,First National Real Estate Lewis Prior
+Ardrossan,first_national_real_estate_au,,unknown,First National Real Estate Mark A Carter
+Waikerie,first_national_real_estate_au,,unknown,First National Real Estate Marschall
+Murray Bridge,first_national_real_estate_au,,unknown,First National Real Estate Murray Bridge
+Gawler,first_national_real_estate_au,,unknown,First National Real Estate Peoples' Choice
+Port Augusta,first_national_real_estate_au,,unknown,First National Real Estate Port Augusta
+Salisbury,first_national_real_estate_au,,unknown,First National Real Estate Salisbury
+Para Hills,first_national_real_estate_au,,unknown,First National Real Estate Taylor's
+Elizabeth,flight_centre_au,,unknown,Flight Centre Elizabeth
+Modbury,flight_centre_au,,unknown,Flight Centre Modbury
+Glenside,flight_centre_au,,unknown,Flight Centre Burnside
+Noarlunga,flight_centre_au,,unknown,Flight Centre Colonnades
+Glenelg,flight_centre_au,,unknown,Flight Centre Glenelg
+Adelaide,flight_centre_au,,unknown,Flight Centre Rundle Mall
+Norwood,flight_centre_au,,unknown,Flight Centre Norwood
+West Lakes,flight_centre_au,,unknown,Flight Centre West Lakes
+Golden Grove,flight_centre_au,,unknown,Flight Centre Golden Grove
+Mt Barker,flight_centre_au,,unknown,Flight Centre Mount Barker
+Victor Harbor,flight_centre_au,,unknown,Flight Centre Victor Harbor
+Murray Bridge,flight_centre_au,,unknown,Flight Centre Murray Bridge
+Port Lincoln,flight_centre_au,,unknown,Flight Centre Port Lincoln
+Renmark,flight_centre_au,,unknown,Flight Centre Renmark
+Mt Gambier,flight_centre_au,,unknown,Flight Centre Mt Gambier
+Hallett Cove,flight_centre_au,,unknown,Flight Centre Hallett Cove
+Nuriootpa,flight_centre_au,,unknown,Flight Centre Barossa Valley
+Oaklands Park,flight_centre_au,,unknown,Flight Centre Marion
+Port Adelaide,floorworld_au,,unknown,Port Adelaide Floorworld
+Gepps Cross ,floorworld_au,,unknown,Gepps Cross Floorworld
+Adelaide ,floorworld_au,,unknown,Floorworld Adelaide
+Dry Creek,focus_on_furniture_au,,unknown,Gepps Cross
+Mile End South,focus_on_furniture_au,,unknown,Mile End
+Oakland Park,forever_new,,unknown,Forever New - Marion
+West Lakes,forever_new,,unknown,Forever New - West Lakes
+Adelaide,forever_new,,unknown,Forever New - Rundle Mall
+Parafield,forever_new,,unknown,Forever New - Parafield DFO
+Modbury,forever_new,,unknown,Forever New - Tea Tree Plaza
+Adelaide,glassons,Westfield Marion Shop 1100 297 Diagonal Rd Oaklands Park SA 5046,unknown,Marion
+SEAFORD,gloria_jeans_coffees_au,Kiosk 4 Seaford Shopping Centre,unknown,Gloria Jean’s Coffees Seaford
+NOARLUNGA CENTRE,gloria_jeans_coffees_au,Shop DL 10 Centro Colonnades Shopping Centre,unknown,Gloria Jean’s Coffees  Colonnades
+Glenelg,gloria_jeans_coffees_au,63 Jetty Road,unknown,Gloria Jean’s Coffees Glenelg
+Oaklands Park,gloria_jeans_coffees_au,Shop FC14 Westfield Shoppingtown Marion,unknown,Gloria Jean’s Coffees Marion
+ADELAIDE,gloria_jeans_coffees_au,Shop T002 The Myer Centre,unknown,Gloria Jean’s Coffees Adelaide Myer Centre
+Modbury,gloria_jeans_coffees_au,Shop 40/41 Westfield Tea Tree Plaza,unknown,Gloria Jean’s Coffees Tea Tree Plaza
+GLENELG,goodstart,122-126 Tapleys Hill Road GLENELG 5045 SA,unknown,Goodstart Glenelg
+BRIGHTON,goodstart,444 Brighton Road BRIGHTON 5048 SA,unknown,Goodstart Brighton Brighton Road
+SOMERTON PARK ,goodstart,63 Oaklands Road SOMERTON PARK  5044 SA,unknown,Goodstart Somerton Park
+SHEIDOW PARK,goodstart,1 Hutt Close SHEIDOW PARK 5158 SA,unknown,Goodstart Sheidow Park Hutt Close
+SHEIDOW PARK,goodstart,1A Young Street SHEIDOW PARK 5158 SA,unknown,Goodstart Sheidow Park Young Street
+North Plympton,goodstart,293-295 Marion Road North Plympton 5037 SA,unknown,Goodstart Marleston
+PLYMPTON,goodstart,247-251 Anzac Highway PLYMPTON 5038 SA,unknown,Goodstart Plympton
+BEDFORD PARK,goodstart,457-459 Hugh Cairns Avenue BEDFORD PARK 5042 SA,unknown,Goodstart Bedford Park
+SEMAPHORE SOUTH,goodstart,59-65 Bower Road SEMAPHORE SOUTH 5019 SA,unknown,Goodstart Semaphore South
+Underdale,goodstart,185 Holbrooks Road Underdale 5032 SA,unknown,Goodstart Underdale
+Cowandilla,goodstart,240-242 Sir Donald Bradman Drive (enter via Wilson Street) Cowandilla 5033 SA,unknown,Goodstart Cowandilla
+SEMAPHORE PARK,goodstart,198 Bower Road SEMAPHORE PARK 5019 SA,unknown,Goodstart Semaphore Park
+Cheltenham,goodstart,969 Port Road Cheltenham 5014 SA,unknown,Goodstart Port Road Cheltenham
+MELROSE PARK,goodstart,135 Edward Street MELROSE PARK 5039 SA,unknown,Goodstart Melrose Park
+OLD REYNELLA,goodstart,101 Pimpala Road OLD REYNELLA 5161 SA,unknown,Goodstart Old Reynella
+ABERFOYLE PARK,goodstart,1-3 Windebanks Road ABERFOYLE PARK 5159 SA,unknown,Goodstart Aberfoyle Park
+ONKAPARINGA RISE,goodstart,90-92 Penneys Hill Road ONKAPARINGA RISE 5163 SA,unknown,Goodstart Onkaparinga Rise
+CLAPHAM,goodstart,89 Springbank Road CLAPHAM 5062 SA,unknown,Goodstart Clapham
+SEAFORD RISE,goodstart,157 Griffiths Drive SEAFORD RISE 5169 SA,unknown,Goodstart Seaford Rise
+ANGLE PARK,goodstart,19-25 Cowan Street ANGLE PARK 5010 SA,unknown,Goodstart Angle Park
+BLACKWOOD,goodstart,39-45 Coromandel Parade BLACKWOOD 5051 SA,unknown,Goodstart Blackwood
+BELAIR,goodstart,24-26 Main Road BELAIR 5052 SA,unknown,Goodstart Belair
+PROSPECT,goodstart,44 Prospect Road PROSPECT 5082 SA,unknown,Goodstart Prospect
+OSBORNE,goodstart,582-588 Victoria Road OSBORNE 5017 SA,unknown,Goodstart Osborne
+LINDEN PARK,goodstart,418 Portrush Road LINDEN PARK 5065 SA,unknown,Goodstart Linden Park
+Blair Athol,goodstart,452 Main North Road Blair Athol 5084 SA,unknown,Goodstart Blair Athol
+Clearview,goodstart,242-244 Hampstead Road Clearview 5085 SA,unknown,Goodstart Clearview
+Felixstow,goodstart,403-407 Payneham Road Felixstow 5070 SA,unknown,Goodstart Payneham
+MAWSON LAKES,goodstart,1-11 Avocet Drive MAWSON LAKES 5095 SA,unknown,Goodstart Mawson Lakes Avocet Drive
+Magill,goodstart,15 Penfold Road Magill 5072 SA,unknown,Goodstart Magill Penfold Road
+MAWSON LAKES,goodstart,18-28 Elder Drive MAWSON LAKES 5095 SA,unknown,Goodstart Mawson Lakes Elder Drive
+POORAKA,goodstart,124 Henderson Ave POORAKA 5095 SA,unknown,Goodstart Pooraka
+Magill,goodstart,38-40 Moules Road Magill 5072 SA,unknown,Goodstart Rostrevor
+CAMPBELLTOWN,goodstart,24 Gorge Road CAMPBELLTOWN 5074 SA,unknown,Goodstart Campbelltown
+INGLE FARM,goodstart,2 Roopena Street INGLE FARM 5098 SA,unknown,Goodstart Ingle Farm Roopena Street
+PARAFIELD GARDENS,goodstart,121 Shepherdson Road PARAFIELD GARDENS 5107 SA,unknown,Goodstart Parafield Gardens
+PARALOWIE,goodstart,14 Byron Bay Drive PARALOWIE 5108 SA,unknown,Goodstart Paralowie Byron Bay Drive
+Burton,goodstart,107-115 Springbank Blvd Burton 5110 SA,unknown,Goodstart Burton
+HOPE VALLEY,goodstart,1178 -1180 Grand Junction Road HOPE VALLEY 5090 SA,unknown,Goodstart Hope Valley
+PARALOWIE,goodstart,27-29 Yalumba Drive PARALOWIE 5108 SA,unknown,Goodstart Paralowie Yalumba Drive
+SALISBURY NORTH,goodstart,102-112 Diment Road SALISBURY NORTH 5108 SA,unknown,Goodstart Salisbury North
+ELIZABETH VALE,goodstart,9 Everleigh Road ELIZABETH VALE 5112 SA,unknown,Goodstart Elizabeth Vale
+PENFIELD,goodstart,201 Argent Road PENFIELD 5121 SA,unknown,Goodstart Penfield
+SMITHFIELD,goodstart,2D Morialta Drive SMITHFIELD 5114 SA,unknown,Goodstart Smithfield
+BLAKEVIEW,goodstart,66-72 Park lake Boulevard BLAKEVIEW 5114 SA,unknown,Goodstart Blakeview
+EVANSTON PARK,goodstart,25 Greening Drive EVANSTON PARK 5116 SA,unknown,Goodstart Evanston Park
+GAWLER SOUTH,goodstart,37 Twelfth Street GAWLER SOUTH 5118 SA,unknown,Goodstart Gawler South
+NURIOOTPA,goodstart,9-11 Vine Street NURIOOTPA 5355 SA,unknown,Goodstart Nuriootpa
+WHYALLA PLAYFORD,goodstart,46-48 Beerworth Avenue WHYALLA PLAYFORD 5600 SA,unknown,Goodstart Whyalla
+Elizabeth,greencross_au,,unknown,Elizabeth
+Norwood,greencross_au,,unknown,Norwood
+Mile End,greencross_au,,unknown,Mile End
+Hendon,greencross_au,,unknown,Hendon
+Noarlunga Centre,greencross_au,,unknown,Noarlunga
+Prospect,greencross_au,,unknown,Prospect
+Holden Hill,greencross_au,,unknown,Holden Hill
+Mount Gambier,greencross_au,,unknown,Mount Gambier
+Melrose Park,greencross_au,,unknown,Melrose Park
+Gawler,greencross_au,,unknown,Greencross Vets Gawler
+Para Vista,greencross_au,,unknown,Greencross Vets Para Vista
+Paradise,greencross_au,,unknown,Greencross Vets Paradise
+Strathalbyn,greencross_au,,unknown,Greencross Vets Strathalbyn
+Mount Barker,greencross_au,,unknown,Greencross Vets Wellington Road
+Seaford,greencross_au,,unknown,Seaford
+Munno Para,greencross_au,,unknown,Munno Para
+OAKLANDS PARK,grilld_au,,unknown,Grill'd Marion
+NORWOOD,grilld_au,,unknown,Grill'd Norwood
+ADELAIDE,grilld_au,,unknown,Grill'd Rundle St
+MODBURY,grilld_au,,unknown,Grill'd Tea Tree Plaza
+UNLEY,grilld_au,,unknown,Grill'd Unley
+Salisbury Downs,guzmany_gomez,,unknown,Salisbury Downs
+Adelaide,guzmany_gomez,,unknown,King William St
+Hillcrest ,guzmany_gomez,,unknown,Greenacres
+Glandore,guzmany_gomez,,unknown,Glandore
+Mt Barker,guzmany_gomez,,unknown,Mt Barker
+Linden Park,guzmany_gomez,,unknown,Linden Park
+Old Noarlunga,guzmany_gomez,,unknown,Old Noarlunga
+Glenelg,guzmany_gomez,,unknown,Glenelg DT
+Parafield,house_au,,unknown,House Parafield
+Elizabeth,house_au,,unknown,House Elizabeth Centre
+Salisbury Downs,house_au,,unknown,House Hollywood Plaza
+Port Adelaide,house_au,,unknown,House Port Adelaide
+Golden Grove,house_au,,unknown,House The Grove
+West Lakes,house_au,,unknown,House West Lakes
+Ingle Farm,house_au,,unknown,House Ingle Farm
+Kilkenny,house_au,,unknown,House Arndale
+Modbury,house_au,,unknown,House Tea Tree Plaza
+Edwardstown,house_au,,unknown,House Castle Plaza
+Noarlunga Centre,house_au,,unknown,House Colonnades
+Mt Gambier,house_au,,unknown,House Mt Gambier
+Adelaide Airport,hugo_boss,,unknown,BOSS Outlet
+Adelaide,hugo_boss,,unknown,BOSS Menswear Shop
+Glenside,hugo_boss,,unknown,BOSS Store
+Adelaide,hungry_jacks,,unknown,West Terrace
+Blackwood,hungry_jacks,,unknown,Blackwood
+Firle,hungry_jacks,,unknown,Firle
+Murray Bridge,hungry_jacks,,unknown,Murray Bridge
+Port Augusta,hungry_jacks,,unknown,Port Augusta East
+Kadina,hungry_jacks,,unknown,Kadina
+Noarlunga,hungry_jacks,,unknown,Noarlunga
+Whyalla,hungry_jacks,,unknown,Whyalla
+Prospect,hungry_jacks,,unknown,Islington
+Munno Parra,hungry_jacks,,unknown,Playford Alive
+Renmark,hungry_jacks,,unknown,Renmark
+Salisbury,hungry_jacks,,unknown,Salisbury
+Victor Harbor,hungry_jacks,,unknown,Victor Harbor
+Aldinga,hungry_jacks,,unknown,Aldinga
+Paralowie,hungry_jacks,,unknown,Paralowie
+Dry Creek,hungry_jacks,,unknown,Dry Creek
+Darlington,hungry_jacks,,unknown,Darlington
+Ridgehaven,hungry_jacks,,unknown,Ridgehaven
+Golden Grove,hungry_jacks,,unknown,Golden Grove
+Smithfield,hungry_jacks,,unknown,Smithfield (SA)
+Elizabeth,hungry_jacks,,unknown,Elizabeth
+Ingle Farm,hungry_jacks,,unknown,Ingle Farm
+Gawler,hungry_jacks,,unknown,Gawler
+West Richond,hungry_jacks,,unknown,West Richmond
+Seaford,hungry_jacks,,unknown,Seaford
+Ceduna,hungry_jacks,,unknown,Ceduna
+Hackham,hungry_jacks,,unknown,Hackham
+Edwardstown,hungry_jacks,,unknown,Edwardstown
+Nuriootpa,hungry_jacks,,unknown,Nuriootpa
+South Brighton,hungry_jacks,,unknown,Brighton
+Virginia,hungry_jacks,,unknown,Virginia
+Fulham,hungry_jacks,,unknown,Fulham
+Port Pirie,hungry_jacks,,unknown,Port Pirie
+Morphette Vale,hungry_jacks,,unknown,Morphett Vale
+Northfield,hungry_jacks,,unknown,Lightsview
+Beverley,hungry_jacks,,unknown,Woodville
+Port Adelaide,hungry_jacks,,unknown,Port Adelaide
+Sheidow Park,hungry_jacks,,unknown,Sheidow Park
+Tailem Bend,hungry_jacks,,unknown,Motorsport Park
+Parafield,hungry_jacks,,unknown,Parafield
+Mt Barker,hungry_jacks,,unknown,Mount Barker
+Sefton Park,hungry_jacks,,unknown,Sefton Park
+Mt Gambier,hungry_jacks,,unknown,Mount Gambier
+Westbourne Park,hungry_jacks,,unknown,Westbourne Park
+Mawson Lakes,hungry_jacks,,unknown,Mawson Lakes
+Aberfoyle Park,hungry_jacks,,unknown,Aberfoyle Park
+HILLCREST,hungry_jacks,,unknown,Hillcrest
+Everard Park,hungry_jacks,,unknown,Anzac
+Glen Osmond,hungry_jacks,,unknown,Glen Osmond
+Naracoote,hungry_jacks,,unknown,Naracoorte
+Port Lincoln,hungry_jacks,,unknown,Port Lincoln
+Gepps Cross,hungry_jacks,,unknown,Gepps Cross OTR
+Adelaide,industrie_au,,unknown,Rundle Mall
+West Beach,industrie_au,,unknown,Adelaide Harbourtown
+West Lakes,jbhifi,,unknown,West Lakes
+Elizabeth,jbhifi,,unknown,Elizabeth
+Noarlunga Centre,jbhifi,,unknown,Colonnades HOME
+Modbury,jbhifi,,unknown,Modbury
+Oaklands Park,jbhifi,,unknown,Marion
+Adelaide,jbhifi,,unknown,City - Adelaide
+MT BARKER,jbhifi,,unknown,Mt Barker Home
+ADELAIDE AIRPORT,jbhifi,,unknown,Adelaide Domestic Airport
+Woodville,jbhifi,,unknown,Adelaide Home Delivery Centre
+Mile End,jbhifi,,unknown,Mile End HOME
+Smithfield,jbhifi,,unknown,Munno Para HOME
+Melrose Park,jbhifi,,unknown,Melrose Park HOME
+Gepps Cross,jbhifi,,unknown,Gepps Cross HOME
+Burnside Village,jo_mercer_au,,unknown,Burnside Village
+Adelaide Airport,jo_mercer_au,,unknown,Harbourtown SA
+Oaklands Park,jo_mercer_au,,unknown,Marion
+Norwood,jo_mercer_au,,unknown,The Parade
+Smithfield,just_cuts,,unknown,Munno Para
+Port Adelaide,just_cuts,,unknown,Port Adelaide
+Edwardstown,just_cuts,,unknown,Castle Plaza
+Newton,just_cuts,,unknown,Newton Village
+Noarlunga,just_cuts,,unknown,Colonnades
+Seaford,just_cuts,,unknown,Seaford
+West Lakes,just_cuts,,unknown,West Lakes
+Elizabeth,just_cuts,,unknown,Elizabeth
+Kilkenny,just_cuts,,unknown,Kilkenny-Arndale
+Modbury,just_cuts,,unknown,Modbury-Tea Tree
+Salisbury,just_cuts,,unknown,Parabanks-Salisbury
+Oaklands Park,just_cuts,,unknown,Marion
+Adelaide Airport,just_group,Shop T62 Harbour Town 727 Tapleys Hill Rd Adelaide Harbourtown Adelaide Airport SA 5950 Australia,unknown,Peter Alexander Adelaide Harbourtown
+Adelaide Airport,just_group,Shop T31a Harbourtown 727 Tapleys Hill Road Adelaide Harbourtown Adelaide Airport SA 5950 Australia,unknown,Smiggle Adelaide Harbourtown
+Adelaide Airport,just_group,Shop T54 Harbourtown 727 Tapleys Hill Road Adelaide Harbourtown Adelaide Airport SA 5950 Australia,unknown,Portmans Adelaide Harbourtown
+Adelaide Airport,just_group,Shop T53 Harbourtown 727 Tapleys Hill Road Adelaide Harbourtown Adelaide Airport SA 5950 Australia,unknown,Just Jeans Adelaide Harbourtown
+Adelaide Airport,just_group,Shop T25 Harbourtown 727 Tapleys Hill Road Adelaide Harbourtown Adelaide Airport SA 5950 Australia,unknown,Jacqui E Adelaide Harbourtown
+Adelaide Airport,just_group,Shop T13/14 Harbourtown 727 Tapleys Hill Road Adelaide Harbourtown Adelaide Airport SA 5950 Australia,unknown,Jay Jays Adelaide Harbourtown
+Adelaide,just_group,Shop 130 Myer Centre 24 - 42 Rundle Mall Adelaide Myer Centre Adelaide SA 5000 Australia,unknown,Jacqui E Adelaide Myer Centre
+Berri,just_group,Shop 23 Riverland Plaza Kay Avenue Berri SA 5343 Australia,unknown,Just Jeans Berri
+Glenside,just_group,Shop 119 Burnside Village 447 Portrush Road Burnside Glenside SA 5065 Australia,unknown,Peter Alexander Burnside
+Glenside,just_group,Shop 16 Burnside S/C 447 Portrush Road Burnside Glenside SA 5065 Australia,unknown,Smiggle Burnside
+Glenside,just_group,Shop 44 Burnside S/C 447 Portrush Road Burnside Glenside SA 5065 Australia,unknown,Portmans Burnside
+Glenside,just_group,Shop 19 Burnside Village 447 Portrush Road Burnside Glenside SA 5065 Australia,unknown,Jacqui E Burnside
+Noarlunga,just_group,Shop Sp166 Colonnades S/C Cnr Goldsmith Dr/Beach Rd Colonnades Noarlunga SA 5168 Australia,unknown,Dotti Colonnades
+Noarlunga,just_group,Shop Qf40 Colonnades S/C Cnr Goldsmith Dr/Beach Rd Colonnades Noarlunga SA 5168 Australia,unknown,Just Jeans Colonnades
+Noarlunga,just_group,Shop Yf71 Colonnades S/C Cnr Goldsmith Dr/Beach Rd Colonnades Noarlunga SA 5168 Australia,unknown,Jay Jays Colonnades
+Elizabeth,just_group,Shop S20 Elizabeth S/C 21 Prince Charles Walk Elizabeth SA 5112 Australia,unknown,Smiggle Elizabeth
+Elizabeth,just_group,Shop S122a Elizabeth S/C 50 Elizabeth Way Elizabeth SA 5112 Australia,unknown,Dotti Elizabeth
+Elizabeth,just_group,Shop S039a Elizabeth S/C 50 Elizbeth Way Elizabeth SA 5112 Australia,unknown,Just Jeans Elizabeth
+Elizabeth,just_group,S111 Elizabeth City S/C 50 Elizabeth Way Elizabeth SA 5112 Australia,unknown,Jay Jays Elizabeth
+Oaklands Park,just_group,Shp 1041 Westfield Marion 297 Diagonal Rd Marion Oaklands Park SA 5046 Australia,unknown,Peter Alexander Marion
+Oaklands Park,just_group,Shop 2062 W'field Marion 297 Diagonal Road Marion Oaklands Park SA 5046 Australia,unknown,Smiggle Marion
+Oaklands Park,just_group,Shp 1105 Westfield Marion 297 Diagonal Rd Marion Oaklands Park SA 5046 Australia,unknown,Portmans Marion
+Oaklands Park,just_group,Shp 1102 Westfield Marion 297 Diagonal Rd Marion Oaklands Park SA 5046 Australia,unknown,Dotti Marion
+Oaklands Park,just_group,Sh 180/181 W'field Marion 297 Diagonal Road Marion Oaklands Park SA 5046 Australia,unknown,Just Jeans Marion
+Oaklands Park,just_group,Shp 1101 Westfield Marion 297 Diagonal Road Marion Oaklands Park SA 5046 Australia,unknown,Jacqui E Marion
+Oaklands Park,just_group,Shp 1124 Westfield Marion 297 Diagonal Road Marion Oaklands Park SA 5046 Australia,unknown,Jay Jays Marion
+Mt Barker,just_group,Shop 42Mt Barker S/C 44 Mclaren Street Mt Barker SA 5251 Australia,unknown,Just Jeans Mt Barker
+Mt Barker,just_group,Shop T1 Mt Barker S/C 44 Mclaren Street Mt Barker SA 5251 Australia,unknown,Jay Jays Mt Barker
+Mount Gambier,just_group,Shop 29 Mt Gambier Mplace 182-248 Penola Rd Mt Gambier Mount Gambier SA 5290 Australia,unknown,Smiggle Mt Gambier
+Mt Gambier,just_group,Shop Sp014 The Lakes S/C 21 Helen Street Mt Gambier SA 5290 Australia,unknown,Just Jeans Mt Gambier
+Mount Gambier,just_group,Shop Sp009 Lakes Village 19 Helen Street Mt Gambier Mount Gambier SA 5290 Australia,unknown,Jay Jays Mt Gambier
+Smithfield,just_group,Shop 62AMunno Para S/Cty Main North Road. Munno Para Smithfield SA 5114 Australia,unknown,Jay Jays Munno Para
+Norwood,just_group,Shop G35 Norwood Place Sc 161 The Parade Norwood SA 5067 Australia,unknown,Peter Alexander Norwood
+Port Augusta,just_group,. 31 Commercial Road Port Augusta SA 5700 Australia,unknown,Just Jeans Port Augusta
+Port Lincoln,just_group,Shop 4 Port Plaza S/C 38 - 44 Edinburgh St Port Lincoln SA 5606 Australia,unknown,Jay Jays Port Lincoln
+Adelaide,just_group,Shop 2 Ground Floor 80 - 88 Rundle Mall Rundle Mall Adelaide SA 5000 Australia,unknown,Peter Alexander Rundle Mall
+Adelaide,just_group,. 134 Rundle Mall Rundle Mall Adelaide SA 5000 Australia,unknown,Smiggle Rundle Mall
+Sefton Park,just_group,Shop 21A Sefton Plaza Sc 225-237 Main North Road Sefton Plaza Sefton Park SA 5083 Australia,unknown,Just Jeans Sefton Plaza
+Modbury,just_group,Shop 114 W'field Tea Tree 976 North East Road Tea Tree Modbury SA 5092 Australia,unknown,Smiggle Tea Tree
+Modbury,just_group,Shop 171 Westfield S/C North East Road Tea Tree Modbury SA 5092 Australia,unknown,Portmans Tea Tree
+Modbury,just_group,Shop 115 Tea Tree Plaza 976 North East Road Tea Tree Modbury SA 5092 Australia,unknown,Dotti Tea Tree
+Modbury,just_group,Shop 103Tea Tree Plaza 976 North East Road Tea Tree Modbury SA 5092 Australia,unknown,Just Jeans Tea Tree
+Modbury,just_group,Shop 169 Tea Tree Plaza 976 North East Road Tea Tree Modbury SA 5092 Australia,unknown,Jacqui E Tea Tree
+Modbury,just_group,Shop 95 Tea Tree Plaza 976 North East Road Tea Tree Modbury SA 5092 Australia,unknown,Jay Jays Tea Tree
+Modbury,just_group,Shop 172/173 Tea Tree Plz 976 North East Road Tea Tree Plaza Modbury SA 5092 Australia,unknown,Peter Alexander Tea Tree Plaza
+West Lakes,just_group,Shop 6 West Lakes Mall 111 West Lakes Boulevard Westlakes West Lakes SA 5021 Australia,unknown,Just Jeans Westlakes
+West Lakes,just_group,Shop T230 Westlakes Mall 111 Westlakes Boulevard Westlakes West Lakes SA 5021 Australia,unknown,Jacqui E Westlakes
+West Lakes,just_group,Shop T140 Westlakes Mall 111 West Lakes Boulevard Westlakes West Lakes SA 5021 Australia,unknown,Jay Jays Westlakes
+Whyalla Norrie,just_group,Shop 39 Westland S/C Nicholson Drive Whyalla Whyalla Norrie SA 5608 Australia,unknown,Jay Jays Whyalla
+Adelaide Airport,kate_spade_au_nz,,unknown,Harbour Town Adelaide Outlet
+SEAFORD MEADOWS,kennards_self_storage_au,,unknown,Kennards Self Storage Seaford Meadows Seaford Meadows
+ADELAIDE,kennards_self_storage_au,,unknown,Kennards Self Storage Adelaide CBD
+MILE END,kennards_self_storage_au,,unknown,Kennards Self Storage Mile End
+KLEMZIG,kennards_self_storage_au,,unknown,Kennards Self Storage Klemzig
+THEBARTON,kennards_self_storage_au,,unknown,Kennards Self Storage Thebarton
+CROYDON PARK,kennards_self_storage_au,,unknown,Kennards Self Storage Croydon Park
+ADELAIDE AIRPORT,kennards_self_storage_au,,unknown,Kennards Self Storage Adelaide Airport
+PANORAMA,kennards_self_storage_au,,unknown,Kennards Self Storage Panorama
+Norwood,kidstuff_au,,unknown,Norwood
+Oaklands Park,kidstuff_au,,unknown,Marion
+Hyde Park,kidstuff_au,,unknown,Unley
+Oaklands Park,kookai_au,,unknown,MARION
+Adelaide,kookai_au,,unknown,RUNDLE PLACE
+Glenside,kookai_au,,unknown,BURNSIDE
+Seaford,liberty_au,,unknown,unknown
+Marion,liberty_au,,unknown,unknown
+Camden Park,liberty_au,,unknown,unknown
+Adelaide,liberty_au,,unknown,unknown
+Woodville,liberty_au,,unknown,unknown
+Beverley,liberty_au,,unknown,unknown
+Perkins Drive,liberty_au,,unknown,unknown
+Taperoo,liberty_au,,unknown,unknown
+Nailsworth,liberty_au,,unknown,unknown
+Blair Athol,liberty_au,,unknown,unknown
+Clearview,liberty_au,,unknown,unknown
+Windsor Gardens,liberty_au,,unknown,unknown
+Pooraka,liberty_au,,unknown,unknown
+Edinburgh North,liberty_au,,unknown,unknown
+Smithfield,liberty_au,,unknown,unknown
+Adelaide,lincraft_au,,unknown,Adelaide
+Mount Gambier,lincraft_au,,unknown,Mount Gambier
+Regency Plaza,lincraft_au,,unknown,Regency Plaza
+North Adelaide,little_free_library,,unknown,Julia Blanka #19362 North Adelaide SA
+TORRENSVILLE,lj_hooker_au_nz,,unknown,LJ Hooker Mile End | Woodville
+RIDGEHAVEN,lj_hooker_au_nz,,unknown,LJ Hooker Greenwith | Golden Grove |  Mawson Lakes
+PROSPECT,lj_hooker_au_nz,,unknown,LJ Hooker Prospect
+SALISBURY,lj_hooker_au_nz,,unknown,LJ Hooker Salisbury
+KENSINGTON PARK,lj_hooker_au_nz,,unknown,LJ Hooker Kensington | Unley
+PAYNEHAM,lj_hooker_au_nz,,unknown,LJ Hooker Adelaide Metro
+SOMERTON PARK,lj_hooker_au_nz,,unknown,LJ Hooker Glenelg | Brighton
+FLINDERS PARK,lj_hooker_au_nz,,unknown,LJ Hooker Flinders Park
+NORTH HAVEN,lj_hooker_au_nz,,unknown,LJ Hooker Marine Adelaide
+MOUNT BARKER,lj_hooker_au_nz,,unknown,LJ Hooker Mount Barker
+GAWLER,lj_hooker_au_nz,,unknown,LJ Hooker Gawler | Barossa
+SEATON,lj_hooker_au_nz,,unknown,LJ Hooker West Lakes | Henley Beach
+Elizabeth,lovisa,,unknown,Lovisa
+Oaklands Park,lovisa,,unknown,Lovisa
+Noarlunga Centre,lovisa,,unknown,Lovisa
+Glenside,lovisa,,unknown,Lovisa
+Modbury,lovisa,,unknown,Lovisa
+Adelaide,lovisa,,unknown,Lovisa
+Westlakes,lovisa,,unknown,Lovisa
+Norwood,lovisa,,unknown,Lovisa
+Golden Grove,lovisa,,unknown,Lovisa
+Ingle Farm,lovisa,,unknown,Lovisa
+Mt Gambier,lovisa,,unknown,Lovisa
+Parafield,lovisa,,unknown,Lovisa
+Adelaide,marriott,,unknown,Adelaide Marriott Hotel
+Noarlunga Beach,mcdonalds_qstore,,unknown,COLONNADES II SA
+Elizabeth,mcdonalds_qstore,,unknown,ELIZABETH SA
+Aldinga Beach,mcdonalds_qstore,,unknown,ALDINGA
+Naracoorte,mcdonalds_qstore,,unknown,NARACOORTE
+Port Adelaide,mcdonalds_qstore,,unknown,PORT ADELAIDE
+Munno Para,mcdonalds_qstore,,unknown,"CURTIS RD, MUNNO PARA WEST"
+Enfield,mcdonalds_qstore,,unknown,ENFIELD SA
+West Lakes,mcdonalds_qstore,,unknown,WESTLAKES SA
+Felixstow,mcdonalds_qstore,,unknown,FELIXSTOW SA
+Croydon,mcdonalds_qstore,,unknown,CROYDON SA
+Camden Park,mcdonalds_qstore,,unknown,CAMDEN PARK SA
+Frewville,mcdonalds_qstore,,unknown,FREWVILLE SA
+Adelaide,mcdonalds_qstore,,unknown,RUNDLE MALL EAST SA
+Kings Park,mcdonalds_qstore,,unknown,CROSS ROADS SA
+Noarlunga,mcdonalds_qstore,,unknown,NOARLUNGA SA
+Salisbury,mcdonalds_qstore,,unknown,SALISBURY SA
+Morphett Vale,mcdonalds_qstore,,unknown,REYNELLA SA
+Darlington,mcdonalds_qstore,,unknown,DARLINGTON SA
+Modbury,mcdonalds_qstore,,unknown,TEA TREE PLAZA II SA
+Fulham Gardens,mcdonalds_qstore,,unknown,FULHAM GARDENS SA
+Collinswood,mcdonalds_qstore,,unknown,COLLINSWOOD SA
+Trinity Gardens,mcdonalds_qstore,,unknown,TRINITY GARDENS SA
+Gawler,mcdonalds_qstore,,unknown,GAWLER SA
+Broken Hill,mcdonalds_qstore,,unknown,BROKEN HILL NSW
+Pooraka,mcdonalds_qstore,,unknown,POORAKA SA
+Melrose Park,mcdonalds_qstore,,unknown,MELROSE PARK SA
+Para Hills,mcdonalds_qstore,,unknown,PARA HILLS SA
+Mount Barker,mcdonalds_qstore,,unknown,MOUNT BARKER SA
+Murray Bridge,mcdonalds_qstore,,unknown,MURRAY BRIDGE SA
+Salisbury Downs,mcdonalds_qstore,,unknown,HOLLYWOOD PLAZA SA
+Golden Grove,mcdonalds_qstore,,unknown,GOLDEN GROVE SA
+Port Pirie,mcdonalds_qstore,,unknown,PORT PIRIE SA
+Victor Harbor,mcdonalds_qstore,,unknown,VICTOR HARBOR SA
+Happy Valley,mcdonalds_qstore,,unknown,HAPPY VALLEY SA
+Port Augusta,mcdonalds_qstore,,unknown,PORT AUGUSTA SA
+Whyalla,mcdonalds_qstore,,unknown,WHYALLA SA
+Port Lincoln,mcdonalds_qstore,,unknown,PORT LINCOLN SA
+Gilles Plains,mcdonalds_qstore,,unknown,GILLES PLAINS SA
+Seaford,mcdonalds_qstore,,unknown,SEAFORD SA
+Smithfield,mcdonalds_qstore,,unknown,SMITHFIELD SA
+Paralowie,mcdonalds_qstore,,unknown,PARALOWIE SA
+West Beach,mcdonalds_qstore,,unknown,WEST BEACH SA
+Hallett Cove,mcdonalds_qstore,,unknown,HALLETT COVE SA
+Kilburn,mcdonalds_qstore,,unknown,PROSPECT SA
+Kadina,mcdonalds_qstore,,unknown,KADINA SA
+Green Fields,mcdonalds_qstore,,unknown,Green Fields
+Woodville,mcdonalds_qstore,,unknown,"Woodville, SA"
+Mount Gambier,mcdonalds_qstore,,unknown,Mount Gambier East SA
+Salisbury Heights,mcdonalds_qstore,,unknown,Salisbury Plains
+Northfield,mcdonalds_qstore,,unknown,Northfield SA
+Nuriootpa,mcdonalds_qstore,,unknown,Nuriootpa
+Bolivar,mcdonalds_qstore,,unknown,Bolivar
+West Richmond,mcdonalds_qstore,,unknown,West Richmond
+Adelaide ,mcdonalds_qstore,,unknown,Adelaide Airport
+Edinburgh North,mcdonalds_qstore,,unknown,Edinburgh North SA
+Pasadena,mcdonalds_qstore,,unknown,Pasadena SA
+Blakeview,mcdonalds_qstore,,unknown,"Blakes Crossing, SA"
+Adelaide,m_j_bale_au,,unknown,Rundle Place Adelaide SA
+Modbury,nandos,,unknown,TEA TREE PLAZA
+Prospect,nandos,,unknown,NORTHPARK SHOPPING CENTRE
+Kurralta Park,nandos,,unknown,KURRALTA PARK CENTRO SHOPPING CENTRE
+Mawson Lakes,nandos,,unknown,MAWSON LAKES
+Oaklands Park,nandos,,unknown,MARION WESTFIELD
+Coober Pedy,national,,unknown,Coober Pedy Airport
+North Shields,national,,unknown,Port Lincoln Airport
+Mullaquana,national,,unknown,Whyalla Airport
+Adelaide,national,,unknown,Adelaide Airport
+Wandilo,national,,unknown,Mount Gambier Airport
+Ceduna,national,,unknown,Ceduna Airport
+Parafield,neverland_au,,unknown,Parafield
+BERRI,nissan_europe,,unknown,Big River Nissan
+POORAKA,nissan_europe,,unknown,Lakeside Nissan
+PORT AUGUSTA,nissan_europe,,unknown,Augusta Nissan
+NAILSWORTH,nissan_europe,,unknown,Main North Nissan
+PORT PIRIE,nissan_europe,,unknown,Spencer Nissan
+MORPHETT VALE,nissan_europe,,unknown,Southern Vales Nissan
+ST MARYS,nissan_europe,,unknown,Adrian Brien Nissan
+BORDERTOWN,nissan_europe,,unknown,Bordertown Nissan
+NARACOORTE,nissan_europe,,unknown,Naracoorte Nissan
+NURIOOTPA,nissan_europe,,unknown,Barossa Nissan
+BRIDGEWATER,nissan_europe,,unknown,Adelaide Hills Nissan
+KADINA,nissan_europe,,unknown,Peninsula Nissan
+WHYALLA,nissan_europe,,unknown,Whyalla Nissan
+MURRAY BRIDGE,nissan_europe,,unknown,Duttons Nissan
+MOUNT GAMBIER,nissan_europe,,unknown,Ogr Nissan
+PORT LINCOLN,nissan_europe,,unknown,City Motors
+Mile End,nutrition_warehouse_au,,unknown,Mile End
+Mitchell Park,nutrition_warehouse_au,,unknown,Mitchell Park
+Prospect,nutrition_warehouse_au,,unknown,Prospect
+Elizabeth,nutrition_warehouse_au,,unknown,Elizabeth
+Ridgehaven,nutrition_warehouse_au,,unknown,Modbury
+Elizabeth,officeworks_au,,unknown,Elizabeth Officeworks
+Parafield,officeworks_au,,unknown,Parafield Officeworks
+Croydon,officeworks_au,,unknown,Croydon Officeworks
+Gilles Plains,officeworks_au,,unknown,Gilles Plains Officeworks
+Prospect,officeworks_au,,unknown,Prospect Officeworks
+Adelaide CBD,officeworks_au,,unknown,Gawler Place Officeworks
+Keswick,officeworks_au,,unknown,Keswick Officeworks
+Trinity Gardens,officeworks_au,,unknown,Trinity Gardens Officeworks
+Mitchell Park,officeworks_au,,unknown,Marion Officeworks
+Noarlunga Centre,officeworks_au,,unknown,Noarlunga Officeworks
+Bolivar,oporto_au,,unknown,Bolivar
+Munno Para,oporto_au,,unknown,Curtis Rd Munno Para West
+Adelaide,oporto_au,,unknown,Pulteney Street
+Hillbank,oporto_au,,unknown,Hillbank
+Brompton,oporto_au,,unknown,Brompton
+Glenside,oporto_au,,unknown,Glenside
+Peterhead,oporto_au,,unknown,Peterhead
+Reynella,oporto_au,,unknown,Reynella
+Marion,oporto_au,,unknown,Marion
+Tranmere,oporto_au,,unknown,Tranmere DT
+Mawson Lake,oporto_au,,unknown,Mawson Lakes
+Adelaide,oxford_au,,unknown,Rundle Place
+Adelaide Airport,oxford_au,,unknown,Adelaide Airport
+Whyalla,petstock_au,,unknown,Petstock Whyalla
+Wallaroo,petstock_au,,unknown,Petstock Country Wallaroo
+Port Lincoln,petstock_au,,unknown,Petstock Port Lincoln
+Smithfield,petstock_au,,unknown,Petstock Munno Para
+Salisbury Downs,petstock_au,,unknown,Petstock Hollywood
+Parafield,petstock_au,,unknown,Petstock Parafield
+Modbury,petstock_au,,unknown,Petstock Modbury
+Allenby Gardens,petstock_au,,unknown,Petstock Allenby Gardens
+Sefton Park,petstock_au,,unknown,Petstock Sefton Park
+Glenside,petstock_au,,unknown,Petstock Burnside
+Melrose Park,petstock_au,,unknown,Petstock Melrose Park
+Panorama,petstock_au,,unknown,Petstock Panorama
+Noarlunga,petstock_au,,unknown,Petstock Noarlunga
+Totness,petstock_au,,unknown,Petstock Mount Barker
+Murray Bridge,petstock_au,,unknown,Petstock Country Murray Bridge
+Hayborough,petstock_au,,unknown,Petstock Victor Harbor
+Mt Gambier,petstock_au,,unknown,Petstock Mt Gambier
+Goolwa,pharmasave_au,Shop 6 Goolwa Village Shopping Centre,unknown,PharmaSave Goolwa Village Pharmacy
+Seacliff,pharmasave_au,675 Brighton Road,unknown,PharmaSave Seacliff Pharmacy
+Alberton,pharmasave_au,33 Fussell Place,unknown,PharmaSave Alberton Late Night Pharmacy
+Wayville,pharmasave_au,43-51 Goodwood Road,unknown,PharmaSave Wayville Pharmacy
+Kilkenny,pharmasave_au,Shop SP093 Armada Arndale,unknown,PharmaSave Arndale Pharmacy
+Glenside,pharmasave_au,322 Greenhill Rd,unknown,PharmaSave Glenside Late Night Pharmacy
+Elizabeth East,pharmasave_au,Shop 5 55 Spruance Road,unknown,PharmaSave Elizabeth Late Night Pharmacy
+Mile End South,pillow_talk_au,,unknown,Mile End
+Elizabeth,price_attack_au,,unknown,Elizabeth
+Oaklands Park,price_attack_au,,unknown,Marion
+Edwardstown,price_attack_au,,unknown,Castle Plaza
+Glenside,price_attack_au,,unknown,Burnside Village
+West Lakes,price_attack_au,,unknown,West Lakes
+Ingle Farm,price_attack_au,,unknown,Ingle Farm
+Modbury,price_attack_au,,unknown,Tea Tree Plaza
+Hyde Park,price_attack_au,,unknown,Hyde Park
+Mount Gambier,price_attack_au,,unknown,Mount Gambier
+Adelaide,price_attack_au,,unknown,City Cross
+Salisbury,price_attack_au,,unknown,Parabanks
+West Lakes,qbd_books_au,,unknown,QBD Books - West Lakes
+Modbury,qbd_books_au,,unknown,QBD Books - Tea Tree
+Adelaide,qbd_books_au,,unknown,QBD Books - Rundle Mall
+Oaklands Park,qbd_books_au,,unknown,QBD Books - Marion
+Elizabeth,qbd_books_au,,unknown,QBD Books - Elizabeth
+Noarlunga Centre,qbd_books_au,,unknown,QBD Books - Colonnades
+Elizabeth,rsea_safety_au,,unknown,RSEA Safety Elizabeth
+MELROSE PARK,rsea_safety_au,,unknown,RSEA Safety Melrose Park
+Munno Para,rsea_safety_au,,unknown,RSEA Safety Munno Para
+PARAFIELD AIRPORT,rsea_safety_au,,unknown,RSEA Safety Parafield
+Wingfield,rsea_safety_au,,unknown,RSEA Safety Wingfield
+Marion,scooter_hut_au,,unknown,Scooter Hut Adelaide
+Adelaide,shaver_shop,,unknown,Adelaide CBD
+Noarlunga Centre,shaver_shop,,unknown,Colonnades
+Elizabeth,shaver_shop,,unknown,Elizabeth
+Adelaide Airport,shaver_shop,,unknown,Harbour Town Adelaide
+Oaklands Park,shaver_shop,,unknown,Marion
+Modbury,shaver_shop,,unknown,Tea Tree Plaza
+West Lakes,shaver_shop,,unknown,West Lakes
+HAHNDORF,shell,,unknown,SHELL GET & GO HAHNDORF
+HOPE VALLEY,shell,,unknown,SHELL COLES EXPRESS HOPE VALLEY
+VALLEY VIEW,shell,,unknown,SHELL COLES EXPRESS VALLEY VIEW WRIGHT RD
+FAIRVIEW PARK,shell,,unknown,SHELL COLES EXPRESS FAIRVIEW PARK
+REGENCY PARK,shell,,unknown,SHELL REGENCY PARK UNMANNED
+KERSBROOK,shell,,unknown,SHELL KERSBROOK
+MANSFIELD PARK,shell,,unknown,SHELL COLES EXPRESS MANSFIELD PARK
+MCLAREN VALE,shell,,unknown,SHELL COLES EXPRESS MCLAREN VALE
+WEST LAKES,shell,,unknown,SHELL COLES EXPRESS WEST LAKES
+ELIZABETH PARK,shell,,unknown,SHELL COLES EXPRESS ELIZABETH PARK
+MURRAY BRIDGE,shell,,unknown,SHELL COLES EXPRESS MURRAY BRIDGE
+MYPONGA,shell,,unknown,SHELL MYPONGA
+VICTOR HARBOR,shell,,unknown,SHELL COLES EXPRESS VICTOR HARBOR
+TAILEM BEND,shell,,unknown,SHELL COLES EXPRESS TAILEM BEND
+NURIOOTPA,shell,,unknown,SHELL NURIOOTPA
+MALLALA,shell,,unknown,SHELL MALLALA
+BLANCHETOWN,shell,,unknown,SHELL BLANCHETOWN
+PORT WAKEFIELD,shell,,unknown,SHELL COLES EXPRESS PORT WAKEFIELD
+AUBURN,shell,,unknown,SHELL AUBURN
+WAIKERIE,shell,,unknown,SHELL COLES EXPRESS WAIKERIE
+SNOWTOWN,shell,,unknown,SHELL SNOWTOWN ROADHOUSE
+TINTINARA,shell,,unknown,SHELL TINTINARA
+MOONTA,shell,,unknown,SHELL MOONTA
+GLOSSOP,shell,,unknown,SHELL GLOSSOP ROADHOUSE
+KEITH,shell,,unknown,SHELL KEITH
+WARNERTOWN,shell,,unknown,SHELL WARNERTOWN
+PORT PIRIE,shell,,unknown,SHELL COLES EXPRESS PORT PIRIE
+BORDERTOWN,shell,,unknown,SHELL BORDERTOWN
+WHYALLA,shell,,unknown,SHELL COLES EXPRESS WHYALLA
+PORT LINCOLN,shell,,unknown,SHELL PORT LINCOLN UNMANNED
+NARACOORTE,shell,,unknown,SHELL COLES EXPRESS NARACOORTE
+PORT AUGUSTA,shell,,unknown,SHELL COLES EXPRESS PORT AUGUSTA WEST ROADHOUSE
+KIMBA,shell,,unknown,SHELL KIMBA ROADHOUSE & MOTEL
+PENOLA,shell,,unknown,SHELL PENOLA ROADHOUSE
+MOUNT GAMBIER,shell,,unknown,SHELL COLES EXPRESS MOUNT GAMBIER
+COOBER PEDY,shell,,unknown,SHELL COOBER PEDY ROADHOUSE
+NULLARBOR,shell,,unknown,SHELL BORDER VILLAGE
+STREAKY BAY,shell,,unknown,SHELL STREAKY BAY
+unknown,skoda,,unknown,Jarvis Škoda (Barossa)
+Mile End,spa_world_au_nz,,unknown,Spa World Adelaide
+Port Lincoln,specsavers,,unknown,Port Lincoln
+Minlaton,specsavers,,unknown,Minlaton
+Victor Harbor,specsavers,,unknown,Victor Central
+Mount Gambier,specsavers,,unknown,Mt Gambier
+Seaford,specsavers,,unknown,Seaford
+Noarlunga Downs,specsavers,,unknown,Noarlunga Centre
+Morphett Vale,specsavers,,unknown,Morphett Vale
+Kadina,specsavers,,unknown,Kadina
+Oaklands Park,specsavers,,unknown,Marion West Westfield Lvl 2
+West Lakes,specsavers,,unknown,West Lakes Westfield
+Edwardstown,specsavers,,unknown,Edwardstown Castle Plaza S/C
+Torrens Park,specsavers,,unknown,Mitcham
+Torrensville,specsavers,,unknown,Brickworks Marketplace
+Kilkenny,specsavers,,unknown,Kilkenny
+Adelaide,specsavers,,unknown,Adelaide - Rundle Mall
+Norwood,specsavers,,unknown,Norwood Place
+Sefton Park,specsavers,,unknown,Sefton Plaza S/C
+Marden,specsavers,,unknown,Marden S/C
+Newton,specsavers,,unknown,Newton
+Ingle Farm,specsavers,,unknown,Ingle Farm Shopping Centre
+Mount Barker,specsavers,,unknown,Mt Barker Central
+Salisbury Downs,specsavers,,unknown,Hollywood S/C
+Modbury,specsavers,,unknown,Tea Tree Plaza
+Salisbury,specsavers,,unknown,Parabanks Centre
+Golden Grove,specsavers,,unknown,The Grove Shopping Centre
+Elizabeth,specsavers,,unknown,Elizabeth S/C
+Smithfield,specsavers,,unknown,Munno Para S/C
+Whyalla Norrie,specsavers,,unknown,Whyalla Westland S/C
+Gawler,specsavers,,unknown,Gawler
+Murray Bridge,specsavers,,unknown,Murray Bridge
+Port Pirie,specsavers,,unknown,Pirie Plaza
+Nuriootpa,specsavers,,unknown,Nuriootpa
+Clare,specsavers,,unknown,Clare
+Berri,specsavers,,unknown,Berri Riverland Central Plaza
+Port Augusta,spendless_au,,unknown,Port Augusta
+Whyalla Norrie,spendless_au,,unknown,Whyalla
+Port Pirie,spendless_au,,unknown,Port Pirie
+Gawler,spendless_au,,unknown,Gawler
+Smithfield,spendless_au,,unknown,Munno Para
+Elizabeth,spendless_au,,unknown,Elizabeth
+Salisbury,spendless_au,,unknown,Parabanks
+Salisbury Downs,spendless_au,,unknown,Hollywood
+Golden Grove,spendless_au,,unknown,Golden Grove
+West Lakes,spendless_au,,unknown,West Lakes
+Ingle Farm,spendless_au,,unknown,Ingle Farm
+Kilkenny,spendless_au,,unknown,Arndale
+Modbury,spendless_au,,unknown,Tea Tree Plaza
+Adelaide Airport,spendless_au,,unknown,Harbour Town 
+Adelaide,spendless_au,,unknown,Rundle Mall
+Edwardstown,spendless_au,,unknown,Edwardstown
+Oaklands Park,spendless_au,,unknown,Marion
+Morphett Vale,spendless_au,,unknown,Southgate
+Berri,spendless_au,,unknown,Berri
+Noarlunga Centre,spendless_au,,unknown,Colonnades
+Mount Barker,spendless_au,,unknown,Mount Barker
+Murray Bridge,spendless_au,,unknown,Murray Bridge
+Mount Gambier,spendless_au,,unknown,Mount Gambier
+Glenside,sportscraft,,unknown,Burnside
+Adelaide,sportscraft,,unknown,Rundle Mall
+Oaklands Park,sportscraft,,unknown,David Jones Marion
+West Lakes,sportscraft,,unknown,David Jones Westlakes
+Norwood,sportscraft,,unknown,Norwood
+Oaklands Park,sportsgirl_au,,unknown,MARION
+Modbury,sportsgirl_au,,unknown,TEA TREE PLAZA
+Glenelg,sportsgirl_au,,unknown,GLENELG
+Golden Grove,sportsgirl_au,,unknown,GOLDEN GROVE
+Norwood,sportsgirl_au,,unknown,NORWOOD
+West Lakes,sportsgirl_au,,unknown,WEST LAKES
+Torrens Park,sportspower_au,,unknown,Mitcham
+Melrose Park,sportspower_au,,unknown,Melrose Park
+Mt Barker,sportspower_au,,unknown,Mount Barker
+Murray Bridge,sportspower_au,,unknown,Murray Bridge
+Nuriootpa,sportspower_au,,unknown,Barossa
+Kadina,sportspower_au,,unknown,Kadina
+Naracoorte,sportspower_au,,unknown,Naracoorte
+Loxton,sportspower_au,,unknown,Loxton
+Port Augusta,sportspower_au,,unknown,Port Augusta
+Millicent,sportspower_au,,unknown,Millicent
+Ceduna,sportspower_au,,unknown,Ceduna
+Port Lincoln,sportspower_au,,unknown,Port Lincoln
+Colonnades,sportspower_au,,unknown,Colonnades
+Elizabeth,sportspower_au,,unknown,Elizabeth
+Gawler,sportspower_au,,unknown,Gawler
+Glenelg,sportspower_au,,unknown,Glenelg
+Harbour Town,sportspower_au,,unknown,Harbour Town
+Norwood,sportspower_au,,unknown,Norwood
+Renmark,sportspower_au,,unknown,Renmark
+Oaklands Park,sportspower_au,,unknown,Marion
+Modbury,sunglass_hut_1,,unknown,Sunglass Hut Myer Tea Tree Plaza
+Oaklands Park,sunglass_hut_1,,unknown,Sunglass Hut Myer Marion
+Adelaide,sunglass_hut_1,,unknown,Sunglass Hut Rundle Mall
+West Beach,sunglass_hut_1,,unknown,Sunglass Hut Adelaide Harbourtown DFO
+Glenelg,sunglass_hut_1,,unknown,Sunglass Hut Jetty Road
+Elizabeth,sunglass_hut_1,,unknown,Sunglass Hut Elizabeth City
+West Lakes,sunglass_hut_1,,unknown,Sunglass Hut West Lakes
+Noarlunga Centre,sunglass_hut_1,,unknown,Sunglass Hut Colonnades
+Glenside,sunglass_hut_1,,unknown,Sunglass Hut Burnside
+Glenelg,sussan_au,,unknown,Glenelg
+Oaklands Park,sussan_au,,unknown,Marion
+Golden Grove,sussan_au,,unknown,Golden Grove
+West Lakes,sussan_au,,unknown,West Lakes
+Unley,sussan_au,,unknown,Unley
+Edwardstown,sussan_au,,unknown,Edwardstown
+Mt Gambier,sussan_au,,unknown,Mt Gambier
+Noarlunga Centre,suzanne_grae_au,,unknown,Colonnades
+Elizabeth,suzanne_grae_au,,unknown,Elizabeth
+Edwardstown,suzanne_grae_au,,unknown,Edwardstown
+West Lakes,suzanne_grae_au,,unknown,West Lakes
+Modbury,suzanne_grae_au,,unknown,Tea Tree Plaza
+Oaklands Park,suzanne_grae_au,,unknown,Marion
+Salisbury Downs,suzanne_grae_au,,unknown,Hollywood Plaza
+Ingle Farm,suzanne_grae_au,,unknown,Ingle Farm
+Glenelg,suzanne_grae_au,,unknown,Glenelg
+Golden Grove,suzanne_grae_au,,unknown,Golden Grove
+Mt Barker,suzanne_grae_au,,unknown,Mount Barker
+Munno Para,sydney_tools_au,,unknown,Munno Para
+Parafield Airport,sydney_tools_au,,unknown,Parafield
+REGENCY PARK,sydney_tools_au,,unknown,Regency Park
+Windsor Gardens,sydney_tools_au,,unknown,Windsor Gardens
+Port Lincoln,telstra_au,,unknown,Port Lincoln
+Victor Harbor,telstra_au,,unknown,Victor Harbor
+Mount Gambier,telstra_au,,unknown,Mt Gambier
+Noarlunga Centre,telstra_au,,unknown,Colonnades
+Kadina,telstra_au,,unknown,Kadina
+Oaklands Park,telstra_au,,unknown,Marion
+Glenelg,telstra_au,,unknown,Glenelg
+West Lakes,telstra_au,,unknown,West Lakes
+Edwardstown,telstra_au,,unknown,Castle Plaza
+Unley,telstra_au,,unknown,Unley
+Kilkenny,telstra_au,,unknown,Arndale
+Adelaide,telstra_au,,unknown,Adelaide
+Norwood,telstra_au,,unknown,Norwood
+Prospect,telstra_au,,unknown,Northpark
+Ingle Farm,telstra_au,,unknown,Ingle Farm
+Mt. Barker,telstra_au,,unknown,Mt. Barker
+Modbury,telstra_au,,unknown,Modbury
+Golden Grove,telstra_au,,unknown,Golden Grove
+Elizabeth,telstra_au,,unknown,Elizabeth
+Munno Para,telstra_au,,unknown,Munno Para
+Whyalla Norrie,telstra_au,,unknown,Whyalla
+Gawler,telstra_au,,unknown,Gawler
+Murray Bridge,telstra_au,,unknown,Murray Bridge
+Port Pirie,telstra_au,,unknown,Port Pirie
+Renmark,telstra_au,,unknown,Renmark
+Prospect,tentworld_au,,unknown,Adelaide - Prospect
+Hallett Cove,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Hallett Cove
+Munno Para,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Playford
+St Agnes,terry_white_chemmart_au,,unknown,TerryWhite Chemmart St Agnes
+Cumberland Park,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Cumberland Park
+Whyalla Norrie,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Westland
+Hilton,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Hilton
+Mount Barker,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Mt Barker Central
+Balhannah,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Balhannah
+Woodville,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Port Road Medical Centre
+Henley Beach,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Henley Square
+Angle Vale,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Angle Vale
+Port Adelaide,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Port Adelaide
+Parafield Gardens,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Parafield Plaza
+Marleston,terry_white_chemmart_au,,unknown,TerryWhite Chemmart North Plympton
+Mawson Lakes,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Mawson Central
+Christies Beach,terry_white_chemmart_au,,unknown,TerryWhite Chemmart O'Sullivan
+West Lakes Shore,terry_white_chemmart_au,,unknown,TerryWhite Chemmart West Lakes Shore
+Woodcroft,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Woodcroft Town Centre
+Seaford Meadows,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Seaford Meadows
+Gawler,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Gawler Murray St
+Burra,terry_white_chemmart_au,,unknown,Tim Siv's TerryWhite Chemmart Burra
+Whyalla,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Essington Lewis
+Clare,terry_white_chemmart_au,,unknown,Tim Siv's TerryWhite Chemmart Clare
+Mannum,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Mannum Riverside
+Kapunda,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Kapunda
+Northgate,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Northgate
+Unley,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Unley
+Para Hills West,terry_white_chemmart_au,,unknown,TerryWhite Chemmart McIntyre Medical
+Brighton,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Brighton Day & Night
+Angaston,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Angaston
+Ceduna,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Ceduna Poynton Street
+Mile End,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Mile End
+Gilles Plains,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Gilles Plains
+Glenside,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Village Burnside
+Glenunga,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Glenunga
+Norwood,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Norwood
+Naracoorte,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Kincraig
+Victor Harbor,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Victor Harbor Central
+Eudunda,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Eudunda
+Port Wakefield,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Port Wakefield
+Grange,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Grange
+McLaren Vale,terry_white_chemmart_au,,unknown,TerryWhite Chemmart McLaren Vale
+Novar Gardens,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Novar Gardens
+Seacliff Park,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Seacliff Park
+Adelaide,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Rundle Place
+Findon,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Findon
+Malvern,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Malvern
+Murray Bridge,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Murray Bridge
+Balaklava,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Balaklava
+North Adelaide,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Melbourne Street Pharmacy
+Oaklands Park,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Westfield Marion
+Elizabeth South,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Elizabeth South
+Seaford,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Seaford Shopping Centre
+Modbury,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Paragon Medical Centre
+Hahndorf,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Hahndorf
+Blackwood,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Main Road Blackwood
+Port Lincoln,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Port Lincoln
+Glenelg East,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Morphettville
+Stepney,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Stepney
+Largs North,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Largs Bay
+Hazelwood Park,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Hazelwood Park
+Marion,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Marion Compounding
+Old Reynella,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Old Reynella
+Kurralta Park,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Kurralta Park
+Newton,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Newton
+Hayborough,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Hayborough
+Walkerville,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Walkerville
+Wynn Vale,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Wynn Vale
+Noarlunga Centre,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Colonnades
+Normanville,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Normanville
+Marden,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Marden Compounding
+South Plympton,terry_white_chemmart_au,,unknown,TerryWhite Chemmart South Plympton
+West Beach,terry_white_chemmart_au,,unknown,TerryWhite Chemmart West Beach
+Fulham,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Fulham Day & Night
+Port Pirie,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Port Pirie
+Aldinga,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Aldinga Medical Centre
+Two Wells,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Two Wells
+Torrensville,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Torrensville
+Kingscote,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Kangaroo Island
+Happy Valley,terry_white_chemmart_au,,unknown,TerryWhite Chemmart Happy Valley
+Adelaide,the_afl_store_au,,unknown,AFL Store Adelaide
+Oaklands Park,the_afl_store_au,,unknown,AFL Store Marion
+Modbury ,the_afl_store_au,,unknown,AFL Store Tea Tree Plaza
+unknown,the_cheesecake_shop,623 Lower North East Road Campbelltown SA 5074,unknown,Campbelltown SA
+unknown,the_cheesecake_shop,581 North East Road Gilles Plains SA 5086,unknown,Gilles Plains
+unknown,the_cheesecake_shop,3/246 Main North Road Prospect SA 5082,unknown,Prospect
+unknown,the_cheesecake_shop,Pelican Plaza 1007 North East Road Modbury SA 5092,unknown,Modbury
+unknown,the_cheesecake_shop,Welland Plaza Shopping Centre 522 Port Road Welland SA 5007,unknown,Welland
+unknown,the_cheesecake_shop,164 Henley Beach Road Torrensville SA 5031,unknown,Torrensville
+unknown,the_cheesecake_shop,Golden Grove Village The Golden Way Golden Grove SA 5125,unknown,Golden Grove
+unknown,the_cheesecake_shop,226 Belair Road Hawthorn SA 5062,unknown,Hawthorn
+unknown,the_cheesecake_shop,385 Grange Road Findon SA 5023,unknown,Findon
+unknown,the_cheesecake_shop,Spaceland S/C 73 John Street Salisbury SA 5108,unknown,Salisbury
+unknown,the_cheesecake_shop,164 Commercial Road Port Adelaide SA 5015,unknown,Port Adelaide
+unknown,the_cheesecake_shop,319 Oaklands & Cnr Marion Road Park Holme SA 5043,unknown,Park Holme
+unknown,the_cheesecake_shop,53-57 Elizabeth Way Elizabeth SA 5112,unknown,Elizabeth
+unknown,the_cheesecake_shop,Munno Para Shopping City Main North Road Smithfield SA 5114,unknown,Munno Para
+unknown,the_cheesecake_shop,Noarlunga Centre Dyson Road Christies Beach SA 5165,unknown,Christies Beach
+unknown,the_cheesecake_shop,94 Main South Road Reynella SA 5161,unknown,Reynella
+unknown,the_cheesecake_shop,Shop 2 33 Adelaide Road Gawler SA 5118,unknown,Gawler
+Elizabeth,the_coffee_club_au,SK01 Elizabeth Shopping Centre 50 Elizabeth Way Elizabeth SA Australia 5112,unknown,TCC - Elizabeth
+Gepps Cross,the_coffee_club_au,750 Main North Road Gepps Cross SA Australia 5094,unknown,TCC - Gepps Cross SA
+West Beach,the_coffee_club_au,Shop T52/52 Harbour Town 727 Tapleys Hill Road West Beach SA Australia 5024,unknown,TCC - Harbourtown SA
+Oaklands Park,the_coffee_club_au,Kiosk 206 Westfield Shopping Town 297 Diagonal Road Oaklands Park SA Australia 5046,unknown,TCC - Marion SA
+Adelaide,the_coffee_club_au,96 North Terrace Adelaide SA Australia 5000,unknown,TCC - OAKS Adelaide
+West Lakes,the_coffee_club_au,Kiosk K01 Westfield Shopping Centre111 West Lakes Boulevard West Lakes SA Australia 5021,unknown,TCC - West Lakes
+Hectorville,the_good_guys_au,,unknown,The Good Guys Hectorville
+Noarlunga,the_good_guys_au,,unknown,The Good Guys Noarlunga
+Mile End,the_good_guys_au,,unknown,The Good Guys Mile End
+Gepps Cross,the_good_guys_au,,unknown,The Good Guys Gepps Cross
+Marion,the_good_guys_au,,unknown,The Good Guys Marion
+unknown,thirsty_camel_au,76 Commercial St W Mount Gambier,unknown,Commercial Hotel
+unknown,thirsty_camel_au,73 Ormerod Street Naracoorte,unknown,Naracoorte Hotel Motel
+unknown,thirsty_camel_au,101 Woolshed St Bordertown,unknown,Woolshed Inn
+unknown,thirsty_camel_au,45 East Tce Loxton,unknown,Loxton Hotel
+unknown,thirsty_camel_au,7 Cadell St Goolwa,unknown,Goolwa Hotel
+unknown,thirsty_camel_au,2 Ocean Street Victor Harbor,unknown,Hotel Crown
+unknown,thirsty_camel_au,8 Main St Crafers,unknown,Crafers Hotel 
+unknown,thirsty_camel_au,208 Main Road McLaren Vale,unknown,Hotel McLaren
+unknown,thirsty_camel_au,105 Main S Rd Yankalilla,unknown,The Yankalilla
+unknown,thirsty_camel_au,Cnr Panalatinga Road & Bains Road Woodcroft,unknown,Woodcroft Hotel
+unknown,thirsty_camel_au,141 Main Road Blackwood,unknown,Belair Hotel
+unknown,thirsty_camel_au,108 Main South Road Hackham,unknown,The Aussie Inn
+unknown,thirsty_camel_au,208-210 Old S Rd Old Reynella,unknown,CROWN INN REYNELLA 
+unknown,thirsty_camel_au,1349 North East Road Tea Tree Gully,unknown,Tea Tree Gully 
+unknown,thirsty_camel_au,239 Kensington Rd Kensington,unknown,The Marryatville Hotel
+unknown,thirsty_camel_au,Beach Road Noarlunga Centre,unknown,Colonnades Tavern
+unknown,thirsty_camel_au,207-209 Unley Rd Malvern,unknown,The Cremorne Hotel
+unknown,thirsty_camel_au,4 Ramrod Avenue Hallett Cove,unknown,The Cove Tavern
+unknown,thirsty_camel_au,345 Hancock Rd Fairview Park,unknown,Blue Gums Hotel 
+unknown,thirsty_camel_au,12 Gulfview Rd Christies Beach,unknown,Christies Beach Hotel
+unknown,thirsty_camel_au,989 North East Road Modbury,unknown,Modbury Hotel
+unknown,thirsty_camel_au,647 North East Road Gilles Plains,unknown,Highlander Hotel Motel
+unknown,thirsty_camel_au,75 Goodwood Road Goodwood,unknown,Goodwood Park Hotel
+unknown,thirsty_camel_au,450 Montague Road Modbury North,unknown,Clovercrest Hotel
+unknown,thirsty_camel_au,234 Diagonal Road (Cnr Prunus Street) Warradale,unknown,Warradale Hotel
+unknown,thirsty_camel_au,19 Bank st Adelaide,unknown,Strathmore Hotel
+unknown,thirsty_camel_au,290 Anzac Highway Plympton,unknown,The Highway Hotel
+unknown,thirsty_camel_au,138 Morphett Road Glengowrie,unknown,Morphett Arms Hotel
+unknown,thirsty_camel_au,249 Montague Road Ingle Farm,unknown,Settlers Hotel
+unknown,thirsty_camel_au,264 South Road Hilton,unknown,Hilton Hotel
+unknown,thirsty_camel_au,1572 Main N Rd Brahma Lodge,unknown,Brahma Lodge Hotel 
+unknown,thirsty_camel_au,423 Churchill Road Kilburn,unknown,Albion Hotel
+unknown,thirsty_camel_au,10 Main Street Mawson Lakes,unknown,Mawson Lakes Hotel
+unknown,thirsty_camel_au,156 Port Wakefield Rd Cavan,unknown,Cross Keys Hotel
+unknown,thirsty_camel_au,212 Midway Road Elizabeth Downs,unknown,Midway Tavern
+unknown,thirsty_camel_au,32 Murray Street Gawler,unknown,Kingsford Hotel
+unknown,thirsty_camel_au,489 Esplanade Grange,unknown,Grange Hotel 
+unknown,thirsty_camel_au,Bartley Terrace West Lakes Shore,unknown,The Bartley Tavern
+unknown,thirsty_camel_au,198 Esplanade Largs Bay,unknown,Largs Pier Hotel
+unknown,thirsty_camel_au,481 Victoria Rd Taperoo,unknown,Peninsula Hotel Motel
+unknown,thirsty_camel_au,26 Main St Minlaton,unknown,Minlaton Hotel 
+unknown,thirsty_camel_au,2 Bay St Port Broughton,unknown,Port Broughton
+unknown,thirsty_camel_au,22 Moppett Road Port Pirie,unknown,Risdon Hotel
+unknown,thirsty_camel_au,Lincoln Hwy Whyalla Norrie,unknown,Sundowner Hotel
+Adelaide,toyworld_au,,unknown,Toyworld Adelaide
+Berri,toyworld_au,,unknown,Toyworld Berri
+Mount Barker,toyworld_au,,unknown,Toyworld Mt Barker
+Renmark,toyworld_au,,unknown,Toyworld Renmark
+Nuriootpa,toyworld_au,,unknown,Toyworld Barossa
+Ceduna,toyworld_au,,unknown,Toyworld Ceduna
+Gepps Cross,toyworld_au,,unknown,Toyworld Gepps Cross
+Port Lincoln,tradelink_au,87-89 Verran Tce Port Lincoln SA 5606,unknown,Port Lincoln
+Whyalla Playford,tradelink_au,128 Norrie Ave Whyalla Whyalla Playford SA 5600,unknown,Whyalla
+Moonta,tradelink_au,27 Muddy Lane Moonta SA 5558,unknown,Moonta
+Port Augusta,tradelink_au,Unit 1 Flinders View Power Station Road Port Augusta SA 5700,unknown,Port Augusta
+Port Adelaide,tradelink_au,21 Baker St Port Adelaide SA 5015,unknown,Port Adelaide
+Albert Park,tradelink_au,966 Port Road Albert Park SA 5014,unknown,Albert Park
+Somerton Park,tradelink_au,254 Brighton Road Somerton Park SA 5044,unknown,Somerton Park
+Lonsdale,tradelink_au,48 Aldershot Road Lonsdale SA 5160,unknown,Lonsdale
+Hilton,tradelink_au,108 Sir Donald Bradman Drive Hilton SA 5033,unknown,Hilton
+Regency Park,tradelink_au,Unit 3 / 475-477 South Road Regency Park SA 5010,unknown,Regency Park
+Clarence Gardens,tradelink_au,927 South Road **All Deliveries Via **Caulfield Ave Entrance Clarence Gardens SA 5039,unknown,Clarence Gardens
+Norwood,tradelink_au,70 Charles Street Norwood SA 5067,unknown,Norwood
+Klemzig,tradelink_au,300 North East Road Klemzig SA 5087,unknown,Klemzig
+Elizabeth West,tradelink_au,9 Hooke Road Elizabeth West SA 5113,unknown,Elizabeth West
+Salisbury,tradelink_au,198 Park Terrace Salisbury SA 5108,unknown,Salisbury
+Willaston,tradelink_au,12 Paxton St Willaston SA 5118,unknown,Willaston
+St Agnes,tradelink_au,135 - 137 Tolley Road St Agnes SA 5097,unknown,St Agnes
+Victor Harbor,tradelink_au,30-32 Adelaide Road Victor Harbor SA 5211,unknown,Victor Harbor
+Mount Barker,tradelink_au,13 Light Crescent Mount Barker SA 5251,unknown,Mount Barker
+Tanunda,tradelink_au,195 Murray Street Tanunda SA 5352,unknown,Tanunda
+Murray Bridge,tradelink_au,32 Maurice Road Murray Bridge SA 5253,unknown,Murray Bridge
+Mount Gambier,tradelink_au,35 Crouch Street South Mount Gambier SA 5290,unknown,Mt Gambier
+Oaklands Park,travelex,Inside Helloworld  Shop 2004 Westfield Shoppingtown 297 Diagonal Road Oaklands Park Oaklands Park 5046,unknown,"Marion Westfield, Oaklands Park"
+Glenelg,travelex,c/- Phil Hoffman Travel  Bayside Village Shopping Centre Cnr Brighton Rd and Jetty Rd Glenelg 5045,unknown,"Bayside Village Shopping Centre, Glenelg"
+Adelaide,travelex,Terminal 1 Sir Richard Williams Ave Adelaide 5950,unknown,Adelaide Airport T1 Arrival
+West Lakes,travelex,Shop 23 Westfield Shoppingtown 111 West Lakes Boulevard West Lakes 5021,unknown,West Lakes
+Adelaide,travelex,Shop 4 Beehive Corner Rundle Mall Adelaide,unknown,"The Beehive Corner, Rundle Mall"
+Norwood,travelex,Inside Helloworld 200 The Parade Norwood 5067,unknown,Norwood
+Modbury,travelex,Helloworld Travel  Shop 149A Westfield Shoppingtown 976 North East Road Modbury Modbury 5092,unknown,Modbury Tea Tree Plaza
+ELIZABETH,travelex,Shop 72/50  Elizabeth Way Elizabeth 5112,unknown,Elizabeth
+Blackwood,tyrepower_au,,unknown,Tyrepower Blackwood
+Bordertown,tyrepower_au,,unknown,Tyrepower Bordertown
+Camden Park,tyrepower_au,,unknown,Plympton Tyrepower
+Cheltenham,tyrepower_au,,unknown,Tyrepower Cheltenham
+Edinburgh North,tyrepower_au,,unknown,Cluse Bros Tyrepower - Elizabeth
+Elizabeth Way,tyrepower_au,,unknown,Elizabeth Way Tyrepower
+Gawler,tyrepower_au,,unknown,Cluse Bros Tyrepower Julian Terrace
+Glynde,tyrepower_au,,unknown,Kensington Park Tyrepower
+Holden Hill,tyrepower_au,,unknown,Tyrepower Holden Hill
+Mannum,tyrepower_au,,unknown,Tyrepower Mannum
+Mile End,tyrepower_au,,unknown,Adelaide Tyrepower
+Morphett Vale,tyrepower_au,,unknown,Southside Tyrepower
+Mt Gambier,tyrepower_au,,unknown,Bucik Tyrepower
+Naracoorte,tyrepower_au,,unknown,Naracoorte Tyrepower
+Parafield,tyrepower_au,,unknown,Cluse Bros Tyrepower Parafield
+Renmark,tyrepower_au,,unknown,Tyrepower Riverland
+Ridgehaven,tyrepower_au,,unknown,Cluse Bros Tyrepower Ridgehaven
+Seaford,tyrepower_au,,unknown,Andys Tyrepower Seaford
+Smithfield,tyrepower_au,,unknown,Cluse Bros. Tyrepower - Munno Para
+Victor Harbor,tyrepower_au,,unknown,Victor Tyrepower
+Virginia,tyrepower_au,,unknown,Tyrepower Virginia
+Waikerie,tyrepower_au,,unknown,Tyrepower Waikerie
+Welland,tyrepower_au,,unknown,Conquest Tyrepower
+Woodside,tyrepower_au,,unknown,Tyrepower Woodside
+ABERFOYLE PARK,ultra_tune_au,,unknown,Ultra Tune Aberfoyle Park
+ADELAIDE,ultra_tune_au,,unknown,Ultra Tune Adelaide City
+CAMPBELLTOWN,ultra_tune_au,,unknown,Ultra Tune Campbelltown SA
+CHRISTIES BEACH,ultra_tune_au,,unknown,Ultra Tune Christies Beach
+GAWLER,ultra_tune_au,,unknown,Ultra Tune Gawler
+GLENELG,ultra_tune_au,,unknown,Ultra Tune Glenelg
+GOLDEN GROVE,ultra_tune_au,,unknown,Ultra Tune Golden Grove
+MARION,ultra_tune_au,,unknown,Ultra Tune Marion
+MODBURY,ultra_tune_au,,unknown,Ultra Tune Modbury
+MORPHETT VALE,ultra_tune_au,,unknown,Ultra Tune Morphett Vale
+TOTNESS,ultra_tune_au,,unknown,Ultra Tune Mount Barker
+SMITHFIELD,ultra_tune_au,,unknown,Ultra Tune Munno Para
+SALISBURY EAST,ultra_tune_au,,unknown,Ultra Tune Parafield
+PORT ADELAIDE,ultra_tune_au,,unknown,Ultra Tune Port Adelaide
+PROSPECT,ultra_tune_au,,unknown,Ultra Tune Prospect
+SALISBURY,ultra_tune_au,,unknown,Ultra Tune Salisbury
+SEAFORD,ultra_tune_au,,unknown,Ultra Tune Seaford
+ST PETERS,ultra_tune_au,,unknown,Ultra Tune St Peters
+STIRLING,ultra_tune_au,,unknown,Ultra Tune Stirling
+UNLEY,ultra_tune_au,,unknown,Ultra Tune Unley
+VICTOR HARBOR,ultra_tune_au,,unknown,Ultra Tune Victor Harbor
+WOODVILLE NORTH,ultra_tune_au,,unknown,Ultra Tune Woodville
+NULLARBOR,visa,,unknown,unknown
+VIA CEDUNA,visa,,unknown,unknown
+PENONG,visa,,unknown,unknown
+THEVENARD,visa,,unknown,unknown
+CEDUNA,visa,,unknown,unknown
+STREAKY BAY,visa,,unknown,unknown
+COFFIN BAY,visa,,unknown,unknown
+PORT LINCOLN,visa,,unknown,unknown
+NORTH SHIELDS,visa,,unknown,unknown
+CUMMINS,visa,,unknown,unknown
+TUMBY BAY,visa,,unknown,unknown
+PARNDANA,visa,,unknown,unknown
+MARION BAY,visa,,unknown,unknown
+WUDINNA,visa,,unknown,unknown
+KINGSCOTE,visa,,unknown,unknown
+ARNO BAY,visa,,unknown,unknown
+PENNESHAW,visa,,unknown,unknown
+WAROOKA,visa,,unknown,unknown
+CLEVE,visa,,unknown,unknown
+MIMILI,visa,,unknown,unknown
+YORKETOWN,visa,,unknown,unknown
+EDITHBURGH,visa,,unknown,unknown
+COOBOWIE,visa,,unknown,unknown
+KIMBA,visa,,unknown,unknown
+MINLATON,visa,,unknown,unknown
+PORT VICTORIA,visa,,unknown,unknown
+STANSBURY,visa,,unknown,unknown
+COWELL,visa,,unknown,unknown
+SOUTHEND,visa,,unknown,unknown
+ROBE,visa,,unknown,unknown
+NORMANVILLE,visa,,unknown,unknown
+YANKALILLA,visa,,unknown,unknown
+PORT VINCENT,visa,,unknown,unknown
+PORT MACDONNELL,visa,,unknown,unknown
+MILLICENT,visa,,unknown,unknown
+MYPONGA,visa,,unknown,unknown
+MAITLAND,visa,,unknown,unknown
+VICTOR HARBOR,visa,,unknown,unknown
+VICTOR HARBOUR,visa,,unknown,unknown
+MCCRACKEN,visa,,unknown,unknown
+HAYBOROUGH,visa,,unknown,unknown
+MOUNT SCHANK,visa,,unknown,unknown
+ALDINGA BEACH,visa,,unknown,unknown
+PORT HUGHES,visa,,unknown,unknown
+ALDINGA,visa,,unknown,unknown
+PORT ELLIOT,visa,,unknown,unknown
+MIDDLETON,visa,,unknown,unknown
+MOONTA,visa,,unknown,unknown
+SEAFORD,visa,,unknown,unknown
+KINGSTON,visa,,unknown,unknown
+MOUNT GAMBIER,visa,,unknown,unknown
+WEST GAMBIER,visa,,unknown,unknown
+KINGSTON SE,visa,,unknown,unknown
+MT GAMBIER,visa,,unknown,unknown
+EAST MOUNT GAMBIER,visa,,unknown,unknown
+WILLUNGA,visa,,unknown,unknown
+OLD NOARLUNGA,visa,,unknown,unknown
+SEAFORD MEADOWS,visa,,unknown,unknown
+MT COMPASS,visa,,unknown,unknown
+MCLAREN VALE,visa,,unknown,unknown
+PORT NOARLUNGA,visa,,unknown,unknown
+ARDROSSAN,visa,,unknown,unknown
+HACKHAM,visa,,unknown,unknown
+GOOLWA,visa,,unknown,unknown
+CHRISTIES BEACH,visa,,unknown,unknown
+NOARLUNGA DOWNS,visa,,unknown,unknown
+O'SULLIVAN BEACH,visa,,unknown,unknown
+NOARLUNGA CENTRE,visa,,unknown,unknown
+NOARLUNGA,visa,,unknown,unknown
+HUNTFIELD HEIGHTS,visa,,unknown,unknown
+CHRISTIE DOWNS,visa,,unknown,unknown
+MORPHETT VALE,visa,,unknown,unknown
+LONSDALE,visa,,unknown,unknown
+REYNELLA SOUTH,visa,,unknown,unknown
+WALLAROO,visa,,unknown,unknown
+REYNELLA,visa,,unknown,unknown
+WOODCROFT,visa,,unknown,unknown
+HALLETT COVE,visa,,unknown,unknown
+SHEIDOW PARK,visa,,unknown,unknown
+OLD REYNELLA,visa,,unknown,unknown
+TROTT PARK,visa,,unknown,unknown
+O'HALLORAN HILL,visa,,unknown,unknown
+KADINA,visa,,unknown,unknown
+SEACLIFF PARK,visa,,unknown,unknown
+NORTH BRIGHTON,visa,,unknown,unknown
+FINNISS,visa,,unknown,unknown
+GLENELG SOUTH,visa,,unknown,unknown
+GLENELG,visa,,unknown,unknown
+DARLINGTON,visa,,unknown,unknown
+OAKLANDS PARK,visa,,unknown,unknown
+ABERFOYLE PARK,visa,,unknown,unknown
+MARION,visa,,unknown,unknown
+WARRADALE,visa,,unknown,unknown
+FLAGSTAFF HILL,visa,,unknown,unknown
+GLENGOWRIE,visa,,unknown,unknown
+MORPHETTVILLE,visa,,unknown,unknown
+BEDFORD PARK,visa,,unknown,unknown
+MITCHELL PARK,visa,,unknown,unknown
+WEST BEACH,visa,,unknown,unknown
+HENLY BEACH SOUTH,visa,,unknown,unknown
+ADELAIDE AIRPORT,visa,,unknown,unknown
+CAMDEN PARK,visa,,unknown,unknown
+PARK HOLME,visa,,unknown,unknown
+GRANGE,visa,,unknown,unknown
+DULWICH,visa,,unknown,unknown
+PLYMPTON,visa,,unknown,unknown
+EDWARDSTOWN,visa,,unknown,unknown
+ELIZABETH PARK,visa,,unknown,unknown
+ST MARYS,visa,,unknown,unknown
+FULHAM GARDENS,visa,,unknown,unknown
+WEST LAKES,visa,,unknown,unknown
+GLENDAMBO,visa,,unknown,unknown
+SOUTH PLYMPTON,visa,,unknown,unknown
+NETLEY,visa,,unknown,unknown
+COROMANDEL VALLEY,visa,,unknown,unknown
+CLARENCE GARDENS,visa,,unknown,unknown
+BLACKWOOD,visa,,unknown,unknown
+PANORAMA,visa,,unknown,unknown
+KURRALTA PARK,visa,,unknown,unknown
+WESTLAKES,visa,,unknown,unknown
+SEATON,visa,,unknown,unknown
+FINDON,visa,,unknown,unknown
+BROOKLYN PARK,visa,,unknown,unknown
+RICHMOND,visa,,unknown,unknown
+CUMBERLAND PARK,visa,,unknown,unknown
+SEMAPHORE,visa,,unknown,unknown
+MEADOWS,visa,,unknown,unknown
+WESTBOURNE PARK,visa,,unknown,unknown
+TORRENSVILLE,visa,,unknown,unknown
+EXETER,visa,,unknown,unknown
+HILTON,visa,,unknown,unknown
+GLANVILLE,visa,,unknown,unknown
+KESWICK,visa,,unknown,unknown
+QUEENSTOWN,visa,,unknown,unknown
+MILE END,visa,,unknown,unknown
+ALBERTON,visa,,unknown,unknown
+PORT ADELAIDE,visa,,unknown,unknown
+GOODWOOD,visa,,unknown,unknown
+TORRENS PARK,visa,,unknown,unknown
+HAWTHORN,visa,,unknown,unknown
+WOODVILLE SOUTH,visa,,unknown,unknown
+ST CLAIR,visa,,unknown,unknown
+WELLAND,visa,,unknown,unknown
+MITCHAM,visa,,unknown,unknown
+ROSEWATER,visa,,unknown,unknown
+ADELAIDE,visa,,unknown,unknown
+HINDMARSH,visa,,unknown,unknown
+MILANG,visa,,unknown,unknown
+UNLEY,visa,,unknown,unknown
+THEBARTON,visa,,unknown,unknown
+WOODVILLE NORTH,visa,,unknown,unknown
+KILKENNY,visa,,unknown,unknown
+BROMPTON,visa,,unknown,unknown
+TAPEROO,visa,,unknown,unknown
+CROYDON,visa,,unknown,unknown
+PARKSIDE,visa,,unknown,unknown
+CROYDON PARK,visa,,unknown,unknown
+NORTH HAVEN,visa,,unknown,unknown
+WOODVILLE,visa,,unknown,unknown
+NORTH ADELAIDE,visa,,unknown,unknown
+OVINGHAM,visa,,unknown,unknown
+MANSFIELD,visa,,unknown,unknown
+MANSFIELD PARK,visa,,unknown,unknown
+GLENUNGA,visa,,unknown,unknown
+PROSPECT,visa,,unknown,unknown
+ANGLE PARK,visa,,unknown,unknown
+ROSE PARK,visa,,unknown,unknown
+WINGFIELD,visa,,unknown,unknown
+URRBRAE,visa,,unknown,unknown
+REGENCY PARK,visa,,unknown,unknown
+NORWOOD,visa,,unknown,unknown
+STRATHALBYN,visa,,unknown,unknown
+KENT TOWN,visa,,unknown,unknown
+GLENSIDE,visa,,unknown,unknown
+STEPNEY,visa,,unknown,unknown
+NAILSWORTH,visa,,unknown,unknown
+ST PETERS,visa,,unknown,unknown
+WALKERVILLE,visa,,unknown,unknown
+COLLINSWOOD,visa,,unknown,unknown
+MACCLESFIELD,visa,,unknown,unknown
+ENFIELD,visa,,unknown,unknown
+KILBURN,visa,,unknown,unknown
+SEFTON PARK,visa,,unknown,unknown
+CRAFERS,visa,,unknown,unknown
+STIRLING,visa,,unknown,unknown
+LEABROOK,visa,,unknown,unknown
+CLEARVIEW,visa,,unknown,unknown
+BROADVIEW,visa,,unknown,unknown
+MARDEN,visa,,unknown,unknown
+KENSINGTON GARDENS,visa,,unknown,unknown
+HAMPSTEAD GARDENS,visa,,unknown,unknown
+DRY CREEK,visa,,unknown,unknown
+GEPPS CROSS,visa,,unknown,unknown
+KLEMZIG,visa,,unknown,unknown
+COOBER PEDY,visa,,unknown,unknown
+FIRLE,visa,,unknown,unknown
+NORTHFIELD,visa,,unknown,unknown
+SOUTHEAST COOBER PEDY,visa,,unknown,unknown
+CAVAN,visa,,unknown,unknown
+WATTLE PARK,visa,,unknown,unknown
+GREENACRES,visa,,unknown,unknown
+ALDGATE,visa,,unknown,unknown
+POORAKA,visa,,unknown,unknown
+MAGILL,visa,,unknown,unknown
+WINDSOR GARDEN,visa,,unknown,unknown
+GLOBE DERBY PARK,visa,,unknown,unknown
+BRIDGEWATER,visa,,unknown,unknown
+CAMPBELLTOWN,visa,,unknown,unknown
+WINDSOR GARDENS,visa,,unknown,unknown
+OAKDEN,visa,,unknown,unknown
+ROSTREVOR,visa,,unknown,unknown
+HILLCREST,visa,,unknown,unknown
+HECTORVILLE,visa,,unknown,unknown
+MAWSON LAKES,visa,,unknown,unknown
+WALKLEY HEIGHTS,visa,,unknown,unknown
+GREENFIELDS,visa,,unknown,unknown
+GILLES PLAINS,visa,,unknown,unknown
+NEWTON,visa,,unknown,unknown
+PARADISE,visa,,unknown,unknown
+MENINGIE,visa,,unknown,unknown
+PENOLA,visa,,unknown,unknown
+BOLIVAR,visa,,unknown,unknown
+HOLDEN HILL,visa,,unknown,unknown
+PARAFIELD GARDENS,visa,,unknown,unknown
+INGLE FARM,visa,,unknown,unknown
+HAHNDORF,visa,,unknown,unknown
+PORT WAKEFIELD,visa,,unknown,unknown
+VALLEY VIEW,visa,,unknown,unknown
+NEWENHAM,visa,,unknown,unknown
+LANGHORNE CREEK,visa,,unknown,unknown
+MOUNT BARKER,visa,,unknown,unknown
+MT BARKER,visa,,unknown,unknown
+PARA HILLS,visa,,unknown,unknown
+PARA VISTA,visa,,unknown,unknown
+SALISBURY DOWNS,visa,,unknown,unknown
+SALISBURY,visa,,unknown,unknown
+MODBURY NORTH,visa,,unknown,unknown
+SALISBURY EAST,visa,,unknown,unknown
+MODBURY,visa,,unknown,unknown
+SALISBURY NORTH,visa,,unknown,unknown
+HOPE VALLEY,visa,,unknown,unknown
+VIRGINIA,visa,,unknown,unknown
+DIREK,visa,,unknown,unknown
+LITTLEHAMPTON,visa,,unknown,unknown
+BRAHMA LODGE,visa,,unknown,unknown
+RIDGEHAVEN,visa,,unknown,unknown
+BALHANNAH,visa,,unknown,unknown
+TWO WELLS,visa,,unknown,unknown
+GOLDEN GROVE,visa,,unknown,unknown
+OAKBANK,visa,,unknown,unknown
+ST AGNES,visa,,unknown,unknown
+ELIZABETH VALE,visa,,unknown,unknown
+SALISBURY PARK,visa,,unknown,unknown
+ELIZABETH SOUTH,visa,,unknown,unknown
+FAIRVIEW PARK,visa,,unknown,unknown
+ELIZABETH,visa,,unknown,unknown
+PENFIELD,visa,,unknown,unknown
+ELIZABETH EAST,visa,,unknown,unknown
+EDINBURGH NORTH,visa,,unknown,unknown
+DAVOREN PARK,visa,,unknown,unknown
+ELIZABETH NORTH,visa,,unknown,unknown
+WOODSIDE,visa,,unknown,unknown
+ANGLE VALE,visa,,unknown,unknown
+SMITHFIELD,visa,,unknown,unknown
+ELIZABETH DOWNS,visa,,unknown,unknown
+MUNNO PARA,visa,,unknown,unknown
+SMITHFIELD PLAINS,visa,,unknown,unknown
+CUDLEE CREEK,visa,,unknown,unknown
+LOBETHAL,visa,,unknown,unknown
+MALLALA,visa,,unknown,unknown
+CRAIGMORE,visa,,unknown,unknown
+BLAKEVIEW,visa,,unknown,unknown
+CADNEY PARK VIA COOBER PEDY,visa,,unknown,unknown
+ONE TREE HILL,visa,,unknown,unknown
+PORT BROUGHTON,visa,,unknown,unknown
+WHYALLA NORRIE,visa,,unknown,unknown
+GUMERACHA,visa,,unknown,unknown
+WHYALLA,visa,,unknown,unknown
+KERSBROOK,visa,,unknown,unknown
+SPRINGWOOD,visa,,unknown,unknown
+NARACOORTE,visa,,unknown,unknown
+EVANSTON,visa,,unknown,unknown
+ROSEWORTHY,visa,,unknown,unknown
+MOUNT TORRENS,visa,,unknown,unknown
+WHYALLA PLAYFORD,visa,,unknown,unknown
+GAWLER,visa,,unknown,unknown
+WILLASTON,visa,,unknown,unknown
+GAWLER EAST,visa,,unknown,unknown
+HEWETT,visa,,unknown,unknown
+BALAKLAVA,visa,,unknown,unknown
+BIRDWOOD,visa,,unknown,unknown
+WELLINGTON,visa,,unknown,unknown
+TAILEM BEND,visa,,unknown,unknown
+MURRAY BRIDGE,visa,,unknown,unknown
+WILLIAMSTOWN,visa,,unknown,unknown
+HAMLEY BRIDGE,visa,,unknown,unknown
+LYNDOCH,visa,,unknown,unknown
+MOUNT PLEASANT,visa,,unknown,unknown
+MT PLEASANT,visa,,unknown,unknown
+FREELING,visa,,unknown,unknown
+COONALPYN,visa,,unknown,unknown
+MYPOLONGA,visa,,unknown,unknown
+TINTINARA,visa,,unknown,unknown
+TANUNDA,visa,,unknown,unknown
+MANNUM,visa,,unknown,unknown
+PORT PIRIE,visa,,unknown,unknown
+NURIOOTPA,visa,,unknown,unknown
+RIVERTON,visa,,unknown,unknown
+KEITH,visa,,unknown,unknown
+SOLOMONTOWN,visa,,unknown,unknown
+NURIOOPTA,visa,,unknown,unknown
+KAPUNDA,visa,,unknown,unknown
+ANGASTON,visa,,unknown,unknown
+AUBURN,visa,,unknown,unknown
+CRYSTAL BROOK,visa,,unknown,unknown
+CLARE,visa,,unknown,unknown
+WOOMERA,visa,,unknown,unknown
+BORDERTOWN,visa,,unknown,unknown
+PORT AUGUSTA,visa,,unknown,unknown
+GLADSTONE,visa,,unknown,unknown
+LAURA,visa,,unknown,unknown
+NORTH LAURA,visa,,unknown,unknown
+STIRLING NORTH,visa,,unknown,unknown
+KAROONDA,visa,,unknown,unknown
+MELROSE,visa,,unknown,unknown
+SWAN REACH,visa,,unknown,unknown
+BURRA,visa,,unknown,unknown
+BOOLEROO CENTRE,visa,,unknown,unknown
+JAMESTOWN,visa,,unknown,unknown
+QUORN,visa,,unknown,unknown
+ROXBY DOWNS,visa,,unknown,unknown
+BLANCHETOWN,visa,,unknown,unknown
+OLYMPIC DAM,visa,,unknown,unknown
+LAMEROO,visa,,unknown,unknown
+ORROROO,visa,,unknown,unknown
+PETERBOROUGH,visa,,unknown,unknown
+MORGAN,visa,,unknown,unknown
+OODNADATTA,visa,,unknown,unknown
+WAIKERIE,visa,,unknown,unknown
+PINNAROO,visa,,unknown,unknown
+HAWKER,visa,,unknown,unknown
+LOXTON,visa,,unknown,unknown
+COBDOGLA,visa,,unknown,unknown
+BARMERA,visa,,unknown,unknown
+GLOSSOP,visa,,unknown,unknown
+MONASH,visa,,unknown,unknown
+BERRI,visa,,unknown,unknown
+RENMARK,visa,,unknown,unknown
+PARINGA,visa,,unknown,unknown
+LEIGH CREEK,visa,,unknown,unknown
+INNAMINCKA,visa,,unknown,unknown
+FULHAM,visa,,unknown,unknown
+Elizabeth Park,western_union,,unknown,AUSTRALIA POST
+Coffin Bay,western_union,,unknown,AUSTRALIA POST
+Port Lincoln,western_union,,unknown,AUSTRALIA POST
+Cummins,western_union,,unknown,AUSTRALIA POST
+Tumby Bay,western_union,,unknown,AUSTRALIA POST
+Kingscote,western_union,,unknown,AUSTRALIA POST
+Warooka,western_union,,unknown,AUSTRALIA POST
+American River,western_union,,unknown,AUSTRALIA POST
+Yorketown,western_union,,unknown,AUSTRALIA POST
+Penneshaw,western_union,,unknown,AUSTRALIA POST
+Edithburgh,western_union,,unknown,AUSTRALIA POST
+Minlaton,western_union,,unknown,AUSTRALIA POST
+Lock,western_union,,unknown,AUSTRALIA POST
+Stansbury,western_union,,unknown,AUSTRALIA POST
+Cleve,western_union,,unknown,AUSTRALIA POST
+Port Vincent,western_union,,unknown,AUSTRALIA POST
+Coober Pedy,western_union,,unknown,AUSTRALIA POST
+Ceduna,western_union,,unknown,AUSTRALIA POST
+Roxby Downs,western_union,,unknown,AUSTRALIA POST
+Andamooka,western_union,,unknown,AUSTRALIA POST
+Streaky Bay,western_union,,unknown,AUSTRALIA POST
+Cowandilla,western_union,,unknown,COWANDILLA NEWSAGENCY
+Mile End,western_union,,unknown,AUSTRALIA POST
+Rosewater,western_union,,unknown,AUSTRALIA POST
+North Haven,western_union,,unknown,AUSTRALIA POST
+Daw Park,western_union,,unknown,AUSTRALIA POST
+Woodville Gardens,western_union,,unknown,SUNRISE GIFT AND FASHIONS
+Kilkenny,western_union,,unknown,SA SELECTION PTY LTD
+Blackwood,western_union,,unknown,AUSTRALIA POST
+Goodwood,western_union,,unknown,AUSTRALIA POST
+Mansfield Park,western_union,,unknown,AUSTRALIA POST
+Adelaide,western_union,,unknown,AUSTRALIA POST
+Ferryden Park,western_union,,unknown,AUSTRALIA POST
+Hyde Park,western_union,,unknown,AUSTRALIA POST
+Torrens Park,western_union,,unknown,AUSTRALIA POST
+South Plympton,western_union,,unknown,AUSTRALIA POST
+Flagstaff Hill,western_union,,unknown,AUSTRALIA POST
+Ascot Park,western_union,,unknown,AL MADINA HALAL MEAT AND GROCERIES PTY
+Brooklyn Park,western_union,,unknown,AUSTRALIA POST
+Plympton,western_union,,unknown,AUSTRALIA POST
+Findon,western_union,,unknown,AUSTRALIA POST
+Port Adelaide,western_union,,unknown,AUSTRALIA POST
+Largs Bay,western_union,,unknown,AUSTRALIA POST
+Edwardstown,western_union,,unknown,AUSTRALIA POST
+Alberton,western_union,,unknown,AUSTRALIA POST
+Kurralta Park,western_union,,unknown,KURRALTA PARK NEWSAGENCY
+Woodville South,western_union,,unknown,AUSTRALIA POST
+Black Forest,western_union,,unknown,AUSTRALIA POST
+Torrensville,western_union,,unknown,INDIAN SPICE PLAZA
+Pasadena,western_union,,unknown,AUSTRALIA POST
+Willunga,western_union,,unknown,AUSTRALIA POST
+Mclaren Vale,western_union,,unknown,AUSTRALIA POST
+Hackham,western_union,,unknown,AUSTRALIA POST
+Kadina,western_union,,unknown,AUSTRALIA POST
+Morphett Vale,western_union,,unknown,AUSTRALIA POST
+Mount Compass,western_union,,unknown,AUSTRALIA POST
+Reynella,western_union,,unknown,AUSTRALIA POST
+Port Elliot,western_union,,unknown,AUSTRALIA POST
+Brighton,western_union,,unknown,AUSTRALIA POST
+Hove,western_union,,unknown,AUSTRALIA POST
+Seacliff Park,western_union,,unknown,AUSTRALIA POST
+Glenelg,western_union,,unknown,BAY NEWSAGENCY & CARD CENTRE
+Glenelg South,western_union,,unknown,AUSTRALIA POST
+O Halloran Hill,western_union,,unknown,AUSTRALIA POST
+Happy Valley,western_union,,unknown,AUSTRALIA POST
+Warradale,western_union,,unknown,AUSTRALIA POST
+West Beach,western_union,,unknown,AUSTRALIA POST
+Henley Beach South,western_union,,unknown,AUSTRALIA POST
+Grange,western_union,,unknown,AUSTRALIA POST
+West Lakes,western_union,,unknown,AUSTRALIA POST
+Henley Beach,western_union,,unknown,AUSTRALIA POST
+Kimba,western_union,,unknown,AUSTRALIA POST
+Novar Gardens,western_union,,unknown,AUSTRALIA POST
+Fulham Gardens,western_union,,unknown,AUSTRALIA POST
+West Lakes Shore,western_union,,unknown,AUSTRALIA POST
+Plympton Park,western_union,,unknown,AUSTRALIA POST
+Park Holme,western_union,,unknown,AUSTRALIA POST
+Bedford Park,western_union,,unknown,AUSTRALIA POST
+Maitland,western_union,,unknown,AUSTRALIA POST
+Normanville,western_union,,unknown,AUSTRALIA POST
+Yankalilla,western_union,,unknown,AUSTRALIA POST
+Cowell,western_union,,unknown,AUSTRALIA POST
+Moonta,western_union,,unknown,AUSTRALIA POST
+Myponga,western_union,,unknown,AUSTRALIA POST
+Sellicks Beach,western_union,,unknown,AUSTRALIA POST
+Aldinga Beach,western_union,,unknown,AUSTRALIA POST
+Wudinna,western_union,,unknown,AUSTRALIA POST
+Port Noarlunga,western_union,,unknown,AUSTRALIA POST
+Christies Beach,western_union,,unknown,AUSTRALIA POST
+Osullivan Beach,western_union,,unknown,AUSTRALIA POST
+Noarlunga Centre,western_union,,unknown,AUSTRALIA POST
+Victor Harbor,western_union,,unknown,AUSTRALIA POST
+Mount Gambier,western_union,,unknown,AUSTRALIA POST
+Millicent,western_union,,unknown,AUSTRALIA POST
+Nangwarry,western_union,,unknown,AUSTRALIA POST
+Beachport,western_union,,unknown,AUSTRALIA POST
+Penola,western_union,,unknown,AUSTRALIA POST
+Peterborough,western_union,,unknown,AUSTRALIA POST
+Orroroo,western_union,,unknown,AUSTRALIA POST
+Jamestown,western_union,,unknown,AUSTRALIA POST
+Burra,western_union,,unknown,AUSTRALIA POST
+Morgan,western_union,,unknown,AUSTRALIA POST
+Gladstone,western_union,,unknown,AUSTRALIA POST
+Wirrabara,western_union,,unknown,AUSTRALIA POST
+Waikerie,western_union,,unknown,AUSTRALIA POST
+Hawker,western_union,,unknown,AUSTRALIA POST
+Wilmington,western_union,,unknown,AUSTRALIA POST
+Renmark West,western_union,,unknown,VU FRESH PRODUCE
+Goolwa,western_union,,unknown,AUSTRALIA POST
+Meningie,western_union,,unknown,AUSTRALIA POST
+Strathalbyn,western_union,,unknown,AUSTRALIA POST
+Milang,western_union,,unknown,AUSTRALIA POST
+Tailem Bend,western_union,,unknown,AUSTRALIA POST
+Meadows,western_union,,unknown,AUSTRALIA POST
+Lameroo,western_union,,unknown,AUSTRALIA POST
+Belair,western_union,,unknown,AUSTRALIA POST
+Linden Park,western_union,,unknown,AUSTRALIA POST
+Murray Bridge,western_union,,unknown,AUSTRALIA POST
+Fullarton,western_union,,unknown,AUSTRALIA POST
+Glen Osmond,western_union,,unknown,AUSTRALIA POST
+Bridgewater,western_union,,unknown,AUSTRALIA POST
+Unley,western_union,,unknown,AUSTRALIA POST
+Norwood,western_union,,unknown,AUSTRALIA POST
+North Adelaide,western_union,,unknown,AUSTRALIA POST
+Balhannah,western_union,,unknown,AUSTRALIA POST
+Burnside,western_union,,unknown,AUSTRALIA POST
+Glenside,western_union,,unknown,AUSTRALIA POST
+Hahndorf,western_union,,unknown,AUSTRALIA POST
+Crafers,western_union,,unknown,AUSTRALIA POST
+Stirling,western_union,,unknown,AUSTRALIA POST
+Aldgate,western_union,,unknown,AUSTRALIA POST
+Leigh Creek,western_union,,unknown,AUSTRALIA POST
+Mount Barker,western_union,,unknown,AUSTRALIA POST
+Magill,western_union,,unknown,AUSTRALIA POST
+Walkerville,western_union,,unknown,AUSTRALIA POST
+Prospect,western_union,,unknown,AUSTRALIA POST
+Stepney,western_union,,unknown,AUSTRALIA POST
+Kensington Gardens,western_union,,unknown,AUSTRALIA POST
+Brompton,western_union,,unknown,AUSTRALIA POST
+Kengsington Park,western_union,,unknown,AUSTRALIA POST
+Pooraka,western_union,,unknown,AUSTRALIA POST
+Dernancourt,western_union,,unknown,AUSTRALIA POST
+Athelstone,western_union,,unknown,AUSTRALIA POST
+Gilles Plains,western_union,,unknown,AUSTRALIA POST
+Dry Creek,western_union,,unknown,AUSTRALIA POST
+Newton,western_union,,unknown,AUSTRALIA POST
+Campbelltown,western_union,,unknown,AUSTRALIA POST
+Clearview,western_union,,unknown,AUSTRALIA POST
+Enfield,western_union,,unknown,AUSTRALIA POST
+Greenacres,western_union,,unknown,AUSTRALIA POST
+Burton,western_union,,unknown,AUSTRALIA POST
+Salisbury North,western_union,,unknown,ANGKOR ASIAN GROCERY PTY LTD
+Salisbury,western_union,,unknown,AUSTRALIA POST
+Brahma Lodge,western_union,,unknown,AUSTRALIA POST
+Salisbury Downs,western_union,,unknown,GLOBAL PHONIX PTY LTD
+Paralowie,western_union,,unknown,AUSTRALIA POST
+Surrey Downs,western_union,,unknown,AUSTRALIA POST
+Salisbury East,western_union,,unknown,AUSTRALIA POST
+Salisbury South,western_union,,unknown,AUSTRALIA POST
+St Agnes,western_union,,unknown,AUSTRALIA POST
+Parafield Gardens,western_union,,unknown,AUSTRALIA POST
+Para Hills,western_union,,unknown,AUSTRALIA POST
+Modbury,western_union,,unknown,AUSTRALIA POST
+Modbury North,western_union,,unknown,AUSTRALIA POST
+Hope Valley,western_union,,unknown,AUSTRALIA POST
+Ingle Farm,western_union,,unknown,AUSTRALIA POST
+Highbury,western_union,,unknown,AUSTRALIA POST
+Karoonda,western_union,,unknown,AUSTRALIA POST
+Valley View,western_union,,unknown,APNI HUTTI
+Whyalla Norrie,western_union,,unknown,AUSTRALIA POST
+Lyndoch,western_union,,unknown,AUSTRALIA POST
+Mallala,western_union,,unknown,AUSTRALIA POST
+Willaston,western_union,,unknown,AUSTRALIA POST
+Gawler,western_union,,unknown,AUSTRALIA POST
+Williamstown,western_union,,unknown,AUSTRALIA POST
+Mount Pleasant,western_union,,unknown,AUSTRALIA POST
+Munno Para,western_union,,unknown,AUSTRALIA POST
+Two Wells,western_union,,unknown,AUSTRALIA POST
+One Tree Hill,western_union,,unknown,AUSTRALIA POST
+Smithfield,western_union,,unknown,TREATS BY N AND J PTY LTD
+Davoren Park,western_union,,unknown,AUSTRALIA POST
+Klemzig,western_union,,unknown,AUSTRALIA POST
+Kilburn,western_union,,unknown,AUSTRALIA POST
+Blair Athol,western_union,,unknown,KHAWAR HOMEWARE WHOLESALE PTY
+Tranmere,western_union,,unknown,AUSTRALIA POST
+Marden,western_union,,unknown,AUSTRALIA POST
+Firle,western_union,,unknown,AUSTRALIA POST
+Clare,western_union,,unknown,AUSTRALIA POST
+Crystal Brook,western_union,,unknown,AUSTRALIA POST
+Barmera,western_union,,unknown,AUSTRALIA POST
+Renmark,western_union,,unknown,AUSTRALIA POST
+Monash,western_union,,unknown,AUSTRALIA POST
+Eudunda,western_union,,unknown,AUSTRALIA POST
+Paringa,western_union,,unknown,AUSTRALIA POST
+Lyrup,western_union,,unknown,AUSTRALIA POST
+Quorn,western_union,,unknown,AUSTRALIA POST
+Blanchetown,western_union,,unknown,AUSTRALIA POST
+Berri,western_union,,unknown,AUSTRALIA POST
+Port Pirie,western_union,,unknown,AUSTRALIA POST
+Riverton,western_union,,unknown,AUSTRALIA POST
+Stirling North,western_union,,unknown,AUSTRALIA POST
+Loxton,western_union,,unknown,AUSTRALIA POST
+Truro,western_union,,unknown,AUSTRALIA POST
+Kapunda,western_union,,unknown,AUSTRALIA POST
+Port Augusta,western_union,,unknown,AUSTRALIA POST
+Port Augusta West,western_union,,unknown,AUSTRALIA POST
+Port Broughton,western_union,,unknown,AUSTRALIA POST
+Balaklava,western_union,,unknown,AUSTRALIA POST
+Nuriootpa,western_union,,unknown,AUSTRALIA POST
+Angaston,western_union,,unknown,AUSTRALIA POST
+Greenock,western_union,,unknown,AUSTRALIA POST
+Hamley Bridge,western_union,,unknown,AUSTRALIA POST
+Freeling,western_union,,unknown,AUSTRALIA POST
+Tanunda,western_union,,unknown,AUSTRALIA POST
+Whyalla,western_union,,unknown,AUSTRALIA POST
+Whyalla Playford,western_union,,unknown,AUSTRALIA POST
+Keith,western_union,,unknown,AUSTRALIA POST
+Craigmore,western_union,,unknown,AUSTRALIA POST
+Kersbrook,western_union,,unknown,AUSTRALIA POST
+Mannum,western_union,,unknown,AUSTRALIA POST
+Elizabeth,western_union,,unknown,WAHID GROCERY & HOMEWARE CENTRE
+Elizabeth East,western_union,,unknown,AUSTRALIA POST
+Edinburgh,western_union,,unknown,AUSTRALIA POST
+Elizabeth South,western_union,,unknown,AUSTRALIA POST
+Gumeracha,western_union,,unknown,AUSTRALIA POST
+Elizabeth Vale,western_union,,unknown,AUSTRALIA POST
+Greenwith,western_union,,unknown,AUSTRALIA POST
+Bordertown,western_union,,unknown,AUSTRALIA POST
+Robe,western_union,,unknown,AUSTRALIA POST
+Lucindale,western_union,,unknown,AUSTRALIA POST
+Naracoorte,western_union,,unknown,AUSTRALIA POST
+Kingston Se,western_union,,unknown,AUSTRALIA POST
+Tintinara,western_union,,unknown,AUSTRALIA POST

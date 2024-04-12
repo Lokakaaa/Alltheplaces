@@ -1,0 +1,4 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+bike_share_toronto:7730,gbfs,800 Fleet St (South),,,ON,,CA,,https://www.bikesharetoronto.com/,,Bike Share Toronto,
+bike_share_toronto:7887,gbfs,800 Fleet St (North),,,ON,,CA,,https://www.bikesharetoronto.com/,,Bike Share Toronto,
+,visa,,,TORONTO,ON,,CA,,,,,

@@ -1,0 +1,20 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+941232009,bp,CLACKET LANE EAST CONNECT MWSA,,WESTERHAM,,,GB,+44 1959 561412,,24/7,BP,Q152057
+1081355822,bp,CLACKET LANE WEST CONNECT MWSA,,WESTERHAM,,,GB,+44 1959 562546,,24/7,BP,Q152057
+f600d68d-0797-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef Retail @ Clacket Lane West,,Westerham,,,GB,,,Mo-Su 06:00-23:00,Costa Express,Q113556385
+52ffd58d-0797-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef Retail @ Clacket Lane East,,Westerham,,,GB,,,Mo-Su 06:00-22:00,Costa Express,Q113556385
+d551e091-0797-eb11-b1ac-000d3a2ed776,costa_coffee_gg_gb_im_je,Roadchef Grocery @ Clacket Lane East Spar,,Westerham,,,GB,,,Mo-Su 07:00-19:00,Costa Express,Q113556385
+a9c954f9-dc96-eb11-b1ac-000d3a2ed776,costa_coffee_gg_gb_im_je,Roadchef Motorways Ltd - Clacket Lane West DTO,,Westerham,,,GB,,,Mo-Fr 05:30-18:30; Sa-Su 07:00-18:30,Costa Coffee,Q608845
+ad3ae7ed-dc96-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef Clacket Lane West MSA,,Westerham,,,GB,,,,Costa Coffee,Q608845
+30830bd0-dc96-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef - Clackett Lane West,,Westerham,,,GB,,,Mo-Su 08:00-16:00,Costa Coffee,Q608845
+67cf54f9-dc96-eb11-b1ac-000d3a2ed776,costa_coffee_gg_gb_im_je,Roadchef Motorways Ltd - Clacket Lane East DTO,,Westerham,,,GB,,,Mo-Th 06:00-18:30; Fr-Su 07:00-21:00,Costa Coffee,Q608845
+493ae7ed-dc96-eb11-b1ac-000d3a2ed0d4,costa_coffee_gg_gb_im_je,Roadchef Clacket Lane East MSA,,Westerham,,,GB,,,Mo 07:00-21:00; Tu-Th 07:00-18:30; Fr-Su 07:00-21:00,Costa Coffee,Q608845
+u1058vg0mv53,gov_cma_fuel_gb,BP,M25 Westbound,,,,GB,,,,BP,Q152057
+u1058yn9jd1c,gov_cma_fuel_gb,BP,M25 Eastbound,,,,GB,,,,BP,Q152057
+141,gridserve_gb,Roadchef Clacket Lane Eastbound Services,"M25 Motorway Eastbound, Jct 5/6",Westerham,,,GB,,,,Gridserve,Q89575318
+146,gridserve_gb,Roadchef Clacket Lane Westbound Services,"M25 Motorway Westbound, Jct 5/6",Westerham,,,GB,,,,Gridserve,Q89575318
+clacket-lane-west,leon,Clacket Lane West,"M25 Westbound, Junction 5/6",Westerham,,,GB,,https://leon-nl.co/restaurants/clacket-lane-west/,Mo-Tu 08:00-20:00; We-Sa 08:00-21:00; Su 08:00-18:00,LEON,Q6524851
+clacket-lane-east,leon,Clacket Lane East,"M25 Westbound, Junction 5/6","Westerham, Kent",,,GB,,https://leon-nl.co/restaurants/clacket-lane-east/,Mo 08:00-20:00; Tu 11:00-20:00; We-Th 11:00-21:00; Fr-Sa 08:00-21:00; Su 08:00-18:00,LEON,Q6524851
+5025,spar_gb,SPAR - Roadchef Clacket Lane,,Westerham ,,,GB,,https://www.spar.co.uk/store-locator/afb18828-spar-roadchef-clacket-lane/,,SPAR,Q610492
+GB_EXT_01054,totalenergies,Clacket Lane East Connect MWSA,,WESTERHAM,,,GB,+44 1959 561412,https://store.totalenergies.fr/en_EN/GB_EXT_01054,,BP,Q152057
+GB_EXT_01055,totalenergies,Clacket Lane West Connect MWSA,,WESTERHAM,,,GB,+44 1959 562546,https://store.totalenergies.fr/en_EN/GB_EXT_01055,,BP,Q152057

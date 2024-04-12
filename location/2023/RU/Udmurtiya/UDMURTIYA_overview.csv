@@ -1,0 +1,368 @@
+City,Place Name,Zipcode,Name
+Izhevsk,audi,Karla Marxa 89 426003 Izhevsk,unknown,Audi Center Izhevsk
+Воткинск,coffee_like,ул. Ленина 16,unknown,Coffee Like
+Воткинск,coffee_like,ул. 1 Мая 49,unknown,Coffee Like
+Воткинск,coffee_like,ул. 1 мая 77,unknown,Coffee Like
+Ижевск,coffee_like,ул. 10 лет Октября 53,unknown,Coffee Like
+Ижевск,coffee_like,ул. Пушкинская 161,unknown,Coffee Like
+Ижевск,coffee_like,ул. Максима Горького 163,unknown,Coffee Like
+Ижевск,coffee_like,ул. Красногеройская 32,unknown,Coffee Like
+Ижевск,coffee_like,ул. Удмуртская 261,unknown,Coffee Like
+Ижевск,coffee_like,ул. Кирова 117,unknown,Coffee Like
+Ижевск,coffee_like,ул. Пушкинская 164,unknown,Coffee Like
+Ижевск,coffee_like,ул. Студенческая 42,unknown,Coffee Like
+Ижевск,coffee_like,ул. Карла Маркса 244,unknown,Coffee Like
+Ижевск,coffee_like,ул. Кирова 8 в,unknown,Coffee Like
+Ижевск,coffee_like,ул. Лихвинцева 46,unknown,Coffee Like
+Ижевск,coffee_like,ул. Михаила Петрова 14,unknown,Coffee Like
+Ижевск,coffee_like,ул. Пушкинская 219,unknown,Coffee Like
+Ижевск,coffee_like,ул. Советская 10,unknown,Coffee Like
+Ижевск,coffee_like,ул. Советская 20,unknown,Coffee Like
+Ижевск,coffee_like,ул. Пушкинская 290,unknown,Coffee Like
+Ижевск,coffee_like,ул. Удмуртская 304,unknown,Coffee Like
+Ижевск,coffee_like,ул. Ленина 140,unknown,Coffee Like
+Ижевск,coffee_like,ул. Удмуртская 273 а,unknown,Coffee Like
+Ижевск,coffee_like,ул. Коммунаров 167Б,unknown,Coffee Like
+Ижевск,coffee_like,ул. Советская 35,unknown,Coffee Like
+Izhevsk,lukoil,Russia 426028 Republic of Udmurtia Izhevsk st. Lenina 186,unknown,AZS №18070
+unknown,lukoil,Russia 427060 Republic of Udmurtia Debesskiy area Debesy st. Andronova 84,unknown,AZS No 21 (18021)
+unknown,lukoil,Russia 427270 Republic of Udmurtia Seltinskiy area Selty st. M.Gorkogo 46,unknown,AZS No 87 (18087)
+unknown,lukoil,Russia 427310 Republic of Udmurtia Vavozhskiy area Vavozh st. Pobedy 104-b,unknown,AZS No 77 (18077)
+unknown,lukoil,Russia 427370 Republic of Udmurtia Syumskij area Kafe otdyh ter 1,unknown,AZS No 67 (18067)
+unknown,lukoil,Russia 427263 Republic of Udmurtia Uvinskiy area Uva st. M.Gorkogo 60,unknown,AZS No 56 (18056)
+unknown,lukoil,Russia 427370 Republic of Udmurtia area Syumsinskiy Syumsi st. Sibirskaya 1-a,unknown,AZS No 26 (18026)
+unknown,lukoil,Russia 427250 Republic of Udmurtia Uvinskiy area Nylga st. Traktovaya d. 18,unknown,AZS No 25 (18025)
+unknown,lukoil,Russia 427264 Republic of Udmurtia Uvinskiy r-n p. Uva ul. Tolstogo d. 61-a,unknown,AZS No 24 (18024)
+g. Sarapul,lukoil,Russia 427961 Republic of Udmurtia g. Sarapul ul. Molodezhnaya d. 16,unknown,AZS No 82 (18082)
+Sarapul,lukoil,Russia 427965 Republic of Udmurtia Sarapul st. Traktovaya 26,unknown,AZS No 80 (18080)
+Sarapul,lukoil,Russia 427962 Republic of Udmurtia Sarapul st. Puteyskaya 74,unknown,AZS No58 (18058)
+unknown,lukoil,Russia Republic of Udmurtia Sarapulskiy area AZS 57 1,unknown,AZS № 57 (18057)
+Sarapul,lukoil,Russia 427964 Republic of Udmurtia Sarapul st. Azina 166,unknown,AZS No 9 (18009)
+Sarapul,lukoil,Russia 427960 Republic of Udmurtia Sarapul st. Gorkogo 83,unknown,AZS No 8 (18008)
+unknown,lukoil,Russia 427880 Republic of Udmurtia area Alnashskiy Alnashi st. Kolhoznaya 3,unknown,AZS No 93 (18093)
+unknown,lukoil,Russia 427790 Republic of Udmurtia AZS 61(18061),unknown,AZS No 61 (18061)
+Mozhga,lukoil,Russia 427798 Republic of Udmurtia Mozhga st. Syugailskiy 23,unknown,AZS No 52 (18052)
+Mozhga,lukoil,Russia 427793 Republic of Udmurtia Mozhga st. I.Bystrykh 61,unknown,AZS No 51 (18051)
+unknown,lukoil,Russia 427712 Republic of Udmurtia Kiznerskiy area Kizner st. Pervomayskaya 45,unknown,AZS No 20 (18020)
+unknown,lukoil,Russia 427730 Republic of Udmurtia area Grakhovskiy Grakhovo st. Azina 35,unknown,AZS No 19 (18019)
+Mozhga,lukoil,Russia 427790 Republic of Udmurtia Mozhga Vavozhskiy trakt,unknown,AZS № 16 (18016)
+unknown,lukoil,Russia 427952 Republic of Udmurtia area Kambarskiy Kamskoye st. Vostochnaya 19,unknown,AZS No 10 (18010)
+Izhevsk,lukoil,Russia 426003 Republic of Udmurtia Izhevsk st. Vasiliya Chuguyevskogo 11,unknown,AZS No 105 (18105)
+Izhevsk,lukoil,Russia 426063 Republic of Udmurtia Izhevsk st. Melnichnaya 2,unknown,AZS No18103
+Izhevsk,lukoil,Russia 426011 Republic of Udmurtia Izhevsk st. Udmurtskaya 270,unknown,AZS No 102 (18102)
+Izhevsk,lukoil,Russia 426057 Republic of Udmurtia Izhevsk st. Karla Libknekhta 3,unknown,AZS No 101 (18101)
+Izhevsk,lukoil,Russia 426039 Republic of Udmurtia Izhevsk st. Votkinskoye 17a,unknown,AZS No 100 (18100)
+Izhevsk,lukoil,Russia 426030 Republic of Udmurtia Izhevsk road Slavyanskoye 0/17,unknown,AZS No 99 (18099)
+Izhevsk,lukoil,Russia 426003 Republic of Udmurtia Izhevsk st. Karla Libknekhta 4,unknown,AZS No 98 (18098)
+unknown,lukoil,Russia 000000 Republic of Udmurtia Malopurginskiy area AZS018089 1,unknown,AZS No 89 (18089)
+unknown,lukoil,Russia 427143 Republic of Udmurtia r-n Igrinskiy p. Igra ul. Promyshlennaya d. 17,unknown,AZS No 85 (18085)
+Izhevsk,lukoil,Russia 426006 Republic of Udmurtia Izhevsk st. Klubnaya 34,unknown,AZS No 74 (18074)
+Izhevsk,lukoil,Russia 426028 Republic of Udmurtia Izhevsk st. Mayakovskogo 51,unknown,AZS No 62 (18062)
+unknown,lukoil,Russia 427145 Republic of Udmurtia area Igrinskiy Igra st. Klyuchevaya 6,unknown,AZS No 55 (18055)
+unknown,lukoil,Russia 427005 Republic of Udmurtia area Zavyalovskiy land plot in 1410 m from OMS 4734 on the South-West,unknown,AZS No 48 (18048)
+unknown,lukoil,Russia 427000 Republic of Udmurtia Zavyalovskiy r-n s. Zavyalovo ul. Golyanskaya,unknown,AZS No 41 (18041)
+Izhevsk,lukoil,Russia 426028 Republic of Udmurtia Izhevsk st. Mayakovskogo 46,unknown,AZS No 40 (18040)
+Izhevsk,lukoil,Russia 426052 Republic of Udmurtia Izhevsk Shaberdinskiy trakt 50,unknown,AZS № 39 (18039)
+unknown,lukoil,Russia 427820 Republic of Udmurtia Malopurginskiy r-n s. Malaya Purga ul. Sovetskaya d. 97,unknown,AZS No 38 (18038)
+unknown,lukoil,Russia 426011 Republic of Udmurtia YAkshur-Bodinskij area 219 (road M-7 Volga) km 26,unknown,AZS No7 (18007)
+g. Izhevsk,lukoil,Russia 426023 Republic of Udmurtia g. Izhevsk ul. Azina d. 342,unknown,AZS No 6 (18006)
+Izhevsk,lukoil,Russia 426054 Republic of Udmurtia Izhevsk YAkshur-Bodinskij trakt 7 km 20,unknown,AZS № 5 (18005)
+Izhevsk,lukoil,Russia 426039 Republic of Udmurtia Izhevsk st. Bummashevskaya 1,unknown,AZS No 4 (18004)
+Izhevsk,lukoil,Russia 426039 Republic of Udmurtia Izhevsk road Votkinskoye 296,unknown,AZS No 3 (18003)
+Izhevsk,lukoil,Russia 426075 Republic of Udmurtia Izhevsk st. Kambarskaya 51,unknown,AZS No 2 (18002)
+Izhevsk,lukoil,Russia 426028 Republic of Udmurtia Izhevsk st. Mayakovskogo 26,unknown,AZS No 1 (18001)
+unknown,lukoil,Russia Republic of Udmurtia Balezinskiy area Balezino road Izhevsk-Glazov 140 km,unknown,AZS No 88 (18088)
+unknown,lukoil,Russia 427060 Republic of Udmurtia Debesskiy area Malaya Cheptsa st. Vostochnaya 7,unknown,AZS No 78 (18078)
+Glazov,lukoil,Russia 427626 Republic of Udmurtia Glazov st. Sovetskaya 45,unknown,AZS No 75 (18075)
+unknown,lukoil,Russia 427627 Republic of Udmurtia area Glazovskiy Shtanigurt st. Yukamenskaya 2-a,unknown,AZS No 68 (18068)
+Glazov,lukoil,Russia 427629 Republic of Udmurtia Glazov trakt Krasnogorskiy 17,unknown,AZS No 64 (18064)
+unknown,lukoil,Russia 000000 Republic of Udmurtia Yukamenskiy area AZS 57 (YUkamenskoe),unknown,AZS No 47 (18047)
+unknown,lukoil,Russia 427650 Republic of Udmurtia Krasnogorskiy area Krasnogorskoye st. Lenina 116,unknown,AZS № 34 (18034)
+unknown,lukoil,Russia 427582 Republic of Udmurtia area Kezskiy Kez st. Komsomolskaya 38,unknown,AZS № 22 (18022)
+unknown,lukoil,Russia 427500 Republic of Udmurtia Yarskiy area Yar st. Sovetskaya 2-a,unknown,AZS № 14 (18014)
+unknown,lukoil,Russia 427595 Republic of Udmurtia Balezino st. Kalinina 37,unknown,AZS No 12 (18012)
+Glazov,lukoil,Russia 427620 Republic of Udmurtia Glazov st. Dragunova 3,unknown,AZS № 11 (18011)
+Votkinsk,lukoil,Russia 427411 Republic of Udmurtia Votkinsk st. Proletarskaya 12a,unknown,AZS No 90 (18090)
+Votkinsk,lukoil,Russia 427431 Republic of Udmurtia Votkinsk st. Gagarina 129,unknown,AZS No36 (18036)
+unknown,lukoil,Russia 427050 Republic of Udmurtia Sharkan st. Lenina 114,unknown,AZS No 33 (18033)
+Votkinsk,lukoil,Russia 427412 Republic of Udmurtia Votkinsk st. 1 Maya 176-a,unknown,AZS No 28 (18028)
+unknown,wildberries,г. Ижевск (Удмуртская Республика) Пушкинская улица д. 160,unknown,Wildberries
+unknown,wildberries,г. Воткинск (Удмуртская Республика) улица Робеспьера д. 15,unknown,Wildberries
+unknown,wildberries,г. Ижевск (Удмуртская Республика) Новостроительная улица д. 37,unknown,Wildberries
+unknown,wildberries,г. Сарапул (Удмуртская Республика) улица Горького д. 20,unknown,Wildberries
+unknown,wildberries,г. Ижевск (Удмуртская Республика) Молодёжная улица д. 103Б,unknown,Wildberries
+unknown,wildberries,г. Можга (Удмуртская Республика) Можгинская улица д. 51/2,unknown,Wildberries
+unknown,wildberries,г. Ижевск (Удмуртская Республика) улица А.Н. Сабурова д. 33,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Кирова 113,unknown,Wildberries
+unknown,wildberries,г. Ижевск (Удмуртская Республика) Пушкинская улица д. 114,unknown,Wildberries
+unknown,wildberries,г. Глазов (Удмуртская Республика) улица Молодой Гвардии д. 5,unknown,Wildberries
+unknown,wildberries,г. Ижевск (Удмуртская Республика) улица Дзержинского д. 60,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Воровского 127,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Максима Горького 154,unknown,Wildberries
+unknown,wildberries,посёлок Ува (Удмуртская Республика) улица Карла Маркса д. 24В ,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Карла Маркса 206,unknown,Wildberries
+unknown,wildberries,г. Ижевск (Удмуртская Республика) улица Гагарина д. 17,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Красногеройская улица 30,unknown,Wildberries
+unknown,wildberries,г. Ижевск (Удмуртская Республика) улица имени Татьяны Барамзиной д. 9,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Сарапул Интернациональная улица 55,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Ленина 95,unknown,Wildberries
+unknown,wildberries,г. Глазов (Респ Удмуртская) Советская  33,unknown,Wildberries
+unknown,wildberries,п. Игра (Респ Удмуртская) микрорайон Нефтяников 38,unknown,Wildberries
+unknown,wildberries,Балезино (Удмуртия) Толстого 12а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица 40 лет Победы 138А,unknown,Wildberries
+unknown,wildberries,г Камбарка (Респ Удмуртская ) Первомаская 120,unknown,Wildberries
+unknown,wildberries,г Воткинск (Россия Респ Удмуртская) Павлова 6,unknown,Wildberries
+unknown,wildberries,п Кез (Россия Респ Удмуртская Кезский р-н) Ленина 64а,unknown,Wildberries
+unknown,wildberries,г Ижевск (Россия Респ Удмуртская) Ворошилова 55 корпус 4,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Воткинск Пролетарская улица 17,unknown,Wildberries
+unknown,wildberries,г Сарапул (Удмуртская Республика) улица Калинина 26А,unknown,Wildberries
+unknown,wildberries,г Можга (Удмуртская Республика городской округ Можга) Парковый переулок 1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов улица Тани Барамзиной 19,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Майская улица 14,unknown,Wildberries
+unknown,wildberries,Сигаево Удмуртская Республика Сарапульский район Садовая улица 1,unknown,Wildberries
+unknown,wildberries,г Ижевск (Респ Удмуртская) улица Лихвинцева 72,unknown,Wildberries
+unknown,wildberries,г Ижевск Грибоедова 2,unknown,Wildberries
+unknown,wildberries,г Ижевск Холмогорова 21,unknown,Wildberries
+unknown,wildberries,г Ижевск Орджоникидзе 57,unknown,Wildberries
+unknown,wildberries,г Ижевск Ленина 164,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица Е.М. Кунгурцева 4,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица 10 Лет Октября 95,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица 30 Лет Победы 19а,unknown,Wildberries
+unknown,wildberries,г Сарапул Улица Азина 60,unknown,Wildberries
+unknown,wildberries,г Ижевск Совхозная Улица 36,unknown,Wildberries
+unknown,wildberries,Ижевск Удмуртская Республика городской округ Ижевск улица Архитектора П.П. Берша 29,unknown,Wildberries
+unknown,wildberries,г Ижевск Нижняя Улица 12,unknown,Wildberries
+unknown,wildberries,Ижевск Удмуртская Республика городской округ Ижевск улица Льва Толстого 3,unknown,Wildberries
+unknown,wildberries,Завьялово Удмуртская Республика Завьяловский район Речная улица 24,unknown,Wildberries
+unknown,wildberries,Ижевск Удмуртская Республика городской округ Ижевск Клубная улица 76к8,unknown,Wildberries
+unknown,wildberries,п Кизнер Улица Карла Маркса 19,unknown,Wildberries
+unknown,wildberries,Ижевск Респ Удмуртская улица Карла Маркса 308к1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Игра микрорайон Северный 8,unknown,Wildberries
+unknown,wildberries,с Дебесы Улица Ленина 1а,unknown,Wildberries
+unknown,wildberries,Сарапул Удмуртская Республика городской округ Сарапул улица Ленина 64,unknown,Wildberries
+unknown,wildberries,Удмуртская Респ г Ижевск ул Коммунаров д 221А ,unknown,Wildberries
+unknown,wildberries,Удмуртская Респ поселок Ува ул К.Маркса зд 12 ,unknown,Wildberries
+unknown,wildberries,Удмуртская Респ поселок Кизнер ул Карла Маркса д 19 ,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица Холмогорова 21а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица 30 лет Победы 12,unknown,Wildberries
+unknown,wildberries,Удмуртская Респ г Ижевск ул Карла Либкнехта д 60 ,unknown,Wildberries
+unknown,wildberries,Ижевск Удмуртская Республика городской округ Ижевск Пушкинская улица 224,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Авангардная улица 3А,unknown,Wildberries
+unknown,wildberries,Ижевск Удмуртская Республика городской округ Ижевск улица Степана Разина 45,unknown,Wildberries
+unknown,wildberries,Удмуртская Респ село Шаркан ул Советская д 46 ,unknown,Wildberries
+unknown,wildberries,Удмуртская Респ г Ижевск Воткинское шоссе д 45 ,unknown,Wildberries
+unknown,wildberries,Удмуртская Респ село Якшур-Бодья ул Пушиной д 71 ,unknown,Wildberries
+unknown,wildberries,Ижевск Удмуртская Республика городской округ Ижевск Тверская улица 36А,unknown,Wildberries
+unknown,wildberries,Воткинск Удмуртская Республика городской округ Воткинск улица Луначарского 33,unknown,Wildberries
+unknown,wildberries,Воткинск Удмуртская Республика городской округ Воткинск улица Курчатова 8,unknown,Wildberries
+unknown,wildberries,г Глазов Сибирская Улица 15,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица Ленина 146,unknown,Wildberries
+unknown,wildberries,Ижевск Удмуртская Республика городской округ Ижевск Пушкинская улица 282,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов Республиканская улица 58/16,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица имени 50-летия ВЛКСМ 38,unknown,Wildberries
+unknown,wildberries,Глазов Удмуртская Республика городской округ Глазов улица Будённого 3,unknown,Wildberries
+unknown,wildberries,Сарапул Удмуртская Республика городской округ Сарапул улица Седельникова 113,unknown,Wildberries
+unknown,wildberries,Удмуртская Респ село Малая Пурга ул Советская д 56А ,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Можга микрорайон Наговицынский 13А,unknown,Wildberries
+unknown,wildberries,г Ижевск Школьная Улица 8,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Красноармейская улица 128,unknown,Wildberries
+unknown,wildberries,г Глазов Улица Калинина 5,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Удмуртская улица 265/2,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов улица Сулимова 70,unknown,Wildberries
+unknown,wildberries,Ижевск Респ Удмуртская Клубная улица 19,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица Азина 150,unknown,Wildberries
+unknown,wildberries,г Воткинск Улица Гагарина 8,unknown,Wildberries
+unknown,wildberries,г Ижевск 7-Я Подлесная Улица 97,unknown,Wildberries
+unknown,wildberries,д Хохряки Тепличная Улица 33,unknown,Wildberries
+unknown,wildberries,с Алнаши Комсомольская Улица 1,unknown,Wildberries
+unknown,wildberries,г Ижевск Дарьинская Улица 2,unknown,Wildberries
+unknown,wildberries,Ижевск Респ Удмуртская улица 10 лет Октября 87,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Михаила Петрова 1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Союзная улица 55,unknown,Wildberries
+unknown,wildberries,Ижевск Респ Удмуртская улица 10 лет Октября 51,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица А.Н. Сабурова 21а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица имени Вадима Сивкова 88,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Городок Машиностроителей 108А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Селты улица Ленина 2,unknown,Wildberries
+unknown,wildberries,г Можга Улица Наговицына 87с2,unknown,Wildberries
+unknown,wildberries,г Ижевск Пушкинская Улица 369,unknown,Wildberries
+unknown,wildberries,Ува Удмуртская Республика Увинский район улица 40 лет Победы 25,unknown,Wildberries
+unknown,wildberries,г Можга Улица Единства 46,unknown,Wildberries
+unknown,wildberries,г Сарапул 1-Я Дачная Улица 19,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица 30 Лет Победы 43,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица Баранова 75а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Металлургов 9к1,unknown,Wildberries
+unknown,wildberries,г Ижевск Село Октябрьский 14,unknown,Wildberries
+unknown,wildberries,г Воткинск Улица 1 Мая 2а,unknown,Wildberries
+unknown,wildberries,г Сарапул Улица Азина 134,unknown,Wildberries
+unknown,wildberries,г Сарапул Улица 20 Лет Победы 11г,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Тимирязева 13,unknown,Wildberries
+unknown,wildberries,г Можга Улица Фрунзе 27,unknown,Wildberries
+unknown,wildberries,Ува Удмуртская Республика Увинский район улица Карла Маркса 33,unknown,Wildberries
+unknown,wildberries,Уд. Респ. с. Первомайский Весенняя 6,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица Кирова 98,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица 40 лет Победы 66,unknown,Wildberries
+unknown,wildberries,г Глазов Улица Калинина 10,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Киясово улица Горького 3А,unknown,Wildberries
+unknown,wildberries,г Сарапул Улица Жуковского 10а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Вавож Интернациональная улица 42,unknown,Wildberries
+unknown,wildberries,п Балезино Железнодорожная Улица 3а,unknown,Wildberries
+unknown,wildberries,г Ижевск Улица Архитектора П.П. Берша 32,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Завьялово улица Калинина 61А,unknown,Wildberries
+unknown,wildberries,с Красногорское Депутатский Переулок 17б,unknown,Wildberries
+unknown,wildberries,с Юкаменское Первомайская Улица 56,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Михаила Петрова 51А,unknown,Wildberries
+unknown,wildberries,с Вавож Советская Улица 28,unknown,Wildberries
+unknown,wildberries,д Яр Улица Флора Васильева 6,unknown,Wildberries
+unknown,wildberries,Ижевск Улица 10 Лет Октября 60бк2,unknown,Wildberries
+unknown,wildberries,село Светлое Октябрьский Переулок 3,unknown,Wildberries
+unknown,wildberries,Можга Рабочая Улица 69,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Сюмси Советская улица 58,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Карла Маркса 393,unknown,Wildberries
+unknown,wildberries,Ижевск Улица Зои Космодемьянской 15,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица 9 Января 183Б,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Фронтовая улица 4,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Заречное шоссе 33/1,unknown,Wildberries
+unknown,wildberries,Воткинск Улица Зверева 4,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Завьялово Гольянская улица 1Д,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Ракетная улица 16,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов Советская улица 20,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Архитектора П.П. Берша 15,unknown,Wildberries
+unknown,wildberries,посёлок Игра Кооперативная Улица 1а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Е.М. Кунгурцева 18,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Камбарка Прудовской переулок 12,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Баранова 46,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов улица Кирова 106,unknown,Wildberries
+unknown,wildberries,посёлок Кез Советская Улица 13а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов улица Тани Барамзиной 57с28,unknown,Wildberries
+unknown,wildberries,село Сигаево Улица Лермонтова 25,unknown,Wildberries
+unknown,wildberries,Ижевск Улица Василия Меркушева 91,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Каракулино улица 60 лет Октября 2,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Грахово Советская улица 1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Орджоникидзе 18,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Красноармейская улица 74,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск проспект Конструктора М.Т. Калашникова 17,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Сарапул улица Азина 55А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Холмогорова 85,unknown,Wildberries
+unknown,wildberries,село Грахово Улица Колпакова 22,unknown,Wildberries
+unknown,wildberries,Воткинск Улица Чапаева 68,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Первомайский улица Сабурова 28,unknown,Wildberries
+unknown,wildberries,Ижевск Улица Азина 286,unknown,Wildberries
+unknown,wildberries,Ижевск Улица 9 Января 231,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Сарапул Электрозаводская улица 1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Архитектурная улица 7,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Камбарка Советская улица 16,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Колхозная улица 1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Кизнер Вокзальная улица 22,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Шаркан Советская улица 41,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Казанская улица 128,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Воткинск Пролетарская улица 41,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Воткинск улица Садовникова 2,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица 40 лет Победы 73,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Молодёжная улица 38,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск 7-я Подлесная улица 34,unknown,Wildberries
+unknown,wildberries,Ижевск Улица Имени Татьяны Барамзиной 12а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Автозаводская улица 50,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Первомайский улица Строителя Николая Шишкина 2/1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Сарапул улица Азина 26,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Сарапул улица Гоголя 2Д,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Дзержинского 30,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Локомотивная улица 34,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Воткинск Волгоградская улица 18,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Кез улица Калинина 25,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Пушкинская улица 215,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Воткинск улица 1 Мая 48,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск проспект Конструктора М.Т. Калашникова 3,unknown,Wildberries
+unknown,wildberries,село Ягул Улица Графа Шувалова 5а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов улица 70 лет Октября 6,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Ворошилова 32,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Удмуртская улица 159,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Ува улица Фрунзе 78,unknown,Wildberries
+unknown,wildberries,село Июльское Центральная Улица 25,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов Сибирская улица 6,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Коммунаров 327,unknown,Wildberries
+unknown,wildberries,Ижевск 7-Я Подлесная Улица 118,unknown,Wildberries
+unknown,wildberries,Сарапул Советская Улица 59в,unknown,Wildberries
+unknown,wildberries,Сарапул Улица Чистякова 48а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Молодёжная улица 60,unknown,Wildberries
+unknown,wildberries,Ижевск Улица 9 Января 255а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Советская улица 45,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Воткинское шоссе 34,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Балезино улица Гагарина 37,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Удмуртская улица 247А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Удмуртская улица 255,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Металлистов 54,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Гагарина 13,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Малая Пурга Парковая улица 7/35,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Архитектора П.П. Берша 26,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Игра микрорайон Нефтяников 20А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица 30 лет Победы 6,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Кизнер улица Савина 2,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Якшур-Бодья улица Пушиной 122,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск 3-я Трубецкая улица 2В,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Кама улица Речников 15А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Игра микрорайон Западный 23А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Чур улица Мира 10,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица имени 50-летия ВЛКСМ 49,unknown,Wildberries
+unknown,wildberries,село Италмас Северная Улица 2,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Пугачёво улица Чапаева 242,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Воткинск улица 1 Мая 89,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Малая Пурга Советская улица 50Ж,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Факел Коммунальная улица 16,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Автозаводская улица 18,unknown,Wildberries
+unknown,wildberries,деревня Каменное Улица Зои Фёдоровой 1а,unknown,Wildberries
+unknown,wildberries,Ижевск Камбарская Улица 5,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Клубная улица 46,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Баранова 94Б,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Карла Маркса 436,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Деревообделочная улица 36,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск 9-я Подлесная улица 29,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Союзная улица 17,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика деревня Сюрногурт Молодёжная улица 2А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Ува-Тукля Строительная улица 13,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск проспект Конструктора М.Т. Калашникова 21,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Ворошилова 53,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика посёлок Игра микрорайон Нефтяников 2,unknown,Wildberries
+unknown,wildberries,деревня Поршур-Тукля Улица Пислегина 28,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Кирпичная улица 19А,unknown,Wildberries
+unknown,wildberries,село Алнаши Улица Ленина 60,unknown,Wildberries
+unknown,wildberries,село Кизнер Центральная Улица 22,unknown,Wildberries
+unknown,wildberries,село Нылга Советская Улица 45,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Оружейника Драгунова 62,unknown,Wildberries
+unknown,wildberries,село Пудем Улица Кирова 1р,unknown,Wildberries
+unknown,wildberries,Ижевск Улица Имени Вадима Сивкова 275,unknown,Wildberries
+unknown,wildberries,село Зура Улица Стрелкова 66,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица 40 лет ВЛКСМ 29,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Июльская улица 79А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Дзержинского 93,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Школьная улица 23,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Гагарина 49,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов улица Драгунова 4А,unknown,Wildberries
+unknown,wildberries,посёлок Ува Селтинская Улица 1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Удмуртская улица 229,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Воткинск улица Мира 15,unknown,Wildberries
+unknown,wildberries,Ижевск Красногеройская Улица 107,unknown,Wildberries
+unknown,wildberries,Ижевск Улица Е.М. Кунгурцева 25,unknown,Wildberries
+unknown,wildberries,Ижевск Придорожная Улица 2,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Союзная улица 75,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов Пионерская улица 89,unknown,Wildberries
+unknown,wildberries,Воткинск Улица Королёва 19,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Глазов Пионерская улица 1А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Кирзаводская улица 15,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Володарского 1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск проезд Седова 1,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Малая Пурга Советская улица 97А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Пушкинская улица 138,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица 40 лет Победы 89,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица имени 50-летия ВЛКСМ 2,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Совхозная улица 113,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Воткинск Тихая улица 4В,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Молодёжная улица 103А,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Молодёжная улица 8,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск Северный переулок 50,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика Ижевск улица Грибоедова 2,unknown,Wildberries
+unknown,wildberries,Ижевск Восточная Улица 7,unknown,Wildberries
+unknown,wildberries,деревня Пирогово Высотная Улица 1а,unknown,Wildberries
+unknown,wildberries,село Завьялово Гольянская Улица 29а,unknown,Wildberries
+unknown,wildberries,Ижевск Улица Телегина 101,unknown,Wildberries
+unknown,wildberries,Ижевск Воткинское Шоссе 66,unknown,Wildberries

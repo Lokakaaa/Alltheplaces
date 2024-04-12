@@ -1,0 +1,71 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+9998,abc_pl,abc,,Kwidzyn,pomorskie,,PL,,,,abc,Q11683985
+10097,abc_pl,abc,,Nowy Dwór,pomorskie,,PL,,,,abc,Q11683985
+10094,abc_pl,abc,,Kwidzyn,pomorskie,,PL,,,,abc,Q11683985
+2124,abc_pl,abc,,Kwidzyn,pomorskie,,PL,,,,abc,Q11683985
+3847,abc_pl,abc,,Kwidzyn,pomorskie,,PL,,,,abc,Q11683985
+3721,abc_pl,abc,,Kwidzyn,pomorskie,,PL,,,,abc,Q11683985
+3715,abc_pl,abc,,Gurcz,pomorskie,,PL,,,,abc,Q11683985
+10341,abc_pl,abc,,Rakowiec,pomorskie,,PL,,,,abc,Q11683985
+10809,abc_pl,abc,,Kwidzyn,pomorskie,,PL,,,,abc,Q11683985
+10808,abc_pl,abc,,Kwidzyn,pomorskie,,PL,,,,abc,Q11683985
+14181,abc_pl,abc,,Kwidzyn,pomorskie,,PL,,,,abc,Q11683985
+PL001169,aldi_nord_pl,ALDI,,Kwidzyn,Pomorskie,,PL,+48 800 118 118,,Mo-Sa 06:00-22:00,ALDI,Q41171373
+139,bricomarche_pl,Bricomarché Kwidzyn,,Kwidzyn,pomorskie,,PL,+48 55 279 60 66,https://www.bricomarche.pl/sklep/bricomarche-kwidzyn,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1900-kwidzyn-pilsudskiego,credit_agricole_pl,"Credit Agricole Piłsudskiego 25, Kwidzyn",,Kwidzyn,pomorskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1900-kwidzyn-pilsudskiego,Mo 10:00-17:00; Tu-Fr 09:30-16:30,Credit Agricole,Q590952
+705,mcdonalds_pl,McDonald's,,Kwidzyn,Pomorskie,,PL,+48 538 132 624,https://mcdonalds.pl/restauracje/pomorskie/kwidzyn/kwidzyn-ul-malborska-123,Mo-Su 07:00-24:00,McDonald's,Q38076
+KWD01A,paczkomat_inpost_pl,Stacja paliw Shell,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd01a-sportowa-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD01G,paczkomat_inpost_pl,Przy Hurtowni Walkusz,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd01g-piekarska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD01HP,paczkomat_inpost_pl,w sklepie Duży Ben,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd01hp-warszawska-paczkomaty-pomorskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+KWD01N,paczkomat_inpost_pl,Przy salonie meblowym Dario,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd01n-zamiejska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD02M,paczkomat_inpost_pl,Przy bocznej ścianie budynku,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd02m-malborska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD02N,paczkomat_inpost_pl,Przy salonie meblowym,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd02n-wschodnia-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD03A,paczkomat_inpost_pl,Przy markecie Kaufland,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd03a-krotka-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD03M,paczkomat_inpost_pl,przy markecie Stokrotka,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd03m-kamienna-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD03N,paczkomat_inpost_pl,Przy hotelu,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd03n-braterstwa-narodow-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD04M,paczkomat_inpost_pl,Przy sklepie PSS Społem,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd04m-dluga-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD04N,paczkomat_inpost_pl,Przy serwisie opon,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd04n-grunwaldzka-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD05M,paczkomat_inpost_pl,przy parkingu Lidla,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd05m-grunwaldzka-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD05N,paczkomat_inpost_pl,Na parkingu przy Galerii Kopernik,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd05n-kopernika-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD06M,paczkomat_inpost_pl,Kwidzyński Park Przemysłowo – Technologiczny,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd06m-gorki-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD07M,paczkomat_inpost_pl,przy wejściu do Gabinetu Kosmetologii,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd07m-polna-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD08M,paczkomat_inpost_pl,przy Aldi,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd08m-konopnickiej-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD10M,paczkomat_inpost_pl,przy stacji paliw,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd10m-11-listopada-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD11M,paczkomat_inpost_pl,przy Intermarche,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd11m-szeroka-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD12M,paczkomat_inpost_pl,posesja prywatna,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd12m-dluga-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD14M,paczkomat_inpost_pl,Na myjni,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd14m-wislana-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD15M,paczkomat_inpost_pl,Przy piekarni,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd15m-wiejska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD16M,paczkomat_inpost_pl,Przy Fitness Magnum,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd16m-boleslawa-chrobrego-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD17M,paczkomat_inpost_pl,W płocie przy mechaniku,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd17m-lakowa-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+KWD247,paczkomat_inpost_pl,Przy Galerii Liwa,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-kwd247-konopnickiej-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+LICZ01M,paczkomat_inpost_pl,Przy terenie rekreacyjno-sportowym,,Licze,pomorskie,,PL,,https://inpost.pl/paczkomat-licze-licz01m-licze-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+POP-KWD10,paczkomat_inpost_pl,GRACOMM KOMPUTERY,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-pop-kwd10-batalionow-chlopskich-paczkomaty-pomorskie,Mo-Fr 10:00-18:00; Sa 10:00-15:00,Paczkomat,Q110970254
+POP-KWD11,paczkomat_inpost_pl,DUŻY BEN,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-pop-kwd11-warszawska-paczkomaty-pomorskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+POP-KWD6,paczkomat_inpost_pl,KONSORCJUM KURIERSKIE,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-pop-kwd6-mickiewicza-paczkomaty-pomorskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-KWD9,paczkomat_inpost_pl,ŚWIAT DZIECKA,,Kwidzyn,pomorskie,,PL,,https://inpost.pl/paczkomat-kwidzyn-pop-kwd9-pilsudskiego-paczkomaty-pomorskie,Mo-Fr 10:00-18:00; Sa 10:00-14:00,Paczkomat,Q110970254
+RKW01M,paczkomat_inpost_pl,Przy hurtowni z pokryciami dachowymi,,Rakowiec,pomorskie,,PL,,https://inpost.pl/paczkomat-rakowiec-rkw01m-lesna-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+RKW02M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Rakowiec,pomorskie,,PL,,https://inpost.pl/paczkomat-rakowiec-rkw02m-kwidzynska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+TYCH01M,paczkomat_inpost_pl,Przy centrum medycznym,,Tychnowy,pomorskie,,PL,,https://inpost.pl/paczkomat-tychnowy-tych01m-kwidzynska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+XZN01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Korzeniewo,pomorskie,,PL,,https://inpost.pl/paczkomat-korzeniewo-xzn01m-kwidzynska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+431,play_pl,Salon Play,Ul. Chopina 13/1,Kwidzyn,pomorskie,,PL,+48 790 030 084,,Mo-Fr 09:00-17:00; Sa 10:00-14:00,Play,Q7202998
+249133,poczta_polska_pl,UP Kwidzyn 1,,Kwidzyn,POMORSKIE,,PL,+48 55 279 35 01;+48 55 279 32 91;+48 55 279 36 40;+48 55 279 43 99;+48 55 279 34 16;+48 55 275 17 20,,,Poczta Polska,Q168833
+334775,poczta_polska_pl,FUP Kwidzyn 1,,Kwidzyn,POMORSKIE,,PL,+48 55 279 37 30,,,Poczta Polska,Q168833
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,MAREZA,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,KWIDZYN,POMORSKIE,,PL,,,,,
+,visa,,,RAKOWIEC,POMORSKIE,,PL,,,,,
+92118be6f6187aad65da2e875b9eaf55,western_union,STEFCZYK FINANSE,,Kwidzyn,POMORSKIE,,PL,+48 55 279 79 11,https://location.westernunion.com/pl/pomorskie/kwidzyn/92118be6f6187aad65da2e875b9eaf55,Mo-Fr 09:00-16:30,Western Union,Q861042
+16a693111acd96031ebc78d47d772df3,western_union,BANK SPOLDZIELCZY W BRODNICY,,Kwidzyn,POMORSKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/pomorskie/kwidzyn/16a693111acd96031ebc78d47d772df3,Mo-Fr 08:00-16:00,Western Union,Q861042

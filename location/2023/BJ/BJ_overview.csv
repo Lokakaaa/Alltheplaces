@@ -1,0 +1,231 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,3
+VEDOKOROUTEDELOME,avis,Cotonou,1
+AEROPORTCADJEHOUN,avis,Cotonou,1
+BENIN,bmw_group,Cotonou,1
+COTONOU,deloitte,unknown,1
+UNKNOWN,ford,Cotonou,1
+UNKNOWN,moneygram,COTONOU,501
+UNKNOWN,moneygram,MALANVILLE,3
+UNKNOWN,moneygram,PORTO-NOVO,110
+UNKNOWN,moneygram,ABOMEY-CALAVI,117
+UNKNOWN,moneygram,BOHICON,24
+UNKNOWN,moneygram,PARAKOI,1
+UNKNOWN,moneygram,NATITINGOU,6
+UNKNOWN,moneygram,DJOUGOU,7
+UNKNOWN,moneygram,LOKOSSA,10
+UNKNOWN,moneygram,SAVALOU,5
+UNKNOWN,moneygram,PARAKOU,27
+UNKNOWN,moneygram,GODOMEY,6
+UNKNOWN,moneygram,BASSILA,3
+UNKNOWN,moneygram,CALAVI,15
+UNKNOWN,moneygram,FIDJROSSE,1
+UNKNOWN,moneygram,VEDOKO,1
+UNKNOWN,moneygram,DIRECTION,2
+UNKNOWN,moneygram,COTONOU-OUEST,1
+UNKNOWN,moneygram,AZOVE,4
+UNKNOWN,moneygram,AKASSATO,2
+UNKNOWN,moneygram,PORTO-NOVO/DJEREGBE,1
+UNKNOWN,moneygram,OUIDAH,11
+UNKNOWN,moneygram,YENAWA,1
+UNKNOWN,moneygram,SEME KPODJI,15
+UNKNOWN,moneygram,PORTO,1
+UNKNOWN,moneygram,ABOMEY,7
+UNKNOWN,moneygram,BOBE ADJA-OUERE,1
+UNKNOWN,moneygram,COME,4
+UNKNOWN,moneygram,COVE,4
+UNKNOWN,moneygram,DASSA-ZOUME,1
+UNKNOWN,moneygram,GLAZOUE,3
+UNKNOWN,moneygram,KANDI,6
+UNKNOWN,moneygram,N'DALI,1
+UNKNOWN,moneygram,SAVE,3
+UNKNOWN,moneygram,TCHAOROU,1
+UNKNOWN,moneygram,ADJARRA,9
+UNKNOWN,moneygram,NDALI,1
+UNKNOWN,moneygram,LITTORAL,3
+UNKNOWN,moneygram,HOUEYOGBE,2
+UNKNOWN,moneygram,ALLADA,9
+UNKNOWN,moneygram,AKPRO MISSERETE,11
+UNKNOWN,moneygram,MISSERETE,1
+UNKNOWN,moneygram,TANGUIETA,3
+UNKNOWN,moneygram,APLAHOUE,1
+UNKNOWN,moneygram,BANIKOARA,3
+UNKNOWN,moneygram,NIKKI,1
+UNKNOWN,moneygram,MONO,1
+UNKNOWN,moneygram,SEME-KPODJI,8
+UNKNOWN,moneygram,DOGBO,1
+UNKNOWN,moneygram,GRAND-POPO,1
+UNKNOWN,moneygram,AKPAKPA,1
+UNKNOWN,moneygram,AKPRO-MISSERETE,2
+UNKNOWN,moneygram,AVRANKOU,5
+UNKNOWN,moneygram,PORTO NOVO,22
+UNKNOWN,moneygram,ABOMEY CALAVI,26
+UNKNOWN,moneygram,COTONUO,1
+UNKNOWN,moneygram,OUEME,1
+UNKNOWN,moneygram,COCOTOMEY,3
+UNKNOWN,moneygram,S?M?,1
+UNKNOWN,moneygram,POBE,4
+UNKNOWN,moneygram,DASSA,3
+UNKNOWN,moneygram,OUANDO,1
+UNKNOWN,moneygram,HILLACONDJI,1
+UNKNOWN,moneygram,SEME KRAKE,1
+UNKNOWN,moneygram,BANTE,2
+UNKNOWN,moneygram,AKPRO MISSRETE,1
+UNKNOWN,moneygram,COPARGO,2
+UNKNOWN,moneygram,DOWA PORTO,1
+UNKNOWN,moneygram,SEME PODJI,1
+UNKNOWN,moneygram,SEME-PODJI,2
+UNKNOWN,moneygram,MATERI,1
+UNKNOWN,moneygram,HILACONDJI,2
+UNKNOWN,moneygram,TCHAOUROU,1
+UNKNOWN,moneygram,KETOU,1
+UNKNOWN,moneygram,SAKETE,3
+UNKNOWN,moneygram,BEMBEREKE,1
+UNKNOWN,moneygram,KOUANDE,1
+UNKNOWN,moneygram,MASSI,1
+UNKNOWN,moneygram,KLOUEKANME,1
+UNKNOWN,moneygram,DJOUKOU,1
+UNKNOWN,moneygram,TANGIETA,1
+UNKNOWN,moneygram,ZOU,1
+UNKNOWN,moneygram,CONTONOU,1
+UNKNOWN,moneygram,COTOUNOU,1
+UNKNOWN,moneygram,PARAKOU 1,1
+UNKNOWN,visa,COTONOU,15
+UNKNOWN,visa,ATLANTIQUE,1
+UNKNOWN,visa,PORTO NOVO,1
+UNKNOWN,visa,SEME,1
+UNKNOWN,visa,BOHICON,1
+UNKNOWN,visa,PARAKOU,2
+OUEME,western_union,Porto Novo,58
+COLLINES,western_union,Glazoue,2
+COLLINES,western_union,Savalou,1
+COLLINES,western_union,Dassa-zoume,3
+ATLANTIQUE,western_union,Dassa Zoume,1
+ZOU,western_union,Djidja,1
+COLLINES,western_union,Save,1
+COLLINES,western_union,Paouignan,1
+ZOU,western_union,Bohicon,6
+ZOU,western_union,Abomey,8
+BOHICON,western_union,Bohicon,3
+COUFFO,western_union,Couffo,1
+KOUFFO,western_union,Aplahoue,1
+LITTORAL,western_union,Cotonou,217
+UNKNOWN,western_union,Abomey,1
+COUFFO,western_union,Klouekanme,1
+UNKNOWN,western_union,Bohicon,2
+PLATEAU,western_union,Ketou,1
+ZOU,western_union,Zagnanado,1
+ZOU,western_union,Cove,2
+ZOU,western_union,Zogbodomey,1
+MONO,western_union,Djakotome,1
+MONO,western_union,Athieme,1
+MONO,western_union,Lokossa,5
+UNKNOWN,western_union,Lokossa,2
+ATLANTIQUE,western_union,Lokossa,1
+ZOU,western_union,Ouinhi,1
+PLATEAU,western_union,Pobe,1
+MONO,western_union,Se,1
+MONO,western_union,Lobogo,1
+ATLANTIQUE,western_union,Toffo,1
+PLATEAU,western_union,Adja Ouere,1
+UNKNOWN,western_union,Allada,5
+ATLANTIQUE,western_union,Cocotomey,4
+ATLANTIQUE,western_union,Allada,4
+MONO,western_union,Bopa,1
+UNKNOWN,western_union,Porto Novo,16
+OUEME,western_union,Bonou,1
+UNKNOWN,western_union,Pobe,1
+ABOMEYCALAVI,western_union,Abomey Calavi,5
+UNKNOWN,western_union,Ouidah,4
+ATLANTIQUE,western_union,Ouidah,4
+OUIDAH2,western_union,Ouidah,1
+ATLANTIQUE,western_union,Calavi,18
+COME,western_union,Come,1
+MONO,western_union,Grand  Popo,1
+MONO,western_union,Come,1
+ATLANTIQUE,western_union,Hilla-condji,1
+MONO,western_union,Hilacondji,1
+OUEME,western_union,Adjohoun,2
+ATLANTIQUE,western_union,Abomey Calavi,38
+OUEME,western_union,Sakete,1
+ATLANTIQUE,western_union,Tori,1
+ATLANTIQUE,western_union,Kpomasse,1
+OUEME,western_union,Dangbo,1
+OUEME,western_union,Akpro Misserete,5
+UNKNOWN,western_union,Cotonou,45
+ATLANTIQUE,western_union,Calavi Ouedo,1
+ATLANTIQUE,western_union,Hevie,2
+UNKNOWN,western_union,Abomey Calavi,17
+ATLANTIQUE,western_union,Pahou,2
+ATLANTIQUE,western_union,Abomey-calavi,4
+ATLANTIQUE,western_union,Abomey  Calavi,2
+UNKNOWN,western_union,Calavi,3
+CALAVI,western_union,Abomey Calavi,2
+CALAVI,western_union,Calavi,1
+UNKNOWN,western_union,Godomey,1
+ATLANTIQUE,western_union,Godomey,3
+OUEME,western_union,Misserete,1
+OUEME,western_union,Avrankou,2
+ATLANTIQUE,western_union,Cocotomeu,1
+OUEME,western_union,Adjarra,2
+ATLANTIQUE,western_union,Dekounbe,1
+COTONOU,western_union,Cotonou,9
+OUEME,western_union,Porto-novo,7
+ATLANTIQUE,western_union,Porto Novo,2
+OUEME,western_union,Porto,1
+COTONOU,western_union,Kouhounou,1
+PORTONOVO,western_union,Porto Novo,4
+229,western_union,Cotonou,1
+LIMITSBYLINTLBYAGENT,western_union,Cotonou,1
+BENIN,western_union,Cotonou,3
+OUEME,western_union,Oueme,1
+UNKNOWN,western_union,A,1
+LITTORAL,western_union,Akpakpa,1
+LITTORAL,western_union,00871031,1
+ATLANTIQUE,western_union,Pobe,1
+ATLANTIQUE,western_union,Savalou,1
+OUEME,western_union,Seme Kpodji,11
+OUEME,western_union,Seme Podji,4
+ATLANTIQUE,western_union,Malanville,1
+ATAKORA,western_union,Natitingou,6
+ALIBORI,western_union,Kandi,3
+ATLANTIQUE,western_union,Igolo,1
+ATLANTIQUE,western_union,Bohicon,1
+ZOU,western_union,Save,1
+DONGA,western_union,Djougou,5
+UNKNOWN,western_union,Seme Kpodji,3
+UNKNOWN,western_union,Seme Kpodi,1
+ALIBORI,western_union,Bembereke,1
+BORGOU,western_union,Ndali,2
+ALIBORI,western_union,Gogounou,1
+BORGOU,western_union,Bembereke,1
+ALIBORI,western_union,Malanville,2
+BORGOU,western_union,Kandi,1
+ATLANTIQUE,western_union,Kandi,1
+BORGOU,western_union,Nikki,1
+BORGOU,western_union,Cotonou,1
+ALIBORI,western_union,Segbana,1
+COLLINES,western_union,Bante,1
+BORGOU,western_union,Tchaourou,2
+COLLINES,western_union,Ouesse,1
+ATACORA,western_union,Parakou,1
+ATLANTIQUE,western_union,Parakou,3
+BORGOU,western_union,Parakou,13
+PARAKOU,western_union,Parakou,1
+COLLINES,western_union,Pira,1
+ALIBORI,western_union,Parakou,1
+COLLINES,western_union,Parakou,1
+UNKNOWN,western_union,Akpakpa,1
+ALIBORI,western_union,Cotonou,1
+DONGA,western_union,Bassila,3
+ALIBORI,western_union,Banikoara,2
+DONGA,western_union,Banikoara,1
+ATAKORA,western_union,Kerou,1
+BORGOU,western_union,Djougou,1
+ATAKORA,western_union,Pehunco,1
+ATAKORA,western_union,Kouande,1
+ALIBORI,western_union,Ouake,1
+DONGA,western_union,Copargo,1
+ALIBORI,western_union,Natitingou,1
+ATAKORA,western_union,Boukoumbe,1
+ATAKORA,western_union,Tanguieta,2

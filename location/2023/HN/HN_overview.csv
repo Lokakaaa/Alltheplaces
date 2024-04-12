@@ -1,0 +1,801 @@
+State,Place Name,City,Establishments
+UNKNOWN,alamo,Roatan,1
+UNKNOWN,alamo,San Pedro Sula,1
+UNKNOWN,alamo,Tegucigalpa,2
+UNKNOWN,alamo,Comayagua,1
+CORTÉS,allied_universal,San Pedro Sula,1
+UNKNOWN,ashley_furniture,San Pedro Sula,1
+CORTES,audi,San Pedro Sula,1
+AIRPORTROADROATANISLAND,avis,Coxen Hole,1
+ROATANISLAND,avis,West Bay,1
+TEGUCIGALPA,avis,Tegucigalpa,1
+CORTES,avis,San Pedro Sula,1
+BARRIOGUAMILITO,avis,San Pedro Sula,1
+FREAEDIFICIOPALICBOX1208,avis,Tegucigalpa,1
+LACEIBA,avis,La Ceiba,1
+ENTRADAACEIBA,avis,La Ceiba,1
+UNKNOWN,bmw_group,Tegucigalpa,2
+CORTES,bmw_group,San Pedro Sula,1
+UNKNOWN,bmw_group,San Pedro Sula,1
+HONDURAS,bojangles,Coxen Hole Roatan,1
+TEGUCIGALPA,deloitte,unknown,1
+SANPEDROSULA,deloitte,unknown,1
+UNKNOWN,enterprise,San Pedro Sula,3
+UNKNOWN,enterprise,Tegucigalpa,6
+UNKNOWN,enterprise,Roatan,3
+UNKNOWN,enterprise,Comayagua,1
+UNKNOWN,ernst_young,San Pedro Sula,1
+UNKNOWN,ernst_young,Tegucigalpa,1
+FRANCISCOMORAZAN,fedex,Tegucigalpa,2
+CORTES,fedex,San Pedro Sula,1
+BARRIOPAZBARAHONA,fedex,San Pedro Sula,1
+UNKNOWN,ford,Tegucigalpa,4
+UNKNOWN,ford,Comayaguela MDC,1
+UNKNOWN,ford,La Ceiba,3
+UNKNOWN,ford,Comayagüela,1
+UNKNOWN,ford,San Pedro Sula,3
+UNKNOWN,marriott,"San Pedro Sula, Cortés",1
+UNKNOWN,moneygram,TEGUCIGALPA,415
+UNKNOWN,moneygram,ROATAN,33
+UNKNOWN,moneygram,PROGRESO,11
+UNKNOWN,moneygram,YORO,50
+UNKNOWN,moneygram,JUTICALPA,85
+UNKNOWN,moneygram,CULMI,1
+UNKNOWN,moneygram,SAN LUIS,7
+UNKNOWN,moneygram,SONAGUERA,34
+UNKNOWN,moneygram,TRINIDAD,17
+UNKNOWN,moneygram,TRUJILLO,52
+UNKNOWN,moneygram,DANLI,83
+UNKNOWN,moneygram,COMAYAGUA,102
+UNKNOWN,moneygram,CHOLOMA,95
+UNKNOWN,moneygram,GUALACO,4
+UNKNOWN,moneygram,OCOTEPEQUE,17
+UNKNOWN,moneygram,SAN PEDRO SULA,449
+UNKNOWN,moneygram,SANTA CRUZ DE YOJOA,33
+UNKNOWN,moneygram,CEDROS,10
+UNKNOWN,moneygram,TOCOA,120
+UNKNOWN,moneygram,LA CEIBA,179
+UNKNOWN,moneygram,CHOLUTECA,113
+UNKNOWN,moneygram,COLOMONCAGUA,2
+UNKNOWN,moneygram,VICTORIA,6
+UNKNOWN,moneygram,CEIBA,6
+UNKNOWN,moneygram,EL TRIUFO,1
+UNKNOWN,moneygram,NACAOME,20
+UNKNOWN,moneygram,INTIBUCA,17
+UNKNOWN,moneygram,SAN ESTEBAN,10
+UNKNOWN,moneygram,CUCUYAGUA,11
+UNKNOWN,moneygram,CATACAMAS,69
+UNKNOWN,moneygram,DISTRITO CENTRAL,66
+UNKNOWN,moneygram,PUERTO LEMPIRA,5
+UNKNOWN,moneygram,LA LIMA,24
+UNKNOWN,moneygram,COMAYAGUELA,74
+UNKNOWN,moneygram,VILLANUEVA,61
+UNKNOWN,moneygram,SANTA BARBARA,46
+UNKNOWN,moneygram,PUERTO CORTES,35
+UNKNOWN,moneygram,GRACIAS,20
+UNKNOWN,moneygram,SANTA ROSA,18
+UNKNOWN,moneygram,TELA,69
+UNKNOWN,moneygram,VILLA NUEVA,5
+UNKNOWN,moneygram,SAN LORENZO,26
+UNKNOWN,moneygram,CUCUAYAGUA,1
+UNKNOWN,moneygram,COPAN RUINAS,5
+UNKNOWN,moneygram,SAN MARCOS,21
+UNKNOWN,moneygram,PENA BLANCA,7
+UNKNOWN,moneygram,COMAYAGUEELA,5
+UNKNOWN,moneygram,MARCOBIA,2
+UNKNOWN,moneygram,LA LIBERTAD,9
+UNKNOWN,moneygram,SIGUATEPEQUE,50
+UNKNOWN,moneygram,NACAHOME,1
+UNKNOWN,moneygram,MARCALA,19
+UNKNOWN,moneygram,EL PARAISO,30
+UNKNOWN,moneygram,LA ESPERANZA,23
+UNKNOWN,moneygram,SAN JUAN DE FLORES,1
+UNKNOWN,moneygram,EL PROGRESO,90
+UNKNOWN,moneygram,SABA,45
+UNKNOWN,moneygram,MORANZAN,1
+UNKNOWN,moneygram,LA ENTRADA COPNA,1
+UNKNOWN,moneygram,QUIMISTAN,25
+UNKNOWN,moneygram,NACO,2
+UNKNOWN,moneygram,MACUELIZO,16
+UNKNOWN,moneygram,FRANCISCO MORAZAN,7
+UNKNOWN,moneygram,EL TRIUNFO,9
+UNKNOWN,moneygram,SANTA ANA,7
+UNKNOWN,moneygram,BONITO ORIENTAL,32
+UNKNOWN,moneygram,GUAIMACA,10
+UNKNOWN,moneygram,SANTA RITA,19
+UNKNOWN,moneygram,MORAZAN,19
+UNKNOWN,moneygram,LA ENTRADA,25
+UNKNOWN,moneygram,OLANCHITO,86
+UNKNOWN,moneygram,SANTA ROSA DE COPAN,25
+UNKNOWN,moneygram,CAMPEMENTO,1
+UNKNOWN,moneygram,VILLA DE SAN ANTONIO,6
+UNKNOWN,moneygram,LA PAZ,27
+UNKNOWN,moneygram,CAMPAMENTO,10
+UNKNOWN,moneygram,TEUPASENTI,7
+UNKNOWN,moneygram,ARENAL,4
+UNKNOWN,moneygram,IRIONA,5
+UNKNOWN,moneygram,GUANAJA,7
+UNKNOWN,moneygram,CORTES,8
+UNKNOWN,moneygram,TALANGA,17
+UNKNOWN,moneygram,LAMANI,2
+UNKNOWN,moneygram,TGU,3
+UNKNOWN,moneygram,YUSCARAN,2
+UNKNOWN,moneygram,SAN FRANCISCO,11
+UNKNOWN,moneygram,EL PORVENIR,35
+UNKNOWN,moneygram,YORITO,7
+UNKNOWN,moneygram,COLOLACA,4
+UNKNOWN,moneygram,DULCE NOMBRE DE CULMI,7
+UNKNOWN,moneygram,MAPULACA,4
+UNKNOWN,moneygram,ISLAS DE LA BAHIA,2
+UNKNOWN,moneygram,POTRERILLOS,9
+UNKNOWN,moneygram,YOCON,1
+UNKNOWN,moneygram,LA MASICA,33
+UNKNOWN,moneygram,COPAN,3
+UNKNOWN,moneygram,EL ROSARIO,9
+UNKNOWN,moneygram,SAN JUAN PUEBLO,3
+UNKNOWN,moneygram,AZACUALPA,20
+UNKNOWN,moneygram,COFRADIA,6
+UNKNOWN,moneygram,RUINAS DE COPAN,1
+UNKNOWN,moneygram,OMOA,14
+UNKNOWN,moneygram,GUATA,2
+UNKNOWN,moneygram,OLANCHO,2
+UNKNOWN,moneygram,JUTIAPA,31
+UNKNOWN,moneygram,SANTA DE ROSA DE COPAN,1
+UNKNOWN,moneygram,PATUCA,10
+UNKNOWN,moneygram,SAN MANUEL,14
+UNKNOWN,moneygram,LA UNION,9
+UNKNOWN,moneygram,EL TULAR,1
+UNKNOWN,moneygram,EL NEGRITO,22
+UNKNOWN,moneygram,BONITO ORIENTA,1
+UNKNOWN,moneygram,JACALEAPA,2
+UNKNOWN,moneygram,MANTO,3
+UNKNOWN,moneygram,LEJAMANI,6
+UNKNOWN,moneygram,SAN PEDRO,1
+UNKNOWN,moneygram,BELEN GUALCHO,3
+UNKNOWN,moneygram,TATUMBLA,3
+UNKNOWN,moneygram,SAN IGNACIO,6
+UNKNOWN,moneygram,SAN NICOLAS,13
+UNKNOWN,moneygram,SAN BUENAVENTURA,1
+UNKNOWN,moneygram,ATLANTIDA,6
+UNKNOWN,moneygram,VILLA DE SAN FRANCISCO,5
+UNKNOWN,moneygram,ESQUIAS,6
+UNKNOWN,moneygram,MINAS DE ORO,3
+UNKNOWN,moneygram,PESPIRE,6
+UNKNOWN,moneygram,SPS,2
+UNKNOWN,moneygram,BALFATE,10
+UNKNOWN,moneygram,COMAYAGUAELA,1
+UNKNOWN,moneygram,ARIZONA,31
+UNKNOWN,moneygram,SILCA,1
+UNKNOWN,moneygram,VALLE DE ANGELES,4
+UNKNOWN,moneygram,CANE,2
+UNKNOWN,moneygram,SAN MANUEL COLOHETE,2
+UNKNOWN,moneygram,SAN PEDRO DE TUTULE,6
+UNKNOWN,moneygram,SANTA FE,2
+UNKNOWN,moneygram,SAN FRANCISCO DE LA PAZ,4
+UNKNOWN,moneygram,LIMON,6
+UNKNOWN,moneygram,SAN JERONIMO,6
+UNKNOWN,moneygram,MARCOVIA,10
+UNKNOWN,moneygram,SAN RAFAEL,4
+UNKNOWN,moneygram,JESUS DE OTORO,12
+UNKNOWN,moneygram,TAULABE,7
+UNKNOWN,moneygram,SAN JUAN,12
+UNKNOWN,moneygram,JUAN FRANCISCO BULNES,1
+UNKNOWN,moneygram,FLORIDA,9
+UNKNOWN,moneygram,SAN ANTONIO,12
+UNKNOWN,moneygram,SANTA ROSE DE COPAN,1
+UNKNOWN,moneygram,MASAGUARA,2
+UNKNOWN,moneygram,DULCE NOMBRE DE CULMIN,1
+UNKNOWN,moneygram,SENSENTI,2
+UNKNOWN,moneygram,LAS VEGAS,12
+UNKNOWN,moneygram,MOROCELI,2
+UNKNOWN,moneygram,VALLECILLO,1
+UNKNOWN,moneygram,COLON,2
+UNKNOWN,moneygram,SANTA ROSA DE AGUAN,3
+UNKNOWN,moneygram,TROJES,10
+UNKNOWN,moneygram,SAN FRANCISCO DE BECERRA,2
+UNKNOWN,moneygram,JOCON,2
+UNKNOWN,moneygram,OROPOLI,1
+UNKNOWN,moneygram,RIO LINDO,2
+UNKNOWN,moneygram,SAN JOSE DE COMAYAGUA,1
+UNKNOWN,moneygram,SULACO,6
+UNKNOWN,moneygram,EL MEDIO,1
+UNKNOWN,moneygram,LEPAERA,14
+UNKNOWN,moneygram,ORICA,4
+UNKNOWN,moneygram,GUAYAPE,1
+UNKNOWN,moneygram,PIRAERA,3
+UNKNOWN,moneygram,ATIMA,2
+UNKNOWN,moneygram,SAN FERNANDO,2
+UNKNOWN,moneygram,TEXIGUAT,1
+UNKNOWN,moneygram,GOASCORAN,3
+UNKNOWN,moneygram,CANDELARIA,5
+UNKNOWN,moneygram,SAN MARCOS DE CAIQUIN,1
+UNKNOWN,moneygram,LA JIGUA,3
+UNKNOWN,moneygram,UTILA,8
+UNKNOWN,moneygram,CONCORDIA,1
+UNKNOWN,moneygram,DOLORES,1
+UNKNOWN,moneygram,GUALCINSE,2
+UNKNOWN,moneygram,DISTITRO CENTRAL,2
+UNKNOWN,moneygram,CORQUIN,8
+UNKNOWN,moneygram,PROTECCION,4
+UNKNOWN,moneygram,ESQUIPULAS DEL NORTE,1
+UNKNOWN,moneygram,YAMARANGUILA,2
+UNKNOWN,moneygram,CONCEPCION,5
+UNKNOWN,moneygram,SAN MARCOS DE COLON,8
+UNKNOWN,moneygram,NUEVA FRONTERA,5
+UNKNOWN,moneygram,SAN VICENTE CENTENARIO,2
+UNKNOWN,moneygram,SAN JOSE DE COLINAS,2
+UNKNOWN,moneygram,ARADA,2
+UNKNOWN,moneygram,MEZAPA,1
+UNKNOWN,moneygram,AGUA BLANCA SUR,1
+UNKNOWN,moneygram,EL NISPERO,1
+UNKNOWN,moneygram,SOLEDAD,3
+UNKNOWN,moneygram,LA ENTRDA,1
+UNKNOWN,moneygram,ESPARTA,4
+UNKNOWN,moneygram,AMARATECA,1
+UNKNOWN,moneygram,ZACAPA,1
+UNKNOWN,moneygram,CHALMECA,3
+UNKNOWN,moneygram,PUNTA DE OCOTE,1
+UNKNOWN,moneygram,LA FLECHA,2
+UNKNOWN,moneygram,PIMIENTA,6
+UNKNOWN,moneygram,EL PINO,2
+UNKNOWN,moneygram,SALAMA,2
+UNKNOWN,moneygram,LANGUE,4
+UNKNOWN,moneygram,AJUTERIQUE,1
+UNKNOWN,moneygram,ARAMECINA,2
+UNKNOWN,moneygram,NAMASIGUE,6
+UNKNOWN,moneygram,ALIANZA,2
+UNKNOWN,moneygram,PETOA,5
+UNKNOWN,moneygram,SAN PEDRO DE ZACAPA,1
+UNKNOWN,moneygram,LAS FLORES,5
+UNKNOWN,moneygram,OJOJONA,2
+UNKNOWN,moneygram,SAN JUAN DE OPOA,1
+UNKNOWN,moneygram,MARALE,1
+UNKNOWN,moneygram,SABANAGRANDE,6
+UNKNOWN,moneygram,TAMBLA,2
+UNKNOWN,moneygram,DULCE NOMBRE,4
+UNKNOWN,moneygram,APACILAGUA,1
+UNKNOWN,moneygram,SAN FRANCISCO DE YOJOA,13
+UNKNOWN,moneygram,SAN ANTONIO DE FLORES,2
+UNKNOWN,moneygram,NUEVA ARCADIA,10
+UNKNOWN,moneygram,LAS ANIMAS,1
+UNKNOWN,moneygram,CURAREN,1
+UNKNOWN,moneygram,REITOCA,1
+UNKNOWN,moneygram,EL NARANJITO,1
+UNKNOWN,moneygram,ALUBAREN,1
+UNKNOWN,moneygram,SAN JUAN GUARITA,1
+UNKNOWN,moneygram,OROCUINA,4
+UNKNOWN,moneygram,CUYAMEL,2
+UNKNOWN,moneygram,SENSETI,1
+UNKNOWN,moneygram,CONCEPCION DEL SUR,1
+UNKNOWN,moneygram,EL CORPUS,2
+UNKNOWN,moneygram,LA ENCARNACION,2
+UNKNOWN,moneygram,LAS LAJAS,3
+UNKNOWN,moneygram,VALLE,3
+UNKNOWN,moneygram,MAGDALENA,3
+UNKNOWN,moneygram,CAMASCA,3
+UNKNOWN,moneygram,SANTA LUCIA,6
+UNKNOWN,moneygram,OJO DE AGUA,1
+UNKNOWN,moneygram,SANTOS GUARDIOLA,3
+UNKNOWN,moneygram,VILLA DE SANFRANCISCO,1
+UNKNOWN,moneygram,SANTA ANA DE YUSGUARE,1
+UNKNOWN,moneygram,GOASCARAN,1
+UNKNOWN,moneygram,SAN ANTONIO DE CORTES,5
+UNKNOWN,moneygram,ILAMA,2
+UNKNOWN,moneygram,CHINACLA,2
+UNKNOWN,moneygram,GUARITA,1
+UNKNOWN,moneygram,CANTARRANAS,4
+UNKNOWN,moneygram,TALGUA,3
+UNKNOWN,moneygram,CABANAS,4
+UNKNOWN,moneygram,CORPUS,1
+UNKNOWN,moneygram,LA IGUALA,3
+UNKNOWN,moneygram,SAN ISIDRO,1
+UNKNOWN,moneygram,SANTA MARIA,3
+UNKNOWN,moneygram,VIRGINIA,2
+UNKNOWN,moneygram,CEGUACA,1
+UNKNOWN,moneygram,SAN PEDERO SULA,1
+UNKNOWN,moneygram,SANTA MARIA DEL REAL,2
+UNKNOWN,moneygram,CIOPAN RUINAS,1
+UNKNOWN,moneygram,OPATORO,1
+UNKNOWN,moneygram,SAN ANTONIO DE ORIENTE,2
+UNKNOWN,moneygram,GUINOPE,1
+UNKNOWN,moneygram,SAN ANDRES,1
+UNKNOWN,moneygram,SAN AGUSTIN,1
+UNKNOWN,moneygram,SAN SEBASTIAN,3
+UNKNOWN,moneygram,SAN PEDRO SULA COFRADIA,1
+UNKNOWN,moneygram,SAN JOSE,2
+UNKNOWN,moneygram,VADO ANCHO,1
+UNKNOWN,moneygram,SAN PEDEO ZACAPA,1
+UNKNOWN,moneygram,LIURE,1
+UNKNOWN,moneygram,YUSGUARE,1
+UNKNOWN,moneygram,SATA ROSA,2
+UNKNOWN,moneygram,CARIDAD,1
+UNKNOWN,moneygram,CONCEPCION SUR,1
+UNKNOWN,moneygram,ZAMBRANO,2
+UNKNOWN,moneygram,PURINGLA,2
+UNKNOWN,moneygram,LAUTERIQUE,1
+UNKNOWN,moneygram,SANTIAGO DE PURINGLA,2
+UNKNOWN,moneygram,LA LABOR,2
+UNKNOWN,moneygram,AMAPALA,1
+UNKNOWN,moneygram,LEPATERIQUE,1
+UNKNOWN,moneygram,TRINIDAD DE COPAN,1
+UNKNOWN,moneygram,CONCEPCION DE MARIA,2
+UNKNOWN,moneygram,SAN PEDRO DE COPAN,1
+UNKNOWN,moneygram,CHAMELECON,1
+UNKNOWN,moneygram,MONJARAS,2
+UNKNOWN,moneygram,SAN JOSE DEL POTRERO,1
+UNKNOWN,moneygram,QUIRAGUIRA,1
+UNKNOWN,moneygram,ERANDIQUE,1
+UNKNOWN,moneygram,MATEO,1
+UNKNOWN,moneygram,ENCARNACION,1
+UNKNOWN,moneygram,VILLA SAN FRANCISCO,1
+UNKNOWN,moneygram,SINUAPA,1
+UNKNOWN,moneygram,ISLA DE ROATAN,2
+UNKNOWN,moneygram,TARA,1
+UNKNOWN,moneygram,ISLA DE UTILA,1
+UNKNOWN,moneygram,TEGUCIPALPA,1
+UNKNOWN,moneygram,SAN PEDRO ZULA,2
+UNKNOWN,moneygram,YARUMELA,1
+UNKNOWN,moneygram,SANTA RITA DE COPAN,1
+UNKNOWN,moneygram,SULA,1
+UNKNOWN,moneygram,COLINAS,1
+UNKNOWN,moneygram,SANTA TERESA,1
+UNKNOWN,moneygram,ZAMORANO,1
+UNKNOWN,moneygram,TERMINAL,1
+UNKNOWN,moneygram,CORINTO,1
+UNKNOWN,moneygram,LIMA,2
+UNKNOWN,moneygram,COLONIA PALMIRA,1
+UNKNOWN,moneygram,LIBERTAD,1
+UNKNOWN,national,Roatan,1
+UNKNOWN,national,San Pedro Sula,1
+UNKNOWN,national,Tegucigalpa,2
+UNKNOWN,national,Comayagua,1
+CORTÉS,shell,San Pedro Sula,6
+FRANCISCOMORAZÁN,shell,Distrito Central,7
+ATLÁNTIDA,shell,La Ceiba,1
+UNKNOWN,sixt,Comayagua,1
+UNKNOWN,sixt,Tegucigalpa,2
+UNKNOWN,sixt,Roatan,1
+UNKNOWN,sixt,La Ceiba,1
+UNKNOWN,sixt,La Lima,1
+UNKNOWN,timberland,San Pedro-Sula,1
+UNKNOWN,visa,BONITO ORIENTAL,1
+UNKNOWN,visa,CATACAMAS,2
+OLANCHO,visa,CATACAMAS,5
+UNKNOWN,visa,JUTICALPA,9
+FRANCISCOMORAZAN,visa,TEGUCIGALPA,18
+UNKNOWN,visa,TRUJILLO,2
+COLÓN,visa,TRUJILLO,1
+CORTÉS,visa,SAN PEDRO SULA,26
+UNKNOWN,visa,TOCOA,4
+TOCOA,visa,TOCOA,3
+COLÓN,visa,TOCOA,2
+UNKNOWN,visa,COPAN,3
+OLANCHO,visa,JUTICALPA,5
+CORTÉS,visa,VILLANUEVA,6
+COLÓN,visa,SONAGUERA,1
+TOCOA,visa,SONAGUERA,1
+UNKNOWN,visa,DANLI,20
+ISLASDELABAHIA,visa,ROATAN,5
+UNKNOWN,visa,ROATAN,15
+ISLASDELABAHÍA,visa,ROATAN,5
+ELPARAISO,visa,DANLI,5
+ELPARAÍSO,visa,DANLÍ,3
+YORO,visa,OLANCHITO,2
+FRANCISCOMORAZÁN,visa,TEGUCIGALPA,45
+UNKNOWN,visa,OLANCHITO,2
+UNKNOWN,visa,ARENAL,1
+UNKNOWN,visa,LA CEIBA,35
+ATLANTIDA,visa,LA CEIBA,9
+ATLÁNTIDA,visa,LA CEIBA,6
+COMAYAGUA,visa,COMAYAGUA,9
+UNKNOWN,visa,CEIBA,1
+UNKNOWN,visa,SAN PEDRO SULA,241
+FRANCISCOMORAZAN,visa,COMAYAGUELA,3
+FRANCISCOMORAZÁN,visa,GUAIMACA,1
+UNKNOWN,visa,UTILA,1
+FRANCISCOMORAZAN,visa,DISTRITO CENTRAL,25
+CHOLUTECA,visa,CHOLUTECA,11
+UNKNOWN,visa,EL ZAMORANO,1
+UNKNOWN,visa,VALLE DE ANGELES,2
+UNKNOWN,visa,CHOLUTECA,23
+FRANCISCOMORAZÁN,visa,TALANGA,2
+UNKNOWN,visa,TATUMBLA,1
+UNKNOWN,visa,TEGUCIGALPA,168
+YORO,visa,SANTA RITA,3
+UNKNOWN,visa,DISTRITO CENTRAL,166
+CORTÉS,visa,LA LIMA,3
+CORTÉS,visa,CHOLOMA,7
+FRANCISCOMORAZÁN,visa,COMAYAGÜELA,5
+UNKNOWN,visa,SANTA ANA,1
+ATLÁNTIDA,visa,SAN JUAN PUEBLO,1
+CHOLUTECA,visa,MARCOVIA,3
+CHOLUTECA,visa,PESPIRE,1
+UNKNOWN,visa,AMARATECA,1
+UNKNOWN,visa,COMAYAGUA,23
+UNKNOWN,visa,SAN LORENZO,2
+VALLE,visa,SAN LORENZO,2
+UNKNOWN,visa,NACAOME,3
+UNKNOWN,visa,TELA,11
+ATLÁNTIDA,visa,TELA,2
+CORTES,visa,SAN PEDRO SULA,43
+ATLANTIDA,visa,TELA,2
+VALLE,visa,NACAOME,2
+YORO,visa,MORAZAN,1
+YORO,visa,SAN PEDRO SULA,1
+CORTES,visa,VILLANUEVA,7
+UNKNOWN,visa,LA PAZ,1
+LAPAZ,visa,LA PAZ,1
+UNKNOWN,visa,EL PROGRESO,20
+YORO,visa,EL PROGRESO,10
+UNKNOWN,visa,SIGUATEPEQUE,9
+COMAYAGUA,visa,SIGUATEPEQUE,5
+UNKNOWN,visa,CORTES,13
+UNKNOWN,visa,CHOLOMA,70
+UNKNOWN,visa,SANTA CRUZ DE YOJOA,2
+CORTÉS,visa,SANTA CRUZ,2
+CORTES,visa,SANTA CRUZ DE YOJOA,1
+UNKNOWN,visa,LA LIMA,6
+CORTES,visa,LA LIMA,1
+UNKNOWN,visa,PUERTO CORTES,23
+CORTES,visa,PUERTO CORTES,3
+CORTES,visa,CHOLOMA,4
+CORTÉS,visa,PUERTO CORTES,5
+CHOLUTECA,visa,TEGUCIGALPA,1
+UNKNOWN,visa,VILLA NUEVA,5
+UNKNOWN,visa,VILLANUEVA,29
+UNKNOWN,visa,YOJOA,1
+CORTES,visa,PEÑA BLANCA,1
+LAPAZ,visa,MARCALA,2
+COPAN,visa,SANTA ROSA DE COPAN,1
+UNKNOWN,visa,MARCALA,1
+UNKNOWN,visa,OMOA,1
+SANTABÁRBARA,visa,SANTA BÁRBARA,3
+CORTÉS,visa,COFRADÍA,1
+INTIBUCÁ,visa,LEMPIRA,1
+INTIBUCA,visa,LA ESPERANZA,1
+INTIBUCÁ,visa,LA ESPERANZA,1
+SANTABARBARA,visa,SANTA BARBARA,2
+SANTABARBARA,visa,NACO,1
+UNKNOWN,visa,SANTA BARBARA,2
+SANTABARBARA,visa,QUIMISTAN,1
+SANTABARBARA,visa,LA FLECHA,2
+LEMPIRA,visa,GRACIAS,3
+COPAN,visa,LA ENTRADA,1
+COPÁN,visa,LA ENTRADA,1
+UNKNOWN,visa,NUEVA ARCADIA,1
+COPÁN,visa,SANTA ROSA DE COPAN,5
+COPAN,visa,SANTA ROSA,3
+COPÁN,visa,SAN PEDRO SULA,1
+UNKNOWN,visa,SANTA ROSA DE COPAN,2
+OCOTEPEQUE,visa,OCOTOPEQUE,1
+UNKNOWN,visa,SAN MARCOS,1
+OCOTEPEQUE,visa,SAN MARCOS,1
+COPAN,visa,RUINAS,1
+OCOTEPEQUE,visa,NUEVA OCOTEPEQUE,1
+COPÁN,visa,COPAN RUINAS,1
+YORO,western_union,Olanchito,63
+LEMPIRA,western_union,San Marcos De Caiquin,2
+FRANCISCOMORAZAN,western_union,Tegucigalpa,832
+ELPARAISO,western_union,Liure,2
+FRANCISCOMORAZAN,western_union,Las Urritias,2
+ATLANTIDA,western_union,Tela,78
+OLANCHO,western_union,Concordia,6
+YORO,western_union,Jocon,2
+CHOLUTECA,western_union,Namasigue,8
+LEMPIRA,western_union,Gracias,44
+CHOLUTECA,western_union,Choluteca,243
+CHOLUTECA,western_union,Santa Ana De Yusguare,4
+COMAYAGUA,western_union,Siguatepeque,94
+CHOLUTECA,western_union,Marcovia,27
+YORO,western_union,Victoria,11
+FRANCISCOMORAZAN,western_union,Comayaguela,59
+ISLASDELABAHIA,western_union,Guanaja,15
+COLON,western_union,Trujillo,59
+ISLASDELABAHIA,western_union,Roatan,55
+ISLASDELABAHIA,western_union,Utila,1
+VALLE,western_union,Nacaome,41
+FRANCISCOMORAZAN,western_union,Reitoca,4
+COMAYAGUA,western_union,Comayagua,189
+LAPAZ,western_union,La Paz,32
+INTIBUCA,western_union,Jesus De Otoro,24
+FRANCISCOMORAZAN,western_union,Alubaren,2
+VALLE,western_union,San Lorenzo,48
+ATLANTIDA,western_union,Jutiapa,30
+ELPARAISO,western_union,Danli,131
+FRANCISCOMORAZAN,western_union,Distrito Central,96
+VALLE,western_union,Goascoran,1
+FRANCISCOMORAZAN,western_union,Valle De Amarateca,2
+FRANCISCOMORAZAN,western_union,El Porvenir,12
+COLON,western_union,Balfate,8
+CHOLUTECA,western_union,Monjaras,5
+ATLANTIDA,western_union,El Porcenir,1
+FRANCISCOMORAZAN,western_union,Porvenir,2
+FRANCISCOMORAZAN,western_union,Cedros,11
+FRANCISCOMORAZAN,western_union,El Pedernal,2
+ATLANTIDA,western_union,La Ceiba,6
+CHOLUTECA,western_union,Pespire,11
+FRANCISCOMORAZAN,western_union,Ojojona,9
+CHOLUTECA,western_union,San Antonio De Flores,3
+FRANCISCOMORAZAN,western_union,Santa Ana,4
+CHOLUTECA,western_union,Orocuina,15
+YORO,western_union,Yoro,60
+FRANCISCOMORAZAN,western_union,Comyaguaela,2
+FRANCISCOMORAZAN,western_union,Curaren,2
+FCOMORAZAN,western_union,Distrito Central,2
+COLON,western_union,San Antonio,2
+FRANCISCOMORAZAN,western_union,Sabanagrande,10
+CHOLUTECA,western_union,Triunfo,8
+FRANCISCOMORAZAN,western_union,Sabana Grande,1
+VALLE,western_union,El Amatillo,1
+OLANCHO,western_union,Juticalpa,162
+FRANCISCOMORAZAN,western_union,San Ignacio,2
+CORTES,western_union,San Pedro Sula,710
+OLANCHO,western_union,Mangulile,1
+FRANCISCOMORAZAN,western_union,Francisco Morazan,2
+FRANCISCOMORAZAN,western_union,Talanga,27
+FRANCISCOMORAZAN,western_union,Orica,3
+FRANCISCOMORAZAZ,western_union,Tegucigalpa,2
+CORTES,western_union,Choluteca,2
+COLON,western_union,Sonaguera,32
+COLON,western_union,Sonaguera Colon,2
+FRANCISCOMORAZAN,western_union,Choluteca,2
+SONAGUERA,western_union,Colon,1
+OLANCHO,western_union,Gualaco,13
+FRANCISCOMORAZAN,western_union,Santa Lucia,2
+COLON,western_union,Tocoa,129
+COLON,western_union,Ilanga,2
+COLON,western_union,Saba,36
+CHOLUTECA,western_union,Santa Ana De Yuisguare,2
+FRANCISCOMORAZAN,western_union,Tatumbla,2
+FRANCISCOMORAZAN,western_union,Cantarranas,4
+FRANCISCOMORAZAN,western_union,Valle De Angeles,6
+COLON,western_union,Santa Rosa De Aguan,4
+OLANCHO,western_union,La Uni�n,1
+OLANCHO,western_union,La Union,5
+OLANCHO,western_union,Launion,2
+CHOLUTECA,western_union,El Triunfo,21
+ELPARAISO,western_union,Soledad,2
+COLON,western_union,Bonito Oriental,30
+COLON,western_union,Llanga,2
+OLANCHO,western_union,El Rosario,2
+FRANCISCOMORAZAN,western_union,San Antonio De Oriente,2
+FRANCISCOMORAZAN,western_union,Guaimaca,17
+CORTES,western_union,Choloma,155
+FRANCISCOMORAZAN,western_union,Villa De San Francisco,4
+FRANCISCOMORAZAN,western_union,Villa San Frnacisco,2
+ELPARAISO,western_union,Vado Ancho,2
+OLANCHO,western_union,Campamento,17
+ELPARAISO,western_union,Yuscaran,2
+ELPARAISO,western_union,Ojo De Agua,2
+OLANCHO,western_union,Salama,5
+ELPARAISO,western_union,Moroceli,5
+OLANCHO,western_union,Guata,2
+COLON,western_union,Limon,3
+COLON,western_union,Carbonal,2
+ELPARAISO,western_union,Teupasenti,4
+CHOLUTECA,western_union,San Marcos De Colon,12
+GRACIASADIOS,western_union,Juan Francisco Bulnes,2
+ELPARAISO,western_union,Potrerillos,2
+OLANCHO,western_union,Guarizama,1
+COLON,western_union,Sico Iriona,2
+ELPARAISO,western_union,Las Animas,2
+ELPARAISO,western_union,Jacaleapa,2
+OLANCHO,western_union,San Francisco De La Paz,5
+ELPARAISO,western_union,Elparaiso,2
+ELPARAISO,western_union,El Paraiso,23
+ELPARAISO,western_union,El Para�so,2
+ELPARAISO,western_union,Lasmanos,2
+OLANCHO,western_union,San Esteban,20
+COPAN,western_union,La Entrada,33
+OLANCHO,western_union,Juticalpa Olancho,2
+OLANCHO,western_union,Jutiquile,2
+ELPARAISO,western_union,Jamastran,2
+ELPARAISO,western_union,Jutiapa,2
+OLANCHO,western_union,San Francisco De Becerra,3
+OLANCHO,western_union,Santa Maria Del Real,6
+OLANCHO,western_union,Catacamas,90
+OLANCO,western_union,Catacamas,2
+OLANCHO,western_union,Culmi,6
+OLANCHO,western_union,Dulce Nombre De Culmi,11
+ELPARAISO,western_union,Trojes,23
+OLANCHO,western_union,Patuca,10
+ELPARAISO,western_union,Patuca,2
+OLANCHO,western_union,Poncaya,2
+GRACIASADIOS,western_union,Puerto Lempira,4
+OLANCHO,western_union,San Esteban Olancho,2
+CHOLUTECA,western_union,Corpus,2
+LAPAZ,western_union,San Antonio Del Norte,1
+LAPAZ,western_union,Aguanqueterique,2
+ELPORVENIR,western_union,Atlantida,2
+ATLANTIDA,western_union,El Porvenir,2
+COMAYAGUA,western_union,La Libertad,25
+LAPAZ,western_union,Sanjuan,2
+LEMPIRA,western_union,San Francisco,3
+COMAYAGUA,western_union,Esquias,8
+ATLANTIDA,western_union,La Masica,30
+SANFRANCISCO,western_union,Atlantida,1
+ATLANTIDA,western_union,San Francisco,4
+COMAYAGUA,western_union,Lamani,6
+COMAYAGUA,western_union,Lajamani,2
+COMAYAGUA,western_union,Villa De San Antonio,10
+YORO,western_union,Sulaco,9
+LAPAZ,western_union,Santa Ana,2
+COMAYAGUA,western_union,Villas De San Antonio,4
+LAPAZ,western_union,Cane,2
+YORO,western_union,Yorito,6
+COMAYAGUA,western_union,Taulabe,15
+LAPAZ,western_union,Opatoro,2
+COMAYAGUA,western_union,San Luis,7
+LAPAZ,western_union,La Florida,2
+LAPAZ,western_union,Yarumela,1
+ATLANTIDA,western_union,San Juan Pueblo,6
+ATLANTIDA,western_union,Esparta,5
+CORTES,western_union,Santa Cruz De Yojoa,67
+COMAYAGUA,western_union,Lejamani,8
+YORO,western_union,Morazan,30
+COMAYAGUA,western_union,Ajuterique,2
+LAPAZ,western_union,San Pedro De Tutule,6
+COMAYAGUA,western_union,San Jeronimo,3
+ATLANTIDA,western_union,Arizona,26
+YORO,western_union,El Negrito,29
+ARIZONA,western_union,Atlantida,1
+LAPAZ,western_union,Santa Maria,10
+COMAYAGUA,western_union,San Pedro De Tutule,2
+LAPAZ,western_union,San Pedro Tutule,1
+LAPAZ,western_union,Chinacla,4
+LAPAZ,western_union,Marcala,45
+COMAYAGUA,western_union,Elrosario,2
+COMAYAGUA,western_union,Las Lajas,13
+COMAYAGUA,western_union,El Rosario,3
+COMAYAGUA,western_union,Minas De Oro,4
+LAPAZ,western_union,San Jose,1
+INTIBUCA,western_union,Colomoncagua,2
+SANTABARBARA,western_union,Santa Barbara,62
+LAPAZ,western_union,Santiagu De Puringla,2
+LAPAZ,western_union,Santiago Puringla,2
+YORO,western_union,El Progreso,157
+INTIBUCA,western_union,Masaguara,2
+INTIBUCA,western_union,Magdalena,3
+INTIBUCA,western_union,Santa Lucia,3
+CORTES,western_union,Lima,6
+SANTABARBARA,western_union,Trinidad,14
+INTIBUCA,western_union,Camasca,5
+INTIBUCA,western_union,Concepcion,3
+CORTES,western_union,Villanueva,137
+INTIBUCA,western_union,La Esperanza,53
+LEMPIRA,western_union,La Virtud,5
+INTIBUCA,western_union,San Antonio,1
+INTIBUCA,western_union,Intibuca,12
+LEMPIRA,western_union,Piraera,1
+TELA,western_union,Atlantida,5
+ATLANTIDA,western_union,Mezapa,1
+LEMPIRA,western_union,Virginia,3
+YORO,western_union,Negrito,2
+LEMPIRA,western_union,Mapulaca,3
+SANTACRUZDEYOJOA,western_union,Cortes,2
+YORO,western_union,Progreso,29
+LEMPIRA,western_union,Candelaria,9
+LEMPIRA,western_union,Gualcinse,2
+CORTES,western_union,La Guama,2
+CORTES,western_union,San Francisco De Yojoa,25
+ELPROGRESO,western_union,Yoro,2
+YORO,western_union,Santa Rita,13
+SANTABARBARA,western_union,Azacualpa,41
+COPAN,western_union,Nueva Arcadia,29
+LEMPIRA,western_union,Valladolid,2
+CORTES,western_union,San Francisco Yojoa,2
+SANTABARBARA,western_union,Zacapa,2
+LEMPIRA,western_union,San Andres,2
+SANFRANCISCODEYOJOA,western_union,Cortes,2
+SANTABARBARA,western_union,Las Vegas,27
+CORTES,western_union,Santa Barbara,2
+COMAYAGUA,western_union,Pe�a Blanca,2
+CORTES,western_union,Pena Blanca,6
+SANTABARBARA,western_union,El Mochito,2
+CORTES,western_union,Puerto Cortes,76
+COLON,western_union,Cuyamel,2
+CORTES,western_union,San Manuel,11
+INTIBUCA,western_union,San Juan,13
+OCOTEPEQUE,western_union,San Marcos,33
+CORTES,western_union,La Lima,35
+CORTES,western_union,Potrerillos,14
+LALIMA,western_union,Cortes,2
+SANTABARBARA,western_union,Concepcion Del Sur,2
+CORTES,western_union,La Paz,2
+COPAN,western_union,Cucuyagua,22
+CORTES,western_union,Pimienta,10
+CORTES,western_union,San Antonio De Cortes,6
+SANANTONIODECORTES,western_union,Cortes,2
+CORTES,western_union,San Antonio,2
+SANTABARBARA,western_union,Ceguaca,2
+CORTES,western_union,Villa Nueva,5
+COPAN,western_union,Santa Rosa De Copan,83
+COPAN,western_union,La Union,7
+COPAN,western_union,Naco,2
+CORTES,western_union,Cortes,28
+CORTES,western_union,El Porvenir,2
+LEMPIRA,western_union,Lepaera,20
+CORTES,western_union,Puerto Cort�s,2
+CORTES,western_union,Bufalo,2
+CORTES,western_union,Omoa,26
+LEMPIRA,western_union,San Juan Guarita,2
+LEMPIRA,western_union,Tambla,4
+LEMPIRA,western_union,Guarita,2
+LEMPIRA,western_union,Tomala,4
+CORTES,western_union,Las Vegas,1
+SANTABARBARA,western_union,Santa B�rbara,1
+SANTABARBARA,western_union,Quimistan,50
+SANTABARBARA,western_union,San Nicolas,8
+ATLANTIDA,western_union,Ceiba,1
+SANTABARBARA,western_union,El Nispero,4
+SANTABARBARA,western_union,Arada,1
+LEMPIRA,western_union,La Iguala,4
+CORTES,western_union,Cofradia,15
+SANTABARBARA,western_union,San Vicente Centenario,2
+LEMPIRA,western_union,La Campa,3
+SANTABARBARA,western_union,Ilama,6
+LEMPIRA,western_union,San Rafael,6
+YORO,western_union,Omoa,1
+LEMPIRA,western_union,San Sebastian,5
+LEMPIRA,western_union,Cololaca,4
+GRACIASADIOS,western_union,Gracias,1
+LEMPIRA,western_union,Lempira,2
+SANPEDROSULA,western_union,Cortes,1
+SANTABARBARA,western_union,San Jose De Colinas,4
+SANTABARBARA,western_union,Colinas,1
+SANTABARBARA,western_union,Macuelizo,18
+SANTABARBARA,western_union,San Marcos,10
+OCOTEPEQUE,western_union,Belen Gualcho,8
+SANTABARBARA,western_union,Petoa,4
+CORTES,western_union,Cuyamel,3
+CORTES,western_union,Cuyamel  Omoa,2
+SANTABARBARA,western_union,Nueva Frontera,11
+LEMPIRA,western_union,Las Flores,4
+LEMPIRA,western_union,Lapaera,2
+LEMPIRA,western_union,Lepaera Lempira,2
+OCOTEPEQUE,western_union,San Marcos De Ocotepeque,4
+OCOTEPEQUE,western_union,Ocotepeque,26
+CHOLUTECA,western_union,Ocotepeque,2
+SANTABARBARA,western_union,Atima,5
+COLON,western_union,San Marcos,2
+OCOTEPEQUE,western_union,San Francisco Del Valle,2
+LEMPIRA,western_union,Talgua,2
+SANTABARBARA,western_union,San Luis,12
+COPAN,western_union,Florida,12
+OCOTEPEQUE,western_union,Senseti,2
+COPAN,western_union,Corquin,8
+COPAN,western_union,San Juan De Opoa,2
+OCOTEPEQUE,western_union,La Labor,7
+COPAN,western_union,San Pedro De Copan,2
+SANTABARBARA,western_union,Pinalejo,4
+COPAN,western_union,Santa Rosa,12
+COPAN,western_union,Copan Ruinas,12
+COPAN,western_union,Copan,2
+SANTABARBARA,western_union,La Flecha,10
+OCOTEPEQUE,western_union,Sinuapa,2
+COPAN,western_union,Santa Rita De Copan,1
+SANTABARBARA,western_union,Proteccion,6
+SANTABARBARA,western_union,Sula,2
+COPAN,western_union,Dulce Nombre,6
+COPAN,western_union,Dulce Nombre De Copan,1
+COPAN,western_union,Dulce Nombre Copan,2
+COPAN,western_union,Trinidad De Copan,2
+COPAN,western_union,San Nicolas,12
+OCOTEPEQUE,western_union,La Encarnacion,4
+COPAN,western_union,La Entrada Copan,4
+COPAN,western_union,La Entrada Cop�n,2
+OCOTEPEQUE,western_union,San Fernando,2
+OCOTEPEQUE,western_union,Florida,2
+COPAN,western_union,La Jigua,2
+COPAN,western_union,San Antonio,4
+COPAN,western_union,Cabanas,2
+COPAN,western_union,Santa Rita,13
+COPAN,western_union,Santa Rita Copan,1
+CORTES,western_union,Santa Rita,2
+COPAN,western_union,Ruinas De Copan,2
+COPAN,western_union,El Paraiso,2
+COPAN,western_union,Ruinas,3
+ISLASDELABAHIA,western_union,Coxen Hole,3
+ISLASDELABAHIA,western_union,Islas De La Bahia,2
+ISLASDELABAHIA,western_union,Jose Santos Guardiola,6
+COPAN,western_union,San Agustin,2

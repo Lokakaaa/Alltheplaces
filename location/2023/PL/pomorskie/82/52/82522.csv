@@ -1,0 +1,12 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4508,abc_pl,abc,,Kaniczki,pomorskie,,PL,,,,abc,Q11683985
+4731,abc_pl,abc,,Nebrowo Małe,pomorskie,,PL,,,,abc,Q11683985
+10382,abc_pl,abc,,Bronisławowo,pomorskie,,PL,,,,abc,Q11683985
+10384,abc_pl,abc,,Sadlinki,pomorskie,,PL,,,,abc,Q11683985
+3766,abc_pl,abc,,Sadlinki,pomorskie,,PL,,,,abc,Q11683985
+NEWI01M,paczkomat_inpost_pl,Sklep spożywczy i mała gastronomia,,Nebrowo Wielkie,pomorskie,,PL,,https://inpost.pl/paczkomat-nebrowo-wielkie-newi01m-nadwislanska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+POP-SDK1,paczkomat_inpost_pl,STACJA PALIW CLIMATRONIX,,Sadlinki,pomorskie,,PL,,https://inpost.pl/paczkomat-sadlinki-pop-sdk1-kwidzynska-paczkomaty-pomorskie,Mo-Su 06:00-23:00,Paczkomat,Q110970254
+SDN01M,paczkomat_inpost_pl,Przy stacji paliw Climatronix,,Sadlinki,pomorskie,,PL,,https://inpost.pl/paczkomat-sadlinki-sdn01m-kwidzynska-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+SDN02M,paczkomat_inpost_pl,Market Dino,,Sadlinki,pomorskie,,PL,,https://inpost.pl/paczkomat-sadlinki-sdn02m-sadlinki-paczkomaty-pomorskie,24/7,Paczkomat,Q110970254
+779327,poczta_polska_pl,FUP Kwidzyn 1,,Sadlinki,POMORSKIE,,PL,+48 55 275 75 55,,,Poczta Polska,Q168833
+,visa,,,SADLINKI,POMORSKIE,,PL,,,,,

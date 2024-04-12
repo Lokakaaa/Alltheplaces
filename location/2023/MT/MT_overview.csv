@@ -1,0 +1,266 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+UNKNOWN,alamo,Luqa,1
+TAXBIEX,audi,Ta' Xbiex,1
+LUQA,avis,Luqa,1
+GOZOPORT,avis,Gozo,1
+MSIDA,avis,Msida,1
+SAINTJULIANS,avis,Saint Julians,1
+UNKNOWN,bmw_group,Gzira,1
+UNKNOWN,church_of_england_gb,unknown,3
+UNKNOWN,crocs_eu,Tas-Sliema,1
+UNKNOWN,dan_john,Sliema,1
+UNKNOWN,dan_john,St. Julian’s,1
+GOZO,deloitte,Rabat,1
+UNKNOWN,deloitte,Ctrl. Business Dist.,2
+CUIABÁ,deloitte,unknown,1
+UNKNOWN,enterprise,Luqa,1
+UNKNOWN,ernst_young,Msida,1
+UNKNOWN,esprit,Sliema,1
+UNKNOWN,geox,LA VALLETTA,1
+UNKNOWN,geox,SLIEMA,1
+UNKNOWN,hardrock,Luqa,1
+UNKNOWN,hardrock,Valletta,1
+UNKNOWN,hilton,unknown,1
+03,hugo_boss,St. Julians,1
+UNKNOWN,lhw,Floriana,1
+UNKNOWN,lidl_it,Santa Venera,1
+UNKNOWN,lidl_it,San Gwann,1
+UNKNOWN,lidl_it,Ghaxaq (Zejtun),1
+UNKNOWN,lidl_it,Zurrieq (Safi),1
+UNKNOWN,lidl_it,Luqa (MT),1
+UNKNOWN,lidl_it,Victoria (Gozo),1
+UNKNOWN,lidl_it,Qormi,1
+UNKNOWN,lidl_it,Mosta,1
+UNKNOWN,lidl_it,Sliema (MT),1
+UNKNOWN,lidl_it,San Pawl il-Baħar (MT),1
+UNKNOWN,longchamp,SLIEMA,1
+UNKNOWN,longchamp,LUQA,1
+UNKNOWN,man_truck_and_bus,Mosta,1
+UNKNOWN,marriott,St Julian's,1
+UNKNOWN,marriott,St. Julian's,1
+UNKNOWN,mercedes_benz,Lija,2
+UNKNOWN,moneygram,ZABBAR,1
+UNKNOWN,moneygram,MSIDA,1
+UNKNOWN,moneygram,MARSA,1
+UNKNOWN,moneygram,HAMRUN,1
+UNKNOWN,moneygram,ST PAUL'S BAY,1
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,moneygram,BUGIBBA,1
+UNKNOWN,moneygram,VALLETTA,1
+UNKNOWN,moneygram,SAN GILJAN,1
+UNKNOWN,moneygram,RABAT,2
+UNKNOWN,moneygram,BIRKIRKARA,1
+UNKNOWN,moneygram,SLIEMA,1
+UNKNOWN,national,Luqa,1
+UNKNOWN,next,Valletta,1
+UNKNOWN,next,Sliema,2
+UNKNOWN,next,Mosta MST9017,1
+UNKNOWN,next,Victoria,1
+UNKNOWN,samsonite_eu,Valletta,1
+UNKNOWN,samsonite_eu,Luqa,1
+UNKNOWN,sixt,Luqa,1
+UNKNOWN,smart,Lija,2
+BIRZEBBUGA,starbucks_eu,Birzebbuga,1
+ILMELLIEHA,starbucks_eu,Mellieha   Bay,1
+ILMELLIEHA,starbucks_eu,Mellieha   Village,1
+SAINTPAULSBAY,starbucks_eu,Bugibba,2
+ILMOSTA,starbucks_eu,Mosta,1
+INNAXXAR,starbucks_eu,Naxxar,1
+VICTORIA,starbucks_eu,Victoria,1
+BIRKIRKARA,starbucks_eu,Mriehel,1
+SAINTJULIAN,starbucks_eu,St   Julians,1
+SAINTJOHN,starbucks_eu,MSD2080 L-Imsida,1
+TAXBIEX,starbucks_eu,Gzira,1
+TASSLIEMA,starbucks_eu,Sliema,2
+ILFURJANA,starbucks_eu,Valletta,1
+UNKNOWN,subway,Gzira/Sliema,1
+UNKNOWN,superdry,Valletta,1
+UNKNOWN,superdry,Sliema,1
+UNKNOWN,timberland,Sliema,1
+UNKNOWN,tommy_hilfiger,St. Julians,1
+UNKNOWN,tommy_hilfiger,Valetta,1
+UNKNOWN,tommy_hilfiger,Sliema,2
+UNKNOWN,united_colors_of_benetton,RABAT - GOZO,1
+UNKNOWN,united_colors_of_benetton,SLIEMA,1
+UNKNOWN,visa,HAL FAR,1
+UNKNOWN,visa,BLUE GROTTO,1
+UNKNOWN,visa,DINGLI,1
+MALTA,visa,ZURRIEQ,1
+UNKNOWN,visa,QRENDI,1
+UNKNOWN,visa,ZURRIEQ,1
+UNKNOWN,visa,SAFI,1
+UNKNOWN,visa,SIGGIEWI,2
+UNKNOWN,visa,MQABBA,1
+UNKNOWN,visa,BIRZEBBUGIA,1
+MALTA,visa,BIRZEBBUGA,1
+UNKNOWN,visa,KIRKOP,1
+MALTA,visa,SIGGIEWI,1
+MALTA,visa,KIRKOP,1
+UNKNOWN,visa,XLENDI,1
+UNKNOWN,visa,RABAT,7
+UNKNOWN,visa,GUDJA,1
+MALTA,visa,RABAT,1
+UNKNOWN,visa,LUQA,6
+UNKNOWN,visa,MDINA,3
+UNKNOWN,visa,ZEBBUG,2
+MALTA,visa,ZEBBUG,1
+MALTA,visa,GUDJA,2
+UNKNOWN,visa,MARSAXLOKK,2
+MALTA,visa,MARSAXLOKK,1
+UNKNOWN,visa,BIR ID-DEHEB,1
+UNKNOWN,visa,ZEJTUN,4
+UNKNOWN,visa,SANTA LUCIA,1
+MALTA,visa,ZEJTUN,1
+UNKNOWN,visa,BULEBEL,1
+UNKNOWN,visa,QORMI,8
+UNKNOWN,visa,ATTARD,7
+MALTA,visa,QORMI,2
+MALTA,visa,ATTARD,1
+UNKNOWN,visa,MARSA,5
+UNKNOWN,visa,MGARR,2
+UNKNOWN,visa,PAOLA,5
+MALTA,visa,MGARR,1
+UNKNOWN,visa,MARFA,1
+MALTA,visa,PAOLA,2
+UNKNOWN,visa,FGURA,4
+MALTA,visa,FGURA,1
+UNKNOWN,visa,GHAJN TUFFIEHA,2
+UNKNOWN,visa,SANTA VENERA,3
+UNKNOWN,visa,MOSTA,5
+UNKNOWN,visa,BUGIBBA,25
+MALTA,visa,BALZAN,1
+UNKNOWN,visa,BALZAN,1
+UNKNOWN,visa,HAMRUN,4
+MALTA,visa,HAMRUN,1
+UNKNOWN,visa,BIRKIRKARA,3
+UNKNOWN,visa,LIJA,1
+MALTA,visa,BIRKIRKARA,1
+MALTA,visa,MOSTA,2
+MALTA,visa,MARSASCALA,1
+UNKNOWN,visa,B'KARA,1
+UNKNOWN,visa,MSIDA,9
+UNKNOWN,visa,ZABBAR,4
+MALTA,visa,ZABBAR,1
+UNKNOWN,visa,MARSASCALA,2
+UNKNOWN,visa,COSPICUA,1
+UNKNOWN,visa,MARSASKALA,2
+MALTA,visa,BORMLA,1
+MALTA,visa,MSIDA,3
+MALTA,visa,SWATAR,1
+UNKNOWN,visa,NAXXAR,4
+UNKNOWN,visa,IKLIN,1
+UNKNOWN,visa,FLORIANA,4
+UNKNOWN,visa,SENGLEA,2
+MALTA,visa,NAXXAR,1
+UNKNOWN,visa,TAL-QROQQ,1
+UNKNOWN,visa,VITTORIOSA,1
+UNKNOWN,visa,BIRGU,2
+UNKNOWN,visa,TA XBIEX,8
+MALTA,visa,FLORIANA,1
+UNKNOWN,visa,SAN GWANN,8
+UNKNOWN,visa,VALLETTA,18
+MALTA,visa,SAN GWANN,1
+UNKNOWN,visa,QAWRA,32
+UNKNOWN,visa,BURMARRAD,1
+UNKNOWN,visa,KALKARA,1
+UNKNOWN,visa,GZIRA,15
+MALTA,visa,VALLETTA,3
+UNKNOWN,visa,VALETTA,1
+MALTA,visa,GZIRA,1
+UNKNOWN,visa,PACEVILLE,37
+UNKNOWN,visa,MARSAMXETT,2
+UNKNOWN,visa,GUARDAMANGIA,1
+UNKNOWN,visa,RAMLA,1
+UNKNOWN,visa,IBRAGG,1
+UNKNOWN,visa,KAPPARA,1
+UNKNOWN,visa,CIRKEWWA,1
+UNKNOWN,visa,GHARGHUR,1
+MALTA,visa,MELLIEHA,1
+UNKNOWN,visa,SAN GILJAN,4
+UNKNOWN,visa,SLIEMA,50
+UNKNOWN,visa,MELLIEHA,11
+UNKNOWN,visa,ST. JULIANS,17
+MALTA,visa,SLIEMA,2
+UNKNOWN,visa,TIGNE,1
+UNKNOWN,visa,MELLIEHA BAY,2
+UNKNOWN,visa,MRIEHEL,2
+UNKNOWN,visa,ST PAUL'S BAY,1
+UNKNOWN,visa,BALLUTA,1
+UNKNOWN,visa,SWIEQI,6
+UNKNOWN,visa,ST JULIANS,6
+UNKNOWN,visa,SALINA,1
+UNKNOWN,visa,ST PAULS BAY,3
+UNKNOWN,visa,G'MANGIA,1
+UNKNOWN,visa,ST. PAUL'S BAY,1
+MALTA,visa,SAN PAWL IL-BAHAR,2
+UNKNOWN,visa,IBRAG,1
+UNKNOWN,visa,ST JULIAN'S,1
+MALTA,visa,SWIEQI,1
+UNKNOWN,visa,ST. PAULS BAY,6
+MALTA,visa,SAN GILJAN,1
+MALTA,visa,PACEVILLE,1
+UNKNOWN,visa,BAHAR IC-CAGHAQ,1
+MALTA,visa,BUGIBBA,1
+UNKNOWN,visa,PEMBROKE,1
+MALTA,visa,MUNXAR,1
+UNKNOWN,visa,SANNAT,1
+UNKNOWN,visa,MUNXAR,1
+UNKNOWN,visa,SAINT LAWRENCE,1
+UNKNOWN,visa,XEMXIJA,2
+UNKNOWN,visa,XEWKIJA,2
+UNKNOWN,visa,GHAJNSIELEM,1
+UNKNOWN,visa,VICTORIA GOZO,3
+UNKNOWN,visa,VICTORIA,7
+UNKNOWN,visa,"VICTORIA, GOZO",2
+MALTA,visa,VICTORIA GOZO,1
+UNKNOWN,visa,GHADIRA,1
+MALTA,visa,NADUR,1
+UNKNOWN,visa,NADUR,1
+MALTA,visa,XAGHRA,1
+UNKNOWN,visa,XAGHRA,1
+UNKNOWN,visa,QALA,1
+UNKNOWN,visa,TA QALI,5
+UNKNOWN,visa,MARSALFORN,2
+SOUTHERNREGION,western_union,Birzebbugia,2
+SOUTHEASTERNREGION,western_union,Marsascala,1
+SOUTHEASTERNREGION,western_union,Zejtun,1
+SOUTHERNREGION,western_union,Zurrieq,2
+SOUTHEASTERNREGION,western_union,Marsaskala,1
+SOUTHEASTERNREGION,western_union,Zabbar,1
+SOUTHERNREGION,western_union,Gudja,1
+SOUTHEASTERNREGION,western_union,Il Fgura,1
+SOUTHEASTERNREGION,western_union,Fgura,1
+SOUTHERNREGION,western_union,Luqa,1
+SOUTHEASTERNREGION,western_union,Paola,1
+SOUTHEASTERNREGION,western_union,Fort Ricasoli,1
+SOUTHEASTERNREGION,western_union,Cospicua,1
+NORTHERNREGION,western_union,Mosta,3
+NORTHERNREGION,western_union,Bugibba,2
+NORTHERNREGION,western_union,Saint Paul S Bay,1
+NORTHERNREGION,western_union,Mellieha,1
+GOZOREGION,western_union,Ghajnsielem,1
+GOZOREGION,western_union,Nadur Gozo,1
+GOZOREGION,western_union,Victoria,2
+GOZOREGION,western_union,Gharb,1
+CENTRALREGION,western_union,Birkirkara,2
+CENTRALREGION,western_union,Tas Sliema,1
+CENTRALREGION,western_union,Sliema,2
+CENTRALREGION,western_union,San Gwann,3
+CENTRALREGION,western_union,Hal Balzan,1
+CENTRALREGION,western_union,St Julians,2
+CENTRALREGION,western_union,H Attard,1
+NORTHERNREGION,western_union,Swiegi,1
+NORTHERNREGION,western_union,Rabat,1
+NORTHERNREGION,western_union,Naxxar,1
+SOUTHERNREGION,western_union,Siggiewi,1
+SOUTHEASTERNREGION,western_union,Marsa,1
+SOUTHEASTERNREGION,western_union,Valletta,2
+SOUTHEASTERNREGION,western_union,Floriana,1
+SOUTHERNREGION,western_union,Hamrun,2
+SOUTHERNREGION,western_union,Qormi,1
+SOUTHEASTERNREGION,western_union,Vallete,1
+CENTRALREGION,western_union,Msida,2
+CENTRALREGION,western_union,L Imsida,1
+SOUTHERNREGION,western_union,Zebbug,1
+CENTRALREGION,western_union,Gzira,1

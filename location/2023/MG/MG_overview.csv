@@ -1,0 +1,331 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,3
+ANTANANARIVO,avis,Antananarivo,1
+MORARANOALAROBIA,avis,Antananarivo,1
+UNKNOWN,bmw_group,Antananarivo,1
+UNKNOWN,ford,Antananarivo,4
+UNKNOWN,geox,ANTANANARIVO,1
+ANALAMANGA,mercedes_benz,ANTANANARIVO,1
+UNKNOWN,mercedes_benz,ANTANANARIVO,2
+ATSINANANA,mercedes_benz,Toamasina,1
+UNKNOWN,mercedes_benz,Antsiranana,1
+UNKNOWN,moneygram,MAHAJANGA,6
+UNKNOWN,moneygram,ANTANANARIVO,60
+UNKNOWN,moneygram,TANAMBE,2
+UNKNOWN,moneygram,MAHITSY,3
+UNKNOWN,moneygram,VOHEMAR,2
+UNKNOWN,moneygram,AMBANJA,2
+UNKNOWN,moneygram,ANALAVORY,1
+UNKNOWN,moneygram,NOSY BE,3
+UNKNOWN,moneygram,MORONDAVA,3
+UNKNOWN,moneygram,FIANARANTSOA,4
+UNKNOWN,moneygram,AMBATONDRAZAKA,3
+UNKNOWN,moneygram,SABOTSY NAMEHANA,2
+UNKNOWN,moneygram,AMPITATAFIKA,1
+UNKNOWN,moneygram,FORT DAUPHIN,1
+UNKNOWN,moneygram,TULEAR,2
+UNKNOWN,moneygram,MANANJARY,2
+UNKNOWN,moneygram,FARAFANGANA,2
+UNKNOWN,moneygram,MANAKARA,3
+UNKNOWN,moneygram,AMBILOBE,2
+UNKNOWN,moneygram,AMPATOLAMPY,1
+UNKNOWN,moneygram,DIEGO,1
+UNKNOWN,moneygram,TAMATAVE,3
+UNKNOWN,moneygram,SAMBAVA,4
+UNKNOWN,moneygram,TOAMASINA,6
+UNKNOWN,moneygram,ANTSENAKELY,1
+UNKNOWN,moneygram,AMBONDROMAMY,1
+UNKNOWN,moneygram,MAROVOAY,2
+UNKNOWN,moneygram,ANDAPA,2
+UNKNOWN,moneygram,ANTSOHIHY,2
+UNKNOWN,moneygram,MANDRITSARA,1
+UNKNOWN,moneygram,PORT BERGE,2
+UNKNOWN,moneygram,ANTSIRANANA,4
+UNKNOWN,moneygram,AMBOHIDRATRIMO,2
+UNKNOWN,moneygram,MAEVATANANA,2
+UNKNOWN,moneygram,MIARINARIVO,1
+UNKNOWN,moneygram,IHOSY,2
+UNKNOWN,moneygram,VATOMANDRY,1
+UNKNOWN,moneygram,ANTSIRABE,7
+UNKNOWN,moneygram,MAINTIRANO,1
+UNKNOWN,moneygram,AMBATOLAMPY,2
+UNKNOWN,moneygram,TSIROANOMANDIDY,3
+UNKNOWN,moneygram,MAHANORO,2
+UNKNOWN,moneygram,MAMPIKONY,1
+UNKNOWN,moneygram,FENERIVE EST,1
+UNKNOWN,moneygram,BRICKAVILLE,1
+UNKNOWN,moneygram,MAROANTSETRA,2
+UNKNOWN,moneygram,SOANIERANA IVONGO,1
+UNKNOWN,moneygram,MANANARA,1
+UNKNOWN,moneygram,AMPARAFARAVOLA,1
+UNKNOWN,moneygram,AMBALAVAO,1
+UNKNOWN,moneygram,MORAMANGA,3
+UNKNOWN,moneygram,ANTALAHA,2
+UNKNOWN,moneygram,TOLAGNARO,1
+UNKNOWN,moneygram,VANGAINDRANO,1
+UNKNOWN,moneygram,TOLIARA,2
+UNKNOWN,moneygram,AMBOSITRA,3
+UNKNOWN,moneygram,HELL-VILLE,1
+UNKNOWN,moneygram,IMERINTSIATOSIKA,1
+MADAGASCAR,shell,Toamasina,6
+MADAGASCAR,shell,Antananarivo,28
+MADAGASCAR,shell,Ambatolampy,1
+MADAGASCAR,shell,Anosizato,1
+MADAGASCAR,shell,Talata Volonondry,1
+MADAGASCAR,shell,Antsirabe,4
+MADAGASCAR,shell,Ambatomirahavavy,1
+MADAGASCAR,shell,Ambohimahasoa,1
+MADAGASCAR,shell,Ambatondrazaka,1
+MADAGASCAR,shell,Fianarantsoa,3
+MADAGASCAR,shell,Analavory,1
+MADAGASCAR,shell,Manakara,2
+MADAGASCAR,shell,Amparafaravola,1
+MADAGASCAR,shell,Antanambe,1
+MADAGASCAR,shell,Fenerive Est,1
+MADAGASCAR,shell,Antalaha,1
+MADAGASCAR,shell,Sambava,1
+MADAGASCAR,shell,Maroantsetra,1
+MADAGASCAR,shell,Bealalana,1
+MADAGASCAR,shell,Befandriana,1
+MADAGASCAR,shell,Ambilobe,1
+MADAGASCAR,shell,Ambanja,1
+MADAGASCAR,shell,Antsohihy,1
+MADAGASCAR,shell,Antsiranana,2
+MADAGASCAR,shell,Ambondromamy,1
+MADAGASCAR,shell,Mahajanga,2
+MADAGASCAR,shell,Maevatanana,1
+MADAGASCAR,shell,Ankazomiriotra,1
+MADAGASCAR,shell,Tsiroanomandidy,1
+MADAGASCAR,shell,Morondava,1
+MADAGASCAR,shell,Toliara,1
+MADAGASCAR,shell,Toliary,1
+MADAGASCAR,shell,Fort Dauphin,1
+UNKNOWN,totalenergies,ANTSIRABE,3
+UNKNOWN,totalenergies,VOHEMAR,1
+UNKNOWN,totalenergies,Antananarivo,15
+UNKNOWN,totalenergies,TSIROANOMANDIDY,2
+UNKNOWN,totalenergies,Ambatolampy,1
+UNKNOWN,totalenergies,Tuléar,1
+UNKNOWN,totalenergies,Mananjary,1
+UNKNOWN,totalenergies,Antsirabe,3
+UNKNOWN,totalenergies,Antsohihy,1
+UNKNOWN,totalenergies,Mahajanga,2
+UNKNOWN,totalenergies,Ambilobe,1
+UNKNOWN,totalenergies,Ihosy,1
+UNKNOWN,totalenergies,Moramanga,1
+UNKNOWN,totalenergies,Sambava,1
+UNKNOWN,totalenergies,FIANARATSOA,1
+UNKNOWN,totalenergies,Alasora,1
+UNKNOWN,totalenergies,BEKILY,2
+UNKNOWN,totalenergies,Marovoay,1
+UNKNOWN,totalenergies,Mampikony,1
+UNKNOWN,totalenergies,Analavory,1
+UNKNOWN,totalenergies,Fenoarivo,1
+UNKNOWN,totalenergies,Maevatanana,1
+UNKNOWN,totalenergies,Nosy Be,1
+UNKNOWN,totalenergies,TOAMASINA,5
+UNKNOWN,totalenergies,Mahitsy,1
+UNKNOWN,totalenergies,ANTANANARIVO,17
+UNKNOWN,totalenergies,Soavinandriana,1
+UNKNOWN,totalenergies,Toamasina,3
+UNKNOWN,totalenergies,Manakara,1
+UNKNOWN,totalenergies,Farafagana,1
+UNKNOWN,totalenergies,Toliara,1
+UNKNOWN,totalenergies,Maroantsetra,1
+UNKNOWN,totalenergies,Vohemar,1
+UNKNOWN,totalenergies,Moranano Chrome,1
+UNKNOWN,totalenergies,Fianarantsoa,2
+UNKNOWN,totalenergies,Ambatondrazaka,1
+UNKNOWN,totalenergies,Imerintsiatosika,1
+UNKNOWN,totalenergies,Alakamisy Ambohidratrimo,1
+UNKNOWN,totalenergies,Ambalavao,1
+UNKNOWN,totalenergies,Ambositra,1
+UNKNOWN,totalenergies,Antisiranana,1
+UNKNOWN,totalenergies,Vatomandry,1
+UNKNOWN,totalenergies,Sainte Marie,1
+UNKNOWN,totalenergies,Tananarive,1
+UNKNOWN,totalenergies,ANTSIRANANA,1
+UNKNOWN,totalenergies,MANANJARY,1
+UNKNOWN,totalenergies,MANAKARA,1
+UNKNOWN,totalenergies,FARAFANGANA,1
+UNKNOWN,totalenergies,FIANARANTSOA,2
+UNKNOWN,totalenergies,AMBALAVAO,1
+UNKNOWN,totalenergies,AMBATOLAMPY,1
+UNKNOWN,totalenergies,AMBOSITRA,1
+UNKNOWN,totalenergies,MAHAJANGA,2
+UNKNOWN,totalenergies,ANTSOHIHY,1
+UNKNOWN,totalenergies,MAROVOAY,1
+UNKNOWN,totalenergies,MAMPIKONY,1
+UNKNOWN,totalenergies,MAROANTSETRA,1
+UNKNOWN,totalenergies,MORANANO CHROME,1
+UNKNOWN,totalenergies,AMBATONDRAZAKA,1
+UNKNOWN,totalenergies,SAINTE MARIE,1
+UNKNOWN,totalenergies,VATOMANDRY,1
+UNKNOWN,totalenergies,ANALAVORY,1
+UNKNOWN,totalenergies,FENOARIVO,1
+UNKNOWN,totalenergies,SOAVINANDRIANA,1
+UNKNOWN,totalenergies,IMERINTSIATOSIKA,1
+UNKNOWN,totalenergies,ANDOHARANOFOTSY,1
+UNKNOWN,totalenergies,MAHITSY,1
+UNKNOWN,totalenergies,AMBOHIDRATRIMO,1
+UNKNOWN,totalenergies,AMBILOBE,1
+UNKNOWN,totalenergies,MORAMANGA,1
+UNKNOWN,totalenergies,TOLIARY,2
+UNKNOWN,totalenergies,IHOSY,1
+UNKNOWN,totalenergies,MAEVATANANA,1
+UNKNOWN,totalenergies,SAMBAVA,1
+UNKNOWN,totalenergies,ALASORA,1
+UNKNOWN,totalenergies,NOSY BE,1
+UNKNOWN,visa,MAINTIRANO,1
+UNKNOWN,visa,ANTSIRABE,4
+UNKNOWN,visa,MORONDAVA,1
+UNKNOWN,visa,ANKORONDRANO,2
+UNKNOWN,visa,MAHAJANGA,4
+UNKNOWN,visa,TOLIARA,3
+UNKNOWN,visa,AMBATOBE,1
+UNKNOWN,visa,ANTANANARIVO ATSIMONDRANO,2
+UNKNOWN,visa,ANKADIMBAHOAKA,1
+UNKNOWN,visa,IHOSY,1
+UNKNOWN,visa,ANTANANARIVO,28
+UNKNOWN,visa,ANTSOHIHY,1
+UNKNOWN,visa,ANOSIZATO,1
+UNKNOWN,visa,NOSY BE,3
+UNKNOWN,visa,H AMBOHIBAO,1
+UNKNOWN,visa,TOAMASINA,5
+UNKNOWN,visa,ANTSIRANANA,2
+UNKNOWN,visa,AMBOSITRA,1
+UNKNOWN,visa,FIANARANTSOA,1
+UNKNOWN,visa,AMBATONDRAZAKA,1
+UNKNOWN,visa,MORAMANGA,1
+UNKNOWN,visa,ANDAPA,1
+UNKNOWN,visa,TANAMBE,1
+UNKNOWN,visa,FENERIVE EST,1
+UNKNOWN,visa,SAMBAVA,1
+UNKNOWN,visa,MANAKARA,1
+UNKNOWN,visa,MANANJARY,1
+UNKNOWN,visa,TOLAGNARA,1
+UNKNOWN,visa,FARAFANGANA,1
+UNKNOWN,visa,ALAROBIA,1
+UNKNOWN,visa,ANTALAHA,1
+UNKNOWN,visa,TOLIARA CENTRE,1
+TOLIARA,western_union,Toliary,3
+TOLIARA,western_union,Tulear,1
+TOLIARA,western_union,Sanfily,1
+TOLIARA,western_union,Amborovy,1
+MAHAJANGA,western_union,Maintirano,2
+TOLIARA,western_union,Morondava,3
+ANTANANARIVO,western_union,Morondava,1
+TOLIARA,western_union,Miandrivazo,2
+TOLIARA,western_union,Morombe,1
+MAHAJANGA,western_union,Mahajanga,1
+TOLIARA,western_union,Ambovombe Androy,1
+TOLIARA,western_union,Ambovombe,2
+FIANARANTSOA,western_union,Farafangana,3
+TOAMASINA,western_union,Farafangana,1
+ANTSIRANANA,western_union,Vangaindrano,1
+FIANARANTSOA,western_union,Vangaindrano,1
+FIANARANTSOA,western_union,Ranontsara Nord,1
+FIANARANTSOA,western_union,Vohipeno,2
+FIANARANTSOA,western_union,Manakara,3
+FIANARANTSOA,western_union,Manakara Sud,1
+FIANARANTSOA,western_union,Ambalavao,3
+TOAMASINA,western_union,Toamasina,11
+ANTSIRANANA,western_union,Toamasina,2
+TOAMASINA,western_union,Tamatave,2
+MAHAJANGA,western_union,Toamasina,2
+ANTSIRANANA,western_union,Befandriana Nord,1
+ANTANANARIVO,western_union,Toliary,1
+ANTSIRANANA,western_union,Antsiranana,5
+ANTSIRANANA,western_union,Diego Suarez,3
+ANTSIRANANA,western_union,Atsiranana,1
+ANTSIRANANA,western_union,Manonga,1
+ANTSIRANANA,western_union,Vohemar,2
+FIANARANTSOA,western_union,Ambilobe,1
+ANTSIRANANA,western_union,Ambilobe,3
+ANTSIRANANA,western_union,Nossi Be,1
+ANTANANARIVO,western_union,Ambalavao Tsiniparihy,1
+FIANARANTSOA,western_union,Ihosy,2
+FIANARANTSOA,western_union,Fianarantsoa,2
+FIANARANTSOA,western_union,Tsianolondroa,1
+TOLIARA,western_union,Fianarantsoa,1
+FIANARANTSOA,western_union,Fianarantsoa 1,1
+ANTSIRANANA,western_union,Ranomafana Centre,1
+FIANARANTSOA,western_union,Mananjary,2
+TOLIARA,western_union,Taolagnaro,1
+TOLIARA,western_union,Tolagnaro,1
+TOLIARA,western_union,Fort Dauphin,1
+TOLIARA,western_union,Bekily,1
+FIANARANTSOA,western_union,Ambositra,4
+TOLIARA,western_union,Miaretaheza,1
+ANTANANARIVO,western_union,Antsirabe,10
+TOLIARA,western_union,Atsimo,1
+TOLIARA,western_union,Sakaraha,1
+FIANARANTSOA,western_union,Fandriana,1
+TOLIARA,western_union,Tongobory,1
+ANTANANARIVO,western_union,Port Berge,1
+MAHAJANGA,western_union,Port Berge,2
+MAHAJANGA,western_union,Analalava,1
+MAHAJANGA,western_union,Fasika,1
+TOLIARA,western_union,Tsiroanomandidy,1
+ANTANANARIVO,western_union,Tsiroanomandidy,1
+ANTANANARIVO,western_union,Tsiroanomadidy,1
+MAHAJANGA,western_union,Marovoay,2
+MAHAJANGA,western_union,Marovoay Ii,1
+MAHAJANGA,western_union,Mampikony,3
+ANTANANARIVO,western_union,Antanifotsy,1
+MAHAJANGA,western_union,Maevatanana,2
+MAHAJANGA,western_union,Maevatanana Ii,1
+ANTANANARIVO,western_union,Faratsiho,1
+ANTANANARIVO,western_union,Soavinandriana Itasy,1
+TOAMASINA,western_union,Maroantsetra,2
+ANTSIRANANA,western_union,Sambava,5
+ANTANANARIVO,western_union,Nosy Be,1
+ANTSIRANANA,western_union,Nosy Be,2
+ANTSIRANANA,western_union,Dzamandzar,1
+MAHAJANGA,western_union,Antsiranana,1
+ANTSIRANANA,western_union,Ambanja,3
+ANTANANARIVO,western_union,Antananarivo,81
+FIANARANTSOA,western_union,Ambohimahasoa,1
+TOAMASINA,western_union,Antananarivo,2
+ANTANANARIVO,western_union,Talatamaty,2
+ANTANANARIVO,western_union,Ambatolampy,2
+TOAMASINA,western_union,Mandritsara,1
+MAHAJANGA,western_union,Mandritsara,3
+ANTANANARIVO,western_union,Ambomahimandroso,1
+TOLIARA,western_union,Miarinarivo,1
+ANTANANARIVO,western_union,Miarinarivo Itasy,1
+ANTANANARIVO,western_union,Miarinarivo,2
+TOAMASINA,western_union,Mampikony,1
+ANTANANARIVO,western_union,Ankazobe,1
+ANTANANARIVO,western_union,Imerintsiatosika,1
+TOAMASINA,western_union,Mahanoro,3
+ANTSIRANANA,western_union,Mahanoro,1
+ANTSIRANANA,western_union,Mananara Nord,1
+TOAMASINA,western_union,Mananara-nord,1
+ANTANANARIVO,western_union,Ambohidratrimo,2
+ANTANANARIVO,western_union,Madagascar,1
+TOAMASINA,western_union,Talatamaty,1
+ANTANANARIVO,western_union,Andoharanofotsy,2
+ANTANANARIVO,western_union,Antananarivo Atsimondrano,1
+TOAMASINA,western_union,Brickaville,2
+TOAMASINA,western_union,Amparafaravola,2
+TOAMASINA,western_union,Andranonahoatra,1
+MAHAJANGA,western_union,Andasibe,1
+ANTANANARIVO,western_union,Anjozorobe,1
+TOAMASINA,western_union,Soanierana Ivongo,1
+TOAMASINA,western_union,Moramanga,2
+TOAMASINA,western_union,Sainte-marie,1
+TOAMASINA,western_union,Sainte Marie,1
+TOAMASINA,western_union,Vatomandry,2
+MAHAJANGA,western_union,Vatomandry,1
+ANTANANARIVO,western_union,Manjakandriana,1
+MAHAJANGA,western_union,Antananarivo,2
+TOLIARA,western_union,Antananarivo,1
+MAHAJANGA,western_union,Mahavelona,1
+FIANARANTSOA,western_union,Ambatondraka,1
+TOAMASINA,western_union,Ambatondrazaka,3
+TOAMASINA,western_union,Fenerive Est,3
+ANTANANARIVO,western_union,Fenerive Est,1
+TOAMASINA,western_union,Tanambe,1
+ANTANANARIVO,western_union,Ambohimanarina,1
+ANTANANARIVO,western_union,Analamanga,1

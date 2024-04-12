@@ -1,0 +1,189 @@
+City,Place Name,Zipcode,Name
+Viareggio,botteg_aveneta,,unknown,Viareggio - Silvia Bini
+Florence,botteg_aveneta,,unknown,Florence - Piazza Strozzi
+Lucca,dan_john,,unknown,Dan John Lucca
+Firenze,dan_john,,unknown,Dan John Firenze
+Viareggio,dan_john,,unknown,Dan John Viareggio - Viale marconi 50
+Lido di Camaiore,dr_max,,unknown,"Farmacia Dr. Max Camaiore, Lungomare Europa 139"
+Camaiore,dr_max,,unknown,"Farmacia Dr. Max Camaiore Sarzanese, Via Sarzanese 99"
+Pietrasanta,dr_max,,unknown,"Farmacia Dr. Max Pietrasanta Martiri, Via Martiri di Sant'Anna 2"
+Pisa,dr_max,,unknown,"Farmacia Dr. Max Pisa Crispi, Via Francesco Crispi 33"
+Poggibonsi,dr_max,,unknown,"Farmacia Dr. Max Poggibonsi Commercio, Via del Commercio 1-1A-3-7"
+Capannori,dr_max,,unknown,"Farmacia Dr. Max Colle di Compito Tiglio, Via di Tiglio 510"
+Siena,dr_max,,unknown,"Farmacia Dr. Max Siena Cavour, Viale Cavour 254"
+Follonica,dr_max,,unknown,"Farmacia Dr. Max Follonica Bicocchi, Via Bicocchi 55/B"
+Livorno,dr_max,,unknown,"Farmacia Dr. Max Livorno Lepanto, Via Lepanto 50/52"
+PONTEDERA,ewiva_it,SGC Firenze - Pisa - Livorno km 54+200 dx dir. Pisa 56025 Pontedera PI,unknown,unknown
+CAMPI BISENZIO,ewiva_it,R4JX+6Q Campi Bisenzio Città Metropolitana di Firenze,unknown,unknown
+LIVORNO,ewiva_it,V.LE BOCCACCIO 21,unknown,unknown
+CAPALBIO,ewiva_it,Via Origlio 58011 Capalbio GR,unknown,unknown
+ROSELLE,ewiva_it,Q4WM+64 Grosseto Provincia di Grosseto,unknown,unknown
+SIENA,ewiva_it,Via Fausto Coppi 1 53100 Siena SI Italia,unknown,unknown
+BARBERINO DI MUGELLO,ewiva_it,Via del Lago 43 50031 Barberino di Mugello FI,unknown,unknown
+GROSSETO,ewiva_it,Via Scansanese - Grosseto,unknown,unknown
+SAN GIMIGNANO,ewiva_it,Piazza Ludovico Quaroni,unknown,unknown
+Calenzano,ewiva_it,Via Leonardo Da Vinci 4 50041 Calenzano FI,unknown,unknown
+Firenze,ewiva_it,MF84+2H Ciliegi Città Metropolitana di Firenze,unknown,unknown
+PISA,ewiva_it,Via delle Torri - Pisa,unknown,unknown
+Firenze (FI),hm,,unknown,centra gavinana
+Prato (PO),hm,,unknown,Parco Prato
+Livorno (LI),hm,,unknown,Parco Commerciale Levante
+Montecatini,hm,,unknown,Centro Commerciale Montecatini
+Pisa (PI),hm,,unknown,Centro dei Borghi
+Arezzo (AR),hm,,unknown,Centro Arezzo
+STIAVA-MASSAROSA (LU),mercedes_benz,,unknown,O.R.A.V. S.n.c. DI LARI GIUSEPPE E PUCCINELLI FRANCESCO
+ALTOPASCIO (LU),mercedes_benz,,unknown,ELETTRODIESEL MARCHESCHI S.n.c. DI E. MARCHESCHI & C.
+Firenze,mercedes_benz,,unknown,GMG S.p.A.
+Santa Croce sull'Arno (PI),mercedes_benz,,unknown,VALIANI GIULIANO & FIGLI S.n.c.
+Grosseto,mercedes_benz,,unknown,UGO SCOTTI S.r.l.
+Montelupo Fiorentino (FI),mercedes_benz,,unknown,TRUCK ITALIA S.p.A.
+Sinalunga,mercedes_benz,,unknown,TRUCK ITALIA S.p.A.
+Collesalvetti - Loc. Stagno (LI),mercedes_benz,,unknown,TRUCK ITALIA S.p.A.
+Campi Bisenzio (FI),mercedes_benz,,unknown,TRUCK ITALIA S.p.A.
+S. PIETRO A VICO,mercedes_benz,,unknown,GUIDI CAR S.r.l.
+S.CROCE SULL'ARNO (PI),mercedes_benz,,unknown,AUTOFFICINA F.LLI CARLI S.n.c.
+PRATO,mercedes_benz,,unknown,AUTOFFICINA SAN GIORGIO di Nerini Maurizio & C. S.n.c
+Piano di Mommio/Massarossa ,mercedes_benz,,unknown,GUIDI CAR S.r.l.
+Pisa,mercedes_benz,,unknown,UGO SCOTTI S.r.l.
+Barberino Val D'Elsa,mercedes_benz,,unknown,UGO SCOTTI S.r.l.
+Chiesina Uzzanese,mercedes_benz,,unknown,GUIDI CAR S.r.l.
+Barberino Val D'Elsa (FI),mercedes_benz,,unknown,UGO SCOTTI S.r.l.
+CHIANCIANO TERME,mercedes_benz,,unknown,CINALI S.r.l.
+Arezzo,mercedes_benz,,unknown,ROSSI S.r.l.
+Sansepolcro,mercedes_benz,,unknown,SILBACAR SERVICE S.r.l.
+Prato,mercedes_benz,,unknown,GMG S.p.A.
+MONTERIGGIONI,mercedes_benz,,unknown,BICCHI SERVICE S.r.l.
+Pistoia (PT),mercedes_benz,,unknown,SERVICE TOSKANA S.r.l.
+Sovigliana Vinci (FI),mercedes_benz,,unknown,GMG S.p.A.
+Massa,mercedes_benz,,unknown,GUIDI CAR S.r.l.
+Sinalunga (SI),mercedes_benz,,unknown,UGO SCOTTI S.r.l.
+Siena,mercedes_benz,,unknown,UGO SCOTTI S.r.l.
+Livorno,mercedes_benz,,unknown,GINO RAG. FELICE & FIGLIO - S.p.A.
+Firenze,ovs,,unknown,OVS Kids Firenze - V.le Europa
+Chiusi,ovs,,unknown,OVS Chiusi
+Barberino Val D'Elsa,ovs,,unknown,OVS Barberino Val d'Elsa
+Sansepolcro,ovs,,unknown,OVS Sansepolcro
+Campi Bisenzio,ovs,,unknown,OVS Campi Bisenzio
+Pistoia,ovs,,unknown,OVS Pistoia
+Massa,ovs,,unknown,OVS Massa
+Ponsacco,ovs,,unknown,OVS Ponsacco
+Fucecchio,ovs,,unknown,OVS Fucecchio
+Empoli,ovs,,unknown,OVS Empoli
+Figline Valdarno,ovs,,unknown,OVS Figline Valdarno
+Cascina,ovs,,unknown,OVS Pisa Navacchio - C.C. Centro dei Borghi
+Lucca,ovs,,unknown,OVS Lucca
+Viareggio,ovs,,unknown,OVS Viareggio
+Arezzo,ovs,,unknown,OVS Arezzo
+Siena,ovs,,unknown,OVS Siena
+Prato,ovs,,unknown,OVS Prato
+Sesto Fiorentino,ovs,,unknown,OVS Sesto Fiorentino
+Cecina,ovs,,unknown,OVS Cecina
+Livorno,ovs,,unknown,OVS Livorno - C.C. Levante
+Quarrata,ovs,,unknown,OVS Kids Quarrata
+Piombino,ovs,,unknown,OVS Piombino
+Montecatini Terme,ovs,,unknown,OVS Montecatini Terme
+Orbetello,ovs,,unknown,OVS Orbetello
+Sinalunga,ovs,,unknown,OVS Sinalunga
+Grosseto,ovs,,unknown,OVS Grosseto Carducci
+Pisa,ovs,,unknown,OVS Pisa
+Borgo San Lorenzo,ovs,,unknown,OVS Borgo San Lorenzo
+Castelfiorentino,ovs,,unknown,OVS Kids Castelfiorentino
+Pescia,ovs,,unknown,OVS Kids Pescia
+Pietrasanta,ovs,,unknown,OVS Kids Pietrasanta
+Pontassieve,ovs,,unknown,OVS Kids Pontassieve
+Montevarchi,ovs,,unknown,OVS Kids Montevarchi
+Capannori,ovs,,unknown,OVS Kids Capannori
+Bibbiena,ovs,,unknown,OVS Kids Bibbiena
+Follonica,ovs,,unknown,OVS Follonica
+Carrara,ovs,,unknown,OVS Carrara
+Aulla,ovs,,unknown,OVS Aulla
+Camucia Di Cortona,ovs,,unknown,OVS Camucia di Cortona
+Portoferraio,ovs,,unknown,OVS Portoferraio
+San Vincenzo,ovs,,unknown,OVS Kids San Vincenzo
+Seravezza,penny,,unknown,PENNY
+Piano di Coreglia,penny,,unknown,PENNY
+Livorno,penny,,unknown,PENNY
+Venturina,penny,,unknown,PENNY
+Piombino,penny,,unknown,PENNY
+Massarosa,penny,,unknown,PENNY
+Camucia di Cortona,penny,,unknown,PENNY
+Barberino Val D'Elsa,penny,,unknown,PENNY
+Grosseto,penny,,unknown,PENNY
+Vaiano,penny,,unknown,PENNY
+Aulla,penny,,unknown,PENNY
+Foiano della Chiana,penny,,unknown,PENNY
+Viareggio,penny,,unknown,PENNY
+Firenze,penny,,unknown,PENNY
+Vinci,penny,,unknown,PENNY
+Venturina Terme,penny,,unknown,PENNY
+Cecina,penny,,unknown,PENNY
+Cascina,penny,,unknown,PENNY
+Siena,penny,,unknown,PENNY
+Scandicci,penny,,unknown,PENNY
+Montale,penny,,unknown,PENNY
+Empoli,penny,,unknown,PENNY
+Calcinaia Fornacette,penny,,unknown,PENNY
+San Giuliano Terme,penny,,unknown,PENNY
+Quarrata,penny,,unknown,PENNY
+Vicopisano,penny,,unknown,PENNY
+Monsumanno Terme,penny,,unknown,PENNY
+Follonica,penny,,unknown,PENNY
+Castelfiorentino,penny,,unknown,PENNY
+Sinalunga,penny,,unknown,PENNY
+Capannori,penny,,unknown,PENNY
+Campi Bisenzio,penny,,unknown,PENNY
+Bagno a Ripoli,penny,,unknown,PENNY
+Poggio a Caiano,penny,,unknown,PENNY
+Arezzo,penny,,unknown,PENNY
+Monteriggioni,penny,,unknown,PENNY
+Pontassieve,penny,,unknown,PENNY
+Prato,penny,,unknown,PENNY
+S. Giovanni Valdarno,penny,,unknown,PENNY
+Massa,penny,,unknown,PENNY
+Signa,penny,,unknown,PENNY
+Loc. Montecaselli  Piombino,penny,,unknown,PENNY
+Borgo a Mozzano,penny,,unknown,PENNY
+Donoratico,penny,,unknown,PENNY
+Pistoia,penny,,unknown,PENNY
+Montemurlo,penny,,unknown,PENNY
+Castiglion Fiorentino,penny,,unknown,PENNY
+Ponsacco,penny,,unknown,PENNY
+Bibbiena,penny,,unknown,PENNY
+Altopascio,penny,,unknown,PENNY
+Montevarchi,penny,,unknown,PENNY
+Lucca,penny,,unknown,PENNY
+S. Sepolcro,penny,,unknown,PENNY
+Borgo San Lorenzo,penny,,unknown,PENNY
+Calenzano,penny,,unknown,PENNY
+Bastia Umbra,penny,,unknown,PENNY
+Pisa,penny,,unknown,PENNY
+SANTA MARIA A MONTE,sigma_it,,unknown,sigma-di-santa-maria-a-monte-di-bientina
+PRATO,sigma_it,,unknown,ok-sigma-di-prato-busento
+Pontremoli,sigma_it,,unknown,sigma-di-pontremoli-giuliani
+PISTOIA,sigma_it,,unknown,sigma-di-pistoia-vittorio-veneto
+PIEVE A NIEVOLE,sigma_it,,unknown,sigma-di-pieve-a-nievole-empolese
+Montopoli in Val d'Arno,sigma_it,,unknown,sigma-di-montopoli-in-val-darno-marti
+MONTEVARCHI,sigma_it,,unknown,sigma-di-montevarchi-piave
+MONTALE,sigma_it,,unknown,sigma-di-montale-piazza-giovanni-xxiii
+MARRADI,sigma_it,,unknown,sigma-di-marradi-dino-campana
+LIVORNO,sigma_it,,unknown,sigma-di-livorno-grotte-delle-fate
+CAPANNORI,sigma_it,,unknown,sigma-di-capannori-segromigno-in-monte
+CAMAIORE,sigma_it,,unknown,sigma-di-camaiore-roma
+MASSA,sigma_it,,unknown,73485
+Scandicci (FI),smart,,unknown,SERVICE TOSKANA S.r.l.
+Osmannoro/Sesto Fiorentino,smart,,unknown,CITY CAR S.R.L.
+Grosseto,tedi,,unknown,TEDi Commercio S.r.l.
+Sinalunga,tedi,,unknown,TEDi Commercio S.r.l.
+Firenze,tedi,,unknown,TEDi Commercio S.r.l.
+Sesto Fiorentino,tedi,,unknown,TEDi Commercio S.r.l.
+Lastra a Signa,tedi,,unknown,TEDi Commercio S.r.l.
+Calenzano,tedi,,unknown,TEDi Commercio S.r.l.
+Livorno,tedi,,unknown,TEDi Commercio S.r.l.
+AREZZO,timberland,,unknown,Timberland - Arezzo
+BARBERINO DEL MUGELLO,timberland,,unknown,Timberland OUTLET - Barberino
+Campi Bisenzio,timberland,,unknown,Timberland - Campi Bisenzio
+FIRENZE,timberland,,unknown,Timberland - Firenze
+Figline Incisa Valdarno,timberland,,unknown,Timberland - Incisa di Val d'Arno
+Livorno,timberland,,unknown,Timberland - Livorno
+LUCCA,timberland,,unknown,Timberland - Lucca
+Foiano edlla Chiana,timberland,,unknown,Timberland OUTLET - Valdichiana

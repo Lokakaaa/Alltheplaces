@@ -1,0 +1,42 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5655,abc_pl,abc,,Leopoldów,lubelskie,,PL,,,,abc,Q11683985
+11633,abc_pl,abc,,Ryki,lubelskie,,PL,,,,abc,Q11683985
+10798,abc_pl,abc,,Ryki,lubelskie,,PL,,,,abc,Q11683985
+6850,abc_pl,abc,,Ryki,lubelskie,,PL,,,,abc,Q11683985
+4524,abc_pl,abc,,Ryki,lubelskie,,PL,,,,abc,Q11683985
+10793,abc_pl,abc,,Moszczanka,lubelskie,,PL,,,,abc,Q11683985
+4381,abc_pl,abc,,Leopoldów,lubelskie,,PL,,,,abc,Q11683985
+10797,abc_pl,abc,,Leopoldów,lubelskie,,PL,,,,abc,Q11683985
+296,abc_pl,abc,,Ryki,lubelskie,,PL,,,,abc,Q11683985
+6186,abc_pl,abc,,Swaty,lubelskie,,PL,,,,abc,Q11683985
+6266,abc_pl,abc,,Ryki,lubelskie,,PL,,,,abc,Q11683985
+6342,abc_pl,abc,,Niwa Babicka,lubelskie,,PL,,,,abc,Q11683985
+14283,abc_pl,abc,,Nowa Dąbia,lubelskie,,PL,,,,abc,Q11683985
+14519,abc_pl,abc,,Moszczanka,lubelskie,,PL,,,,abc,Q11683985
+BVQ01M,paczkomat_inpost_pl,Przy OSP,,Bobrowniki,lubelskie,,PL,,https://inpost.pl/paczkomat-bobrowniki-bvq01m-deblinska-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+LPD01E,paczkomat_inpost_pl,Przy sklepie spożywczo - przemysłowym,,Leopoldów,lubelskie,,PL,,https://inpost.pl/paczkomat-leopoldow-lpd01e-zielona-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+MQA01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Moszczanka,lubelskie,,PL,,https://inpost.pl/paczkomat-moszczanka-mqa01m-moszczanka-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+POP-RYK1,paczkomat_inpost_pl,EPAKA,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-pop-ryk1-slowackiego-paczkomaty-lubelskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-RYK3,paczkomat_inpost_pl,INTERMARCHE,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-pop-ryk3-lubelska-paczkomaty-lubelskie,Mo-Sa 08:00-20:00,Paczkomat,Q110970254
+POP-RYK4,paczkomat_inpost_pl,PAKERSI,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-pop-ryk4-wyczolkowskiego-paczkomaty-lubelskie,Mo-Fr 08:00-17:00,Paczkomat,Q110970254
+RSQ01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Rososz,lubelskie,,PL,,https://inpost.pl/paczkomat-rososz-rsq01m-rososz-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+RYK01A,paczkomat_inpost_pl,Na parkingu przy Aptece,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-ryk01a-wyczolkowskiego-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+RYK01M,paczkomat_inpost_pl,Na stacji paliw ASCAR,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-ryk01m-slowackiego-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+RYK01N,paczkomat_inpost_pl,Przy Intermarche,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-ryk01n-lubelska-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+RYK02M,paczkomat_inpost_pl,Przy sklepie hydraulicznym,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-ryk02m-traugutta-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+RYK03M,paczkomat_inpost_pl,Przy sklepie,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-ryk03m-stary-rynek-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+RYK04M,paczkomat_inpost_pl,Przy myjni samochodowej,,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-ryk04m-swatowska-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+RYK175,paczkomat_inpost_pl,Przy stacji Axan (za budynkiem),,Ryki,lubelskie,,PL,,https://inpost.pl/paczkomat-ryki-ryk175-krolewska-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+XTB01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Stary Bazanów,lubelskie,,PL,,https://inpost.pl/paczkomat-stary-bazanow-xtb01m-stary-bazanow-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+XWY01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Swaty,lubelskie,,PL,,https://inpost.pl/paczkomat-swaty-xwy01m-swaty-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+619,play_pl,Salon Play,Ul. Poniatowskiego 67,Ryki,lubelskie,,PL,+48 790 031 207,,Mo-Fr 09:00-17:00; Sa 09:00-14:00,Play,Q7202998
+279210,poczta_polska_pl,AP Bobrowniki,,Bobrowniki,LUBELSKIE,,PL,+48 507 063 816,,,Poczta Polska,Q168833
+263584,poczta_polska_pl,UP Ryki,,Ryki,LUBELSKIE,,PL,+48 81 865 27 85;+48 81 865 26 31,,,Poczta Polska,Q168833
+,visa,,,SIERSKOWOLA,LUBELSKIE,,PL,,,,,
+,visa,,,RYKI,LUBELSKIE,,PL,,,,,
+,visa,,,RYKI,LUBELSKIE,,PL,,,,,
+,visa,,,RYKI,LUBELSKIE,,PL,,,,,
+,visa,,,RYKI,LUBELSKIE,,PL,,,,,
+,visa,,,RYKI,LUBELSKIE,,PL,,,,,
+27b3775587fee43ac4c00999025f8b42,western_union,SKOK WISLA,,Ryki,LUBELSKIE,,PL,+48 81 865 16 42,https://location.westernunion.com/pl/lubelskie/ryki/27b3775587fee43ac4c00999025f8b42,Mo-Fr 08:00-15:30,Western Union,Q861042
+02a72dcb1d302d9b0d47201350112d61,western_union,BANK PEKAO SA,,Ryki,LUBELSKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/lubelskie/ryki/02a72dcb1d302d9b0d47201350112d61,Mo-Fr 09:15-16:45,Western Union,Q861042

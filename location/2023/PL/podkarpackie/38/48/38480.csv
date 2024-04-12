@@ -1,0 +1,12 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+9876,abc_pl,abc,,Rymanów,podkarpackie,,PL,,,,abc,Q11683985
+2134,groszek_pl,Groszek,,Rymanów,podkarpackie,,PL,,,,Groszek,Q9280965
+2129,groszek_pl,Groszek,,Sieniawa,podkarpackie,,PL,,,,Groszek,Q9280965
+GEO01M,paczkomat_inpost_pl,przy OSP,,Głębokie,podkarpackie,,PL,,https://inpost.pl/paczkomat-glebokie-geo01m-glebokie-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+KIM01M,paczkomat_inpost_pl,Przy sklepie Delikatesy Centrum,,Klimkówka,podkarpackie,,PL,,https://inpost.pl/paczkomat-klimkowka-kim01m-zdrojowa-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+RYM01N,paczkomat_inpost_pl,Przy sklepie spożywczym Alta,,Rymanów,podkarpackie,,PL,,https://inpost.pl/paczkomat-rymanow-rym01n-bieleckiego-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+SEN01M,paczkomat_inpost_pl,Przy sklepie Groszek,,Sieniawa,podkarpackie,,PL,,https://inpost.pl/paczkomat-sieniawa-sen01m-dluga-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+286363,poczta_polska_pl,AP Klimkówka,,Klimkówka,PODKARPACKIE,,PL,+48 669 345 254,,,Poczta Polska,Q168833
+263591,poczta_polska_pl,UP Rymanów,,Rymanów,PODKARPACKIE,,PL,+48 13 435 67 58,,,Poczta Polska,Q168833
+,visa,,,RYMANOW,PODKARPACKIE,,PL,,,,,
+,visa,,,RYMANOW,PODKARPACKIE,,PL,,,,,

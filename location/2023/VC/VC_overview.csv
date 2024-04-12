@@ -1,0 +1,27 @@
+State,Place Name,City,Establishments
+ARRIVALHALL,avis,Saint Vincent,1
+SAINTGEORGE,fedex,Kingstown,1
+UNKNOWN,moneygram,KINGSTOWN,13
+UNKNOWN,moneygram,BARROUALLIE,2
+UNKNOWN,moneygram,MESOPOTAMIA,1
+UNKNOWN,moneygram,UNION ISLAND,1
+UNKNOWN,moneygram,GEORGETOWN,4
+UNKNOWN,moneygram,KINGSTON,6
+UNKNOWN,moneygram,PORT ELIZABETH,1
+UNKNOWN,moneygram,LAYOU,1
+UNKNOWN,moneygram,CHATEAUBELAIR,1
+UNKNOWN,moneygram,BEQUIA,2
+UNKNOWN,moneygram,CANOUAN ISLAND,1
+STVINCENTANDTHEGRENADINES,visa,KINGSTOWN,15
+STVINCENTANDTHEGRENADINES,visa,BEQUIA,1
+KINGSTOWN,visa,KINGSTOWN,1
+STVINCENTANDTHEGRENADINES,western_union,Vc,3
+SAINTPATRICK,western_union,Barrouallie,1
+UNKNOWN,western_union,Kingstown,1
+SAINTGEORGE,western_union,Kingston,1
+SAINTGEORGE,western_union,Kingstown,1
+CHARLOTTE,western_union,Georgetown,1
+SAINTGEORGE,western_union,Mesoopotamia,1
+UNKNOWN,western_union,Kingston,1
+CANOUAN,western_union,Canouan,1
+UNKNOWN,western_union,Arnos Vale,1

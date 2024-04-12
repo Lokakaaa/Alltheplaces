@@ -1,0 +1,10 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1e04b774bb2a3e7231a46e44abfd6c4995aa92b1,bern_ch,,,Bern,,,CH,,,,,
+2316babac22a48310e7a84cb64a3ac92a90672aa,bern_ch,Inbus 5,,Bern,,,CH,+41 75 417 05 0,https://inbus5.ch/,,,
+38db409e790aa895c1cf09512f35db55edf79794,bern_ch,,,Bern,,,CH,,,,,
+b2a6aef9214666e0cddce1e3fb3fc3042a2fec23,bern_ch,,,Bern,,,CH,,,,,
+ec1559fca1f76bbee4130603ee0f0d0fe5acc856,bern_ch,,,Bern,,,CH,,,,,
+publibike:1adc14c3-1ab2-4432-8ac4-15339380901b,gbfs,Rossfeld,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:cdf3ddaa-dfee-4606-b131-22fe9d642de2,gbfs,Spital Tiefenau,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:df44c01c-e946-473a-8d3a-ac55bf1782b8,gbfs,Tiefenau Bahnhof,,,,,CH,,https://www.publibike.ch,,PubliBike,
+sharedmobility.ch:sponticar:1358,gbfs,Bern,,,,,CH,,https://www.sharedmobility.ch/info,,sharedmobility.ch,

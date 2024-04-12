@@ -1,0 +1,701 @@
+City,Place Name,Zipcode,Name
+Ufa,audi,Rubezhnaya 180 450018 Ufa,unknown,Audi Center Ufa
+Нефтекамск,coffee_like,ул. Ленина 48а,unknown,Coffee Like
+Нефтекамск,coffee_like,ул. Ленина 82а,unknown,Coffee Like
+Нефтекамск,coffee_like,пр-т Юбилейный 18,unknown,Coffee Like
+Нефтекамск,coffee_like,ул. Дорожная 56,unknown,Coffee Like
+Нефтекамск,coffee_like,ул. Парковая 14 (nkm11),unknown,Coffee Like
+Октябрьский,coffee_like,просп. Ленина 59/1,unknown,Coffee Like
+Салават,coffee_like,ул. Ленина 42,unknown,Coffee Like
+Салават,coffee_like,ул. Губкина 22 б,unknown,Coffee Like
+Стерлитамак,coffee_like,просп. Октября 36,unknown,Coffee Like
+Стерлитамак,coffee_like,ул. Худайбердина 65,unknown,Coffee Like
+Стерлитамак,coffee_like,ул. Худайбердина 120,unknown,Coffee Like
+Уфа,coffee_like,ул. Жукова 29,unknown,Coffee Like
+Уфа,coffee_like,ул. Пушкина 81 (ufa62),unknown,Coffee Like
+Уфа,coffee_like,ул. Ленина 5/5 (ufa63),unknown,Coffee Like
+Уфа,coffee_like,ул. Губайдуллина 6,unknown,Coffee Like
+Уфа,coffee_like,площ. Верхнеторговая 1,unknown,Coffee Like
+Уфа,coffee_like,просп. Октября 34,unknown,Coffee Like
+Уфа,coffee_like,площ. Верхнеторговая 6,unknown,Coffee Like
+Уфа,coffee_like,ул. Менделеева 134/7,unknown,Coffee Like
+Уфа,coffee_like,просп. Октября 4/1,unknown,Coffee Like
+Уфа,coffee_like,ул. Космонавтов 6,unknown,Coffee Like
+Уфа,coffee_like,ул. Ферина 29,unknown,Coffee Like
+Уфа,coffee_like,ул. Энтузиастов 20,unknown,Coffee Like
+Уфа,coffee_like,просп. Октября 21В,unknown,Coffee Like
+Уфа,coffee_like,ул. Мустая Карима 4,unknown,Coffee Like
+Уфа,coffee_like,ул. Правды 17,unknown,Coffee Like
+Уфа,coffee_like,ул. Первомайская 14,unknown,Coffee Like
+Уфа,coffee_like,ул. Революционная 26/2,unknown,Coffee Like
+Уфа,coffee_like,ул. Мубарякова 10/1,unknown,Coffee Like
+Уфа,coffee_like,ул. Пушкина 96/2,unknown,Coffee Like
+Уфа,coffee_like,ул. Лесотехникума 21,unknown,Coffee Like
+Уфа,coffee_like,ул. Ленина 104,unknown,Coffee Like
+Уфа,coffee_like,ул. 50 лет Октября 3В,unknown,Coffee Like
+Уфа,coffee_like,ул. Рощинская 15/3,unknown,Coffee Like
+Уфа,coffee_like,ул. Академика Сулейманова 9,unknown,Coffee Like
+Уфа,coffee_like,ул. Рубежная 174,unknown,Coffee Like
+Уфа,coffee_like,ул. Революционная 43,unknown,Coffee Like
+Уфа,coffee_like,ул. Ленина 75,unknown,Coffee Like
+Уфа,coffee_like,ул. Бакалинская 27к2,unknown,Coffee Like
+Уфа,coffee_like,ул. Ленина 13а,unknown,Coffee Like
+Уфа,coffee_like,просп. Октября 53/1,unknown,Coffee Like
+Уфа,coffee_like,ул. 50 лет Октября 20,unknown,Coffee Like
+Iglinskiy area,lukoil,Russia Republic of Bashkortostan Iglinskiy area Kaltymanovskiy,unknown,AZS No 02138
+Kushnarenkovskiy munitsipalnyy r-n,lukoil,Russia 452251 Republic of Bashkortostan Kushnarenkovskiy munitsipalnyy r-n Sharipovo terr. AZS No 02150,unknown,AZS No02150
+"Kushnarenkovskiy munitsipalnyy r-n, s.p.Sharipovskiy selsovet",lukoil,Russia 452251 Republic of Bashkortostan Kushnarenkovskiy munitsipalnyy r-n s.p.Sharipovskiy selsovet Sharipovo terr. AZS № 02149,unknown,AZS No02149
+Ufa,lukoil,Russia 450078 Republic of Bashkortostan Ufa st. Salavata Yulayeva prospect near 32,unknown,AZS №02098
+Ufa,lukoil,Russia 450900 Republic of Bashkortostan Ufa Nagayevskoye road 31,unknown,AZS № 02097
+unknown,lukoil,Russia 450591 Republic of Bashkortostan Chesnokovka st. Aeroportovskaya 1,unknown,AZS No02136
+Ufa,lukoil,Russia 450017 Republic of Bashkortostan Ufa st. Druzhby narodov pr-ct 17,unknown,AZS №02137
+Ufa,lukoil,Russia 452000 Republic of Bashkortostan Ufa st. Komsomolskaya 110,unknown,AZS No02132
+Ufa,lukoil,Russia 450017 Republic of Bashkortostan Ufa Akhmetova 330,unknown,AZS № 02133
+Ufa,lukoil,Russia 450018 Republic of Bashkortostan Ufa st. Orekhovaya 2/B,unknown,AZS № 02134
+Ufa,lukoil,Russia 452000 Republic of Bashkortostan Ufa st. Shafiyeva 13,unknown,AZS № 02129
+Ufa,lukoil,Russia 450073 Republic of Bashkortostan Ufa Marshala Zhukova 27,unknown,AZS No02130
+Ufa,lukoil,Russia 450106 Republic of Bashkortostan Ufa st. Bakalinskaya 2,unknown,AZS №02131
+Ufa,lukoil,Russia 452000 Republic of Bashkortostan Ufa road Industrialʹnoe 114/1,unknown,AZS No 02128
+unknown,lukoil,Russia 453137 Republic of Bashkortostan Roshchinskiy 111km road Ufa-Orenburg,unknown,AZS No02095
+Ufa,lukoil,Russia 450069 Republic of Bashkortostan Ufa Gvardyeiskaya 39/5,unknown,AZS № 02096
+Ufa,lukoil,Russia 452000 Republic of Bashkortostan Ufa st. Industrialnoye road 116/4,unknown,AZS No02127
+Salavat,lukoil,Russia 453252 Republic of Bashkortostan Salavat st. Pervomayskaya 70,unknown,AZS No02094
+unknown,lukoil,Russia 452418 Republic of Bashkortostan Akberdino st. Akvalangistov 8B,unknown,AZS № 02092
+Sterlitamak,lukoil,"Russia 453130 Republic of Bashkortostan Sterlitamak Sterlibashevskiy
+ 30",unknown,AZS No83-U (02083)
+Uchaly,lukoil,Russia 453700 Republic of Bashkortostan Uchaly Kunakbaevskaya 16,unknown,AZS № 02084
+Neftekamsk,lukoil,Russia 452680 Republic of Bashkortostan Neftekamsk st. Avtozavodskaya 26,unknown,AZS № 02082
+Salavat,lukoil,Russia 453252 Republic of Bashkortostan Salavat st. Chapaeva 42а,unknown,AZS № 02069
+Sterlitamak,lukoil,Russia 453102 Republic of Bashkortostan  Sterlitamak trakt Ufimskii 8,unknown,AZS № 02057
+Sterlitamak,lukoil,Russia 453130 Republic of Bashkortostan Sterlitamak st. 23 Maya 155а,unknown,AZS № 02058
+unknown,lukoil,Russia 452830 Republic of Bashkortostan  Verхnie Tatyshly st. Tsentralʹnaya 51,unknown,AZS № 02051
+unknown,lukoil,Russia 452410 Republic of Bashkortostan Iglino st. Gorʹkogo 16/4,unknown,AZS № 02199
+Sterlitamak,lukoil,Russia 453120 Republic of Bashkortostan Sterlitamak st. Saltykova-Shchedrina 2v,unknown,AZS № 02050
+Neftekamsk,lukoil,Russia 452687 Republic of Bashkortostan Neftekamsk st. K.Marksa 13,unknown,AZS № 02027
+Ufa,lukoil,Russia 450045 Republic of Bashkortostan Ufa st. Zelenaya Roshcha 25,unknown,AZS № 02025
+Belebyei,lukoil,Russia 452000 Republic of Bashkortostan  Belebyei sh. Neftyanikov 5,unknown,AZS № 02024
+Tuimazy,lukoil,Russia 452756 Republic of Bashkortostan Tuimazy st. Gafurova 41,unknown,AZS № 02023
+unknown,lukoil,Russia 452230 Republic of Bashkortostan Kushnarenkovo st. Bolʹshevistskaya 61,unknown,AZS № 02022
+unknown,lukoil,"Russia 452419 Republic of Bashkortostan Chulpan
+ 41 km road Kropachevo-Mesyagutovo
+",unknown,AZS № 02021
+Neftekamsk,lukoil,Russia 452000 Republic of Bashkortostan Neftekamsk st. Energetikov 2,unknown,AZS № 02020
+unknown,lukoil,Russia 453880 Republic of Bashkortostan  Zirgan st. Revolyutsionerov 147,unknown,AZS № 02019
+Tuimazy,lukoil,Russia 452755 Republic of Bashkortostan  Tuimazy st. Yulaeva 2,unknown,AZS № 02018
+Dyurtyuli,lukoil,Russia 452320 Republic of Bashkortostan  Dyurtyuli st. Sadovaya 4,unknown,AZS № 02017
+Melyeuz,lukoil,Russia 453850 Republic of Bashkortostan Melyeuz st. Beregovaya 28,unknown,AZS № 02016
+Ufa,lukoil,Russia 452000 Republic of Bashkortostan Ufa st. Donskogo d.7,unknown,AZS № 02013
+Ufa,lukoil,Russia 450001 Republic of Bashkortostan Ufa st. Oktyabrya prospect  11,unknown,AZS № 02012
+unknown,lukoil,Russia 452772 Republic of Bashkortostan Tyumenyak st. Klubnaya 2/1,unknown,AZS № 02010
+unknown,lukoil,Russia 452750 Republic of Bashkortostan 1316 km road M5,unknown,AZS № 02008
+unknown,lukoil,Russia 452260 Republic of Bashkortostan  Verхnyeyarkyeevo st. Bakalinskaya 6,unknown,AZS № 02007
+Oktyabrʹskii,lukoil,Russia 452616 Republic of Bashkortostan Oktyabrʹskii area 29 3 A,unknown,AZS № 02006
+Ufa,lukoil,Russia 450074 Republic of Bashkortostan Ufa st. Perovskoy 40/2,unknown,AZS № 02005
+unknown,lukoil,Russia 000000 Republic of Bashkortostan Ufimskij r-n AZS №4 territoriya 1,unknown,AZS № 02004
+unknown,lukoil,Russia 450580 Republic of Bashkortostan  Ufimskiy r-n Pridorozhnyy mkr ul. Anatoliya Lokotchenko zd.4,unknown,AZS No 02003
+Sterlitamak,lukoil,Russia 453103 Republic of Bashkortostan Sterlitamak st. Tekhnicheskaya 7,unknown,AZS № 02074
+unknown,lukoil,"Russia 452419 Republic of Bashkortostan Alatorka road M5 1499 km ""Ural""",unknown,AZS № 02073
+unknown,lukoil,Russia 453442 Republic of Bashkortostan area Blagoveshchenskiy road Ufa-Birsk near Udelno-Duvaney 1,unknown,AZS № 02042
+unknown,lukoil,Russia 453051 Republic of Bashkortostan Krasnousolʹskii 3km road Krasnousolskiy-Tabynskiy,unknown,AZS № 02041
+unknown,lukoil,Russia 452750 Republic of Bashkortostan 1350 km road M5,unknown,AZS № 02035
+Ufa,lukoil,Russia 450095 Republic of Bashkortostan Ufa st. Tsentralnaya 1/11,unknown,AZS № 02033
+unknown,lukoil,Russia 452650 Republic of Bashkortostan Bakaly st. Mostovaya 12,unknown,AZS № 02032
+unknown,lukoil,Russia 452000 Republic of Bashkortostan Mayskiy selsovet  road Samara-Ufa-Chelyabinsk 1548 km 1,unknown,AZS № 02031
+Sterlitamak,lukoil,Russia 453104 Republic of Bashkortostan Sterlitamak Profsoyuznaya 26,unknown,AZS № 02030
+unknown,lukoil,"Russia 423940 The Republic of Tatarstan Kzyl-Yar 1280 km. road M-5 ""Ural""",unknown,AZS No12-U (16012)
+unknown,wildberries,Республика Башкортостан Уфа проспект Октября 114,unknown,Wildberries
+unknown,wildberries,г. Стерлитамак (Республика Башкортостан) Коммунистическая улица д. 15,unknown,Wildberries
+unknown,wildberries,г. Салават (Республика Башкортостан) ул. Первомайская д. 5,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) ул. Степана Кувыкина д. 31,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Первомайская улица 66,unknown,Wildberries
+unknown,wildberries,г. Нефтекамск (Республика Башкортостан) Комсомольский проспект д. 68,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Коммунистическая улица 22,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Октябрьский улица Лермонтова 4,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа проспект Октября 176,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) проспект Октября д. 24,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Кирова 93,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица Ульяновых д. 24,unknown,Wildberries
+unknown,wildberries,г. Салават (Республика Башкортостан) улица Островского д. 57А,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица Мира д. 8,unknown,Wildberries
+unknown,wildberries,г. Кумертау (Республика Башкортостан) улица Энергетиков д. 5Б,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица 8 Марта 32/1,unknown,Wildberries
+unknown,wildberries,г. Стерлитамак (Республика Башкортостан) улица Гоголя д. 3,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа бульвар Тухвата Янаби 4,unknown,Wildberries
+unknown,wildberries,г. Белорецк (Республика Башкортостан) улица В. Косоротова д. 8,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица Правды д. 29,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Айская улица 22,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа проспект Октября 71/2,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица Генерала Кусимова д. 15,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Учалы улица Башкортостана 10,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица Минигали Губайдуллина д. 19/3,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица Софьи Перовской д. 29,unknown,Wildberries
+unknown,wildberries,г. Мелеуз (Республика Башкортостан) улица Ленина д. 218А,unknown,Wildberries
+unknown,wildberries,г. Салават (Республика Башкортостан) Октябрьская улица д. 46,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Загира Исмагилова 10,unknown,Wildberries
+unknown,wildberries,г. Салават (Республика Башкортостан) Речная улица д. 10,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица Достоевского д. 107,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Октябрьской Революции 48/1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Рабкоров 14,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Революционная улица 92,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Степана Кувыкина 7А,unknown,Wildberries
+unknown,wildberries,г. Бирск (Республика Башкортостан) Октябрьская площадь д. 3,unknown,Wildberries
+unknown,wildberries,г. Дюртюли (Республика Башкортостан) улица Ленина д. 5,unknown,Wildberries
+unknown,wildberries,г. Стерлитамак (Республика Башкортостан) улица Худайбердина д. 71,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) Российская улица д. 22,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) Дагестанская улица д. 14/1,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица 50 лет СССР д. 42,unknown,Wildberries
+unknown,wildberries,г. Ишимбай (Республика Башкортостан) улица Гагарина д. 5,unknown,Wildberries
+unknown,wildberries,г. Давлеканово (Республика Башкортостан) улица Победы д. 23,unknown,Wildberries
+unknown,wildberries,г. Салават (Республика Башкортостан) улица Бекетова д. 10,unknown,Wildberries
+unknown,wildberries,г. Стерлитамак (Республика Башкортостан) улица Цементников д. 4А,unknown,Wildberries
+unknown,wildberries,г. Уфа (Республика Башкортостан) улица Рихарда Зорге д. 36,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Свободы 39,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Степана Халтурина 49,unknown,Wildberries
+unknown,wildberries,г. Нефтекамск (Республика Башкортостан) улица Нефтяников д. 3,unknown,Wildberries
+unknown,wildberries,г. Сибай (Республика Башкортостан) проспект Горняков д. 21А,unknown,Wildberries
+unknown,wildberries,г. Стерлитамак (Республика Башкортостан) улица Артёма д. 116,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Гоголя 79,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Машиностроителей 7,unknown,Wildberries
+unknown,wildberries,село Месягутово (Республика Башкортостан) Крупская улица д. 16,unknown,Wildberries
+unknown,wildberries,г. Янаул (Республика Башкортостан) улица Ленина д. 1,unknown,Wildberries
+unknown,wildberries,г. Благовещенск (Республика Башкортостан) Социалистическая улица 10А,unknown,Wildberries
+unknown,wildberries,г. Кумертау (Республика Башкортостан) Комсомольская улица д. 12,unknown,Wildberries
+unknown,wildberries,г. Туймазы (Республика Башкортостан) улица Островского д. 44,unknown,Wildberries
+unknown,wildberries,г. Баймак (Республика Башкортостан) проспект Салавата Юлаева д. 13,unknown,Wildberries
+unknown,wildberries,село Чекмагуш (Республика Башкортостан) улица Ленина д. 66В,unknown,Wildberries
+unknown,wildberries,рп. Чишмы (Респ Башкортостан) Почтовый переулок  1Б,unknown,Wildberries
+unknown,wildberries,село Верхнеяркеево (Республика Башкортостан) Коммунистическая улица д. 33,unknown,Wildberries
+unknown,wildberries,село Мраково (Республика Башкортостан) улица Иванова 13А,unknown,Wildberries
+unknown,wildberries,г. Нефтекамск (Респ Башкортостан) Юбилейный 10,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Белебей Красная улица 103А,unknown,Wildberries
+unknown,wildberries,г. Нефтекамск (Респ Башкортостан) Строителей 81,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Красноусольский Больничный переулок 1к3,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Бураево Советская улица 8,unknown,Wildberries
+unknown,wildberries,с Киргиз-Мияки (Респ Башкортостан)Шоссейная улица 1В,unknown,Wildberries
+unknown,wildberries,с Раевский (Респ Башкортостан Альшеевский р-н) Космонавтов 32 корпус 1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Буздяк Красноармейская улица 29,unknown,Wildberries
+unknown,wildberries,д. Бакалы (Респ Башкортостан) Ленина 200/1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Натальи Ковшовой 10,unknown,Wildberries
+unknown,wildberries,с Исянгулово (Россия Респ Башкортостан Зианчуринский р-н) Интернациональная 1/1 ,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак проспект Октября 9,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан посёлок городского типа Приютово улица Карла Маркса 18,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Белебей Советская улица 49/1,unknown,Wildberries
+unknown,wildberries,г Ишимбай (Респ Башкортостан) Губкина 12,unknown,Wildberries
+unknown,wildberries,г Бирск (Респ Башкортостан) Интернациональная 122а,unknown,Wildberries
+unknown,wildberries,Учалы Российская улица 5,unknown,Wildberries
+unknown,wildberries,г Ишимбай (Республика Башкортостан) улица Машиностроителей 24,unknown,Wildberries
+unknown,wildberries,г Уфа (Республика Башкортостан городской округ Уфа) проспект Октября 97,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Баязита Бикбая 17,unknown,Wildberries
+unknown,wildberries,с Иглино Республика Башкортостан Иглинский район улица Ленина 101,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Ленина 87,unknown,Wildberries
+unknown,wildberries,г Салават (Республика Башкортостан) Ленинградская улица 93,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Шмидта 41,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Георгия Мушникова 13/6,unknown,Wildberries
+unknown,wildberries,г Уфа (Республика Башкортостан) Гвардейская улица 38,unknown,Wildberries
+unknown,wildberries,Акъяр Республика Башкортостан Хайбуллинский район улица Тухвата Мурата 46а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Сибай улица Белова 13,unknown,Wildberries
+unknown,wildberries,Толбазы Республика Башкортостан Аургазинский район улица Ленина 119,unknown,Wildberries
+unknown,wildberries,г Нефтекамск (Республика Башкортостан) Парковая улица 9,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Юрия Гагарина 74,unknown,Wildberries
+unknown,wildberries,Октябрьский (Республика Башкортостан) Новосёлов 14,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Белорецк улица Ф. Алексеева 37,unknown,Wildberries
+unknown,wildberries,Верхние Татышлы (Респ Башкортостан) улица Ленина 66а,unknown,Wildberries
+unknown,wildberries,Уфа (Респ Башкортостан) улица Новосёлов 6,unknown,Wildberries
+unknown,wildberries,Бижбуляк (Республика Башкортостан) улица К. Хакимова 32,unknown,Wildberries
+unknown,wildberries,г Стерлитамак (Респ Башкортостан)проспект Октября 83,unknown,Wildberries
+unknown,wildberries,Кармаскалы (Республика Башкортостан) улица Султан-Галиева 37,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Кольцевая улица 43,unknown,Wildberries
+unknown,wildberries,Пономаревка (Оренбургская обл) переулок Карла Маркса 15/7,unknown,Wildberries
+unknown,wildberries,Зубово Серебряная улица 70,unknown,Wildberries
+unknown,wildberries,г Кумертау Улица Ленина 25,unknown,Wildberries
+unknown,wildberries,г Уфа Новомостовая Улица 7,unknown,Wildberries
+unknown,wildberries,г Салават Улица Ленина 56,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Пекинская улица 23,unknown,Wildberries
+unknown,wildberries,с Мраково Улица З. Биишевой 102,unknown,Wildberries
+unknown,wildberries,Благовещенск Респ Башкортостан Благовещенский р-н улица Демьяна Бедного 85Б,unknown,Wildberries
+unknown,wildberries,Дюртюли Республика Башкортостан Дюртюлинский район улица Ленина 28,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Надежды 1/1,unknown,Wildberries
+unknown,wildberries,г Уфа Фестивальная Улица 3,unknown,Wildberries
+unknown,wildberries,г Стерлитамак Улица Гоголя 118,unknown,Wildberries
+unknown,wildberries,Россия Респ Башкортостан г Уфа Улица Академика Ураксина 3,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Николая Дмитриева 17 корп.1,unknown,Wildberries
+unknown,wildberries,г Нефтекамск Комсомольский Проспект 82,unknown,Wildberries
+unknown,wildberries,г Уфа Большая Московская Улица 13,unknown,Wildberries
+unknown,wildberries,с Караидель улица Ленина 6,unknown,Wildberries
+unknown,wildberries,с/с Жуковский Улица Салавата Юлаева 9,unknown,Wildberries
+unknown,wildberries,с Иглино Улица Горького 2,unknown,Wildberries
+unknown,wildberries,Белебей Респ Башкортостан Белебеевский р-н улица Ленина 5,unknown,Wildberries
+unknown,wildberries,г Стерлитамак Коммунистическая Улица 54,unknown,Wildberries
+unknown,wildberries,г Сибай Улица Заки Валиди 57,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Менделеева 150/6,unknown,Wildberries
+unknown,wildberries,г Белебей Красная Улица 119,unknown,Wildberries
+unknown,wildberries,Уфа Республика Башкортостан городской округ Уфа Кольцевая улица 98/9,unknown,Wildberries
+unknown,wildberries,д Бурцево Трактовая Улица 8,unknown,Wildberries
+unknown,wildberries,Уфа Респ Башкортостан улица Султанова 2,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Интернациональная улица 191,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Худайбердина 2,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Новороссийская улица 1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Блюхера 1/3,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Российская улица 43/10,unknown,Wildberries
+unknown,wildberries,г Мелеуз Октябрьская Улица 7,unknown,Wildberries
+unknown,wildberries,г Кумертау Шахтостроительная Улица 12,unknown,Wildberries
+unknown,wildberries,с Зубово Осенняя Улица 2,unknown,Wildberries
+unknown,wildberries,г Кумертау Первомайская Улица 9,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан деревня Алексеевка Центральная улица 56/2,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Туймазы улица Мичурина 17Б,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Мингажева 127,unknown,Wildberries
+unknown,wildberries,ст Салават Улица Бочкарёва 9,unknown,Wildberries
+unknown,wildberries,ст Салават Улица Калинина 44,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Ахметова 300,unknown,Wildberries
+unknown,wildberries,Оренбургская обл село Октябрьское Центральный пер двлд 28  стр 28,unknown,Wildberries
+unknown,wildberries,г Уфа Проспект Октября 105/1,unknown,Wildberries
+unknown,wildberries,г Мелеуз Улица Ленина 133,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Геологов 53,unknown,Wildberries
+unknown,wildberries,г Салават Улица Ленина 52,unknown,Wildberries
+unknown,wildberries,с/с Михайловский Сливовая Улица 1,unknown,Wildberries
+unknown,wildberries,Кумертау Республика Башкортостан городской округ Кумертау улица 40 лет Победы 5,unknown,Wildberries
+unknown,wildberries,с Нагаево Рощинская Улица 15,unknown,Wildberries
+unknown,wildberries,Нефтекамск Респ Башкортостан Дорожная улица 15А,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Баязита Бикбая 36,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Гоголя 60,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Максима Рыльского 13,unknown,Wildberries
+unknown,wildberries,с Зилаир Улица Ленина 38а,unknown,Wildberries
+unknown,wildberries,Уфа Респ Башкортостан бульвар Назара Наджми 7,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Комарова 36,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Мусы Джалиля 64,unknown,Wildberries
+unknown,wildberries,г Уфа Проспект Октября 133,unknown,Wildberries
+unknown,wildberries,с Краснохолмский Улица Горького 11,unknown,Wildberries
+unknown,wildberries,г Уфа Первомайская Улица 80,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Правды 12,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Акбердино Юбилейная улица 2Д,unknown,Wildberries
+unknown,wildberries,с Ермолаево Советская Улица 128,unknown,Wildberries
+unknown,wildberries,г Уфа Улица 50 Лет СССР 3,unknown,Wildberries
+unknown,wildberries,г Белорецк Улица Карла Маркса 33/1,unknown,Wildberries
+unknown,wildberries,с Бакалы Октябрьская Улица 23,unknown,Wildberries
+unknown,wildberries,г Салават Бульвар Космонавтов 30,unknown,Wildberries
+unknown,wildberries,г Кумертау Советская Улица 18,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Габдуллы Амантая 9,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Степана Злобина 38/2,unknown,Wildberries
+unknown,wildberries,г Мелеуз Смоленская Улица 43,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Энтузиастов 15,unknown,Wildberries
+unknown,wildberries,Уфа (Республика Башкортостан) улица Энтузиастов 14,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Сазонова 22,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Агидель Молодёжная улица 2Г,unknown,Wildberries
+unknown,wildberries,с Иглино Архитектурная Улица 1/1,unknown,Wildberries
+unknown,wildberries,д Кабаково Школьная Улица 1/3,unknown,Wildberries
+unknown,wildberries,Учалы Республика Башкортостан Учалинский район Первостроителей  4,unknown,Wildberries
+unknown,wildberries,г Уфа (Республика Башкортостан) улица Рихарда Зорге 63/5,unknown,Wildberries
+unknown,wildberries,Октябрьский (Республика Башкортостан) улица Рахимьяна Насырова 1,unknown,Wildberries
+unknown,wildberries,с Нагаево Новая Улица 1,unknown,Wildberries
+unknown,wildberries,Белебей Респ Башкортостан Белебеевский р-н улица Войкова 113,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Бессонова 33,unknown,Wildberries
+unknown,wildberries,г Туймазы Площадь Октября 2,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Менделеева 1,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Юрия Гагарина 48,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Менделеева 142,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Лётчиков 9,unknown,Wildberries
+unknown,wildberries,г Уфа Российская Улица 96,unknown,Wildberries
+unknown,wildberries,с/с Раевский Улица Медиков 78,unknown,Wildberries
+unknown,wildberries,с Булгаково Дуговая Улица 35,unknown,Wildberries
+unknown,wildberries,г Белорецк Улица В. Косоротова 42,unknown,Wildberries
+unknown,wildberries,с Чесноковка Школьная Улица 7/4,unknown,Wildberries
+unknown,wildberries,г Нефтекамск Улица Карла Маркса 13,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Кирова 48,unknown,Wildberries
+unknown,wildberries,Нефтекамск Республика Башкортостан улица Карцева 32А,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Мустая Карима 50,unknown,Wildberries
+unknown,wildberries,г Уфа Улица 8 Марта 18,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Академика Королёва 4,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Ульяновых 52,unknown,Wildberries
+unknown,wildberries,с Энергетик Высоковольтная Улица 10,unknown,Wildberries
+unknown,wildberries,г Уфа Кольцевая Улица 175,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Софьи Перовской 23/1,unknown,Wildberries
+unknown,wildberries,г Уфа Бульвар Славы 10/38,unknown,Wildberries
+unknown,wildberries,с Авдон Лесопарковая Улица 1,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Набережная Реки Уфы 45,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Степана Злобина 4,unknown,Wildberries
+unknown,wildberries,г Нефтекамск Комсомольский Проспект 53,unknown,Wildberries
+unknown,wildberries,г Нефтекамск Дорожная Улица 29а,unknown,Wildberries
+unknown,wildberries,г Туймазы Проспект Ленина 5,unknown,Wildberries
+unknown,wildberries,г Туймазы Улица 70 Лет Октября 1,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Ферина 31,unknown,Wildberries
+unknown,wildberries,ст Салават Октябрьская Улица 24,unknown,Wildberries
+unknown,wildberries,ст Салават Уфимская Улица 116,unknown,Wildberries
+unknown,wildberries,с Чесноковка Томилинская Улица 1,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Менделеева 108,unknown,Wildberries
+unknown,wildberries,г Мелеуз Улица Бурангулова 21а,unknown,Wildberries
+unknown,wildberries,с Кандры Улица Ленина 4,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Пушкина 82,unknown,Wildberries
+unknown,wildberries,г Межгорье Советская Улица 19,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Братьев Кадомцевых 15,unknown,Wildberries
+unknown,wildberries,г Бирск Улица Мира 135а,unknown,Wildberries
+unknown,wildberries,с Старые Туймазы Советская Улица 4,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Деревенская Переправа 53,unknown,Wildberries
+unknown,wildberries,г Туймазы Улица Лесовода Морозова 7,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Свердлова 56/58,unknown,Wildberries
+unknown,wildberries,г Белебей Интернациональная Улица 71,unknown,Wildberries
+unknown,wildberries,г Давлеканово Московская Улица 104,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Маршала Жукова 4,unknown,Wildberries
+unknown,wildberries,г Салават Улица Калинина 83,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Салават улица Губкина 2,unknown,Wildberries
+unknown,wildberries,г Сибай Улица Островского 5,unknown,Wildberries
+unknown,wildberries,г Уфа Комсомольская Улица 12/1,unknown,Wildberries
+unknown,wildberries,с Кандры Улица Чапаева 29,unknown,Wildberries
+unknown,wildberries,с Стерлибашево Улица Ленина 86,unknown,Wildberries
+unknown,wildberries,г Ишимбай Революционная Улица 8,unknown,Wildberries
+unknown,wildberries,с Октябрьское Улица Луначарского 32,unknown,Wildberries
+unknown,wildberries,г Уфа Тальковая Улица 38,unknown,Wildberries
+unknown,wildberries,с Большеустьикинское Улица Тихона Онкина 1,unknown,Wildberries
+unknown,wildberries,г Туймазы Улица Гафурова 5б,unknown,Wildberries
+unknown,wildberries,г Стерлитамак Улица Строителей 69,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Набережная Реки Уфы 21,unknown,Wildberries
+unknown,wildberries,г Октябрьский Проспект Ленина 40,unknown,Wildberries
+unknown,wildberries,Октябрьский Республика Башкортостан Комсомольская улица 11,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Ферина 14,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Маршала Жукова 1/2,unknown,Wildberries
+unknown,wildberries,с Ермолаево Улица Чкалова 1б,unknown,Wildberries
+unknown,wildberries,рп Чишмы Улица Ленина 51,unknown,Wildberries
+unknown,wildberries,с Аскарово Улица Мира 4/1,unknown,Wildberries
+unknown,wildberries,г Нефтекамск Улица Ленина 6,unknown,Wildberries
+unknown,wildberries,г Стерлитамак Улица Сазонова 8а,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Георгия Мушникова 27,unknown,Wildberries
+unknown,wildberries,г Уфа Проспект Октября 62,unknown,Wildberries
+unknown,wildberries,д Карпово Комаринская Улица 34,unknown,Wildberries
+unknown,wildberries,с/с Благоварский Улица Пушкина 20,unknown,Wildberries
+unknown,wildberries,рп Межозерный Улица Ленина 13,unknown,Wildberries
+unknown,wildberries,г Уфа Центральная Улица 1б,unknown,Wildberries
+unknown,wildberries,г Уфа Комсомольская Улица 141,unknown,Wildberries
+unknown,wildberries,снт Башкирия Улица Герцена 12,unknown,Wildberries
+unknown,wildberries,с Миловка Улица Михайлова 3,unknown,Wildberries
+unknown,wildberries,с Юмагузино Комсомольская Улица 9,unknown,Wildberries
+unknown,wildberries,Уфа Улица Академика Сулейманова 12,unknown,Wildberries
+unknown,wildberries,Уфа Дуванский Бульвар 30,unknown,Wildberries
+unknown,wildberries,рп Чишмы Социалистическая Улица 2,unknown,Wildberries
+unknown,wildberries,г Салават Ленинградская Улица 55,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Нефтекамск улица Ленина 31,unknown,Wildberries
+unknown,wildberries,село Амзя Улица Азина 8,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Нефтекамск Социалистическая улица 85Б,unknown,Wildberries
+unknown,wildberries,д Карпово Комаринская Улица 7,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Генерала Ишбулатова 8/2,unknown,Wildberries
+unknown,wildberries,Уфа Улица Максима Горького 56,unknown,Wildberries
+unknown,wildberries,г Уфа Улица Лётчика Кобелева 3,unknown,Wildberries
+unknown,wildberries,Уфа Улица Пушкина 54,unknown,Wildberries
+unknown,wildberries,Уфа Улица Ленина 122,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Учалы улица Ленина 13,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Бирск Пролетарская улица 142,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Мелеуз улица Ленина 16,unknown,Wildberries
+unknown,wildberries,Сибай Улица Кирова 21,unknown,Wildberries
+unknown,wildberries,село Иглино Улица Петряшова 1,unknown,Wildberries
+unknown,wildberries,село Кизильское Красноармейская Улица 73б,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Кушнаренково Советская улица 35Б,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак проспект Октября 59,unknown,Wildberries
+unknown,wildberries,Октябрьский Улица Островского 35,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак Коммунистическая улица 38,unknown,Wildberries
+unknown,wildberries,Уфа Гвардейская Улица 55а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Месягутово Октябрьская улица 24В,unknown,Wildberries
+unknown,wildberries,село Бижбуляк Центральная Улица 110,unknown,Wildberries
+unknown,wildberries,Уфа Яркий Бульвар 9,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Машинистов 8,unknown,Wildberries
+unknown,wildberries,Нефтекамск Улица Ленина 51,unknown,Wildberries
+unknown,wildberries,село Старосубхангулово Улица Салавата 27а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Адмирала Макарова 24,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Архангельское улица Карла Маркса 43,unknown,Wildberries
+unknown,wildberries,Салават Первомайская Улица 42,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Верхнеяркеево улица Пушкина 30,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Зайнаб Биишевой 1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Октябрьский проспект Ленина 3,unknown,Wildberries
+unknown,wildberries,Уфа Улица Максима Горького 46,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Шмидта 162,unknown,Wildberries
+unknown,wildberries,Белебей Красная Улица 125,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Космонавтов 14,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Черниковская улица 51,unknown,Wildberries
+unknown,wildberries,село Верхние Киги Улица Ленина 114,unknown,Wildberries
+unknown,wildberries,деревня Улукулево Улица Карла Маркса 78,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Гоголя 106,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Серафимовский 21-й квартал 9,unknown,Wildberries
+unknown,wildberries,село Инзер Улица Энергетиков 36а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Первомайская улица 44,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Учалы улица Ленина 25А,unknown,Wildberries
+unknown,wildberries,село Иглино Улица Горького 59/2,unknown,Wildberries
+unknown,wildberries,Уфа Транспортная Улица 46/1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Нефтекамск Берёзовское шоссе 6А,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Нефтекамск улица Дзержинского 1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Рихарда Зорге 49,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Салават Ленинградская улица 83,unknown,Wildberries
+unknown,wildberries,Межгорье Спортивная Улица 2,unknown,Wildberries
+unknown,wildberries,Уфа Улица Орджоникидзе 32/1,unknown,Wildberries
+unknown,wildberries,Уфа Улица Красина 21,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа бульвар Ибрагимова 53,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Менделеева 153,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Янаул переулок Ленина 11В,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан деревня Мармылёво Сосновая улица 2,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Бирск Интернациональная улица 123,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Лётчиков 2/5,unknown,Wildberries
+unknown,wildberries,Уфа Российская Улица 86,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Энтузиастов 4,unknown,Wildberries
+unknown,wildberries,село Михайловка Улица Ленина 41/3,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Белебей Волгоградская улица 21,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак проспект Октября 97,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Ферина 1,unknown,Wildberries
+unknown,wildberries,Уфа Яркий Бульвар 5,unknown,Wildberries
+unknown,wildberries,село Ильино-Поляна Советская Улица 1/1,unknown,Wildberries
+unknown,wildberries,Уфа Бакалинская Улица 19,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Булгаково бульвар Габдрахмана Кадырова 23,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Большеустьикинское Центральная улица 3К,unknown,Wildberries
+unknown,wildberries,Уфа Улица Юрия Гагарина 57/2,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Салават улица Островского 71А,unknown,Wildberries
+unknown,wildberries,Уфа Бакалинская Улица 25,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Революционная улица 99,unknown,Wildberries
+unknown,wildberries,садоводческое некоммерческое товарищество Строитель СМП-620 Новороссийская Улица 150/1,unknown,Wildberries
+unknown,wildberries,село Большеустьикинское Первомайская Улица 5а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Дружбы 47А,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Артёма 98,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Софьи Перовской 15/3,unknown,Wildberries
+unknown,wildberries,Октябрьский 34-Й Микрорайон 5б,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Российская улица 20,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Цюрупы 130,unknown,Wildberries
+unknown,wildberries,Туймазы Улица Комарова 41,unknown,Wildberries
+unknown,wildberries,Благовещенск Улица Седова 107,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Академика Королёва 19/1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Центральная улица 10,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Крупской 6,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Иглино улица Ленина 53,unknown,Wildberries
+unknown,wildberries,Стерлитамак Улица Худайбердина 150а,unknown,Wildberries
+unknown,wildberries,Янаул Улица Некрасова 7/1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Гали Ибрагимова 5/1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Интернациональная улица 171,unknown,Wildberries
+unknown,wildberries,Уфа Бульвар Хадии Давлетшиной 24,unknown,Wildberries
+unknown,wildberries,Благовещенск Советская Улица 15,unknown,Wildberries
+unknown,wildberries,Уфа Цветочная Улица 178,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Артёма 144А,unknown,Wildberries
+unknown,wildberries,село Новая Отрадовка Школьная Улица 2в,unknown,Wildberries
+unknown,wildberries,Нефтекамск Комсомольский Проспект 46,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Сибай улица Ленина 23,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак Коммунистическая улица 75,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Субханкулово улица Гагарина 7,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Агидель улица Академика Курчатова 7,unknown,Wildberries
+unknown,wildberries,село Субханкулово Школьная Улица 16а,unknown,Wildberries
+unknown,wildberries,Туймазы Улица Столярова 3с10/2,unknown,Wildberries
+unknown,wildberries,Салават Бульвар Салавата Юлаева 51,unknown,Wildberries
+unknown,wildberries,Белебей Улица Ленина 17,unknown,Wildberries
+unknown,wildberries,Туймазы Улица Чапаева 22,unknown,Wildberries
+unknown,wildberries,Мелеуз Первомайская Улица 20,unknown,Wildberries
+unknown,wildberries,Салават Улица Дзержинского 8,unknown,Wildberries
+unknown,wildberries,Сибай Улица Горького 55,unknown,Wildberries
+unknown,wildberries,село Ермекеево Советская Улица 30,unknown,Wildberries
+unknown,wildberries,Баймак Улица Мира 19,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Старобалтачево улица 8 Марта 1,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Приютово Улица Ленина 1,unknown,Wildberries
+unknown,wildberries,село Шаран Улица Гагарина 10б,unknown,Wildberries
+unknown,wildberries,село Аскино Советская Улица 20,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Николо-Берёзовка улица Строителей 29,unknown,Wildberries
+unknown,wildberries,Учалы Советская Улица 46,unknown,Wildberries
+unknown,wildberries,Ишимбай Молодёжная Улица 8,unknown,Wildberries
+unknown,wildberries,село Красная Горка Пионерская Улица 2/1,unknown,Wildberries
+unknown,wildberries,село Иглино Целинная Улица 18,unknown,Wildberries
+unknown,wildberries,Баймак Улица Сергея Чекмарева 1,unknown,Wildberries
+unknown,wildberries,село Темясово Уральская Улица 4а,unknown,Wildberries
+unknown,wildberries,село Дмитриевка Трактовая Улица 43,unknown,Wildberries
+unknown,wildberries,Стерлитамак Улица Худайбердина 48,unknown,Wildberries
+unknown,wildberries,село Мишкино Улица Мира 1,unknown,Wildberries
+unknown,wildberries,деревня Суровка Виноградная Улица 1к2,unknown,Wildberries
+unknown,wildberries,село Верхнеяркеево Улица 50 Лет Октября 26/2,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Калтасы Южная улица 27А,unknown,Wildberries
+unknown,wildberries,село Улу-Теляк Коммунистическая Улица 25а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Зирган Советская улица 175,unknown,Wildberries
+unknown,wildberries,село Тирлянский Улица М. Калинина 2,unknown,Wildberries
+unknown,wildberries,Ишимбай Проспект Ленина 18,unknown,Wildberries
+unknown,wildberries,село Кармаскалы Улица Султан-Галиева 57/1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Красноусольский Коммунистическая улица 1/3,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Сибай Учалинская улица 37,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Раевский Октябрьская улица 1Б,unknown,Wildberries
+unknown,wildberries,село Зирган Советская Улица 142,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Верхнеяркеево Советская улица 24,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Исянгулово Промышленная улица 2,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Сибай улица Белова 41с2,unknown,Wildberries
+unknown,wildberries,село Исянгулово Советская Улица 30а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Учалы улица Муртазина 3,unknown,Wildberries
+unknown,wildberries,деревня Редькино Новая Улица 1в,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Кушнаренково Садовая улица 17,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Нагуманова 12,unknown,Wildberries
+unknown,wildberries,село Киргиз-Мияки Улица Калинина 15,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Учалы улица Башкортостана 14,unknown,Wildberries
+unknown,wildberries,село Павловка Улица Графтио 29,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Салават Уфимская улица 27А,unknown,Wildberries
+unknown,wildberries,село Рощинский Майская Улица 21,unknown,Wildberries
+unknown,wildberries,село Бурибай Улица Заки Валиди 31/2,unknown,Wildberries
+unknown,wildberries,село Прибельский Улица Ленина 4,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Муксинова 2/3,unknown,Wildberries
+unknown,wildberries,Стерлитамак Улица Дружбы 17а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак Вокзальная улица 4А,unknown,Wildberries
+unknown,wildberries,Дюртюли Первомайская Улица 1,unknown,Wildberries
+unknown,wildberries,село Новобелокатай Советская Улица 119б,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Уральск Юбилейная улица 20,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Акъяр улица Мусы Гареева 50,unknown,Wildberries
+unknown,wildberries,село Чекмагуш Архитектурная Улица 5а,unknown,Wildberries
+unknown,wildberries,Дюртюли Улица Василия Горшкова 17,unknown,Wildberries
+unknown,wildberries,Уфа Улица Уфимское Шоссе 24/1,unknown,Wildberries
+unknown,wildberries,село Абзаково Улица Ленина 162а,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Мира 15,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Старобалтачево Советская улица 37,unknown,Wildberries
+unknown,wildberries,Уфа Улица Свободы 1,unknown,Wildberries
+unknown,wildberries,село Зубово Осенняя Улица 4,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Дуванский бульвар 23,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Георгия Мушникова 11,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Кумертау улица 60 лет БАССР 7,unknown,Wildberries
+unknown,wildberries,село Емаши Улица Кирова 2,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Ишимбай Стахановская улица 22,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Артёма 114,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Октябрьский проспект Ленина 18,unknown,Wildberries
+unknown,wildberries,Уфа Революционная Улица 82,unknown,Wildberries
+unknown,wildberries,Белорецк Улица В. Овчаренко 2а,unknown,Wildberries
+unknown,wildberries,Уфа Улица Рихарда Зорге 26,unknown,Wildberries
+unknown,wildberries,Мелеуз Улица Бурангулова 29,unknown,Wildberries
+unknown,wildberries,Уфа Улица Ахметова 272,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Туймазы Южная улица 40,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Октябрьский улица Островского 5,unknown,Wildberries
+unknown,wildberries,село Нагаево Рощинская Улица 93,unknown,Wildberries
+unknown,wildberries,село Фёдоровка Коммунистическая Улица 78,unknown,Wildberries
+unknown,wildberries,село Кушнаренково Раздольная Улица 97б,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Межозёрный Восточная Улица 12а,unknown,Wildberries
+unknown,wildberries,Уфа Улица Авроры 7/5а,unknown,Wildberries
+unknown,wildberries,Уфа Улица Дмитрия Купцова 7,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Буздяк Комсомольская улица 15,unknown,Wildberries
+unknown,wildberries,Нефтекамск Улица Победы 3,unknown,Wildberries
+unknown,wildberries,село Аскарово Улица Шаймуратова 17,unknown,Wildberries
+unknown,wildberries,село Бураево Пионерская Улица 18к1,unknown,Wildberries
+unknown,wildberries,Салават Бульвар Салавата Юлаева 7,unknown,Wildberries
+unknown,wildberries,Учалы Улица Мира 30а,unknown,Wildberries
+unknown,wildberries,село Красноусольский Аэродромная Улица 15б,unknown,Wildberries
+unknown,wildberries,Уфа Гвардейская Улица 48,unknown,Wildberries
+unknown,wildberries,село Аскино Улица Ленина 120,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Победы 39,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Мира 2Б,unknown,Wildberries
+unknown,wildberries,село Иглино Улица Зощенко 11,unknown,Wildberries
+unknown,wildberries,село Новобелокатай Советская Улица 111,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Калинина 65,unknown,Wildberries
+unknown,wildberries,Мелеуз Колхозная Улица 6,unknown,Wildberries
+unknown,wildberries,Уфа Улица Чернышевского 7,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Глумилинская улица 4,unknown,Wildberries
+unknown,wildberries,Уфа Вологодская Улица 64,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Мечтателей 6,unknown,Wildberries
+unknown,wildberries,Сибай Улица Заки Валиди 44,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Михайловка Коммунистическая улица 24,unknown,Wildberries
+unknown,wildberries,деревня Атаевка Атаевская Улица 2/3,unknown,Wildberries
+unknown,wildberries,Уфа Улица Менделеева 10,unknown,Wildberries
+unknown,wildberries,Уфа Улица Фурманова 6,unknown,Wildberries
+unknown,wildberries,деревня Николаевка Улица Дружбы 14,unknown,Wildberries
+unknown,wildberries,Кумертау Улица Карла Маркса 11,unknown,Wildberries
+unknown,wildberries,село Аскарово Улица Кирова 9,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Рижская улица 5,unknown,Wildberries
+unknown,wildberries,Дюртюли Советская Улица 131,unknown,Wildberries
+unknown,wildberries,Уфа Улица Карла Маркса 60,unknown,Wildberries
+unknown,wildberries,Уфа Улица Асхата Мирзагитова 10/1,unknown,Wildberries
+unknown,wildberries,Стерлитамак Проспект Октября 8,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа Первомайская улица 83,unknown,Wildberries
+unknown,wildberries,Октябрьский Улица Матросова 21/1,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Гоголя 143Д,unknown,Wildberries
+unknown,wildberries,Уфа Улица Мухаммеда Арсланова 51,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Раевский Коммунистическая улица 7,unknown,Wildberries
+unknown,wildberries,Уфа Улица Даяна Мурзина 11/1,unknown,Wildberries
+unknown,wildberries,Белорецк Улица 50 Лет Октября 72,unknown,Wildberries
+unknown,wildberries,село Чураево Улица Ленина 24,unknown,Wildberries
+unknown,wildberries,Сибай Улица Строителей 4к3,unknown,Wildberries
+unknown,wildberries,село Иглино Улица Тикеева 2,unknown,Wildberries
+unknown,wildberries,Уфа Улица Заки Валиди 7,unknown,Wildberries
+unknown,wildberries,Давлеканово Улица Мира 10а,unknown,Wildberries
+unknown,wildberries,Белорецк Улица В. Косоротова 19,unknown,Wildberries
+unknown,wildberries,Мелеуз Смоленская Улица 35,unknown,Wildberries
+unknown,wildberries,Уфа Строгановская Улица 25,unknown,Wildberries
+unknown,wildberries,Уфа Силикатная Улица 28б,unknown,Wildberries
+unknown,wildberries,село Красный Яр Речной Переулок 1а,unknown,Wildberries
+unknown,wildberries,село Иглино Улица Ленина 139,unknown,Wildberries
+unknown,wildberries,село Чуваш-Кубово Улица Площадь Октября 11,unknown,Wildberries
+unknown,wildberries,Давлеканово Заводская Улица 8а,unknown,Wildberries
+unknown,wildberries,село Балтика Центральная Улица 1,unknown,Wildberries
+unknown,wildberries,Давлеканово Улица Гагарина 71,unknown,Wildberries
+unknown,wildberries,Межгорье Улица 40 Лет Победы 17,unknown,Wildberries
+unknown,wildberries,Нефтекамск Юбилейный Проспект 4,unknown,Wildberries
+unknown,wildberries,село Зубово Электрозаводская Улица 14,unknown,Wildberries
+unknown,wildberries,Белебей Волгоградская Улица 11,unknown,Wildberries
+unknown,wildberries,Баймак Юбилейная Улица 13а,unknown,Wildberries
+unknown,wildberries,Белебей Улица Амирова 8/1,unknown,Wildberries
+unknown,wildberries,село Месягутово Коммунистическая Улица 90а,unknown,Wildberries
+unknown,wildberries,село Исмаилово Октябрьская Улица 78,unknown,Wildberries
+unknown,wildberries,село Миндяк Уфимская Улица 19б,unknown,Wildberries
+unknown,wildberries,село Шафраново Улица Ленина 11,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Кочетова 24Г,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Артёма 74,unknown,Wildberries
+unknown,wildberries,Янаул Улица Якутова 44/3,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Карла Маркса 63,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Степана Кувыкина 21/1,unknown,Wildberries
+unknown,wildberries,Давлеканово Высоковольтная Улица 14,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Артёма 147,unknown,Wildberries
+unknown,wildberries,Белорецк Малиновая Улица 5а,unknown,Wildberries
+unknown,wildberries,село Мраково Улица З. Биишевой 88,unknown,Wildberries
+unknown,wildberries,Нефтекамск Российская Улица 42а,unknown,Wildberries
+unknown,wildberries,Стерлитамак Проспект Ленина 32,unknown,Wildberries
+unknown,wildberries,Уфа Бульвар Назара Наджми 19,unknown,Wildberries
+unknown,wildberries,село Караидель Улица Гагарина 11,unknown,Wildberries
+unknown,wildberries,Учалы Улица Ленина 37/2,unknown,Wildberries
+unknown,wildberries,Уфа Улица Баязита Бикбая 27,unknown,Wildberries
+unknown,wildberries,село Амангильдино Центральная Улица 33,unknown,Wildberries
+unknown,wildberries,Уфа Улица Правды 18/5,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Октябрьский улица Муллаяна 8,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Победы 10А,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Уфа улица Ахметова 273,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Октябрьский 28-й микрорайон 7,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Буздяк улица Мавлютова 7А,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Дюртюли улица Фаузи Зайлалова 14,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан Стерлитамак улица Тукаева 14А,unknown,Wildberries
+unknown,wildberries,Республика Башкортостан село Загородный улица Дружбы 29,unknown,Wildberries
+unknown,wildberries,село Нагаево Декоративная Улица 50к,unknown,Wildberries
+unknown,wildberries,Уфа Вологодская Улица 52,unknown,Wildberries
+unknown,wildberries,Уфа Улица Юрия Гагарина 37,unknown,Wildberries
+unknown,wildberries,Давлеканово Улица Красная Площадь 12,unknown,Wildberries
+unknown,wildberries,Благовещенск Улица Демьяна Бедного 68/1,unknown,Wildberries
+unknown,wildberries,село Чесноковка Школьная Улица 2/2,unknown,Wildberries
+unknown,wildberries,Янаул Улица Победы 80,unknown,Wildberries
+unknown,wildberries,Салават Улица Калинина 1а,unknown,Wildberries
+unknown,wildberries,Ишимбай Улица Губкина 33,unknown,Wildberries
+unknown,wildberries,село Акъяр Улица Муртазина 23к1,unknown,Wildberries
+unknown,wildberries,село Верхние Татышлы Совхозная Улица 31а,unknown,Wildberries
+unknown,wildberries,Октябрьский 34-Й Микрорайон 17б,unknown,Wildberries
+unknown,wildberries,село Юлдыбаево Улица Дружбы 13,unknown,Wildberries
+unknown,wildberries,Уфа Улица Воинов-Интернационалистов 5,unknown,Wildberries
+unknown,wildberries,село Буздяк Вокзальная Улица 18,unknown,Wildberries
+unknown,wildberries,Сибай Улица Котовского 26/1,unknown,Wildberries
+unknown,wildberries,коттеджный посёлок Ново-Иглино Салаватская Улица 6,unknown,Wildberries
+unknown,wildberries,Уфа Дагестанская Улица 10/1,unknown,Wildberries
+unknown,wildberries,село Стерлибашево Улица Тукаева 8,unknown,Wildberries
+unknown,wildberries,село Маячный Советская Улица 23,unknown,Wildberries
+unknown,wildberries,Сибай Улица Кирова 29,unknown,Wildberries
+unknown,wildberries,село Чекмагуш Улица Ленина 75а,unknown,Wildberries
+unknown,wildberries,село Нижегородка Улица Чапаева 26/1,unknown,Wildberries
+unknown,wildberries,село Карамалы Улица Хадии Давлетшиной 1д,unknown,Wildberries
+unknown,wildberries,село Шингак-Куль Западная Улица 3б,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Приютово Улица 50 Лет ВЛКСМ 12,unknown,Wildberries
+unknown,wildberries,Туймазы Улица Комарова 4,unknown,Wildberries
+unknown,wildberries,село Иглино Северная Улица 21,unknown,Wildberries
+unknown,wildberries,Белорецк Улица С. Кирова 66,unknown,Wildberries
+unknown,wildberries,Сибай Горная Улица 8к1,unknown,Wildberries
+unknown,wildberries,село Улькунды Улица 60 Лет Октября 80,unknown,Wildberries
+unknown,wildberries,село Миловка Кольцевая Улица 7,unknown,Wildberries
+unknown,wildberries,Уфа Бульвар Давлеткильдеева 5,unknown,Wildberries
+unknown,wildberries,деревня Чулпан Зелёная Улица 1а,unknown,Wildberries
+unknown,wildberries,Уфа Улица Суворова 73,unknown,Wildberries
+unknown,wildberries,Уфа Комсомольская Улица 106,unknown,Wildberries
+unknown,wildberries,село Иглино Улица Якутова 30в,unknown,Wildberries
+unknown,wildberries,Уфа Улица Гази Загитова 11/1,unknown,Wildberries
+unknown,wildberries,Благовещенск Улица Седова 116,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Чишмы Улица Кирова 3а,unknown,Wildberries
+unknown,wildberries,село Аксёново Улица Чехова 4,unknown,Wildberries
+unknown,wildberries,Сибай Улица Белова 3к1,unknown,Wildberries
+unknown,wildberries,Белорецк Улица В. Артамонова 46,unknown,Wildberries
+unknown,wildberries,Сибай Улица Матросова 15,unknown,Wildberries
+unknown,wildberries,Туймазы Полевая Улица 37г,unknown,Wildberries
+unknown,wildberries,Баймак Заводская Улица 14,unknown,Wildberries
+unknown,wildberries,Стерлитамак Революционная Улица 10,unknown,Wildberries
+unknown,wildberries,Уфа Молодёжный Бульвар 10,unknown,Wildberries
+unknown,wildberries,Уфа Черниковская Улица 16,unknown,Wildberries
+unknown,wildberries,село Иглино Улица Ворошилова 5/1,unknown,Wildberries
+unknown,wildberries,село Нагаево Заповедная Улица 55,unknown,Wildberries

@@ -1,0 +1,22 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4010,abc_pl,abc,,Gola,lubuskie,,PL,,,,abc,Q11683985
+10650,abc_pl,abc,,Łupice,lubuskie,,PL,,,,abc,Q11683985
+6625,abc_pl,abc,,Krążkowo,lubuskie,,PL,,,,abc,Q11683985
+14848,abc_pl,abc,,Tarnów Jezierny,lubuskie,,PL,,,,abc,Q11683985
+12962,groszek_pl,Groszek,,Sława,lubuskie,,PL,,,,Groszek,Q9280965
+CIO01M,paczkomat_inpost_pl,na parkingu OSP,,Ciosaniec,lubuskie,,PL,,https://inpost.pl/paczkomat-ciosaniec-cio01m-ciosaniec-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+LIPN01M,paczkomat_inpost_pl,Po lewej stronie od sklepu spożywczego.,,Lipinki,lubuskie,,PL,,https://inpost.pl/paczkomat-lipinki-lipn01m-lipinki-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+LUPI01M,paczkomat_inpost_pl,Przy sklepie spożywczym.,,Łupice,lubuskie,,PL,,https://inpost.pl/paczkomat-lupice-lupi01m-lupice-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+POP-SLW2,paczkomat_inpost_pl,KSIĘGARNIA HEWAZA STARY RYNEK,,Sława,lubuskie,,PL,,https://inpost.pl/paczkomat-slawa-pop-slw2-pl-rynek-paczkomaty-lubuskie,Mo-Fr 09:00-17:00; Sa 09:00-14:00,Paczkomat,Q110970254
+QPL01M,paczkomat_inpost_pl,Market Dino,,Krzepielów,lubuskie,,PL,,https://inpost.pl/paczkomat-krzepielow-qpl01m-krzepielow-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+SAA01M,paczkomat_inpost_pl,Przy sklepie Słoneczko,,Sława,lubuskie,,PL,,https://inpost.pl/paczkomat-slawa-saa01m-parkowa-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+SAA02M,paczkomat_inpost_pl,Market Dino,,Sława,lubuskie,,PL,,https://inpost.pl/paczkomat-slawa-saa02m-henryka-poboznego-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+SAA03M,paczkomat_inpost_pl,przy bocznej ścianie budynku marketu,,Sława,lubuskie,,PL,,https://inpost.pl/paczkomat-slawa-saa03m-obroncow-pokoju-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+SAA04M,paczkomat_inpost_pl,na parkingu,,Sława,lubuskie,,PL,,https://inpost.pl/paczkomat-slawa-saa04m-odrodzonego-wojska-polskiego-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+SAA204,paczkomat_inpost_pl,Przy sklepie Groszek,,Sława,lubuskie,,PL,,https://inpost.pl/paczkomat-slawa-saa204-odrodzonego-wojska-polskiego-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+SRT01M,paczkomat_inpost_pl,przed sklepem,,Stare Strącze,lubuskie,,PL,,https://inpost.pl/paczkomat-stare-stracze-srt01m-stare-stracze-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+312687,poczta_polska_pl,FUP Sława,,Kolsko,LUBUSKIE,,PL,+48 885 900 548,,,Poczta Polska,Q168833
+265335,poczta_polska_pl,UP Sława,,Sława,LUBUSKIE,,PL,+48 68 356 63 07,,,Poczta Polska,Q168833
+299014,poczta_polska_pl,AP Stare Strącze,,Stare Strącze,LUBUSKIE,,PL,+48 68 356 85 35,,,Poczta Polska,Q168833
+,visa,,,SŁAWA,LUBUSKIE,,PL,,,,,
+e4762d69c3729fc921cf57254e2fd1df,western_union,NAWA JAROSLAW CZOPEK,,Slawa,LUBUSKIE,,PL,+48 510 842 880,https://location.westernunion.com/pl/lubuskie/slawa/e4762d69c3729fc921cf57254e2fd1df,Mo-Fr 08:30-16:30,Western Union,Q861042

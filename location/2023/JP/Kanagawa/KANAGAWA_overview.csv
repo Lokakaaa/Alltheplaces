@@ -1,0 +1,57 @@
+City,Place Name,Zipcode,Name
+Shinagawa,audi,140-0004 Tokyo MINATO/SHIBUYA/SHINAGAWA (Share) Shinagawa Minami　Shinagawa 3-1-4,unknown,Audi Shinagawa
+Yokohama,audi,223-0066 Kanagawa KOUHOKU/KAWASAKI Yokohama Takata-nishi Kohoku-ku 1-14-13,unknown,Audi Yokohama Kohoku
+Yokohama,audi,223-0052 Kanagawa Yokohama Tsunashima Higashi Kouhoku-ku 4-2-1,unknown,Audi Approved Automobile Hiyoshi
+Yokohama,audi,234-0054 Kanagawa KOUNAN/YOKOSUKA Yokohama Konandai Konan-ku 8-36-21,unknown,Audi Konandai
+Yokohama,audi,245-0065 Kanagawa TOTSUKA/KAMAKURA Yokohama Higashi Matanocho Totsuka-ku 979,unknown,Audi Totsuka
+Hiratsuka,audi,254-0014 Kanagawa HIRATSUKA/ODAWARA Hiratsuka Shinomiya 5-9-1,unknown,Audi Shonan
+Yokohama,audi,231-0001 Kanagawa NAKA/HODOGAYA Yokohama Shinko Naka-ku 2-3-3,unknown,Audi Minato Mirai
+Yokohama,audi,231-0001 Kanagawa KANAGAWA Yokohama Shinko Naka-ku 2-3-3,unknown,Audi Approved Automobile Minato Mirai
+"Yokohama-city,",bmw_group,,unknown,"K.K.Motoren Shonan, Higashi-T otsuka"
+"Atsugi-city,",bmw_group,,unknown,"K.K. ALC Motoren, Atsugi"
+Odawara-city,bmw_group,,unknown,"K.K. ALC Motoren, BMW Premium Selec tion Odawara / MINI NEXT Odawara"
+"Sagamihara-city,",bmw_group,,unknown,"K.K. Murauchi Gaisha Center, Sagami ono"
+"Kawasaki-city,",bmw_group,,unknown,"Nicole Cars LLC, Aoba-Miyamae"
+"Fujisawa-city,",bmw_group,,unknown,"Weins Import Cars K.K., MINI NEXT S honan"
+"Hiratsuka-city,",bmw_group,,unknown,"K.K. ALC, MINI Hiratsuka"
+Yokohama-shi,bmw_group,,unknown,K.K.Techno Koshida / M.Kohoku Motorrad Kohoku
+Fujisawa city,bmw_group,,unknown,K.K. Motoren Shonan/M.Shonandai
+Yokohama-city,bmw_group,,unknown,K.K. Motoren Tomei-Yokohama BMW Pre mium Selection Mitsuzawa
+Hiratsuka-city,bmw_group,,unknown,K.K. Motorrad / Motorrad Hiratsuka Motorrad Hiratsuka
+"Yamato-city,",bmw_group,,unknown,"K.K.Motoren Shonan, Yamato/ BPS Yamato"
+"Yakohama-city,",bmw_group,,unknown,"Weins Import Cars K.K., MINI Konand ai"
+"Kanagawa-ku, Yokohama-City,",bmw_group,,unknown,"K.K. Motoren Tomei-Yokohama, Yokoha ma-Mitsuzawa"
+"Yokosuka-city,",bmw_group,,unknown,"K.K. Motoren Tomei-Yokohama, Yokosu ka"
+Sagamihara-shi,bmw_group,,unknown,K.K. Motorrad Ritmo / M.Sagamihara Motorrad Sagamihara
+Yokohama,botteg_aveneta,,unknown,Yokohama - Takashimaya
+YOKOHAMA,g_star_raw,,unknown,Yokohama
+Yokosuka,little_free_library,,unknown,Little Brown Box #64128 Yokosuka Kanagawa
+Zushi,little_free_library,,unknown,Fujio Miyachi #60304 Zushi Kanagawa
+Kamakura,little_free_library,,unknown,Toshiko Kakuda #109388 Kamakura Kanagawa
+Sagamihara,little_free_library,,unknown,Mariko Kuhara #70366 Sagamihara Kanagawa
+Yokohama city,orangetheory_fitness,,unknown,Aobadai
+Yokohama Aoba Ward,petit_bateau,,unknown,Petit Bateau Tama Plaza
+Yokohama Nishi Ward,petit_bateau,,unknown,Petit Bateau Sogo Yokohama
+Fujisawa-shi,travelex,next to JR Ticket Office JR EAST Fujisawa station Fujisawa 75 Fujisawa-shi 251-0052,unknown,Viewcard Currency Exchange Center JR Fujisawa Station branch
+"Yokohama-shi,",travelex,Yokohama Station East Exit Porta 2-16-B1 Takashima Nishi-ku Yokohama-shi 220-0011,unknown,Yokohama Porta
+"Nishi-kuYokohama-shi,",travelex,Keikyu Yokohama Station 2-16-1 Takashima Nishi-kuYokohama-shi 220-0011,unknown,KEIKU YOKOHAMA
+"Yokohama-shi,",travelex,1F Sky Bldg. 2-19-12 Takashima Nishi-ku  Yokohama-shi 220-0011,unknown,YOKOHAMA MONEY TRANSFER PLAZA
+Kawasaki-shi,travelex,28 Ekimaehoncho Kawasaki-ku Kawasaki-shi 210-0007,unknown,Kawasaki
+unknown,verve_coffee_roasters,1 Chome-10-8 Yukinoshita Kamakura Kanagawa 248-0005,unknown,Verve Coffee Roasters
+ATSUGI-SHI,visa,,unknown,unknown
+EBINA-SHI,visa,,unknown,unknown
+YAMATO-SHI,visa,,unknown,unknown
+HIRATSUKA-SHI,visa,,unknown,unknown
+CHIGASAKI-SHI,visa,,unknown,unknown
+FUJISAWA-SHI,visa,,unknown,unknown
+KAMAKURA-SHI,visa,,unknown,unknown
+YOKOHAMA,visa,,unknown,unknown
+YOKOSUKA-SHI,visa,,unknown,unknown
+Yokohama,western_union,,unknown,KANTEI KYOKU YOKOHAMA KOUNAN STORE
+Yokosuka Shi,western_union,,unknown,JTA J MARKET YOKOSUKA MORES CITY TEN
+Hiratsuka,western_union,,unknown,ACTIVE JAPAN
+Hiratsuka Shi,western_union,,unknown,JTA PAWNSHOP KATO
+Yokohama Shi,western_union,,unknown,JTA J MARKET SOTETSUYOKOHAMAEKI
+Kawasaki Shi,western_union,,unknown,JTA J MARKET KAWASAKI AZALEA TEN
+Sagamihara Shi,western_union,,unknown,DSK SAGAMIHARA SHICHITEN CO LT
+Aikou,western_union,,unknown,SABOR LATINO

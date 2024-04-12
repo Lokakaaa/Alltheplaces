@@ -1,0 +1,18 @@
+City,Place Name,Zipcode,Name
+Gifu,audi,502-0936 Gifu GIFU/ OGAKI Gifu Kayaba Minami 1-1-22,unknown,Audi Gifu
+Gifu,audi,502-0936 Gifu Gifu Kayaba Minami 1-1-22,unknown,Audi Approved Automobile Gifu
+Takayama,audi,506-0825 Gifu GIFU/ OGAKI Takayama Ishiuramachi 5-93,unknown,Audi Approved Automobile Takayama
+Ogaki,audi,503-0803 Gifu GIFU/ OGAKI Ogaki Kono 3-100,unknown,Audi Ogaki*
+Tajimi,audi,507-0053 Gifu TAJIMI Tajimi Wakamatsucho 4-1-11,unknown,Audi Tajimi
+Tajimi,audi,507-0053 Gifu GIFU Tajimi Wakamatsucho 4-1-11,unknown,Audi Approved Automobile Tajimi
+"Ogaki-city,",bmw_group,,unknown,"K.K. Meitetsu AUTO, Ogaki"
+"Gifu-city,",bmw_group,,unknown,"K.K. Meitetsu AUTO, Gifu"
+Gifu-city,bmw_group,,unknown,K.K. Champion 76 / M Gifu Motorrad Gifu
+Ogaki-city,bmw_group,,unknown,"K.K. KM Corporation, MINI NEXT Ogak i"
+"Tajimi-city,",bmw_group,,unknown,"K.K. KM Corporation, MINI Tajimi"
+"Hashima-gun,",bmw_group,,unknown,"K.K. Meitetsu AUTO, BPS Gifu"
+GIFU-SHI,visa,,unknown,unknown
+TAJIMI-SHI,visa,,unknown,unknown
+Gifu,western_union,,unknown,AMIGO S
+Kagamigahara Shi,western_union,,unknown,DSK AVANCE
+Kani,western_union,,unknown,SAKURA SUPPORT

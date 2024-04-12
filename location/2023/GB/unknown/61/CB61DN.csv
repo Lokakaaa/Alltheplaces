@@ -1,0 +1,4 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+/services/dentist/ccs-dental-service/V170213,nhs_england_gb,CCS Dental Service,"Lynn Road, Ely, Cambridgeshire",,,,GB,,https://www.nhs.uk/services/dentist/ccs-dental-service/V170213,,NHS England,Q16251481
+/services/dentist/anglia-orthodontics/V022127,nhs_england_gb,Anglia Orthodontics,"Dental Services, Princess of Wales Hospital, Lynn Road, Ely",,,,GB,+44 1223 305526,https://www.angliaorthodontics.co.uk/,,NHS England,Q16251481
+17599,pod_point,Princess of Wales Hospital,,Ely,,,GB,,,,Pod Point,Q42888154

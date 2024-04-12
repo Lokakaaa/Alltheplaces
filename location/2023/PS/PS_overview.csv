@@ -1,0 +1,142 @@
+State,Place Name,City,Establishments
+WESTBANK,audi,Baka El Garbia,1
+WESTBANK,audi,Beitunai,1
+WESTBANK,audi,Ramallah,1
+PALESTINE,bmw_group,Ramallah,1
+WESTBANK,ernst_young,Ramallah,1
+UNKNOWN,geox,GEOX NEW MAN AND LADY RAMALLAH,1
+UNKNOWN,geox,GEOX NEW MAN JENIN,1
+UNKNOWN,geox,GEOX NEW MAN SHOES NABLUS,1
+UNKNOWN,moneygram,RAMALLAH,12
+UNKNOWN,moneygram,GAZA,2
+UNKNOWN,moneygram,DEIR AL-BALAH,1
+UNKNOWN,moneygram,NABLUS,3
+UNKNOWN,moneygram,NUSIRAT,1
+UNKNOWN,moneygram,JENIN,1
+UNKNOWN,moneygram,KHANYOUNIS,1
+UNKNOWN,moneygram,HEBRON,15
+UNKNOWN,moneygram,KHAN YUNIS,1
+UNKNOWN,moneygram,AL BEIREH,1
+UNKNOWN,moneygram,JERICHO,1
+UNKNOWN,moneygram,NABUS,1
+UNKNOWN,moneygram,QALQILYA,1
+UNKNOWN,moneygram,SALFEET,1
+UNKNOWN,moneygram,TULKARM,1
+UNKNOWN,moneygram,BETHLEHEM,5
+UNKNOWN,moneygram,TOUL KAREM,1
+UNKNOWN,moneygram,BEIT SAHOOR,1
+UNKNOWN,moneygram,AL-BIREH,2
+UNKNOWN,moneygram,TURMUSAYYA,1
+ישראל,nissan_europe,ירושלים,1
+ישראל,nissan_europe,unknown,1
+ישראל,nissan_europe,מעלה אדומים,1
+UNKNOWN,united_colors_of_benetton,RAWABI,1
+GAZASTRIP,visa,RAFAH,2
+GAZASTRIP,visa,KHAN YUNIS,1
+GAZASTRIP,visa,BANE SOHILA,1
+GAZASTRIP,visa,DAYR AL BALAH,2
+GAZASTRIP,visa,NUSAYRAT,1
+GAZASTRIP,visa,GHAZZAH,18
+GHAZZAH,visa,GHAZZAH,1
+GAZASTRIP,visa,GAZA,1
+GAZASTRIP,visa,JABALIYA,4
+GAZASTRIP,visa,BAYT HANUN,1
+WESTBANK,visa,HEBRON,15
+WESTBANK,visa,AL KHALIL,10
+WESTBANK,visa,BAYT LAHM,6
+WESTBANK,visa,DURA,3
+WESTBANK,visa,BEDO,1
+WESTBANK,visa,YATTAH,1
+UNKNOWN,visa,HEBRON,1
+WESTBANK,visa,RAMALLAH-AL BIREH,33
+WESTBANK,visa,SIIR,1
+WESTBANK,visa,BETHLAHEM,7
+UNKNOWN,visa,BETHLAHEM,2
+WESTBANK,visa,TULKARM,3
+WESTBANK,visa,BAYT JALA,1
+WESTBANK,visa,JENIN,8
+WESTBANK,visa,BEIT JALA,1
+WESTBANK,visa,RAM ALLAH,29
+WESTBANK,visa,ALSAMOOA,1
+WESTBANK,visa,NILIN,1
+WESTBANK,visa,JERUSALEM,3
+WESTBANK,visa,ABU DIS,2
+WESTBANK,visa,BETHANY / EZARIYA,3
+WESTBANK,visa,AL AYZARIYAH,1
+WESTBANK,visa,BI''R NABALA,1
+WESTBANK,visa,JERICHO,4
+WESTBANK,visa,BAYTUNIYA,1
+WESTBANK,visa,AL-RAM,1
+JERUSALEM,visa,JERUSALEM,1
+WESTBANK,visa,BI''R ZAYT,2
+WESTBANK,visa,QALQILYAH,4
+WESTBANK,visa,QALQILIYA,3
+WESTBANK,visa,GHAZZAH,1
+WESTBANK,visa,SALFIT,3
+UNKNOWN,visa,RAMALLAH-AL BIREH,1
+WESTBANK,visa,BIRZEIT / RAMALLAH,2
+WESTBANK,visa,BEDIA,1
+WESTBANK,visa,SALFEET,3
+WESTBANK,visa,DAYR DIBWAN,1
+WESTBANK,visa,SILWAD,1
+WESTBANK,visa,ARIHA,3
+WESTBANK,visa,TULKAREM,8
+WESTBANK,visa,TURMUS AYYA,1
+WESTBANK,visa,HUWARAH,1
+WESTBANK,visa,NABLUS,14
+WESTBANK,visa,NABULUS,10
+WESTBANK,visa,RAFIDYAH,1
+WESTBANK,visa,JANIN,5
+WESTBANK,visa,BAYT FURIK,1
+WESTBANK,visa,YABAD,1
+WESTBANK,visa,MAYTHALUN,1
+WESTBANK,visa,QABATIYAH,1
+WESTBANK,visa,TUBAS,3
+WESTBANK,visa,AZ ZABABIDAH,1
+WESTBANK,visa,AL YAMUN,1
+BETHLEHEM,western_union,Bethlehem,20
+BETHLEHEM,western_union,Beit Jala,2
+BETHLEHEM,western_union,Hossan,1
+RAMALLAHANDALBIREH,western_union,Ramallah,60
+HEBRON,western_union,Hebron,30
+HEBRON,western_union,Seir Ras Al Awwad,1
+BETHLEHEM,western_union,Beit Omar,1
+HEBRON,western_union,Halhoul,2
+HEBRON,western_union,Bany Neim,1
+HEBRON,western_union,Yatta,2
+HEBRON,western_union,Dura,2
+QALQILYA,western_union,Qalqilya,5
+GAZA,western_union,Beit Lahya,1
+RAMALLAHANDALBIREH,western_union,Dhahriyah,1
+GAZA,western_union,Al Rimal,4
+GAZA,western_union,Gaza,25
+KHANYUNIS,western_union,Khan Yunis,6
+DEIRALBALAH,western_union,Deir Al Balah,3
+GAZA,western_union,Nuseirat,3
+GAZA,western_union,Rafah,4
+GAZA,western_union,Alsheikh Radwan,1
+GAZA,western_union,Jabalia,1
+JERUSALEM,western_union,Beit Sahour,1
+JERUSALEM,western_union,Abu Dias,1
+JERUSALEM,western_union,Bethany,1
+JERUSALEM,western_union,Jerusalem,9
+JENIN,western_union,Jenin,21
+RAMALLAHANDALBIREH,western_union,Hebron,1
+RAMALLAHANDALBIREH,western_union,Al Bireh,4
+RAMALLAHANDALBIREH,western_union,Beir Nabala,1
+RAMALLAHANDALBIREH,western_union,Birzeit,1
+TULKARM,western_union,Tulkarm,13
+JERICHO,western_union,Jericho,8
+RAMALLAHANDALBIREH,western_union,Rawabi,1
+NABLUS,western_union,Salfit,1
+SALFIT,western_union,Bedya,1
+SALFIT,western_union,Salfit,4
+RAMALLAHANDALBIREH,western_union,Turmus Ayya,2
+RAMALLAHANDALBIREH,western_union,Salfit,1
+NABLUS,western_union,Nablus,33
+NABLUS,western_union,Howarra,1
+TULKARM,western_union,Atteel,1
+TULKARM,western_union,Anabta,2
+RAMALLAHANDALBIREH,western_union,Nablus,1
+NABLUS,western_union,Rafedia,1
+TUBAS,western_union,Tubas,2

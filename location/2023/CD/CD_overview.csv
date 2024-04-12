@@ -1,0 +1,200 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+LUBUMBASHI,avis,Lubumbashi,2
+KINSHASA,avis,Kinshasa,1
+BDDU30JUINBP16198,avis,Kinshasa,1
+LUBUMBASHI,deloitte,unknown,1
+BRAZZAVILLE,deloitte,unknown,1
+UNKNOWN,hilton,unknown,1
+01,hugo_boss,Kinshasa,1
+UNKNOWN,man_truck_and_bus,Lubumbashi,1
+UNKNOWN,moneygram,KINSHASA,892
+UNKNOWN,moneygram,TSHIKAPA,2
+UNKNOWN,moneygram,SAKANIA,4
+UNKNOWN,moneygram,BUNIA,8
+UNKNOWN,moneygram,BANDUNDU,4
+UNKNOWN,moneygram,KIMPESE,7
+UNKNOWN,moneygram,BUMBA,1
+UNKNOWN,moneygram,KOLWEZI,25
+UNKNOWN,moneygram,CITE DE WATSA,1
+UNKNOWN,moneygram,MBUJI-MAYI,8
+UNKNOWN,moneygram,LUBUMBASHI,115
+UNKNOWN,moneygram,IDIOFA,1
+UNKNOWN,moneygram,MANONO,1
+UNKNOWN,moneygram,KENGE,1
+UNKNOWN,moneygram,KIKWIT,5
+UNKNOWN,moneygram,MATADI,27
+UNKNOWN,moneygram,GOMA,72
+UNKNOWN,moneygram,BENI,5
+UNKNOWN,moneygram,BOMA,11
+UNKNOWN,moneygram,BUKAVU,42
+UNKNOWN,moneygram,KANANGA,7
+UNKNOWN,moneygram,KASUMBALESA,4
+UNKNOWN,moneygram,LIKASI,7
+UNKNOWN,moneygram,KISANGANI,14
+UNKNOWN,moneygram,MOANDA,6
+UNKNOWN,moneygram,MBANDAKA,3
+UNKNOWN,moneygram,MUJI MAYI,1
+UNKNOWN,moneygram,UVIRA,8
+UNKNOWN,moneygram,KINDU,3
+UNKNOWN,moneygram,BUTEMBO,7
+UNKNOWN,moneygram,95 AV SENDWE Q TABORA LUBUMBASHI,1
+UNKNOWN,moneygram,SONGOLOLO,1
+UNKNOWN,moneygram,KINSHASA/NGALIEMA,1
+UNKNOWN,moneygram,KWILU-NGONGO,1
+UNKNOWN,moneygram,YEMA,1
+UNKNOWN,moneygram,MOBA,1
+UNKNOWN,moneygram,EQUATEUR,1
+UNKNOWN,moneygram,LUSAMBO,1
+UNKNOWN,moneygram,INGA,2
+UNKNOWN,moneygram,LODJA,1
+UNKNOWN,moneygram,KALEMIE,8
+UNKNOWN,moneygram,DURBA,2
+UNKNOWN,moneygram,GEMENA,2
+UNKNOWN,moneygram,KAMBOVE,2
+UNKNOWN,moneygram,KASANGULU,1
+UNKNOWN,moneygram,KISANTU,1
+UNKNOWN,moneygram,KATANGA,1
+UNKNOWN,moneygram,MUANDA,1
+UNKNOWN,moneygram,KIPUSHI,1
+UNKNOWN,moneygram,WATSA,2
+UNKNOWN,moneygram,MBANZA NGUNGU,1
+UNKNOWN,moneygram,FUNGURUME,2
+UNKNOWN,moneygram,COMMUNE DE KANANGA,1
+UNKNOWN,moneygram,LUKALA,1
+UNKNOWN,moneygram,MBUJI MAYI,3
+UNKNOWN,moneygram,KASINDI,2
+UNKNOWN,moneygram,BARAKA,3
+UNKNOWN,moneygram,BUTA,1
+UNKNOWN,moneygram,MBANZA-NGUNGU,2
+UNKNOWN,moneygram,KANZALA,1
+UNKNOWN,moneygram,ISIRO,2
+UNKNOWN,moneygram,LUFU,2
+UNKNOWN,moneygram,GOMBE,1
+UNKNOWN,moneygram,KINKOLE,1
+UNKNOWN,moneygram,MWANDA,1
+UNKNOWN,moneygram,MAHAGI,1
+UNKNOWN,moneygram,MASISI,1
+UNKNOWN,moneygram,KAKANDA,1
+UNKNOWN,moneygram,KAMINA,1
+UNKNOWN,moneygram,KIPUISHI,1
+UNKNOWN,moneygram,MASI-MANIMBA,1
+UNKNOWN,moneygram,BADUNDU,1
+UNKNOWN,moneygram,BOTEMBO,1
+UNKNOWN,moneygram,LISALA,1
+UNKNOWN,moneygram,GBADOLITE,1
+UNKNOWN,moneygram,TSHELA,1
+UNKNOWN,totalenergies,KINSHASA,59
+UNKNOWN,totalenergies,LUBUMBASHI,7
+UNKNOWN,totalenergies,KOLWEZI,3
+UNKNOWN,totalenergies,MATADI,4
+UNKNOWN,totalenergies,BANDUNDU,2
+UNKNOWN,totalenergies,KIMPESE,2
+UNKNOWN,totalenergies,KINSAHSA,1
+UNKNOWN,totalenergies,Matadi,2
+UNKNOWN,totalenergies,Kinshasa,32
+UNKNOWN,totalenergies,Lubumbashi,4
+UNKNOWN,totalenergies,Kimpese,1
+UNKNOWN,totalenergies,Kenge,1
+UNKNOWN,totalenergies,Kolwezi,2
+UNKNOWN,totalenergies,kinshasa,1
+UNKNOWN,totalenergies,KIKWIT,1
+BASCONGO,visa,BOMA,1
+BASCONGO,visa,MATADI,1
+KINSHASA,visa,KINSHASA,52
+BASCONGO,visa,MBANZA-NGUNGU,1
+KONGOCENTRAL,western_union,Kongo Central,11
+EQUATEUR,western_union,Mbandaka,2
+KONGOCENTRAL,western_union,Luozi,2
+KONGOCENTRAL,western_union,Lufu,2
+KONGOCENTRAL,western_union,00559687o,1
+KINSHASA,western_union,Kinshasa,1056
+KONGOCENTRAL,western_union,Kimpese,5
+KONGOCENTRAL,western_union,Lukala,1
+KONGOCENTRAL,western_union,Matadi,35
+SUDUBANGI,western_union,Zongo,1
+KONGOCENTRAL,western_union,Moanda,6
+KONGOCENTRAL,western_union,Kongo Centrale,5
+NORDKIVU,western_union,Nord Kivu,15
+KWANGO,western_union,Kinshasa,1
+HAUTKATANGA,western_union,Lubumbashi,116
+HAUTLOMAMI,western_union,Kinshasa,2
+KINSHASA,western_union,Kinkanda,1
+KINSHASA,western_union,Ndjili,1
+KINSHASA,western_union,Kin,1
+KINSHASA,western_union,Lingwala,1
+NORTHKIVU,western_union,Nord Kivu,25
+KINSHASA,western_union,Kalamu,1
+KINSHASA,western_union,Gombe,2
+NORTHKIVU,western_union,Goma,39
+KINSHASA,western_union,Limete,1
+KINSHASA,western_union,Lemba,1
+HAUTKATANGA,western_union,Kasumbalesa,3
+SOUTHKIVU,western_union,Bukavu,34
+LUALABA,western_union,Kolwezi,12
+KINSHASA,western_union,Bandalungwa,2
+KINSHASA,western_union,Ngaliema,4
+KWILU,western_union,Idiofa,1
+KWILU,western_union,Kikwit,4
+KINSHASA,western_union,Mont Ngafula,2
+KONGOCENTRAL,western_union,Mbanza Ngungu,2
+KONGOCENTRAL,western_union,Boma,7
+TANGANYIKA,western_union,Kalemie,7
+KONGOCENTRAL,western_union,Kasangulu,2
+KONGOCENTRAL,western_union,Inga,1
+KONGOCENTRAL,western_union,Inkisi,1
+KONGOCENTRALE,western_union,Matadi,2
+KONGOCENTRAL,western_union,Mbanza-ngungu,1
+KWILU,western_union,Bandundu,2
+KASAICENTRAL,western_union,Tshikapa,1
+KASAI,western_union,Kasai Occidental,1
+KASAICENTRAL,western_union,Commune De Kananga,1
+KASAI,western_union,Kasai,1
+KASAICENTRAL,western_union,Kananga,4
+TSHOPO,western_union,Tshopo,1
+KASAIORIENTAL,western_union,Mbuji Mayi,6
+KASAIORIENTAL,western_union,Mbuji-mayi,1
+KASAIORIENTAL,western_union,Kasai Oriental,5
+KASAICENTRAL,western_union,Mbuji Mayi,1
+HAUTKATANGA,western_union,Haut Katanga,22
+NORTHKIVU,western_union,Butembo,4
+KONGOCENTRAL,western_union,Tanganyika,1
+HAUTKATANGA,western_union,Kalemie,1
+HAUTKATANGA,western_union,Likasi,7
+ITURI,western_union,Ituri,2
+HAUTUELE,western_union,Durba,1
+HAUTUELE,western_union,Watsa,1
+ITURI,western_union,Kisangani,1
+ITURI,western_union,Aru,1
+SOUTHKIVU,western_union,Uvira,12
+LUALABA,western_union,Lualaba,8
+HAUTKATANGA,western_union,Kolwezi,4
+HAUTUELE,western_union,Kolwezi,2
+HAUTKATANGA,western_union,Sakania,2
+UNKNOWN,western_union,Kolwezi,2
+KATANGA,western_union,Katanga,17
+HAUTKATANGA,western_union,Kipushi,1
+LUALABA,western_union,Fungurume,1
+HAUTKATANGA,western_union,Kinshasa,1
+HAUTLOMAMI,western_union,Kamina,1
+EQUATEUR,western_union,Lubumbashi,2
+KINSHASA,western_union,Lubumbashi,2
+HAUTKATANGA,western_union,Katanga,4
+UNKNOWN,western_union,Lubumbashi,1
+ITURI,western_union,Bunia,7
+NORTHKIVU,western_union,Kasindi,1
+SOUTHKIVU,western_union,Ville D'uvira,1
+SUDKIVU,western_union,Sud Kivu,11
+SOUTHKIVU,western_union,Sud Kivu,17
+SUDKIVU,western_union,Bukavu,1
+SOUTHKIVU,western_union,Sud-kivu,2
+HAUTUELE,western_union,Isiro,1
+NORTHKIVU,western_union,Nord-kivu,10
+NORDKIVU,western_union,Goma,2
+SOUTHKIVU,western_union,Goma,1
+TSHOPO,western_union,Kisangani,8
+HAUTLOMAMI,western_union,Kisangani,2
+NORTHKIVU,western_union,Nord Kivi,1
+NORDKIVU,western_union,Bahunde,1
+ITURI,western_union,Mahahi,1
+NORTHKIVU,western_union,Beni,5

@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1354959,usps,BIGHORN,,BIGHORN,MT,,US,+1 406-856-4173,,"Mo-Fr 07:30-11:30,12:00-14:00; Sa 07:30-13:15",United States Postal Service,Q668687
+5901000002,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,138 BIGHORN RD,BIGHORN,MT,,US,,,,United States Postal Service,Q668687
+5901000000,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,138 BIGHORN RD,BIGHORN,MT,,US,,,,United States Postal Service,Q668687
+,visa,,,BIGHORN,MT,,US,,,,,

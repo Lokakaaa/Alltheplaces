@@ -1,0 +1,16 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4421,abc_pl,abc,,Kotowa Wola,podkarpackie,,PL,,,,abc,Q11683985
+4422,abc_pl,abc,,Kotowa Wola,podkarpackie,,PL,,,,abc,Q11683985
+8915,abc_pl,abc,,Kępie Zaleszańskie,podkarpackie,,PL,,,,abc,Q11683985
+6784,groszek_pl,Groszek,,Turbia,podkarpackie,,PL,,,,Groszek,Q9280965
+12956,groszek_pl,Groszek,,Kępie Zaleszańskie,podkarpackie,,PL,,,,Groszek,Q9280965
+6785,groszek_pl,Groszek,,Zaleszany,podkarpackie,,PL,,,,Groszek,Q9280965
+KPZ01M,paczkomat_inpost_pl,Przy Sklepie Groszek,,Kępie Zaleszańskie,podkarpackie,,PL,,https://inpost.pl/paczkomat-kepie-zaleszanskie-kpz01m-jana-pawla-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+SQW01M,paczkomat_inpost_pl,Przy sklepie Abc,,Skowierzyn,podkarpackie,,PL,,https://inpost.pl/paczkomat-skowierzyn-sqw01m-skowierzyn-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+XTW01M,paczkomat_inpost_pl,Parking,,Kotowa Wola,podkarpackie,,PL,,https://inpost.pl/paczkomat-kotowa-wola-xtw01m-kotowa-wola-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ZLZ01E,paczkomat_inpost_pl,Przy sklepie Groszek,,Zaleszany,podkarpackie,,PL,,https://inpost.pl/paczkomat-zaleszany-zlz01e-kosciuszki-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ZYD01M,paczkomat_inpost_pl,Parking,,Zbydniów,podkarpackie,,PL,,https://inpost.pl/paczkomat-zbydniow-zyd01m-sandomierska-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+ZYD02M,paczkomat_inpost_pl,"Przy  sklepie metalowym ""u Krasonia""",,Zbydniów,podkarpackie,,PL,,https://inpost.pl/paczkomat-zbydniow-zyd02m-sandomierska-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+276523,poczta_polska_pl,UP Zaleszany,,Zaleszany,PODKARPACKIE,,PL,+48 15 845 94 53,,,Poczta Polska,Q168833
+304498,poczta_polska_pl,AP Zbydniów,,Zbydniów,PODKARPACKIE,,PL,+48 601 707 223,,,Poczta Polska,Q168833
+,visa,,,ZALESZANY,PODKARPACKIE,,PL,,,,,

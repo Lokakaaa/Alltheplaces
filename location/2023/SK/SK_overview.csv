@@ -1,0 +1,2219 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+UNKNOWN,action,Spišská Nová Ves,1
+UNKNOWN,action,Bratislava,2
+UNKNOWN,action,Zvolen,1
+UNKNOWN,action,Topoľčany,1
+UNKNOWN,action,Martin,1
+UNKNOWN,action,Trnava,1
+UNKNOWN,action,Michalovce,1
+UNKNOWN,alamo,Bratislava,1
+UNKNOWN,alamo,Kosice,1
+BRATISLAVSKY,audi,Bratislava,4
+ZILINSKY,audi,Martin,1
+PRESOVSKY,audi,Prešov,1
+ZILINSKY,audi,Žilina,1
+TRNAVSKY,audi,Trnava,1
+TRENCIANSKY,audi,Trenčín,1
+TRENCIANSKY,audi,Považská Bystrica,1
+KOSICKY,audi,Košice,2
+NITRIANSKY,audi,Nové Zámky,1
+PRESOVSKY,audi,Poprad,1
+NITRIANSKY,audi,Nitra,1
+BANSKOBYSTRICKY,audi,Banská Bystrica,1
+TRNAVSKY,audi,Dunajská Streda,1
+UNITEDRENTALGROUPSRO,avis,Bratislava,2
+BRATISLAVA,avis,Bratislava,1
+PRESOV,avis,Presov,1
+IVANSKACESTARUZINOV,avis,Bratislava,1
+MALEUHERCE,avis,Male Uherce,1
+GALANTA,avis,Galanta,1
+UNKNOWN,best_in_parking,unknown,1
+BANSKOBYSTRICKÝKRAJ,billa,Zvolen,4
+TRENČIANSKYKRAJ,billa,Nové Mesto N/V,1
+ŽILINSKÝKRAJ,billa,Žilina,3
+BRATISLAVSKÝKRAJ,billa,Bratislava,26
+TRNAVSKÝKRAJ,billa,Trnava,6
+PREŠOVSKÝKRAJ,billa,Bardejov,1
+NITRIANSKYKRAJ,billa,Šahy,1
+PREŠOVSKÝKRAJ,billa,Prešov,2
+NITRIANSKYKRAJ,billa,Nitra,3
+NITRIANSKYKRAJ,billa,Štúrovo,2
+NITRIANSKYKRAJ,billa,Topoľčany,2
+BANSKOBYSTRICKÝKRAJ,billa,Ziar Nad Hronom,1
+BANSKOBYSTRICKÝKRAJ,billa,Lučenec,4
+BANSKOBYSTRICKÝKRAJ,billa,Fiľakovo,1
+TRNAVSKÝKRAJ,billa,Piešťany,3
+BANSKOBYSTRICKÝKRAJ,billa,Krupina,1
+BRATISLAVSKÝKRAJ,billa,Senec,2
+NITRIANSKYKRAJ,billa,Komárno,3
+TRENČIANSKYKRAJ,billa,Partizánske,2
+PREŠOVSKÝKRAJ,billa,Vranov N/T,1
+ŽILINSKÝKRAJ,billa,Martin,3
+TRNAVSKÝKRAJ,billa,Skalica,1
+ŽILINSKÝKRAJ,billa,Cadca,1
+BANSKOBYSTRICKÝKRAJ,billa,Rimavská Sobota,1
+NITRIANSKYKRAJ,billa,Levice,3
+ŽILINSKÝKRAJ,billa,Kysucké Nové Mesto,1
+TRENČIANSKYKRAJ,billa,Púchov,1
+BANSKOBYSTRICKÝKRAJ,billa,Žarnovica,1
+BRATISLAVSKÝKRAJ,billa,Stupava,1
+NITRIANSKYKRAJ,billa,Nové Zámky,2
+ŽILINSKÝKRAJ,billa,Bytča,1
+ŽILINSKÝKRAJ,billa,Dolný Kubín,1
+TRNAVSKÝKRAJ,billa,Veľký Meder,1
+BANSKOBYSTRICKÝKRAJ,billa,Brezno,1
+BANSKOBYSTRICKÝKRAJ,billa,Banská Bystrica,4
+BRATISLAVSKÝKRAJ,billa,Miloslavov,1
+ŽILINSKÝKRAJ,billa,Námestovo,1
+ŽILINSKÝKRAJ,billa,Trstená,1
+BRATISLAVSKÝKRAJ,billa,Modra,1
+BANSKOBYSTRICKÝKRAJ,billa,Žiar Nad Hronom,1
+TRNAVSKÝKRAJ,billa,Sereď,2
+BANSKOBYSTRICKÝKRAJ,billa,Revúca,1
+ŽILINSKÝKRAJ,billa,Ružomberok,2
+KOŠICKÝKRAJ,billa,Košice,7
+NITRIANSKYKRAJ,billa,Šaľa,1
+TRNAVSKÝKRAJ,billa,Senica,1
+KOŠICKÝKRAJ,billa,Moldava Nad Bodvou,1
+ŽILINSKÝKRAJ,billa,Zilina,3
+TRENČIANSKYKRAJ,billa,Trenčín,4
+TRNAVSKÝKRAJ,billa,Hlohovec,1
+BRATISLAVSKÝKRAJ,billa,Most Pri Bratislave,1
+TRENČIANSKYKRAJ,billa,Stará Turá,1
+ŽILINSKÝKRAJ,billa,Lipt. Mikuláš,1
+PREŠOVSKÝKRAJ,billa,Humenné,1
+PREŠOVSKÝKRAJ,billa,Svit,1
+KOŠICKÝKRAJ,billa,Michalovce,1
+ŽILINSKÝKRAJ,billa,Turzovka,1
+NITRIANSKYKRAJ,billa,Šurany,1
+BANSKOBYSTRICKÝKRAJ,billa,Poltár,1
+TRNAVSKÝKRAJ,billa,Galanta,1
+BRATISLAVSKÝKRAJ,billa,Bernolákovo,1
+BRATISLAVSKÝKRAJ,billa,Rovinka,1
+NITRIANSKYKRAJ,billa,Zlaté Moravce,1
+TRNAVSKÝKRAJ,billa,Dunajská Streda,2
+BANSKOBYSTRICKÝKRAJ,billa,Banská Štiavnica,1
+TRENČIANSKYKRAJ,billa,Dubnica Nad Váhom,1
+PREŠOVSKÝKRAJ,billa,Levoča,1
+KOŠICKÝKRAJ,billa,Rožňava,1
+PREŠOVSKÝKRAJ,billa,Svidník,1
+NITRIANSKYKRAJ,billa,Želiezovce,1
+BANSKOBYSTRICKÝKRAJ,billa,Valaská,1
+ŽILINSKÝKRAJ,billa,Turčianske Teplice,1
+TRNAVSKÝKRAJ,billa,Samorín,1
+BRATISLAVSKÝKRAJ,billa,Malacky,1
+TRNAVSKÝKRAJ,billa,Holíč,1
+TRENČIANSKYKRAJ,billa,Bánovce N. Bebravou,1
+KOŠICKÝKRAJ,billa,Strážske,1
+KOŠICKÝKRAJ,billa,Spišská N/V,1
+BRATISLAVSKÝKRAJ,billa,Pezinok,1
+PREŠOVSKÝKRAJ,billa,Poprad,2
+BANSKOBYSTRICKÝKRAJ,billa,Dudince,1
+BANSKOBYSTRICKÝKRAJ,billa,Veľký Krtíš,1
+TRNAVSKÝKRAJ,billa,Kvetoslavov,1
+PREŠOVSKÝKRAJ,billa,Spisska Nova Ves,1
+PREŠOVSKÝKRAJ,billa,Kežmarok,1
+TRENČIANSKYKRAJ,billa,Handlová,1
+TRENČIANSKYKRAJ,billa,Ilava,1
+UNKNOWN,bmw_group,Dunajska Streda,1
+UNKNOWN,bmw_group,Trnava,1
+UNKNOWN,bmw_group,Bratislava,3
+SLOVAKIA,bmw_group,Bratislava,1
+UNKNOWN,bmw_group,Kosice,2
+UNKNOWN,bmw_group,Presov,1
+UNKNOWN,bmw_group,Zilina,1
+UNKNOWN,bmw_group,Trencianska Turna,1
+UNKNOWN,bmw_group,Nitra,1
+UNKNOWN,bmw_group,Banská Bystrica,1
+UNKNOWN,bmw_group,Banska Bystrica,1
+UNKNOWN,calvin_klein,Bratislava,3
+UNKNOWN,ccc,Bratislava,6
+UNKNOWN,ccc,Žilina,2
+UNKNOWN,ccc,Nitra,3
+UNKNOWN,ccc,Košice,4
+UNKNOWN,ccc,Dunajská Streda,1
+UNKNOWN,ccc,Piešťany,1
+UNKNOWN,ccc,Púchov,1
+UNKNOWN,ccc,Trenčín,1
+UNKNOWN,ccc,Prievidza,1
+UNKNOWN,ccc,Martin,2
+UNKNOWN,ccc,Topoľčany,1
+UNKNOWN,ccc,Humenné,1
+UNKNOWN,ccc,Levice,1
+UNKNOWN,ccc,Trnava,1
+UNKNOWN,ccc,Poprad,1
+UNKNOWN,ccc,Lučenec,1
+UNKNOWN,ccc,Liptovský Mikuláš,1
+UNKNOWN,ccc,Rimavská Sobota,1
+UNKNOWN,ccc,Považská Bystrica,1
+UNKNOWN,ccc,Ružomberok,1
+UNKNOWN,ccc,Senica,1
+UNKNOWN,ccc,Zvolen,1
+UNKNOWN,ccc,Banská Bystrica,2
+UNKNOWN,ccc,Brezno,1
+UNKNOWN,ccc,Bardějov,1
+UNKNOWN,ccc,Michalovce,1
+UNKNOWN,ccc,Pezinok,1
+UNKNOWN,ccc,Šamorín,1
+UNKNOWN,ccc,Kežmarok,1
+UNKNOWN,ccc,Komárno,1
+UNKNOWN,ccc,Prešov,1
+UNKNOWN,crocs_eu,Petržalka Bratislava,1
+UNKNOWN,c_and_a,Zilina,1
+UNKNOWN,c_and_a,Trnava,1
+UNKNOWN,c_and_a,Trencin,1
+UNKNOWN,c_and_a,Prievidza,1
+UNKNOWN,c_and_a,Prešov,1
+UNKNOWN,c_and_a,Poprad,1
+UNKNOWN,c_and_a,Nitra,1
+UNKNOWN,c_and_a,Martin,1
+UNKNOWN,c_and_a,Liptovsky Mikulas,1
+UNKNOWN,c_and_a,Kosice,2
+UNKNOWN,c_and_a,Bratislava,3
+UNKNOWN,c_and_a,Banska Bystrica,1
+ŽILINSKÝKRAJ,deichmann,Žilina,3
+ŽILINSKÝKRAJ,deichmann,Ružomberok,1
+ŽILINSKÝKRAJ,deichmann,Námestovo,1
+ŽILINSKÝKRAJ,deichmann,Martin,1
+ŽILINSKÝKRAJ,deichmann,Liptovský Mikuláš,1
+ŽILINSKÝKRAJ,deichmann,Dolný Kubín,1
+ŽILINSKÝKRAJ,deichmann,Čadca,1
+ŽILINSKÝKRAJ,deichmann,Bytča,1
+TRNAVSKÝKRAJ,deichmann,Trnava,3
+TRNAVSKÝKRAJ,deichmann,Skalica,1
+TRNAVSKÝKRAJ,deichmann,Sereď,1
+TRNAVSKÝKRAJ,deichmann,Senica,1
+TRNAVSKÝKRAJ,deichmann,Šamorín,1
+TRNAVSKÝKRAJ,deichmann,Piešťany,1
+TRNAVSKÝKRAJ,deichmann,Hlohovec,1
+TRNAVSKÝKRAJ,deichmann,Galanta,1
+TRNAVSKÝKRAJ,deichmann,Dunajská Streda,1
+TRENČIANSKYKRAJ,deichmann,Trenčín,1
+TRENČIANSKYKRAJ,deichmann,Púchov,1
+TRENČIANSKYKRAJ,deichmann,Prievidza,2
+TRENČIANSKYKRAJ,deichmann,Považská Bystrica,1
+TRENČIANSKYKRAJ,deichmann,Partizánske,1
+TRENČIANSKYKRAJ,deichmann,Nové Mesto nad Váhom,1
+TRENČIANSKYKRAJ,deichmann,Myjava,1
+TRENČIANSKYKRAJ,deichmann,Dubnica nad Váhom,1
+TRENČIANSKYKRAJ,deichmann,Bánovce nad Bebravou,1
+PREŠOVSKÝKRAJ,deichmann,Vranov nad Topľou,1
+PREŠOVSKÝKRAJ,deichmann,Stará Ľubovňa,1
+PREŠOVSKÝKRAJ,deichmann,Snina,1
+PREŠOVSKÝKRAJ,deichmann,Sabinov,1
+PREŠOVSKÝKRAJ,deichmann,Prešov,2
+PREŠOVSKÝKRAJ,deichmann,Poprad,2
+PREŠOVSKÝKRAJ,deichmann,Humenné,1
+PREŠOVSKÝKRAJ,deichmann,Bardejov,1
+NITRIANSKYKRAJ,deichmann,Zlaté Moravce,1
+NITRIANSKYKRAJ,deichmann,Topoľčany,1
+NITRIANSKYKRAJ,deichmann,Štúrovo,1
+NITRIANSKYKRAJ,deichmann,Šaľa-Veča,1
+NITRIANSKYKRAJ,deichmann,Nové Zámky,1
+NITRIANSKYKRAJ,deichmann,Nitra,3
+NITRIANSKYKRAJ,deichmann,Levice,1
+NITRIANSKYKRAJ,deichmann,Komárno,1
+KOŠICKÝKRAJ,deichmann,Trebišov,1
+KOŠICKÝKRAJ,deichmann,Spišská Nová Ves,1
+KOŠICKÝKRAJ,deichmann,Rožňava,1
+KOŠICKÝKRAJ,deichmann,Michalovce,1
+KOŠICKÝKRAJ,deichmann,Košice,3
+KOŠICKÝKRAJ,deichmann,Košice-Nad jazerom,1
+BRATISLAVSKÝKRAJ,deichmann,Senec,1
+BRATISLAVSKÝKRAJ,deichmann,Pezinok,1
+BRATISLAVSKÝKRAJ,deichmann,Malacky,1
+BRATISLAVSKÝKRAJ,deichmann,Bratislava,7
+BANSKOBYSTRICKÝKRAJ,deichmann,Zvolen,1
+BANSKOBYSTRICKÝKRAJ,deichmann,Žiar nad Hronom,1
+BANSKOBYSTRICKÝKRAJ,deichmann,Veľký Krtíš,1
+BANSKOBYSTRICKÝKRAJ,deichmann,Rimavská Sobota,1
+BANSKOBYSTRICKÝKRAJ,deichmann,Lučenec,1
+BANSKOBYSTRICKÝKRAJ,deichmann,Detva,1
+BANSKOBYSTRICKÝKRAJ,deichmann,Brezno,1
+BANSKOBYSTRICKÝKRAJ,deichmann,Banská Bystrica,2
+UNKNOWN,dm,Banská Bystrica,6
+UNKNOWN,dm,Levice,2
+UNKNOWN,dm,Trnava,5
+UNKNOWN,dm,Poprad,3
+UNKNOWN,dm,Handlová,1
+UNKNOWN,dm,Čadca,2
+UNKNOWN,dm,Prievidza,2
+UNKNOWN,dm,Malacky,1
+UNKNOWN,dm,Partizánske,1
+UNKNOWN,dm,Svidník,1
+UNKNOWN,dm,Nitra,6
+UNKNOWN,dm,Brezno,1
+UNKNOWN,dm,Košice,9
+UNKNOWN,dm,Bratislava,27
+UNKNOWN,dm,Stará Ľubovňa,1
+UNKNOWN,dm,Pezinok,3
+UNKNOWN,dm,Martin,3
+UNKNOWN,dm,Kežmarok,1
+UNKNOWN,dm,Sabinov,1
+UNKNOWN,dm,Rovinka,1
+UNKNOWN,dm,Komárno,3
+UNKNOWN,dm,Námestovo,1
+UNKNOWN,dm,Žilina,5
+UNKNOWN,dm,Ľubotice,1
+UNKNOWN,dm,Senec,2
+UNKNOWN,dm,Nové Zámky,3
+UNKNOWN,dm,Stupava,1
+UNKNOWN,dm,Zvolen,3
+UNKNOWN,dm,Prešov,4
+UNKNOWN,dm,Topoľčany,3
+UNKNOWN,dm,Nové Mesto nad Váhom,2
+UNKNOWN,dm,Veľký Krtíš,1
+UNKNOWN,dm,Žiar nad Hronom,1
+UNKNOWN,dm,Piešťany,3
+UNKNOWN,dm,Ilava,1
+UNKNOWN,dm,Dunajská Streda,3
+UNKNOWN,dm,Bánovce nad Bebravou,1
+UNKNOWN,dm,Galanta,2
+UNKNOWN,dm,Hlohovec,2
+UNKNOWN,dm,Dubnica nad Váhom,2
+UNKNOWN,dm,Šamorín,2
+UNKNOWN,dm,Banská Štiavnica,1
+UNKNOWN,dm,Detva,1
+UNKNOWN,dm,Michalovce,2
+UNKNOWN,dm,Myjava,1
+UNKNOWN,dm,Šaľa,1
+UNKNOWN,dm,Ružomberok,1
+UNKNOWN,dm,Trenčín,2
+UNKNOWN,dm,Zlaté Moravce,1
+UNKNOWN,dm,Lučenec,1
+UNKNOWN,dm,Snina,1
+UNKNOWN,dm,Vranov nad Topľou,1
+UNKNOWN,dm,Rožňava,1
+UNKNOWN,dm,Bardejov,1
+UNKNOWN,dm,Dolný Kubín,1
+UNKNOWN,dm,Sereď,1
+UNKNOWN,dm,Púchov,1
+UNKNOWN,dm,Spišská Nová Ves,2
+UNKNOWN,dm,Liptovský Mikuláš,2
+UNKNOWN,dm,Rimavská Sobota,1
+UNKNOWN,dm,Humenné,1
+UNKNOWN,dm,Trebišov,1
+UNKNOWN,dm,Senica,1
+UNKNOWN,dm,Považská Bystrica,1
+UNKNOWN,dm,Bernolákovo,1
+UNKNOWN,dm,Veľký Meder,1
+UNKNOWN,dm,Chorvátsky Grob,1
+UNKNOWN,dm,Žarnovica,1
+UNKNOWN,dm,Most pri Bratislave,1
+UNKNOWN,dm,Štúrovo,1
+UNKNOWN,dm,Šurany,1
+UNKNOWN,dm,Skalica,1
+UNKNOWN,dm,Kysucké Nové Mesto,1
+UNKNOWN,dm,Sládkovičovo,1
+UNKNOWN,dm,Bytča,1
+BRATISLAVSKÝKRAJ,dr_max,Bratislava,20
+BRATISLAVSKÝKRAJ,dr_max,Senec,2
+PREŠOVSKÝKRAJ,dr_max,Vranov nad Topľou,4
+ŽILINSKÝKRAJ,dr_max,Turzovka,1
+PREŠOVSKÝKRAJ,dr_max,Prešov,12
+PREŠOVSKÝKRAJ,dr_max,Humenné,2
+BANSKOBYSTRICKÝKRAJ,dr_max,Rimavská Sobota,2
+KOŠICKÝKRAJ,dr_max,Michalovce,3
+KOŠICKÝKRAJ,dr_max,Košice,17
+KOŠICKÝKRAJ,dr_max,Spišská Nová Ves,3
+PREŠOVSKÝKRAJ,dr_max,Poprad,2
+NITRIANSKYKRAJ,dr_max,Topoľčany,4
+TRENČIANSKYKRAJ,dr_max,Partizánske,3
+ŽILINSKÝKRAJ,dr_max,Liptovský Mikuláš,2
+NITRIANSKYKRAJ,dr_max,Nitra,9
+NITRIANSKYKRAJ,dr_max,Nové Zámky,5
+BANSKOBYSTRICKÝKRAJ,dr_max,Hnúšťa,1
+NITRIANSKYKRAJ,dr_max,Levice,2
+TRENČIANSKYKRAJ,dr_max,Púchov,1
+TRNAVSKÝKRAJ,dr_max,Piešťany,5
+BANSKOBYSTRICKÝKRAJ,dr_max,Zvolen,2
+KOŠICKÝKRAJ,dr_max,Čierna nad Tisou,1
+ŽILINSKÝKRAJ,dr_max,Žilina,7
+PREŠOVSKÝKRAJ,dr_max,Stará Ľubovňa,2
+BANSKOBYSTRICKÝKRAJ,dr_max,Žiar nad Hronom,2
+NITRIANSKYKRAJ,dr_max,Šaľa,2
+TRNAVSKÝKRAJ,dr_max,Sereď,3
+BANSKOBYSTRICKÝKRAJ,dr_max,Brezno,2
+ŽILINSKÝKRAJ,dr_max,Čadca,1
+BANSKOBYSTRICKÝKRAJ,dr_max,Banská Bystrica,5
+KOŠICKÝKRAJ,dr_max,Gelnica,1
+BRATISLAVSKÝKRAJ,dr_max,Malacky,1
+TRNAVSKÝKRAJ,dr_max,Galanta,4
+ŽILINSKÝKRAJ,dr_max,Ľubochňa,1
+PREŠOVSKÝKRAJ,dr_max,Stropkov,1
+BANSKOBYSTRICKÝKRAJ,dr_max,Lučenec,4
+NITRIANSKYKRAJ,dr_max,Komárno,3
+TRENČIANSKYKRAJ,dr_max,Dubnica nad Váhom,3
+PREŠOVSKÝKRAJ,dr_max,Kežmarok,2
+KOŠICKÝKRAJ,dr_max,Rožňava,1
+TRENČIANSKYKRAJ,dr_max,Trenčín,6
+ŽILINSKÝKRAJ,dr_max,Ružomberok,2
+ŽILINSKÝKRAJ,dr_max,Martin,8
+KOŠICKÝKRAJ,dr_max,Trebišov,2
+NITRIANSKYKRAJ,dr_max,Štúrovo,2
+TRNAVSKÝKRAJ,dr_max,Lehnice,1
+PREŠOVSKÝKRAJ,dr_max,(7291) city not found,1
+PREŠOVSKÝKRAJ,dr_max,Bardejov,2
+TRENČIANSKYKRAJ,dr_max,Prievidza,4
+ŽILINSKÝKRAJ,dr_max,Turany,1
+ŽILINSKÝKRAJ,dr_max,Dolný Kubín,2
+KOŠICKÝKRAJ,dr_max,Dobšiná,1
+ŽILINSKÝKRAJ,dr_max,Vrútky,1
+TRNAVSKÝKRAJ,dr_max,Dunajská Streda,2
+TRENČIANSKYKRAJ,dr_max,Bojnice,1
+TRNAVSKÝKRAJ,dr_max,Trstice,1
+ŽILINSKÝKRAJ,dr_max,Bytča,3
+TRENČIANSKYKRAJ,dr_max,Brezová pod Bradlom,1
+BRATISLAVSKÝKRAJ,dr_max,Modra,1
+ŽILINSKÝKRAJ,dr_max,Tvrdošín,1
+BANSKOBYSTRICKÝKRAJ,dr_max,Krupina,1
+TRNAVSKÝKRAJ,dr_max,Borský Svätý Jur,1
+TRENČIANSKYKRAJ,dr_max,Nové Mesto nad Váhom,8
+TRNAVSKÝKRAJ,dr_max,Trnava,2
+ŽILINSKÝKRAJ,dr_max,Námestovo,1
+BRATISLAVSKÝKRAJ,dr_max,Pezinok,3
+NITRIANSKYKRAJ,dr_max,Vráble,2
+PREŠOVSKÝKRAJ,dr_max,Široké,1
+BRATISLAVSKÝKRAJ,dr_max,Bratislava ,1
+BRATISLAVSKÝKRAJ,dr_max,Zohor,2
+PREŠOVSKÝKRAJ,dr_max,Soľ,1
+TRENČIANSKYKRAJ,dr_max,Dolné Vestenice,1
+BRATISLAVSKÝKRAJ,dr_max,Bratislava - Záhorská Bystrica,1
+BANSKOBYSTRICKÝKRAJ,dr_max,Detva,2
+KOŠICKÝKRAJ,dr_max,Plešivec,1
+PREŠOVSKÝKRAJ,dr_max,Spišská Belá,1
+PREŠOVSKÝKRAJ,dr_max,Levoča,1
+BANSKOBYSTRICKÝKRAJ,dr_max,Veľký Krtíš,2
+TRENČIANSKYKRAJ,dr_max,Myjava,2
+TRENČIANSKYKRAJ,dr_max,Bánovce nad Bebravou,3
+TRENČIANSKYKRAJ,dr_max,Ilava,1
+TRNAVSKÝKRAJ,dr_max,Holíč,1
+TRENČIANSKYKRAJ,dr_max,Nemšová,1
+BANSKOBYSTRICKÝKRAJ,dr_max,Tornaľa,1
+PREŠOVSKÝKRAJ,dr_max,Snina,3
+TRENČIANSKYKRAJ,dr_max,Nová Dubnica,2
+BANSKOBYSTRICKÝKRAJ,dr_max,Hriňová,1
+TRNAVSKÝKRAJ,dr_max,Skalica,2
+TRNAVSKÝKRAJ,dr_max,Majcichov,1
+ŽILINSKÝKRAJ,dr_max,Belá,1
+TRENČIANSKYKRAJ,dr_max,Považská Bystrica,1
+TRENČIANSKYKRAJ,dr_max,Stará Turá,3
+ŽILINSKÝKRAJ,dr_max,Liptovský Hrádok,1
+KOŠICKÝKRAJ,dr_max,Moldava nad Bodvou,1
+BANSKOBYSTRICKÝKRAJ,dr_max,Banská Štiavnica,2
+KOŠICKÝKRAJ,dr_max,Sečovce,1
+PREŠOVSKÝKRAJ,dr_max,Lipany,1
+NITRIANSKYKRAJ,dr_max,Kolárovo,1
+KOŠICKÝKRAJ,dr_max,Krompachy,1
+TRNAVSKÝKRAJ,dr_max,Šamorín,1
+PREŠOVSKÝKRAJ,dr_max,Ľubica,1
+BANSKOBYSTRICKÝKRAJ,dr_max,Kremnica,1
+ŽILINSKÝKRAJ,dr_max,Nižná,1
+PREŠOVSKÝKRAJ,dr_max,Giraltovce,1
+ŽILINSKÝKRAJ,dr_max,Likavka,1
+ŽILINSKÝKRAJ,dr_max,Trstená,1
+UNKNOWN,dr_max,Bratislava,1
+UNKNOWN,ecco,Nitra,2
+UNKNOWN,ecco,Bratislava,6
+UNKNOWN,ecco,Košice,1
+UNKNOWN,ecco,Poprad,1
+UNKNOWN,ecco,Trnava,1
+UNKNOWN,ecco,Zilina,1
+UNKNOWN,ecco,Trenčín,1
+UNKNOWN,ecco,Banska Bystrica,1
+UNKNOWN,ecco,Kosice,1
+UNKNOWN,ecco,Martin,1
+UNKNOWN,enterprise,Kosice,2
+UNKNOWN,enterprise,Bratislava,3
+UNKNOWN,enterprise,Zilina,1
+UNKNOWN,ernst_young,Bratislava,1
+UNKNOWN,ernst_young,Kosice,1
+UNKNOWN,ernst_young,Zilina,1
+UNKNOWN,gbfs,unknown,32
+UNKNOWN,geox,CELJE,1
+UNKNOWN,geox,LJUBLJANA,3
+UNKNOWN,geox,MARIBOR,1
+UNKNOWN,geox,BRATISLAVA,3
+UNKNOWN,hilton,unknown,1
+UNKNOWN,hm,Bratislava,7
+UNKNOWN,hm,Kosice,3
+UNKNOWN,hm,Nitra,2
+UNKNOWN,hm,Žilina,2
+UNKNOWN,hm,Trenčín,1
+UNKNOWN,hm,Prievidza,1
+UNKNOWN,hm,Banská Bystrica,1
+UNKNOWN,hm,Trnava,2
+UNKNOWN,hm,Poprad,1
+UNKNOWN,hm,Spišská Nová Ves,1
+UNKNOWN,hm,Levice,1
+UNKNOWN,hm,Lučenec,1
+UNKNOWN,hm,Prešov,2
+UNKNOWN,hm,Martin,1
+UNKNOWN,hm,Liptovsky Mikulas,1
+UNKNOWN,hm,Dunajska Streda,1
+PRESOVSKY,ich_tanke_strom,unknown,22
+KOSICKY,ich_tanke_strom,unknown,40
+PRESOVSKY,ich_tanke_strom,Okres Poprad,4
+PRESOVSKY,ich_tanke_strom,Okres Presov,2
+UNKNOWN,ikea,Bratislava,1
+BRATIS,indigo,Bratislava,2
+SK,indigo,Bratislava,4
+SK,indigo,Dunajská Streda,2
+SK,indigo,Trnava,1
+SLOVENSKO,indigo,Bratislava,1
+SK,indigo,Košice,1
+BRATISLAVSKY,ionity,unknown,1
+TRENCIANSKY,ionity,unknown,1
+SLOVAKIA,jll,Bratislava,1
+BRATISLAVSKY,jll,unknown,1
+UNKNOWN,jysk,Ružomberok,1
+UNKNOWN,jysk,Žilina,2
+UNKNOWN,jysk,Námestovo,1
+UNKNOWN,jysk,Šamorín,1
+UNKNOWN,jysk,Košice,2
+UNKNOWN,jysk,Nitra,2
+UNKNOWN,jysk,Levoča,1
+UNKNOWN,jysk,Velý Krtíš,1
+UNKNOWN,jysk,Nové Mesto nad Váhom,1
+UNKNOWN,jysk,Šala,1
+UNKNOWN,jysk,Považská Bystrica,1
+UNKNOWN,jysk,Bratislava,3
+UNKNOWN,jysk,Levice,1
+UNKNOWN,jysk,Banská Bystrica,1
+UNKNOWN,jysk,Humenné,1
+UNKNOWN,jysk,Čadca,1
+UNKNOWN,jysk,Topoľčany,1
+UNKNOWN,jysk,Brezno,1
+UNKNOWN,jysk,Malacky,1
+UNKNOWN,jysk,Trnava,1
+UNKNOWN,jysk,Bardejov,1
+UNKNOWN,jysk,Rimavská Sobota,1
+UNKNOWN,jysk,Komárno,1
+UNKNOWN,jysk,Dunajská Streda,1
+UNKNOWN,jysk,Prievidza,1
+UNKNOWN,jysk,Hlohovec,1
+UNKNOWN,jysk,Piešťany,1
+UNKNOWN,jysk,Spišská Nová Ves,1
+UNKNOWN,jysk,Prešov,1
+UNKNOWN,jysk,Púchov,1
+UNKNOWN,jysk,Trebišov,1
+UNKNOWN,jysk,"Cassovia, Košice",1
+UNKNOWN,jysk,Senica,1
+UNKNOWN,jysk,Michalovce,1
+UNKNOWN,jysk,Liptovský Mikuláš,1
+UNKNOWN,jysk,Bratislava 35,1
+UNKNOWN,jysk,"Bratislava, Záhorská Bystrica",1
+UNKNOWN,jysk,Trenčín,1
+UNKNOWN,jysk,Nové Zámky,1
+UNKNOWN,jysk,Zvolen,1
+UNKNOWN,jysk,Lučenec,1
+UNKNOWN,jysk,Poprad,1
+UNKNOWN,jysk,Rožňava,1
+UNKNOWN,jysk,Martin,1
+UNKNOWN,kik,Velky Meder,1
+UNKNOWN,kik,Komarno,1
+UNKNOWN,kik,Šamorin,1
+UNKNOWN,kik,Bratislava,6
+UNKNOWN,kik,Dunajská Streda,1
+UNKNOWN,kik,Dunajska Streda,1
+UNKNOWN,kik,Bratislava Podunajské Biskupice,1
+UNKNOWN,kik,Bratislava Dúbravka,1
+UNKNOWN,kik,Bratislava Rača,1
+UNKNOWN,kik,Štúrovo,1
+UNKNOWN,kik,Chorvátsky Grob,1
+UNKNOWN,kik,Senec,1
+UNKNOWN,kik,Nové Zámky,1
+UNKNOWN,kik,Pezinok,1
+UNKNOWN,kik,Galanta,1
+UNKNOWN,kik,Šaľa,1
+UNKNOWN,kik,Surany,1
+UNKNOWN,kik,Malacky,1
+UNKNOWN,kik,Sereď,1
+UNKNOWN,kik,Zeliezovce,1
+UNKNOWN,kik,Trnava,2
+UNKNOWN,kik,Nitra,3
+UNKNOWN,kik,Hlohovec,1
+UNKNOWN,kik,Levice,1
+UNKNOWN,kik,Zlaté Moravce,1
+UNKNOWN,kik,Senica,1
+UNKNOWN,kik,Piešťany,1
+UNKNOWN,kik,Topoľčany,1
+UNKNOWN,kik,Veľký Krtíš,1
+UNKNOWN,kik,Skalica,1
+UNKNOWN,kik,Myjava,1
+UNKNOWN,kik,Topolčany,1
+UNKNOWN,kik,Krupina,1
+UNKNOWN,kik,Stará Tura,1
+UNKNOWN,kik,Zarnovica,1
+UNKNOWN,kik, Nové Mesto nad Váhom,1
+UNKNOWN,kik,Banská Štiavnica,1
+UNKNOWN,kik,Partizánske,1
+UNKNOWN,kik,Bánovce nad Bebravou,1
+UNKNOWN,kik,Fiľakovo,1
+UNKNOWN,kik,Lučenec,1
+UNKNOWN,kik,Žiar nad Hronom,1
+UNKNOWN,kik,Trenčín,3
+UNKNOWN,kik,Zvolen,3
+UNKNOWN,kik,Prievidza,2
+UNKNOWN,kik,Detva,1
+UNKNOWN,kik,Rimavská Sobota,1
+UNKNOWN,kik,Dubnica nad Váhom,1
+UNKNOWN,kik,Ilava,1
+UNKNOWN,kik,Banská Bystrica,2
+UNKNOWN,kik,Tornala,1
+UNKNOWN,kik,Púchov,1
+UNKNOWN,kik,Považská Bystrica,1
+UNKNOWN,kik,Rajec,1
+UNKNOWN,kik,Brezno,1
+UNKNOWN,kik,Revúca,1
+UNKNOWN,kik,Martin,2
+UNKNOWN,kik,Žilina,2
+UNKNOWN,kik,Rožnava,1
+UNKNOWN,kik,Ružomberok,1
+UNKNOWN,kik,Moldava nad Bodvou,1
+UNKNOWN,kik,Kysucke Nove Mesto,1
+UNKNOWN,kik,Liptovský Mikuláš,2
+UNKNOWN,kik,Dolný Kubín,1
+UNKNOWN,kik,Čadca,1
+UNKNOWN,kik,Košice,6
+UNKNOWN,kik,Kosice,1
+UNKNOWN,kik,Spišská Nová Ves,2
+UNKNOWN,kik,Poprad,2
+UNKNOWN,kik,Trebišov,1
+UNKNOWN,kik,Levoča,1
+UNKNOWN,kik,Námestovo,1
+UNKNOWN,kik,Kezmarok,1
+UNKNOWN,kik,Michalovce,2
+UNKNOWN,kik,Prešov,2
+UNKNOWN,kik,Presov - Lubotice,1
+UNKNOWN,kik,Vranov nad Topl`ou,1
+UNKNOWN,kik,Sabinov,1
+UNKNOWN,kik,Stará Ľubovňa,1
+UNKNOWN,kik,Humenné,1
+UNKNOWN,kik,Snina,1
+UNKNOWN,kik,Bardejov,1
+UNKNOWN,kik,Svidník,1
+UNKNOWN,leonidas,Brastislava,1
+UNKNOWN,lidl_sk,Senica,1
+UNKNOWN,lidl_sk,Žiar nad Hronom,1
+UNKNOWN,lidl_sk,Dunajská Streda,2
+UNKNOWN,lidl_sk,Bratislava,22
+UNKNOWN,lidl_sk,Prievidza,2
+UNKNOWN,lidl_sk,Ružomberok,1
+UNKNOWN,lidl_sk,Nitra,4
+UNKNOWN,lidl_sk,Štúrovo,1
+UNKNOWN,lidl_sk,Senec,1
+UNKNOWN,lidl_sk,Bánovce nad Bebravou,1
+UNKNOWN,lidl_sk,Žilina,4
+UNKNOWN,lidl_sk,Sereď,1
+UNKNOWN,lidl_sk,Partizánske,1
+UNKNOWN,lidl_sk,Nové Mesto nad Váhom,2
+UNKNOWN,lidl_sk,Humenné,1
+UNKNOWN,lidl_sk,Košice,10
+UNKNOWN,lidl_sk,Rožňava,1
+UNKNOWN,lidl_sk,Prešov,4
+UNKNOWN,lidl_sk,Michalovce,2
+UNKNOWN,lidl_sk,Poprad,3
+UNKNOWN,lidl_sk,Lučenec,1
+UNKNOWN,lidl_sk,Nové Zámky,2
+UNKNOWN,lidl_sk,Trnava,4
+UNKNOWN,lidl_sk,Trenčín,5
+UNKNOWN,lidl_sk,Brezno,1
+UNKNOWN,lidl_sk,Liptovský Mikuláš,2
+UNKNOWN,lidl_sk,Vranov nad Topľou,1
+UNKNOWN,lidl_sk,Snina,1
+UNKNOWN,lidl_sk,Martin,3
+UNKNOWN,lidl_sk,Skalica,1
+UNKNOWN,lidl_sk,Hlohovec,1
+UNKNOWN,lidl_sk,Šamorín,1
+UNKNOWN,lidl_sk,Stará Ľubovňa,1
+UNKNOWN,lidl_sk,Dubnica nad Váhom,1
+UNKNOWN,lidl_sk,Banská Bystrica,3
+UNKNOWN,lidl_sk,Kysucké Nové Mesto,1
+UNKNOWN,lidl_sk,Sabinov,1
+UNKNOWN,lidl_sk,Kežmarok,1
+UNKNOWN,lidl_sk,Topoľčany,2
+UNKNOWN,lidl_sk,Zvolen,3
+UNKNOWN,lidl_sk,Bardejov,2
+UNKNOWN,lidl_sk,Kosice,1
+UNKNOWN,lidl_sk,Čadca,1
+UNKNOWN,lidl_sk,Malacky,1
+UNKNOWN,lidl_sk,Detva,1
+UNKNOWN,lidl_sk,Nová Baňa,1
+UNKNOWN,lidl_sk,Veľký Krtíš,1
+UNKNOWN,lidl_sk,Trebišov,1
+UNKNOWN,lidl_sk,Pezinok,2
+UNKNOWN,lidl_sk,Vráble,1
+UNKNOWN,lidl_sk,Myjava,1
+UNKNOWN,lidl_sk,Želiezovce,1
+UNKNOWN,lidl_sk,Považská Bystrica,1
+UNKNOWN,lidl_sk,Svit,1
+UNKNOWN,lidl_sk,Holíč,1
+UNKNOWN,lidl_sk,Stropkov,1
+UNKNOWN,lidl_sk,Dolný Kubín,1
+UNKNOWN,lidl_sk,Piešťany,2
+UNKNOWN,lidl_sk,Šahy,1
+UNKNOWN,lidl_sk,Hurbanovo,1
+UNKNOWN,lidl_sk,Levoča,1
+UNKNOWN,lidl_sk,Velké Kapušany,1
+UNKNOWN,lidl_sk,Handlová,1
+UNKNOWN,lidl_sk,Nováky,1
+UNKNOWN,lidl_sk,Rimavská Sobota,1
+UNKNOWN,lidl_sk,Zlaté Moravce,1
+UNKNOWN,lidl_sk,Veľký Meder,1
+UNKNOWN,lidl_sk,Levice,1
+UNKNOWN,lidl_sk,Fiľakovo,1
+UNKNOWN,lidl_sk,Komárno,2
+UNKNOWN,lidl_sk,Revúca,1
+UNKNOWN,lidl_sk,Spišská Nová Ves,2
+UNKNOWN,lidl_sk,Vrbové,1
+UNKNOWN,lidl_sk,Námestovo,1
+UNKNOWN,lidl_sk,Bernolákovo,1
+UNKNOWN,lidl_sk,Šurany,1
+UNKNOWN,lidl_sk,Sobrance,1
+UNKNOWN,lidl_sk,Kráľovský Chlmec,1
+UNKNOWN,lidl_sk,Terchová,1
+UNKNOWN,lidl_sk,Svidník,1
+UNKNOWN,lidl_sk,Šaľa,1
+UNKNOWN,lidl_sk,Banská Štiavnica,1
+UNKNOWN,lidl_sk,Nová Dubnica,1
+UNKNOWN,lidl_sk,Moldava Nad Bodvou,1
+UNKNOWN,lidl_sk,Galanta,1
+UNKNOWN,lidl_sk,Tvrdošín,1
+UNKNOWN,lidl_sk,Púchov,2
+UNKNOWN,lidl_sk,Bojnice,1
+UNKNOWN,lidl_sk,Ilava,1
+UNKNOWN,lidl_sk,Krompachy,1
+UNKNOWN,lidl_sk,Liptovský Hrádok,1
+UNKNOWN,lidl_sk,Tornaľa,1
+UNKNOWN,lidl_sk,Most pri Bratislave,1
+UNKNOWN,lidl_sk,Turzovka,1
+UNKNOWN,lidl_sk,Modra,1
+UNKNOWN,lidl_sk,Turčianske Teplice,1
+UNKNOWN,lidl_sk,Bytča,1
+UNKNOWN,man_truck_and_bus,Komarno,1
+UNKNOWN,man_truck_and_bus,Zilina- Povazský Chlmec,1
+UNKNOWN,man_truck_and_bus,Zvolen,1
+UNKNOWN,man_truck_and_bus,Nove Mesto nad Vahom,1
+UNKNOWN,man_truck_and_bus,Bratislava,1
+UNKNOWN,man_truck_and_bus,Liptovský Mikuláš,1
+UNKNOWN,man_truck_and_bus,Žilina,1
+UNKNOWN,man_truck_and_bus,Prešov,1
+UNKNOWN,marriott,Bratislava,2
+UNKNOWN,mcdonalds_sk,Banská Bystrica,1
+UNKNOWN,mcdonalds_sk,Bratislava,17
+UNKNOWN,mcdonalds_sk,Bernolákovo,1
+UNKNOWN,mcdonalds_sk,Dolný Hričov,1
+UNKNOWN,mcdonalds_sk,Dunajská Streda,1
+UNKNOWN,mcdonalds_sk,Košice,4
+UNKNOWN,mcdonalds_sk,Liptovský Mikuláš,1
+UNKNOWN,mcdonalds_sk,Martin,1
+UNKNOWN,mcdonalds_sk,Nitra,2
+UNKNOWN,mcdonalds_sk,Nové Zámky,1
+UNKNOWN,mcdonalds_sk,Pezinok,1
+UNKNOWN,mcdonalds_sk,Poprad - Spišská Sobota,1
+UNKNOWN,mcdonalds_sk,Prešov,2
+UNKNOWN,mcdonalds_sk,Prievidza,1
+UNKNOWN,mcdonalds_sk,Beladice,1
+UNKNOWN,mcdonalds_sk,Trenčín,2
+UNKNOWN,mcdonalds_sk,Trnava,2
+UNKNOWN,mcdonalds_sk,Žilina,2
+UNKNOWN,mcdonalds_sk,Zvolen,1
+TRENCIANSKY,mercedes_benz,Trenčín,1
+BRATISLAVSKÝ,mercedes_benz,Bratislava,2
+NITRIANSKY,mercedes_benz,Nové Zámky,1
+PREŠOVSKÝ,mercedes_benz,Prešov,1
+BANSKOBYSTRICKÝ,mercedes_benz,Banská Bystrica,1
+TRNAVSKÝKRAJ,mercedes_benz,Holíč,1
+TRNAVSKÝ,mercedes_benz,Trnava,1
+NITRIANSKYKRAJ,mercedes_benz,Nitra,1
+PREŠOVSKÝ,mercedes_benz,Poprad,1
+KOŠICKÝ,mercedes_benz,Košice,1
+ŽILINSKÝ,mercedes_benz,Martin,1
+BANSKOBYSTRICKÝ,mercedes_benz,Zvolen,1
+ŽILINSKÝ,mercedes_benz,Žilina,1
+KOŠICKÝKRAJ,mercedes_benz,Michalovce,1
+BRATISLAVSKÝKRAJ,mercedes_benz,Bratislava,1
+TRNAVSKÝ,mercedes_benz,Dunajská Streda,1
+UNKNOWN,moneygram,BRATISLAVA,5
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,moneygram,TRENCIN - TREN.TURNA,1
+UNKNOWN,moneygram,POPRAD,1
+UNKNOWN,moneygram,NOVE ZAMKY,1
+UNKNOWN,moneygram,LEVICE,1
+UNKNOWN,moneygram,PODUNAJSKE BISKUPICE,1
+UNKNOWN,moneygram,KOSICE,2
+UNKNOWN,moneygram,PRESOV,2
+UNKNOWN,moneygram,BANSKA BYSTRICA,1
+UNKNOWN,moneygram,TRNAVA,1
+UNKNOWN,moneygram,FILAKOVO,1
+UNKNOWN,moneygram,MICHALOVCE,1
+UNKNOWN,moneygram,ZILINA,1
+UNKNOWN,moneygram,GALANTA,1
+UNKNOWN,moneygram,DUNAJSKA STREDA,1
+UNKNOWN,moneygram,NITRA,1
+UNKNOWN,moneygram,SALA - VECA,1
+UNKNOWN,moneygram,SENEC,1
+UNKNOWN,moneygram,TREBISOV,1
+UNKNOWN,national,Bratislava,1
+UNKNOWN,national,Kosice,1
+UNKNOWN,newyorker,Košice,3
+UNKNOWN,newyorker,Poprad,2
+UNKNOWN,newyorker,Trencin,2
+UNKNOWN,newyorker,Martin,2
+UNKNOWN,newyorker,Banská Bystrica,1
+UNKNOWN,newyorker,Bratislava,5
+UNKNOWN,newyorker,Trnava,2
+UNKNOWN,newyorker,Žilina,2
+UNKNOWN,newyorker,Dunajská Streda,1
+UNKNOWN,newyorker,Lucenec,1
+UNKNOWN,newyorker,Zvolen,1
+UNKNOWN,newyorker,Nové Zámky,1
+UNKNOWN,newyorker,Michalovce,1
+UNKNOWN,newyorker,Presov,2
+UNKNOWN,newyorker,Nitra,2
+UNKNOWN,newyorker,Prievidza,1
+UNKNOWN,newyorker,Skalica,1
+UNKNOWN,newyorker,Piešťany,1
+UNKNOWN,newyorker,Malacky,1
+UNKNOWN,newyorker,Liptovsky Mikulas,1
+UNKNOWN,newyorker,Levice,1
+UNKNOWN,newyorker,Spišská Nová Ves,1
+UNKNOWN,newyorker,Prešov-Sekčov,1
+UNKNOWN,nike,BRATISLAVA,1
+UNKNOWN,obi_eu,Bratislava,1
+UNKNOWN,obi_eu,Banská Bystrica,1
+UNKNOWN,obi_eu,Žilina,1
+UNKNOWN,obi_eu,Trnava,1
+UNKNOWN,obi_eu,Trenčín,1
+UNKNOWN,obi_eu,Spišská Nová Ves,1
+UNKNOWN,obi_eu,Prievizda,1
+UNKNOWN,obi_eu,Prešov,1
+UNKNOWN,obi_eu,Poprad,1
+UNKNOWN,obi_eu,Nitra-Chrenová,1
+UNKNOWN,obi_eu,Michalovce,1
+UNKNOWN,obi_eu,Martin,1
+UNKNOWN,obi_eu,Liptovský Mikuláš,1
+UNKNOWN,obi_eu,Košice,2
+PODUNAJSKO,obi_eu,Dunajská Streda-Podunajsko,1
+UNKNOWN,obi_eu,Bratislava-Ružinov,1
+UNKNOWN,obi_eu,unknown,1
+UNKNOWN,omv,Košice,5
+UNKNOWN,omv,Levice,1
+UNKNOWN,omv,Bardejov,1
+UNKNOWN,omv,Ivanka pri Dunaji,1
+UNKNOWN,omv,Dolný Hričov,1
+UNKNOWN,omv,Spišská Belá,1
+UNKNOWN,omv,Trnava,3
+UNKNOWN,omv,Liptovský Mikuláš-Demänová,1
+UNKNOWN,omv,Blatné,1
+UNKNOWN,omv,Pezinok,2
+UNKNOWN,omv,Vlčkovce,1
+UNKNOWN,omv,Bratislava - Jarovce,2
+UNKNOWN,omv,Dolný Štál,1
+UNKNOWN,omv,Bratislava,19
+UNKNOWN,omv,Michalovce,1
+UNKNOWN,omv,Košice - Barca,1
+UNKNOWN,omv,Trenčín,2
+UNKNOWN,omv,Martin,1
+UNKNOWN,omv,Poprad,1
+UNKNOWN,omv,Trebišov,1
+UNKNOWN,omv,Košťany nad Turcom - Martin,1
+UNKNOWN,omv,Spišská Nová Ves,1
+UNKNOWN,omv,Nitra,4
+UNKNOWN,omv,Senica,1
+UNKNOWN,omv,Partizánske,1
+UNKNOWN,omv,Veľký Meder,1
+UNKNOWN,omv,Snina,1
+UNKNOWN,omv,Prievidza,1
+UNKNOWN,omv,Považská Bystrica,1
+UNKNOWN,omv,Banská Bystrica,2
+UNKNOWN,omv,Badín,1
+UNKNOWN,omv,BRATISLAVA,1
+UNKNOWN,omv,Ružomberok,1
+UNKNOWN,omv,Dvory nad Žitavou,1
+UNKNOWN,omv,Hlohovec,1
+UNKNOWN,omv,Slovenské Nové Mesto,1
+UNKNOWN,omv,Martin 1,1
+UNKNOWN,omv,Hrádok,1
+UNKNOWN,omv,Lučenec,1
+UNKNOWN,omv,Žilina,2
+UNKNOWN,omv,Volkovce časť Olichov,1
+UNKNOWN,omv,Čadca,2
+UNKNOWN,omv,Dolná Streda,1
+UNKNOWN,omv,Hybe,2
+UNKNOWN,omv,Vráble,1
+UNKNOWN,omv,Nové Mesto nad Váhom,1
+UNKNOWN,omv,Žiar nad Hronom,1
+UNKNOWN,omv,Zeleneč pri Trnave,1
+UNKNOWN,omv,Prešov,2
+UNKNOWN,omv,Nové Zámky,1
+UNKNOWN,omv,Malinovo,1
+UNKNOWN,omv,Poprad - Matejovce,1
+UNKNOWN,omv,Holice,1
+UNKNOWN,omv,Blatná na Ostrove,1
+UNKNOWN,omv,Tekovské Nemce,2
+UNKNOWN,omv,Bratislava - Podunajské Biskupice,2
+UNKNOWN,omv,Šaľa-Veča,1
+UNKNOWN,omv,Ľubotice,1
+UNKNOWN,omv,Šamorín,1
+UNKNOWN,omv,Púchov,1
+UNKNOWN,omv,Myjava,1
+UNKNOWN,omv,Humenné,1
+UNKNOWN,omv,Zvolen,1
+UNKNOWN,omv,Dunajská Streda,1
+UNKNOWN,omv,Topoľčany,1
+UNKNOWN,omv,Čoltovo,1
+ZILINSKY,orlen,Bytča,1
+BRATISLAVSKY,orlen,Senec,1
+PRESOVSKY,orlen,ČS Hlinné,1
+PRESOVSKY,orlen,ČS Prešov,1
+NITRIANSKY,orlen,Tesárske Mlyňany,1
+TRNAVSKY,orlen,Trebatice,1
+TRNAVSKY,orlen,Dunajská Streda,1
+KOSICKY,orlen,Spišská Nová Ves,1
+TRNAVSKY,orlen,Šamorín,1
+ZILINSKY,orlen,Bytčica,1
+ZILINSKY,orlen,Kysucké Nové Město,1
+BANSKOBYSTRICKY,orlen,Žarnovica,1
+TRNAVSKY,orlen,Holice,1
+ZILINSKY,orlen,Ružomberok,1
+NITRIANSKY,orlen,Lúky,1
+PRESOVSKY,orlen,Svit,1
+ZILINSKY,orlen,Strečno,1
+TRNAVSKY,orlen,Šelpice,1
+NITRIANSKY,orlen,Šurany,1
+NITRIANSKY,orlen,Nitra,1
+BRATISLAVSKY,orlen,Malacky,1
+BRATISLAVSKY,pepco,unknown,17
+NITRIANSKY,pepco,Okres Nitra,5
+TRNAVSKY,pepco,unknown,7
+NITRIANSKY,pepco,unknown,18
+KOSICKY,pepco,unknown,19
+TRNAVSKY,pepco,Okres Trnava,7
+BRATISLAVSKY,pepco,Okres Pezinok,1
+ZILINSKY,pepco,Okres Liptovsky Mikulas,2
+TRENCIANSKY,pepco,Okres Myjava,1
+ZILINSKY,pepco,unknown,7
+BRATISLAVSKY,pepco,Okres Malacky,1
+BANSKOBYSTRICKY,pepco,unknown,10
+ZILINSKY,pepco,Okres Zilina,4
+PRESOVSKY,pepco,Okres Presov,6
+ZILINSKY,pepco,Okres Martin,2
+NITRIANSKY,pepco,Okres Nove Zamky,3
+BANSKOBYSTRICKY,pepco,Okres Banska Bystrica,8
+TRNAVSKY,pepco,Okres Skalica,2
+TRENCIANSKY,pepco,Okres Nove Mesto nad Vahom,1
+PRESOVSKY,pepco,Okres Poprad,3
+ZILINSKY,pepco,Okres Dolny Kubin,1
+TRENCIANSKY,pepco,Okres Trencin,3
+PRESOVSKY,pepco,Okres Bardejov,2
+TRNAVSKY,pepco,Okres Galanta,2
+PRESOVSKY,pepco,unknown,7
+TRNAVSKY,pepco,Okres Senica,1
+TRNAVSKY,pepco,Okres Dunajska Streda,1
+TRENCIANSKY,pepco,Okres Povazska Bystrica,2
+UNKNOWN,renault,Dunajska Streda,2
+UNKNOWN,renault,Bratislava,7
+UNKNOWN,renault,Senica,2
+UNKNOWN,renault,Trnava,2
+UNKNOWN,renault,Trenčianska Turná,2
+UNKNOWN,renault,Malacky,2
+UNKNOWN,renault,Žilina,2
+UNKNOWN,renault,Bardejov,2
+UNKNOWN,renault,Poprad,2
+UNKNOWN,renault,Martin,2
+UNKNOWN,renault,Nove Zamky,2
+UNKNOWN,renault,Prievidza,2
+UNKNOWN,renault,Piešťany,2
+UNKNOWN,renault,Stara Lubovna,2
+UNKNOWN,renault,Nitra,2
+UNKNOWN,renault,Vráble,2
+UNKNOWN,renault,Liptovský Mikulás,2
+UNKNOWN,renault,Humenné,2
+UNKNOWN,renault,Michalovce,2
+UNKNOWN,renault,Presov,2
+UNKNOWN,renault,Topoľčany,2
+UNKNOWN,renault,Košice,2
+UNKNOWN,renault,Banská Bystrica,2
+UNKNOWN,samsonite_eu,Bratislava,3
+UNKNOWN,scania,Ličartovce,1
+UNKNOWN,scania,Nové Zámky,1
+UNKNOWN,scania,Poprad,1
+UNKNOWN,scania,Senec,1
+UNKNOWN,scania,Žilina,1
+UNKNOWN,scania,Budča,1
+ŽILINSKÝKRAJ,shell,Žilina - Strážov,1
+ŽILINSKÝKRAJ,shell,Žilina,2
+TRNAVSKÝKRAJ,shell,ČASTKOV,1
+BRATISLAVSKÝKRAJ,shell,MALACKY,1
+TRNAVSKÝKRAJ,shell,TRNAVA,2
+TRNAVSKÝKRAJ,shell,Trnava,1
+BRATISLAVSKÝKRAJ,shell,Svätý Jur,1
+BRATISLAVSKÝKRAJ,shell,Senec,1
+BRATISLAVSKÝKRAJ,shell,Bratislava,10
+TRNAVSKÝKRAJ,shell,BERNOLAKOVO,1
+PREŠOVSKÝKRAJ,shell,Humenné,1
+PREŠOVSKÝKRAJ,shell,Vranov nad Topľou,1
+KOSICKYKRAJ,shell,MICHALOVCE,1
+KOSICKYKRAJ,shell,Michalovce,1
+PREŠOVSKÝKRAJ,shell,STROPKOV,1
+KOSICKYKRAJ,shell,TREBIŠOV,1
+KOSICKYKRAJ,shell,SVINICA,1
+PREŠOVSKÝKRAJ,shell,ĽUBOTICE,1
+PREŠOVSKÝKRAJ,shell,PREŠOV,1
+PREŠOVSKÝKRAJ,shell,Prešov,3
+KOSICKYKRAJ,shell,Košice,5
+KOSICKYKRAJ,shell,KRÁĽOVSKÝ CHLMEC,1
+PREŠOVSKÝKRAJ,shell,BARDEJOV,1
+PREŠOVSKÝKRAJ,shell,SABINOV,1
+KOSICKYKRAJ,shell,KECHNEC,1
+PREŠOVSKÝKRAJ,shell,LEVOČA,1
+PREŠOVSKÝKRAJ,shell,Levoča,1
+KOSICKYKRAJ,shell,Spišská Nová Ves,1
+KOSICKYKRAJ,shell,Rožňava,1
+BANSKOBYSTRICKÝKRAJ,shell,Rimavská Sobota,1
+BANSKOBYSTRICKÝKRAJ,shell,Lučenec,2
+PREŠOVSKÝKRAJ,shell,POPRAD-SPIŠSKÁ SOBOTA,1
+PREŠOVSKÝKRAJ,shell,ŠTRBA,1
+PREŠOVSKÝKRAJ,shell,KEŽMAROK,1
+BANSKOBYSTRICKÝKRAJ,shell,Veľký Krtíš,1
+NITRIANSKYKRAJ,shell,ZLATNA NA OSTROVE,1
+NITRIANSKYKRAJ,shell,Komárno,1
+NITRIANSKYKRAJ,shell,Nitra,2
+NITRIANSKYKRAJ,shell,NITRA,1
+NITRIANSKYKRAJ,shell,BELADICE,1
+NITRIANSKYKRAJ,shell,Šaľa,1
+TRNAVSKÝKRAJ,shell,Hlohovec,2
+TRNAVSKÝKRAJ,shell,Sered,1
+TRNAVSKÝKRAJ,shell,Galanta,2
+NITRIANSKYKRAJ,shell,Topoľčany,1
+TRNAVSKÝKRAJ,shell,Žlkovce,1
+NITRIANSKYKRAJ,shell,TOPOĽČANY,1
+TRNAVSKÝKRAJ,shell,Piešťany,1
+NITRIANSKYKRAJ,shell,Nové Zámky,1
+BANSKOBYSTRICKÝKRAJ,shell,Levice,1
+TRENCIANSKYKRAJ,shell,Partizánske,1
+TRNAVSKÝKRAJ,shell,Kútniky,1
+TRENCIANSKYKRAJ,shell,BANOVCE NAD BEBRAVOU,1
+TRENCIANSKYKRAJ,shell,NOVÉ MESTO NAD VÁHOM,1
+BRATISLAVSKÝKRAJ,shell,Štvrtok na Ostrove,1
+TRENCIANSKYKRAJ,shell,TRENCIN,1
+TRENCIANSKYKRAJ,shell,Prievidza,1
+TRENCIANSKYKRAJ,shell,Trenčín,1
+BANSKOBYSTRICKÝKRAJ,shell,ŽIAR NAD HRONOM,1
+TRENCIANSKYKRAJ,shell,HANDLOVA,1
+TRENCIANSKYKRAJ,shell,Dubnica nad Váhom,1
+TRENCIANSKYKRAJ,shell,PÚCHOV,1
+BRATISLAVSKÝKRAJ,shell,ROVINKA,1
+BANSKOBYSTRICKÝKRAJ,shell,KRUPINA,1
+BANSKOBYSTRICKÝKRAJ,shell,Zvolen,3
+BANSKOBYSTRICKÝKRAJ,shell,DETVA,1
+BANSKOBYSTRICKÝKRAJ,shell,Banská Bystrica,1
+BANSKOBYSTRICKÝKRAJ,shell,Bánská Bystrica,1
+BANSKOBYSTRICKÝKRAJ,shell,VALASKA,1
+BANSKOBYSTRICKÝKRAJ,shell,BREZNO,1
+ŽILINSKÝKRAJ,shell,Ružomberok,2
+ŽILINSKÝKRAJ,shell,Martin,2
+ŽILINSKÝKRAJ,shell,RAJEC,1
+TRENCIANSKYKRAJ,shell,POVAŽSKÁ BYSTRICA,1
+TRENCIANSKYKRAJ,shell,Považská Bystrica,1
+ŽILINSKÝKRAJ,shell,Liptovský Mikuláš,1
+UNKNOWN,sixt,Poprad,1
+UNKNOWN,sixt,Kosice,1
+UNKNOWN,sixt,Bratislava,2
+KE,skoda,unknown,10
+PO,skoda,unknown,8
+NR,skoda,unknown,6
+TT,skoda,unknown,12
+TN,skoda,unknown,7
+BA,skoda,unknown,13
+BB,skoda,unknown,8
+ZA,skoda,unknown,9
+BRATISLAVSKÝ,smart,Bratislava,1
+TRENCIANSKY,starbucks_eu,Trencin,1
+BRATISLAVSKY,starbucks_eu,Bratislava,7
+KOSICKY,starbucks_eu,Kosice,1
+ZILINSKY,starbucks_eu,Zilina,1
+NITRIANSKY,starbucks_eu,Nitra,1
+PRESOVSKY,starbucks_eu,Presov,1
+UNKNOWN,subway,Trnava,1
+UNKNOWN,subway,Trencín,1
+UNKNOWN,subway,Košice,2
+UNKNOWN,subway,Nitra,1
+UNKNOWN,subway,Bratislava,2
+UNKNOWN,superdry,Trencin,1
+UNKNOWN,superdry,Bratislava,1
+UNKNOWN,superdry,Banska Bystrica,1
+TRNAVSKÝKRAJ,tedi,Vel'ký Meder,1
+TRNAVSKÝKRAJ,tedi,Dunajska Streda,1
+TRNAVSKÝKRAJ,tedi,Galanta,1
+BRATISLAVSKÝKRAJ,tedi,Senec,1
+TRNAVSKÝKRAJ,tedi,Šamorín,1
+BRATISLAVSKÝKRAJ,tedi,Chorvátsky Grob,1
+TRNAVSKÝKRAJ,tedi,Trnava,3
+TRNAVSKÝKRAJ,tedi,Hlohovec,1
+NITRIANSKYKRAJ,tedi,Nitra,1
+TRNAVSKÝKRAJ,tedi,Piešťany,2
+TRNAVSKÝKRAJ,tedi,Senica,1
+TRENČIANSKYKRAJ,tedi,Nove Mesto nad Vahom,1
+TRNAVSKÝKRAJ,tedi,Skalica,1
+TRENČIANSKYKRAJ,tedi,Trencin,2
+NITRIANSKYKRAJ,tedi,Sturovo,1
+NITRIANSKYKRAJ,tedi,Levice,1
+NITRIANSKYKRAJ,tedi,Zlate Moravce,1
+TRENČIANSKYKRAJ,tedi,Partizanske,1
+BANSKOBYSTRICKÝKRAJ,tedi,Ziar nad Hronom,1
+NITRIANSKYKRAJ,tedi,Topolcany,1
+TRENČIANSKYKRAJ,tedi,Prievidza,2
+TRENČIANSKYKRAJ,tedi,Ilava,1
+ŽILINSKÝKRAJ,tedi,Bytča,1
+TRENČIANSKYKRAJ,tedi,Povazska Bystrica,1
+ŽILINSKÝKRAJ,tedi,Zilina,2
+TRENČIANSKYKRAJ,tedi,Púchov,1
+ŽILINSKÝKRAJ,tedi,Kysucké Nové Mesto,1
+NITRIANSKYKRAJ,tedi,Nové Zámky,1
+NITRIANSKYKRAJ,tedi,Komárno,2
+BANSKOBYSTRICKÝKRAJ,tedi,Velky Krtis,1
+BANSKOBYSTRICKÝKRAJ,tedi,Lucenec,1
+BANSKOBYSTRICKÝKRAJ,tedi,Zvolen,2
+BANSKOBYSTRICKÝKRAJ,tedi,Brezno,1
+BANSKOBYSTRICKÝKRAJ,tedi,Banska Bystrica,1
+ŽILINSKÝKRAJ,tedi,Liptovsky Mikulas,2
+BRATISLAVSKÝKRAJ,tedi,Bratislava,3
+BRATISLAVSKÝKRAJ,tedi,Malacky,1
+BRATISLAVSKÝKRAJ,tedi,Bratislava Raca,1
+BRATISLAVSKÝKRAJ,tedi,Pezinok,1
+ŽILINSKÝKRAJ,tedi,Martin,2
+BANSKOBYSTRICKÝKRAJ,tedi,Fiľakovo,1
+PREŠOVSKÝKRAJ,tedi,Poprad,2
+BANSKOBYSTRICKÝKRAJ,tedi,Rimavska Sobota,1
+KOŠICKÝKRAJ,tedi,Spišská Nová Ves,1
+KOŠICKÝKRAJ,tedi,Spisska Nova Ves,1
+PREŠOVSKÝKRAJ,tedi,Kežmarok,1
+KOŠICKÝKRAJ,tedi,Moldava nad Bodvou,1
+KOŠICKÝKRAJ,tedi,Košice,1
+KOŠICKÝKRAJ,tedi,Kosice,2
+KOŠICKÝKRAJ,tedi,Kosice - Nad Jazerom,1
+PREŠOVSKÝKRAJ,tedi,Sabinov,1
+PREŠOVSKÝKRAJ,tedi,Presov,2
+PREŠOVSKÝKRAJ,tedi,Prešov-Sekčov,1
+PREŠOVSKÝKRAJ,tedi,Bardejov,1
+KOŠICKÝKRAJ,tedi,Michalovce,2
+PREŠOVSKÝKRAJ,tedi,Humenne,1
+KOŠICKÝKRAJ,tedi,Trebisov,1
+PREŠOVSKÝKRAJ,tedi,Snina,1
+BRATISLAVSKY,tier,unknown,934
+TRNAVSKY,tier,Okres Trnava,60
+NITRIANSKY,tier,Okres Nitra,56
+TRENCIANSKY,tier,Okres Myjava,58
+BRATISLAVSKY,tier,Okres Pezinok,94
+NITRIANSKY,tier,unknown,4
+UNKNOWN,timberland,851 01 Bratislava,1
+UNKNOWN,timberland,Bratislava,1
+UNKNOWN,tommy_hilfiger,Nitra,1
+UNKNOWN,tommy_hilfiger,Kosice,1
+UNKNOWN,tommy_hilfiger,Banská Bystrica,1
+UNKNOWN,totalenergies,TRENCIN,1
+UNKNOWN,totalenergies,RUZOMBEROK,1
+UNKNOWN,totalenergies,SENEC,1
+UNKNOWN,totalenergies,MALACKY,1
+UNKNOWN,totalenergies,RUZOMBEROK - CERNOVA,1
+UNKNOWN,totalenergies,TRNAVA,2
+UNKNOWN,totalenergies,STUPAVA,1
+UNKNOWN,totalenergies,ZILINA,1
+UNKNOWN,totalenergies,BRATISLAVA-STARA VAJNORSKA,1
+UNKNOWN,totalenergies,SAHY,1
+UNKNOWN,totalenergies,MILHOST,1
+UNKNOWN,totalenergies,ZVOLEN,1
+UNKNOWN,totalenergies,Bánovce nad Bebravou,2
+UNKNOWN,totalenergies,Banská Bystrica,5
+UNKNOWN,totalenergies,Bernolákovo,1
+UNKNOWN,totalenergies,Blatná na Ostrove,1
+UNKNOWN,totalenergies,Bošany,1
+UNKNOWN,totalenergies,Bratislava,17
+UNKNOWN,totalenergies,Brezová pod Bradlom,1
+UNKNOWN,totalenergies,Budča,2
+UNKNOWN,totalenergies,Demandice,1
+UNKNOWN,totalenergies,Devínska Nová Ves,1
+UNKNOWN,totalenergies,Dubnica nad Váhom,1
+UNKNOWN,totalenergies,Dudince,1
+UNKNOWN,totalenergies,Dunajská Streda,4
+UNKNOWN,totalenergies,Gabčíkovo,1
+UNKNOWN,totalenergies,Hanušovce nad Topľou,1
+UNKNOWN,totalenergies,Hlohovec - Šulekovo,1
+UNKNOWN,totalenergies,Hnúšťa,1
+UNKNOWN,totalenergies,Holíč,1
+UNKNOWN,totalenergies,Humenné,2
+UNKNOWN,totalenergies,Ilava,1
+UNKNOWN,totalenergies,Ivachnová,1
+UNKNOWN,totalenergies,Jablonov nad Turňou,1
+UNKNOWN,totalenergies,Kalná nad Hronom,1
+UNKNOWN,totalenergies,Kolárovo,1
+UNKNOWN,totalenergies,Komárno,1
+UNKNOWN,totalenergies,Košice,9
+UNKNOWN,totalenergies,Krompachy,1
+UNKNOWN,totalenergies,Krupina,1
+UNKNOWN,totalenergies,Kúty,1
+UNKNOWN,totalenergies,Lednické Rovne,1
+UNKNOWN,totalenergies,Levice,3
+UNKNOWN,totalenergies,Levoča,1
+UNKNOWN,totalenergies,Liptovský Hrádok,1
+UNKNOWN,totalenergies,Liptovský Mikuláš,2
+UNKNOWN,totalenergies,Lučenec,1
+UNKNOWN,totalenergies,Lučenec časť Opatová,1
+UNKNOWN,totalenergies,Madunice,1
+UNKNOWN,totalenergies,Martin,3
+UNKNOWN,totalenergies,Medveďov,1
+UNKNOWN,totalenergies,Medzilaborce,1
+UNKNOWN,totalenergies,Michalovce,2
+UNKNOWN,totalenergies,Modra,1
+UNKNOWN,totalenergies,Moldava nad Bodvou,1
+UNKNOWN,totalenergies,Myjava,1
+UNKNOWN,totalenergies,Námestovo,1
+UNKNOWN,totalenergies,Nitra,4
+UNKNOWN,totalenergies,Nižná nad Oravou,1
+UNKNOWN,totalenergies,Nová Baňa,1
+UNKNOWN,totalenergies,Nováky,1
+UNKNOWN,totalenergies,Nové Zámky,2
+UNKNOWN,totalenergies,Partizánske,1
+UNKNOWN,totalenergies,Pezinok,2
+UNKNOWN,totalenergies,Piešťany,2
+UNKNOWN,totalenergies,Poltár,1
+UNKNOWN,totalenergies,Poprad,1
+UNKNOWN,totalenergies,Poprad - západ,1
+UNKNOWN,totalenergies,Povazská Bystrica,1
+UNKNOWN,totalenergies,Považská Bystrica - Orlové,1
+UNKNOWN,totalenergies,Prešov,2
+UNKNOWN,totalenergies,Prievidza,1
+UNKNOWN,totalenergies,Púchov,1
+UNKNOWN,totalenergies,Radoľa,1
+UNKNOWN,totalenergies,Rajec,1
+UNKNOWN,totalenergies,Raslavice,1
+UNKNOWN,totalenergies,Revúca,1
+UNKNOWN,totalenergies,Rimavská Sobota,2
+UNKNOWN,totalenergies,Rožňava,1
+UNKNOWN,totalenergies,Ružomberok,1
+UNKNOWN,totalenergies,Sabinov,1
+UNKNOWN,totalenergies,Šahy,1
+UNKNOWN,totalenergies,Šaľa,2
+UNKNOWN,totalenergies,Šamorín,1
+UNKNOWN,totalenergies,Sečovce,1
+UNKNOWN,totalenergies,Sekule I.,1
+UNKNOWN,totalenergies,Sekule II.,1
+UNKNOWN,totalenergies,Senec,3
+UNKNOWN,totalenergies,Senica,1
+UNKNOWN,totalenergies,Sereď,1
+UNKNOWN,totalenergies,Skalica,1
+UNKNOWN,totalenergies,Sládkovičovo,1
+UNKNOWN,totalenergies,Sladkovičovo,1
+UNKNOWN,totalenergies,Slovenské Ďarmoty,1
+UNKNOWN,totalenergies,Sobrance,1
+UNKNOWN,totalenergies,Spišská Nová Ves,2
+UNKNOWN,totalenergies,Stará Ľubovňa,1
+UNKNOWN,totalenergies,Štrba,1
+UNKNOWN,totalenergies,Stropkov,1
+UNKNOWN,totalenergies,Štúrovo,2
+UNKNOWN,totalenergies,Šurany,1
+UNKNOWN,totalenergies,Sverepec,1
+UNKNOWN,totalenergies,Svidník,1
+UNKNOWN,totalenergies,Svit,1
+UNKNOWN,totalenergies,Svrčinovec,1
+UNKNOWN,totalenergies,Terchová,1
+UNKNOWN,totalenergies,Topoľčany,1
+UNKNOWN,totalenergies,Tornaľa,1
+UNKNOWN,totalenergies,Trebišov,1
+UNKNOWN,totalenergies,Trenčianska Turná,1
+UNKNOWN,totalenergies,Trenčianske Teplice,1
+UNKNOWN,totalenergies,Trenčín,3
+UNKNOWN,totalenergies,Trnava,3
+UNKNOWN,totalenergies,Trstená,1
+UNKNOWN,totalenergies,Turčianske Teplice,1
+UNKNOWN,totalenergies,Turzovka,1
+UNKNOWN,totalenergies,Veľké Kapušany,1
+UNKNOWN,totalenergies,Veľký Krtíš,2
+UNKNOWN,totalenergies,Veľký Meder,1
+UNKNOWN,totalenergies,Veľký Šariš,1
+UNKNOWN,totalenergies,Vráble,1
+UNKNOWN,totalenergies,Vranov nad Topľou,1
+UNKNOWN,totalenergies,Vrbové,1
+UNKNOWN,totalenergies,Vysoké Tatry,1
+UNKNOWN,totalenergies,Záhorská Bystrica,1
+UNKNOWN,totalenergies,Zakamenné,1
+UNKNOWN,totalenergies,Ždiar,1
+UNKNOWN,totalenergies,Zeleneč I.,1
+UNKNOWN,totalenergies,Želiezovce,1
+UNKNOWN,totalenergies,Žiar nad Hronom,2
+UNKNOWN,totalenergies,Žilina,5
+UNKNOWN,totalenergies,Zlaté Moravce,1
+UNKNOWN,totalenergies,Zvolen,5
+DOWOLNY,tui,Banovce nad Bebravou,1
+DOWOLNY,tui,Namestovo,1
+DOWOLNY,tui,Námestovo,1
+DOWOLNY,tui,Senec,1
+DOWOLNY,tui,Zilina,3
+UNKNOWN,united_colors_of_benetton,PEZINOK,2
+UNKNOWN,united_colors_of_benetton,NITRA,2
+UNKNOWN,united_colors_of_benetton,KOSICE,2
+UNKNOWN,united_colors_of_benetton,ZILINA,1
+UNKNOWN,united_colors_of_benetton,BANSKA BYSTRICA,1
+UNKNOWN,united_colors_of_benetton,PIESTANY,1
+UNKNOWN,visa,BRATISLAVA,175
+UNKNOWN,visa,MEDVEDOV,1
+UNKNOWN,visa,GABCIKOVO,1
+TRNAVSKYKRAJ,visa,GABČIKOVO,1
+UNKNOWN,visa,VEĽKY MEDER,2
+UNKNOWN,visa,VELKY MEDER,1
+TRNAVSKYKRAJ,visa,VEĽKY MEDER,1
+UNKNOWN,visa,KOMARNO,14
+NITRANSKYKRAJ,visa,KOMARNO,11
+KI,visa,KOŠICE,15
+BL,visa,BRATISLAVA,46
+BRATISLAVSKYKRAJ,visa,BRATISLAVA,127
+TRNAVSKYKRAJ,visa,ŠAMORIN - ČILISTOV,1
+UNKNOWN,visa,PATINCE,1
+UNKNOWN,visa,HAMULIAKOVO,1
+TRNAVSKYKRAJ,visa,VRAKUŇ,1
+TRNAVSKYKRAJ,visa,OKOČ,1
+UNKNOWN,visa,SAMORIN,5
+TRNAVSKYKRAJ,visa,ŠAMORIN,6
+UNKNOWN,visa,ŠAMORIN,2
+TA,visa,ŠAMORIN,1
+UNKNOWN,visa,KAMENICNA,1
+UNKNOWN,visa,DRAZOVCE,1
+TRNAVSKYKRAJ,visa,HOLICE,1
+UNKNOWN,visa,BRATISLAVA - PETRZALKA,5
+TRNAVSKYKRAJ,visa,DOLNY ŠTAL,1
+UNKNOWN,visa,DUNAJSKA LUŽNA,1
+UNKNOWN,visa,MARCELOVA,1
+UNKNOWN,visa,BRATISLAVA - NOVEMESTO,6
+UNKNOWN,visa,DUNAJSKA LUZNA,1
+BRATISLAVSKY,visa,BRATISLAVA - PETRŽALKA,1
+UNKNOWN,visa,ROVINKA,2
+UNKNOWN,visa,HVIEZDOSLAVOV,1
+TRNAVSKYKRAJ,visa,DUNAJSKA STREDA,7
+UNKNOWN,visa,DUNAJSKA STREDA,12
+UNKNOWN,visa,BRATISLAVA - KARLOVAVES,2
+BRATISLAVSKYKRAJ,visa,ROVINKA,1
+UNKNOWN,visa,DEVIN,1
+TA,visa,DUNAJSKA STREDA,1
+UNKNOWN,visa,BRATISLAVA - STAREMESTO,4
+BRATISLAVA,visa,BRATISLAVA,1
+UNKNOWN,visa,JAROVCE,1
+UNKNOWN,visa,BRATISLAVA - DUBRAVKA,3
+BRATISLAVSKY,visa,BRATISLAVA - STARE MESTO,1
+UNKNOWN,visa,BRATISLAVA - RUZINOV,7
+NITRANSKYKRAJ,visa,KOLAROVO,3
+UNKNOWN,visa,BRATISLAVA - LAMAC,1
+TRNAVSKYKRAJ,visa,TOPOĽNIKY,1
+UNKNOWN,visa,ŠTVRTOK NA OSTROVĚ,1
+UNKNOWN,visa,KOLAROVO,2
+TRNAVSKYKRAJ,visa,TRHOVA HRADSKA,1
+UNKNOWN,visa,BRATISLAVA - DEVINSKA NOVA VES,1
+UNKNOWN,visa,HURBANOVO,1
+NITRANSKYKRAJ,visa,HURBANOVO,1
+UNKNOWN,visa,IMEL,1
+NITRANSKYKRAJ,visa,BATOROVE KOSIHY,1
+UNKNOWN,visa,ZLATE KLAŠY,1
+TRNASVKY,visa,ZLATE KLAŠY,1
+NITRANSKYKRAJ,visa,NESVADY,1
+UNKNOWN,visa,JAHODNA,1
+UNKNOWN,visa,IVANKA PRI DUNAJI,3
+UNKNOWN,visa,ZAHORKSA BYSTRICA,1
+UNKNOWN,visa,MUZLA,1
+BRATISLAVSKYKRAJ,visa,IVANKA PRI DUNAJI,3
+UNKNOWN,visa,BRATISLAVA - RACA,1
+UNKNOWN,visa,ZEMNE,1
+BRATISLAVSKYKRAJ,visa,MARIANKA,1
+UNKNOWN,visa,STUPAVA,1
+BRATISLAVSKYKRAJ,visa,STUPAVA,1
+UNKNOWN,visa,BERNOLAKOVO,1
+BL,visa,BERNOLAKOVO,1
+TRNAVSKYKRAJ,visa,JELKA,2
+UNKNOWN,visa,NOVA DEDINKA,1
+NITRANSKYKRAJ,visa,GBELCE,1
+UNKNOWN,visa,STUROVO,4
+UNKNOWN,visa,ŠTUROVO,2
+NITRANSKYKRAJ,visa,ŠTUROVO,4
+UNKNOWN,visa,STREKOV,1
+UNKNOWN,visa,VYSOKA PRI MORAVE,1
+UNKNOWN,visa,NOVE ZAMKY,12
+UNKNOWN,visa,ANDOVCE,1
+NITRANSKYKRAJ,visa,NOVE ZAMKY,8
+NI,visa,NOVE ZAMKY,1
+UNKNOWN,visa,SENEC,11
+UNKNOWN,visa,VELKE ULANY,1
+BRATISLAVSKYKRAJ,visa,SENEC,9
+BL,visa,SENEC,1
+UNKNOWN,visa,HORNE SALIBY,1
+NITRANSKYKRAJ,visa,PALARIKOVO,1
+UNKNOWN,visa,LOZORNO,1
+UNKNOWN,visa,PEZINOK,6
+BRATISLAVSKYKRAJ,visa,PEZINOK,6
+BRATISLAVSKYKRAJ,visa,LIMBACH,1
+UNKNOWN,visa,DVORY NAD ZITAVOU,1
+UNKNOWN,visa,LAB,1
+BL,visa,PEZINOK,2
+UNKNOWN,visa,KAMENIN,1
+UNKNOWN,visa,SELICE,1
+TRNAVSKYKRAJ,visa,ČIERNY BROD,1
+UNKNOWN,visa,MATUSKOVO,1
+TRNAVSKYKRAJ,visa,SLADKOVIČOVO,1
+UNKNOWN,visa,SLADKOVICOVO,1
+NITRANSKYKRAJ,visa,BANOV,1
+UNKNOWN,visa,VELKY GROB,1
+UNKNOWN,visa,SALA,7
+UNKNOWN,visa,GALANTA,3
+UNKNOWN,visa,BINA,1
+TRNAVSKYKRAJ,visa,GALANTA,5
+TA,visa,GALANTA,1
+UNKNOWN,visa,TRNOVEC NAD VAHOM,1
+NITRANSKYKRAJ,visa,ŠAĽA,6
+NITRANSKYKRAJ,visa,TVRDOŠOVCE,1
+NI,visa,ŠAĽA,1
+UNKNOWN,visa,ŠAĽA,2
+TRNASVKY,visa,GALANTA,1
+UNKNOWN,visa,VELKE LUDINCE,1
+UNKNOWN,visa,SEMEROVO,1
+UNKNOWN,visa,TVRDOSOVCE,1
+UNKNOWN,visa,KRALOVA NAD VAHOM,1
+UNKNOWN,visa,MODRA,2
+BRATISLAVSKYKRAJ,visa,MODRA,2
+UNKNOWN,visa,KAPLNA,1
+UNKNOWN,visa,KOLTA,1
+UNKNOWN,visa,SURANY,3
+NITRANSKYKRAJ,visa,ŠURANY,2
+BL,visa,MALACKY,2
+BL,visa,MODRA,1
+UNKNOWN,visa,VELKA MACA,1
+UNKNOWN,visa,FARNA,1
+UNKNOWN,visa,RASTISLAVICE,1
+UNKNOWN,visa,MALACKY,9
+BRATISLAVSKYKRAJ,visa,MALACKY,4
+TRNAVSKYKRAJ,visa,VODERADY,1
+BRATISLAVSKYKRAJ,visa,GAJARY,1
+UNKNOWN,visa,CIFER,1
+UNKNOWN,visa,POHRONSKY RUSKOV,1
+UNKNOWN,visa,BUDMERICE,1
+UNKNOWN,visa,PODHAJSKA,2
+UNKNOWN,visa,SOPORNA,1
+TRNAVSKYKRAJ,visa,ŠOPORŇA,1
+UNKNOWN,visa,OPOJ,1
+NITRANSKYKRAJ,visa,KOMJATICE,2
+UNKNOWN,visa,SEREĎ,2
+UNKNOWN,visa,SERED,5
+UNKNOWN,visa,MOCENOK,2
+TRNAVSKYKRAJ,visa,SEREĎ,3
+BRATISLAVSKYKRAJ,visa,ČASTA,1
+UNKNOWN,visa,ROHOZNIK,1
+UNKNOWN,visa,PATA,1
+UNKNOWN,visa,VELKY KYR,1
+UNKNOWN,visa,TRNAVA,27
+UNKNOWN,visa,MANA,1
+UNKNOWN,visa,TRAVNICA,1
+UNKNOWN,visa,ZELIEZOVCE,3
+NITRANSKYKRAJ,visa,ŽELIEZOVCE,1
+TRNAVSKYKRAJ,visa,TRNAVA,14
+TRNAVSKYKRAJ,visa,ŠUROVCE,1
+TRNASVKY,visa,TRNAVA,2
+UNKNOWN,visa,POVAŽSKA BYSTRICA,6
+TA,visa,TRNAVA,2
+UNKNOWN,visa,BANSKA BYSTRICA,22
+SLOVAKIA,visa,TRNAVA,1
+UNKNOWN,visa,TEKOVSKE LUZANY,1
+UNKNOWN,visa,VELKY CETIN,1
+UNKNOWN,visa,VELKE ZALUZIE,1
+UNKNOWN,visa,NITRA,22
+NI,visa,NITRA,7
+UNKNOWN,visa,DVORNIKY,1
+NITRANSKYKRAJ,visa,NITRA,21
+UNKNOWN,visa,LEHOTA,1
+UNKNOWN,visa,ŠPAČINCE,1
+NITRANSKYKRAJ,visa,VRABLE,2
+UNKNOWN,visa,VRABLE,2
+UNKNOWN,visa,SMOLENICE,1
+UNKNOWN,visa,IVANKA PRI NITRE,1
+UNKNOWN,visa,SAHY,4
+NITRANSKYKRAJ,visa,ŠAHY,2
+UNKNOWN,visa,HLOHOVEC,6
+TRNAVSKYKRAJ,visa,HLOHOVEC,5
+TRNASVKY,visa,HLOHOVEC,1
+UNKNOWN,visa,NITRIANSKE HRNČIAROVCE,1
+UNKNOWN,visa,NITRIANSKE HRNCIAROVCE,1
+NITRANSKYKRAJ,visa,ZBEHY,1
+UNKNOWN,visa,LEOPOLDOV,1
+UNKNOWN,visa,ČAKAJOVCE,1
+NITRANSKYKRAJ,visa,LEVICE,7
+UNKNOWN,visa,POHRANICE,1
+UNKNOWN,visa,LEVICE,9
+UNKNOWN,visa,KUTY,1
+UNKNOWN,visa,BRODSKE,1
+NI,visa,LEVICE,1
+UNKNOWN,visa,SASTIN - STRAZE,1
+UNKNOWN,visa,STARY TEKOV,1
+UNKNOWN,visa,NOVE SADY,1
+TRNAVSKYKRAJ,visa,MADUNICE,1
+UNKNOWN,visa,DUDINCE,2
+UNKNOWN,visa,VYCAPY - OPATOVCE,1
+UNKNOWN,visa,TLMACE,1
+UNKNOWN,visa,TLMAČE,2
+TRNAVSKYKRAJ,visa,JABLONICA,1
+TRNAVSKYKRAJ,visa,CHTELNICA,1
+TRNAVSKYKRAJ,visa,GBELY,1
+UNKNOWN,visa,SLAZANY,1
+UNKNOWN,visa,ZLATE MORAVCE,5
+NITRANSKYKRAJ,visa,ZLATE MORAVCE,3
+NITRANSKYKRAJ,visa,VEĽKE RIPŇANY,1
+UNKNOWN,visa,SENICA,9
+TRNAVSKYKRAJ,visa,SENICA,5
+UNKNOWN,visa,SENICA NAD MYJAVOU,3
+TA,visa,SENICA,1
+UNKNOWN,visa,HRONSKY BEŇADIK,1
+BANSKOBYSTRICKYKRAJ,visa,NENINCE,1
+TRNAVSKYKRAJ,visa,PIEŠŤANY,8
+UNKNOWN,visa,PIESTANY,10
+UNKNOWN,visa,BREZOVA POD BRADLOM,1
+UNKNOWN,visa,PIEŠŤANY,7
+TRNASVKY,visa,PIEŠŤANY,2
+TRNAVSKYKRAJ,visa,VRBOVE,1
+UNKNOWN,visa,VRBOVE,1
+UNKNOWN,visa,NITRIANSKA BLATNICA,1
+UNKNOWN,visa,HOLIC,4
+TRNAVSKYKRAJ,visa,HOLIČ,2
+UNKNOWN,visa,NOVA BAŇA,1
+UNKNOWN,visa,TOPOLCANY,9
+NITRANSKYKRAJ,visa,TOPOĽČANY,8
+UNKNOWN,visa,TOPOĽČANY,3
+UNKNOWN,visa,NOVE MESTO NAD VAHOM,8
+NI,visa,TOPOĽČANY,1
+UNKNOWN,visa,VELKY KRTIS,3
+BANSKOBYSTRICKYKRAJ,visa,VEĽKY KRTIŠ,4
+UNKNOWN,visa,NOVA BANA,1
+UNKNOWN,visa,VEĽKY KRTIŠ,1
+TRENČINSKYKRAJ,visa,SKALICA,1
+UNKNOWN,visa,SKALICA,15
+UNKNOWN,visa,MYJAVA,4
+TRENČINSKYKRAJ,visa,MYJAVA,2
+TRNAVSKYKRAJ,visa,SKALICA,3
+TA,visa,SKALICA,1
+UNKNOWN,visa,MODRY KAMEŇ,1
+UNKNOWN,visa,KRUPINA,3
+BANSKOBYSTRICKYKRAJ,visa,KRUPINA,1
+UNKNOWN,visa,STARA TURA,1
+UNKNOWN,visa,ZARNOVICA,3
+TRENČINSKYKRAJ,visa,NOVE MESTO NAD VAHOM,4
+TC,visa,NOVE MĚSTO NAD VAHOM,2
+UNKNOWN,visa,BANSKA STIAVNICA,3
+BANSKOBYSTRICKYKRAJ,visa,BANSKA ŠTIAVNICA,2
+UNKNOWN,visa,BANSKA ŠTIAVNICA,1
+UNKNOWN,visa,ŠIATORSKA BUKOVINKA,1
+UNKNOWN,visa,PARTIZANSKE,6
+TRENČINSKYKRAJ,visa,PARTIZANSKE,4
+TRENČIANSKYKRAJ,visa,PARTIZANSKE,1
+UNKNOWN,visa,VYHNE,1
+UNKNOWN,visa,SIATORSKA BUKOVINKA,1
+BANSKOBYSTRICKYKRAJ,visa,PLIEŠOVCE,1
+BANSKOBYSTRICKYKRAJ,visa,DETVA,4
+UNKNOWN,visa,BANOVCE NAD BEBRAVOU,8
+TRENČIN,visa,BANOVCE NAD BEBRAVOU,1
+TRENČINSKYKRAJ,visa,BANOVCE NAD BEBRAVOU,3
+TRENCHIANSKY,visa,BANOVCE NAD BEBRAVOU,1
+UNKNOWN,visa,DOLNE VESTENICE,1
+BANSKOBYSTRICKYKRAJ,visa,FIĽAKOVO,2
+UNKNOWN,visa,FILAKOVO,2
+UNKNOWN,visa,FIĽAKOVO,1
+BANSKOBYSTRICKYKRAJ,visa,LUČENEC,4
+UNKNOWN,visa,HALIČ,1
+UNKNOWN,visa,LUČENEC,3
+BANSKABYSTRICA,visa,LUČENEC,2
+UNKNOWN,visa,LUCENEC,5
+BANSKOBYSTRICKY,visa,LUČENEC,1
+BC,visa,LUČENEC,1
+UNKNOWN,visa,ŽIAR NAD HRONOM,3
+UNKNOWN,visa,ZIAR NAD HRONOM,5
+BANSKOBYSTRICKYKRAJ,visa,ŽIAR NAD HRONOM,5
+TRENČINSKYKRAJ,visa,ZEMIANSKE KOSTOĽANY,1
+TRENČINSKYKRAJ,visa,TRENČIN,13
+UNKNOWN,visa,TRENČIN,7
+UNKNOWN,visa,NOVAKY,1
+UNKNOWN,visa,TRENCIN,12
+UNKNOWN,visa,LEHOTA POD VTACNIKOM,1
+UNKNOWN,visa,ZVOLEN,20
+BANSKOBYSTRICKYKRAJ,visa,ZVOLEN,8
+BANSKABYSTRICA,visa,ZVOLEN,2
+PV,visa,BARDEJOV,1
+TRENČIN,visa,TRENČIN,1
+BANSKOBYSTRICKY,visa,ZVOLEN,2
+BANSKOBYSTRICKYKRAJ,visa,KOVAČOVA,1
+UNKNOWN,visa,NITRIANSKE RUDNO,1
+UNKNOWN,visa,BOJNICE,3
+TRENČIANSKYKRAJ,visa,PRIEVIDZA,1
+UNKNOWN,visa,PRIEVIDZA,20
+UNKNOWN,visa,HANDLOVA,3
+TRENČINSKYKRAJ,visa,HANDLOVA,1
+BANSKOBYSTRICKYKRAJ,visa,SLIAČ,1
+TRENCHIANSKY,visa,PRIEVIDZA,1
+TRENČINSKYKRAJ,visa,PRIEVIDZA,7
+TRENČIANSKYKRAJKRAJ,visa,PRIEVIDZA,1
+UNKNOWN,visa,KANIANKA,1
+TC,visa,PRIEVIDZA,1
+UNKNOWN,visa,TRENCIANSKE TEPLICE,1
+UNKNOWN,visa,DETVA,3
+TRENČINSKYKRAJ,visa,DOLNA SUCA,1
+UNKNOWN,visa,POLTAR,1
+UNKNOWN,visa,KREMNICA,1
+TRENČINSKYKRAJ,visa,NOVA DUBNICA,3
+UNKNOWN,visa,NOVA DUBNICA,2
+BANSKOBYSTRICKYKRAJ,visa,RIMAVSKA SOBOTA,4
+SLOVAKIA,visa,RIMAVSKA SOBOTA,2
+UNKNOWN,visa,RIMAVSKA SOBOTA,6
+BANSKABYSTRICA,visa,RIMAVSKA SOBOTA,1
+UNKNOWN,visa,DUBNICA NAD VAHOM,6
+TRENČINSKYKRAJ,visa,DUBNICA NAD VAHOM,3
+UNKNOWN,visa,HRINOVA,1
+UNKNOWN,visa,ABOVCE,1
+BANSKOBYSTRICKYKRAJ,visa,BANSKA BYSTRICA,15
+UNKNOWN,visa,NITRIANSKE PRAVNO,1
+UNKNOWN,visa,ILAVA,3
+TRENČINSKYKRAJ,visa,ILAVA,1
+BC,visa,BANSKA BYSTRICA,2
+BANSKOBYSTRICKY,visa,BANSKA BYSTRICA,1
+BANSKABYSTRICA,visa,BANSKA BYSTRICA,1
+SLOVAKIA,visa,BANSKA BYSTRICA,1
+UNKNOWN,visa,SELCE,1
+ŽILINSKYKRAJ,visa,TURČIANSKE TEPLICE,1
+UNKNOWN,visa,TURCIANSKE TEPLICE,1
+TRENČINSKYKRAJ,visa,LADCE,1
+UNKNOWN,visa,TORNALA,1
+BANSKOBYSTRICKYKRAJ,visa,TORNAĽA,1
+UNKNOWN,visa,SLOVENSKA LUPCA,1
+UNKNOWN,visa,LEDNICKE ROVNE,1
+UNKNOWN,visa,BELUSA,1
+UNKNOWN,visa,HNUSTA,2
+UNKNOWN,visa,MEDZIBROD,1
+TRENČINSKYKRAJ,visa,PUCHOV,5
+UNKNOWN,visa,BRUSNO,1
+UNKNOWN,visa,PUCHOV,6
+TRENČINSKYKRAJ,visa,POVAŽSKA BYSTRICA,8
+UNKNOWN,visa,POVAZSKA BYSTRICA,6
+BANSKOBYSTRICKYKRAJ,visa,DONOVALY,1
+UNKNOWN,visa,DONOVALY,1
+UNKNOWN,visa,DONOVAL,1
+TRENCHIANSKY,visa,POVAŽSKA BYSTRICA,1
+UNKNOWN,visa,PREDAJNA,1
+UNKNOWN,visa,TISOVEC,1
+UNKNOWN,visa,HRONEC,1
+UNKNOWN,visa,HORNA LEHOTA,2
+UNKNOWN,visa,BREZNO,4
+UNKNOWN,visa,RAJEC,1
+KOŠICKYKRAJ,visa,PLEŠIVEC,1
+UNKNOWN,visa,POHRONSKA POLHORA,1
+BANSKABYSTRICA,visa,BREZNO,1
+BANSKOBYSTRICKYKRAJ,visa,BREZNO,4
+BANSKOBYSTRICKY,visa,BREZNO,1
+UNKNOWN,visa,MARTIN,17
+BANSKOBYSTRICKYKRAJ,visa,REVUCA,1
+ŽILINSKYKRAJ,visa,MARTIN,7
+UNKNOWN,visa,REVUCA,2
+UNKNOWN,visa,RAJECKE TEPLICE,2
+ŽILINSKY,visa,MARTIN,1
+ZI,visa,MARTIN,3
+UNKNOWN,visa,PAPRADNO,1
+ŽILINSKYKRAJ,visa,ŠTIAVNIK,1
+ŽILINSKYKRAJ,visa,VRUTKY,1
+UNKNOWN,visa,VRUTKY,2
+UNKNOWN,visa,BYTCA,5
+UNKNOWN,visa,SUCANY,1
+ŽILINSKYKRAJ,visa,BYTČA,2
+KOŠICKYKRAJ,visa,SLAVOŠOVCE,1
+UNKNOWN,visa,ŽILINA,14
+ŽILINSKYKRAJ,visa,ŽILINA,19
+UNKNOWN,visa,TURANY,1
+UNKNOWN,visa,ZILINA,23
+ZI,visa,ŽILINA,4
+KOŠICKYKRAJ,visa,ROŽŇAVA,7
+UNKNOWN,visa,ZAVADKA NAD HRONOM,1
+UNKNOWN,visa,ROZNAVA,7
+UNKNOWN,visa,ROŽŇAVA,2
+UNKNOWN,visa,STREČNO,1
+UNKNOWN,visa,DEMANOVSKA DOLINA,7
+UNKNOWN,visa,GBELANY,1
+ZI,visa,GBEĽANY,1
+ŽILINSKYKRAJ,visa,RUŽOMBEROK,9
+UNKNOWN,visa,RUZOMBEROK,4
+ŽILINSKYKRAJ,visa,ĽUBOCHŇA,1
+UNKNOWN,visa,RUŽOMBEROK,5
+ZI,visa,RUŽOMBEROK,1
+UNKNOWN,visa,LIPTOVSKE SLIAČE,1
+UNKNOWN,visa,POHORELA,1
+UNKNOWN,visa,SUMIAC,1
+UNKNOWN,visa,TURNA NAD BODVOU,1
+ŽILINSKYKRAJ,visa,DEMANOVSKA DOLINA,1
+UNKNOWN,visa,RUDINA,1
+ŽILINSKYKRAJ,visa,MAKOV,1
+UNKNOWN,visa,LIPTOVSKY MIKULAS,13
+UNKNOWN,visa,BESENOVA,1
+UNKNOWN,visa,BEŠEŇOVA,1
+UNKNOWN,visa,KYSUCKE NOVE MESTO,4
+ŽILINSKYKRAJ,visa,KYSUCKE NOVE MESTO,2
+UNKNOWN,visa,DEMANOVA,1
+UNKNOWN,visa,MOLDAVA NAD BODVOU,5
+KOŠICKYKRAJ,visa,MOLDAVA NAD BODVOU,2
+SLOVAKIA,visa,MOLDAVA NAD BODVOU,1
+UNKNOWN,visa,LUČKY,1
+ŽILINSKYKRAJ,visa,LIPTOVSKY MIKULAŠ,8
+UNKNOWN,visa,LIPTOVSKY HRADOK,2
+UNKNOWN,visa,LIPTOVSKY JAN,1
+ŽILINSKYKRAJ,visa,LIPTOVSKY JAN,1
+UNKNOWN,visa,TERCHOVA,3
+UNKNOWN,visa,LIPTOVSKY MIKULAŠ,6
+ŽILINSKY,visa,LIPTOVSKY MIKULAŠ,2
+SLOVAKIA,visa,LIPTOVSKY MIKULAS,1
+UNKNOWN,visa,SENA,1
+UNKNOWN,visa,KYSUCKY LIESKOVEC,1
+UNKNOWN,visa,LIPTOVSKA SIELNICA,1
+UNKNOWN,visa,TURZOVKA,2
+UNKNOWN,visa,DOLNY KUBIN,7
+ŽILINSKYKRAJ,visa,DOLNY KUBIN,5
+KOŠICKYKRAJ,visa,JASOV,1
+UNKNOWN,visa,ZAZRIVA,1
+UNKNOWN,visa,KRASNO NAD KYSUCOU,1
+KOŠICKYKRAJ,visa,NALEPKOVO,1
+UNKNOWN,visa,CANA,1
+UNKNOWN,visa,RAKOVA,1
+UNKNOWN,visa,ORAVSKY PODZAMOK,1
+UNKNOWN,visa,CADCA,11
+ŽILINSKYKRAJ,visa,ČADCA,5
+UNKNOWN,visa,ČADCA,2
+UNKNOWN,visa,STRBA,1
+UNKNOWN,visa,KOSICE,25
+UNKNOWN,visa,KRAĽOVKSY CHLMEC,1
+KOŠICKYKRAJ,visa,KRAĽOVSKY CHLMEC,3
+UNKNOWN,visa,OŠČADNICA,1
+UNKNOWN,visa,KRALOVSKY CHLMEC,1
+UNKNOWN,visa,ŠTRBA,1
+KOŠICKYKRAJ,visa,KOŠICE,40
+UNKNOWN,visa,KOŠICE,17
+ZI,visa,OŠČADNICA,1
+KOŠICKYKRAJ,visa,KOŠICE - JUH,1
+UNKNOWN,visa,HRABUŠICE,1
+UNKNOWN,visa,KOSICE - SIDLISKO KVP,1
+SLOVAKIA,visa,KOSICE,5
+UNKNOWN,visa,SVRCINOVEC,1
+KOŠICKYKRAJ,visa,SPIŠSKA NOVA VES,8
+UNKNOWN,visa,SPIŠSKA NOVA VES,7
+UNKNOWN,visa,SVIT,3
+KI,visa,SPIŠSKA NOVA VES,3
+SLOVAKIA,visa,MLYNSKA,1
+UNKNOWN,visa,SPISSKA NOVA VES,6
+KI,visa,ČIERNA NAD TISOU,1
+UNKNOWN,visa,SMIZANY,1
+ŽILINSKYKRAJ,visa,HRUŠTIN,1
+PV,visa,POPRAD,2
+UNKNOWN,visa,POPRAD,24
+PREŠOVSKYKRAJ,visa,POPRAD,12
+UNKNOWN,visa,ŠTRBSKE PLESO,3
+UNKNOWN,visa,KOSICE - STAREMESTO,1
+UNKNOWN,visa,STRBSKE PLESO,1
+PREŠOV,visa,POPRAD,1
+PRESHOVSKY,visa,POPRAD,1
+UNKNOWN,visa,HABOVKA,1
+UNKNOWN,visa,GELNICA,1
+UNKNOWN,visa,KOSICE - DZUNGLA,1
+UNKNOWN,visa,NIZNA,1
+UNKNOWN,visa,SKALITE,2
+KOŠICKYKRAJ,visa,KOŠICE - TAHANOVCE,1
+UNKNOWN,visa,ZAKAMENNE,1
+KOŠICKYKRAJ,visa,TREBIŠOV,4
+UNKNOWN,visa,TVRDOSIN,2
+UNKNOWN,visa,TREBISOV,3
+UNKNOWN,visa,KROMPACHY,2
+UNKNOWN,visa,TREBIŠOV,4
+SLOVAKIA,visa,TREBISOV,1
+UNKNOWN,visa,VYSOKE TATRY,2
+UNKNOWN,visa,NOVOŤ,1
+UNKNOWN,visa,LEVOCA,3
+PREŠOVSKYKRAJ,visa,LEVOČA,3
+UNKNOWN,visa,LIPANY,1
+UNKNOWN,visa,LEVOČA,2
+PREŠOVSKYKRAJ,visa,VRBOV,1
+UNKNOWN,visa,TRSTENA,3
+UNKNOWN,visa,TATRANSKA KOTLINA,1
+UNKNOWN,visa,SPISSKE PODHRADIE,1
+ŽILINSKYKRAJ,visa,NAMESTOVO,2
+UNKNOWN,visa,NAMESTOVO,3
+KOŠICKYKRAJ,visa,VEĽKE KAPUŠANY,1
+UNKNOWN,visa,VELKE KAPUSANY,2
+SLOVAKIA,visa,VELKE KAPUSANY,2
+KOŠICKYKRAJ,visa,SEČOVCE,2
+UNKNOWN,visa,SECOVCE,1
+PREŠOVSKYKRAJ,visa,VYSOKE TATRY,1
+KOŠICKYKRAJ,visa,KYSAK,1
+UNKNOWN,visa,TATRANSKA LOMNICA,5
+UNKNOWN,visa,LIESEK,1
+UNKNOWN,visa,LUBICA,1
+PREŠOVSKYKRAJ,visa,KEŽMAROK,5
+UNKNOWN,visa,KEZMAROK,6
+UNKNOWN,visa,VITANOVA,1
+PV,visa,KEŽMAROK,1
+UNKNOWN,visa,KEŽMAROK,1
+UNKNOWN,visa,SPISSKA BELA,1
+PREŠOVSKYKRAJ,visa,STARA ĽUBOVŇA,3
+UNKNOWN,visa,ŽDIAR,4
+PREŠOVSKYKRAJ,visa,ŽDIAR,1
+UNKNOWN,visa,MICHALOVCE,15
+SLOVAKIA,visa,MICHALOVCE,2
+UNKNOWN,visa,PRESOV,18
+KOŠICKYKRAJ,visa,MICHALOVCE,8
+UNKNOWN,visa,PREŠOV,10
+PREŠOVSKYKRAJ,visa,PREŠOV,16
+KI,visa,MICHALOVCE,1
+PV,visa,PREŠOV,2
+PRESHOVSKY,visa,PREŠOV,1
+SLOVAKIA,visa,PRESOV,1
+UNKNOWN,visa,BARDEJOV,9
+UNKNOWN,visa,VYŠNE NEMECKE,1
+UNKNOWN,visa,LUBOTICE,1
+PREŠOVSKYKRAJ,visa,ĽUBOTICE,1
+PREŠOVSKYKRAJ,visa,VEĽKY ŠARIŠ,1
+UNKNOWN,visa,PODOLINEC,1
+PV,visa,VEĽKY ŠARIŠ,1
+UNKNOWN,visa,VRANOV NAD TOPLOU,8
+PREŠOVSKYKRAJ,visa,VRANOV NAD TOPĽOU,4
+PREŠOVSKYKRAJ,visa,SABINOV,3
+UNKNOWN,visa,SABINOV,2
+SLOVAKIA,visa,LIPANY,1
+KOŠICKYKRAJ,visa,SOBRANCE,1
+UNKNOWN,visa,SOBRANCE,1
+UNKNOWN,visa,STRAZSKE,2
+UNKNOWN,visa,KALUŽA,1
+PREŠOVSKYKRAJ,visa,VYŠNE RUŽBACHY,1
+PREŠOV,visa,STARA ĽUBOVŇA,1
+UNKNOWN,visa,STARA LUBOVNA,3
+UNKNOWN,visa,HANUSOVCE NAD TOPLOU,1
+UNKNOWN,visa,HUMENNE,11
+PREŠOVSKYKRAJ,visa,HUMENNE,7
+UNKNOWN,visa,LESNICA,1
+SLOVAKIA,visa,HUMENNE,1
+PV,visa,HUMENNE,1
+UNKNOWN,visa,RASLAVICE,1
+UNKNOWN,visa,GIRALTOVCE,1
+SLOVAKIA,visa,BARDEJOV,1
+UNKNOWN,visa,SNINA,4
+PREŠOVSKYKRAJ,visa,SNINA,2
+PREŠOVSKYKRAJ,visa,BARDEJOV,6
+UNKNOWN,visa,STROPKOV,2
+PREŠOVSKYKRAJ,visa,STROPKOV,1
+UNKNOWN,visa,SVIDNIK,4
+PREŠOVSKYKRAJ,visa,SVIDNIK,3
+PV,visa,SVIDNIK,1
+UNKNOWN,visa,MEDZILABORCE,1
+BRATISLAVA,western_union,Bratislava,32
+TRNAVA,western_union,Samorin,2
+BRATISLAVA,western_union,Gajary,1
+BRATISLAVA,western_union,Dunajska Luzna,1
+BRATISLAVA,western_union,Zohor,1
+BRATISLAVA,western_union,Stupava,1
+TRNAVA,western_union,Gabcikovov,1
+BRATISLAVA,western_union,Malacky,1
+NITRA,western_union,Cicov,1
+BRATISLAVA,western_union,Ivanka Pri Dunaji,1
+BRATISLAVA,western_union,Velke Levare,1
+TRNAVA,western_union,Zlate Klasy,1
+TRNAVA,western_union,Moravsky Svaety Jan,1
+BRATISLAVA,western_union,Bernolakovo,1
+TRNAVA,western_union,Dunajska Streda,1
+TRNAVA,western_union,Kuty,1
+NITRA,western_union,Zemianska Olca,1
+BRATISLAVA,western_union,Svaty Jur,1
+BRATISLAVA,western_union,Pezinok,1
+TRNAVA,western_union,Jelka,1
+BRATISLAVA,western_union,Senkvice,1
+TRNAVA,western_union,Trhova Hradska,1
+NITRA,western_union,Zlatna Na Ostrove,1
+TRNAVA,western_union,Dolny Stal,1
+TRNAVA,western_union,Brodske,1
+NITRA,western_union,Sokolce Na Ostrove,1
+NITRA,western_union,Komarno,2
+TRNAVA,western_union,Sastin Straze,1
+BRATISLAVA,western_union,Modra,1
+TRNAVA,western_union,Okoc,1
+TRNAVA,western_union,Velke Ulany,1
+TRNAVA,western_union,Borsky Mikulas,1
+BRATISLAVA,western_union,Casta,1
+TRNAVA,western_union,Gbely,1
+NITRA,western_union,Kolarovo,1
+NITRA,western_union,Iza,1
+TRNAVA,western_union,Trstice,1
+TRNAVA,western_union,Horne Saliby,1
+NITRA,western_union,Marcelova,1
+TRNAVA,western_union,Galanta,1
+TRNAVA,western_union,Sladkovicovo,1
+TRNAVA,western_union,Voderady Pri Tmave,1
+TRNAVA,western_union,Smlenice,1
+TRNAVA,western_union,Velka Maca,1
+NITRA,western_union,Imel,1
+NITRA,western_union,Hurbanovo,1
+TRNAVA,western_union,Vlcany,1
+TRNAVA,western_union,Tesedikovo,1
+TRNAVA,western_union,Trnava,6
+TRNAVA,western_union,Skalica,2
+TRNAVA,western_union,Neded,1
+NITRA,western_union,Nesvady,1
+TRNAVA,western_union,Boleraz,1
+NITRA,western_union,Batorove Kosihy,1
+NITRA,western_union,Svaty Peter,1
+TRNAVA,western_union,Trstin,1
+TRNAVA,western_union,Bohdanovce Nad Trnavou,1
+TRNAVA,western_union,Senica Nad Myjavou,1
+TRNAVA,western_union,Jablonica,1
+BRATISLAVA,western_union,Sala,1
+TRNAVA,western_union,Senica,1
+TRNAVA,western_union,Sered,1
+TRNAVA,western_union,Zavar,1
+TRNAVA,western_union,Brestovany,1
+NITRA,western_union,Trnovec Nad Vahom,1
+NITRA,western_union,Palarikovo,1
+NITRA,western_union,Sala,1
+NITRA,western_union,Pribeta,1
+TRNAVA,western_union,Soporna,1
+NITRA,western_union,Nove Zamky,3
+NITRA,western_union,Tvrdosovce,1
+NITRA,western_union,Gbelce,1
+NITRA,western_union,Mocenok,1
+TRENCIN,western_union,Brezova Pod Bradlom,1
+NITRA,western_union,Banov Pri Nz,1
+NITRA,western_union,Dvory Nad Zitavou,1
+TRNAVA,western_union,Hlohovec,2
+NITRA,western_union,Svodin,1
+TRNAVA,western_union,Madunice,1
+TRENCIN,western_union,Myjava,1
+NITRA,western_union,Surany,1
+TRNAVA,western_union,Leopoldov,1
+NITRA,western_union,Cabaj Capor,1
+NITRA,western_union,Mojmirovce,1
+NITRA,western_union,Velke Zaluzie,1
+NITRA,western_union,Komjatice,1
+NITRA,western_union,Risnovce,1
+NITRA,western_union,Nitra,6
+NITRA,western_union,Mojzesovo,1
+NITRA,western_union,Velky Kyr,1
+NITRA,western_union,Podhajska,1
+TRNAVA,western_union,Vrbove,1
+NITRA,western_union,Nove Sady,1
+NITRA,western_union,Ivanka Pri Nitre,1
+NITRA,western_union,Zbehy,1
+TRNAVA,western_union,Piestany,2
+NITRA,western_union,Luzianky,1
+NITRA,western_union,Farna Pri Hrone,1
+TRNAVA,western_union,Moravany Nad Vahom,1
+NITRA,western_union,Tekovske Luzany,1
+TRENCIN,western_union,Stara Tura,1
+ZILINA,western_union,Martin,2
+TRENCIN,western_union,Nove Mesto Nad Vahom,2
+NITRA,western_union,Zeliezovce,1
+NITRA,western_union,Vrable,1
+NITRA,western_union,Pohronsky Ruskov,1
+TRENCIN,western_union,Cachtice,1
+NITRA,western_union,Jelenec,1
+NITRA,western_union,Sarovce,1
+TRENCIN,western_union,Velke Ripnany,1
+NITRA,western_union,Radosina,1
+NITRA,western_union,Tesarske Mlynany,1
+NITRA,western_union,Kalna Nad Hronom,1
+TRENCIN,western_union,Melcice Lieskove,1
+NITRA,western_union,Levice,2
+TRENCIN,western_union,Solcany,1
+NITRA,western_union,Topolcany,3
+NITRA,western_union,Jacovce,1
+NITRA,western_union,Zlate Moravce,1
+NITRA,western_union,Tlmace,1
+NITRA,western_union,Demandice,1
+TRENCIN,western_union,Prasice,1
+TRENCIN,western_union,Bosany,1
+BANSKABYSTRICA,western_union,Dudince,1
+TRENCIN,western_union,Trencin,4
+NITRA,western_union,Plastovce,1
+NITRA,western_union,Kozarovce,1
+TRENCIN,western_union,Trencianske Stankovce,1
+BANSKABYSTRICA,western_union,Tekovska Breznica,1
+TRENCIN,western_union,Banovce Nad Bebravou,2
+BANSKABYSTRICA,western_union,Vinica,1
+NITRA,western_union,Horne Turovce,1
+TRENCIN,western_union,Horna Suca,1
+BANSKABYSTRICA,western_union,Hronsky Benadik,1
+TRENCIN,western_union,Partizanske,2
+TRENCIN,western_union,Nemsova,1
+NITRA,western_union,Pukanec,1
+TRENCIN,western_union,Trencianska Tepla,1
+TRENCIN,western_union,Trencianske Teplice,1
+TRENCIN,western_union,Dubnica Nad Vahom,2
+TRENCIN,western_union,Dolna Suca,1
+TRENCIN,western_union,Dolne Vestenice,1
+BANSKABYSTRICA,western_union,Nova Bana,1
+BANSKABYSTRICA,western_union,Busince,1
+BANSKABYSTRICA,western_union,Krupina,1
+TRENCIN,western_union,Ilava,1
+TRENCIN,western_union,Pruske,1
+PRESOV,western_union,Sarisske Jastrabie,1
+BANSKABYSTRICA,western_union,Hontianske Nemce,1
+BANSKABYSTRICA,western_union,Zelovce,1
+BANSKABYSTRICA,western_union,Banska Bela,1
+TRENCIN,western_union,Puchov,1
+BANSKABYSTRICA,western_union,Cebovce,1
+BANSKABYSTRICA,western_union,Bzovik,1
+TRENCIN,western_union,Prievidza,2
+TRENCIN,western_union,Lednicke Rovne,1
+BANSKABYSTRICA,western_union,Vyhne,1
+TRENCIN,western_union,Kanianka,1
+BANSKABYSTRICA,western_union,Dolna Strehova,1
+KOSICE,western_union,Velky Hores,1
+BANSKABYSTRICA,western_union,Vcelince,2
+KOSICE,western_union,Leles,1
+BANSKABYSTRICA,western_union,Pliesovce,1
+TRENCIN,western_union,Belusa,1
+TRENCIN,western_union,Lehota Pod Vtacnikom,1
+BANSKABYSTRICA,western_union,Modry Kamen,1
+BANSKABYSTRICA,western_union,Hlinik Nad Hronom,1
+BANSKABYSTRICA,western_union,Banska Stiavnica,1
+BANSKABYSTRICA,western_union,Ziar Nad Hronom,1
+KOSICE,western_union,Streda Nad Bodrogom,1
+ZILINA,western_union,Stiavnik,1
+KOSICE,western_union,Kralovsky Chlmec,1
+BANSKABYSTRICA,western_union,Lucenec,3
+PRESOV,western_union,Ulic,1
+ZILINA,western_union,Makov,1
+TRENCIN,western_union,Nitrianske Pravno,1
+TRENCIN,western_union,Povazska Bystrica,2
+TRENCIN,western_union,Handlova,1
+BANSKABYSTRICA,western_union,Kovacova Pri Zvolene,1
+BANSKABYSTRICA,western_union,Zvolen,4
+KOSICE,western_union,Velke Kapusany,1
+KOSICE,western_union,Somotor,1
+BANSKABYSTRICA,western_union,Dobra Niva,1
+BANSKABYSTRICA,western_union,Hodejov,1
+ZILINA,western_union,Velke Rovne,1
+ZILINA,western_union,Horna Stubna,1
+BANSKABYSTRICA,western_union,Sliac,1
+BANSKABYSTRICA,western_union,Lieskovec,1
+KOSICE,western_union,Oborin,1
+ZILINA,western_union,Turcianske Teplice,1
+BANSKABYSTRICA,western_union,Halic,1
+PRESOV,western_union,Ubla,1
+BANSKABYSTRICA,western_union,Kremnica,1
+BANSKABYSTRICA,western_union,Filakovo,1
+KOSICE,western_union,Malcice,1
+ZILINA,western_union,Rajecke Teplice,2
+KOSICE,western_union,Palin,1
+BANSKABYSTRICA,western_union,Velke Dravce,1
+KOSICE,western_union,Sobrance,1
+ZILINA,western_union,Rajec,1
+KOSICE,western_union,Drahnov,1
+ZILINA,western_union,Bytca,1
+ZILINA,western_union,Zilina,7
+BANSKABYSTRICA,western_union,Detva,1
+KOSICE,western_union,Jovsa,1
+BANSKABYSTRICA,western_union,Banska Bystrica,5
+KOSICE,western_union,Hatalov,1
+KOSICE,western_union,Michalany Pri Trebisove,1
+KOSICE,western_union,Cecehov,1
+BANSKABYSTRICA,western_union,Poltar,1
+KOSICE,western_union,Zaluzice,1
+BANSKABYSTRICA,western_union,Hrnciarske Zaluzany,1
+KOSICE,western_union,Lastomir,1
+KOSICE,western_union,Bracovce,1
+BANSKABYSTRICA,western_union,Lenartovce,1
+BANSKABYSTRICA,western_union,Ocova,1
+BANSKABYSTRICA,western_union,Rimavska Sec,1
+BANSKABYSTRICA,western_union,Mytna,1
+PRESOV,western_union,Stakcin,1
+ZILINA,western_union,Rosina,1
+BANSKABYSTRICA,western_union,Rimavska Sobota,1
+ZILINA,western_union,Pribovce,1
+ZILINA,western_union,Dlhe Pole,1
+BANSKABYSTRICA,western_union,Vlkanova,1
+ZILINA,western_union,Klastor Pod Znievom,1
+BANSKABYSTRICA,western_union,Jesenske,1
+BANSKABYSTRICA,western_union,Kalinovo,1
+KOSICE,western_union,Hran,1
+KOSICE,western_union,Michalovce,3
+KOSICE,western_union,Trebisov,2
+ZILINA,western_union,Neslusa,1
+ZILINA,western_union,Lietavska Lucka,1
+BANSKABYSTRICA,western_union,Rimavske Janovce,1
+BANSKABYSTRICA,western_union,Detva Sidlisko,1
+BANSKABYSTRICA,western_union,Krivan,1
+BANSKABYSTRICA,western_union,Cinobana,1
+ZILINA,western_union,Turzovka,1
+ZILINA,western_union,Cadca,2
+ZILINA,western_union,Kysucky Lieskovec,1
+ZILINA,western_union,Drazkovce Pri Martine,1
+KOSICE,western_union,Vojcice,1
+PRESOV,western_union,Bela Nad Cirochou,1
+BANSKABYSTRICA,western_union,Donovaly,1
+KOSICE,western_union,Lekarovce,1
+KOSICE,western_union,Secovce,1
+ZILINA,western_union,Sucany,1
+KOSICE,western_union,Rakovec Nad Ondavou,1
+BANSKABYSTRICA,western_union,Lubietova,1
+KOSICE,western_union,Zemplinska Teplica,1
+ZILINA,western_union,Krasno Nad Kysucou,1
+PRESOV,western_union,Kamenica Nad Cirochou,1
+BANSKABYSTRICA,western_union,Tornala,2
+KOSICE,western_union,Kuzmice,1
+KOSICE,western_union,Trhoviste,1
+PRESOV,western_union,Snina,1
+KOSICE,western_union,Pozdisovce,1
+BANSKABYSTRICA,western_union,Hrinova,1
+ZILINA,western_union,Teplicka Nad Vahom,1
+BANSKABYSTRICA,western_union,Hrochot,1
+ZILINA,western_union,Liptovska Osada,1
+PRESOV,western_union,Koskovce,1
+KOSICE,western_union,Zdana,1
+BANSKABYSTRICA,western_union,Kokava Nad Rimavicou,1
+ZILINA,western_union,Oscadnica,1
+BANSKABYSTRICA,western_union,Gemerska Ves,1
+KOSICE,western_union,Sena,1
+KOSICE,western_union,Slanec,1
+KOSICE,western_union,Perin Chym,1
+BANSKABYSTRICA,western_union,Hnusta,1
+BANSKABYSTRICA,western_union,Velky Blh,1
+PRESOV,western_union,Dlhe Nad Cirochou,1
+BANSKABYSTRICA,western_union,Slovenska Lupca,1
+ZILINA,western_union,Varin,1
+ZILINA,western_union,Vrutky,1
+KOSICE,western_union,Plesivec,1
+KOSICE,western_union,Cecejovce,1
+ZILINA,western_union,Nova Bystrica,1
+KOSICE,western_union,Gemerska Horka,1
+KOSICE,western_union,Valaliky,1
+ZILINA,western_union,Terchova,1
+KOSICE,western_union,Velka Ida,1
+KOSICE,western_union,Kosice,18
+KOSICE,western_union,Rozhanovce,1
+ZILINA,western_union,Ruzomberok,3
+KOSICE,western_union,Brezno,1
+BANSKABYSTRICA,western_union,Tisovec,1
+PRESOV,western_union,Secovska Polianka,1
+ZILINA,western_union,Skalite,1
+PRESOV,western_union,Humenne,3
+KOSICE,western_union,Strazske,1
+KOSICE,western_union,Remetske Hamre,1
+BANSKABYSTRICA,western_union,Brusno,1
+ZILINA,western_union,Turany Nad Vahom,1
+BANSKABYSTRICA,western_union,Michalova,1
+BANSKABYSTRICA,western_union,Jelsava,1
+PRESOV,western_union,Slovenska Kajna,1
+ZILINA,western_union,Zazriva,1
+KOSICE,western_union,Kecerovce,1
+BANSKABYSTRICA,western_union,Revuca,1
+PRESOV,western_union,Sol,1
+BANSKABYSTRICA,western_union,Lubenik,1
+KOSICE,western_union,Turna Nad Bodvou,1
+KOSICE,western_union,Moldava Nad Bodvou,1
+BANSKABYSTRICA,western_union,Valaska,1
+PRESOV,western_union,Vranov Nad Toplou,2
+KOSICE,western_union,Sady Nad Torysou,1
+BANSKABYSTRICA,western_union,Cierny Balog,1
+KOSICE,western_union,Bidovce,1
+BANSKABYSTRICA,western_union,Podbrezova,1
+ZILINA,western_union,Lubochna,1
+KOSICE,western_union,Svedlar,1
+ZILINA,western_union,Liptovsky Hradok,1
+KOSICE,western_union,Helcmanovce,1
+ZILINA,western_union,Liptovsky Mikulas,3
+ZILINA,western_union,Oravske Vesele,1
+ZILINA,western_union,Lokca,1
+KOSICE,western_union,Mnisek Nad Hnilcom,1
+PRESOV,western_union,Stropkov,1
+ZILINA,western_union,Mutne,1
+PRESOV,western_union,Hanusovce Nad Toplou,1
+ZILINA,western_union,Hrustin,1
+BANSKABYSTRICA,western_union,Zavadka Nad Hronom,1
+KOSICE,western_union,Kysak,1
+PRESOV,western_union,Presov,7
+ZILINA,western_union,Namestovo,1
+ZILINA,western_union,Nizna Nad Oravou,1
+KOSICE,western_union,Nalepkovo,1
+ZILINA,western_union,Oravska Polhora,1
+PRESOV,western_union,Ladomirova,1
+ZILINA,western_union,Zakamenne,1
+ZILINA,western_union,Oravsky Podzamok,1
+BANSKABYSTRICA,western_union,Polomka,1
+PRESOV,western_union,Lemesany,1
+KOSICE,western_union,Slavosovce,1
+ZILINA,western_union,Zuberec,1
+KOSICE,western_union,Rudnany,1
+ZILINA,western_union,Tvrdosin,1
+PRESOV,western_union,Marhan,1
+ZILINA,western_union,Rabca,1
+KOSICE,western_union,Pavlovce Nad Uhom,1
+KOSICE,western_union,Slovinky,1
+PRESOV,western_union,Svidnik,1
+KOSICE,western_union,Krasnohorske Podhradie,1
+KOSICE,western_union,Roznava,1
+KOSICE,western_union,Stitnik,1
+ZILINA,western_union,Liptovske Sliace,1
+ZILINA,western_union,Oravska Lesna,1
+KOSICE,western_union,Jasov,1
+PRESOV,western_union,Velky Saris,1
+PRESOV,western_union,Kurima,1
+KOSICE,western_union,Krompachy,1
+KOSICE,western_union,Kluknava,1
+ZILINA,western_union,Podbiel,1
+KOSICE,western_union,Gelnica,1
+KOSICE,western_union,Dobsina,1
+PRESOV,western_union,Okruhle,1
+BANSKABYSTRICA,western_union,Pohorela,1
+ZILINA,western_union,Dlha Nad Oravou,1
+KOSICE,western_union,Prakovce,1
+BANSKABYSTRICA,western_union,Helpa,1
+PRESOV,western_union,Siroke,1
+KOSICE,western_union,Spisska Nova Ves,1
+PRESOV,western_union,Sarisske Michalany,1
+KOSICE,western_union,Spissky Hrusov,1
+PRESOV,western_union,Raslavice,1
+ZILINA,western_union,Trstena,1
+PRESOV,western_union,Chminianska Nova Ves,1
+KOSICE,western_union,Spisske Vlachy,1
+KOSICE,western_union,Hrabusice,1
+KOSICE,western_union,Smizany,1
+ZILINA,western_union,Liesek,1
+PRESOV,western_union,Svit,1
+PRESOV,western_union,Spissky Stvrtok,1
+PRESOV,western_union,Spisske Podhradie,1
+PRESOV,western_union,Spissky Stiavnik,1
+PRESOV,western_union,Sabinov,1
+PRESOV,western_union,Poprad,4
+PRESOV,western_union,Levoca,1
+PRESOV,western_union,Bardejov,3
+PRESOV,western_union,Strbske Pleso,1
+PRESOV,western_union,Stary Smokovec,1
+PRESOV,western_union,Lipany Nad Torysou,1
+PRESOV,western_union,Velky Slavkov,1
+PRESOV,western_union,Kezmarok,2
+PRESOV,western_union,Lubica,1
+PRESOV,western_union,Kruzlov,1
+PRESOV,western_union,Brezovica Nad Torysou,1
+PRESOV,western_union,Velka Lomnica,1
+PRESOV,western_union,Lubotin,1
+PRESOV,western_union,Spisska Bela,1
+PRESOV,western_union,Velky Lipnik,1
+PRESOV,western_union,Spisska Stara Ves,1
+PRESOV,western_union,Kamienka,1
+PRESOV,western_union,Vysne Ruzbachy,1
+PRESOV,western_union,Bardejovske Kupele,1
+PRESOV,western_union,Zborov,1
+PRESOV,western_union,Zdiar,1
+PRESOV,western_union,Lendak,1
+PRESOV,western_union,Plavec Nad Popradom,1
+BRATISLAVA,western_union,Stara Lubovna,1
+PRESOV,western_union,Podolinec,1
+PRESOV,western_union,Holumnica,1
+ZILINA,western_union,Lucky Pri Ruzomberoku,1
+ZILINA,western_union,Lubela,1
+ZILINA,western_union,Liptovska Tepla,1
+KOSICE,western_union,Druzstevna Pri Hornade,1
+KOSICE,western_union,Medzev,1
+ZILINA,western_union,Dolny Kubin,1

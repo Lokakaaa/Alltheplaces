@@ -1,0 +1,16 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5403,abc_pl,abc,,Lipa,mazowieckie,,PL,,,,abc,Q11683985
+3961,abc_pl,abc,,Klice,mazowieckie,,PL,,,,abc,Q11683985
+248,abc_pl,abc,,Lekowo,mazowieckie,,PL,,,,abc,Q11683985
+14309,abc_pl,abc,,Koziczyn,mazowieckie,,PL,,,,abc,Q11683985
+14610,abc_pl,abc,,Grzybowo,mazowieckie,,PL,,,,abc,Q11683985
+14762,abc_pl,abc,,Karniewo,mazowieckie,,PL,,,,abc,Q11683985
+14763,abc_pl,abc,,Regimin,mazowieckie,,PL,,,,abc,Q11683985
+14764,abc_pl,abc,,Jarluty Duże,mazowieckie,,PL,,,,abc,Q11683985
+15032,abc_pl,abc,,Pawłowo,mazowieckie,,PL,,,,abc,Q11683985
+14516,groszek_pl,Groszek,,Szulmierz,mazowieckie,,PL,,,,Groszek,Q9280965
+13072,groszek_pl,Groszek,,Grzybowo,mazowieckie,,PL,,,,Groszek,Q9280965
+GZQ01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Grzybowo,mazowieckie,,PL,,https://inpost.pl/paczkomat-grzybowo-gzq01m-grzybowo-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+LEK01A,paczkomat_inpost_pl,Przy sklepie ABC,,Lekowo,mazowieckie,,PL,,https://inpost.pl/paczkomat-lekowo-lek01a-lekowo-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+REI01M,paczkomat_inpost_pl,Przy sklepie Gama,,Regimin,mazowieckie,,PL,,https://inpost.pl/paczkomat-regimin-rei01m-regimin-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+779077,poczta_polska_pl,FUP Ciechanów 2,,Regimin,MAZOWIECKIE,,PL,+48 885 900 790,,,Poczta Polska,Q168833

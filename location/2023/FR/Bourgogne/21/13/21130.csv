@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://www.cic.fr:443/fr/agences/10096/18201/00/000,cic,CIC,,AUXONNE,Bourgogne,,FR,+33 3 80 63 21 84,https://www.cic.fr:443/fr/agences/10096/18201/00/000,"Tu 09:00-12:30,14:15-18:00; We-Fr 09:00-12:30,13:30-18:00; Sa 09:00-12:30",cic,Q746525
+0521t008t1,e_leclerc,Station Service,,AUXONNE,Bourgogne,,FR,+33 3 80 10 01 30,,Mo-Su 00:01-24:00,E.Leclerc,Q1273376
+0521t101t1,e_leclerc,AUXONNE,,AUXONNE,Bourgogne,,FR,+33 3 80 10 01 30,https://e.leclerc/mag/e-leclerc-auxonne,Mo-Th 08:30-19:30; Fr 08:30-20:00; Sa 08:30-19:30,E.Leclerc,Q1273376
+0521t118t1,e_leclerc,Drive Auxonne,,AUXONNE,Bourgogne,,FR,+33 3 80 10 01 30,https://e.leclerc/mag/e-leclerc-auxonne,Mo-Th 09:00-19:00; Fr-Sa 08:30-19:00,E.Leclerc Drive,Q1273376

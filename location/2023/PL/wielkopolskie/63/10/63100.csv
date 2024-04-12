@@ -1,0 +1,55 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1523,abc_pl,abc,,Krzyżanowo,wielkopolskie,,PL,,,,abc,Q11683985
+12254,abc_pl,abc,,Śrem,wielkopolskie,,PL,,,,abc,Q11683985
+14269,abc_pl,abc,,Nochowo,wielkopolskie,,PL,,,,abc,Q11683985
+14266,abc_pl,abc,,Kaleje,wielkopolskie,,PL,,,,abc,Q11683985
+PL001150,aldi_nord_pl,ALDI,,Śrem,Wielkopolskie,,PL,+48 800 118 118,,Mo-Sa 07:00-22:00,ALDI,Q41171373
+53,bricomarche_pl,Bricomarché Śrem,,Śrem,wielkopolskie,,PL,+48 61 284 81 00,https://www.bricomarche.pl/sklep/bricomarche-srem,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1666-srem-chlapowskiego,credit_agricole_pl,"Credit Agricole Chłapowskiego 28/4, Śrem",,Śrem,wielkopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1666-srem-chlapowskiego,Mo 10:00-17:00; Tu-Fr 09:00-16:00,Credit Agricole,Q590952
+583,mcdonalds_pl,McDonald's,,Śrem,Wielkopolskie,,PL,+48 503 736 046,https://mcdonalds.pl/restauracje/wielkopolskie/srem/srem-ul-gostynska-55,Mo-Su 07:00-24:00,McDonald's,Q38076
+MHI01M,paczkomat_inpost_pl,obok myjni smochodowe,,Mechlin,wielkopolskie,,PL,,https://inpost.pl/paczkomat-mechlin-mhi01m-sremska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+NOC01M,paczkomat_inpost_pl,Market Dino,,Nochowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-nochowo-noc01m-swierkowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-SRE10,paczkomat_inpost_pl,EPAKA,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-pop-sre10-zielona-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00; Sa 09:00-14:00,Paczkomat,Q110970254
+POP-SRE11,paczkomat_inpost_pl,STACJA CIRCLE K,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-pop-sre11-grunwaldzka-paczkomaty-wielkopolskie,Mo-Sa 08:00-18:00,Paczkomat,Q110970254
+POP-SRE12,paczkomat_inpost_pl,SKLEP SPOŻYWCZY ŚREM ,,Śrem ,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-pop-sre12-przemyslowa-paczkomaty-wielkopolskie,Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su 09:00-15:00,Paczkomat,Q110970254
+POP-SRE13,paczkomat_inpost_pl,DUŻY BEN,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-pop-sre13-moniuszki-paczkomaty-wielkopolskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+POP-SRE14,paczkomat_inpost_pl,DUŻY BEN,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-pop-sre14-chlapowskiego-paczkomaty-wielkopolskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+POP-SRE16,paczkomat_inpost_pl,HOP DO WODY,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-pop-sre16-chopina-paczkomaty-wielkopolskie,Mo-Fr 10:00-18:00; Sa 10:00-14:00,Paczkomat,Q110970254
+POP-SRE8,paczkomat_inpost_pl,PAKERSI,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-pop-sre8-warsztatowa-paczkomaty-wielkopolskie,Mo-Fr 09:00-20:00; Sa 10:00-14:00,Paczkomat,Q110970254
+PSS01M,paczkomat_inpost_pl,teren myjni samochodowej,,Psarskie,wielkopolskie,,PL,,https://inpost.pl/paczkomat-psarskie-pss01m-lesna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PSS02N,paczkomat_inpost_pl,Narożnik posesji od ul. gen. Sikorskiego,,Psarskie,wielkopolskie,,PL,,https://inpost.pl/paczkomat-psarskie-pss02n-tulipanowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PYSZ01M,paczkomat_inpost_pl,przy sklepie spożywczym,,Pysząca,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pyszaca-pysz01m-dluga-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE01HP,paczkomat_inpost_pl,w sklepie Duży Ben,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre01hp-dezyderego-chlapowskiego-paczkomaty-wielkopolskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+SRE01M,paczkomat_inpost_pl,parking Lidla,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre01m-ludwika-zamenhofa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE01N,paczkomat_inpost_pl,Stacja paliw BP,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre01n-jana-kilinskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE02A,paczkomat_inpost_pl,Przy markecie Intermarche,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre02a-szkolna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE02M,paczkomat_inpost_pl,Przy Galerii Handlowej Jubilat,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre02m-dezyderego-chlapowskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE02N,paczkomat_inpost_pl,Przy Galerii Jeziorany,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre02n-1-maja-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE03A,paczkomat_inpost_pl,na froncie pawilonu handlowego,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre03a-mickiewicza-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE03M,paczkomat_inpost_pl,Przy sklepie Spolem,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre03m-paderewskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE03N,paczkomat_inpost_pl,Przy markecie Intermarche,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre03n-chelmonskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE04M,paczkomat_inpost_pl,Przy budynku drukarni,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre04m-stefana-grota-roweckiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE05M,paczkomat_inpost_pl,Przy placu zabaw,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre05m-prymasa-stefana-wyszynskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE06M,paczkomat_inpost_pl,Przy Markecie Mrówka,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre06m-gostynska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE07M,paczkomat_inpost_pl,Przy budynku usługowo-handlowym,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre07m-ogrodowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE08M,paczkomat_inpost_pl,przy ścianie frontowej,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre08m-ludwika-zamenhofa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE09M,paczkomat_inpost_pl,Przy myjni samochodowej,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre09m-nowowiejskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE10M,paczkomat_inpost_pl,przy budynku stacji,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre10m-grunwaldzka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE11M,paczkomat_inpost_pl,Market Dino,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre11m-jacka-malczewskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE12M,paczkomat_inpost_pl,teren zielony przy parkingu,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre12m-kopernika-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRE13M,paczkomat_inpost_pl,przy budynku TBS,,Śrem,wielkopolskie,,PL,,https://inpost.pl/paczkomat-srem-sre13m-leopolda-okulickiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZZV01G,paczkomat_inpost_pl,przy wejściu na posesję,,Zbrudzewo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbrudzewo-zzv01g-sremska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+573,play_pl,Salon Play,Ul. Kilińskiego 28,Śrem,wielkopolskie,,PL,+48 790 030 697,,Mo-Fr 09:00-18:00; Sa 09:00-14:00,Play,Q7202998
+281768,poczta_polska_pl,AP Dalewo,,Dalewo,WIELKOPOLSKIE,,PL,+48 61 281 68 80,,,Poczta Polska,Q168833
+313592,poczta_polska_pl,FUP Śrem 1,,Dolsk,WIELKOPOLSKIE,,PL,+48 887 853 696,,,Poczta Polska,Q168833
+594762,poczta_polska_pl,AP Psarskie,,Psarskie,WIELKOPOLSKIE,,PL,+48 885 870 735,,,Poczta Polska,Q168833
+269144,poczta_polska_pl,UP Śrem 1,,Śrem,WIELKOPOLSKIE,,PL,+48 61 283 01 00,,,Poczta Polska,Q168833
+313604,poczta_polska_pl,FUP Śrem 1,,Śrem,WIELKOPOLSKIE,,PL,+48 887 853 210,,,Poczta Polska,Q168833
+7093,tedi,TEDi Sieć Handlowa Sp. z o.o.,,Śrem,Wielkopolskie,,PL,+48 32 450 36 20,https://www.tedi.com/stores/7093/pl/Wielkopolskie/Śrem/Ludwika-Zamenhofa-20B,Mo-Sa 09:00-20:00,TEDi,Q1364603
+,visa,,,ŚREM,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,SREM,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,SREM,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,SREM,WIELKOPOLSKIE,,PL,,,,,
+3e206fde8262132070489df93fdf8293,western_union,BANK PEKAO SA,,Srem,WIELKOPOLSKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/wielkopolskie/srem/3e206fde8262132070489df93fdf8293,Mo-Fr 09:30-17:00,Western Union,Q861042
+30f46b8d07243b1b32bbda9ba65c7cb6,western_union,SBL SREM,,Srem,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/srem/30f46b8d07243b1b32bbda9ba65c7cb6,Mo-Fr 08:00-15:30,Western Union,Q861042
+d0709035b6c89184cbdafe01405800b6,western_union,SBL SREM I O SREM,,Srem,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/srem/d0709035b6c89184cbdafe01405800b6,Mo-Fr 08:00-18:00,Western Union,Q861042

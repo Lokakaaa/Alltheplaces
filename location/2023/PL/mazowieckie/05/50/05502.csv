@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+6879,abc_pl,abc,,Piaseczno,mazowieckie,,PL,,,,abc,Q11683985
+12839,abc_pl,abc,,Bogatki,mazowieckie,,PL,,,,abc,Q11683985
+13102,groszek_pl,Groszek,,Piaseczno,mazowieckie,,PL,,,,Groszek,Q9280965
+14324,groszek_pl,Groszek,,Żabieniec,mazowieckie,,PL,,,,Groszek,Q9280965
+BOE01M,paczkomat_inpost_pl,Na parkingu przy Sklepie ABC,,Bobrowiec,mazowieckie,,PL,,https://inpost.pl/paczkomat-bobrowiec-boe01m-mazowiecka-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+BOE02M,paczkomat_inpost_pl,Przy sklepie spożywczym Groszek,,Bobrowiec,mazowieckie,,PL,,https://inpost.pl/paczkomat-bobrowiec-boe02m-mazowiecka-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+BQG01M,paczkomat_inpost_pl,"Przy wjeździe, po prawej stronie",,Bogatki,mazowieckie,,PL,,https://inpost.pl/paczkomat-bogatki-bqg01m-krolewska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+GQK01M,paczkomat_inpost_pl,Przy piekarni,,Gołków,mazowieckie,,PL,,https://inpost.pl/paczkomat-golkow-gqk01m-golkowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+325840,poczta_polska_pl,FUP Piaseczno k. Warszawy 1,,Piaseczno,MAZOWIECKIE,,PL,+48 22 756 71 05,,,Poczta Polska,Q168833
+,visa,,,GOŁKOW,MAZOWIECKIE,,PL,,,,,

@@ -1,0 +1,16 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4590,abc_pl,abc,,Trypucie,podlaskie,,PL,,,,abc,Q11683985
+3208,abc_pl,abc,,Kleosin,podlaskie,,PL,,,,abc,Q11683985
+13734,abc_pl,abc,,Księżyno,podlaskie,,PL,,,,abc,Q11683985
+HOR01M,paczkomat_inpost_pl,Przy budynku hurtowni,,Horodniany,podlaskie,,PL,,https://inpost.pl/paczkomat-horodniany-hor01m-horodniany-paczkomaty-podlaskie,24/7,Paczkomat,Q110970254
+IGL01M,paczkomat_inpost_pl,Przy sklepie mięsnym,,Ignatki,podlaskie,,PL,,https://inpost.pl/paczkomat-ignatki-igl01m-goscinna-paczkomaty-podlaskie,24/7,Paczkomat,Q110970254
+IGL01N,paczkomat_inpost_pl,Przy szkole językowej,,Ignatki-Osiedle,podlaskie,,PL,,https://inpost.pl/paczkomat-ignatki-osiedle-igl01n-lesna-paczkomaty-podlaskie,24/7,Paczkomat,Q110970254
+KIY01M,paczkomat_inpost_pl,Przy sklepie Lewiatan,,Księżyno,podlaskie,,PL,,https://inpost.pl/paczkomat-ksiezyno-kiy01m-mazowiecka-paczkomaty-podlaskie,24/7,Paczkomat,Q110970254
+KLE01A,paczkomat_inpost_pl,Przy sklepie Mini Gama,,Kleosin,podlaskie,,PL,,https://inpost.pl/paczkomat-kleosin-kle01a-zambrowska-paczkomaty-podlaskie,24/7,Paczkomat,Q110970254
+KLE01APP,paczkomat_inpost_pl,Między budynkiem nr 12 a Biedronką,,Kleosin,podlaskie,,PL,,https://inpost.pl/paczkomat-kleosin-kle01app-kraszewskiego-paczkomaty-podlaskie,24/7,Paczkomat,Q110970254
+KLE01M,paczkomat_inpost_pl,"Przed sklepem ""Instech""",,Kleosin,podlaskie,,PL,,https://inpost.pl/paczkomat-kleosin-kle01m-stefana-zeromskiego-paczkomaty-podlaskie,24/7,Paczkomat,Q110970254
+KLE01ML,paczkomat_inpost_pl,Przy pawilonie handlowym,,Kleosin,podlaskie,,PL,,https://inpost.pl/paczkomat-kleosin-kle01ml-zambrowska-paczkomaty-podlaskie,24/7,Paczkomat,Q110970254
+555431,poczta_polska_pl,FUP Kleosin,,Juchnowiec Kościelny,PODLASKIE,,PL,+48 85 719 61 50,,,Poczta Polska,Q168833
+245636,poczta_polska_pl,UP Kleosin,,Kleosin,PODLASKIE,,PL,+48 885 951 570,,,Poczta Polska,Q168833
+300946,poczta_polska_pl,AP Trypucie,,Trypucie,PODLASKIE,,PL,+48 85 650 45 03,,,Poczta Polska,Q168833
+,visa,,,KLEOSIN,PODLASKIE,,PL,,,,,

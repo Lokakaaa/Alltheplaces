@@ -1,0 +1,300 @@
+City,Place Name,Zipcode,Name
+COMPIEGNE (JAUX),audi,669 AVENUE JEAN MOULIN ZAC CAMP DU ROY COMPIEGNE (JAUX) 60880,unknown,CONCEPT MOTORS
+VILLERS COTTERETS,audi,36 Avenue de la Ferté Milon VILLERS COTTERETS 02600,unknown,AUTOMOBILES VILLERS SERVICES
+LAON,audi,11 ZAC CHAMP DU ROY 11 RUE TURGOT LAON 02000,unknown,SAINT MARCEL SAS
+ABBEVILLE,audi,53 Avenue Robert Schumann ABBEVILLE 80102,unknown,PREMIUM PICARDIE
+BEAUVAIS,audi,5 Rue de Pinçonlieu BEAUVAIS 60000,unknown,CONCEPT MOTORS
+AMIENS (RIVERY),audi,9 RUE ALAIN BOMBARD AMIENS (RIVERY) 80136,unknown,PREMIUM PICARDIE
+CREIL (SAINT MAXIMIN),audi,280 RUE DE LA MARSEILLAISE CREIL (SAINT MAXIMIN) 60740,unknown,ESPACE ST MAXIMIN SAS
+ST QUENTIN,audi,RUE A PARMENTIER ZAC LA VALLEE ST QUENTIN 02100,unknown,SAGA 0260
+CHAUNY,cic,,unknown,CIC CHAUNY - CIC TERGNIER
+SENLIS,cic,,unknown,CIC
+NOYON,cic,,unknown,CIC
+PONT STE MAXENCE,cic,,unknown,CIC CREIL CENTRE
+CHATEAU THIERRY,cic,,unknown,CIC
+LE PLESSIS BELLEVILLE,cic,,unknown,CIC
+MARGNY LES COMPIEGNE,cic,,unknown,CIC COMPIEGNE SOLFERINO
+COMPIEGNE,cic,,unknown,CIC
+TERGNIER,cic,,unknown,CIC CHAUNY
+CREIL,cic,,unknown,CIC CREIL CENTRE - CIC PONT SAINTE MAXENCE
+MERU,cic,,unknown,CIC
+FRESSENNEVILLE,cic,,unknown,CIC EU
+ABBEVILLE,cic,,unknown,CIC
+ROYE,cic,,unknown,CIC
+PERONNE,cic,,unknown,CIC
+DOULLENS,cic,,unknown,CIC
+ALBERT,cic,,unknown,CIC
+AMIENS,cic,,unknown,CIC
+CHANTILLY,cic,,unknown,CIC
+CHAMBLY,cic,,unknown,CIC
+ST QUENTIN,cic,,unknown,CIC SAINT QUENTIN
+HIRSON,cic,,unknown,CIC
+GUISE,cic,,unknown,CIC
+VILLENEUVE SUR AISNE,cic,,unknown,CIC REIMS LAON
+LAON,cic,,unknown,CIC
+CLERMONT,cic,,unknown,CIC CLERMONT - CIC LIANCOURT
+LIANCOURT,cic,,unknown,CIC CLERMONT
+BEAUVAIS,cic,,unknown,CIC
+SOISSONS,cic,,unknown,CIC SOISSONS - CIC VILLERS COTTERETS
+CREPY EN VALOIS,cic,,unknown,CIC
+VILLERS COTTERETS,cic,,unknown,CIC SOISSONS
+SOISSONS,cigusto_fr,,unknown,CIGUSTO SOISSONS
+BEAUVAIS,cigusto_fr,,unknown,CIGUSTO BEAUVAIS
+THIVERNY-MONTATAIRE,e_leclerc,,unknown,Location
+SAINT MAXIMIN,e_leclerc,,unknown,Drive Saint-Maximin
+Montataire,e_leclerc,,unknown, Drive Montataire
+Lamorlaye,e_leclerc,,unknown,Drive Relais Lamorlaye
+MONTDIDIER,e_leclerc,,unknown,Drive Montdidier
+ST JUST EN CHAUSSEE,e_leclerc,,unknown,Drive Saint-Just-en-Chaussée
+SAINT JUST EN CHAUSSEE,e_leclerc,,unknown,ST JUST EN CHAUSSEE
+SALOUEL,e_leclerc,,unknown,Location
+MOREUIL,e_leclerc,,unknown,Express Salouël
+CHATEAU THIERRY,e_leclerc,,unknown,Drive Château-Thierry
+Vauxbuin,e_leclerc,,unknown,Drive Soissons
+RIVERY LES AMIENS,e_leclerc,,unknown,Station Service
+Rivery,e_leclerc,,unknown,Drive Rivery / Amiens
+RIVERY,e_leclerc,,unknown,RIVERY
+Boves,e_leclerc,,unknown,E.Leclerc DRIVE Boves
+VILLERS COTTERETS,e_leclerc,,unknown,Drive Villers-Cotterêts
+Neuilly-Saint-Front,e_leclerc,,unknown,Express Neuilly-saint-front
+CAUFFRY,e_leclerc,,unknown,Express Liancourt
+ CAUFFRY,e_leclerc,,unknown,Une Heure Pour Soi
+LAIGNEVILLE,e_leclerc,,unknown,Location
+SENLIS,e_leclerc,,unknown,Drive Senlis
+MUILLE VILLETTE,e_leclerc,,unknown,DRIVE HAM - Muille-Villette
+BEAUTOR,e_leclerc,,unknown,DRIVE Beautor
+Péronne,e_leclerc,,unknown,E.Leclerc DRIVE Peronne
+PERONNE,e_leclerc,,unknown,PÉRONNE
+PONT SAINTE MAXENCE,e_leclerc,,unknown,Location
+Pont-Rémy,e_leclerc,,unknown,DRIVE PONT-RÉMY
+HIRSON,e_leclerc,,unknown,Drive Hirson
+Doullens,e_leclerc,,unknown,DRIVE Doullens
+Chambry,e_leclerc,,unknown,Voyages
+CHAMBRY,e_leclerc,,unknown,Location
+Laon,e_leclerc,,unknown,DRIVE Relais Laon Ville Haute
+Marle,e_leclerc,,unknown,Express Marle
+ATHIES SOUS LAON,e_leclerc,,unknown,Drive Athies-sous-Laon
+CHAMBLY,e_leclerc,,unknown,Drive Chambly
+HARLY,e_leclerc,,unknown,HARLY
+Neuville Saint-Amand,e_leclerc,,unknown,Station service de Neuville Saint-Amand
+NEUVILLE SAINT AMAND,e_leclerc,,unknown,Location
+Neuville Saint Amand,e_leclerc,,unknown,DRIVE Neuville-Saint-Amand
+TRIE CHATEAU,e_leclerc,,unknown,Location
+Gisors,e_leclerc,,unknown,Drive Gisors
+PLESSIS BELLEVILLE,e_leclerc,,unknown,Drive Plessis Belleville
+LE PLESSIS BELLEVILLE,e_leclerc,,unknown,Auto
+Crépy-en-Valois,e_leclerc,,unknown,Drive Crépy-en-Valois
+RIBECOURT-DRESLINCOURT,e_leclerc,,unknown,Drive Thourotte
+LASSIGNY,e_leclerc,,unknown,DRIVE Lassigny
+Breteuil,e_leclerc,,unknown,Drive Breteuil
+BRETEUIL,e_leclerc,,unknown,BRETEUIL
+CREVECOEUR LE GRAND,e_leclerc,,unknown,CREVECOEUR LE GRAND
+LA CROIX SAINT OUEN,e_leclerc,,unknown,DRIVE La Croix-Saint-Ouen
+Beauvais,e_leclerc,,unknown,Drive Beauvais
+Tillé,e_leclerc,,unknown,Drive Tillé
+Woincourt,fedex,,unknown,unknown
+Villers St Paul,fedex,,unknown,unknown
+Villers Cotterets,fedex,,unknown,unknown
+Villers Bretonneux,fedex,,unknown,unknown
+Villers Bocage,fedex,,unknown,unknown
+Villeneuve St Germain,fedex,,unknown,unknown
+Vignacourt,fedex,,unknown,unknown
+Vic Sur Aisne,fedex,,unknown,unknown
+Vervins,fedex,,unknown,unknown
+Verberie,fedex,,unknown,unknown
+Vailly Sur Aisne,fedex,,unknown,unknown
+Ully St Georges,fedex,,unknown,unknown
+Tupigny,fedex,,unknown,unknown
+Trosly Breuil,fedex,,unknown,unknown
+Troissereux,fedex,,unknown,unknown
+Trie Chateau,fedex,,unknown,unknown
+Tracy Le Mont,fedex,,unknown,unknown
+Toulis Et Attencourt,fedex,,unknown,unknown
+Thiers Sur Theve,fedex,,unknown,unknown
+Tergnier,fedex,,unknown,unknown
+Ste Genevieve,fedex,,unknown,unknown
+St Valery Sur Somme,fedex,,unknown,unknown
+St Vaast Les Mello,fedex,,unknown,unknown
+St Simon,fedex,,unknown,unknown
+St Sauveur,fedex,,unknown,unknown
+St Sauflieu,fedex,,unknown,unknown
+St Riquier,fedex,,unknown,unknown
+St Quentin,fedex,,unknown,unknown
+St Michel,fedex,,unknown,unknown
+St Maximin,fedex,,unknown,unknown
+St Just En Chaussee,fedex,,unknown,unknown
+St Gobain,fedex,,unknown,unknown
+St Felix,fedex,,unknown,unknown
+St Erme Outre Et Ramecourt,fedex,,unknown,unknown
+Songeons,fedex,,unknown,unknown
+Soissons,fedex,,unknown,unknown
+Senlis,fedex,,unknown,unknown
+Seboncourt,fedex,,unknown,unknown
+Savignies,fedex,,unknown,unknown
+Salouel,fedex,,unknown,unknown
+Sains Richaumont,fedex,,unknown,unknown
+Sacy Le Grand,fedex,,unknown,unknown
+Rully,fedex,,unknown,unknown
+Rue,fedex,,unknown,unknown
+Rozoy Sur Serre,fedex,,unknown,unknown
+Roye,fedex,,unknown,unknown
+Royaucourt Et Chailvet,fedex,,unknown,unknown
+Rosieres En Santerre,fedex,,unknown,unknown
+Roisel,fedex,,unknown,unknown
+Rivery,fedex,,unknown,unknown
+Ribecourt Dreslincourt,fedex,,unknown,unknown
+Rethondes,fedex,,unknown,unknown
+Ressons Sur Matz,fedex,,unknown,unknown
+Querrieu,fedex,,unknown,unknown
+Premontre,fedex,,unknown,unknown
+Pont Ste Maxence,fedex,,unknown,unknown
+Pont Remy,fedex,,unknown,unknown
+Poix De Picardie,fedex,,unknown,unknown
+Pierrefonds,fedex,,unknown,unknown
+Peronne,fedex,,unknown,unknown
+Paillart,fedex,,unknown,unknown
+Oulchy Le Chateau,fedex,,unknown,unknown
+Origny Ste Benoite,fedex,,unknown,unknown
+Oresmaux,fedex,,unknown,unknown
+Oisemont,fedex,,unknown,unknown
+Noyon,fedex,,unknown,unknown
+Nouvion,fedex,,unknown,unknown
+Nogent Sur Oise,fedex,,unknown,unknown
+Nogent Sur Marne,fedex,,unknown,unknown
+Noailles,fedex,,unknown,unknown
+Neuilly St Front,fedex,,unknown,unknown
+Neuilly En Thelle,fedex,,unknown,unknown
+Nesle,fedex,,unknown,unknown
+Moy De L Aisne,fedex,,unknown,unknown
+Mouy,fedex,,unknown,unknown
+Moreuil,fedex,,unknown,unknown
+Montreuil Aux Lions,fedex,,unknown,unknown
+Montescourt Lizerolles,fedex,,unknown,unknown
+Montdidier,fedex,,unknown,unknown
+Montcornet,fedex,,unknown,unknown
+Montataire,fedex,,unknown,unknown
+Miannay,fedex,,unknown,unknown
+Meaulte,fedex,,unknown,unknown
+Matigny,fedex,,unknown,unknown
+Marle,fedex,,unknown,unknown
+Maricourt,fedex,,unknown,unknown
+Margny Les Compiegne,fedex,,unknown,unknown
+Maignelay Montigny,fedex,,unknown,unknown
+Longueau,fedex,,unknown,unknown
+Longroy,fedex,,unknown,unknown
+Longpre Les Corps Saints,fedex,,unknown,unknown
+Liancourt,fedex,,unknown,unknown
+Le Vauroux,fedex,,unknown,unknown
+Le Nouvion En Thierache,fedex,,unknown,unknown
+Le Meux,fedex,,unknown,FedEx Express FR
+Le Catelet,fedex,,unknown,unknown
+Laversines,fedex,,unknown,unknown
+Lassigny,fedex,,unknown,unknown
+Laon,fedex,,unknown,unknown
+Lamorlaye,fedex,,unknown,unknown
+Laigneville,fedex,,unknown,unknown
+Lagny Le Sec,fedex,,unknown,unknown
+Lacroix St Ouen,fedex,,unknown,unknown
+La Neuville Roy,fedex,,unknown,unknown
+La Malmaison,fedex,,unknown,unknown
+La Ferte Milon,fedex,,unknown,unknown
+La Fere,fedex,,unknown,unknown
+La Capelle,fedex,,unknown,unknown
+Jaux,fedex,,unknown,unknown
+Itancourt,fedex,,unknown,unknown
+Hornoy Le Bourg,fedex,,unknown,unknown
+Homblieres,fedex,,unknown,unknown
+Holnon,fedex,,unknown,unknown
+Hirson,fedex,,unknown,unknown
+Harly,fedex,,unknown,unknown
+Harbonnieres,fedex,,unknown,unknown
+Hangest En Santerre,fedex,,unknown,unknown
+Ham,fedex,,unknown,unknown
+Hallencourt,fedex,,unknown,unknown
+Guise,fedex,,unknown,unknown
+Grandvilliers,fedex,,unknown,unknown
+Gouvieux,fedex,,unknown,unknown
+Goincourt,fedex,,unknown,unknown
+Glisy,fedex,,unknown,unknown
+Gauchy,fedex,,unknown,unknown
+Fressenneville,fedex,,unknown,unknown
+Fresnoy Le Grand,fedex,,unknown,unknown
+Formerie,fedex,,unknown,unknown
+Flixecourt,fedex,,unknown,unknown
+Flesselles,fedex,,unknown,unknown
+Fere En Tardenois,fedex,,unknown,unknown
+Etricourt Manancourt,fedex,,unknown,unknown
+Etreillers,fedex,,unknown,unknown
+Estrees St Denis,fedex,,unknown,unknown
+Ercheu,fedex,,unknown,unknown
+Epehy,fedex,,unknown,unknown
+Epaux Bezu,fedex,,unknown,unknown
+Dreuil Les Amiens,fedex,,unknown,unknown
+Doullens,fedex,,unknown,unknown
+Doingt Flamicourt,fedex,,unknown,unknown
+Dizy Le Gros,fedex,,unknown,unknown
+Cuvilly,fedex,,unknown,unknown
+Cuise La Motte,fedex,,unknown,unknown
+Crouy,fedex,,unknown,unknown
+Crezancy,fedex,,unknown,unknown
+Crevecoeur Le Grand,fedex,,unknown,unknown
+Crepy,fedex,,unknown,unknown
+Crepy En Valois,fedex,,unknown,unknown
+Creil,fedex,,unknown,unknown
+Crecy Sur Serre,fedex,,unknown,unknown
+Crecy En Ponthieu,fedex,,unknown,unknown
+Craonnelle,fedex,,unknown,unknown
+Coye La Foret,fedex,,unknown,unknown
+Coudun,fedex,,unknown,unknown
+Coucy Les Eppes,fedex,,unknown,unknown
+Corbie,fedex,,unknown,unknown
+Corbeny,fedex,,unknown,unknown
+Conty,fedex,,unknown,unknown
+Conde Sur Suippe,fedex,,unknown,unknown
+Conde En Brie,fedex,,unknown,unknown
+Compiegne,fedex,,unknown,unknown
+Coincy,fedex,,unknown,unknown
+Clermont,fedex,,unknown,unknown
+Clairoix,fedex,,unknown,unknown
+Cires Les Mello,fedex,,unknown,unknown
+Choisy Au Bac,fedex,,unknown,unknown
+Chivy Les Etouvelles,fedex,,unknown,unknown
+Chevresis Monceau,fedex,,unknown,unknown
+Chepy,fedex,,unknown,unknown
+Chavignon,fedex,,unknown,unknown
+Chauny,fedex,,unknown,unknown
+Chaulnes,fedex,,unknown,unknown
+Chateau Thierry,fedex,,unknown,unknown
+Charly,fedex,,unknown,unknown
+Chantilly,fedex,,unknown,unknown
+Chambry,fedex,,unknown,unknown
+Chambly,fedex,,unknown,unknown
+Cauvigny,fedex,,unknown,unknown
+Cauffry,fedex,,unknown,unknown
+Candas,fedex,,unknown,unknown
+Camon,fedex,,unknown,unknown
+Cambron,fedex,,unknown,unknown
+Amiens,hema,,unknown,HEMA
+SOISSONS,ikks,,unknown,XandO Women Men SOISSONS
+COMPIEGNE,ikks,,unknown,ICODE COMPIEGNE
+ST QUENTIN,ikks,,unknown,XandO Women ST QUENTIN
+BEAUVAIS,ikks,,unknown,XandO Women BEAUVAIS
+AMIENS,ikks,,unknown,IKKS Junior AMIENS
+Departement de l'Aisne,ionity,,unknown,Soissons Ouest
+Departement de la Somme,ionity,,unknown,Baie de Somme
+Departement de l'Oise,pokawa,201 Rue des Girondins  Saint-Maximin   60740,unknown,Pokawa Saint-Maximin
+80970 Sailly-Flibeaucourt,starbucks_eu,Aire de la Baie de Somme 80970 Sailly-Flibeaucourt,unknown,Sailly-Flibeaucourt Shell BaieSomme
+60490 Ressons-sur-Matz,starbucks_eu,Aire de Ressonst Est A1 E19 60490 Ressons-sur-Matz,unknown,Aire de Ressons Est (A1/E19)
+80000 amiens,starbucks_eu,2 PLACE GAMBETTA 80000 amiens,unknown,Amiens gambetta
+MERU,visa,,unknown,unknown
+BEAUVAIS,visa,,unknown,unknown
+NOYON,visa,,unknown,unknown
+VIRY NOUREUIL,visa,,unknown,unknown
+AMIENS,visa,,unknown,unknown
+SAINT-QUENTIN,visa,,unknown,unknown
+HIRSON,visa,,unknown,unknown
+MERS LES BAINS,visa,,unknown,unknown
+Noyon,western_union,,unknown,AYOKA AG
+Pont Sainte Maxence,western_union,,unknown,ARMA DISTRIBUTION
+Creil,western_union,,unknown,OMER SUPERSTORE
+*ompiegne,western_union,,unknown,KASHMIR

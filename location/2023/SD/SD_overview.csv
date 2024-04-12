@@ -1,0 +1,63 @@
+State,Place Name,City,Establishments
+UNKNOWN,mercedes_benz,Khartoum,4
+NORTHKURDUFAN,mercedes_benz,El obeid,1
+UNKNOWN,mercedes_benz,Omdurman,1
+UNKNOWN,mercedes_benz,Medani,1
+UNKNOWN,mercedes_benz,Port Sudan,1
+KHARTOUM,mercedes_benz,Khartoum North,1
+UNKNOWN,moneygram,KHARTOUM,30
+UNKNOWN,moneygram,AL FASHIR,1
+UNKNOWN,moneygram,AL-GADARIF,1
+UNKNOWN,moneygram,KHARTOUM NORTH,15
+UNKNOWN,moneygram,AL HASAHISA,1
+UNKNOWN,moneygram,OMDURMAN,14
+UNKNOWN,moneygram,ALOBEID,2
+UNKNOWN,moneygram,ATBARA,1
+UNKNOWN,moneygram,ELNHOWD,1
+UNKNOWN,moneygram,KASSALA,1
+UNKNOWN,moneygram,KOSTI,1
+UNKNOWN,moneygram,NYALA,1
+UNKNOWN,moneygram,PORT SUDAN,1
+UNKNOWN,moneygram,SHENDI,1
+UNKNOWN,moneygram,SINGA,1
+UNKNOWN,moneygram,SINNAR,1
+UNKNOWN,moneygram,WAD MADANI,2
+UNKNOWN,moneygram,ALABIDIYA,1
+UNKNOWN,moneygram,RABAK,1
+UNKNOWN,moneygram,PORTSUDAN,1
+UNKNOWN,moneygram,DONGOLA,1
+NORTHERNDARFUR,visa,MBANDAKA,1
+UNKNOWN,visa,KHARTOUM,4
+ALJAZIRAH,western_union,Madani,3
+NORTHDARFUR,western_union,Al Fashir,1
+NORTHKORDOFAN,western_union,El Fashir,1
+WESTDARFUR,western_union,Geneina,1
+NORTHKORDOFAN,western_union,Nyala,1
+SOUTHDARFUR,western_union,Nyala,1
+NORTHERN,western_union,Abri,1
+NORTHERN,western_union,Al Burgaig,1
+NORTHERN,western_union,Dongola,3
+NORTHERN,western_union,Wadi Halfa,1
+NORTHERN,western_union,Al Goled,1
+NORTHERN,western_union,Al Dabbah,1
+NORTHERN,western_union,Marawi,1
+KHARTOUM,western_union,El Daein,1
+KHARTOUM,western_union,Omdurman,17
+KHARTOUM,western_union,Khartoum,33
+BLUENILE,western_union,Ad Damazin,1
+KHARTOUM,western_union,Bahri,4
+KHARTOUM,western_union,Ammarat,1
+KHARTOUM,western_union,Al Amarat,1
+KHARTOUM,western_union,Khartoum North,7
+ALJAZIRAH,western_union,Al Hasaheisa,2
+RIVERNILE,western_union,Shendi,2
+BLUENILE,western_union,Sinjah,1
+WHITENILE,western_union,Kosti,4
+BLUENILE,western_union,Sennar,1
+REDSEA,western_union,Port Sudan,4
+RIVERNILE,western_union,Abu Hamed,1
+RIVERNILE,western_union,Atbara,3
+ALQADARIF,western_union,Al Qadarif,1
+ALGADARIF,western_union,Al Qadarif,1
+UNKNOWN,western_union,Al Qadarif,1
+KASSALA,western_union,Kassala,4

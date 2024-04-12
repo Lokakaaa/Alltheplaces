@@ -1,0 +1,56 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+11306,abc_pl,abc,,Oława,dolnośląskie,,PL,,,,abc,Q11683985
+1993,abc_pl,abc,,Oława,dolnośląskie,,PL,,,,abc,Q11683985
+1995,abc_pl,abc,,Oława,dolnośląskie,,PL,,,,abc,Q11683985
+2067,abc_pl,abc,,Niemil,dolnośląskie,,PL,,,,abc,Q11683985
+11310,abc_pl,abc,,Oława,dolnośląskie,,PL,,,,abc,Q11683985
+11699,abc_pl,abc,,Oława,dolnośląskie,,PL,,,,abc,Q11683985
+13919,abc_pl,abc,,Chwalibożyce,dolnośląskie,,PL,,,,abc,Q11683985
+PL001009,aldi_nord_pl,ALDI,,Oława,Dolnośląskie,,PL,+48 800 118 118,,Mo-Sa 06:00-22:00,ALDI,Q41171373
+133,bricomarche_pl,Bricomarché Oława,,Oława,dolnośląskie,,PL,+48 71 303 50 00,https://www.bricomarche.pl/sklep/bricomarche-olawa,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/2143-olawa-rynek,credit_agricole_pl,"Credit Agricole Rynek 26, Oława",,Oława,dolnośląskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/2143-olawa-rynek,Mo-Tu 09:30-16:30; We 10:00-17:00; Th-Fr 09:30-16:30,Credit Agricole,Q590952
+702,dr_max,"Apteka Dr.Max, Iwaszkiewicza 4, Oława",,Oława,Dolnośląskie,,PL,+48 71 303 43 06,https://www.drmax.pl/apteki/oawa-iwaszkiewicza-4,,Dr. Max,Q56317371
+228,mcdonalds_pl,McDonald's,,Oława (woj. dolnośląskie),Dolnośląskie,,PL,+48 694 415 461,https://mcdonalds.pl/restauracje/dolnoslaskie/olawa-woj-dolnoslaskie/olawa-woj-dolnoslaskie-olesnica-mala-72,Mo-Su 05:00-24:00,McDonald's,Q38076
+339,mcdonalds_pl,McDonald's,,Oława (woj. dolnośląskie),Dolnośląskie,,PL,+48 539 954 340,https://mcdonalds.pl/restauracje/dolnoslaskie/olawa-woj-dolnoslaskie/olawa-woj-dolnoslaskie-ks-franciszka-kutrowskiego-76,Mo-Th 07:00-01:00; Fr-Sa 07:00-02:00; Su 07:00-01:00,McDonald's,Q38076
+BYS01M,paczkomat_inpost_pl,Przy sklepie,,Bystrzyca,dolnośląskie,,PL,,https://inpost.pl/paczkomat-bystrzyca-bys01m-kosciuszki-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+BYS01N,paczkomat_inpost_pl,Przy sklepie Euro Market,,Bystrzyca,dolnośląskie,,PL,,https://inpost.pl/paczkomat-bystrzyca-bys01n-kosciuszki-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+CHWL01M,paczkomat_inpost_pl,Przy posesji prywatnej,,Chwalibożyce,dolnośląskie,,PL,,https://inpost.pl/paczkomat-chwalibozyce-chwl01m-chwalibozyce-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+GIK01M,paczkomat_inpost_pl,Przy sklepie,,Godzikowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-godzikowice-gik01m-godzikowice-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+GIK02M,paczkomat_inpost_pl,Przy sklepie,,Godzikowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-godzikowice-gik02m-godzikowice-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+MCC01N,paczkomat_inpost_pl,Na parkingu sklepu Euro Sklep,,Marcinkowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-marcinkowice-mcc01n-piastowska-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+MCC02M,paczkomat_inpost_pl,Przy Sklepie,,Marcinkowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-marcinkowice-mcc02m-piastowska-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW01HP,paczkomat_inpost_pl,w sklepie Duży Ben,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw01hp-sportowa-paczkomaty-dolnoslaskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+OLW01M,paczkomat_inpost_pl,"Na parkingu, po prawej stronie od wejścia do sklepu Społem SEZAM",,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw01m-dabrowskiego-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW01N,paczkomat_inpost_pl,Przy Centrum Handlowym Quick Park,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw01n-nowy-otok-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW02A,paczkomat_inpost_pl,Przy markecie Bricomarche,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw02a-kutrowskiego-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW02M,paczkomat_inpost_pl,Przy Lidlu,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw02m-lipowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW02N,paczkomat_inpost_pl,Przy sklepie budowlanym,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw02n-kutrowskiego-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW03N,paczkomat_inpost_pl,Po lewej stronie parkingu sklepu Aldi,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw03n-sybirakow-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW04M,paczkomat_inpost_pl,Przy klatce nr 7,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw04m-mila-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW05M,paczkomat_inpost_pl,"Przy Centrum Handlowym ""Oławka""",,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw05m-sportowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW06M,paczkomat_inpost_pl,Przy Kauflandzie,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw06m-iwaszkiewicza-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW07M,paczkomat_inpost_pl,Przy Netto,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw07m-iwaszkiewicza-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW08M,paczkomat_inpost_pl,Przy Sklepie,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw08m-iwaszkiewicza-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW09M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw09m-plac-gimnazjalny-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW10M,paczkomat_inpost_pl,Przy Centrum Handlowym Kwadraciak,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw10m-chrobrego-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW11M,paczkomat_inpost_pl,W płocie przy wejściu,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw11m-rozana-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW12M,paczkomat_inpost_pl,Przy sklepie meblowym,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw12m-gaj-olawski-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+OLW14M,paczkomat_inpost_pl,Przy Pawilonie Handlowym,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-olw14m-1-maja-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+POP-OLW1,paczkomat_inpost_pl,SALONIK PRASOWY,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-pop-olw1-iwaszkiewicza-paczkomaty-dolnoslaskie,Mo-Fr 07:00-17:00,Paczkomat,Q110970254
+POP-OLW6,paczkomat_inpost_pl,DUŻY BEN,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-pop-olw6-sportowa-paczkomaty-dolnoslaskie,Mo-Sa 10:00-22:00,Paczkomat,Q110970254
+POP-OLW7,paczkomat_inpost_pl,SKLEP ZABAWKOWY,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-pop-olw7-rynek-paczkomaty-dolnoslaskie,Mo-Fr 10:00-18:00; Sa 10:00-14:00,Paczkomat,Q110970254
+POP-OLW8,paczkomat_inpost_pl,PAKERSI - PROSTOR ,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-pop-olw8-boleslawa-chrobrego-paczkomaty-dolnoslaskie,Mo-Fr 09:00-17:00; Sa 09:00-14:00,Paczkomat,Q110970254
+POP-OLW9,paczkomat_inpost_pl,EPAKA,,Oława,dolnośląskie,,PL,,https://inpost.pl/paczkomat-olawa-pop-olw9-11-listopada-paczkomaty-dolnoslaskie,Mo-Fr 08:00-18:00,Paczkomat,Q110970254
+SDLC01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Siedlce,dolnośląskie,,PL,,https://inpost.pl/paczkomat-siedlce-sdlc01m-siedlce-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+SQY01M,paczkomat_inpost_pl,W płocie na terenie prywatnym,,Stanowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-stanowice-sqy01m-stanowice-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+481,play_pl,Salon Play,Ul. Iwaszkiewicza 4,Oława,dolnośląskie,,PL,+48 790 030 760,,Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-19:00,Play,Q7202998
+257234,poczta_polska_pl,UP Oława 1,,Oława,DOLNOŚLĄSKIE,,PL,+48 71 318 71 13;+48 71 318 71 21;+48 71 318 71 15,,,Poczta Polska,Q168833
+293078,poczta_polska_pl,AP Oława,,Oława,DOLNOŚLĄSKIE,,PL,+48 669 184 667,,,Poczta Polska,Q168833
+7054,tedi,TEDi Sieć Handlowa Sp. z o.o.,,Oława,Dolnośląskie,,PL,+48 32 450 36 20,https://www.tedi.com/stores/7054/pl/Dolnośląskie/Oława/ul-3-Maja-51,Mo-Sa 09:00-20:00,TEDi,Q1364603
+,visa,,,OŁAWA,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,OŁAWA,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,OŁAWA,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,OŁAWA,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,OŁAWA,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,OŁAWA,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,JELCZ-LASKOWICE,DOLNOŚLĄSKIE,,PL,,,,,

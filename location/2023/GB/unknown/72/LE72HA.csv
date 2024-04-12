@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+SYS,national_rail_gb,Syston,,,,,GB,,https://www.nationalrail.co.uk/stations/sys/,,,
+/services/dentist/watermead-dental/V004787,nhs_england_gb,Watermead Dental,"1148 Melton Road, Syston",,,,GB,+44 116 260 7625,https://www.watermeaddental.co.uk/,"Mo-Th 09:00-12:30,13:30-17:00; Fr 09:00-12:30,13:00-16:00",NHS England,Q16251481
+/services/dentist/syston-dental-care/V013433,nhs_england_gb,Syston Dental Care,"1126 Melton Road, Syston",,,,GB,+44 116 269 5111,https://www.nhs.uk/services/dentist/syston-dental-care/V013433,Mo 08:00-17:30; Tu-Th 09:00-18:00; Fr 08:00-17:30,NHS England,Q16251481
+https://www.premier-stores.co.uk/our-stores/syston-convenience-store,premier_gb,Premier Syston Convenience Store,,Leicester,,,GB,,https://www.premier-stores.co.uk/our-stores/syston-convenience-store,,Premier,Q7240340

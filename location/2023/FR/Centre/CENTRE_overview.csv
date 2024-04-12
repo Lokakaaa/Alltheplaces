@@ -1,0 +1,329 @@
+City,Place Name,Zipcode,Name
+DREUX,audi,52 Avenue DES FENOTS DREUX 28100,unknown,LECLUSE AUTOMOBILES
+CHARTRES (NOGENT LE PHAYE),audi,7 Rue Gilles de Roberval CHARTRES (NOGENT LE PHAYE) 28630,unknown,OLYMPIC AUTO
+BOURGES (ST DOULCHARD),audi,1461 ROUTE D'ORLEANS BOURGES (ST DOULCHARD) 18230,unknown,AUDEXIA SAS
+ORLEANS (FLEURY LES AUBRAIS),audi,20 RUE DESSAUX ORLEANS (FLEURY LES AUBRAIS) 45409,unknown,GVA BYMYCAR ORLEANS NORD
+ST CYR SUR LOIRE (TOURS),audi,25 Boulevard André Georges Voisin ST CYR SUR LOIRE (TOURS) 37540,unknown,INTERSPORT
+BLOIS,audi,13 RUE DES GUIGNIERES BLOIS 41000,unknown,ESPACE AUTO BLOIS SAS
+AMILLY,audi,35 Route de la Rose Blanche Pôle commercial du Chesnoy AMILLY 45200,unknown,AMIXIA
+CHATEAUROUX,audi,RN 20 ROCADE Sud CHATEAUROUX 36007,unknown,DALAUTO CHATEAUROUX
+BOURGUEIL,cic,,unknown,CIC CHINON
+CHATILLON SUR INDRE,cic,,unknown,CIC
+CHINON,cic,,unknown,CIC CHINON - CIC BOURGUEIL
+AMILLY,cic,,unknown,CIC MONTARGIS
+MONTARGIS,cic,,unknown,CIC MONTARGIS - CIC AMILLY
+ST AMAND MONTROND,cic,,unknown,CIC LA CHATRE
+LA CHATRE,cic,,unknown,CIC LA CHATRE - CIC SAINT AMAND MONTROND
+LUCE,cic,,unknown,CIC CHARTRES
+CHARTRES,cic,,unknown,CIC
+EPERNON,cic,,unknown,CIC
+ANET,cic,,unknown,CIC DREUX
+DREUX,cic,,unknown,CIC DREUX - CIC ANET
+LUISANT,cic,,unknown,CIC CHARTRES
+ST CYR SUR LOIRE,cic,,unknown,CIC
+MONTLOUIS SUR LOIRE,cic,,unknown,CIC AMBOISE
+LE CONTROIS EN SOLOGNE,cic,,unknown,CIC CONTRES VAL DE CHER - CIC SAINT AIGNAN SUR CHER
+MEUNG SUR LOIRE,cic,,unknown,CIC PORTES DE CHAMBORD
+AMBOISE,cic,,unknown,CIC AMBOISE - CIC MONTLOUIS
+TAVERS,cic,,unknown,CIC PORTES DE CHAMBORD - CIC MER
+VEUZAIN SUR LOIRE,cic,,unknown,CIC BLOIS RIVES DE LOIRE
+ST GERVAIS LA FORET,cic,,unknown,CIC BLOIS RIVES DE LOIRE - CIC BLOIS VIENNE
+CHATEAUDUN,cic,,unknown,CIC
+MER,cic,,unknown,CIC PORTES DE CHAMBORD
+BLOIS,cic,,unknown,CIC BLOIS CHATEAU
+LA CHAUSSEE ST VICTOR,cic,,unknown,CIC
+NOGENT LE ROTROU,cic,,unknown,CIC LA FERTE-BERNARD
+ST AIGNAN,cic,,unknown,CIC CONTRES VAL DE CHER
+MONTOIRE SUR LE LOIR,cic,,unknown,CIC VENDOME
+VENDOME,cic,,unknown,CIC VENDOME - CIC MONTOIRE SUR LE LOIR
+TOURS,cic,,unknown,CIC
+CHATEAUROUX,cic,,unknown,CIC
+ST AVERTIN,cic,,unknown,CIC TOURS GRAND SUD
+CHAMBRAY LES TOURS,cic,,unknown,CIC TOURS GRAND SUD
+JOUE LES TOURS,cic,,unknown,CIC TOURS GRAND SUD - CIC CHAMBRAY LES TOURS
+GIEN,cic,,unknown,CIC GIEN - CIC BRIARE
+BRIARE,cic,,unknown,CIC GIEN
+OLIVET,cic,,unknown,CIC ORLEANS RIVES SUD - CIC ORLEANS DAUPHINE
+ORLEANS,cic,,unknown,CIC
+FLEURY LES AUBRAIS,cic,,unknown,CIC ORLEANS HAUTS DE LOIRE - CIC SARAN
+LAMOTTE BEUVRON,cic,,unknown,CIC
+NEUVILLE AUX BOIS,cic,,unknown,CIC PITHIVIERS
+CHECY,cic,,unknown,CIC
+PITHIVIERS,cic,,unknown,CIC PITHIVIERS - CIC NEUVILLE AUX BOIS
+SULLY SUR LOIRE,cic,,unknown,CIC
+SARAN,cic,,unknown,CIC ORLEANS HAUTS DE LOIRE
+SELLES SUR CHER,cic,,unknown,CIC ROMORANTIN
+ROMORANTIN LANTHENAY,cic,,unknown,CIC ROMORANTIN - CIC SELLES SUR CHER
+ISSOUDUN,cic,,unknown,CIC
+VIERZON,cic,,unknown,CIC
+ST DOULCHARD,cic,,unknown,CIC BOURGES
+BOURGES,cic,,unknown,CIC BOURGES - CIC ST DOULCHARD
+LA CHAPELLE ST MESMIN,cic,,unknown,CIC
+FLEURY LES AUBRAIS,cigusto_fr,,unknown,CIGUSTO FLEURY
+DREUX,cigusto_fr,,unknown,CIGUSTO DREUX
+VIERZON,cigusto_fr,,unknown,CIGUSTO VIERZON
+TOURS,cigusto_fr,,unknown,CIGUSTO TOURS
+SARAN,cigusto_fr,,unknown,CIGUSTO SARAN
+ROMORANTIN LANTHENAY,cigusto_fr,,unknown,CIGUSTO ROMORANTIN
+ORLEANS,cigusto_fr,,unknown,CIGUSTO ORLEANS
+OLIVET,cigusto_fr,,unknown,CIGUSTO OLIVET
+AMILLY,cigusto_fr,,unknown,CIGUSTO MONTARGIS - AMILLY
+HANCHES,cigusto_fr,,unknown,CIGUSTO HANCHES
+GIEN,cigusto_fr,,unknown,CIGUSTO GIEN
+CHECY,cigusto_fr,,unknown,CIGUSTO CHECY
+LUCE,cigusto_fr,,unknown,CIGUSTO CHARTRES - LUCE
+CHAMBRAY LES TOURS,cigusto_fr,,unknown,CIGUSTO CHAMBRAY LES TOURS
+BAULE,cigusto_fr,,unknown,CIGUSTO BAULE
+VIERZON CEDEX,e_leclerc,,unknown,Drive Vierzon
+CHATEAUDUN,e_leclerc,,unknown,Drive Chateaudun - Saint-Denis-les-Ponts
+SAINT DENIS LANNERAY,e_leclerc,,unknown,Brico
+CHATEAUDUN / SAINT-DENIS-LES-PONTS,e_leclerc,,unknown,Une heure pour Soi
+SAINT-MAUR,e_leclerc,,unknown,Location
+VENDOME,e_leclerc,,unknown,Drive Vendôme
+Vendôme,e_leclerc,,unknown,Drive Vendôme Route de Blois
+LE BLANC,e_leclerc,,unknown,Drive Le Blanc
+JOUE LES TOURS CEDEX,e_leclerc,,unknown,Une heure pour Soi
+JOUE LES TOURS,e_leclerc,,unknown,Location de véhicules
+CHAMBRAY LES TOURS,e_leclerc,,unknown,Drive Chambray-lès-Tours
+ROMORANTIN,e_leclerc,,unknown,Location
+ROMORANTIN CEDEX,e_leclerc,,unknown,ROMORANTIN
+PRUNIERS en SOLOGNE,e_leclerc,,unknown,Drive Romorantin
+BOURGES,e_leclerc,,unknown,Drive Bourges - Saint-Germain-du-Puy
+Saint-Doulchard,e_leclerc,,unknown,Drive Saint-Doulchard / Bourges
+DREUX,e_leclerc,,unknown,Service Drive -Les Bates
+Dreux,e_leclerc,,unknown,Drive Dreux - Le Pré
+ISSOUDUN,e_leclerc,,unknown,Drive Issoudun
+TOURS CEDEX 2,e_leclerc,,unknown,Station Service
+TOURS,e_leclerc,,unknown,Drive Tours Nord
+TOURS CEDEX,e_leclerc,,unknown,Location
+BLOIS,e_leclerc,,unknown,Drive Blois
+St-Gervais-la-Foret,e_leclerc,,unknown,Drive Saint-Gervais-la-Forêt / Blois
+FLEURY LES AUBRAIS,e_leclerc,,unknown,Drive Fleury-les-Aubrais
+Saint-Jean-de-la-Ruelle,e_leclerc,,unknown,Drive Saint-Jean-de-la-Ruelle
+Orléans,e_leclerc,,unknown,Drive Orléans
+Ormes,e_leclerc,,unknown,Relais ORMES
+BARJOUVILLE,e_leclerc,,unknown,Location
+CHARTRES,e_leclerc,,unknown,Drive Chartres
+Mainvilliers,e_leclerc,,unknown,Drive Mainvilliers
+SAINT-MAUR CAP SUD,e_leclerc,,unknown,ST MAUR - CAP SUD
+SAINT-MAUR CAP SUD ,e_leclerc,,unknown,Drive Saint-Maur CAP SUD 
+AMBOISE,e_leclerc,,unknown,Drive Amboise
+OLIVET,e_leclerc,,unknown,Drive Piéton Orléans - De Gaulle
+OLIVET - ORLEANS,e_leclerc,,unknown,Auto
+SAINT-AMAND DE MONTROND,e_leclerc,,unknown,Drive Saint-Amand-Montrond
+SAINT-AMAND MONTROND,e_leclerc,,unknown,Brico
+NOGENT LE ROTROU,e_leclerc,,unknown,Drive Margon / Nogent-Le-Rotrou
+MARGON NOGENT LE ROTROU,e_leclerc,,unknown,NOGENT
+LA VILLE AUX DAMES,e_leclerc,,unknown,Drive La Ville aux Dames
+MONTARGIS,e_leclerc,,unknown,Brico
+AMILLY,e_leclerc,,unknown,Drive Amilly
+SAINT-DOULCHARD,e_leclerc,,unknown,SAINT-DOULCHARD
+CHINON,e_leclerc,,unknown,CHINON
+TAVERS,e_leclerc,,unknown,Drive Tavers / Beaugency
+Meung-sur-Loire,e_leclerc,,unknown,Drive Meung-sur-Loire
+ANET,e_leclerc,,unknown,Location
+OULINS,e_leclerc,,unknown,Drive Oulins / Anet
+FONDETTES,e_leclerc,,unknown,FONDETTES
+LA RICHE,e_leclerc,,unknown,Drive La Riche
+Tours,e_leclerc,,unknown,Drive Tours Les Halles
+Langeais,e_leclerc,,unknown,Drive Langeais
+PITHIVIERS,e_leclerc,,unknown,Drive Pithiviers
+LOCHES,e_leclerc,,unknown,Drive Loches
+PERRUSSON,e_leclerc,,unknown,LOCHES
+GIEN,e_leclerc,,unknown,Drive Gien
+CHECY,e_leclerc,,unknown,Drive Chécy
+Malesherbes,e_leclerc,,unknown,Drive Malesherbes
+MALESHERBES,e_leclerc,,unknown,MALESHERBES
+Pithiviers,e_leclerc,,unknown,Drive Pithiviers
+Voves,fedex,,unknown,unknown
+Vouvray,fedex,,unknown,unknown
+Vimory,fedex,,unknown,unknown
+Villemandeur,fedex,,unknown,unknown
+Villedomer,fedex,,unknown,unknown
+Villedieu Sur Indre,fedex,,unknown,unknown
+Villebarou,fedex,,unknown,unknown
+Vignoux Sur Barangeon,fedex,,unknown,unknown
+Vierzon,fedex,,unknown,unknown
+Vernouillet,fedex,,unknown,unknown
+Veretz,fedex,,unknown,unknown
+Vendome,fedex,,unknown,unknown
+Veigne,fedex,,unknown,unknown
+Vatan,fedex,,unknown,unknown
+Valencay,fedex,,unknown,unknown
+Vailly Sur Sauldre,fedex,,unknown,unknown
+Trainou,fedex,,unknown,unknown
+Tours,fedex,,unknown,unknown
+Tournon St Martin,fedex,,unknown,unknown
+Sully Sur Loire,fedex,,unknown,unknown
+St Satur,fedex,,unknown,unknown
+St Pryve St Mesmin,fedex,,unknown,unknown
+St Pierre Des Corps,fedex,,unknown,unknown
+St Maur,fedex,,unknown,unknown
+St Martin D Auxigny,fedex,,unknown,unknown
+St Laurent Nouan,fedex,,unknown,unknown
+St Laurent En Gatines,fedex,,unknown,unknown
+St Jean De La Ruelle,fedex,,unknown,FedEx Express FR
+St Jean De Braye,fedex,,unknown,unknown
+St Hilaire St Mesmin,fedex,,unknown,unknown
+St Gervais La Foret,fedex,,unknown,unknown
+St Georges Sur Cher,fedex,,unknown,unknown
+St Flovier,fedex,,unknown,unknown
+St Florent Sur Cher,fedex,,unknown,unknown
+St Doulchard,fedex,,unknown,unknown
+St Denis De L Hotel,fedex,,unknown,unknown
+St Cyr Sur Loire,fedex,,unknown,unknown
+St Claude De Diray,fedex,,unknown,unknown
+St Avertin,fedex,,unknown,unknown
+St Amand Montrond,fedex,,unknown,unknown
+St Aignan,fedex,,unknown,unknown
+Sours,fedex,,unknown,unknown
+Sorigny,fedex,,unknown,unknown
+Selommes,fedex,,unknown,unknown
+Selles Sur Cher,fedex,,unknown,unknown
+Seigy,fedex,,unknown,unknown
+Savigny Sur Braye,fedex,,unknown,unknown
+Sassay,fedex,,unknown,unknown
+Saran,fedex,,unknown,unknown
+Sancoins,fedex,,unknown,unknown
+Salbris,fedex,,unknown,unknown
+Romorantin Lanthenay,fedex,,unknown,unknown
+Pruniers En Sologne,fedex,,unknown,unknown
+Preuilly Sur Claise,fedex,,unknown,unknown
+Pontgouin,fedex,,unknown,unknown
+Pithiviers,fedex,,unknown,unknown
+Patay,fedex,,unknown,unknown
+Pannes,fedex,,unknown,unknown
+Ouzouer Sur Loire,fedex,,unknown,unknown
+Outarville,fedex,,unknown,unknown
+Ormes,fedex,,unknown,unknown
+Orleans,fedex,,unknown,unknown
+Olivet,fedex,,unknown,unknown
+Nogent Le Rotrou,fedex,,unknown,unknown
+Nogent Le Roi,fedex,,unknown,unknown
+Mur De Sologne,fedex,,unknown,unknown
+Monts,fedex,,unknown,unknown
+Montoire Sur Le Loir,fedex,,unknown,unknown
+Monteaux,fedex,,unknown,unknown
+Montargis,fedex,,unknown,unknown
+Monnaie,fedex,,unknown,unknown
+Mondoubleau,fedex,,unknown,unknown
+Meusnes,fedex,,unknown,unknown
+Mesnil Sur L Estree,fedex,,unknown,unknown
+Mer,fedex,,unknown,unknown
+Meobecq,fedex,,unknown,unknown
+Menetreol Sous Sancerre,fedex,,unknown,unknown
+Menetou Salon,fedex,,unknown,unknown
+Marmagne,fedex,,unknown,unknown
+Marcilly En Gault,fedex,,unknown,unknown
+Malesherbes,fedex,,unknown,unknown
+Mainvilliers,fedex,,unknown,unknown
+Maintenon,fedex,,unknown,unknown
+Luisant,fedex,,unknown,unknown
+Luce,fedex,,unknown,unknown
+Lorris,fedex,,unknown,unknown
+Loches,fedex,,unknown,unknown
+Ligueil,fedex,,unknown,unknown
+Les Montils,fedex,,unknown,unknown
+Les Bordes,fedex,,unknown,unknown
+Le Poinconnet,fedex,,unknown,unknown
+Le Pechereau,fedex,,unknown,unknown
+Le Blanc,fedex,,unknown,unknown
+Lailly En Val,fedex,,unknown,unknown
+La Ville Aux Dames,fedex,,unknown,unknown
+La Loupe,fedex,,unknown,unknown
+La Guerche Sur L Aubois,fedex,,unknown,unknown
+La Ferte St Aubin,fedex,,unknown,unknown
+La Chaussee St Victor,fedex,,unknown,unknown
+La Chatre,fedex,,unknown,unknown
+La Chapelle St Mesmin,fedex,,unknown,unknown
+La Celle Sur Loire,fedex,,unknown,unknown
+La Bazoche Gouet,fedex,,unknown,unknown
+L Ile Bouchard,fedex,,unknown,unknown
+Joue Les Tours,fedex,,unknown,unknown
+Jargeau,fedex,,unknown,unknown
+Issoudun,fedex,,unknown,unknown
+Ingre,fedex,,unknown,unknown
+Huisseau Sur Cosson,fedex,,unknown,unknown
+Herbault,fedex,,unknown,unknown
+Hanches,fedex,,unknown,unknown
+Gracay,fedex,,unknown,unknown
+Gien,fedex,,unknown,unknown
+Gellainville,fedex,,unknown,unknown
+Gallardon,fedex,,unknown,unknown
+Fussy,fedex,,unknown,unknown
+Freteval,fedex,,unknown,unknown
+Fontenay Sur Loing,fedex,,unknown,unknown
+Fontaine La Guyon,fedex,,unknown,unknown
+Fondettes,fedex,,unknown,unknown
+Fleury Les Aubrais,fedex,,unknown,unknown
+Fay Aux Loges,fedex,,unknown,unknown
+Esvres,fedex,,unknown,unknown
+Epernon,fedex,,unknown,unknown
+Dun Sur Auron,fedex,,unknown,unknown
+Dry,fedex,,unknown,unknown
+Dreux,fedex,,unknown,unknown
+Douchy,fedex,,unknown,unknown
+Dordives,fedex,,unknown,unknown
+Deols,fedex,,unknown,unknown
+Danze,fedex,,unknown,unknown
+Dangeau,fedex,,unknown,unknown
+Culan,fedex,,unknown,unknown
+Courville Sur Eure,fedex,,unknown,unknown
+Courtenay,fedex,,unknown,unknown
+Cour Cheverny,fedex,,unknown,unknown
+Coulombs,fedex,,unknown,unknown
+Coltainville,fedex,,unknown,unknown
+Cloyes Sur Le Loir,fedex,,unknown,unknown
+Clemont,fedex,,unknown,unknown
+Clamart,fedex,,unknown,unknown
+Chouzy Sur Cisse,fedex,,unknown,unknown
+Chinon,fedex,,unknown,unknown
+Checy,fedex,,unknown,unknown
+Chaumont Sur Tharonne,fedex,,unknown,unknown
+Chatillon Sur Indre,fedex,,unknown,unknown
+Chatillon Coligny,fedex,,unknown,unknown
+Chateauroux,fedex,,unknown,unknown
+Chateauneuf Sur Loire,fedex,,unknown,unknown
+Chateauneuf Sur Cher,fedex,,unknown,unknown
+Chateauneuf En Thymerais,fedex,,unknown,unknown
+Chateaumeillant,fedex,,unknown,unknown
+Chateaudun,fedex,,unknown,unknown
+Chartres,fedex,,unknown,unknown
+Charsonville,fedex,,unknown,unknown
+Chambray Les Tours,fedex,,unknown,unknown
+Chalette Sur Loing,fedex,,unknown,unknown
+Chaingy,fedex,,unknown,unknown
+Chabris,fedex,,unknown,unknown
+Cepoy,fedex,,unknown,unknown
+Tours,hema,,unknown,HEMA
+BOURGES,ikks,,unknown,IKKS Women BOURGES
+ROMORANTIN - LANTHENAY,ikks,,unknown,XandO Junior ROMORANTIN
+MONTARGIS,ikks,,unknown,IKKS Women MONTARGIS
+ORLEANS,ikks,,unknown,IKKS JUNIOR ORLEANS
+BLOIS,ikks,,unknown,XandO Women BLOIS
+TOURS,ikks,,unknown,ICODE TOURS
+VENDOME,ikks,,unknown,XandO JUNIOR VENDOME
+CHARTRES,ikks,,unknown,IKKS Women Men CHARTRES
+Departement d'Indre-et-Loire,ionity,,unknown,Fontaine Colette
+Departement du Cher,ionity,,unknown,Centre de la France
+Departement du Loiret,ionity,,unknown,Orléans Nord
+Departement de l'Indre,ionity,,unknown,Chateauroux Nord
+Departement du Loir-et-Cher,ionity,,unknown,Blois Ménars
+Departement d'Eure-et-Loir,ionity,,unknown,Chartres Bois Paris
+Departement du Loir-et-Cher,pokawa,45 avenue du docteur jean laigret   Blois   41000,unknown,Pokawa Blois Gare
+Departement du Cher,pokawa,11 rue Mirebeau  Bourges   18000,unknown,Pokawa Bourges
+Tours,starbucks_eu,Rue Nationale 1 Tours 37000 Tours,unknown,Tours Nationale 1
+Tours,starbucks_eu,5 place Jean Jaures 37000 Tours,unknown,Place Jean Jaures
+Fraze,starbucks_eu,Autoroute A11 Paris Nantes 28160 Fraze,unknown,Aire des Manoirs du Perche
+Chartres,starbucks_eu,8 Place des Epars 28000 Chartres Francia 28000 Chartres,unknown,Chartres Place Des Epars 8
+28300 Gasville-Oiseme,starbucks_eu,Autoroute A11 28300 Gasville-Oiseme,unknown,Aire de Service Chartres-Bois-Paris
+Orleans,starbucks_eu,Place albert 1er 45000 Orleans,unknown,CC Place D'Arc - Orleans
+Orleans,starbucks_eu,2 Rue des Halles 45000 Orleans,unknown,Orleans - Pathe Place de Loire
+28310 Fresnay-lEveque,starbucks_eu,A10 - RD Plaines de Beauce 28310 Fresnay-lEveque,unknown,Aire de Service Plaines de Beauce
+18200 Farges-Allichamps,starbucks_eu,Aire de Service du Centre de la France 18200 Farges-Allichamps,unknown,Farges-Allichamps-AdC. France (A71)
+CHATEAUROUX,visa,,unknown,unknown
+CHAMBRAY-LES-TOURS,visa,,unknown,unknown
+OLIVET,visa,,unknown,unknown
+Chateauroux,western_union,,unknown,CARPATI
+Gien,western_union,,unknown,FAST MARKET
+Orleans,western_union,,unknown,LE COIN SYRIEN

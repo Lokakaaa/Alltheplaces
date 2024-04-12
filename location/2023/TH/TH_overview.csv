@@ -1,0 +1,3822 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,96
+10,adidas,Huaikhwang,1
+11,adidas,Bangplee,1
+12,adidas,Pakkret,1
+UNKNOWN,adidas,Bangkok,1
+13,adidas,Pathum Thani,1
+10,adidas,Bangkok,6
+11,adidas,Samut Prakan,2
+12,adidas,Nonthaburi,1
+13,adidas,Pathumthani,1
+UNKNOWN,adidas,Samut Prakan,2
+20,adidas,Chonburi,1
+UNKNOWN,alstom,unknown,1
+UNKNOWN,american_eagle_outfitters,Chiangmai Muang Chiang Mai,1
+UNKNOWN,american_eagle_outfitters,Samut Prakarn Bangplee,1
+UNKNOWN,american_eagle_outfitters,Pathumthani Thanyaburi,1
+UNKNOWN,american_eagle_outfitters,Bangkok Watthana,1
+UNKNOWN,american_eagle_outfitters,Bangkok Khan Na Yao,1
+UNKNOWN,american_eagle_outfitters,Bangkok Pathumwan,1
+BANGKOK,anytime_fitness,Nanglinchee Market Place Mall (สาขานางลิ้นจี่),1
+กรงเทพมหานคร,apple,กรุงเทพมหานคร,2
+UNKNOWN,ashley_furniture,Bangkok City,1
+UNKNOWN,ashley_furniture,Raminthra,1
+UNKNOWN,ashley_furniture,Bang Na,1
+UNKNOWN,ashley_furniture,Pattaya,1
+12,ashley_furniture,Tambon Bang Rak Noi,1
+CHONBURI,audi,Pattaya,1
+PHUKET,audi,Phuket,1
+CHANGWATUDONTHANI,audi,Udonthani,1
+BANGKOK,audi,Bangkok,3
+BANGKOK,aurecongroup,Bangkok,1
+MAHKKENG,avis,Udon Thani,1
+UBONRATCHATHANI,avis,Ubon Ratchathani,1
+TRANG,avis,Trang,1
+SURATTHANI,avis,Suratthani,1
+SAMUIISLAND,avis,Samui Island,1
+RAYONG,avis,Rayong,1
+PRACHUABKHIRIKHAN,avis,Hua Hin,1
+PHUKET,avis,Phuket,1
+ARANYIK,avis,Phitsanulok,1
+PATTAYA,avis,Pattaya,1
+MOO2TPHASINGAMUEANG,avis,Nan,1
+NAKORNSITHAMARAT,avis,Nakorn Si Thamarat,1
+TAMBONPOTAKAMUEANG,avis,Nakhon Phanom,1
+TPHRABATAMUEANGLAMPANG,avis,Lampang,1
+AMPHURMUENT,avis,Krabi,1
+KHONKAEN,avis,Khon Kaen,1
+HAADYAI,avis,Haad Yai,1
+CHIANGRAI,avis,Chiang Rai,1
+AMUANG,avis,Chiang Mai,1
+ASATUEK,avis,Buriram,1
+BANGKOKSUVARNABHUMIAIRPORT,avis,Bangkok,1
+BANGKOK,avis,Bangkok,1
+GROUNDFLOOR259SUKHUMVIT19,avis,Bangkok,1
+THAILAND,bmw_group,Chiangmai,1
+THAILAND,bmw_group,Bangkok,19
+THAILAND,bmw_group,Chonburi,1
+THAILAND,bmw_group,Pitsanulok,1
+THAILAND,bmw_group,Nakhonratchasima,1
+THAILAND,bmw_group,Ubonratchatani,1
+THAILAND,bmw_group,Phuket,1
+UNKNOWN,bmw_group,Khonkaen,1
+UNKNOWN,bmw_group,Chonburi,1
+THAILAND,bmw_group,Pathumthani,1
+UNKNOWN,bmw_group,Udonthani,1
+UNKNOWN,bmw_group,Bangkok,1
+THAILAND,bmw_group,Suratthani,1
+THAILAND,bmw_group,Bangkhae,1
+THAILAND,bmw_group,Nonthaburi,2
+THAILAND,bmw_group,Nakornpathom,1
+THAILAND,bmw_group,Songkla,1
+UNKNOWN,bmw_group,Rayong,1
+PHUKET,boots_th,unknown,16
+TAK,boots_th,unknown,1
+CHIANGMAI,boots_th,unknown,13
+KRABI,boots_th,unknown,1
+LAMPANG,boots_th,unknown,1
+SURATTHANI,boots_th,unknown,6
+CHIANGRAI,boots_th,unknown,2
+RATCHABURI,boots_th,unknown,2
+KANCHANABURI,boots_th,unknown,1
+TRANG,boots_th,unknown,1
+PHETCHABURI,boots_th,unknown,1
+PRACHUAPKHIRIKHAN,boots_th,unknown,3
+NAKHONSAWAN,boots_th,unknown,2
+NAKHONPATHOM,boots_th,unknown,5
+PHITSANULOK,boots_th,unknown,1
+NAKHONSITHAMMARAT,boots_th,unknown,1
+SAMUTSAKHON,boots_th,unknown,2
+BANGKOK,boots_th,unknown,117
+NONTHABURI,boots_th,unknown,11
+PHRANAKHONSIAYUTTHAYA,boots_th,unknown,1
+PATHUMTHANI,boots_th,unknown,4
+LOPBURI,boots_th,unknown,1
+SAMUTPRAKAN,boots_th,unknown,13
+SONGKHLA,boots_th,unknown,5
+CHONBURI,boots_th,unknown,18
+SARABURI,boots_th,unknown,1
+CHACHOENGSAO,boots_th,unknown,1
+RAYONG,boots_th,unknown,2
+NAKHONRATCHASIMA,boots_th,unknown,4
+CHANTHABURI,boots_th,unknown,1
+NONGKHAI,boots_th,unknown,2
+SAKAEO,boots_th,unknown,1
+UDONTHANI,boots_th,unknown,2
+UDORNTHANI,boots_th,unknown,1
+KHONKAEN,boots_th,unknown,3
+BURIRAM,boots_th,unknown,2
+MAHASARAKHAM,boots_th,unknown,1
+UBONRATCHATHANI,boots_th,unknown,3
+BANGKOK,botteg_aveneta,Bangkok,6
+PHUKET,botteg_aveneta,Phuket,1
+BANGKOK,caltex,กรุงเทพฯ,32
+NAKHONRATCHASIMA,caltex,นครราชสีมา,10
+SUKHOTHAI,caltex,สุโขทัย,6
+PHRAE,caltex,แพร่,2
+CHIANGMAI,caltex,เชียงใหม่,9
+KHONKAEN,caltex,ขอนแก่น,8
+CHANGWATUDONTHANI,caltex,อุดรธานี,21
+PHATTHALUNG,caltex,พัทลุง,3
+NAKHONPATHOM,caltex,นครปฐม,9
+KANCHANABURI,caltex,กาญจนบุรี,3
+CHACHOENGSAO,caltex,ฉะเชิงเทรา,13
+PRACHINBURI,caltex,ปราจีนบุรี,3
+SURATTHANI,caltex,นครศรีธรรมราช,1
+SONGKHLA,caltex,สงขลา,18
+PHRANAKHONSIAYUTTHAYA,caltex,พระนครศรีอยุธยา,10
+CHANGWATUBONRATCHATHANI,caltex,อุบลราชธานี,4
+BURIRAM,caltex,บุรีรัมย์,7
+YALA,caltex,ยะลา,1
+RAYONG,caltex,ระยอง,15
+KAMPHAENGPHET,caltex,กำแพงเพชร,5
+LOPBURI,caltex,ลพบุรี,2
+NARATHIWAT,caltex,นราธิวาส,2
+CHUMPHON,caltex,ชุมพร,4
+PHANGNGA,caltex,พังงา,7
+BANGKOK,caltex,สมุทรปราการ,4
+NAKHONSAWAN,caltex,นครสวรรค์,3
+CHONBURI,caltex,ชลบุรี,28
+NONTHABURI,caltex,นนทบุรี,11
+SUPHANBURI,caltex,สุพรรณบุรี,4
+PATHUMTHANI,caltex,ปทุมธานี,9
+PHICHIT,caltex,พิจิตร,2
+SATUN,caltex,สตูล,5
+PHITSANULOK,caltex,พิษณุโลก,7
+NONGKHAI,caltex,หนองคาย,4
+BANGKOK,caltex,ปทุมธานี,2
+SISAKET,caltex,ศรีสะเกษ,3
+NAKHONPHANOM,caltex,นครพนม,4
+SAMUTPRAKAN,caltex,สมุทรปราการ,5
+BANGKOK,caltex,นนทบุรี,2
+BANGKOK,caltex,สมุทรสาคร,3
+TRANG,caltex,ตรัง,5
+CHIANGRAI,caltex,เชียงราย,10
+LOEI,caltex,เลย,6
+PHETCHABUN,caltex,เพชรบูรณ์,3
+PHICHIT,caltex,พิษณุโลก,2
+SAKAEO,caltex,สระแก้ว,5
+RANONG,caltex,ระนอง,3
+SURATTHANI,caltex,สุราษฎร์ธานี,8
+CHANGWATBUENGKAN,caltex,บึงกาฬ,5
+RATCHABURI,caltex,ราชบุรี,2
+KALASIN,caltex,กาฬสินธุ์,4
+LAMPANG,caltex,ลำปาง,7
+SAKONNAKHON,caltex,สกลนคร,13
+KRABI,caltex,กระบี่,2
+CHAIYAPHUM,caltex,ชัยภูมิ,3
+SARABURI,caltex,สระบุรี,6
+RAYONG,caltex,ชลบุรี,2
+TAK,caltex,ตาก,1
+PHUKET,caltex,ภูเก็ต,10
+SURIN,caltex,สุรินทร์,2
+NAKHONNAYOK,caltex,นครนายก,2
+NAKHONSITHAMMARAT,caltex,นครศรีธรรมราช,8
+PRACHUAPKHIRIKHAN,caltex,ประจวบคีรีขันธ์,6
+SAMUTSAKHON,caltex,สมุทรสาคร,4
+CHAINAT,caltex,ชัยนาท,1
+SINGBURI,caltex,ลพบุรี,1
+UTTARADIT,caltex,อุตรดิตถ์ ,1
+PHRANAKHONSIAYUTTHAYA,caltex,ปทุมธานี,1
+SAMUTSONGKHRAM,caltex,สมุทรสงคราม,1
+ANGTHONG,caltex,อ่างทอง,2
+PHETCHABURI,caltex,เพชรบุรี,4
+CHANTHABURI,caltex,จันทบุรี,3
+LAMPHUN,caltex,เชียงใหม่,2
+MAHASARAKHAM,caltex,มหาสารคาม,1
+CHANGWATNONGBUALAMPHU,caltex,หนองบัวลำภู,2
+ANGTHONG,caltex,สุพรรณบุรี,1
+LAMPHUN,caltex,ลำพูน,2
+NONGKHAI,caltex,บึงกาฬ,1
+PATTANI,caltex,ปัตตานี,1
+PRACHINBURI,caltex,ปราจีนบุรี ,1
+YASOTHON,caltex,ยโสธร,2
+PATTANI,caltex,จังหวัดปัตตานี,1
+SAMUTSONGKHRAM,caltex,สมุทรสาคร,1
+UNKNOWN,deloitte,Bangkok 10120,2
+UNKNOWN,ecco,Pranakornsri Ayudthaya,1
+UNKNOWN,ecco,Bangkok,2
+UNKNOWN,enterprise,Chonburi,1
+UNKNOWN,enterprise,Suratthani,1
+UNKNOWN,enterprise,Bangkok,1
+UNKNOWN,enterprise,Chiang Mai,1
+UNKNOWN,ernst_young,Bangkok,1
+UNKNOWN,ford,A. Tungsong,1
+UNKNOWN,ford,A.Muang,78
+UNKNOWN,ford,อ.เมือง,77
+UNKNOWN,ford,A.Banbung,1
+UNKNOWN,ford,อ.บ้านบึง,1
+UNKNOWN,ford,A.Banglamung,2
+UNKNOWN,ford,อ.บางละมุง,3
+UNKNOWN,ford,A.Pluakdang,1
+UNKNOWN,ford,อ.ปลวกแดง,1
+UNKNOWN,ford,Kh.Kannayao,1
+UNKNOWN,ford,เขตคันนายาว,1
+UNKNOWN,ford,A.Pong Nam Ron,1
+UNKNOWN,ford,อ.โป่งน้ำร้อน,1
+UNKNOWN,ford,Kh.Bang Khen,1
+UNKNOWN,ford,เขตบางเขน,1
+UNKNOWN,ford,A.Bangbuathong,1
+UNKNOWN,ford,อ.บางบัวทอง,2
+UNKNOWN,ford,Kh.Phrakanong,1
+UNKNOWN,ford,เขตพระโขนง,1
+UNKNOWN,ford,Kh.Phaya Thai,1
+UNKNOWN,ford,เขตพญาไท,1
+UNKNOWN,ford,Kh.Chomthong,1
+UNKNOWN,ford,เขตจอมทอง,1
+UNKNOWN,ford,Kh.Nongkham,1
+UNKNOWN,ford,เขตหนองแขม,1
+UNKNOWN,ford,Kh.Bangrak,1
+UNKNOWN,ford,เขตบางรัก,1
+UNKNOWN,ford,Kh.Sapansoong,1
+UNKNOWN,ford,เขตสะพานสูง,1
+UNKNOWN,ford,Kh.Bangkhae,2
+UNKNOWN,ford,เขตบางแค,2
+UNKNOWN,ford,Kh.Khlong Toei,1
+UNKNOWN,ford,เขตคลองเตย,1
+UNKNOWN,ford,Kh.Pravet,1
+UNKNOWN,ford,เขตประเวศ,1
+UNKNOWN,ford,Kh.Thonburi,1
+UNKNOWN,ford,เขตธนบุรี,2
+UNKNOWN,ford,Kh.Nongchok,1
+UNKNOWN,ford,เขตหนองจอก,1
+UNKNOWN,ford,Kh.Thawiwatthana,1
+UNKNOWN,ford,เขตทวีวัฒนา,1
+UNKNOWN,ford,A.Bangsaothong,1
+UNKNOWN,ford,อ.บางเสาธง,1
+UNKNOWN,ford,Kh.Beungkum,1
+UNKNOWN,ford,เขตบึงกุ่ม,1
+UNKNOWN,ford,A.Bang Bua Thong,1
+UNKNOWN,ford,Kh.Bangbon,1
+UNKNOWN,ford,เขตบางบอน,1
+UNKNOWN,ford,Kh.Ladprao,1
+UNKNOWN,ford,เขตลาดพร้า,1
+UNKNOWN,ford,Kh.Donmueang,1
+UNKNOWN,ford,เขตดอนเมือง,1
+UNKNOWN,ford,A.Klongluang,2
+UNKNOWN,ford,อ.คลองหลวง,3
+UNKNOWN,ford,A.Bangphli,1
+UNKNOWN,ford,อ.บางพลี,1
+UNKNOWN,ford,Kh.Suanluang,1
+UNKNOWN,ford,เขตสวนหลวง,1
+UNKNOWN,ford,Kh.Latkrabang,1
+UNKNOWN,ford,เขตลาดกระบัง,1
+UNKNOWN,ford,Thonburi,1
+UNKNOWN,ford,A.Bang Kruai,1
+UNKNOWN,ford,อ.บางกรวย,1
+UNKNOWN,ford,"A.Mueang,",1
+UNKNOWN,ford,A.Phra SamutChedi,1
+UNKNOWN,ford,อ. พระสมุทรเจดีย์,1
+UNKNOWN,ford,A.Klong Luang,1
+UNKNOWN,ford,A.Lamlukka,1
+UNKNOWN,ford,อ.ลำลูกกา,1
+UNKNOWN,ford,A. Thanyaburi,1
+UNKNOWN,ford,อ. ธัญบุรี,1
+UNKNOWN,ford,A.Bangkapi,1
+UNKNOWN,ford,เขตบางกะปิ,1
+UNKNOWN,ford,A.Thamuang,1
+UNKNOWN,ford,อ.ท่าม่วง,1
+UNKNOWN,ford,A.Thamaka,1
+UNKNOWN,ford,อ.ท่ามะกา,1
+UNKNOWN,ford,Kh.Bangkhuntien,1
+UNKNOWN,ford,เขตบางขุนเทียน,2
+UNKNOWN,ford,Kh.Bangkhunthian,1
+UNKNOWN,ford,A.Bangpae,1
+UNKNOWN,ford,อ.บางแพ,1
+UNKNOWN,ford,A.Baan Pong,1
+UNKNOWN,ford,อ.บ้านโป่ง,1
+UNKNOWN,ford,A.Bangpa-in,1
+UNKNOWN,ford,อ.บางปะอิน,1
+UNKNOWN,ford,A.Sampran,1
+UNKNOWN,ford,อ.สามพราน,1
+UNKNOWN,ford,A.Muangsingburi,1
+UNKNOWN,ford,อ.เมืองสิงห์บุรี,1
+UNKNOWN,ford,A.Bangplama,1
+UNKNOWN,ford,อ.บางปลาม้า,1
+UNKNOWN,ford,A.Manorom,1
+UNKNOWN,ford,อ.มโนรมย์,1
+UNKNOWN,ford,A.Bang Lamung,1
+UNKNOWN,ford,A.Wangnoi,1
+UNKNOWN,ford,อ.วังน้อย,1
+UNKNOWN,ford,A.Mueangchonburi,1
+UNKNOWN,ford,อ.เมืองชลบุรี,1
+UNKNOWN,ford,A.Muangrayong,1
+UNKNOWN,ford,อ.เมืองระยอง,1
+UNKNOWN,ford,A.Klaeng,1
+UNKNOWN,ford,อ.แกลง,1
+UNKNOWN,ford,A.Muang Nakhon Nayok,1
+UNKNOWN,ford,อ.เมืองนครนายก,1
+UNKNOWN,ford,A.Bangpakong,1
+UNKNOWN,ford,อ.บางประกง,1
+UNKNOWN,ford,A.Sriracha,1
+UNKNOWN,ford,อ.ศรีราชา,1
+UNKNOWN,ford,A. Pattananikom,1
+UNKNOWN,ford,อ.พัฒนานิคม,1
+UNKNOWN,ford,A.Wisetchaichan,1
+UNKNOWN,ford,อ.วิเศษชัยชาญ,1
+UNKNOWN,ford,A.Muang Ratchaburi,1
+UNKNOWN,ford,อ.เมืองราชบุรี,1
+UNKNOWN,ford,A.Sungmen,1
+UNKNOWN,ford,อ.สูงเม่น,1
+UNKNOWN,ford,A.Lomsak,1
+UNKNOWN,ford,A.Maesod,1
+UNKNOWN,ford,อ.แม่สอด,1
+UNKNOWN,ford,อ.เมืองพิษณุโลก,1
+UNKNOWN,ford,A.Hangdong,1
+UNKNOWN,ford,อ.หางดง,1
+UNKNOWN,ford,A.Mueng,1
+UNKNOWN,ford,อ.ฝาง,1
+UNKNOWN,ford,A.Jomtong,1
+UNKNOWN,ford,อ.จอมทอง,1
+UNKNOWN,ford,A.Muang Maehongsorn,1
+UNKNOWN,ford,อ.เมือง แม่ฮ่องสอน,1
+UNKNOWN,ford,A. Muang,1
+UNKNOWN,ford,อ.เมืองพะเยา,1
+UNKNOWN,ford,A.Kumpawapi,1
+UNKNOWN,ford,อ.กุมภวาปี,1
+UNKNOWN,ford,A.Ban Phue,1
+UNKNOWN,ford,อ. บ้านผือ,1
+UNKNOWN,ford,A.Kranuan,1
+UNKNOWN,ford,อ.กระนวน,1
+UNKNOWN,ford,A.Prasart,1
+UNKNOWN,ford,อ.ปราสาท,1
+UNKNOWN,ford,A.Kantharalak,1
+UNKNOWN,ford,อ.กันทรลักษ์,1
+UNKNOWN,ford,A. Phonpisai,1
+UNKNOWN,ford,อ.โพนพิสัย,1
+UNKNOWN,ford,A.Bangruad,1
+UNKNOWN,ford,อ.บ้านกรวด,1
+UNKNOWN,ford,A.Sawangdandin,1
+UNKNOWN,ford,อ.สว่างแดนดิน,1
+UNKNOWN,ford,A.Chumpae,1
+UNKNOWN,ford,อ.ชุมแพ,1
+UNKNOWN,ford,A.Nangrong,1
+UNKNOWN,ford,อ.นางรอง,1
+UNKNOWN,ford,A.Pakchong,1
+UNKNOWN,ford,อ.ปากช่อง,1
+UNKNOWN,ford,A.Phayakkhaphum Phisai,1
+UNKNOWN,ford,อ.พยักฆภูมิพิสัย,1
+UNKNOWN,ford,อ. เมือง,1
+UNKNOWN,ford,A.Sida,1
+UNKNOWN,ford,อ.สีดา,1
+UNKNOWN,ford,A. Phimai,1
+UNKNOWN,ford,อ. พิมาย,1
+UNKNOWN,ford,A.Warin-chamrap,1
+UNKNOWN,ford,อ.วารินชำราบ,2
+UNKNOWN,ford,A.Phon Thong,1
+UNKNOWN,ford,อ.โพนทอง,1
+UNKNOWN,ford,A.Banphai,1
+UNKNOWN,ford,อ.บ้านไผ่,1
+UNKNOWN,ford,A.Warinchamrab,1
+UNKNOWN,ford,A.Mueang Yasothorn,1
+UNKNOWN,ford,อ. เมืองยโสธร,1
+UNKNOWN,ford,A. Lerngnoktha,1
+UNKNOWN,ford,อ. เลิงนกทา,1
+UNKNOWN,ford,A.Wiang Sa,1
+UNKNOWN,ford,อ.เวียงสระ,1
+UNKNOWN,ford,A.Hua Hin,1
+UNKNOWN,ford,อ.หัวหิน,1
+UNKNOWN,ford,อ.ชะอำ,1
+UNKNOWN,ford,A.Langsuan,1
+UNKNOWN,ford,อ.หลังสวน,1
+UNKNOWN,ford,A.Tha Sae,1
+UNKNOWN,ford,อ.ท่าแซะ,1
+UNKNOWN,ford,A.HadYai,2
+UNKNOWN,ford,อ.หาดใหญ่,2
+UNKNOWN,ford,A.MuangNarathiwat,1
+UNKNOWN,ford,อ.เมืองนราธิวาส,1
+UNKNOWN,ford,A.Kohsamui,1
+UNKNOWN,ford,อ.เกาะสมุย,1
+UNKNOWN,ford,A.Thalang,1
+UNKNOWN,ford,อ.ถลาง,1
+UNKNOWN,ford,A.Muang Krabi,1
+UNKNOWN,ford,A.Ao Luek,1
+UNKNOWN,ford,อ.อ่าวลึก,1
+UNKNOWN,ford,A.Muang Prachuabkirikhan,1
+UNKNOWN,ford,อ.เมืองประจวบคีรีขันธ์,1
+UNKNOWN,ford,A.Ta KuaThung,1
+UNKNOWN,ford,อ.ตะกั่วทุ่ง,1
+UNKNOWN,ford,อำเภอ ทุ่งสง,1
+UNKNOWN,fossil,Bangkok,1
+UNKNOWN,geox,BANGKOK,3
+UNKNOWN,geox,BANGKOK OUTLET,1
+UNKNOWN,geox,PHUKET,1
+BANGKOK,google_offices,unknown,1
+UNKNOWN,hardrock,Bangkok,1
+UNKNOWN,hardrock,Chiang Mai,1
+UNKNOWN,hardrock,Pattaya City,1
+UNKNOWN,hardrock,Cholburi,1
+UNKNOWN,hardrock,Kathu,1
+UNKNOWN,hilton,unknown,7
+UNKNOWN,hm,Bangkok,22
+UNKNOWN,hm,Pattaya,2
+UNKNOWN,hm,Phuket,1
+UNKNOWN,hm,Hua Hin,1
+UNKNOWN,hm,Korat,2
+UNKNOWN,hm,Udon Thani,1
+UNKNOWN,hm,Chiang Mai,1
+UNKNOWN,hm,Khon Kaen,1
+UNKNOWN,hm,CHONBURI,1
+UNKNOWN,hm,Samutprakarn,1
+UNKNOWN,hm,Nonthaburi,1
+PHUKET,hooters,unknown,1
+CHONBURI,hooters,unknown,1
+BANGKOK,hooters,unknown,2
+17,hugo_boss,Bangkok,5
+37,hugo_boss,Bangkok,2
+17,hugo_boss,"Pathum Wan District, Bangkok",2
+17,hugo_boss,Samutprakarn,1
+01,hugo_boss,Samut Prakan,1
+10,hugo_boss,Chonburi Province,1
+UNKNOWN,ikea,บางพลี สมุทรปราการ,1
+UNKNOWN,ikea,อำเภอบางใหญ่ นนทบุรี,1
+UNKNOWN,ikea,เขตคลองเตย กรุงเทพฯ,1
+THAILAND,jll,Bangkok,1
+THAILAND,jll,Phuket,1
+UNKNOWN,lhw,Chiang Mai,1
+UNKNOWN,lhw,Krabi,1
+UNKNOWN,lhw,Phuket,1
+UNKNOWN,lhw,Bangkok,2
+UNKNOWN,lhw,Amphur Mae Rim,1
+UNKNOWN,little_free_library,Bangkok,1
+UNKNOWN,man_truck_and_bus,"Amphur Muang, Samutprakarn",1
+UNKNOWN,man_truck_and_bus,Ratchaburi,1
+UNKNOWN,man_truck_and_bus,Bangkok,1
+UNKNOWN,man_truck_and_bus,"Hatyai, Kuanlung ,Songkhla",1
+UNKNOWN,marriott,Bangkok,19
+UNKNOWN,marriott,Koh Samui,3
+UNKNOWN,marriott,Pattaya,2
+UNKNOWN,marriott,Phuket,6
+UNKNOWN,marriott,Muang Phuket,1
+UNKNOWN,marriott,Patong Beach,1
+UNKNOWN,marriott,Khao Lak,2
+UNKNOWN,marriott,Amphur Takuapa,1
+UNKNOWN,marriott,Chiang Mai,1
+UNKNOWN,marriott,Hua Hin,2
+UNKNOWN,marriott,Rayong,1
+UNKNOWN,marriott,Chiang Rai,1
+UNKNOWN,marriott,Phuket Island,2
+UNKNOWN,marriott,Krabi,1
+UNKNOWN,marriott,Pran Buri,1
+UNKNOWN,maserati,BANGKOK,3
+UNKNOWN,mcdonalds_th,unknown,227
+GREATERBANGKOK,mercedes_benz,Bangkok,18
+EASTREGION,mercedes_benz,Rayong,1
+CENTRALREGION,mercedes_benz,Ayutthaya,1
+GREATERBANGKOK,mercedes_benz,Nontaburi,1
+EASTREGION,mercedes_benz,Chon Buri,1
+CENTRALREGION,mercedes_benz,Phitsanulok,1
+CENTRALREGION,mercedes_benz,Nakhon Pathom,1
+CENTRALREGION,mercedes_benz,Pathumthani,1
+SOUTHREGION,mercedes_benz,Songkhla,1
+SOUTHREGION,mercedes_benz,Phuket,1
+EASTREGION,mercedes_benz,Chonburi,1
+CENTRALREGION,mercedes_benz,Bangkok,1
+NORTHREGION,mercedes_benz,Chiang Mai,1
+NORTHEAST,mercedes_benz,Khonkaen,1
+NORTHEAST,mercedes_benz,Udonthani,1
+CENTRALREGION,mercedes_benz,Nonthaburi,1
+NORTHEAST,mercedes_benz,Ubon Ratchathani,1
+EASTREGION,mercedes_benz,Chantaburi,1
+WESTREGION,mercedes_benz,Ratchaburi,1
+GREATERBANGKOK,mercedes_benz,Nonthaburi ,1
+NORTHREGION,mercedes_benz,Chiang Rai,1
+SOUTHREGION,mercedes_benz,Suratthani,1
+WESTREGION,mercedes_benz,Prachuap Khiri Khan,1
+NORTHEAST,mercedes_benz,Nakornratchasima,1
+BANGKOK,meta,unknown,1
+UNKNOWN,michaelkors,Prakan Prakan,4
+UNKNOWN,michaelkors,"Phuket Amphur, 83, Mueang Phuket District",2
+UNKNOWN,michaelkors,Phuket Phuket,2
+UNKNOWN,michaelkors,Krung Thep Maha Nakhon Krung Thep Maha Nakhon,2
+UNKNOWN,michaelkors,"Bangkok Khet Pathum Wan, Krung Thep Maha Nakhon",2
+UNKNOWN,michaelkors,Bangkok Chatuchak,2
+UNKNOWN,michaelkors,Bangkok Bangkok,2
+UNKNOWN,michaelkors,Bangkok Pathumwan,2
+UNKNOWN,moneygram,KLONGTOEY,1
+UNKNOWN,moneygram,MAHASARAKHAM,1
+UNKNOWN,moneygram,CHIANG MAI,52
+UNKNOWN,moneygram,CHIANGMAI,1
+UNKNOWN,moneygram,MUANG,10
+UNKNOWN,moneygram,SAMOENG,1
+UNKNOWN,moneygram,SAMUT SONGKHRAM,4
+UNKNOWN,moneygram,LOIE,1
+UNKNOWN,moneygram,CHAIYAPHUM,7
+UNKNOWN,moneygram,SAMUTSONGKHRAM,1
+UNKNOWN,moneygram,BANGKOK,405
+UNKNOWN,moneygram,CHON BURI,69
+UNKNOWN,moneygram,KALASIN,8
+UNKNOWN,moneygram,SUPHAN BURI,11
+UNKNOWN,moneygram,PHETCHABURI,11
+UNKNOWN,moneygram,RATCHATEWI,3
+UNKNOWN,moneygram,PATHUM WAN,4
+UNKNOWN,moneygram,SAMUT PRAKAN,40
+UNKNOWN,moneygram,SATTAHIP,5
+UNKNOWN,moneygram,SONGKHLA,25
+UNKNOWN,moneygram,KHLONG LUANG,1
+UNKNOWN,moneygram,TRANG,11
+UNKNOWN,moneygram,PHUKET,45
+UNKNOWN,moneygram,SAMUT PRAKRAN,4
+UNKNOWN,moneygram,PHITSANULOK,9
+UNKNOWN,moneygram,WATTANA,2
+UNKNOWN,moneygram,CHACHOENGSAO,15
+UNKNOWN,moneygram,NAKHONPHANOM,1
+UNKNOWN,moneygram,SURAT THANI,36
+UNKNOWN,moneygram,KANCHANABURI,12
+UNKNOWN,moneygram,NONTHABURI,52
+UNKNOWN,moneygram,PHRANAKHON,8
+UNKNOWN,moneygram,NEW YORK,1
+UNKNOWN,moneygram,WATTANA BANGKOK,1
+UNKNOWN,moneygram,BANG NA,2
+UNKNOWN,moneygram,MAERAMAS,1
+UNKNOWN,moneygram,BANG RAK,3
+UNKNOWN,moneygram,BANG KAPI,4
+UNKNOWN,moneygram,KHAN NA YAO,3
+UNKNOWN,moneygram,THUNGKRU,1
+UNKNOWN,moneygram,BANGKOK YAI,2
+UNKNOWN,moneygram,DIN DEANG,3
+UNKNOWN,moneygram,PHAYA THAI,5
+UNKNOWN,moneygram,CHATUCHAK,12
+UNKNOWN,moneygram,LAK SI,6
+UNKNOWN,moneygram,DUSIT,7
+UNKNOWN,moneygram,BANG KHEN,4
+UNKNOWN,moneygram,SAI MAI,2
+UNKNOWN,moneygram,SAPHANSOONG,1
+UNKNOWN,moneygram,PATUMWAN,7
+UNKNOWN,moneygram,RATCHATHEWI,5
+UNKNOWN,moneygram,SATHORN,4
+UNKNOWN,moneygram,KLONGTOEI,5
+UNKNOWN,moneygram,SUAN LUANG,3
+UNKNOWN,moneygram,PRAWET,4
+UNKNOWN,moneygram,NONG CHOK,1
+UNKNOWN,moneygram,LADKRABANG,3
+UNKNOWN,moneygram,BANGPLAD,1
+UNKNOWN,moneygram,BANGAE,1
+UNKNOWN,moneygram,PASICHAROEN,2
+UNKNOWN,moneygram,YANNAWA,3
+UNKNOWN,moneygram,BANG KHO LAEM,4
+UNKNOWN,moneygram,THON BURI,3
+UNKNOWN,moneygram,BANGKHUNTHIEN,3
+UNKNOWN,moneygram,BANG BON,1
+UNKNOWN,moneygram,BANGKOK NOI,2
+UNKNOWN,moneygram,POMPRABSATTRUPAI,2
+UNKNOWN,moneygram,SAMPHANTHAWONG,2
+UNKNOWN,moneygram,MIN BURI,2
+UNKNOWN,moneygram,TALING CHAN,4
+UNKNOWN,moneygram,KLONGSAN,2
+UNKNOWN,moneygram,CHOM THONG,2
+UNKNOWN,moneygram,BANG SUE,2
+UNKNOWN,moneygram,DON MUEANG,8
+UNKNOWN,moneygram,POMPRAB,1
+UNKNOWN,moneygram,WATTHANA,4
+UNKNOWN,moneygram,WANG THONGLANG,4
+UNKNOWN,moneygram,LATDPRAO,1
+UNKNOWN,moneygram,HUAYKWANG,1
+UNKNOWN,moneygram,KLONGSAMWA,1
+UNKNOWN,moneygram,BANGKAE,2
+UNKNOWN,moneygram,NONG KHAEM,1
+UNKNOWN,moneygram,RAT BURANA,2
+UNKNOWN,moneygram,SINGHANAKORN,1
+UNKNOWN,moneygram,MUEANG SONGKHLA,4
+UNKNOWN,moneygram,SADAO,5
+UNKNOWN,moneygram,HATYAI,8
+UNKNOWN,moneygram,MUEANG PATTANI,2
+UNKNOWN,moneygram,MUEANG NARATIWAT,3
+UNKNOWN,moneygram,THEPA,1
+UNKNOWN,moneygram,NATHAWI,1
+UNKNOWN,moneygram,BETONG,1
+UNKNOWN,moneygram,BANNANG SATA,1
+UNKNOWN,moneygram,RA-NGAE,1
+UNKNOWN,moneygram,CHATHUCHAK,1
+UNKNOWN,moneygram,RANOD,1
+UNKNOWN,moneygram,SATHINGPRA,1
+UNKNOWN,moneygram,CHANA,1
+UNKNOWN,moneygram,SABAYOI,1
+UNKNOWN,moneygram,RATTAPHUM,1
+UNKNOWN,moneygram,KUAN-NIANG,1
+UNKNOWN,moneygram,SAIBURI,1
+UNKNOWN,moneygram,KHOK PHO,1
+UNKNOWN,moneygram,MUEANG YALA,1
+UNKNOWN,moneygram,YAHA,1
+UNKNOWN,moneygram,SUNGAIPADI,1
+UNKNOWN,moneygram,SUKHIRIN,1
+UNKNOWN,moneygram,TAKBAI,1
+UNKNOWN,moneygram,RUSO,1
+UNKNOWN,moneygram,MUEANG NONTHABURI,4
+UNKNOWN,moneygram,SUAN YAI,1
+UNKNOWN,moneygram,BANG KRUAI,1
+UNKNOWN,moneygram,SAINOI,2
+UNKNOWN,moneygram,BANGLEN,1
+UNKNOWN,moneygram,SAMPHRAN,5
+UNKNOWN,moneygram,NAKHONCHAISRI,1
+UNKNOWN,moneygram,MUEANG KANCHANABURI,4
+UNKNOWN,moneygram,THAMAKA,3
+UNKNOWN,moneygram,SONGPHINONG,1
+UNKNOWN,moneygram,SRIPRACHAN,1
+UNKNOWN,moneygram,DONCHEDI,1
+UNKNOWN,moneygram,MUEANG,37
+UNKNOWN,moneygram,MUEANG NAKHON RATCHASIMA,10
+UNKNOWN,moneygram,CHAKKARAT,1
+UNKNOWN,moneygram,BUAYAI,1
+UNKNOWN,moneygram,KAENG SAMAM NANG,1
+UNKNOWN,moneygram,BUALAI,1
+UNKNOWN,moneygram,DANKHUNTHOD,1
+UNKNOWN,moneygram,MUEANG NAKHONNAYOK,1
+UNKNOWN,moneygram,BANNA,1
+UNKNOWN,moneygram,ONGKHARAK,1
+UNKNOWN,moneygram,ARANPRATHET,2
+UNKNOWN,moneygram,SRIRACHA,6
+UNKNOWN,moneygram,BANGLAMUNG,13
+UNKNOWN,moneygram,MUEANG CHONBURI,9
+UNKNOWN,moneygram,BAN BUENG,3
+UNKNOWN,moneygram,PHANAS NIKHOM,1
+UNKNOWN,moneygram,BANKHAI,1
+UNKNOWN,moneygram,MUEANG RAYONG,6
+UNKNOWN,moneygram,PLUAKDAENG,1
+UNKNOWN,moneygram,KHAO KITCHAKUT,1
+UNKNOWN,moneygram,MUEANG CHANTHABURI,5
+UNKNOWN,moneygram,MUEANG TRAD,2
+UNKNOWN,moneygram,KLONGYAI,1
+UNKNOWN,moneygram,BANGSAOTHONG,1
+UNKNOWN,moneygram,MUEANG SAMUTPRAKAN,5
+UNKNOWN,moneygram,BANGPHLI,3
+UNKNOWN,moneygram,BANGKHLA,1
+UNKNOWN,moneygram,PHANOMSARAKHAM,1
+UNKNOWN,moneygram,SANAMCHAIKHET,1
+UNKNOWN,moneygram,MUEANG CHIANGRAI,5
+UNKNOWN,moneygram,KOH LANTA,2
+UNKNOWN,moneygram,PAKKRED,4
+UNKNOWN,moneygram,BANGBUATHONG,2
+UNKNOWN,moneygram,BANG YAI,1
+UNKNOWN,moneygram,MUENAG NAKHON PATHOM,3
+UNKNOWN,moneygram,THAMUANG,1
+UNKNOWN,moneygram,PHANHOM-TUAN,1
+UNKNOWN,moneygram,THONGPHAPHUM,1
+UNKNOWN,moneygram,BOPHLOI,1
+UNKNOWN,moneygram,DANMAKAMITA,1
+UNKNOWN,moneygram,SAMCHUK,1
+UNKNOWN,moneygram,BANGPLAMA,1
+UNKNOWN,moneygram,DANCHANG,1
+UNKNOWN,moneygram,NONGYASAI,1
+UNKNOWN,moneygram,SONG PHI NONG,1
+UNKNOWN,moneygram,SOENGSANG,1
+UNKNOWN,moneygram,NONGBOONMAK,1
+UNKNOWN,moneygram,NONTHAI,1
+UNKNOWN,moneygram,PHIMAI,1
+UNKNOWN,moneygram,PRATAI,1
+UNKNOWN,moneygram,HUAI-TALAENG,1
+UNKNOWN,moneygram,PAK CHONG,2
+UNKNOWN,moneygram,SI KHIO,1
+UNKNOWN,moneygram,WANGNAMKHIAO,1
+UNKNOWN,moneygram,KABINBURI,3
+UNKNOWN,moneygram,SRIMAHAPHOT,2
+UNKNOWN,moneygram,WANG SOMBOON,1
+UNKNOWN,moneygram,MUEANG SAKAEO,1
+UNKNOWN,moneygram,BANCHANG,1
+UNKNOWN,moneygram,NIKOMPATTANA,1
+UNKNOWN,moneygram,THAMAI,2
+UNKNOWN,moneygram,KAOSAMING,1
+UNKNOWN,moneygram,BANGPLEE,1
+UNKNOWN,moneygram,PHRAPRADAENG,4
+UNKNOWN,moneygram,BANGPAKONG,1
+UNKNOWN,moneygram,MUEANG CHACHOENGSAO,3
+UNKNOWN,moneygram,KOH CHAN,1
+UNKNOWN,moneygram,MUEANG SAMUTPAKAN,2
+UNKNOWN,moneygram,MUEANG PHUKET,7
+UNKNOWN,moneygram,TAKUA PA,2
+UNKNOWN,moneygram,KAMPHENGSAEN,1
+UNKNOWN,moneygram,PHUTTHAMONTON,1
+UNKNOWN,moneygram,DOEM BANG NANG BUAT,1
+UNKNOWN,moneygram,CHOK  CHAI,1
+UNKNOWN,moneygram,NONSUNG,1
+UNKNOWN,moneygram,CHUMPHUANG,1
+UNKNOWN,moneygram,PAKCHONG,3
+UNKNOWN,moneygram,PRACHANTAKHAM,1
+UNKNOWN,moneygram,WANGNAMYEN,1
+UNKNOWN,moneygram,PHANTHONG,1
+UNKNOWN,moneygram,KLAENG,1
+UNKNOWN,moneygram,SOIDAO,1
+UNKNOWN,moneygram,KOH CHANG,1
+UNKNOWN,moneygram,BANGNAMPREAW,1
+UNKNOWN,moneygram,MUEANG NONGKHAI,3
+UNKNOWN,moneygram,CHAINGSAEN,1
+UNKNOWN,moneygram,BANGKRUAI,2
+UNKNOWN,moneygram,DONTUM,1
+UNKNOWN,moneygram,SRISAWAT,1
+UNKNOWN,moneygram,U-THONG,1
+UNKNOWN,moneygram,KONG,1
+UNKNOWN,moneygram,SUNGNOEN,1
+UNKNOWN,moneygram,WATTHANANAKHON,1
+UNKNOWN,moneygram,BANG BO,1
+UNKNOWN,moneygram,BANGBO,1
+UNKNOWN,moneygram,KORNBURI,1
+UNKNOWN,moneygram,PHRASAMUT CHADI,1
+UNKNOWN,moneygram,HUAIKRACHAO,1
+UNKNOWN,moneygram,MUEANG PATHUMTHANI,4
+UNKNOWN,moneygram,SAMKOK,1
+UNKNOWN,moneygram,LUMLOOKA,7
+UNKNOWN,moneygram,KLONGLUANG,3
+UNKNOWN,moneygram,THUNYABURI,5
+UNKNOWN,moneygram,PHACHI,1
+UNKNOWN,moneygram,BANG PA-IN,4
+UNKNOWN,moneygram,UTHAI,1
+UNKNOWN,moneygram,THARUEA,1
+UNKNOWN,moneygram,WANGNOI,1
+UNKNOWN,moneygram,SENA,1
+UNKNOWN,moneygram,PHAK HAI,1
+UNKNOWN,moneygram,BANGPAHUN,1
+UNKNOWN,moneygram,KAENGKHOI,1
+UNKNOWN,moneygram,BANMOH,1
+UNKNOWN,moneygram,NONGKHAE,2
+UNKNOWN,moneygram,MUEANG SARABURI,3
+UNKNOWN,moneygram,WISET CHAICHAN,1
+UNKNOWN,moneygram,MUEANG SINGBURI,1
+UNKNOWN,moneygram,INBURI,2
+UNKNOWN,moneygram,THAWANGPHA,1
+UNKNOWN,moneygram,THUNGCHANG,1
+UNKNOWN,moneygram,PUA,1
+UNKNOWN,moneygram,SONG KHWAE,1
+UNKNOWN,moneygram,MUEANG NAN,2
+UNKNOWN,moneygram,MUEANG PHRAE,3
+UNKNOWN,moneygram,DENCHAI,1
+UNKNOWN,moneygram,RONGKWANG,1
+UNKNOWN,moneygram,MUEANG LAMPANG,4
+UNKNOWN,moneygram,JAEHOM,1
+UNKNOWN,moneygram,KOH KHA,1
+UNKNOWN,moneygram,HANGCHAT,1
+UNKNOWN,moneygram,NGAO,1
+UNKNOWN,moneygram,KHUNTAN,1
+UNKNOWN,moneygram,WIANGPAPAO,1
+UNKNOWN,moneygram,THOENG,1
+UNKNOWN,moneygram,MAESAI,1
+UNKNOWN,moneygram,WIANG CHIANG RUNG,1
+UNKNOWN,moneygram,CHUN,1
+UNKNOWN,moneygram,NUEANG PHAYAO,2
+UNKNOWN,moneygram,BANPHOTPHISAI,1
+UNKNOWN,moneygram,NONGBUA,1
+UNKNOWN,moneygram,TAKHLI,1
+UNKNOWN,moneygram,MUEANG LOPBURI,1
+UNKNOWN,moneygram,PATTANANIKOM,1
+UNKNOWN,moneygram,THA WUNG,1
+UNKNOWN,moneygram,NHONG-MUANG,1
+UNKNOWN,moneygram,LOMSAK,2
+UNKNOWN,moneygram,LOMKAO,1
+UNKNOWN,moneygram,WICHIANBURI,2
+UNKNOWN,moneygram,MUEANG PHETCHABUN,3
+UNKNOWN,moneygram,WAT SING,1
+UNKNOWN,moneygram,SAPPHAYA,1
+UNKNOWN,moneygram,MUEANG UTHAITHANI,1
+UNKNOWN,moneygram,BANRAI,1
+UNKNOWN,moneygram,BANGMUNNAK,1
+UNKNOWN,moneygram,SAM NGAM,1
+UNKNOWN,moneygram,PHOTALAY,1
+UNKNOWN,moneygram,PHRA NAKHON SRI AYUTTHAYA,4
+UNKNOWN,moneygram,NAKHONLUANG,1
+UNKNOWN,moneygram,LADBUALUANG,1
+UNKNOWN,moneygram,MAHARACH,1
+UNKNOWN,moneygram,BANPRAEK,1
+UNKNOWN,moneygram,SAOHAI,1
+UNKNOWN,moneygram,PHRA PHUTTHABAT,1
+UNKNOWN,moneygram,WIHARNDAENG,1
+UNKNOWN,moneygram,MUAKLEK,1
+UNKNOWN,moneygram,WANGMUANG,1
+UNKNOWN,moneygram,MUEANG ANGTHONG,1
+UNKNOWN,moneygram,PHOTHONG,1
+UNKNOWN,moneygram,PAMOK,1
+UNKNOWN,moneygram,BANGRACHAN,1
+UNKNOWN,moneygram,THACHANG,1
+UNKNOWN,moneygram,CHALOEMPHRAKIAT,1
+UNKNOWN,moneygram,CHIANG KLANG,1
+UNKNOWN,moneygram,NANOI,1
+UNKNOWN,moneygram,MAEJARIM,1
+UNKNOWN,moneygram,WIANGSA,2
+UNKNOWN,moneygram,WANGCHIN,1
+UNKNOWN,moneygram,LONG,1
+UNKNOWN,moneygram,SUNGMEN,1
+UNKNOWN,moneygram,SONG,1
+UNKNOWN,moneygram,WANG NUEA,1
+UNKNOWN,moneygram,THOEN,1
+UNKNOWN,moneygram,MAE MOH,1
+UNKNOWN,moneygram,MAE THA,1
+UNKNOWN,moneygram,CHIANG KHONG,2
+UNKNOWN,moneygram,MAESUAI,1
+UNKNOWN,moneygram,CHIANG SAEN,1
+UNKNOWN,moneygram,MAECHAN,1
+UNKNOWN,moneygram,PHAN,1
+UNKNOWN,moneygram,WIANG PA PAO,1
+UNKNOWN,moneygram,CHIANGKHAM,1
+UNKNOWN,moneygram,PONG,1
+UNKNOWN,moneygram,MAEJAI,1
+UNKNOWN,moneygram,KROKPHRA,1
+UNKNOWN,moneygram,CHUMTABONG,1
+UNKNOWN,moneygram,LAT YAO,1
+UNKNOWN,moneygram,PHAISALEE,1
+UNKNOWN,moneygram,CHUMSAENG,1
+UNKNOWN,moneygram,TAKFA,1
+UNKNOWN,moneygram,THATAKO,1
+UNKNOWN,moneygram,KOKSOMRONG,1
+UNKNOWN,moneygram,BAN MI,1
+UNKNOWN,moneygram,CHAIBADAN,1
+UNKNOWN,moneygram,NONGPHAI,1
+UNKNOWN,moneygram,BUENGSAMPUN,1
+UNKNOWN,moneygram,CHONDAN,1
+UNKNOWN,moneygram,SRITHEP,1
+UNKNOWN,moneygram,WANGPONG,1
+UNKNOWN,moneygram,MUEANG CHAINAT,2
+UNKNOWN,moneygram,MANOROM,1
+UNKNOWN,moneygram,HANKHA,1
+UNKNOWN,moneygram,SANBURI,1
+UNKNOWN,moneygram,NONGCHANG,1
+UNKNOWN,moneygram,LANSAK,1
+UNKNOWN,moneygram,MUEANG PHICHIT,2
+UNKNOWN,moneygram,TAPHAN HIN,1
+UNKNOWN,moneygram,SAKLEK,1
+UNKNOWN,moneygram,TUBKLO,1
+UNKNOWN,moneygram,DOKKHOMTAI,1
+UNKNOWN,moneygram,PHAYUHAKIRI,1
+UNKNOWN,moneygram,KUIBURI,1
+UNKNOWN,moneygram,MUEANG PRACHUAB KHIRIKHAN,1
+UNKNOWN,moneygram,PRANBURI,3
+UNKNOWN,moneygram,SAMROIYOD,1
+UNKNOWN,moneygram,BANGSAPHAN NOI,1
+UNKNOWN,moneygram,MUEANG RATCHABURI,3
+UNKNOWN,moneygram,BANPONG,2
+UNKNOWN,moneygram,PHOTHARAM,1
+UNKNOWN,moneygram,PAKTHO,1
+UNKNOWN,moneygram,WAT PLENG,1
+UNKNOWN,moneygram,AMPHAWA,1
+UNKNOWN,moneygram,MUEANG SAMUT SONGKHAM,2
+UNKNOWN,moneygram,KRATHUMBAEN,1
+UNKNOWN,moneygram,MUEANG SAMUT SAKHON,4
+UNKNOWN,moneygram,BANPHAEO,1
+UNKNOWN,moneygram,MUEANG PHETCHABURI,2
+UNKNOWN,moneygram,THAYANG,2
+UNKNOWN,moneygram,CHA-AM,2
+UNKNOWN,moneygram,KAENG KRACHAN,1
+UNKNOWN,moneygram,BANLAD,2
+UNKNOWN,moneygram,MUEANG CHAINGMAI,15
+UNKNOWN,moneygram,SANKHAMPHAENG,1
+UNKNOWN,moneygram,SANSAI,3
+UNKNOWN,moneygram,PHRAO,1
+UNKNOWN,moneygram,MAE RIM,1
+UNKNOWN,moneygram,MAE AI,1
+UNKNOWN,moneygram,WIANGHAENG,1
+UNKNOWN,moneygram,PAI,2
+UNKNOWN,moneygram,BANHONG,1
+UNKNOWN,moneygram,MUEANG LAMPHUN,4
+UNKNOWN,moneygram,SANPATONG,1
+UNKNOWN,moneygram,SARAPHI,1
+UNKNOWN,moneygram,HANGDONG,1
+UNKNOWN,moneygram,MAE WANG,1
+UNKNOWN,moneygram,HUAHIN,3
+UNKNOWN,moneygram,THAPSAKAE,1
+UNKNOWN,moneygram,DAMNOENSADUAK,1
+UNKNOWN,moneygram,CHOMBUENG,1
+UNKNOWN,moneygram,BANGPAE,1
+UNKNOWN,moneygram,BANGKHONTHI,1
+UNKNOWN,moneygram,BANLAEM,1
+UNKNOWN,moneygram,KHAOYOI,1
+UNKNOWN,moneygram,CHIANGDAO,1
+UNKNOWN,moneygram,CHAIPRAKARN,1
+UNKNOWN,moneygram,MAELANOI,1
+UNKNOWN,moneygram,LI,1
+UNKNOWN,moneygram,CHOMTHONG,1
+UNKNOWN,moneygram,HOD,1
+UNKNOWN,moneygram,OMKOI,1
+UNKNOWN,moneygram,BANGSAPHAN,1
+UNKNOWN,moneygram,SUANPHUENG,1
+UNKNOWN,moneygram,KRATHUMBAN,1
+UNKNOWN,moneygram,NONGYAPLONG,1
+UNKNOWN,moneygram,SANKHAMPAENG,1
+UNKNOWN,moneygram,SAN SAI,1
+UNKNOWN,moneygram,FANG,1
+UNKNOWN,moneygram,MAE TAENG,1
+UNKNOWN,moneygram,PHASANG,2
+UNKNOWN,moneygram,DOITAO,1
+UNKNOWN,moneygram,MAE CHAEM,1
+UNKNOWN,moneygram,TRAKAN PHUET PHON,1
+UNKNOWN,moneygram,MUEANG UBONRATCHATHANI,3
+UNKNOWN,moneygram,NAMYUEN,1
+UNKNOWN,moneygram,MUEANG SURIN,4
+UNKNOWN,moneygram,SANGKHA,1
+UNKNOWN,moneygram,KANTHARALUK,1
+UNKNOWN,moneygram,UTHUMPHONPHISAI,1
+UNKNOWN,moneygram,LAMPLAIMAS,1
+UNKNOWN,moneygram,NONGKHI,1
+UNKNOWN,moneygram,MUEANG YASOTHON,2
+UNKNOWN,moneygram,MAHACHANACHAI,1
+UNKNOWN,moneygram,PATONG,2
+UNKNOWN,moneygram,KIENSA,1
+UNKNOWN,moneygram,MUEANG PHANG-NGA,1
+UNKNOWN,moneygram,THAPPUD,1
+UNKNOWN,moneygram,THASAE,1
+UNKNOWN,moneygram,NUEAKLONG,1
+UNKNOWN,moneygram,AO LUEK,1
+UNKNOWN,moneygram,YANTAKHOW,1
+UNKNOWN,moneygram,RATSADA,1
+UNKNOWN,moneygram,PAKPHANANG,1
+UNKNOWN,moneygram,KHANOM,1
+UNKNOWN,moneygram,PHROM KHIRI,1
+UNKNOWN,moneygram,PHIPUN,1
+UNKNOWN,moneygram,MUEANG PHATTHALUNG,2
+UNKNOWN,moneygram,KLONGLAN,1
+UNKNOWN,moneygram,LANKRABUE,1
+UNKNOWN,moneygram,PHOBPHRA,1
+UNKNOWN,moneygram,BANGRAKAM,1
+UNKNOWN,moneygram,WANG THONG,1
+UNKNOWN,moneygram,WATBOT,1
+UNKNOWN,moneygram,SRIRAMRONG,1
+UNKNOWN,moneygram,KHIRIMAS,1
+UNKNOWN,moneygram,LABLAE,1
+UNKNOWN,moneygram,THAPLA,1
+UNKNOWN,moneygram,KHEMMARAT,1
+UNKNOWN,moneygram,PHOSAI,1
+UNKNOWN,moneygram,MUANGSAMSIP,1
+UNKNOWN,moneygram,KHUEANGNAI,1
+UNKNOWN,moneygram,DETUDOM,1
+UNKNOWN,moneygram,WARINCHAMLAB,3
+UNKNOWN,moneygram,PHIBOONMANGSAHAN,2
+UNKNOWN,moneygram,SRIKORAPHUM,1
+UNKNOWN,moneygram,THATUM,1
+UNKNOWN,moneygram,CHUMPHONBURI,1
+UNKNOWN,moneygram,RASISALAI,1
+UNKNOWN,moneygram,KANTHARAROM,1
+UNKNOWN,moneygram,MUEANG SISAKET,1
+UNKNOWN,moneygram,PHOSRISUWAN,1
+UNKNOWN,moneygram,PRAKHONCHAI,1
+UNKNOWN,moneygram,SATUEK,1
+UNKNOWN,moneygram,MUEANG BURIRAM,3
+UNKNOWN,moneygram,KUDCHUM,1
+UNKNOWN,moneygram,LOENGNOKTHA,1
+UNKNOWN,moneygram,PATHUMRATCHAWONGSA,1
+UNKNOWN,moneygram,LUE-AMMAT,1
+UNKNOWN,moneygram,THALANG,6
+UNKNOWN,moneygram,KATHU,1
+UNKNOWN,moneygram,BANNASAN,1
+UNKNOWN,moneygram,DONSAK,1
+UNKNOWN,moneygram,BANNADOEM,1
+UNKNOWN,moneygram,KOH SAMUI,3
+UNKNOWN,moneygram,THA-CHANG,1
+UNKNOWN,moneygram,THA-CHANA,1
+UNKNOWN,moneygram,PRASANG,1
+UNKNOWN,moneygram,VIPAVADEE,1
+UNKNOWN,moneygram,TAKUAPHA,3
+UNKNOWN,moneygram,KHOKLOI,1
+UNKNOWN,moneygram,KOH YAO,1
+UNKNOWN,moneygram,MUEANG CHUMPHON,3
+UNKNOWN,moneygram,PATIW,2
+UNKNOWN,moneygram,MUEANG RANONG,2
+UNKNOWN,moneygram,SUKSAMRAN,1
+UNKNOWN,moneygram,THUNGTAKO,1
+UNKNOWN,moneygram,LAMAE,1
+UNKNOWN,moneygram,MUEANG KRABI,4
+UNKNOWN,moneygram,LAMTHAP,1
+UNKNOWN,moneygram,KLONGTOM,1
+UNKNOWN,moneygram,KANTUNG,1
+UNKNOWN,moneygram,HUAIYOT,1
+UNKNOWN,moneygram,MUEANG SATUN,1
+UNKNOWN,moneygram,LA-NGU,1
+UNKNOWN,moneygram,SICHON,1
+UNKNOWN,moneygram,THASALA,1
+UNKNOWN,moneygram,MUEANG NAKHONSRI THAMMARAT,3
+UNKNOWN,moneygram,THA SALA,1
+UNKNOWN,moneygram,THUNGSONG,2
+UNKNOWN,moneygram,CHANDEE,1
+UNKNOWN,moneygram,THAM PHANNARA,1
+UNKNOWN,moneygram,THUNGYAI,1
+UNKNOWN,moneygram,RONPIBOON,1
+UNKNOWN,moneygram,TAMOTE,1
+UNKNOWN,moneygram,PAPHAYOM,1
+UNKNOWN,moneygram,KHANUWORALAKSABURI,1
+UNKNOWN,moneygram,MUEANG KAMPHAENGPHET,3
+UNKNOWN,moneygram,KANUWORALUKSABURI,1
+UNKNOWN,moneygram,MUEANG TAK,2
+UNKNOWN,moneygram,UMPHANG,1
+UNKNOWN,moneygram,BANTAK,1
+UNKNOWN,moneygram,MUEANG PHITSANULOK,7
+UNKNOWN,moneygram,NAKHONTHAI,1
+UNKNOWN,moneygram,NOENMAPRANG,1
+UNKNOWN,moneygram,CHATTRAKARN,1
+UNKNOWN,moneygram,PHROMPIRAM,2
+UNKNOWN,moneygram,SRISATCHANALAI,1
+UNKNOWN,moneygram,THUNGSALIAM,1
+UNKNOWN,moneygram,SRINAKHON,1
+UNKNOWN,moneygram,MUEANG SUKHOTHAI,2
+UNKNOWN,moneygram,TRON,1
+UNKNOWN,moneygram,MUEANG UTTARADIT,3
+UNKNOWN,moneygram,THONGSAENKHAN,1
+UNKNOWN,moneygram,FAKTHA,1
+UNKNOWN,moneygram,DONMODDAENG,1
+UNKNOWN,moneygram,SRIMUEANGMAI,1
+UNKNOWN,moneygram,NACHALUAI,1
+UNKNOWN,moneygram,KHONGCHIAM,1
+UNKNOWN,moneygram,RATTANABURI,1
+UNKNOWN,moneygram,PRASAT,1
+UNKNOWN,moneygram,KHUNHAN,1
+UNKNOWN,moneygram,KHU-KHAN,1
+UNKNOWN,moneygram,NANGRONG,1
+UNKNOWN,moneygram,PHUTTHAISONG,1
+UNKNOWN,moneygram,KRASANG,1
+UNKNOWN,moneygram,LAHANSAI,1
+UNKNOWN,moneygram,BANMAI CHAIYAPHOT,1
+UNKNOWN,moneygram,KHAMKHUENKAEW,1
+UNKNOWN,moneygram,MUEANG AMNATCHAROEN,1
+UNKNOWN,moneygram,TALANG,1
+UNKNOWN,moneygram,KANCHANADIT,1
+UNKNOWN,moneygram,KOH PHA-NGAN,1
+UNKNOWN,moneygram,CHAIYA,1
+UNKNOWN,moneygram,PHUNPIN,1
+UNKNOWN,moneygram,KHIRI RATTHANIKHOM,1
+UNKNOWN,moneygram,PHANOM,1
+UNKNOWN,moneygram,CHAIBURI,1
+UNKNOWN,moneygram,BANTAKHUN,1
+UNKNOWN,moneygram,TAIMUEANG,1
+UNKNOWN,moneygram,SAWI,1
+UNKNOWN,moneygram,LANGSUAN,1
+UNKNOWN,moneygram,PHATO,1
+UNKNOWN,moneygram,PLAIPHRAYA,1
+UNKNOWN,moneygram,MUEANG TRANG,3
+UNKNOWN,moneygram,PALIAN,1
+UNKNOWN,moneygram,THAPAE,1
+UNKNOWN,moneygram,CHIENYAI,1
+UNKNOWN,moneygram,HUASAI,1
+UNKNOWN,moneygram,LANSAKA,1
+UNKNOWN,moneygram,CHAWANG,1
+UNKNOWN,moneygram,CHAUAT,1
+UNKNOWN,moneygram,BANGKHAN,1
+UNKNOWN,moneygram,PAKPHAYOON,1
+UNKNOWN,moneygram,KHAOCHAISON,1
+UNKNOWN,moneygram,PHABON,1
+UNKNOWN,moneygram,KHLUNG,1
+UNKNOWN,moneygram,PRANKRATAI,1
+UNKNOWN,moneygram,MAESOD,3
+UNKNOWN,moneygram,BANGKRATHUM,1
+UNKNOWN,moneygram,WANGTHONG,1
+UNKNOWN,moneygram,SAWANKAKOK,1
+UNKNOWN,moneygram,KONGKRAILAS,1
+UNKNOWN,moneygram,BANDANLANHOI,1
+UNKNOWN,moneygram,PHICHAI,1
+UNKNOWN,moneygram,NAMPAD,1
+UNKNOWN,moneygram,KRABURI,1
+UNKNOWN,moneygram,CHANGKLANG,1
+UNKNOWN,moneygram,BANKRUAT,1
+UNKNOWN,moneygram,KHURABURI,1
+UNKNOWN,moneygram,SANGKOM,1
+UNKNOWN,moneygram,MUEANG SAKONNAKHON,3
+UNKNOWN,moneygram,SAWANGDAENDIN,1
+UNKNOWN,moneygram,WANORNNIWAT,1
+UNKNOWN,moneygram,PHUKRADUENG,1
+UNKNOWN,moneygram,THALI,1
+UNKNOWN,moneygram,WANGSAPHUNG,1
+UNKNOWN,moneygram,NONGHAN,1
+UNKNOWN,moneygram,PHEN,1
+UNKNOWN,moneygram,BANGDUNG,1
+UNKNOWN,moneygram,NON SA-ARD,1
+UNKNOWN,moneygram,PLAPAK,1
+UNKNOWN,moneygram,SRIBOONRUEANG,1
+UNKNOWN,moneygram,NONSANG,1
+UNKNOWN,moneygram,PHANGKON,1
+UNKNOWN,moneygram,KUSUMAN,1
+UNKNOWN,moneygram,KHAMTAKLA,1
+UNKNOWN,moneygram,AKAT AMNUAI,1
+UNKNOWN,moneygram,MUEANG LOEI,2
+UNKNOWN,moneygram,BANPHUE,1
+UNKNOWN,moneygram,WANGSAMMOH,1
+UNKNOWN,moneygram,SRITHAT,1
+UNKNOWN,moneygram,MUEANG NAKHONPHANOM,1
+UNKNOWN,moneygram,THA U-THEN,1
+UNKNOWN,moneygram,MAKAE,1
+UNKNOWN,moneygram,NA KLANG,1
+UNKNOWN,moneygram,MUEANG BUENGKAN,1
+UNKNOWN,moneygram,PAKKAD,1
+UNKNOWN,moneygram,SEKA,1
+UNKNOWN,moneygram,THABO,1
+UNKNOWN,moneygram,PHONPHISAI,1
+UNKNOWN,moneygram,SRICHAINGMAI,1
+UNKNOWN,moneygram,BANMUANG,1
+UNKNOWN,moneygram,CHAINGKAN,1
+UNKNOWN,moneygram,PAKCHOM,1
+UNKNOWN,moneygram,DANSAI,1
+UNKNOWN,moneygram,NAMSOM,1
+UNKNOWN,moneygram,KUDCHUB,1
+UNKNOWN,moneygram,KUMPHAWAPI,1
+UNKNOWN,moneygram,THATPHANOM,1
+UNKNOWN,moneygram,BANPHAENG,1
+UNKNOWN,moneygram,SRISONGKHAM,1
+UNKNOWN,moneygram,RENU NAKHON,1
+UNKNOWN,moneygram,NAWA,1
+UNKNOWN,moneygram,PHONSAWAN,1
+UNKNOWN,moneygram,PORNCHAROEN,1
+UNKNOWN,moneygram,SOPHISAI,1
+UNKNOWN,moneygram,PHURUEA,1
+UNKNOWN,moneygram,SUWANKHUHA,1
+UNKNOWN,moneygram,BANG LAMUNG,2
+UNKNOWN,moneygram,KHOLONG SAN,1
+UNKNOWN,moneygram,MUEANG KHONKAEN,6
+UNKNOWN,moneygram,KHAM MUANG,2
+UNKNOWN,moneygram,BANPHAI,1
+UNKNOWN,moneygram,PHUWIANG,1
+UNKNOWN,moneygram,MANCHA KHIRI,1
+UNKNOWN,moneygram,NONG SONG HONG,1
+UNKNOWN,moneygram,KHON SAWAN,1
+UNKNOWN,moneygram,CHATURAT,1
+UNKNOWN,moneygram,KAENG KHRO,1
+UNKNOWN,moneygram,PHUKHIO,1
+UNKNOWN,moneygram,THEPSATHIT,1
+UNKNOWN,moneygram,THAKANTHO,1
+UNKNOWN,moneygram,NONGKUNGSRI,1
+UNKNOWN,moneygram,MUEANG KALASIN,3
+UNKNOWN,moneygram,KAMALASAI,1
+UNKNOWN,moneygram,KHAO WONG,1
+UNKNOWN,moneygram,WIPHIPATHUM,1
+UNKNOWN,moneygram,NA CHUEK,1
+UNKNOWN,moneygram,BORABUE,1
+UNKNOWN,moneygram,KOSUM PHISAI,1
+UNKNOWN,moneygram,KHAMCHA-I,1
+UNKNOWN,moneygram,NIKOM KHAMSOI,1
+UNKNOWN,moneygram,PHO CHAI,1
+UNKNOWN,moneygram,MUEANG ROI-ET,4
+UNKNOWN,moneygram,PHON THONG,1
+UNKNOWN,moneygram,ATSAMART,1
+UNKNOWN,moneygram,PATHUMRAT,1
+UNKNOWN,moneygram,UBONRAT,1
+UNKNOWN,moneygram,NAMPHONG,1
+UNKNOWN,moneygram,KRANUAN,1
+UNKNOWN,moneygram,NONGRUEA,1
+UNKNOWN,moneygram,SRICHOMPOO,1
+UNKNOWN,moneygram,CHUMPHAE,1
+UNKNOWN,moneygram,KASET SOMBUN,1
+UNKNOWN,moneygram,BAN KHWAO,1
+UNKNOWN,moneygram,MUEANG CHAIYAPHUM,2
+UNKNOWN,moneygram,BUA DAENG,1
+UNKNOWN,moneygram,NONGBUA RAWHE,1
+UNKNOWN,moneygram,YANGTALAD,1
+UNKNOWN,moneygram,KUCHINARAI,1
+UNKNOWN,moneygram,THAKHONYANG,1
+UNKNOWN,moneygram,PHAYAKKHAPHUM PHISAI,1
+UNKNOWN,moneygram,CHIANG YUEN,1
+UNKNOWN,moneygram,MUEANG MUKDAHAN,3
+UNKNOWN,moneygram,DON TAN,1
+UNKNOWN,moneygram,SUWANNAPHUM,1
+UNKNOWN,moneygram,KASET WISAI,1
+UNKNOWN,moneygram,SELAPHUM,1
+UNKNOWN,moneygram,NONGPOK,1
+UNKNOWN,moneygram,PHON,1
+UNKNOWN,moneygram,BAMNET NARONG,1
+UNKNOWN,moneygram,SOMDET,1
+UNKNOWN,moneygram,SAHATSAKHAN,1
+UNKNOWN,moneygram,PHANOM PHRAI,1
+UNKNOWN,moneygram,PHUPHAMAN,1
+UNKNOWN,moneygram,CHATURAPHAK PHIMAN,1
+UNKNOWN,moneygram,ROIET,1
+UNKNOWN,moneygram,CHUMPHON,15
+UNKNOWN,moneygram,CHIANG RAI,15
+UNKNOWN,moneygram,MUKDAHAN,4
+UNKNOWN,moneygram,PATHUM THANI,44
+UNKNOWN,moneygram,LOPBURI,1
+UNKNOWN,moneygram,NONG KHAI,6
+UNKNOWN,moneygram,NAKHORN NAYOK,2
+UNKNOWN,moneygram,NAKHON PATHOM,22
+UNKNOWN,moneygram,PRACHINBURI,1
+UNKNOWN,moneygram,BAN CHANG,1
+UNKNOWN,moneygram,THASONGYANG,1
+UNKNOWN,moneygram,PETCHABURI,2
+UNKNOWN,moneygram,KUTKHAOPUN,1
+UNKNOWN,moneygram,KOH KOOD,1
+UNKNOWN,moneygram,NAWANG,1
+UNKNOWN,moneygram,LAT PHRAO,1
+UNKNOWN,moneygram,BANG-PHI,1
+UNKNOWN,moneygram,RATCHTEWI,1
+UNKNOWN,moneygram,NAKHORN SAWAN,4
+UNKNOWN,moneygram,PHATUM THANI,1
+UNKNOWN,moneygram,SURIN,8
+UNKNOWN,moneygram,PRACHIN BURI,13
+UNKNOWN,moneygram,PHETCHABUN,7
+UNKNOWN,moneygram,RAYONG,17
+UNKNOWN,moneygram,BURI RAM,6
+UNKNOWN,moneygram,NAN,3
+UNKNOWN,moneygram,NAKHORN RATCHASRIMA,1
+UNKNOWN,moneygram,UDONTHANI,1
+UNKNOWN,moneygram,SAMUT SAKHON,20
+UNKNOWN,moneygram,RANONG,5
+UNKNOWN,moneygram,PHRA NAKHORN SI AYUTTHAYA,2
+UNKNOWN,moneygram,UBON RATCHATHANI,13
+UNKNOWN,moneygram,KHUN YUAM,2
+UNKNOWN,moneygram,KHUHASAWAN,1
+UNKNOWN,moneygram,THAWEEWATTHANA,1
+UNKNOWN,moneygram,MUEANG CHIANGMAI,1
+UNKNOWN,moneygram,MUEANG SURATTHANI,1
+UNKNOWN,moneygram,HUAI KHWANG,2
+UNKNOWN,moneygram,HUA HIN,2
+UNKNOWN,moneygram,NAKHORN RATCHASIMA,3
+UNKNOWN,moneygram,LOP BURI,15
+UNKNOWN,moneygram,PRACHUAP KHIRI KHAN,14
+UNKNOWN,moneygram,KLONGLONG,1
+UNKNOWN,moneygram,KRABI,17
+UNKNOWN,moneygram,UDON THANI,15
+UNKNOWN,moneygram,SARABURI,12
+UNKNOWN,moneygram,SAMUTSAKHON,4
+UNKNOWN,moneygram,NAKHORN PHANOM,1
+UNKNOWN,moneygram,NAKHORN PATHOM,2
+UNKNOWN,moneygram,UTHAI THANI,2
+UNKNOWN,moneygram,TAK,8
+UNKNOWN,moneygram,ROI ET,5
+UNKNOWN,moneygram,BANGLAMUNGN,1
+UNKNOWN,moneygram,PHRANAKORN,1
+UNKNOWN,moneygram,BANGYAI,1
+UNKNOWN,moneygram,KHAOPHANOM,1
+UNKNOWN,moneygram,CHOMPHRA,1
+UNKNOWN,moneygram,PHRA NAKHON SI AYUTTHAYA,12
+UNKNOWN,moneygram,KHON KAEN,18
+UNKNOWN,moneygram,RATCHABURI,16
+UNKNOWN,moneygram,NAKHON RATCHASIMA,17
+UNKNOWN,moneygram,PHRAE,4
+UNKNOWN,moneygram,NAKHON SI THAMMARAT,19
+UNKNOWN,moneygram,PHAYAO,3
+UNKNOWN,moneygram,LAMPANG,7
+UNKNOWN,moneygram,NAKHON PHANOM,4
+UNKNOWN,moneygram,PATTANI,2
+UNKNOWN,moneygram,NAKHON SAWAN,10
+UNKNOWN,moneygram,LAMPHUN,4
+UNKNOWN,moneygram,TRAT,4
+UNKNOWN,moneygram,SUKHOTHAI,3
+UNKNOWN,moneygram,CHANTHABURI,6
+UNKNOWN,moneygram,LOEI,7
+UNKNOWN,moneygram,SAKON NAKHON,4
+UNKNOWN,moneygram,NAKHON NAYOK,4
+UNKNOWN,moneygram,BANG PHLI,2
+UNKNOWN,moneygram,KAMPHAENG PHET,4
+UNKNOWN,moneygram,MUANG CHON BURI,3
+UNKNOWN,moneygram,MAHA SARAKHAM,7
+UNKNOWN,moneygram,NARATHIWAT,2
+UNKNOWN,moneygram,CHAI NAT,3
+UNKNOWN,moneygram,PHATTHALUNG,4
+UNKNOWN,moneygram,PHICHIT,4
+UNKNOWN,moneygram,SA KAEO,5
+UNKNOWN,moneygram,SATUN,3
+UNKNOWN,moneygram,SI SA KET,9
+UNKNOWN,moneygram,AMNAT CHAROEN,2
+UNKNOWN,moneygram,NONG BUA LAM PHU,3
+UNKNOWN,moneygram,UTTARADIT,2
+UNKNOWN,moneygram,YALA,1
+UNKNOWN,moneygram,YASOTHON,3
+UNKNOWN,moneygram,MUANG SUPHAN BURI,1
+UNKNOWN,moneygram,MUANG PATHUM THANI,4
+UNKNOWN,moneygram,BANG BUA THONG,1
+UNKNOWN,moneygram,SAM PHRAN,1
+UNKNOWN,moneygram,MUANG NONTHABURI,1
+UNKNOWN,moneygram,PHANGNGA,4
+UNKNOWN,moneygram,MUANG SAMUT PRAKAN,1
+UNKNOWN,moneygram,SING BURI,3
+UNKNOWN,moneygram,LAEM NGOP,1
+UNKNOWN,moneygram,ANG THONG,3
+UNKNOWN,moneygram,MAE HONG SON,1
+UNKNOWN,moneygram,PRANAKHONSI AYUTTAYA,3
+UNKNOWN,moneygram,MUANG CHACHOENGSAO,1
+UNKNOWN,moneygram,KO CHANG,1
+UNKNOWN,moneygram,KHANNA YAO,1
+UNKNOWN,moneygram,CHIANG DAO,1
+UNKNOWN,moneygram,DON YAI HOM,1
+UNKNOWN,moneygram,PHAK PANG,1
+UNKNOWN,moneygram,UAN,1
+UNKNOWN,moneygram,KHON BURI,1
+UNKNOWN,moneygram,BUENG SAM PHAN,1
+UNKNOWN,moneygram,AYUTTHAYA,1
+UNKNOWN,moneygram,SALAYA,1
+UNKNOWN,moneygram,BUENG KAN,1
+UNKNOWN,moneygram,NONG BUA SALA,1
+UNKNOWN,moneygram,PHANG KHON,1
+UNKNOWN,moneygram,PHANG-NGA,1
+UNKNOWN,moneygram,SRAKAEW,1
+UNKNOWN,moneygram,NA THAWI,1
+UNKNOWN,moneygram,THAP THIANG,1
+UNKNOWN,moneygram,TRAD,1
+UNKNOWN,moneygram,KHAOKHO,1
+UNKNOWN,moneygram,BURIRAM,2
+UNKNOWN,moneygram,MAE SARIANG,1
+UNKNOWN,moneygram,SURATTHANI,1
+UNKNOWN,moneygram,NAKONSAWAN,1
+UNKNOWN,moneygram,SANGKHLA,1
+UNKNOWN,moneygram,SUAN DOK,1
+UNKNOWN,moneygram,KOHPANGAN,1
+UNKNOWN,moneygram,NUEA MUEANG,2
+UNKNOWN,moneygram,BANKGKOK,1
+UNKNOWN,moneygram,SAKONNAKHON,1
+BANGKOK,nike,Bangkae Nuea Phasicharoen,1
+BANGYAIDISTRICT,nike,Nonthaburi,1
+BANGKOK,nike,Pathumwan,1
+SAMUTPRAKARN,nike,Amphur Bang Sao Thong,1
+UNKNOWN,nike,Bangkok,1
+UNKNOWN,nike,Chiangmai,1
+UNKNOWN,nike,Nonthaburi,1
+CHIANGRAI,nissan_europe,เชียงราย,3
+PHAYAO,nissan_europe,พะเยา,2
+CHIANGMAI,nissan_europe,เชียงใหม่,4
+LAMPHUN,nissan_europe,ลำพูน,1
+NAN,nissan_europe,น่าน,1
+UTTARADIT,nissan_europe,อุตรดิตถ์,1
+SUKHOTHAI,nissan_europe,สุโขทัย,1
+TAK,nissan_europe,ตาก,2
+KAMPHAENGPHET,nissan_europe,กำแพงเพชร,1
+PHICHIT,nissan_europe,พิจิตร,1
+PHETCHABUN,nissan_europe,เพชรบูรณ์,3
+UTHAITHANI,nissan_europe,อุทัยธานี,1
+CHAINAT,nissan_europe,ชัยนาท,1
+PHRAE,nissan_europe,แพร่,1
+LAMPANG,nissan_europe,ลำปาง,1
+NAKHONSAWAN,nissan_europe,นครสวรรค์,2
+PHITSANULOK,nissan_europe,พิษณุโลก,1
+MAEHONGSON,nissan_europe,แม่ฮองสอน  ,1
+LOEI,nissan_europe,เลย,2
+KALASIN,nissan_europe,กาฬสินธุ์,1
+MAHASARAKHAM,nissan_europe,มหาสารคาม,2
+CHAIYAPHUM,nissan_europe,ชัยภูมิ,1
+NAKHONPHANOM,nissan_europe,นครพนม,1
+MUKDAHAN,nissan_europe,มุกดาหาร,1
+SISAKET,nissan_europe,ศรีสะเกษ,2
+CHANGWATUBONRATCHATHANI,nissan_europe,อุบลราชธานี,2
+SAKONNAKHON,nissan_europe,สกลนคร,2
+SURIN,nissan_europe,สุรินทร์,1
+BURIRAM,nissan_europe,บุรีรัมย์,1
+CHANGWATNONGBUALAMPHU,nissan_europe,หนองบัวลำภู,1
+CHANGWATBUENGKAN,nissan_europe,บึงกาฬ,1
+CHANGWATUDONTHANI,nissan_europe,อุดรธานี,2
+NONGKHAI,nissan_europe,หนองคาย,1
+NAKHONRATCHASIMA,nissan_europe,นครราชสีมา,4
+KHONKAEN,nissan_europe,ขอนแก่น,3
+ROIET,nissan_europe,ร้อยเอ็ด,1
+YASOTHON,nissan_europe,ยโสธร,1
+AMNATCHAROEN,nissan_europe,อำนาจเจริญ,1
+PRACHUAPKHIRIKHAN,nissan_europe,ประจวบคีรีขันธ์,3
+CHUMPHON,nissan_europe,ชุมพร,3
+SURATTHANI,nissan_europe,สุราษฏร์ธานี,4
+PHUKET,nissan_europe,ภูเก็ต,2
+PATTANI,nissan_europe,ปัตตานี,1
+SONGKHLA,nissan_europe,สงขลา,3
+YALA,nissan_europe,ยะลา,1
+NAKHONSITHAMMARAT,nissan_europe,นครศรีธรรมราช,2
+NARATHIWAT,nissan_europe,นราธิวาส,1
+PHATTHALUNG,nissan_europe,พัทลุง,1
+RANONG,nissan_europe,ระนอง,1
+TRANG,nissan_europe,ตรัง,1
+PHANGNGA,nissan_europe,พังงา,1
+PHETCHABURI,nissan_europe,เพชรบุรี,2
+RATCHABURI,nissan_europe,ราชบุรี,1
+SAMUTSONGKHRAM,nissan_europe,สมุทรสงคราม,1
+PRACHINBURI,nissan_europe,ปราจีนบุรี,2
+NAKHONNAYOK,nissan_europe,นครนายก,1
+RAYONG,nissan_europe,ระยอง,2
+CHANTHABURI,nissan_europe,จันทบุรี,1
+TRAT,nissan_europe,ตราด,1
+SAKAEO,nissan_europe,สระแก้ว,1
+LOPBURI,nissan_europe,ลพบุรี,2
+SUPHANBURI,nissan_europe,สุพรรณบุรี,1
+SINGBURI,nissan_europe,สิงห์บุรี,1
+SARABURI,nissan_europe,สระบุรี,2
+NAKHONPATHOM,nissan_europe,นครปฐม,1
+CHONBURI,nissan_europe,ชลบุรี,5
+CHACHOENGSAO,nissan_europe,ฉะเชิงเทรา,2
+KANCHANABURI,nissan_europe,กาญจนบุรี,1
+PHRANAKHONSIAYUTTHAYA,nissan_europe,พระนครศรีอยุธยา,2
+BANGKOK,nissan_europe,กรุงเทพฯ,15
+SAMUTSAKHON,nissan_europe,สมุทรสาคร,3
+NONTHABURI,nissan_europe,นนทบุรี,3
+SAMUTPRAKAN,nissan_europe,สมุทรปราการ,2
+BANGKOK,nissan_europe,ปทุมธานี,2
+BANGKOK,nissan_europe,กรุงเทพ,3
+PHRANAKHONSIAYUTTHAYA,nissan_europe,ปทุมธานี,1
+BANGKOK,nissan_europe,กรุงเทพมหานคร,3
+PATHUMTHANI,nissan_europe,ปทุมธานี,2
+SONGKHLA,pizza_hut_th,unknown,2
+BANGKOK,pizza_hut_th,unknown,58
+NAKHONRATCHASIMA,pizza_hut_th,unknown,5
+PATHUMTHANI,pizza_hut_th,unknown,14
+NONTHABURI,pizza_hut_th,unknown,12
+CHONBURI,pizza_hut_th,unknown,13
+PHITSANULOK,pizza_hut_th,unknown,1
+NAKHONSAWAN,pizza_hut_th,unknown,1
+CHIANGMAI,pizza_hut_th,unknown,7
+NAKHONPATHOM,pizza_hut_th,unknown,4
+RAYONG,pizza_hut_th,unknown,4
+UDONTHANI,pizza_hut_th,unknown,2
+CHANTHABURI,pizza_hut_th,unknown,1
+UBONRATCHATHANI,pizza_hut_th,unknown,2
+SURATTHANI,pizza_hut_th,unknown,2
+PHUKET,pizza_hut_th,unknown,5
+NAKHONSITHAMMARAT,pizza_hut_th,unknown,1
+PHICHIT,pizza_hut_th,unknown,1
+PHAYAO,pizza_hut_th,unknown,1
+MAHASARAKHAM,pizza_hut_th,unknown,1
+PHETCHABURI,pizza_hut_th,unknown,1
+UTTARADIT,pizza_hut_th,unknown,1
+RATCHABURI,pizza_hut_th,unknown,3
+KHONKAEN,pizza_hut_th,unknown,3
+BURIRAM,pizza_hut_th,unknown,1
+NONGKHAI,pizza_hut_th,unknown,1
+SARABURI,pizza_hut_th,unknown,1
+SAMUTSAKHON,pizza_hut_th,unknown,3
+CHIANGRAI,pizza_hut_th,unknown,3
+CHUMPHON,pizza_hut_th,unknown,1
+SINGBURI,pizza_hut_th,unknown,1
+SAMUTPRAKAN,pizza_hut_th,unknown,7
+SISAKET,pizza_hut_th,unknown,1
+PHRANAKHONSIAYUTTHAYA,pizza_hut_th,unknown,2
+TAK,pizza_hut_th,unknown,1
+CHACHOENGSAO,pizza_hut_th,unknown,2
+SURIN,pizza_hut_th,unknown,1
+PRACHINBURI,pizza_hut_th,unknown,1
+KANCHANABURI,pizza_hut_th,unknown,1
+KAMPHAENGPHET,pizza_hut_th,unknown,1
+LAMPANG,pizza_hut_th,unknown,1
+SAKONNAKHON,pizza_hut_th,unknown,1
+TRANG,pizza_hut_th,unknown,1
+PHETCHABUN,pizza_hut_th,unknown,1
+SUPHANBURI,pizza_hut_th,unknown,1
+ROIET,pizza_hut_th,unknown,1
+SUKHOTHAI,pizza_hut_th,unknown,1
+LOBURI,pizza_hut_th,unknown,1
+LOEI,pizza_hut_th,unknown,1
+PRACHUAPKHIRIKHAN,pizza_hut_th,unknown,1
+SAMUTSONGKHRAM,pizza_hut_th,unknown,1
+MUKDAHAN,pizza_hut_th,unknown,1
+PHRAE,pizza_hut_th,unknown,1
+KALASIN,pizza_hut_th,unknown,1
+LAMPHUN,pizza_hut_th,unknown,1
+CHAIYAPHUM,pizza_hut_th,unknown,1
+NONTHABURI,reebok,PAKKRED,1
+UNKNOWN,scania,Songkhla,1
+UNKNOWN,scania,Nakhon Sawan,1
+UNKNOWN,scania,Rayong,1
+UNKNOWN,scania,Samut Prakarn,1
+UNKNOWN,scania,Saraburi,1
+UNKNOWN,scania,Tak,1
+BANGKOK,shake_shack,unknown,2
+NAKHONRATCHASIMA,shell,T.THONGCHAINUEA  A.PAKTHONGCHAI,1
+NAKHONRATCHASIMA,shell,T.NONGCHABOK A.MUEANG,1
+NAKHONRATCHASIMA,shell,T.NONG BUA SALA A.MUEANG,1
+NAKHONRATCHASIMA,shell,T.SURANARI A.MUEANG,1
+NAKHONRATCHASIMA,shell,T.NONGBUASALA A.MUANG,1
+NAKHONRATCHASIMA,shell,T.CHOKECHAI A.CHOKECHAI.,1
+NAKHONRATCHASIMA,shell,T.CHOKCHAI A.CHOKCHAI,1
+NAKHONRATCHASIMA,shell,T.NAI MUANG A.MUANG,2
+NAKHONRATCHASIMA,shell,T.HUATHALAY A.MUANG,1
+NAKHONRATCHASIMA,shell,T.PRUYAI A.MUEANG,1
+NAKHONRATCHASIMA,shell,T.NONG CHABOK  A.MUEANG,1
+NAKHONRATCHASIMA,shell,T.NAI MUEANG A.MUEANG NAKHON RATCHA,1
+NAKHONRATCHASIMA,shell,T.BANPHO A.MUANG,2
+BURIRAM,shell,T.NANG RONG A.NANG RONG,1
+NAKHONRATCHASIMA,shell,T.UDOMSAP A.WANGNAMKHIAO,1
+NAKHONRATCHASIMA,shell,A.KHON BURI,1
+NAKHONRATCHASIMA,shell,T.CHAE A.KHONBURI,1
+NAKHONRATCHASIMA,shell,T.MITTRAPHAP A.SIKHIO,1
+NAKHONRATCHASIMA,shell,T.LARDBUAKAW A.SIKIEW,1
+NAKHONRATCHASIMA,shell,T.NONETHAI A.NONETHAI,1
+NAKHONRATCHASIMA,shell,T.LATBUAKAEO A.SIKHIO,1
+BURIRAM,shell,T.NONGKI A.NONGKI,1
+NAKHONRATCHASIMA,shell,T.THANPRASAT  A.NONSONG,1
+NAKHONRATCHASIMA,shell,T.NAIMUANG A.PHIMIND,1
+NAKHONRATCHASIMA,shell,T.KHANONGPHRA A.PAKCHONG,1
+NAKHONRATCHASIMA,shell,T.PAKCHONG A.PAKCHONG,1
+NAKHONRATCHASIMA,shell,T.KHANONG PHRA A.PAK CHONG,1
+NAKHONRATCHASIMA,shell,T.PAK CHONG A.PAK CHONG,1
+NAKHONRATCHASIMA,shell,T.NHONGNAMDAENG A.PAKCHONG,1
+NAKHONRATCHASIMA,shell,A.KHONG,1
+BURIRAM,shell,T.BANSING A.NANGRONG,1
+CHAIYAPHUM,shell,T.BANCHUAN A.BAMNETNARONG,1
+BURIRAM,shell,T.LAMPRAIMAS A.LAMPRAIMAS,1
+SARABURI,shell,T.WANGMUANG A.WANGMUANG,1
+BURIRAM,shell,T.SOMPOI A.NONDINDAENG,1
+PRACHINBURI,shell,T.MUANGKAO A.KABINBURI,1
+SARABURI,shell,T.TUBKWANG A.KAENGKHOI,1
+NAKHONRATCHASIMA,shell,T.THUNGSAWANG A.PRATHAI,1
+LOPBURI,shell,A.CHAIBADAN,1
+LOPBURI,shell,T.LAMNARAI A.CHAI BADAN,1
+PRACHINBURI,shell,A.MUANG,1
+PRACHINBURI,shell,T.THATOOM A.SRIMAHAPHO,1
+NAKHONNAYOK,shell,T.KAWPHO A.PAKPLEE,1
+CHAIYAPHUM,shell,T.NAIMUANG A.MUANG,1
+PRACHINBURI,shell,T.THATUM  A.SRIMAHAPHO,1
+CHAIYAPHUM,shell,T.NAIMUEANG A.MUEANG,1
+PRACHINBURI,shell,T.KROKSOMBOON A.SRIMAHAPHO,1
+SAKAEO,shell,T.SAKAEO A.MUEANG SAKAEO,1
+BANGKOK,shell,KW.NUAN CHAN KT.BUENG KUM,1
+BANGKOK,shell,KW.CHORAKHE BUA KT.LATPHRAO,1
+BANGKOK,shell,KW.ANUSAWARI KT.BANGKHEN,2
+BANGKOK,shell,KT.KLONGGKUM KW.BEINGKUM,1
+BANGKOK,shell,KW.LARDPROW KT.LARDPROW,1
+BANGKOK,shell,KW.THARAENG KT.BANGKHEN,1
+BANGKOK,shell,KW.LARDPRAW KT.LARDPRAW.,1
+BANGKOK,shell,T.VICTORY MONUMENT A.BANGKHEN.,1
+BANGKOK,shell,KW.KLONGCHAOKUNSING KT.WANGTHONGLAN,1
+BANGKOK,shell,T.WANGTHONGLANG A. WANGTHONGLANG,1
+BANGKOK,shell,KW. CHANKASEM KT.CHATUCHAK,1
+BANGKOK,shell,A.HUOYKWANG,1
+BANGKOK,shell,T. KLONGKUM A.BUMGKUM,1
+BANGKOK,shell,T.PHLAPPHLA A.WANGTHONGLANG,1
+BANGKOK,shell,KW.KLONGKUM KT.BUNGKUM,1
+BANGKOK,shell,T.LADYAO A.JATUJAK,1
+BANGKOK,shell,KW.SAPHANSUNG KT.SAPHANSUNG,1
+BANGKOK,shell,KW.LADYAO KT.CHATUCHAK,1
+BANGKOK,shell,KW.MINBURI KT.MINBURI,4
+BANGKOK,shell,A.BANGKAPI.,1
+BANGKOK,shell,KW.WANGTHONGLANG KT.WANGTHONGLANG,1
+BANGKOK,shell,KW.THUNGSONGHONG KT.LAKSI,2
+BANGKOK,shell,KW.ORNGERN KT.SAIMAI,1
+BANGKOK,shell,BANGKHEN,1
+BANGKOK,shell,T.THUNGSONGHONG A.LAKSI,1
+BANGKOK,shell,KW.HUAMARK KT.BANGKAPI,1
+NONTHABURI,shell,T.THASAI A.MUEANG NONTHABURI,1
+PATHUMTHANI,shell,A.MUANG,1
+BANGKOK,shell,KW.DINDAENG KT.DINDAENG,1
+BANGKOK,shell,KW.SUANLUANG KT.SUANLUANG,1
+BANGKOK,shell,KW.BANGSUE KT.BANGSUE,2
+BANGKOK,shell,T.SRIKARN A.DONMUANG,1
+NONTHABURI,shell,A.PAKKLED,1
+BANGKOK,shell,RATCHADAPISEK,1
+BANGKOK,shell,T.SUANLUANG A.SUANLUANG,2
+BANGKOK,shell,KW.BANGKRAPI KT.HUAYKWANG,1
+BANGKOK,shell,KW.SANAMBIN KT.DONMUANG,1
+BANGKOK,shell,T.MINBURI A.MINBURI.,1
+BANGKOK,shell,T.SAMSENNAI A.PAYATHAI,1
+NONTHABURI,shell,T.THASAI A.MUANG,1
+BANGKOK,shell,SAMSEANNAI,1
+BANGKOK,shell,T.BANGKAPI A.HUAYKWANG.,1
+PATHUMTHANI,shell,T.LAT SAWAI A.LUMLOOKA,1
+BANGKOK,shell,KW.KHLONGSONGTONNUM KT.LATKRABANG,1
+CHONBURI,shell,A.MUANG,4
+CHONBURI,shell,T.HUAIKAPI A.MUEANG,1
+CHONBURI,shell,T.HUAI KAPI A.CHON BURI,1
+CHONBURI,shell,T.MUANG A.MUANG,1
+CHONBURI,shell,A.SIRACHA,1
+CHONBURI,shell,T.BANGPHRA A.SRIRACHA,1
+CHONBURI,shell,T.NONGMAIDAENG A.MUANG,1
+CHONBURI,shell,T.NONG KHAM A.SRIRACHA,1
+CHONBURI,shell,T.BAANKAO A.PANTHONG,1
+CHONBURI,shell,T.BANBEUNG A.BANBEUNG,1
+CHONBURI,shell,T.NONGTAMLUENG A.PHANTHONG,1
+CHONBURI,shell,T.BAN KAO  A.PHANTHONG,1
+CHONBURI,shell,T.NONGKHAM A.SRIRACHA,1
+CHONBURI,shell,T.THUNG SUKALA A.SRIRACHA,1
+CHONBURI,shell,T.THUNGSUKLA A.SRIRACHA,1
+CHONBURI,shell,T.BUNG A.SRIRACHA,1
+CHONBURI,shell,T.MAPPONG A.PHANTHONG,1
+CHONBURI,shell,A.BANGLAMUNG,5
+CHONBURI,shell,T.BEUNG A.SRIRACHA,1
+CHONBURI,shell,T.BOWIN A.SRIRACHA,3
+CHONBURI,shell,T.THUNGKHWANG A.PHANASNIKOM,1
+CHACHOENGSAO,shell,T.BANGWOA A.BANGPAKONG,1
+CHONBURI,shell,A.BANBUENG,1
+CHACHOENGSAO,shell,T.BANGSAMAK A.BANGPAKONG,1
+CHONBURI,shell,A.SRIRACHA,1
+CHONBURI,shell,T.NONGPAIKEAW A.BANBEUNG,1
+CHACHOENGSAO,shell,T.SAENPOODARD A.BANPHO,1
+CHONBURI,shell,T.KAO KHANSONG A.SRIRACHA,1
+CHACHOENGSAO,shell,T.LAT KHWANG A.BAN PHO,1
+SAMUTPRAKAN,shell,T.BANGSAOTHONG A.BANGSAOTHONG,2
+CHONBURI,shell,T.NAKLUEA  A.BANGLAMUNG,1
+CHONBURI,shell,T.PONG A.BANGLAMUNG,1
+RAYONG,shell,T.PLUAKDEANG  A.PLUAKDEANG,1
+CHONBURI,shell,T.NONGPRUE  A.BANGLAMUNG,1
+RAYONG,shell,T.MAPYANGPHON A.PLUKDAENG,1
+SAMUTPRAKAN,shell,T.BANGCHARONG A.BANGPLEE,1
+SAMUTPRAKAN,shell,T.PREAKASA MAI A.MUEANG,1
+CHONBURI,shell,T.NONGPRUE A.BANGLAMOONG,1
+SAMUTPRAKAN,shell,A.BANGPLEE,3
+SAMUTPRAKAN,shell,T.BANGPLEEYAI  A.BANGPLEE,1
+BANGKOK,shell,A.PRANAKORN.,1
+BANGKOK,shell,T.WATRAJBOPIT.,1
+BANGKOK,shell,T.TEPSIRIN A.POMPRABSUTTRUPAI.,1
+BANGKOK,shell,KT.POMPRABSATTRUPHAY,1
+BANGKOK,shell,KW.RONGMUENG KT.PATHUMWAN,1
+BANGKOK,shell,KW.PETCHABURI KT.RAJTAWEE,1
+BANGKOK,shell,BANGKOKYAI,1
+BANGKOK,shell,BANGRAK,1
+BANGKOK,shell,KW.THAPRA KT.BANGKOKYAI,1
+BANGKOK,shell,KW.BANCHANGLOR KT.BANGKOKNOI,1
+BANGKOK,shell,KT.BANGLUMPU-LANG KW.KLONGSARN,1
+BANGKOK,shell,KW.BUKKHALO KT.THONBURI,1
+BANGKOK,shell,T.TANON-NAKORNCHASRI A.DUSIT,1
+BANGKOK,shell,KW.SILOM KT.BANGRAK,1
+BANGKOK,shell,KW.PAYATHAI KT.RACHTAWEE,1
+BANGKOK,shell,T.THANONNAKORNCHAISRI A.DUSIT,1
+BANGKOK,shell,T.BANGLUMPULANG A.KLONGSARN,1
+BANGKOK,shell,KW.TUNGMAHAMEK KT.SATHORN,1
+BANGKOK,shell,KW.TALADPLU KT.THONBURI,1
+BANGKOK,shell,KW.YANNAWA KT.SATHON,1
+BANGKOK,shell,KW.BANG-AOR KT.BANGPLAD,1
+BANGKOK,shell,KW.BUKKALO  KT.THONBURI,1
+BANGKOK,shell,KW.CHONGNONSRI KT.YANNAWA,1
+BANGKOK,shell,KW.BANGPROM  KT.TALINGCHAN,1
+BANGKOK,shell,BANGSUE,1
+BANGKOK,shell,KW.BUKHALO KT.THONBURI,1
+BANGKOK,shell,KW.PAKLONG KT.PASRICHAROEN,1
+BANGKOK,shell,KW.KHLONGTOEI NUEA KT.WATTHANA,1
+BANGKOK,shell,KW.BANGRAMAT KT.TALINGCHAN,2
+BANGKOK,shell,WATANA,1
+BANGKOK,shell,KW.CHONGNONSE KT.YANNAWA,1
+BANGKOK,shell,KW.BANG PHROM KT.TALING CHAN,1
+BANGKOK,shell,KW.KHLONGTOEI KT.KHLONG TOEI,1
+BANGKOK,shell,KW.CHOMTHONG KT.CHOMTHONG,1
+BANGKOK,shell,KW.KLONGTOEY KT.KLONGTOEY,1
+BANGKOK,shell,KW.KLONGTAN KT.KLONGTOEY,1
+BANGKOK,shell,KW.CHIMPLEE KT.TALINGCHAN,1
+BANGKOK,shell,KW.BANGPONGPANG KT.YANNAWA,1
+BANGKOK,shell,KW.RATBURANA KT.RATBURANA,1
+NONTHABURI,shell,T.BANGPHAI A.MUEANG,1
+NONTHABURI,shell,T.SUANYAI A.MUANG,1
+BANGKOK,shell,KW.KLONGTAN-NUEA KT.VADHANA,1
+NONTHABURI,shell,T.BANGKHEN A.MUANG,1
+RAYONG,shell,T.MABKHA A.NIKOMPATANA,1
+RAYONG,shell,T.MAPKHA A.NIKHOMPHATTHANA,1
+RAYONG,shell,T.MABKLA A.NIKOMPATTANA,1
+RAYONG,shell,T.MAKHAMKHU A.NIKHOMPHATTHANA,1
+RAYONG,shell,T.MAPTAPHUT A.MUEANG,1
+RAYONG,shell,T.NOEN PHRA A.MUEANG RAYONG,1
+RAYONG,shell,T.THAP MA A.MUEANG RAYONG,1
+RAYONG,shell,T.NERNPRA A.MUANG,2
+RAYONG,shell,T.BANCHANG A.BANCHANG,2
+RAYONG,shell,T.TABMA  A.MAUNG,1
+RAYONG,shell,T.BANGBUT A.BANKHAI,1
+RAYONG,shell,T.CHERNGNERN A.MUANG,2
+RAYONG,shell,T.MAENAMKHO A.PLUAKDAENG,1
+CHONBURI,shell,T.PLUTTALUANG A.SUTTAHIP,1
+CHONBURI,shell,T.PHLUTALUANG A.SATTAHIP,1
+RAYONG,shell,T.TAPONG A.MUEANG,1
+RAYONG,shell,T.LAHARN A.PLUAKDAENG,1
+RAYONG,shell,T.PLUAKDAENG A.PLUAKDAENG,1
+CHONBURI,shell,T.NAJOMTIEN A.SATTAHIP,1
+RAYONG,shell,T.TAPHONG A.MAUANG,1
+CHONBURI,shell,T.NONGPRUE A.BANGLAMUNG,1
+CHONBURI,shell,T.NONG PRUE A.BANGLAMUNG,1
+RAYONG,shell,T.HUAIPONG A.MUEANG,1
+RAYONG,shell,T.PAYUBNAI A.WANGCHAN,1
+NONGKHAI,shell,T.NONGKOMKO A.MUANG,1
+NONGKHAI,shell,A.MUANG.,1
+NONGKHAI,shell,T.PHAN PHRAO A.SI CHIANGMAI,1
+UDONTHANI,shell,A.BANPUE,1
+UDONTHANI,shell,T.MOOMON A.MUANG,1
+NONGKHAI,shell,A.PHONPISAI,1
+UDONTHANI,shell,A.MUANG,1
+UDONTHANI,shell,T.MAK KHAENG A.MUANG,1
+UDONTHANI,shell,A.MUANG.,2
+UDONTHANI,shell,T.NADI A.MUEANG UDON THANI,1
+UDONTHANI,shell,A.MUANGUDORNTHANI.,1
+UDONTHANI,shell,T.BANCHAN  A.MUEANG,1
+UDONTHANI,shell,T.NONG PHAI A.MUEANG UDON THANI,1
+NONGBUALAMPHU,shell,T.PHOCHAI A.MUEANG NONGBUALAMPHO.,1
+NONGBUALAMPHU,shell,T.NONGBUA A.MUEANGNONGBUALAMPHU,1
+SAKONNAKHON,shell,T..KHON SAWAN A.WANON NIWAT,1
+SAKONNAKHON,shell,T.PHUNGKON A.PHUNGKON,1
+BUENGKAN,shell,T.BUNGKARN A.BUNGKARN,1
+KHONKAEN,shell,T.NAIMUANG A.MUANG,2
+KHONKAEN,shell,T.SUMRAN A.MUEANG,1
+KHONKAEN,shell,T.BANPED A.MUEANG,1
+KHONKAEN,shell,T.BANPED  A.MUANG.,1
+KHONKAEN,shell,T.KUT KAO A.NONG RUEA,1
+KHONKAEN,shell,T.BUNGNIAM A.MUENG KHONKAEN,1
+KHONKAEN,shell,T.NAIMUANG.  A.MUANG,1
+KHONKAEN,shell,T.CHUMPAE A.CHUMPAE,1
+SAKONNAKHON,shell,T.THADCHENGCHUM A.MUANG,2
+KHONKAEN,shell,T.MUANGKAO A.MUANG,1
+SAKONNAKHON,shell,T.THATNAWENG A.MUANG,1
+CHAIYAPHUM,shell,A.PHU KHIAO,1
+KALASIN,shell,T.SOMDEJ,1
+KHONKAEN,shell,T.THAPRA A.MUEANG,1
+KHONKAEN,shell,T.THAPHRA A.MUEANG,1
+KALASIN,shell,T.KALASIN A.MUANG,1
+KALASIN,shell,T.LUB A.MUANG,1
+MAHASARAKHAM,shell,T.KOENG A.MUEANG,1
+KHONKAEN,shell,T.SUANMON  A.MUNCHAKHIRI,1
+MAHASARAKHAM,shell,A.MUEANG,1
+MAHASARAKHAM,shell,A.MUANG,1
+MAHASARAKHAM,shell,T.KHWAO A.MUEANG MAHA SARAKHAM,1
+KHONKAEN,shell,T.NAIMUANG A.BANPHAI,1
+CHAIYAPHUM,shell,T.NONGPHAI A.KAENGKHRO,1
+CHAIYAPHUM,shell,T.CHONGSAMMOR  A.KONSAWAN,1
+KHONKAEN,shell,T.NONDAENG A.NONSILA,1
+PHETCHABUN,shell,A.LOMSAK,1
+KHONKAEN,shell,T.NONG WAENG NANG BAO A.PHON,1
+ROIET,shell,T.NUAMUANG A.MUANG.,1
+PHETCHABURI,shell,T.DON KHUN HUAI A.CHA AM,1
+PHETCHABURI,shell,A.CHA-UM,1
+PHETCHABURI,shell,T.CHA-AM A.CHA-AM,1
+PHETCHABURI,shell,A.BAN LAT,1
+PHETCHABURI,shell,A.MUANG,1
+PHETCHABURI,shell,T.HUASAPAN A.MUANG,1
+PRACHUAPKHIRIKHAN,shell,A.HUAHIN,1
+PRACHUAPKHIRIKHAN,shell,T.HILEKFAI  A.HUAHIN,1
+PHETCHABURI,shell,T.KHAOYOI A.KHAOYAOI,1
+PRACHUAPKHIRIKHAN,shell,T.KAO-NOI A.PRANBURI,1
+RATCHABURI,shell,T.WANGMANAO  A.PAK THO,1
+PRACHUAPKHIRIKHAN,shell,T.NONGTATAEM A.PRANBURI,1
+SAMUTSONGKHRAM,shell,T.BANG KHAN TAEK A.MUEANG SAMUT SON,1
+SAMUTSONGKHRAM,shell,T.MAEKLONG A.MUANG,1
+SAMUTSONGKHRAM,shell,T.BANGKAEW A.MUANG,1
+SAMUTSONGKHRAM,shell,T.BANPROK A.MUANG,1
+RATCHABURI,shell,A.MUANG,1
+RATCHABURI,shell,T.KHOK MO A.MUEANG RATCHABURI,1
+SAMUTSAKHON,shell,T.BANG KACHAO A.MUANG SAMUTSAKHON,1
+SAMUTSAKHON,shell,T.MAHACHAI A.MUEANG SAMUT SAKHON,1
+RATCHABURI,shell,T.HUAPHO  A.BANGPHAE,1
+RATCHABURI,shell,T.BANSING A.PHOTHARAM,1
+SAMUTSAKHON,shell,T.KHOKKHAM A.MUEANG,1
+SAMUTSAKHON,shell,T.NADEE A.MUANG,1
+SAMUTSAKHON,shell,T.NADEE A.MUEANG,1
+SAMUTSAKHON,shell,T.KHOK KRABUE A.MUANG,1
+RATCHABURI,shell,T.BANLEUK A.PHOTHARAM,1
+SAMUTSAKHON,shell,A.MUANG,1
+BANGKOK,shell,KW.SAMAE DAM KT.BANG KHUN THIAN,1
+NAKHONPATHOM,shell,A.SAMPARN,1
+NAKHONPATHOM,shell,T.SA KATHIAM A.MUEANG,1
+SAMUTSAKHON,shell,T.OMNOI A.KRATOOMBAN,1
+NAKHONPATHOM,shell,T.LAMPHAYA A.MUANG,1
+BANGKOK,shell,KW.NONGKHANGPLOO KT.NONGKHAEM,1
+NAKHONPATHOM,shell,T. THATAMNAK A. NAKHONCHAISRI,1
+BANGKOK,shell,KW.BANGKHAE KT.BANGKHAE,2
+NAKHONPATHOM,shell,A.MUANG,1
+BANGKOK,shell,KW.THAKAM KT.BANGKHUNTIEN,1
+NAKHONPATHOM,shell,T.KRATHUMLOM A.SAM PHRAN,1
+BANGKOK,shell,KW.TUNGKRU KT.TUNGKRU,1
+BANGKOK,shell,KW.BANG BON KT.BANG BON,1
+BANGKOK,shell,KW.LAKSONG KT.BANGKHAE,1
+NAKHONPATHOM,shell,A.SAMPRAN,1
+NAKHONPATHOM,shell,T.RAIKING A.SAMPRAN,1
+NAKHONPATHOM,shell,T.SISA THONG A.NAKHON CHAI SI,1
+BANGKOK,shell,KW.BANGKHAENUEA KT.BANGKHAE,1
+NAKHONPATHOM,shell,A.SAMPHRAN,1
+PHICHIT,shell,T.KHAOSAI A.TUBKLAO,1
+PHICHIT,shell,T.THAPKHLO A.THAPKHLO,1
+PHICHIT,shell,T.NONGPHRA A.WANGSAIPHUN,1
+PHICHIT,shell,T.NAIMUANG A.MUANG,1
+NAKHONSAWAN,shell,T.NONGKROT A.BANPHOTPHISAI,1
+PHETCHABUN,shell,T. SUPSAMOTHOT A.BUENGSAMPHAN,1
+PHICHIT,shell,T.BAN NA A.WACHIRABARAMI,1
+NAKHONSAWAN,shell,A.PAISALI,1
+PHETCHABUN,shell,T.KANJU A.BUENGSAMPHAN,1
+PHITSANULOK,shell,A.MUANG,5
+NAKHONSAWAN,shell,A.MUANG,2
+PHITSANULOK,shell,T.WANGTHONG A.WANGTHONG,1
+PHETCHABUN,shell,T.THARONG  A.WICHIAN BURI,1
+PHITSANULOK,shell,T.NAIMUANG A.MUANG,2
+PHITSANULOK,shell,A.MUANGPHITSANULOK,2
+NAKHONSAWAN,shell,T.YANGTAN A.KROKPHRA,1
+NAKHONSAWAN,shell,T.YANMATSI A.PHAYUHAKHIRI,1
+PHETCHABUN,shell,A.SRITHEP,1
+PHITSANULOK,shell,A.WATBOAT,1
+NAKHONSAWAN,shell,T.MUANG HAK A.PHAYUHA KHIRI,1
+LOPBURI,shell,T.NONGKHAEM  A.KHOKSAMRONG,1
+CHAINAT,shell,A.MUANG,1
+KAMPHAENGPHET,shell,A.MUANG,1
+CHAINAT,shell,T.BANKLOY A.MUANG,1
+KAMPHAENGPHET,shell,A.MUEANG,1
+SUKHOTHAI,shell,A.MUANG,1
+UTTARADIT,shell,T.PHAYA MAEN A.PHICHAI,1
+SINGBURI,shell,A.INTRBURI,1
+SINGBURI,shell,T.INBURI A.INBURI,1
+LOPBURI,shell,T.DI LANG A.PHATTHANA NIKHOM,1
+LOPBURI,shell,A.MUANG,2
+UTHAITHANI,shell,A.BAN RAI,1
+LOPBURI,shell,T.THANONYAI A.MUEANG,1
+LOPBURI,shell,T. BANGKOO.,1
+SUKHOTHAI,shell,A.SAWANKHALOK,1
+SARABURI,shell,T.NA YAO A.PHRA PHUTTHABAT,1
+SINGBURI,shell,T.BANMO A.PROMBURI,1
+KANCHANABURI,shell,A.THONGPHAPHOOM,1
+KANCHANABURI,shell,T.TAMAKAM A.MUANG,1
+KANCHANABURI,shell,T.BANNUE A.MUANG,1
+KANCHANABURI,shell,T.PAKPRAK,1
+KANCHANABURI,shell,A.THAMUANG,1
+SUPHANBURI,shell,T.AUTHONG A.AUTHONG,1
+KANCHANABURI,shell,T.THAMAKA A.THAMAKA,1
+SUPHANBURI,shell,A.SAMCHOOK,1
+SUPHANBURI,shell,A.MUANG,2
+SUPHANBURI,shell,T.TAPEEPLEANG A.MUANG,1
+NAKHONPATHOM,shell,T.WANGTAKU A.MUEANG,1
+NAKHONPATHOM,shell,T.DONTUM A.BANGLEN,1
+PHRANAKHONSIAYUTT,shell,T.SAM-MUEANG A.LAT-BUA-LUANG,1
+NAKHONPATHOM,shell,T.BANGPHASI A.BANGLEN,1
+NAKHONPATHOM,shell,A.NAKHON CHAISRI,1
+ANGTHONG,shell,T.POSRA A.MUANG,1
+PHRANAKHONSIAYUTT,shell,A.MAHARAJ,1
+PATHUMTHANI,shell,T.NAMAI A.LADLUMKAEW,1
+PHRANAKHONSIAYUTT,shell,T.CHAOPLUK  A.MAHARAT,1
+NAKHONPATHOM,shell,T.SONGKHAN ONG A.SAMPRAN,1
+PHRANAKHONSIAYUTT,shell,T.MAHARAT A.MAHARAT,1
+NAKHONPATHOM,shell,T.BANGTOEI A.SAMPRAN,1
+SONGKHLA,shell,A.SADAO,1
+SONGKHLA,shell,T.NA THAWI A.NA THAWI,1
+SONGKHLA,shell,T.SABAYOI A.SABAYOI,1
+NONTHABURI,shell,T.BANGRAKPATTANA A.BANGBUATONG,1
+NONTHABURI,shell,T.SOLTHONGHIN A.BANGYAI,1
+NONTHABURI,shell,T.BANGRAK PATTANA A.BANGBUATHONG,1
+NONTHABURI,shell,T.THA IT A.PAK KRET,1
+NONTHABURI,shell,T.TAIT A.PAKKRED,1
+NONTHABURI,shell,T.BANGMUANG A.BANGYAI,1
+NONTHABURI,shell,T.BANGKUWIENG A.BANGKRUAY,1
+NONTHABURI,shell,T.LAHARN A.BANGBUATHONG,1
+NONTHABURI,shell,T.KHLONGPHRAUDOM  A.PAKKRET,1
+NONTHABURI,shell,T. THASAI A.MUANG,1
+BANGKOK,shell,KW.SALATHAMMASOP KT.THAWEEWATTANA,1
+PATHUMTHANI,shell,T.BANG KHU WAT A.MUEANG PATHUM THAN,1
+NONTHABURI,shell,T.PAKKRET A.PAKKRET,1
+NONTHABURI,shell,T.BANMAI A.PAKKRET,1
+NONTHABURI,shell,A.PAKKRET,1
+BANGKOK,shell,KW.BANGPAI KT.BANGKHAE,1
+NARATHIWAT,shell,T.PALURU  A.SUNGAIPADI,1
+NARATHIWAT,shell,A.MUANG,1
+NARATHIWAT,shell,T.RUESO-OK A.RUESO,1
+NAKHONNAYOK,shell,T.KHLONG YAI A.ONGKHARAK,1
+PATHUMTHANI,shell,A.TANYABURI,1
+PATHUMTHANI,shell,T.BUENGKHAMPHROI A.LAMLUKKA,1
+PATHUMTHANI,shell,T.KHLONG SI A.KHLONG LUANG,2
+PHRANAKHONSIAYUTT,shell,T.CHA-MAEP A.WONGNOI,1
+PATHUMTHANI,shell,T.LUMLOOKA A.LUMLUKKA,1
+PATHUMTHANI,shell,T.KHLONGSAM A.KHLONGLUANG,1
+PATHUMTHANI,shell,T.BUENGKHAMPHROI A.LUMLUKKA,1
+BANGKOK,shell,KW.KHOKFAET KT.NONGCHOK,1
+SARABURI,shell,T.WIHANDAENG A.WIHANDEANG,1
+PHRANAKHONSIAYUTT,shell,T.LAMSAI A.WANGNOI,2
+BANGKOK,shell,T.LUMTOYTING A.NONGJOK.,1
+PHRANAKHONSIAYUTT,shell,T.CHIENGRAKNOI A.BANGPAIN,1
+PHRANAKHONSIAYUTT,shell,A.WANGNOI,1
+PATHUMTHANI,shell,A.KLONGLUANG,1
+PATHUMTHANI,shell,PRACHATIPUD,1
+BANGKOK,shell,KW.SAENDAEP  KT.MINBURI,1
+PRACHINBURI,shell,T.BANSANG A.BANSANG,1
+PATHUMTHANI,shell,T.PRACHATIPAT A.THANYABURI,1
+PHRANAKHONSIAYUTT,shell,A.BANGPRA-IN,1
+SARABURI,shell,T.HUAIKHAMIN A.NONGKHAE,1
+SARABURI,shell,T.HUAI SAI A.NONGKHAE,1
+PATHUMTHANI,shell,T.BAN KLANG A.MUEANG PATHUM THANI,1
+PHRANAKHONSIAYUTT,shell,T.SAMBADIT A.UTHAI,1
+BANGKOK,shell,KW. LAMPLATHIO  KT.LATKRATBANG,1
+PATHUMTHANI,shell,T.BANKLANG A.MUANG,1
+PHRANAKHONSIAYUTT,shell,A.BANGPAIN,1
+BANGKOK,shell,KW. KHLONG SAM PRAWET KT.LAT KRABAN,1
+PATHUMTHANI,shell,T.BANGKRABUE A.SAMKOK,1
+BANGKOK,shell,KW.KHLONG SAMPRAWET KT.LATKRABANG,1
+BANGKOK,shell,KW.THAPYAO KT.LADKRABANG,1
+SURATTHANI,shell,T.KOPHANGAN A.KOPHANGAN,1
+SURATTHANI,shell,T. BOPHUT  A. KOSAMUI,1
+SURATTHANI,shell,T.TALINGNGARM A.SAMUI,1
+SURATTHANI,shell,T.THAUTHAE A.KANCHANADIT,1
+NAKHONSITHAMMARAT,shell,T.SICHON A.SICHON,1
+NAKHONSITHAMMARAT,shell,A.SICHON,1
+SURATTHANI,shell,A.KANCHANADIT,1
+SURATTHANI,shell,T.THATHONGMAI  A.KANCHANADIT,1
+SURATTHANI,shell,T.THUNG A.CHAIYA,1
+SURATTHANI,shell,T.TALAD A.MUANG,1
+SURATTHANI,shell,T.KLONGPHA A.THA CHANA,1
+SURATTHANI,shell,T.WIANG A.CHAIYA,1
+SURATTHANI,shell,T.MAKHAM TIA A.MUEANG,1
+SURATTHANI,shell,T.BANGSAI A.MUEANG,1
+SURATTHANI,shell,T.MAKHAM TIA A.MUEANG SURAT THANI,1
+SURATTHANI,shell,T.MAKARMTIA A.MUANG,1
+SURATTHANI,shell,A.MUANG,1
+SURATTHANI,shell,T.WAT PRADU A.MUENG,1
+CHUMPHON,shell,T.LAMAE A.LAMAE,1
+CHUMPHON,shell,A.LUNGSUAN,1
+CHUMPHON,shell,T.NAKA A.LANGSUAN,1
+CHUMPHON,shell,T.NAKHA A.LANGSUAN,1
+SURATTHANI,shell,A.PHUNPHIN,1
+NAKHONSITHAMMARAT,shell,A.MUEANG,1
+SURATTHANI,shell,T.THARUEA  A.BANNADOEM,1
+NAKHONSITHAMMARAT,shell,T.THASALA  A.THASALA,1
+SURATTHANI,shell,T.THARONGCHANG A.PHUNPHIN,1
+SURATTHANI,shell,T.BANGMADUEA A.PHUNPHIN,1
+NAKHONSITHAMMARAT,shell,T.THASALA A.THASALA,1
+SURATTHANI,shell,T.SAPTHAVEE A.BAANNADERM,1
+CHUMPHON,shell,T.TAKDAD A.MUANG,1
+CHUMPHON,shell,T.KHUN KRATING A.MUANG,1
+CHUMPHON,shell,T.WANGMAI A.MUEANG,1
+SURATTHANI,shell,T.KHIANSA A.KHIANSA,1
+SURATTHANI,shell,T.KHUAN SI A.BAN NA SAN,1
+CHUMPHON,shell,T.HATPANKRAI A.MUANG,1
+SURATTHANI,shell,T.BANSONG A.WIANGSA,1
+SURATTHANI,shell,T.WIENGSRA A.WIENGSRA,1
+NAKHONSITHAMMARAT,shell,A.MUANG,2
+NAKHONSITHAMMARAT,shell,T.THAWANG A.MUANG,1
+NAKHONSITHAMMARAT,shell,T.PAKNAKHON A.MUEANG,1
+NAKHONSITHAMMARAT,shell,T. PHOSADET  A.MUEANG,1
+NAKHONSITHAMMARAT,shell,T.PHOSADEJ A.MAUNG NAKORN SI THAMMA,1
+NAKHONSITHAMMARAT,shell,T.BANGJAK A.MUANG,1
+SURATTHANI,shell,T.TUNGLAUNG A.WAINGSA,1
+RANONG,shell,T.BANGRIN A.MUEANG,1
+NAKHONSITHAMMARAT,shell,T.NAPHUR A.PHRAPHROM,1
+NAKHONSITHAMMARAT,shell,T.PAKPANANG,1
+SURATTHANI,shell,T.TONYUAN A.PHANOM,1
+PRACHUAPKHIRIKHAN,shell,A.MUEANG,1
+PRACHUAPKHIRIKHAN,shell,T.PRACHUAP KHIRI KHAN A.MUEANG,1
+PRACHUAPKHIRIKHAN,shell,T.HUAYANG A.TUPSAKAE,1
+PRACHUAPKHIRIKHAN,shell,T.RONTHONG A.BANGSAPARN,1
+NAKHONSITHAMMARAT,shell,T.TUNGPHO A.CHULAPORN,1
+NAKHONSITHAMMARAT,shell,A.CHAULAPORN,1
+NAKHONSITHAMMARAT,shell,T.RONPIBOON A.RONPIBOON,1
+NAKHONSITHAMMARAT,shell,T.CHAMAI A.THUNGSONG,1
+NAKHONSITHAMMARAT,shell,T.CHAMAI A.TUNGSONG,1
+NAKHONSITHAMMARAT,shell,A.THUNGSONG,1
+NAKHONSITHAMMARAT,shell,T.NONG HONG A.THUNGSONG,1
+TRANG,shell,T.KHUAN MAO A.RATSADA,1
+NAKHONSITHAMMARAT,shell,A.CHIANYAI,1
+NAKHONSITHAMMARAT,shell,T.THUNGSONG  A.NABON,1
+NAKHONSITHAMMARAT,shell,T.PRIK A.THUNGYAI,1
+TRANG,shell,T.NONGCHANGLAEN A.HUAIYOT,1
+NAKHONSITHAMMARAT,shell,A.CHAWANG,1
+PHATTHALUNG,shell,T.PHANANGTUNG A.KHUANKHANUN,1
+KRABI,shell,T.LAM THAP A.LAM THAP,1
+PHATTHALUNG,shell,T.PRANGMU A.MUEANG,1
+PHATTHALUNG,shell,T.KHAO CHIAK A.MUEANG PHATTHALUNG,1
+PHATTHALUNG,shell,A.MUANG,1
+TRANG,shell,T.BANPHO A.MUANGTRANG,1
+TRANG,shell,T.TABTIANG A.MUANGTRANG,1
+TRANG,shell,T.BANKHUAN A.MUANG,1
+PHATTHALUNG,shell,T.KUANKANOON A.KAOCHAISON,1
+KRABI,shell,T.KLONGTOMTAI A.KLONG TOM,1
+TRANG,shell,T.THAPHAYA A.PALIEN,1
+KRABI,shell,T.KHLONG YANG A.KO LANTA,1
+KRABI,shell,T.NUAKLONG A.NUAKLONG,1
+KRABI,shell,T.PAKNAM A.MUANGKRABI,1
+KRABI,shell,A.MUANG,1
+KRABI,shell,A.MUANGKRABI,1
+SAMUTPRAKAN,shell,T.BANGYAPRAEK A.PRAPADAENG,1
+SAMUTPRAKAN,shell,T.SAMRONGTAI A.PRAPADEANG,1
+SAMUTPRAKAN,shell,T.SAMRONGNUA A.MUANG.,2
+BANGKOK,shell,KW.BANGNA KT.BANGNA.,1
+SAMUTPRAKAN,shell,T.TAEPHARAK A.MUANG.,1
+SAMUTPRAKAN,shell,T.PAKNAM A.MUANG.,1
+BANGKOK,shell,PRAKANONG,1
+SAMUTPRAKAN,shell,T.TAEPARAK A.MUANG,1
+BANGKOK,shell,KW.PRAKANONGTAI KT.PRAKANONG,1
+BANGKOK,shell,KW.BANGNA KT.BANGNA,1
+SAMUTPRAKAN,shell,T.BANGMUANG A.MUANG.,1
+BANGKOK,shell,KW.PHRA KHANONG NUEA KT.VADHANA,1
+SAMUTPRAKAN,shell,T.PAKNAM A.MAUNG.,1
+BANGKOK,shell,KW.BANGJAK KT.PRAKANONG,1
+SAMUTPRAKAN,shell,T.TAIBARN A.MUANG.,1
+BANGKOK,shell,KW.ONNUCH KT.SUANLUANG,1
+BANGKOK,shell,KW.NONGBORN KT.PRAWET,1
+SAMUTPRAKAN,shell,T.BANG KAEW A.BANG PHLI,1
+BURIRAM,shell,T. BANBUA A.MUENAG,1
+BURIRAM,shell,T. KRASUNG A.MUANG.,1
+BURIRAM,shell,A.MUEANG,1
+SURIN,shell,T.NAIMUANG A.MUANG,1
+MAHASARAKHAM,shell,T.PALARN A.PAYAKAPOOMAISAI.,1
+MAHASARAKHAM,shell,T.MUNAGTAO A.PAYAKKAPOOMPISAI,1
+SURIN,shell,T.NONG KHWAO A.SIKHORAPHUM,1
+SURIN,shell,T.SANGKHA A.SANGKHA,1
+SURIN,shell,A.RATTANABURI,1
+ROIET,shell,T. KASETWISAI A.KASETWISAI,1
+ROIET,shell,T.NONTAN A.MUEANG,1
+SISAKET,shell,T.NONG KHROK A.MUEANG SISAKET,1
+ROIET,shell,T.DONG LAN A.MUANG,1
+PHANGNGA,shell,T.TUMNUAMPHUD A.MUENGPHANGNGA,1
+PHANGNGA,shell,T.THAMNAMPHUT A.MUANG,1
+PHANGNGA,shell,T.MARUI A.THAPPUT,1
+PHANGNGA,shell,T.THAPPUD A.THAPPUD,1
+KRABI,shell,T.AOLUK NUA A.AOLUK,1
+PHANGNGA,shell,T. THAIMUANG A.THAIMUANG,1
+PHANGNGA,shell,T.LAM KAEN A.THAIMUANG,1
+PHUKET,shell,T.MAIKAOW A.TALANG,1
+PHUKET,shell,T.THEPKRASATTRI A.THALANG,1
+PHUKET,shell,T.TEPKASATTREE A.TALANG,1
+PHUKET,shell,T.SRISOONTHORN A.TALANG,1
+PHUKET,shell,T.KOH KAEW A.MUANGPHUKET,1
+PHUKET,shell,T.RUKSADA A.MUEANG,1
+PHUKET,shell,T.KATHU A.KATHU,1
+PHUKET,shell,T.RAWAI A.MUEANG,1
+PHUKET,shell,T.WICHIT A.MUANG,1
+PHUKET,shell,T.TALADYAI A.MUENGPHUKET,1
+PHUKET,shell,A.MUANGPHUKET,1
+PHUKET,shell,T.WICHIT A.MUANGPHUKET,1
+PHUKET,shell,T.WICHIT A.MUEANG,1
+PHUKET,shell,T.RAWAI A.MUANGPHUKET,1
+CHIANGMAI,shell,T.NONGPHUENG  A.SARAPHI,1
+CHIANGMAI,shell,A.MUANG,2
+CHIANGMAI,shell,T.TONPAO A.SANKAMPHAENG,1
+CHIANGMAI,shell,T.WATKAD A.MUANG,1
+CHIANGMAI,shell,T.WATKED A.MUANG,1
+CHIANGMAI,shell,A.MUEANG,1
+CHIANGMAI,shell,T.SANSAINOI A.SANSAI,1
+CHIANGMAI,shell,T.SUTHEP A.MUANG,1
+CHIANGMAI,shell,T.NONG KWAI A.HANG DONG,1
+CHIANGMAI,shell,T.HANGDONG A.HANGDONG,1
+LAMPHUN,shell,T.UMONG A. MUANG,1
+LAMPHUN,shell,T.MAKEUAJAE A.MUANG,1
+CHIANGMAI,shell,T.MAESA A.MAERIM,1
+LAMPHUN,shell,T.PAKSAK A.MUEANG,1
+CHIANGMAI,shell,T.KHELAKE A.MAETAENG,1
+LAMPANG,shell,T.HANGCHT A.HANGCHAT,1
+LAMPANG,shell,A.MUANG,1
+LAMPANG,shell,T.CHOMPOO  A.MUANG,1
+LAMPANG,shell,T. CHOMPHU  A.MUEANG,1
+CHIANGMAI,shell,T.HANGDONG A.HOD,1
+LAMPANG,shell,T.PRABATH A.MUANG,1
+LAMPANG,shell,T.LUANGTAI A.NGAO,1
+PHAYAO,shell,T.MAETAM A.MUANG,1
+LAMPANG,shell,T.MAE-PA A.THOEN,1
+LAMPANG,shell,T.LOMRAED A.THOEN,1
+PHRAE,shell,T.TUNGHOONG A.MUANGPRAE,1
+PHRAE,shell,T.MAEJUA A.DENCHAI,1
+PHAYAO,shell,T.KHUAN A.PONG,1
+PHAYAO,shell,A.CHIANG KHAM,1
+CHIANGRAI,shell,A.MUANGCHIANGRAI,1
+SUKHOTHAI,shell,T.PA NGUI A.SRI SATCHANALAI,1
+UTTARADIT,shell,T.PASAO A.MUANG,1
+NAN,shell,T.KLANG WIANG A.WIANG SA,1
+NAN,shell,T.KLANGVIENG A.VIENGSA,1
+NAN,shell,T.DOOTAI A.MUANGNAN,1
+NAN,shell,T.KLANG WIANG A.WIANGSA,1
+NAN,shell,A.MUANGNAN,1
+NAN,shell,T.PUA A.PUA,1
+TAK,shell,A.MUANG,1
+TAK,shell,T.NAMRUEM A.MUANG,1
+TAK,shell,A.MAESOD,2
+CHACHOENGSAO,shell,T.PLANGYAO A.PLANGYAO,1
+CHACHOENGSAO,shell,T.PLAENGYAO A.PLAENGYAO,1
+CHACHOENGSAO,shell,T.SAMETNEUA  A.BANGKHLA,1
+CHACHOENGSAO,shell,T.BANG PHAI A.MUEANG CHACHOENGSAO,1
+CHACHOENGSAO,shell,T.BANGTEENPED A.MUANG,1
+CHACHOENGSAO,shell,A.MUANG,1
+CHACHOENGSAO,shell,T.KHAOHINSORN A.PHANOMSARAKAM,1
+CHACHOENGSAO,shell,T.WANGTAKEAN  A.MUANG,1
+PRACHINBURI,shell,T.KHOKTHAI   A.SI MAHOSOT,1
+PHRANAKHONSIAYUTT,shell,T.PHACHI A.PHACHI,1
+SARABURI,shell,T.BANGKAMOD A.BANMOR,1
+SARABURI,shell,T.SUAN DOK MAI A.SAO HAI,1
+PHRANAKHONSIAYUTT,shell,A.PHRA NAKHON SRI AYUTHAYA,1
+SARABURI,shell,T.PAKPHRIAO   A.MUEANG,1
+PHRANAKHONSIAYUTT,shell,T.BANPOM A.PHRANAKHON SRI AYUTHAUYA,1
+SARABURI,shell,T.DAORUENG A.MUEANG SARABURI,1
+PHRANAKHONSIAYUTT,shell,T.PAKARN A.PRANAKORNSRIAYUTTHAYA,1
+SARABURI,shell,T.TALINGCHAN A.MUANGSARABURI,1
+SARABURI,shell,T.TRANKASEM A.PRAPUTTABART,1
+SARABURI,shell,T.NAPHRALAN   A.CHALOEMPHARAKIAT,1
+PATHUMTHANI,shell,T.BANGPHONUEA A.SAMKHOK,1
+SONGKHLA,shell,A.CHANA,2
+SONGKHLA,shell,T.NAMOM A.NAMOM,1
+SONGKHLA,shell,T.HATYAI A.HATYAI,1
+SONGKHLA,shell,A.HAADYAI,5
+SONGKHLA,shell,A.MUANG,2
+SONGKHLA,shell,T. BORYANG A.MUANG,1
+SONGKHLA,shell,T.KHUANLANG  A.HATYAI,1
+SONGKHLA,shell,T.THA CHANG A.BANG KLAM,1
+SONGKHLA,shell,T.TACHANG,1
+SONGKHLA,shell,A.SINGHANAKORN,2
+PATTANI,shell,T.THAKAMCHAM A.NONGJIK,1
+PATTANI,shell,A.NONGJIK,1
+PATTANI,shell,A.MUANG,1
+SATUN,shell,T.THUINGNUI A.KHUANKALONG,1
+YALA,shell,T.YUPO  A.MUEANGYALA,1
+NARATHIWAT,shell,T.LUI BO SAWO A.BA CHO,1
+YALA,shell,A.MUANG,1
+SATUN,shell,T.THAPHAE A.THAPHAE,1
+YALA,shell,T.KRONG PINANG A.KRONG PINANG,1
+YALA,shell,T.BU DI A.MUEANG YALA,1
+PATTANI,shell,T.LANGA A.MAYO,1
+YASOTHON,shell,T.TATTHONG  A.MUEANG,1
+YASOTHON,shell,T.NAM KHAM YAI A.MUEANG YASOTHON,1
+AMNATCHAROEN,shell,T.BUNG A.MUANG,1
+SISAKET,shell,T.PHON KHEWA A.MUEANG SI SA KET,1
+UBONRATCHATHANI,shell,T.CHAERAMAE A.MUEANG,1
+NAKHONPHANOM,shell,T.THAT PHANOM A.THAT PHANOM,1
+UBONRATCHATHANI,shell,T.KHULU A.TRAKANPUEDPHOL,1
+UBONRATCHATHANI,shell,T.NAIMUANG A.MUANG,2
+UBONRATCHATHANI,shell,T.NONEPUENG A.WARINCHAMLAP,1
+UBONRATCHATHANI,shell,T.VARINCHAMRAB A.VARINCHAMRAB,1
+MUKDAHAN,shell,T.MUKDAHAN A.MUANG,1
+SISAKET,shell,T.SAMRONGPLAN A.PRAIBUNG.,1
+SISAKET,shell,T.CHANYAI A.KANTARALUCK.,1
+NAKHONPHANOM,shell,T.NA KAE  A.NA KAE,1
+UBONRATCHATHANI,shell,T.SRIWICHIAN A.NAMYEUN.,1
+CHANTHABURI,shell,T.CHANTHANIMIT A.MUANG,1
+CHANTHABURI,shell,T.WATMAI A.MUANG,1
+CHANTHABURI,shell,T.THACHANG A.MUANG,1
+CHANTHABURI,shell,T.TALARD A.MUANG,1
+CHANTHABURI,shell,T.KLONGNARAI A.MUANG.,1
+CHANTHABURI,shell,T.CHANTHANIMIT,1
+CHANTHABURI,shell,T.THACHANG A.MUEANG,1
+CHANTHABURI,shell,T.TAHCHANG A.MUANG,1
+CHANTHABURI,shell,T.MAKHAM A.MAKHAM,1
+CHANTHABURI,shell,T.WAN YAO A.KHLUNG,1
+CHANTHABURI,shell,T.WANGMAI A.NAYAIARM,1
+RAYONG,shell,T.THUNGKHAIKIN A.KLAENG,1
+RAYONG,shell,T.THANGKWIAN A.KLAENG,1
+TRAT,shell,T.WANGKRAJAE A.MUANG,1
+TRAT,shell,T.NHONGSAMED A.MUANG,1
+TRAT,shell,T.MAI ROOD A.KHLONG YAI,1
+SAKAEO,shell,T.KHAOCHAKAN  A.KHAOCHAKAN,1
+SAKAEO,shell,T.ARANYAPRATES A.ARANYAPRATES,1
+SAKAEO,shell,T.BANMAINONGSAI A.ARANYAPRATHET,1
+PRACHINBURI,shell,A.KABINBURI,1
+SAMUTPRAKAN,shell,T.BANGPLEEYAI A.BANGPLEE.,1
+SAMUTPRAKAN,shell,T.BANGPLEEYAI  A.BANGPHLI,1
+SAMUTPRAKAN,shell,T.BANG PHLI YAI A.BANG PHLI,1
+SAMUTPRAKAN,shell,T.BANGKAW A.BANGPLEE,1
+SAMUTPRAKAN,shell,A.BANGPLEE.,1
+BANGKOK,shell,KW.PRAVEJ KT.PRAVEJ,1
+SAMUTPRAKAN,shell,T. RACHATHEWA A.BANGPHLI,1
+BANGKOK,shell,SUANLUANG.,1
+BANGKOK,shell,T.PRAVEJ A.PRAVEJ,1
+UNKNOWN,sixt,Nan,1
+UNKNOWN,sixt,Bangkok,3
+UNKNOWN,sixt,Phuket,2
+UNKNOWN,sixt,Muang,1
+UNKNOWN,sixt,"Hat Yai, Songkhla",1
+UNKNOWN,sixt,Krabi,1
+UNKNOWN,sixt,Surat Thani,2
+UNKNOWN,sixt,Rayong,1
+UNKNOWN,sixt,Khon Kaen,1
+UNKNOWN,sixt,Udon Thani,1
+UNKNOWN,sixt,Chiang Mai,1
+UNKNOWN,sixt,Samut Prakan,1
+UNKNOWN,subway_th,unknown,75
+UNKNOWN,superdry,Samut Prakan Bang Chalong,1
+UNKNOWN,superdry,Phuket Phuket City,1
+UNKNOWN,superdry,Chon Buri Bang Lamung District,1
+UNKNOWN,superdry,Bangkok Khet Chatucha,1
+UNKNOWN,superdry,Bangkok Sanambin Don Mueang,1
+UNKNOWN,superdry,Bangkok Pathum Wan,1
+UNKNOWN,superdry,Bangkok Bang Phli District,1
+UNKNOWN,superdry,Bangkok Pathum Wan District,1
+UNKNOWN,superdry,Bangkok Watthana,1
+UNKNOWN,timberland,Bangkok,6
+UNKNOWN,timberland,Pattaya,1
+UNKNOWN,timberland,Phuket,1
+UNKNOWN,timberland,Prajeaubkerikan,1
+UNKNOWN,timberland,Surajthani,1
+UNKNOWN,united_colors_of_benetton,BANGKOK,1
+UNKNOWN,visa,PRACHIN BURI,150
+UNKNOWN,visa,SAMUT SAKHON,740
+UNKNOWN,visa,CHON BURI,1938
+UNKNOWN,visa,CHUMPHON,191
+UNKNOWN,visa,KRABI,308
+UNKNOWN,visa,SURAT THANI,841
+PHICHIT,visa,PHICHIT,41
+MAEHONGSON,visa,MAE HONG SON,15
+UNKNOWN,visa,MAE HONG SON,60
+TAK,visa,TAK,51
+UNKNOWN,visa,TAK,142
+CHIANGMAI,visa,CHIANG MAI,168
+UNKNOWN,visa,CHIANG MAI,975
+KANCHANABURI,visa,KANCHANABURI,77
+UNKNOWN,visa,PHANGNGA,77
+UNKNOWN,visa,PHANG NGA,39
+UNKNOWN,visa,PHANG-NGA,39
+UNKNOWN,visa,KARNCHANABURI,100
+PHANGNGA,visa,PHANG-NGA,39
+PHANGNGA,visa,THAI MUEANG,2
+UNKNOWN,visa,KANCHANABURI,205
+UNKNOWN,visa,PHUKET,926
+PHUKET,visa,PHUKET,41
+TAK,visa,MAE SOT,1
+PHUKET,visa,MUEANG PHUKET,4
+PHUKET,visa,KATHU,2
+CHIANGMAI,visa,CHOM THONG,1
+PHUKET,visa,THALANG,1
+PHUKET,visa,MUEANG,2
+UNKNOWN,visa,LAMPHUN,192
+RANONG,visa,RANONG,23
+PUKET,visa,PUKET,1
+CHANGWATPUKET,visa,WICHIT,1
+LAMPHUN,visa,LAMPHUN,30
+PHANGNGA,visa,MUEANG,1
+SURATTHANI,visa,SURAT THANI,129
+UNKNOWN,visa,RANONG,64
+RANONG,visa,MUEANG,1
+UNKNOWN,visa,SONGKHLA,633
+CHIANGMAI,visa,MUEANG CHIANG MAI,3
+UNKNOWN,visa,CHIANGMAI,5
+CHIANGMAI,visa,MEUANG CHIANG MAI,2
+CHANGWATRANONG,visa,BANG NON,1
+CHIANGMAI,visa,MUEANG,4
+CHIANGMAI,visa,MEAUNG CHIANG MAI,1
+LAMPHUN,visa,MUEANG LAMPHUN,1
+CHIANGMAI,visa,SAN SAI,1
+KRABI,visa,KRABI,49
+CHANGWATLAMPUN,visa,WIANG YONG,1
+CHUMPHON,visa,CHUMPHON,65
+CHIANGMAI,visa,DOISAKET,1
+KRABI,visa,AO LUEK,1
+CHIANGMAI,visa,FANG,1
+LAMPHUN,visa,BAN THI,1
+LAMPANG,visa,LAMPANG,90
+UNKNOWN,visa,LAMPANG,247
+TAK,visa,MUEANG TAK,1
+TAK,visa,WANG CHAO,2
+UNKNOWN,visa,NAKHON SI THAMMARAT,453
+SURATTHANI,visa,BAN TA KHUN,1
+KRABI,visa,MUEANG KRABI,1
+UNKNOWN,visa,BANGKOK,7693
+KAMPHAENGPHET,visa,KAMPHAENG PHET,52
+PHRAE,visa,PHRAE,59
+UNKNOWN,visa,CHIANG RAI,382
+CHIANGRAI,visa,CHIANG RAI,86
+SUPHANBURI,visa,SUPHAN BURI,67
+UNKNOWN,visa,KAMPHAENG,88
+UNKNOWN,visa,KAMPHAENG PHET,99
+CHUMPHON,visa,MUEANG CHUMPHON,1
+CHOMPON,visa,MUEANG CHUMPHON,1
+NAKHONSAWAN,visa,NAKHON SAWAN,94
+CHANGWATCHUMPON,visa,CHUMPON,1
+UNKNOWN,visa,RATCHABURI,369
+KANCHANABURI,visa,MUEANG,3
+SUKHOTHAI,visa,SUKHOTHAI,76
+UNKNOWN,visa,NAKHON SAWAN,311
+RATCHABURI,visa,SUAN PHUENG,1
+RATCHABURI,visa,RATCHABURI,70
+UNKNOWN,visa,SUKHOTHAI,116
+UNKNOWN,visa,ANG THONG,59
+CHANGWATKAMPANGPET,visa,ANG TONG,1
+UNKNOWN,visa,PHRAE,111
+KAMPHAENGPHET,visa,MUEANG KAMPHAENG PHET,2
+CHANGWATKAMPANGPET,visa,KAMPANG PET,1
+PRACHUAPKHIRIKHAN,visa,PRACHUAP KHIRI KHAN,51
+UTHAITHANI,visa,UTHAI THANI,21
+UNKNOWN,visa,PRACHUAP KHIRI KHAN,358
+UDONTHANI,visa,UDON THANI,124
+SURATTHANI,visa,MUEANG SURAT THANI,4
+UNKNOWN,visa,UTHAI THANI,57
+UNKNOWN,visa,UTHAITHANI,26
+SURATTHANI,visa,MEUANG SURAT THANI,1
+UNKNOWN,visa,SURATTHANI,2
+UNKNOWN,visa,SUPHANBURI,82
+SURATTANI,visa,SURAT TANI,3
+UNKNOWN,visa,TRANG,205
+UNKNOWN,visa,PHAYAO,127
+NAKHONSITHAMMARAT,visa,NAKHON SI THAMMARAT,132
+UNKNOWN,visa,CHIANGRAI,1
+KANCHANABURI,visa,MUEANG KANCHANABURI,1
+UDONTHANI,visa,MUEANG UDON THANI,2
+SURATTHANI,visa,WIANG SA DISTRICT,1
+PRACHUAPKHIRIKHAN,visa,BANG SAPHAN,1
+CHIANGRAI,visa,MAE SAI,1
+PHAYAO,visa,PHAYAO,33
+CHIANGRAI,visa,MEUANG CHIANG RAI,1
+TRANG,visa,TRANG,58
+RATCHABURI,visa,CHOM BUENG,1
+KANCHANABURI,visa,THA MUANG,2
+TRANG,visa,SIKAO,1
+PAYAO,visa,PAYAO,1
+UNKNOWN,visa,SUPHAN BURI,157
+UNKNOWN,visa,NONG KHAI,143
+UNKNOWN,visa,PHETCHABURI,250
+UNKNOWN,visa,UBON RATCHATHANI,521
+SUKHOTHAI,visa,SAWANKHALOK,1
+UNKNOWN,visa,PATHUM THANI,1342
+SUKOTAI,visa,SUKOTAI,1
+PHETCHABURI,visa,PHETCHABURI,65
+UNKNOWN,visa,CHAI NAT,64
+RATCHABURI,visa,MUEANG,2
+TRANG,visa,KANTANG,1
+RATCHABURI,visa,BAN PONG,5
+PRACHUAPKHIRIKHAN,visa,THAP SAKAE,1
+RATCHABURI,visa,PHOTHARAM,4
+TRANG,visa,MUEANG,1
+UTTARADIT,visa,UTTARADIT,56
+UNKNOWN,visa,CHAINART,22
+CHAINAT,visa,CHAI NAT,29
+PHITSANULOK,visa,PHITSANULOK,88
+RATCHABURI,visa,PAK THO,1
+TRANG,visa,THAP THIANG,1
+UNKNOWN,visa,UTTARADIT,119
+CHANGWATRATCHABURI,visa,RATCHABURI,1
+TRANG,visa,HUAI YOT,1
+UNKNOWN,visa,NAKHON PATHOM,675
+RATCHABURI,visa,MUEANG RATCHABURI,1
+NAKHONSITHAMMARAT,visa,THUNG SONG,1
+TRANG,visa,YAN TA KHAO,2
+NAKHONSITHAMMARAT,visa,THUNGSONG,3
+SUPHANBURI,visa,U THONG,2
+RATCHABURI,visa,BANGPONG,1
+NAKHONPATHOM,visa,NAKHON PATHOM,67
+UNKNOWN,visa,PHITSANULOK,334
+NAKHONSAWAN,visa,MUEANG,3
+UNKNOWN,visa,SAMUT SONGKHRAM,77
+UNKNOWN,visa,PHRA NAKHONSI AYUTTHAYA,113
+UNKNOWN,visa,PHRA NAKHON SI AYUTTHAYA,457
+UNKNOWN,visa,PHICHIT,125
+SUPHANBURI,visa,SONG PHI NONG,2
+CHAINAT,visa,HUNKHA,1
+UNKNOWN,visa,PHRA NAKHON SI AYUTTAYA,141
+PRA,visa,PRA,1
+SAMUTSONGKHRAM,visa,SAMUT SONGKHRAM,28
+SATUN,visa,SATUN,22
+UNKNOWN,visa,SATUN,88
+CHAINAT,visa,HANKHA,1
+SURATTHANI,visa,KO PHA-NGAN,4
+PHETBURI,visa,MUEANG PHETCHABURI,1
+RATCHABURI,visa,DAMNEON SADUAK,1
+UNKNOWN,visa,SURIN,292
+NAKHONPATHOM,visa,MUEANG,4
+NAKHONSITHAMMARAT,visa,LAN SAKA,1
+SAMUTSONGKHRAM,visa,MEAUNG SAMUT SONGKHARM,1
+PHETBURI,visa,MEAUNG PHET BURI,1
+NAKHONPATHOM,visa,KAMPHAENG SAEN,1
+PRACHUAPKHIRIKHAN,visa,HUA HIN,2
+CHANGWATPRACHUAPKIRIKAN,visa,HUA HIN,1
+PHETBURI,visa,CHA-AM,2
+UNKNOWN,visa,SARABURI,460
+UNKNOWN,visa,SAMUTSONGKHRAM,2
+UNKNOWN,visa,NAKHON RATCHASIMA,1078
+PHATTHALUNG,visa,PHATTHALUNG,47
+RATCHABURI,visa,BANG PHAE,1
+NAKONSAWAN,visa,NAKON SAWAN,1
+SUPHANBURI,visa,MUEANG,3
+UNKNOWN,visa,PHATTHALUNG,113
+NAKHONSAWAN,visa,MUEANG NAKHON SAWAN,3
+NAKONPATOM,visa,NAKON PATOM,1
+PITSANULOK,visa,PITSANULOK,3
+NAKORNSAWAN,visa,AMPHUR MUEANG,1
+CHAINAT,visa,MANOROM,1
+SUPHANBURI,visa,SAM CHUK,1
+RATCHABURI,visa,DAMNOEN SADUAK,1
+UNKNOWN,visa,NAKHONSAWAN,1
+NAKHONPATHOM,visa,MUEANG NAKHON PATHOM,1
+UNKNOWN,visa,NAKHONPATHOM,3
+NAKHONPATHOM,visa,MUEANG NAKHOM PATHOM,1
+CHAINAT,visa,MUANG CHAI NAT,1
+NAKHONPATHOM,visa,SAM PHRAN,10
+SUPANBURI,visa,SUPAN BURI,1
+NAKONSITAMMARAT,visa,NAKON SI TAMMARAT,1
+CHANGWATNAKONSITAMMARAT,visa,PO SATET,1
+SUPHANBURI,visa,SI PRACHAN,1
+PHITSANULOK,visa,MUEANG,1
+NAKHONSITHAMMARAT,visa,MUEANG NAKHON SI THAMMARAT,4
+SAMUTSAKHON,visa,BAN PHAEO,1
+SAMUTSAKHON,visa,SAMUT SAKHON,31
+SAMUTSAKHON,visa,MUEANG,12
+PHITSANULOK,visa,MEAUNG PHISANULOK,1
+PHITSANULOK,visa,MUEANG PHITSANULOK,2
+UNKNOWN,visa,7-ELEVEN THANON SAPHAN YAO,1
+NAKHONSITHAMMARAT,visa,MUEANG,2
+UNKNOWN,visa,NAKHONSRITHAMMARAT,1
+NAKHONSITHAMMARAT,visa,MEUANG NAKHAN SI THAMMARAT,1
+UNKNOWN,visa,PRACHINBURI,180
+NAKHONPATHOM,visa,BANG LEN,1
+ANGTHONG,visa,ANG THONG,16
+SINGBURI,visa,SING BURI,23
+UNKNOWN,visa,NAN,90
+SAMUTSAKON,visa,SAMUT SAKON,1
+NAKHONSITHAMMARAT,visa,CHA UAT,1
+UNKNOWN,visa,ANGTHONG,28
+SURATTHANI,visa,KO SAMUI,2
+PHICHIT,visa,MUEANG PHICHIT,1
+PICHIT,visa,PICHIT,1
+NAKHONPATHOM,visa,NAKHON CHAI SI,1
+UNKNOWN,visa,SING BURI,76
+UNKNOWN,visa,SAMUTSAKHON,2
+SAMUTSAKHON,visa,KRATHUM BAEN,9
+PHRANAKHONSIAYUTTHAYA,visa,LAT BUA LUANG,3
+PHRANAKHONSIAYUTTHAYA,visa,PHRA NAKHON SI AYUTTHAYA,69
+UNKNOWN,visa,NONTHABURI,1176
+PHRANAKHONSIAYUTTHAYA,visa,BANG SAI,2
+SAMUTSAKHON,visa,MUEANG SAMUT SAKHON,2
+NONTHABURI,visa,NONTHABURI,88
+PHATTHALUNG,visa,MUEANG PHATTHALUNG,1
+BANGKOK,visa,NONG KHAEM,3
+NONTHABURI,visa,SAI NOI,1
+NAKHONPATHOM,visa,PHUTTHAMONTHON,1
+NAKHONPATHOM,visa,PUTTHAMONTON,1
+PHRANAKHONSIAYUTTHAYA,visa,SENA,3
+NAKHONPATHOM,visa,SAMPRAN,2
+BANGKOK,visa,BANGKOK,440
+NONTHABURI,visa,BANGBUATHONG,2
+BANGKOK,visa,NONG KAM,1
+BANGKOK,visa,NONGKHAM,1
+SINGBURI,visa,SINGBURI,2
+SINGBURI,visa,MUEANG SING BURI,1
+UNKNOWN,visa,LOPBURI,126
+UNKNOWN,visa,SINGBURI,1
+NAN,visa,NAN,53
+CHONBURI,visa,CHON BURI,128
+PATHUMTHANI,visa,PATHUM THANI,78
+UNKNOWN,visa,LOP BURI,186
+BANGKOK,visa,BANG BON,5
+BANGKOK,visa,BANG KHAE,7
+NONTHABURI,visa,BANG BUA THONG,7
+NONTHABURI,visa,BANG YAI,5
+NAKHONSITHAMMARAT,visa,PAK PHANANG,1
+NONTHABURI,visa,BANG KRUAI,4
+LOPBURI,visa,LOP BURI,46
+BANGKOK,visa,BANG KHUN THIAN,1
+ANGTHONG,visa,MUEANG ANG THONG,1
+SAMUTPRAKARN,visa,SAMUT PRAKARN,60
+ANGTHONG,visa,MEAUNG ANGTHONG,1
+UNKNOWN,visa,AYUTTHAYA,14
+BANGKOK,visa,BANG KUN TIAN,2
+NONTHABURI,visa,PAK KRET,8
+BANGKOK,visa,PHASI CHAROEN,2
+NONTHABURI,visa,BANGKRUY,1
+BANGKOK,visa,CHOM THONG,1
+SONGKHLA,visa,SONGKHLA,144
+BANGKOK,visa,BANGKOK-NOI,1
+BANGKOK,visa,BANG PHLAT,2
+UNKNOWN,visa,SAMUTPRAKAN,484
+UNKNOWN,visa,SAMUT PRAKAN,1223
+BANGKOK,visa,BANGKOK NOI,3
+NONTABURI,visa,NONTABURI,6
+BANGKOK,visa,THON BURI,1
+NONTHABURI,visa,MUEANG,5
+BANGKOK,visa,THONBURI,1
+UNKNOWN,visa,SA KAEO,139
+UNKNOWN,visa,NAN ,1
+BANGKOK,visa,TON BURI,1
+BANGKOK,visa,BANGPLAD,1
+SAKONNAKHON,visa,SAKON NAKHON,61
+BANGKOK,visa,RAT BURANA,5
+BANGKOK,visa,KHLONG SAN,4
+BANGKOK,visa,PHRA NAKHON,4
+NONTHABURI,visa,MEUANG NONTHABURI,2
+UNKNOWN,visa,BUDDY LODGE HOTEL,1
+BANGKOK,visa,TUNG KRU,1
+UNKNOWN,visa,7-ELEVEN SAMSEN 2 POINT 2,1
+BANGKOK,visa,KLONGSAN,1
+BANGKOK,visa,PHRANAKHON,1
+NAN,visa,MUEANG NAN,1
+BANGKOK,visa,SAMPHANTHAWONG,3
+PHRANAKHONSIAYUTTHAYA,visa,BANG PAHAN,3
+SAMUTPRAKAN,visa,PHRA SAMUT CHEDI,2
+BANGKOK,visa,THUNG KHRU,4
+PATUMTANI,visa,PATUM TANI,1
+BANGKOK,visa,POM PRAP SATTRU PHAI,2
+BANGKOK,visa,POMPRAB SATTRU PAI,1
+BANGKOK,visa,SATHON,3
+BANGKOK,visa,THUNGKRU,1
+UNKNOWN,visa,SAKON NAKHON,241
+BANGKOK,visa,BANGSUE,3
+BANGKOK,visa,BANGRAK,1
+PATHUMTHANI,visa,MUEANG PATHUM THANI,1
+BANGKOK,visa,PATHUM WAN,8
+CHANGWATPATUMTANI,visa,PATUM TANI,2
+BANGKOK,visa,BANG SUE,3
+PRANAKONSIAYUTTAYA,visa,PRA NAKON SI AYUTTAYA,2
+BANGKOK,visa,DUSIT,1
+PATHUMTHANI,visa,MUENG PATHUM THANI,1
+BANGKOK,visa,BANG RAK,8
+BANGKOK,visa,RATCHATHEWI,3
+SAMUTPRAKAN,visa,PHRA PRADAENG,12
+BANGKOK,visa,PATUMWAN,2
+NONTHABURI,visa,PAKKRED,1
+BANGKOK,visa,PHAYA THAI,9
+SURIN,visa,SURIN,79
+NONTHABURI,visa,MUANG NONTHABURI,1
+NONTHABURI,visa,"MUEANG NONTHABURI,",1
+BANGKOK,visa,YAN NAWA,5
+BANGKOK,visa,YANNAWA,1
+NONTABURI,visa,PAK KRET,1
+BANGKOK,visa,LAK SI,2
+BANGKOK,visa,CHATUCHAK,12
+BANGKOK,visa,KHLONG TOEI,9
+BANGKOK,visa,LAKSI,1
+NAKHONSAWAN,visa,PHAISALI,1
+BANGKOK,visa,DIN DAENG,10
+BANGKOK,visa,DINDANG,3
+BANGKOK,visa,VADHANA,8
+BANGKOK,visa,KLONG TOEI,2
+BANGKOK,visa,RATCHATHAEWI,1
+UNKNOWN,visa,PHRANAKHON SRI AYUTTHAYA,1
+BANGKOK,visa,HUAI KHWANG,5
+SAMUTPRAKAN,visa,MUEANG,27
+UNKNOWN,visa,CHONBURI,555
+BANGKOK,visa,HUAYKWANG,1
+PHRANAKHONSIAYUTTHAYA,visa,MUEANG PHRA NAKHON SI AYUTTHAYA,1
+BANGKOK,visa,BANG KEN,1
+BANGKOK,visa,DONMEAUNG,1
+PATHUMTHANI,visa,KHLONG LUANG,10
+BANGKOK,visa,LAT PHRAO,2
+SAMUTPRAKAN,visa,PHRAPRADANG,1
+BANGKOK,visa,WANG THONGLANG,6
+BANGKOK,visa,DON MUEANG,1
+BANGKOK,visa,PHRA KHANONG,4
+PHETCHABUN,visa,PHETCHABUN,71
+UNKNOWN,visa,PHETCHABUN,214
+SAMUTPRAKAN,visa,SAMUT PRAKAN,13
+SAMUTPRAKAN,visa,MUANG SAMUT PRAKAN,1
+BANGKOK,visa,BANG KAPI,12
+SAMUTPRAKAN,visa,MUEANG SAMUT PRAKAN,4
+SAMUTPRAKAN,visa,SAMUTPRAKAN,2
+CHANGWATSAMUTPRAKAN,visa,SAMUT PRAKAN,2
+UNKNOWN,visa,PATHUMTHANI,5
+BANGKOK,visa,SAI MAI,5
+SONGKHLA,visa,BANG KLAM,1
+BANGKOK,visa,SUAN LUANG,5
+PATHUMTHANI,visa,LAM LUK KA,7
+PATHUMTHANI,visa,LAMLUKKA,1
+PRATHUMTHANI,visa,AMPHUR LUMLUKKA,1
+BANGKOK,visa,BANGNA,1
+UNKNOWN,visa,SONG KHLA,42
+BANGKOK,visa,WANG THONG LANG,1
+PHRANAKHONSIAYUTTHAYA,visa,UTHAI,1
+CHANGWATSAMUTPRAKAN,visa,TAI BAN,1
+PHRANAKORNSIAYUTHAYA,visa,BANG PA-IN DISTRICT,1
+BANGKOK,visa,PHRAKANONG,1
+BANGKOK,visa,BANG NA,4
+SAMUTPRAKAN,visa,BANG PHLI,30
+PATUMTANI,visa,KLONG LUANG,1
+BANGKOK,visa,BANG KHEN,3
+BANGKOK,visa,MUEANG,1
+BANGKOK,visa,BANGKAPI,1
+BANGKOK,visa,PRAVES,2
+PATHUMTHANI,visa,THANYABURI,5
+BANGKOK,visa,BUENG KUM,2
+BANGKOK,visa,BUNGKUM,1
+PATHUMTHANI,visa,KLONG LUANG,1
+BANGKOK,visa,PRAWET,3
+BANGKOK,visa,BUNG KUM,1
+BANGKOK,visa,KHAN NA YAO,4
+SONGKHLA,visa,SADAO,2
+BANGKOK,visa,KANNAYOA,1
+BANGKOK,visa,SAMAI,1
+SAMUTPRAKAN,visa,MEUANG SAMUT PRAKHAN,1
+BANGKOK,visa,SAPHAN SUNG,3
+NONGBUA,visa,NONG BUA,1
+BANGKOK,visa,SAPHANSUNG,1
+BANGKOK,visa,KANNAYAO,1
+BANGKOK,visa,KHANNAYAO,1
+SAMUTPRAKAN,visa,PRAWET,1
+SARABURI,visa,SARABURI,51
+BANGKOK,visa,KLONGSAMWA,1
+SONGKHLA,visa,HAT YAI,3
+BANGKOK,visa,KHLONG SAM WA,1
+SONGKHLA,visa,AMPHOE HAT YAI,1
+SONGKLA,visa,HAT YAI,1
+BANGKOK,visa,MIN BURI,5
+SAMUTPRAHAN,visa,AMPHOE BANGPLI,1
+UNKNOWN,visa,SONGKLA,1
+BANGKOK,visa,LAT KRABANG,5
+UNKNOWN,visa,BANKGKOK,1
+PATUMTANI,visa,LAM LUK KA,1
+SAMUTPRAKAN,visa,BANG SAO THONG,8
+SAMUTPRAKAN,visa,BANGPLI,1
+UNKNOWN,visa,PATTANI,94
+SAMUTPRAKAN,visa,BANG BO,3
+SONGKLA,visa,SONGKLA,1
+SONGKHLA,visa,MEAUNG SONGKHLA,1
+CHANGWATSONGKLA,visa,SONGKLA,1
+SONGKHLA,visa,MUEANG SONGKHLA,1
+SAMUTPRAKAN,visa,BANGBO,1
+BANGKOK,visa,NONG CHOK,3
+NAKHONRATCHASIMA,visa,NAKHON RATCHASIMA,216
+UNKNOWN,visa,LOEI,151
+SARABURI,visa,MUEANG,1
+SONGKHLA,visa,MUEANG,1
+PATHUMTHANI,visa,NONG SUEA,1
+UNKNOWN,visa,CHACHOENGSAO,472
+UNKNOWN,visa,NAKHON NAYOK,126
+CHONBURI,visa,BANG LAMUNG,9
+UNKNOWN,visa,CHA CHOENG SAO,53
+CHONBURI,visa,AMPHOE BANGLAMUNG,2
+NAKHONNAYOK,visa,ONGKHARAK,1
+CHONBURI,visa,SATTAHIP,1
+CHONBURI,visa,MUEANG,4
+CHONBURI,visa,SI RACHA,9
+LOEI,visa,LOEI,49
+SARABURI,visa,KAENG KHOI,1
+NAKHONNAYOK,visa,NAKHON NAYOK,9
+CHONBURI,visa,BANGLAMUNG,1
+CHACHOENGSAO,visa,BANG PAKONG,1
+CHONBURI,visa,SRI RACHA,3
+CHONBURI,visa,MUEANG CHON BURI,5
+CHACHOENGSAO,visa,CHACHOENGSAO,28
+SONGKHLA,visa,CHANA DISTRICT,1
+UNKNOWN,visa,PHETCHABOON,2
+UNKNOWN,visa,CHANTHABURI,222
+PHETCHABUN,visa,MUEANG PHETCHABUN,1
+CHACHOENGSAO,visa,BAN PHO,1
+RAYONG,visa,MUEANG,3
+CHACHOENGSAO,visa,BANG NAM PRIAO,1
+UNKNOWN,visa,RAYONG,931
+CHONBURI,visa,MEAUNG CHON BURI,1
+RAYONG,visa,RAYONG,64
+CHONBURI,visa,BAN BUENG,3
+RAYONG,visa,BAN CHANG,2
+RAYONG,visa,PLUAK DAENG,4
+RAYONG,visa,NIKHOM PHATTHANA,6
+CHONBURI,visa,PHAN THONG,1
+NAKHONNAYOK,visa,MUEANG,1
+CHONBURI,visa,PHANAT NIKHOM,1
+RAYONG,visa,MUEANG RAYONG 21150,1
+RAYONG,visa,PUEKDANG,1
+RAYONG,visa,MEAUNG RAYONG,1
+YALA,visa,YALA,33
+RAYONG,visa,MUEANG RAYONG,1
+UNKNOWN,visa,CHAIYAPHUM,219
+UNKNOWN,visa,YALA,99
+CHAIYAPHUM,visa,CHAIYAPHUM,62
+PRACHINBURI,visa,PRACHIN BURI,23
+NAKHONRATCHASIMA,visa,PAK CHONG,1
+YALA,visa,BETONG,1
+PATTANI,visa,PATTANI,32
+PRACHINBURI,visa,MUEANG PRACHIN BURI,1
+NAKHONRATCHASIMA,visa,PAK CHONG DISTRICT,1
+SARABURI,visa,MUAK LEK,2
+CHONBURI,visa,NONG YAI,1
+CHANGWATLOEI,visa,LOEI,1
+PRACHINBURI,visa,SI MAHA PHOT,2
+PATTANI,visa,MUEANG PATTANI,1
+LOEI,visa,MEAUNG LOEI,1
+RAYONG,visa,WANG CHAN,1
+PRACHINBURI,visa,KABIN BURI,5
+UNKNOWN,visa,KHON KAEN,692
+KHONKAEN,visa,KHON KAEN,129
+RAYONG,visa,KLAENG,1
+TRAT,visa,TRAT,24
+UNKNOWN,visa,NARATHIWAT,109
+NARATHIWAT,visa,NARATHIWAT,45
+NONGBUALAMPHU,visa,NONG BUA LAM PHU,39
+CHANTHABURI,visa,CHANTHABURI,53
+UNKNOWN,visa,NONGBUA LUMPHOO,9
+UNKNOWN,visa,NONGBUA LAM PHU,20
+UNKNOWN,visa,UDON THANI,368
+NAKHONRATCHASIMA,visa,PHRA THONG KHAM,1
+NONGKHAI,visa,NONG KHAI,44
+CHAIYAPHUM,visa,MUEANG,2
+UNKNOWN,visa,NONG BUA LAM PHU,59
+CHAIYAPHUM,visa,MUEANG CHAIYAPHUM,2
+UNKNOWN,visa,UDONTHANI,113
+KHONKAEN,visa,CHUM PHAE,1
+NAKHONRATCHASIMA,visa,NON THAI,1
+UNKNOWN,visa,NONG BUA LAMPHU,16
+CHANGWATNAKONRATCHASIMA,visa,NAI MUANG,2
+SAKAEO,visa,SA KAEO,21
+NAKHONRATCHASIMA,visa,MUEANG NAKHON RATCHASIMA,3
+UNKNOWN,visa,NAKHONRATCHASIMA,2
+CHANTHABURI,visa,THA MAI,1
+SAKAEO,visa,MUEANG SA KAEO,3
+UNKNOWN,visa,SAKAEO,1
+UNKNOWN,visa,SA KAEW,4
+NARATHIWAT,visa,MEAUNG NARATHIWAT,1
+NAKHONRATCHASIMA,visa,MUEANG,1
+CHANTABURI,visa,CHANTABURI,1
+KHONKAEN,visa,PHU WIANG,1
+SAKAEO,visa,WANG SOMBUN,2
+NONGBUALAMPHU,visa,MUEANG NONG BUA LAM PHU,1
+NARATHIWAT,visa,SU-NGAI KOLOK,1
+UNKNOWN,visa,TRAT,118
+TRAT,visa,KO CHANG,1
+BURIRAM,visa,BURI RAM,74
+UNKNOWN,visa,BURI RAM,337
+UNKNOWN,visa,BURIRAM,50
+CHANGWATNONGKAI,visa,NONG KAI,1
+NONGKHAI,visa,NONGKHAI,1
+SAKAEO,visa,ARANYAPRATHET,1
+CHANGWATUTONTANI,visa,UTON TANI,1
+UTONTANI,visa,UTON TANI,1
+CHANGWATUTONTANI,visa,NONG BUA,1
+UDONTHANI,visa,MUEANG,2
+NAKHONRATCHASIMA,visa,PRA THAI,1
+KHONKAEN,visa,MUEANG KHON KAEN,2
+UNKNOWN,visa,KHONKAEN,3
+KHONKAEN,visa,MEAUNG KHON KAEN,1
+KHONKAEN,visa,MUEANG,1
+BURIRAM,visa,NANG RONG,1
+MAHASARAKHAM,visa,MAHA SARAKHAM,49
+UNKNOWN,visa,MAHA SARAKHAM,269
+BURIRAM,visa,CHALEOMPHRAKIET,1
+UNKNOWN,visa,KALASIN,205
+UNKNOWN,visa,BUENG KAN,79
+BUENGKAN,visa,BUENG KAN,26
+KALASIN,visa,KALASIN,75
+UNKNOWN,visa,BEUNGKARN,6
+BURIRAM,visa,MUEANG BURI RAM,1
+MAHASARAKAM,visa,MAHA SARAKAM,1
+MAHASARAKHAM,visa,MUEANG MAHA SARAKHAM,1
+UNKNOWN,visa,ROI ET,268
+SAKONNAKHON,visa,SAWANG DAEN DIN,1
+ROIET,visa,ROI ET,78
+BUENGKAN,visa,BUENG KAN MUEANG,1
+SURIN,visa,MUEANG SURIN,1
+SURIN,visa,MUEANG DISTRICT,1
+ROIET,visa,MUEANG ROI ET,2
+UNKNOWN,visa,ROIET,1
+NAKHONPHANOM,visa,NAKHON PHANOM,74
+UNKNOWN,visa,NAKHON PHANOM,144
+UNKNOWN,visa,SAKONNAKHON,2
+YASOTHON,visa,YASOTHON,43
+SISAKET,visa,SI SA KET,62
+UNKNOWN,visa,YOSOTHON,1
+UNKNOWN,visa,SISAKET,97
+UNKNOWN,visa,SI SA KET,173
+UNKNOWN,visa,YASOTHON,131
+YASOTHON,visa,MUEANG YASOTHON,1
+MUKDAHAN,visa,MUKDAHAN,33
+UNKNOWN,visa,MUKDAHAN,86
+SISAKET,visa,MUEANG,1
+SISAKET,visa,SISAKET,2
+UNKNOWN,visa,AMNAT CHAROEN,78
+UBONRATCHATHANI,visa,UBON RATCHATHANI,138
+AMNATCHAROEN,visa,AMNAT CHAROEN,20
+UNKNOWN,visa,UMNAD CHAREUN,2
+AMNATCHAROEN,visa,MUEANG AMNAT CHAROEN,1
+UNKNOWN,visa,NAKHONPHANOM,1
+UBONRATCHATHANI,visa,MUEANG,1
+CHANGWATUBONRATCHATANI,visa,UBON RATCHATANI,1
+UBONRATCHATANI,visa,UBON RATCHATANI,2
+UBONRATCHATHANI,visa,MUEANG UBON RATCHATHANI,2
+UBONRATCHATHANI,visa,WARIN CHAMRAP,1
+UBONRATCHATHANI,visa,DET UDOM,1
+CHOMTHONG,western_union,Bangkhunthian,1
+PHRANAKHONSIAYUTTHAYA,western_union,Phra Nakhon Si Ayutthaya,28
+NAN,western_union,Mueang,13
+BURIRAM,western_union,Mueang,21
+PRACHUAPKHIRIKHAN,western_union,Hua Hin,27
+PATHUMTHANI,western_union,Thanyaburi,35
+PHRANAKHONSIAYUTTHAYA,western_union,Bang Pa In,12
+PATHUMTHANI,western_union,Lam Luk Ka,27
+NONTHABURI,western_union,Pak Kret,31
+PHRANAKHONSIAYUTTHAYA,western_union,Nakhon Luang,3
+THALANG,western_union,Maikhao,1
+PHANGNGA,western_union,Thai Mueang,4
+TAKUAPA,western_union,Khuekkhak,2
+PHUKET,western_union,Phuket,282
+PHANGNGA,western_union,Phang Nga,38
+PHUKET,western_union,Kathu,61
+KRABI,western_union,Nuea Khlong,5
+KRABI,western_union,Krabi,84
+SURATTHANI,western_union,Ban Ta Khun,4
+PHETCHABURI,western_union,Phetchaburi,41
+SURATTHANI,western_union,Phrasaeng,5
+RANONG,western_union,Mueang,10
+KRABI,western_union,Mueang,31
+RANONG,western_union,Kapoe,2
+KANCHANABURI,western_union,Thong Phaphum,1
+KANCHANABURI,western_union,Thong Pha Phum,3
+CHIANGMAI,western_union,Chom Thong,6
+CHIANGMAI,western_union,Samoeng,3
+CHIANGMAI,western_union,Wiang Haeng,1
+CHIANGMAI,western_union,Wieng Hang,1
+CHIANGMAI,western_union,Hot,5
+TAK,western_union,Tha Song Yang,2
+CHIANGMAI,western_union,Omkoi,2
+CHIANGMAI,western_union,Chiang Mai,8
+MAEHONGSON,western_union,Pai,5
+MAEHONGSON,western_union,Mae Hong Son,10
+MAEHONGSON,western_union,Pangmapha,2
+CHIANGMAI,western_union,Mae Chaem,1
+MAEHONGSON,western_union,Sop Moei,1
+MAEHONGSON,western_union,Mae La Noi,2
+MAEHONGSON,western_union,Mae Sariang,2
+MAEHONGSON,western_union,Mueang,6
+MAEHONGSON,western_union,Khun Yuam,4
+KRABI,western_union,Plai Phraya,2
+SAMUTPRAKAN,western_union,Samut Prakan,292
+SURATTHANI,western_union,Phanom,1
+CHONBURI,western_union,Chon Buri,519
+SURATTHANI,western_union,Surat Thani,317
+NONTHABURI,western_union,Nonthaburi,141
+CHUMPHON,western_union,Chumphon,16
+KRABI,western_union,Ao Luek,5
+PHANGNGA,western_union,Ko Yao,4
+PHANGNGA,western_union,Khura Buri,4
+PHANGNGA,western_union,Thap Put,3
+PHANGNGA,western_union,Mueang,6
+PHANGNGA,western_union,Takua Pa,11
+PHANGNGA,western_union,Takua Thung,6
+PHANGNGA,western_union,Kapong,2
+PHUKET,western_union,Mueang,79
+NAKHONRATCHASIMA,western_union,Nakhon Ratchasima,141
+YALA,western_union,Yaha,3
+PHUKET,western_union,Mueang Phuket,1
+RATCHABURI,western_union,Ratchaburi,26
+BANGKOK,western_union,Bangkok,1307
+PHUKET,western_union,Thalang,32
+PHUKET,western_union,Muang,1
+PHUKET,western_union,A. Muangphuket,1
+MUEANGPHUKET,western_union,Rawai,1
+PHUKET,western_union,Mueangphuket,1
+MUEANGPHUKET,western_union,Ratsada,1
+TRAT,western_union,Trat,14
+PHUKET,western_union,Ka Too,1
+CHIANGRAI,western_union,Chiang Rai,33
+RAYONG,western_union,Rayong,167
+PHUKET,western_union,Tha Lang,2
+YALA,western_union,Yala,4
+YALA,western_union,Betong,7
+PHETCHABUN,western_union,Nong Phai,8
+PHETCHABUN,western_union,Phetchabun,8
+PHETCHABUN,western_union,Mueang,22
+PATHUMTHANI,western_union,Pathum Thani,165
+BANGKOK,western_union,Sai Mai,13
+BANGKOK,western_union,Lak Si,32
+SUANLUANG,western_union,Phatthanakan,1
+RATCHABURI,western_union,Bang Phae,2
+BANGKOK,western_union,Don Mueang,22
+NONTHABURI,western_union,Mueang,47
+PRACHINBURI,western_union,Kabinburi,1
+PATHUMWAN,western_union,Rongmueang,1
+BANGKOK,western_union,Din Daeng,51
+NAN,western_union,Wieng Sa,1
+BANGKOK,western_union,Huai Khwang,45
+BANGKOK,western_union,Phaya Thai,30
+BANGKOK,western_union,Bang Phlat,24
+NAN,western_union,Wiang Sa,4
+NONTHABURI,western_union,Bang Kruai,18
+BANGKOK,western_union,Bang Kapi,53
+CHONBURI,western_union,Bang Lamung,81
+YASOTHON,western_union,Loeng Nok Tha,1
+SISAKET,western_union,Mueang,14
+MUKDAHAN,western_union,Mueang,10
+SISAKET,western_union,Rasi Salai,5
+SURIN,western_union,Samrong Thap,2
+SISAKET,western_union,Pho Si Suwan,1
+AMNATCHAROEN,western_union,Mueang,7
+AMNATCHAROEN,western_union,Umnad Chareun,2
+SURIN,western_union,Si Narong,2
+SURIN,western_union,Sangkha,4
+AMNATCHAROEN,western_union,Hua Taphan,2
+SISAKET,western_union,Huai Thap Than,2
+SISAKET,western_union,Uthumphon Phisai,4
+YASOTHON,western_union,Kho Wang,2
+SISAKET,western_union,Prang Ku,2
+UBONRATCHATHANI,western_union,Khueang Nai,6
+AMNATCHAROEN,western_union,Lue Amnat,2
+AMNATCHAROEN,western_union,Pathum Ratchawongsa,4
+UBONRATCHATHANI,western_union,Khemarat,3
+SURIN,western_union,Buachet,2
+SISAKET,western_union,Yang Chum Noi,3
+SISAKET,western_union,Si Sa Ket,11
+SISAKET,western_union,Wang Hin,2
+AMNATCHAROEN,western_union,Phana,2
+UBONRATCHATHANI,western_union,Ubon Ratchathani,19
+UBONRATCHATHANI,western_union,Kut Khaopun,2
+UBONRATCHATHANI,western_union,Muang Sam Sip,3
+SISAKET,western_union,Khukhan,6
+UBONRATCHATHANI,western_union,Mueang,27
+UBONRATCHATHANI,western_union,Pho Sai,2
+SISAKET,western_union,Phayu,2
+UBONRATCHATHANI,western_union,Trakan Phuet Phon,6
+SISAKET,western_union,Kanthararom,5
+SISAKET,western_union,Phrai Bueng,2
+SISAKET,western_union,Nam Kliang,1
+UBONRATCHATHANI,western_union,Warin Chamrap,15
+SISAKET,western_union,Si Rattana,2
+SAMUTSAKHON,western_union,Samut Sakhon,170
+SISAKET,western_union,Khun Han,4
+SISAKET,western_union,Non Khun,2
+UBONRATCHATHANI,western_union,Samrong,1
+UBONRATCHATHANI,western_union,Na Chaluai,1
+UBONRATCHATHANI,western_union,Si Mueang Mai,2
+SISAKET,western_union,Kantharalak,8
+UBONRATCHATHANI,western_union,Tan Sum,2
+UBONRATCHATHANI,western_union,Phibun Mangsahan,6
+UBONRATCHATHANI,western_union,Khong Chiam,3
+UBONRATCHATHANI,western_union,Det Udom,9
+UBONRATCHATHANI,western_union,Sirindhorn,3
+UBONRATCHATHANI,western_union,Nam Khun,1
+UBONRATCHATHANI,western_union,Nam Yuen,3
+UBONRATCHATHANI,western_union,Buntharik,4
+SAKONNAKHON,western_union,Khok Si Suphan,2
+SAKONNAKHON,western_union,Akat Amnuai,4
+MUKDAHAN,western_union,Mukdahan,7
+SAKONNAKHON,western_union,Sakon Nakhon,16
+SAKONNAKHON,western_union,Mueang,22
+BUENGKAN,western_union,Seka,4
+BUENGKAN,western_union,Beungkarn,4
+MUKDAHAN,western_union,Dong Luang,2
+NAKHONPHANOM,western_union,Na Wa,2
+NAKHONPHANOM,western_union,Na Kae,4
+SAKONNAKHON,western_union,Phon Na Kaeo,1
+MUKDAHAN,western_union,Wan Yai,1
+NAKHONPHANOM,western_union,Na Thom,1
+SAKONNAKHON,western_union,Kusuman,2
+BUENGKAN,western_union,Bueng Khong Long,2
+BUENGKAN,western_union,Bung Khla,1
+NAKHONPHANOM,western_union,That Phanom,5
+NAKHONPHANOM,western_union,Pla Pak,2
+NAKHONPHANOM,western_union,Si Songkhram,4
+MUEANGNAKHONPHANOM,western_union,Naimueang,1
+NAKHONPHANOM,western_union,Ban Phaeng,3
+NAKHONPHANOM,western_union,Renu Nakhon,4
+NAKHONPHANOM,western_union,Phon Sawan,2
+NAKHONPHANOM,western_union,Nakhon Phanom,2
+NAKHONPHANOM,western_union,Tha Uthen,2
+NAKHONPHANOM,western_union,Mueang,11
+PHAYAO,western_union,Pong,5
+SIRACHA,western_union,Bowin,2
+PHAYAO,western_union,Mueang,15
+RAYONG,western_union,Pluak Daeng,12
+NAN,western_union,Chiang Klang,2
+RATCHABURI,western_union,Suan Phueng,3
+PHAYAO,western_union,Phayao,3
+PHAYAO,western_union,Muang Phayao,1
+LAMPHUN,western_union,Mae Tha,2
+BUENGKAN,western_union,Si Wilai,2
+CHONBURI,western_union,Si Racha,52
+CHONBURI,western_union,Sriracha,2
+CHONBURI,western_union,Bo Win,1
+UNKNOWN,western_union,Si Racha,1
+RATCHABURI,western_union,Pak Tho,5
+PHAYAO,western_union,Dok Khamtai,5
+MUKDAHAN,western_union,Khamcha-i,2
+MUKDAHAN,western_union,Khamcha I,2
+LAMPANG,western_union,Mueang,22
+LAMPANG,western_union,Mueang Pan,1
+BUENGKAN,western_union,Mueang,1
+LAMPHUN,western_union,Mae Ta,2
+YASOTHON,western_union,Thai Charoen,1
+YASOTHON,western_union,Yasothon,3
+YASOTHON,western_union,Pa Tio,3
+CHIANGMAI,western_union,Doi Tao,1
+SIRACHA,western_union,Nongkham,1
+NAN,western_union,Pua,5
+CHONBURI,western_union,Ko Sichang,1
+RATCHABURI,western_union,Wat Phleng,2
+LAMPANG,western_union,Chae Hom,2
+SAMUTSONGKHRAM,western_union,Amphawa,3
+SAMUTSONGKHRAM,western_union,Mueang,9
+BUENGKAN,western_union,Phon Charoen,4
+MUKDAHAN,western_union,Nong Sung,2
+YASOTHON,western_union,Kham Khuean Kaeo,5
+CHONBURI,western_union,Nong Yai,4
+RATCHABURI,western_union,Chom Bueng,5
+RATCHABURI,western_union,Mueang,26
+SAMUTSONGKHRAM,western_union,Samut Songkhram,3
+SAMUTSONGKHRAM,western_union,Bang Khonthi,2
+YASOTHON,western_union,Kut Chum,4
+NAN,western_union,Bo Kluea,1
+NAN,western_union,Tha Wang Pha,2
+SAKONNAKHON,western_union,Kham Ta Kla,2
+KHONKAEN,western_union,Khon Kaen,93
+SAKAEO,western_union,Wang Sombun,2
+YASOTHON,western_union,Maha Chana Chai,2
+NAKHONPATHOM,western_union,Nakhon Pathom,78
+KANCHANABURI,western_union,Dan Makham Tia,3
+SURATTHANI,western_union,Mueang,29
+BUENGKAN,western_union,Pak Khat,2
+RATCHABURI,western_union,Damnoen Saduak,6
+CHONBURI,western_union,Mueang,50
+SAKAEO,western_union,Khlong Hat,2
+KANCHANABURI,western_union,Sai Yok,4
+KANCHANABURI,western_union,Sangkhla Buri,3
+LAMPHUN,western_union,Li,5
+SAKONNAKHON,western_union,Tao Ngoi,1
+CHONBURI,western_union,Ban Bueng,9
+LAMPANG,western_union,Ngao,2
+PHAYAO,western_union,Chiang Muan,1
+CHONBURI,western_union,Bo Thong,3
+YASOTHON,western_union,Sai Mun,2
+YASOTHON,western_union,Mueang,11
+LAMPANG,western_union,Lampang,8
+SAKONNAKHON,western_union,Wanon Niwat,2
+ROIET,western_union,Nong Phok,4
+SURIN,western_union,Kap Choeng,2
+SONGKHLA,western_union,Song Khla,63
+SAMUTSAKHON,western_union,Mueang,30
+BUENGKAN,western_union,So Phisai,2
+LAMPHUN,western_union,Thung Hua Chang,1
+ROIET,western_union,Moei Wadi,2
+SAMUTSAKHON,western_union,Ban Phaeo,6
+SISAKET,western_union,Bueng Bun,1
+RATCHABURI,western_union,Photharam,8
+SAKAEO,western_union,Wang Nam Yen,2
+ROIET,western_union,Roi Et,23
+ROIET,western_union,Phanom Phrai,4
+SAKONNAKHON,western_union,Ban Muang,3
+LAMPANG,western_union,Hang Chat,2
+NAN,western_union,Ban Luang,1
+KALASIN,western_union,Khao Wong,4
+NAN,western_union,Santi Suk,2
+KANCHANABURI,western_union,Mueang,12
+BANGBO,western_union,Bangbo,2
+BANGSAOTHONG,western_union,Bangsaothong,1
+BANGPHLI,western_union,Bangchalong,1
+CHACHOENGSAO,western_union,Cha Choeng Sao,42
+SAKAEO,western_union,Sa Kaew,3
+SAKAEO,western_union,Aranyaprathet,8
+SAKONNAKHON,western_union,Phanna Nikhom,2
+TAK,western_union,Mae Ramat,4
+NAKHONSAWAN,western_union,Nakhon Sawan,9
+NONGKHAI,western_union,Rattanawapi,2
+CHONBURI,western_union,A. Muang,1
+CHONBURI,western_union,Ko Chan,4
+NONGKHAI,western_union,Nong Khai,5
+PRACHINBURI,western_union,Prachin Buri,19
+KALASIN,western_union,Na Khu,2
+SURIN,western_union,Sikhoraphum,6
+PHATTHALUNG,western_union,Mueang,11
+SURIN,western_union,Lamduan,3
+CHONBURI,western_union,Phan Thong,6
+ROIET,western_union,Phon Sai,2
+UDONTHANI,western_union,Udon Thani,37
+CHONBURI,western_union,Mueang Chon Buri,1
+SURIN,western_union,Non Narai,1
+BANGKHOLAEM,western_union,Bangkhlo,1
+KALASIN,western_union,Kuchinarai,4
+CHANTHABURI,western_union,Mueang,18
+KALASIN,western_union,Kalasin,8
+CHACHOENGSAO,western_union,Tha Takiap,1
+TAK,western_union,Tak,17
+KANCHANABURI,western_union,Kanchanaburi,17
+LAMPANG,western_union,Soem Ngam,2
+CHONBURI,western_union,Phanat Nikhom,6
+BANGKHOLAEM,western_union,Watphrayakrai,1
+KANCHANABURI,western_union,Si Sawat,1
+BURIRAM,western_union,Buriram,13
+NONGKHAI,western_union,Fao Rai,2
+SATHON,western_union,Thungmahamek,3
+BANGSAOTHONG,western_union,Sisacharakhenoi,1
+SAMUTPRAKAN,western_union,Mueang,67
+RATCHABURI,western_union,Ban Pong,9
+SAMUTSAKHON,western_union,Krathum Baen,15
+BANGRAK,western_union,Silom,1
+KHLONGTOEI,western_union,Phrakhanong,1
+KHLONGSAN,western_union,Khlongtonsai,1
+KHLONGSAN,western_union,Banlamphulang,1
+SATHON,western_union,Yannawa,1
+LAMPANG,western_union,Ko Kha,3
+CHONBURI,western_union,Phanthong,1
+KANCHANABURI,western_union,Tha Muang,5
+SAMPHANTHAWONG,western_union,Talatnoi,1
+BANGRAK,western_union,Suriyawong,1
+SAMUTPRAKAN,western_union,Bang Bo,11
+KHLONGTOEI,western_union,Khlongtoei,1
+SAKONNAKHON,western_union,Phang Khon,6
+KANCHANABURI,western_union,Tha Maka,10
+SAMUTPRAKAN,western_union,Phra Samut Chedi,5
+ANGTHONG,western_union,Ang Thong,3
+TAK,western_union,Mae Sot,16
+RATCHATHEWI,western_union,Makkasan,2
+SAMUTPRAKAN,western_union,Bang Phli,47
+RATCHATHEWI,western_union,Thanonphayathai,1
+HUAIKHWANG,western_union,Bangkapi,2
+CHACHOENGSAO,western_union,Bang Pakong,12
+NAN,western_union,Nan,1
+HUAIKHWANG,western_union,Huaikhwang,6
+BANGKAPI,western_union,Huamak,6
+PHRANAKHON,western_union,Banphanthom,1
+DINDAENG,western_union,Dindaeng,1
+SAKAEO,western_union,Khok Sung,1
+WANGTHONGLANG,western_union,Phlapphla,1
+SURIN,western_union,Rattanaburi,3
+BANGKAPI,western_union,Khlongchan,2
+WANTHONGLANG,western_union,Wanthonglang,1
+THAWIWATTHANA,western_union,Salathammasop,1
+ROIET,western_union,Phon Thong,6
+SURIN,western_union,Prasat,7
+TAK,western_union,Maesod,1
+BANGKOK,western_union,Bang Khun Thian,16
+HUAIKHWANG,western_union,Samsennok,1
+SAKONNAKHON,western_union,Kut Bak,2
+NAN,western_union,Phu Phiang,1
+BANGKOK,western_union,Thung Kru,1
+BANGKOK,western_union,Thung Khru,5
+BANGKOK,western_union,Thung Khuru,5
+BANGKOK,western_union,Nong Khaem,12
+BANGKOK,western_union,Bang Bon,12
+SAKAEO,western_union,Watthana Nakhon,5
+SAMUTPRAKAN,western_union,Phra Pradaeng,20
+SUPHANBURI,western_union,Suphan Buri,14
+PHRANAKHONSIAYUTTHAYA,western_union,Phra Nakhon Si Ayuttaya,122
+NAKHONPATHOM,western_union,Muaeng,1
+SAKAEO,western_union,Ta Phraya,3
+NAKHONPATHOM,western_union,Sam Phran,26
+DINDAENG,western_union,Ratchadaphisek,1
+NAKHONPATHOM,western_union,Mueang,25
+SAMUTPRAKAN,western_union,Bang Sao Thong,12
+ROIET,western_union,Selaphum,5
+SAKONNAKHON,western_union,Charoen Sin,2
+LAMPANG,western_union,Mae Mo,4
+CHATUCHAK,western_union,Chankasem,1
+SURIN,western_union,Sanom,2
+BANGKOK,western_union,Bangmod,1
+NAKHONPATHOM,western_union,Samphran,1
+KALASIN,western_union,Huai Phueng,2
+SAKONNAKHON,western_union,Sawang Daen Din,6
+BANGKOK,western_union,Chom Thong,12
+BANGKOK,western_union,Rat Burana,6
+BANGKOK,western_union,Bang Khae,15
+NAKHONPATHOM,western_union,Nakhon Chai Si,8
+LAMPANG,western_union,Mae Tha,4
+SAKONNAKHON,western_union,Nikhom Nam Un,1
+SURIN,western_union,Surin,6
+BANGKOK,western_union,Yan Nawa,21
+SAMUTPRAKAN,western_union,Bangphli,2
+BANGKOK,western_union,Bang Kho Laem,14
+BANGKOK,western_union,Phasi Charoen,15
+NAN,western_union,Mae Charim,1
+CHACHOENGSAO,western_union,Plaeng Yao,2
+BANGKOK,western_union,Thon Buri,20
+NONGKHAI,western_union,Phon Phisai,4
+BANGKOK,western_union,Bang Na,15
+LAKSI,western_union,Thungsonghong,1
+CHACHOENGSAO,western_union,Ban Pho,4
+SAKONNAKHON,western_union,Waritchaphum,3
+ROIET,western_union,At Samat,3
+CHACHOENGSAO,western_union,Mueang,23
+PHRAE,western_union,Song,3
+NAN,western_union,Na Noi,2
+CHIANGMAI,western_union,Phrao,3
+CHIANGMAI,western_union,Chiang Dao,4
+BANGKOK,western_union,Bangna,1
+LAMPANG,western_union,Wang Nuea,4
+CHIANGRAI,western_union,Wiang Pa Pao,8
+SURIN,western_union,Mueang,17
+BANGKOK,western_union,Thonburi,1
+CHIANGMAI,western_union,Mae Taeng,1
+CHIANGMAI,western_union,Chai Prakan,5
+PHAYAO,western_union,Dok Kham Tai,2
+CHIANGRAI,western_union,Phan,11
+CHIANGMAI,western_union,Mae Ai,6
+CHIANGRAI,western_union,Mae Suai,4
+CHIANGMAI,western_union,Fang,7
+PHAYAO,western_union,Mae Chai,2
+PHAYAO,western_union,Phu Kamyao,1
+PHAYAO,western_union,Chun,4
+BANGKOK,western_union,Prawet,22
+CHIANGRAI,western_union,Pa Daet,2
+BANGKOK,western_union,Khlong San,23
+BANGKOK,western_union,Lat Phrao,20
+BANGKOK,western_union,Sathon,29
+BANGKOK,western_union,Phra Khanong,18
+BANGKOK,western_union,Bangkok Yai,11
+BANGKOK,western_union,Thawi Watthana,6
+BANGKOK,western_union,Pathum Wan,62
+BANGKOK,western_union,Bang Rak,49
+ROIET,western_union,Suwannaphum,5
+BANGKOK,western_union,Khlong Toei,46
+BANGKOK,western_union,Khlong,1
+KANCHANABURI,western_union,Phanom Thuan,3
+BANGKOK,western_union,Watthana,84
+NAKHONPATHOM,western_union,Phutthamonthon,9
+BANGKOK,western_union,Samphanthawong,25
+BANGKOK,western_union,Bangrak,1
+BANGKOK,western_union,Bangkoknoi,3
+ROIET,western_union,Thung Khao Luang,2
+BANGKOK,western_union,Suan Luang,27
+LAMPANG,western_union,Sop Prap,2
+BANGKOK,western_union,Phra Nakhon,45
+BANGKOK,western_union,Bangkok Noi,23
+PHITSANULOK,western_union,Phitsanulok,16
+BANGKOK,western_union,Pom Prap Sattru Phai,25
+BANGKOK,western_union,Klong Toey,1
+BANGKOK,western_union,Taling Chan,13
+BANGKOK,western_union,Wang Burapha Phirom,1
+DONMUEANG,western_union,Donmueang,1
+BANGKOK,western_union,Phranakhom,1
+CHIANGRAI,western_union,Thoeng,6
+PHAYAO,western_union,Chiang Kham,7
+CHIANGRAI,western_union,Mueang,30
+CHIANGRAI,western_union,Mae Lao,2
+CHIANGRAI,western_union,Mae Sai,10
+PHAYAO,western_union,Phu Sang,1
+NAN,western_union,Thung Chang,2
+MUEANGCHIANGRAI,western_union,Ropwiang,1
+CHIANGRAI,western_union,Khun Tan,2
+CHIANGRAI,western_union,Phaya Mengrai,2
+CHIANGRAI,western_union,Mae Fa Luang,1
+KANCHANABURI,western_union,Bo Phloi,5
+CHIANGRAI,western_union,Mae Chan,8
+CHIANGRAI,western_union,Wiang Chai,3
+CHALOEMPHRAKIAT,western_union,Huaikon,1
+BANGKOK,western_union,Khlong Toey,1
+MUEANGCHIANGRAI,western_union,Rimkok,1
+CHIANGRAI,western_union,Chiang Khong,8
+CHIANGRAI,western_union,Doi Luang,1
+MUEANGCHIANGRAI,western_union,Sansai,1
+SATUN,western_union,Satun,11
+CHIANGRAI,western_union,Chiang Saen,5
+CHIANGRAI,western_union,Wiang Kaen,2
+CHIANGSAEN,western_union,Wiang,1
+BANGKOK,western_union,Pathumwan,4
+PHITSANULOK,western_union,Mueang,37
+BANGKOK,western_union,Phranakhon,1
+CHIANGMAI,western_union,Mueang,2
+CHACHOENGSAO,western_union,Sanam Chai Khet,3
+BANGKOK,western_union,Prathumwan,2
+CHANTHABURI,western_union,Chanthaburi,10
+BANGKOK,western_union,Wattana,2
+SURIN,western_union,Chom Phra,4
+BANGKOK,western_union,Ratchathewi,61
+BURIRAM,western_union,Ban Kruat,3
+BANGKOK,western_union,Ratewee,1
+SURIN,western_union,Tha Tum,3
+CHACHOENGSAO,western_union,Sanam Chai,1
+BANGKOK,western_union,Dusit,33
+CHAIYAPHUM,western_union,Chaiyaphum,7
+KALASIN,western_union,Na Mon,2
+BANGKOK,western_union,Lat Krabang,24
+BANGKOK,western_union,Rajchathavee,2
+BANGKOK,western_union,Bangplat,1
+BANGKOK,western_union,Latkrabang,2
+BANGKOK,western_union,Bangphlat,3
+NAKHONPATHOM,western_union,Kamphaeng Saen,9
+CHACHOENGSAO,western_union,Bang Khla,5
+TAK,western_union,Phop Phra,2
+BANGKOK,western_union,Talingchan,1
+SAKAEO,western_union,Mueang,6
+NAKHONPATHOM,western_union,Don Tum,5
+NONTHABURI,western_union,Nontaburi,1
+BANGKOK,western_union,Bangkapi,1
+KALASIN,western_union,Somdet,5
+BANGKOK,western_union,Wang Thonglang,15
+NAKHONRATCHASIMA,western_union,Mueang,59
+NONTHABURI,western_union,Bang Yai,18
+UDONTHANI,western_union,Ban Dung,4
+NONTHABURI,western_union,Bangkruai,3
+BANGKOK,western_union,Dindaeng,1
+PRACHINBURI,western_union,Kabin Buri,9
+BANGKOK,western_union,Bang Sue,21
+BANGKOK,western_union,Chatuchak,79
+BANGKOK,western_union,Bangsue,1
+SAKONNAKHON,western_union,Song Dao,2
+ROIET,western_union,Pho Chai,2
+BANGKOK,western_union,Saphan Sung,5
+BANGKOK,western_union,Bueng Kum,20
+LAMPANG,western_union,Thoen,6
+BANGKOK,western_union,Khlong Chan,2
+LOEI,western_union,Loei,4
+UDONTHANI,western_union,Sang Khom,2
+BANGKOK,western_union,Khan Na Yao,17
+LAMPANG,western_union,Mae Phrik,1
+BANGKOK,western_union,Lam Pla Thio,1
+KALASIN,western_union,Kham Muang,3
+NONTHABURI,western_union,Bangyai,1
+BANGKOK,western_union,Ladphrao,1
+NONTHABURI,western_union,Bang Bua Thong,14
+CHACHOENGSAO,western_union,Phanom Sarakham,6
+KALASIN,western_union,Rong Kham,2
+ROIET,western_union,Mueang Suang,2
+ROIET,western_union,Mueang,21
+ROIET,western_union,Thawat Buri,1
+NONTHABURI,western_union,Mueangnonthaburi,2
+SARABURI,western_union,Saraburi,59
+BANGKOK,western_union,Bang Khen,28
+BANGKOK,western_union,Min Buri,13
+TAK,western_union,Sam Ngao,2
+BANGKOK,western_union,Minburi,3
+BANGKOK,western_union,Kanna-yao,2
+BANGKOK,western_union,Kannayao,1
+NAKHONPATHOM,western_union,Bang Len,6
+NONTHABURI,western_union,Sai Noi,3
+KANCHANABURI,western_union,Huai Krachao,1
+BANGKOK,western_union,Khlong Sam Wa,2
+BANGKOK,western_union,Nong Chok,8
+NONTHABURI,western_union,Pakkret,2
+SURIN,western_union,Chumphon Buri,3
+UNKNOWN,western_union,Pak Kret,1
+NONTHABURI,western_union,Pakkred,2
+SUPHANBURI,western_union,Song Phi Nong,7
+BURIRAM,western_union,Non Din Daeng,2
+BURIRAM,western_union,Prakhon Chai,5
+PHRAE,western_union,Long,4
+PHRAE,western_union,Phrae,2
+BURIRAM,western_union,Krasang,5
+PHRAE,western_union,Wang Chin,2
+PHRAE,western_union,Nong Muang Khai,2
+BURIRAM,western_union,Lahan Sai,4
+UDONTHANI,western_union,Thung Fon,2
+ROIET,western_union,Kaset Wisai,7
+PHRAE,western_union,Rong Kwang,2
+BURIRAM,western_union,Phlapphla Chai,2
+LATBUALUANG,western_union,Sammueang,1
+KANCHANABURI,western_union,Nong Prue,2
+BANGPAIN,western_union,Chiangraknoi,1
+PATHUMTHANI,western_union,Lat Lum Kaeo,6
+PATHUMTHANI,western_union,Mueang,17
+PHRAE,western_union,Mueang,14
+TAK,western_union,Umphang,2
+PATHUMTHANI,western_union,Lamlukka,1
+SUPHANBURI,western_union,U Thong,6
+ROIET,western_union,Changhan,1
+NAKHONPATHOM,western_union,Bang Luang,1
+TAK,western_union,Ban Tak,3
+CHACHOENGSAO,western_union,Bang Nam Priao,7
+PRACHINBURI,western_union,Si Maha Phot,9
+KHONKAEN,western_union,Mueang,60
+UDONTHANI,western_union,Nong Han,7
+NONGKHAI,western_union,Mueang,20
+PRACHINBURI,western_union,Si Mahosot,1
+PATHUMTHANI,western_union,Mueang Pathum Thani,1
+BURIRAM,western_union,Chaloem Phra Kiat,3
+KALASIN,western_union,Kamalasai,2
+UDONTHANI,western_union,Wang Sam Mo,2
+KALASIN,western_union,Sahatsakhan,2
+ROIET,western_union,Chaturaphak Phiman,2
+PATHUMTHANI,western_union,Khlong Luang,45
+BURIRAM,western_union,Pakham,3
+KHONKAEN,western_union,Muang,1
+PHRAE,western_union,Sung Men,5
+KALASIN,western_union,Mueang,10
+UDONTHANI,western_union,Phen,3
+UDONTHANI,western_union,Chai Wan,2
+PATHUMTHANI,western_union,Sam Khok,3
+NONGKHAI,western_union,Si Chiang Mai,4
+PHRANAKHONSIAYUTTHAYA,western_union,Lat Bua Luang,4
+ROIET,western_union,Si Somdet,2
+BURIRAM,western_union,Satuek,4
+PRACHINBURI,western_union,Ban Sang,2
+TAK,western_union,Mueang,8
+PHRAE,western_union,Den Chai,3
+NONGKHAI,western_union,Sang Khom,1
+NONGKHAI,western_union,Sangkhom,2
+BURIRAM,western_union,Nang Rong,7
+TAK,western_union,Mueang Tak,2
+BANGPHRAIN,western_union,Bankrot,1
+PRACHINBURI,western_union,Mueang,9
+SUPHANBURI,western_union,Mueang,16
+PRACHINBURI,western_union,Prachantakham,2
+UDONTHANI,western_union,Ku Kaeo,1
+PHRANAKHONSIAYUTTHAYA,western_union,Bang Sai,4
+NONGKHAI,western_union,Sakhrai,2
+KALASIN,western_union,Yang Talat,5
+NAN,western_union,Na Muen,2
+NONGKHAI,western_union,Tha Bo,7
+PRACHUAPKHIRIKHAN,western_union,Prachuap Khiri Khan,76
+SUKHOTHAI,western_union,Si Satchanalai,8
+AYUTTHAYA,western_union,Bangpa-in,1
+PRACHINBURI,western_union,Na Di,2
+PHRANAKHONSIAYUTTHAYA,western_union,Banko,1
+KANCHANABURI,western_union,Lao Khwan,3
+NAKHONNAYOK,western_union,Ongkharak,4
+KALASIN,western_union,Tha Khantho,2
+PATHUMTHANI,western_union,Nong Suea,1
+MAHASARAKHAM,western_union,Maha Sarakham,14
+MAHASARAKHAM,western_union,Kae Dam,2
+UDONTHANI,western_union,Si That,2
+BURIRAM,western_union,Ban Dan,1
+NAKHONNAYOK,western_union,Nakhon Nayok,5
+MAHASARAKHAM,western_union,Wapi Pathum,3
+PHRANAKHONSIAYUTTHAYA,western_union,Bang Pa-in,10
+ROIET,western_union,Pathum Rat,2
+NAKHONRATCHASIMA,western_union,Soeng Sang,6
+MAHASARAKHAM,western_union,Kantharawichai,12
+NONGKHAI,western_union,Pho Tak,1
+PHRANAKHONSIAYUTTHAYA,western_union,Sena,7
+SUPHANBURI,western_union,Don Chedi,5
+UNKNOWN,western_union,Mueang,1
+KALASIN,western_union,Nong Kung Si,4
+SUPHANBURI,western_union,Bang Pla Ma,1
+SUKHOTHAI,western_union,Thung Saliam,4
+PHRANAKHONSIAYUTTHAYA,western_union,Wang Noi,6
+SUPHANBURI,western_union,Dan Chang,5
+MAHASARAKHAM,western_union,Phayakkhaphum Phisai,5
+MUEANGMAHASARAKHAM,western_union,Talat,1
+MAHASARAKHAM,western_union,Mueang,18
+UTHAITHANI,western_union,Ban Rai,4
+NAKHONNAYOK,western_union,Pak Phli,2
+LOEI,western_union,Pak Chom,3
+KALASIN,western_union,Huai Mek,2
+UDONTHANI,western_union,Na Yung,3
+MAHASARAKHAM,western_union,Na Dun,2
+UDONTHANI,western_union,Mueang,40
+UDONTHANI,western_union,Kumphawapi,8
+NAKHONNAYOK,western_union,Mueang,10
+BURIRAM,western_union,Khaen Dong,1
+TAK,western_union,Wang Chao,3
+UDONTHANI,western_union,Ban Phue,5
+MUEANGNONGKHAI,western_union,Michai,1
+AYUTTHAYA,western_union,Bangphra-in,1
+AYUTTHAYA,western_union,Phranakhonsiayutthaya,1
+BURIRAM,western_union,Nong Ki,4
+PHRANAKHONSIAYUTTHAYA,western_union,Uthai,9
+PHRANAKHONSIAYUTTHAYA,western_union,Bang Ban,2
+PHRANAKHONSIAYUTTHAYA,western_union,Mueang,2
+PHRANAKHONSIAYUTTHAYA,western_union,Phak Hai,4
+NAKHONRATCHASIMA,western_union,Khon Buri,7
+PHRANAKHONSIAYUTTHAYA,western_union,A. Pra Nakorn Sri Ayutthaya,1
+BURIRAM,western_union,Lam Plai Mat,5
+NAKHONNAYOK,western_union,Ban Na,5
+BURIRAM,western_union,Khu Mueang,5
+BURIRAM,western_union,Nong Hong,2
+UTTARADIT,western_union,Laplae,3
+SUPHANBURI,western_union,Nong Ya Sai,2
+MAHASARAKHAM,western_union,Chuen Chom,1
+UTTARADIT,western_union,Tha Pla,2
+UTTARADIT,western_union,Mueang,18
+SARABURI,western_union,Nong Khae,11
+KHONKAEN,western_union,Kranuan,6
+KAMPHAENGPHET,western_union,Kosamphi Nakhon,1
+UDONTHANI,western_union,Nam Som,3
+ANGTHONG,western_union,Pa Mok,3
+UTTARADIT,western_union,Uttaradit,2
+MAHASARAKHAM,western_union,Yang Sisurat,1
+SUPHANBURI,western_union,Si Prachan,3
+UTTARADIT,western_union,Ban Khok,2
+UTTARADIT,western_union,Fak Tha,2
+BURIRAM,western_union,Phutthaisong,4
+MAHASARAKHAM,western_union,Chiang Yuen,5
+MAHASARAKHAM,western_union,Borabue,4
+UDONTHANI,western_union,Kut Chap,3
+UDONTHANI,western_union,Mueng,1
+NAKHONRATCHASIMA,western_union,Wang Nam Khiao,6
+LOEI,western_union,Chiang Khan,6
+UDONTHANI,western_union,Non Sa At,2
+NAKHONRATCHASIMA,western_union,Nong Bun Mak,2
+PHRANAKHONSIAYUTTHAYA,western_union,Phachi,4
+NAKHONRATCHASIMA,western_union,Huai Thalaeng,2
+ANGTHONG,western_union,Wiset Chai Chan,4
+MAHASARAKHAM,western_union,Kosum Phisa,4
+PHRANAKHONSIAYUTTHAYA,western_union,Maha Rat,1
+SUKHOTHAI,western_union,Sawankhalok,5
+PHRANAKHONSIAYUTTHAYA,western_union,Bang Pahan,2
+SUKHOTHAI,western_union,Ban Dan Lan Hoi,2
+SARABURI,western_union,Wihan Daeng,2
+ANGTHONG,western_union,Samko,2
+SARABURI,western_union,Nongkhae,1
+KAMPHAENGPHET,western_union,Khlong Lan,2
+KAMPHAENGPHET,western_union,Phran Kratai,3
+KAMPHAENGPHET,western_union,Kamphaeng Phet,5
+CHAINAT,western_union,Hankha,7
+KAMPHAENGPHET,western_union,Mueang,14
+MAHASARAKHAM,western_union,Kut Rang,1
+NAKHONRATCHASIMA,western_union,Chok Chai,6
+KHONKAEN,western_union,Khao Suan Kwang,4
+SUKHOTHAI,western_union,Si Nakhon,4
+SUKHOTHAI,western_union,Mueang,9
+ANGTHONG,western_union,Pho Thong,4
+UTHAITHANI,western_union,Huai Khot,1
+ANGTHONG,western_union,Mueang,5
+MAHASARAKHAM,western_union,Kosum Phisai,2
+CHAINAT,western_union,Noen Kham,1
+MAHASARAKHAM,western_union,Na Chueak,4
+SUKHOTHAI,western_union,Si Samrong,4
+SARABURI,western_union,Mueang,14
+ANGTHONG,western_union,Chaiyo,2
+PHRANAKHONSIAYUTTHAYA,western_union,Tha Ruea,6
+UTTARADIT,western_union,Phichai,8
+UTHAITHANI,western_union,Nong Chang,6
+UDONTHANI,western_union,Nong Wua So,5
+SUKHOTHAI,western_union,Sukhothai,2
+SUPHANBURI,western_union,Doem Bang Nang Buat,4
+UTTARADIT,western_union,Tron,4
+NONGBUALAMPHU,western_union,Suwannakhuha,3
+NAKHONSAWAN,western_union,Chumtabong,1
+SARABURI,western_union,Nong Saeng,2
+BURIRAM,western_union,Na Pho,2
+KHONKAEN,western_union,Nam Phong,8
+NAKHONSAWAN,western_union,Mae Wong,1
+ANGTHONG,western_union,Sawaeng Ha,2
+KAMPHAENGPHET,western_union,Muaeng,1
+SUPHANBURI,western_union,Sam Chuk,4
+NAKHONRATCHASIMA,western_union,Lam Thamenchai,1
+UDONTHANI,western_union,Nong Saeng,2
+UTHAITHANI,western_union,Lan Sak,1
+KHONKAEN,western_union,Sam Sung,1
+NAKHONRATCHASIMA,western_union,Chum Phuang,3
+KAMPHAENGPHET,western_union,Pang Sila Thong,1
+SARABURI,western_union,Don Phut,1
+UTTARADIT,western_union,Nam Pat,4
+SARABURI,western_union,Ban Mo,4
+SARABURI,western_union,Sao Hai,4
+SINGBURI,western_union,Khai Bang Rachan,3
+NAKHONRATCHASIMA,western_union,Chakkarat,4
+SARABURI,western_union,Kaeng Khoi,9
+NAKHONRATCHASIMA,western_union,Pak Thong Chai,5
+KHONKAEN,western_union,Pueai Noi,2
+BURIRAM,western_union,Ban Mai Chaiyaphot,1
+PHRANAKHONSIAYUTTHAYA,western_union,Ban Phraek,1
+SINGBURI,western_union,Tha Chang,1
+CHAINAT,western_union,Chai Nat,5
+CHAINAT,western_union,Nong Ma Mong,1
+UTTARADIT,western_union,Thong Saen Khan,3
+SINGBURI,western_union,Bang Rachan,2
+SARABURI,western_union,Nong Don,2
+NAKHONSAWAN,western_union,Lat Yao,6
+NAKHONRATCHASIMA,western_union,Pak Chong,13
+SINGBURI,western_union,Phrom Buri,2
+NONGBUALAMPHU,western_union,Mueang,10
+KHONKAEN,western_union,Nong Song Hong,5
+SUKHOTHAI,western_union,Khiri Mat,2
+NAKHONRATCHASIMA,western_union,Prathai,4
+NONGBUALAMPHU,western_union,Nongbua Lumphoo,9
+NONGBUALAMPHU,western_union,Na Klang,7
+CHAINAT,western_union,Sankhaburi,4
+NAKHONRATCHASIMA,western_union,Phimai,5
+SARABURI,western_union,Muak Lek,6
+SINGBURI,western_union,Mueang,6
+PAKCHONG,western_union,Nongsarai,1
+SARABURI,western_union,Chaloem Phra Kiat,3
+KAMPHAENGPHET,western_union,Khlong Khlung,6
+LOPBURI,western_union,Tha Wung,7
+NAKHONRATCHASIMA,western_union,Chaloem Phra Kiat,1
+LOPBURI,western_union,Mueang,27
+UTHAITHANI,western_union,Thap Than,1
+LOEI,western_union,Na Duang,2
+SARABURI,western_union,Phra Phutthabat,6
+UTHAITHANI,western_union,Nong Khayang,1
+LOPBURI,western_union,Lop Buri,6
+LOEI,western_union,Mueang,13
+CHAINAT,western_union,Wat Sing,4
+KHONKAEN,western_union,Ubolratana,4
+SUKHOTHAI,western_union,Kong Krailat,5
+LOPBURI,western_union,Mueng Lopburi,1
+MUAKLEK,western_union,Muaklek,1
+LOEI,western_union,Tha Li,2
+KAMPHAENGPHET,western_union,Khanu Woralaksaburi,11
+NAKHONRATCHASIMA,western_union,Non Daeng,2
+CHAINAT,western_union,Mueang,6
+NONGBUALAMPHU,western_union,Non Sang,2
+UTHAITHANI,western_union,Sawang Arom,3
+MUEANGNAKHONRATCHASIMA,western_union,Naimueang,1
+KHONKAEN,western_union,Ban Phai,7
+SINGBURI,western_union,In Buri,5
+NAKHONRATCHASIMA,western_union,Non Sung,6
+MUEANGUTHAITHANI,western_union,Namsuem,1
+NAKHONRATCHASIMA,western_union,Kham Thale So,3
+KAMPHAENGPHET,western_union,Lan Krabue,4
+NONGBUALAMPHU,western_union,Na Wang,1
+UTHAITHANI,western_union,Mueang,6
+NAKHONRATCHASIMA,western_union,Sida,2
+NAKHONRATCHASIMA,western_union,Sung Noen,4
+CHAINAT,western_union,Sapphaya,2
+CHAINAT,western_union,Manorom,3
+KAMPHAENGPHET,western_union,Sai Thong Watthana,2
+NAKHONRATCHASIMA,western_union,Sikhio,8
+KAMPHAENGPHET,western_union,Sai Ngam,2
+LOPBURI,western_union,Phatthana Nikhom,6
+KHONKAEN,western_union,Phon,5
+PHITSANULOK,western_union,Phrom Phiram,6
+KHONKAEN,western_union,Non Sila,1
+NAKHONSAWAN,western_union,Phayuha Khiri,5
+NAKHONSAWAN,western_union,Mueang,27
+NAKHONSAWAN,western_union,Takhli,8
+KHONKAEN,western_union,Nong Ruea,6
+NAKHONSAWAN,western_union,Krok Phra,2
+MUEANGNAKHONSAWAN,western_union,Nakhonsawantok,1
+LOPBURI,western_union,Khok Samrong,5
+LOEI,western_union,Phu Ruea,2
+LOPBURI,western_union,Ban Mi,4
+SARABURI,western_union,Wang Muang,2
+KHONKAEN,western_union,Chonnabot,2
+LOEI,western_union,Erawan,2
+LOEI,western_union,Na Haeo,2
+KHONKAEN,western_union,Bangplad,1
+PHITSANULOK,western_union,Bang Rakam,6
+KHONKAEN,western_union,Phra Yuen,3
+KHONKAEN,western_union,Ban Fang,2
+NAKHONRATCHASIMA,western_union,Bua Yai,5
+NONGBUALAMPHU,western_union,Si Bun Rueang,5
+PHITSANULOK,western_union,Chat Trakan,2
+LOEI,western_union,Wang Saphung,6
+NAKHONRATCHASIMA,western_union,Non Thai,5
+NAKHONSAWAN,western_union,Banphot Phisai,5
+KHONKAEN,western_union,Waeng Yai,3
+NAKHONRATCHASIMA,western_union,Khong,2
+KAMPHAENGPHET,western_union,Bueng Samakkhi,2
+KHONKAEN,western_union,Waeng Noi,2
+LOEI,western_union,Pha Khao,2
+NAKHONSAWAN,western_union,Kao Liao,2
+KHONKAEN,western_union,Mancha Khiri,5
+NAKHONRATCHASIMA,western_union,Kham Sakaesaeng,3
+PHITSANULOK,western_union,Wat Bot,2
+SARABURI,western_union,Muak Leak,1
+KHONKAEN,western_union,Nong Na Kham,2
+KHONKAEN,western_union,Phu Wiang,5
+NAKHONSAWAN,western_union,Muangnakhonsawan,1
+LOEI,western_union,Dan Sai,4
+KHONKAEN,western_union,Khok Pho Chai,1
+PHICHIT,western_union,Wachirabarami,1
+LOEI,western_union,Nong Hin,2
+NAKHONRATCHASIMA,western_union,Dan Khun Thot,7
+LOEI,western_union,Phu Luang,2
+PHICHIT,western_union,Sam Ngam,3
+CHAIYAPHUM,western_union,Ban Thaen,3
+PHICHIT,western_union,Bueng Na Rang,1
+PHICHIT,western_union,Phichit,3
+PHITSANULOK,western_union,Wang Thong,7
+LOPBURI,western_union,Sa Bot,2
+NAKHONSAWAN,western_union,Chum Saeng,6
+MUEANGKHONKAEN,western_union,Naimueang,1
+NAKHONRATCHASIMA,western_union,Kaeng Sanam Nang,3
+LOEI,western_union,Phu Kradueng,2
+PHICHIT,western_union,Pho Prathap Chang,3
+LOPBURI,western_union,Chai Badan,6
+PHICHIT,western_union,Pho Thale,3
+CHAIYAPHUM,western_union,Kaeng Khro,6
+NAKHONSAWAN,western_union,Tak Fa,4
+LOPBURI,western_union,Nong Muang,2
+LOPBURI,western_union,Tha Luang,1
+NAKHONRATCHASIMA,western_union,Phra Thong Kham,1
+KHONKAEN,western_union,Si Chomphu,2
+NAKHONRATCHASIMA,western_union,Thepharak,1
+PHICHIT,western_union,Mueang,8
+CHAIYAPHUM,western_union,Chatturat,6
+LOPBURI,western_union,Khok Charoen,2
+PHITSANULOK,western_union,Bang Krathum,3
+LOPBURI,western_union,Lam Sonthi,2
+KHONKAEN,western_union,Chum Phae,11
+NAKHONSAWAN,western_union,Tha Tako,5
+NAKHONRATCHASIMA,western_union,Ban Lueam,2
+PHITSANULOK,western_union,Nakhon Thai,4
+CHAIYAPHUM,western_union,Khon Sawan,2
+PHICHIT,western_union,Sak Lek,4
+CHAIYAPHUM,western_union,Mueang,15
+CHAIYAPHUM,western_union,Bamnet Narong,4
+PHETCHABUN,western_union,Lom Kao,4
+CHAIYAPHUM,western_union,Muang,1
+PHICHIT,western_union,Bang Mun Nak,7
+CHAIYAPHUM,western_union,Thep Sathit,2
+NAKHONSAWAN,western_union,Phaisali,2
+PHICHIT,western_union,Taphan Hin,6
+KHONKAEN,western_union,Phu Pha Man,2
+CHAIYAPHUM,western_union,Phu Keaw,2
+CHAIYAPHUM,western_union,Phu Khiao,2
+PHETCHABUN,western_union,Si Thep,5
+PHICHIT,western_union,Wang Sai Phun,2
+CHAIYAPHUM,western_union,Khon San,2
+CHAIYAPHUM,western_union,Nong Bua Rawe,4
+NAKHONSAWAN,western_union,Nong Bua,5
+PHITSANULOK,western_union,Noen Maprang,2
+PHETCHABUN,western_union,Nam Nao,1
+CHAIYAPHUM,western_union,Kaset Sombun,3
+CHAIYAPHUM,western_union,Ban Khwao,2
+PHETCHABUN,western_union,Wang Pong,2
+PHETCHABUN,western_union,Lom Sak,10
+PHETCHABUN,western_union,Chon Daen,6
+PHETCHABUN,western_union,Wichian Buri,7
+PHETCHABUN,western_union,Khao Kho,1
+CHAIYAPHUM,western_union,Nong Bua Daeng,5
+PHICHIT,western_union,Tap Khlo,3
+PHICHIT,western_union,Thap Khlo,2
+PHETCHABUN,western_union,Bueng Sam Phan,7
+PHICHIT,western_union,Dong Charoen,1
+CHAIYAPHUM,western_union,Phakdi Chumphon,2
+NAKHONSITHAMMARAT,western_union,Thung Yai,5
+NAKHONSITHAMMARAT,western_union,Nakhon Si Thammarat,18
+NAKHONSITHAMMARAT,western_union,Cha Uat,4
+NAKHONSITHAMMARAT,western_union,Cha-uat,2
+NAKHONSITHAMMARAT,western_union,Thung Song,12
+NAKHONSITHAMMARAT,western_union,Thungsong,1
+NAKHONSITHAMMARAT,western_union,Chulabhorn,1
+NAKHONSITHAMMARAT,western_union,Tham Phannara,1
+NAKHONSITHAMMARAT,western_union,Na Bon,2
+SURATTHANI,western_union,Khian Sa,3
+NAKHONSITHAMMARAT,western_union,Ron Phibun,6
+SAKAEO,western_union,Khao Chakan,1
+NAKHONSITHAMMARAT,western_union,Chawang,9
+SURATTHANI,western_union,Ko Samui,38
+NAKHONSITHAMMARAT,western_union,Hua Sai,6
+NAKHONSITHAMMARAT,western_union,Chaloem Phra Kiat,4
+SURATTHANI,western_union,Khiri Rat Nikhom,5
+SURATTHANI,western_union,Wiang Sa,8
+NAKHONSITHAMMARAT,western_union,Chian Yai,1
+NAKHONSITHAMMARAT,western_union,Lan Saka,2
+SURATTHANI,western_union,Ban Na San,6
+NAKHONSITHAMMARAT,western_union,Phra Phrom,1
+PHETCHABURI,western_union,Nong Ya Plong,1
+PHETCHABURI,western_union,Khao Yoi,3
+NAKHONSITHAMMARAT,western_union,Phipun,2
+SURATTHANI,western_union,Vibhavadi,1
+NAKHONSITHAMMARAT,western_union,Mueang,30
+SURATTHANI,western_union,Ban Na Doem,2
+PHETCHABURI,western_union,Ban Laem,2
+SURATTHANI,western_union,Phunphin,10
+NAKHONSITHAMMARAT,western_union,Phrom Khiri,2
+NAKHONSITHAMMARAT,western_union,Pak Phanang,7
+PHETCHABURI,western_union,Mueang,14
+CHUMPHON,western_union,Phato,2
+PRACHUAPKHIRIKHAN,western_union,Mueang,11
+PHETCHABURI,western_union,Kaeng Krachan,2
+SIRACHA,western_union,Surasak,1
+PHETCHABURI,western_union,Ban Lat,4
+RANONG,western_union,La Un,2
+NAKHONSITHAMMARAT,western_union,Nopphitam,1
+SURATTHANI,western_union,Chaiya,5
+PHETCHABURI,western_union,Tha Yang,6
+SURATTHANI,western_union,Tha Chang,4
+NAKHONSITHAMMARAT,western_union,Tha Sala,7
+CHANTHABURI,western_union,Soi Dao,5
+BANGLAMUNG,western_union,Takhiantia,1
+RANONG,western_union,Kra Buri,2
+SURATTHANI,western_union,Kanchanadit,6
+BANGLAMUNG,western_union,Nongplalai,1
+BANGLAMUNG,western_union,Nakluea,3
+SURATTHANI,western_union,Tha Chana,3
+RANONG,western_union,Kraburi,1
+CHUMPHON,western_union,Lamae,4
+BANGLAMUNG,western_union,Nongprue,2
+SURATTHANI,western_union,Ka De,1
+CHUMPHON,western_union,Sawi,7
+PHETCHABURI,western_union,Cha Am,5
+CHUMPHON,western_union,Lang Suan,8
+PHETCHABURI,western_union,Cha-am,2
+NAKHONSITHAMMARAT,western_union,Sichon,6
+CHANTHABURI,western_union,Pong Nam Ron,4
+SURATTHANI,western_union,Don Sak,6
+CHUMPHON,western_union,Thung Tako,2
+CHANTHABURI,western_union,Kaeng Hang Maeo,1
+PRACHUAPKHIRIKHAN,western_union,Huahin,1
+RAYONG,western_union,Khao Chamao,1
+TRAT,western_union,Bo Rai,2
+CHONBURI,western_union,Pattaya,1
+CHANTHABURI,western_union,Khao Khitchakut,2
+CHONBURI,western_union,Banglamung,5
+CHUMPHON,western_union,Mueang,17
+RAYONG,western_union,Wang Chan,4
+NAKHONSITHAMMARAT,western_union,Khanom,4
+CHONBURI,western_union,A Banglamung,1
+CHANTHABURI,western_union,Makham,2
+CHANTHABURI,western_union,Na Yai Am,5
+PRACHUAPKHIRIKHAN,western_union,Pran Buri,11
+CHONBURI,western_union,Sattahip,14
+CHUMPHON,western_union,Tha Sae,5
+RAYONG,western_union,Klaeng,8
+RAYONG,western_union,Nikhom Phatthana,6
+CHANTHABURI,western_union,Tha Mai,6
+RAYONG,western_union,Ban Khai,4
+PRACHUAPKHIRIKHAN,western_union,Sam Roi Yot,2
+CHUMPHON,western_union,Pathio,7
+RAYONG,western_union,Ban Chang,7
+TRAT,western_union,Khao Saming,6
+RAYONG,western_union,Mueang,39
+RAYONG,western_union,A. Banchang,1
+CHANTHABURI,western_union,Laem Sing,4
+TRAT,western_union,Mueang,9
+CHANTHABURI,western_union,Khlung,5
+TRAT,western_union,Khlong Yai,4
+PRACHUAPKHIRIKHAN,western_union,Kui Buri,4
+PRACHUAPKHIRIKHAN,western_union,Bang Saphan,9
+PRACHUAPKHIRIKHAN,western_union,Bang Saphan Noi,4
+KOSAMUI,western_union,Maret,1
+MUEANGRAYONG,western_union,Phe,1
+TRAT,western_union,Laem Ngop,1
+PRACHUAPKHIRIKHAN,western_union,Thap Sakae,3
+KOSAMUI,western_union,Bophut,1
+SURATTHANI,western_union,Ko Pha-ngan,6
+SURATTHANI,western_union,Ko Pha Ngan,9
+SURATTHANI,western_union,Ko Pangan,1
+TRAT,western_union,Ko Chang,7
+SURATTHANI,western_union,Ko Phangan,1
+BANGKHAE,western_union,Bangkhae,1
+NAKHONSITHAMMARAT,western_union,Bang Khan,2
+KRABI,western_union,Khlong Thom,2
+KRABI,western_union,Ko Lanta,7
+TRANG,western_union,Ratsada,4
+TRANG,western_union,Sikao,4
+TRANG,western_union,Trang,9
+TRANG,western_union,Wang Wiset,1
+TRANG,western_union,Huai Yot,8
+PHATTHALUNG,western_union,Pa Phayom,5
+TRANG,western_union,Kantang,4
+TRANG,western_union,Na Yong,4
+PHATTHALUNG,western_union,Si Banphot,2
+TRANG,western_union,Mueang,17
+PHATTHALUNG,western_union,Khuan Khanun,6
+PHATTHALUNG,western_union,Phatthalung,2
+SONGKHLA,western_union,Ranot,6
+PHATTHALUNG,western_union,Srinagarindra,1
+TRANG,western_union,Yan Ta Khao,4
+TRANG,western_union,Hat Samran,1
+SONGKHLA,western_union,Krasae Sin,2
+PHATTHALUNG,western_union,Kong Ra,2
+TRANG,western_union,Palian,3
+SONGKHLA,western_union,Sathing Phra,4
+PHATTHALUNG,western_union,Khao Chaison,4
+PHATTHALUNG,western_union,Bang Kaeo,3
+SATUN,western_union,Thung Wa,2
+SATUN,western_union,Mueang,8
+PHATTHALUNG,western_union,Tamot,3
+PHATTHALUNG,western_union,Pak Phayun,3
+PHATTHALUNG,western_union,Pa Bon,3
+SONGKHLA,western_union,Singhanakhon,5
+LANGU,western_union,Paknam,1
+SATUN,western_union,La Ngu,3
+SATUN,western_union,La-ngu,2
+SATUN,western_union,Khuan Kalong,5
+SONGKHLA,western_union,Rattaphum,5
+SONGKHLA,western_union,Khuan Niang,1
+HATYAI,western_union,Khohong,1
+SONGKHLA,western_union,Mueang,22
+SATUN,western_union,Tha Phae,2
+SONGKHLA,western_union,Bang Klam,1
+SONGKHLA,western_union,Hat Yai,59
+SATUN,western_union,Khuan Don,2
+SONGKHLA,western_union,Na Mom,1
+SONGKHLA,western_union,Khlong Hoi Khong,2
+SONGKHLA,western_union,Sadao,22
+SONGKHLA,western_union,Chana,5
+PATTANI,western_union,Mueang,12
+PATTANI,western_union,Yaring,1
+PATTANI,western_union,Panare,1
+PATTANI,western_union,Pattani,2
+PATTANI,western_union,Mayo,3
+PATTANI,western_union,Khok Pho,4
+PATTANI,western_union,Nong Chik,2
+SONGKHLA,western_union,Na Thawi,6
+SONGKHLA,western_union,Thepha,4
+PATTANI,western_union,Sai Buri,2
+PATTANI,western_union,Yarang,3
+NARATHIWAT,western_union,Mueang,6
+NARATHIWAT,western_union,Narathiwat,1
+NARATHIWAT,western_union,Tak Bai,4
+YALA,western_union,Mueang,9
+NARATHIWAT,western_union,Bacho,2
+PATTANI,western_union,Kapho,1
+SONGKHLA,western_union,Saba Yoi,4
+PATTANI,western_union,Mai Kaen,1
+NARATHIWAT,western_union,Yi Ngo,1
+NARATHIWAT,western_union,Ra Ngae,2
+NARATHIWAT,western_union,Ra-ngae,1
+NARATHIWAT,western_union,Rueso,2
+YALA,western_union,Kabang,1
+YALA,western_union,Raman,4
+NARATHIWAT,western_union,Su Ngai Kolok,3
+NARATHIWAT,western_union,Su-ngai Kolok,2
+NARATHIWAT,western_union,Su Ngai Padi,3
+NARATHIWAT,western_union,Chanae,1
+YALA,western_union,Bannang Sata,4
+NARATHIWAT,western_union,Si Sakhon,2
+NARATHIWAT,western_union,Waeng,2
+NARATHIWAT,western_union,Sukhirin,1
+YALA,western_union,Than To,2

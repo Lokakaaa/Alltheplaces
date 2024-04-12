@@ -1,0 +1,54 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4483,action,Lyon-Tissot,,Lyon,,,FR,,https://www.action.com/fr-fr/points-de-vente/lyon-19-rue-tissot/,,Action,Q2634111
+1680700407,banque_populaire_fr,LYON VAISE,,LYON,,,FR,+33 9 85 98 07 00,https://agences.banquepopulaire.fr/banque-assurance/agence-lyon-vaise-id1680700407,"Tu-We 08:30-12:30,13:45-17:45; Th 08:30-12:00,13:45-17:45; Fr 08:30-12:30,13:45-17:45; Sa 08:00-12:30",Banque Populaire,Q846647
+4324,carrefour_fr,Carrefour City,,Lyon,,,FR,+33 4 72 17 71 60,https://www.carrefour.fr/magasin/lyon-masaryk,Mo-Sa 07:00-22:00; Su 09:00-13:00,Carrefour City,Q2940187
+4829,carrefour_fr,Carrefour Express,,Lyon,,,FR,+33 4 78 83 29 42,https://www.carrefour.fr/magasin/express-lyon-marietton,Mo-Sa 06:00-21:00; Su 07:00-21:00,Carrefour Express,Q2940190
+6237,carrefour_fr,Carrefour Express,,Lyon 09Eme Arrt,,,FR,+33 4 78 34 25 24,https://www.carrefour.fr/magasin/express-lyon-vaise,Mo-Sa 08:00-21:00; Su 09:00-20:00,Carrefour Express,Q2940190
+https://magasins.supercasino.fr/supermarche/lyon-vaise/CS917,casino_fr,Lyon Vaise,,LYON,,,FR,+33 4 72 85 60 20,https://magasins.supercasino.fr/supermarche/lyon-vaise/CS917,Mo-Su 07:00-23:00,Casino Supermarchés,Q89029184
+https://magasins.supercasino.fr/supermarche/lyon-saint-rambert/CS918,casino_fr,Lyon Saint-rambert,,LYON,,,FR,+33 4 72 53 77 60,https://magasins.supercasino.fr/supermarche/lyon-saint-rambert/CS918,Mo-Su 07:00-21:00,Casino Supermarchés,Q89029184
+82442,century_21_fr,CENTURY 21 Valmy Immobilier,,LYON,,,FR,+33 4 78 83 88 88,https://www.century21.fr/trouver_agence/agence/82442/,,Century 21,Q1054480
+https://www.credit-agricole.fr/particulier/agence/centre-est/lyon-vaise-valmy-1611.html,credit_agricole,Crédit Agricole,,LYON,,,FR,+33 4 78 47 05 97,https://www.credit-agricole.fr/particulier/agence/centre-est/lyon-vaise-valmy-1611.html,"Tu-Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00",Credit Agricole,Q590952
+https://www.credit-agricole.fr/particulier/agence/centre-est/lyon-vaise-saone-1640.html,credit_agricole,Crédit Agricole,,LYON,,,FR,+33 4 78 83 07 62,https://www.credit-agricole.fr/particulier/agence/centre-est/lyon-vaise-saone-1640.html,"Tu-Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00",Credit Agricole,Q590952
+4873,croix_rouge_francaise_fr,UNITE LOCALE LYON RIVE DROITE,,LYON 09,,,FR,,https://www.croix-rouge.fr/unite-locale-de-lyon-9eme,Tu-We 13:30-17:00; Th 13:30-18:00; Fr 13:30-17:30,Croix-Rouge française,Q3003244
+2536,croix_rouge_francaise_fr,MULTI-ACCUEIL LA CHRYSALIDE,,LYON 09,,,FR,,https://www.croix-rouge.fr/multi-accueil-la-chrysalide,Mo-Fr 07:45-18:15,Croix-Rouge française,Q3003244
+https://www.dominos.fr/magasin/lyon-9_69009,dominos_pizza_fr,Domino's,,LYON,,,FR,,https://www.dominos.fr/magasin/lyon-9_69009,,Domino's,Q839466
+https://bureaux.kpmg.fr/#location-108,kpmg_fr,KPMG Avocats Lyon,,Lyon,,,FR,+33 4 87 24 44 00,https://bureaux.kpmg.fr/fr/france-FR/108/kpmg-avocats-lyon/details,Mo-Fr 08:30-18:00,KPMG,Q493751
+https://bureaux.kpmg.fr/#location-299,kpmg_fr,KPMG Lyon,,Lyon,,,FR,+33 4 37 64 75 00,https://bureaux.kpmg.fr/fr/france-FR/299/kpmg-lyon/details,Mo-Fr 08:00-19:30,KPMG,Q493751
+2990,lidl_fr,LYON Pierre,,LYON,,,FR,,,Mo-Sa 08:30-19:30,Lidl,Q151954
+1673,mcdonalds_fr,LYON DOCKS,,LYON,,,FR,+33 4 78 83 36 01,https://www.mcdonalds.fr/restaurants/mcdonalds-lyon-docks/1673,Mo-Th 09:00-00:30; Fr-Su 09:00-01:00,McDonald's,Q38076
+74135150,moneygram,MACPCPHONE - LYON,,LYON,,,FR,+33 7 62 56 69 14,,Mo-Su 08:00-22:00,MoneyGram,Q1944412
+70898349,moneygram,ABK WORLD - LYON,,LYON,,,FR,+33 4 81 11 62 26,,Mo-Sa 09:00-19:00; Su 00:00-24:00,MoneyGram,Q1944412
+337-opticien-lyon-vaise-optical-center,optical_center,Opticien LYON - VAISE Optical Center,,Lyon,,,FR,+33 4 37 58 09 09,https://opticien.optical-center.fr/337-opticien-lyon-vaise-optical-center,Mo-Sa 10:00-19:00,Optical Center,Q3354448
+00020338_001-renault,renault,GARAGE SAINT RAMBERT,,LYON 09,,,FR,+33 4 78 83 82 17,,,Renault,Q6686
+00020338_001-dacia,renault,GARAGE SAINT RAMBERT,,LYON 09,,,FR,+33 4 78 83 82 17,,,Dacia,Q27460
+25003117_001-renault,renault,RENAULT LYON NORD ST SIMON - RRG,,LYON 09,,,FR,+33 4 72 20 72 04,,,Renault,Q6686
+00020361_001-renault,renault,GARAGE DE ROCHECARDON,,LYON 09,,,FR,+33 4 78 83 71 15,,,Renault,Q6686
+00020361_001-dacia,renault,GARAGE DE ROCHECARDON,,LYON 09,,,FR,+33 4 78 83 71 15,,,Dacia,Q27460
+00000556_001-renault,renault,RENAULT LYON NORD - RRG,,LYON 09,,,FR,+33 4 72 20 72 20,,,Renault,Q6686
+00000556_001-dacia,renault,RENAULT LYON NORD - RRG,,LYON 09,,,FR,+33 4 72 20 72 20,,,Dacia,Q27460
+NF059642,totalenergies,RELAIS VALLONNIERE,,LYON,,,FR,+33 4 78 25 96 18,https://store.totalenergies.fr/en_EN/NF059642,Mo-Fr 07:00-22:00; Sa 07:00-21:00; Su 08:00-21:00,Total Access,Q154037
+NF082158,totalenergies,RELAIS MARIETTON,,LYON,,,FR,+33 4 78 83 29 42,https://store.totalenergies.fr/en_EN/NF082158,Mo-Su 06:00-22:00,TotalEnergies,Q154037
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON 9EME,,,FR,,,,,
+,visa,,,LYON 9EME,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON 9EME,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+,visa,,,LYON,,,FR,,,,,
+6FR800615,volvo,FELIX FAURE AUTOMOBILES,,LYON NORD,,,FR,+33 4 72 20 51 51,https://volvocars-concessions.com/fr/lyon-vaise,,Volvo,Q215293
+04f36e80ed69c5da34884092d7085f15,western_union,JABRI MOUNIR,,Lyon,,,FR,+33 6 59 94 80 95,https://location.westernunion.com/fr/state/lyon/04f36e80ed69c5da34884092d7085f15,Mo-Su 08:00-24:00,Western Union,Q861042

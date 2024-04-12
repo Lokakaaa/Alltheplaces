@@ -1,0 +1,232 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,5
+KHOMAS,audi,Windhoek,1
+WINDHOEK,avis,Windhoek,1
+SWAKOPMUND,avis,Swakopmund,1
+WALVISBAY,avis,Walvis Bay,2
+ONDANGWA,avis,Ondangwa,1
+BISMARCK,avis,Luderitzbucht,1
+UNKNOWN,engen,Omuthiya,1
+UNKNOWN,engen,Windhoek,13
+UNKNOWN,engen,Uis,1
+UNKNOWN,engen,Walvis Bay,2
+UNKNOWN,engen,Luderitz,1
+UNKNOWN,engen,Keetmanshoop,3
+UNKNOWN,engen,Gobabis,2
+UNKNOWN,engen,Eenhana,1
+UNKNOWN,engen,Oshivelo,1
+UNKNOWN,engen,Karibib,1
+UNKNOWN,engen,Swakopmund,2
+UNKNOWN,engen,Tsumeb,3
+UNKNOWN,engen,Onyaanya,1
+UNKNOWN,engen,Karasburg,1
+UNKNOWN,engen,Helmeringhausen,1
+UNKNOWN,engen,Divundu,1
+UNKNOWN,engen,Otjiwarongo,2
+UNKNOWN,engen,Katima Mulilo,1
+UNKNOWN,engen,Usakos,2
+UNKNOWN,engen,Mariental,1
+UNKNOWN,engen,Outjo,1
+UNKNOWN,engen,Noordoewer,1
+UNKNOWN,engen,Okahandja,2
+UNKNOWN,engen,Okahao,1
+UNKNOWN,engen,Ondangwa,1
+UNKNOWN,engen,Oshakati,2
+UNKNOWN,engen,Ongwediva,2
+UNKNOWN,engen,Oshikuku,2
+UNKNOWN,engen,Outapi,1
+UNKNOWN,engen,Rundu,1
+UNKNOWN,engen,Grootfontein,1
+UNKNOWN,engen,Sosus Vlei,1
+UNKNOWN,engen,Rosh Pinah,1
+UNKNOWN,engen,Khorixas,1
+UNKNOWN,ernst_young,Windhoek,1
+UNKNOWN,ford,Khomas,1
+UNKNOWN,ford,Erongo,1
+UNKNOWN,ford,Otjiwarongo,1
+UNKNOWN,ford,Grootfontein,1
+UNKNOWN,ford,Oshakati,1
+UNKNOWN,hilton,unknown,1
+NAM,lovisa,Windhoek,1
+NAM,lovisa,Walvis Bay,1
+UNKNOWN,lovisa,Windhoek,1
+UNKNOWN,man_truck_and_bus,Namibia,1
+UNKNOWN,marriott,Katima Mulilo,1
+UNKNOWN,marriott,Ondangwa,1
+UNKNOWN,marriott,Walvis Bay,2
+UNKNOWN,marriott,Windhoek,1
+UNKNOWN,moneygram,OUTJO,1
+UNKNOWN,moneygram,OTJIWARONGO,1
+UNKNOWN,moneygram,WINDHOEK,19
+UNKNOWN,moneygram,WALVIS BAY,5
+UNKNOWN,moneygram,MAROELA,1
+UNKNOWN,moneygram,ONDANGWA,1
+UNKNOWN,moneygram,OSHAKATI,2
+UNKNOWN,moneygram,OSHIKANGO,4
+UNKNOWN,moneygram,OTJOZONDJUPA,1
+UNKNOWN,moneygram,RUNDU,1
+UNKNOWN,moneygram,SWAKOPMUND,6
+UNKNOWN,moneygram,WALBIS BAY,1
+UNKNOWN,moneygram,LUDERITZ,1
+UNKNOWN,moneygram,KATIMA MULILO,2
+UNKNOWN,moneygram,GOBABIS,1
+UNKNOWN,nissan_europe,Otjiwarongo,1
+UNKNOWN,nissan_europe,Okahandja,1
+UNKNOWN,nissan_europe,Oshakati,1
+UNKNOWN,nissan_europe,Swakopmund,1
+UNKNOWN,nissan_europe,Windhoek,1
+UNKNOWN,nissan_europe,Mariental,1
+UNKNOWN,scania,Ondangwa,1
+UNKNOWN,scania,Walvis Bay,1
+UNKNOWN,scania,Windhoek,1
+KAVANGOEAST,shell,Rundu,1
+KAVANGOWEST,shell,Nkurenkuru,1
+OTJOZONDJUPA,shell,Grootfontein,1
+OSHANA,shell,Ondangwa,5
+KHOMAS,shell,Windhoek,9
+OMAHEKE,shell,Gobabis,2
+HARDAP,shell,Rehoboth,4
+OSHIKOTO,shell,Tsumeb,1
+OHANGWENA,shell,Okongo,1
+OTJOZONDJUPA,shell,Otavi,1
+OSHIKOTO,shell,Omuthiya,1
+OHANGWENA,shell,Eenana,2
+OTJOZONDJUPA,shell,Okakarara,2
+ZAMBEZI,shell,Kongola,1
+OHANGWENA,shell,Omafo,1
+OSHANA,shell,Ongwediva,1
+OTJOZONDJUPA,shell,Otjiwarongo,3
+OSHANA,shell,Oshakati,1
+ZAMBEZI,shell,Katima Mulilo,3
+OMUSATI,shell,Okahao,1
+OTJOZONDJUPA,shell,Kalkfeld,1
+OMUSATI,shell,Ombalantu,1
+OMUSATI,shell,Tsandi,1
+OTJOZONDJUPA,shell,Okahandja,2
+ERONGO,shell,Omaruru,1
+KARAS,shell,Oranjemund,1
+KARAS,shell,Grunau,1
+KARAS,shell,Luderitz,1
+HARDAP,shell,Mariental,2
+HARDAP,shell,Stampriet,1
+HARDAP,shell,Kalkrand,1
+ERONGO,shell,Usakos,1
+ERONGO,shell,Swakopmund,4
+ERONGO,shell,Dolphin Beach,1
+ERONGO,shell,Walvisbay,2
+ERONGO,shell,Walvis Bay,1
+OTJOZONDJUPA,shell,Oshifo,1
+KARAS,the_courier_guy,unknown,1
+KHOMAS,tops_at_spar,Namibia,5
+ERONGO,tops_at_spar,Namibia,4
+KARAS,tops_at_spar,Namibia,2
+KUNENE,tops_at_spar,Namibia,2
+OTJOZONDJUPA,tops_at_spar,Namibia,2
+KHOMAS,tops_at_spar,Omaruru,1
+OSHIKOTO,tops_at_spar,Namibia,1
+OSHANA,tops_at_spar,Namibia,3
+KHOMAS,tops_at_spar,NAMIBIA,1
+HARDAP,tops_at_spar,Namibia,2
+UNKNOWN,totalenergies,Okahandja,2
+UNKNOWN,totalenergies,Walvis Bay,6
+UNKNOWN,totalenergies,Windhoek,16
+UNKNOWN,totalenergies,Ombalantu,1
+UNKNOWN,totalenergies,Oshakati,2
+UNKNOWN,totalenergies,Buitepos,2
+UNKNOWN,totalenergies,Otavi,2
+UNKNOWN,totalenergies,Mariental,2
+UNKNOWN,totalenergies,Keetmanshoop,2
+UNKNOWN,totalenergies,Swakopmund,2
+UNKNOWN,totalenergies,Hentiesbay,2
+UNKNOWN,totalenergies,Aranos,2
+UNKNOWN,totalenergies,Rundu,4
+UNKNOWN,totalenergies,Ondangwa,4
+UNKNOWN,totalenergies,Okahao,1
+UNKNOWN,totalenergies,Outjo,2
+UNKNOWN,totalenergies,Outapi,1
+UNKNOWN,totalenergies,Grootfontein,2
+UNKNOWN,totalenergies,Ondiihaluka,1
+UNKNOWN,totalenergies,Katima Mulilo,3
+UNKNOWN,totalenergies,Ongwediva,1
+UNKNOWN,totalenergies,Okongo,1
+UNKNOWN,totalenergies,ONYAANYA,1
+UNKNOWN,totalenergies,Omustegonime,1
+UNKNOWN,totalenergies,unknown,3
+ERONGO,truworths,Swakopmund,1
+UNKNOWN,visa,RUACANA,1
+UNKNOWN,visa,OSHAKATI,19
+UNKNOWN,visa,OPUWO,7
+UNKNOWN,visa,ONDANGWA,15
+UNKNOWN,visa,ONGWEDIVA,6
+UNKNOWN,visa,OUTAPI,5
+UNKNOWN,visa,TSANDI,1
+UNKNOWN,visa,OKALONGO,2
+UNKNOWN,visa,OGONGO,1
+UNKNOWN,visa,OKAHAO,1
+UNKNOWN,visa,OSHIKUKU,2
+UNKNOWN,visa,EENHANA,5
+UNKNOWN,visa,OSHIKANGO,2
+UNKNOWN,visa,ONDOBE,1
+UNKNOWN,visa,OMAFO,2
+UNKNOWN,visa,OHANGWENA,1
+UNKNOWN,visa,ONHUNO,1
+UNKNOWN,visa,WINDHOEK,127
+UNKNOWN,visa,ONGWENDIVA,1
+UNKNOWN,visa,EENHANHA,1
+UNKNOWN,visa,ONIIPA,1
+UNKNOWN,visa,ONETHINDI,1
+UNKNOWN,visa,ONYANYA,1
+UNKNOWN,visa,OKONGO,1
+UNKNOWN,visa,KAMANJAB,1
+UNKNOWN,visa,OMUTHIYA,1
+UNKNOWN,visa,TSUMEB,6
+UNKNOWN,visa,KHORIXAS,2
+UNKNOWN,visa,NKURENKURU,2
+UNKNOWN,visa,OUTJO,3
+UNKNOWN,visa,KARIBIB,2
+UNKNOWN,visa,UIS,1
+UNKNOWN,visa,RUNDU,11
+UNKNOWN,visa,OTAVI,3
+UNKNOWN,visa,HENTIESBAY,1
+UNKNOWN,visa,HENTIES BAY,1
+UNKNOWN,visa,OTJIWARONGO,9
+UNKNOWN,visa,GROOTFONTEIN,6
+UNKNOWN,visa,OMARURU,3
+UNKNOWN,visa,SWAKOPMUND,19
+UNKNOWN,visa,USAKOS,2
+UNKNOWN,visa,ARANDIS,1
+UNKNOWN,visa,OKAKARARA,2
+UNKNOWN,visa,LANGSTRAND,1
+UNKNOWN,visa,WALVIS BAY,21
+UNKNOWN,visa,OKAHANDJA,7
+UNKNOWN,visa,OKANJATU,1
+ERONGO,visa,PRAIA,1
+UNKNOWN,visa,DIVUNDU,2
+UNKNOWN,visa,MARIENTAL,5
+UNKNOWN,visa,OTJINENE,1
+UNKNOWN,visa,REHOBOTH,5
+UNKNOWN,visa,GOBABIS,5
+UNKNOWN,visa,KATIMA MULILO,7
+UNKNOWN,visa,BORDER POST,1
+UNKNOWN,visa,HARDAP,1
+UNKNOWN,visa,LUDERITZ,3
+UNKNOWN,visa,ARANOS,2
+UNKNOWN,visa,KEETMANSHOOP,5
+UNKNOWN,visa,BETHANIE,1
+UNKNOWN,visa,ROSH PINAH,3
+UNKNOWN,visa,ORANJEMUND,3
+UNKNOWN,visa,AUSSENKEHR,1
+UNKNOWN,visa,KARASBURG,1
+UNKNOWN,visa,ARIAMSVLEI,1
+OHANGWENA,western_union,Oshikango,1
+OSHANA,western_union,Oshakati,2
+OSHANA,western_union,Ondangwa,1
+KARAS,western_union,Luderitz,1
+ERONGO,western_union,Walvis Bay,2
+ERONGO,western_union,Walvisbay,1
+ERONGO,western_union,Swakopmund,3
+OTJOZONDJUPA,western_union,Otjiwarongo,1
+KHOMAS,western_union,Windhoek,11
+KHOMAS,western_union,Onndhoek,1
+KAVANGOEAST,western_union,Rundu,1
+CAPRIVI,western_union,Katima Mulilo,1

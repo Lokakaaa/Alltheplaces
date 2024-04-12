@@ -1,0 +1,48 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+3937,abc_pl,abc,,Kalinówka,lubelskie,,PL,,,,abc,Q11683985
+14344,abc_pl,abc,,Świdnik,lubelskie,,PL,,,,abc,Q11683985
+PL001240,aldi_nord_pl,ALDI,,Świdnik,Lubelskie,,PL,+48 800 118 118,,Mo-Sa 07:00-22:00,ALDI,Q41171373
+PL001330,aldi_nord_pl,ALDI,,Świdnik,Lubelskie,,PL,+48 800 118 118,,Mo-Sa 07:00-22:00,ALDI,Q41171373
+337,bricomarche_pl,Bricomarché Świdnik,,Świdnik,lubelskie,,PL,+48 518 351 741,https://www.bricomarche.pl/sklep/bricomarche-swidnik,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/2090-swidnik-niepodleglosci,credit_agricole_pl,"Credit Agricole Niepodległości 11, Świdnik",,Świdnik,lubelskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/2090-swidnik-niepodleglosci,Mo-Fr 08:30-16:00,Credit Agricole,Q590952
+12506,groszek_pl,Groszek,,Świdnik,lubelskie,,PL,,,,Groszek,Q9280965
+440,mcdonalds_pl,McDonald's,,Świdnik,Lubelskie,,PL,+48 539 937 117,https://mcdonalds.pl/restauracje/lubelskie/swidnik/swidnik-ul-raclawicka-34,Mo-Su 07:00-24:00,McDonald's,Q38076
+KAZI01M,paczkomat_inpost_pl,Market Dino,,Kazimierzówka,lubelskie,,PL,,https://inpost.pl/paczkomat-kazimierzowka-kazi01m-kazimierzowka-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+KIV01M,paczkomat_inpost_pl,Przy Stokrotce,,Kalinówka,lubelskie,,PL,,https://inpost.pl/paczkomat-kalinowka-kiv01m-malwowa-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+POP-SID4,paczkomat_inpost_pl,EPAKA,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-pop-sid4-kopernika-paczkomaty-lubelskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-SID5,paczkomat_inpost_pl,BRICOMARCHE,,Świdnik ,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-pop-sid5-sportowa-paczkomaty-lubelskie,Mo-Sa 08:00-20:00,Paczkomat,Q110970254
+POP-SID7,paczkomat_inpost_pl,PRYMUS AGD,,Świdnik ,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-pop-sid7-wyszynskiego-paczkomaty-lubelskie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+SID01A,paczkomat_inpost_pl,Przy Kauflandzie,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid01a-krepiecka-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID01M,paczkomat_inpost_pl,Przy bocznym wejściu do Hali Targowej,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid01m-targowa-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID01W,paczkomat_inpost_pl,Przy Bricomarche,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid01w-sportowa-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID02M,paczkomat_inpost_pl,Za Lidlem,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid02m-al-lotnikow-polskich-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID02N,paczkomat_inpost_pl,Przy markecie Carrefour,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid02n-lotnikow-polskich-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID02W,paczkomat_inpost_pl,Na myjni 24H,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid02w-cyprysowa-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID03M,paczkomat_inpost_pl,Przy  siłowni HERKULES GYM,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid03m-jaworowa-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID04M,paczkomat_inpost_pl,Przy Chińskim Centrum Handlowym Da Xing,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid04m-kosynierow-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID06M,paczkomat_inpost_pl,Myjnia Auto-MiK,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid06m-aleja-armii-krajowej-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID07M,paczkomat_inpost_pl,Myjnia 24H,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid07m-spadochroniarzy-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID08M,paczkomat_inpost_pl,Ciuchland Centrum,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid08m-kosynierow-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID09M,paczkomat_inpost_pl,Parking Marsoft,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid09m-glogowa-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID10M,paczkomat_inpost_pl,Market Dino,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid10m-klonowa-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID12M,paczkomat_inpost_pl,Przy Biedronce,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid12m-wyszynskiego-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID13M,paczkomat_inpost_pl,"Przy hurtowni lodów, ryb i mrożonek",,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid13m-kalinowka-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID14M,paczkomat_inpost_pl,Przy Aldi,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid14m-piasecka-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+SID16M,paczkomat_inpost_pl,Przy Aldi,,Świdnik,lubelskie,,PL,,https://inpost.pl/paczkomat-swidnik-sid16m-zbozowa-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+https://105.pl/pizzeria-swidnik/#local-place,pizzeria_105_pl,Pizzeria 105,,Świdnik,Lubelskie,,PL,+48 572 488 105,https://105.pl/pizzeria-swidnik/,Mo-Th 12:00-22:00; Fr-Sa 12:00-23:00; Su 14:00-22:00,Pizzeria 105,Q123090276
+742,play_pl,Salon Play,Ul. Wyszyńskiego 17,Świdnik,lubelskie,,PL,+48 790 030 643,,Mo-Sa 09:00-20:00; Su 11:00-18:00,Play,Q7202998
+269294,poczta_polska_pl,UP Świdnik k. Lublina 1,,Świdnik,LUBELSKIE,,PL,+48 81 751 47 08;+48 81 751 57 99,,,Poczta Polska,Q168833
+373275,poczta_polska_pl,FUP Świdnik k. Lublina 1,,Świdnik,LUBELSKIE,,PL,+48 81 751 57 64,,,Poczta Polska,Q168833
+7161,tedi,TEDi Sieć Handlowa Sp. z o.o.,,Świdnik,Lubelskie,,PL,+48 32 450 36 20,https://www.tedi.com/stores/7161/pl/Lubelskie/Świdnik/Wyszyńskiego-17,Mo-Sa 11:00-18:00,TEDi,Q1364603
+,visa,,,ŚWIDNIK,LUBELSKIE,,PL,,,,,
+,visa,,,ŚWIDNIK,LUBELSKIE,,PL,,,,,
+,visa,,,SWIDNIK,LUBELSKIE,,PL,,,,,
+,visa,,,ŚWIDNIK,LUBELSKIE,,PL,,,,,
+,visa,,,ŚWIDNIK,LUBELSKIE,,PL,,,,,
+,visa,,,ŚWIDNIK,LUBELSKIE,,PL,,,,,
+,visa,,,SWIDNIK,LUBELSKIE,,PL,,,,,
+,visa,,,ŚWIDNIK,LUBELSKIE,,PL,,,,,
+,visa,,,SWIDNIK,LUBELSKIE,,PL,,,,,
+5355e19f9b805b396b6a6420e427370c,western_union,BANK PEKAO SA,,Swidnik,LUBELSKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/lubelskie/swidnik/5355e19f9b805b396b6a6420e427370c,Mo-Fr 09:30-17:00,Western Union,Q861042
+814c4c8dcb688d0ff8788c720dce82cb,western_union,SPOLDZIELCZY BANK POWIATOWY,,Swidnik,LUBELSKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/lubelskie/swidnik/814c4c8dcb688d0ff8788c720dce82cb,Mo-Fr 09:00-17:00,Western Union,Q861042
+66fb8120e9baecc425c93f29fdd4add1,western_union,STEFCZYK FINANSE,,Swidnik,LUBELSKIE,,PL,+48 81 759 14 00,https://location.westernunion.com/pl/lubelskie/swidnik/66fb8120e9baecc425c93f29fdd4add1,Mo-Fr 09:00-15:00,Western Union,Q861042

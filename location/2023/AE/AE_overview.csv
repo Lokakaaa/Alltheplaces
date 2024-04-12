@@ -1,0 +1,425 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,81
+UNKNOWN,adidas,Ras al Khaimah,1
+FU,adidas,Fujairah,1
+AZ,adidas,Abu Dhabi,4
+DU,adidas,Dubai,23
+AZ,adidas,Al Ain,2
+UNKNOWN,adidas,Al Ain,1
+SH,adidas,Sharjah,2
+UNKNOWN,adidas,Dubai,2
+UNKNOWN,adidas,Fujairah,1
+UNKNOWN,adidas,Abu Dhabi,1
+AJ,adidas,Ajman,1
+DU,adidas,Abu Dhabi,1
+SH,adidas,Fujairah,1
+UNKNOWN,alamo,Dubai,3
+UNKNOWN,alamo,Abu Dhabi,1
+UNKNOWN,alstom,unknown,3
+UNKNOWN,american_eagle_outfitters,Abu Dhabi,1
+ABUDHABI,american_eagle_outfitters,Al Ain Mezyad Road,1
+ABUDHABI,american_eagle_outfitters,Abu Dhabi,2
+ABUDHABI,american_eagle_outfitters,Abu Dhabi P.O. Box 4040,1
+UAE,american_eagle_outfitters,Abu Dhabi P.O. Box 91122,1
+DUBAI,american_eagle_outfitters,Dubai,1
+UAE,american_eagle_outfitters,Sharjah,1
+UAE,american_eagle_outfitters,Dubai,4
+UAE,american_eagle_outfitters,Dubai Sheikh Zayed Road,1
+UAE,american_eagle_outfitters,Dubai Al Barsha,1
+UAE,american_eagle_outfitters,Abu Dhabi,1
+UNKNOWN,american_eagle_outfitters,Raz Al Khaimah,1
+UNKNOWN,american_eagle_outfitters,Dubai The Palm Jumerirah,1
+UNKNOWN,american_eagle_outfitters,Al Ain,1
+ABUDHABI,apple,Abu Dhabi,2
+DUBAI,apple,Dubai,2
+DUBAI,asian_paints_arabia,unknown,5
+ABUDHABI,asian_paints_arabia,unknown,5
+AJMAN,asian_paints_arabia,unknown,1
+RASALKHAIMAH,asian_paints_arabia,unknown,1
+FUJAIRAH,asian_paints_arabia,unknown,2
+UNKNOWN,aster_pharmacy_ae,unknown,4
+UNKNOWN,aster_pharmacy_ae,Sharjah,28
+UNKNOWN,aster_pharmacy_ae,Dubai,140
+UNKNOWN,aster_pharmacy_ae,Abu Dhabi,18
+UNKNOWN,aster_pharmacy_ae,Ajman,10
+UNKNOWN,aster_pharmacy_ae,Ras Al Khaima,3
+UNKNOWN,aster_pharmacy_ae,Ras Al Khaimah,2
+UNKNOWN,aster_pharmacy_ae,Fujairah,3
+UNKNOWN,aster_pharmacy_ae,Umm Al Quawain,1
+ABUDHABI,audi,Abu Dhabi,2
+ABUDHABI,audi,Al Ain,1
+DUBAI,audi,Dubai,2
+ALFUJAYRAH,audi,Fujairah,1
+ASHSHARIQAH,audi,Sharjah,1
+KIOSKK09GROUNDFLOOR,avis,Dubai,1
+FRONTENTRANCE,avis,Dubai,1
+JUMEIRAHBEACHRESIDENCE,avis,Jumeirah Dubai,1
+DUBAI,avis,Dubai,5
+SHARJAHEXPOPARKINGBUILDING,avis,Sharjah,1
+POBOX3237RUWAIS,avis,Al Ruwais City,1
+ABUDHABI,avis,Abu Dhabi,1
+HAMDANBINMOHAMMEDST,avis,Abu Dhabi,1
+UNKNOWN,bmw_group,Dubai,2
+UNKNOWN,bmw_group,Al Ain,1
+UNKNOWN,bmw_group,Sharjah,1
+UNKNOWN,bmw_group,Abu Dhabi,3
+UNKNOWN,bmw_group,Ras Al Khaimah,1
+UNITEDARABEMIRATES,bmw_group,Dubai,2
+UNKNOWN,bmw_group,Fujairah,1
+DUBAI,botteg_aveneta,Dubai,5
+ABUDHABI,botteg_aveneta,Abu Dhabi,1
+ASHSHARIQAH,chicken_street,unknown,1
+UNKNOWN,costa_coffee,unknown,147
+UNKNOWN,crocs_eu,Dubai,13
+UNKNOWN,crocs_eu,Abu Dhabi,6
+UNKNOWN,deloitte,Sharjah,1
+UNKNOWN,deloitte,Ras Al-Khaimah,1
+UNKNOWN,deloitte,Fujairah,1
+UNKNOWN,deloitte,Dubai,6
+UNKNOWN,deloitte,Abu Dhabi,1
+UNKNOWN,ecco,Ras al-Khaimah,1
+UNKNOWN,ecco,Dubai,7
+UNKNOWN,ecco,Abu Dhabi,4
+UNKNOWN,ecco,Al Ain,1
+UNKNOWN,ecco,ABU DHABI,1
+UNKNOWN,ecco,Mirdif,1
+UNKNOWN,enterprise,Dubai,15
+UNKNOWN,enterprise,Fujairah,1
+UNKNOWN,enterprise,Al Ain,1
+UNKNOWN,enterprise,Abu Dhabi,3
+UNKNOWN,enterprise,Sharjah,1
+UNKNOWN,ernst_young,Abu Dhabi,1
+UNKNOWN,ernst_young,Dubai,2
+ABUDHABI,five_guys_ae,Abu Dhabi,2
+UNKNOWN,five_guys_ae,Dubai,4
+UNITEDARABEMIRATES,five_guys_ae,Dubai,3
+UAE,five_guys_ae,Abu Dhabi,1
+DUBAI,five_guys_ae,Dubai,2
+UNKNOWN,ford,الشارقة,5
+UNKNOWN,ford,Sharjah,5
+UNKNOWN,ford,شارع العين,2
+UNKNOWN,ford,Al Ain,3
+UNKNOWN,ford,أبوظبي,2
+UNKNOWN,ford,Abu Dhabi,6
+UNKNOWN,ford,دبي,5
+UNKNOWN,ford,Dubai,5
+UNKNOWN,ford,الفجيرة,2
+UNKNOWN,ford,Fujairah,2
+UNKNOWN,ford,رأس الخيمة,3
+UNKNOWN,ford,Ras Al Khaimah,3
+UNKNOWN,ford,العين,1
+UNKNOWN,ford,أبو ظبي,2
+UNKNOWN,ford,Ajman,1
+UNKNOWN,ford,عجمان,1
+UNKNOWN,gbfs,unknown,276
+UNKNOWN,geox,ABU DHABI,1
+UNKNOWN,geox,DUBAI,6
+UNKNOWN,geox,DUBAI MARINA MALL,1
+UNKNOWN,geox,unknown,1
+DUBAI,google_offices,unknown,1
+UNKNOWN,hardrock,Dubai,2
+UNKNOWN,hilton,unknown,7
+DUBAI,hm,Dubai,14
+ABUDHABI,hm,Abu Dhabi,9
+FUJAIRAH,hm,Fujairah,1
+RASALKHAIMAH,hm,Ras Al Khaimah,1
+DUBAI,hm,Abu Dhabi,1
+DUBAI,hm,Al Ain,2
+UNKNOWN,hm,Dubai,1
+ABUDHABI,hm,Ajman,1
+ABUDHABI,hm,Al Ain,1
+UNKNOWN,hm,Sharjah,1
+02,hugo_boss,Dubai,18
+01,hugo_boss,Abu Dhabi,3
+UNKNOWN,ikea,أبوظبي,1
+UNKNOWN,ikea,Dubai,1
+UNKNOWN,ikea,دبي,1
+DUBAI,ikks,DUBAI,1
+UNITEDARABEMIRATES,jll,Abu Dhabi,1
+UNITEDARABEMIRATES,jll,Dubai,1
+UNKNOWN,leonidas,Dubai,1
+UNKNOWN,leonidas,Jumeirah,1
+UNKNOWN,leonidas,DUBAI,1
+UNKNOWN,lhw,Dubai,2
+SHARJAH,lovisa,Sharjah,1
+ABUDHABI,lovisa,Abu Dhabi,1
+UNKNOWN,man_truck_and_bus,Abu Dhabi,1
+UNKNOWN,man_truck_and_bus,Dubai,2
+UNKNOWN,man_truck_and_bus,Sharjah,2
+UNKNOWN,man_truck_and_bus,Umm Al Naar,1
+UNKNOWN,marriott,Abu Dhabi,12
+UNKNOWN,marriott,Al Ain,1
+UNKNOWN,marriott,Dubai,42
+UNKNOWN,marriott,Sharjah,2
+UNKNOWN,marriott,Fujairah,1
+UNKNOWN,marriott,Ras Al Khaimah,2
+UNKNOWN,maserati,ABU DHABI,2
+UNKNOWN,maserati,DUBAI,2
+UNKNOWN,maserati,SHARJAH,1
+ABUDHABI,mercedes_benz,Abu Dhabi,4
+DUBAI,mercedes_benz,Dubai,6
+ABUDHABI,mercedes_benz,Al Ain,1
+FUJAIRAH,mercedes_benz,Fujairah,1
+DUBAI,mercedes_benz,Sharjah,1
+UNKNOWN,mercedes_benz,Zayed City,1
+DUBAI,mercedes_benz,Dubai ,1
+ABUDHABI,mercedes_benz,Abu Dhabi ,1
+RASALKHAIMAH,mercedes_benz,Ras Al Khaimah,1
+DUBAI,meta,unknown,1
+DUBAI,michaelkors,Dubai,14
+CENTRAL,michaelkors,Riyadh,6
+ASEER,michaelkors,Abha,2
+ABUDHABI,michaelkors,Al Ain,2
+ABUDHABI,michaelkors,Abu Dhabi,4
+UNKNOWN,moneygram,DUBAI,45
+UNKNOWN,moneygram,ABU DHABI,16
+UNKNOWN,moneygram,RAS AL KHAIMA,1
+UNKNOWN,moneygram,SHARJAH,12
+UNKNOWN,moneygram,AJMAN,3
+UNKNOWN,moneygram,VINELAND,1
+UNKNOWN,moneygram,AL NAHDA,1
+UNKNOWN,moneygram,MUSAFFAH,2
+UNKNOWN,moneygram,RAWDHA,1
+UNKNOWN,moneygram,ASH SHARIQAH,1
+UNKNOWN,moneygram,AL FUJAIRAH,1
+UNKNOWN,moneygram,AL AIN,2
+UNKNOWN,moneygram,AL `AYN,1
+UNKNOWN,moneygram,`AJMAN,2
+UNKNOWN,moneygram,RA'S AL KHAYMAH,1
+UNKNOWN,moneygram,RAS AL KHAIMAH,4
+UNKNOWN,moneygram,AL FUJAYRAH,1
+UNKNOWN,moneygram,JABEL ALI,1
+DUBAI,nandos_ae,unknown,1
+UNKNOWN,national,Dubai,3
+UNKNOWN,national,Abu Dhabi,1
+UNKNOWN,newyorker,Dubai,3
+UNKNOWN,newyorker,Sharjah,2
+UNKNOWN,next,Abu Dhabi,4
+UNKNOWN,next,Sharjah,1
+UNKNOWN,next,Dubai,4
+FOURTHINTERCHANGE,next,Al Barsha,1
+DUBAI,next,Near Souk Al Bahar Bridge,1
+DUBAI,next,Deira,1
+UNKNOWN,next,Al Ain,1
+UNKNOWN,next,Al Wadha,1
+UNKNOWN,next,Ras Al Khaimah,1
+UNKNOWN,next,Alnyadet St,1
+UNKNOWN,nike,Dubai,2
+UNKNOWN,nike,Abu Dhabi,1
+DUBAI,orangetheory_fitness,Jumeirah,1
+ABUDHABI,ovs,Abu Dhabi,3
+UNKNOWN,ovs,Dubai,6
+UNKNOWN,ovs,Abu Dhabi,1
+UNKNOWN,ovs,Castagnole,1
+UNKNOWN,petit_bateau,Dubai,1
+UNKNOWN,pizza_hut_ae_sa,unknown,140
+UNKNOWN,popeyes_ae,unknown,38
+NA,reebok,Dubai,4
+NA,reebok,Sharjah,2
+NA,reebok,Al Ain,1
+NA,reebok,Abu Dhabi,1
+UNKNOWN,reebok,Dubai,4
+UNKNOWN,reebok,Sharjah,2
+UNKNOWN,reebok,Abu Dhabi,1
+UNKNOWN,reebok,Al Ain,1
+ASHSHARIQAH,sbarro,Dubai,1
+DUBAI,sbarro,Dubai,2
+UNKNOWN,scania,Abu Dhabi ,1
+UNKNOWN,scania,Al Ain,1
+UNKNOWN,scania,DUBAI,1
+UNKNOWN,scania,Abu Dhabi,1
+UNKNOWN,scania,Sharjah,1
+DUBAI,shake_shack,unknown,7
+ABUDHABI,shake_shack,unknown,4
+ASHSHARIQAH,shake_shack,unknown,2
+RASALKHAYMAH,shake_shack,unknown,1
+UNKNOWN,sixt,Abu Dhabi,1
+UNKNOWN,sixt,Dubai,4
+DUBAI,snap_fitness,"Rahmania, Sharjah",1
+DUBAI,snap_fitness,Dubai,1
+DUBAI,snap_fitness,Motor City,1
+DUBAI,snap_fitness,Media City,1
+ASHSHARIQAH,sunglass_hut_2,Sharjah,1
+ABUDHABI,sunglass_hut_2,Abu Dhabi,3
+DUBAI,sunglass_hut_2,Dubai,4
+ASHSHARIQAH,sunglass_hut_2,Dubai,3
+UNKNOWN,superdry,Dubai,8
+ABUDHABI,the_good_feet_store,unknown,1
+UNKNOWN,the_north_face_eu,Dubai,1
+DUBAI,tier,unknown,198
+ASHSHARIQAH,tier,unknown,159
+ABUDHABI,tier,unknown,1409
+RASALKHAYMAH,tier,unknown,27
+UMMALQAYWAYN,tier,unknown,4
+UNKNOWN,timberland,Abu Dhabi,1
+UNKNOWN,timberland,Dubai,7
+UNKNOWN,timberland,Jeddah,2
+UNKNOWN,timberland,Dharhan,1
+UNKNOWN,timberland,Riyadh,1
+UNKNOWN,timberland,Kuwait,1
+UNKNOWN,tommy_hilfiger,Dubai,13
+UNKNOWN,tommy_hilfiger,Abu Dhabi,3
+UNKNOWN,tommy_hilfiger,Sharjah,1
+ABUDHABI,travelex,Abu Dhabi,6
+ASHSHARIQAH,travelex,Dubai,16
+ASHSHARIQAH,travelex,Sharjah,2
+UNKNOWN,united_colors_of_benetton,DUBAI,2
+DUBAI,vans,Dubai,5
+DUBAI,vans,Deira,1
+ABUDHABI,vans,Abu Dhabi,2
+DUBAI,visa,DUBAI,578
+UNKNOWN,visa,ABU DHABI,360
+UNKNOWN,visa,AJMAN,100
+UNKNOWN,visa,SHARJAH,192
+UNKNOWN,visa,AL AIN,115
+ABUDHABIAEAZ,visa,ABU DHABI,3
+ABUDHABI,visa,ABU DHABI,102
+UNKNOWN,visa,RUWAIS,1
+UNKNOWN,visa,DEIRA,10
+UNKNOWN,visa,DUBAI,742
+UNKNOWN,visa,JEBEL ALI,2
+DUBAIAEDU,visa,DUBAI,21
+ALAIN,visa,AL AIN,16
+UNKNOWN,visa,DEIRA DUBAI,1
+ABUDHABI,visa,AL AIN,8
+SHARJAH,visa,SHARJAH,187
+SHARJAHAESH,visa,SHARJAH,3
+AJMAN,visa,AJMAN,26
+AJMANAEAJ,visa,AJMAN,1
+UNKNOWN,visa,UM AL QWAIN,2
+UNKNOWN,visa,UAQ,9
+UNKNOWN,visa,UMM AL QUWAIN,1
+UMMALQUWAIN,visa,UMM AL QUWAIN,3
+UNKNOWN,visa,UM AL QWEIN,1
+UNKNOWN,visa,UMM AL QAIWAIN,1
+UNKNOWN,visa,RAS AL KHAIMAH,18
+UNKNOWN,visa,RAS AL KHAIMA,7
+SHARJAH,visa,AL DHAID,1
+RASALKHAIMAH,visa,RAS AL KHAIMAH,35
+UNKNOWN,visa,RAK,34
+RASALKHAIMAH,visa,RAS AL-KHAIMAH,13
+UNKNOWN,visa,FUJAIRAH,43
+RASALKHAYMAHAERK,visa,RAS AL KHAIMAH,1
+UNKNOWN,visa,RAS AL-KHAIMAH,4
+UNKNOWN,visa,MASFAI,1
+SHARJAH,visa,KALBA,1
+UNKNOWN,visa,FUJEIRAH,6
+FUJAIRAH,visa,FUJAYRAH,2
+FUJAIRAH,visa,FUJAIRAH,8
+UNKNOWN,visa,KHORFAKAN,1
+SHARJAH,visa,DIBBA,2
+SHARJAH,visa,KHORFAKKAN,1
+KHORFAKKAN,visa,KHORFAKKAN,2
+ABUDHABI,waitrose,unknown,5
+DUBAI,waitrose,unknown,3
+DUBAI,western_union,Ras Al Khor,2
+SHARJAH,western_union,Al Majaz,3
+ABUDHABI,western_union,Abu Dhabi,141
+ABUDHABI,western_union,Madinat Zayed,2
+DUBAI,western_union,Dubai,335
+DUBAI,western_union,Dubai International City,1
+AJMAN,western_union,Ajman,47
+DUBAI,western_union,Dubai Silicon Oasis,1
+ABUDHABI,western_union,Baniyas,4
+SHARJAH,western_union,Sharjah,107
+DUBAI,western_union,Al Warqa 3,1
+ABUDHABI,western_union,Abudhabi,5
+UMMALQUWAIN,western_union,Umm Al Quwain,10
+DUBAI,western_union,Al Barsha 1,3
+DUBAI,western_union,Ajman,2
+AJMAN,western_union,Al Rawda,1
+SHARJAH,western_union,Muweilah,2
+AJMAN,western_union,Al Mowihat 1,1
+DUBAI,western_union,Nad Al Hammar,2
+AJMAN,western_union,Al Hamidiya 1,1
+DUBAI,western_union,Al Qusais 3,1
+AJMAN,western_union,Al Jurf,1
+AJMAN,western_union,Al Jurf Industrial 1,1
+AJMAN,western_union,Ajman Industrial,2
+SHARJAH,western_union,Industrial Area 15,1
+DUBAI,western_union,Motor City,1
+UAE,western_union,Dubai,1
+DUBAI,western_union,Al Qusais Industrial Area 2,2
+DUBAI,western_union,Al Qusais Inbdustrial Area 2,2
+ABUDHABI,western_union,Mohamed Bin Zayed City,2
+DUBAI,western_union,Sonapur,1
+DUBAI,western_union,Al Qusais,1
+AJMAN,western_union,Al Nuaimia,1
+SHARJAH,western_union,Sharjah 5,1
+ABUDHABI,western_union,Musaffah,11
+DUBAI,western_union,Deira,8
+DUBAI,western_union,Al Barsha South,1
+SHARJAH,western_union,Abu Shagara,3
+SHARJAH,western_union,Al Nahda,1
+AJMAN,western_union,Rumaila,1
+DUBAI,western_union,Abu Dhabi,1
+DUBAI,western_union,Sharjah,5
+SHARJAH,western_union,Al Sharq Butina,1
+ABUDHABI,western_union,Khalifa City,2
+ABUDHABI,western_union,Masdar City,1
+SHARJAH,western_union,Al Nasserya,2
+SHARJAH,western_union,Rolla Sharjah,1
+ABUDHABI,western_union,Icad,1
+DUBAI,western_union,Jumeirah Village Circle,1
+DUBAI,western_union,Dubai Hills,1
+SHARJAH,western_union,Al Qasmia,2
+DUBAI,western_union,Hor Al Anz,2
+DUBAI,western_union,Jebel Ali,2
+SHARJAH,western_union,Al Khan,2
+UNKNOWN,western_union,Mussafah M9,1
+ABUDHABI,western_union,Mussafah,1
+DUBAI,western_union,Abu Hail,1
+DUBAI,western_union,Bur Dubai,3
+DUBAI,western_union,Al Quoz Industrial,1
+DUBAI,western_union,Karama,3
+DUBAI,western_union,Al Basrha 3,1
+DUBAI,western_union,Naif,1
+DUBAI,western_union,Al Wasl,1
+ABUDHABI,western_union,Abudubai,1
+DUBAI,western_union,Discovery Gardens,1
+AJMAN,western_union,Abu Dhabi,1
+DUBAI,western_union,Jumeirah Beach Residence,1
+DUBAI,western_union,Jumeirah,2
+DUBAI,western_union,Al Badaa,1
+DUBAI,western_union,Barsha Heights,1
+DUBAI,western_union,Al Satwa,2
+DUBAI,western_union,Al Barsha,1
+DUBAI,western_union,Jebel Ali Free Zone,1
+DUBAI,western_union,Jumeirah 1,2
+DUBAI,western_union,Jafza,1
+AJMAN,western_union,Shahama,1
+DUBAI,western_union,Jumeirah 3,1
+ABUDHABI,western_union,Al Reem Island,1
+ABUDHABI,western_union,Al Ain,46
+ABUDHABI,western_union,Al Falah,1
+FUJAIRAH,western_union,Fujairah,21
+ABUDHABI,western_union,Muroor Complex,1
+DUBAI,western_union,Nakheel Mall Palm Jumeirah,1
+AJMAN,western_union,Dubai,1
+ABUDHABI,western_union,Sheik Zayed Grand Mosque Road,1
+DUBAI,western_union,Jabel Ali,2
+DUBAI,western_union,Jebel Ali Industrial Area,1
+ABUDHABI,western_union,Al Zahiya,1
+UAEH9,western_union,Abu Dhabi,1
+ABUDHABI,western_union,Hamdan,1
+ABUDHABI,western_union,Al Dhafra Region,1
+ABUDHABI,western_union,Ruwais,1
+ABUDHABI,western_union,Al Maryah Island,1
+ABUDHABI,western_union,Al Ruwais,1
+SHARJAH,western_union,Alqarain,1
+RASALKHAIMAH,western_union,Ras Al Khaimah,24
+SHARJAH,western_union,Juraina,1
+SHARJAH,western_union,Al Dhaid,1
+ABUDHABI,western_union,Sweihan Al Ain,1
+SHARJAH,western_union,Sajaa,2
+RASALKHAIMAH,western_union,Al Qusaidat,1
+RASALKHAIMAH,western_union,Dhait,1
+FUJAIRAH,western_union,Masafi,1
+SHARJAH,western_union,Khorfakkan,1
+SHARJAH,western_union,Khor Fakkan,4
+FUJAIRAH,western_union,Dibba,4
+FUJAIRAH,western_union,Murbah,1
+FUJAIRAH,western_union,Khor Fakkan,2
+ABUDHABI,western_union,Sanaya,1
+SHARJAH,western_union,Kalba,4
+ABUDHABI,western_union,Fujairah,1

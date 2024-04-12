@@ -1,0 +1,828 @@
+City,Place Name,Zipcode,Name
+Uberlândia,audi,Av. Afonso Pena 2698 38400-708 Uberlândia,unknown,AC Uberlândia
+Belo Horizonte,audi,Avenida Raja Gabaglia 4148 30360-670 Belo Horizonte,unknown,AC Belo Horizonte
+Juiz de Fora,audi,Av. Dr. Deusdedith Salgado 5555 36033-000 Juiz de Fora,unknown,AC Juiz de Fora
+Belo Horizonte,bmw_group,,unknown,Euroville BH
+Uberlândia,bmw_group,,unknown,Euroville
+Juiz de Fora,bmw_group,,unknown,Euroville
+Uberaba,bmw_group,,unknown,Euroville Uberaba
+Belo Horizonte,ernst_young,Edifício Statement - Av. do Contorno 5800 16º e 17º andares - Savassi - Belo Horizonte,unknown,EY
+Belo Horizonte,google_offices,"Boulevard Corporate Tower
+Av. dos Andradas 3000 - Andares 14-17
+Santa Efigênia
+Belo Horizonte
+30260-070 Brazil",unknown,Belo Horizonte
+UBERLÂNDIA,mercedes_benz,,unknown,"TECAR TRIÂNGULO VEÍCULO, PEÇAS E SERVIÇOS LTDA"
+BELO HORIZONTE,mercedes_benz,,unknown,BAMAQ AUTOMÓVEIS LTDA.
+JUIZ DE FORA,mercedes_benz,,unknown,BAMAQ AUTOMÓVEIS LTDA.
+Belo Horizonte,nissan_europe,,unknown,NAGAI BH
+Ipatinga,nissan_europe,,unknown,KOBE IPATINGA
+Manhuaçu,nissan_europe,,unknown,KOBE MANHUAÇU
+Governador Valadares,nissan_europe,,unknown,KOBE GOV VALADARES
+Pouso Alegre,nissan_europe,,unknown,TOTAL POUSO ALEGRE
+Unaí,nissan_europe,,unknown,PRIMAVIA UNAI
+Ubá,nissan_europe,,unknown,MIHARA UBA
+Sete Lagoas,nissan_europe,,unknown,VIA MONDO SETE LAGOAS
+Uberlândia,nissan_europe,,unknown,CICAL UBERLANDIA
+Juiz de Fora,nissan_europe,,unknown,NAGAI JUIZ DE FORA
+Varginha,nissan_europe,,unknown,VIA MONDO VARGINHA
+Montes Claros,nissan_europe,,unknown,VIA MONTES CLAROS
+Contagem,nissan_europe,,unknown,NAGAI CONTAGEM
+Minas Gerais,petland_us,,unknown,Ouro Fino
+MONTE AZUL,shell,,unknown,POSTO MARTINS E BALDOINO LTDA  EPP
+MAMONAS,shell,,unknown,MARTINS E MARTINS COM COMB LTDA EPP
+JANAUBA,shell,,unknown,MC COM DERIV PETROLEO LTD
+VERDELANDIA,shell,,unknown,POSTO UNIAO VERDELANDIA LTDA EPP
+SALINAS,shell,,unknown,POSTO DE COMB NORTE SUL LTD
+MANGA,shell,,unknown,J J COMBUSTIVEIS LTDA
+SAO JOAO DA PONTE,shell,,unknown,POSTO UNIAO DE SAO JOAO DA PONTE LT
+SANTA CRUZ DE SALINAS,shell,,unknown,RG COM E DERIVADOS DE COMB LTDA ME
+GRAO MOGOL,shell,,unknown,POSTO SHELL - POSTO VEJA LTDA
+FRANCISCO SA,shell,,unknown,JVM DERIV DE PETROLEO E TRANSP LTDA
+JANUARIA,shell,,unknown,J J COMBUSTIVEIS LTDA
+CACHOEIRA DE PAJEU,shell,,unknown,BBC COMERCIO DE COMBUSTIVEIS LTDA
+DIVISA ALEGRE,shell,,unknown,COM DE COMB FLORES DA CUNHA LTDA
+MONTES CLAROS,shell,,unknown,POSTO CATEDRAL DER DE PETROLEO LTD
+MONTE BELO,shell,,unknown,AUTOPOSTO SANHARAO LTDA
+BELO HORIZONTE,shell,,unknown,POSTO ESTEVES LTDA
+CONTAGEM,shell,,unknown,NOVA CONTAGEM COMBUSTIVEIS LTDA
+OLIVEIRA,shell,,unknown,AUTO POSTO CENTER NORTE LTDA
+RIBEIRAO DAS NEVES,shell,,unknown,POSTO ESMERALDAS LTDA
+CAPINOPOLIS,shell,,unknown,POSTO TODA HORA LTDA
+CENTRALINA,shell,,unknown,REDE DE POSTOS MARAJO CENTRALINA LT
+SANTA VITORIA,shell,,unknown,BERNARDES E BASTOS LTDA  ME
+ITUIUTABA,shell,,unknown,AUTO POSTO ITAMARATY LTDA
+MONTE ALEGRE DE MINAS,shell,,unknown,AUTO POSTO DO LEAO LTDA
+PRATA,shell,,unknown,COM E DER DE PETRO BELA VISTA LTDA
+MONTE SIAO,shell,,unknown,AUTO POSTO PETRO CENTER LTDA
+OURO FINO,shell,,unknown,TREVO DE OURO AUTO POSTO LTDA
+SANTA RITA DE CALDAS,shell,,unknown,JOAO BATISTA DE SOUSA E FILHA LTDA
+EXTREMA,shell,,unknown,APICE AUTO POSTO LTDA ME
+ITAPEVA,shell,,unknown,AUTO POSTO ITASUL LTDA
+ARAXA,shell,,unknown,POSTOS ALPA LTDA
+IBIA,shell,,unknown,POSTOS ALPA LTDA
+PERDIZES,shell,,unknown,POSTO CAXUXA MGM LTDA
+PATROCINIO,shell,,unknown,PATROCINIO PETROLEO E PECAS LTDA
+SAO GOTARDO,shell,,unknown,POSTOS ALPA LTDA
+IBIRACI,shell,,unknown,AUTO POSTO RAMOS E GUERRA LTDA EPP
+MONTE CARMELO,shell,,unknown,AUTO POSTO BRASIL LTDA
+UBERABA,shell,,unknown,AUTO POSTO MELO BORGES EIRELI
+PATOS DE MINAS,shell,,unknown,COIMBRA E GOMES LTDA
+DIVINOPOLIS,shell,,unknown,AUTO POSTO TRES BANDEIRAS LTDA
+ITAUNA,shell,,unknown,POSTO NOGUEIRINHA LTDA
+NOVA SERRANA,shell,,unknown,AUTO POSTO CALYPSO LTDA
+CLAUDIO,shell,,unknown,RESENDE RODRIGUES E CIA LTDA
+ARAUJOS,shell,,unknown,PSA COMB LTDA
+PARA DE MINAS,shell,,unknown,AUTO POSTO ALMEIDA LTDA
+CARMOPOLIS DE MINAS,shell,,unknown,AUTO POSTO AMARAL LTDA
+ITATIAIUCU,shell,,unknown,AUTO POSTO RODOCHAVES LTDA
+ITAGUARA,shell,,unknown,POSTO ALVORADA DA SERRA LTDA EPP
+PITANGUI,shell,,unknown,AUTO POSTO CIDADE E CIA LTDA
+MATEUS LEME,shell,,unknown,POSTO AZURITA LTDA
+BOM DESPACHO,shell,,unknown,POSTO E RESTAURANTE PRIMAVERA LTDA
+RIO MANSO,shell,,unknown,POSTO PARAGUAI LTDA
+JUATUBA,shell,,unknown,POSTO RODA D AGUA LTDA
+IGARAPE,shell,,unknown,POSTO BARRA LIMPA LTDA
+FORMIGA,shell,,unknown,POSTO PLANALTO LTDA
+ARCOS,shell,,unknown,POSTO SANTA EDWIGES PETROLEO LTDA
+BETIM,shell,,unknown,POSTO TREVO BETIM LTDA
+CANDEIAS,shell,,unknown,AUTO POSTO CANDEIAS LTDA
+CORREGO FUNDO,shell,,unknown,AUTO POSTO PORTAL DE OURO LTDA
+MARIO CAMPOS,shell,,unknown,EDAL EMPREENDIMENTOS IMOB LTDA
+ESMERALDAS,shell,,unknown,SAO JOSE COMBUSTIVEIS LTDA
+PAPAGAIOS,shell,,unknown,PAREBEM POSTO SANTO ANTONIO LTDA
+SANTA RITA DE JACUTINGA,shell,,unknown,AUTO POSTO JACUTINGA LTDA
+NOVA LIMA,shell,,unknown,PORTOPETRO COMBUSTIVEIS LTDA
+DELFIM MOREIRA,shell,,unknown,POSTO 11 ABAST DE COMB LTDA
+UNAI,shell,,unknown,COM PETR NOVO HORIZONTE LTDA
+BURITIS,shell,,unknown,AUTO POSTO FALCAO BURITIS LTDA
+PARACATU,shell,,unknown,POSTO CRUZEIRO LTDA
+SANTA LUZIA,shell,,unknown,POSTO MORADA DO RIO LTDA
+VESPASIANO,shell,,unknown,WEC EMPREENDIMENTOS EIRELI
+FORMOSO,shell,,unknown,AUTO POSTO FALCAO FORMOSO LTDA
+SABARA,shell,,unknown,POSTO AVIEN LTDA
+LAGOA SANTA,shell,,unknown,AUTO POSTO LS SANTOS DUMONT LTDA
+CAMPANHA,shell,,unknown,POSTO FAZENDINHA COM DE COMB LTDA
+CAMBUQUIRA,shell,,unknown,POSTO ARIEL LTDA ME
+LAMBARI,shell,,unknown,AUTO POSTO CASSINO LTDA
+SAO GONCALO DO SAPUCAI,shell,,unknown,AUTO POSTO PINHEIRINHO LTDA
+TRES CORACOES,shell,,unknown,POSTO BOAVENTURA LTDA.
+ELOI MENDES,shell,,unknown,CARVALHO COM DE COMB LTDA EPP
+VARGINHA,shell,,unknown,AUTO POSTO PGM 500 LTDA
+CONCEICAO DO RIO VERDE,shell,,unknown,AUTO POSTO COSTA NETO LTDA
+NATERCIA,shell,,unknown,AUTO POSTO NATERCIA LTDA
+CAREACU,shell,,unknown,AUTO POSTO TUPY CAREACU LTDA
+CARMO DE MINAS,shell,,unknown,POSTO SHELL N S DO CARMO LTDA
+PARAGUACU,shell,,unknown,UNIAO COM RODRIGUES PAIVA LTDA
+CARMO DA CACHOEIRA,shell,,unknown,COMERCIO DE C NOVA AL CARMO DA CA L
+SAO LOURENCO,shell,,unknown,MOTOR EXPRESS SAO LOU AUTO POSTO LT
+PEDRALVA,shell,,unknown,AUTO POSTO PEDRALVA LTDA
+CAXAMBU,shell,,unknown,AUTO POSTO NUNES E ANDRADE LTDA
+SAO SEBASTIAO DA BELA VISTA,shell,,unknown,REDE DOM PEDRO DE POSTOS LTDA
+TRES PONTAS,shell,,unknown,AUTO POSTO MOTOR EX OSW CRUZ LTDA
+MARIA DA FE,shell,,unknown,AUTO POSTO PONTAL DA SERRA LTDA EPP
+PIUMHI,shell,,unknown,POSTO 4I LTDA
+CAPARAO,shell,,unknown,AUTO POSTO CAPARAO LTDA
+CARANGOLA,shell,,unknown,AUTO POSTO TREVO D AGUA LTDA
+MANHUMIRIM,shell,,unknown,TC AUTO POSTO LTDA
+FERVEDOURO,shell,,unknown,AUTO POSTO XODOZAO LTDA
+REDUTO,shell,,unknown,AUTO POSTO PETROLINA 1 MG LTDA
+MANHUACU,shell,,unknown,AUTO POSTO NAZARAO REALEZA LTDA
+LAJINHA,shell,,unknown,ALESSANDRO HUBNER E FILHOS LTDA
+MURIAE,shell,,unknown,POSTO RIO BAHIA DE MURIAE LTDA
+MATIPO,shell,,unknown,C E C COMERCIO DE COMBUSTIVEIS LTDA
+NANUQUE,shell,,unknown,LIDER COMERCIO DE COMB E LUB LTDA
+SERRA DOS AIMORES,shell,,unknown,AUTO POSTO AIMORES LTDA
+SARDOA,shell,,unknown,SERASELF COMERCIO DE PETROLEO LTDA
+GOVERNADOR VALADARES,shell,,unknown,POSTO MONTE SIAO LTDA
+FREI INOCENCIO,shell,,unknown,REDE DOM PEDRO DE POSTOS LTDA
+ENGENHEIRO CALDAS,shell,,unknown,REDE HG COMBUSTIVEIS LTDA
+GUANHAES,shell,,unknown,POSTO PARAGOMINAS LTDA
+PADRE PARAISO,shell,,unknown,POSTO JK 2 LTDA
+IAPU,shell,,unknown,VITORIA AUTO POSTO LTDA ME
+IPATINGA,shell,,unknown,AP MAGALHAES & CIA LTDA
+CORONEL FABRICIANO,shell,,unknown,AP MAGALHAES E CIA LTDA
+TIMOTEO,shell,,unknown,POSTO CAMPESTRE LTDA
+SERRO,shell,,unknown,POSTO CARGA PESADA LTDA
+MALACACHETA,shell,,unknown,POSTO MALACACHETA S.A
+ITAMBACURI,shell,,unknown,REDE HG COMBUSTIVEIS LTDA
+CARATINGA,shell,,unknown,CIMINI PRAIS CIA LTDA ME
+CONCEICAO DO MATO DENTRO,shell,,unknown,AUTO POSTO BANSOL LTDA EPP
+CAPELINHA,shell,,unknown,JWD COMERCIAL LTDA
+SANTA RITA DE MINAS,shell,,unknown,AUTO POSTO ALIANCA LTDA ME
+ITABIRA,shell,,unknown,POSTO CAMPESTRE ITABIRA LTDA
+IPANEMA,shell,,unknown,LUANA DE MELLO LADEIRA CARVALHO
+TEOFILO OTONI,shell,,unknown,AUTO POSTO TEOFILO OTONI LTDA
+ALEM PARAIBA,shell,,unknown,ALEM PARAIBA COMBUSTIVEIS LTDA
+BICAS,shell,,unknown,POSTO SAO JOSE LTDA
+JUIZ DE FORA,shell,,unknown,AUTO POSTO 040 LTDA
+BARBACENA,shell,,unknown,AUTO POSTO ROSELANCHE LTDA
+BARROSO,shell,,unknown,MOREIRA & FILHOS COM PETRO LTDA
+ANTONIO CARLOS,shell,,unknown,POSTO MIRANDA LTDA
+CARANDAI,shell,,unknown,POSTO ESPERANCA LTDA
+SANTOS DUMONT,shell,,unknown,POSTO LUBEL LTDA
+CRISTIANO OTONI,shell,,unknown,CRISTIANENSE AUTO SERVICOS LTDA EPP
+SAO JOAO DEL REI,shell,,unknown,ORGANIZACOES TEXAS LTDA
+CONSELHEIRO LAFAIETE,shell,,unknown,POSTO NR LTDA
+RIO POMBA,shell,,unknown,RIO POMBA COMBUSTIVEIS LTDA
+RIO NOVO,shell,,unknown,AUTO POSTO RIO NOVO LTDA
+PIRAUBA,shell,,unknown,POSTO UIRAPURU LTDA
+CONGONHAS,shell,,unknown,POSTO ESTANCIA REAL LTDA EPP
+GUAXUPE,shell,,unknown,POSTO SHELL - SAO PAULO MINAS COM.DERIV.PETR.LTDA
+GUARANESIA,shell,,unknown,POSTO 77 LTDA EPP
+ARCEBURGO,shell,,unknown,JOSE ANTONIO TOSCANO
+MONTE SANTO DE MINAS,shell,,unknown,POSTO 7 LTDA
+JACUI,shell,,unknown,JOSE AVELAR DE OLIVEIRA CIA LTDA
+NOVA RESENDE,shell,,unknown,AUTO POSTO TOME LTDA
+SAO SEBASTIAO DO PARAISO,shell,,unknown,POSTO COOLAPA LTDA
+POCOS DE CALDAS,shell,,unknown,R R COMERCIO DE COMBUSTIVEIS LTDA
+ALPINOPOLIS,shell,,unknown,AUTO POSTO VENTANIA LTDA
+ITAU DE MINAS,shell,,unknown,BRASIL NEGOCIOS ITAU AUTO POSTO LTD
+PASSOS,shell,,unknown,POSTO SHELL - AUTO POSTO 17 EIRELI
+CAMPESTRE,shell,,unknown,POSTO SANTO AGOSTINHO LTDA
+CARMO DO RIO CLARO,shell,,unknown,POSTO PIMENTA LTDA
+ALFENAS,shell,,unknown,ALVES E CIA LTDA
+ALMENARA,shell,,unknown,DISTRIBUIDORA AUTO VALE LTDA
+PONTE NOVA,shell,,unknown,AUTO POSTO VITORIA LTDA
+URUCANIA,shell,,unknown,POSTO LUPIAZZA EIRELI EPP
+PORTO FIRME,shell,,unknown,IRMAOS CARVALHO SOUZA E CIA LTDA.
+RIO CASCA,shell,,unknown,POSTO CAMPOS E FARIA LTDA EPP
+VICOSA,shell,,unknown,POSTO CANAA LTDA
+ABRE CAMPO,shell,,unknown,OLIVEIRA FERNANDES COM DE COMB LTDA
+MARIANA,shell,,unknown,ELIAS E GUIMARAES COM DE COMB E LUB
+ERVALIA,shell,,unknown,AUTO POSTO BELA VISTA DE ERVALIA LT
+SENADOR FIRMINO,shell,,unknown,P DE COMB E LUB N.S. DA CONCEICAO
+OURO PRETO,shell,,unknown,AUTO POSTO OURO PRETO
+VISCONDE DO RIO BRANCO,shell,,unknown,POSTO VARGAS DE VISCONDE LTDA
+JOAO MONLEVADE,shell,,unknown,POSTO LULU LTDA
+SANTA BARBARA,shell,,unknown,POSTO CARACA EIRELI EPP
+UBA,shell,,unknown,G5 COMERCIO DE COMBUSTIVEIS LTDA
+BARAO DE COCAIS,shell,,unknown,POSTO CAMPESTRE ITABIRA LTDA
+RODEIRO,shell,,unknown,AUTO POSTO RODEIRO LTDA
+CATUJI,shell,,unknown,ENZO DERIVADOS DE PETROLEO LTDA
+CARLOS CHAGAS,shell,,unknown,POSAR COM DE COMB E LUB EIRELI
+ITAOBIM,shell,,unknown,POSTO TEIMOZAO LTDA
+CARBONITA,shell,,unknown,AUTO POSTO NUNES ROCHA LTDA  EPP
+CAMPOS GERAIS,shell,,unknown,AUTO POSTO CAMPOS GERAIS LTDA
+BOA ESPERANCA,shell,,unknown,AUTO P S PADRE VICTOR LTDA
+MACHADO,shell,,unknown,AUTO POSTO MENINO JESUS DE PRAGA MR LTDA
+NEPOMUCENO,shell,,unknown,AUTO POSTO ARCANJO MIGUEL II LTDA
+GUAPE,shell,,unknown,COOP AGRO PECUARIA DE BOA ESP LTDA
+CAMPO BELO,shell,,unknown,AUTO POSTO TUPY CAMPO BELO LTDA
+POCO FUNDO,shell,,unknown,AUTO POSTO POCO FUNDO LTDA
+LAVRAS,shell,,unknown,AUTO POSTO LAVRAS SHELL LTDA
+FRONTEIRA,shell,,unknown,AUTO POSTO KALFAR LTDA
+SANTO ANTONIO DO AMPARO,shell,,unknown,AUTO POSTO SANTA MONICA MR LTDA
+BOM SUCESSO,shell,,unknown,POSTO LUIZINHO COME DE COMB EIRELI VEIS EIRELI
+NAZARENO,shell,,unknown,AUTO POSTO MOTOR EXP NAZARENO LTDA
+CARRANCAS,shell,,unknown,POSTO FELIZ EIRELI
+SAO TIAGO,shell,,unknown,RICARDO COMBUSTIVEIS LTDA
+DIAMANTINA,shell,,unknown,COMERC COMBUST COELHO NEVES LTDA
+GOUVEIA,shell,,unknown,POSTO KOBU LTDA EPP
+SANTANA DO RIACHO,shell,,unknown,POSTO SERRA DO CIPO LTDA
+CURVELO,shell,,unknown,POSTO DENISE II LTDA
+CORDISBURGO,shell,,unknown,POSTO CORDISBURGO LTDA
+BOCAIUVA,shell,,unknown,POSTO ZUMBI LTDA  EPP
+FELIXLANDIA,shell,,unknown,COMERCIAL DE PETROLEO ALIANCA LTDA
+SETE LAGOAS,shell,,unknown,IRMAOS SILVA SA
+MATOZINHOS,shell,,unknown,POSTO VALE VERDE MATOZINHOS LTDA
+CLARO DOS POCOES,shell,,unknown,POSTO HAVANA DER DE PET LTDA
+BOM JESUS DO AMPARO,shell,,unknown,TREVO POSTO DE SERVICOS LTDA
+ITURAMA,shell,,unknown,AUTO POSTO ELDORADO LTDA
+CARNEIRINHO,shell,,unknown,ROSSINI E ROSSINI LTDA
+FRUTAL,shell,,unknown,AUTO POSTO WV FRUTAL COM COM LTDA
+UBERLANDIA,shell,,unknown,EDEM AUTO POSTO LTDA
+ARAGUARI,shell,,unknown,COOPERCITRUS COOP PRODUTORES RURAIS
+INDIANOPOLIS,shell,,unknown,JAIR FERREIRA DA CUNHA
+SARZEDO,shell,,unknown,POSTO DE COM AQUI SARZEDO LTDA
+LUZ,shell,,unknown,POSTO SANTA EDWIGES PETROLEO LTDA
+POMPEU,shell,,unknown,LEONARDO CAMPOS E CIA LTDA
+CAPITOLIO,shell,,unknown,POSTO MIRANTE DO LAGO LTDA
+LEOPOLDINA,shell,,unknown,COM DE COMB 3 D DE LEOPOLDINA LTDA
+TRES MARIAS,shell,,unknown,POSTO PARDAL LTDA.
+SAO GONCALO DO ABAETE,shell,,unknown,POSTO SANTA EDWIGES PETROLEO LTDA
+BURITIZEIRO,shell,,unknown,LAUTON E VARGAS COMBUSTIVEIS LTDA
+PIRAPORA,shell,,unknown,POSTO VILA PIRAPORA LTDA
+JOAO PINHEIRO,shell,,unknown,POSTO SANTA EDWIGES PETROLEO LTDA
+PRESIDENTE OLEGARIO,shell,,unknown,MARRA E MARRA COMERCIAL LTDA
+VAZANTE,shell,,unknown,POSTO LAPAO LTDA
+CATAGUASES,shell,,unknown,MODELO COM. E SERV. CATAGUASES LTDA
+DESTERRO DE ENTRE RIOS,shell,,unknown,AUTO POSTO JA DUARTE COM LTDA
+ITABIRITO,shell,,unknown,V E G COM DE COMBUS E LUBRIF LTDA
+POUSO ALEGRE,shell,,unknown,NUNES COMERCIO DE COMBUSTIVEIS LTDA
+CONGONHAL,shell,,unknown,JOSE ERNESTO ANSORGE EIRELI
+SANTA RITA DO SAPUCAI,shell,,unknown,COOPREGIONAL AGROPECUARIA DE SANTA
+CONCEICAO DOS OUROS,shell,,unknown,IRMAOS ROGERIO LTDA
+PIRANGUINHO,shell,,unknown,POSTO 5 ABAST DE COMB LTDA
+CAMBUI,shell,,unknown,GERALDO CYPRIANO DE MORAIS
+GONCALVES,shell,,unknown,POSTO 8 ABAST DE COMB LTDA
+ITAJUBA,shell,,unknown,SOC.MOTORISTAS DO SUL DE MINAS LTDA
+MUTUM,shell,,unknown,AUTO POSTO KASAG LTDA EPP
+SAO VICENTE DE MINAS,shell,,unknown,AUTO POSTO FERES SILVA LTDA
+BOM JARDIM DE MINAS,shell,,unknown,AUTO POSTO FERES MACIELLO LTDA
+CRUZILIA,shell,,unknown,DTA AUTO POSTO LTDA
+BAEPENDI,shell,,unknown,AUTO POSTO BAEPENDI LTDA
+POUSO ALTO,shell,,unknown,POSTO DE SERVICOS R R 33 LTDA EPP
+ITAMONTE,shell,,unknown,COM COMB NOVA ALIANCA ITAMONTE LTDA
+CHAPADA GAUCHA,shell,,unknown,POSTO CHAPADAO EIRELI
+BRASILIA DE MINAS,shell,,unknown,JHR COM DE COMB VIP LTDA EPP
+CORACAO DE JESUS,shell,,unknown,ALENCAR E PRATES LTDA
+JORDANIA,visa,,unknown,unknown
+SANTA MARIA DO SALTO,visa,,unknown,unknown
+JACINTO,visa,,unknown,unknown
+SANTO ANTONIO DO JACINTO,visa,,unknown,unknown
+RUBIM,visa,,unknown,unknown
+BANDEIRA,visa,,unknown,unknown
+ALMENARA,visa,,unknown,unknown
+FELISBURGO,visa,,unknown,unknown
+NANUQUE,visa,,unknown,unknown
+UMBURATIBA,visa,,unknown,unknown
+JEQUITINHONHA,visa,,unknown,unknown
+FRONTEIRA DOS VALES,visa,,unknown,unknown
+JOAIMA,visa,,unknown,unknown
+DIVISA ALEGRE,visa,,unknown,unknown
+PEDRA AZUL,visa,,unknown,unknown
+CRISOLITA,visa,,unknown,unknown
+AGUAS FORMOSAS,visa,,unknown,unknown
+CARLOS CHAGAS,visa,,unknown,unknown
+NINHEIRA,visa,,unknown,unknown
+PAVAO,visa,,unknown,unknown
+MONTE FORMOSO,visa,,unknown,unknown
+MEDINA,visa,,unknown,unknown
+BERIZAL,visa,,unknown,unknown
+NOVO ORIENTE DE MINAS,visa,,unknown,unknown
+ITAOBIM,visa,,unknown,unknown
+PONTO DOS VOLANTES,visa,,unknown,unknown
+SAO JOAO DO PARAISO,visa,,unknown,unknown
+ATALEIA,visa,,unknown,unknown
+CURRAL DE DENTRO,visa,,unknown,unknown
+PADRE PARAISO,visa,,unknown,unknown
+MANTENA,visa,,unknown,unknown
+CATUJI,visa,,unknown,unknown
+OURO VERDE DE MINAS,visa,,unknown,unknown
+CARAI,visa,,unknown,unknown
+VARGEM GRANDE DO RIO PARDO,visa,,unknown,unknown
+ITABIRINHA,visa,,unknown,unknown
+ITAIPE,visa,,unknown,unknown
+ENGENHEIRO CALDAS,visa,,unknown,unknown
+TEOFILO OTONI,visa,,unknown,unknown
+CUPARAQUE,visa,,unknown,unknown
+TAIOBEIRAS,visa,,unknown,unknown
+FREI GASPAR,visa,,unknown,unknown
+MONTEZUMA,visa,,unknown,unknown
+CENTRAL DE MINAS,visa,,unknown,unknown
+LADAINHA,visa,,unknown,unknown
+AIMORES,visa,,unknown,unknown
+ARACUAI,visa,,unknown,unknown
+SALINAS,visa,,unknown,unknown
+ITAMBACURI,visa,,unknown,unknown
+SAO FELIX DE MINAS,visa,,unknown,unknown
+POTE,visa,,unknown,unknown
+NOVORIZONTE,visa,,unknown,unknown
+RIO PARDO DE MINAS,visa,,unknown,unknown
+RESPLENDOR,visa,,unknown,unknown
+DIVINO DAS LARANJEIRAS,visa,,unknown,unknown
+NOVO CRUZEIRO,visa,,unknown,unknown
+ESPINOSA,visa,,unknown,unknown
+FRUTA DE LEITE,visa,,unknown,unknown
+CONSELHEIRO PENA,visa,,unknown,unknown
+VIRGEM DA LAPA,visa,,unknown,unknown
+JENIPAPO DE MINAS,visa,,unknown,unknown
+MONTE AZUL,visa,,unknown,unknown
+MATO VERDE,visa,,unknown,unknown
+FRANCISCOPOLIS,visa,,unknown,unknown
+MAMONAS,visa,,unknown,unknown
+MALACACHETA,visa,,unknown,unknown
+CATUTI,visa,,unknown,unknown
+FREI INOCENCIO,visa,,unknown,unknown
+SERRANOPOLIS DE MINAS,visa,,unknown,unknown
+MUTUM,visa,,unknown,unknown
+ANGELANDIA,visa,,unknown,unknown
+GAMELEIRAS,visa,,unknown,unknown
+SETUBINHA,visa,,unknown,unknown
+JOSE GONCALVES DE MINAS,visa,,unknown,unknown
+SAO JOSE DA SAFIRA,visa,,unknown,unknown
+CAPITAO ANDRADE,visa,,unknown,unknown
+GOVERNADOR VALADARES,visa,,unknown,unknown
+ITANHOMI,visa,,unknown,unknown
+PAI PEDRO,visa,,unknown,unknown
+IBIRACI,visa,,unknown,unknown
+PORTEIRINHA,visa,,unknown,unknown
+MINAS NOVAS,visa,,unknown,unknown
+ALPERCATA,visa,,unknown,unknown
+LEME DO PRADO,visa,,unknown,unknown
+RIACHO DOS MACHADOS,visa,,unknown,unknown
+AGUA BOA,visa,,unknown,unknown
+CRISTALIA,visa,,unknown,unknown
+IPANEMA,visa,,unknown,unknown
+GRAO MOGOL,visa,,unknown,unknown
+CAPELINHA,visa,,unknown,unknown
+SANTA MARIA DO SUACUI,visa,,unknown,unknown
+LAJINHA,visa,,unknown,unknown
+TURMALINA,visa,,unknown,unknown
+VEREDINHA,visa,,unknown,unknown
+SOBRALIA,visa,,unknown,unknown
+IMBE DE MINAS,visa,,unknown,unknown
+JOSE RAYDAN,visa,,unknown,unknown
+NOVA PORTEIRINHA,visa,,unknown,unknown
+JANAUBA,visa,,unknown,unknown
+DOM CAVATI,visa,,unknown,unknown
+BOTUMIRIM,visa,,unknown,unknown
+SARDOA,visa,,unknown,unknown
+PERIQUITO,visa,,unknown,unknown
+INHAPIM,visa,,unknown,unknown
+SAO PEDRO DO SUACUI,visa,,unknown,unknown
+PIEDADE DE CARATINGA,visa,,unknown,unknown
+IAPU,visa,,unknown,unknown
+PECANHA,visa,,unknown,unknown
+SAO JOSE DO JACURI,visa,,unknown,unknown
+GONZAGA,visa,,unknown,unknown
+BUGRE,visa,,unknown,unknown
+SIMONESIA,visa,,unknown,unknown
+ITAMARANDIBA,visa,,unknown,unknown
+CARATINGA,visa,,unknown,unknown
+ALTO CAPARAO,visa,,unknown,unknown
+JAIBA,visa,,unknown,unknown
+VERDELANDIA,visa,,unknown,unknown
+CARBONITA,visa,,unknown,unknown
+MANHUMIRIM,visa,,unknown,unknown
+SANTA BARBARA DO LESTE,visa,,unknown,unknown
+MANHUACU,visa,,unknown,unknown
+VARGEM ALEGRE,visa,,unknown,unknown
+DIVINOLANDIA DE MINAS,visa,,unknown,unknown
+COLUNA,visa,,unknown,unknown
+MANGA,visa,,unknown,unknown
+ESPERA FELIZ,visa,,unknown,unknown
+BELO ORIENTE,visa,,unknown,unknown
+IPABA,visa,,unknown,unknown
+MATIAS CARDOSO,visa,,unknown,unknown
+SAO JOAO EVANGELISTA,visa,,unknown,unknown
+FRANCISCO SA,visa,,unknown,unknown
+ITACAMBIRA,visa,,unknown,unknown
+PAULISTAS,visa,,unknown,unknown
+SANTANA DO PARAISO,visa,,unknown,unknown
+PINGO-D'AGUA,visa,,unknown,unknown
+SAO JOAO DO MANHUACU,visa,,unknown,unknown
+IPATINGA,visa,,unknown,unknown
+CARANGOLA,visa,,unknown,unknown
+CAPUTIRA,visa,,unknown,unknown
+BRAUNAS,visa,,unknown,unknown
+RIO VERMELHO,visa,,unknown,unknown
+SAO JOAO DAS MISSOES,visa,,unknown,unknown
+DIVINO,visa,,unknown,unknown
+SANTA MARGARIDA,visa,,unknown,unknown
+CAPITAO ENEAS,visa,,unknown,unknown
+CORONEL FABRICIANO,visa,,unknown,unknown
+ITACARAMBI,visa,,unknown,unknown
+MATIPO,visa,,unknown,unknown
+TIMOTEO,visa,,unknown,unknown
+GUANHAES,visa,,unknown,unknown
+SERRA AZUL DE MINAS,visa,,unknown,unknown
+RAUL SOARES,visa,,unknown,unknown
+FELICIO DOS SANTOS,visa,,unknown,unknown
+PEDRA BONITA,visa,,unknown,unknown
+MONTALVANIA,visa,,unknown,unknown
+VARZELANDIA,visa,,unknown,unknown
+DORES DE GUANHAES,visa,,unknown,unknown
+SABINOPOLIS,visa,,unknown,unknown
+ABRE CAMPO,visa,,unknown,unknown
+SAO JOAO DA PONTE,visa,,unknown,unknown
+OLHOS-D'AGUA,visa,,unknown,unknown
+EUGENOPOLIS,visa,,unknown,unknown
+SAO GONCALO DO RIO PRETO,visa,,unknown,unknown
+SERICITA,visa,,unknown,unknown
+PATROCINIO DO MURIAE,visa,,unknown,unknown
+MONTES CLAROS,visa,,unknown,unknown
+IBIRACATU,visa,,unknown,unknown
+MIRADOURO,visa,,unknown,unknown
+FERROS,visa,,unknown,unknown
+PATIS,visa,,unknown,unknown
+RIO CASCA,visa,,unknown,unknown
+BOCAIUVA,visa,,unknown,unknown
+ARAPONGA,visa,,unknown,unknown
+CARMESIA,visa,,unknown,unknown
+MURIAE,visa,,unknown,unknown
+CONEGO MARINHO,visa,,unknown,unknown
+JANUARIA,visa,,unknown,unknown
+SERRO,visa,,unknown,unknown
+DELFIM MOREIRA,visa,,unknown,unknown
+MIRABELA,visa,,unknown,unknown
+SEM PEIXE,visa,,unknown,unknown
+ALVORADA DE MINAS,visa,,unknown,unknown
+CANAA,visa,,unknown,unknown
+SANTA MARIA DE ITABIRA,visa,,unknown,unknown
+JAPONVAR,visa,,unknown,unknown
+SANTA CRUZ DO ESCALVADO,visa,,unknown,unknown
+PEDRAS DE MARIA DA CRUZ,visa,,unknown,unknown
+LONTRA,visa,,unknown,unknown
+SAO DOMINGOS DO PRATA,visa,,unknown,unknown
+NOVA ERA,visa,,unknown,unknown
+DIAMANTINA,visa,,unknown,unknown
+SANTO ANTONIO DO RIO ABAIXO,visa,,unknown,unknown
+ERVALIA,visa,,unknown,unknown
+PIRAPETINGA,visa,,unknown,unknown
+LARANJAL,visa,,unknown,unknown
+PRESIDENTE KUBITSCHEK,visa,,unknown,unknown
+PONTE NOVA,visa,,unknown,unknown
+CONCEICAO DO MATO DENTRO,visa,,unknown,unknown
+SANTANA DE CATAGUASES,visa,,unknown,unknown
+ITABIRA,visa,,unknown,unknown
+MORRO DO PILAR,visa,,unknown,unknown
+ALVINOPOLIS,visa,,unknown,unknown
+MIRAI,visa,,unknown,unknown
+JOAO MONLEVADE,visa,,unknown,unknown
+ITAMBE DO MATO DENTRO,visa,,unknown,unknown
+TEIXEIRAS,visa,,unknown,unknown
+BRASILIA DE MINAS,visa,,unknown,unknown
+RIO PIRACICABA,visa,,unknown,unknown
+GOUVEIA,visa,,unknown,unknown
+VICOSA,visa,,unknown,unknown
+CLARO DOS POCOES,visa,,unknown,unknown
+SAO GERALDO,visa,,unknown,unknown
+BONITO DE MINAS,visa,,unknown,unknown
+CORACAO DE JESUS,visa,,unknown,unknown
+GUARACIABA,visa,,unknown,unknown
+CONGONHAS DO NORTE,visa,,unknown,unknown
+VISCONDE DO RIO BRANCO,visa,,unknown,unknown
+CATAGUASES,visa,,unknown,unknown
+GUIDOVAL,visa,,unknown,unknown
+LEOPOLDINA,visa,,unknown,unknown
+VOLTA GRANDE,visa,,unknown,unknown
+ACAIACA,visa,,unknown,unknown
+SAO GONCALO DO RIO ABAIXO,visa,,unknown,unknown
+DONA EUZEBIA,visa,,unknown,unknown
+RODEIRO,visa,,unknown,unknown
+PORTO FIRME,visa,,unknown,unknown
+SAO JOAO DA LAGOA,visa,,unknown,unknown
+UBA,visa,,unknown,unknown
+ASTOLFO DUTRA,visa,,unknown,unknown
+ITAMARATI DE MINAS,visa,,unknown,unknown
+SANTA BARBARA,visa,,unknown,unknown
+DIVINESIA,visa,,unknown,unknown
+BUENOPOLIS,visa,,unknown,unknown
+CATAS ALTAS,visa,,unknown,unknown
+BARAO DE COCAIS,visa,,unknown,unknown
+SENADOR FIRMINO,visa,,unknown,unknown
+ALEM PARAIBA,visa,,unknown,unknown
+JEQUITAI,visa,,unknown,unknown
+TOCANTINS,visa,,unknown,unknown
+ARGIRITA,visa,,unknown,unknown
+PRESIDENTE BERNARDES,visa,,unknown,unknown
+SAO FRANCISCO,visa,,unknown,unknown
+UBAI,visa,,unknown,unknown
+PIRAUBA,visa,,unknown,unknown
+MARIANA,visa,,unknown,unknown
+JABOTICATUBAS,visa,,unknown,unknown
+DORES DO TURVO,visa,,unknown,unknown
+BRAS PIRES,visa,,unknown,unknown
+AUGUSTO DE LIMA,visa,,unknown,unknown
+SANTO HIPOLITO,visa,,unknown,unknown
+CAETE,visa,,unknown,unknown
+SAO JOAO NEPOMUCENO,visa,,unknown,unknown
+ICARAI DE MINAS,visa,,unknown,unknown
+OURO PRETO,visa,,unknown,unknown
+SENHORA DE OLIVEIRA,visa,,unknown,unknown
+BALDIM,visa,,unknown,unknown
+RIO POMBA,visa,,unknown,unknown
+CIPOTANEA,visa,,unknown,unknown
+JEQUITIBA,visa,,unknown,unknown
+BICAS,visa,,unknown,unknown
+LAGOA SANTA,visa,,unknown,unknown
+VESPASIANO,visa,,unknown,unknown
+MAR DE ESPANHA,visa,,unknown,unknown
+SABARA,visa,,unknown,unknown
+LAMIM,visa,,unknown,unknown
+TABULEIRO,visa,,unknown,unknown
+SANTA LUZIA,visa,,unknown,unknown
+RAPOSOS,visa,,unknown,unknown
+RIO ESPERA,visa,,unknown,unknown
+INHAUMA,visa,,unknown,unknown
+GOIANA,visa,,unknown,unknown
+RIO ACIMA,visa,,unknown,unknown
+NOVA LIMA,visa,,unknown,unknown
+SAO JOSE DA LAPA,visa,,unknown,unknown
+CHIADOR,visa,,unknown,unknown
+CONFINS,visa,,unknown,unknown
+SAO ROMAO,visa,,unknown,unknown
+BELO HORIZONTE,visa,,unknown,unknown
+CORINTO,visa,,unknown,unknown
+ITAVERAVA,visa,,unknown,unknown
+VARZEA DA PALMA,visa,,unknown,unknown
+OURO BRANCO,visa,,unknown,unknown
+ITABIRITO,visa,,unknown,unknown
+PEDRO LEOPOLDO,visa,,unknown,unknown
+PASSABEM,visa,,unknown,unknown
+INDAIABIRA,visa,,unknown,unknown
+MATOZINHOS,visa,,unknown,unknown
+FORMOSO,visa,,unknown,unknown
+RIBEIRAO DAS NEVES,visa,,unknown,unknown
+CAPELA NOVA,visa,,unknown,unknown
+PINTOPOLIS,visa,,unknown,unknown
+PRUDENTE DE MORAIS,visa,,unknown,unknown
+CURVELO,visa,,unknown,unknown
+SENHORA DOS REMEDIOS,visa,,unknown,unknown
+CONTAGEM,visa,,unknown,unknown
+SANTANA DOS MONTES,visa,,unknown,unknown
+PIRAPORA,visa,,unknown,unknown
+SETE LAGOAS,visa,,unknown,unknown
+CONSELHEIRO LAFAIETE,visa,,unknown,unknown
+CONGONHAS,visa,,unknown,unknown
+JUIZ DE FORA,visa,,unknown,unknown
+MACHADO,visa,,unknown,unknown
+SANTA BARBARA DO TUGURIO,visa,,unknown,unknown
+BURITIZEIRO,visa,,unknown,unknown
+IBIRITE,visa,,unknown,unknown
+SIMAO PEREIRA,visa,,unknown,unknown
+CHAPADA GAUCHA,visa,,unknown,unknown
+SANTOS DUMONT,visa,,unknown,unknown
+CRISTIANO OTONI,visa,,unknown,unknown
+PARAOPEBA,visa,,unknown,unknown
+SARZEDO,visa,,unknown,unknown
+CARANDAI,visa,,unknown,unknown
+BETIM,visa,,unknown,unknown
+BELO VALE,visa,,unknown,unknown
+MARIO CAMPOS,visa,,unknown,unknown
+ALFREDO VASCONCELOS,visa,,unknown,unknown
+ESMERALDAS,visa,,unknown,unknown
+URUCUIA,visa,,unknown,unknown
+BARBACENA,visa,,unknown,unknown
+BRUMADINHO,visa,,unknown,unknown
+ANTONIO CARLOS,visa,,unknown,unknown
+CACHOEIRA DA PRATA,visa,,unknown,unknown
+SAO JOAQUIM DE BICAS,visa,,unknown,unknown
+IGARAPE,visa,,unknown,unknown
+PIEDADE DOS GERAIS,visa,,unknown,unknown
+MATEUS LEME,visa,,unknown,unknown
+LAGOA DOURADA,visa,,unknown,unknown
+BARROSO,visa,,unknown,unknown
+DORES DE CAMPOS,visa,,unknown,unknown
+FELIXLANDIA,visa,,unknown,unknown
+PRADOS,visa,,unknown,unknown
+ITATIAIUCU,visa,,unknown,unknown
+MARAVILHAS,visa,,unknown,unknown
+LIMA DUARTE,visa,,unknown,unknown
+SANTA RITA DO IBITIPOCA,visa,,unknown,unknown
+IBERTIOGA,visa,,unknown,unknown
+PAPAGAIOS,visa,,unknown,unknown
+PARA DE MINAS,visa,,unknown,unknown
+RESENDE COSTA,visa,,unknown,unknown
+TIRADENTES,visa,,unknown,unknown
+TRES MARIAS,visa,,unknown,unknown
+ITAUNA,visa,,unknown,unknown
+ITAGUARA,visa,,unknown,unknown
+SANTA CRUZ DE MINAS,visa,,unknown,unknown
+IGARATINGA,visa,,unknown,unknown
+SAO JOAO DEL REI,visa,,unknown,unknown
+POMPEU,visa,,unknown,unknown
+PITANGUI,visa,,unknown,unknown
+ARINOS,visa,,unknown,unknown
+CARMO DO CAJURU,visa,,unknown,unknown
+CARMOPOLIS DE MINAS,visa,,unknown,unknown
+CONCEICAO DA BARRA DE MINAS,visa,,unknown,unknown
+CLAUDIO,visa,,unknown,unknown
+DIVINOPOLIS,visa,,unknown,unknown
+SANTA RITA DE JACUTINGA,visa,,unknown,unknown
+NOVA SERRANA,visa,,unknown,unknown
+ARANTINA,visa,,unknown,unknown
+MARTINHO CAMPOS,visa,,unknown,unknown
+URUANA DE MINAS,visa,,unknown,unknown
+BRASILANDIA DE MINAS,visa,,unknown,unknown
+BURITIS,visa,,unknown,unknown
+PERDIGAO,visa,,unknown,unknown
+NAZARENO,visa,,unknown,unknown
+CARMO DA MATA,visa,,unknown,unknown
+OLIVEIRA,visa,,unknown,unknown
+SAO SEBASTIAO DO OESTE,visa,,unknown,unknown
+BOM SUCESSO,visa,,unknown,unknown
+ITUTINGA,visa,,unknown,unknown
+ABAETE,visa,,unknown,unknown
+PAINEIRAS,visa,,unknown,unknown
+BOM DESPACHO,visa,,unknown,unknown
+DOM BOSCO,visa,,unknown,unknown
+BOCAINA DE MINAS,visa,,unknown,unknown
+SAO FRANCISCO DE PAULA,visa,,unknown,unknown
+SANTO ANTONIO DO AMPARO,visa,,unknown,unknown
+ITAPECERICA,visa,,unknown,unknown
+SANTO ANTONIO DO MONTE,visa,,unknown,unknown
+MOEMA,visa,,unknown,unknown
+AIURUOCA,visa,,unknown,unknown
+IJACI,visa,,unknown,unknown
+ITUMIRIM,visa,,unknown,unknown
+NATALANDIA,visa,,unknown,unknown
+DORES DO INDAIA,visa,,unknown,unknown
+JOAO PINHEIRO,visa,,unknown,unknown
+LAVRAS,visa,,unknown,unknown
+VARJAO DE MINAS,visa,,unknown,unknown
+PERDOES,visa,,unknown,unknown
+CRUZILIA,visa,,unknown,unknown
+LAGOA DA PRATA,visa,,unknown,unknown
+CANDEIAS,visa,,unknown,unknown
+FORMIGA,visa,,unknown,unknown
+CAMPO BELO,visa,,unknown,unknown
+TIROS,visa,,unknown,unknown
+BAEPENDI,visa,,unknown,unknown
+ARCOS,visa,,unknown,unknown
+SAO BENTO ABADE,visa,,unknown,unknown
+CAXAMBU,visa,,unknown,unknown
+NEPOMUCENO,visa,,unknown,unknown
+ITAMONTE,visa,,unknown,unknown
+UNAI,visa,,unknown,unknown
+CARMO DA CACHOEIRA,visa,,unknown,unknown
+IGUATAMA,visa,,unknown,unknown
+POUSO ALTO,visa,,unknown,unknown
+SAO GOTARDO,visa,,unknown,unknown
+ITANHANDU,visa,,unknown,unknown
+SOLEDADE DE MINAS,visa,,unknown,unknown
+SAO SEBASTIAO DO RIO VERDE,visa,,unknown,unknown
+CRISTAIS,visa,,unknown,unknown
+SAO LOURENCO,visa,,unknown,unknown
+CABECEIRA GRANDE,visa,,unknown,unknown
+TRES CORACOES,visa,,unknown,unknown
+PASSA QUATRO,visa,,unknown,unknown
+CARMO DE MINAS,visa,,unknown,unknown
+RIO PARANAIBA,visa,,unknown,unknown
+BOA ESPERANCA,visa,,unknown,unknown
+CARMO DO PARANAIBA,visa,,unknown,unknown
+PIMENTA,visa,,unknown,unknown
+BAMBUI,visa,,unknown,unknown
+PARACATU,visa,,unknown,unknown
+CAMBUQUIRA,visa,,unknown,unknown
+LAGOA FORMOSA,visa,,unknown,unknown
+VARGINHA,visa,,unknown,unknown
+TRES PONTAS,visa,,unknown,unknown
+PATOS DE MINAS,visa,,unknown,unknown
+CAMPANHA,visa,,unknown,unknown
+LAMBARI,visa,,unknown,unknown
+CRISTINA,visa,,unknown,unknown
+PIUMHI,visa,,unknown,unknown
+ELOI MENDES,visa,,unknown,unknown
+ILICINEA,visa,,unknown,unknown
+GUAPE,visa,,unknown,unknown
+MONSENHOR PAULO,visa,,unknown,unknown
+CAMPOS GERAIS,visa,,unknown,unknown
+CAMPO DO MEIO,visa,,unknown,unknown
+MARIA DA FE,visa,,unknown,unknown
+VAZANTE,visa,,unknown,unknown
+CAPITOLIO,visa,,unknown,unknown
+LAGOA GRANDE,visa,,unknown,unknown
+SAO GONCALO DO SAPUCAI,visa,,unknown,unknown
+PARAGUACU,visa,,unknown,unknown
+PEDRALVA,visa,,unknown,unknown
+ITAJUBA,visa,,unknown,unknown
+IBIA,visa,,unknown,unknown
+GUARDA-MOR,visa,,unknown,unknown
+SERRA DO SALITRE,visa,,unknown,unknown
+SAO JOSE DO ALEGRE,visa,,unknown,unknown
+PIRANGUINHO,visa,,unknown,unknown
+PIRANGUCU,visa,,unknown,unknown
+SAO ROQUE DE MINAS,visa,,unknown,unknown
+CAREACU,visa,,unknown,unknown
+ALFENAS,visa,,unknown,unknown
+TURVOLANDIA,visa,,unknown,unknown
+CARVALHOPOLIS,visa,,unknown,unknown
+BRAZOPOLIS,visa,,unknown,unknown
+SANTA RITA DO SAPUCAI,visa,,unknown,unknown
+SILVIANOPOLIS,visa,,unknown,unknown
+ALTEROSA,visa,,unknown,unknown
+CONCEICAO DA APARECIDA,visa,,unknown,unknown
+SERRANIA,visa,,unknown,unknown
+POCO FUNDO,visa,,unknown,unknown
+AREADO,visa,,unknown,unknown
+SAO JOAO DA MATA,visa,,unknown,unknown
+PATROCINIO,visa,,unknown,unknown
+CACHOEIRA DE MINAS,visa,,unknown,unknown
+CONCEICAO DOS OUROS,visa,,unknown,unknown
+ALPINOPOLIS,visa,,unknown,unknown
+ESPIRITO SANTO DO DOURADO,visa,,unknown,unknown
+COROMANDEL,visa,,unknown,unknown
+PARAISOPOLIS,visa,,unknown,unknown
+POUSO ALEGRE,visa,,unknown,unknown
+SAPUCAI-MIRIM,visa,,unknown,unknown
+ARAXA,visa,,unknown,unknown
+NOVA RESENDE,visa,,unknown,unknown
+IPUIUNA,visa,,unknown,unknown
+PASSOS,visa,,unknown,unknown
+CAMPESTRE,visa,,unknown,unknown
+ABADIA DOS DOURADOS,visa,,unknown,unknown
+CABO VERDE,visa,,unknown,unknown
+ESTIVA,visa,,unknown,unknown
+TOCOS DO MOJI,visa,,unknown,unknown
+MUZAMBINHO,visa,,unknown,unknown
+BOTELHOS,visa,,unknown,unknown
+BORDA DA MATA,visa,,unknown,unknown
+BANDEIRA DO SUL,visa,,unknown,unknown
+ITAU DE MINAS,visa,,unknown,unknown
+CAMBUI,visa,,unknown,unknown
+JURUAIA,visa,,unknown,unknown
+BOM REPOUSO,visa,,unknown,unknown
+PERDIZES,visa,,unknown,unknown
+CALDAS,visa,,unknown,unknown
+PADRE CARVALHO,visa,,unknown,unknown
+FORTALEZA DE MINAS,visa,,unknown,unknown
+MONTE CARMELO,visa,,unknown,unknown
+JACUI,visa,,unknown,unknown
+CAMANDUCAIA,visa,,unknown,unknown
+CASSIA,visa,,unknown,unknown
+SENADOR AMARAL,visa,,unknown,unknown
+GUAXUPE,visa,,unknown,unknown
+INCONFIDENTES,visa,,unknown,unknown
+OURO FINO,visa,,unknown,unknown
+SANTA FE DE MINAS,visa,,unknown,unknown
+POCOS DE CALDAS,visa,,unknown,unknown
+BUENO BRANDAO,visa,,unknown,unknown
+ITAPEVA,visa,,unknown,unknown
+GUARANESIA,visa,,unknown,unknown
+CAPETINGA,visa,,unknown,unknown
+SANTA JULIANA,visa,,unknown,unknown
+SAO SEBASTIAO DO PARAISO,visa,,unknown,unknown
+ANDRADAS,visa,,unknown,unknown
+MUNHOZ,visa,,unknown,unknown
+EXTREMA,visa,,unknown,unknown
+TOLEDO,visa,,unknown,unknown
+MONTE SANTO DE MINAS,visa,,unknown,unknown
+SACRAMENTO,visa,,unknown,unknown
+NOVA PONTE,visa,,unknown,unknown
+ARCEBURGO,visa,,unknown,unknown
+JACUTINGA,visa,,unknown,unknown
+MONTE SIAO,visa,,unknown,unknown
+ARAGUARI,visa,,unknown,unknown
+UBERABA,visa,,unknown,unknown
+UBERLANDIA,visa,,unknown,unknown
+TUPACIGUARA,visa,,unknown,unknown
+CONCEICAO DAS ALAGOAS,visa,,unknown,unknown
+MONTE ALEGRE DE MINAS,visa,,unknown,unknown
+PRATA,visa,,unknown,unknown
+ARAPORA,visa,,unknown,unknown
+PLANURA,visa,,unknown,unknown
+CENTRALINA,visa,,unknown,unknown
+CANAPOLIS,visa,,unknown,unknown
+FRUTAL,visa,,unknown,unknown
+CACHOEIRA DOURADA,visa,,unknown,unknown
+ITUIUTABA,visa,,unknown,unknown
+CAPINOPOLIS,visa,,unknown,unknown
+FRONTEIRA,visa,,unknown,unknown
+CAMPINA VERDE,visa,,unknown,unknown
+ITAPAGIPE,visa,,unknown,unknown
+SAO FRANCISCO DE SALES,visa,,unknown,unknown
+SANTA VITORIA,visa,,unknown,unknown
+ITURAMA,visa,,unknown,unknown
+LIMEIRA DO OESTE,visa,,unknown,unknown
+CARNEIRINHO,visa,,unknown,unknown
+Patos De Minas,western_union,,unknown,PATOS CAMBIO
+Uberlandia,western_union,,unknown,IFP DC UBERLANDIA
+Montes Claros,western_union,,unknown,CAR TURISMO LTDA
+Cidade Nova,western_union,,unknown,CONFIDENCE MG SH MONTES CLAROS
+Teofilo Otoni,western_union,,unknown,HOS VIAGENS E CAMBIO
+Divinopolis,western_union,,unknown,FOX CAMBIO DIVINOPOLIS
+Uberaba,western_union,,unknown,CONFIDENCE SH UBERABA
+Varginha,western_union,,unknown,XAVITUR CASA DE CAMBIO
+Pouso Alegre,western_union,,unknown,DAYCAMBIO SERRA SUL SHOPPING
+Pocos De Caldas,western_union,,unknown,LOJA WU POCOS DE CALDAS
+Resplendor,western_union,,unknown,RAMITUR VIAGENS
+Belo Horizonte,western_union,,unknown,LOJA BELVITUR BOULEVARD
+Contagem,western_union,,unknown,LOJA WU CONTAGEM
+Ipatinga,western_union,,unknown,LOJA WU IPATINGA
+Juiz De Fora,western_union,,unknown,CONFIDENCE JUIZ DE FORA SH IND
+Governador Valadares,western_union,,unknown,CASH TRANSFER
+Mantena,western_union,,unknown,V B  BRAGANCA AGROVETERINARIA
+Vila Da Serra,western_union,,unknown,BELVEDERE CAMBIO LTDA

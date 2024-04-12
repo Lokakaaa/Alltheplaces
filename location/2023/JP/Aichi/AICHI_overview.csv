@@ -1,0 +1,69 @@
+City,Place Name,Zipcode,Name
+Nagoya,audi,454-0838 Aichi NAGOYA NISHI Nagoya Taiheidori Nakagawa-ku 6-33,unknown,Audi Approved Automobile Nagoya Nishi
+Nagoya,audi,460-0007 Aichi NAGOYA-CHUO Nagoya Shinsakae Naka-ku 1-46-17,unknown,Audi Nagoya Chuo
+Nagoya,audi,468-0015 Aichi NAGOYA-MINAMI Nagoya Hara Tenpaku-ku 2-3418,unknown,Audi Tenpaku
+Nagoya,audi,462-0844 Aichi NAGOYA-KITA Nagoya Shimizu Kita-ku 3-20-20,unknown,Audi Approved Automobile Nagoya Kita
+Nagoya,audi,462-0063 Aichi NAGOYA-KITA Nagoya Marushincho Kita-ku 166,unknown,Audi Kusunoki
+Okazaki,audi,444-0201 Aichi OKAZAKI Okazaki Aza Kitatenpaku Kamiwadacho 10,unknown,Audi Okazaki
+Toyohashi,audi,440-0083 Aichi TOYOHASHI Toyohashi Shimojicho-tenjin 24-1,unknown,Audi Toyohashi
+Toyohashi,audi,441-8016 Aichi TOYOHASHI Toyohashi Torinawate Shinsakaecho 12-1,unknown,Audi Approved Automobile Toyohashi
+Nagakute,audi,480-1116 Aichi NAGOYA-HIGASHI Nagakute Irigaike 109,unknown,Audi Meito
+Ichinomiya,audi,491-0871 Aichi ICHINOMIYA Ichinomiya Asanomasagiyama 5,unknown,Audi Ichinomiya
+Kariya,audi,448-0013 Aichi Kariya Onda-cho 1-151-25,unknown,Audi Approved Automobile Kariya
+Tokoname City,avis,,unknown,null Tokoname City Airport
+"Okazaki-city,",bmw_group,,unknown,"K.K. Motoren Mikawa, BPS Okazaki"
+"Ichinomiya-city,",bmw_group,,unknown,"K.K. Sun Motoren,BPS Ichinomiya/MIN I NEXT Ichinomiya/Kariyasuga Servic"
+"Nagoya-city,",bmw_group,,unknown,"K.K. Meitetsu AUTO, Ozone"
+"Komaki-city,",bmw_group,,unknown,"K.K. Meitetsu AUTO, BPS Komaki/MINI NEXT Komaki"
+"Kasugai-city,",bmw_group,,unknown,"K.K. Meitetsu AUTO, MINI Kasugai"
+Toyohashi-city,bmw_group,,unknown,"K.K. Motoren Mikawa, Toyohashi"
+"Nagakute-city,",bmw_group,,unknown,"K.K. White House, MINI NEXT Nagoya- Meito"
+"Kariya-city,",bmw_group,,unknown,"K.K. White House, MINI Kariya/MIN I NEXT Kariya"
+Toyota-city,bmw_group,,unknown,Tokai Auto Trading K.K. / M.Toyota Motorrad Toyota
+Nagoya-shi,bmw_group,,unknown,KK.Mitsuoka Jidosha/Mitsuoka Nagoya Motorrad Mitsuoka Nagoya
+Nagoya-City,bmw_group,,unknown,K.K. Champion 76/ M Nagoya-Meito Motorrad Nagoya-Meito
+"Owariasahi-city,",bmw_group,,unknown,"K.K. Meitetsu AUTO, Owariasahi"
+Nagoya-city,bmw_group,,unknown,K.K. DATZ / Motorrad Nagoya-Minami Motorrad Nagoya-Minami
+"Toyohashi-city,",bmw_group,,unknown,"K.K. Garage Shinwa, MINI Toyohashi/ MINI NEXT Toyohashi"
+"Naka-ku, Nagoya-city,",bmw_group,,unknown,"K.K. White House, MINI Chikusa"
+Nagoya,botteg_aveneta,,unknown,Nagoya - Matsuzakaya
+unknown,hooters,ZXA 1-4-5 Sakae Naka-ku Nagoya-shi Aichi Nagoya 460-0008 Japan,unknown,Hooters
+Nagoya,orangetheory_fitness,,unknown,Ikeshita
+Hirojicho,orangetheory_fitness,,unknown,Yagoto
+Nagoya Naka Ward,petit_bateau,,unknown,Petit Bateau Nagoya
+Nagoya Chikusa Ward,petit_bateau,,unknown,Petit Bateau Hoshigaoka Mitsukoshi
+"Nagoya-shi,",travelex,Unimall 4-5-26 Saki Meieki Nakamura-ku Nagoya-shi 450-0002,unknown,NAGOYA UNIMALL
+"Nagoya-shi,",travelex,SakaeChika　3-4-6 saki Sakae Naka-ku Nagoya-shi Aichi 460-0008,unknown,NAGOYA-SAKAE MONEY TRANSFER PLAZA
+"Tokoname-shi,",travelex,3F Centrair Airport Int'l Deperture Lobby 1-1 Centrair Tokoname-shi 479-8704,unknown,CENTRAIR INT'L DEP GATE 20
+"Tokoname-shi,",travelex,3F Centrair Airport Int'l Departure lobby 1-1Centrair Tokoname-shi 479-8701,unknown,CENTRAIR ACCESS PLAZA
+Tokoname-shi,travelex,3F Centrair Airport Int'l Deperture Lobby 1-1 Centrair Tokoname-shi 479-8704,unknown,CENTRAIR INT DEP GATE 17
+ICHINOMIYA-SHI,visa,,unknown,unknown
+INAZAWA-SHI,visa,,unknown,unknown
+KITANAGOYA-SHI,visa,,unknown,unknown
+KOMAKI-SHI,visa,,unknown,unknown
+KASUGAI-SHI,visa,,unknown,unknown
+NAGOYA,visa,,unknown,unknown
+TOKONAME-SHI,visa,,unknown,unknown
+NISSHIN-SHI,visa,,unknown,unknown
+KARIYA-SHI,visa,,unknown,unknown
+HANDA-SHI,visa,,unknown,unknown
+TOYOTA-SHI,visa,,unknown,unknown
+ANJO-SHI,visa,,unknown,unknown
+NISHIO-SHI,visa,,unknown,unknown
+OKAZAKI-SHI,visa,,unknown,unknown
+TOYOHASHI-SHI,visa,,unknown,unknown
+Nagoya,western_union,,unknown,SPEED MONEY TRANSFER NAGOYA
+Kasugai,western_union,,unknown,MABINI
+Miyoshi,western_union,,unknown,YUKIMI ENTERPRISE
+Kariya,western_union,,unknown,INTERNATIONAL FOOD SHOP
+Toyota Shi,western_union,,unknown,JTA CHIMPINDO
+Nishio,western_union,,unknown,MK CORPORATION
+Okazaki Shi,western_union,,unknown,JTA TICKET SHOP PLUS OKAZAKI TEN
+Toyokawa Shi,western_union,,unknown,DSK THE AMIGOS TOYOKAWA
+Toyohashi Shi,western_union,,unknown,JTA TICKET SHOP PLUS TOYOHASHI NISHIEKI
+Toyohashi,western_union,,unknown,IHAW IHAW
+Ichinomiya,western_union,,unknown,WELLM
+Iwakura,western_union,,unknown,KASERYA INTERNATIONAL HALAL BAZAAR
+Inuyama Shi,western_union,,unknown,JTA KINKEN SHOP INUYAMA
+Komaki,western_union,,unknown,LIFE SUPPORT
+Nagoya Shi,western_union,,unknown,JTA M & K TICKET

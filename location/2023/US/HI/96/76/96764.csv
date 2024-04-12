@@ -1,0 +1,6 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+FH2202,first_hawaiian_bank,"First Hawaiian Bank ATM, Minit Stop-Laupahoehoe",,Laupahoehoe,HI,,US,,,24/7,First Hawaiian Bank,Q3072937
+1369931,usps,LAUPAHOEHOE,,LAUPAHOEHOE,HI,,US,+1 808-962-6238,,"Mo-Fr 08:30-11:30,12:00-15:00; Sa 08:30-10:15",United States Postal Service,Q668687
+9676400001,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,36-2281 MAMALAHOA HWY,LAUPAHOEHOE,HI,,US,,,,United States Postal Service,Q668687
+9676400004,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,36-2281 MAMALAHOA HWY,LAUPAHOEHOE,HI,,US,,,,United States Postal Service,Q668687
+,visa,,,LAUPAHOEHOE,HI,,US,,,,,

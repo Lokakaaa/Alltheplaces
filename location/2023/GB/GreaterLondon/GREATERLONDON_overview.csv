@@ -1,0 +1,549 @@
+City,Place Name,Zipcode,Name
+London (Colindale),anytime_fitness,,unknown,Anytime Fitness
+London (Aldgate),anytime_fitness,,unknown,Anytime Fitness
+London,anytime_fitness,,unknown,Anytime Fitness
+Upminster,anytime_fitness,,unknown,Anytime Fitness
+Epsom,anytime_fitness,,unknown,Anytime Fitness
+Borehamwood,anytime_fitness,,unknown,Anytime Fitness
+London ,anytime_fitness,,unknown,Anytime Fitness
+London (Harrow And Wealdstone),anytime_fitness,,unknown,Anytime Fitness
+London (Chiswick),anytime_fitness,,unknown,Anytime Fitness
+Feltham,anytime_fitness,,unknown,Anytime Fitness
+Hornchurch,anytime_fitness,,unknown,Anytime Fitness
+Barnet,anytime_fitness,,unknown,Anytime Fitness
+London (Euston),anytime_fitness,,unknown,Anytime Fitness
+London (West Ealing),anytime_fitness,,unknown,Anytime Fitness
+Mill Hill,anytime_fitness,,unknown,Anytime Fitness
+London (Loughton),anytime_fitness,,unknown,Anytime Fitness
+London (Swiss Cottage),anytime_fitness,,unknown,Anytime Fitness
+Lewisham,anytime_fitness,,unknown,Anytime Fitness
+London (Brixton),anytime_fitness,,unknown,Anytime Fitness
+London (Alperton),anytime_fitness,,unknown,Anytime Fitness
+London (Chalk Farm),anytime_fitness,,unknown,Anytime Fitness
+London Fields (Hackney),anytime_fitness,,unknown,Anytime Fitness
+Hounslow,anytime_fitness,,unknown,Anytime Fitness
+Peckham,anytime_fitness,,unknown,Anytime Fitness
+Bushey,anytime_fitness,,unknown,Anytime Fitness
+London (White City),anytime_fitness,,unknown,Anytime Fitness
+Orpington,anytime_fitness,,unknown,Anytime Fitness
+London (Bermondsey),anytime_fitness,,unknown,Anytime Fitness
+Croxley Park,anytime_fitness,,unknown,Anytime Fitness
+London (Kingston Upon Thames),anytime_fitness,,unknown,Anytime Fitness
+Ruislip,anytime_fitness,,unknown,Anytime Fitness
+Leyton,anytime_fitness,,unknown,Anytime Fitness
+London (Wimbledon),anytime_fitness,,unknown,Anytime Fitness
+London (Angel),anytime_fitness,,unknown,Anytime Fitness
+London (Putney),anytime_fitness,,unknown,Anytime Fitness
+Bexleyheath,anytime_fitness,,unknown,Anytime Fitness
+London (Tottenham Hale),anytime_fitness,,unknown,Anytime Fitness
+London (Balham),anytime_fitness,,unknown,Anytime Fitness
+London (Stratford East),anytime_fitness,,unknown,Anytime Fitness
+London,apple,,unknown,Apple Battersea
+Kingston upon Thames,apple,,unknown,Apple Bentall Centre
+Dagenham,asda_gb,,unknown,Asda
+Lewisham,asda_gb,,unknown,Asda
+Heathrow,benchmarx_gb,,unknown,Benchmarx
+Ilford,bhf_gb,,unknown,Ilford Furniture & Electrical Store
+London,budgens_gb,,unknown,Budgens Coldharbour Lane
+Catford,budgens_gb,,unknown,Budgens Catford
+Coulsdon,budgens_gb,,unknown,Budgens Coulsdon
+London,burgerking,,unknown,Burger King
+Tottenham Hale,burgerking,,unknown,Burger King
+Greenwich,burgerking,,unknown,Burger King
+Walton-on-Thames,burgerking,,unknown,Burger King
+Watford,burgerking,,unknown,Burger King
+Isle of Sheppey,burgerking,,unknown,Burger King
+Oxford,burgerking,,unknown,Burger King
+SAINT NEOTS,burgerking,,unknown,Burger King
+0000,burgerking,,unknown,Burger King
+Bradford,burgerking,,unknown,Burger King
+Harrow,b_and_m,,unknown,B&M Harrow (817) Store
+Ilford,b_and_m,,unknown,B&M Ilford (157) Store
+Chadwell Heath,b_and_m,,unknown,B&M Chadwell Heath - Goodmayes Retail Park (395) Store
+Dagenham,b_and_m,,unknown,B&M Chadwell Heath - Dagenham (354) Store
+Carshalton,costcutter_gb,,unknown,"Costcutter - Otter Drive, Carshalton"
+London,costcutter_gb,,unknown,"Costcutter - Lambeth Road, London"
+Romford,dunelm_gb,,unknown,Romford
+Orpington,ember_inns_gb,,unknown,"Queens Head, Green Street Green Green Street Green"
+West Wickham,ember_inns_gb,,unknown,"Railway, West Wickham West Wickham"
+Croydon,ember_inns_gb,,unknown,The Crown Shirley
+London,ember_inns_gb,,unknown,The Alleyn's Head West Dulwich
+Chessington,ember_inns_gb,,unknown,"North Star, Chessington Chessington"
+Sutton,ember_inns_gb,,unknown,The California Sutton
+Romford,ember_inns_gb,,unknown,The Mawney Arms Romford
+Upminster,ember_inns_gb,,unknown,The Optimist Tavern Upminster
+Enfield,ember_inns_gb,,unknown,The Ridgeway Tavern Enfield
+Hornchurch,ember_inns_gb,,unknown,The Ardleigh Hornchurch
+Chislehurst,ember_inns_gb,,unknown,"Queens Head, West Chislehurst Chislehurst"
+Northwood,ember_inns_gb,,unknown,The Gate Northwood
+Harrow,ember_inns_gb,,unknown,The Duck in the Pond Harrow
+Wembley,ember_inns_gb,,unknown,"Black Horse, Wembley Wembley"
+Bexleyheath,ember_inns_gb,,unknown,The Earl Haig Bexleyheath
+London,favorite_chicken_gb,,unknown,Favorite Chicken & Ribs
+New Malden,furniture_village_gb,,unknown,Furniture Village New Malden
+Kingston on Thames,game_gb,,unknown,GAME Kingston Upon Thames Lite
+Kingston Upon Thames,grape_tree_gb,,unknown,Grape Tree Kingston Upon Thames
+Bromley,grape_tree_gb,,unknown,Grape Tree Bromley
+Enfield,indigo,,unknown,Turkey Street Station Car Park (TfL)
+Milford,indigo,,unknown,Barkingside Station Car Park (TfL)
+London,indigo,,unknown,Highgate Station Car Park (TfL)
+Edgware,indigo,,unknown,Canons Park Station Car Park (TfL)
+Royal Borough of Kensington & Chelsea,indigo,,unknown,St. Charles Centre for Health & Wellbeing
+Ilford,indigo,,unknown,Redbridge Station Car Park (TfL)
+Harold Wood,indigo,,unknown,Harold Wood Station Car Park (TfL)
+Middlesex,indigo,,unknown,Harrow on the Hill Surface Station Car Park (TfL)
+Harrow,indigo,,unknown,Queensbury Station Car Park (TfL)
+Hayes and Harlington,indigo,,unknown,Hayes and Harlington Station Car Park (TfL)
+Barnet,indigo,,unknown,Cockfosters Station Car Park (TfL)
+Forest Hill,indigo,,unknown,Forest Hill Station Car Park (TfL)
+Ruislip,indigo,,unknown,Eastcote Station Car Park (TfL)
+Hatch End,indigo,,unknown,Hatch End Station Car Park (TfL)
+Feltham,indigo,,unknown,Hatton Cross Station Car Park (TfL)
+Northwood,indigo,,unknown,Northwood Station Car Park (TfL)
+Essex,indigo,,unknown,Newbury Park Lower Station Car Park (TfL)
+Wembley,indigo,,unknown,Sudbury Town Station Car Park (TfL)
+Woodford Green,indigo,,unknown,Woodford Station Car Park (TfL)
+Hounslow,indigo,,unknown,Hounslow West Station Car Park (TfL)
+Uxbridge,indigo,,unknown,Hillingdon Station Car Park (TfL)
+Rickmansworth,indigo,,unknown,Moor Park Station Car Park (TfL)
+Isleworth,indigo,,unknown,Osterley Station Car Park (TfL)
+Stanmore,indigo,,unknown,Stanmore Station Car Park (TfL)
+West Drayton,indigo,,unknown,West Drayton Station Car Park (TfL)
+Sydenham Road,indigo,,unknown,Penge West Station Car Park (TfL)
+Greenford,indigo,,unknown,Greenford Station Car Park (TfL)
+Romford,indigo,,unknown,Gidea Park Station Car Park (TfL)
+Morden,indigo,,unknown,Morden Station Car Park (TfL)
+Hornchurch,indigo,,unknown,Hornchurch Station Car Park (TfL)
+London,londis_gb,,unknown,Londis Shell Acton Park Service Station
+South Croydon,londis_gb,,unknown,Londis Whitgift
+Twickenham,londis_gb,,unknown,Londis Staines Road
+Beckenham,londis_gb,,unknown,Londis Eden Park
+East Molesey,londis_gb,,unknown,Londis Palace
+Hounslow,londis_gb,,unknown,Londis Hounslow
+Purley,londis_gb,,unknown,Londis Hayling Down
+Enfield,londis_gb,,unknown,Londis Bush Hill
+Bexleyheath,londis_gb,,unknown,Londis Shell Bexleyheath Service Station
+Cricklewood,londis_gb,,unknown,Londis BP Victoria Service Station
+Morden,londis_gb,,unknown,Londis Wandle
+WIMBLEDON,londis_gb,,unknown,Londis LONDIS - SPRI
+Catford,londis_gb,,unknown,Londis LONDIS - PRIME VERDANT NEWS
+Camden Town,londis_gb,,unknown,Londis LONDIS - ALBANY STREET
+Silvertown,londis_gb,,unknown,Londis LONDIS - SILVERTOWN
+Croydon,londis_gb,,unknown,Londis LONDIS - SHIRLEY
+Battersea,londis_gb,,unknown,Londis LONDIS - ST JOHNS HILL
+Neasden,londis_gb,,unknown,Londis STAR WINES CLASSIC
+Ickenham,londis_gb,,unknown,"Londis Londis, Hillingdon"
+East Ham,londis_gb,,unknown,Londis LONDIS BARKING ROAD
+Eltham,londis_gb,,unknown,Londis ELTHAM PARK LONDIS
+Wembley,londis_gb,,unknown,Londis Shell Wembely Park Service Station
+Willesden Green,londis_gb,,unknown,Londis LONDIS HIGH ROAD
+Isleworth,londis_gb,,unknown,Londis Shell Isleworth Service Station
+Deptford,londis_gb,,unknown,Londis LONDIS EVELYN STREET
+Barnes,londis_gb,,unknown,Londis LONDIS BARNES
+Merton,londis_gb,,unknown,Londis Shell Rowan Road Service Station
+Haringey,londis_gb,,unknown,Londis Shell Northumberland Park Service Station
+West Wickham,londis_gb,,unknown,Londis Shell West Wickham Service Station
+Leyton,londis_gb,,unknown,Londis Jet Leyco Service Station
+Manchester,londis_gb,,unknown,Londis LONDIS - HOLLINGWOOD AVENUE
+Walthamstow,londis_gb,,unknown,Londis Jet Highams Lodge Service Station
+Dulwich,londis_gb,,unknown,Londis BP Dulwich Service Station
+New Barnet,londis_gb,,unknown,Londis Shell New Barnet Service Station
+Chingford,londis_gb,,unknown,Londis BP Chingford Service Station
+Stoke Newington,londis_gb,,unknown,Londis BP Stamford Hill Service Station
+Hammersmith,londis_gb,,unknown,Londis BP Great West Road
+Abbey Wood,londis_gb,,unknown,Londis BP Thamesmead
+Ealing,londis_gb,,unknown,Londis Shell Acton Vale Service Station
+Greenford,marstons_plc,229 Ruislip Road Greenford Greater London UB6 9RZ,unknown,Hare & Hounds
+Waterloo,marstons_plc,150 Waterloo Road Waterloo Greater London SE1 8SB,unknown,Fire Station
+Romford,marstons_plc,Noak Hill Road Romford Greater London RM3 7LL,unknown,Deers Rest
+Sutton,marstons_plc,59-61 High st Sutton Greater London SM1 1DT,unknown,EBB & Flow Sutton
+Upminster,marstons_plc,33-37 Corbetts Tey Road Upminster Greater London RM14 2AJ,unknown,Crumpled Horn
+New Malden,marstons_plc,1-3 St. George's Square New Malden Greater London KT3 4HG,unknown,Bar Malden
+Sidcup,marstons_plc,Chislehurst Road Sidcup Kent Greater London DA14 6BF,unknown,Star at Sidcup Place
+Croydon,marstons_plc,47 High Street Croydon Greater London CR0 1QD,unknown,Ship
+Dagenham,marstons_plc,1 Yewtree Avenue Dagenham Greater London RM10 7FN,unknown,Pipe Major
+Richmond,marstons_plc,11 Bridge Street Richmond Greater London TW9 1TQ,unknown,Pitcher & Piano Richmond
+Croydon,marstons_plc,Station Road East Croydon Greater London CR0 6BT,unknown,Porter and Sorter
+Belvedere,marstons_plc,1 Clydesdale Way Belvedere Greater London DA17 6FD,unknown,Morgan
+Waterloo,midcounties_cooperative_gb,,unknown,Waterloo Nursery
+Bexley,miller_and_carter_gb,,unknown,Miller & Carter Bexley Kent
+Ilford,miller_and_carter_gb,,unknown,Miller & Carter Newbury Park Essex
+Barnet,miller_and_carter_gb,,unknown,Miller & Carter Stirling Corner Barnet
+London,miller_and_carter_gb,,unknown,Miller & Carter Muswell Hill Muswell Hill
+Mitcham,miller_and_carter_gb,,unknown,Miller & Carter Mitcham Mitcham
+Woodford Green,miller_and_carter_gb,,unknown,Miller & Carter Woodford Green Woodford Green
+West Wickham,miller_and_carter_gb,,unknown,Miller & Carter Bromley Bromley
+Ruislip,miller_and_carter_gb,,unknown,Miller & Carter Ruislip Middlesex
+Harrow,miller_and_carter_gb,,unknown,Miller & Carter Harrow Harrow
+Romford,miller_and_carter_gb,,unknown,Miller & Carter Chigwell Essex
+Enfield,morrisons_gb,,unknown,Enfield Petrol Station
+Chingford,morrisons_gb,,unknown,Chingford Petrol Station
+London,morrisons_gb,,unknown,Morrisons Daily Canary Wharf
+Peckham,morrisons_gb,,unknown,Peckham Petrol Station
+Brent,morrisons_gb,,unknown,Queensbury Petrol Station
+Thamesmead,morrisons_gb,,unknown,Thamesmead Petrol Station
+Stoke Newington,morrisons_gb,,unknown,Stamford Hill
+Camberwell,morrisons_gb,,unknown,Camberwell
+Wimbledon,morrisons_gb,,unknown,Wimbledon
+Croydon,morrisons_gb,,unknown,Croydon
+Southwark,morrisons_gb,,unknown,Southwark
+Catford,morrisons_gb,,unknown,Morrisons Daily Catford
+Leyton,morrisons_gb,,unknown,Morrisons Daily Orient
+Hillingdon,morrisons_gb,,unknown,Morrisons Daily Hillingdon Sutton Court Road
+Ruislip,morrisons_gb,,unknown,Morrisons Daily Ruislip Whitby Road
+London,nicholsons_pubs_gb,,unknown,The White Horse Carnaby Street London
+Hammersmith,o2_gb,,unknown,O2 Shop London - Hammersmith
+London,o2_gb,,unknown,O2 Shop London - Fulham Broadway
+Ilford,o2_gb,,unknown,O2 Shop Ilford
+Wandsworth,o2_gb,,unknown,O2 Shop London - Wandsworth
+Enfield,o2_gb,,unknown,O2 Shop Enfield
+Stratford,o2_gb,,unknown,O2 Shop London - Stratford Centre
+Ealing,o2_gb,,unknown,O2 Shop London - Ealing
+Croydon,o2_gb,,unknown,O2 Shop Croydon
+Wood Green,o2_gb,,unknown,O2 Shop London - Wood Green
+Walthamstow,o2_gb,,unknown,O2 Shop London - Walthamstow
+Eltham,o2_gb,,unknown,O2 Shop London - Eltham
+Sutton,o2_gb,,unknown,O2 Shop Sutton
+Woolwich,o2_gb,,unknown,O2 Shop London - Woolwich
+Bexleyheath,o2_gb,,unknown,O2 Shop Bexleyheath
+Richmond Upon Thames,o2_gb,,unknown,O2 Shop Richmond Upon Thames
+Edgware,o2_gb,,unknown,O2 Shop Edgware
+Hounslow,o2_gb,,unknown,O2 Shop Hounslow
+Orpington,rowlands_pharmacy_gb,,unknown,Rowlands Pharmacy Orpington
+Bromley,rowlands_pharmacy_gb,,unknown,Rowlands Pharmacy Bromley
+Morden,rowlands_pharmacy_gb,,unknown,Rowlands Pharmacy Morden
+London,rowlands_pharmacy_gb,,unknown,Rowlands Pharmacy Marlborough Parade
+LONDON,sainsburys,,unknown,Holborn
+Wallington,specsavers,,unknown,Wallington
+Sutton,specsavers,,unknown,London - Sutton
+Croydon,specsavers,,unknown,Croydon - North End
+West Wickham,specsavers,,unknown,West Wickham
+Surbiton,specsavers,,unknown,London - Surbiton
+New Malden,specsavers,,unknown,London - New Malden
+Morden,specsavers,,unknown,London - Morden
+Bromley,specsavers,,unknown,Bromley
+Beckenham,specsavers,,unknown,London - Beckenham
+Penge,specsavers,,unknown,London - Penge
+Wimbledon,specsavers,,unknown,London - Wimbledon
+Sidcup,specsavers,,unknown,Sidcup
+Tooting,specsavers,,unknown,London - Tooting
+Streatham,specsavers,,unknown,London - Streatham
+Catford,specsavers,,unknown,Catford
+Feltham,specsavers,,unknown,London - Feltham
+Twickenham,specsavers,,unknown,London - Twickenham
+Eltham,specsavers,,unknown,London - Eltham
+Wandsworth,specsavers,,unknown,London - Wandsworth
+Bexleyheath,specsavers,,unknown,London - Bexleyheath
+Lewisham,specsavers,,unknown,London - Lewisham
+Brixton,specsavers,,unknown,London - Brixton
+London,specsavers,,unknown,London - Swiss Cottage
+Putney,specsavers,,unknown,London - Putney
+Hounslow,specsavers,,unknown,London - Hounslow
+Erith,specsavers,,unknown,Erith
+Fulham,specsavers,,unknown,London - Fulham
+Woolwich,specsavers,,unknown,London - Woolwich
+Chiswick,specsavers,,unknown,London - Chiswick
+Hammersmith,specsavers,,unknown,London - Hammersmith
+Shepherds Bush,specsavers,,unknown,London - Shepherds Bush
+Acton,specsavers,,unknown,London - Acton
+Hayes,specsavers,,unknown,Hayes Sainsbury's
+West Ealing,specsavers,,unknown,London - West Ealing
+Ealing,specsavers,,unknown,London - Ealing Broadway
+Bethnal Green,specsavers,,unknown,London - Bethnal Green
+Greenford,specsavers,,unknown,Greenford - Westway Cross
+Islington,specsavers,,unknown,London - Islington
+East Ham,specsavers,,unknown,London - East Ham
+Harlesden,specsavers,,unknown,London - Harlesden
+Barking,specsavers,,unknown,Barking
+Camden Town,specsavers,,unknown,London - Camden Town
+Kilburn,specsavers,,unknown,London - Kilburn
+Dagenham,specsavers,,unknown,London - Dagenham
+Hackney,specsavers,,unknown,London - Hackney
+Dalston Cross,specsavers,,unknown,London - Dalston Cross
+Wembley,specsavers,,unknown,Wembley Park
+Holloway,specsavers,,unknown,London - Holloway
+Ilford,specsavers,,unknown,Ilford
+Upminster,specsavers,,unknown,Upminster
+Hornchurch,specsavers,,unknown,Hornchurch
+South Harrow,specsavers,,unknown,South Harrow
+Golders Green,specsavers,,unknown,London - Golders Green
+Ruislip,specsavers,,unknown,Ruislip
+Romford,specsavers,,unknown,Romford
+Crouch End,specsavers,,unknown,London - Crouch End
+Harrow,specsavers,,unknown,Harrow
+Walthamstow,specsavers,,unknown,London - Walthamstow
+Kingsbury,specsavers,,unknown,London - Kingsbury
+Barkingside,specsavers,,unknown,Barkingside
+Muswell Hill,specsavers,,unknown,London - Muswell Hill
+Wood Green,specsavers,,unknown,London - Wood Green
+North Finchley,specsavers,,unknown,London - North Finchley
+Chingford,specsavers,,unknown,Chingford
+Stanmore,specsavers,,unknown,Stanmore
+Palmers Green,specsavers,,unknown,London - Palmers Green
+Enfield,specsavers,,unknown,London - Enfield
+Barnet,specsavers,,unknown,London - Barnet
+Ruislip,stonehouse_gb,,unknown,The Waters Edge Ruislip
+Barnet,stonehouse_gb,,unknown,Red Lion Barnet Barnet
+Mitcham,team_sport_gb,,unknown,TeamSport Go Karting London Mitcham
+Edgware,the_cooperative_group,,unknown,"Co-op Funeralcare, Edgware"
+Dagenham,the_cooperative_group,,unknown,Dagenham Funeralcare
+London,the_cooperative_group,,unknown,Ealing Funeralcare
+Barking Riverside,the_cooperative_group,,unknown,"The Co-operative Food, Barking Riverside Development"
+Bermondsey,the_cooperative_group,,unknown,"The Co-operative Food, LSHF Spa Road"
+Muswell Hill,the_cooperative_group,,unknown,"The Co-operative Food, Muswell Hill - Priory Road"
+Thornton Heath,the_cooperative_group,,unknown,Thornton Heath Funeralcare
+Barking,the_cooperative_group,,unknown,"The Co-operative Food, Faircross Parade"
+Greenford,the_cooperative_group,,unknown,"The Co-operative Food, Greenford - Greenford Green"
+Westerham,the_cooperative_group,,unknown,"The Co-operative Food, Biggin Hill - Rosehill Road"
+Romford,the_cooperative_group,,unknown,"Co-op Funeralcare, Collier Row"
+Northwood,the_cooperative_group,,unknown,"The Co-operative Food, Northwood Hills - Joel Street"
+Surbiton,the_cooperative_group,,unknown,"The Co-operative Food, Surbiton - Ellerton Road"
+Ilford,the_cooperative_group,,unknown,Barkingside Funeralcare
+Twickenham,the_cooperative_group,,unknown,"Co-op Funeralcare, Twickenham"
+Uxbridge,the_cooperative_group,,unknown,H C Grimstead Funeralcare
+Croydon,the_cooperative_group,,unknown,Croydon Funeralcare
+Wembley,the_cooperative_group,,unknown,"The Co-operative Food, Wembley"
+Teddington,the_cooperative_group,,unknown,Teddington Funeralcare
+Walthamstow,the_cooperative_group,,unknown,Walthamstow Funeralcare
+Upminster,the_cooperative_group,,unknown,"Co-op Funeralcare, Upminster"
+Mitcham,the_cooperative_group,,unknown,"Co-op Funeralcare, Mitcham"
+Hornchurch,the_cooperative_group,,unknown,"Co-op Funeralcare, Hornchurch"
+Northolt,the_cooperative_group,,unknown,"The Co-operative Food, Yeading - Northolt"
+Woodford Green,the_cooperative_group,,unknown,"The Co-operative Food, Woodford Bridge"
+Wallington,the_cooperative_group,,unknown,"Co-op Funeralcare, Wallington"
+Sidcup,the_cooperative_group,,unknown,"Co-op Funeralcare, Sidcup High St"
+Upper Belvedere,the_cooperative_group,,unknown,"The Co-operative Food, Upper Belvedere"
+Stockwell,the_cooperative_group,,unknown,"The Co-operative Food, Stockwell - Brixton Road"
+Orpington,the_cooperative_group,,unknown,Orpington Funeralcare
+South Woodford,the_cooperative_group,,unknown,"The Co-operative Food, South Woodford - George Lane"
+Bexleyheath,the_cooperative_group,,unknown,Bexleyheath Funeralcare
+New Malden,the_cooperative_group,,unknown,New Malden Funeralcare
+Barnet,the_cooperative_group,,unknown,Barnet Funeralcare
+Enfield,the_cooperative_group,,unknown,"Co-op Funeralcare, Lancaster Road"
+Kingston-upon-Thames,the_cooperative_group,,unknown,"The Co-operative Food, Kingston - Kings Road"
+Kenley,the_cooperative_group,,unknown,"The Co-operative Food, Kenley"
+Isleworth,the_cooperative_group,,unknown,"The Co-operative Food, Isleworth - South Street"
+Hayes,the_cooperative_group,,unknown,"Co-op Funeralcare, Hayes"
+South Croydon,the_cooperative_group,,unknown,"Co-op Funeralcare, South Croydon"
+Welling,the_cooperative_group,,unknown,Welling Funeralcare
+Bromley,the_cooperative_group,,unknown,Bromley Funeralcare
+West Wickham,the_cooperative_group,,unknown,West Wickham Funeralcare
+Chislehurst,the_cooperative_group,,unknown,"The Co-operative Food, Chislehurst"
+Brent,the_cooperative_group,,unknown,"The Co-operative Food, Childs Hill - Finchley Road"
+Carshalton,the_cooperative_group,,unknown,Rosehill Funeralcare
+Brockley,the_cooperative_group,,unknown,"Co-op Funeralcare, Brockley"
+Brentford,the_cooperative_group,,unknown,"The Co-operative Food, Brentford - Boston Manor Road"
+Bexley,the_cooperative_group,,unknown,"The Co-operative Food, Albany Park"
+Beckenham,the_cooperative_group,,unknown,H. Copeland &amp; Sons Funeralcare
+Palmers Green,the_cooperative_group,,unknown,Palmers Green Funeralcare
+Manor Park,the_cooperative_group,,unknown,"Co-op Funeralcare, Manor Park"
+Wanstead,the_cooperative_group,,unknown,Francis &amp; C Walters Funeralcare
+Tottenham,the_cooperative_group,,unknown,Tottenham Funeralcare
+Poplar,the_cooperative_group,,unknown,"Co-op Funeralcare, Poplar"
+Kentish Town,the_cooperative_group,,unknown,"Co-op Funeralcare, Kentish Town"
+Holloway,the_cooperative_group,,unknown,Holloway Funeralcare
+Highams Park,the_cooperative_group,,unknown,Highams Park Funeralcare
+East Ham,the_cooperative_group,,unknown,"Co-op Funeralcare, East Ham"
+Hackney,the_cooperative_group,,unknown,Hackney Funeralcare
+East Finchley,the_cooperative_group,,unknown,"Co-op Funeralcare, East Finchley"
+Clapton,the_cooperative_group,,unknown,Clapton Funeralcare
+Chigwell,the_cooperative_group,,unknown,"Co-op Funeralcare, Chigwell"
+Southgate,the_cooperative_group,,unknown,"Co-op Funeralcare, Southgate"
+Chingford,the_cooperative_group,,unknown,Chingford Funeralcare
+Woolwich,the_cooperative_group,,unknown,"Co-op Funeralcare, Woolwich"
+Walworth,the_cooperative_group,,unknown,Walworth Funeralcare
+Peckham,the_cooperative_group,,unknown,"Co-op Funeralcare, Peckham"
+Mottingham,the_cooperative_group,,unknown,"Co-op Funeralcare, Mottingham"
+Erith,the_cooperative_group,,unknown,"Co-op Funeralcare, Erith"
+Eltham,the_cooperative_group,,unknown,Eltham Funeralcare
+East Dulwich,the_cooperative_group,,unknown,East Dulwich Funeralcare
+Catford,the_cooperative_group,,unknown,"Co-op Funeralcare, Catford"
+Abbey Wood,the_cooperative_group,,unknown,Abbeywood Funeralcare
+Purley,the_cooperative_group,,unknown,"Co-op Funeralcare, Purley"
+Sydenham,the_cooperative_group,,unknown,Sydenham Funeralcare
+Sutton,the_cooperative_group,,unknown,"Co-op Funeralcare, Sutton"
+North Cheam,the_cooperative_group,,unknown,North Cheam Funeralcare
+New Addington,the_cooperative_group,,unknown,New Addington Funeralcare
+West Norwood,the_cooperative_group,,unknown,West Norwood Funeralcare
+Streatham,the_cooperative_group,,unknown,"Co-op Funeralcare, Streatham"
+Raynes Park,the_cooperative_group,,unknown,"Co-op Funeralcare, Raynes Park"
+Putney,the_cooperative_group,,unknown,Putney Funeralcare
+Morden,the_cooperative_group,,unknown,"Co-op Funeralcare, Morden"
+Kingston Upon Thames,the_cooperative_group,,unknown,"Co-op Funeralcare, Kingston Upon Thames"
+Fulham,the_cooperative_group,,unknown,Parsons Green Funeralcare
+Earlsfield,the_cooperative_group,,unknown,"Co-op Funeralcare, Earlsfield"
+Lambeth,the_cooperative_group,,unknown,"Co-op Funeralcare, Lambeth"
+Battersea,the_cooperative_group,,unknown,"Co-op Funeralcare, Battersea"
+Balham,the_cooperative_group,,unknown,"Co-op Funeralcare, Balham"
+Hounslow,the_cooperative_group,,unknown,"Co-op Funeralcare, Hounslow"
+South Harrow,the_cooperative_group,,unknown,South Harrow Funeralcare
+North Kensington,the_cooperative_group,,unknown,"Co-op Funeralcare, North Kensington"
+Pinner,the_cooperative_group,,unknown,Eastcote Funeralcare (inc. H.C. Grimstead Funeral Directors)
+Cricklewood,the_cooperative_group,,unknown,Cricklewood Funeralcare
+Chiswick,the_cooperative_group,,unknown,Chiswick Funeralcare
+West Drayton,the_cooperative_group,,unknown,H C Grimstead Funeralcare
+Ruislip,the_cooperative_group,,unknown,H C Grimstead Funeralcare
+Croydon,the_range,,unknown,The Range: Croydon
+Beckenham,toby_carvery_gb,,unknown,Toby Carvery Eden Park Beckenham
+Mitcham,toby_carvery_gb,,unknown,Toby Carvery Park Place Mitcham
+South Croydon,toby_carvery_gb,,unknown,Toby Carvery South Croydon Greater London
+Bromley,toby_carvery_gb,,unknown,Toby Carvery Crown Bromley Bromley
+Enfield,toby_carvery_gb,,unknown,Toby Carvery Enfield Enfield
+Romford,toby_carvery_gb,,unknown,Toby Carvery Moby Dick Romford
+Bexleyheath,toby_carvery_gb,,unknown,Toby Carvery Bexley Heath Kent
+Woodford Green,toby_carvery_gb,,unknown,Toby Carvery Woodford Essex
+London,toby_carvery_gb,,unknown,Toby Carvery Snaresbrook London
+Dagenham,vets4pets_gb,,unknown,Dagenham Vets4Pets
+Greenford,vets4pets_gb,,unknown,Greenford Vets4Pets
+Richmond,vets4pets_gb,,unknown,Richmond Vets4Pets
+Ruislip,vets4pets_gb,,unknown,Ruislip Vets4Pets
+Sydenham,vets4pets_gb,,unknown,Sydenham Vets4Pets
+Feltham,vets4pets_gb,,unknown,Feltham Vets4Pets
+Barnet,vets4pets_gb,,unknown,Friern Barnet Vets4Pets
+Charlton,vets4pets_gb,,unknown,Charlton Vets4Pets
+Beckton,vets4pets_gb,,unknown,Beckton Vets4Pets
+CROYDON,visa,,unknown,unknown
+LONDON,visa,,unknown,unknown
+ROEHAMPTON,visa,,unknown,unknown
+HOUNSLOW,visa,,unknown,unknown
+GREENFORD,visa,,unknown,unknown
+BARKING,visa,,unknown,unknown
+NORTHOLT,visa,,unknown,unknown
+UXBRIDGE,visa,,unknown,unknown
+WEMBLEY,visa,,unknown,unknown
+WALTHAMSTOW,visa,,unknown,unknown
+WOOD GREEN,visa,,unknown,unknown
+BARKINGSIDE,visa,,unknown,unknown
+EAST LONDON,visa,,unknown,unknown
+unknown,voyagecare,16 Balnacraig Avenue,unknown,Balnacraig Avenue (The Leaves)
+unknown,voyagecare,694 Pinner Road,unknown,Pinner Road
+unknown,voyagecare,9 Rosslyn Crescent,unknown,Rosslyn Crescent
+unknown,voyagecare,3 Barn Rise,unknown,Barn Rise
+unknown,voyagecare,82 Coombe Road,unknown,Coombe Road
+London,voyagecare,6 Milverton Road,unknown,Milverton Road
+Oakwood,voyagecare,1 Sheringham Avenue,unknown,Sheringham Avenue
+Winchmore Hill,voyagecare,35-37 Solna Road,unknown,Solna Road
+Isleworth,voyagecare,231 Spring Grove Road,unknown,Spring Grove Road
+Southall,voyagecare,137a Tentelow Lane,unknown,Tentelow Lane
+Southwark,voyagecare,Voyage (DCA) London West,unknown,Voyage (DCA) London West
+London,vpz_gb,56 The Broadway London SW19 1RQ UK,unknown,VPZ Wimbledon
+London,well_gb,,unknown,John Bell &amp; Croyden
+Ruislip,western_union,,unknown,HT FOOD AND WINE
+Harrow,western_union,,unknown,UNITED MONEY SERVICES LTD
+Edgware,western_union,,unknown,NEW MULTI TRADERS
+London,western_union,,unknown,D MART
+Waltham Abbey,western_union,,unknown,KARADAG FOOD LTD
+Barnet,western_union,,unknown,ROBERT DYAS BARNET
+West Drayton,western_union,,unknown,FINE WINE
+Hayes,western_union,,unknown,SAINSBURYS  HAYES
+Greenford,western_union,,unknown,KATHMANDU CORNER
+Burnt Oak,western_union,,unknown,H AND T PAWNBROKERS BURNT OAK
+Enfield,western_union,,unknown,EUROCHANGE MORRISONS ENFIELD
+N Finchley,western_union,,unknown,ROBERT DYAS NORTH FINCHLEY
+Wembley,western_union,,unknown,MULTI CHOICE
+Hendon,western_union,,unknown,SANGEETH NEWS
+Southall,western_union,,unknown,ALICO UK LIMITED
+Tooting,western_union,,unknown,H AND T PAWNBROKERS TOOTING 2
+Golders Green,western_union,,unknown,H AND T PAWNBROKERS GOLDERS GREEN
+Edmonton,western_union,,unknown,H AND T PAWNBROKERS FORE STREET
+Willesden,western_union,,unknown,H AND T PAWNBROKERS WILLESDEN 2
+Ealing,western_union,,unknown,NO1 CURRENCY EALING
+Feltham,western_union,,unknown,HANWORTH POST OFFICE
+Harlesden,western_union,,unknown,H AND T PAWNBROKERS HARLESDEN
+Hounslow,western_union,,unknown,CENTRAL AVENUE POST OFFICE
+Wood Green,western_union,,unknown,H AND T PAWNBROKERS (WOOD GREEN)
+Kilburn,western_union,,unknown,H AND T PAWNBROKERS (KILBURN)
+Acton,western_union,,unknown,H AND T PAWNBROKERS ACTON
+Harringey,western_union,,unknown,HARVEY AND THOMPSON (GREEN LANES)
+Twickenham,western_union,,unknown,STRAWBERRY HILL POST OFFICE
+Sunbury-on-thames,western_union,,unknown,SUNBURY-ON-THAMES POST OFFICE
+Tottenham,western_union,,unknown,H AND T PAWNBROKERS TOTTENHAM
+Clapton,western_union,,unknown,H AND T PAWNBROKERS CLAPTON
+Chalk Farm,western_union,,unknown,H AND T PAWNBROKERS CHALK FARM
+Bayswater,western_union,,unknown,H AND T PAWNBROKERS (BAYSWATER)
+Holloway,western_union,,unknown,H AND T PAWNBROKERS HOLLOWAY
+Chiswick,western_union,,unknown,SAINSBURYS CHISWICK
+Finsbury Park,western_union,,unknown,H AND T PAWNBROKERS FINSBURY
+Hampton,western_union,,unknown,HAMPTON POST OFFICE
+Richmond,western_union,,unknown,TEG RICHMOND
+Broadway,western_union,,unknown,TEG HAMMERSMITH
+Brunswick Centre,western_union,,unknown,ROBERT DYAS BRUNSWICK
+Dalston,western_union,,unknown,HARVEY AND THOMPSON DALSTON 2
+Hammersmith,western_union,,unknown,EUROCHANGE HAMMERSMITH
+Sunbury On Thames,western_union,,unknown,THAMES STREET POST OFFICE
+Walthamstow,western_union,,unknown,H AND T PAWNBROKERS WALTHAMSTOW
+West Kensington,western_union,,unknown,H AND T PAWNBROKERS (WEST KENSINGTON)
+Hackney,western_union,,unknown,IREMITON
+Leyton,western_union,,unknown,H AND T PAWNBROKERS LEYTON
+Teddington,western_union,,unknown,TEDDINGTON POST OFFICE
+Eastsheen,western_union,,unknown,ROBERT DYAS EAST SHEEN
+Ilford,western_union,,unknown,ICLOUDZ ITSTIME2SHOP.COM
+Knightsbridge,western_union,,unknown,THE CHANGE GROUP HARRODS
+Waterloo,western_union,,unknown,H AND T PAWNBROKERS WATERLOO
+Kingston Upon Thames,western_union,,unknown,COOMBE FOOD AND WINE
+Stratford,western_union,,unknown,NO1 CURRENCY WESTFIELD
+Forest Gate,western_union,,unknown,H AND T PAWNBROKERS (FOREST GATE)
+Wandsworth,western_union,,unknown,WANDSWORTH POST OFFICE
+Bow,western_union,,unknown,H AND T PAWNBROKERS BOW
+Walworth,western_union,,unknown,H AND T PAWNBROKERS WALWORTH 2
+Plaistow,western_union,,unknown,H AND T PAWNBROKERS GREEN STREET
+Clapham,western_union,,unknown,H AND T PAWNBROKERS CLAPHAM
+Poplar,western_union,,unknown,H AND T PAWNBROKERS (POPLAR)
+Wimbledon,western_union,,unknown,ROBERT DYAS WIMBLEDON
+East Ham,western_union,,unknown,MUTHOOT FINANCE
+Barking,western_union,,unknown,SENDFRIEND
+Romford,western_union,,unknown,OTG AFRO FOODS
+New Malden,western_union,,unknown,J L ENTERPRISES
+Canadasquare,western_union,,unknown,ROBERT DYAS CANARY WHARF
+Beckton,western_union,,unknown,H AND T PAWNBROKERS EAST HAM
+Brixton,western_union,,unknown,NO1 CURRENCY BRIXTON
+Rotherhithe,western_union,,unknown,H AND T PAWNBROKERS SURREY QUAYS
+Canning Town,western_union,,unknown,H AND T PAWNBROKERS CANNING TOWN
+Camberwell,western_union,,unknown,H AND T PAWNBROKERS CAMBERWELL
+Peckham,western_union,,unknown,H AND T PAWNBROKERS (PECKHAM)
+Worcester Park,western_union,,unknown,H AND T PAWNBROKERS WORCESTER PARK
+Streatham,western_union,,unknown,H AND T PAWNBROKERS STREATHAM
+Charlton,western_union,,unknown,SAINSBURYS CHARLTON RIVERSIDE
+Sutton,western_union,,unknown,LONDON ROAD POST OFFICE
+Hornchurch,western_union,,unknown,SAINSBURYS HORNCHURCH
+Deptford,western_union,,unknown,H AND T PAWNBROKERS DEPTFORD
+Mitcham,western_union,,unknown,TRMP CONVENIENCE STORE
+Lewisham,western_union,,unknown,H AND T PAWNBROKERS (LEWISHAM)
+Rose Hill,western_union,,unknown,H AND T PAWNBROKERS ROSE HILL
+Woolwich,western_union,,unknown,H AND T PAWNBROKERS WOOLWICH 3
+Catford,western_union,,unknown,H AND T PAWNBROKERS CATFORD
+Penge,western_union,,unknown,H AND T PAWNBROKERS PENGE
+Thornton Heath,western_union,,unknown,TRANSWORLD INTERNATIONAL
+West Croydon,western_union,,unknown,H AND T PAWNBROKERS CROYDON WEST
+Croydon,western_union,,unknown,RAMSDENS CROYDON
+Eltham,western_union,,unknown,H AND T PAWNBROKERS ELTHAM
+Bromley,western_union,,unknown,WALKIN NEWS
+Bexleyheath,western_union,,unknown,NO1 CURRENCY BEXLEYHEATH
+Grays,western_union,,unknown,EUROCHANGE LAKESIDE
+Bexley Heath,western_union,,unknown,RAMSDENS BEXLEYHEATH
+Romford,wrenkitchens_gb,,unknown,Romford showroom
+Croydon,wrenkitchens_gb,,unknown,Croydon showroom
+Beckton,wrenkitchens_gb,,unknown,Beckton showroom
+London,wrenkitchens_gb,,unknown,Acton showroom
+Catford,wrenkitchens_gb,,unknown,Bromley showroom
+unknown,zizzi_gb,1 High Street Banstead SM7 2NE,unknown,Banstead
+unknown,zizzi_gb,235 Chiswick High Road london W4 4PU,unknown,Chiswick
+unknown,zizzi_gb,Mezzanine Level Riverside House Southwark Bridge Road London SE1 9HA,unknown,London – Bankside
+unknown,zizzi_gb,20 Bow Street London WC2E 7AW,unknown,London – Bow Street (Covent Garden)
+unknown,zizzi_gb,Atrium Kitchen Upper Level Cabot Place Canary Wharf London E14 4QT,unknown,London – Canary Wharf
+unknown,zizzi_gb,8 Central St Giles Plaza London WC2H 8AB,unknown,London – Central St Giles
+unknown,zizzi_gb,194 Earls Court Road London SW5 9QF,unknown,London – Earl’s Court
+unknown,zizzi_gb,Greenwich Promenade (Pier) Cutty Sark Gardens  Greenwich London SE10 9HT,unknown,London – Greenwich
+unknown,zizzi_gb,Unit Su46 One New Change London EC4M 9AF,unknown,London – One New Change (St Paul’s)
+unknown,zizzi_gb,17 Sheldon Square London W2 6EP,unknown,London – Paddington Central
+unknown,zizzi_gb,12 Ivory Street St Katherines Dock E1W 1AT,unknown,London – St Katharine’s Docks
+unknown,zizzi_gb,The O2 London SE10 0UZ,unknown,London – The O2
+unknown,zizzi_gb,73 The Strand London WC2R 0DE,unknown,London – The Strand (West End)
+unknown,zizzi_gb,Plaza Level West Tower Place London EC3R 5BU,unknown,London – Tower Hill
+unknown,zizzi_gb,15 Cardinal Walk Victoria SW1E 5JE,unknown,London – Victoria
+unknown,zizzi_gb,London Designer Outlet Wembley HA9 0FD,unknown,London – Wembley
+unknown,zizzi_gb,313 The Loft The Gallery Westfield Stratford City London  E20 1ET,unknown,London – Westfield (Stratford)
+unknown,zizzi_gb,Westfield White City London W12 7GB,unknown,London – Westfield (White City)
+unknown,zizzi_gb,110 Wigmore Street London W1U 3RS,unknown,London – Wigmore Street (nr. Oxford St)
+unknown,zizzi_gb,4 Kings Street Richmond TW9 1ND,unknown,Richmond
+unknown,zizzi_gb,Tilly's Ln Two Rivers Staines-upon-Thames TW18 4BL,unknown,Staines

@@ -1,0 +1,9 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4363,bp,ORSETT SOUTH SF CONNECT,,GRAYS,,,GB,+44 1375 678947,,24/7,BP,Q152057
+962392782,bp,ORSETT NORTH SF CONNECT,,ESSEX,,,GB,+44 1375 678748,,24/7,BP,Q152057
+u10m111dbgrw,gov_cma_fuel_gb,BP,A13 Westbound,,,,GB,,,,BP,Q152057
+u10m116upefg,gov_cma_fuel_gb,BP,A13 Eastbound,,,,GB,,,,BP,Q152057
+447,marks_and_spencer,ORSETT NORTH CONNECT BP,,Essex,,,GB,+44 1206 854331,https://www.marksandspencer.com/stores/orsett-north-connect-bp-447,24/7,Marks and Spencer,Q714491
+4831,marks_and_spencer,ORSETT SOUTH GRAYS BP,,Orsett Grays,,,GB,+44 1375 678947,https://www.marksandspencer.com/stores/orsett-south-grays-bp-4831,24/7,Marks and Spencer,Q714491
+GB_EXT_00833,totalenergies,Orsett North SF Connect,,ESSEX,,,GB,+44 1375 678748,https://store.totalenergies.fr/en_EN/GB_EXT_00833,,BP,Q152057
+GB_EXT_00838,totalenergies,Orsett South SF Connect,,GRAYS,,,GB,+44 1375 678947,https://store.totalenergies.fr/en_EN/GB_EXT_00838,,BP,Q152057

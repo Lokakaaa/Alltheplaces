@@ -1,0 +1,490 @@
+City,Place Name,Zipcode,Name
+unknown,accor,c/Ramón Roca & A Amazonas 170526 QUITO,unknown,Mercure Alameda Quito
+unknown,accor,Avenida Diego De Almagro E8 19 Y Bello Horizonte 170518 QUITO,unknown,Ibis Quito
+unknown,accor,Av 12 de Octubre 1820 y Luis Cordero 1721565 QUITO,unknown,Swissôtel Quito
+unknown,accor,Av Malecón Simón Bolívar Roca Street 90313 Guayaquil,unknown,Ibis Styles El Malecón Guayaquil
+Manta,alamo,,unknown,Manta Downtown
+Quito,alamo,,unknown,Quito International Airport
+Guayaquil,alamo,,unknown,Guayaquil Airport
+unknown,alstom,Av. Florencia Astudillo 2-39 y Alfonso Cordero - Cuenca 010204 - Azuay Ecuador,unknown,Cuenca (Florencia Astudillo 2-39)
+Cuenca,ashley_furniture,,unknown,"Ashley Cuenca, EC"
+Quito,ashley_furniture,,unknown,"Ashley Quito, EC"
+Guayaquil,ashley_furniture,,unknown,"Ashley Guayaquil, EC"
+Quito,bmw_group,,unknown,Alvarez Barba S.A.
+Guayaquil,bmw_group,,unknown,Ecuavía S.A.
+Guayaquil,enterprise,,unknown,Guayaquil Airport
+Quito,enterprise,,unknown,Quito International Airport
+Manta,enterprise,,unknown,Manta Downtown
+Guayaquil,ernst_young,Av. Francisco Orellana Edificio Centrum Piso 14,unknown,EY
+Quito,ernst_young,Stratta Building Inglaterra & Amazonas Avenue 11th Floor,unknown,EY
+unknown,hilton,Amazonas N 1914 Y Patria Avenida Quito Ecuador,unknown,Hilton Colon Quito
+unknown,hilton,Av. Francisco de Orellana Mz. 111 Guayaquil Ecuador,unknown,Hilton Colon Guayaquil
+Cuenca,man_truck_and_bus,,unknown,NEOTRUCK S.A. Cuenca - Quinta Chica
+Guayaquil,man_truck_and_bus,,unknown,METROINVEST
+Quito,man_truck_and_bus,,unknown,NEOTRUCK S.A. Quito - Carcelen
+Guayaquil,marriott,,unknown,Sheraton Guayaquil Hotel
+Cuenca,marriott,,unknown,Four Points by Sheraton Cuenca
+Quito,marriott,,unknown,Sheraton Quito Hotel
+QUITO,maserati,,unknown,ROSATIMOTORS CIA. LTDA
+CUENCA,mcdonalds_latin_america,,unknown,MALL DEL RIO
+QUITO,mcdonalds_latin_america,,unknown,MALL EL CONDADO
+MACHALA,mcdonalds_latin_america,,unknown,MACHALA
+Quito,mcdonalds_latin_america,,unknown,PRENSA
+DURAN,mcdonalds_latin_america,,unknown,DURAN
+GUAYAQUIL,mcdonalds_latin_america,,unknown,VIA A LA COSTA
+SAMBORONDON,mcdonalds_latin_america,,unknown,SAMBORONDON
+DAULE,mcdonalds_latin_america,,unknown,AURORA
+Guayaquil,mcdonalds_latin_america,,unknown,Mall el Fortín
+Quito,michaelkors,,unknown,Michael Kors Quito
+EL CHACO,moneygram,,unknown,BANCO DEL PICHINCHA - #489 - EL CHACO
+EL COCA,moneygram,,unknown,COOPERATIVA DE AHORRO Y CREDITO CHIBULEO
+PUYO,moneygram,,unknown,COOP. CAMARA DE COMERCIO DE AMBATO - PUY
+SUCUA,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SUCU
+NARANJAL,moneygram,,unknown,EASYPAGOS COOP. SANTA ROSA - NARANJAL -
+SANTA ISABEL,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SISABEL
+CAMILO PONCE ENRIQUEZ,moneygram,,unknown,EASYPAGOS COOP. 11 DE JUNIO - CAMILO PON
+MILAGRO,moneygram,,unknown,OFERTON - MILAGRO - OFERTON
+BALAO,moneygram,,unknown,COOP. AHORRISTA SOLIDARIO - BALAO - SAN
+CUENCA,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - CUENCA -
+DAULE,moneygram,,unknown,BANCO DE GUAYAQUIL - #169 - SHOPPING DAU
+GUAYAQUIL,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - GUAYAQUIL - Cen
+YAGUACHI,moneygram,,unknown,COMERCIAL DOS HERMANAS
+LA LIBERTAD,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - LA LIBERTAD - S
+LATACUNGA,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - LATACUNGA
+QUITO,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - QUITO - Reina V
+PELILEO,moneygram,,unknown,EASYPAGOS CORPORAC. RHUMY WARA - PELILEO
+ESMERALDAS,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - ESMERALDAS
+CHILLANES,moneygram,,unknown,EASYPAGOS COOPERATIVA JUAN PIO DE MORA -
+GUARANDA,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - GUARANDA
+MONTALVO,moneygram,,unknown,ARTEFACTA - MONTALVO - MONTALV
+SAN MIGUEL,moneygram,,unknown,BANCO DEL PICHINCHA - AQ SAN MIGUEL DE B
+VENTANAS,moneygram,,unknown,BANCO DE GUAYAQUIL - #17 - SUC VENTANAS
+BANOS,moneygram,,unknown,EASYPAGOS CORPORACION CENTRO
+PORTOVIEJO,moneygram,,unknown,EASYPAGOS COOP. 29 DE OCTUBRE - PORTOVIE
+AZOGUES,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - AZOG
+MACHALA,moneygram,,unknown,SERVIPAGOS - MACHALA - MACHALA
+CHIMBO,moneygram,,unknown,EASYPAGOS COOPERATIVA JUAN PIO DE MORA -
+LOJA,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - LOJA
+TUMBACO,moneygram,,unknown,BANCO DEL PICHINCHA
+JOYA DE LOS SACHAS,moneygram,,unknown,BANCO DEL PICHINCHA - #223 - LOS SACHAS
+PILLARO,moneygram,,unknown,COOP. MAQUITA CUSHUN - PILLARO
+SAN VICENTE,moneygram,,unknown,EASYPAGOS COOP CHONE - SAN VICENTE
+CANARIBAMBA,moneygram,,unknown,EASYPAGOS COOP. ERCO - CANARIBAMBA - CAN
+PASAJE,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - PASAJ
+CALUMA,moneygram,,unknown,ARTEFACTA - CALUMA - CALUM
+ALAMOR,moneygram,,unknown,AG EASYPAGOS COOP CACPE LOJA
+PLAYAS,moneygram,,unknown,BANCO DE GUAYAQUIL - #16 - SUC PLAYAS
+QUINSALOMA,moneygram,,unknown,BANCO DEL PICHINCHA
+LA TRONCAL,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - TRONCAL
+SALCEDO,moneygram,,unknown,EASYPAGOS CORPORAC. RHUMY WARA - SALCEDO
+IBARRA,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - IBARRA
+AMBATO,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - AMBATO
+RIOBAMBA,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - RIOBAMBA
+GENERAL VILLAMIL,moneygram,,unknown,COOPERATIVA DE AHORRO Y CREDITO JARDIN A
+SANTA ELENA,moneygram,,unknown,EASYPAGOS COOP. NUEVA HUANCAVILCA - SANT
+ZARUMA,moneygram,,unknown,BANCO DEL PICHINCHA
+CHILLA,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - CHILLA -
+DURAN,moneygram,,unknown,ARTEFACTA - DURAN - DURN
+ZAMBIZA,moneygram,,unknown,EASYPAGOS COOP. CORPORACION CENTRO - ZAM
+LIBERTAD,moneygram,,unknown,EASYPAGOS COOP. 29 DE OCTUBRE - LIBERTAD
+SANTO DOMINGO,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - SANTO DOMINGO
+PAJAN,moneygram,,unknown,MARKET 4 HERMANOS - PAJAN - MATRIZ
+PORTOVELO,moneygram,,unknown,NOVEDADES ANITA - PORTOVELO - MATRIZ
+SAN PEDRO DE PELILEO,moneygram,,unknown,MICROMERCADO DON CAFE - SAN PEDRO DE PEL
+TADAY,moneygram,,unknown,COOP. CREA - TADAY - TDAY
+SANTA ROSA,moneygram,,unknown,EASYPAGOS COOP. SANTA ROSA - SANTA ROSA
+MANTA,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - MANTA - Orve Ho
+ARENILLAS,moneygram,,unknown,EASYPAGOS COOP. SANTA ROSA - ARENILLAS
+SALINAS,moneygram,,unknown,BANCO DE GUAYAQUIL - #46 - SUC SALINAS
+ROCAFUERTE,moneygram,,unknown,EASYPAGOS COOP. COACMES - ROCAFUERTE - R
+QUEVEDO,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - QUEVEDO
+EL EMPALME,moneygram,,unknown,BANCO DEL PICHINCHA
+QUERO,moneygram,,unknown,CORPORACION DE DESARROLLO SOCIAL Y FINAN
+PALESTINA,moneygram,,unknown,AG EASYPAGOS COOPERATIVA SALITRE
+ATACAMES,moneygram,,unknown,BANCO DEL PICHINCHA
+QUININDE,moneygram,,unknown,BANCO DEL PICHINCHA
+SEVILLA DEL ORO,moneygram,,unknown,COMERCIAL LOPEZ - SEVILLA DEL ORO
+HUAQUILLAS,moneygram,,unknown,EASYPAGOS COOP. SANTA ROSA - HUAQUILLAS
+CATAMAYO,moneygram,,unknown,AG EASYPAGOS COOP CACPE LOJA
+BABAHOYO,moneygram,,unknown,BANCO DE GUAYAQUIL - #167 - PASEO SHOPPI
+BIBLIAN,moneygram,,unknown,CB COOPERATIVA - BIBLIAN AV OCHOA
+VINCES,moneygram,,unknown,BANCO DE GUAYAQUIL - #136 - VINCES
+POSORJA,moneygram,,unknown,BANCO DE GUAYAQUIL - #97 - SUC POSORJA
+PEDERNALES,moneygram,,unknown,BANCO DEL PICHINCHA
+CAYAMBE,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - CAYAMBE
+PORTO VIEJO,moneygram,,unknown,COMERCIAL PARRAGA SANCHEZ - PORTO VIEJO
+GUALACEO,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - GUALA
+PUERTO QUITO,moneygram,,unknown,EASYPAGOS COOP SAN MIGUEL BANCOS
+MEJIA,moneygram,,unknown,PANALERA CHIQUITITOS
+SALITRE,moneygram,,unknown,DEPOSITO DE ARROZ JORGITO - SALITRE
+BUENA FE,moneygram,,unknown,BANCO DE GUAYAQUIL - #165 - BUENA FE
+OTAVALO,moneygram,,unknown,EASYPAGOS COOP. MUSHUK PAKARY - OTAVALO
+SUMAYPAMBA,moneygram,,unknown,EASYPAGOS COOP. ERCO - SUMAYPAMBA - SUMA
+PUERTO INCA,moneygram,,unknown,COOP ERCO - PUERTO INCA - PTO.INC
+SHAGLLI,moneygram,,unknown,COOP. AHORRISTA SOLIDARIO - SHAGLLI
+JIPIJAPA,moneygram,,unknown,BANCO DE GUAYAQUIL - #135 - JIPIJAPA
+LA CONCORDIA,moneygram,,unknown,EASYPAGOS COOP. LA BENEFICA - LA CONCORD
+PASCUALES,moneygram,,unknown,RECARGACTIVA - PASCUALES
+CUMBAYA,moneygram,,unknown,BANCO DEL AUSTRO - #1721 - CUMBAYA - AGE
+GUACHAPALA,moneygram,,unknown,COOP MUSHUC RUNA - 3 DE NOVIEMBRE
+SIGSIG,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SIGS
+COTACACHI,moneygram,,unknown,EASYPAGOS COOP. MUSHUK PAKARY - COTACACH
+GUEL,moneygram,,unknown,COOP. MUSHUC RUNA - GUEL
+MACHACHI,moneygram,,unknown,EASYPAGOS COOP. ALIANZA DEL VALLE - MACH
+GUALAQUIZA,moneygram,,unknown,COOP. ERCO - GUALAQUIZA - GUALA
+JIMA,moneygram,,unknown,AG EASYPAGOS COOP COOPAC AUSTRO - JIMA
+CHORDELEG,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - CHORDE
+CHONE,moneygram,,unknown,BANCO DE GUAYAQUIL - #133 - AGENCIA CHON
+ALAUSI,moneygram,,unknown,EASYPAGOS COOP. RIOBAMBA - ALAU
+ZAMORA,moneygram,,unknown,BANCO DEL PICHINCHA - #481 - ZAMORA
+EL QUINCHE,moneygram,,unknown,BANCO DEL PICHINCHA
+SANGOLQUI,moneygram,,unknown,SERVIPAGOS - EASYPAGOS - SANGOLQUI - San
+EL CARMEN,moneygram,,unknown,EASYPAGOS COOP. LA BENEFICA - EL CARMEN
+SAN RAFAEL,moneygram,,unknown,COOP. CAMARA DE COMERCIO DE AMBATO - SAN
+TAMBO,moneygram,,unknown,COOP. LA MERCED - TAMBO - TAMBO VENTANIL
+MUISNE,moneygram,,unknown,LEIDY KATHIUSKA PARDO MURILLO - MUISNE -
+MACARA,moneygram,,unknown,EASYPAGOS COOPYPEC MACARA
+NARANJITO,moneygram,,unknown,AG EASYPAGOS SA - NARANJITO
+CHUNCHI,moneygram,,unknown,EASYPAGOS COOP. RIOBAMBA - CHUN
+SHUSHUFINDI,moneygram,,unknown,EASYPAGOS COOP. SAN JUAN DE COTOGCHOA -
+DELEG,moneygram,,unknown,EASYPAGOS COOP. ERCO - DELEG - DELE
+TULCAN,moneygram,,unknown,COOP. CHIBULEO - TULC
+BAHIA,moneygram,,unknown,ARTEFACTA - EASYPAGOS - BAHIA
+LAGO AGRIO,moneygram,,unknown,EASYPAGOS COOP. 29 DE OCTUBRE - LAGO AGR
+BABA,moneygram,,unknown,ARTEFACTA - BABA - BAB
+PINDAL,moneygram,,unknown,EASYPAGOS COOP. CACPE LOJA - PINDAL
+MORONA,moneygram,,unknown,EASYPAGOS COOP. CACPE GUALAQUIZA - MORON
+PUERTO AYORA,moneygram,,unknown,EASYPAGOS CORPORAC. RHUMY WARA - PUERTO
+PUERTO VELASCO IBARRA,moneygram,,unknown,EASYPAGOS COOP. FUPROGAL - PUERTO VELASC
+PUERTO VILLAMIL,moneygram,,unknown,EASYPAGOS COOP. FUPROGAL - PUERTO VILLAM
+PUERTO BAQUERIZO MORENO,moneygram,,unknown,EASYPAGOS COOP. FUPROGAL - PUERTO BAQUER
+SALASACA,moneygram,,unknown,AG EASYPAGOS SA - SALASACA
+24 DE MAYO,moneygram,,unknown,EASYPAGOS COOP. CALCETA - 24.MAY
+PUCARA,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - PUCA
+PEDRO PABLO,moneygram,,unknown,AGROCOMERCIO ROD-SAL - PEDRO PABLO
+JAMA,moneygram,,unknown,EASYPAGOS COOP. CALCETA - JAMA
+PUEBLOVIEJO,moneygram,,unknown,EASYPAGOS COOP. JEP - PUEBLOVIEJO - PUEB
+MANABI,moneygram,,unknown,BANCO DEL PICHINCHA - #332 - SAN CARLOS
+SOLANO,moneygram,,unknown,COOP. ERCO - SOLANO - JUNTA PARROQUIAL
+VILCABAMBA,moneygram,,unknown,EASYPAGOS COOP. CACPE LOJA
+ATUNTAQUI,moneygram,,unknown,COOP. ARTESANOS - ATUNTAQUI - ATUNT
+PINLLO,moneygram,,unknown,COOP. SAN JOSE - PINLLO - PINLLO
+PICOAZA,moneygram,,unknown,TIENDA ARMA SECRETA - PICOAZA - MATRIZ
+MONTECRISTI,moneygram,,unknown,BANCO DEL PICHINCHA
+GONZANAMA,moneygram,,unknown,COOP. CREDIAMIGO - GONZAN
+NAMBACOLA,moneygram,,unknown,COOP. GONZANAMA - NAMBACOLA - NAMBACOLA
+PEDRO VICENTE MALDONADO,moneygram,,unknown,EASYPAGOS COOP SAN MIGUEL DE LOS BANCOS
+PUERTO BOLIVAR,moneygram,,unknown,EASYPAGOS COOP. 11 DE JUNIO - PTO. BOLIV
+LA NARANJA,moneygram,,unknown,COOP. CARIAMANGA - LA NARANJA
+LUCERO,moneygram,,unknown,COOP. CARIAMANGA - LUCERO
+CARIAMANGA,moneygram,,unknown,EASYPAGOS CACPE LOJA - #CARIAM
+LA JOYA DE LOS SACHAS,moneygram,,unknown,LIBRERIA Y PAPELERIA ANDREITA - LA JOYA
+TENA,moneygram,,unknown,ARTEFACTA - TENA - TEN
+EL GUABO,moneygram,,unknown,EASYPAGOS COOP. 11 DE JUNIO - EL GUABO
+ZHUD,moneygram,,unknown,ZHUD EXPRESS COURIER - ZHUD
+ORIANGA,moneygram,,unknown,COOP. MARCABELI - ORIANGA - ORIANGA
+QUISAPINCHA,moneygram,,unknown,EASYPAGOS COOP. MAQUITA CUSHUN - QUISAPI
+ROBERTO ASTUDILLO,moneygram,,unknown,PAZMINO & ASOCIADOS - ROBERTO ASTUDILLO
+MULALILLO,moneygram,,unknown,EASYPAGOS COOP. 9 DE OCTUBRE - MULALILLO
+SAN PEDRO DE TABOADA,moneygram,,unknown,EASYPAGOS COOP. SAN FRANCISCO
+LAS GOLONDRINAS,moneygram,,unknown,EASYPAGOS COOP PUELLARO - GOLONDRINAS
+SARAGURO,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SARAG
+SUSCAL,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SUSC
+EL TAMBO,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - ELTAM
+EL TRIUNFO,moneygram,,unknown,ARTEFACTA - EL TRIUNFO - TRIUNFO
+PIMAMPIRO,moneygram,,unknown,COOP. ARTESANOS - PIMAMPIRO - PIMAM
+PICHINCHA,moneygram,,unknown,BANCO DE GUAYAQUIL - #102 - SUC EL RECRE
+SAN JACINTO,moneygram,,unknown,EASYPAGOS COOP. COACMES - SAN JACINTO -
+CHARAPOTO,moneygram,,unknown,EASYPAGOS COOP. COACMES - CHARAPOTO - CH
+GUAMOTE,moneygram,,unknown,COOP. MAQUITA CUSHUN - GUAMOTE
+LA MANA,moneygram,,unknown,COOP. 9 DE OCTUBRE - LA MANA - MANA
+SAN GABRIEL,moneygram,,unknown,BANCO DEL PICHINCHA
+BAHIA DE CARAQUEZ,moneygram,,unknown,BANCO DE GUAYAQUIL - #44 - SUC BAHIA DE
+PAQUISHA,moneygram,,unknown,AG EASYPAGOS COOP CACPE ZAMORA
+RUMINAUI,moneygram,,unknown,SERVIPAGOS - RUMINAUI
+CRUCITA,moneygram,,unknown,EASYPAGOS COOP. COACMES - CRUCITA - CRUC
+SAQUISILI,moneygram,,unknown,EASYPAGOS COOP. AMBATO - SAQUISILI - Saq
+YANTZAZA,moneygram,,unknown,COOP. ERCO - YANTZAZA - YANTZ
+MOLLETURO,moneygram,,unknown,COOP. AHORRISTA SOLIDARIO - MOLLETURO -
+CHAUCHA,moneygram,,unknown,COOP. AHORRISTA SOLIDARIO - CHAUCHA - MA
+SIMON BOLIVAR,moneygram,,unknown,ARTEFACTA - SIMON BOLIVAR - S. BOLIVAR
+PINAS,moneygram,,unknown,EASYPAGOS COOP. JEP - PINAS - CENTRO
+EL PANGUI,moneygram,,unknown,EASYPAGOS COOP. CACPE ZAMORA
+MACAS,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - MACA
+JADAN,moneygram,,unknown,COOP. JADAN - JADAN - MATRIZ
+ZAPOTILLO,moneygram,,unknown,FARMACIA D' ALESSANDRO - ZAPOTILLO - MAT
+BALSAS,moneygram,,unknown,AG EASYPAGOS COOP. CACPE LOJA - #11
+PATATE,moneygram,,unknown,BANCO DEL PICHINCHA - #487 - PATATE
+MOCHA,moneygram,,unknown,EASYPAGOS COOP. SAN FRANCISCO
+ISIDRO AYORA,moneygram,,unknown,EL MARISCAL - ISIDRO AYORA
+GUAYAS,moneygram,,unknown,BAZAR DKATTY
+SAMBORONDON,moneygram,,unknown,BANCO GUAYAQUIL - #193 - SAMBORONDON - M
+MONTANITA,moneygram,,unknown,ARTEFACTA - MONTANITA - MONTANA
+MARCELINO MARIDUENA,moneygram,,unknown,BANCO DE GUAYAQUIL - #53 - MARCELINO MAR
+NOBOL,moneygram,,unknown,BANCO DEL PICHINCHA - #271
+SAN JACINTO DE YAGUACHI,moneygram,,unknown,HEYDI MARKET YAGUACHI - SAN JACINTO DE Y
+PEDRO CARBO,moneygram,,unknown,BANCO DEL PICHINCHA - #301
+CUMANDA,moneygram,,unknown,EASYPAGOS COOP. RIOBAMBA - CUMAN
+RICAURTE,moneygram,,unknown,ARTEFACTA - RICAURTE - RICAURT
+CANAR,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - CAN
+INGAPIRCA,moneygram,,unknown,COOP. YUYAY - INGAPIRCA
+LOMAS DE SARGENTILLO,moneygram,,unknown,AG EASYPAGOS COOPERATIVA SALITRE
+EL ANGEL,moneygram,,unknown,EASYPAGOS COOP. 29 DE OCTUBRE - EL ANGEL
+URCUQUI,moneygram,,unknown,COOP. ARTESANOS - URCUQUI - URCU
+COLIMES,moneygram,,unknown,ARTEFACTA - COLIMES - COLI
+PALORA,moneygram,,unknown,COOP. JARDIN AZUAYO - PALORA - PALOR
+SANTA CLARA,moneygram,,unknown,EASYPAGOS COOP. SAN FRANCISCO
+IZAMBA,moneygram,,unknown,EASYPAGOS COOP. MAQUITA CUSHUN - IZAMBA
+SAN CARLOS,moneygram,,unknown,EASYPAGOS COOP. SAN ANTONIO - SAN CARLOS
+TAMBILLO,moneygram,,unknown,EASYPAGOS COOP. LUZ DEL VALLE - TAMBILLO
+PAUTE,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - PAUT
+ARAJUNO,moneygram,,unknown,EASYPAGOS COOP. CACPE PASTAZA - ARAJUNO
+HUAMBALO,moneygram,,unknown,COOP. SAN FRANCISCO - HUAMBALO
+SANTO DOMINGO DE LOS COLORADOS,moneygram,,unknown,BANCO DEL PICHINCHA - #333 - TSACHILAS
+GUANO,moneygram,,unknown,EASYPAGOS COOP. RIOBAMBA - GUAN
+YANZATZA,moneygram,,unknown,AG EASYPAGOS COOP CACPE YANZATZA
+PLAYAS (GENERAL VILLAMIL),moneygram,,unknown,BANCO DEL PICHINCHA - #221 - PLAYAS
+BOLIVAR,moneygram,,unknown,BANCO DEL PICHINCHA
+TOSAGUA,moneygram,,unknown,BANCO DE GUAYAQUIL - #134 - AGENCIA TOSA
+CHAMBO,moneygram,,unknown,EASYPAGOS CACPECO
+PALLATANGA,moneygram,,unknown,EASYPAGOS COOP. MINGA - PALLATANGA - PAL
+ECHEANDIA,moneygram,,unknown,COOP. SAN JOSE - ECHEANDIA
+DUCUR,moneygram,,unknown,COOP. YUYAY - DUCUR
+JUNIN,moneygram,,unknown,COOP. CALCETA - JUNIN - VENTANILLA JUNIN
+PANGUI,moneygram,,unknown,BANCO DEL PICHINCHA CA - PANGUI - AGENCI
+MANA,moneygram,,unknown,ARTEFACTA - MANA - MANA
+GUABO,moneygram,,unknown,ARTEFACTA - GUABO - GUABO
+BALZAR,moneygram,,unknown,BANCO DE GUAYAQUIL - #168 - BALZAR
+PUERTO LOPEZ,moneygram,,unknown,EASYPAGOS COOP. NUEVA HUANCAVILCA - PUER
+PI?AS,moneygram,,unknown,ARTEFACTA - PI?AS - PINA
+BUCAY,moneygram,,unknown,EASYPAGOS COOPERATIVA LUCHA CAMPESINA -
+LA UNION,moneygram,,unknown,EASYPAGOS COOP. SAN ANTONIO - LA UNION
+CASCALES,moneygram,,unknown,COOP. CHIBULEO - CASCALES
+SAN LORENZO,moneygram,,unknown,BANCO DEL PICHINCHA - #275 - SAN LORENZO
+GIRON,moneygram,,unknown,BANCO DEL PICHINCHA - #465 - AG GIRON
+RUMINAHUI,moneygram,,unknown,GEOMIL EXPRESS - RUMINAHUI
+SAN RAFAEL DE SHARUG,moneygram,,unknown,COOP. AHORRISTA SOLIDARIO - SAN RAFAEL D
+LATACUNG,moneygram,,unknown,COOP. FERNANDO DAQUILEMA - LATACUNG - LA
+ESPEJO,moneygram,,unknown,BANCO DEL PICHINCHA
+PUJILI,moneygram,,unknown,COOP. CHIBULEO - PUJILI - PUJIL
+TABACUNDO,moneygram,,unknown,BANCO DEL PICHINCHA
+SAN JUAN,moneygram,,unknown,ARTEFACTA - SAN JUAN - S. JUAN
+MOCACHE,moneygram,,unknown,ARTEFACTA - MOCACHE - MOCACH
+GUAYACAN,moneygram,,unknown,BANCO DEL PICHINCHA
+RUMINAHI,moneygram,,unknown,AG EASYPAGOS COOP LUZ DEL VALLE
+FRANCISCO DE ORELLANA,moneygram,,unknown,BANCO DEL PICHINCHA
+SANTA ANA,moneygram,,unknown,BANCO DEL PICHINCHA
+BAHIAL DE MACHALA,moneygram,,unknown,BANCO DEL PICHINCHA
+ONA,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - ON
+LASSO,moneygram,,unknown,BANCO DEL PICHINCHA
+SHELL,moneygram,,unknown,EASYPAGOS COOP. 29 DE OCTUBRE - SHELL
+BANOS CUENCA,moneygram,,unknown,AG EASYPAGOS COOP ERCO
+CUMBE,moneygram,,unknown,EASYPAGOS COOP COOPAC AUSTRO - CUMBE
+SAN JUAN BOSCO,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SJUANBO
+ZUMBA,moneygram,,unknown,AG EASYPAGOS COOP CACPE ZAMORA
+ZUMBI,moneygram,,unknown,AG EASYPAGOS COOP CACPE ZAMORA
+PALANDA,moneygram,,unknown,COOP. CREDIAMIGO - PALAN
+YACUAMBI,moneygram,,unknown,AG EASYPAGOS COOP CACPE ZAMORA
+GUAYZIMY,moneygram,,unknown,AG EASYPAGOS COOP CACPE ZAMORA
+VALLADOLID,moneygram,,unknown,AG EASYPAGOS COOP CACPE ZAMORA
+CELICA,moneygram,,unknown,AG EASYPAGOS COOP CACPE CELICA
+SAN MIGUEL DE LOS BANCOS,moneygram,,unknown,BANCO DEL PICHINCHA - #294 - SAN MIGUEL
+SININCAY,moneygram,,unknown,AG EASYPAGOS COOP ERCO
+LOGRONO,moneygram,,unknown,AG EASYPAGOS COOP CACPEG GUALAQUIZA
+COTOGCHOA,moneygram,,unknown,AG EASYPAGOS COOP SAN JUAN DE COTOGCHOA
+CUTUGLAGUA,moneygram,,unknown,AG EASYPAGOS COOP SAN JUAN DE COTOGCHOA
+LLANO CHICO,moneygram,,unknown,AG EASYPAGOS COOP. LLANO GRANDE - #002
+PUERTO LIMON,moneygram,,unknown,AG EASY PAGOS COOP PUERTO LIMON
+VALENCIA,moneygram,,unknown,EASYPAGOS CACPECO
+MALCHINGUI,moneygram,,unknown,AG EASYPAGOS COOP MALCHANGUI
+NABON,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - NABO
+CALCETA,moneygram,,unknown,EASYPAGOS COOP. CALCETA - MATRIZ
+GUMOTE,moneygram,,unknown,AG EASYPAGOS COOP GUAMOTE
+ABRAHAM CALAZACON,moneygram,,unknown,BANCO DE GUAYAQUIL - #32 - SUC SANTO DOM
+STO DOMINGO DE LOS COLORADOS,moneygram,,unknown,AG EASYPAGOS CORPORAC. CENTRO - #004
+SAN MIGUEL DE BOLIVAR,moneygram,,unknown,EASYPAGOS COOPERATIVA JUAN PIO DE MORA -
+CACHA,moneygram,,unknown,AG EASYPAGOS COOP. CACPE LOJA
+MALACATOS,moneygram,,unknown,EASYPAGOS COOP. CACPE LOJA
+NAZON,moneygram,,unknown,CB COOPERATIVA - NAZON
+MORASPUNGO,moneygram,,unknown,EASYPAGOS CACPECO
+ALLURIQUIN,moneygram,,unknown,BANCO DEL PICHINCHA - #263 - AG  ALLURIQ
+LAUREL,moneygram,,unknown,EASYPAGOS COOP. SALITRE
+SANTA LUCIA,moneygram,,unknown,EASYPAGOS COOP. SALITRE
+CHECA,moneygram,,unknown,EASYPAGOS COOP. LA MERCED
+SAN FERNANDO,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SAN FERN
+LA MERCED,moneygram,,unknown,EASYPAGOS COOP. LA MERCED
+SANTO DOMINGO DE ONZOLE,moneygram,,unknown,BANCO DE GUAYAQUIL - #111 - SANTO DOMING
+CEBADAS,moneygram,,unknown,COOP. ACCION Y DESARROLLO
+AYORA,moneygram,,unknown,BANCO DEL PICHINCHA - #305
+ANUNTAQUI,moneygram,,unknown,EASYPAGOS COOP. PILAHUIN TIO
+CHIGUINDA,moneygram,,unknown,COOP CACPEG GUALAQUIZA
+BAQUERIZO MORENO,moneygram,,unknown,EASYPAGOS YACHTGALA - #PTOBAQU
+PASTAZA,moneygram,,unknown,BANCO DEL PICHINCHA - #328 - PASTAZA - A
+MENDEZ,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - MEND
+MATA DE CACAO,moneygram,,unknown,AG EASYPAGOS SA - MATA DE CACAO
+CAJABAMBA,moneygram,,unknown,EASYPAGOS COOP. 4 DE OCTUBRE - CAJABAMBA
+COLUMBE,moneygram,,unknown,EASYPAGOS COOP. MINGA - COLUMBE
+MIRA,moneygram,,unknown,EASYPAGOS COOP. SANTA ANITA - MIRA
+SAN RAFAEL DE BOLIVAR,moneygram,,unknown,EASYPAGOS COOP. SANTA ANITA - SAN RAFAEL
+IMANTAG,moneygram,,unknown,EASYPAGOS COOP. SANTA ANITA - IMANTAG
+QUIMIAG,moneygram,,unknown,EASYPAGOS COOP. 4 DE OCTUBRE - QUIMIAG
+PENIPE,moneygram,,unknown,EASYPAGOS COOP. 4 DE OCTUBRE - PENIPE
+LIMON,moneygram,,unknown,EASYPAGOS COOP. ERCO - LIMON
+SIGCHOS,moneygram,,unknown,EASYPAGOS COOP. CACPECO - SIGCHOS
+CEVALLOS,moneygram,,unknown,EASYPAGOS COOP. AMBATO - CEVALLOS - Ceva
+TISALEO,moneygram,,unknown,EASYPAGOS COOP. SAN FRANCISCO
+QUINNDE,moneygram,,unknown,BANCO DE GUAYAQUIL - #159 - QUINNDE
+EMPALME,moneygram,,unknown,BANCO DE GUAYAQUIL - #161
+COCA,moneygram,,unknown,BANCO DE GUAYAQUIL - #171 - COCA
+LAS LAJAS,moneygram,,unknown,EASYPAGOS COOP. 11 DE JUNIO - LAS LAJAS
+HUAMBOYA,moneygram,,unknown,COOP. JARDIN AZUAYO - HUAMBOYA - HUAMBOY
+CUELLAJE,moneygram,,unknown,COOP. ARTESANOS - CUELLAJE - CUELL
+GARCIA MORENO,moneygram,,unknown,COOP. ARTESANOS - GARCIA MORENO - GARCIA
+APUELA,moneygram,,unknown,COOP. ARTESANOS - APUELA - APUE
+CIELO VERDE,moneygram,,unknown,COOP. ARTESANOS - CIELO VERDE - CIELOVE
+GOLONDRINAS,moneygram,,unknown,COOP. ARTESANOS - GOLONDRINAS - GOLOND
+LOS ENCUENTROS,moneygram,,unknown,EASYPAGOS CACPE YANTZAZA
+BANOS DE AGUA SANTA,moneygram,,unknown,COOP. CAMARA DE COMERCIO DE AMBATO - BAN
+FLAVIO ALFARO,moneygram,,unknown,ARTEFACTA - F. ALFARO
+SHINA,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SHINA
+PONCE ENRIQUEZ,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - PONCE
+SEVILLA DE ORO,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - SEVILLA
+AMALUZA,moneygram,,unknown,COOP. CREDIAMIGO - AMALU
+SAN LUCAS,moneygram,,unknown,COOP. CREDIAMIGO - S. LUCAS
+LA BRAMADORA,moneygram,,unknown,COOP. LA BENEFICA - LA BRAMADORA - BRAMA
+ESMERALDAD,moneygram,,unknown,BANCO DE GUAYAQUIL - #114 - ESMERALDAD -
+LIMON INDANZA,moneygram,,unknown,EASYPAGOS COOP. JARDIN AZUAYO - LIMO
+Guayaquil,national,,unknown,Guayaquil Airport
+Manta,national,,unknown,Manta Downtown
+Quito,national,,unknown,Quito International Airport
+QUITO,shell,,unknown,Panasur
+PICHINCHA,shell,,unknown,PIFO
+GUAYAS,shell,,unknown,Barcelona
+GUAYAQUIL,shell,,unknown,San Andrés
+MANTA,shell,,unknown,Centro
+DAULE,shell,,unknown,La Roca
+MANABÍ,shell,,unknown,Marina
+EL ORO,shell,,unknown,El Retiro
+Guayaquil,sixt,,unknown,Car Hire Guayaquil Airport | SIXT rent a car
+Quito,sixt,,unknown,Car Hire Quito Intl Airport | SIXT rent a car
+QUITO,united_colors_of_benetton,,unknown,Benetton Quito
+GUAYAQUIL,united_colors_of_benetton,,unknown,Benetton Guayaquil
+SHUSHUFINFI,visa,,unknown,unknown
+JOYA DE LOS SACHAS,visa,,unknown,unknown
+LAGO AGRIO,visa,,unknown,unknown
+ORELLANA,visa,,unknown,unknown
+GUAYAQUIL,visa,,unknown,unknown
+LORETO,visa,,unknown,unknown
+TULCAN,visa,,unknown,unknown
+SANTO DOMINGO,visa,,unknown,unknown
+ARCHIDONA,visa,,unknown,unknown
+TENA,visa,,unknown,unknown
+BOLIVAR,visa,,unknown,unknown
+NARANJAL,visa,,unknown,unknown
+PASTAZA,visa,,unknown,unknown
+AMBUQUI,visa,,unknown,unknown
+MERA,visa,,unknown,unknown
+PUJILI,visa,,unknown,unknown
+IBARRA,visa,,unknown,unknown
+GENERAL ANTONIO ELIZALDE,visa,,unknown,unknown
+MORONA,visa,,unknown,unknown
+CAYAMBE,visa,,unknown,unknown
+SAN PABLO,visa,,unknown,unknown
+ANTONIO ANTE,visa,,unknown,unknown
+PEDRO MONCAYO,visa,,unknown,unknown
+OTAVALO,visa,,unknown,unknown
+QUITO,visa,,unknown,unknown
+COTACACHI,visa,,unknown,unknown
+SANTIAGO DE PILLARO,visa,,unknown,unknown
+RUMIÑAHUI,visa,,unknown,unknown
+BAÑOS DE AGUA SANTA,visa,,unknown,unknown
+RUMINAHUI,visa,,unknown,unknown
+LATACUNGA,visa,,unknown,unknown
+AMAGUAÑA,visa,,unknown,unknown
+MEJIA,visa,,unknown,unknown
+SAN PEDRO DE PELILEO,visa,,unknown,unknown
+PELILEO,visa,,unknown,unknown
+MACHACHI,visa,,unknown,unknown
+SALCEDO,visa,,unknown,unknown
+AMBATO,visa,,unknown,unknown
+EL PANGUI,visa,,unknown,unknown
+RIOBAMBA,visa,,unknown,unknown
+GUALACEO,visa,,unknown,unknown
+ALAUSI,visa,,unknown,unknown
+AZOGUES,visa,,unknown,unknown
+CANAR,visa,,unknown,unknown
+SAN MIGUEL DE LOS BANCOS,visa,,unknown,unknown
+CUENCA,visa,,unknown,unknown
+ALLURIQUIN,visa,,unknown,unknown
+GUARANDA,visa,,unknown,unknown
+DURAN,visa,,unknown,unknown
+PUERTO QUITO,visa,,unknown,unknown
+BUENA FE,visa,,unknown,unknown
+LA CONCORDIA,visa,,unknown,unknown
+LOJA,visa,,unknown,unknown
+LA MANA,visa,,unknown,unknown
+MONTALVO,visa,,unknown,unknown
+NARANJITO,visa,,unknown,unknown
+LA TRONCAL,visa,,unknown,unknown
+VALENCIA,visa,,unknown,unknown
+QUININDE,visa,,unknown,unknown
+EL TRIUNFO,visa,,unknown,unknown
+MARCELINO MARIDUENA,visa,,unknown,unknown
+EL CARMEN,visa,,unknown,unknown
+QUEVEDO,visa,,unknown,unknown
+VENTANAS,visa,,unknown,unknown
+EL EMPALME,visa,,unknown,unknown
+URDANETA,visa,,unknown,unknown
+SIMON BOLIVAR,visa,,unknown,unknown
+MOCACHE,visa,,unknown,unknown
+EL GUABO,visa,,unknown,unknown
+BABAHOYO,visa,,unknown,unknown
+PUEBLOVIEJO,visa,,unknown,unknown
+BABA,visa,,unknown,unknown
+JUJAN,visa,,unknown,unknown
+MILAGRO,visa,,unknown,unknown
+PORTOVIEJO,visa,,unknown,unknown
+ESMERALDAS,visa,,unknown,unknown
+YAGUACHI,visa,,unknown,unknown
+SAMBORONDON,visa,,unknown,unknown
+PIÑAS,visa,,unknown,unknown
+VINCES,visa,,unknown,unknown
+PASAJE,visa,,unknown,unknown
+MACHALA,visa,,unknown,unknown
+DURÁN,visa,,unknown,unknown
+ATACAMES,visa,,unknown,unknown
+DAULE,visa,,unknown,unknown
+FLAVIO ALFARO,visa,,unknown,unknown
+BALZAR,visa,,unknown,unknown
+PAJAN,visa,,unknown,unknown
+EMPALME,visa,,unknown,unknown
+SANTA ROSA,visa,,unknown,unknown
+SALITRE,visa,,unknown,unknown
+SANTA ELENA,visa,,unknown,unknown
+PALESTINA,visa,,unknown,unknown
+SANTA LUCIA,visa,,unknown,unknown
+COLIMES,visa,,unknown,unknown
+PEDERNALES,visa,,unknown,unknown
+ARENILLAS,visa,,unknown,unknown
+LOMAS DE SARGENTILLO,visa,,unknown,unknown
+CHONE,visa,,unknown,unknown
+ISIDRO AYORA,visa,,unknown,unknown
+PEDRO CARBO,visa,,unknown,unknown
+TOSAGUA,visa,,unknown,unknown
+HUAQUILLAS,visa,,unknown,unknown
+PLAYAS,visa,,unknown,unknown
+SANTA ANA,visa,,unknown,unknown
+SAN VICENTE,visa,,unknown,unknown
+SUCRE,visa,,unknown,unknown
+ROCAFUERTE,visa,,unknown,unknown
+JIPIJAPA,visa,,unknown,unknown
+JARAMIJO,visa,,unknown,unknown
+MONTECRISTI,visa,,unknown,unknown
+MANTA,visa,,unknown,unknown
+LA LIBERTAD,visa,,unknown,unknown
+PUERTO LOPEZ,visa,,unknown,unknown
+SALINAS,visa,,unknown,unknown
+PUERTO AYORA,visa,,unknown,unknown
+SANTA CRUZ,visa,,unknown,unknown
+Guayaquil,western_union,,unknown,SRNP TIA BAS CC MALL EL FORTIN GYE
+Salitre,western_union,,unknown,SRNP DIF CA FG131 ENRIQUE DECKER SALITRE

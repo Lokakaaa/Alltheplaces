@@ -1,0 +1,592 @@
+City,Place Name,Zipcode,Name
+Ochtrup,asics_eu,,unknown,ASICS Factory Outlet Ochtrup
+Krefeld,audi,Gladbacher Straße 471 47805 Krefeld,unknown,Premium Tölke & Fischer Autohandels GmbH & Co. KG
+Leverkusen,audi,Willy-Brandt-Ring 10 51373 Leverkusen,unknown,Automobil Zentrum Leverkusen GmbH & Co. KG
+Ruppichteroth,audi,Brölstraße 29 53809 Ruppichteroth,unknown,Autohaus Vorländer GmbH
+Arnsberg-Niedereimer,audi,Niedereimerfeld 37-39 59823 Arnsberg-Niedereimer,unknown,Friedrich Hoffmann GmbH & Co. KG
+Beckum,audi,Hauptstraße 190 59269 Beckum,unknown,Auto Weber GmbH & Co.KG
+Hilden,audi,Westring 20-22 40721 Hilden,unknown,Autohaus Schnitzler GmbH & Co. KG
+Monheim,audi,Niederstraße 7 40789 Monheim,unknown,Autozentrum Josten GmbH & Co. KG
+Gronau,audi,Enscheder Straße 313 48599 Gronau,unknown,Autohaus Vortkamp GmbH
+Langenfeld,audi,Raiffeisenstraße 20 40764 Langenfeld,unknown,Autohaus Schnitzler GmbH&Co.KG
+Simmerath,audi,Bundesstraße 91-93 52152 Simmerath,unknown,P. Jacobs Automobile GmbH
+Dortmund,audi,Ludwig-Lohner-Straße 7-9 44143 Dortmund,unknown,Hülpert AZ GmbH
+Lüdenscheid,audi,Nottebohmstraße 2 58511 Lüdenscheid,unknown,Tiemeyer automobile GmbH & Co. KG
+Geilenkirchen,audi,Landstraße 48 + 50 52511 Geilenkirchen,unknown,Audi Zentrum Aachen Jacobs Automobile GmbH
+Lübbecke,audi,Am Dornbusch 5 32312 Lübbecke,unknown,Autohaus Gebr. Schwarte Lübbecke GmbH
+Warendorf,audi,Splieterstraße 69 48231 Warendorf,unknown,Siemon GmbH
+Hattingen,audi,Blankensteiner Straße 71 45527 Hattingen,unknown,WH Autozentrum Witten/Hattingen GmbH
+Witten,audi,Dortmunder Straße 101 58453 Witten,unknown,WH Autozentrum Witten/Hattingen GmbH
+Schloß Holte-Stukenbrock,audi,Hauptstraße 43 33758 Schloß Holte-Stukenbrock,unknown,Steinböhmer GmbH & Co. KG
+Alsdorf,audi,Max-Planck-Straße 17 - 21 52477 Alsdorf,unknown,Jacobs Automobile Alsdorf GmbH
+Recklinghausen,audi,Hubertusstraße 32 - 34 45657 Recklinghausen,unknown,Autohaus Schmidt GmbH & Co. KG
+Kaarst,audi,Königsberger Straße 2 41564 Kaarst,unknown,Autohaus Moll Kaarst GmbH
+Jülich,audi,An der Vogelstange 93b 52428 Jülich,unknown,Autohaus Bataille GmbH
+Köln,audi,Frankfurter Straße 665 - 675 51145 Köln,unknown,Autohaus Jacob Fleischhauer GmbH & Co. KG
+Wuppertal,audi,Uellendahler Straße 306 42109 Wuppertal,unknown,AutomobilvertriebsgesellschaftWuppertal GmbH & Co. KG
+Düren,audi,Rudolf-Diesel-Straße 11 52351 Düren,unknown,Audi Zentrum Aachen Jacobs Automobile GmbH
+Dorsten,audi,Borkener Straße 91 46284 Dorsten,unknown,Tiemeyer automobile GmbH & Co. KG
+Brühl,audi,Am Volkspark 5 - 7 50321 Brühl,unknown,Auto Thomas GmbH
+Bad Laasphe,audi,Bahnhofstraße 85 57334 Bad Laasphe,unknown,Autohaus Achenbach Bad Laasphe GmbH
+Erkelenz,audi,Krefelder Straße 2 41812 Erkelenz,unknown,Jacobs Automobile Heinsberg GmbH
+Olpe,audi,Bruchstraße 85 57462 Olpe,unknown,Hoppmann Automobil GmbH
+Borken,audi,Nordring 212 - 214 46325 Borken,unknown,Autohaus Timmer GmbH
+Bünde,audi,Engerstraße 13 + 15 32257 Bünde,unknown,Autohaus Gebr. Schwarte Bünde GmbH
+Duisburg,audi,Düsseldorfer Landstraße 37 47249 Duisburg,unknown,Gottfried Schultz Duisburg GmbH & Co. KG
+Recklinghausen,audi,Rheinstraße 7 - 9 45663 Recklinghausen,unknown,Tiemeyer automobile GmbH & Co. KG
+Neunkirchen,audi,In der Au 26 57290 Neunkirchen,unknown,Autocenter Andr‚ Mühlenbruch GmbH
+Bünde,audi,Wasserbreite 33 - 37 32257 Bünde,unknown,Autohaus Pietsch.Bünde GmbH
+Bielefeld,audi,Eckendorfer Straße 23 33609 Bielefeld,unknown,Senger Bielefeld GmbH
+Köln,audi,Weinsbergstraße 160 50823 Köln,unknown,Autohaus Jacob Fleischhauer GmbH & Co. KG
+Plettenberg,audi,Bahnhofstraße 35 58840 Plettenberg,unknown,Tiemeyer automobile GmbH & Co. KG
+Billerbeck,audi,Darfelder Straße 47 48727 Billerbeck,unknown,AUTO-KRAUSE GmbH
+Steinfurt,audi,Carl-Benz-Straße 4 48565 Steinfurt,unknown,Autohaus Budde GmbH
+Emsdetten,audi,Nordring 55 48282 Emsdetten,unknown,Ulrich Senger GmbH
+Lengerich,audi,Tecklenburger Straße 6 49525 Lengerich,unknown,Starke Ibbenbüren GmbH & Co. KG
+Rheine,audi,Lingener Damm 1 48429 Rheine,unknown,Ulrich Senger GmbH
+Wettringen,audi,August-Kümpers-Straße 10 - 12 48493 Wettringen,unknown,Martin Heemann e. K. Inhaber: Jürgen Heemann
+Petershagen,audi,Friedewalder Straße 25 32469 Petershagen,unknown,Autohaus Meier GmbH & Co. KG
+Herford,audi,Salzufler Straße 164 32052 Herford,unknown,Autohaus Schnieder am Stadion GmbH & Co. KG
+Horn-Bad Meinberg,audi,Weidenweg 4 32805 Horn-Bad Meinberg,unknown,Kurt Stricker GmbH & Co. KG
+Rietberg,audi,Mastholter Straße 50 33397 Rietberg,unknown,Autohaus Am Südtor GmbH
+Versmold,audi,Laerstraße 16 33775 Versmold,unknown,PS Zentrum GmbH & Co. KG
+Bad Oeynhausen,audi,Volmerdingsener Straße 120 32549 Bad Oeynhausen,unknown,Autohaus Halstenberg GmbH & Co. KG
+Bad Honnef,audi,August-Lepper-Straße 1 - 12 53604 Bad Honnef,unknown,Auto Thomas GmbH
+Bergkamen,audi,Bambergstraße 116-118 59192 Bergkamen,unknown,Autohaus Jehrke GmbH
+Bochum,audi,Hattinger Straße 875-885 44879 Bochum,unknown,Autohaus Wicke GmbH
+Lippetal,audi,Polmerheide 10 - 12 59510 Lippetal,unknown,Hubert Vester
+Wesel,audi,Oberndorfstraße 1 46483 Wesel,unknown,Autohaus an Rhein & Lippe GmbH & Co. KG
+Duisburg,audi,Watereckstraße 5 47178 Duisburg,unknown,Dipl.-Ing. H. Röder GmbH u. Co. KG
+Soest,audi,Thomätor 12 59494 Soest,unknown,RK Autowelt Rinke & Knipps GmbH
+Krefeld,audi,Nassauer Ring 45 47803 Krefeld,unknown,Borgmann Automobilhändler GmbH
+Marsberg,audi,Bundesstraße 60 34431 Marsberg,unknown,Autohaus Luckey GmbH
+Viersen,audi,Viersener Straße 135 41751 Viersen,unknown,Waldhausen & Bürkel Viersen GmbH & Co. KG
+Köln,audi,Bonner Straße 328 50968 Köln,unknown,Audi Zentrum Köln Autohaus Jacob Fleischhauer GmbH & Co. KG
+Mülheim an der Ruhr,audi,Düsseldorfer Straße 261 45481 Mülheim an der Ruhr,unknown,Gottfried Schultz Mülheim GmbH & Co. KG
+Beckum,audi,Neubeckumer Straße 74 C 59269 Beckum,unknown,"Knubel GmbH & Co. KG, Zweigniederlassung Beckum"
+Münster,audi,Siemensstraße 51 48153 Münster,unknown,Senger AZ Münster GmbH
+Hagen,audi,Weststraße 1 58089 Hagen,unknown,Gottfried Schultz Vertrieb GmbH & Co. KG
+Solingen,audi,Schlagbaumer Straße 118 42653 Solingen,unknown,Autohaus Nouvertn‚ Am Wasserturm GmbH & Co. KG
+Duisburg,audi,Großenbaumer Allee 77-87 47269 Duisburg,unknown,"Auto Hortz, Inhaber Wilhelm Josef Hortz"
+Emmerich am Rhein,audi,Seufzerallee 2 46446 Emmerich am Rhein,unknown,Emil Helmich Kraftfahrzeuge GmbH
+Issum-Sevelen,audi,Dorfstraße 39 47661 Issum-Sevelen,unknown,Peter Ullrich e. K.
+Oberhausen,audi,Vestische Straße 229 46145 Oberhausen,unknown,Tiemeyer automobile GmbH & Co. KG
+Velbert,audi,Nevigeser Straße 163 42553 Velbert,unknown,Gottfried Schultz Automobilhandels SE
+Menden,audi,Fröndenberger Straße 144 58706 Menden,unknown,AVG ROSIER GmbH
+Mettmann,audi,Düsseldorfer Straße 189-191 40822 Mettmann,unknown,Gottfried Schultz Automobilhandels SE
+Willich,audi,Jakob-Kaiser-Straße 3 47877 Willich,unknown,Premium Tölke & Fischer Autohandels GmbH & Co. KG
+Düsseldorf,audi,Professor-Oehler-Straße 13 40589 Düsseldorf,unknown,Gottfried Schultz Automobilhandels SE
+Bielefeld,audi,Industriestraße 6 33689 Bielefeld,unknown,Autohaus Schröder Senne GmbH & Co Team KG
+Attendorn,audi,Am Eckenbach 35 57439 Attendorn,unknown,Autohaus Dieter Steinhoff GmbH
+Lünen,audi,Cappenberger Straße 25 A 44534 Lünen,unknown,Autohaus Schmidt GmbH & Co. KG
+Bonn,audi,Godesberger Straße 40 - 80 53175 Bonn,unknown,ARG - Auto- Rheinland - GmbH
+Bochum,audi,Porschestraße 2 44809 Bochum,unknown,Tiemeyer automobile GmbH & Co. KG
+Siegburg,audi,Luisenstraße 92-98 53721 Siegburg,unknown,G. Rudolf Seiler GmbH
+Köln,audi,Robert-Perthel-Straße 66a 50739 Köln,unknown,Odendahl & Heise GmbH
+Mönchengladbach,audi,Hohenzollernstraße 230 - 250 41063 Mönchengladbach,unknown,Waldhausen & Bürkel GmbH & Co. KG
+Neuss,audi,Jülicher Landstraße 41-43 41464 Neuss,unknown,Gottfried Schultz Automobilhandels SE
+Mönchengladbach,audi,Düsseldorfer Straße 12 41238 Mönchengladbach,unknown,Autohaus Jacob Fleischhauer GmbH & Co. KG
+Düsseldorf,audi,Krefelder Straße 117 40549 Düsseldorf,unknown,Autohaus Adelbert Moll GmbH & Co. KG
+Selm,audi,Olfener Straße 11 59379 Selm,unknown,Autohaus Selm GmbH & Co.KG
+Gelsenkirchen,audi,Alfred-Zingler-Straße 3 45881 Gelsenkirchen,unknown,Automobile Basdorf GmbH
+Lennestadt,audi,Hagener Straße 68 57368 Lennestadt,unknown,Egon Baumhoff GmbH & Co. KG
+Ahlen,audi,Industriestraße 29 59229 Ahlen,unknown,Auto Weber GmbH & Co. KG
+Warstein,audi,Lanfer 65 59581 Warstein,unknown,RK Autowelt Belda GmbH
+Brilon,audi,Almerfeldweg 39 59929 Brilon,unknown,Autohaus Biederbick GmbH & Co. KG
+Oelde,audi,Westrickweg 2 59302 Oelde,unknown,H. Gretenkort GmbH
+Unna,audi,Ziegelstraße 25 59423 Unna,unknown,Hülpert VZ GmbH
+Bielefeld,audi,Herforder Straße 197 33609 Bielefeld,unknown,Adolf Berning KG
+Bielefeld,audi,Jöllenbecker Straße 325 33613 Bielefeld,unknown,Steinböhmer GmbH & Co. KG
+Bielefeld,audi,Dingerdisser Straße 1 33699 Bielefeld,unknown,Autocenter Gaus GmbH & Co. KG
+Bochum,audi,Ümminger Straße 84 44892 Bochum,unknown,Tiemeyer automobile GmbH & Co. KG
+Bocholt,audi,Münsterstraße 145-149 46397 Bocholt,unknown,Auto Krabbe GmbH
+Hamm,audi,Hammer Straße/Ecke Hüserstraße 59075 Hamm,unknown,W. Potthoff GmbH
+Castrop-Rauxel,audi,Habinghorster Straße 201 44579 Castrop-Rauxel,unknown,Autohaus Laumen GmbH & Co. KG
+Gelsenkirchen,audi,Lindenstraße 107 45894 Gelsenkirchen,unknown,Tiemeyer automobile GmbH & Co. KG
+Gladbeck,audi,Wilhelmstraße 20 45964 Gladbeck,unknown,Autohaus Wilhelm Schmitz GmbH & Co. KG
+Gladbeck,audi,Bahnhofstraße 20-24 45964 Gladbeck,unknown,Auto Schubert GmbH & Co. KG
+Hamm,audi,Hohe Straße 10 - 14 59065 Hamm,unknown,Kraftfahrzeugvertrieb Julius Franken & Co.
+Lüdinghausen,audi,Seppenrader Straße 1 59348 Lüdinghausen,unknown,Autohaus Hollenhorst GmbH & Co.
+Werne,audi,Klöcknerstraße 2 59368 Werne,unknown,Autohaus Brümmer & Henkelmann GmbH
+Düsseldorf,audi,Höherweg 210 40233 Düsseldorf,unknown,Gottfried Schultz Automobilhandels SE
+Emmerich am Rhein,audi,Sandbahn 9 46446 Emmerich am Rhein,unknown,Fisser & Scheers GmbH & Co. KG
+Mülheim an der Ruhr,audi,Ruhrorter Straße 13-15 45478 Mülheim an der Ruhr,unknown,Gottfried Schultz Automobilhandels SE
+Oberhausen,audi,Mellinghofer Straße 147 46047 Oberhausen,unknown,Tiemeyer automobile GmbH & Co. KG
+Solingen,audi,Merscheider Straße 76 42699 Solingen,unknown,Autohaus von Keitz GmbH & Co. KG
+Wesel,audi,Im Buttendicksfeld 15 46485 Wesel,unknown,Autohaus Becher GmbH
+Schwelm,audi,Berliner Straße 60 - 68 58332 Schwelm,unknown,Tepass Schwelm GmbH + Co. KG
+Wetter,audi,Oberwengerner Straße 170 58300 Wetter,unknown,Tepass Wetter GmbH
+Aachen,audi,Europaplatz 52068 Aachen,unknown,Autohaus Jacob Fleischhauer GmbH & Co. KG
+Bergheim,audi,Lechenicher Straße 30 - 38 50126 Bergheim,unknown,Jacobs Automobile Bergheim GmbH
+Bonn,audi,Obernierstraße 13-15 53119 Bonn,unknown,Autohaus Nolden GmbH & Co. KG
+Bonn,audi,Königswinterer Straße 444 53227 Bonn,unknown,Heinrich Thomas GmbH & Co. KG
+Engelskirchen,audi,Overather Straße 43 51766 Engelskirchen,unknown,Richard Stein GmbH & Co. KG
+Erftstadt,audi,Bonner Ring 7 50374 Erftstadt,unknown,Gebr. Conrad GmbH
+Frechen,audi,Kölner Straße 199 50226 Frechen,unknown,Hans Westkamp GmbH & Co. KG
+Gummersbach,audi,Gummersbacher Straße 55 51645 Gummersbach,unknown,Richard Stein GmbH & Co. KG
+Hennef,audi,Frankfurter Straße 137+176 53773 Hennef,unknown,Auto Thomas AG & Co. KG
+Hürth,audi,Rondorfer Straße 72-74 50354 Hürth,unknown,Bautz & Klinkhammer GmbH & Co.KG
+Köln,audi,Clevischer Ring 45 51063 Köln,unknown,Autohaus Jacob Fleischhauer GmbH & Co. KG
+Sankt Augustin-Menden,audi,Einsteinstraße 17 53757 Sankt Augustin-Menden,unknown,Autohaus Hoff GmbH & Co. KG
+Wesseling,audi,Römerstraße 145-147 50389 Wesseling,unknown,Autohaus Bauer GmbH
+Zülpich,audi,Industriestraße 1 53909 Zülpich,unknown,Autohaus Anton Gotzen GmbH & Co. KG
+Lemgo,audi,Stegelmannstraße 1 32657 Lemgo,unknown,Autohaus Stegelmann GmbH & Co. KG
+Lübbecke,audi,Hauptstraße 113 32312 Lübbecke,unknown,Fritz Schmale GmbH
+Minden,audi,Ringstraße 9 32427 Minden,unknown,Autohaus Glinicke GmbH
+Geldern,audi,Weseler Straße 150-152 47608 Geldern,unknown,Autohaus Minrath GmbH & Co.KG
+Moers,audi,Rheinberger Straße 46/61 47441 Moers,unknown,Autohaus Minrath GmbH & Co.KG
+Coesfeld,audi,Druffels Weg 91/91a 48653 Coesfeld,unknown,"Knubel GmbH & Co.KG, Zweigniederlassung Coesfeld"
+Münster,audi,Westfalenstraße 120 48165 Münster,unknown,Heinrich Hollenhorst GmbH & Co. KG
+Meschede,audi,Warsteiner Straße 50 59872 Meschede,unknown,Friedrich Hoffmann GmbH & Co. KG
+Sundern,audi,Westenfelder Straße 20 59846 Sundern,unknown,Friedrich Hoffmann GmbH & Co. KG
+Ibbenbüren,audi,Tecklenburger Damm 41-49 49477 Ibbenbüren,unknown,Starke Ibbenbüren GmbH & Co. KG
+Lotte,audi,Atterstraße 25 49504 Lotte,unknown,Starke Lotte GmbH & Co. KG
+Bad Driburg,audi,Dringenberger Straße 77 33014 Bad Driburg,unknown,Karl Thiel GmbH & Co. KG
+Brakel,audi,Driburger Straße 19 - 21 33034 Brakel,unknown,Seibert GmbH & Co. KG
+Gütersloh,audi,Gneisenaustraße 1 33330 Gütersloh,unknown,Mense GmbH
+Paderborn,audi,Detmolder Straße 73 33100 Paderborn,unknown,Karl Thiel GmbH & Co. KG
+Warburg,audi,Paderborner Tor 169 34414 Warburg,unknown,Autohaus Jacobi GmbH & Co.KG
+Rheda-Wiedenbrück,audi,Karl-Thiel-Straße 1 33378 Rheda-Wiedenbrück,unknown,Karl Thiel GmbH & Co. KG
+Marl,audi,Rostocker Straße 2 45770 Marl,unknown,Tiemeyer automobile GmbH & Co. KG
+Dortmund,audi,Planetenfeldstraße 87 44379 Dortmund,unknown,Hülpert VZ GmbH
+Remscheid,audi,Gerstau 18 42857 Remscheid,unknown,Tiemeyer automobile GmbH & Co. KG
+Meckenheim,audi,Bergerwiesenstraße 4 53340 Meckenheim,unknown,Löhr Automobile Vertriebs GmbH
+Radevormwald,audi,Elberfelder Straße 153 42477 Radevormwald,unknown,Messink Automobile GmbH & Co. KG
+Essen,audi,Altendorfer Straße 50 45143 Essen,unknown,Gottfried Schultz Automobilhandels SE
+Dormagen,audi,Lübecker Straße 17 41540 Dormagen,unknown,Gottfried Schultz Automobilhandels SE
+Enger,audi,Lambernweg 47 32130 Enger,unknown,Autohaus Widukind GmbH
+Euskirchen,audi,Münstereifelerstraße 157-161 53879 Euskirchen,unknown,Autohaus Jacob Fleischhauer GmbH & Co. KG
+Aachen,audi,Madrider Ring 19 52078 Aachen,unknown,Audi Zentrum Aachen Jacobs Automobile GmbH
+Heinsberg,audi,Ferdinand-Porsche-Straße 2 52525 Heinsberg,unknown,Jacobs Automobile Heinsberg GmbH
+Gütersloh,audi,Haller Straße 79 33334 Gütersloh,unknown,Autohaus Brinker GmbH
+Bochum,audi,Dieselstraße 2 44805 Bochum,unknown,Autohaus Friedrich Frohn GmbH & Co. KG
+Witten,audi,Wittener Straße 106 58456 Witten,unknown,Kogelheide GmbH
+Bochum,audi,Lohackerstraße 11 44867 Bochum,unknown,Hans Steiner GmbH
+Hamm,audi,Fangstraße 30 59077 Hamm,unknown,Kraftfahrzeugvertrieb Julius Franken & Co.
+Dortmund,audi,Bärenbruch 36-44 44379 Dortmund,unknown,Autohaus Gremer-Koenigsmann GmbH
+Gelsenkirchen,audi,Hügelstraße 1a 45899 Gelsenkirchen,unknown,Tiemeyer automobile GmbH & Co. KG
+Lünen,audi,Goethestraße 15 44534 Lünen,unknown,Gövert GmbH
+Raesfeld,audi,St. Sebastian 54 46348 Raesfeld,unknown,Autohaus Josef Gudel GmbH & Co. KG
+Grevenbroich,audi,Lilienthalstraße 6 41515 Grevenbroich,unknown,Gottfried Schultz Automobilhandels SE
+Düsseldorf,audi,Tiefenbroicher Weg 12 40472 Düsseldorf,unknown,Autohaus Clemens GmbH & Co. KG
+Hamminkeln,audi,An der Windmühle 41 46499 Hamminkeln,unknown,Autohaus Becher GmbH Hamminkeln
+Erkrath,audi,Schimmelbuschstraße 1 40699 Erkrath,unknown,Gottfried Schultz Automobilhandels SE
+Oberhausen,audi,Grenzstraße 115 - 119 46045 Oberhausen,unknown,Leo Belting Autohaus GmbH & Co. KG
+Hagen,audi,Bandstahlstraße 5 58093 Hagen,unknown,Autohaus Pfeffer GmbH
+Hemer,audi,Mendener Straße 64 58675 Hemer,unknown,Tiemeyer automobile GmbH & Co. KG
+Kierspe,audi,Osemundstraße 32 58566 Kierspe,unknown,Knabe GmbH & Co. KG
+Lippstadt,audi,Bremerstraße 13 59557 Lippstadt,unknown,Autohaus Hunecke Inh. Josef Hunecke e. K.
+Meerbusch,audi,Otto-Hahn-Straße 2 40670 Meerbusch,unknown,Heinz Nauen GmbH & Co.KG
+Remscheid,audi,Neuenteich 3 42897 Remscheid,unknown,Tiemeyer automobile GmbH & Co. KG
+Troisdorf,audi,Urbacher Straße 8 53842 Troisdorf,unknown,Autohaus Hoff GmbH & Co. KG
+Blankenheim,audi,Am Mürel 18 53945 Blankenheim,unknown,Auto Thomas GmbH
+Bornheim,audi,Donnerbachweg 3 53332 Bornheim,unknown,Auto Thomas GmbH
+Königswinter,audi,Herresbacher Straße 51 53639 Königswinter,unknown,Autohaus Korth GmbH
+Morsbach,audi,Waldbröler Straße 74 51597 Morsbach,unknown,Autohaus E. Klinge GmbH
+Rösrath,audi,Kölner Straße 47 51503 Rösrath,unknown,Richard Stein GmbH & Co. KG
+Wermelskirchen,audi,Neuenhöhe 27 42929 Wermelskirchen,unknown,Messink Automobile GmbH & Co. KG
+Krefeld,audi,Kempener Straße 90 - 92 47839 Krefeld,unknown,Tölke & Fischer GmbH & Co. KG
+Detmold,audi,Bielefelder Straße 86 - 88 32756 Detmold,unknown,Autohaus Stegelmann GmbH & Co. KG
+Blomberg,audi,Auf den Kreuzen 12 - 14 32825 Blomberg,unknown,Hermann Hache GmbH & Co. KG
+Ahaus,audi,Wüllener Straße 87 48683 Ahaus,unknown,"Knubel GmbH & Co. KG, Zweigniederlassung Ahaus"
+Münster,audi,Weseler Straße 485 48163 Münster,unknown,Knubel GmbH & Co. KG
+Münster,audi,Im Derdel 4 48161 Münster,unknown,Autohaus Schlagheck GmbH & Co. KG
+Telgte,audi,Daimlerstraße 5 48291 Telgte,unknown,Knubel GmbH & Co. KG Zweigniederlassung Telgte
+Olsberg,audi,Hauptstraße 120 59939 Olsberg,unknown,Menke GmbH
+Winterberg,audi,Remmeswiese 24 59955 Winterberg,unknown,Friedrich Hoffmann GmbH & Co. KG
+Siegen,audi,Leimbachstraße 165 57074 Siegen,unknown,Audi Zentrum Siegen Walter Schneider GmbH & Co. KG
+Vlotho,audi,Herforder Straße 79 32602 Vlotho,unknown,Schnieder GmbH
+Salzkotten,audi,Geseker Straße 41 33154 Salzkotten,unknown,Autohaus Niggemeier GmbH & Co. KG
+Paderborn,audi,Bielefelder Straße 84 33104 Paderborn,unknown,Autohaus Gröpper GmbH
+Verl,audi,Nickelstraße 6 33415 Verl,unknown,Schröder Team Verl GmbH & Co. KG
+Erndtebrück,audi,Marburger Straße 16 57339 Erndtebrück,unknown,Völkel GmbH
+Sankt Augustin,audi,Westerwaldstraße 1 53757 Sankt Augustin,unknown,Autohaus Hoff GmbH & Co. KG
+Reken,audi,Aeckern 2 A 48734 Reken,unknown,Günter Pellmann GmbH
+Wilnsdorf,audi,Giessener Straße 4 57234 Wilnsdorf,unknown,Autohaus Nies GmbH & Co. KG
+Dormagen,audi,In Ückerath 115 41542 Dormagen,unknown,Autohaus Tolles GmbH
+Heiden,audi,Industriestraße 13 46359 Heiden,unknown,Autohaus Gudel-Ehlers GmbH & Co. KG
+Schmallenberg,audi,Auf der Lake 5 57392 Schmallenberg,unknown,Gierse & Schöllmann GmbH
+Düsseldorf,botteg_aveneta,,unknown,Düsseldorf - Breuninger
+Bad Münstereifel,das_futterhaus,,unknown,Das Futterhaus Bad Münstereifel
+Bad Oeynhausen,das_futterhaus,,unknown,Das Futterhaus Bad Oeynhausen
+Bergheim,das_futterhaus,,unknown,Das Futterhaus Bergheim
+Bergisch Gladbach,das_futterhaus,,unknown,Das Futterhaus Bergisch Gladbach
+Bocholt,das_futterhaus,,unknown,Das Futterhaus Bocholt
+Bochum,das_futterhaus,,unknown,Das Futterhaus Bochum
+Borken,das_futterhaus,,unknown,Das Futterhaus Borken
+Detmold,das_futterhaus,,unknown,Das Futterhaus Detmold
+Dorsten,das_futterhaus,,unknown,Das Futterhaus Dorsten
+Dortmund,das_futterhaus,,unknown,Das Futterhaus Dortmund-Remberg
+Düren,das_futterhaus,,unknown,Das Futterhaus Düren
+Düsseldorf,das_futterhaus,,unknown,Das Futterhaus Düsseldorf
+Emmerich,das_futterhaus,,unknown,Das Futterhaus Emmerich
+Engelskirchen,das_futterhaus,,unknown,Das Futterhaus Engelskirchen
+Erkelenz,das_futterhaus,,unknown,Das Futterhaus Erkelenz
+Eschweiler,das_futterhaus,,unknown,Das Futterhaus Eschweiler
+Essen-Kray,das_futterhaus,,unknown,Das Futterhaus Essen-Kray
+Euskirchen,das_futterhaus,,unknown,Das Futterhaus Euskirchen
+Gelsenkirchen,das_futterhaus,,unknown,Das Futterhaus Gelsenkirchen
+Grevenbroich,das_futterhaus,,unknown,Das Futterhaus Grevenbroich
+Gronau,das_futterhaus,,unknown,Das Futterhaus Gronau
+Hamm,das_futterhaus,,unknown,Das Futterhaus Hamm-Heessen
+Heinsberg,das_futterhaus,,unknown,Das Futterhaus Heinsberg
+Hennef,das_futterhaus,,unknown,Das Futterhaus Hennef
+Holzwickede,das_futterhaus,,unknown,Das Futterhaus Holzwickede
+Hückelhoven,das_futterhaus,,unknown,Das Futterhaus Hückelhoven
+Kamen,das_futterhaus,,unknown,Das Futterhaus Kamen
+Kerpen,das_futterhaus,,unknown,Das Futterhaus Kerpen
+Kevelaer,das_futterhaus,,unknown,Das Futterhaus Kevelaer
+Köln,das_futterhaus,,unknown,Das Futterhaus Köln
+Kranenburg,das_futterhaus,,unknown,Das Futterhaus Kranenburg
+Krefeld,das_futterhaus,,unknown,Das Futterhaus Krefeld
+Lemgo,das_futterhaus,,unknown,Das Futterhaus Lemgo
+Leverkusen,das_futterhaus,,unknown,Das Futterhaus Leverkusen
+Lohmar,das_futterhaus,,unknown,Das Futterhaus Lohmar
+Lüdenscheid,das_futterhaus,,unknown,Das Futterhaus Lüdenscheid
+Lünen,das_futterhaus,,unknown,Das Futterhaus Lünen
+Meerbusch-Osterath,das_futterhaus,,unknown,Das Futterhaus Meerbusch-Osterath
+Mettmann,das_futterhaus,,unknown,Das Futterhaus Mettmann
+Moers,das_futterhaus,,unknown,Das Futterhaus Moers
+Monschau-Imgenbroich,das_futterhaus,,unknown,Das Futterhaus Monschau
+Mülheim an der Ruhr,das_futterhaus,,unknown,Das Futterhaus Mülheim Speldorf
+Neuss,das_futterhaus,,unknown,Das Futterhaus Neuss
+Nideggen,das_futterhaus,,unknown,Das Futterhaus Nideggen
+Niederkassel,das_futterhaus,,unknown,Das Futterhaus Niederkassel
+Oberhausen,das_futterhaus,,unknown,Das Futterhaus Oberhausen
+Oelde,das_futterhaus,,unknown,Das Futterhaus Oelde
+Paderborn,das_futterhaus,,unknown,Das Futterhaus Paderborn
+Porta Westfalica-Barkhausen,das_futterhaus,,unknown,Das Futterhaus Porta Westfalica-Barkhausen
+Recklinghausen,das_futterhaus,,unknown,Das Futterhaus Recklinghausen
+Rheinberg,das_futterhaus,,unknown,Das Futterhaus Rheinberg
+Rheine,das_futterhaus,,unknown,Das Futterhaus Rheine
+Sankt Augustin,das_futterhaus,,unknown,Das Futterhaus Sankt Augustin
+Siegburg-Stallberg,das_futterhaus,,unknown,Das Futterhaus Siegburg-Stallberg
+Soest,das_futterhaus,,unknown,Das Futterhaus Soest
+Solingen,das_futterhaus,,unknown,Das Futterhaus Solingen
+Tüddern,das_futterhaus,,unknown,Das Futterhaus Tüddern
+Velbert,das_futterhaus,,unknown,Das Futterhaus Velbert
+Viersen-Dülken,das_futterhaus,,unknown,Das Futterhaus Viersen-Dülken
+Warstein,das_futterhaus,,unknown,Das Futterhaus Warstein
+Wesel,das_futterhaus,,unknown,Das Futterhaus Wesel
+Wesseling,das_futterhaus,,unknown,Das Futterhaus Wesseling
+Wipperfürth,das_futterhaus,,unknown,Das Futterhaus Wipperfürth
+Witten,das_futterhaus,,unknown,Das Futterhaus Witten
+Wuppertal,das_futterhaus,,unknown,Das Futterhaus Wuppertal-Wichlinghausen
+Köln,deloitte,,unknown,Deloitte - Köln
+Düsseldorf,deloitte,,unknown,Deloitte - Düsseldorf
+11111,hema,,unknown,HEMA
+Neuss   (DE),hema,,unknown,HEMA
+Essen   (DE),hema,,unknown,HEMA
+Mülheim am Ruhr    (DE),hema,,unknown,HEMA
+Köln,hema,,unknown,HEMA
+Bonn,hema,,unknown,HEMA
+Oberhausen,hema,,unknown,HEMA
+Düsseldorf,hema,,unknown,HEMA
+Dinxperlo,hema,,unknown,HEMA
+Glanerbrug,hema,,unknown,HEMA
+Regierungsbezirk Munster,ich_tanke_strom,Jacksonring 24  48429 Rheine,unknown,unknown
+Regierungsbezirk Dusseldorf,ich_tanke_strom,Uellendahler Str. 477  42109 Wuppertal,unknown,unknown
+unknown,ich_tanke_strom,Schlückinger Weg 1b  59457 Werl,unknown,unknown
+Regierungsbezirk Koln,ich_tanke_strom,Sövener Str. 60  53773 Hennef (Sieg),unknown,unknown
+unknown,ich_tanke_strom,Schlückinger Weg 1A  59457 Werl,unknown,unknown
+Regierungsbezirk Koln,ich_tanke_strom,Neuensaaler Str. 46  51515 Kürten,unknown,unknown
+Regierungsbezirk Koln,ich_tanke_strom,Max-Planck-Straße 22  50858 Köln,unknown,unknown
+Regierungsbezirk Dusseldorf,ich_tanke_strom,u. Wernerstraße 66a  42651 Solingen,unknown,unknown
+Regierungsbezirk Koln,ich_tanke_strom,Petunienweg 1  50127 Bergheim,unknown,unknown
+unknown,ich_tanke_strom,Recklinghäuser Str. 22  45739 Oer-Erkenschwick,unknown,unknown
+Regierungsbezirk Munster,ich_tanke_strom,Hermann-Schulze-Delitzsch-Straße 2  59394 Nordkirchen,unknown,unknown
+unknown,ich_tanke_strom,Otto-Hahn-Straße 2  50169 Kerpen,unknown,unknown
+unknown,ich_tanke_strom,Ortrudstraße 4  45892 Gelsenkirchen,unknown,unknown
+Regierungsbezirk Munster,ich_tanke_strom,Hagemannstraße 3  45657 Recklinghausen,unknown,unknown
+unknown,ich_tanke_strom,Buschstraße 71  45739 Oer-Erkenschwick,unknown,unknown
+Regierungsbezirk Detmold,ich_tanke_strom,Brockensklee 24  33154 Salzkotten,unknown,unknown
+Regierungsbezirk Koln,ich_tanke_strom,Heidklift 3  50181 Bedburg,unknown,unknown
+Regierungsbezirk Detmold,ich_tanke_strom,Lügder Straße 5  33699 Bielefeld Ubbedissen,unknown,unknown
+Regierungsbezirk Detmold,ich_tanke_strom,Hölzerne Klinke 1  34414 Warburg,unknown,unknown
+unknown,ich_tanke_strom,Hauptstraße 2  34434 Borgentreich,unknown,unknown
+unknown,ich_tanke_strom,Recklinghäuser Str. 24  45739 Oer-Erkenschwick,unknown,unknown
+unknown,ich_tanke_strom,Industriestraße 16  45711 Datteln Datteln,unknown,unknown
+Regierungsbezirk Arnsberg,ich_tanke_strom,59457 Werl  - Deutschland,unknown,unknown
+Regierungsbezirk Dusseldorf,ich_tanke_strom,Hafenstraße 101  45356 Essen,unknown,unknown
+Regierungsbezirk Arnsberg,ich_tanke_strom,Hauptstraße 218  59846 Sundern (Sauerland),unknown,unknown
+Regierungsbezirk Detmold,ich_tanke_strom,Lavelsloher Str. 17  31603 Diepenau,unknown,unknown
+Regierungsbezirk Detmold,ich_tanke_strom,Holter Str. 112  33758 Schloß Holte-Stukenbrock,unknown,unknown
+unknown,ich_tanke_strom,Industriestraße 20  45711 Datteln,unknown,unknown
+unknown,ich_tanke_strom,Nethetalstraße 27  33034 Brakel,unknown,unknown
+Regierungsbezirk Dusseldorf,ich_tanke_strom,Einsteinstraße 2  41564 Kaarst,unknown,unknown
+unknown,ich_tanke_strom,Heerstraße 20  44653 Herne,unknown,unknown
+Regierungsbezirk Detmold,ich_tanke_strom,Thuner Weg 56  33104 Paderborn,unknown,unknown
+Regierungsbezirk Koln,ich_tanke_strom,Marienstraße 29  52399 Merzenich,unknown,unknown
+unknown,ich_tanke_strom,Schlückinger Weg 1  59457 Werl,unknown,unknown
+Regierungsbezirk Detmold,ich_tanke_strom,Wagenfeldstraße 2  33332 Gütersloh,unknown,unknown
+unknown,ich_tanke_strom,Herforder Str. 120  32257 Bünde,unknown,unknown
+Regierungsbezirk Munster,ich_tanke_strom,Jacksonring 28  48429 Rheine,unknown,unknown
+Regierungsbezirk Koln,ich_tanke_strom,Torbitze 5  53721 Siegburg,unknown,unknown
+Regierungsbezirk Dusseldorf,ich_tanke_strom,Norbertstraße 2  45131 Essen Stadtbezirke II,unknown,unknown
+Regierungsbezirk Detmold,ich_tanke_strom,Lindenstraße 11  32832 Augustdorf,unknown,unknown
+Regierungsbezirk Dusseldorf,ionity,,unknown,Hamminkeln
+unknown,ionity,,unknown,Marl
+Remscheid,ionity,,unknown,Remscheid Ost
+Regierungsbezirk Arnsberg,ionity,,unknown,Lippetal
+Regierungsbezirk Detmold,ionity,,unknown,Porta Westfalica
+Regierungsbezirk Munster,ionity,,unknown,Salzbergen
+Mülheim an der Ruhr,nordsee,,unknown,NORDSEE Mülheim Forum City
+Münster,nordsee,,unknown,NORDSEE Münster Ludgeristraße
+Hamm,nordsee,,unknown,NORDSEE Autobahnraststätte Rhynern Süd
+Bochum,nordsee,,unknown,"NORDSEE Bochum Ruhrpark, Food Corner"
+Gelsenkirchen,nordsee,,unknown,NORDSEE Gelsenkirchen Hochstraße
+Hagen,nordsee,,unknown,NORDSEE Hagen Elberfelderstraße
+Essen,nordsee,,unknown,NORDSEE Essen Limbecker Platz
+Moers,nordsee,,unknown,NORDSEE Moers Steinstraße
+Wuppertal,nordsee,,unknown,NORDSEE Wuppertal City Arkaden
+Mönchengladbach,nordsee,,unknown,NORDSEE Mönchengladbach Hindenburgstraße
+Oberhausen,nordsee,,unknown,NORDSEE Oberhausen Centro
+Düsseldorf,nordsee,,unknown,NORDSEE Düsseldorf Hauptbahnhof
+Neuss,nordsee,,unknown,NORDSEE Neuss Rheinpark-Center
+Bad Oeynhausen,nordsee,,unknown,NORDSEE Bad Oeynhausen
+Minden,nordsee,,unknown,NORDSEE Minden Bäckerstraße
+Paderborn,nordsee,,unknown,NORDSEE Paderborn Südring
+Siegburg,nordsee,,unknown,NORDSEE Siegburg Kaiserstraße
+Bonn,nordsee,,unknown,NORDSEE Bonn Poststraße
+Leverkusen,nordsee,,unknown,NORDSEE Leverkusen Rathaus Galerie
+Siegen,nordsee,,unknown,NORDSEE Siegen City Galerie
+Köln,nordsee,,unknown,NORDSEE Köln Chorweiler
+Remscheid,nordsee,,unknown,NORDSEE Remscheid Allee-Center
+Aachen,nordsee,,unknown,NORDSEE Aachen Adalbertstraße
+Lüdenscheid,nordsee,,unknown,NORDSEE Autobahnraststätte Sauerland West
+Iserlohn,nordsee,,unknown,NORDSEE Iserlohn Wermingser Straße
+Dortmund,nordsee,,unknown,NORDSEE Dortmund Westenhellweg
+Bottrop,nordsee,,unknown,NORDSEE Autobahnraststätte Bottrop Süd
+Freudenberg,nordsee,,unknown,NORDSEE Autobahnraststätte Siegerland Ost
+Bielefeld,nordsee,,unknown,NORDSEE Autobahnraststätte Lipperland Süd
+Rheinbach,nordsee,,unknown,NORDSEE Autobahnraststätte Peppenhoven Ost
+Duisburg,nordsee,,unknown,NORDSEE Duisburg Hauptbahnhof
+Recklinghausen,nordsee,,unknown,NORDSEE Recklinghausen Löhrhof
+Leverkusen,orlen,,unknown,STAR Tankstelle 438
+Ahlen,orlen,,unknown,STAR Tankstelle 838
+Dorsten,orlen,,unknown,STAR Tankstelle 470
+Selfkant,orlen,,unknown,STAR Tankstelle 843
+Krefeld,orlen,,unknown,STAR Tankstelle 663
+Remscheid,orlen,,unknown,STAR Tankstelle 667
+Detmold,orlen,,unknown,STAR Tankstelle 135
+Hamm,orlen,,unknown,STAR Tankstelle 413
+Minden,orlen,,unknown,STAR Tankstelle 415
+Bad Oeynhausen,orlen,,unknown,STAR Tankstelle 126
+Horstmar,orlen,,unknown,STAR Tankstelle 128
+Wülfrath,orlen,,unknown,STAR Tankstelle 130
+Dülmen,orlen,,unknown,STAR Tankstelle 132
+Rheda-Wiedenbrück,orlen,,unknown,STAR Tankstelle 133
+Velbert,orlen,,unknown,STAR Tankstelle 141
+Bielefeld,orlen,,unknown,STAR Tankstelle 691
+Hemer,orlen,,unknown,STAR Tankstelle 272
+Verl,orlen,,unknown,STAR Tankstelle 139
+Mönchengladbach,orlen,,unknown,STAR Tankstelle 448
+Dortmund,orlen,,unknown,STAR Tankstelle 613
+Enger,orlen,,unknown,STAR Tankstelle 144
+Bad Salzuflen,orlen,,unknown,STAR Tankstelle 145
+Leopoldshöhe,orlen,,unknown,STAR Tankstelle 150
+Geseke,orlen,,unknown,STAR Tankstelle 153
+Werdohl,orlen,,unknown,STAR Tankstelle 156
+Lage,orlen,,unknown,STAR Tankstelle 161
+Bedburg-Hau,orlen,,unknown,STAR Tankstelle 237
+Kerpen,orlen,,unknown,STAR Tankstelle 261
+Dormagen,orlen,,unknown,STAR Tankstelle 268
+Kreuztal,orlen,,unknown,STAR Tankstelle 344
+Waltrop,orlen,,unknown,STAR Tankstelle 698
+Kürten,orlen,,unknown,STAR Tankstelle 288
+Düren,orlen,,unknown,STAR Tankstelle 543
+Bergisch Gladbach,orlen,,unknown,STAR Tankstelle 623
+Geldern,orlen,,unknown,STAR Tankstelle 557
+Bochum,orlen,,unknown,STAR Tankstelle 651
+Köln,orlen,,unknown,STAR Tankstelle 595
+Duisburg,orlen,,unknown,STAR Tankstelle 507
+Essen,orlen,,unknown,STAR Tankstelle 625
+Gelsenkirchen,orlen,,unknown,STAR Tankstelle 656
+Wesel,orlen,,unknown,STAR Tankstelle 342
+Dinslaken,orlen,,unknown,STAR Tankstelle 340
+Oberhausen,orlen,,unknown,STAR Tankstelle 587
+Kamp-Lintfort,orlen,,unknown,STAR Tankstelle 351
+Siegen,orlen,,unknown,STAR Tankstelle 553
+Menden,orlen,,unknown,ORLEN Tankstelle 357
+Castrop-Rauxel,orlen,,unknown,STAR Tankstelle 360
+Herne,orlen,,unknown,STAR Tankstelle 361
+Werl,orlen,,unknown,STAR Tankstelle 363
+Bocholt,orlen,,unknown,STAR Tankstelle 372
+Willebadessen,orlen,,unknown,STAR Tankstelle 381
+Lichtenau,orlen,,unknown,STAR Tankstelle 382
+Sprockhövel,orlen,,unknown,STAR Tankstelle 383
+Wuppertal,orlen,,unknown,STAR Tankstelle 682
+Düsseldorf,orlen,,unknown,STAR Tankstelle 399
+Langenfeld,orlen,,unknown,STAR Tankstelle 580
+Bünde,orlen,,unknown,STAR Tankstelle 396
+Solingen,orlen,,unknown,STAR Tankstelle 680
+Aachen,orlen,,unknown,STAR Tankstelle 402
+Dörentrup,orlen,,unknown,STAR Tankstelle 403
+Gummersbach,orlen,,unknown,STAR Tankstelle 405
+Ratingen,orlen,,unknown,STAR Tankstelle 407
+Lotte,orlen,,unknown,STAR Tankstelle 411
+Kaarst,orlen,,unknown,STAR Tankstelle 428
+Erwitte,orlen,,unknown,STAR Tankstelle 421
+Vreden,orlen,,unknown,STAR Tankstelle 423
+Wesseling,orlen,,unknown,STAR Tankstelle 426
+Bönen,orlen,,unknown,ORLEN Tankstelle 427
+Münster,orlen,,unknown,STAR Tankstelle 431
+Siegburg,orlen,,unknown,STAR Tankstelle 441
+Hilden,orlen,,unknown,STAR Tankstelle 433
+Eschweiler,orlen,,unknown,STAR Tankstelle 434
+Hürth,orlen,,unknown,STAR Tankstelle 435
+Beckum,orlen,,unknown,STAR Tankstelle 437
+Havixbeck,orlen,,unknown,STAR Tankstelle 439
+Lippstadt,orlen,,unknown,STAR Tankstelle 598
+Schwerte,orlen,,unknown,STAR Tankstelle 579
+Everswinkel,orlen,,unknown,STAR Tankstelle 457
+Voerde,orlen,,unknown,STAR Tankstelle 575
+Meckenheim,orlen,,unknown,STAR Tankstelle 479
+Velen,orlen,,unknown,STAR Tankstelle 483
+Neuss,orlen,,unknown,ORLEN Tankstelle 585
+Pulheim,orlen,,unknown,STAR Tankstelle 574
+Wermelskirchen,orlen,,unknown,STAR Tankstelle 486
+Sankt Augustin,orlen,,unknown,STAR Tankstelle 490
+Moers,orlen,,unknown,STAR Tankstelle 494
+Waldbröl,orlen,,unknown,STAR Tankstelle 495
+Bonn,orlen,,unknown,STAR Tankstelle 496
+Marienheide,orlen,,unknown,STAR Tankstelle 519
+Olpe,orlen,,unknown,STAR Tankstelle 520
+Hagen,orlen,,unknown,STAR Tankstelle 522
+Emsdetten,orlen,,unknown,STAR Tankstelle 542
+Geilenkirchen,orlen,,unknown,STAR Tankstelle 546
+Mülheim,orlen,,unknown,STAR Tankstelle 664
+Marl,orlen,,unknown,STAR Tankstelle 567
+Rheine,orlen,,unknown,STAR Tankstelle 673
+Mettmann,orlen,,unknown,STAR Tankstelle 573
+Büren,orlen,,unknown,STAR Tankstelle 578
+Frechen,orlen,,unknown,STAR Tankstelle 583
+Meinerzhagen,orlen,,unknown,STAR Tankstelle 588
+Halver,orlen,,unknown,STAR Tankstelle 589
+Freudenberg,orlen,,unknown,STAR Tankstelle 596
+Lüdenscheid,orlen,,unknown,STAR Tankstelle 605
+Unna,orlen,,unknown,STAR Tankstelle 616
+Kamen,orlen,,unknown,STAR Tankstelle 624
+Altenberge,orlen,,unknown,STAR Tankstelle 665
+Coesfeld,orlen,,unknown,STAR Tankstelle 674
+Höxter,orlen,,unknown,STAR Tankstelle 689
+Medebach,orlen,,unknown,STAR Tankstelle 693
+Kalletal,orlen,,unknown,STAR Tankstelle 695
+Schlangen,orlen,,unknown,STAR Tankstelle 703
+Bergheim,orlen,,unknown,STAR Tankstelle 715
+Lennestadt,orlen,,unknown,STAR Tankstelle 077
+Ibbenbüren,orlen,,unknown,STAR Tankstelle 083
+Bergneustadt,orlen,,unknown,STAR Tankstelle 781
+Regierungsbezirk Munster,pepco,,unknown,Pepco
+unknown,pepco,,unknown,Pepco
+Regierungsbezirk Dusseldorf,pepco,,unknown,Pepco
+Aachen,starbucks_eu,Markt 35 52062 Aachen,unknown,Aachen Markt
+Aachen,starbucks_eu,Adalberstr 100 52062 Aachen,unknown,"Aachen, Aquis Plaza"
+Monchengladbach,starbucks_eu,Hindenburgstrasse 73 41061 Monchengladbach,unknown,"Monchengladbach, Minto"
+Bonn,starbucks_eu,Landgrabenweg 151 53227 Bonn,unknown,"Bonn, T-Mobile Hauptverwaltung"
+Bonn,starbucks_eu,Muensterplatz 21 53111 Bonn,unknown,"Bonn, Muensterplatz"
+Bonn,starbucks_eu,Poststrae 2 53111 Bonn,unknown,"Bonn, Urban Soul"
+Koeln,starbucks_eu,Terminal 1 CGN-COLOGNE AIRPORT CGN-COLOGNE AIRPORT 51147 Koeln,unknown,"Koeln, CGN Flughafen Koln Bonn T1"
+Koeln,starbucks_eu,Aachener Strasse 1253 50858 Koeln,unknown,"Koeln, Rhein Center"
+Koeln,starbucks_eu,Guerzenichstr 21 a c 50667 Koeln,unknown,"Koeln, Guerzenichstr"
+Koeln,starbucks_eu,Trankgasse 11 50667 Koeln,unknown,Koeln Hauptbahnhof Colonaden
+Cologne,starbucks_eu,Neumarkt 1a 50667 Cologne,unknown,"Cologne, Neumarkt New"
+Koeln,starbucks_eu,Hohenzollernring 70 50672 Koeln,unknown,"Koeln, Ring Karree"
+Duesseldorf,starbucks_eu,Erkrather Strasse 364 40231 Duesseldorf,unknown,"Duesseldorf, Erkrather Strasse"
+Duisburg,starbucks_eu,Mercatorstrasse 19 25 47051 Duisburg,unknown,Duisburg Hauptbahnhof
+Oberhausen,starbucks_eu,CENTRO-ALLEE 5 46047 Oberhausen,unknown,"Oberhausen, Centro EG"
+Oberhausen,starbucks_eu,Centro Allee 5 46047 Oberhausen,unknown,Centro Kiosk 1.Obergeschoss
+Essen,starbucks_eu,Limbecker Platz 1a 45127 Essen,unknown,"Essen, Limbecker Platz"
+Essen,starbucks_eu,Am Hauptbahnhof 5 45130 Essen,unknown,Essen Hauptbahnhof
+Bochum,starbucks_eu,Dr Ruer Platz 6 7 44787 Bochum,unknown,"Bochum, Dr.Ruer Platz"
+Ochtrup,starbucks_eu,Laurenzstrasse 51 55 48607 Ochtrup,unknown,Designer Outlet Ochtrup
+Dortmund,starbucks_eu,Westenhellweg 102 106 44137 Dortmund,unknown,"Dortmund, Thier Galerie"
+Dortmund,starbucks_eu,Markt 6 44137 Dortmund,unknown,"Dortmund, Markt 6"
+Bielefeld,starbucks_eu,Niedernstrasse 41 33602 Bielefeld,unknown,"Bielefeld, Niedernstrasse 41"
+Duesseldorf,starbucks_eu,Flughafenstrasse 120 40474 Duesseldorf,unknown,DUS Flughafen Terminal B Landside
+Duesseldorf,starbucks_eu,Schadowstrasse 11 40212 Duesseldorf,unknown,"Duesseldorf, Schadow Arkaden"
+Dusseldorf,starbucks_eu,Steinstrasse 1 3 40212 Dusseldorf,unknown,"Dusseldorf, Steinstrasse 1-3"
+Duesseldorf,starbucks_eu,Konrad Adenauer Platz 14 40210 Duesseldorf,unknown,Duesseldorf Hauptbahnhof
+Wuppertal,starbucks_eu,Alte Freiheit 27 28 42103 Wuppertal,unknown,"Wuppertal, City Plaza"
+48143 Münster,starbucks_eu,Berliner Platz 21-23 48143 Münster,unknown,Münster Hauptbahnhof
+Muenster,starbucks_eu,Stubengasse 38 48143 Muenster,unknown,"Muenster, Hanse Carree"
+Siegen,starbucks_eu,Am Bahnhof 40 57072 Siegen,unknown,"Siegen, City Galerie"
+Minden,thomas_philipps,,unknown,Thomas Philipps Minden
+Lemgo,thomas_philipps,,unknown,Thomas Philipps Lemgo
+Bad Oeynhausen,thomas_philipps,,unknown,Thomas Philipps Bad Oeynhausen
+Bünde,thomas_philipps,,unknown,Thomas Philipps Bünde
+Brilon,thomas_philipps,,unknown,Thomas Philipps Brilon
+Erwitte,thomas_philipps,,unknown,Thomas Philipps Erwitte
+Beelen,thomas_philipps,,unknown,Thomas Philipps Beelen
+Arnsberg,thomas_philipps,,unknown,Thomas Philipps Arnsberg
+Hamm,thomas_philipps,,unknown,Thomas Philipps Hamm - Bockum - Hövel
+Emsdetten,thomas_philipps,,unknown,Thomas Philipps Emsdetten
+Dortmund,thomas_philipps,,unknown,Thomas Philipps Dortmund-Derne
+Kreuztal,thomas_philipps,,unknown,Thomas Philipps Kreuztal
+Iserlohn,thomas_philipps,,unknown,Thomas Philipps Iserlohn
+Selm,thomas_philipps,,unknown,Thomas Philipps Selm
+Neunkirchen,thomas_philipps,,unknown,Thomas Philipps Neunkirchen
+Schöppingen,thomas_philipps,,unknown,Thomas Philipps Schöppingen
+Castrop-Rauxel,thomas_philipps,,unknown,Thomas Philipps Castrop-Rauxel
+Oer-Erkenschwick,thomas_philipps,,unknown,Thomas Philipps Oer-Erkenschwick
+Bochum,thomas_philipps,,unknown,Thomas Philipps Bochum-Gerthe 
+Marl,thomas_philipps,,unknown,Thomas Philipps Marl 
+Stadtlohn,thomas_philipps,,unknown,Thomas Philipps Stadtlohn
+Wuppertal,thomas_philipps,,unknown,Thomas Philipps Wuppertal-Hesselnberg 
+Essen,thomas_philipps,,unknown,Thomas Philipps Essen- Altenessen
+Bottrop,thomas_philipps,,unknown,Thomas Philipps Bottrop-Gildestraße
+Mülheim,thomas_philipps,,unknown,Thomas Philipps Mülheim-Saarn
+Dinslaken,thomas_philipps,,unknown,Thomas Philipps Dinslaken
+Leverkusen,thomas_philipps,,unknown,Thomas Philipps Leverkusen-Fixheide
+Wesel,thomas_philipps,,unknown,Thomas Philipps Wesel
+Düsseldorf-Rath,thomas_philipps,,unknown,Thomas Philipps Düsseldorf-Rath
+Dormagen,thomas_philipps,,unknown,Thomas Philipps Dormagen
+Rees,thomas_philipps,,unknown,Thomas Philipps Rees
+Frechen,thomas_philipps,,unknown,Thomas Philipps Frechen
+Rommerskirchen,thomas_philipps,,unknown,Thomas Philipps Rommerskirchen
+Geldern,thomas_philipps,,unknown,Thomas Philipps Geldern
+Kerpen,thomas_philipps,,unknown,Thomas Philipps Kerpen
+Kleve,thomas_philipps,,unknown,Thomas Philipps Kleve
+Euskirchen,thomas_philipps,,unknown,Thomas Philipps Euskirchen
+Goch,thomas_philipps,,unknown,Thomas Philipps Goch
+Erkelenz,thomas_philipps,,unknown,Thomas Philipps Erkelenz
+Eschweiler,thomas_philipps,,unknown,Thomas Philipps Eschweiler
+Übach-Palenberg,thomas_philipps,,unknown,Thomas Philipps Übach-Palenberg
+Simmerath,thomas_philipps,,unknown,Thomas Philipps Simmerath
+Regierungsbezirk Dusseldorf,tier,,unknown,Tier
+Regierungsbezirk Koln,tier,,unknown,Tier
+Regierungsbezirk Arnsberg,tier,,unknown,Tier
+Regierungsbezirk Detmold,tier,,unknown,Tier
+Regierungsbezirk Munster,tier,,unknown,Tier
+unknown,tier,,unknown,Tier
+Koln,western_union,,unknown,ROMEO SCHREIBWAREN & KIOSK
+Alsdorf,western_union,,unknown,KIOSK BEI SAM
+Herzogenrath,western_union,,unknown,POSTFILIALE TOYCU
+Wurselen,western_union,,unknown,DIVA65
+Monchengladbach,western_union,,unknown,HAGOS KIOSK
+Haan,western_union,,unknown,FLASH HANDY REPARATUR
+Werdohl,western_union,,unknown,MY CITY SHOP
+Ludenscheid,western_union,,unknown,ARIANA CALLSHOP
+Solingen,western_union,,unknown,MOBILE CITY
+Remscheid,western_union,,unknown,KIOSK 4 ALL
+Neuss,western_union,,unknown,TREND MAKER
+Wuppertal,western_union,,unknown,STAR ELEKTRONIK GMBH
+Wulfrath,western_union,,unknown,HANDY SHOP AND MORE
+Mettmann,western_union,,unknown,KIOSK METTMANN
+Dusseldorf,western_union,,unknown,KIOSK ENDSTATION
+Hagen,western_union,,unknown,MY MOBILE
+Paderborn,western_union,,unknown,FURAT STORE
+Velbert,western_union,,unknown,KIOSK KESER
+Krefeld,western_union,,unknown,NIHAD S LAST MINUTE SHOP
+Unna,western_union,,unknown,KIOSK AM BAHNHOF
+Dortmund,western_union,,unknown,BCN TRAVELS
+Duisburg,western_union,,unknown,PHONE STOP
+Essen,western_union,,unknown,CITY KIOSK
+Herne,western_union,,unknown,HANDY WORLD
+Gelsenkirchen,western_union,,unknown,ONE MOBILE S
+Moers,western_union,,unknown,MEGASHOP
+Bochum,western_union,,unknown,AL SHAHBA MARKT
+Oberhausen,western_union,,unknown,HANDY SHOP & MORE
+Waltrop,western_union,,unknown,KIOSK
+Dinslaken,western_union,,unknown,CHECKPOINT
+Munster,western_union,,unknown,NATASCHA FASHION

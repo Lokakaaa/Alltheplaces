@@ -1,0 +1,460 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,5
+TERMINALBUILDING,avis,Vientiane,1
+BANHAYSOKE,avis,Vientiane,1
+MEETGREET,avis,Pakse,1
+MEETGREET,avis,Luang Prabang,1
+LUANGPRABANG,avis,Luang Prabang,1
+THANON12RD,avis,Pakse,1
+UNKNOWN,bmw_group,Vientiane,1
+VIENTIANE,deloitte,Vientiane Capital,1
+VIENTIANE,ernst_young,Vientiane,1
+UNKNOWN,ford,Vientiane,4
+UNKNOWN,hardrock,Vientiane,1
+VIENTIANE,ich_tanke_strom,unknown,1
+UNKNOWN,la_porchetta,unknown,43
+UNKNOWN,little_free_library,Vientiane,1
+UNKNOWN,man_truck_and_bus,Singapore,1
+UNKNOWN,man_truck_and_bus,Vientiane,1
+UNKNOWN,moneygram,XATSETTHA,1
+UNKNOWN,moneygram,VIENTIANE,94
+UNKNOWN,moneygram,PHIENG,3
+UNKNOWN,moneygram,KHONG,5
+UNKNOWN,moneygram,DAKJEUNG,1
+UNKNOWN,moneygram,CHANTHABOULY,19
+UNKNOWN,moneygram,SAVANNAKHET,3
+UNKNOWN,moneygram,XAYTHANY,35
+UNKNOWN,moneygram,PAKSANE,1
+UNKNOWN,moneygram,PHON THONG,1
+UNKNOWN,moneygram,OUTHOUMPHONE,2
+UNKNOWN,moneygram,VIENGKHAM,3
+UNKNOWN,moneygram,LUANG PRABANG,3
+UNKNOWN,moneygram,BOTEAN,1
+UNKNOWN,moneygram,HINBUON,1
+UNKNOWN,moneygram,TONPHERNG,1
+UNKNOWN,moneygram,PARKADING,1
+UNKNOWN,moneygram,PEK,10
+UNKNOWN,moneygram,XAYTHANI,2
+UNKNOWN,moneygram,XAYABOULY,4
+UNKNOWN,moneygram,VANG VIENG,6
+UNKNOWN,moneygram,HOUYSAY,1
+UNKNOWN,moneygram,SAY,1
+UNKNOWN,moneygram,PAK SE,12
+UNKNOWN,moneygram,NAXAYTHONG,2
+UNKNOWN,moneygram,PAEK,4
+UNKNOWN,moneygram,ANOUVONG,3
+UNKNOWN,moneygram,THA THOM,1
+UNKNOWN,moneygram,NAN,1
+UNKNOWN,moneygram,HOM,2
+UNKNOWN,moneygram,HATSAIFONG,7
+UNKNOWN,moneygram,LUANGNAMTHA,4
+UNKNOWN,moneygram,HATXAIFONG,1
+UNKNOWN,moneygram,XAYSETTHA,23
+UNKNOWN,moneygram,SIKHOTTABONG,12
+UNKNOWN,moneygram,KAISONPHOMVIHAN,2
+UNKNOWN,moneygram,SISATTANAR,1
+UNKNOWN,moneygram,PHONTHONG,3
+UNKNOWN,moneygram,NAKHONPAKSE,4
+UNKNOWN,moneygram,LONGSAN,3
+UNKNOWN,moneygram,KHONG SEDON,1
+UNKNOWN,moneygram,PHONHONG,8
+UNKNOWN,moneygram,KAYSONEPHOMVIHANE,7
+UNKNOWN,moneygram,KHUN,1
+UNKNOWN,moneygram,HAUYXAY,1
+UNKNOWN,moneygram,VIENTIANE CAPITAL,26
+UNKNOWN,moneygram,KHOUN,4
+UNKNOWN,moneygram,LONGCHEANG,1
+UNKNOWN,moneygram,KHONGSEDON,1
+UNKNOWN,moneygram,THATHOM,1
+UNKNOWN,moneygram,PEAK,1
+UNKNOWN,moneygram,CHAMPASAK,8
+UNKNOWN,moneygram,KENTHAO,4
+UNKNOWN,moneygram,M.KHONG,1
+UNKNOWN,moneygram,M. XAYTHANY,1
+UNKNOWN,moneygram,SAYSETTHA,5
+UNKNOWN,moneygram,M SAYTHANY,1
+UNKNOWN,moneygram,SISATTANAK,12
+UNKNOWN,moneygram,NAKAI,1
+UNKNOWN,moneygram,SAMNUEA,2
+UNKNOWN,moneygram,NASAITHONG,2
+UNKNOWN,moneygram,KHOP,1
+UNKNOWN,moneygram,NAXAITHONG,7
+UNKNOWN,moneygram,SIKODTABONG,1
+UNKNOWN,moneygram,PAKSE,8
+UNKNOWN,moneygram,XIENGHONE,2
+UNKNOWN,moneygram,THOULAKHOM,7
+UNKNOWN,moneygram,XANAKHAM,1
+UNKNOWN,moneygram,SEPON,1
+UNKNOWN,moneygram,LOUANGNAMTHA,2
+UNKNOWN,moneygram,HUAYXAI,3
+UNKNOWN,moneygram,PAKLAI,2
+UNKNOWN,moneygram,VIENGTHONG,1
+UNKNOWN,moneygram,NGUEN,1
+UNKNOWN,moneygram,VIENGXAY,1
+UNKNOWN,moneygram,KASI,2
+UNKNOWN,moneygram,HADXAIFONG,9
+UNKNOWN,moneygram,PAKNGUEM,4
+UNKNOWN,moneygram,VANGVIENG,4
+UNKNOWN,moneygram,BOLIKHANH,1
+UNKNOWN,moneygram,FEUANG,2
+UNKNOWN,moneygram,PAKNGEUM,1
+UNKNOWN,moneygram,BOLIKHAMXAY,10
+UNKNOWN,moneygram,LAUNGPRABANG,6
+UNKNOWN,moneygram,XAYSOMBOUN,3
+UNKNOWN,moneygram,XAYYABOULY,5
+UNKNOWN,moneygram,BACHIENGCHALEUNSOUK,3
+UNKNOWN,moneygram,NONGBOK,2
+UNKNOWN,moneygram,NAMBAK,4
+UNKNOWN,moneygram,LAMAM,1
+UNKNOWN,moneygram,CHAMPHONE,3
+UNKNOWN,moneygram,SAMAKKHIXAY,3
+UNKNOWN,moneygram,LUANGPRBANG,1
+UNKNOWN,moneygram,VIENTIANE PROVINCE,12
+UNKNOWN,moneygram,KEOOUDOM,1
+UNKNOWN,moneygram,SONGKHONE,5
+UNKNOWN,moneygram,TONPHEUNG,1
+UNKNOWN,moneygram,BOUALAPHA,1
+UNKNOWN,moneygram,ATSAPHANGTHONG,2
+UNKNOWN,moneygram,OUTHOOMPHONE,3
+UNKNOWN,moneygram,MEUN,4
+UNKNOWN,moneygram,CHAMPASAK PROVINCE,3
+UNKNOWN,moneygram,XIENGKHOUANG,4
+UNKNOWN,moneygram,XAYSOMBOUN PROVINCE,3
+UNKNOWN,moneygram,SONG KHONE,2
+UNKNOWN,moneygram,PHIN,1
+UNKNOWN,moneygram,KHONGXEDONE,2
+UNKNOWN,moneygram,MED,2
+UNKNOWN,moneygram,XIENGKHOUANG PROVINCE,13
+UNKNOWN,moneygram,BOLIKHAMXAY PROVINCE,3
+UNKNOWN,moneygram,LUANGPRABANG PROVINCE,7
+UNKNOWN,moneygram,LAKHONEPHENG,1
+UNKNOWN,moneygram,KHAM,1
+UNKNOWN,moneygram,SEPONE,1
+UNKNOWN,moneygram,SARAVANE,2
+UNKNOWN,moneygram,LUANGPRABANG,11
+UNKNOWN,moneygram,XAYTHANY DISTRICT,2
+UNKNOWN,moneygram,VLENTIANE CAPITAL,1
+UNKNOWN,moneygram,SIKOATABONG,1
+UNKNOWN,moneygram,SANASOMBOON,3
+UNKNOWN,moneygram,PAKKADING,4
+UNKNOWN,moneygram,HAUYXAI DISTRICT,1
+UNKNOWN,moneygram,THAPANGTHONG,2
+UNKNOWN,moneygram,XONNABULY,1
+UNKNOWN,moneygram,BOKEO,3
+UNKNOWN,moneygram,VIENTIANE CAPITTAL,2
+UNKNOWN,moneygram,PAK LAI,1
+UNKNOWN,moneygram,PHONE HONG,2
+UNKNOWN,moneygram,XAYBULY,1
+UNKNOWN,moneygram,SENO,1
+UNKNOWN,moneygram,SING,1
+UNKNOWN,moneygram,ANOUVONG DISTRICT,1
+UNKNOWN,moneygram,THAKHEK,3
+UNKNOWN,moneygram,SALAVANH,2
+UNKNOWN,moneygram,BOKEO PROVINCE,2
+UNKNOWN,moneygram,XAMNEUA,4
+UNKNOWN,moneygram,XAY,1
+UNKNOWN,moneygram,THAPHABAD,1
+UNKNOWN,moneygram,HINHERB,1
+UNKNOWN,moneygram,KHUNKHAM,1
+UNKNOWN,moneygram,VIENTAINE,1
+UNKNOWN,moneygram,MOONLAPAMOK,2
+UNKNOWN,moneygram,SANAMXAY,1
+UNKNOWN,moneygram,NAKHONEKAYSONEPHOMVIHANE,1
+UNKNOWN,moneygram,PAKSE DISTRICT,1
+UNKNOWN,moneygram,LOUANG PRABANG,1
+UNKNOWN,moneygram,HATSAYFONG,1
+UNKNOWN,moneygram,PHIANG,1
+UNKNOWN,moneygram,MAUN DISTRICT,1
+UNKNOWN,moneygram,KHAMKEUD,1
+UNKNOWN,moneygram,SISATANAK,1
+UNKNOWN,moneygram,PAKSAN,1
+UNKNOWN,moneygram,PAKBAENG,1
+UNKNOWN,moneygram,KEO-OUDOM,1
+UNKNOWN,moneygram,XAYPHOOTHONG,1
+UNKNOWN,moneygram,BORLIKHAMXAY,2
+UNKNOWN,moneygram,KHAMKERT,1
+UNKNOWN,moneygram,OUDOMXAY,2
+UNKNOWN,moneygram,KAISONEPHOMVIHAN,1
+UNKNOWN,moneygram,LAMARM,2
+UNKNOWN,moneygram,VIENGIANE PROVINCE,1
+UNKNOWN,moneygram,XIENGKHUANG PROVINCE,2
+UNKNOWN,moneygram,BORIKHAMXAY PROVINCE,2
+UNKNOWN,moneygram,HOUAPHAN PROVINCE,1
+UNKNOWN,moneygram,KHAMMOUN,1
+UNKNOWN,moneygram,NONGHED,2
+UNKNOWN,moneygram,AONEUA,1
+UNKNOWN,moneygram,OUDOMXAY PROVINCE,1
+UNKNOWN,moneygram,HAUYXAI,1
+UNKNOWN,moneygram,KHAMKUED,1
+UNKNOWN,moneygram,TONPHUENG,1
+UNKNOWN,moneygram,SAVANNAKHET PROVINCE,1
+UNKNOWN,moneygram,KHONG PROVINCE,1
+UNKNOWN,moneygram,BENG,1
+UNKNOWN,moneygram,KONGSEDON,2
+UNKNOWN,moneygram,XIENGNGEN,1
+UNKNOWN,moneygram,SAVANNAKET,1
+UNKNOWN,moneygram,CAPASAK,1
+UNKNOWN,moneygram,KHAMMOUAN,3
+UNKNOWN,moneygram,OUDOMXAI,1
+UNKNOWN,moneygram,VANGVIANG,1
+UNKNOWN,moneygram,LOUNG NAM THA,1
+UNKNOWN,moneygram,BOLIKHAMSAI,1
+UNKNOWN,moneygram,BOLIKHAN,2
+UNKNOWN,moneygram,MUANG KHAMKEUT,1
+UNKNOWN,moneygram,MUANG FUANG,1
+UNKNOWN,moneygram,ATTOPEU,1
+UNKNOWN,moneygram,XIENG KHOUANG,4
+UNKNOWN,moneygram,SAI NGAM,1
+UNKNOWN,moneygram,PAKXE,1
+UNKNOWN,moneygram,TOURAKOM,1
+UNKNOWN,moneygram,SAMOUAY,1
+UNKNOWN,moneygram,LOUANGPHRABANG,2
+UNKNOWN,moneygram,BAN PAKSAN,1
+UNKNOWN,moneygram,MEUN KA,1
+UNKNOWN,moneygram,PHONG SALY,1
+UNKNOWN,moneygram,HOUAPHANH,1
+UNKNOWN,moneygram,SALAVAN,2
+UNKNOWN,moneygram,SEKONG,2
+UNKNOWN,moneygram,SYKHOTTABONG,2
+UNKNOWN,moneygram,KAYSONEPHOMVIHANH SVANNAKHET,1
+UNKNOWN,moneygram,LOUANGPHABANG,2
+UNKNOWN,moneygram,ODOMXAY,1
+UNKNOWN,moneygram,XAYABOURI,1
+UNKNOWN,moneygram,SANAKAHAM,1
+UNKNOWN,moneygram,HATSAIYPHONG,1
+UNKNOWN,moneygram,SIKOTABONG,1
+UNKNOWN,moneygram,KAYSONEPHOMVIHANH,2
+UNKNOWN,moneygram,HONGSA,1
+UNKNOWN,moneygram,XIANGKHOANG,2
+UNKNOWN,moneygram,NHOMMALATH,1
+UNKNOWN,moneygram,THAKAEK,1
+UNKNOWN,moneygram,OUTHOUMPHONH,1
+UNKNOWN,moneygram,ATSPUNGTHONG,1
+UNKNOWN,moneygram,KANTHABOULY,1
+UNKNOWN,moneygram,NGOY,1
+UNKNOWN,moneygram,PAKSONG DISTRICT,1
+UNKNOWN,moneygram,HOUAPHAN,1
+UNKNOWN,moneygram,XIENGNGERN,1
+UNKNOWN,moneygram,LOUANG NAMTHA,1
+UNKNOWN,moneygram,KHAMKERTH,1
+UNKNOWN,moneygram,KHONGXEDON,1
+UNKNOWN,moneygram,KAYSONE PHOMVIHANH,1
+UNKNOWN,moneygram,NAMOR,1
+UNKNOWN,moneygram,MOK,1
+UNKNOWN,moneygram,PHAXAY,1
+UNKNOWN,moneygram,LONG,1
+UNKNOWN,moneygram,XAYTHANEE,1
+UNKNOWN,moneygram,MORK,1
+UNKNOWN,moneygram,PEK DISTRICT,2
+UNKNOWN,moneygram,BAJIENG,1
+UNKNOWN,moneygram,VILABULY,1
+UNKNOWN,moneygram,PAK SONG,1
+UNKNOWN,moneygram,PEC,1
+UNKNOWN,moneygram,NAKHONKAISONPHOMVIHAN,1
+UNKNOWN,moneygram,PHEUNG,1
+UNKNOWN,sixt,Luang Prabang,1
+UNKNOWN,sixt,Vientiane,1
+UNKNOWN,visa,LUANGPRABANG,6
+LUANGPRABANGPROVINCE,visa,LUANGPRABANG DISTRICT,5
+UNKNOWN,visa,VIENTIANE PRO,3
+VIENTIANEPROVINCE,visa,VANGVIENG DISTRICT,5
+VIENTIANEPRO,visa,XAYSOMBOUN PROVINCE,1
+UNKNOWN,visa,VTE PROVINCE,2
+UNKNOWN,visa,XAYSOMBOUN,3
+XAYSOMBOUNPROVINCE,visa,ANOUVONG DISTRICT,2
+VIENTIANE,visa,VIENTIANE,14
+VIENTIANECAPITAL,visa,SIKHOTTABONG DISTRICT,1
+UNKNOWN,visa,VIENTIANE CAP,16
+VIENTIANECAPITAL,visa,CHANTHABOULI DISTRICT,1
+UNKNOWN,visa,VIENTIANE,21
+VIENTIANECAPITAL,visa,CHANTHABOULY DISTRICT,5
+VIENTIANECAPITAL,visa,SAYTHANY DISTRICT,2
+VIENTIANECAPITAL,visa,SISATTANAK DISTRICT,6
+VIENTIANECAPITAL,visa,SAYSETTHA DISTRICT,2
+VIENTIANECAPITAL,visa,XAYTHANY DISTRICT,1
+UNKNOWN,visa,SAVANNAKHET,2
+SAVANNAKHETPROVINCE,visa,KAISONEPHOMVIHAN DISTRICT,2
+UNKNOWN,visa,SAVANNAKHET PRO,1
+UNKNOWN,visa,CHAMPASAK,2
+CHAMPASACKPROVINCE,visa,PAKSE DISTRICT,2
+VIENTIANE,western_union,Xaysettha District,5
+LUANGPRABANGPROVINCE,western_union,Luangprabang District,3
+UNKNOWN,western_union,Paek District,1
+VIENTIANE,western_union,Xaythany District,7
+SAYABOULYPROVINCE,western_union,Kaenthao District,1
+XAISOMBOUN,western_union,Anouvong,1
+LUANGNAMTHA,western_union,Louangnamtha,7
+LUANGNAMTHA,western_union,Luangnamtha District,1
+LUANGNAMTHA,western_union,Luangnamtha,3
+PHONGSALY,western_union,Bounneua District,1
+PHONGSALY,western_union,Bountai,1
+SAVANNAKHET,western_union,Songkhone,1
+SAVANNAKHET,western_union,Songkhone District,1
+SAVANNAKHET,western_union,Savannakhet,25
+SALAVAN,western_union,Lakhonpheng,1
+SALAVAN,western_union,Salavan,1
+SALAVAN,western_union,Kongsedon,1
+SALAVAN,western_union,Khongsedon,1
+SALAVAN,western_union,Salavane,3
+SALAVAN,western_union,Saravane,8
+CHAMPASACK,western_union,Champasack,21
+SALAVAN,western_union,Laongarm,1
+SEKONG,western_union,Darkcheung,1
+CHAMPASACKPROVINCE,western_union,Phonthong District,1
+CHAMPASACKPROVINCE,western_union,Pakse District,1
+CHAMPASACK,western_union,Champasak,4
+UNKNOWN,western_union,Pakse District,1
+CHAMPASACK,western_union,Pakse,2
+CHAMPASACK,western_union,Bachiangchaleunsook District,1
+SEKONG,western_union,Sekong,5
+CHAMPASACK,western_union,Paksong,1
+CHAMPASACK,western_union,Champasack Lao Pdr,1
+CHAMPASACK,western_union,Moun,1
+CHAMPASACK,western_union,Sukhuma District,1
+ATTAPEU,western_union,Attapue,4
+ATTAPEU,western_union,Samakyxay,1
+SAVANNAKHETPROVINCE,western_union,Xayphouthong District,1
+SAVANNAKHET,western_union,Kaisone,3
+SAVANNAKHET,western_union,Kaisonephomvihan,1
+SAVANNAKHET,western_union,Kaisonphomvihan Province,1
+SAVANNAKHET,western_union,Xayphouthong District,1
+SAVANNAKHET,western_union,Kaisone Phomvihan,1
+SAVANNAKHET,western_union,Kaysonephomevihane,1
+XIANGKHOUANG,western_union,Nonghet,1
+XIANGKHOUANG,western_union,Xiengkhouang,10
+SAVANNAKHET,western_union,Champhone,2
+XIANGKHOUANG,western_union,Xieng Khoung,1
+KHAMMOUANE,western_union,Nongbok,2
+KHAMMOUANE,western_union,Khammoun,1
+BOLIKHAMXAY,western_union,Pakkading,1
+SAVANNAKHET,western_union,Xaybouly,1
+KHAMMOUANE,western_union,Hinboon,1
+KHAMMOUANE,western_union,Khammouan,1
+KHAMMOUANE,western_union,Thakhek,1
+BOLIKHAMXAY,western_union,Bolikhamxay,10
+BOLIKHAMXAY,western_union,Viengthong,2
+SAVANNAKHET,western_union,Savanakhet,1
+KHAMMOUANE,western_union,Khammuane,4
+KHAMMOUANE,western_union,Gnommalath,1
+BOLIKHAMXAY,western_union,Khamkert,1
+BOLIKHAMXAYPROVINCE,western_union,Khamkert District,1
+KHAMMOUANE,western_union,Khammouane,5
+XAIGNABOULI,western_union,Xayabouly,4
+VIENTIANE,western_union,Moungfoueng,1
+XAIGNABOULI,western_union,Xayyabouly,1
+VIENTIANEPREFECTURE,western_union,Muang Fuang District,1
+XAISOMBOUN,western_union,Hom,1
+VIENTIANE,western_union,Vangvieng,2
+XAIGNABOULI,western_union,Phieng District,1
+VIENTIANE,western_union,Vangvieng District,1
+VIENTIANE,western_union,Vientiane,89
+XAISOMBOUN,western_union,Longsan District,1
+XIANGKHOUANG,western_union,Longsan,1
+XAISOMBOUN,western_union,Xaysomboun,1
+XAISOMBOUN,western_union,Longsan,1
+XAIGNABOULI,western_union,Xayyaboury,1
+XAIGNABOULI,western_union,Phiang District,1
+VIENTIANE,western_union,Keo Oudom,1
+VIENTIANEPROVINCE,western_union,Phonhong District,1
+VIENTIANE,western_union,Viengkham,1
+VIENTIANE,western_union,Phonhong,1
+VIENTIANEPROVINCE,western_union,Phonthong District,1
+VIENTIANE,western_union,Phonhong District,2
+VIENTIANE,western_union,Phonehong,2
+XIANGKHOUANG,western_union,Muongmork,1
+XIANGKHOUANG,western_union,Phoukood,1
+XIANGKHOUANG,western_union,Phaxay,1
+HOUAPHANH,western_union,Xiengkor,1
+HOUAPHANH,western_union,Samnuae,1
+XIANGKHOUANG,western_union,Kham District,1
+XIANGKHOUANG,western_union,Muongkham,1
+XIANGKHOUANG,western_union,Xiengkhuang,2
+XIANGKHOUANG,western_union,Khoun,1
+HOUAPHANH,western_union,Houaphan,6
+XAISOMBOUN,western_union,Anouvong District,3
+XIANGKHOUANG,western_union,Phoukout,1
+XIANGKHOUANG,western_union,Paek,2
+XIENGKHUANGPROVINCE,western_union,Paek District,1
+XIANGKHOUANG,western_union,Moungpek,1
+XIANGKHOUANG,western_union,Peak,1
+LUANGPRABANG,western_union,Luangprabang,7
+VIENTIANEPREFECTURE,western_union,Vientiane Capital,8
+XIANGKHOUANG,western_union,Xiengkhoung,1
+VIENTIANEPROVINCE,western_union,Thoulakhom District,1
+VIENTIANEPREFECTURE,western_union,Toulakhom,1
+HOUAPHANH,western_union,Huaphan,1
+XAIGNABOULI,western_union,Xayaboury,9
+LUANGPRABANG,western_union,Xiengngern,1
+LUANGPRABANGPROVINCE,western_union,Nan District,2
+LUANGPRABANG,western_union,Louangprabang,15
+LUANGPRABANG,western_union,Phonxay District,1
+XAIGNABOULI,western_union,Sayabouly,1
+LUANGPRABANG,western_union,Nambark,1
+LUANGPRABANG,western_union,Chomphet District,1
+BOKEO,western_union,Bokeo,10
+VIENTIANECAPITAL,western_union,Luangprabang Province,1
+LUANGPRABANG,western_union,Luang Prabang Province,1
+LUANGPRABANG,western_union,Muongluong,1
+LUANGPRABANG,western_union,Luangphabang,3
+LUANGPRABANG,western_union,Nan,1
+BOKEO,western_union,Huayxai,1
+BOKEOPROVINCE,western_union,Huaysay District,2
+LUANGPRABANGPROVINCE,western_union,Ngoy District,1
+BOKEO,western_union,Pha Oudom,1
+BOKEO,western_union,Houyxay,1
+BOKEO,western_union,Houayxai City,2
+LUANGPRABANG,western_union,Nambak District,1
+LUANGPRABANGPROVINCE,western_union,Nambak District,1
+OUDOMXAY,western_union,Namor District,1
+LUANGNAMTHA,western_union,Viengphoukha District,1
+PHONGSALY,western_union,Phongsaly,4
+PHONGSALY,western_union,Phongsaly District,1
+LUANGNAMTHA,western_union,Nalea,1
+OUDOMXAY,western_union,Xay,1
+OUDOMXAY,western_union,Oudomxay,10
+OUDOMXAYPROVINCE,western_union,Xay District,2
+OUDOMXAY,western_union,Meuangbeng,1
+UNKNOWN,western_union,Phonhong District,1
+VIENTIANE,western_union,Xaythany,4
+VIENTIANEPREFECTURE,western_union,Nasaythong,2
+VIENTIANE,western_union,Naxaythong District,1
+VIENTIANEPREFECTURE,western_union,Xaythany,2
+VIENTIANEPREFECTURE,western_union,Vientiane,3
+VIENTIANE,western_union,Huakhua,1
+VIENTIANEPREFECTURE,western_union,Naxaythong,1
+VIENTIANEPREFECTURE,western_union,Chanthabouly,2
+VIENTIANE,western_union,Saythany,1
+VIENTIANEPREFECTURE,western_union,Xaysettha,4
+VIENTIANE,western_union,Sikhodtabong District,3
+VIENTIANE,western_union,Nasaiythong District,1
+VIENTIANE,western_union,Chanthabouly District,8
+VIENTIANEPREFECTURE,western_union,Xayseththa,1
+VIENTIANE,western_union,Xaysettha,3
+VIENTIANECAPITAL,western_union,Saysettha District,1
+VIENTIANEPREFECTURE,western_union,Saysettha Dist,1
+VIENTIANE,western_union,Laos,1
+VIENTIANE,western_union,Xayseththa,1
+VIENTIANE,western_union,Chanthabuly District,1
+VIENTIANE,western_union,Xaisettha District,1
+VIENTIANE,western_union,Vientiane Lao Pdr,2
+VIENTIANEPREFECTURE,western_union,Meun District,1
+VIENTIANE,western_union,Chanthabuly,1
+VIENTIANE,western_union,Sisattanak,2
+VIENTIANEPREFECTURE,western_union,Sisattanak,2
+VIENTIANEPREFECTURE,western_union,Sisatanak District,2
+VIENTIANEPROVINCE,western_union,Meun District,1
+VIENTIANECAPITAL,western_union,Chanthabouly District,1
+VIENTIANE,western_union,Chanthabouly,1
+VIENTIANE,western_union,Sisattanak District,2
+BOKEO,western_union,Tonpherng,1
+VIENTIANE,western_union,Vientiane Province,1
+VIENTIANEPREFECTURE,western_union,Sikhottabong,1
+VIENTIANE,western_union,Sisatanak,1
+VIENTIANE,western_union,Sikhottabong,2
+VIENTIANEPREFECTURE,western_union,Hatsayfong,1
+VIENTIANECAPITAL,western_union,Hadxayfong District,1
+VIENTIANEPREFECTURE,western_union,Sisattanak District,1
+VIENTIANECAPITAL,western_union,Hadsayfong District,1
+VIENTIANE,western_union,Hadxaifong District,1
+VIENTIANEPREFECTURE,western_union,Hadsayfong,1
+VIENTIANEPREFECTURE,western_union,Sanakhom,1

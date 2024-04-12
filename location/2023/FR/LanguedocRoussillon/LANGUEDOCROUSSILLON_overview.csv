@@ -1,0 +1,268 @@
+City,Place Name,Zipcode,Name
+NIMES,audi,26 RUE JOHN MAC ADAM NIMES 30900,unknown,ESPACE PRESTIGE AUTOMOBILE
+BEZIERS,audi,RUE DE BESSAN LA GINIESSE BEZIERS 34516,unknown,SAS CAPISCOL DISTRIBUTION
+ALES,audi,943 Route d'Uzes ALES 30411,unknown,FOURNET MANEN AUTOMOBILES
+ST CLEMENT DE RIVIERE,audi,Impasse des Eglantiers ST CLEMENT DE RIVIERE 34980,unknown,DBF MONTPELLIER
+NARBONNE,audi,11 AVENUE DU CHAMPS DE MARS NARBONNE 11100,unknown,SCALA NARBONNE
+MONTPELLIER,audi,3160 Avenue de Maurin MONTPELLIER 34076,unknown,DBF MONTPELLIER
+CARCASSONNE,audi,445 RUE Gustave Eiffel - La Ferraudiere 3 CARCASSONNE 11000,unknown,CAP OUEST AUTOMOBILE SAS
+PERPIGNAN,audi,419 Chemin de la Fossella PERPIGNAN 66000,unknown,SCALA PERPIGNAN
+Departement des Pyrenees-Orientales,chicken_street,235 Av. d'Espagne  Perpignan   66000,unknown,Chicken Street
+LEZIGNAN CORBIERES,cic,,unknown,CIC
+CARCASSONNE,cic,,unknown,CIC CARCASSONNE
+CASTELNAUDARY,cic,,unknown,CIC LIMOUX - CIC CASTELNAUDARY
+ST CHINIAN,cic,,unknown,CIC
+LES ANGLES,cic,,unknown,CIC
+NIMES,cic,,unknown,CIC
+MARGUERITTES,cic,,unknown,CIC
+BAGNOLS SUR CEZE,cic,,unknown,CIC
+ANDUZE,cic,,unknown,CIC
+UZES,cic,,unknown,CIC
+ALES,cic,,unknown,CIC
+BEAUCAIRE,cic,,unknown,CIC
+ST CHELY D APCHER,cic,,unknown,CIC MENDE - CIC ST CHELY D'APCHER
+MENDE,cic,,unknown,CIC MENDE - CIC ST CHELY D'APCHER
+LANGOGNE,cic,,unknown,CIC
+NARBONNE,cic,,unknown,CIC
+SIGEAN,cic,,unknown,CIC
+PRADES,cic,,unknown,CIC
+ST LAURENT DE LA SALANQUE,cic,,unknown,CIC RIVESALTES - CIC ST LAURENT SALANQUE
+RIVESALTES,cic,,unknown,CIC RIVESALTES - CIC ST LAURENT SALANQUE
+CANET EN ROUSSILLON,cic,,unknown,CIC CABESTANY
+ST ESTEVE,cic,,unknown,CIC
+PERPIGNAN,cic,,unknown,CIC
+CABESTANY,cic,,unknown,CIC CABESTANY - CIC CANET EN ROUSSILLON
+THUIR,cic,,unknown,CIC
+ELNE,cic,,unknown,CIC PERPIGNAN IBERBANCO
+ARGELES SUR MER,cic,,unknown,CIC
+CERET,cic,,unknown,CIC
+COLOMBIERS,cic,,unknown,CIC
+BEDARIEUX,cic,,unknown,CIC PEZENAS - CIC BEDARIEUX
+COURSAN,cic,,unknown,CIC
+PEZENAS,cic,,unknown,CIC PEZENAS - CIC BEDARIEUX
+GIGNAC,cic,,unknown,CIC
+CLERMONT L HERAULT,cic,,unknown,CIC CLERMONT L'HERAULT - CIC LODEVE
+GANGES,cic,,unknown,CIC
+LODEVE,cic,,unknown,CIC CLERMONT L'HERAULT - CIC LODEVE
+JACOU,cic,,unknown,CIC JACOU - CIC LE CRES
+ST GELY DU FESC,cic,,unknown,CIC
+LE CRES,cic,,unknown,CIC JACOU - CIC LE CRES
+MONTPELLIER,cic,,unknown,CIC
+JUVIGNAC,cic,,unknown,CIC
+CASTRIES,cic,,unknown,CIC
+PIGNAN,cic,,unknown,CIC
+FRONTIGNAN,cic,,unknown,CIC SETE
+BALARUC LE VIEUX,cic,,unknown,CIC
+SETE,cic,,unknown,CIC SETE - CIC FRONTIGNAN
+BEZIERS,cic,,unknown,CIC BEZIERS RIQUET
+SERIGNAN,cic,,unknown,CIC
+MARSEILLAN,cic,,unknown,CIC AGDE GRAND CAP
+AGDE,cic,,unknown,CIC AGDE GRAND CAP - CIC MARSEILLAN
+LUNEL,cic,,unknown,CIC LUNEL - CIC LE GRAU DU ROI
+LE GRAU DU ROI,cic,,unknown,CIC LUNEL
+ST JEAN DE VEDAS,cic,,unknown,CIC
+LATTES,cic,,unknown,CIC
+LA GRANDE MOTTE,cic,,unknown,CIC
+MAUGUIO,cic,,unknown,CIC MAUGUIO - CIC MARSILLARGUES
+MARSILLARGUES,cic,,unknown,CIC MAUGUIO - CIC MARSILLARGUES
+LIMOUX,cic,,unknown,CIC LIMOUX - CIC CASTELNAUDARY
+NIMES,cigusto_fr,,unknown,CIGUSTO NIMES
+NARBONNE,cigusto_fr,,unknown,CIGUSTO NARBONNE
+LES ANGLES,cigusto_fr,,unknown,CIGUSTO LES ANGLES
+CARCASSONNE,cigusto_fr,,unknown,CIGUSTO CARCASSONNE
+LIMOUX,e_leclerc,,unknown,DRIVE LIMOUX
+ALES,e_leclerc,,unknown,Drive Alès
+PERPIGNAN SUD,e_leclerc,,unknown,PERPIGNAN SUD
+PERPIGNAN,e_leclerc,,unknown,DRIVE Perpignan Sud
+CARCASSONNE,e_leclerc,,unknown,CARCASSONNE OXYDIS
+Carcassonne,e_leclerc,,unknown,Drive Carcassonne Est - La Cité
+NIMES,e_leclerc,,unknown,Drive Nîmes Mas des Abeilles
+Nîmes,e_leclerc,,unknown,DRIVE Relais Nîmes Rue de la Madeleine
+PERPIGNAN CEDEX 9,e_leclerc,,unknown,Drive Perpignan - Polygone
+PERPIGNAN POLYGONE,e_leclerc,,unknown,ESPACE POLYGONE
+NARBONNE,e_leclerc,,unknown,Drive Narbonne
+Sigean,e_leclerc,,unknown,DRIVE Sigean
+BEZIERS CEDEX,e_leclerc,,unknown,Drive Villeneuve-lès-Béziers - Capiscol
+BEZIERS DEVEZE,e_leclerc,,unknown,BEZIERS
+LE BOULOU,e_leclerc,,unknown,Drive Le Boulou
+Elne,e_leclerc,,unknown,Drive Elne
+CASTELNAUDARY,e_leclerc,,unknown,CASTELNAUDARY
+LES ANGLES,e_leclerc,,unknown,Drive Les Angles / Avignon
+LUNEL CEDEX,e_leclerc,,unknown,LUNEL
+LUNEL,e_leclerc,,unknown,Drive Lunel
+SAINT AUNES,e_leclerc,,unknown,Location
+LE CRES,e_leclerc,,unknown,Drive Le Cres / Montpellier
+Lattes,e_leclerc,,unknown,Drive Montpellier Garosud
+MONTPELLIER,e_leclerc,,unknown,Drive Montpellier-Pierre Vives
+LE BOSC,e_leclerc,,unknown,LE BOSC
+LE BOSC-LODEVE,e_leclerc,,unknown,Espace Culturel
+Clermont l'Hérault,e_leclerc,,unknown,DRIVE Clermont l'Hérault - La Salamane
+Le Bosc - Lodeve,e_leclerc,,unknown,DRIVE Clermont Le Bosc-Lodeve
+PEZENAS,e_leclerc,,unknown,Drive
+Beziers,e_leclerc,,unknown,Beziers Montimaran
+Villesequelande,fedex,,unknown,unknown
+Villepinte,fedex,,unknown,unknown
+Villeneuve Les Maguelone,fedex,,unknown,unknown
+Villemoustaussou,fedex,,unknown,unknown
+Villelongue De La Salanque,fedex,,unknown,unknown
+Villegly,fedex,,unknown,unknown
+Vers Pont Du Gard,fedex,,unknown,unknown
+Vergeze,fedex,,unknown,unknown
+Vendargues,fedex,,unknown,unknown
+Vauvert,fedex,,unknown,unknown
+Vailhauques,fedex,,unknown,unknown
+Uzes,fedex,,unknown,unknown
+Uchaud,fedex,,unknown,unknown
+Trebes,fedex,,unknown,unknown
+Toulouges,fedex,,unknown,unknown
+Thuir,fedex,,unknown,unknown
+Thezan Les Beziers,fedex,,unknown,unknown
+St Victor De Malcap,fedex,,unknown,unknown
+St Privat Des Vieux,fedex,,unknown,unknown
+St Pons De Thomieres,fedex,,unknown,unknown
+St Mathieu De Treviers,fedex,,unknown,unknown
+St Marcel Sur Aude,fedex,,unknown,unknown
+St Laurent Des Arbres,fedex,,unknown,unknown
+St Just,fedex,,unknown,unknown
+St Jean Du Pin,fedex,,unknown,unknown
+St Jean De Vedas,fedex,,unknown,unknown
+St Hippolyte Du Fort,fedex,,unknown,unknown
+St Hilaire De Brethmas,fedex,,unknown,unknown
+St Gilles,fedex,,unknown,unknown
+St Esteve,fedex,,unknown,unknown
+St Cyprien,fedex,,unknown,unknown
+St Christol Les Ales,fedex,,unknown,unknown
+St Chely D Apcher,fedex,,unknown,unknown
+St Chaptes,fedex,,unknown,unknown
+St Bres,fedex,,unknown,unknown
+St Andre,fedex,,unknown,unknown
+St Ambroix,fedex,,unknown,unknown
+Sommieres,fedex,,unknown,unknown
+Sete,fedex,,unknown,unknown
+Servian,fedex,,unknown,unknown
+Serignan,fedex,,unknown,unknown
+Saze,fedex,,unknown,unknown
+Salles D Aude,fedex,,unknown,unknown
+Salindres,fedex,,unknown,unknown
+Roquemaure,fedex,,unknown,FedEx Express FR
+Rochefort Du Gard,fedex,,unknown,unknown
+Rivesaltes,fedex,,unknown,unknown
+Rieux Minervois,fedex,,unknown,unknown
+Ribaute Les Tavernes,fedex,,unknown,unknown
+Redessan,fedex,,unknown,unknown
+Quissac,fedex,,unknown,unknown
+Quillan,fedex,,unknown,unknown
+Prades,fedex,,unknown,unknown
+Prades Le Lez,fedex,,unknown,unknown
+Pouzilhac,fedex,,unknown,unknown
+Poulx,fedex,,unknown,unknown
+Portiragnes,fedex,,unknown,unknown
+Portes Les Valence,fedex,,unknown,unknown
+Port Vendres,fedex,,unknown,unknown
+Port La Nouvelle,fedex,,unknown,unknown
+Pont St Esprit,fedex,,unknown,unknown
+Pezens,fedex,,unknown,unknown
+Pezenas,fedex,,unknown,unknown
+Perpignan,fedex,,unknown,FedEx Express FR
+Olonzac,fedex,,unknown,unknown
+Nimes,fedex,,unknown,unknown
+Neffies,fedex,,unknown,unknown
+Narbonne,fedex,,unknown,unknown
+Murviel Les Beziers,fedex,,unknown,unknown
+Mudaison,fedex,,unknown,unknown
+Moulezan,fedex,,unknown,unknown
+Montpellier,fedex,,unknown,unknown
+Montbazin,fedex,,unknown,unknown
+Montaren Et St Mediers,fedex,,unknown,unknown
+Montady,fedex,,unknown,unknown
+Millas,fedex,,unknown,unknown
+Milhaud,fedex,,unknown,unknown
+Meze,fedex,,unknown,unknown
+Mende,fedex,,unknown,unknown
+Mauguio,fedex,,unknown,unknown
+Marvejols,fedex,,unknown,unknown
+Marseillan,fedex,,unknown,unknown
+Marguerittes,fedex,,unknown,unknown
+Manduel,fedex,,unknown,unknown
+Magalas,fedex,,unknown,unknown
+Lunel,fedex,,unknown,unknown
+Llupia,fedex,,unknown,unknown
+Limoux,fedex,,unknown,unknown
+Lezignan Corbieres,fedex,,unknown,unknown
+Les Angles,fedex,,unknown,unknown
+Le Soler,fedex,,unknown,unknown
+Le Cres,fedex,,unknown,unknown
+Le Cap D Agde,fedex,,unknown,unknown
+Le Bousquet D Orb,fedex,,unknown,unknown
+Le Boulou,fedex,,unknown,unknown
+Laudun L Ardoise,fedex,,unknown,unknown
+Lattes,fedex,,unknown,FedEx Express FR
+Latour Bas Elne,fedex,,unknown,unknown
+Langogne,fedex,,unknown,unknown
+Lamalou Les Bains,fedex,,unknown,unknown
+La Grande Motte,fedex,,unknown,unknown
+La Grand Combe,fedex,,unknown,unknown
+La Calmette,fedex,,unknown,unknown
+Juvignac,fedex,,unknown,unknown
+Jacou,fedex,,unknown,unknown
+Grabels,fedex,,unknown,unknown
+Ginestas,fedex,,unknown,unknown
+Generac,fedex,,unknown,unknown
+Ganges,fedex,,unknown,unknown
+Frontignan,fedex,,unknown,unknown
+Fourques,fedex,,unknown,unknown
+Fontcouverte,fedex,,unknown,unknown
+Florac,fedex,,unknown,unknown
+Fabregues,fedex,,unknown,unknown
+Espira De L Agly,fedex,,unknown,unknown
+Esperaza,fedex,,unknown,unknown
+Elne,fedex,,unknown,unknown
+Eguilles,fedex,,unknown,unknown
+Creissan,fedex,,unknown,unknown
+Coursan,fedex,,unknown,unknown
+Corneilla Del Vercol,fedex,,unknown,unknown
+Connaux,fedex,,unknown,unknown
+Codognan,fedex,,unknown,unknown
+Clermont L Herault,fedex,,unknown,unknown
+Clapiers,fedex,,unknown,unknown
+Claira,fedex,,unknown,unknown
+Chateauneuf De Randon,fedex,,unknown,unknown
+Ceret,fedex,,unknown,unknown
+Cazouls Les Beziers,fedex,,unknown,unknown
+Caveirac,fedex,,unknown,unknown
+Cavanac,fedex,,unknown,unknown
+Castries,fedex,,unknown,unknown
+Castelnaudary,fedex,,unknown,unknown
+Castelnau Le Lez,fedex,,unknown,unknown
+Cardet,fedex,,unknown,unknown
+Carcassonne,fedex,,unknown,unknown
+Capestang,fedex,,unknown,unknown
+Capendu,fedex,,unknown,unknown
+Canohes,fedex,,unknown,unknown
+Canet,fedex,,unknown,unknown
+Canet En Roussillon,fedex,,unknown,unknown
+Calvisson,fedex,,unknown,unknown
+NIMES,ikks,,unknown,IKKS Women NIMES
+PERPIGNAN,ikks,,unknown,IKKS Junior PERPIGNAN
+SETE,ikks,,unknown,XandO WOMEN SETE
+LATTES,ikks,,unknown,IKKS Women MONTPELLIER LATTES
+THUIR,ikks,,unknown,THUIR MMXJ
+MONTPELLIER,ikks,,unknown,IKKS General Store MONTPELLIER POLYGONE
+BEZIERS,ikks,,unknown,IKKS Junior BEZIERS Ccial Polygone
+NARBONNE,ikks,,unknown,IKKS Junior NARBONNE
+ALES,ikks,,unknown,ICODE ALES
+Departement de la Lozere,ionity,,unknown,La Garde
+Departement de l'Herault,ionity,,unknown,Montpellier Saint-Aunès
+Departement de l'Aude,ionity,,unknown,Corbières Sud
+Departement des Pyrenees-Orientales,ionity,,unknown,Village Catalan Ouest
+Departement du Gard,ionity,,unknown,Tavel Sud
+Departement de l'Herault,pokawa,2 bis Rue Viennet  Beziers   34500,unknown,Pokawa Beziers
+66000 PERPIGNAN,starbucks_eu,39 QUAI SEBASTIEN VAUBAN 66000 PERPIGNAN,unknown,Perpignan Vauban
+Villetelle,starbucks_eu,Aire d Ambrussum Nord 34400 Villetelle France 34400 Villetelle,unknown,Aire D'ambrussum Nord - A9
+Nimes,starbucks_eu,1 Boulevard Sergent Triaire 30000 Nimes,unknown,Gare de Nimes
+Narbonne,starbucks_eu,25 cours de la republique 11100 Narbonne,unknown,Narbonne republique
+Montpellier,starbucks_eu,1 Rue des Pertuisanes 34000 Montpellier,unknown,Polygone
+Montpellier,travelex,10 Place Auguste Gibert MONTPELLIER 34000,unknown,Montpellier Gare Saint Roch
+PERPIGNAN,visa,,unknown,unknown
+Beziers,western_union,,unknown,NAJI NABIL
+Montpellier,western_union,,unknown,DS EXOTIQUES

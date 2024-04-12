@@ -1,0 +1,659 @@
+City,Place Name,Zipcode,Name
+unknown,accor,Po Box 8  Cairo Airport 11776 CAIRO,unknown,Novotel Cairo Airport
+unknown,accor,17 Cornish El Nile Street Luxor 11 432 LUXOR,unknown,Sofitel Winter Palace Luxor
+unknown,accor,Cornish el Nile st 0 LUXOR,unknown,Pavillon Winter Luxor
+unknown,accor,Abtal El Tahrir Street 81511 ASWAN,unknown,Sofitel Legend Old Cataract Aswan
+unknown,accor,Naama Bay 46619 SHARM EL SHEIKH,unknown,Novotel Sharm El Sheikh
+unknown,accor,Safaga road km 12 0 HURGHADA,unknown,Mercure Hurghada Hotel
+unknown,accor,Forsan island PO box 77  Ismailia 41151 ISMAILIA,unknown,Mercure Ismailia Forsan Island Hotel
+unknown,accor,26 July Axis 6th of October 12568 GIZA,unknown,Novotel Cairo 6th of October
+unknown,accor,3 El Thawra Council St Zamalek Downtown Po Box 732 El Orman Giza 11518 Cairo,unknown,Sofitel Cairo Nile El Gezirah
+unknown,accor,3 Saraya El Gezira street Zamalek 11211 CAIRO,unknown,Novotel Cairo El Borg
+unknown,accor,19 Km South El Quessir Marsa Marsa Alam Road 84721 84721 MARSA ALAM,unknown,Novotel Marsa Alam Beach Resort
+unknown,accor,Nile City Towers 2005 B Corniche El Nil Ramlet Beaulac 2466 CAIRO,unknown,Fairmont Nile City
+unknown,accor,South Sinai Nabq Bay 46628 Sharm El Sheikh,unknown,Rixos Sharm El Sheikh Adults Only 18+
+unknown,accor,South Sinai Nabq Bay 46628 SHARM EL SHEIKH,unknown,Rixos Premium Seagate
+unknown,accor,North Coast141 KM Alexandria Ma North Coast Egypt Egypt 51732 North Coast,unknown,Rixos Alamein
+unknown,accor,P O Box 62 Elephantine Island 0 ASWAN,unknown,Mövenpick Aswan
+unknown,accor,Sirena Beach El Quadim Bay 84712 EL QUSEIR,unknown,Mövenpick Resort El Quseir
+unknown,accor,Wahat Road 6th of October City Opposite to Mall of Egypt Elhay Elmotamayez 12451 POB: 39 0 GIZA,unknown,Mövenpick Cairo Media City
+unknown,accor,Naama Bay 46619 South Sinai 46619 SHARM EL SHEIKH,unknown,Mövenpick Sharm El Sheikh
+unknown,accor,El Gouna Red Sea Po Box 72 84511 Hurghada,unknown,Mövenpick El Gouna
+unknown,accor,Nuweibaa Taba Road Po Box 14 46621 South Sinai  Taba,unknown,Mövenpick Taba
+unknown,accor,K 64 Suez Zaafarana Road 0 EL EIN EL SOKHNA Suez,unknown,Mövenpick El Sokhna
+unknown,accor,Km 49 Hurghada Safaga Hw Soma Bay Red Sea 847115 Hurghada,unknown,Mövenpick Waterpark Resort & Spa Soma Bay
+unknown,accor,Traveline Dock Al Bughdadi District 85833 LUXOR,unknown,Mövenpick MS Hamees
+unknown,accor,Safaga Road Km12 Hurghada Red Sea Egypt Egypt 84517 HURGHADA,unknown,Rixos Premium Magawish Suites and Villas
+unknown,accor,El Salam Road Naama Bay 46691 SHARM EL SHEIKH,unknown,Naama Bay Promenade Beach Resort
+unknown,accor,Naama Bay Sharm El Sheikh South Sinai Egypt 46619 SHARM EL SHEIKH,unknown,Swissôtel Sharm El Sheikh All Inclusive Collection
+unknown,accor,El Salam Road PO Box 232 Egypt 46619 SHARM EL SHEIKH,unknown,Rixos Golf Villas And Suites Sharm El Sheikh
+Alexandria,adidas,,unknown,"adidas Store Alexandria, ALEX"
+Cairo,adidas,,unknown,"adidas Outlet Store Cairo, the building license No.125"
+PortSaid,adidas,,unknown,adidas Outlet Store PortSaid
+Mansoura,adidas,,unknown,"adidas Outlet Store Mansoura, 3"
+Tanta,adidas,,unknown,adidas Outlet Store Tanta
+6th of October,adidas,,unknown,adidas Outlet Store 6th of October
+Zakazik,adidas,,unknown,adidas Outlet Store Zakazik
+Cairo,alamo,,unknown,Cairo Airport Terminal 2
+Hurghada,alamo,,unknown,Hurghada International Airport
+unknown,alstom,12B04 Business Park Cairo Festival City Fifth Settlement 11835 - New Cairo - Egypt,unknown,Cairo
+Cairo Governorate El Nozha,american_eagle_outfitters,,unknown,American Eagle Store Almaza City Center
+unknown,costa_coffee,108 Hassan Maamoun st. in front of Al Ahli club - Nasr city,unknown,Costa Hassan Maamoun
+unknown,costa_coffee,37 Abbass Al Akkad st. - Nasr city,unknown,Costa Abbass Al Akkad
+unknown,costa_coffee,City stars fifth floor - Unit 502 (next to the cinema),unknown,Costa city stars 2
+unknown,costa_coffee,City stars 3rd floor,unknown,Costa city stars 1
+unknown,costa_coffee,45 Masdak st- Al Dokki,unknown,Costa Masdak
+unknown,costa_coffee,Gameet Dowal st. in front of Atlas Hotel - Mohandessin,unknown,Costa Zamalek club
+unknown,costa_coffee,15 Mohamed Maraashly st. in front of Seoudi Supermarket - Zamalek,unknown,Costa Zamalek
+unknown,costa_coffee,26 sherif st. immobilia building - Downtown Cairo,unknown,Costa sherif st.
+unknown,costa_coffee,Road 250 East - in front of Grand mall Maadi,unknown,Costa Maadi Grand Mall 1
+unknown,costa_coffee,73 road 9 - maadi,unknown,Costa Maadi road 9
+unknown,costa_coffee,16 Merghani st. in front of Heliopolis club,unknown,Costa Heliopolis
+unknown,costa_coffee,44 Hegaz st. - Heliopolis,unknown,Costa Hegaz
+unknown,costa_coffee,Terrace Mall gate 2,unknown,Costa Al Shorouk
+unknown,costa_coffee,Inside sun city mall - Sheraton,unknown,Costa Sun City
+unknown,costa_coffee,Inside Golf city mall - next to Carrefour Al Obour,unknown,Costa Obour
+unknown,costa_coffee,Inside Cairo festival city mall ( in front of the dancing fountain),unknown,Costa Cairo Festival City
+unknown,costa_coffee,Road 90- Inside Americana Plaza (in front of AUC),unknown,Costa Americana Plaza
+unknown,costa_coffee,Outdoor food court - store number 5,unknown,Costa Al Rehab
+unknown,costa_coffee,Madinaty south park (next to police station),unknown,Costa Madinaty
+unknown,costa_coffee,Inside Americana Plaza (unit 11) - Rawda st - Sheikh Zayed road,unknown,Costa Americana Plaza - Sheikh Zayed
+unknown,costa_coffee,Inside the Gate Mall - Sheikh Zayed,unknown,Costa The Gate mall
+unknown,costa_coffee,Inside Prima Vista Mall - Magda square - 6th Of October City,unknown,Costa Prima vista
+unknown,costa_coffee,Inside Guezira Plaza mall (next to Arkan) - Sheikh Zayed,unknown,Costa Guezira Plaza
+unknown,costa_coffee,Westown Hub - Beverelly Hills - Dahshur - Sheikh Zayed,unknown,Costa Sodic
+unknown,costa_coffee,Inside Renault car service - Abu Rawash - Alexandria Road,unknown,Costa Kia
+unknown,costa_coffee,Inside Mega Dandy Mall - Alexandria Road,unknown,Costa Dandy
+unknown,costa_coffee,Inside Flags mall - Wahat road -Gate One Dream - October gardens,unknown,Costa Dream Land
+unknown,costa_coffee,Souad Kafafi st. next to Misr University For Science And Technology - 6th of October,unknown,Costa Palm strip
+unknown,costa_coffee,Inside City center Almaza,unknown,Costa Almaza
+unknown,costa_coffee,Diar Mall - 5th settlement - Road 90 (next to Teleperformance),unknown,Costa Diar Mall
+unknown,costa_coffee,Inside Costa One Golden Square( Next to Bank of Egypt) - 5th settlement,unknown,Costa One Golden Square
+unknown,costa_coffee,Uptown - Mokkattam,unknown,Costa Uptown Plaza
+unknown,costa_coffee,Mivida compound - 5th settlement,unknown,Costa Mivida
+unknown,costa_coffee,Arabella Mall - Third Settlement,unknown,Costa Arabella Plaza
+unknown,costa_coffee,Arena Mall - Sheraton road - Hurghada,unknown,Costa Hurghada
+unknown,costa_coffee,Gomhoureya st. - Shorouq Tower ( in front of law school),unknown,Costa Mansoura
+unknown,costa_coffee,City Centre Alexandria ( in front of Gate 3),unknown,Costa Carrefour Alexandria
+unknown,costa_coffee,Green Plaza Mall - Somouha (in front of mall entrance),unknown,Costa Green Plaza
+unknown,costa_coffee,274 army road in front of Stanley bridge,unknown,Costa Stanley
+unknown,costa_coffee,San Stefano mall - Ground floor ( Foodcourt),unknown,Costa San Stefano
+unknown,costa_coffee,109 Fouad st. Next to Qawmeya school - Alexandria,unknown,Costa Fouad st.
+unknown,costa_coffee,Behind Antoniadis Buildings Nozha Airport- Alexandria,unknown,Costa Kia
+unknown,costa_coffee,Gleem Bay,unknown,Costa Gelim Bay
+unknown,costa_coffee,747 Army road - Mandara,unknown,Costa Mandara
+unknown,costa_coffee,Pharos University - Mahmoudeya canal,unknown,Costa Pharos University
+unknown,costa_coffee,Naql w Handasa st - Somouha,unknown,Costa Solic
+unknown,costa_coffee,Kilo 102 on the coastal road 150 meters inside Marina Gate 4,unknown,Costa marina 4
+unknown,costa_coffee,Kilo 103 on the coastal road after the 2nd Bridge Americana Complex,unknown,Costa marina 5
+unknown,costa_coffee,Porto Marina - Gate 3,unknown,Costa Porto Marina
+unknown,costa_coffee,Alamein Hotel - inside Marassi kilo 130,unknown,Cost Al Alamein
+unknown,costa_coffee,Marassi - Sidi Abdel Rahman,unknown,Costa Marassi
+unknown,costa_coffee,Marsa Matrouh Road Kilo 140,unknown,Costa Amwaj
+Nasr City,crocs_eu,,unknown,Crocs Outlet City Stars Mall
+Heliopolis,crocs_eu,,unknown,Crocs Outlet Heliopolis
+Giza City,crocs_eu,,unknown,Crocs Mall of Arabia
+41516 Ismailia,crocs_eu,,unknown,Crocs Ismalia
+New Cairo City,crocs_eu,,unknown,Crocs Point 90 Mall
+6th of October City,crocs_eu,,unknown,Crocs Mall of Arabia
+Al Giza Desert,crocs_eu,,unknown,Crocs Dandy Mega Mall
+Cairo,crocs_eu,,unknown,Crocs Almaza City Center Mall
+Cairo Festival City New Cairo,crocs_eu,,unknown,Crocs Cairo Festival City Mall
+Damietta,crocs_eu,,unknown,Crocs Damietta
+First 6th of October City,crocs_eu,,unknown,Crocs Mall of Egypt
+Giza,crocs_eu,,unknown,Crocs Lebanon Street
+Port Said,crocs_eu,,unknown,Crocs Port Said
+North Coast,crocs_eu,,unknown,Crocs Porto Marina North Coast
+Cairo Governorate,dan_john,,unknown,DAN JOHN DSTORE MULTIBRAND – CAIRO FESTIVAL CITY MALL
+Cairo,deloitte,,unknown,Deloitte - Cairo
+Cairo,ecco,,unknown,Al Mohandessin
+Alexandria,ecco,,unknown,Alexandria City Center
+Sheikh Zayed,enterprise,,unknown,Majarrah Mall
+Cairo,enterprise,,unknown,New Cairo 5th Settlement
+Hurghada,enterprise,,unknown,Hurghada International Airport
+Sharm El Sheikh,enterprise,,unknown,Sharm El Sheikh Meet And Greet
+Cairo,ernst_young,Cairo Festival City (CFC) Podium 1 – Building no. P4. P.O. Box 20 Kattameya,unknown,EY - Egypt
+ALEXANDRIA,geox,,unknown,Geox ALEXANDRIA
+CAIRO,geox,,unknown,Geox CAIRO
+Cairo,goldsgym,,unknown,Gold's Gym Maadi
+Giza,goldsgym,,unknown,Gold's Gym Nile
+Hurghada,goldsgym,,unknown,Gold's Gym Hurghada
+Hurghada,hardrock,,unknown,Hard Rock Cafe Hurghada
+Nabq,hardrock,,unknown,Hard Rock Cafe Nabq
+Sharm El Sheikh,hardrock,,unknown,Hard Rock Cafe Sharm el Sheikh
+unknown,hilton,Gabal El Hareem Street Red Sea Hurghada Egypt,unknown,Hilton Hurghada Plaza
+unknown,hilton,14th of May Bridge Road - Smouha Alexandria Egypt,unknown,Hilton Alexandria Green Plaza
+unknown,hilton,1115 Corniche El Nile Cairo Egypt,unknown,Ramses Hilton
+Cairo,hm,,unknown,Open Air Mall
+Alexandria,hm,,unknown,Alexandria City Center
+القاهرة الجديدة,ikea,,unknown,فستيفال سيتي القاهرة
+الجيزة,ikea,,unknown,مول العرب
+El Gouna,lhw,The Hill El Gouna 84513 Red Sea Egypt,unknown,The Chedi El Gouna
+El Obour,man_truck_and_bus,,unknown,Kastour Group for Industry and Trading ( El Obur )
+Luxor,man_truck_and_bus,,unknown,Marin Tec
+Hurghada,man_truck_and_bus,,unknown,Marin Tec
+Alexandria,man_truck_and_bus,,unknown,Marintec Alex Free Zone
+Cairo,man_truck_and_bus,,unknown,MARIN TEC
+Cairo,marriott,,unknown,"The St. Regis Almasa Hotel, Cairo"
+Sharm El Sheikh,marriott,,unknown,"Sheraton Sharm Hotel, Resort, Villas & Spa"
+Hurghada,marriott,,unknown,Hurghada Marriott Beach Resort
+Alexandria,marriott,,unknown,Sheraton Montazah Hotel
+El Gouna,marriott,,unknown,Sheraton Miramar Resort El Gouna
+Red Sea,marriott,,unknown,Sheraton Soma Bay Resort
+CAIRO,maserati,,unknown,MM GROUP FOR INDUSTRY AND INT. TRADE
+unknown,mcdonalds_qstore,,unknown,10th of Ramadan
+CAIRO,moneygram,,unknown,THE UNITED BANK
+GIZA,moneygram,,unknown,BANQUE DU CAIRE - SYRIA
+ASSUIT,moneygram,,unknown,BANQUE DU CAIRE - AL KOSEYA
+AL BEHEIRA,moneygram,,unknown,ABE - OWREEN
+AL ISMAILIYA,moneygram,,unknown,ABE - ALABTAL
+AL FAYOUM,moneygram,,unknown,ABE - ZAWIAT ALKIRDASA
+AL SHARKIYA,moneygram,,unknown,ABE - SAAOD
+AL MINYA,moneygram,,unknown,BANQUE DU CAIRE - AL MINYA - MALAWI
+ASWAN,moneygram,,unknown,BANQUE DU CAIRE - MENAA ELSAD ELAALY
+QENA,moneygram,,unknown,ABE - SAMHOD
+AL DAKAHLIYA,moneygram,,unknown,ABE - MET ALI
+SOHAG,moneygram,,unknown,BANQUE DU CAIRE - SOHAG - GERGA
+ALEXANDRIA,moneygram,,unknown,THE UNITED BANK
+AL MONOUFIYA,moneygram,,unknown,ABE - ZAWIET AL BAKLI
+BENI SUEF,moneygram,,unknown,ABE - SOMOSTA
+KAFR EL SHEIKH,moneygram,,unknown,THE UNITED BANK - KAFR EL SHEIKH BRANCH
+AL QALIUBIYA,moneygram,,unknown,ABE - TANAN
+AL GHARBIYA,moneygram,,unknown,ABE - SHABSHER ALHESSAH
+DOMIAT,moneygram,,unknown,BANQUE DU CAIRE - EL TAHRIR
+LUXOR,moneygram,,unknown,BANQUE DU CAIRE - SALAH ELDIN
+AL WADI AL GADID,moneygram,,unknown,ABE - PARIS
+DAMIETTA,moneygram,,unknown,ABE - AL SARO
+6 OCTOBER,moneygram,,unknown,BANQUE DU CAIRE - SOUK AL GOMLA
+KAFR EL SHEKH,moneygram,,unknown,BANQUE DU CAIRE - KAFR EL SHEKH - AL HAM
+ASSIUT,moneygram,,unknown,BANQUE DU CAIRE - ASSIUT - ABOU TEEG
+BENI SOWEIF,moneygram,,unknown,BANQUE DU CAIRE - BEBA
+SOUTH SINAI,moneygram,,unknown,BANQUE DU CAIRE - SOUTH SINAI - HORIZON
+MARSA MATROUH,moneygram,,unknown,BANQUE DU CAIRE - MARSA MATROUH
+HURGHADA,moneygram,,unknown,AWB - HURGHADA
+ISMALIA CITY,moneygram,,unknown,AWB - ISMALIA CITY
+MAHALA,moneygram,,unknown,AWB - MAHALA
+EL MANSOURA,moneygram,,unknown,AWB - MANSOURA
+MENYA,moneygram,,unknown,AWB - MENYA
+MIT GHAMR,moneygram,,unknown,AWB - MIT GHAMR
+PORT SAID,moneygram,,unknown,THE UNITED BANK
+SUEZ,moneygram,,unknown,THE UNITED BANK - SUEZ
+TANTA,moneygram,,unknown,THE UNITED BANK
+EL ZAQAZIQ,moneygram,,unknown,AWB - ZAGAZIG
+BANI SOUIF,moneygram,,unknown,AWB - BANI SOUIF
+FAYOUM,moneygram,,unknown,BANQUE DU CAIRE - FAYOUM - ATSA
+DAMANHOUR,moneygram,,unknown,AWB - DAMANHUR NEW
+DAMITTA,moneygram,,unknown,AWB - DAMITTA
+DAMANHUR NEW,moneygram,,unknown,AWB - EL BAHR EL AZAM
+DAMIETTA GOVERNORATE,moneygram,,unknown,BANQUE DU CAIRE - DAMIETTA GOVERNORATE -
+KAFR ELSHEIKH,moneygram,,unknown,ABE - QELEN
+BENI SUFE,moneygram,,unknown,ABE - SHNRA
+AL GHARBIA,moneygram,,unknown,ABE - ELAZIZEYAH
+6TH OF OCTOBER,moneygram,,unknown,BANQUE DU CAIRE - EL SHEIKH ZAYED
+MATROH,moneygram,,unknown,ABE - MATROH - SIWA
+SHARKIYA,moneygram,,unknown,BANQUE DU CAIRE - SHARKIYA - BELBEIS
+MAGHAGHA,moneygram,,unknown,BANQUE DU CAIRE - MAGHAGHA
+DAKAHLIYA,moneygram,,unknown,BANQUE DU CAIRE - AGA
+AL JIZAH,moneygram,,unknown,BANQUE DU CAIRE - AL JIZAH - AL FAISALIA
+DEKERNES,moneygram,,unknown,THE UNITED BANK
+NABARUH,moneygram,,unknown,THE UNITED BANK
+MANSOURA,moneygram,,unknown,THE UNITED BANK
+DUMYAT,moneygram,,unknown,BANQUE DU CAIRE - DUMYAT - NEW DAMIETTA
+ZAGAZIG,moneygram,,unknown,THE UNITED BANK
+OCTOBER 6,moneygram,,unknown,BANQUE DU CAIRE - OCTOBER 6 - INTERNATIO
+EL-QALYUBIYA,moneygram,,unknown,BANQUE DU CAIRE - EL-QALYUBIYA - QALYOUB
+EL-SHARQAYA,moneygram,,unknown,BANQUE DU CAIRE - EL-SHARQAYA - LEWAA (Z
+AL-DAKHILAH,moneygram,,unknown,BANQUE DU CAIRE - AL-DAKHILAH - MANZALA
+GHARBIYA EL- SAQRIYA,moneygram,,unknown,BANQUE DU CAIRE - GHARBIYA EL- SAQRIYA -
+EL-KAFR EL-SHARQI,moneygram,,unknown,BANQUE DU CAIRE - EL-KAFR EL-SHARQI - FO
+6 OCTOBER CITY,moneygram,,unknown,BANQUE DU CAIRE - 6 OCTOBER CITY - AL MO
+EL-MANAYIF,moneygram,,unknown,BANQUE DU CAIRE - EL-MANAYIF - BERKET EL
+HELWAN,moneygram,,unknown,BANQUE DU CAIRE - HELWAN - MAADI
+KENA,moneygram,,unknown,BANQUE DU CAIRE - KENA
+NEW VALLEY,moneygram,,unknown,BANQUE DU CAIRE - NEW VALLEY - EL KHARGA
+RED SEA,moneygram,,unknown,BANQUE DU CAIRE - RED SEA - SAFAGA
+EL BAHARIYA,moneygram,,unknown,BANQUE DU CAIRE - EL BAHARIYA - DELENGAT
+NORTH SINAI,moneygram,,unknown,BANQUE DU CAIRE - NORTH SINAI - ARISH
+ISMALIA,moneygram,,unknown,BANQUE DU CAIRE - ISMALIA - AL GEISH
+BENI SUWEIF,moneygram,,unknown,BANQUE DU CAIRE - BENI SUWEIF - SAMASTA
+QALYOUBIYA,moneygram,,unknown,BANQUE DU CAIRE - QALYOUBIYA - JULY 23 B
+BANISWAEF,moneygram,,unknown,THE UNITED BANK - BANISWAEF
+BEHIRA,moneygram,,unknown,BANQUE DU CAIRE - KAFR EL DAWAR
+Cairo,national,,unknown,Cairo Airport Terminal 2
+Hurghada,national,,unknown,Hurghada International Airport
+Cairo,newyorker,25th of July Corridor 12566 Kairo,unknown,NEW YORKER | Mall of Arabia
+Cairo,newyorker,Omar Ibn El-Khattab street – Nasr City 11765 Kairo,unknown,NEW YORKER | Cairo City Stars
+Cairo,nike,,unknown,Nike Store Mall of Arabia
+Alexandria,nike,,unknown,Nike Store Alexandria
+Cairo,reebok,,unknown,Reebok store - El Rehab Mall 2
+Alexandria,reebok,,unknown,Reebok store - Mirage
+Giza,reebok,,unknown,Reebok store - Dandy Mall
+Cairo,sixt,,unknown,Car Hire Cairo Maadi | SIXT rent a car
+Sharm El Sheikh,sixt,,unknown,Car Hire Sharm El Sheikh Naama Bay | SIXT rent a car
+Hacienda,sixt,,unknown,Car Hire North Coast Hacienda | SIXT rent a car
+El Alamein,sixt,,unknown,Car Hire North Coast Marina Gate 5 | SIXT rent a car
+Hurghada,sixt,,unknown,Car Hire Hurghada | SIXT rent a car
+El Gouna,sixt,,unknown,Car Hire El Gouna | SIXT rent a car
+Aswan,sixt,,unknown,Car Hire Aswan International Airport | SIXT rent a car
+Marsa Alam,sixt,,unknown,Car Hire Marsa Alam Airport | SIXT rent a car
+Luxor,sixt,,unknown,Car Hire Luxor International Airport | SIXT rent a car
+Alexandria,sixt,,unknown,Car Hire Alexandria | SIXT rent a car
+Sharm el Sheikh,sixt,,unknown,Car Hire Sharm El Sheikh Airport | SIXT rent a car
+"Hurghada, Red Sea",sixt,,unknown,Car Hire Hurghada International Airport | SIXT rent a car
+Cairo,speed_queen,,unknown,Mughsila Speed Queen
+Cairo,sunglass_hut_2,October 6 Al Jizah,unknown,Mall of Arabia
+Cairo,sunglass_hut_2,Road 6th of October,unknown,Mall of Egypt
+Cairo,sunglass_hut_2,90 Street Cairo Governorate,unknown,Cairo Festival City
+Cairo,sunglass_hut_2,Omar Ibn EL-Khattab St.,unknown,City Stars
+Alexandria,sunglass_hut_2,Gate 4-1st Alex Cairo Desert R,unknown,Alexandria City Center
+Cairo,timberland,,unknown,Timberland - Cairo
+Alexandria,timberland,,unknown,Timberland - Alexandria
+Port Saed,timberland,,unknown,Timberland - Port Saed
+Redsea,timberland,,unknown,Timberland - Sall Plaza mall
+Hurghada,timberland,,unknown,Timberland - Hurghada
+Nasr City,timberland,,unknown,Timberland - Nasr City
+Sharm El Sheikh,timberland,,unknown,Timberland - Sharm El Sheikh
+Cairo,tommy_hilfiger,,unknown,Tommy Hilfiger
+Alexandria,tommy_hilfiger,,unknown,Tommy Hilfiger
+unknown,totalenergies,,unknown,NEW SHOROUK
+CAIRO,totalenergies,,unknown,MISR EL GEDIDA
+Sharqeya,totalenergies,,unknown,S.S. Anshas Station
+Cairo,totalenergies,,unknown,Badr City
+Alexandria,totalenergies,,unknown,Amereya
+Giza,totalenergies,,unknown,Auberge
+Behaira,totalenergies,,unknown,S.S. Abu El Matamir city
+Daqahleya,totalenergies,,unknown,S.S. NEW AGA
+Qaliubeya,totalenergies,,unknown,S.S. Golf Obour Station COCO
+GHARBIA,totalenergies,,unknown,Berma
+KALYOBIA,totalenergies,,unknown,ADHAM RINGROAD STATION
+Monofeya,totalenergies,,unknown,S.S. El Sadat S/S
+MONOFYA,totalenergies,,unknown,EL BAGOR
+SHARKEYA,totalenergies,,unknown,EL AZIZIA
+Nasr City,totalenergies,,unknown,S.S. Nahas
+Kafr Elskeikh,totalenergies,,unknown,S.S. El Burullus Station
+Qism El-Salam,totalenergies,,unknown,S.S. Obour City S./St
+Bani Mazar,totalenergies,,unknown,S.S. BENY MAZAR
+ASYUT,totalenergies,,unknown,ASYUTT
+Marsa Matrouh,totalenergies,,unknown,S.S.Marina COCO station
+Markaz Kafr El-Dawar,totalenergies,,unknown,S.S. Omaraa Village COCO
+Suez,totalenergies,,unknown,Ain Sokhna
+BEHERA,totalenergies,,unknown,KING OTHMAN
+Markaz Al Alamein,totalenergies,,unknown,S.S. El Alamein COCO
+RED SEA,totalenergies,,unknown,HURGHADA RED SEA
+Ismaileya,totalenergies,,unknown,S.S. Manayef Station
+Gharbeya,totalenergies,,unknown,S.S. Samannoud
+DAKHLIA,totalenergies,,unknown,Dekerness
+Qesm Borg Al Arab,totalenergies,,unknown,S.S. Sidi Krir
+QENA,totalenergies,,unknown,Deshna
+Markaz El-Zakazik,totalenergies,,unknown,S.S. Mansheyet Al Ahrar
+GIZA,totalenergies,,unknown,EL-SAFF
+Al Haram,totalenergies,,unknown,S.S. King Faisal
+Cairo - Alex,totalenergies,,unknown,S.S. Master
+El-Basatin,totalenergies,,unknown,Maadi Laselky (Y.D)
+Al Maadi,totalenergies,,unknown,S.S. Maadi Dina S./ST
+Assiout,totalenergies,,unknown,S.S. Asyut
+Shibin el Kom,totalenergies,,unknown,S.S. Kewesna
+Asmara,totalenergies,,unknown,S.S. Ring Road Suez COCO
+suez,totalenergies,,unknown,Suez
+Al Basatin,totalenergies,,unknown,S.Station Maadi AutostradCOCO
+ALEXANDRIA,totalenergies,,unknown,SIDI KRIR
+Damietta,totalenergies,,unknown,RAS EL BAR
+Qalyoub,totalenergies,,unknown,S.S. Kalyoub S/S
+DAMITTA,totalenergies,,unknown,GAMASA
+Qesm Al Amereyah,totalenergies,,unknown,S.S. Agamy Km 21 Station
+Aswan,totalenergies,,unknown,S.S. Drawo Station
+Qism El-Nozha,totalenergies,,unknown,S.S. Gisr El Suez Station
+ASWAN,totalenergies,,unknown,DRAWO
+Menya,totalenergies,,unknown,S.S. Dalga Station
+Ismailia,totalenergies,,unknown,SALAM BRIDGE
+Qism El-Khalifa,totalenergies,,unknown,S.S. Mokattam ST 9 Station
+KAFR EL SHEIKH,totalenergies,,unknown,BALTEEM
+Hurghada,totalenergies,,unknown,HURGHADA
+SUEZ,totalenergies,,unknown,SUEZ UNIVERSITY
+DAMIETTA,totalenergies,,unknown,KAFR EL BATEEKH
+KAFR ELSHEIKH,totalenergies,,unknown,DESOUK
+MINYA,totalenergies,,unknown,DALGA
+MATROUH,totalenergies,,unknown,EL-ALAMEIN
+Kafr El Sheikh,totalenergies,,unknown,KAFR EL SHEIKH
+El Beheira,totalenergies,,unknown,Alex KM48
+Kalyoubia,totalenergies,,unknown,SARYAKOS
+SHARQEYA,totalenergies,,unknown,OLD BELBEIS
+NORTH SINAI,totalenergies,,unknown,BIR EL ABD
+DAKAHLIA,totalenergies,,unknown,Aga
+AL QALYUBIA,totalenergies,,unknown,BASUS
+El Sharquia,totalenergies,,unknown,Belbeis Station
+NORTH COAST,totalenergies,,unknown,AMWAJ
+ALEX,totalenergies,,unknown,Alex KM59
+Sharkia,totalenergies,,unknown,Anshas
+EL BEHEIRA,totalenergies,,unknown,Badr
+QALIUBEYA,totalenergies,,unknown,KANATER KHAIREYA
+El Gharbeya,totalenergies,,unknown,MAHALA
+6th of October,totalenergies,,unknown,SHEIKH ZAYED
+QALYUBIA,totalenergies,,unknown,KALAG
+Monufia,totalenergies,,unknown,KEWESNA
+Kom Ombo-Asswan,totalenergies,,unknown,KOM OMBO
+QALIUBYA,totalenergies,,unknown,GOLF OBOUR
+Dakahleya,totalenergies,,unknown,NEW AGA
+SADAT CITY,totalenergies,,unknown,MASTER
+Elmonfya,totalenergies,,unknown,MENOUF
+Menia,totalenergies,,unknown,MINYA
+El monofya,totalenergies,,unknown,MIT BERRAH
+QALYOUB,totalenergies,,unknown,QALYOUB
+Elmofya,totalenergies,,unknown,TALA
+kalyoubia,totalenergies,,unknown,TOUKH
+ZAGAZIG,totalenergies,,unknown,SHARKYA
+El Monoufeya,totalenergies,,unknown,SADAT
+unknown,turkiye_is_bankasi,Nile City Towers 2005 C Cornish El Nil North Tower 27th Floor Cairo-EGYPT ,unknown,Mısır Temsilciliği
+IL CAIRO,united_colors_of_benetton,,unknown,Benetton Il Cairo
+QENA,visa,,unknown,unknown
+ASWAN,visa,,unknown,unknown
+SHARKIA,visa,,unknown,unknown
+EL WADI EL GDID,visa,,unknown,unknown
+WADI EL GADID,visa,,unknown,unknown
+AIN SOKHNA,visa,,unknown,unknown
+BEHERA,visa,,unknown,unknown
+MARSA MATROUH,visa,,unknown,unknown
+ABO SEMBOL,visa,,unknown,unknown
+MONUFIA,visa,,unknown,unknown
+PORT SAIED,visa,,unknown,unknown
+PORT SAHID,visa,,unknown,unknown
+BANY SWEIF,visa,,unknown,unknown
+SOUTH OF SINAI,visa,,unknown,unknown
+EL GHARBIA,visa,,unknown,unknown
+GHRABIA,visa,,unknown,unknown
+AL GHARBIYAH,visa,,unknown,unknown
+GHARBIA,visa,,unknown,unknown
+GIZA,visa,,unknown,unknown
+CAIRO,visa,,unknown,unknown
+QALYUBIA,visa,,unknown,unknown
+SEIMNSE,visa,,unknown,unknown
+KENA,visa,,unknown,unknown
+ALEXANDRIA,visa,,unknown,unknown
+SOHAG,visa,,unknown,unknown
+KOM EMPO,visa,,unknown,unknown
+KALYOBEYA,visa,,unknown,unknown
+ASSYOUT,visa,,unknown,unknown
+MENYA,visa,,unknown,unknown
+NASR CITY (1),visa,,unknown,unknown
+ASYUT,visa,,unknown,unknown
+ASSUIT,visa,,unknown,unknown
+LUXOR,visa,,unknown,unknown
+ASYOUT,visa,,unknown,unknown
+ASSIUT,visa,,unknown,unknown
+ESNA,visa,,unknown,unknown
+MANFALOUT,visa,,unknown,unknown
+SOUHAG,visa,,unknown,unknown
+MARINA,visa,,unknown,unknown
+RAMADAN,visa,,unknown,unknown
+EL BEHIRA,visa,,unknown,unknown
+DAYROUT,visa,,unknown,unknown
+MINYA,visa,,unknown,unknown
+DAMIETTA,visa,,unknown,unknown
+EDFO,visa,,unknown,unknown
+ASSUITE,visa,,unknown,unknown
+SUHAG,visa,,unknown,unknown
+ASIUT,visa,,unknown,unknown
+ASSIOUT,visa,,unknown,unknown
+ASUTE,visa,,unknown,unknown
+HURGHADA,visa,,unknown,unknown
+GERGA,visa,,unknown,unknown
+TENTH,visa,,unknown,unknown
+MENOUFYA,visa,,unknown,unknown
+AL MINYA,visa,,unknown,unknown
+ASMAILIA,visa,,unknown,unknown
+MALAWY,visa,,unknown,unknown
+RED SEA,visa,,unknown,unknown
+NAGA HAMMADY,visa,,unknown,unknown
+MERSA MATROH,visa,,unknown,unknown
+MATROUH,visa,,unknown,unknown
+41918,visa,,unknown,unknown
+MATRUH,visa,,unknown,unknown
+MARSA MATROH,visa,,unknown,unknown
+MARSA MATRUH,visa,,unknown,unknown
+ABO QURQAS,visa,,unknown,unknown
+EL LUXOR,visa,,unknown,unknown
+EL-MENIA,visa,,unknown,unknown
+MIAMI,visa,,unknown,unknown
+MENIA,visa,,unknown,unknown
+ELMENYA,visa,,unknown,unknown
+EL MONOFYA,visa,,unknown,unknown
+ELMAHMODYA,visa,,unknown,unknown
+EL MONOFIA,visa,,unknown,unknown
+SAMALUT,visa,,unknown,unknown
+BANI MAZAR,visa,,unknown,unknown
+QINA,visa,,unknown,unknown
+QUNA,visa,,unknown,unknown
+GLEEM,visa,,unknown,unknown
+SHARM,visa,,unknown,unknown
+MAGHAGHA,visa,,unknown,unknown
+BANI SUEF,visa,,unknown,unknown
+FAYOUM,visa,,unknown,unknown
+MASOURA,visa,,unknown,unknown
+BENI SUEF,visa,,unknown,unknown
+SOUTH SINA,visa,,unknown,unknown
+SINAI,visa,,unknown,unknown
+NORTH SINA,visa,,unknown,unknown
+NORTH COAST,visa,,unknown,unknown
+FAIYUM,visa,,unknown,unknown
+ZAYED,visa,,unknown,unknown
+AL FAYYUM,visa,,unknown,unknown
+FAUOM,visa,,unknown,unknown
+EL FAYOM,visa,,unknown,unknown
+BANI SWIF,visa,,unknown,unknown
+BANI SWEIF,visa,,unknown,unknown
+BEHEIRA,visa,,unknown,unknown
+MANSORA,visa,,unknown,unknown
+AL MANSURA,visa,,unknown,unknown
+AL MANSURAH,visa,,unknown,unknown
+DAKAHLIA,visa,,unknown,unknown
+BORG EL ARAB,visa,,unknown,unknown
+BORG EL_ARAB,visa,,unknown,unknown
+BORG EL-ARAB,visa,,unknown,unknown
+BENISUEF,visa,,unknown,unknown
+AL WADI EL GDID,visa,,unknown,unknown
+GHARBYA,visa,,unknown,unknown
+SADAT,visa,,unknown,unknown
+SADAT CITY,visa,,unknown,unknown
+MENOFIA,visa,,unknown,unknown
+MARSA ALAM,visa,,unknown,unknown
+ELSADAT CITY,visa,,unknown,unknown
+OCTOBER,visa,,unknown,unknown
+6TH OCTOBER,visa,,unknown,unknown
+SIX OF OCTOBER,visa,,unknown,unknown
+SIX OF OCTOBER CITY,visa,,unknown,unknown
+6TH OCT,visa,,unknown,unknown
+6TH OCTOBER CITY,visa,,unknown,unknown
+10 OF RAMADAN,visa,,unknown,unknown
+ALEX,visa,,unknown,unknown
+MARSA ALLAM,visa,,unknown,unknown
+6TH OF OCTOBER,visa,,unknown,unknown
+MONOFIA,visa,,unknown,unknown
+SOKHNA,visa,,unknown,unknown
+ISMAILIA,visa,,unknown,unknown
+TANTA,visa,,unknown,unknown
+NOBRIA,visa,,unknown,unknown
+"BAB SHARK, ALEXANDRIA",visa,,unknown,unknown
+BANI SUWAYF,visa,,unknown,unknown
+BANI SWAIF,visa,,unknown,unknown
+ALEXENDEIRA,visa,,unknown,unknown
+WAHAAT,visa,,unknown,unknown
+ALEX BAB SHARK,visa,,unknown,unknown
+BENI SUIF,visa,,unknown,unknown
+SHARM EL SHEIKH,visa,,unknown,unknown
+GHANDY G.C.,visa,,unknown,unknown
+SEMOHA,visa,,unknown,unknown
+SAFAGA,visa,,unknown,unknown
+HELWAN,visa,,unknown,unknown
+10TH OF RAMADAN,visa,,unknown,unknown
+NEW MAADI,visa,,unknown,unknown
+CAI,visa,,unknown,unknown
+6-OCTOBER,visa,,unknown,unknown
+ISMAILEYA,visa,,unknown,unknown
+MAHALLA,visa,,unknown,unknown
+DOKKI CAIRO,visa,,unknown,unknown
+MAADI CAIRO,visa,,unknown,unknown
+SHARM ELSHEIKH,visa,,unknown,unknown
+DOKKI,visa,,unknown,unknown
+ALEXANRIA,visa,,unknown,unknown
+KAFR ALDWAR,visa,,unknown,unknown
+ASHMOUN,visa,,unknown,unknown
+ELOBOUR,visa,,unknown,unknown
+PORT SAID,visa,,unknown,unknown
+EL ASHER,visa,,unknown,unknown
+ZAMALEK,visa,,unknown,unknown
+DAMANHOUR,visa,,unknown,unknown
+SHARKEYA,visa,,unknown,unknown
+ZKAZEEK,visa,,unknown,unknown
+EL-DAKAHLIA,visa,,unknown,unknown
+PORTO MARINA,visa,,unknown,unknown
+PORTO SOKHNA,visa,,unknown,unknown
+KALUBIA,visa,,unknown,unknown
+ELOBOUR CITY,visa,,unknown,unknown
+MERCATO SHARM,visa,,unknown,unknown
+SHERATON BUILDING,visa,,unknown,unknown
+ELSENBELLAWEEN,visa,,unknown,unknown
+ELSALAM CITY,visa,,unknown,unknown
+ELMAHALA ELKOBRA,visa,,unknown,unknown
+MODERN ACCADEMY,visa,,unknown,unknown
+ELASMAILIA,visa,,unknown,unknown
+P.SAID,visa,,unknown,unknown
+MAADI,visa,,unknown,unknown
+SAHL HASHISH,visa,,unknown,unknown
+KALIOUB,visa,,unknown,unknown
+MONOFYA,visa,,unknown,unknown
+HELIOPOLIS CAIRO,visa,,unknown,unknown
+ABU HUMMUS,visa,,unknown,unknown
+NEW CAIRO,visa,,unknown,unknown
+KAFR ELDAWWAR,visa,,unknown,unknown
+QAHA,visa,,unknown,unknown
+MENOUF,visa,,unknown,unknown
+NOZHA,visa,,unknown,unknown
+BEHIRAA,visa,,unknown,unknown
+MARAQUIA,visa,,unknown,unknown
+DAMNHOUR,visa,,unknown,unknown
+HURGADA,visa,,unknown,unknown
+BEHIRA,visa,,unknown,unknown
+HELIOPLISE,visa,,unknown,unknown
+NORTH SINAI,visa,,unknown,unknown
+AL MINYAH,visa,,unknown,unknown
+BEHARA,visa,,unknown,unknown
+ALL,visa,,unknown,unknown
+MOHADESEEN CAIRO,visa,,unknown,unknown
+ITAY AL BARUD,visa,,unknown,unknown
+TOUKH,visa,,unknown,unknown
+SHEBIN ELKOOM,visa,,unknown,unknown
+SHEBIN EL KOUM,visa,,unknown,unknown
+MENOUFIA,visa,,unknown,unknown
+MET GHAMR,visa,,unknown,unknown
+SUEZ,visa,,unknown,unknown
+SHEBIN EL KOM,visa,,unknown,unknown
+AL SHARQIA,visa,,unknown,unknown
+KALUIOB,visa,,unknown,unknown
+EL SHARQEYA,visa,,unknown,unknown
+KAFR ELZAYAT,visa,,unknown,unknown
+ZAGAZIG,visa,,unknown,unknown
+BANHA,visa,,unknown,unknown
+AL GHARBIA,visa,,unknown,unknown
+RA''S GHARIB,visa,,unknown,unknown
+QALYOBEYA,visa,,unknown,unknown
+ZAKAZEIK,visa,,unknown,unknown
+EL-OBOUR,visa,,unknown,unknown
+MEHALA,visa,,unknown,unknown
+QUESNA,visa,,unknown,unknown
+AL OBOOR,visa,,unknown,unknown
+AS SUWAYS,visa,,unknown,unknown
+KAFR EL SHAIKH,visa,,unknown,unknown
+KAFR EL-SHEIKH,visa,,unknown,unknown
+BASYUN,visa,,unknown,unknown
+SHARQIA,visa,,unknown,unknown
+KAFR EL SHEIKH,visa,,unknown,unknown
+DESOUK,visa,,unknown,unknown
+DISUK,visa,,unknown,unknown
+GHARBEYA,visa,,unknown,unknown
+RASHID,visa,,unknown,unknown
+BADR CITY,visa,,unknown,unknown
+EL SUEZ,visa,,unknown,unknown
+QUTUR,visa,,unknown,unknown
+KOTOUR,visa,,unknown,unknown
+ZIFTA,visa,,unknown,unknown
+ZEFTA,visa,,unknown,unknown
+MEET GHAMR,visa,,unknown,unknown
+SUZE,visa,,unknown,unknown
+ALWARRAK,visa,,unknown,unknown
+KAFR ELSHEIKH,visa,,unknown,unknown
+NUBAH,visa,,unknown,unknown
+10TH OF RAMADA,visa,,unknown,unknown
+KAFER EL-SHIEKH,visa,,unknown,unknown
+KAFR EL SHIEKH,visa,,unknown,unknown
+ZAGAZIK,visa,,unknown,unknown
+EL EIN SOUKHNA,visa,,unknown,unknown
+ZAGAZEG,visa,,unknown,unknown
+ZAKAZIK,visa,,unknown,unknown
+ELZAKAZIK,visa,,unknown,unknown
+SHRQIA,visa,,unknown,unknown
+SOUTH SINAI,visa,,unknown,unknown
+TOR,visa,,unknown,unknown
+EIN EL SOKHNA,visa,,unknown,unknown
+AGA,visa,,unknown,unknown
+HO,visa,,unknown,unknown
+RAS SEDR,visa,,unknown,unknown
+DAKAHLEYA,visa,,unknown,unknown
+MANSOURA,visa,,unknown,unknown
+DAQHLIA,visa,,unknown,unknown
+KAFR SAQR,visa,,unknown,unknown
+EL DAKAHLIA,visa,,unknown,unknown
+DAKHLIA,visa,,unknown,unknown
+ELMANSOURA,visa,,unknown,unknown
+MANSOURAH,visa,,unknown,unknown
+ABU KABIR,visa,,unknown,unknown
+GARBIA,visa,,unknown,unknown
+EL MANIA,visa,,unknown,unknown
+SHARM EL-SHEIKH,visa,,unknown,unknown
+EL DAKAHLEYA,visa,,unknown,unknown
+SHARM ALSHEIKH,visa,,unknown,unknown
+SHARM ELSHIKH,visa,,unknown,unknown
+SHARM EL SHEIK,visa,,unknown,unknown
+SHARAM EL-SHIKH,visa,,unknown,unknown
+SHARM EL SHEKH,visa,,unknown,unknown
+SUIZ,visa,,unknown,unknown
+BALTIM,visa,,unknown,unknown
+FAYID,visa,,unknown,unknown
+DIKIRNIS,visa,,unknown,unknown
+FAYED,visa,,unknown,unknown
+EL QALIOBIA,visa,,unknown,unknown
+DEKERNES,visa,,unknown,unknown
+NILE CITY,visa,,unknown,unknown
+KASR EL NILE,visa,,unknown,unknown
+SHERBIN,visa,,unknown,unknown
+MINYAT AN NASR,visa,,unknown,unknown
+EL ISMILIA,visa,,unknown,unknown
+IAMAILIA,visa,,unknown,unknown
+JAMASAH,visa,,unknown,unknown
+DOMIAT,visa,,unknown,unknown
+FARASKOUR,visa,,unknown,unknown
+ISMAAILIA,visa,,unknown,unknown
+ISMAELIA,visa,,unknown,unknown
+ELMANZALA,visa,,unknown,unknown
+AL MANZALAH,visa,,unknown,unknown
+DOMIATE,visa,,unknown,unknown
+DOMIAAT,visa,,unknown,unknown
+DOMYAT,visa,,unknown,unknown
+DUMYAT,visa,,unknown,unknown
+DOUMYAT,visa,,unknown,unknown
+DEMIATTE,visa,,unknown,unknown
+DAMEITTA,visa,,unknown,unknown
+DAMITTA,visa,,unknown,unknown
+RAS EL BAR,visa,,unknown,unknown
+RAAS ELBAAR,visa,,unknown,unknown
+PORTSAID,visa,,unknown,unknown
+DAHAB,visa,,unknown,unknown
+PORT-SAID,visa,,unknown,unknown
+PORT FOUAD,visa,,unknown,unknown
+EL SHRQIA,visa,,unknown,unknown
+6 OF OCTOBER,visa,,unknown,unknown
+NWEEBA,visa,,unknown,unknown
+TABA,visa,,unknown,unknown
+AL ARISH,visa,,unknown,unknown
+AREISH,visa,,unknown,unknown
+AREESH,visa,,unknown,unknown
+EL SADAT,visa,,unknown,unknown

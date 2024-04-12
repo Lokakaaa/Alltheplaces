@@ -1,0 +1,400 @@
+State,Place Name,City,Establishments
+SHABWAH,audi,Judenburg,1
+SHABWAH,audi,Knittelfeld,1
+UNKNOWN,deloitte,Sana'a,1
+UNKNOWN,ford,صنعاء,2
+UNKNOWN,ford,Sanaa,1
+UNKNOWN,ford,Yemen,1
+UNKNOWN,man_truck_and_bus,"Sana'a, Republic of Yemen",1
+UNKNOWN,moneygram,SANA'A,104
+UNKNOWN,moneygram,MAREB,43
+UNKNOWN,moneygram,IBB,179
+UNKNOWN,moneygram,AL HAZM,1
+UNKNOWN,moneygram,ALTORBAH,2
+UNKNOWN,moneygram,ALNASHAMAH,1
+UNKNOWN,moneygram,ALSHARG,1
+UNKNOWN,moneygram,JABAL HABASHI,1
+UNKNOWN,moneygram,SAYOON,1
+UNKNOWN,moneygram,SHEHEN,1
+UNKNOWN,moneygram,SANAA,475
+UNKNOWN,moneygram,TAIZ,149
+UNKNOWN,moneygram,ADEN,135
+UNKNOWN,moneygram,HAGGAH,2
+UNKNOWN,moneygram,ALMOKALLA'A,3
+UNKNOWN,moneygram,THAMMAR,3
+UNKNOWN,moneygram,HODAYDAH,10
+UNKNOWN,moneygram,ALBAIDHA,27
+UNKNOWN,moneygram,'AMRAN,12
+UNKNOWN,moneygram,HADRAMOUT,103
+UNKNOWN,moneygram,SHABWA,9
+UNKNOWN,moneygram,DHAMAR,54
+UNKNOWN,moneygram,ALDHALEA,12
+UNKNOWN,moneygram,HADHRAMOUT,5
+UNKNOWN,moneygram,HODEIDAH,5
+UNKNOWN,moneygram,DAMT,1
+UNKNOWN,moneygram,SANA'A GOVERNORATE,1
+UNKNOWN,moneygram,AL-DHALEA GOVERNORATE,1
+UNKNOWN,moneygram,THAMAR,21
+UNKNOWN,moneygram,HAJAH,11
+UNKNOWN,moneygram,SOCOTRA,2
+UNKNOWN,moneygram,SANA'S,1
+UNKNOWN,moneygram,ABYAN,14
+UNKNOWN,moneygram,LAHJ,34
+UNKNOWN,moneygram,AL MUKALLA,6
+UNKNOWN,moneygram,AL-MAHARA,1
+UNKNOWN,moneygram,SADA,20
+UNKNOWN,moneygram,`AMRAN,23
+UNKNOWN,moneygram,AL-HODAIDAH,1
+UNKNOWN,moneygram,LAHIJ,5
+UNKNOWN,moneygram,ALHODAIDAH,20
+UNKNOWN,moneygram,AL BEIDHA,3
+UNKNOWN,moneygram,ALHUDAIDAH,33
+UNKNOWN,moneygram,ALMUKALLA,1
+UNKNOWN,moneygram,SHABWAH,20
+UNKNOWN,moneygram,ALHODIEDAH,1
+UNKNOWN,moneygram,AL HODIEDAH,1
+UNKNOWN,moneygram,MUKALLA,9
+UNKNOWN,moneygram,`ATAQ,1
+UNKNOWN,moneygram,AL MAHRAH,7
+UNKNOWN,moneygram,LAHJJ,2
+UNKNOWN,moneygram,MA'RIB,6
+UNKNOWN,moneygram,MAARIB,2
+UNKNOWN,moneygram,HAJJAH,33
+UNKNOWN,moneygram,AL-MAHRA,1
+UNKNOWN,moneygram,MARAB,4
+UNKNOWN,moneygram,RYMAH,1
+UNKNOWN,moneygram,HADIBOH,1
+UNKNOWN,moneygram,SADAA,7
+UNKNOWN,moneygram,ALMAHWEET,12
+UNKNOWN,moneygram,SADAA BRANCH,1
+UNKNOWN,moneygram,GOVERNORATE OF ALDHALE,1
+UNKNOWN,moneygram,GOVERNORATE OF ALBAIDHA,1
+UNKNOWN,moneygram,ALTAHRIR,1
+UNKNOWN,moneygram,AL ASBAHI,1
+UNKNOWN,moneygram,ALMANSORAH,2
+UNKNOWN,moneygram,ALHOTAH,1
+UNKNOWN,moneygram,ALGANAD,1
+UNKNOWN,moneygram,AL 'ABR,1
+UNKNOWN,moneygram,BANI MATTAR,1
+UNKNOWN,moneygram,BEIHAN,1
+UNKNOWN,moneygram,JA`AR,1
+UNKNOWN,moneygram,ZONGBAR,1
+UNKNOWN,moneygram,AL-DALIE,2
+UNKNOWN,moneygram,AL MAHWIT,1
+UNKNOWN,moneygram,AL-MAHWIAT,1
+UNKNOWN,moneygram,AL-HODIDUH,1
+UNKNOWN,moneygram,AL-HODEIDAH,9
+UNKNOWN,moneygram,SA'DAH,8
+UNKNOWN,moneygram,AMRAN,25
+UNKNOWN,moneygram,HUJA,1
+UNKNOWN,moneygram,SAADAH,3
+UNKNOWN,moneygram,AL HUDAYDAH,23
+UNKNOWN,moneygram,AL BAYDA',7
+UNKNOWN,moneygram,`IMRAN,8
+UNKNOWN,moneygram,ALMAHRA,4
+UNKNOWN,moneygram,RAYMAH,3
+UNKNOWN,moneygram,SHABOWAH,1
+UNKNOWN,moneygram,SAADA,11
+UNKNOWN,moneygram,ALMAHWIAT,1
+UNKNOWN,moneygram,ALAMANAH,1
+UNKNOWN,moneygram,YEMEN,1
+UNKNOWN,moneygram,AL HUDAIDAH,1
+UNKNOWN,moneygram,AL JAWF,5
+UNKNOWN,moneygram,AMANAT ALASEMA,4
+UNKNOWN,moneygram,SA'ADA,9
+UNKNOWN,moneygram,DAMT CITY,2
+UNKNOWN,moneygram,SANAA CITY,2
+UNKNOWN,moneygram,IBB CITY,7
+UNKNOWN,moneygram,AL-DHALI'E  CITY,5
+UNKNOWN,moneygram,ALSHAKH,2
+UNKNOWN,moneygram,ALMUKALA,7
+UNKNOWN,moneygram,ALTORBA,2
+UNKNOWN,moneygram,AL HAWBAN,1
+UNKNOWN,moneygram,ALDIMNAH,1
+UNKNOWN,moneygram,AL MA`AYIN,1
+UNKNOWN,moneygram,ALKHUKHAH,1
+UNKNOWN,moneygram,ALQEYADA,1
+UNKNOWN,moneygram,AL QANAWIS,1
+UNKNOWN,moneygram,ALZAIDIAH,1
+UNKNOWN,moneygram,ALTORBAH ALMMANSOORAH,1
+UNKNOWN,moneygram,ALSHOABAH,1
+UNKNOWN,moneygram,ALMANOM,1
+UNKNOWN,moneygram,ALBEARARAH,1
+UNKNOWN,moneygram,ALMANSSOREA,1
+UNKNOWN,moneygram,BEER BASHA,1
+UNKNOWN,moneygram,DAWAAN,1
+UNKNOWN,moneygram,HAWDH ALASHRAF,1
+UNKNOWN,moneygram,JADDER,1
+UNKNOWN,moneygram,MAFRAQ HOBAISH,1
+UNKNOWN,moneygram,MAFRAQ MAITAM,1
+UNKNOWN,moneygram,MADINAT ALNOOR,1
+UNKNOWN,moneygram,QA ALQAEDHI,1
+UNKNOWN,moneygram,SAWAAN,1
+UNKNOWN,moneygram,SABIR ALMWADDEM,1
+UNKNOWN,moneygram,ZABED,1
+UNKNOWN,moneygram,AL DHALE,1
+UNKNOWN,moneygram,ALHODAIDA,3
+UNKNOWN,moneygram,ALDHAHI,1
+UNKNOWN,moneygram,ALHUDAIDA,10
+UNKNOWN,moneygram,AMANAT ALASEMAH,3
+UNKNOWN,moneygram,AL BAYDA,1
+UNKNOWN,moneygram,AL HODAYDAH,1
+UNKNOWN,moneygram,ALHODIDAH,1
+UNKNOWN,moneygram,AMANT ALASMAH,4
+UNKNOWN,moneygram,ALJAWF,3
+UNKNOWN,moneygram,ALBAYDA,6
+UNKNOWN,moneygram,IMRAN,2
+UNKNOWN,moneygram,THI NAEM,1
+UNKNOWN,moneygram,SADAH,2
+UNKNOWN,moneygram,ALHUDEDAH,1
+UNKNOWN,moneygram,RADMAN,1
+UNKNOWN,moneygram,KHALAN ALSHARF,1
+UNKNOWN,moneygram,AMARN,1
+UNKNOWN,moneygram,AL DHALEA,2
+UNKNOWN,moneygram,ALMINA'A,1
+UNKNOWN,moneygram,KHAMR,2
+UNKNOWN,moneygram,ALDALA,1
+UNKNOWN,moneygram,ALMAKHA,1
+UNKNOWN,moneygram,ALMUDAFER,1
+UNKNOWN,moneygram,ALDALAA,4
+UNKNOWN,moneygram,ADEN CITY,1
+UNKNOWN,moneygram,BANI ALHARETH,1
+UNKNOWN,moneygram,NAJRA',1
+UNKNOWN,moneygram,TAWAHI,1
+UNKNOWN,moneygram,ALTHAWRAH,1
+UNKNOWN,moneygram,ALSABEEN,1
+UNKNOWN,moneygram,JABAL RA'S,1
+UNKNOWN,moneygram,ALTAIZIA,1
+UNKNOWN,moneygram,AL-BAIDHA,2
+UNKNOWN,moneygram,BEN SURAIM,1
+UNKNOWN,moneygram,ALHOUDAIDAH,2
+UNKNOWN,moneygram,AL-HALI,1
+UNKNOWN,moneygram,AL-JAWF,5
+UNKNOWN,moneygram,HOREB,1
+UNKNOWN,moneygram,ALKHABT,1
+UNKNOWN,moneygram,AL-SABEEN,2
+UNKNOWN,moneygram,BAIT AL-FAQIH,1
+UNKNOWN,moneygram,THAMAR CITY,1
+UNKNOWN,moneygram,KHUB AND AL-SHAAF,1
+UNKNOWN,moneygram,ABSS,1
+UNKNOWN,moneygram,AL-SABA'EEN,1
+UNKNOWN,moneygram,AL-MAHWET,1
+UNKNOWN,moneygram,SAHAR,1
+UNKNOWN,moneygram,ALMAHARAH,2
+UNKNOWN,moneygram,SA`ADAH,1
+UNKNOWN,moneygram,BANI ALHARITH,2
+UNKNOWN,moneygram,HAJA,1
+UNKNOWN,moneygram,ALDALEA CITY,1
+UNKNOWN,moneygram,MAJZ,1
+UNKNOWN,moneygram,BAADAN,1
+UNKNOWN,moneygram,AMANAT ALASMA,2
+UNKNOWN,moneygram,AL-BAIDHA'A,1
+UNKNOWN,moneygram,ALMAHRAH,10
+UNKNOWN,moneygram,ALHODEIDAH,1
+UNKNOWN,moneygram,AL HODEIDAH,1
+UNKNOWN,moneygram,ALQAHIRA,1
+UNKNOWN,moneygram,HUDAYDAH,1
+UNKNOWN,moneygram,ATAQ,2
+UNKNOWN,moneygram,AL-DHEHAR,1
+UNKNOWN,moneygram,ALHODAYDAH,1
+UNKNOWN,moneygram,AL-HAZM,2
+UNKNOWN,moneygram,MAEEN,1
+UNKNOWN,moneygram,HAMDAN,1
+UNKNOWN,moneygram,ALHUDIDAH,1
+UNKNOWN,moneygram,HUDIDAH,1
+UNKNOWN,moneygram,HADHRAMAUT,1
+UNKNOWN,moneygram,ADEM,1
+UNKNOWN,moneygram,SADDAH,1
+UNKNOWN,moneygram,AL HODDAIDAH,2
+UNKNOWN,moneygram,ALFIUSH,1
+UNKNOWN,moneygram,ALMANSSORAH,1
+UNKNOWN,moneygram,ALSOWADYAH,1
+UNKNOWN,moneygram,ALHASABAH,1
+UNKNOWN,moneygram,ALNADERAH,1
+UNKNOWN,moneygram,ALHATARESH,1
+UNKNOWN,moneygram,ALKHAMSEEN ST,1
+UNKNOWN,moneygram,JABAL RAAS,1
+UNKNOWN,moneygram,JIBLAH,1
+UNKNOWN,moneygram,KHOOR MAKSAR,1
+UNKNOWN,moneygram,KILO 4,1
+UNKNOWN,moneygram,KITAB,1
+UNKNOWN,moneygram,MADINAT ALSHAAB,1
+UNKNOWN,moneygram,QATABAH,1
+UNKNOWN,moneygram,RAYDAH,1
+UNKNOWN,moneygram,SAYAON,1
+UNKNOWN,moneygram,SOOQ ALAMAN,1
+UNKNOWN,moneygram,TAHAMAH,1
+UNKNOWN,moneygram,WOSAB ALSAAFEL,1
+UNKNOWN,moneygram,YAFIA- LABOOS,1
+UNKNOWN,moneygram,HADRAMUT,1
+UNKNOWN,moneygram,HADRAMOT,2
+UNKNOWN,moneygram,MODIAH,1
+UNKNOWN,moneygram,WISAB AL-SAFAIL,1
+UNKNOWN,moneygram,AL-SWOD,1
+UNKNOWN,moneygram,ZABID,1
+UNKNOWN,moneygram,AL-JUBAIN,1
+UNKNOWN,moneygram,AL- THAWRA,1
+UNKNOWN,moneygram,NEAR CAC BANK,1
+UNKNOWN,moneygram,BARAT AL-AINAN,1
+UNKNOWN,moneygram,ALMADEENAH,3
+UNKNOWN,moneygram,MODEA,1
+UNKNOWN,moneygram,SYOUN,1
+UNKNOWN,moneygram,MASHRAAH & HADNAN,1
+UNKNOWN,moneygram,DHAMMAR,2
+UNKNOWN,moneygram,DAR SAAD,2
+UNKNOWN,moneygram,BAJIL,1
+UNKNOWN,moneygram,LODER,1
+UNKNOWN,moneygram,AMANAT AL-ASIMAH,3
+UNKNOWN,moneygram,AMANAT AL-ASEMAH,2
+UNKNOWN,moneygram,AMANAT AL ASIMAH,1
+UNKNOWN,moneygram,AL-BAYDA,1
+UNKNOWN,moneygram,MARIB,11
+UNKNOWN,moneygram,ALMADEENAH -ALHORYAH AREA,1
+UNKNOWN,moneygram,AL-SALIF DISTRICT /MINAA AL-SALIF IN FRO,1
+UNKNOWN,moneygram,HABBAN,1
+UNKNOWN,moneygram,ALMEMDARAH,1
+UNKNOWN,moneygram,ALDALEA - ALMADEENAH -MAIN ST,1
+UNKNOWN,moneygram,AL-HAJELA DISTRICT,1
+UNKNOWN,moneygram,TAIZIEA,1
+UNKNOWN,moneygram,SHAHEN DISRICT,1
+UNKNOWN,moneygram,SALH,2
+UNKNOWN,moneygram,QATABAH-AZAB,1
+UNKNOWN,moneygram,RAIDAH,1
+UNKNOWN,moneygram,HAZM ALODAIN,1
+UNKNOWN,moneygram,ALDALEA,6
+UNKNOWN,moneygram,TAIZ - MAFRAQ JABAL HABASHI - BANI ISSA,1
+UNKNOWN,moneygram,YAFEEA - ALHAD - ALMAHAJI,1
+UNKNOWN,moneygram,ALHOUDDIAH,4
+UNKNOWN,moneygram,AMANAT ALASIMA,2
+UNKNOWN,moneygram,AMANT AL-ASIMAH,1
+UNKNOWN,moneygram,DHAMAR / DHAWRAN ANSS DISTRICT / MAIN ST,1
+UNKNOWN,moneygram,JUBAN,1
+UNKNOWN,moneygram,AL-SHARIA,1
+UNKNOWN,moneygram,HADRMOUT,1
+UNKNOWN,moneygram,SIAUN / ALWADEEAH,1
+UNKNOWN,moneygram,ALHUDAYDAH,1
+UNKNOWN,moneygram,AIDHALAA,1
+UNKNOWN,moneygram,TAIZ STREET AL-DAYRI INTERSECTION,1
+UNKNOWN,moneygram,DHAMMAR CITY,1
+UNKNOWN,moneygram,SABWAH,1
+UNKNOWN,moneygram,HUDAYAH,1
+UNKNOWN,moneygram,HADERAMOOT,1
+UNKNOWN,moneygram,SIAUN,1
+UNKNOWN,moneygram,AL-HUDDIDAH,1
+UNKNOWN,moneygram,TAIZ /ALSHAMATEEN - AL MANSOURA-MAIN ST,1
+UNKNOWN,moneygram,AMANAT ALASIMAH,1
+UNKNOWN,moneygram,ALBAYDA'A,1
+UNKNOWN,moneygram,HODEIDAH CITY,1
+UNKNOWN,moneygram,YAREEM CITY,1
+UNKNOWN,moneygram,AL BAITHA,1
+UNKNOWN,moneygram,MUKALA,1
+UNKNOWN,moneygram,AMMRAN,1
+UNKNOWN,moneygram,RADA`,1
+UNKNOWN,moneygram,TA`IZZ,8
+UNKNOWN,moneygram,LITTLE ADEN,7
+UNKNOWN,moneygram,SAY'UN,1
+UNKNOWN,moneygram,HARAD,1
+UNKNOWN,moneygram,BAGHDAL,1
+UNKNOWN,moneygram,YARIM,1
+UNKNOWN,moneygram,NAJD AN NASHAMAH,2
+UNKNOWN,moneygram,BARH AL HARZAH,1
+UNKNOWN,moneygram,HAJDAH,1
+UNKNOWN,moneygram,ABYAD,1
+UNKNOWN,moneygram,LAWDAR,1
+UNKNOWN,moneygram,AL QAMA,1
+UNKNOWN,moneygram,AD DAHI,1
+UNKNOWN,moneygram,AL GHAYDAH,1
+UNKNOWN,moneygram,SHOMAHI,1
+UNKNOWN,moneygram,AL LASBAH,1
+UNKNOWN,moneygram,JAWL `AQIL,1
+UNKNOWN,moneygram,BAYT AL KHADR,1
+UNKNOWN,moneygram,`ADAN,2
+UNKNOWN,moneygram,AD DALI',1
+UNKNOWN,moneygram,SANHAN,1
+UNKNOWN,moneygram,ALAMANA,2
+UNKNOWN,moneygram,MAHWEET,1
+UNKNOWN,moneygram,SANNA,1
+UNKNOWN,moneygram,HAJJA,1
+UNKNOWN,moneygram,RAIMAH,1
+UNKNOWN,moneygram,CRATER,2
+UNKNOWN,moneygram,CREATER,2
+UNKNOWN,moneygram,ALMEHWEET,1
+UNKNOWN,moneygram,ALTTORBAH,1
+ALHODAIDA,visa,ALHODAIDA,1
+UNKNOWN,visa,HUDAIDA,2
+UNKNOWN,visa,TAIZ,4
+TAIZ,visa,TAIZ,1
+UNKNOWN,visa,IBB,2
+IBB,visa,IBB,1
+UNKNOWN,visa,AMRAN,2
+UNKNOWN,visa,SANA'A,22
+UNKNOWN,visa,DHAMAR,3
+UNKNOWN,visa,SANAA,12
+SANAA,visa,SANAA,2
+UNKNOWN,visa,MOKALA,2
+ADEN,visa,ADEN,1
+UNKNOWN,visa,ADEN,7
+UNKNOWN,visa,ALHODAIDAH,1
+UNKNOWN,visa,SHABWAH,1
+MUKALLA,visa,MUKALLA,1
+UNKNOWN,visa,HADHRAMAUT,3
+MUHAFAZATHADRAMAWT,visa,SLAVKOV U BRNA,1
+MUHAFAZATHADRAMAWT,visa,BENATKY NAD JIZEROU,1
+MUHAFAZATHADRAMAWT,visa,SVIADNOV,1
+IBB,western_union,Ibb,66
+AMRAN,western_union,Amran,13
+HAJJAH,western_union,Hajjah,10
+HAJJAH,western_union,Al Mahabesha,1
+HAJJAH,western_union,Abs,1
+HAJJAH,western_union,Haradh,1
+ALHUDAYDAH,western_union,Alhodaidah,8
+ALJAWF,western_union,Al Jawf,1
+SADAH,western_union,Saada,5
+HAJJAH,western_union,Harad,1
+HAJJAH,western_union,Hajja,1
+YEMEN,western_union,Marib,2
+SANAA,western_union,Sana A,10
+ALHUDAYDAH,western_union,Al Hudaydah,21
+MARIB,western_union,Marib,24
+AMANATALASIMAH,western_union,Sanaa,31
+ALMAHWIT,western_union,Al Mahwit,4
+SANAA,western_union,Sanaa,283
+ALHUDAYDAH,western_union,Alhoudaidah,1
+ALHUDAYDAH,western_union,Hodaidah,1
+ALHUDAYDAH,western_union,Bajil,1
+DHAMAR,western_union,Dhamar,21
+ALHODEIDAH,western_union,Alhodeidah,1
+AMANATALASEMAH,western_union,Sana'a,2
+TAIZ,western_union,Taizz,23
+UNKNOWN,western_union,Sanaa,1
+YEMEN,western_union,Sanaa,1
+ADEN,western_union,Aden,74
+YEMEN,western_union,Aden,14
+ADEN,western_union,Al Mansourah,1
+LAHIJ,western_union,Lahij,2
+ALHUDAYDAH,western_union,Bayt Al Faqih,2
+SANAA,western_union,Alwahdah,1
+YEMEN,western_union,Lahj,4
+TAIZ,western_union,Almukha,1
+TAIZ,western_union,Mocha,1
+TAIZ,western_union,Taiz,28
+DHAMAR,western_union,Thamar,2
+DHALE,western_union,Dhale,2
+DHALE,western_union,Damt,2
+YEMEN,western_union,Taiz,21
+ALMAAFER,western_union,Taiz,1
+UNKNOWN,western_union,Shamar,1
+YEMEN,western_union,Aldhala,1
+ALHUDAYDAH,western_union,Al Jarrahi,1
+LAHIJ,western_union,Lahj,2
+RAYMAH,western_union,Raymah,1
+ALHUDAYDAH,western_union,Zabeed,1
+YEMEN,western_union,Alhudaydah,2
+HODEIDAH,western_union,Hodeidah,1
+DHALE,western_union,Ad Dal,3
+DHALE,western_union,Aldalea,1
+ALTHAWRAH,western_union,Taiz,1
+IBB,western_union,Al Qaidah,2
+IBB,western_union,Yareem,1
+DHALE,western_union,Aldhalea,1
+ALMAHRAH,western_union,Almahrah,1

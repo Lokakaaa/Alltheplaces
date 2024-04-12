@@ -1,0 +1,53 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5100,abc_pl,abc,,Radocza,małopolskie,,PL,,,,abc,Q11683985
+5189,abc_pl,abc,,Wadowice,małopolskie,,PL,,,,abc,Q11683985
+10300,abc_pl,abc,,Wadowice,małopolskie,,PL,,,,abc,Q11683985
+4231,abc_pl,abc,,Radocza,małopolskie,,PL,,,,abc,Q11683985
+4005,abc_pl,abc,,Wadowice,małopolskie,,PL,,,,abc,Q11683985
+3955,abc_pl,abc,,Tomice,małopolskie,,PL,,,,abc,Q11683985
+10177,abc_pl,abc,,Wadowice,małopolskie,,PL,,,,abc,Q11683985
+5993,abc_pl,abc,,Wadowice,małopolskie,,PL,,,,abc,Q11683985
+10163,abc_pl,abc,,Wadowice,małopolskie,,PL,,,,abc,Q11683985
+6234,abc_pl,abc,,Wadowice,małopolskie,,PL,,,,abc,Q11683985
+6247,abc_pl,abc,,Jaroszowice,małopolskie,,PL,,,,abc,Q11683985
+PL001274,aldi_nord_pl,ALDI,,Wadowice,Małopolskie,,PL,+48 800 118 118,,Mo-Sa 06:00-22:00,ALDI,Q41171373
+https://www.credit-agricole.pl/kontakt/oddzial/21066-wadowice-lwowska,credit_agricole_pl,"Credit Agricole Lwowska 17, Wadowice",,Wadowice,małopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/21066-wadowice-lwowska,Mo-Fr 09:00-16:00,Credit Agricole,Q590952
+572,dr_max,"Apteka Dr.Max, Dr. Putka 7, Wadowice",,Wadowice,Małopolskie,,PL,+48 33 872 35 92,https://www.drmax.pl/apteki/wadowice-dr-putka-7,,Dr. Max,Q56317371
+12584,groszek_pl,Groszek,,Wadowice,małopolskie,,PL,,,,Groszek,Q9280965
+14560,groszek_pl,Groszek,,Wadowice,małopolskie,,PL,,,,Groszek,Q9280965
+JOI01C,paczkomat_inpost_pl,parking przy Lewiatanie,,Jaroszowice,małopolskie,,PL,,https://inpost.pl/paczkomat-jaroszowice-joi01c-zakopianska-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+JOI01M,paczkomat_inpost_pl,Z prawej strony przy wjeździe,,Jaroszowice,małopolskie,,PL,,https://inpost.pl/paczkomat-jaroszowice-joi01m-zakopianska-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+JOI02M,paczkomat_inpost_pl,Z boku sklepu CHORTEN,,Jaroszowice,małopolskie,,PL,,https://inpost.pl/paczkomat-jaroszowice-joi02m-jaroszowice-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+POP-WAD1,paczkomat_inpost_pl,SKLEP ELEKTRONICZNY,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-pop-wad1-mydlarska-paczkomaty-malopolskie,Mo-Fr 09:00-17:00; Sa 09:00-13:00,Paczkomat,Q110970254
+POP-WAD4,paczkomat_inpost_pl,EPAKA,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-pop-wad4-os-kopernika-paczkomaty-malopolskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-WAD5,paczkomat_inpost_pl,AL.CAPONE,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-pop-wad5-lwowska-paczkomaty-malopolskie,Mo-Fr 05:00-23:00; Sa-Su 07:00-24:00,Paczkomat,Q110970254
+RDX01M,paczkomat_inpost_pl,Przy Stacji Paliw i kopleksie BAKOS,,Radocza,małopolskie,,PL,,https://inpost.pl/paczkomat-radocza-rdx01m-jana-pawla-ii-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+TOM01M,paczkomat_inpost_pl,Sklep AVITA,,Tomice,małopolskie,,PL,,https://inpost.pl/paczkomat-tomice-tom01m-radosna-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+TOM01N,paczkomat_inpost_pl,Przy wejściu do sklepu Delikatesy Centrum,,Tomice,małopolskie,,PL,,https://inpost.pl/paczkomat-tomice-tom01n-wadowicka-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+TOM02M,paczkomat_inpost_pl,Sklep Spożywczy,,Tomice,małopolskie,,PL,,https://inpost.pl/paczkomat-tomice-tom02m-wspolna-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD01A,paczkomat_inpost_pl,Przy markecie Biedronka,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad01a-wojska-polskiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD01M,paczkomat_inpost_pl,"Na parkingu sklepu Netto, przy aptece",,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad01m-mb-fatimskiej-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD01MP,paczkomat_inpost_pl,Parking supermarketu „STOP”,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad01mp-mickiewicza-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD01N,paczkomat_inpost_pl,Stacja paliw BP,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad01n-lwowska-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD02A,paczkomat_inpost_pl,Przy stacji MOYA,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad02a-pilsudskiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD02M,paczkomat_inpost_pl,Parking sklepu Lidl,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad02m-zegadlowicza-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD02N,paczkomat_inpost_pl,Przy wjeździe na parking sklepu PSB Mrówka,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad02n-wenecja-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD03M,paczkomat_inpost_pl,Przy stacji Orlen,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad03m-batorego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD04M,paczkomat_inpost_pl,Obok stacji paliw,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad04m-putka-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD05M,paczkomat_inpost_pl,Przy markecie Majster,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad05m-konstytucji-3-maja-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD06M,paczkomat_inpost_pl,Sklep Spożywczy Lewiatan,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad06m-aleja-wolnosci-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD07M,paczkomat_inpost_pl,Przed budynkiem Handlowo - Usługowym,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad07m-legionow-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WAD08M,paczkomat_inpost_pl,Na parkingu Aldi,,Wadowice,małopolskie,,PL,,https://inpost.pl/paczkomat-wadowice-wad08m-wojska-polskiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+41,play_pl,Salon Play,Pl. Kościuszki 2,Wadowice,małopolskie,,PL,+48 790 032 289,,Mo-Fr 09:00-17:00; Sa 09:00-13:00,Play,Q7202998
+395,play_pl,Salon Play,Ul. Zatorska 25,Wadowice,małopolskie,,PL,+48 790 030 615,,Mo-Fr 09:00-17:00; Sa 09:00-13:00,Play,Q7202998
+329059,poczta_polska_pl,FUP Wadowice,,Wadowice,MAŁOPOLSKIE,,PL,+48 885 900 352,,,Poczta Polska,Q168833
+271609,poczta_polska_pl,UP Wadowice,,Wadowice,MAŁOPOLSKIE,,PL,+48 33 823 31 47,,,Poczta Polska,Q168833
+301620,poczta_polska_pl,AP Wadowice,,Wadowice,MAŁOPOLSKIE,,PL,+48 881 338 501,,,Poczta Polska,Q168833
+,visa,,,WADOWICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,WADOWICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,WADOWICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,WADOWICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,WADOWICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,WADOWICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,WADOWICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,WADOWICE,MAŁOPOLSKIE,,PL,,,,,

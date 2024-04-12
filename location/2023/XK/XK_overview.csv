@@ -1,0 +1,217 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+PRISTINA,audi,Obiliq - Prishtina,1
+PRISHTINEFERIZAJKM3,avis,Prishtine,1
+PRISHTINE,avis,Prishtine,1
+DRAGODANARBERI,avis,Prishtine,1
+UNKNOWN,esprit,Prishtina,307
+UNKNOWN,hm,Prishtina,2
+01,hugo_boss,Pristina,2
+UNKNOWN,man_truck_and_bus,Prishtina,1
+UNKNOWN,marriott,Prishtina,1
+UNKNOWN,moneygram,KACANIK,4
+UNKNOWN,moneygram,KLINA,1
+UNKNOWN,moneygram,FERIZAJ,13
+UNKNOWN,moneygram,PRIZREN,19
+UNKNOWN,moneygram,PRISHTINA,11
+UNKNOWN,moneygram,PODUJEVE,3
+UNKNOWN,moneygram,PRISHTINE,14
+UNKNOWN,moneygram,VITI,4
+UNKNOWN,moneygram,PEJE,9
+UNKNOWN,moneygram,MITROVICE,5
+UNKNOWN,moneygram,DECAN,4
+UNKNOWN,moneygram,ISTOG,9
+UNKNOWN,moneygram,GJILAN,8
+UNKNOWN,moneygram,SUHAREKE,4
+UNKNOWN,moneygram,SHTIME,4
+UNKNOWN,moneygram,LIPJAN,4
+UNKNOWN,moneygram,VUSHTRRI,3
+UNKNOWN,moneygram,HANI I ELEZIT,1
+UNKNOWN,moneygram,NORTH MITROVICA,1
+UNKNOWN,moneygram,KAMENICE,3
+UNKNOWN,moneygram,GJAKOVA,1
+UNKNOWN,moneygram,DRENAS,5
+UNKNOWN,moneygram,GJAKOVE,6
+UNKNOWN,moneygram,FUSHE KOSOVE,3
+UNKNOWN,moneygram,KLINE,3
+UNKNOWN,moneygram,RAHOVEC,6
+UNKNOWN,moneygram,GLLOGOC,2
+UNKNOWN,moneygram,SKENDERAJ,3
+UNKNOWN,moneygram,MALISHEVE,5
+UNKNOWN,moneygram,JUNIK,1
+UNKNOWN,moneygram,MITROVICA,2
+UNKNOWN,moneygram,ZUBIN POTOK,1
+UNKNOWN,moneygram,DRAGASH,2
+UNKNOWN,moneygram,KOSOVO,1
+UNKNOWN,moneygram,THERAND,1
+UNKNOWN,newyorker,Prishtina,1
+UNKNOWN,newyorker,Prizren,1
+UNKNOWN,newyorker,Ferizej,1
+UNKNOWN,newyorker,Podujeva,1
+UNKNOWN,newyorker,Pristina,1
+UNKNOWN,newyorker,Gjilan,1
+PRIZREN,next,Pn. 20000,1
+GRACANICE,next,Njesia 00-020,1
+UNKNOWN,next,10000,1
+NEXTNR8,next,Central Park Prishtina Lokali,1
+UNKNOWN,ovs,Pristina,1
+UNKNOWN,ovs,Prizren,1
+UNKNOWN,ovs,Gjilan,1
+UNKNOWN,ovs,Peja,1
+UNKNOWN,ovs,Ferizaj,1
+UNKNOWN,ovs,Mitrovica,1
+UNKNOWN,renault,PRISTINA,2
+KOSOVO,shell,Fushë Kosovë,3
+KOSOVO,shell,Prishtinë,8
+KOSOVO,shell,Obiliq,3
+KOSOVO,shell,Drenas,3
+KOSOVO,shell,Ferizaj,6
+KOSOVO,shell,Vushtrri,2
+KOSOVO,shell,Malishevë,3
+KOSOVO,shell,Mitrovicë,3
+KOSOVO,shell,Podujevë,2
+KOSOVO,shell,Gjilan,3
+KOSOVO,shell,Suharek,1
+KOSOVO,shell,Klinë,1
+KOSOVO,shell,Viti,1
+KOSOVO,shell,Rahovec,3
+KOSOVO,shell,Kamenicë,1
+KOSOVO,shell,Prizren,6
+KOSOVO,shell,Elez Han,1
+KOSOVO,shell,Istog,1
+KOSOVO,shell,Pejë,7
+KOSOVO,shell,Gjakova,2
+UNKNOWN,superdry,Prishtina,1
+UNKNOWN,tommy_hilfiger,Pristina,1
+UNKNOWN,turkiye_is_bankasi,unknown,4
+UNKNOWN,united_colors_of_benetton,PRISTINA,1
+UNKNOWN,united_colors_of_benetton,PRIZREN,1
+UNKNOWN,visa,DRAGASH,2
+KOSOVO,visa,PRIZREN,7
+UNKNOWN,visa,PRIZREN,13
+KOSOVO,visa,GJAKOVE,3
+UNKNOWN,visa,GJAKOVE,9
+UNKNOWN,visa,RAHOVEC,5
+UNKNOWN,visa,DECAN,4
+UNKNOWN,visa,DRENAS,6
+UNKNOWN,visa,SHTERPCE,2
+KOSOVO,visa,RAHOVEC,1
+UNKNOWN,visa,HANI I ELEZIT,2
+KOSOVO,visa,THERRANDA,2
+UNKNOWN,visa,SUHAREKE,1
+UNKNOWN,visa,THERANDA,1
+UNKNOWN,visa,THERANDE,4
+KOSOVO,visa,PRISHTINA,31
+UNKNOWN,visa,KACANIK,3
+KOSOVO,visa,PEJE,4
+UNKNOWN,visa,PEJE,14
+UNKNOWN,visa,MALISHEVE,5
+KOSOVO,visa,MALISHEVE,1
+KOSOVO,visa,FERIZAJ,6
+UNKNOWN,visa,FERIZAJ,12
+UNKNOWN,visa,KLINE,4
+KOSOVO,visa,KLINA,1
+KOSOVO,visa,SHTIME,1
+UNKNOWN,visa,SHTIME,3
+UNKNOWN,visa,VITI,4
+KOSOVO,visa,VITI,1
+UNKNOWN,visa,POZHARAN,1
+KOSOVO,visa,KOMORAN,1
+UNKNOWN,visa,ISTOG,2
+KOSOVO,visa,LIPJAN,2
+UNKNOWN,visa,LIPJAN,4
+UNKNOWN,visa,BURIM,2
+KOSOVO,visa,ISTOG,1
+KOSOVO,visa,DRENAS,1
+UNKNOWN,visa,GJILAN,10
+KOSOVO,visa,GJILAN,3
+UNKNOWN,visa,SLLATINE,1
+UNKNOWN,visa,SKENDERAJ,4
+KOSOVO,visa,SKENDERAJ,1
+KOSOVO,visa,FUSHE KOSOVA,4
+UNKNOWN,visa,FUSHE KOSOVE,4
+UNKNOWN,visa,GRACANICA,1
+UNKNOWN,visa,PRISHTINE,52
+UNKNOWN,visa,AEROPORT PRISHTINA,1
+KOSOVO,visa,OBILIQ,1
+UNKNOWN,visa,PRISHTINA,10
+UNKNOWN,visa,PRISTINE,1
+UNKNOWN,visa,ELEZ HAN,1
+UNKNOWN,visa,LYPJAN,2
+UNKNOWN,visa,KAMENICE,3
+UNKNOWN,visa,VUSHTRRI,5
+UNKNOWN,visa,FUSHEKOSOVE,1
+UNKNOWN,visa,GJAKOVA,1
+UNKNOWN,visa,KASTRIOT,1
+UNKNOWN,visa,PODUJEVE,3
+UNKNOWN,visa,NORTH MITROVICA,1
+UNKNOWN,visa,GRACANICE,1
+KOSOVSKIOKRUG,visa,PRIŠTINA,1
+KOSOVO,visa,VUSHTRRI,2
+UNKNOWN,visa,MITROVICA,2
+UNKNOWN,visa,MITROVICE,6
+UNKNOWN,visa,DARDAN,1
+UNKNOWN,visa,DARDANE,1
+UNKNOWN,visa,MI,1
+KOSOVO,visa,MITROVICE,4
+KOSOVO,visa,PODUJEVA,3
+UNKNOWN,visa,BESIANE,3
+UNKNOWN,visa,LEPOSAVIC,2
+PRISHTINA,western_union,Podujeve,6
+KOSOVO,western_union,Mitrovice,1
+KOSOVO,western_union,Kamenice,3
+MITROVICE,western_union,Mitrovice,4
+VUSHTRRI,western_union,Vushtrri,2
+KOSOVO,western_union,Vushtrri,1
+FUSHEKOSOVE,western_union,Fushe Kosove,6
+MITROVICA,western_union,Zubin Potok,1
+GRACANICE,western_union,Gracanice,1
+NOVOBERDA,western_union,Novoberde,1
+MITROVICA,western_union,Kosovska Mitrovica,1
+KOSOVO,western_union,Prishtine,8
+PRISHTINA,western_union,Prishtine,23
+GJILAN,western_union,Korminjan I Eperm,1
+GJILAN,western_union,Gjilan,11
+KOSOVO,western_union,Obiliq,1
+PRISHTINA,western_union,Obiliq,1
+KOSOVO,western_union,Shillove,1
+KOSOVO,western_union,Kufce,1
+SKENDERAJ,western_union,Skenderaj,1
+KOSOVO,western_union,Gjilan,1
+PRISHTINA,western_union,Prshtine,1
+KOSOVO,western_union,Pasjan,1
+ISTOG,western_union,Istog,2
+KOSOVO,western_union,Lipjan,2
+GJILAN,western_union,Zheger,1
+LIPJAN,western_union,Lipjan,2
+ISTOG,western_union,Vrelle,1
+PRISHTINA,western_union,Drenas,2
+PRISHTINA,western_union,Gllogoc,1
+GJILAN,western_union,Viti,4
+PRISHTINA,western_union,Kamaran,1
+ISTOG,western_union,Banja E Pejes,1
+GJILAN,western_union,Pozhoran,1
+KOSOVO,western_union,Gllogoc,1
+FERIZAJ,western_union,Ferizaj,12
+KLINE,western_union,Kline,2
+PRIZREN,western_union,Kijeve,2
+PEJA,western_union,Peje,8
+SHTIME,western_union,Shtime,1
+KOSOVO,western_union,Ferizaj,3
+KOSOVO,western_union,Peje,1
+KOSOVO,western_union,Malisheve,2
+MALISHEVE,western_union,Malisheve,4
+HANIIELEZIT,western_union,Hani I Elezit,1
+KOSOVO,western_union,Suhareke,1
+PRIZREN,western_union,Suhareke,4
+RAHOVEC,western_union,Rahovec,3
+DECAN,western_union,Decan,1
+KACANIK,western_union,Kacanik,1
+GJAKOVA,western_union,Gjakove,10
+KOSOVO,western_union,Mamushe,1
+KOSOVO,western_union,Prizren,3
+RAHOVEC,western_union,Xerxe,1
+PRIZREN,western_union,Prizren,8
+PRIZREN,western_union,Bresane,1
+DRAGASH,western_union,Dragash,2
+MITROVICA,western_union,Leposavic,1

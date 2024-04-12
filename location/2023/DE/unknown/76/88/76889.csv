@@ -1,0 +1,27 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+RAS-1,aldi_sud_de,,"Im Weidfeld 2, 76889, Pleisweiler-Oberhofen, Deutschland",Pleisweiler-Oberhofen,,,DE,,,Mo-Sa 08:00-20:00,ALDI Süd,Q41171672
+RAS-83,aldi_sud_de,,"Hauptstraße 104, 76889, Schweighofen, Deutschland",Schweighofen,,,DE,,,Mo-Sa 08:00-20:00,ALDI Süd,Q41171672
+30635_3,bmw_group,AH Euler Pirmasens GmbH Filiale Bad Bergzabern,,Pleisweiler-Oberhofen,,,DE,+49 6343 93790,https://www.bmw-euler.de,,BMW,Q26678
+49.1398678.018072,dpd_de,Land.Wein.Gut GmbH,,Klingenmünster,,,DE,,,,DPD,Q541030
+49.0465997.954449,dpd_de,Zollheisel GmbH,,Schweigen-Rechtenbach,,,DE,,,,DPD,Q541030
+100362915,exxonmobil,Esso Station Klingenmuenster Weinstrasse,,KLINGENMUENSTER,,,DE,+49 6349 928499,https://www.esso.de/de-de/find-station/esso-klingenmuenster-essostationklingenmuensterweinstrasse-100362915,Mo-Fr 06:30-20:00; Sa-Su 08:00-20:00,Esso,Q867662
+2760915558,gls_de,Zollheisel GmbH,,Schweigen-Rechtenbach,,,DE,+49 6342 923693,,Mo-Fr 07:30-20:00; Sa 08:00-20:00,General Logistics Systems,Q46495823
+5966,kik,KiK,,Schweigen-Rechtenbach,,,DE,+49 6342 9230033,,Mo-Sa 09:00-19:00,KiK,Q883965
+4118,lidl_de,Oberhofen,,Pleisweiler,,,DE,,,Mo-Sa 07:00-21:00,Lidl,Q151954
+145781,sparkasse_de,Sparkasse Südpfalz Geldautomat Klingenmünster,,Klingenmünster,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-suedpfalz-geldautomat-klingenmuenster-145781,,Sparkasse,Q13601825
+105672,sparkasse_de,Sparkasse Südpfalz Geschäftsstelle Klingenmünster,,Klingenmünster,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/filialen/sparkasse-suedpfalz-geschaeftsstelle-klingenmuenster-105672,"Mo 09:00-12:00; Tu 09:00-12:00,14:30-16:30; Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00",Sparkasse,Q13601825
+145799,sparkasse_de,Sparkasse Südpfalz Geldautomat Schweigen,,Schweigen-Rechtenbach,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-suedpfalz-geldautomat-schweigen-145799,Mo-Su 06:00-23:00,Sparkasse,Q13601825
+105767,sparkasse_de,Sparkasse Südpfalz SB-Geschäftsstelle Schweigen,,Schweigen-Rechtenbach,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/filialen/sparkasse-suedpfalz-sb-geschaeftsstelle-schweigen-105767,Mo-Su 06:00-23:00,Sparkasse,Q13601825
+145807,sparkasse_de,Sparkasse Südpfalz Geldautomat Steinfeld,,Steinfeld,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-suedpfalz-geldautomat-steinfeld-145807,Mo-Su 06:00-23:00,Sparkasse,Q13601825
+105788,sparkasse_de,Sparkasse Südpfalz Geschäftsstelle Steinfeld,,Steinfeld,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/filialen/sparkasse-suedpfalz-geschaeftsstelle-steinfeld-105788,"Tu 09:00-12:00,14:00-18:00; Fr 09:00-12:00",Sparkasse,Q13601825
+,visa,,,SCHWEIGEN-RECHTENBACH,,,DE,,,,,
+,visa,,,SCHWEIGEN-RECHTENBACH,,,DE,,,,,
+,visa,,,STEINFELD,,,DE,,,,,
+,visa,,,STEINFELD,,,DE,,,,,
+,visa,,,OBEROTTERBACH,,,DE,,,,,
+,visa,,,D??RRENBACH,,,DE,,,,,
+,visa,,,KAPELLEN-DRUSWEILER,,,DE,,,,,
+,visa,,,KLINGENMUENSTER,,,DE,,,,,
+,visa,,,KLINGENMUENSTER,,,DE,,,,,
+https://www.vr.de/standorte/S/Sn-Sz/vr-bank-suedliche-weinstrasse-wasgau-eg-geschaeftsstelle-steinf-8443.html,vr_bank,"VR Bank Südliche Weinstraße-Wasgau eG, Geschäftsstelle Steinfeld",,Steinfeld,,,DE,+49 6343 9452814,https://www.vrbank-sww.de,"Mo-Tu 09:00-12:00,14:00-16:00; We 09:00-12:00; Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-16:00",,
+https://www.vr.de/standorte/K/vr-bank-suedliche-weinstrasse-wasgau-eg-geschaeftsstelle-klinge-4522.html,vr_bank,"VR Bank Südliche Weinstraße-Wasgau eG, Geschäftsstelle Klingenmünster",,Klingenmünster,,,DE,+49 6343 9452802,https://www.vrbank-sww.de,"Mo-Tu 09:00-12:00,14:00-16:00; We 09:00-12:00; Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-16:00",,

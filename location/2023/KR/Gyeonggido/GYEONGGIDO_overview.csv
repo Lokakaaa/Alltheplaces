@@ -1,0 +1,122 @@
+City,Place Name,Zipcode,Name
+Seoul,audi,Yeongsin-ro Yeongdeungpo-gu 224 07228 Seoul,unknown,Audi Service Yeongdeungpo
+Seoul,audi,Sinmok-ro Yangcheon-gu 53 08010 Seoul,unknown,Audi Mokdong
+Seoul,audi,Cheonho-daero Seongdong-gu 454 04808 Seoul,unknown,Audi Dongdaemun
+Gyeonggi Suwon,audi,Jungbu-daero Yeongtong-gu 412 16529 Gyeonggi Suwon,unknown,Audi Suwon
+Gyeonggi Suwon,audi,Jungbu-daero Giheung-gu 194 17095 Gyeonggi Suwon,unknown,Audi Service Suwon
+Gyeonggi Seongnam,audi,Daewangpangyo-ro Bundang-gu 183 13552 Gyeonggi Seongnam,unknown,Audi Pangyo
+Gyeonggi Goyang,audi,Deoksan-ro 99beon-gil Ilsanseo-gu 131 10204 Gyeonggi Goyang,unknown,Audi Service Ilsan
+Gyeonggi Seongnam,audi,Saemaeul-ro Bundang-gu 31 13572 Gyeonggi Seongnam,unknown,Audi Center Bundang
+Gyeonggi Goyang,audi,Jungang-ro Ilsandong-gu 1019 10449 Gyeonggi Goyang,unknown,Audi Ilsan
+Seoul,audi,Chunminro-2gil Sonpa-gu 8 05816 Seoul,unknown,Audi Songpadaero
+Seoul,audi,Nonhyeon-ro 18gil Gangnam-gu 9 06307 Seoul,unknown,Audi Service Gaepo
+Seoul,audi,Yeongdong-daero Gangnam-gu 318 06177 Seoul,unknown,Audi Center Daechi
+Seoul,audi,Olympic-ro Songpa-gu 336 05542 Seoul,unknown,Audi Jamsil
+Gyeonggi Yongin,audi,Yonggu-daero 2469beongil Giheung-gu 145 16906 Gyeonggi Yongin,unknown,Audi Service Yongin
+Hwaseong,audi,Dongtansunhwan-daero 763 18472 Hwaseong,unknown,Audi Dongtan
+Kyounggi-do Hanam,audi,Misagangbyeonjungang-ro 33 12939 Kyounggi-do Hanam,unknown,Audi Service Gangdong
+Gyeonggi Anyang,audi,Bulmal-ro Dongan-gu 87 14055 Gyeonggi Anyang,unknown,Audi Anyang
+Uijeongbu,botteg_aveneta,,unknown,Uijeongbu - Shinsegae
+Gyeonggi-Do,citi,,unknown,SinGok Branch
+Seoul,lhw,Lotte World Tower 76F-101F 300 Olympic-Ro Songpa-Gu Seoul 5551 Korea,unknown,Signiel Seoul
+Seongnam-si,mercedes_benz,,unknown,"Han Sung Motor Co., Ltd."
+Hwaseong-si,mercedes_benz,,unknown,The Class HYOSUNG Corp.
+Goyang-si,mercedes_benz,,unknown,"MOTORONE Co., Ltd."
+Guri-si,mercedes_benz,,unknown,The Class HYOSUNG Corp.
+Uijeongbu-si,mercedes_benz,,unknown,"MOTORONE Co., Ltd."
+Yongin,mercedes_benz,,unknown,The Class HYOSUNG Corp.
+Suwon,mercedes_benz,,unknown,"Han Sung Motor Co., Ltd."
+Anyang-si,mercedes_benz,,unknown,The Class HYOSUNG Corp.
+Hanam-si,mercedes_benz,,unknown,The Class HYOSUNG Corp.
+"Seongnam-si,",mercedes_benz,,unknown,"Han Sung Motor Co., Ltd."
+Anseong-si,mercedes_benz,,unknown,"Han Sung Motor Co., Ltd."
+Bucheon-si,mercedes_benz,,unknown,KCC Auto Corp.
+Gimpo-si,mercedes_benz,,unknown,KCC Auto Corp.
+Suwon-si,mercedes_benz,,unknown,"Han Sung Motor Co., Ltd."
+"Yongin-si,",mercedes_benz,,unknown,"Han Sung Motor Co., Ltd."
+Yongin-si,mercedes_benz,,unknown,The Class HYOSUNG Corp.
+Paju-si,mercedes_benz,,unknown,"MOTORONE Co., Ltd."
+unknown,shake_shack,161 Mokdongseo-ro Yangcheon-gu; Seoul   South Korea,unknown,"Mokdong, Seoul"
+unknown,shake_shack,1F Dongil-ro 1414; Nowon-Gu Seoul   South Korea,unknown,"Seoul, Nowon"
+unknown,shake_shack,1st floor of the 15 Times Square in Yeongjung-ro; Yeongdeungpo-gu Seoul   South Korea,unknown,"Seoul, Yeongdeungpo Time Square"
+unknown,shake_shack,1955 Goyang-daero; Deogyang-gu Goyang-si Gyeonggi-do   South Korea,unknown,"Seoul, Starfield Goyang"
+unknown,the_good_feet_store,7F 45 Buil-ro 233beon-gil Bucheon-si Gyeonggi-do KOR 17300,unknown,The Good Feet Store Gyeonggi-do
+unknown,the_good_feet_store,362 Daehwa-ro Ilsanseo-gu Goyang-si Goyang KOR 10200,unknown,The Good Feet Store Goyang
+양천구,trekbikes,,unknown,트렉 바이시클 목동점(직영점)
+송파구,trekbikes,,unknown,트렉 바이시클 송파점 (직영점)
+광진구,trekbikes,,unknown,트렉 바이시클 광진점 (직영점)
+화성시,trekbikes,,unknown,트렉 바이시클 동탄점
+하남시,trekbikes,,unknown,트렉 바이시클 미사점 (직영점)
+일산서구,trekbikes,,unknown,트렉 바이시클 일산점 (직영점)
+영통구,trekbikes,,unknown,트렉 바이시클 광교점
+성남시,trekbikes,,unknown,트렉 바이시클 분당점 (직영점)
+Ansansi,western_union,,unknown,KOOKMIN BANK
+Siheungsi,western_union,,unknown,NH BANK
+Siheung Si,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Gimpo Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Pyeongtaek Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Pyeongtaeksi,western_union,,unknown,NH BANK
+Hwaseongsi,western_union,,unknown,NH BANK
+Pyeongtaek-si,western_union,,unknown,BUSAN BANK
+Yonginsi,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Suwonsi,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Pyeongtek-si,western_union,,unknown,HANA BANK
+Anseong Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Hwaseong Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Osansi,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Osan Si,western_union,,unknown,NH BANK
+Seongnamsi,western_union,,unknown,NH BANK
+Anseongsi,western_union,,unknown,KOOKMIN BANK
+Osan-si,western_union,,unknown,HANA BANK
+Yongin Si,western_union,,unknown,NH BANK
+Suwon-si,western_union,,unknown,KOOKMIN BANK
+Gunpo Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Suwon Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Yongin-si,western_union,,unknown,KOREA INVESTMENT AND SECURITIES CO LTD
+Ansan Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Gunposi,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Uiwangsi,western_union,,unknown,KOOKMIN BANK
+Bucheonsi,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Namyangjusi,western_union,,unknown,KOOKMIN BANK
+Anyangsi,western_union,,unknown,KOOKMIN BANK
+Bucheon Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Anyang Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Gimposi,western_union,,unknown,KOOKMIN BANK
+Gwangmyeongsi,western_union,,unknown,KOOKMIN BANK
+Euiwang,western_union,,unknown,NH BANK
+Icheonsi,western_union,,unknown,KOOKMIN BANK
+Gwacheonsi,western_union,,unknown,NH BANK
+Seongnam Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Icheon Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Gwangjusi,western_union,,unknown,KOOKMIN BANK
+Gwangmyeong Si,western_union,,unknown,SUHYUP BANK
+Gwangju Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Goyangsi,western_union,,unknown,KOOKMIN BANK
+Pajusi,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Goyang Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Seongnam-si,western_union,,unknown,HANA BANK
+Yeoju Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Namyangju Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Paju Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Yeojugun,western_union,,unknown,NH BANK
+Hanam Si,western_union,,unknown,SUHYUP BANK
+Gyeonggido,western_union,,unknown,KOOKMIN BANK
+Hanamsi,western_union,,unknown,NH BANK
+Gurisi,western_union,,unknown,KOOKMIN BANK
+Guri-si,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Guri Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Uijeongbusi,western_union,,unknown,INDUSTRIAL BANK OF KOREA
+Yangpyeonggun,western_union,,unknown,NH BANK
+Yangpyeong Gun,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Dongducheon,western_union,,unknown,NH BANK
+Dongducheon Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Pocheonsi,western_union,,unknown,KOOKMIN BANK
+Dongducheonsi,western_union,,unknown,KOOKMIN BANK
+Yangju Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Yangjusi,western_union,,unknown,KOOKMIN BANK
+Uijeongbu Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Pocheon Si,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Gapyeonggun,western_union,,unknown,KOOKMIN BANK
+Yeoncheongun,western_union,,unknown,NH BANK
+Gapyeong Gun,western_union,,unknown,NONGHYUP_SUB AGENT OF NH BANK
+Euijeongbu,western_union,,unknown,NH BANK

@@ -1,0 +1,16 @@
+State,Place Name,City,Establishments
+MARIGOT,avis,Marigot,1
+ROSEAU,avis,Roseau,1
+UNKNOWN,ford,Roseau,3
+UNKNOWN,moneygram,ROSEAU,4
+UNKNOWN,moneygram,MAHAUT,1
+UNKNOWN,moneygram,VIEILLE CASE,1
+UNKNOWN,moneygram,PORTSMOUTH,1
+UNKNOWN,moneygram,MARIGOT,1
+UNKNOWN,visa,ROSEAU,3
+UNKNOWN,visa,GOODWILL,1
+UNKNOWN,visa,PORTSMOUTH,2
+SAINTGEORGE,western_union,Roseau,1
+SAINTGEORGE,western_union,Canefield,1
+SAINTJOHN,western_union,Portsmouth,1
+SAINTPATRICK,western_union,Grand Bay,1

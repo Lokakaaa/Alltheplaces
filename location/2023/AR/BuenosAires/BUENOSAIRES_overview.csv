@@ -1,0 +1,564 @@
+City,Place Name,Zipcode,Name
+Vicente Lopez - Buenos Aires,audi,Avenida Maipú 1234 1638 Vicente Lopez - Buenos Aires,unknown,Automilenio Service - Vicente López Bs. As.
+Quilmes- Buenos Aires,audi,Castelli 8 y 10 1878 Quilmes- Buenos Aires,unknown,Sport Cars Service - Quilmes
+Pilar - Buenos Aires,audi,Avenida Panamericana 468 Km. 1629 Pilar - Buenos Aires,unknown,Audi Zentrum Pilar
+Acassuso - Buenos Aires,audi,Avenida del Libertador 15154 1641 Acassuso - Buenos Aires,unknown,Norden
+Bahia Blanca - Buenos Aires,audi,Avenida Hipólito Yrigoyen 4612 8000 Bahia Blanca - Buenos Aires,unknown,Del Sur Exclusivos - Bahía Blanca
+Bahia Blanca - Buenos Aires,audi,Hipólito Yrigoyen 4612 8000 Bahia Blanca - Buenos Aires,unknown,Del Sur Exclusivos Service - Bahía Blanca
+"Mar del Plata, Buenos Aires",audi,Avenida Colon 4602 7600 Mar del Plata Buenos Aires,unknown,Romera Hnos S.R.L. Service - Mar del Plata
+"La Plata, Buenos Aires",audi,Avenida 44 E/145 2485 1900 La Plata Buenos Aires,unknown,Vicente Zingaro e Hijos S.A.
+"Moreno, Buenos Aires",audi,Acceso Oeste km 368 368 1744 Moreno Buenos Aires,unknown,LUXCAR S.A.
+Vicente Lopez - Buenos Aires,audi,Av. Del Libertador 802 1638 Vicente Lopez - Buenos Aires,unknown,Automilenio - Vicente López Bs. As.
+La Plata - Buenos Aires,audi,Avenida 13 (Camino Centenario) 2433 1900 La Plata - Buenos Aires,unknown,Sport Cars - La Plata
+Quilmes - Buenos Aires,audi,Avenida Hipolito Yrigoyen 196 1878 Quilmes - Buenos Aires,unknown,Sport Cars - Quilmes
+Buenos Aires,avis,,unknown,Avis Argentina Buenos Aires Airport
+Vicente López,bmw_group,,unknown,Sergio Trepat Automóviles
+Olivos,bmw_group,,unknown,Sergio Trepat Automóviles
+del viso,bmw_group,,unknown,KM 40 Pilar
+Bahía Blanca,bmw_group,,unknown,Rhein Motor
+Rincón de Milberg,bmw_group,,unknown,Delta Motors
+San Isidro,carrefour_ar,,unknown,Carrefour Market
+Hurlingham,carrefour_ar,,unknown,Carrefour Express
+Avellaneda,carrefour_ar,,unknown,Carrefour Market
+La Plata,carrefour_ar,,unknown,Carrefour Hipermercado
+Malvinas Argentinas,carrefour_ar,,unknown,Carrefour Hipermercado
+Bahía Blanca,carrefour_ar,,unknown,Carrefour Market
+San Justo,carrefour_ar,,unknown,Carrefour Hipermercado
+Mar del Plata,carrefour_ar,,unknown,Carrefour Hipermercado
+Tandil,carrefour_ar,,unknown,Carrefour MAXI
+Olavarría,carrefour_ar,,unknown,Carrefour Market
+San Martín,carrefour_ar,,unknown,Carrefour Express
+San Nicolás de Los Arroyos,carrefour_ar,,unknown,Carrefour Hipermercado
+Monte Grande,carrefour_ar,,unknown,Carrefour Hipermercado
+Maschwitz,carrefour_ar,,unknown,Carrefour Hipermercado
+Vicente López,carrefour_ar,,unknown,Carrefour Market
+Carapachay,carrefour_ar,,unknown,Carrefour Market
+Chilavert,carrefour_ar,,unknown,Carrefour Market
+Olivos,carrefour_ar,,unknown,Carrefour Market
+Ciudad Jardín del Palomar,carrefour_ar,,unknown,Carrefour Market
+Campana,carrefour_ar,,unknown,Carrefour Hipermercado
+Martínez,carrefour_ar,,unknown,Carrefour Market
+Moreno,carrefour_ar,,unknown,Carrefour Express
+Zárate,carrefour_ar,,unknown,Carrefour Hipermercado
+Villa Ballester,carrefour_ar,,unknown,Carrefour Express
+San Miguel,carrefour_ar,,unknown,Carrefour Express
+Tigre,carrefour_ar,,unknown,Carrefour Hipermercado
+Bernal,carrefour_ar,,unknown,Carrefour Hipermercado
+Pergamino,carrefour_ar,,unknown,Carrefour MAXI
+Adrogué,carrefour_ar,,unknown,Carrefour Market
+Lomas de Zamora,carrefour_ar,,unknown,Carrefour Hipermercado
+Don Torcuato,carrefour_ar,,unknown,Carrefour Hipermercado
+General Pacheco,carrefour_ar,,unknown,Carrefour Hipermercado
+Luján,carrefour_ar,,unknown,Carrefour Express
+San Fernando,carrefour_ar,,unknown,Carrefour Market
+Acassuso,carrefour_ar,,unknown,Carrefour Market
+San Nicolás,carrefour_ar,,unknown,Carrefour Market
+José León Suárez,carrefour_ar,,unknown,Carrefour MAXI
+Pilar,carrefour_ar,,unknown,Carrefour Market
+Ituzaingó,carrefour_ar,,unknown,Carrefour Hipermercado
+General Rodríguez,carrefour_ar,,unknown,Carrefour Express
+Merlo,carrefour_ar,,unknown,Carrefour Express
+Jose León Suárez,carrefour_ar,,unknown,Carrefour Express
+Haedo,carrefour_ar,,unknown,Carrefour Hipermercado
+Adolfo Sordeaux,carrefour_ar,,unknown,Carrefour Express
+Victoria,carrefour_ar,,unknown,Carrefour Express
+Del Viso,carrefour_ar,,unknown,Carrefour Express
+Maquinista Savio,carrefour_ar,,unknown,Carrefour Express
+Villa Adelina,carrefour_ar,,unknown,Carrefour Express
+Beccar,carrefour_ar,,unknown,Carrefour Express
+Los Polvorines,carrefour_ar,,unknown,Carrefour Express
+Castelar,carrefour_ar,,unknown,Carrefour Express
+Munro,carrefour_ar,,unknown,Carrefour Express
+Morón,carrefour_ar,,unknown,Carrefour Express
+Don Bosco,carrefour_ar,,unknown,Carrefour Express
+Florencio Varela,carrefour_ar,,unknown,Carrefour Hipermercado
+Monte Chingolo,carrefour_ar,,unknown,Carrefour Express
+Lanús,carrefour_ar,,unknown,Carrefour Express
+Burzaco,carrefour_ar,,unknown,Carrefour Express
+Longchamps,carrefour_ar,,unknown,Carrefour Express
+Almirante Brown,carrefour_ar,,unknown,Carrefour Express
+Ezpeleta,carrefour_ar,,unknown,Carrefour Express
+Banfield,carrefour_ar,,unknown,Carrefour Express
+Quilmes,carrefour_ar,,unknown,Carrefour Hipermercado
+Gerli,carrefour_ar,,unknown,Carrefour Express
+Remedios de Escalada,carrefour_ar,,unknown,Carrefour Express
+Glew,carrefour_ar,,unknown,Carrefour Hipermercado
+Budge,carrefour_ar,,unknown,Carrefour Express
+Valentín Alsina,carrefour_ar,,unknown,Carrefour Express
+Wilde,carrefour_ar,,unknown,Carrefour Express
+Isidro Casanova,carrefour_ar,,unknown,Carrefour Express
+Martín Coronado,carrefour_ar,,unknown,Carrefour Hipermercado
+Villa Bosh,carrefour_ar,,unknown,Carrefour Express
+Gregorio de Laferrere,carrefour_ar,,unknown,Carrefour Express
+Ramos Mejía,carrefour_ar,,unknown,Carrefour Express
+Villa Celina,carrefour_ar,,unknown,Carrefour Express
+La Matanza,carrefour_ar,,unknown,Carrefour Express
+Palomar,carrefour_ar,,unknown,Carrefour Express
+Tapiales,carrefour_ar,,unknown,Carrefour Express
+San Antonio de Padua,carrefour_ar,,unknown,Carrefour Express
+Paso del Rey,carrefour_ar,,unknown,Carrefour Express
+Grand Bourg,carrefour_ar,,unknown,Carrefour Express
+Berazategui,carrefour_ar,,unknown,Carrefour Express
+Ezeiza,carrefour_ar,,unknown,Carrefour Express
+3 de Febrero,carrefour_ar,,unknown,Carrefour Express
+Balcarce,carrefour_ar,,unknown,Carrefour Hipermercado
+Caseros,carrefour_ar,,unknown,Carrefour Express
+Derqui,carrefour_ar,,unknown,Carrefour Express
+Escobar,carrefour_ar,,unknown,Carrefour MAXI
+Temperley,carrefour_ar,,unknown,Carrefour MAXI
+Provincia de Buenos Aires,carrefour_ar,,unknown,Carrefour Express
+Martinez,fedex,,unknown,Centro de Envío FedEx
+Mar Del Plata,fedex,,unknown,Centro de Envío FedEx
+unknown,jumbo_ar,Av. De los Lagos Rincón de Milberg Buenos Aires,unknown,Jumbo Nordelta
+unknown,jumbo_ar,Corrientes 449 Olivos Buenos Aires,unknown,Jumbo La Palmera
+unknown,jumbo_ar,Av. Gral. Eustaquio Frías 3201 Lavallol Buenos Aires,unknown,Jumbo Lomas
+unknown,jumbo_ar,Blvd. Juan Manuel de Rosas 658 Morón Buenos Aires,unknown,Jumbo Morón
+unknown,jumbo_ar,Av. Mitre 1075 Quilmes Buenos Aires,unknown,Jumbo Quilmes II
+unknown,jumbo_ar,Las Magnolias 698 Pilar Buenos Aires,unknown,Jumbo Pilar
+unknown,jumbo_ar,Av. Del Libertador 2261 San Fernando Buenos Aires,unknown,Jumbo Punta Chica
+unknown,jumbo_ar,Paraná 3745 Martínez Buenos Aires,unknown,Jumbo Martinez
+unknown,jumbo_ar,Ruta 25 1710 (y Panamericana) Escobar Buenos Aires,unknown,Jumbo Escobar
+unknown,jumbo_ar,San Lorenzo 3773 San Martín Buenos Aires,unknown,Jumbo San Martín
+unknown,jumbo_ar,Au Panamericana Km 44 Del Viso Buenos Aires,unknown,Jumbo Paseo del Pilar
+unknown,jumbo_ar,Av. Calchaquí 3950 Quilmes Oeste Buenos Aires,unknown,Jumbo Quilmes
+unknown,jumbo_ar,Boulogne Sur Mer 1275 General Pacheco Buenos Aires,unknown,Jumbo Pacheco Novo
+Ciudad Autonoma de Buenos Aires,mercedes_benz,,unknown,Cigliutti Guerini S.A.
+Barracas,mercedes_benz,,unknown,Automotores Juan Manuel Fangio S.A.
+Lisandro Olmos,mercedes_benz,,unknown,Simone Mobilitas S.A.
+Tandil,mercedes_benz,,unknown,Bari S.A.
+Palermo,mercedes_benz,,unknown,Lonco-Hue S.A.
+Vicente Lopez,mercedes_benz,,unknown,Cigliutti Guerini S.A.
+Carlos Casares,mercedes_benz,,unknown,Tauro Automotores S.A.
+Tigre,mercedes_benz,,unknown,Besten Handler S.A.
+Capital Federal,nike,,unknown,Nike Factory Store - Rivadavia
+Boulogne,nike,,unknown,Nike Factory Store - Soleil
+Bahía Blanca,nissan_europe,,unknown,AUTOSSAN - BAHIA BLANCA
+La Plata,nissan_europe,,unknown,CITYSSAN - LA PLATA
+Mar del Plata,nissan_europe,,unknown,CITYSSAN - MAR DEL PLATA
+Lanus,nissan_europe,,unknown,SENDAI - LANÚS
+Quilmes,nissan_europe,,unknown,SENDAI - QUILMES
+Lobos,nissan_europe,,unknown,SENDAI - LOBOS
+Tortuguitas,nissan_europe,,unknown,NISSCAR - TORTUGUITAS
+Campana,nissan_europe,,unknown,NISSCAR - CAMPANA
+Pergamino,nissan_europe,,unknown,NOALE - PERGAMINO
+Junín,nissan_europe,,unknown,NOALE - JUNÍN
+Trenque Lauquen,nissan_europe,,unknown,NOALE - TRENQUE LAUQUEN
+Martinez,nissan_europe,,unknown,AUTOFERRO - MARTINEZ
+Ituzaingó,nissan_europe,,unknown,KADIRA - ITUZAINGÓ
+Olavarría,nissan_europe,,unknown,CITYSSAN - OLAVARRIA
+Mercedes,nissan_europe,,unknown,NISSCAR - MERCEDES
+Ciudadela,nissan_europe,,unknown,CAPITAL - CIUDADELA
+San Nicolás,nissan_europe,,unknown,NOALE S.A. - SAN NICOLÁS
+Adrogué,nissan_europe,,unknown,SENDAI - Adrogué
+Blahia Blanca,nissan_europe,,unknown,AUTOSSAN - Bahia Blanca
+Adrogue,nissan_europe,,unknown,Sendai - Adrogue
+San Nicolas,nissan_europe,,unknown,NOALE S.A. - SAN NICOLÁS
+Martinez,reebok,,unknown,Reebok Unicenter
+Buenos Aires,sbarro,Unicenter Shopping Parana 3745 Martinez,unknown,Sbarro Unicenter
+Buenos Aires,sbarro,Avenida Corrientes 3247 Lavalle 3120,unknown,Abasto Shopping Sbarro
+GENERAL SAN MARTIN,shell,,unknown,GNC TROPEZON SRL
+CIUDADELA,shell,,unknown,PROYECTOS URBANISTICOS S.A.
+SAN MANUEL,shell,,unknown,ENERQUEN SA
+MAR DEL PLATA,shell,,unknown,OPERADORA SAN JUAN S.A.
+CANNING,shell,,unknown,FGC FUELS MARKETING S.A.
+PERGAMINO,shell,,unknown,KEH GAS S.A
+BERNAL,shell,,unknown,SUCESION GADALETA FRANCISCO
+LANUS,shell,,unknown,SERGIO Y DANIEL REY S.R.L.
+LOBERIA,shell,,unknown,Don Teofilo
+MORENO,shell,,unknown,COMBUSTIBLES LA CELESTINA S.A.
+GENERAL RODRIGUEZ,shell,,unknown,EXFAKO S.A.
+LIBERTAD,shell,,unknown,CODIGAS SA
+CASTELAR,shell,,unknown,LEBEN GAS
+Las Heras,shell,,unknown,MARCOS PAZ GNC SA
+LA MATANZA,shell,,unknown,ESPIPER SRL
+Haedo,shell,,unknown,GNC HAEDO JET
+CORONEL PRINGLES,shell,,unknown,URUNUELA JULIO A. E HIJO SOC.DE HEC
+TRES ARROYOS,shell,,unknown,COMBUSTIBLES TRES ARROYOS SA
+CLAROMECO,shell,,unknown,COMBUSTIBLES TRES ARROYOS SA
+ORENSE,shell,,unknown,COMBUSTIBLES TRES ARROYOS SA
+LOS TOLDOS,shell,,unknown,GRUPO GONERBU S.A
+VILLA GESELL ,shell,,unknown,COMBUSTIBLES DEL MAR 
+SAN BERNARDO,shell,,unknown,RED DE SERVICIOS RURALES SRL
+MAR DEL TUYU,shell,,unknown,Combustibles del Tuyu SRL
+MUNRO,shell,,unknown,SALVA PETROL COMBUSTIBLES SRL
+LUIS GUILLON,shell,,unknown,LUTAC S.A.
+LAFERRERE,shell,,unknown,SAN JOAQUIN S.A.
+CAMPANA,shell,,unknown,FGC FUELS MARKETING S.A.
+DIQUE LUJAN,shell,,unknown,ECONORTE-2 S.A.
+BERAZATEGUI,shell,,unknown,EMFACO S.A.
+BARADERO,shell,,unknown,MERCANTE HERMANOS SACIA
+SAN JUSTO,shell,,unknown,BERMAN Y SAMPIETRO
+MAGDALENA,shell,,unknown,DSB ASOCIADOS SRL
+Palermo,smart,,unknown,Lonco-Hue S.A.
+Lisandro Olmos,smart,,unknown,Simone Mobilitas S.A.
+CABA,starbucks_ar_cl,,unknown,Paseo Alcorta
+Canning,starbucks_ar_cl,,unknown,Las Toscas
+San Justo,starbucks_ar_cl,,unknown,San Justo Shopping
+Ramos Mejía,starbucks_ar_cl,,unknown,Ramos Mejia
+Avellaneda,starbucks_ar_cl,,unknown,Village Avellaneda
+Lomas de Zamora,starbucks_ar_cl,,unknown,Portal Lomas
+Quilmes,starbucks_ar_cl,,unknown,Quilmes
+Morón,starbucks_ar_cl,,unknown,Plaza Oeste
+Malvinas Argentinas,starbucks_ar_cl,,unknown,Terrazas de Mayo
+Boulogne,starbucks_ar_cl,,unknown,Soleil
+Martinez,starbucks_ar_cl,,unknown,La lucila
+San Isidro,starbucks_ar_cl,,unknown,Mastil
+Vicente Lopez,starbucks_ar_cl,,unknown,Al Rio
+Olivos,starbucks_ar_cl,,unknown,Pelliza
+Ezeiza,starbucks_ar_cl,,unknown,Ezeiza
+EZEIZA,starbucks_ar_cl,,unknown,Ezeiza Partidas
+Tortuguitas,starbucks_ar_cl,,unknown,Tortugas
+Buenos Aires,starbucks_ar_cl,,unknown,Hospital Austral
+Pilar,starbucks_ar_cl,,unknown,Champagnat
+La Plata,starbucks_ar_cl,,unknown,Pasaje Rodrigo
+Tigre,starbucks_ar_cl,,unknown,Tigre
+Capitan Sarmiento,western_union,,unknown,IVAN TWO
+Chacabuco,western_union,,unknown,LIBRERIA ABC
+Junin,western_union,,unknown,JUNIN BZB CREDI
+Piedritas,western_union,,unknown,CASA MENDIETA
+Salto,western_union,,unknown,AGBL CAPRI 2.0 DESPENSA
+Emilio Bunge,western_union,,unknown,ESPACIOS BUNGE
+Lincoln,western_union,,unknown,MAXIKIOSCO LOLA
+Baradero,western_union,,unknown,PRONTO PAGO PLUS - CIUDAD DEL ENCUENTRO
+Arrecifes,western_union,,unknown,EPN PANALERA ACATOY
+Santa Lucia,western_union,,unknown,MAXIKIOSCO MARIMAR
+San Pedro,western_union,,unknown,POLIRUBRO LA AVENIDA
+Mercedes,western_union,,unknown,LIBRERIA AVENIDA
+Rojas,western_union,,unknown,PRONTO PAGO - CENTRO DE SERVICIOS ROJAS
+Vedia,western_union,,unknown,VEDIA  BZB CREDI
+Doyle,western_union,,unknown,FARMACIA BARCELO
+Coronel Charlone,western_union,,unknown,ORGANIZACION ROIGE
+Leandro N Alem,western_union,,unknown,TELESERVICIOS
+Pergamino,western_union,,unknown,ECT KIOSCO HAYDEE
+Ramallo,western_union,,unknown,PRONTO PAGO-CENTRO DE SERVICIOS RAMALLO
+Arribenos,western_union,,unknown,SOC.ITA.DE SO.MUT.Y SOC.DEL CLUB SOC ARR
+Perez Millan,western_union,,unknown,MARY LU SHOP
+Ascension,western_union,,unknown,INMOBILIARIA BIANCHI
+General Arenales,western_union,,unknown,REGALERIA BELLON
+Colon,western_union,,unknown,CIBER KIOSCO FUTURAMA II
+La Emilia,western_union,,unknown,MAXIKIOSCO LA CASITA DE MADERA
+San Nicolas De Los Arroyos,western_union,,unknown,EL PARADOR
+Ferre,western_union,,unknown,MINISHOP MAR-EM
+General Conesa,western_union,,unknown,EL LECHON SONRIENTE
+Mariano H Alfonzo,western_union,,unknown,SERVICENTRO ALFONZO
+San Justo,western_union,,unknown,DANTE
+Villa Luzuriaga,western_union,,unknown,LOCUTORIO ARIETA
+Lujan,western_union,,unknown,C.S. WAL MART LUJAN
+Darregueira,western_union,,unknown,LA EMANCIPACION
+Rivera,western_union,,unknown,SEGUROS PROST
+Pigue,western_union,,unknown,LOPBA-AGENCIA VIA NORTE PIGUE 2
+General Villegas,western_union,,unknown,CORREO GENERAL VILLEGAS
+Carmen De Areco,western_union,,unknown,AGBL MINIMERCADO DIAZ
+25 De Mayo,western_union,,unknown,BONUS TRACK
+General Alvear,western_union,,unknown,ECT MULTICELL
+Alsina,western_union,,unknown,DESPENSA ALSINA
+Azul,western_union,,unknown,ECT POLIRUBRO ARCO IRIS
+San Antonio De Areco,western_union,,unknown,AGBL DESPENSA EL REMANSO
+Miramar,western_union,,unknown,SUPERMERCADO NUEVO SAN ANDRES
+Roberts,western_union,,unknown,EL MILENIO II
+San Cayetano,western_union,,unknown,POLIRUBRO HERMES
+Tandil,western_union,,unknown,REVOLUTION SOLUCIONES INFORMATICAS
+Villa Moquehua,western_union,,unknown,KIOSCO ARROBA
+Suipacha,western_union,,unknown,KITA AROMAS Y MAS
+Balcarce,western_union,,unknown,MAXIKIOSCO 1979
+Comandante Nicanor Otamen,western_union,,unknown,SUPERMERCADO NUEVO SAN ANDRES 2
+Comandante Nicanor Otamendi,western_union,,unknown,SUPERMERCADO NUEVO SAN ANDRES 2
+Otamendi,western_union,,unknown,CORREO OTAMENDI
+Saladillo,western_union,,unknown,AUTOSERVICO LOS TIOS
+La Pastora,western_union,,unknown,FRANZULE
+San Andres De Giles,western_union,,unknown,CORREO SAN ANDRES DE GILES
+Norberto De La Riestra,western_union,,unknown,CHACON SEGUROS
+Chivilcoy,western_union,,unknown,DRAGSTORE MIX I
+Mar Del Plata,western_union,,unknown,DA.3 DE FEBRERO
+Exaltacion De La Cruz,western_union,,unknown,LODETOMAS CAPILLA
+Capilla Del Senor,western_union,,unknown,CORREO CAPILLA DEL SENOR
+Batan,western_union,,unknown,COSTANTINO PAGOS
+Barrio Batan,western_union,,unknown,NECTAR PAGOS
+Cachari,western_union,,unknown,LA ESCONDIDA
+Zarate,western_union,,unknown,CORREO ZARATE
+Pedernales,western_union,,unknown,CARNICERIA EL GRINGO
+Campana,western_union,,unknown,C.S. CARREFOUR CAMPANA II
+Loma Negra,western_union,,unknown,EL POINT
+Rauch,western_union,,unknown,SERCOB RAUCH
+Open Door,western_union,,unknown,EPN ESTUDIO JURIDICO MS II
+Carlos Lemee,western_union,,unknown,AGBL MINIMERCADO LOS CARDOS
+Los Cardales,western_union,,unknown,LODETOMAS
+Villa Flandria,western_union,,unknown,MAXIKIOSCO BARBI
+Laguna Del Soldado,western_union,,unknown,MAXIKIOSCO HASTHTAG
+Belen De Escobar,western_union,,unknown,LOPBA AGENCIA DUMPER
+Pilar,western_union,,unknown,SIMPLE SERVICIOS
+Villa Rosa,western_union,,unknown,SERVICIOS ESTACION DERQUI 3
+Santa Clara Del Mar,western_union,,unknown,LA SANTA
+Del Viso,western_union,,unknown,FAST PAYMENT SRL CONSTITUCION
+Maquinista Fco. Savio,western_union,,unknown,NSA AR MAQUINISTA SAVIO - AGENCIA SYG
+General Rodriguez,western_union,,unknown,DISTRIBUIDORA NASCUE 2
+Las Malvinas,western_union,,unknown,LIBRERIA PEGAZZO
+Presidente Derqui,western_union,,unknown,F Y M SEGUROS
+Pte Derqui,western_union,,unknown,SERVICIO ESTACION DERQUI
+Moreno,western_union,,unknown,NSA AR MORENO
+Jose Clemente Paz,western_union,,unknown,LIBRERIA PRINCESA BONITA
+Ingeniero Maschwitz,western_union,,unknown,SEGUROS GENERALES
+Almirante Irizar,western_union,,unknown,SERVICIOS IBIS
+Matheu,western_union,,unknown,FAST PAYMENT SRL SARMIENTO MATHEU
+Loma Verde,western_union,,unknown,LIBRERIA PARTY FUN
+Barrio Pinares,western_union,,unknown,DA.CONSTITUCION
+Roque Perez,western_union,,unknown,KIOSCO MAX
+Navarro,western_union,,unknown,CASA P.B.D 1
+Tortuguitas,western_union,,unknown,COMMODO SERVICIOS DISCO TORTUGUITAS
+Garin,western_union,,unknown,DAD720 SRL BELGRANO
+Dique Lujan,western_union,,unknown,SERVICIOS PATAGONIA 4
+Ayacucho,western_union,,unknown,PRONTO PAGO - CENTRO DE SERV AYACUCHO
+Francisco Alvarez,western_union,,unknown,CORREO FRANCISCO ALVAREZ
+Lobos,western_union,,unknown,CORREO LOBOS
+Jose C. Paz,western_union,,unknown,C.S. JOSE C. PAZ
+Grand Bourg,western_union,,unknown,DAD720 SRL BURMEISTER
+Las Flores,western_union,,unknown,D TALLES
+Benavidez,western_union,,unknown,ALMACEN ELYON
+Los Polvorines,western_union,,unknown,CORREO LOS POLVORINES
+San Miguel,western_union,,unknown,D.A.D ARGUERO
+Rincon De Milberg,western_union,,unknown,DYG GARIBALDI
+Buenos Aires,western_union,,unknown,ECT CASTRO BARROS
+General Las Heras,western_union,,unknown,SEGUROS RECAITE LAS HERAS
+Pablo Nogues,western_union,,unknown,C.S. WAL MART MALVINAS ARGENTINAS
+Jose C Paz,western_union,,unknown,CORREO JOSE C. PAZ
+El Talar,western_union,,unknown,NSA AR TERMINAL PACHECO BOL 28-29
+Malvinas Argentinas,western_union,,unknown,BALCARCE 2
+General Pacheco,western_union,,unknown,ECT SERVICIOS CONSTITUYENTES
+Ingeniero Adolfo Sourdeau,western_union,,unknown,SEGUROS SOURDEAUX
+Don Torcuato,western_union,,unknown,FARMACIA DEL TRABAJO
+Villa De Mayo,western_union,,unknown,TELECABINAS ALWAYS
+Bella Vista,western_union,,unknown,NSA AR BELLA VISTA - BRAMANTE
+Gral Pacheco,western_union,,unknown,PAGO ACA PACHECO
+Merlo,western_union,,unknown,SEGUROS BERNAT CAMPORA
+Tigre,western_union,,unknown,SUPERMERCADO LAS CHICAS
+Mariano Acosta,western_union,,unknown,CASA BETO
+Troncos Del Talar,western_union,,unknown,PAGOS ISAIAS 41.4
+Paso Del Rey,western_union,,unknown,MAXIKIOSCO PASO DEL REY
+Parque San Martin,western_union,,unknown,NEGRO EL ONCE 2
+Virreyes,western_union,,unknown,AGENCIA LA SUERTUDA
+San Fernando,western_union,,unknown,C.S. WAL MART SAN FERNANDO
+Ituzaingo,western_union,,unknown,LIBRERIA LO DE SILMI
+Villa Gobernador Udaondo,western_union,,unknown,NSA AR  ITUZAINGO - PASAJES LELOIR
+Trujui,western_union,,unknown,NSA AR MORENO - AUTOSERVICIO EL SOL
+Marcos Paz,western_union,,unknown,POLIRUBRO SARMIENTO
+Hurlingham,western_union,,unknown,KIOSCO EL REY
+Boulogne,western_union,,unknown,C.S. BOULOGNE SUR MER
+William Morris,western_union,,unknown,C.S. WILLIAM MORRIS
+Gral Las Heras,western_union,,unknown,MAXIKIOSCO LO DE JUAN LAS HERAS II
+Beccar,western_union,,unknown,C.S. BECCAR
+San Isidro,western_union,,unknown,CHACABUCO PAGOS
+San Antonio De Padua,western_union,,unknown,FARMACIA MGM
+Victoria,western_union,,unknown,CORREO VICTORIA (BA)
+Loma Hermosa,western_union,,unknown,AGENCIA PERON 2
+Jose Leon Suarez,western_union,,unknown,C.S. JOSE LEON SUAREZ
+Coronel Vidal,western_union,,unknown,AZZANESI SEGUROS
+Libertad,western_union,,unknown,FARMACIA ANELE
+Villa Santos Tesei,western_union,,unknown,ECT FARMACIA D ONOFRIO
+Pablo Podesta,western_union,,unknown,LA VICTORIA
+Castelar,western_union,,unknown,COMMODO SHOPPING PLAZA OESTE
+General San Martin,western_union,,unknown,ECT CENTRO DE COBRO SAN MARTIN
+Villa Adelina,western_union,,unknown,BLANCO GROUP
+El Libertador,western_union,,unknown,LOCUTORIO LOMA HERMOSA
+Pontevedra,western_union,,unknown,SERVICIOS PONTEVEDRA
+Villa Ballester,western_union,,unknown,COMMODO DAD720 SRL JUMBO V.BALLESTER
+Moron,western_union,,unknown,SHOP1947
+Martinez,western_union,,unknown,C.S. MARTINEZ
+Carapachay,western_union,,unknown,SERVICIOS CARAPACHAY
+Munro,western_union,,unknown,LOPBA AGENCIA MUNRO 2
+Acassuso,western_union,,unknown,CORREO ACASSUSO
+El Palomar,western_union,,unknown,P&P FACIL
+Olivos,western_union,,unknown,POLIRUBRO OLIVOS
+Villa Bosch,western_union,,unknown,AGENCIA SANTOS VEGA
+Gral San Martin,western_union,,unknown,DYG SAN LORENZO
+Caseros,western_union,,unknown,EL PARQUE
+San Andres,western_union,,unknown,CORREO SAN ANDRES
+La Lucila,western_union,,unknown,LOPBA AGENCIA VIA NORTE LA LUCILA
+Idaberry 4796,western_union,,unknown,AGBL POLIRRUBRO MICKY
+Villa Lynch,western_union,,unknown,CORREO VILLA LYNCH
+Vicente Lopez,western_union,,unknown,C.S. CARREFOUR VICENTE LOPEZ II
+San Martin,western_union,,unknown,C.S. CARREFOUR SAN MARTIN
+Rafael Castillo,western_union,,unknown,GAVIMAR
+Florida,western_union,,unknown,CORREO PUENTE SAAVEDRA
+Haedo,western_union,,unknown,C.S. HAEDO I
+Villa Martelli,western_union,,unknown,CORREO VILLA MARTELLI
+Florida Oeste,western_union,,unknown,AGENCIA YRIGOYEN
+Martin Coronado,western_union,,unknown,C.S. CARREFOUR MARTIN CORONADO
+Ciudad Jardin Del Palomar,western_union,,unknown,CORREO EL PALOMAR
+Gonzalez Catan,western_union,,unknown,NSA AR GONZALEZ CATAN-ARPY V DORREGO
+Santos Lugares,western_union,,unknown,CORREO SANTOS LUGARES
+Ramos Mejia,western_union,,unknown,FL4 DISCO RAMOS
+Isidro Casanova,western_union,,unknown,PAGOS AGUS
+Gregorio De Laferrere,western_union,,unknown,COMERCIAL V V
+Gregorio De La Ferrere,western_union,,unknown,C.S. WAL MART LAFERRERE
+Canuelas,western_union,,unknown,AGBL VALVERDE INMOB. Y CONSTR.
+Ciudadela,western_union,,unknown,A LO DE PAM
+Virrey Del Pino,western_union,,unknown,PAGOS SERGIO
+Lomas Del Mirador,western_union,,unknown,MOSCONI
+Liniers,western_union,,unknown,LOCUTORIO MONTERO II
+Villa Insuperable,western_union,,unknown,NSA AR VILLA INSUPERABLE
+Laferrere,western_union,,unknown,CORREO LAFERRERE
+General Piran,western_union,,unknown,MULTIRUBRO SARASIBAR
+Tablada,western_union,,unknown,SAN JORGE PET
+La Tablada,western_union,,unknown,C.S. LA TABLADA
+San Miguel Del Monte,western_union,,unknown,AUTOSERVICIO ANEAS
+Mataderos,western_union,,unknown,C.S. CARREFOUR MATADEROS
+Berazategui,western_union,,unknown,DESEOS CUMPLIDOS
+Aldo Bonzi,western_union,,unknown,AGBL KIOSCO LA COLO
+Ciudad Madero,western_union,,unknown,AGBL ORGANIZACION VAZQUEZ
+Villa Celina,western_union,,unknown,CENTRO WINAY CRECER I
+Villa Madero,western_union,,unknown,CORREO TAPIALES
+Ciudad Maderp,western_union,,unknown,LOGISTICA ABASTANZA
+Tapiales,western_union,,unknown,MAYORISTA EL GALLEGO
+Lomas De Zamora,western_union,,unknown,DULCEMANIA
+Maximo Paz,western_union,,unknown,FELIZ EN TU DIA
+La Salada,western_union,,unknown,AGBL VIBO
+Ingeniero Budge,western_union,,unknown,ECT ITATI
+Carlos Spegazzini,western_union,,unknown,VIDEOCLUB IMAGEN
+Tristan Suarez,western_union,,unknown,EPN CAMARA COM E IND TRISTAN SUAREZ
+Ezeiza,western_union,,unknown,GCELL
+Recoleta,western_union,,unknown,NSA AR RECOLETA-CALLAO 1124
+Maipu,western_union,,unknown,CASA ROYER
+Banfield,western_union,,unknown,C.S. BANFIELD
+Lanus,western_union,,unknown,C.S. WAL MART LANUS
+Valentin Alsina,western_union,,unknown,FARMACIAS MARINA I CRS
+9 De Abril,western_union,,unknown,ECT PALU
+Villa Albertina,western_union,,unknown,NSA AR VILLA ALBERTINA - SYSTEM
+Monte Grande,western_union,,unknown,NSA AR MONTE GRANDE - SAN CAYETANO
+Capital Federal,western_union,,unknown,NSA AR BARRACAS FERMIN 2
+Union Ferroviaria,western_union,,unknown,AGBL MAXIKIOSCO LYM
+Barracas,western_union,,unknown,NSA AR BARRACAS FERMIN
+Canning,western_union,,unknown,FL4 DISCO CANNING
+El Jaguel,western_union,,unknown,NSA AR EL JAGUEL - PUNTO DE PARTIDA
+Gerli,western_union,,unknown,MAXIKIOSCO EMANUEL II
+Pineyro,western_union,,unknown,C.S. PINEYRO
+Luis Guillon,western_union,,unknown,ECT LO DE MARIA
+Villa Centenario,western_union,,unknown,FARMACIA UEKADO
+Avellaneda,western_union,,unknown,J B PAGOS
+Remedios De Escalada,western_union,,unknown,CORREO REMEDIOS DE ESCALADA
+Sarandi,western_union,,unknown,LA SARITA
+Dolores,western_union,,unknown,CRS PAGOS PEPPE
+Llavallol,western_union,,unknown,COMMODO PAGOS LOMAS JUMBO
+Crucesita,western_union,,unknown,CORREO SARANDI
+Burzaco,western_union,,unknown,BRISAS AZULES II
+Bernal,western_union,,unknown,NSA AR BERNAL SION -SALBADOR
+Rafael Calzada,western_union,,unknown,PAGOS CASSARINO V
+Bernal Oeste,western_union,,unknown,FARMACIA IRRAZABAL
+Quilmes Oeste,western_union,,unknown,AGBL FARO SEGUROS
+Temperley,western_union,,unknown,C.S. CARREFOUR TEMPERLEY
+Adrogue,western_union,,unknown,C.S. CARREFOUR ADROGUE
+San Francisco Solano,western_union,,unknown,CORREO SAN FRANCISCO SOLANO
+Bernal Este,western_union,,unknown,BOLA 8
+Longchamps,western_union,,unknown,MV SEGUROS
+Longhchamps,western_union,,unknown,ORGANIZACION RAM
+Glew,western_union,,unknown,C.S. CARREFOUR GLEW
+Claypole,western_union,,unknown,AGENCIA BUENOS MUCHACHOS
+Ministro Rivadavia,western_union,,unknown,LUCAS
+Monte Chingolo,western_union,,unknown,KIOSCO MENDEZ
+Villa Dominico,western_union,,unknown,GRUPO FERNANDEZ
+Florencio Varela,western_union,,unknown,EL BUNKER
+Zeballos,western_union,,unknown,LOCUTORIO HUDSON
+Santa Rosa,western_union,,unknown,SAN NICOLAS
+Villa Gesell,western_union,,unknown,CORREO VILLA GESELL
+Ezpeleta Este,western_union,,unknown,FARMACIA EZPELETA
+Alejandro Korn,western_union,,unknown,ECT VENI Y PAGA I
+Wilde,western_union,,unknown,CORREO WILDE
+Jose Marmol,western_union,,unknown,CORREO JOSE MARMOL
+Turdera,western_union,,unknown,MAXIKIOSCO IV-EL
+Guernica,western_union,,unknown,NSA AR GUERNICA DELL Y AU
+Gobernador Costa,western_union,,unknown,EPN LIBRERIA MARIA LAURA
+Quilmes,western_union,,unknown,C.S. CARREFOUR QUILMES
+Ezpeleta,western_union,,unknown,FARMACIA EZPELETA II
+Ezpeleta Oeste,western_union,,unknown,LOCUTORIO EL DORADO
+La Plata,western_union,,unknown,MUNDO TECNO
+San Vicente,western_union,,unknown,CORREO SAN VICENTE (BA)
+Bosques,western_union,,unknown,BAIKAL
+General Belgrano,western_union,,unknown,CORREO GENERAL BELGRANO
+Centro Agricola El Pato,western_union,,unknown,CORREO AGENCIA EL PATO
+El Pato,western_union,,unknown,GESTORIA Y SEGUROS C Y G
+Domselaar,western_union,,unknown,ECT MOD EN CASA I
+Ingeniero Allan,western_union,,unknown,POLIRUBRO YANI
+Villa Nueva,western_union,,unknown,ALMACEN FRANCO
+Guillermo E Hudson,western_union,,unknown,LUSERJO III HUDSON
+General Madariaga,western_union,,unknown,POLIRUBRO LO DE PAVON
+La Perla,western_union,,unknown,ACME
+Lisandro Olmo Etcheverry,western_union,,unknown,ECT CENTRO DE COBRO LA LORE
+Coronel Brandsen,western_union,,unknown,CORREO CORONEL BRANDSEN
+Ranchos,western_union,,unknown,CORREO RANCHOS
+Valeria Del Mar,western_union,,unknown,CENTRAL DE PASAJES WEB RUTA 11
+Villa Elisa,western_union,,unknown,CORREO VILLA ELISA (BA)
+Carilo,western_union,,unknown,POLIRUBRO RANA
+Ranelagh,western_union,,unknown,FARMACIA ODONEL
+Platanos,western_union,,unknown,LA GRAN 7
+Pila,western_union,,unknown,MAXIKIOSCO CASCO
+Lisandro Olmos Etcheverry,western_union,,unknown,CORREO LISANDRO OLMOS
+Manuel B Gonnet,western_union,,unknown,CORREO MANUEL B. GONNET
+Melchor Romero,western_union,,unknown,MEGA STREET
+Pinamar,western_union,,unknown,KIOSCO SR X
+City Bell,western_union,,unknown,SERVICIOS BELL
+Abasto,western_union,,unknown,ALVES VANESA SEGUROS GENERALES
+Ostende,western_union,,unknown,AGENCIA INCLAN
+Berisso,western_union,,unknown,AUTOSERVICIO MI VIEJO
+Castelli,western_union,,unknown,MAXIKIOSCO EL ROJO
+Bme Bavio Gral Mansilla,western_union,,unknown,A-Z OFICINA DE SEGUROS
+Chascomus,western_union,,unknown,CORREO CHASCOMUS
+Mar De Ajo,western_union,,unknown,KIOSCO LA DIAGONAL
+San Bernardo,western_union,,unknown,ADMINISTRACION ALICIA CANTARELL
+San Bernardo Del Tuyu,western_union,,unknown,POLIRUBRO LOS ABUELOS
+Magdalena,western_union,,unknown,CORREO MAGDALENA
+Santa Teresita,western_union,,unknown,KIOSCO OHANA
+Mar Del Tuyu,western_union,,unknown,CASA VILLANUEVA
+Veronica,western_union,,unknown,CORREO VERONICA
+San Clemente Del Tuyu,western_union,,unknown,CYBER IMPACTO
+Sierras Bayas,western_union,,unknown,AGBL MAUMUS&MAUMUS SEGUROS
+Carmen De Patagones,western_union,,unknown,CORREO CARMEN DE PATAGONES
+Chillar,western_union,,unknown,SERCOB CHILLAR
+Carlos Casares,western_union,,unknown,MAX HOGAR
+Benito Juarez,western_union,,unknown,AUTOSERVICIO SUCCESS
+Jose A Guisasola,western_union,,unknown,LOCUTORIO ALFA
+Villalonga,western_union,,unknown,POLIRUBRO  MATIAS
+Trenque Lauquen,western_union,,unknown,DESPENSA FLOPY
+Indio Rico,western_union,,unknown,SERVICIOS HINDING
+Pirovano,western_union,,unknown,AGBL CLARISA CASTROFINI SEGUROS
+Laprida,western_union,,unknown,POLIRUBRO DIA Y NOCHE
+Carlos Tejedor,western_union,,unknown,KIOSCO IRIGOYEN
+Olavarria,western_union,,unknown,EPN KIOSCO VALABY
+Olvarria,western_union,,unknown,MINIMERCADO EL ABASTO
+Bahia San Blas,western_union,,unknown,EPN AUTOSERVICIO EL GORDO
+Tres Algarrobos,western_union,,unknown,SIMON DICE LIBRERIA
+Claromeco,western_union,,unknown,CORREO CLAROMECO
+Bolivar,western_union,,unknown,CORREO BOLIVAR
+Tres Arroyos,western_union,,unknown,POLIRUBRO TODO MACS
+Balneario Reta,western_union,,unknown,EPN POLIRUBRO LA ESLAVA
+Gonzalez Chavez,western_union,,unknown,CORREO A. G. CHAVEZ
+Adolfo Gonzales Chaves,western_union,,unknown,SEGUROS GARCIA
+Henderson,western_union,,unknown,EL PROGRESO
+Urdampilleta,western_union,,unknown,SUPER POLIRUBRO ACUARELA
+Coronel Pringles,western_union,,unknown,KIOSCO KIME
+Pellegrini,western_union,,unknown,LOCUTORIO MODELO RIVADAVIA
+Juan A Pradere,western_union,,unknown,KIOSCO SAMALI
+30 De Agosto,western_union,,unknown,DESPENSA LAS NENAS
+Coronel Dorrego,western_union,,unknown,ECT POLIRUBRO BIP STORE
+Daireaux,western_union,,unknown,AUTOSERVICIO TATIANA
+Monte Hermoso,western_union,,unknown,MAXIKIOSCO TRINI
+Stroeder,western_union,,unknown,PUNTO DIGITAL
+Pehuajo,western_union,,unknown,VIGOR KIOSCO Y DESPENSA
+America,western_union,,unknown,CORREO AMERICA
+Coronel Suarez,western_union,,unknown,AGBL SEGUROS GERK
+Sierra De La Ventana,western_union,,unknown,POLIRUBRO AH WEBEAR
+Punta Alta,western_union,,unknown,KIOSCO DINFU CRS
+Mayor Buratovich,western_union,,unknown,TIENDA LOS 2 ASES
+Bahia Blanca,western_union,,unknown,SUPER MAR K
+Ingeniero White,western_union,,unknown,CORREO INGENIERO WHITE
+Guamini,western_union,,unknown,CORREO GUAMINI
+Salliquelo,western_union,,unknown,CORREO SALIQUELLO
+Saliquello,western_union,,unknown,BLOM BUSTER
+Huanguelen,western_union,,unknown,EL PORTAL
+Hilario Ascasubi,western_union,,unknown,DVD CLUB
+Pedro Luro,western_union,,unknown,CORREO PEDRO LURO
+Carhue,western_union,,unknown,CORREO CARHUE
+Tornquist,western_union,,unknown,MI LUGAR
+Medanos,western_union,,unknown,TECNOLOGIA TOUCH STORE
+Cerri,western_union,,unknown,HIPER KIOSCO
+Necochea,western_union,,unknown,EPN MERCADITO LA VIVI
+La Dulce,western_union,,unknown,YPF ANGELI
+Quequen,western_union,,unknown,CORREO QUEQUEN

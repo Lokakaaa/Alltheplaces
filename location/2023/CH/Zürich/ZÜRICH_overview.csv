@@ -1,0 +1,80 @@
+City,Place Name,Zipcode,Name
+Zürich,deichmann,,unknown,DOSENBACH Filiale Zürich Altstetterstrasse 145
+Winterthur,deichmann,,unknown,DOSENBACH Filiale Winterthur Schaffhauserstrasse 152
+Wetzikon,deichmann,,unknown,DOSENBACH Filiale Wetzikon Bahnhofstrasse 151
+Wallisellen,deichmann,,unknown,DOSENBACH Filiale Wallisellen Neue Winterthurerstrasse 99
+Wädenswil,deichmann,,unknown,DOSENBACH Filiale Wädenswil Rütistrasse 1
+Volketswil,deichmann,,unknown,DOSENBACH Filiale Volketswil Industriestrasse 1
+Uster,deichmann,,unknown,DOSENBACH Filiale Uster Poststrasse 14
+Thalwil,deichmann,,unknown,DOSENBACH Filiale Thalwil Florastrasse 1
+Rüti,deichmann,,unknown,DOSENBACH Filiale Rüti Dorfstrasse 10
+Regensdorf,deichmann,,unknown,DOSENBACH Filiale Regensdorf Zentrum 1
+Hinwil,deichmann,,unknown,DOSENBACH Filiale Hinwil Wässeristrasse 38
+Effretikon,deichmann,,unknown,DOSENBACH Filiale Effretikon Märtplatz 5
+Dietlikon,deichmann,,unknown,DOSENBACH Filiale Dietlikon Industriestrasse 28
+Dietikon,deichmann,,unknown,DOSENBACH Filiale Dietikon Heimstrasse 44
+Dielsdorf,deichmann,,unknown,DOSENBACH Filiale Dielsdorf Niederhaslistrasse 5
+Bülach,deichmann,,unknown,DOSENBACH Filiale Bülach Feldstrasse 85
+Affoltern am Albis,deichmann,,unknown,DOSENBACH Filiale Affoltern am Albis Centralweg 3
+Hinwil,dunkin_ch,Wässeristrasse 36 - 40 8340 Hinwil Switzerland,unknown,Dunkin' Hinwil Center
+Zürich,dunkin_ch,Bellevuepl. 2 8001 Zürich Switzerland,unknown,Dunkin' Zürich Bellevue
+unknown,dunkin_ch,Bahnhofplatz 15 8001 Zürich CH,unknown,Dunkin' Zürich HB
+unknown,dunkin_ch,Passage Bahnhofstrasse 8001 Zürich CH,unknown,Dunkin' Zürich HB 2
+Zürich,hm,,unknown,Einkaufszentrum Silhlcity
+Volketswil,hm,,unknown,Volketswil Inside
+Hinwil,hm,,unknown,HINWIL CENTER
+Bülach,hm,,unknown,Bülach Süd Center
+Zürich,lovisa,,unknown,Lovisa
+Au - Wädenswil,mercedes_benz,,unknown,"Emil Frey AG, Wädenswil"
+Rümlang,mercedes_benz,,unknown,LARAG AG Rümlang
+Zollikon,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Zollikon"
+Schlieren,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Nutzfahrzeug-Zentrum Schlieren"
+Oberohringen,mercedes_benz,,unknown,Nord-Garage AG Ohringen
+Zürich,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Zürich-Nord"
+Dietlikon,mercedes_benz,,unknown,Kenny's Auto-Center AG
+Neftenbach,mercedes_benz,,unknown,LARAG AG Neftenbach
+Wetzikon ZH,mercedes_benz,,unknown,Auto-Trachsler AG Wetzikon
+Dällikon,mercedes_benz,,unknown,Kenny's Auto-Center AG
+Stäfa,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Stäfa"
+Winterthur,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Winterthur"
+Volketswil,mercedes_benz,,unknown,"Emil Frey AG, Zweigniederlassung Volketswil"
+Kloten,mercedes_benz,,unknown,Hirsch Ruckstuhl AG
+Adliswil,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Adliswil"
+Zürich,nissan_europe,,unknown,"RRG SCHWEIZ AG, Zweigniederlassung Zürich"
+Wallisellen,ricoh_europe,,unknown,Ricoh Schweiz AG – Hauptsitz
+EGLISAU,shell,,unknown,SHELL EGLISAU
+GLATTFELDEN,shell,,unknown,UHLIG AG.
+BÜLACH,shell,,unknown,MIGROL SERVICE BÜLACH.
+WINTERTHUR,shell,,unknown,MIGROL SERVICE WINTERTHUR (ZH)
+SÜNIKON,shell,,unknown,MOVERI SÜNIKON
+DIELSDORF,shell,,unknown,MIGROL SERVICE DIELSDORF.
+RÜMLANG,shell,,unknown,SHELL RÜMLANG.
+REGENSDORF,shell,,unknown,MIGROL SERVICE REGENSDORF.
+GLATTBRUGG,shell,,unknown,SHELL GLATTBRUGG.
+ILLNAU,shell,,unknown,SHELL ILLNAU
+VOLKETSWIL,shell,,unknown,MIGROL SERVICE VOLKETSWIL.
+USTER,shell,,unknown,SHELL IM BRUNNEN
+DIETLIKON,shell,,unknown,SHELL DIETLIKON.
+DÜBENDORF,shell,,unknown,SHELL IM GIESSEN
+DUEBENDORF,shell,,unknown,SHELL SONNENTAL.
+WALLISELLEN,shell,,unknown,MOVERI WALLISELLEN
+FORCH,shell,,unknown,SHELL HEUBERG.
+ZOLLIKERBERG,shell,,unknown,MOVERI ZOLLIKERBERG
+ZUERICH,shell,,unknown,MIGROL SERVICE TRIEMLI.
+FELDMEILEN,shell,,unknown,MOVERI FELDMEILEN
+ZÜRICH,shell,,unknown,MOVERI ZÜRICH
+TANN,shell,,unknown,MOVERI TANN
+THALWIL,shell,,unknown,AUTO SOLIDORO AG
+HORGEN,shell,,unknown,GEBR. KELLER.
+WALD,shell,,unknown,SHELL WALDHOF.
+SCHLIEREN,shell,,unknown,MOVERI SCHLIEREN
+RICHTERSWIL,shell,,unknown,GUT MARKUS.
+HIRZEL,shell,,unknown,GARAGE JENNI.
+BIRMENSDORF,shell,,unknown,SHELL BIRMENSDORF.
+SAMSTAGERN,shell,,unknown,HEDIN AUTOMOTIVE SAMSTAGERN
+AFFOLTERN AM ALBIS,shell,,unknown,MOVERI AFFOLTERN AM ALBIS
+DIETIKON,shell,,unknown,MIGROL SERVICE DIETIKON.
+FAHRWEID,shell,,unknown,SHELL LIMMATBRÜCKE.
+Schlieren,smart,,unknown,Mercedes-Benz Schweiz AG
+Au - Wädenswil,smart,,unknown,"Emil Frey AG, Wädenswil"
+Zollikon,smart,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Zollikon"

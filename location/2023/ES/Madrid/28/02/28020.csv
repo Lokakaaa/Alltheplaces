@@ -1,0 +1,62 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+ES004057,aldi_nord_es,ALDI,,Madrid,Madrid,,ES,+34 900 902 466,,Mo-Sa 08:00-22:00; Su 10:00-22:00,ALDI,Q41171373
+ES004085,aldi_nord_es,ALDI,,Madrid,Madrid,,ES,+34 900 902 466,,Mo-Sa 09:00-22:00; Su 10:00-22:00,ALDI,Q41171373
+ES004009,aldi_nord_es,ALDI,,Madrid,Madrid,,ES,+34 900 902 466,,Mo-Sa 09:00-21:30; Su 10:00-21:00,ALDI,Q41171373
+ESPA00870,audi,MADRID NORTE WAGEN,"C/ Sor Ángela de la Cruz, 5, 28020, Madrid",Madrid,Madrid,,ES,+34 917 70 98 90,,,Audi,Q23317
+08337_9,bmw_group,Caetano Cuzco,,Madrid,Madrid,,ES,+34 913 34 10 16,http://caetanocuzco.mini.es,,BMW,Q26678
+20363,burgerking,Burger King,,Madrid,Madrid,,ES,+34 915 34 57 67,,Mo-Su 12:00-00:30,Burger King,Q177054
+21280,burgerking,Burger King,,Madrid,Madrid,,ES,+34 917 70 86 82,,Mo-We 12:00-00:00; Th 12:00-01:00; Fr-Sa 12:00-01:30; Su 12:00-00:00,Burger King,Q177054
+10112,burgerking,Burger King,,Madrid,Madrid,,ES,+34 910 66 35 58,,Mo-Th 12:30-23:00; Fr-Sa 12:30-00:00; Su 12:30-23:00,Burger King,Q177054
+7207,burgerking,Burger King,,Madrid,Madrid,,ES,3413148132,,Mo-Th 11:00-00:30; Fr-Sa 11:00-02:30; Su 11:00-01:00,Burger King,Q177054
+,carrefour_es,Carrefour Express General Perón 2,,Madrid,Madrid,,ES,+34 914 90 89 00,https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/general_peron_-_s.aspx,,Carrefour Express,Q2940190
+,carrefour_es,Carrefour Market Cuatro Caminos,,Madrid,Madrid,,ES,+34 609 13 35 38,https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-market/cuatro_caminos_-_s.aspx,,Carrefour Market,Q2689639
+,carrefour_es,Carrefour Market Calle Orense,,Madrid,Madrid,,ES,+34 656 19 17 80,https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-market/calle-orense-madrid_-_s.aspx,,Carrefour Market,Q2689639
+,carrefour_es,Carrefour Express Avenida de Brasil,,Madrid,Madrid,,ES,+34 645 47 29 63,https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/avenida-de-brasil-8-madrid-s.aspx,,Carrefour Express,Q2940190
+https://local.fedex.com/#1018307732,fedex,,,Madrid,Madrid,,ES,,https://local.fedex.com/es-es/madrid/madzs,,FedEx,Q459477
+https://local.fedex.com/#1031994140,fedex,,,Madrid,Madrid,,ES,,https://local.fedex.com/es-es/madrid/madqp,,FedEx,Q459477
+https://local.fedex.com/#1031991643,fedex,,,Madrid,Madrid,,ES,,https://local.fedex.com/es-es/madrid/madox,,FedEx,Q459477
+https://local.fedex.com/#27752458,fedex,,,Madrid,Madrid,,ES,,https://local.fedex.com/es-es/madrid/madgk,,FedEx,Q459477
+https://local.fedex.com/#27765984,fedex,,,Madrid,Madrid,,ES,,https://local.fedex.com/es-es/madrid/madgb,,FedEx,Q459477
+https://local.fedex.com/#1032003156,fedex,,,Madrid,Madrid,,ES,,https://local.fedex.com/es-es/madrid/madca,,FedEx,Q459477
+https://local.fedex.com/#27746653,fedex,,,Madrid,Madrid,,ES,,https://local.fedex.com/es-es/madrid/madbu,,FedEx,Q459477
+https://local.fedex.com/#1018303637,fedex,,,Madrid,Madrid,,ES,,https://local.fedex.com/es-es/madrid/madan,,FedEx,Q459477
+orense,indigo,Orense,,Madrid,Madrid,,ES,+34 915 56 50 72,,,Indigo,Q3559970
+43,mcdonalds_es,Cuatro caminos,"Glorieta Cuatro Caminos, nº 5",Madrid,Madrid,,ES,+34 915 53 99 79,,Mo-Th 10:00-24:00; Fr-Sa 10:00-07:00; Su 10:00-02:00,McDonald's,Q38076
+1147,mcdonalds_es,BRAVO MURILLO,"C/ Bravo Murillo, 274",Madrid,Madrid,,ES,+34 915 79 60 90,,Mo 10:00-00:30; Tu 11:00-00:30; We 10:00-00:30; Th 11:00-00:30; Fr 11:00-01:00; Sa 10:00-01:00; Su 11:00-00:30,McDonald's,Q38076
+2839,orangetheory_fitness,"Azca Madrid, Spain",,Azca Madrid,Madrid,,ES,+34 910 64 01 30,,,Orangetheory Fitness,Q25005163
+,visa,,,MADRID,MADRID,,ES,,,,,
+,visa,,,MADRID,MADRID,,ES,,,,,
+,visa,,,MADRID,MADRID,,ES,,,,,
+,visa,,,MADRID,MADRID,,ES,,,,,
+,visa,,,MADRID,MADRID,,ES,,,,,
+,visa,,,MADRID,MADRID,,ES,,,,,
+https://tiendas.vodafone.es/tiendas/comunidad-de-madrid/madrid/vodafone-bravo-murillo-147,vodafone_es,"Vodafone Bravo Murillo, 147",,Madrid,Madrid,,ES,+34 621 22 82 29,https://tiendas.vodafone.es/tiendas/comunidad-de-madrid/madrid/vodafone-bravo-murillo-147,"Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-15:00",Vodafone,Q122141
+https://tiendas.vodafone.es/tiendas/comunidad-de-madrid/madrid/vodafone-madrid-orense-7,vodafone_es,Vodafone Madrid - Orense 7,,Madrid,Madrid,,ES,+34 621 22 82 29,https://tiendas.vodafone.es/tiendas/comunidad-de-madrid/madrid/vodafone-madrid-orense-7,Mo-Fr 10:00-21:00; Sa 10:00-14:00,Vodafone,Q122141
+https://tiendas.vodafone.es/tiendas/comunidad-de-madrid/madrid/vodafone-bravo-murillo-212,vodafone_es,"Vodafone Bravo Murillo, 212",,Madrid,Madrid,,ES,+34 671 55 57 51,https://tiendas.vodafone.es/tiendas/comunidad-de-madrid/madrid/vodafone-bravo-murillo-212,Mo-Sa 10:00-21:00,Vodafone,Q122141
+https://tiendas.vodafone.es/tiendas/comunidad-de-madrid/madrid/vodafone-madrid-bravo-murillo-371,vodafone_es,Vodafone Madrid - Bravo Murillo 371,,Madrid,Madrid,,ES,+34 607 41 58 83,https://tiendas.vodafone.es/tiendas/comunidad-de-madrid/madrid/vodafone-madrid-bravo-murillo-371,Mo-Fr 10:00-21:00; Sa 10:00-14:00,Vodafone,Q122141
+acb41146bb8375a5f1a9bbc70ca2b1b2,western_union,JL MULTISERVICIOS,,Madrid,MADRID,,ES,+34 915 71 47 44,https://location.westernunion.com/es/madrid/madrid/acb41146bb8375a5f1a9bbc70ca2b1b2,Mo-Su 10:00-22:00,Western Union,Q861042
+5467e8ed77aa7189cb926f64fe591b34,western_union,PHONE PLACE,,Madrid,MADRID,,ES,+34 911 99 68 03,https://location.westernunion.com/es/madrid/madrid/5467e8ed77aa7189cb926f64fe591b34,Mo-Su 10:00-22:00,Western Union,Q861042
+fedbe594c37f6aadad9d680efa46c336,western_union,LOCUTORIO PHILIPPINE WORLD VALDEACEDERAS,,Madrid,MADRID,,ES,+34 900 633 633,https://location.westernunion.com/es/madrid/madrid/fedbe594c37f6aadad9d680efa46c336,Mo-Su 10:00-22:30,Western Union,Q861042
+237ea6d3136f9399a057f55e521439db,western_union,LATIN TRAVEL,,Madrid,MADRID,,ES,+34 911 30 16 29,https://location.westernunion.com/es/madrid/madrid/237ea6d3136f9399a057f55e521439db,Mo-Su 10:00-22:30,Western Union,Q861042
+0c560414d24fa7aa7999de212a853351,western_union,CORREOS Y TELEGRAFOS,,Madrid,MADRID,,ES,+34 915 19 71 97,https://location.westernunion.com/es/madrid/madrid/0c560414d24fa7aa7999de212a853351,Mo-Fr 08:30-20:30; Sa 08:30-14:30,Western Union,Q861042
+66ace1200a200924e78d4cdf48e869eb,western_union,SMALL WORLD TETUAN,,Madrid,MADRID,,ES,+34 691 52 90 13,https://location.westernunion.com/es/madrid/madrid/66ace1200a200924e78d4cdf48e869eb,Mo-Sa 10:00-21:00; Su 11:00-19:00,Western Union,Q861042
+3e02601ebaf64682bb19b2eaaf2deaca,western_union,EUROPAY TRANSPERA SL,,Madrid,MADRID,,ES,+34 912 87 03 67,https://location.westernunion.com/es/madrid/madrid/3e02601ebaf64682bb19b2eaaf2deaca,Mo-Su 10:00-22:00,Western Union,Q861042
+ab93ff49a32922506b571e4541a66697,western_union,SELA EXPRESS,,Madrid,MADRID,,ES,+34 919 12 10 40,https://location.westernunion.com/es/madrid/madrid/ab93ff49a32922506b571e4541a66697,Mo-Su 10:00-22:30,Western Union,Q861042
+d5158412e6887b8bf2d88a01eb41bfbe,western_union,MABUHAY TRAVEL TOUR,,Madrid,MADRID,,ES,+34 666 51 93 40,https://location.westernunion.com/es/madrid/madrid/d5158412e6887b8bf2d88a01eb41bfbe,Mo-Sa 09:30-21:30,Western Union,Q861042
+dec9d3d23fc3d7f76f9f4b8dd4bc09ae,western_union,LOCUTORIO MARRAKECH,,Madrid,MADRID,,ES,+34 915 99 17 19,https://location.westernunion.com/es/madrid/madrid/dec9d3d23fc3d7f76f9f4b8dd4bc09ae,Mo-Su 09:00-22:30,Western Union,Q861042
+028a99812a874343cb460741d58fda05,western_union,PHILIPPINE WORLD,,Madrid,MADRID,,ES,+34 914 59 49 94,https://location.westernunion.com/es/madrid/madrid/028a99812a874343cb460741d58fda05,Mo-Su 10:00-23:00,Western Union,Q861042
+d3244ab8b3cb20d509bca5060a4806c5,western_union,LOCUTORIO PHILIPPINE WORLD V,,Madrid,MADRID,,ES,+34 915 99 14 75,https://location.westernunion.com/es/madrid/madrid/d3244ab8b3cb20d509bca5060a4806c5,Mo-Su 10:00-22:00,Western Union,Q861042
+28844ae5d994695be2406240f589ffdf,western_union,TECNOLOGIA INTELIGENTE,,Madrid,MADRID,,ES,+34 910 40 04 05,https://location.westernunion.com/es/madrid/madrid/28844ae5d994695be2406240f589ffdf,Mo-Su 10:00-22:00,Western Union,Q861042
+1c789ccb45981b174d81883450aefabc,western_union,TECNOLOGIA INTELIGENTE,,Madrid,MADRID,,ES,+34 695 69 52 43,https://location.westernunion.com/es/madrid/madrid/1c789ccb45981b174d81883450aefabc,Mo-Su 10:00-22:30,Western Union,Q861042
+bd9ba6d3f64a63cb5890644525d2f20e,western_union,ENVIX GLOBAL,,Madrid,MADRID,,ES,+34 919 48 48 77,https://location.westernunion.com/es/madrid/madrid/bd9ba6d3f64a63cb5890644525d2f20e,Mo-Su 09:00-22:00,Western Union,Q861042
+c5efd9575edecc8e3a817700f96bea25,western_union,SUPER EFECTIVO 2010,,Madrid,MADRID,,ES,+34 915 34 40 16,https://location.westernunion.com/es/madrid/madrid/c5efd9575edecc8e3a817700f96bea25,Mo-Fr 10:00-20:30; Sa 10:00-14:00,Western Union,Q861042
+a3dc971e852e7b9ff5a6ced839407f50,western_union,SOLUCION TECNOLOGIA,,Madrid,MADRID,,ES,+34 910 41 86 25,https://location.westernunion.com/es/madrid/madrid/a3dc971e852e7b9ff5a6ced839407f50,Mo-Su 10:00-22:00,Western Union,Q861042
+faa39d12960f6287424b281e9814dc17,western_union,MANDALO MARKET,,Madrid,MADRID,,ES,+34 919 47 23 44,https://location.westernunion.com/es/madrid/madrid/faa39d12960f6287424b281e9814dc17,Mo-Su 09:00-21:30,Western Union,Q861042
+f7645402e015705b740ddf0ae7ab4a6b,western_union,LATIN TRAVEL,,Madrid,MADRID,,ES,+34 911 30 16 29,https://location.westernunion.com/es/madrid/madrid/f7645402e015705b740ddf0ae7ab4a6b,Mo-Su 10:00-22:30,Western Union,Q861042
+da183b8f1382b90f371ec8bc1fca3b61,western_union,SOMOS PY,,Madrid,MADRID,,ES,+34 622 70 00 19,https://location.westernunion.com/es/madrid/madrid/da183b8f1382b90f371ec8bc1fca3b61,Mo-Su 10:00-22:00,Western Union,Q861042
+0c88b84ff392c0a210657880f99f9592,western_union,WONDERTECH,,Madrid,MADRID,,ES,+34 910 89 48 94,https://location.westernunion.com/es/madrid/madrid/0c88b84ff392c0a210657880f99f9592,Mo-Su 09:00-22:00,Western Union,Q861042
+d7a68f0f9b51044ed590ed4b8374e8b1,western_union,WU HUB CUATRO CAMINOS,,Madrid,MADRID,,ES,+34 910 25 99 90,https://location.westernunion.com/es/madrid/madrid/d7a68f0f9b51044ed590ed4b8374e8b1,Mo-Su 07:00-23:00,Western Union,Q861042
+f5663c982961b9a6c2acb9b65e28a81c,western_union,SMALL WORLD ARTISTAS,,Madrid,MADRID,,ES,+34 915 34 03 37,https://location.westernunion.com/es/madrid/madrid/f5663c982961b9a6c2acb9b65e28a81c,Mo-Sa 10:00-21:00; Su 11:00-19:00,Western Union,Q861042
+5b9dff4fc4b0671e40e6266100ee6fc8,western_union,SOLUCION TECNOLOGIA,,Madrid,MADRID,,ES,+34 915 06 32 60,https://location.westernunion.com/es/madrid/madrid/5b9dff4fc4b0671e40e6266100ee6fc8,Mo-Su 10:00-22:00,Western Union,Q861042
+42721d684f25125ced79a1501af0b55e,western_union,TELEFONIAMOVIL,,Madrid,MADRID,,ES,+34 910 83 34 18,https://location.westernunion.com/es/madrid/madrid/42721d684f25125ced79a1501af0b55e,Mo-Su 10:00-22:30,Western Union,Q861042
+40c42458412967c6e2b985709cc58f6e,western_union,INFOMOVITECH,,Madrid,MADRID,,ES,+34 911 76 42 51,https://location.westernunion.com/es/madrid/madrid/40c42458412967c6e2b985709cc58f6e,Mo-Su 10:00-22:00,Western Union,Q861042

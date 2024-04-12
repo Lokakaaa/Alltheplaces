@@ -1,0 +1,29 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+11524,abc_pl,abc,,Dachowa,wielkopolskie,,PL,,,,abc,Q11683985
+2722,abc_pl,abc,,Gądki,wielkopolskie,,PL,,,,abc,Q11683985
+BOW01N,paczkomat_inpost_pl,Przy parkingu Biedronki,,Borówiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-borowiec-bow01n-glowna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+BOW02M,paczkomat_inpost_pl,parking przed budynkiem,,Borówiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-borowiec-bow02m-poznanska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+BOW02N,paczkomat_inpost_pl,Parking przed Sklepem Familijnym,,Borówiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-borowiec-bow02n-glowna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+DAH01M,paczkomat_inpost_pl,Przy sklepie ABC,,Dachowa,wielkopolskie,,PL,,https://inpost.pl/paczkomat-dachowa-dah01m-poznanska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+DAH02M,paczkomat_inpost_pl,parking prze warzywniaku,,Dachowa,wielkopolskie,,PL,,https://inpost.pl/paczkomat-dachowa-dah02m-poznanska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GDI01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Gądki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-gadki-gdi01m-zbozowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KMN01M,paczkomat_inpost_pl,Posesja na ul. Kamiennej 10,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-kmn01m-kamienna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KMN01ML,paczkomat_inpost_pl,parking przy budynku usługowym,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-kmn01ml-na-skraju-lasu-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KMN02M,paczkomat_inpost_pl,Parking Maryland Kraina Języków,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-kmn02m-porannej-rosy-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KMN02N,paczkomat_inpost_pl,Przy sklepie Delikatesy Centrum,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-kmn02n-mostowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KMN03M,paczkomat_inpost_pl,parking Parku Handlowego Eko-Kamionki,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-kmn03m-poznanska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KMN03N,paczkomat_inpost_pl,Obok fryzjera,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-kmn03n-jasminowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KMN04M,paczkomat_inpost_pl,działka przy skrzyżowaniu ulic Szafirowej i Krzemiennej,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-kmn04m-szafirowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-KMN4,paczkomat_inpost_pl,POZPAK KAMIONKI,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-pop-kmn4-platanowa-paczkomaty-wielkopolskie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+POP-KMN5,paczkomat_inpost_pl,DUŻY BEN,,Kamionki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kamionki-pop-kmn5-poznanska-paczkomaty-wielkopolskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+QNK01M,paczkomat_inpost_pl,Market Dino,,Koninko,wielkopolskie,,PL,,https://inpost.pl/paczkomat-koninko-qnk01m-radiowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ROA01A,paczkomat_inpost_pl,Obok Żabki,,Robakowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-robakowo-roa01a-jasminowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ROA01M,paczkomat_inpost_pl,Market Dino,,Robakowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-robakowo-roa01m-szkolna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ROA01N,paczkomat_inpost_pl,Na parkingu za budynkiem Centrum Medycznego KORMED,,Robakowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-robakowo-roa01n-szkolna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ROA02M,paczkomat_inpost_pl,Na parkingu pry sklepie SPAR,,Robakowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-robakowo-roa02m-os-tygrysie-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SYT01M,paczkomat_inpost_pl,Parking budynku handlowego,,Szczytniki,wielkopolskie,,PL,,https://inpost.pl/paczkomat-szczytniki-syt01m-jeziorna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+746708,poczta_polska_pl,AP Kamionki,,Kamionki,WIELKOPOLSKIE,,PL,+48 535 786 758,,,Poczta Polska,Q168833
+798230,poczta_polska_pl,AP Robakowo,,Robakowo,WIELKOPOLSKIE,,PL,+48 571 992 743,,,Poczta Polska,Q168833
+,visa,,,KORNIK,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KORNIK,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KORNIK,WIELKOPOLSKIE,,PL,,,,,

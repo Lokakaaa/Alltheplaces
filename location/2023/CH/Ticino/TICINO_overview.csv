@@ -1,0 +1,306 @@
+City,Place Name,Zipcode,Name
+Faido,audi,Via Cantonale 1 6760 Faido,unknown,Garage Karpf & Co
+Giubiasco,audi,Via Bellinzona 37 6512 Giubiasco,unknown,AMAG Giubiasco
+Gordola,audi,Via San Gottardo 139 6596 Gordola,unknown,Tognetti Auto SA
+Lugano,audi,Via Monte Boglia 24 6900 Lugano,unknown,AMAG Lugano
+Breganzona,audi,Via S. Carlo 6 6932 Breganzona,unknown,Centro Audi AMAG Breganzona
+Mendrisio,audi,Via Bernasconi 31 6850 Mendrisio,unknown,AMAG Mendrisio
+Tenero,deichmann,,unknown,DOSENBACH Filiale Tenero Via Brere 8
+S. Antonino,deichmann,,unknown,DOSENBACH Filiale S. Antonino Via Serrai 1
+Lugano,deichmann,,unknown,DOSENBACH Filiale Lugano Via Pessina 16
+Grancia,deichmann,,unknown,DOSENBACH Filiale Grancia Via Cantonale 1
+Canobbio,deichmann,,unknown,DOSENBACH Filiale Canobbio Via Sonvico 5
+Lugano,hm,,unknown,Centro Lugano-Sud
+Tenero,hm,,unknown,Centro Commerciale
+Bellinzona District,ich_tanke_strom,Autostradale Sud  6513 Monte Carasso,unknown,unknown
+Bellinzona District,ich_tanke_strom,A2 Direzione Chiasso  6500 Bellinzona,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Serrai  6592 Sant Antonino,unknown,unknown
+Bellinzona District,ich_tanke_strom,Viale C.Olgiati  6929 Giubiasco,unknown,unknown
+Lugano District,ich_tanke_strom,Via Cantonale  6916 Grancia,unknown,Tesla Supercharger
+Leventina District,ich_tanke_strom,Via di Mezzo  6776 Quinto,unknown,Tesla Supercharger
+Bellinzona District,ich_tanke_strom,via Monte Ceneri  6802 Rivera,unknown,Tesla Supercharger
+Bellinzona District,ich_tanke_strom,Via Stazione  6593 Cadenazzo,unknown,Tesla Supercharger
+Lugano District,ich_tanke_strom,Via Cantonale  6815 Melide,unknown,Tesla Supercharger
+Locarno District,ich_tanke_strom,Via Locarno  6612 Ascona,unknown,unknown
+Locarno District,ich_tanke_strom,Viale Monte Verità  0 Ascona,unknown,unknown
+Locarno District,ich_tanke_strom,Via Collegio  0 Ascona,unknown,unknown
+Leventina District,ich_tanke_strom,Via alla basilica 17  0 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via Albarelle  0 Ascona,unknown,unknown
+Lugano District,ich_tanke_strom,Via Carona 41  0 Paradiso,unknown,unknown
+Leventina District,ich_tanke_strom,Area Servizio Stalvedro A2  0 Stalvedro,unknown,unknown
+Leventina District,ich_tanke_strom,Area Servizio Gottardo Sud Quinto  0 Piotta-Quinto,unknown,unknown
+Locarno District,ich_tanke_strom,Zona Industriale 3 Via Ganne 5 Zona Industriale 3 Via Ganne 5 6572 MagadinoMagadino  0 Magadino,unknown,unknown
+Locarno District,ich_tanke_strom,Piazza Caglioni  0 Ascona,unknown,unknown
+Leventina District,ich_tanke_strom,Via Industrie 16  0 Giornico,unknown,unknown
+Locarno District,ich_tanke_strom,Tertianum Residenza Al Parco Via San Gottardo 8  0 Muralto Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via San Gottardo 8  0 Muralto Locarno,unknown,unknown
+Lugano District,ich_tanke_strom,Via Muraccio  6987 Caslano,unknown,unknown
+Lugano District,ich_tanke_strom,McDonald's Via la Sguancia 9  6912 Lugano-Pazzallo,unknown,unknown
+Locarno District,ich_tanke_strom,Via Lido  0 Tenero,unknown,unknown
+Bellinzona District,ich_tanke_strom,Fela Ticino Via Stazione 10  6593 Cadenazzo,unknown,unknown
+Locarno District,ich_tanke_strom,Via alle Brere 8  0 Tenero-Contra,unknown,unknown
+Locarno District,ich_tanke_strom,Centro Valle  6670 Avegno,unknown,unknown
+Lugano District,ich_tanke_strom,Via Cantonale 13  6815 Melide,unknown,unknown
+Mendrisio District,ich_tanke_strom,via Prati Maggi 8  0 Rancate,unknown,unknown
+Mendrisio District,ich_tanke_strom,Area Servizio Coldrerio Sud-Nord E35  0 Coldrerio,unknown,unknown
+Mendrisio District,ich_tanke_strom,Area Servizio Coldrerio Nord-Sud E35  0 Coldrerio,unknown,unknown
+Lugano District,ich_tanke_strom,Via Speranza 4  6900 Lugano,unknown,unknown
+Bellinzona District,ich_tanke_strom,Area Servizio Bellinzona Nord  0 Bellinzona,unknown,unknown
+Bellinzona District,ich_tanke_strom,Area Servizio Bellinzona Sud  0 Monte Carasso,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Moderna 15  0 Giubiasco,unknown,unknown
+Mendrisio District,ich_tanke_strom,FoxTown Via Angelo Maspoli 18  6850 Mendrisio,unknown,unknown
+Lugano District,ich_tanke_strom,Via Sonvico 5  0 Canobbio,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via San Gottardo 129  6517 Arbedo,unknown,unknown
+Lugano District,ich_tanke_strom,Via Basilea  6900 Lugano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Norello  6928 Manno,unknown,unknown
+Lugano District,ich_tanke_strom,Via Monte Lema 2  6986 Miglieglia,unknown,unknown
+Mendrisio District,ich_tanke_strom,Corso San Gottardo  6830 Chiasso,unknown,unknown
+Riviera District,ich_tanke_strom,Piazzál dal Comun  6702 Claro,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Stazione  6532 Castione,unknown,unknown
+Locarno District,ich_tanke_strom,Viale Verbano  6600 Muralto,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Lischedi  6592 Sant'Antonino,unknown,unknown
+Lugano District,ich_tanke_strom,Piazza Riscossa  6906 Cassarate,unknown,unknown
+Lugano District,ich_tanke_strom,Via G.B. Pioda  6900 Lugano,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via S. Giorgio  6877 Coldrerio,unknown,unknown
+Bellinzona District,ich_tanke_strom,Piazza Grande  6512 Giubiasco,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via al Maglio  6500 Bellinzona,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Seghezzone  6512 Giubiasco,unknown,unknown
+Lugano District,ich_tanke_strom,Via Val Gersa  6900 Massagno,unknown,unknown
+Leventina District,ich_tanke_strom,Villa Bedretto  6781 Bedretto,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Ufentina  6855 Stabio,unknown,unknown
+Riviera District,ich_tanke_strom,Via Generale Guisan  6710 Biasca,unknown,unknown
+Lugano District,ich_tanke_strom,Via Industria  6807 Torricella-Taverne,unknown,unknown
+Lugano District,ich_tanke_strom,Via Girella  6814 Lamone,unknown,unknown
+Lugano District,ich_tanke_strom,Via Daldini  6943 Vezia,unknown,unknown
+Lugano District,ich_tanke_strom,Via Pree  6992 Vernate,unknown,unknown
+Lugano District,ich_tanke_strom,Via alla Bola  6815 Melide,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Onorio Longhi  6864 Arzo,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Municipio  6850 Mendrisio,unknown,unknown
+Riviera District,ich_tanke_strom,Via San Gottardo  6742 Pollegio,unknown,unknown
+Bellinzona District,ich_tanke_strom,Residenza  6512 Giubiasco,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via al Guast  6528 Camorino,unknown,unknown
+Locarno District,ich_tanke_strom,Via Mappo  6648 Minusio,unknown,unknown
+Locarno District,ich_tanke_strom,Al Stradón  6670 Avegno,unknown,unknown
+Lugano District,ich_tanke_strom,Piazza Stazione  6950 Tesserete,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Soldini  6830 Chiasso,unknown,unknown
+Lugano District,ich_tanke_strom,Autosilo Motta  6900 Lugano,unknown,unknown
+Lugano District,ich_tanke_strom,Vicolo Riva dell'Angelo  6818 Melano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Mulini  6934 Bioggio,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via San Martino  6850 Mendrisio,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Campo Sportivo  6850 Mendrisio,unknown,unknown
+Leventina District,ich_tanke_strom,Via Gerra  6760 Faido,unknown,unknown
+Lugano District,ich_tanke_strom,Via Cantonale  6949 Comano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Cremignone  6924 Sorengo,unknown,unknown
+Locarno District,ich_tanke_strom,Via Trevani  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Largo Zorzi  6600 Locarno,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Brunari  6500 Bellinzona,unknown,unknown
+Bellinzona District,ich_tanke_strom,Vicolo Muggiasca  6501 Bellinzona,unknown,unknown
+Locarno District,ich_tanke_strom,Via Centro Sportivo  6573 Magadino,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Volta  6830 Chiasso,unknown,unknown
+Locarno District,ich_tanke_strom,Via Campagna  6652 Tegna,unknown,unknown
+Locarno District,ich_tanke_strom,Via Varesi  6600 Locarno,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Cantonale  6855 Stabio,unknown,unknown
+Locarno District,ich_tanke_strom,Via Orgnana  6573 Gambarogno,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Franco Zorzi  6850 Mendrisio,unknown,unknown
+Lugano District,ich_tanke_strom,Via Maroggia  6816 Bissone,unknown,unknown
+Lugano District,ich_tanke_strom,Via Giuseppe Buffi  6900 Lugano,unknown,unknown
+Bellinzona District,ich_tanke_strom,Hotel La Perla Via Cantonale  6592 Sant'Antonino,unknown,unknown
+Bellinzona District,ich_tanke_strom,In Piazza  6528 Camorino,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via S. Gottardo  6828 Balerna,unknown,unknown
+Lugano District,ich_tanke_strom,Via Cantonale  6983 Magliaso,unknown,unknown
+Lugano District,ich_tanke_strom,Piazza Rezzonico  6900 Lugano,unknown,unknown
+Bellinzona District,ich_tanke_strom,Evita Via del Tiglio  6512 Giubiasco,unknown,unknown
+Lugano District,ich_tanke_strom,Via Serafino Balestra  6900 Lugano,unknown,unknown
+Mendrisio District,ich_tanke_strom,Piazza Antonio Fontana  6850 Besazio,unknown,unknown
+Locarno District,ich_tanke_strom,Lungolago Giuseppe Motta  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via alla Peschiera  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Viale G. Respini  6600 Locarno,unknown,unknown
+Lugano District,ich_tanke_strom,Piazza San Provino  6982 Agno,unknown,unknown
+Lugano District,ich_tanke_strom,Ur Stradón  6994 Aranno,unknown,unknown
+Lugano District,ich_tanke_strom,Parcheggio Comunale Viale Pietro Grassi  6981 Bedigliora,unknown,unknown
+Blenio District,ich_tanke_strom,Via Brugaio  6713 Malvaglia,unknown,unknown
+Blenio District,ich_tanke_strom,Via Chiesa San Martino  6718 Olivone,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Fontana da Sagno  6830 Chiasso,unknown,unknown
+Lugano District,ich_tanke_strom,Viale San Salvatore  6900 Paradiso,unknown,unknown
+Lugano District,ich_tanke_strom,Via Bora da Besa  6925 Gentilino,unknown,unknown
+Lugano District,ich_tanke_strom,Ra Stráda Cantonál  6966 Villa Luganese,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via degli Albrici  6830 Chiasso,unknown,unknown
+Lugano District,ich_tanke_strom,Via Strecia  6814 Cadempino,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Campagna  6582 Pianezzo,unknown,unknown
+Mendrisio District,ich_tanke_strom,via Franscini  6850 Mendrisio,unknown,unknown
+Lugano District,ich_tanke_strom,Via Ort Pruvin  6986 Novaggio,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Cantonale  6837 Bruzella,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Gelusa  6874 Castel S. Pietro,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Livio  6830 Chiasso,unknown,unknown
+Lugano District,ich_tanke_strom,Autosilo Piazza Castello  6900 Lugano,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Francesco Catenazzi  6850 Mendrisio,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Gerretta  6500 Bellinzona,unknown,unknown
+Lugano District,ich_tanke_strom,Piazza Chiattone  6932 Breganzona,unknown,unknown
+Lugano District,ich_tanke_strom,Via Scuole  6916 Grancia,unknown,unknown
+Lugano District,ich_tanke_strom,Via Cantonale  6929 Gravesano,unknown,unknown
+Lugano District,ich_tanke_strom,Piaza du Buteghin  6805 Mezzovico,unknown,unknown
+Mendrisio District,ich_tanke_strom,Ala Caraa  6850 Meride,unknown,unknown
+Locarno District,ich_tanke_strom,Piazza Respini  6600 Locarno,unknown,unknown
+Bellinzona District,ich_tanke_strom,El Cunvént  6513 Monte Carasso,unknown,unknown
+Leventina District,ich_tanke_strom,Via della Stazione  6780 Airolo,unknown,unknown
+Lugano District,ich_tanke_strom,Parcheggio comunale in via Nocc  6925 Gentilino,unknown,unknown
+Vallemaggia District,ich_tanke_strom,Via Valmaggina  6675 Cevio,unknown,unknown
+Locarno District,ich_tanke_strom,Centro Paese  6672 Gordevio,unknown,unknown
+Lugano District,ich_tanke_strom,Strada Regina  6934 Bioggio,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via alla Cervia  6500 Bellinzona,unknown,unknown
+Locarno District,ich_tanke_strom,Autosilo P.za Castello  6600 Locarno,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Pizzamiglio  6833 Vacallo,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Henri Guisan  6500 Bellinzona,unknown,unknown
+Lugano District,ich_tanke_strom,Via S. Felice  6821 Rovio,unknown,unknown
+Locarno District,ich_tanke_strom,Via San Gottardo  6596 Gordola,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Balbio  6834 Morbio Inferiore,unknown,unknown
+Locarno District,ich_tanke_strom,Via Prati di Vizi  6616 Losone,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Cantonale  6515 Gudo,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Linoleum  6512 Giubiasco,unknown,unknown
+Mendrisio District,ich_tanke_strom,Piazza Baraini  6852 Genestrerio,unknown,unknown
+Lugano District,ich_tanke_strom,Via al Mulino  6814 Cadempino,unknown,unknown
+Bellinzona District,ich_tanke_strom,Piazza del Sole  6500 Bellinzona,unknown,unknown
+Locarno District,ich_tanke_strom,Via Osola  6634 Brione Verzasca,unknown,unknown
+Locarno District,ich_tanke_strom,Viale al Lido  6600 Locarno,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Stazione  6592 Sant'Antonino,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Monsignor Sesti  6826 Riva San Vitale,unknown,unknown
+Locarno District,ich_tanke_strom,via Giuseppe Cattori  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Piazza Municipio  6614 Brissago,unknown,unknown
+Lugano District,ich_tanke_strom,Via Ponte Capriasca  6945 Origlio,unknown,unknown
+Lugano District,ich_tanke_strom,Via alla Selva 5  6933 Muzzano,unknown,unknown
+Lugano District,ich_tanke_strom,Via al Pozzo  6979 Brè sopra Lugano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Municipio  6930 Bedano,unknown,unknown
+Locarno District,ich_tanke_strom,Via Municipio  6648 Minusio,unknown,unknown
+Locarno District,ich_tanke_strom,Via dei Pioppi  6616 Losone,unknown,unknown
+Lugano District,ich_tanke_strom,Via Roigo  6965 Cadro,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Lischedo  6802 Rivera,unknown,unknown
+Lugano District,ich_tanke_strom,Via alla Cava  6807 Torricella-Taverne,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Torraccia  6883 Novazzano,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Paolo Torriani  6850 Mendrisio,unknown,unknown
+Mendrisio District,ich_tanke_strom,Largo Mario Soldini  6850 Mendrisio,unknown,unknown
+Lugano District,ich_tanke_strom,Via Monte Croce  6927 Agra,unknown,unknown
+Lugano District,ich_tanke_strom,Via San Pietro  6929 Gravesano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Ceresio  6963 Lugano,unknown,unknown
+Leventina District,ich_tanke_strom,Carì Croce  6760 Campello,unknown,unknown
+Lugano District,ich_tanke_strom,Via Golf  6987 Caslano,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Chiesa  6834 Morbio Inferiore,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Luigi Lavizzari  6850 Mendrisio,unknown,unknown
+Mendrisio District,ich_tanke_strom,Viale Municipio  6828 Balerna,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Cereghetti  6834 Morbio Inferiore,unknown,unknown
+Lugano District,ich_tanke_strom,Nucleo Roveredo  6957 Roveredo,unknown,unknown
+Lugano District,ich_tanke_strom,Via Lugano 56  6953 Lugaggia,unknown,unknown
+Lugano District,ich_tanke_strom,Via alle Pezze  6950 Tesserete,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via ai Crotti  6830 Chiasso,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via alla Costa  6828 Balerna,unknown,unknown
+Locarno District,ich_tanke_strom,Via Cantonale  6595 Riazzino,unknown,unknown
+Locarno District,ich_tanke_strom,Via Al Stradón  6673 Maggia,unknown,unknown
+Lugano District,ich_tanke_strom,Via Industria  6807 Taverne,unknown,unknown
+Lugano District,ich_tanke_strom,Via Gola di Lago  6951 Odogno,unknown,unknown
+Lugano District,ich_tanke_strom,via Campo Sportivo  6930 Bedano,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via alle Scuole  6883 Novazzano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Pizzo Ferraro  6807 Torricella-Taverne,unknown,unknown
+Lugano District,ich_tanke_strom,Via Monte Bar  6958 Bidogno,unknown,unknown
+Lugano District,ich_tanke_strom,-Via Cantonale  6956 Lopagno,unknown,unknown
+Lugano District,ich_tanke_strom,Via alla Cava  6947 Vaglio,unknown,unknown
+Lugano District,ich_tanke_strom,via gola di lago  6950 Lelgio,unknown,unknown
+Lugano District,ich_tanke_strom,Piazza Brocchi  6926 Montagnola,unknown,unknown
+Locarno District,ich_tanke_strom,6665 Intragna  6655 Intragna,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via San Gottardo  6500 Bellinzona,unknown,unknown
+Lugano District,ich_tanke_strom,Via al Convento  6954 Bigorio,unknown,unknown
+Bellinzona District,ich_tanke_strom,Viale Franscini  6500 Bellinzona,unknown,unknown
+Locarno District,ich_tanke_strom,Via Mappo  6598 Tenero,unknown,unknown
+Lugano District,ich_tanke_strom,Via Giovan Pietro Poma  6827 Brusino Arsizio,unknown,unknown
+Lugano District,ich_tanke_strom,Viale Cassone  6963 Pregassona,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via alla Rotonda  6517 Arbedo,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Quadrelle  6804 Bironico - Monte Ceneri,unknown,unknown
+Locarno District,ich_tanke_strom,Via Cantonale/Via Pestalozzi  6818 Arcegno,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Carlo Cattaneo  6830 Chiasso,unknown,unknown
+Lugano District,ich_tanke_strom,Via Grumo  6929 Gravesano,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Lavizzari  6500 Bellinzona,unknown,unknown
+Lugano District,ich_tanke_strom,Via Industria  6933 Muzzano,unknown,unknown
+Lugano District,ich_tanke_strom,Str. Növa  6968 Lugano,unknown,unknown
+Lugano District,ich_tanke_strom,Piazza Molino Nuovo  6900 Lugano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Madonna della Salute  6900 Massagno,unknown,unknown
+Lugano District,ich_tanke_strom,Via Pian Scairolo Ristorante Serrafiorita  6915 Pambio-Noranco,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Pobbia  6514 Sementina,unknown,unknown
+Lugano District,ich_tanke_strom,Via San Gottardo di Cureggia  6963 Lugano,unknown,unknown
+Leventina District,ich_tanke_strom,Strèda di Scamoi  6763 Osco,unknown,unknown
+Leventina District,ich_tanke_strom,Via San Gottardo  6746 Lavorgo,unknown,unknown
+Locarno District,ich_tanke_strom,Via Brione  6645 Brione sopra Minusio,unknown,unknown
+Locarno District,ich_tanke_strom,Via Valle Verzasca  6632 Vogorno,unknown,unknown
+Lugano District,ich_tanke_strom,Via Rompada  6987 Caslano,unknown,unknown
+Locarno District,ich_tanke_strom,Via Cantonale 89  6595 Riazzino,unknown,unknown
+Leventina District,ich_tanke_strom,Via San Gottardo  6780 Airolo,unknown,unknown
+Lugano District,ich_tanke_strom,Via Campo Marzio  6900 Lugano,unknown,unknown
+Lugano District,ich_tanke_strom,-Via al Lido  6817 Maroggia,unknown,unknown
+Lugano District,ich_tanke_strom,Via Cantonale  6942 Savosa,unknown,unknown
+Lugano District,ich_tanke_strom,Via alla Piana Mappale 671  6933 Muzzano,unknown,unknown
+Lugano District,ich_tanke_strom,Piazza Bernardino Luini  6900 Lugano,unknown,unknown
+Leventina District,ich_tanke_strom,Via Saresc  6760 Faido,unknown,unknown
+Leventina District,ich_tanke_strom,Via Cantonale  6760 Faido,unknown,unknown
+Lugano District,ich_tanke_strom,Piazzale Gilberto Quadri  6962 Viganello,unknown,unknown
+Lugano District,ich_tanke_strom,Via dei Circoli  6965 Cadro,unknown,unknown
+Lugano District,ich_tanke_strom,Parcheggio comunale via Cantonale  6964 Davesco,unknown,unknown
+Lugano District,ich_tanke_strom,Via Sarone  6955 Cagiallo,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via alla Stazione  6533 Lumino,unknown,unknown
+Lugano District,ich_tanke_strom,Via Riva Caccia  6900 Lugano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Sarécc  6807 Taverne,unknown,unknown
+Lugano District,ich_tanke_strom,Via Vira  6805 Mezzovico,unknown,unknown
+Leventina District,ich_tanke_strom,Area di sosta - A2  6743 Bodio,unknown,unknown
+Lugano District,ich_tanke_strom,Via Industria  Muzzano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Cantonale 8  Manno,unknown,unknown
+Lugano District,ich_tanke_strom,Via Vedeggio 12  6814 Lamone,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Giacomo Rizzi 1A  6850 Mendrisio,unknown,unknown
+Lugano District,ich_tanke_strom,Via Serta 18  6807 Lamone,unknown,unknown
+Locarno District,ich_tanke_strom,Via ai Monti 44  6600 Locarno,unknown,unknown
+Lugano District,ich_tanke_strom,Via Pian Scairolo 41  6912 Pazzallo,unknown,unknown
+Lugano District,ich_tanke_strom,Via Pian Scairolo 52  6915 Pambio-Noranco,unknown,unknown
+Locarno District,ich_tanke_strom,Via Muraccio 116  6612 Ascona,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via del Carmagnola 17  6500 Bellinzona,unknown,unknown
+Locarno District,ich_tanke_strom,Via dei Pioppi 2  6616 Losone,unknown,unknown
+Riviera District,ich_tanke_strom,Via Chiasso 16  6710 Biasca,unknown,unknown
+Lugano District,ich_tanke_strom,Via S. Mamete 98  6805 Mezzovico-Vira,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via S. Gottardo 6  6828 Balerna,unknown,unknown
+Mendrisio District,ich_tanke_strom,Corso S. Gottardo 149  6830 Balerna,unknown,unknown
+Locarno District,ich_tanke_strom,Via Rinaldo Simen 56  6648 Minusio,unknown,unknown
+Locarno District,ich_tanke_strom,via F.A. Bustelli 18  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via Gioacchino Respini 7  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via ai Monti 37  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via Costa di Mezzo 35  6614 Brissago,unknown,unknown
+Lugano District,ich_tanke_strom,Via Pian Scairolo 56  6926 Lugano,unknown,unknown
+Locarno District,ich_tanke_strom,Via delle Vigne 7  6598 Tenero-Contra,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Odescalchi 4  6830 Chiasso,unknown,unknown
+Lugano District,ich_tanke_strom,Str. di Soragno 24  6964 Lugano,unknown,unknown
+Lugano District,ich_tanke_strom,Via Alle Pezze 10  6954 Sala Capriasca,unknown,unknown
+Locarno District,ich_tanke_strom,Via S. Sebastiano 19  6612 Ascona,unknown,unknown
+Mendrisio District,ich_tanke_strom,Via Odescalchi 5  6830 Chiasso,unknown,unknown
+Leventina District,ich_tanke_strom,Via Sottomontagna 13  6764 Chiggiogna,unknown,unknown
+Locarno District,ich_tanke_strom,Via San Gottardo 139  6648 Minusio,unknown,unknown
+Lugano District,ich_tanke_strom,Via Giuseppe Motta 65A  6900 Massagno,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via del Carmagnola 11  6500 Bellinzona,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via S. Gottardo 109  6500 Bellinzona,unknown,unknown
+Locarno District,ich_tanke_strom,Via Mappo 10  6598 Tenero,unknown,unknown
+Lugano District,ich_tanke_strom,Via S. Gottardo 131  6942 Savosa,unknown,unknown
+Bellinzona District,ich_tanke_strom,Via Linoleum 10  6512 Giubiasco,unknown,unknown
+Locarno District,ich_tanke_strom,Viale Al Lido 6  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via Alla Peschiera 3  6600 Locarno,unknown,unknown
+Riviera District,ich_tanke_strom,Via Aeroporto 14  6527 Riviera,unknown,unknown
+Locarno District,ich_tanke_strom,Viale Al Lido  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via Francesco Antonio Bustelli 7  6600 Locarno,unknown,unknown
+Lugano District,ich_tanke_strom,Via Pian Scairolo 39  6926 Lugano,unknown,unknown
+Blenio District,ich_tanke_strom,Via Crespogno 6715 Dongio  - Svizzera,unknown,unknown
+Locarno District,ich_tanke_strom,Via Valle Maggia 80  6600 Locarno,unknown,unknown
+Locarno District,ich_tanke_strom,Via Gioacchino Respini 23  6600 Locarno,unknown,unknown
+Bellinzona District,ionity,,unknown,Bellinzona Nord
+Mendrisio,mercedes_benz,,unknown,"Mercedes-Benz Automobili SA, Succursale Mendrisio"
+Pazzallo,mercedes_benz,,unknown,"Mercedes-Benz Automobili SA, Succursale Lugano-Pazzallo"
+Giubiasco,mercedes_benz,,unknown,Winteler SA
+Riazzino,mercedes_benz,,unknown,Winteler SA
+Vezia,mercedes_benz,,unknown,"Mercedes-Benz Automobili SA, Succursale Vezia"
+BELLINZONA,shell,,unknown,SHELL AUTOSTRADA NORD.
+MONTE CARASSO,shell,,unknown,SHELL AUTOSTRADA SÜD
+SANT ANTONINO,shell,,unknown,SHELL AI PADIGLIONI.
+BIRONICO,shell,,unknown,SHELL VEDEGGIO
+MINUSIO,shell,,unknown,SHELL VERBANO
+PAZZALLO,shell,,unknown,SHELL LUGANO SÜD
+ASCONA,shell,,unknown,MOVERI ASCONA

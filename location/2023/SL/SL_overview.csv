@@ -1,0 +1,102 @@
+State,Place Name,City,Establishments
+UNKNOWN,ford,Freetown,3
+UNKNOWN,moneygram,FREETOWN,700
+UNKNOWN,moneygram,BO,41
+UNKNOWN,moneygram,MAKENI,32
+UNKNOWN,moneygram,KENEMA,25
+UNKNOWN,moneygram,KABALA,9
+UNKNOWN,moneygram,KONO,15
+UNKNOWN,moneygram,KAMBIA,7
+UNKNOWN,moneygram,KAILAHUN,5
+UNKNOWN,moneygram,BONTHE,3
+UNKNOWN,moneygram,WATERLOO,12
+UNKNOWN,moneygram,TONKOLILI,2
+UNKNOWN,moneygram,MOYAMBA,7
+UNKNOWN,moneygram,PORT LOKO,8
+UNKNOWN,moneygram,BOMBALI,1
+UNKNOWN,moneygram,MAGBURAKA,4
+UNKNOWN,moneygram,LUNGI,11
+UNKNOWN,moneygram,FUNKIA,1
+UNKNOWN,moneygram,DARU,2
+UNKNOWN,moneygram,LUNSAR,5
+UNKNOWN,moneygram,NJALA,3
+UNKNOWN,moneygram,MAGBURKA,1
+UNKNOWN,moneygram,PORTLOKO,1
+UNKNOWN,moneygram,FRETOWN,2
+UNKNOWN,moneygram,PUJEHUN,4
+UNKNOWN,moneygram,KOIDU TOWN,1
+UNKNOWN,moneygram,PENINSULA,1
+UNKNOWN,moneygram,FALABA,1
+UNKNOWN,moneygram,ZIMMI,2
+UNKNOWN,moneygram,MATTRU,1
+UNKNOWN,moneygram,CONGO WATA,1
+UNKNOWN,moneygram,PORTEE,1
+UNKNOWN,moneygram,CALABA TOWN,1
+UNKNOWN,moneygram,KARENE,1
+UNKNOWN,moneygram,STREET,1
+UNKNOWN,moneygram,BLAMA,1
+UNKNOWN,moneygram,SEGBWEMA,1
+UNKNOWN,moneygram,BRIMA LANE,1
+UNKNOWN,moneygram,MILE 91,1
+UNKNOWN,moneygram,TONGOR,1
+UNKNOWN,moneygram,TOWN,1
+UNKNOWN,moneygram,HASTINGS,1
+UNKNOWN,moneygram,LAKKA,1
+UNKNOWN,moneygram,TORWAMA,1
+UNKNOWN,moneygram,WILBERFORCE,1
+UNKNOWN,moneygram,MASIAKA,1
+UNKNOWN,moneygram,DAMBA,1
+UNKNOWN,moneygram,MAKENI CITY,1
+UNKNOWN,moneygram,KOIDU,3
+UNKNOWN,moneygram,BUMBUNA,1
+UNKNOWN,moneygram,SEWAFE CHIEFDOM,1
+UNKNOWN,moneygram,MATTRU JONG,1
+UNKNOWN,moneygram,BAAMA,1
+UNKNOWN,moneygram,KAMABAI,1
+UNKNOWN,moneygram,KAMAKWIE,1
+UNKNOWN,moneygram,TONGO,1
+UNKNOWN,totalenergies,FREETOWN,1
+UNKNOWN,visa,FREETOWN,3
+WESTERNAREA,western_union,Freetown,436
+NORTHERNPROVINCE,western_union,Makeni,31
+EAST,western_union,Freetown,1
+WEST,western_union,Freetown,2
+EASTERNPROVINCE,western_union,Kono,12
+NORTHWESTPROVINCE,western_union,Lungi,3
+NORTHERNPROVINCE,western_union,Lungi,4
+WESTERNAREA,western_union,Freetwon,1
+SOUTHERNPROVINCE,western_union,Moyamba,5
+SOUTHERNPROVINCE,western_union,Waterloo,2
+WESTERNAREA,western_union,Waterloo,4
+WESTERNAREA,western_union,Imat Freetown,1
+EASTERNAREA,western_union,Freetown,1
+NORTHWESTPROVINCE,western_union,Freetown,3
+UNKNOWN,western_union,Freetown,2
+WESTERNAREA,western_union,Western Rural,3
+NORTHERNPROVINCE,western_union,Mile 91,1
+EASTERNPROVINCE,western_union,Kenema,40
+EASTERNPROVINCE,western_union,Bo,2
+EASTERNPROVINCE,western_union,Freetown,1
+WESTERNAREA,western_union,Hastings,1
+WESTERNAREARURAL,western_union,Freetown,1
+SOUTHERNPROVINCE,western_union,Bo,59
+SOUTHERNPROVINCE,western_union,Bo Town,3
+SOUTHERNPROVINCE,western_union,Freetown,2
+SOUTHERNPROVINCE,western_union,Njala,2
+SOUTHERNAREA,western_union,Bo Town,1
+SOUTHERNPROVINCE,western_union,Pujehun,2
+EASTERNPROVINCE,western_union,Koindu,2
+NORTHERNPROVINCE,western_union,Kambia,1
+NORTHERNPROVINCE,western_union,Lunsar,2
+NORTHWESTPROVINCE,western_union,Makeni,6
+NORTHWESTPROVINCE,western_union,Port Loko,1
+EASTERNPROVINCE,western_union,Kailahun,1
+EASTERNPROVINCE,western_union,Koidu,2
+NORTHERNPROVINCE,western_union,Kono,2
+NORTHERNPROVINCE,western_union,Freetown,2
+NORTHERNPROVINCE,western_union,Magburaka,1
+NORTHERNPROVINCES,western_union,Makeni,1
+KONO,western_union,Koidu City,1
+NORTHERNPROVINCE,western_union,Kabala,7
+EASTERN,western_union,Freetown,2
+WESTERN,western_union,Freetown,4

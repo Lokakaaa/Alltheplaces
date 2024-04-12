@@ -1,0 +1,36 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+RAS-8,aldi_sud_de,,"Im Bödel 1, 76744, Wörth am Rhein, Deutschland",Wörth am Rhein,,,DE,,,Mo-Sa 08:00-20:00,ALDI Süd,Q41171672
+DE0589,c_and_a,Wörth am Rhein Maximillian-Center,"Maximilianstrasse 1, 76744 Wörth am Rhein",Wörth am Rhein,,,DE,,https://www.c-and-a.com/stores/de-de/rheinland-pfalz/woerth-am-rhein/maximilianstrasse-1.html,Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00,C&A,Q701338
+559,deutsche_telekom_de,Telekom Shop Wörth,,Wörth,,,DE,+49 7271 940318,https://shopseite.telekom.de/sued-west/woerth/maximilianstr-1,Mo-Sa 10:00-18:00,Deutsche Telekom,Q9396
+de:1538,dm,dm-drogerie markt,,Wörth am Rhein,,,DE,+49 7271 4080816,https://www.dm.de/store/d2g2/woerth-am-rhein/kuehgrunddamm-4,Mo-Sa 08:00-20:00,dm,Q266572
+49.03906118.28904,dpd_de,Teppichboden Center,,Wörth,,,DE,,,,DPD,Q541030
+49.059878.266162,dpd_de,Os Reifengarage,,Wörth,,,DE,,,,DPD,Q541030
+100150523,exxonmobil,Esso Station Woerth,,WOERTH,,,DE,+49 7271 126093,https://www.esso.de/de-de/find-station/esso-woerth-essostationwoerth-100150523,24/7,Esso,Q867662
+2760904620,gls_de,Ritter Landesprodukte GmbH,,Wörth,,,DE,+49 7271 79466,,"Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00",General Logistics Systems,Q46495823
+2760914067,gls_de,O´s Reifengarage,,Wörth,,,DE,+49 7271 1320552,,"Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-13:00",General Logistics Systems,Q46495823
+1876,jysk,Wörth am Rhein-Maximilian,,Wörth am Rhein-Maximilian,,,DE,+49 7271 7670180,https://jysk.de/filialen?storeId=1876,Mo-Sa 10:00-18:00,JYSK,Q138913
+5921,kik,KiK,,Wörth am Rhein,,,DE,+49 7271 4080126,,Mo-Fr 09:00-19:00; Sa 09:00-18:00,KiK,Q883965
+2590,kik,KiK,,Wörth,,,DE,+49 7271 127876,,Mo-Fr 09:00-19:00; Sa 09:00-17:00,KiK,Q883965
+6596,lidl_de,,,Wörth,,,DE,,,Mo-Sa 07:00-21:00,Lidl,Q151954
+5670,lidl_de,,,Wörth,,,DE,,,Mo-Sa 07:00-21:00,Lidl,Q151954
+2120,mueller,Müller,,Wörth am Rhein,,,DE,+49 7271 7672660,https://www.mueller.de/meine-filiale/woerth-am-rhein/maximilianstr-1/,,Müller,Q1958759
+48496,seat_de,Autohaus Andreas Ball,,Wörth,,,DE,+49 7271 7042,https://ball.seat.de,,SEAT,Q188217
+28279,sparkasse_de,Sparkasse Südpfalz Geldautomat Maximiliansau,,Wörth,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-suedpfalz-geldautomat-maximiliansau-28279,Mo-Su 06:00-23:00,Sparkasse,Q13601825
+9429,sparkasse_de,Sparkasse Südpfalz Geschäftsstelle Maximiliansau,,Wörth,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/filialen/sparkasse-suedpfalz-geschaeftsstelle-maximiliansau-9429,"Mo 09:00-12:00; Tu 09:00-12:00,14:30-16:30; Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00",Sparkasse,Q13601825
+28282,sparkasse_de,Sparkasse Südpfalz Geldautomat Schaidt,,Wörth,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-suedpfalz-geldautomat-schaidt-28282,Mo-Su 06:00-23:00,Sparkasse,Q13601825
+9430,sparkasse_de,Sparkasse Südpfalz Geschäftsstelle Schaidt,,Wörth,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/filialen/sparkasse-suedpfalz-geschaeftsstelle-schaidt-9430,"Mo 09:00-12:00; Th 09:00-12:00,14:00-18:00",Sparkasse,Q13601825
+28278,sparkasse_de,Sparkasse Südpfalz Geldautomat Wörth-Dorschberg,,Wörth,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-suedpfalz-geldautomat-woerth-dorschberg-28278,Mo-Su 06:00-23:00,Sparkasse,Q13601825
+9432,sparkasse_de,Sparkasse Südpfalz Beratungs-Center Wörth,,Wörth,,,DE,+49 6341 180,https://www.sparkasse.de/standorte/filialen/sparkasse-suedpfalz-beratungs-center-woerth-9432,"Mo-Tu 09:00-12:00,14:30-16:30; We 09:00-12:00; Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:30-16:30",Sparkasse,Q13601825
+ND001842,totalenergies,WOERTH PFORTZER STR. 1,,WOERTH,,,DE,+49 7271 41041,https://store.totalenergies.fr/en_EN/ND001842,Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00,TotalEnergies,Q154037
+ND001909,totalenergies,WOERTH BAHNHOFSTR. 45,,WOERTH,,,DE,+49 7271 7006,https://store.totalenergies.fr/en_EN/ND001909,Mo-Fr 05:00-22:00; Sa 06:00-21:00; Su 07:00-21:00,TotalEnergies,Q154037
+,visa,,,BUECHELBERG,,,DE,,,,,
+,visa,,,WOERTH-SCHAIDT,,,DE,,,,,
+,visa,,,WOERTH-MAXIMILIANSAU,,,DE,,,,,
+,visa,,,WOERTH,,,DE,,,,,
+,visa,,,WOERTH,,,DE,,,,,
+,visa,,,WOERTH,,,DE,,,,,
+,visa,,,WOERTH,,,DE,,,,,
+,visa,,,WOERTH,,,DE,,,,,
+https://www.vr.de/standorte/W/Wn-Wz/vr-bank-suedpfalz-eg-vr-sisy-filiale-woerth-maximiliansau-9735.html,vr_bank,VR Bank Südpfalz eG VR-SISy-Filiale Wörth-Maximiliansau,,Wörth,,,DE,+49 6341 55600,https://www.vrbank-suedpfalz.de,Mo-Fr 08:00-18:00,,
+https://www.vr.de/standorte/W/Wn-Wz/vr-bank-suedpfalz-eg-vr-sisy-filiale-woerth-schaidt-9929.html,vr_bank,VR Bank Südpfalz eG VR-SISy-Filiale Wörth-Schaidt,,Wörth,,,DE,+49 6341 55600,https://www.vrbank-suedpfalz.de,Mo-Fr 08:00-18:00,,
+https://www.vr.de/standorte/W/Wn-Wz/vr-bank-suedpfalz-eg-filiale-woerth-9734.html,vr_bank,VR Bank Südpfalz eG Filiale Wörth,,Wörth,,,DE,+49 6341 55600,https://www.vrbank-suedpfalz.de,Mo-Fr 08:00-18:00,,

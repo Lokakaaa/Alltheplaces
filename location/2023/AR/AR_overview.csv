@@ -1,0 +1,2961 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,14
+UNKNOWN,adidas,Buenos Aires,2
+UNKNOWN,adidas,La Plata,1
+C,adidas,Floresta,1
+B,adidas,Buenos Aires,1
+UNKNOWN,alamo,San Miguel De Tucuamn,1
+UNKNOWN,alamo,Bahia Blanca,1
+UNKNOWN,alamo,San Luis,2
+UNKNOWN,alamo,Posadas Misiones,1
+UNKNOWN,alamo,Posadas,1
+UNKNOWN,alamo,El Calafate,2
+UNKNOWN,alamo,Neuquen,1
+UNKNOWN,alamo,Mendoza,2
+UNKNOWN,alamo,Bariloche,2
+UNKNOWN,alamo,Buenos Aires,3
+UNKNOWN,alamo,Cordoba,1
+UNKNOWN,alamo,Rosario,2
+UNKNOWN,alamo,Comodoro Rivadavia,2
+UNKNOWN,alamo,Rio Gallegos,2
+UNKNOWN,alamo,Salta,2
+UNKNOWN,alamo,Ushuaia,2
+UNKNOWN,alamo,Tucuman,1
+UNKNOWN,alstom,unknown,3
+BUENOSAIRES,audi,Vicente Lopez - Buenos Aires,2
+BUENOSAIRESFD,audi,Ciudad Autónoma de Buenos Aires,8
+BUENOSAIRES,audi,Quilmes- Buenos Aires,1
+BUENOSAIRES,audi,Pilar - Buenos Aires,1
+SANTAFE,audi,Rosario - Santa Fe,2
+CORDOBA,audi,Cordoba - Cordoba,2
+MENDOZA,audi,Mendoza - Mendoza,2
+BUENOSAIRES,audi,Acassuso - Buenos Aires,2
+TIERRADELFUEGO,audi,Ushuaia - Tierra Del Fuego,1
+TIERRADELFUEGO,audi,Usuahia - Tierra Del Fuego,1
+BUENOSAIRES,audi,Bahia Blanca - Buenos Aires,2
+BUENOSAIRESFD,audi,Ciudad Autonoma de Buenos Aires,1
+TUCUMAN,audi,San Miguel De Tucuman - Tucuman,1
+CHACO,audi,Resistencia Chaco,1
+BUENOSAIRES,audi,"Mar del Plata, Buenos Aires",1
+BUENOSAIRES,audi,"La Plata, Buenos Aires",1
+BUENOSAIRES,audi,"Moreno, Buenos Aires",1
+BUENOSAIRES,audi,La Plata - Buenos Aires,1
+BUENOSAIRES,audi,Quilmes - Buenos Aires,1
+TIERRADELFUEGO,audi,Main City,4
+GOBEDGARDOCASTELLOAIRPORT,avis,Viedma,1
+USHUAIA,avis,Ushuaia,2
+TUCUMAN,avis,Tucuman,1
+AEROPUERTOLOCAL,avis,Trelew,1
+BUENOSAIRES,avis,Buenos Aires,3
+SANTIAGODELESTERO,avis,Santiago del Estero,1
+SANTAFE,avis,Santa Fe,2
+SANMARTINDEANDES,avis,San Martin De Andes,1
+MENDOZA,avis,Mendoza,2
+SANLUIS,avis,San Luis,1
+SANJUAN,avis,San Juan,2
+SALTA,avis,Salta,1
+ROSARIO,avis,Rosario,2
+PERGAMINO,avis,Pergamino,1
+RIOGRANDE,avis,Rio Grande,2
+RIOGALLEGOS,avis,Rio Gallegos,1
+AEROPUERTOLOCAL,avis,Corrientes,1
+AEROPUERTOLOCAL,avis,Resistencia,1
+ROJAS,avis,Rojas,1
+OFFICE16,avis,San Luis,1
+LOCALSS06,avis,Tortuguitas,1
+AEROPUERTOLOCAL,avis,Puerto Madryn,1
+POSADAS,avis,Posadas,1
+PARANA,avis,Parana,1
+NEUQUEN,avis,Neuquen,1
+AEROPUERTOINTERNACIONAL,avis,Mar Del Plata,1
+MARDELPLATA,avis,Mar Del Plata,1
+DRHORACIOGUZMANINTLAPO,avis,Jujuy,1
+IGUAZULOCALAIRPORT,avis,Iguazu,1
+JUJUY,avis,Jujuy,1
+RUTA11SN,avis,El Calafate,1
+CORDOBA,avis,Cordoba,1
+COMODORORIVADAVIA,avis,Comodoro Rivadavia,1
+LOCAL2,avis,Cordoba,1
+RIONEGROPROVINCE,avis,Bariloche,1
+BAHIABLANCA,avis,Bahia Blanca,2
+BUENOSAIRESARGENTINA,bmw_group,Acasusso,1
+CAPITALFEDERALARGENTINA,bmw_group,Capital Federal,3
+CAPITALFEDERAL,bmw_group,Puerto Madero,1
+BUENOSAIRESARGENTINA,bmw_group,Del Viso,1
+CAPITALFEDERAL,bmw_group,Belgrano,2
+BUENOSAIRES,bmw_group,Vicente López,1
+ARGENTINA,bmw_group,Ciudad de Buenos Aires,1
+CÓRDOBAARGENTINA,bmw_group,Córdoba,1
+CÓRDOBA,bmw_group,Cordoba,1
+CAPITALFEDERALARGENTINA,bmw_group,Núñez,1
+TUCUMÁN,bmw_group,Yerba Buena,2
+ARGENTINA,bmw_group,Olivos,1
+ARGENTINA,bmw_group,Vicente López,1
+TUCUMÁNARGENTINA,bmw_group,Yerba Buena,1
+MENDOZAARGENTINA,bmw_group,Mendoza,1
+BUENOSAIRESARGENTINA,bmw_group,City Bell - La Plata,1
+NEUQUÉNARGENTINA,bmw_group,Neuquén,1
+SALTAARGENTINA,bmw_group,Tres Cerritos,1
+BUENOSAIRESARGENTINA,bmw_group,Bahía Blanca,1
+BUENOSAIRES,bmw_group,Olivos,1
+SANTAFE,bmw_group,Rosario,1
+SANTAFEARGENTINA,bmw_group,Rosario,1
+BUENOSAIRESARGENTINA,bmw_group,Buenos Aires,1
+BUENOSAIRES,bmw_group,del viso,1
+BUENOSAIRES,bmw_group,Bahía Blanca,1
+BUENOSAIRES,bmw_group,Rincón de Milberg,1
+BUENOSAIRES,carrefour_ar,San Isidro,4
+BUENOSAIRES,carrefour_ar,Hurlingham,3
+BUENOSAIRES,carrefour_ar,Avellaneda,1
+BUENOSAIRES,carrefour_ar,La Plata,4
+BUENOSAIRES,carrefour_ar,Malvinas Argentinas,1
+CORRIENTES,carrefour_ar,Corrientes,2
+SALTA,carrefour_ar,Salta,3
+BUENOSAIRES,carrefour_ar,Bahía Blanca,1
+CIUDADAUTÓNOMADEBUENOSAIRES,carrefour_ar,Ciudad Autónoma de Buenos Aires,332
+CÓRDOBA,carrefour_ar,Río Cuarto,1
+BUENOSAIRES,carrefour_ar,San Justo,1
+JUJUY,carrefour_ar,Jujuy,3
+SANJUAN,carrefour_ar,San Juan,1
+ENTRERÍOS,carrefour_ar,Paraná,9
+CHUBUT,carrefour_ar,Comodoro Rivadavia,2
+BUENOSAIRES,carrefour_ar,Mar del Plata,3
+CATAMARCA,carrefour_ar,San Fernando del Valle de Catamarca,2
+BUENOSAIRES,carrefour_ar,Tandil,3
+LARIOJA,carrefour_ar,La Rioja,1
+RÍONEGRO,carrefour_ar,General Roca,1
+SANLUIS,carrefour_ar,San Luis,1
+ENTRERÍOS,carrefour_ar,Concordia,2
+BUENOSAIRES,carrefour_ar,Olavarría,2
+FORMOSA,carrefour_ar,Formosa,2
+TIERRADELFUEGO,carrefour_ar,Río Grande,2
+SANTACRUZ,carrefour_ar,Río Gallegos,2
+CHUBUT,carrefour_ar,Trelew,3
+LAPAMPA,carrefour_ar,Santa Rosa,2
+RÍONEGRO,carrefour_ar,Bariloche,1
+BUENOSAIRES,carrefour_ar,San Martín,3
+BUENOSAIRES,carrefour_ar,San Nicolás de Los Arroyos,1
+NEUQUÉN,carrefour_ar,Neuquén,2
+BUENOSAIRES,carrefour_ar,Monte Grande,1
+TIERRADELFUEGO,carrefour_ar,Ushuaia,1
+CHUBUT,carrefour_ar,Puerto Madryn,2
+MENDOZA,carrefour_ar,Guaymallen,1
+TUCUMÁN,carrefour_ar,San Miguel de Tucumán,3
+SANTAFE,carrefour_ar,Rosario,5
+BUENOSAIRES,carrefour_ar,Maschwitz,1
+BUENOSAIRES,carrefour_ar,Vicente López,2
+PROVINCIADEBUENOSAIRES,carrefour_ar,Provincia de Buenos Aires,7
+BUENOSAIRES,carrefour_ar,Carapachay,1
+BUENOSAIRES,carrefour_ar,Chilavert,1
+BUENOSAIRES,carrefour_ar,Olivos,2
+BUENOSAIRES,carrefour_ar,Ciudad Jardín del Palomar,1
+BUENOSAIRES,carrefour_ar,Campana,2
+BUENOSAIRES,carrefour_ar,Martínez,3
+BUENOSAIRES,carrefour_ar,Moreno,2
+BUENOSAIRES,carrefour_ar,Zárate,1
+BUENOSAIRES,carrefour_ar,Villa Ballester,3
+BUENOSAIRES,carrefour_ar,San Miguel,3
+BUENOSAIRES,carrefour_ar,Tigre,3
+BUENOSAIRES,carrefour_ar,Bernal,1
+BUENOSAIRES,carrefour_ar,Pergamino,2
+BUENOSAIRES,carrefour_ar,Adrogué,2
+BUENOSAIRES,carrefour_ar,Lomas de Zamora,5
+BUENOSAIRES,carrefour_ar,Don Torcuato,1
+SANLUIS,carrefour_ar,Villa Mercedes,1
+BUENOSAIRES,carrefour_ar,General Pacheco,1
+CÓRDOBA,carrefour_ar,Jardin Espinoza,1
+ENTRERÍOS,carrefour_ar,Gualeguaychu,1
+BUENOSAIRES,carrefour_ar,Luján,2
+BUENOSAIRES,carrefour_ar,San Fernando,2
+BUENOSAIRES,carrefour_ar,Acassuso,1
+BUENOSAIRES,carrefour_ar,San Nicolás,1
+SANTAFE,carrefour_ar,Venado Tuerto,1
+ENTRERIOS,carrefour_ar,Entre Rios,1
+BUENOSAIRES,carrefour_ar,José León Suárez,1
+BUENOSAIRES,carrefour_ar,Pilar,3
+MENDOZA,carrefour_ar,Mendoza,16
+MENDOZA,carrefour_ar,Tupungato,1
+MENDOZA,carrefour_ar,Luján de Cuyo,1
+MENDOZA,carrefour_ar,Godoy Cruz,1
+BUENOSAIRES,carrefour_ar,Ituzaingó,2
+CÓRDOBA,carrefour_ar,Alto Verde,1
+BUENOSAIRES,carrefour_ar,General Rodríguez,2
+BUENOSAIRES,carrefour_ar,Merlo,4
+BUENOSAIRES,carrefour_ar,Jose León Suárez,1
+BUENOSAIRES,carrefour_ar,Haedo,2
+BUENOSAIRES,carrefour_ar,Adolfo Sordeaux,1
+BUENOSAIRES,carrefour_ar,Victoria,1
+BUENOSAIRES,carrefour_ar,Del Viso,1
+BUENOSAIRES,carrefour_ar,Maquinista Savio,1
+BUENOSAIRES,carrefour_ar,Villa Adelina,1
+BUENOSAIRES,carrefour_ar,Beccar,1
+BUENOSAIRES,carrefour_ar,Los Polvorines,1
+BUENOSAIRES,carrefour_ar,Castelar,1
+CHACO,carrefour_ar,Resistencia,1
+BUENOSAIRES,carrefour_ar,Munro,1
+BUENOSAIRES,carrefour_ar,Morón,1
+BUENOSAIRES,carrefour_ar,Don Bosco,1
+BUENOSAIRES,carrefour_ar,Florencio Varela,3
+BUENOSAIRES,carrefour_ar,Monte Chingolo,1
+BUENOSAIRES,carrefour_ar,Lanús,4
+BUENOSAIRES,carrefour_ar,Burzaco,1
+BUENOSAIRES,carrefour_ar,Longchamps,1
+BUENOSAIRES,carrefour_ar,Almirante Brown,1
+BUENOSAIRES,carrefour_ar,Ezpeleta,1
+BUENOSAIRES,carrefour_ar,Banfield,1
+BUENOSAIRES,carrefour_ar,Quilmes,3
+BUENOSAIRES,carrefour_ar,Gerli,1
+BUENOSAIRES,carrefour_ar,Remedios de Escalada,1
+BUENOSAIRES,carrefour_ar,Glew,2
+BUENOSAIRES,carrefour_ar,Budge,1
+BUENOSAIRES,carrefour_ar,Valentín Alsina,1
+BUENOSAIRES,carrefour_ar,Wilde,1
+BUENOSAIRES,carrefour_ar,Isidro Casanova,1
+BUENOSAIRES,carrefour_ar,Martín Coronado,1
+BUENOSAIRES,carrefour_ar,Villa Bosh,1
+BUENOSAIRES,carrefour_ar,Gregorio de Laferrere,2
+BUENOSAIRES,carrefour_ar,Ramos Mejía,2
+BUENOSAIRES,carrefour_ar,Villa Celina,1
+BUENOSAIRES,carrefour_ar,La Matanza,5
+BUENOSAIRES,carrefour_ar,Palomar,1
+BUENOSAIRES,carrefour_ar,Tapiales,1
+BUENOSAIRES,carrefour_ar,San Antonio de Padua,2
+BUENOSAIRES,carrefour_ar,Paso del Rey,1
+BUENOSAIRES,carrefour_ar,Grand Bourg,1
+BUENOSAIRES,carrefour_ar,Berazategui,1
+BUENOSAIRES,carrefour_ar,Ezeiza,1
+CÓRDOBA,carrefour_ar,Quintas de Arguello,1
+SANVICENTE,carrefour_ar,San Vicente,1
+CORDOBA,carrefour_ar,Cordoba,8
+PROVINCIADEBUENOSAIRES,carrefour_ar,Pilar,1
+CHACO,carrefour_ar,Chaco,1
+BUENOSAIRES,carrefour_ar,3 de Febrero,1
+CÓRDOBA,carrefour_ar,Villa Allende Lomas,1
+BUENOSAIRES,carrefour_ar,Balcarce,1
+TUCUMÁN,carrefour_ar,Yerba Buena,1
+CÓRDOBA,carrefour_ar,Córdoba,29
+SANTACRUZ,carrefour_ar,Santa Cruz,1
+BUENOSAIRES,carrefour_ar,Caseros,1
+BUENOSAIRES,carrefour_ar,Derqui,1
+CATAMARCA,carrefour_ar,Catamarca,1
+PROVINCIADEBUENOSAIRES,carrefour_ar,Tortuguitas,1
+PROVINCIADEBUENOSAIRES,carrefour_ar,Loma Hermosa,1
+BUENOSAIRES,carrefour_ar,Escobar,1
+BUENOSAIRES,carrefour_ar,Temperley,1
+PROVINCIADEBUENOSAIRES,carrefour_ar,Temperley,1
+BUENOSAIRES,carrefour_ar,Provincia de Buenos Aires,1
+CIUDADDEBUENOSAIRES,carrefour_ar,Ciudad de Buenos Aires,8
+MENDOZA,carrefour_ar,Maipú,1
+PROVINCIADEBUENOSAIRES,carrefour_ar,Moreno,1
+CÓRDOBA,carrefour_ar,Villa Urquiza,1
+UNKNOWN,coto_ar,unknown,122
+UNKNOWN,enterprise,Buenos Aires,3
+UNKNOWN,enterprise,Rosario,2
+UNKNOWN,enterprise,Rio Gallegos,2
+UNKNOWN,enterprise,El Calafate,1
+UNKNOWN,enterprise,El Calfate,1
+UNKNOWN,enterprise,Neuquen,1
+UNKNOWN,enterprise,San Luis,2
+UNKNOWN,enterprise,San Carlos De Bariloche,1
+UNKNOWN,enterprise,Salta,2
+UNKNOWN,enterprise,Tucuman,2
+UNKNOWN,enterprise,Ushuaia,2
+UNKNOWN,enterprise,Bariloche,1
+UNKNOWN,enterprise,Mendoza,2
+UNKNOWN,enterprise,Cordoba,1
+UNKNOWN,ernst_young,Buenos Aires,5
+UNKNOWN,ernst_young,Córdoba,1
+SANTAFE,fedex,Rosario,1
+BUENOSAIRES,fedex,Martinez,1
+BUENOSAIRES,fedex,Mar Del Plata,1
+CORDOBA,fedex,Cordoba,1
+BUENOSAIRESFD,fedex,Buenos Aires,3
+UNKNOWN,ford,Rafaela,2
+UNKNOWN,ford,Lobos,1
+UNKNOWN,ford,Cordoba,7
+UNKNOWN,ford,Neuquen,1
+UNKNOWN,ford,Corrientes,1
+UNKNOWN,ford,Tigre,1
+UNKNOWN,ford,Bahia Blanca,3
+UNKNOWN,ford,Resistencia,1
+UNKNOWN,ford,Capital Federal,15
+UNKNOWN,ford,Ciudad De San Luis,1
+UNKNOWN,ford,Pergamino,1
+UNKNOWN,ford,Moreno,2
+UNKNOWN,ford,San Jose - Guaymallen,2
+UNKNOWN,ford,Trelew,1
+UNKNOWN,ford,Lomas De Zamora,1
+UNKNOWN,ford,Victoria,1
+UNKNOWN,ford,La Rioja,1
+UNKNOWN,ford,Cipolletti,1
+UNKNOWN,ford,Salta,2
+UNKNOWN,ford,Rio Grande,1
+UNKNOWN,ford,Santa Fe,2
+UNKNOWN,ford,San Jose De La Esquina,1
+UNKNOWN,ford,Ramos Mejia,2
+UNKNOWN,ford,Campana,1
+UNKNOWN,ford,San Rafael,1
+UNKNOWN,ford,Sarandi,2
+UNKNOWN,ford,Coronel Suarez,1
+UNKNOWN,ford,Dolores,1
+UNKNOWN,ford,La Plata,1
+UNKNOWN,ford,Rio Gallegos,1
+UNKNOWN,ford,Santiago Del Estero,1
+UNKNOWN,ford,Trenque Lauquen,1
+UNKNOWN,ford,San Carlos De Bariloche,1
+UNKNOWN,ford,Devoto,2
+UNKNOWN,ford,Eldorado,1
+UNKNOWN,ford,Olavarria,2
+UNKNOWN,ford,Vicente Lopez,1
+UNKNOWN,ford,Coronel Brandsen,1
+UNKNOWN,ford,Tandil,1
+UNKNOWN,ford,Las Varillas,1
+UNKNOWN,ford,San Francisco,2
+UNKNOWN,ford,Pico Truncado,1
+UNKNOWN,ford,San Nicolas,1
+UNKNOWN,ford,Morteros,1
+UNKNOWN,ford,Chivilcoy,1
+UNKNOWN,ford,General Roca,1
+UNKNOWN,ford,Santa Rosa,1
+UNKNOWN,ford,Cremonte,1
+UNKNOWN,ford,Villa Mercedes,2
+UNKNOWN,ford,Los Polvorines,1
+UNKNOWN,ford,9 De Julio,1
+UNKNOWN,ford,Esquel,2
+UNKNOWN,ford,Puerto Madryn,1
+UNKNOWN,ford,Concordia,1
+UNKNOWN,ford,San Salvador De Jujuy,1
+UNKNOWN,ford,Ushuaia,1
+UNKNOWN,ford,Parana,1
+UNKNOWN,ford,Marcos Juarez,1
+UNKNOWN,ford,Venado Tuerto,1
+UNKNOWN,ford,Quilmes,1
+UNKNOWN,ford,Coronel Pringles,1
+UNKNOWN,ford,Pinamar,1
+UNKNOWN,ford,Mar De Ajo,1
+UNKNOWN,ford,San Juan,2
+UNKNOWN,ford,Jesus Maria,1
+UNKNOWN,ford,Martinez,2
+UNKNOWN,ford,Puerto Iguazu,1
+UNKNOWN,ford,Jose Ingenieros,1
+UNKNOWN,ford,Florencio Varela,1
+UNKNOWN,ford,Escobar,1
+UNKNOWN,ford,Zarate,1
+UNKNOWN,ford,Obera,1
+UNKNOWN,ford,San Fernando Del Valle De Catamarca,1
+UNKNOWN,ford,Don Torcuato,1
+UNKNOWN,ford,Canning - Ezeiza,1
+UNKNOWN,ford,San Miguel De Tucuman,1
+UNKNOWN,ford,Ciudad De Formosa,1
+UNKNOWN,ford,Rio Cuarto,1
+UNKNOWN,ford,Rio Tercero,1
+UNKNOWN,ford,Ciudad De Córdoba,1
+UNKNOWN,ford,Ituzaingo,1
+UNKNOWN,ford,Tres Arroyos,1
+UNKNOWN,ford,Godoy Cruz,1
+UNKNOWN,ford,Recoleta,1
+UNKNOWN,ford,Villa Maria,1
+UNKNOWN,ford,Gualeguaychu,1
+UNKNOWN,ford,La Lonja,1
+UNKNOWN,ford,Villa Martelli,1
+UNKNOWN,ford,Mar Del Plata,1
+UNKNOWN,ford,Junin,1
+UNKNOWN,ford,Comodoro Rivadavia,1
+UNKNOWN,ford,Hernando,1
+UNKNOWN,ford,Yerba Buena,1
+UNKNOWN,ford,Rosario,1
+UNKNOWN,ford,Azul,1
+UNKNOWN,ford,Necochea,1
+UNKNOWN,ford,General Pacheco,1
+UNKNOWN,ford,Alta Gracia,1
+UNKNOWN,ford,Presidencia Roque Saenz Peña,1
+UNKNOWN,ford,Munro,1
+UNKNOWN,ford,Barrio Cochangasta,1
+UNKNOWN,ford,Posadas,1
+UNKNOWN,ford,San Ramon De La Nueva Oran,1
+UNKNOWN,ford,Monte Caseros,1
+UNKNOWN,ford,Barrio Alto Alberdi,1
+UNKNOWN,ford,Balcarce,1
+UNKNOWN,gbfs,unknown,464
+BUENOSAIRESFD,google_offices,unknown,1
+UNKNOWN,hardrock,Buenos Aires,3
+UNKNOWN,hardrock,Iguazu,1
+UNKNOWN,hardrock,Ushuaia,1
+UNKNOWN,hilton,unknown,1
+01,hugo_boss,Buenos Aires,4
+CORDOBA,ich_tanke_strom,unknown,1
+ARGENTINA,jll,Buenos Aires,1
+CAPITALFEDERAL,jumbo_ar,unknown,10
+CHUBUT,jumbo_ar,unknown,1
+SANTAFE,jumbo_ar,unknown,1
+BUENOSAIRES,jumbo_ar,unknown,13
+MENDOZA,jumbo_ar,unknown,2
+TUCUMÁN,jumbo_ar,unknown,1
+NEUQUÉN,jumbo_ar,unknown,1
+CORDOBA,jumbo_ar,unknown,1
+SALTA,jumbo_ar,unknown,1
+UNKNOWN,lhw,Buenos Aires,1
+UNKNOWN,lhw,Ushuaia,1
+UNKNOWN,lhw,Mendoza,1
+UNKNOWN,man_truck_and_bus,Buenos Aires,1
+UNKNOWN,man_truck_and_bus,Avellaneda,1
+UNKNOWN,marriott,Buenos Aires,2
+UNKNOWN,marriott,Mar del Plata,1
+UNKNOWN,marriott,Mendoza,1
+UNKNOWN,marriott,Pilar,1
+UNKNOWN,marriott,Salta,1
+UNKNOWN,marriott,San Carlos de Bariloche,1
+UNKNOWN,marriott,Tucuman,1
+UNKNOWN,mcdonalds_latin_america,Posadas,1
+UNKNOWN,mcdonalds_latin_america,Corrientes,2
+UNKNOWN,mcdonalds_latin_america,Resistencia,1
+UNKNOWN,mcdonalds_latin_america,Salta,2
+UNKNOWN,mcdonalds_latin_america,SALTA,1
+UNKNOWN,mcdonalds_latin_america,Santiago del Estero,1
+UNKNOWN,mcdonalds_latin_america,Tucumán,3
+UNKNOWN,mcdonalds_latin_america,Yerba Buena,1
+UNKNOWN,mcdonalds_latin_america,Entre Ríos,1
+UNKNOWN,mcdonalds_latin_america,Santa Fé,4
+UNKNOWN,mcdonalds_latin_america,Rosario,9
+UNKNOWN,mcdonalds_latin_america,Santa Fe,1
+UNKNOWN,mcdonalds_latin_america,Campana,1
+UNKNOWN,mcdonalds_latin_america,Tigre,3
+UNKNOWN,mcdonalds_latin_america,Buenos Aires,22
+UNKNOWN,mcdonalds_latin_america,San Isidro,3
+UNKNOWN,mcdonalds_latin_america,San Fernando,2
+UNKNOWN,mcdonalds_latin_america,Olivos,1
+UNKNOWN,mcdonalds_latin_america,Escobar,2
+UNKNOWN,mcdonalds_latin_america,Vicente López,3
+UNKNOWN,mcdonalds_latin_america,Martínez,2
+UNKNOWN,mcdonalds_latin_america,Boulogne,2
+UNKNOWN,mcdonalds_latin_america,Capital Federal,1
+UNKNOWN,mcdonalds_latin_america,Ciudad Autónoma de Buenos Aires,54
+UNKNOWN,mcdonalds_latin_america,Don Torcuato,1
+UNKNOWN,mcdonalds_latin_america,Malvinas Argentinas,3
+UNKNOWN,mcdonalds_latin_america,Del Viso,1
+UNKNOWN,mcdonalds_latin_america,San Martín,4
+UNKNOWN,mcdonalds_latin_america,Avellaneda,2
+UNKNOWN,mcdonalds_latin_america,Quilmes,5
+UNKNOWN,mcdonalds_latin_america,Pilar,4
+UNKNOWN,mcdonalds_latin_america,San Miguel,3
+UNKNOWN,mcdonalds_latin_america,Caseros,1
+UNKNOWN,mcdonalds_latin_america,Palomar,1
+UNKNOWN,mcdonalds_latin_america,Hurlingham,1
+UNKNOWN,mcdonalds_latin_america,3 de Febrero,1
+UNKNOWN,mcdonalds_latin_america,Lanús,1
+UNKNOWN,mcdonalds_latin_america,La Plata,2
+UNKNOWN,mcdonalds_latin_america,Castelar,2
+UNKNOWN,mcdonalds_latin_america,Banfield,1
+UNKNOWN,mcdonalds_latin_america,Lomas de Zamora,3
+UNKNOWN,mcdonalds_latin_america,Morón,2
+UNKNOWN,mcdonalds_latin_america,San Justo,4
+UNKNOWN,mcdonalds_latin_america,Temperley,1
+UNKNOWN,mcdonalds_latin_america,Adrogué,1
+UNKNOWN,mcdonalds_latin_america,unknown,1
+UNKNOWN,mcdonalds_latin_america,Moreno,2
+UNKNOWN,mcdonalds_latin_america,Laferrere,1
+UNKNOWN,mcdonalds_latin_america,Monte Grande,1
+UNKNOWN,mcdonalds_latin_america,GENERAL RODRIGUEZ,1
+UNKNOWN,mcdonalds_latin_america,Ezeiza,3
+UNKNOWN,mcdonalds_latin_america,Luján,1
+UNKNOWN,mcdonalds_latin_america,Córdoba,17
+UNKNOWN,mcdonalds_latin_america,Villa Allende,1
+UNKNOWN,mcdonalds_latin_america,Chascomús,1
+UNKNOWN,mcdonalds_latin_america,Villa Carlos Paz,1
+UNKNOWN,mcdonalds_latin_america,Pinamar,1
+UNKNOWN,mcdonalds_latin_america,Rio Cuarto,1
+UNKNOWN,mcdonalds_latin_america,Villa Gesell,1
+UNKNOWN,mcdonalds_latin_america,Mar del Plata,6
+UNKNOWN,mcdonalds_latin_america,San Juan,2
+UNKNOWN,mcdonalds_latin_america,Mendoza,7
+UNKNOWN,mcdonalds_latin_america,MENDOZA Guaymallen,1
+UNKNOWN,mcdonalds_latin_america,Bahía Blanca,1
+UNKNOWN,mcdonalds_latin_america,Neuquén,4
+UNKNOWN,mcdonalds_latin_america,Bariloche,1
+PROVINCIADEBUENOSAIRES,mercedes_benz,Pilar,1
+BUENOSAIRES,mercedes_benz,Ciudad Autonoma de Buenos Aires,2
+SANTAFE,mercedes_benz,Santa Fe,1
+TIERRADELFUEGO,mercedes_benz,Ushuaia,1
+BUENOSAIRES,mercedes_benz,Barracas,1
+BUENOSAIRES,mercedes_benz,Lisandro Olmos,1
+TUCUMÁN,mercedes_benz,Yerba Buena,1
+BUENOSAIRES,mercedes_benz,Tandil,1
+POSADAS,mercedes_benz,Misiones - Posadas,1
+TIERRADELFUEGO,mercedes_benz,Río Grande,1
+PROVINCIADEBUENOSAIRES,mercedes_benz,Moreno,1
+PROVINCIADEBUENOSAIRES,mercedes_benz,Don Torcuato,1
+BUENOSAIRES,mercedes_benz,Palermo,1
+CIUDADAUTONOMADEBUENOSAIRES,mercedes_benz,Palermo,1
+PROVINCIADEBUENOSAIRES,mercedes_benz,Bahía Blanca,1
+CÓRDOBA,mercedes_benz,Córdoba,1
+TUCUMÁN,mercedes_benz,Las Talitas,1
+SANTAFE,mercedes_benz,Rosario,1
+PROVINCIADEBUENOSAIRES,mercedes_benz,Victoria,1
+SALTA,mercedes_benz,Salta,1
+PROVINCIADEBUENOSAIRES,mercedes_benz,Mar del plata,1
+MENDOZA,mercedes_benz,"Maipu, Mendoza",1
+BUENOSAIRES,mercedes_benz,Vicente Lopez,1
+CHACO,mercedes_benz,Resistencia,1
+NEUQUÉN,mercedes_benz,Neuquén,1
+BUENOSAIRES,mercedes_benz,Carlos Casares,1
+PROVINCIADEBUENOSAIRES,mercedes_benz,Junín,1
+TIERRADELFUEGO,mercedes_benz,Rio Grande,1
+BUENOSAIRES,mercedes_benz,Tigre,1
+BUENOSAIRESFD,meta,unknown,1
+UNKNOWN,moneygram,SAN JUAN,3
+UNKNOWN,moneygram,LA PLATA,4
+UNKNOWN,moneygram,JUJUY,1
+UNKNOWN,moneygram,BUENOS AIRES,63
+UNKNOWN,moneygram,SAN FERNANDO DEL VALLE DE CATAMARCA,1
+UNKNOWN,moneygram,SALTA,8
+UNKNOWN,moneygram,RECONQUISTA,1
+UNKNOWN,moneygram,AZUL,1
+UNKNOWN,moneygram,RIO CUARTO,6
+UNKNOWN,moneygram,ROSARIO,7
+UNKNOWN,moneygram,VERA,1
+UNKNOWN,moneygram,SALSIPUEDES,1
+UNKNOWN,moneygram,TRES ARROYOS,2
+UNKNOWN,moneygram,PEHUAJO,3
+UNKNOWN,moneygram,PALPALA,1
+UNKNOWN,moneygram,OLAVARRIA,1
+UNKNOWN,moneygram,VICTORIA,1
+UNKNOWN,moneygram,SANTA FE,4
+UNKNOWN,moneygram,LA PUERTA,1
+UNKNOWN,moneygram,PEREZ MILLAN,1
+UNKNOWN,moneygram,J B MOLINA,1
+UNKNOWN,moneygram,CURUZU CUATIA,1
+UNKNOWN,moneygram,COSQUIN,3
+UNKNOWN,moneygram,FIRMAT,1
+UNKNOWN,moneygram,CATUNA,1
+UNKNOWN,moneygram,CHACABUCO,1
+UNKNOWN,moneygram,CIUDAD AUTONOMA DE BUENOS AIRES,7
+UNKNOWN,moneygram,SARANDI,1
+UNKNOWN,moneygram,CABA,8
+UNKNOWN,moneygram,COLON,1
+UNKNOWN,moneygram,RAFAEL CASTILLO,1
+UNKNOWN,moneygram,CAPITAL FEDERAL,2
+UNKNOWN,moneygram,SAN FERNANDO,1
+UNKNOWN,moneygram,CIUDADELA,1
+UNKNOWN,moneygram,RAFAELA,6
+UNKNOWN,moneygram,CIUDAD AUTONOMA BUENOS AIRES,2
+UNKNOWN,moneygram,BAHIA BLANCA,2
+UNKNOWN,moneygram,MAR DEL PLATA,20
+UNKNOWN,moneygram,GARIN,1
+UNKNOWN,moneygram,PILAR,5
+UNKNOWN,moneygram,SANTA CLARA,1
+UNKNOWN,moneygram,DEL VISO,1
+UNKNOWN,moneygram,CARNERILLO,1
+UNKNOWN,moneygram,GENERAL DEHEZA,1
+UNKNOWN,moneygram,SAN MIGUEL DE TUCUMAN,3
+UNKNOWN,moneygram,RIO GALLEGOS,1
+UNKNOWN,moneygram,PASTEUR,1
+UNKNOWN,moneygram,BARILOCHE,1
+UNKNOWN,moneygram,PASCANAS,1
+UNKNOWN,moneygram,COLONIA LIEBIGS,1
+UNKNOWN,moneygram,VILLA CELINA,3
+UNKNOWN,moneygram,CATAMARCA,2
+UNKNOWN,moneygram,RINCON DE LOS SAUCES,1
+UNKNOWN,moneygram,MERLO,2
+UNKNOWN,moneygram,GENERAL ALVEAR,1
+UNKNOWN,moneygram,BIEDMA,1
+UNKNOWN,moneygram,RAWSON,1
+UNKNOWN,moneygram,PERICO,3
+UNKNOWN,moneygram,RESITENCIA,1
+UNKNOWN,moneygram,VIEDMA,1
+UNKNOWN,moneygram,LEDESMA,1
+UNKNOWN,moneygram,LAS HERAS,1
+UNKNOWN,moneygram,S.RAFAEL,1
+UNKNOWN,moneygram,SAN PEDRO,1
+UNKNOWN,moneygram,NEUQUEN,3
+UNKNOWN,moneygram,CHILECITO,2
+UNKNOWN,moneygram,CORDOBA,18
+UNKNOWN,moneygram,LA RIOJA,4
+UNKNOWN,moneygram,GENERAL PUEYRREDON,1
+UNKNOWN,moneygram,CIPOLLETTI,2
+UNKNOWN,moneygram,MENDOZA,6
+UNKNOWN,moneygram,PUNTA ALTA,1
+UNKNOWN,moneygram,SANTIAGO DEL ESTERO,3
+UNKNOWN,moneygram,DR MANUEL BELGRANO,1
+UNKNOWN,moneygram,COMODORO RIVADAVIA,2
+UNKNOWN,moneygram,TARTAGAL,1
+UNKNOWN,moneygram,ORAN,1
+UNKNOWN,moneygram,SANTA ROSA,1
+UNKNOWN,moneygram,P.BUENA,1
+UNKNOWN,moneygram,MARACO,1
+UNKNOWN,moneygram,CALAFATE,1
+UNKNOWN,moneygram,PARANA,2
+UNKNOWN,moneygram,FORMOSA,2
+UNKNOWN,moneygram,TUNUYAN,1
+UNKNOWN,moneygram,CORRIENTES,3
+UNKNOWN,moneygram,GENERAL MARTIN M. GUEMES,1
+UNKNOWN,moneygram,POCITOS,1
+UNKNOWN,moneygram,RETIRO,1
+UNKNOWN,moneygram,CALETA OLIVIA,1
+UNKNOWN,moneygram,CATRIEL,1
+UNKNOWN,moneygram,GENERAL ROCA,2
+UNKNOWN,moneygram,CIUDAD DE BUENOS AIRES,2
+UNKNOWN,moneygram,TRELEW,1
+UNKNOWN,moneygram,HELVECIA,1
+UNKNOWN,moneygram,LIBERTAD,1
+UNKNOWN,moneygram,LAS ARRIAS,1
+UNKNOWN,moneygram,TINTINA,1
+UNKNOWN,moneygram,OBISPO TREJO,1
+UNKNOWN,moneygram,CRUZ DEL EJE,1
+UNKNOWN,moneygram,VILLA NUEVA,1
+UNKNOWN,moneygram,MARCOS JUARES,1
+UNKNOWN,moneygram,COLONIA PASTORIL,1
+UNKNOWN,moneygram,PICO TRUNCADO,1
+UNKNOWN,moneygram,CASBAS,1
+UNKNOWN,moneygram,EL FORTIN,1
+UNKNOWN,moneygram,CORONEL DU GRATY,1
+UNKNOWN,moneygram,SALVADOR MAZZA,1
+UNKNOWN,moneygram,JOVITA,1
+UNKNOWN,moneygram,VILLA OCAMPO,1
+UNKNOWN,moneygram,LA QUIACA,2
+UNKNOWN,moneygram,ABRA PAMPA,1
+UNKNOWN,moneygram,LA FLORIDA,1
+UNKNOWN,moneygram,LOMAS DE ZAMORA,2
+UNKNOWN,moneygram,GOBERNADOR CRESPO,1
+UNKNOWN,moneygram,ACEBAL,1
+UNKNOWN,moneygram,VILLA DOLORES,3
+UNKNOWN,moneygram,BELLA VISTA,1
+UNKNOWN,moneygram,SIERRA GRANDE,1
+UNKNOWN,moneygram,CONCEPCION DEL URUGUAY,1
+UNKNOWN,moneygram,MORENO,3
+UNKNOWN,moneygram,MINA CLAVERO,1
+UNKNOWN,moneygram,VILLANUEVA,1
+UNKNOWN,moneygram,CARRILOBO,1
+UNKNOWN,moneygram,SAN MARCOS SIERRA,1
+UNKNOWN,moneygram,VILLA CARLOS PAZ,3
+UNKNOWN,moneygram,LA CARLOTA,1
+UNKNOWN,moneygram,VIRGINIA,1
+UNKNOWN,moneygram,RIO DE LOS SAUCES,1
+UNKNOWN,moneygram,JUANA KOSLAY,1
+UNKNOWN,moneygram,TOTORAS,1
+UNKNOWN,moneygram,SANTA CLARA DE SAGUIER,1
+UNKNOWN,moneygram,TERMAS DE RIO HONDO,2
+UNKNOWN,moneygram,COLONIA DORA,1
+UNKNOWN,moneygram,LAS GRUTAS,1
+UNKNOWN,moneygram,SAN CARLOS,1
+UNKNOWN,moneygram,USPALLATA,1
+UNKNOWN,moneygram,GARUPA,2
+UNKNOWN,moneygram,FLORENCIO VARELA,1
+UNKNOWN,moneygram,SAN MARTIN DE LOS ANDES,1
+UNKNOWN,moneygram,MBURUCUYA,1
+UNKNOWN,moneygram,SAN VICENTE,1
+UNKNOWN,moneygram,ESPERANZA,2
+UNKNOWN,moneygram,BUENO AIRES,1
+UNKNOWN,moneygram,HIPOLITO BUCHARD,1
+UNKNOWN,moneygram,LEANDRO N ALEM,1
+UNKNOWN,moneygram,SAN SALVADOR DE JUJUY,3
+UNKNOWN,moneygram,GUALEGUAY,1
+UNKNOWN,moneygram,SAN FRANCISCO,3
+UNKNOWN,moneygram,MACIEL,1
+UNKNOWN,moneygram,MARCOS JUAREZ,1
+UNKNOWN,moneygram,VILLA GIARDINO,1
+UNKNOWN,moneygram,EL MAITEN,1
+UNKNOWN,moneygram,SOLEDAD,1
+UNKNOWN,moneygram,ROSARIO DE LA FRONTERA,1
+UNKNOWN,moneygram,LOMA NEGRA,1
+UNKNOWN,moneygram,ALTA GRACIA,3
+UNKNOWN,moneygram,SALSACATE,1
+UNKNOWN,moneygram,MONTE CASEROS,1
+UNKNOWN,moneygram,SAN JORGE,1
+UNKNOWN,moneygram,LOS POLVORINES,1
+UNKNOWN,moneygram,ITUZAINGO,1
+UNKNOWN,moneygram,ONCE,1
+UNKNOWN,moneygram,MISIONES,1
+UNKNOWN,moneygram,POSADAS,2
+UNKNOWN,moneygram,JUNIN,1
+UNKNOWN,moneygram,9 DE ABRIL,1
+UNKNOWN,moneygram,VILLA MADERO,2
+UNKNOWN,moneygram,PRESIDENCIA ROQUE SAENZ PENA,1
+UNKNOWN,moneygram,ELDORADO,1
+UNKNOWN,moneygram,VILLA DEL ROSARIO,1
+UNKNOWN,moneygram,TANDIL,5
+UNKNOWN,moneygram,SALADAS,1
+UNKNOWN,moneygram,FERNANDEZ,2
+UNKNOWN,moneygram,MERCEDES,1
+UNKNOWN,moneygram,MALARGUE,1
+UNKNOWN,moneygram,SANTO TOME,2
+UNKNOWN,moneygram,VILLA MARIA,4
+UNKNOWN,moneygram,PERGAMINO,1
+UNKNOWN,moneygram,CERRILLOS,1
+UNKNOWN,moneygram,RANCUL,1
+UNKNOWN,moneygram,NUEVA GALICIA,1
+UNKNOWN,moneygram,MARTINEZ,1
+UNKNOWN,moneygram,SAN RAFAEL,1
+UNKNOWN,moneygram,GUAYMALLEN,1
+UNKNOWN,moneygram,FRIAS,1
+UNKNOWN,moneygram,PAMPA BLANCA,1
+UNKNOWN,moneygram,SALADILLO,1
+UNKNOWN,moneygram,LABOULAYE,1
+UNKNOWN,moneygram,ESTACION CLUCELLAS,1
+UNKNOWN,moneygram,TIO PUJIO,1
+UNKNOWN,moneygram,CONCORDIA,1
+UNKNOWN,moneygram,VILLA BERTHET,1
+UNKNOWN,moneygram,LA TOMA,1
+UNKNOWN,moneygram,CONCEPCION,1
+UNKNOWN,moneygram,CAPITAL,3
+UNKNOWN,moneygram,CARMEN DE PATAGONES,1
+UNKNOWN,moneygram,NECOCHEA,2
+UNKNOWN,moneygram,SUBTENIENTE PERIN,1
+UNKNOWN,moneygram,BERAZATEGUI,1
+UNKNOWN,moneygram,CAMPO VIERA,1
+UNKNOWN,moneygram,MONTE CRISTO,1
+UNKNOWN,moneygram,LA LEONESA,1
+UNKNOWN,moneygram,CLUCELLAS,1
+UNKNOWN,moneygram,TRISTAN SUAREZ,1
+UNKNOWN,moneygram,SAN CARLOS DE BARILOCHE,1
+UNKNOWN,moneygram,BALVANERA,1
+UNKNOWN,moneygram,QUILMES,1
+UNKNOWN,moneygram,SAMPACHO,1
+UNKNOWN,moneygram,TORTUGUITAS,1
+UNKNOWN,moneygram,TIGRE,1
+UNKNOWN,moneygram,VILLA ALLENDE LOMAS,1
+UNKNOWN,moneygram,VILLA DEVOTO,1
+UNKNOWN,moneygram,VIRREY DEL PINO,1
+UNKNOWN,moneygram,VIRREYES DE SAN FERNANDO,1
+UNKNOWN,moneygram,JESUS MARIA,1
+UNKNOWN,moneygram,LA FALDA,1
+UNKNOWN,moneygram,RIO SEGUNDO,1
+UNKNOWN,moneygram,SAN LUIS,1
+UNKNOWN,moneygram,SUNCHALES,1
+UNKNOWN,moneygram,TOSTADO,1
+UNKNOWN,moneygram,CHAMICAL,1
+UNKNOWN,moneygram,CARLOS PAZ,1
+UNKNOWN,moneygram,CAPITAN BERMUDEZ,2
+UNKNOWN,moneygram,TUCUMAN,2
+UNKNOWN,moneygram,GENERAL PICO,1
+UNKNOWN,moneygram,ANATUYA,1
+UNKNOWN,moneygram,SANTA ROSA DE CALAMUCHITA,1
+UNKNOWN,moneygram,RIO TERCERO,1
+UNKNOWN,moneygram,CERES,1
+UNKNOWN,moneygram,AIMOGASTA,1
+UNKNOWN,moneygram,VILLA MERCEDES,1
+UNKNOWN,moneygram,RESISTENCIA,1
+UNKNOWN,moneygram,RIO CEBALLOS,1
+UNKNOWN,moneygram,FRAILE PINTADO,1
+UNKNOWN,moneygram,PALPALA EST.GRL.MANUEL N.SAVIO,1
+UNKNOWN,moneygram,MIRAMAR,1
+UNKNOWN,national,San Luis,2
+UNKNOWN,national,Posadas,1
+UNKNOWN,national,El Calafate,2
+UNKNOWN,national,Neuquen,1
+UNKNOWN,national,Mendoza,2
+UNKNOWN,national,Posadas Misiones,1
+UNKNOWN,national,Buenos Aires,3
+UNKNOWN,national,Cordoba,1
+UNKNOWN,national,Comodoro Rivadavia,2
+UNKNOWN,national,Rio Gallegos,2
+UNKNOWN,national,Salta,2
+UNKNOWN,national,Ushuaia,2
+UNKNOWN,national,Bahia Blanca,1
+UNKNOWN,national,Bariloche,2
+UNKNOWN,national,Rosario,2
+UNKNOWN,national,Tucuman,1
+UNKNOWN,national,San Miguel De Tucuman,1
+BUENOSAIRES,nike,Capital Federal,2
+BUENOSAIRES,nike,Boulogne,1
+NEUQUÉN,nissan_europe,Neuquén,1
+SANTAFE,nissan_europe,Santa Fe,1
+CABA,nissan_europe,CABA,14
+BUENOSAIRES,nissan_europe,Bahía Blanca,1
+LAPAMPA,nissan_europe,Santa Rosa,1
+TIERRADELFUEGO,nissan_europe,Ushuaia,2
+TIERRADELFUEGO,nissan_europe,Río Grande,1
+BUENOSAIRES,nissan_europe,La Plata,1
+BUENOSAIRES,nissan_europe,Mar del Plata,2
+CÓRDOBA,nissan_europe,Córdoba,2
+ENTRERÍOS,nissan_europe,Crespo,2
+ENTRERÍOS,nissan_europe,Concordia,1
+ENTRERÍOS,nissan_europe,Paraná,1
+BUENOSAIRES,nissan_europe,Lanus,2
+BUENOSAIRES,nissan_europe,Quilmes,2
+BUENOSAIRES,nissan_europe,Lobos,1
+CORRIENTES,nissan_europe,Corrientes,2
+BUENOSAIRES,nissan_europe,Tortuguitas,1
+BUENOSAIRES,nissan_europe,Campana,1
+CÓRDOBA,nissan_europe,Río Cuarto,1
+BUENOSAIRES,nissan_europe,Pergamino,1
+BUENOSAIRES,nissan_europe,Junín,1
+BUENOSAIRES,nissan_europe,Trenque Lauquen,1
+SANTAFE,nissan_europe,Rosario,3
+CHUBUT,nissan_europe,Trelew,2
+CHUBUT,nissan_europe,Comodoro Rivadavia,1
+CHUBUT,nissan_europe,Puerto Madryn,1
+BUENOSAIRES,nissan_europe,Martinez,1
+SALTA,nissan_europe,Salta,1
+JUJUY,nissan_europe,Jujuy,2
+CATAMARCA,nissan_europe,San Fernando del Valle de Catamarca,2
+MENDOZA,nissan_europe,Godoy Cruz,1
+BUENOSAIRES,nissan_europe,Ituzaingó,1
+TUCUMÁN,nissan_europe,Yerba Buena,1
+CÓRDOBA,nissan_europe,Villa Maria,1
+LAPAMPA,nissan_europe,General Pico,1
+BUENOSAIRES,nissan_europe,Olavarría,1
+MISIONES,nissan_europe,Posadas,2
+BUENOSAIRES,nissan_europe,Mercedes,1
+CHUBUT,nissan_europe,Esquel,1
+BUENOSAIRES,nissan_europe,Ciudadela,1
+MENDOZA,nissan_europe,San Rafael,1
+BUENOSAIRES,nissan_europe,San Nicolás,1
+SANTAFE,nissan_europe,Cañada de Gomez,1
+SANTAFE,nissan_europe,Rafaela,1
+BUENOSAIRES,nissan_europe,Adrogué,1
+SANLUIS,nissan_europe,San Luis,1
+SANTAFE,nissan_europe,Venado Tuerto,2
+PROVBUENOSAIRES,nissan_europe,Pergamino,1
+CORDOBA,nissan_europe,San Francisco,1
+RIONEGRO,nissan_europe,Bariloche,1
+BUENOSAIRES,nissan_europe,Blahia Blanca,1
+BUENOSAIRES,nissan_europe,Adrogue,1
+CORDOBA,nissan_europe,Córdoba,2
+CHACO,nissan_europe,Resistencia,1
+BUENOSAIRES,nissan_europe,San Nicolas,1
+SANTIAGODELESTERO,nissan_europe,Santiago del Estero,1
+UNKNOWN,pandora,Córdoba,1
+UNKNOWN,pandora,Santa Fe,1
+UNKNOWN,pandora,Cordoba,1
+UNKNOWN,pandora,Buenos Aires,7
+BUENOSAIRES,reebok,Martinez,1
+BUENOSAIRESFD,sbarro,Buenos Aires,1
+C1043AAM,sbarro,Buenos Aires,1
+BUENOSAIRES,sbarro,Buenos Aires,2
+SANTAFE,sbarro,Rosario,1
+UNKNOWN,scania,Bahía Blanca-Buenos Aires,1
+UNKNOWN,scania,Banda del Río Salí-Tucuman,1
+UNKNOWN,scania,Capital Federal-Buenos Aires,1
+UNKNOWN,scania,Cipolletti-Río Negro,1
+UNKNOWN,scania,Comodoro Rivadavia-Chubut,1
+UNKNOWN,scania,Concordia-Yuquerí-Entre Ríos,1
+UNKNOWN,scania,Córdoba-Córdoba,1
+UNKNOWN,scania,Gobernador Virasoro-Corrientes,1
+UNKNOWN,scania,Grand Bourg-Buenos Aires,1
+UNKNOWN,scania,Guaymallén-Mendoza,1
+UNKNOWN,scania,Junín-Buenos Aires,1
+UNKNOWN,scania,Mar del Plata-Buenos Aires,1
+UNKNOWN,scania,Moreno-Buenos Aires,1
+UNKNOWN,scania,Palpala-Jujuy,1
+UNKNOWN,scania,Pocito-San Juan,1
+UNKNOWN,scania,Puerto Madryn-Chubut,1
+UNKNOWN,scania,Resistencia-Chaco,1
+UNKNOWN,scania,Río Cuarto-Córdoba,1
+UNKNOWN,scania,Rio Gallegos-Santa Cruz,1
+UNKNOWN,scania,Rosario-Santa Fe,1
+UNKNOWN,scania,Salta-Salta,1
+UNKNOWN,scania,Santa Fé-Santa Fé,1
+UNKNOWN,scania,Trenque Lauquen-Buenos Aires,1
+UNKNOWN,scania,Venado Tuerto-Santa Fe,1
+UNKNOWN,shell,SAN FERNANDO,5
+UNKNOWN,shell,VIRREYES,1
+UNKNOWN,shell,TIGRE,3
+UNKNOWN,shell,BECCAR,3
+UNKNOWN,shell,GRAL PACHECO,1
+UNKNOWN,shell,SAN ISIDRO,3
+UNKNOWN,shell,DON TORCUATO,2
+UNKNOWN,shell,GRAL. PACHECO,1
+UNKNOWN,shell,BOULOGNE,1
+UNKNOWN,shell,MARTINEZ,5
+UNKNOWN,shell,ACASSUSO,2
+UNKNOWN,shell,VILLA ADELINA,1
+UNKNOWN,shell,EL TALAR,1
+UNKNOWN,shell,MUNRO,1
+UNKNOWN,shell,MARTINEZ ,1
+UNKNOWN,shell,OLIVOS,3
+UNKNOWN,shell,PACHECO,2
+UNKNOWN,shell,VICENTE LOPEZ,1
+UNKNOWN,shell,FLORIDA,2
+UNKNOWN,shell,VILLA BALLESTER,3
+UNKNOWN,shell,BENAVIDEZ,2
+UNKNOWN,shell,VILLA MARTELLI,1
+UNKNOWN,shell,LOMA HERMOSA,2
+UNKNOWN,shell,CAPITAL FEDERAL,55
+UNKNOWN,shell,BILLINGHURST,1
+UNKNOWN,shell,SAN MARTIN,2
+UNKNOWN,shell,LABOULAYE,1
+SANTAFE,shell,RUFINO,1
+SANTAFE,shell,RUFINO ,1
+CORDOBA,shell,LA CARLOTA,2
+UNKNOWN,shell,ADELIA MARIA,1
+UNKNOWN,shell,VICUÑA MACKENNA,1
+UNKNOWN,shell,GENERAL VILLEGAS,1
+UNKNOWN,shell,AMEGHINO,1
+UNKNOWN,shell,REALICO,3
+UNKNOWN,shell,CORONEL GRANADA,1
+UNKNOWN,shell,ETRURIA,1
+UNKNOWN,shell,VENADO TUERTO,2
+UNKNOWN,shell,RIO CUARTO,4
+CORDOBA,shell,RÍO CUARTO,1
+CÓRDOBA,shell,IDIAZABAL,1
+CÓRDOBA,shell,ORDOÑEZ,1
+UNKNOWN,shell,GENERAL CABRERA,1
+CORDOBA,shell,PASCO,1
+UNKNOWN,shell,CHAÑAR LADEADO,1
+CORDOBA,shell,Monte Buey,1
+UNKNOWN,shell,LAS PERDICES,1
+CORDOBA,shell,Inriville,1
+UNKNOWN,shell,GENERAL PICO,3
+UNKNOWN,shell,VEDIA,1
+CORDOBA,shell,BELL VILLE,1
+CORDOBA,shell,Ballesteros,1
+UNKNOWN,shell,BELL VILLE,1
+UNKNOWN,shell,LINCOLN,2
+UNKNOWN,shell,VILLA MARIA,3
+UNKNOWN,shell,VILLA MERCEDES,1
+UNKNOWN,shell,Villa Mercedes,1
+CORDOBA,shell,MARCOS JUAREZ,1
+SANTAFE,shell,AREQUITO,1
+UNKNOWN,shell,TRENQUE LAUQUEN,2
+UNKNOWN,shell,RIO TERCERO,1
+UNKNOWN,shell,ALMAFUERTE,1
+UNKNOWN,shell,OLIVA,1
+UNKNOWN,shell,ROSARIO,23
+UNKNOWN,shell,PEREZ,1
+UNKNOWN,shell,VILLA GOBERNADOR GALVEZ,1
+SANTAFE,shell,FUNES,2
+UNKNOWN,shell,GRANADERO BAIGORRIA,1
+UNKNOWN,shell,PUEBLO ESTHER,1
+UNKNOWN,shell,SAN LORENZO,2
+UNKNOWN,shell,PUERTO SAN MARTIN,1
+UNKNOWN,shell,ARROYO SECO,1
+SANTAFE,shell,CASILDA,1
+SANTAFE,shell,CARCARAÃ‘A,1
+UNKNOWN,shell,VILLA CONSTITUCION,1
+UNKNOWN,shell,SANTA TERESA,1
+UNKNOWN,shell,SAN NICOLAS,3
+UNKNOWN,shell,PEYRANO,1
+UNKNOWN,shell,VICTORIA,1
+ENTRERIOS,shell,VICTORIA,1
+UNKNOWN,shell,CHABAS,1
+UNKNOWN,shell,RAMALLO,1
+UNKNOWN,shell,SAN GENARO,1
+ENTRERIOS,shell,STROBEL,1
+ENTRERIOS,shell,DIAMANTE,1
+UNKNOWN,shell,PERGAMINO,2
+UNKNOWN,shell,VILLA LYNCH,1
+BUENOSAIRES,shell,GENERAL SAN MARTIN,2
+UNKNOWN,shell,CASEROS,4
+CABA,shell,CABA,1
+UNKNOWN,shell,CIUDADELA,3
+BUENOSAIRES,shell,CIUDADELA,1
+MISIONES,shell,POSADAS,1
+UNKNOWN,shell,POSADAS,6
+UNKNOWN,shell,Gobernador Roca,1
+UNKNOWN,shell,JARDIN AMERICA,1
+UNKNOWN,shell,GOBERNADOR VIRASORO,1
+UNKNOWN,shell,OBERA,2
+UNKNOWN,shell,RUIZ DE MONTOYA,1
+UNKNOWN,shell,CAPIOVI,1
+UNKNOWN,shell,PUERTO RICO,1
+UNKNOWN,shell,MONTECARLO,1
+CORRIENTES,shell,Santo Tome,1
+UNKNOWN,shell,RAUCH,1
+UNKNOWN,shell,TANDIL,4
+UNKNOWN,shell,AYACUCHO,1
+UNKNOWN,shell,AZUL,2
+UNKNOWN,shell,LAS FLORES,2
+UNKNOWN,shell,OLAVARRIA,3
+BUENOSAIRES,shell,SAN MANUEL,1
+UNKNOWN,shell,LAS ARMAS,1
+UNKNOWN,shell,GENERAL BELGRANO,1
+DOLORES,shell,buenos aires,1
+UNKNOWN,shell,DOLORES,1
+DOLORES,shell,BUENOS AIRES,1
+UNKNOWN,shell,BALCARCE,2
+UNKNOWN,shell,SALADILLO,2
+UNKNOWN,shell,LEZAMA,1
+UNKNOWN,shell,SAN MIGUEL DEL MONTE,1
+UNKNOWN,shell,CHASCOMUS,2
+UNKNOWN,shell,ADOLFO GONZALEZ CHÁVEZ,1
+UNKNOWN,shell,LOBOS,3
+UNKNOWN,shell,25 DE MAYO,1
+UNKNOWN,shell,SAN CAYETANO,1
+UNKNOWN,shell,MAR DEL PLATA,16
+BUENOSAIRES,shell,MAR DEL PLATA,2
+UNKNOWN,shell,BRANDSEN,2
+UNKNOWN,shell,CAÑUELAS,2
+UNKNOWN,shell,NECOCHEA,2
+UNKNOWN,shell,NAVARRO,1
+UNKNOWN,shell,MIRAMAR,2
+UNKNOWN,shell,ALEJANDRO KORN,1
+BUENOSAIRES,shell,CANNING,1
+UNKNOWN,shell,COLON,3
+UNKNOWN,shell,ROJAS,2
+BUENOSAIRES,shell,PERGAMINO,1
+UNKNOWN,shell,JUNIN,2
+UNKNOWN,shell,SALTO,1
+UNKNOWN,shell,Salto,1
+UNKNOWN,shell,Arrecifes,1
+UNKNOWN,shell,CHACABUCO,1
+JUJUY,shell,YALA,1
+JUJUY,shell,SAN SALVADOR DE JUJUY,1
+UNKNOWN,shell,SAN SALVADOR DE JUJUY,1
+JUJUY,shell,San Salvador de jujuy,1
+BUENOSAIRES,shell,BERNAL,1
+UNKNOWN,shell,FRAILE PINTADO,1
+JUJUY,shell,PERICO,1
+UNKNOWN,shell,SALTA,4
+UNKNOWN,shell,SAN PEDRO,3
+UNKNOWN,shell,CERRILLOS,1
+UNKNOWN,shell,Tafi Viejo,1
+UNKNOWN,shell,LOS NOGALES,1
+CATAMARCA,shell,BELEN,1
+TUCUMAN,shell,YERBA BUENA ,1
+UNKNOWN,shell,SAN MIGUEL DE TUCUMAN,9
+TUCUMAN,shell,San Miguel de Tucuman,1
+UNKNOWN,shell,QUILMES,9
+UNKNOWN,shell,BERNAL,2
+QUILMES,shell,BUENOS AIRES,1
+UNKNOWN,shell,TEMPERLEY,2
+UNKNOWN,shell,WILDE,1
+UNKNOWN,shell,BERAZATEGUI,7
+UNKNOWN,shell,CLAYPOLE,1
+UNKNOWN,shell,EZPELETA,1
+UNKNOWN,shell,LANUS,2
+UNKNOWN,shell,REMEDIOS DE ESCALADA,1
+UNKNOWN,shell,SARANDI,1
+UNKNOWN,shell,LANUS ESTE,1
+UNKNOWN,shell,BANFIELD,1
+UNKNOWN,shell,AVELLANEDA,4
+UNKNOWN,shell,GERLI,2
+UNKNOWN,shell,LOMAS DE ZAMORA,5
+UNKNOWN,shell,ADROGUE,2
+UNKNOWN,shell,RANELAGH,1
+BUENOSAIRES,shell,LANUS,1
+UNKNOWN,shell,LANUS OESTE,2
+UNKNOWN,shell,BURZACO,3
+BUENOSAIRES,shell,LOBERIA,1
+UNKNOWN,shell,Banfield,1
+UNKNOWN,shell,MORENO,2
+BUENOSAIRES,shell,MORENO,2
+UNKNOWN,shell,PASO DEL REY,1
+UNKNOWN,shell,MERLO,3
+BUENOSAIRES,shell,GENERAL RODRIGUEZ,1
+UNKNOWN,shell,FRANCISCO ALVAREZ,1
+UNKNOWN,shell,ITUZAINGO,4
+UNKNOWN,shell,SAN MIGUEL,3
+UNKNOWN,shell,BELLA VISTA,3
+UNKNOWN,shell,GRAL. RODRIGUEZ,1
+BUENOSAIRES,shell,LIBERTAD,1
+UNKNOWN,shell,JOSE C. PAZ,2
+UNKNOWN,shell,HURLINGHAM,1
+UNKNOWN,shell,CASTELAR,1
+BUENOSAIRES,shell,CASTELAR,1
+BUENOSAIRES,shell,Las Heras,1
+UNKNOWN,shell,MORON,3
+UNKNOWN,shell,MARCOS PAZ,1
+UNKNOWN,shell,Malvinas Argentinas,2
+BUENOSAIRES,shell,LA MATANZA,1
+UNKNOWN,shell,HAEDO,2
+UNKNOWN,shell,J. L. SUAREZ,1
+UNKNOWN,shell,SAN JUSTO,8
+BUENOSAIRES,shell,Haedo,1
+UNKNOWN,shell,LAFERRERE,1
+UNKNOWN,shell,ESCOBAR,5
+UNKNOWN,shell,DEL VISO,1
+UNKNOWN,shell,PILAR,6
+UNKNOWN,shell,MENDOZA,4
+UNKNOWN,shell,NUEVA CIUDAD,1
+UNKNOWN,shell,GODOY CRUZ,1
+UNKNOWN,shell,GUAYMALLEN,2
+UNKNOWN,shell,CARRODILLA,1
+UNKNOWN,shell,LUZURIAGA,1
+UNKNOWN,shell,MAIPÚ,1
+UNKNOWN,shell,LUJAN DE CUYO,1
+MENDOZA,shell,San Martin,1
+UNKNOWN,shell,COSTA DE ARAUJO,1
+UNKNOWN,shell,TUNUYAN,1
+UNKNOWN,shell,LA CONSULTA,1
+UNKNOWN,shell,EUGENIO BUSTOS,1
+SANJUAN,shell,POCITO,1
+UNKNOWN,shell,CAUCETE,1
+UNKNOWN,shell,SAN JUAN,3
+UNKNOWN,shell,Rawson,1
+UNKNOWN,shell,CHIMBAS,1
+UNKNOWN,shell,SAN VICENTE,1
+UNKNOWN,shell,PCIA ROQUE SAENZ PEÑA,1
+UNKNOWN,shell,SAENZ PEÑA,1
+CHACO,shell,SAENZ PEÑA,1
+UNKNOWN,shell,PRESIDENCIA ROQUE SAENZ PEÃ‘A,1
+UNKNOWN,shell,QUITILIPI,1
+UNKNOWN,shell,LAS BREÑAS,1
+UNKNOWN,shell,PAMPA DEL INFIERNO,1
+CHACO,shell,CHARATA,2
+UNKNOWN,shell,VILLA ANGELA,2
+CHACO,shell,CORONEL DUGRATY,1
+UNKNOWN,shell,GANCEDO,1
+CHACO,shell,Fontana,1
+UNKNOWN,shell,RESISTENCIA,8
+UNKNOWN,shell,BARRANQUERAS,1
+UNKNOWN,shell,CORRIENTES,7
+CORRIENTES,shell,CORRIENTES,1
+UNKNOWN,shell,CIUDAD DE CORRIENTES,1
+UNKNOWN,shell,RIACHUELO,1
+UNKNOWN,shell,FORMOSA,4
+UNKNOWN,shell,SALADAS,1
+UNKNOWN,shell,RECONQUISTA,1
+UNKNOWN,shell,SANTA LUCÃA,1
+UNKNOWN,shell,GOYA,1
+UNKNOWN,shell,TOSTADO,2
+UNKNOWN,shell,VERA,1
+UNKNOWN,shell,COLONIA DORA,1
+UNKNOWN,shell,CALCHAQUI,1
+UNKNOWN,shell,MALAGUEÑO,2
+UNKNOWN,shell,CORDOBA,36
+CORDOBA,shell,CORDOBA,4
+UNKNOWN,shell,SALDAN,1
+UNKNOWN,shell,VILLA CARLOS PAZ,2
+UNKNOWN,shell,VILLA ALLENDE,1
+UNKNOWN,shell,NUEVA ITALIA,1
+CORDOBA,shell,cordoba,1
+CORDOBA,shell,Berrotaran,1
+UNKNOWN,shell,ALTA GRACIA,2
+UNKNOWN,shell,NOGOYA,2
+UNKNOWN,shell,VILLA GENERAL RAMIREZ,1
+ENTRERIOS,shell,SEGUI,1
+UNKNOWN,shell,ROSARIO DEL TALA,1
+UNKNOWN,shell,CRESPO,1
+ENTRERIOS,shell,VILLA LIBERTADOR SAN MARTIN,1
+UNKNOWN,shell,MARIA GRANDE,2
+UNKNOWN,shell,VILLA VALLE MARIA,1
+UNKNOWN,shell,GUALEGUAY,2
+UNKNOWN,shell,VILLAGUAY,1
+UNKNOWN,shell,PARANA,5
+UNKNOWN,shell,HASENKAMP,1
+ENTRERIOS,shell,PARANA,2
+ENTRERIOS,shell,CHAJARÁ,1
+UNKNOWN,shell,FEDERACION,1
+CORRIENTES,shell,MONTE CASEROS,1
+UNKNOWN,shell,MONTE CASEROS,1
+ENTRERIOS,shell,CONCORDIA,1
+UNKNOWN,shell,CONCORDIA,1
+UNKNOWN,shell,COLONIA ADELA,1
+UNKNOWN,shell,CURUZU CUATIA,1
+ENTRERIOS,shell,Concordia,1
+UNKNOWN,shell,PASO DE LOS LIBRES,3
+UNKNOWN,shell,FLORENCIO VARELA,1
+UNKNOWN,shell,LA PAZ,1
+UNKNOWN,shell,VILLA ELISA,3
+UNKNOWN,shell,ESQUINA,1
+UNKNOWN,shell,MERCEDES,2
+UNKNOWN,shell,CONCEPCION DEL URUGUAY,1
+UNKNOWN,shell,HERNANDARIAS,1
+UNKNOWN,shell,ALDEA SAN ANTONIO,1
+UNKNOWN,shell,GUALEGUAYCHU,2
+UNKNOWN,shell,PUERTO IGUAZU,1
+UNKNOWN,shell,PUERTO LIBERTAD,1
+UNKNOWN,shell,WANDA,1
+MISIONES,shell,COMANDANTE ANDRESITO,1
+UNKNOWN,shell,PUERTO ESPERANZA,1
+UNKNOWN,shell,PIGUE,1
+UNKNOWN,shell,PUAN,1
+UNKNOWN,shell,CORONEL SUAREZ,1
+UNKNOWN,shell,CARHUE,1
+LAPAMPA,shell,GUATRACHE,1
+BUENOSAIRES,shell,CORONEL PRINGLES,1
+UNKNOWN,shell,CORONEL PRINGLES,1
+UNKNOWN,shell,BAHIA BLANCA,4
+UNKNOWN,shell,DAIREAUX,2
+UNKNOWN,shell,BOLIVAR,2
+UNKNOWN,shell,SANTA ROSA,1
+UNKNOWN,shell,PEHUEAJO,1
+UNKNOWN,shell,TRES ARROYOS,1
+BUENOSAIRES,shell,TRES ARROYOS,1
+UNKNOWN,shell,PEDRO LURO,1
+LAPAMPA,shell,WINIFREDA,1
+UNKNOWN,shell,CARLOS CASARES,1
+BUENOSAIRES,shell,CLAROMECO,1
+UNKNOWN,shell,VILLALONGA,1
+BUENOSAIRES,shell,ORENSE,1
+UNKNOWN,shell,9 DE JULIO,1
+UNKNOWN,shell,STROEDER,1
+BUENOSAIRES,shell,LOS TOLDOS,1
+UNKNOWN,shell,BRAGADO,3
+BUENOSAIRES,shell,VILLA GESELL ,1
+UNKNOWN,shell,VILLA GESELL,1
+UNKNOWN,shell,CARILO,1
+UNKNOWN,shell,VALERIA DEL MAR,1
+UNKNOWN,shell,PINAMAR,1
+UNKNOWN,shell,GRAL. MADARIAGA,1
+UNKNOWN,shell,MAR DE AJO,1
+UNKNOWN,shell,GENERAL LAVALLE,1
+BUENOSAIRES,shell,SAN BERNARDO,1
+UNKNOWN,shell,SAN BERNARDO,1
+BUENOSAIRES,shell,MAR DEL TUYU,1
+UNKNOWN,shell,SANTA TERESITA,1
+UNKNOWN,shell,VALENTIN ALSINA,1
+CAPITALFEDERAL,shell,CAPITAL FEDERAL,1
+BUENOSAIRES,shell,MUNRO,1
+SANTAFE,shell,SAN CARLOS SUD,1
+SANTAFE,shell,SAUCE VIEJO,1
+UNKNOWN,shell,CORONDA,1
+UNKNOWN,shell,SANTO TOME,1
+SANTAFE,shell,SANTO TOME,1
+UNKNOWN,shell,GALVEZ,1
+UNKNOWN,shell,ESPERANZA,4
+UNKNOWN,shell,SANTA FE,6
+UNKNOWN,shell,HUMBOLDT,1
+UNKNOWN,shell,MONTE VERA,1
+UNKNOWN,shell,SAN MARTIN DE LAS ESCOBAS,1
+UNKNOWN,shell,COLASTINE NORTE,1
+UNKNOWN,shell,RAFAELA,2
+UNKNOWN,shell,CLUCELLAS,1
+UNKNOWN,shell,SASTRE,1
+UNKNOWN,shell,PROGRESO,1
+UNKNOWN,shell,SAN JORGE,2
+UNKNOWN,shell,EL TREBOL,1
+UNKNOWN,shell,PIAMONTE,1
+UNKNOWN,shell,SAN FRANCISCO,1
+UNKNOWN,shell,SUNCHALES,2
+UNKNOWN,shell,HUMBERTO I,1
+UNKNOWN,shell,MONTE GRANDE,4
+UNKNOWN,shell,LUIS GUILLON,1
+BUENOSAIRES,shell,LUIS GUILLON,1
+UNKNOWN,shell,EZEIZA,1
+UNKNOWN,shell,9 DE ABRIL,2
+UNKNOWN,shell,LONGCHAMPS,1
+UNKNOWN,shell,"LA UNION FERROVIARIA, EZEIZA",1
+UNKNOWN,shell,GLEW,1
+UNKNOWN,shell,TRISTAN SUAREZ,2
+UNKNOWN,shell,CIUDAD EVITA,1
+BUENOSAIRES,shell,LAFERRERE,1
+UNKNOWN,shell,LA TABLADA,1
+UNKNOWN,shell,ISIDRO CASANOVA,1
+CORDOBA,shell,ALTA GRACIA,1
+UNKNOWN,shell,VILLA CIUDAD DE AMERICA,1
+UNKNOWN,shell,DESPEÑADEROS,1
+UNKNOWN,shell,TANTI,1
+UNKNOWN,shell,VILLA GENERAL BELGRANO,1
+UNKNOWN,shell,PARADA ROBLES,1
+UNKNOWN,shell,LUJAN,3
+BUENOSAIRES,shell,CAMPANA,1
+UNKNOWN,shell,MATHEU,1
+UNKNOWN,shell,CAMPANA,1
+UNKNOWN,shell,Escobar,1
+UNKNOWN,shell,ZARATE,1
+UNKNOWN,shell,SAN ANTONIO DE ARECO,1
+UNKNOWN,shell,INGENIERO MASCHWITZ,1
+UNKNOWN,shell,DIQUE LUJAN,1
+BUENOSAIRES,shell,DIQUE LUJAN,1
+UNKNOWN,shell,LA PLATA,12
+UNKNOWN,shell,ENSENADA,1
+UNKNOWN,shell,LISANDRO OLMOS / LA PLATA,1
+BUENOSAIRES,shell,BERAZATEGUI,2
+UNKNOWN,shell,Berazategui,1
+CORDOBA,shell,SINSACATE,1
+UNKNOWN,shell,COLONIA CAROYA,1
+UNKNOWN,shell,RIO CEBALLOS,2
+UNKNOWN,shell,SANTA MARIA DE PUNILLA,1
+UNKNOWN,shell,EL DORADO,2
+MISIONES,shell,COLONIA VICTORIA,1
+UNKNOWN,shell,LAS VARILLAS,2
+UNKNOWN,shell,POZO DEL MOLLE,1
+UNKNOWN,shell,SACANTA,1
+UNKNOWN,shell,LUQUE,1
+UNKNOWN,shell,VILLA DEL ROSARIO,1
+UNKNOWN,shell,ONCATIVO,1
+UNKNOWN,shell,FREYRE,1
+UNKNOWN,shell,SANTA ROSA DEL RIO 1RO.,1
+UNKNOWN,shell,RIO PRIMERO,1
+PILAR,shell,CORDOBA,1
+UNKNOWN,shell,RIO SEGUNDO,1
+UNKNOWN,shell,MORTEROS,1
+UNKNOWN,shell,LA BANDA,3
+SANTIAGODELESTERO,shell,LA BANDA,1
+UNKNOWN,shell,SANTIAGO DEL ESTERO,5
+SANTIAGODELESTERO,shell,SANTIAGO DEL ESTERO,1
+UNKNOWN,shell,FERNANDEZ,1
+UNKNOWN,shell,VILLA SAN MARTIN LORETO,1
+UNKNOWN,shell,TERMAS DE RIO HONDO,1
+TUCUMAN,shell,VILLA FIAD,1
+UNKNOWN,shell,BANDA DEL RIO SALI,1
+UNKNOWN,shell,FRIAS,1
+UNKNOWN,shell,La Cocha,1
+UNKNOWN,shell,FAMAILLA,1
+UNKNOWN,shell,MONTEROS,1
+UNKNOWN,shell,CONCEPCION,1
+UNKNOWN,shell,LULES,1
+UNKNOWN,shell,CATAMARCA,2
+UNKNOWN,shell,AIMOGASTA,1
+UNKNOWN,shell,DEAN FUNES,1
+UNKNOWN,shell,LA RIOJA,2
+UNKNOWN,shell,CLORINDA,1
+UNKNOWN,shell,NEUQUEN,4
+NEUQUEN,shell,NEUQUEN,1
+NEUQUEN,shell,PLOTTIER,1
+UNKNOWN,shell,CENTENARIO,1
+UNKNOWN,shell,ALLEN,1
+UNKNOWN,shell,GENERAL ROCA,1
+UNKNOWN,shell,AÑELO,1
+UNKNOWN,shell,VILLA REGINA,1
+UNKNOWN,shell,CHOELE CHOEL,1
+UNKNOWN,shell,SAN ANTONIO OESTE,1
+UNKNOWN,shell,SAN RAFAEL,3
+UNKNOWN,shell,CARMEN DE ARECO,1
+UNKNOWN,shell,CAPITAN SARMIENTO,1
+UNKNOWN,shell,SUIPACHA,1
+UNKNOWN,shell,CHIVILCOY,2
+BUENOSAIRES,shell,BARADERO,1
+UNKNOWN,shell,SAN GUILLERMO,1
+UNKNOWN,shell,SUARDI,1
+UNKNOWN,shell,ARRUFO,1
+UNKNOWN,shell,CERES,1
+UNKNOWN,shell,MINA CLAVERO,1
+UNKNOWN,shell,VILLA DOLORES,1
+SANLUIS,shell,MERLO,1
+CORDOBA,shell,VILLA DEL SOTO,1
+UNKNOWN,shell,LOMAS DEL MIRADOR,1
+BUENOSAIRES,shell,SAN JUSTO,1
+BUENOSAIRES,shell,MAGDALENA,1
+UNKNOWN,shell,CHEPES,1
+UNKNOWN,shell,CHAMICAL,1
+UNKNOWN,shell,San Luis,1
+UNKNOWN,shell,SAN LUIS,2
+UNKNOWN,shell,CHILECITO,1
+UNKNOWN,shell,GONZALEZ CATAN,1
+UNKNOWN,shell,VIRREY DEL PINO,1
+UNKNOWN,shell,VIEDMA,1
+UNKNOWN,shell,CEIBAS,1
+UNKNOWN,sixt,San Martin de los Andes,2
+UNKNOWN,sixt,Ushuaia,2
+UNKNOWN,sixt,Bahia Blanca,1
+UNKNOWN,sixt,San Salvador de Jujuy,1
+UNKNOWN,sixt,Cordoba,3
+UNKNOWN,sixt,El Calafate,1
+UNKNOWN,sixt,San Carlos de Bariloche,1
+UNKNOWN,sixt,Buenos Aires,4
+UNKNOWN,sixt,Mendoza,2
+UNKNOWN,sixt,Bariloche,1
+UNKNOWN,sixt,Salta,2
+UNKNOWN,sixt,"Cevil Pozo, Pcia de Tucuman",1
+TUCUMÁN,smart,Las Talitas,1
+CÓRDOBA,smart,Córdoba,1
+BUENOSAIRES,smart,Palermo,1
+PROVINCIADEBUENOSAIRES,smart,Moreno,1
+POSADAS,smart,Misiones - Posadas,1
+BUENOSAIRES,smart,Lisandro Olmos,1
+TIERRADELFUEGO,smart,Ushuaia,1
+SANTAFE,smart,Santa Fe,1
+CÓRDOBA,smart,Villa María,1
+PROVINCIADEBUENOSAIRES,smart,Pilar,1
+BUENOSAIRES,starbucks_ar_cl,CABA,82
+BUENOSAIRES,starbucks_ar_cl,Canning,1
+BUENOSAIRES,starbucks_ar_cl,San Justo,1
+BUENOSAIRES,starbucks_ar_cl,Ramos Mejía,1
+BUENOSAIRES,starbucks_ar_cl,Avellaneda,2
+BUENOSAIRES,starbucks_ar_cl,Lomas de Zamora,2
+BUENOSAIRES,starbucks_ar_cl,Quilmes,1
+BUENOSAIRES,starbucks_ar_cl,Morón,1
+BUENOSAIRES,starbucks_ar_cl,Malvinas Argentinas,1
+BUENOSAIRES,starbucks_ar_cl,Boulogne,1
+BUENOSAIRES,starbucks_ar_cl,Martinez,4
+BUENOSAIRES,starbucks_ar_cl,San Isidro,3
+BUENOSAIRES,starbucks_ar_cl,Vicente Lopez,2
+BUENOSAIRES,starbucks_ar_cl,Olivos,1
+BUENOSAIRES,starbucks_ar_cl,Ezeiza,3
+BUENOSAIRES,starbucks_ar_cl,EZEIZA,1
+BUENOSAIRES,starbucks_ar_cl,Tortuguitas,1
+BUENOSAIRES,starbucks_ar_cl,Buenos Aires,1
+BUENOSAIRES,starbucks_ar_cl,Pilar,2
+BUENOSAIRES,starbucks_ar_cl,La Plata,2
+SANTAFE,starbucks_ar_cl,Rosario,4
+NEUQUÉN,starbucks_ar_cl,Neuquén,3
+MENDOZA,starbucks_ar_cl,Mendoza,2
+CÓRDOBA,starbucks_ar_cl,Córdoba,5
+BUENOSAIRES,starbucks_ar_cl,Tigre,2
+SOUTHAMERICA,the_north_face,BARILOCHE,1
+SOUTHAMERICA,the_north_face,SAN MARTIN DE LOS ANDES,1
+UNKNOWN,timberland,Salta,1
+UNKNOWN,timberland,Buenos Aires,7
+UNKNOWN,timberland,Rosario,1
+UNKNOWN,timberland,Mendoza,1
+UNKNOWN,timberland,Cordoba,1
+UNKNOWN,visa,PUERTO IGUAZU,1
+UNKNOWN,visa,ELDORADO,3
+UNKNOWN,visa,PUERTO RICO,1
+UNKNOWN,visa,OBERA,3
+UNKNOWN,visa,POSADAS,15
+UNKNOWN,visa,BUENOS AIRES,1020
+UNKNOWN,visa,NEUQUEN,64
+UNKNOWN,visa,APOSTOLES,1
+UNKNOWN,visa,ENTRE RIOS,5
+UNKNOWN,visa,SAN MARTIN,35
+UNKNOWN,visa,FORMOSA,8
+UNKNOWN,visa,SAN MIGUEL,20
+UNKNOWN,visa,PASO DE LOS LIBRES,2
+UNKNOWN,visa,PARANA,36
+UNKNOWN,visa,MONTE CASEROS,1
+UNKNOWN,visa,CONCEPCION DE TUCUMAN,3
+UNKNOWN,visa,CORRIENTES,14
+UNKNOWN,visa,SAN FERNANDO,10
+UNKNOWN,visa,RESISTENCIA,15
+UNKNOWN,visa,CHAJARI,2
+UNKNOWN,visa,FEDERACION,1
+UNKNOWN,visa,CONCORDIA,11
+UNKNOWN,visa,BELLA VISTA,6
+UNKNOWN,visa,SANTA FE,220
+UNKNOWN,visa,COLON,5
+UNKNOWN,visa,GOYA,2
+UNKNOWN,visa,SAN JOSE,2
+UNKNOWN,visa,SAN SALVADOR DE JUJUY,10
+UNKNOWN,visa,SAN SALVADOR,1
+UNKNOWN,visa,CONCEPCION DEL URUGUAY,9
+UNKNOWN,visa,VILLA ELISA,2
+UNKNOWN,visa,RECONQUISTA,3
+UNKNOWN,visa,MAR DE AJO,1
+UNKNOWN,visa,GUALEGUAYCHU,7
+UNKNOWN,visa,VILLAGUAY,1
+UNKNOWN,visa,BERISSO,2
+UNKNOWN,visa,BASAVILVASO,1
+UNKNOWN,visa,ENSENADA,6
+UNKNOWN,visa,PINAMAR,6
+UNKNOWN,visa,SARANDI,6
+UNKNOWN,visa,LA PLATA,56
+UNKNOWN,visa,CARILO,1
+UNKNOWN,visa,URDINARRAIN,1
+UNKNOWN,visa,GONNET,3
+UNKNOWN,visa,LA PAZ,1
+UNKNOWN,visa,CITY BELL,1
+UNKNOWN,visa,VILLA GESELL,4
+UNKNOWN,visa,VILLA ANGELA,1
+UNKNOWN,visa,BERAZATEGUI,5
+UNKNOWN,visa,RANELAGH,1
+UNKNOWN,visa,FLORENCIO VARELA,9
+UNKNOWN,visa,QUILMES,37
+UNKNOWN,visa,BERNAL,7
+UNKNOWN,visa,VILLA MITRE,2
+UNKNOWN,visa,WILDE,8
+UNKNOWN,visa,DOCK SUD,1
+UNKNOWN,visa,CAPITAL FEDERAL,460
+UNKNOWN,visa,RETIRO,45
+UNKNOWN,visa,PUERTO GALVAN,2
+UNKNOWN,visa,MICROCENTRO,73
+UNKNOWN,visa,FLORIDA,6
+UNKNOWN,visa,PUERTO MADERO,1
+UNKNOWN,visa,SAN NICOLAS,13
+UNKNOWN,visa,SAENZ PENA,3
+UNKNOWN,visa,SAN TELMO,15
+UNKNOWN,visa,BOCA,4
+UNKNOWN,visa,VILLA DOMINICO,1
+UNKNOWN,visa,RECOLETA,69
+UNKNOWN,visa,AVELLANEDA,24
+UNKNOWN,visa,MARTINEZ,26
+UNKNOWN,visa,MONSERRAT,15
+UNKNOWN,visa,BARRACAS,18
+UNKNOWN,visa,SAN FRANCISCO SOLANO,2
+UNKNOWN,visa,HAEDO,8
+UNKNOWN,visa,PALERMO,56
+UNKNOWN,visa,CONGRESO,20
+UNKNOWN,visa,CONSTITUCION,12
+UNKNOWN,visa,BALVANERA,31
+UNKNOWN,visa,MISIONES,1
+UNKNOWN,visa,LANUS,19
+UNKNOWN,visa,BANFIELD,11
+UNKNOWN,visa,TRIBUNALES,19
+UNKNOWN,visa,COSTANERA,1
+UNKNOWN,visa,SPEGAZZINI,1
+UNKNOWN,visa,SAN CRISTOBAL,10
+UNKNOWN,visa,GERLI,4
+UNKNOWN,visa,ALMAGRO,23
+UNKNOWN,visa,TEMPERLEY,5
+UNKNOWN,visa,BELGRANO,46
+UNKNOWN,visa,MONTE CHINGOLO,1
+UNKNOWN,visa,PARQUE PATRICIOS,6
+UNKNOWN,visa,BOEDO,10
+UNKNOWN,visa,CABALLITO,32
+UNKNOWN,visa,COLEGIALES,14
+UNKNOWN,visa,NUNEZ,7
+UNKNOWN,visa,NUÑEZ,5
+UNKNOWN,visa,VALENTIN ALSINA,5
+UNKNOWN,visa,DOLORES,2
+UNKNOWN,visa,NUEVA POMPEYA,9
+UNKNOWN,visa,CHACARITA,9
+UNKNOWN,visa,VILLA CRESPO,17
+UNKNOWN,visa,VICENTE LOPEZ,21
+UNKNOWN,visa,OLIVOS,23
+UNKNOWN,visa,RAFAEL CALZADA,1
+UNKNOWN,visa,ACASUSSO,11
+UNKNOWN,visa,SAAVEDRA,11
+UNKNOWN,visa,REMEDIOS DE ESCALADA,2
+UNKNOWN,visa,PARQUE CHACABUCO,6
+UNKNOWN,visa,SAN ISIDRO,27
+UNKNOWN,visa,VILLA SOLDATI,3
+UNKNOWN,visa,LA LUCILA,1
+UNKNOWN,visa,VILLA BALLESTER,8
+UNKNOWN,visa,BOULOGNE,8
+UNKNOWN,visa,SAN JUSTO,20
+UNKNOWN,visa,LOMAS DEL MIRADOR,5
+UNKNOWN,visa,LAVALLOL,7
+UNKNOWN,visa,ITUZAINGO,10
+UNKNOWN,visa,CASTELAR,8
+UNKNOWN,visa,VILLA LUGANO,9
+UNKNOWN,visa,VILLA URQUIZA,16
+UNKNOWN,visa,VILLA ORTUZAR,3
+UNKNOWN,visa,LA PATERNAL,8
+UNKNOWN,visa,BURZACO,5
+UNKNOWN,visa,COGHLAN,2
+UNKNOWN,visa,BECCAR,5
+UNKNOWN,visa,LOMAS DE ZAMORA,21
+UNKNOWN,visa,ADROGUE,12
+UNKNOWN,visa,FLORES,19
+UNKNOWN,visa,PARQUE CHAS,1
+UNKNOWN,visa,VICTORIA,4
+UNKNOWN,visa,MUNRO,12
+UNKNOWN,visa,LONGCHAMPS,5
+UNKNOWN,visa,VILLA DEL PARQUE,12
+UNKNOWN,visa,VILLA PUEYRREDON,8
+UNKNOWN,visa,VILLA MARTELLI,4
+UNKNOWN,visa,PARQUE AVELLANEDA,2
+UNKNOWN,visa,FLORESTA,9
+UNKNOWN,visa,TURDERA,1
+UNKNOWN,visa,VILLA DEVOTO,16
+UNKNOWN,visa,TIGRE,16
+UNKNOWN,visa,LLAVALLOL,2
+UNKNOWN,visa,VELEZ SARSFIELD,2
+UNKNOWN,visa,MATADEROS,14
+UNKNOWN,visa,BRANDSEN,1
+UNKNOWN,visa,MONTE CASTRO,2
+UNKNOWN,visa,VILLA ADELINA,6
+UNKNOWN,visa,VILLA LURO,3
+UNKNOWN,visa,GLEW,1
+UNKNOWN,visa,VILLA LYNCH,1
+UNKNOWN,visa,LUIS GUILLON,3
+UNKNOWN,visa,VILLA REAL,2
+UNKNOWN,visa,MONTE GRANDE,8
+UNKNOWN,visa,SAN ANDRES,1
+UNKNOWN,visa,LINIERS,12
+UNKNOWN,visa,VERSAILLES,1
+UNKNOWN,visa,SANTOS LUGARES,1
+UNKNOWN,visa,TAPIALES,2
+UNKNOWN,visa,CASEROS,8
+UNKNOWN,visa,DON TORCUATO,3
+UNKNOWN,visa,CIUDADELA,4
+UNKNOWN,visa,ALDO BONZI,2
+UNKNOWN,visa,VILLA BOSCH,3
+UNKNOWN,visa,GENERAL PACHECO,10
+UNKNOWN,visa,BENAVIDEZ,1
+UNKNOWN,visa,GRAL. PACHECO,3
+UNKNOWN,visa,CIUDAD EVITA,1
+UNKNOWN,visa,LA TABLADA,1
+UNKNOWN,visa,MORON,23
+UNKNOWN,visa,RAMOS MEJIA,13
+UNKNOWN,visa,LOMA HERMOSA,1
+UNKNOWN,visa,CIUDAD JARDIN,1
+UNKNOWN,visa,EL PALOMAR,3
+UNKNOWN,visa,GONZALEZ CATAN,1
+UNKNOWN,visa,TALAR DE PACHECO,1
+UNKNOWN,visa,EZEIZA,8
+UNKNOWN,visa,HURLINGHAM,9
+UNKNOWN,visa,CHARATA,1
+UNKNOWN,visa,ISIDRO CASANOVA,1
+UNKNOWN,visa,GARIN,7
+UNKNOWN,visa,LOS POLVORINES,1
+UNKNOWN,visa,TORTUGUITAS,5
+UNKNOWN,visa,LAFERRERE,2
+UNKNOWN,visa,ING. MASCHWITZ,2
+UNKNOWN,visa,ESCOBAR,8
+UNKNOWN,visa,SAN MIGUEL DE TUCUMAN,34
+UNKNOWN,visa,GRAN BOURG,1
+UNKNOWN,visa,GRAND BOURG,1
+UNKNOWN,visa,PILAR,27
+UNKNOWN,visa,SAN ANTONIO DE PADUA,1
+UNKNOWN,visa,GUALEGUAY,2
+UNKNOWN,visa,DEL VISO,1
+UNKNOWN,visa,MERLO,6
+UNKNOWN,visa,CAMPANA,12
+UNKNOWN,visa,PRESIDENTE DERQUI,2
+UNKNOWN,visa,MORENO,10
+UNKNOWN,visa,ZARATE,8
+UNKNOWN,visa,CANUELAS,3
+UNKNOWN,visa,GENERAL RODRIGUEZ,2
+UNKNOWN,visa,VILLANUEVA,1
+UNKNOWN,visa,NOGOYA,2
+UNKNOWN,visa,VIALE,1
+UNKNOWN,visa,CAPILLA DEL SENOR,1
+UNKNOWN,visa,GENERAL BELGRANO,1
+UNKNOWN,visa,MAR DEL PLATA,57
+UNKNOWN,visa,GENERAL LAS HERAS,2
+UNKNOWN,visa,LUJAN,9
+UNKNOWN,visa,LUJAN DE CUYO,8
+UNKNOWN,visa,BARADERO,1
+UNKNOWN,visa,BATAN,1
+UNKNOWN,visa,SAN PEDRO,3
+UNKNOWN,visa,SAN ANTONIO DE ARECO,2
+UNKNOWN,visa,CRESPO,2
+UNKNOWN,visa,LOBOS,1
+UNKNOWN,visa,ENTRE R-OS,2
+UNKNOWN,visa,MERCEDES,4
+UNKNOWN,visa,SANTA FÉ,95
+UNKNOWN,visa,RAMALLO,1
+UNKNOWN,visa,SANTA F,4
+UNKNOWN,visa,VILLA RAMALLO,1
+UNKNOWN,visa,SANTO TOME,3
+UNKNOWN,visa,BALCARCE,2
+UNKNOWN,visa,DIAMANTE,1
+UNKNOWN,visa,ESPERANZA,5
+UNKNOWN,visa,VILLA CONSTITUCION,6
+UNKNOWN,visa,FRANK,1
+UNKNOWN,visa,ARRECIFES,2
+UNKNOWN,visa,ROSARIO,122
+UNKNOWN,visa,ARROYO SECO,1
+UNKNOWN,visa,VILLA GOBERNADOR GALVEZ,7
+UNKNOWN,visa,TUCUMAN,53
+UNKNOWN,visa,ALVEAR,1
+UNKNOWN,visa,SAN LORENZO,4
+UNKNOWN,visa,FRAY LUIS BELTRAN,1
+UNKNOWN,visa,CAPITAN BERMUDEZ,2
+UNKNOWN,visa,SALADILLO,1
+UNKNOWN,visa,ROSARIO DEL TALA,1
+UNKNOWN,visa,MACIEL,1
+UNKNOWN,visa,SALTO,1
+UNKNOWN,visa,CHIVILCOY,4
+UNKNOWN,visa,FUNES,1
+UNKNOWN,visa,SUNCHALES,3
+UNKNOWN,visa,TANDIL,11
+UNKNOWN,visa,PERGAMINO,9
+UNKNOWN,visa,RAFAELA,7
+UNKNOWN,visa,SAN RAFAEL,12
+UNKNOWN,visa,ZABALLA,1
+UNKNOWN,visa,TARTAGAL,1
+UNKNOWN,visa,PEYRANO,1
+UNKNOWN,visa,TOTORAS,1
+UNKNOWN,visa,NECOCHEA,8
+UNKNOWN,visa,CHACABUCO,3
+UNKNOWN,visa,CARCARANA,1
+UNKNOWN,visa,25 DE MAYO,1
+UNKNOWN,visa,SAN GENARO,1
+UNKNOWN,visa,ROJAS,1
+UNKNOWN,visa,CASILDA,2
+UNKNOWN,visa,VILLA RAMIREZ,1
+UNKNOWN,visa,VILLA TESSEI,1
+UNKNOWN,visa,VILLA INSUPERABLE,1
+UNKNOWN,visa,MORTEROS,1
+UNKNOWN,visa,CANADA ROSQUIN,1
+UNKNOWN,visa,VILLA CACIQUE,1
+UNKNOWN,visa,BRAGADO,1
+UNKNOWN,visa,ALCORTA,1
+UNKNOWN,visa,BRINKMANN,1
+UNKNOWN,visa,AZUL,6
+UNKNOWN,visa,CANADA DE GOMEZ,2
+UNKNOWN,visa,LAS ROSAS,1
+UNKNOWN,visa,LAS PAREJAS,1
+UNKNOWN,visa,EL TREBOL,1
+UNKNOWN,visa,CHABAS,1
+UNKNOWN,visa,CARLOS PELLEGRINI,1
+UNKNOWN,visa,FERREYRA,2
+UNKNOWN,visa,SAN JORGE,1
+UNKNOWN,visa,FREYRE,1
+UNKNOWN,visa,WHEELWRIGHT,1
+UNKNOWN,visa,AREQUITO,1
+UNKNOWN,visa,MENDOZA,123
+UNKNOWN,visa,ARMSTRONG,2
+UNKNOWN,visa,JUNIN,6
+UNKNOWN,visa,SAN FRANCISCO,10
+UNKNOWN,visa,CRDOBA,9
+UNKNOWN,visa,BENITO JUAREZ,1
+UNKNOWN,visa,ORAN,1
+UNKNOWN,visa,SALTA,44
+UNKNOWN,visa,9 DE JULIO,3
+UNKNOWN,visa,VILLA LIBERTADOR SAN MARTIN,1
+UNKNOWN,visa,FIRMAT,2
+UNKNOWN,visa,LOS NOGALES,1
+UNKNOWN,visa,SIERRAS BAYAS,1
+UNKNOWN,visa,PUERTO SAN MARTIN,1
+UNKNOWN,visa,SAN JOSE DE LA ESQUINA,1
+UNKNOWN,visa,DEVOTO,1
+UNKNOWN,visa,EL TALAR,1
+UNKNOWN,visa,OLAVARRIA,13
+UNKNOWN,visa,MARCOS JUAREZ,2
+UNKNOWN,visa,LINCOLN,3
+UNKNOWN,visa,VENADO TUERTO,9
+UNKNOWN,visa,CORRAL DE BUSTOS,1
+UNKNOWN,visa,BOLIVAR,2
+UNKNOWN,visa,CARLOS CASARES,1
+UNKNOWN,visa,LAS VARILLAS,1
+UNKNOWN,visa,TRES ARROYOS,10
+UNKNOWN,visa,ARROYITO,2
+UNKNOWN,visa,BELL VILLE,1
+UNKNOWN,visa,MONTE MAIZ,1
+UNKNOWN,visa,LA BANDA,1
+UNKNOWN,visa,SANTIAGO DEL ESTERO,13
+UNKNOWN,visa,JUJUY,10
+UNKNOWN,visa,PEHUAJO,3
+UNKNOWN,visa,VILLA MARIA,9
+UNKNOWN,visa,RIO SEGUNDO,1
+UNKNOWN,visa,RUFINO,1
+UNKNOWN,visa,CORONEL PRINGLES,1
+UNKNOWN,visa,OLIVA,1
+UNKNOWN,visa,EL CARRIL,1
+UNKNOWN,visa,CRUZ ALTA,1
+UNKNOWN,visa,MONTE CRISTO,1
+UNKNOWN,visa,BANDA DEL RIO SALI,2
+UNKNOWN,visa,JESUS MARIA,4
+UNKNOWN,visa,TUCUMN,2
+UNKNOWN,visa,HERNANDO,1
+UNKNOWN,visa,CORONEL SUAREZ,2
+UNKNOWN,visa,YERBA BUENA,3
+UNKNOWN,visa,CORDOBA,180
+UNKNOWN,visa,CORDOBA - PUEYRREDON,2
+UNKNOWN,visa,CORDOBA - VILLA CABRERA,4
+UNKNOWN,visa,CÓRDOBA,68
+UNKNOWN,visa,CORDOBA - MAIPU,3
+UNKNOWN,visa,CORDOBA - VILLA ARGENTINA,2
+UNKNOWN,visa,CORDOBA - GENERAL PAZ,2
+UNKNOWN,visa,CORDOBA - GENERAL BUSTOS,2
+UNKNOWN,visa,LULES,1
+UNKNOWN,visa,CORDOBA - NUEVA CORDOBA,4
+UNKNOWN,visa,CORDOBA - CENTRO,21
+UNKNOWN,visa,CORDOBA - ALTA CORDOBA,1
+UNKNOWN,visa,CENTRO,1
+UNKNOWN,visa,CORDOBA - BARRIO JARDIN,2
+UNKNOWN,visa,GENERAL VILLEGAS,1
+UNKNOWN,visa,CORDOBA - LOS PARAISOS,1
+UNKNOWN,visa,CORDOBA - SAN MARTIN,1
+UNKNOWN,visa,CORDOBA - GRANJA DE FUNES,1
+UNKNOWN,visa,GENERAL DEHEZA,1
+UNKNOWN,visa,CORDOBA - ALTO ALBERDI,7
+UNKNOWN,visa,CORDOBA - CERRO DE LAS ROSAS,10
+UNKNOWN,visa,CORDOBA - LAS FLORES,1
+UNKNOWN,visa,CORDOBA - ARGUELLO,2
+UNKNOWN,visa,CORDOBA - LA CANADA,1
+UNKNOWN,visa,CORDOBA - SANTA ISABEL,1
+UNKNOWN,visa,TRENQUE LAUQUEN,2
+UNKNOWN,visa,LABOULAYE,2
+UNKNOWN,visa,VILLA ALLENDE,3
+UNKNOWN,visa,FAMAILLA,1
+UNKNOWN,visa,CORDOBA - INDUSTRIAL,1
+UNKNOWN,visa,RIO TERCERO,7
+UNKNOWN,visa,MALAGUENO,1
+UNKNOWN,visa,MONTEROS,1
+UNKNOWN,visa,LA FALDA,1
+UNKNOWN,visa,VILLA CARLOS PAZ,9
+UNKNOWN,visa,ALTA GRACIA,4
+UNKNOWN,visa,PIGUE,1
+UNKNOWN,visa,SAN CARLOS,2
+UNKNOWN,visa,EL ALTO,1
+UNKNOWN,visa,CARHUE,1
+UNKNOWN,visa,PUNTA ALTA,1
+UNKNOWN,visa,VILLA GENERAL BELGRANO,1
+UNKNOWN,visa,RIO CUARTO,14
+UNKNOWN,visa,BAHIA BLANCA,29
+UNKNOWN,visa,CATAMARCA,8
+UNKNOWN,visa,GENERAL PICO,5
+UNKNOWN,visa,VILLA DOLORES,1
+UNKNOWN,visa,SANTA ROSA,7
+UNKNOWN,visa,VILLA MERCEDES,12
+UNKNOWN,visa,VIEDMA,2
+UNKNOWN,visa,LA RIOJA,10
+UNKNOWN,visa,POTRERO DE LOS FUNES,1
+UNKNOWN,visa,SAN LUIS,23
+UNKNOWN,visa,CHOELE CHOEL,1
+UNKNOWN,visa,LAMARQUE,1
+UNKNOWN,visa,CHIMPAY II,1
+UNKNOWN,visa,SAN JUAN,63
+UNKNOWN,visa,ONCE,1
+UNKNOWN,visa,VILLA KRAUSE,1
+UNKNOWN,visa,GENERAL ALVEAR,2
+UNKNOWN,visa,PUERTO MADRYN,6
+UNKNOWN,visa,RIVADAVIA,1
+UNKNOWN,visa,MAIPU,6
+UNKNOWN,visa,TRELEW,7
+UNKNOWN,visa,GUAYMALLEN,7
+UNKNOWN,visa,LAS HERAS,3
+UNKNOWN,visa,GODOY CRUZ,22
+UNKNOWN,visa,VILLA REGINA,1
+UNKNOWN,visa,RIO NEGRO,4
+UNKNOWN,visa,TUNUYAN,2
+UNKNOWN,visa,TUPUNGATO,1
+UNKNOWN,visa,USPALLATA,1
+UNKNOWN,visa,BARRIO NORTE,2
+UNKNOWN,visa,GENERAL ROCA,7
+UNKNOWN,visa,ALLEN,2
+UNKNOWN,visa,R-O NEGRO,1
+UNKNOWN,visa,RÍO NEGRO,1
+UNKNOWN,visa,CIPOLLETTI,4
+UNKNOWN,visa,NEUQUÉN,8
+UNKNOWN,visa,NEUQUN,4
+UNKNOWN,visa,LAS LENAS,2
+UNKNOWN,visa,CUTRAL-CO,1
+UNKNOWN,visa,COMODORO RIVADAVIA,13
+UNKNOWN,visa,ZAPALA,2
+UNKNOWN,visa,CALETA OLIVIA,1
+UNKNOWN,visa,CAPITAN SARMIENTO,1
+UNKNOWN,visa,TROPEZON,1
+UNKNOWN,visa,SAN MARTIN DE LOS ANDES,1
+UNKNOWN,visa,BARILOCHE,9
+UNKNOWN,visa,ESQUEL,1
+UNKNOWN,visa,RIO GRANDE,3
+UNKNOWN,visa,RIO GALLEGOS,8
+UNKNOWN,visa,USHUAIA,2
+UNKNOWN,visa,USUAHIA,1
+JUJUY,western_union,Fraile Pintado,6
+SALTA,western_union,Oran,8
+SALTA,western_union,Colonia Santa Rosa,3
+SALTA,western_union,General Enrique Mosconi,1
+SALTA,western_union,Tartagal,2
+SALTA,western_union,Aguaray,1
+SALTA,western_union,P Salvador Mazza Est Poci,2
+SALTA,western_union,Salvador Mazza,1
+SALTA,western_union,San Ramon De La Nueva Ora,1
+JUJUY,western_union,El Carmen,2
+JUJUY,western_union,Lib Gral San Martin,4
+JUJUY,western_union,Palpala,3
+JUJUY,western_union,San Salvador De Jujuy,40
+JUJUY,western_union,Alto Comedero,4
+JUJUY,western_union,Atalaya,1
+JUJUY,western_union,Ledesma,1
+JUJUY,western_union,Barrio Cuyaya,1
+JUJUY,western_union,Volcan,1
+JUJUY,western_union,Lozano,1
+JUJUY,western_union,Yala,1
+JUJUY,western_union,Humahuaca,2
+JUJUY,western_union,Uquia,1
+SALTA,western_union,San Antonio De Los Cobres,1
+JUJUY,western_union,Tilcara,2
+JUJUY,western_union,Purmamarca,1
+JUJUY,western_union,La Quiaca,7
+JUJUY,western_union,Abra Pampa,1
+JUJUY,western_union,Susques,1
+CATAMARCA,western_union,Tinogasta,4
+CATAMARCA,western_union,Fiambala,1
+CATAMARCA,western_union,Londres,1
+LARIOJA,western_union,Alpasinche,1
+LARIOJA,western_union,Salicas - San Blas,1
+LARIOJA,western_union,Salicas San Blas,1
+CATAMARCA,western_union,Belen,4
+LARIOJA,western_union,Aimogasta,4
+SANTIAGODELESTERO,western_union,Monte Quemado,6
+SANTIAGODELESTERO,western_union,Pampa De Los Guanacos,4
+SANTIAGODELESTERO,western_union,Campo Gallo,1
+CHACO,western_union,Taco Pozo,3
+SANTIAGODELESTERO,western_union,Sachayoj,2
+CORDOBA,western_union,Alicia,1
+CORDOBA,western_union,Las Varas,1
+CORDOBA,western_union,Trinchera,1
+CORDOBA,western_union,Las Varillas,5
+SANTAFE,western_union,San Jorge,5
+CORDOBA,western_union,Noetinger,1
+CORDOBA,western_union,Chilibroste,1
+CORRIENTES,western_union,Yapeyu,1
+CORRIENTES,western_union,Paso De Los Libres,9
+CORRIENTES,western_union,La Cruz,2
+CORRIENTES,western_union,Alvear,1
+SANTIAGODELESTERO,western_union,La Banda,7
+SANTIAGODELESTERO,western_union,Santiago Del Estero,24
+TUCUMAN,western_union,Burruyacu,1
+SANTIAGODELESTERO,western_union,Loreto,4
+FORMOSA,western_union,Gral Manuel Belgrano,1
+FORMOSA,western_union,General Manuel Belgrano,1
+SALTA,western_union,Salta,51
+TUCUMAN,western_union,Simoca,2
+SALTA,western_union,Embarcacion,2
+SALTA,western_union,Rosario De Lerma,2
+SALTA,western_union,Cerrillos,2
+TUCUMAN,western_union,Famailla,2
+SALTA,western_union,Caldera,1
+SALTA,western_union,Pichanal,1
+SANTIAGODELESTERO,western_union,Arenales,1
+SANTIAGODELESTERO,western_union,Fernandez,3
+MISIONES,western_union,2 De Mayo,3
+MISIONES,western_union,Puerto Rico,5
+MISIONES,western_union,Campo Viera,1
+ENTRERIOS,western_union,1 De Mayo,1
+SANTAFE,western_union,La Criolla,1
+MISIONES,western_union,Ruiz De Montoya,1
+MISIONES,western_union,Capiovi,1
+SANTAFE,western_union,Vera,3
+CORRIENTES,western_union,Esquina,12
+BUENOSAIRES,western_union,Capitan Sarmiento,4
+SANLUIS,western_union,Justo Daract,3
+BUENOSAIRES,western_union,Chacabuco,2
+MISIONES,western_union,Campo Grande,1
+MISIONES,western_union,Garuhape,1
+MISIONES,western_union,Puerto Iguazu,6
+MISIONES,western_union,Aristobulo Del Valle,5
+MISIONES,western_union,Montecarlo,4
+MISIONES,western_union,Eldorado,3
+MISIONES,western_union,El Dorado,5
+MISIONES,western_union,Wanda,2
+MISIONES,western_union,Puerto Piray,2
+MISIONES,western_union,Puerto Esperanza,2
+MISIONES,western_union,Libertad,1
+MISIONES,western_union,25 De Mayo,2
+MISIONES,western_union,Santa Rita,1
+MISIONES,western_union,Salto Encantado,1
+MISIONES,western_union,Colonia Aurora,1
+MISIONES,western_union,El Soberbio,3
+MISIONES,western_union,San Vicente,13
+MISIONES,western_union,Comandante Andresito,2
+MISIONES,western_union,San Pedro,7
+MISIONES,western_union,Bernardo De Irigoyen,4
+MISIONES,western_union,San Antonio,1
+ENTRERIOS,western_union,Villaguay,6
+ENTRERIOS,western_union,Colon,8
+ENTRERIOS,western_union,San Jose,2
+ENTRERIOS,western_union,Villa Elisa,4
+ENTRERIOS,western_union,Bovril,4
+ENTRERIOS,western_union,Villa Clara,1
+ENTRERIOS,western_union,Santa Elena,2
+CHACO,western_union,La Leonesa,2
+SANTAFE,western_union,San Javier,3
+CHACO,western_union,Colonia Benitez,1
+CHACO,western_union,Puerto Tirol,2
+CHACO,western_union,Margarita Belen,1
+MISIONES,western_union,Jardin America,4
+CORRIENTES,western_union,Corrientes,21
+CHACO,western_union,Barranqueras,1
+ENTRERIOS,western_union,San Salvador,4
+MISIONES,western_union,Colonia Alberdi,1
+SANTAFE,western_union,Alejandra,1
+CORRIENTES,western_union,Paso De La Patria,1
+MISIONES,western_union,Obera,19
+SANTAFE,western_union,Villa Ana,1
+CHACO,western_union,Resistencia,12
+CHACO,western_union,Fontana,3
+ENTRERIOS,western_union,Arroyo Baru,1
+SANTAFE,western_union,Reconquista,14
+SANTAFE,western_union,Avellaneda,3
+CORRIENTES,western_union,San Luis Del Palmar,3
+ENTRERIOS,western_union,La Paz,4
+SANTAFE,western_union,Florencia,1
+CORRIENTES,western_union,Riachuelo,2
+CORRIENTES,western_union,Itati,1
+MISIONES,western_union,San Ignacio,1
+MISIONES,western_union,Santo Pipo,1
+MISIONES,western_union,Santa Ana,1
+SANTAFE,western_union,Villa Guillermina,1
+CORRIENTES,western_union,Doctor Felix Maria Gomez,1
+CORRIENTES,western_union,Corriente,1
+MISIONES,western_union,Posadas,35
+CORRIENTES,western_union,Libertador,1
+ENTRERIOS,western_union,Puerto Yerua,1
+ENTRERIOS,western_union,Concordia,8
+MISIONES,western_union,Garupa,3
+ENTRERIOS,western_union,Federal,3
+MISIONES,western_union,Garupa Norte,2
+SANTAFE,western_union,Las Toscas,1
+MISIONES,western_union,Leandro N Alem,6
+MISIONES,western_union,Cerro Azul,3
+MISIONES,western_union,San Javier,5
+MISIONES,western_union,Candelaria,2
+CORRIENTES,western_union,Empedrado,1
+CORRIENTES,western_union,Goya,14
+CORRIENTES,western_union,Bella Vista,8
+CORRIENTES,western_union,Santa Lucia,5
+CORRIENTES,western_union,Beron De Astrada,1
+ENTRERIOS,western_union,Los Charruas,1
+CORRIENTES,western_union,Ita Ibate,1
+CORRIENTES,western_union,Saladas,5
+CORRIENTES,western_union,San Lorenzo,1
+MISIONES,western_union,Concepcion De La Sierra,1
+CORRIENTES,western_union,San Carlos,1
+MISIONES,western_union,San Jose,2
+CORRIENTES,western_union,Curuzu Cuatia,5
+CORRIENTES,western_union,Mercedes,2
+CORRIENTES,western_union,Mariano I Losas Est Solari,1
+CORRIENTES,western_union,Santo Tome,3
+CORRIENTES,western_union,Felipe Yofre,1
+CORRIENTES,western_union,Concepcion,1
+CORRIENTES,western_union,Perugorria,2
+CORRIENTES,western_union,Mocoreta,2
+CORRIENTES,western_union,Ituzaingo,3
+SANLUIS,western_union,La Toma,2
+SANLUIS,western_union,Canteras Santa Isabel,1
+SANTIAGODELESTERO,western_union,Bandera,2
+CORDOBA,western_union,Del Campillo,1
+BUENOSAIRES,western_union,Junin,18
+BUENOSAIRES,western_union,Piedritas,1
+BUENOSAIRES,western_union,Salto,3
+CORDOBA,western_union,Jovita,1
+ENTRERIOS,western_union,Basavilbaso,2
+BUENOSAIRES,western_union,Emilio Bunge,1
+ENTRERIOS,western_union,Chajari,10
+CORRIENTES,western_union,Gdor Ing Valentin Viraso,5
+CORRIENTES,western_union,Gobernador Ing Valentin Viraso,1
+CORRIENTES,western_union,Gobernador Virasoro,2
+CORRIENTES,western_union,Gdor Valentin Viraso,1
+CORRIENTES,western_union,Loreto,1
+CORRIENTES,western_union,Sauce,2
+ENTRERIOS,western_union,Federacion,4
+CORRIENTES,western_union,San Roque,2
+CORRIENTES,western_union,Mburucuya,3
+ENTRERIOS,western_union,San Jose De Feliciano,1
+MISIONES,western_union,Apostoles,6
+CORDOBA,western_union,Hipolito Bouchard,1
+ENTRERIOS,western_union,Urdinarrain,1
+CORDOBA,western_union,Mattaldi,1
+BUENOSAIRES,western_union,Lincoln,4
+ENTRERIOS,western_union,Larroque,1
+SANLUIS,western_union,Quines,1
+BUENOSAIRES,western_union,Baradero,2
+SANLUIS,western_union,Candelaria,1
+ENTRERIOS,western_union,San Jaime De La Frontera,1
+CORRIENTES,western_union,San Miguel,1
+CORRIENTES,western_union,Santa Rosa,2
+ENTRERIOS,western_union,Villa Del Rosario,2
+ENTRERIOS,western_union,Gualeguay,5
+BUENOSAIRES,western_union,Arrecifes,7
+BUENOSAIRES,western_union,Santa Lucia,2
+SANTIAGODELESTERO,western_union,Pinto - Villa General Mit,1
+SANTIAGODELESTERO,western_union,Pinto,1
+BUENOSAIRES,western_union,San Pedro,6
+CORRIENTES,western_union,Monte Caseros,4
+BUENOSAIRES,western_union,Mercedes,9
+SANTIAGODELESTERO,western_union,Sumampa,2
+SANLUIS,western_union,Naschel,2
+CORDOBA,western_union,Chajan,1
+BUENOSAIRES,western_union,Rojas,7
+CORDOBA,western_union,Suco,1
+BUENOSAIRES,western_union,Vedia,3
+CORDOBA,western_union,Vicuna Mackenna,3
+SANLUIS,western_union,Tilisarao,5
+BUENOSAIRES,western_union,Doyle,1
+BUENOSAIRES,western_union,Coronel Charlone,1
+CORDOBA,western_union,Los Cerrillos,1
+BUENOSAIRES,western_union,Leandro N Alem,2
+ENTRERIOS,western_union,Rosario Del Tala,3
+SANTIAGODELESTERO,western_union,Ojo De Agua,2
+SANTIAGODELESTERO,western_union,Villa Ojo De Agua,3
+CORDOBA,western_union,Serrano,2
+SANTAFE,western_union,Tostado,2
+BUENOSAIRES,western_union,Pergamino,15
+BUENOSAIRES,western_union,Ramallo,1
+CORDOBA,western_union,Cruz Del Eje,10
+CORDOBA,western_union,Villa Dolores,9
+SANTAFE,western_union,San Gregorio,1
+SANLUIS,western_union,Papagayos,1
+CORDOBA,western_union,Ambul,1
+BUENOSAIRES,western_union,Arribenos,1
+SANTIAGODELESTERO,western_union,Sol De Julio,3
+SANLUIS,western_union,Concaran,2
+SANTIAGODELESTERO,western_union,Malbran,1
+CORDOBA,western_union,Achiras,2
+BUENOSAIRES,western_union,Perez Millan,2
+CORDOBA,western_union,Pueblo Sarmiento,2
+CORDOBA,western_union,Salsacate,3
+ENTRERIOS,western_union,Macia,3
+CORDOBA,western_union,General Levalle,1
+CORDOBA,western_union,General Lavalle,1
+BUENOSAIRES,western_union,Ascension,1
+BUENOSAIRES,western_union,General Arenales,2
+SANLUIS,western_union,Santa Rosa De Conlara,3
+CORDOBA,western_union,Sampacho,4
+SANLUIS,western_union,Merlo,9
+SANTAFE,western_union,Rufino,3
+CORDOBA,western_union,Villa De Las Rosas,2
+SANLUIS,western_union,Carpinteria,2
+SANLUIS,western_union,Cortaderas,2
+CORDOBA,western_union,San Carlos Minas,1
+SANLUIS,western_union,Villa Del Carmen,1
+CORDOBA,western_union,La Cautiva,1
+CORDOBA,western_union,Bulnes,1
+CORDOBA,western_union,Villa De Soto,3
+CORDOBA,western_union,Quilino,1
+CORDOBA,western_union,Coronel Moldes,1
+CORDOBA,western_union,Capilla Del Monte,3
+BUENOSAIRES,western_union,Colon,9
+BUENOSAIRES,western_union,La Emilia,2
+CORDOBA,western_union,Santa Catalina,1
+CORDOBA,western_union,Holmberg,2
+BUENOSAIRES,western_union,San Nicolas De Los Arroyos,12
+CORDOBA,western_union,Adela Maria,2
+SANLUIS,western_union,Los Molles,1
+CORDOBA,western_union,La Paz,1
+CORDOBA,western_union,Laboulaye,4
+CORDOBA,western_union,Villa De Maria Del Rio Seco,1
+SANLUIS,western_union,Villa Larca,1
+ENTRERIOS,western_union,Lucas Gonzalez,2
+BUENOSAIRES,western_union,Ferre,1
+CORDOBA,western_union,Rio Cuarto,25
+SANTAFE,western_union,Villa Constitucion,10
+CORDOBA,western_union,La Cumbre,2
+CORDOBA,western_union,San Jose De La Dormida,1
+ENTRERIOS,western_union,Hasenkamp,1
+CORDOBA,western_union,Los Cocos,1
+SANTAFE,western_union,J B Molina,1
+ENTRERIOS,western_union,Nogoya,5
+SANTIAGODELESTERO,western_union,Selva,2
+CORDOBA,western_union,Dean Funes,10
+BUENOSAIRES,western_union,General Conesa,1
+CORDOBA,western_union,San Javier,1
+CORDOBA,western_union,Villa Cura Brochero,3
+SANTAFE,western_union,Teodolina,3
+CORDOBA,western_union,La Falda,6
+ENTRERIOS,western_union,Maria Grande,2
+SANTAFE,western_union,Wheelwright,1
+CORDOBA,western_union,Huanchilla,1
+SANTAFE,western_union,Helvecia,1
+SANTAFE,western_union,Marcelino Escalada,1
+SANTAFE,western_union,Ceres,3
+CORDOBA,western_union,San Basilio,3
+CORDOBA,western_union,Mina Clavero,4
+CORDOBA,western_union,Nono,1
+CORDOBA,western_union,San Marcos Sierra,1
+BUENOSAIRES,western_union,Mariano H Alfonzo,1
+SANTAFE,western_union,Gobernador Crespo,3
+CORDOBA,western_union,Candelaria,1
+CORDOBA,western_union,Villa Carlos Paz,14
+CORDOBA,western_union,Cordoba,193
+CORDOBA,western_union,Bialet Masse,3
+CORDOBA,western_union,Villa Del Totoral,3
+CORDOBA,western_union,San Antonio De Arredondo,1
+CORDOBA,western_union,Villa Santa Cruz Del Lago,3
+CORDOBA,western_union,Cosquin,5
+CORDOBA,western_union,Santa Maria De Punilla,1
+SANTAFE,western_union,Fighiera,1
+CORDOBA,western_union,Las Penas,1
+CORDOBA,western_union,Valle Hermoso,3
+CORDOBA,western_union,Tanti,1
+CORDOBA,western_union,Villa Giardino,2
+CORDOBA,western_union,La Cesira,1
+CORDOBA,western_union,Marcos Juarez,12
+CORDOBA,western_union,Sebastian El Cano,1
+CORDOBA,western_union,Yacanto Calamuchita,1
+ENTRERIOS,western_union,Hernandarias,1
+CORDOBA,western_union,Alta Gracia,16
+SANTAFE,western_union,Pueblo Esther,3
+CORDOBA,western_union,Berrotaran,3
+CORDOBA,western_union,Villa Del Dique,1
+SANTAFE,western_union,Carreras,1
+BUENOSAIRES,western_union,San Justo,27
+CORDOBA,western_union,La Calera,2
+SANTAFE,western_union,San Justo,2
+ENTRERIOS,western_union,Victoria,7
+SANTAFE,western_union,Arroyo Seco,3
+CORDOBA,western_union,Los Reartes,1
+ENTRERIOS,western_union,Parana,16
+CORDOBA,western_union,Santa Monica,1
+CORDOBA,western_union,Malagueno,4
+CORDOBA,western_union,Santa Rosa De Calamuchita,5
+CORDOBA,western_union,Las Arrias,1
+CORDOBA,western_union,Villa General Belgrano,3
+ENTRERIOS,western_union,Cerrito,1
+CORDOBA,western_union,Alejandro,2
+CORDOBA,western_union,Unquillo,1
+CORDOBA,western_union,Villa Rumipal,1
+CORDOBA,western_union,Rio Ceballos,3
+SANTAFE,western_union,General Lagos,2
+CORDOBA,western_union,Elena,1
+CORDOBA,western_union,La Cruz,1
+CORDOBA,western_union,Falda De Los Reartes,1
+SANTAFE,western_union,Chovet,1
+CORDOBA,western_union,Carnerillo,2
+SANTAFE,western_union,Rosario,63
+CORDOBA,western_union,Colonia Caroya,2
+CORDOBA,western_union,San Agustin,1
+SANTAFE,western_union,Villa Gobernador Galvez,3
+CORDOBA,western_union,Estacion General Paz,1
+SANTAFE,western_union,Galvez,2
+MENDOZA,western_union,General Alvear,1
+SANTAFE,western_union,Maggiolo,1
+ENTRERIOS,western_union,General Ramirez,1
+CORDOBA,western_union,Jesus Maria,4
+SANTAFE,western_union,Venado Tuerto,7
+CORDOBA,western_union,Villa Allende,2
+CORDOBA,western_union,Saldan,1
+SANTAFE,western_union,Alvear,1
+CORDOBA,western_union,Mendiolaza,1
+CORDOBA,western_union,La Granja,1
+CORDOBA,western_union,Reduccion,1
+SANTAFE,western_union,Santa Rosa De Calchines,2
+SANTAFE,western_union,Bombal,2
+CORDOBA,western_union,Los Condores,1
+SANTAFE,western_union,Alvarez,1
+CORDOBA,western_union,Juarez Celman,1
+SANTAFE,western_union,Bigand,1
+CORDOBA,western_union,Alcira Gigena,1
+CORDOBA,western_union,El Dorado,1
+CORDOBA,western_union,Despenaderos,2
+CORDOBA,western_union,La Carlota,2
+CORDOBA,western_union,Arias,4
+CORDOBA,western_union,Canals,2
+ENTRERIOS,western_union,Crespo,3
+CORDOBA,western_union,Alta Cordoba,1
+CORDOBA,western_union,Almafuerte,2
+CORDOBA,western_union,Alejo Ledesma,2
+CORDOBA,western_union,La Para,1
+CORDOBA,western_union,General Cabrera,5
+SANTAFE,western_union,Capitan Bermudez,1
+CORDOBA,western_union,Malvinas Argentinas,1
+SANTAFE,western_union,San Guillermo,1
+CORDOBA,western_union,Corralito,1
+SANTAFE,western_union,Granadero Baigorria,2
+SANTAFE,western_union,Firmat,3
+ENTRERIOS,western_union,Libertador General San Martin,1
+CORDOBA,western_union,Rio Tercero,13
+SANTAFE,western_union,Fray Luis Beltran,2
+SANTAFE,western_union,Funes,5
+CORDOBA,western_union,Cavanagh,1
+SANTAFE,western_union,Puerto General San Martin,1
+SANTAFE,western_union,Puerto Gral San Martin,2
+CORDOBA,western_union,Monte Cristo,1
+SANTAFE,western_union,San Lorenzo,5
+SANTAFE,western_union,Laguna Paiva,1
+SANTAFE,western_union,Santa Fe,30
+ENTRERIOS,western_union,Diamante,2
+CORDOBA,western_union,Las Perdices,1
+SANTAFE,western_union,Suardi,1
+SANTAFE,western_union,Monte Vera,1
+SANTAFE,western_union,Berabevu,1
+SANTAFE,western_union,Arteaga,2
+SANTAFE,western_union,Casilda,3
+CORDOBA,western_union,Estacion Colonia Tirolesa,1
+SANTAFE,western_union,Perez,1
+SANTAFE,western_union,San Jose Del Rincon,1
+CORDOBA,western_union,Tancacha,1
+SANTAFE,western_union,Timbues Jose Maria,2
+SANTAFE,western_union,Aldao,2
+SANTAFE,western_union,Nelson,1
+SANTAFE,western_union,Sanford,1
+CORDOBA,western_union,Ucacha,2
+CORDOBA,western_union,General Deheza,3
+CORDOBA,western_union,Obispo Trejo,1
+SANTAFE,western_union,Godeken,1
+SANTAFE,western_union,Recreo,2
+CORDOBA,western_union,Rio Segundo,3
+CORDOBA,western_union,Chazon,1
+SANTAFE,western_union,Roldan,4
+CORDOBA,western_union,James Craik,1
+SANTAFE,western_union,Los Quirquinchos,1
+ENTRERIOS,western_union,Oro Verde,1
+SANTAFE,western_union,Chabas,1
+CORDOBA,western_union,Guatimozin,2
+SANTAFE,western_union,Maciel,1
+CORDOBA,western_union,Laborde,1
+SANTAFE,western_union,Sarmiento,1
+CORDOBA,western_union,Hernando,4
+SANTAFE,western_union,Santo Tome,5
+SANTAFE,western_union,Serodino,1
+CORDOBA,western_union,La Puerta,2
+SANTAFE,western_union,Carcarana,1
+SANTAFE,western_union,Humberto Primero,3
+CORDOBA,western_union,Pascanas,2
+CORDOBA,western_union,Corral De Bustos,3
+CORDOBA,western_union,Pilar,3
+CORDOBA,western_union,Villa Ascasubi,1
+CORDOBA,western_union,Morteros,4
+SANTAFE,western_union,Esperanza,4
+CORDOBA,western_union,Villa Fontana,1
+SANTAFE,western_union,San Jose De La Esquina,1
+CORDOBA,western_union,Etruria,1
+CORDOBA,western_union,Rio Primero,1
+CORDOBA,western_union,Monte Maiz,3
+CORDOBA,western_union,Isla Verde,1
+SANTAFE,western_union,Arequito,2
+MENDOZA,western_union,Las Heras,1
+CORDOBA,western_union,Oliva,2
+CORDOBA,western_union,Brinkmann,2
+SANTAFE,western_union,San Jeronimo Norte,1
+CORDOBA,western_union,Villa Del Rosario,3
+CORDOBA,western_union,Colonia Vignaud,1
+CORDOBA,western_union,Cruz Alta,4
+SANTAFE,western_union,Totoras,1
+SANTAFE,western_union,Barrancas,1
+SANTAFE,western_union,Canada De Gomez,3
+SANTAFE,western_union,Coronda,2
+SANTAFE,western_union,Humboldt,1
+SANTAFE,western_union,Sunchales,3
+CORDOBA,western_union,La Laguna,1
+CORDOBA,western_union,Oncativo,3
+CORDOBA,western_union,General Baldissera,2
+CORDOBA,western_union,Camilo Aldao,2
+SANTAFE,western_union,Ataliva,1
+CORDOBA,western_union,Pasco,1
+SANTAFE,western_union,Villa Eloisa,3
+SANTAFE,western_union,Franck,1
+CORDOBA,western_union,Ticino,1
+CORDOBA,western_union,Santa De Rio Primero,1
+CORDOBA,western_union,Santa Rosa De Rio Primero,2
+SANTAFE,western_union,Sauce Viejo,1
+CORDOBA,western_union,Ballesteros,2
+SANTAFE,western_union,Tortugas,2
+SANTAFE,western_union,Pueblo Ramona,1
+CORDOBA,western_union,Villa Maria,11
+BUENOSAIRES,western_union,Villa Luzuriaga,11
+CORDOBA,western_union,Transito,1
+CORDOBA,western_union,Colazo,1
+CORDOBA,western_union,Bell Ville,8
+SANTAFE,western_union,Montes De Oca,1
+CORDOBA,western_union,Los Zorros,1
+CORDOBA,western_union,Freyre,2
+SANTAFE,western_union,Rafaela,16
+BUENOSAIRES,western_union,Lujan,6
+CORDOBA,western_union,Monte Buey,1
+CORDOBA,western_union,Balnearia,1
+CORDOBA,western_union,Las Junturas,1
+SANTAFE,western_union,Las Parejas,2
+CORDOBA,western_union,Villa Nueva,4
+CORDOBA,western_union,Tio Pujio,2
+CORDOBA,western_union,Sacanta,1
+CORDOBA,western_union,Colonia Marina,1
+CORDOBA,western_union,Leones,3
+CORDOBA,western_union,Villa Concepcion Del Tio,1
+CORDOBA,western_union,Justiniano Posse,1
+SANTAFE,western_union,Gessler,1
+CORDOBA,western_union,Inriville,2
+SANTAFE,western_union,Colonia Bella Italia,1
+SANTAFE,western_union,Armstrong,5
+SANTAFE,western_union,San Carlos Centro,1
+CORDOBA,western_union,Matorrales,1
+CORDOBA,western_union,Idiazabal,1
+SANTAFE,western_union,Carlos Pellegrini,1
+SANTAFE,western_union,Maria Susana,1
+CORDOBA,western_union,Cintra,1
+CORDOBA,western_union,Pozo Del Molle,2
+CORDOBA,western_union,San Francisco,11
+CORDOBA,western_union,Devoto,1
+CORDOBA,western_union,El Aranado,1
+SANTAFE,western_union,Frontera,1
+CORDOBA,western_union,Colonia San Bartolome,1
+SANTAFE,western_union,El Trebol,2
+SANTAFE,western_union,Canada Rosquin,1
+CORDOBA,western_union,La Francia,2
+CORDOBA,western_union,Colonia Silvio Pellico,1
+CORDOBA,western_union,Alto Alegre,1
+SANTAFE,western_union,San Vicente,3
+CORDOBA,western_union,Morrison,1
+SANTAFE,western_union,Las Rosas,4
+CORDOBA,western_union,Calchin,2
+CORDOBA,western_union,Arroyito,6
+SALTA,western_union,La Merced,1
+SANTIAGODELESTERO,western_union,Termas De Rio Hondo,11
+JUJUY,western_union,San Pedro,6
+TUCUMAN,western_union,San Miguel De Tucuman,97
+TUCUMAN,western_union,Yerba Buena,5
+JUJUY,western_union,Pampa Blanca,1
+FORMOSA,western_union,Pirane,3
+SALTA,western_union,Cerrillo,1
+SALTA,western_union,El Carril,2
+SALTA,western_union,Huguerillas,1
+SANTIAGODELESTERO,western_union,Brea Pozo,2
+TUCUMAN,western_union,Tafi Viejo,4
+SANTAFE,western_union,Villa Minetti,1
+JUJUY,western_union,Perico,5
+TUCUMAN,western_union,Bella Vista,4
+JUJUY,western_union,Yuto,2
+JUJUY,western_union,Monterrico,2
+JUJUY,western_union,Monte Rico,1
+JUJUY,western_union,Caimancito,1
+TUCUMAN,western_union,Los Pocitos,1
+TUCUMAN,western_union,Villa Quinteros,2
+TUCUMAN,western_union,Banda Del Rio Sali,3
+TUCUMAN,western_union,Los Nogales,1
+TUCUMAN,western_union,Las Talitas,1
+SALTA,western_union,Campo Santo,1
+SANTIAGODELESTERO,western_union,Colonia Dora,1
+TUCUMAN,western_union,Manantial,1
+SANTIAGODELESTERO,western_union,Icano,1
+CHACO,western_union,La Verde,1
+FORMOSA,western_union,Mayor Vicente E Villafane,1
+FORMOSA,western_union,M E Villafane,1
+SALTA,western_union,La Florida,1
+TUCUMAN,western_union,Lules,3
+JUJUY,western_union,Santa Clara,1
+FORMOSA,western_union,Gral Mosconi,1
+SANTIAGODELESTERO,western_union,Anatuya,5
+FORMOSA,western_union,Villa Dos Trece,1
+FORMOSA,western_union,El Colorado,2
+TUCUMAN,western_union,Los Gutierrez,1
+CHACO,western_union,General Jose De San Marti,1
+CHACO,western_union,General Jose De San Martin,4
+JUJUY,western_union,El Piquete,1
+TUCUMAN,western_union,Alderetes,4
+FORMOSA,western_union,Villa General Guemes,1
+SALTA,western_union,General Guemes,4
+TUCUMAN,western_union,El Naranjo,1
+FORMOSA,western_union,Palo Santo,3
+JUJUY,western_union,Aguas Calientes,1
+CHACO,western_union,Colonia Elisa,1
+SALTA,western_union,El Tala,1
+TUCUMAN,western_union,Trancas,2
+CHACO,western_union,Villa Angela,25
+CHACO,western_union,Santa Sylvina,3
+CHACO,western_union,Machagai,2
+FORMOSA,western_union,Ibarreta,2
+CHACO,western_union,Presidencia Roque Saenz Pena,20
+CHACO,western_union,Presidencia Roque Saenz P,9
+FORMOSA,western_union,Las Lomitas,3
+SANTIAGODELESTERO,western_union,Suncho Corral,2
+CHACO,western_union,Las Garcitas,2
+SANTIAGODELESTERO,western_union,Pozo Hondo,1
+SANTIAGODELESTERO,western_union,Clodomira,1
+FORMOSA,western_union,Comandante Fontana,1
+SALTA,western_union,Rosario De La Frontera,3
+CHACO,western_union,Presidencia Roca,2
+SALTA,western_union,El Bordo,1
+SALTA,western_union,Metan,6
+CHACO,western_union,Comandante Fernandez,1
+CHACO,western_union,Hermoso Campo,2
+FORMOSA,western_union,Ingeniero Juarez,3
+CHACO,western_union,La Tigra,2
+FORMOSA,western_union,Pozo Del Tigre,2
+CHACO,western_union,Presidencia De La Plaza,4
+SANTIAGODELESTERO,western_union,Ingeniero Forres,2
+SANTIAGODELESTERO,western_union,Forres,1
+SANTIAGODELESTERO,western_union,Beltran,1
+CHACO,western_union,San Bernardo,2
+TUCUMAN,western_union,7 De Abril,1
+SALTA,western_union,Las Lajitas,1
+SANTIAGODELESTERO,western_union,Bobedals,1
+SALTA,western_union,Apolinario Saravia,2
+CHACO,western_union,Quitilipi,5
+CHACO,western_union,Pampa Del Indio,4
+CHACO,western_union,Charata,10
+SANTIAGODELESTERO,western_union,El Balde,2
+CHACO,western_union,General Pinedo,2
+CHACO,western_union,Gral. Pinedo,1
+CHACO,western_union,Tres Isletas,10
+CHACO,western_union,Napenay,2
+JUJUY,western_union,Tres Cruces,1
+SANTIAGODELESTERO,western_union,Quimili,2
+SANTIAGODELESTERO,western_union,Nueva Esperanza,6
+SALTA,western_union,Joaquin V Gonzalez,1
+CHACO,western_union,Villa Rio Bermejito,3
+FORMOSA,western_union,Estanislao Del Campo,2
+SALTA,western_union,El Galpon Est Foguista J,1
+SALTA,western_union,El Galpon,2
+CHACO,western_union,Coronel Du Graty,3
+CHACO,western_union,Villa Berthet,3
+TUCUMAN,western_union,La Ramada,1
+SANTAFE,western_union,Santa Margarita,1
+SANTIAGODELESTERO,western_union,Garza,1
+SANTIAGODELESTERO,western_union,Los Juries,3
+CHACO,western_union,Castelli,6
+CHACO,western_union,Juan Jose Castelli,2
+CHACO,western_union,El Sauzalito,1
+CHACO,western_union,Campo Largo,1
+CHACO,western_union,Corzuela,3
+CHACO,western_union,Avia Terai,3
+SANTIAGODELESTERO,western_union,Mojon,1
+SANTIAGODELESTERO,western_union,El Mojon,1
+FORMOSA,western_union,Laguna Yema,2
+CHACO,western_union,P.roque Saenz Pena,1
+CHACO,western_union,Los Frentones,4
+CHACO,western_union,Pampa Infierno,1
+CHACO,western_union,Pampa Del Infierno,2
+SANTIAGODELESTERO,western_union,Tintina,2
+CHACO,western_union,Miraflores,2
+CHACO,western_union,Concepcion Del Bermejo,3
+CHACO,western_union,Colonia Juan Jose Castell,1
+FORMOSA,western_union,Formosa,25
+CHACO,western_union,Las Brenas,4
+SALTA,western_union,El Quebrachal,1
+CORDOBA,western_union,Las Vertientes,1
+FORMOSA,western_union,Colonia Pastoril,1
+FORMOSA,western_union,Riacho He He,4
+FORMOSA,western_union,Punta Pora,2
+FORMOSA,western_union,El Espinillo,4
+FORMOSA,western_union,Mision Tacaagle,1
+FORMOSA,western_union,Laguna Blanca,3
+FORMOSA,western_union,Buena Vista,2
+FORMOSA,western_union,Laguna Naick Neck,2
+FORMOSA,western_union,Clorinda,14
+SANJUAN,western_union,Villa San Agustin,1
+LARIOJA,western_union,Chamical,1
+CATAMARCA,western_union,Recreo,4
+SALTA,western_union,San Carlos,1
+SANJUAN,western_union,Iglesia,1
+LARIOJA,western_union,Olta,1
+SALTA,western_union,Molinos,1
+LARIOJA,western_union,El Portezuelo,1
+SALTA,western_union,Cafayate,3
+CATAMARCA,western_union,Esquiu,1
+SANTIAGODELESTERO,western_union,Frias,11
+SANJUAN,western_union,Jachal,4
+TUCUMAN,western_union,Concepcion,10
+CATAMARCA,western_union,Santa Maria,4
+TUCUMAN,western_union,La Trinidad,1
+TUCUMAN,western_union,Graneros,1
+TUCUMAN,western_union,Rio Seco,1
+TUCUMAN,western_union,Monteros,3
+TUCUMAN,western_union,Tafi Del Valle,2
+TUCUMAN,western_union,Amaiche Del Valle,1
+TUCUMAN,western_union,Amaicha Del Valle,1
+CATAMARCA,western_union,San Antonio De La Paz,1
+CATAMARCA,western_union,Icano,1
+CATAMARCA,western_union,Lavalle,1
+TUCUMAN,western_union,Juan Bautista Alberdi,5
+TUCUMAN,western_union,Villa Belgrano,1
+CATAMARCA,western_union,San Jose,1
+CATAMARCA,western_union,Los Altos,5
+CATAMARCA,western_union,Banado De Ovanta,1
+TUCUMAN,western_union,Aguilares,5
+CATAMARCA,western_union,San Fdo Del Valle De Catamarca,11
+CATAMARCA,western_union,El Tala,1
+CATAMARCA,western_union,San Fdo Del Valle De Cata,9
+CATAMARCA,western_union,Las Tejas De Valle Viejo,1
+TUCUMAN,western_union,Santa Ana,1
+TUCUMAN,western_union,La Cocha,3
+CATAMARCA,western_union,Sumalao,1
+LARIOJA,western_union,La Rioja,14
+LARIOJA,western_union,Ulapes,1
+LARIOJA,western_union,Famatina,1
+CATAMARCA,western_union,El Alamito,1
+CATAMARCA,western_union,Los Varelas,1
+LARIOJA,western_union,Nonogasta,1
+LARIOJA,western_union,Sanogasta,1
+LARIOJA,western_union,Villa Sanagasta,1
+CATAMARCA,western_union,Andalgala,1
+CATAMARCA,western_union,Saujil,1
+CATAMARCA,western_union,La Banda,1
+LARIOJA,western_union,Villa Union,2
+LARIOJA,western_union,Vichigasta,1
+CATAMARCA,western_union,El Milagro,1
+LARIOJA,western_union,Anillaco,1
+LARIOJA,western_union,Villa Castelli,1
+LARIOJA,western_union,Chilecito,11
+LARIOJA,western_union,Villa Maza,1
+NEUQUEN,western_union,Junin De Los Andes,7
+NEUQUEN,western_union,San Martin De Los Andes,5
+NEUQUEN,western_union,Alumine,2
+NEUQUEN,western_union,Piedra Del Aguila,2
+LAPAMPA,western_union,General San Martin,1
+LAPAMPA,western_union,Bernasconi,1
+LAPAMPA,western_union,Guatrache,2
+BUENOSAIRES,western_union,Darregueira,2
+LAPAMPA,western_union,Gral Manuel Campos,1
+LAPAMPA,western_union,Alpachiri,2
+BUENOSAIRES,western_union,Rivera,1
+CAPITALFEDERAL,western_union,Capital Federal,443
+BUENOSAIRES,western_union,Pigue,6
+BUENOSAIRES,western_union,General Villegas,3
+LAPAMPA,western_union,Realico,1
+RIONEGRO,western_union,San Antonio Oeste,8
+RIONEGRO,western_union,Villa Regina,8
+BUENOSAIRES,western_union,Carmen De Areco,4
+BUENOSAIRES,western_union,25 De Mayo,4
+BUENOSAIRES,western_union,General Alvear,1
+BUENOSAIRES,western_union,Alsina,1
+BUENOSAIRES,western_union,Azul,7
+RIONEGRO,western_union,Catriel,6
+CHUBUT,western_union,Paso Del Sapo,1
+CHUBUT,western_union,Esquel,8
+BUENOSAIRES,western_union,San Antonio De Areco,7
+BUENOSAIRES,western_union,Miramar,3
+LAPAMPA,western_union,Rancul,1
+BUENOSAIRES,western_union,Roberts,1
+BUENOSAIRES,western_union,San Cayetano,1
+RIONEGRO,western_union,Balneario Las Grutas,2
+RIONEGRO,western_union,General Enrique Godoy,1
+BUENOSAIRES,western_union,Tandil,14
+BUENOSAIRES,western_union,Villa Moquehua,1
+BUENOSAIRES,western_union,Suipacha,1
+BUENOSAIRES,western_union,Balcarce,11
+BUENOSAIRES,western_union,Comandante Nicanor Otamen,1
+BUENOSAIRES,western_union,Comandante Nicanor Otamendi,1
+BUENOSAIRES,western_union,Otamendi,1
+BUENOSAIRES,western_union,Saladillo,5
+BUENOSAIRES,western_union,La Pastora,1
+BUENOSAIRES,western_union,San Andres De Giles,2
+BUENOSAIRES,western_union,Norberto De La Riestra,1
+BUENOSAIRES,western_union,Chivilcoy,8
+BUENOSAIRES,western_union,Mar Del Plata,139
+BUENOSAIRES,western_union,Exaltacion De La Cruz,1
+BUENOSAIRES,western_union,Capilla Del Senor,1
+BUENOSAIRES,western_union,Batan,1
+BUENOSAIRES,western_union,Barrio Batan,1
+BUENOSAIRES,western_union,Cachari,1
+BUENOSAIRES,western_union,Zarate,4
+BUENOSAIRES,western_union,Pedernales,1
+BUENOSAIRES,western_union,Campana,8
+BUENOSAIRES,western_union,Loma Negra,1
+BUENOSAIRES,western_union,Rauch,2
+BUENOSAIRES,western_union,Open Door,1
+BUENOSAIRES,western_union,Carlos Lemee,1
+BUENOSAIRES,western_union,Los Cardales,2
+BUENOSAIRES,western_union,Villa Flandria,1
+BUENOSAIRES,western_union,Laguna Del Soldado,1
+BUENOSAIRES,western_union,Belen De Escobar,6
+BUENOSAIRES,western_union,Pilar,12
+BUENOSAIRES,western_union,Villa Rosa,2
+BUENOSAIRES,western_union,Santa Clara Del Mar,3
+BUENOSAIRES,western_union,Del Viso,8
+BUENOSAIRES,western_union,Maquinista Fco. Savio,2
+BUENOSAIRES,western_union,General Rodriguez,7
+BUENOSAIRES,western_union,Las Malvinas,1
+BUENOSAIRES,western_union,Presidente Derqui,4
+BUENOSAIRES,western_union,Pte Derqui,1
+BUENOSAIRES,western_union,Moreno,24
+BUENOSAIRES,western_union,Jose Clemente Paz,18
+BUENOSAIRES,western_union,Ingeniero Maschwitz,4
+BUENOSAIRES,western_union,Almirante Irizar,1
+BUENOSAIRES,western_union,Matheu,1
+BUENOSAIRES,western_union,Loma Verde,2
+BUENOSAIRES,western_union,Barrio Pinares,1
+BUENOSAIRES,western_union,Roque Perez,4
+BUENOSAIRES,western_union,Navarro,5
+BUENOSAIRES,western_union,Tortuguitas,4
+BUENOSAIRES,western_union,Garin,4
+BUENOSAIRES,western_union,Dique Lujan,1
+BUENOSAIRES,western_union,Ayacucho,3
+BUENOSAIRES,western_union,Francisco Alvarez,2
+BUENOSAIRES,western_union,Lobos,6
+BUENOSAIRES,western_union,Jose C. Paz,1
+BUENOSAIRES,western_union,Grand Bourg,6
+BUENOSAIRES,western_union,Las Flores,5
+BUENOSAIRES,western_union,Benavidez,5
+BUENOSAIRES,western_union,Los Polvorines,2
+BUENOSAIRES,western_union,San Miguel,20
+BUENOSAIRES,western_union,Rincon De Milberg,5
+BUENOSAIRES,western_union,Buenos Aires,2
+BUENOSAIRES,western_union,General Las Heras,3
+BUENOSAIRES,western_union,Pablo Nogues,2
+BUENOSAIRES,western_union,Jose C Paz,1
+BUENOSAIRES,western_union,El Talar,5
+BUENOSAIRES,western_union,Malvinas Argentinas,2
+BUENOSAIRES,western_union,General Pacheco,10
+BUENOSAIRES,western_union,Ingeniero Adolfo Sourdeau,1
+BUENOSAIRES,western_union,Don Torcuato,9
+BUENOSAIRES,western_union,Villa De Mayo,1
+BUENOSAIRES,western_union,Bella Vista,10
+BUENOSAIRES,western_union,Gral Pacheco,1
+BUENOSAIRES,western_union,Merlo,13
+BUENOSAIRES,western_union,Tigre,10
+BUENOSAIRES,western_union,Mariano Acosta,3
+BUENOSAIRES,western_union,Troncos Del Talar,1
+BUENOSAIRES,western_union,Paso Del Rey,3
+BUENOSAIRES,western_union,Parque San Martin,5
+BUENOSAIRES,western_union,Virreyes,7
+BUENOSAIRES,western_union,San Fernando,8
+BUENOSAIRES,western_union,Ituzaingo,11
+BUENOSAIRES,western_union,Villa Gobernador Udaondo,1
+BUENOSAIRES,western_union,Trujui,2
+BUENOSAIRES,western_union,Marcos Paz,2
+BUENOSAIRES,western_union,Hurlingham,13
+BUENOSAIRES,western_union,Boulogne,9
+BUENOSAIRES,western_union,William Morris,2
+BUENOSAIRES,western_union,Gral Las Heras,1
+BUENOSAIRES,western_union,Beccar,5
+BUENOSAIRES,western_union,San Isidro,10
+BUENOSAIRES,western_union,San Antonio De Padua,3
+BUENOSAIRES,western_union,Victoria,2
+BUENOSAIRES,western_union,Loma Hermosa,7
+BUENOSAIRES,western_union,Jose Leon Suarez,10
+BUENOSAIRES,western_union,Coronel Vidal,1
+BUENOSAIRES,western_union,Libertad,5
+BUENOSAIRES,western_union,Villa Santos Tesei,3
+BUENOSAIRES,western_union,Pablo Podesta,2
+BUENOSAIRES,western_union,Castelar,4
+BUENOSAIRES,western_union,General San Martin,10
+BUENOSAIRES,western_union,Villa Adelina,4
+BUENOSAIRES,western_union,El Libertador,5
+BUENOSAIRES,western_union,Pontevedra,3
+BUENOSAIRES,western_union,Villa Ballester,11
+BUENOSAIRES,western_union,Moron,17
+BUENOSAIRES,western_union,Martinez,13
+BUENOSAIRES,western_union,Carapachay,3
+BUENOSAIRES,western_union,Munro,10
+BUENOSAIRES,western_union,Acassuso,2
+BUENOSAIRES,western_union,El Palomar,4
+BUENOSAIRES,western_union,Olivos,8
+BUENOSAIRES,western_union,Villa Bosch,5
+BUENOSAIRES,western_union,Gral San Martin,2
+BUENOSAIRES,western_union,Caseros,13
+BUENOSAIRES,western_union,San Andres,1
+BUENOSAIRES,western_union,La Lucila,1
+BUENOSAIRES,western_union,Idaberry 4796,1
+BUENOSAIRES,western_union,Villa Lynch,3
+BUENOSAIRES,western_union,Vicente Lopez,8
+BUENOSAIRES,western_union,San Martin,5
+BUENOSAIRES,western_union,Rafael Castillo,14
+BUENOSAIRES,western_union,Florida,3
+BUENOSAIRES,western_union,Haedo,3
+BUENOSAIRES,western_union,Villa Martelli,2
+BUENOSAIRES,western_union,Florida Oeste,1
+BUENOSAIRES,western_union,Martin Coronado,2
+BUENOSAIRES,western_union,Ciudad Jardin Del Palomar,1
+BUENOSAIRES,western_union,Gonzalez Catan,26
+BUENOSAIRES,western_union,Santos Lugares,1
+BUENOSAIRES,western_union,Ramos Mejia,16
+BUENOSAIRES,western_union,Isidro Casanova,16
+BUENOSAIRES,western_union,Gregorio De Laferrere,11
+BUENOSAIRES,western_union,Gregorio De La Ferrere,12
+BUENOSAIRES,western_union,Canuelas,5
+BUENOSAIRES,western_union,Ciudadela,3
+BUENOSAIRES,western_union,Virrey Del Pino,13
+CAPITALFEDERAL,western_union,Liniers,3
+BUENOSAIRES,western_union,Lomas Del Mirador,9
+BUENOSAIRES,western_union,Liniers,1
+CAPITALFEDERAL,western_union,Villa Ortuzar,1
+BUENOSAIRES,western_union,Villa Insuperable,2
+BUENOSAIRES,western_union,Laferrere,1
+CAPITALFEDERAL,western_union,Colegiales,2
+BUENOSAIRES,western_union,General Piran,1
+BUENOSAIRES,western_union,Tablada,9
+BUENOSAIRES,western_union,La Tablada,3
+CAPITALFEDERAL,western_union,Chacarita,1
+BUENOSAIRES,western_union,San Miguel Del Monte,3
+BUENOSAIRES,western_union,Mataderos,1
+BUENOSAIRES,western_union,Berazategui,17
+CAPITALFEDERAL,western_union,Flores,5
+BUENOSAIRES,western_union,Aldo Bonzi,3
+BUENOSAIRES,western_union,Ciudad Madero,5
+CAPITALFEDERAL,western_union,Villa Crespo,1
+CAPITALFEDERAL,western_union,Palermo,4
+CAPITALFEDERAL,western_union,Villa Lugano,3
+BUENOSAIRES,western_union,Villa Celina,3
+CAPITALFEDERAL,western_union,Recoleta,2
+BUENOSAIRES,western_union,Villa Madero,1
+BUENOSAIRES,western_union,Ciudad Maderp,1
+CAPITALFEDERAL,western_union,Parque Avellaneda,1
+BUENOSAIRES,western_union,Tapiales,1
+CAPITALFEDERAL,western_union,Abasto,1
+BUENOSAIRES,western_union,Lomas De Zamora,32
+BUENOSAIRES,western_union,Maximo Paz,2
+BUENOSAIRES,western_union,La Salada,1
+CAPITALFEDERAL,western_union,Boedo,1
+CAPITALFEDERAL,western_union,Pompeya,1
+BUENOSAIRES,western_union,Ingeniero Budge,4
+CAPITALFEDERAL,western_union,Parque Patricios,1
+BUENOSAIRES,western_union,Carlos Spegazzini,1
+CAPITALFEDERAL,western_union,Retiro,1
+BUENOSAIRES,western_union,Tristan Suarez,3
+BUENOSAIRES,western_union,Ezeiza,9
+BUENOSAIRES,western_union,Recoleta,1
+CAPITALFEDERAL,western_union,Nueva Pompeya,1
+CAPITALFEDERAL,western_union,Monserrat,1
+BUENOSAIRES,western_union,Maipu,2
+BUENOSAIRES,western_union,Banfield,13
+BUENOSAIRES,western_union,Lanus,21
+BUENOSAIRES,western_union,Valentin Alsina,7
+BUENOSAIRES,western_union,9 De Abril,4
+BUENOSAIRES,western_union,Villa Albertina,1
+BUENOSAIRES,western_union,Monte Grande,19
+BUENOSAIRES,western_union,Capital Federal,1
+BUENOSAIRES,western_union,Union Ferroviaria,2
+BUENOSAIRES,western_union,Barracas,1
+CAPITALFEDERAL,western_union,Constitucion,1
+BUENOSAIRES,western_union,Canning,3
+BUENOSAIRES,western_union,El Jaguel,2
+BUENOSAIRES,western_union,Gerli,8
+BUENOSAIRES,western_union,Pineyro,2
+BUENOSAIRES,western_union,Luis Guillon,7
+TUCUMAN,western_union,Santa Lucia,1
+CAPITALFEDERAL,western_union,La Boca,1
+BUENOSAIRES,western_union,Villa Centenario,1
+BUENOSAIRES,western_union,Avellaneda,14
+BUENOSAIRES,western_union,Remedios De Escalada,2
+BUENOSAIRES,western_union,Sarandi,8
+BUENOSAIRES,western_union,Dolores,3
+BUENOSAIRES,western_union,Llavallol,5
+BUENOSAIRES,western_union,Crucesita,1
+BUENOSAIRES,western_union,Burzaco,8
+BUENOSAIRES,western_union,Bernal,4
+BUENOSAIRES,western_union,Rafael Calzada,3
+BUENOSAIRES,western_union,Bernal Oeste,1
+BUENOSAIRES,western_union,Quilmes Oeste,12
+BUENOSAIRES,western_union,Temperley,11
+BUENOSAIRES,western_union,Adrogue,8
+BUENOSAIRES,western_union,San Francisco Solano,11
+BUENOSAIRES,western_union,Bernal Este,3
+BUENOSAIRES,western_union,Longchamps,4
+BUENOSAIRES,western_union,Longhchamps,1
+BUENOSAIRES,western_union,Glew,4
+BUENOSAIRES,western_union,Claypole,4
+BUENOSAIRES,western_union,Ministro Rivadavia,1
+BUENOSAIRES,western_union,Monte Chingolo,4
+BUENOSAIRES,western_union,Villa Dominico,5
+BUENOSAIRES,western_union,Florencio Varela,14
+BUENOSAIRES,western_union,Zeballos,1
+BUENOSAIRES,western_union,Santa Rosa,1
+BUENOSAIRES,western_union,Villa Gesell,7
+BUENOSAIRES,western_union,Ezpeleta Este,1
+BUENOSAIRES,western_union,Alejandro Korn,2
+BUENOSAIRES,western_union,Wilde,4
+BUENOSAIRES,western_union,Jose Marmol,2
+BUENOSAIRES,western_union,Turdera,1
+BUENOSAIRES,western_union,Guernica,5
+BUENOSAIRES,western_union,Gobernador Costa,1
+BUENOSAIRES,western_union,Quilmes,10
+BUENOSAIRES,western_union,Ezpeleta,2
+BUENOSAIRES,western_union,Ezpeleta Oeste,2
+BUENOSAIRES,western_union,La Plata,33
+BUENOSAIRES,western_union,San Vicente,2
+BUENOSAIRES,western_union,Bosques,5
+BUENOSAIRES,western_union,General Belgrano,1
+BUENOSAIRES,western_union,Centro Agricola El Pato,1
+BUENOSAIRES,western_union,El Pato,1
+BUENOSAIRES,western_union,Domselaar,1
+BUENOSAIRES,western_union,Ingeniero Allan,1
+BUENOSAIRES,western_union,Villa Nueva,1
+BUENOSAIRES,western_union,Guillermo E Hudson,1
+BUENOSAIRES,western_union,General Madariaga,9
+BUENOSAIRES,western_union,La Perla,1
+BUENOSAIRES,western_union,Lisandro Olmo Etcheverry,1
+BUENOSAIRES,western_union,Coronel Brandsen,1
+BUENOSAIRES,western_union,Ranchos,2
+BUENOSAIRES,western_union,Valeria Del Mar,1
+BUENOSAIRES,western_union,Villa Elisa,1
+BUENOSAIRES,western_union,Carilo,1
+BUENOSAIRES,western_union,Ranelagh,1
+BUENOSAIRES,western_union,Platanos,1
+BUENOSAIRES,western_union,Pila,2
+BUENOSAIRES,western_union,Lisandro Olmos Etcheverry,2
+BUENOSAIRES,western_union,Manuel B Gonnet,2
+BUENOSAIRES,western_union,Melchor Romero,1
+BUENOSAIRES,western_union,Pinamar,6
+BUENOSAIRES,western_union,City Bell,2
+BUENOSAIRES,western_union,Abasto,1
+BUENOSAIRES,western_union,Ostende,4
+BUENOSAIRES,western_union,Berisso,2
+BUENOSAIRES,western_union,Castelli,3
+BUENOSAIRES,western_union,Bme Bavio Gral Mansilla,1
+BUENOSAIRES,western_union,Chascomus,5
+BUENOSAIRES,western_union,Mar De Ajo,7
+BUENOSAIRES,western_union,San Bernardo,1
+BUENOSAIRES,western_union,San Bernardo Del Tuyu,2
+BUENOSAIRES,western_union,Magdalena,2
+BUENOSAIRES,western_union,Santa Teresita,4
+BUENOSAIRES,western_union,Mar Del Tuyu,1
+BUENOSAIRES,western_union,Veronica,1
+BUENOSAIRES,western_union,San Clemente Del Tuyu,5
+BUENOSAIRES,western_union,Sierras Bayas,1
+BUENOSAIRES,western_union,Carmen De Patagones,2
+BUENOSAIRES,western_union,Chillar,1
+RIONEGRO,western_union,Viedma,4
+BUENOSAIRES,western_union,Carlos Casares,3
+BUENOSAIRES,western_union,Benito Juarez,2
+RIONEGRO,western_union,Chichinales,1
+BUENOSAIRES,western_union,Jose A Guisasola,1
+BUENOSAIRES,western_union,Villalonga,1
+BUENOSAIRES,western_union,Trenque Lauquen,4
+BUENOSAIRES,western_union,Indio Rico,1
+BUENOSAIRES,western_union,Pirovano,1
+LAPAMPA,western_union,Eduardo Castex,1
+RIONEGRO,western_union,Choele Choel,2
+BUENOSAIRES,western_union,Laprida,4
+BUENOSAIRES,western_union,Carlos Tejedor,1
+LAPAMPA,western_union,Intendente Alvear,2
+BUENOSAIRES,western_union,Olavarria,7
+BUENOSAIRES,western_union,Olvarria,1
+BUENOSAIRES,western_union,Bahia San Blas,1
+BUENOSAIRES,western_union,Tres Algarrobos,1
+BUENOSAIRES,western_union,Claromeco,1
+BUENOSAIRES,western_union,Bolivar,3
+BUENOSAIRES,western_union,Tres Arroyos,9
+BUENOSAIRES,western_union,Balneario Reta,1
+BUENOSAIRES,western_union,Gonzalez Chavez,1
+BUENOSAIRES,western_union,Adolfo Gonzales Chaves,1
+LAPAMPA,western_union,Ingeniero Luiggi,2
+BUENOSAIRES,western_union,Henderson,1
+RIONEGRO,western_union,Luis Beltran,1
+BUENOSAIRES,western_union,Urdampilleta,1
+RIONEGRO,western_union,Lamarque,1
+RIONEGRO,western_union,Gral Conesa,1
+RIONEGRO,western_union,General Conesa,2
+LAPAMPA,western_union,General Pico,10
+LAPAMPA,western_union,Gral Pico,1
+BUENOSAIRES,western_union,Coronel Pringles,2
+BUENOSAIRES,western_union,Pellegrini,1
+BUENOSAIRES,western_union,Juan A Pradere,2
+LAPAMPA,western_union,Colonia Baron,1
+BUENOSAIRES,western_union,30 De Agosto,1
+BUENOSAIRES,western_union,Coronel Dorrego,2
+BUENOSAIRES,western_union,Daireaux,5
+BUENOSAIRES,western_union,Monte Hermoso,1
+BUENOSAIRES,western_union,Stroeder,1
+LAPAMPA,western_union,Victoria,2
+RIONEGRO,western_union,Chimpay,1
+LAPAMPA,western_union,Speluzzi,1
+BUENOSAIRES,western_union,Pehuajo,2
+BUENOSAIRES,western_union,America,2
+BUENOSAIRES,western_union,Coronel Suarez,4
+BUENOSAIRES,western_union,Sierra De La Ventana,1
+BUENOSAIRES,western_union,Punta Alta,4
+LAPAMPA,western_union,Toay,1
+LAPAMPA,western_union,Santa Rosa,11
+BUENOSAIRES,western_union,Mayor Buratovich,1
+BUENOSAIRES,western_union,Bahia Blanca,26
+BUENOSAIRES,western_union,Ingeniero White,2
+BUENOSAIRES,western_union,Guamini,2
+BUENOSAIRES,western_union,Salliquelo,1
+BUENOSAIRES,western_union,Saliquello,1
+LAPAMPA,western_union,Barrancas Coloradas,1
+BUENOSAIRES,western_union,Huanguelen,2
+BUENOSAIRES,western_union,Hilario Ascasubi,1
+BUENOSAIRES,western_union,Pedro Luro,4
+NEUQUEN,western_union,Barrancas,1
+BUENOSAIRES,western_union,Carhue,1
+BUENOSAIRES,western_union,Tornquist,2
+LAPAMPA,western_union,General Acha,2
+BUENOSAIRES,western_union,Medanos,1
+RIONEGRO,western_union,Pichi Mahuida,1
+RIONEGRO,western_union,Rio Colorado,3
+BUENOSAIRES,western_union,Cerri,1
+RIONEGRO,western_union,General Roca,17
+CHUBUT,western_union,Cholila,1
+CHUBUT,western_union,Gastre,1
+NEUQUEN,western_union,Las Ovejas,1
+RIONEGRO,western_union,Cervantes,3
+NEUQUEN,western_union,Rincon De Los Sauces,4
+NEUQUEN,western_union,Buta Ranquil,1
+RIONEGRO,western_union,Mainque,2
+RIONEGRO,western_union,Ingeniero Huergo,2
+CHUBUT,western_union,Gualjaina,1
+NEUQUEN,western_union,Andacollo,3
+RIONEGRO,western_union,Contralmirante Cordero,1
+RIONEGRO,western_union,Cipolletti,13
+RIONEGRO,western_union,General Fernandez Oro,3
+NEUQUEN,western_union,Chos Malal,3
+RIONEGRO,western_union,Allen,2
+NEUQUEN,western_union,Neuquen,41
+RIONEGRO,western_union,Barda Del Medio,1
+RIONEGRO,western_union,Los Menucos,3
+RIONEGRO,western_union,Cinco Saltos,3
+NEUQUEN,western_union,Centenario,7
+RIONEGRO,western_union,Villa Manzano,1
+NEUQUEN,western_union,San Patricio Del Chanar,4
+RIONEGRO,western_union,Maquinchao,2
+RIONEGRO,western_union,El Bolson,4
+NEUQUEN,western_union,Plottier,6
+CHUBUT,western_union,El Maiten,1
+NEUQUEN,western_union,Anelo,2
+CHUBUT,western_union,El Hoyo,1
+CHUBUT,western_union,Lago Puelo,1
+NEUQUEN,western_union,Caviahue,1
+NEUQUEN,western_union,Senillosa,2
+NEUQUEN,western_union,El Huecu,1
+RIONEGRO,western_union,Ingeniero Jacobacci,5
+NEUQUEN,western_union,Loncopue,1
+RIONEGRO,western_union,Bariloche,15
+NEUQUEN,western_union,Cutral Co,2
+NEUQUEN,western_union,Plaza Huincul,1
+RIONEGRO,western_union,San Carlos De Bariloche,3
+NEUQUEN,western_union,Villa La Angostura,4
+NEUQUEN,western_union,Picun Leufu,1
+RIONEGRO,western_union,Dina Huapi,1
+NEUQUEN,western_union,Las Lajas,1
+NEUQUEN,western_union,Villa Traful,1
+NEUQUEN,western_union,Zapala,8
+SANTACRUZ,western_union,Los Antiguos,3
+CHUBUT,western_union,Rio Pico,1
+CHUBUT,western_union,Alto Rio Senguer,1
+CHUBUT,western_union,Gaiman,4
+CHUBUT,western_union,Trelew,11
+BUENOSAIRES,western_union,Necochea,9
+BUENOSAIRES,western_union,La Dulce,1
+BUENOSAIRES,western_union,Quequen,2
+SANTACRUZ,western_union,Gobernador Gregores,2
+SANTACRUZ,western_union,Comandante Luis Piedrabuena,2
+SANTACRUZ,western_union,Puerto Santa Cruz,3
+SANTACRUZ,western_union,Puerto San Julian,2
+SANTACRUZ,western_union,Tres Lagos,1
+SANTACRUZ,western_union,El Calafate,4
+SANTACRUZ,western_union,Rio Gallegos,19
+CHUBUT,western_union,Sarmiento,2
+SANTACRUZ,western_union,Caleta Olivia,11
+RIONEGRO,western_union,Valcheta,1
+CHUBUT,western_union,Rawson,7
+CHUBUT,western_union,Puerto Madryn,16
+CHUBUT,western_union,Comodoro Rivadavia,19
+CHUBUT,western_union,Rada Tilly,1
+TIERRADELFUEGO,western_union,Ushuaia,9
+SANTACRUZ,western_union,Pico Truncado,3
+SANTACRUZ,western_union,Las Heras,2
+SANTACRUZ,western_union,Puerto Deseado,1
+SANTACRUZ,western_union,Perito Moreno,2
+SANTACRUZ,western_union,28 De Noviembre,1
+SANTACRUZ,western_union,Rio Turbio,2
+TIERRADELFUEGO,western_union,Rio Grande,13
+TIERRADELFUEGO,western_union,Tolhuin,2

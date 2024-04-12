@@ -1,0 +1,87 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1020700066,banque_populaire_fr,PARIS ST GERMAIN BANQUE PRIVEE,,PARIS,,,FR,+33 1 73 07 63 91,https://agences.banquepopulaire.fr/banque-assurance/agence-paris-st-germain-banque-privee-id1020700066,"Mo-Fr 09:00-12:30,13:30-17:45",Banque Populaire,Q846647
+1020700019,banque_populaire_fr,PARIS ST GERMAIN BAC,,PARIS 07,,,FR,+33 1 71 39 11 12,https://agences.banquepopulaire.fr/banque-assurance/agence-paris-st-germain-bac-id1020700019,"Tu-We 09:00-13:00,14:00-17:30; Th 09:00-13:00,14:00-16:30; Fr-Sa 09:00-13:00,14:00-17:30",Banque Populaire,Q846647
+1020700085,banque_populaire_fr,PARIS SEVRES DUROC,,PARIS 07,,,FR,+33 1 71 39 11 14,https://agences.banquepopulaire.fr/banque-assurance/agence-paris-sevres-duroc-id1020700085,"Tu-We 09:00-13:00,14:00-17:30; Th 09:00-13:00,14:00-16:30; Fr-Sa 09:00-13:00,14:00-17:30",Banque Populaire,Q846647
+1020700044,banque_populaire_fr,PARIS BOSQUET,,PARIS 07,,,FR,+33 1 71 39 11 13,https://agences.banquepopulaire.fr/banque-assurance/agence-paris-bosquet-id1020700044,"Tu-We 09:00-13:00,14:00-17:30; Th 09:00-13:00,14:00-16:30; Fr-Sa 09:00-13:00,14:00-17:30",Banque Populaire,Q846647
+0266,carrefour_fr,Carrefour City,,Paris,,,FR,+33 1 45 49 13 24,https://www.carrefour.fr/magasin/city-paris-beaupassage-grenelle-53,Mo-Sa 07:00-23:00; Su 09:00-13:00,Carrefour City,Q2940187
+2238,carrefour_fr,Carrefour Express,,Paris,,,FR,+33 9 63 66 29 50,https://www.carrefour.fr/magasin/express-paris-estree,Mo-Sa 08:00-22:00; Su 09:00-13:00,Carrefour Express,Q2940190
+4872,carrefour_fr,Carrefour City,,Paris,,,FR,,https://www.carrefour.fr/magasin/city-paris-grenelle-185,Mo-Sa 07:00-22:00; Su 09:00-13:00,Carrefour City,Q2940187
+5562,carrefour_fr,Carrefour City,,Paris,,,FR,+33 1 40 62 92 10,https://www.carrefour.fr/magasin/city-paris-saint-dominique,Mo-Sa 07:00-23:00; Su 09:00-13:00,Carrefour City,Q2940187
+6081,carrefour_fr,Carrefour Express,,Paris 07Eme,,,FR,+33 1 45 51 04 78,https://www.carrefour.fr/magasin/express-paris-universite,Mo-Sa 08:00-21:00,Carrefour Express,Q2940190
+6118,carrefour_fr,Carrefour Express,,Paris 07Eme,,,FR,+33 1 44 18 70 80,https://www.carrefour.fr/magasin/express-paris-babylone-54,Mo-Sa 08:00-22:00; Su 09:00-13:00,Carrefour Express,Q2940190
+6516,carrefour_fr,Carrefour Express,,Paris 07Eme,,,FR,+33 1 40 29 11 40,https://www.carrefour.fr/magasin/express-paris-saxe,Mo-Sa 08:00-22:00; Su 09:00-13:00,Carrefour Express,Q2940190
+6865,carrefour_fr,Market Paris Sèvres,,Paris,,,FR,+33 1 42 18 51 70,https://www.carrefour.fr/magasin/market-paris-sevres,"Mo-Sa 08:30-22:00; Su 09:00-13:00,13:15-19:30",Carrefour Market,Q2689639
+8635,carrefour_fr,Carrefour City,,Paris,,,FR,+33 1 53 59 12 00,https://www.carrefour.fr/magasin/city-ecole-militaire,Mo-Sa 07:00-23:00; Su 07:00-22:00,Carrefour City,Q2940187
+219854021,century_21_fr,CENTURY 21 Tour Eiffel,,PARIS,,,FR,+33 1 42 19 00 00,https://www.century21.fr/trouver_agence/agence/219854021/,,Century 21,Q1054480
+https://www.credit-agricole.fr/particulier/agence/paris/paris-sevres-babylone-2524.html,credit_agricole,Crédit Agricole,,PARIS 07,,,FR,+33 1 42 22 07 73,https://www.credit-agricole.fr/particulier/agence/paris/paris-sevres-babylone-2524.html,"Tu-We 09:00-13:00,14:00-17:30; Th 09:00-13:00,15:00-17:30; Fr 09:00-13:00,14:00-17:30; Sa 09:00-13:00,14:00-16:30",Credit Agricole,Q590952
+https://www.credit-agricole.fr/particulier/agence/paris/paris-invalides-2580.html,credit_agricole,Crédit Agricole,,PARIS 07,,,FR,+33 1 45 51 90 10,https://www.credit-agricole.fr/particulier/agence/paris/paris-invalides-2580.html,"Mo-We 09:00-13:00,14:00-17:30; Th 09:00-13:00,15:00-17:30; Fr 09:00-13:00,14:00-16:30",Credit Agricole,Q590952
+https://www.credit-agricole.fr/particulier/agence/paris/paris-duroc-2566.html,credit_agricole,Crédit Agricole,,PARIS 07,,,FR,+33 1 44 38 88 10,https://www.credit-agricole.fr/particulier/agence/paris/paris-duroc-2566.html,"Tu-We 09:00-13:00,14:00-17:30; Th 09:00-13:00,15:00-17:30; Fr 09:00-13:00,14:00-17:30; Sa 09:00-13:00,14:00-16:30",Credit Agricole,Q590952
+https://www.credit-agricole.fr/particulier/agence/paris/paris-champ-de-mars-2608.html,credit_agricole,Crédit Agricole,,PARIS 07,,,FR,+33 1 47 05 71 75,https://www.credit-agricole.fr/particulier/agence/paris/paris-champ-de-mars-2608.html,"Tu-We 09:00-13:00,14:00-17:30; Th 09:00-13:00,15:00-17:30; Fr 09:00-13:00,14:00-17:30; Sa 09:00-13:00,14:00-16:30",Credit Agricole,Q590952
+06124,credit_mutuel_fr,CAISSE DE CREDIT MUTUEL PARIS SAINT DOMINIQUE,,PARIS,,,FR,+33 1 53 35 44 37,https://www.creditmutuel.fr/fr/caisses/10278/06124/00/000,,Crédit Mutuel,Q642627
+895,croix_rouge_francaise_fr,UNITE LOCALE DE PARIS VII,,PARIS 07,,,FR,,https://www.croix-rouge.fr/unite-locale-de-paris-vii,,Croix-Rouge française,Q3003244
+1890,croix_rouge_francaise_fr,CRECHE COLLECTIVE SAINT PIERRE DU GROS CAILLOU,,PARIS 07,,,FR,,https://www.croix-rouge.fr/creche-collective-saint-pierre-du-gros-caillou,Mo-Fr 07:30-18:30,Croix-Rouge française,Q3003244
+https://www.dominos.fr/magasin/paris-7_75007,dominos_pizza_fr,Domino's,,PARIS,,,FR,,https://www.dominos.fr/magasin/paris-7_75007,,Domino's,Q839466
+FR385,longchamp,Longchamp Le Bon Marche Rive Gauche,,PARIS,,,FR,+33 1 85 60 00 12,,,Longchamp,Q1869471
+https://boutiques.natalys.com/#location-7255,natalys_fr,Natalys Paris St Dominique,,PARIS,,,FR,+33 1 45 51 63 64,https://boutiques.natalys.com/fr/france-FR/7255/natalys-paris-st-dominique/details,Mo-Sa 10:00-19:00,Natalys,Q3336439
+https://stores.petit-bateau.com/#9115888,petit_bateau,PETIT BATEAU Paris Grenelle,,Paris,,,FR,+33 1 47 05 18 51,https://stores.petit-bateau.com/france/paris/186-rue-de-grenelle,Mo-Sa 10:00-19:00,Petit Bateau,Q3377090
+00030030_001-renault,renault,GARAGE BERTRAND EBLE,,PARIS,,,FR,+33 1 47 34 36 87,,,Renault,Q6686
+00030030_001-dacia,renault,GARAGE BERTRAND EBLE,,PARIS,,,FR,+33 1 47 34 36 87,,,Dacia,Q27460
+https://www.sixt.co.uk/car-hire/france/paris/paris-saxe-invalides/,sixt,Car Hire Paris 07 Saxe Invalides | SIXT rent a car,,Paris,,,FR,,https://www.sixt.co.uk/car-hire/france/paris/paris-saxe-invalides/,Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-20:00,SIXT,Q705664
+NF010258,totalenergies,RELAIS DES INVALIDES,,PARIS 07,,,FR,+33 1 47 05 36 34,https://store.totalenergies.fr/en_EN/NF010258,Mo-Fr 06:00-22:00; Sa-Su 07:00-22:00,TotalEnergies,Q154037
+NF015060,totalenergies,ACHIBANE ABDELLAH GGE VARENNE,,PARIS,,,FR,+33 1 45 51 54 40,https://store.totalenergies.fr/en_EN/NF015060,,Elan,Q57980752
+NF903452,totalenergies,ETNA TOURVILLE,,PARIS-7E-ARRONDISSEMENT,,,FR,,https://store.totalenergies.fr/en_EN/NF903452,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS 07,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+,visa,,,PARIS,,,FR,,,,,
+ea4c44697f7fe1851312cfb889348b63,western_union,BONG WENG PHILIPPINES STORE,,Paris,,,FR,+33 6 17 98 65 44,https://location.westernunion.com/fr/state/paris/ea4c44697f7fe1851312cfb889348b63,Mo-Sa 09:30-21:30; Su 13:00-21:30,Western Union,Q861042

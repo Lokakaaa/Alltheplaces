@@ -1,0 +1,605 @@
+City,Place Name,Zipcode,Name
+unknown,accor,6 Shota Rustaveli Street Passage 1 100059 TASHKENT,unknown,Mercure Tashkent
+unknown,accor,140100 SAMARKAND,unknown,Mövenpick Samarkand
+unknown,accor,200118 BUKHARA,unknown,Mercure Bukhara Old Town
+unknown,accor,107A Amir Temur Avenue YUNUSOBOD DISTRICT 100084 TASHKENT,unknown,Mövenpick Hotel Tashkent (Opening February 2024)
+unknown,alstom,12 Shota Rustaveli str. BC “Grand” - Tashkent 100070 - Uzbekistan,unknown,Tashkent
+unknown,church_of_england_gb,Tashkent,unknown,Anglican congregation in Tashkent
+unknown,deloitte,,unknown,Tashkent Office
+Фергана,dodo_pizza,,unknown,Фергана
+Ташкент,dodo_pizza,,unknown,Корасу
+Tashkent,ernst_young,Inconel Business center 3rd floor Mustaqillik Str. 75,unknown,EY
+TASHKENT,geox,,unknown,Geox TASHKENT
+unknown,hilton,1 Ukchi Street Tashkent 100027 Uzbekistan,unknown,Hilton Tashkent City
+unknown,hugo_boss,,unknown,Multi Brand Tashkent
+Kokand,man_truck_and_bus,,unknown,"""Avtosankomplekt Qoqand"" LLC"
+"Samarqand region, Djambay district",man_truck_and_bus,,unknown,"JV ""Uz Truck and Bus Motors"" LLC Service Center"
+Ugrench,man_truck_and_bus,,unknown,"""Ugrench Region Trans"" LLC"
+Navoi region,man_truck_and_bus,,unknown,"""Qiziltepa Trans Servis Kafolat"" LLC"
+Tashkent,man_truck_and_bus,,unknown,"""IDEAL SERVICE STAFF"" LLC"
+Tashkent region,man_truck_and_bus,,unknown,"""MOPAR TECHNO GROUP""LLC"
+TASHKENT,man_truck_and_bus,,unknown,"""MAGISTRAL DIESEL SERVICE"" LLC"
+QARSHI,man_truck_and_bus,,unknown,"""QARSHI TRANS SERVIS KAFOLAT"" LLC"
+Bukhara,man_truck_and_bus,,unknown,"""TRUCK SERVICE CENTER"" LLC"
+Ташкент,man_truck_and_bus,,unknown," ""ALPHA COMPONENTS""  LLC"
+Tashkent,marriott,,unknown,Courtyard Tashkent
+unknown,mexx,60 Amir Temur Street 100017 Tashkent,unknown,Mexx Tashkent
+MARKHAMAT,moneygram,,unknown,HAMKORBANK - MARKHAMAT OFIS BANKOVSKIH U
+TASHKENT,moneygram,,unknown,ALOKABANK
+CHIRCIK,moneygram,,unknown,INFINBANK
+GIJDUVON,moneygram,,unknown,HALK BANK - GIJDUVON - GIJDUVON BXM
+YANGIARIK,moneygram,,unknown,HALK BANK
+ASAKA,moneygram,,unknown,HAMKORBANK
+GURLAN,moneygram,,unknown,HALK BANK
+ANDIJAN,moneygram,,unknown,TRUST BANK - ANDIJAN - ANDIJAN BRANCH
+KARSHI,moneygram,,unknown,ALOKABANK
+SAMARKAND,moneygram,,unknown,IPOTEKA BANK - SAMARKAND - PUNKT JUMA
+KHAZARASP,moneygram,,unknown,ASAKABANK - #1169 - KHAZARASP - KHAZARAS
+DUSTABOD,moneygram,,unknown,IPOTEKA BANK - DUSTABOD - PUNKT DUSTABOD
+KUVA,moneygram,,unknown,NBU
+MARGILAN,moneygram,,unknown,NBU
+DENOV - 3,moneygram,,unknown,NBU
+NAMANGAN,moneygram,,unknown,NBU
+NAVOIY,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+GULISTAN,moneygram,,unknown,"""HAMKORBANK - GULISTAN - MINIBANK """"SAYHUN"""
+HODJEYLI,moneygram,,unknown,AGROBANK
+MING BULAK,moneygram,,unknown,AGROBANK
+NUKUS,moneygram,,unknown,IPOTEKA BANK - NUKUS - PUNKT JAYHUN
+TURAKURGAN,moneygram,,unknown,NBU
+TURTKUL,moneygram,,unknown,KAPITALBANK
+RISHTON,moneygram,,unknown,NBU
+CHARTAK,moneygram,,unknown,AGROBANK
+UCHKURGAN,moneygram,,unknown,INFINBANK - UCHKURGAN - UCHKURGAN CENTER
+YANGIYUL,moneygram,,unknown,OJSIC BANK IPAK YULI
+KHIVA,moneygram,,unknown,IPOTEKA BANK - KHIVA - PUNKTKHIVA
+FERGANA,moneygram,,unknown,UZPROMSTROYBANK
+TERMEZ,moneygram,,unknown,ALOKABANK
+PAHTAABAD,moneygram,,unknown,"""HAMKORBANK - PAHTAABAD - MINIBANK """"PAHTA"""
+POYTUG,moneygram,,unknown,"""HAMKORBANK - POYTUG - MINIBANK """"IZBOSKAN"""
+ZHAMBAI UPS,moneygram,,unknown,NBU
+ALMALYK,moneygram,,unknown,IPOTEKA BANK
+SHAKHRISABZ,moneygram,,unknown,NBU
+BULOKBOSHI,moneygram,,unknown,AGROBANK
+TERMIZ,moneygram,,unknown,IPOTEKA BANK - TERMIZ - PUNKT DENOV
+SIRDARYA,moneygram,,unknown,AGROBANK
+BULUNGUR,moneygram,,unknown,AGROBANK
+URGENCH,moneygram,,unknown,IPOTEKA BANK - URGENCH - PUNKT URGENCH
+KHANABAD,moneygram,,unknown,"""HAMKORBANK - KHANABAD - MINIBANK """"KHANAB"""
+NAVOI,moneygram,,unknown,"""IPOTEKA BANK - NAVOI - PUNKT """"SAHOVAT"""""""
+BUXARA,moneygram,,unknown,ORIENT FINANS - #23 - CBU BUXARA MEGA
+DUSTLIK,moneygram,,unknown,AGROBANK
+GALLAOROL,moneygram,,unknown,HALK BANK
+XOVOS,moneygram,,unknown,ASAKA BANK - #373 - XOVOS - SIRDARYA BRA
+ANDIZHAN,moneygram,,unknown,IPOTEKA BANK
+ELLIKKALA,moneygram,,unknown,HALK BANK - ELLIKKALA - ELLIQQALA BXM
+TAHIATASH,moneygram,,unknown,UZPROMSTROYBANK
+KEGEYLI,moneygram,,unknown,AGROBANK
+KONLIKUL,moneygram,,unknown,HALK BANK
+XODJEYLI,moneygram,,unknown,HALK BANK
+AMUDARYO,moneygram,,unknown,HALK BANK
+KORAUZAK,moneygram,,unknown,HALK BANK
+NURTKUL,moneygram,,unknown,HALK BANK
+MUYNOK,moneygram,,unknown,HALK BANK
+SHUMANAY,moneygram,,unknown,AGROBANK
+KUNGIROT,moneygram,,unknown,HALK BANK
+BERUNIY,moneygram,,unknown,KAPITAL BANK - BERUNIY - MINI-BANK BERUN
+CHIMBOY,moneygram,,unknown,QISHLOQ QUIRILISH BANK - CHIMBOY BRANCH
+OKMANGIT,moneygram,,unknown,HALK BANK
+TAHTAKUPIR,moneygram,,unknown,HALK BANK
+BUZ,moneygram,,unknown,AGROBANK
+SHAHRIHON,moneygram,,unknown,HALK BANK
+PAHTAOBOD,moneygram,,unknown,HALK BANK
+ANDIJON,moneygram,,unknown,TURONBANK
+HONOBOD,moneygram,,unknown,HALK BANK
+OLTINKUL,moneygram,,unknown,HALK BANK
+KORASUV,moneygram,,unknown,HALK BANK
+BUKHARA,moneygram,,unknown,IPOTEKA BANK - BUKHARA - PUNKT GIJDUVAN
+KOGON,moneygram,,unknown,NBU
+VOBKENT,moneygram,,unknown,KAPITAL BANK - VOBKENT - BANKING SERVICE
+JONDOR,moneygram,,unknown,HALK BANK - JONDOR - JONDOR BXM
+PESHKU,moneygram,,unknown,JSCB MIKROKREDITBANK - YANGIBAZARSKOE OT
+JIZZAH,moneygram,,unknown,ALOKABANK
+ZOMIN,moneygram,,unknown,HALK BANK
+FORISH,moneygram,,unknown,HALK BANK
+MIRZACHUL,moneygram,,unknown,AGROBANK
+PAHTAKOR,moneygram,,unknown,NBU - BANKING SERVICES CENTER PAHTAKOR
+BAHMAL,moneygram,,unknown,AGROBANK
+ARNASOY,moneygram,,unknown,HALK BANK
+UCHTEPA,moneygram,,unknown,AGROBANK
+ZARBDOR,moneygram,,unknown,HALK BANK
+ZAFAROBOD,moneygram,,unknown,HALK BANK
+KOSON,moneygram,,unknown,TURONBANK
+CHIROKCHI,moneygram,,unknown,TURONBANK
+SHAHRISABZ,moneygram,,unknown,"""IPOTEKA BANK - SHAHRISABZ - PUNKT """"YANGI"""
+YAKKABOG,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+GUZOR,moneygram,,unknown,NBU
+DEHKONOBOD,moneygram,,unknown,HALK BANK
+KITOB,moneygram,,unknown,HALK BANK
+KAMASHI,moneygram,,unknown,AGROBANK
+KASBI,moneygram,,unknown,IPAK YULI BANK - KASBI - EXPRESS CENTR K
+NISHON,moneygram,,unknown,HALK BANK
+MIRISHKOR,moneygram,,unknown,HALK BANK
+MUBORAK,moneygram,,unknown,HALK BANK
+NUROTA,moneygram,,unknown,HALK BANK
+KARMANA,moneygram,,unknown,JSCB MIKROKREDITBANK - KARMANINSKOE OTDE
+HATIRCHI,moneygram,,unknown,HALK BANK
+KIZILTEPA,moneygram,,unknown,NBU
+ZARAFSHON,moneygram,,unknown,ASAKA BANK
+NAVBAHOR,moneygram,,unknown,AGROBANK
+YANGIKURGON,moneygram,,unknown,HALK BANK
+MINGBULOK,moneygram,,unknown,HALK BANK
+POP,moneygram,,unknown,HALK BANK - POP - POP SHAHAR MARKAZI BXM
+CHUST,moneygram,,unknown,HAMKORBANK - CHUST - CHUSTSKIY FILIAL
+UCHKURGON,moneygram,,unknown,HALK BANK
+KOSONSOY,moneygram,,unknown,HALK BANK
+TURAKURGON,moneygram,,unknown,HALK BANK
+CHORTOK,moneygram,,unknown,HALK BANK
+POYARIK,moneygram,,unknown,HALK BANK
+PAHTACHI,moneygram,,unknown,HALK BANK
+TEMIRYUL,moneygram,,unknown,HALK BANK
+PAYSHANBA,moneygram,,unknown,"""QISHLOQ QUIRILISH BANK - SBU """"KADAN"""""""
+SIYOB,moneygram,,unknown,HALK BANK
+KUSHRABAT,moneygram,,unknown,AGROBANK
+CHELAK,moneygram,,unknown,NBU - BANKING SERVICES CENTER PAYARIK
+UZUN,moneygram,,unknown,JSCB MIKROKREDITBANK - UZUNSKOE OTDELENI
+DENAV,moneygram,,unknown,HALK BANK
+SHERABAT,moneygram,,unknown,HALK BANK
+KIZIRIK,moneygram,,unknown,AGROBANK
+KUMKURGON,moneygram,,unknown,HALK BANK
+OLTINSOY,moneygram,,unknown,HALK BANK - OLTINSOY - EKROZ BXM
+YANGIYER,moneygram,,unknown,HAMKORBANK - YANGIYER - YANGIYER OFIS BA
+BAYAVUT,moneygram,,unknown,HALK BANK
+SARDOBA,moneygram,,unknown,NBU - BANKING SERVICES CENTER OQOLTIN
+SAYHUNABAD,moneygram,,unknown,HALK BANK
+OK-OLTIN,moneygram,,unknown,HALK BANK
+MIRZAABAD,moneygram,,unknown,HALK BANK
+HAVAS,moneygram,,unknown,AGROBANK
+GAZALKENT,moneygram,,unknown,NBU
+YUKARI-CHIRCHIK,moneygram,,unknown,HALK BANK
+AHANGARAN,moneygram,,unknown,HALK BANK
+KUYI CHIRCHIK,moneygram,,unknown,HALK BANK - KUYI CHIRCHIK - TINCHLIK BXM
+PSKENT,moneygram,,unknown,JSCB MIKROKREDITBANK - PSKENTSKOE OTDELE
+URTA CHIRCHIK,moneygram,,unknown,HALK BANK
+KIBRAY,moneygram,,unknown,"""AKB """"UZPROMSTROYBANK"""" - KIBRAY - KIBRAY"""
+ZANGIATA,moneygram,,unknown,INFINBANK
+AKKURGAN,moneygram,,unknown,JSCB MIKROKREDITBANK - AKKURGANSKOE OTDE
+CHINAZ,moneygram,,unknown,HAMKORBANK
+CHIRCHIK,moneygram,,unknown,HAMKORBANK - CHIRCHIK - CHIRCHIKSKIY FIL
+BUKA,moneygram,,unknown,AGROBANK
+BEKABAD,moneygram,,unknown,IPOTEKA BANK
+ANGREN,moneygram,,unknown,"""HAMKORBANK - ANGREN - MINIBANK """"OMAD"""""""
+ALMALIK,moneygram,,unknown,"""AKB """"UZPROMSTROYBANK""""/""""UZSANOATQURILISHB"""
+ZAFAR,moneygram,,unknown,AGROBANK
+PARKENT,moneygram,,unknown,AGROBANK
+TASHLAK,moneygram,,unknown,AGROBANK
+HIVA,moneygram,,unknown,HALK BANK
+HONKA,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+HAZORASP,moneygram,,unknown,HALK BANK
+BAGAT,moneygram,,unknown,AGROBANK
+YANGIBAZAR,moneygram,,unknown,AGROBANK
+MIRABAD,moneygram,,unknown,HALK BANK
+SHAYHANTAHUR,moneygram,,unknown,HALK BANK
+M.ULUGBEK,moneygram,,unknown,HALK BANK
+YUNUSABAD,moneygram,,unknown,HALK BANK
+CHILANZAR,moneygram,,unknown,HALK BANK
+SERGELI,moneygram,,unknown,HALK BANK
+YASHNAABAD,moneygram,,unknown,HALK BANK
+ALMAZAR,moneygram,,unknown,HALK BANK
+BEKTEMIR,moneygram,,unknown,HALK BANK
+YAKKASAROY,moneygram,,unknown,HALK BANK
+YANGI-NISHAN,moneygram,,unknown,NBU
+KATTAKURGAN,moneygram,,unknown,KAPITAL BANK - KATTAKURGAN - MINI-BANK K
+RAMITAN,moneygram,,unknown,AGROBANK
+GIJDUVAN,moneygram,,unknown,NBU
+URGUT,moneygram,,unknown,NBU
+ZHIZZAKH,moneygram,,unknown,HAMKORBANK
+PITNAK,moneygram,,unknown,HALK BANK
+KUSHKUPIR,moneygram,,unknown,AGROBANK
+NARPAY,moneygram,,unknown,HALK BANK
+TAYLAK,moneygram,,unknown,HALK BANK
+JOMBAY,moneygram,,unknown,HALK BANK
+IZBOSGAN,moneygram,,unknown,HALK BANK
+UYCHI,moneygram,,unknown,INFINBANK - UYCHI - UYCHI CENTER OF BANK
+BALIKCHI,moneygram,,unknown,JSCB MIKROKREDITBANK - BALIKCHINSKOE OTD
+KURGANTEPA,moneygram,,unknown,NBU - BANKING SERVICES CENTER KURGANTEPA
+BULAK BASHI,moneygram,,unknown,HALK BANK
+SHAFIRKAN,moneygram,,unknown,JSCB MIKROKREDITBANK - SHAFIRKANSKOE OTD
+KARAUL,moneygram,,unknown,HALK BANK
+VODIL,moneygram,,unknown,HALK BANK - VODIL - CHIMYON BXM
+MARHAMAT,moneygram,,unknown,HALK BANK
+BESHARIK,moneygram,,unknown,INFINBANK - BESHARIK - BESHARIK CENTER O
+SHURCHI,moneygram,,unknown,KAPITAL BANK - SHURCHI - MINI-BANK SHURC
+KUVASAY,moneygram,,unknown,AGROBANK
+ALTIARIK,moneygram,,unknown,HAMKORBANK - ALTIARIK OFIS BANKOVSKIH US
+YAYPAN,moneygram,,unknown,HAMKORBANK - YAYPAN OFIS BANKOVSKIH USLU
+SHAVAT,moneygram,,unknown,AGROBANK
+RISHTAN,moneygram,,unknown,AGROBANK
+GALAASIYA,moneygram,,unknown,HALK BANK
+YAZYAVAN,moneygram,,unknown,AGROBANK
+ALAT,moneygram,,unknown,AGROBANK
+ROMITAN,moneygram,,unknown,JSCB MIKROKREDITBANK - ROMITANSKOE OTDEL
+PASDAGARM,moneygram,,unknown,HALK BANK
+DANGARA,moneygram,,unknown,AGROBANK
+KUMKURGAN,moneygram,,unknown,AGROBANK
+CHIROQCHI,moneygram,,unknown,IPAK YULI BANK - CHIROQCHI - EXPRESS CEN
+KASAN,moneygram,,unknown,AGROBANK
+QAMASHI,moneygram,,unknown,IPAK YULI BANK - QAMASHI - EXPRESS CENTR
+QARSHI,moneygram,,unknown,"""PUNKT FAROVON - QARSHI - PUNKT """"NURISTON"""
+ANGOR,moneygram,,unknown,JSCB MIKROKREDITBANK - ANGORSKOE OTDELEN
+BAKHMAL,moneygram,,unknown,HALK BANK - BAKHMAL - SAKA MINI BANKI BX
+BALIQCHI,moneygram,,unknown,HALK BANK - BALIQCHI - ULUGNOR BXM
+BESHARIQ,moneygram,,unknown,HALK BANK - BESHARIQ - RAPQON BXM
+BUHORO,moneygram,,unknown,ALOKABANK
+BUVAYDA,moneygram,,unknown,HALK BANK
+DENOV,moneygram,,unknown,HAMKORBANK
+GALAOSIYO,moneygram,,unknown,HALK BANK - GALAOSIYO - GALAOSIYO BXM
+GULISTON,moneygram,,unknown,HALK BANK - GULISTON - GULISTON BXM
+HOVOS,moneygram,,unknown,HALK BANK - HOVOS - HOVOS BXM
+ISHTIXON,moneygram,,unknown,HAMKORBANK - ISHTIXON - ISHTIXON OFIS BA
+JALAQUDUQ,moneygram,,unknown,HALK BANK - JALAQUDUQ - UZBEKISTAN BXM
+JARQORGON,moneygram,,unknown,HALK BANK - JARQORGON - KAKAYDI BXM
+JOMBOY,moneygram,,unknown,INFINBANK - JOMBOY - JOMBOY CENTER OF BA
+KORGONTEPA,moneygram,,unknown,HALK BANK - KORGONTEPA - MUSTAQILLIK BXM
+KUYGANYOR,moneygram,,unknown,HALK BANK - KUYGANYOR - JAHON BOZORI BXM
+MIRZACHOL,moneygram,,unknown,HALK BANK - MIRZACHOL - DAVLAT XIZMATLAR
+NAVBAXOR,moneygram,,unknown,HALK BANK - NAVBAXOR - KONIMEX BXM
+NDIJON,moneygram,,unknown,HALK BANK - NDIJON - TADBIRKORLIKNI RIVO
+NUROBOD,moneygram,,unknown,HALK BANK - NUROBOD - .TEMUR BXM
+OQDARYO,moneygram,,unknown,HALK BANK - OQDARYO - DAXBED BXM
+PAXTAOBOD,moneygram,,unknown,NBU - BANKING SERVICES CENTER PAHTAABAD
+QOQON,moneygram,,unknown,HALK BANK - QOQON - MEDIA PARK BXM
+QOSHTEPA,moneygram,,unknown,HALK BANK - QOSHTEPA - DEHQON BOZORI BXM
+QUMQURGON,moneygram,,unknown,HALK BANK - QUMQURGON - YANGIYER BXM
+SHAXRISABZ,moneygram,,unknown,INFINBANK - SHAXRISABZ - KESH CENTER OF
+TOSHKENT,moneygram,,unknown,KAPITALBANK - TOSHKENT - DEPARTMENT OF R
+TOYLOQ,moneygram,,unknown,HALK BANK - TOYLOQ - BOGIZAGON BXM
+XIVA,moneygram,,unknown,HALK BANK - XIVA - XIVA SHAHAR
+YANGIQORGON,moneygram,,unknown,HALK BANK - YANGIQORGON - ZARKENT DEHQON
+MIRZABAD,moneygram,,unknown,TURONBANK
+AKDARYA,moneygram,,unknown,AGROBANK
+SHAROF RASHIDOV,moneygram,,unknown,TURONBANK
+XUJAYLI,moneygram,,unknown,TURONBANK
+JARKURGAN,moneygram,,unknown,AGROBANK
+KARAKUL,moneygram,,unknown,NBU
+DJALALKUDUK,moneygram,,unknown,HALK BANK
+HODJAABAD,moneygram,,unknown,HALK BANK
+BOYSUN,moneygram,,unknown,HALK BANK
+NURABAD,moneygram,,unknown,NBU
+BOZATAU,moneygram,,unknown,HALK BANK - BOZATAU - BOZATAU BXM
+KUNGIRAT,moneygram,,unknown,HALK BANK - KUNGIRAT - USTYURT BXM
+AMU-DARYA,moneygram,,unknown,AGROBANK
+BANDIXON,moneygram,,unknown,HALK BANK - BANDIXON - BANDIXON BXM
+BAXT,moneygram,,unknown,HALK BANK - BAXT - BAHT BXM
+KELES,moneygram,,unknown,INFINBANK - KELES - KELES CENTER OF BANK
+KHUJAYLI,moneygram,,unknown,"""AKB """"UZPROMSTROYBANK""""/""""UZSANOATQURILISHB"""
+OLOT,moneygram,,unknown,HALK BANK - OLOT - SHAYHLAR BXM
+OQOLTIN,moneygram,,unknown,HALK BANK - OQOLTIN - OQOLTIN BXM
+PASTDARGAM,moneygram,,unknown,HALK BANK - PASTDARGAM - TINCHLIK BXM
+SAMARQAND,moneygram,,unknown,UZPROMSTROYBANK
+SARIASIYA,moneygram,,unknown,HALK BANK - SARIASIYA - SANGARDAK BXM
+SHOFIRKON,moneygram,,unknown,HALK BANK - SHOFIRKON - SHOFIRKON SAYQAL
+UCHQUDUQ,moneygram,,unknown,HALK BANK - UCHQUDUQ - UCHQUDUQ BXM
+YANGIOBOD,moneygram,,unknown,HALK BANK - YANGIOBOD - YANGIOBOD BXM
+ZANGIOTA,moneygram,,unknown,IPOTEKA BANK - ZANGIOTA - PUNKT DOSTLIK
+NURAFSHON,moneygram,,unknown,IPOTEKA BANK - PUNKT NURAFSHON
+KOKAND,moneygram,,unknown,NBU
+KATTAQURGON,moneygram,,unknown,IPAK YULI BANK - KATTAQURGON - EXPRESS C
+UCKURGAN,moneygram,,unknown,QISHLOQ QUIRILISH BANK - UCHKURGAN BRANC
+ALTYNKUL,moneygram,,unknown,HAMKORBANK - OLTINKUL OFIS BANKOVSKIH US
+LOISH,moneygram,,unknown,INFINBANK - LOISH - OQDARYO CENTER OF BA
+QUMQURGAN,moneygram,,unknown,JSCB MIKROKREDITBANK - QUMQURGANSKOE OTD
+SHERABAD,moneygram,,unknown,NBU
+UCHQIZIL,moneygram,,unknown,JSCB MIKROKREDITBANK - UCHQIZILSKOE OTDE
+DJIZZAX,moneygram,,unknown,TURONBANK
+KASHKADARYA,moneygram,,unknown,AGROBANK
+SURKHANDARYA,moneygram,,unknown,TURONBANK
+KHORAZM,moneygram,,unknown,TURONBANK
+JIZZAK,moneygram,,unknown,JSCB MIKROKREDITBANK - JIZZAKSKOE OTDELE
+TASHKENTSKAYA OBLAST,moneygram,,unknown,QISHLOQ QUIRILISH BANK - TASHKENTSKIY OB
+JUMA,moneygram,,unknown,KAPITAL BANK - JUMA - BANKING SERVICES O
+OLTIARIK,moneygram,,unknown,IPAK YULI BANK - OLTIARIK - EXPRESS CENT
+GURLEN,moneygram,,unknown,AGROBANK
+HANKA,moneygram,,unknown,HAMKORBANK - HONKA OFIS BANKOVSKIH USLUG
+MANGIT,moneygram,,unknown,KAPITAL BANK - MANGIT - MINI-BANK MANGIT
+BUHARA,moneygram,,unknown,UZPROMSTROYBANK
+PAP,moneygram,,unknown,JSCB MIKROKREDITBANK - PAPSKOE OTDELENIE
+QUMKURGAN,moneygram,,unknown,QISHLOQ QUIRILISH BANK - KUMKURGANSKIY F
+OLTIARIQ,moneygram,,unknown,ASAKA BANK - #539 - OLTIARIQ - FERGANA B
+KUNGRAD,moneygram,,unknown,UZPROMSTROYBANK
+HAKKULOBOD,moneygram,,unknown,HAMKORBANK - NORIN OFIS BANKOVSKIH USLUG
+GALLAARAL,moneygram,,unknown,AGROBANK
+MUZRABAD,moneygram,,unknown,AGROBANK
+BUSTON,moneygram,,unknown,HAMKORBANK - BUSTON OFIS BANKOVSKIH USLU
+CHIRAKCHI,moneygram,,unknown,AGROBANK
+JAMBAY,moneygram,,unknown,AGROBANK
+KITAB,moneygram,,unknown,OJSIC BANK IPAK YULI
+KHONOBOD,moneygram,,unknown,"""AKB """"UZPROMSTROYBANK"""" - KHONOBOD - KHONO"""
+QOROULBOZOR,moneygram,,unknown,"""AKB """"UZPROMSTROYBANK""""/""""UZSANOATQURILISHB"""
+SARIOSIYO,moneygram,,unknown,AGROBANK
+DENAU,moneygram,,unknown,KAPITAL BANK - DENAU - MINI-BANK DENAU
+DJIZZAK,moneygram,,unknown,"""AKB """"UZPROMSTROYBANK""""/""""UZSANOATQURILISHB"""
+NAVAI,moneygram,,unknown,HAMKORBANK - TINCHLIK OFIS BANKOVSKIH US
+TUI - TEPA,moneygram,,unknown,NBU
+PAKHTAABAD,moneygram,,unknown,JSCB MIKROKREDITBANK - PAKHTAABADSKOE OT
+MARCHAMAT,moneygram,,unknown,AGROBANK
+SHAHRIKHAN,moneygram,,unknown,AGROBANK
+HAJAABAD,moneygram,,unknown,AGROBANK
+AKHUNBABAYEV,moneygram,,unknown,AGROBANK
+PAITUG,moneygram,,unknown,NBU - BANKING SERVICES CENTER PAYTUG
+OLTINCOOL,moneygram,,unknown,AGROBANK
+AKALTIN,moneygram,,unknown,AGROBANK
+KUIGANER,moneygram,,unknown,AGROBANK
+GIZHDUVAN,moneygram,,unknown,AGROBANK
+CARACUL,moneygram,,unknown,AGROBANK
+ZHANDAR,moneygram,,unknown,AGROBANK
+GALA OSIYO,moneygram,,unknown,AGROBANK
+ARNASAY,moneygram,,unknown,AGROBANK
+ZARBDAR,moneygram,,unknown,AGROBANK
+JIZAK,moneygram,,unknown,AGROBANK
+PAKHTAKOR,moneygram,,unknown,NBU
+ZAMIN,moneygram,,unknown,JSCB MIKROKREDITBANK - ZAMINSKOE OTDELEN
+ZAFARABAD,moneygram,,unknown,AGROBANK
+FARISH,moneygram,,unknown,AGROBANK
+DEKHKANABAD,moneygram,,unknown,AGROBANK
+GUZAR,moneygram,,unknown,AGROBANK
+CASBY,moneygram,,unknown,AGROBANK
+YACCABAG,moneygram,,unknown,AGROBANK
+BESHKENT,moneygram,,unknown,AGROBANK
+MIRISHKAR,moneygram,,unknown,AGROBANK
+MUBARAK,moneygram,,unknown,NBU
+YANGINISHAN,moneygram,,unknown,AGROBANK
+NAVAIL,moneygram,,unknown,AGROBANK
+POCKET,moneygram,,unknown,AGROBANK
+KANIMEKH,moneygram,,unknown,AGROBANK
+NURATA,moneygram,,unknown,AGROBANK
+TOMDIBULAC,moneygram,,unknown,AGROBANK
+KHATIRCHI,moneygram,,unknown,AGROBANK
+KASANSAI,moneygram,,unknown,NBU
+NARIN,moneygram,,unknown,HALK BANK
+YANGI-KURGAN,moneygram,,unknown,AGROBANK
+DAVLATABAD,moneygram,,unknown,AGROBANK
+AKTASH,moneygram,,unknown,JSCB MIKROKREDITBANK - AKTASHSKOE OTDELE
+PAYSHANBI,moneygram,,unknown,AGROBANK
+SIAB,moneygram,,unknown,AGROBANK
+PAKHTACHI,moneygram,,unknown,AGROBANK
+ISHTIKHAN,moneygram,,unknown,AGROBANK
+GUZALKENT,moneygram,,unknown,AGROBANK
+MAN,moneygram,,unknown,AGROBANK
+TAILAK,moneygram,,unknown,AGROBANK
+THERMIZ,moneygram,,unknown,AGROBANK
+BAYSUN,moneygram,,unknown,AGROBANK
+UCHKIZIL,moneygram,,unknown,AGROBANK
+OLTINSUI,moneygram,,unknown,AGROBANK
+SARDABA,moneygram,,unknown,AGROBANK
+YANGIER,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+BYAVUT,moneygram,,unknown,AGROBANK
+SHIRIN,moneygram,,unknown,AGROBANK
+SAYKHUNABAD,moneygram,,unknown,AGROBANK
+AK-ALTIN,moneygram,,unknown,AGROBANK
+AKHANGARAN,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+DUSTABAD,moneygram,,unknown,AGROBANK
+TUI-TEPA,moneygram,,unknown,AGROBANK
+ALTYARYK,moneygram,,unknown,AGROBANK
+BAGHDAD,moneygram,,unknown,AGROBANK
+UCHKUPRIK,moneygram,,unknown,JSCB MIKROKREDITBANK - UCHKUPRIKSKOE OTD
+BESHARYK,moneygram,,unknown,AGROBANK
+KORAKUSHCHI,moneygram,,unknown,AGROBANK
+BUWAYDA,moneygram,,unknown,AGROBANK
+JAIPAN,moneygram,,unknown,AGROBANK
+DRY,moneygram,,unknown,AGROBANK
+CHARESM,moneygram,,unknown,AGROBANK
+HAZARASP,moneygram,,unknown,NBU
+YANGIARYK,moneygram,,unknown,AGROBANK
+GUARD,moneygram,,unknown,AGROBANK
+KUNGIRAD,moneygram,,unknown,AGROBANK
+MUYNAK,moneygram,,unknown,AGROBANK
+TAKHTAKUPIR,moneygram,,unknown,AGROBANK
+CHIMBAY,moneygram,,unknown,NBU - BRANCH CHIMBAY
+BERUNIA,moneygram,,unknown,AGROBANK
+KANLYKUL,moneygram,,unknown,AGROBANK
+KARAUZAK,moneygram,,unknown,AGROBANK
+ELLIKALA,moneygram,,unknown,AGROBANK
+JARQURGON,moneygram,,unknown,NBU - BANKING SERVICES CENTER JARQURGON
+UICI UPS,moneygram,,unknown,NBU
+QASHQADARYA,moneygram,,unknown,UZPROMSTROYBANK
+ZARMITAN,moneygram,,unknown,NBU - BANKING SERVICES CENTER ZARMITAN
+JIZZAKH,moneygram,,unknown,IPOTEKA BANK - PUNKTKHALKABOD
+AKHUNBABAEV,moneygram,,unknown,JSCB MIKROKREDITBANK - AKHUNBABAEVSKOE O
+ALTINKUL,moneygram,,unknown,JSCB MIKROKREDITBANK - ALTINKULSKOE OTDE
+BOYAVUT,moneygram,,unknown,JSCB MIKROKREDITBANK - BOYAVUTSKOE OTDEL
+CHORTOQ,moneygram,,unknown,JSCB MIKROKREDITBANK - CHARTAKSKOE OTDEL
+KHALQABAD,moneygram,,unknown,JSCB MIKROKREDITBANK - MUZARABADSKOE OTD
+QIZILTEPA,moneygram,,unknown,JSCB MIKROKREDITBANK - QIZILTEPINSKOE OT
+QIZIRIQ,moneygram,,unknown,JSCB MIKROKREDITBANK - QIZIRIQSKOE OTDEL
+SHAKHRIXAN,moneygram,,unknown,JSCB MIKROKREDITBANK - SHAKHRIXANSKOE OT
+ZIYOVUDDIN,moneygram,,unknown,JSCB MIKROKREDITBANK - ZIYOVUDDINSKOE OT
+OKHANGARON,moneygram,,unknown,IPOTEKA BANK - OKHANGARON - PUNKT NUROBO
+KUVASAI,moneygram,,unknown,NBU
+KIBRAI,moneygram,,unknown,INFINBANK
+VABKENT,moneygram,,unknown,NBU
+BOZATOV,moneygram,,unknown,HALK BANK - BOZATOV - BOZATOV BRANCH
+MIRBAZAR,moneygram,,unknown,INFINBANK - MIRBAZAR - MIRBAZAR CENTER O
+SHOVOT,moneygram,,unknown,NBU
+ZARAFSHAN,moneygram,,unknown,IPOTEKA BANK - ZARAFSHAN - PUNKT DIYOR
+NAVOIY CITY,moneygram,,unknown,ORIENTFINANSBANK - #29 - NAVOIY CITY - C
+PAYARIK,moneygram,,unknown,HAMKORBANK - PAYARIK - CHELAK OFIS BANKO
+KUKON,moneygram,,unknown,IPAK YULI BANK - KUKON BXM
+BUXORO,moneygram,,unknown,IPAK YULI BANK - ROMITAN BXM
+KASKADARYA,moneygram,,unknown,"""INFINBANK - KASKADARYA - """"GUZOR"""" CENTER"""
+OXANGARON,moneygram,,unknown,OJSCB HAMKORBANK - OXANGARON - OXANGARON
+FERGHANA,moneygram,,unknown,IPOTEKA BANK
+URGENC,moneygram,,unknown,"""IPOTEKA BANK - URGENC - PUNKT """"BUYUM BOZ"""
+DJIZAK,moneygram,,unknown,NBU
+GALAASIY,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+BERUNII,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+QUVASOY,moneygram,,unknown,HAMKORBANK
+TASKENT,moneygram,,unknown,HAMKORBANK
+YANGIIUL,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+SHAKHRIKHAN,moneygram,,unknown,HAMKORBANK
+CHINABAD,moneygram,,unknown,HAMKORBANK
+OKHUNBABAEV,moneygram,,unknown,HAMKORBANK
+KHUJAABAD,moneygram,,unknown,HAMKORBANK
+SHURCI,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+VUADIL,moneygram,,unknown,HAMKORBANK
+KHIWA,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+JARQO'RG'ON,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+SARIASIY,moneygram,,unknown,QISHLOQ QUIRILISH BANK
+CHIRCHIQ,moneygram,,unknown,IPOTEKA BANK
+OHANGARON,moneygram,,unknown,IPOTEKA BANK
+BEKOBOD,moneygram,,unknown,IPOTEKA BANK
+CHINOZ,moneygram,,unknown,IPOTEKA BANK
+JIZZAX,moneygram,,unknown,IPOTEKA BANK
+SHAYTANKUDUK,moneygram,,unknown,IPOTEKA BANK
+ANDIGAN,moneygram,,unknown,TRUSTBANK
+KHUJAOBOD,moneygram,,unknown,QISHLOQ QUIRILISH BANK - KHUJAOBOD
+DJIZZAKH,moneygram,,unknown,QISHLOQ QUIRILISH BANK - DJIZZAKH
+DJIZAKH,moneygram,,unknown,ASAKA BANK
+KAKAND,moneygram,,unknown,ASAKA BANK
+KIRGULI,moneygram,,unknown,UZPROMSTROYBANK
+BOSTON,moneygram,,unknown,UZPROMSTROYBANK
+NAVAIY,moneygram,,unknown,UZPROMSTROYBANK
+QIBRAY,moneygram,,unknown,UZPROMSTROYBANK
+TASHKENT CITY,moneygram,,unknown,ORIENT FINANS
+NAVOIYSKAYA OBLAST,moneygram,,unknown,NBU
+GAGARIN,moneygram,,unknown,NBU
+KARASU,moneygram,,unknown,HAMKORBANK - KARASU - MINIBANK KARASU
+UCKUDUK,moneygram,,unknown,NBU
+DJIZZAH,moneygram,,unknown,"""HAMKORBANK - DJIZZAH - MINIBANK """"KUK BOZ"""
+KHAZORASP,moneygram,,unknown,HAMKORBANK - KHAZORASP - KHAZORASP FILIA
+SHAHRIHAN,moneygram,,unknown,NBU - BANKING SERVICES CENTER SHAKHRIKHA
+YANGIKURGAN UPS,moneygram,,unknown,NBU
+JOMASHUY,moneygram,,unknown,JSCB MIKROKREDITBANK - JOMASHUYSKOE OTDE
+KASANSAY,moneygram,,unknown,JSCB MIKROKREDITBANK - KASANSAYSKOE OTDE
+ZHUMA UPS,moneygram,,unknown,NBU
+TASHBULAQ,moneygram,,unknown,JSCB MIKROKREDITBANK - TASHBULAKSKOE OTT
+KHONKA UPS,moneygram,,unknown,NBU
+Tashkent,ovs,,unknown,OVS FC TASHKENT CITY
+Samarkand,sixt,,unknown,Car Hire Samarkand Train Station | SIXT rent a car
+Tashkent,sixt,,unknown,Car Hire Tashkent | SIXT rent a car
+Tashkent,timberland,,unknown,Samarqand Darvoza
+Tashkent,tommy_hilfiger,,unknown,Tommy Hilfiger
+TASHKENT,united_colors_of_benetton,,unknown,Benetton Tashkent
+BUKHARA,visa,,unknown,unknown
+SAMARKAND,visa,,unknown,unknown
+TASHKENT,visa,,unknown,unknown
+KOKAND,visa,,unknown,unknown
+FERGHANA,visa,,unknown,unknown
+Karshi,western_union,,unknown,ALOKABANK
+Chimboy,western_union,,unknown,QISHLOK QURILISH BANK
+Chimbay,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Nukus,western_union,,unknown,ALOKABANK
+Karakul,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Buxora,western_union,,unknown,OBU  VOBKENT
+Urtachirchik,western_union,,unknown,TRUSTBANK
+Urgench,western_union,,unknown,TURONBANK
+Kharezm,western_union,,unknown,ALOKABANK
+Khanka,western_union,,unknown,TURONBANK
+Fergana,western_union,,unknown,UNIVERSAL BANK
+Andizhan,western_union,,unknown,ALOKABANK
+Shakhrikhan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Kuva,western_union,,unknown,UNIVERSAL BANK
+Navoi,western_union,,unknown,ALOKABANK
+Margilan,western_union,,unknown,QISHLOK QURILISH BANK
+Navai,western_union,,unknown,ALOKABANK
+Navoiy,western_union,,unknown,OBU NAVOIY
+Margilon,western_union,,unknown,OBU  MARGILON
+Sputnik,western_union,,unknown,QISHLOK QURILISH BANK
+Namangan,western_union,,unknown,OBU  CHUST
+Nurabad,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Uchkurgan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Altiarik,western_union,,unknown,ALOKABANK
+Toshlok,western_union,,unknown,UNIVERSAL BANK
+Oltiarik,western_union,,unknown,TRUSTBANK
+Yazyavan,western_union,,unknown,UNIVERSAL BANK
+Rishtan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Chartak,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Samarkand,western_union,,unknown,KAPITALBANK
+Uychi,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Urgut,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Oktosh,western_union,,unknown,QISHLOK QURILISH BANK
+Kattakurgan,western_union,,unknown,KAPITALBANK
+Dzhuma,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Buvayda,western_union,,unknown,UNIVERSAL BANK
+Kokand,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Bagdad,western_union,,unknown,UNIVERSAL BANK
+Yangikurgan,western_union,,unknown,UNIVERSAL BANK
+Kadan,western_union,,unknown,QISHLOK QURILISH BANK
+Oktepa,western_union,,unknown,UNIVERSAL BANK
+Nurota,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Uchkuprik,western_union,,unknown,ALOKABANK
+Dzhambay,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Ibrat,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Turakurgan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Dangara,western_union,,unknown,UNIVERSAL BANK
+Bulungur,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Kosonsoy,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Besharik,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Zarmitan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Yangiobod,western_union,,unknown,QISHLOK QURILISH BANK
+Pap,western_union,,unknown,QISHLOK QURILISH BANK
+Balikchi,western_union,,unknown,UNIVERSAL BANK
+Chust,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Dzhizzak,western_union,,unknown,ALOKABANK
+Almalyk,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Gulistan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Syrdarya,western_union,,unknown,QISHLOK QURILISH BANK
+Guliston,western_union,,unknown,TURONBANK
+Angren,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Gagarin,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Pakhtakor,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Yangier,western_union,,unknown,QISHLOK QURILISH BANK
+Bekabad,western_union,,unknown,QISHLOK QURILISH BANK
+Dzhizak,western_union,,unknown,TRUSTBANK
+Dzhizzakh,western_union,,unknown,QISHLOK QURILISH BANK
+Tashkent City,western_union,,unknown,OBU SARAKUL
+Tashkent,western_union,,unknown,ORIENT FINANS BANK
+Okhangaran,western_union,,unknown,QISHLOK QURILISH BANK
+Nuravshan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Nurafshon,western_union,,unknown,ALOKABANK
+Sardoba,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Chirchik,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Gazalkent,western_union,,unknown,QISHLOK QURILISH BANK
+Tashkent Oblast,western_union,,unknown,OBU  CHIRCHIK
+Yangiyul,western_union,,unknown,TURONBANK
+Eshonguzar Kurgon,western_union,,unknown,UNIVERSAL BANK
+Altyaryk,western_union,,unknown,UNIVERSAL BANK
+Guzar,western_union,,unknown,ALOKABANK
+Denau,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Surkhandarya,western_union,,unknown,ALOKABANK
+Uzun,western_union,,unknown,ALOKABANK
+Shurchi,western_union,,unknown,SHURCHI
+Djarkurgan,western_union,,unknown,OBU  DJARKURGAN
+Termiz,western_union,,unknown,ALOKABANK
+Zharkurgon,western_union,,unknown,TURONBANK
+Zharkurgan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Angor,western_union,,unknown,ALOKABANK
+Dzharkurgan,western_union,,unknown,QISHLOK QURILISH BANK
+Termez,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Bukhara,western_union,,unknown,ALOKABANK
+Kogon,western_union,,unknown,TURONBANK
+Kagan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Vabkent,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Shofirkon,western_union,,unknown,QISHLOK QURILISH BANK
+Shafirkan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Turtkul,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Khiva,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Kungrad,western_union,,unknown,QISHLOK QURILISH BANK
+Gizhduvan,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Gijduvon,western_union,,unknown,KAPITALBANK
+Mubarek,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Kiziltepa,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Kasbi,western_union,,unknown,OBU CHARKIY
+Khazarasp,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Bogot,western_union,,unknown,ALOKABANK
+Khonka,western_union,,unknown,QISHLOK QURILISH BANK
+Khanki,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Paytug,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Pakhtaabad,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Andijan,western_union,,unknown,KAPITALBANK
+Asaka,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Anidizhan,western_union,,unknown,TRUSTBANK
+Kurgantepa,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Markhamat,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Khodzhaabad,western_union,,unknown,QISHLOK QURILISH BANK
+Kuvasay,western_union,,unknown,NATIONAL BANK OF UZBEKISTAN
+Turakurgon,western_union,,unknown,UNIVERSAL BANK

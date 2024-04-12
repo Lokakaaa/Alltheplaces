@@ -1,0 +1,33 @@
+City,Place Name,Zipcode,Name
+Sapporo,audi,005-0035 Hokkaido SAPPORO-MINAMI Sapporo Minami 35Jo Nishi Minami-ku 10-1-1,unknown,Audi Sapporo Minami
+Sapporo,audi,062-8668 Hokkaido SAPPORO-HIGASHI Sapporo Tsukisamu Higashi 1Jo Toyohira-ku 16-1-1,unknown,Audi Tsukisamu
+Hokuto,audi,049-0101 Hokkaido HAKODATE Hokuto Oiwake 1-12-20,unknown,Audi Hakodate
+Asahikawa,audi,071-8111 Hokkaido ASAHIKAWA Asahikawa Higashi 1Jo Higashi-takasu 2-269-224,unknown,Audi Asahikawa
+Kushiro,audi,085-0058 Hokkaido KUSHIRO Kushiro Aikoku Higashi 1-12-8,unknown,Audi Kushiro
+Obihiro,audi,080-0040 Hokkaido OBIHIRO Obihiro Nishi 10Jo Kita 1-8,unknown,Audi Obihiro
+Kitami,audi,090-0837 Hokkaido KITAMI Kitami Chuo Miwa 6-437-1,unknown,Audi Kitami
+Sapporo,audi,063-0061 Hokkaido SAPPORO-NISHI (Share) Sapporo Nishimachi Kita Nishi-ku 3-1-1,unknown,Audi Sapporo Nishi
+Sapporo,audi,063-0061 Hokkaido SAPPORO-NISHI Sapporo Nishimachi Kita Nishi-ku 3-1-1,unknown,Audi Approved Automobile Sapporo Nishi
+Sapporo,audi,007-0805 Hokkaido SAPPORO-NISHI (Share) Sapporo Higashi Naebo 5Jo Higashi-ku 2-6-10,unknown,Audi Sapporo Higashi
+"Sapporo-city,",bmw_group,,unknown,"Kokusai Kogyo K.K., BPS Sapporo"
+Hakodate-city,bmw_group,,unknown,"K.K. Motoren Donan,Hakodate/MINI Ha kodate"
+"Kushiro-city,",bmw_group,,unknown,"K.K. Motoren Sapporo, BPS Kushiro/ MINI NEXT Kushiro"
+"Obihiro-city,",bmw_group,,unknown,"K.K. Motoren Sapporo, Obihiro/MINI Obihiro"
+"Kitami-city,",bmw_group,,unknown,"K.K. Motoren Sapporo, BPS Kitami/ MINI NEXT Kitami"
+Sapporo-city,bmw_group,,unknown,Y.K. Cyclone / M.Sapporo-Nishi Motorrad Sapporo-Nishi
+"Asahikawa-city,",bmw_group,,unknown,"K.K. Motoren Global, Asahikawa/MIN I Asahikawa/BPS/MINI NEXT Asahikawa"
+Asahikawa-city,bmw_group,,unknown,Y.K. PRIZE CORPORATION /M.Asahikawa Motorrad Asahikawa
+Sapporo,botteg_aveneta,,unknown,Sapporo - Daimaru
+Sapporo Chuo Ward,petit_bateau,,unknown,Petit Bateau Sapporo Daimaru
+"Sapporo-shi,",travelex,1F Asty 45 Bldg. 5-1Kitayonjonishi Chuo-ku Sapporo-shi 060-0004,unknown,SAPPORPO MONEY TRANSFER PLAZA
+"Chitose-shi,",travelex,3F Shinchitose Airport Int'l Terminal Bibi Chitose-shi 066-0012,unknown,SHIN CHITOSE INT DEP LOBBY
+"Chitose-shi,",travelex,2F Shinchitose Airport Int'l Terminal Bibi Chitose-shi 066-0012,unknown,SHIN CHITOSE INT ARR LOBBY
+Chitose-shi,travelex,3F Airside Shin-Chitose Airport Int'l Terminal Chitose-shi 066-0012,unknown,Shin Chitose Int Aside Departure Gate
+"Chitose-shi,",travelex,3F Airside Shinchitose Airport Int'l Terminal Bibi Chitose-shi Hokkaido  066-0012,unknown,SHIN CHITOSE INT DEP GATE
+"Chitose-shi,",travelex,1F Shinchitose Airport Domestic Terminal Bibi Chitose-shi 066-0012,unknown,SHINCHITOSE DOMESTIC ARRIVAL LOBBY (ANA)
+OTARU,visa,,unknown,unknown
+KUTCHAN,visa,,unknown,unknown
+SAPPORO,visa,,unknown,unknown
+HOKUTO,visa,,unknown,unknown
+CHITOSE,visa,,unknown,unknown
+Abuta Gun Kutchan Cho,western_union,,unknown,DSK LUCKY KUTCHAN

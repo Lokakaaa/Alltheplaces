@@ -1,0 +1,21 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+DE024054,aldi_nord_de,ALDI Nord,,Berlin,Berlin,,DE,+49 800 7234870,,Mo-Sa 07:00-21:00,ALDI Nord,Q41171373
+R443,apple,Apple Rosenthaler Straße,,Berlin,Berlin,,DE,+49 30 346493600,https://www.apple.com/de/retail/rosenthalerstrasse,Mo-Sa 10:00-20:00,Apple,Q421253
+6505823,dunkin_de,"Dunkin Berlin, Rathauspassagen","Rathausstraße 5, 10178 Berlin, Duitsland",Berlin,Berlin,,DE,,,Mo-Th 08:00-23:00; Fr-Sa 08:00-24:00; Su 08:00-23:00,Dunkin',Q847743
+6063032,dunkin_de,"Dunkin' Berlin, Alexanderplatz","10178 Berlin, Germany",Berlin,Berlin,,DE,,,Mo-Th 06:00-23:00; Fr 06:00-24:00; Sa 07:00-24:00; Su 07:00-23:00,Dunkin',Q847743
+7750291,dunkin_de,"Dunkin' Berlin, Karl-Liebknecht-Straße","Karl-Liebknecht-Str. 13, 10178 Berlin, Duitsland",Berlin,Berlin,,DE,,,Mo-Sa 08:00-21:00; Su 10:00-20:00,Dunkin',Q847743
+10002882,edeka_de,EDEKA Rosenthaler Straße,,Berlin,Berlin,,DE,+49 30 28094960,https://www.edeka.de/eh/minden-hannover/edeka-rosenthaler-str.-43-45/index.jsp,Mo-Sa 08:00-22:00,EDEKA,Q701755
+001588,karstadt_de,GALERIA Berlin Alexanderplatz,,Berlin,Berlin,,DE,+49 30 247430,,Mo-Sa 10:00-20:00,Karstadt,Q182910
+5632,netto_de,Netto Marken-Discount,,Berlin-Mitte,Berlin,,DE,,https://www.netto-online.de/filialen/berlin-mitte/alex-wedding-str-3/5632,Mo-Sa 07:00-22:00,Netto Marken-Discount,Q879858
+7641,netto_de,Netto Marken-Discount,,Berlin-Mitte,Berlin,,DE,,https://www.netto-online.de/filialen/berlin-mitte/rathausstr5/7641,Mo-Sa 07:00-22:00,Netto Marken-Discount,Q879858
+198,nordsee,NORDSEE Berlin Spandauer Straße,,Berlin,Berlin,,DE,+49 30 2426881,https://www.nordsee.com/en/restaurants/detail/store/NORDSEE%20Berlin%20Spandauer%20Stra%C3%9Fe-198,Mo-Th 12:00-19:00; Fr-Su 11:00-19:00,Nordsee,Q74866
+1021979,starbucks_eu,"Berlin, Hackescher Markt","Neue Promenade 3, 10178 Berlin",Berlin,Berlin,,DE,+49 30 28099508,,,Starbucks,Q37158
+1026905,starbucks_eu,"Berlin, Alexanderhaus","Alexanderplatz 2, 10178 Berlin",Berlin,Berlin,,DE,,,,Starbucks,Q37158
+6165,tedi,TEDi GmbH & Co. KG,,Berlin,BERLIN,,DE,+49 231 555770,https://www.tedi.com/stores/6165/de/BERLIN/Berlin/Karl-Liebknecht-Str-9-13,Mo-Sa 00:00-24:00,TEDi,Q1364603
+,visa,,,BERLIN STNR 0769 RG 4,BERLIN,,DE,,,,,
+,visa,,,BERLIN STNR 0741 RG 4,BERLIN,,DE,,,,,
+,visa,,,BERLIN STNR 5690 RG 4,BERLIN,,DE,,,,,
+,visa,,,BERLIN STNR 7690 RG 4,BERLIN,,DE,,,,,
+,visa,,,BERLIN STNR 0006 RG 4,BERLIN,,DE,,,,,
+,visa,,,BERLIN STNR 0001 RG 4,BERLIN,,DE,,,,,
+,visa,,,BERLIN STNR 0624 RG 4,BERLIN,,DE,,,,,

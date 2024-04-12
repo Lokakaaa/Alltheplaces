@@ -1,0 +1,72 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+IT091,longchamp,G&B Flero,,FLERO,,,IT,+39 030 256 0171,,,Longchamp,Q1869471
+71962795,moneygram,POSTE ITALIANE,,DELLO,,,IT,309770898,,Mo 00:00-24:00; Tu 08:20-13:35; We 00:00-24:00; Th 08:20-13:35; Fr 00:00-24:00; Sa 08:20-12:35; Su 00:00-24:00,MoneyGram,Q1944412
+71962753,moneygram,POSTE ITALIANE,,CIGOLE,,,IT,30959133,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+71962782,moneygram,POSTE ITALIANE,,BASSANO BRESCIANO,,,IT,309935488,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+41030725,moneygram,POSTE ITALIANE,,PONCARALE,,,IT,+39 030 264 0183,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+41027819,moneygram,POSTE ITALIANE,,AZZANO MELLA,,,IT,+39 030 974 8447,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+41028889,moneygram,POSTE ITALIANE,,FLERO,,,IT,+39 030 256 0111,,Mo-Fr 08:20-13:35; Sa 08:20-12:35; Su 00:00-24:00,MoneyGram,Q1944412
+41029406,moneygram,POSTE ITALIANE,,PRALBOINO,,,IT,+39 030 954114,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+41030152,moneygram,POSTE ITALIANE,,OFFLAGA,,,IT,+39 030 997 6062,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+41031928,moneygram,POSTE ITALIANE,,CAPRIANO DEL COLLE,,,IT,+39 030 974 7325,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+41035254,moneygram,POSTE ITALIANE,,DELLO,,,IT,+39 030 997 1377,,Mo-Fr 08:20-13:35; Sa 08:20-12:35; Su 00:00-24:00,MoneyGram,Q1944412
+41030233,moneygram,POSTE ITALIANE,,SAN PAOLO,,,IT,+39 030 997 9122,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+41030314,moneygram,POSTE ITALIANE,,SENIGA,,,IT,+39 030 995 5010,,Mo-Tu 08:20-13:45; We-Th 00:00-24:00; Fr 08:20-13:45; Sa-Su 00:00-24:00,MoneyGram,Q1944412
+41030589,moneygram,POSTE ITALIANE,,PAVONE DEL MELLA,,,IT,+39 030 959101,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+44900506,moneygram,POSTE ITALIANE,,FIESSE,,,IT,+39 030 950590,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+44900564,moneygram,POSTE ITALIANE,,SAN GERVASIO BRESCIANO,,,IT,+39 030 993 4926,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+45131361,moneygram,POSTE ITALIANE,,MILZANO,,,IT,+39 030 954150,,Mo-Tu 00:00-24:00; We-Th 08:20-13:45; Fr 00:00-24:00; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+45132603,moneygram,POSTE ITALIANE,,ALFIANELLO,,,IT,+39 030 993 6174,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+41028944,moneygram,POSTE ITALIANE,,GAMBARA,,,IT,+39 030 995 6058,,Mo-Fr 08:20-13:45; Sa 08:20-12:45; Su 00:00-24:00,MoneyGram,Q1944412
+SQLS45212,speed_queen,Lavanderia self service Speed Queen,,Flero,,,IT,,,,Speed Queen,Q7575499
+NI002469,totalenergies,SERVICE STATION NI002469,,Brescia,,,IT,+39 335 429 400,https://store.totalenergies.fr/en_EN/NI002469,,TotalErg,Q3995933
+NI006278,totalenergies,SERVICE STATION NI006278,,Brescia,,,IT,,https://store.totalenergies.fr/en_EN/NI006278,,TotalErg,Q3995933
+,visa,,,SENIGA,,,IT,,,,,
+,visa,,,SENIGA,,,IT,,,,,
+,visa,,,FIESSE,,,IT,,,,,
+,visa,,,FIESSE,,,IT,,,,,
+,visa,,,ALFIANELLO,,,IT,,,,,
+,visa,,,GAMBARA,,,IT,,,,,
+,visa,,,MILZANO,,,IT,,,,,
+,visa,,,PRALBOINO,,,IT,,,,,
+,visa,,,PRALBOINO,,,IT,,,,,
+,visa,,,GAMBARA,,,IT,,,,,
+,visa,,,GAMBARA,,,IT,,,,,
+,visa,,,MILZANO,,,IT,,,,,
+,visa,,,SAN GERVASIO BRESC.,,,IT,,,,,
+,visa,,,SAN GERVASIO BRESCIANO,,,IT,,,,,
+,visa,,,PAVONE DEL MELLA,,,IT,,,,,
+,visa,,,PAVONE DEL MELLA,,,IT,,,,,
+,visa,,,CIGOLE,,,IT,,,,,
+,visa,,,BASSANO BRESCIANO,,,IT,,,,,
+,visa,,,BASSANO BRESCIANO,,,IT,,,,,
+,visa,,,SAN PAOLO,,,IT,,,,,
+,visa,,,SAN PAOLO,,,IT,,,,,
+,visa,,,SAN PAOLO,,,IT,,,,,
+,visa,,,SAN PAOLO,,,IT,,,,,
+,visa,,,AZZANO MELLA,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,
+,visa,,,OFFLAGA,,,IT,,,,,
+,visa,,,OFFLAGA,,,IT,,,,,
+,visa,,,OFFLAGA,,,IT,,,,,
+,visa,,,DELLO,,,IT,,,,,
+,visa,,,DELLO,,,IT,,,,,
+,visa,,,DELLO,,,IT,,,,,
+,visa,,,DELLO,,,IT,,,,,
+,visa,,,AZZANO MELLA,,,IT,,,,,
+,visa,,,AZZANO MELLA,,,IT,,,,,
+,visa,,,AZZANO MELLA,,,IT,,,,,
+,visa,,,CAPRIANO DEL COLLE,,,IT,,,,,
+,visa,,,PONCARALE,,,IT,,,,,
+,visa,,,PONCARALE,,,IT,,,,,
+,visa,,,PONCARALE,,,IT,,,,,
+,visa,,,CAPRIANO DEL COLLE,,,IT,,,,,
+,visa,,,CAPRIANO DEL COLLE,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,
+,visa,,,FLERO,,,IT,,,,,

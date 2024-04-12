@@ -1,0 +1,941 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,8
+30,ashley_furniture,Nairobi,2
+POBOX48296,avis,Nairobi,2
+206CHIROMOROAD,avis,Nairobi,1
+MOMBASA,avis,Mombasa,1
+NAIROBI,bmw_group,Westlands,2
+UNKNOWN,bmw_group,Nairobi,1
+UNKNOWN,ernst_young,Nairobi,1
+UNKNOWN,ford,Nairobi,3
+NAIROBI,goodlife_pharmacy_ke,Nairobi,65
+MOMBASA,goodlife_pharmacy_ke,Mombasa ,1
+KIAMBU,goodlife_pharmacy_ke,Thika,1
+KILIFI,goodlife_pharmacy_ke,Kilifi,4
+LAIKIPIA,goodlife_pharmacy_ke,Nanyuki,2
+MOMBASA,goodlife_pharmacy_ke,Mombasa,5
+NYALI,goodlife_pharmacy_ke,Nyali,1
+KIAMBU,goodlife_pharmacy_ke,Kiambu,8
+KWALE,goodlife_pharmacy_ke,Kwale,2
+UASINGISHU,goodlife_pharmacy_ke,Eldoret,2
+NAIROBI,goodlife_pharmacy_ke,Kiambu,1
+KAKAMEGA,goodlife_pharmacy_ke,Kakamega,1
+UNKNOWN,goodlife_pharmacy_ke,Machakos,1
+MERU,goodlife_pharmacy_ke,Meru,1
+KISUMU,goodlife_pharmacy_ke,Kisumu,6
+KAKAMEGA,goodlife_pharmacy_ke,Western,1
+GARISSA,goodlife_pharmacy_ke,Garissa,1
+KERICHO,goodlife_pharmacy_ke,Kericho,1
+KISII,goodlife_pharmacy_ke,Nyanza,1
+MERU,goodlife_pharmacy_ke,Timau,1
+TRANSNZOIA,goodlife_pharmacy_ke,Kitale,1
+KITALE,goodlife_pharmacy_ke,Eldoret,1
+MTWAPA,goodlife_pharmacy_ke,Mtwapa,1
+MURANGA,goodlife_pharmacy_ke,Muranga,1
+NAKURU,goodlife_pharmacy_ke,Naivasha,1
+NAKURU,goodlife_pharmacy_ke,Nakuru,1
+KAJIADO,goodlife_pharmacy_ke,Kajiado,2
+NAROK,goodlife_pharmacy_ke,Narok,1
+WATAMU,goodlife_pharmacy_ke,Watamu,1
+NANYUKI,goodlife_pharmacy_ke,Nanyuki,1
+ELDORET,goodlife_pharmacy_ke,Eldoret,1
+EMBU,goodlife_pharmacy_ke,Embu,1
+EMBU,goodlife_pharmacy_ke,Embu ,1
+UNKNOWN,goodlife_pharmacy_ke,Karen,1
+MACHAKOS,goodlife_pharmacy_ke,Machakos,2
+NAIROBI,goodlife_pharmacy_ke,Machakos,1
+01,hugo_boss,Nairobi,1
+AFRICA,jll,Sub-Saharan Africa,1
+UNKNOWN,man_truck_and_bus,Nairobi,1
+UNKNOWN,marriott,Nairobi,4
+UNKNOWN,mercedes_benz,Nairobi,1
+UNKNOWN,mercedes_benz,Mombasa,1
+UNKNOWN,mercedes_benz,Nakuru,1
+UNKNOWN,mercedes_benz,Kisumu,1
+NAIROBICOUNTY,mercedes_benz,Nairobi,1
+UNKNOWN,moneygram,EMBU,16
+UNKNOWN,moneygram,NAIROBI,648
+UNKNOWN,moneygram,KARUNGU,1
+UNKNOWN,moneygram,THIKA,31
+UNKNOWN,moneygram,MOMBASA,117
+UNKNOWN,moneygram,WAJIR,3
+UNKNOWN,moneygram,BUSIA,10
+UNKNOWN,moneygram,NAROK,10
+UNKNOWN,moneygram,ELDORET,29
+UNKNOWN,moneygram,NAKURU,41
+UNKNOWN,moneygram,MTWAPA,4
+UNKNOWN,moneygram,ONGATA RONGAI,2
+UNKNOWN,moneygram,KISUMU,42
+UNKNOWN,moneygram,KAWANGWARE,1
+UNKNOWN,moneygram,KAYOLE,1
+UNKNOWN,moneygram,JUJA,2
+UNKNOWN,moneygram,KISERIAN,3
+UNKNOWN,moneygram,RONGAI,4
+UNKNOWN,moneygram,MERU,24
+UNKNOWN,moneygram,NYERI,22
+UNKNOWN,moneygram,LODWAR,4
+UNKNOWN,moneygram,NANDI HILLS,4
+UNKNOWN,moneygram,KABARTONJO,1
+UNKNOWN,moneygram,KINANGOP,1
+UNKNOWN,moneygram,LOKICHOGGIO,1
+UNKNOWN,moneygram,CHOGORIA,2
+UNKNOWN,moneygram,UKUNDA,10
+UNKNOWN,moneygram,RONGO,2
+UNKNOWN,moneygram,KISII,29
+UNKNOWN,moneygram,MALINDI,16
+UNKNOWN,moneygram,LAARE,2
+UNKNOWN,moneygram,MURANG'A,11
+UNKNOWN,moneygram,ISIOLO,9
+UNKNOWN,moneygram,MAUA,7
+UNKNOWN,moneygram,KIKIMA,1
+UNKNOWN,moneygram,DIANI,2
+UNKNOWN,moneygram,BONDO,3
+UNKNOWN,moneygram,KAPENGURIA,7
+UNKNOWN,moneygram,MARALAL,4
+UNKNOWN,moneygram,ENKARE TOWN,1
+UNKNOWN,moneygram,KILIFI,8
+UNKNOWN,moneygram,BOMET,9
+UNKNOWN,moneygram,BUNGOMA,12
+UNKNOWN,moneygram,GARISSA,8
+UNKNOWN,moneygram,GILGIL,5
+UNKNOWN,moneygram,GITHUNGURI,9
+UNKNOWN,moneygram,HOMA BAY,6
+UNKNOWN,moneygram,KABARNET,6
+UNKNOWN,moneygram,KAKAMEGA,11
+UNKNOWN,moneygram,KALIMONI,1
+UNKNOWN,moneygram,KARATINA,8
+UNKNOWN,moneygram,KERICHO,13
+UNKNOWN,moneygram,KERUGOYA,3
+UNKNOWN,moneygram,KIKUYU,7
+UNKNOWN,moneygram,KITALE,14
+UNKNOWN,moneygram,KITENGELA,7
+UNKNOWN,moneygram,KITUI,10
+UNKNOWN,moneygram,LIMURU,12
+UNKNOWN,moneygram,MACHAKOS,20
+UNKNOWN,moneygram,MARAGOLI,1
+UNKNOWN,moneygram,MIGORI,12
+UNKNOWN,moneygram,MURANGA,3
+UNKNOWN,moneygram,NAIVASHA,10
+UNKNOWN,moneygram,NANYUKI,18
+UNKNOWN,moneygram,NGONG,6
+UNKNOWN,moneygram,NYAHURURU,10
+UNKNOWN,moneygram,TAVETA,7
+UNKNOWN,moneygram,VOI,5
+UNKNOWN,moneygram,WEBUYE,4
+UNKNOWN,moneygram,WOTE,6
+UNKNOWN,moneygram,NAIROBIV,1
+UNKNOWN,moneygram,RUIRU,8
+UNKNOWN,moneygram,AHERO,1
+UNKNOWN,moneygram,OGEMBO,1
+UNKNOWN,moneygram,KENDU BAY,1
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,moneygram,CHUKA,9
+UNKNOWN,moneygram,NYANDARUA,1
+UNKNOWN,moneygram,NARO MORU,2
+UNKNOWN,moneygram,MANDERA,5
+UNKNOWN,moneygram,KIMENDE,5
+UNKNOWN,moneygram,RUMURUTI,3
+UNKNOWN,moneygram,SYOKIMAU,1
+UNKNOWN,moneygram,ITEN,2
+UNKNOWN,moneygram,MOYALE,3
+UNKNOWN,moneygram,KAJIADO,10
+UNKNOWN,moneygram,KAMBU,1
+UNKNOWN,moneygram,VILLAGE MARKET,1
+UNKNOWN,moneygram,NANDI,1
+UNKNOWN,moneygram,KAMULU,1
+UNKNOWN,moneygram,KAGWE,1
+UNKNOWN,moneygram,MUTOMO,3
+UNKNOWN,moneygram,KYUSO,2
+UNKNOWN,moneygram,MAKINDU,2
+UNKNOWN,moneygram,MUTITU,1
+UNKNOWN,moneygram,MWINGI,4
+UNKNOWN,moneygram,DIANI BEACH,2
+UNKNOWN,moneygram,KIAMBU,18
+UNKNOWN,moneygram,WATAMU,5
+UNKNOWN,moneygram,KIRINYAGA,1
+UNKNOWN,moneygram,MOLO,4
+UNKNOWN,moneygram,OLKALOU,1
+UNKNOWN,moneygram,WANGIGE,2
+UNKNOWN,moneygram,KAPSABET,5
+UNKNOWN,moneygram,NYAMIRA,4
+UNKNOWN,moneygram,MAI MAHIU,1
+UNKNOWN,moneygram,EMALI,4
+UNKNOWN,moneygram,KUTUS,4
+UNKNOWN,moneygram,CHAKA,1
+UNKNOWN,moneygram,GATUNDU,4
+UNKNOWN,moneygram,MWEA,6
+UNKNOWN,moneygram,MUMIAS,5
+UNKNOWN,moneygram,KIBWEZI,3
+UNKNOWN,moneygram,UTAWALA,2
+UNKNOWN,moneygram,MAJENGO,1
+UNKNOWN,moneygram,KAHAWA WEST,2
+UNKNOWN,moneygram,THIKA MAKONGENI,1
+UNKNOWN,moneygram,MLOLONGO,2
+UNKNOWN,moneygram,GATEWAY MALL-MOMBASA ROAD,1
+UNKNOWN,moneygram,MUKURWEINI,2
+UNKNOWN,moneygram,MAKUENI,2
+UNKNOWN,moneygram,ISEBANIA,2
+UNKNOWN,moneygram,KESSES,1
+UNKNOWN,moneygram,KWALE,4
+UNKNOWN,moneygram,RUNYEJES,1
+UNKNOWN,moneygram,MARSABIT,4
+UNKNOWN,moneygram,KAKUMA,1
+UNKNOWN,moneygram,ISINYA,1
+UNKNOWN,moneygram,SOTIK,1
+UNKNOWN,moneygram,KAMAKIS,1
+UNKNOWN,moneygram,LAMU,5
+UNKNOWN,moneygram,NJABINI,1
+UNKNOWN,moneygram,BAMBURI,2
+UNKNOWN,moneygram,DONYO SABUK,1
+UNKNOWN,moneygram,MATUU,2
+UNKNOWN,moneygram,OYUGIS,5
+UNKNOWN,moneygram,MWATATE,1
+UNKNOWN,moneygram,LIKONI,1
+UNKNOWN,moneygram,NAIROIBI,1
+UNKNOWN,moneygram,ELDORET WEST,1
+UNKNOWN,moneygram,KIGUMO,1
+UNKNOWN,moneygram,KABSABET,1
+UNKNOWN,moneygram,SONDU,2
+UNKNOWN,moneygram,MARIGAT,2
+UNKNOWN,moneygram,LITEIN,3
+UNKNOWN,moneygram,KERUGUYA,1
+UNKNOWN,moneygram,ATHI RIVER,1
+UNKNOWN,moneygram,SIAYA,4
+UNKNOWN,moneygram,MBITA,2
+UNKNOWN,moneygram,NANGA,1
+UNKNOWN,moneygram,UNJIRU,3
+UNKNOWN,moneygram,NYAMWARE,1
+UNKNOWN,moneygram,KIRANGA,1
+UNKNOWN,moneygram,VIDUNGENI,1
+UNKNOWN,moneygram,MATUMBI,1
+UNKNOWN,moneygram,MVINDENI,1
+UNKNOWN,moneygram,ELDAMA RAVINE,3
+UNKNOWN,moneygram,UPPER HILL,2
+UNKNOWN,moneygram,MWE,2
+UNKNOWN,moneygram,KARENGE,1
+UNKNOWN,moneygram,NJEGA,1
+UNKNOWN,moneygram,LOKICHOKIO,1
+UNKNOWN,moneygram,KANGARE,1
+UNKNOWN,moneygram,KIANYAGA,1
+UNKNOWN,moneygram,NUNDU,1
+UNKNOWN,moneygram,OL KALOU,3
+UNKNOWN,moneygram,KENEGUT,2
+UNKNOWN,moneygram,NJORA,1
+UNKNOWN,moneygram,KAPSOWAR,1
+UNKNOWN,moneygram,KILGORIS,3
+UNKNOWN,moneygram,KIMILILI,2
+UNKNOWN,moneygram,LONDIANI,1
+UNKNOWN,moneygram,LUANDA,3
+UNKNOWN,moneygram,MALABA,3
+UNKNOWN,moneygram,MUHORONI,1
+UNKNOWN,moneygram,MARIAKANI,1
+UNKNOWN,moneygram,EGGE,1
+UNKNOWN,moneygram,MAKERE,1
+UNKNOWN,moneygram,MTITO ANDEI,1
+UNKNOWN,moneygram,MTAA,1
+UNKNOWN,moneygram,KEGAA,1
+UNKNOWN,moneygram,GARSEN,1
+UNKNOWN,moneygram,SERICHO,1
+UNKNOWN,moneygram,MOI,2
+UNKNOWN,moneygram,ISHIARA,1
+UNKNOWN,moneygram,KEROKA,3
+UNKNOWN,moneygram,MALINDA,1
+UNKNOWN,moneygram,KANGEMA,3
+UNKNOWN,moneygram,TURA,1
+UNKNOWN,moneygram,HOLA,2
+UNKNOWN,moneygram,NZIU,1
+UNKNOWN,moneygram,POKA,1
+UNKNOWN,moneygram,BARINGO,1
+UNKNOWN,moneygram,ELAA,1
+UNKNOWN,moneygram,KIANJAI,1
+UNKNOWN,moneygram,TALA,2
+UNKNOWN,moneygram,SIAKAGO,1
+UNKNOWN,moneygram,ISIBANIA,1
+UNKNOWN,moneygram,KIRIAINI,1
+UNKNOWN,moneygram,MASII,1
+UNKNOWN,moneygram,NAMANGA,2
+UNKNOWN,moneygram,MURARANDIA,1
+UNKNOWN,moneygram,NKUBU,1
+UNKNOWN,moneygram,LOITOKTOK,1
+UNKNOWN,moneygram,GITHURAI,1
+UNKNOWN,moneygram,OTHAYA,2
+UNKNOWN,moneygram,KAGIO,1
+UNKNOWN,moneygram,KENOL,1
+UNKNOWN,moneygram,KIRIANI,1
+UNKNOWN,moneygram,MBALE,3
+UNKNOWN,moneygram,MBITA POINT,1
+UNKNOWN,moneygram,KANGARI,1
+UNKNOWN,moneygram,RIFT VALLEY,1
+UNKNOWN,moneygram,KASARANI,1
+UNKNOWN,moneygram,MPEKETONI,2
+UNKNOWN,moneygram,NDHIWA,1
+UNKNOWN,moneygram,EMBAKASI,1
+UNKNOWN,moneygram,RIDGEWAYS,1
+UNKNOWN,moneygram,CHANGAMWE,1
+UNKNOWN,moneygram,RUNYENJES,1
+UNKNOWN,moneygram,DADAAB,1
+UNKNOWN,moneygram,KANGEMI,2
+UNKNOWN,moneygram,NYALI,2
+UNKNOWN,moneygram,LAVINGTON,2
+UNKNOWN,moneygram,WESTLANDS,2
+UNKNOWN,moneygram,EASTLEIGH,1
+UNKNOWN,moneygram,PORT VICTORIA,1
+UNKNOWN,moneygram,ONGATA-RONGAI-KAJIADO,1
+UNKNOWN,moneygram,ELDORSET,1
+UNKNOWN,moneygram,YALA,1
+UNKNOWN,moneygram,KILIMANI,1
+UNKNOWN,moneygram,TAITA TAVETA,1
+UNKNOWN,moneygram,EWASO NYIRO,1
+UNKNOWN,moneygram,KAREN,1
+UNKNOWN,nike,Nairobi,2
+KISIICOUNTY,shell,Nyanza,3
+NYAMIRACOUNTY,shell,Nyanza,1
+MIGORICOUNTY,shell,Nyanza,2
+HOMABAYCOUNTY,shell,Nyanza,1
+NAROKCOUNTY,shell,Nyanza,3
+KERICHOCOUNTY,shell,Nyanza,4
+KISUMUCOUNTY,shell,Nyanza,4
+BOMETCOUNTY,shell,Nyanza,1
+VIHIGACOUNTY,shell,Western,2
+SIAYACOUNTY,shell,Nyanza,1
+UASINGISHUCOUNTY,shell,Western,6
+SIAYACOUNTY,shell,Western,2
+NANDICOUNTY,shell,Western,1
+KAKAMEGACOUNTY,shell,Western,1
+NAKURU,shell,Central Rift,16
+BUNGOMACOUNTY,shell,Western,2
+BUSIACOUNTY,shell,Western,2
+TRANSZOIACOUNTY,shell,Western,3
+NAIROBI,shell,Nairobi North,24
+NAIROBI,shell,Nairobi Outer,15
+NAIROBI,shell,Nairobi outer,1
+KIAMBU,shell,Nairobi Outer,8
+NAIROBI,shell,Nairobi East,23
+NAIROBI,shell,Narobi West,1
+NAIROBI,shell,Nairobi South,12
+NAIROBI,shell,Nairobi West,17
+KIAMBU,shell,Nairobi West,5
+KAJIADO,shell,Nairobi South,5
+MACHAKOS,shell,Lower Mt. Kenya,2
+MACHAKOS,shell,Eastern,11
+KIAMBU,shell,Lower Mt. Kenya,13
+MURANGA,shell,Lower Mt. Kenya,7
+NAIROBI,shell,Eastern,2
+KIRINYAGACOUNTY,shell,Mt.Kenya,4
+MACHAKOS,shell,Nairobi South,4
+KWALE,shell,Coast,3
+MOMBASA,shell,Coast,16
+KILIFI,shell,Coast,2
+VOI,shell,Coast,3
+MAKUENI,shell,Eastern,4
+KAJIADO,shell,Eastern,5
+KITUI,shell,Eastern,1
+KITUI,shell,Lower Mt. Kenya,1
+GARISSA,shell,Lower Mt. Kenya,1
+NYERICOUNTY,shell,Mt.Kenya,5
+LAIKIPIACOUNTY,shell,Mt.Kenya,3
+EMBUCOUNTY,shell,Mt.Kenya,4
+MERUCOUNTY,shell,Mt.Kenya,7
+NYANDARUA,shell,Central Rift,1
+THARAKANITHICOUNTY,shell,Mt.Kenya,1
+LAIKIPIA,shell,Nairobi West,1
+LAIKIPIA,shell,Central Rift,2
+WESTPOKOTCOUNTY,shell,Western,1
+BARINGO,shell,Central Rift,1
+MARSABITCOUNTY,shell,Mt.Kenya,1
+NAIROBI,shell,Lower Mt. Kenya,1
+ISIOLOCOUNTY,shell,Mt.Kenya,2
+TURKANACOUNTY,shell,Western,1
+NAROKCOUNTY,shell,Central Rift,1
+UNKNOWN,totalenergies,AHERO TOWN,1
+UNKNOWN,totalenergies,NAKURU,11
+UNKNOWN,totalenergies,BUNGOMA,2
+UNKNOWN,totalenergies,ELDORET TOWN,1
+UNKNOWN,totalenergies,Gatitu shopping centre,2
+UNKNOWN,totalenergies,GILGIL,3
+UNKNOWN,totalenergies,KIAMBU,11
+UNKNOWN,totalenergies,HOMABAY,1
+UNKNOWN,totalenergies,Kagwe,2
+UNKNOWN,totalenergies,KISUMU,8
+UNKNOWN,totalenergies,NAIROBI,96
+UNKNOWN,totalenergies,ELDORET,12
+UNKNOWN,totalenergies,MOMBASA,33
+UNKNOWN,totalenergies,TURKANA COUNTY,1
+UNKNOWN,totalenergies,MACHAKOS,3
+UNKNOWN,totalenergies,MERU,6
+UNKNOWN,totalenergies,MISIKHU,1
+UNKNOWN,totalenergies,BUMGOMA COUNTY,1
+UNKNOWN,totalenergies,NAIVASHA,6
+UNKNOWN,totalenergies,NAROK COUNTY,2
+UNKNOWN,totalenergies,NYERI,3
+UNKNOWN,totalenergies,LAIKIPIA COUNTY,1
+UNKNOWN,totalenergies,Limuru,2
+UNKNOWN,totalenergies,NKUBU,1
+UNKNOWN,totalenergies,NYANDARUA COUNTY,1
+UNKNOWN,totalenergies,SOTIK,1
+UNKNOWN,totalenergies,KARATINA,4
+UNKNOWN,totalenergies,EMALI,2
+UNKNOWN,totalenergies,MARIAKANI,1
+UNKNOWN,totalenergies,KAJIADO,3
+UNKNOWN,totalenergies,KAMWANGI,2
+UNKNOWN,totalenergies,KAPSABET,2
+UNKNOWN,totalenergies,KERUGOYA,1
+UNKNOWN,totalenergies,KISII,6
+UNKNOWN,totalenergies,KITALE,4
+UNKNOWN,totalenergies,KITUI,3
+UNKNOWN,totalenergies,NANYUKI,2
+UNKNOWN,totalenergies,MALAVA,2
+UNKNOWN,totalenergies,MASENO,2
+UNKNOWN,totalenergies,Mtito Andei,2
+UNKNOWN,totalenergies,MURANGA,4
+UNKNOWN,totalenergies,EMBU,2
+UNKNOWN,totalenergies,Kisumu Town,2
+UNKNOWN,totalenergies,UTHIRU,2
+UNKNOWN,totalenergies,BUNGOMA  TOWN,1
+UNKNOWN,totalenergies,KAKAMEGA,1
+UNKNOWN,totalenergies,KERICHO,2
+UNKNOWN,totalenergies,MALINDI,3
+UNKNOWN,totalenergies,NYAHURURU,2
+UNKNOWN,totalenergies,UASIN GISHU COUNTY,2
+UNKNOWN,totalenergies,MUHOYA,2
+UNKNOWN,totalenergies,MUMIAS,2
+UNKNOWN,totalenergies,MOLO,1
+UNKNOWN,totalenergies,Mombasa,2
+UNKNOWN,totalenergies,TALA,2
+UNKNOWN,totalenergies,UKUNDA,2
+UNKNOWN,totalenergies,NJABINI,2
+UNKNOWN,totalenergies,ISIOLO,1
+UNKNOWN,totalenergies,BOMET COUNTY,1
+UNKNOWN,totalenergies,KILGORIS,2
+UNKNOWN,totalenergies,VOI,2
+UNKNOWN,totalenergies,KAPENGURIA,2
+UNKNOWN,totalenergies,Bondo,1
+UNKNOWN,totalenergies,KIMININI,2
+UNKNOWN,totalenergies,MWINGI,2
+UNKNOWN,totalenergies,Emali,2
+UNKNOWN,totalenergies,Uthiru - Nairobi,2
+UNKNOWN,totalenergies,GEDE,2
+UNKNOWN,totalenergies,KAYOLE,2
+UNKNOWN,totalenergies,Nairobi,2
+UNKNOWN,totalenergies,ISINYA,2
+UNKNOWN,totalenergies,Meru,2
+UNKNOWN,totalenergies,KITENGELA,2
+UNKNOWN,totalenergies,NAMANGA,2
+UNKNOWN,totalenergies,Busia,2
+UNKNOWN,totalenergies,ISEBANIA,1
+UNKNOWN,totalenergies,KAMULU,2
+UNKNOWN,totalenergies,Kiserian,2
+UNKNOWN,totalenergies,MAKUYU,2
+UNKNOWN,totalenergies,MATUU,2
+UNKNOWN,totalenergies,KIMENDE,2
+UNKNOWN,totalenergies,GARISSA COUNTY,1
+UNKNOWN,totalenergies,Kathwana/Chiakariga Centre,2
+UNKNOWN,totalenergies,WOTE,2
+UNKNOWN,totalenergies,ATHI RIVER,1
+UNKNOWN,totalenergies,MARSABIT COUNTY,1
+UNKNOWN,totalenergies,KISUMU COUNTY,1
+UNKNOWN,totalenergies,MAI MAHIU,1
+UNKNOWN,totalenergies,MACHOKOS,1
+UNKNOWN,totalenergies,BUNGOMA COUNTY,1
+UNKNOWN,totalenergies,KAJIADO COUNTY,1
+UNKNOWN,totalenergies,MURANGA COUNTY,1
+UNKNOWN,totalenergies,BURNT FOREST,1
+UNKNOWN,totalenergies,VIHIGA COUNTY,1
+UNKNOWN,totalenergies,RUAKA,1
+UNKNOWN,totalenergies,MIGORI,1
+UNKNOWN,totalenergies,SIGONA,1
+UNKNOWN,totalenergies,MAUA,1
+UNKNOWN,totalenergies,RUIRU,3
+UNKNOWN,totalenergies,GACHIE,1
+UNKNOWN,totalenergies,MUGUGA,1
+UNKNOWN,totalenergies,LUANDA,1
+UNKNOWN,totalenergies,KIBWEZI,1
+UNKNOWN,totalenergies,MAKUTANO,1
+UNKNOWN,totalenergies,BUSIA,1
+UNKNOWN,totalenergies,MAU SUMMIT,1
+UNKNOWN,totalenergies,KILIFI,2
+UNKNOWN,visa,NAIROBI,299
+UNKNOWN,visa,BUSIA,4
+UNKNOWN,visa,0 WOTE,1
+UNKNOWN,visa,MAVOKO,1
+UNKNOWN,visa,SIAYA,1
+UNKNOWN,visa,HOMA BAY,2
+UNKNOWN,visa,HOMABAY,1
+UNKNOWN,visa,0 MIGORI,1
+UNKNOWN,visa,MIGORI,3
+UNKNOWN,visa,MUMIAS,4
+UNKNOWN,visa,0 MUMIAS,1
+UNKNOWN,visa,AWENDO,1
+UNKNOWN,visa,SARE AWENDO,1
+UNKNOWN,visa,0 BUNGOMA,1
+UNKNOWN,visa,BUNGOMA,7
+UNKNOWN,visa,KAKAMEGA,7
+UNKNOWN,visa,KISUMU,20
+UNKNOWN,visa,OYUGIS,1
+UNKNOWN,visa,0 KAKAMEGA,1
+UNKNOWN,visa,0 KISUMU,2
+UNKNOWN,visa,0 KISII,1
+UNKNOWN,visa,0 WEBUYE,1
+UNKNOWN,visa,WEBUYE,1
+UNKNOWN,visa,KISII,6
+UNKNOWN,visa,0 ITEN,1
+UNKNOWN,visa,0 NYAMIRA,1
+UNKNOWN,visa,KITALE,8
+UNKNOWN,visa,0 KITALE,1
+UNKNOWN,visa,KAPSABET,6
+UNKNOWN,visa,KAPENGURIA,1
+UNKNOWN,visa,KERICHO,7
+UNKNOWN,visa,0 KERICHO,1
+UNKNOWN,visa,0 KAPSABET,1
+UNKNOWN,visa,0 KAPENGURIA,1
+UNKNOWN,visa,0 SOTIK,1
+UNKNOWN,visa,NANDI HILLS,3
+UNKNOWN,visa,ELDORET,17
+UNKNOWN,visa,0 ELDORET,1
+UNKNOWN,visa,0 BOMET,1
+UNKNOWN,visa,BOMET,1
+UNKNOWN,visa,MOLO,5
+UNKNOWN,visa,ELDAMA RAVINE,1
+UNKNOWN,visa,KABARNET,3
+UNKNOWN,visa,0 KABARNET,1
+UNKNOWN,visa,NAROK,7
+UNKNOWN,visa,0 NAROK,1
+UNKNOWN,visa,NAKURU,12
+UNKNOWN,visa,0 NAKURU,1
+UNKNOWN,visa,GILGIL,1
+UNKNOWN,visa,0 GILGIL,1
+UNKNOWN,visa,NYAHURURU,4
+UNKNOWN,visa,0 NAIVASHA,1
+UNKNOWN,visa,NAIVASHA,6
+UNKNOWN,visa,LIMURU,2
+UNKNOWN,visa,NGONG,2
+UNKNOWN,visa,0 KAJIADO,1
+UNKNOWN,visa,0 KIKUYU,1
+UNKNOWN,visa,KIKUYU,2
+UNKNOWN,visa,CENTRAL,18
+UNKNOWN,visa,ONGATA RONGAI,3
+UNKNOWN,visa,GITHUNGURI,1
+UNKNOWN,visa,0 GITHUNGURI,1
+UNKNOWN,visa,KITENGELA,3
+UNKNOWN,visa,WESTLANDS,1
+UNKNOWN,visa,RUNDA,1
+UNKNOWN,visa,KAJIADO,2
+UNKNOWN,visa,WESTLANDS - NBI,1
+UNKNOWN,visa,MOMBASA,57
+UNKNOWN,visa,RIFT VALLEY,17
+UNKNOWN,visa,MATUU,2
+UNKNOWN,visa,EASTERN,12
+UNKNOWN,visa,NYANZA,5
+UNKNOWN,visa,COAST,8
+UNKNOWN,visa,NORTH - EASTERN,1
+UNKNOWN,visa,WESTERN,4
+UNKNOWN,visa,KANGARI,1
+UNKNOWN,visa,KOINANGE STR - NBI,1
+UNKNOWN,visa,MOI AVENUE - NBI,1
+UNKNOWN,visa,HARAMBEE STR - NBI,1
+UNKNOWN,visa,TOM MBOYA STR - NBI,1
+UNKNOWN,visa,MAMANGINA STR - NBI,1
+UNKNOWN,visa,GIKOMBA - NBI,1
+UNKNOWN,visa,CITY HALL WAY - NBI,1
+UNKNOWN,visa,COMMUNITY - NBI,2
+UNKNOWN,visa,NYAMIRA,1
+UNKNOWN,visa,MUINDU MBINGU STR -NBI,2
+UNKNOWN,visa,JOGOO ROAD -NBI,1
+UNKNOWN,visa,KIMATHI STR - NBI,1
+UNKNOWN,visa,KARATINA,6
+UNKNOWN,visa,ONGATA - NBI,1
+UNKNOWN,visa,BURUBURU -NBI,1
+UNKNOWN,visa,MWEA,1
+UNKNOWN,visa,NKUBU,1
+UNKNOWN,visa,KIRIAINI,1
+UNKNOWN,visa,MFANGANO STR - NBI,1
+UNKNOWN,visa,DIGO RD - MSA,1
+UNKNOWN,visa,PIPELINE - NBI,1
+UNKNOWN,visa,0 NAIROBI,1
+UNKNOWN,visa,KIAMBU,4
+UNKNOWN,visa,NAROBI,1
+UNKNOWN,visa,0 KIAMBU,1
+NAIROBIAREA,visa,MERU,1
+UNKNOWN,visa,THIKA,13
+UNKNOWN,visa,RUIRU,4
+UNKNOWN,visa,KARIOBANGI - NBI,3
+UNKNOWN,visa,SYOKIMAU,1
+UNKNOWN,visa,EMBAKASI - NBI,1
+UNKNOWN,visa,0 OTHAYA,1
+UNKNOWN,visa,NYERI,8
+UNKNOWN,visa,NANYUKI,10
+UNKNOWN,visa,0 NYERI,1
+UNKNOWN,visa,OTHAYA,1
+UNKNOWN,visa,0 KITENGELA,1
+UNKNOWN,visa,KANGEMA,1
+UNKNOWN,visa,0 KANGEMA,1
+UNKNOWN,visa,0 RUIRI,1
+UNKNOWN,visa,ATHI RIVER,2
+UNKNOWN,visa,JUJA,1
+UNKNOWN,visa,MURANGA,7
+UNKNOWN,visa,0 MURANGA,1
+UNKNOWN,visa,0 MUKURWENI,1
+UNKNOWN,visa,0 KARATINA,1
+UNKNOWN,visa,GITHURAI,1
+UNKNOWN,visa,KERUGOYA,5
+UNKNOWN,visa,KAGIO,1
+UNKNOWN,visa,MACHAKOS,6
+UNKNOWN,visa,0 MACHAKOS,1
+UNKNOWN,visa,0 KERUGOYA,1
+UNKNOWN,visa,0 TALA,1
+UNKNOWN,visa,EMBU,8
+UNKNOWN,visa,0 EMBU,1
+UNKNOWN,visa,0 MATUU,1
+UNKNOWN,visa,ISIOLO,4
+UNKNOWN,visa,MERU,11
+UNKNOWN,visa,CHUKA,5
+UNKNOWN,visa,0 CHUKA,1
+UNKNOWN,visa,WOTE,1
+UNKNOWN,visa,TAVETA,1
+UNKNOWN,visa,MAUA,3
+UNKNOWN,visa,KITUI,2
+UNKNOWN,visa,0 KITUI,1
+UNKNOWN,visa,0 KIBWEZI,1
+UNKNOWN,visa,KIBWEZI,2
+UNKNOWN,visa,MWINGI,1
+UNKNOWN,visa,0 MWINGI,1
+UNKNOWN,visa,MTITO ANDEI,1
+UNKNOWN,visa,0 WUNDANYI,1
+UNKNOWN,visa,WUNDANYI,1
+UNKNOWN,visa,MBALE,1
+UNKNOWN,visa,0 MBALE,1
+UNKNOWN,visa,VOI,3
+UNKNOWN,visa,MOYALE,1
+UNKNOWN,visa,GARISSA,3
+UNKNOWN,visa,0 GARISSA,1
+UNKNOWN,visa,0 UKUNDA,1
+UNKNOWN,visa,DIANI,1
+UNKNOWN,visa,UKUNDA,1
+UNKNOWN,visa,UKUNDA - MSA,1
+UNKNOWN,visa,0 KILIFI,1
+UNKNOWN,visa,0 MOMBASA,2
+UNKNOWN,visa,MOMBASA-NYALI,1
+UNKNOWN,visa,KILIFI,1
+UNKNOWN,visa,MALINDI,4
+UNKNOWN,visa,WATAMU,1
+UNKNOWN,visa,MALINDI - MSA,1
+UNKNOWN,visa,0 MALINDI,1
+UNKNOWN,visa,0 LAMU,1
+MOMBASA,western_union,Mombasa,80
+NAIROBI,western_union,Nairobi,490
+BARINGO,western_union,Kabarnet,4
+ELGEYOMARAKWET,western_union,Iten,4
+BARINGO,western_union,Baringo,3
+RIFTVALLEY,western_union,Rift Valley,3
+NAKURU,western_union,Molo,7
+WESTPOKOT,western_union,Kapenguria,4
+BOMET,western_union,Bomet,4
+KERICHO,western_union,Kericho,15
+UNKNOWN,western_union,Bomet,1
+BARINGO,western_union,Eldama Ravine,3
+ELGEYOMARAKWET,western_union,Kapsowar,1
+WESTPOKOT,western_union,West Pokot,1
+KISUMU,western_union,Kapenguria,1
+UNKNOWN,western_union,Kapenguria,1
+ELGEYOMARAKWET,western_union,Elgeyo Marakwet,2
+NAROK,western_union,Maasai Mara,1
+KERICHO,western_union,Londiani,1
+UASINGISHU,western_union,Eldoret,32
+UASINGISHU,western_union,Rift Valley,1
+NANDI,western_union,Nandi,3
+RIFTVALLEY,western_union,Kapsoya,1
+UASINGISHU,western_union,Kesses,1
+KERICHO,western_union,Litein,3
+ELDORET,western_union,Eldoret,1
+RIFTVALLEY,western_union,Eldoret,1
+UASINGISHU,western_union,Uasin Gishu,3
+KERICHO,western_union,Sotik,2
+UASINGISHU,western_union,Moi S Bridge,1
+UNKNOWN,western_union,Moi's Bridge,1
+TRANSNZOIA,western_union,Kitale,12
+UASINGISHU,western_union,Moi  Bridge,1
+KISUMU,western_union,Rift Valley,1
+UASINGISHU,western_union,Kitale,2
+TRANSNZOIA,western_union,Trans Nzoia,1
+NAROK,western_union,Kilgoris,3
+NANDI,western_union,Kapsabet,8
+UNKNOWN,western_union,Kasabet,1
+UNKNOWN,western_union,Kapsabet,1
+UNKNOWN,western_union,Sondu,1
+KISUMU,western_union,Sondu,1
+NYAMIRA,western_union,Keroka,5
+KISII,western_union,Kilgoris,1
+KISII,western_union,Kisii,22
+KISII,western_union,Ogembo,4
+KISII,western_union,Nairobi,1
+NYAMIRA,western_union,Nyamira,4
+NANDI,western_union,Serem,1
+BUNGOMA,western_union,Webuye,3
+MIGORI,western_union,Kuria West,1
+MIGORI,western_union,Isibania,1
+MIGORI,western_union,Migori,11
+BUNGOMA,western_union,Kimilili,2
+UNKNOWN,western_union,Kisii,1
+NYANZA,western_union,Oyugis,1
+HOMABAY,western_union,Oyugis,4
+NYANZA,western_union,Nyanza,1
+BOMET,western_union,Sotik,1
+MIGORI,western_union,Kehancha,2
+KISUMU,western_union,Kisumu,32
+UNKNOWN,western_union,Nandi Hills,1
+NANDI,western_union,Nandi Hills,2
+NAIROBI,western_union,Kisumu,1
+KISII,western_union,Nyansakia,1
+KAKAMEGA,western_union,Kakamega,13
+MIGORI,western_union,Sunamigori,1
+BUNGOMA,western_union,Bungoma,10
+MIGORI,western_union,Rongo,2
+NYERI,western_union,Nyeri,21
+KISUMU,western_union,Western,1
+BUNGOMA,western_union,Chwele,1
+UNKNOWN,western_union,Chwele,1
+VIHIGA,western_union,Mbale,4
+VIHIGA,western_union,Majengo,1
+MIGORI,western_union,Awendo,2
+MIGORI,western_union,Sare Awendo,1
+VIHIGA,western_union,Vihiga,1
+HOMABAY,western_union,Homabay,3
+HOMABAY,western_union,Homa Bay,3
+SIAYA,western_union,Yala,1
+VIHIGA,western_union,Luanda,3
+SIAYA,western_union,Ugunja,3
+KISUMU,western_union,Ugunja,1
+MIGORI,western_union,Sori,1
+BUSIA,western_union,Busia,8
+BUSIA,western_union,Malaba,3
+KAKAMEGA,western_union,Butere,1
+HOMABAY,western_union,Ndhiwa,1
+KAKAMEGA,western_union,Mumias,6
+UNKNOWN,western_union,Bumala,1
+HOMABAY,western_union,Mbita Point,1
+HOMABAY,western_union,Mbita,1
+SIAYA,western_union,Bondo,4
+SIAYA,western_union,Siaya,4
+BUNGOMA,western_union,Busia,1
+BUSIA,western_union,Kakamega,1
+BUSIA,western_union,Matayos,1
+UNKNOWN,western_union,Mandera,1
+MANDERA,western_union,Mandera,1
+MANDERA,western_union,Takaba Near Takaba Police Stat,1
+UNKNOWN,western_union,Mikinduri,1
+UNKNOWN,western_union,Mitunguu,1
+MERU,western_union,Nkubu,4
+LAIKIPIA,western_union,Nkubu,2
+MERU,western_union,Meru,17
+GARISSA,western_union,Dadaab,1
+LAMU,western_union,Hindi,1
+LAMU,western_union,Lamu Island,1
+LAMU,western_union,Lamu,3
+UNKNOWN,western_union,Mokowe,1
+UNKNOWN,western_union,Moyale,1
+MARSABIT,western_union,Moyale,1
+KAJIADO,western_union,Oloitoktok,1
+KAJIADO,western_union,Loitoktok,1
+KAJIADO,western_union,Loitokitok,1
+WAJIR,western_union,Wajir,2
+RIFTVALLEY,western_union,Kimana,1
+RIFTVALLEY,western_union,Loitokitok,1
+NAIROBI,western_union,Kajiado,1
+MAKUENI,western_union,Mtito Andei,1
+KAJIADO,western_union,Namanga,2
+TANARIVER,western_union,Hola,2
+MARSABIT,western_union,Marsabit,3
+NORTHEAST,western_union,North Eastern,1
+MAKUENI,western_union,Kibwezi,4
+MAKUENI,western_union,Makindu,1
+NAROK,western_union,Narok,12
+RIFTVALLEY,western_union,Kiserian,1
+KAJIADO,western_union,Kiserian,3
+KAJIADO,western_union,Kajiado,10
+EASTERN,western_union,Mutomo,1
+NAKURU,western_union,Nakuru,47
+KITUI,western_union,Kitui,10
+BARINGO,western_union,Mogotio,1
+NAROK,western_union,Suswa,1
+BARINGO,western_union,Marigat,1
+NAKURU,western_union,Njoro,1
+BARINGO,western_union,Kabartonjo,1
+MAKUENI,western_union,Makueni,3
+MAKUENI,western_union,Wote,3
+KAJIADO,western_union,Ongata Rongai,12
+KAJIADO,western_union,Rongai,5
+NAIROBI,western_union,Ongata Rongai,3
+KAJIADO,western_union,Isinya,1
+NAIROBI,western_union,Enkare,1
+MAKUENI,western_union,Emali,6
+KIAMBU,western_union,Kikuyu,7
+KAJIADO,western_union,Kitengela,12
+NAIROBI,western_union,Kitengela,1
+MAKUENI,western_union,Kikima,1
+RIFTVALLEY,western_union,Epz Athi River,1
+RIFTVALLEY,western_union,Kitengela,1
+GARISSA,western_union,Garissa,5
+GARISSA,western_union,North Eastern,1
+KAJIADO,western_union,Ngong,4
+NAIROBI,western_union,Ngong,1
+KAJIADO,western_union,Nogng,1
+KAJIADO,western_union,Ngong Town,1
+NAIROBI,western_union,Kawangware,2
+MACHAKOS,western_union,Machakos,17
+MACHAKOS,western_union,Athi River,2
+CENTRAL,western_union,Uthiru,1
+RIFTVALLEY,western_union,Nakuru,2
+NAIROBI,western_union,Kenya,8
+NAIROBI,western_union,Kangemi,1
+MACHAKOS,western_union,Mlolongo,2
+NAIROBI,western_union,Kilimani,3
+NAIROBI,western_union,Wangige,3
+MACHAKOS,western_union,Syokimau,1
+KIAMBU,western_union,Kabuku,1
+MACHAKOS,western_union,Nairobi,1
+MOMBASA,western_union,Nyali,8
+NAIROBI,western_union,Westlands,3
+KIAMBU,western_union,Limuru,8
+NAIROBI,western_union,Koinange Street,1
+NAIROBI,western_union,Industrial Area,1
+KIRINYAGA,western_union,Kirinyaga,3
+NAIROBI,western_union,Lower Kabete,1
+KIAMBU,western_union,Kiambaa,1
+NAIROBI,western_union,Ngara,1
+KIAMBU,western_union,Thika,29
+KIAMBU,western_union,Banana Hill,2
+UNKNOWN,western_union,Nairobi,3
+NAIROBI,western_union,Parklands,1
+NAKURU,western_union,Gilgil,4
+NAKURU,western_union,Maai Mahiu,1
+UNKNOWN,western_union,Mai Mahiu,1
+NAIROBI,western_union,Buruburu,2
+KIAMBU,western_union,Ruaka,3
+NAKURU,western_union,Naivasha,9
+NAKURU,western_union,Naivhasa,1
+EASTERN,western_union,Machakos,2
+SAMBURU,western_union,Maralal,4
+KIAMBU,western_union,Kimende,2
+NAIROBI,western_union,Kayole,3
+KIAMBU,western_union,Nairobi,3
+KIAMBU,western_union,Kiambu,13
+NAIROBI,western_union,Utawala,2
+NYANDARUA,western_union,Wakimbo,1
+NAIROBI,western_union,Kiambu,1
+NAIROBI,western_union,Ruai,1
+NAIROBI,western_union,Kasarani,1
+KIAMBU,western_union,Githunguri,9
+NYANDARUA,western_union,Ol' Kaluo,1
+NYANDARUA,western_union,Ol Kalou,2
+NYANDARUA,western_union,Olkalau,1
+NYANDARUA,western_union,Olkalou,1
+KIAMBU,western_union,Githurai,1
+KIAMBU,western_union,Ruiru,7
+MURANGA,western_union,Kigumo,1
+NAIROBI,western_union,Kamakis,1
+KIAMBU,western_union,Kagwe,2
+LAIKIPIA,western_union,Nyahururu,5
+NYANDARUA,western_union,Nyandarua,2
+NYANDARUA,western_union,Nyahururu,2
+LAIKIPIA,western_union,Nakuru,1
+UNKNOWN,western_union,Masii,1
+UNKNOWN,western_union,Nyahururu,1
+MACHAKOS,western_union,Masii,1
+MACHAKOS,western_union,Kangundo,1
+GATUNDU,western_union,Gatundu,1
+KIAMBU,western_union,Gatundu,3
+NYANDARUA,western_union,North Kinangop,1
+NAIROBI,western_union,Ruiru,1
+KIAMBU,western_union,Kamwangi,1
+LAIKIPIA,western_union,Rumuruti,2
+MACHAKOS,western_union,Tala,4
+KIAMBU,western_union,Juja,2
+NAIROBI,western_union,Thika,1
+MURANGA,western_union,Muranga,9
+MURANGA,western_union,Kangari,3
+NYANDARUA,western_union,Njambini,1
+CENTRAL,western_union,Thika,2
+MURANGA,western_union,Kangema,4
+MURANGA,western_union,Kahuro,2
+MACHAKOS,western_union,Matuu,4
+KISII,western_union,Machakos,1
+MURANGA,western_union,Murarandia,1
+MURANGA,western_union,Kenol,2
+KITUI,western_union,Kwa Vonza,1
+KIRINYAGA,western_union,Kagio,2
+NYERI,western_union,Karatina,8
+UNKNOWN,western_union,Karatina,1
+KIRINYAGA,western_union,Kerugoya,7
+KITUI,western_union,Mwingi,5
+NYERI,western_union,Chaka,1
+KWALE,western_union,Diani,3
+NYERI,western_union,Mukurweini,3
+KITUI,western_union,Mutomo,1
+LAIKIPIA,western_union,Nanyuki,11
+UNKNOWN,western_union,Nanyuki,1
+CENTRAL,western_union,Nanyuki,1
+KIRINYAGA,western_union,Wanguru,1
+KIRINYAGA,western_union,Mwea,5
+NYERI,western_union,Naromoru,1
+NYERI,western_union,Othaya,3
+KIAMBU,western_union,Karuri,1
+NYERI,western_union,Kiriani,2
+MURANGA,western_union,Makuyu,1
+NAIROBI,western_union,Isiolo,1
+ISIOLO,western_union,Isiolo,8
+EMBU,western_union,Runyejes,1
+EMBU,western_union,Embu,15
+EASTERN,western_union,Meru,1
+EMBU,western_union,Siakago,1
+EASTERN,western_union,Eastern,3
+UNKNOWN,western_union,Timau,1
+SAMBURU,western_union,Samburu,1
+CENTRAL,western_union,Taveta,1
+KIRINYAGA,western_union,Kutus,3
+MOMBASA,western_union,Chaani,1
+UNKNOWN,western_union,Kiritiri,1
+MERU,western_union,Kianjai,1
+MERU,western_union,Makutano,2
+UNKNOWN,western_union,Laare,1
+THARAKANITHI,western_union,Chogoria,2
+THARAKANITHI,western_union,Chuka,6
+KILIFI,western_union,Kilifi,9
+CENTRAL,western_union,Meru,1
+MERU,western_union,Maua,4
+KIRINYAGA,western_union,Makutano,1
+TURKANA,western_union,Lodwar,4
+TURKANA,western_union,Turkana,1
+TURKANA,western_union,Kakuma,2
+TURKANA,western_union,Lokichoggio,1
+TANARIVER,western_union,Garsen,1
+LAMU,western_union,Mpeketoni,3
+MOMBASA,western_union,Changamwe,4
+KILIFI,western_union,Coast,2
+KILIFI,western_union,Malindi,13
+KWALE,western_union,Ukunda,8
+COAST,western_union,Ukunda,3
+UKUNDA,western_union,Ukunda,1
+COAST,western_union,Mombasa,7
+KILIFI,western_union,Mariakani,4
+COAST,western_union,Vanga,1
+KWALE,western_union,Kwale,3
+MOMBASA,western_union,Bamburi,1
+MOMBASA,western_union,Shimanzi,1
+MOMBASA,western_union,Tudor,1
+KILIFI,western_union,Watamu,5
+LAMU,western_union,Malindi,1
+COAST,western_union,Malindi,1
+MOMBASA,western_union,Nkrumah,1
+MOMBASA,western_union,Likoni,2
+MOMBASA,western_union,Kengeleni,3
+COAST,western_union,Likoni,1
+KISUMU,western_union,Mombasa City,1
+MOMBASA,western_union,Mwembe Tayari,1
+MOMBASA,western_union,Kisauni,1
+MOMBASA,western_union,Mvita,1
+MOMBASA,western_union,Mtwapa,3
+COAST,western_union,Mtwapa,2
+KILIFI,western_union,Mtwapa,8
+MOMBASA,western_union,Nairobi,1
+BUSIA,western_union,Nyali,1
+NYALI,western_union,Nyali,1

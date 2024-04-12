@@ -1,0 +1,292 @@
+City,Place Name,Zipcode,Name
+Chur,audi,Rossbodenstrasse 14-16 7000 Chur,unknown,AMAG Chur
+Schluein,audi,Via Principala 5-7 7151 Schluein,unknown,Garage Caflisch AG
+Davos Platz,audi,Talstrasse 22 7270 Davos Platz,unknown,AMAG Davos
+St. Moritz,audi,Via Somplaz 33 7500 St. Moritz,unknown,Auto-Mathis AG
+Le Prese,audi,Spinadascio 698A 7746 Le Prese,unknown,Garage Battaglia SA
+Chur,hm,,unknown,Alexander-Strasse 2
+Davos,hm,,unknown,Talstrasse 2a
+Landquart District,ich_tanke_strom,Rastplatz Apfelwuhr Nord A13  7205 Zizers,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Bahnhofstrasse  7260 Davos,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Talstrasse  7270 Davos,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Promenade  7270 Davos,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Italienische Strasse  7430 Thusis,unknown,unknown
+Landquart District,ich_tanke_strom,Wuhrstr.  7302 Landquart,unknown,unknown
+Landquart District,ich_tanke_strom,Werkhofstrasse  7304 Maienfeld,unknown,Tesla Supercharger
+Maloja District,ich_tanke_strom,Via Grevas  7500 St. Moritz,unknown,Tesla Supercharger
+Plessur District,ich_tanke_strom,Rheinfelsstrasse  7000 Chur,unknown,unknown
+Landquart District,ich_tanke_strom,Apfelwuhr Süd Highway 13  7205 Landquart,unknown,unknown
+Surselva District,ich_tanke_strom,Via dils Larischs  7180 Disentis/Mustér,unknown,unknown
+Maloja District,ich_tanke_strom,Cho d'Punt 24  7503 Sameden,unknown,unknown
+Imboden District,ich_tanke_strom,Via Crusch 8  7402 Bonaduz,unknown,unknown
+Imboden District,ich_tanke_strom,Gassa Suto  7013 Domat/Ems,unknown,unknown
+Plessur District,ich_tanke_strom,Ringstrasse 5-9  7000 Chur,unknown,unknown
+Imboden District,ich_tanke_strom,Parc Industrial Vial 10  7013 Domat/Ems,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Valzeinastrasse 6  7214 Grüsch,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Äussere Heinzenbergstrasse 1  0 Thusis,unknown,unknown
+Plessur District,ich_tanke_strom,Rossbodenstrasse 18  0 Chur,unknown,unknown
+Surselva District,ich_tanke_strom,Via Principala 5  0 Schluein,unknown,unknown
+Surselva District,ich_tanke_strom,Via Crappa Grossa 24  0 Ilanz,unknown,unknown
+Maloja District,ich_tanke_strom,Crappun 1  0 Samedan,unknown,unknown
+Maloja District,ich_tanke_strom,Via dal Bagn 18  0 St. Moritz,unknown,unknown
+Landquart District,ich_tanke_strom,Tardisstrasse 20  7302 Landquart,unknown,unknown
+Inn District,ich_tanke_strom,Gurlaina  0 Scuol,unknown,unknown
+Plessur District,ich_tanke_strom,Richtstrasse 1 9  0 Chur,unknown,unknown
+Maloja District,ich_tanke_strom,Via Da La Staziun 12  0 Pontresina,unknown,unknown
+Maloja District,ich_tanke_strom,Via Da La Staziun 9  0 Pontresina,unknown,unknown
+Inn District,ich_tanke_strom,Chanvers 195  0 Ardez,unknown,unknown
+Hinterrhein District,ich_tanke_strom,La Nicca Strasse 17  0 Cazis,unknown,unknown
+Imboden District,ich_tanke_strom,Triststrasse 1  0 Chur,unknown,unknown
+Albula District,ich_tanke_strom,Julierstrasse 64  7450 Tiefencastel,unknown,unknown
+Maloja District,ich_tanke_strom,Via Maistra 202  0 Pontresina,unknown,unknown
+Plessur District,ich_tanke_strom,Aspermontstrasse 1  0 Chur,unknown,unknown
+Imboden District,ich_tanke_strom,Spundisstrasse 11  0 Chur,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Bahnhofstrasse 1  7270 Davos,unknown,unknown
+Maloja District,ich_tanke_strom,Str. Principale 107  0 Vicosoprano,unknown,unknown
+Maloja District,ich_tanke_strom,Str. Principale 109  0 Stampa,unknown,unknown
+Maloja District,ich_tanke_strom,Strada Cantonale 322  0 Maloja,unknown,unknown
+Plessur District,ich_tanke_strom,Voa Sporz 3  0 Lenzerheide,unknown,unknown
+Plessur District,ich_tanke_strom,Voa Principala 84  0 Lenzerheide,unknown,unknown
+Plessur District,ich_tanke_strom,Aeulilöserweg 11  0 Haldenstein,unknown,unknown
+Surselva District,ich_tanke_strom,Fretli 27A  0 Vella,unknown,unknown
+Maloja District,ich_tanke_strom,Via Sela 11  0 St.Moriz,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Landstrasse 205  0 Klosters,unknown,unknown
+Imboden District,ich_tanke_strom,Via la Quadra 6  0 Flims,unknown,unknown
+Maloja District,ich_tanke_strom,Strada Cantonale  0 Vicosoprano,unknown,unknown
+Maloja District,ich_tanke_strom,Auto Mathis Via Somplaz 33  7500 St. Moritz,unknown,unknown
+Inn District,ich_tanke_strom,Il Fuorn  0 Zernez,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Bahnhofstrasse 5  0 Davos Dorf,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Querverbindung A13 2 Thusis  0 Thusis,unknown,unknown
+Surselva District,ich_tanke_strom,Waltensburg  0 Waltensburg,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Herman Burchard Strasse 1  0 Davos,unknown,unknown
+Plessur District,ich_tanke_strom,Grossbrugerweg  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Alexanderstrasse 25  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Arlibonstrasse  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Gäuiggelistrasse 60  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Bahnhofplatz 4  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Waisenhausstrasse  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Scalärastrasse 17  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Kasernenstrasse 30  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Felsenaustrasse 29  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Ringstrasse 10  0 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Loestrasse  0 Chur,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Bahnhofstrasse 10  0 Klosters-Platz,unknown,unknown
+Landquart District,ich_tanke_strom,Werkstättestrasse 5  0 Landquart,unknown,unknown
+Landquart District,ich_tanke_strom,Löserstrasse 11  0 Landquart,unknown,unknown
+Inn District,ich_tanke_strom,Via da Tarasp 518  7550 Scuol,unknown,unknown
+Inn District,ich_tanke_strom,Via dals Bogns 323  0 Scuol,unknown,unknown
+Moesa District,ich_tanke_strom,Strada Cantonale 1  0 Grono,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Grüenistrasse 17  0 Davos,unknown,unknown
+Plessur District,ich_tanke_strom,Jöry-Jenny-Strasse  7050 Arosa,unknown,unknown
+Plessur District,ich_tanke_strom,Quellenweg  7050 Arosa,unknown,unknown
+Plessur District,ich_tanke_strom,Raschärenstrasse  7000 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Kasernenstrasse 95  7000 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Poststrasse 234a  7050 Arosa,unknown,unknown
+Surselva District,ich_tanke_strom,Via Plauns  7180 Disentis,unknown,unknown
+Albula District,ich_tanke_strom,Veia Sandeilas  7460 Savognin,unknown,unknown
+Maloja District,ich_tanke_strom,Julierstrasse  7457 Bivio,unknown,unknown
+Hinterrhein District,ich_tanke_strom,San Bernardino  6565 San Bernardino,unknown,unknown
+Albula District,ich_tanke_strom,Veia Padnal  7460 Savognin,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Landstrasse Silvretta Hotel Klosters  7250 Klosters,unknown,unknown
+Maloja District,ich_tanke_strom,Cho d'Punt  7503 Samedan,unknown,unknown
+Inn District,ich_tanke_strom,Curtins  7530 Zernez,unknown,unknown
+Surselva District,ich_tanke_strom,Via Acletta  7180 Disentis/Mustér,unknown,unknown
+Maloja District,ich_tanke_strom,Via Maistra  7504 Pontresina,unknown,unknown
+Surselva District,ich_tanke_strom,Via Acletta  7180 Disentis,unknown,unknown
+Plessur District,ich_tanke_strom,Dieschen sot  7078 Lenzerheide,unknown,unknown
+Surselva District,ich_tanke_strom,Bahnhofstrasse  7130 Ilanz,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Landwasserstrasse  7277 Davos,unknown,unknown
+Maloja District,ich_tanke_strom,Str. Cantonale  7608 Bregaglia (Castasegna),unknown,unknown
+Plessur District,ich_tanke_strom,Kasernenstrasse  7007 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Quaderstrasse 28  7000 Chur,unknown,unknown
+Inn District,ich_tanke_strom,Röven  7530 Zernez,unknown,unknown
+Plessur District,ich_tanke_strom,Voa Acletta  7077 Valbella,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Brämabüelstrasse  7270 Davos,unknown,unknown
+Plessur District,ich_tanke_strom,Sonnenbergstrasse  7050 Arosa,unknown,unknown
+Plessur District,ich_tanke_strom,Oberseepromenade  7050 Arosa,unknown,unknown
+Maloja District,ich_tanke_strom,San Bastiaun  7503 Samedan,unknown,unknown
+Moesa District,ich_tanke_strom,Via ai Monti  6546 Cauco Comune di Calanca,unknown,unknown
+Maloja District,ich_tanke_strom,Porta Cho d'Punt  7503 Samedan,unknown,unknown
+Plessur District,ich_tanke_strom,Chalchofastrasse  7050 Arosa,unknown,unknown
+Inn District,ich_tanke_strom,Via Suot  7530 Zernez,unknown,unknown
+Maloja District,ich_tanke_strom,Via vers Mulins  7513 Silvaplana,unknown,unknown
+Bernina District,ich_tanke_strom,Passo del Bernina  7710 Poschiavo,unknown,unknown
+Bernina District,ich_tanke_strom,Via da Mez  7742 Poschiavo,unknown,unknown
+Bernina District,ich_tanke_strom,Via Cantonale  7744 Brusio,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Bodenstrasse  7232 Furna,unknown,unknown
+Bernina District,ich_tanke_strom,Spinadascio  7746 Le Prese,unknown,unknown
+Maloja District,ich_tanke_strom,Via da Fex  7514 Sils,unknown,unknown
+Inn District,ich_tanke_strom,Crusch Plantaun  7527 Brail,unknown,unknown
+Maloja District,ich_tanke_strom,Morteratsch  7504 Pontresina,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Büdemji  7240 Küblis,unknown,unknown
+Surselva District,ich_tanke_strom,Via Alpsu  7189 Rueras,unknown,unknown
+Surselva District,ich_tanke_strom,Giessli  7130 Ilanz,unknown,unknown
+Bernina District,ich_tanke_strom,Borgo  7743 Brusio,unknown,unknown
+Maloja District,ich_tanke_strom,Via dal Corvatsch  7513 Silvaplana Surlej,unknown,unknown
+Bernina District,ich_tanke_strom,Via Principale  7746 Le Prese,unknown,unknown
+Maloja District,ich_tanke_strom,Via da Mulin  7504 Pontresina,unknown,unknown
+Bernina District,ich_tanke_strom,Via da Clalt  7742 Poschiavo,unknown,unknown
+Landquart District,ich_tanke_strom,RHB-Strasse  7302 Landquart,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Gotschnastrasse  7250 Klosters-Serneus,unknown,unknown
+Surselva District,ich_tanke_strom,Via Resgias  7166 Trun,unknown,unknown
+Maloja District,ich_tanke_strom,Via dal Farrer  7513 Silvaplana,unknown,unknown
+Maloja District,ich_tanke_strom,Via Charels Suot  7502 Bever,unknown,unknown
+Maloja District,ich_tanke_strom,Via Da la Staziun  7504 Pontresina,unknown,unknown
+Surselva District,ich_tanke_strom,Via Lieptgas  7031 Laax,unknown,unknown
+Maloja District,ich_tanke_strom,Via Sturetscha  7513 Silvaplana,unknown,unknown
+Bernina District,ich_tanke_strom,Via da Spultri  7741 Poschiavo,unknown,unknown
+Landquart District,ich_tanke_strom,Oberau  7205 Zizers,unknown,unknown
+Maloja District,ich_tanke_strom,Suot Chesas  7523 Madulain,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Hauptstrasse  7240 Küblis,unknown,unknown
+Surselva District,ich_tanke_strom,Bahnhofstrasse  7180 Disentis,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Hauptstrasse  7246 St. Antönien,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Marktwiesenstrasse  7430 Thusis,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Wildenerstrasse  7270 Davos-Platz,unknown,unknown
+Inn District,ich_tanke_strom,Via da la Staziun  7552 Scuol,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Bahnhofstrasse  7250 Klosters,unknown,unknown
+Inn District,ich_tanke_strom,Plazza da la Staziun  7530 Zernez,unknown,unknown
+Maloja District,ich_tanke_strom,Plazza da la Staziun  7500 St. Moritz,unknown,unknown
+Albula District,ich_tanke_strom,Bahnhof  7450 Tiefencastel,unknown,unknown
+Maloja District,ich_tanke_strom,Via Retica  7503 Samedan,unknown,unknown
+Maloja District,ich_tanke_strom,Bahnhofstrasse  7482 Bergün,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Veia Grande  7440 Andeer,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Hauptstrasse  7432 Zillis,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Selfrangastrasse  7250 Klosters-Serneus,unknown,unknown
+Maloja District,ich_tanke_strom,Resgja  7524 Zuoz,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Flüalastrasse  7260 Davos,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Dorfstrasse  7220 Schiers,unknown,unknown
+Maloja District,ich_tanke_strom,Via da Bernina  7504 Pontresina,unknown,unknown
+Plessur District,ich_tanke_strom,Welschdörfli  7000 Chur,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Alte Strasse  7430 Thusis,unknown,unknown
+Landquart District,ich_tanke_strom,Kantonsstrasse  7205 Zizers,unknown,unknown
+Inn District,ich_tanke_strom,Sassagl  7546 Ardez,unknown,unknown
+Landquart District,ich_tanke_strom,Dorfplatz  7208 Malans,unknown,unknown
+Landquart District,ich_tanke_strom,Rüfiweg  7204 Untervaz,unknown,unknown
+Surselva District,ich_tanke_strom,Via Santeri  7130 Ilanz,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Garola  7231 Pragg - Jenaz,unknown,unknown
+Surselva District,ich_tanke_strom,Via Uletsch  7031 Laax,unknown,unknown
+Maloja District,ich_tanke_strom,Via Castell  7524 Zuoz,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Landstrasse  7250 Klosters,unknown,unknown
+Landquart District,ich_tanke_strom,Kantonsstrasse  7302 Landquart,unknown,unknown
+Surselva District,ich_tanke_strom,Grava  7144 Vella,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Badstrasse  7249 Serneus,unknown,unknown
+Surselva District,ich_tanke_strom,Pellas  7144 Vella,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Schlappinstrasse  7250 Klosters,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Obergasse  7247 Saas,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Talbachstrasse  7250 Klosters,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Monbielerstrasse  7250 Klosters,unknown,unknown
+Maloja District,ich_tanke_strom,Via Cumünela  7522 La Punt-Chamues-ch,unknown,unknown
+Surselva District,ich_tanke_strom,Via Alpsu 68  7188 Sedrun,unknown,unknown
+Landquart District,ich_tanke_strom,Werkhofstrasse 1  7304 Maienfeld,unknown,unknown
+Maloja District,ich_tanke_strom,Via Rosatsch 12  7500 St. Moritz,unknown,unknown
+Inn District,ich_tanke_strom,Surataglia 265  7554 Sent,unknown,unknown
+Plessur District,ich_tanke_strom,Emserstrasse 2  7000 Chur,unknown,unknown
+Albula District,ich_tanke_strom,Sumvoi  7083 Lantsch/Lenz,unknown,unknown
+Inn District,ich_tanke_strom,La Val  7545 Guarda,unknown,unknown
+Surselva District,ich_tanke_strom,Via Mulin 2  7130 Ilanz,unknown,unknown
+Plessur District,ich_tanke_strom,Via Principala 80  7078 Lenzerheide,unknown,unknown
+Maloja District,ich_tanke_strom,Via da la staziun  7505 Celerina/Schlarigna,unknown,unknown
+Inn District,ich_tanke_strom,Stradun 404  7550 Scuol,unknown,unknown
+Maloja District,ich_tanke_strom,Via Traunter Plazzas 7  7500 St. Moritz,unknown,unknown
+Plessur District,ich_tanke_strom,Via Principala PP Calvadoiras  7078 Lenzerheide Vaz / Obervaz,unknown,unknown
+Inn District,ich_tanke_strom,Nairs 160b  7550 Scuol,unknown,unknown
+Inn District,ich_tanke_strom,Stradun 253  7550 Scuol,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Marktwiese  7430 Thusis,unknown,unknown
+Maloja District,ich_tanke_strom,Via Gunels 5  7512 Champfèr,unknown,unknown
+Maloja District,ich_tanke_strom,Via Grevas 53  7500 St. Moritz,unknown,unknown
+Inn District,ich_tanke_strom,Vi 383  7550 Scuol,unknown,unknown
+Maloja District,ich_tanke_strom,Via Curtins 2  7500 St. Moritz,unknown,unknown
+Maloja District,ich_tanke_strom,Via Maistra 128  7505 Celerina/Schlarigna,unknown,unknown
+Surselva District,ich_tanke_strom,Via Alpsu 69  7188 Sedrun,unknown,unknown
+Albula District,ich_tanke_strom,Voia da Bual 1  7083 Lantsch/Lenz,unknown,unknown
+Plessur District,ich_tanke_strom,Hauptstrasse  7075 Churwalden,unknown,unknown
+Inn District,ich_tanke_strom,Stradun 330  7550 Scuol,unknown,unknown
+Surselva District,ich_tanke_strom,Via Foppas  7180 Disentis/Muster,unknown,unknown
+Surselva District,ich_tanke_strom,Crest la Crusch  7165 Breil/Brigels,unknown,unknown
+Inn District,ich_tanke_strom,Fionas 134  7551 Ftan,unknown,unknown
+Inn District,ich_tanke_strom,Bagnera 170  7550 Scuol,unknown,unknown
+Inn District,ich_tanke_strom,Via da la staziun 514 A  7550 Scuol,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Promenade  Davos,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Tschuggenstrasse  Davos Dorf,unknown,unknown
+Plessur District,ich_tanke_strom,Oberseepromenade  Arosa,unknown,unknown
+Plessur District,ich_tanke_strom,Ringstrasse 18  7000 Chur,unknown,unknown
+Albula District,ich_tanke_strom,Stradung 18  7460 Surses,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Montagna 51  7220 Schiers,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Seewiesenstrasse 3  7260 Davos Dorf,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Postplatz  7270 Davos,unknown,unknown
+Plessur District,ich_tanke_strom,Polenwäg 6  7075 Churwalden,unknown,unknown
+Maloja District,ich_tanke_strom,Via Maistra 46  7500 San Maurizio,unknown,unknown
+Surselva District,ich_tanke_strom,Spitalstrasse 8  7130 Ilanz,unknown,unknown
+Surselva District,ich_tanke_strom,Via Val Vedra 54  7151 Schluein,unknown,unknown
+Plessur District,ich_tanke_strom,Fatschélerstrasse 120  7028 St. Peter,unknown,unknown
+Surselva District,ich_tanke_strom,Via Falera 1  7031 Laax,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Talstrasse 42C  7270 Davos Platz,unknown,unknown
+Maloja District,ich_tanke_strom,Via Fedacla 1  7514 Sils im Engadin,unknown,unknown
+Plessur District,ich_tanke_strom,Rossbodenstrasse 10  7000 Chur,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Jules Ferdmann-Weg 4  7270 Davos Platz,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Dorfstrasse 3  7436 Medels,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Buolstrasse 3  7270 Davos Platz,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Klinik  7272 Davos,unknown,unknown
+Landquart District,ich_tanke_strom,Rheinstrasse 2  7203 Trimmis,unknown,unknown
+Maloja District,ich_tanke_strom,Via Maistra 75  7504 Pontresina,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Promenade 142  7260 Davos,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Glüs 51F  7132 Vals,unknown,unknown
+Surselva District,ich_tanke_strom,Via Ruast 15  7165 Breil/Brigels,unknown,unknown
+Plessur District,ich_tanke_strom,Hauptstrasse 153  7075 Churwalden,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Nislas 101D  7432 Zillis-Reischen,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Flüelastrasse 2  7260 Davos,unknown,unknown
+Imboden District,ich_tanke_strom,Promenada 18  7018 Flims,unknown,unknown
+Landquart District,ich_tanke_strom,Ochsenweidstrasse 32  7205 Zizers,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Flüelastrasse 2A  7260 Davos Dorf Davos Dorf,unknown,unknown
+Surselva District,ich_tanke_strom,Via Lucmagn 7  7180 Disentis/Mustér,unknown,unknown
+Plessur District,ich_tanke_strom,Raschärenstrasse 34  7000 Chur,unknown,unknown
+Imboden District,ich_tanke_strom,Via Sorts Sura 3  7018 Flims Waldhaus,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Resgia 13  7432 Zillis-Reischen,unknown,unknown
+Imboden District,ich_tanke_strom,Via Nova 80  7017 Flims,unknown,unknown
+Landquart District,ich_tanke_strom,Freihofstrasse 8  7302 Landquart,unknown,unknown
+Plessur District,ich_tanke_strom,Hotelfachschule  7062 Churwalden,unknown,unknown
+Imboden District,ich_tanke_strom,Rudi Dadens 7  7018 Flims,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Talstrasse 3  7270 Davos Platz,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Berglistutz 2  7270 Davos Platz,unknown,unknown
+Imboden District,ich_tanke_strom,Promenada 16  7018 Flims,unknown,unknown
+Maloja District,ich_tanke_strom,Puoz 112  7482 Bergün/Bravuogn,unknown,unknown
+Imboden District,ich_tanke_strom,Via Nova 80  7018 Flims,unknown,unknown
+Imboden District,ich_tanke_strom,Via da Muntatsch 2  7017 Flims Dorf,unknown,unknown
+Plessur District,ich_tanke_strom,Sommeraustrasse 7  7000 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Kasernenstrasse 165  7000 Chur,unknown,unknown
+Landquart District,ich_tanke_strom,Castaletweg 51  7206 Igis,unknown,unknown
+Surselva District,ich_tanke_strom,Cadruvi-sut 3  7165 Breil-Brigels,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Flüelastrasse 2  7260 Davos Dorf Davos Dorf,unknown,unknown
+Landquart District,ich_tanke_strom,Tardisstrasse 229  7205 Zizers,unknown,unknown
+Surselva District,ich_tanke_strom,19 51  7180 Disentis/Mustér,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Promenade 74  7270 Davos,unknown,unknown
+Plessur District,ich_tanke_strom,Kalchbühlstrasse 12  7000 Chur,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Centralweg 4  7270 Davos,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Promenade 61  7270 Davos Platz,unknown,unknown
+Albula District,ich_tanke_strom,MMCF+PJ Bergün Filisur  - Schweiz,unknown,unknown
+Surselva District,ich_tanke_strom,Tschuppina 42  7165 Breil-Brigels,unknown,unknown
+Hinterrhein District,ich_tanke_strom,PCWX+CQ Domleschg  - Schweiz,unknown,unknown
+Landquart District,ich_tanke_strom,Schulstrasse 78  7302 Landquart,unknown,unknown
+Imboden District,ich_tanke_strom,Rossbodenstrasse 2  7000 Chur,unknown,unknown
+Maloja District,ich_tanke_strom,Curtins 45  7522 La-Punt,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Dorfstrasse  7436 Medels,unknown,unknown
+Surselva District,ich_tanke_strom,Meierhof 32  7134 Ruis,unknown,unknown
+Plessur District,ich_tanke_strom,Kasernenstrasse 148  7000 Chur,unknown,unknown
+Imboden District,ich_tanke_strom,Via la Val 1  7013 Domat/Ems,unknown,unknown
+Surselva District,ich_tanke_strom,Via Claustra 2  7180 Disentis/Mustér,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Flüelastrasse 2  7260 Davos Dorf,unknown,unknown
+Plessur District,ich_tanke_strom,Raschärenstrasse 10  7000 Chur,unknown,unknown
+Plessur District,ich_tanke_strom,Fatschélerstrasse 86  7028 St. Peter,unknown,unknown
+Landquart District,ich_tanke_strom,Prättigauerstrasse 213F  7302 Landquart,unknown,unknown
+Landquart District,ich_tanke_strom,Schulstrasse 76  7302 Landquart,unknown,unknown
+Hinterrhein District,ich_tanke_strom,Cantonál 70  6565 S. Bernardino S. Bernardino,unknown,unknown
+Inn District,ich_tanke_strom,Hotel Villa Post  7552 Vulpera,unknown,unknown
+Surselva District,ich_tanke_strom,Via S. Clau Sut 18  7130 Ilanz,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Hotel Inn Promenade 116  7260 Davos Dorf,unknown,unknown
+Plessur District,ich_tanke_strom,Alteinstrasse 33  7050 Arosa,unknown,unknown
+Praettigau/Davos District,ich_tanke_strom,Clavadelerstrasse 16  7272 Davos,unknown,unknown
+Surselva District,ich_tanke_strom,Via Campliun 88  7165 Breil/Brigels,unknown,unknown
+Plessur District,ich_tanke_strom,Bahnhofstrasse 10C  7056 Molinis,unknown,unknown
+Maloja District,ionity,,unknown,Silvaplana
+Landquart,starbucks_eu,Tardisstrasse 20a 7302 Landquart,unknown,Landquart Fashion Outlet
+Chur,starbucks_eu,Bahnhofplatz 7000 Chur,unknown,Railcity Chur

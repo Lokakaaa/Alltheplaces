@@ -1,0 +1,465 @@
+City,Place Name,Zipcode,Name
+Milan,botteg_aveneta,,unknown,Varese
+Bergamo,dan_john,,unknown,Dan John Bergamo
+Milano,dan_john,,unknown,Dan John Milano - C.C. Merlata Bloom
+Monza,dan_john,,unknown,Dan John Monza
+Brescia,dan_john,,unknown,Dan John Brescia - Corso Zanardelli
+Peschiera Borromeo,dan_john,,unknown,Dan John Peschiera Borromeo - CC Galleria Borromeo
+Saronno,dan_john,,unknown,Dan John Saronno
+Mapello,dan_john,,unknown,Dan John Mapello
+Pavia,dan_john,,unknown,Dan John Pavia -  Corso strada nuova
+Sesto San Giovanni,dan_john,,unknown,Dan John Sesto San Giovanni - CC Sarca
+Roncadelle,dan_john,,unknown,Dan John Roncadelle - CC Elnòs
+Rozzano,dan_john,,unknown,Dan John Rozzano - C.C. Fiordaliso
+Comezzano-Cizzago,dr_max,,unknown,"Farmacia Dr. Max Cizzago Rudiana, Via Rudiana 3/B"
+Milano,dr_max,,unknown,"Farmacia Dr. Max Milano Insubria, Piazza Insubria 11"
+Oreno,dr_max,,unknown,"Farmacia Dr. Max Oreno Trieste, via Trieste 63"
+Osio Sotto,dr_max,,unknown,"Farmacia Dr. Max Osio Sotto Camozzi, Via G. Camozzi 1"
+Manerbio,dr_max,,unknown,"Farmacia Dr. Max Manerbio Mazzini, Via Giuseppe Mazzini 29"
+Monza,dr_max,,unknown,"Farmacia Dr. Max Monza Rondò, Via Lario 17"
+Villanova,dr_max,,unknown,"Farmacia Dr. Max Bernareggio San Bartolomeo, Via San Bartolomeo 1"
+Milano,ewiva_it,H5QF+G9 Paderno Dugnano Città Metropolitana di Milano,unknown,unknown
+Castenedolo,ewiva_it,F869+FJ Castenedolo Provincia di Brescia,unknown,unknown
+Milano,ewiva_it,H27W+RP Lainate Città Metropolitana di Milano,unknown,unknown
+MILANO,ewiva_it,F32X+95 Milano Città Metropolitana di Milano,unknown,unknown
+NOVATE MILANESE,ewiva_it,G592+HC Milano Città Metropolitana di Milano,unknown,unknown
+DESIO,ewiva_it,Via Borghetto 75 20832 Desio MB,unknown,unknown
+COMO,ewiva_it,Via Cecilio 4 22100 Como CO,unknown,unknown
+OPERA,ewiva_it,Via S. Francesco d'Assisi 39 20090 Opera MI,unknown,unknown
+BAREGGIO,ewiva_it,Via Alcide De Gasperi 1 20008 Bareggio MI,unknown,unknown
+SORESINA,ewiva_it,Via G. Guida 4 26015 Soresina CR,unknown,unknown
+CANTU,ewiva_it,Via Lombardia Cantù 22063,unknown,unknown
+GONZAGA,ewiva_it,Via Madre Teresa di Calcutta 46023 Gonzaga MN,unknown,unknown
+CORSICO,ewiva_it,Via Marchesi 4 20094 Corsico MI Italia,unknown,unknown
+BAGNOLO SAN VITO,ewiva_it,Zona Industriale 46031 Zona Industriale-artigianale MN,unknown,unknown
+SAN GIORGIO BIGARELLO,ewiva_it,5V92+23J San Giorgio Bigarello Provincia di Mantova Italia,unknown,unknown
+MILANO,ewiva_it,Via Arona 15/9 20149 Milano MI,unknown,unknown
+MONZA,ewiva_it,Via Lecco 29 20900 Monza MB,unknown,unknown
+BERGAMO,ewiva_it,Via Pietro Spino 24126 Bergamo BG,unknown,unknown
+SESTO SAN GIOVANNI,ewiva_it,Viale Italia 51 20099 Sesto San Giovanni MI,unknown,unknown
+RESCALDINA,ewiva_it,Via Fratelli d'Italia 16,unknown,unknown
+BRESCIA,ewiva_it,via San Zeno 76 25124 Brescia BS,unknown,unknown
+BRESCIA,ewiva_it,Via Masaccio 20 25124 Brescia BS Italia,unknown,unknown
+Dalmine,ewiva_it,Via Vailetta,unknown,unknown
+CAVARIA CON PREMEZZO,ewiva_it,Via Crocetta 22 21044 Cavaria Con Premezzo VA Italia,unknown,unknown
+Brescia,ewiva_it,G5XP+X8 Brescia Provincia di Brescia,unknown,unknown
+Agrate Brianza,ewiva_it,SP41 150 20864 Agrate Brianza MB,unknown,unknown
+Zanica,ewiva_it,Grassobbio BG SP ex SS 591 bis SP591bis 5 24050 Grassobbio BG,unknown,unknown
+Erbusco,ewiva_it,Via Rovato 43 25030 Erbusco BS,unknown,unknown
+CARAVAGGIO,ewiva_it,A35 Bre-Be-Mi km 33700 Direzione Milano 24043 Caravaggio BG,unknown,unknown
+CARAVAGGIO,ewiva_it,BG IT A35 24043 Dir Provincia di Brescia,unknown,unknown
+CASSANO D'ADDA,ewiva_it,Piazzale Pietro Gobetti 20062 Cassano d'Adda MI,unknown,unknown
+Milano,ewiva_it,H5FG+PP Paderno Dugnano Città Metropolitana di Milano,unknown,unknown
+MALGRATE,ewiva_it,Via Stabilini 11 23864 Malgrate LC,unknown,unknown
+CREMA,ewiva_it,Via Giorgio La Pira 26013 Crema CR,unknown,unknown
+BRESCIA,ewiva_it,Via Giulio Quinto Stefana - Brescia,unknown,unknown
+Milano (MI),hm,,unknown,Centro Commerciale Fiordaliso
+Bergamo (BG),hm,,unknown,"Antegnate, Via del commercio 3"
+Voghera (PV),hm,,unknown,Centro Commerciale Montebello
+Bellinzago (MI),hm,,unknown,Centro Commerciale La Corte Lombarda
+Varese (VA),hm,,unknown,Centro Commerciale Belforte
+Lonato (BS),hm,,unknown,Via Mantova
+Busnago (MI),hm,,unknown,Centro Commerciale Globo
+Carugate (MI),hm,,unknown,Centro Commerciale Carosello
+Monza (MB),hm,,unknown,"Via Italia, 8"
+Brescia (BS),hm,,unknown,Via d'Antona e Biagi 9 Roncadelle (BS)
+Lecco,hm,,unknown,"Via Roma, 55"
+Vigevano,hm,,unknown,CC Il Ducale
+Mantova (MN),hm,,unknown,"Piazzale Commercio, 1, Borgo Virgilio (MN)"
+Cremona (CR),hm,,unknown,Centro Commerciale Cremona Po
+Pero (MI),mercedes_benz,,unknown,BLUSTAR CAR S.r.l.
+Filago (BG),mercedes_benz,,unknown,LODOTRUCK S.r.l.
+San Giuliano Milanese,mercedes_benz,,unknown,MERBAG S.p.A.
+PAVIA,mercedes_benz,,unknown,AUTOSTELLA DI ZANONCELLI GIAN PIETRO E C. S.n.c.
+Seregno (MB),mercedes_benz,,unknown,VENUS S.p.A.
+Berbenno Valtellina (SO),mercedes_benz,,unknown,SONDRIO DIESEL S.r.l.
+CASTELVERDE,mercedes_benz,,unknown,AROLDI ALESSANDRO S.r.l.
+Limito di Pioltello (MI),mercedes_benz,,unknown,VENUS S.p.A.
+Monza (MB),mercedes_benz,,unknown,VENUS S.p.A.
+Verdellino Zingonia ( BG ),mercedes_benz,,unknown,LODAUTO S.p.A.
+VOGHERA (PV),mercedes_benz,,unknown,RUSSO GIUSEPPE
+Bergamo,mercedes_benz,,unknown,LODAUTO S.p.A.
+Vigevano (PV),mercedes_benz,,unknown,AUTOLUX S.r.l.
+ZIBIDO SAN GIACOMO,mercedes_benz,,unknown,MA-BER AUTO S.r.l.
+Legnano,mercedes_benz,,unknown,AUTOTORINO S.p.A.
+Cornate D'Adda (MI),mercedes_benz,,unknown,VENUS S.p.A.
+Magenta (MI),mercedes_benz,,unknown,ELITCAR S.r.l.
+Coccaglio,mercedes_benz,,unknown,AUTOCARAVAN S.r.l. a socio unico
+Castione Andevenno,mercedes_benz,,unknown,AUTOTORINO S.p.A.
+Milano,mercedes_benz,,unknown,MERBAG S.p.A.
+Sesto San Giovanni (MI),mercedes_benz,,unknown,AUTOGABETTA S.r.l.
+Cavenago Brianza,mercedes_benz,,unknown,NEW STAR S.r.l.
+Brescia,mercedes_benz,,unknown,BONERA S.p.A.
+Robbiate,mercedes_benz,,unknown,AUTOSERVICE S.r.l.
+Liscate (MI),mercedes_benz,,unknown,AUTOGABETTA S.r.l.
+Lainate,mercedes_benz,,unknown,MERBAG S.p.A.
+Sarezzo,mercedes_benz,,unknown,ILMIOSERVICE S.r.l.
+San Zeno Naviglio (BS),mercedes_benz,,unknown,AGRICAR S.P.A.
+Bagnolo Cremasco,mercedes_benz,,unknown,CREMA DIESEL S.p.A.
+LEGNANO,mercedes_benz,,unknown,AUTOTORINO S.p.A.
+Gazzada Schianno,mercedes_benz,,unknown,AUTOTORINO S.p.A.
+Busto Arsizio,mercedes_benz,,unknown,AUTOTORINO S.p.A.
+Costa Volpino,mercedes_benz,,unknown,BONERA S.p.A.
+Cremona,mercedes_benz,,unknown,CREMA DIESEL S.p.A.
+Lonato del Garda,mercedes_benz,,unknown,BONERA S.p.A.
+Pieve Fissiraga,mercedes_benz,,unknown,CREMA DIESEL S.p.A.
+Olginate,mercedes_benz,,unknown,AUTOTORINO S.p.A.
+San Martino Siccomario (PV),mercedes_benz,,unknown,AUTOTORINO S.p.A.
+Induno Olona (VA),mercedes_benz,,unknown,AUTOTORINO S.p.A.
+Curtatone ,mercedes_benz,,unknown,AGRICAR S.P.A.
+Luisago (CO),mercedes_benz,,unknown,AUTOTORINO S.p.A.
+Uboldo (VA),mercedes_benz,,unknown,GRECO STAR SERVICE S.r.l.
+Carugate,ovs,,unknown,OVS Carugate
+Brescia,ovs,,unknown,OVS Brescia - Via Mantova
+Milano,ovs,,unknown,OVS Cascina Merlata Bloom
+Luino,ovs,,unknown,OVS Luino
+Pavia,ovs,,unknown,OVS Pavia
+Sesto San Giovanni,ovs,,unknown,OVS Sesto San Giovanni - C.C. Sarca
+Seriate,ovs,,unknown,OVS Seriate
+Lecco,ovs,,unknown,OVS Lecco - C.C. La Meridiana
+Cantù,ovs,,unknown,OVS Cantù - C.C. Mirabello
+Bergamo,ovs,,unknown,OVS Bergamo Auchan
+Erbusco,ovs,,unknown,OVS Erbusco
+Novate Milanese,ovs,,unknown,OVS Novate Milanese
+Saronno,ovs,,unknown,OVS Saronno
+Varese,ovs,,unknown,OVS Varese
+Lissone,ovs,,unknown,OVS Lissone - Via Giardino
+Sondrio,ovs,,unknown,OVS Sondrio
+Grandate,ovs,,unknown,OVS Grandate
+Vignate,ovs,,unknown,OVS Vignate
+Limbiate,ovs,,unknown,OVS Milano Limbiate
+Pieve Fissiraga,ovs,,unknown,OVS Pieve Fissiraga
+Antegnate,ovs,,unknown,OVS Antegnate
+Cernusco Lombardone,ovs,,unknown,OVS Cernusco Lombardone
+Monza,ovs,,unknown,OVS Monza
+Cornate D'Adda,ovs,,unknown,OVS Busnago
+Assago,ovs,,unknown,OVS Assago
+Mazzano,ovs,,unknown,OVS Mazzano
+Caravaggio,ovs,,unknown,OVS Caravaggio
+Stezzano,ovs,,unknown,OVS Stezzano - C.C. Le Due Torri
+Roncadelle,ovs,,unknown,OVS Roncadelle
+Rescaldina,ovs,,unknown,OVS Rescaldina
+Lodi,ovs,,unknown,OVS Lodi
+Cinisello Balsamo,ovs,,unknown,OVS Cinisello Balsamo
+Mantova,ovs,,unknown,OVS Kids Kids Mantova
+Como,ovs,,unknown,OVS Como
+Curno,ovs,,unknown,OVS Curno
+Brembate,ovs,,unknown,OVS Brembate
+Montano Lucino,ovs,,unknown,OVS Montano Lucino
+Orio Al Serio,ovs,,unknown,OVS Orio al Serio - C.C. Oriocenter Bergamo
+Desenzano Del Garda,ovs,,unknown,OVS Desenzano del Garda - C.C Le Vele
+Erba,ovs,,unknown,OVS Erba
+Crema,ovs,,unknown,OVS Crema
+Cremona,ovs,,unknown,OVS Kids Cremona Mercatello
+Brugherio,ovs,,unknown,OVS Brugherio
+Cormano,ovs,,unknown,OVS Cormano
+Opera,ovs,,unknown,OVS Opera
+Pantigliate,ovs,,unknown,OVS Pantigliate
+Rho,ovs,,unknown,OVS Kids Rho
+San Giuliano Milanese,ovs,,unknown,OVS San Giuliano Milanese
+Settimo Milanese,ovs,,unknown,OVS Settimo Milanese
+Cava Manara,ovs,,unknown,OVS Cava Manara
+Vigevano,ovs,,unknown,OVS Vigevano - C.C. Il Ducale
+Gallarate,ovs,,unknown,OVS Gallarate
+Gavirate,ovs,,unknown,OVS Gavirate
+Somma Lombardo,ovs,,unknown,OVS Somma Lombardo
+Parona Lomellina,ovs,,unknown,OVS Parona Lomellina
+Rogolo,ovs,,unknown,OVS Rogolo
+Castione Andevenno,ovs,,unknown,OVS Castione Andevenno
+Villasanta,ovs,,unknown,OVS Villasanta
+Gadesco-Pieve Delmona,ovs,,unknown,OVS Gadesco-Pieve Delmona
+San Vittore Olona,ovs,,unknown,OVS San Vittore Olona
+Palazzolo sull'Oglio,ovs,,unknown,OVS Palazzolo sull'Oglio
+Marmirolo,ovs,,unknown,OVS Marmirolo
+Castano Primo,ovs,,unknown,OVS Castano Primo
+Darfo Boario Terme,ovs,,unknown,OVS Darfo Boario Terme
+Vimodrone,ovs,,unknown,OVS Vimodrone
+Voghera,ovs,,unknown,OVS Voghera Est
+Seregno,ovs,,unknown,OVS Seregno
+Sedriano,ovs,,unknown,OVS Sedriano
+Padenghe Sul Garda,ovs,,unknown,OVS Padenghe Sul Garda
+Vimercate,ovs,,unknown,OVS Vimercate
+Stradella,ovs,,unknown,OVS Stradella
+Giussano,ovs,,unknown,OVS Giussano
+Olgiate Olona,ovs,,unknown,OVS Olgiate Olona
+Cusago,ovs,,unknown,OVS Cusago
+Castenedolo,ovs,,unknown,OVS Castenedolo
+Montebello Della Battaglia,ovs,,unknown,OVS Montebello della battaglia
+Bellinzago Lombardo,ovs,,unknown,OVS Bellinzago Lombardo
+Arese,ovs,,unknown,OVS Arese
+Cesano Boscone,ovs,,unknown,OVS Cesano Boscone
+Appiano Gentile,ovs,,unknown,OVS Appiano Gentile
+Treviglio,ovs,,unknown,OVS Treviglio
+San Rocco Al Porto,ovs,,unknown,OVS San Rocco al Porto
+Buccinasco,ovs,,unknown,OVS Buccinasco
+Bresso,ovs,,unknown,OVS Kids Bresso
+Curtatone,ovs,,unknown,OVS Curtatone
+Rozzano,ovs,,unknown,OVS Rozzano
+Codogno,ovs,,unknown,OVS Codogno
+Legnano,ovs,,unknown,OVS Legnano
+Corbetta,ovs,,unknown,OVS Corbetta
+Casalmaggiore,ovs,,unknown,OVS Casalmaggiore
+Sant'Angelo Lodigiano,ovs,,unknown,OVS Kids Sant'Angelo Lodigiano
+Abbiategrasso,ovs,,unknown,OVS Kids Abbiategrasso
+Villanova Sul Clisi,ovs,,unknown,OVS Villanova sul Clisi
+Montichiari,ovs,,unknown,OVS Montichiari
+Chiari,ovs,,unknown,OVS Chiari
+Bollate,ovs,,unknown,OVS Kids Bollate
+Pisogne,ovs,,unknown,OVS Pisogne
+Paderno Dugnano,ovs,,unknown,OVS Paderno Dugnano
+Vittuone,ovs,,unknown,OVS Vittuone
+Chiavenna,ovs,,unknown,OVS Kids Chiavenna
+Peschiera Borromeo,ovs,,unknown,OVS Peschiera Borromeo
+Garlasco,ovs,,unknown,OVS Kids Garlasco
+Lentate Sul Seveso,ovs,,unknown,OVS Lentate sul Seveso
+Calolziocorte,ovs,,unknown,Underwear Calolziocorte
+Mandello Del Lario,ovs,,unknown,OVS Kids Mandello
+Orzinuovi,ovs,,unknown,OVS Orzinuovi
+Tirano,ovs,,unknown,OVS Tirano
+Cremona,penny,,unknown,PENNY
+Caleppio di Settala,penny,,unknown,PENNY
+Milano,penny,,unknown,PENNY
+Brembate,penny,,unknown,PENNY
+Brescia,penny,,unknown,PENNY
+Corbetta,penny,,unknown,PENNY
+Palazzolo S/Olio,penny,,unknown,PENNY
+Cernusco sul Naviglio,penny,,unknown,PENNY
+Carpenedolo,penny,,unknown,PENNY
+San Polo,penny,,unknown,PENNY
+Arsago Seprio,penny,,unknown,PENNY
+Abbiategrasso,penny,,unknown,PENNY
+Nova Milanese,penny,,unknown,PENNY
+Maclodio,penny,,unknown,PENNY
+Mortara,penny,,unknown,PENNY
+Pioltello,penny,,unknown,PENNY
+Garbagnate M.se,penny,,unknown,PENNY
+Varese,penny,,unknown,PENNY
+Osnago,penny,,unknown,PENNY
+Bareggio,penny,,unknown,PENNY
+Desenzano S/Garda,penny,,unknown,PENNY
+Samarate,penny,,unknown,PENNY
+Manerba del Garda,penny,,unknown,PENNY
+Pontida,penny,,unknown,PENNY
+Legnano,penny,,unknown,PENNY
+Sirmione,penny,,unknown,PENNY
+Nozza di Vestone,penny,,unknown,PENNY
+Dalmine,penny,,unknown,PENNY
+Rho,penny,,unknown,PENNY
+Mariano Comense,penny,,unknown,PENNY
+Pessano con Bornago,penny,,unknown,PENNY
+Gorgonzola,penny,,unknown,PENNY
+Fiorano Al Serio,penny,,unknown,PENNY
+Lodi,penny,,unknown,PENNY
+Merate,penny,,unknown,PENNY
+Robbiate,penny,,unknown,PENNY
+Muggiò,penny,,unknown,PENNY
+Verolavecchia (BS),penny,,unknown,PENNY
+Castel Goffredo,penny,,unknown,PENNY
+Crema,penny,,unknown,PENNY
+Vertemate con Minoprio,penny,,unknown,PENNY
+Goito,penny,,unknown,PENNY
+Venegono Inferiore,penny,,unknown,PENNY
+Pero,penny,,unknown,PENNY
+Voghera,penny,,unknown,PENNY
+Orzinuovi,penny,,unknown,PENNY
+Casalpusterlengo,penny,,unknown,PENNY
+Binago,penny,,unknown,PENNY
+Lonato,penny,,unknown,PENNY
+Olginate,penny,,unknown,PENNY
+Asola,penny,,unknown,PENNY
+Medolago,penny,,unknown,PENNY
+Vittuone,penny,,unknown,PENNY
+Lecco,penny,,unknown,PENNY
+Bedizzole,penny,,unknown,PENNY
+Vigevano,penny,,unknown,PENNY
+Ponte San Pietro,penny,,unknown,PENNY
+Martinengo,penny,,unknown,PENNY
+Casalmaggiore,penny,,unknown,PENNY
+Castenedolo,penny,,unknown,PENNY
+Gallarate,penny,,unknown,PENNY
+Grumello del Monte,penny,,unknown,PENNY
+Bergamo,penny,,unknown,PENNY
+Trescore Balneario,penny,,unknown,PENNY
+Chiari,penny,,unknown,PENNY
+Pedrengo,penny,,unknown,PENNY
+Saronno,penny,,unknown,PENNY
+Mesero,penny,,unknown,PENNY
+Cologne,penny,,unknown,PENNY
+Madone,penny,,unknown,PENNY
+Gravedona,penny,,unknown,PENNY
+Como,penny,,unknown,PENNY
+Busto Arsizio,penny,,unknown,PENNY
+Giussano,penny,,unknown,PENNY
+Ispra (VA),penny,,unknown,PENNY
+Buccinasco,penny,,unknown,PENNY
+Montichiari,penny,,unknown,PENNY
+Monza,penny,,unknown,PENNY
+Travagliato,penny,,unknown,PENNY
+PAVIA,sigma_it,,unknown,to-market-di-pavia-cavour
+MONZA,sigma_it,,unknown,ok-sigma-di-monza-via-rota
+MILANO,sigma_it,,unknown,ok-sigma-di-milano
+BRESCIA,sigma_it,,unknown,sigma-di-brescia-livorno
+TOSCOLANO MADERNO,sigma_it,,unknown,sigma-superstore-di-toscolano-maderno-statale
+NIBIONNO,sigma_it,,unknown,sigma-superstore-di-nibionno-manzoni
+MOLTENO,sigma_it,,unknown,sigma-superstore-di-molteno-viale-a-de-gasperi
+CINISELLO BALSAMO,sigma_it,,unknown,sigma-superstore-di-cinisello-balsamo-risorgimento
+CASTELLI CALEPIO,sigma_it,,unknown,sigma-superstore-di-castelli-calepio-unione
+BORMIO,sigma_it,,unknown,sigma-superstore-di-bormio-nesini
+BOLTIERE,sigma_it,,unknown,sigma-superstore-di-boltiere-europa
+Bormio,sigma_it,,unknown,sigma-superstore-di-bormio-le-corti
+ZANDOBBIO,sigma_it,,unknown,sigma-di-zandobbio-verdi
+VIMODRONE,sigma_it,,unknown,sigma-di-vimodrone-xv-martiri
+VENEGONO INFERIORE,sigma_it,,unknown,sigma-di-venegono-inferiore-ciro-menotti
+VEDANO OLONA,sigma_it,,unknown,sigma-di-vedano-olona-piazza-san-maurizio
+VAREDO,sigma_it,,unknown,sigma-di-varedo-dante-alighieri
+VALMADRERA,sigma_it,,unknown,sigma-di-valmadrera-promessi-sposi
+VALDISOTTO,sigma_it,,unknown,sigma-di-valdisotto-via-roma
+TURATE,sigma_it,,unknown,sigma-di-turate-marconi
+TRENZANO,sigma_it,,unknown,sigma-di-trenzano-vittorio-veneto-mattina
+TIRANO,sigma_it,,unknown,sigma-di-tirano-elvezia
+SEGRATE,sigma_it,,unknown,ok-sigma-di-segrate-redecesio
+SAN DONATO MILANESE,sigma_it,,unknown,sigma-di-san-donato-milanese-alfonsine
+RUDIANO,sigma_it,,unknown,sigma-di-rudiano-fenilazzo
+RONCO BRIANTINO,sigma_it,,unknown,sigma-di-ronco-briantino-iv-novembre
+ROBBIANO DI GIUSSANO,sigma_it,,unknown,sigma-di-robbiano-di-giussano-cesare-battisti
+PRATA CAMPORTACCIO,sigma_it,,unknown,sigma-di-prata-camportaccio-san-cassiano
+PIATEDA,sigma_it,,unknown,sigma-di-piateda-via-amonini
+PASSIRANO,sigma_it,,unknown,sigma-di-passirano-castello
+PADERNO DUGNANO,sigma_it,,unknown,ok-sigma-di-paderno-dugnano-la-marmora
+NOVATE MEZZOLA,sigma_it,,unknown,sigma-di-novate-mezzola-ligoncio
+MORBEGNO,sigma_it,,unknown,sigma-di-morbegno-forestale
+MELZO,sigma_it,,unknown,sigma-di-melzo-nazario-sauro
+MEDA,sigma_it,,unknown,sigma-di-meda-dante
+MARCHENO,sigma_it,,unknown,sigma-di-marcheno-indipendenza
+LOVERO,sigma_it,,unknown,sigma-di-lovero-roma
+LENNO,sigma_it,,unknown,sigma-di-lenno-statale
+GROSIO,sigma_it,,unknown,sigma-di-grosio-roma
+GIUSSANO,sigma_it,,unknown,sigma-di-giussano-cavera
+GERENZANO,sigma_it,,unknown,sigma-di-gerenzano-roma
+GARDONE VAL TROMPIA,sigma_it,,unknown,ok-sigma-di-gardone-val-trompia-matteotti
+GALLARATE,sigma_it,,unknown,sigma-di-gallarate-madonna-in-campagna
+ENDINE GAIANO,sigma_it,,unknown,sigma-di-endine-gaiano
+CISLAGO,sigma_it,,unknown,sigma-di-cislago-santa-caterina-2
+CHIAVENNA,sigma_it,,unknown,sigma-di-chiavenna-4-strade
+CESANO MADERNO,sigma_it,,unknown,sigma-di-cesano-maderno-binzago-berchet
+CASTELLO BRIANZA,sigma_it,,unknown,sigma-di-castello-brianza-dante
+Castelcovati,sigma_it,,unknown,sigma-di-castelcovati-marconi
+CARAVAGGIO,sigma_it,,unknown,sigma-di-caravaggio-papa-giovanni-xxiii
+CANTU',sigma_it,,unknown,ok-sigma-di-cantu-g-mazzini
+CANEGRATE,sigma_it,,unknown,sigma-di-canegrate-garibaldi
+BRUGHERIO,sigma_it,,unknown,sigma-di-brugherio-cazzaniga
+Bresso,sigma_it,,unknown,sigma-di-bresso-roma
+BREMBATE DI SOPRA,sigma_it,,unknown,sigma-di-brembate-di-sopra-bruno-locatelli
+BOTTICINO,sigma_it,,unknown,sigma-di-botticino-molini
+BORGOSATOLLO,sigma_it,,unknown,sigma-di-borgosatollo-molino-vecchio
+BOFFALORA SOPRA TICINO,sigma_it,,unknown,sigma-di-boffalora-sopra-ticino-xxv-aprile
+BESOZZO,sigma_it,,unknown,sigma-di-besozzo-bertolotti
+BERBENNO DI VALTELLINA,sigma_it,,unknown,sigma-di-berbenno-di-valtellina-nazionale-ovest
+BALLABIO,sigma_it,,unknown,sigma-di-ballabio-mazzini
+AZZANO MELLA,sigma_it,,unknown,sigma-di-azzano-mella-dante
+Arosio,sigma_it,,unknown,sigma-di-arosio-maddalena
+ARDENNO,sigma_it,,unknown,sigma-di-ardenno-via-palentec
+APRICA,sigma_it,,unknown,sigma-di-aprica-roma
+ALBAIRATE,sigma_it,,unknown,sigma-di-albairate-donatori-di-sangue
+ADRO,sigma_it,,unknown,sigma-di-adro-garibaldi
+VITTUONE,sigma_it,,unknown,ok-sigma-di-vittuone-vittorio-veneto
+VILLADOSIA DI CASALE LITTA,sigma_it,,unknown,ok-sigma-di-villadosia-di-casale-litta-piazza-gramsci
+VILLA DI TIRANO,sigma_it,,unknown,ok-sigma-di-villa-di-tirano-piazza-torelli
+VIGNATE,sigma_it,,unknown,ok-sigma-di-vignate-vittorio-veneto
+VARESE,sigma_it,,unknown,ok-sigma-di-varese-sacromonte
+VANZAGO,sigma_it,,unknown,ok-sigma-di-vanzago-ferrario
+USMATE VELATE,sigma_it,,unknown,ok-sigma-di-usmate-velate-roma
+TRESENDA DI TEGLIO,sigma_it,,unknown,ok-sigma-di-tresenda-di-teglio-via-nazionale
+SONDRIO,sigma_it,,unknown,ok-sigma-di-sondrio-bernina
+SETTALA,sigma_it,,unknown,ok-sigma-di-settala-liberta
+SENNA COMASCO,sigma_it,,unknown,ok-sigma-di-senna-comasco-roma
+SENAGO,sigma_it,,unknown,ok-sigma-di-senago-piazza-borromeo
+SANTO STEFANO TICINO,sigma_it,,unknown,ok-sigma-di-santo-stefano-ticino-trieste
+SALE MARASINO,sigma_it,,unknown,ok-sigma-di-sale-marasino-rossini
+RODERO,sigma_it,,unknown,ok-sigma-di-rodero-t-buzzi
+RESCALDINA,sigma_it,,unknown,ok-sigma-di-rescaldina-l-da-vinci
+POZZUOLO MARTESANA,sigma_it,,unknown,ok-sigma-di-pozzuolo-martesana-pieregrosso
+PONTE DI LEGNO,sigma_it,,unknown,ok-sigma-di-ponte-di-legno-cida
+PIANELLO DEL LARIO,sigma_it,,unknown,ok-sigma-di-pianello-del-lario-calozzo
+PASSIRANA DI RHO,sigma_it,,unknown,ok-sigma-di-passirana-di-rho-casati
+ORENO DI VIMERCATE,sigma_it,,unknown,ok-sigma-di-oreno-di-vimercate-isonzo
+OLGIATE MOLGORA,sigma_it,,unknown,ok-sigma-di-olgiate-molgora
+NOVATE MILANESE,sigma_it,,unknown,ok-sigma-di-novate-milanese-baranzate
+MONTICELLI BRUSATI,sigma_it,,unknown,ok-sigma-di-monticelli-brusati-caduti
+MEZZAGO,sigma_it,,unknown,ok-sigma-di-mezzago-concordia
+MERCALLO,sigma_it,,unknown,ok-sigma-di-mercallo-piazza-balconi
+MERATE,sigma_it,,unknown,ok-sigma-di-merate-cerri
+MARIANO COMENSE,sigma_it,,unknown,ok-sigma-di-mariano-comense-carducci
+MADESIMO,sigma_it,,unknown,ok-sigma-di-madesimo-carducci
+LODI,sigma_it,,unknown,ok-sigma-di-lodi-via-indipendenza
+LIMBIATE,sigma_it,,unknown,ok-sigma-di-limbiate-piave
+LA VALLETTA BRIANZA,sigma_it,,unknown,ok-sigma-di-la-valletta-brianza
+INZAGO,sigma_it,,unknown,ok-sigma-di-inzago-roma
+GRAFFIGNANA,sigma_it,,unknown,ok-sigma-di-graffignana-cavallotti
+GARBAGNATE MILANESE,sigma_it,,unknown,ok-sigma-di-garbagnate-milanese-isonzo
+GAGGIANO,sigma_it,,unknown,ok-sigma-di-gaggiano-matteotti
+DONGO,sigma_it,,unknown,ok-sigma-di-dongo-roma
+DOMASO,sigma_it,,unknown,ok-sigma-di-domaso-case-sparse
+CUSANO MILANINO,sigma_it,,unknown,ok-sigma-di-cusano-milanino-buffoli
+CORBETTA,sigma_it,,unknown,ok-sigma-di-corbetta-garibaldi
+CONCOREZZO,sigma_it,,unknown,ok-sigma-di-concorezzo-via-liberta
+CIVENNA,sigma_it,,unknown,ok-sigma-di-civenna-provinciale
+CIRIMIDO,sigma_it,,unknown,ok-sigma-di-cirimido-vicolo-san-crispino
+CAZZAGO SAN MARTINO,sigma_it,,unknown,ok-sigma-di-cazzago-san-martino-olivelli
+CASARILE,sigma_it,,unknown,ok-sigma-di-casarile-dalla-chiesa
+CAPRINO BERGAMASCO,sigma_it,,unknown,ok-sigma-di-caprino-bergamasco-vigneto
+CAPONAGO,sigma_it,,unknown,ok-sigma-di-caponago-leonardo-da-vinci
+CAMPODOLCINO,sigma_it,,unknown,ok-sigma-di-campodolcino-corti
+CABIATE,sigma_it,,unknown,ok-sigma-di-cabiate-grandi
+BUSTO ARSIZIO,sigma_it,,unknown,ok-sigma-di-busto-arsizio-diaz
+BUSSERO,sigma_it,,unknown,ok-sigma-di-bussero-xxv-aprile
+BRIOSCO,sigma_it,,unknown,ok-sigma-di-briosco-della-chiesa
+BORNO,sigma_it,,unknown,ok-sigma-di-borno-vittorio-veneto
+BINASCO,sigma_it,,unknown,ok-sigma-di-binasco-matteotti
+BINAGO,sigma_it,,unknown,ok-sigma-di-binago-corridoni
+BIASSONO,sigma_it,,unknown,ok-sigma-di-biassono-piazza-san-francesco
+BELLAGIO,sigma_it,,unknown,ok-sigma-di-bellagio-volta
+BASSANO BRESCIANO,sigma_it,,unknown,ok-sigma-di-bassano-bresciano-caduti-e-dispersi-in-russia
+BAREGGIO,sigma_it,,unknown,ok-sigma-di-bareggio-milano
+ARSAGO SEPRIO,sigma_it,,unknown,ok-sigma-di-arsago-seprio-xx-settembre
+AICURZIO,sigma_it,,unknown,ok-sigma-di-aicurzio-bersan
+MAZZANO,sigma_it,,unknown,73350
+Cocquio Trevisago,tedi,,unknown,TEDi Commercio S.r.l.
+Somma Lombardo (VA),tedi,,unknown,TEDi Commercio S.r.l.
+Magnago,tedi,,unknown,TEDi Commercio S.r.l.
+Busto Arsizio,tedi,,unknown,TEDi Commercio S.r.l.
+Voghera - PAVIA,tedi,,unknown,TEDi Commercio S.r.l.
+Mozzate,tedi,,unknown,TEDi Commercio S.r.l.
+Vertemate con Minoprio (CO),tedi,,unknown,TEDi Commercio S.r.l.
+Solaro (MI),tedi,,unknown,TEDi Commercio S.r.l.
+Garbagnate Milanese,tedi,,unknown,TEDi Commercio S.r.l.
+Lodi,tedi,,unknown,TEDi Commercio S.r.l.
+Caravaggio (BG),tedi,,unknown,TEDi Commercio S.r.l.
+Muggiò,tedi,,unknown,TEDi Commercio S.r.l.
+Antegnate,tedi,,unknown,TEDi Commercio S.r.l.
+Cremona,tedi,,unknown,TEDi Commercio S.r.l.
+Chiari,tedi,,unknown,TEDi Commercio S.r.l.
+Rovato - BRESCIA,tedi,,unknown,TEDi Commercio S.r.l.
+Castenedolo (BS),tedi,,unknown,TEDi Commercio S.r.l.
+Stezzano,tedi,,unknown,TEDi Commercio S.r.l.
+Seriate,tedi,,unknown,TEDi Commercio S.r.l.
+Capriolo - BRESCIA,tedi,,unknown,TEDi Commercio S.r.l.
+Casalmaggiore,tedi,,unknown,TEDi Commercio S.r.l.
+Borgo Virgilio,tedi,,unknown,TEDi Commercio S.r.l.
+Villanuova sul Clisi (BS),tedi,,unknown,TEDi Commercio S.r.l.
+Mazzano (BS),tedi,,unknown,TEDi Commercio S.r.l.
+Arese,timberland,,unknown,Timberland - Arese
+Busnago,timberland,,unknown,Timberland - Busnago
+RODENGO SAIANO,timberland,,unknown,Timberland OUTLET - Franciacorta
+Limbiate,timberland,,unknown,Timberland - Limbiate
+Livigno,timberland,,unknown,Timberland - Livigno
+Locate Triulzi,timberland,,unknown,Timberland OUTLET - Scalo Milano
+Lonato,timberland,,unknown,Timberland - Lonato
+Bagnolo San Vito (MN),timberland,,unknown,Timberland OUTLET - Mantova
+Marghera,timberland,,unknown,Timberland - Marghera
+Milano,timberland,,unknown,Timberland - Milano Portello
+Orio,timberland,,unknown,Timberland - Orio Al Serio
+Peschiera Borromeo,timberland,,unknown,Timberland - Peschiera Borromeo
+Roncadelle,timberland,,unknown,Timberland - Roncadelle
+Rozzano,timberland,,unknown,Timberland - Rozzano
+Varese,timberland,,unknown,Timberland - Varese

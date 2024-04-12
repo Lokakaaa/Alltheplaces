@@ -1,0 +1,318 @@
+State,Place Name,City,Establishments
+UNKNOWN,alstom,unknown,1
+MIRANDA,audi,Valencia,2
+ESTADOBOLÍVAR,deloitte,Puerto Ordaz,1
+ESTADOANZOÁTEGUI,deloitte,Puerto La Cruz,1
+ESTADOCARABOBO,deloitte,Valencia,1
+UNKNOWN,deloitte,Caracas,1
+UNKNOWN,ernst_young,Caracas,1
+UNKNOWN,ernst_young,Puerto La Cruz,1
+UNKNOWN,ernst_young,Valencia,1
+UNKNOWN,esprit,Caracas,5
+UNKNOWN,esprit,Barquisimeto,1
+CARABOBO,fedex,Valencia,1
+CAPITALDISTRICT,fedex,Caracas,1
+UNKNOWN,ford,CHACAO,1
+UNKNOWN,ford,BARINAS,1
+UNKNOWN,ford,CALABOZO,1
+UNKNOWN,ford,CARACAS,5
+UNKNOWN,ford,TIGRE,1
+UNKNOWN,ford,PORLAMAR,1
+UNKNOWN,ford,SAN FERNANDO,1
+UNKNOWN,ford,CHARALLAVE,1
+UNKNOWN,ford,LOS TEQUES,1
+UNKNOWN,ford,MARACAY,2
+UNKNOWN,ford,VALENCIA,4
+UNKNOWN,ford,PUERTO CABELLO,1
+UNKNOWN,ford,BARQUISIMETO,3
+UNKNOWN,ford,CAGUA,1
+UNKNOWN,ford,SAN CRISTOBAL,1
+UNKNOWN,ford,MERIDA,1
+UNKNOWN,ford,MARACAIBO,2
+UNKNOWN,ford,PUNTO FIJO,1
+UNKNOWN,ford,GUATIRE,1
+UNKNOWN,goldsgym,Margarita,1
+UNKNOWN,goldsgym,Maracaibo Norte,1
+UNKNOWN,goldsgym,Sabana Grande,1
+UNKNOWN,goldsgym,Montalban,1
+UNKNOWN,goldsgym,Caracas,1
+MIRANDA,goodwill,Caracas,1
+UNKNOWN,hardrock,Caracas,1
+NE,hugo_boss,"Porlamar, Nueva Esparta",1
+DF,hugo_boss,Caracas,2
+DF,hugo_boss,"Chacao, Caracas",1
+UNKNOWN,lhw,Caracas,1
+UNKNOWN,man_truck_and_bus,"Caraballeda, Estado Vargas",1
+UNKNOWN,marriott,Caracas,1
+UNKNOWN,marriott,Catia La Mar,1
+UNKNOWN,marriott,Maracay,1
+UNKNOWN,mcdonalds_latin_america,Puerto Ordaz,3
+UNKNOWN,mcdonalds_latin_america,Puto Ordaz,1
+UNKNOWN,mcdonalds_latin_america,Pto Ordaz,1
+UNKNOWN,mcdonalds_latin_america,Ciudad Bolivar,1
+UNKNOWN,mcdonalds_latin_america,El Tigre,1
+UNKNOWN,mcdonalds_latin_america,Maturin,3
+UNKNOWN,mcdonalds_latin_america,Anaco,1
+UNKNOWN,mcdonalds_latin_america,Cumaná,2
+UNKNOWN,mcdonalds_latin_america,Barcelona,1
+UNKNOWN,mcdonalds_latin_america,Puerto La Cruz,4
+UNKNOWN,mcdonalds_latin_america,Margarita,3
+UNKNOWN,mcdonalds_latin_america,Caracas,44
+UNKNOWN,mcdonalds_latin_america,San Juan de los Morros,1
+UNKNOWN,mcdonalds_latin_america,La Victoria,1
+UNKNOWN,mcdonalds_latin_america,Cagua,1
+UNKNOWN,mcdonalds_latin_america,Maracay,5
+UNKNOWN,mcdonalds_latin_america,Valencia,9
+UNKNOWN,mcdonalds_latin_america,Puerto Cabello,1
+UNKNOWN,mcdonalds_latin_america,Barinas,2
+UNKNOWN,mcdonalds_latin_america,Araure,1
+UNKNOWN,mcdonalds_latin_america,Yaracuy,1
+UNKNOWN,mcdonalds_latin_america,Cabudare,1
+UNKNOWN,mcdonalds_latin_america,Barquisimeto,6
+UNKNOWN,mcdonalds_latin_america,Merida,3
+UNKNOWN,mcdonalds_latin_america,Valera,1
+UNKNOWN,mcdonalds_latin_america,San Critobal,3
+UNKNOWN,mcdonalds_latin_america,Coro,1
+UNKNOWN,mcdonalds_latin_america,Ciudad Ojeda,2
+UNKNOWN,mcdonalds_latin_america,Cabimas,2
+UNKNOWN,mcdonalds_latin_america,Punto Fijo,3
+UNKNOWN,mcdonalds_latin_america,Maracaibo,9
+BOLIVAR,mercedes_benz,Puerto Ordaz,1
+MIRANDA,mercedes_benz,Caracas,1
+MIRANDA,mercedes_benz,Guarenas,1
+ARAGUA,mercedes_benz,Cagua,1
+UNKNOWN,moneygram,CARACAS,20
+UNKNOWN,moneygram,LA GUAIRA,3
+UNKNOWN,moneygram,MARACAIBO,9
+UNKNOWN,moneygram,PUERTO LA CRUZ,3
+UNKNOWN,moneygram,BARINAS,1
+UNKNOWN,moneygram,CATIA LA MAR,1
+UNKNOWN,moneygram,VALENCIA,4
+UNKNOWN,moneygram,PORLAMAR,3
+UNKNOWN,moneygram,MAIQUETIA,3
+UNKNOWN,moneygram,ARAGUA DE MATURIN,2
+UNKNOWN,moneygram,BARQUISIMETO,3
+UNKNOWN,moneygram,PUERTO ORDAZ,2
+UNKNOWN,moneygram,MIRANDA,2
+UNKNOWN,moneygram,MERIDA,1
+UNKNOWN,moneygram,MARACAY,1
+UNKNOWN,moneygram,ANZOATEGUI,1
+UNKNOWN,moneygram,SAN CRISTOBAL,2
+UNKNOWN,moneygram,FALCON,1
+UNKNOWN,moneygram,MATURIN,1
+UNKNOWN,moneygram,PAMPATAR,1
+UNKNOWN,moneygram,EL YAQUE,1
+UNKNOWN,moneygram,CABIMAS,1
+NORTHERNSOUTHAMERICA,the_north_face,CARACAS,2
+UNKNOWN,timberland,Barquisimeto,1
+UNKNOWN,timberland,Caracas,1
+UNKNOWN,timberland,Maiquetia,1
+UNKNOWN,timberland,Maracaibo,1
+UNKNOWN,timberland,Margarita,1
+UNKNOWN,timberland,Puerto Ordaz,1
+UNKNOWN,timberland,San Cristobal,1
+UNKNOWN,timberland,Tolon,1
+BOLIVAR,visa,UPATA,1
+BOLIVAR,visa,SAN FELIX,2
+BOLIVAR,visa,PUERTO ORDAZ,2
+UNKNOWN,visa,PUERTO ORDAZ,1
+MONAGAS,visa,MATURIN,2
+UNKNOWN,visa,MATURIN,1
+SUCRE,visa,CARUPANO,2
+UNKNOWN,visa,SUCRE,2
+NUEVAESPARTA,visa,PAMPATAR,1
+UNKNOWN,visa,CIUDAD BOLIVAR,1
+UNKNOWN,visa,ISLA MARGARITA - PORLAMAR,2
+NUEVAESPARTA,visa,PORLAMAR,2
+UNKNOWN,visa,NUEVA ESPARTA,3
+UNKNOWN,visa,BOLIVAR,1
+SUCRE,visa,CUMANA,1
+UNKNOWN,visa,CUMANA,2
+ANZOATEGUI,visa,EL TIGRE,1
+ANZOATEGUI,visa,ANACO,1
+ANZOATEGUI,visa,PUERTO LA CRUZ,2
+UNKNOWN,visa,PUERTO LA CRUZ,3
+ANZOATEGUI,visa,BARCELONA,2
+UNKNOWN,visa,ANZOATEGUI,2
+UNKNOWN,visa,ARAGUA,3
+UNKNOWN,visa,GUARICO,4
+GUARICO,visa,VALLE DE LA PASCUA,2
+UNKNOWN,visa,HIGUEROTE,1
+UNKNOWN,visa,MIRANDA,5
+BARINAS,visa,BARINAS,2
+UNKNOWN,visa,CARACAS,47
+MIRANDA,visa,SANTA TERESA DEL TUY,2
+UNKNOWN,visa,MUNICIPIO VARGAS,3
+UNKNOWN,visa,CARABALLEDA,1
+UNKNOWN,visa,MACARACUAY,1
+MIRANDA,visa,OCUMARE DEL TUY,2
+MIRANDA,visa,PETARE,1
+MIRANDA,visa,CARACAS,16
+MIRANDA,visa,CHARALLAVE,1
+UNKNOWN,visa,RIO CHICO,1
+DISTRITOCAPITAL,visa,CARACAS,18
+UNKNOWN,visa,TACHIRA,5
+VARGAS,visa,LA GUAIRA,1
+VARGAS,visa,LA GUAIRA II,1
+MIRANDA,visa,SAN ANTONIO DE LOS ALTOS,1
+UNKNOWN,visa,DATO VARGAS,1
+MIRANDA,visa,LOS TEQUES,2
+VARGAS,visa,CATIA LA MAR,2
+GUARICO,visa,SAN FERNANDO DE APURE,2
+UNKNOWN,visa,COLONIA TOVAR,1
+ARAGUA,visa,LA VICTORIA,1
+UNKNOWN,visa,LA VICTORIA,1
+BOLIVAR,visa,CIUDAD BOLIVAR,1
+ARAGUA,visa,CAGUA,1
+UNKNOWN,visa,VILLA DE CURA,1
+ARAGUA,visa,TURMERO,1
+MERIDA,visa,TURMERO,1
+UNKNOWN,visa,GUARENAS,1
+UNKNOWN,visa,MARACAY,3
+ARAGUA,visa,MARACAY,4
+CARABOBO,visa,GUACARA,1
+CARABOBO,visa,VALENCIA,5
+UNKNOWN,visa,LARA,1
+UNKNOWN,visa,VALENCIA,2
+ZULIA,visa,VALENCIA,1
+ZULIA,visa,MARACAIBO,8
+UNKNOWN,visa,CARABOBO,2
+CARABOBO,visa,PUERTO CABELLO,1
+UNKNOWN,visa,MARACAIBO,4
+CARABOBO,visa,TOCUYITO,1
+COJEDES,visa,TINAQUILLO,1
+UNKNOWN,visa,COJEDES,1
+UNKNOWN,visa,MONAGAS,1
+UNKNOWN,visa,YARACUY,2
+YARACUY,visa,SAN FELIPE,1
+PORTUGUESA,visa,ACARIGUA,2
+UNKNOWN,visa,PORTUGUESA,4
+ANZOATEGUI,visa,EL TIGRITO,2
+UNKNOWN,visa,BARQUISIMETO,2
+UNKNOWN,visa,MERIDA,2
+LARA,visa,BARQUISIMETO,6
+PORTUGUESA,visa,GUANARE,1
+FALCON,visa,CORO,1
+MIRANDA,visa,GUARENAS,1
+UNKNOWN,visa,FALCON,2
+LAR,visa,CARORA,1
+UNKNOWN,visa,BARINAS,2
+FALCON,visa,PUNTO FIJO,1
+UNKNOWN,visa,PUNTO FIJO,1
+UNKNOWN,visa,TRUJILLO,2
+TRUJILLO,visa,VALERA,1
+UNKNOWN,visa,VALERA,1
+MERIDA,visa,MERIDA,1
+MERIDA,visa,EL VIGIA,1
+UNKNOWN,visa,ZULIA,1
+UNKNOWN,visa,SAN ANTONIO DE LOS ALTOS,1
+TACHIRA,visa,SAN CRISTOBAL,2
+UNKNOWN,visa,SAN CRISTOBAL,2
+SUC,visa,IRAPA,1
+BOL,visa,UPATA,1
+BOL,visa,SAN FELIX,1
+BOL,visa,PUERTO ORDAZ,3
+BOL,visa,UNARE,1
+MON,visa,CARIPITO,1
+SUC,visa,CARUPANO,1
+MON,visa,MATURIN,5
+NES,visa,PAMPATAR,1
+MON,visa,PUNTA DE MATA,1
+NES,visa,PORLAMAR,2
+NES,visa,JUAN GRIEGO,1
+BOL,visa,CIUDAD BOLIVAR,2
+SUC,visa,CUMANA,2
+ANZ,visa,CANTAURA,1
+ANZ,visa,EL TIGRE,1
+ANZ,visa,ANACO,2
+ANZ,visa,PUERTO LA CRUZ,3
+ANZ,visa,BARCELONA,2
+ANZ,visa,LECHERIAS,1
+GUA,visa,TUCUPIDO,1
+MIR,visa,HIGUEROTE,2
+GUA,visa,VALLE DE LA PASCUA,1
+MIR,visa,GUATIRE,2
+MIR,visa,GUARENAS,1
+MIR,visa,CARACAS,31
+VAR,visa,CARABALLEDA,1
+CAR,visa,CARACAS,20
+MIR,visa,CHARALLAVE,1
+DF,visa,CARACAS,1
+VAR,visa,CATIA LA MAR,2
+MIR,visa,CUA,1
+MIR,visa,SAN ANTONIO DE LOS ALTOS,2
+MIR,visa,CARRIZAL,2
+MIR,visa,LOS TEQUES,4
+ARA,visa,LAS TEJERIAS,1
+ARA,visa,COLONIA TOVAR,1
+ARA,visa,LA VICTORIA,1
+GUA,visa,SAN JUAN DE LOS MORROS,1
+ARA,visa,CAGUA,1
+ARA,visa,TURMERO,1
+ARA,visa,MARACAY,5
+GUA,visa,CALABOZO,1
+APU,visa,SAN FERNANDO DE APURE,1
+CAR,visa,GUACARA,1
+CAR,visa,VALENCIA,8
+CAR,visa,PUERTO CABELLO,1
+CAR,visa,NAGUANAGUA,1
+CAR,visa,BEJUMA,1
+COJ,visa,SAN CARLOS,1
+YAR,visa,SAN FELIPE,1
+POR,visa,TUREN,1
+LAR,visa,CABUDARE,1
+LAR,visa,BARQUISIMETO,5
+POR,visa,ACARIGUA,1
+POR,visa,ARAURE,2
+LAR,visa,QUIBOR,1
+FAL,visa,PUNTO FIJO,3
+POR,visa,GUANARE,1
+BAR,visa,BARINAS,3
+TRU,visa,VALERA,1
+ZUL,visa,CIUDAD OJEDA,2
+ZUL,visa,CABIMAS,1
+MER,visa,MERIDA,4
+ZUL,visa,MARACAIBO,9
+MER,visa,TOVAR,1
+ZUL,visa,SANTA BARBARA,1
+ZUL,visa,VILLA DEL ROSARIO,1
+TAC,visa,COLONCITO,1
+TAC,visa,SAN CRISTOBAL,6
+TAC,visa,TARIBA,2
+MER,visa,EL VIGIA,1
+TAC,visa,SAN JUAN DE COLON,1
+CARABOBO,western_union,Puerto Cabello,1
+ARAGUA,western_union,Maracay,4
+CARABOBO,western_union,Valencia,4
+ARAGUA,western_union,Cagua,1
+ARAGUA,western_union,La Victoria,1
+VARGAS,western_union,Catia La Mar,1
+MIRANDA,western_union,Los Teques,1
+DISTRITOCAPITAL,western_union,Caracas,9
+MIRANDA,western_union,Charallave,1
+MIRANDA,western_union,Guarenas,2
+MIRANDA,western_union,Guatire,1
+COJEDES,western_union,San Carlos,1
+LARA,western_union,Cabudare,1
+LARA,western_union,Barquisimeto,4
+PORTUGUESA,western_union,Acarigua,1
+MIRANDA,western_union,Caracas,7
+GUARICO,western_union,San Juan De Los Morros,1
+YARACUY,western_union,San Felipe,1
+ZULIA,western_union,Maracaibo,3
+TRUJILLO,western_union,Valera,1
+ZULIA,western_union,Ciudad Ojeda,1
+MERIDA,western_union,Merida,1
+MERIDA,western_union,El Vigia,1
+TACHIRA,western_union,San Cristobal,3
+TACHIRA,western_union,San Antonio Del Tachira,1
+AMAZONAS,western_union,Puerto Ayacucho,1
+BOLIVAR,western_union,Puerto Ordaz,2
+BOLIVAR,western_union,San Felix,1
+BOLIVAR,western_union,Ciudad Bolivar,1
+MATURIN,western_union,Monagas,1
+MONAGAS,western_union,Maturin,1
+ANZOATEGUI,western_union,El Tigre,1
+ANZOATEGUI,western_union,Anaco,1
+APURE,western_union,San Fernando De Apure,1
+SUCRE,western_union,Carupano,1

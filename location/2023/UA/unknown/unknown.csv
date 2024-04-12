@@ -1,0 +1,847 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+7143,accor,ibis Kyiv City Center,"Taras Shevchenko boulevard 25, 01032 KIEV",,,,UA,,https://all.accor.com/hotel/7143/index.en.shtml,,Ibis,Q920166
+9709,accor,ibis Styles Lviv Center,"3 Shukhevycha street, 79005 LVIV",,,,UA,,https://all.accor.com/hotel/9709/index.en.shtml,,Ibis Styles,Q3147425
+9944,accor,Hotel de Paris Odessa - MGallery,"Ekaterininskaya Square 4/1, 65026 ODESSA",,,,UA,,https://all.accor.com/hotel/9944/index.en.shtml,,MGallery,Q25419207
+A033,accor,ibis Kyiv Beresteiska,"55A Beresteisky Avenue, 03113 KIEV",,,,UA,,https://all.accor.com/hotel/A033/index.en.shtml,,Ibis,Q920166
+A034,accor,ibis Kyiv Railway Station,"Sicheslavska 6, 03049 KYIV",,,,UA,,https://all.accor.com/hotel/A034/index.en.shtml,,Ibis,Q920166
+A035,accor,Adagio Kyiv Beresteiska,"55A Beresteisky Avenue, 03113 Kyiv",,,,UA,,https://all.accor.com/hotel/A035/index.en.shtml,,Adagio,Q2823880
+A596,accor,Fairmont Grand Hotel Kyiv,"1 Naberezhno, Khreshchatytska Str, 04070 KYIV",,,,UA,,https://all.accor.com/hotel/A596/index.en.shtml,,Fairmont,Q1393345
+B0I0,accor,Mercure Kyiv Congress,"Vadima Hetmana Street, 6, 3057 KYIV",,,,UA,,https://all.accor.com/hotel/B0I0/index.en.shtml,,Mercure,Q1709809
+B7H4,accor,ibis Lviv Center,"23A Franka Str., 79005 LVIV",,,,UA,,https://all.accor.com/hotel/B7H4/index.en.shtml,,Ibis,Q920166
+25951,alstom,Legal entity in Kharkiv,", 61037 Kharkiv, Ukraine ",,,,UA,+380 50 450 4045,,,Alstom,Q309084
+25956,alstom,Representative office in Kyiv,"Bolsunovska 13-15 str., 8th floor, 01014 Kyiv, Ukraine",,,,UA,+380 44 490 4549,,,Alstom,Q309084
+bilytchy,auchan_ua,"Auchan Беличи, Киев","04128 Киев, ул. Берковецкая, 6",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:30-22:00,Auchan,Q758603
+zaporijia,auchan_ua,"Auchan Запорожье, Запорожье","69002 Запорожье, ул. Запорожская, 1б",Запорожье,,,UA,,https://auchan.ua/,Mo-Su 08:00-21:00,Auchan,Q758603
+kiltseva,auchan_ua,"Auchan Кольцевая, Киев","03170 Киевская обл., Киево-Святошинский р-н, село Петропавловская Борщаговка, ул. Большая Кольцевая, 4",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:30-22:00,Auchan,Q758603
+kryvy_rig,auchan_ua,"Auchan Кривой Рог, Кривой Рог","50008 Днепропетровская обл.,  Кривой Рог, площадь 30-летия Победы 1а, ТРЦ Солнечная Галлерея",Кривой Рог,,,UA,,https://auchan.ua/,Mo-Su 09:00-21:00,Auchan,Q758603
+libidska,auchan_ua,"Auchan Лыбидская, Киев","03680 Киев, ул.Горького (Антоновича) 176, ТРЦ Ocean Plaza",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+sokolniki,auchan_ua,"Auchan Сокольники, Львов","81130 Львовская обл., Пустомитовский р-н, село Сокольники, ул.Стрийская, 30, ТРЦ Кинг Крос Леополис",Львов,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+odessa_fontanka,auchan_ua,"Auchan Фонтанка, Одесса","67571, Одесская обл., Лиманский район, Фонтанский Сельский Совет, Комплекс зданий и сооружений №1",Одесса,,,UA,,https://auchan.ua/,Mo-Su 08:30-22:00,Auchan,Q758603
+pivdennyi,auchan_ua,"Auchan Пивденный, Львов","79053 Львов, ул. В. Великого, 58",Львов,,,UA,,https://auchan.ua/,Mo-Su 08:00-23:00,Auchan,Q758603
+petrivka,auchan_ua,"Auchan Почайна, Киев","04073 Киев, пр-т Степана Бандеры,15а",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+chernigivska,auchan_ua,"Auchan Черниговская, Киев","03680 Киев, ул. Гната Хоткевича, 1-Б ТРК ПРОСПЕКТ",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+magelan,auchan_ua,"Auchan Глушкова, Киев","03187, г. Киев, пр-т Глушкова, 13 Б",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+levoberezhnyy,auchan_ua,"Auchan Левобережный, Днипро","52005, г. Днепр, ул. Нижнеднепровская, 17",Днепр,,,UA,,https://auchan.ua/,Mo-Su 08:00-21:00,Auchan,Q758603
+lygova,auchan_ua,"Auchan Лугова, Киев","04074, г. Киев, Луговая, 12",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+kievskaya,auchan_ua,"Auchan Киевская, Житомир","10001, м. Житомир, Житомирска обл., ул.  Киевская, 77",Житомир,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+sosninykh,auchan_ua,"Auchan Сосниных, Киев","03134, г. Киев, улица Ивана Дзюбы, 17",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+geroiv_pratci,auchan_ua,"Auchan Героев Труда, Харьков","61168, г. Харьков, ул. Героев труда, 7",Харьков,,,UA,,https://auchan.ua/,,Auchan,Q758603
+hotinskaya,auchan_ua,"Auchan Хотинская,Черновцы","58020 м. Черновцы ул. Хотинская, 43",Черновцы,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+tarasivska,auchan_ua,"Auchan Тарасовская, Харьков","61068 Харьков, ул. Тарасовская, 3",Харьков,,,UA,,https://auchan.ua/,,Auchan,Q758603
+rive_gauche,auchan_ua,"Auchan Рив Гош, Киев","02081, Киев, улица Здолбуновская, 17, ",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:30-22:30,Auchan,Q758603
+dnepr_zoryanyy,auchan_ua,"Auchan Звездный, Днепр ","г. Днeпр, Бульвар Звездный 1а, 49000",Днепр,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+chornovola,auchan_ua,"Auchan Чорновола, Львов","79019, проспект В.Чорновола, 16и, Львов, Львовская область",Львов,,,UA,,https://auchan.ua/,Mo-Su 07:30-23:00,Auchan,Q758603
+041 - Comfort town,auchan_ua,"Pick-UP Auchan Комфорт Таун @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)","просп. Соборности 17, помещение 101-2",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+045 - Lypska,auchan_ua,"Pick-UP Auchan (ул. Липская) (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Липская, 19/7, помещение 29",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-21:30,Auchan,Q758603
+048 - Riverstone,auchan_ua,"Pick-UP Auchan (Riverstone) (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Трускавецкая, д. 8",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+049 - Park Avenue,auchan_ua,"Pick-UP Auchan (Park Avenue) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)","проспект Голосеевский, д. 60, помещение 1006",Киев,,,UA,,https://auchan.ua/,,Auchan,Q758603
+050 - Rybalskyi,auchan_ua,"Pick-UP Auchan (Rybalskyi) (Цена доставки - 30 грн., от 300 грн бесплатная)","Набережно-Рибальськая дорога, д. 9, помещение 8",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-21:30,Auchan,Q758603
+051 - Ministerskyi,auchan_ua,"Pick-UP Auchan (Ministerskyi) (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Юрия Кондратюка, д. 5, помещение 855, 1-й этаж",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+054 - Варшавский,auchan_ua,"Pick-UP Auchan (Варшавский) (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Александра Олеся, д. 6-Б, помещение 136 ",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+055 - Файна Таун,auchan_ua,"Pick-UP Auchan (Файна Таун) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Салютная, 2",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"058 - ""New England""",auchan_ua,"Pick-UP Auchan (New England) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Михайла Максимовича, 26г",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+052 - Vasilkivska,auchan_ua,"Pick-UP Auchan (Vasilkivska) (Цена доставки - 30 грн., от 300 грн бесплатная)","Большая Васильковская, 111/113",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"057 - ""Syretskie sadi""",auchan_ua,"Pick-UP Auchan (Syretskie sadi) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Ивана Выговского, 10м",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"063 - ""Sikorskogo""",auchan_ua,"Pick-UP Auchan (Sikorskogo) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Сикорского Игоря авиаконструктора, 4б, пом. 269",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"062 - ""Irpin""",auchan_ua,"Pick-UP Auchan (Irpin) (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Соборная, д. 118/19, пом. 113",Ирпень,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+060 - Rilskogo,auchan_ua,"Pick-UP Auchan Рыльского @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)","02000 Киев, б. Рыльского Тадэя, б. 3",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"064 - ""Bucha - Kojeduba""",auchan_ua,"Pick-UP Auchan (Bucha - Kojeduba) (Цена доставки - 30 грн., от 300 грн бесплатная)","Буча, Кожедуба ул. 3/3В",Буча,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"065 - ""Olympiyska""",auchan_ua,"Pick-UP Auchan (Olympiyska) (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Большая Васильковская (Красноармейская), 53-55",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"059 - Miy Auchan ""Darnitsa"" ",auchan_ua,"Мой Auchan ""Darnitsa"" (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Андрея Малышко, 3-а",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"034 - Miy Auchan ""Pravdi""",auchan_ua,"Mой Auchan ""Pravdi"" (Цена доставки - 30 грн., от 300 грн бесплатная)","просп. Правды, 104/106",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+"035 - Miy Auchan ""Kirilivska""",auchan_ua,"Мой Auchan ""Kirilivska"" (Цена доставки - 30 грн., от 300 грн бесплатная)","ул. Кириловская (Фрунзе), 160",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+077 - Parkoviy,auchan_ua,"Pick-UP Point Auchan ""Parkoviy"" (Цена доставки - 30 грн., от 300 грн бесплатная)","Киев, бул. Кольцевая 14Д",Киев,,,UA,,https://auchan.ua/,Mo-Su 08:00-22:00,Auchan,Q758603
+8593,church_of_england_gb,Anglican congregation in Odessa,"THE MISSION TO SEAFARERS:, Odessa",,,,UA,+380 482 372 269,https://www.achurchnearyou.com/church/8593/,,,
+239214,crocs_eu,Crocs Retroville,,Kiev,,,UA,,,,Crocs,Q926699
+0001034272,ecco,ECCO City Tsentr 2 Odessa,,Odessa,,,UA,,,Mo-Sa 10:00-22:00; Su 00:00-00:00,Ecco,Q1280255
+0001031910,ecco,ECCO Promenada Park Kiev,,Kiev,,,UA,+380 44 596 1944,,Mo-Sa 10:00-22:00; Su 00:00-00:00,Ecco,Q1280255
+0001031904,ecco,ECCO Piramida Kiev,,Kiev,,,UA,+380 44 495 7031,,Mo-Sa 10:00-22:00; Su 00:00-00:00,Ecco,Q1280255
+0001026477,ecco,ECCO Dream Town,,Kiev,,,UA,,,Mo-Sa 10:00-22:00; Su 00:00-00:00,Ecco,Q1280255
+nextbike_uv:9569687,gbfs,Vashchuka str./ Keletska str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569696,gbfs,Western Bus Station,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569702,gbfs,Vinnytsa National Technical University,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569715,gbfs,Bratslavska str./ Zamostyanska str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569724,gbfs,European square,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569739,gbfs,Keletska str./ Pyrohova str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569746,gbfs,Pyrohova str./ Zupynka Elektromerezha,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569757,gbfs,Park Druzhby Narodiv/ Andriia Pervozvannoho str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569775,gbfs,Keletska str./ Kosmonavtiv ave.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569785,gbfs,Keletska str./600 richya str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569794,gbfs,Central Bus station,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569803,gbfs,Central Railway station,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569814,gbfs,Striletska str./ Kyivska str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569889,gbfs,Kotsiubynskoho ave. (PetroCentr shopping mall),,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:9569897,gbfs,Kotsiubynskoho ave./ Peremohy square,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34467848,gbfs,Mahistratska str. / Сentral City Park,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34467894,gbfs,Zamostianska str. / Zamostia transparent office,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34467922,gbfs,Soborna str. / Shevchenko Square,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34467965,gbfs,Children and Youth Palace,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34542764,gbfs,Soborna str. / Heavenly Hundred Square,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34549482,gbfs,Kosmonavtiv Avenue / Mohylka Square,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34552364,gbfs,Vashchuka str./Poryka str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34554654,gbfs,600-Richchia str./Poryka str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34556614,gbfs,Zodchykh str. / Park of the Yushchenko Hospital,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_uv:34559416,gbfs,Yunosti Avenue / Keletska str.,,,,,UA,,https://www.nextbike.ua/uk/Vinnytsia/,,nextbike Vinnitsa (Ukraine),
+nextbike_nu:355487,gbfs,Ivan Franko University,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355491,gbfs,"Н. Mazepy Str. 1B, Spartak",,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355494,gbfs,Chornovola / Lypyns'koho ,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355495,gbfs,"Chornovola, 67",,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355500,gbfs,Chervonoi Kalyny ave. 109 (Santa Barbara shopping mall),,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355501,gbfs,"Chervonoi Kalyny Ave, 49 (Shuvar trade zone)",,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355502,gbfs,Promyslova str. 50/52,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355503,gbfs,Stryyska str. 35 (State tax office),,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355504,gbfs,Shchyrecka str. 36 (Pivdennyy shopping center),,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355732,gbfs,Chervonoi Kalyny ave. 81 (Dovzhenko Centre),,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355735,gbfs,Forum Lviv shoppingmall,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355737,gbfs,Sadova str. 2a (SoftServe office),,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355738,gbfs,TechnoPark,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355739,gbfs,Lviv bus station,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355740,gbfs,Stryyska - Naukova str. intersection,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355742,gbfs,V.Velykoho str. 113,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:355743,gbfs,Lyubinska str.89,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:503046,gbfs,Uhorska str. 14 (Bisiness center Dominant Plaza),,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:2379590,gbfs,King Cross Leopolis,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36671587,gbfs,IF_01,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36671666,gbfs,IF_02,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36671747,gbfs,IF_03,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36671799,gbfs,IF_04,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36671844,gbfs,IF_05,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36671888,gbfs,IF_07,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36672121,gbfs,IF_06,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36672324,gbfs,IF_08,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36672437,gbfs,IF_09,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36672490,gbfs,IF_10,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36672555,gbfs,IF_11,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36672608,gbfs,IF_12,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36672968,gbfs,IF_13,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36673105,gbfs,IF_14,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36673316,gbfs,IF_15,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36673435,gbfs,IF_16,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36673626,gbfs,IF_17,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36673653,gbfs,IF_18,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36673807,gbfs,IF_20,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:36674103,gbfs,IF_19,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:37849332,gbfs,IF_21,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:37849452,gbfs,IF_22,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:43184966,gbfs,IF_23,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:44879182,gbfs,IF_24,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:44879336,gbfs,IF_25,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+nextbike_nu:48857236,gbfs,IF_26,,,,,UA,,https://www.nextbike.ua/uk/,,nextbike Kiev,
+685,ikea,Respublika,,,,,UA,,https://www.ikea.com/ua/uk/stores/,,IKEA,Q54078
+3601,lhw,Opera Hotel,"53, B. Khmelnitskoho, Kiev 01054, Ukraine",Kiev,,,UA,,https://www.lhw.com/hotel/Opera-Hotel-Kiev-Ukraine,,The Leading Hotels of the World,Q834396
+72921162,moneygram,PRIVATBANK - PERVOMAYSKIY - PERVOMAYSKOE,,PERVOMAYSKIY,,,UA,+380 56 716 1131,,Mo-Fr 08:00-17:00; Sa-Su 00:00-24:00,MoneyGram,Q1944412
+68993764,moneygram,PRIVATBANK - ORDZHONIKIDZE - OTD N4,,ORDZHONIKIDZE,,,UA,3700,,Mo-Fr 08:30-17:30; Sa 08:30-14:00; Su 00:00-24:00,MoneyGram,Q1944412
+67502619,moneygram,OSCHADBANK - TSENTRALNYJ APPARAT - 10027,,KYIV,,,UA,+380 44 247 8490,,Mo-Th 09:30-16:30; Fr 09:30-15:30; Sa-Su 00:00-24:00,MoneyGram,Q1944412
+67,novus_ua,Novus,,Вишгород,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+30,novus_ua,Novus,,Біла Церква,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+56,novus_ua,Novus,,Буча,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+96,novus_ua,Novus,,Буча,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+26,novus_ua,Novus,,Бровари,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+25,novus_ua,Novus,,Бориспіль,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+1,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+2,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+3,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+5,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+6,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+7,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+8,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+9,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+10,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+11,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+12,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+13,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+14,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+15,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+16,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+17,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+18,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+19,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+21,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+22,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+23,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+24,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+39,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+41,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+42,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+45,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+47,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+50,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+51,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+52,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+53,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+54,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+57,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+58,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+59,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+60,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+61,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+62,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+63,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+64,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+65,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+66,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+69,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+70,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+71,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+72,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+73,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+75,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+76,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+77,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+78,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+79,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+80,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+82,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+83,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+85,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+86,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+87,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+88,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+92,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+93,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+95,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+97,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+98,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+99,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+100,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+101,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+102,novus_ua,Novus,,Київ,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+84,novus_ua,Novus,,с. Чайки,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+91,novus_ua,Novus,,с. Софіївська Борщагівка,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+89,novus_ua,Novus,,с. Петропавлівська Борщагівка,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+90,novus_ua,Novus,,с. Крюківщина,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+34,novus_ua,Novus,,Тернопіль,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+32,novus_ua,Novus,,Рівне,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+46,novus_ua,Novus,,Новосілки,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+48,novus_ua,Novus,,Новi Петрiвцi,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+37,novus_ua,Novus,,Миколаїв,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+38,novus_ua,Novus,,Миколаїв,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+40,novus_ua,Novus,,Ірпінь,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+43,novus_ua,Novus,,Ірпінь,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+94,novus_ua,Novus,,Ірпінь,,,UA,,,Mo-Su 08:00-22:00,Novus,Q116748340
+28,novus_ua,Novus,,Вишневе,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+29,novus_ua,Novus,,Вишневе,,,UA,,,Mo-Su 08:00-23:00,Novus,Q116748340
+10280,timberland,Timberland - Kiev,,Kiev,,,UA,+380 44 238 5977,,,Timberland,Q1539185
+UA_7501,totalenergies,LVIV RING,,LVIV,,,UA,,https://store.totalenergies.fr/en_EN/UA_7501,,AS 24,Q2819394
+UA_7502,totalenergies,KRAKOVEC,,KRAKOVEC,,,UA,,https://store.totalenergies.fr/en_EN/UA_7502,,AS 24,Q2819394
+UA_7503,totalenergies,RAVA RUSKA,,RAVA RUSKA,,,UA,,https://store.totalenergies.fr/en_EN/UA_7503,,AS 24,Q2819394
+UA_7504,totalenergies,UZGOROD,,UZGOROD,,,UA,,https://store.totalenergies.fr/en_EN/UA_7504,,AS 24,Q2819394
+UA_7505,totalenergies,VILOK,,VILOK VILLAGE,,,UA,,https://store.totalenergies.fr/en_EN/UA_7505,,AS 24,Q2819394
+UA_7506,totalenergies,OSTRYTSIA 1,,OSTRYTSIA,,,UA,,https://store.totalenergies.fr/en_EN/UA_7506,,AS 24,Q2819394
+UA_7507,totalenergies,OSTRYTSIA 2,,OSTRYTSIA,,,UA,,https://store.totalenergies.fr/en_EN/UA_7507,,AS 24,Q2819394
+UA_7508,totalenergies,ODESSA 1,,ODESSA,,,UA,,https://store.totalenergies.fr/en_EN/UA_7508,,AS 24,Q2819394
+UA_7509,totalenergies,ODESSA 2,,ODESSA,,,UA,,https://store.totalenergies.fr/en_EN/UA_7509,,AS 24,Q2819394
+UA_7510,totalenergies,KIEV 1,,KALYNIVKA,,,UA,,https://store.totalenergies.fr/en_EN/UA_7510,,AS 24,Q2819394
+UA_7511,totalenergies,FURMANKA,,FURMANKA,,,UA,,https://store.totalenergies.fr/en_EN/UA_7511,,AS 24,Q2819394
+UA_7512,totalenergies,LADYZHYNKA,,LADYZHYNKA,,,UA,,https://store.totalenergies.fr/en_EN/UA_7512,,AS 24,Q2819394
+,visa,,,CHEPA,,,UA,,,,,
+,visa,,,VINNYTSA,,,UA,,,,,
+,visa,,,MUKACHEVO,,,UA,,,,,
+,visa,,,MUKACHEVO,,,UA,,,,,
+,visa,,,UZHHOROD,,,UA,,,,,
+,visa,,,UZGHOROD,,,UA,,,,,
+,visa,,,UZHGOROD,,,UA,,,,,
+,visa,,,STRYY,,,UA,,,,,
+,visa,,,CHERNIVTSI,,,UA,,,,,
+,visa,,,CHERNIVTSI,,,UA,,,,,
+,visa,,,BILGOROD-DNISTROVSKIY,,,UA,,,,,
+,visa,,,IVANO-FRANKIVSK,,,UA,,,,,
+,visa,,,IVANO-FRANKIVSK,,,UA,,,,,
+,visa,,,STRYI,,,UA,,,,,
+,visa,,,MYKOLAYIV,,,UA,,,,,
+,visa,,,KHODORIV,,,UA,,,,,
+,visa,,,KURAKHOVO,,,UA,,,,,
+,visa,,,ROKOSOVO,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESSA,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,KAMYANETS-PODILSKYI,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIVI,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,YABLYNIVKA,,,UA,,,,,
+,visa,,,DNIPRO,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,IRSHAVA,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,TERNOPIL,,,UA,,,,,
+,visa,,,KHMELNYTSKYI,,,UA,,,,,
+,visa,,,KHMELNYTSKYY,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,MYKOLAYIV,,,UA,,,,,
+,visa,,,MYKOLAIV,,,UA,,,,,
+,visa,,,MYKOLAYIV,,,UA,,,,,
+,visa,,,MYKOLAIV,,,UA,,,,,
+,visa,,,MYKOLAIV,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,KHERSON,,,UA,,,,,
+,visa,,,VINNYTSYA,,,UA,,,,,
+,visa,,,VINNYTSYA,,,UA,,,,,
+,visa,,,VINNYTSYA,,,UA,,,,,
+,visa,,,LUTSK,,,UA,,,,,
+,visa,,,LUTSK,,,UA,,,,,
+,visa,,,NOVA KAKHOVKA,,,UA,,,,,
+,visa,,,RIVNE,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,LVIV,,,UA,,,,,
+,visa,,,DNIPRO,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,VOLODYMYR-VOLYNSKYI,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,DNIPRO,,,UA,,,,,
+,visa,,,ODESA,,,UA,,,,,
+,visa,,,ZHYTOMYR,,,UA,,,,,
+,visa,,,ZHYTOMYR,,,UA,,,,,
+,visa,,,KIROVOGRAD,,,UA,,,,,
+,visa,,,YAKYMIVKA,,,UA,,,,,
+,visa,,,YAKYMIVKA,,,UA,,,,,
+,visa,,,KRYVYY RIH,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,BILA TSERKVA,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,MELITOPOL,,,UA,,,,,
+,visa,,,NIKOPOL,,,UA,,,,,
+,visa,,,KRYVYI RIH,,,UA,,,,,
+,visa,,,KOROSTEN,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,CHERKASY,,,UA,,,,,
+,visa,,,CHERKASY,,,UA,,,,,
+,visa,,,CHERKASY,,,UA,,,,,
+,visa,,,CHERKASY,,,UA,,,,,
+,visa,,,CHERKASY,,,UA,,,,,
+,visa,,,CHERKASY,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,BROVARY,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,ZAPORIZHZHYA,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,ZAPORIZHZHYA,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,ZAPORIZHZHYA,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,ZAPORIZHZHYA,,,UA,,,,,
+,visa,,,ZAPORIZHZHYA,,,UA,,,,,
+,visa,,,ZAPORIZHZHYA,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,BERDIANSK,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,ZAPORIZHZHYA,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,ZAPORIZHZHYA,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KIEV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KIEV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,KREMENCHUK,,,UA,,,,,
+,visa,,,KREMENCHUK,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,BORYSPIL,,,UA,,,,,
+,visa,,,BROVARY,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,DNEPRODZERZHINSK,,,UA,,,,,
+,visa,,,KAMIANSKE,,,UA,,,,,
+,visa,,,LOZOVAYA,,,UA,,,,,
+,visa,,,NYZHNJE SOLOTVYNO,,,UA,,,,,
+,visa,,,NOVOGRODOVKA,,,UA,,,,,
+,visa,,,NOVOGRODOVKA,,,UA,,,,,
+,visa,,,TORETSK,,,UA,,,,,
+,visa,,,GORNYAK,,,UA,,,,,
+,visa,,,ILNYTSYA,,,UA,,,,,
+,visa,,,NOVOGRODOVKA,,,UA,,,,,
+,visa,,,TORETSK,,,UA,,,,,
+,visa,,,SIEVERODONETS'K,,,UA,,,,,
+,visa,,,TORETSK,,,UA,,,,,
+,visa,,,KAMIANSKE,,,UA,,,,,
+,visa,,,NOVOGRODOVKA,,,UA,,,,,
+,visa,,,KAMIANSKE,,,UA,,,,,
+,visa,,,NOVOGRODOVKA,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPRO,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPRO,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPRO,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPRO,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,DNIPROPETROVSK,,,UA,,,,,
+,visa,,,NOVOKRASNOVKA,,,UA,,,,,
+,visa,,,MARIUPOL,,,UA,,,,,
+,visa,,,MARIUPOL,,,UA,,,,,
+,visa,,,MARIUPOL,,,UA,,,,,
+,visa,,,MARIUPOL,,,UA,,,,,
+,visa,,,BELOGORODKA,,,UA,,,,,
+,visa,,,UGLEDAR,,,UA,,,,,
+,visa,,,VELYKYI BYCHKIV,,,UA,,,,,
+,visa,,,UGLEDAR,,,UA,,,,,
+,visa,,,UGLEDAR,,,UA,,,,,
+,visa,,,PAVLOGRAD,,,UA,,,,,
+,visa,,,UGLEDAR,,,UA,,,,,
+,visa,,,POLTAVA,,,UA,,,,,
+,visa,,,POLTAVA,,,UA,,,,,
+,visa,,,POLTAVA,,,UA,,,,,
+,visa,,,POLTAVA,,,UA,,,,,
+,visa,,,POLTAVA,,,UA,,,,,
+,visa,,,CHERNIGOV,,,UA,,,,,
+,visa,,,CHERNIGOV,,,UA,,,,,
+,visa,,,CHERNIGOV,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,SELIDOVO,,,UA,,,,,
+,visa,,,SELIDOVO,,,UA,,,,,
+,visa,,,SELIDOVO,,,UA,,,,,
+,visa,,,UKRAINSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,GADIACH,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,DONETSK,,,UA,,,,,
+,visa,,,KYIV,,,UA,,,,,
+,visa,,,MAKIIVKA,,,UA,,,,,
+,visa,,,MAKIIVKA,,,UA,,,,,
+,visa,,,MAKIIVKA,,,UA,,,,,
+,visa,,,KOSTIANTYNIVKA,,,UA,,,,,
+,visa,,,KRAMATORSK,,,UA,,,,,
+,visa,,,KRAMATORSK,,,UA,,,,,
+,visa,,,SLOVYANSK,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,SUMY,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,SUMY,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,KHARKIV,,,UA,,,,,
+,visa,,,HIRSKE,,,UA,,,,,
+,visa,,,SEVERODONETSK,,,UA,,,,,
+3f1108f2286882fc9a67927909924e22,western_union,PRIVATBANK,,Kherson,,,UA,+380 56 716 1131,https://location.westernunion.com/ua/state/kherson/3f1108f2286882fc9a67927909924e22,Mo-Fr 08:30-15:30,Western Union,Q861042
+48032866f28d426fe55c48308d4a9cad8c32b4ca,winetime_ua,WINETIME у Вінниці,,Вінниця,,,UA,+380 50 442 0609,https://winetime.ua/store/vinnytsia/,Mo-Su 10:00-21:00,WINETIME,Q116698397
+5019c50f9ec96f01202920c4cf8305e5add4f498,winetime_ua,WINETIME у Вінниці,,Вінниця,,,UA,+380 50 468 3857,https://winetime.ua/store/vinnytsia/,Mo-Su 10:00-21:00,WINETIME,Q116698397
+301a0c7cfa82fe313768d606ec2b1e3f6e96dfa2,winetime_ua,WINETIME на Дмитра Яворницького,,Дніпро,,,UA,+380 50 410 1407,https://winetime.ua/store/dnipro/,Mo-Su 09:00-20:00,WINETIME,Q116698397
+ccb138f3dbd5267921386a650b3cbbd78f7fb1f5,winetime_ua,WINETIME на Олександра Поля,,Дніпро,,,UA,+380 50 410 1409,https://winetime.ua/store/dnipro/,Mo-Su 09:00-21:00,WINETIME,Q116698397
+428acd2e76b852f7628fb267761ac591d85ed5e3,winetime_ua,WINETIME на Бельведерській,,Івано-Франківськ,,,UA,+380 50 374 0826,https://winetime.ua/store/ivanofrankivsk/,Mo-Su 09:00-21:00,WINETIME,Q116698397
+3bbab7d1c4a083d071fd6299b00a14ef9d79769e,winetime_ua,WINETIME у Крихівцях,,Івано-Франківськ,,,UA,+380 50 339 1664,https://winetime.ua/store/ivanofrankivsk/,Mo-Su 09:00-21:00,WINETIME,Q116698397
+5223691b04ec52f98e509725c55a103e3dc0f18c,winetime_ua,WINETIME на Бажана,,Київ,,,UA,+380 50 413 4558,https://winetime.ua/store/kyiv/,Mo-Su 11:00-22:00,WINETIME,Q116698397
+af2779804356f39b75e6b879781638c294015884,winetime_ua,WINETIME на Соборності,,Київ,,,UA,+380 50 600 1126;+380 95 231 4854,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+91bed537690d856dbe3284674a5e022a3e4afb07,winetime_ua,WINETIME на Яр. Валу,,Київ,,,UA,+380 95 268 1427,https://winetime.ua/store/kyiv/,Mo-Su 11:00-22:00,WINETIME,Q116698397
+46ee4b216f3df5624b99c2aa2d26db3dc7274ca1,winetime_ua,WINETIME у Стоянці,,Київ,,,UA,+380 50 495 6423;+380 50 315 3737,https://winetime.ua/store/kyiv/,Mo-Su 10:00-21:00,WINETIME,Q116698397
+2928461fcfb10bad3100d5997bbb531017eec883,winetime_ua,"WINETIME в Комплексі ""Торонто-Київ""",,Київ,,,UA,+380 50 344 2278,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+9ea68731361928a7bdb30eda5adb2458ca3577a3,winetime_ua,WINETIME на Верхньому Валу,,Київ,,,UA,+380 50 382 3700,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+734d91449a9d7f508fe1f42621f1ffde546f8376,winetime_ua,WINETIME на Вишгородській,,Київ,,,UA,+380 50 421 0230,https://winetime.ua/store/kyiv/,Mo-Su 11:00-22:00,WINETIME,Q116698397
+cfbd9bf4eb517433f61f4f16b0a5a14283bbca11,winetime_ua,WINETIME на Голосіївській,,Київ,,,UA,+380 50 495 3112,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+e3b59dd0a3c73f6e2e59d46fa89eb4de13a4a00f,winetime_ua,WINETIME на Дмитрівській,,Київ,,,UA,+380 50 373 3295;+380 50 315 3737,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+838bfd0bca887e9a7b82b9c5cc26002f0ab114d3,winetime_ua,WINETIME на Здановської (колишня Ломоносова),,Київ,,,UA,+380 50 650 1349,https://winetime.ua/store/kyiv/,Mo-Su 11:00-22:00,WINETIME,Q116698397
+2e85faa530686a410b173645f82e090c23d74e9d,winetime_ua,WINETIME на Кудряшова,,Київ,,,UA,+380 50 421 0245;+380 50 315 3737,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+4a939ba6bd2776710410f15e0962bd46b7e0b300,winetime_ua,WINETIME на Маккейна,,Київ,,,UA,+380 99 610 3906,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+efa26e323c64b717a4716deeee8d4641cc0349fd,winetime_ua,WINETIME на Філатова,,Київ,,,UA,"(095) 231-48-57, (095) 231-48-56",https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+6c9dd83f445b4c0eb18c302c8dca72aea799c68c,winetime_ua,WINETIME на Шалімова,,Київ,,,UA,+380 50 280 0935,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+fe0d59bb96062d7613037b90a81016461d773d0f,winetime_ua,WINETIME на просп. Академіка Палладіна,,Київ,,,UA,+380 50 366 1854,https://winetime.ua/store/kyiv/,Mo-Su 10:00-21:00,WINETIME,Q116698397
+fcd37e7b4ee8f76d2e628a17ca7019d98016c28b,winetime_ua,WINETIME у Козині,,Київ,,,UA,+380 50 413 4531;+380 50 315 3737,https://winetime.ua/store/kyiv/,Mo-Su 10:00-21:00,WINETIME,Q116698397
+9eb08d6a5ee4c2f616697e4cacf821325cd321b0,winetime_ua,WINEWTIME на Верхогляда,,Київ,,,UA,+380 50 681 4107,https://winetime.ua/store/kyiv/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+60d6bd76eb187b73102c3643c6bbe8e8eaba92ac,winetime_ua,WINETIME на Градному узвозі,,Луцьк,,,UA,+380 95 281 1148,https://winetime.ua/store/lutsk/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+e485702dee24d87ef3b0d2e53ef1159f4b10ffce,winetime_ua,WINETIME на Княгині Ольги,,Львів,,,UA,+380 50 386 7828,https://winetime.ua/store/lviv/,Mo-Su 11:00-21:00,WINETIME,Q116698397
+937cfd65ff6858fe5319c403e1dff6caf85a1be0,winetime_ua,WINETIME на Чорновола,,Львів,,,UA,+380 50 448 6300,https://winetime.ua/store/lviv/,Mo-Su 11:00-21:00,WINETIME,Q116698397
+b47a5591556c6fee49b9b6ca76168916fe9ca918,winetime_ua,WINETIME на Стрітенській,,Полтава,,,UA,+380 50 339 9929,https://winetime.ua/store/poltava/,Mo-Su 10:00-21:00,WINETIME,Q116698397
+27016313f8dfa123d291ea4b2813c00512d440f0,winetime_ua,WINETIME на Міцкевича,,Рівне,,,UA,+380 362 636 165,https://winetime.ua/store/rivne/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+27a5568c504fca369f651b3969396312f3b868aa,winetime_ua,WINETIME на Щасливій,,Рівне,,,UA,+380 50 315 0241,https://winetime.ua/store/rivne/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+cd40402d68a068062dab397ede98987ca8145b4b,winetime_ua,WINETIME на Крушельницької,,Тернопіль,,,UA,+380 50 471 3958,https://winetime.ua/store/ternopil/,Mo-Su 09:00-22:00,WINETIME,Q116698397
+713b0e8283756a27b9b59c94dbee712ded7022b2,winetime_ua,WINETIME в Ужгороді,,Ужгород,,,UA,+380 50 315 0318,https://winetime.ua/store/uzhhorod/,Mo-Su 09:00-21:00,WINETIME,Q116698397
+cdce9f6052e7bc189c5307821d690d87eaa5d011,winetime_ua,WINETIME на Проскурівській,,Хмельницький,,,UA,+380 50 430 1263,https://winetime.ua/store/khmelnitskiy/,Mo-Su 10:00-21:00,WINETIME,Q116698397
+22490a32e4efaaed9e6d6d0fe85bdb15b499a240,winetime_ua,WINETIME на Грушевського,,Черкаси,,,UA,+380 66 321 4302,https://winetime.ua/store/cherkasy/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+32bdecf851ff7ed248494a3a7ace2eebebc69585,winetime_ua,WINETIME на Головній,,Чернівці,,,UA,+380 95 276 5643,https://winetime.ua/store/chernivci/,Mo-Su 10:00-22:00,WINETIME,Q116698397
+0af834915f5d6d5ba037bb05f7280687205d4a08,winetime_ua,WINETIME на Київській,,Чернігів,,,UA,+380 95 284 3972,https://winetime.ua/store/chernigiv/,Mo-Su 09:00-21:00,WINETIME,Q116698397

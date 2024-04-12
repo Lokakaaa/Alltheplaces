@@ -1,0 +1,9 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1800,abc_pl,abc,,Ostrowy Tuszowskie,podkarpackie,,PL,,,,abc,Q11683985
+12889,groszek_pl,Groszek,,Cmolas,podkarpackie,,PL,,,,Groszek,Q9280965
+CMO01M,paczkomat_inpost_pl,Przy sklepie Delikatesy Centrum,,Cmolas,podkarpackie,,PL,,https://inpost.pl/paczkomat-cmolas-cmo01m-cmolas-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+CMO02M,paczkomat_inpost_pl,Przy sklepie,,Cmolas,podkarpackie,,PL,,https://inpost.pl/paczkomat-cmolas-cmo02m-cmolas-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+OTYS01M,paczkomat_inpost_pl,Przy sklepie,,Ostrowy Tuszowskie,podkarpackie,,PL,,https://inpost.pl/paczkomat-ostrowy-tuszowskie-otys01m-ostrowy-tuszowskie-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+236220,poczta_polska_pl,UP Cmolas,,Cmolas,PODKARPACKIE,,PL,+48 17 283 77 11,,,Poczta Polska,Q168833
+,visa,,,CMOLAS,PODKARPACKIE,,PL,,,,,
+9d96da66d2fa1347d928883c91ba824c,western_union,BANK SPOLDZIELCZY W KOLBUSZOWEJ,,Cmolas,PODKARPACKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/podkarpackie/cmolas/9d96da66d2fa1347d928883c91ba824c,Mo-Fr 07:30-15:30,Western Union,Q861042

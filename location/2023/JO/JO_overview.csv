@@ -1,0 +1,350 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,8
+UNKNOWN,adidas,Amman,9
+UNKNOWN,adidas,Al Zarqa,1
+UNKNOWN,adidas,Aqaba,2
+AM,adidas,Amman,1
+UNKNOWN,adidas,"JO, Amman",1
+UNKNOWN,alamo,Amman,1
+UNKNOWN,alamo,Aqaba,1
+UNKNOWN,american_eagle_outfitters,Amman,1
+MN,ashley_furniture,Amman,1
+AMMAN,audi,Amman,2
+RECEPTIONDESK,avis,Aqaba,1
+IRBID,avis,Irbid,1
+AQABA,avis,Aqaba,3
+ANNAHDA,avis,Aqaba,1
+TALABAY,avis,Tala Bay,1
+STHSHOUNEHGHOUR,avis,Sth Shouneh Ghour,1
+SWAIMEH,avis,Swaimeh,3
+SWAIMEN,avis,Swaimen,1
+AMMAN,avis,Amman,4
+MARKA,avis,Marka,1
+AQABARD,avis,Amman,1
+PARKPLAZABUILDING24,avis,Amman,1
+UNKNOWN,bmw_group,Amman,2
+,dan_john,Amman,1
+AMMAN,deloitte,Ramallah,1
+UNKNOWN,deloitte,Amman,2
+UNKNOWN,ecco,Amman,2
+UNKNOWN,enterprise,Amman,5
+UNKNOWN,enterprise,Aqaba,2
+UNKNOWN,enterprise,Sweimeh,2
+UNKNOWN,enterprise,South Shuna,1
+UNKNOWN,ernst_young,Amman,1
+UNKNOWN,ford,الزرقاء,1
+UNKNOWN,ford,Zarqa,1
+UNKNOWN,ford,العقبة,1
+UNKNOWN,ford,Aqaba,1
+UNKNOWN,ford,عمان,4
+UNKNOWN,ford,Amman,8
+UNKNOWN,ford,إربد,1
+UNKNOWN,ford,Irbid,2
+UNKNOWN,ford,الزرقاء المنطقة الحرة,1
+UNKNOWN,ford,Zarqa Free Zone,1
+UNKNOWN,ford,ع مان,4
+UNKNOWN,ford,إ ربد,1
+UNKNOWN,geox,AMMAN,5
+UNKNOWN,goldsgym,Amman,1
+UNKNOWN,hilton,unknown,1
+UNKNOWN,hm,Amman,3
+06,hugo_boss,Amman,1
+UNKNOWN,ikea,عمّان,1
+MAAN,lukoil,ANTALYA,1
+UNKNOWN,man_truck_and_bus,Amman,1
+UNKNOWN,marriott,Amman,4
+UNKNOWN,marriott,Sweimeh,1
+UNKNOWN,marriott,Wadi Mousa,1
+UNKNOWN,maserati,AMMAN,1
+UNKNOWN,michaelkors,Amman,2
+UNKNOWN,moneygram,AMMAN,140
+UNKNOWN,moneygram,RABIEH,1
+UNKNOWN,moneygram,IRBID,32
+UNKNOWN,moneygram,MAFRAQ,1
+UNKNOWN,moneygram,MA'DABA,4
+UNKNOWN,moneygram,SAHAB,4
+UNKNOWN,moneygram,AQABA,7
+UNKNOWN,moneygram,ZARQA,13
+UNKNOWN,moneygram,AL MAFRAQ,2
+UNKNOWN,moneygram,ALFUHIES,1
+UNKNOWN,moneygram,PETRA,1
+UNKNOWN,moneygram,AIN ALBASHA,1
+UNKNOWN,moneygram,AL ZARQA AL JADEDAH,1
+UNKNOWN,moneygram,SWAIFEYA,1
+UNKNOWN,moneygram,AL THANIYA,1
+UNKNOWN,moneygram,AL-KARAK,3
+UNKNOWN,moneygram,MOUTAH,1
+UNKNOWN,moneygram,ALTAFILA,1
+UNKNOWN,moneygram,JERASH,2
+UNKNOWN,moneygram,MADABA,2
+UNKNOWN,moneygram,MA'AN,2
+UNKNOWN,moneygram,MUTAH,1
+UNKNOWN,moneygram,AL AZRAQ,1
+UNKNOWN,moneygram,BALQA,1
+UNKNOWN,moneygram,AD-DULAYL,1
+UNKNOWN,moneygram,DOLAYAL,1
+UNKNOWN,moneygram,SALT,4
+UNKNOWN,moneygram,MAAN,2
+UNKNOWN,moneygram,AL BALQA,1
+UNKNOWN,moneygram,AJLOUN,1
+UNKNOWN,moneygram,ALTAFILAH,1
+UNKNOWN,moneygram,ABU NSSIER,1
+UNKNOWN,moneygram,AL HASAN CITY,1
+UNKNOWN,moneygram,RALMTHA,1
+UNKNOWN,moneygram,IRBED,3
+UNKNOWN,moneygram,JARASH,1
+UNKNOWN,moneygram,ZERKA CENTRAL,2
+UNKNOWN,moneygram,AL KARAK,1
+UNKNOWN,moneygram,SWEILEH,1
+UNKNOWN,moneygram,ZERKA FREE ZONE,1
+UNKNOWN,moneygram,JABAL AMMAN,4
+UNKNOWN,moneygram,MARKA AL-SHAMALIYAH,1
+UNKNOWN,moneygram,MARJ AL-HAMMAM,1
+UNKNOWN,moneygram,AL-QUWEISMEH,1
+UNKNOWN,moneygram,SHMEISANI,3
+UNKNOWN,moneygram,AMMAN CITY CENTRE,1
+UNKNOWN,moneygram,AL-SWEIFIYEH,2
+UNKNOWN,moneygram,HUSBAN,1
+UNKNOWN,moneygram,KHUREIBET AL SUQ,1
+UNKNOWN,moneygram,AL SHUNA AL JANUBIYA,1
+UNKNOWN,moneygram,TLAA AL ALI,2
+UNKNOWN,moneygram,UM ASSUMMAQ KHALDA,1
+UNKNOWN,moneygram,AL TAFILEH,1
+UNKNOWN,moneygram,AL RUSAIFA,1
+UNKNOWN,moneygram,ABU NUSAYR,1
+UNKNOWN,moneygram,AL-JUBEIHA,1
+UNKNOWN,moneygram,RAMTHA,1
+UNKNOWN,moneygram,FUHAIS,1
+UNKNOWN,national,Amman,1
+UNKNOWN,national,Aqaba,1
+UNKNOWN,next,Amman 11181,1
+UNKNOWN,nike,Amman,1
+UNKNOWN,ovs,Irbid,1
+UNKNOWN,ovs,Irbid City,1
+GIORDANIA,ovs,Hay Al Sahl,1
+UNKNOWN,reebok,Amman,2
+UNKNOWN,sixt,Aqaba,2
+UNKNOWN,sixt,Amman,6
+UNKNOWN,sixt,Sweimeh,1
+UNKNOWN,sunglass_hut_2,Amman,4
+UNKNOWN,timberland,Amman,4
+UNKNOWN,tommy_hilfiger,Amman,2
+UNKNOWN,totalenergies,AMMAN,6
+UNKNOWN,totalenergies,Amman,64
+UNKNOWN,totalenergies,Zarqa,19
+UNKNOWN,totalenergies,Irbid,15
+UNKNOWN,totalenergies,Balqa,11
+UNKNOWN,totalenergies,Mafraq,5
+UNKNOWN,totalenergies,Madaba,5
+UNKNOWN,totalenergies,Jarash,5
+UNKNOWN,totalenergies,Karak,6
+UNKNOWN,totalenergies,Ajloun,2
+UNKNOWN,totalenergies,TAFILAH,1
+UNKNOWN,totalenergies,Tafileh,2
+UNKNOWN,totalenergies,Ma`an,2
+UNKNOWN,totalenergies,KARAK,3
+UNKNOWN,totalenergies,IRBID,1
+UNKNOWN,totalenergies,AJLOUN,2
+UNKNOWN,totalenergies,BALQAA,1
+UNKNOWN,totalenergies,AQABA,2
+UNKNOWN,totalenergies,AL-MAFRAQ,1
+UNKNOWN,visa,AQABA,22
+UNKNOWN,visa,AMMAN,457
+UNKNOWN,visa,AQABA5,2
+SOUTH,visa,AQABA,4
+AQABA,visa,AQABA,3
+UNKNOWN,visa,AL AQABA QASABAH,6
+ZARQA,visa,ZARQA,5
+CENTER,visa,BALQ'A,6
+UNKNOWN,visa,ZARQA,48
+UNKNOWN,visa,MA'AN,13
+SOUTH,visa,WADI MUSA,1
+UNKNOWN,visa,WADI MOUSA,1
+SOUTH,visa,MA'AN,2
+UNKNOWN,visa,MAAN,1
+MAAN,visa,MA'AN,1
+UNKNOWN,visa,TAFELAH,1
+UNKNOWN,visa,TAFILAH,5
+SOUTH,visa,AT TAFILAH,1
+UNKNOWN,visa,TAFILA,1
+UNKNOWN,visa,AL TAFILEH,1
+TAFILA,visa,TAFILA,1
+UNKNOWN,visa,KARAK,21
+UNKNOWN,visa,AMMAN1,19
+UNKNOWN,visa,MUTAH,1
+UNKNOWN,visa,MU'TAH,1
+CENTER,visa,AMMAN,148
+KARAK,visa,KARAK,1
+UNKNOWN,visa,AL KARAK,2
+SOUTH,visa,KARAK,2
+UNKNOWN,visa,AMMAN-MARJ AL HAMAM,2
+UNKNOWN,visa,AMMAN-BAYADER WADI ALSEER,1
+UNKNOWN,visa,AMMAN-AL RAWNAQ,1
+UNKNOWN,visa,AMMAN-AL SWEIFIYAH,4
+UNKNOWN,visa,AMMAN-7TH CIRCLE,1
+UNKNOWN,visa,AMMAN-AL YASMEEN,1
+UNKNOWN,visa,AMMAN-HAY AL-RAWABI,1
+UNKNOWN,visa,MQABLIEN,1
+UNKNOWN,visa,AMMAN-TLA AL ALI,1
+UNKNOWN,visa,AMMAN-AL QUSMEH,1
+UNKNOWN,visa,AMMAN-JABAL AMMAN,2
+UNKNOWN,visa,AMMAN-SHMEISANI,4
+UNKNOWN,visa,AMMAN-AL WEHDAT,2
+UNKNOWN,visa,AMMAN-CTOWN,1
+UNKNOWN,visa,AMMAN-WADI SAQRA,1
+UNKNOWN,visa,AMMAN-SAQF AL SAIL,1
+UNKNOWN,visa,AMMAN-AL HASHMI AL SHAMALI,1
+UNKNOWN,visa,AMMAN-TABARBOUR,2
+UNKNOWN,visa,SWEMEH,5
+ALBALQA,visa,AL-BALQA,8
+UNKNOWN,visa,BALQA'A,4
+UNKNOWN,visa,AMMAN-ABU NSEIR,1
+UNKNOWN,visa,MADABA,6
+UNKNOWN,visa,MA'DABA,2
+MADABA,visa,MADABA,2
+UNKNOWN,visa,BALQA,9
+SOUTH,visa,MADABA,3
+UNKNOWN,visa,ZARQA3,2
+AMMAN,visa,RAMALLAH-AL BIREH,1
+AMMAN,visa,AMMAN,61
+UNKNOWN,visa,AMMAN - MARJ AL HAMAM,1
+UNKNOWN,visa,DEIR ALLA,1
+UNKNOWN,visa,AS SALŢ,11
+UNKNOWN,visa,SALT,2
+UNKNOWN,visa,AL SULT,1
+UNKNOWN,visa,IRBID,71
+CENTER,visa,SALT,4
+UNKNOWN,visa,AL SALT,1
+UNKNOWN,visa,AMMAN - AL BYADER,1
+UNKNOWN,visa,AMMAN-AL MUGABLEEN,1
+UNKNOWN,visa,AMMAN - AL MOQABLEEN,1
+UNKNOWN,visa,AS-SALT,1
+UNKNOWN,visa,AMMAN -AL YASMEEN,1
+950546,visa,AMMAN,1
+UNKNOWN,visa,AMM,1
+UNKNOWN,visa,AMMAN-AL SWEFEYEH,1
+UNKNOWN,visa,"KHALDA,",1
+UNKNOWN,visa,AMMAN-LEADERS CENTER,1
+UNKNOWN,visa,AMMAN - KHALDA,1
+UNKNOWN,visa,JABAL ALHUSSEIN,1
+UNKNOWN,visa,AMMAN -JABAL AMMAN,1
+EAST,visa,ZARQA,12
+UNKNOWN,visa,AMMAN - ABU ALANDA,1
+UNKNOWN,visa,AMMAN-AL SHMESANI,1
+UNKNOWN,visa,AMMAN-SHMISANI-PROFESSIONAL ASSOCIATIONS COMPLEX,1
+UNKNOWN,visa,AMMAN-TLAA' AL-ALI,1
+UNKNOWN,visa,AMMAN - AL-ABDALI,2
+NORTH,visa,IRBID,14
+UNKNOWN,visa,AMMAN - GARDENZ,1
+UNKNOWN,visa,AMMAN- JABAL AMMAN,1
+UNKNOWN,visa,AMMAN - JUBEAHA,1
+UNKNOWN,visa,AMMAN-RAS AL - EIN,1
+UNKNOWN,visa,AMMAN- ALWEHDAT,1
+UNKNOWN,visa,AMMAN - JABAL AL HUSSEIN,1
+UNKNOWN,visa,MADINA MONAWAREH,1
+UNKNOWN,visa,AMMAN - DOWN TOWN,1
+UNKNOWN,visa,AMMAN-ABDALI - CUSTOM DEPT,1
+UNKNOWN,visa,AMMAN - AL NUZHA,1
+UNKNOWN,visa,AJLUN,3
+UNKNOWN,visa,AMMAN - ABU NSEIR,1
+UNKNOWN,visa,AMMAN - AL-HASHMI AL-SHAMALI,1
+UNKNOWN,visa,AMMAN - AL HASHMI AL SHAMALI,1
+UNKNOWN,visa,ABDOUN,1
+UNKNOWN,visa,AMMAN - TARIQ,1
+UNKNOWN,visa,AJLOUN,4
+UNKNOWN,visa,AMMAN- MARKA,1
+UNKNOWN,visa,JARASH,6
+UNKNOWN,visa,MARKA,1
+NORTH,visa,AJLOUN,1
+UNKNOWN,visa,AJLON,1
+UNKNOWN,visa,RUSAIFAH,1
+UNKNOWN,visa,AL ZARQA,2
+UNKNOWN,visa,AL-RUSEIFA JABAL SHAMAL,1
+UNKNOWN,visa,JERASH,4
+NORTH,visa,JARASH,2
+IRBID,visa,IRBID,7
+UNKNOWN,visa,ZARQA - AL SHUWAM AVENUE,1
+UNKNOWN,visa,ZARKA,1
+UNKNOWN,visa,ALZARQA,2
+UNKNOWN,visa,MEDICAL CITY,1
+UNKNOWN,visa,SWEIFEH,1
+UNKNOWN,visa,SHMISSANI,1
+UNKNOWN,visa,AL ZARQA EL JADIDA,1
+UNKNOWN,visa,SHOUNEH,1
+UNKNOWN,visa,AZRAQ,1
+UNKNOWN,visa,ZARQA PRIVATE UNIVERSITY,1
+UNKNOWN,visa,MAFRAQ,6
+UNKNOWN,visa,IRBID2,1
+UNKNOWN,visa,IRBED,1
+UNKNOWN,visa,AL-MAFRAQ,2
+UNKNOWN,visa,AL RAMTHA,4
+UNKNOWN,visa,AL MAFRAQ,2
+MAFRAQ,visa,MAFRAQ,1
+NORTH,visa,MAFRAQ,1
+UNKNOWN,visa,AL-ZARQA',1
+TAFILAH,western_union,Tafileh,3
+TAFILAH,western_union,Tafileh Downtown,1
+MAAN,western_union,Ma An,1
+MAAN,western_union,Maan,9
+MAAN,western_union,Shoubak,1
+IRBID,western_union,Al Ghour Al Shamali,1
+AQABA,western_union,Al Aqaba,10
+MAAN,western_union,Wadi Mousa,1
+AQABA,western_union,Aqaba,5
+ZARQA,western_union,Zarqa,14
+ZARQA,western_union,Al-azraq,1
+AMMAN,western_union,Amman,373
+MADABA,western_union,Dead Sea,1
+MADABA,western_union,Madaba,10
+BALQA,western_union,Al Salt,9
+BALQA,western_union,Al Shouneh Al Janoubieh,1
+AMMAN,western_union,Marj Alhamam,2
+AMMAN,western_union,Sahab,3
+BALQA,western_union,Al Balqaa,3
+BALQA,western_union,Mahes,1
+AMMAN,western_union,Dahyat Alamir Rashid,1
+AMMAN,western_union,Jabal Amman,1
+AMMAN,western_union,Udman,1
+AMMAN,western_union,Downtown,1
+BALQA,western_union,Al Fuhais,1
+AMMAN,western_union,Khalda,1
+BALQA,western_union,Balqa,3
+AMMAN,western_union,Alabdali,1
+BALQA,western_union,Alsalt,1
+BALQA,western_union,Fohais,1
+BALQA,western_union,Salt,3
+AMMAN,western_union,Marka,1
+ZARQA,western_union,Zarqa A,1
+ZARQA,western_union,Azraq,1
+UNKNOWN,western_union,Amman,1
+BALQA,western_union,Amman,1
+BALQA,western_union,Baqaa,1
+ZARQA,western_union,Al Zarqaa,28
+AMMAN,western_union,Aljubaiha,1
+ZARQA,western_union,Alzarqa,1
+BALQA,western_union,Dair Alla,2
+ZARQA,western_union,Zarqaa,3
+ZARQA,western_union,Russeifa,1
+ZARQA,western_union,Al Russaifeh,3
+AMMAN,western_union,Abu Nseir,1
+ZARQA,western_union,Al Zarqa,1
+IRBID,western_union,Irbid,52
+BALQA,western_union,Kriemeh,1
+JERASH,western_union,Jerash,8
+ZARQA,western_union,New Zarqa,1
+AJLOUN,western_union,Ajloun,6
+AMMAN,western_union,Jerash,1
+AJLOUN,western_union,Ajlun,1
+MAFRAQ,western_union,Al Mafraq,8
+MAFRAQ,western_union,Mafraq,7
+JERASH,western_union,Jarash,1
+IRBID,western_union,Dair Abi Said,1
+IRBID,western_union,Al Huson,2
+IRBID,western_union,Al Hosson,1
+IRBID,western_union,Al Shouneh Al Shamalieh,1
+IRBID,western_union,Huson,1
+IRBID,western_union,Ramtha,3
+IRBID,western_union,Irbed,1
+IRBID,western_union,Al Ramtha,3
+IRBID,western_union,Alramtha,1
+IRBID,western_union,Sama Al Rousan,1

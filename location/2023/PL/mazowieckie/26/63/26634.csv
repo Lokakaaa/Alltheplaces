@@ -1,0 +1,12 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4767,abc_pl,abc,,Kiedrzyn,mazowieckie,,PL,,,,abc,Q11683985
+10507,abc_pl,abc,,Wojsławice,mazowieckie,,PL,,,,abc,Q11683985
+4971,abc_pl,abc,,Klwatka Królewska,mazowieckie,,PL,,,,abc,Q11683985
+10508,abc_pl,abc,,Klwatka Królewska,mazowieckie,,PL,,,,abc,Q11683985
+14749,abc_pl,abc,,Gózd,mazowieckie,,PL,,,,abc,Q11683985
+GOZ01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Gózd,mazowieckie,,PL,,https://inpost.pl/paczkomat-gozd-goz01m-radomska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+KDY01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Kiedrzyn,mazowieckie,,PL,,https://inpost.pl/paczkomat-kiedrzyn-kdy01m-kiedrzyn-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+MAC01APP,paczkomat_inpost_pl,Przy Mini Delikatesach,,Małęczyn,mazowieckie,,PL,,https://inpost.pl/paczkomat-maleczyn-mac01app-makowska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+NIM01M,paczkomat_inpost_pl,Przy myjni samochodowej,,Niemianowice,mazowieckie,,PL,,https://inpost.pl/paczkomat-niemianowice-nim01m-niemianowice-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+POP-GOD3,paczkomat_inpost_pl,EPAKA,,Gózd,mazowieckie,,PL,,https://inpost.pl/paczkomat-gozd-pop-god3-radomska-paczkomaty-mazowieckie,Mo-Fr 08:00-18:00; Sa 09:00-14:00,Paczkomat,Q110970254
+961011,poczta_polska_pl,UP Gózd k. Radomia,,Gózd,MAZOWIECKIE,,PL,+48 48 320 22 00,,,Poczta Polska,Q168833

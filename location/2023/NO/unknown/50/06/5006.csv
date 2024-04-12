@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+norway#bergen,ernst_young,EY,"Thormøhlens gate 53 D, P.O. Box 6163",Bergen,,,NO,+47 55 21 30 00,https://www.ey.com/locations/norway#bergen,,EY,Q489097
+hyrenorge:HYR:Station:15d4eb6d-f43f-465c-9af7-5f5cd48f18d9,gbfs,"Wolffs gate, boligsone 4",,,,,NO,,https://www.hyre.no/,,Hyre,
+hyrenorge:HYR:Station:9e11e8aa-cf7b-43e0-8a73-4c9edd791b7d,gbfs,"Konsul Børs' gate, boligsone 4",,,,,NO,,https://www.hyre.no/,,Hyre,
+hyrenorge:HYR:Station:f8e41afe-0079-4741-ae9f-7080c70203ac,gbfs,"Falco, parkeringsplass",,,,,NO,,https://www.hyre.no/,,Hyre,

@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1214,abc_pl,abc,,Chrząstów,podkarpackie,,PL,,,,abc,Q11683985
+10665,abc_pl,abc,,Trześń,podkarpackie,,PL,,,,abc,Q11683985
+200,abc_pl,abc,,Malinie,podkarpackie,,PL,,,,abc,Q11683985
+13354,groszek_pl,Groszek,,Chorzelów,podkarpackie,,PL,,,,Groszek,Q9280965
+CHRZ01M,paczkomat_inpost_pl,Przy sklepie,,Chrząstów,podkarpackie,,PL,,https://inpost.pl/paczkomat-chrzastow-chrz01m-chrzastow-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+COR01M,paczkomat_inpost_pl,Przy sklepie Delikatesy Premium,,Chorzelów,podkarpackie,,PL,,https://inpost.pl/paczkomat-chorzelow-cor01m-chorzelow-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+COR02M,paczkomat_inpost_pl,Parking przy Delikatesach Centrum,,Chorzelów,podkarpackie,,PL,,https://inpost.pl/paczkomat-chorzelow-cor02m-chorzelow-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+MEX01M,paczkomat_inpost_pl,Przy sklepie,,Malinie,podkarpackie,,PL,,https://inpost.pl/paczkomat-malinie-mex01m-malinie-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+TES01M,paczkomat_inpost_pl,Przy sklepie Groszek,,Trześń,podkarpackie,,PL,,https://inpost.pl/paczkomat-trzesn-tes01m-trzesn-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+611225,poczta_polska_pl,FUP Mielec 1,,Chorzelów,PODKARPACKIE,,PL,+48 17 584 14 20,,,Poczta Polska,Q168833

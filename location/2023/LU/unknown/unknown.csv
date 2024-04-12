@@ -1,0 +1,81 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+0974,accor,ibis Luxembourg Aéroport,"Route de Trèves, FINDEL LUXEMBOURG, L-2632 FINDEL",,,,LU,,https://all.accor.com/hotel/0974/index.en.shtml,,Ibis,Q920166
+1314,accor,Sofitel Luxembourg Europe,"6, Rue du Fort Niedergruenewald, Plateau de Kirchberg, 2226 LUXEMBOURG",,,,LU,,https://all.accor.com/hotel/1314/index.en.shtml,,Sofitel,Q749431
+1458,accor,ibis Styles Luxembourg Centre Gare,"30 rue Joseph Junck, 1839 LUXEMBOURG",,,,LU,,https://all.accor.com/hotel/1458/index.en.shtml,,Ibis Styles,Q3147425
+1930,accor,Novotel Luxembourg Kirchberg,"6 rue Fort Niedergrünewald, Quartier Européen Nord, Plateau de Kirchberg, L-2226 LUXEMBOURG",,,,LU,,https://all.accor.com/hotel/1930/index.en.shtml,,Novotel,Q420545
+2898,accor,Mercure Luxembourg Kikuoka Golf and Spa,"100 Scheierhaff, 5412 CANACH",,,,LU,,https://all.accor.com/hotel/2898/index.en.shtml,,Mercure,Q1709809
+3579,accor,ibis budget Luxembourg Aéroport,"Route de Trèves, Findel, L 2632 LUXEMBOURG",,,,LU,,https://all.accor.com/hotel/3579/index.en.shtml,,Ibis Budget,Q1458135
+5555,accor,Sofitel Luxembourg Le Grand Ducal,"GPS 35 rue du Laboratoire, L 1911 LUXEMBOURG, POSTALE 40 boulevard d Avranches, 1160 LUXEMBOURG",,,,LU,,https://all.accor.com/hotel/5555/index.en.shtml,,Sofitel,Q749431
+5556,accor,Novotel Luxembourg Centre,"35 rue du Laboratoire, L-1911 LUXEMBOURG",,,,LU,,https://all.accor.com/hotel/5556/index.en.shtml,,Novotel,Q420545
+5587,accor,ibis Luxembourg Sud,"Rue de Turi, L 3378 LIVANGE",,,,LU,,https://all.accor.com/hotel/5587/index.en.shtml,,Ibis,Q920166
+6768,accor,ibis budget Luxembourg Sud,"Rue de Turi, L-3378 LIVANGE",,,,LU,,https://all.accor.com/hotel/6768/index.en.shtml,,Ibis Budget,Q1458135
+7071,accor,ibis Esch Belval,"Avenue du Rock n Roll, 12, 4361 ESCH SUR ALZETTE",,,,LU,,https://all.accor.com/hotel/7071/index.en.shtml,,Ibis,Q920166
+7206,accor,Novotel Suites Luxembourg,"13 Avenue J F Kennedy, Quartier Europeen, 1855 LUXEMBOURG",,,,LU,,https://all.accor.com/hotel/7206/index.en.shtml,,Novotel,Q420545
+A9U6,accor,Mercure Luxembourg Off kirchberg,"271, Rue De Neudorf, 2221 LUXEMBOURG",,,,LU,,https://all.accor.com/hotel/A9U6/index.en.shtml,,Mercure,Q1709809
+B4B9,accor,Mama Shelter Luxembourg,"2 Rue Du Fort Niedergrunewald, L2226 Luxembourg",,,,LU,,https://all.accor.com/hotel/B4B9/index.en.shtml,,Mama Shelter,Q12716714
+200,auchan_lu,Auchan Shop,,,,,LU,+352 26 75 00 80 00,,,Auchan,Q758603
+8435,church_of_england_gb,"All Saints Anglican Church, Luxembourg","Konvikt Chapel, 5 Avenue Marie-Therese, L-2132 Luxembourg",,,,LU,+352 621 199 242,https://www.achurchnearyou.com/church/8435/,,,
+1028,leonidas,Leonidas Knauf Huldange,,Huldange,,,LU,026 908490,https://www.leonidas.com/en/shops/huldange/leonidas-knauf-huldange,Mo-Su 10:00-19:00,Leonidas,Q80335
+1876,leonidas,Cactus Marnach,,Marnach,,,LU,+352 28 28 90 22,https://www.leonidas.com/en/shops/marnach/cactus-marnach,Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa-Su 08:00-19:00,Leonidas,Q80335
+0250,lhw,Le Royal Hotels & Resorts - Luxembourg,"12 Boulevard Royal<br>L-2449, Luxembourg",Luxembourg City,,,LU,,https://www.lhw.com/hotel/Le-Royal-Hotels-Resorts-Luxembourg-Luxembourg-City-Luxembourg,,The Leading Hotels of the World,Q834396
+https://www.supermarche-match.lu/magasins-luxembourg/match-ettelbruck,match_lu,Ettelbruck - Match,,Ettelbruck,,,LU,+352 81 78 73,https://www.supermarche-match.lu/magasins-luxembourg/match-ettelbruck,Mo-Sa 07:30-20:00; Su 08:00-13:00,Match,Q513977
+https://mcd.lu/content.php?r=1_12&lang=de,mcdonalds_lu,McDonald’s « Pommerloch »,"30, route de Bastogne L-9638 POMMERLOCH",,,,LU,+352 27 99 52 92,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_11&lang=de,mcdonalds_lu,McDonald’s « Bascharage »,"2A, Avenue de Luxembourg (sur le parking de Cactus) L-4950 Bascharage",,,,LU,+352 28 99 13 52,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_10&lang=de,mcdonalds_lu,McDonald’s « Aire de Berchem »,Aire de Berchem Autoroute E 25 Berchem Luxembourg (3325),,,,LU,+352 27 51 72 08,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_9&lang=de,mcdonalds_lu,McDonald’s « Belle Etoile »,Shopping Center « La Belle Etoile » route d’Arlon Bertrange (8050),,,,LU,+352 26 31 32 09,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_8&lang=de,mcdonalds_lu,McDonald’s Kinepolis,"45, Avenue J.F. Kennedy Luxembourg (1855)",,,,LU,+352 26 43 05 57,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_7&lang=de,mcdonalds_lu,McDonald’s Bereldange,"1A, rue du Pont, Bereldange (7245)",,,,LU,+352 26 33 28 40,,Mo-Th 11:00-23:00,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_6&lang=de,mcdonalds_lu,McDonald’s Remich,"5, route de l’Europe, Remich (5531)",,,,LU,+352 26 66 05 74,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_5&lang=de,mcdonalds_lu,McDonald’s Ingeldorf,"1A bis, route d’Ettelbrück, Ingeldorf (9160)",,,,LU,+352 26 80 03 20,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_4&lang=de,mcdonalds_lu,McDonald’s Foetz,"3, rue du Brill, Foetz (3898)",,,,LU,+352 55 44 92,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_3&lang=de,mcdonalds_lu,McDonald’s Strassen,"168, route d'Arlon, Strassen (8010)",,,,LU,+352 26 11 97 92,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_2&lang=de,mcdonalds_lu,McDonald’s Place d'Armes,"2, rue de la Poste, Luxembourg (2346)",,,,LU,+352 26 27 02 63,,,McDonald's,Q38076
+https://mcd.lu/content.php?r=1_1&lang=de,mcdonalds_lu,McDonald’s Gare,"33, avenue de la Gare, Luxembourg (1611)",,,,LU,+352 27 99 77 30,,,McDonald's,Q38076
+2566,ovs,OVS Differdange Opkorn,,Differdange,,,LU,-,,,OVS,Q2042514
+00LU300551,q8,Q8 Eich,"2, Rue D""eich, 1460 Eich",,,,LU,+352 43 19 81,https://www.q8.be//fr/stations/q8-eich,Mo-Sa 06:00-22:00; Su 07:00-22:00,Q8,Q1634762
+00LU300555,q8,Q8 Mertert,"55, Route De Wasserbillig, 6686 Mertert-Wasserbillig",,,,LU,+352 26 74 03 09,https://www.q8.be//fr/stations/q8-mertert,Mo-Sa 06:00-22:00; Su 07:00-21:00,Q8,Q1634762
+00LU300557,q8,Q8 Pulvermuehl,"2, Val De Hamm, 1714 Pulvermuehl",,,,LU,+352 26 43 29 44,https://www.q8.be//fr/stations/q8-pulvermuehl,Mo-Sa 06:00-22:00; Su 07:00-22:00,Q8,Q1634762
+00LU300559,q8,Q8 Steinfort,"46, Route D""arlon, 8410 Steinfort",,,,LU,+352 39 50 80,https://www.q8.be//fr/stations/q8-steinfort,Mo-Sa 06:00-22:00; Su 07:00-22:00,Q8,Q1634762
+00LU300562,q8,Q8 Dudelange,"211, Route De Luxembourg, 3515 Dudelange",,,,LU,+352 51 32 63,https://www.q8.be//fr/stations/q8-dudelange,Mo-Su 06:30-22:30,Q8,Q1634762
+00LU300563,q8,Q8 Martelange II,"6, Route D""arlon, 8832 Rombach-Martelange",,,,LU,+352 23 64 04 57,https://www.q8.be//fr/stations/q8-martelange-ii,Mo-Sa 06:00-22:00; Su 10:00-19:00,Q8,Q1634762
+00LU300567,q8,Q8 Rodange II,"432, Route De Longwy, 4832 Rodange",,,,LU,+352 50 01 42,https://www.q8.be//fr/stations/q8-rodange-ii,Mo-Su 06:00-22:00,Q8,Q1634762
+00LU300570,q8,Q8 Bertrange,"80, Route De Longwy, 8060 Bertrange",,,,LU,+352 45 02 18,https://www.q8.be//fr/stations/q8-bertrange,Mo-Th 06:45-20:30; Fr 06:45-21:30; Sa 06:45-20:30,Q8,Q1634762
+00LU300575,q8,Q8 Remich,"13, Route De L""europe, 5531 Remich",,,,LU,+352 23 69 89 08,https://www.q8.be//fr/stations/q8-remich,Mo-Sa 06:30-22:00; Su 07:30-22:00,Q8,Q1634762
+00LU300577,q8,Q8 Vianden,"11, Rue De La Frontiere, 9412 Vianden",,,,LU,+352 84 93 61,https://www.q8.be//fr/stations/q8-vianden,Mo-Fr 06:30-21:00; Sa-Su 07:30-21:00,Q8,Q1634762
+00LU300682,q8,Q8 Hesperange,"468, Route De Thionville, 5886 Hesperange",,,,LU,+352 36 05 14,https://www.q8.be//fr/stations/q8-hesperange,Mo-Sa 06:30-22:00; Su 07:30-22:00,Q8,Q1634762
+00LU301456,q8,Q8 Belvaux,"65, Route D""esch, 4450 Belvaux",,,,LU,+352 59 15 61,https://www.q8.be//fr/stations/q8-belvaux,Mo-Fr 06:00-22:00; Sa-Su 08:00-22:00,Q8,Q1634762
+00LU301535,q8,Q8 Bereldange,"91, Route De  Luxembourg, 7240 Bereldange",,,,LU,+352 33 03 20,https://www.q8.be//fr/stations/q8-bereldange,Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 07:30-21:00,Q8,Q1634762
+00LU301684,q8,Q8 Bettembourg,"130, Route De Luxembourg, 3254 Bettembourg",,,,LU,+352 51 33 34,https://www.q8.be//fr/stations/q8-bettembourg,Mo-Sa 06:00-21:00; Su 07:00-21:00,Q8,Q1634762
+00LU301988,q8,Q8 Bollendorf-Pont,"19, Route De Diekirch, 6555 Bollendorf-Pont",,,,LU,+352 72 98 43,https://www.q8.be//fr/stations/q8-bollendorf-pont,Mo-We 06:30-20:00; Fr-Su 06:30-20:00,Q8,Q1634762
+00LU302002,q8,Q8 Bridel,"59, Route De Luxembourg, 8140 Bridel",,,,LU,+352 33 15 90,https://www.q8.be//fr/stations/q8-bridel,Mo-Sa 06:30-22:00; Su 07:30-22:00,Q8,Q1634762
+00LU302004,q8,Q8 Rumelange,"19, Rue De L""usine, 3754 Rumelange",,,,LU,+352 26 56 59 20,https://www.q8.be//fr/stations/q8-rumelange,Mo-Su 06:00-22:00,Q8,Q1634762
+00LU302420,q8,Q8 Dasbourg-Pont,"1, Dosberbreck, 9839 Dasbourg-Pont",,,,LU,+352 92 05 91,https://www.q8.be//fr/stations/q8-dasbourg-pont,Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00,Q8,Q1634762
+00LU302700,q8,Q8 Echternach,"96, Route De Luxembourg, 6450 Echternach",,,,LU,+352 26 72 03 83,https://www.q8.be//fr/stations/q8-echternach,Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 07:00-21:00,Q8,Q1634762
+00LU304760,q8,Q8 Huldange I,"3, Op D""schmett, 9964 Huldange",,,,LU,+352 26 95 76 78,https://www.q8.be//fr/stations/q8-huldange-i,Mo-Sa 06:00-21:00; Su 07:00-21:00,Q8,Q1634762
+00LU304800,q8,Q8 Ingeldorf,"36, Route D""ettelbrueck, 9160 Ingeldorf",,,,LU,+352 45 02 03 1,https://www.q8.be//fr/stations/q8-ingeldorf,24/7,Q8 Easy,Q1806948
+00LU306042,q8,Q8 Merl,"258, Route De Longwy, 1940 Merl",,,,LU,+352 28 66 92 02,https://www.q8.be//fr/stations/q8-merl,Mo-Sa 06:00-21:30; Su 07:00-21:00,Q8,Q1634762
+00LU306168,q8,Q8 Gasperich,"260, Route D""esch, 1471 Gasperich",,,,LU,+352 48 66 95,https://www.q8.be//fr/stations/q8-gasperich,Mo-Sa 05:30-22:00; Su 09:00-20:00,Q8,Q1634762
+00LU306244,q8,Q8 Bonnevoie,"12, Route De Thionville, 2610 Luxembourg-Bonnevoie",,,,LU,+352 48 55 79,https://www.q8.be//fr/stations/q8-bonnevoie,Mo-Sa 06:00-21:00; Su 07:30-21:00,Q8,Q1634762
+00LU306316,q8,Q8 Strassen,"44-46, Route D""arlon, 8008 Strassen",,,,LU,+352 45 98 82,https://www.q8.be//fr/stations/q8-strassen,Mo-Fr 06:00-22:00; Sa 07:00-21:00; Su 08:00-20:30,Q8,Q1634762
+00LU306396,q8,Q8 Martelange I,"13, Route D""arlon, 8832 Rombach-Martelange",,,,LU,+352 23 64 03 59,https://www.q8.be//fr/stations/q8-martelange-i,Mo-Sa 06:00-22:00; Su 10:00-19:00,Q8,Q1634762
+00LU306447,q8,Q8 Esch-sur-Alzette,"2, Rue Romain Fandel, 4149 Esch-sur-Alzette",,,,LU,+352 24 55 95 05,https://www.q8.be//fr/stations/q8-esch-sur-alzette,Mo-Su 06:00-23:00,Q8,Q1634762
+00LU306472,q8,Q8 Capellen Cars I,"Aire De Capellen - E25 Lux-be, 8309 Capellen",,,,LU,+352 39 90 02,https://www.q8.be//fr/stations/q8-capellen-cars-i,24/7,Q8,Q1634762
+00LU306500,q8,Q8 Capellen Shop,"Aire De Capellen - E25 Lux-be, 8309 Capellen",,,,LU,+352 39 90 02,https://www.q8.be//fr/stations/q8-capellen-shop,24/7,Q8,Q1634762
+00LU306501,q8,Q8 Capellen truck I,"Aire De Capellen - E25 Lux-be, 8309 Capellen",,,,LU,+352 39 90 02,https://www.q8.be//fr/stations/q8-capellen-truck-i,24/7,Q8,Q1634762
+00LU306502,q8,Q8 Capellen truck II,"Aire De Capellen - E25 Lux-be, 8309 Capellen",,,,LU,+352 39 90 02,https://www.q8.be//fr/stations/q8-capellen-truck-ii,24/7,Q8,Q1634762
+00LU306508,q8,Q8 Capellen Cars II,"Aire De Capellen - E25 Lux-be, 8309 Capellen",,,,LU,+352 39 90 02,https://www.q8.be//fr/stations/q8-capellen-cars-ii,24/7,Q8,Q1634762
+00LU306521,q8,Q8 Troisvierges,"31B, Rue De Wilwerdange, 9911 Troisvierges",,,,LU,,https://www.q8.be//fr/stations/q8-troisvierges,24/7,Q8,Q1634762
+00LU306524,q8,Q8 Leudelange,"1, Rue Leon Laval, 3372 Leudelange",,,,LU,+352 26 37 87 40,https://www.q8.be//fr/stations/q8-leudelange,Mo-Fr 05:30-21:30; Sa 05:30-20:00; Su 10:00-18:30,Q8,Q1634762
+00LU306605,q8,Q8 Huldange II,"18, Op D""schmett, 9964 Huldange",,,,LU,,https://www.q8.be//fr/stations/q8-huldange-ii,Mo-Su 07:30-21:30,Q8,Q1634762
+00LU306850,q8,Q8 Mondorf-Les-Bains,"8, Route De Luxembourg, 5634 Mondorf-Les-Bains",,,,LU,+352 23 66 03 36,https://www.q8.be//fr/stations/q8-mondorf-les-bains,Mo-Fr 06:00-20:30; Sa-Su 07:00-20:30,Q8,Q1634762
+00LU307916,q8,Q8 Pommerloch I,"26, Route De Bastogne, 9638 Pommerloch",,,,LU,+352 26 95 07 66,https://www.q8.be//fr/stations/q8-pommerloch-i,Mo-Su 06:00-20:00,Q8,Q1634762
+00LU308448,q8,Q8 Rodange I,"428, Route De Longwy, 4832 Rodange",,,,LU,+352 50 28 88,https://www.q8.be//fr/stations/q8-rodange-i,Mo-Su 06:00-22:00,Q8,Q1634762
+00LU308676,q8,Q8 Saeul,"2A, Route De Mersch, 7470 Saeul",,,,LU,+352 26 61 05 01,https://www.q8.be//fr/stations/q8-saeul,Mo-Sa 06:00-21:30; Su 07:00-21:00,Q8,Q1634762
+00LU308980,q8,Q8 Schouweiler,"115, Route De Longwy, 4994 Schouweiler",,,,LU,+352 37 05 94,https://www.q8.be//fr/stations/q8-schouweiler,Mo-Sa 06:00-21:30; Su 07:00-21:00,Q8,Q1634762
+00LU309892,q8,Q8 Wincrange,"96, Haaptstrooss, 9780 Wincrange",,,,LU,+352 26 91 40 54,https://www.q8.be//fr/stations/q8-wincrange,Mo-Fr 05:30-22:30; Sa 05:30-21:00; Su 08:00-20:00,Q8,Q1634762
+00LU309917,q8,Q8 Pommerloch II,"17, Route De Bastogne, 9638 Pommerloch",,,,LU,+352 26 95 08 73,https://www.q8.be//fr/stations/q8-pommerloch-ii,Mo-Su 06:00-21:00,Q8,Q1634762
+,visa,,,ESCH/ALZETTE,,,LU,,,,,
+,visa,,,LUXEMBOURG GARE,,,LU,,,,,
+,visa,,,LUXEMBOURG VILLE,,,LU,,,,,
+,visa,,,ESCH,,,LU,,,,,
+,visa,,,ETTELBRUCK,,,LU,,,,,

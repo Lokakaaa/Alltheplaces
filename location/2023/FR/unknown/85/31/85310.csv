@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+8959,carrefour_fr,Carrefour Express,,St Florent Des Bois,,,FR,+33 2 51 46 79 79,https://www.carrefour.fr/magasin/express-st-florent-des-bois,Mo-Sa 08:00-20:00; Su 09:00-13:00,Carrefour Express,Q2940190
+9452,carrefour_fr,Carrefour Express,,La Chaize-Le-Vicomte,,,FR,+33 2 51 05 70 42,https://www.carrefour.fr/magasin/express-chaize-le-vicomt,Mo-Sa 08:00-20:00; Su 09:00-13:00,Carrefour Express,Q2940190
+https://www.credit-agricole.fr/particulier/agence/atlantique-vendee/saint-florent-des-bois-754.html,credit_agricole,Crédit Agricole,,Saint-Florent-des-Bois,,,FR,+33 2 28 97 55 27,https://www.credit-agricole.fr/particulier/agence/atlantique-vendee/saint-florent-des-bois-754.html,"We 09:30-12:45,15:15-18:15; Fr 09:30-12:45,15:15-19:00",Credit Agricole,Q590952
+https://www.credit-agricole.fr/particulier/agence/atlantique-vendee/la-chaize-le-vicomte-756.html,credit_agricole,Crédit Agricole,,La Chaize-le-Vicomte,,,FR,+33 2 28 97 55 29,https://www.credit-agricole.fr/particulier/agence/atlantique-vendee/la-chaize-le-vicomte-756.html,"Tu 09:30-12:30,15:30-19:00; Th 09:30-12:30,15:30-18:15; Sa 09:00-12:45",Credit Agricole,Q590952
+39027,credit_mutuel_fr,CAISSE DE CREDIT MUTUEL ST FLORENT DES BOIS,,RIVES DE L YON,,,FR,+33 2 51 31 90 25,https://www.creditmutuel.fr/cmo/fr/caisses/15519/39027/00/000,,Crédit Mutuel,Q642627
+39024,credit_mutuel_fr,CAISSE DE CREDIT MUTUEL LA CHAIZE LE VICOMTE,,LA CHAIZE LE VICOMTE,,,FR,+33 2 51 40 14 00,https://www.creditmutuel.fr/cmo/fr/caisses/15519/39024/00/000,,Crédit Mutuel,Q642627
+00028131_001-renault,renault,GARAGE GUERINEAU,,CHAILLE SOUS LES ORMEAUX,,,FR,+33 2 51 34 92 75,,,Renault,Q6686
+00028131_001-dacia,renault,GARAGE GUERINEAU,,CHAILLE SOUS LES ORMEAUX,,,FR,+33 2 51 34 92 75,,,Dacia,Q27460
+NF015296,totalenergies,GUERINEAU,,CHAILLE LES ORMEAUX,,,FR,+33 2 51 34 92 75,https://store.totalenergies.fr/en_EN/NF015296,,TotalEnergies,Q154037
+NF913613,totalenergies,AVIA,,La Chaize-le-Vicomte,,,FR,,https://store.totalenergies.fr/en_EN/NF913613,,Avia,Q300147

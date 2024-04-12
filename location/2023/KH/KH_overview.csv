@@ -1,0 +1,4337 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,9
+UNKNOWN,ashley_furniture,Phnom Penh,2
+PHNOMPENH,audi,Phnom Penh,1
+SIEMREAP,avis,Siem Reap,1
+PICKUPATARRIVALTERMINAL,avis,Phnom Penh,1
+MEETGREET,avis,Phnom Penh,1
+KHAN7MAKARAA,avis,Phnom Penh,1
+UNKNOWN,bmw_group,Phnom Penh,2
+UNKNOWN,bmw_group,"Khan Sen Sok, Phnom Penh",1
+SIEMREAP,botteg_aveneta,Siem Reap,2
+UNKNOWN,deloitte,unknown,1
+UNKNOWN,ernst_young,Phnom Penh,1
+UNKNOWN,ford,Phnom Penh,8
+UNKNOWN,hardrock,Krong Siem Reap,1
+UNKNOWN,hardrock,Phnom Penh,1
+UNKNOWN,hm,Phnom Penh,2
+15,hugo_boss,Phnom Penh,2
+KANDAL,little_free_library,Koh Kel,1
+UNKNOWN,man_truck_and_bus,"Kampuchia, Cambodia",1
+UNKNOWN,man_truck_and_bus,Singapore,1
+UNKNOWN,marriott,Phnom Penh,2
+UNKNOWN,marriott,Siem Reap,2
+UNKNOWN,maserati,PHOM PENH,1
+UNKNOWN,moneygram,PREAH VIHEAR,19
+UNKNOWN,moneygram,TAKEO,27
+UNKNOWN,moneygram,PHNOM PENH,148
+UNKNOWN,moneygram,KANDAL,58
+UNKNOWN,moneygram,KAMPONG SPEU,20
+UNKNOWN,moneygram,TBONG KHMUM,2
+UNKNOWN,moneygram,THMA KOUL,8
+UNKNOWN,moneygram,BATTAMBANG,88
+UNKNOWN,moneygram,KAMPONG CHAM,83
+UNKNOWN,moneygram,VEAL VENG,1
+UNKNOWN,moneygram,PREY CHHOR,36
+UNKNOWN,moneygram,STUENG TRAENG,15
+UNKNOWN,moneygram,PONHEA KRAEK,33
+UNKNOWN,moneygram,O RAING OV O,1
+UNKNOWN,moneygram,O RAING OV,1
+UNKNOWN,moneygram,STUNG TRENG,6
+UNKNOWN,moneygram,KAMPONG SIEM DISTRICT,1
+UNKNOWN,moneygram,OU REANG OV,11
+UNKNOWN,moneygram,DAMBAE,14
+UNKNOWN,moneygram,KOH KONG,7
+UNKNOWN,moneygram,RUESSEI KAEV,4
+UNKNOWN,moneygram,RUSSEY KEO,92
+UNKNOWN,moneygram,CHAMKAR MON,117
+UNKNOWN,moneygram,CHAMPONG CHAM,1
+UNKNOWN,moneygram,TUOL KOUK,124
+UNKNOWN,moneygram,BANTEAY MEANCHEY,36
+UNKNOWN,moneygram,PREY VENG,31
+UNKNOWN,moneygram,PURSAT,30
+UNKNOWN,moneygram,SIEM REAP,132
+UNKNOWN,moneygram,KOMPONG THOM,1
+UNKNOWN,moneygram,STOUNG,30
+UNKNOWN,moneygram,KAMPOT,31
+UNKNOWN,moneygram,PROVINCE,1
+UNKNOWN,moneygram,KAMPONG THOM,37
+UNKNOWN,moneygram,THBONG KHMUM,28
+UNKNOWN,moneygram,KAMPONG CHHNANG,25
+UNKNOWN,moneygram,SVAY RIENG,29
+UNKNOWN,moneygram,PAILLIN,4
+UNKNOWN,moneygram,RATANAKIRI,3
+UNKNOWN,moneygram,STEUNG TRENG,2
+UNKNOWN,moneygram,KRATIE,12
+UNKNOWN,moneygram,BAVET,15
+UNKNOWN,moneygram,SOUTR NIKOM,9
+UNKNOWN,moneygram,PONHEA LUEU,27
+UNKNOWN,moneygram,PUR SENCHEY,189
+UNKNOWN,moneygram,PRAEK PNOV,23
+UNKNOWN,moneygram,PREAH SDACH,30
+UNKNOWN,moneygram,CHBAR AMPOV,64
+UNKNOWN,moneygram,SAMRAONG (OMC),4
+UNKNOWN,moneygram,MEAN CHEY,114
+UNKNOWN,moneygram,CHI KRAENG,16
+UNKNOWN,moneygram,DOUN PENH,66
+UNKNOWN,moneygram,TA KHMAU,55
+UNKNOWN,moneygram,PRAMPIR MEAKKAKRA,44
+UNKNOWN,moneygram,ANGKOR CHUM,3
+UNKNOWN,moneygram,KAMPONG SVAY,27
+UNKNOWN,moneygram,SITHOR KANDAL,10
+UNKNOWN,moneygram,DANGKAO,55
+UNKNOWN,moneygram,MONDULKIRI,4
+UNKNOWN,moneygram,MEMOT,19
+UNKNOWN,moneygram,ROMEAS HAEK,12
+UNKNOWN,moneygram,KAEV SEIMA,2
+UNKNOWN,moneygram,SVAY ANTOR,24
+UNKNOWN,moneygram,PEAREANG,22
+UNKNOWN,moneygram,SAEN SOKH,103
+UNKNOWN,moneygram,MUKH KAMPUL,31
+UNKNOWN,moneygram,THMA PUOK,5
+UNKNOWN,moneygram,ANGKOR THUM,2
+UNKNOWN,moneygram,PEAM CHOR,15
+UNKNOWN,moneygram,KAOH SOUTIN,15
+UNKNOWN,moneygram,KANHCHRIECH,18
+UNKNOWN,moneygram,SALA KRAU,8
+UNKNOWN,moneygram,CHRAOY CHONGVAR,26
+UNKNOWN,moneygram,ME SANG,29
+UNKNOWN,moneygram,CHAMKAR LEU,36
+UNKNOWN,moneygram,BA PHNUM,19
+UNKNOWN,moneygram,SVAY LEU,4
+UNKNOWN,moneygram,SEREI SAOPHOAN,18
+UNKNOWN,moneygram,BAVEL,6
+UNKNOWN,moneygram,KRACHEH,12
+UNKNOWN,moneygram,SAMEAKKI MEAN CHEY,5
+UNKNOWN,moneygram,S'ANG,57
+UNKNOWN,moneygram,BAN LUNG,12
+UNKNOWN,moneygram,PAOY PAET,43
+UNKNOWN,moneygram,PEAM RO,21
+UNKNOWN,moneygram,BARAY,52
+UNKNOWN,moneygram,MONGKOL BOREI,10
+UNKNOWN,moneygram,SANTUK,29
+UNKNOWN,moneygram,TUEK PHOS,9
+UNKNOWN,moneygram,PRASAT BALLANGK,22
+UNKNOWN,moneygram,KAMPONG TRALACH,14
+UNKNOWN,moneygram,PAILIN,8
+UNKNOWN,moneygram,PHNUM KRAVANH,5
+UNKNOWN,moneygram,CHOAM KSANT,12
+UNKNOWN,moneygram,CHOL KIRI,2
+UNKNOWN,moneygram,KHSACH KANDAL,42
+UNKNOWN,moneygram,VEAL VEAENG,4
+UNKNOWN,moneygram,PRASAT SAMBOUR,8
+UNKNOWN,moneygram,KIEN SVAY,33
+UNKNOWN,moneygram,STUENG SAEN,31
+UNKNOWN,moneygram,BAKAN,19
+UNKNOWN,moneygram,SAEN MONOUROM,8
+UNKNOWN,moneygram,OU CHROV,4
+UNKNOWN,moneygram,KAMCHAY MEAR,22
+UNKNOWN,moneygram,KAMPONG LEAENG,4
+UNKNOWN,moneygram,LEUK DAEK,14
+UNKNOWN,moneygram,LVEA AEM,17
+UNKNOWN,moneygram,KRAKOR,9
+UNKNOWN,moneygram,ANGK SNUOL,60
+UNKNOWN,moneygram,PREY VEAENG,1
+UNKNOWN,moneygram,KANG MEAS,29
+UNKNOWN,moneygram,SNUOL,20
+UNKNOWN,moneygram,SRAE AMBEL,7
+UNKNOWN,moneygram,SREI SNAM,2
+UNKNOWN,moneygram,BATI,31
+UNKNOWN,moneygram,BANTEAY SREI,4
+UNKNOWN,moneygram,SVAY REANG,3
+UNKNOWN,moneygram,PREAH SIHANOUK,54
+UNKNOWN,moneygram,DOUN KAEV,26
+UNKNOWN,moneygram,CHHAEB,1
+UNKNOWN,moneygram,PREY NOB,24
+UNKNOWN,moneygram,SAMRAONG TONG,17
+UNKNOWN,moneygram,KULEAEN,5
+UNKNOWN,moneygram,CHBAR MON,22
+UNKNOWN,moneygram,KONG PISEI,11
+UNKNOWN,moneygram,TUEK CHHOU,13
+UNKNOWN,moneygram,ODONGK,19
+UNKNOWN,moneygram,TRAM KAK,41
+UNKNOWN,moneygram,PHNUM SRUOCH,22
+UNKNOWN,moneygram,KAMPONG SIEM,27
+UNKNOWN,moneygram,KIRI VONG,27
+UNKNOWN,moneygram,KAMPONG TRACH,15
+UNKNOWN,moneygram,BASEDTH,18
+UNKNOWN,moneygram,KEP,7
+UNKNOWN,moneygram,SANGKUM THMEI,1
+UNKNOWN,moneygram,ANLONG VEAENG,12
+UNKNOWN,moneygram,SUONG,13
+UNKNOWN,moneygram,OU YA DAV,2
+UNKNOWN,moneygram,THPONG,6
+UNKNOWN,moneygram,PRASAT BAKONG,6
+UNKNOWN,moneygram,TRAPEANG PRASAT,11
+UNKNOWN,moneygram,BANTEAY MEAS,9
+UNKNOWN,moneygram,PREY KABBAS,24
+UNKNOWN,moneygram,MOUNG RUESSEI,9
+UNKNOWN,moneygram,SVAY CHEK,2
+UNKNOWN,moneygram,CHEUNG PREY,24
+UNKNOWN,moneygram,CHUM KIRI,5
+UNKNOWN,moneygram,KANDIENG,2
+UNKNOWN,moneygram,SENMONOROM,1
+UNKNOWN,moneygram,SAM RORNG,1
+UNKNOWN,moneygram,ANGKOR BOREI,13
+UNKNOWN,moneygram,KAOH THUM,30
+UNKNOWN,moneygram,SAMRAONG,30
+UNKNOWN,moneygram,BATHEAY,41
+UNKNOWN,moneygram,STUENG TRANG,24
+UNKNOWN,moneygram,BOUREI CHOLSAR,8
+UNKNOWN,moneygram,KANDAL STEUNG,27
+UNKNOWN,moneygram,SREI SANTHOR,25
+UNKNOWN,moneygram,KAOH ANDAET,13
+UNKNOWN,moneygram,TREANG,32
+UNKNOWN,moneygram,SANDAN,18
+UNKNOWN,moneygram,KAMPONG TRABAEK,27
+UNKNOWN,moneygram,PUR RIENG,11
+UNKNOWN,moneygram,KAMRIENG,11
+UNKNOWN,moneygram,SAMPOV LUN,5
+UNKNOWN,moneygram,KHEMARA PHOUMIN,8
+UNKNOWN,moneygram,KROUCH CHHMAR,13
+UNKNOWN,moneygram,KAOH KONG,1
+UNKNOWN,moneygram,MALAI,3
+UNKNOWN,moneygram,BOENG KENG KANG,6
+UNKNOWN,moneygram,STUENG HAV,6
+UNKNOWN,moneygram,TBAENG MEAN CHEY,3
+UNKNOWN,moneygram,PREK PRASAB,9
+UNKNOWN,moneygram,SAMLOUT,6
+UNKNOWN,moneygram,ROTONAK MONDOL,8
+UNKNOWN,moneygram,PHNUM PROEK,7
+UNKNOWN,moneygram,BARIBOUR,5
+UNKNOWN,moneygram,CHHUK,16
+UNKNOWN,moneygram,OU CHUM,2
+UNKNOWN,moneygram,SIEM BOUK,2
+UNKNOWN,moneygram,PREAH NETR PREAH,4
+UNKNOWN,moneygram,DANG TONG,8
+UNKNOWN,moneygram,ANGKOR CHEY,10
+UNKNOWN,moneygram,CHHLOUNG,9
+UNKNOWN,moneygram,PUOK,10
+UNKNOWN,moneygram,AORAL,3
+UNKNOWN,moneygram,MONDOL SEIMA,6
+UNKNOWN,moneygram,AEK PHNUM,8
+UNKNOWN,moneygram,SVAY CHRUM,12
+UNKNOWN,moneygram,PECH CHREADA,3
+UNKNOWN,moneygram,BANAN,9
+UNKNOWN,moneygram,BAR KAEV,5
+UNKNOWN,moneygram,SAMBOUR,7
+UNKNOWN,moneygram,ROVIENG,7
+UNKNOWN,moneygram,KOAH KRALA,3
+UNKNOWN,moneygram,KAOH NHEAEK,4
+UNKNOWN,moneygram,SVAY TEAB,5
+UNKNOWN,moneygram,ROLEA B'IER,6
+UNKNOWN,moneygram,RUMDUOL,5
+UNKNOWN,moneygram,KAMPONG SEILA,5
+UNKNOWN,moneygram,KRALANH,3
+UNKNOWN,moneygram,KIRI SAKOR,4
+UNKNOWN,moneygram,SANGKAE,4
+UNKNOWN,moneygram,ANDOUNG MEAS,3
+UNKNOWN,moneygram,RUKH KIRI,4
+UNKNOWN,moneygram,CHEY SAEN,1
+UNKNOWN,moneygram,KAMPONG ROU,4
+UNKNOWN,moneygram,PHNUM SROK,2
+UNKNOWN,moneygram,VARIN,3
+UNKNOWN,moneygram,KOUN MOM,2
+UNKNOWN,moneygram,BANTEAY AMPIL,2
+UNKNOWN,moneygram,KAMBOUL,2
+UNKNOWN,moneygram,BOTUM SAKOR,4
+UNKNOWN,moneygram,CHETR BOREI,2
+UNKNOWN,moneygram,THALA BARIVAT,1
+UNKNOWN,moneygram,CHANTREA,1
+UNKNOWN,moneygram,LUMPHAT,1
+UNKNOWN,moneygram,DAMNAK CHANG'AEUR,2
+UNKNOWN,moneygram,SESAN,1
+UNKNOWN,moneygram,SEN MONOROM,1
+UNKNOWN,moneygram,KOMPONG SIEM,1
+UNKNOWN,moneygram,KRONG PAILIN,1
+UNKNOWN,moneygram,ODDAR MEANCHEY,2
+UNKNOWN,moneygram,TBOUNG KHMUM,14
+UNKNOWN,moneygram,RATTANAKIRI,3
+UNKNOWN,moneygram,OTDAR MEANCHEY,6
+UNKNOWN,moneygram,SIHANOUK,4
+UNKNOWN,moneygram,PHNOM  PENH,1
+UNKNOWN,moneygram,KEP PROVINCE,1
+UNKNOWN,moneygram,KAMPOT PROVINCIAL,1
+UNKNOWN,moneygram,SEIM REAP,3
+UNKNOWN,moneygram,RATANAK KIRI,2
+UNKNOWN,moneygram,ANGK SNOUL,2
+UNKNOWN,moneygram,POIPET,1
+UNKNOWN,moneygram,SISOPHON,1
+UNKNOWN,moneygram,KAMPONG SAOM,1
+UNKNOWN,moneygram,POUTHISAT,1
+UNKNOWN,moneygram,KRANG TEH,1
+UNKNOWN,moneygram,KOMPONG CHAM,1
+UNKNOWN,moneygram,STEUNG SEN,1
+UNKNOWN,moneygram,KOMPONG SPEU,1
+UNKNOWN,moneygram,CHANPONG CHHNANG,1
+UNKNOWN,moneygram,SIHAKNOUK VILLE,1
+UNKNOWN,moneygram,KAMPONGSOAM,1
+UNKNOWN,ovs,Phnom Penh,1
+KHANCHAMKAMORN,superdry,Phnom Penh Sangkat Tonle Bassac,1
+KHANSENSOK,superdry,Phnom Penh Thmei,1
+UNKNOWN,totalenergies,PHNOM PENH,70
+UNKNOWN,totalenergies,TAKEO,3
+UNKNOWN,totalenergies,KAMPONG SOM,4
+UNKNOWN,totalenergies,KANDAL,6
+UNKNOWN,totalenergies,KAMPONG THOM,3
+UNKNOWN,totalenergies,KAMPONG CHAM,5
+UNKNOWN,totalenergies,SKUN,1
+UNKNOWN,totalenergies,SVAY RIENG,2
+UNKNOWN,totalenergies,KAMPONG CHHNANG,2
+UNKNOWN,totalenergies,BATTAMBANG,3
+UNKNOWN,totalenergies,KRATIE,2
+UNKNOWN,totalenergies,KOH KONG,1
+UNKNOWN,totalenergies,KAMPOT,2
+UNKNOWN,totalenergies,SIEM REAP,4
+UNKNOWN,totalenergies,PREY VENG,2
+UNKNOWN,totalenergies,BANTEAY MEANCHEY,1
+UNKNOWN,totalenergies,POI PET,1
+UNKNOWN,totalenergies,ODDOR MEANCHEY,1
+UNKNOWN,totalenergies,RATTANAKIRI,1
+UNKNOWN,totalenergies,PURSAT,2
+UNKNOWN,totalenergies,MONDULKIRI,1
+UNKNOWN,totalenergies,KAMPONG SPEU,1
+UNKNOWN,totalenergies,KEP,1
+UNKNOWN,totalenergies,PAILIN,1
+UNKNOWN,totalenergies,PREAH VIHEAR,1
+UNKNOWN,totalenergies,THBONG KHMOM,1
+PHNOMPENH,visa,PHNOM PENH,192
+UNKNOWN,visa,BATTAMBANG PROVINCE,4
+UNKNOWN,visa,RATTANAKIRI PROVINCE,2
+UNKNOWN,visa,PURSAT PROVINCE,3
+UNKNOWN,visa,PREAH VIHEAR PROVINCE,1
+UNKNOWN,visa,KAMPOT PROVINCE,3
+UNKNOWN,visa,BANTEAY MEANCHEY PROVINCE,3
+UNKNOWN,visa,KAMPONG CHHANG PROVINCE,1
+UNKNOWN,visa,KAMPONG CHHNANG PROVINCE,1
+UNKNOWN,visa,TAKEO PROVINCE,4
+UNKNOWN,visa,SIEM REAP PROVINCE,7
+UNKNOWN,visa,KOH KONG PROVINCE,2
+UNKNOWN,visa,KAMPONG CHAM PROVINCE,9
+BATTAMBANG,visa,BATTAMBANG,15
+BANTEAYMEANCHEY,visa,BANTEAY MEANCHEY,6
+UNKNOWN,visa,POAY PET,1
+UNKNOWN,visa,PAILIN PROVINCE,1
+PAILIN,visa,PAILIN,1
+UNKNOWN,visa,BANTEAYMEANCHEY,1
+UNKNOWN,visa,PHNOM PENH,228
+UNKNOWN,visa,BANTEAY MEAN CHEY,1
+KH,visa,BANTEAY MEANCHEY PROVINCE,1
+UNKNOWN,visa,BANTEAY MEANCHEY,1
+KOHKONG,visa,KOH KONG,2
+KH,visa,KOH KONG PROVINCE,1
+UNKNOWN,visa,BATTAMBANG,7
+UNKNOWN,visa,BATTOMBONG,2
+KH,visa,BATTAMBANG PROVINCE,1
+SIEMREAP,visa,SIEM REAP,34
+UNKNOWN,visa,BANTEAY MEANCHAY,1
+ODDORMEANCHEY,visa,ODDOR MEANCHEY,3
+UNKNOWN,visa,OTDAR MEANCHEY PROVINCE,2
+UNKNOWN,visa,KAMPONG SAOM,3
+SHV,visa,SIHANOUK VILLE,8
+UNKNOWN,visa,SIHANOUKVILLE,1
+UNKNOWN,visa,SIHANOUK VILLE,12
+UNKNOWN,visa,SIHANOUK VILL,1
+SIHANOUK,visa,SIHANOUK,6
+SIHANOUKVILLE,visa,SIHANOUK VILLE,4
+SHV,visa,SIHANOUK,1
+UNKNOWN,visa,SIHANOUKVILLE PROVINCE,2
+SIEMREAP,visa,SIEMREAP,15
+PURSAT,visa,PURSAT,3
+UNKNOWN,visa,SIEM REAP,84
+SIEMREAP,visa,PHNOM PENH,1
+SR,visa,SIEM REAP,3
+KH,visa,SIEM REAP PROVINCE,1
+UNKNOWN,visa,PURSAT,1
+UNKNOWN,visa,KOMPOT,5
+KAMPOT,visa,KAMPOT,7
+KAMPONGSPEU,visa,KAMPONG SPEU,9
+UNKNOWN,visa,KAMPONG THOM PROVINCE,2
+UNKNOWN,visa,KEP,2
+KEP,visa,KEP,1
+KAMPONGCHHNANG,visa,KAMPONG CHHNANG,1
+KAMPONGTHOM,visa,KAMPONG THOM,8
+KAMPONGCHHANG,visa,KAMPONG CHHANG,3
+UNKNOWN,visa,KAMPONG SPEU PROVINCE,4
+KH,visa,KAMPONG SPEU PROVINCE,2
+UNKNOWN,visa,KOMPONG SPUE,1
+PREAHVIHEA,visa,PREAH VIHEA,3
+UNKNOWN,visa,KOMPONG CHHANG,1
+KANDAL,visa,KANDAL,18
+TAKEO,visa,TAKEO,6
+UNKNOWN,visa,PREY VENG PROVINCE,3
+UNKNOWN,visa,KANDAL PROVINCE,9
+UNKNOWN,visa,TAKEO,3
+UNKNOWN,visa,KANDAL STUENG,1
+UNKNOWN,visa,KOMPONG THOM,1
+KH,visa,KAMPONG THOM PROVINCE,1
+UNKNOWN,visa,PNOMPENH,14
+KH,visa,PHNOM PHEN,14
+PP,visa,PHNOM PENH,31
+UNKNOWN,visa,PHNON PENH,1
+KH,visa,PHNOM PENH,5
+KH,visa,PREAH SIHANOUK PROVINCE,1
+PHOMPENH,visa,PHNOM PENH,1
+UNKNOWN,visa,SHIHANOUKVILE,1
+KAMPONGCHAM,visa,KAMPONG CHAM,12
+UNKNOWN,visa,KHAN CHAMKAMON,1
+UNKNOWN,visa,KHAN DAUN PENH,1
+PHNOMPENH,visa,PHNOME PENH,1
+UNKNOWN,visa,KHAN MEANCHEY,1
+UNKNOWN,visa,TAKHMAO,1
+KD,visa,KANDAL PROVINCE,2
+UNKNOWN,visa,KANDAL,1
+KH,visa,KANDAL PROVINCE,1
+UNKNOWN,visa,KAMPOT,1
+PREYVENG,visa,PREY VENG,9
+UNKNOWN,visa,PEAM RO,1
+UNKNOWN,visa,PREY VENG,1
+KH,visa,KAMPONG CHAM PROVINCE,1
+UNKNOWN,visa,KAMPONG CHAM,1
+UNKNOWN,visa,KOMPONG CHAM,3
+UNKNOWN,visa,TABONG KHUM,1
+KAMPONGCHAM,visa,KAMPONGCHAM,1
+UNKNOWN,visa,KAMPONGCHAM,1
+UNKNOWN,visa,SIHANOUK PROVINCE,2
+TBOUNGKHMUM,visa,TBOUNG KHMUM,5
+UNKNOWN,visa,TBONG KHMOM,1
+KH,visa,TBONG KHMUM​ PROVINCE,1
+SVAYRIENG,visa,SVAY RIENG,5
+UNKNOWN,visa,"TAKHMAO, KANDAL",1
+UNKNOWN,visa,SVAY RIENG,2
+UNKNOWN,visa,SVAY RIENG PROVINCE,2
+KH,visa,STUNG TRENG PROVINCE,1
+STUNGTRAENG,visa,STUNG TRAENG,1
+UNKNOWN,visa,STUNG TRENG PROVINCE,1
+KRATIE,visa,KRATIE,3
+UNKNOWN,visa,KRATIE PROVINCE,1
+UNKNOWN,visa,KRATIE,1
+RATANAKKIRI,visa,RATANAK KIRI,4
+MONDULKIRI,visa,MONDUL KIRI,2
+KH,visa,MONDUL KIRI PROVINCE,1
+UNKNOWN,visa,MONDULKIRI PROVINCE,1
+ODDARMEANCHEY,western_union,Krong Samrong,7
+PURSAT,western_union,Kandieng,1
+KAMPONGCHHNANG,western_union,Kampong Leaeng,1
+KAMPONGCHHNANG,western_union,Chul Kiri,1
+KANDAL,western_union,Krong Ta Khmao,19
+KRATIE,western_union,Prek Prasob,3
+KRATIE,western_union,Snuol,5
+BATTAMBANG,western_union,Samlot,7
+BATTAMBANG,western_union,Banan,3
+KAMPOT,western_union,Chhouk,4
+BATTAMBANG,western_union,Ratanak Mondul,5
+PHNOMPENH,western_union,Sen Sok,33
+KAMPOT,western_union,Banteay Meas,3
+KAMPOT,western_union,Krong Kampot,5
+BATTAMBANG,western_union,Thmar Koul,6
+STUNGTRENG,western_union,Krong Stung Treng,2
+KAMPONGTHOM,western_union,Baray,4
+KRATIE,western_union,Chhloung,2
+PONGTUEK,western_union,Damnak Ampil,1
+PREYTOTUENG,western_union,Chrey Vien,1
+KAMPONGCHAM,western_union,Srey Santhor,1
+RUESSEISLAB,western_union,Chrey,1
+KAMPONGTRACH,western_union,Kampong Trach,3
+TUOLSAMA,western_union,Kamboul,1
+CHROUYDANG,western_union,Samraong Thum,1
+TANUON,western_union,Kamboul,1
+THOMMEAKTRAI,western_union,Phsar Daek,1
+KAMBOUL,western_union,Kamboul,2
+PREAEKTAMEAK,western_union,Preaek Ta Meak,3
+KRAOM,western_union,Preaek Anhchanh,2
+PHUM1,western_union,Boeng Proluet,1
+PREYRUENG,western_union,Snaor,1
+SVAYAMPEAR,western_union,Svay Ampear,1
+PHLANG,western_union,Snaor,1
+LVEASARKRAOM,western_union,Lvea Sar,1
+SRAEAMPIL,western_union,Snaor,1
+LEKHBUON,western_union,Svay Rolum,2
+KAOHKOU,western_union,Prey Kokir,1
+PRATEAHLANG,western_union,Prateah Lang,2
+PREAEKBAK,western_union,Preaek Tonloab,1
+BOENGTHUMTIBEI,western_union,Boeng Thum,3
+POPEALKHAE2,western_union,Dei Edth,1
+KOUKKHSACH,western_union,Prateah Lang,1
+TRAPEANGCHHUK,western_union,Rumchek,1
+TUOLSVAY,western_union,Boeng Thum,1
+CHIKDEI,western_union,Andoung Trabaek,2
+PREYKEI,western_union,Phleung Chheh Roteh,1
+KRANG,western_union,Theay,1
+TANAENG,western_union,Sangkae,1
+TUOLKEI,western_union,Phleung Chheh Roteh,3
+KAMRIENG,western_union,Prey Veaeng,2
+LAEDTH,western_union,Preaek Dambang,2
+PREYKEIKA,western_union,Pong Tuek,3
+ROUNG,western_union,Cham,1
+KANDAL,western_union,Sa Ang,4
+KHVA,western_union,Dangkao,3
+TANU,western_union,Chambak,1
+THMEI,western_union,Dangkao,6
+PREAEKTOUCH,western_union,Preaek Tonloab,2
+KANDAOK,western_union,Kandaok,1
+THOMMEAKTRAI,western_union,Prey Sa,2
+PRAKAR,western_union,Prey Sa,8
+POUMIEV,western_union,Kokir Thum,1
+SAMREAB,western_union,Prey Pnov,1
+PHNOMPENH,western_union,Khan Dong Kao,1
+KAMRAOL,western_union,Sena Reach Otdam,1
+PREAEKTAKOV,western_union,Preaek Ta Kov,1
+TRAPEANGKOL,western_union,Kantaok,8
+PREYTOTUENG,western_union,Trapeang Veaeng,3
+MOL,western_union,Dangkao,6
+CHAK,western_union,Kampong Chak,3
+PREYBOENG,western_union,Kantaok,2
+TASEK,western_union,Kamboul,3
+TAHUY,western_union,Kampong Prasat,2
+PHNUMSROV,western_union,Reach Montir,1
+KANDAL,western_union,Roluos,4
+CHAMBAK,western_union,Chek,1
+SREISNAM,western_union,Preaek Kampues,3
+PEAM,western_union,Sambuor Meas,1
+THMASA,western_union,Chi Phoch,1
+PREAEKROTEANG,western_union,Preaek Kampues,1
+CHHEUTEAL,western_union,Doung,1
+CHANRAKHA,western_union,Spueu Kha,1
+PREAEKKAMPUES,western_union,Preaek Kampues,1
+MEUNTRA,western_union,Spean Thma,1
+KHNANGCHRUKKHANGLECH,western_union,Trapeang Sdau,1
+PHNOMPENH,western_union,Chamkar Morn,9
+BANTEAYMEANCHEY,western_union,Krong Paoy Paet,18
+PREYPRANG,western_union,Spueu Kha,1
+CHAMKARDOUNG,western_union,Prey Vihear,1
+TAPAONG,western_union,Thma Pun,1
+KAMPONGKRABAU,western_union,Kampong Krabau,1
+SVAYRIENG,western_union,Krong Svay Rieng,2
+PREYVENG,western_union,Kampong Trabaek,1
+KANDAL,western_union,Sa'ang,5
+TAKEO,western_union,Prey Kabbas,3
+PHNOMPENH,western_union,Kamboul,17
+SRAEPOKTHUM,western_union,Serei Mongkol,1
+RATANAKIRI,western_union,Ratanakiri,25
+PHUMBEI,western_union,Trapeang Chres,4
+PHUMMUOY,western_union,Srae Angkrorng,2
+DEIEDTHKAOHPHOS2,western_union,Dei Edth,1
+PHUMBEI,western_union,Trapeang Kraham,2
+PHUMPIR,western_union,Srae Angkrorng,1
+SVAYKUN,western_union,Chrey,1
+PHUMBUON,western_union,Trapeang Chres,1
+SIEM,western_union,Sdau Kaong,1
+KRAHUNG,western_union,Chhuk,1
+KANDAL,western_union,Samraong,1
+SVAYANAT,western_union,Nhor,3
+PREYPOK,western_union,Dang Tong,1
+NIMITTMUOY,western_union,Nimitt,2
+KAMPOT,western_union,Kampot,36
+KAOHCHHVEANG,western_union,Svay Tong Khang Tboung,1
+PREYPOPEL,western_union,Peuk,1
+PONGRO,western_union,Banteay Neang,1
+KOYMAENG,western_union,Koy Maeng,1
+BANTEAYMEANCHEY,western_union,Mongkol Borey,3
+CHEUNGTIEN,western_union,Cheung Tien,1
+SVAYCHRUM,western_union,Preaek Dambang,1
+CHONGSUONG,western_union,Phnom Prasat,1
+SVAYRIENG,western_union,Svayrieng,7
+KAOHTRACH,western_union,Svay Tong Khang Tboung,1
+PREYVENG,western_union,Prey Veng,67
+SISLA,western_union,Thlea Prachum,1
+PHNUMLONTEAH,western_union,Angk Prasat,1
+KRASANGLEU,western_union,Banteay Meas Khang Kaeut,1
+AMPOVPREY,western_union,Chambak,1
+STUENG,western_union,Bakong,1
+TNAOTCHRUM,western_union,Boeng Tumpun 2,4
+PHNOMPENH,western_union,Phnom Penh,821
+CHAMPUHKAEK,western_union,Preaek Thmei,1
+RUESSEI3,western_union,Stueng Mean Chey 2,1
+TRAPEANGTHUM,western_union,Mean Chey,1
+KAMPONGSPEU,western_union,Kampong Speu,77
+THONMONKHANGTBOUNG,western_union,Baray,1
+OUPOK,western_union,Koun Kriel,1
+ODDARMEANCHEY,western_union,Oddarmeanchey,4
+ODDARMEANCHEY,western_union,Otdar Meanchey,4
+PURSAT,western_union,Pursat,60
+KHNOY,western_union,Ta Kao,1
+KROUCHCHHMAR,western_union,Leach,1
+KRANHUNG,western_union,Pou Angkrang,1
+KETTEYOS,western_union,Prey Chruk,1
+KAMPONGKDEI,western_union,Rumlech,1
+OUTAPAONG,western_union,Ou Ta Paong,2
+KRAPEUHAKOUT,western_union,Prek Ruessey,1
+KSETRBOUREI,western_union,Santreae,1
+KAMPONGSPEU,western_union,Borseth,2
+SDOKKHLOUK,western_union,Ou Ta Paong,1
+DAEUMCHRES,western_union,Boeng Khnar,2
+TRAPEANGSMACH,western_union,Andoung Trabaek,1
+TUOL,western_union,Ponsang,1
+PREYTAPRUM,western_union,Preal,1
+ODDARMEANCHEY,western_union,Oudor Meanchey,7
+PREYSRALAENG,western_union,Tuol Ampil,1
+TABOEB,western_union,Bavet,3
+CHAMKARCHEK,western_union,Ou Smach,2
+DERMCHREY,western_union,Ou Smach,1
+PHNOMPENH,western_union,Boeng Keng Kang,15
+TRAPEANGKHYANG,western_union,Tuol Ampil,1
+PREAEKPHUM,western_union,Chrouy Ta Kaev,1
+KANDALKAOHTHUM,western_union,Kaoh Thum Ka,1
+KABSROVTOUCH,western_union,Kouk Roka,1
+PREYPHKOAMKA,western_union,Prey Phkoam,2
+TAKEO,western_union,Takeo,56
+SAMRAONG,western_union,Snam Krapeu,1
+BOENGKHYANG,western_union,Boeng Khyang,2
+CHAMKARCHEK,western_union,Slaeng Spean,1
+CHHKAELUNG,western_union,Phnum Bat,1
+SRAHMKAK,western_union,Ou Ta Paong,1
+TRAPEANGBON,western_union,Prey Kokir,1
+PHSARANDAET,western_union,Ou Ta Paong,1
+MREAMKHANGCHEUNG,western_union,Mream,1
+DAMNAKTHNONG,western_union,Khnar Totueng,1
+POUTHMEI,western_union,Svay Ta Yean,1
+OUSRAV,western_union,Prongil,1
+KANHCHAMKOR,western_union,Kanhcham,1
+REUL,western_union,Krouch Kor,1
+PHNUMBOUREI,western_union,Preaek Phtoul,1
+PRADAK,western_union,Prey Chruk,1
+KIRIVOANT,western_union,Koun Kriel,2
+YEANG,western_union,Yeang,1
+KROUCHSAEUCH,western_union,Puk Ruessei,1
+SASARSDAM,western_union,Sasar Sdam,1
+SIEMREAP,western_union,Siem Reap,142
+PREYPHDAU,western_union,Boeng Khnar,2
+PHUMPRAM,western_union,Preaek Khsay Kha,2
+ROUNGDAMREI,western_union,Cheung Phnum,2
+KANHCHANKUY,western_union,Yeang,1
+VIHEARSUORKCHEUNG,western_union,Vihear Suork,1
+KOUKCHHUK,western_union,Koun Kriel,1
+SIEMREAP,western_union,Siemreap,50
+KDAT,western_union,Me Tuek,2
+PREYKRALANHTHUM,western_union,Prey Sralet,1
+VOATCHREAE,western_union,Boeng Khnar,1
+BOENGKHNAR,western_union,Boeng Khnar,2
+BANGAEK,western_union,Svay Phluoh,3
+CHREYMREAK,western_union,Kouk Kong Kaeut,1
+STUENGKAMBOT,western_union,Trapeang Chorng,2
+PURSAT,western_union,Bakan,3
+PREAEKTASAOM,western_union,Ruessei Chrouy,1
+KRASANGKRUO,western_union,Boeng Khnar,1
+OURUESSEI,western_union,Bak Chenhchien,1
+KANDALLEU,western_union,Banteay Daek,3
+ORCHIDE,western_union,Ou Baek K Am,3
+KHPOBKRAOM,western_union,Khpob,1
+ANGKOR,western_union,Preaek Phtoul,1
+KAMPONGPOU,western_union,Preaek Phtoul,1
+TADAOLTIPIR,western_union,Ampov Prey,1
+SNAYTOUL,western_union,Trapeang Chorng,1
+TANGAK,western_union,Rumchek,1
+TUMNOB,western_union,Phnom Penh Thmei,3
+SVAYPAK,western_union,Prongil,1
+PREKSAMRAONG,western_union,Ta Khmau,3
+OURUMCHEK,western_union,Trapeang Chorng,1
+KBALCHAM,western_union,Char Chhuk,1
+SAMRAONG,western_union,Ponley,1
+OUBAKTRA,western_union,Prongil,1
+TAPHOUK,western_union,Prey Vihear,1
+SIEMREAP,western_union,Krong Siem Reap,22
+DABBAT,western_union,Lolok Sa,1
+KRANGKHNONG,western_union,Srang,1
+SRAETHNAL,western_union,Kandaol Dom,1
+TRAPEANGANGK,western_union,Kampeaeng,1
+KHPOBVENG,western_union,Kampong Samnanh,2
+BAEKCHAN,western_union,Baek Chan,4
+DOUNMIEV,western_union,Koul,1
+TRAPEANGCHORNG,western_union,Trapeang Chorng,1
+TRONGPHUM,western_union,Prey Phkoam,1
+TRAKIET,western_union,Mukh Paen,1
+KHNACHROMEAS,western_union,Boeng Khnar,1
+KAMPEAENG,western_union,Prongil,1
+KBALDAMREIKRAOM,western_union,Kampong Kong,1
+CHREYTHOM,western_union,Sampeou Poun,4
+TAMUNG,western_union,Kampeaeng,1
+BATTHKAO,western_union,Chong Kal,1
+PRACHUMANGK,western_union,Cheung Kaeub,1
+ANGKORPHDIEK,western_union,Chumreah Pen,1
+TAKEO,western_union,Samrong,2
+KHLONG,western_union,Char Chhuk,1
+TAPECH,western_union,Krang Yov,1
+CHAMKAROU,western_union,Trapeang Chorng,1
+KAMPONGLUONG,western_union,Angkor Borei,2
+RUNG,western_union,Boeng Khnar,1
+BOS,western_union,Me Sar Thngak,1
+PHNIET,western_union,Svay Chrum,1
+PUONKAK,western_union,Ba Srae,1
+PRAMDAMLOENG,western_union,Ta Saom,1
+CHAMBAKKAONG,western_union,Tuol Prech,1
+CHAMNAOM,western_union,Kampeaeng,1
+TUEKLICH,western_union,Skuh,1
+THNUOHTACHAB,western_union,Snam Preah,1
+TAEI,western_union,Ba Srae,1
+AMPIL,western_union,Ponley,1
+KOUKKNANG,western_union,Srae Khvav,1
+CHENTAY,western_union,Me Tuek,1
+SEDA,western_union,Vihear Suork,4
+KDEICHHNUOL,western_union,Trapeang Chorng,1
+TRAPEANGPREAH,western_union,Kandaol Dom,1
+TRAPEANGANGK,western_union,Krang Leav,1
+KANDAL,western_union,Kandal,212
+ANDOUNGKRASANG,western_union,Snam Preah,1
+BEL,western_union,Skuh,1
+KBALTHNAL,western_union,Kandieng Reay,1
+ANLONGBARANG,western_union,Roleang Kaen,1
+SREIKRONGREACH,western_union,Krang Leav,1
+KHTUMKRANG,western_union,Chbar Mon,1
+SAY,western_union,Prongil,2
+TAPOV,western_union,Bavet,2
+POUMONGKOL,western_union,Preaek Ta Teaen,1
+KOUKPHLUK,western_union,Koun Kriel,1
+PREYSLOEK,western_union,Chbar Mon,1
+TRAMSEH,western_union,Boeng Bat Kandaol,1
+THNALBAMBAEK,western_union,Svay Kravan,1
+PREYTBAL,western_union,Chong Ampil,1
+SDOKSVAY,western_union,Snam Preah,1
+RUMDUOLTHMEI,western_union,Doun Peng,1
+SAMEAKKI,western_union,Svay Phluoh,1
+SVAYKRAVAN,western_union,Svay Kravan,2
+TUOLTHMEA,western_union,Boeng Bat Kandaol,1
+ANGKSEREI,western_union,Phnum Bat,1
+KAMPONGSPEU,western_union,Krong Chbar Morn,3
+CHAMKARDOUNG,western_union,Chbar Mon,1
+TUOLCHREY,western_union,Ampil Krau,1
+VOATLUONG,western_union,Lolok Sa,1
+PRING,western_union,Angkanh,1
+PEANROUNG,western_union,Pean Roung,1
+PHEAEK,western_union,Srang,1
+PONLEYKHANGCHEUNG,western_union,Ponley,1
+DOUNSVA,western_union,Char Chhuk,1
+PEAMPRACHUM,western_union,Preaek Ambel,1
+BOENGPREI,western_union,Trapeang Chorng,1
+PONLEYKHANGTBOUNG,western_union,Ponley,1
+THNAL,western_union,Char Chhuk,1
+THMEI,western_union,Char Chhuk,1
+KRAOLKRABEI,western_union,Trapeang Chorng,1
+CHONGKAOHLECH,western_union,Kaoh Khsach Tonlea,1
+TRAMKHNAR,western_union,Sour Phi,3
+PHSARCHREAE,western_union,Angkanh,1
+TUOLROVIENG,western_union,Lvea,1
+CHUMPUVOAN,western_union,Tnaot,1
+ANGKKDUOCH,western_union,Prey Kokir,1
+KRANGPOLTEP,western_union,Rokar Thum,4
+SVAYKUY,western_union,Me Sar Thngak,1
+TRAPEANGTREA,western_union,Rovieng,1
+ROBANGROMEAS,western_union,Boeng Bat Kandaol,1
+TUOLPONGRO,western_union,Sithor,1
+KAROLUM,western_union,Ta Saom,1
+PHKONG,western_union,Chbar Mon,1
+SKUH,western_union,Svay Kravan,1
+KOUKTNAT,western_union,Sasar Sdam,1
+BASRAE,western_union,Ba Srae,1
+BAVETKANDAL,western_union,Bavet,8
+PREYTAMUOCH,western_union,Snam Krapeu,1
+ANGKANH,western_union,Angkanh,1
+SVAYKAE,western_union,Ta Suos,1
+PEANICHEAKKAM,western_union,Rokar Thum,6
+KRAPEUROU,western_union,Snam Preah,2
+THNALBAT,western_union,Pou Rumchak,1
+PNOV,western_union,Ta Saom,1
+KAMPONGSPEU,western_union,Korng Pisey,5
+PHSARCHAS,western_union,Svay Kravan,1
+SVAYCHRUM,western_union,Baek Chan,1
+TUOLKHMER,western_union,Snam Preah,1
+VIHEARSUORKTBOUNG,western_union,Vihear Suork,3
+RUNDAS,western_union,Srae Khvav,1
+BOREIKAMMEAKKAR,western_union,Chbar Mon,1
+KAMPONGSPEU,western_union,Kampongspeu,3
+TUOLKRUOS,western_union,Chamraeun Phal,1
+SAMALEAV,western_union,Pou Rumchak,1
+TRASSALA,western_union,Svay Kravan,2
+KRABEITRAM,western_union,Chongruk,3
+TRAMKHNAR,western_union,Snam Krapeu,1
+TUOLTHNONG,western_union,Rokar Thum,2
+PHUMMUOY,western_union,Preaek Khsay Kha,1
+TASKOR,western_union,Sarikakaev,1
+DORNGTONG,western_union,Koun Kriel,1
+SVAYTANI,western_union,Preaek Koy,1
+PREYTUMPUNGKHOR,western_union,Kanhcham,1
+LOLOKSA,western_union,Lolok Sa,1
+PREAEKTRAENG,western_union,Setbou,2
+ROKARTHUM,western_union,Rokar Thum,1
+PHEAKKEAKNES,western_union,Ta Kao,1
+CHUMROV,western_union,Tang Yab,1
+KANDAL,western_union,Koh Thom,3
+THIPAKDEI,western_union,Trei Nhoar,1
+PREYPHNHI,western_union,Prey Phdau,1
+TONLESA,western_union,Nokor Pheas,1
+SAMNANG,western_union,Rokar Thum,1
+PREYKABBASKA,western_union,Prey Kabbas,1
+TNAOTTRET,western_union,Phteah Prey,1
+SNOULKHPOS,western_union,Tang Yab,1
+PRASAT,western_union,Prasat,4
+TRAMKANG,western_union,Slaeng Spean,2
+SAMRAONG,western_union,Sour Phi,1
+TUMRUENG,western_union,Reul,1
+DONG,western_union,Prey Phdau,1
+ANGKSANGKAE,western_union,Pou Rumchak,1
+RUESSEISANH,western_union,Ruessei Sanh,2
+DOUNTRO,western_union,Lvea,1
+ANLONGMEAN,western_union,Snam Preah,1
+ANGKPRASAT,western_union,Chbar Mon,1
+KHMAR,western_union,Snam Preah,1
+THNALTOTUENG,western_union,Damnak Ampil,4
+CHUOYCHAKKREI,western_union,Trei Nhoar,1
+TRAPEANGRUESSEI,western_union,Sour Phi,1
+ROKAKHSOK,western_union,Me Bon,1
+DAMNAKSEREI,western_union,Smaong Khang Tboung,1
+RUESSEITAMAN,western_union,Boeng Bat Kandaol,1
+SVAYSOKHAO,western_union,Cheung Tuek,1
+PHNUMTOUCH,western_union,Sour Phi,1
+SNAOTIMUOY,western_union,Rokar Thum,2
+PECHSANGVAR,western_union,Chbar Mon,1
+PROLIT,western_union,Reul,1
+ANDOUNG,western_union,Krang Yov,1
+TRACHCHRUM,western_union,Sopoar Tep,1
+STUENG,western_union,Samraong Thum,2
+DANGLANG,western_union,Kaoh Chum,1
+LVEA,western_union,Lvea,7
+PREAEKTACHRUK,western_union,Preaek Koy,1
+AMPILPHAEM,western_union,Roleang Chak,1
+POUN,western_union,Tuek Thla,1
+NOKORPHEASPIR,western_union,Nokor Pheas,1
+POUTOUCH,western_union,Kampong Luong,1
+THVEAS,western_union,Trei Nhoar,1
+SAMDACHPOAN,western_union,Kdanh,1
+ROLEANGSANGKAE,western_union,Sopoar Tep,1
+KOUKANGKONG,western_union,Pou Rumchak,1
+POUTAKUOY,western_union,Lolok Sa,2
+TANON,western_union,Tnaot,1
+ANLONG,western_union,Preaek Ta Meak,2
+VOASAR,western_union,Voa Sar,1
+STHANI,western_union,Svay At,1
+PRAYUT,western_union,Puok,2
+PONTONG,western_union,Ban Kam,1
+VEYVET,western_union,Reab,2
+CHAMBAK,western_union,Voa Sar,1
+KANDAL,western_union,Svay Romiet,1
+SOURIYALEU,western_union,Roleab,1
+MONOUROM,western_union,Baek Chan,1
+PUOKTHMEI,western_union,Puok,1
+TUEKTHLA,western_union,Srae Khvav,1
+PREAEKSDEI,western_union,Lolok Sa,1
+BOENGLEACH,western_union,Chambak,1
+AMPILLECH,western_union,Char,2
+KAMPONGSPEU,western_union,Thporng,4
+KOUKRUESSEI,western_union,Kaev Poar,2
+TUOLKRANG,western_union,Krang Yov,1
+AMPIL,western_union,Samraong Yea,1
+RUESSEITHUM,western_union,Svay Sa,1
+KHPOP,western_union,Sampeou Poun,2
+RA,western_union,Phteah Prey,1
+PRASATTRAV,western_union,Kouk Doung,1
+POUTHIBAN,western_union,Pouthi Ban,2
+KRANGVICH,western_union,Kdanh,1
+ANGKTASET,western_union,Tuol Prech,1
+CHEYOUDOM,western_union,Preaek Khsay Ka,1
+CHAMKARCHEKKHANGCHEUNG,western_union,Phteah Prey,1
+PEALNHEAEKPIR,western_union,Phteah Prey,3
+KOUKSNUOL,western_union,Kouk Doung,1
+SIEMREAP,western_union,Puok,1
+LBAEUK,western_union,Nokor Pheas,1
+THLOKDOUNTUM,western_union,Ban Kam,1
+CHAMBAKHAER,western_union,Puok,3
+KBALHONG,western_union,Veal,1
+OU,western_union,Svay Sa,1
+SIEMREAP,western_union,Varin,3
+OUBAKRANGKRAOM,western_union,Banteay Dei,1
+TRAMPEAER,western_union,Snam Preah,1
+TAKEO,western_union,Bati,5
+ROHAL,western_union,Doun Kaev,1
+PREYLVEALECH,western_union,Prey Lvea,2
+LVEATNAOT,western_union,Prey Lvea,1
+CHAMREH,western_union,Srae Sdok,1
+TRAPEANGREANG,western_union,Snao,1
+PREYPONGRO,western_union,Roka Kaoh,2
+PREAEKTAPRING,western_union,Setbou,1
+TUOLPONGRO,western_union,Veal,1
+KANHCHEUBAYDACH,western_union,Veal,1
+KAOHRUESSEI,western_union,Tuol Sdei,1
+SKEA,western_union,Kou Khchak,2
+LVEA,western_union,Angk Popel,1
+PREYLVEAKAEUT,western_union,Prey Lvea,1
+PEAMSALA,western_union,S Ang Phnum,1
+CHROLONG,western_union,Khnat,1
+SMAUKHNHEI,western_union,Trapeang Sab,2
+TRAPEANGSVAY,western_union,Krang Mkak,1
+BANGBAT,western_union,Char,1
+KBALHONG,western_union,Banteay Dei,1
+TRAPEANGSKON,western_union,Smaong Khang Cheung,1
+KHNAT,western_union,Khnat,1
+TRAPEANGKONG,western_union,Trapeang Kong,1
+SALAKUMRU,western_union,Prey Nhi,1
+THMEI,western_union,Tnaot,1
+KOUKDOUNGTHMEI,western_union,Kouk Doung,1
+VIEN,western_union,Prasat,1
+SRAHPOU,western_union,Phsar Daek,1
+SVAYSA,western_union,Svay Sa,1
+KAMPONGSPEU,western_union,Samrong Torng,2
+TUOLMKAK,western_union,Roleab,1
+PREAEK,western_union,Champei,1
+KANHCHANRUN,western_union,Prasat,2
+TOTEA,western_union,Krabei Riel,1
+KAMPONGSPEU,western_union,Udongk,6
+PEAM,western_union,Doun Kaev,1
+KANDOENGTHUM,western_union,Kandoeng,1
+DOUNON,western_union,Doun Kaev,1
+PREAEKTAVONG,western_union,Anlong Vil,1
+PREYMOAN,western_union,Ruessei Srok,1
+PREYMEAS,western_union,Angkor Reach,6
+TAPROY,western_union,Prey Poun,1
+DOUNAEM,western_union,Kouk Doung,2
+SRAH,western_union,Reul,1
+LBAEUK,western_union,Doun Kaev,1
+DOUNKAEV,western_union,Doun Kaev,1
+TONSAYKIECH,western_union,Daeum Rues,2
+THMEI,western_union,Tnaot Chum,2
+TUMNEABSVAY,western_union,Prasat,2
+KHNAR,western_union,Krabei Riel,1
+OUKOAL,western_union,Kouk Doung,1
+TAROS,western_union,Krabei Riel,1
+TRAPEANGTRAOK,western_union,Prambei Mum,1
+ROKA,western_union,Krabei Riel,2
+TOAPSVAY,western_union,Chob Ta Trav,1
+SRANGAE,western_union,Srangae,1
+BENG,western_union,Mkak,1
+TAKHENG,western_union,Meun Chey,1
+KANDIENG,western_union,Kandieng,1
+AOPHEASANG,western_union,Kandoeng,1
+AMPOVPREY,western_union,Kaoh Sampov,1
+PRAYUT,western_union,Tuek Vil,1
+PRATHEATKA,western_union,Preaek Sdei,1
+PREITHMEI,western_union,Tuek Vil,1
+POU,western_union,Banteay Chakrei,1
+KAOHKRASANG,western_union,Anlong Vil,1
+PREYVENG,western_union,Preyveng,3
+KAMPONGPRING,western_union,Setbou,2
+PHNOMKROM,western_union,Siemreap,1
+THMEI,western_union,Trapeang Tav,1
+PRABVOAT,western_union,Prey Puoch,2
+BOENGVEAL,western_union,Tnaot Chum,1
+OTHER,western_union,Varin,1
+YOS,western_union,Kandieng,1
+SANDAN,western_union,Tuek Vil,2
+CHONGBANGKOUL,western_union,Baek Chan,1
+SVAYCHAL,western_union,Char,1
+KBALKOHTEAV,western_union,Sampeou Poun,1
+RUESSEITOTUENG,western_union,Preah Sdach,1
+VEAL,western_union,Sngkat Sambuor,1
+TAKONG,western_union,Sngkat Sambuor,2
+TUOLSVAY,western_union,Trapeang Tav,1
+PREAEKTATON,western_union,Preah Prasab,1
+PHUMTIPIR,western_union,Chong Khnies,1
+SNAPAEK,western_union,Srayang,1
+SAMBUOR,western_union,Sngkat Sambuor,1
+KOKDONG,western_union,Tuek Vil,1
+DANGTUEKLEACH,western_union,Tnaot Chum,1
+KANDOL,western_union,Svay Chek,1
+THMEI,western_union,Ta Khmau,2
+PHEANSA,western_union,Preah Nipean,1
+LNGEUN,western_union,Kdoeang Reay,2
+THNAL,western_union,Srangae,1
+TRAPEANGAMPIL,western_union,Trapeang Kong,1
+TUOLSVAYSAENCHEY,western_union,Trapeang Tav,1
+PHNOV,western_union,Sngkat Sambuor,1
+KHVIEN,western_union,Kok Chak,1
+TAKAEVLEU,western_union,Tnaot Chum,1
+RUMDUOL,western_union,Varin,2
+HAKNUMAN,western_union,Krang Thnong,1
+KRUOS,western_union,Svay Dankum,6
+KAKSEKAM,western_union,Srangae,1
+CHUB,western_union,Chob Ta Trav,1
+TRAPEANGSVA,western_union,Trea,1
+PREAUNKNOWNEKCHREY,western_union,Prea?ek Chrey,2
+KORKSAMPHOR,western_union,Lumtong,1
+KAMRAENG,western_union,Svay Sa,1
+THLOK,western_union,Kraol Kou,2
+KHLEANGMOEUNG,western_union,Anlong Tnaot,1
+TBAENGPRACHOAB,western_union,Prambei Mum,1
+THLOKPRING,western_union,Popeaet,1
+PEAMKAOH,western_union,Peam Ro,3
+TUMNOB,western_union,Trapeang Tav,2
+VOATTRACH,western_union,Angkor Tret,1
+KRASANGROLEUNG,western_union,Siemreap,1
+PREAEKTASEK,western_union,Chrouy Ta Kaev,1
+ANLONGSLAT,western_union,Leuk Daek,1
+SUOSNEY,western_union,Cheung Roas,1
+TRAPEANGSVAY,western_union,Kouk Kong Kaeut,1
+ROKAKONG,western_union,Roka Kong Ti Muoy,1
+THMEI,western_union,Svay Dankum,2
+KHNAR,western_union,Chreav,7
+PHNHEACHEY,western_union,Svay Dankum,1
+SAMPANLEU,western_union,Preaek Ambel,1
+ARANH,western_union,Siemreap,1
+SALAKANSENG,western_union,Svay Dankum,6
+POUTI,western_union,Pou Ti,1
+VIHEARCHEN,western_union,Svay Dankum,3
+SVAYDANKUM,western_union,Svay Dankum,2
+PREYVENG,western_union,Peam Chor,1
+PREAEKCHHMUOH,western_union,Preaek Ta Sar,2
+KAMPONGSAMBUOR,western_union,Sya,1
+PURSAT,western_union,Krakor,2
+TRAPEANGKRASANG,western_union,Baek Chan,2
+KLEANGSAMBATT,western_union,Pot Sar,3
+STUENGTHMEI,western_union,Svay Dankum,1
+TAPHUL,western_union,Svay Dankum,3
+SPEANCHREAV,western_union,Siemreap,1
+KAKRANH,western_union,Siemreap,2
+POU,western_union,Chey Kampok,2
+KANDAL,western_union,Ang Snuol,9
+POUBANTEAYCHEY,western_union,Siemreap,1
+KAMPONGTHKOL,western_union,Sampeou Poun,1
+KHVANMEAS,western_union,Pot Sar,1
+ROYEAS,western_union,Chhean Laeung,2
+SANGVAR,western_union,Kampong Luong,1
+WATSVAY,western_union,Sala Kamreuk,1
+KHNAORKAR,western_union,Barong,2
+VEAL,western_union,Kok Chak,1
+MONDOL1,western_union,Svay Dankum,6
+TEAKSENKHANGTBONG,western_union,Kok Chak,1
+PEAMREANGKRAOM,western_union,Peam Reang,1
+WATDAMNAK,western_union,Sala Kamreuk,1
+KRASANGDOHLAEUNG,western_union,Kbal Tuek,1
+KHTING,western_union,Peak Snaeng,1
+PREAEKAMBEL,western_union,Preaek Ambel,1
+BOENG,western_union,Chreav,1
+TRAPEANGSES,western_union,Kok Chak,5
+AMPILLAS,western_union,Krang Yov,1
+POPEAR,western_union,Svay Thum,2
+SAMBUOR,western_union,Boeng Daol,1
+MONDOLBEI,western_union,Sla Kram,4
+CHROLONG,western_union,Prasat,1
+SALAKAMREUK,western_union,Sala Kamreuk,1
+SVAYPREY,western_union,Kandaok,1
+CHAMBAKPONNOREAY,western_union,Boeng Thum,1
+KANDAL,western_union,Kandal Stung,6
+POUTHIREAMEA,western_union,Preaek Sdei,1
+WATBO,western_union,Sala Kamreuk,5
+PRECH,western_union,Chres,2
+ANLONGSPEAN,western_union,Svay Chek,1
+TRAPEANGKRASANG,western_union,Boeng Thum,4
+BANTEAYCHAS,western_union,Sla Kram,5
+SLAKRAM,western_union,Sla Kram,2
+KRASANG,western_union,Chreav,2
+SYA,western_union,Sya,1
+TRAPEANGTRENG,western_union,Sala Kamreuk,2
+ANGKSNUOLTIBEI,western_union,Peuk,2
+PREYPUOCH,western_union,Prey Puoch,1
+BOENGSMOK,western_union,Svay Sa,1
+PREYSRALET,western_union,Prey Sralet,1
+BOENGDONPA,western_union,Sla Kram,1
+CHEYCHUMNEAH,western_union,Siem Reab,2
+PHLONG,western_union,Leang Dai,1
+SVAYPONGANGKRANG,western_union,Kaoh Anlong Chen,2
+DAKPOU,western_union,Sla Kram,7
+SAMAKIMEANCHEY,western_union,Paoy Paet,10
+TAVIEN,western_union,Sala Kamreuk,1
+SIEMREAP,western_union,Sotr Nikum,4
+PREAEKTADUONG,western_union,Preaek Thmei,1
+TRAPEANGSKON,western_union,Chi Phoch,1
+PHNOMPENH,western_union,Dangkor,26
+KOUKSROK,western_union,Varin,1
+CHONGKAOSOU,western_union,Sla Kram,3
+BOENGTHUMTIPIR,western_union,Boeng Thum,1
+TREANG,western_union,Sla Kram,1
+THMEI,western_union,Svay Ampear,2
+PREAEKBALATCHHOENG,western_union,Traeuy Sla,2
+TAKAEV,western_union,Peam,1
+OUANGKOR,western_union,Sakream,1
+TASUOS,western_union,Doung,1
+KIRIAKPIWAT,western_union,Chhean Laeung,1
+CHREAV,western_union,Chreav,1
+ROLUNG,western_union,Tuol Khpos,1
+LEU,western_union,Svay Chrum,2
+PREYSAMPOAR,western_union,Krang Pongro,1
+SIEMREAP,western_union,Angkor Thom,1
+TRAM,western_union,Tnaot Chum,1
+ROKA,western_union,Roka,2
+BOENGTHUMTIMUOY,western_union,Boeng Thum,1
+ANGKRONG,western_union,Boeng Preah,3
+BAKRONOAS,western_union,Sangkhoar,2
+KHCHAU,western_union,Boeng Thum,1
+TACHET,western_union,Boeng Thum,1
+LEANGDAI,western_union,Leang Dai,1
+SRAECHAN,western_union,Tuol Khpos,1
+ROLUOSKANDAL,western_union,Kampong Pou,1
+PEAKSNAENGTHMEI,western_union,Peak Snaeng,1
+PONHEALUEU,western_union,Ponhea Lueu,1
+LEKHPIR,western_union,Kampong Leav,1
+ROLUOSKHANGKAEUT,western_union,Kampong Pou,1
+THLOKANGDOUNG,western_union,Sla Kram,4
+BAMPENHREACH,western_union,Leang Dai,1
+PREYROMEASTIPIR,western_union,Boeng Thum,1
+CHHAKCHHEUNEANG,western_union,Chhak Chheu Neang,1
+PREYROMEASTIMUOY,western_union,Boeng Thum,1
+CHEYTOUCH,western_union,Chey Thum,1
+POUPIR,western_union,Doun Koeng,1
+PHUM5,western_union,Boeng Proluet,3
+KBALTEAHEAN,western_union,Chheu Tom,1
+TRAPEANGBOS,western_union,Andoung Pou,1
+KIRITHMEI,western_union,Samraong Leu,1
+PREAEKDACH,western_union,Preaek Dach,1
+TAHELKA,western_union,Reathor,1
+KANDAL,western_union,Chheu Tom,1
+PROHUT,western_union,Samraong,1
+KRANGDOUNG,western_union,Peam,1
+PHNOMPENH,western_union,Phnompenh,114
+STUENGSLOUT,western_union,Neak Loeang,2
+PONGTUEK,western_union,Pong Tuek,1
+SNGUONPECH,western_union,Kantaok,3
+CHREY,western_union,Kandaek,2
+KONGNOY,western_union,Kong Noy,1
+KOUKTNAOT,western_union,Kandaek,2
+MONOUROM,western_union,Monourom,1
+SANDAN,western_union,Peak Snaeng,1
+PHEA,western_union,Prateah Lang,1
+ANHCHANH,western_union,Nokor Thum,1
+KAPAS,western_union,Chheu Tom,1
+THMADA,western_union,Kantaok,4
+PHLEUNGCHHEHROTEHLECH,western_union,Phleung Chheh Roteh,2
+SRAEREAN,western_union,Svay Chrum,1
+TRAPEANGKANTUOT,western_union,Boeng Kantuot,1
+PHTEAHCHEK,western_union,Chheu Tom,1
+ROHAL,western_union,Nokor Thum,1
+SVAYCHEK,western_union,Prey Chhor,2
+KOUKHCHAK,western_union,Kou Khchak,1
+KANDALKRAOM,western_union,Banteay Daek,2
+TAHING,western_union,Preaek Dach,2
+VOATSLAENG,western_union,Pong Tuek,1
+TRAPEANGCHHUK,western_union,Kantaok,2
+KANHCHOR,western_union,Kanhchor,1
+PREYKUY,western_union,Ampil,3
+PHNOMPENH,western_union,Phmom Penh,46
+SRAEKNONG,western_union,Kantaok,1
+PHUM11,western_union,Srah Chak,1
+CHRAKKOV,western_union,Peam,1
+POUANDAET,western_union,Kanhchor,1
+POUANGKRANG,western_union,Boeng Kantuot,1
+KAMRIENG,western_union,Kantaok,1
+KOL,western_union,Kantaok,1
+PRASAT,western_union,Pouthi Reach,2
+SOKSAENCHEY,western_union,Peam,1
+KOUKTHLOK,western_union,Kandaek,1
+SRASSRANGKHANGCHEUNG,western_union,Nokor Thum,1
+KRANGKANTROUL,western_union,Peam,1
+AMPIL,western_union,Kamboul,1
+SVAYPHAEM,western_union,Svay,2
+LAK,western_union,Kandaek,1
+SRAENHOAR,western_union,Pong Tuek,1
+SVAYCHRUM,western_union,Svay Chrum,3
+KAMPONGCHHNANG,western_union,Kampong Chhnang,48
+OUACHKOK,western_union,Ou Sandan,1
+PHNOMPENH,western_union,Po Sen Chey,54
+TRAPEANGTUOL,western_union,Kamboul,3
+PREYKOD,western_union,Kamboul,2
+PREYTAPOK,western_union,Ovlaok,1
+TRAPEANGCHAK,western_union,Prey Veaeng,1
+TRAMSLOEK,western_union,Kantaok,1
+PREYKEIKHA,western_union,Pong Tuek,1
+RUESSEIPREY,western_union,Kampong Chamlang,1
+SALOUNG,western_union,Kamboul,1
+KANTAOKCHEUNG,western_union,Kantaok,8
+TRAPEANGTUNLOAB,western_union,Svay Chuk,1
+DAMREICHHLANG,western_union,S Ang Phnum,1
+PREAHTONLE,western_union,Sangkhoar,1
+KAMPONGLA,western_union,Kampong Pou,1
+SIEMREAP,western_union,Prasat Bakorng,3
+KANTAOKTBOUNG,western_union,Kantaok,1
+PREYNHEAM,western_union,Svay Chuk,1
+KABPHLUK,western_union,Phleung Chheh Roteh,1
+POUROBANG,western_union,Kampong Pou,1
+TAKE,western_union,Kamboul,1
+PREAHTHEAT,western_union,Roluos,1
+SNUOLKHPOS,western_union,Kamboul,1
+KRANGSVAY,western_union,Preaek Kampues,5
+KRANGTHUM,western_union,Ou Sandan,1
+KOMPRUM,western_union,Khun Ream,3
+ANGK,western_union,Chaom Chau 3,4
+POUMAM,western_union,Tnaot,1
+KAMPONGPOU,western_union,Prey Sniet,1
+TRANGDAOK,western_union,Pong Tuek,1
+TRAPEANGPHLONG,western_union,Damnak Reang,1
+PUTTREAM,western_union,Ou Sandan,1
+TRAPEANGSALA,western_union,Pong Tuek,1
+DAMNAKTRAYUENG,western_union,Chaom Chau 2,3
+PREYPHDIEK,western_union,Krasang,1
+TRAPEANGAREAKS,western_union,Ovlaok,2
+VOAT,western_union,Srae Nouy,9
+ODDARMEANCHEY,western_union,Oddar Meanchey,14
+TRAPEANGKRASANG,western_union,Trapeang Krasang,6
+BOENGKRAOM,western_union,Khpob Ateav,2
+PREAHDAK,western_union,Preah Dak,2
+TAKOH,western_union,Preah Dak,2
+KRANGDOUNTEY,western_union,Chaom Chau 2,1
+TANGKRANG,western_union,Svay Chuk,2
+PREAEKCHAR,western_union,Sambuor,1
+PREYSAKHANGLECH,western_union,Prey Sa,2
+LUENGK,western_union,Angkor Reach,1
+BARKU,western_union,Barku,1
+TUEKSEN,western_union,Boeng Daol,1
+SRAECHUMROV,western_union,Chaom Chau 2,3
+OUDEM,western_union,Chaom Chau 3,2
+TUOLLIEB,western_union,Snaor,2
+KRASANGTONG,western_union,Angkor Reach,1
+PREAEKONGPANG,western_union,Tuek Vil,1
+TRAPAENGTHOM,western_union,Lumtong,2
+LVEA,western_union,Srae Nouy,1
+PREYLNGOR,western_union,Chaom Chau 2,1
+TRAPAANGANDOUNG,western_union,Trapeang Krasang,2
+PREAEKDOUNHAEM,western_union,Preaek Ampil,2
+KAMPONGCHAMLANG,western_union,Preaek Tonloab,2
+PREAEKKRABAU,western_union,Preaek Krabau,1
+PREYPHNIET,western_union,Samlei,1
+TUMNOBTHMEI,western_union,Chieb,2
+SPEANKAEK,western_union,Kandaek,1
+TAEN,western_union,Snaor,1
+PREI,western_union,Khnar Sanday,1
+KHNAR,western_union,Khnar Sanday,1
+ANGKKAEV,western_union,Chaom Chau 3,2
+PREYCHHUK,western_union,Snaor,1
+LUMTONG,western_union,Lumtong,1
+PRATHEAT,western_union,Pratheat,1
+RUMDUOLCHEUNG,western_union,Snaor,1
+PREYPRINGKHANGTBOUNG2,western_union,Chaom Chau 3,3
+CHUMPUVOAN1,western_union,Chaom Chau 3,7
+SNAORKAEUT,western_union,Snaor,1
+PREYPRINGKHANGTBOUNG1,western_union,Chaom Chau 2,9
+KARKOHCHRUM,western_union,Khnar Sanday,1
+CHUMPUVOAN2,western_union,Chaom Chau 3,2
+TRAPEANGTHLOENG3,western_union,Chaom Chau 1,6
+TRAPEANGTRAV,western_union,Kou Khchak,1
+LVEA,western_union,Chaom Chau 2,4
+PREAEKSNANG,western_union,Preaek Koy,1
+PREYSAKHANGKAEUT,western_union,Prey Sa,2
+PEAM,western_union,Prey Sa,1
+PREYTITUY,western_union,Prey Sa,1
+KANHCHAMKHOR,western_union,Kanhcham,1
+ANGKORCHEY,western_union,Snaor,1
+SAMEAKKI3,western_union,Trapeang Krasang,1
+CHRAKSANGKAE,western_union,Svay Chuk,1
+TRAPEANGRUN,western_union,Ampil,1
+SVAYPHAEM,western_union,Svay Angk,1
+PREYSANDAEK,western_union,Chaom Chau 2,1
+PREYSNUOL,western_union,Ponsang,1
+KANLAENGKOL,western_union,Ponsang,1
+PREYDOUNOK,western_union,Trapeang Krasang,1
+TNAOTMDAEUM,western_union,Baek Chan,1
+KOUKPENH,western_union,Chieb,1
+KANDAL,western_union,Prasat,2
+TRAPEANGPOU,western_union,Chaom Chau 3,4
+VEAL,western_union,Trapeang Krasang,1
+ODDARMEANCHEY,western_union,Anlong Veng,2
+VEALVONG,western_union,Sna Ansa,1
+PREYPRINGKHANGCHEUNG1,western_union,Chaom Chau 3,4
+BANTEAYSREI,western_union,Khnar Sanday,3
+TRAPEANGTEA,western_union,Trapeang Krasang,2
+BAKU,western_union,Dangkao,2
+THNALBAMBAEK,western_union,Chaom Chau 3,1
+TUOLSVAY,western_union,Chheu Kmau,2
+TATAE,western_union,Kampong Ampil,1
+TRAPEANGRUMCHEK,western_union,Chaom Chau 1,6
+KANDAL,western_union,Svay Chek,1
+PREYPRINGKHANGCHEUNG2,western_union,Chaom Chau 3,4
+DAMNAKSANGKAE,western_union,Preaek Kampues,1
+PREYSPUEU,western_union,Chaom Chau 2,1
+KOUKBANTEAY,western_union,Prey Sa,1
+KHPOB,western_union,Kaoh Oknha Tei,1
+CHONGTHNAL,western_union,Ponsang,1
+CHAOMCHAU2,western_union,Chaom Chau 2,7
+TUOLPONGRO,western_union,Chaom Chau 1,16
+TUOLPONSANG,western_union,Ponsang,1
+AOLAOK,western_union,Bakong,1
+TUOLKRASANG,western_union,Roka Khpos,2
+CHAENGMAENG,western_union,Samraong Kraom,1
+PREYKHLA,western_union,Kampong Soeng,1
+CHREYKAONG,western_union,Chaom Chau 2,4
+TRAPEANGMTES,western_union,Svay Chuk,2
+CHAKCHRUK,western_union,Samraong Kraom,3
+PREYTHUM,western_union,Sanlung,1
+PREKSAMRAONG1,western_union,Ta Khmau,1
+KAKAB,western_union,Khsem Khsant,1
+KAMPONGSVAYKRAOM,western_union,Preaek Thmei,1
+PREYCHISAK,western_union,Chaom Chau 3,2
+SVAYANTORTIPIR,western_union,Svay Antor,2
+PREYTEA1,western_union,Chaom Chau 3,4
+TRAPEANGCHREY,western_union,Kakab 2,2
+PREYTEA2,western_union,Chaom Chau 3,1
+CHAOMCHAU3,western_union,Chaom Chau 2,1
+SRAHCHHUK,western_union,Trapeang Prei,2
+TRAPEANGTHNONG,western_union,Samraong Kraom,2
+ROTEANGTBAUNG,western_union,Phum Thum,2
+OUKOKIRKANDAL,western_union,Lumtong,1
+TALEI,western_union,Dangkao,1
+KRANGVEAENG,western_union,Sna Ansa,1
+CHAMBAK,western_union,Chong Ampil,1
+SAMRAONG,western_union,Samraong Kraom,2
+TRAPEANGTHLOENG4,western_union,Chaom Chau 1,1
+ROLUOS,western_union,Cheung Aek,1
+TRAPEANGTHLOENG1,western_union,Chaom Chau 1,13
+THNALTRANG,western_union,Bakong,1
+OSPHEA,western_union,Ponsang,1
+SLAENGPOR,western_union,Trapeang Tav,1
+PREYROKAR,western_union,Chhak Chheu Neang,1
+PREAEKTAHING,western_union,Preaek Thmei,1
+LOLEY,western_union,Bakong,1
+KATHUM,western_union,Cham,2
+PREYTOB,western_union,Prey Angkunh,1
+BATDOENG,western_union,Khsem Khsant,2
+KAK,western_union,Svay Rumpear,1
+TEKAPANHAO,western_union,Samraong Kraom,5
+KANDAL,western_union,Preaek Anhchanh,2
+KOUKPRICH,western_union,Samraong Kraom,1
+CHAMKARSBAENG,western_union,Samraong Kraom,1
+STUENG2,western_union,Samraong Thum,1
+ANDOUNGTAAN,western_union,Samraong Kraom,1
+THMAKOUL1,western_union,Chaom Chau 2,1
+SAMBUOR,western_union,Dangkao,6
+TARANGBAL,western_union,Koy Trabaek,2
+TRAS,western_union,Chey Kampok,1
+KAKAB,western_union,Kakab 2,3
+TUOLKANDAL,western_union,Trapeang Prei,1
+KHLEANGKANDAL,western_union,Trapeang Prei,1
+PREAEKTASAR,western_union,Preaek Ta Sar,1
+THMAKOUL2,western_union,Chaom Chau 2,1
+KRUOS,western_union,Kruos,2
+TRAPEANGSAMPOAR,western_union,Kouk Roka,1
+TATEANG,western_union,Kansoam Ak,1
+PREYTATHUEK,western_union,Koki Saom,1
+CHROLORNG,western_union,Anlong Tnaot,1
+PREYPOPEL,western_union,Samraong Kraom,1
+THMAKOUL3,western_union,Chaom Chau 2,1
+DAMNAKTHUMBEI,western_union,Stueng Mean Chey 3,3
+KRANGKOK,western_union,Kampong Soeng,1
+AKPHIVOAD,western_union,Anlong Veaeng,1
+PHNOMPENH,western_union,Preak Phnov,8
+OUCHENHCHIEN,western_union,Anlong Veaeng,4
+KBALDAMREI2,western_union,Kakab 2,1
+SVAY,western_union,Chek,2
+CHHOUKSAR,western_union,Khun Ream,1
+KOUKCHAMBAK,western_union,Chaom Chau 1,5
+KAOHRONGIENG,western_union,Ponsang,1
+SAMA,western_union,Khsaetr,1
+TRAPEANGTHLOENG2,western_union,Chaom Chau 1,1
+TRAPEANGMEAN,western_union,Krang Thnong,1
+SEKCHRUM,western_union,Svay Ta Yean,1
+TUEKKHLEANG,western_union,Tuek Khleang,1
+PREYSALA,western_union,Kakab 2,5
+PHLOVTREI,western_union,Thma Kor,1
+ANDOUNG,western_union,Kouk Roka,1
+CHAMKAROVLOEK2,western_union,Kakab 2,2
+CHIPRANG,western_union,Chieb,1
+OUKOKIRLEU,western_union,Lumtong,1
+AMPIL,western_union,Preah Sdach,1
+BOENGKRACHABTBOUNG,western_union,Preaek Ta Meak,1
+TUMNOBLEU,western_union,Trapeang Prei,1
+SVAYRIENG,western_union,Svay Rieng,45
+DAMNAKTHUMPIR,western_union,Stueng Mean Chey 3,4
+KANTRONG,western_union,Ponsang,1
+TRAOK,western_union,Khsaetr,1
+PREKHOLIX,western_union,Prek Ho,2
+KAOHKHCHEAY,western_union,Cheach,1
+THMEI,western_union,Stueng Mean Chey 1,4
+TRAPEANGROBANG,western_union,Chrey Loas,1
+CHEASMAN,western_union,Mean Chey,1
+PHNOMPENH,western_union,Mean Chey,19
+DAKPOR,western_union,Svay Thum,1
+SANLUNG,western_union,Sanlung,1
+CHUMROV,western_union,Kouk Roka,1
+VIMEANTRONG,western_union,Krang Thnong,5
+KRANGCHHEUNEANG,western_union,Tbaeng,1
+RUSSEYMUOY,western_union,Stueng Mean Chey 3,2
+PREAEKKHSAY,western_union,Preaek Khsay Ka,1
+SVAYOTDAM,western_union,Ponsang,1
+CHAMKAROVLOEK1,western_union,Kakab 1,2
+RUMCHEK,western_union,Anlong Veaeng,1
+TRAPEANGTOTUENG,western_union,Ponsang,1
+TRAPEANGLVEA2,western_union,Kakab 1,2
+TANGUON2,western_union,Kakab 1,2
+KOUKSOKRAM,western_union,Smaong Khang Cheung,1
+TRAPEANGLVEA1,western_union,Kakab 1,1
+TAMAU,western_union,Reathor,4
+ROLUOSKHANGLECH,western_union,Roluos,1
+RUESSEI,western_union,Stueng Mean Chey 2,6
+SRAECHANGHOUT,western_union,Run Ta Aek,1
+PREYPONGRO,western_union,Ponhea Pon,1
+TREABEI,western_union,Stueng Mean Chey 1,2
+TANGUON1,western_union,Kakab 1,3
+SVAYANGK,western_union,Svay Angk,1
+DAMNAKTHUM5,western_union,Stueng Mean Chey 3,1
+PAPET,western_union,Anlong Tnaot,2
+SRAEPOU,western_union,Srae Nouy,1
+PAPRAKKHANGTBOUNG,western_union,Kakab 1,3
+KANDAL,western_union,Takhmao,1
+CHANTKRUESNA,western_union,Chres,3
+KAMPONGPOPIL,western_union,Kampong Popil,1
+ROUNGBANLAE,western_union,Svay Rieng,1
+KANTREAN,western_union,Roung Damrei,1
+TREABUON,western_union,Stueng Mean Chey 3,1
+KHLEANGLECH,western_union,Leuk Daek,1
+KRANGANGKRANG,western_union,Krang Thnong,4
+PAPRAKKHANGCHEUNG,western_union,Kakab 1,4
+ANGKRONG,western_union,Kantreang,3
+THNALTOTUENG,western_union,Anlong Veaeng,1
+DAMNAK,western_union,Kouk Khleang,3
+CHEANGTONG,western_union,Krang Thnong,2
+LIEK,western_union,Kouk Trab,1
+BOENGSTENG,western_union,Khlong Popok,1
+KAMPONGROTEH,western_union,Kaoh Chen,1
+DAMNAKAMPIL,western_union,Kdol Saen Chey,1
+PUTREA,western_union,Kouk Roka,1
+MEANCHEY,western_union,Kaoh Chek,2
+KOUKKHLEANG,western_union,Kouk Khleang,3
+MELOUNGKHANGCHOEUNG,western_union,Prey Sniet,1
+DAMNAKTHUM4,western_union,Stueng Mean Chey 2,2
+KHUNREAM,western_union,Khun Ream,1
+CHRES,western_union,Kouk Roka,1
+ROUNGSNAO,western_union,Andoung Pou,1
+VEAL,western_union,Bos Mon,1
+PUKRUESSEILEU,western_union,Puk Ruessei,1
+PREAEKTALONGMUOY,western_union,Chak Angrae Kraom,1
+CHAMPUHKAEK1,western_union,Preaek Thmei,2
+PREAEKTALONG,western_union,Chak Angrae Kraom,1
+KAOHKRABEI,western_union,Preaek Thmei,1
+TANI,western_union,Run Ta Aek,3
+THMEIKHMER,western_union,Tbaeng Khpos,1
+PREYSOTHON,western_union,Prey Khla,1
+SLAENGROLEUNG,western_union,Ou Baek K Am,1
+PREAEKTALONGII,western_union,Chak Angrae Kraom,1
+OUBAEKKAM,western_union,Ou Baek K Am,2
+TREAPIR,western_union,Stueng Mean Chey 1,2
+PREKTAKONGI,western_union,Chak Angrae Leu,2
+PREAEKTAPOEM,western_union,Tuek Vil,1
+TATRAV,western_union,Kantreang,1
+TAKOY,western_union,Ballangk,1
+ANGKSNUOLTIPIR,western_union,Peuk,1
+SRAHKHVAV,western_union,Tbaeng,2
+TRACH,western_union,Ballangk,1
+TONLOABKHPOSTBOUNG,western_union,Damnak Ampil,2
+SIEMREAP,western_union,Pursat,1
+TREA,western_union,Stueng Mean Chey 1,3
+TNAOTCHRUMPIR,western_union,Boeng Tumpun 2,1
+VEAL,western_union,S Ang Phnum,2
+CHONGTHNALKHANGKAEUT,western_union,Tuek Thla,2
+KANDAL,western_union,Kien Svay,6
+SANSAMKOSALPIR,western_union,Boeng Tumpun 1,1
+SVAYCHEK,western_union,Kouk Roka,1
+PREKTOAL,western_union,Stueng Mean Chey 2,1
+MEANCHEY,western_union,Stueng Mean Chey 1,4
+KAOHKRABEI1,western_union,Preaek Thmei,1
+SANSAMKOSAL3,western_union,Boeng Tumpun 1,1
+PHNEAT,western_union,Stueng Mean Chey 2,1
+PREAEKTHMEI,western_union,Preaek Thmei,3
+ROUNGCHAKR,western_union,Kouk Khleang,3
+TUOLROKAMUOY,western_union,Chak Angrae Kraom,2
+TUOLROKA,western_union,Chak Angrae Kraom,2
+TUEKTHLA,western_union,Tuek Thla,1
+PREYMUL,western_union,Krang Thnong,1
+TOTEA,western_union,Chek,1
+MEANCHEY2,western_union,Stueng Mean Chey 1,2
+PHUM11,western_union,Tuek L Ak Ti Bei,1
+BAPREI,western_union,Preaek Changkran,1
+CHROUYBASAKMUOY,western_union,Preaek Pra,1
+BATI,western_union,Peam Ro,2
+PREYSAMPHOAR,western_union,Sambuor,1
+TRAPEANGCHHUK,western_union,Ou Baek K Am,3
+CHEACHKHANGLECH,western_union,Cheach,1
+CHRAKSVAY,western_union,Sdau Kaong,1
+PREKTAKONG,western_union,Chak Angrae Leu,1
+MRENH,western_union,Banteay Chakrei,1
+TBAENGCHRUM,western_union,Tnaot Chum,1
+PHSARTUEKTHLA,western_union,Tuek Thla,3
+MAPHEYOSAKPHEA,western_union,Svay Por,2
+SRAEDOUNTOUCH,western_union,Ponhea Pon,1
+TAMEAENG,western_union,Preaek Anteah,1
+PHUM12,western_union,Tuek L Ak Ti Bei,1
+PHUM2,western_union,Phsar Daeum Thkov,2
+TANGKRUOSKAEUT,western_union,Krang Lvea,1
+PHNOMPENHTHMEI,western_union,Phnom Penh Thmei,2
+PREAEKRUESSEI,western_union,Preaek Ruessei,1
+PHSAR,western_union,Anlong Tnaot,2
+TRAPEANGANHCHANH,western_union,Trapeang Krasang,1
+CHRES,western_union,Kouk Khleang,2
+DEIKRAHAM,western_union,Me Sar Thngak,1
+BOENGKAEK,western_union,Preaek Roka,1
+CHAMRAEUNPHAL,western_union,Boeng Tumpun 1,2
+PHUM5,western_union,Tumnob Tuek,1
+PHUM4,western_union,Tumnob Tuek,4
+DEITHMEI,western_union,Kouk Khleang,1
+PHUM9,western_union,Boeng Salang,1
+MEANCHEYMUOY,western_union,Stueng Mean Chey 1,1
+KRANHUNG,western_union,Mukh Da,1
+RORVEANGTATUM,western_union,Rumchek,1
+PHUM1,western_union,Tuol Tumpung Ti Muoy,1
+PHNOMPENH,western_union,Tuol Kork,14
+PHUM3,western_union,Phsar Daeum Thkov,1
+PHUMTIBUON,western_union,Kampong Luong,1
+SRETKHANGLECH,western_union,Kantreang,1
+PHUMBUON,western_union,Preaek Khsay Kha,1
+TRAPEANGTHNONG,western_union,Mkak,1
+SAMRAONG,western_union,Kbal Trach,1
+PHUM2,western_union,Boeng Salang,1
+KANTREANG,western_union,Kantreang,1
+BOENG,western_union,Ponhea Pon,1
+CHONGTHNALKHANGLECH,western_union,Tuek Thla,1
+TUOLROKA,western_union,Kampong Trabaek,2
+PREAEKPOK,western_union,Preaek Sdei,2
+PHUM5,western_union,Boeng Salang,2
+PREAEKTAPOV,western_union,Preaek Pra,2
+PREAEKTHMEI1,western_union,Preaek Thmei,3
+SOENG,western_union,Kampong Soeng,2
+DOEUMMIEN,western_union,Doeum Mien,2
+PHUM5,western_union,Boeng Keng Kang Ti Muoy,1
+PHUM5,western_union,Tuol Tumpung Ti Muoy,3
+PONGRO,western_union,Kantreang,1
+LAEDTH,western_union,Kranhung,1
+CHAMBAK,western_union,Prasat,1
+TBAENGLECH,western_union,Tbaeng,1
+PHUM3,western_union,Tuek L Ak Ti Pir,1
+PREAEKKHRUOS,western_union,Preaek Ambel,1
+PHUM6,western_union,Tuol Svay Prey Ti Pir,1
+TRAPEANGPRING,western_union,Ponhea Pon,1
+PHUM5,western_union,Tuek L Ak Ti Bei,1
+THMEI,western_union,Chrey Thum,1
+PHUM7,western_union,Tuol Svay Prey Ti Pir,1
+PHUM13,western_union,Boeng Salang,1
+TRAPEANGCHHLOUNH,western_union,Nhor,1
+PREAEKLONG,western_union,Ta Kdol,1
+BAEKTHLANG,western_union,Tumnob Thum,1
+TAAEK,western_union,Run Ta Aek,1
+PHUM5,western_union,Phsar Daeum Thkov,1
+PHUM4,western_union,Boeng Salang,2
+PHUM7,western_union,Tuek L Ak Ti Muoy,1
+PHNOMPENH,western_union,Chbar Ampov,21
+TBAENGKAEUT,western_union,Tbaeng,1
+TRAPEANGSNAOR,western_union,Ponhea Pon,2
+TANGOV,western_union,Nirouth,1
+SIEMREAP,western_union,Banteay Srei,2
+PHUM14,western_union,Tonle Basak,4
+PHUM4,western_union,Tuol Svay Prey Ti Muoy,1
+POUNGPEAY,western_union,Phnom Penh Thmei,1
+THUM,western_union,Thkov,2
+PHUM4,western_union,Boeng Trabaek,1
+PHUM2,western_union,Phsar Daeum Kor,1
+PHUM1,western_union,Phsar Daeum Kor,1
+THNALBAT,western_union,Kaoh Chen,1
+PHUM8,western_union,Tuek L Ak Ti Bei,1
+PREYVENG,western_union,Peam Ro,1
+TRAPEANGSVAY,western_union,Kouk Khleang,1
+PHUM10,western_union,Tonle Basak,2
+TRAPEANGRUNTIBEI,western_union,Chantrei,1
+PHUM1,western_union,Boeng Keng Kang Ti Bei,1
+SRAESAKMOT,western_union,Srae Nouy,2
+SVAYRIENG,western_union,Svay Chrum,3
+PREYSAMRAONG,western_union,Prey Poun,1
+PHUM5,western_union,Tuol Svay Prey Ti Pir,1
+PHUM3,western_union,Tuek L Ak Ti Muoy,1
+PHUM13,western_union,Boeng Kak Ti Muoy,2
+PHUM1,western_union,Tuek L Ak Ti Muoy,1
+PHUM10,western_union,Tuek L Ak Ti Pir,1
+PHUM3,western_union,Tuek L Ak Ti Bei,1
+PHUM7,western_union,Tuol Svay Prey Ti Muoy,1
+PHUM5,western_union,Boeng Keng Kang Ti Bei,1
+OUANDOUNGMUOY,western_union,Preaek Pra,1
+PHUM6,western_union,Phsar Daeum Kor,1
+KAMPONGTRABAEK,western_union,Kampong Trabaek,2
+PHUM3,western_union,Olympic,4
+PHUM5,western_union,Tuek L Ak Ti Muoy,1
+KAMPONGLEU,western_union,Kbal Trach,1
+PHUM1,western_union,Tuek L Ak Ti Bei,1
+PHUM10,western_union,Phsar Daeum Kor,1
+DAEUMMEAKKLOEA,western_union,Chhbar Ampov Ti Muoy,1
+PHUM10,western_union,Tuek L Ak Ti Muoy,1
+PHUM9,western_union,Boeng Keng Kang Ti Bei,1
+PREYCHAMKAR,western_union,Spueu Kha,1
+PHUM4,western_union,Tuek L Ak Ti Pir,1
+PHUM10,western_union,Tuol Svay Prey Ti Pir,1
+PHUM9,western_union,Boeng Kak Ti Pir,2
+PHUM5,western_union,Olympic,1
+SRETKHANGKAEUT,western_union,Kantreang,1
+PREAEK,western_union,Chhbar Ampov Ti Muoy,1
+THUMTBOUNG,western_union,Ponhea Pon,1
+ANLONGPIR,western_union,Trapeang Thum,1
+PHUM1,western_union,Tuek L Ak Ti Pir,1
+THNOLKENG,western_union,Ph Av,1
+PHUM3,western_union,Tuol Svay Prey Ti Pir,1
+PHUM1,western_union,Olympic,1
+PHUM2,western_union,Olympic,1
+LVEA,western_union,Trapeang Thum,1
+PHUM4,western_union,Veal Vong,1
+PHUM7,western_union,Veal Vong,3
+DEUMCHAN,western_union,Chbar Ampov Ti Pir,2
+PREYKANDIENG,western_union,Prey Kandieng,1
+PHUM16,western_union,Phsar Daeum Kor,1
+PHUM6,western_union,Boeng Keng Kang Ti Bei,1
+KOK,western_union,Angkor Tret,1
+SAMRAONG,western_union,Khmuonh,1
+PHUM5,western_union,Boeng Kak Ti Pir,1
+PREYDAMLOUNG,western_union,Pouthi Reach,1
+MOATPREY,western_union,Cheung Phnum,1
+PHUMTIPIR,western_union,Kampong Luong,1
+KANDALI,western_union,Chbar Ampov Ti Pir,1
+SRAESAR,western_union,Tbaeng Khpos,1
+PHNOMPENH,western_union,Chroy Changvar,7
+TANGOVKANDAL,western_union,Nirouth,1
+MEANOKKAEUT,western_union,Tbaeng Khpos,2
+PHUM11,western_union,Veal Vong,1
+PHUM7,western_union,Boeng Kak Ti Pir,1
+DAEUMAMPIL,western_union,Chhbar Ampov Ti Muoy,1
+PREYTATOUCH,western_union,Boeng Khyang,1
+SAENSOKHTIPIR,western_union,Khmuonh,1
+PHUM9,western_union,Phsar Depou Ti Bei,1
+PHUM2,western_union,Boeng Keng Kang Ti Muoy,1
+PHUM5,western_union,Veal Vong,3
+PHUM1,western_union,Phsar Depou Ti Bei,1
+KHSAET,western_union,Chaong Maong,1
+PHUM13,western_union,Boeng Kak Ti Pir,1
+DEUMCHANI,western_union,Chbar Ampov Ti Pir,1
+PHUM7,western_union,Boeng Keng Kang Ti Bei,1
+PHUM1,western_union,Phsar Depou Ti Muoy,1
+CHHNEAHCHEYLEU,western_union,Reathor,1
+PHUM6,western_union,Veal Vong,1
+ROBOAHANGKANH,western_union,Preaek Aeng,4
+BOENGCHHUK,western_union,Nirouth,6
+PHUM9,western_union,Ou Ruessei Ti Pir,2
+BANLASET,western_union,Khmuonh,2
+PHNOMPENH,western_union,7makara,8
+PHUM3,western_union,Boeng Keng Kang Ti Pir,1
+PHUM2,western_union,Veal Vong,1
+PHUM6,western_union,Phsar Depou Ti Bei,1
+PHUM4,western_union,Boeng Keng Kang Ti Muoy,2
+PHUM8,western_union,Boeng Kak Ti Pir,1
+RUESSEISRAS,western_union,Nirouth,2
+TABOL,western_union,Cheang Daek,1
+PHUM13,western_union,Tonle Basak,1
+CHREYTHUM,western_union,Prey Angkunh,2
+SNARSANGKREAM,western_union,Ballangk,2
+DEUMSLAENGI,western_union,Chbar Ampov Ti Pir,1
+KRANGSKEARKHANGTBOUNG,western_union,Krang Skear,1
+PHUM2,western_union,Phsar Depou Ti Bei,1
+DEUMSLAENG,western_union,Chbar Ampov Ti Pir,1
+KHNARRONGVEAS,western_union,Khun Ream,2
+TUOLDOUNKOAM,western_union,Kampong Kong,1
+TRAEUYKAOH,western_union,Chheu Kmau,1
+PHUM12,western_union,Boeng Kak Ti Pir,2
+SOUPHI,western_union,Kantreang,2
+PREAEKTHEI,western_union,Roka Khpos,1
+LEKHPRAM,western_union,Svay Rolum,1
+PHUM11,western_union,Boeng Kak Ti Muoy,1
+PHUM2,western_union,Srah Chak,1
+PHUM6,western_union,Ou Ruessei Ti Muoy,1
+PHUM2,western_union,Ou Ruessei Ti Bei,1
+KDEITAKOY,western_union,Veal Sbov,2
+PHUM3,western_union,Veal Vong,1
+PHUM5,western_union,Chakto Mukh,1
+PHUM9,western_union,Tonle Basak,1
+KALEIKHANGTBOUNG,western_union,Spueu Ka,1
+PHUM7,western_union,Boeng Keng Kang Ti Muoy,1
+PHUM9,western_union,Mittapheap,1
+PHUM4,western_union,Boeng Proluet,1
+PHUM1,western_union,Chakto Mukh,3
+THMEI,western_union,Chheu Kmau,1
+SANDAN,western_union,Sandan,2
+PHUM5,western_union,Boeng Reang,1
+OUTAMENG,western_union,Anlong Veaeng,2
+PHUM4,western_union,Boeng Reang,1
+POUNG,western_union,Sambuor Meas,1
+PHUM8,western_union,Boeng Kak Ti Muoy,2
+MITAKPHEAP1,western_union,Preaek Aeng,2
+PHUM4,western_union,Chakto Mukh,1
+PHUM12,western_union,Phsar Thmei Ti Bei,1
+PHUM7,western_union,Mittapheap,1
+BAYAB,western_union,Phnom Penh Thmei,4
+TUOLPRICH,western_union,Thlat,1
+BAREACH,western_union,Svay Chrum,1
+PHUM2,western_union,Ou Ruessei Ti Muoy,1
+ANDOUNGSAT,western_union,Krabau,1
+PHUM10,western_union,Boeng Reang,2
+PHUM5,western_union,Ou Ruessei Ti Bei,1
+THLOKROLEUNG,western_union,Krang Lvea,2
+PHNOMPENH,western_union,Daun Penh,9
+POANVOAT,western_union,Prasat,1
+PHUM4,western_union,Tonle Basak,1
+VEALSBOV,western_union,Veal Sbov,2
+PHUM5,western_union,Phsar Thmei Ti Bei,1
+PHUM5,western_union,Phsar Kandal Ti Muoy,1
+ANLONGKNGAN,western_union,Khmuonh,3
+PHUM10,western_union,Chey Chummeah,1
+RUESSEIDAOCH,western_union,Reach Montir,1
+PHUM1,western_union,Phsar Thmei Ti Bei,1
+PHUM1,western_union,Boeng Kak Ti Muoy,1
+TRAPEANGTHMA,western_union,Svay,1
+PHUM8,western_union,Chakto Mukh,1
+SNAYPOL,western_union,Roka,3
+PHUM2,western_union,Boeng Kak Ti Muoy,1
+PHUM2,western_union,Monourom,1
+PHUM1,western_union,Phsar Thmei Ti Pir,1
+CHONGPREAEK,western_union,Preaek Aeng,1
+SAMEAKKI,western_union,Preaek Dambang,1
+SIHANOUKVILLE,western_union,Sihanoukville,49
+KAMPONGTALONG,western_union,Boeng Khyang,1
+THUM,western_union,Thlok,1
+PHUM2,western_union,Voat Phnum,1
+BARONG,western_union,Barong,1
+PHUM6,western_union,Phsar Thmei Ti Muoy,1
+TUOLKOK,western_union,Tuol Sangkae 1,3
+PHUM8,western_union,Phsar Thmei Ti Muoy,1
+DAEUMPOU,western_union,Kandieng Reay,1
+PHUM1,western_union,Phsar Kandal Ti Pir,1
+SRAETACHEY,western_union,Akphivoadth,2
+PHUM22,western_union,Srah Chak,1
+PHUM3,western_union,Phsar Kandal Ti Pir,1
+PHUM4,western_union,Phsar Thmei Ti Pir,1
+PHNOMPENH,western_union,Russey Keo,17
+PHUM8,western_union,Phsar Kandal Ti Pir,1
+PHUM8,western_union,Phsar Kandal Ti Muoy,1
+MEANCHEY,western_union,Chong Ampil,1
+PHUM10,western_union,Srah Chak,3
+PHUM9,western_union,Chey Chummeah,1
+PHUM5,western_union,Voat Phnum,1
+KAOHKOR,western_union,Roka Khpos,2
+PHUM1,western_union,Phsar Kandal Ti Muoy,1
+TOULSANGKE,western_union,Tuol Sangkae 1,8
+CHONGKHSACH,western_union,Tuol Sangkae 1,3
+AMPIL,western_union,Mream,2
+OUROUNG,western_union,Chrey Bak,1
+PHUM9,western_union,Phsar Kandal Ti Muoy,1
+BARAYKAEUT,western_union,Baray,1
+KOUNSATV,western_union,Trapeang Thum,1
+PHUM7,western_union,Voat Phnum,1
+UNKNOWN,western_union,Phnom Penh,1
+TUOLPONGRO,western_union,Svay,1
+MREAHPROV,western_union,Trapeang Sdau,1
+PHUM4,western_union,Chrang Chamreh Ti Muoy,2
+PHUM12,western_union,Srah Chak,1
+PHUM6,western_union,Voat Phnum,1
+ANDOUNG,western_union,Baek Chan,1
+BAKTOUK,western_union,Tuol Sangkae 1,1
+PHUM14,western_union,Srah Chak,2
+PHUM19,western_union,Srah Chak,1
+TUOLTHGAN,western_union,Tuol Sangkae 2,2
+SAMRAONG,western_union,Khnar Pou,1
+CHREY,western_union,Khchas,1
+PHNUMTASAM,western_union,Krang Skear,1
+LAKAMBAOR,western_union,Svay Pak,5
+PREKHOKOUT,western_union,Prek Ho,1
+TAKOT,western_union,Trapeang Sdau,1
+PONGPEAV,western_union,Tuol Sangkae 2,1
+LU,western_union,Svay Pak,2
+BOENGCHHUK,western_union,Kilomaetr Lekh Prammuoy,1
+SAMEAKKI,western_union,Russey Keo,2
+THNALPEAM,western_union,Angk Prasrae,1
+TUOLTACHAN,western_union,Preaek Aeng,1
+PHSARLECH,western_union,Praek Pnov,3
+KBOUN,western_union,Khchas,1
+PRAEKPNOV,western_union,Praek Pnov,1
+SRAETACHEYKHANGLECH,western_union,Akphivoadth,1
+PHUM1,western_union,Chrang Chamreh Ti Muoy,1
+OTDAM,western_union,Preaek Krabau,2
+SRAEKOUK,western_union,Anlong Romiet,1
+BOENGSALANG,western_union,Russey Keo,1
+PHUMKHAMUOY,western_union,Chrang Chamreh Ti Pir,2
+KBALCHROUY,western_union,Preaek Aeng,1
+PHUM3,western_union,Chrang Chamreh Ti Muoy,2
+DAMREICHHLANG,western_union,Khnar Pou,1
+TUEKCHUM,western_union,Akphivoadth,1
+KOUKSANGKAE,western_union,Khchas,1
+LEKHMUOY,western_union,Svay Rolum,2
+TAPRUM,western_union,Preaek Aeng,1
+KRAOLKOU,western_union,Kilomaetr Lekh Prammuoy,3
+KHLEANGSANG,western_union,Russey Keo,1
+PHUM1,western_union,Chraoy Chongvar,1
+TUOLKRUOS,western_union,Thlat,1
+TRAPEANGPRING,western_union,Akphivoadth,1
+PHUM3,western_union,Chraoy Chongvar,1
+MITTAKPHEAP,western_union,Russey Keo,2
+PHUMKHAPIR,western_union,Chrang Chamreh Ti Pir,2
+SVAYPAK,western_union,Svay Pak,1
+TANGKRONG,western_union,Krang Lvea,1
+CHREYPHSAR,western_union,Chrey,2
+KYANGTBOUNG,western_union,Svay,1
+PREAEKSANDAEK,western_union,Preaek Changkran,2
+PREYTOTUENG,western_union,Prey Totueng,1
+BOENGKRANUEB,western_union,Cheang Daek,1
+PREKHOKOUT1,western_union,Prek Ho,2
+TUOLTNAOT,western_union,Kokir,2
+PREAEKTHUM,western_union,Kbal Kaoh,1
+SMAONG,western_union,Smaong Khang Cheung,2
+BAEKKAMPHLEUNG,western_union,Chan Sa,1
+BANTOATBAOH,western_union,Dan Run,1
+THMEI,western_union,Thna Thnong,1
+SANGKAECHONG,western_union,Krang Svay,1
+PREAEKREANG,western_union,Preaek Ta Sek,1
+SPEANKHPOS,western_union,Kilomaetr Lekh Prammuoy,1
+ANGKRONG,western_union,Sedthei,2
+KRACHABTIMUOY,western_union,Prey Khla,2
+VOATSEDTHEI,western_union,Sedthei,1
+POUSABANG,western_union,Reab,1
+SRAENOUY,western_union,Srae Nouy,2
+YOKBAT,western_union,Kbal Kaoh,2
+TNAOT,western_union,Seang Khveang,1
+KIENKHLEANG,western_union,Chraoy Chongvar,2
+CHOB,western_union,Khnar Pou,1
+PREAEKTASEK,western_union,Preaek Ta Sek,1
+KROUCH,western_union,Kdoeang Reay,1
+KOUKVOAT,western_union,Srae Nouy,2
+TREA,western_union,Kanhcham,1
+DOUNHONG,western_union,Dam Daek,1
+SAMBUOR,western_union,Ansaong,1
+KHTOR,western_union,Preaek Lieb,2
+KIENKHLEANG,western_union,Preaek Lieb,2
+TANAR,western_union,Svay Toea,1
+PREAEKSRAMAOCH,western_union,Kampong Khleang,1
+KNONG,western_union,Preaek Ta Meak,1
+CHAMKARYUON,western_union,Kampong Khleang,1
+PREAEKTAKONG,western_union,Preaek Ta Sek,1
+DOUNVONGS,western_union,Trea,1
+KANDAL,western_union,Khsach Kandal,3
+KRUOS,western_union,Samraong,2
+TRAPEANGSRANGAE,western_union,Khnar Chhmar,1
+PREYVENG,western_union,Ba Phnom,1
+CHHEUKACH,western_union,Chheu Kach,1
+PHSARKHLEANG,western_union,Kampong Khleang,1
+BALLANGK,western_union,Kansoam Ak,1
+POUKRAOM,western_union,Traeuy Sla,1
+ROBAOHPRING,western_union,Svay Yea,1
+PREAEK,western_union,Traeuy Sla,1
+KAMPONGCHHNANG,western_union,Kampongchhnang,12
+PREAEKLIEB,western_union,Preaek Lieb,2
+KHSOM,western_union,Banteay Daek,3
+CHENDAMMLOU,western_union,Veang Chas,1
+CHREYKROHUEM,western_union,Kampong Ruessei,1
+CHONLOATDAI,western_union,Svay,1
+KAMPONGCHHNANG,western_union,Samakki Mean Chey,1
+PORPEL,western_union,Ph Av,2
+OUDONG,western_union,Veang Chas,2
+POURITTHIKRAI,western_union,Svay,1
+PREAEKTALAI,western_union,Preaek Ambel,1
+DAMDAEKPHSAR,western_union,Dam Daek,1
+ANLONGTNAOT,western_union,Longveaek,4
+KOUKRUESSEIKHANGCHEUNG,western_union,Dan Run,1
+BANTEAYSREI,western_union,Dam Daek,2
+KANSAENGLEU,western_union,Chan Sa,1
+SPEANDAEK,western_union,Preaek Tonloab,2
+SLABTAAON,western_union,Kokir,1
+CHREYKAONGLECH,western_union,Khnar Chhmar,1
+SVAYRIENG,western_union,Svay Teab,1
+SKEASROK,western_union,Pnov Ti Pir,1
+VEALTHMEI,western_union,Phnum Bat,1
+PREKRIANG,western_union,Kampong Samnanh,5
+TAPA,western_union,Ta Suos,2
+SRAEKRAU,western_union,Thlok Vien,1
+KOKOR,western_union,Kampong Popil,1
+THLOKVIEN,western_union,Thlok Vien,1
+THMARCHUL,western_union,Tbaeng,1
+TUOLCHEY,western_union,Preah Sdach,1
+KOHKONG,western_union,Koh Kong,17
+KHOUSANG,western_union,Svay Toea,1
+TUOLNGOUK,western_union,Kampong Luong,1
+THLOKRUESSEI,western_union,Sedthei,1
+SPEANDAEK,western_union,Thlok Vien,1
+BAKKHAENGLEU,western_union,Bak Kaeng,3
+SPEANPOU,western_union,Sedthei,3
+PREYPHLORNG,western_union,Smaong Khang Tboung,1
+VEALYON,western_union,Svay Rieng,1
+SRAEUK,western_union,Tang Krasang,1
+TRAPEANGPHLONG,western_union,Bati,1
+PREAEKBE,western_union,Kaoh Thum Kha,2
+PREYKHLA,western_union,Krang Mkak,1
+ANLONGTHUM,western_union,Khnang Phnum,3
+POURIENGTBOUNG,western_union,Pur Rieng,2
+PREAEKTAONGTIBEI,western_union,Peam Oknha Ong,1
+KOHTEAVKHOR,western_union,Sampeou Poun,2
+SVAYPOK,western_union,Spueu Ka,1
+THNALKAENG,western_union,Smaong Khang Cheung,2
+TRADAKPONG,western_union,Khnar Chhmar,1
+THNALKAENG,western_union,Bati,1
+TAKHMAO,western_union,Ta Khmau,6
+SVAYRIENG,western_union,Bavet,2
+ANGKPREAH,western_union,Chres,1
+OUSVAY,western_union,Ou Svay,4
+BATDANGKAO,western_union,Samraong,1
+KAOHREAHLEU,western_union,Kaoh Reah,2
+THMEI1,western_union,Ta Khmau,2
+TAKOL,western_union,Peani,2
+DOUNLEI,western_union,Kien Sangkae,1
+THNALCHAEK,western_union,Samraong,1
+ANHCHANHRUNG,western_union,Anhchanh Rung,1
+BETMEAS,western_union,Samraong,1
+KLAENGKONG,western_union,Boeng Daol,1
+PEANI,western_union,Peani,2
+KHLEANGMOEANGTBOUNG,western_union,Preaek Ampil,1
+KOR,western_union,Thma Edth,1
+RONEAH,western_union,Kaoh Dach,1
+SRAEPRICH,western_union,Akphivoadth,1
+DOUNG,western_union,Chrey,1
+CHAENGMAENG,western_union,Angk Ta Sou,1
+PREYTUENG,western_union,Prey Tueng,1
+KRASANGCHRUM,western_union,Kruos,1
+KOUKLVIENG,western_union,Prey Angkunh,2
+TANGTHNUEM,western_union,Pech Changvar,1
+SAMBAT,western_union,Khnar Pou,1
+SENCHEY,western_union,Kantuot,1
+KBALDAMREI,western_union,Boeng Preah,2
+KANDAL,western_union,Ponhea Leu,4
+ANGKPOPEAY,western_union,Krang Mkak,1
+VOAT,western_union,Longveaek,1
+SNANGMOM,western_union,Thma Edth,2
+THNALKRUOS,western_union,Mukh Da,1
+KBALDAMREI,western_union,Ansa Chambak,1
+TRAPEANGTROM,western_union,Popel,2
+KANTUOT,western_union,Kantuot,2
+LEKHBEI,western_union,Kampong Leav,1
+PRASNOEB,western_union,Prasnoeb,1
+PREYLEAN,western_union,Popel,1
+KAOHKHAEL,western_union,Kaoh Khael,1
+SOBEN,western_union,Peani,1
+SRAH,western_union,Chrey Thum,3
+PREAEKKRABAUTIBEI,western_union,Preaek Ampil,1
+CHHPOES,western_union,Thma Pun,1
+KAOHDACH,western_union,Kaoh Dach,1
+SOURIYA,western_union,Boeng Daol,2
+SRAHCHAK,western_union,Longveaek,1
+KHNARKRAU,western_union,Kantuot,1
+KHPOB,western_union,Preaek Sambuor,1
+KAMPONGKOMUOY,western_union,Kien Sangkae,1
+KAMPONGKOR,western_union,Pouthi Ban,1
+SRAMA,western_union,Prey Pnov,1
+KRALANH,western_union,Ou Ruessei,1
+AMPILTUEK,western_union,Sambuor Meas,1
+STOENGCHROV,western_union,Doeum Mien,1
+TRAPEANGCHHEUNEANG,western_union,Peuk,1
+TRAPEANGPHONG,western_union,Popel,2
+KDEICHAS,western_union,Bak Kaeng,4
+PREYTOAP,western_union,Preah Sdach,1
+DAKPHKA,western_union,Ta Yaek,3
+SUONTHMEI,western_union,Prey Chhlak,1
+SAMBOUR,western_union,Angkor Sar,1
+KAMPONGCHHNANG,western_union,Kampong Tralach,2
+OURUESSEI,western_union,Ou Ruessei,1
+BRAVAL,western_union,Ta Yaek,2
+ANDOUNGTRAMUNG,western_union,Chhuk Sa,1
+ANGKKABBAS,western_union,Kouk Pring,1
+ANDOUNGPRENG,western_union,Krang Leav,1
+PEAM,western_union,Roka Kong Ti Muoy,1
+CHAS,western_union,Tang Krasang,1
+SALALEKHPRAM,western_union,Ou Ruessei,1
+DAMREIKOUN,western_union,Popel,1
+KAAT,western_union,Peani,1
+NEAKTAHANG,western_union,Kampong Tralach,2
+POUROUNG,western_union,Chi Phoch,2
+TRAPEANGAMPIL,western_union,Prasnoeb,1
+LEAKREACHCHEA,western_union,Kampong Chak,1
+POPELLECH,western_union,Popel,1
+PUKRUESSEIKANDAL,western_union,Puk Ruessei,1
+MRENH,western_union,Trapeang Srae,1
+PARAENLEU,western_union,Svay Prateal,1
+SAMRAONGKANHCHAOCH,western_union,Ruessei Lok,1
+SVAYCHEK,western_union,Svay Thum,1
+SRAEPREI,western_union,Ou Ruessei,3
+CHHMA,western_union,Mream,1
+KAMPONGTRALACHKRAOM,western_union,Kampong Tralach,1
+SRAHVONG,western_union,Svay Rieng,1
+TRAPEANGKHTUM,western_union,Chhuk Sa,1
+TAPOV,western_union,Kaoh Chen,1
+PAOYSMACH,western_union,Ta Yaek,1
+THMEI,western_union,Krang Leav,1
+ANGKORSAR,western_union,Angkor Sar,2
+KOUL,western_union,Popel,1
+DAMREICHHLANG,western_union,Sangvaeuy,1
+ROMEASCHHOR,western_union,Kou Khchak,1
+CHONGKAOH,western_union,Kaoh Anlong Chen,1
+TUEKLAK,western_union,Krang Leav,1
+YEANG,western_union,Ruessei Lok,1
+OU,western_union,Ponley,1
+PEAKSPEA,western_union,Sangvaeuy,1
+PREYVENG,western_union,Por Raing,2
+PONHEAKAEUT,western_union,Cheang Daek,1
+KRANGLEAV,western_union,Krang Leav,1
+KHNACHKAKAOH,western_union,Cheung Kreav,1
+BAKDAOK,western_union,Preaek Chrey,1
+SDAUKANLAENG,western_union,Dei Edth,4
+DOUNG,western_union,Ba Baong,1
+THNALDACH,western_union,Sangvaeuy,1
+KRASAHTHMEI,western_union,Chhuk Sa,1
+BOENGKAK,western_union,Ta Ches,1
+TOAPSROV,western_union,Banteay Preal,1
+POPEL,western_union,Khon Rang,1
+RUESSEILOK,western_union,Ruessei Lok,1
+SNAO,western_union,Khon Rang,1
+KAEVLAT,western_union,Ponley,2
+KRANGKHMER,western_union,Popel,1
+TRAOK,western_union,Chi Phoch,1
+TRAPEANGCHHUK,western_union,Preaek Koy,2
+SAMRAONG,western_union,Ta Ches,1
+SAMBOUR,western_union,Sambour,3
+PONLEY,western_union,Ponley,3
+PREAEKRUN,western_union,Preaek Koy,1
+RUMPOATCHRUK,western_union,Doun Sa,1
+BATTACHI,western_union,Prek Ho,2
+TRAVBAK,western_union,Ta Yaek,1
+TAVAK,western_union,Prey Mul,1
+CHAK,western_union,Sangvaeuy,1
+TAPRUM,western_union,Sangvaeuy,1
+SVAYKOY,western_union,Ponley,1
+SANGKRUOH,western_union,Svay Phluoh,1
+KAMPONGCHAM,western_union,Kampong Cham,144
+THNALKAENG,western_union,Popeaet,1
+TAPANG,western_union,Chak,1
+CHAMBAKMEAS,western_union,Bak Kaeng,1
+KAMPONGSNAE,western_union,Theay,1
+POUMREAH,western_union,Chak,1
+SARAYANDAET,western_union,Chres,1
+VEANG,western_union,Chi Phoch,1
+THNALKAENG,western_union,Trapeang Prasat,2
+THKOV,western_union,Prasat,1
+KRUOS,western_union,Rolea B Ier,1
+DAKSNET,western_union,Chres,1
+KHCHEAY,western_union,Romeang Thkaol,1
+CHEAROV,western_union,Rolea B Ier,1
+SOUR,western_union,Angkor Sar,1
+SVAYATKRAOM,western_union,Preaek Ta Meak,1
+PREYVENG,western_union,Pea Raing,4
+TUEKLICH,western_union,Boeng Mealea,1
+TAKDOL,western_union,Ta Kdol,1
+TRAPEANGKOR,western_union,Chrey Bak,1
+CHHNOKTRU,western_union,Chhnok Tru,1
+SVAYLEAB,western_union,Tumnob Thum,1
+ANLONGMAKPRANG,western_union,Stueng Kaev,1
+DAMBOUKKHPOS,western_union,Ta Siem,1
+SRANGKHPOS,western_union,Pongro,1
+KILOUTACHHUEM,western_union,Kouk Thlok Kraom,1
+KHLAKROHUEM,western_union,Ampil Tuek,1
+DAMNAKTRABAEK,western_union,Trapeang Veaeng,1
+LBAEUK,western_union,Anlong Samnar,1
+OUMAL,western_union,Batheay,2
+KANSAENG,western_union,Sangvaeuy,1
+CHOBLEU,western_union,Svay Leu,2
+SIEMREAP,western_union,Svay Leu,1
+CHOBKRAOM,western_union,Svay Leu,1
+ANDOUNGSNAY,western_union,Andoung Snay,2
+OUSANDAN,western_union,Tuek Hout,1
+TRAPEANGKRAPEU,western_union,Tuek Hout,1
+REAKSCHEY,western_union,Reaks Chey,1
+ROHAL,western_union,Ta Siem,1
+THNALTASET,western_union,Kouk Thlok Kraom,1
+TRAPEANGKHNAR,western_union,Svay Leu,3
+TANGKOUK,western_union,Tang Krang,2
+CHAK,western_union,Baek Chan,1
+SREKORNDAL,western_union,Trapeang Prasat,1
+KHVET,western_union,Pongro,2
+PREYSAMLANH,western_union,Samraong,1
+ANDOUNGRUESSEI,western_union,Srae Thmei,1
+TRAPEANGSBOV,western_union,Srae Thmei,1
+AMBOES,western_union,Cheung Kaeub,1
+OUMAL,western_union,Ampil Tuek,1
+SVAYATKANDAL,western_union,Preaek Ta Meak,1
+AKTIENG,western_union,Tang Krang,1
+SPOKREACH,western_union,Andoung Snay,2
+CHAMKARKHLEY,western_union,Svay Chrum,1
+PREAEKTAKAEV,western_union,Samraong Thum,1
+SVAY,western_union,Samlei,1
+KBALKAOH,western_union,Ampil Tuek,1
+BETPHKA,western_union,Svay Leu,1
+ROKACHUORTIMUOY,western_union,Banteay Chakrei,1
+TREA,western_union,Svay Chrum,1
+SANTUCH,western_union,Srae Thmei,1
+TNAOT,western_union,Tnaot,1
+PREYSAK,western_union,Trapeang Prasat,1
+KAKOU,western_union,Banteay Chakrei,2
+PREYSVA,western_union,Chrey Khmum,1
+CHHEUNEAK,western_union,Banteay Preal,1
+MESANG,western_union,Prey Rumdeng,1
+KAMPONGSVAY,western_union,Kampong Svay,7
+PRAMBEICHHAOM,western_union,Pongro,1
+ODDARMEANCHEY,western_union,Trapeang Prasat,4
+TRAPEANGPRASAT,western_union,Trapeang Prasat,3
+UTUMPOR,western_union,Svay Chrum,1
+THNALTHMEI,western_union,Chrey Bak,1
+DAMNAKKEI,western_union,Cheung Kreav,1
+KBALKAOH,western_union,Kaoh Anlong Chen,1
+CHROUYMETREIKRAOM,western_union,Ruessei Chrouy,1
+SDEIBANLICH,western_union,Ampil Tuek,1
+TREA,western_union,Sena Reach Otdam,2
+BANHCHHKOUL,western_union,Chrey Bak,1
+PREYKHMER,western_union,Rolea B Ier,1
+TRAPEANGRUN,western_union,Ruessei Lok,1
+TRAPEANGTNAOT,western_union,Mkak,2
+KRUOS,western_union,Kdoeang Reay,1
+PHNIET,western_union,Chi Kraeng,1
+KAEKPONG,western_union,Ampil Tuek,1
+PRASAT,western_union,Tang Krang,1
+MEANCHEY,western_union,Kouk Banteay,1
+KOUKBANTEAY,western_union,Kouk Banteay,1
+PREYKAOH,western_union,Chrey Bak,1
+TATRAV,western_union,Kampong Trach,4
+PREAEKREANG,western_union,Tuek Hout,1
+POUCHREY,western_union,Svay Antor,1
+THMEI,western_union,Preaek Anteah,1
+LAOK,western_union,Pongro Leu,1
+KAMPONGCHAM,western_union,Batheay,3
+KAMPONGCHAM,western_union,Kampongchhnang,1
+OUKRAOM,western_union,Spean Tnaot,1
+CHEUNGCHHNOK,western_union,Tang Krang,1
+KOUKSDAU,western_union,Tuek Hout,1
+SRAEAMPIL,western_union,Chheu Teal,1
+TUOLPRASAEUR,western_union,Bak Anloung,1
+BATHEAY,western_union,Batheay,1
+SIEMREAP,western_union,Chi Kraeng,1
+STUENGSNGUOT,western_union,Ampil Tuek,1
+TUOLCHAR,western_union,Tumnob Dach,1
+KAMPONGPREAH,western_union,Tang Krang,1
+KAMPONGCHHNANG,western_union,Krong Kampong Chhnang,2
+KAOHTHKOV,western_union,Kaoh Thkov,1
+OUSAMDEI,western_union,Pouthi Reach,1
+BOENGTHUM,western_union,Kouk Thlok Kraom,1
+TIBEI,western_union,Khsam,1
+OUKROUCH,western_union,Trapeang Prasat,1
+KAKAOH,western_union,Kouk Thlok Kraom,1
+CHONGKROUCH,western_union,Reab,2
+TRAPEANGSVAY,western_union,Svay Leu,1
+KRABAO,western_union,Sangvaeuy,1
+TIPRAMBEI,western_union,Khsam,1
+PHNUMDEL,western_union,Tang Krang,2
+ANGKORTRET,western_union,Angkor Tret,1
+MONGBARANG,western_union,B Er,1
+TRAPEANGTRAV,western_union,Kouk Thlok Kraom,1
+KAOHKAEV,western_union,Svay Chrum,1
+SAMRAONG,western_union,Chrey,1
+KDEITNAOT,western_union,Srae Thmei,1
+THOMMEAKYUTT,western_union,B Er,1
+DAMNAKPOPUL,western_union,Kampong Chhnang,1
+SRAEPRING,western_union,Kampong Chhnang,1
+BER,western_union,B Er,1
+PREAEKTAPRUM,western_union,Kampong Os,2
+PHSARLEU,western_union,Phsar Chhnang,2
+TRAPEANGBEI,western_union,Phsar Chhnang,2
+CHEALEA,western_union,Chealea,1
+KAMPONGRUESSEI,western_union,Kampong Ruessei,1
+TANGKRANG,western_union,Chealea,1
+CHRANGKHPOS,western_union,Kampong Kdei,1
+ROKATIMUOY,western_union,Roka Chonlueng,1
+RUESSEISROK,western_union,Chheu Teal,1
+PREAEKPOK,western_union,Thna Thnong,1
+KONGCHEY,western_union,Preaek Koy,1
+THKOV,western_union,Kanhcham,1
+KAMPONGCHAM,western_union,Kampongcham,7
+SIKAR,western_union,Svay Yea,1
+SRAELA,western_union,Bak Anloung,1
+RUESSEICHUK,western_union,Roka,1
+TIBUON,western_union,Khsam,1
+KHYAONG,western_union,Chi Bal,1
+TIPRAMPIR,western_union,Khsam,2
+PREYPHLEANG,western_union,Damrei Puon,1
+CHROLONG,western_union,Tbaeng,1
+TUMNOBTHMEI,western_union,Trapeang Prasat,1
+CHIPAO,western_union,Svay Pou,1
+PHSARCHHNANG,western_union,Phsar Chhnang,2
+KOKIR,western_union,Kokir,2
+KHLAKHMUM,western_union,Kouk Thlok Leu,1
+KAMPONGKDEIMUOY,western_union,Kampong Kdei,1
+TIPRAMMUOY,western_union,Khsam,1
+THNALLOUK,western_union,Spean Tnaot,1
+SVAY,western_union,Svay Pou,1
+CHHEUTEAL,western_union,Preaek Anhchanh,3
+TAPHNHEA,western_union,Kouk Thlok Leu,1
+PHUMBEI,western_union,Preaek Khsay Kha,1
+LVEA,western_union,Spean Tnaot,1
+KRABEIRIEL,western_union,Kouk Thlok Kraom,1
+PREYVENG,western_union,Me Sang,1
+VEAL,western_union,Meun Chey,1
+BOENGSNAOR,western_union,Lvea,1
+POKPAEN,western_union,Mean Chey,1
+TUOLPONGRO,western_union,Tumnob Dach,1
+ANGKANH,western_union,Svay Leu,1
+LVEAKRAOM,western_union,Sdau,1
+SAMEAKKI,western_union,Chrak Mtes,1
+ANLONGKOKIR,western_union,Preaek Koy,1
+AMPIL,western_union,Khnar Sa,1
+ROLEANG,western_union,Rumlech,1
+SDAU,western_union,Sdau,5
+PREAEKTRAENG2,western_union,Samraong Thum,2
+CHONGKAOH,western_union,Phsar Chhnang,1
+PREYSANGKUM,western_union,Chres,1
+DANGKDAONG,western_union,Sandar,1
+ANLONGKOKIR,western_union,Sdau,1
+PREAEKKOY,western_union,Preaek Koy,1
+MESAR,western_union,Preaek Koy,2
+TREANGLEU,western_union,Ta Aek,1
+PREYCHAMBAK,western_union,Chheu Teal,1
+TONGTRALACH,western_union,Tong Tralach,1
+TUOLCHAN,western_union,Chbar Ampov,1
+THMEA,western_union,Thmea,2
+KAOHKOU,western_union,Mean Chey,1
+POU,western_union,Svay Pou,1
+AKPIWAT,western_union,Kantuot,1
+ROKATVEAR,western_union,Preaek Pou,3
+TUOLTNAOT,western_union,Peuk,1
+PRAMYAM,western_union,Pram Yam,1
+KOUKTAEK,western_union,Chantrea,1
+OUSVAYLECH,western_union,Preaek Koy,1
+PREKSAMRAONG2,western_union,Ta Khmau,1
+TUOLTRABAEK,western_union,Prasoutr,2
+SVAYTAPHLO,western_union,Basak,1
+BALLANGK,western_union,Lveaeng Ruessei,1
+KHPOBLEU,western_union,Sdau,1
+PREYCHHKAR,western_union,Pongro Leu,1
+CHBARAMPOV,western_union,Chbar Ampov,1
+PONGROMUOY,western_union,Pongro Kraom,1
+TRAPEANGTHMAR,western_union,Ta Siem,2
+KANGTANOENGTIPRAMPIR,western_union,Kang Ta Noeng,1
+PREYTBEH,western_union,Preaek Pou,1
+CHREAEK,western_union,Batheay,1
+VEALPROV,western_union,Pur Rieng,1
+TUORLUM,western_union,Kampong Hau,1
+KHYAOKCHEUNG,western_union,Popueus,1
+TRAPEANGPOPEL,western_union,Ta Siem,1
+PREKRUESSEY,western_union,Prek Ruessey,1
+TRAMOT,western_union,Pratheat,1
+THMEI,western_union,Pongro Kraom,1
+KHNAR,western_union,Khnar Sa,1
+THNALKAENG,western_union,Spean Tnaot,1
+TUMNOBDACH,western_union,Tumnob Dach,1
+PEAMCHUMNIK,western_union,Kampong Luong,1
+CHONGPREY,western_union,Chrey Thum,1
+PARAENKRAOM,western_union,Svay Prateal,1
+KNONG,western_union,Lveaeng Ruessei,1
+PREYRUMDUOL,western_union,Prasoutr,1
+PREAEKPOUKRAOM,western_union,Preaek Pou,2
+THNAL,western_union,Sambatt Mean Chey,1
+POULEU,western_union,Traeuy Sla,2
+POUCHENTAM,western_union,Svay Antor,4
+THMEI,western_union,Roleang Kaen,1
+KAMPONGBASROVTBOUNG,western_union,Chol Sar,1
+PRABOSROLUOY,western_union,Banteay Chakrei,1
+PREKTAPOV,western_union,Doeum Mien,1
+THMEI,western_union,Doung,1
+SVAYRIENG,western_union,Romeas Haek,2
+KAENGTASOKH,western_union,Kampong Hau,1
+SVAYCHEK,western_union,Pongro Leu,1
+KAMPONGBOENG,western_union,Kampong Hau,1
+SREKRORSANG,western_union,Trapeang Prasat,2
+TRAKIET,western_union,Roka,1
+TRAPEANGPHLUOH,western_union,Pongro Leu,1
+KREANG,western_union,Pongro Leu,1
+SAMPOUNG,western_union,Banteay Chakrei,1
+CHEUNGDOEK,western_union,Pram Yam,1
+TAPOARPIR,western_union,Pongro Kraom,2
+PRAMOULDOM,western_union,Smaong Khang Cheung,1
+PHLONG,western_union,Pongro Kraom,1
+SRAHPRING,western_union,Batheay,1
+PEAMCHHKAOK,western_union,Peam Chhkaok,1
+KOUKAMPIL,western_union,Lveaeng Ruessei,1
+SVAYSRANAOHTIMUOY,western_union,Roka Ar,1
+SAMAR,western_union,Daeum Rues,1
+DOUNVIET,western_union,Kampong Hau,1
+TUMNOB,western_union,Trangel,1
+POU,western_union,Pou,1
+DANGPHAV,western_union,Pongro Kraom,1
+PHAV,western_union,Ph Av,4
+PRAKEAB,western_union,Msa Krang,1
+TRAMCHAN,western_union,Preah Pralay,1
+RUESSEIDANGKUOCH,western_union,Chol Sar,1
+LVEAENGRUESSEI,western_union,Lveaeng Ruessei,1
+PREAEKLIVTIBUON,western_union,Roka Ar,1
+TRABAEK,western_union,Cheung Prey,1
+ANDOUNGTHMA,western_union,Pean Roung,1
+CHONGSPEAN,western_union,Khvav,1
+PRASOUTRKA,western_union,Cheung Prey,1
+MEPHLEUNG,western_union,Svay Rieng,2
+PREAEKDAMBOUKLEU,western_union,Preaek Dambouk,3
+PREAEKTNAOT,western_union,Sambuor,1
+POURING,western_union,Khvav,1
+KRAPEUHA,western_union,Prek Ruessey,2
+CHAMBAKKHPOS,western_union,Svay Rumpear,1
+KBALKANLANG,western_union,Peam Chhkaok,1
+CHHUK,western_union,Pralay,1
+KRADASKA,western_union,Tang Krasang,1
+VEAL,western_union,Khnor Dambang,1
+CHREYKOR,western_union,Prey Sralet,1
+SRAYANGTBOUNG,western_union,Srayang,4
+PREYKRICHEUNG,western_union,Prey Kri,1
+SDOKTHUM,western_union,Tang Krasang,1
+PHDAUCHUMKAEUT,western_union,Pdau Chum,1
+KHLEANGSBAEK,western_union,Kampong Luong,1
+PRAYUK,western_union,Tumnob,3
+BANTEAY,western_union,Baray,1
+KAMPONGPOUTBOUNG,western_union,Krang Yov,1
+TUMNOBLEU,western_union,Tumnob,1
+SVAYTHUM,western_union,Svay Rumpear,1
+TUOLVIHEAR,western_union,Reay Pay,1
+TRAPEANGCHHUK,western_union,Peuk,1
+KOUKROVIENG,western_union,Kouk Rovieng,2
+REAYPAYLEU,western_union,Reay Pay,1
+CHONGBOENGKNONG,western_union,Preaek Dambouk,1
+CHEUNGPREY,western_union,Cheung Prey,1
+CHUMPEAR,western_union,Prey Kri,1
+TRAMPAONG,western_union,Preah Pralay,1
+SRAMA,western_union,Svay Rumpear,1
+CHEATHEACH,western_union,Doung,1
+PREYKRITBOUNG,western_union,Prey Kri,1
+REAYPAYKRAOM,western_union,Reay Pay,1
+ANGKHLOAM,western_union,Pralay,1
+ROVIENG,western_union,Khnor Dambang,4
+MSAKRANGCHEUNG,western_union,Msa Krang,1
+PONLUEU,western_union,Lumhach,1
+KHVET,western_union,Tang Krasang,1
+PREYSLOEK,western_union,Smaong Khang Tboung,1
+CHHUK,western_union,Kouk Rovieng,1
+KHNORDAMBANG,western_union,Khnor Dambang,1
+PREAHVIHEAR,western_union,Kulen,1
+BENBAOR,western_union,Preah Putth,1
+CHOB,western_union,Kandieng Reay,1
+CHAMNEANG,western_union,Pdau Chum,1
+NGUONSIEM,western_union,Kampong Chen Tboung,1
+ANTONGKRAVIEN,western_union,Mkak,1
+PRAMA,western_union,Svay Yea,1
+BONGKOL8,western_union,Sror Aem,1
+PREYVENG,western_union,Kamchay Mear,1
+SAMBUORTBOUNG,western_union,Msa Krang,1
+SITHORLECH,western_union,Sithor,1
+PREAKBANGKANG,western_union,Preaek Ta Kov,1
+KHCHAUTIBEI,western_union,Khchau,1
+KDEIKANDAL,western_union,Sarikakaev,1
+KAMPONGKDEI,western_union,Kampong Chen Tboung,2
+KAMPONGTHOM,western_union,Kampong Thom,91
+TRACHCHRUM,western_union,Samprouch,1
+LVEA,western_union,Samprouch,1
+SVAYKANDAL,western_union,Svay Khsach Phnum,1
+SVAYPREY,western_union,Sandaek,1
+PREAEKKAROATN,western_union,Kampong Prang,1
+SOUTIB,western_union,Soutib,1
+SVAYTBOUNG,western_union,Svay Khsach Phnum,1
+PREAEKTATEAV,western_union,Preaek Ambel,1
+PREAHVIHEAR,western_union,Preah Vihear,27
+KAKPAL,western_union,Sandaek,1
+KRAEK,western_union,Pralay,1
+TONLOAB,western_union,Prey Puoch,1
+THKOV,western_union,Trab,1
+DAR,western_union,Dar,1
+BOENGCHROUY,western_union,Soutib,1
+KHCHAUTIMUOY,western_union,Khchau,1
+KAMPOUTMREAK,western_union,Popeaet,1
+ANLONGPRING,western_union,Pralay,1
+KAMPONGTHOM,western_union,Staung,1
+PREAHTHEAT,western_union,Khvav,1
+BOENGTRAV,western_union,Sour Kong,1
+PREAEKKROUCH,western_union,Phum Thum,1
+LEABTONG,western_union,Kampong Chen Tboung,2
+CHHEUTEAL,western_union,Kampong Chen Tboung,1
+KUY,western_union,Dar,1
+SVAYLEU,western_union,Svay Khsach Phnum,1
+SVAYROMIET,western_union,Svay Romiet,1
+KRAVAN,western_union,Kranhung,2
+TRACH,western_union,Kampong Chen Cheung,1
+OU,western_union,Khvav,1
+HAB,western_union,Trea,1
+TASAEN,western_union,Soutib,2
+KAMPONGTHOM,western_union,Kampongthom,1
+SRAHTHKOV,western_union,Kampong Soeng,2
+RUMCHEK,western_union,Srayang,1
+PREKSAMRAONG3,western_union,Ta Khmau,2
+CHHEUTEAL,western_union,Pdau Chum,1
+KHVAV,western_union,Khvav,2
+PREAHVIHEAR,western_union,Preahvihear,1
+DOUNDOM,western_union,Soutib,1
+KANLAENGRUN,western_union,Reay Pay,1
+OUPOPEL,western_union,Khchau,1
+ANLONGKRANH,western_union,Popok,1
+PNOVKAEUT,western_union,Prey Char,1
+SAMBUOR,western_union,Kampong Prang,1
+SPEANKRONG,western_union,Chamna Kraom,2
+PONLEACHEY,western_union,Banteay Stoung,1
+KAOHTANGAOTIPIR,western_union,Sour Kong,1
+KRASARCHET,western_union,Rumchek,2
+SRAYANGCHEUNG,western_union,Srayang,4
+KSER,western_union,Preaek Rumdeng,1
+DAMREIPUON,western_union,Damrei Puon,1
+TACHAR,western_union,Trea,1
+TUOLAMPIL,western_union,Chrak Mtes,1
+SAMRAONGSAEN,western_union,Samraong Saen,1
+BENG,western_union,Banteay Stoung,1
+SANGKAE,western_union,Sdaeung Chey,1
+ANGKORBANTIBUON,western_union,Angkor Ban,1
+ANDOUNGTRABAEK,western_union,Andoung Trabaek,1
+KDOY,western_union,Sdaeung Chey,1
+SAMRAONG,western_union,Mukh Da,1
+VOATTHMEI,western_union,Preaek Dambang,1
+PREYROKA,western_union,Chres,1
+PRASAT,western_union,Chamna Leu,1
+PONGRO,western_union,Sdaeung Chey,1
+SAMBUOR,western_union,Popok,1
+PHUMTIDAB,western_union,Preaek Ta Nong,1
+KRANHUNG,western_union,Doung,1
+KROUCHSAEUCH,western_union,Kaoh Andaet,1
+SVAYPREY,western_union,Samraong,1
+TAKRET,western_union,Samraong,1
+PREAEKRUMDENGKHO,western_union,Preaek Rumdeng,1
+THMEI,western_union,Soutib,1
+PREYVENG,western_union,Sithor Kandal,1
+PHTEAHVEAL,western_union,Trea,1
+SAMKAOK,western_union,Trea,1
+BATI,western_union,Prey Char,1
+SANGKAE,western_union,Seang Khveang,1
+SRAMKAEUT,western_union,Sramar,1
+PREYKAMPEAENG,western_union,Prey Kandieng,2
+KAMPONGCHAM,western_union,Kang Meas,2
+KAMPONGCHAM,western_union,Prey Chhor,1
+SENSONCHEUNG,western_union,Sragnae,1
+SAMBUORMEASKA,western_union,Peam Chi Kang,1
+SLAENGKHPOS,western_union,San Kor,1
+PEAREANG,western_union,Reab,1
+AREAKS,western_union,Trapeang Kor,1
+TNAOT,western_union,Kampong Ruessei,1
+KRASANGKA,western_union,San Kor,1
+LVEA,western_union,Kampong Ruessei,1
+THOMACHEATSAMDACHTECHHORHU,western_union,Sror Aem,3
+THNA,western_union,Thna Thnong,1
+KAOHCHEK,western_union,Kaoh Chek,1
+CHAMBOKSENCHEY,western_union,Sror Aem,1
+PNOVLECH,western_union,Prey Char,1
+PREAEKSVAY2,western_union,Chheu Teal,1
+PANA,western_union,Soutib,1
+PHUMTIDABBEI,western_union,Preaek Ta Nong,1
+SKON,western_union,Soutib,3
+TNAOTLEU,western_union,Ruessei Srok,1
+SLAKKRANH,western_union,Samprouch,1
+PREAEKCHAM,western_union,Banlich Prasat,1
+TBONGKHMUM,western_union,Tboung Khmum,50
+DANGPHDIEK,western_union,Doung,1
+VEAL,western_union,San Kor,1
+KAMPONGKOULEU,western_union,Kampong Kou,1
+OUKANDAOL,western_union,Preaek Krabau,2
+CHANGVA,western_union,Ampil Ta Pok,1
+SVAYREAKS,western_union,Sour Saen,1
+DAMNAKCHREY,western_union,Peam Chi Kang,1
+BOSTASAOM,western_union,Rung Roeang,2
+CHONGKHNHOUNG,western_union,Moha Khnhoung,1
+TANGKOUK,western_union,Lvea,1
+SRAGNAETBOUNG,western_union,Sragnae,1
+PREYTAYOAN,western_union,Pong Tuek,1
+ANGKORCHEYKRAOM,western_union,Moha Khnhoung,1
+KAMPULSEREI,western_union,Mien,1
+LVEKRAOM,western_union,Lve,1
+MEMEANG,western_union,Lvea,1
+PREYCHAMNAR,western_union,Khsaetr,1
+CHHUKSA,western_union,Boeng Nay,1
+BOENGNAY,western_union,Boeng Nay,1
+LEKHPRAM,western_union,Ampil Ta Pok,1
+KABBAS,western_union,Khvet Thum,1
+PREAEKTAMEAE,western_union,Kampong Os,2
+SRAAEMKHANGTBOUNG,western_union,Kantuot,1
+SEKYUM,western_union,Prey Chhor,1
+ROLUOS,western_union,Preah Damrei,1
+TUMPOUNG,western_union,Lve,1
+TRAPEANGKRAPEU,western_union,Krang Mkak,1
+KBEL,western_union,San Kor,1
+KHTOMMON,western_union,Popok,1
+KAU,western_union,Baek Chan,1
+LHONG,western_union,Chamna Leu,1
+KROUCH,western_union,Angkor Reach,1
+TRAPEANGTUEM,western_union,Pring Chrum,1
+SVAYTAHAEN,western_union,Roka Koy,1
+DOUNTAO,western_union,Sampong Chey,1
+THNALCHEY,western_union,Popueus,1
+KOMARREACH,western_union,Boeng Nay,1
+SENCHEY,western_union,Sror Aem,2
+DAIBUON,western_union,Chrey Vien,1
+TRAPEANGCHHUK,western_union,Sampong Chey,1
+BANTEAYTOUCH,western_union,Phnum Bat,1
+POU,western_union,Sampong Chey,1
+KAOHKROBBAY,western_union,Kampong Kou,1
+PEAMREANGLEU,western_union,Peam Reang,1
+POUTHMEI,western_union,Preal,1
+CHAK,western_union,Chak,4
+CHOBKRAU,western_union,Chob,4
+TBONGKHMUM,western_union,Thbong Khmum,8
+PONGRO,western_union,Peam Prathnuoh,1
+KAMPEUT,western_union,Sameakki,1
+PREAEKKDAMMUOY,western_union,Kaoh Chen,3
+KONGYAONG,western_union,Yeang,1
+DAEUMSDAU,western_union,Pongro,1
+PHSARTHMEI,western_union,Peam Prathnuoh,2
+TBAENGKHA,western_union,Tbaeng,1
+SLAENG,western_union,Chrey Vien,1
+AMPILTVEAR,western_union,Sampong Chey,1
+ANSAONG,western_union,Chrey Thum,1
+KRABAU,western_union,Doung,1
+SOUPHI,western_union,Preah Damrei,1
+SANKORKHA,western_union,San Kor,1
+DAMNAKPRINGKAEUT,western_union,Moha Leaph,1
+SVAYTATHOAM,western_union,Ampil Ta Pok,1
+KANTONGRONG,western_union,Rung Roeang,1
+SRAAEMKHANGCHEUNG,western_union,Sror Aem,1
+TUOLPOPEL,western_union,Kouk Kong Lech,1
+ANGKROMEAS,western_union,Mkak,1
+KANDALKHNHOUNG,western_union,Moha Khnhoung,1
+CHEUNGVOAT,western_union,Kong Chey,1
+THNALKAENG,western_union,Kong Chey,1
+STUENGCHEY,western_union,Kong Chey,1
+SOURSAEN,western_union,Sour Saen,1
+KEN,western_union,Chamna Leu,1
+PREYCHAR,western_union,Khsaetr,1
+KAOHCHAMPA,western_union,Pring Chrum,1
+BOTUMKAEUT,western_union,Rung Roeang,1
+THMEI,western_union,Sangkhoar,1
+THLOK,western_union,Chamna Leu,1
+TROMUKHTIMUOY,western_union,Tong Rong,1
+TRAPEANGBEI,western_union,Baray,1
+TRADAKPONG,western_union,Pongro,1
+PREYTHUM,western_union,Smaong Khang Tboung,1
+TRAPEANGKHTUEM,western_union,Krang Mkak,1
+KHLOUYTIBEI,western_union,Mien,1
+PEAMKRAENG,western_union,Kdei Doung,2
+PREYKHCHAY,western_union,Baray,1
+TRAPEANGTEA,western_union,Chak,1
+PREAEKRUMDENGKAEUT,western_union,Pongro,1
+OUCHROK,western_union,Krouch,1
+NEAKTASNOENG,western_union,Boeng Nay,1
+DOUNDEI,western_union,Chrey Vien,2
+OUSAMBUOR,western_union,Kdei Doung,1
+THMADALECH,western_union,Tuol Souphi,1
+TUOLPNOV,western_union,Preah Theat,1
+BOENGPHTIL,western_union,Tuol Souphi,1
+TALEY,western_union,Kor,1
+PREYSRALANH,western_union,Trapeang Preah,1
+OUDA,western_union,Trapeang Preah,2
+CHAMKARKOR,western_union,Chak,1
+OUKANTHORCHEUNG,western_union,Ou Kanthor,1
+TAMOUT,western_union,Kor,2
+TAKAEV,western_union,Kor,1
+TRAPEANGSLA,western_union,Sampong Chey,1
+KHSACHCHIROS,western_union,Kampong Kou,1
+PREYSRAH,western_union,Sambatt Mean Chey,1
+TUOLTRACH,western_union,Kong Chey,1
+AMPILTBOUNG,western_union,Ampil Ta Pok,1
+TBONGKHMUM,western_union,Ou Reang Ov,1
+LEKHBUONLECH,western_union,Ampil Ta Pok,1
+PHUMLEKHMUOY,western_union,Kong Chey,1
+TBONGKHMUM,western_union,Tboungkhmum,8
+LEKHBUONKAEUT,western_union,Ampil Ta Pok,1
+SVAYMING,western_union,Ampil Ta Pok,1
+TRAPEANGPHUM,western_union,Peuk,1
+PEAKSBAEK,western_union,Rumdaoh Srae,1
+PRATAONG,western_union,Svay Phleung,1
+SVAY,western_union,Rumdaoh Srae,1
+PREAHVIHEAR,western_union,Choam Khsant,4
+KULEAENTBOUNG,western_union,Kuleaen Tboung,2
+TAMEANG,western_union,Kaoh Roka,2
+KHLOYKAEUT,western_union,Sou Young,1
+REAKSMEIRUMDAOH,western_union,Sou Young,1
+ANGKTAMOUK,western_union,Prasoutr,1
+MIEN,western_union,Mien,1
+RUESSEILOR,western_union,Svay Phleung,1
+CHHUKSA,western_union,Dountei,1
+DOUNG,western_union,Doung,1
+KAMPONGTHOM,western_union,Taing Kouk,1
+OUKANTHORTBOUNG,western_union,Ou Kanthor,1
+SOUYOUNG,western_union,Sou Young,2
+THMEIKANDAL,western_union,Preah Theat,1
+SRAYOVTBOUNG,western_union,Srayov,1
+TUEKYONG,western_union,Kak,1
+ROMEANGNGOAB,western_union,Trapeang Ruessei,1
+STUENGSAEN,western_union,Kampong Krabau,4
+TUOLTHMA,western_union,Thma Pun,1
+ANDOUNGTALOENG,western_union,Thma Pun,1
+DAMRILTIBUON,western_union,Damril,1
+CHEK,western_union,Chheu Teal,1
+TALON,western_union,Trapeang Preah,1
+PREYTHLOK,western_union,Svay Ta Yean,1
+TUOLKHSACH,western_union,Tonle Bet,1
+PREYPREALKA,western_union,Trapeang Ruessei,1
+NIPECHKHA,western_union,Nipech,2
+THMEI,western_union,Sameakki,1
+KAPALKOEUNG,western_union,Sampeou Poun,1
+SAMRAONG,western_union,Sameakki,1
+SEREISAMEAKKIKANDAL,western_union,Sralau,1
+KAMPEANH,western_union,Yeang,1
+KAKAOH,western_union,Trapeang Preah,1
+KAMPONGTROMKRAOM,western_union,Kaoh Mitt,1
+SANGVAT,western_union,Kraya,1
+THMEYSENCHEY,western_union,Tuol Souphi,1
+PREAEKSBOV,western_union,Ou Kanthor,1
+ANHCHEAENGKRAOM,western_union,Puk Ruessei,1
+KRASANG,western_union,Trapeang Ruessei,1
+TUOLPOPLEA,western_union,Sralau,1
+KAOHDACH,western_union,Kaoh Mitt,1
+NIPECHKA,western_union,Nipech,1
+PREYPRAS,western_union,Tbaeng,1
+CHHEUBAK,western_union,Boeng Nay,1
+TANGKOUK,western_union,Sou Young,1
+TRAPEANGREANG,western_union,Prey Puoch,1
+PHUMTIPRAMMUOY,western_union,Kampong Thum,1
+KRALA,western_union,Ampil,1
+PHUMTIMUOY,western_union,Kampong Thum,1
+STUENGPENH,western_union,Chikor,1
+PREAEKDAEUMCHAN,western_union,Sambuor Meas,2
+CHAMBAK,western_union,Srayov,1
+ROKAKRAOM,western_union,Sambuor Meas,2
+KHAELCHEY,western_union,Ou Svay,1
+ANDOUNGPOU,western_union,Andoung Pou,1
+ANGKORLEU,western_union,Dountei,1
+KAOHKAPHEM,western_union,Trapeang Preah,1
+TUOLSAMBOUR,western_union,Chob,1
+KAMPONGROTEH,western_union,Kampong Roteh,1
+SLAKAET,western_union,Prey Ta Hu,2
+DAMREICHOANKHLA,western_union,Damrei Choan Khla,1
+KAMPONGTHUM,western_union,Kampong Roteh,2
+PHDIEK,western_union,Phan Nheum,1
+KRATIE,western_union,Kratie,52
+SRAHSANGKOM,western_union,Peuk,1
+CHACHAK,western_union,Trapeang Preah,1
+PHNUM,western_union,Tonle Bet,1
+DOUNMAUKRAOM,western_union,Tonle Bet,1
+KRASANGPUL,western_union,Mien,1
+ANDOUNGTAPECH,western_union,Thma Pun,1
+ANLONGTASEKKRAOM,western_union,Preaek Ambel,2
+KRABAU,western_union,Kuleaen Tboung,1
+KOKOR,western_union,Sralau,1
+DANGKOUM,western_union,Kaoh Chen,1
+KOUKNGUON,western_union,Trapeang Ruessei,1
+PONLEY,western_union,Kak,1
+KAMPONGTHOM,western_union,Krong Stung Sen,1
+DOUNMAULEU,western_union,Tonle Bet,1
+KDEI,western_union,Prey Ta Hu,2
+NEANGKONGHING,western_union,Sambuor Meas,1
+PHUMTIPRAMPIR,western_union,Kampong Thum,1
+CHHEUTEALKONG,western_union,Choam Ksant,1
+KAMRAENG,western_union,Srayov,1
+TOUNG,western_union,Sralau,1
+PNOV,western_union,Phnum Penh,1
+NEAKVEANG,western_union,Sralau,1
+PREYTAHU,western_union,Prey Ta Hu,1
+DAMNAKKANDOL,western_union,Rumdaoh Srae,1
+SIEMREANG,western_union,Chraneang,1
+TUOLTHMEI,western_union,Chikor,1
+TRAPEANGBOENG,western_union,Thma Pun,1
+THMAPUNKANDAL,western_union,Thma Pun,1
+TUOLAMPIL,western_union,Sralau,1
+TONLEBETKRAOM,western_union,Tonle Bet,1
+ANGKORKRAU,western_union,Dountei,1
+PHUMTIMUOY,western_union,Veal Vong,2
+LVEA,western_union,Tumnob Thum,1
+PHUMTIPIR,western_union,Veal Vong,4
+VEALAMPIL,western_union,Triel,1
+KRAYACHEUNG,western_union,Kraya,2
+BOENGRAIKHANGTBOUNG,western_union,Kraol Kou,1
+SEREIVONGS,western_union,Trapeang Ruessei,1
+SAKREAMTBOUNG,western_union,Sakream,1
+VEALROBANGKRAOM,western_union,Angkor Angk,1
+ACHARLEAK,western_union,Achar Leak,2
+TRAPEANGLEAK,western_union,Trapeang Preah,1
+THNALCHEAT,western_union,Baray,2
+SAKREAMCHEUNG,western_union,Sakream,1
+TUOLTREACHEUNG,western_union,Chob,1
+CHONGHUK,western_union,Ampil,1
+KAMPONGCHAM,western_union,Krong Kampong Cham,4
+KAOHTRACH,western_union,Thmei,1
+STUENGTOUCH,western_union,Kak,1
+SLAENG,western_union,Chikor,1
+SAMEAKKI,western_union,Chikor,1
+PREYCHAKKREI,western_union,Ou Svay,1
+PHUMTIPRAMMUOY,western_union,Veal Vong,3
+PHUMTIBEI,western_union,Veal Vong,2
+PHUMTIPRAM,western_union,Veal Vong,1
+THLOK,western_union,Kak,1
+SDACHNON,western_union,Krala,1
+POUBAKKA,western_union,Damrei Choan Khla,1
+LEKHMUOYKAR,western_union,Svay Rolum,1
+TRIEL,western_union,Triel,1
+MNEAV,western_union,Srayov,1
+TBOUNGDAMREI,western_union,Kampong Chamlang,1
+PHUMTIPRAMPIR,western_union,Kampong Cham,4
+PREAEKKDEI,western_union,Preaek Ta Teaen,2
+AMPILLEU,western_union,Ampil,3
+VEALTHNAL,western_union,Sakream,2
+PHUMTIPRAMBEI,western_union,Kampong Cham,2
+YEAYSAR,western_union,Tonle Bet,2
+KAMPONGCHAM,western_union,Kampong Siem,1
+TUOLSALA,western_union,Prey Puoch,1
+AMPILKRAOM,western_union,Ampil,1
+ANDOUNGCHROH,western_union,Ampil,1
+TRACHKHAOL,western_union,Trapeang Phlong,1
+EISANTMEANCHEY,western_union,Anhchaeum,1
+OURUMCHEK,western_union,Chraneang,1
+PREYSAMLANH,western_union,Roka,1
+PHUMTIDABPIR,western_union,Kampong Cham,1
+KANTEAK,western_union,Sakream,1
+TRAPEANGPRINGTIPIR,western_union,Trapeang Phlong,1
+PRASAM,western_union,Ro Ang,2
+KRACHAB,western_union,Achar Leak,1
+MEMAY,western_union,Boeng Kok,2
+OURUMDENG,western_union,Trapeang Ruessei,1
+SAMPOAR,western_union,Ta Ong,2
+PREYKUY,western_union,Prey Kuy,1
+ANLONGSLAENG,western_union,Sambuor Meas,2
+SLABKDAONG,western_union,Chob,4
+ANDOUNGCHEA,western_union,Chirou Ti Pir,1
+ANLONGSNOUK,western_union,Ou Svay,1
+TUOLPOPEL,western_union,Krala,1
+KDAMHA,western_union,Chhuk Khsach,1
+TRAPEANGPHLONGTIPIR,western_union,Trapeang Phlong,1
+BOENGKOKTIPIR,western_union,Boeng Kok,1
+KIRIANDAET,western_union,Triel,1
+CHROUYTHMA,western_union,Boeng Kok,1
+KANGMEAS,western_union,Tnaot Chum,1
+ROKAKHMUOCHTBOUNG,western_union,Chikor,1
+THNALBAEK,western_union,Trapeang Ruessei,1
+PNOV,western_union,Pnov,1
+THNONG,western_union,Mong Riev,1
+BOSTHLAN,western_union,Svay Teab,1
+PONLEYPHSAR,western_union,Anhchaeum,1
+CHHUKKHSACH,western_union,Chhuk Khsach,1
+PHLOVTREAS,western_union,Chhuk Khsach,1
+SEREIREACH,western_union,Chhuk Khsach,1
+RIEV,western_union,Mong Riev,1
+ANHCHAEUM,western_union,Anhchaeum,1
+ANGKKDUOCH,western_union,Preah Ponlea,1
+VEALTHNONG,western_union,Bos Khnor,1
+KBALKHLA,western_union,Phnum Tbaeng Muoy,1
+CHRAKRUMDENG,western_union,Trapeang Phlong,2
+SAMPOVPHOSTHMEI,western_union,Chirou Ti Pir,1
+KUR,western_union,Chong Doung,1
+TRAPEANGKRAPEU,western_union,Mong Riev,1
+CHRAKCHAMBAK,western_union,Chob,1
+CHRANAOM,western_union,Bos Khnor,3
+CHAMKARANDOUNG,western_union,Chamkar Andoung,2
+SVAYKAL,western_union,Kakaoh,2
+CHIROUKRAOMTIPIR,western_union,Chirou Ti Muoy,2
+CHEAYSBAI,western_union,Kakaoh,1
+BARIBOUR,western_union,Phnum Tbaeng Pir,1
+TUOLKREUL,western_union,Tuol Kreul,1
+PREAEKREY,western_union,Preaek Rey,1
+CHONGDOUNG,western_union,Chong Doung,1
+SUONGLECH,western_union,Suong,5
+CHREYBETMEAS,western_union,Suong,2
+SUONGKAEUT,western_union,Suong,5
+CHEUNGLANG,western_union,Suong,1
+BOSKHNOR,western_union,Bos Khnor,1
+CHHUK,western_union,Phnum Tbaeng Pir,1
+TUOLTRACH,western_union,Trean,1
+CHEYCHUMNEAH,western_union,Kakaoh,1
+ANSES,western_union,Choam Ksant,1
+TRAPEANGSNAO,western_union,Mong Riev,1
+ROMUL,western_union,Ro Ang,1
+MONGTIPRAMPIR,western_union,Mong Riev,1
+TUEKCHENH,western_union,Chirou Ti Pir,1
+SAMRAONG,western_union,Chong Doung,1
+SVAYCHUOR,western_union,Chamkar Andoung,1
+CHRANIENG,western_union,Trean,1
+TASAENGKANDAL,western_union,Ronak Ser,2
+TASAENGKHANGCHEUNG,western_union,Ronak Ser,1
+CHEYMONGKOL,western_union,Chroab,2
+THLOKKRAVAN,western_union,Bos Khnor,2
+KALMEKH,western_union,Tboung Krapeu,1
+SAMEAKKI,western_union,Bos Khnor,2
+SDOKSDAM,western_union,Chroab,1
+CHOAMKSANT,western_union,Choam Ksant,1
+KOUKLVIENG,western_union,Kandaol Chrum,1
+KOUNTMAT,western_union,Anhchaeum,1
+KHLEANG,western_union,Chheu Kach,1
+BOENGUNKNOWNKHANGCHEUNG,western_union,Boeng,1
+PRASAEUR,western_union,Bos Khnor,1
+CHAMREH,western_union,Svay Thum,1
+TANGKRANG,western_union,Svay Teab,1
+ANGKORCHEA,western_union,Sralab,1
+TRAPEANGTONSAONG,western_union,Kandaol Chrum,1
+NIKOMKRAOM,western_union,Sralab,1
+TIEMCHAS,western_union,Kampong Svay,1
+NIKOMLEU,western_union,Sralab,3
+PHUMTIPRAMBEI,western_union,Kaoh Samraong,1
+KOUKSRALAU,western_union,Choam Ksant,2
+THMEI,western_union,Popel,1
+PHUMSAEPRAMMUOY,western_union,Chob,1
+LEAV,western_union,Prasat,1
+THMEI,western_union,Vihear Luong,1
+TRAPEANGCHAK,western_union,Anhchaeum,1
+PRATHEAT,western_union,Sralab,4
+PREYKUY,western_union,Srak,1
+ENTEAKKOMAR,western_union,Kampong Svay,1
+TRAPEANGBENG,western_union,Svay Teab,1
+KRAEKCHEUNG,western_union,Kraek,2
+CHIMOANKANDAL,western_union,Kraek,4
+STUENG,western_union,Kaong Kang,1
+KRAEKTBOUNG,western_union,Kraek,2
+TBONGKHMUM,western_union,Ponhea Kraek,1
+POUROUNGLECH,western_union,Kaong Kang,1
+THNALBAEK,western_union,Thmei,1
+TANGKRASANG,western_union,Tang Krasang,1
+SANGKHLEANG,western_union,Tang Krasang,2
+TRAPEANGKU,western_union,Sralab,2
+TOUNG,western_union,Suong,2
+SRAEPREAL,western_union,Svay Teab,1
+TRAS,western_union,Ballangk,1
+LPEAK,western_union,Srak,1
+KAMPONGCHAM,western_union,Chamkar Leu,4
+SRALAUTOUNG,western_union,Ballangk,1
+TBONGKHMUM,western_union,Tbuong Khmum,1
+TAONG,western_union,Ta Ong,1
+POUSROK,western_union,Kaong Kang,4
+HUOCHLECH,western_union,Kraek,1
+KANDAOLKAONG,western_union,Kaong Kang,1
+PREAEKLUONG,western_union,Preaek Luong,2
+KANDAL,western_union,Vihear Luong,1
+PAEN,western_union,Trean,1
+ROANGKRAOM,western_union,Ro Ang,1
+VEANGKHANGCHEUNG,western_union,Tang Krasang,1
+PRAMPIRMEAKKAKRA,western_union,Tang Krasang,1
+PHUMLEKHMUOY,western_union,Chamkar Andoung,1
+THNALKAENG,western_union,Trapeang Phlong,1
+MOHA,western_union,Svay Teab,1
+TATRAV,western_union,Chirou Ti Pir,1
+PHUMPRAMMUOYDABPIR,western_union,Vihear Luong,1
+AMPUK,western_union,Kraek,1
+SAMLANH,western_union,Phnum Tbaeng Muoy,1
+THNALBAEKKAEUT,western_union,Svay Teab,1
+TRAPEANGAREAKS,western_union,Chey,1
+RUMCHEK,western_union,Ta Prok,3
+PREYSRANGAE,western_union,Ballangk,1
+TMATPAEUY,western_union,Pring Thum,1
+VIHEARKRAOM,western_union,Boeng Pruol,1
+CHHEUTEAL,western_union,Kampong Thma,1
+TAPROK,western_union,Chhuk Khsach,1
+SRAEPRANG,western_union,Ta Prok,2
+SVAY,western_union,Chhveang,1
+PHUMTIPRAM,western_union,Kaoh Samraong,1
+PREAEKTHUM,western_union,Neak Loeang,1
+VEALRIKAEUT,western_union,Svay Teab,1
+SVAYTEAB,western_union,Svay Teab,1
+SOCH,western_union,Sdau,1
+TRASET,western_union,Kraek,1
+PRAYAB,western_union,Sralab,2
+TUOLSANGKAE,western_union,Kampong Thma,1
+TRAPEANGSVAY,western_union,Ballangk,1
+PREAEKYUON,western_union,Kien Chrey,1
+CHRANGKRAHAM,western_union,Kampong Svay,1
+ANLONGRONIETKHANGLECH,western_union,Anlong Romiet,1
+PRAMPIRMEAKKAKRA,western_union,Dar,1
+SALAVISAI,western_union,Sala Visai,1
+KABBAS,western_union,Veal Mlu,1
+THMAPECHTIPIR,western_union,Thma Pech,1
+KHMAK,western_union,Sala Visai,1
+RUMLECH,western_union,Rumchek,1
+TUOLKAMPOTTIMUOY,western_union,Boeng Pruol,1
+KHSOMCHEUNG,western_union,Kampong Popil,1
+MOHAR,western_union,Chey,1
+CHEUNGANG,western_union,Kandaol Chrum,1
+TRAPEANGSANGKAE,western_union,Sralab,1
+TAPREACH,western_union,Ti Pou,1
+VEALMLU,western_union,Veal Mlu,1
+CHIPEANG,western_union,Kraek,1
+POPEL,western_union,Popel,1
+CHRAB,western_union,Lngieng,1
+PREYBOENG,western_union,Meun Chey,1
+CHHEUTEALTIMUOY,western_union,Peam Chileang,1
+PONLEAK,western_union,Chong Cheach,1
+CHUORKANDAL,western_union,Kaoh Pir,1
+TBONGKHMUM,western_union,Memot,6
+TALAEK,western_union,Sala Visai,3
+SPUEUKA,western_union,Cheyyou,1
+LVEATOUCH,western_union,Kor,1
+KAMPOUTCHRUK,western_union,Prey Angkunh,1
+KHNOR,western_union,Neang Teut,1
+PHUMTIBUON,western_union,Kampong Treas,1
+POPRENG,western_union,Spueu,1
+SRAE,western_union,Sala Visai,1
+KBALBOENGSEHKAEUT,western_union,Kor,1
+MOANHAEUR,western_union,Hanchey,1
+BENG,western_union,Rung,1
+TAPANG,western_union,Peam Chileang,1
+LVEATHUM,western_union,Lngieng,1
+PUKRUESSEIKRAOM,western_union,Puk Ruessei,1
+SRAK,western_union,Srak,2
+THMEI,western_union,Ti Pou,1
+CHAEUNGDAEUNG,western_union,Chaeung Daeung,1
+CHREYMUOYROY,western_union,Sambuor Meas,2
+CHONLUS,western_union,Tuol Kreul,1
+LVEATBOUNG,western_union,Lvea Leu,1
+BOSSRAMAOCH,western_union,Sala Visai,1
+BAKKAM,western_union,Chhean Mukh,1
+KHVAEK,western_union,Kampong Thma,1
+CHHEUTEALSROTKRAOM,western_union,Rumchek,1
+LVEACHEUNG,western_union,Lvea Leu,1
+SMAONH,western_union,Lngieng,1
+TUMNOBSAENCHEY,western_union,Kor,1
+SAMBOUR,western_union,Soupheas,1
+TAMAU,western_union,Srak,1
+MEMAE,western_union,Kraek,1
+ROKAPOPRAMTIMUOY,western_union,Roka Po Pram,1
+BOSPOU,western_union,Me Sar Chrey,1
+TAREAM,western_union,Chong Cheach,1
+TRAPEANGPRING,western_union,Kraya,1
+SRAMAR,western_union,Tuek Chrov,1
+KAMPONGCHAM,western_union,Stung Trang,5
+VEALTHUM,western_union,Kokir Thum,1
+PREAEKPREAHANGK,western_union,Preaek Bak,2
+KOUKSROK,western_union,Tang Krasau,1
+TOK,western_union,Kraya,1
+DOUNG,western_union,Choam Kravien,1
+PHUMTIPIR,western_union,Kampong Treas,2
+SOUPHEAS,western_union,Soupheas,2
+TRAPEANGLPOV,western_union,Cheyyou,1
+VOAT,western_union,Tuol Preah Khleang,1
+TRAPEANGRUESSEI,western_union,Roka Po Pram,2
+KRASANG,western_union,Tuek Chrov,1
+SANGKOMMEANCHEYCHAS,western_union,Memot,1
+PREYROLEAB,western_union,Krava,1
+TAPAVBAMPENHTES,western_union,Roka Po Pram,1
+KHNOANGKRAPEULECH,western_union,Tramung,1
+OUBENG,western_union,Me Sar Chrey,1
+CHHUKRUMDUOL,western_union,Ti Pou,1
+KOUKCHAR,western_union,Kouk Srok,1
+KAMPONGTHNA,western_union,Doung,1
+TRAPEANGCHHUK,western_union,Me Sar Chrey,1
+VOAT,western_union,Tras,1
+SRAECHOAM,western_union,Dar,1
+CHEACHCHEUNG,western_union,Chong Cheach,1
+CHAMKARKOR,western_union,Dar,2
+SPEAN,western_union,Dar,1
+ANGKSALA,western_union,Prey Angkunh,1
+CHEACHTHUM,western_union,Chong Cheach,2
+PRALAY,western_union,Tang Krasau,1
+CHARTHUM,western_union,Chong Cheach,1
+VEAL,western_union,Spueu,1
+RUESSEISANH,western_union,Chi Phoch,1
+PREAEKBAK,western_union,Preaek Bak,1
+ROUNGCHAKRSKAR,western_union,Tramung,1
+MEMOTPHSAR,western_union,Memot,3
+DEIKRAHAM,western_union,Soupheas,1
+TBONGKHMUM,western_union,Kampong Cham,1
+MASINTUEK,western_union,Memot,1
+SAMPOVLOUN,western_union,Choam Ta Mau,1
+SRAB,western_union,Soupheas,1
+BOSKRASANG,western_union,Prey Angkunh,1
+TBAENG,western_union,Chamraeun,2
+SAMRAONGCHEUNG,western_union,Dar,1
+HANCHEY,western_union,Hanchey,1
+OUPEH,western_union,Cheyyou,1
+PEAENGMEASCHEUNG,western_union,Spueu,1
+KANDAL,western_union,Kampong Pranak,6
+DOUNMEAS,western_union,Kouk Srok,1
+VEALVONG,western_union,Roka Po Pram,1
+PHUMTIPIR,western_union,Preaek A Chi,1
+LAEDTH,western_union,Kampong Pranak,1
+SRAHCHHUK,western_union,Kampong Pranak,1
+SRAEVEAENG,western_union,Tuek Chrov,1
+STHAPOR,western_union,Pal Hal,1
+CHIAOK,western_union,Romoneiy,1
+TRAPEANGTHLANCHEUNG,western_union,Preal,1
+ATSU,western_union,Sambour,1
+VEALTUEKCHENH,western_union,Kor,1
+SRAEREANG,western_union,Tumnob Thum,1
+PHUMTIPRAMMUOY,western_union,Kampong Treas,1
+DARPHSAR,western_union,Dar,1
+CHANMUL,western_union,Chan Mul,1
+PREAEKPEAM,western_union,Peam Chileang,1
+TEPNIMITT,western_union,Kor,1
+BENG,western_union,Dar,1
+TUEKANDOUNG,western_union,Tang Krasau,1
+KRANGKOAM,western_union,Tbaeng,1
+OUKHLAENGPOAR,western_union,Pal Hal,1
+OUKHSAN,western_union,Tuek Kraham,1
+SENRUNGROEUNG1,western_union,Tuek Kraham,1
+PONGTUEK,western_union,Roka Po Pram,3
+PHUMTIMUOY,western_union,Preaek A Chi,1
+THMEI,western_union,Kampong Pranak,1
+TRAPEANGTOTUEM,western_union,Romtum,3
+KOUKBENG,western_union,Kampong Pranak,2
+KAMPONGPRASAT,western_union,Svay Ampear,1
+SAMRAONG,western_union,Kampong Pranak,1
+TUEKCHEA,western_union,Peuk,1
+PREAEKAMPIL,western_union,Preaek Ampil,1
+ANDOUNGPOU,western_union,Kampong Pranak,1
+PEAREAKKECH,western_union,Pal Hal,1
+TREATIPIR,western_union,Trea,1
+PEUK,western_union,Memong,1
+ANDAOT,western_union,Bak Sna,1
+MEAKHBEI,western_union,Preak Kak,1
+CHAMKARSRAMOV,western_union,Pal Hal,1
+TALOEK,western_union,Trapeang Veaeng,1
+MEAKHMUOY,western_union,Preak Kak,1
+KRANGDOUNG,western_union,Preah Khleang,2
+RUMCHEK,western_union,Romoneiy,1
+CHHLOUNGMUOY,western_union,Kampoan,1
+TAMENH,western_union,Kraya,1
+OUPOUR,western_union,Romoneiy,4
+SAMRET,western_union,Sambour,1
+PREYPHDAU,western_union,Chrak Mtes,3
+BOENGDAENG,western_union,Preak Kak,1
+BOENGKACHOUT,western_union,Preak Kak,1
+BAKSNALEU,western_union,Bak Sna,1
+BEIMAETR,western_union,Tuol Snuol,1
+PHKADOUNG,western_union,Chhuk,1
+TRAPEANGCHROK,western_union,Sambour,1
+TBONGKHMUM,western_union,Dambae,2
+CHHUKSTUENG,western_union,Chhuk,1
+DAEUMTRANG,western_union,Anlong Romiet,1
+DAMBAE,western_union,Dambae,2
+OUCHAK,western_union,Preak Kak,1
+DANGKDAR,western_union,Kraya,1
+TREATIMUOY,western_union,Trea,1
+CHHUKBOENG,western_union,Chhuk,1
+CHANGKUMKANDAL,western_union,Tonlung,1
+ANDOUNGSVAY,western_union,Preak Kak,1
+KHCHEAY,western_union,Dambae,1
+SENTECHAS,western_union,Morokot,1
+THNALKAONG,western_union,Rumdaoh,3
+KHSACHPRACHHEHKRAOM,western_union,Krouch Chhmar,1
+SANTICHKAEUT,western_union,Dang Kdar,1
+OUPIR,western_union,Dang Kdar,2
+SVAYPOPEAL,western_union,Dambae,2
+THMATOTUENGTBOUNG,western_union,Choam Ta Mau,1
+OUPRAMTIMUOY,western_union,Preak Kak,1
+KAMPOAN,western_union,Kampoan,1
+BOSTHUM,western_union,Prame,1
+THMASAMLIENG,western_union,Kraya,2
+LOU,western_union,Kampoan,1
+TBOUNGKDEI,western_union,Barku,2
+PHUMKILOUBEI,western_union,Preak Kak,1
+SLAPHNUM,western_union,Tonlung,1
+KAOHTHMA,western_union,Tonlung,1
+ROLUOS,western_union,Daeum Rues,1
+PHUMTIBEI,western_union,Svay Khleang,1
+PHUMTIPIR,western_union,Svay Khleang,2
+BAKSREI,western_union,Koul,1
+KHSACHPRACHHEHLEU,western_union,Krouch Chhmar,1
+BENGTHMEI,western_union,Seda,3
+SENCHAMROEUN,western_union,Seda,1
+SRAEKAK,western_union,Trapeang Pring,1
+TUMNOB,western_union,Sraeung,1
+THNAL,western_union,Dambae,1
+PREAHVIHEAR,western_union,Tbaeng Mean Chey,1
+DAEUMRUES,western_union,Daeum Rues,1
+TARIEM,western_union,Dang Kdar,1
+OUTHOM,western_union,Ti Pou,2
+SACHCHEYSEN,western_union,Dambae,1
+CHOANLEAENG,western_union,Mean Chey,1
+KROUCHCHHMARKRAOM,western_union,Krouch Chhmar,1
+KRASANG,western_union,Seda,1
+KANDAL,western_union,Banteay Daek,1
+KHTUOYTIMUOY,western_union,Ou Mlu,1
+SAMRAONG,western_union,Samraong,4
+THMADAB,western_union,Rumchek,1
+SDAUKANLAENG2,western_union,Dei Edth,1
+PHUMTIPRAMMUOY,western_union,Svay Khleang,1
+SAOYPIR,western_union,Peus Muoy,1
+KAMPEY,western_union,Rumchek,1
+PREYPOU,western_union,Rumlech,1
+SENPHAL,western_union,Rumchek,1
+BAEKANLUNG,western_union,Areaks Tnot,3
+RONEAM,western_union,Mean Chey,2
+DEILEU,western_union,Peam Kaoh Snar,1
+ANGKPOK,western_union,Meun Chey,1
+KDOLKRAOM,western_union,Tonlung,1
+SRAESAOMTHMEI,western_union,Kampoan,1
+KHSACHPRACHHEHKANDAL,western_union,Krouch Chhmar,1
+SVAYMING,western_union,Angk Ta Sou,1
+CHHUK,western_union,Chhuk,1
+PREAEKRUESSEI,western_union,Sambuor Meas,2
+PRASAT,western_union,Chhuk,1
+THNALKAENG,western_union,Rung Roeang,1
+AMPIL,western_union,Peus Muoy,1
+BARAY,western_union,Chhuk,1
+AMPIL,western_union,Peus Pir,1
+SRAEKANDAL,western_union,Kampoan,1
+RUMPEAK1,western_union,Seda,1
+PREAEKTOK,western_union,Khpob Ta Nguon,1
+PRAEKCHOR,western_union,Seda,1
+TATONG,western_union,Reaksmei,1
+TANGTRAK,western_union,Robieb,1
+TRAPEANGRUESSEI,western_union,Kraya,2
+PHUMTIBEI,western_union,Roka Khnor,2
+TUKSROV,western_union,Kouk Kong Kaeut,1
+ANLONGSAMLEI,western_union,Khpob Ta Nguon,1
+OUTASEK,western_union,Ou Mlu,1
+CHHEUTEU,western_union,Khpob Ta Nguon,1
+PHUMTHUM,western_union,Phum Thum,2
+PEAMKLAENG,western_union,Klaeng,1
+KILOUDAB,western_union,Areaks Tnot,3
+CHREYROYOUNG,western_union,Kandaok,1
+NGAN,western_union,Ngan,1
+BOENGROLUM,western_union,Chheu Teal,1
+RUSSEYKEO,western_union,Russey Keo,1
+PREAEKTAHOB,western_union,Chumnik,1
+KAMPONGTABAEN,western_union,Chheu Teal,1
+SAMRAONG,western_union,Ou Mlu,2
+SRALAVDAMNAK,western_union,Russey Keo,1
+CHUMNIK,western_union,Chumnik,2
+BATSANTREA,western_union,Kampong Popil,2
+KAMPONGTRABAEK,western_union,Sandan,1
+BOENGLVEA,western_union,Boeng Lvea,2
+STOEUNGTHUM,western_union,Chambak,1
+CHITRUN,western_union,Trapeang Pring,1
+PREKTAHOB,western_union,Khsach Andeth,1
+TRAPEANGSRAE,western_union,Pir Thnu,2
+CHAMBAK1,western_union,Chambak,1
+TBOUNGTUEK,western_union,Mean Rith,1
+PREYTATHOK,western_union,Preaek Slaeng,1
+DANGKDAONG,western_union,Pongro,1
+PREAEKKRANH,western_union,Preaek Ambel,1
+KBALSNUOL,western_union,Snuol,11
+TRAPEANGTUEM,western_union,Boeng Lvea,1
+KAMPONGPUTREA,western_union,Putrea,1
+CHROYTHMOR,western_union,Chambak,1
+TNAOT,western_union,Pongro,1
+CHEYSOKSAN,western_union,Trapeang Pring,1
+ROVIENG,western_union,Ngan,1
+DANGTAAEK,western_union,Doung,1
+DOUNG,western_union,Rik Reay,1
+ANGKORSENCHEY,western_union,Klaeng,1
+TUOLSAMBUOR,western_union,Tuol Sambuor,1
+KBALTRACH,western_union,Srae Char,1
+PREAEKSAMRAONGTIPI,western_union,Khsach Andeth,1
+PRAMA,western_union,Kampong Damrei,1
+SAT,western_union,Srae Char,3
+PRALAYTRIEK,western_union,Damrei Phong,2
+POUTEAB,western_union,Mlu Prey Muoy,1
+CHRAVA,western_union,Kou Loab,1
+KOUKKANDAOL,western_union,Kraol Kou,1
+ROLIEK,western_union,Kampong Damrei,1
+KAOHBANGKOV,western_union,Boeng Lvea,1
+HANCHEYTIPI,western_union,Han Chey,2
+MEANCHEY,western_union,Srae Char,2
+PREYBOENG,western_union,Baek Chan,2
+SRAESDACH,western_union,Damrei Phong,1
+TAREABDOUNSA,western_union,Kokir,1
+CHROUYTHMALEU,western_union,Chhloung,2
+SANG,western_union,S Ang,2
+KAOHKANDAOR,western_union,Chhloung,1
+PREYKOU,western_union,Damrei Phong,1
+KAMPONGTHOM,western_union,Sandan,3
+HANCHEYTIBEI,western_union,Han Chey,1
+KANDALKOH,western_union,Koh Ta Suy,1
+CHHNAENG,western_union,Srae Khtum,3
+PREAEKKDEI,western_union,Snuol,1
+CHHEUTEALPHLUOH,western_union,Preaek Saman,3
+OUPOKSAMEAKKI,western_union,Mean Rith,4
+DEIDOHLEU,western_union,Prek Prasab,2
+SRAEVEALKHANGKAEUT,western_union,Dang Kambet,1
+ANDOUNGTUEK,western_union,Lumhach,1
+PREYCHHIENG,western_union,Ruessei Sanh,1
+CHHNEY,western_union,Chhloung,1
+RUESSEICHAR,western_union,Thma Kreae,2
+DEIEDTHKAOHPHOS,western_union,Dei Edth,1
+SNUOLLECH,western_union,Snuol,1
+TOAPSIEM,western_union,Kansoam Ak,1
+TUMAR,western_union,Tum Ring,1
+SRALAUSRAONG,western_union,Tum Ring,1
+KAMPONGSAMNANH,western_union,Kampong Samnanh,1
+MLUPREY,western_union,Mlu Prey Muoy,1
+PREAEKSAMAN,western_union,Preaek Saman,1
+BOENGKIEB,western_union,Damrei Phong,1
+TRAPEANGSRAE,western_union,Trapeang Srae,1
+RONTEAH,western_union,Tum Ring,1
+MONDOLKIRI,western_union,Keo Seima,1
+POUN,western_union,Tuol Sambuor,1
+CHROUYTHMAKRAOM,western_union,Chhloung,1
+ANGKRUESSEI,western_union,Svay Thum,1
+CHOAMPHKA,western_union,Chheu Teal,1
+PREAHVIHEAR,western_union,Chhaeb,1
+CHROUYSNAENGKRABEILEU,western_union,Kampong Kor,1
+KHAOS,western_union,Tum Ring,1
+KRONHOUNGSAENCHEY,western_union,Kronhoung Saen Chey,14
+BOENGLEACH,western_union,Prek Prasab,1
+KAMPENG,western_union,Prek Prasab,1
+SAOBKRAOM,western_union,Saob,7
+PREAEKCHAMLAK,western_union,Kanhchor,1
+KHSUEMKRAU,western_union,Khsuem,2
+MIL,western_union,Khsuem,1
+SRAETHMEI,western_union,Khsuem,3
+PREAEKPRASABLEU,western_union,Prek Prasab,3
+CHROSCHROVPOUSAL,western_union,Kronhoung Saen Chey,1
+CHROUYBANTEAY,western_union,Chrouy Banteay,2
+TUOLPRICH,western_union,Chrouy Banteay,1
+OURONA,western_union,Srae Khtum,1
+PREYKUR,western_union,Prek Prasab,1
+TRAPEANGPHAER,western_union,Srae Khtum,1
+CHHEUTEALPHLUOHKRAOM,western_union,Kanhchor,1
+MONDULKIRI,western_union,Mondulkiri,12
+OUAM,western_union,Srae Khtum,4
+MONDULKIRI,western_union,Mondul Kiri,1
+THPONG,western_union,Snuol,1
+BARAYLECH,western_union,Baray,1
+BOENG,western_union,Mean Rith,1
+CHEUNGKHLE,western_union,Pir Thnu,1
+VEALBEICHAKREYHENG,western_union,Kronhoung Saen Chey,1
+OUKORKI,western_union,Boeng Lvea,2
+SAMPOAR,western_union,Prey Totueng,1
+KAOHREAHKRAOM,western_union,Kaoh Reah,1
+OTHER,western_union,Kronhoung Saen Chey,2
+TALUS,western_union,Bos Leav,1
+SAMRANG,western_union,Khsuem,1
+THMAREAB,western_union,Prek Prasab,1
+TASAOM,western_union,Svay Chreah,2
+TAPUM,western_union,Svay Chreah,1
+BOSLEAVKRAOM,western_union,Bos Leav,1
+SRAEPREAH,western_union,Srae Preah,1
+POU,western_union,Me Sar Thngak,1
+TRAPEANGKORKOS,western_union,Boeng Lvea,1
+CHHAEBKAEUT,western_union,Chhaeb Muoy,1
+TAKHMAO1,western_union,Ta Khmau,1
+SRAERONEAM,western_union,Khsuem,2
+CHHEUTEAL,western_union,Chheu Teal,3
+TIPIR,western_union,Roka Kandal,1
+CHHAEBLECH,western_union,Chhaeb Muoy,2
+LEU,western_union,Preaek Anhchanh,2
+BOENGRUN,western_union,Sambok,1
+KAOHPRAK,western_union,Phum Thum,1
+SDAU,western_union,Krang Svay,1
+KLA,western_union,Saob,1
+PAKDEVOAT,western_union,Chrach,1
+PREAEKPRASABKANDAL,western_union,Prek Prasab,1
+VOAT,western_union,Kracheh,4
+DOUNCHROAM,western_union,Kracheh,3
+PRASAT,western_union,Preaek Slaeng,1
+KRATIE,western_union,Krong Kratie,3
+OURUESSEITIPIR,western_union,Ou Ruessei,4
+KRAKOR,western_union,Krakor,1
+OURUESSEITIMUOY,western_union,Ou Ruessei,1
+SAMBUOR,western_union,Svay Chreah,1
+TRAPEANGPRING,western_union,Kracheh,3
+PHSARVEAENG,western_union,Kracheh,2
+KAENG,western_union,Chrouy Banteay,1
+KAPOU,western_union,Ou Ruessei,3
+PURANG,western_union,Saen Monourom,1
+PUKONG,western_union,Srae Preah,1
+OURUESSEI3,western_union,Ou Ruessei,1
+MONDOLKIRI,western_union,Ou Reang,1
+PUHOAM,western_union,Saen Monourom,1
+PHOUR,western_union,Bos Leav,1
+SAOBLEU,western_union,Saob,1
+PREAEKKOV,western_union,Bos Leav,1
+PREAEKPRANG,western_union,Prek Prasab,1
+PREAEKROKA,western_union,Saob,1
+PUTIL,western_union,Bu Sra,2
+KBALCHUOR,western_union,Sambok,2
+KAMPONGSRALAU,western_union,Kampong Sralau Muoy,2
+RONAENG,western_union,Srae Chhuk,2
+PREAEKKRIENG,western_union,Voadthonak,2
+CHAKCHAR,western_union,Srae Chhuk,2
+BUSRA,western_union,Bu Sra,1
+MONDOLKIRI,western_union,Pechr Chenda,1
+PUTUET,western_union,Bu Sra,1
+KANDAL,western_union,Spean Mean Chey,5
+MONDOLKIRI,western_union,Krong Sen Monorom,2
+DAEUMSRAL,western_union,Monourom,1
+CHAMBAK,western_union,Spean Mean Chey,2
+VOADTHONAK,western_union,Voadthonak,1
+CHANGKRANG,western_union,Changkrang,1
+DAOHKRAMOM,western_union,Sokh Dom,4
+PULUNG,western_union,Romonea,2
+ANLONGCHREY,western_union,Anlong Chrey,5
+STUNGTRENG,western_union,Stung Treng,19
+CHREYSAEN,western_union,Monourom,1
+LAUKA,western_union,Sokh Dom,1
+KAOHKNOR,western_union,Preaek Roka,2
+KASANG,western_union,Changkrang,1
+THUM,western_union,Sandan,1
+PURADAET,western_union,Srae Ampum,1
+STUENGSVAY,western_union,Dar,1
+PUCHHAB,western_union,Dak Dam,1
+PUTRAENG,western_union,Dak Dam,1
+CHOURKROUCH,western_union,Thma Andaeuk,1
+THMAKREAELEU,western_union,Thma Kreae,2
+KHSACHTOB,western_union,Chrouy Banteay,1
+TUOLMONOUROM,western_union,Krakor,1
+CHUORCHREY,western_union,Dar,1
+ALOCH,western_union,Kantuot,1
+KRATIE,western_union,Sambo,3
+THMAKREAEKANDAL,western_union,Thma Kreae,1
+STUNGTRENG,western_union,Siem Pang,2
+MEPAI,western_union,Pu Chrey,3
+ACHEN,western_union,Kampong Cham,2
+SAMBAKTEANKAKOT,western_union,Sambok,1
+VEALPOU,western_union,Anlong Phe,2
+PREAEKCHIK,western_union,Saob,1
+KRACHEH,western_union,Kracheh,1
+TIMUOY,western_union,Roka Kandal,1
+THALABARIVAT,western_union,Thala Barivat,2
+SRAEKRASANG,western_union,Srae Krasang,2
+PUCHREYCHONGPHANG,western_union,Pu Chrey,2
+KHAMPHAN,western_union,Sameakki,3
+OUTRAEL,western_union,Thala Barivat,1
+ROLUOS,western_union,Roluos Mean Chey,2
+PREAEKTAMEM,western_union,Preaek Sdei,1
+SRAERUESSEI,western_union,Srae Ruessei,1
+SRAECHIS,western_union,Srae Chis,1
+KAOHPREAH,western_union,Kaoh Preah,1
+SRAESBOV,western_union,Kbal Damrei,2
+LEU,western_union,Preah Rumkel,1
+OURAI,western_union,Ou Rai,1
+PUTONG,western_union,Chong Phlah,2
+ANLONGKRAMUON,western_union,Srae Ruessei,1
+PUTANG,western_union,Pu Chrey,3
+TUOL,western_union,Memang,1
+SRALAU,western_union,Anlong Chrey,2
+PULU,western_union,Bu Sra,1
+SAMBOK,western_union,Sambok,2
+BANTEAY,western_union,Kou Loab,1
+THMEI,western_union,Thmei,2
+LIET,western_union,Chrouy Banteay,1
+CHRANAOL,western_union,Thmei,1
+KHSAR,western_union,Dar,1
+TNAOT,western_union,Thmei,1
+PUMPREAEK,western_union,Stueng Traeng,5
+REACHEANUKOUL,western_union,Stueng Traeng,8
+TRAPEANGPRING,western_union,Stueng Traeng,6
+KBALCHROUY,western_union,Kampong Phnum,2
+KAMPONGKONG,western_union,Kampong Kong,1
+SPEANTHMA,western_union,Stueng Traeng,3
+LEU,western_union,Srah Ruessei,2
+KHSACHLEAV,western_union,Ou Krieng,1
+105,western_union,Thmei,1
+THNONG,western_union,Chea Khlang,1
+SIEMPANG,western_union,Sekong,4
+SAMKHUOY,western_union,Samkhuoy,1
+KAET,western_union,Nhang,2
+CHAY,western_union,Nhang,1
+OUPUR,western_union,Kbal Damrei,1
+SAMANG,western_union,Sam Ang,1
+SRAETRAENG,western_union,Kbal Damrei,1
+OTHER,western_union,Snuol,1
+KAMPONGSAMNANH1,western_union,Kampong Samnanh,1
+REAMCHOUR,western_union,Svay Ta Yean,2
+CHHVANG,western_union,Sam Ang,1
+SAMRAONG,western_union,Krang Yov,2
+RUMDENG,western_union,Chamkar Leu,1
+LAOM,western_union,Malik,4
+PREYPOUN,western_union,Prey Poun,1
+OUPREAH,western_union,Ou Krieng,4
+KATOUT,western_union,Kamphun,1
+CHEYOTDAM,western_union,Samraong Thum,1
+KAMPHUN,western_union,Kamphun,2
+SDAUMUOY,western_union,Sdau,1
+OUKRIENG,western_union,Ou Krieng,4
+CHRAVA,western_union,Kantuot,1
+PREYTONLOAB,western_union,Baek Chan,1
+SRAECHHUK,western_union,Roluos Mean Chey,1
+KHMAENG,western_union,Pouy,1
+PHUMMUOY,western_union,La Minh,6
+RATANAKIRI,western_union,Rattanakiri,2
+KLI,western_union,Saeung,1
+CHRAB,western_union,Kbal Romeas,1
+PHAKNAM,western_union,Kaoh Peak,1
+REANGSEI,western_union,Srae Sangkum,6
+CHRUNG,western_union,Kak,1
+UN,western_union,Lum Choar,2
+RATANAKIRI,western_union,Ou Ya Dav,1
+KATAE,western_union,Malik,1
+ABUON,western_union,A Buon Leu,1
+TAVEAENG,western_union,Ta Veaeng Leu,1
+OUKONDEAR,western_union,Oukondear Senchey,1
+VEALTRAENG,western_union,Ta Lon,1
+PREYTROM,western_union,Nhor,1
+AKPIWAT,western_union,Labansiek,2
+TMARDA,western_union,Boeng Kansaeng,2
+LAPOU,western_union,Yeak Laom,1
+UL,western_union,Ba Tang,1
+KALAIMUOY,western_union,Kalai,1
+SRAEKORPIR,western_union,Srae Kor,2
+TUY,western_union,Ting Chak,1
+LUNGKHUNG,western_union,Lung Khung,1
+VORNG,western_union,Ka Choun,1
+SAMOTKRAOM,western_union,Seda,2
+LUT,western_union,Ting Chak,1
+BARNHU,western_union,Sameakki,1
+SRAESRANOK,western_union,Kbal Romeas,2
+NANGBUO,western_union,Nang Khi Lik,1
+BANPONG,western_union,Pong,1
+BANPHANG,western_union,Pong,3
+VEUNSAI,western_union,Veun Sai,1
+LOM,western_union,Pak Nhai,1
+PONGKRIEL,western_union,Preaek Meas,1
+SRAEPOU,western_union,Srah Ruessei,2
+OURUESSEIKANDAL,western_union,Ou Ruessei Kandal,2
+THMALEAPH,western_union,Srah Ruessei,1
+PREAEKTABAEN,western_union,Svay Romiet,1
+RAY,western_union,Keh Chong,1
+PAKTHUM,western_union,Pak Nhai,3
+KAMPONGCHAM,western_union,Pa Kalan,1
+OUROMEAT,western_union,Labansiek,1
+CHEYCHUMNAS,western_union,Labansiek,9
+PHNOMSVAY,western_union,Boeng Kansaeng,2
+KANDAL,western_union,Sanlung,1
+RATANAKIRI,western_union,Krong Banlung,1
+PHUMMUOY,western_union,Trapeang Kraham,1
+KACHANH,western_union,Lbang Pir,1
+PHUMMUOY,western_union,Kachanh,1
+PHUMPIR,western_union,Kachanh,2
+PHUMBUON,western_union,Kachanh,1
+KALAENG,western_union,Ka Laeng,2
+THMEI,western_union,Labansiek,2
+TAENGMAU,western_union,Chantrea,1
+7MAKARA,western_union,Labansiek,1
+TAPRAB,western_union,Mkak,1
+LEUKUON,western_union,Keh Chong,3
+PREYTHUM,western_union,Prey Thum,1
+KATE,western_union,Lum Choar,1
+RUESSEIAM,western_union,Khsaetr,1
+KAOHMOEALLEU,western_union,Nang Khi Lik,1
+MEANCHEY,western_union,Srae Sangkum,1
+OUKONSAENG,western_union,Boeng Kansaeng,3
+PRASATLECH,western_union,Banlich Prasat,1
+SRAEPOKTOUCH,western_union,Serei Mongkol,1
+KAMRAENG,western_union,Theay,1
+TEUN,western_union,Teun,3
+PHUMBEI,western_union,Srae Angkrorng,1
+KRABEICHRUM,western_union,Kbal Romeas,1
+LUMPHAT,western_union,Chey Otdam,1
+PRUOK,western_union,Ba Tang,1
+DEILOU,western_union,Chey Otdam,2
+SAYAS,western_union,Ka Laeng,1
+PREYBANTOAM,western_union,Banteay Meas Khang Kaeut,1
+SAMRAONG,western_union,Angk Prasrae,1
+LOK,western_union,Ruessei Srok Khang Lech,1
+RONEAMTNAOT,western_union,Angk Prasat,1
+KAMPONGTRACHTIMUOY,western_union,Kampong Trach Khang Kaeut,1
+CHRES,western_union,Boeng Sala Khang Tboung,1
+KOUL,western_union,Tuol Prech,1
+THNONG,western_union,Banteay Meas Khang Kaeut,1
+TAKREAB,western_union,Pnov Ti Muoy,1
+SRAMA,western_union,Prey Khla,1
+CHRAKCHEUKOAM,western_union,Kampeaeng,1
+PREYRUMDENG,western_union,Prey Rumdeng,1
+POUN,western_union,Pech Sar,1
+PREAEKKROES,western_union,Preaek Kroes,2
+ROMENHKHANGCHEUNG,western_union,Romenh,3
+KOUKVEAENG,western_union,Tnoat Chong Srang,2
+PRASAT,western_union,Kampeaeng,1
+TAKEO,western_union,Kirivong,6
+TRAPEANGNIEL,western_union,Ruessei Srok Khang Lech,1
+ROLUOS,western_union,Thlea Prachum,1
+PONLEY,western_union,Kampeaeng,1
+DAMNAK,western_union,Pech Sar,1
+KAOHKOSAL,western_union,Ream Andaeuk,1
+DAEUMSNAY,western_union,Preaek Kroes,1
+REAMANDAEUK,western_union,Ream Andaeuk,1
+KOUKDOUNG,western_union,Pech Sar,1
+HANTEA,western_union,Kampeaeng,1
+ANLONGNIEN,western_union,Borei Cholsar,1
+PREYTONLE,western_union,Prey Tonle,1
+TALANG,western_union,Tnoat Chong Srang,1
+KAMPOT,western_union,Kampong Trach,1
+KAOHTNAOT,western_union,Preaek Kroes,1
+PREYMELONGKHANGTBOUNG,western_union,Prey Khla,1
+KAOHCHAMKAR,western_union,Boeng Sala Khang Tboung,1
+THKOV,western_union,Ruessei Srok Khang Lech,1
+PONGTUEK,western_union,Sdach Kong Khang Cheung,1
+DAEUMDOUNG,western_union,Krapum Chhuk,1
+AKREIYKSATR,western_union,Akreiy Ksatr,2
+PREYTAMAU,western_union,Kiri Chong Kaoh,1
+DAEUMBENG,western_union,Kiri Chong Kaoh,1
+KAMPONGKRASANG,western_union,Kampong Krasang,1
+POUROUNG,western_union,Preah Bat Choan Chum,1
+TRAPEANGPRING,western_union,Prey Ampok,1
+CHHEUTEALPHLUOH,western_union,Prey Ampok,1
+KAMPONG,western_union,Preah Bat Choan Chum,4
+KRANGTROMUNG,western_union,Ta Ou,1
+PHSAR,western_union,Phnum Den,2
+ANDOUNGKIEN,western_union,Phnum Den,1
+TAOUKHANGCHEUNG,western_union,Ta Ou,1
+CHROUYSLAENG,western_union,Kiri Chong Kaoh,1
+BOENG,western_union,Kampong Ampil,1
+DEIKRAHAM,western_union,Prey Rumdeng,2
+PREYASTEANG,western_union,Angkor Reach,1
+BUOR,western_union,Prey Rumdeng,1
+VOATSLA,western_union,Krapum Chhuk,1
+PREYMLU,western_union,Krapum Chhuk,1
+TUOLKANDAL,western_union,Prey Khla,1
+PURSAT,western_union,Krong Pursat,2
+TAKEO,western_union,Tram Kak,2
+KAMPOT,western_union,Chum Kiri,1
+SRAHCHIK,western_union,Srah Chik,1
+BANTEAYMEANCHEY,western_union,Banteay Meanchey,83
+BANTEAYMEANCHEY,western_union,Phnom Srok,1
+CHAKKREI,western_union,Chob Vari,2
+SDEIKRAOM,western_union,Koy Maeng,1
+PHNOM7,western_union,Bour,2
+BATTAMBANG,western_union,Battambang,162
+OUTAMA,western_union,Ruessei Kraok,1
+SRAHCHHUKKHANGLECH,western_union,Srah Chik,1
+CHAMKARTADAOK,western_union,Ruessei Kraok,1
+PRALAYLUONGLEU,western_union,Ruessei Kraok,1
+PHNOMTOUCH,western_union,Pech Chenda,5
+RUESSEIKRAOK,western_union,Ruessei Kraok,5
+LUONG,western_union,Ruessei Kraok,1
+CHUMTEAV,western_union,Ruessei Kraok,1
+PONLEY,western_union,Phnum Dei,1
+ANLONGTHNGANKAEUT,western_union,Bat Trang,1
+BATTAMBANG,western_union,Phnom Prek,3
+ODA,western_union,Bour,1
+SRAEKANDAOL,western_union,Mkak,1
+SAMRAONG,western_union,Ruessei Kraok,1
+KAOHKAEV,western_union,Ruessei Kraok,1
+PRAEKROPOV,western_union,Ruessei Kraok,1
+SNAYDANGKOT,western_union,Kaoh Pong Satv,1
+TRAPEANGTHMATBOUNG,western_union,Poy Char,1
+BANTEAYMEANCHEY,western_union,Banteaymeanchey,13
+KOUKSVAY,western_union,Ruessei Kraok,1
+KBALSPEAN,western_union,Preah Ponlea,2
+KAOHPONGSATV,western_union,Kaoh Pong Satv,1
+KHNANG,western_union,Nam Tau,1
+KAMPRING,western_union,Phniet,1
+SALAKRAU,western_union,Phniet,1
+THNALBOT,western_union,Ou Rumduol,1
+RUESSEIKANDAL,western_union,Chnuor Mean Chey,1
+PHUMPIR,western_union,Kampong Svay,3
+KOUROTHAN,western_union,Ou Ambel,4
+PHUMBEI,western_union,Preah Ponlea,8
+ROUNGMASIN,western_union,Ou Ambel,1
+PHUMMUOY,western_union,Preah Ponlea,1
+TUMNOBCHREY,western_union,Tuek Thla,1
+OUAMBEL,western_union,Ou Ambel,6
+PREYRUESSEI,western_union,Preah Ponlea,1
+AMPIL,western_union,Pongro,1
+PHUMBUON,western_union,Preah Ponlea,2
+KOKIRTHUM,western_union,Kokir Thum,2
+TAPAEN,western_union,Pongro,1
+KHCHAS,western_union,Bos Sbov,1
+BANTEAYMEANCHEY,western_union,Serey Sophorn,2
+SOUPHI,western_union,Kampong Svay,4
+TRABAEK,western_union,Bos Sbov,1
+BENGSAT,western_union,Phnum Proek,1
+KEAB,western_union,Tuek Thla,1
+ROKAKOUNSAT,western_union,Boeng Daol,1
+PREYANGKUNH,western_union,Prey Angkunh,1
+TUOLKHPOS,western_union,Chambak,1
+BALLANGK,western_union,Ta Kong,1
+KANTUOT,western_union,Kampong Svay,1
+PEANEA,western_union,Ampil Krau,1
+BATTAMBANG,western_union,Sampov Loun,2
+KAMPOUTPRAS,western_union,Chrak Mtes,2
+PHNUMBAK,western_union,Tuek Thla,1
+KLAKOUNCHAS,western_union,Kampong Svay,3
+PONGRO,western_union,Kampong Svay,1
+KOUKSPEAN,western_union,Krasang,1
+KANGVA,western_union,Kampong Svay,1
+KBALKHTING,western_union,Bos Sbov,1
+OUCHAMNIB,western_union,Ta Sda,1
+OUKANDAOL,western_union,Santepheap,1
+OUTRAVCHUR,western_union,Serei Mean Chey,1
+TUOLCHAN,western_union,Leuk Daek,1
+NEAKTACHHOR,western_union,Samraong,1
+THMEI,western_union,Samraong,1
+OUSRANGAM,western_union,Doun Sa,1
+PHEASCHEUNG,western_union,Sarongk,1
+TACHRUENG,western_union,Changha,1
+THNALBAT,western_union,Sampov Lun,1
+TRAPEANGRUMDENH,western_union,Angk Prasrae,1
+ANDOUNGTASEI,western_union,Prey Chhlak,1
+KOUBLECH,western_union,Koub,1
+CHAKREI,western_union,Barang Thleak,1
+BOENGCHHOUK,western_union,Tuol Pongro,2
+BANG,western_union,Daeum Rues,1
+TAPHOU,western_union,Ta Phou,1
+RUMLECH,western_union,Tuol Prech,1
+CHHUK,western_union,Samraong,2
+THNALBAT,western_union,Koun Kriel,1
+DOUNKAEN,western_union,Samraong,2
+KOUNPHNUMKHANGCHEUNG,western_union,Ta Sda,1
+TRAPEANGTHUM,western_union,Pean Roung,1
+CHREYOTDAM,western_union,Krang Ta Yang,1
+AMPIL,western_union,Phkoam,1
+PROHEAR,western_union,Chres,1
+HABOUR,western_union,Me Bon,1
+TRAPEANGPROLIT,western_union,Santepheap,4
+POUCHAS,western_union,Beng,1
+POUTHIREAMEAKA,western_union,Preaek Sdei,1
+THMEI,western_union,Ta Phou,1
+CHHUK,western_union,Changha,1
+YEANGTHMEI,western_union,Koub,2
+SOUPHIKANDAL,western_union,Souphi,1
+NAKACHHAY,western_union,Koub,1
+CHONGKAOH,western_union,Sandar,1
+PHONG,western_union,Koun Kriel,2
+BANTEAYMEANCHEY,western_union,O Chrov,2
+PREYTOTUENG,western_union,Lumhach,1
+KILOULEKHDABBEI,western_union,Santepheap,3
+KAKAOH,western_union,Sla Kram,1
+PEANEAPHSAR,western_union,Kdoeang Reay,1
+POUCHREY,western_union,Serei Mean Chey,1
+REAKSMEISAMEAKKI,western_union,Nimitt,1
+KAMPONGPOU,western_union,Kampong Phnum,1
+KOUBTHUM,western_union,Nimitt,1
+TREAS,western_union,Kouk Kakthen,1
+OUAMPIL,western_union,Tuol Pongro,1
+KANTUYCHUN,western_union,Beng,1
+ANLONGSVAY,western_union,Soengh,1
+TRAPEANGTAKAEV,western_union,Chrey Thum,1
+THMASEN,western_union,Nimitt,1
+KOUNDAMREI,western_union,Nimitt,3
+KAKAB,western_union,Chhveang,1
+NIMITTBEI,western_union,Nimitt,1
+ANLONGREACH,western_union,Kampong Trabaek,1
+KOUNTREI,western_union,Koub,1
+TABAEN,western_union,Ta Baen,1
+TRAPEANGKRASANG,western_union,Mkak,1
+PREAHCHHOR,western_union,Kouk Kakthen,1
+OULVEA,western_union,Chrey Seima,1
+KHLANGOAB,western_union,Tuol Pongro,1
+TUOLPONGRO,western_union,Tuol Pongro,2
+SOKHSAN,western_union,Nimitt,1
+BANTEAYMEANCHEY,western_union,Malai,1
+SLAENG,western_union,Trapeang Veaeng,1
+KAOHSNUOL,western_union,Tuol Pongro,1
+KILOULEKHBUON,western_union,Phsar Kandal,8
+KUMRU,western_union,Kumru,1
+NEAKTA,western_union,Thma Puok,1
+BANTEAYMEANCHEY,western_union,Thmar Puok,2
+BANTEAYTIPIR,western_union,Ou Sampoar,1
+TREAS,western_union,Treas,1
+OUSRALAU,western_union,Ou Sralau,1
+CHAMBAK,western_union,Boeng Beng,1
+PHSARKANDAL,western_union,Phsar Kandal,3
+PREYPHCHOEK,western_union,Chhveang,1
+BALILEY2,western_union,Paoy Paet,9
+BANSAYREAK,western_union,Bansay Reak,1
+ANDOUNGTHMAMEAS,western_union,Phsar Kandal,1
+OUCHROV,western_union,Paoy Paet,3
+PREAEKCHROV,western_union,Roka Kong Ti Pir,1
+TAMA,western_union,Beng,1
+ANLONGTRACH,western_union,Thma Puok,1
+KOUKKABBAS,western_union,Beng,1
+OURUESSEI,western_union,Phsar Kandal,3
+OUNEANG,western_union,Phsar Kandal,1
+ANDOUNGKHLONG,western_union,Kumru,1
+PRACHEATHORMKAEUT,western_union,Phsar Kandal,1
+SVAYTEAB,western_union,Ampil Krau,1
+TUOLPONGRO,western_union,Phsar Kandal,1
+DOUNLEAEB,western_union,Kouk Pring,1
+BALILEY1,western_union,Paoy Paet,12
+CHANKIRI,western_union,Paoy Paet,5
+PRACHEARTHOAMLECH,western_union,Phsar Kandal,1
+KOUKMON,western_union,Kouk Mon,2
+KASEN,western_union,Thma Puok,1
+TRAPEANGMAOMSAENCHEY,western_union,Bansay Reak,1
+CHAKPUORK,western_union,Sla Kram,1
+KBALSPEANUNKNOWN1,western_union,Paoy Paet,14
+NEAKLOEANG,western_union,Neak Loeang,1
+MITTAPHEAP,western_union,Paoy Paet,8
+TAKHMAO3,western_union,Ta Khmau,1
+KIENSANG,western_union,Svay Rieng,1
+PREYPHCHOEKTIPIR,western_union,Samraong Leu,1
+KBALSPEAN2,western_union,Paoy Paet,3
+KBALKOH,western_union,Paoy Paet,3
+KBALSPEAN,western_union,Malai,1
+THMEI,western_union,Sanlung,2
+KANDAL,western_union,Malai,1
+PREYPRECH,western_union,Paoy Paet,1
+SEILAKHMER,western_union,Ou Beichoan,1
+BANTEAYTHMEI,western_union,Ou Beichoan,1
+PREAEKKHSAYKHANGCHOEUNG,western_union,Preaek Khsay Ka,1
+TRAPEANGPROY,western_union,Baek Chan,1
+TUMNOBKOR5,western_union,Paoy Paet,2
+OUBEICHOAN,western_union,Ou Beichoan,2
+KOUKKHPOS,western_union,Kouk Khpos,1
+KAOHKBANKANDAL,western_union,Samraong,1
+TAYUENG,western_union,Kumru,1
+PREYKUB,western_union,Phsar Kandal,1
+LUMHACH,western_union,Mkak,1
+KHVAVLECH,western_union,Svay Chek,1
+THNALBAT,western_union,Ou Beichoan,2
+KAMPHEAR,western_union,Rumlech,1
+TRAPEANGTHNONG,western_union,Tumnob Thum,1
+CHHEUSLAB,western_union,Kouk Khpos,1
+BANTEAYCHHMARCHEUNG,western_union,Banteay Chhmar,2
+BOSTHOM,western_union,Kouk Khpos,1
+SRAHCHREY,western_union,Banteay Chhmar,1
+SITHSEREI,western_union,Kouk Mon,1
+CHAMKARKO,western_union,Svay Chek,2
+PONGTUEK,western_union,Ampil,1
+BOENG,western_union,Samraong Leu,1
+PREYVEAENG,western_union,Kouk Mon,1
+VOAPRENG,western_union,Kouk Romiet,1
+BOENGSOKRAM,western_union,Kouk Romiet,1
+BANTEAYMEANRIT,western_union,Kouk Romiet,2
+TAMOANSAENCHEY,western_union,Kouk Mon,1
+ODDARMEANCHEY,western_union,Banteay Ampil,2
+PHLOVBAMBAEK,western_union,Kouk Romiet,1
+AMPILCHAS,western_union,Ampil,1
+CHOBKOKIRKHANGKAEUT,western_union,Ampil,1
+CHOBKOKIRKHANGLECH,western_union,Ampil,2
+THMEI,western_union,Tuol Prech,1
+PRASATTBAENG,western_union,Banteay Chhmar,1
+PHNUMPRASAT,western_union,Ou Prasat,1
+MOATBOENG,western_union,Trea,1
+TRAPEANGCHREY,western_union,Damnak Kantuot Khang Tboung,1
+PREYKHCHEAY,western_union,Snay Anhchit,1
+PHNUMSALEI,western_union,Kampong Trach Khang Lech,1
+SNAYANHCHIT,western_union,Snay Anhchit,1
+PREYKHMUM,western_union,Doun Yay,1
+TRAPEANGANDOUNG,western_union,Satv Pong,1
+PREAEKTOUCH,western_union,Preaek Dach,1
+PONGTUEK,western_union,Srae Chaeng,1
+PHNUMTOUCHTBOUNG,western_union,Phnum Touch,3
+PHSARTRAPEANGKRALOENG,western_union,Kiri Voan,1
+TAPHOL,western_union,Snay Anhchit,1
+THMEI,western_union,Chumpu Voan,1
+TRAPEANGCHRANIENG,western_union,Srae Chea Khang Cheung,2
+PREYTOTUENG,western_union,Phnum Touch,1
+PRECH,western_union,Boeng Nimol,1
+TRAPEANGVEAENG,western_union,Trapeang Reang,7
+TRAPEANGCHHUK,western_union,Mean Ritth,1
+TUOLSRAMA,western_union,Peuk,1
+PREAEKTRAB,western_union,Preaek Norint,1
+PREAEKSAMRAONG,western_union,Rohat Tuek,1
+SRANGAE,western_union,Boeng Nimol,1
+PREYKRANGKHANGCHEUNG,western_union,Mean Ritth,1
+DOUNOV,western_union,Snay Anhchit,1
+OUCHUOB,western_union,Rohat Tuek,1
+PHNUMTOUCHCHEUNG,western_union,Phnum Touch,1
+KAMPONGSPEU,western_union,Phnom Sruoch,2
+CHAMKACHEK,western_union,Pong Tuek,2
+SNAORTOUCH,western_union,Angk Romeas,3
+BOENG,western_union,Boeng Nimol,1
+KANDAL,western_union,Prey Rumdeng,1
+SETBOU,western_union,Setbou,1
+ANGKAOL,western_union,Angkaol,1
+OUNHOR,western_union,Phnum Touch,1
+RONGVEANKAEUT,western_union,Chamnaom,1
+KEP,western_union,Kep,6
+AMPENG,western_union,Angkaol,3
+OUDOUNG,western_union,Pong Tuek,2
+TRAOK,western_union,Chheu Teal,1
+ANTONGBAEK,western_union,Angk Romeas,1
+KEP,western_union,Damnak Chang Er,1
+SVAYYEA,western_union,Svay Yea,1
+OTDONG,western_union,Preaek Krabau,1
+BARKNONG,western_union,Angk Romeas,1
+CHREY,western_union,Chrey,3
+BOENGPRING,western_union,Boeng Pring,2
+TONLECHREYKOR,western_union,Kanhcham,1
+NIKOMKNONG,western_union,Chrouy Sdau,1
+KAOHRUESSEI,western_union,Trapeang Bei,1
+ROUNGKOUKANDAL,western_union,Chamnaom,1
+PHNUMLEAV,western_union,Pong Tuek,2
+CHAMKARBEI,western_union,Pong Tuek,1
+OU,western_union,Trapeang Reang,1
+PREIPIR,western_union,Srae Chea Khang Cheung,1
+BAKAMRAEK,western_union,Preaek Luong,1
+REACHDOUNKAEV,western_union,Preaek Norint,1
+TUOL,western_union,Lbaeuk,1
+NIKOMKRAU,western_union,Chrouy Sdau,1
+CHREYTHMEI,western_union,Kaoh Roka,1
+TRAPEANGBEI,western_union,Trapeang Bei,2
+TUMPUNGCHEUNG,western_union,Ta Meun,1
+KHNOR,western_union,Romeang Thkaol,1
+CHROUYSDAU,western_union,Chrouy Sdau,1
+ANGTBOUNG,western_union,Ta Pung,1
+TRAPEANGSEH,western_union,L Ang,1
+PHLOVDAMREILEU,western_union,Soea,1
+PREYRUN,western_union,Preah Sdach,1
+TRAPEANGLBAEUK,western_union,Trapeang Bei,1
+SOEA,western_union,Soea,1
+BOENGTOUCH,western_union,Soea,1
+KAEVKRASANG,western_union,Kaeb,2
+MREAMKHANGTBOUNG,western_union,Mream,1
+BASAET,western_union,Ta Pon,1
+TUMPUNGTBOUNG,western_union,Ta Pung,1
+TRAPEANGPRINGKHANGCHEUNG,western_union,Trapeang Pring,1
+PREAEKKHPOB,western_union,Preaek Khpob,3
+DAMNAKAMPIL,western_union,L Ang,1
+BABAONG,western_union,Ba Baong,1
+KHLALOUT,western_union,Kampong Trach,1
+KAEB,western_union,Kaeb,2
+KAMPOT,western_union,Dang Tong,3
+LANG,western_union,L Ang,3
+TAPON,western_union,Ta Pon,1
+KAKSEKAM,western_union,Ta Pung,4
+DAMNAKCHANGAEUR,western_union,Prey Thum,4
+SVAYKNGAO,western_union,Svay Chrum,1
+SVAYPREY,western_union,Lvea,1
+PREAEKCHDAOR,western_union,Peam Aek,1
+BATTAMBANG,western_union,Ek Phnom,4
+CHAMKARMORN,western_union,Takaen,1
+AMBAENGTHNGAE,western_union,Roka,1
+PREAEKKROUCH,western_union,Preaek Norint,1
+PREAHPRASAB,western_union,Preah Prasab,1
+PREYSVAY,western_union,Boeng Khnar,1
+KONGTUM,western_union,Peam Aek,1
+SAMRAONGSNAO,western_union,Samraong Knong,1
+SLAENGKONG,western_union,Daeum Rues,1
+KANDALTBOUNG,western_union,Kouk Khmum,1
+REAMSENA,western_union,Lvea,1
+OUANDOUNG,western_union,Barku,1
+TAKOM,western_union,Peam Aek,1
+BANSAYTRAENG,western_union,Bansay Traeng,1
+DAMNAKTRAYUENG,western_union,Takaen,1
+SAMRAONGKNONG,western_union,Samraong Knong,1
+TRAPEANGKOKIR,western_union,Lbaeuk,1
+THMEI,western_union,Prey Thum,2
+PREYTOTUENG,western_union,Ou Ta Ki,1
+ANGKSVAY,western_union,Prasoutr,1
+SVAYCHOU,western_union,Prey Khnes,1
+CHONGPREAK,western_union,Kdol Doun Teav,1
+TRAPEANGTHMA,western_union,Lbaeuk,1
+SAMEAKKI,western_union,Prey Pnov,1
+KAMPANG,western_union,Svay Doun Kaev,1
+TBAENG,western_union,Trapeang Srae,1
+KDOL,western_union,Kdol Doun Teav,1
+TAPRUOCH,western_union,Kdol Doun Teav,1
+OUKRASAR,western_union,Ou Krasar,2
+THMEI,western_union,Bansay Traeng,1
+PREYPHEAKDEI,western_union,Prey Puoch,1
+SLAKET,western_union,Sla Ket,2
+PREYLEAV,western_union,Bansay Traeng,1
+NOREAMUOY,western_union,Norea,1
+BALAT,western_union,Norea,1
+KANDAL,western_union,Chhak Chheu Neang,1
+DAMSPEY,western_union,Sla Ket,2
+PHNUMPREAL,western_union,Takaen,1
+CHOMKARSOMRAONG1,western_union,Chomkar Somraong,3
+LEAKNUEM,western_union,Seang Khveang,1
+ROBAOHREANG,western_union,Ou Ta Paong,1
+SVAYDOUNKAEVTIMUOY,western_union,Svay Doun Kaev,2
+SVAYDOUNKAEVTIPIR,western_union,Svay Doun Kaev,1
+BATTAMBANG,western_union,Krong Battambang,15
+SPONG,western_union,Anlong Vil,1
+KOUNSATV,western_union,Koun Satv,1
+NIKOMLEU,western_union,Svay Doun Kaev,1
+ANGKRONG,western_union,Chrey,1
+PANHNHA,western_union,Kampong Preah,1
+SOUPHY1,western_union,Rottanak,1
+CHOMKARSOMRAONG2,western_union,Chomkar Somraong,4
+VATROMDOL,western_union,Chomkar Somraong,1
+CHREYKAONG,western_union,Sla Ket,1
+THNANH,western_union,Bati,2
+TUOLSNUOL,western_union,Ruessei Krang,1
+BATTAMBANG,western_union,Sangkae,6
+RUMCHEK3,western_union,Rottanak,1
+PREYKANTREA,western_union,Roleang Kaen,1
+KAMPONGNONG,western_union,Koun Satv,2
+VATLEEB,western_union,Chomkar Somraong,1
+SRAHKAEV,western_union,Kampong Preah,2
+BALLANGKKRAOM,western_union,Rung Chrey,1
+ANLONGVIL,western_union,Anlong Vil,4
+TRAPEANGVEAENG,western_union,Chhak Chheu Neang,1
+CHUMNIK,western_union,Anlong Vil,3
+SVAYTHUM,western_union,Ou Dambang Pir,3
+PREKMOHATEP,western_union,Svay Por,6
+PREYKEAV,western_union,Kampong Chak,1
+BOSNHINH,western_union,Koun Satv,1
+AREAKSSVAY,western_union,Andoung Pou,1
+PREYCHHEUTEAL,western_union,Prasoutr,1
+TRAPEANGBEI,western_union,Takaen,1
+RUMCHEK4,western_union,Rottanak,2
+KAMPONGTNAOT,western_union,Koun Satv,1
+RUMCHEK5,western_union,Rottanak,1
+PREAEKTRAENG,western_union,Samraong Thum,1
+ROTTANAK,western_union,Rottanak,1
+THNALBAT,western_union,Ruessei Krang,1
+BOREIKAMMEAKKAR,western_union,Baek Chan,1
+OKHCHEAY,western_union,Prek Preah Sdach,1
+DAMNAKTRACH,western_union,Rumlech,1
+ROKAKRAOM,western_union,Khpob,1
+PREKPREAHSDACH,western_union,Prek Preah Sdach,1
+MEANRITTH,western_union,Kandaol,1
+13MEAKKAKRA,western_union,Prek Preah Sdach,2
+DAMNAKLUONG,western_union,Prey Thnang,2
+OUCHAR,western_union,Ou Char,2
+DAMBOUKKHPOS,western_union,Ou Dambang Pir,1
+ANHCHANH,western_union,Ou Char,4
+KAMPONGKRABEI,western_union,Svay Por,3
+CHAMKARUESSEY,western_union,Prek Preah Sdach,1
+LORITH,western_union,Prek Preah Sdach,1
+BOENGRACH,western_union,Angkor Tret,1
+TRAPEANGPRINGKHANGTBOUNG,western_union,Trapeang Pring,2
+KBALTHNAL,western_union,Kampong Prieng,1
+KAMMEAKOR,western_union,Svay Por,3
+KRANGLEAV,western_union,Prey Puoch,1
+BOSTRABAEK,western_union,Trapeang Pring,2
+OSTUK,western_union,Kampong Prieng,1
+MAEBAN,western_union,Sithor,1
+POPEALKHAE,western_union,Ou Ta Ki,1
+ANG,western_union,Ou Char,2
+OTAKAMII,western_union,Tuol Ta Ek,2
+PHSARKANTUOT,western_union,Sangkae Satob,2
+TRALAEUK,western_union,Angkor Tret,1
+OTAKAMI,western_union,Tuol Ta Ek,3
+PRAKEAB,western_union,Rung Chrey,1
+KAEVCHEAH,western_union,Banteay Krang,1
+KAMPONGSPEU,western_union,Aoral,2
+CHIPHOCH,western_union,Chi Phoch,1
+CHAMBAKTRAB,western_union,Preaek Roka,1
+AMPILCHHUNG,western_union,Ruessei Krang,1
+KHVAV,western_union,Rumlech,1
+KAKAOH,western_union,Ou Ta Ki,1
+KOR,western_union,Prey Svay,1
+CHAKKREITING,western_union,Prey Thnang,1
+OUTAKI,western_union,Ou Ta Ki,1
+ANDOUNGCHENH,western_union,Ou Char,2
+WATKOR,western_union,Wat Kor,1
+PHNUMTOUCH,western_union,Kandaol,1
+ANGKSALA,western_union,Chambak,1
+SUOSDEI,western_union,Ta Loas,1
+SVAYANDOUNG,western_union,Chi Phoch,1
+KAOHSLA,western_union,Trapeang Phleang,1
+KBALANG,western_union,Prey Khpos,1
+SRAKANEAK,western_union,Takaen,1
+PREAEKKONGREACH,western_union,Preaek Rey,1
+CHBARAMPOV,western_union,Prey Thnang,1
+THMEI,western_union,Kampong Prieng,1
+PREAEKPOU,western_union,Tuek Vil,1
+RUNGAMPIL,western_union,Khnach Romeas,1
+KOUNKHLONG,western_union,Prey Touch,1
+MLUMEUN,western_union,Phsar Daek,1
+ANLONGKOKIR,western_union,Kandaol,2
+TRAPEANGSANGKAE,western_union,Trapeang Sangkae,3
+DANGKORTEAB,western_union,Tuol Ta Ek,1
+SRAELEAV,western_union,Trapeang Phleang,2
+PHSARTRAENGTRAYUENG,western_union,Traeng Trayueng,1
+VOATCHAENG,western_union,Ou Dambang Muoy,1
+KAKOU,western_union,Chrey,1
+TRAEUNG,western_union,Mkak,2
+KALAOMPHLUK,western_union,Prey Svay,1
+KAOHVOAT,western_union,Ta Lou,1
+HAISAN,western_union,Chrey,1
+CHREYRUN,western_union,Ruessei Krang,1
+CHREYTHMEI,western_union,Chrey,1
+TRAPEANGCHRAB,western_union,Thmei,2
+MREAHPROV,western_union,Chrey,1
+OUKHCHEAY,western_union,Ou Dambang Muoy,1
+PREKHOLIX1,western_union,Prek Ho,1
+ANGK,western_union,Angkor Sar,1
+TUOLTOTUENG,western_union,Ta Lou,1
+KBALTHNAL,western_union,Prey Khpos,1
+PREYTOUCH,western_union,Prey Touch,1
+ANHCHANH,western_union,Krabau,1
+TUOLROKA,western_union,Ruessei Krang,1
+TUOLPRUMMUOY,western_union,Kakaoh,1
+DOUNSOY,western_union,Thmei,1
+BATTAMBANG,western_union,Moung Russey,7
+KAMPONGSEIMA,western_union,Wat Kor,1
+DOBKRASANG,western_union,Prey Touch,1
+OUSRALAU,western_union,Ou Dambang Muoy,1
+KOUCHENLAENG,western_union,Thmei,1
+CHHNALMOAN,western_union,Ta Lou,1
+SRAMAMEAS,western_union,Prey Svay,1
+PREYTAMOK,western_union,Chrey,1
+OMAL,western_union,Omal,1
+SLAKRAM,western_union,Vaot Ta Muem,1
+KAMPONGSAMRAONGKHANGTBOUNG,western_union,Kampong Samraong,1
+KOUKRUMLO,western_union,Ta Lou,1
+STUENGCHAK,western_union,Prey Touch,1
+ANSAONG,western_union,Ansaong,1
+CHRAPKRASAING,western_union,Wat Kor,3
+REANGKRAOL,western_union,Reang Kesei,1
+SAMRAONGMUOY,western_union,Samraong,2
+KAKAOH,western_union,Kakaoh,1
+SOUPHI,western_union,Anlong Run,1
+TRAPEANGKANHCHHAET,western_union,Kampong Samraong,2
+CHUMKRIEL,western_union,Chum Kriel,1
+MOUNG,western_union,Moung,5
+PURSAT,western_union,Phnom Kravanh,3
+BATRUMDUOL,western_union,Phteah Rung,2
+KOLTOTUENG,western_union,Santreae,1
+POUN,western_union,Smaong Khang Cheung,1
+KANSAIBANTEAY,western_union,Moung,4
+PREYPHDAU,western_union,Tuek Thla,1
+CHHMAPUON,western_union,Cheung Kaeub,1
+BAVELPIR,western_union,Bavel,1
+TRAPEANGTHUM,western_union,Chum Kriel,1
+SVAT,western_union,Chek,1
+PREYKANLANG,western_union,Phteah Rung,1
+OUKRIET,western_union,Kear,1
+DOUNKOENG,western_union,Doun Koeng,1
+PREYKHMUM,western_union,Prey Khmum,2
+KHSACHPOY,western_union,Wat Kor,1
+OU,western_union,Thmei,1
+CHONGBOENG,western_union,Seang Khveang,1
+CHEUNGPREYTIPIR,western_union,Ampov Prey,1
+SAMRAONG,western_union,Chum Kriel,1
+RUESSEICHACHAK,western_union,Prey Khnes,1
+ANHCHEAENGLEU,western_union,Puk Ruessei,1
+DACHPROAT,western_union,Bavel,1
+KANLAENGCHROV,western_union,Krabau,1
+TUMNOBTUEK,western_union,Bavel,1
+PREYPHCHET,western_union,Theay,1
+TATOKMUOY,western_union,Moung,1
+TRAPEANGDAMREI,western_union,Kampong Ampil,2
+DAEUMPOU,western_union,Svay Ta Yean,1
+BALAINGK,western_union,Wat Kor,1
+POPEALKHAE,western_union,Dei Edth,1
+KANDAL,western_union,Phteah Rung,1
+TRAPEANGCHREY,western_union,Trapeang Thum,1
+CHAKTHUM,western_union,Kakaoh,1
+PREAEKHANG,western_union,Kampong Kong,1
+PHLOVBAMBAEK,western_union,Prey Svay,1
+SVAYTHUM,western_union,Krang Ampil,2
+PHUMMUOYOUSAPHEA,western_union,Kampong Kandal,5
+BOENGTARAUNG,western_union,Prey Khmum,2
+POUPIR,western_union,Kear,1
+PREYKHLOUT,western_union,Smaong Khang Tboung,1
+RUESSEIMUOY,western_union,Moung,1
+SOVANNSAKOR,western_union,Kampong Kandal,5
+TAANGK,western_union,Traeuy Kaoh,1
+TOSASVET,western_union,Chhveang,1
+KRANG,western_union,Krang Ampil,3
+PREYTNAOT,western_union,Kampong Kraeng,1
+SANGKAEVEAR,western_union,Bavel,2
+MOL,western_union,Rokat,1
+ANLONGLVEA,western_union,Vaot Ta Muem,1
+KAMPONGBAYKHANGCHEUNG,western_union,Kampong Bay,8
+CHROUYMETREILEU,western_union,Ruessei Chrouy,1
+PREAEKAM,western_union,Robas Mongkol,1
+KAMPONGBAYKHANGTBOUNG,western_union,Kampong Bay,4
+BATTAMBANG,western_union,Bavel,3
+THKOL,western_union,Traeuy Sla,1
+BOENGTAPREAM,western_union,Traeuy Kaoh,1
+VEALLNGEUT,western_union,Kampong Chamlang,1
+TVIKHANGCHEUNG,western_union,Andoung Khmer,5
+ROKA,western_union,Angk Ta Sou,1
+DECHOUAKPHIVOADTH,western_union,Dechou Akphivoadth,2
+CHAKTOUCH,western_union,Kakaoh,1
+CHAMKARVEAENG,western_union,Peam Mean Chey,1
+BAKDAVKRAOM,western_union,Bak Dav,1
+SVAYCHEAT,western_union,Reang Kesei,1
+SAMRAONG,western_union,Thipakdei,1
+TRAPEANGTBAL,western_union,Mukh Da,1
+CHONGRUK,western_union,Phteah Rung,1
+MAKPRANG,western_union,Kampong Kraeng,1
+TRAPEANGKAK,western_union,Stueng Kaev,1
+DOUNNOUY,western_union,Chres,1
+TANAK,western_union,Kear,1
+TADOEB,western_union,Andoung Khmer,1
+ANDOUNGKHMER,western_union,Andoung Khmer,1
+ANGKORCHEY,western_union,Banteay Daek,1
+PREAEKMUOY,western_union,Samraong,1
+TVIKHANGTBOUNG,western_union,Andoung Khmer,1
+BATSALA,western_union,Chheu Teal,2
+OUTOUCH,western_union,Andoung Khmer,1
+BAYDAMRAM,western_union,Chheu Teal,1
+PREYPRUMPIR,western_union,Robas Mongkol,1
+TUOLANGKOB,western_union,Sambuor,2
+BAYDAMRAM,western_union,Bay Damram,1
+TUOLSALA,western_union,S Ang Phnum,1
+TECHOURKBALDAMREY,western_union,Dechou Akphivoadth,1
+BOENGKRUMKRAOM,western_union,Boeng Krum,1
+ANLONGKOUB,western_union,Robas Mongkol,1
+MUKHREAHMUOY,western_union,Mukh Reah,1
+ROTEANG,western_union,Phum Thum,1
+CHAMROA,western_union,Prey Svay,1
+TOTUENGTHNGAI,western_union,Boeng Tuk,1
+THMEI,western_union,Ta Kream,1
+TAPUNG,western_union,Chey Kampok,1
+PREYTOTUENG,western_union,Bay Damram,1
+PROHOASKBAL,western_union,Phteah Rung,1
+KAMPOT,western_union,Tuek Chhou,2
+KRALAPEAS,western_union,Bay Damram,2
+KRANGMKAK,western_union,Krang Mkak,1
+PHNUMSAMPOVLECH,western_union,Phnum Sampov,2
+MOATPEAM,western_union,Makprang,1
+SNAMPRAMPIR,western_union,Makprang,2
+ROBASMONGKOL,western_union,Robas Mongkol,1
+RA,western_union,Thipakdei,2
+LEKHPIR,western_union,Prasat,1
+ROKACHHMOUL,western_union,Kear,1
+SAN,western_union,Kdol Ta Haen,1
+DOUNG,western_union,Ampil Pram Daeum,1
+PRATHEAT,western_union,Preaek Sdei,1
+PREAEKPHKOAM,western_union,Preaek Anteah,1
+PAEN,western_union,Moung,1
+PRAHAL,western_union,Ta Lou,1
+BOEUNGPRAM,western_union,Boeung Pram,1
+CHHAYBALLANGK,western_union,Thipakdei,1
+DOUNG,western_union,Chheu Teal,1
+PAOYSVAY,western_union,Ta Kream,1
+KAMPONGKRAMUON,western_union,Prey Kanlaong,1
+PREAHANDOUNG,western_union,Sdok Pravoek,1
+KOUKTRAB,western_union,Kouk Trab,1
+PREYKHLOUT,western_union,Prey Tralach,1
+ANLOKKAONG,western_union,Chheu Teal,1
+KAMPOUV,western_union,Phnum Sampov,1
+SVAY,western_union,Roka,1
+CHAMKARSVAY,western_union,Chheu Teal,1
+TAPET,western_union,Chrey Loas,2
+TANGAEN,western_union,Ta Kream,2
+BOENGANHCHANH,western_union,Tuol Prech,1
+VEAL,western_union,Samraong,1
+SAMEAKKI,western_union,Kranhung,1
+KHNACHAMPOR,western_union,Preaek Chik,1
+BANAN,western_union,Kantueu Pir,1
+RUESSEISROK,western_union,Ruessei Srok,1
+KAMPONGAMPIL,western_union,Kantueu Muoy,1
+ANLONGSVAY,western_union,Ta Kream,2
+DAMNAKBENG,western_union,Bour,1
+ANLONGTAMOK,western_union,Robas Mongkol,1
+ANLUNGSDEI,western_union,Bour,1
+SDOKPRAVOEK,western_union,Sdok Pravoek,1
+BOEUNGPOPUL,western_union,Ampil Pram Daeum,1
+TUOLKOKIR,western_union,Sdok Pravoek,1
+DANGHAO,western_union,Mukh Reah,1
+TRAOK,western_union,Kampong Chamlang,1
+ROLUOS,western_union,Boeng Tuk,1
+TADEH,western_union,Samraong,1
+PREYTRALACH,western_union,Prey Tralach,3
+KAMPONGTREA,western_union,S Ang Phnum,1
+PREAEKCHIK,western_union,Preaek Chik,1
+PREAEKTHMEI,western_union,Chrouy Ta Kaev,1
+PRALAYDABPRAMBEI,western_union,Sdok Pravoek,2
+BOUR,western_union,Bour,2
+BAOHPUOY,western_union,Moung,1
+PREYAMPOAN,western_union,Sdok Pravoek,2
+THMEI,western_union,Chi Phoch,1
+PREYDAEUMTHNOENGTIPIR,western_union,Prey Daeum Thnoeng,1
+KILOUDABPIR,western_union,Kaoh Touch,1
+PREAEKTAVEN,western_union,Preaek Chik,2
+KHNAR,western_union,Tuol Prech,1
+TUOLTHNONG,western_union,Kantueu Muoy,1
+KAMPONGMKAK,western_union,Khlaeng Meas,1
+CHROUYCHREAE,western_union,Sambuor,1
+VOATKANTUEU,western_union,Kantueu Muoy,1
+KOR,western_union,Snoeng,1
+PREYKRANG,western_union,Prey Poun,1
+BOENGCHAENG,western_union,Snoeng,2
+BATTAMBANG,western_union,Kos Krolor,1
+BANTEAY,western_union,Kandieng Reay,1
+SAMBUORMEAS,western_union,Snoeng,1
+SASARPOK,western_union,Kantueu Muoy,1
+THNAM,western_union,Preaek Chik,1
+TUMNOBTAKUON,western_union,Khlaeng Meas,1
+TRAPEANGPHLONG,western_union,Krang Mkak,1
+TAKHAO,western_union,Preah Phos,1
+SALA,western_union,Rumchek,1
+TUOLBALLANGK,western_union,Koas Krala,1
+PREAEKTASAU,western_union,Svay Prateal,1
+MESARPRACHANLEU,western_union,Mesar Prachan,1
+DOUNG,western_union,Chaeng Mean Chey,1
+CHRANGBAK,western_union,Khlaeng Meas,1
+STUENGCHRAL,western_union,Ou Bak Roteh,1
+THNGOAR,western_union,Chaeng Mean Chey,1
+KAMPONGKOL,western_union,Chaeng Mean Chey,1
+KAMRAENG,western_union,Basak,1
+ANGKRONG,western_union,Samraong,1
+TRAPEANGKRALANH,western_union,Doung,1
+BOENGKRUMLEU,western_union,Boeng Krum,1
+BUOSANGKREACH,western_union,Khlaeng Meas,1
+SDEI,western_union,Preaek Norint,1
+CHANGHAON,western_union,Preaek Tnoat,2
+SRAHTUEKTHMEI,western_union,Ta Krei,1
+RUMCHEY,western_union,Snoeng,1
+BOENGPREI,western_union,Snoeng,1
+TNAOT,western_union,Roka,1
+TRAPEANGTAEI,western_union,Prey Ta Ei,1
+STUENGSAMRAONG,western_union,Ou Bak Roteh,1
+VEALROBANGLEU,western_union,Angkor Angk,1
+CHHNALMOAN,western_union,Chhnal Moan,1
+CHRANGKHPOS,western_union,Basak,3
+TRAPEANGKBALSVA,western_union,Khlaeng Meas,1
+SNUOL,western_union,Pech Chenda,1
+ANGKRONG,western_union,Roleang Kaen,1
+SAMEAKKI,western_union,Pech Chenda,1
+ANDOUNG,western_union,Mesar Prachan,1
+KAMPRANG,western_union,Ta Krei,2
+SAMSEB,western_union,Ta Krei,1
+PREAEKANTEAH,western_union,Preaek Anteah,1
+CHHUK,western_union,Basak,1
+PREAEKTNOAT,western_union,Preaek Tnoat,1
+OUDOUNTAKRAOM,western_union,Stueng Trang,1
+PHNUM,western_union,Phsar Daek,1
+BOHKHNOR,western_union,Chaeng Mean Chey,1
+THNONG,western_union,Krasang,1
+BADAKCHEUNG,western_union,Reaksmei Songha,1
+STUENGTHMEI,western_union,Pramaoy,8
+PREAEKKRAENG,western_union,Preaek Tnoat,1
+OUKHMUM,western_union,Reaksmei Songha,2
+KAMPONGTUOL,western_union,Anlong Romiet,1
+BANANG,western_union,Sdau,1
+PREYCHEK,western_union,Prey Rumdeng,1
+SVAYCHUOR,western_union,Andaeuk Haeb,1
+BANTEAYCHAR,western_union,Chhnal Moan,1
+CHHEUTEALPHLUOH,western_union,Svay Ampear,1
+TRAPEANGROPOV,western_union,Preaek Tnoat,2
+KAMRAENG,western_union,Andoung Trabaek,1
+KILOUSAMPRAMBEI,western_union,Traeng,1
+CHEK,western_union,Chek,1
+KOUKROKA,western_union,Doun Ba,1
+ROU,western_union,Nhor,1
+PREAEKSNAY,western_union,Preaek Koy,1
+LUMPHAT,western_union,Ou Da,1
+OUANLOK,western_union,Ta Saen,2
+KOUNDAMREI,western_union,Stueng Trang,1
+PREYTOTUENG,western_union,Chhnal Moan,1
+PHCHEAV,western_union,Traeng,1
+TRAPEANGTRASAK,western_union,Mream,1
+VEAL,western_union,Kampong Seila,1
+CHAM,western_union,Cham,1
+OUKOKIR,western_union,Trang,1
+THMEI,western_union,Trang,2
+THMEI,western_union,Ou Da,1
+SVAYANDOUNG,western_union,Kaoh Sampov,1
+TRANG,western_union,Trang,1
+CHIPANG,western_union,Phlov Meas,1
+OUKOKIR,western_union,Ou Da,1
+KDOEANGREAY,western_union,Kdoeang Reay,1
+OUCHAMLANG,western_union,Ta Saen,1
+SAMRAONGKAER3,western_union,Samraong Thum,1
+OUCHETPRAM,western_union,Ou Andoung,1
+PREYPHCHOEKTIMUOY,western_union,Samraong Leu,1
+OUDALEU,western_union,Boeng Reang,4
+SVAY,western_union,Boeng Reang,1
+PREYTAMU,western_union,Sambatt Mean Chey,1
+BOENGTRACH,western_union,Chamkar Luong,1
+PREAEKDOUNG,western_union,Kampong Svay,1
+OUDA,western_union,Ou Da,1
+DOUNG,western_union,Boeng Reang,4
+BATTAMBANG,western_union,Kam Rrieng,3
+MUKHDA,western_union,Mukh Da,1
+KANDAL,western_union,Lumhach,1
+ANLONGROMIETKHANGTBOUNG,western_union,Anlong Romiet,1
+OUTRAENG,western_union,Phlov Meas,1
+PREAEKTAONGTIMUOY,western_union,Peam Oknha Ong,1
+SVAYSA,western_union,Kamrieng,1
+SAMLANH,western_union,Krapeu Pir,2
+VEALMEAS,western_union,Veal Renh,2
+PREAHPUTH,western_union,Boeng Reang,1
+KAMCHAYMEARKHANGCHEUNG,western_union,Kranhung,1
+PREYTHUM,western_union,Kampong Lpov,4
+BOENGVEAENG,western_union,Veal Renh,1
+CHAMLANGROMEANGLEU,western_union,Ou Samril,1
+TANEY,western_union,Ta Ney,1
+SIHANOUKVILLE,western_union,Preahsihanouk,9
+PHLOVMEAS,western_union,Phlov Meas,2
+TRAPEANGTHKOV,western_union,Pong Tuek,1
+TAPOV,western_union,Ta Ney,1
+VEALTHUM,western_union,Veal Renh,2
+THNALKAENG,western_union,Svay Chrum,1
+OURUMCHEKKRAOM,western_union,Ou Samril,1
+KIRIVOAN,western_union,Stueng Chhay,1
+STUENGCHHAYCHEUNG,western_union,Stueng Chhay,1
+STUENGCHHAYTBONG,western_union,Stueng Chhay,1
+KRAPEUPIRKRAOM,western_union,Krapeu Pir,1
+AKNEAK,western_union,Sangkhoar,1
+KAOHKHYANG,western_union,Ou Chrov,2
+VEAL,western_union,Sala Krau,1
+PAILIN,western_union,Pailin,11
+PREAHSIHANOUK,western_union,Prey Nup,2
+TUOLTOTUENGTIPIR,western_union,Tuol Totueng,1
+TRAPEANGSOYTIMUOY,western_union,Andoung Thma,1
+BANTEAYPREI,western_union,Andoung Thma,1
+NHOR,western_union,Nhor,1
+CHAMKARLUONG,western_union,Chamkar Luong,1
+PEAMTAAEK,western_union,Peam Oknha Ong,1
+TRAPEANGMUL,western_union,Cheung Kou,1
+KUMNUM,western_union,Smaong Khang Tboung,1
+CHAMKARKAUSU,western_union,Cheung Kou,1
+PREAEKROKA,western_union,Preaek Roka,1
+BATKOKIR,western_union,Ou Oknha Heng,2
+TAKROK,western_union,Traeng,1
+LAKHOKPIR,western_union,Kamrieng,1
+PREYNOBPIR,western_union,Prey Nob,1
+OUTASEK,western_union,Ou Oknha Heng,1
+PHSARPRUM,western_union,Stueng Kach,7
+PREYPOU,western_union,Thmea,1
+KOHKONG,western_union,Kohkong,5
+SRAEAMBEL,western_union,Srae Ambel,1
+SRAECHIPOV,western_union,Mean Chey,3
+TUOLSRALAU,western_union,Tuol Lvea,1
+RATHKRAOHCHHEH,western_union,Stueng Kach,1
+PREYTHUM,western_union,Kou Khchak,1
+AMPUEP,western_union,Mean Chey,1
+PREYTOTUENG,western_union,Sambuor,1
+OUCHHEUKRAM,western_union,Stueng Kach,3
+PANGROLEM,western_union,Ou Ta Vau,1
+VEALTHUM,western_union,Peam Oknha Ong,1
+OUOKNHAHENG,western_union,Ou Oknha Heng,1
+PAILIN,western_union,Krong Pailin,3
+OUBENG,western_union,Stueng Kach,1
+KBALPRALEAN,western_union,Ou Ta Vau,1
+PAILIN,western_union,Paillin,2
+PREYPNOV,western_union,Prey Pnov,1
+OUTAPRANG,western_union,Pailin,1
+OUTAPUKLEU,western_union,Pailin,2
+OUTRACHEAKCHET,western_union,Samrong,1
+RITHY2,western_union,Kaev Phos,1
+PREAEKPRA,western_union,Preaek Ruessei,1
+VOAT,western_union,Pailin,2
+CHONLUENG,western_union,Roka Chonlueng,1
+OUDA,western_union,Phlov Meas,1
+OUTAPUKKRAOM,western_union,Tuol Lvea,1
+OUPEUT,western_union,Tuol Lvea,1
+BOENG,western_union,Roka,1
+OUCHRAKANDAL,western_union,Tuol Lvea,1
+TUOLSOPHI,western_union,Seang Khveang,1
+PREKRIANG1,western_union,Kampong Samnanh,1
+OUPREUS,western_union,Ou Ta Vau,1
+RITHY1,western_union,Kaev Phos,1
+PHNUMSRALAU,western_union,Chrouy Svay,1
+OUSNGUOT,western_union,Ta Sanh,1
+CHHUK,western_union,Chi Kha Leu,1
+ONG,western_union,Ream,3
+OUTONTUEM,western_union,Ta Sanh,3
+PREAEKSVAY,western_union,Thma Doun Pov,1
+REAM,western_union,Ream,2
+OUCHOAMLEU,western_union,Kampong Lpov,1
+PUTHOEANG,western_union,Bet Trang,3
+PREYKANLAONG,western_union,Prey Kanlaong,1
+KANTUOT,western_union,Samlout,3
+BOENGRUN,western_union,Samlout,2
+CHAMBAKPHLUOH,western_union,Phnum Bat,1
+TANGLANGTIMUOY,western_union,Prey Khla,1
+PRAMAOY,western_union,Pramaoy,5
+CHAMNAOTREAM,western_union,Bet Trang,2
+THMATHUM,western_union,Ream,1
+KANDAL,western_union,Sung,1
+PHUMPIR,western_union,Tumnob Rolok,1
+SVAYCHRUM,western_union,Kampong Lpov,1
+TAAOK,western_union,Chhveang,1
+KOKIRCHRUM,western_union,Ruessei Chrum,1
+DEILAOR,western_union,Ou Rumduol,1
+KANHCHANG,western_union,Sung,1
+TRAPEANGCHHEUTRAV,western_union,Ruessei Chrum,1
+PRACHANTREA,western_union,Banteay Krang,1
+OUTATIEK,western_union,Ta Taok,1
+PREAHANGKKAEV,western_union,Chrung Popel,1
+CHIPHAT,western_union,Chi Phat,1
+SUNGMUOY,western_union,Sung,1
+CHHEUTEALCHRUM,western_union,Pramaoy,1
+KRANGRONGIENG,western_union,Anlong Reab,2
+KRASANGKOY,western_union,Chrey,1
+ANDOUNGKRASANG,western_union,Pong Tuek,1
+PHUMPRAM,western_union,Buon,2
+PHUMPIR,western_union,Lek Muoy,1
+CHROUYRUESSEI,western_union,Kampong Luong,1
+OUTRAENG,western_union,Ta Taok,1
+CHHAYLOUK,western_union,Ou Saom,1
+CHUMNIK,western_union,Kampong Popil,1
+PURSAT,western_union,Veal Veng,1
+VEALSMACH,western_union,Krabau,1
+PHUMMUOY,western_union,Lek Muoy,1
+THNONG,western_union,Kandaol,1
+CHHAKROKA,western_union,Samlout,1
+PHUMBUON,western_union,Buon,3
+TRAPEANGPRING,western_union,Angk Prasrae,1
+PREYTOTUENG,western_union,Khpob,1
+PHUMMUOY,western_union,Buon,3
+PREAHSIHANOUK,western_union,Preah Sihanouk,6
+PHUMMUOY,western_union,Bei,4
+SVAYANTORTIMUOY,western_union,Svay Antor,1
+PHUMMUOY,western_union,Pir,1
+TAKOUK,western_union,Lvea,1
+PREAEKCHAS,western_union,Vihear Suork,1
+BATLVEA,western_union,Daeum Rues,1
+OURUMCHEK,western_union,Svay Prateal,1
+PHLOY,western_union,Ta Kao,1
+DEIKRAHAM,western_union,Anlong Reab,2
+THMASA,western_union,Thma Sa,2
+TRAPEANGRUNG,western_union,Trapeang Rung,1
+KAOHRUNGSANLOEM,western_union,Koah Rung Sonlem,1
+PREAEKSVAY,western_union,Kaoh Rung,1
+AEKAKPHEAP,western_union,Thma Da,1
+PHSARDAEKKRAOM,western_union,Phsar Daek,1
+SANGKUMTHMEI,western_union,Thma Da,1
+PEAMSDEI,western_union,Preaek Ruessei,1
+STUENGVEAENG,western_union,Stueng Veaeng,1
+THMEI,western_union,Chrouy Pras,1
+KOHKONG,western_union,Krong Khemara Phoumin,3
+PHUMTIMUOY,western_union,Smach Mean Chey,2
+PHUMTIBEI,western_union,Smach Mean Chey,1
+PHUMTIPIR,western_union,Smach Mean Chey,1
+PHUMTIMUOY,western_union,Dang Tong,1
+PAKKHLANGMUOY,western_union,Pak Khlang,1
+PAKKHLANGPIR,western_union,Pak Khlang,1
+CHAMYEAM,western_union,Pak Khlang,5
+KOHKONG,western_union,Kiri Sakor,1

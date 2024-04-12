@@ -1,0 +1,13 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+3106,abc_pl,abc,,Bęczyn,lubelskie,,PL,,,,abc,Q11683985
+1909,abc_pl,abc,,Urzędów,lubelskie,,PL,,,,abc,Q11683985
+7475,groszek_pl,Groszek,,Urzędów,lubelskie,,PL,,,,Groszek,Q9280965
+7476,groszek_pl,Groszek,,Boby,lubelskie,,PL,,,,Groszek,Q9280965
+7474,groszek_pl,Groszek,,Popkowice,lubelskie,,PL,,,,Groszek,Q9280965
+PPK01M,paczkomat_inpost_pl,Sklep GS,,Popkowice,lubelskie,,PL,,https://inpost.pl/paczkomat-popkowice-ppk01m-popkowice-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+URZ01M,paczkomat_inpost_pl,Na stacji paliw DAREX,,Urzędów,lubelskie,,PL,,https://inpost.pl/paczkomat-urzedow-urz01m-partyzantow-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+URZ02M,paczkomat_inpost_pl,Za sklepem Groszek,,Urzędów,lubelskie,,PL,,https://inpost.pl/paczkomat-urzedow-urz02m-rynek-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+294802,poczta_polska_pl,AP Popkowice,,Popkowice,LUBELSKIE,,PL,+48 81 821 33 45,,,Poczta Polska,Q168833
+271447,poczta_polska_pl,UP Urzędów,,Urzędów,LUBELSKIE,,PL,+48 81 822 50 99,,,Poczta Polska,Q168833
+,visa,,,URZĘDOW,LUBELSKIE,,PL,,,,,
+c598e9c2ba2d22c55376a6382d4745d4,western_union,BANK SPOLDZIELCZY ZIEMII KRASN,,Urzedow,LUBELSKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/lubelskie/urzedow/c598e9c2ba2d22c55376a6382d4745d4,Mo 09:00-16:00; Tu-Fr 07:15-14:00,Western Union,Q861042

@@ -1,0 +1,254 @@
+City,Place Name,Zipcode,Name
+LA FRENAYE,audi,1 Rue des quatres chemins LA FRENAYE 76170,unknown,CAUDEBEC AUTOMOBILES
+FAUVILLE,audi,281 Rue Amédée Gordini FAUVILLE 27930,unknown,LECLUSE AUTOMOBILES EVREUX
+ROUEN,audi,114 RUE DE CONSTANTINE ROUEN 76021,unknown,AUTO CONCEPT
+LE HAVRE,audi,20 RUE DE PRESSENSE LE HAVRE 76600,unknown,AUTO CONCEPT
+DIEPPE,audi,21 Avenue Normandie Sussex DIEPPE 76200,unknown,AUTO CONCEPT
+GISORS,cic,,unknown,CIC
+LES ANDELYS,cic,,unknown,CIC GAILLON
+VERNON,cic,,unknown,CIC
+GAILLON,cic,,unknown,CIC GAILLON - CIC LES ANDELYS
+EU,cic,,unknown,CIC EU - CIC FRESSENNEVILLE
+CONCHES EN OUCHE,cic,,unknown,CIC
+BRETEUIL SUR ITON,cic,,unknown,CIC VERNEUIL SUR AVRE
+VERNEUIL D AVRE ET D ITON,cic,,unknown,CIC VERNEUIL SUR AVRE - CIC BRETEUIL SUR ITON
+EVREUX,cic,,unknown,CIC
+PACY SUR EURE,cic,,unknown,CIC
+FORGES LES EAUX,cic,,unknown,CIC NEUFCHATEL EN BRAY
+NEUFCHATEL EN BRAY,cic,,unknown,CIC NEUFCHATEL EN BRAY - CIC FORGES LES EAUX
+ROUEN,cic,,unknown,CIC ROUEN SAINT MARC - CIC DARNETAL
+BARENTIN,cic,,unknown,CIC
+DEVILLE LES ROUEN,cic,,unknown,CIC
+DIEPPE,cic,,unknown,CIC DIEPPE - CIC OFFRANVILLE
+MONT ST AIGNAN,cic,,unknown,CIC
+DARNETAL,cic,,unknown,CIC ROUEN SAINT MARC - CIC ROUEN ST MARC
+GOURNAY EN BRAY,cic,,unknown,CIC
+OFFRANVILLE,cic,,unknown,CIC DIEPPE
+BOIS GUILLAUME,cic,,unknown,CIC BOIS GUILLAUME - CIC QUINCAMPOIX
+QUINCAMPOIX,cic,,unknown,CIC BOIS GUILLAUME
+LE HAVRE,cic,,unknown,CIC LE HAVRE SAINTE CECILE - CIC LE HAVRE SANVIC
+LE GRAND QUEVILLY,cic,,unknown,CIC
+PONT AUDEMER,cic,,unknown,CIC
+MONTIVILLIERS,cic,,unknown,CIC
+ETRETAT,cic,,unknown,CIC GODERVILLE
+FECAMP,cic,,unknown,CIC
+ST ROMAIN DE COLBOSC,cic,,unknown,CIC
+ST VALERY EN CAUX,cic,,unknown,CIC CANY
+GODERVILLE,cic,,unknown,CIC GODERVILLE - CIC ETRETAT
+BOLBEC,cic,,unknown,CIC BOLBEC - CIC LILLEBONNE
+CANY BARVILLE,cic,,unknown,CIC CANY - CIC SAINT VALERY EN CAUX
+LILLEBONNE,cic,,unknown,CIC BOLBEC
+TERRES DE CAUX,cic,,unknown,CIC YVETOT
+YVETOT,cic,,unknown,CIC YVETOT - CIC FAUVILLE
+LE NEUBOURG,cic,,unknown,CIC LE NEUBOURG - CIC BRIONNE
+ELBEUF,cic,,unknown,CIC ELBEUF - CIC OISSEL
+BRIONNE,cic,,unknown,CIC LE NEUBOURG
+OISSEL,cic,,unknown,CIC ELBEUF
+LOUVIERS,cic,,unknown,CIC
+GRAND COURONNE,cic,,unknown,CIC
+GRAND BOURGTHEROULDE,cic,,unknown,CIC
+BEAUMONT LE ROGER,cic,,unknown,CIC
+BERNAY,cic,,unknown,CIC
+LE MESNIL ESNARD,cic,,unknown,CIC
+SOTTEVILLE LES ROUEN,cic,,unknown,CIC
+LE HAVRE,cigusto_fr,,unknown,CIGUSTO LE HAVRE COTY
+GRUCHET LE VALASSE,cigusto_fr,,unknown,CIGUSTO GRUCHET-LE-VALASSE
+GONFREVILLE L'ORCHER,cigusto_fr,,unknown,CIGUSTO GONFREVILLE L'ORCHER
+SAINT LUBIN DES JONCHERETS,e_leclerc,,unknown,Drive Nonancourt / Saint-Lubin
+La Madeleine-de-Nonancourt,e_leclerc,,unknown,STATION RN 12
+LE NEUBOURG,e_leclerc,,unknown,Location
+CROSVILLE LA VIEILLE,e_leclerc,,unknown,Drive Le Neubourg
+Verneuil-Sur-Avre,e_leclerc,,unknown,Drive Verneuil-sur-Avre
+ST PIERRE LES ELBEUF,e_leclerc,,unknown,Voyages
+SAINT PIERRE LES ELBEUF,e_leclerc,,unknown,SAINT PIERRE
+Caudebec Lès Elbeuf,e_leclerc,,unknown,Drive Saint-Pierre-lès-Elbeuf
+MENNEVAL,e_leclerc,,unknown,Location
+BERNAY,e_leclerc,,unknown,Drive Menneval / Bernay
+MENNEVAL-BERNAY,e_leclerc,,unknown,MENNEVAL
+NEUFCHATEL EN BRAY,e_leclerc,,unknown,Drive Neufchâtel-en-Bray
+SAINT ETIENNE DU ROUVRAY CEDEX,e_leclerc,,unknown,Drive Saint-Etienne-du-Rouvray
+VERNON,e_leclerc,,unknown,Location VERNON
+VERNON CEDEX,e_leclerc,,unknown,Drive Vernon
+DIEPPE CEDEX,e_leclerc,,unknown,Station Service
+MARTIN EGLISE,e_leclerc,,unknown,DIEPPE
+NEUVILLE LES DIEPPE,e_leclerc,,unknown,Express Neuville-Les-Dieppe
+DIEPPE,e_leclerc,,unknown,Location
+INCARVILLE,e_leclerc,,unknown,Location
+VAL DE REUIL,e_leclerc,,unknown,Drive Val-de-Reuil / Louviers
+NORMANVILLE,e_leclerc,,unknown,NORMANVILLE
+EVREUX NETREVILLE,e_leclerc,,unknown,Drive Evreux
+EU,e_leclerc,,unknown,Drive Etalondes
+ETALONDES,e_leclerc,,unknown,ETALONDES
+Gournay en Bray,e_leclerc,,unknown,DRIVE Gournay en Bray
+BAPEAUME LES ROUEN,e_leclerc,,unknown,Location
+Canteleu,e_leclerc,,unknown,Drive Canteleu
+Bois Guillaume,e_leclerc,,unknown,Drive Bois Guillaume
+LE HOULME,e_leclerc,,unknown,Drive Le Houlme
+Barentin,e_leclerc,,unknown,Drive Barentin
+ST-VALERY EN CAUX,e_leclerc,,unknown,Drive Saint-Valéry-en-Caux
+SAINT VALERY EN CAUX,e_leclerc,,unknown,SAINT VALERY
+YVETOT CEDEX,e_leclerc,,unknown,Location
+YVETOT,e_leclerc,,unknown,Drive Yvetot
+LE HAVRE - GONFREVILLE L'ORCHER,e_leclerc,,unknown,Drive Gonfreville-l'orcher
+LE HAVRE GONFREVILLE L'ORCHER,e_leclerc,,unknown,OCEANE
+LE HAVRE,e_leclerc,,unknown,Drive relais des 4 chemins
+ROUEN,e_leclerc,,unknown,Drive Rouen - Rive Gauche
+SOTTEVILLE-LES-ROUEN,e_leclerc,,unknown,Location
+Rouen,e_leclerc,,unknown,Drive Rouen Darnétal
+Le Mesnil-Esnard,e_leclerc,,unknown,Drive Mesnil-Esnard
+Sotteville-Les-Rouen,e_leclerc,,unknown,Drive Sotteville-lès-Rouen
+SAINT LEONARD,e_leclerc,,unknown,Drive Saint Léonard
+FECAMP,e_leclerc,,unknown,Drive Fécamp
+Yvetot,fedex,,unknown,unknown
+Yerville,fedex,,unknown,unknown
+Veulettes Sur Mer,fedex,,unknown,unknown
+Vernon,fedex,,unknown,unknown
+Verneuil Sur Avre,fedex,,unknown,unknown
+Valmont,fedex,,unknown,unknown
+Val De Reuil,fedex,,unknown,unknown
+Tourville La Riviere,fedex,,unknown,unknown
+Totes,fedex,,unknown,unknown
+Tocqueville Les Murs,fedex,,unknown,unknown
+Tillieres Sur Avre,fedex,,unknown,unknown
+Thiberville,fedex,,unknown,unknown
+Tancarville,fedex,,unknown,unknown
+Ste Marie Des Champs,fedex,,unknown,unknown
+Ste Marguerite Sur Duclair,fedex,,unknown,unknown
+St Sebastien De Morsent,fedex,,unknown,unknown
+St Saens,fedex,,unknown,unknown
+St Romain De Colbosc,fedex,,unknown,unknown
+St Pierre Les Elbeuf,fedex,,unknown,unknown
+St Pierre Du Vauvray,fedex,,unknown,unknown
+St Pierre Des Fleurs,fedex,,unknown,unknown
+St Pierre De Manneville,fedex,,unknown,unknown
+St Pierre De Cormeilles,fedex,,unknown,unknown
+St Ouen De Thouberville,fedex,,unknown,unknown
+St Nicolas D Aliermont,fedex,,unknown,unknown
+St Martin De L If,fedex,,unknown,unknown
+St Marcel,fedex,,unknown,unknown
+St Leger Du Bourg Denis,fedex,,unknown,unknown
+St Jacques Sur Darnetal,fedex,,unknown,unknown
+St Georges Sur Fontaine,fedex,,unknown,unknown
+St Etienne Du Rouvray,fedex,,unknown,FedEx Express FR
+St Aubin Les Elbeuf,fedex,,unknown,unknown
+St Andre De L Eure,fedex,,unknown,unknown
+Sotteville Les Rouen,fedex,,unknown,unknown
+Serquigny,fedex,,unknown,unknown
+Rugles,fedex,,unknown,unknown
+Rouxmesnil Bouteilles,fedex,,unknown,unknown
+Routot,fedex,,unknown,unknown
+Rouen,fedex,,unknown,unknown
+Ronchois,fedex,,unknown,unknown
+Rennes,fedex,,unknown,unknown
+Quittebeuf,fedex,,unknown,unknown
+Quillebeuf Sur Seine,fedex,,unknown,unknown
+Preaux,fedex,,unknown,unknown
+Poses,fedex,,unknown,unknown
+Pont Audemer,fedex,,unknown,unknown
+Pitres,fedex,,unknown,unknown
+Petit Couronne,fedex,,unknown,unknown
+Pavilly,fedex,,unknown,unknown
+Oissel,fedex,,unknown,unknown
+Notre Dame De Bondeville,fedex,,unknown,unknown
+Norville,fedex,,unknown,unknown
+Normanville,fedex,,unknown,unknown
+Nonancourt,fedex,,unknown,unknown
+Neuville Les Dieppe,fedex,,unknown,unknown
+Neufchatel En Bray,fedex,,unknown,unknown
+Morgny,fedex,,unknown,unknown
+Montville,fedex,,unknown,unknown
+Montivilliers,fedex,,unknown,unknown
+Mont St Aignan,fedex,,unknown,unknown
+Mesnil Raoul,fedex,,unknown,unknown
+Menneval,fedex,,unknown,unknown
+Martin Eglise,fedex,,unknown,unknown
+Maromme,fedex,,unknown,unknown
+Malaunay,fedex,,unknown,unknown
+Luneray,fedex,,unknown,unknown
+Louviers,fedex,,unknown,unknown
+Longueville Sur Scie,fedex,,unknown,unknown
+Londinieres,fedex,,unknown,unknown
+Lillebonne,fedex,,unknown,unknown
+Les Grandes Ventes,fedex,,unknown,unknown
+Les Andelys,fedex,,unknown,unknown
+Le Vaudreuil,fedex,,unknown,unknown
+Le Treport,fedex,,unknown,unknown
+Le Trait,fedex,,unknown,unknown
+Le Petit Quevilly,fedex,,unknown,unknown
+Le Neubourg,fedex,,unknown,unknown
+Le Havre,fedex,,unknown,unknown
+Le Grand Quevilly,fedex,,unknown,unknown
+Le Bosc Roger En Roumois,fedex,,unknown,unknown
+Landepereuse,fedex,,unknown,unknown
+La Trinite De Thouberville,fedex,,unknown,unknown
+La Heuniere,fedex,,unknown,unknown
+La Ferriere Sur Risle,fedex,,unknown,unknown
+La Bonneville Sur Iton,fedex,,unknown,unknown
+Ivry La Bataille,fedex,,unknown,unknown
+Isneauville,fedex,,unknown,unknown
+Imbleville,fedex,,unknown,unknown
+Heudreville Sur Eure,fedex,,unknown,unknown
+Harfleur,fedex,,unknown,unknown
+Gruchet St Simeon,fedex,,unknown,unknown
+Gravigny,fedex,,unknown,unknown
+Grand Couronne,fedex,,unknown,unknown
+Gournay En Bray,fedex,,unknown,unknown
+Gonfreville L Orcher,fedex,,unknown,unknown
+Goderville,fedex,,unknown,unknown
+Gisors,fedex,,unknown,unknown
+Gasny,fedex,,unknown,unknown
+Gaillon,fedex,,unknown,unknown
+Fresne L Archeveque,fedex,,unknown,unknown
+Franqueville St Pierre,fedex,,unknown,unknown
+Fourmetot,fedex,,unknown,unknown
+Foucarmont,fedex,,unknown,unknown
+Forges Les Eaux,fedex,,unknown,unknown
+Fontaine Le Dun,fedex,,unknown,unknown
+Fleury Sur Andelle,fedex,,unknown,unknown
+Ferrieres En Bray,fedex,,unknown,unknown
+Fecamp,fedex,,unknown,unknown
+Fauville En Caux,fedex,,unknown,unknown
+Evreux,fedex,,unknown,unknown
+Etrepagny,fedex,,unknown,unknown
+Etalondes,fedex,,unknown,unknown
+Ermenouville,fedex,,unknown,unknown
+Epreville,fedex,,unknown,unknown
+Epretot,fedex,,unknown,unknown
+Epouville,fedex,,unknown,unknown
+Epaignes,fedex,,unknown,unknown
+Envermeu,fedex,,unknown,unknown
+Elbeuf,fedex,,unknown,unknown
+Ecardenville La Campagne,fedex,,unknown,unknown
+Duclair,fedex,,unknown,unknown
+Doudeville,fedex,,unknown,unknown
+Dieppe,fedex,,unknown,unknown
+Deville Les Rouen,fedex,,unknown,unknown
+Damville,fedex,,unknown,unknown
+Criquetot L Esneval,fedex,,unknown,unknown
+Courcelles Sur Seine,fedex,,unknown,unknown
+Courbepine,fedex,,unknown,unknown
+Conches En Ouche,fedex,,unknown,unknown
+Cleres,fedex,,unknown,unknown
+Cleon,fedex,,unknown,unknown
+Charleval,fedex,,unknown,unknown
+Caudebec Les Elbeuf,fedex,,unknown,unknown
+Caudebec En Caux,fedex,,unknown,unknown
+Cany Barville,fedex,,unknown,unknown
+Canteleu,fedex,,unknown,unknown
+Rouen,hema,,unknown,HEMA
+Le Havre,hema,,unknown,HEMA
+PACY SUR EURE,ikks,,unknown,PACY SUR EURE MMXJ
+EVREUX,ikks,,unknown,XandO General Store EVREUX
+LOUVIERS,ikks,,unknown,LOUVIERS MMXJ
+BERNAY,ikks,,unknown,BERNAY MMXJ
+ROUEN,ikks,,unknown,IKKS Junior ROUEN Docks
+DIEPPE,ikks,,unknown,XandO Women DIEPPE
+LE HAVRE,ikks,,unknown,IKKS Women Men LE HAVRE
+FECAMP,ikks,,unknown,FECAMP MMXJ
+Departement de la Seine-Maritime,ionity,,unknown,Bolleville Est
+Departement de l'Eure,ionity,,unknown,Val de Reuil
+Le   Havre,starbucks_eu,70 Quai Frissard 76600 Le Havre,unknown,Le Havre CC Docks Vauban
+Le   Havre,starbucks_eu,6 Av Rene Coty 76600 Le Havre Francia 76600 Le Havre,unknown,Le Havre Rene Coty 6
+76410 Tourville-la-Rivire,starbucks_eu,Centre comm Tourville La Riviere D7 76410 Tourville-la-Rivire,unknown,Tourville La Rivire DT
+Rouen,starbucks_eu,91 Rue du Gros Horloge 76000 Rouen France 76000 Rouen,unknown,Rouen Rue du Gros Horloge 91
+Departement de la Seine-Maritime,tier,,unknown,Tier

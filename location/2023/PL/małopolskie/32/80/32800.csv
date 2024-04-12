@@ -1,0 +1,42 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5866,abc_pl,abc,,Poręba Spytkowska,małopolskie,,PL,,,,abc,Q11683985
+10203,abc_pl,abc,,Brzesko,małopolskie,,PL,,,,abc,Q11683985
+3748,abc_pl,abc,,Mokrzyska,małopolskie,,PL,,,,abc,Q11683985
+10205,abc_pl,abc,,Brzesko,małopolskie,,PL,,,,abc,Q11683985
+185,bricomarche_pl,Bricomarché Brzesko,,Brzesko,małopolskie,,PL,+48 14 627 75 15,https://www.bricomarche.pl/sklep/bricomarche-brzesko,,Bricomarché,Q2925147
+694,dr_max,"Apteka Dr.Max, Sienkiewicza 5/1a, Brzesko",,Brzesko,Małopolskie,,PL,+48 14 685 32 85,https://www.drmax.pl/apteki/brzesko-sienkiewicza-5-1a,,Dr. Max,Q56317371
+12843,groszek_pl,Groszek,,Brzesko,małopolskie,,PL,,,,Groszek,Q9280965
+14472,groszek_pl,Groszek,,Brzesko,małopolskie,,PL,,,,Groszek,Q9280965
+13799,groszek_pl,Groszek,,Brzesko,małopolskie,,PL,,,,Groszek,Q9280965
+14499,groszek_pl,Groszek,,Okocim,małopolskie,,PL,,,,Groszek,Q9280965
+165,mcdonalds_pl,McDonald's,,Brzesko,Małopolskie,,PL,+48 668 397 561,https://mcdonalds.pl/restauracje/malopolskie/brzesko/brzesko-ul-biznesowa-5,Mo-Su 07:00-24:00,McDonald's,Q38076
+BRE01A,paczkomat_inpost_pl,Przy parkingu bocznym Hotelu Planeta,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre01a-pomianowska-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE01G,paczkomat_inpost_pl,Przy sklepie Majster,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre01g-biznesowa-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE01M,paczkomat_inpost_pl,Z tyłu Galerii Brzeskiej,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre01m-krolowej-jadwigi-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE02A,paczkomat_inpost_pl,Parking sklepu Spar,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre02a-kosciuszki-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE03M,paczkomat_inpost_pl,Na parkingu sklepu Lidl,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre03m-kosciuszki-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE04M,paczkomat_inpost_pl,Przy stacji Orlen,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre04m-kopernika-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE05M,paczkomat_inpost_pl,PRZY ULICY OSIEDLOWEJ,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre05m-osiedlowa-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE06M,paczkomat_inpost_pl,Na przeciwko wejścia do Mrówki,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre06m-solskiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE08M,paczkomat_inpost_pl,Przy wejściu do sklepu,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre08m-konstytucji-3-maja-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRE09M,paczkomat_inpost_pl,Z boku sklepu,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-bre09m-starowiejska-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BRZ05N,paczkomat_inpost_pl,Po lewej stronie centrum Domers,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-brz05n-ludwika-solskiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BXCE01N,paczkomat_inpost_pl,Przy sklepie,,Bucze,małopolskie,,PL,,https://inpost.pl/paczkomat-bucze-bxce01n-okulicka-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+JAD03M,paczkomat_inpost_pl,Na parkingu,,Jadowniki,małopolskie,,PL,,https://inpost.pl/paczkomat-jadowniki-jad03m-prokopa-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+JSX01M,paczkomat_inpost_pl,Przy sklepie,,Jasień,małopolskie,,PL,,https://inpost.pl/paczkomat-jasien-jsx01m-mazurkiewicza-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+JSX02M,paczkomat_inpost_pl,Przy sklepie Lewiatan,,Jasień,małopolskie,,PL,,https://inpost.pl/paczkomat-jasien-jsx02m-mazurkiewicza-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MKK01M,paczkomat_inpost_pl,obok salonu sukien ślubnych,,Mokrzyska,małopolskie,,PL,,https://inpost.pl/paczkomat-mokrzyska-mkk01m-parafialna-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MKK02M,paczkomat_inpost_pl,Market Dino,,Mokrzyska,małopolskie,,PL,,https://inpost.pl/paczkomat-mokrzyska-mkk02m-wislana-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MKK03M,paczkomat_inpost_pl,Market Dino,,Mokrzyska,małopolskie,,PL,,https://inpost.pl/paczkomat-mokrzyska-mkk03m-siostry-faustyny-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+OKI01M,paczkomat_inpost_pl,Przy wejściu do sklepu GROSZEK,,Okocim,małopolskie,,PL,,https://inpost.pl/paczkomat-okocim-oki01m-goetzow-okocimskich-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+POP-BRE13,paczkomat_inpost_pl,WYPOŻYCZALNIA SPRZĘTU BUDOWLANEGO,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-pop-bre13-mickiewicza-paczkomaty-malopolskie,Mo-Fr 07:00-17:00; Sa 07:00-12:00,Paczkomat,Q110970254
+POP-BRE14,paczkomat_inpost_pl,MINI MARKET POD DĘBEM,,Brzesko ,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-pop-bre14-wiejska-paczkomaty-malopolskie,Mo-Fr 08:00-20:00; Sa 08:00-17:00,Paczkomat,Q110970254
+POP-BRE4,paczkomat_inpost_pl,DOMERS,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-pop-bre4-solskiego-paczkomaty-malopolskie,Mo-Fr 09:00-17:00; Sa 08:00-14:00,Paczkomat,Q110970254
+POP-BRE6,paczkomat_inpost_pl,AL.CAPONE,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-pop-bre6-kosciuszki-paczkomaty-malopolskie,Mo-Su 08:00-22:00,Paczkomat,Q110970254
+POP-BRE9,paczkomat_inpost_pl,STACJA CIRCLE K,,Brzesko,małopolskie,,PL,,https://inpost.pl/paczkomat-brzesko-pop-bre9-kosciuszki-paczkomaty-malopolskie,Mo-Fr 08:00-20:00; Sa-Su 10:00-20:00,Paczkomat,Q110970254
+PSP01M,paczkomat_inpost_pl,Przy sklepie Abc,,Poręba Spytkowska,małopolskie,,PL,,https://inpost.pl/paczkomat-poreba-spytkowska-psp01m-bochenska-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+289,play_pl,Salon Play,Ul. Ludwika Solskiego 14A,Brzesko,małopolskie,,PL,+48 790 030 630,,Mo-Fr 09:00-18:00; Sa-Su 09:00-14:00,Play,Q7202998
+306049,poczta_polska_pl,FUP Brzesko 1,,Brzesko,MAŁOPOLSKIE,,PL,+48 885 900 269,,,Poczta Polska,Q168833
+233869,poczta_polska_pl,UP Brzesko 1,,Brzesko,MAŁOPOLSKIE,,PL,+48 14 663 12 83;+48 14 663 07 64,,,Poczta Polska,Q168833
+,visa,,,BRZESKO,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,BRZESKO,MAŁOPOLSKIE,,PL,,,,,

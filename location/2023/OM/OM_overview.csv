@@ -1,0 +1,540 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+UNKNOWN,alamo,Duqm,1
+UNKNOWN,alamo,Seeb,1
+UNKNOWN,alamo,Salalah,1
+MUSCAT,american_eagle_outfitters,Seeb,1
+MUSCAT,american_eagle_outfitters,Muscat,1
+MUSCAT,american_eagle_outfitters,Baushar,1
+DHOFAR,asian_paints_arabia,unknown,1
+ASHSHARQIYAH,asian_paints_arabia,unknown,3
+ADDAKHILIYAH,asian_paints_arabia,unknown,6
+ALBATINAH,asian_paints_arabia,unknown,18
+ADDHAHIRAH,asian_paints_arabia,unknown,3
+MUSCAT,asian_paints_arabia,unknown,3
+MUHAFAZATMASQAT,audi,Muscat,1
+SALALAH,avis,Salalah,2
+POBOX644,avis,Muscat,1
+MUSCAT,avis,Muscat,2
+UNKNOWN,bmw_group,Muscat,1
+UNKNOWN,crocs_eu,Muscat,4
+UNKNOWN,crocs_eu,Seeb Muscat,1
+MUHAFAZATMASQAT,deloitte,Muscat,1
+UNKNOWN,enterprise,Seeb,1
+UNKNOWN,enterprise,Duqm,1
+UNKNOWN,enterprise,Salalah,1
+UNKNOWN,enterprise,Muscat,1
+UNKNOWN,ernst_young,Muscat,1
+UNKNOWN,ford,بركاء,2
+UNKNOWN,ford,Barka,2
+UNKNOWN,ford,البريمي,2
+UNKNOWN,ford,Bureimi,2
+UNKNOWN,ford,نزوى,2
+UNKNOWN,ford,Nizwa,2
+UNKNOWN,ford,صلالة,2
+UNKNOWN,ford,Salalah,2
+UNKNOWN,ford,السيب,2
+UNKNOWN,ford,Seeb,2
+UNKNOWN,ford,صحار,2
+UNKNOWN,ford,Sohar,2
+UNKNOWN,ford,صور,2
+UNKNOWN,ford,Sur,2
+UNKNOWN,ford,مسقط,3
+UNKNOWN,ford,Muscat,3
+UNKNOWN,ford,BB Ali,1
+UNKNOWN,ford,جعلان بني بو علي,1
+UNKNOWN,ford,Sinaw,1
+UNKNOWN,ford,سناو,1
+UNKNOWN,ford,Ibri,1
+UNKNOWN,ford,عبري,1
+UNKNOWN,hilton,unknown,2
+UNKNOWN,hm,Muscat,4
+UNKNOWN,lhw,Muscat,1
+MUSCAT,lovisa,Muscat,2
+ASHSHARQIYAH,lukoil,Pori,1
+UNKNOWN,man_truck_and_bus,Ruwi,1
+UNKNOWN,man_truck_and_bus,Nizwa,1
+UNKNOWN,man_truck_and_bus,Sohar,1
+UNKNOWN,marriott,Muscat,4
+UNKNOWN,maserati,MUSCAT,1
+MUSCAT,michaelkors,Seeb,2
+UNKNOWN,moneygram,AL BURAIMI,5
+UNKNOWN,moneygram,LIWA,5
+UNKNOWN,moneygram,SOHAR,16
+UNKNOWN,moneygram,SUHAR,2
+UNKNOWN,moneygram,WADI AL TAYIN,1
+UNKNOWN,moneygram,MUSCAT,103
+UNKNOWN,moneygram,MAWALEH,2
+UNKNOWN,moneygram,ALKHOUD,1
+UNKNOWN,moneygram,AMRAT,1
+UNKNOWN,moneygram,SHARQIYA,3
+UNKNOWN,moneygram,BATINAH,8
+UNKNOWN,moneygram,DAKHILIYAH,1
+UNKNOWN,moneygram,DHOFAR,3
+UNKNOWN,moneygram,DHAHIRAH,1
+UNKNOWN,moneygram,AL-KHUWAIR,3
+UNKNOWN,moneygram,AL KAMIL,2
+UNKNOWN,moneygram,AL ASHKARA,1
+UNKNOWN,moneygram,SALALAH,35
+UNKNOWN,moneygram,IBRI,10
+UNKNOWN,moneygram,MABELLA,1
+UNKNOWN,moneygram,BAHLA,3
+UNKNOWN,moneygram,FALAJ AL-QABAIL,3
+UNKNOWN,moneygram,GADFAN,1
+UNKNOWN,moneygram,KHABOURA,1
+UNKNOWN,moneygram,KHADRA,1
+UNKNOWN,moneygram,MAHOUT,1
+UNKNOWN,moneygram,NAKHAL,1
+UNKNOWN,moneygram,RUSTAQ,3
+UNKNOWN,moneygram,SAHAM,6
+UNKNOWN,moneygram,SAMAIL,2
+UNKNOWN,moneygram,THARMAD,2
+UNKNOWN,moneygram,YANQUL,1
+UNKNOWN,moneygram,SAMAD AL-SHAN,1
+UNKNOWN,moneygram,FALAJ,3
+UNKNOWN,moneygram,RUWI,9
+UNKNOWN,moneygram,AL FALAZ,1
+UNKNOWN,moneygram,IBRA,5
+UNKNOWN,moneygram,DUQM,13
+UNKNOWN,moneygram,SINAW,4
+UNKNOWN,moneygram,SUR,5
+UNKNOWN,moneygram,BURAIMI,3
+UNKNOWN,moneygram,TUMRAIT,1
+UNKNOWN,moneygram,AL HAIL,3
+UNKNOWN,moneygram,BIDAYA,1
+UNKNOWN,moneygram,AL GHUBRA,2
+UNKNOWN,moneygram,AL BURJ,1
+UNKNOWN,moneygram,GHALA,8
+UNKNOWN,moneygram,MABELA,2
+UNKNOWN,moneygram,BARKA,11
+UNKNOWN,moneygram,NIMR,2
+UNKNOWN,moneygram,AL KHOUD,1
+UNKNOWN,moneygram,BIDIYAH,1
+UNKNOWN,moneygram,NIZWA,10
+UNKNOWN,moneygram,AL AMIRAT,1
+UNKNOWN,moneygram,JAALAN BU ALI,1
+UNKNOWN,moneygram,AL KHUWAIR,2
+UNKNOWN,moneygram,MUKHAIZNA,1
+UNKNOWN,moneygram,KHASAB,3
+UNKNOWN,moneygram,SUWAIQ,2
+UNKNOWN,moneygram,SOUTH MAWALEH,1
+UNKNOWN,moneygram,ADAM,1
+UNKNOWN,moneygram,QURUM,3
+UNKNOWN,moneygram,AL HAMRA,1
+UNKNOWN,moneygram,RUSAYL,1
+UNKNOWN,moneygram,IZKI,2
+UNKNOWN,moneygram,AL QURRUM,1
+UNKNOWN,moneygram,HAIMA,4
+UNKNOWN,moneygram,QARN AL ALAM,1
+UNKNOWN,moneygram,SHINAS,2
+UNKNOWN,moneygram,SEEB,10
+UNKNOWN,moneygram,DARASAIT,1
+UNKNOWN,moneygram,MASSIRAH,1
+UNKNOWN,moneygram,AL-MUDHAIBI,1
+UNKNOWN,moneygram,WADI KABIR,1
+UNKNOWN,moneygram,BIRKAT AL MOUZ,1
+UNKNOWN,moneygram,AL MUSANNAH,1
+UNKNOWN,moneygram,WADI AL KABIR,1
+UNKNOWN,moneygram,QURIYAT,2
+UNKNOWN,moneygram,MISFA,2
+UNKNOWN,moneygram,BIDBID,1
+UNKNOWN,moneygram,GHALA INDUSTRIAL AREA,1
+UNKNOWN,moneygram,AL WUSTA,1
+UNKNOWN,moneygram,GALLERIA MALL AL HAIL,1
+UNKNOWN,moneygram,AL MARAFAH,1
+UNKNOWN,moneygram,AL SAFA MALL MABELAH,1
+UNKNOWN,moneygram,DRAGON MALL BARKA,1
+UNKNOWN,moneygram,JALAN BANI BU ALI,1
+UNKNOWN,moneygram,MUSANNAH,1
+UNKNOWN,moneygram,AL BOUSHER,1
+UNKNOWN,moneygram,BARK A,1
+UNKNOWN,moneygram,GHUBRA,1
+UNKNOWN,moneygram,WADI HATAT,1
+UNKNOWN,moneygram,ATHAIBA,1
+UNKNOWN,moneygram,FAHUD,2
+UNKNOWN,moneygram,MARMUL,1
+UNKNOWN,moneygram,GHUBRA BHOUSHER,1
+UNKNOWN,moneygram,AL MISFA,1
+UNKNOWN,moneygram,KHABOURAH,1
+UNKNOWN,moneygram,JALAN BUALI,1
+UNKNOWN,moneygram,AMERAT,2
+UNKNOWN,moneygram,AL SEEB,1
+UNKNOWN,moneygram,THARMATH,2
+UNKNOWN,moneygram,MUDHAIBI,1
+UNKNOWN,moneygram,AMRATH V,1
+UNKNOWN,moneygram,BOWSHER,1
+UNKNOWN,moneygram,AL KHOUDH,2
+UNKNOWN,moneygram,SAADAH,1
+UNKNOWN,moneygram,SAFA,1
+UNKNOWN,moneygram,JA'ALAN BANI BU ALI,1
+UNKNOWN,moneygram,JALAN BANI BU HASSAN,1
+UNKNOWN,moneygram,AL-UDHAYBAH,1
+UNKNOWN,moneygram,MUSANDAM,1
+UNKNOWN,moneygram,HARWEEL,1
+UNKNOWN,moneygram,JALAN BU ALI,3
+UNKNOWN,moneygram,NISWA,1
+UNKNOWN,moneygram,SOUTH MAWELA MARKET,1
+UNKNOWN,moneygram,MAABELAH,1
+UNKNOWN,moneygram,FALAJ AL QABAIL SOHAR,1
+UNKNOWN,moneygram,AL DHAKILIYA REGION,1
+UNKNOWN,moneygram,BANI BU HASSAN,1
+UNKNOWN,moneygram,DUQUM,1
+UNKNOWN,moneygram,DHAKLIYA,1
+UNKNOWN,moneygram,AL-KHUD,1
+UNKNOWN,moneygram,DIBBA,1
+UNKNOWN,moneygram,AL KUWAIR,1
+UNKNOWN,moneygram,MAABELA,1
+UNKNOWN,moneygram,SADAF,1
+UNKNOWN,moneygram,AL-HAMRIYAH,1
+UNKNOWN,moneygram,GUBRAH,1
+UNKNOWN,moneygram,MABELAH,1
+UNKNOWN,moneygram,SINHAS,1
+UNKNOWN,moneygram,LIZUGH,1
+UNKNOWN,moneygram,BIDIYA,1
+MUSCATGOVERNORATE,mooyah,Seeb,1
+UNKNOWN,mooyah,Muscat,1
+DHOFARGOVERNORATE,nandos_om,Salalah,1
+MUSCAT,nandos_om,Muscat,1
+MUSCAT,nandos_om,Seeb,2
+SEEB,nandos_om,Muscat,1
+UNKNOWN,national,Seeb,1
+UNKNOWN,national,Duqm,1
+UNKNOWN,national,Salalah,1
+UNKNOWN,newyorker,Muscat,1
+UNKNOWN,next,Muscat,2
+عمان,nissan_europe,سناو,1
+عمان,nissan_europe,شناص,1
+عمان,nissan_europe,صحار,1
+عمان,nissan_europe,مسقط,2
+عمان,nissan_europe,unknown,9
+عمان,nissan_europe,الوسطى,1
+UNKNOWN,scania,Muscat,1
+MUHAFAZATMASQAT,shake_shack,unknown,1
+DHOFAR,shell,QITBIT,1
+ALWUSTA,shell,GHAFTAIN,1
+DHOFAR,shell,SHELIM,2
+ALWUSTA,shell,CENTRAL SALALAH,1
+DHOFAR,shell,Thumrait,1
+ALWUSTA,shell,HAIMA,5
+DHOFAR,shell,SALALAH,9
+DHOFAR,shell,Taqa,1
+DHOFAR,shell,DAHARIZ,1
+DHOFAR,shell,Mirbat,1
+DHOFAR,shell,Salalah,1
+ALWUSTA,shell,DUQUM,1
+SHARQIYA,shell,DUQM,1
+ALWUSTA,shell,AL HIQ,1
+ALWUSTA,shell,SUFAY,1
+DAKHLIYAH,shell,ADAM,1
+SHARQIYA,shell,MASIRAH,1
+DHAHIRA,shell,TANAM,1
+DAKHLIYAH,shell,BISIYA,1
+DAKHLIYAH,shell,IBRI,1
+DHAHIRA,shell,IBRI,6
+DAKHLIYAH,shell,BEHLA,1
+DAKHLIYAH,shell,MANAH,3
+SHARQIYA,shell,MUDHAIBI,5
+DHAHIRA,shell,DHANK,1
+DAKHLIYAH,shell,Behla,1
+DAKHLIYAH,shell,NIZWA,3
+DAKHLIYAH,shell,Nizwa,1
+DHAHIRA,shell,MISKIN,1
+BATINA,shell,SAHAM,3
+BATINA,shell,REDAH DEEL,1
+BATINA,shell,SOHAR,12
+BATINA,shell,KHABOURA,1
+BATINA,shell,CITY,1
+BATINA,shell,WAQAIBA,1
+BATINA,shell,KHABOURAH,1
+BATINA,shell,BIDAYA,1
+BATINA,shell,FALAJ QABAIL,1
+BATINA,shell,SUWAIQ,2
+BATINA,shell,LIWA,3
+BATINA,shell,SOWAIQ,1
+BATINA,shell,AL-SUWAIQ,1
+BATINA,shell,AL SUWAIQ,1
+DHAHIRA,shell,Yanqul,1
+BATINA,shell,SHINAS,7
+BATINA,shell,THARMAD,2
+DHAHIRA,shell,MUHADHA,1
+BATINA,shell,MUSANA,3
+BATINA,shell,MUSNA,1
+BATINA,shell,KHADHRAWAIN,2
+BATINA,shell,RUSTAQ,2
+SHARQIYA,shell,JALAN,3
+SHARQIYA,shell,JA'ALAN BANI BU ALI,1
+SHARQIYA,shell,JALAAN BANI BU HASSAN,2
+SHARQIYA,shell,AL WAFI,1
+SHARQIYA,shell,AL KAMIL AL WAFI,1
+SHARQIYA,shell,JAALAN B B ALI,1
+SHARQIYA,shell,KAMIL,1
+SHARQIYA,shell,SUR,4
+SHARQIYA,shell,BIDIYAH,1
+SHARQIYA,shell,BIDIYA,1
+SHARQIYA,shell,AL QABIL,2
+SHARQIYA,shell,IBRA,1
+SHARQIYA,shell,AL NIZARI,1
+SHARQIYA,shell,SHARIQ,1
+MUSCAT,shell,QURIYAT,2
+SHARQIYA,shell,SINAW,2
+MUSCAT,shell,QURAYAT,1
+SHARQIYA,shell,AL MUDHAIBI,1
+MUSCAT,shell,HAJAR,1
+DAKHLIYAH,shell,IZKI,3
+MUSCAT,shell,AL AMRAT,3
+MUSCAT,shell,AMERAT,1
+MUSCAT,shell,AMRAT,1
+MUSCAT,shell,WADI AL KABIR,1
+MUSCAT,shell,RUWI,2
+MUSCAT,shell,WADI ADAI,1
+MUSCAT,shell,BOWSHER,3
+MUSCAT,shell,DARSAIT,1
+MUSCAT,shell,MATRAH,2
+DHAHIRA,shell,AL BURAIMI,3
+DHAHIRA,shell,RAWDHA,1
+MUSCAT,shell,SEEB,3
+MUSCAT,shell,AL SEEB,20
+MUSCAT,shell,MUSCAT,2
+MUSCAT,shell,MABELLA,1
+BATINA,shell,BARKA,5
+MUSCAT,shell,BARKA,1
+MUSCAT,shell,GIFNAIN,1
+BATINA,shell,BARKA ROAD,1
+MUSCAT,shell,AZAIBA,2
+DAKHLIYAH,shell,FANJA,1
+MUSCAT,shell,GHALA,1
+MUSCAT,shell,AL GHUBRA,1
+DAKHLIYAH,shell,BID BID,1
+DAKHLIYAH,shell,BIDBID,1
+MUSCAT,shell,AL KHUWAIR,2
+MUSCAT,shell,SHATTI QURUM,1
+MUSCAT,shell,AL QURUM,1
+SHARQIYA,shell,SAMAIL,1
+BATINA,shell,MUSANNA,1
+BATINA,shell,WADI AL MAAWEL,1
+DAKHLIYAH,shell,SAMAIL,3
+DAKHLIYAH,shell, NIZWA,1
+DAKHLIYAH,shell,AL HAMRA,1
+MUSANDAM,shell,KHASAB,1
+MUSANDAM,shell,BUKHA,1
+MUSANDAM,shell,DIBA,1
+UNKNOWN,sixt,Salalah,1
+UNKNOWN,sixt,Al Ghubra,1
+UNKNOWN,sixt,Muscat,1
+UNKNOWN,sunglass_hut_2,Muscat,2
+ALWUSTA,tier,unknown,1
+MUHAFAZATMASQAT,travelex,Muscat,2
+MUHAFAZATMASQAT,travelex,Muscat International Airport,2
+MUHAFAZATMASQAT,travelex,Goubrah,1
+UNKNOWN,united_colors_of_benetton,MUSCAT,1
+MUSCAT,vans,Muscat,1
+UNKNOWN,visa,RAYSUT,1
+UNKNOWN,visa,SALALAH,29
+UNKNOWN,visa,DHOFAR AREA,8
+UNKNOWN,visa,WADI HATAT,1
+UNKNOWN,visa,HAFA,1
+UNKNOWN,visa,DHAHRA AREA,1
+UNKNOWN,visa,DHOFAR,4
+UNKNOWN,visa,TAQA,1
+UNKNOWN,visa,MURBAT,1
+UNKNOWN,visa,AL KHOUD,1
+UNKNOWN,visa,BURAIMI,1
+UNKNOWN,visa,AL BURAIMI,3
+UNKNOWN,visa,DHAHIRAH,8
+UNKNOWN,visa,IBRI,5
+UNKNOWN,visa,IBRA,4
+UNKNOWN,visa,YANQUL,1
+UNKNOWN,visa,AL DUQUM,2
+UNKNOWN,visa,SHINAS,3
+UNKNOWN,visa,MASANDAM AREA,1
+UNKNOWN,visa,SOHAR,16
+UNKNOWN,visa,SAHAM,3
+UNKNOWN,visa,KHASAB,1
+UNKNOWN,visa,BAHLA,2
+UNKNOWN,visa,AL HAMRA,1
+UNKNOWN,visa,BATINAH AREA,10
+UNKNOWN,visa,AL KHABOORA,1
+UNKNOWN,visa,AFI,1
+UNKNOWN,visa,ADAM,1
+UNKNOWN,visa,KHABOURA,1
+UNKNOWN,visa,BATINAH,14
+UNKNOWN,visa,NIZWA,12
+UNKNOWN,visa,AL RUSTAQ,2
+UNKNOWN,visa,RUSTAQ,2
+UNKNOWN,visa,AL KHADRA,1
+UNKNOWN,visa,SUWAIQ,1
+UNKNOWN,visa,IZKI,1
+UNKNOWN,visa,AL MUSANNAH,2
+UNKNOWN,visa,MUSSANA,1
+UNKNOWN,visa,AL MUDHAIBI,5
+UNKNOWN,visa,WADI AL MAWAL,1
+UNKNOWN,visa,MUDHAIBI,1
+UNKNOWN,visa,AL HAIL,1
+UNKNOWN,visa,SUMAIL,2
+UNKNOWN,visa,BARKA,1
+UNKNOWN,visa,BARKHA,1
+UNKNOWN,visa,MUSCAT,65
+UNKNOWN,visa,BID BID,2
+UNKNOWN,visa,FANJA,1
+UNKNOWN,visa,MASIRAH,1
+UNKNOWN,visa,SEEB TOWN,1
+UNKNOWN,visa,SEEB,2
+UNKNOWN,visa,SEEB AIRPORT,1
+UNKNOWN,visa,MUSCAT AREA,39
+UNKNOWN,visa,GHALA,1
+UNKNOWN,visa,DRIZ AL QABIL,1
+UNKNOWN,visa,AL KHUWAIR,3
+UNKNOWN,visa,AZAIBA,1
+UNKNOWN,visa,CORNICHE,1
+UNKNOWN,visa,BIDYIA,2
+UNKNOWN,visa,MADINAT SULTAN QABOOS,1
+UNKNOWN,visa,QURUM,3
+UNKNOWN,visa,WATTAYA,2
+UNKNOWN,visa,RUWI,3
+UNKNOWN,visa,C B D,1
+UNKNOWN,visa,MINA AL FAHAL,1
+UNKNOWN,visa,HAMRIYA,1
+UNKNOWN,visa,CAPITAL,26
+UNKNOWN,visa,DHAKLYA AREA,6
+UNKNOWN,visa,SHATTI AL QURUM,2
+UNKNOWN,visa,BATANH AREA,3
+UNKNOWN,visa,MA'ABELA,1
+UNKNOWN,visa,SHARQYA AREA,6
+UNKNOWN,visa,WASTA AREA,1
+UNKNOWN,visa,DHAKILIYA,10
+UNKNOWN,visa,B B B ALI,1
+UNKNOWN,visa,BIDAYA,1
+UNKNOWN,visa,QURAIYAT,1
+UNKNOWN,visa,QURIYYAT,1
+UNKNOWN,visa,AL KAMIL & AL WAFI,1
+UNKNOWN,visa,AL KAMIL,1
+UNKNOWN,visa,SHARQIYA,10
+UNKNOWN,visa,JALAN BANI BU HASSAN,2
+UNKNOWN,visa,JALAN BANI BU ALI,2
+UNKNOWN,visa,SUR,13
+DHOFAR,western_union,Salalah,38
+DHOFAR,western_union,Taqah,1
+DHOFAR,western_union,Salalalah,1
+ALBATINAHNORTH,western_union,Salalah,1
+ADDHAHIRAH,western_union,Lekhwair,1
+ALWUSTA,western_union,Haima,2
+ALWUSTA,western_union,Al Amarat,1
+DHOFAR,western_union,Marmul,1
+DHOFAR,western_union,Salala,1
+DHOFAR,western_union,Sanaya,1
+MUSCAT,western_union,Dhofar,1
+ALWUSTA,western_union,Dhaher,1
+ALWUSTA,western_union,Duqm,8
+DHOFAR,western_union,Duqm,1
+MUSCAT,western_union,Duqm,1
+ALWUSTA,western_union,Al Wusta,1
+ASHSHARQIYAHSOUTH,western_union,Massirah,1
+ALWUSTA,western_union,Mukhaizna,1
+MUSCAT,western_union,Seeb,21
+MUSCAT,western_union,Muscat,74
+MUSCAT,western_union,Azaiba,1
+MUSCAT,western_union,Alkhuwair,1
+MUSCAT,western_union,Al Khuwair,5
+MUSCAT,western_union,Ghubra,6
+MUSANDAM,western_union,Khasab,3
+MUSCAT,western_union,Khasab,1
+MUSCAT,western_union,Misfah,4
+ALWUSTA,western_union,Saih Rawl,1
+ALBURAIMI,western_union,Buraimi,7
+ALBURAIMI,western_union,Mahout,1
+MUSANDAM,western_union,Dibba,1
+ADDAKHILIYAH,western_union,Qarn Al Alam,1
+IBRI,western_union,Wadi Latham,2
+ADDAKHILIYAH,western_union,Ibri,1
+ASHSHARQIYAHSOUTH,western_union,Bani Bu Hassan,1
+MUSCAT,western_union,Jalan Bani Buali,1
+ADDHAHIRAH,western_union,Dhank,1
+ASHSHARQIYAHSOUTH,western_union,Jalan Buali,1
+ASHSHARQIYAHSOUTH,western_union,Jalan Bani Bu Hassan,1
+ASHSHARQIYAHSOUTH,western_union,Jalan Bani Buali,2
+ALBATINAHNORTH,western_union,Shinas,2
+ASHSHARQIYAHSOUTH,western_union,Al Ashkharah,1
+ADDHAHIRAH,western_union,Sunainah,1
+ADDHAHIRAH,western_union,Fahud,1
+ALBATINAHNORTH,western_union,Gadfan,1
+ALBATINAHNORTH,western_union,Sohar,21
+ADDHAHIRAH,western_union,Ibri,9
+ALBATINAHNORTH,western_union,Liwa,3
+MUSCAT,western_union,Liwa,1
+ALBATINAHNORTH,western_union,Falaj Al Qubail,6
+ALBURAIMI,western_union,Mahadha,1
+ADDHAHIRAH,western_union,Yanqul,1
+ASHSHARQIYAHSOUTH,western_union,Al Kamil,2
+MUSCAT,western_union,Al Khoudh,7
+ASHSHARQIYAHSOUTH,western_union,Wadi Al Tayin,1
+ASHSHARQIYAHNORTH,western_union,Sinaw,4
+ASHSHARQIYAHNORTH,western_union,Al Ghabbi,1
+ASHSHARQIYAHNORTH,western_union,Bidiyah,1
+ALBATINAHNORTH,western_union,Saham,6
+ADDAKHILIYAH,western_union,Adam,2
+ASHSHARQIYAHSOUTH,western_union,Sur,7
+ASHSHARQIYAHNORTH,western_union,Ibra,4
+ADDAKHILIYAH,western_union,Nizwa,6
+ALBATINAHNORTH,western_union,Bidiyah,1
+ADDAKHILIYAH,western_union,Firq,1
+ADDAKHILIYAH,western_union,Fahud,1
+ALBATINAHNORTH,western_union,Khabourah,1
+ADDAKHILIYAH,western_union,Niswa,1
+ADDAKHIYAH,western_union,Karsha,1
+ALBATINAHNORTH,western_union,Al Khaboura,1
+ADDAKHILIYAH,western_union,Karsha,2
+ADDAKHILIYAH,western_union,Al Hamra,1
+ASHSHARQIYAHNORTH,western_union,Mudhaibi,1
+ADDAKHILIYAH,western_union,Bahla,2
+MUSCAT,western_union,Sur,1
+ASHSHARQIYAHNORTH,western_union,Sanaw,1
+ADDAKHILIYAH,western_union,Samail,4
+ALBATINAHNORTH,western_union,Nakhal,1
+ALBATINAHSOUTH,western_union,Musannah,1
+ALBATINAHNORTH,western_union,Musannah,3
+MUSCAT,western_union,Quriyat,2
+ALBATINAHNORTH,western_union,Muladha,1
+ALBATINAHSOUTH,western_union,Tharmath,1
+ALBATINAHNORTH,western_union,Tharmad,1
+ALBATINAHSOUTH,western_union,Tharmad,1
+ALBATINAHNORTH,western_union,Suwaiq,3
+ALBATINAHNORTH,western_union,Al Suwaiq,2
+ALBATINAHNORTH,western_union,Rustaq,2
+MUSCAT,western_union,Rustaq,3
+ASHSHARQIYAHNORTH,western_union,Al Mudaybi,1
+ALBATINAHNORTH,western_union,Khadra,2
+ADDAKHILIYAH,western_union,Izki,3
+ALBATINAHSOUTH,western_union,Rustaq,1
+MUSCAT,western_union,Ruwi,9
+MUSCAT,western_union,Al Maabilah,4
+MUSCAT,western_union,Rusayl,1
+MUSCAT,western_union,Muscat Wadikabeer,1
+MUSCAT,western_union,Al Amarat,6
+MUSCAT,western_union,Wadi Hatat,1
+MUSCAT,western_union,Yitti,1
+MUSCAT,western_union,Yiti,1
+MUSCAT,western_union,Fanja Dhakaliya,1
+MUSANDAM,western_union,Barka,1
+ALBATINAHSOUTH,western_union,Wadi Al Mavil,1
+ADDAKHILIYAH,western_union,Bidbid,1
+ALBATINAHSOUTH,western_union,Barka,4
+ALBATINAHNORTH,western_union,Barka,8
+MUSCAT,western_union,Barka,2
+MUSCAT,western_union,Samail,1
+MUSCAT,western_union,Darsait,1
+MUSCAT,western_union,Ghala,7
+MUSCAT,western_union,Alkhoud,1
+MUSCAT,western_union,Mabela Sanaya,1
+ADDAKHILIYAH,western_union,Jifnain,2
+MUSCAT,western_union,Al Jafnayn,1
+ADDAKHILIYAH,western_union,Misfah,1
+MUSCAT,western_union,Qurum,1
+MUSCAT,western_union,Al Qurum,2
+MUSCAT,western_union,Al Hail,4
+MUSCAT,western_union,Bawshar,2
+MUSCAT,western_union,Al Mawaleh,2
+MUSCAT,western_union,Mawela,1
+MUSCAT,western_union,Amrath V,1
+MUSCAT,western_union,Al Ghubra Bhousher,1
+MUSCAT,western_union,Muttrah,2
+MUSCAT,western_union,Hamriyah,1

@@ -1,0 +1,593 @@
+City,Place Name,Zipcode,Name
+Valmontone,adidas,,unknown,adidas Outlet Store Valmontone
+Roma,anytime_fitness,,unknown,Anytime Fitness
+Rome,anytime_fitness,,unknown,Anytime Fitness
+Albuccione,anytime_fitness,,unknown,Anytime Fitness
+Guidonia Montecelio,anytime_fitness,,unknown,Anytime Fitness
+Roma,arcaplanet_it,,unknown,Arcaplanet
+Fiumicino,arcaplanet_it,,unknown,Arcaplanet
+Pomezia,arcaplanet_it,,unknown,Arcaplanet
+Guidonia,arcaplanet_it,,unknown,Arcaplanet
+ROMA,bmw_group,,unknown,BMW ITALIA RETAIL SRL BMW ROMA
+Velletri,bmw_group,,unknown,SUPERAUTO SERVICE SRL
+POMEZIA,bmw_group,,unknown,CAMI SRL
+San Cesareo,brico_io_it,,unknown,SAN CESAREO
+ROMA,carrefour_it,,unknown,Carrefour Market VIA VALLE MURICANA N. 576 - ROMA (RM)
+NETTUNO,carrefour_it,,unknown,Carrefour Market VIA TRIESTE N.78 - NETTUNO (RM)
+ARDEA,carrefour_it,,unknown,"Carrefour Market VIA REGGIO EMILIA,88 - ARDEA (RM)"
+POMEZIA,carrefour_it,,unknown,Carrefour Market Via del Mare 117 - POMEZIA (RM)
+LIDO DI OSTIA LEVANTE,carrefour_it,,unknown,Carrefour Express VIA ALESSANDRO PIOLA CASELLI 80 - LIDO DI OSTIA LEVANTE (RM)
+VELLETRI,carrefour_it,,unknown,Carrefour Market VIA LATA N. 197 - VELLETRI (RM)
+GENZANO DI ROMA,carrefour_it,,unknown,Carrefour Market VIA O. FERRAZZA N. 11/13 - GENZANO DI ROMA (RM)
+ALBANO LAZIALE,carrefour_it,,unknown,Carrefour Market VIA RICCARDO LOMBARDI N.4 - ALBANO LAZIALE (RM)
+MARINO,carrefour_it,,unknown,Carrefour Express PIAZZALE DEGLI EROI 4 - MARINO (RM)
+ROCCA DI PAPA,carrefour_it,,unknown,Carrefour Market VIA FRASCATI SNC - ROCCA DI PAPA (RM)
+GROTTAFERRATA,carrefour_it,,unknown,Carrefour Market VIA ROMA ANGOLO VIALE SAN NILO - GROTTAFERRATA (RM)
+LADISPOLI,carrefour_it,,unknown,Carrefour Market VIA GLASGOW SNC - LADISPOLI (RM)
+ROCCA PRIORA,carrefour_it,,unknown,"Carrefour Market VIA TUSCOLANA KM 29,900 - ROCCA PRIORA (RM)"
+ARTENA,carrefour_it,,unknown,Carrefour Market VIA VALMONTONE SNC - ARTENA (RM)
+VALMONTONE,carrefour_it,,unknown,Carrefour Market VIA ARIANA SNC - VALMONTONE (RM)
+MONTE PORZIO CATONE,carrefour_it,,unknown,"Carrefour Express VIA OSEA FIORELLI, 4 - MONTE PORZIO CATONE (RM)"
+MARINA DI CERVETERI,carrefour_it,,unknown,"Carrefour Express VIALE FREGENE,82 - MARINA DI CERVETERI (RM)"
+SANTA MARINELLA,carrefour_it,,unknown,Carrefour Express VIA DELLA LIBERTA' 15 - SANTA MARINELLA (RM)
+CERVETERI,carrefour_it,,unknown,Carrefour Market LARGO A. LORETI N.2 - CERVETERI (RM)
+CIVITAVECCHIA,carrefour_it,,unknown,Carrefour Express VIA LEOPOLI 2-B - CIVITAVECCHIA (RM)
+GALLICANO NEL LAZIO,carrefour_it,,unknown,"Carrefour Express VIALE ALDO MORO,58 - GALLICANO NEL LAZIO (RM)"
+GUIDONIA MONTECELIO,carrefour_it,,unknown,Carrefour Market VIA DELLE PETUNIE N.1/3/5 - GUIDONIA MONTECELIO (RM)
+BRACCIANO,carrefour_it,,unknown,Carrefour Express VIA TRAVERSINI S.N.C. - BRACCIANO (RM)
+TIVOLI,carrefour_it,,unknown,Carrefour Market V.LE TOMEI N. 92 - TIVOLI (RM)
+MANZIANA,carrefour_it,,unknown,Carrefour Market VIA BRACCIANESE CLAUDIA KM 27 - MANZIANA (RM)
+ANGUILLARA SABAZIA,carrefour_it,,unknown,Carrefour Market Largo dello Zodiaco n. 3 - ANGUILLARA SABAZIA (RM)
+FORMELLO,carrefour_it,,unknown,Carrefour Express VIA DELLA VILLA 50 - FORMELLO (RM)
+MONTEROTONDO,carrefour_it,,unknown,Carrefour Express VIA SILVIO PELLICO 1 A - MONTEROTONDO (RM)
+SACROFANO,carrefour_it,,unknown,Carrefour Market VIA DELLO STADIO N.186 - SACROFANO (RM)
+RIANO,carrefour_it,,unknown,Carrefour Market VIA VIGNA DEL PIANO N.95 - RIANO (RM)
+TREVIGNANO ROMANO,carrefour_it,,unknown,Carrefour Market VIA MOSCA 33 - TREVIGNANO ROMANO (RM)
+CASTELNUOVO DI PORTO,carrefour_it,,unknown,Carrefour Market VIA TIBERINA ANG.VIA MOZART - CASTELNUOVO DI PORTO (RM)
+CAMPAGNANO DI ROMA,carrefour_it,,unknown,"Carrefour Express VIA S.SEBASTIANO,21F-21G - CAMPAGNANO DI ROMA (RM)"
+MORICONE,carrefour_it,,unknown,"Carrefour Express LARGO CARLO ALBERTO DALLA CHIESA,26/28 - MORICONE (RM)"
+NEROLA,carrefour_it,,unknown,Carrefour Express VIA SALARIA VECCHIA - NEROLA (RM)
+unknown,conad_it,VIALE ANTIUM 4 00042 ANZIO,unknown,Spazio Conad
+unknown,conad_it,Via Carlo Cattaneo 22 00048 NETTUNO,unknown,Conad
+unknown,conad_it,VIA TRAUNREUT 44 00048 NETTUNO,unknown,Conad
+unknown,conad_it,VIA SCIPIONE BORGHESE C/O CENTRO COMM. LE VELE SNC 00048 NETTUNO,unknown,Conad
+unknown,conad_it,VIA DELLE FONDERIE SNC 00042 ANZIO,unknown,Conad Superstore
+unknown,conad_it,VIA LAURENTINA ANG.VIA PO SNC 00040 ARDEA,unknown,Conad
+unknown,conad_it,LARGO UDINE 11 00040 ARDEA,unknown,Conad
+unknown,conad_it,VIA NISO 56 00040 ARDEA,unknown,Conad
+unknown,conad_it,VIA DI SANTA PROCULA 6 00040 POMEZIA,unknown,Conad City
+unknown,conad_it,Via Camillo Benso Conte di Cavour 7 00040 POMEZIA,unknown,Conad
+unknown,conad_it,Via Pontina Vecchia 40 00071 POMEZIA,unknown,Conad Superstore
+unknown,conad_it,VIA DELLA STELLA POLARE 38/60 00122 ROMA,unknown,Conad
+unknown,conad_it,VIA VINCON 40 00121 ROMA,unknown,Conad
+unknown,conad_it,Via delle Gondole 9 00121 ROMA,unknown,Conad
+unknown,conad_it,Via Costanzo Casana 200 00121 ROMA,unknown,Conad
+unknown,conad_it,VIA ISOLE DEL CAPO VERDE 22/26 00100 ROMA,unknown,Conad
+unknown,conad_it,VIA TEMPIO DELLA FORTUNA 68 00054 FIUMICINO,unknown,Conad
+unknown,conad_it,VIA DEL FARO 60 00054 FIUMICINO,unknown,Conad
+unknown,conad_it,VIA PINZOLO 2-4-6 00100 ROMA,unknown,Conad
+unknown,conad_it,VIA DI CASTEL FUSANO 36 00122 ROMA,unknown,Conad
+unknown,conad_it,VIA DELLA SCAFA SNC 00054 FIUMICINO,unknown,Conad Superstore
+unknown,conad_it,VIA PIETRO CASTRUCCI 83 00124 ROMA,unknown,Conad
+unknown,conad_it,VIA TEOCRITO 15 00100 ROMA,unknown,Conad
+unknown,conad_it,Via Aristonico D'Alessandria 54 00124 ROMA,unknown,unknown
+unknown,conad_it,VIA MACCHIA PALOCCO 6/10 00125 ROMA,unknown,Conad
+unknown,conad_it,VIA ROMANIA 29 00041 ALBANO LAZIALE,unknown,Conad City
+unknown,conad_it,VIALE COCCIA DI MORTO 223 00054 FIUMICINO,unknown,Conad
+unknown,conad_it,Piazza Eschilo 36 00125 ROMA,unknown,Conad City
+unknown,conad_it,VIA DI MACCHIA SAPONARA 35 00100 ROMA,unknown,Conad
+unknown,conad_it,VIA APPIA VECCHIA SNC 00045 GENZANO DI ROMA,unknown,Conad Superstore
+unknown,conad_it,Via Nettunense km. 6600 snc 00040 ARICCIA,unknown,Conad Superstore
+unknown,conad_it,Viale Europa 3 00049 VELLETRI,unknown,Conad Superstore
+unknown,conad_it,VIA DEL MARE 1 00041 ALBANO LAZIALE,unknown,Conad
+unknown,conad_it,VIA CROCEFISSO ANGOLO VIA RUFELLI SNC 00040 ARICCIA,unknown,Conad
+unknown,conad_it,VIA A. VOLTA  - PARCO COMMERCIALE DA VINCI 2 00054 FIUMICINO,unknown,Conad Superstore
+unknown,conad_it,VIA FONTANA DELLA ROSA 123 00049 VELLETRI,unknown,Conad
+unknown,conad_it,LARGO DURANTI 5 00128 ROMA,unknown,Conad
+unknown,conad_it,VIA CARMELO MAESTRINI 251 00128 ROMA,unknown,unknown
+unknown,conad_it,VIA RINALDO D'AMI 2/4 00127 ROMA,unknown,Conad Superstore
+unknown,conad_it,VIALE DELLA PINETA DI FREGENE 52 00054 FIUMICINO,unknown,Conad
+unknown,conad_it,VIA CASTEL DI LEVA 261 00134 ROMA,unknown,Conad
+unknown,conad_it,VIA CINA 68/76 00144 ROMA,unknown,Conad
+unknown,conad_it,VIALE DELLA GRANDE MURAGLIA 270 00144 ROMA,unknown,Conad
+unknown,conad_it,VIALE CASTEL S.GIORGIO 215 00054 FIUMICINO,unknown,Conad
+unknown,conad_it,Viale Città d'Europa 682 00144 ROMA,unknown,unknown
+unknown,conad_it,Via Ardeatina 850 00178 ROMA,unknown,unknown
+unknown,conad_it,VIA ARDEATINA 850 00178 ROMA,unknown,Conad
+unknown,conad_it,VIA CAMPI DI ANNIBALE 110 00040 ROCCA DI PAPA,unknown,Conad City
+unknown,conad_it,Via della Cecchignola Angolo Via Kobler snc 00143 ROMA,unknown,Conad Superstore
+unknown,conad_it,VIALE UNGHERIA 54 00037 SEGNI,unknown,Conad City
+unknown,conad_it,VIALE AMINTA MILANI 41 00037 SEGNI,unknown,Conad
+unknown,conad_it,LARGO CASALE DEGLI INGLESI 21 00148 ROMA,unknown,Conad
+unknown,conad_it,Via Portuense 851 00148 ROMA,unknown,Conad
+unknown,conad_it,VIA VITTORIO EMANUELE 51 00037 SEGNI,unknown,unknown
+unknown,conad_it,PIAZZA SANTA MARIA 2 00037 SEGNI,unknown,unknown
+unknown,conad_it,Corso del Popolo 40 00046 GROTTAFERRATA,unknown,Conad City
+unknown,conad_it,Via San Paolo della Croce 1/a 37 00043 CIAMPINO,unknown,Conad Superstore
+unknown,conad_it,VIA CARLO PIRZIO BIROLI 37 00043 CIAMPINO,unknown,unknown
+unknown,conad_it,VIA DEI SAMPIERI 92 00148 ROMA,unknown,Conad Superstore
+unknown,conad_it,VIA DEL TRULLO 100 00148 ROMA,unknown,Conad Superstore
+unknown,conad_it,VIA DELLE VIGNE MORENA 21-23 00140 ROMA,unknown,Conad
+unknown,conad_it,VIA CONSOLINI 36 00142 ROMA,unknown,Conad City
+unknown,conad_it,VIA BENEDETTO CROCE 35 00142 ROMA,unknown,Conad
+unknown,conad_it,Via Pescaglia 23 00146 ROMA,unknown,unknown
+unknown,conad_it,VIA DELLA MAGLIANA 224 00146 ROMA,unknown,Conad Superstore
+unknown,conad_it,VIA E.SAN MARTINO VALPERGA 11 00149 ROMA,unknown,Conad City
+unknown,conad_it,VIA SALVATORE DI GIACOMO 14 00142 ROMA,unknown,Conad City
+unknown,conad_it,VIA ANAGNINA 471 00118 ROMA,unknown,Conad
+unknown,conad_it,VIA ISACCO NEWTON 51 00100 ROMA,unknown,Conad
+unknown,conad_it,VIA TENUTA CASALOTTO 38/FG 00118 ROMA,unknown,unknown
+unknown,conad_it,Via Vittorino Cannavina 5 00166 ROMA,unknown,Conad
+unknown,conad_it,VIA CARDINALE DI YORK 2 00148 ROMA,unknown,Conad
+unknown,conad_it,PIAZZA ROBERTO GAUCCI 52 00034 COLLEFERRO,unknown,unknown
+unknown,conad_it,VIA CORINTO 58-64 00146 ROMA,unknown,Conad City
+unknown,conad_it,VIA OSTIENSE 361 00146 ROMA,unknown,Conad
+unknown,conad_it,VIA ATTILIO AMBROSINI 183 00147 ROMA,unknown,Conad
+unknown,conad_it,Via dei Pioppi 1/A 00034 COLLEFERRO,unknown,Conad
+unknown,conad_it,VIA TITO 15 00145 ROMA,unknown,Conad Superstore
+unknown,conad_it,PIAZZA GIOVANNI FALCONE SNC 00055 LADISPOLI,unknown,Conad City
+unknown,conad_it,VIALE EUROPA 49 00034 COLLEFERRO,unknown,Conad City
+unknown,conad_it,Via Tuscolana 52 00044 FRASCATI,unknown,Conad Superstore
+unknown,conad_it,Via Valmontone 42 00031 ARTENA,unknown,Conad
+unknown,conad_it,VIA AURELIA 2420 00054 FIUMICINO,unknown,Conad
+unknown,conad_it,VIA VINCENZO BRUNACCI 49-51 00146 ROMA,unknown,Conad
+unknown,conad_it,VIA R.GUARNIERI CARDUCCI 29 00145 ROMA,unknown,Conad City
+unknown,conad_it,VIA DELLA PISANA 278 00100 ROMA,unknown,Conad
+unknown,conad_it,Via Portuense 323 00149 ROMA,unknown,Conad
+unknown,conad_it,VIA APPIA NUOVA 889 00178 ROMA,unknown,Conad Superstore
+unknown,conad_it,CORSO GARIBALDI ANGOLO VIA DON BOSCO SNC 00034 COLLEFERRO,unknown,Conad
+unknown,conad_it,VIA GREGORIANA 39 00044 FRASCATI,unknown,Conad
+unknown,conad_it,Viale Guglielmo Marconi 176 00146 ROMA,unknown,Conad
+unknown,conad_it,VIALE EUROPA SNC 00055 LADISPOLI,unknown,Conad Superstore
+unknown,conad_it,VIA TORRE DI MEZZAVIA 35 00173 ROMA,unknown,Conad
+unknown,conad_it,VIA LUIGI FINCATI 43807 00154 ROMA,unknown,unknown
+unknown,conad_it,VIA FONTANA DELL' OSTE SNC 00034 COLLEFERRO,unknown,Conad
+unknown,conad_it,VIA DEI COLLI PORTUENSI 40-48 00151 ROMA,unknown,Conad
+unknown,conad_it,VIA RAFFAELE BALESTRA 16/18 00152 ROMA,unknown,unknown
+unknown,conad_it,Piazzale Enrico Dunant 7 00152 ROMA,unknown,Conad
+unknown,conad_it,C.NE GIANICOLENSE 229 00152 ROMA,unknown,unknown
+unknown,conad_it,VIA PAOLA FALCONIERI 89-91 00152 ROMA,unknown,unknown
+unknown,conad_it,Via Portuense 97 00153 ROMA,unknown,Conad
+unknown,conad_it,PIAZZA VITTORIO BOTTEGO 47 00154 ROMA,unknown,Conad
+unknown,conad_it,VIA TUSCOLANA 881 00174 ROMA,unknown,Conad
+unknown,conad_it,Via Ponzio Cominio 19 00175 ROMA,unknown,Conad
+unknown,conad_it,VIA BERNARDINO ALIMENA 111 00100 ROMA,unknown,Conad
+unknown,conad_it,VIA CORNELIA 154 00100 ROMA,unknown,Conad City
+unknown,conad_it,Piazza dei Decemviri 6 00175 ROMA,unknown,Conad
+unknown,conad_it,VIA TOMMASO DA CELANO 78 00179 ROMA,unknown,Conad
+unknown,conad_it,VIA MARCO CELIO RUFO 22 00175 ROMA,unknown,Conad
+unknown,conad_it,VIALE TRASTEVERE 62 00153 ROMA,unknown,Conad
+unknown,conad_it,Via di Torre Spaccata 110 00173 ROMA,unknown,Conad Superstore
+unknown,conad_it,VIA POLLETRARA 47 00166 ROMA,unknown,Conad
+unknown,conad_it,Piazza dei Giureconsulti SNC 00167 ROMA,unknown,Conad
+unknown,conad_it,Strada Statale 1 281 00058 SANTA MARINELLA,unknown,Conad City
+unknown,conad_it,Via Casilina Km 37800 Snc 00030 LABICO,unknown,Conad Superstore
+unknown,conad_it,Via Casilina 421a 00038 VALMONTONE,unknown,Conad
+unknown,conad_it,Via di Boccea 242 00167 ROMA,unknown,Conad City
+unknown,conad_it,Piazza dei Re di Roma 15 00183 ROMA,unknown,Conad
+unknown,conad_it,VIA NOCERA UMBRA 146 00181 ROMA,unknown,Conad Superstore
+unknown,conad_it,Via della Tenuta di Torrenova 6 00133 ROMA,unknown,Conad
+unknown,conad_it,VIA CARDINALE MASSIMI 3 00167 ROMA,unknown,Conad
+unknown,conad_it,VIA MATERA 5 00182 ROMA,unknown,Conad
+unknown,conad_it,VIA TARANTO 210 00182 ROMA,unknown,Conad
+unknown,conad_it,VIA DELLE RONDINI 32 00169 ROMA,unknown,Conad
+unknown,conad_it,Via Guicciardini SNC 00184 ROMA,unknown,Conad
+unknown,conad_it,VIA ANGELO EMO 37 00136 ROMA,unknown,Conad City
+unknown,conad_it,VIA ANGELO EMO 27 00100 ROMA,unknown,unknown
+unknown,conad_it,VIA S.CROCE IN GERUSALEMME 14 00185 ROMA,unknown,Conad City
+unknown,conad_it,VIA AUGUSTO DULCERI 64 00176 ROMA,unknown,unknown
+unknown,conad_it,VIA BUONARROTI 41852 00185 ROMA,unknown,Conad
+unknown,conad_it,VIA SEBASTIANO ZIANI 12/14 00136 ROMA,unknown,Conad City
+unknown,conad_it,LARGO ALMUNECAR 13 00052 CERVETERI,unknown,Conad City
+unknown,conad_it,VIA DEL BOSCHETTO 52-55 00184 ROMA,unknown,Conad City
+unknown,conad_it,VIA DEL PIGNETO 135 00176 ROMA,unknown,Conad City
+unknown,conad_it,Viale della Primavera 194 00172 ROMA,unknown,Conad Superstore
+unknown,conad_it,VIA CASILINA 1585 00100 ROMA,unknown,Conad
+unknown,conad_it,VIALE MEDAGLIE D'ORO 105/B 00100 ROMA,unknown,Conad City
+unknown,conad_it,Via Roberto Malatesta 221 00176 ROMA,unknown,Conad
+unknown,conad_it,VIA CASILINA ANG. VIA MAREMMANA 82/B 00030 SAN CESAREO,unknown,Conad Superstore
+unknown,conad_it,VIA DELLE ALBIZZIE 32 00172 ROMA,unknown,Conad City
+unknown,conad_it,VIA DEI LIGURI 9/19 00185 ROMA,unknown,Conad City
+unknown,conad_it,VIA ALBERTO DA GIUSSANO 45 00176 ROMA,unknown,Conad City
+unknown,conad_it,Via Michele Buonori 52 00133 ROMA,unknown,Conad
+unknown,conad_it,PIAZZA DEI 500 - STAZIONE TERMINI SNC 00185 ROMA,unknown,unknown
+unknown,conad_it,VIA LOMBARDIA 9/16 00052 CERVETERI,unknown,unknown
+unknown,conad_it,VIA D.TORRACCIO DI TERRANOVA 182/B 00133 ROMA,unknown,Conad
+unknown,conad_it,VIA AROLA 55 00166 ROMA,unknown,Spazio Conad
+unknown,conad_it,VIA SAN CLETO PAPA 10 00100 ROMA,unknown,Conad City
+unknown,conad_it,VIA TOVAGLIERI 21/23 00155 ROMA,unknown,Conad
+unknown,conad_it,PIAZZA DELL'INDIPENDENZA 28 00185 ROMA,unknown,Conad City
+unknown,conad_it,VIALE DELLA STAZIONE 12 00039 ZAGAROLO,unknown,Conad
+unknown,conad_it,Via Veroli 25 00171 ROMA,unknown,Conad City
+unknown,conad_it,Via Orlando De Tommaso SNC 00136 ROMA,unknown,Conad
+unknown,conad_it,VIA ALBERTO POLLIO 50 00159 ROMA,unknown,Spazio Conad
+unknown,conad_it,Viale della Serenissima 16 00177 ROMA,unknown,Conad
+unknown,conad_it,VIA DON GIUSEPPE PAPACCHINI SNC 00053 CIVITAVECCHIA,unknown,Conad
+unknown,conad_it,Via Monsignor Giuseppe Papacchini SNC 00053 CIVITAVECCHIA,unknown,unknown
+unknown,conad_it,VIA G.SOREL 25 00177 ROMA,unknown,Conad City
+unknown,conad_it,VIA CONVERSANO ANG.VIA TRANI SNC 00171 ROMA,unknown,Conad
+unknown,conad_it,Viale delle Provincie 156 00161 ROMA,unknown,Conad City
+unknown,conad_it,Via della Lega Lombarda 34 00162 ROMA,unknown,Conad Superstore
+unknown,conad_it,VIALE GIOVANNI BATTISTA VALENTE 190 00155 ROMA,unknown,Spazio Conad
+unknown,conad_it,Via Andrea Bregno 41 00196 ROMA,unknown,Conad City
+unknown,conad_it,PIAZZA CRIVELLI 29 00159 ROMA,unknown,Conad
+unknown,conad_it,Via Archimede SNC 00197 ROMA,unknown,Conad City
+unknown,conad_it,Piazza Bologna 60 00162 ROMA,unknown,Conad
+unknown,conad_it,Via Tagliamento 36 00198 ROMA,unknown,Conad City
+unknown,conad_it,VIA DEI CRISPOLTI 60 00159 ROMA,unknown,Conad City
+unknown,conad_it,Via Corsica 13 00198 ROMA,unknown,Conad City
+unknown,conad_it,VIA IGNAZIO GIORGI 53/A 00162 ROMA,unknown,Conad
+unknown,conad_it,VIA P.TOGLIATTI 29 00053 CIVITAVECCHIA,unknown,Conad City
+unknown,conad_it,Piazza Ledro 7 00199 ROMA,unknown,Conad
+unknown,conad_it,VIA SPECIANO 1 00033 CAVE,unknown,Conad
+unknown,conad_it,CORSO TRIESTE 200 00100 ROMA,unknown,Conad
+unknown,conad_it,VIA TERME DI TRAIANO 39 00053 CIVITAVECCHIA,unknown,Conad
+unknown,conad_it,Via Prenestina 1530 00132 ROMA,unknown,Conad
+unknown,conad_it,Viale Pio XII 107 00036 PALESTRINA,unknown,Conad
+unknown,conad_it,Via Prenestina Antica snc 00036 PALESTRINA,unknown,unknown
+unknown,conad_it,VIA PRENESTINA KM. 66200 SNC 00036 PALESTRINA,unknown,Conad Superstore
+unknown,conad_it,CORSO DI FRANCIA SNC 00191 ROMA,unknown,Conad
+unknown,conad_it,VIA MIGIURTINIA 55 00199 ROMA,unknown,Conad City
+unknown,conad_it,VIALE SOMALIA 275 00199 ROMA,unknown,Conad
+unknown,conad_it,Via Trionfale 11472 00135 ROMA,unknown,Conad
+unknown,conad_it,Via Cesare Ferrero di Cambiano 56 00191 ROMA,unknown,Conad
+unknown,conad_it,VIA IPOGEO DEGLI OTTAVI 61/79 00135 ROMA,unknown,Conad City
+unknown,conad_it,Via di Casal dei Pazzi 35 00156 ROMA,unknown,Conad
+unknown,conad_it,VIA TRENTO E TRIESTE 25 00030 GENAZZANO,unknown,unknown
+unknown,conad_it,Via Acqua Santa 21 00030 GENAZZANO,unknown,Conad City
+unknown,conad_it,VIA VAL DI NON 45 00100 ROMA,unknown,Conad City
+unknown,conad_it,VIALE KANT 289 00156 ROMA,unknown,Conad
+unknown,conad_it,SS AURELIA NORD KM. 76 SNC 00053 CIVITAVECCHIA,unknown,Conad Superstore
+unknown,conad_it,LARGO SAN GODENZO 5 00189 ROMA,unknown,Conad City
+unknown,conad_it,VIA VIBIO MARIANO 52 00189 ROMA,unknown,unknown
+unknown,conad_it,VIA MASSA S.GIULIANO 279 00100 ROMA,unknown,Conad
+unknown,conad_it,Via Cassia 865 00189 ROMA,unknown,Conad City
+unknown,conad_it,VIA UGO OJETTI ANGOLO PIAZZA TALENTI SNC 00100 ROMA,unknown,Conad
+unknown,conad_it,VIA MAREMMANA SUPERIORE KM. 13 SNC 00035 OLEVANO ROMANO,unknown,Conad
+unknown,conad_it,VIA FRANCESCO D'OVIDIO 95 00137 ROMA,unknown,Conad
+unknown,conad_it,VIA DI GROTTAROSSA 169 00189 ROMA,unknown,Conad
+unknown,conad_it,VIA MONTE CERVIALTO 135 00138 ROMA,unknown,Conad Superstore
+unknown,conad_it,PIAZZA OTTAVIANO VIMERCATI 55 00139 ROMA,unknown,Conad
+unknown,conad_it,Piazza O. Vimercati 55 00139 ROMA,unknown,unknown
+unknown,conad_it,VIA DOMENICO FALCIONI 12 00123 ROMA,unknown,Conad
+unknown,conad_it,VIA POPPEA SABINA 19 00131 ROMA,unknown,Conad
+unknown,conad_it,VIA DON GIUSTINO MARIO RUSSOLILLO 18/20 00138 ROMA,unknown,Conad
+unknown,conad_it,VIA DI QUARTO PEPERINO 168 00188 ROMA,unknown,Conad
+unknown,conad_it,VIA ALBERTO LIONELLO 201 00139 ROMA,unknown,Spazio Conad
+unknown,conad_it,VIA G. BELARDINELLI SNC 00123 ROMA,unknown,Conad City
+unknown,conad_it,Via Giuseppe Belardinelli SNC 00123 ROMA,unknown,unknown
+unknown,conad_it,VIA CLAUZETTO 9 00134 ROMA,unknown,Conad
+unknown,conad_it,VIA PIAVE 60 00030 SAN VITO ROMANO,unknown,Conad City
+unknown,conad_it,Via dei Pioppi 7 00012 GUIDONIA,unknown,Conad
+unknown,conad_it,VIA TIBURTINA KM.2117 SNC 00012 GUIDONIA MONTECELIO,unknown,Conad
+unknown,conad_it,VIA NOMENTANA KM. 161 SNC 00012 GUIDONIA MONTECELIO,unknown,Conad
+unknown,conad_it,PIAZZA G. DI CASTRO 1/2 00051 ALLUMIERE,unknown,unknown
+unknown,conad_it,VIA ULDERICO FONDI SNC 00059 TOLFA,unknown,Conad City
+unknown,conad_it,VIA SANDRO PERTINI 2 00062 BRACCIANO,unknown,Conad Superstore
+unknown,conad_it,PIAZZA MARINAI D'ITALIA 17 00062 BRACCIANO,unknown,Conad City
+unknown,conad_it,VIA PIZZO MORONTO 79 00061 ANGUILLARA SABAZIA,unknown,Conad
+unknown,conad_it,VIA NAZIONALE TIBURTINA 126 00019 TIVOLI,unknown,Conad Superstore
+unknown,conad_it,Via Nomentana 331 00013 FONTE NUOVA,unknown,Conad
+unknown,conad_it,VIA DELLE MOLETTE 234 00013 FONTE NUOVA,unknown,Conad
+unknown,conad_it,VIA MARIO VISINTINI 51 00012 GUIDONIA MONTECELIO,unknown,Conad
+unknown,conad_it,VIA RAGAZZI DEL 99 00024 CASTEL MADAMA,unknown,Conad
+unknown,conad_it,VIA DELLA LIBERTA' 42 00024 CASTEL MADAMA,unknown,Conad City
+unknown,conad_it,VIA A.MOSCATELLI 290 00013 MENTANA,unknown,Conad City
+unknown,conad_it,VIA DELLA RIMESSA 5 00013 MENTANA,unknown,Conad
+unknown,conad_it,VIA CESARE BATTISTI 47 00028 SUBIACO,unknown,Conad Superstore
+unknown,conad_it,VIA DELLA REPUBBLICA 6 00028 SUBIACO,unknown,Conad City
+unknown,conad_it,VIA SALARIA 223 00015 MONTEROTONDO,unknown,Conad Superstore
+unknown,conad_it,VIA NOMENTANA KM 25.715 SNC 00015 MONTEROTONDO,unknown,Conad
+unknown,conad_it,VIA EDMONDO RIVA 59 00015 MONTEROTONDO,unknown,Conad City
+unknown,conad_it,VIA ROMA 37 00063 CAMPAGNANO DI ROMA,unknown,Conad
+unknown,conad_it,VIA PALOMBARESE 1135 00013 MENTANA,unknown,Conad
+unknown,conad_it,VIA GIOVANNI XXIII 6 00018 PALOMBARA SABINA,unknown,Conad
+unknown,conad_it,VIA GIULIO RONCACCI 1/C 00067 MORLUPO,unknown,unknown
+unknown,conad_it,VIA MORLUPO 26 00060 CAPENA,unknown,Conad City
+unknown,conad_it,VIA TIBERINA ANGOLO VIA CAPOCROCE 47 00065 FIANO ROMANO,unknown,Conad
+unknown,conad_it,VIA ROMA 50 00010 MONTELIBRETTI,unknown,unknown
+unknown,conad_it,Via Flaminia snc 00068 RIGNANO FLAMINIO,unknown,Conad
+unknown,conad_it,Via Tiberina 37 00060 NAZZANO,unknown,Conad
+unknown,conad_it,VIA TRIESTE 14 00060 TORRITA TIBERINA,unknown,Conad City
+Casal Bertone,gamestop_it,,unknown,CASALBERTONE
+ROMA,gamestop_it,,unknown,ROMA - Via Niccodemi
+Tor Vergata,gamestop_it,,unknown,ROMA - Via Schiavonetti
+Pomezia,gamestop_it,,unknown,POMEZIA
+Lunghezza,gamestop_it,,unknown,ROMA - Via Collatina
+Civitavecchia,gamestop_it,,unknown,CIVITAVECCHIA
+Roma,gamestop_it,,unknown,ROMA - Via delle Baleniere
+Colleferro,gamestop_it,,unknown,COLLEFERRO
+Guidonia Montecelio,gamestop_it,,unknown,GUIDONIA MONTECELIO
+Anzio,gamestop_it,,unknown,ANZIO
+Bracciano,gamestop_it,,unknown,BRACCIANO
+Fiumicino,gamestop_it,,unknown,FIUMICINO - MARKET CENTRAL DA VINCI
+Civitavecchia,giunti_al_punto_it,S.s.aurelia Incr. Parco Nesta Enel c/o Centro Commerciale La Scaglia 00053 Civitavecchia RM,unknown,Libreria Giunti al Punto Civitavecchia
+Pomezia,giunti_al_punto_it,Via Del Mare Km 16800 c/o Centro Commerciale 16 Pini 00071 Pomezia RM,unknown,Libreria Giunti al Punto Pomezia
+Roma,giunti_al_punto_it,Via Sampieri 92 c/o Centro Commerciale Casetta Mattei Corvia 00148 Roma RM,unknown,Libreria Giunti al Punto Roma
+Bracciano,giunti_al_punto_it,Via Sandro Pertini 2 c/o Centro Commerciale Bracciano 00062 Bracciano RM,unknown,Libreria Giunti al Punto Bracciano
+Bracciano,giunti_al_punto_it,Via Agostino Fausti 31 00062 Bracciano RM,unknown,Libreria Giunti al Punto Bracciano
+Roma,giunti_al_punto_it,V.le Della Primavera 194 c/o Centro Commerciale Primavera 00172 Roma RM,unknown,Libreria Giunti al Punto Roma Primavera
+Roma,giunti_al_punto_it,Via Aristide Merloni Snc c/o Centro Commerciale Granroma Gran Shoppin 00155 Roma RM,unknown,Libreria Giunti al Punto Roma Prenestina
+Roma,giunti_al_punto_it,P.le Della Stazione Tiburtina c/o Stazione Tiburtina 00162 Roma RM,unknown,Libreria Giunti al Punto Roma Tiburtina
+Civitavecchia,giunti_al_punto_it,Corso Centocelle 21a 21b  00053 Civitavecchia RM,unknown,Libreria Giunti al Punto Civitavecchia
+Roma,giunti_al_punto_it,Via Dario Niccodemi C. Commerciale “TALENTI VILLAGE” 00137 Roma RM,unknown,Libreria Giunti al Punto Roma Talenti Village
+Rome,hugo_boss,,unknown,BOSS Store
+Roma,hugo_boss,,unknown,BOSS Menswear Shop
+Castel Romano,hugo_boss,,unknown,BOSS Outlet
+ROIATE,moneygram,,unknown,POSTE ITALIANE
+ROMA,moneygram,,unknown,DISCOUNT MINI MARKET
+FIUMICINO,moneygram,,unknown,ISLAM ASMA SUHI - #2
+TIVOLI,moneygram,,unknown,LA NUOVA POSTA - BILANCINI
+ANZIO,moneygram,,unknown,AGENZIA DI SERVIZI AMMINISTRATIVI
+POMEZIA,moneygram,,unknown,RAHMAN MINIMARKET - POMEZIA
+ALBANO LAZIALE,moneygram,,unknown,HUSSAIN KHALED - ALBANO LAZIALE
+ANGUILLARA SABAZIA,moneygram,,unknown,TUCANO S
+LADISPOLI,moneygram,,unknown,PUNJABI TELEPHONE CENTER
+ARDEA,moneygram,,unknown,NIRWAL INTERNATIONAL SHOP
+ARTENA,moneygram,,unknown,COSMIN SION
+CASTEL GANDOLFO,moneygram,,unknown,AMICI MINI MARKET 2
+ACILIA,moneygram,,unknown,HOSSAIN AZAD
+VELLETRI,moneygram,,unknown,MOSHER SHAMIM
+NETTUNO,moneygram,,unknown,LIQUOR STORE 2.0 - NETTUNO
+CAMPAGNANO DI ROMA,moneygram,,unknown,BAR JOLLY
+MANZIANA,moneygram,,unknown,SALVATORI VINCENZO
+GUIDONIA MONTECELIO,moneygram,,unknown,EL FEKY PHONE
+MONTEROTONDO,moneygram,,unknown,SULTANA
+CIVITAVECCHIA,moneygram,,unknown,PACHAMAMA SAS
+ROME,moneygram,,unknown,ZARIF ASSISTENZA - #2
+FIANO ROMANO,moneygram,,unknown,CASALINGHI MINIMARKET - #1
+ZAGAROLO,moneygram,,unknown,CENTOFANTI LUISA
+GENZANO DI ROMA,moneygram,,unknown,ULLAH MOHAMMAD
+Guidonia,obi_eu,,unknown,Negozio OBI Guidonia
+ROMA,petit_bateau,,unknown,GIULLIVIIT
+Roma,petit_bateau,,unknown,Cose Da Bimbi
+FRASCATI,petit_bateau,,unknown,THE FLAME OF LOVE
+Castel Romano,petit_bateau,,unknown,Petit Bateau Castel Romano
+NETTUNO,q8_italia,,unknown,Q8
+ROMA,q8_italia,,unknown,Q8
+SAN POLO DEI CAVALIERI,q8_italia,,unknown,Q8
+CIVITAVECCHIA,q8_italia,,unknown,Q8
+CASTELNUOVO PORTO,q8_italia,,unknown,Q8 Easy
+LABICO,q8_italia,,unknown,Q8
+POMEZIA,q8_italia,,unknown,Q8
+ARDEA,q8_italia,,unknown,Q8
+ROMA - LOC. MORENA,q8_italia,,unknown,Q8 Easy
+FIUMICINO LOC. ARANOVA,q8_italia,,unknown,Q8 Easy
+COLLEFERRO,q8_italia,,unknown,Q8
+ARTENA,q8_italia,,unknown,Q8
+LADISPOLI,q8_italia,,unknown,Q8 Easy
+PALOMBARA SABINA,q8_italia,,unknown,Q8
+FIUMICINO,q8_italia,,unknown,Q8
+MARINO - LOC. FRATTOCCHIE,q8_italia,,unknown,Q8
+CESANO,q8_italia,,unknown,Q8 Easy
+FONTE NUOVA,q8_italia,,unknown,Q8 Easy
+CIAMPINO,q8_italia,,unknown,Q8
+ARDEA LOC. TOR SAN LORENZO,q8_italia,,unknown,Q8 Easy
+TOR SAN LORENZO - ARDEA,q8_italia,,unknown,Q8 Easy
+FIANO ROMANO,q8_italia,,unknown,Q8
+VELLETRI,q8_italia,,unknown,Q8
+MORENA - RIONE DI ROMA,q8_italia,,unknown,Q8
+BAGNI DI TIVOLI,q8_italia,,unknown,Q8 Easy
+ALBANO LAZIALE,q8_italia,,unknown,Q8
+MONTEROTONDO,q8_italia,,unknown,Q8
+ANZIO,q8_italia,,unknown,Q8 Easy
+TOLFA,q8_italia,,unknown,Q8
+MONTE PORZIO CATONE,q8_italia,,unknown,Q8
+GUIDONIA,q8_italia,,unknown,Q8
+AGOSTA,q8_italia,,unknown,Q8
+CASTELGANDOLFO,q8_italia,,unknown,Q8 Easy
+NEROLA,q8_italia,,unknown,Q8
+ROCCA DI PAPA,q8_italia,,unknown,Q8
+FIUMICINO LOC. PARCO DA VINCI,q8_italia,,unknown,Q8 Easy
+PALESTRINA,q8_italia,,unknown,Q8
+CERVETERI,q8_italia,,unknown,Q8 Easy
+ROMA- BORGATA FINOCCHIO,q8_italia,,unknown,Q8
+TIVOLI,q8_italia,,unknown,Q8
+ANGUILLARA SABAZIA,q8_italia,,unknown,Q8
+MARINO,q8_italia,,unknown,Q8
+GENZANO DI ROMA,q8_italia,,unknown,Q8
+MORICONE,q8_italia,,unknown,Q8
+GUIDONIA MONTECELIO,q8_italia,,unknown,Q8
+FIUMICINO LOC. MACCARESE,q8_italia,,unknown,Q8
+SAN CESAREO,q8_italia,,unknown,Q8
+unknown,remax_it,Via Boezio 2 int. 2 00193 Roma RM Italia,unknown,RE/MAX Abacus
+unknown,remax_it,- - Roma RM Italia,unknown,RE/MAX United 2
+unknown,remax_it,Via Cavriglia 18 00139 Roma RM Italia,unknown,RE/MAX Ability
+unknown,remax_it,Viale Eritrea 70 G/H 00199 Roma RM Italia,unknown,RE/MAX Ability 2
+unknown,remax_it,Viale dei Quattro Venti 116 00152 Roma RM Italia,unknown,RE/MAX Absolute
+unknown,remax_it,Via delle Tartane 53 00122 Roma RM Italia,unknown,RE/MAX Area
+unknown,remax_it,Viale San Lorenzo 18 00040 Ardea RM Italia,unknown,RE/MAX Arts
+unknown,remax_it,Via Corso del Popolo 14 00042 Anzio RM Italia,unknown,RE/MAX Arts 3
+unknown,remax_it,Via Giorgio Giorgis 126 00054 Fiumicino RM Italia,unknown,RE/MAX Aurea
+unknown,remax_it,Piazza San Benedetto da Norcia 33 00040 Pomezia RM Italia,unknown,RE/MAX Belladomus
+unknown,remax_it,Via Eschilo 72 00124 Roma RM Italia,unknown,RE/MAX Blu
+unknown,remax_it,Via Taranto 186/188 00182 Roma RM Italia,unknown,RE/MAX Blu 2
+unknown,remax_it,Via Antonio Gramsci 35 00015 Monterotondo RM Italia,unknown,RE/MAX Blu 3
+unknown,remax_it,Via dei Faggi 48/A 00172 Roma RM Italia,unknown,RE/MAX Capital
+unknown,remax_it,Via Francesco Patrizio Da Cherso 2 00143 Roma RM Italia,unknown,RE/MAX Clever
+unknown,remax_it,Via dei Berio 214/216 00155 Roma RM Italia,unknown,RE/MAX Diamond
+unknown,remax_it,Via Domenico Cucchiari 33/39 00159 Roma RM Italia,unknown,RE/MAX Easy
+unknown,remax_it,Viale Roma 36 00043 Ciampino RM Italia,unknown,RE/MAX Enter House
+unknown,remax_it,Piazza C.A. dalla Chiesa 10 Formello (RM) 00060 Formello RM Italia,unknown,RE/MAX Evolution
+unknown,remax_it,Via Pier Vittorio Aldini 26 00178 Roma RM Italia,unknown,RE/MAX Factory
+unknown,remax_it,Viale Aventino 49 00153 Roma RM Italia,unknown,RE/MAX Gruppo Casa Re
+unknown,remax_it,Via Trieste 53 00055 Ladispoli RM Italia,unknown,RE/MAX Gruppo Casa Re 2
+unknown,remax_it,Via Federico Ozanam 21 00152 Roma RM Italia,unknown,RE/MAX Gruppo Casa Re 3
+unknown,remax_it,Via Guido Cavalcanti 28/30/32 00152 Roma RM Italia,unknown,RE/MAX Gruppo Casa Re 4
+unknown,remax_it,Lungomare Duca degli Abruzzi 84 00121 Roma RM Italia,unknown,RE/MAX ITI Network
+unknown,remax_it,Viale Francia 44 00071 Pomezia RM Italia,unknown,RE/MAX ITI Network 2
+unknown,remax_it,Via Dalmazio Birago 8 00048 Nettuno RM Italia,unknown,RE/MAX InvestiRE
+unknown,remax_it,Via Giovanni Nicotera 31 00195 Roma RM Italia,unknown,RE/MAX Key House
+unknown,remax_it,Via Etruria 6/B 00183 Roma RM Italia,unknown,RE/MAX Maison
+unknown,remax_it,Via Manzoni 73 00040 Marino RM Italia,unknown,RE/MAX Passion
+unknown,remax_it,Via G. Trevis 23/29 00147 Roma RM Italia,unknown,RE/MAX Più
+unknown,remax_it,Via Garigliano63 00198 Roma RM Italia,unknown,RE/MAX Place
+unknown,remax_it,Via Brofferio 3 00195 Roma RM Italia,unknown,RE/MAX Progedimm
+unknown,remax_it,Via Michele Rosi 82 00050 Fiumicino RM Italia,unknown,RE/MAX Progedimm 2
+unknown,remax_it,Piazza Mastrofini Marco 2 00040 Monte Compatri RM Italia,unknown,RE/MAX Qualità
+unknown,remax_it,Via di Vermicino 108/B 00133 Roma RM Italia,unknown,RE/MAX Sirius
+unknown,remax_it,- - Civitavecchia RM Italia,unknown,RE/MAX System
+unknown,remax_it,Viale Parioli 81 00197 Roma RM Italia,unknown,RE/MAX Titanus
+unknown,remax_it,Via Pinturicchio 200 00196 Roma RM Italia,unknown,RE/MAX Titanus 2
+unknown,remax_it,Via Ugo Ojetti 34 00139 Roma RM Italia,unknown,RE/MAX Titanus 3
+unknown,remax_it,Viale Tito Labieno 68/F 00174 Roma RM Italia,unknown,RE/MAX Vega
+unknown,remax_it,Via delle Ciliegie 68/B 00172 Roma RM Italia,unknown,RE/MAX Your Choice
+unknown,remax_it,Via Collatina 100/B 00177 Roma RM Italia,unknown,RE/MAX Your Choice 3
+unknown,remax_it,Via Giuseppe Mercalli 3 00197 Roma RM Italia,unknown,The RE/MAX Collection Crystal
+unknown,remax_it,Via Giulio Cesare 33 00192 Roma RM Italia,unknown,The RE/MAX Collection Maison
+Roma,shell,,unknown,Roma
+Fiumicino,shell,,unknown,Fiumicino
+unknown,skoda,,unknown,RC AUTOMOTIVE S.R.L.
+ROMA - LOCALITA' BUFALOTTA,the_north_face_eu,,unknown,COIN PORTE DI ROMA
+ROMA,visa,,unknown,unknown
+GUIDONIA MONTECELIO,visa,,unknown,unknown
+PALOMBARA SABINA,visa,,unknown,unknown
+VELLETRI,visa,,unknown,unknown
+CASTELNUOVO DI PORTO,visa,,unknown,unknown
+FIUMICINO,visa,,unknown,unknown
+CAMPAGNANO DI ROMA,visa,,unknown,unknown
+ZAGAROLO,visa,,unknown,unknown
+SANTA MARINELLA,visa,,unknown,unknown
+CERVETERI,visa,,unknown,unknown
+MENTANA,visa,,unknown,unknown
+ANZIO,visa,,unknown,unknown
+CIVITAVECCHIA,visa,,unknown,unknown
+ARDEA,visa,,unknown,unknown
+FRASCATI,visa,,unknown,unknown
+GROTTAFERRATA,visa,,unknown,unknown
+CATANIA,visa,,unknown,unknown
+NETTUNO,visa,,unknown,unknown
+LAVINIO LIDO DI ENEA,visa,,unknown,unknown
+TOR SAN LORENZO,visa,,unknown,unknown
+TORVAIANICA,visa,,unknown,unknown
+POMEZIA,visa,,unknown,unknown
+OSTIA LIDO,visa,,unknown,unknown
+LIDO DI OSTIA - ROMA,visa,,unknown,unknown
+LIDO DI OSTIA-ROMA,visa,,unknown,unknown
+LIDO DI OSTIA ROMA,visa,,unknown,unknown
+CASALPALOCCO,visa,,unknown,unknown
+OSTIA ANTICA,visa,,unknown,unknown
+LANUVIO,visa,,unknown,unknown
+ALBANO LAZIALE,visa,,unknown,unknown
+CECCHINA,visa,,unknown,unknown
+DRAGONA,visa,,unknown,unknown
+ACILIA,visa,,unknown,unknown
+GENZANO DI ROMA,visa,,unknown,unknown
+PAVONA,visa,,unknown,unknown
+CARPINETO ROMANO,visa,,unknown,unknown
+ARICCIA,visa,,unknown,unknown
+VITINIA,visa,,unknown,unknown
+FREGENE,visa,,unknown,unknown
+PONTE GALERIA,visa,,unknown,unknown
+CASTEL GANDOLFO,visa,,unknown,unknown
+DIVINO AMORE,visa,,unknown,unknown
+FRATTOCCHIE,visa,,unknown,unknown
+SANTA MARIA DELLE MOLE,visa,,unknown,unknown
+MARINO,visa,,unknown,unknown
+LOC. CAVA DEI SELCI - MAR,visa,,unknown,unknown
+CAVA DEI SELCI,visa,,unknown,unknown
+LARIANO,visa,,unknown,unknown
+GORGA,visa,,unknown,unknown
+MACCARESE,visa,,unknown,unknown
+CIAMPINO,visa,,unknown,unknown
+ROCCA DI PAPA,visa,,unknown,unknown
+PASSO OSCURO,visa,,unknown,unknown
+SEGNI,visa,,unknown,unknown
+GAVIGNANO,visa,,unknown,unknown
+MARINA SAN NICOLA,visa,,unknown,unknown
+MORENA,visa,,unknown,unknown
+TORRIMPIETRA,visa,,unknown,unknown
+LADISPOLI,visa,,unknown,unknown
+ARTENA,visa,,unknown,unknown
+COLLEFERRO,visa,,unknown,unknown
+ROCCA PRIORA,visa,,unknown,unknown
+ROMA 230,visa,,unknown,unknown
+FROSINONE,visa,,unknown,unknown
+MONTE COMPATRI,visa,,unknown,unknown
+MONTE PORZIO CATONE,visa,,unknown,unknown
+COLLEFERRO STAZIONE,visa,,unknown,unknown
+ARA NOVA,visa,,unknown,unknown
+CARCHITTI,visa,,unknown,unknown
+ROMA 015,visa,,unknown,unknown
+VALMONTONE,visa,,unknown,unknown
+CERENOVA,visa,,unknown,unknown
+ROMA 18,visa,,unknown,unknown
+LABICO,visa,,unknown,unknown
+SANTA SEVERA,visa,,unknown,unknown
+SAN CESAREO,visa,,unknown,unknown
+COLONNA,visa,,unknown,unknown
+PONTE STORTO,visa,,unknown,unknown
+COLLE PRENESTINO,visa,,unknown,unknown
+CAVE,visa,,unknown,unknown
+PALESTRINA,visa,,unknown,unknown
+VALLE MARTELLA,visa,,unknown,unknown
+GALLICANO NEL LAZIO,visa,,unknown,unknown
+CASTELVERDE DI LUNGHEZZA,visa,,unknown,unknown
+LUNGHEZZA,visa,,unknown,unknown
+AURELIA,visa,,unknown,unknown
+SETTECAMINI,visa,,unknown,unknown
+CORCOLLE,visa,,unknown,unknown
+LA STORTA,visa,,unknown,unknown
+SETTEVILLE DI GUIDONIA,visa,,unknown,unknown
+SANTA MARIA DI GALERIA,visa,,unknown,unknown
+OLEVANO ROMANO,visa,,unknown,unknown
+MONTORIO ROMANO,visa,,unknown,unknown
+SAN VITO ROMANO,visa,,unknown,unknown
+TIVOLI TERME,visa,,unknown,unknown
+TIVOLI,visa,,unknown,unknown
+ALLUMIERE,visa,,unknown,unknown
+VILLALBA DI GUIDONIA,visa,,unknown,unknown
+TOLFA,visa,,unknown,unknown
+BELLEGRA,visa,,unknown,unknown
+BRACCIANO,visa,,unknown,unknown
+SANTA LUCIA DI FONTE NUOVA,visa,,unknown,unknown
+ANGUILLARA SABAZIA,visa,,unknown,unknown
+FONTE NUOVA,visa,,unknown,unknown
+VILLA ADRIANA,visa,,unknown,unknown
+CESANO DI ROMA,visa,,unknown,unknown
+VILLANOVA,visa,,unknown,unknown
+MANZIANA,visa,,unknown,unknown
+CANALE MONTERANO,visa,,unknown,unknown
+GUIDONIA,visa,,unknown,unknown
+FORMELLO,visa,,unknown,unknown
+CASTEL MADAMA,visa,,unknown,unknown
+SUBIACO,visa,,unknown,unknown
+MONTEROTONDO,visa,,unknown,unknown
+MONTECELIO,visa,,unknown,unknown
+MONTEROTONDO STAZIONE,visa,,unknown,unknown
+SCALO - MONTEROTONDO,visa,,unknown,unknown
+SCALO-MONTEROTONDO,visa,,unknown,unknown
+SCALO- MONTEROTONDO,visa,,unknown,unknown
+SANT'ANGELO ROMANO,visa,,unknown,unknown
+SACROFANO,visa,,unknown,unknown
+RIANO,visa,,unknown,unknown
+TREVIGNANO ROMANO,visa,,unknown,unknown
+MARCELLINA,visa,,unknown,unknown
+CAVALLINO,visa,,unknown,unknown
+VICOVARO,visa,,unknown,unknown
+CRETONE,visa,,unknown,unknown
+MADONNA DELLA PACE,visa,,unknown,unknown
+MORLUPO,visa,,unknown,unknown
+TORRITA TIBERINA,visa,,unknown,unknown
+CAPENA,visa,,unknown,unknown
+FIANO ROMANO,visa,,unknown,unknown
+CINETO ROMANO,visa,,unknown,unknown
+ARSOLI,visa,,unknown,unknown
+MAZZANO ROMANO,visa,,unknown,unknown
+MORICONE,visa,,unknown,unknown
+MONTELIBRETTI,visa,,unknown,unknown
+RIGNANO FLAMINIO,visa,,unknown,unknown
+NAZZANO,visa,,unknown,unknown
+PONZANO ROMANO,visa,,unknown,unknown
+SANREMO,visa,,unknown,unknown
+FIRENZE,visa,,unknown,unknown
+TORINO,visa,,unknown,unknown
+CREMONA,visa,,unknown,unknown
+NOVARA,visa,,unknown,unknown
+MILANO,visa,,unknown,unknown
+AOSTA,visa,,unknown,unknown
+GATTINARA,visa,,unknown,unknown
+COLOGNO MONZESE,visa,,unknown,unknown
+CERNUSCO SUL NAVIGLIO,visa,,unknown,unknown
+CINISELLO BALSAMO,visa,,unknown,unknown
+Roma,yves_rocher_it,,unknown,Yves Rocher Italia

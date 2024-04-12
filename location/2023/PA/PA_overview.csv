@@ -1,0 +1,259 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,2
+UNKNOWN,adidas,Panama City,3
+UNKNOWN,adidas,Panama,1
+UNKNOWN,alamo,Provincia De Chiriqui,1
+UNKNOWN,alamo,Panama City,5
+UNKNOWN,alamo,Costa Del Este,1
+UNKNOWN,alamo,Rio Hato,1
+UNKNOWN,alamo,Tocumen,1
+UNKNOWN,alamo,David,1
+UNKNOWN,alstom,unknown,6
+PANAMA,american_eagle_outfitters,Panama City,1
+PANAMA,american_eagle_outfitters,Ciudad de Panamá,1
+UNKNOWN,american_eagle_outfitters,Panama City,1
+8,ashley_furniture,Panama City,1
+8,ashley_furniture,Panam&#225; City,1
+PANAMA,audi,Panama,2
+ALBROOKFIELD,avis,Panama,1
+DAVID,avis,David,2
+GRANHOTELAZUERO,avis,Chitre,1
+BOCASDELTORO,avis,Changuinola,1
+UNKNOWN,benihana, Panama City,1
+UNKNOWN,bmw_group,Panama,3
+UNKNOWN,bmw_group,Ciudad de Panamá,1
+UNKNOWN,deloitte,Ciudad de Panamá,1
+UNKNOWN,enterprise,Panama City,11
+UNKNOWN,enterprise,Provincia De Chiriqui,2
+UNKNOWN,enterprise,Provincia De Cocle,1
+UNKNOWN,enterprise,David,2
+UNKNOWN,enterprise,Panama,2
+UNKNOWN,enterprise,Rio Hato,1
+UNKNOWN,enterprise,Costa Del Este,1
+UNKNOWN,enterprise,Tocumen,1
+UNKNOWN,enterprise,Penonome,1
+UNKNOWN,ernst_young,Panama,2
+UNKNOWN,express,Panama City,2
+UNKNOWN,ford,Panama City,1
+UNKNOWN,ford,"Los Santos, Azuero",1
+UNKNOWN,ford,"David, Chiriquí",1
+UNKNOWN,ford,Panama,6
+UNKNOWN,ford,Panamá,6
+UNKNOWN,fossil,Panama City,2
+PA,fuddruckers,Panama,1
+UNKNOWN,hardrock,Panama City,1
+UNKNOWN,hilton,unknown,3
+UNKNOWN,hm,Panama City,1
+PANAMA,hooters,Distrito de Panama,1
+07,hugo_boss,Panama,5
+07,hugo_boss,Panama City,1
+UNKNOWN,lhw,Bocas Del Toro,1
+UNKNOWN,man_truck_and_bus,Panama City,2
+UNKNOWN,marriott,Panama City,9
+UNKNOWN,maserati,PANAMA CITY,2
+UNKNOWN,mcdonalds_latin_america,unknown,50
+UNKNOWN,mcdonalds_latin_america,Plaza Comercial Villa Lobos,1
+UNKNOWN,mcdonalds_latin_america,Panamá,2
+PANAMACITY,michaelkors,Panama,4
+UNKNOWN,moneygram,PANAMA,35
+UNKNOWN,moneygram,CHANGUINOLA,1
+UNKNOWN,moneygram,DAVID,1
+UNKNOWN,moneygram,HERRERA,1
+UNKNOWN,moneygram,COCLE,1
+UNKNOWN,moneygram,VERAGUAS,1
+UNKNOWN,moneygram,AGUADULCE,1
+UNKNOWN,moneygram,CHIRIQUI,1
+UNKNOWN,moneygram,COLON,1
+UNKNOWN,moneygram,LOS SANTOS,1
+UNKNOWN,national,Provincia De Chiriqui,1
+UNKNOWN,national,Provincia De Cocle,1
+UNKNOWN,national,Panama City,4
+UNKNOWN,national,Costa Del Este,1
+UNKNOWN,national,Tocumen,1
+UNKNOWN,national,Penonome,1
+UNKNOWN,national,David,1
+UNKNOWN,pandora,Panama City,8
+UNKNOWN,pandora,Veraguas,1
+UNKNOWN,pandora,Panama,1
+UNKNOWN,pandora,David-Chiriqui,1
+PANAMA,sbarro,Panama City,2
+PANAMA,sbarro,Villa Catalina,1
+COCLÉPROVINCE,sbarro,Penonome,1
+UNKNOWN,sixt,Chitre,1
+UNKNOWN,sixt,Panama,4
+UNKNOWN,sixt,David,1
+CENTRALAMERICA,the_north_face,PANAMA,1
+UNKNOWN,timberland,Panama City,1
+HERRERA,visa,CHITRE,63
+PANAMA,visa,PANAMA,979
+COCLE,visa,PENONOME,52
+VERAGUAS,visa,SANTIAGO,75
+PANAMA,visa,CHEPO,16
+CHIRIQUI,visa,BARU,20
+DARIEN,visa,PINOGANA,1
+DARIEN,visa,SANTA FE,1
+DARIEN,visa,CHEPIGANA,1
+PANAMA,visa,SAN MIGUELITO,190
+UNKNOWN,visa,CIUDAD DE PANAMA,145
+UNKNOWN,visa,CUIDAD DE CHIRIQUI,1
+CHIRIQUI,visa,DAVID,124
+PANAMAOESTE,visa,ARRAIJAN,120
+COCLE,visa,ANTON,26
+PANAMAOESTE,visa,LA CHORRERA,98
+COLON,visa,SANTA ISABEL,2
+BOCASDELTORO,visa,CHANGUINOLA,27
+UNKNOWN,visa,CIUDAD DE LAS TABLAS,4
+COLON,visa,COLON,108
+UNKNOWN,visa,PANAMA,1
+UNKNOWN,visa,CIUDAD DE COLON,15
+PANAMA,visa,TABOGA,1
+UNKNOWN,visa,CIUDAD DE ARRAIJAN,8
+COLON,visa,PORTOBELO,1
+PANAMAOESTE,visa,CHAME,24
+PANAMA,visa,ARRAIJAN,1
+UNKNOWN,visa,CUIDAD DE ARRAIJAN,1
+UNKNOWN,visa,CIUDAD DE DAVID,11
+UNKNOWN,visa,CIUDAD DE CHORRERA,7
+UNKNOWN,visa,CUIDAD DE CHORRERA,1
+PANAMAOESTE,visa,CAPIRA,8
+PANAMAOESTE,visa,SAN CARLOS,6
+COLON,visa,OMAR TORRIJOS HERRERA,1
+LOSSANTOS,visa,PEDASI,3
+COCLE,visa,AGUADULCE,31
+LOSSANTOS,visa,POCRI,1
+UNKNOWN,visa,CIUDAD DE RIO HATO,1
+LOSSANTOS,visa,LAS TABLAS,27
+COCLE,visa,NATA,5
+LOSSANTOS,visa,GUARARE,2
+COLON,visa,DONOSO,3
+LOSSANTOS,visa,MACARACAS,3
+UNKNOWN,visa,CIUDAD DE PENONOME,3
+UNKNOWN,visa,CUIDAD DE PENONOME,1
+UNKNOWN,visa,CIUDAD DE SANTIAGO,8
+LOSSANTOS,visa,LOS SANTOS,8
+BOCASDELTORO,visa,ALMIRANTE,3
+UNKNOWN,visa,CIUDAD DE CHITRE,6
+LOSSANTOS,visa,TONOSI,1
+VERAGUAS,visa,SONA,7
+COCLE,visa,LA PINTADA,2
+HERRERA,visa,PARITA,2
+UNKNOWN,visa,CIUDAD DE AGUADULCE,3
+HERRERA,visa,PESE,1
+HERRERA,visa,LOS POZOS,1
+HERRERA,visa,SANTA MARIA,1
+HERRERA,visa,LAS MINAS,1
+HERRERA,visa,OCU,1
+VERAGUAS,visa,CALOBRE,1
+VERAGUAS,visa,ATALAYA,2
+VERAGUAS,visa,SAN FRANCISCO,1
+UNKNOWN,visa,CIIUDAD DE SANTIAGO,2
+VERAGUAS,visa,MARIATO,1
+VERAGUAS,visa,MONTIJO,2
+VERAGUAS,visa,SANTA FE,1
+VERAGUAS,visa,RIO DE JESUS,1
+VERAGUAS,visa,LA MESA,1
+VERAGUAS,visa,CANAZAS,1
+VERAGUAS,visa,LAS PALMAS,1
+CHIRIQUI,visa,TOLE,2
+CHIRIQUI,visa,REMEDIOS,1
+CHIRIQUI,visa,SAN FELIX,5
+CHIRIQUI,visa,SAN LORENZO,1
+BOCASDELTORO,visa,CHIRIQUI GRANDE,5
+BOCASDELTORO,visa,BOCAS DEL TORO,5
+CHIRIQUI,visa,GUALACA,2
+CHIRIQUI,visa,BOQUETE,11
+CHIRIQUI,visa,DOLEGA,10
+UNKNOWN,visa,CUIDAD DE DAVID,2
+CHIRIQUI,visa,BUGABA,22
+UNKNOWN,visa,CIUDAD DE CHIRIQUI,1
+CHIRIQUI,visa,ALANJE,2
+CHIRIQUI,visa,BOQUERON,4
+CHIRIQUI,visa,TIERRAS ALTAS,9
+UNKNOWN,visa,CIUDAD DE BUGABA,1
+UNKNOWN,visa,PASO CANOA,3
+CHIRIQUI,visa,RENACIMIENTO,3
+COLON,western_union,Colon,7
+PANAMA,western_union,Pacora,1
+PANAMA,western_union,Cabra,1
+COLON,western_union,Cativa,1
+COLON,western_union,Buena Vista,1
+COLON,western_union,San Juan,1
+COLON,western_union,San Judas Tadeo,1
+PANAMA,western_union,Nuevo Tocumen,2
+PANAMA,western_union,24 De Diciembre,4
+PANAMA,western_union,Tocumen,2
+COCLE,western_union,Aguadulce,1
+COCLE,western_union,Anton,3
+COCLE,western_union,Penonome,4
+PANAMAOESTE,western_union,Chame,2
+PANAMAOESTE,western_union,Arraijan,11
+PANAMAOESTE,western_union,Vista Alegre,2
+PANAMAOESTE,western_union,La Chorrera,6
+PANAMAOESTE,western_union,Chorrera,1
+PANAMAOESTE,western_union,Capira,1
+VERAGUAS,western_union,Mariato,1
+HERRERA,western_union,Pese,1
+HERRERA,western_union,Chitre,3
+LOSSANTOS,western_union,Villa De Los Santos,1
+LOSSANTOS,western_union,Macaracas,1
+LOSSANTOS,western_union,Guarare,1
+LOSSANTOS,western_union,Las Tablas,1
+LOSSANTOS,western_union,Pedasi,1
+PANAMA,western_union,Albrook,6
+PANAMA,western_union,Calidonia,3
+PANAMA,western_union,Bella Vista,7
+PANAMA,western_union,Ave Central,2
+PANAMA,western_union,Santa Ana,2
+PANAMA,western_union,Casco Viejo,1
+PANAMA,western_union,Chorrillo,1
+PANAMA,western_union,Anama,1
+PANAMA,western_union,Vista Hermosa,2
+PANAMA,western_union,Via Porras,2
+PANAMA,western_union,Betania,1
+PANAMA,western_union,Via Israel,3
+PANAMA,western_union,Transismica,1
+PANAMA,western_union,Via Transismica,1
+PANAMA,western_union,Calle 50,2
+PANAMA,western_union,Obarrio,2
+PANAMA,western_union,Chepo,2
+PANAMA,western_union,Juan Diaz,6
+PANAMA,western_union,Costa Del Este,3
+PANAMA,western_union,San Miguelito,13
+PANAMA,western_union,Parque Lefevre,1
+COCLE,western_union,San Miguelito,1
+PANAMA,western_union,Panama,7
+PANAMA,western_union,Chanis,2
+PANAMA,western_union,Via Espana,2
+PANAMA,western_union,Via Argentina,1
+PANAMA,western_union,Via Veneto,2
+PANAMA,western_union,Ave. Balboa,1
+PANAMA,western_union,Rio Abajo,3
+BOCASDELTORO,western_union,Changuinola,2
+PANAMA,western_union,Via Ricardo J. Alfaro,5
+PANAMA,western_union,12 De Octubre,1
+PANAMA,western_union,Villa Zaita Panama,1
+PANAMA,western_union,Villa Zaita,2
+PANAMA,western_union,Los Pueblos,1
+PANAMA,western_union,Villa Lucre,2
+PANAMA,western_union,Los Andes,4
+PANAMA,western_union,La Cabima,1
+PANAMA,western_union,Plaza Tocumen,1
+PANAMA,western_union,Brisas Del Golf,1
+PANAMA,western_union,Las Acacias,1
+PANAMA,western_union,Pedregal,1
+PANAMA,western_union,Villa Grecia,1
+PANAMA,western_union,Costa Sur,1
+PANAMA,western_union,Chilibre,1
+PANAMA,western_union,Mananitas,4
+COLON,western_union,Zona Libre,1
+PANAMA,western_union,Las Cumbres,1
+VERAGUAS,western_union,Sona,1
+CHIRIQUI,western_union,Tole,1
+CHIRIQUI,western_union,San Felix,1
+BOCASDELTORO,western_union,Chiriqui Grande,1
+CHIRIQUI,western_union,Dolega,1
+CHIRIQUI,western_union,David,5
+CHIRIQUI,western_union,Cerro Punta,1
+CHIRIQUI,western_union,Baru,2
+CHIRIQUI,western_union,Paso Canoa,1
+CHIRIQUI,western_union,Bugaba,2

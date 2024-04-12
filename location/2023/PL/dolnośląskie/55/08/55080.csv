@@ -1,0 +1,36 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1204,abc_pl,abc,,Małkowice,dolnośląskie,,PL,,,,abc,Q11683985
+10065,abc_pl,abc,,Pełcznica,dolnośląskie,,PL,,,,abc,Q11683985
+10050,abc_pl,abc,,Mokronos Górny,dolnośląskie,,PL,,,,abc,Q11683985
+14757,abc_pl,abc,,Pietrzykowice,dolnośląskie,,PL,,,,abc,Q11683985
+PL001192,aldi_nord_pl,ALDI,,Smolec,Dolnośląskie,,PL,+48 800 118 118,,Mo-Sa 07:00-22:00,ALDI,Q41171373
+492,mcdonalds_pl,McDonald's,,Kąty Wrocławskie,Dolnośląskie,,PL,+48 601 746 255,https://mcdonalds.pl/restauracje/dolnoslaskie/katy-wroclawskie/katy-wroclawskie-ul-handlowa-6,Mo-Su 06:00-24:00,McDonald's,Q38076
+GS0031983,mercedes_benz,Mirosław Wróbel Sp. z o.o.,,Pietrzykowice,dolnośląskie,,PL,,,,Mercedes-Benz,Q36008
+BGW01A,paczkomat_inpost_pl,Po lewej stronie od wejścia.,,Bogdaszowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-bogdaszowice-bgw01a-glowna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+BGW01N,paczkomat_inpost_pl,Przy wjeździe na posesję,,Bogdaszowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-bogdaszowice-bgw01n-palacowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+GNC01G,paczkomat_inpost_pl,Przy sklepie spożywczym,,Gniechowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-gniechowice-gnc01g-katecka-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+GNC01M,paczkomat_inpost_pl,Przy mały placyku,,Gniechowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-gniechowice-gnc01m-katecka-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+KWA01M,paczkomat_inpost_pl,Przy Lidlu,,Kąty Wrocławskie,dolnośląskie,,PL,,https://inpost.pl/paczkomat-katy-wroclawskie-kwa01m-handlowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+KWA01N,paczkomat_inpost_pl,Na prawo od piekarni,,Kąty Wrocławskie,dolnośląskie,,PL,,https://inpost.pl/paczkomat-katy-wroclawskie-kwa01n-drzymaly-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+KWA02M,paczkomat_inpost_pl,Przy budynku WUZETMOT,,Kąty Wrocławskie,dolnośląskie,,PL,,https://inpost.pl/paczkomat-katy-wroclawskie-kwa02m-wroclawska-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+KWA02N,paczkomat_inpost_pl,Przy sklepie Polo/Pepco,,Kąty Wrocławskie,dolnośląskie,,PL,,https://inpost.pl/paczkomat-katy-wroclawskie-kwa02n-1-maja-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+KWA03M,paczkomat_inpost_pl,Na posesji przy garażu,,Kąty Wrocławskie,dolnośląskie,,PL,,https://inpost.pl/paczkomat-katy-wroclawskie-kwa03m-stefana-okrzei-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+KZT01M,paczkomat_inpost_pl,"Przy sklepie spożywczym ""U Teresy""",,Krzeptów,dolnośląskie,,PL,,https://inpost.pl/paczkomat-krzeptow-kzt01m-glowna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+MALK01APP,paczkomat_inpost_pl,Przy sklepie spożywczym.,,Małkowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-malkowice-malk01app-glowna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+MKG01M,paczkomat_inpost_pl,Przy punkcie Pakersi,,Mokronos Górny,dolnośląskie,,PL,,https://inpost.pl/paczkomat-mokronos-gorny-mkg01m-radosna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+POP-GNH1,paczkomat_inpost_pl,SKLEP SPOŻYWCZO-PRZEMYSŁOWY,,Gniechowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-gniechowice-pop-gnh1-katecka-paczkomaty-dolnoslaskie,Mo-Sa 09:00-19:00,Paczkomat,Q110970254
+POP-KAA2,paczkomat_inpost_pl,EPAKA MINI,,Kąty Wrocławskie,dolnośląskie,,PL,,https://inpost.pl/paczkomat-katy-wroclawskie-pop-kaa2-rynek-paczkomaty-dolnoslaskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+PZK01M,paczkomat_inpost_pl,Market Dino,,Pietrzykowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-pietrzykowice-pzk01m-pogodna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+SMC01APP,paczkomat_inpost_pl,Przy POLOmarket,,Smolec,dolnośląskie,,PL,,https://inpost.pl/paczkomat-smolec-smc01app-aroniowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+SMC01M,paczkomat_inpost_pl,Na Myjni,,Smolec,dolnośląskie,,PL,,https://inpost.pl/paczkomat-smolec-smc01m-wroclawska-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+SMC02M,paczkomat_inpost_pl,Obok sklepu,,Smolec,dolnośląskie,,PL,,https://inpost.pl/paczkomat-smolec-smc02m-glowna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+SMC04M,paczkomat_inpost_pl,Market Dino,,Smolec,dolnośląskie,,PL,,https://inpost.pl/paczkomat-smolec-smc04m-chlopska-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+SMC05M,paczkomat_inpost_pl,Na lewo od wejścia do sklepu,,Smolec,dolnośląskie,,PL,,https://inpost.pl/paczkomat-smolec-smc05m-cedrowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+XAD01N,paczkomat_inpost_pl,Przy wejściu,,Sadków,dolnośląskie,,PL,,https://inpost.pl/paczkomat-sadkow-xad01n-debowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+ZCW01M,paczkomat_inpost_pl,Przy warsztatacie.,,Zachowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-zachowice-zcw01m-piwna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+245098,poczta_polska_pl,UP Kąty Wrocławskie,,Kąty Wrocławskie,DOLNOŚLĄSKIE,,PL,+48 71 364 66 14;+48 885 952 186,,,Poczta Polska,Q168833
+567415,poczta_polska_pl,FUP Kąty Wrocławskie,,Mietków,DOLNOŚLĄSKIE,,PL,+48 71 364 66 02,,,Poczta Polska,Q168833
+,visa,,,KĄTY WROCŁAWSKIE,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,KĄTY WROCŁAWSKIE,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,KĄTY WROCŁAWSKIE,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,SMOLEC,DOLNOŚLĄSKIE,,PL,,,,,

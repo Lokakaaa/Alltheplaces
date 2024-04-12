@@ -1,0 +1,711 @@
+City,Place Name,Zipcode,Name
+Naberezhnye Chelny,audi,proezd Tozelesh 27 423800 Naberezhnye Chelny,unknown,AC Naberezhnye Chelny
+Kazan,audi,prospekt Pobedy 93 420100 Kazan,unknown,Audi Center Kazan
+Альметьевск,coffee_like,ул. Ленина 100,unknown,Coffee Like
+Елабуга,coffee_like,ул. Баки Урманче 36г,unknown,Coffee Like
+Елабуга,coffee_like,просп. Нефтяников 5,unknown,Coffee Like
+Елабуга,coffee_like,ул.Ш-2 4/1,unknown,Coffee Like
+Зеленодольск,coffee_like,пр-т Строителей 30,unknown,Coffee Like
+Зеленодольск,coffee_like,ул. Ивана Заикина 6/1,unknown,Coffee Like
+Казань,coffee_like,ул. Баумана 82,unknown,Coffee Like
+Казань,coffee_like,ул. Муштари 11 а,unknown,Coffee Like
+Казань,coffee_like,ул. Петербургская 9,unknown,Coffee Like
+Казань,coffee_like,ул. Ленинградская 27,unknown,Coffee Like
+Казань,coffee_like,ул. Ибрагимова 56 а,unknown,Coffee Like
+Казань,coffee_like,ул. Петербургская 1,unknown,Coffee Like
+Казань,coffee_like,пр-т Победы 139а к1,unknown,Coffee Like
+Казань,coffee_like,ул. Баумана 51/50,unknown,Coffee Like
+Казань,coffee_like,ул. Меридианная 8,unknown,Coffee Like
+Казань,coffee_like,ул. Чернышевского 16к2,unknown,Coffee Like
+Казань,coffee_like,ул. Миславского 17,unknown,Coffee Like
+Казань,coffee_like,ул. Баумана 25,unknown,Coffee Like
+Казань,coffee_like,ул. Университетская 20,unknown,Coffee Like
+Казань,coffee_like,ул. Николая Ершова 29 б,unknown,Coffee Like
+Казань,coffee_like,ул. Декабристов 83 (kzn50),unknown,Coffee Like
+Казань,coffee_like,ул. Николая Ершова 2Б,unknown,Coffee Like
+Казань,coffee_like,ул. Декабристов 8,unknown,Coffee Like
+Казань,coffee_like,просп. Ямашева 97,unknown,Coffee Like
+Казань,coffee_like,ул. Закиева 1,unknown,Coffee Like
+Казань,coffee_like,ул. Гоголя 16/56,unknown,Coffee Like
+Менделеевск,coffee_like,ул. Бурмистрова 20А,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Мира 3,unknown,Coffee Like
+Набережные Челны,coffee_like,ул. Машиностроительная 91А,unknown,Coffee Like
+Набережные Челны,coffee_like,тракт Сармановский 38 а,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Сююмбике 67 в,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Чулман 89/57,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Автозаводский 62,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Мира 24д,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Мира 49 а,unknown,Coffee Like
+Набережные Челны,coffee_like,переулок Парковый 9а,unknown,Coffee Like
+Набережные Челны,coffee_like,пр-т Набережночелнинский 13а,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Хасана Туфана 12,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Сююмбике 2/19,unknown,Coffee Like
+Набережные Челны,coffee_like,пр-т Чулман 119В,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Мира 75 г,unknown,Coffee Like
+Набережные Челны,coffee_like,набережная Тукая 10-64,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Сююмбике 40,unknown,Coffee Like
+Набережные Челны,coffee_like,бул. Энтузиастов 16,unknown,Coffee Like
+Набережные Челны,coffee_like,ул. Раскольникова 68в,unknown,Coffee Like
+Набережные Челны,coffee_like,наб. Комсомольская 125а,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Московский 128 а,unknown,Coffee Like
+Набережные Челны,coffee_like,бульвар Энтузиастов 3,unknown,Coffee Like
+Набережные Челны,coffee_like,просп. Яшьлек 14,unknown,Coffee Like
+Набережные Челны,coffee_like,ул. Академика Королева 11А,unknown,Coffee Like
+Нижнекамск,coffee_like,просп. Химиков 18,unknown,Coffee Like
+Нижнекамск,coffee_like,ул. Баки Урманче 15,unknown,Coffee Like
+Нижнекамск,coffee_like,просп. Химиков 49,unknown,Coffee Like
+Нижнекамск,coffee_like,просп. Мира 45 а,unknown,Coffee Like
+Пермь,coffee_like,ул. Спешилова 114,unknown,Coffee Like
+g. Naberezhnyye Chelny,lukoil,Russia The Republic of Tatarstan g. Naberezhnyye Chelny prosp. Kazanskiy shosse M-7 ,unknown,AZS No16255
+g. Naberezhnyye Chelny,lukoil,Russia The Republic of Tatarstan g. Naberezhnyye Chelny ul. Mashinostroitelnaya 116,unknown,AZS No 16203 
+Naberezhnyye Chelny,lukoil,Russia 423800 The Republic of Tatarstan Naberezhnyye Chelny prospect KamAZa st. 18,unknown,АЗС № 16086
+unknown,lukoil,Russia 427880 Republic of Udmurtia Alnashskiy area Staraya Yumya st. Tsentralnaya 47,unknown,AZS No 84 (18084)
+Kazanʹ,lukoil,Russia 420054 The Republic of Tatarstan Kazanʹ st. Teхnicheskaya 23,unknown,AZS № 16020
+Alʹmetʹevsk,lukoil,Russia   The Republic of Tatarstan 37,unknown,AZS No16122
+Naberezhnye Chelny,lukoil,Russia 423800 The Republic of Tatarstan Naberezhnye Chelny st. Metallurgicheskaya,unknown,AZS No16059
+Kazanʹ,lukoil,Russia 420054 The Republic of Tatarstan Kazanʹ Tulʹskaya 56k3,unknown,AZS № 16113
+Kazan,lukoil,Russia 421001 The Republic of Tatarstan Kazan Fatykha Amirkhana st. 1D,unknown,AZS No 16115
+Kazan,lukoil,Russia 420083 The Republic of Tatarstan Kazan Mamadyshskiy Trakt st. 167,unknown,AZS No 16120
+unknown,lukoil,Russia 422580 The Republic of Tatarstan area Verkhneuslonskiy Oktyabrskiy territoriya Federalnaya avtomobilnaya road R-241  Kazan-Buinsk-Ulyanovsk 53,unknown,AZS No 16119
+Kazanʹ,lukoil,Russia 420000 The Republic of Tatarstan Kazanʹ Adelya Kutuya 98,unknown,AZS No16112
+Nizhnekamsk,lukoil,Russia 423570 The Republic of Tatarstan Nizhnekamsk promzona area 2040,unknown,AZS No16114
+unknown,lukoil,Russia 422718 The Republic of Tatarstan Vysokogorskiy area Promyshlennaya zona Biyektau M7 15,unknown,AZS № 16118
+unknown,lukoil,Russia 422096 The Republic of Tatarstan Tyulyachinskiy area Highway of federal significance M7 Volga 897 km 2,unknown,AZS №16098
+Naberezhnye Chelny,lukoil,Russia 423800 The Republic of Tatarstan Naberezhnye Chelny Alʹmetʹevskii traki v areae sushchestvuyushchyei AGZS,unknown,AZS No16111
+Kazanʹ,lukoil,Russia 420010 The Republic of Tatarstan Kazanʹ st. Khusaina Mavlyutova 50a,unknown,AZS No16110
+Kazanʹ,lukoil,Russia 420025 The Republic of Tatarstan Kazanʹ st. Pobedy prospect 200a,unknown,AZS No16109
+unknown,lukoil,Russia 422667 The Republic of Tatarstan Rybno-Slobodskiy area Alan-Polyan Lenina st. 9,unknown,AZS No16097
+Kazan,lukoil,Russia 420133 The Republic of Tatarstan Kazan Gavrilova 19,unknown,AZS No16116
+Kazan,lukoil,Russia 420132 The Republic of Tatarstan Kazan Aviastoritelnyj area Mihaila Milya st. 61 а,unknown,AZS №16095
+Alʹmetʹevsk,lukoil,Russia 423458 The Republic of Tatarstan Alʹmetʹevsk st. Bazovaya 48,unknown,AZS No16094
+Kazanʹ,lukoil,Russia 420036 The Republic of Tatarstan Kazanʹ st. Tetsevskaya 11a,unknown,AZS No16093
+Chistopol'skiy Rayon,lukoil,Russia 420000 The Republic of Tatarstan r-n Chistopolskiy s.p. Tatarsko-Sarsazskoye ter. AZS No16078 zd. 8,unknown,AZS No 16078
+Naberezhnyye Chelny,lukoil,Russia 423800 The Republic of Tatarstan Naberezhnyye Chelny Mashinostroitelnaya 116,unknown,AZS No01-FR Uralnefteprodukt
+Naberezhnye Chelny,lukoil,Russia 423800 The Republic of Tatarstan Naberezhnye Chelny st. Menzelinskaya 133,unknown,AZS No90-U (16090)
+Kazan,lukoil,Russia 420087 The Republic of Tatarstan Kazan st. Rodina 7 A,unknown,AZS №88-U (16088)
+unknown,lukoil,Russia 420000 The Republic of Tatarstan Vysokogorskiy AZS No16066 1,unknown,AZS No66-U (16066)
+unknown,lukoil,Russia 422591 The Republic of Tatarstan m.r-n Verkhneuslonskiy  s.p. Vvedensko-Slobodskoye s. Vvedenskaya Sloboda ter. obsluzhivaniye avtotransporta soor. 1,unknown,AZS No56-U (16056)
+g. Naberezhnyye Chelny,lukoil,Russia 423806 The Republic of Tatarstan g. Naberezhnyye Chelny pr. Kazanskiy zd. 156,unknown,AZS No54 (16054)
+Bugulʹma,lukoil,Russia 423231 The Republic of Tatarstan Bugulʹma Bavlinskii vyezd,unknown,AZS No36 (16036)
+Nizhnekamsk,lukoil,Russia 423570 The Republic of Tatarstan Nizhnekamsk st. Aхtubinskaya 3/1,unknown,AZS No49 (16049)
+unknown,lukoil,Russia 422788 The Republic of Tatarstan Staroye Shigaleyevo 34 km road Kazan-Shemordan,unknown,AZS No a1685-U (16085)
+unknown,lukoil,"Russia 423600 The Republic of Tatarstan road M-7 ""Volga"" 1030 km ",unknown,AZS No104 (16104)
+unknown,lukoil,"Russia 422594 The Republic of Tatarstan Naberezhno-Morkvashskoye 772 km road M-7 ""Volga""
+",unknown,AZS No105 (16105)
+unknown,lukoil,"Russia 423600 The Republic of Tatarstan road M-7 ""Volga"" 1029km",unknown,AZS No9-U (16009)
+"g.o. Kazan, g. Kazan",lukoil,Russia 420061 The Republic of Tatarstan g.o. Kazan g. Kazan ul. Kosmonavtov soor. 48A,unknown,AZS No1 (16001)
+Leninogorsk,lukoil,Russia 423250 The Republic of Tatarstan Leninogorsk st. Chaikovskogo 17а,unknown,AZS No102 (16102)
+Bavly,lukoil,Russia 423930 The Republic of Tatarstan Bavly st. Saidasheva 27,unknown,AZS No101 (16101)
+Aznakaevo,lukoil,Russia 423330 The Republic of Tatarstan Aznakaevo area parka Tarsuz,unknown,AZS No39 (16039)
+Bugulʹma,lukoil,Russia 423235 The Republic of Tatarstan Bugulʹma st. Vladimira Lenina 127a,unknown,AZS №40 (16040)
+unknown,wildberries,г. Альметьевск (Республика Татарстан) улица Тимирязева д. 15,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) улица Пушкина д. 16/2,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) проспект Ямашева д. 29,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан Бугульма улица Мусы Джалиля 41,unknown,Wildberries
+unknown,wildberries,г. Альметьевск (Республика Татарстан) улица Ленина д. 141Б,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) улица Максимова д. 33,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) улица Шаляпина д. 14/83,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) улица Галимджана Баруди д. 18,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г. Набережные Челны (Республика Татарстан) пр. Дружбы Народов  д. 1,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г. Набережные Челны (Республика Татарстан) улица Академика Рубаненко д. 6,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) улица Академика Сахарова д. 27А,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г. Набережные Челны (Республика Татарстан) проспект Мусы Джалиля д. 74,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) Гвардейская улица 56А,unknown,Wildberries
+unknown,wildberries,г. Альметьевск (Республика Татарстан) улица Белоглазова д. 131,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань Меридианная улица 10,unknown,Wildberries
+unknown,wildberries,г. Нижнекамск (Республика Татарстан) улица Гагарина д. 34А,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) проспект Победы д. 46,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Воровского 21,unknown,Wildberries
+unknown,wildberries,г. Нижнекамск (Республика Татарстан) Корабельная улица д. 20,unknown,Wildberries
+unknown,wildberries,г. Елабуга (Республика Татарстан) проспект Мира д. 34,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) улица Нигматуллина д. 11/84,unknown,Wildberries
+unknown,wildberries,г. Нижнекамск (Республика Татарстан) проспект Вахитова д. 23,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,г. Зеленодольск (Республика Татарстан) улица Татарстан д. 8,unknown,Wildberries
+Bavlinskiy Rayon,wildberries,г. Бавлы (Республика Татарстан) площадь Октября д. 4,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г. Набережные Челны (Республика Татарстан) Автозаводский проспект д. 59А,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) проспект Ямашева д. 49,unknown,Wildberries
+unknown,wildberries,г. Альметьевск (Республика Татарстан) улица Ризы Фахретдина д. 37А,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,г. Чистополь (Республика Татарстан) Часовая улица д. 1,unknown,Wildberries
+unknown,wildberries,г. Менделеевск (Республика Татарстан) Советская улица д. 8,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,г. Бугульма (Республика Татарстан) Октябрьская улица д. 8,unknown,Wildberries
+Arskiy Rayon,wildberries,г. Арск (Республика Татарстан) Большая улица д. 3,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Габдуллы Тукая 57,unknown,Wildberries
+unknown,wildberries,г. Буинск (Республика Татарстан) улица К. Маркса д. 74/67,unknown,Wildberries
+unknown,wildberries,г. Заинск (Республика Татарстан) улица Тукая д. 2,unknown,Wildberries
+unknown,wildberries,г. Лениногорск (Республика Татарстан) улица Гагарина д. 33,unknown,Wildberries
+unknown,wildberries,г. Казань (Республика Татарстан) улица Салиха Батыева д.15,unknown,Wildberries
+unknown,wildberries,г. Мензелинск (Республика Татарстан) улица Чернышевского д. 21А,unknown,Wildberries
+unknown,wildberries,г. Агрыз (Республика Татарстан) Октябрьская улица д. 13,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Кукмор улица Ленина 11,unknown,Wildberries
+unknown,wildberries,г. Мамадыш (Республика Татарстан) улица Карла Маркса д. 27,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Профессора Камая 8А,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) улица Аделя Кутуя д. 54,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Республика Татарстан) улица Азата Аббасова д. 12,unknown,Wildberries
+unknown,wildberries,г Казань (Респ Татарстан) Горьковское шоссе 33,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г. Набережные Челны (Республика Татарстан) Фоменко пр-кт д. 20/3,unknown,Wildberries
+Gorod Kazan',wildberries,г. Казань (Респ Татарстан) Рауиса Гареева  92,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,посёлок городского типа Васильево (Республика Татарстан) улица Дзержинского д. 1к3,unknown,Wildberries
+unknown,wildberries,г. Нижнекамск (Респ Татарстан) проспект Химиков 50Б,unknown,Wildberries
+unknown,wildberries,пгт. Камские Поляны (Респ Татарстан) микрорайон  1/02,unknown,Wildberries
+unknown,wildberries,г. Тетюши (Респ Татарстан) ул. Свердлова 79,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Юлиуса Фучика 123,unknown,Wildberries
+Alekseyevskiy Rayon,wildberries,Алексеевское Советская 9,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны (Респ Татарстан) Академика Королева 25Б,unknown,Wildberries
+unknown,wildberries,г Нурлат (Россия Респ Татарстан р-н Нурлатский) Ленинградская 1,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань (Россия Респ Татарстан) Баки Урманче 5,unknown,Wildberries
+Aznakayevskiy Rayon,wildberries,г Азнакаево (Респ Татарстан) Хасаншиной 21Б,unknown,Wildberries
+Gorod Kazan',wildberries,Казань (Республика Татарстан) проспект Победы 139Ак1,unknown,Wildberries
+unknown,wildberries,г Казань (Россия Респ Татарстан) улица Рихарда Зорге 100,unknown,Wildberries
+unknown,wildberries,г Казань (Респ Татарстан) Советская улица 2/14,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Республика Татарстан Чистополь улица 40 лет Победы 4В,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Республика Татарстан городской округ Набережные Челны улица Раскольникова 29,unknown,Wildberries
+unknown,wildberries,г Альметьевск (Республика Татарстан) Советская улица 156А,unknown,Wildberries
+unknown,wildberries,Болгар (Республика Татарстан Спасский район) улица Шеронова 21,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Павлюхина 128,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,г Чистополь (Республика Татарстан) улица Ленина 59,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Респ Татарстан Московский проспект 154,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Адоратского 12Б,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,Республика Татарстан Зеленодольск Столичная улица 25А,unknown,Wildberries
+unknown,wildberries,Елабуга Республика Татарстан Елабужский район проспект Нефтяников 11,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Сабан 7Б,unknown,Wildberries
+unknown,wildberries,г Высокая Гора (Республика Татарстан) Большая Красная улица 94Б,unknown,Wildberries
+unknown,wildberries,г Казань (Республика Татарстан) улица Андрея Адо 16,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Лукина 48Ж,unknown,Wildberries
+unknown,wildberries,Лаишево (Республика Татарстан) улица Чернышевского 26А,unknown,Wildberries
+Aktanyshskiy Rayon,wildberries,Республика Татарстан село Актаныш проспект Ленина 36А,unknown,Wildberries
+unknown,wildberries,г Нижнекамск (Республика Татарстан) проспект Строителей 51,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань (Республика Татарстан) улица Мусина 69к2,unknown,Wildberries
+unknown,wildberries,Альметьевск Республика Татарстан Альметьевский район улица Шевченко 68,unknown,Wildberries
+unknown,wildberries,Рыбная Слобода (Республика Татарстан) улица Ленина 81,unknown,Wildberries
+unknown,wildberries,г Казань (Республика Татарстан) улица Наиля Юсупова 9 ,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны проспект Вахитова 27,unknown,Wildberries
+unknown,wildberries,г Заинск (Респ Татарстан) улица Никифорова 62,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Казань Парковая улица 7,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань (Респ Татарстан) улица Лейтенанта Шмидта 3/15,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Волкова 60/12,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Гидростроителей 14,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Космонавтов 8,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Юлиуса Фучика 106,unknown,Wildberries
+unknown,wildberries,д Куюки Улица 30-Й Квартал 114,unknown,Wildberries
+unknown,wildberries,г Казань Революционная Улица 43/19,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Академика Глушко 22б,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,г Бугульма Улица Мусы Джалиля 22,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Сююмбике 66,unknown,Wildberries
+unknown,wildberries,г Лениногорск Проспект Шашина 26а,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Аделя Кутуя 8а,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Виктора Полякова 12б,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Хайдара Бигичева 22,unknown,Wildberries
+unknown,wildberries,с Осиново Улица Гайсина 2б,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Бигаш 131,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Симонова 14/41,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,г Зеленодольск Улица Комарова 31а,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Серова 29,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Татарстан 24б,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны 17-Й Комплекс 14,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны 60-Й Комплекс 4,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Проспект Победы 100,unknown,Wildberries
+unknown,wildberries,г Менделеевск Профсоюзная Улица 7,unknown,Wildberries
+unknown,wildberries,г Казань 2-Я Старо-Аракчинская Улица 41б,unknown,Wildberries
+unknown,wildberries,д Царево Улица Петра Гаврилова 30,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Зур Урам 1к,unknown,Wildberries
+unknown,wildberries,г Казань Улица Фикрята Табеева 3,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Республика Татарстан городской округ Казань улица Олега Кошевого 16,unknown,Wildberries
+unknown,wildberries,с Усады Счастливая Улица 11,unknown,Wildberries
+unknown,wildberries,с Усады Сиреневая Улица 8,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Белинского 5,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Россия Респ Татарстан г Набережные Челны Улица Раскольникова 79а,unknown,Wildberries
+unknown,wildberries,пгт Уруссу Улица Мусы Джалиля 11,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Вишневского 57,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Сююмбике 29,unknown,Wildberries
+unknown,wildberries,с Пестрецы Казанская Улица 15е,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Казань Зилантовская улица 18,unknown,Wildberries
+unknown,wildberries,г Лениногорск Ленинградская Улица 30,unknown,Wildberries
+unknown,wildberries,г Нурлат Улица Имени А.К. Самаренкина 18,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Максимова 3,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Волгоградская Улица 12,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Маршала Чуйкова 75,unknown,Wildberries
+unknown,wildberries,г Альметьевск (Респ Татарстан) ул Ленина д 123 ,unknown,Wildberries
+unknown,wildberries,г Казань Улица Нурихана Фаттаха 19,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Разведчика Ахмерова 7,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Хасана Туфана 34,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Республика Татарстан Набережные Челны 37-й комплекс 8,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Респ Татарстан Набережночелнинский проспект 9а,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Амирхана Еники 3,unknown,Wildberries
+unknown,wildberries,с Сокуры Улица Державина 29,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Максимова 45а,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Ноксинский Спуск 1,unknown,Wildberries
+unknown,wildberries,с Новое Шигалеево Улица Габдуллы Тукая 11,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Республика Татарстан Набережные Челны улица Шамиля Усманова 3Е,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Даурская Улица 40,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Сибирский Тракт 16,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Раскольникова 25,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Фатыха Амирхана 85,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Проспект Ямашева 48в,unknown,Wildberries
+unknown,wildberries,г Елабуга Улица Автомобилистов 4,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Респ Татарстан Набережные Челны 54-й комплекс 1,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань 2-Я Юго-Западная Улица 11,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Александра Курынова 10к3,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Республика Татарстан городской округ Казань улица Декабристов 185,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан Бугульма улица Газинура Гафиатуллина 42,unknown,Wildberries
+unknown,wildberries,Лениногорск Респ Татарстан Лениногорский р-н Чайковского 18,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Ноксинский Спуск 20,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Сибирский Тракт 78,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Республика Татарстан городской округ Казань проспект Ямашева 28А,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Карбышева 50,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Аделя Кутуя 3,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Респ Татарстан Авангардная улица 155,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Голубятникова 9,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Габдуллы Кариева 6,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,г Зеленодольск Улица Комарова 6а,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны 25-Й Комплекс 9,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Респ Татарстан Шишкинский бульвар 4А,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Николая Мальнева 3,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Казань улица Салиха Батыева 5,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Мира 99б,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Республика Татарстан городской округ Казань проспект Победы 226А,unknown,Wildberries
+unknown,wildberries,г Казань Дубравная Улица 43а,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Азата Аббасова 13,unknown,Wildberries
+unknown,wildberries,г Казань Улица Ильича 21,unknown,Wildberries
+unknown,wildberries,г Казань Улица Сафиуллина 30,unknown,Wildberries
+unknown,wildberries,г Елабуга Улица Болгар 2,unknown,Wildberries
+unknown,wildberries,Казань Республика Татарстан городской округ Казань улица Академика Завойского 13,unknown,Wildberries
+unknown,wildberries,Альметьевск Республика Татарстан Альметьевский район Девонская улица 97,unknown,Wildberries
+unknown,wildberries,г Казань Светлая Улица 24/26,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,г Зеленодольск Улица Ленина 17,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Батыршина 23а,unknown,Wildberries
+unknown,wildberries,г Казань Улица Наиля Юсупова 4,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Проспект Ибрагимова 61,unknown,Wildberries
+unknown,wildberries,Лениногорск Респ Татарстан Лениногорский р-н улица Добролюбова 7,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Фатыха Амирхана 21,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Волочаевская Улица 6,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Энергетиков 3,unknown,Wildberries
+unknown,wildberries,г Лениногорск Проспект Шашина 76,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Баки Урманче 8,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Академика Парина 22,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Товарищеская Улица 25,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Адоратского 13,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Ахметшина 108,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Татарстан 49а,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,г Зеленодольск Проспект Строителей 26,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Братьев Касимовых 22/7,unknown,Wildberries
+unknown,wildberries,г Казань Улица Сельхозтехника 1,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Чистопольская Улица 26/5,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Чулман 57,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,г Зеленодольск Улица Ленина 55,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань Чистопольская улица 66,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Агрыз улица Гагарина 7,unknown,Wildberries
+unknown,wildberries,с Высокая Гора Дальняя Улица 73,unknown,Wildberries
+unknown,wildberries,Казань Респ Татарстан улица Кул Гали 24,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,г Бугульма Улица Газинура Гафиатуллина 45,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Проспект Ямашева 83а,unknown,Wildberries
+unknown,wildberries,Мамадыш Республика Татарстан Мамадышский район улица Тукая 32,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны 18-Й Комплекс 45а,unknown,Wildberries
+unknown,wildberries,г Нурлат Улица Салимжанова 13,unknown,Wildberries
+unknown,wildberries,г Казань Проспект Ильгама Шакирова 5,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Хусаина Мавлютова 17б,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Батенчука 15,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Горсоветская Улица 17к2,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Республика Татарстан Чистопольский район улица 40 лет Победы 32Е,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Проспект Победы 178б,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Беломорская Улица 6,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Фатыха Амирхана 41,unknown,Wildberries
+unknown,wildberries,Заинск Республика Татарстан Заинский район проспект Победы 1/02А,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,г Зеленодольск Комсомольская Улица 21,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Космонавтов 51,unknown,Wildberries
+unknown,wildberries,с Песчаные Ковали Октябрьская Улица 58,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Хусаина Мавлютова 42,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Проспект Строителей 66,unknown,Wildberries
+unknown,wildberries,Республика Татарстан село Муслюмово Кооперативная улица 72,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Проспект Химиков 86,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Улица Бызова 8,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Улица Сююмбике 74,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Нурсултана Назарбаева 45а,unknown,Wildberries
+unknown,wildberries,п Шигали Лесная Улица 134,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Ивана Новикова 1лит1,unknown,Wildberries
+unknown,wildberries,г Казань Улица Кул Гали 14,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Юлиуса Фучика 88а,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,г Чистополь Улица Мира 36а,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Альметьевск проспект Строителей 80,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Улица Чишмале 5а,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Восстания 14/4,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Гарифа Ахунова 16,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Хусаина Мавлютова 17ек3,unknown,Wildberries
+Baltasinskiy Rayon,wildberries,пгт Балтаси Улица Космонавтов 1,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,д Старые Ерыклы Улица Дуслык 22а,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Галии Кайбицкой 15,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Академика Сахарова 15,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,г Бугульма Улица Феликса Дзержинского 1,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Виктора Полякова 2а,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Павлюхина 102а,unknown,Wildberries
+unknown,wildberries,г Елабуга Улица Марджани 28,unknown,Wildberries
+unknown,wildberries,г Казань Улица Халезова 3,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Проспект Химиков 23,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Маршала Чуйкова 69,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Галии Кайбицкой 1,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Республика Татарстан Набережные Челны проспект Яшьлек 8А,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Белоглазова 113,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Ново-Давликеевская Улица 2е,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Бульвар Галиаскара Камала 8а,unknown,Wildberries
+unknown,wildberries,пгт Камское Устье Улица Карла Маркса 83а,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань Тэцевская улица 4Б,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Проспект Мира 61в,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Проспект Строителей 57а,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Проспект Вахитова 16в,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Сулеймановой 20,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Мира 33,unknown,Wildberries
+unknown,wildberries,пгт Аксубаево Октябрьская Улица 6а,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны 11-Й Комплекс 28,unknown,Wildberries
+unknown,wildberries,г Казань Улица Гудованцева 15,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Спартаковская Улица 88б,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан Бугульма 1-й переулок 6,unknown,Wildberries
+unknown,wildberries,г Иннополис Спортивная Улица 130,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Галимджана Баруди 5,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Короленко 113,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Проспект Шинников 65,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны 21-Й Комплекс 21/16,unknown,Wildberries
+unknown,wildberries,г Казань Улица Комиссара Габишева 2,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Чистопольская Улица 85,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан Бугульма улица Михаила Калинина 34,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Хусаина Мавлютова 41,unknown,Wildberries
+unknown,wildberries,г Казань Советская Улица 25,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Гагарина 14,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,г Чистополь Улица Энгельса 107,unknown,Wildberries
+Aznakayevskiy Rayon,wildberries,Республика Татарстан Азнакаево улица Ленина 12,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Проспект Победы 35б,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Четаева 46,unknown,Wildberries
+Apastovskiy Rayon,wildberries,пгт Апастово Улица Ленина 100,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Сармановский Тракт 49,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Корабельная Улица 52а,unknown,Wildberries
+unknown,wildberries,пгт Джалиль Улица Ленина 1,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Кукмор улица Ленина 71,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан г Бугульма Улица Тукая 68,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Гидростроителей 26,unknown,Wildberries
+unknown,wildberries,с Шемордан Улица Горького 1,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Чистопольская Улица 61а,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Проспект Строителей 32,unknown,Wildberries
+unknown,wildberries,с Верхний Услон Улица Чехова 33б,unknown,Wildberries
+unknown,wildberries,с Яльчики Улица Иванова 13,unknown,Wildberries
+Bavlinskiy Rayon,wildberries,Бавлы Респ Татарстан Бавлинский р-н улица Горького 3,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Елабуга Интернациональная улица 2А,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Мира 50/15,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Чапаева 26,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Бондаренко 23,unknown,Wildberries
+unknown,wildberries,с Тюлячи Улица Фатыха Хусни 6б,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Ленина 36,unknown,Wildberries
+unknown,wildberries,с Высокая Гора Молодёжная Улица 41а,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Московский Проспект 130в,unknown,Wildberries
+unknown,wildberries,г Мамадыш Улица Давыдова 160,unknown,Wildberries
+unknown,wildberries,пгт Богатые Сабы Улица Строителей 7,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,г Зеленодольск Улица Сайдашева 11б,unknown,Wildberries
+unknown,wildberries,г Казань Улица Восстания 129,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Натана Рахлина 1,unknown,Wildberries
+Alekseyevskiy Rayon,wildberries,Республика Татарстан посёлок городского типа Алексеевское улица Ленина 73А,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,г Бугульма Улица Газинура Гафиатуллина 23,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Ленина 106,unknown,Wildberries
+unknown,wildberries,с Новошешминск Улица Ленина 27,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Чулман 10в,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Копылова 12,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Гафиатуллина 9,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Улица Виктора Полякова 6,unknown,Wildberries
+Aznakayevskiy Rayon,wildberries,г Азнакаево Улица Султангалиева 28а,unknown,Wildberries
+unknown,wildberries,г Казань Улица Сабит 15,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Мензелинск улица Изыскателей 3/19А,unknown,Wildberries
+unknown,wildberries,с Богородское Центральная Улица 1г,unknown,Wildberries
+unknown,wildberries,г Лениногорск Улица Куйбышева 43,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Декабристов 113,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Казань Приволжская улица 102к2,unknown,Wildberries
+Aznakayevskiy Rayon,wildberries,г Азнакаево Улица Ленина 3а,unknown,Wildberries
+unknown,wildberries,г Нижнекамск Улица Сююмбике 44,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны Проспект Дружбы Народов 9б,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Республика Татарстан Набережные Челны проспект Раиса Беляева 12Д,unknown,Wildberries
+unknown,wildberries,пгт Нижняя Мактама Промышленная Улица 3,unknown,Wildberries
+unknown,wildberries,с Габишево Яблоневая Улица 1г,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Мазита Гафури 7,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Пионерская Улица 19,unknown,Wildberries
+Aznakayevskiy Rayon,wildberries,г Азнакаево Улица Ленина 35,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Курская Улица 27,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Ленина 201,unknown,Wildberries
+unknown,wildberries,с Старое Дрожжаное Улица Дзержинского 6,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Болотникова 11/1,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Академика Глушко 15,unknown,Wildberries
+unknown,wildberries,г Альметьевск Улица Ленина 195,unknown,Wildberries
+Gorod Kazan',wildberries,г Казань Улица Марселя Салимжанова 19,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Столярова 19,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,Зеленодольск Улица Карла Маркса 46,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Шамиля Усманова 13,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Даурская Улица 44д,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Улица Карла Маркса 30,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Магистральная Улица 77к2,unknown,Wildberries
+unknown,wildberries,г Казань Улица Сафиуллина 27а,unknown,Wildberries
+unknown,wildberries,г Казань Улица Ярышлар 2,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,г Бугульма Улица Михаила Тухачевского 12,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Вересаева 2а,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Аксубаево Октябрьская Улица 9,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Сармановский Тракт 17а,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Шевченко 114,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Академика Лаврентьева 10,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,пгт Васильево Школьная Улица 2,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Адмиралтейская Улица 3к1,unknown,Wildberries
+unknown,wildberries,Нижнекамск Улица Бызова 30,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Братьев Касимовых 48а,unknown,Wildberries
+unknown,wildberries,Нижнекамск Проспект Мира 8а,unknown,Wildberries
+unknown,wildberries,Елабуга Улица Баки Урманче 17,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Минская Улица 16а,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Улица Аркылы 19,unknown,Wildberries
+unknown,wildberries,Казань Улица Братьев Батталовых 20к1,unknown,Wildberries
+unknown,wildberries,Казань Дубравная Улица 31,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Маршала Чуйкова 55,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан Бугульма Советская улица 140А,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Степана Халтурина 8/20,unknown,Wildberries
+Aznakayevskiy Rayon,wildberries,Республика Татарстан Азнакаево улица Ленина 19,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Казань Каштановая улица 19,unknown,Wildberries
+unknown,wildberries,Казань Улица Кул Гали 7бк2,unknown,Wildberries
+Bavlinskiy Rayon,wildberries,Республика Татарстан Бавлы улица Салиха Сайдашева 11Б,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Проспект Альберта Камалеева 32,unknown,Wildberries
+unknown,wildberries,Казань Улица Юлиуса Фучика 14,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Тетюши Южная улица 23А,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Буинск улица Ефремова 132,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Альметьевск улица Тельмана 60,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Вересаева 24а,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Нижнекамск улица Юности 16А,unknown,Wildberries
+unknown,wildberries,село Осиново Улица 40-Летия Победы 14,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Болгар Советская улица 26А,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан Бугульма улица Ленина 47,unknown,Wildberries
+unknown,wildberries,деревня Чернышевка Центральная Улица 7,unknown,Wildberries
+Aznakayevskiy Rayon,wildberries,Республика Татарстан посёлок городского типа Актюбинский улица Губкина 40А,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Родины 24г,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан Бугульма улица Насырова 2,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,Зеленодольск Улица Ленина 61,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 46-Й Комплекс 10в,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Республика Татарстан Бугульма улица Мусы Джалиля 62,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Фатыха Амирхана 95,unknown,Wildberries
+unknown,wildberries,Елабуга Улица Максима Горького 107г,unknown,Wildberries
+unknown,wildberries,Нижнекамск Проспект Шинников 33а,unknown,Wildberries
+unknown,wildberries,село Шугурово Улица Ленина 26,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Рыжикова 2а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Краснококшайская Улица 84бк2,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Ризы Фахретдина 26,unknown,Wildberries
+unknown,wildberries,Казань Улица Виктора Сажинова 6/9,unknown,Wildberries
+unknown,wildberries,коттеджный посёлок Лесная Поляна Малый Переулок 2,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Четаева 43а,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Казань Залесная улица 30,unknown,Wildberries
+unknown,wildberries,посёлок железнодорожной станции Высокая Гора Станционная Улица 3,unknown,Wildberries
+unknown,wildberries,Елабуга Проспект Мира 10а,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Проспект Сююмбике 21,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Академика Кирпичникова 17,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Проезд Созидателей 13,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Амирхана Еники 8,unknown,Wildberries
+unknown,wildberries,Елабуга Проспект Мира 19,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 35-Й Комплекс 6/3,unknown,Wildberries
+unknown,wildberries,Нижнекамск Проспект Химиков 1,unknown,Wildberries
+unknown,wildberries,деревня Куюки Олимпийская Улица 8,unknown,Wildberries
+unknown,wildberries,Нижнекамск Проспект Строителей 29а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Хайдара Бигичева 35,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Гафиатуллина 29а,unknown,Wildberries
+unknown,wildberries,село Сарманово Улица Ленина 49,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 53-Й Комплекс 38,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Закиева 5,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Республика Татарстан Набережные Челны проспект Дружбы Народов 28А,unknown,Wildberries
+unknown,wildberries,Менделеевск Улица Тукая 2,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Мусина 1,unknown,Wildberries
+unknown,wildberries,Агрыз Казанская Улица 77,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 17-Й Комплекс 3,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Бугульма Советская Улица 45,unknown,Wildberries
+unknown,wildberries,Нижнекамск Улица 30 Лет Победы 4,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Менделеевск улица Бурмистрова 8,unknown,Wildberries
+unknown,wildberries,Нижнекамск Проспект Мира 48,unknown,Wildberries
+unknown,wildberries,Нижнекамск Проспект Химиков 53,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Аметьевская Магистраль 18к5,unknown,Wildberries
+unknown,wildberries,Нижнекамск Советская Улица 9б,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Мира 64к2,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Азата Аббасова 21,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Чистопольская Улица 73,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Улица Маршала Жукова 34,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Уруссу Уруссинская Улица 52к3,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,Зеленодольск Улица Комарова 40,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Проспект Сююмбике 59,unknown,Wildberries
+unknown,wildberries,Елабуга Улица Гассара 12,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Республика Татарстан Набережные Челны проспект Чулман 67,unknown,Wildberries
+unknown,wildberries,Нурлат Заводская Улица 14б,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Бугульма Улица Ленина 124,unknown,Wildberries
+Gorod Kazan',wildberries,Казань 2-Я Даурская Улица 5,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Гвардейская Улица 35,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Улица Карла Маркса 164м,unknown,Wildberries
+unknown,wildberries,Лениногорск Улица Вахитова 5,unknown,Wildberries
+unknown,wildberries,Республика Татарстан посёлок городского типа Карабаш Советская улица 158,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Нижние Вязовые Улица Куйбышева 73а,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Улица Ленина 15,unknown,Wildberries
+Alekseyevskiy Rayon,wildberries,Республика Татарстан посёлок городского типа Алексеевское улица Казакова 9А,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,Республика Татарстан посёлок городского типа Васильево улица Ленина 4,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Гаврилова 54/2,unknown,Wildberries
+unknown,wildberries,Лениногорск Ленинградская Улица 48,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Улица Виктора Полякова 15,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Заинск улица Толстого 54,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,г Набережные Челны 45-Й Комплекс 4,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Улица Циолковского 18,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Строителя 1,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,посёлок совхоза Татарстан Мало-Садовый Переулок 1а,unknown,Wildberries
+unknown,wildberries,Нижнекамск Корабельная Улица 45а,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Казань улица Рахимова 8к15,unknown,Wildberries
+unknown,wildberries,село Кульшарипово Советская Улица 38,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Оренбургский Тракт 24а,unknown,Wildberries
+unknown,wildberries,Удмуртская Республика село Уром улица Азина 14,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Улица Александра Грина 13а,unknown,Wildberries
+unknown,wildberries,село Танайка Улица Шишкина 20,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Рауиса Гареева 102к1,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Куйбышевский Затон Улица Куйбышева 15а,unknown,Wildberries
+Baltasinskiy Rayon,wildberries,посёлок городского типа Балтаси Улица Зои Космодемьянской уч1а,unknown,Wildberries
+Arskiy Rayon,wildberries,Арск Улица Вагизовых 3,unknown,Wildberries
+unknown,wildberries,Казань Интернациональная Улица 9ак3,unknown,Wildberries
+unknown,wildberries,село Большая Атня Улица Коммунаров 7а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Шамиля Усманова 32,unknown,Wildberries
+unknown,wildberries,село Бетьки Улица Гагарина 53,unknown,Wildberries
+unknown,wildberries,село Новые Параты Центральная Улица 5,unknown,Wildberries
+unknown,wildberries,деревня Куюки 3-Й Квартал 1а,unknown,Wildberries
+Bugul'minskiy Rayon,wildberries,Бугульма Улица Николая Островского 20,unknown,Wildberries
+unknown,wildberries,село Билярск Улица Ленина 4,unknown,Wildberries
+unknown,wildberries,село Бело-Безводное Дорожная Улица 22а,unknown,Wildberries
+unknown,wildberries,село Новое Шигалеево Улица Фёдора Шаляпина 12,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Нурлат Красноармейская улица 63А,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Юлиуса Фучика 94,unknown,Wildberries
+unknown,wildberries,село Русский Акташ Комсомольская Улица 13,unknown,Wildberries
+unknown,wildberries,село Муслюмово Кооперативная Улица 225а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Академика Королёва 24/30,unknown,Wildberries
+unknown,wildberries,село Базарные Матаки Улица Крайнова 69а,unknown,Wildberries
+Aktanyshskiy Rayon,wildberries,село Актаныш Юбилейная Улица 84/3,unknown,Wildberries
+unknown,wildberries,село Русское Макулово Молодёжная Улица 6,unknown,Wildberries
+unknown,wildberries,Елабуга Проспект Нефтяников 68,unknown,Wildberries
+Gorod Kazan',wildberries,село Семиозёрка Берёзовая Улица 4а,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Шевченко 176,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,Зеленодольск Улица Рогачёва 10,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Мидхата Булатова 5,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Александра Курынова 4к4,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Академика Павлова 10,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Хади Такташа 119,unknown,Wildberries
+Aznakayevskiy Rayon,wildberries,Азнакаево Улица Шайхутдинова 8а,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Клары Цеткин 36а,unknown,Wildberries
+unknown,wildberries,село Введенская Слобода Центральная Улица 69,unknown,Wildberries
+unknown,wildberries,село Пестрецы Улица Титова 27а,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Елабуга проспект Мира 53,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Хайдара Бигичева 2,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,деревня Малая Шильна Центральная Улица 3б,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,Зеленодольск Столичная Улица 16,unknown,Wildberries
+unknown,wildberries,село Шереметьевка Октябрьская Площадь 13,unknown,Wildberries
+unknown,wildberries,село Абдрахманово Советская Улица 73,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Елабуга улица Хирурга Нечаева 16А,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Республика Татарстан Набережные Челны улица Комарова 28,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Буинск улица Вахитова 54,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Гвардейская Улица 9а,unknown,Wildberries
+unknown,wildberries,Мензелинск Улица Изыскателей 2/10,unknown,Wildberries
+unknown,wildberries,посёлок Круглое Поле Улица Гагарина 4,unknown,Wildberries
+unknown,wildberries,село Осиново Улица Гайсина 4б,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Адоратского 4,unknown,Wildberries
+unknown,wildberries,Казань Улица Рихарда Зорге 82,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 41-Й Комплекс 3,unknown,Wildberries
+unknown,wildberries,Нижнекамск Корабельная Улица 11б,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Альметьевск улица Герцена 80Б,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Бульвар Галиаскара Камала 24б,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Азата Аббасова 3,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Парковый Переулок 6,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Пушкина 8,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Меховщиков 1,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Проспект Ямашева 54к3,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Четаева 35,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Оренбургский Тракт 138д,unknown,Wildberries
+unknown,wildberries,село Пановка Улица Крупской 50,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,село Кутлу-Букаш Улица Маяковского 25а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Восстания 111к1,unknown,Wildberries
+unknown,wildberries,Нурлат Нурлатская Улица 10,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Портовая Улица 37к2,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Улица Энгельса 51,unknown,Wildberries
+Bavlinskiy Rayon,wildberries,Республика Татарстан Бавлы улица Островского 12,unknown,Wildberries
+Gorod Kazan',wildberries,Республика Татарстан Казань улица Декабристов 85,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Нижняя Мактама Улица Гагарина 12а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Юлиуса Фучика 12в,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Аметьевская Магистраль 16к3,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Проспект Абдурахмана Абсалямова 21е,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Республика Татарстан Чистополь улица Курченко 61,unknown,Wildberries
+Zelenodol'skiy Rayon,wildberries,Зеленодольск Улица Бакы Урманче 9,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Маршала Чуйкова 66б,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Республика Татарстан Чистополь улица Академика Королёва 9,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Республика Татарстан Набережные Челны 20-й комплекс 5,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Богатые Сабы Улица Г. Закирова 74а,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Улица Энгельса 104,unknown,Wildberries
+unknown,wildberries,Казань Центральная Улица 8,unknown,Wildberries
+unknown,wildberries,село Малые Кабаны Центральная Улица 43,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Шевченко 154,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 28-Й Комплекс 2а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Чингиза Айтматова 13к2,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 52-Й Комплекс 20,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Маршала Чуйкова 25,unknown,Wildberries
+unknown,wildberries,село Высокая Гора Улица Ирека Миннахметова 3,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,село Новотроицкое Улица Ленина 19,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Улица Хади Такташа 51,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Соловецких Юнг 1,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Агрыз улица Карла Маркса 16,unknown,Wildberries
+unknown,wildberries,Казань Улица Абубекира Терегулова 14,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Николая Ершова 78,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Бухарская Улица 32к1,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Дорожная Улица 4/18,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Рауиса Гареева 107,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Республика Татарстан Чистополь улица Полющенкова 28В,unknown,Wildberries
+unknown,wildberries,Лениногорск Проспект Шашина 33,unknown,Wildberries
+unknown,wildberries,Республика Татарстан село Большое Афанасово Молодёжная улица 9,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Юнуса Аминова 2,unknown,Wildberries
+unknown,wildberries,Нижнекамск Проспект Мира 98,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Московский Проспект 74в,unknown,Wildberries
+unknown,wildberries,Республика Татарстан село Ленино-Кокушкино Центральная улица 21,unknown,Wildberries
+unknown,wildberries,Буинск Улица М. Джалиля 34,unknown,Wildberries
+unknown,wildberries,Нижнекамск Улица Сююмбике 64а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Архитектора Гайнутдинова 26к4,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Татарстан 52,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Джалиль Улица 30 Лет Победы 7,unknown,Wildberries
+unknown,wildberries,деревня Куюки Олимпийская Улица 11,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Рыбная Слобода Улица Ленина 69,unknown,Wildberries
+unknown,wildberries,Мамадыш Улица Хади Такташа 1а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Побежимова 17,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Камские Поляны 4-Й Микрорайон 4/7,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Улица Вахитова 144,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 3-Й Комплекс 14,unknown,Wildberries
+unknown,wildberries,Нижнекамск Улица Спортивная 9,unknown,Wildberries
+unknown,wildberries,село Именьково Советская Улица 4д,unknown,Wildberries
+unknown,wildberries,село Пестрецы Улица Перчкова 2,unknown,Wildberries
+unknown,wildberries,Альметьевск Проспект Строителей 35,unknown,Wildberries
+unknown,wildberries,деревня Куюки Туманная Улица 2,unknown,Wildberries
+unknown,wildberries,Республика Татарстан Кукмор улица Маяковского 2А,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Республика Татарстан Набережные Челны улица Железнодорожников 59/2,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Годовикова 12,unknown,Wildberries
+unknown,wildberries,Нижнекамск Улица Рифката Гайнуллина 5,unknown,Wildberries
+unknown,wildberries,Казань Улица Ильича 29,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 19-Й Комплекс 8а,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Улица Академика Королёва 37,unknown,Wildberries
+Chistopol'skiy Rayon,wildberries,Чистополь Улица Урицкого 79,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 2-Я Береговая Улица 35,unknown,Wildberries
+Arskiy Rayon,wildberries,Арск Комсомольская Улица 66в,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,деревня Азьмушкино Школьная Улица 27,unknown,Wildberries
+unknown,wildberries,Лениногорск Улица Тукая 1,unknown,Wildberries
+unknown,wildberries,село Столбище Советская Улица 37а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Декабристов 127,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Проспект Мусы Джалиля 96а,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Московский Проспект 131/6,unknown,Wildberries
+unknown,wildberries,село Дубъязы Центральная Улица 70а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Патриса Лумумбы 37а,unknown,Wildberries
+Apastovskiy Rayon,wildberries,посёлок железнодорожной станции Каратун Магистральная Улица 1б,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Улица Габдрауфа Каюмова 6,unknown,Wildberries
+unknown,wildberries,Альметьевск Улица Ленина 58,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Авангардная Улица 163,unknown,Wildberries
+unknown,wildberries,Мензелинск Улица Карла Маркса 67,unknown,Wildberries
+unknown,wildberries,Нижнекамск Улица 30 Лет Победы 16,unknown,Wildberries
+unknown,wildberries,село Ленино Улица 40 Лет Победы 31д,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Набережная Габдуллы Тукая 29,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Петра Полушкина 6,unknown,Wildberries
+unknown,wildberries,Лениногорск Ленинградская Улица 39,unknown,Wildberries
+unknown,wildberries,Казань Улица Алтынова 15а,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Зур Урам 1г,unknown,Wildberries
+unknown,wildberries,село Айша Школьная Улица 90а,unknown,Wildberries
+unknown,wildberries,село Высокая Гора Рождественская Улица 10д,unknown,Wildberries
+Gorod Kazan',wildberries,Казань Улица Анаса Тазетдинова 4,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны 34-Й Комплекс 2блок2,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,Набережные Челны Улица Раскольникова 23,unknown,Wildberries
+Tukayevskiy Rayon,wildberries,село Кузембетьево Советская Улица 45,unknown,Wildberries
+unknown,wildberries,Зеленодольск Проспект Строителей 2,unknown,Wildberries

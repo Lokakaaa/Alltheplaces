@@ -1,0 +1,94 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+7095,action,Wien,,Wien,,,AT,,https://www.action.com/de-at/laden/wien6/,,Action,Q2634111
+2650,best_in_parking,Garage Fiakerplatz,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-fiakerplatz,,,
+2651,best_in_parking,Garage Klinik Landstraße,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-klinik-landstrasse,,,
+2673,best_in_parking,Tiefgarage Landstraßer Hauptstraße,,,,,AT,,https://www.bestinparking.com/en/at/garage/tiefgarage-landstrasser-hauptstrasse,,,
+2685,best_in_parking,Garage Invalidenstraße,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-invalidenstrasse,,,
+2726,best_in_parking,Garage Sechskrügelgasse,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-sechskrugelgasse,,,
+2728,best_in_parking,Garage Schwarzenbergplatz,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-schwarzenbergplatz,,,
+2733,best_in_parking,Garage Am Stadtpark,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-am-stadtpark,,,
+2739,best_in_parking,Garage Juchgasse,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-juchgasse,,,
+2769,best_in_parking,Garage beim Palais Schwarzenberg,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-beim-palais-schwarzenberg,,,
+2777,best_in_parking,Garage Am Modenapark,,,,,AT,,https://www.bestinparking.com/en/at/garage/garage-am-modenapark,,,
+4281,best_in_parking,Busparkplätze - Am Stadtpark,,,,,AT,,https://www.bestinparking.com/en/at/garage/busparkplatze-am-stadtpark,,,
+4909,best_in_parking,Parkhaus P+R Erdberg,,,,,AT,,https://www.bestinparking.com/en/at/garage/parkhaus-pr-erdberg,,,
+07629_4,bmw_group,Wolfgang Denzel Auto AG Standort Erdberg,,Wien,,,AT,+43 1 740080,https://bmw-denzel-wien-erdberg.at,,BMW,Q26678
+721,bp,"Wien 03, Erbergerlaende 30",,Wien,,,AT,+43 1 7154826,,24/7,BP,Q152057
+722,bp,"Wien 03, Erdbergstr. 184",,Wien,,,AT,+43 1 7963275,,24/7,BP,Q152057
+706,bp,"Wien 03, Arsenalstr. 5B",,Wien,,,AT,+43 1 7982552,,24/7,BP,Q152057
+725,bp,"Wien 03, Franzosengraben 18",,Wien,,,AT,+43 1 7988210,,Mo-Su 06:00-22:00,BP,Q152057
+14605,burgerking,Burger King,,Wien,,,AT,+43 1 74151564,,,Burger King,Q177054
+5540,church_of_england_gb,Christ Church Vienna,"Jauresgasse 17-19, Vienna",,,,AT,+43 1 7148900,https://www.achurchnearyou.com/church/5540/,,,
+AT0010,c_and_a,Wien Galleria,"Landstrasser Hauptstrasse 99, 1030 Wien",Wien,,,AT,,https://www.c-and-a.com/stores/at-de/wien/wien/landstrasser-hauptstrasse-99.html,Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00,C&A,Q701338
+at:273,dm,dm drogerie markt GmbH,,Wien,,,AT,+43 1 7104247,https://www.dm.at/store/a0b9/wien/rennweg-33a,Mo-Fr 07:30-19:30; Sa 08:00-18:00,dm,Q266572
+at:435,dm,dm drogerie markt GmbH,,Wien,,,AT,+43 1 7107909,https://www.dm.at/store/a0i3/wien/erdberger-laende-38,Mo-Fr 08:00-19:00; Sa 08:00-18:00,dm,Q266572
+at:437,dm,dm drogerie markt GmbH,,Wien,,,AT,+43 1 7963471,https://www.dm.at/store/a0i5/wien/fred-zinnemann-platz-4-3,Mo-Fr 08:00-19:00; Sa 08:00-18:00,dm,Q266572
+at:64,dm,dm drogerie markt GmbH,,Wien,,,AT,+43 1 7145166,https://www.dm.at/store/a02g/wien/landstrasser-hauptstrasse-2a,Mo-Fr 08:00-20:00; Sa 09:00-18:00,dm,Q266572
+at:939,dm,dm drogerie markt GmbH,,Wien,,,AT,+43 1 7129852,https://www.dm.at/store/a1f3/wien/landstrasser-hauptstrasse-97-101,Mo-Fr 09:00-19:00; Sa 09:00-18:00,dm,Q266572
+VIEC61,enterprise,Vienna City,,Wien,,,AT,+43 50 105 4120,,,Enterprise Rent-A-Car,Q17085454
+VIEC63,enterprise,Vienna,,Wien,,,AT,+43 720 3712501200,,,Enterprise Rent-A-Car,Q17085454
+31393134HndR82,eyes_and_more,"eyes + more Wien Mitte, The Mall","Landstraßer Hauptstraße   1B, Wien, 1030",,,,AT,043 (0)12650356,https://www.eyesandmore.at/termin-vereinbaren/?storeId=31393134HndR82,Mo-Fr 09:00-20:00; Sa 09:00-18:00,eyes + more,Q1385775
+A320,hofer_at,TRU-10,"Döblerhofstraße 8, Wien 3., Landstraße, 1030","Wien 3., Landstraße",,,AT,+43 57 0303 3010,https://www.hofer.at/,Mo-Fr 07:40-20:00,Hofer,Q15815751
+A312,hofer_at,TRU-2,"Fasangasse 25, Wien 3., Landstraße, 1030","Wien 3., Landstraße",,,AT,+43 57 0303 3002,https://www.hofer.at/,Mo-Fr 07:40-20:00,Hofer,Q15815751
+A398,hofer_at,TRU-90,"Erdberger Lände 36-38, Wien, 1030",Wien,,,AT,+43 57 0303 3090,,Mo-Fr 07:40-20:00,Hofer,Q15815751
+A395,hofer_at,TRU-92,"Landstraßer Hauptstraße 100, Wien 3., Landstraße, 1030","Wien 3., Landstraße",,,AT,+43 57 0303 3092,https://www.hofer.at/,Mo-Fr 07:40-20:00,Hofer,Q15815751
+A385,hofer_at,TRU-81,"Marxergasse 29, Wien 3., Landstraße, 1030","Wien 3., Landstraße",,,AT,+43 57 0303 3081,https://www.hofer.at/,Mo-Fr 07:40-20:00,Hofer,Q15815751
+A313,hofer_at,TRU-3,"Landstraßer Hauptstraße 26, Wien 3., Landstraße, 1030","Wien 3., Landstraße",,,AT,+43 57 0303 3003,https://www.hofer.at/,Mo-Fr 07:40-20:00,Hofer,Q15815751
+A376,hofer_at,TRU-72,"Hüttenbrennergasse 5, Wien 3., Landstraße, 1030","Wien 3., Landstraße",,,AT,+43 57 0303 3072,https://www.hofer.at/,Mo-Fr 07:40-20:00,Hofer,Q15815751
+A382,hofer_at,TRU-78,"Landstraßer Hauptstraße 167, Wien 3., Landstraße, 1030","Wien 3., Landstraße",,,AT,+43 57 0303 3078,https://www.hofer.at/,Mo-Fr 07:40-20:00,Hofer,Q15815751
+3003,kik,KiK,,Wien 3 Landstraße,,,AT,+43 1 7132258,,Mo-Fr 09:00-18:30; Sa 09:00-17:00,KiK,Q883965
+423,lidl_at,Lidl,,Wien,,,AT,,,Mo-Fr 07:40-20:00; Sa 07:40-18:00,Lidl,Q151954
+552,lidl_at,Lidl,,Wien,,,AT,,,Mo-Fr 07:40-20:00; Sa 07:40-18:00,Lidl,Q151954
+AT004,longchamp,Sohi Handels Gmbh,,WIEN,,,AT,+43 1 7157595,,,Longchamp,Q1869471
+VIEOE,marriott,Moxy Vienna City East,,Vienna,,,AT,+43 1 8905777,https://www.marriott.com/VIEOE,,Moxy Hotels,Q70287020
+VIERI,marriott,Residence Inn Vienna City East,,Vienna,,,AT,+43 1 8905778,https://www.marriott.com/VIERI,,Residence Inn by Marriott,Q7315394
+73519447,moneygram,HANDY LAND - WIEN,,WIEN,,,AT,+43 650 5435384,,Mo-Fr 09:00-19:00; Sa 00:00-24:00; Su 09:00-18:00,MoneyGram,Q1944412
+74419180,moneygram,TUERKIS - WIEN,,WIEN,,,AT,+43 699 16661444,,Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 00:00-24:00,MoneyGram,Q1944412
+74616006,moneygram,LAILA LEBENSMITTEL - WIEN,,WIEN,,,AT,+43 660 7772761,,Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 00:00-24:00,MoneyGram,Q1944412
+74898837,moneygram,BILLIG TELEFONIEREN,,WIEN,,,AT,+43 676 3195342,,Mo-Fr 10:00-21:00; Sa 10:00-18:00; Su 11:00-18:00,MoneyGram,Q1944412
+67316517,moneygram,DENIZBANK AG - ZENTRALFILIALE,,WIEN,,,AT,+43 800 886600,,Mo-Fr 08:00-16:00; Sa-Su 00:00-24:00,MoneyGram,Q1944412
+5656,mueller,Müller,,Wien,,,AT,+43 59 120 5656,https://www.mueller.at/meine-filiale/wien/landstrasser-hauptstrasse-1b/,,Müller,Q1958759
+5629,mueller,Müller,,Wien,,,AT,+43 59 120 5629,https://www.mueller.at/meine-filiale/wien/landstrasser-hauptstr-99-101/,,Müller,Q1958759
+ATH01031,neuroth,Neuroth,"Post am Rochus, Rochusplatz 1, 1030 Wien, AT",Wien,,,AT,+43 1 7109379,https://at.neuroth.com/filialen/post-am-rochus-rochusplatz-1-wien/,Mo-Fr 08:30-18:00,Neuroth,Q15836645
+5b3cb3fac00458481b437bb8,newyorker,NEW YORKER | Wien Mitte The Mall,"Landstraße, Hauptstraße 1B, Top 202, 1030 Wien",Wien,,,AT,+43 1 71096070,,Mo-Fr 09:00-20:00; Sa 09:00-18:00,New Yorker,Q706421
+0017S00000477syQAA,nissan_europe,Autohaus Erdberg,,Wien,,,AT,+43 1 79891910,,,Nissan,Q20165
+https://www.obi.at/markt/wien-st-marx,obi_eu,Obi Markt Wien St. Marx,,Wien,,,AT,+43 1 9073515,https://www.obi.at/markt/wien-st-marx,Mo-Fr 07:00-19:20; Sa 07:40-18:00,OBI,Q300518
+04000206_001-renault,renault,Ernst Karner GmbH,,Wien,,,AT,+43 1 7125572,,,Renault,Q6686
+04000206_001-dacia,renault,Ernst Karner GmbH,,Wien,,,AT,+43 1 7125572,,,Dacia,Q27460
+04000208_001-renault,renault,Reinhard Lehner GmbH,,Wien,,,AT,+43 1 7989191,,,Renault,Q6686
+04000208_001-dacia,renault,Reinhard Lehner GmbH,,Wien,,,AT,+43 1 7989191,,,Dacia,Q27460
+https://www.sixt.co.uk/car-hire/austria/vienna/vienna-city-centre/,sixt,Car Hire Vienna City | SIXT rent a car,,Wien,,,AT,,https://www.sixt.co.uk/car-hire/austria/vienna/vienna-city-centre/,Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 08:00-19:00,SIXT,Q705664
+439-00130,skoda,Porsche Wien-Erdberg,,,,,AT,,,,Skoda,Q29637
+https://restaurants.subway.com/#14928042,subway,Subway ZRS-Zentrum Rennweg,,Wien,,,AT,+43 1 8906226,https://restaurants.subway.com/de/osterreich/vi/wien/ungargasse-66,Mo-Th 10:00-22:00; Fr 10:00-21:30; Sa-Su 11:00-21:30,Subway,Q244457
+12117,swing_kitchen,Swing Kitchen Invalidenstraße,,Vienna,,,AT,,https://www.swingkitchen.com/en/standorte/invalidenstrasse/,,Swing Kitchen,Q116943226
+8796394356759,thebodyshop,Wien Mitte The Mall,,WIEN,,,AT,,https://www.thebodyshop.com/de-at/store-details/wien-mitte-the-mall/4993,,The Body Shop,Q837851
+AT_EXT_00244,totalenergies,"Wien 03, Arsenalstr. 5B",,Wien,,,AT,,https://store.totalenergies.fr/en_EN/AT_EXT_00244,,BP,Q152057
+AT_EXT_00245,totalenergies,"Wien 03, Erbergerlaende 30",,Wien,,,AT,,https://store.totalenergies.fr/en_EN/AT_EXT_00245,,BP,Q152057
+AT_EXT_00249,totalenergies,"Wien 03, Erdbergstr. 184",,Wien,,,AT,,https://store.totalenergies.fr/en_EN/AT_EXT_00249,,BP,Q152057
+AT_EXT_00251,totalenergies,"Wien 03, Franzosengraben 18",,Wien,,,AT,,https://store.totalenergies.fr/en_EN/AT_EXT_00251,,BP,Q152057
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,"WIEN,LANDSTRASSE",,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,"WIEN,LANDSTRASSE",,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,"WIEN,LANDSTRASSE",,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,"WIEN,LANDSTRASSE",,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,
+,visa,,,WIEN,,,AT,,,,,

@@ -1,0 +1,345 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,8
+UNKNOWN,adidas,Hong Kong,23
+HONGKONGSARCHINA,american_eagle_outfitters,New Territories Shatin,1
+HONGKONGSARCHINA,american_eagle_outfitters,New Territories Yuen Long,1
+HONGKONGSARCHINA,american_eagle_outfitters,New Territories Tsuen Wan,1
+HONGKONGSARCHINA,american_eagle_outfitters,New Territories Sheung Shui,1
+HONGKONGSARCHINA,american_eagle_outfitters,New Territories Lantau Island,1
+HONGKONGSARCHINA,american_eagle_outfitters,New Territories Sha Tin,1
+HONGKONGSARCHINA,american_eagle_outfitters,Kowloon Yau Tsim Mong District,3
+HONGKONGSARCHINA,american_eagle_outfitters,Kowloon Tsimshatsui,1
+HONGKONGSARCHINA,american_eagle_outfitters,Hong Kong Island Causeway Bay,1
+HONGKONGSARCHINA,american_eagle_outfitters,Hong Kong Island Central,2
+HK,american_eagle_outfitters,Taikoo Taikoo,1
+HK,american_eagle_outfitters,Kowloon Kowloon Tong,1
+NEWTERRITORIES,anytime_fitness,Leung King,1
+NEWTERRITORIES,anytime_fitness,Kwai Fong,1
+NEWTERRITORIES,anytime_fitness,Kwai Hing,1
+KOWLOON,anytime_fitness,Lai Chi Kok,1
+KOWLOON,anytime_fitness,Jordan,1
+KOWLOON,anytime_fitness,Kowloon,3
+KOWLOON,anytime_fitness,To Kwa Wan,1
+KOWLOON,anytime_fitness,Mong Kok,1
+NEWTERRITORIES,anytime_fitness,Hong Kong,1
+HONGKONGISLAND,anytime_fitness,Sai Ying Pun,1
+HONGKONGISLAND,anytime_fitness,Quarry Bay,1
+NEWTERRITORIES,anytime_fitness,Yuen Long,1
+KOWLOON,anytime_fitness,Tsz Wan Shan,1
+KOWLOON,anytime_fitness,Ho Man Tin,1
+NEWTERRITORIES,anytime_fitness,Shatin,1
+HONGKONGISLAND,anytime_fitness,Sai Wan Ho,1
+NEWTERRITORIES,anytime_fitness,Tsing Yi,1
+NEWTERRITORIES,anytime_fitness,Kwai Chung,1
+KOWLOON,anytime_fitness,Kwun Tong,1
+NEWTERRITORIES,anytime_fitness,Tsueng Kwan O,1
+NEWTERRITORIES,anytime_fitness,Tuen Mun,1
+HONGKONGISLAND,anytime_fitness,Fortress Hill,1
+KOWLOON,anytime_fitness,Ngau Chi Wan,1
+HONGKONGISLAND,anytime_fitness,Chai Wan,1
+NEWTERRITORIES,anytime_fitness,Fanling,1
+NEWTERRITORIES,anytime_fitness,Tsuen Wan,1
+KOWLOON,anytime_fitness,Sham Shui Po,1
+HONGKONGISLAND,anytime_fitness,Wan Chai,1
+SHATIN,apple,香港,1
+UNKNOWN,apple,香港,2
+WONGTAISIN,apple,香港,1
+WANCHAI,apple,香港,1
+KOWLOONCITY,apple,香港,1
+KOWLOONCITY,audi,Hong Kong,3
+TSUENWAN,audi,Hong Kong,1
+WANCHAI,audi,Hong Kong,1
+KOWLOONCITY,aurecongroup,Hong Kong,1
+UNITS1241FEASTOCEANCENTR,avis,Kowloon,1
+HONGKONG,botteg_aveneta,Hong Kong,8
+CENTRALANDWESTERN,brewdog,unknown,1
+WANCHAI,caltex,unknown,6
+KOWLOONCITY,caltex,unknown,3
+SHAMSHUIPO,caltex,unknown,3
+WONGTAISIN,caltex,unknown,1
+TAIPO,caltex,unknown,3
+TSUENWAN,caltex,unknown,2
+SAIKUNG,caltex,unknown,1
+YUENLONG,caltex,unknown,8
+TUENMUN,caltex,unknown,2
+SHATIN,caltex,unknown,2
+UNKNOWN,caltex,unknown,1
+UNKNOWN,citi,Hong Kong,42
+UNKNOWN,decathlon_hk,HONG KONG,8
+UNKNOWN,ecco,"Tsimshatsui, Kowloon",1
+UNKNOWN,ecco,"Taikoo Shing, Island East,",1
+UNKNOWN,ecco,"Shatin, New Terriorities",1
+UNKNOWN,ecco,"Central, Hong Kong",1
+UNKNOWN,ecco,Lantau Island,1
+UNKNOWN,ecco,Tseung Kwan O,1
+UNKNOWN,ecco,Tsim Sha Tsui,2
+UNKNOWN,ecco,Mongkok,1
+UNKNOWN,ecco,Causeway Bay,1
+UNKNOWN,ecco,"Olympian City, Kowloon",1
+UNKNOWN,ecco,"Tsim Sha Tsui, Kowloon",1
+UNKNOWN,ecco,Kowloon Bay,1
+UNKNOWN,ecco,Kowloon,1
+UNKNOWN,ecco,Diamond Hill,1
+UNKNOWN,ecco,Central,1
+UNKNOWN,ecco,"Kowloon Tong, KL",1
+UNKNOWN,ecco,Tsimshatsui,1
+WANCHAI,ernst_young,香港,3
+UNKNOWN,exxonmobil,香港,43
+YUENLONG,fedex,unknown,1
+TSUENWAN,fedex,unknown,2
+SHATIN,fedex,unknown,1
+UNKNOWN,fedex,unknown,1
+KOWLOONCITY,fedex,unknown,2
+WANCHAI,fedex,unknown,2
+CENTRALANDWESTERN,fedex,unknown,1
+HONGKONG,five_guys_hk,Kowloon Tai Kok Tsui,1
+KWUNTONGINLAND,five_guys_hk,Kowloon Kwun Tong,1
+HONGKONG,five_guys_hk,Hong Kong Island Central,1
+HONGKONG,five_guys_hk,Kowloon Kowloon Tong,1
+HONGKONG,five_guys_hk,Hong Kong Island Wan Chai,1
+HONGKONG,five_guys_hk,Hong Kong Island North Point,1
+HONGKONG,five_guys_hk,Kowloon Tsim Sha Tsui,1
+NEWTERRITORIES,five_guys_hk,Tsuen Wan,1
+UNKNOWN,ford,Hong Kong,2
+CHINA,fossil,Hong Kong,1
+CHINA,fossil,Tsim Sha Tsui,1
+UNKNOWN,geox,HONG KONG CITYGATE OUTLETS,1
+UNKNOWN,geox,HONG KONG CITYPLAZA,1
+UNKNOWN,geox,HONG KONG SHATIN NEW TOWN PLAZA,1
+UNKNOWN,geox,HONG KONG SOGO CAUSEWAY BAY,1
+UNKNOWN,geox,HONG KONG SOGO KIDS CAUSEWAY BAY,1
+UNKNOWN,geox,HONG KONG SOGO TSIM SHA TSUI,1
+WANCHAI,google_offices,unknown,1
+UNKNOWN,hm,Hong Kong,7
+KLN,hugo_boss,"Hong Kong SAR, China/ 中國香港特別行政區",4
+KLN,hugo_boss,"Kowloon, Hong Kong SAR China",1
+HK,hugo_boss,"Hong Kong SAR, China/ 中國香港特別行政區",4
+ASIAPACIFIC,jll,"Hong Kong SAR, China",4
+UNKNOWN,leonidas,Central,1
+YUENLONG,little_free_library,Tin Shui Wai,1
+HK,little_free_library,Sai Kung,1
+HK,lovisa,Kowloon Bay,1
+HK,lovisa,Tsim Sha Tsui,1
+HK,lovisa,Yuen Lon,1
+HK,lovisa,Sheung Shui,1
+HK,lovisa,Tsing Yi,1
+TAIKOKTSUI,lovisa,Tai Kok Tsui,1
+HK,lovisa,Tsuen Wan,1
+HK,lovisa,Quarry Bay,1
+UNKNOWN,man_truck_and_bus,Shaukiwan,1
+UNKNOWN,man_truck_and_bus,Hong Kong,1
+UNKNOWN,maserati,Hong Kong,1
+UNKNOWN,maserati,HONG KONG,1
+UNKNOWN,mcdonalds_hk,unknown,254
+HONGKONGISLAND,mercedes_benz,Hong Kong,1
+KOWLOON,mercedes_benz,Hong Kong,2
+NEWTERRITORIES,mercedes_benz,Hong Kong,2
+WANCHAI,meta,unknown,1
+UNKNOWN,moneygram,HUNG HOM,1
+UNKNOWN,moneygram,HK ISLAND,1
+UNKNOWN,moneygram,TSIM SHA TSUI,1
+UNKNOWN,moneygram,TSUEN WAN,1
+UNKNOWN,moneygram,HONG KONG,12
+UNKNOWN,moneygram,LAM TIN,1
+UNKNOWN,moneygram,CENTRAL,1
+UNKNOWN,moneygram,YAU TSIM MONG,2
+UNKNOWN,moneygram,LOK MA CHAU,3
+香港,nike,香港,3
+HONGKONGSARCHINA,petit_bateau,Kowloon Tsim Sha Tsui,1
+HONGKONGSARCHINA,petit_bateau,Hong Kong Island Causeway Bay,1
+HONGKONGSARCHINA,petit_bateau,Central District,1
+UNKNOWN,pizza_hut_hk,unknown,97
+HONGKONG,reebok,West Kowloon,1
+HK,reebok,Hong Kong,3
+UNKNOWN,scania,Hong Kong,5
+WANCHAI,shake_shack,unknown,2
+UNKNOWN,shake_shack,unknown,4
+SHATIN,shake_shack,unknown,1
+NEWTERRITORIES,shell,CHEK LAP KOK,1
+NEWTERRITORIES,shell,TUNG CHUNG,1
+HONGKONGISLAND,shell,CHEK LAP KOK,1
+NEWTERRITORIES,shell,TUEN MUN,7
+NEWTERRITORIES,shell,HONG KONG,3
+NEWTERRITORIES,shell,YUEN LONG,7
+NEWTERRITORIES,shell,TIN SHUI WAI,1
+NEWTERRITORIES,shell,AU TAU NEW TERRITORIES,1
+NEWTERRITORIES,shell,TSING YI,2
+HONGKONGISLAND,shell,HONG KONG ISLAND,1
+HONGKONGISLAND,shell,POK FU LAM,1
+NEWTERRITORIES,shell,TSUEN  WAN,1
+NEWTERRITORIES,shell,TSUEN WAN,1
+UNKNOWN,shell,SHEUNG WAN,1
+KOWLOON,shell,CHEUNG SHA WAN,1
+KOWLOON,shell,SHAM SHUI PO,1
+KOWLOON,shell,TAI KOK TSUI,1
+KOWLOON,shell,TSIM SHA TSUI,3
+KOWLOON,shell,KOWLOON BAY KOWLOON,2
+KOWLOON,shell,KOWLOON CITY.,1
+KOWLOON,shell,TO KWA WAN,1
+KOWLOON,shell,WONG TAI SIN,2
+KOWLOON,shell,WANG TAU HOM,3
+KOWLOON,shell,KWUN TONG,1
+KOWLOON,shell,HONG KONG,1
+KOWLOON,shell,KOWLOON TONG,1
+KOWLOON,shell,HO MAN TIN,1
+KOWLOON,shell,MONGKOK,3
+KOWLOON,shell,LAM TIN,1
+HONGKONGISLAND,shell,NORTH POINT,2
+HONGKONGISLAND,shell,YAU YAT CHUEN,1
+KOWLOON,shell,TSIM SHA TSUI EAST,1
+HONGKONGISLAND,shell,QUARRY BAY,1
+KOWLOON,shell,"SHAM SHUI PO, KOWLOON",1
+KOWLOON,shell,YAU TONG,1
+NEWTERRITORIES,shell,LOT 1281 IN DD 253 NEW TERRITORIES,1
+NEWTERRITORIES,shell,TSEUNG KWAN O,4
+HONGKONGISLAND,shell,WAN CHAI,1
+NEWTERRITORIES,shell,SHA TIN,3
+NEWTERRITORIES,shell,SHATIN,1
+NEWTERRITORIES,shell,SHATIN CITYONE,1
+NEWTERRITORIES,shell,MA ON SHAN,2
+HONGKONGISLAND,shell,STANLEY,1
+NEWTERRITORIES,shell,FANLING,2
+NEWTERRITORIES,shell,TAI PO,1
+NEWTERRITORIES,shell,HONG LOK YUEN NEW TERRITORIES,1
+KOWLOON,smart,Hong Kong,1
+NEWTERRITORIES,smart,Hong Kong,1
+HONGKONGISLAND,smart,Hong Kong,1
+,snap_fitness,Kwai Hing,1
+,snap_fitness,"Cheung Sha Wan, Kowloon",1
+,snap_fitness,Pok Fu Lam,1
+,snap_fitness,Kowloon,1
+,snap_fitness,"San Po Kong, Kowloon",1
+,snap_fitness,"Mei Foo, Kowloon",1
+,snap_fitness,Kwun Tong,1
+,snap_fitness,Quarry Bay,1
+,snap_fitness,Sha Tin,1
+,snap_fitness,Kowloon Bay,1
+,snap_fitness,Tin Hau,1
+,snap_fitness,Tai Po,1
+,snap_fitness,To Kwa Wan,1
+,snap_fitness,Prince Edward,1
+,snap_fitness,Sai Wan Ho,1
+,snap_fitness,Hong Kong,1
+UNKNOWN,subway_hk,unknown,48
+HONGKONGISLAND,sunglass_hut_2,Hong Kong (China),4
+UNKNOWN,sunglass_hut_2,Hong Kong (China),5
+NEWTERRITORIES,sunglass_hut_2,Hong Kong (China),1
+KOWLOON,sunglass_hut_2,Hong Kong (China),2
+LANTAU,sunglass_hut_2,Hong Kong (China),1
+MONGKOK,superdry,Kowloon,1
+UNKNOWN,timberland,Admiralty,1
+UNKNOWN,timberland,Causeway Bay,2
+UNKNOWN,timberland,Kwai Fong,1
+UNKNOWN,timberland,Mongkok,1
+UNKNOWN,timberland,Shatin,1
+UNKNOWN,timberland,Tai Koo Shing,1
+UNKNOWN,timberland,Tsimshatsui,1
+UNKNOWN,timberland,Tung Chung,1
+UNKNOWN,travelex,Hong Kong / 香港,5
+TSUENWAN,travelex,Hong Kong / 香港,2
+CENTRALANDWESTERN,travelex,Hong Kong / 香港,1
+UNKNOWN,visa,HONG KONG,769
+UNKNOWN,visa,NEW TERRITORIES,12
+TUENMUN,visa,HK,10
+UNKNOWN,visa,HK,21
+UNKNOWN,visa,TUEN MUN,2
+TUENMUN,visa,HONG KONG,1
+YUENLONG,visa,HK,17
+UNKNOWN,visa,YUEN LONG,2
+TSUENWAN,visa,HK,33
+UNKNOWN,visa,SHEUNG SHUI,2
+TAIPO,visa,HK,12
+UNKNOWN,visa,TSUEN WAN,3
+UNKNOWN,visa,KWAI CHUNG,1
+SHAMSHUIPO,visa,HK,25
+UNKNOWN,visa,KENNEDY TOWN,1
+UNKNOWN,visa,MEI FOO SUN CHUEN,1
+UNKNOWN,visa,MEI FOO,1
+UNKNOWN,visa,KOWLOON,43
+UNKNOWN,visa,SAI WAN,1
+UNKNOWN,visa,TAI PO,2
+UNKNOWN,visa,CHEUNG SHA WAN,2
+UNKNOWN,visa,WESTERN,1
+UNKNOWN,visa,SAI YING PUN,1
+UNKNOWN,visa,SHEUNG WAN,1
+CENTRALANDWESTERN,visa,HK,12
+SHAMSHUIPO,visa,NEW TERRITORIES,1
+UNKNOWN,visa,CENTRAL,6
+UNKNOWN,visa,TAI KOK TSUI,2
+WONGTAISIN,visa,HK,24
+UNKNOWN,visa,SHAMSHUIPO,1
+UNKNOWN,visa,MONGKOK,3
+SHATIN,visa,HK,27
+UNKNOWN,visa,SHATIN,3
+UNKNOWN,visa,ABERDEEN,2
+KOWLOONCITY,visa,HK,53
+UNKNOWN,visa,YAUMATI,2
+UNKNOWN,visa,TSIMSHATSUI,4
+WANCHAI,visa,HK,57
+UNKNOWN,visa,ADMIRALTY,1
+UNKNOWN,visa,JORDAN,2
+UNKNOWN,visa,WANCHAI,6
+UNKNOWN,visa,KOWLOON CITY,1
+UNKNOWN,visa,CAUSEWAY BAY,3
+UNKNOWN,visa,HUNGHOM,1
+UNKNOWN,visa,HUNG HOM,1
+UNKNOWN,visa,WHAMPOA,1
+UNKNOWN,visa,TOKWAWAN,1
+UNKNOWN,visa,SAN PO KONG,1
+UNKNOWN,visa,HAPPY VALLEY,1
+WANCHAI,visa,HONG KONG,1
+UNKNOWN,visa,NORTH POINT,3
+UNKNOWN,visa,KOWLOON BAY,3
+SAIKUNG,visa,HK,17
+UNKNOWN,visa,MA ON SHAN,1
+UNKNOWN,visa,KWUN TONG,6
+UNKNOWN,visa,SHAUKIWAN,2
+UNKNOWN,visa,SHAU KEI WAN,1
+UNKNOWN,visa,CHAI WAN,1
+UNKNOWN,visa,TSEUNG KWAN O,2
+NEWTERRITORIES,western_union,Sai Kung,1
+KOWLOON,western_union,Sai Kung,1
+HONGKONG,western_union,Heng Fa Chuen,1
+KOWLOON,western_union,Lam Tin,1
+NEWTERRITORIES,western_union,Tseung Kwan O,1
+KOWLOON,western_union,Tseung Kwan O,1
+NEWTERRITORIES,western_union,Sha Tin,3
+KOWLOON,western_union,Laguna City,1
+KOWLOON,western_union,Kwun Tong,1
+KOWLOON,western_union,Kowloon Bay,1
+KOWLOON,western_union,Kowloon City,1
+HONGKONG,western_union,North Point,2
+HONGKONG,western_union,Repulse Bay,1
+KOWLOON,western_union,Hung Hom,4
+NEWTERRITORIES,western_union,Fanling,1
+HONGKONG,western_union,Tai Koo Shing,1
+HONGKONG,western_union,Sai Wan Ho,1
+KOWLOON,western_union,Hong Kong,3
+KOWLOON,western_union,Ngau Tau Kok,1
+NEWTERRITORIES,western_union,Tai Po,1
+KOWLOON,western_union,Kai Tak,1
+KOWLOON,western_union,Tsim Sha Tsui,11
+KOWLOON,western_union,Yau Ma Tei,2
+KOWLOON,western_union,Mong Kok,6
+HONGKONG,western_union,Causeway Bay,5
+HONGKONG,western_union,Happy Valley,1
+KOWLOON,western_union,Ho Man Tin,1
+HONGKONG,western_union,Hong Kong,4
+KOWLOON,western_union,Sham Shui Po,2
+KOWLOON,western_union,Jordan,1
+NEWTERRITORIES,western_union,Sheung Shui,1
+HONGKONG,western_union,Aberdeen,1
+HONGKONG,western_union,Central,5
+KOWLOON,western_union,Cheung Sha Wan,2
+NEWTERRITORIES,western_union,Kwai Chung,1
+HONGKONG,western_union,Sai Ying Pun,1
+KOWLOON,western_union,Mei Foo,1
+HONGKONG,western_union,Wan Chai,1
+HONGKONG,western_union,Pok Fu Lam,1
+NEWTERRITORIES,western_union,Tsuen Wan,2
+NEWTERRITORIES,western_union,Yuen Long,4
+KOWLOON,western_union,Tsing Yi,1
+NEWTERRITORIES,western_union,Tin Shui Wai,3
+NEWTERRITORIES,western_union,Discovery Bay,1
+NEWTERRITORIES,western_union,Tuen Mun,2
+NEWTERRITORIES,western_union,Tung Chung,1

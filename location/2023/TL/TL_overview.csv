@@ -1,0 +1,31 @@
+State,Place Name,City,Establishments
+UNKNOWN,ford,Dili,1
+UNKNOWN,moneygram,DILI,15
+UNKNOWN,moneygram,AILEU,1
+UNKNOWN,moneygram,AINARO,1
+UNKNOWN,moneygram,BAUCAU,2
+UNKNOWN,moneygram,MANATUTO,1
+UNKNOWN,moneygram,LIQUICA,2
+UNKNOWN,moneygram,MALIANA,2
+UNKNOWN,moneygram,OECUSSE,1
+UNKNOWN,moneygram,SUAI,1
+UNKNOWN,moneygram,VIQUEQUE,1
+UNKNOWN,moneygram,GLENO,1
+UNKNOWN,moneygram,LOSPALOS,1
+UNKNOWN,moneygram,SAME,1
+UNKNOWN,moneygram,GLENO ERMERA,1
+UNKNOWN,moneygram,LOS PALOS,1
+OECUSSE,visa,OECUSSE,2
+BOBONARO,visa,MALIANA,1
+COVALIMA,visa,SUAI,1
+LIQUICA,visa,LIQUICA,1
+ERMERA,visa,GLENO,1
+AINARO,visa,AINARO,1
+DILI,visa,DILI,28
+AILEU,visa,AILEU,1
+MANATUTO,visa,MANATUTO,1
+VIQUEQUE,visa,VIQUEQUE,1
+BAUCAU,visa,BAUCAU,2
+LAUTEM,visa,LOSPALOS,1
+DILI,western_union,Dili,3
+DILI,western_union,Comoro,1

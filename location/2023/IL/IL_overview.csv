@@ -1,0 +1,783 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,4
+D,adidas,Rehovot,1
+TA,adidas,Tel Aviv,1
+UNKNOWN,adidas,Holon,1
+Z,adidas,Yarqa,1
+UNKNOWN,adidas,Nazareth Iliit,1
+UNKNOWN,adidas,Zichron Yaakov,1
+UNKNOWN,adidas,Haifa,1
+UNKNOWN,adidas,Mavkiim,1
+UNKNOWN,adidas,Eilat,1
+UNKNOWN,alamo,Tel Aviv,2
+UNKNOWN,alamo,Jerusalem,1
+ISRAEL,allied_universal,Tel Aviv,1
+UNKNOWN,alstom,unknown,5
+TELAVIV,american_eagle_outfitters,Givataim,1
+TELAVIVDISTRICT,american_eagle_outfitters,Tel Aviv,3
+TELAVIVDISTRICT,american_eagle_outfitters,Kiryat Ono,1
+TELAVIVDISTRICT,american_eagle_outfitters,Herzliya,1
+SOUTHDISTRICT,american_eagle_outfitters,Eilat,1
+SOUTHDISTRICT,american_eagle_outfitters,Beer Sheva,4
+SOUTHDISTRICT,american_eagle_outfitters,Ashdod,1
+NORTHDISTRICT,american_eagle_outfitters,Tiberias,1
+NORTHDISTRICT,american_eagle_outfitters,Nazareth,1
+NORTHDISTRICT,american_eagle_outfitters,Karmiel,1
+NORTHDISTRICT,american_eagle_outfitters,Afula,1
+JERUSALEMDISTRICT,american_eagle_outfitters,Talpiyot,1
+JERUSALEMDISTRICT,american_eagle_outfitters,Jerusalem,2
+HAIFADISTRICT,american_eagle_outfitters,Pardes Hanna,1
+HAIFADISTRICT,american_eagle_outfitters,Kiryat Ata,1
+HAIFADISTRICT,american_eagle_outfitters,Haifa,3
+CENTERDISTRICT,american_eagle_outfitters,Rishon Lezion,1
+CENTERDISTRICT,american_eagle_outfitters,Rehovot,2
+CENTERDISTRICT,american_eagle_outfitters,Ra'Anana,1
+CENTERDISTRICT,american_eagle_outfitters,Petah Tikva,1
+CENTERDISTRICT,american_eagle_outfitters,Netanya,1
+CENTERDISTRICT,american_eagle_outfitters,Modiin,1
+CENTERDISTRICT,american_eagle_outfitters,Kfar Saba,1
+UNKNOWN,american_eagle_outfitters,Tel Aviv,2
+UNKNOWN,american_eagle_outfitters,Rishon LeTsiyon,1
+UNKNOWN,american_eagle_outfitters,Ramla,1
+UNKNOWN,american_eagle_outfitters,Ramat Gan,1
+UNKNOWN,american_eagle_outfitters,Mevaseret Zion,1
+UNKNOWN,american_eagle_outfitters,Hod HaSharon,1
+UNKNOWN,american_eagle_outfitters,Hadera,1
+UNKNOWN,american_eagle_outfitters,Eylat,1
+UNKNOWN,american_eagle_outfitters,Beit Shemesh,1
+UNKNOWN,american_eagle_outfitters,Ashkelon,1
+UNKNOWN,american_eagle_outfitters,Ashdod,1
+TELAVIV,audi,Bnei Brak,1
+TELAVIV,audi,Herzliya,1
+TELAVIV,audi,Petach Tikva,2
+TELAVIV,audi,Tel Aviv,2
+HAIFA,audi,Haifa,3
+JERUSALEM,audi,Jerusalem,1
+SOUTHERNDISTRICT,audi,Beer Sheva,2
+NORTHERNDISTRICT,audi,Nazareth,1
+CENTRALDISTRICT,audi,Rechovot,1
+NAHARIYA,avis,Nahariya,1
+HAIFA,avis,Haifa,1
+AFULA,avis,Afula,1
+TIBERIAS,avis,Tiberias,1
+POB1250,avis,Eilat,1
+ASHDOD,avis,Ashdod,1
+NATANYA,avis,Natanya,1
+TELAVIV,avis,Tel Aviv,2
+RISHONLETZION,avis,Rishon Letzion,1
+PETEHTIKVA,avis,Peteh-Tikva,1
+RAMATGAN,avis,Ramat-Gan,1
+JERUSALEM,avis,Jerusalem,1
+BEERSHEVA,avis,Beersheva,1
+UNKNOWN,bmw_group,נצרת עילית,1
+UNKNOWN,bmw_group,חיפה,2
+UNKNOWN,bmw_group,תל אביב,1
+UNKNOWN,bmw_group,ניר צבי,1
+UNKNOWN,bmw_group,פתח תקווה,1
+UNKNOWN,bmw_group,באר שבע,1
+UNKNOWN,bmw_group,Ashdod,1
+UNKNOWN,bmw_group,ירושלים,2
+UNKNOWN,deloitte,Ra'anana,1
+UNKNOWN,deloitte,Bet Shemesh,1
+UNKNOWN,deloitte,Rishon LeTsiyon,1
+UNKNOWN,deloitte,Jerusalem,1
+UNKNOWN,deloitte,Eilat,1
+UNKNOWN,deloitte,Nazareth,1
+UNKNOWN,deloitte,Haifa,1
+UNKNOWN,deloitte,Tel Aviv,1
+UNKNOWN,ecco,Herzelia,1
+UNKNOWN,enterprise,Tel Aviv,2
+UNKNOWN,enterprise,Eilat,1
+UNKNOWN,enterprise,Jerusalem,2
+UNKNOWN,enterprise,Netanya,1
+UNKNOWN,enterprise,Tiberias,1
+UNKNOWN,ernst_young,Haifa,1
+UNKNOWN,ernst_young,Jerusalem,1
+UNKNOWN,ernst_young,Tel Aviv,3
+CENTRALDISTRICT,fedex,Nemal Tehufa Ben Gurion,1
+HAIFA,fedex,Kiryat Ata,1
+UNKNOWN,gbfs,unknown,1
+HAIFA,google_offices,unknown,1
+TELAVIV,google_offices,unknown,1
+UNKNOWN,g_star_raw,NETANYA,1
+UNKNOWN,g_star_raw,TEL AVIV-YAFO,1
+UNKNOWN,hm,Tel Aviv,2
+UNKNOWN,hm,Jerusalem,1
+UNKNOWN,hm,Haifa,1
+UNKNOWN,hm,Kfar-Saba,1
+UNKNOWN,hm,Natanya,1
+UNKNOWN,hm,Petach Tikva,1
+UNKNOWN,hm,Herzelya,1
+UNKNOWN,hm,Rehovot,1
+UNKNOWN,hm,Kiryat Bialik,1
+UNKNOWN,hm,Bat-Yam,1
+UNKNOWN,hm,Beer-Sheva,1
+UNKNOWN,hm,Nazeret,1
+UNKNOWN,hm,Hadera,1
+UNKNOWN,hm,Raanana,1
+UNKNOWN,hm,Ramla,1
+UNKNOWN,hm,Ashdod,1
+UNKNOWN,hm,Ramat Gan,1
+UNKNOWN,hm,Kiryat Ono,1
+UNKNOWN,hm,Rishon LeZion,1
+UNKNOWN,hm,Eilat,1
+01,hugo_boss,Netanya,1
+01,hugo_boss,Herzelia,1
+06,hugo_boss,Tel Aviv,3
+06,hugo_boss,Rishon LeZion,1
+06,hugo_boss,Lod,1
+03,hugo_boss,Jerusalem,2
+05,hugo_boss,Beer Sheva,1
+SOUTHERNDISTRICT,ich_tanke_strom,unknown,2
+HAIFA,ich_tanke_strom,unknown,1
+UNKNOWN,ikea,"אזה""ת הר טוב",1
+UNKNOWN,ikea,באר שבע,1
+UNKNOWN,ikea,נתניה,1
+UNKNOWN,ikea,קריית אתא,1
+UNKNOWN,ikea,ראשון לציון,1
+ISRAEL,jll,Ra’anana,1
+UNKNOWN,leonidas,Ramat Hasharon,1
+UNKNOWN,leonidas,Tel Aviv,1
+UNKNOWN,leonidas,Ramat Aviv,1
+UNKNOWN,leonidas,Herzliya,1
+UNKNOWN,lhw,Tel Aviv,2
+UNKNOWN,lhw,Jerusalem,1
+UNKNOWN,longchamp,TEL AVIV,1
+UNKNOWN,man_truck_and_bus,Rishon Lezion,1
+UNKNOWN,man_truck_and_bus,Haifa ,1
+UNKNOWN,man_truck_and_bus,Kfar Yasif,1
+UNKNOWN,man_truck_and_bus,Beit Nehalel,1
+UNKNOWN,man_truck_and_bus,Kfar Iksayil,1
+UNKNOWN,man_truck_and_bus,Mifraz Haifa,1
+UNKNOWN,man_truck_and_bus,Hadera,1
+UNKNOWN,man_truck_and_bus,Kfar Qasim,1
+UNKNOWN,man_truck_and_bus,Kfar Kasem,1
+UNKNOWN,man_truck_and_bus,Yahud,1
+UNKNOWN,man_truck_and_bus,Mishor Edumim ,1
+UNKNOWN,man_truck_and_bus,Yerusalem,1
+UNKNOWN,man_truck_and_bus,Ashkelon,1
+UNKNOWN,man_truck_and_bus,Beer Sheva,1
+UNKNOWN,man_truck_and_bus,Eilat,1
+UNKNOWN,man_truck_and_bus,elyakim,1
+UNKNOWN,man_truck_and_bus,Tamra,1
+UNKNOWN,man_truck_and_bus,HOLON,1
+UNKNOWN,man_truck_and_bus,Bethlehem,1
+UNKNOWN,marriott,Tel Aviv,2
+UNKNOWN,marriott,Herzliya,1
+UNKNOWN,maserati,HERZLIYA,1
+TELAVIV,meta,unknown,1
+TELAVIV,michaelkors,Tel Aviv,2
+UNKNOWN,michaelkors,Tel Aviv,1
+UNKNOWN,michaelkors,Rishon LeTsiyon,1
+UNKNOWN,moneygram,TEL AVIV,42
+UNKNOWN,moneygram,JERUSALEM,39
+UNKNOWN,moneygram,ARAD,2
+UNKNOWN,moneygram,DIMONA,2
+UNKNOWN,moneygram,BEIT SHEMESH,3
+UNKNOWN,moneygram,ASHDOD,17
+UNKNOWN,moneygram,ASHKELON,7
+UNKNOWN,moneygram,BNE BRAK,1
+UNKNOWN,moneygram,HAIFA,24
+UNKNOWN,moneygram,RISHON LEZION,9
+UNKNOWN,moneygram,TIBERIAS,2
+UNKNOWN,moneygram,NAZARETH,3
+UNKNOWN,moneygram,RAMAT GAN,12
+UNKNOWN,moneygram,OR YEHUDA,1
+UNKNOWN,moneygram,BAT YAM,11
+UNKNOWN,moneygram,NAHIF,1
+UNKNOWN,moneygram,REHOVOT,8
+UNKNOWN,moneygram,PETAH TIKVA,11
+UNKNOWN,moneygram,TAMRA,2
+UNKNOWN,moneygram,RAMLA,1
+UNKNOWN,moneygram,KIRYAT GAT,2
+UNKNOWN,moneygram,RISHON LETSIYON,4
+UNKNOWN,moneygram,SHFARAM,2
+UNKNOWN,moneygram,HOLON,10
+UNKNOWN,moneygram,BNEI BARAK,1
+UNKNOWN,moneygram,EILAT,5
+UNKNOWN,moneygram,KAFR KANNA,1
+UNKNOWN,moneygram,GIV'ATAYIM,2
+UNKNOWN,moneygram,NESS ZIONA,1
+UNKNOWN,moneygram,YAVNE,2
+UNKNOWN,moneygram,BE'ER SHEVA,10
+UNKNOWN,moneygram,NETANYA,11
+UNKNOWN,moneygram,HERZLIYA,4
+UNKNOWN,moneygram,RAMAT HASHARON,1
+UNKNOWN,moneygram,NAHARIYA,2
+UNKNOWN,moneygram,MAJD AL KRUM,1
+UNKNOWN,moneygram,GEVAT SHMUEL,1
+UNKNOWN,moneygram,KIRYAT BIALIK,3
+UNKNOWN,moneygram,KIRYAT MOTZKIN,4
+UNKNOWN,moneygram,RAMA VILLAGE,1
+UNKNOWN,moneygram,AFULA,4
+UNKNOWN,moneygram,NES ZIONA,2
+UNKNOWN,moneygram,MAGHAR VILLAGE,1
+UNKNOWN,moneygram,BE'ER YA'AKOV,1
+UNKNOWN,moneygram,ARARA,1
+UNKNOWN,moneygram,KIRYAT MAL'AKHI,1
+UNKNOWN,moneygram,NOF HAGALIL,1
+UNKNOWN,moneygram,DABURIA,1
+UNKNOWN,moneygram,BUAYINA-NUJIDAT,1
+UNKNOWN,moneygram,LOD,2
+UNKNOWN,moneygram,BEER SHEVA,2
+UNKNOWN,moneygram,TIRAT KARMEL,1
+UNKNOWN,moneygram,KFAR QASSEM,1
+UNKNOWN,moneygram,JUDEID,1
+UNKNOWN,moneygram,RA'ANANA,1
+UNKNOWN,moneygram,MODI'IN,1
+UNKNOWN,moneygram,IKSAL,1
+UNKNOWN,moneygram,NAZARET,1
+UNKNOWN,moneygram,SHAFRAM,1
+UNKNOWN,moneygram,KFAR MANDA,2
+UNKNOWN,moneygram,BNEI BRAK,3
+UNKNOWN,moneygram,KIRYAT MALACHI,1
+UNKNOWN,moneygram,YERKA,1
+UNKNOWN,moneygram,HADERA,3
+UNKNOWN,moneygram,SAFED,2
+UNKNOWN,moneygram,KARMI'EL,2
+UNKNOWN,moneygram,BAQA AL GHARBIA,1
+UNKNOWN,moneygram,MAJDAL AL-SHAMS,1
+UNKNOWN,moneygram,SDEROT,1
+UNKNOWN,moneygram,ROSH HA'AIN,1
+UNKNOWN,moneygram,KFAR SABA,2
+UNKNOWN,moneygram,KIRYAT SHMONA,1
+UNKNOWN,moneygram,JERUSLAEM,1
+UNKNOWN,moneygram,YEHUD,2
+UNKNOWN,moneygram,KFAR EIN A-SAHLA,1
+UNKNOWN,moneygram,MEVSARET ZION,1
+UNKNOWN,moneygram,KFAR YASIF,1
+UNKNOWN,moneygram,MIGDAL HAMEK,1
+UNKNOWN,moneygram,PARDES HANNA- KARKUR,1
+UNKNOWN,moneygram,GANEI TIKVA,1
+UNKNOWN,moneygram,RAHAT,1
+UNKNOWN,moneygram,SAVYON,1
+UNKNOWN,moneygram,TVERYA,1
+UNKNOWN,moneygram,BET SHE'AN,1
+UNKNOWN,moneygram,KIRYAT UNO,1
+UNKNOWN,moneygram,ACRE,1
+UNKNOWN,moneygram,NATSRAT ILIT,1
+UNKNOWN,moneygram,AZUR,1
+UNKNOWN,moneygram,KIRYAT ATA,2
+UNKNOWN,moneygram,RISHON LEZIYYON,1
+UNKNOWN,moneygram,RAANANA,2
+UNKNOWN,moneygram,HOD HASHARON,1
+UNKNOWN,moneygram,KFAR SHEMARYAHU,1
+UNKNOWN,moneygram,MODIIN,2
+UNKNOWN,moneygram,MA`ALOT,1
+UNKNOWN,moneygram,ZICHRON YAAKOV,1
+UNKNOWN,moneygram,QIRYAT SHEMONA,2
+UNKNOWN,moneygram,KIRYAT MALAKHI,2
+UNKNOWN,moneygram,KIRYAT YAM,2
+UNKNOWN,moneygram,ROSH HAAYIN,1
+UNKNOWN,moneygram,DEIR EL ASAD,1
+UNKNOWN,moneygram,ARABA,1
+UNKNOWN,moneygram,SHA`AB,1
+UNKNOWN,moneygram,TSFAT,1
+UNKNOWN,moneygram,GAN YAVNE,1
+UNKNOWN,moneygram,MEVASERET TZION,1
+UNKNOWN,moneygram,EIM MAAHAL,1
+UNKNOWN,moneygram,ARABE,1
+UNKNOWN,moneygram,TEL AVIV JAFFA,1
+UNKNOWN,moneygram,YOKNEAM ILLIT,1
+UNKNOWN,moneygram,KIRYAT TIV'ON,1
+UNKNOWN,moneygram,BEIT SHEAN,1
+UNKNOWN,moneygram,NAZERETH ILIT,1
+UNKNOWN,moneygram,EN GEDI,1
+UNKNOWN,moneygram,SHOHAM,1
+UNKNOWN,moneygram,ALONIM,1
+UNKNOWN,moneygram,CHASHONAIM,1
+UNKNOWN,national,Tel Aviv,1
+ISRAEL,nike,Tel Aviv,1
+UNKNOWN,nike,TEL AVIV,4
+UNKNOWN,nike,Holon,1
+UNKNOWN,nike,TEHERAN,1
+UNKNOWN,nike,HERTZLIYA,1
+UNKNOWN,nike,REHOVOT,1
+UNKNOWN,nike,BEER SHEVA,1
+UNKNOWN,nike,Jerusalem,1
+UNKNOWN,nike,KFAR SABA,1
+UNKNOWN,nike,JERUSALEM,2
+UNKNOWN,nike,ASHDOD,1
+UNKNOWN,nike,NETANYA,1
+UNKNOWN,nike,Zichron Yaakov,1
+UNKNOWN,nike,HAIFA,1
+ישראל,nissan_europe,ראשון-לציון,3
+ישראל,nissan_europe,פתח-תקווה,4
+ישראל,nissan_europe,רעננה,2
+ישראל,nissan_europe,נתניה,3
+ישראל,nissan_europe,ירושלים,2
+ישראל,nissan_europe,חיפה,3
+ישראל,nissan_europe,אשדוד,2
+ישראל,nissan_europe,תל-אביב,3
+ישראל,nissan_europe,אשקלון,2
+ישראל,nissan_europe,באר-שבע,4
+ישראל,nissan_europe,נוף הגליל,1
+ישראל,nissan_europe,כרמיאל,1
+ישראל,nissan_europe,טבריה,1
+ישראל,nissan_europe,עכו,2
+ישראל,nissan_europe,נצרת-עילית,1
+ישראל,nissan_europe,עפולה,1
+ישראל,nissan_europe,נהריה,1
+ישראל,nissan_europe,קרית-אתא,1
+ישראל,nissan_europe,קרית-שמונה,1
+ישראל,nissan_europe,נשר,1
+ישראל,nissan_europe,חדרה,1
+ישראל,nissan_europe,כפר-סבא,1
+ישראל,nissan_europe,הרצליה,1
+ישראל,nissan_europe,באר-יעקב,1
+ישראל,nissan_europe,אילת,2
+ישראל,nissan_europe,"בני עי""ש",1
+UNKNOWN,optical_center,בני ברק,1
+UNKNOWN,optical_center,HERZLIYA,1
+UNKNOWN,optical_center,אשקלון,1
+UNKNOWN,optical_center,חדרה,1
+UNKNOWN,optical_center,נתיבות,1
+UNKNOWN,optical_center,תל אביב,2
+UNKNOWN,optical_center,רמת השרון,1
+UNKNOWN,optical_center,רמת גן,1
+UNKNOWN,optical_center,באר שבע,2
+UNKNOWN,optical_center,Dimona,1
+UNKNOWN,optical_center,אשדוד,1
+UNKNOWN,optical_center,ASHDOD,1
+UNKNOWN,optical_center,עפולה,1
+UNKNOWN,optical_center,YOKNEAM,1
+UNKNOWN,optical_center,CARMIEL,1
+UNKNOWN,optical_center,NOF HAGALIL,1
+UNKNOWN,optical_center,MIGDAL HAEMEK,1
+UNKNOWN,optical_center,קרית שמונה,1
+UNKNOWN,optical_center,טבריה,1
+UNKNOWN,optical_center,רגבה,1
+UNKNOWN,optical_center,AKKO,1
+UNKNOWN,optical_center,ירושלים,3
+UNKNOWN,optical_center,RISHON LEZION,2
+UNKNOWN,optical_center,בית שמש,1
+UNKNOWN,optical_center,חיפה,1
+UNKNOWN,optical_center,HAIFA,1
+UNKNOWN,optical_center,בת ים,2
+UNKNOWN,optical_center,רחובות,1
+UNKNOWN,optical_center,נס ציונה,1
+UNKNOWN,optical_center,HOLON / חולון,1
+UNKNOWN,optical_center,KIRYAT EKRON,1
+UNKNOWN,optical_center,רמלה,1
+UNKNOWN,optical_center,מודיעין-מכבים-רעות,1
+UNKNOWN,optical_center,רעננה,1
+UNKNOWN,optical_center,פתח תקווה,1
+UNKNOWN,optical_center,כפר סבא,1
+UNKNOWN,optical_center,נתניה,1
+UNKNOWN,optical_center,ARIEL,1
+TELAVIV,orangetheory_fitness,Kfar Saba,1
+UNKNOWN,pizza_hut_il,unknown,105
+UNKNOWN,sixt,Jerusalem,3
+UNKNOWN,sixt,Be'er Ora,1
+UNKNOWN,sixt,Tel Aviv,4
+UNKNOWN,sixt,Rishon Letzion,1
+UNKNOWN,sixt,Nahariya,1
+UNKNOWN,sixt,Beit Shemesh,1
+UNKNOWN,sixt,Raanana,1
+UNKNOWN,sixt,Afula,1
+UNKNOWN,sixt,Netanya,1
+UNKNOWN,sixt,Ashdod,1
+UNKNOWN,sixt,Rehovot,1
+UNKNOWN,sixt,Petach Tikva,1
+UNKNOWN,sixt,Kiryat Shmona,1
+UNKNOWN,sixt,Hayarkon,1
+UNKNOWN,sixt,Herzilya,1
+UNKNOWN,sixt,Haifa,1
+UNKNOWN,sixt,Holon,1
+UNKNOWN,sixt,Eilat,1
+UNKNOWN,sixt,Beer-Sheva,1
+UNKNOWN,sixt,Bney Brak,1
+UNKNOWN,sixt,Shilat,1
+UNKNOWN,superdry,Tel Aviv,1
+UNKNOWN,superdry,Ramat Gan,1
+UNKNOWN,the_north_face_eu,Tel Aviv,2
+UNKNOWN,the_north_face_eu,Jerusalem,1
+UNKNOWN,the_north_face_eu,Natanya,1
+UNKNOWN,the_north_face_eu,Ashdod,1
+UNKNOWN,the_north_face_eu,Gan Shmuel,1
+TELAVIV,tier,unknown,729
+UNKNOWN,timberland,Tel Aviv,2
+UNKNOWN,timberland,Eilat,1
+UNKNOWN,timberland,Herziliya,1
+UNKNOWN,timberland,Haifa,1
+ISRAEL,timberland,Herzliya,1
+UNKNOWN,timberland,Ramat Gan,1
+UNKNOWN,tommy_hilfiger,Jerusalem,1
+UNKNOWN,tommy_hilfiger,Rishon Lezion,1
+UNKNOWN,tommy_hilfiger,Tel Aviv,2
+UNKNOWN,tommy_hilfiger,Eilat,1
+UNKNOWN,tommy_hilfiger,Nazareth,1
+UNKNOWN,tommy_hilfiger,Tamar,1
+UNKNOWN,visa,EILAT,5
+UNKNOWN,visa,KESARIA,1
+UNKNOWN,visa,BE'ER SHEVA,9
+UNKNOWN,visa,OFAKIM,2
+UNKNOWN,visa,BEER SHEVA,7
+UNKNOWN,visa,YERUHAM,1
+UNKNOWN,visa,NETIVOT,2
+UNKNOWN,visa,BEER SEVA,1
+DAROM,visa,BE'ER SHEVA,1
+UNKNOWN,visa,KIRIAT MOTZKIN,2
+UNKNOWN,visa,KIRYAT MISKIN,1
+UNKNOWN,visa,SHDEROT,2
+DAROM,visa,DIMONA,1
+UNKNOWN,visa,NETANYA,8
+UNKNOWN,visa,DIMONA,3
+UNKNOWN,visa,RAHAT,1
+DAROM,visa,ASHKELON,1
+UNKNOWN,visa,ASHKELON,7
+DAROM,visa,MEYTAR,1
+UNKNOWN,visa,KIRYAT GAT,2
+DAROM,visa,KIRYAT GAT,1
+UNKNOWN,visa,KFAR GAT,1
+UNKNOWN,visa,NAHARIHA,1
+UNKNOWN,visa,ASHDOD,11
+UNKNOWN,visa,KIRYAT MAL'AHI,1
+UNKNOWN,visa,M. GAN YAVNE,1
+UNKNOWN,visa,ARAD,2
+UNKNOWN,visa,MAG'AR,1
+UNKNOWN,visa,GEDERA,3
+MERKAZ,visa,GEDERA,1
+UNKNOWN,visa,YAVNE,4
+MERKAZ,visa,RA'ANANA,2
+UNKNOWN,visa,REHOVOT,5
+UNKNOWN,visa,KIRYAT EKRON,1
+UNKNOWN,visa,KIRYAT HARBA,1
+UNKNOWN,visa,MAZKERET BAT,1
+UNKNOWN,visa,REHOVOT SHA'ARAYM,1
+MERKAZ,visa,REHOVOT,1
+UNKNOWN,visa,NES ZIONA,2
+UNKNOWN,visa,NESS ZIONA,1
+UNKNOWN,visa,BETH SHEMESH,1
+UNKNOWN,visa,BEIT SHEMESH,2
+UNKNOWN,visa,BAT YAM,13
+UNKNOWN,visa,RISHON LEZION,1
+YERUSHALAYIM,visa,BET SHEMESH,1
+UNKNOWN,visa,RAMATA'IM,1
+MERKAZ,visa,RISHON LETSIYON,2
+UNKNOWN,visa,RISHON LETZION,1
+TELAVIV,visa,BAT YAM,2
+UNKNOWN,visa,RISHON LE ZION,7
+UNKNOWN,visa,HOLON,14
+UNKNOWN,visa,TEL AVIV,115
+JERUSALEM,visa,HAR’EL,1
+UNKNOWN,visa,YAFO,1
+UNKNOWN,visa,BEER YAKOV,1
+TELAVIV,visa,HOLON,4
+YERUSHALAYIM,visa,JERUSALEM,15
+UNKNOWN,visa,RAMLA,1
+IERUSALIM,visa,JERUSALEM,2
+MERKAZ,visa,RAMLA,1
+UNKNOWN,visa,RAMLEH,1
+TELAVIV,visa,TEL AVIV,11
+UNKNOWN,visa,JAFFO,1
+UNKNOWN,visa,AZUR,2
+TELAVIV,visa,TEL AVIV-YAFO,7
+UNKNOWN,visa,BET DAGON,1
+UNKNOWN,visa,LOD,9
+UNKNOWN,visa,TEL AVIVE,1
+MERKAZ,visa,LOD,1
+TELAVIV,visa,TEL' AVIV-YAFO,1
+HAGADAHAMAARAVIT,visa,BEYTAR ILIT,1
+UNKNOWN,visa,GIVATAYIM,7
+UNKNOWN,visa,JERUSALEM,59
+UNKNOWN,visa,RAMAT GAN,26
+UNKNOWN,visa,GIVATAIM,2
+TELAVIV,visa,RAMAT GAN,6
+TELAVIV,visa,OR YEHUDA,1
+UNKNOWN,visa,OR YEHUDA,2
+TELAVIVDISTRICT,visa,QIRYAT ONO,1
+UNKNOWN,visa,RAMAT AVIV G TAL AVIV,1
+UNKNOWN,visa,KIRYAT ONO,1
+UNKNOWN,visa,TIBERIAS,3
+UNKNOWN,visa,BNEI BRAK,8
+MERKAZ,visa,GIV'AT SHMU'EL,1
+UNKNOWN,visa,BNEY BRAK,4
+UNKNOWN,visa,YAHUD,3
+TELAVIV,visa,BNEY BRAK,1
+TELAVIV,visa,BNE BRAK,1
+UNKNOWN,visa,KIRIAT ONO,1
+CENTRALDISTRICT,visa,MODIIN,1
+UNKNOWN,visa,RAMAT HAGOLAN,1
+UNKNOWN,visa,PETACH TIKVA,4
+UNKNOWN,visa,PETAH TIKVA,5
+UNKNOWN,visa,PETAH TIQWA,4
+MERKAZ,visa,PETAH TIKVA,1
+UNKNOWN,visa,RAMAT HASHARON,4
+UNKNOWN,visa,HERZLIYA,2
+UNKNOWN,visa,RAMAT HASHARO,1
+TELAVIV,visa,RAMAT HASHARON,1
+UNKNOWN,visa,HERZLIA,3
+UNKNOWN,visa,ZEFAT DAROM,1
+UNKNOWN,visa,RAMLE,1
+TELAVIV,visa,HERZLIYA,2
+UNKNOWN,visa,KFAR SHMARYAHU,2
+UNKNOWN,visa,HERZLIAL,1
+UNKNOWN,visa,ZFAT,1
+UNKNOWN,visa,MAALOT,1
+UNKNOWN,visa,CARMIYEL,1
+UNKNOWN,visa,KFAR KADIMA,1
+JERUSALEM,visa,ZION,1
+UNKNOWN,visa,RALE,1
+UNKNOWN,visa,YAFFO,1
+UNKNOWN,visa,TEL AVIV YAFO,1
+UNKNOWN,visa,RA'ANANA,2
+UNKNOWN,visa,HOD HASHARON,3
+UNKNOWN,visa,RAANANA,2
+UNKNOWN,visa,HOD HASARON,1
+CENTRALDISTRICT,visa,ROSH HA‘AYIN,1
+UNKNOWN,visa,ROSH HA'AYN,1
+UNKNOWN,visa,KFAR SABA,5
+MERKAZ,visa,KAFR KASEM,1
+MERKAZ,visa,KFAR SABA,1
+MERKAZ,visa,KFAR SAVA,1
+HAGADAHAMAARAVIT,visa,MA'ALE ADUMIM,1
+UNKNOWN,visa,NETANYA KIRYAT NORDAU,1
+HAGADAHAMAARAVIT,visa,RAM,1
+MIRKAZ,visa,NETANIYA,1
+UNKNOWN,visa,MAALEY ADUMIM,1
+UNKNOWN,visa,EVEN YEHUDA,2
+UNKNOWN,visa,RAMAT CHEN,1
+UNKNOWN,visa,TEL MOND,3
+MERKAZ,visa,NETANYA,2
+UNKNOWN,visa,NETHANYA,1
+UNKNOWN,visa,NATHANYA,2
+UNKNOWN,visa,TIRA,1
+UNKNOWN,visa,NETANYA EZOR HATASIYA,1
+UNKNOWN,visa,KOKHAV YAIR,1
+UNKNOWN,visa,KFAR YONA,1
+UNKNOWN,visa,KALANSAVA,1
+UNKNOWN,visa,TAYBE,1
+UNKNOWN,visa,NABLUS,1
+UNKNOWN,visa,BAKA EL GARGIE,1
+UNKNOWN,visa,LOWER GALILEE,1
+HAIFA,visa,HADERA,2
+UNKNOWN,visa,HEDERA,1
+UNKNOWN,visa,HADERA,1
+UNKNOWN,visa,OR AKIVA,1
+UNKNOWN,visa,PARDESS HANA,2
+UNKNOWN,visa,PARDES HANNA,2
+UNKNOWN,visa,KARKUR,1
+UNKNOWN,visa,AFULA,5
+UNKNOWN,visa,BINYAMINA,1
+UNKNOWN,visa,BAKA EL GARBI,1
+UNKNOWN,visa,BAKA EL GARBIYA,1
+HAIFA,visa,ZIKHRON YA'AKOV,1
+UNKNOWN,visa,GIVAT OLGA,1
+UNKNOWN,visa,ZICRON YAKOV,1
+UNKNOWN,visa,BENJAMINA,1
+UNKNOWN,visa,KFAR KARA,1
+UNKNOWN,visa,TEVRIA ALIT,1
+UNKNOWN,visa,JUDEIDA,1
+UNKNOWN,visa,UM-EL-FAHEM,1
+UNKNOWN,visa,UM EL FAHEM,1
+UNKNOWN,visa,OUM EL FAHEM,1
+HAIFA,visa,TIRAT KARMEL,1
+UNKNOWN,visa,TIRAT HACARMEL,2
+UNKNOWN,visa,HAIFA,48
+HAIFA,visa,HAIFA,6
+UNKNOWN,visa,DALYAT EL CAR,1
+UNKNOWN,visa,MITZPE RAMON,1
+HAIFA,visa,NESHER,1
+UNKNOWN,visa,KIRIAT TIV'ON,1
+UNKNOWN,visa,KIRYAT TIVONE,1
+UNKNOWN,visa,KIRYAT TIVON,3
+UNKNOWN,visa,KIRIAT ATA,1
+UNKNOWN,visa,KIRYAT HAIM,1
+UNKNOWN,visa,KIRYAT MOTZKI,2
+UNKNOWN,visa,KIRYAT ATA,3
+UNKNOWN,visa,KIRYAT YAM,3
+UNKNOWN,visa,KIRYAT BIALIK,4
+UNKNOWN,visa,QIRYAT BIALIK,1
+HAIFA,visa,QIRYAT YAM,1
+HAIFA,visa,KIRYAT MOTZKIN,1
+UNKNOWN,visa,MIGDAL HAEMEK,1
+UNKNOWN,visa,MIGDAL HA'EMEK,1
+TSAFON,visa,ZARZIR,1
+UNKNOWN,visa,YAFIA,1
+UNKNOWN,visa,AFULA ELIT,1
+UNKNOWN,visa,SHEFARAM,1
+UNKNOWN,visa,SHFARAM,1
+UNKNOWN,visa,SHFARAAM,1
+UNKNOWN,visa,AKKO,2
+UNKNOWN,visa,ACCO,1
+UNKNOWN,visa,AZA,1
+JERUSALEM,visa,JERUSALEM,1
+TSAFON,visa,RAMA,1
+TSAFON,visa,AKKO,2
+UNKNOWN,visa,NATCRAT,1
+TSAFON,visa,NAZARET,2
+TSAFON,visa,IBLLIN,1
+UNKNOWN,visa,NATZARETH,1
+UNKNOWN,visa,NAZRATH,1
+UNKNOWN,visa,IKSAL,1
+UNKNOWN,visa,BEIT SHAAN,1
+UNKNOWN,visa,BEIT SHE'AN,1
+UNKNOWN,visa,BEIT SHEAN,1
+UNKNOWN,visa,TAMARA,1
+UNKNOWN,visa,KAFR REINEH,1
+UNKNOWN,visa,NATCRAT ELIT,1
+UNKNOWN,visa,DABBURIYA,1
+UNKNOWN,visa,KABUL,1
+UNKNOWN,visa,NAHARIYA,3
+TSAFON,visa,NAGARIYA,1
+UNKNOWN,visa,NAARIYA,1
+TSAFON,visa,NAHARIYA,1
+UNKNOWN,visa,NAHARYIA,1
+TSAFON,visa,KFAR YASIF,1
+UNKNOWN,visa,CFAR YASSIF,1
+UNKNOWN,visa,KFAR TAVOR,1
+TSAFON,visa,KFAR TAVOR,1
+UNKNOWN,visa,MAJD AL-KRUM,1
+UNKNOWN,visa,YARKA,1
+TSAFON,visa,TUR'AN,1
+UNKNOWN,visa,SAKHNIN,1
+UNKNOWN,visa,ARRABA,1
+UNKNOWN,visa,BU'EINE NUJEIDAT,1
+UNKNOWN,visa,DEIR EL ASAD,1
+UNKNOWN,visa,CARMIEL,3
+UNKNOWN,visa,YAVNIEL,1
+UNKNOWN,visa,MENEHAMYA,1
+UNKNOWN,visa,EILABUN,1
+UNKNOWN,visa,CARMEL,1
+UNKNOWN,visa,TIRAT HACARME,1
+UNKNOWN,visa,MIILYA,1
+UNKNOWN,visa,MA'ALOT,1
+TSAFON,visa,MIGDAL,1
+UNKNOWN,visa,HURFEISH,1
+UNKNOWN,visa,TZFAT,1
+UNKNOWN,visa,ROSH PINA,1
+UNKNOWN,visa,HATZOR HAGLILIT,1
+UNKNOWN,visa,RAMAT EF'AL,1
+UNKNOWN,visa,KIRYAT MALACH,1
+UNKNOWN,visa,MESCHARI,1
+UNKNOWN,visa,KATSRIN,1
+UNKNOWN,visa,KIRYAT SHMONA,1
+UNKNOWN,visa,KIRYAT SHMONE,1
+TSAFON,visa,KIRYAT SHMONA,1
+UNKNOWN,visa,MIGDAL SHMS,1
+UNKNOWN,visa,MAALE ADUMIM,1
+UNKNOWN,visa,NEVE MONOSSON,1
+UNKNOWN,visa,YOKNE'AM,1
+UNKNOWN,visa,GIVAT ADA,1
+UNKNOWN,visa,DALAT EL CE,1
+UNKNOWN,visa,NAZARETH,2
+IA,visa,LU VERNE,1
+NE,visa,SEWARD,1
+NM,visa,ELIDA,1
+CENTRAL,western_union,Petakh Tiqva,1
+JERUSALEM,western_union,Jerusalem,37
+CENTRAL,western_union,Petah Tikva,7
+CENTRAL,western_union,Petach Tikva,1
+TELAVIV,western_union,Ramat Gan,7
+TELAVIV,western_union,Tel Aviv,26
+TELAVIV,western_union,Bene Beraq,2
+CENTRAL,western_union,Modiin,1
+CENTRAL,western_union,Yehud,1
+CENTRAL,western_union,Givaat Shmuel,1
+CENTRAL,western_union,Givat Shmuel,1
+CENTRAL,western_union,Lod,3
+HAIFA,western_union,Ako,1
+TELAVIV,western_union,Or Yehuda,1
+TELAVIV,western_union,Or Yeuda,1
+CENTRAL,western_union,Ganey Tikva,1
+JERUSALEM,western_union,Abu Ghosh,1
+CENTRAL,western_union,Magshimim,1
+TELAVIV,western_union,Holon,7
+CENTRAL,western_union,Ramle,3
+CENTRAL,western_union,Ramla,2
+TELAVIV,western_union,Jaffa,1
+TELAVIV,western_union,Bat Yam,8
+CENTRAL,western_union,Rishon Leziyyon,5
+CENTRAL,western_union,Rishon Lezion,3
+CENTRAL,western_union,Nes Ziona,2
+JERUSALEM,western_union,Mazkeret Batia,1
+CENTRAL,western_union,Rehovot,6
+TELAVIV,western_union,Tel Aviv Yafo,1
+JERUSALEM,western_union,Beitar Ilit,1
+NORTHERN,western_union,Tveria,1
+CENTRAL,western_union,Kiryat Ekron,1
+TELAVIV,western_union,Azur,1
+CENTRAL,western_union,Beit Dagan,1
+SOUTHERN,western_union,Arad,1
+SOUTHERN,western_union,Beersheva,1
+SOUTHERN,western_union,Beer Sheva,3
+SOUTHERN,western_union,Negev,1
+SOUTHERN,western_union,Segev Shalom,1
+SOUTHERN,western_union,Omer,1
+SOUTHERN,western_union,Ashkelon,4
+SOUTHERN,western_union,Ashqkelon,2
+SOUTHERN,western_union,Dimona,1
+SOUTHERN,western_union,Kiryat Gat,2
+SOUTHERN,western_union,Ashdod,6
+SOUTHERN,western_union,Eilat,1
+SOUTHERN,western_union,Israel,1
+SOUTHERN,western_union,Mizpe Ramon,1
+SOUTHERN,western_union,Kiryat Malakhi,1
+SOUTHERN,western_union,Hatzor Ashdod,1
+CENTRAL,western_union,Bnei Ayish,2
+CENTRAL,western_union,Gedera,1
+SOUTHERN,western_union,Ofakim,1
+JERUSALEM,western_union,Mevaseret,1
+HAIFA,western_union,Kiryat Bialik,2
+JERUSALEM,western_union,Jeruslem,1
+CENTRAL,western_union,Rishon Letzion,1
+TELAVIV,western_union,Maale Edomim,1
+RAMALLAHANDALBIREH,western_union,Ramallah,1
+CENTRAL,western_union,Garnei Tikva,1
+TELAVIV,western_union,Herzliyya,1
+CENTRAL,western_union,Einat,1
+TELAVIV,western_union,Ramat Hasharon,1
+CENTRAL,western_union,Rosh Ha Ayin,1
+TELAVIV,western_union,Herzeliya,1
+TELAVIV,western_union,Herzliya,2
+SOUTHERN,western_union,Rahat,1
+CENTRAL,western_union,Hod Ha Sharon,1
+CENTRAL,western_union,Ra Anana,1
+NORTHERN,western_union,Ofra,1
+CENTRAL,western_union,Kfar Kassem,1
+CENTRAL,western_union,Kfar Qasem,1
+CENTRAL,western_union,Rishpon,1
+CENTRAL,western_union,Kfar Saba,1
+CENTRAL,western_union,Kefar Sava,1
+CENTRAL,western_union,Netanya,7
+NORTHERN,western_union,Eli,1
+JERUSALEM,western_union,Ariel,1
+CENTRAL,western_union,Qalansuwa,1
+CENTRAL,western_union,Tel Mond,1
+CENTRAL,western_union,Even Yehuda,1
+NORTHERN,western_union,Alfei Menashe,1
+CENTRAL,western_union,Maabarot,1
+CENTRAL,western_union,Taiybe,1
+JERUSALEM,western_union,Emanuel,1
+HAIFA,western_union,Hadera,4
+HAIFA,western_union,Harish,1
+HAIFA,western_union,Pardes Hana,1
+HAIFA,western_union,Zihron Yaakov,2
+HAIFA,western_union,Umm El Fahem,2
+HAIFA,western_union,Kiryat Haim,2
+NORTHERN,western_union,Afula,3
+HAIFA,western_union,Kiryat Tivon,1
+HAIFA,western_union,Haifa,11
+HAIFA,western_union,Kiryat Tiv On,1
+NORTHERN,western_union,Kfar Kana,2
+NORTHERN,western_union,Kafr Manda,1
+NORTHERN,western_union,Tamra,2
+HAIFA,western_union,Nesher,1
+NORTHERN,western_union,Nazrat Elit,1
+NORTHERN,western_union,Shfaram,1
+HAIFA,western_union,Kiryat Motzkin,1
+HAIFA,western_union,Kiryat Ata,2
+HAIFA,western_union,Kiryat Mozkin,1
+NORTHERN,western_union,Yarka,1
+NORTHERN,western_union,Nahariyya,1
+NORTHERN,western_union,Nahariya,1
+NORTHERN,western_union,Tur An,1
+NORTHERN,western_union,Kafr Kanna,1
+NORTHERN,western_union,Karmiel,3
+NORTHERN,western_union,Arabe,1
+NORTHERN,western_union,Tzfat,2
+NORTHERN,western_union,Hatzur Haglilit,1
+NORTHERN,western_union,Metula,1
+NORTHERN,western_union,Majdel Shams,1
+HAIFA,western_union,Arara,1

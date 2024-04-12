@@ -1,0 +1,180 @@
+City,Place Name,Zipcode,Name
+Urayasu,audi,279-0042 Chiba ICHIKAWA/FUNABASHI Urayasu Higashino 3-9-22,unknown,Audi Approved Automobile Urayasu
+Setagaya,audi,158-0082 Tokyo SETAGAYA/OTA Setagaya Todoroki 2-6-2,unknown,Audi Approved Automobile Setagaya
+Setagaya,audi,158-0086 Tokyo SETAGAYA/OTA Setagaya Oyamadai 2-30-8,unknown,Audi Setagaya
+Suginami,audi,168-0072 Tokyo SUGINAMI Suginami Takaido Higashi 3-36-32,unknown,Audi Suginami
+Minato,audi,105-8575 Tokyo MINATO/SHIBUYA/SHINAGAWA (Share) Minato Shibaura 1-6-38,unknown,Audi Shibaura
+Meguro,audi,152-0002 Tokyo MINATO/SHIBUYA/SHINAGAWA (Share) Meguro Megurohoncho 2-16-21,unknown,Audi Meguro
+Koto,audi,135-0061 Tokyo EDOGAWA/ADACHI/KOUTOU (Share) Koto Toyosu 1-2-38,unknown,Audi Toyosu
+Koto,audi,135-0063 Tokyo EDOGAWA/ADACHI/KOUTOU (Share) Koto Ariake 1-3-20,unknown,Audi Approved Automobile Ariake
+Edogawa,audi,132-0023 Tokyo EDOGAWA/ADACHI/KOUTOU (Share) Edogawa Nishi Ichinoe 1-9-8,unknown,Audi Edogawa
+Toshima,audi,171-0043 Tokyo TOSHIMA Toshima Kanamecho 3-31-3,unknown,Audi Ikebukuro
+Chofu,audi,182-0006 Tokyo MITAKA/CHOFU/FUCHU Chofu Nishi Tsutsujigaoka 1-1-1,unknown,Audi Chofu
+Chofu,audi,182-0011 Tokyo MITAKA/CHOFU/FUCHU Chofu Jindaijikitamachi 3-23-1,unknown,Audi Approved Automobile Chofu
+Hino,audi,191-0024 Tokyo Hino Manganji 4-30-1,unknown,Audi Hachioji
+Kodaira,audi,187-0001 Tokyo NISHI TOKYO Kodaira Onumacho 3-13-9,unknown,Audi Nishi Tokyo
+Tachikawa,audi,190-0011 Tokyo TACHIKAWA Tachikawa Takamatsucho 2-39-20,unknown,Audi Tachikawa
+Chiyoda,audi,102-0094 Tokyo Chiyoda Kioicho Chiyoda-ku 4-3,unknown,Audi City Kioicho
+Yokohama,audi,225-0024 Kanagawa AOBA/MIDORI Yokohama Ichigaocho Aoba-ku 517-17,unknown,Audi Yokohama Aoba
+Yokohama,audi,224-0015 Kanagawa MIYAMAE/MIDORI Yokohama Ushikubonishi Tsuzuki-ku 2-5-9,unknown,Audi Approved Automobile Yokohama Aoba
+Yamato,audi,242-0001 Kanagawa YAMATO/ATSUGHI Yamato Shimotsuruma 61-1,unknown,Audi Atsugi
+Sagamihara,audi,252-0234 kanagawa SAGAMIHARA/MACHIDA Sagamihara Kyowa Naka-ku 3-11-5,unknown,Audi Sagamihara
+Sagamihara,audi,252-0234 kanagawa KANAGAWA/SAGAMIHARA Sagamihara Kyowa Chuo-ku 3-11-5,unknown,Audi Approved Automobile Sagamihara
+Kawasaki,audi,216-0005 Kanagawa MIYAMAE/TAKATSU Kawasaki Tsuchihashi Miyamae-ku 4-14-1,unknown,Audi Tomei Kawasaki
+Tokyo,avis,,unknown,null Tokyo Airport
+Hachioji-city,bmw_group,,unknown,Y.K. Kokubo Motors / M. Hachioji Motorrad Hachioji
+"Toshima-ku,",bmw_group,,unknown,"K.K. Autoplatz, MINI Ikebukuro"
+"Suginami-ku,",bmw_group,,unknown,"K.K. ALC Motoren Tokyo, BMW Premium Selection Suginami"
+Adachi-ku,bmw_group,,unknown,"Sojitz Auto Group Tokyo K.K, Adachi"
+Koto-ku,bmw_group,,unknown,K.K.Techno Koshida / M.Tokyo-Bay Motorrad Tokyo-Bay
+Minato-ku,bmw_group,,unknown,"BMW Tokyo Corp., BMW Aoyama Square"
+Meguro-ku,bmw_group,,unknown,"K.K. ABE MOTORS, Meguro Showroom / MINI Meguro"
+"Machida-city,",bmw_group,,unknown,"K.K. Motoren Tomei-Yokohama, Tomei- Yokohama/MINI Tomei-Yokohama"
+"Higashiyamato-city,",bmw_group,,unknown,"K.K. Motoren Toto, BPS Higashi-Yama to"
+"Fuchu-city,",bmw_group,,unknown,"K.K. Murauchi Gaisha Center, MINI F uchu"
+"Edogawa-ku,",bmw_group,,unknown,"Sojitz Auto Group Tokyo K.K., MINI Edogawa"
+Chuo-ku,bmw_group,,unknown,"BMW Tokyo Corp., Kachidoki Service/ BPS Kachidoki/MINI NEXT Kachidoki"
+"Minato-ku,",bmw_group,,unknown,"BMW Tokyo Corp., MINI Roppongi"
+Shinagawa-ku,bmw_group,,unknown,"K.K. ABE MOTORS, BMW Premium Select ion Shinagawa/MINI NEXT Shinagawa"
+"Hachioji-city,",bmw_group,,unknown,"K.K. Murauchi Gaisha Center, MINI Hachioji"
+"Kunitachi-city,",bmw_group,,unknown,"K.K. Murauchi Gaisha Center, Kunita chi/BPS Kunitachi"
+Ota-ku,bmw_group,,unknown,"Nicole Cars LLC, Ota"
+Shinagwa-ku,bmw_group,,unknown,"K.K. ABE MOTORS, Shinagawa Showroom"
+Setagaya-ku,bmw_group,,unknown,K.K. Motoren Saitama/ M. Setagaya Motorrad Setagaya
+"Setagaya-ku,",bmw_group,,unknown,"YANASE Bayern Motors K.K., Setagaya"
+Kita-ku,bmw_group,,unknown,K.K. Motoren Saitama/ M. Asukayama Motorrad Asukayama
+"Komae-city,",bmw_group,,unknown,"K.K. Murauchi Gaisha Center, MINI N EXT Komae"
+"Higashikurume-city,",bmw_group,,unknown,"K.K. Motoren Toto, Nishi-Tokyo HQ"
+"Kodaira-city,",bmw_group,,unknown,"K.K. Motoren Toto, MINI NEXT Nishi- Tokyo"
+"Nerima-ku,",bmw_group,,unknown,"K.K. Autoplatz, MINI NEXT Nerima"
+Shibuya-ku,bmw_group,,unknown,"K.K. ALC Motoren Tokyo, Sasazuka Wo rkshop"
+"Chofu-city,",bmw_group,,unknown,"K.K. Motoren Tomei-Yokohama, Chofu / BMW Premium Selection Chofu"
+"Higashi-Kurume-city,",bmw_group,,unknown,"K.K. Motoren Toto, MINI Nishi-Tokyo"
+Toshima-Ku,bmw_group,,unknown,"K.K. Autoplatz, Ikebukuro"
+"Ota-ku,",bmw_group,,unknown,"K.K. ABE MOTORS, MINI Ota"
+Suginami-ku,bmw_group,,unknown,K.K.Techno Koshida / M.Suginami Motorrad Suginami
+"Adachi-ku,",bmw_group,,unknown,"Sojitz Auto Group Tokyo K.K., MINI Kameari / MINI NEXT Kameari"
+"Shinjuku-ku,",bmw_group,,unknown,"WILLPLUS Motoren Corporation, MIN I Shinjuku/MINI NEXT Shinjuku"
+"Nakano-ku,",bmw_group,,unknown,"WILLPLUS Motoren Corporation, MIN I NEXT Nakano/MINI Shinjuku SC"
+Fuchu-city,bmw_group,,unknown,K.K. Arai Motors / A-big Motorrad A-big Motorrad
+"Siginami-ku,",bmw_group,,unknown,"K.K. ALC Motoren Tokyo, Suginami sh iten"
+Tokyo,botteg_aveneta,,unknown,Tokyo - Nihonbashi Mitsukoshi
+unknown,brewdog,Japan 〒106-0032 Tokyo Minato City Roppongi 5 Chome−3−2 齋藤ビル 1F,unknown,Roppongi
+unknown,google_offices,"Roppongi Hills Mori Tower
+6-10-1 Roppongi
+Minato-ku Tokyo 106-6126
+Japan",unknown,Tokyo - RPG
+unknown,google_offices,"Shibuya Stream
+3-21-3 Shibuya
+Shibuya-ku Tokyo 150-0002
+Japan",unknown,Tokyo - STRM
+unknown,hooters,Ginza Nine 1-2F 8-5 Ginza Chuo-Ku Tokyo Japan,unknown,Hooters
+unknown,jll,,unknown,Sanbancho Office
+unknown,meta,,unknown,Meta
+Azabujuban,orangetheory_fitness,,unknown,Azabujuban
+Higashikurume,orangetheory_fitness,,unknown,"Higashikurume, Japan"
+Hachioji,orangetheory_fitness,,unknown,Hachioji
+Toshima City,petit_bateau,,unknown,Petit Bateau Seibu Ikebukuro
+Shinjuku City,petit_bateau,,unknown,Petit Bateau Isetan Shinjuku
+Shibuya City,petit_bateau,,unknown,Petit Bateau Daikanyama
+Setagaya City,petit_bateau,,unknown,Petit Bateau Tamagawa Takashimaya
+Musashino,petit_bateau,,unknown,Petit Bateau Kichijoji
+Meguro City,petit_bateau,,unknown,Petit Bateau Jiyugaoka
+Chuo City,petit_bateau,,unknown,Petit Bateau Ginza
+Chiyoda City,petit_bateau,,unknown,Petit Bateau Daimaru Tokyo
+unknown,rains,,unknown,Rains Store Miyashita Park (Pop-up)
+unknown,shake_shack,3-5-1 Marunouchi Chiyoda-ku; Tokyo   Japan,unknown,"Tokyo, Tokyo International Forum"
+unknown,shake_shack,Ebisu Minami 1-6Shibuya-ku; Tokyo   Japan,unknown,"Tokyo, Ebisu"
+unknown,shake_shack,2-1-15 Kita Aoyama Minato-ku; Tokyo 107-0061  Japan,unknown,"Tokyo, Meiji Jingu Gaien"
+unknown,shake_shack,Futakotamagawa Takashimaya S.C.; 1st floor Marronnier Court 2-27-5 Tamagawa; Setagaya-ku Tokyo   Japan,unknown,"Tokyo, Futako Tamagawa"
+unknown,shake_shack,Tokyo Dome Gate 22 1-3-61; Kouraku Bunkyo-ku Tokyo   Japan,unknown,"Tokyo, Tokyo Dome"
+unknown,shake_shack,Roppongi Hills North Tower 1F; 6-2-31 Roppongi Minato-ku Tokyo   Japan,unknown,"Tokyo, Roppongi"
+unknown,shake_shack,Odakyu Southern Tower 2F; Shinjuku Southern Terrace 2-2-1 Yoyogi; Shibuya-ku Tokyo 151-8583  Japan,unknown,"Tokyo, Shinjuku"
+"Toshima-ku,",travelex,1F Livic Ono Bldg. 1-21-3 Nishiikebukuro Toshima-ku 171-0021,unknown,IKEBUKURO NISHIGUCHI
+Toshima-ku,travelex,〒171-0022 c/o JR East Ikebukuro Station 1-28-2 Minami Ikebukuro Toshima-ku Tokyo,unknown,Viewcard Currency Exchange Center JR Ikebukuro Station Branch
+Shinjuku-ku,travelex,Keio Shinjuku Sta. Nishiguchi Ticket Gate 1-1-4 Nishi Shinjuku Shinjuku-ku Tokyo 160-0023,unknown,Keio Shinjuku
+Shibuya-ku,travelex,c/o JR EAST Travel Service Center Next to JR Shinjuku Station New South Gate 5-24-55 Sendagaya Shibuya-ku 151-0051,unknown,Viewcard Currency Exchange Center JR Shinjuku Station New South Gate Branch
+"Shibuya-ku,",travelex,2F Shibuya Mark City East 1-12-3 Dogenzaka Shibuya-ku 150-0043,unknown,Shibuya Mark City
+"Shibuya-ku,",travelex,c/o Resona Bank 1F 2-20-11 Shibuya Shibuya-ku 150-0002,unknown,Shibuya
+Taito-Ku,travelex,Keisei Ueno Station 1-60 Ueno Koen Taito-Ku  110-0007,unknown,KEISEI UENO
+Chiyoda-Ku,travelex,1-1 Kanda  Hanaokacho Chiyoda-Ku 101-0028,unknown,AKIHABARA
+"Chiyoda-ku,",travelex,C/O JR EAST Travel Service Center JR Tokyo Station Marunouchi North Exit  1-9-1 Marunouchi Chiyoda-ku 100-0005,unknown,Tokyo Station JR EAST Travel Service Center
+"Minato-ku,",travelex,c/o Resona Bank 1F 1-16-4 Shimbashi Minato-ku 105-0004,unknown,Shimbashi
+"Taito-ku,",travelex,1F Asakusa Culture Tourism Center 2-18-9 Kaminarimon Taito-ku 111-0034,unknown,Asakusa
+"Yaesu, Chuo-ku",travelex,Yaesu Chikagai No2 Street  Yaesu Chikagai Middle No4 2-1  Yaesu Chiyoda-ku  104-0028,unknown,Yaechika
+"Minato-ku,",travelex,c/o JR East Shinagawa Station 3-26-27 Takanawa Minato-ku 108-0074,unknown,Viewcard Currency Exchange Center JR Shinagawa
+Chuo-ku,travelex,T-CAT 3F Hakozakicho42-1  Nihombashi  Chuo-ku  103-0015,unknown,T-CAT
+Tokyo,travelex,2F Keikyu Haneda Airport Int'l Terminal station 2-6-5 Haneda Airport Ota-ku Tokyo 144-0041,unknown,Haneda Airport Int’l Arrival Lobby
+Ota-ku,travelex,C/O Keikyu Haneda Airport International Terminal Station  2-6-5 3F Haneda Airport  Ota-ku  144-0041,unknown,HANEDA AIRPORT INTERNATIONAL TERMINAL STATION
+Ota-ku,travelex,3F Haneda International Terminal  Haneda Airport 2-6-5  Otaku  144-0041,unknown,HANEDA AIRPORT INT'L DEPARTURE GATE
+Otaku,travelex,Domestic Terminal 1  Haneda Airport 3-3-2  Otaku  144-0041,unknown,HANEDA DOMESTIC T1
+Ota-ku,travelex,3F 3-4-2 T2 Haneda Airport Ota-ku 144-0041,unknown,Haneda T2 A-side
+Ota-ku,travelex,3F Platform for Haneda Airport Terminal 2 Tokyo Monorail Haneda Airport International Terminal Station 2-6-5 Haneda Airport Ota-ku 144-0041,unknown,Viewcard Currency Exchange Center Tokyo Monorail Haneda Airport International Terminal Station Branch
+unknown,verve_coffee_roasters,1395 Yamanouchi Kamakura Kanagawa 247-0062,unknown,Verve Coffee Roasters
+unknown,verve_coffee_roasters,5-16-7 Roppongi Minatoku Tokyo 106-0032,unknown,Verve Coffee Roasters
+unknown,verve_coffee_roasters,NEWoMan Shinjuku 2F 5-24-55 Sendagaya Shibuya City Tokyo 151-0051,unknown,Verve Coffee Roasters
+FUSSA-SHI,visa,,unknown,unknown
+AKISHIMA-SHI,visa,,unknown,unknown
+HACHIOJI-SHI,visa,,unknown,unknown
+TACHIKAWA-SHI,visa,,unknown,unknown
+HINO-SHI,visa,,unknown,unknown
+HIGASHIMURAYAMA-SHI,visa,,unknown,unknown
+KODAIRA-SHI,visa,,unknown,unknown
+KUNITACHI-SHI,visa,,unknown,unknown
+KOKUBUNJI-SHI,visa,,unknown,unknown
+TAMA-SHI,visa,,unknown,unknown
+FUCHU-SHI,visa,,unknown,unknown
+KOGANEI-SHI,visa,,unknown,unknown
+NISHITOKYO-SHI,visa,,unknown,unknown
+NERIMA-KU,visa,,unknown,unknown
+MUSASHINO-SHI,visa,,unknown,unknown
+MITAKA-SHI,visa,,unknown,unknown
+MACHIDA-SHI,visa,,unknown,unknown
+CHOFU-SHI,visa,,unknown,unknown
+ITABASHI-KU,visa,,unknown,unknown
+SUGINAMI-KU,visa,,unknown,unknown
+SETAGAYA-KU,visa,,unknown,unknown
+NAKANO-KU,visa,,unknown,unknown
+KITA-KU,visa,,unknown,unknown
+TOSHIMA-KU,visa,,unknown,unknown
+SHINJUKU-KU,visa,,unknown,unknown
+TOSHIMA,visa,,unknown,unknown
+SHIBUYA-KU,visa,,unknown,unknown
+SHINJUKU,visa,,unknown,unknown
+BUNKYO-KU,visa,,unknown,unknown
+ADACHI-KU,visa,,unknown,unknown
+MEGURO-KU,visa,,unknown,unknown
+MINATO-KU,visa,,unknown,unknown
+ARAKAWA-KU,visa,,unknown,unknown
+CHIYODA-KU,visa,,unknown,unknown
+OTA-KU,visa,,unknown,unknown
+TAITO-KU,visa,,unknown,unknown
+TAITO,visa,,unknown,unknown
+CHIYODA,visa,,unknown,unknown
+SHINAGAWA-KU,visa,,unknown,unknown
+KATSUSHIKA-KU,visa,,unknown,unknown
+CHUO-KU,visa,,unknown,unknown
+MINATO,visa,,unknown,unknown
+SUMIDA-KU,visa,,unknown,unknown
+KOTO-KU,visa,,unknown,unknown
+EDOGAWA-KU,visa,,unknown,unknown
+Kita Ku,western_union,,unknown,CE HORIFUNE
+Ota,western_union,,unknown,CE KAMATA
+Hachioji Shi,western_union,,unknown,JTA ST COUPON
+Shinjuku Ku,western_union,,unknown,N&P JAPAN CO LTD QS REMIT
+Hachioji,western_union,,unknown,SIEU THI VIET HACHIOJI
+Shinjuku,western_union,,unknown,N&P JAPAN CO LTD  QS REMIT
+Shiunjuku,western_union,,unknown,CE BANK TRANSFER
+Nakano,western_union,,unknown,GENKINYA
+Tachikawa Shi,western_union,,unknown,JTA J MARKET TACHIKAWA TEN
+Edogawa-ku,western_union,,unknown,BIG5
+Toshima Ku,western_union,,unknown,JTA C MARKET IKEBUKURO TOBU HOPE CENTER
+Ota-ku,western_union,,unknown,KADUSAYA PAWNSHOP
+Adachi Ku,western_union,,unknown,PAWN SHOP IKO
+Ota Ku,western_union,,unknown,JTA FUJI STAMP KAMATA TEN
+Machida Shi,western_union,,unknown,JTA J MARKET MACHIDAMARUI TEN
+Minato Ku,western_union,,unknown,SPEED MONEY TRANSFER ROPPONGI
+Setagaya,western_union,,unknown,KANTEI KYOKU SANGENJYAYA STORE
+Minato,western_union,,unknown,CAITORNIA ROPPONGI
+Chuo Ku,western_union,,unknown,JTA WORLD TICKET
+Sumida,western_union,,unknown,SPEED MONEY TRANSFER KINSHICHO

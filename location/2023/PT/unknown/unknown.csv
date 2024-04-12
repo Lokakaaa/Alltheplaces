@@ -1,0 +1,735 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+0784,accor,Novotel Lisboa,"Avenida José Malhoa 1 1A, 1099-051 LISBOA",,,,PT,,https://all.accor.com/hotel/0784/index.en.shtml,,Novotel,Q420545
+1050,accor,Novotel Porto Gaia,"Rua Martir São Sebastião, Afurada, 4400-499 VILA NOVA DE GAIA",,,,PT,,https://all.accor.com/hotel/1050/index.en.shtml,,Novotel,Q420545
+1274,accor,ibis Porto Gaia,"Rua Mártir de São Sebastião, 247, 4400-499 VILA NOVA DE GAIA",,,,PT,,https://all.accor.com/hotel/1274/index.en.shtml,,Ibis,Q920166
+1275,accor,ibis Setubal,"Rua Cidade do Porto Seguro, Alto da Guerra, 2914-518 SETUBAL",,,,PT,,https://all.accor.com/hotel/1275/index.en.shtml,,Ibis,Q920166
+1319,accor,Sofitel Lisbon Liberdade,"Avenida Da Liberdade 127, 1269-038 LISBOA",,,,PT,,https://all.accor.com/hotel/1319/index.en.shtml,,Sofitel,Q749431
+1557,accor,Novotel Setubal,"R Alexandre O'Neill no n°, Monte Belo, 2910-509 SETUBAL",,,,PT,,https://all.accor.com/hotel/1557/index.en.shtml,,Novotel,Q420545
+1593,accor,ibis Faro Algarve,"Rua Poeta Antonio Aleixo, 204, RNET 285, 8005-174 FARO",,,,PT,,https://all.accor.com/hotel/1593/index.en.shtml,,Ibis,Q920166
+1668,accor,ibis Lisboa Jose Malhoa,"Avenida José Malhoa No. 10, 1070-158 LISBOA",,,,PT,,https://all.accor.com/hotel/1668/index.en.shtml,,Ibis,Q920166
+1672,accor,ibis Coimbra Centro,"Avenida  Emidio Navarro n°70, Edificio Topazio, RNET No.: 281, 3000-150 COIMBRA",,,,PT,,https://all.accor.com/hotel/1672/index.en.shtml,,Ibis,Q920166
+1708,accor,ibis Évora,"Rua de Viana 18, Qta. Tapada Urb. Muralha, Registration No. 283, 7000-968 EVORA",,,,PT,,https://all.accor.com/hotel/1708/index.en.shtml,,Ibis,Q920166
+1729,accor,ibis Porto Sul Europarque,"Espargo europarque, Guimarães, 249, RNET 316, Europarque Espargo, 4520-153 SANTA MARIA DA FEIRA",,,,PT,,https://all.accor.com/hotel/1729/index.en.shtml,,Ibis,Q920166
+1802,accor,ibis Braga Centro,"Rua do Carmo 38, RNET307, 4700-309 BRAGA",,,,PT,,https://all.accor.com/hotel/1802/index.en.shtml,,Ibis,Q920166
+1975,accor,Mercure Porto Centro Santa Catarina,"Praca da Batalha 116, 4049-028 PORTO",,,,PT,,https://all.accor.com/hotel/1975/index.en.shtml,,Mercure,Q1709809
+2117,accor,ibis Lisboa Centro Saldanha,"Avenida Casal Ribeiro 23, 1000-090 LISBOA",,,,PT,,https://all.accor.com/hotel/2117/index.en.shtml,,Ibis,Q920166
+3137,accor,Ibis Lisboa Centro Liberdade,"Rua Barata Salgueiro 53, RNET No. 301, 1250-043 LISBOA",,,,PT,,https://all.accor.com/hotel/3137/index.en.shtml,,Ibis,Q920166
+3227,accor,ibis Porto Sao Joao,"Rua Dr  Placido Costa, 4200-450 PORTO",,,,PT,,https://all.accor.com/hotel/3227/index.en.shtml,,Ibis,Q920166
+3230,accor,ibis Guimaraes Centro,"Avenida Conde Margaride 12, Creixomil, RNET 298, 4810-537 GUIMARAES",,,,PT,,https://all.accor.com/hotel/3230/index.en.shtml,,Ibis,Q920166
+3338,accor,ibis Braganca,"AVENIDA DAS FORCAS ARMADAS, ROTUNDA LAVRADOR TRANSMONTANO, 5300-420 BRAGANCA",,,,PT,,https://all.accor.com/hotel/3338/index.en.shtml,,Ibis,Q920166
+3340,accor,Ibis Leiria Fátima,"Avenida Nossa Senhora de Fátima, Quinta do Taborda - lote 56, RNET 299, 2410-250 LEIRIA",,,,PT,,https://all.accor.com/hotel/3340/index.en.shtml,,Ibis,Q920166
+3341,accor,ibis Lisboa Sintra,"Av. Raul Solnado, 23 - 23A, Mem Martins, 2710-162 SINTRA",,,,PT,,https://all.accor.com/hotel/3341/index.en.shtml,,Ibis,Q920166
+3344,accor,ibis Porto Centro São Bento,"Rua da Alegria 29, 4000-041 PORTO",,,,PT,,https://all.accor.com/hotel/3344/index.en.shtml,,Ibis,Q920166
+3346,accor,Mercure Lisboa Hotel,"AV JOSE MALHOA 23, 1099-051 Lisbon",,,,PT,,https://all.accor.com/hotel/3346/index.en.shtml,,Mercure,Q1709809
+3347,accor,Mercure Porto Gaia Hotel,"Rua Manuel Moreira de Barros, 618D, Registration No.: 378, 4400-346 VILA NOVA DE GAIA",,,,PT,,https://all.accor.com/hotel/3347/index.en.shtml,,Mercure,Q1709809
+5106,accor,ibis budget Porto Gaia,"Rua Martir S. Sebastiao, 390, Afurada, 4400-499 VILA NOVA DE GAIA",,,,PT,,https://all.accor.com/hotel/5106/index.en.shtml,,Ibis Budget,Q1458135
+5270,accor,ibis Lisboa Alfragide,"Alto de Cabreira, Estrada da Circunvalação, 2610-041 AMADORA",,,,PT,,https://all.accor.com/hotel/5270/index.en.shtml,,Ibis,Q920166
+8308,accor,Mercure Braga Centro,"Praceta João XXI, RNET276, 4715-036 BRAGA",,,,PT,,https://all.accor.com/hotel/8308/index.en.shtml,,Mercure,Q1709809
+8501,accor,ibis Lisboa Parque das Naçoes,"RUA DO MAR VERMELHO, LOTE 1 07 2 2, 1990 203 LISBOA",,,,PT,,https://all.accor.com/hotel/8501/index.en.shtml,,Ibis,Q920166
+9042,accor,ibis budget Braga Centro,"Avenida Da Liberdade 96, Sao Jose De Sao Lazaro, RNET305, 4715037 BRAGA",,,,PT,,https://all.accor.com/hotel/9042/index.en.shtml,,Ibis Budget,Q1458135
+A040,accor,Mercure Lisboa Almada,"Rua Abel Salazar, 9, PRAGAL, 2805-313 ALMADA",,,,PT,,https://all.accor.com/hotel/A040/index.en.shtml,,Mercure,Q1709809
+A146,accor,ibis Styles Lisboa Centro Liberdade NE,"Duque De Loule N 73, 1050088 LISBOA",,,,PT,,https://all.accor.com/hotel/A146/index.en.shtml,,Ibis Styles,Q3147425
+A6H6,accor,ibis Styles Chaves,"Rua 25 de Abril, No 25, In one registration: 8683, 5400-015 CHAVES",,,,PT,,https://all.accor.com/hotel/A6H6/index.en.shtml,,Ibis Styles,Q3147425
+A7J9,accor,ibis Porto Centro Mercado Do Bolhão,"RNET REG. No. 9272, 4000-437 PORTO",,,,PT,,https://all.accor.com/hotel/A7J9/index.en.shtml,,Ibis,Q920166
+A9R8,accor,ibis Styles Lisboa Centro Marquês de Pombal,"Avenida Fontes Pereira De Melo, No 5, RNT : 277, 1069114 LISBON",,,,PT,,https://all.accor.com/hotel/A9R8/index.en.shtml,,Ibis Styles,Q3147425
+B1F4,accor,Mercure Fátima,"Rua Conego Manuel N Formigao 4, 2495417 FATIMA",,,,PT,,https://all.accor.com/hotel/B1F4/index.en.shtml,,Mercure,Q1709809
+B2L7,accor,Mercure Porto Centro Aliados,"Rua Do Bonjardim 95, 4000-124 PORTO",,,,PT,,https://all.accor.com/hotel/B2L7/index.en.shtml,,Mercure,Q1709809
+B5L3,accor,Mama Shelter Lisbon,"Rua do Vale de Pereiro 19, RNET 10236, 1250-270 LISBOA",,,,PT,,https://all.accor.com/hotel/B5L3/index.en.shtml,,Mama Shelter,Q12716714
+25861,alstom,Lisbon ,"Rua Odette de Saint-Maurice, 3L, piso 0, escritorio A - 1700-921 - Lisboa ",,,,PT,+351 21 496 9100,,,Alstom,Q309084
+33374,church_of_england_gb,Ponte de Lima,"Travessa de Linhares, 56 (yellow house), Gondarem, 4920-061",,,,PT,,https://www.achurchnearyou.com/church/33374/,,,
+33368,church_of_england_gb,Caldas da Rainha,"Rua Dr. José Saudade e Silva 27, 2500-191 Caldas da Rainha",,,,PT,,https://www.achurchnearyou.com/church/33368/,,,
+FordPH69001  PRT,ford,MULTIRIBEIRO2,,,,,PT,+351 245 249 720,,,Ford,Q44294
+bird-cascais:050c755b-bf84-4c6e-9e07-611d34401c68,gbfs,"Av. Rei Humberto II de Itália 2750, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:88c52d75-dd2b-4752-8b1d-bc89b06d679b,gbfs,"Estr. de Manique 1830, 2645-550 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:9894cec0-2981-4713-ab5f-c984486ee338,gbfs,"R. Dra. Iracy Doyle 6, 2750-377 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:82c6e241-1a92-4405-99d6-2cb0a41fec74,gbfs,"R. Dom Afonso IV 292, 2785 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:5ea8e501-e168-4ce1-adba-7953433b8823,gbfs,"Rua Joaquim Ereira N1498, 2750 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b59af27d-e834-4906-b2b1-6d66b53ad438,gbfs,"Colónia Infantil da Educação Popular, Av. Marginal 6799, 2765-587 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:4b425d39-55fe-47c9-ae2b-001a830455fe,gbfs,"MJPW+3X Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:3de55c0f-4ff0-41fd-b3eb-7e8a1c396a64,gbfs,"Praça Dr. Manuel Rebello de Andrade 3, 2775-688 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:7eacc497-bf5f-4a93-95b1-09dd685843c3,gbfs,"Av. Nossa Sra. da Assunção 1119, 2755-145 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:50cef540-5901-45fb-9d84-62b440aff494,gbfs,"Av. Francisca Lindoso 128, 2785-452 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:4b2b1354-700b-4639-8657-e8cfb08f80ca,gbfs,"Estrada de Talaíde, largo da igreja, Talaíde, 2785-733 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:cfa1971a-556d-41e2-8ff6-d831455b19f9,gbfs,"R. Júlio Dantas 17, 2750-670 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:82528f7a-f33e-4395-91ca-f11462369581,gbfs,"Estr. Conceição da Abóboda 135, 2785-751 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:e330a233-b6c0-45ac-aa3e-1b46d356c310,gbfs,"R. Maximiano de Sousa 49, 2785-814 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:904cbe05-1d45-4d72-81c1-275eef2c1f6e,gbfs,"R. Carlos António Conceição Almeida 391, 2785-652 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:64ff8ea2-9dc4-4c8d-a19c-90dfd3c2afc1,gbfs,"Largo Lavadouro 674, 2645-487 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:2ae5f543-d88d-4fad-9bfd-96899bf46b75,gbfs,"Rua do Viveiro 126, 2765-294 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:452b340d-b914-4ccc-a5d4-a71181d2ebed,gbfs,"Cascais, Largo da Estação, 2750-340 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:6e6ad9bc-9af9-48fc-91ff-1488a9dbcaa5,gbfs,"Tv. do Mercado 1, 2765-398 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:2824b779-978b-4eb1-bdf7-cc1e0c9f2534,gbfs,"Estrada Nacional 249, 35, Km 4, 35, Cabra Figa, Lisboa, 2785-754 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:61edb270-d4a1-460c-964e-7418ad624048,gbfs,"N249-4 729, 2785-754 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:11d81d84-4975-4679-814c-f48a5233fefe,gbfs,"R. Maria Brown 310A, 2785-001 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:aff2f67f-6569-4107-a037-57ee58f646b4,gbfs,"R. Manuel Correia 14, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:27c90a88-f321-4cbe-b743-4b96e6aaf45c,gbfs,"Av. do Ultramar 1E, 2750-421 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:32766bec-b3a9-4c3c-93e1-385704b98f36,gbfs,"Av. Dr. Morais Sarmento 311, 2755-285 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:ad9383f4-d428-4d29-946e-329954f3f5e7,gbfs,"Av. 25 de Abril 775, 2750-512 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:dcd32d3c-6c9e-4737-85b1-02d15caa56e5,gbfs,"R. do Parque Palmela 9, 2750-801 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:369a331d-7919-4bd1-b5c8-d474fba525fd,gbfs,"Av. Emídio Navarro 574A, 2750-493 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:18d731e6-6f28-4001-8e41-ffb0d5f86566,gbfs,"Estr. 5 de Junho 1, 2785-155 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:0bfae21b-8bc1-43ea-97d1-d688743d2923,gbfs,"Tv. Navegantes 12, 2750-282 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:6fa8b9bf-bd0c-480f-9d69-0cf995981544,gbfs,"Alameda da Guia 1, 2750-423 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b334d375-8543-4e6f-b949-86cf936264f9,gbfs,"Rua dos Eucaliptos 1324, 2750-687 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:339ef297-fe66-4dd3-9f32-c6b5aba6f465,gbfs,"Centro Comercial Riyadh, Lj.24, Av. Gaspar Corte Real 198A Lj. 24, 2750-164 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:79f1c6e6-0d24-465a-92e7-17795575aaf3,gbfs,"Praça de Azurite 42a, 2785-812 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:d55b8141-32fc-4d74-b8e3-04ff209e89d5,gbfs,"R. Marquês Pombal 883, 2775-271 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f47611f4-035c-40fd-add4-8d534de3e331,gbfs,"R. Franklin Lamas 271, 2750-512 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:80eea954-6e00-4ad4-8078-218e016e1155,gbfs,"Escola Sec. Cascais, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f6ace42e-81fe-41e3-95cb-24af1845dd5e,gbfs,"Rua do Canto 2, 2755-035 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f69e9684-b216-496e-9033-d4d8c49a6c9a,gbfs,"R. Piaget 11, 2645-019 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:18db9719-aad5-4a2f-a903-8d1220aeb1c8,gbfs,"Estr. Mata da Torre 606, 2785-599 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:3e45eac6-d220-47d2-807d-fe6e372ab387,gbfs,"R. 25 de Abril 281, 2785-285 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b23b1ac5-0a2f-4e47-96be-56a50ad0a9b2,gbfs,"Av. Rei Humberto II de Itália 1407, 2750-374 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:0fbec2e6-48ba-4283-b3e8-ea9d9c1437ba,gbfs,"Av. Sabóia 1017A, 2765-580 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:d5996b39-b9a7-4f14-a962-a91a10205d5d,gbfs,"Guincho, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:0f3b97c3-73bf-4a7a-a53b-a7fbf750d42a,gbfs,"R. Lago 14B, 2765-431 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:287964d3-c9eb-4fc7-9294-3a2285d45fbf,gbfs,"Estoril - Estação, 2765 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:d3f1c1f2-fd58-4ddc-8530-020b787bd94e,gbfs,"Estação Agronómica 5, 2780 Oeiras, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:8aedca98-eefb-478e-84c9-aa7dc4c23613,gbfs,"Alameda Duquesa de Palmela 29a, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:8d4b4759-d816-42c2-80b4-f387060d3856,gbfs,"MMGF+PC, 2780-267 Oeiras, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:e9f54a60-f78d-46a9-92eb-edbcdfb08b3f,gbfs,"Parada Bus Cascais, Portugal, Alameda Combatentes da Grande Guerra 33, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b72872da-c166-44f7-a4c8-c09f025c87ec,gbfs,"R. Dr. Armando Bacelar 205, 2750-827 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:a4bbcf8d-8dc0-4992-b096-1eef835be2a5,gbfs,"R. Frei Nicolau de Oliveira 33, 2750 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:5e863cc0-9433-41cc-880a-6737854fa947,gbfs,"Av. Rei Humberto II de Itália 31, 2750-341 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:19d6f3b7-4a01-4fe2-87cf-992f74231452,gbfs,"Av. Maria da Conceição 8, 2775-606 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:0d4d9e57-3af0-4ac4-934c-afb4e8319f9d,gbfs,"S. João do Estoril - Estação, 2765-460 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:bceb27da-d8d7-4f7b-aaeb-9d7b19d84be0,gbfs,"Boca do Inferno, 2750-800 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:4795985f-397b-4bb2-a736-550340771e05,gbfs,"Cerrd Rouxinol Viv. 2ª, Carcavelos, Lisboa, 2775-606 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:dc402714-d043-4dd8-b1ec-082d8893e267,gbfs,"MMHC+37 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:6de28628-4e67-4518-ba14-39247c32b8cd,gbfs,"Parque Marechal Carmona, Av. da República 299, 2750-374 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:be9ae4bf-ba29-47c8-a636-00377b2ed7da,gbfs,"R. Alfândega Velha 22, 2775 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:32325ba2-47a5-4c49-a819-59bd50c68bbb,gbfs,"Universidade Nova, 2775 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:52b12c58-7d8e-4b6a-8023-6de1ec686e0d,gbfs,"Av. Marginal 6, 2775-604 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:9777d643-58b5-455e-be0a-15c7b865c5de,gbfs,"Av. da República 1469, 2775-271 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f766c2ea-3368-4628-ad14-605f55e42182,gbfs,"R. Egas Moniz 131A, 2765-478 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:4f25619a-dc9f-4f5c-bcc0-29132c5863c1,gbfs,"Estr. Rebelva 974, 2775 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:07e503f0-dcbd-4ed9-90b8-84aa68ae8860,gbfs,"R. Combatentes do Ultramar 7, 2775-083 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:ed063088-27fc-45c7-a961-00e1fd78d25b,gbfs,"DNA Cascais, Cruz da Popa, 2645-449 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:a20db76f-165e-4c82-b838-859423a5d3dc,gbfs,"R. Principal 7A, 2785-261 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:141f27be-fddd-4668-96c1-cecc9b07a2b1,gbfs,"R. de Matarraque 376, 2785 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:0ddab214-2083-47eb-b261-6c3e99cb55dc,gbfs,"R. Principal 7A, 2785-261 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:1485868d-9f41-4d93-88d3-55b2ae3e2ef4,gbfs,"Av. República 2261, 2645 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:cb6a6b5c-f610-44a9-843d-b438e2751282,gbfs,"R. das Clementinas 72A, 2775-271 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:bc3d0f84-9dbf-4cdf-848a-d0340a09568a,gbfs,"Sao Pedro do Estoril, 2765-609 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:d9cf5ec9-0843-4974-96f8-6472756955d6,gbfs,"R. Nunes dos Santos 21, 2765-538 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:2625799b-fd98-4991-8b1c-ebab2f9206ae,gbfs,"Praça Do Junqueiro 5B, 2775-598 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:1749b1ff-f007-4855-b90a-bb786a826865,gbfs,"Av. Dr. Manuel Ricardo Espírito Santo Silva 317, 2750-374 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:1c2b4ba5-0e0b-4fbe-b4f8-a8357a711c91,gbfs,"Rua Rui de Pina, 2765-045 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:12f2ef95-febe-4f66-841e-c82d7127c32b,gbfs,"Alapraia - Largo, 2765-015 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b3acc50a-fbb8-4676-bf83-109069095384,gbfs,"Alameda Duquesa de Palmela 261, 2750-352 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:af86d4bd-df35-4b09-909b-d57e775b8fad,gbfs,"Largo Amália Rodrigues 3, 2765-270 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:aec440cb-d828-467a-a774-66d93a85e94d,gbfs,"R. Lisboa 5, 2765-240 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:4cbb04f2-aef9-4e06-a087-4cf6a6ae247f,gbfs,"Av. República 270, 2765-273 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:ca703504-c31e-4d31-a8c3-5c37da2cb026,gbfs,"Rua Dom Luiz Pereira Coutinho Padel, 2765-273 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:e6e7642b-ca24-447f-8a3f-cd9e729ee134,gbfs,"Bairro do Picoto 3, 2645 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:21c7b2e1-2c7b-4857-8e9c-7821e8bc7ae6,gbfs,"Av. Plátanos 58, 2775-352 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:7e8c0e38-aefd-48f5-96e2-a2cc04990f22,gbfs,"Alto do Cobre - Tanques, 2750 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:8da9bb38-22da-4ebc-98e5-6efcbcffed16,gbfs,"Tv. Alto 1, 2750 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:9490ede5-727b-4ee4-a812-3633dd53378a,gbfs,"Rua Mário Viegas, 2755-078 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:71cbc2a1-7a6a-43fb-9158-fb1311a92c9c,gbfs,"R. Paulo Freire 41A, 2750 Aldeia de Juzo, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b5d8990b-af61-4d7e-977a-1e5f9b898d0c,gbfs,"R. Caravelas 23, 2750-200 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:9bf17e15-919b-479f-81ff-d1e76407a71f,gbfs,"Av. da República 48, 2750-374 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:6228298e-7dba-4dde-95b5-5f9006158ae2,gbfs,"Av. de Sintra 363, 2750-786 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:45010003-812f-4c1f-82cf-04fc40f6107f,gbfs,"Estoril Golf, 2765-273 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:a910ca5e-0888-48eb-bd64-6359f66057de,gbfs,"Av. Júlio Dantas 85b, 2785 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:ce6ebb76-fdea-41cb-bfce-95549102f40c,gbfs,"R. da Capela 13, 2785-640 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f6f79cd1-29cb-44d9-90b1-5c0421d8b99e,gbfs,"Rua Conde Barao-Hospital, 2645-109 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:c9121964-00e0-4c82-a1ff-48c3bcdd1e8c,gbfs,"Parque do Campismo, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b39ffa35-cd13-42e3-8da8-63c5970819b2,gbfs,"Praceta Santa Rita de Cássia 8, 2765-048 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:2eaf7b68-5a57-492b-84e4-7f56411e5a24,gbfs,"Estrada da Alagoa, 2775-716 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:d835fea5-74e4-411d-8a20-1fc6e8b01461,gbfs,"Av. Mal. Craveiro Lopes 1, 2775-271 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f28878af-ce74-4fea-96e7-54b0fbbe1f0f,gbfs,"Av. da República, Edifício Santogal, 2645-143 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:8e99e3e5-12c8-4d6a-882e-56d1282efbe3,gbfs,"R. Roque Gameiro 193A, 2750-024 Aldeia de Juzo, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:3bb93f69-a46e-4876-8cc5-807ea693900e,gbfs,"R. Machado dos Santos 2, 2775-236 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:6ddd55e9-847b-4d36-8f59-c93f605c6688,gbfs,"Rua Cidade de Lamego, 2785-543 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:8bab2249-23d5-4a9c-8408-4ccdc1317b2d,gbfs,"Bicesse - Chafariz, 2645-253 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:fad0dd1d-cc34-4189-a809-33779c4e85d1,gbfs,"R. Fausto de Figueiredo 2176, 2750-262 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:251b01a3-c95c-42b6-9d3a-c6fc442a095f,gbfs,"R. Margaceira 152A, 2645 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f0a9a371-d6e1-4240-a06a-bdf0c3897513,gbfs,"Alcabideche, 2645-449 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:2bd219bd-3a4f-4475-9022-9ddb0c8a9d87,gbfs,"R. São Tomé e Príncipe 23A, 2765-282 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:4d69e3fe-cbbf-4d4b-95da-36fd9b8f34eb,gbfs,"Madorna - Escola, 2775-017 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b1bd379a-ec3b-4965-afd9-b08b3afc17d0,gbfs,"R. de Alvide 208C, 2750-291 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:94dd10ad-c922-4cea-a07b-3259a3a6b1e0,gbfs,"R. Bartolomeu Dias 10, 2775-551 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:84917634-fd3c-4adc-bb95-6b1d7bf45e40,gbfs,"Av. Marginal 8, 2765-589 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:5a620c80-4d22-409d-8475-d0389e3bb876,gbfs,"R. Cesaltina Fialho Gouveia 587, 2645-543 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:186340d3-1c8a-453d-b71c-ee4f5901e64b,gbfs,"Estr. Principal do Outeiro 396 2785, 2785 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:3b11335c-d966-455a-a8af-0a5cae8c96c6,gbfs,"56 Urbanização Jardins da Parede Ii Parede 2775-352 PT, 2775-352 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:e7677d14-415d-4fd7-a839-fd85e228c107,gbfs,"Rua Almei.Garrett-Lidl, 2785-632 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:d0dd436f-36ae-4e4c-8fa9-6d0f74d6ae05,gbfs,"Lidl Rebelva, 2775-326 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:3b12d178-3428-4622-a315-caa3de7d8b73,gbfs,"Livramento, 2765-382 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:e65dfb3b-6a80-4b12-a786-90ca2349ef2b,gbfs,"R. Amendoeiras 6, 2775 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:1649d94d-aea1-4836-96ca-41b613fe496a,gbfs,"Praceta João Manuel Cordeiro Pereira 297, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:9a4d9982-d624-42be-9e97-d27f4e19ad3d,gbfs,"R. Luís de Camões 110a, 2755 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:fb8c8b26-4480-42d1-a756-a80a04484f57,gbfs,"R. Serra da Estrela 51b, 2785-820 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f5ae2cfa-938b-4351-98b3-a5a988a6f5ff,gbfs,"Praceta Valentim Henrique 17, 2645-558 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:7ec50212-ccab-4651-9553-9ed8bd4aa678,gbfs,"Nova SBE Campus de Carcavelos, R. da Holanda n.1, 2775-405 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:8da6d350-ef51-4894-8d63-19b4f2687087,gbfs,"Escola Sec. Cascais, 2750-786 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:8dc5a29a-f323-4823-a978-0dfad9fdad3d,gbfs,"Av. Marginal 1, 2765 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:5194ab51-3438-4663-b94a-a274847bc31c,gbfs,"R. Mouzinho de Albuquerque 149a, 2785-543 São Domingos de Rana, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:4a73f765-0194-444e-a771-0cc097144a6e,gbfs,"R. Inglaterra 233, 2775-399 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:d4ea91fd-d339-4cef-98f7-60517248ea6b,gbfs,"R. Papoilas 32, 2765 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f3dd3e3a-cab6-4a8d-8d4d-f21fd4aa9801,gbfs,"Av. Nossa Senhora dos Remédios 12, 2775-611 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:909e1afb-bb27-417e-b657-cf5960d08d21,gbfs,"R. 9 de Abril 4, 2765-518 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:b636272d-9195-4ec1-ba1a-f97283997cc9,gbfs,"Rua Carrascal frent.Estrada Sal., 2645 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:6da472dd-119d-4394-9970-9ccdf3c0c97d,gbfs,"Av. Florinda Leal 16, 2765-223 Estoril, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:c5882a9c-28e3-4296-bbd8-ef6ac2ea8e8d,gbfs,"R. Luanda 838, 2775-232 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:f4df2040-8d0f-453e-93b7-84d0bc6f29c8,gbfs,"Tv. Girassol 91, 2755-055 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:3756cab4-66fc-4fc2-a481-dd8ca919bdaa,gbfs,"Tribunal de Cascais, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:971e4fe7-4f12-4219-be1e-53d698d063db,gbfs,"Marista de Carcavelos, 2775-207 Parede, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:710225a4-8111-4bdc-90d7-e928719e7b18,gbfs,"R. António Gedeão 28, 2645-176 Alcabideche, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:cdc142f3-9be1-4ff8-96c8-080ac3214b46,gbfs,"Rua Ilh.Sta.Maria N166, 2775 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:86caa8f4-2338-441a-a11a-c4760116874c,gbfs,"Bairro da Carris, 2775-511 Carcavelos, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+bird-cascais:34caa879-622a-41bf-b88e-54af276e039a,gbfs,"Casa das Histórias, 2750-642 Cascais, Portugal",,,,,PT,,https://www.bird.co,,Bird Cascais,
+1612,leonidas,Leonidas Alvalade,,Lisboa,,,PT,+351 21 840 0771,https://www.leonidas.com/en/shops/lisboa/leonidas-alvalade,Mo-Sa 09:30-19:30; Su 11:00-18:00,Leonidas,Q80335
+1613,leonidas,Leonidas Liberdade,,Braga,,,PT,+351 253 685 079,https://www.leonidas.com/en/shops/braga/leonidas-liberdade,Mo-Sa 10:00-19:00,Leonidas,Q80335
+1729,leonidas,Leonidas Campo De Ourique,,Lisboa,,,PT,+351 21 803 8909,https://www.leonidas.com/en/shops/lisboa/leonidas-campo-de-ourique,Mo-Sa 10:00-19:00,Leonidas,Q80335
+1809,leonidas,Leonidas Guarda,,Guarda,,,PT,+351 271 237 188,https://www.leonidas.com/en/shops/guarda/leonidas-guarda,Mo-Sa 10:30-20:00; Su 10:30-18:00,Leonidas,Q80335
+1842,leonidas,Praça De Espanha,,Lisboa,,,PT,+351 21 242 9234,https://www.leonidas.com/en/shops/lisboa/praca-de-espanha,Mo-Su 10:30-19:30,Leonidas,Q80335
+3093,leonidas,Leonidas Campo Pequeno,,Lisboa,,,PT,+351 21 606 2771,https://www.leonidas.com/en/shops/lisboa/leonidas-campo-pequeno-0,Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-16:00,Leonidas,Q80335
+3212,leonidas,Leonidas Espinho 23,,Espinho,,,PT,,https://www.leonidas.com/en/shops/espinho/leonidas-espinho-23,Mo-Sa 09:30-19:30,Leonidas,Q80335
+3213,leonidas,Leonidas Liberdade,,Lisboa,,,PT,,https://www.leonidas.com/en/shops/lisboa/leonidas-liberdade,Mo-Fr 09:30-19:30; Sa 09:30-15:00,Leonidas,Q80335
+3294,leonidas,Leonidas Restelo,,Lisboa,,,PT,+351 935 208 337,https://www.leonidas.com/en/shops/lisboa/leonidas-restelo,Tu-Su 09:30-19:30,Leonidas,Q80335
+8323,leonidas,Leonidas Viseu,,Viseu,,,PT,0925 025 083,https://www.leonidas.com/en/shops/viseu/leonidas-viseu,Mo-Fr 09:00-19:00; Sa 09:00-17:00,Leonidas,Q80335
+3434,leonidas,Leonidas Guerera Junqueiro,,Lisboa,,,PT,+351 967 877 911,https://www.leonidas.com/en/shops/lisboa/leonidas-guerera-junqueiro,Mo-Sa 09:30-19:00,Leonidas,Q80335
+3341,leonidas,Leonidas Aveiro,,Aveiro,,,PT,,https://www.leonidas.com/en/shops/aveiro/leonidas-aveiro,Mo-Sa 09:30-19:30,Leonidas,Q80335
+12222,leonidas,Leonidas Coimbra,,Coimbra,,,PT,+351 914 110 522,https://www.leonidas.com/en/shops/coimbra/leonidas-coimbra,Mo-Fr 10:00-19:00; Sa 11:00-18:00,Leonidas,Q80335
+12256,leonidas,Leonidas Fonte Nova,,Lisboa,,,PT,0910072129,https://www.leonidas.com/en/shops/lisboa/leonidas-fonte-nova,Mo-Su 10:00-23:00,Leonidas,Q80335
+12260,leonidas,Leonidas Setubal,,Etubal,,,PT,0916925573,https://www.leonidas.com/en/shops/etubal/leonidas-setubal,Mo-Fr 10:00-19:00; Sa 10:00-16:00,Leonidas,Q80335
+12264,leonidas,Leonidas Maia,,Maia,,,PT,0912735116,https://www.leonidas.com/en/shops/maia/leonidas-maia,Mo-Sa 10:00-19:00,Leonidas,Q80335
+12533,leonidas,Leonidas Santarem,,Santarem,,,PT,+351 965 490 496,https://www.leonidas.com/en/shops/santarem/leonidas-santarem,Mo-Fr 10:00-19:00; Sa 11:00-18:00,Leonidas,Q80335
+13051,leonidas,LEONIDAS TORRES VEDRAS,,TORRES VEDRAS,,,PT,0261 313008,https://www.leonidas.com/en/shops/torres-vedras/leonidas-torres-vedras,Mo-Sa 10:00-19:00,Leonidas,Q80335
+13055,leonidas,LEONIDAS  LEIRIA,,LEIRIA,,,PT,0244 099 420,https://www.leonidas.com/en/shops/leiria/leonidas-leiria,Mo-Sa 10:00-19:00,Leonidas,Q80335
+13289,leonidas,LEONIDAS FARO,,FARO,,,PT,+351 931 475 441,https://www.leonidas.com/en/shops/faro/leonidas-faro,Mo-Sa 09:30-18:00,Leonidas,Q80335
+13293,leonidas,LEONIDAS  SEIXAL,,seixal,,,PT,+351 21 222 4609,https://www.leonidas.com/en/shops/seixal/leonidas-seixal,Mo-Su 10:00-23:00,Leonidas,Q80335
+13297,leonidas,Leonidas Mar Shopping,,Loulé,,,PT,+351 912 954 396,https://www.leonidas.com/en/shops/loule/leonidas-mar-shopping,Mo-Su 10:00-23:00,Leonidas,Q80335
+29536,leonidas,LEONIDAS LISBON PAQUE DAS Naçoes,,LISBOA,,,PT,+351 21 895 8012,https://www.leonidas.com/en/shops/lisboa/leonidas-lisbon-paque-das-nacoes,Mo-Fr 08:30-19:30; Sa-Su 10:00-19:00,Leonidas,Q80335
+45068,leonidas,LEONIDAS PORTO BOAVISTA,,PORTO,,,PT,+351 961 763 435,https://www.leonidas.com/en/shops/porto/leonidas-porto-boavista,,Leonidas,Q80335
+49398,leonidas,LEONIDAS FAFÉ,,FAFÉ,,,PT,+351 964 995 321,https://www.leonidas.com/en/shops/fafe/leonidas-fafe,Mo-Sa 10:00-19:00,Leonidas,Q80335
+1324,lhw,The Reserve,"Avenida do Infante n 25.B , Funchal, 9000-542, Portugal",Funchal,,,PT,,https://www.lhw.com/hotel/The-Reserve-Funchal-Portugal,,The Leading Hotels of the World,Q834396
+1303,lhw,Hotel Quinta do Lago,"Quinta do Lago, Almancil, Algarve 8135-024 Portugal",Almancil,,,PT,,https://www.lhw.com/hotel/Hotel-Quinta-do-Lago-Almancil-Algarve-Portugal,,The Leading Hotels of the World,Q834396
+1305,lhw,Olissippo Lapa Palace,"Rua do Pau de Bandeira, No. 4, Lisbon 1249-021 Portugal",Lisbon,,,PT,,https://www.lhw.com/hotel/Olissippo-Lapa-Palace-Lisbon-Portugal,,The Leading Hotels of the World,Q834396
+1306,lhw,Vila Vita Parc,"VILA VITA Parc, Rua Anneliese Pohl, Alporchinhos, VILA VITA Parc, Rua Anneliese Pohl, Alporchinhos",Porches,,,PT,,https://www.lhw.com/hotel/VILA-VITA-Parc-Resort-Spa-Porches-Algarve-Portugal,,The Leading Hotels of the World,Q834396
+1310,lhw,Pestana Palace Lisboa - Hotel & National Monument,"Rua Ja&#250; 54, 1300-314 Lisbon Portugal",Lisbon,,,PT,,https://www.lhw.com/hotel/Pestana-Palace-Lisboa-Hotel-National-Monument-Lisbon-Portugal,,The Leading Hotels of the World,Q834396
+1311,lhw,Bairro Alto Hotel,"Praca Luis de Cam&#245;es No. 2, Lisbon 1200-243 Portugal",Lisbon,,,PT,,https://www.lhw.com/hotel/Bairro-Alto-Hotel-Lisbon-Portugal,,The Leading Hotels of the World,Q834396
+1313,lhw,Grande Real Villa Itália Hotel & Spa,"Rua Frei Nicolau de Oliveira 100, Cascais, Portugal 2750-319",Cascais,,,PT,,https://www.lhw.com/hotel/Grande-Real-Villa-Italia-Hotel-Spa-Cascais-Portugal,,The Leading Hotels of the World,Q834396
+1314,lhw,Vidago Palace,"Parque de Vidago, Vidago, Portugal 5425-307",Vidago,,,PT,,https://www.lhw.com/hotel/Vidago-Palace-Vidago-Portugal,,The Leading Hotels of the World,Q834396
+1316,lhw,Pestana Palácio do Freixo - Pousada & National Monument,"Estrada Nacional 108, N<sup>ro</sup> 206, Porto 4300-316, Portugal",Porto,,,PT,,https://www.lhw.com/hotel/Pestana-Palacio-do-Freixo-Pousada-National-Monument-Porto-Portugal,,The Leading Hotels of the World,Q834396
+1318,lhw,Tivoli Avenida Liberdade ,"Avenida da Liberdade, nº185, 1269-050 Lisbon, Portugal",Lisbon,,,PT,,https://www.lhw.com/hotel/Tivoli-Avenida-Liberdade-Lisbon-Portugal,,The Leading Hotels of the World,Q834396
+1319,lhw,Savoy Palace ,"Avenida do Infante, 9004-542 Funchal, Madeira Island, Portugal",Funchal,,,PT,,https://www.lhw.com/hotel/Savoy-Palace-Funchal-Madeira-Portugal,,The Leading Hotels of the World,Q834396
+1320,lhw, Maison Albar - Le Monumental Palace.,"Avenida dos Aliados 151, 4000-067 Porto, Portugal",Porto,,,PT,,https://www.lhw.com/hotel/Le-Monumental-Palace-Porto-Portugal,,The Leading Hotels of the World,Q834396
+1321,lhw,São Lourenço do Barrocal,"São Lourenço do Barrocal, Monsaraz, Portugal, Monsaraz",Monsaraz,,,PT,,https://www.lhw.com/hotel/Sao-Lourenco-Monsaraz-Portugal,,The Leading Hotels of the World,Q834396
+1323,lhw,Vinha Boutique Hotel,"Rua Quinta Fonte da Vinha, 383, Vila Nova de Gaia, Portugal",Porto,,,PT,,https://www.lhw.com/hotel/Vinha-Boutique-Hotel-Porto-Portugal,,The Leading Hotels of the World,Q834396
+74785555,moneygram,ASLAN HALAL MINI MERCADO,,POVOA DE VARZIM,,,PT,+351 920 315 498,,Mo-Su 09:00-23:00,MoneyGram,Q1944412
+4802,samsonite_eu,Samsonite,,Lisboa,,,PT,+969394644,,,Samsonite,Q1203426
+SQLS690,speed_queen,Lavandaría Self-Service Speed Queen,,Cacem,,,PT,+351 968 076 236,,,Speed Queen,Q7575499
+SQLS44,speed_queen,Lavandaría Self-Service Speed Queen,,Lisbon,,,PT,+351 800 918 278,,Mo-Su 07:00-22:00,Speed Queen,Q7575499
+SQLS45,speed_queen,Lavandaría Self-Service Speed Queen,,Lisbon,,,PT,,,,Speed Queen,Q7575499
+SQLS949,speed_queen,Lavandaría Self-Service Speed Queen,,Carregado - Nuno Tavares Loja Propria 20,,,PT,,,,Speed Queen,Q7575499
+9691255308311,thebodyshop,PORTUGAL FACTORY OUTLET,,,,,PT,,https://www.thebodyshop.com/es-es/store-details/portugal-factory-outlet/7574,,The Body Shop,Q837851
+TNFCL-CCAL2006T2,the_north_face_eu,The North Face Colombo Lisbon,,Lisbon,,,PT,,,,The North Face,Q152784
+17451,totalenergies,CARREGAL DO SAL - SUL DA VILA,,CARREGAL DO SAL,,,PT,+351 918 570 695,https://store.totalenergies.fr/en_EN/17451,,Cepsa,Q608819
+ES_EXT_2263,totalenergies,LEÇA DA PALMEIRA,,MATOSINHOS,,,PT,,https://store.totalenergies.fr/en_EN/ES_EXT_2263,,Cepsa,Q608819
+ES_EXT_2443,totalenergies,PA AMARES - BRAGA,,AMARES,,,PT,,https://store.totalenergies.fr/en_EN/ES_EXT_2443,,Cepsa,Q608819
+ES_EXT_2857,totalenergies,VIZELA,,VIZELA,,,PT,,https://store.totalenergies.fr/en_EN/ES_EXT_2857,,Cepsa,Q608819
+ES_EXT_3258,totalenergies,ALCALA DEL RIO,,MOIMENTA DA BEIRA,,,PT,,https://store.totalenergies.fr/en_EN/ES_EXT_3258,,Cepsa,Q608819
+EXT_CE_01997,totalenergies,RIBEIRÃO,,VILA NOVA DE FAMALICAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_01997,,Cepsa,Q608819
+EXT_CE_01998,totalenergies,VILA REAL I,,VILA REAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_01998,,Cepsa,Q608819
+EXT_CE_01999,totalenergies,AVEIRO,,AVEIRO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_01999,,Cepsa,Q608819
+EXT_CE_02006,totalenergies,BRAGANÇA I,,BRAGANÇA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02006,,Cepsa,Q608819
+EXT_CE_02015,totalenergies,OLHÃO I,,OLHAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02015,,Cepsa,Q608819
+EXT_CE_02018,totalenergies,AMADORA,,AMADORA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02018,,Cepsa,Q608819
+EXT_CE_02020,totalenergies,GONDOMAR I,,GONDOMAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02020,,Cepsa,Q608819
+EXT_CE_02021,totalenergies,ALMEIRIM,,ALMEIRIM,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02021,,Cepsa,Q608819
+EXT_CE_02022,totalenergies,LAVRA,,MATOSINHOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02022,,Cepsa,Q608819
+EXT_CE_02023,totalenergies,ALPORCHINHOS,,LAGOA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02023,,Cepsa,Q608819
+EXT_CE_02027,totalenergies,MOITA,,MOITA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02027,,Cepsa,Q608819
+EXT_CE_02030,totalenergies,AVINTES,,VILA NOVA DE GAIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02030,,Cepsa,Q608819
+EXT_CE_02033,totalenergies,GERÊS,,TERRAS DE BOURO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02033,,Cepsa,Q608819
+EXT_CE_02034,totalenergies,PENAFIEL,,PENAFIEL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02034,,Cepsa,Q608819
+EXT_CE_02037,totalenergies,PORTO DE LAGOS,,PORTIMAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02037,,Cepsa,Q608819
+EXT_CE_02043,totalenergies,CARVOEIRO,,LAGOA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02043,,Cepsa,Q608819
+EXT_CE_02044,totalenergies,LABRUJE (GUI/FAM),,VILA NOVA DE FAMALICAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02044,,Cepsa,Q608819
+EXT_CE_02045,totalenergies,COMPORTA,,ALCACER DO SAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02045,,Cepsa,Q608819
+EXT_CE_02048,totalenergies,MIRANDA DO DOURO,,MIRANDA DO DOURO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02048,,Cepsa,Q608819
+EXT_CE_02050,totalenergies,OVAR I,,OVAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02050,,Cepsa,Q608819
+EXT_CE_02051,totalenergies,FOGUETEIRO,,SEIXAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02051,,Cepsa,Q608819
+EXT_CE_02053,totalenergies,FREAMUNDE,,PAÇOS DE FERREIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02053,,Cepsa,Q608819
+EXT_CE_02056,totalenergies,TONDELA,,TONDELA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02056,,Cepsa,Q608819
+EXT_CE_02058,totalenergies,GUARDA,,GUARDA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02058,,Cepsa,Q608819
+EXT_CE_02063,totalenergies,VILA FRANCA DE XIRA,,VILA FRANCA DE XIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02063,,Cepsa,Q608819
+EXT_CE_02064,totalenergies,MERCADO ABASTECEDOR,,OPORTO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02064,,Cepsa,Q608819
+EXT_CE_02067,totalenergies,CASTELO DE PAIVA,,CASTELO DE PAIVA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02067,,Cepsa,Q608819
+EXT_CE_02068,totalenergies,FORJÃES,,ESPOSENDE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02068,,Cepsa,Q608819
+EXT_CE_02074,totalenergies,SILVES,,SILVES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02074,,Cepsa,Q608819
+EXT_CE_02076,totalenergies,VOUZELA,,VOUZELA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02076,,Cepsa,Q608819
+EXT_CE_02079,totalenergies,LISBOA-ALVALADE,,LISBOA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02079,,Cepsa,Q608819
+EXT_CE_02082,totalenergies,CAIXAS,,SESIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02082,,Cepsa,Q608819
+EXT_CE_02083,totalenergies,ÁGUEDA,,AGUEDA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02083,,Cepsa,Q608819
+EXT_CE_02084,totalenergies,MARGINAL,,OPORTO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02084,,Cepsa,Q608819
+EXT_CE_02085,totalenergies,LOURO,,VILA NOVA DE FAMALICAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02085,,Cepsa,Q608819
+EXT_CE_02086,totalenergies,BURGÃES,,SANTO TIRSO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02086,,Cepsa,Q608819
+EXT_CE_02090,totalenergies,VALONGO,,VALONGO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02090,,Cepsa,Q608819
+EXT_CE_02093,totalenergies,SOBRADO,,VALONGO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02093,,Cepsa,Q608819
+EXT_CE_02094,totalenergies,VILAR DO PINHEIRO,,VILA DO CONDE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02094,,Cepsa,Q608819
+EXT_CE_02097,totalenergies,BEJA,,BEJA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02097,,Cepsa,Q608819
+EXT_CE_02102,totalenergies,CACHOPO,,TAVIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02102,,Cepsa,Q608819
+EXT_CE_02103,totalenergies,PEGÕES VELHOS,,PALMELA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02103,,Cepsa,Q608819
+EXT_CE_02111,totalenergies,PALHOÇA,,CADAVAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02111,,Cepsa,Q608819
+EXT_CE_02112,totalenergies,CINFÃES,,CINFAES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02112,,Cepsa,Q608819
+EXT_CE_02115,totalenergies,AZERVADINHA,,CORUCHE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02115,,Cepsa,Q608819
+EXT_CE_02116,totalenergies,REBORDOSA,,PAREDES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02116,,Cepsa,Q608819
+EXT_CE_02118,totalenergies,CUCUJÃES,,OLIVEIRA DE AZEMEIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02118,,Cepsa,Q608819
+EXT_CE_02120,totalenergies,SERRA D'EL REI,,PENICHE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02120,,Cepsa,Q608819
+EXT_CE_02123,totalenergies,PAREDES,,PAREDES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02123,,Cepsa,Q608819
+EXT_CE_02127,totalenergies,FERREIRAS (FAR/LGS),,ALBUFEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02127,,Cepsa,Q608819
+EXT_CE_02129,totalenergies,IP3 (CBR/VIS),,SANTA COMBA DAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02129,,Cepsa,Q608819
+EXT_CE_02130,totalenergies,GUEIFÃES,,MAIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02130,,Cepsa,Q608819
+EXT_CE_02131,totalenergies,BRAGANCA II,,BRAGANÇA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02131,,Cepsa,Q608819
+EXT_CE_02139,totalenergies,COIMBRA I,,COIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02139,,Cepsa,Q608819
+EXT_CE_02143,totalenergies,CHAVES,,CHAVES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02143,,Cepsa,Q608819
+EXT_CE_02144,totalenergies,CUSTOIAS,,MATOSINHOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02144,,Cepsa,Q608819
+EXT_CE_02147,totalenergies,MARCO DE CANAVESES,,MARCO DE CANAVESES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02147,,Cepsa,Q608819
+EXT_CE_02156,totalenergies,CASCAIS SHOPPING,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02156,,Cepsa,Q608819
+EXT_CE_02157,totalenergies,DRAMÁTICO CASCAIS,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02157,,Cepsa,Q608819
+EXT_CE_02161,totalenergies,A3 BARCELOS (POR/VAL),,BARCELOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02161,,Cepsa,Q608819
+EXT_CE_02162,totalenergies,VALADARES,,VILA NOVA DE GAIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02162,,Cepsa,Q608819
+EXT_CE_02164,totalenergies,LOULÉ,,LOULE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02164,,Cepsa,Q608819
+EXT_CE_02165,totalenergies,MARINA DE CASCAIS,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02165,,Cepsa,Q608819
+EXT_CE_02166,totalenergies,SANFINS DO DOURO,,ALIJO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02166,,Cepsa,Q608819
+EXT_CE_02167,totalenergies,GALP LOUROSA,,SANTA MARIA DA FEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02167,,Cepsa,Q608819
+EXT_CE_02168,totalenergies,PORTALEGRE,,PORTALEGRE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02168,,Cepsa,Q608819
+EXT_CE_02170,totalenergies,OLHÃO II,,OLHAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02170,,Cepsa,Q608819
+EXT_CE_02171,totalenergies,SANTA MARIA DA FEIRA,,SANTA MARIA DA FEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02171,,Cepsa,Q608819
+EXT_CE_02172,totalenergies,MIRA DE AIRE,,PORTO DE MOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02172,,Cepsa,Q608819
+EXT_CE_02173,totalenergies,A6 ESTREMOZ (ELV/LIS),,ESTREMOZ,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02173,,Cepsa,Q608819
+EXT_CE_02174,totalenergies,ARRIFANA,,SAO JOAO DA MADEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02174,,Cepsa,Q608819
+EXT_CE_02185,totalenergies,FÁTIMA,,OUREM,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02185,,Cepsa,Q608819
+EXT_CE_02188,totalenergies,COVILHÃ,,COVILHA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02188,,Cepsa,Q608819
+EXT_CE_02189,totalenergies,CARVALHOS,,VILA NOVA DE GAIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02189,,Cepsa,Q608819
+EXT_CE_02191,totalenergies,ALCANENA,,ALCANENA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02191,,Cepsa,Q608819
+EXT_CE_02202,totalenergies,VIEIRA DE LEIRIA,,MARINHA GRANDE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02202,,Cepsa,Q608819
+EXT_CE_02205,totalenergies,SOBREIRA,,PAREDES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02205,,Cepsa,Q608819
+EXT_CE_02206,totalenergies,BARROSAS,,FELGUEIRAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02206,,Cepsa,Q608819
+EXT_CE_02212,totalenergies,JOANE,,VILA NOVA DE FAMALICAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02212,,Cepsa,Q608819
+EXT_CE_02215,totalenergies,QUARTEIRA,,LOULE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02215,,Cepsa,Q608819
+EXT_CE_02219,totalenergies,GUIMARÃES,,GUIMARAES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02219,,Cepsa,Q608819
+EXT_CE_02225,totalenergies,MAXIMINOS,,MAXIMINOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02225,,Cepsa,Q608819
+EXT_CE_02226,totalenergies,SEQUEADE,,BARCELOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02226,,Cepsa,Q608819
+EXT_CE_02244,totalenergies,VIDIGUEIRA,,VIDIGUEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02244,,Cepsa,Q608819
+EXT_CE_02245,totalenergies,VILARANDELO,,VALPACOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02245,,Cepsa,Q608819
+EXT_CE_02250,totalenergies,TORRES NOVAS,,TORRES NOVAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02250,,Cepsa,Q608819
+EXT_CE_02254,totalenergies,MACEDA (OVR/MCD),,OVAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02254,,Cepsa,Q608819
+EXT_CE_02255,totalenergies,CABAÇOS,,ALVAIAZARE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02255,,Cepsa,Q608819
+EXT_CE_02266,totalenergies,TOMAR,,TOMAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02266,,Cepsa,Q608819
+EXT_CE_02267,totalenergies,NEGRAIS,,SINTRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02267,,Cepsa,Q608819
+EXT_CE_02268,totalenergies,VILA REAL III,,VILA REAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02268,,Cepsa,Q608819
+EXT_CE_02272,totalenergies,SANTAR,,NELAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02272,,Cepsa,Q608819
+EXT_CE_02278,totalenergies,PORTO -  SÃO DINIS,,OPORTO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02278,,Cepsa,Q608819
+EXT_CE_02279,totalenergies,CHAVES - AV  GALIZA,,CHAVES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02279,,Cepsa,Q608819
+EXT_CE_02284,totalenergies,VILA VERDE,,VILA VERDE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02284,,Cepsa,Q608819
+EXT_CE_02285,totalenergies,PÓVOA SANTARÉM,,SANTAREM,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02285,,Cepsa,Q608819
+EXT_CE_02289,totalenergies,ARCOS DE VALDEVEZ,,ARCOS DE VALDEVEZ,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02289,,Cepsa,Q608819
+EXT_CE_02292,totalenergies,PENELA,,PENELA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02292,,Cepsa,Q608819
+EXT_CE_02300,totalenergies,MARCO CANAVESES ¿ SOALHÃES,,MARCO DE CANAVESES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02300,,Cepsa,Q608819
+EXT_CE_02301,totalenergies,VENDAS NOVAS - LOUROSA,,LOUROSA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02301,,Cepsa,Q608819
+EXT_CE_02302,totalenergies,COLOS,,ODEMIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02302,,Cepsa,Q608819
+EXT_CE_02308,totalenergies,VIDIGUEIRA - EN 18,,VIDIGUEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02308,,Cepsa,Q608819
+EXT_CE_02311,totalenergies,PADIM DA GRAÇA,,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02311,,Cepsa,Q608819
+EXT_CE_02313,totalenergies,CORTEGAÇA - OVAR,,OVAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02313,,Cepsa,Q608819
+EXT_CE_02314,totalenergies,BRAGA - RUA DO CAIRES,,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02314,,Cepsa,Q608819
+EXT_CE_02316,totalenergies,GUIMARAES - OLIVEIRA DO CASTELO,,GUIMARAES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02316,,Cepsa,Q608819
+EXT_CE_02323,totalenergies,ROMARIZ-FEIRA,,SANTA MARIA DA FEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02323,,Cepsa,Q608819
+EXT_CE_02324,totalenergies,RONFE - GUIMARAES,,GUIMARAES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02324,,Cepsa,Q608819
+EXT_CE_02329,totalenergies,LOUREDO - SANTA MARIA DA FEIRA,,SANTA MARIA DA FEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02329,,Cepsa,Q608819
+EXT_CE_02332,totalenergies,CARRAZEDA DE ANSIÃES,,CARRAZEDA DE ANSIAES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02332,,Cepsa,Q608819
+EXT_CE_02338,totalenergies,MIRANDA DO DOURO - EN 218,,MIRANDA DO DOURO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02338,,Cepsa,Q608819
+EXT_CE_02344,totalenergies,COIMBRA - SANTA CLARA,,COIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02344,,Cepsa,Q608819
+EXT_CE_02349,totalenergies,FARO - CAMPINAS,,FARO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02349,,Cepsa,Q608819
+EXT_CE_02352,totalenergies,VINHAIS,,VINHAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02352,,Cepsa,Q608819
+EXT_CE_02353,totalenergies,LAGOS - MARGINAL,,LAGOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02353,,Cepsa,Q608819
+EXT_CE_02354,totalenergies,OLIVEIRA AZEMEIS,,OLIVEIRA DE AZEMEIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02354,,Cepsa,Q608819
+EXT_CE_02355,totalenergies,PORTIMÃO,,PORTIMAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02355,,Cepsa,Q608819
+EXT_CE_02362,totalenergies,SAN BRAS DE ALPORTEL,,SAO BRAS DE ALPORTEL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02362,,Cepsa,Q608819
+EXT_CE_02365,totalenergies,ARGANIL (ARG/CBR),,ARGANIL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02365,,Cepsa,Q608819
+EXT_CE_02366,totalenergies,FERREIRAS (LGS/FAR),,ALBUFEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02366,,Cepsa,Q608819
+EXT_CE_02367,totalenergies,ARGANIL (CBR/ARG),,ARGANIL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02367,,Cepsa,Q608819
+EXT_CE_02371,totalenergies,CELORICO DA BEIRA,,CELORICO DA BEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02371,,Cepsa,Q608819
+EXT_CE_02372,totalenergies,VILA FRANCA DAS NAVES,,TRANCOSO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02372,,Cepsa,Q608819
+EXT_CE_02374,totalenergies,AGUDA,,FIGUEIRO DOS VINHOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02374,,Cepsa,Q608819
+EXT_CE_02375,totalenergies,IP3 (VIS/CBR),,SANTA COMBA DAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02375,,Cepsa,Q608819
+EXT_CE_02376,totalenergies,ALVAIÁZERE,,ALVAIAZERE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02376,,Cepsa,Q608819
+EXT_CE_02377,totalenergies,CASCAIS - BIRRE,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02377,,Cepsa,Q608819
+EXT_CE_02387,totalenergies,A3 BARCELOS (VAL/POR),,BARCELOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02387,,Cepsa,Q608819
+EXT_CE_02389,totalenergies,BUCELAS,,LOURES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02389,,Cepsa,Q608819
+EXT_CE_02390,totalenergies,CASTANHEIRA RIBATEJO,,VILA FRANCA DE XIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02390,,Cepsa,Q608819
+EXT_CE_02396,totalenergies,FIGUEIRÓ DOS VINHOS,,FIGUEIRO DOS VINHOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02396,,Cepsa,Q608819
+EXT_CE_02397,totalenergies,SÃO MARTINHO DO PORTO,,ALCOBAÇA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02397,,Cepsa,Q608819
+EXT_CE_02398,totalenergies,VALE DE CAVALOS,,CHAMUSCA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02398,,Cepsa,Q608819
+EXT_CE_02399,totalenergies,ALCOITÃO (EST/SIN),,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02399,,Cepsa,Q608819
+EXT_CE_02402,totalenergies,ALMARGEM DO BISPO,,SINTRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02402,,Cepsa,Q608819
+EXT_CE_02403,totalenergies,A6 ESTREMOZ (LIS/ELV),,ESTREMOZ,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02403,,Cepsa,Q608819
+EXT_CE_02404,totalenergies,MACEDA (MCD/OVR),,OVAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02404,,Cepsa,Q608819
+EXT_CE_02407,totalenergies,OLIVAL BASTO - LOURES,,ODIVELAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02407,,Cepsa,Q608819
+EXT_CE_02415,totalenergies,CÂNDIDO DOS REIS - OEIRAS,,OEIRAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02415,,Cepsa,Q608819
+EXT_CE_02417,totalenergies,SÃO PEDRO DA COVA,,GONDOMAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02417,,Cepsa,Q608819
+EXT_CE_02418,totalenergies,PONTINHA,,ODIVELAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02418,,Cepsa,Q608819
+EXT_CE_02420,totalenergies,AVIS,,AVIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02420,,Cepsa,Q608819
+EXT_CE_02421,totalenergies,PORTO - PARQUE DA CIDADE,,OPORTO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02421,,Cepsa,Q608819
+EXT_CE_02422,totalenergies,PONTE DE SÔR,,PONTE DE SOR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02422,,Cepsa,Q608819
+EXT_CE_02431,totalenergies,FARIA - GUIMARÃES,,OPORTO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02431,,Cepsa,Q608819
+EXT_CE_02432,totalenergies,ALCANEDE,,SANTAREM,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02432,,Cepsa,Q608819
+EXT_CE_02433,totalenergies,SÃO MAMEDE DE INFESTA,,MATOSINHOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02433,,Cepsa,Q608819
+EXT_CE_02435,totalenergies,ALCANHÕES,,SANTAREM,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02435,,Cepsa,Q608819
+EXT_CE_02441,totalenergies,BENFICA DO RIBATEJO,,ALMEIRIM,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02441,,Cepsa,Q608819
+EXT_CE_02445,totalenergies,TORRES NOVAS - RUA MIGUEL ARNIDE,,TORRES NOVAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02445,,Cepsa,Q608819
+EXT_CE_02446,totalenergies,CHAO DURO - MOITA,,MOITA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02446,,Cepsa,Q608819
+EXT_CE_02453,totalenergies,FOROS DE CATRAPONA - SEIXAL (SET/LIS),,SEIXAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02453,,Cepsa,Q608819
+EXT_CE_02454,totalenergies,FOROS DE CATRAPONA - SEIXAL (LIS/SET),,SEIXAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02454,,Cepsa,Q608819
+EXT_CE_02455,totalenergies,MARATECA (SET/ALG),,PALMELA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02455,,Cepsa,Q608819
+EXT_CE_02459,totalenergies,CANAS DE SENHORIM,,NELAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02459,,Cepsa,Q608819
+EXT_CE_02461,totalenergies,MOIMENTA DA BEIRA - AV  25 ABRIL,,MOIMENTA DA BEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02461,,Cepsa,Q608819
+EXT_CE_02465,totalenergies,MARATECA (ALG/SET),,PALMELA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02465,,Cepsa,Q608819
+EXT_CE_02468,totalenergies,SÃO JOÃO DA PESQUEIRA,,SAO JOAO DA PESQUEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02468,,Cepsa,Q608819
+EXT_CE_02475,totalenergies,PAIO PIRES,,SEIXAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02475,,Cepsa,Q608819
+EXT_CE_02477,totalenergies,SANTA COMBA DÃO,,SANTA COMBA DAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02477,,Cepsa,Q608819
+EXT_CE_02478,totalenergies,PAREDES DE COURA,,PAREDES DO COURA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02478,,Cepsa,Q608819
+EXT_CE_02481,totalenergies,PA TROFA II,,TROFA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02481,,Cepsa,Q608819
+EXT_CE_02482,totalenergies,SÃO JULIÃO DO FREIXO,,PONTE LIMA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02482,,Cepsa,Q608819
+EXT_CE_02490,totalenergies,VILA NOVA DE PAIVA,,VILA NOVA DE PAIVA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02490,,Cepsa,Q608819
+EXT_CE_02492,totalenergies,MAIA,,MAIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02492,,Cepsa,Q608819
+EXT_CE_02495,totalenergies,AVEIRO - ESGUEIRA,,AVEIRO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02495,,Cepsa,Q608819
+EXT_CE_02501,totalenergies,FOROS DE AMORA,,SEIXAL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02501,,Cepsa,Q608819
+EXT_CE_02502,totalenergies,VISEU - AV  DA BÉLGICA,,VISEU,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02502,,Cepsa,Q608819
+EXT_CE_02504,totalenergies,COIMBRA - SÓLUM,,COIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02504,,Cepsa,Q608819
+EXT_CE_02520,totalenergies,LAGOA,,LAGOA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02520,,Cepsa,Q608819
+EXT_CE_02521,totalenergies,ALCOITÃO (SIN/EST),,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02521,,Cepsa,Q608819
+EXT_CE_02525,totalenergies,ÍLHAVO,,ILHAVO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02525,,Cepsa,Q608819
+EXT_CE_02532,totalenergies,OUTEIRO DE SÃO MIGUEL - GUARDA,,GUARDA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02532,,Cepsa,Q608819
+EXT_CE_02536,totalenergies,A1 LEIRIA (LIS/LRA),,LEIRIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02536,,Cepsa,Q608819
+EXT_CE_02538,totalenergies,A1 LEIRIA (LRA/LIS),,LEIRIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02538,,Cepsa,Q608819
+EXT_CE_02540,totalenergies,PORTELA,,VILA NOVA DE FAMALICAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02540,,Cepsa,Q608819
+EXT_CE_02544,totalenergies,ESMORIZ,,OVAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02544,,Cepsa,Q608819
+EXT_CE_02550,totalenergies,CAMBESES,,BARCELOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02550,,Cepsa,Q608819
+EXT_CE_02560,totalenergies,MELGAÇO,,MELGAÇO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02560,,Cepsa,Q608819
+EXT_CE_02561,totalenergies,ALBERGARIA-A-VELHA (LIS/POR),,ALBERGARIA-A-VELHA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02561,,Cepsa,Q608819
+EXT_CE_02562,totalenergies,TUACAR-FIGUEIRA CASTELO RODRIGO,,FIGUEIRA DE CASTELO RODRIGO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02562,,Cepsa,Q608819
+EXT_CE_02567,totalenergies,BRAGA - SEQUEIRA,,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02567,,Cepsa,Q608819
+EXT_CE_02568,totalenergies,ALBERGARIA-A-VELHA (POR/LIS),,ALBERGARIA-A-VELHA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02568,,Cepsa,Q608819
+EXT_CE_02569,totalenergies,FAFE,,FAFE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02569,,Cepsa,Q608819
+EXT_CE_02571,totalenergies,SOUSELAS,,COIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02571,,Cepsa,Q608819
+EXT_CE_02573,totalenergies,VALE DE CAMBRA,,VALE DE CAMBRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02573,,Cepsa,Q608819
+EXT_CE_02574,totalenergies,LAGOS - SAÍDA PARA SAGRES,,LAGOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02574,,Cepsa,Q608819
+EXT_CE_02577,totalenergies,PENAVERDE,,AGUIAR DA BEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02577,,Cepsa,Q608819
+EXT_CE_02580,totalenergies,LISBOA - BENFICA,,LISBOA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02580,,Cepsa,Q608819
+EXT_CE_02581,totalenergies,GALIZA - CASCAIS,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02581,,Cepsa,Q608819
+EXT_CE_02583,totalenergies,LEIRIA - POUSOS,,LEIRIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02583,,Cepsa,Q608819
+EXT_CE_02584,totalenergies,LINHÓ - SINTRA,,SINTRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02584,,Cepsa,Q608819
+EXT_CE_02585,totalenergies,MEM MARTINS,,SINTRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02585,,Cepsa,Q608819
+EXT_CE_02596,totalenergies,MAFRA,,MAFRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02596,,Cepsa,Q608819
+EXT_CE_02606,totalenergies,ORTIGOSA,,LEIRIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02606,,Cepsa,Q608819
+EXT_CE_02607,totalenergies,SILVEIRA,,TORRES VEDRAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02607,,Cepsa,Q608819
+EXT_CE_02608,totalenergies,ERMESINDE,,VALONGO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02608,,Cepsa,Q608819
+EXT_CE_02609,totalenergies,PAREDES - EN 102-2,,PAREDES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02609,,Cepsa,Q608819
+EXT_CE_02616,totalenergies,ARMAÇAO DE PERA,,SILVES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02616,,Cepsa,Q608819
+EXT_CE_02617,totalenergies,A2 ALMODÔVAR (LIS/ALG),,ALMODOVAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02617,,Cepsa,Q608819
+EXT_CE_02619,totalenergies,A2 ALMODÔVAR (ALG/LIS),,ALMODOVAR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02619,,Cepsa,Q608819
+EXT_CE_02620,totalenergies,MAIA - ZONA INDUSTRIAL,,MAIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02620,,Cepsa,Q608819
+EXT_CE_02623,totalenergies,CASCAIS - TORRE,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02623,,Cepsa,Q608819
+EXT_CE_02624,totalenergies,MATOSINHOS,,MATOSINHOS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02624,,Cepsa,Q608819
+EXT_CE_02625,totalenergies,FARO,,FARO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02625,,Cepsa,Q608819
+EXT_CE_02627,totalenergies,TOJAL,,FERREIRA DO ZEZERE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02627,,Cepsa,Q608819
+EXT_CE_02628,totalenergies,A23 ABRANTES (ABR/LIS),,ABRANTES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02628,,Cepsa,Q608819
+EXT_CE_02629,totalenergies,A23 ABRANTES (LIS/ABR),,ABRANTES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02629,,Cepsa,Q608819
+EXT_CE_02632,totalenergies,BRAGA - FEIRA NOVA,,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02632,,Cepsa,Q608819
+EXT_CE_02633,totalenergies,BARRA CHEIA - MOITA,,MOITA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02633,,Cepsa,Q608819
+EXT_CE_02634,totalenergies,TROFA,,TROFA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02634,,Cepsa,Q608819
+EXT_CE_02636,totalenergies,NELAS,,NELAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02636,,Cepsa,Q608819
+EXT_CE_02638,totalenergies,PALMEIRA (BRG / VV),,PALMEIRA BGR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02638,,Cepsa,Q608819
+EXT_CE_02642,totalenergies,CABANELAS CERVAES,,VILA VERDE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02642,,Cepsa,Q608819
+EXT_CE_02643,totalenergies,PALMEIRA (VV / BRG),,PALMEIRA BGR,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02643,,Cepsa,Q608819
+EXT_CE_02646,totalenergies,A23 CASTELO BRANCO (ABR/CBR),,CASTELO BRANCO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02646,,Cepsa,Q608819
+EXT_CE_02649,totalenergies,A22 SILVES (FAR/LGS),,SILVES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02649,,Cepsa,Q608819
+EXT_CE_02650,totalenergies,A23 CASTELO BRANCO (CBR/ABR),,CASTELO BRANCO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02650,,Cepsa,Q608819
+EXT_CE_02656,totalenergies,A22 SILVES (LGS/FAR),,SILVES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02656,,Cepsa,Q608819
+EXT_CE_02657,totalenergies,A22 OLHÃO (VRA/OLH),,OLHAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02657,,Cepsa,Q608819
+EXT_CE_02661,totalenergies,A23 FUNDÃO (FND/CBR),,FUNDAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02661,,Cepsa,Q608819
+EXT_CE_02666,totalenergies,A23 FUNDÃO (CBR/FND),,FUNDAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02666,,Cepsa,Q608819
+EXT_CE_02673,totalenergies,CONDEIXA-A-NOVA (LIS/POR),,CONDEIXA-A-NOVA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02673,,Cepsa,Q608819
+EXT_CE_02676,totalenergies,A28 VIANA DO CASTELO (VNC/POR),,VIANA DO CASTELO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02676,,Cepsa,Q608819
+EXT_CE_02678,totalenergies,CONDEIXA-A-NOVA (POR/LIS),,CONDEIXA-A-NOVA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02678,,Cepsa,Q608819
+EXT_CE_02681,totalenergies,A28 VIANA DO CASTELO (POR/VNC),,VIANA DO CASTELO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02681,,Cepsa,Q608819
+EXT_CE_02682,totalenergies,CANIDELO - VILA DO CONDE,,VILA DO CONDE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02682,,Cepsa,Q608819
+EXT_CE_02684,totalenergies,SRª APARECIDA - LOUSADA,,LOUSADA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02684,,Cepsa,Q608819
+EXT_CE_02685,totalenergies,VISEU - SÃO JOÃO DA CARREIRA,,VISEU,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02685,,Cepsa,Q608819
+EXT_CE_02686,totalenergies,A22 OLHÃO (OLH/VRA),,OLHAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02686,,Cepsa,Q608819
+EXT_CE_02691,totalenergies,BRAGA (VV/POR),,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02691,,Cepsa,Q608819
+EXT_CE_02697,totalenergies,AMARES,,AMARES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02697,,Cepsa,Q608819
+EXT_CE_02698,totalenergies,BRAGA (POR/VV),,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02698,,Cepsa,Q608819
+EXT_CE_02699,totalenergies,MANIQUE - CASCAIS,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02699,,Cepsa,Q608819
+EXT_CE_02700,totalenergies,GULPILHARES,,VILA NOVA DE GAIA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02700,,Cepsa,Q608819
+EXT_CE_02704,totalenergies,SÃO ROMÃO DO CORONADO,,TROFA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02704,,Cepsa,Q608819
+EXT_CE_02705,totalenergies,VILA DO CONDE,,VILA DO CONDE,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02705,,Cepsa,Q608819
+EXT_CE_02707,totalenergies,RAMADA - ODIVELAS,,ODIVELAS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02707,,Cepsa,Q608819
+EXT_CE_02714,totalenergies,ABRUNHEIRA (ALB/SIN),,SINTRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02714,,Cepsa,Q608819
+EXT_CE_02715,totalenergies,LISBOA - CHELAS,,LISBOA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02715,,Cepsa,Q608819
+EXT_CE_02716,totalenergies,ABRUNHEIRA (SIN/ALB),,SINTRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02716,,Cepsa,Q608819
+EXT_CE_02717,totalenergies,ANTA - ESPINHO,,ESPINHO-AVEIRO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02717,,Cepsa,Q608819
+EXT_CE_02719,totalenergies,LISBOA - ESTÁDIO UNIVERSITÁRIO,,LISBOA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02719,,Cepsa,Q608819
+EXT_CE_02721,totalenergies,PORTO - HOSPITAL DE SÃO JOÃO,,OPORTO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02721,,Cepsa,Q608819
+EXT_CE_02727,totalenergies,MIRANDELA,,MIRANDELA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02727,,Cepsa,Q608819
+EXT_CE_02730,totalenergies,SATÃO,,SATAO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02730,,Cepsa,Q608819
+EXT_CE_02732,totalenergies,VENDA DE ALCAIDE,,PALMELA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02732,,Cepsa,Q608819
+EXT_CE_02734,totalenergies,CIDREIRA - COIMBRA,,COIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02734,,Cepsa,Q608819
+EXT_CE_02739,totalenergies,MAFRA,,MAFRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02739,,Cepsa,Q608819
+EXT_CE_02740,totalenergies,SÃO TEOTÓNIO,,ODEMIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02740,,Cepsa,Q608819
+EXT_CE_02741,totalenergies,CABEÇA SANTA- EN 106 -PENAFIEL,,PENAFIEL,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02741,,Cepsa,Q608819
+EXT_CE_02745,totalenergies,LANÇADA (MOITA/MONTIJO),,MONTIJO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02745,,Cepsa,Q608819
+EXT_CE_02747,totalenergies,LANÇADA (MONTIJO/MOITA),,MONTIJO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02747,,Cepsa,Q608819
+EXT_CE_02748,totalenergies,AGUIAR DA BEIRA,,AGUIAR DA BEIRA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02748,,Cepsa,Q608819
+EXT_CE_02749,totalenergies,BARREIRENSE,,BARREIRO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02749,,Cepsa,Q608819
+EXT_CE_02758,totalenergies,PINHEIRO_BEMPOSTA,,OLIVEIRA DE AZEMEIS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02758,,Cepsa,Q608819
+EXT_CE_02759,totalenergies,E.S. COJA,,COJA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02759,,Cepsa,Q608819
+EXT_CE_02776,totalenergies,PA MACEDO CAVALEIROS,,MACEDO DE CAVALEIROS,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02776,,Cepsa,Q608819
+EXT_CE_02780,totalenergies,AVEIRO ZI,,AVEIRO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02780,,Cepsa,Q608819
+EXT_CE_02784,totalenergies,OLIVEIRA DO BAIRRO,,OLIVEIRA DO BAIRRO,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02784,,Cepsa,Q608819
+EXT_CE_02789,totalenergies,PORTELA MOSCAVIDE,,LISBOA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02789,,Cepsa,Q608819
+EXT_CE_02793,totalenergies,PA VALE DA TEJA,,GUARDA,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02793,,Cepsa,Q608819
+EXT_CE_02794,totalenergies,SILVES CIDADE,,SILVES,,,PT,,https://store.totalenergies.fr/en_EN/EXT_CE_02794,,Cepsa,Q608819
+PT_61003,totalenergies,RIBEIRÃO,,VILA NOVA DE FAMALICAO,,,PT,,https://store.totalenergies.fr/en_EN/PT_61003,,Cepsa,Q608819
+PT_61012,totalenergies,GONDOMAR I,,GONDOMAR,,,PT,+351 22 480 1536,https://store.totalenergies.fr/en_EN/PT_61012,,Cepsa,Q608819
+PT_61013,totalenergies,LAVRA,,MATOSINHOS,,,PT,+351 22 996 2747,https://store.totalenergies.fr/en_EN/PT_61013,,Cepsa,Q608819
+PT_61014,totalenergies,MOITA,,MOITA,,,PT,+351 21 203 3037,https://store.totalenergies.fr/en_EN/PT_61014,,Cepsa,Q608819
+PT_61015,totalenergies,VILA REAL I,,VILA REAL,,,PT,+351 259 321 934,https://store.totalenergies.fr/en_EN/PT_61015,,Cepsa,Q608819
+PT_61020,totalenergies,AMADORA,,AMADORA,,,PT,+351 21 981 1916,https://store.totalenergies.fr/en_EN/PT_61020,,Cepsa,Q608819
+PT_61026,totalenergies,ALPORCHINHOS,,LAGOA,,,PT,+351 282 315 933,https://store.totalenergies.fr/en_EN/PT_61026,,Cepsa,Q608819
+PT_61029,totalenergies,PENAFIEL,,PENAFIEL,,,PT,0,https://store.totalenergies.fr/en_EN/PT_61029,,Cepsa,Q608819
+PT_61032,totalenergies,AVINTES,,VILA NOVA DE GAIA,,,PT,+351 22 786 3010,https://store.totalenergies.fr/en_EN/PT_61032,,Cepsa,Q608819
+PT_61036,totalenergies,GERÊS,,TERRAS DE BOURO,,,PT,+351 253 391 124,https://store.totalenergies.fr/en_EN/PT_61036,,Cepsa,Q608819
+PT_61039,totalenergies,COM PORTA,,ALCACER DO SAL,,,PT,+351 265 497 566,https://store.totalenergies.fr/en_EN/PT_61039,,Cepsa,Q608819
+PT_61040,totalenergies,FOGUETEIRO,,SEIXAL,,,PT,,https://store.totalenergies.fr/en_EN/PT_61040,,Cepsa,Q608819
+PT_61041,totalenergies,FREAMUNDE,,PAÇOS DE FERREIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_61041,,Cepsa,Q608819
+PT_61044,totalenergies,LABRUJE (GUI/FAM),,VILA NOVA DE FAMALICAO,,,PT,+351 252 992 282,https://store.totalenergies.fr/en_EN/PT_61044,,Cepsa,Q608819
+PT_61050,totalenergies,OVAR I,,OVAR,,,PT,+351 961 729 926,https://store.totalenergies.fr/en_EN/PT_61050,,Cepsa,Q608819
+PT_61059,totalenergies,TONDELA,,TONDELA,,,PT,,https://store.totalenergies.fr/en_EN/PT_61059,,Cepsa,Q608819
+PT_61062,totalenergies,VILA FRANCA DE XIRA,,VILA FRANCA DE XIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_61062,,Cepsa,Q608819
+PT_61093,totalenergies,FORJÃES,,ESPOSENDE,,,PT,,https://store.totalenergies.fr/en_EN/PT_61093,,Cepsa,Q608819
+PT_61094,totalenergies,CAIXAS,,SESIMBRA,,,PT,+351 21 268 1112,https://store.totalenergies.fr/en_EN/PT_61094,,Cepsa,Q608819
+PT_61097,totalenergies,MERCADO ABASTECEDOR,,PORTO,,,PT,+351 22 510 6114,https://store.totalenergies.fr/en_EN/PT_61097,,Cepsa,Q608819
+PT_61099,totalenergies,REGUENGO DO FETAL,,BATALHA,,,PT,,https://store.totalenergies.fr/en_EN/PT_61099,,Cepsa,Q608819
+PT_61102,totalenergies,VOUZELA,,VOUZELA,,,PT,+351 232 758 056,https://store.totalenergies.fr/en_EN/PT_61102,,Cepsa,Q608819
+PT_61110,totalenergies,LISBOA-ALVALADE,,LISBOA,,,PT,+351 965 863 924,https://store.totalenergies.fr/en_EN/PT_61110,,Cepsa,Q608819
+PT_61112,totalenergies,LOURO,,VILA NOVA DE FAMALICAO,,,PT,+351 252 316 159,https://store.totalenergies.fr/en_EN/PT_61112,,Cepsa,Q608819
+PT_61113,totalenergies,VALONGO,,VALONGO,,,PT,+351 22 422 4303,https://store.totalenergies.fr/en_EN/PT_61113,,Cepsa,Q608819
+PT_61114,totalenergies,VILAR DO PINHEIRO,,VILA DO CONDE,,,PT,+351 22 926 0333,https://store.totalenergies.fr/en_EN/PT_61114,,Cepsa,Q608819
+PT_61116,totalenergies,MARGINAL,,PORTO,,,PT,+351 22 518 8547,https://store.totalenergies.fr/en_EN/PT_61116,,Cepsa,Q608819
+PT_61117,totalenergies,BURGÃES,,SANTO TIRSO,,,PT,+351 252 850 249,https://store.totalenergies.fr/en_EN/PT_61117,,Cepsa,Q608819
+PT_61118,totalenergies,SOBRADO,,VALONGO,,,PT,+351 22 415 6531,https://store.totalenergies.fr/en_EN/PT_61118,,Cepsa,Q608819
+PT_61126,totalenergies,CACHOPO,,TAVIRA,,,PT,+351 289 844 215,https://store.totalenergies.fr/en_EN/PT_61126,,Cepsa,Q608819
+PT_61136,totalenergies,REBORDOSA,,PAREDES,,,PT,+351 22 415 5006,https://store.totalenergies.fr/en_EN/PT_61136,,Cepsa,Q608819
+PT_61137,totalenergies,CUCUJÃES,,OLIVEIRA DE AZEMEIS,,,PT,+351 256 824 974,https://store.totalenergies.fr/en_EN/PT_61137,,Cepsa,Q608819
+PT_61144,totalenergies,SERRA D'EL REI,,PENICHE,,,PT,+351 262 909 136,https://store.totalenergies.fr/en_EN/PT_61144,,Cepsa,Q608819
+PT_61146,totalenergies,PEGÕES VELHOS,,PALMELA,,,PT,+351 265 996 407,https://store.totalenergies.fr/en_EN/PT_61146,,Cepsa,Q608819
+PT_61155,totalenergies,FERREIRAS (FAR/LGS),,ALBUFEIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_61155,,Cepsa,Q608819
+PT_61159,totalenergies,IP3 (COI/VIS),,SANTA COMBA DAO,,,PT,+351 232 891 103,https://store.totalenergies.fr/en_EN/PT_61159,,Cepsa,Q608819
+PT_61163,totalenergies,BRAGANCA II,,BRAGANÇA,,,PT,+351 273 331 780,https://store.totalenergies.fr/en_EN/PT_61163,,Cepsa,Q608819
+PT_61169,totalenergies,COIMBRA I,,COIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_61169,,Cepsa,Q608819
+PT_61170,totalenergies,GUEIFÃES,,MAIA,,,PT,+351 919 200 247,https://store.totalenergies.fr/en_EN/PT_61170,,Cepsa,Q608819
+PT_61177,totalenergies,CHAVES,,CHAVES,,,PT,,https://store.totalenergies.fr/en_EN/PT_61177,,Cepsa,Q608819
+PT_61188,totalenergies,VALADARES,,VILA NOVA DE GAIA,,,PT,+351 22 712 7322,https://store.totalenergies.fr/en_EN/PT_61188,,Cepsa,Q608819
+PT_61196,totalenergies,MARCO DE CANAVESES,,MARCO DE CANAVESES,,,PT,+351 255 532 542,https://store.totalenergies.fr/en_EN/PT_61196,,Cepsa,Q608819
+PT_61205,totalenergies,DRAMÁTICO CASCAIS,,CASCAIS,,,PT,+351 21 483 6049,https://store.totalenergies.fr/en_EN/PT_61205,,Cepsa,Q608819
+PT_61220,totalenergies,ELVAS,,ELVAS,,,PT,+351 268 620 981,https://store.totalenergies.fr/en_EN/PT_61220,,Cepsa,Q608819
+PT_61274,totalenergies,FÁTIMA,,OUREM,,,PT,+351 249 538 558,https://store.totalenergies.fr/en_EN/PT_61274,,Cepsa,Q608819
+PT_61276,totalenergies,LOULÉ,,LOULE,,,PT,+351 289 411 699,https://store.totalenergies.fr/en_EN/PT_61276,,Cepsa,Q608819
+PT_61277,totalenergies,SANFINS DO DOURO,,ALIJO,,,PT,+351 259 686 174,https://store.totalenergies.fr/en_EN/PT_61277,,Cepsa,Q608819
+PT_61281,totalenergies,PORTALEGRE,,PORTALEGRE,,,PT,,https://store.totalenergies.fr/en_EN/PT_61281,,Cepsa,Q608819
+PT_61292,totalenergies,OLHÃO II,,OLHAO,,,PT,+351 289 715 469,https://store.totalenergies.fr/en_EN/PT_61292,,Cepsa,Q608819
+PT_61301,totalenergies,SANTA MARIA DA FEIRA,,SANTA MARIA DA FEIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_61301,,Cepsa,Q608819
+PT_61307,totalenergies,CARVALHOS,,VILA NOVA DE GAIA,,,PT,+351 22 784 7669,https://store.totalenergies.fr/en_EN/PT_61307,,Cepsa,Q608819
+PT_61311,totalenergies,BARROSAS,,FELGUEIRAS,,,PT,+351 255 330 274,https://store.totalenergies.fr/en_EN/PT_61311,,Cepsa,Q608819
+PT_61314,totalenergies,COVILHÃ,,COVILHA,,,PT,+351 275 324 482,https://store.totalenergies.fr/en_EN/PT_61314,,Cepsa,Q608819
+PT_61316,totalenergies,SOBREIRA,,PAREDES,,,PT,,https://store.totalenergies.fr/en_EN/PT_61316,,Cepsa,Q608819
+PT_61320,totalenergies,JOANE,,VILA NOVA DE FAMALICAO,,,PT,+351 252 928 665,https://store.totalenergies.fr/en_EN/PT_61320,,Cepsa,Q608819
+PT_61323,totalenergies,QUARTEIRA,,LOULE,,,PT,+351 289 388 952,https://store.totalenergies.fr/en_EN/PT_61323,,Cepsa,Q608819
+PT_61325,totalenergies,TORRES NOVAS,,TORRES NOVAS,,,PT,+351 249 817 238,https://store.totalenergies.fr/en_EN/PT_61325,,Cepsa,Q608819
+PT_61330,totalenergies,MACEDA (OVR/MCD),,OVAR,,,PT,+351 256 508 084,https://store.totalenergies.fr/en_EN/PT_61330,,Cepsa,Q608819
+PT_61339,totalenergies,SEQUEADE,,BARCELOS,,,PT,+351 253 952 019,https://store.totalenergies.fr/en_EN/PT_61339,,Cepsa,Q608819
+PT_61340,totalenergies,VIDIGUEIRA,,VIDIGUEIRA,,,PT,+351 284 436 259,https://store.totalenergies.fr/en_EN/PT_61340,,Cepsa,Q608819
+PT_61342,totalenergies,VILARANDELO,,VALPACOS,,,PT,+351 278 749 509,https://store.totalenergies.fr/en_EN/PT_61342,,Cepsa,Q608819
+PT_61347,totalenergies,NEGRAIS,,SINTRA,,,PT,+351 21 927 9001,https://store.totalenergies.fr/en_EN/PT_61347,,Cepsa,Q608819
+PT_61348,totalenergies,SANTAR,,NELAS,,,PT,0,https://store.totalenergies.fr/en_EN/PT_61348,,Cepsa,Q608819
+PT_61349,totalenergies,PORTO DE SÃO DINIS,,PORTO,,,PT,+351 22 832 5513,https://store.totalenergies.fr/en_EN/PT_61349,,Cepsa,Q608819
+PT_61376,totalenergies,CHAVES - AV  GALIZA,,CHAVES,,,PT,+351 276 332 544,https://store.totalenergies.fr/en_EN/PT_61376,,Cepsa,Q608819
+PT_61618,totalenergies,TOMAR,,TOMAR,,,PT,+351 249 311 521,https://store.totalenergies.fr/en_EN/PT_61618,,Cepsa,Q608819
+PT_61645,totalenergies,VILA REAL III,,VILA REAL,,,PT,+351 259 326 817,https://store.totalenergies.fr/en_EN/PT_61645,,Cepsa,Q608819
+PT_61821,totalenergies,CORTEGAÇA - OVAR,,OVAR,,,PT,+351 256 752 682,https://store.totalenergies.fr/en_EN/PT_61821,,Cepsa,Q608819
+PT_61833,totalenergies,LOUREDO - SANTA MARIA DA FEIRA,,SANTA MARIA DA FEIRA,,,PT,+351 256 915 001,https://store.totalenergies.fr/en_EN/PT_61833,,Cepsa,Q608819
+PT_61881,totalenergies,COLOS,,ODEMIRA,,,PT,+351 283 653 230,https://store.totalenergies.fr/en_EN/PT_61881,,Cepsa,Q608819
+PT_61898,totalenergies,VIDIGUEIRA - EN 18,,VIDIGUEIRA,,,PT,+351 284 434 064,https://store.totalenergies.fr/en_EN/PT_61898,,Cepsa,Q608819
+PT_61916,totalenergies,BRAGA - RUA DO CAIRES,,BRAGA,,,PT,+351 253 269 011,https://store.totalenergies.fr/en_EN/PT_61916,,Cepsa,Q608819
+PT_61931,totalenergies,GUIMARAES - OLIVEIRA DO CASTELO,,GUIMARAES,,,PT,+351 253 512 913,https://store.totalenergies.fr/en_EN/PT_61931,,Cepsa,Q608819
+PT_61974,totalenergies,MIRANDA DO DOURO - EN 218,,MIRANDA DO DOURO,,,PT,+351 273 431 424,https://store.totalenergies.fr/en_EN/PT_61974,,Cepsa,Q608819
+PT_61982,totalenergies,VINHAIS,,VINHAIS,,,PT,+351 273 771 603,https://store.totalenergies.fr/en_EN/PT_61982,,Cepsa,Q608819
+PT_62065,totalenergies,ARGANIL (ARG/CBR),,ARGANIL,,,PT,+351 235 204 644,https://store.totalenergies.fr/en_EN/PT_62065,,Cepsa,Q608819
+PT_62066,totalenergies,ARGANIL (CBR/ARG),,ARGANIL,,,PT,+351 235 204 679,https://store.totalenergies.fr/en_EN/PT_62066,,Cepsa,Q608819
+PT_62067,totalenergies,COIMBRA - SANTA CLARA,,COIMBRA,,,PT,+351 239 441 507,https://store.totalenergies.fr/en_EN/PT_62067,,Cepsa,Q608819
+PT_62127,totalenergies,LAGOS - MARGINAL,,LAGOS,,,PT,+351 282 764 738,https://store.totalenergies.fr/en_EN/PT_62127,,Cepsa,Q608819
+PT_62144,totalenergies,PORTIMÃO,,PORTIMAO,,,PT,,https://store.totalenergies.fr/en_EN/PT_62144,,Cepsa,Q608819
+PT_62155,totalenergies,FERREIRAS (LGS/FAR),,ALBUFEIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_62155,,Cepsa,Q608819
+PT_62159,totalenergies,IP3 (VIS/CBR),,SANTA COMBA DAO,,,PT,,https://store.totalenergies.fr/en_EN/PT_62159,,Cepsa,Q608819
+PT_62198,totalenergies,VILA FRANCA DAS NAVES,,TRANCOSO,,,PT,+351 271 886 610,https://store.totalenergies.fr/en_EN/PT_62198,,Cepsa,Q608819
+PT_62212,totalenergies,ALVAIÁZERE,,ALVAIAZERE,,,PT,+351 236 655 187,https://store.totalenergies.fr/en_EN/PT_62212,,Cepsa,Q608819
+PT_62224,totalenergies,FIGUEIRÓ DOS VINHOS,,FIGUEIRO DOS VINHOS,,,PT,+351 236 552 183,https://store.totalenergies.fr/en_EN/PT_62224,,Cepsa,Q608819
+PT_62253,totalenergies,SÃO MARTINHO DO PORTO,,ALCOBAÇA,,,PT,+351 262 980 655,https://store.totalenergies.fr/en_EN/PT_62253,,Cepsa,Q608819
+PT_62289,totalenergies,CASCAIS - BIRRE,,CASCAIS,,,PT,+351 21 485 0572,https://store.totalenergies.fr/en_EN/PT_62289,,Cepsa,Q608819
+PT_62290,totalenergies,BUCELAS,,LOURES,,,PT,+351 21 969 4321,https://store.totalenergies.fr/en_EN/PT_62290,,Cepsa,Q608819
+PT_62298,totalenergies,CASTANHEIRA RIBATEJO,,VILA FRANCA DE XIRA,,,PT,+351 263 288 009,https://store.totalenergies.fr/en_EN/PT_62298,,Cepsa,Q608819
+PT_62330,totalenergies,MACEDA (MCD/OVR),,OVAR,,,PT,+351 256 585 780,https://store.totalenergies.fr/en_EN/PT_62330,,Cepsa,Q608819
+PT_62376,totalenergies,CÂNDIDO DOS REIS - OEIRAS,,OEIRAS,,,PT,+351 21 443 8707,https://store.totalenergies.fr/en_EN/PT_62376,,Cepsa,Q608819
+PT_62378,totalenergies,OLIVAL BASTO - LOURES,,ODIVELAS,,,PT,+351 21 938 6023,https://store.totalenergies.fr/en_EN/PT_62378,,Cepsa,Q608819
+PT_62387,totalenergies,PONTINHA,,ODIVELAS,,,PT,+351 21 479 1001,https://store.totalenergies.fr/en_EN/PT_62387,,Cepsa,Q608819
+PT_62413,totalenergies,AVIS,,AVIS,,,PT,0,https://store.totalenergies.fr/en_EN/PT_62413,,Cepsa,Q608819
+PT_62425,totalenergies,PONTE DE SÔR,,PONTE DE SOR,,,PT,+351 963 707 530,https://store.totalenergies.fr/en_EN/PT_62425,,Cepsa,Q608819
+PT_62475,totalenergies,PENAFIEL - AV  JOSÉ JÚLIO,,PENAFIEL,,,PT,0,https://store.totalenergies.fr/en_EN/PT_62475,,Cepsa,Q608819
+PT_62493,totalenergies,FARIA - GUIMARÃES,,PORTO,,,PT,+351 919 989 011,https://store.totalenergies.fr/en_EN/PT_62493,,Cepsa,Q608819
+PT_62514,totalenergies,SÃO MAMEDE DE INFESTA,,MATOSINHOS,,,PT,+351 22 405 4796,https://store.totalenergies.fr/en_EN/PT_62514,,Cepsa,Q608819
+PT_62515,totalenergies,SÃO PEDRO DA COVA,,GONDOMAR,,,PT,,https://store.totalenergies.fr/en_EN/PT_62515,,Cepsa,Q608819
+PT_62521,totalenergies,PORTO - PARQUE DA CIDADE,,PORTO,,,PT,+351 22 618 4102,https://store.totalenergies.fr/en_EN/PT_62521,,Cepsa,Q608819
+PT_62522,totalenergies,LORDELO,,PAREDES,,,PT,+351 22 444 7410,https://store.totalenergies.fr/en_EN/PT_62522,,Cepsa,Q608819
+PT_62558,totalenergies,BENFICA DO RIBATEJO,,ALMEIRIM,,,PT,+351 243 589 518,https://store.totalenergies.fr/en_EN/PT_62558,,Cepsa,Q608819
+PT_62599,totalenergies,TORRES NOVAS - RUA MIGUEL ARNIDE,,TORRES NOVAS,,,PT,+351 249 822 132,https://store.totalenergies.fr/en_EN/PT_62599,,Cepsa,Q608819
+PT_62619,totalenergies,FOROS DE CATRAPONA - SEIXAL (LIS/SET),,SEIXAL,,,PT,+351 21 210 1262,https://store.totalenergies.fr/en_EN/PT_62619,,Cepsa,Q608819
+PT_62620,totalenergies,FOROS DE CATRAPONA - SEIXAL (SET/LIS),,SEIXAL,,,PT,+351 21 210 2407,https://store.totalenergies.fr/en_EN/PT_62620,,Cepsa,Q608819
+PT_62626,totalenergies,MARATECA (SET/ALG),,PALMELA,,,PT,,https://store.totalenergies.fr/en_EN/PT_62626,,Cepsa,Q608819
+PT_62627,totalenergies,MARATECA (ALG/SET),,PALMELA,,,PT,+351 265 912 245,https://store.totalenergies.fr/en_EN/PT_62627,,Cepsa,Q608819
+PT_62643,totalenergies,PAIO PIRES,,SEIXAL,,,PT,+351 21 222 4425,https://store.totalenergies.fr/en_EN/PT_62643,,Cepsa,Q608819
+PT_62673,totalenergies,PAREDES DE COURA,,PAREDES DO COURA,,,PT,+351 251 788 259,https://store.totalenergies.fr/en_EN/PT_62673,,Cepsa,Q608819
+PT_62715,totalenergies,VILA NOVA DE PAIVA,,VILA NOVA DE PAIVA,,,PT,+351 232 518 176,https://store.totalenergies.fr/en_EN/PT_62715,,Cepsa,Q608819
+PT_62718,totalenergies,CANAS DE SENHORIM,,NELAS,,,PT,+351 232 962 959,https://store.totalenergies.fr/en_EN/PT_62718,,Cepsa,Q608819
+PT_62727,totalenergies,MOIMENTA DA BEIRA - AV  25 ABRIL,,MOIMENTA DA BEIRA,,,PT,+351 254 583 194,https://store.totalenergies.fr/en_EN/PT_62727,,Cepsa,Q608819
+PT_62731,totalenergies,CARREGAL DO SAL - OLIVEIRINHA,,CARREGAL DO SAL,,,PT,+351 232 962 950,https://store.totalenergies.fr/en_EN/PT_62731,,Cepsa,Q608819
+PT_62739,totalenergies,SÃO JOÃO DA PESQUEIRA,,SAO JOAO DA PESQUEIRA,,,PT,+351 938 484 050,https://store.totalenergies.fr/en_EN/PT_62739,,Cepsa,Q608819
+PT_62743,totalenergies,SANTA COM BA DÃO,,SANTA COMBA DAO,,,PT,+351 232 888 707,https://store.totalenergies.fr/en_EN/PT_62743,,Cepsa,Q608819
+PT_62794,totalenergies,AVEIRO - ESGUEIRA,,AVEIRO,,,PT,+351 234 314 369,https://store.totalenergies.fr/en_EN/PT_62794,,Cepsa,Q608819
+PT_62798,totalenergies,COIMBRA - SÓLUM,,COIMBRA,,,PT,+351 239 721 477,https://store.totalenergies.fr/en_EN/PT_62798,,Cepsa,Q608819
+PT_62800,totalenergies,LAGOA,,LAGOA,,,PT,+351 282 352 445,https://store.totalenergies.fr/en_EN/PT_62800,,Cepsa,Q608819
+PT_62810,totalenergies,MAIA,,MAIA,,,PT,+351 22 944 0993,https://store.totalenergies.fr/en_EN/PT_62810,,Cepsa,Q608819
+PT_62814,totalenergies,FOROS DE AMORA,,SEIXAL,,,PT,+351 21 225 0668,https://store.totalenergies.fr/en_EN/PT_62814,,Cepsa,Q608819
+PT_62816,totalenergies,VISEU - AV  DA BÉLGICA,,VISEU,,,PT,+351 232 425 061,https://store.totalenergies.fr/en_EN/PT_62816,,Cepsa,Q608819
+PT_62854,totalenergies,OUTEIRO DE SÃO MIGUEL - GUARDA,,GUARDA,,,PT,+351 271 227 786,https://store.totalenergies.fr/en_EN/PT_62854,,Cepsa,Q608819
+PT_62857,totalenergies,ÍLHAVO,,ÍLHAVO,,,PT,+351 234 367 199,https://store.totalenergies.fr/en_EN/PT_62857,,Cepsa,Q608819
+PT_62882,totalenergies,ESMORIZ,,OVAR,,,PT,0,https://store.totalenergies.fr/en_EN/PT_62882,,Cepsa,Q608819
+PT_63116,totalenergies,FIGUEIRA CASTELO RODRIGO,,FIGUEIRA DE CASTELO RODRIGO,,,PT,+351 271 312 185,https://store.totalenergies.fr/en_EN/PT_63116,,Cepsa,Q608819
+PT_63314,totalenergies,VALE DE CAMBRA,,VALE DE CAMBRA,,,PT,+351 256 488 287,https://store.totalenergies.fr/en_EN/PT_63314,,Cepsa,Q608819
+PT_63321,totalenergies,BRAGA - SEQUEIRA,,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/PT_63321,,Cepsa,Q608819
+PT_63331,totalenergies,LAGOS - SAÍDA PARA SAGRES,,LAGOS,,,PT,+351 282 782 278,https://store.totalenergies.fr/en_EN/PT_63331,,Cepsa,Q608819
+PT_63337,totalenergies,GALIZA - CASCAIS,,CASCAIS,,,PT,+351 21 468 6753,https://store.totalenergies.fr/en_EN/PT_63337,,Cepsa,Q608819
+PT_63338,totalenergies,LINHÓ - SINTRA,,SINTRA,,,PT,+351 21 910 9073,https://store.totalenergies.fr/en_EN/PT_63338,,Cepsa,Q608819
+PT_63341,totalenergies,MEM MARTINS,,SINTRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_63341,,Cepsa,Q608819
+PT_63344,totalenergies,SILVEIRA,,TORRES VEDRAS,,,PT,,https://store.totalenergies.fr/en_EN/PT_63344,,Cepsa,Q608819
+PT_63346,totalenergies,PAREDES - EN 102-2,,PAREDES,,,PT,,https://store.totalenergies.fr/en_EN/PT_63346,,Cepsa,Q608819
+PT_63347,totalenergies,ERMESINDE,,VALONGO,,,PT,+351 22 971 3571,https://store.totalenergies.fr/en_EN/PT_63347,,Cepsa,Q608819
+PT_63349,totalenergies,MAIA- ZONA INDUSTRIAL,,MAIA,,,PT,+351 22 982 4654,https://store.totalenergies.fr/en_EN/PT_63349,,Cepsa,Q608819
+PT_63350,totalenergies,MATOSINHOS,,MATOSINHOS,,,PT,+351 22 938 1940,https://store.totalenergies.fr/en_EN/PT_63350,,Cepsa,Q608819
+PT_63355,totalenergies,TOJAL,,FERREIRA DO ZEZERE,,,PT,,https://store.totalenergies.fr/en_EN/PT_63355,,Cepsa,Q608819
+PT_63356,totalenergies,BARRA CHEIA - MOITA,,MOITA,,,PT,+351 21 213 0150,https://store.totalenergies.fr/en_EN/PT_63356,,Cepsa,Q608819
+PT_63357,totalenergies,PALMELA,,PALMELA,,,PT,+351 21 210 8026,https://store.totalenergies.fr/en_EN/PT_63357,,Cepsa,Q608819
+PT_63422,totalenergies,FARO,,FARO,,,PT,+351 289 817 330,https://store.totalenergies.fr/en_EN/PT_63422,,Cepsa,Q608819
+PT_63425,totalenergies,BRAGA - FEIRA NOVA,,BRAGA,,,PT,+351 253 614 771,https://store.totalenergies.fr/en_EN/PT_63425,,Cepsa,Q608819
+PT_63428,totalenergies,TROFA,,TROFA,,,PT,+351 252 414 802,https://store.totalenergies.fr/en_EN/PT_63428,,Cepsa,Q608819
+PT_63541,totalenergies,LORDELO,,PAREDES,,,PT,,https://store.totalenergies.fr/en_EN/PT_63541,,Cepsa,Q608819
+PT_63542,totalenergies,PENAFIEL - AV  JOSÉ JÚLIO,,PENAFIEL,,,PT,,https://store.totalenergies.fr/en_EN/PT_63542,,Cepsa,Q608819
+PT_63583,totalenergies,CONDEIXA-A-NOVA (LIS/POR),,CONDEIXA-A-NOVA,,,PT,+351 239 941 894,https://store.totalenergies.fr/en_EN/PT_63583,,Cepsa,Q608819
+PT_63588,totalenergies,SRª APARECIDA - LOUSADA,,LOUSADA,,,PT,+351 255 813 083,https://store.totalenergies.fr/en_EN/PT_63588,,Cepsa,Q608819
+PT_63589,totalenergies,VISEU - SÃO JOÃO DA CARREIRA,,VISEU,,,PT,+351 232 440 026,https://store.totalenergies.fr/en_EN/PT_63589,,Cepsa,Q608819
+PT_63593,totalenergies,AMARES,,AMARES,,,PT,+351 962 052 270,https://store.totalenergies.fr/en_EN/PT_63593,,Cepsa,Q608819
+PT_63594,totalenergies,MANIQUE - CASCAIS,,CASCAIS,,,PT,+351 21 444 0938,https://store.totalenergies.fr/en_EN/PT_63594,,Cepsa,Q608819
+PT_63595,totalenergies,VILA DO CONDE,,VILA DO CONDE,,,PT,+351 252 632 313,https://store.totalenergies.fr/en_EN/PT_63595,,Cepsa,Q608819
+PT_63596,totalenergies,RAMADA - ODIVELAS,,ODIVELAS,,,PT,+351 21 933 1755,https://store.totalenergies.fr/en_EN/PT_63596,,Cepsa,Q608819
+PT_63622,totalenergies,LISBOA - ESTÁDIO UNIVERSITÁRIO,,LISBOA,,,PT,+351 21 796 1272,https://store.totalenergies.fr/en_EN/PT_63622,,Cepsa,Q608819
+PT_63623,totalenergies,PORTO - HOSPITAL DE SÃO JOÃO,,PORTO,,,PT,+351 22 509 7267,https://store.totalenergies.fr/en_EN/PT_63623,,Cepsa,Q608819
+PT_63630,totalenergies,BRAGA (VV/POR),,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/PT_63630,,Cepsa,Q608819
+PT_63631,totalenergies,BRAGA (POR/VV),,BRAGA,,,PT,+351 253 303 180,https://store.totalenergies.fr/en_EN/PT_63631,,Cepsa,Q608819
+PT_63633,totalenergies,GULPILHARES,,VILA NOVA DE GAIA,,,PT,+351 917 764 298,https://store.totalenergies.fr/en_EN/PT_63633,,Cepsa,Q608819
+PT_63658,totalenergies,SÃO ROMÃO DO CORONADO,,TROFA,,,PT,,https://store.totalenergies.fr/en_EN/PT_63658,,Cepsa,Q608819
+PT_63663,totalenergies,SATÃO,,SATAO,,,PT,+351 232 981 767,https://store.totalenergies.fr/en_EN/PT_63663,,Cepsa,Q608819
+PT_63669,totalenergies,VENDA DE ALCAIDE,,PALMELA,,,PT,+351 21 236 3111,https://store.totalenergies.fr/en_EN/PT_63669,,Cepsa,Q608819
+PT_63687,totalenergies,AS LANÇADA (MOITA/MONTIJO),,MONTIJO,,,PT,+351 21 289 4464,https://store.totalenergies.fr/en_EN/PT_63687,,Cepsa,Q608819
+PT_63688,totalenergies,LANÇADA (MONTIJO/MOITA),,MONTIJO,,,PT,+351 21 289 3347,https://store.totalenergies.fr/en_EN/PT_63688,,Cepsa,Q608819
+PT_63734,totalenergies,BARREIRENSE,,SETUBAL,,,PT,+351 21 216 9485,https://store.totalenergies.fr/en_EN/PT_63734,,Cepsa,Q608819
+PT_64023,totalenergies,CABEÇA SANTA- EN 106 -PENAFIEL,,PENAFIEL,,,PT,0,https://store.totalenergies.fr/en_EN/PT_64023,,Cepsa,Q608819
+PT_EXT_11201,totalenergies,LANÇADA (MOITA/MONTIJO),,MONTIJO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11201,,Cepsa,Q608819
+PT_EXT_11202,totalenergies,LECA PALMEIRA,,MATOSINHOS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11202,,Cepsa,Q608819
+PT_EXT_11203,totalenergies,LEIRIA - POUSOS,,LEIRIA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11203,,Cepsa,Q608819
+PT_EXT_11204,totalenergies,LISBOA - BENFICA,,LISBOA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11204,,Cepsa,Q608819
+PT_EXT_11205,totalenergies,LISBOA - CHELAS,,LISBOA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11205,,Cepsa,Q608819
+PT_EXT_11206,totalenergies,MAFRA,,MAFRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11206,,Cepsa,Q608819
+PT_EXT_11207,totalenergies,MAIA - ZONA INDUSTRIAL,,MAIA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11207,,Cepsa,Q608819
+PT_EXT_11208,totalenergies,MARINA DE CASCAIS,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11208,,Cepsa,Q608819
+PT_EXT_11209,totalenergies,MAXIMINOS,,MAXIMINOS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11209,,Cepsa,Q608819
+PT_EXT_11211,totalenergies,MELGAÇO,,MELGAÇO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11211,,Cepsa,Q608819
+PT_EXT_11212,totalenergies,MIRA DE AIRE,,PORTO DE MOS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11212,,Cepsa,Q608819
+PT_EXT_11213,totalenergies,MIRANDA DO DOURO,,MIRANDA DO DOURO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11213,,Cepsa,Q608819
+PT_EXT_11214,totalenergies,MIRANDELA,,MIRANDELA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11214,,Cepsa,Q608819
+PT_EXT_11215,totalenergies,MONFORTE,,MONFORTE,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11215,,Cepsa,Q608819
+PT_EXT_11216,totalenergies,NELAS,,NELAS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11216,,Cepsa,Q608819
+PT_EXT_11217,totalenergies,OLHÃO I,,OLHAO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11217,,Cepsa,Q608819
+PT_EXT_11218,totalenergies,OLIVEIRA AZEMEIS,,OLIVEIRA DE AZEMEIS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11218,,Cepsa,Q608819
+PT_EXT_11219,totalenergies,OLIVEIRA DO BAIRRO,,OLIVEIRA DO BAIRRO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11219,,Cepsa,Q608819
+PT_EXT_11220,totalenergies,ORTIGOSA,,LEIRIA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11220,,Cepsa,Q608819
+PT_EXT_11221,totalenergies,PA AMARES II - ILIDIO MOTA,,AMARES,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11221,,Cepsa,Q608819
+PT_EXT_11222,totalenergies,PA MACEDO CAVALEIROS,,MACEDO DE CAVALEIROS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11222,,Cepsa,Q608819
+PT_EXT_11223,totalenergies,PA TROFA II,,TROFA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11223,,Cepsa,Q608819
+PT_EXT_11224,totalenergies,PA VALE DA TEJA,,GUARDA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11224,,Cepsa,Q608819
+PT_EXT_11225,totalenergies,PADIM DA GRAÇA,,BRAGA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11225,,Cepsa,Q608819
+PT_EXT_11226,totalenergies,PALHOÇA,,CADAVAL,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11226,,Cepsa,Q608819
+PT_EXT_11227,totalenergies,PALMEIRA (BRG / VV),,PALMEIRA BGR,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11227,,Cepsa,Q608819
+PT_EXT_11228,totalenergies,PALMEIRA (VV / BRG),,PALMEIRA BGR,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11228,,Cepsa,Q608819
+PT_EXT_11229,totalenergies,PAREDES,,PAREDES,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11229,,Cepsa,Q608819
+PT_EXT_11230,totalenergies,PENAVERDE,,AGUIAR DA BEIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11230,,Cepsa,Q608819
+PT_EXT_11231,totalenergies,PENELA,,PENELA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11231,,Cepsa,Q608819
+PT_EXT_11232,totalenergies,PINHEIRO_BEMPOSTA,,OLIVEIRA DE AZEMEIS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11232,,Cepsa,Q608819
+PT_EXT_11233,totalenergies,PORTELA,,VILA NOVA DE FAMALICAO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11233,,Cepsa,Q608819
+PT_EXT_11234,totalenergies,PORTO -  SÃO DINIS,,OPORTO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11234,,Cepsa,Q608819
+PT_EXT_11235,totalenergies,PORTO DE LAGOS,,PORTIMAO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11235,,Cepsa,Q608819
+PT_EXT_11236,totalenergies,PÓVOA SANTARÉM,,SANTAREM,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11236,,Cepsa,Q608819
+PT_EXT_11237,totalenergies,ROMARIZ-FEIRA,,SANTA MARIA DA FEIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11237,,Cepsa,Q608819
+PT_EXT_11238,totalenergies,RONFE - GUIMARAES,,GUIMARAES,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11238,,Cepsa,Q608819
+PT_EXT_11239,totalenergies,SAN BRAS DE ALPORTEL,,SAO BRAS DE ALPORTEL,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11239,,Cepsa,Q608819
+PT_EXT_11240,totalenergies,SANTA COMBA DÃO,,SANTA COMBA DAO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11240,,Cepsa,Q608819
+PT_EXT_11241,totalenergies,SÃO JULIÃO DO FREIXO,,PONTE LIMA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11241,,Cepsa,Q608819
+PT_EXT_11242,totalenergies,SÃO TEOTÓNIO,,ODEMIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11242,,Cepsa,Q608819
+PT_EXT_11243,totalenergies,SILVES,,SILVES,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11243,,Cepsa,Q608819
+PT_EXT_11244,totalenergies,SOUSELAS,,COIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11244,,Cepsa,Q608819
+PT_EXT_11245,totalenergies,STA EUALIA,,ELVAS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11245,,Cepsa,Q608819
+PT_EXT_11246,totalenergies,TUACAR-FIGUEIRA CASTELO RODRIGO,,FIGUEIRA DE CASTELO RODRIGO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11246,,Cepsa,Q608819
+PT_EXT_11247,totalenergies,VALE DE CAVALOS,,CHAMUSCA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11247,,Cepsa,Q608819
+PT_EXT_11248,totalenergies,VENDAS NOVAS - LOUROSA,,LOUROSA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11248,,Cepsa,Q608819
+PT_EXT_11249,totalenergies,VIEIRA DE LEIRIA,,MARINHA GRANDE,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11249,,Cepsa,Q608819
+PT_EXT_11250,totalenergies,VILA VERDE,,VILA VERDE,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11250,,Cepsa,Q608819
+PT_EXT_11252,totalenergies,CABAÇOS,,ALVAIAZARE,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11252,,Cepsa,Q608819
+PT_EXT_11253,totalenergies,CABANELAS CERVAES,,VILA VERDE,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11253,,Cepsa,Q608819
+PT_EXT_11254,totalenergies,CAMBESES,,BARCELOS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11254,,Cepsa,Q608819
+PT_EXT_11255,totalenergies,CANIDELO - VILA DO CONDE,,VILA DO CONDE,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11255,,Cepsa,Q608819
+PT_EXT_11256,totalenergies,CARRAZEDA DE ANSIÃES,,CARRAZEDA DE ANSIAES,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11256,,Cepsa,Q608819
+PT_EXT_11257,totalenergies,CARVOEIRO,,LAGOA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11257,,Cepsa,Q608819
+PT_EXT_11260,totalenergies,CASTELO DE PAIVA,,CASTELO DE PAIVA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11260,,Cepsa,Q608819
+PT_EXT_11262,totalenergies,CHAO DURO - MOITA,,MOITA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11262,,Cepsa,Q608819
+PT_EXT_11264,totalenergies,CINFÃES,,CINFAES,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11264,,Cepsa,Q608819
+PT_EXT_11265,totalenergies,COMPORTA,,ALCACER DO SAL,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11265,,Cepsa,Q608819
+PT_EXT_11268,totalenergies,E.S. COJA,,COJA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11268,,Cepsa,Q608819
+PT_EXT_11270,totalenergies,FARO - CAMPINAS,,FARO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11270,,Cepsa,Q608819
+PT_EXT_11271,totalenergies,GALP LOUROSA,,SANTA MARIA DA FEIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11271,,Cepsa,Q608819
+PT_EXT_11276,totalenergies,CABANELAS CERVAES,,VILA VERDE,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11276,,Cepsa,Q608819
+PT_EXT_11281,totalenergies,CASCAIS - TORRE,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11281,,Cepsa,Q608819
+PT_EXT_11282,totalenergies,CASCAIS SHOPPING,,CASCAIS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11282,,Cepsa,Q608819
+PT_EXT_11284,totalenergies,CELORICO DA BEIRA,,CELORICO DA BEIRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11284,,Cepsa,Q608819
+PT_EXT_11286,totalenergies,CIDREIRA - COIMBRA,,COIMBRA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11286,,Cepsa,Q608819
+PT_EXT_11289,totalenergies,CONDEIXA-A-NOVA (POR/LIS),,CONDEIXA-A-NOVA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11289,,Cepsa,Q608819
+PT_EXT_11290,totalenergies,CUSTOIAS,,MATOSINHOS,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11290,,Cepsa,Q608819
+PT_EXT_11292,totalenergies,FAFE,,FAFE,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11292,,Cepsa,Q608819
+PT_EXT_11295,totalenergies,GUARDA,,GUARDA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11295,,Cepsa,Q608819
+PT_EXT_11296,totalenergies,ILÍDIO MOTA - VIZELA,,VIZELA,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11296,,Cepsa,Q608819
+PT_EXT_11297,totalenergies,IP3 (CBR/VIS),,SANTA COMBA DAO,,,PT,,https://store.totalenergies.fr/en_EN/PT_EXT_11297,,Cepsa,Q608819
+,visa,,,SEIXAL,,,PT,,,,,

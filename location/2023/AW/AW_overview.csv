@@ -1,0 +1,47 @@
+State,Place Name,City,Establishments
+UNKNOWN,alamo,Palm Beach,1
+UNKNOWN,alamo,Noord,1
+UNKNOWN,alamo,Oranjestad,1
+UNKNOWN,ashley_furniture,Oranjestad,1
+ORANJESTAD,avis,Oranjestad,2
+NOORD,avis,Noord,1
+UNKNOWN,benihana, Noord,1
+ARUBA,bmw_group,"Oranjestad, Aruba",1
+UNKNOWN,deloitte,unknown,1
+UNKNOWN,enterprise,Palm Beach,2
+UNKNOWN,enterprise,Orangestad,1
+UNKNOWN,enterprise,Oranjestad,2
+UNKNOWN,enterprise,Noord,3
+UNKNOWN,ernst_young,Oranjestad,1
+UNKNOWN,ford,Oranjestad,3
+UNKNOWN,gbfs,unknown,8
+UNKNOWN,hilton,unknown,1
+UNKNOWN,hooters,unknown,1
+UNKNOWN,marriott,Oranjestad,1
+UNKNOWN,marriott,Palm Beach,4
+UNKNOWN,marriott,Aruba,1
+UNKNOWN,michaelkors,Oranjestad,2
+UNKNOWN,moneygram,ORANJESTAD,2
+UNKNOWN,moneygram,TANKILENDERT,1
+UNKNOWN,moneygram,PALM BEACH,1
+UNKNOWN,moneygram,SAN NICOLAS,1
+UNKNOWN,national,Oranjestad,1
+UNKNOWN,national,Noord,2
+UNKNOWN,national,Palm Beach,1
+UNKNOWN,sbarro,ORANJESTAD,1
+UNKNOWN,sbarro,unknown,1
+UNKNOWN,sbarro,Oranjestad,1
+UNKNOWN,sixt,Oranjestad,1
+ARUBA,visa,ORANJESTAD,31
+UNKNOWN,visa,SAN NICOLAS,4
+UNKNOWN,visa,SAVANETA,1
+SAVANETA,visa,SAVANETA,1
+UNKNOWN,visa,SANTA CRUZ,2
+SANTACRUZ,visa,SANTA CRUZ,1
+PARADERA,visa,PARADERA,1
+ORANJESTAD,visa,ORANJESTAD,8
+UNKNOWN,visa,PARADERA,3
+UNKNOWN,visa,ORANJESTAD,15
+UNKNOWN,visa,TANKI LENDER,1
+UNKNOWN,visa,NOORD,12
+NOORD,visa,NOORD,2

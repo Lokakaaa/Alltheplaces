@@ -1,0 +1,771 @@
+State,Place Name,City,Establishments
+UNKNOWN,sixt,Novi Sad,1
+UNKNOWN,sixt,Beograd,6
+UNKNOWN,sixt,Nis,1
+JIHOMORAVSKYKRAJ,western_union,Jevisovice,1
+LIBERECKYKRAJ,western_union,Turnov,1
+USTECKYKRAJ,western_union,Jirikov,1
+KRAJVYSOCINA,western_union,Trebic,4
+KRAJVYSOCINA,western_union,Trebic 1,1
+USTECKYKRAJ,western_union,Rumburk,1
+USTECKYKRAJ,western_union,Varnsdorf,1
+PARDUBICKYKRAJ,western_union,Sec,1
+KRALOVEHRADECKYKRAJ,western_union,Sobotka,1
+LIBERECKYKRAJ,western_union,Cesky Dub,1
+USTECKYKRAJ,western_union,Krasna Lipa,1
+USTECKYKRAJ,western_union,Velky Senov,1
+STREDOCESKYKRAJ,western_union,Dolni Bousov,1
+PARDUBICKYKRAJ,western_union,Tremosnice,1
+USTECKYKRAJ,western_union,Sluknov,1
+KRALOVEHRADECKYKRAJ,western_union,Kopidlno,1
+KRALOVEHRADECKYKRAJ,western_union,Chlumec Nad Cidlinou,1
+LIBERECKYKRAJ,western_union,Prisovice,1
+PARDUBICKYKRAJ,western_union,Prelouc,1
+PARDUBICKYKRAJ,western_union,Recany Nad Labem,1
+KRAJVYSOCINA,western_union,Chotebor,1
+KRAJVYSOCINA,western_union,Pribyslav,1
+KRALOVEHRADECKYKRAJ,western_union,Liban,1
+JIHOMORAVSKYKRAJ,western_union,Vranov Nad Dyji,1
+USTECKYKRAJ,western_union,Mikulasovice,1
+KRAJVYSOCINA,western_union,Okrisky,1
+STREDOCESKYKRAJ,western_union,Mnichovo Hradiste,1
+PARDUBICKYKRAJ,western_union,Chvaletice,1
+KRAJVYSOCINA,western_union,Moravske Budejovice,2
+KRAJVYSOCINA,western_union,Polna,1
+STREDOCESKYKRAJ,western_union,Mestec Kralove,1
+LIBERECKYKRAJ,western_union,Straz Pod Ralskem,1
+STREDOCESKYKRAJ,western_union,Rozdalovice,1
+LIBERECKYKRAJ,western_union,Zakupy,1
+JIHOMORAVSKYKRAJ,western_union,Znojmo,4
+LIBERECKYKRAJ,western_union,Novy Bor,1
+STREDOCESKYKRAJ,western_union,Caslav,1
+KRAJVYSOCINA,western_union,Jihlava,2
+KRAJVYSOCINA,western_union,Havlickuv Brod 2,1
+KRAJVYSOCINA,western_union,Havlickuv Brod 1,1
+LIBERECKYKRAJ,western_union,Mimon,1
+STREDOCESKYKRAJ,western_union,Bakov Nad Jizerou,1
+KRAJVYSOCINA,western_union,Golcuv Jenikov,1
+LIBERECKYKRAJ,western_union,Cvikov,1
+STREDOCESKYKRAJ,western_union,Vrdy,1
+LIBERECKYKRAJ,western_union,Jablonne V Podjestedi,1
+LIBERECKYKRAJ,western_union,Chribska,1
+USTECKYKRAJ,western_union,Dolni Poustevna,1
+STREDOCESKYKRAJ,western_union,Dobrovice,1
+STREDOCESKYKRAJ,western_union,Mlada Boleslav,4
+LIBERECKYKRAJ,western_union,Kamenicky Senov,1
+KRAJVYSOCINA,western_union,Jihlava 1,1
+PRAHA,western_union,Mlada Boleslav,1
+STREDOCESKYKRAJ,western_union,Bela Pod Bezdezem,1
+STREDOCESKYKRAJ,western_union,Mlada Boleslav 1,1
+STREDOCESKYKRAJ,western_union,Velky Osek,1
+USTECKYKRAJ,western_union,Ceska Kamenice,1
+STREDOCESKYKRAJ,western_union,Kolin,3
+LIBERECKYKRAJ,western_union,Ceska Lipa,5
+STREDOCESKYKRAJ,western_union,Nymburk,1
+STREDOCESKYKRAJ,western_union,Nymburk 2,1
+LIBERECKYKRAJ,western_union,Doksy,1
+KRAJVYSOCINA,western_union,Svetla Nad Sazavou,1
+LIBERECKYKRAJ,western_union,Zandov,1
+STREDOCESKYKRAJ,western_union,Velim,1
+KRAJVYSOCINA,western_union,Jemnice,1
+STREDOCESKYKRAJ,western_union,Kutna Hora,2
+STREDOCESKYKRAJ,western_union,Kolin 2,1
+STREDOCESKYKRAJ,western_union,Podebrady,1
+LIBERECKYKRAJ,western_union,Ceska Lipa 1,1
+STREDOCESKYKRAJ,western_union,Kutna Hora 1,1
+USTECKYKRAJ,western_union,Benesov Nad Ploucnici,1
+KRAJVYSOCINA,western_union,Trest,1
+STREDOCESKYKRAJ,western_union,Benatky Nad Jizerou,1
+KRAJVYSOCINA,western_union,Ledec Nad Sazavou,1
+KRAJVYSOCINA,western_union,Telc,2
+KRAJVYSOCINA,western_union,Humpolec,1
+STREDOCESKYKRAJ,western_union,Sadska,1
+USTECKYKRAJ,western_union,Decin I,1
+STREDOCESKYKRAJ,western_union,Pecky,1
+STREDOCESKYKRAJ,western_union,Milovice Nad Labem,1
+USTECKYKRAJ,western_union,Decin Vi-letna,1
+USTECKYKRAJ,western_union,Decin 2,1
+LIBERECKYKRAJ,western_union,Duba,1
+STREDOCESKYKRAJ,western_union,Benatky Nad Jizerou 2,1
+STREDOCESKYKRAJ,western_union,Lysa Nad Labem,1
+USTECKYKRAJ,western_union,Vernerice,1
+KRAJVYSOCINA,western_union,Batelov,1
+STREDOCESKYKRAJ,western_union,Mseno U Melnika,1
+USTECKYKRAJ,western_union,Decin,3
+KRAJVYSOCINA,western_union,Horni Cerekev,1
+STREDOCESKYKRAJ,western_union,Uhlirske Janovice,1
+JIHOCESKYKRAJ,western_union,Kourim,1
+USTECKYKRAJ,western_union,Jilove U Decina,1
+STREDOCESKYKRAJ,western_union,Zasmuky,1
+STREDOCESKYKRAJ,western_union,Dolni Kralovice,1
+USTECKYKRAJ,western_union,Ustek,1
+JIHOCESKYKRAJ,western_union,Dacice,1
+USTECKYKRAJ,western_union,Usti Nad Labem,5
+JIHOCESKYKRAJ,western_union,Studena,1
+STREDOCESKYKRAJ,western_union,Zruc Nad Sazavou 1,1
+STREDOCESKYKRAJ,western_union,Cesky Brod,1
+JIHOCESKYKRAJ,western_union,Slavonice,1
+STREDOCESKYKRAJ,western_union,Celakovice,1
+KRAJVYSOCINA,western_union,Pelhrimov,2
+STREDOCESKYKRAJ,western_union,Bysice,1
+STREDOCESKYKRAJ,western_union,Kostelec Nad Labem,1
+STREDOCESKYKRAJ,western_union,Cechtice,1
+STREDOCESKYKRAJ,western_union,Sazava,1
+USTECKYKRAJ,western_union,Usti Nad Labem Centrum,1
+USTECKYKRAJ,western_union,Usti Nad Labem 1,1
+STREDOCESKYKRAJ,western_union,Trhovy Stepanov,1
+USTECKYKRAJ,western_union,Stesti,1
+STREDOCESKYKRAJ,western_union,Kostelec Nad Cer Lesy,1
+STREDOCESKYKRAJ,western_union,Vsetaty,1
+STREDOCESKYKRAJ,western_union,Brandys Nad Labem,1
+KRAJVYSOCINA,western_union,Pocatky,1
+STREDOCESKYKRAJ,western_union,Melnik 1,1
+STREDOCESKYKRAJ,western_union,Brandys N.l.-stara Boleslav 1,1
+PRAHA,western_union,Praha 96,1
+KRAJVYSOCINA,western_union,Pacov,1
+STREDOCESKYKRAJ,western_union,Libeznice,1
+KRAJVYSOCINA,western_union,Kamenice Nad Lipou,1
+PRAHA,western_union,Praha 9,1
+STREDOCESKYKRAJ,western_union,Vlasim,1
+PRAHA,western_union,Praha 915,1
+PRAHA,western_union,Praha 911,1
+USTECKYKRAJ,western_union,Litomerice 1,1
+USTECKYKRAJ,western_union,Litomerice,2
+STREDOCESKYKRAJ,western_union,Mukarov,1
+PRAHA,western_union,Praha 914,1
+USTECKYKRAJ,western_union,Bohusovice Nad O,1
+USTECKYKRAJ,western_union,Krupka,2
+USTECKYKRAJ,western_union,Roudnice Nad Labem,1
+PRAHA,western_union,Praha 913,1
+USTECKYKRAJ,western_union,Terezin,1
+STREDOCESKYKRAJ,western_union,Divisov,1
+PRAHA,western_union,Praha 916,1
+PRAHA,western_union,Praha,63
+PRAHA,western_union,Praha 88,1
+USTECKYKRAJ,western_union,Teplice 1,1
+USTECKYKRAJ,western_union,Teplice,5
+PRAHA,western_union,Praha 94,1
+STREDOCESKYKRAJ,western_union,Strancice,1
+STREDOCESKYKRAJ,western_union,Odolena Voda,1
+USTECKYKRAJ,western_union,Lovosice,1
+KRAJVYSOCINA,western_union,Nova Bystrice,1
+KRAJVYSOCINA,western_union,Kunzak,1
+STREDOCESKYKRAJ,western_union,Neratovice,1
+STREDOCESKYKRAJ,western_union,Uvaly,1
+JIHOCESKYKRAJ,western_union,Strmilov,1
+USTECKYKRAJ,western_union,Chlumec U Ul,1
+KRAJVYSOCINA,western_union,Zirovnice,1
+KRAJVYSOCINA,western_union,Cernovice U Tabora,1
+STREDOCESKYKRAJ,western_union,Klecany,1
+STREDOCESKYKRAJ,western_union,Cercany,1
+PRAHA,western_union,Praha 84,1
+USTECKYKRAJ,western_union,Kostany U Teplic,1
+PRAHA,western_union,Praha - Sterboholy,1
+USTECKYKRAJ,western_union,Dubi U Teplic,1
+STREDOCESKYKRAJ,western_union,Ricany U Prahy,1
+USTECKYKRAJ,western_union,Teplice Trnovany,1
+STREDOCESKYKRAJ,western_union,Mnichovice,1
+JIHOCESKYKRAJ,western_union,Nova Vcelnice,1
+PRAHA,western_union,Praha 912,1
+STREDOCESKYKRAJ,western_union,Ricany,1
+STREDOCESKYKRAJ,western_union,Kralupy Nad Vltavou,1
+PRAHA,western_union,Praha 33,1
+JIHOMORAVSKYKRAJ,western_union,Jindrichuv Hradec 1,1
+JIHOMORAVSKYKRAJ,western_union,Jindrichuv Hradec,2
+STREDOCESKYKRAJ,western_union,Libcice Nad Vltavou,1
+PRAHA,western_union,Praha 89,1
+STREDOCESKYKRAJ,western_union,Dobrejovice,1
+STREDOCESKYKRAJ,western_union,Pruhonice,1
+PRAHA,western_union,Praha 107,1
+PRAHA,western_union,Praha 10,1
+USTECKYKRAJ,western_union,Budyne Nad O,1
+PRAHA,western_union,Praha 8,1
+STREDOCESKYKRAJ,western_union,Velke Popovice,1
+STREDOCESKYKRAJ,western_union,Cestlice,1
+PRAHA,western_union,Praha 05,1
+PRAHA,western_union,Praha 1,3
+KARLIN,western_union,Praha,1
+PRAHA,western_union,Praha 02,1
+STREDOCESKYKRAJ,western_union,Benesov U Prahy,1
+PRAHA,western_union,Prague,3
+PRAHA,western_union,Praha 35,1
+STREDOCESKYKRAJ,western_union,Velvary,1
+JIHOCESKYKRAJ,western_union,Mlada Vozice,1
+PRAHA,western_union,Praha 4 - Michle,1
+USTECKYKRAJ,western_union,Libochovice,1
+PRAHA,western_union,Praha 43,1
+PRAHA,western_union,Praha 74,1
+STREDOCESKYKRAJ,western_union,Roztoky U Prahy,1
+STREDOCESKYKRAJ,western_union,Kamenice,1
+PRAHA,western_union,Praha 620,1
+JIHOCESKYKRAJ,western_union,Ceske Velenice,1
+STREDOCESKYKRAJ,western_union,Tynec Nad Sazavou,1
+PRAHA,western_union,Praha 65,1
+STREDOCESKYKRAJ,western_union,Bystrice U Benesova,1
+PRAHA,western_union,Praha 612,1
+PRAHA,western_union,Praha 617,1
+PRAHA,western_union,Praha Pisnice,3
+PRAHA,western_union,Praha 4,1
+LIBUS,western_union,Praha,1
+PRAHA,western_union,Praha 413,1
+STREDOCESKYKRAJ,western_union,Velke Prilepy,1
+PRAHA,western_union,Prague 5,1
+USTECKYKRAJ,western_union,Bilina,1
+PRAHA,western_union,Praha 42,1
+STREDOCESKYKRAJ,western_union,Jesenice U Prahy,1
+PRAHA,western_union,Praha 515,1
+STREDOCESKYKRAJ,western_union,Zvole U Prahy,1
+JIHOCESKYKRAJ,western_union,Suchdol Nad Luznici,1
+USTECKYKRAJ,western_union,Litvinov,1
+STREDOCESKYKRAJ,western_union,Votice,1
+PRAHA,western_union,Praha 516,1
+STREDOCESKYKRAJ,western_union,Jilove U Prahy,1
+USTECKYKRAJ,western_union,Litvinov 1,1
+PRAHA,western_union,Praha 57,1
+JIHOCESKYKRAJ,western_union,Chul U Trebone,1
+USTECKYKRAJ,western_union,Mezibori,1
+PRAHA,western_union,Praha 619,1
+PRAHA,western_union,Praha 616,1
+PRAHA,western_union,Praha 69,1
+STREDOCESKYKRAJ,western_union,Hostivice,1
+STREDOCESKYKRAJ,western_union,Slany 1,1
+USTECKYKRAJ,western_union,Obrnice,1
+PRAHA,western_union,Praha 513,1
+PRAHA,western_union,Praha 512,1
+STREDOCESKYKRAJ,western_union,Bustehrad,1
+PRAHA,western_union,Praha 517,1
+USTECKYKRAJ,western_union,Most 1,1
+USTECKYKRAJ,western_union,Most,4
+STREDOCESKYKRAJ,western_union,Neveklov,1
+JIHOCESKYKRAJ,western_union,Tabor,1
+STREDOCESKYKRAJ,western_union,Rudna U Prahy,1
+JIHOMORAVSKYKRAJ,western_union,Tabor,3
+JIHOCESKYKRAJ,western_union,Tabor 2,1
+STREDOCESKYKRAJ,western_union,Kladno 8,1
+JIHOCESKYKRAJ,western_union,Plana Nad Luznici,1
+PRAHA,western_union,Praha 514,1
+PRAHA,western_union,Praha 5,1
+JIHOCESKYKRAJ,western_union,Kardasova Recice,1
+PRAHA,western_union,Praha 58,1
+PRAHA,western_union,Praha 59,1
+PRAHA,western_union,Praha 614,1
+STREDOCESKYKRAJ,western_union,Zlonice,1
+STREDOCESKYKRAJ,western_union,Cernosice,1
+STREDOCESKYKRAJ,western_union,Kladno,2
+JIHOCESKYKRAJ,western_union,Sezimovo Usti,1
+STREDOCESKYKRAJ,western_union,Davle,1
+STREDOCESKYKRAJ,western_union,Smecno,1
+STREDOCESKYKRAJ,western_union,Kladno 5,1
+JIHOCESKYKRAJ,western_union,Tabor 1,1
+JIHOCESKYKRAJ,western_union,Sobeslav,1
+STREDOCESKYKRAJ,western_union,Kladno 1,1
+STREDOCESKYKRAJ,western_union,Kladno 6,1
+USTECKYKRAJ,western_union,Louny 1,1
+JIHOCESKYKRAJ,western_union,Nove Hrady V Jiznich Cechach,1
+STREDOCESKYKRAJ,western_union,Libusin,1
+JIHOCESKYKRAJ,western_union,Trebon,1
+STREDOCESKYKRAJ,western_union,Sedlec Prcice,1
+STREDOCESKYKRAJ,western_union,Dobrichovice,1
+JIHOCESKYKRAJ,western_union,Veseli Nad Luznici,1
+STREDOCESKYKRAJ,western_union,Unhost,1
+STREDOCESKYKRAJ,western_union,Mnisek Pod Brdy,1
+USTECKYKRAJ,western_union,Jirkov1,1
+STREDOCESKYKRAJ,western_union,Sedlcany,1
+STREDOCESKYKRAJ,western_union,Revnice,1
+STREDOCESKYKRAJ,western_union,Lodenice U Berouna,1
+STREDOCESKYKRAJ,western_union,Beroun 1,1
+USTECKYKRAJ,western_union,Chomutov,5
+JIHOCESKYKRAJ,western_union,Benesov Nad Cernou,1
+STREDOCESKYKRAJ,western_union,Stochov,1
+STREDOCESKYKRAJ,western_union,Beroun,1
+JIHOCESKYKRAJ,western_union,Borovany,1
+STREDOCESKYKRAJ,western_union,Nove Straseci,1
+STREDOCESKYKRAJ,western_union,Dobris,1
+STREDOCESKYKRAJ,western_union,Kraluv Dvur,1
+JIHOCESKYKRAJ,western_union,Bechyne,1
+USTECKYKRAJ,western_union,Zatec 1,1
+JIHOCESKYKRAJ,western_union,Trhove Sviny,1
+USTECKYKRAJ,western_union,Chomutov 2,1
+USTECKYKRAJ,western_union,Chomutov3,1
+JIHOCESKYKRAJ,western_union,Tyn Nad Vltavou,2
+JIHOCESKYKRAJ,western_union,Ceske Budejovice 1,1
+STREDOCESKYKRAJ,western_union,Zdice,1
+JIHOMORAVSKYKRAJ,western_union,Ceske Budejovice,7
+JIHOCESKYKRAJ,western_union,Bernartice U Milevska,1
+STREDOCESKYKRAJ,western_union,Krivoklat,1
+JIHOCESKYKRAJ,western_union,Milevsko,2
+STREDOCESKYKRAJ,western_union,Kamyk Nad Vltavou,1
+USTECKYKRAJ,western_union,Kadan,2
+JIHOCESKYKRAJ,western_union,Hluboka Nad Vltavou,1
+JIHOCESKYKRAJ,western_union,Ceske Budejovice,1
+STREDOCESKYKRAJ,western_union,Rakovnik 1,1
+STREDOCESKYKRAJ,western_union,Rakovnik 2,1
+JIHOMORAVSKYKRAJ,western_union,Ceske Budejovice 13,1
+STREDOCESKYKRAJ,western_union,Hostomice Pod Brdy,1
+JIHOMORAVSKYKRAJ,western_union,C Budejovice,1
+JIHOCESKYKRAJ,western_union,Kaplice,1
+JIHOCESKYKRAJ,western_union,Sevetin,1
+JIHOCESKYKRAJ,western_union,Borsov Nad Vltavou,1
+JIHOCESKYKRAJ,western_union,Dolni Dvoriste,1
+JIHOCESKYKRAJ,western_union,Velesin,1
+STREDOCESKYKRAJ,western_union,Jince,1
+STREDOCESKYKRAJ,western_union,Zebrak,1
+USTECKYKRAJ,western_union,Podborany,1
+JIHOCESKYKRAJ,western_union,Dubne,1
+STREDOCESKYKRAJ,western_union,Horovice,1
+STREDOCESKYKRAJ,western_union,Pribram,4
+STREDOCESKYKRAJ,western_union,Milin,1
+STREDOCESKYKRAJ,western_union,Pribram 1,1
+JIHOCESKYKRAJ,western_union,Pisek 1,1
+JIHOCESKYKRAJ,western_union,Cimelice,1
+STREDOCESKYKRAJ,western_union,Jesenice U Rakovnika,1
+PLZENSKYKRAJ,western_union,Zbiroh,1
+JIHOCESKYKRAJ,western_union,Vetrni,1
+JIHOCESKYKRAJ,western_union,Protivin,1
+STREDOCESKYKRAJ,western_union,Komarov U Horovic,1
+JIHOCESKYKRAJ,western_union,Cesky Krumlov,1
+JIHOCESKYKRAJ,western_union,Kremze,1
+JIHOCESKYKRAJ,western_union,Vyssi Brod,1
+JIHOCESKYKRAJ,western_union,Cesky Krumlov 1,1
+JIHOCESKYKRAJ,western_union,Loucovice,1
+JIHOCESKYKRAJ,western_union,Pisek,1
+JIHOCESKYKRAJ,western_union,Mirovice,1
+JIHOCESKYKRAJ,western_union,Chvalsiny,1
+STREDOCESKYKRAJ,western_union,Breznice,1
+JIHOCESKYKRAJ,western_union,Netolice,1
+JIHOCESKYKRAJ,western_union,Vodnany,1
+KARLOVARSKYKRAJ,western_union,Jachymov,1
+JIHOCESKYKRAJ,western_union,Frymburk,1
+PLZENSKYKRAJ,western_union,Kralovice,1
+PLZENSKYKRAJ,western_union,Strasice,1
+KARLOVARSKYKRAJ,western_union,Ostrov Nad Ohri,1
+KARLOVARSKYKRAJ,western_union,Abertamy,1
+PLZENSKYKRAJ,western_union,Myto V Cechach,1
+KARLOVARSKYKRAJ,western_union,Dalovice,1
+KARLOVARSKYKRAJ,western_union,Nejdek,2
+PLZENSKYKRAJ,western_union,Brasy,1
+JIHOCESKYKRAJ,western_union,Sedlice U Blatne,1
+KARLOVARSKYKRAJ,western_union,Hroznetin,1
+PLZENSKYKRAJ,western_union,Radnice U Rokycan,1
+PLZENSKYKRAJ,western_union,Holoubkov,1
+STREDOCESKYKRAJ,western_union,Rozmital Pod Tremsinem,1
+KARLOVARSKYKRAJ,western_union,Karlovy Vary 1,1
+KARLOVARSKYKRAJ,western_union,Nova Role,1
+KARLOVARSKYKRAJ,western_union,Bochov,1
+PLZENSKYKRAJ,western_union,Plasy,1
+PLZENSKYKRAJ,western_union,Mirosov,1
+KARLOVARSKYKRAJ,western_union,Karlovy Vary,6
+KARLOVARSKYKRAJ,western_union,Zlutice,1
+PLZENSKYKRAJ,western_union,Hradek U Rokycan,1
+JIHOCESKYKRAJ,western_union,Blatna,1
+JIHOMORAVSKYKRAJ,western_union,Volyne,1
+PLZENSKYKRAJ,western_union,Kasejovice,1
+KARLOVARSKYKRAJ,western_union,Rotava,1
+KARLOVARSKYKRAJ,western_union,Chodov U Karlovych Varu,1
+KARLOVARSKYKRAJ,western_union,Kraslice,1
+KARLOVARSKYKRAJ,western_union,Chodov U Karlovych Lazni,1
+JIHOCESKYKRAJ,western_union,Vlachovo Brezi,1
+PLZENSKYKRAJ,western_union,Kaznejov,1
+JIHOCESKYKRAJ,western_union,Strakonice 1,1
+JIHOMORAVSKYKRAJ,western_union,Strakonice 2,1
+JIHOCESKYKRAJ,western_union,Prachatice,1
+JIHOCESKYKRAJ,western_union,Horni Plana,1
+PLZENSKYKRAJ,western_union,Rokycany,1
+KARLOVARSKYKRAJ,western_union,Karlovy Vary 17,1
+PLZENSKYKRAJ,western_union,Rokycany 1,1
+PLZENSKYKRAJ,western_union,Plzen 9,1
+PLZENSKYKRAJ,western_union,Plzen,12
+PLZENSKYKRAJ,western_union,Plzen 27,1
+PLZENSKYKRAJ,western_union,Plzen 8,1
+PLZENSKYKRAJ,western_union,Plzen 23,1
+JIHOCESKYKRAJ,western_union,Ckyne,1
+PLZENSKYKRAJ,western_union,Mesto Touskov,1
+KARLOVARSKYKRAJ,western_union,Habartov,1
+JIHOCESKYKRAJ,western_union,Vimperk,1
+PLZENSKYKRAJ,western_union,Plzen 18,1
+KARLOVARSKYKRAJ,western_union,Dolni Rychnov,1
+KARLOVARSKYKRAJ,western_union,Luby U Chebu,1
+PLZENSKYKRAJ,western_union,Nepomuk,2
+PLZENSKYKRAJ,western_union,Plzen 12,1
+JIHOMORAVSKYKRAJ,western_union,Volary,1
+KARLOVARSKYKRAJ,western_union,Touzim,1
+PLZENSKYKRAJ,western_union,Stary Plzenec,1
+PLZENSKYKRAJ,western_union,Stahlavy,1
+KARLOVARSKYKRAJ,western_union,Loket,1
+PLZENSKYKRAJ,western_union,Horni Briza,1
+KARLOVARSKYKRAJ,western_union,Nove Sedlo U Lokte,1
+PLZENSKYKRAJ,western_union,Tremosna U Plzne,1
+PLZENSKYKRAJ,western_union,Zruc-senec,1
+JIHOCESKYKRAJ,western_union,Stachy,1
+KARLOVARSKYKRAJ,western_union,Tepla U Touzime,1
+KARLOVARSKYKRAJ,western_union,Plesna U Chebu,1
+PLZENSKYKRAJ,western_union,Vejprnice,1
+KARLOVARSKYKRAJ,western_union,Frantiskovy Lazne,1
+PLZENSKYKRAJ,western_union,Susice 1,1
+PLZENSKYKRAJ,western_union,Chotesov,1
+PLZENSKYKRAJ,western_union,Prestice,1
+PLZENSKYKRAJ,western_union,Zbuch,1
+KARLOVARSKYKRAJ,western_union,As,1
+PLZENSKYKRAJ,western_union,Nyrany,1
+KARLOVARSKYKRAJ,western_union,Skalna,1
+KARLOVARSKYKRAJ,western_union,As 1,1
+KARLOVARSKYKRAJ,western_union,Kynsperk Nad Orlici,1
+PLZENSKYKRAJ,western_union,Dobrany,1
+PLZENSKYKRAJ,western_union,Bezdruzice,1
+PLZENSKYKRAJ,western_union,Line,1
+PLZENSKYKRAJ,western_union,Plzen 20,1
+KARLOVARSKYKRAJ,western_union,Vbocov Nad Teplou,1
+PLZENSKYKRAJ,western_union,Horazdovice,1
+KARLOVARSKYKRAJ,western_union,Sokolov 1,1
+PLZENSKYKRAJ,western_union,Plzen   Jizni Predmesti,1
+KARLOVARSKYKRAJ,western_union,Sokolov,1
+PLZENSKYKRAJ,western_union,Blovice,1
+PLZENSKYKRAJ,western_union,Cernosin,1
+PLZENSKYKRAJ,western_union,Svihov,1
+KARLOVARSKYKRAJ,western_union,Cheb 1,1
+KARLOVARSKYKRAJ,western_union,Cheb,2
+PLZENSKYKRAJ,western_union,Stribro,1
+PLZENSKYKRAJ,western_union,Hermanova Hut,1
+PLZENSKYKRAJ,western_union,Stod,1
+KARLOVARSKYKRAJ,western_union,Marianske Lazne,2
+KARLOVARSKYKRAJ,western_union,Marianske Lazne 1,1
+KARLOVARSKYKRAJ,western_union,Lazne Kynzvart,1
+PLZENSKYKRAJ,western_union,Kasperske Hory,1
+PLZENSKYKRAJ,western_union,Horsovsky Tyn,1
+PLZENSKYKRAJ,western_union,Bor U Tachova,1
+PLZENSKYKRAJ,western_union,Tachov 1,1
+PLZENSKYKRAJ,western_union,Janovice Nad Uhlavou,1
+PLZENSKYKRAJ,western_union,Kolovec,1
+PLZENSKYKRAJ,western_union,Primda,1
+PLZENSKYKRAJ,western_union,Kdyne,1
+PLZENSKYKRAJ,western_union,Zelezna Ruda,1
+PLZENSKYKRAJ,western_union,Nyrsko,1
+PLZENSKYKRAJ,western_union,Rozvadov,1
+PLZENSKYKRAJ,western_union,Klenci Pod Cerchovem,1
+PLZENSKYKRAJ,western_union,Bela Nad Radbuzou,1
+PLZENSKYKRAJ,western_union,Domazlice 1,1
+PLZENSKYKRAJ,western_union,Domazlice,1
+PLZENSKYKRAJ,western_union,Klatovy,1
+PLZENSKYKRAJ,western_union,Klatovy 1,1
+PLZENSKYKRAJ,western_union,Klatovy 2,1
+PLZENSKYKRAJ,western_union,Plana U Marianskych Lazni,1
+PLZENSKYKRAJ,western_union,Chodova Plana,1
+PLZENSKYKRAJ,western_union,Stankov,1
+PLZENSKYKRAJ,western_union,Holysov,1
+PARDUBICKYKRAJ,western_union,Pardubice 2,1
+PARDUBICKYKRAJ,western_union,Pardubice 9,1
+KRALOVEHRADECKYKRAJ,western_union,Hradec Kralove,11
+KRALOVEHRADECKYKRAJ,western_union,Hradec Kralove 2,1
+PARDUBICKYKRAJ,western_union,Pardubice,5
+PARDUBICKYKRAJ,western_union,Opatovice Nad Labem,1
+PARDUBICKYKRAJ,western_union,Pardubice 1,1
+KRALOVEHRADECKYKRAJ,western_union,Smirice,1
+PARDUBICKYKRAJ,western_union,Chrudim 1,1
+PARDUBICKYKRAJ,western_union,Chrudim,1
+KRALOVEHRADECKYKRAJ,western_union,Jaromer 1,1
+KRALOVEHRADECKYKRAJ,western_union,Hradec Kralove 12,1
+KRALOVEHRADECKYKRAJ,western_union,Hradec Kralove 3,1
+KRALOVEHRADECKYKRAJ,western_union,Hradec Kralove 1,1
+PARDUBICKYKRAJ,western_union,Hermanuv Mestec,1
+PARDUBICKYKRAJ,western_union,Slatinany,1
+PARDUBICKYKRAJ,western_union,Nasavrky,1
+KRAJVYSOCINA,western_union,Zdirec Nad Doubravou,1
+KRALOVEHRADECKYKRAJ,western_union,Jaromer,1
+PARDUBICKYKRAJ,western_union,Sezemice,1
+KRALOVEHRADECKYKRAJ,western_union,Male Svatonovice,1
+PARDUBICKYKRAJ,western_union,Hrochuv Tynec,1
+JIHOMORAVSKYKRAJ,western_union,Znojmo 2,1
+KRALOVEHRADECKYKRAJ,western_union,Ceska Skalice,1
+KRALOVEHRADECKYKRAJ,western_union,Upice,1
+KRALOVEHRADECKYKRAJ,western_union,Cerveny Kostelec,1
+KRALOVEHRADECKYKRAJ,western_union,Trebechovice Pod Orebem,1
+PARDUBICKYKRAJ,western_union,Hlinsko V Cechach 1,1
+PARDUBICKYKRAJ,western_union,Chrast U Chrudime,1
+PARDUBICKYKRAJ,western_union,Chrustovice,1
+KRALOVEHRADECKYKRAJ,western_union,Borohradek,1
+KRALOVEHRADECKYKRAJ,western_union,Nachod 1,1
+PARDUBICKYKRAJ,western_union,Holice V Cechach,1
+KRAJVYSOCINA,western_union,Zdar Nad Sazavou 1,1
+KRALOVEHRADECKYKRAJ,western_union,Police Nad Metuji,1
+KRALOVEHRADECKYKRAJ,western_union,Nove Mesto Nad Metuji,1
+PARDUBICKYKRAJ,western_union,Luze,1
+KRALOVEHRADECKYKRAJ,western_union,Opocno,1
+KRALOVEHRADECKYKRAJ,western_union,Tyniste Nad Orlici,1
+KRAJVYSOCINA,western_union,Hrotovice,1
+PARDUBICKYKRAJ,western_union,Skutec,1
+KRALOVEHRADECKYKRAJ,western_union,Mezimesti U Broumova,1
+KRALOVEHRADECKYKRAJ,western_union,Broumov 1,1
+KRAJVYSOCINA,western_union,Namest Nad Oslavou,1
+KRALOVEHRADECKYKRAJ,western_union,Hronov,1
+KRAJVYSOCINA,western_union,Velke Mezirici,1
+KRALOVEHRADECKYKRAJ,western_union,Dobruska,1
+PARDUBICKYKRAJ,western_union,Vysoke Myto,1
+KRALOVEHRADECKYKRAJ,western_union,Castolovice,1
+KRALOVEHRADECKYKRAJ,western_union,Rychnov Nad Kneznou,2
+JIHOMORAVSKYKRAJ,western_union,Hrabetice,1
+KRALOVEHRADECKYKRAJ,western_union,Solnice,1
+JIHOMORAVSKYKRAJ,western_union,Hrusovany Nad Jevisovkou,1
+JIHOMORAVSKYKRAJ,western_union,Moravsky Krumlov,1
+KRALOVEHRADECKYKRAJ,western_union,Kostelec And Orlici,1
+PARDUBICKYKRAJ,western_union,Chocen,1
+JIHOMORAVSKYKRAJ,western_union,Miroslav,1
+KRALOVEHRADECKYKRAJ,western_union,Vamberk,1
+PARDUBICKYKRAJ,western_union,Policka,1
+JIHOMORAVSKYKRAJ,western_union,Zbysov U Brna,1
+PARDUBICKYKRAJ,western_union,Litomysl,2
+JIHOMORAVSKYKRAJ,western_union,Drnholec,1
+JIHOMORAVSKYKRAJ,western_union,Zastavka U Brna,1
+JIHOMORAVSKYKRAJ,western_union,Ivancice,1
+JIHOMORAVSKYKRAJ,western_union,Rosice U Brna,1
+PARDUBICKYKRAJ,western_union,Bystre U Policky,1
+JIHOMORAVSKYKRAJ,western_union,Ricany U Brna,1
+PARDUBICKYKRAJ,western_union,Usti Nad Orlici 1,1
+JIHOMORAVSKYKRAJ,western_union,Brezi U Mikulova,1
+KRALOVEHRADECKYKRAJ,western_union,Rokytnice V Orlickych Horach,1
+JIHOMORAVSKYKRAJ,western_union,Lomnice U Tisnova,1
+JIHOMORAVSKYKRAJ,western_union,Pohorelice,1
+JIHOMORAVSKYKRAJ,western_union,Veverska Bityska,1
+JIHOMORAVSKYKRAJ,western_union,Tisnov,2
+PARDUBICKYKRAJ,western_union,Zamberk,1
+JIHOMORAVSKYKRAJ,western_union,Mikulov,1
+PARDUBICKYKRAJ,western_union,Ceska Trebova 2,1
+JIHOMORAVSKYKRAJ,western_union,Brno,20
+JIHOMORAVSKYKRAJ,western_union,Hrusovany U Brna,1
+JIHOMORAVSKYKRAJ,western_union,Kurim,1
+JIHOMORAVSKYKRAJ,western_union,Rajhrad,1
+JIHOMORAVSKYKRAJ,western_union,Kunstat Na Morave,1
+JIHOMORAVSKYKRAJ,western_union,Lysice,1
+JIHOMORAVSKYKRAJ,western_union,Valtice,1
+PARDUBICKYKRAJ,western_union,Svitavy 2,1
+PARDUBICKYKRAJ,western_union,Svitavy,1
+PARDUBICKYKRAJ,western_union,Svitavy 1,1
+PARDUBICKYKRAJ,western_union,Letohrad,1
+JIHOMORAVSKYKRAJ,western_union,Modrice,1
+JIHOMORAVSKYKRAJ,western_union,Zabcice,1
+JIHOMORAVSKYKRAJ,western_union,Cerna Hora,1
+JIHOMORAVSKYKRAJ,western_union,Brno 7,1
+JIHOMORAVSKYKRAJ,western_union,Brno Cernovice,1
+PARDUBICKYKRAJ,western_union,Lanskroun,1
+JIHOMORAVSKYKRAJ,western_union,Letovice,1
+JIHOMORAVSKYKRAJ,western_union,Brno 12,1
+JIHOMORAVSKYKRAJ,western_union,Brno 02,1
+JIHOMORAVSKYKRAJ,western_union,Rakvice,1
+PARDUBICKYKRAJ,western_union,Jablonne Nad Orlici,1
+MORAVSKOSLEZSKYKRAJ,western_union,Jablunkov,1
+BRNO,western_union,Brno - Ponava,1
+JIHOMORAVSKYKRAJ,western_union,Blansko,2
+JIHOMORAVSKYKRAJ,western_union,Brno Horni Herspice,1
+JIHOMORAVSKYKRAJ,western_union,Velke Nemcice,1
+JIHOMORAVSKYKRAJ,western_union,Blansko 1,1
+JIHOMORAVSKYKRAJ,western_union,Lednice Na Morave,1
+JIHOMORAVSKYKRAJ,western_union,Hustopece U Brna,1
+JIHOMORAVSKYKRAJ,western_union,Velke Opatovice,1
+JIHOMORAVSKYKRAJ,western_union,Ujezd U Brna,1
+JIHOMORAVSKYKRAJ,western_union,Slapanice U Brna,1
+PARDUBICKYKRAJ,western_union,Moravska Trebova 1,1
+PARDUBICKYKRAJ,western_union,Cervena Voda,1
+JIHOMORAVSKYKRAJ,western_union,Velke Pavlovice,1
+JIHOMORAVSKYKRAJ,western_union,Boskovice,1
+JIHOMORAVSKYKRAJ,western_union,Breclav 2,1
+JIHOMORAVSKYKRAJ,western_union,Breclav,1
+JIHOMORAVSKYKRAJ,western_union,Podivin,1
+JIHOMORAVSKYKRAJ,western_union,Sloup V Moravskem Krasu,1
+JIHOMORAVSKYKRAJ,western_union,Rajec Jestrebi,1
+PARDUBICKYKRAJ,western_union,Kraliky,1
+JIHOMORAVSKYKRAJ,western_union,Slavkov U Brna,1
+JIHOMORAVSKYKRAJ,western_union,Moravska Nova Ves,1
+PARDUBICKYKRAJ,western_union,Jevicko,1
+JIHOMORAVSKYKRAJ,western_union,Velke Bilovice,1
+OLOMOUCKYKRAJ,western_union,Javornik U Jeseniku,1
+JIHOMORAVSKYKRAJ,western_union,Rousinov U Vyskova,1
+JIHOMORAVSKYKRAJ,western_union,Pozorice,1
+OLOMOUCKYKRAJ,western_union,Stity,1
+JIHOMORAVSKYKRAJ,western_union,Jedovnice,1
+OLOMOUCKYKRAJ,western_union,Ruda Nad Moravou,1
+JIHOMORAVSKYKRAJ,western_union,Hovorany,1
+JIHOMORAVSKYKRAJ,western_union,Cejkovice,1
+OLOMOUCKYKRAJ,western_union,Postelmov,1
+OLOMOUCKYKRAJ,western_union,Hanusovice,1
+JIHOMORAVSKYKRAJ,western_union,Mutenice,1
+OLOMOUCKYKRAJ,western_union,Zabreh,1
+JIHOMORAVSKYKRAJ,western_union,Hodonin,2
+OLOMOUCKYKRAJ,western_union,Lostice,1
+OLOMOUCKYKRAJ,western_union,Mohelnice,1
+OLOMOUCKYKRAJ,western_union,Sumperk,3
+JIHOMORAVSKYKRAJ,western_union,Zdanice,1
+OLOMOUCKYKRAJ,western_union,Konice,1
+JIHOMORAVSKYKRAJ,western_union,Hodonin 1,1
+JIHOMORAVSKYKRAJ,western_union,Dubnany,1
+JIHOMORAVSKYKRAJ,western_union,Svatoborice,1
+OLOMOUCKYKRAJ,western_union,Vidnava,1
+JIHOMORAVSKYKRAJ,western_union,Kyjov,1
+JIHOMORAVSKYKRAJ,western_union,Rohatec,1
+JIHOMORAVSKYKRAJ,western_union,Vyskov 1,1
+OLOMOUCKYKRAJ,western_union,Zulova,1
+JIHOMORAVSKYKRAJ,western_union,Bucovice,1
+OLOMOUCKYKRAJ,western_union,Sumperk 1,1
+OLOMOUCKYKRAJ,western_union,Plumlov,1
+OLOMOUCKYKRAJ,western_union,Kostelec Na Hane,1
+JIHOMORAVSKYKRAJ,western_union,Ivanovice Na Hane,1
+OLOMOUCKYKRAJ,western_union,Libina,1
+OLOMOUCKYKRAJ,western_union,Namest Na Hane,1
+OLOMOUCKYKRAJ,western_union,Jesenik 1,1
+OLOMOUCKYKRAJ,western_union,Litovel,1
+JIHOMORAVSKYKRAJ,western_union,Vracov,1
+OLOMOUCKYKRAJ,western_union,Prostejov,4
+OLOMOUCKYKRAJ,western_union,Prostejov 1,1
+OLOMOUCKYKRAJ,western_union,Unicov 1,1
+OLOMOUCKYKRAJ,western_union,Prostejov 7,1
+JIHOMORAVSKYKRAJ,western_union,Bzenec,1
+OLOMOUCKYKRAJ,western_union,Lutin,1
+JIHOMORAVSKYKRAJ,western_union,Straznice,1
+OLOMOUCKYKRAJ,western_union,Mikulovice U Jes,1
+STREDOCESKYKRAJ,western_union,Korkovice Slizany,1
+PLZENSKYKRAJ,western_union,Nezamyslice U Prost,1
+OLOMOUCKYKRAJ,western_union,Olomouc,12
+OLOMOUCKYKRAJ,western_union,Zlate Hory V Jesenikach,1
+OLOMOUCKYKRAJ,western_union,Olomouc 10,1
+MORAVSKOSLEZSKYKRAJ,western_union,Rymarov,1
+OLOMOUCKYKRAJ,western_union,Nemcice Nad Hanou,1
+JIHOMORAVSKYKRAJ,western_union,Moravsky Pisek,1
+JIHOMORAVSKYKRAJ,western_union,Veseli Nad Moravou,1
+OLOMOUCKYKRAJ,western_union,Stepanov U Olomouce,1
+ZLINSKYKRAJ,western_union,Borsice U Buchlovic,1
+OLOMOUCKYKRAJ,western_union,Olomouc 9,1
+ZLINSKYKRAJ,western_union,Buchlovice,1
+OLOMOUCKYKRAJ,western_union,Stemberk 1,1
+OLOMOUCKYKRAJ,western_union,Olomouc 8,1
+OLOMOUCKYKRAJ,western_union,Olomouc 1,1
+ZLINSKYKRAJ,western_union,Uhersky Ostroh,1
+OLOMOUCKYKRAJ,western_union,Velky Tynec,1
+MORAVSKOSLEZSKYKRAJ,western_union,Vrbno Pod Pradedem,1
+OLOMOUCKYKRAJ,western_union,Kojetin,1
+OLOMOUCKYKRAJ,western_union,Tovacov,1
+OLOMOUCKYKRAJ,western_union,Dolany U Olomouce,1
+JIHOMORAVSKYKRAJ,western_union,Velka Nad Velickou,1
+JIHOMORAVSKYKRAJ,western_union,Blatnice Pod Svatym Antoninkem,1
+ZLINSKYKRAJ,western_union,Uherske Hradiste,2
+ZLINSKYKRAJ,western_union,Chropyne,1
+ZLINSKYKRAJ,western_union,Kromeriz 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Bridlicna,1
+ZLINSKYKRAJ,western_union,Hluk,1
+ZLINSKYKRAJ,western_union,Kunovice,1
+OLOMOUCKYKRAJ,western_union,Velka Bystrice,1
+ZLINSKYKRAJ,western_union,Kromeriz,1
+ZLINSKYKRAJ,western_union,Uherske Hradiste 1,1
+UNKNOWN,western_union,Marianske Udoli,1
+OLOMOUCKYKRAJ,western_union,Hlubocky,1
+OLOMOUCKYKRAJ,western_union,Moravsky Beroun,1
+ZLINSKYKRAJ,western_union,Babice U Uherskeho Hradiste,1
+ZLINSKYKRAJ,western_union,Otrokovice,1
+ZLINSKYKRAJ,western_union,Bilovice U Uherskeho Hradiste,1
+OLOMOUCKYKRAJ,western_union,Prerov,5
+MORAVSKOSLEZSKYKRAJ,western_union,Mesto Albrechtice,1
+ZLINSKYKRAJ,western_union,Uhersky Brod,3
+OLOMOUCKYKRAJ,western_union,Prerov 1,1
+ZLINSKYKRAJ,western_union,Dolni Nemci,1
+MORAVSKOSLEZSKYKRAJ,western_union,Bruntal 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Bruntal,1
+MORAVSKOSLEZSKYKRAJ,western_union,Dvorce U Bruntalu,1
+STREDOCESKYKRAJ,western_union,Honri Benesov,1
+ZLINSKYKRAJ,western_union,Holesov,1
+ZLINSKYKRAJ,western_union,Tlumacov,1
+ZLINSKYKRAJ,western_union,Napajedla,1
+ZLINSKYKRAJ,western_union,Otrokovice 2,1
+MORAVSKOSLEZSKYKRAJ,western_union,Krnov,1
+OLOMOUCKYKRAJ,western_union,Lipnik Nad Becvou,1
+MORAVSKOSLEZSKYKRAJ,western_union,Frystat,1
+ZLINSKYKRAJ,western_union,Zlin,7
+MORAVSKOSLEZSKYKRAJ,western_union,Budisov Nad Budis,1
+ZLINSKYKRAJ,western_union,Zlin 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Krnov 1,1
+ZLINSKYKRAJ,western_union,Luhacovice,2
+ZLINSKYKRAJ,western_union,Bystrice Pd Hostynem,1
+ZLINSKYKRAJ,western_union,Bojkovice,1
+MORAVSKOSLEZSKYKRAJ,western_union,Odry,1
+ZLINSKYKRAJ,western_union,Slusovice,1
+ZLINSKYKRAJ,western_union,Slavicin 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Opava,5
+MORAVSKOSLEZSKYKRAJ,western_union,Hradec Nad Moravou,1
+MORAVSKOSLEZSKYKRAJ,western_union,Opavska,1
+MORAVSKOSLEZSKYKRAJ,western_union,Opava 2,1
+OLOMOUCKYKRAJ,western_union,Hustopece Nad Becvou,1
+MORAVSKOSLEZSKYKRAJ,western_union,Vitkov,1
+OLOMOUCKYKRAJ,western_union,Hranice Na Morave,1
+OLOMOUCKYKRAJ,western_union,Hranice,1
+ZLINSKYKRAJ,western_union,Brumov-bylnice 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Fulnek,1
+ZLINSKYKRAJ,western_union,Valasske Klobouky,1
+ZLINSKYKRAJ,western_union,Vizovice,1
+ZLINSKYKRAJ,western_union,Jablunka N B,1
+MORAVSKOSLEZSKYKRAJ,western_union,Kravare U Hlucina,1
+ZLINSKYKRAJ,western_union,Valasske Mezirici,1
+MORAVSKOSLEZSKYKRAJ,western_union,Senov U Nj,1
+ZLINSKYKRAJ,western_union,Horni Lidec,1
+MORAVSKOSLEZSKYKRAJ,western_union,Opava 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Novy Jicin 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Senov,1
+MORAVSKOSLEZSKYKRAJ,western_union,Bilovec,1
+ZLINSKYKRAJ,western_union,Vsetin,1
+ZLINSKYKRAJ,western_union,Valasske Mezirici 1,1
+ZLINSKYKRAJ,western_union,Vsetin 1,1
+ZLINSKYKRAJ,western_union,Halenkov,1
+MORAVSKOSLEZSKYKRAJ,western_union,Ostrava,19
+MORAVSKOSLEZSKYKRAJ,western_union,Ostrava Poruba,1
+ZLINSKYKRAJ,western_union,Roznov Pod Radhostem,1
+MORAVSKOSLEZSKYKRAJ,western_union,Klimkovice,1
+ZLINSKYKRAJ,western_union,Zubri,1
+MORAVSKOSLEZSKYKRAJ,western_union,Dolni Benesov,1
+MORAVSKOSLEZSKYKRAJ,western_union,Velka Polom,1
+MORAVSKOSLEZSKYKRAJ,western_union,Bolatice,1
+MORAVSKOSLEZSKYKRAJ,western_union,Novy Jicin,1
+MORAVSKOSLEZSKYKRAJ,western_union,Frenstat Pod Radhostem,1
+MORAVSKOSLEZSKYKRAJ,western_union,Studenka,1
+ZLINSKYKRAJ,western_union,Zasova,1
+MORAVSKOSLEZSKYKRAJ,western_union,Hlucin,1
+MORAVSKOSLEZSKYKRAJ,western_union,Pribor,1
+MORAVSKOSLEZSKYKRAJ,western_union,Koprivnice,2
+ZLINSKYKRAJ,western_union,Roznov Pod Radhostem 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Ostrava Hrabova,1
+MORAVSKOSLEZSKYKRAJ,western_union,Ostrava 8,1
+MORAVSKOSLEZSKYKRAJ,western_union,Ostrava 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Vratimov,1
+MORAVSKOSLEZSKYKRAJ,western_union,Paskov,1
+ZLINSKYKRAJ,western_union,Velke Karlovice,1
+MORAVSKOSLEZSKYKRAJ,western_union,Bohumin 1,1
+ZLINSKYKRAJ,western_union,Karolinka,1
+MORAVSKOSLEZSKYKRAJ,western_union,Ludgerovice,1
+MORAVSKOSLEZSKYKRAJ,western_union,Frydek Mistek,6
+MORAVSKOSLEZSKYKRAJ,western_union,Senov U Ostravy,1
+ZLINSKYKRAJ,western_union,Novy Hrozenkov,1
+MORAVSKOSLEZSKYKRAJ,western_union,Brusperk,1
+MORAVSKOSLEZSKYKRAJ,western_union,Ostravice,1
+MORAVSKOSLEZSKYKRAJ,western_union,Orlova,2
+MORAVSKOSLEZSKYKRAJ,western_union,Frydlant Nad Ostravici,1
+MORAVSKOSLEZSKYKRAJ,western_union,Petrvald U K,1
+MORAVSKOSLEZSKYKRAJ,western_union,Havirov,5
+MORAVSKOSLEZSKYKRAJ,western_union,Havirov Prostredni Sucha,1
+MORAVSKOSLEZSKYKRAJ,western_union,Detmarovice,1
+MORAVSKOSLEZSKYKRAJ,western_union,Havirov 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Dobra,1
+MORAVSKOSLEZSKYKRAJ,western_union,Bohumin,2
+MORAVSKOSLEZSKYKRAJ,western_union,Terlicko,1
+MORAVSKOSLEZSKYKRAJ,western_union,Horni Sucha,1
+MORAVSKOSLEZSKYKRAJ,western_union,Frydek- Mistek 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Celadna,1
+MORAVSKOSLEZSKYKRAJ,western_union,Orlova 4,1
+MORAVSKOSLEZSKYKRAJ,western_union,Dolni Lutyne,1
+MORAVSKOSLEZSKYKRAJ,western_union,Rychvald,1
+MORAVSKOSLEZSKYKRAJ,western_union,Karvina,6
+MORAVSKOSLEZSKYKRAJ,western_union,Karvina Raj,1
+MORAVSKOSLEZSKYKRAJ,western_union,Albrechtice,1
+MORAVSKOSLEZSKYKRAJ,western_union,Karvina 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Petrovice U K,1
+MORAVSKOSLEZSKYKRAJ,western_union,Karvina Frystat,1
+MORAVSKOSLEZSKYKRAJ,western_union,Trinec,2
+MORAVSKOSLEZSKYKRAJ,western_union,Cesky Tesin,2
+MORAVSKOSLEZSKYKRAJ,western_union,Trinec 3,1
+MORAVSKOSLEZSKYKRAJ,western_union,Trinec 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Bystrice Nad Olsi,1
+MORAVSKOSLEZSKYKRAJ,western_union,Cedsky Tesin 1,1
+MORAVSKOSLEZSKYKRAJ,western_union,Mosty U Jablunkova,1

@@ -1,0 +1,1440 @@
+State,Place Name,City,Establishments
+CA,applebees,Glendale,17
+UNKNOWN,aurecongroup,Beijing,1
+CALIFORNIA,avis,unknown,1
+PENNSYLVANIA,avis,unknown,1
+TEXAS,avis,unknown,1
+VIRGINIA,avis,unknown,1
+ALABAMA,avis,unknown,1
+ALASKA,avis,unknown,1
+INDIANA,avis,unknown,1
+UNKNOWN,avis,unknown,2
+NOVASCOTIA,avis,unknown,1
+NC,bankofamerica,Charlotte,41
+UNKNOWN,brewdog,unknown,1
+UNKNOWN,carrabbasitaliangrill,unknown,2
+UNKNOWN,cgi_group,Casablanca,1
+UNKNOWN,cgi_group,Fès,1
+UNKNOWN,cgi_group,Rabat,1
+UNKNOWN,cgi_group,Lane Cove West,1
+UNKNOWN,cgi_group,North Sydney,1
+UNKNOWN,cgi_group,Adelaide,1
+UNKNOWN,cgi_group,Brisbane,1
+UNKNOWN,cgi_group,Hobart,1
+UNKNOWN,cgi_group,Southbank,1
+UNKNOWN,cgi_group,Bangalore,3
+UNKNOWN,cgi_group,Pune,1
+UNKNOWN,cgi_group,Mumbai,1
+UNKNOWN,cgi_group,Chennai,1
+UNKNOWN,cgi_group,Hyderabad,2
+UNKNOWN,cgi_group,Kuala Lumpur,1
+UNKNOWN,cgi_group,Pasig City,1
+UNKNOWN,cgi_group,Taguig City,1
+UNKNOWN,cgi_group,Diegem,1
+UNKNOWN,cgi_group,Geneva,1
+UNKNOWN,cgi_group,Brno,1
+UNKNOWN,cgi_group,OSTRAVA,1
+UNKNOWN,cgi_group,PRAHA,1
+UNKNOWN,cgi_group,Aarhus,1
+UNKNOWN,cgi_group,Ballerup,1
+UNKNOWN,cgi_group,Nørresundby,1
+UNKNOWN,cgi_group,Tallinn,1
+UNKNOWN,cgi_group,Tartu,1
+UNKNOWN,cgi_group,Hämeenlinna,1
+UNKNOWN,cgi_group,Helsinki,2
+UNKNOWN,cgi_group,Joensuu,1
+UNKNOWN,cgi_group,Jyväskylä,1
+UNKNOWN,cgi_group,Kuopio,1
+UNKNOWN,cgi_group,Lahti,1
+UNKNOWN,cgi_group,Lappeenranta,1
+UNKNOWN,cgi_group,Mikkeli,1
+UNKNOWN,cgi_group,Oulu,1
+UNKNOWN,cgi_group,Tampere,1
+UNKNOWN,cgi_group,Turku,1
+UNKNOWN,cgi_group,Vaasa,1
+UNKNOWN,cgi_group,Aix-en-Provence,1
+UNKNOWN,cgi_group,Amiens,1
+UNKNOWN,cgi_group,Bordeaux,1
+UNKNOWN,cgi_group,Brest,1
+UNKNOWN,cgi_group,Clermont Ferrand,1
+UNKNOWN,cgi_group,Colmar,1
+UNKNOWN,cgi_group,Grenoble,1
+UNKNOWN,cgi_group,Le Mans,1
+UNKNOWN,cgi_group,Lille,1
+UNKNOWN,cgi_group,Limoges,1
+UNKNOWN,cgi_group,Lorient,1
+UNKNOWN,cgi_group,Lyon,1
+UNKNOWN,cgi_group,Montbeliard,1
+UNKNOWN,cgi_group,Montpellier,1
+UNKNOWN,cgi_group,Nancy,1
+UNKNOWN,cgi_group,Nantes,1
+UNKNOWN,cgi_group,Niort,1
+UNKNOWN,cgi_group,Orléans,1
+UNKNOWN,cgi_group,Pau,1
+UNKNOWN,cgi_group,Puteaux,1
+UNKNOWN,cgi_group,Rennes,1
+UNKNOWN,cgi_group,Saint-Avertin,1
+UNKNOWN,cgi_group,Sophia-Antipolis,1
+UNKNOWN,cgi_group,Strasbourg,1
+UNKNOWN,cgi_group,Tarnos,1
+UNKNOWN,cgi_group,Toulouse,1
+UNKNOWN,cgi_group,Tours,1
+UNKNOWN,cgi_group,Aalen,1
+UNKNOWN,cgi_group,Alsfeld,1
+UNKNOWN,cgi_group,Ansbach,1
+UNKNOWN,cgi_group,Berlin,1
+UNKNOWN,cgi_group,Bielefeld,1
+UNKNOWN,cgi_group,Bochum,1
+UNKNOWN,cgi_group,Braunschweig,1
+UNKNOWN,cgi_group,Bremen,1
+UNKNOWN,cgi_group,Darmstadt,1
+UNKNOWN,cgi_group,Dresden,1
+UNKNOWN,cgi_group,Düsseldorf,1
+UNKNOWN,cgi_group,Erfurt,1
+UNKNOWN,cgi_group,Erlangen,1
+UNKNOWN,cgi_group,Halle,1
+UNKNOWN,cgi_group,Hamburg,1
+UNKNOWN,cgi_group,Hannover,1
+UNKNOWN,cgi_group,Kaiserslautern,1
+UNKNOWN,cgi_group,Karlsruhe,1
+UNKNOWN,cgi_group,Kassel,1
+UNKNOWN,cgi_group,Koblenz,1
+UNKNOWN,cgi_group,Köln,1
+UNKNOWN,cgi_group,Leinfelden-Echterdingen,1
+UNKNOWN,cgi_group,Leipzig,1
+UNKNOWN,cgi_group,Mannheim,1
+UNKNOWN,cgi_group,München,1
+UNKNOWN,cgi_group,Potsdam,1
+UNKNOWN,cgi_group,Stuttgart,1
+UNKNOWN,cgi_group,Sulzbach (Taunus),1
+UNKNOWN,cgi_group,Wolfsburg,1
+UNKNOWN,cgi_group,Budapest,1
+UNKNOWN,cgi_group,Milano,1
+UNKNOWN,cgi_group,Padova,1
+UNKNOWN,cgi_group,Frascati,1
+UNKNOWN,cgi_group,Roma,1
+UNKNOWN,cgi_group,Kaunas,1
+UNKNOWN,cgi_group,Vilnius,1
+UNKNOWN,cgi_group,Luxembourg,1
+UNKNOWN,cgi_group,Riga,1
+UNKNOWN,cgi_group,Amsterdam,1
+UNKNOWN,cgi_group,ARNHEM,1
+UNKNOWN,cgi_group,Eindhoven,1
+UNKNOWN,cgi_group,Groningen,1
+UNKNOWN,cgi_group,Maastricht,1
+UNKNOWN,cgi_group,Rotterdam,1
+UNKNOWN,cgi_group,Bergen,1
+UNKNOWN,cgi_group,Drammen,1
+UNKNOWN,cgi_group,Haugesund,1
+UNKNOWN,cgi_group,Oslo,1
+UNKNOWN,cgi_group,Sarpsborg,1
+UNKNOWN,cgi_group,Stavanger,1
+UNKNOWN,cgi_group,Tønsberg,1
+UNKNOWN,cgi_group,Trondheim,1
+UNKNOWN,cgi_group,Warszawa,1
+UNKNOWN,cgi_group,Wrocław,1
+UNKNOWN,cgi_group,Lisboa,2
+UNKNOWN,cgi_group,Odivelas,1
+UNKNOWN,cgi_group,Porto,1
+UNKNOWN,cgi_group,Sacavém,1
+UNKNOWN,cgi_group,Sintra,1
+UNKNOWN,cgi_group,Barcelona,1
+UNKNOWN,cgi_group,Granada,1
+UNKNOWN,cgi_group,Madrid,1
+UNKNOWN,cgi_group,Malaga,1
+UNKNOWN,cgi_group,Illes Balears,1
+UNKNOWN,cgi_group,Sevilla,1
+UNKNOWN,cgi_group,Bilbao,1
+UNKNOWN,cgi_group,Zaragoza,1
+UNKNOWN,cgi_group,Borlänge,1
+UNKNOWN,cgi_group,Bromölla,1
+UNKNOWN,cgi_group,Eskilstuna,1
+UNKNOWN,cgi_group,Gävle,1
+UNKNOWN,cgi_group,Göteborg,1
+UNKNOWN,cgi_group,Härnösand,1
+UNKNOWN,cgi_group,Jönköping,1
+UNKNOWN,cgi_group,Kalmar,1
+UNKNOWN,cgi_group,Karlskrona,1
+UNKNOWN,cgi_group,Karlstad,1
+UNKNOWN,cgi_group,Kiruna,1
+UNKNOWN,cgi_group,Linköping,1
+UNKNOWN,cgi_group,Luleå,1
+UNKNOWN,cgi_group,Malmö,1
+UNKNOWN,cgi_group,Norrköping,1
+UNKNOWN,cgi_group,Örebro,1
+UNKNOWN,cgi_group,Örnsköldsvik,1
+UNKNOWN,cgi_group,Oskarshamn,1
+UNKNOWN,cgi_group,Östersund,1
+UNKNOWN,cgi_group,Skellefteå,1
+UNKNOWN,cgi_group,Stockholm,2
+UNKNOWN,cgi_group,Sundsvall,1
+UNKNOWN,cgi_group,Umeå,1
+UNKNOWN,cgi_group,Västerås,1
+UNKNOWN,cgi_group,Bratislava,1
+UNKNOWN,cgi_group,Belfast,1
+UNKNOWN,cgi_group,Leicester,1
+UNKNOWN,cgi_group,Reading,1
+UNKNOWN,cgi_group,Bristol,1
+UNKNOWN,cgi_group,Milton Keynes,1
+UNKNOWN,cgi_group,Brockworth,1
+UNKNOWN,cgi_group,Manchester,1
+UNKNOWN,cgi_group,Liverpool,1
+UNKNOWN,cgi_group,London,1
+UNKNOWN,cgi_group,Aberdeenshire,1
+UNKNOWN,cgi_group,Edinburgh,1
+UNKNOWN,cgi_group,Galashiels,1
+UNKNOWN,cgi_group,Glasgow,1
+UNKNOWN,cgi_group,Leatherhead,1
+UNKNOWN,cgi_group,Newcastle upon Tyne,1
+UNKNOWN,cgi_group,Bridgend,1
+UNKNOWN,cgi_group,Solihull,1
+UNKNOWN,cgi_group,Wiltshire,1
+UNKNOWN,cgi_group,Leeds,1
+UNKNOWN,cgi_group,Bucharest,1
+UNKNOWN,cgi_group,Bogotá,1
+UNKNOWN,cgi_group,Calgary,1
+UNKNOWN,cgi_group,Edmonton,1
+UNKNOWN,cgi_group,Vancouver,2
+UNKNOWN,cgi_group,Victoria,1
+UNKNOWN,cgi_group,Fredericton,1
+UNKNOWN,cgi_group,Moncton,1
+UNKNOWN,cgi_group,Halifax,1
+UNKNOWN,cgi_group,Markham,1
+UNKNOWN,cgi_group,Mississauga,2
+UNKNOWN,cgi_group,Ottawa,2
+UNKNOWN,cgi_group,Toronto,1
+UNKNOWN,cgi_group,Stratford,1
+UNKNOWN,cgi_group,Drummondville,1
+UNKNOWN,cgi_group,Gatineau,1
+UNKNOWN,cgi_group,Montréal,4
+UNKNOWN,cgi_group,Québec,1
+UNKNOWN,cgi_group,Saguenay,1
+UNKNOWN,cgi_group,Shawinigan,1
+UNKNOWN,cgi_group,Sherbrooke,1
+UNKNOWN,cgi_group,Regina,1
+UNKNOWN,cgi_group,Birmingham,1
+UNKNOWN,cgi_group,Huntsville,1
+UNKNOWN,cgi_group,Mobile,1
+UNKNOWN,cgi_group,Montgomery,1
+UNKNOWN,cgi_group,Troy,1
+UNKNOWN,cgi_group,Hot Springs,1
+UNKNOWN,cgi_group,Juneau,1
+UNKNOWN,cgi_group,Tucson,1
+UNKNOWN,cgi_group,Albany,1
+UNKNOWN,cgi_group,Atlanta,1
+UNKNOWN,cgi_group,Chicago,1
+UNKNOWN,cgi_group,Frankfort,1
+UNKNOWN,cgi_group,Greenwood Village,1
+UNKNOWN,cgi_group,Hartford,1
+UNKNOWN,cgi_group,Honolulu,1
+UNKNOWN,cgi_group,Lafayette,2
+UNKNOWN,cgi_group,Los Angeles,1
+UNKNOWN,cgi_group,Sacramento,1
+UNKNOWN,cgi_group,San Diego,1
+UNKNOWN,cgi_group,San Francisco,1
+UNKNOWN,cgi_group,Walnut Creek,1
+UNKNOWN,cgi_group,Melbourne,1
+UNKNOWN,cgi_group,Miami Lakes,1
+UNKNOWN,cgi_group,Orange Park,1
+UNKNOWN,cgi_group,Tampa,1
+UNKNOWN,cgi_group,Annapolis Junction,1
+UNKNOWN,cgi_group,Baltimore,1
+UNKNOWN,cgi_group,Burlington,1
+UNKNOWN,cgi_group,Lansing,1
+UNKNOWN,cgi_group,Maplewood,1
+UNKNOWN,cgi_group,New Brunswick,1
+UNKNOWN,cgi_group,Latham,1
+UNKNOWN,cgi_group,New York,2
+UNKNOWN,cgi_group,Cary,1
+UNKNOWN,cgi_group,Charlotte,1
+UNKNOWN,cgi_group,Durham,1
+UNKNOWN,cgi_group,Beavercreek,1
+UNKNOWN,cgi_group,Cleveland,1
+UNKNOWN,cgi_group,Columbus,1
+UNKNOWN,cgi_group,Strongsville,1
+UNKNOWN,cgi_group,Westerville,1
+UNKNOWN,cgi_group,Lawton,1
+UNKNOWN,cgi_group,Guaynabo,1
+UNKNOWN,cgi_group,Pittsburgh,1
+UNKNOWN,cgi_group,Plymouth Meeting,1
+UNKNOWN,cgi_group,Columbia,1
+UNKNOWN,cgi_group,North Charleston,2
+UNKNOWN,cgi_group,Chattanooga,1
+UNKNOWN,cgi_group,Franklin,1
+UNKNOWN,cgi_group,Knoxville,1
+UNKNOWN,cgi_group,Nashville,1
+UNKNOWN,cgi_group,Austin,2
+UNKNOWN,cgi_group,Belton,1
+UNKNOWN,cgi_group,Dallas,1
+UNKNOWN,cgi_group,Fort Worth,1
+UNKNOWN,cgi_group,Houston,1
+UNKNOWN,cgi_group,San Antonio,1
+UNKNOWN,cgi_group,Lehi,1
+UNKNOWN,cgi_group,Arlington,1
+UNKNOWN,cgi_group,Fairfax,3
+UNKNOWN,cgi_group,Lebanon,1
+UNKNOWN,cgi_group,Norfolk,1
+UNKNOWN,cgi_group,Richmond,1
+UNKNOWN,cgi_group,Sterling,1
+UNKNOWN,cgi_group,Bellevue,1
+UNKNOWN,cgi_group,Madison,1
+UNKNOWN,cgi_group,Wausau,1
+UNKNOWN,cgi_group,Ciudad de México,1
+TEXAS,chuckecheese,Irving,2
+UNKNOWN,church_of_england_gb,unknown,6
+UNKNOWN,cic,unknown,3
+UNKNOWN,crown_burgers,unknown,1
+UNKNOWN,deloitte,unknown,5
+PE,goodlifefitness,Charlottetown,1
+UNKNOWN,hema,Lingen,1
+UNKNOWN,hema,Duitsland,3
+UNKNOWN,hema,Essen,4
+UNKNOWN,hema,Amsterdam,56
+UNKNOWN,hema,Neuss   (DE),1
+UNKNOWN,hema,Lille,1
+UNKNOWN,hema,Nancy,1
+UNKNOWN,hema,Cagnes-sur-Mer,1
+UNKNOWN,hema,Annecy,1
+UNKNOWN,hema,Cergy,1
+UNKNOWN,hema,Paris,3
+UNKNOWN,hema,50000,1
+UNKNOWN,hema,Pelt,1
+UNKNOWN,hema,Rijkevorsel,1
+UNKNOWN,hema,Namur,1
+UNKNOWN,hema,Maldegem,1
+UNKNOWN,hema,Olen,1
+UNKNOWN,hema,Roeselare,1
+UNKNOWN,hema,Brussel,2
+UNKNOWN,hema,Turnhout,1
+UNKNOWN,hema,Antwerpen (BE),1
+UNKNOWN,hema,1102 AN,1
+UNKNOWN,hema,Badhoevedorp,1
+UNKNOWN,hema,Waalre,1
+UNKNOWN,hema,Amterdam,1
+UNKNOWN,hema,Rotterdam,1
+UNKNOWN,hema,Rhenen,1
+UNKNOWN,hema,Nijmegen,1
+UNKNOWN,hema,Nieuwveen,1
+UNKNOWN,hema,Almere,1
+UNKNOWN,hema,Tilburg,1
+UNKNOWN,hema,Boskoop,1
+UNKNOWN,hema,Utrecht,2
+UNKNOWN,hema,Bussum,1
+UNKNOWN,hy_vee_us,unknown,279
+NY,h_r_block,East Greenbush,1
+UNKNOWN,ikks,COQUELLES,1
+PA,jefferson_univ_hosp,Philadelphia,2
+UNKNOWN,lukoil,Pushkinskiy area,1
+UNKNOWN,lukoil,unknown,1
+UNKNOWN,lukoil,Semenov,1
+UNKNOWN,lukoil,Vologodskiy rayon,1
+UNKNOWN,lukoil,Kalmanskiy area,1
+UNKNOWN,lukoil,Barnaul,1
+UNKNOWN,lukoil,g. Barnaul,1
+UNKNOWN,lukoil,Novokuznetsk,1
+UNKNOWN,lukoil,Kodzhasinan,1
+UNKNOWN,lukoil,Merkez Ilchesi,1
+UNKNOWN,outbacksteakhouse,unknown,4
+,q8_italia,MONTIGNY LE BRETONNEUX,1
+CA,safelite,Windshield Replacement Shop in Corona,1
+ALAUTOGLASSSTORE,safelite,Birmingham,1
+CA,safelite,Windshield Repair Shop in Concord,1
+CAAUTOGLASSREPLACEMENTSHOP,safelite,Chula Vista,1
+CAAUTOGLASSSHOP,safelite,Chico,1
+CA,safelite,Windshield Repair Shop in Carlsbad,1
+CAAUTOGLASSSTORE,safelite,Camarillo,1
+CA,safelite,Auto Glass Replacement Shop in Bakersfield,1
+AR,safelite,Windshield Replacement Shop in Springdale,1
+ARAUTOGLASSREPLACEMENTSHOP,safelite,Little Rock,1
+ARWINDSHIELDREPLACEMENTSHOP,safelite,Jonesboro,1
+ARAUTOGLASSREPLACEMENTSHOP,safelite,Smith,1
+AR,safelite,Windshield Replacement Shop in Fayetteville,1
+AR,safelite,Windshield Replacement Shop in Conway,1
+AR,safelite,Windshield Replacement Shop in Bentonville,1
+AZ,safelite,Windshield Repair Shop in Yuma,1
+WY,safelite,Windshield Replacement Shop in Jackson,1
+WYAUTOGLASSREPLACEMENTSHOP,safelite,Cheyenne,1
+WIAUTOGLASSSHOP,safelite,Wisconsin Rapids,1
+WIWINDSHIELDREPLACEMENTSHOP,safelite,West Bend,1
+WI,safelite,Windshield Replacement Shop in Milwaukee,1
+WIAUTOGLASSSHOP,safelite,Waukesha,1
+WIWINDSHIELDREPLACEMENTSHOP,safelite,Schofield,1
+WI,safelite,Auto Glass Replacement Shop in Rice Lake,1
+WI,safelite,Auto Glass Replacement Shop in Rhinelander,1
+WI,safelite,Auto Glass Replacement Shop in Peshtigo,1
+WIAUTOGLASSSTORE,safelite,Kenosha,1
+WI,safelite,Windshield Repair Shop in La Crosse,1
+WI,safelite,Windshield Repair Shop in Madison,1
+WI,safelite,Auto Glass Replacement Shop in Janesville,1
+WI,safelite,Auto Glass Replacement Shop in Hudson,1
+WIWINDSHIELDREPLACEMENTSHOP,safelite,Green Bay,1
+WI,safelite,Windshield Replacement Shop in Fond Du Lac,1
+WIWINDSHIELDREPLACEMENTSHOP,safelite,Eau Claire,1
+WIAUTOGLASSSHOP,safelite,Baraboo,1
+WIAUTOGLASSREPLACEMENTSHOP,safelite,Appleton,1
+WV,safelite,Windshield Repair Shop in Parkersburg,1
+WVAUTOGLASSREPLACEMENTSHOP,safelite,Morgantown,1
+WV,safelite,Auto Glass Replacement Shop in Huntington,1
+WVAUTOGLASSSTORE,safelite,Charleston,1
+WV,safelite,Auto Glass Shop in Buckhannon,1
+WVAUTOGLASSREPLACEMENTSHOP,safelite,Bridgeport,1
+WV,safelite,Auto Glass Shop in Bluefield,1
+WV,safelite,Auto Glass Shop in Beckley,1
+WA,safelite,Windshield Replacement Shop in Yakima,1
+WA,safelite,Windshield Repair and Replacement in Wenatchee,1
+WA,safelite,Windshield Repair Shop in Tukwila,1
+WA,safelite,Windshield Repair and Replacement in Tacoma,1
+WAAUTOGLASSREPLACEMENTSHOP,safelite,Tacoma,1
+WA,safelite,Auto Glass Shop in Spokane Valley,1
+WAAUTOGLASSREPLACEMENTSHOP,safelite,Silverdale,1
+WA,safelite,Windshield Repair Shop in Spokane,1
+WA,safelite,Auto Glass Shop in Sequim,1
+WA,safelite,Auto Glass Shop in Seattle,1
+WAWINDSHIELDREPLACEMENTSHOP,safelite,Puyallup,1
+WA,safelite,Auto Glass Shop in Puyallup,1
+WAAUTOGLASSSHOP,safelite,Olympia,1
+WA,safelite,Windshield Repair and Replacement in Moses Lake,1
+WA,safelite,Windshield Replacement Shop in Lacey,1
+WAWINDSHIELDREPLACEMENTSHOP,safelite,Kennewick,1
+WA,safelite,Fife,1
+WA,safelite,Windshield Repair in Everett,1
+WAAUTOGLASSSTORE,safelite,Everett,1
+WAAUTOGLASSSHOP,safelite,Bellingham,1
+WAAUTOGLASSREPLACEMENTSHOP,safelite,Bellevue,1
+WAAUTOGLASSSHOP,safelite,Auburn,1
+VA,safelite,Windshield Replacement Shop in Woodbridge,1
+VAAUTOGLASSSTORE,safelite,Winchester,1
+VA,safelite,Windshield Repair Shop in Williamsburg,1
+VA,safelite,Auto Glass Shop in Virginia Beach,1
+VAAUTOGLASSSHOP,safelite,Sterling,1
+VAWINDSHIELDREPLACEMENTSHOP,safelite,Rockingham,1
+VA,safelite,Auto Glass Replacement Shop in Roanoke,1
+VAAUTOGLASSSTORE,safelite,Richmond,1
+VA,safelite,Auto Glass Replacement Shop in Midlothian,1
+VAWINDSHIELDREPLACEMENTSHOP,safelite,Manassas,1
+VA,safelite,Auto Glass Replacement Shop in Hampton,1
+VA,safelite,Windshield Repair Shop in Fredericksburg,1
+VAWINDSHIELDREPLACEMENTSHOP,safelite,Forest,1
+VA,safelite,Windshield Replacement Shop in Fairfax,1
+VAAUTOGLASSSHOP,safelite,Danville,1
+VAAUTOGLASSREPLACEMENTSHOP,safelite,Chesapeake,1
+VA,safelite,Windshield Repair Shop in Arlington,1
+VA,safelite,Windshield Replacement Shop in Charlottesville,1
+VAAUTOGLASSREPLACEMENTSHOP,safelite,Alexandria,1
+VTAUTOGLASSSTORE,safelite,Williston,1
+VT,safelite,Auto Glass Shop in St. Johnsbury,1
+VT,safelite,Windshield Replacement Shop in White River Junction,1
+VTAUTOGLASSSTORE,safelite,St. Albans,1
+VT,safelite,Auto Glass Replacement Shop in Rutland,1
+VT,safelite,Windshield Replacement Shop in Newport,1
+VTWINDSHIELDREPLACEMENTSHOP,safelite,Barre,1
+UTAUTOGLASSREPLACEMENTSHOP,safelite,Vernal,1
+UTAUTOGLASSSHOP,safelite,Tooele,1
+UTAUTOGLASSSTORE,safelite,Taylorsville,1
+UTAUTOGLASSSHOP,safelite,St. George,1
+UT,safelite,Windshield Repair Shop in Spanish Fork,1
+UTAUTOGLASSSTORE,safelite,Sandy,2
+UTWINDSHIELDREPLACEMENTSHOP,safelite,Salt Lake City,2
+UT,safelite,Windshield Repair Shop in Salt Lake City,1
+UTAUTOGLASSSTORE,safelite,Provo,1
+UTAUTOGLASSREPLACEMENTSHOP,safelite,Park City,1
+UTWINDSHIELDREPLACEMENTSHOP,safelite,Orem,1
+UT,safelite,Auto Glass Replacement Shop in Ogden,1
+UTAUTOGLASSREPLACEMENTSHOP,safelite,Ogden,1
+UT,safelite,Windshield Replacement Shop in Logan,1
+UTAUTOGLASSSHOP,safelite,Layton,1
+UTAUTOGLASSREPLACEMENTSHOP,safelite,Holladay,1
+UTAUTOGLASSSTORE,safelite,Draper,1
+UT,safelite,Windshield Replacement Shop in Clearfield,1
+UT,safelite,Auto Glass Shop in Brigham City,1
+UTWINDSHIELDREPLACEMENTSHOP,safelite,Bountiful,1
+UT,safelite,Windshield Repair Shop in American Fork,1
+TX,safelite,Windshield Repair and Replacement in Wichita Falls,1
+TX,safelite,Windshield Repair Shop in Webster,1
+TXAUTOGLASSSHOP,safelite,Weslaco,1
+TXAUTOGLASSREPLACEMENTSHOP,safelite,Weatherford,1
+TX,safelite,Windshield Replacement Shop in Victoria,1
+TXAUTOGLASSSHOP,safelite,Waco,1
+TXWINDSHIELDREPLACEMENTSHOP,safelite,Tyler,1
+TEXAS,safelite,Windshield Replacement Shop in Texarkana,1
+TX,safelite,Windshield Repair Shop in Shenandoah,1
+TX,safelite,Windshield Replacement Shop in San Antonio,1
+TX,safelite,Auto Glass Replacement Shop in San Antonio,1
+TXWINDSHIELDREPLACEMENTSHOP,safelite,San Antonio,1
+TX,safelite,Windshield Repair Shop in San Angelo,1
+TX,safelite,Auto Glass Shop in Rosenberg,1
+TX,safelite,Windshield Replacement Shop in Dallas,1
+TXAUTOGLASSSHOP,safelite,Richmond,1
+TX,safelite,Pearland,1
+TX,safelite,Windshield Replacement Shop in Pasadena,1
+TX,safelite,Windshield Replacement Shop in Odessa,1
+TX,safelite,Auto Glass Replacement Shop in North Richland Hills,1
+TX,safelite,Auto Glass Shop in Mesquite,1
+TX,safelite,Windshield Replacement Shop in McKinney,1
+TXAUTOGLASSREPLACEMENTSHOP,safelite,McAllen,1
+TX,safelite,Windshield Replacement Shop in Lubbock,1
+TXAUTOGLASSSTORE,safelite,Lubbock,1
+TX,safelite,Auto Glass Shop in Lewisville,1
+TX,safelite,Windshield Replacement Shop in Leander,1
+TX,safelite,Windshield Repair and Replacement in Laredo,1
+TX,safelite,Windshield Replacement Shop in Killeen,1
+TXAUTOGLASSSTORE,safelite,Katy,1
+TXAUTOGLASSSHOP,safelite,Humble,1
+TX,safelite,Auto Glass Replacement Shop in Houston,1
+TXAUTOGLASSSHOP,safelite,Houston,1
+TX,safelite,Auto Glass Replacement Shop in Greenville,1
+TX,safelite,Windshield Replacement Shop in Frisco,1
+TXWINDSHIELDREPLACEMENTSHOP,safelite,Fort Worth,1
+TX,safelite,Auto Glass Shop in Fort Worth,1
+TXAUTOGLASSSHOP,safelite,El Paso,1
+TX,safelite,Windshield Repair Shop in Dallas,1
+TXWINDSHIELDREPLACEMENTSHOP,safelite,Corpus Christi,1
+TXAUTOGLASSREPLACEMENTSHOP,safelite,Cedar Hill,1
+TXAUTOGLASSSHOP,safelite,Bryan,1
+TXAUTOGLASSSHOP,safelite,Brownsville,1
+TXAUTOGLASSSTORE,safelite,Beaumont,1
+TX,safelite,Windshield Repair Shop in Baytown,1
+TX,safelite,Glass Repair Shop in Austin,1
+TX,safelite,Windshield Replacement Shop in Austin,1
+TX,safelite,Auto Glass Shop in Austin,1
+TX,safelite,Auto Glass Shop in Arlington,1
+TXAUTOGLASSSTORE,safelite,Amarillo,1
+TX,safelite,Windshield Repair and Replacement in Abilene,1
+TNAUTOGLASSREPLACEMENTSHOP,safelite,Paris,1
+TN,safelite,Auto Glass Replacement Shop in Nashville,1
+TNAUTOGLASSREPLACEMENTSHOP,safelite,Murfreesboro,1
+TN,safelite,Auto Glass Shop in Morristown,1
+TN,safelite,Windshield Replacement Shop in Memphis,1
+TN,safelite,Auto Glass Replacement Shop in Memphis,1
+TNAUTOGLASSSHOP,safelite,Knoxville,1
+TN,safelite,Windshield Repair Shop in Knoxville,1
+TN,safelite,Auto Glass Shop in Johnson City,1
+TNAUTOGLASSSTORE,safelite,Clarksville,1
+TNAUTOGLASSSHOP,safelite,Chattanooga,1
+TN,safelite,Auto Glass Shop in Bristol,1
+SDAUTOGLASSSTORE,safelite,Sioux Falls,1
+SD,safelite,Auto Glass Replacement Shop in Rapid City,1
+SCAUTOGLASSREPLACEMENTSHOP,safelite,Walterboro,1
+SC,safelite,Auto Glass Shop in Sumter,1
+SC,safelite,Auto Glass Shop in Summerville,1
+SCWINDSHIELDREPLACEMENTSHOP,safelite,Roebuck,1
+SC,safelite,Auto Glass Shop in Rock Hill,1
+SCAUTOGLASSREPLACEMENTSHOP,safelite,North Charleston,1
+SC,safelite,Windshield Repair Shop in North Augusta,1
+SC,safelite,Auto Glass Shop in Charleston,1
+SCAUTOGLASSREPLACEMENTSHOP,safelite,Myrtle Beach,1
+SC,safelite,Auto Glass Shop in Manning,1
+SCAUTOGLASSSHOP,safelite,Mount Pleasant,1
+SCAUTOGLASSSTORE,safelite,Little River,1
+SCAUTOGLASSSTORE,safelite,Greenville,1
+SCWINDSHIELDREPLACEMENTSHOP,safelite,Greenville,1
+SCWINDSHIELDREPLACEMENTSHOP,safelite,Georgetown,1
+SC,safelite,Auto Glass Replacement Shop in Florence,1
+SC,safelite,Auto Glass Replacement Shop in Columbia,1
+SC,safelite,Windshield Repair Shop in Camden,1
+SC,safelite,Windshield Repair Shop in Anderson,1
+RI,safelite,Windshield Replacement Shop in Warwick,1
+SCAUTOGLASSREPLACEMENTSHOP,safelite,Bluffton,1
+RI,safelite,Auto Glass Shop in Johnston,1
+PA,safelite,Auto Glass Shop in York,1
+PA,safelite,Auto Glass Shop in Williamsport,1
+PAAUTOGLASSSHOP,safelite,Willow Grove,1
+PAWINDSHIELDREPLACEMENTSHOP,safelite,Whitehall,1
+PAAUTOGLASSSTORE,safelite,West Chester,1
+PAAUTOGLASSREPLACEMENTSHOP,safelite,Wellsboro,1
+PA,safelite,Auto Glass Shop in Washington,1
+PAWINDSHIELDREPLACEMENTSHOP,safelite,Stroudsburg,1
+PAAUTOGLASSREPLACEMENTSHOP,safelite,Springfield,1
+PA,safelite,Windshield Replacement Shop in State College,1
+PA,safelite,Auto Glass Replacement Shop in Smock,1
+PAAUTOGLASSSTORE,safelite,Sewickley,1
+PA,safelite,Auto Glass Replacement Shop in Selinsgrove,1
+PA,safelite,Windshield Repair Shop in Scranton,1
+PA,safelite,Auto Glass Shop in Reading,1
+PAAUTOGLASSSTORE,safelite,Pittston,1
+PA,safelite,Auto Glass Shop in Pittsburgh,1
+PAAUTOGLASSSHOP,safelite,Pittsburgh,1
+PA,safelite,Windshield Repair Shop in Philadelphia,1
+PAAUTOGLASSSTORE,safelite,Norristown,1
+PA,safelite,Auto Glass Replacement Shop in Mechanicsburg,1
+PAAUTOGLASSREPLACEMENTSHOP,safelite,Meadville,1
+PAAUTOGLASSSHOP,safelite,Lebanon,1
+PAAUTOGLASSSTORE,safelite,Lancaster,1
+PA,safelite,Auto Glass Replacement Shop in Johnstown,1
+PAWINDSHIELDREPLACEMENTSHOP,safelite,Kingston,1
+PAAUTOGLASSSTORE,safelite,Hermitage,1
+PA,safelite,Auto Glass Replacement Shop in Hazle Township,1
+PA,safelite,Windshield Replacement Shop in Paxton,1
+PAAUTOGLASSSTORE,safelite,Harrisburg,1
+PAAUTOGLASSSTORE,safelite,Hanover,1
+PA,safelite,Auto Glass Replacement Shop in Greensburg,1
+PA,safelite,Windshield Repair Shop in Franklin,1
+PAAUTOGLASSSHOP,safelite,Fairless Hills,1
+PAAUTOGLASSREPLACEMENTSHOP,safelite,Erie,1
+PAAUTOGLASSSTORE,safelite,Ephrata,1
+PA,safelite,Windshield Replacement Shop in Duncansville,1
+PA,safelite,Windshield Repair Shop in DuBois,1
+PA,safelite,Windshield Repair Shop in Chambersburg,1
+PAAUTOGLASSSHOP,safelite,Carlisle,1
+PA,safelite,Windshield Repair Shop in Butler,1
+PAAUTOGLASSREPLACEMENTSHOP,safelite,Bradford,1
+PA,safelite,Auto Glass Shop in Bridgeville,1
+PA,safelite,Windshield Replacement Shop in Bloomsburg,1
+PAAUTOGLASSSTORE,safelite,Bedford,1
+PA,safelite,Auto Glass Shop in Beaver Falls,1
+OR,safelite,Windshield Replacement Shop in Tualatin,1
+OR,safelite,Auto Glass Shop in Portland,1
+OR,safelite,Windshield Repair Shop in Medford,1
+OR,safelite,Auto Glass Shop in Keizer,1
+OR,safelite,Windshield Repair Shop in Eugene,1
+ORAUTOGLASSSHOP,safelite,Beaverton,1
+OR,safelite,Auto Glass Shop in Clackamas,1
+OKAUTOGLASSSHOP,safelite,Ponca City,1
+OK,safelite,Auto Glass Shop in Oklahoma City,2
+OKAUTOGLASSSTORE,safelite,Oklahoma City,1
+OKAUTOGLASSREPLACEMENTSHOP,safelite,Enid,1
+OKAUTOGLASSREPLACEMENTSHOP,safelite,Bartlesville,1
+OK,safelite,Auto Glass Replacement Shop in Tulsa,1
+OH,safelite,Windshield Replacement Shop in Zanesville,1
+OH,safelite,Windshield Replacement Shop in Warren,1
+OHAUTOGLASSSTORE,safelite,Columbus,1
+OH,safelite,Auto Glass Shop in Valley View,1
+OH,safelite,Auto Glass Replacement Shop in Steubenville,1
+OHWINDSHIELDREPLACEMENTSHOP,safelite,Toledo,1
+OH,safelite,Saint Clairsville,1
+OH,safelite,Windshield Repair Shop in New Philadelphia,1
+OH,safelite,Auto Glass Replacement Shop in Mentor,1
+OHWINDSHIELDREPLACEMENTSHOP,safelite,Mansfield,1
+OHAUTOGLASSSTORE,safelite,Huron,1
+OH,safelite,Auto Glass Shop in Findlay,1
+OHAUTOGLASSSHOP,safelite,Cincinnati,1
+OH,safelite,Auto Glass Replacement in Dayton,1
+OHWINDSHIELDREPLACEMENTSHOP,safelite,Dayton,1
+OHAUTOGLASSSHOP,safelite,Columbus,1
+OH,safelite,Auto Glass Shop in Cincinnati,1
+OH,safelite,Windshield Repair Shop in Cincinnati,1
+OHAUTOGLASSSHOP,safelite,Brunswick,1
+OHWINDSHIELDREPLACEMENTSHOP,safelite,Avon,1
+OHWINDSHIELDREPLACEMENTSHOP,safelite,Akron,1
+ND,safelite,Windshield Repair Shop in Minot,1
+ND,safelite,Windshield Repair Shop in Fargo,1
+NCAUTOGLASSSHOP,safelite,Winston Salem,1
+NCAUTOGLASSREPLACEMENTSHOP,safelite,Wilmington,1
+NC,safelite,Windshield Repair and Replacement in Wilson,1
+NC,safelite,Windshield Repair and Replacement in Southern Pines,1
+NC,safelite,Windshield Repair and Replacement in Rocky Mount,1
+NCWINDSHIELDREPLACEMENTSHOP,safelite,Raleigh,1
+NC,safelite,Auto Glass Replacement Shop in Pineville,1
+NC,safelite,Windshield Replacement Shop in Raleigh,1
+NC,safelite,Mount Airy,1
+NC,safelite,Windshield Repair and Replacement in Jacksonville,1
+NC,safelite,Windshield Replacement Shop in Monroe,1
+NCWINDSHIELDREPLACEMENTSHOP,safelite,High Point,1
+NCWINDSHIELDREPLACEMENTSHOP,safelite,Hickory,1
+NC,safelite,Auto Glass Shop in Gastonia,1
+NCAUTOGLASSSTORE,safelite,Fayetteville,1
+NCAUTOGLASSREPLACEMENTSHOP,safelite,Greenville,1
+NC,safelite,Windshield Repair and Replacement in Elizabeth City,1
+NCAUTOGLASSREPLACEMENTSHOP,safelite,Durham,1
+NCAUTOGLASSSHOP,safelite,Concord,1
+NCAUTOGLASSREPLACEMENTSHOP,safelite,Charlotte,1
+NC,safelite,Windshield Replacement Shop in Charlotte,1
+NCAUTOGLASSSHOP,safelite,Burlington,1
+NC,safelite,Windshield Replacement Shop in Asheville,1
+NCAUTOGLASSREPLACEMENTSHOP,safelite,Apex,1
+NY,safelite,Auto Glass Replacement Shop in Yorkville,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,White Plains,1
+NYAUTOGLASSSHOP,safelite,Westbury,1
+NYAUTOGLASSSTORE,safelite,Watertown,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,Wappingers Falls,1
+NY,safelite,Auto Glass Shop in Poughkeepsie,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,Walworth,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,Vestal,1
+NYWINDSHIELDREPLACEMENTSHOP,safelite,Syracuse,1
+NYAUTOGLASSSHOP,safelite,Saint James,1
+NYAUTOGLASSSHOP,safelite,Rochester,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,Rochester,1
+NY,safelite,Windshield Repair Shop in Rochester,1
+NY,safelite,Auto Glass Replacement Shop in Riverhead,1
+NYWINDSHIELDREPLACEMENTSHOP,safelite,Queensbury,1
+NYAUTOGLASSSTORE,safelite,Queens Village,1
+NYAUTOGLASSSTORE,safelite,Patchogue,1
+NY,safelite,Auto Glass Replacement Shop in Plattsburgh,1
+NYWINDSHIELDREPLACEMENTSHOP,safelite,Oneonta,1
+NY,safelite,Auto Glass Shop in Nanuet,1
+NYAUTOGLASSSHOP,safelite,Mount Kisco,1
+NY,safelite,Auto Glass Replacement Shop in Monticello,1
+NY,safelite,Windshield Replacement Shop in Middletown,1
+NYAUTOGLASSSTORE,safelite,Middletown,1
+NY,safelite,Auto Glass Replacement Shop in Massena,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,Queens,1
+NY,safelite,Auto Glass Shop in Lockport,1
+NY,safelite,Windshield Repair Shop in Latham,1
+NYWINDSHIELDREPLACEMENTSHOP,safelite,Jamestown,1
+NYAUTOGLASSSTORE,safelite,Kingston,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,Ithaca,1
+NY,safelite,Auto Glass Shop in Hornell,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,Huntington Station,1
+NY,safelite,Windshield Repair Shop in Hauppauge,1
+NYAUTOGLASSSHOP,safelite,Hamburg,1
+NY,safelite,Auto Glass Replacement Shop in Great Neck,1
+NYAUTOGLASSSHOP,safelite,Freeport,1
+NY,safelite,Auto Glass Shop in Glendale,1
+NYAUTOGLASSSTORE,safelite,Farmingdale,1
+NYAUTOGLASSREPLACEMENTSHOP,safelite,East Syracuse,1
+NYWINDSHIELDREPLACEMENTSHOP,safelite,Depew,1
+NY,safelite,Windshield Replacement Shop in Clarence,1
+NY,safelite,Auto Glass Shop in Chester,1
+NYWINDSHIELDREPLACEMENTSHOP,safelite,Buffalo,1
+NYWINDSHIELDREPLACEMENTSHOP,safelite,Brooklyn,1
+NY,safelite,Windshield Repair Shop in Bronx,1
+NY,safelite,Windshield Repair Shop in Bridgehampton,1
+NYAUTOGLASSSTORE,safelite,Bay Shore,1
+NMAUTOGLASSREPLACEMENTSHOP,safelite,Santa Fe,1
+NYAUTOGLASSSHOP,safelite,Albany,1
+NM,safelite,Auto Glass Replacement Shop in Mesilla Park,1
+NMAUTOGLASSSHOP,safelite,Farmington,1
+NM,safelite,Windshield Repair and Replacement in Carlsbad,1
+NMAUTOGLASSSTORE,safelite,Albuquerque,1
+NM,safelite,Auto Glass Replacement Shop in Albuquerque,1
+NM,safelite,Windshield Repair and Replacement in Albuquerque,1
+NMAUTOGLASSREPLACEMENTSHOP,safelite,Albuquerque,1
+NJAUTOGLASSREPLACEMENTSHOP,safelite,Toms River,1
+NJ,safelite,Auto Glass Replacement Shop in Pine Brook,1
+NJ,safelite,Windshield Replacement Shop in Newton,1
+NJ,safelite,Auto Glass Repair Shop In Montville,1
+NJ,safelite,Auto Glass Shop in Hackettstown,1
+NJ,safelite,Windshield Replacement Shop in Hasbrouck Heights,1
+NJ,safelite,Windshield Replacement Shop in Freehold,1
+NJ,safelite,Windshield Repair Shop in Brunswick,1
+NJ,safelite,Auto Glass Shop in Cherry Hill,1
+NJ,safelite,Auto Glass Shop in Bayonne,1
+NJWINDSHIELDREPLACEMENTSHOP,safelite,Absecon,1
+NHAUTOGLASSSTORE,safelite,Windham,1
+NHWINDSHIELDREPLACEMENTSHOP,safelite,Tilton,1
+NH,safelite,Windshield Repair Shop in Portsmouth,1
+NH,safelite,Windshield Repair Shop in Nashua,1
+NH,safelite,Auto Glass Replacement Shop in Keene,1
+NH,safelite,Windshield Repair Shop in Hooksett,1
+NHAUTOGLASSREPLACEMENTSHOP,safelite,Gorham,1
+NV,safelite,Windshield Replacement Shop in Reno,1
+NV,safelite,Auto Glass Replacement Shop in Las Vegas,1
+NVAUTOGLASSREPLACEMENTSHOP,safelite,Las Vegas,1
+NVAUTOGLASSSHOP,safelite,Las Vegas,1
+NV,safelite,Windshield Replacement Shop in Henderson,1
+NE,safelite,Auto Glass Replacement Shop in Scottsbluff,1
+NE,safelite,Windshield Repair Shop in Ralston,1
+NEAUTOGLASSSHOP,safelite,Omaha,1
+NE,safelite,Auto Glass Replacement Shop in North Platte,1
+NE,safelite,Windshield Repair Shop in Lincoln,1
+NE,safelite,Windshield Repair Shop in Kearney,1
+NE,safelite,Windshield Repair Shop in Grand Island,1
+NE,safelite,Auto Glass Shop in Columbus,1
+MTAUTOGLASSSHOP,safelite,Missoula,1
+MT,safelite,Windshield Repair Shop in Kalispell,1
+MTAUTOGLASSSTORE,safelite,Helena,1
+MTAUTOGLASSREPLACEMENTSHOP,safelite,Great Falls,1
+MTAUTOGLASSSHOP,safelite,Bozeman,1
+MT,safelite,Windshield Replacement Shop in Billings,1
+MO,safelite,Windshield Repair Shop in Sedalia,1
+MOAUTOGLASSREPLACEMENTSHOP,safelite,St Louis,1
+MOAUTOGLASSSHOP,safelite,Maryland Heights,1
+MOAUTOGLASSSHOP,safelite,Saint Joseph,1
+MO,safelite,Windshield Repair and Replacement in Rolla,1
+MO,safelite,Auto Glass Shop in Osage Beach,1
+MOAUTOGLASSSTORE,safelite,O' Fallon,1
+MO,safelite,Windshield Repair Shop in Nixa,1
+MO,safelite,Auto Glass Shop in Lees Summit,1
+MOAUTOGLASSREPLACEMENTSHOP,safelite,Kansas City,1
+MO,safelite,Auto Glass Shop in Kansas City,1
+MO,safelite,Auto Glass Shop in Joplin,1
+MOAUTOGLASSREPLACEMENTSHOP,safelite,Jefferson City,1
+MO,safelite,Auto Glass Replacement Shop in Independence,1
+MOAUTOGLASSSHOP,safelite,Columbia,1
+MO,safelite,Auto Glass Replacement Shop in Columbia,1
+MSWINDSHIELDREPLACEMENTSHOP,safelite,Southaven,1
+MSWINDSHIELDREPLACEMENTSHOP,safelite,Pearl,1
+MS,safelite,Auto Glass Replacement Shop in Hattiesburg,1
+MSWINDSHIELDREPLACEMENTSHOP,safelite,Gulfport,1
+MN,safelite,Windshield Replacement Shop in Willmar,1
+MN,safelite,Windshield Repair Shop in Waite Park,1
+MN,safelite,Windshield Replacement Shop in St. Paul,1
+MNWINDSHIELDREPLACEMENTSHOP,safelite,Roseville,1
+MNAUTOGLASSREPLACEMENTSHOP,safelite,Rochester,1
+MNAUTOGLASSSTORE,safelite,Owatonna,1
+MNAUTOGLASSSHOP,safelite,Minneapolis,1
+MNAUTOGLASSSTORE,safelite,Maple Grove,1
+MNWINDSHIELDREPLACEMENTSHOP,safelite,Mankato,1
+MN,safelite,Windshield Replacement Shop in Eden Prairie,1
+MNAUTOGLASSREPLACEMENTSHOP,safelite,Duluth,1
+MN,safelite,Windshield Replacement Shop in Burnsville,1
+MNWINDSHIELDREPLACEMENTSHOP,safelite,Brooklyn Park,1
+MN,safelite,Blaine,1
+MN,safelite,Windshield Replacement Shop in Baxter,1
+MNWINDSHIELDREPLACEMENTSHOP,safelite,Apple Valley,1
+MIAUTOGLASSREPLACEMENTSHOP,safelite,Zeeland,1
+MI,safelite,Windshield Replacement Shop in Waterford,1
+MI,safelite,Auto Glass Replacement Shop in Troy,1
+MI,safelite,Auto Glass Shop in Traverse City,1
+MI,safelite,Windshield Repair Shop in Southgate,1
+MI,safelite,Windshield Replacement Shop in Southfield,1
+MIAUTOGLASSSTORE,safelite,Sault Sainte Marie,1
+MIAUTOGLASSREPLACEMENTSHOP,safelite,Saginaw,1
+MI,safelite,Auto Glass Replacement Shop in Okemos,1
+MIWINDSHIELDREPLACEMENTSHOP,safelite,Norton Shores,1
+MIAUTOGLASSSTORE,safelite,Novi,1
+MI,safelite,Windshield Repair Shop in New Baltimore,1
+MIAUTOGLASSSTORE,safelite,Midland,1
+MI,safelite,Windshield Repair Shop in Marquette,1
+MIAUTOGLASSSTORE,safelite,Livonia,1
+MIAUTOGLASSSHOP,safelite,Macomb,1
+MI,safelite,Auto Glass Replacement Shop in Kalamazoo,1
+MIAUTOGLASSSHOP,safelite,Ironwood,1
+MI,safelite,Windshield Repair Shop in Iron Mountain,1
+MI,safelite,Windshield Repair Shop in Grand Rapids,1
+MI,safelite,Windshield Repair Shop in Grand Ledge,1
+MIWINDSHIELDREPLACEMENTSHOP,safelite,Gaylord,1
+MI,safelite,Windshield Repair and Replacement in Escanaba,1
+MIWINDSHIELDREPLACEMENTSHOP,safelite,Flint,1
+MI,safelite,Auto Glass Shop in Eastpointe,1
+MIWINDSHIELDREPLACEMENTSHOP,safelite,Commerce Township,1
+MI,safelite,Windshield Repair Shop in Clinton Township,1
+MIAUTOGLASSREPLACEMENTSHOP,safelite,Canton,1
+MIAUTOGLASSSTORE,safelite,Cadillac,1
+MI,safelite,Auto Glass Shop in Caledonia,1
+MIAUTOGLASSREPLACEMENTSHOP,safelite,Battle Creek,1
+MIAUTOGLASSREPLACEMENTSHOP,safelite,Brighton,1
+MI,safelite,Windshield Repair Shop in Auburn Hills,1
+MIWINDSHIELDREPLACEMENTSHOP,safelite,Ann Arbor,1
+MI,safelite,Auto Glass Replacement Shop in Adrian,1
+MA,safelite,Windshield Replacement Shop in Worcester,1
+MA,safelite,Auto Glass Shop in Worcester,1
+MAAUTOGLASSSTORE,safelite,Woburn,1
+MA,safelite,Windshield Replacement Shop in Weymouth,1
+MA,safelite,Auto Glass Shop in West Springfield,1
+MA,safelite,Windshield Repair and Replacement in West Dennis,1
+MA,safelite,Windshield Replacement Shop in West Newton,1
+MA,safelite,Auto Glass Shop in Wakefield,1
+MA,safelite,Windshield Replacement Shop in Quincy,1
+MA,safelite,Auto Glass Shop in Raynham,1
+MAAUTOGLASSSHOP,safelite,Plymouth,1
+MAAUTOGLASSSTORE,safelite,Pittsfield,1
+MAAUTOGLASSSHOP,safelite,Peabody,1
+MAWINDSHIELDREPLACEMENTSHOP,safelite,Northampton,1
+MA,safelite,Auto Glass Replacement Shop in North Andover,1
+MAAUTOGLASSSTORE,safelite,Norwood,1
+MAAUTOGLASSREPLACEMENTSHOP,safelite,Newburyport,1
+MAAUTOGLASSSTORE,safelite,New Bedford,1
+MAAUTOGLASSSHOP,safelite,Marlborough,1
+MA,safelite,Lynn,1
+MA,safelite,Auto Glass Replacement Shop in Lunenburg,1
+MA,safelite,Windshield Replacement Shop in Franklin,1
+MA,safelite,Windshield Replacement Shop in Framingham,1
+MA,safelite,Windshield Replacement Shop in Falmouth,1
+MAWINDSHIELDREPLACEMENTSHOP,safelite,Everett,1
+MA,safelite,Windshield Repair and Replacement in East Taunton,1
+MAAUTOGLASSSTORE,safelite,Dorchester,1
+MAAUTOGLASSSTORE,safelite,Chicopee,1
+MAWINDSHIELDREPLACEMENTSHOP,safelite,Chelsea,1
+MAAUTOGLASSSTORE,safelite,Chelmsford,1
+MAWINDSHIELDREPLACEMENTSHOP,safelite,Burlington,1
+MAAUTOGLASSREPLACEMENTSHOP,safelite,Brockton,1
+MAWINDSHIELDREPLACEMENTSHOP,safelite,Brockton,1
+MA,safelite,Auto Glass Replacement Shop in Brighton,1
+MAAUTOGLASSSHOP,safelite,Beverly,1
+MA,safelite,Auto Glass Replacement Shop in Attleboro,1
+MA,safelite,Auto Glass Shop in Acton,1
+MAAUTOGLASSREPLACEMENTSHOP,safelite,Arlington,1
+MDWINDSHIELDREPLACEMENTSHOP,safelite,Windsor Mill,1
+MD,safelite,Auto Glass Replacement Shop in Waldorf,1
+MDAUTOGLASSSHOP,safelite,Salisbury,1
+MDAUTOGLASSSHOP,safelite,Baltimore,1
+MDAUTOGLASSSHOP,safelite,Rockville,1
+MD,safelite,Auto Glass Replacement Shop in Prince Frederick,1
+MD,safelite,Windshield Repair Shop in Reisterstown,1
+MDAUTOGLASSREPLACEMENTSHOP,safelite,Parkville,1
+MD,safelite,Auto Glass Replacement Shop in Hagerstown,1
+MD,safelite,Windshield Repair Shop in Glen Burnie,1
+MDAUTOGLASSREPLACEMENTSHOP,safelite,Frederick,1
+MDWINDSHIELDREPLACEMENTSHOP,safelite,Cumberland,1
+MD,safelite,Auto Glass Replacement Shop in Columbia,1
+MD,safelite,Auto Glass Replacement Shop in Churchvile,1
+MDAUTOGLASSREPLACEMENTSHOP,safelite,Capitol Heights,1
+MD,safelite,Windshield Replacement Shop in Bethesda,1
+MDAUTOGLASSREPLACEMENTSHOP,safelite,Annapolis,1
+ME,safelite,Auto Glass Replacement Shop in Portland,1
+ME,safelite,Windshield Replacement Shop in Bangor,1
+MEAUTOGLASSSHOP,safelite,Augusta,1
+LAAUTOGLASSSHOP,safelite,West Monroe,1
+LA,safelite,Auto Glass Repair Shop In Walker,1
+LA,safelite,Auto Glass Replacement in Slidell,1
+LAAUTOGLASSSTORE,safelite,Scott,1
+LAAUTOGLASSSHOP,safelite,Metairie,1
+LA,safelite,Windshield Replacement Shop in Mandeville,1
+LA,safelite,Auto Glass Replacement Shop in Kenner,1
+LAAUTOGLASSSHOP,safelite,Houma,1
+LAWINDSHIELDREPLACEMENTSHOP,safelite,Harvey,1
+LAAUTOGLASSREPLACEMENTSHOP,safelite,Hammond,1
+LA,safelite,Auto Glass Shop in Shreveport,1
+LA,safelite,Windshield Repair Shop in Baton Rouge,1
+LA,safelite,Auto Glass Replacement Shop in Alexandria,1
+KY,safelite,Windshield Repair and Replacement in Prestonsburg,1
+KY,safelite,Windshield Repair Shop in Louisville,1
+KYWINDSHIELDREPLACEMENTSHOP,safelite,London,1
+KY,safelite,Auto Glass Replacement Shop in Lexington,1
+KYAUTOGLASSSHOP,safelite,Hopkinsville,1
+KYAUTOGLASSSTORE,safelite,Florence,1
+KYAUTOGLASSSTORE,safelite,Elizabethtown,1
+KY,safelite,Auto Glass Shop in Bowling Green,1
+KS,safelite,Windshield Repair Shop in Wichita,1
+KSAUTOGLASSREPLACEMENTSHOP,safelite,Topeka,1
+KSAUTOGLASSREPLACEMENTSHOP,safelite,Shawnee,1
+KS,safelite,Windshield Repair and Replacement in Salina,1
+KSWINDSHIELDREPLACEMENTSHOP,safelite,Olathe,1
+KSWINDSHIELDREPLACEMENTSHOP,safelite,Manhattan,1
+KSAUTOGLASSSHOP,safelite,Hutchinson,1
+IAWINDSHIELDREPLACEMENTSHOP,safelite,Waterloo,1
+IAAUTOGLASSSHOP,safelite,Spencer,1
+IAWINDSHIELDREPLACEMENTSHOP,safelite,Sioux City,1
+IA,safelite,Windshield Repair Shop in Ottumwa,1
+IA,safelite,Auto Glass Replacement Shop in Marshalltown,1
+IA,safelite,Windshield Repair Shop in Grimes,1
+IAAUTOGLASSREPLACEMENTSHOP,safelite,Iowa City,1
+IA,safelite,Auto Glass Replacement Shop in Fort Dodge,1
+IAAUTOGLASSSTORE,safelite,Dubuque,1
+IAAUTOGLASSSHOP,safelite,Davenport,1
+IA,safelite,Auto Glass Shop in Clive,1
+IAAUTOGLASSSHOP,safelite,Cedar Rapids,1
+IA,safelite,Windshield Repair Shop in Burlington,1
+IA,safelite,Windshield Repair Shop in Ames,1
+IN,safelite,Auto Glass Replacement Shop in Terre Haute,1
+INAUTOGLASSREPLACEMENTSHOP,safelite,Muncie,1
+INAUTOGLASSSHOP,safelite,Mishawaka,1
+IN,safelite,Windshield Repair Shop in Lafayette,1
+IN,safelite,Windshield Replacement Shop in Indianapolis,1
+IN,safelite,Auto Glass Shop in Fort Wayne,1
+IN,safelite,Auto Glass Replacement Shop in Evansville,1
+INAUTOGLASSSHOP,safelite,Bloomington,1
+IN,safelite,Windshield Repair Shop in Indianapolis,1
+INAUTOGLASSSTORE,safelite,Anderson,1
+ILAUTOGLASSSHOP,safelite,Wood Dale,1
+ILAUTOGLASSSHOP,safelite,South Holland,1
+IL,safelite,Auto Glass Replacement Shop in Springfield,1
+ILWINDSHIELDREPLACEMENTSHOP,safelite,Rockford,1
+IL,safelite,Windshield Repair and Replacement in Quincy,1
+ILWINDSHIELDREPLACEMENTSHOP,safelite,Peru,1
+ILWINDSHIELDREPLACEMENTSHOP,safelite,Peoria,1
+IL,safelite,Auto Glass Replacement Shop in Oak Lawn,1
+IL,safelite,Windshield Repair Shop in Naperville,1
+ILWINDSHIELDREPLACEMENTSHOP,safelite,Mundelein,1
+IL,safelite,Windshield Repair Shop in Morton Grove,1
+IL,safelite,Auto Glass Shop in Moline,1
+IL,safelite,Windshield Repair and Replacement in Mattoon,1
+IL,safelite,Windshield Replacement Shop in Lake in the Hills,1
+IL,safelite,Windshield Repair and Replacement in Jacksonville,1
+ILAUTOGLASSSHOP,safelite,Fairview Heights,1
+ILAUTOGLASSSTORE,safelite,Elgin,1
+IL,safelite,Auto Glass Shop in Decatur,1
+ILAUTOGLASSSTORE,safelite,Crest Hill,1
+IL,safelite,Auto Glass Shop in Chicago,1
+IL,safelite,Auto Glass Shop in Champaign,1
+IL,safelite,Auto Glass Replacement Shop in Carbondale,1
+ILAUTOGLASSSTORE,safelite,Berwyn,1
+ILAUTOGLASSSHOP,safelite,Bloomington,1
+IL,safelite,Auto Glass Shop in Alton,1
+ILAUTOGLASSSHOP,safelite,Addison,1
+ID,safelite,Windshield Replacement Shop in Twin Falls,1
+ID,safelite,Auto Glass Replacement Shop in Pocatello,1
+ID,safelite,Windshield Repair and Replacement in Lewiston,1
+IDAUTOGLASSSTORE,safelite,Idaho Falls,1
+ID,safelite,Windshield Repair and Replacement in Garden City,1
+ID,safelite,Auto Glass Shop in Coeur D Alene,1
+ID,safelite,Windshield Repair Shop in Nampa,1
+ID,safelite,Windshield Replacement Shop in Boise,1
+ID,safelite,Windshield Repair Shop in Boise,1
+HIAUTOGLASSREPLACEMENTSHOP,safelite,Lihue,1
+HI,safelite,Windshield Repair Shop in Honolulu,1
+HIAUTOGLASSSHOP,safelite,Kahului,1
+HI,safelite,Windshield Repair and Replacement in Hilo,1
+GA,safelite,Windshield Repair and Replacement in Valdosta,1
+GAAUTOGLASSSTORE,safelite,Union City,1
+GAAUTOGLASSSTORE,safelite,Pooler,1
+GAAUTOGLASSSTORE,safelite,Norcross,1
+GAAUTOGLASSSHOP,safelite,Martinez,1
+GAAUTOGLASSSHOP,safelite,Marietta,1
+GAAUTOGLASSREPLACEMENTSHOP,safelite,Marietta,1
+GAAUTOGLASSSTORE,safelite,Macon,1
+GAAUTOGLASSSHOP,safelite,Dalton,1
+GAAUTOGLASSREPLACEMENTSHOP,safelite,Cumming,1
+GAAUTOGLASSREPLACEMENTSHOP,safelite,Conyers,1
+GAAUTOGLASSSHOP,safelite,Lithia Springs,1
+GAAUTOGLASSREPLACEMENTSHOP,safelite,Columbus,1
+GAWINDSHIELDREPLACEMENTSHOP,safelite,Cartersville,1
+GAAUTOGLASSSTORE,safelite,Brunswick,1
+GA,safelite,Windshield Repair and Replacement in Athens,1
+GA,safelite,Windshield Repair and Replacement in Albany,1
+FL,safelite,Auto Glass Replacement Shop in West Palm Beach,1
+FL,safelite,Thonotosassa,1
+FL,safelite,Windshield Replacement Shop in Thonotosassa,1
+FL,safelite,Windshield Repair Shop in Tampa,1
+FLAUTOGLASSSTORE,safelite,Tampa,1
+FL,safelite,Windshield Replacement Shop in Sarasota,1
+FL,safelite,Auto Glass Shop in Tampa,1
+FL,safelite,Windshield Replacement Shop in Sanford,1
+FL,safelite,Windshield Repair Shop in St Augustine,1
+FL,safelite,Auto Glass Shop in Port Saint Lucie,1
+FL,safelite,Auto Glass Shop in Port Charlotte,1
+FLWINDSHIELDREPLACEMENTSHOP,safelite,Pensacola,1
+FL,safelite,Auto Glass Replacement Shop in Pembroke Park,1
+FLWINDSHIELDREPLACEMENTSHOP,safelite,Panama City,1
+FLAUTOGLASSREPLACEMENTSHOP,safelite,Palmetto,1
+FL,safelite,Windshield Replacement Shop in Palm Harbor,1
+FL,safelite,Windshield Repair Shop in Orlando,1
+FL,safelite,Auto Glass Shop in Azalea Park,1
+FLAUTOGLASSSTORE,safelite,Orange Park,1
+FL,safelite,Auto Glass Replacement Shop in Odessa,1
+FL,safelite,Auto Glass Replacement Shop in Fort Lauderdale,1
+FL,safelite,Auto Glass Shop in Ocala,1
+FLAUTOGLASSREPLACEMENTSHOP,safelite,Naples,1
+FL,safelite,Auto Glass Shop in Clermont,1
+FLAUTOGLASSREPLACEMENTSHOP,safelite,Midway,1
+FLWINDSHIELDREPLACEMENTSHOP,safelite,Miami,1
+FLWINDSHIELDREPLACEMENTSHOP,safelite,Melbourne,1
+FLAUTOGLASSSHOP,safelite,Leesburg,1
+FLAUTOGLASSSTORE,safelite,Lakeland,1
+FL,safelite,Windshield Replacement Shop in St. Petersburg,1
+FL,safelite,Windshield Replacement Shop in Kissimmee,1
+FLAUTOGLASSSTORE,safelite,Jacksonville,1
+FLAUTOGLASSREPLACEMENTSHOP,safelite,Jacksonville,1
+FL,safelite,Windshield Replacement Shop in Gainesville,1
+FL,safelite,Fort Walton Beach,1
+FLAUTOGLASSSTORE,safelite,Ft Myers,1
+FL,safelite,Windshield Repair Shop in Daytona Beach,1
+FLAUTOGLASSSTORE,safelite,Cape Coral,1
+FL,safelite,Windshield Repair and Replacement in Crestview,1
+FLAUTOGLASSSTORE,safelite,Brooksville,1
+FLAUTOGLASSSTORE,safelite,Altamonte Springs,1
+DE,safelite,Auto Glass Replacement Shop in Wilmington,1
+DE,safelite,Windshield Repair Shop in Georgetown,1
+DE,safelite,Windshield Repair Shop in Dover,1
+CTAUTOGLASSREPLACEMENTSHOP,safelite,West Hartford,1
+CTAUTOGLASSSHOP,safelite,Stratford,1
+CTAUTOGLASSSHOP,safelite,Waterbury,1
+CT,safelite,Windshield Replacement Shop in Stamford,1
+CT,safelite,Windshield Repair Shop in Rocky Hill,1
+CTAUTOGLASSSTORE,safelite,North Haven,1
+CT,safelite,Auto Glass Shop in New London,1
+CTWINDSHIELDREPLACEMENTSHOP,safelite,Danbury,1
+CTAUTOGLASSREPLACEMENTSHOP,safelite,Manchester,1
+CTAUTOGLASSREPLACEMENTSHOP,safelite,Cromwell,1
+CTAUTOGLASSREPLACEMENTSHOP,safelite,Bridgeport,1
+CO,safelite,Auto Glass Replacement Shop in Thornton,1
+COWINDSHIELDREPLACEMENTSHOP,safelite,Pueblo,1
+CO,safelite,Windshield Repair Shop in Pagosa Springs,1
+COAUTOGLASSREPLACEMENTSHOP,safelite,Loveland,1
+COWINDSHIELDREPLACEMENTSHOP,safelite,Longmont,1
+COAUTOGLASSREPLACEMENTSHOP,safelite,Lakewood,1
+COAUTOGLASSREPLACEMENTSHOP,safelite,Highlands Ranch,1
+COAUTOGLASSSTORE,safelite,Greeley,1
+CO,safelite,Auto Glass Shop in Grand Junction,1
+CO,safelite,Windshield Repair Shop in Glenwood Springs,1
+CO,safelite,Windshield Replacement Shop in Frisco,1
+CO,safelite,Auto Glass Replacement Shop in Ft Collins,1
+COAUTOGLASSREPLACEMENTSHOP,safelite,Englewood,1
+CO,safelite,Auto Glass Shop in Durango,1
+CO,safelite,Durango,1
+CO,safelite,Windshield Replacement Shop in South Lakewood,1
+COAUTOGLASSREPLACEMENTSHOP,safelite,Denver,1
+CO,safelite,Auto Glass Replacement Shop in Cortez,1
+COAUTOGLASSSTORE,safelite,Colorado Springs,2
+COAUTOGLASSSHOP,safelite,Colorado Springs,1
+COAUTOGLASSREPLACEMENTSHOP,safelite,Castle Rock,1
+CO,safelite,Auto Glass Shop in Boulder,1
+CO,safelite,Windshield Replacement Shop in Aurora,1
+CO,safelite,Auto Glass Replacement Shop in Aurora,1
+COWINDSHIELDREPLACEMENTSHOP,safelite,Arvada,1
+COAUTOGLASSSHOP,safelite,Arvada,1
+CAAUTOGLASSSHOP,safelite,Yuba City,1
+CA,safelite,Auto Glass Replacement Shop in Westminster,1
+CA,safelite,Auto Glass Shop in Sacramento,1
+CAAUTOGLASSSTORE,safelite,Visalia,1
+CA,safelite,Windshield Replacement Shop in Victorville,1
+CAWINDSHIELDREPLACEMENTSHOP,safelite,Turlock,1
+CAAUTOGLASSSTORE,safelite,Union City,1
+CA,safelite,Windshield Repair Shop in Van Nuys,1
+CA,safelite,Windshield Replacement Shop in Stockton,1
+CAAUTOGLASSSHOP,safelite,San Francisco,1
+CA,safelite,Windshield Replacement Shop in Simi Valley,1
+CAAUTOGLASSSTORE,safelite,Santa Maria,1
+CA,safelite,Windshield Repair Shop in Santa Rosa,1
+CA,safelite,Windshield Repair Shop in Santa Cruz,1
+CA,safelite,Santa Clara,1
+CA,safelite,Auto Glass Shop in Santa Ana,1
+CAWINDSHIELDREPLACEMENTSHOP,safelite,San Rafael,1
+CAAUTOGLASSSHOP,safelite,San Jose,1
+CA,safelite,Auto Glass Replacement Shop in San Francisco,1
+CAWINDSHIELDREPLACEMENTSHOP,safelite,San Diego,1
+CAAUTOGLASSSTORE,safelite,Salinas,1
+CA,safelite,Windshield Repair Shop in Sacramento,1
+CA,safelite,Windshield Replacement Shop in Riverside,1
+CA,safelite,Windshield Repair Shop in Reseda,1
+CAAUTOGLASSSHOP,safelite,Redwood City,1
+CAAUTOGLASSREPLACEMENTSHOP,safelite,Redlands,1
+CA,safelite,Windshield Repair and Replacement in Redding,1
+CA,safelite,Auto Glass Shop in Rancho Cucamonga,1
+CA,safelite,Auto Glass Replacement Shop in Rancho Cordova,1
+CAWINDSHIELDREPLACEMENTSHOP,safelite,Placerville,1
+CA,safelite,Auto Glass Shop in Pasadena,1
+CA,safelite,Auto Glass Shop in Palm Springs,1
+CAAUTOGLASSSTORE,safelite,Ontario,1
+CAWINDSHIELDREPLACEMENTSHOP,safelite,Oakland,1
+CA,safelite,Auto Glass Replacement Shop in Murrieta,1
+CAAUTOGLASSSHOP,safelite,Modesto,1
+CAAUTOGLASSSHOP,safelite,Long Beach,1
+CAAUTOGLASSSHOP,safelite,Los Angeles,1
+CA,safelite,Windshield Repair Shop in Lodi,1
+CAAUTOGLASSSHOP,safelite,Irvine,1
+CAAUTOGLASSSHOP,safelite,Lancaster,1
+CA,safelite,Windshield Repair Shop in Inglewood,1
+CA,safelite,Windshield Replacement Shop in Gardena,1
+CA,safelite,Fullerton,1
+CA,safelite,Windshield Replacement Shop in Fresno,1
+CAWINDSHIELDREPLACEMENTSHOP,safelite,Fairfield,1
+CAAUTOGLASSSHOP,safelite,Escondido,1
+CA,safelite,Windshield Repair and Replacement in El Centro,1
+CA,safelite,Auto Glass Shop in El Cajon,1
+CA,safelite,Auto Glass Replacement Shop in Dublin,1
+CA,safelite,Windshield Repair Shop in Covina,1
+AZWINDSHIELDREPLACEMENTSHOP,safelite,Tucson,1
+AZWINDSHIELDREPLACEMENTSHOP,safelite,Willcox,1
+AZ,safelite,Auto Glass Shop in Tucson,1
+AZ,safelite,Auto Glass Replacement Shop in Tuscon,1
+AZ,safelite,Auto Glass Shop in Tempe,1
+AZ,safelite,Auto Glass Shop in Taylor,1
+AZ,safelite,Windshield Repair Shop in Surprise,1
+AZ,safelite,Windshield Repair Shop in Sierra Vista,1
+AZAUTOGLASSSHOP,safelite,Show Low,1
+AZWINDSHIELDREPLACEMENTSHOP,safelite,Scottsdale,1
+AZ,safelite,Auto Glass Shop in Queen Creek,1
+AZAUTOGLASSSHOP,safelite,Phoenix,1
+AZAUTOGLASSREPLACEMENTSHOP,safelite,Prescott,1
+AZ,safelite,Auto Glass Replacement Shop in Phoenix,1
+IL,safelite,Auto Glass Shop in Peoria,1
+AZ,safelite,Windshield Replacement Shop in Peoria,1
+AZ,safelite,Windshield Replacement Shop in Payson,1
+AZAUTOGLASSSHOP,safelite,Mesa,2
+AZAUTOGLASSREPLACEMENTSHOP,safelite,Mesa,1
+AZAUTOGLASSREPLACEMENTSHOP,safelite,Lake Havasu City,1
+AZ,safelite,Windshield Repair and Replacement in Kingman,1
+AZ,safelite,Auto Glass Replacement Shop in Flagstaff,1
+AZAUTOGLASSSHOP,safelite,Eagar,1
+AZ,safelite,Auto Glass Shop in Chandler,1
+AZ,safelite,Auto Glass Replacement Shop in Chandler,2
+AZAUTOGLASSSTORE,safelite,Casa Grande,1
+AZ,safelite,Windshield Repair and Replacement in Bullhead City,1
+AZ,safelite,Windshield Repair Shop in Avondale,1
+AZ,safelite,Windshield Repair and Replacement in Camp Verde,1
+AK,safelite,Auto Glass Shop in Wasilla,1
+AKAUTOGLASSREPLACEMENTSHOP,safelite,Fairbanks,1
+AK,safelite,Auto Glass Replacement Shop in Anchorage,1
+AK,safelite,Windshield Repair Shop in Anchorage,1
+ALAUTOGLASSSTORE,safelite,Tuscaloosa,1
+AL,safelite,Windshield Replacement Shop in Summerdale,1
+ALWINDSHIELDREPLACEMENTSHOP,safelite,Oxford,1
+ALAUTOGLASSSTORE,safelite,Montgomery,1
+AL,safelite,Windshield Replacement Shop in Mobile,1
+ALAUTOGLASSREPLACEMENTSHOP,safelite,Madison,1
+AL,safelite,Windshield Repair Shop in Hoover,1
+AL,safelite,Auto Glass Replacement Shop in Dothan,1
+BC,seriouscoffee,Victoria,1
+UNKNOWN,shake_shack,unknown,36
+UNKNOWN,swarco_e_connect,unknown,2
+COLORADO,teds_montana_grill,Aurora,2
+COLORADO,teds_montana_grill,Colorado Springs,1
+COLORADO,teds_montana_grill,Greenwood Village,1
+COLORADO,teds_montana_grill,Lakewood,1
+COLORADO,teds_montana_grill,Littleton,1
+COLORADO,teds_montana_grill,Westminster,1
+CONNECTICUT,teds_montana_grill,South Windsor,1
+DELAWARE,teds_montana_grill,Newark,1
+FLORIDA,teds_montana_grill,Estero,1
+FLORIDA,teds_montana_grill,Jacksonville,2
+FLORIDA,teds_montana_grill,Tallahassee,1
+GEORGIA,teds_montana_grill,Alpharetta,1
+GEORGIA,teds_montana_grill,Atlanta,2
+GEORGIA,teds_montana_grill,Buford,1
+GEORGIA,teds_montana_grill,Cumming,1
+GEORGIA,teds_montana_grill,Kennesaw,1
+GEORGIA,teds_montana_grill,Lawrenceville,1
+GEORGIA,teds_montana_grill,Marietta,2
+GEORGIA,teds_montana_grill,Peachtree City,1
+GEORGIA,teds_montana_grill,Peachtree Corners,1
+ILLINOIS,teds_montana_grill,Bolingbrook,1
+INDIANA,teds_montana_grill,Indianapolis,1
+KENTUCKY,teds_montana_grill,Lexington,1
+MASSACHUSETTS,teds_montana_grill,Westborough,1
+MARYLAND,teds_montana_grill,Gaithersburg,1
+MONTANA,teds_montana_grill,Bozeman,1
+NORTHCAROLINA,teds_montana_grill,Charlotte,1
+NORTHCAROLINA,teds_montana_grill,Durham,1
+NEWYORK,teds_montana_grill,New York,1
+OHIO,teds_montana_grill,Columbus,2
+TENNESSEE,teds_montana_grill,Nashville,1
+VIRGINIA,teds_montana_grill,Alexandria,1
+VIRGINIA,teds_montana_grill,Arlington,1
+UNKNOWN,the_courier_guy,unknown,1
+UNKNOWN,tops_at_spar,63054,1
+UNKNOWN,tops_at_spar,Port Elizabeth,4
+UNKNOWN,tops_at_spar,Stutterheim,1
+UNKNOWN,tops_at_spar,Bedford,1
+UNKNOWN,tops_at_spar,Bergville,1
+UNKNOWN,tops_at_spar,Kempton Park,1
+UNKNOWN,tops_at_spar,Burgersdorp,1
+UNKNOWN,tops_at_spar,Bushbuckridge,1
+UNKNOWN,tops_at_spar,Graaff-Reinet,1
+UNKNOWN,tops_at_spar,Polokwane,2
+UNKNOWN,tops_at_spar,Cofimvaba,1
+UNKNOWN,tops_at_spar,Nelspruit,4
+UNKNOWN,tops_at_spar,Johannesburg,1
+UNKNOWN,tops_at_spar,Dwarsloop,1
+UNKNOWN,tops_at_spar,Pretoria,5
+UNKNOWN,tops_at_spar,Engcobo,3
+UNKNOWN,tops_at_spar,Ezulwini,1
+UNKNOWN,tops_at_spar,Botswana,13
+UNKNOWN,tops_at_spar,Manzini,3
+UNKNOWN,tops_at_spar,Giyani,2
+UNKNOWN,tops_at_spar,Ormonde,1
+UNKNOWN,tops_at_spar,Groblersdal,2
+UNKNOWN,tops_at_spar,Hankey,1
+UNKNOWN,tops_at_spar,BELFAST,1
+UNKNOWN,tops_at_spar,Durban,4
+UNKNOWN,tops_at_spar,Hazyview,1
+UNKNOWN,tops_at_spar,Indwe,1
+UNKNOWN,tops_at_spar,Jeffreys Bay,1
+UNKNOWN,tops_at_spar,"Main Road, Kanye",1
+UNKNOWN,tops_at_spar,Kirkwood,1
+UNKNOWN,tops_at_spar,Komatipoort,1
+UNKNOWN,tops_at_spar,Komga,1
+UNKNOWN,tops_at_spar,"Lebowakgomo, Thabomoopo",1
+UNKNOWN,tops_at_spar,Louis Trichardt,1
+UNKNOWN,tops_at_spar,Malalane,1
+UNKNOWN,tops_at_spar,unknown,9
+UNKNOWN,tops_at_spar,Matsulu,1
+UNKNOWN,tops_at_spar,Mtubatuba,1
+UNKNOWN,tops_at_spar,Bloemfontein,1
+UNKNOWN,tops_at_spar,Ixopo,1
+UNKNOWN,tops_at_spar,Melmoth ,1
+UNKNOWN,tops_at_spar,Dendron,1
+UNKNOWN,tops_at_spar,Naas,1
+UNKNOWN,tops_at_spar,Phalaborwa,1
+UNKNOWN,tops_at_spar,Port Alfred,1
+UNKNOWN,tops_at_spar,Nqamakwe,1
+UNKNOWN,tops_at_spar,East London,1
+UNKNOWN,tops_at_spar,King Williams Town,1
+UNKNOWN,tops_at_spar,Nylstroom,1
+UNKNOWN,tops_at_spar,Grahamstown,1
+UNKNOWN,tops_at_spar,Patensie,1
+UNKNOWN,tops_at_spar,Pienaarsrivier,1
+UNKNOWN,tops_at_spar,Pomeroy,1
+UNKNOWN,tops_at_spar,Port Shepstone,1
+UNKNOWN,tops_at_spar,"Gabarone, Botswana",3
+UNKNOWN,tops_at_spar,Thaba Tshawane,1
+UNKNOWN,tops_at_spar,Limpopo,1
+UNKNOWN,tops_at_spar,Scottburgh,1
+UNKNOWN,tops_at_spar,Thohoyandou,1
+UNKNOWN,tops_at_spar,"Soshanguve Block M, Ext 1",1
+UNKNOWN,tops_at_spar,Butterworth,2
+UNKNOWN,tops_at_spar,Libode,1
+UNKNOWN,tops_at_spar,Mthatha,2
+UNKNOWN,tops_at_spar,Kenton on Sea,1
+UNKNOWN,tops_at_spar,Thulamahashe,1
+UNKNOWN,tops_at_spar,Big Bend,1
+UNKNOWN,tops_at_spar,"Zwartkop, Centurion",1
+UNKNOWN,tops_at_spar,Gabarone,1
+UNKNOWN,tops_at_spar,"Palapye, Botswana",2
+UNKNOWN,tops_at_spar,Middelburg,1
+UNKNOWN,tops_at_spar,Namibia,3
+UNKNOWN,tops_at_spar,Northern Peninsula,1
+UNKNOWN,tops_at_spar,Cape Town,4
+UNKNOWN,tops_at_spar,Maun,1
+UNKNOWN,tops_at_spar,Citrusdal,1
+UNKNOWN,tops_at_spar,Pinetown,1
+UNKNOWN,tops_at_spar,Marishane,1
+UNKNOWN,tops_at_spar,Elim,1
+UNKNOWN,tops_at_spar,Ephondweni ,1
+UNKNOWN,tops_at_spar,"Soutpansberg, Louis Trichardt",1
+UNKNOWN,tops_at_spar,Gobabis,1
+UNKNOWN,tops_at_spar,Soshanguve,2
+UNKNOWN,tops_at_spar,Ingwavuma,1
+UNKNOWN,tops_at_spar,Modjadjiskloof (Duiwelskloof),1
+UNKNOWN,tops_at_spar,"Seshego, Polokwane",1
+UNKNOWN,tops_at_spar,Matata,1
+UNKNOWN,tops_at_spar,Lephalale,1
+UNKNOWN,tops_at_spar,Piggs Peak ,1
+UNKNOWN,tops_at_spar,South Coast,1
+UNKNOWN,tops_at_spar,Worcester,1
+UNKNOWN,tops_at_spar,"Fauna Park, Polokwane",1
+UNKNOWN,tops_at_spar,Stanford,1
+UNKNOWN,tops_at_spar,"Gaberone West, Botswana",1
+UNKNOWN,tops_at_spar,Acornhoek,1
+UNKNOWN,tops_at_spar,Burgersfort,1
+UNKNOWN,tops_at_spar,Palaborwas,1
+UNKNOWN,tops_at_spar,Pretoria ,1
+UNKNOWN,tops_at_spar,Port Edward,1
+UNKNOWN,tops_at_spar,Ga-Rankuwa,1
+UNKNOWN,tops_at_spar,"Mmopane, Kweneng District",1
+UNKNOWN,tops_at_spar,Nkuzana,1
+UNKNOWN,tops_at_spar,Richards Bay,1
+UNKNOWN,tops_at_spar,Tshakhuma,1
+UNKNOWN,tops_at_spar,Mqanduli,1
+UNKNOWN,tops_at_spar,Vuwani,1
+UNKNOWN,tops_at_spar,Vaalwater,1
+VA,torchys_tacos,Midlothian,1
+TX,torchys_tacos,Georgetown,1
+UNKNOWN,travelcenters_of_america_us,unknown,2
+UNKNOWN,truworths,Bethal,1
+UNKNOWN,truworths,Katlehong,1
+UNKNOWN,truworths,Burgersfort,2
+UNKNOWN,truworths,KwaMhlanga,1
+UNKNOWN,truworths,Matatiele,1
+UNKNOWN,truworths,Rustenburg,1
+UNKNOWN,truworths,Akasia,2
+UNKNOWN,truworths,", Benoni,",1
+UNKNOWN,truworths,Empangeni,1
+UNKNOWN,truworths,Mpumalanga,2
+UNKNOWN,truworths,Thohoyandou,1
+UNKNOWN,truworths,Gaborone,1
+UNKNOWN,truworths,"Thabong, Free State, South Africa, 9463",1
+UNKNOWN,truworths,Port Elizabeth,2
+UNKNOWN,truworths,"North West, South Africa",1
+UNKNOWN,truworths,Randburg,2
+UNKNOWN,truworths,EXT 9 Kempton Park,1
+UNKNOWN,truworths,Walvis Bay,1
+UNKNOWN,truworths,East London,1
+UNKNOWN,truworths,Hazyview,1
+UNKNOWN,truworths,Queenstown,1
+UNKNOWN,truworths,"Tshakhuma,",1
+UNKNOWN,truworths,Klerksdorp,1
+UNKNOWN,truworths,Tshakhuma,1
+OHIO,united_surgical_partners_international,Cambridge,1
+TEXAS,united_surgical_partners_international,Dallas,1
+COLORADO,willscot,Colorado-Springs,1
+OHIO,willscot,Cleveland,1
+OHIO,willscot,Cincinnati,1
+CALIFORNIA,willscot,Chico,1
+ILLINOIS,willscot,Chicago,1
+TENNESSEE,willscot,Chattanooga,1
+NORTHCAROLINA,willscot,Charlotte,1
+CALIFORNIA,willscot,Windsor,1
+NORTHDAKOTA,willscot,Williston,1
+KANSAS,willscot,Wichita,1
+MASSACHUSETTS,willscot,West-Bridgewater,1
+MICHIGAN,willscot,Warren,1
+VIRGINIA,willscot,Virginia-Beach,1
+CALIFORNIA,willscot,Ventura,1
+NEWYORK,willscot,Utica,1
+OKLAHOMA,willscot,Tulsa,1
+ARIZONA,willscot,Tucson,1
+FLORIDA,willscot,Tampa,1
+FLORIDA,willscot,Tallahassee,1
+LOUISIANA,willscot,Sulphur,1
+CALIFORNIA,willscot,Stockton,1
+MISSOURI,willscot,St-Louis-Broadway,1
+ARKANSAS,willscot,Springdale,1
+WASHINGTON,willscot,Spokane-Valley,1
+NEWJERSEY,willscot,South-Plainfield,1
+LOUISIANA,willscot,Slidell,1
+SOUTHDAKOTA,willscot,Sioux-Falls,1
+LOUISIANA,willscot,Shreveport,1
+WASHINGTON,willscot,Seattle,1
+GEORGIA,willscot,Savannah,1
+CALIFORNIA,willscot,San-Francisco,1
+CALIFORNIA,willscot,San-Diego,1
+TEXAS,willscot,San-Antonio,1
+MASSACHUSETTS,willscot,Salisbury,1
+CALIFORNIA,willscot,Sacramento,1
+NEWYORK,willscot,Rochester,1
+VIRGINIA,willscot,Roanoke,1
+VIRGINIA,willscot,Richmond,1
+CALIFORNIA,willscot,Rialto,1
+NEVADA,willscot,Reno,1
+SASKATCHEWAN,willscot,Regina,1
+SOUTHDAKOTA,willscot,Rapid-City,1
+NORTHCAROLINA,willscot,Raleigh,1
+UTAH,willscot,Provo,1
+LOUISIANA,willscot,Prairieville,1
+OREGON,willscot,Portland,1
+ARIZONA,willscot,Phoenix-27Th-Ave,1
+PENNSYLVANIA,willscot,Philadelphia,1
+FLORIDA,willscot,Pensacola,1
+FLORIDA,willscot,Orlando,1
+NEBRASKA,willscot,Omaha,1
+WASHINGTON,willscot,Olympia,1
+OKLAHOMA,willscot,Oklahoma-City,1
+TEXAS,willscot,Odessa,1
+UTAH,willscot,North-Salt-Lake,1
+ARKANSAS,willscot,North-Little-Rock,1
+SOUTHCAROLINA,willscot,North-Charleston,1
+TEXAS,willscot,Nederland,1
+TENNESSEE,willscot,Nashville,1
+MINNESOTA,willscot,Moorhead,1
+ALABAMA,willscot,Mobile,1
+KANSAS,willscot,Mobile-Offices-And-Portable-Storage-La-Crosse,1
+WISCONSIN,willscot,Milwaukee,1
+FLORIDA,willscot,Miami,1
+TENNESSEE,willscot,Memphis,1
+NORTHCAROLINA,willscot,Maysville,1
+VIRGINIA,willscot,Manassas,1
+WISCONSIN,willscot,Madison,1
+KENTUCKY,willscot,Louisville,1
+CALIFORNIA,willscot,Los-Angeles,1
+MINNESOTA,willscot,Lino-Lakes,1
+KENTUCKY,willscot,Lexington,1
+NEVADA,willscot,Las-Vegas-Arville-Street,1
+TEXAS,willscot,Laredo,1
+CALIFORNIA,willscot,Lancaster,1
+TENNESSEE,willscot,Knoxville,1
+TEXAS,willscot,Kilgore,1
+MISSOURI,willscot,Kansas-City,1
+TEXAS,willscot,Justin,1
+FLORIDA,willscot,Jacksonville,1
+MISSISSIPPI,willscot,Jackson,1
+CALIFORNIA,willscot,Indio,1
+INDIANA,willscot,Indianapolis,1
+ALABAMA,willscot,Huntsville,1
+TEXAS,willscot,Houston,1
+CONNECTICUT,willscot,Hartford,1
+PENNSYLVANIA,willscot,Harrisburg,1
+SOUTHCAROLINA,willscot,Greenville,1
+NORTHCAROLINA,willscot,Greensboro,1
+FLORIDA,willscot,Gainesville,1
+CALIFORNIA,willscot,Fresno,1
+INDIANA,willscot,Fort-Wayne,1
+FLORIDA,willscot,Fort-Pierce,1
+FLORIDA,willscot,Fort-Myers,1
+NORTHCAROLINA,willscot,Fayetteville,1
+TEXAS,willscot,El-Paso,1
+TEXAS,willscot,Edinburg,1
+NEWYORK,willscot,East-Syracuse,1
+MARYLAND,willscot,Dundalk,1
+IOWA,willscot,Des-Moines,1
+COLORADO,willscot,Denver,1
+CONNECTICUT,willscot,Danbury,1
+TEXAS,willscot,Dallas,1
+TEXAS,willscot,Corpus-Christi,1
+OHIO,willscot,Columbus,1
+SOUTHCAROLINA,willscot,Columbia,1
+NEWYORK,willscot,Buffalo,1
+PENNSYLVANIA,willscot,Bridgeville,1
+FLORIDA,willscot,Bradenton,1
+IDAHO,willscot,Boise,1
+NEWYORK,willscot,Bohemia,1
+ALABAMA,willscot,Birmingham,1
+VERMONT,willscot,Barre,1
+CALIFORNIA,willscot,Bakersfield,1
+TEXAS,willscot,Austin,1
+GEORGIA,willscot,Atlanta,1
+NORTHCAROLINA,willscot,Asheville,1
+PENNSYLVANIA,willscot,Allentown,1
+NEWMEXICO,willscot,Albuquerque,1
+NEWYORK,willscot,Albany,1

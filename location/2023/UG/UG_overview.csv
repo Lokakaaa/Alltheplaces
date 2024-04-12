@@ -1,0 +1,502 @@
+State,Place Name,City,Establishments
+UNKNOWN,ernst_young,Kampala,1
+UNKNOWN,ford,Kampala Nakawa,4
+WESTERNREGION,little_free_library,Hoima,1
+UNKNOWN,man_truck_and_bus,Kampala,1
+UNKNOWN,marriott,Kampala,4
+UNKNOWN,marriott,Entebbe,1
+WESTERNFINLAND,mercedes_benz,Kampala,1
+UNKNOWN,moneygram,KAMPALA,430
+UNKNOWN,moneygram,MALABA,3
+UNKNOWN,moneygram,FORT PORTAL,8
+UNKNOWN,moneygram,KASESE,5
+UNKNOWN,moneygram,ENTEBBE,13
+UNKNOWN,moneygram,MUKONO,12
+UNKNOWN,moneygram,TORORO,4
+UNKNOWN,moneygram,SOROTI,6
+UNKNOWN,moneygram,NTUNGAMO,5
+UNKNOWN,moneygram,PALLISA,4
+UNKNOWN,moneygram,KABALE,7
+UNKNOWN,moneygram,BUIKWE,1
+UNKNOWN,moneygram,KAYUNGA,4
+UNKNOWN,moneygram,JINJA,21
+UNKNOWN,moneygram,ISHAKA,4
+UNKNOWN,moneygram,IGANGA,8
+UNKNOWN,moneygram,MASAKA,13
+UNKNOWN,moneygram,HOIMA,11
+UNKNOWN,moneygram,WAKISO,7
+UNKNOWN,moneygram,MBALE,14
+UNKNOWN,moneygram,BUGIRI,2
+UNKNOWN,moneygram,KAMULI,5
+UNKNOWN,moneygram,KAPCHORWA,4
+UNKNOWN,moneygram,BWAMIRAMIRA,1
+UNKNOWN,moneygram,BUSIA,6
+UNKNOWN,moneygram,KUMI,3
+UNKNOWN,moneygram,BUSHENYI,2
+UNKNOWN,moneygram,KABAROLE,2
+UNKNOWN,moneygram,ARUA,15
+UNKNOWN,moneygram,KALANGALA,2
+UNKNOWN,moneygram,MBARARA,22
+UNKNOWN,moneygram,KAMWENGE,3
+UNKNOWN,moneygram,OYAM,1
+UNKNOWN,moneygram,TORNO,1
+UNKNOWN,moneygram,ELEGU,2
+UNKNOWN,moneygram,KYOTERA,4
+UNKNOWN,moneygram,MPIGI,3
+UNKNOWN,moneygram,LWENGO,1
+UNKNOWN,moneygram,MITYANA,4
+UNKNOWN,moneygram,GULU,13
+UNKNOWN,moneygram,KOBOKO,3
+UNKNOWN,moneygram,MASINDI,8
+UNKNOWN,moneygram,SEMBABULE,1
+UNKNOWN,moneygram,ADJUMANI,2
+UNKNOWN,moneygram,APAC,2
+UNKNOWN,moneygram,BUNDIBUGYO,2
+UNKNOWN,moneygram,BWAISE,1
+UNKNOWN,moneygram,BWERA,1
+UNKNOWN,moneygram,IBANDA,4
+UNKNOWN,moneygram,ISINGIRO,2
+UNKNOWN,moneygram,KABALAGALA,1
+UNKNOWN,moneygram,KAGADI,1
+UNKNOWN,moneygram,KANUNGU,2
+UNKNOWN,moneygram,KAYABWE,1
+UNKNOWN,moneygram,KIBOGA,2
+UNKNOWN,moneygram,KIREKA,3
+UNKNOWN,moneygram,KISORO,3
+UNKNOWN,moneygram,KITGUM,2
+UNKNOWN,moneygram,KOTIDO,2
+UNKNOWN,moneygram,KYENJOJO,2
+UNKNOWN,moneygram,LIRA,9
+UNKNOWN,moneygram,LYANTONDE,3
+UNKNOWN,moneygram,MBARARA CORPORATE,1
+UNKNOWN,moneygram,MOROTO,2
+UNKNOWN,moneygram,MUBENDE,4
+UNKNOWN,moneygram,NAKIVUBO,1
+UNKNOWN,moneygram,NAMIREMBE ROAD,1
+UNKNOWN,moneygram,NANSANA,2
+UNKNOWN,moneygram,NATEETE,2
+UNKNOWN,moneygram,NEBBI,2
+UNKNOWN,moneygram,NTINDA,1
+UNKNOWN,moneygram,PAIDHA,1
+UNKNOWN,moneygram,RUBAGA,1
+UNKNOWN,moneygram,RUKUNGIRI,2
+UNKNOWN,moneygram,SSEMBABULE,2
+UNKNOWN,moneygram,WOBULENZI,1
+UNKNOWN,moneygram,NAKASONGOLA,2
+UNKNOWN,moneygram,KIHIHI,2
+UNKNOWN,moneygram,AMOLATOR,1
+UNKNOWN,moneygram,YUMBE,1
+UNKNOWN,moneygram,GOMBA,1
+UNKNOWN,moneygram,KYEGEGWA,1
+UNKNOWN,moneygram,PATONGO,3
+UNKNOWN,moneygram,KABWOHE,3
+UNKNOWN,moneygram,RUSHERE,3
+UNKNOWN,moneygram,NAKASEKE,2
+UNKNOWN,moneygram,BULISA,2
+UNKNOWN,moneygram,LUWERO,2
+UNKNOWN,moneygram,MUTUKULA,1
+UNKNOWN,moneygram,PAKWACH,1
+UNKNOWN,moneygram,PADER PALWO,1
+UNKNOWN,moneygram,KAMAPALA,1
+UNKNOWN,moneygram,KYAMBOGO,2
+UNKNOWN,moneygram,WANDEGEYA,1
+UNKNOWN,moneygram,KAWEMPE,1
+UNKNOWN,moneygram,BULENGA,1
+UNKNOWN,moneygram,NAMAYINGO,1
+UNKNOWN,moneygram,MANAFWA,1
+UNKNOWN,moneygram,ABAYITA ABIBIRI,1
+UNKNOWN,moneygram,SAROTI,1
+UNKNOWN,moneygram,LUGAZI,1
+UNKNOWN,moneygram,ISHASHA,1
+UNKNOWN,moneygram,MOYO,1
+UNKNOWN,moneygram,KARUNGU,1
+UNKNOWN,moneygram,KIGUMA,1
+UNKNOWN,moneygram,MULAGO,1
+UNKNOWN,moneygram,DOKOLO,1
+UNKNOWN,moneygram,KAMPAL,1
+UNKNOWN,moneygram,BBIRA,1
+UNKNOWN,moneygram,BOMBO,1
+UNKNOWN,moneygram,LACOR,1
+UNKNOWN,moneygram,KITIGUM,1
+UNKNOWN,moneygram,AMOLATAR,1
+UNKNOWN,moneygram,GAYAZA,1
+UNKNOWN,moneygram,KAKIRI,1
+UNKNOWN,shell,Busia,1
+UNKNOWN,shell,Tororo,1
+UNKNOWN,shell,Kampala,78
+UNKNOWN,shell,Wakiso,6
+UNKNOWN,shell,Kyengera,1
+UNKNOWN,shell,Sentema,1
+UNKNOWN,shell,Kibuye,1
+UNKNOWN,shell,Mukono,2
+UNKNOWN,shell,Kakiri,1
+UNKNOWN,shell,Lira,3
+UNKNOWN,shell,Gulu,2
+UNKNOWN,shell,Bweyale,1
+UNKNOWN,shell,Soroti,2
+UNKNOWN,shell,Nakasongola,1
+UNKNOWN,shell,Kitgum,1
+UNKNOWN,shell,Migyera,1
+UNKNOWN,shell,Kumi,1
+UNKNOWN,shell,Masindi,1
+UNKNOWN,shell,Maisindi,1
+UNKNOWN,shell,Kamuli,1
+UNKNOWN,shell,Luweero,1
+UNKNOWN,shell,Tirinyi,1
+UNKNOWN,shell,Wobulenzi,1
+UNKNOWN,shell,Adjumani,1
+UNKNOWN,shell,Iganga,1
+UNKNOWN,shell,Kayunga,1
+UNKNOWN,shell,Mbale,5
+UNKNOWN,shell,Hoima,3
+UNKNOWN,shell,Kiboga,1
+UNKNOWN,shell,Nebbi,1
+UNKNOWN,shell,Jinja,5
+UNKNOWN,shell,Kira Town,1
+UNKNOWN,shell,Lugazi,1
+UNKNOWN,shell,Masaka,6
+UNKNOWN,shell,Kalisizo,1
+UNKNOWN,shell,Buwama,1
+UNKNOWN,shell,Lyantonde,1
+UNKNOWN,shell,Mityana,1
+UNKNOWN,shell,Entebbe,2
+UNKNOWN,shell,Mubende,2
+UNKNOWN,shell,Mbarara,6
+UNKNOWN,shell,Kyenjojo,1
+UNKNOWN,shell,Fort Portal,2
+UNKNOWN,shell,Ntungamo,1
+UNKNOWN,shell,Bushenyi,1
+UNKNOWN,shell,Ishaka,1
+UNKNOWN,shell,Ibanda,1
+UNKNOWN,shell,Kasese,2
+UNKNOWN,shell,Katungulu,1
+UNKNOWN,shell,Rukungiri,1
+UNKNOWN,shell,Kabale,2
+UNKNOWN,shell,Kisoro,1
+UNKNOWN,shell,Koboko,1
+UNKNOWN,totalenergies,Excellium (Petrol: 5160 | Diesel: 4360),4
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4390),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5150 | Diesel: 4430),4
+UNKNOWN,totalenergies,Excellium (Petrol: 5150 | Diesel: 4370),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5150 | Diesel: 4350),3
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4370),15
+UNKNOWN,totalenergies,Excellium (Petrol: 5180 | Diesel: 4550),4
+UNKNOWN,totalenergies,Excellium (Petrol: 5180 | Diesel: 4500),7
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4550),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5180 | Diesel: 4540),1
+UNKNOWN,totalenergies,Arua,3
+UNKNOWN,totalenergies,Kampala,66
+UNKNOWN,totalenergies,Tororo,4
+UNKNOWN,totalenergies,Gulu,2
+UNKNOWN,totalenergies,Hoima,2
+UNKNOWN,totalenergies,Igara,1
+UNKNOWN,totalenergies,Kabale,2
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4360),8
+UNKNOWN,totalenergies,Kajjansi,1
+UNKNOWN,totalenergies,Kigumba,1
+UNKNOWN,totalenergies,Kinoni,1
+UNKNOWN,totalenergies,Masaka,4
+UNKNOWN,totalenergies,Jinja,9
+UNKNOWN,totalenergies,Mityana,3
+UNKNOWN,totalenergies,Mubende,1
+UNKNOWN,totalenergies,Mukono,5
+UNKNOWN,totalenergies,Rugombe,1
+UNKNOWN,totalenergies,Rukungiri,2
+UNKNOWN,totalenergies,Soroti,2
+UNKNOWN,totalenergies,Mbale,7
+UNKNOWN,totalenergies,Entebbe Road,2
+UNKNOWN,totalenergies,Fort Portal,2
+UNKNOWN,totalenergies,Iganga,3
+UNKNOWN,totalenergies,Kasese,5
+UNKNOWN,totalenergies,Mbarara,7
+UNKNOWN,totalenergies,Lira,1
+UNKNOWN,totalenergies,Ntungamo,2
+UNKNOWN,totalenergies,Kamwenge,1
+UNKNOWN,totalenergies,Kitgum,2
+UNKNOWN,totalenergies,Pader,1
+UNKNOWN,totalenergies,Bugiri,2
+UNKNOWN,totalenergies,Bombo,1
+UNKNOWN,totalenergies,Kamuli,3
+UNKNOWN,totalenergies,Entebbe,3
+UNKNOWN,totalenergies,Katakwi,1
+UNKNOWN,totalenergies,Lugazi,3
+UNKNOWN,totalenergies,Lyantonde,1
+UNKNOWN,totalenergies,Masindi,3
+UNKNOWN,totalenergies,Nakasongola,2
+UNKNOWN,totalenergies,Adjumani,1
+UNKNOWN,totalenergies,PAKWACH,1
+UNKNOWN,totalenergies,Sironko,1
+UNKNOWN,totalenergies,Ibanda,1
+UNKNOWN,totalenergies,Kisoro,1
+UNKNOWN,totalenergies,Mayuge,1
+UNKNOWN,totalenergies,Nabweru,1
+UNKNOWN,totalenergies,Wakiso,14
+UNKNOWN,totalenergies,Kayunga,2
+UNKNOWN,totalenergies,Pallisa,1
+UNKNOWN,totalenergies,Kiboga,1
+UNKNOWN,totalenergies,Bukedea,1
+UNKNOWN,totalenergies,Muhanga,1
+UNKNOWN,totalenergies,Kyenjojo,1
+UNKNOWN,totalenergies,Kanungu,1
+UNKNOWN,totalenergies,Oyam,1
+UNKNOWN,totalenergies,Kihihi,1
+UNKNOWN,totalenergies,Kotido,1
+UNKNOWN,totalenergies,Bundibugyo,1
+UNKNOWN,totalenergies,Busia,1
+UNKNOWN,totalenergies,Koboko,1
+UNKNOWN,totalenergies,Mpigi,1
+UNKNOWN,totalenergies,Semuto,1
+UNKNOWN,totalenergies,Luweero,1
+UNKNOWN,totalenergies,Rubirizi,1
+UNKNOWN,totalenergies,Bweyale,1
+UNKNOWN,totalenergies,Excellium (Petrol: 5110 | Diesel: 4350),6
+UNKNOWN,totalenergies,Kiruhura,1
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4410),5
+UNKNOWN,totalenergies,KAMPALA,6
+UNKNOWN,totalenergies,unknown,5
+UNKNOWN,totalenergies,WAKISO,1
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4370),3
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4360),3
+UNKNOWN,totalenergies,Excellium (Petrol: 5020 | Diesel: 4360),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4340),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5130 | Diesel: 4350),6
+UNKNOWN,totalenergies,Excellium (Petrol: 5110 | Diesel: 4360),6
+UNKNOWN,totalenergies,Excellium (Petrol: 5150 | Diesel: 4390),8
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4370),3
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4400),5
+UNKNOWN,totalenergies,Excellium (Petrol: 5180 | Diesel: 4530),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4400),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4430),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5110 | Diesel: 4330),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4420),5
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4360),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5150 | Diesel: 4400),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5180 | Diesel: 4520),3
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4310),5
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4430),3
+UNKNOWN,totalenergies,Excellium (Petrol: 5160 | Diesel: 4390),6
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4290),4
+UNKNOWN,totalenergies,Excellium (Petrol: 4600 | Diesel: 4160),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5150 | Diesel: 4440),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5100 | Diesel: 4300),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4290),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4340),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5160 | Diesel: 4460),13
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4450),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4440),3
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4270),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4410),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5060 | Diesel: 4310),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4470),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5130 | Diesel: 4430),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5130 | Diesel: 4360),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4430),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4340),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5110 | Diesel: 4300),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4320),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5150 | Diesel: 4450),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5140 | Diesel: 4300),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5130 | Diesel: 4440),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4390),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5160 | Diesel: 4350),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5160 | Diesel: 4500),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5180 | Diesel: 4470),5
+UNKNOWN,totalenergies,Excellium (Petrol: 5180 | Diesel: 4490),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5170 | Diesel: 4490),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5100 | Diesel: 4400),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4410),2
+UNKNOWN,totalenergies,Excellium (Petrol: 5130 | Diesel: 4310),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5100 | Diesel: 4290),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4300),1
+UNKNOWN,totalenergies,Excellium (Petrol: 5120 | Diesel: 4380),2
+UNKNOWN,visa,KIHIHI,1
+UNKNOWN,visa,KISORO,1
+UNKNOWN,visa,RUKUNGIRI,1
+NOTAPPLICABLE,visa,KABALE,1
+UNKNOWN,visa,BUNDIBUGYO,1
+NOTAPPLICABLE,visa,KASESE,1
+UNKNOWN,visa,ISHAKA,1
+UNKNOWN,visa,BUSHENYI,1
+UNKNOWN,visa,FORTPORTAL,1
+UNKNOWN,visa,NTUNGAMO,1
+NOTAPPLICABLE,visa,FORTPORTAL,1
+UNKNOWN,visa,KABWOHE,1
+UNKNOWN,visa,KABALE,1
+UNKNOWN,visa,IBANDA,1
+NOTAPPLICABLE,visa,MBARARA,2
+UNKNOWN,visa,MBARARA,3
+UNKNOWN,visa,KASESE,1
+UNKNOWN,visa,ARUA,2
+NOTAPPLICABLE,visa,HOIMA,1
+NOTAPPLICABLE,visa,ARUA,1
+UNKNOWN,visa,LYANTONDE,1
+UNKNOWN,visa,NEBBI,1
+UNKNOWN,visa,HOIMA,3
+UNKNOWN,visa,MUBENDE,1
+UNKNOWN,visa,KYOTERA,1
+UNKNOWN,visa,PAKWACH,1
+NOTAPPLICABLE,visa,MASAKA,1
+UNKNOWN,visa,MASAKA,2
+UNKNOWN,visa,MASINDI,1
+NOTAPPLICABLE,visa,MASINDI,1
+UNKNOWN,visa,MOYO,1
+UNKNOWN,visa,ADJUMANI,1
+UNKNOWN,visa,KIBOGA,1
+UNKNOWN,visa,KIGUMBA BRANCH,1
+NOTAPPLICABLE,visa,MUYENGA,1
+UNKNOWN,visa,MITYANA,1
+UNKNOWN,visa,KALANGALA,1
+NOTAPPLICABLE,visa,BWEBAJJA,1
+UNKNOWN,visa,MPIGI,1
+NOTAPPLICABLE,visa,KASANGATI,1
+NOTAPPLICABLE,visa,BUGOLOBI,2
+NOTAPPLICABLE,visa,BULINDO,1
+UNKNOWN,visa,GULU,2
+NOTAPPLICABLE,visa,GULU,1
+UNKNOWN,visa,KAMPALA,81
+UNKNOWN,visa,MUKONO,1
+UNKNOWN,visa,ENTEBBE,2
+UNKNOWN,visa,N/A,1
+UNKNOWN,visa,LUWERO,1
+NOTAPPLICABLE,visa,NANSANA,1
+UNKNOWN,visa,KAWEMPE,1
+NOTAPPLICABLE,visa,MENGO,1
+NOTAPPLICABLE,visa,BUNAMWAYA,1
+NOTAPPLICABLE,visa,NAKULABYE,1
+NOTAPPLICABLE,visa,NDEEBA,1
+NOTAPPLICABLE,visa,KAWEMPE,1
+NOTAPPLICABLE,visa,LUBOWA,1
+NOTAPPLICABLE,visa,KAMPALA,14
+NOTAPPLICABLE,visa,WANDEGEYA,1
+NOTAPPLICABLE,visa,MPERERWE,1
+UNKNOWN,visa,KINYARA BRANCH,1
+UNKNOWN,visa,BWAMIRAMIRA,1
+NOTAPPLICABLE,visa,KAMWOKYA,1
+UNKNOWN,visa,APAC,1
+UNKNOWN,visa,KABALAGALA,1
+NOTAPPLICABLE,visa,KABALAGALA,1
+NOTAPPLICABLE,visa,KANSANGA,1
+NOTAPPLICABLE,visa,NTINDA,1
+NOTAPPLICABLE,visa,NAJJERA,1
+UNKNOWN,visa,BWEYOGERERE,1
+NOTAPPLICABLE,visa,NAALYA,1
+NOTAPPLICABLE,visa,LUZIRA,1
+NOTAPPLICABLE,visa,KIREKA,1
+NOTAPPLICABLE,visa,BWEYOGERERE,1
+NOTAPPLICABLE,visa,MUKONO,1
+NOTAPPLICABLE,visa,LUGAZI,1
+UNKNOWN,visa,LUGAZI,1
+NOTAPPLICABLE,visa,SOROTI,2
+UNKNOWN,visa,LIRA,3
+UNKNOWN,visa,KITGUM,1
+UNKNOWN,visa,KAMULI,1
+UNKNOWN,visa,JINJA,6
+NOTAPPLICABLE,visa,JINJA,1
+UNKNOWN,visa,IGANGA,4
+UNKNOWN,visa,MOROTO,1
+UNKNOWN,visa,SOROTI,1
+UNKNOWN,visa,PALLISA,1
+UNKNOWN,visa,KUMI,1
+UNKNOWN,visa,BUSIA,2
+NOTAPPLICABLE,visa,TORORO,1
+UNKNOWN,visa,MBALE,3
+NOTAPPLICABLE,visa,MBALE,1
+UNKNOWN,visa,KOTIDO,1
+UNKNOWN,visa,TORORO,1
+UNKNOWN,visa,MALABA,1
+UNKNOWN,visa,KAPCHORWA,1
+KAMPALA,western_union,Kampala,291
+WAKISO,western_union,Entebbe,7
+WAKISO,western_union,Kampala,1
+WAKISO,western_union,Wakiso,8
+KOBOKO,western_union,Koboko,1
+YUMBE,western_union,Yumbe,1
+GULU,western_union,Gulu,7
+LIRA,western_union,Lira,6
+ARUA,western_union,Arua,6
+ADJUMANI,western_union,Adjumani,2
+IBANDA,western_union,Ibanda,3
+KABALE,western_union,Kabale,3
+SOROTI,western_union,Soroti,4
+KANUNGU,western_union,Kihihi,1
+AGAGO,western_union,Patongo,1
+BUNDIBUGYO,western_union,Bundibugyo,1
+ZOMBO,western_union,Uganda,1
+MUKONO,western_union,Mukono,8
+BUSHENYI,western_union,Ishaka,4
+MBARARA,western_union,Mbarara,12
+KASESE,western_union,Kasese,1
+NTUNGAMO,western_union,Kampala,1
+RUBIRIZI,western_union,Rubirizi,1
+BULIISA,western_union,Hoima,1
+KABAROLE,western_union,Fortportal,4
+SHEEMA,western_union,Sheema,1
+MUBENDE,western_union,Mubende,1
+KYENJOJO,western_union,Kyenjojo,1
+HOIMA,western_union,Hoima,6
+KISORO,western_union,Kisoro,1
+KAPCHORWA,western_union,Kapchorwa,1
+KAMWENGE,western_union,Kamwenge,1
+OYAM,western_union,Kamdini,1
+AMURU,western_union,Elegu Town,1
+ISINGIRO,western_union,Isingiro,2
+MASINDI,western_union,Kikuube,1
+KITGUM,western_union,Kitgum,1
+KIRYANDONGO,western_union,Kampala,1
+MBALE,western_union,Mbale,9
+ISINGIRO,western_union,Nakivale,1
+MASINDI,western_union,Masindi,2
+TORORO,western_union,Tororo,3
+MBALE,western_union,Mbale Municipality,1
+PALLISA,western_union,Pallisa,2
+WAKISO,western_union,Nansana,2
+MPIGI,western_union,Mpigi,1
+WAKISO,western_union,Gayaza,1
+WAKISO,western_union,Gayaza Zirobwe,1
+KIRUHURA,western_union,Rushere,1
+WAKISO,western_union,Kyengera,1
+AMOLATAR,western_union,Amolator Town Council,1
+KAMPALA,western_union,Bwaise,1
+UNKNOWN,western_union,Kampala,6
+KAMPALA,western_union,Kawempe,1
+DOKOLO,western_union,Dokolo,1
+JINJA,western_union,Jinja,14
+KAYUNGA,western_union,Kayunga,1
+JINJA,western_union,Buwenge,1
+UG,western_union,Nakaseke,1
+LUWERO,western_union,Luwero,2
+IGANGA,western_union,Iganga,3
+KAMPALA,western_union,Kyotera,1
+MASAKA,western_union,Kampala,1
+BUSIA,western_union,Busia,1
+KAMPALA,western_union,Wandegeya,2
+MASAKA,western_union,Masaka,8
+KAMULI,western_union,Kamuli,1
+BUGIRI,western_union,Bugiri,1
+AGAGO,western_union,Kalongo,1
+NAMAYINGO,western_union,Namayingo,1
+SEMBABULE,western_union,Ssembabule,1
+WAKISO,western_union,Nsangi,1
+ABIM,western_union,Abim,1
+LYANTONDE,western_union,Lyantode,1
+PADER,western_union,Pader,1
+KAMPALA,western_union,Ntinda,2
+KAMPALA,western_union,Oasis,1
+KAMPALA,western_union,Lugogo,1
+KAMPALA,western_union,Kansanga,1
+KAMPALA,western_union,Bukoto,1
+COLVILESTREET,western_union,Kampala,1
+KALANGALA,western_union,Kampala,1
+KAMPALA,western_union,Rubaga,1
+KASANGA,western_union,Kampala,1
+KAMPALA,western_union,Entebbe,1
+KAMPALA,western_union,Nkurumah,1
+KAMPALA,western_union,Dawit Teklu Gebrenguse Gebreng,1
+CENTRAL,western_union,Kampala,1
+KAMPALA,western_union,Makindye,1
+KAMPALA,western_union,Kabalagala,1
+KAMPALA,western_union,Ggaba,1
+KAMPALA,western_union,Bugolobi,1
+NTUNGAMO,western_union,Ntungamo,1
+MOROTO,western_union,Moroto,1
+MANAFWA,western_union,Manafwa,1

@@ -1,0 +1,102 @@
+City,Place Name,Zipcode,Name
+unknown,accor,172 rue Hassiba Benbouali ALGIERS ALGERIA 16015 ALGIERS,unknown,Sofitel Algiers Hamma Garden
+unknown,accor,Route de l'université BP 12 Cité 5 juillet Bab Ezzouar 16110 ALGER,unknown,Mercure Alger Aeroport
+unknown,accor,Quartier des Affaires de BabEzzouar BP134 Algeria 16011 16011 ALGIERS,unknown,ibis Algiers Airport
+unknown,accor,2 Square hadj Ali 25000 CONSTANTINE,unknown,ibis Constantine
+unknown,accor,1 Square Hadj Ali 25000 CONSTANTINE,unknown,Novotel Constantine
+unknown,accor,Boulevard El Kiffane Wilaya de Tlemcen 13000 TLEMCEN,unknown,ibis Tlemcen
+unknown,accor,Avenue De Canastel Route Des Falaises 31000 ORAN,unknown,Ibis Oran les Falaises
+unknown,accor,Avenue de l'ALN Sétif Algérie 19000 SETIF,unknown,ibis Setif
+unknown,accor,Avenue De L Aln Setif Centre 19000 SETIF,unknown,Novotel Setif
+unknown,accor,1 Boulevard de la Soummam 31000 ORAN,unknown,Royal Hotel Oran-MGallery
+unknown,accor,11 ROUTE NATIONALE LOTISSEMENT 3 AIN BENIAN 16018 ALGIERS,unknown,Mercure Alger Palais Des Congres
+unknown,accor,Hai Ibn Rochd Nommé Route Des Falaises B.P 7221 31025 ORAN,unknown,Hotel Oran Bay By Accor
+unknown,alstom,Alstom Algeria SPA Coopérative immobilière - El-Amel lots n° 3 et 4  Said Hamdine Bir Mourad Rai BP 47 - 16000 Algiers - Algeria,unknown,Algiers
+"Hussein-Dey, Alger",bmw_group,,unknown,Algerie Motors S.a.r.l.
+Alger,ernst_young,Oriental Business Park Quartier des affaires d’Alger Bab Ezzouar,unknown,EY
+Ain Benian,man_truck_and_bus,,unknown,ENTR. CONSTRUCTION NAVALE
+Alger,man_truck_and_bus,,unknown,Maghreb Truck Company S.p.a. Alger
+senia Oran,man_truck_and_bus,,unknown,Maghreb Truck Company S.P.A. Oran
+Setif,man_truck_and_bus,,unknown,"Maghreb Truck Company S.p.a, Setif"
+Tlemcen,marriott,,unknown,Renaissance Tlemcen Hotel
+Oran,marriott,,unknown,Le Méridien Oran Hotel & Convention Centre
+Algiers,marriott,,unknown,Sheraton Club des Pins Resort
+Constantine,marriott,,unknown,Protea Hotel Constantine
+Annaba,marriott,,unknown,Sheraton Annaba Hotel
+Cheraga,ovs,,unknown,OVS Cheraga Garden City Mall
+Alger,reebok,,unknown,Reebok store - Ardis Center
+BATNA,renault,,unknown,EURL DEL ADAR AUTO
+ALGER,renault,,unknown,SNC PRO SERVICE AUTO NAIMI ET CIE
+TLEMCEN,renault,,unknown,HADDAM AUTMOBILES
+ORAN,renault,,unknown,SARL BENZERGA FRERES
+MASCARA,renault,,unknown,SARL EXPERT AUTOS
+OUARGLA,renault,,unknown,BS AUTO OUARGLA
+RELIZANE,renault,,unknown,SNC MINA AUTOS FRERES BOUDAOUD
+BLIDA,renault,,unknown,SARL BENKIAR AUTO
+HADJOUT,renault,,unknown,SARL GUIDJI AUTOMOBILES
+BOUMERDES,renault,,unknown,SARL GLM AUTO
+KHEMIS MELIANA,renault,,unknown,EURL NEDJMAOUI AUTOS
+JIJEL,renault,,unknown,SNC CHABBI AUTO 05 JUILLET
+CHLEF,renault,,unknown,SARL B FOUR AUTO
+DJELFA,renault,,unknown,SARL SOUHOUB AUTO
+BOUIRA,renault,,unknown,TALEB
+OUM EL BOUAGHI,renault,,unknown,SARL AIN M'LILA AUTO
+SKIKDA,renault,,unknown,KHERRAF NADHIR
+ANNABA,renault,,unknown,EURL OUELD FEDDA
+TIZI OUZOU,renault,,unknown,SARL DBS
+LAGHOUAT,renault,,unknown,OASIS AUTO GUENOU BOUBEKEUR
+EL TARF,renault,,unknown,ZAIDI AUTO
+ADRAR,renault,,unknown,SARL SERVICE GENERAL TOUAT
+SETIF,renault,,unknown,SARL CCN AUTO
+CONSTANTINE,renault,,unknown,SARL ESCALE AUTO
+MOSTAGANEM,renault,,unknown,LAZREUG MOHAMED
+unknown,skoda,,unknown,SOVAC ESSENIA ORAN
+Setif,sunglass_hut_2,Rue du 8 November Sétif Algeria,unknown,Setif Park Mall
+Algiers,sunglass_hut_2,Bab Ezzouar Algeriers,unknown,OCEANO MALL
+Algiers,sunglass_hut_2,Bab Ezzouar Algeria,unknown,BAB EZZOUAR
+Oran,tommy_hilfiger,,unknown,Tommy Hilfiger
+Algiers,tommy_hilfiger,,unknown,Tommy Hilfiger
+ANNABA,united_colors_of_benetton,,unknown,Benetton Annaba
+SETIF,united_colors_of_benetton,,unknown,Benetton Setif
+ORANO,united_colors_of_benetton,,unknown,Benetton Orano
+ALGER,united_colors_of_benetton,,unknown,Benetton Alger
+ADRAR,visa,,unknown,unknown
+BECHAR,visa,,unknown,unknown
+OUARGLA,visa,,unknown,unknown
+GHARDAIA,visa,,unknown,unknown
+LAGHOUAT,visa,,unknown,unknown
+EL OUED,visa,,unknown,unknown
+BLIDA,visa,,unknown,unknown
+DJELFA,visa,,unknown,unknown
+SAIDA,visa,,unknown,unknown
+TLEMCEN,visa,,unknown,unknown
+SIDI BEL ABBES,visa,,unknown,unknown
+BISKRA,visa,,unknown,unknown
+AIN TEMOUCHENT,visa,,unknown,unknown
+MASCARA,visa,,unknown,unknown
+TIARET,visa,,unknown,unknown
+ORAN,visa,,unknown,unknown
+RELIZANE,visa,,unknown,unknown
+MOSTAGANEM,visa,,unknown,unknown
+MSILA,visa,,unknown,unknown
+BATNA,visa,,unknown,unknown
+KHENCHELA,visa,,unknown,unknown
+CHLEF,visa,,unknown,unknown
+TEBESSA,visa,,unknown,unknown
+BORDJ BOU ARRERIDJ,visa,,unknown,unknown
+MEDEA,visa,,unknown,unknown
+SETIF,visa,,unknown,unknown
+AIN MLILA,visa,,unknown,unknown
+BOUIRA,visa,,unknown,unknown
+TIPAZA,visa,,unknown,unknown
+BEJAIA,visa,,unknown,unknown
+AIN DEFLA,visa,,unknown,unknown
+ALGER,visa,,unknown,unknown
+CONSTANTINE,visa,,unknown,unknown
+ALGIERS,visa,,unknown,unknown
+TIZI OUZOU,visa,,unknown,unknown
+BOUMERDES,visa,,unknown,unknown
+GUELMA,visa,,unknown,unknown
+JIJEL,visa,,unknown,unknown
+SKIKDA,visa,,unknown,unknown
+ANNABA,visa,,unknown,unknown

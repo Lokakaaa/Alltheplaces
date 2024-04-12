@@ -1,0 +1,707 @@
+City,Place Name,Zipcode,Name
+East London,audi,35 Wyse Avenue Abbotsford 35 5201 East London,unknown,Audi Centre East London
+Port Elizabeth,audi,Cnr William Moffett Expressway & Mimosa Street 6A 6001 Port Elizabeth,unknown,Audi Centre Port Elizabeth
+King Williams Town,avis,,unknown,Avis South Africa King Williams Town
+Mthatha,baby_city,,unknown,Baby City Mthatha
+Port Elizabeth,baby_city,,unknown,Baby City Moffett Gqeberha
+Gqeberha,bash_za,,unknown,@Home Walmer Park
+UITENHAGE,bash_za,,unknown,SNEAKER FACTORY UITENHAGE CALEDON STREET
+Idutywa,bash_za,,unknown,Markham Idutywa Mall
+East London,bash_za,,unknown,Sportscene Oxford Street
+EAST LONDON,bash_za,,unknown,VOLPES EAST LONDON
+Humansdorp,bash_za,,unknown,Markham Humansdorp
+Cradock,bash_za,,unknown,Markham Cradock
+Grahamstown,bash_za,,unknown,Markham Grahamstown
+Mthatha,bash_za,,unknown,Sportscene - Mthatha Circus Triangle
+PORT ELIZABETH,bash_za,,unknown,VOLPES ONLINE
+Butterworth,bash_za,,unknown,Markham Fingoland Centre Butterworth
+PORT ALFRED,bash_za,,unknown,JET PORT ALFRED - CBD MAIN STREET
+BUTTERWORTH,bash_za,,unknown,SNEAKER FACTORY BUTTERWORTH
+KING WILLIAMS TOWN,bash_za,,unknown,SNEAKER FACTORY KING WILLIAMSTOWN CNR CATHCART & M
+Jeffreys Bay,bash_za,,unknown,Sportscene Jeffreys Bay
+Uitenhage,bash_za,,unknown,Markham Uitenhage
+MTHATHA,bash_za,,unknown,SNEAKER FACTORY SALE CIRCUS TRIANGLE MTHATHA
+Queenstown,bash_za,,unknown,Sportscene Queenstown
+Lusikisiki,bash_za,,unknown,Sportscene Lusikisiki Plaza
+Port Elizabeth,bash_za,,unknown,@Home Livingspace Moffett Retail Park
+King Williamstown,bash_za,,unknown,Sportscene King Williams Town
+FLAGSTAFF,bash_za,,unknown,MARKHAM FLAGSTAFF
+QUEENSTOWN,bash_za,,unknown,RELAY JEANS QUEENSTOWN 1 SHEPSTONE STREET 1
+LUSIKISIKI,bash_za,,unknown,MARKHAM LUSIKISIKI PLAZA
+FORT BEAUFORT,bash_za,,unknown,SNEAKER FACTORY FORT BEAUFORT CAMPBELL STREET
+HUMANSDORP,bash_za,,unknown,EXACT HUMANSDORP PORT ELIZABETH
+DUTYWA,bash_za,,unknown,JET IDUTYWA MALL
+GRAHAMSTOWN,bash_za,,unknown,SNEAKER FACTORY GRAHAMSTOWN CBD HIGH STREET
+KIRKWOOD,bash_za,,unknown,SNEAKER FACTORY KIRKWOOD CNR JOHNSTREET AND MAIN S
+PEDDIE,bash_za,,unknown,SNEAKER FACTORY PEDDIE PLAZA EASTERN CAPE
+MATATIELE,bash_za,,unknown,SNEAKER FACTORY SALE MATATIELE
+UMTATA,bash_za,,unknown,ARCHIVE MTHATHA MALL UMTATA
+MDANTSANE,bash_za,,unknown,SNEAKER FACTORY MDANTSANE CITY
+CRADOCK,bash_za,,unknown,RFO CRADOCK 60-66 ADDERLEY STREET 1
+QUMBU,bash_za,,unknown,JET QUMBU
+MQANDULI,bash_za,,unknown,JET MQANDULI
+JEFFREYS BAY,bash_za,,unknown,TOTALSPORTS FOUNTAINS MALL
+GRAAFF-REINET,bash_za,,unknown,EXACT GRAAFF REINET GRAAFF-REINET
+MIDDELBURG,bash_za,,unknown,SNEAKER FACTORY MIDDELBERG MIDDELBURG
+STERKSPRUIT,bash_za,,unknown,SNEAKER FACTORY STERKSPRUIT PLAZA
+ALIWAL NORTH,bash_za,,unknown,SNEAKER FACTORY ALIWAL NORTH SOMERSET STREET
+MT FLETCHER,bash_za,,unknown,JET MT FLETCHER
+MOUNT AYLIFF,bash_za,,unknown,JET MOUNT AYLIFF
+BURGERSDORP,bash_za,,unknown,SNEAKER FACTORY BURGERSDORP CORNER TAYLOR & CHURCH
+ALICE,bash_za,,unknown,SNEAKER FACTORY ALICE 5
+MACLEAR,bash_za,,unknown,JET MACLEAR
+STUTTERHEIM,bash_za,,unknown,RFO STUTTERHEIM
+SOMERSET EAST,bash_za,,unknown,SNEAKER FACTORY SOMERSET EAST NOJOLI STREET
+LIBODE,bash_za,,unknown,SNEAKER FACTORY LIBODE
+ENGCOBO,bash_za,,unknown,SNEAKER FACTORY ENGCOBO
+BIZANA,bash_za,,unknown,SPORTSCENE BIZANA 2
+NQAMAKWE,bash_za,,unknown,JET NQAMAKWE MAIN ROAD
+IDUTYWA,bash_za,,unknown,RFO IDUTYWA
+ELLIOTDALE,bash_za,,unknown,SPORTSCENE ELLIOTDALE
+MOUNT FRERE,bash_za,,unknown,SPORTSCENE KWABACHA MALL
+GRABOUW,bash_za,,unknown,"SPORTSCENE KEEROM ST, GRABOUW MAXHARRIS"
+East London,blue_bottle_liquors_za,,unknown,Greenfields Blue Bottle Liquors
+Cradock,blue_bottle_liquors_za,,unknown,Adami's Blue Bottle Liquors
+Adelaide,blue_bottle_liquors_za,,unknown,Africa Bottle Store Blue Bottle Liquors
+Aliwal North,blue_bottle_liquors_za,,unknown,Balmoral Blue Bottle Liquors
+Elliot,blue_bottle_liquors_za,,unknown,Bean Tree Blue Bottle Liquors
+Port Elizabeth,blue_bottle_liquors_za,,unknown,Forest Hill Blue Bottle Liquors
+Uitenhage,blue_bottle_liquors_za,,unknown,Calbi's Blue Bottle Liquors XL
+Addo,blue_bottle_liquors_za,,unknown,Gav's Place Blue Bottle Liquors XL Xpress
+Gonubie,blue_bottle_liquors_za,,unknown,Gullsway Blue Bottle Liquors
+Middleburg,blue_bottle_liquors_za,,unknown,H & F Blue Bottle Liquors Express
+Jansenville,blue_bottle_liquors_za,,unknown,Jansenville Blue Bottle Liquors Express
+Kirkwood,blue_bottle_liquors_za,,unknown,Kirkwood Blue Bottle Liquors
+Port Alfred,blue_bottle_liquors_za,,unknown,Kowie Cellars Blue Bottle Liquors Express
+Butterworth,blue_bottle_liquors_za,,unknown,KWA Key Blue Bottle Liquors XL Express
+Bethelsdorp,blue_bottle_liquors_za,,unknown,Les Tavern Blue Bottle Liquors Express
+Aberdeen,blue_bottle_liquors_za,,unknown,Lin Blue Bottle Liquors
+unknown,blue_bottle_liquors_za,,unknown,St Francis Bay Blue Bottle Liquors
+Bedford,blue_bottle_liquors_za,,unknown,Liquorland Bedford Blue Bottle Liquors Express
+Kingwilliamstown,blue_bottle_liquors_za,,unknown,Masonic Hotel Blue Bottle Liquors Express
+Molteno,blue_bottle_liquors_za,,unknown,Molteno Luteng Blue Bottle Liquors Express
+Libode,blue_bottle_liquors_za,,unknown,Parkview Blue Bottle Liquors XL
+Port St Johns,blue_bottle_liquors_za,,unknown,Patch Blue Bottle Liquors XL
+Burgersdorp,blue_bottle_liquors_za,,unknown,Red Win Trading Blue Bottle Liquors Express
+Sidwell,blue_bottle_liquors_za,,unknown,Savannah Liquors 144 Blue Bottle Liquors XL
+Graaff-Reinet,blue_bottle_liquors_za,,unknown,Taxi Rank Blue Bottle Liquors
+Dutywa,blue_bottle_liquors_za,,unknown,Thirsty Elephant Blue Bottle Liquors Express
+Queenstown,blue_bottle_liquors_za,,unknown,Zama Blue Bottle Liquors XL
+Gqeberha,bmw_group,,unknown,BMW Nelson Mandela Bay
+East London,bmw_group,,unknown,BMW East London
+GRAHAMSTOWN,bp,,unknown,Oak Cottage Motors
+PORT ALFRED,bp,,unknown,Highway Motors (Port Alfred)
+COLCHESTER,bp,,unknown,Colchester Motors
+KING WILLIAMS TOWN,bp,,unknown,BP Hitech Motors
+SOMERSET EAST,bp,,unknown,SB Delta
+SWARTKOPS,bp,,unknown,Riverside Service Station
+KWAZAKHELE,bp,,unknown,Knock All Service Station
+PORT ELIZABETH,bp,,unknown,BP Kabega Service Station
+DESPATCH,bp,,unknown,BP Despatch Motors
+SIDWELL,bp,,unknown,Hudson Spence & Son
+NORTH END,bp,,unknown,Showground Motors
+GALVENDALE,bp,,unknown,BP Stanford Road
+WALMER,bp,,unknown,Circular Drive Service Station
+UITENHAGE,bp,,unknown,Kenny's Service Centre
+LORRAINE,bp,,unknown,Lorraine Motors
+HAVENHILL  EAST LONDON,bp,,unknown,Buffalo Pass Motors
+EAST LONDON,bp,,unknown,Gullsway Motors
+JEFFREYS BAY,bp,,unknown,BP Jeffrey's Bay
+BUTTERWORTH,bp,,unknown,Gompo Motors
+INDWE,bp,,unknown,Indwe Filling Station
+UMTATA,bp,,unknown,Norwood BP Centre
+MQANDULI,bp,,unknown,Ntlali Motors
+BERLIN,bp,,unknown,Berlin Garage
+Mount Ayliff,dsv_locker_za,,unknown,DSV Locker - Engen Mount Ayliff
+Uitenhage,dsv_locker_za,,unknown,DSV Locker - Engen Penford Motors
+Greenacres,dsv_locker_za,,unknown,DSV Locker - Engen William Moffatt Petro Park
+Wavecrest,dsv_locker_za,,unknown,DSV Locker - Engen Wavecrest Convenience Centre
+South End,dsv_locker_za,,unknown,DSV Locker - Engen Beachway Auto Centre
+Schoenmakerskop,dsv_locker_za,,unknown,DSV Locker - Engen Aerofill Convenience Centre
+Newton Park,dsv_locker_za,,unknown,DSV Locker - Engen Cape Road Convenience Centre
+King Williams Town,dsv_locker_za,,unknown,DSV Locker - Engen Buffalo River 1 Stop
+Greenfields,dsv_locker_za,,unknown,DSV Locker - Engen Settlers Way
+Beacon Bay,dsv_locker_za,,unknown,DSV Locker - Engen Bonza Bay Convenience Centre
+Kirkwood,dsv_locker_za,,unknown,DSV Locker - Spar Dagbreek
+Algoa Park,dsv_locker_za,,unknown,DSV Locker - Engen Millennium Convenience Centre
+Humansdorp,dsv_locker_za,,unknown,DSV Locker - Engen Sherwoods
+Mount Pleasant,dsv_locker_za,,unknown,DSV Locker - Engen Mount Pleasant Motors
+Mthatha,dsv_locker_za,,unknown,DSV Locker - Engen Ikhwezi Convenience Centre
+Lusikisiki,dsv_locker_za,,unknown,DSV Locker - Engen Lusikisiki
+Queenstown,dsv_locker_za,,unknown,DSV Locker - Engen Queens CC
+Aliwal North,footgear_za,Cnr Sommerset & Grey Streets,unknown,Footgear Aliwal North
+Port Elizabeth,footgear_za,Walker Drive,unknown,Footgear Baywest Mall
+Port Elizabeth,footgear_za,Shop No 28 Pe Kinako Mall,unknown,Footgear Pe Kinako Mall
+Port Elizabeth,footgear_za,Ring Rd Shop 87 - 9,unknown,Footgear The Bridge PE
+Port Elizabeth,footgear_za,Old Cape Rd Newton Park,unknown,Footgear Greenacres (PE)
+Port Elizabeth,footgear_za,68-72 Govan Mbeki Avenue,unknown,Footgear Port Elizabeth CBD
+Grahamstown,footgear_za,3-5a Market Square,unknown,Footgear Grahamstown
+Umtata,footgear_za,Shop 4 Circus Triangle Shopping Centre,unknown,Footgear Umtata
+Eastern Cape,footgear_za,Shop 52 Metlife Mall,unknown,Footgear King Williams Town
+Lusikisiki,footgear_za,Shop 22/23 Lusikisiki Plaza,unknown,Footgear Lusikisiki Plaza
+East London,footgear_za,Shop No G28,unknown,Footgear Hemingways
+East London,footgear_za,Bowls Rd shop 1 Jumbo Arcadia,unknown,Footgear East London
+East London,footgear_za,Cnr Gillwell and Fleet Street,unknown,Footgear Gillwell Taxi Shopping Centre
+PORT ELIZABETH,g_star_raw,,unknown,G-Star RAW Baywest
+GQEBERHA,g_star_raw,,unknown,G-Star RAW Greenacres
+MTHATHA,g_star_raw,,unknown,G-Star RAW Mthatha BT Ngebs
+Port Elizabeth,hm,,unknown,Walmer park
+East London,hm,,unknown,Vincent Park
+Nelson Mandela Bay Metropolitan Municipality,hooters,53 Heugh Road Port Elizabeth 6070 South Africa,unknown,Hooters
+Port Elizabeth,liquorshop_za,Sixth Avenue Shopping Centre Sixth Avenue Walmer,unknown,Checkers LiquorShop 6th Avenue
+Port Elizabeth,liquorshop_za,Baywest Mall Walker Drive Turnoff - N2 Hunter's Retreat,unknown,Checkers LiquorShop Bay West
+Grahamstown,liquorshop_za,109 High Street Carlton Centre,unknown,Checkers LiquorShop Grahamstown
+Port Elizabeth,liquorshop_za,Greenacres  Centre Cnr Ring & La Rochelle Rd Greenacres,unknown,Checkers LiquorShop Green Acres
+East London,liquorshop_za,Cnr Western Avenue and Two Rivers Drive,unknown,Checkers LiquorShop Hemingways Mall
+Jeffreys Bay,liquorshop_za,124 Da Gama Street,unknown,Checkers LiquorShop Jeffrey's Bay
+Jeffreys Bay,liquorshop_za,Checkers J-bay Mall 59 Francis Street,unknown,Checkers LiquorShop Jeffrey's Bay Mall
+Port Elizabeth,liquorshop_za,Verdun Road Lorraine Port Elizabeth Lorraine,unknown,Checkers LiquorShop Lorraine
+King William's Town,liquorshop_za,Cnr Smith and Cross Streets,unknown,Checkers LiquorShop Metlife Mall
+Port Elizabeth,liquorshop_za,Metlife Plaza Kabega Road Kabega Park,unknown,Checkers LiquorShop Metlife Plaza
+Port Elizabeth,liquorshop_za,Moffett On Main Lifestyle Centre 109 17th Avenue Charlo,unknown,Checkers LiquorShop Moffett-on-main
+Umtata,liquorshop_za,Plaza Shopping Centre 35 Nelson Mandela Drive,unknown,Checkers LiquorShop Mthatha
+East London,liquorshop_za,Nahoon View Centre Old Transkei Road Nahoon,unknown,Checkers LiquorShop Nahoon
+Port Elizabeth,liquorshop_za,Cnr 6th Avenue and Cape Road Newton Park,unknown,Checkers LiquorShop Newton Park
+Umtata,liquorshop_za,33 Errol Spring Ave,unknown,Checkers LiquorShop Ngebs City
+East London,liquorshop_za,26 Balfour Road Vincent,unknown,Checkers LiquorShop Vincent
+East London,nandos_za,,unknown,Nando's Vincent Park
+Gqeberha,nandos_za,,unknown,Nando's Walmer Drive Thru
+Qonce,nandos_za,,unknown,Nando's King William's Town
+Mthatha,nandos_za,,unknown,Nando's Mthatha
+Queenstown,nandos_za,,unknown,Nando's Queenstown
+Port Elizabeth,nandos_za,,unknown,Nando's Summerstrand
+Humansdorp,nissan_europe,,unknown,Algoa Nissan
+East London,nissan_europe,,unknown,Automall
+Aliwal North,nissan_europe,,unknown,Dampier Nissan
+King William's Town,nissan_europe,,unknown,Datnis Nissan
+Uitenhage,nissan_europe,,unknown,Group 1 Nissan Uitenhage
+Queenstown,nissan_europe,,unknown,MMG Nissan Queenstown
+Mthatha,nissan_europe,,unknown,Mthatha Nissan
+Port Elizabeth,nissan_europe,,unknown,Nissan Eastern Cape
+Port Elizabeth,selfast_za,VSN CENTRE Port Elizabeth 116 Govan Mbeki Avenue Port Elizabeth Eastern Cape,unknown,Port Elizabeth
+Mthata,selfast_za,Shop 099 BT Ngebs City,unknown,Mthata
+King Williams Town,selfast_za,11 Smith StreetShop 33B Boxer Building,unknown,King Williams Town
+"East London,",selfast_za,Shop UG 25 Upper Ground Level Gillwell Shopping Centre Corner Gillwell Road and Fleet Street East London Eastern Cape,unknown,East London
+GRAHAMSTOWN,shell,,unknown,SETTLER CITY MOTORS
+KING WILLIAMS TOWN,shell,,unknown,KING SERVICE STATION
+BISHO,shell,,unknown,BISHO MOTORS
+MOTHERWELL,shell,,unknown,MOTHERWELL SERVICE STATION
+NEW BRIGHTON PE,shell,,unknown,STRUANWAY SERVICE STATION
+SIDWELL PE,shell,,unknown,DIXIE MOTORS
+NORTH END PE,shell,,unknown,JD MOTORS
+SOUTH END PE,shell,,unknown,TRIANGLE SERVICE STATION
+Port Elizabeth,shell,,unknown,ABOOS SERVICE STATION
+NEWTON PARK,shell,,unknown,HIGHWAY SERVICE STATION
+WALMER PE,shell,,unknown,AIRPORT MOTORS
+BETHALSDORP,shell,,unknown,BETHELSDORP SERVICE STATION
+SUNRIDGE PARK PE,shell,,unknown,SUNRIDGE SERVICE STATION
+UITENHAGE,shell,,unknown,LE-VAN SERVICE CENTRE
+KABEGA PARK,shell,,unknown,KABEGA PARK MOTORS
+KWANOBUHLE,shell,,unknown,KWANOBUHLE SERVICE STATION
+"EAST LONDON ,BUFFALO CITY",shell,,unknown,FORT JACKSON SERVICE STATION
+KRAGGA KAMMA,shell,,unknown,KAMMARIDGE MOTORS
+PORT ELIZABETH,shell,,unknown,THE WINDFARM
+MDANTSANE EAST LONDON,shell,,unknown,MZANSI MOTORS
+MDANTSANE,shell,,unknown,VXL MOTORS
+GREENFIELDS EL,shell,,unknown,GRAND PRIX MOTORS.
+AMALINDA,shell,,unknown,AUTO CARE MOTORS
+CAMBRIDGE EL,shell,,unknown,CAMBRIDGE MOTORS
+STIRLING EL,shell,,unknown,STIRLING MOTORS
+GONUBIE,shell,,unknown,GONUBIE MOTORS
+CRADOCK,shell,,unknown,CRADOCK SERVICE STATION
+QUEENSTOWN,shell,,unknown,UC QUEENSTOWN
+KEI BRIDGE,shell,,unknown,UC KEI BRIDGE
+JEFFREYS BAY,shell,,unknown,FOUNTAINS SHELL
+TSOMO,shell,,unknown,MONDES MOTORS
+NORWOOD MTHATHA,shell,,unknown,UC BUTTERWORTH
+MTHATHA,shell,,unknown,GROSVENOR SERVICE STATION
+ALIWAL NORTH,shell,,unknown,ORANJE DIENSSENTRUM
+PORT ST JOHNS,shell,,unknown,MZIMVUBU MOTORS.
+Gqeberha,the_courier_guy,274 Cape Road Newton Park Port Elizabeth,unknown,Port Elizabeth Newton Park
+unknown,the_courier_guy,Cnr R72 & Buffalo pass road  Cove Ridge East London  5201 ,unknown,East London Depot
+East London,the_courier_guy,19 Chamberlain Road Berea East London,unknown,East London Berea
+Middelburg,the_courier_guy,7 Mark StreetMiddelburg EC 5900,unknown,Middelburg EC
+Gqeberha,the_courier_guy,Fig Tree Retail Centre DevelopmentCorner Springfield Road and William Moffett Expressway Springfield Port Elizabeth,unknown,Walmer
+East London,the_courier_guy,Unit 14th Avenue Hub Cnr 4th Avenue and Main Road Gonubie East London 5201,unknown,Gonubie
+East London,the_courier_guy,Shop 3A18 Bowls RoadArcadiaEast London,unknown,Arcadia - East London
+Stutterheim,the_courier_guy,39-41 Hill Street Store 1 Stutterheim,unknown,Stutterheim
+Queenstown,the_courier_guy,1283 Komani Street Lukhanji Retail Park Shop 8 Queenstown,unknown,Queenstown
+Port Alfred,the_courier_guy,55 Masonic St Port Alfred 6170,unknown,Port Alfred
+Mthatha,the_courier_guy,40 York Street City Centre Mall Shop 6 Mthatha,unknown,Mthatha
+Jeffreys Bay,the_courier_guy,30 Da Gama Rd Jeffreys Bay 6330,unknown,Jeffreys Bay
+Makhanda,the_courier_guy,Shop 3 28C New St Grahamstown 6139,unknown,Grahamstown
+Graaff-Reinet,the_courier_guy,3 Scholtz Street Erf 4271 Graaff Reinet,unknown,Graaff Reinet
+Fort Beaufort,the_courier_guy,Shop 21 The Grove Plaza Fort Beaufort,unknown,Fort Beaufort [EC]
+Cradock,the_courier_guy,5 Hoog Street Tams Complex Shop 3 Cradock,unknown,Cradock
+Aliwal North,the_courier_guy,CNR Grey and Olivier drive Aliwal North 9750,unknown,Aliwal North
+Alice,the_courier_guy,Unit 6 1 Mac Nab drive Alice,unknown,Alice
+East London,the_courier_guy,19 Chamberlain Road BereaEast London 5201,unknown,East London
+Gqeberha,the_courier_guy,Wells Estate Gqeberha 6211,unknown,Port Elizabeth
+Joe Gqabi District Municipality,the_courier_guy,Cnr Grey and Olivier Drive Aliwal North,unknown,The Courier Guy Aliwal North
+Buffalo City Metropolitan Municipality,the_courier_guy,19 Chamberlain RdBerea East London,unknown,The Courier Guy East London
+Cacadu District Municipality,the_courier_guy,Shop 3 28C New Street Grahamstown,unknown,The Courier Guy Grahamstown
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,59 Amatye Road Coega Port Elizabeth,unknown,The Courier Guy Port Elizabeth
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Baywest Boulevard Hunters Retreat Next to Game Store,unknown,Baywest Mall
+Cacadu District Municipality,the_courier_guy,R72 Port AlfredEntrance by Woolworths,unknown,Rosehill Mall
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Main Rd WalmerEntrance 1 close to PnP liquor,unknown,Walmer Park Shopping Centre
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Cnr Strandfontein Rd & 2nd Ave Summerstrand ,unknown,Sasol Summerstrand
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Mezzanine Floor Ring RoadUnderground parkingEntrance 1,unknown,Greenacres Shopping Centre
+Chris Hani District Municipality,the_courier_guy,Meintjies Street,unknown,Sasol Volkstud Motors
+Cacadu District Municipality,the_courier_guy,1322 Voortrekker St Alexandria outside against the wall,unknown,Caltex Alexandria
+Buffalo City Metropolitan Municipality,the_courier_guy,Union Ave Selborne East London outside on the grass area,unknown,Sasol Chiselhurst
+Cacadu District Municipality,the_courier_guy,30 Da Gama Str Jeffreys Bay ,unknown,The Courier Guy Jeffreys Bay
+Cacadu District Municipality,the_courier_guy,Cnr Beaufort & West StreetsOutside next to ABSA ATM,unknown,Market Square Grahamstown
+Cacadu District Municipality,the_courier_guy,St Francis Street Jeffreys BaLocated outside of Liquor City,unknown,Equinox Mall
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy, William Moffett Expy FairvieLocated next to Nedbank ATM,unknown,Moffett Retail Park
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,1 Buffelsfontein RdGreenshields Parkon the grass area,unknown,Sasol Buffelsfontein
+Chris Hani District Municipality,the_courier_guy,8698 Victoria Rd QueenstownLocated close to the toilets,unknown,Nonesi Mall
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Figtree Retail ParkWilliam Moffett Expy ,unknown,Sasol Fig Tree
+Buffalo City Metropolitan Municipality,the_courier_guy,Main Road GonubieLocated outside of The Laundry,unknown,Gonubie Mall
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,80 Stanford Rd KorstenPort Elizabethright side of garage,unknown,Sasol Stanford Road
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Cnr Nzunga St & Dibanisa RdMotherwellon the grass area,unknown,Sasol Motherwell
+Buffalo City Metropolitan Municipality,the_courier_guy,10 Morris Rd AbbotsfordEast Londonon the Island next to shop,unknown,Sasol Abbotsford
+Buffalo City Metropolitan Municipality,the_courier_guy,Palm Spring RoadKidd's BeachOutside DIY Depot,unknown,Kidds Beach Retail Centre
+Chris Hani District Municipality,the_courier_guy,Shop 8 Lukhanji Retail Park1283 Komani Street,unknown,The Courier Guy Queenstown
+Buffalo City Metropolitan Municipality,the_courier_guy,Cnr R72 & Buffalo Pass RdCove RidgeEast London,unknown,The Courier Guy East London Depot
+OR Tambo District Municipality,the_courier_guy,40 york street City Centre MShop 6 Umtata,unknown,The Courier Guy Mthatha
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Corner of Walker Drive and Kabega Rd Kamma RidgeOutside Entrance1-Crazy Store ,unknown,Walker Drive Shopping Centre
+Buffalo City Metropolitan Municipality,the_courier_guy,Qumza Hwy Mdantsane MallMdantsaneInside next to the absa atm,unknown,Sasol Mdantsane
+Buffalo City Metropolitan Municipality,the_courier_guy,Corner Gillwell and Fleet StrEast Londonagainst the wall by the lifts,unknown,Gillwell Taxi Retail Park
+Chris Hani District Municipality,the_courier_guy,7 Mark Street Middelburg,unknown,The Courier Guy Middelburg (Eastern Cape)
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Cnr Uitenhage Rd &Makhwenkw KwadesiOutside next to Nedbank ATM,unknown,Ziyabuya Shopping Centre
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,274 Cape roadNewton Park,unknown,The Courier Guy Port Elizabeth Kiosk
+Joe Gqabi District Municipality,the_courier_guy,Sterkspruit Plaza Umlami RoadNext to Nedbank ATM,unknown,Sterkspruit Plaza
+Chris Hani District Municipality,the_courier_guy,Tams Complex5 Hoog Str  Shop 3,unknown,The Courier Guy Cradock
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,148 Ocean View DriveBlue Horizon BayOutside Store,unknown,Horizon Mini Market
+Cacadu District Municipality,the_courier_guy,Bridge St JansenvilleNext to ABSA ATM,unknown,Noorsveld Farm
+Cacadu District Municipality,the_courier_guy,3 Scholtz Street,unknown,The Courier Guy Graaff Reinet
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Corner of Darling and Jetty StColechesterBy Guardhouse,unknown,Kwikspar Colchester
+Buffalo City Metropolitan Municipality,the_courier_guy,Bonza Bay Rd Beacon Bay NorthNext to Sportsman Warehouse,unknown,Beacon Bay Retail Park
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,76 Botha St BothasrusOutside Shop,unknown,OK Minimark Despatch
+Cacadu District Municipality,the_courier_guy,1 JBay Surf Village4 Da Gama RdAgainst Pink Wall,unknown,Jeffreys Bay Surf Village
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,8th Avenue & Marine DriveAt Entrance,unknown,Summerstrand Village Shopping Centre
+Amathole District Municipality,the_courier_guy,Shop 21 The Grove PlazaFort Beaufort,unknown,The Courier Guy Fort Beaufort 
+Cacadu District Municipality,the_courier_guy,11 Market SquareGraaff-Reinetagainst the wall by entrance,unknown,Bothas Garage
+Amathole District Municipality,the_courier_guy,8 Donkin StBedfordInside at Entrance,unknown,Spar Bedford
+Amathole District Municipality,the_courier_guy,44 Hill StreetStutterheimInside at Entrance,unknown,Hill Street Supermarket
+Buffalo City Metropolitan Municipality,the_courier_guy,Cnr Smith & Cross StQonceAt the entrance ,unknown,The Mall King Williams Town
+Cacadu District Municipality,the_courier_guy,57 Knysna St WillowmoreInside next to ATM,unknown,Saverite Willowmore
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Sanlam Centre 4th AveNewton Park GqeberhaWall by Standard Bank ATM,unknown,Pick n Pay 4th Avenue
+Cacadu District Municipality,the_courier_guy,8 Main Rd AddoKirkwoodOutside Entrance,unknown,Spar Dagbreek
+Chris Hani District Municipality,the_courier_guy,2 J.A. Calata StreetCradockInside next to ATM,unknown,Spar Cradock
+Cacadu District Municipality,the_courier_guy,53/55 Masonic StrErf 4773 Shop 6Port Alfred,unknown,The Courier Guy Port Alfred
+Joe Gqabi District Municipality,the_courier_guy,Cnr Murray & Joubert StreetLady Greyoutside against the wall,unknown,OVK Lady Grey
+Cacadu District Municipality,the_courier_guy,Voortrekker St AberdeenOutside Entrance,unknown,Vroutjie se Koutjie
+Cacadu District Municipality,the_courier_guy, 58 Wehnmeyer StreetWillowmoreOutside Shop,unknown,OVK Willowmore
+Chris Hani District Municipality,the_courier_guy,10 Grey Street TarkastadOutside Shop,unknown,OVK Tarkastad
+Joe Gqabi District Municipality,the_courier_guy,1848 N6 SmithfieldOutside Shop,unknown,OVK Smithfield
+Chris Hani District Municipality,the_courier_guy,87 Adderley St CradockOutside Shop,unknown,OVK Cradock
+Amathole District Municipality,the_courier_guy,Unit 6 1 Mac Nab DrAlice,unknown,The Courier Guy Alice
+Joe Gqabi District Municipality,the_courier_guy, 3 Church St BurgersdorpOutside Shop,unknown,OVK Burgersdorp
+Cacadu District Municipality,the_courier_guy,339 Kerk St JoubertinaOutside next to ATM,unknown,Royal Joubertina
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Cnr Hawthorne Ave &Cape Rd FramesbyGqeberha Outside next to Shop,unknown,Sasol Cape Road
+Chris Hani District Municipality,the_courier_guy,JamestownOutside Shop,unknown,OVK Jamestown
+Chris Hani District Municipality,the_courier_guy,57 Smith Street MoltenoOutside Shop,unknown,OVK Molteno
+Joe Gqabi District Municipality,the_courier_guy,53 Somerset St Aliwal North,unknown,OVK Aliwal North
+Chris Hani District Municipality,the_courier_guy,6 Robinson St CathcartOutside Entrance,unknown,S & J Enterprises
+Joe Gqabi District Municipality,the_courier_guy,Cnr Powrie & Copeland StrBarkly East,unknown,OVK Barkly East
+Chris Hani District Municipality,the_courier_guy,32 Murray St Middelburg - EcOutside Shop,unknown,OVK Middelburg EC
+Chris Hani District Municipality,the_courier_guy,Royal Hotel ComplexTsomo Road CalaOutside by Trolley Bay,unknown,Spar Cala
+Joe Gqabi District Municipality,the_courier_guy,14 Main Street UgieInside by the entrance ,unknown,Spar Ugie
+Chris Hani District Municipality,the_courier_guy,23 Main Road Lady FrereInside by the ATM's,unknown,Spar Lady Frere
+Joe Gqabi District Municipality,the_courier_guy,4 Van Riebeeck Street MaclearOutside Shop,unknown,Build it Maclear
+Chris Hani District Municipality,the_courier_guy,Central Garage 1 Voortrekker Str HofmeyerOutside Shop,unknown,OVK Hofmeyer
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,28 Cuyler St UitenhageKariegaOutside Shop,unknown,OK Minimark Cuyler Str
+Amathole District Municipality,the_courier_guy,39 - 41 Hill StreetStore 1 Stutterheim,unknown,The Courier Guy Stutterheim
+Cacadu District Municipality,the_courier_guy,4 2nd Ave RiverbendBoesmansriviermondOutside against the wall,unknown,Build It Bushmans
+Cacadu District Municipality,the_courier_guy,Shop 3 Coastal Arcade Kenton-on-SeaOutside the entrance ,unknown,Coastal Arcade Kenton on Sea
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,41 Ntshekisa Rd New Brighton 1 GqeberhaOutside next to FNB ATM,unknown,Caltex Ntande
+Cacadu District Municipality,the_courier_guy,R67 Pussyfoot Ln BathurstOutside Shop,unknown,Bathurst Butchery
+Buffalo City Metropolitan Municipality,the_courier_guy,Cnr Amalinda Main and Kelly StAmalindaNext to liquor store ,unknown,Amalinda Square
+Amathole District Municipality,the_courier_guy,45 Main St Kei MouthOutside Shop,unknown,Savemor Kei Mouth
+Amathole District Municipality,the_courier_guy,Farm318 mooiplaasOutside Shop,unknown,Savemor Mooiplaas
+Cacadu District Municipality,the_courier_guy,Fred Ferreira RoadPatensie,unknown,Foodzone Patensie
+Chris Hani District Municipality,the_courier_guy,30 Maclear Rd ElliotOutside Shop,unknown,OVK Elliot
+Cacadu District Municipality,the_courier_guy,79 Nojoli St Somerset EastOutside Shop,unknown,SB Motors Somerset East
+Chris Hani District Municipality,the_courier_guy,37 Fletcher St IndweInside Spar,unknown,Spar Indwe
+Joe Gqabi District Municipality,the_courier_guy,1 Msasa Road VenterstadOutside Shop,unknown,Oviston General
+Amathole District Municipality,the_courier_guy,185 Main Street KeiskammahoekOutside shop ,unknown,Madala Hardware
+Cacadu District Municipality,the_courier_guy,R329 7 Piet Retief StSteytlervilleOutside Entrance,unknown,Cest La Vie
+Chris Hani District Municipality,the_courier_guy, 12 Coetzee Street SteynsburgOutside Entrance,unknown,OVK Steynsburg
+Amathole District Municipality,the_courier_guy,Main Street WillowvaleOutside shop entrance,unknown,Sibuyile Home and Hardware
+Amathole District Municipality,the_courier_guy,20 Main Street NqamakweInside at Entrance,unknown,Spar Ngqamakhwe
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Cnr R334 & Elands River RdRocklands KariegaOutside Entrance,unknown,Uncle Freddies
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,66 Grahamstown RdDeal PartyOutside Entrance,unknown,Spar Swartkops
+Cacadu District Municipality,the_courier_guy,317 Martin St Nieu-Bethesda Outside behind the building ,unknown,The Village Inn
+Cacadu District Municipality,the_courier_guy,606 Daniel Scheepers St Boknes Strand Alexandria(Tues/Fri collection),unknown,Strand Supermarket
+Buffalo City Metropolitan Municipality,the_courier_guy, 51 Jan Smuts Ave GreenfieldsEast LondonNext to PEP,unknown,Settlers Square
+Cacadu District Municipality,the_courier_guy,12 Palm Ave Paradise BeachJeffreys BayOutside Shop,unknown,Paradise Supermarket
+Cacadu District Municipality,the_courier_guy,64 Main St HumansdorpOutside Shop,unknown,Ozzies General Store
+Amathole District Municipality,the_courier_guy,19 Market Square AdelaideInside next to the  fridges ,unknown,Caltex Dewing Service Station
+Amathole District Municipality,the_courier_guy,44 Bell StKentaniInside at Entrance,unknown,Build It Siyavuma
+Cacadu District Municipality,the_courier_guy,R342 SandflatsPatersonOutside Shop,unknown,Addo Brauhaus Paterson
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Haworthia Dr Malabar GqeberhaOutside shop entrance,unknown,Engen Malabar
+Chris Hani District Municipality,the_courier_guy,1 High StNgcoboOutside against the side wall,unknown,Build It Engcobo
+Cacadu District Municipality,the_courier_guy,102 Oester AveOyster BayOutside Entrance,unknown,Die Windmeul Oyster Bay  
+Amathole District Municipality,the_courier_guy,Evelyn StIdutywaInside at Entrance,unknown,Spargs Superspar Dutywa
+OR Tambo District Municipality,the_courier_guy,15 Sprigg StUmtata CentralMthathaInside at Entrance,unknown,Superspar Spargs Sprigg
+Alfred Nzo District Municipality,the_courier_guy,184 Main StMount FrereInside at Entrance,unknown,Spargs Superspar Mount Frere
+OR Tambo District Municipality,the_courier_guy, 57 Nomandela DrLibode Outside against the wall,unknown,Spargs Superspar Libode
+OR Tambo District Municipality,the_courier_guy,Main St  QumbuOutside against the side wall,unknown,Spargs Spar Qumbu
+Amathole District Municipality,the_courier_guy,ButterworthOutside Entrance,unknown,Spargs Superspar Butterworth
+Cacadu District Municipality,the_courier_guy,Port Alfred AerodromeBathurst StreetOutside Shop,unknown,43 Air School
+Chris Hani District Municipality,the_courier_guy,33 Grey St Chris HaniDordrechtInfront against the wall ,unknown,Universal Garage Dordrecht
+Cacadu District Municipality,the_courier_guy,CacaduOutside Shop Entrance ,unknown,Gently Worn 
+Cacadu District Municipality,the_courier_guy,16 Riebeeck St KareedouwNext to the FNB ATM,unknown,Total Expressmark Kareedouw
+Cacadu District Municipality,the_courier_guy,36 Leeb Street MurraysburgBeaufort WestOutside against the wall,unknown,KVB Murraysburg
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Cnr Springfield Rd & William Moffet Expressway Fig Tree Retail Centre Dev,unknown,The Courier Guy Walmer
+Cacadu District Municipality,the_courier_guy,426 Voortrekker StPearston Outside Entrance,unknown,Pearston Post Office
+OR Tambo District Municipality,the_courier_guy,R61 Main StreetLusikisikiWall by PEP ,unknown,Lusiki Plaza
+Buffalo City Metropolitan Municipality,the_courier_guy,Shop 3A 18 Bowls RdArcadia,unknown,The Courier Guy Arcadia
+OR Tambo District Municipality,the_courier_guy,District 5080 Zithulele Mqanduli,unknown,Jabulani Rural Health Foundation
+OR Tambo District Municipality,the_courier_guy,Flagstaff SquareFlagstaff Township Flagstaff,unknown,Flagstaff Square
+Buffalo City Metropolitan Municipality,the_courier_guy,Unit 1 4th Ave HubCnr 4th Ave & Main Rd,unknown,The Courier Guy Gonubie
+Cacadu District Municipality,the_courier_guy,Rautenbach RoadIndustrial AreaGrahamstown,unknown,The Courier Guy Grahamstown Warehouse
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy, 559 Govan Mbeki St North End Gqeberha,unknown,Mount Road Pharmacy
+Cacadu District Municipality,the_courier_guy,1 HighwayGolden Valley ,unknown,OK Foods Golden Valley
+Cacadu District Municipality,the_courier_guy,Fynbos Ave Stormsriver VillageStorms River VillageStormsrivier,unknown,Art for All Gallery
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Cape Rd Greenbushes AHEastern Cape,unknown,Caltex Greenbushes 
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Rds Cnr. Doorly &Cows Corner Colleen Glen AHGqeberha,unknown,Colleen Glen Service Station
+Cacadu District Municipality,the_courier_guy,R335 Addo,unknown,Addo Square
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Unit 2 172 Circular DrLorraine Gqeberha,unknown,Coastal Aquariums & Pet Supplies
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,48 Mosel Rd UitenhageUitenhage,unknown,Ok Minimark Mosel
+Buffalo City Metropolitan Municipality,the_courier_guy,1 Loerie Ln Gonubie NorthEast London,unknown,Kwikspar Riverbend
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Marine DriveSummerstrandGqeberha,unknown,Boardwalk Mall
+Alfred Nzo District Municipality,the_courier_guy,37 Hope St Bizana,unknown,Bizana Walk Shopping Centre
+Nelson Mandela Bay Metropolitan Municipality,the_courier_guy,Verdun Rd LorraineGqeberha,unknown,Kamma Crossing Centre
+Port Elizabeth,tops_at_spar,31 St Leonards Road Algoa Park Port Elizabeth,unknown,Algoa Foods
+Port Elizabeth,tops_at_spar,Cnr Dyke & St Leonard Road Algoa Park Port Elizabeth,unknown,Algoa Park Tops
+Aliwal North,tops_at_spar,Corner Grey & Olivier Street Aliwal North,unknown,Aliwal North Tops (Dc)
+East London,tops_at_spar,41 Main Road Amalinda East London,unknown,Amalinda 2
+East London,tops_at_spar,77 Main Road Amalinda East London,unknown,Amalinda Tops
+Port Elizabeth,tops_at_spar,Cnr Heathcote & Helicon Roads Heath Park Port Elizabeth,unknown,Aspen
+Bizana,tops_at_spar,Lot 162 Thompson Avenue Bizana Bizana Bizana,unknown,Bizana Tops
+Port Elizabeth,tops_at_spar,N2 City Shopping Centre 1 Hillcrest Drive Bluewater Bay Port Elizabeth,unknown,Bluewater Bay  Tops
+New Brighton,tops_at_spar,Cnr Ferguson & Siya Kulati Streets New Brighton New Brighton,unknown,Brighton Tops
+East London,tops_at_spar,Douglas Smith Highway Buffalo Flats East London,unknown,Buffalo Tops
+Port Elizabeth,tops_at_spar,Cnr Burt Drive & Thrush Street Cotswold Port Elizabeth,unknown,Burt Drive Tops
+Butterworth,tops_at_spar,Corner Fuller & Carnage Streets Butterworth,unknown,Butterworth Tops
+Butterworth,tops_at_spar,21 Umtata Road Butterworth,unknown,Butterworth Tops (Dc)
+Transkei,tops_at_spar,Tsomo Street Cala Transkei,unknown,Cala Tops
+East London,tops_at_spar,18 Garcia Street Cambridge East London,unknown,Cambridge Tops (Dc)
+East London,tops_at_spar,68 Griffin Road Cambridge West East London,unknown,Cambridge West Tops (Dc)
+Kentani,tops_at_spar,Centane Village Shopping Complex Bell Street Kentani Kentani,unknown,Centane Tops (Dc)
+Mthatha,tops_at_spar,Shop 2 - Jwacu Gadi Centre 30 Elliot Street Mthatha Mthatha Mthatha,unknown,Circle Tops
+Colchester,tops_at_spar,Corner Darling & Jetty Streets Colchester Colchester,unknown,Colchester Tops
+Cradock,tops_at_spar,2 J.A. Calata Street Cradock,unknown,Cradock Tops
+East London,tops_at_spar,No. 1 Schafli Road East Coast Resorts East London,unknown,Crossways Tops
+Kirkwood,tops_at_spar,8 Main Street Kirkwood Kirkwood,unknown,Dagbreek Tops
+Kwazakhele,tops_at_spar,Daku Building Daku Square Daku Road Kwazakhele,unknown,Daku Tops
+Somerset East,tops_at_spar,1 Njoli Street Somerset East Somerset East,unknown,De Freitas Tops
+East London,tops_at_spar,121 Jan Smuts Avenue Rosemount East London,unknown,Debi-Lee Tops
+Despatch,tops_at_spar,Dr Rabie Street Unit 1 Southern Square Despatch,unknown,Despatch Tops
+King Williams Town,tops_at_spar,104 Alexander Road King Williams Town King Williams Town,unknown,Dhaysons Tops
+Dordrecht,tops_at_spar,3 Van Zyl Street Dordrecht,unknown,Dordrecht Tops
+Mthatha,tops_at_spar,84 Main Street  Elliotdale Elliotdale Mthatha,unknown,Elliotdale Tops
+Transkei,tops_at_spar,141 Main Street Engcobo Transkei,unknown,Engcobo Tops
+Port Elizabeth,tops_at_spar,Fig Tree Complex Cnr William Moffet & Circular Drive Walmer Port Elizabeth,unknown,Fig Tree Tops
+Port Elizabeth,tops_at_spar,Fiveways Centre 62 Cape Road Port Elizabeth,unknown,Fiveways Tops
+Port Elizabeth,tops_at_spar,Stanford Road Gelvandale Port Elizabeth,unknown,Gelvandale Tops
+Fort Beaufort,tops_at_spar,50 Campbell Street Fort Beaufort Fort Beaufort,unknown,Georgiou
+East London,tops_at_spar,85 - 87 Main Road Gonubie East London,unknown,Gonubie Tops
+Mdantsane,tops_at_spar,Shop 22 & 33 Kuyasa Shopping Centre Mdantsane Mdantsane,unknown,Highway Tops
+Port Elizabeth,tops_at_spar,646 Old Cape Road Hunters Retreat Port Elizabeth,unknown,Hunters Tops
+Idutywa,tops_at_spar,148 Richardson Road Idutywa Idutywa,unknown,Idutywa Tops
+Idutywa,tops_at_spar,Fuller Street Idutywa Idutywa,unknown,Idutywa Tops 2
+Jeffreys Bay,tops_at_spar,Momosa Street Wavecrest Jeffreys Bay,unknown,Jeffreys Bay Tops
+Mthatha,tops_at_spar,71 - 73 Corner of Sutherland & Stanford Terrace Street Mthatha Mthatha,unknown,Jimmys (Hotel)
+Kareedouw,tops_at_spar,17 Van Riebeeck Street Kareedouw Kareedouw,unknown,Kareedouw
+Elliot,tops_at_spar,Elliot Shopping Centre c/o Thompson & Lloyd Streets Elliot,unknown,Khowa Tops
+Maclear,tops_at_spar,8 Van Riebeeck Street Maclear Maclear,unknown,Kwa Wicks Tops
+Port Elizabeth,tops_at_spar,Corner of Cetu & Ralo Street Kwamagxaki Port Elizabeth,unknown,Kwamagxaki Tops
+Uitenhage,tops_at_spar,88 Mabandla Road Uitenhage Uitenhage,unknown,Kwanobuhle Tops
+Fort Beaufort,tops_at_spar,Cnr Bridge & High Streets Alice Fort Beaufort,unknown,Kwantu Tops
+Lady Frere,tops_at_spar,23 Main Road (Indwe Rd) Lady Frere,unknown,Lady Frere Tops
+East London,tops_at_spar,Corner Moore Street & Court Crescent Quigney East London,unknown,Lighthouse 1 (Dc)
+East London,tops_at_spar,Shop 2 Embassy Court Corner Inverleith Terrace & Curry Street Quigney East London,unknown,Lighthouse 2 (Dc)
+Matatiele,tops_at_spar,Erven 214 584 North Street Matatiele Matatiele,unknown,Matatiele Tops
+East London,tops_at_spar,Zone 12 Unit 6 Mdantsane East London,unknown,Mdantsane Tops
+Middelburg,tops_at_spar,21 Van Reenen Street Middelburg Middelburg,unknown,Middelburg Tops
+Port Elizabeth,tops_at_spar,3 Biggar Street Miramar Port Elizabeth,unknown,Miramar Tops
+Port Elizabeth,tops_at_spar,93 Umnulu Street Motherwell Port Elizabeth,unknown,Motherwell (Zonke) Tops
+Port Elizabeth,tops_at_spar,Cnr Buffelsfontein & Milner Roads Mount Pleasant Port Elizabeth,unknown,Mount Pleasant Tops
+Mount Ayliff,tops_at_spar,4 Nolangeni Street Mt Ayliff Mount Ayliff Mount Ayliff,unknown,Mt Ayliff Tops
+Mthatha,tops_at_spar,ERF 4757 Nelson Mandela Drive Mthatha Mthatha,unknown,Myezo
+East London,tops_at_spar,62 Beach Road (Cnr Beach & Drake) Nahoon East London,unknown,Nahoon Tops
+Port Elizabeth,tops_at_spar,3rd Avenue & West Street Newton Park Port Elizabeth,unknown,Newton Park Tops
+Ngqeleni,tops_at_spar,ERF 43 & Remaining ext of ERF 44NgqeleniDistrict of NgqeleniMunicipality of Nyandeni Ngqeleni Ngqeleni,unknown,Ngqeleni
+East London,tops_at_spar,Corner Chamberlain Road & Glaston Street Berea East London,unknown,Nick's Berea Tops
+East London,tops_at_spar,7 - 9 Park Gates Road East London East London,unknown,Nicks El
+Berlin,tops_at_spar,Legion Street Berlin,unknown,Nicks Foods Berlin Tops
+King Williams Town,tops_at_spar,Queens Road Fort Hill King Williams Town,unknown,Nicks Foods Daily Tops
+King Williams Town,tops_at_spar,11 Walker Street Market Square King Williams Town,unknown,Nicks Kwt
+East London,tops_at_spar,9 Walker Street King Williams Town East London,unknown,Nicks Kwt 2
+Mthatha,tops_at_spar,N2 Hillcrest Shopping Center 16 Durban Road Umtata Central Mthatha Mthatha,unknown,Northcrest
+Port Elizabeth,tops_at_spar,Cnr 1st Avenue & Heugh Road South End Port Elizabeth,unknown,On First
+Port Elizabeth,tops_at_spar,130 Main Road Walmer Port Elizabeth,unknown,Our Tops
+Mthatha,tops_at_spar,70 Corner of Sutherland Ridge and Owen Street Mthatha Mthatha,unknown,Owen
+Peddie,tops_at_spar,8 Albert Street Peddie,unknown,Peddie Tops
+Queenstown,tops_at_spar,15 Ebdon Street Queenstown Queenstown,unknown,Protea Tops
+Queenstown,tops_at_spar,7 - 9 Joubert Street Queenstown Queenstown,unknown,Queenstown Tops
+Port Elizabeth,tops_at_spar,Shop 6 Rink Street Mall Port Elizabeth Port Elizabeth,unknown,Rink Street Tops
+East London,tops_at_spar,1 Loerie Crescent Loerie Heights Mall Gonubie East London,unknown,Riverbend Tops
+Port  Alfred,tops_at_spar,R72 Main Road Port Alfred Port  Alfred,unknown,Rosehill Tops
+Mthatha,tops_at_spar,129 Nelson Mandela Road Mthatha Mthatha,unknown,Savoy
+Lusikisiki,tops_at_spar,226 Main Street Lusikisiki Lusikisiki,unknown,Seven Oaks (Dc)
+Port Elizabeth,tops_at_spar,1 Kei Street (Cnr Devon Rd & Walker Dr) Sherwood Port Elizabeth,unknown,Sherwood Tops
+East London,tops_at_spar,Cnr Gately Street & St Georges Road Southernwood East London,unknown,Southernwood Tops
+Graaf-Reinet,tops_at_spar,Shop 1B Spar Building Graaf-Reinet Graaf-Reinet,unknown,Spandau Tops
+Transkei,tops_at_spar,High Street Engcobo Transkei,unknown,Spargs Engcobo Tops
+Idutywa,tops_at_spar,Evelyn Street Idutywa Idutywa,unknown,Spargs Idutywa Tops
+Mthatha,tops_at_spar,34 Craister Street Mthatha,unknown,Spargs Kei
+Umtata,tops_at_spar,Cnr Nelson Mandela Drive & Madeira Street Mthatha Umtata,unknown,Spargs Madeira Tops
+Engcobo,tops_at_spar,R61 Entrance to Engcobo Engcobo Engcobo,unknown,Spargs New Rest Tops
+Queenstown,tops_at_spar,Cnr Komani & Victoria Street Queenstown Queenstown,unknown,Spargs Queenstown Tops
+Tsolo,tops_at_spar,Main Road Qumbu Tsolo,unknown,Spargs Qumbu Tops
+Mthatha,tops_at_spar,65 Nelson Road Mthatha Mthatha,unknown,Spargs Spences
+Mthatha,tops_at_spar,26 Sutherland Street Mthatha Mthatha,unknown,Spargs Sutherland
+East London,tops_at_spar,Major Square Bonza Bay Road Beacon Bay East London,unknown,Spargs Tops
+Uitenhage,tops_at_spar,26 Maitland Street Uitenhage,unknown,Spyros Tops
+Port Elizabeth,tops_at_spar,Cnr Stanford Rd & Cottrell St Korsten Port Elizabeth,unknown,Stanford Square Tops (Dc)
+Port Elizabeth,tops_at_spar,Cnr Strandfontein Rd & Admirality Way Summerstrand Port Elizabeth,unknown,Summerbreezz Tops
+Port Elizabeth,tops_at_spar,Shop 33 Sunridge Village Shopping Centre Sunridge Park Port Elizabeth,unknown,Sunridge Tops
+Mthatha,tops_at_spar,ERF 865 29 Sutherland Street Mthatha Mthatha,unknown,Sutherland Ridge
+Port Elizabeth,tops_at_spar,64 Old Grahamstown Road Swartkops Port Elizabeth,unknown,Swartkops Tops
+Cradock,tops_at_spar,5 High Street Cradock Cradock,unknown,Tams Tops
+Port Elizabeth,tops_at_spar,7 Sydenham Road Sydenham Port Elizabeth,unknown,The Stadium  Tops
+Port Elizabeth,tops_at_spar,The Acres Centre Norvic Drive Greenacres Port Elizabeth,unknown,Tops At The Acres
+Ugie,tops_at_spar,14 Main Street Ugie,unknown,Ugie Tops
+Humansdorp,tops_at_spar,78 Main Street Humansdorp,unknown,Village On Main Tops
+St Francis Bay,tops_at_spar,Village Square Shopping Centre St Francis Bay St Francis Bay,unknown,Village Square Tops
+East London,tops_at_spar,Corner Bell & Western Avenue Vincent East London,unknown,Vincent Tops
+Port Elizabeth,tops_at_spar,Shop 9 18 Beach Road Humerail Port Elizabeth,unknown,Waterfront Tops
+Port Elizabeth,travelex,Shop 97 Greenacres Shopping Centre Old Cape Road Newton Park Port Elizabeth 4000,unknown,PE Greenacres
+East London,travelex,Shop 12 Patcyn Centre 44-52 Frere Road Vincent East London 5200,unknown,East London
+Uitenhage,truworths,,unknown,Truworths Uitenhage
+Butterworth,truworths,,unknown,Truworths Man Butterworth
+Grahamstown,truworths,,unknown,Truworths Grahamstown
+Umtata,truworths,,unknown,Truworths Circus Triangle
+East London,truworths,,unknown,Identity East London
+Jeffreys Bay,truworths,,unknown,Truworths Fountains Mall
+Port Elizabeth,truworths,,unknown,Identity Greenacres
+Mthatha,truworths,,unknown,Truworths Ngebs Mall
+New Brighton,truworths,,unknown,Identity Kenako Centre
+Lusikisiki,truworths,,unknown,Truworths Lusikisiki Plaza
+Bethelsdorp,truworths,,unknown,Truworths Cleary Park
+King Williams Town,truworths,,unknown,Identity King Williams Town
+Queenstown,truworths,,unknown,Identity Nonesi Mall
+Graaf Reinet,truworths,,unknown,Truworths Graaff Reinet
+King Williamstown,truworths,,unknown,Truworths Kids Emporium King Williams Town
+Port Alfred,truworths,,unknown,Truworths Rosehill Mall
+Eastern Cape,truworths,,unknown,Identity Lusikisiki Plaza
+TWEE RIVIEREN,visa,,unknown,unknown
+UPINGTON,visa,,unknown,unknown
+KURUMAN,visa,,unknown,unknown
+POFADDER,visa,,unknown,unknown
+GORDINIA,visa,,unknown,unknown
+KAKAMAS,visa,,unknown,unknown
+SANTOY,visa,,unknown,unknown
+KATHU,visa,,unknown,unknown
+HOTAZEL,visa,,unknown,unknown
+LOUISVALE,visa,,unknown,unknown
+KANONEILAND,visa,,unknown,unknown
+DEBEN,visa,,unknown,unknown
+OLIFANTSHOEK,visa,,unknown,unknown
+GROBLERSHOOP,visa,,unknown,unknown
+POSTMASBURG,visa,,unknown,unknown
+DANIELSKUIL,visa,,unknown,unknown
+MARYDALE,visa,,unknown,unknown
+NIEKERKSHOOP,visa,,unknown,unknown
+JAN KEMPDORP,visa,,unknown,unknown
+DELPORTSHOOP,visa,,unknown,unknown
+VANWYKSVLEI,visa,,unknown,unknown
+WARRENTON,visa,,unknown,unknown
+WINDSORTON,visa,,unknown,unknown
+KIMBERLEY,visa,,unknown,unknown
+RITCHIE,visa,,unknown,unknown
+MODDERRIVIER,visa,,unknown,unknown
+CARNAVRON,visa,,unknown,unknown
+CARNARVON,visa,,unknown,unknown
+HOPETOWN,visa,,unknown,unknown
+STRYDENBURG,visa,,unknown,unknown
+STEYNSBURG,visa,,unknown,unknown
+PORT ELIZABETH,visa,,unknown,unknown
+KOFFIEFONTEIN,visa,,unknown,unknown
+BRISTOWN,visa,,unknown,unknown
+LUCKOFF,visa,,unknown,unknown
+DE AAR,visa,,unknown,unknown
+LUSIKISIKI,visa,,unknown,unknown
+PRIESKA,visa,,unknown,unknown
+PHILIPSTOWN,visa,,unknown,unknown
+NOUPOORT,visa,,unknown,unknown
+MIDDELBURG,visa,,unknown,unknown
+ABERDEEN,visa,,unknown,unknown
+GRAAFF-REINET,visa,,unknown,unknown
+GRAAFF REINET,visa,,unknown,unknown
+BURGERSDORP,visa,,unknown,unknown
+ALIWAL NORTH,visa,,unknown,unknown
+STERKSPRUIT,visa,,unknown,unknown
+WILLOWMORE,visa,,unknown,unknown
+HOFMEYR,visa,,unknown,unknown
+ENOCH MGIJIMA RURAL,visa,,unknown,unknown
+BLOEMFONTEIN,visa,,unknown,unknown
+MOLTENO,visa,,unknown,unknown
+LADY GREY,visa,,unknown,unknown
+HAARLEM,visa,,unknown,unknown
+CRADOCK,visa,,unknown,unknown
+PEARSTON,visa,,unknown,unknown
+JANSENVILLE,visa,,unknown,unknown
+MISGUND,visa,,unknown,unknown
+STEYTLERVILLE,visa,,unknown,unknown
+LOUTERWATER,visa,,unknown,unknown
+KRAKEEL,visa,,unknown,unknown
+KRAKEEL RIVER,visa,,unknown,unknown
+DORDRECHT,visa,,unknown,unknown
+BARKLY EAST,visa,,unknown,unknown
+JOUBERTINA,visa,,unknown,unknown
+TWEE RIVIERE,visa,,unknown,unknown
+SOMERSET EAST,visa,,unknown,unknown
+SIYABUSWA,visa,,unknown,unknown
+KOU-KAMMA RURAL,visa,,unknown,unknown
+MATATIELE,visa,,unknown,unknown
+INDWE,visa,,unknown,unknown
+QUEENSTOWN,visa,,unknown,unknown
+TARKASTAD,visa,,unknown,unknown
+TSITSIKAMA,visa,,unknown,unknown
+LADY FRERE,visa,,unknown,unknown
+KAREEDOUW,visa,,unknown,unknown
+MOUNT FLETCHER,visa,,unknown,unknown
+PATENSIE,visa,,unknown,unknown
+WHITTLESEA,visa,,unknown,unknown
+WITTLESEA,visa,,unknown,unknown
+CLARKSON,visa,,unknown,unknown
+KHOWA,visa,,unknown,unknown
+ELLIOT,visa,,unknown,unknown
+CALA,visa,,unknown,unknown
+ADELAIDE,visa,,unknown,unknown
+MACLEAR,visa,,unknown,unknown
+UGIE,visa,,unknown,unknown
+HANKEY,visa,,unknown,unknown
+HUMANSDORP,visa,,unknown,unknown
+COFIMVABA,visa,,unknown,unknown
+LOERIE,visa,,unknown,unknown
+CATHCART,visa,,unknown,unknown
+ADDO,visa,,unknown,unknown
+SUNLAND,visa,,unknown,unknown
+JEFFREY'S BAY,visa,,unknown,unknown
+JEFFREYS BAY,visa,,unknown,unknown
+FORT BEAUFORT,visa,,unknown,unknown
+THORNHILL,visa,,unknown,unknown
+ENGCOBO,visa,,unknown,unknown
+UITENHAGE,visa,,unknown,unknown
+HOGSBACK,visa,,unknown,unknown
+ST FRANCIS BAY,visa,,unknown,unknown
+MOUNT FRERE,visa,,unknown,unknown
+KWA NOBUHLE,visa,,unknown,unknown
+KARIEGA,visa,,unknown,unknown
+ALICEDALE,visa,,unknown,unknown
+DESPATCH,visa,,unknown,unknown
+PATERSON,visa,,unknown,unknown
+ALICE,visa,,unknown,unknown
+TSOMO,visa,,unknown,unknown
+GQEBERHA,visa,,unknown,unknown
+BETHELSDORP,visa,,unknown,unknown
+CAPE TOWN,visa,,unknown,unknown
+MOTHERWELL,visa,,unknown,unknown
+QUMBO,visa,,unknown,unknown
+QUMBU,visa,,unknown,unknown
+BLOEMENDAL,visa,,unknown,unknown
+GREENBUSHES,visa,,unknown,unknown
+CLARENDON MARINE,visa,,unknown,unknown
+NANAGA,visa,,unknown,unknown
+TSOLO,visa,,unknown,unknown
+KEISKAMMAHOEK,visa,,unknown,unknown
+MTHATHA,visa,,unknown,unknown
+OUDTSHOORN,visa,,unknown,unknown
+HUNTERS RETREAT,visa,,unknown,unknown
+MIDDLEDRIFT,visa,,unknown,unknown
+GELVANDALE,visa,,unknown,unknown
+MOUNT AYLIFF,visa,,unknown,unknown
+ALEXANDRIA,visa,,unknown,unknown
+TRANSKEI,visa,,unknown,unknown
+SPRINGFIELD,visa,,unknown,unknown
+STUTTERHEIM,visa,,unknown,unknown
+EAST LONDON,visa,,unknown,unknown
+NTABANKULU,visa,,unknown,unknown
+GRAHAMSTOWN,visa,,unknown,unknown
+NQAMAKWE,visa,,unknown,unknown
+SUMMERSTRAND,visa,,unknown,unknown
+PRETORIA,visa,,unknown,unknown
+DIMBAZA,visa,,unknown,unknown
+UMTATA,visa,,unknown,unknown
+"SUTHERLAND STREET,UMTATA",visa,,unknown,unknown
+KING SABATA DALINDYEBO RURAL,visa,,unknown,unknown
+VIEDGESVILLE,visa,,unknown,unknown
+IDUTYWA,visa,,unknown,unknown
+NYANDENI RURAL,visa,,unknown,unknown
+DUTYWA,visa,,unknown,unknown
+KING WILLIAM'S TOWN,visa,,unknown,unknown
+KING WILLIAMS TOWN,visa,,unknown,unknown
+BISHO,visa,,unknown,unknown
+MDANTSANE,visa,,unknown,unknown
+FLAGSTAFF,visa,,unknown,unknown
+LIBODE,visa,,unknown,unknown
+ZWELITSHA,visa,,unknown,unknown
+BUTTERWORTH,visa,,unknown,unknown
+MQANDULI,visa,,unknown,unknown
+KING WILLIAM’S TOWN,visa,,unknown,unknown
+KOMGA,visa,,unknown,unknown
+BERLIN,visa,,unknown,unknown
+BIZANA,visa,,unknown,unknown
+DURBAN SOUTH,visa,,unknown,unknown
+BATHURST,visa,,unknown,unknown
+ELLIOTDALE,visa,,unknown,unknown
+ELLIODALE,visa,,unknown,unknown
+PORT ALFRED,visa,,unknown,unknown
+NGQELENI,visa,,unknown,unknown
+KENTON,visa,,unknown,unknown
+MBIZANA RURAL,visa,,unknown,unknown
+WILLOWVALE,visa,,unknown,unknown
+WILLOWDALE,visa,,unknown,unknown
+MDANSTANE,visa,,unknown,unknown
+GREAT KEI RURAL,visa,,unknown,unknown
+KENTANI,visa,,unknown,unknown
+KLEINEMONDE,visa,,unknown,unknown
+AMALINDA,visa,,unknown,unknown
+BEACON BAY,visa,,unknown,unknown
+KIDDS BEACH,visa,,unknown,unknown
+KWELERA,visa,,unknown,unknown
+CINSTA EAST,visa,,unknown,unknown
+PARKSIDE,visa,,unknown,unknown
+WESTBANK,visa,,unknown,unknown
+"QUIGNEY, EAST LONDON",visa,,unknown,unknown
+GONUBIE,visa,,unknown,unknown
+PORT ST JOHNS,visa,,unknown,unknown
+PORT ST JOHN,visa,,unknown,unknown
+MORGAN BAY,visa,,unknown,unknown
+KEI MOUTH,visa,,unknown,unknown
+Mossel Bay,western_union,,unknown,ABSA MOSSEL BAY
+Hartenbos,western_union,,unknown,ABSA LANGEBERG MALL
+George,western_union,,unknown,ABSA GEORGE
+Knysna,western_union,,unknown,ABSA KNYSNA
+Plettenberg Bay,western_union,,unknown,ABSA PLETTENBERG BAY
+Oudtshoorn,western_union,,unknown,ABSA OUDTSHOORN
+Jeffreys Bay,western_union,,unknown,ABSA JEFFREYS BAY
+Port Elizabeth,western_union,,unknown,TOURVEST FINANCIAL SERVICES
+Uitenhage,western_union,,unknown,ABSA UITENHAGE
+Cradock,western_union,,unknown,ABSA CRADOCK
+Sterkspruit,western_union,,unknown,ABSA STERKSPRUIT
+Queenstown,western_union,,unknown,ABSA QUEENSTOWN
+East London,western_union,,unknown,ABSA VINCENT PARK
+Southernwood,western_union,,unknown,ABSA SOUTHERNWOOD
+Beacon Bay,western_union,,unknown,ABSA BEACON BAY
+Port Alfred,western_union,,unknown,ABSA PORT ALFRED
+King Williams Town,western_union,,unknown,ABSA KINGS WILLIAMS TOWN
+Bizana,western_union,,unknown,ABSA BIZANA
+Port St Johns,western_union,,unknown,ABSA PORT ST JOHNS
+Mount Frere,western_union,,unknown,ABSA MOUNT FRERE

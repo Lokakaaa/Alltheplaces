@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1375258,usps,NORTH BENTON,,NORTH BENTON,OH,,US,+1 330-584-5427,,"Mo-Fr 08:00-10:00,13:45-15:45; Sa 08:00-12:00",United States Postal Service,Q668687
+4444900000,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,9131 12TH ST,NORTH BENTON,OH,,US,,,,United States Postal Service,Q668687
+4444900003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,9131 12TH ST,NORTH BENTON,OH,,US,,,,United States Postal Service,Q668687
+,visa,,,NORTH BENTON,OH,,US,,,,,

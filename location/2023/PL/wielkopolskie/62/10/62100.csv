@@ -1,0 +1,60 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5689,abc_pl,abc,,Bartodzieje,wielkopolskie,,PL,,,,abc,Q11683985
+4302,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+5208,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+11347,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+11251,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+11342,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+1149,abc_pl,abc,,Przysieczyn,wielkopolskie,,PL,,,,abc,Q11683985
+_3237,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+3237,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+7025,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+14199,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+14982,abc_pl,abc,,Wągrowiec,wielkopolskie,,PL,,,,abc,Q11683985
+PL001028,aldi_nord_pl,ALDI,,Wągrowiec,Wielkopolskie,,PL,+48 800 118 118,,Mo-Sa 06:00-22:00,ALDI,Q41171373
+187,bricomarche_pl,Bricomarché Wągrowiec,,Wągrowiec,wielkopolskie,,PL,+48 519 502 284,https://www.bricomarche.pl/sklep/bricomarche-wagrowiec,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/21076-wagrowiec-srednia,credit_agricole_pl,"Credit Agricole Średnia 26, Wągrowiec",,Wągrowiec,wielkopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/21076-wagrowiec-srednia,Mo 09:00-16:00; Tu 10:00-17:00; We-Fr 09:00-16:00,Credit Agricole,Q590952
+11832,groszek_pl,Groszek,,Wągrowiec,wielkopolskie,,PL,,,,Groszek,Q9280965
+606,mcdonalds_pl,McDonald's,,Wągrowiec,Wielkopolskie,,PL,+48 694 496 007,https://mcdonalds.pl/restauracje/wielkopolskie/wagrowiec/wagrowiec-11-listopada-18,Mo-Th 06:00-24:00; Fr-Sa 06:00-02:00; Su 06:00-24:00,McDonald's,Q38076
+KOBY01M,paczkomat_inpost_pl,Przy Sali Bankietowej,,Kobylec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kobylec-koby01m-klonowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-WAG14,paczkomat_inpost_pl,DUŻY BEN,,Wągrowiec ,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-pop-wag14-jezyka-paczkomaty-wielkopolskie,Mo-Sa 10:00-22:00,Paczkomat,Q110970254
+POP-WAG5,paczkomat_inpost_pl,SIFAKA POST&BOOKS,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-pop-wag5-srednia-paczkomaty-wielkopolskie,Mo-Fr 10:00-19:00; Sa 10:00-15:00,Paczkomat,Q110970254
+POP-WAG8,paczkomat_inpost_pl,BRICOMARCHE,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-pop-wag8-11-listopada-paczkomaty-wielkopolskie,Mo-Sa 08:00-20:00; Su 10:00-17:00,Paczkomat,Q110970254
+WAG01A,paczkomat_inpost_pl,Przy sklepie Twój Market,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag01a-mikolaja-reja-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG01F,paczkomat_inpost_pl,Market Dino,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag01f-opacka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG01HP,paczkomat_inpost_pl,w sklepie Duży Ben,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag01hp-mieczyslawa-jezyka-paczkomaty-wielkopolskie,Mo-Fr 10:00-24:00; Sa 10:00-23:30,Paczkomat,Q110970254
+WAG01M,paczkomat_inpost_pl,Przy stacji benzynowej Hil Gaz,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag01m-skocka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG02A,paczkomat_inpost_pl,Przy supermarkecie Kaufland,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag02a-palucka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG02M,paczkomat_inpost_pl,Przy sklepie spożywczym |Polski Sklep|,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag02m-strzeleckiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG03A,paczkomat_inpost_pl,Przy sklepie ABC,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag03a-bobrownicka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG03M,paczkomat_inpost_pl,Przy sklepie Lidl.,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag03m-kcynska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG04A,paczkomat_inpost_pl,Przy markecie Bricomarche,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag04a-11-listopada-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG04M,paczkomat_inpost_pl,Obok Firmy AutoLack oraz sklepu medycznego,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag04m-gnieznienska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG05M,paczkomat_inpost_pl,Przed Budynkiem Spółdzielni Mieszkaniowej w Wągrowcu.,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag05m-mieczyslawa-jezyka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG06M,paczkomat_inpost_pl,Na parkingu sklepu JYSK,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag06m-11-listopad-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG07M,paczkomat_inpost_pl,Przy sklepie Bimex/PSB Mrówka,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag07m-ks-wroblewskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG08M,paczkomat_inpost_pl,Przy stacji paliwowej Shell,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag08m-janowiecka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG09M,paczkomat_inpost_pl,Przy stacji paliwowej PITEREK,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag09m-rogozinska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG10M,paczkomat_inpost_pl,Market Dino,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag10m-zbigniewa-kuzmy-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG11M,paczkomat_inpost_pl,Przy Sklepie Polskim,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag11m-lesna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG12M,paczkomat_inpost_pl,Market Dino,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag12m-wierzbowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG13M,paczkomat_inpost_pl,Market Dino,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag13m-bobrownicka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG14M,paczkomat_inpost_pl,Market Dino,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag14m-rgielska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG15M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag15m-lakinskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG16M,paczkomat_inpost_pl,Przy domu jednorodzinnym,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag16m-lipowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WAG17M,paczkomat_inpost_pl,Przy markecie LIDL,,Wągrowiec,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wagrowiec-wag17m-11-listopada-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+541,play_pl,Salon Play,Ul. Jeżyka 2D/1,Wągrowiec,wielkopolskie,,PL,+48 790 800 872,,Mo-Fr 09:00-18:00; Sa 09:00-14:30,Play,Q7202998
+314607,poczta_polska_pl,FUP Wągrowiec,,Wągrowiec,WIELKOPOLSKIE,,PL,+48 885 951 521,,,Poczta Polska,Q168833
+314614,poczta_polska_pl,FUP Wągrowiec,,Wągrowiec,WIELKOPOLSKIE,,PL,+48 885 951 492,,,Poczta Polska,Q168833
+273450,poczta_polska_pl,UP Wągrowiec,,Wągrowiec,WIELKOPOLSKIE,,PL,+48 67 268 52 81,,,Poczta Polska,Q168833
+301901,poczta_polska_pl,AP Wągrowiec,,Wągrowiec,WIELKOPOLSKIE,,PL,+48 664 703 844,,,Poczta Polska,Q168833
+305291,poczta_polska_pl,AP Żelice,,Żelice,WIELKOPOLSKIE,,PL,+48 67 261 65 28,,,Poczta Polska,Q168833
+7240,tedi,TEDi Sieć Handlowa Sp. z o.o.,,Wągrowiec,Wielkopolskie,,PL,+48 32 450 36 20,https://www.tedi.com/stores/7240/pl/Wielkopolskie/Wągrowiec/11-Listopada-20,Mo-Sa 00:00-24:00,TEDi,Q1364603
+,visa,,,WAGROWIEC,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,WAGROWIEC,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,WĄGROWIEC,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,WAGROWIEC,WIELKOPOLSKIE,,PL,,,,,
+a82638f57914821210dacd52d691fb00,western_union,VIN CAR PARTNER,,Wagrowiec,WIELKOPOLSKIE,,PL,+48 798 485 044,https://location.westernunion.com/pl/wielkopolskie/wagrowiec/a82638f57914821210dacd52d691fb00,Mo-Fr 08:00-17:00; Sa 10:00-14:00,Western Union,Q861042
+80c3c86c69dfccde12516747e988079b,western_union,USLUGI FINANSOWE I UBEZPIECZENIOWE,,Wagrowiec,WIELKOPOLSKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/wielkopolskie/wagrowiec/80c3c86c69dfccde12516747e988079b,Mo-Fr 09:00-17:00,Western Union,Q861042
+af524ce38eb9849b021211273cd3803a,western_union,BANK PEKAO SA,,Wagrowiec,WIELKOPOLSKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/wielkopolskie/wagrowiec/af524ce38eb9849b021211273cd3803a,Mo-Fr 09:30-16:30,Western Union,Q861042
+6605bd84cc6fd13524863a4e4fa7cffb,western_union,PBS WAGROWIEC,,Wagrowiec,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/wagrowiec/6605bd84cc6fd13524863a4e4fa7cffb,Mo-Fr 08:00-17:00,Western Union,Q861042

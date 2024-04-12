@@ -1,0 +1,220 @@
+State,Place Name,City,Establishments
+REUNION,audi,Sainte-Clotilde,1
+REUNION,audi,Le Port,1
+SAINTEMARIE,avis,Sainte Marie,1
+ZI2,avis,Saint Pierre,1
+SAINTMARIE,avis,Saint Marie,1
+ZIN2NWCOAST,avis,Le Port Cedex,1
+ROUTEDELHERMITAGE,avis,Saint Gilles Les Bains,1
+LARÉUNION,bmw_group,Saint Pierre,1
+UNKNOWN,bmw_group,Le Port,1
+UNKNOWN,bmw_group,Sainte Clotilde,1
+UNKNOWN,enterprise,St Denis De La Reunion,1
+UNKNOWN,enterprise,Sainte Clotilde,1
+UNKNOWN,enterprise,St Pierre,1
+UNKNOWN,enterprise,Le Port,1
+UNKNOWN,esprit,Saint Pierre,1
+UNKNOWN,esprit,Saint-Denis,1
+UNKNOWN,e_leclerc,Piton saint Leu,1
+REUNION,e_leclerc,Saint Benoit,2
+REUNION,e_leclerc,Saint Joseph,2
+REUNION,e_leclerc,SAINT PIERRE,1
+REUNION,e_leclerc,Sainte-Marie,1
+REUNION,e_leclerc,Le Tampon,1
+REUNION,e_leclerc,Sainte Clotilde,1
+REUNION,e_leclerc,Le tampon,1
+REUNION,e_leclerc,Ravine des cabris,1
+REUNION,e_leclerc,Saint Denis,1
+REUNION,e_leclerc,Plaine des Cafres,1
+REUNION,e_leclerc,Le Port,1
+REUNION,e_leclerc,Saint Paul,1
+REUNION,e_leclerc,Sainte Marie,1
+REUNION,e_leclerc,Saint Louis,1
+REUNION,e_leclerc,La Possession,1
+UNKNOWN,geox,LA REUNION - SAINT DENIS,1
+SAINTPAUL,grand_optical,Le Port,1
+SAINTDENIS,grand_optical,Saint-Denis,1
+SAINTPIERRE,grand_optical,Saint-Pierre,2
+SAINTDENIS,grand_optical,Sainte-Clotilde,1
+SAINTDENIS,grand_optical,Sainte Suzanne,1
+SAINTPIERRE,grand_optical,Le Tampon,1
+SAINTPAUL,grand_optical,St Paul,1
+SAINTPIERRE,grand_optical,Saint-Louis,1
+REUNION,ikks,SAINT DENIS,1
+UNKNOWN,kpmg_fr,Saint-Denis,1
+UNKNOWN,kpmg_fr,Saint-André,1
+UNKNOWN,leonidas,Saint-Paul de la Réunion,1
+UNKNOWN,leonidas,Saint-Gilles-les-Bains,1
+UNKNOWN,leonidas,SAINT PIERRE,1
+UNKNOWN,longchamp,LE PORT,1
+UNKNOWN,longchamp,SAINT-DENIS,1
+UNKNOWN,longchamp,SAINTE-CLOTILDE,1
+UNKNOWN,longchamp,SAINT-PIERRE,2
+UNKNOWN,longchamp,SAINTE-SUZANNE,1
+UNKNOWN,moneygram,SAINT DENIS,5
+UNKNOWN,moneygram,SAINTE SUZANNE,1
+UNKNOWN,moneygram,LE TAMPON,1
+UNKNOWN,moneygram,SAINT ANDRE,2
+UNKNOWN,moneygram,ST ANDRE,1
+UNKNOWN,moneygram,SAINT PIERRE,2
+UNKNOWN,moneygram,LE PORT,3
+UNKNOWN,moneygram,SAINTE MARIE,1
+UNKNOWN,moneygram,LA RIVIERE SAINT LOUIS,1
+UNKNOWN,moneygram,SAINT LOUIS,1
+UNKNOWN,moneygram,ST LEU,2
+UNKNOWN,moneygram,SAINT-DENIS,2
+UNKNOWN,moneygram,SAINT-LOUIS,1
+UNKNOWN,moneygram,ST DENIS,2
+UNKNOWN,moneygram,RAVINE DES CABRIS,1
+UNKNOWN,optical_center,Saint Pierre,1
+UNKNOWN,optical_center,Saint Denis,1
+UNKNOWN,optical_center,Saint-André,1
+UNKNOWN,optical_center,SAINT-ANDRE,1
+UNKNOWN,ovs,Saint-Paul,1
+UNKNOWN,petit_bateau,Saint Pierre,1
+UNKNOWN,petit_bateau,Saint Denis,1
+REUNION,pokawa,Reunion,1
+UNKNOWN,sixt,Sainte Marie,1
+UNKNOWN,superdry,Saint-Pierre,1
+UNKNOWN,totalenergies,Saint-André,2
+UNKNOWN,totalenergies,Le Port,3
+UNKNOWN,totalenergies,St Paul,1
+UNKNOWN,totalenergies,Saint-Joseph,1
+UNKNOWN,totalenergies,Saint-Pierre,5
+UNKNOWN,totalenergies,Saint-Gilles les Hauts,1
+UNKNOWN,totalenergies,Saint Paul,1
+UNKNOWN,totalenergies,Saint-Louis,2
+UNKNOWN,totalenergies,Sainte Suzanne,1
+UNKNOWN,totalenergies,Saint-Denis,3
+UNKNOWN,totalenergies,Saint Louis,1
+UNKNOWN,totalenergies,Saint-Philippe,1
+UNKNOWN,totalenergies,Saint-Leu,1
+UNKNOWN,totalenergies,Saint-Benoît,1
+UNKNOWN,totalenergies,Sainte-Clotilde,4
+UNKNOWN,totalenergies,Saint-Gilles les Bains,1
+UNKNOWN,totalenergies,Sainte-Marie,2
+UNKNOWN,totalenergies,Le Tampon,3
+UNKNOWN,totalenergies,Bras-Panon,1
+UNKNOWN,totalenergies,SAINT JOSEPH,1
+UNKNOWN,totalenergies,LE PORT,1
+UNKNOWN,totalenergies,SAINTE SUZANNE,2
+UNKNOWN,totalenergies,La Saline Les Hauts,2
+UNKNOWN,totalenergies,La Possession,1
+UNKNOWN,totalenergies,TAMPON,1
+UNKNOWN,totalenergies,Saint Denis,1
+REUNION,visa,LE TAMPON,9
+REUNION,visa,BANDRAOUDA,1
+REUNION,visa,TSINGONI,1
+REUNION,visa,MAMOUDZOU,6
+REUNION,visa,DZAOUDZI,2
+REUNION,visa,PAMANDZI,1
+REUNION,visa,SAINT PAUL,11
+UNKNOWN,visa,ST GILLES LES BAINS,4
+UNKNOWN,visa,SAINT DENIS,22
+UNKNOWN,visa,LE PORT,12
+UNKNOWN,visa,SAINT GILLES LES BAINS,1
+REUNION,visa,SAINT GILLES LES BAINS,3
+UNKNOWN,visa,ST DENIS,10
+UNKNOWN,visa,SAINT GILLES,3
+UNKNOWN,visa,SAINT LOUIS,11
+UNKNOWN,visa,SAINT-GILLES,2
+UNKNOWN,visa,ST PAUL,7
+UNKNOWN,visa,SAINT-PAUL,4
+UNKNOWN,visa,SAINT PAUL,6
+REUNION,visa,LE PORT,4
+UNKNOWN,visa,LE PORT CEDEX,1
+UNKNOWN,visa,ST GILLES LES HAUTS,1
+REUNION,visa,SAINTE CLOTILDE,6
+UNKNOWN,visa,SAINT-DENIS,9
+REUNION,visa,LA SALINE LES HAUTS,3
+UNKNOWN,visa,LA SALINE,1
+REUNION,visa,SAINT GILLES LES HAUTS,1
+UNKNOWN,visa,LA POSSESSION,8
+REUNION,visa,LE GUILLAUME,1
+REUNION,visa,LA POSSESSION,2
+UNKNOWN,visa,LE GUILLAUME,1
+REUNION,visa,POSSESSION,1
+UNKNOWN,visa,POSSESSION,3
+UNKNOWN,visa,LES TROIS BASSINS,1
+REUNION,visa,BOIS DE NEFLES,1
+UNKNOWN,visa,BOIS DE NEFLES ST PAUL,1
+UNKNOWN,visa,ST LEU,3
+UNKNOWN,visa,SAINT LEU,3
+UNKNOWN,visa,SAINT-LEU,2
+REUNION,visa,SAINT LEU,3
+UNKNOWN,visa,LA CHALOUPE,1
+UNKNOWN,visa,STE SUZANE,1
+UNKNOWN,visa,LE PITON ST LEU,2
+REUNION,visa,PITON SAINT LEU,3
+UNKNOWN,visa,SAINT JOSEPH,4
+UNKNOWN,visa,PITON ST LEU,2
+UNKNOWN,visa,LA MONTAGNE,2
+REUNION,visa,LA MONTAGNE,2
+UNKNOWN,visa,LES AVIRONS,1
+REUNION,visa,AVIRONS,1
+REUNION,visa,L ETANG SALE,2
+UNKNOWN,visa,L'ETANG SALE,1
+UNKNOWN,visa,ETANG SALE,1
+REUNION,visa,SAINT DENIS,12
+REUNION,visa,ETANG SALE,2
+UNKNOWN,visa,BOIS DE NEFLES,1
+UNKNOWN,visa,L'ETANG-SALE,1
+UNKNOWN,visa,L ETANG SALE,2
+UNKNOWN,visa,STE CLOTILDE,4
+UNKNOWN,visa,SAINTE CLOTILDE,3
+UNKNOWN,visa,SAINTE CLOTIL,1
+REUNION,visa,SAINTE MARIE,5
+UNKNOWN,visa,STE-MARIE,2
+UNKNOWN,visa,LA RIVIERE,3
+REUNION,visa,SAINT LOUIS,3
+UNKNOWN,visa,SAINT-LOUIS,2
+UNKNOWN,visa,SAINTE-MARIE,1
+UNKNOWN,visa,SAINTE MARIE,6
+UNKNOWN,visa,STE MARIE,4
+UNKNOWN,visa,ST LOUIS,3
+UNKNOWN,visa,SAINT BENOIT,7
+REUNION,visa,CILAOS,1
+UNKNOWN,visa,CILAOS,1
+REUNION,visa,LA RIVIERE,1
+UNKNOWN,visa,LA RIVIERE ST LOUIS,1
+REUNION,visa,SAINT PIERRE,14
+UNKNOWN,visa,ST PIERRE,9
+UNKNOWN,visa,ENTRE DEUX,1
+UNKNOWN,visa,SAINT-PIERRE,6
+UNKNOWN,visa,SAINT PIERRE,12
+UNKNOWN,visa,RAVINE DES CABRIS,2
+UNKNOWN,visa,SALAZIE,1
+REUNION,visa,RAVINE DES CABRIS,3
+UNKNOWN,visa,SAINTE SUZANNE,2
+UNKNOWN,visa,LE TAMPON,12
+REUNION,visa,SAINTE SUZANNE,3
+UNKNOWN,visa,STE SUZANNE,2
+REUNION,visa,LA SALINE,1
+UNKNOWN,visa,LA PLAINE DES CAFRES,1
+REUNION,visa,ENTRE DEUX,1
+REUNION,visa,PLAINE DES CAFRES,1
+REUNION,visa,SAINT SUZANNE,1
+UNKNOWN,visa,SAINTE-SUZANNE,1
+UNKNOWN,visa,ST ANDRE,7
+UNKNOWN,visa,SAINT-ANDRE,2
+REUNION,visa,ST ANDRE,1
+UNKNOWN,visa,SAINT ANDRE,5
+REUNION,visa,SAINT ANDRE,2
+REUNION,visa,PETITE ILE,2
+UNKNOWN,visa,PETITE ILE,2
+UNKNOWN,visa,PETITE-ILE,1
+REUNION,visa,PLAINE DES PALMISTES,1
+UNKNOWN,visa,LA PLAINE DES PALMISTES,1
+UNKNOWN,visa,BRAS PANON,2
+REUNION,visa,BRAS PANON,2
+UNKNOWN,visa,ST JOSEPH,5
+REUNION,visa,SAINT BENOIT,6
+UNKNOWN,visa,ST BENOIT,1
+UNKNOWN,visa,SAINT-JOSEPH,2
+REUNION,visa,SAINT JOSEPH,5
+UNKNOWN,visa,SAINT-BENOIT,2
+UNKNOWN,visa,STE ANNE,1
+UNKNOWN,visa,STE ROSE,1
+REUNION,visa,SAINTE ROSE,1
+UNKNOWN,visa,ST PHILIPPE,1
+REUNION,visa,SAINT PHILIPPE,1

@@ -1,0 +1,12 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1220,abc_pl,abc,,Borowa,podkarpackie,,PL,,,,abc,Q11683985
+10658,abc_pl,abc,,Orłów,podkarpackie,,PL,,,,abc,Q11683985
+441,abc_pl,abc,,Gliny Małe,podkarpackie,,PL,,,,abc,Q11683985
+1079,abc_pl,abc,,Sadkowa Góra,podkarpackie,,PL,,,,abc,Q11683985
+BOR01M,paczkomat_inpost_pl,Sklep Hitpol,,Borowa,podkarpackie,,PL,,https://inpost.pl/paczkomat-borowa-bor01m-borowa-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+BOR02M,paczkomat_inpost_pl,Parking sklepu,,Borowa,podkarpackie,,PL,,https://inpost.pl/paczkomat-borowa-bor02m-borowa-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+POP-BOR44,paczkomat_inpost_pl,EPAKA,,Borowa,podkarpackie,,PL,,https://inpost.pl/paczkomat-borowa-pop-bor44-borowa-paczkomaty-podkarpackie,Mo-Fr 08:00-18:00; Sa 08:00-14:00,Paczkomat,Q110970254
+XGO01M,paczkomat_inpost_pl,Sklep Lewiatan,,Górki,podkarpackie,,PL,,https://inpost.pl/paczkomat-gorki-xgo01m-gorki-paczkomaty-podkarpackie,24/7,Paczkomat,Q110970254
+233421,poczta_polska_pl,UP Borowa k. Mielca,,Borowa,PODKARPACKIE,,PL,+48 17 581 55 20,,,Poczta Polska,Q168833
+574618,poczta_polska_pl,AP Górki Mieleckie,,Górki,PODKARPACKIE,,PL,+48 17 584 20 23,,,Poczta Polska,Q168833
+,visa,,,BOROWA,PODKARPACKIE,,PL,,,,,

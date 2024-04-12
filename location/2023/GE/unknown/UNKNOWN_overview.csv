@@ -1,0 +1,665 @@
+City,Place Name,Zipcode,Name
+unknown,accor,9 Vakhtang Gorgasali street 0105 TBILISI,unknown,Mercure Tbilisi Old Town
+unknown,accor,37m Chavchavadze Ave 0179 TBILISI,unknown,Pullman Tbilisi Axis Towers
+unknown,accor,178 Aghmashenebeli Avenue 0112 TBILISI,unknown,ibis Tbilisi Stadium
+unknown,accor,Galaktion Tabidze Street 4 0105 TBILISI,unknown,ibis Styles Tbilisi Center
+unknown,accor,1 Gurjani street 0103 TBILISI,unknown,Novotel Tbilisi Center (Opening January 2024)
+unknown,accor,22 Giorgiy Akhvediani st 0108 TBILISI,unknown,ibis budget Tbilisi Center
+unknown,accor,5B Lech and Maria Kaczynski st. 6000 BATUMI,unknown,ibis Styles Batumi (Opening February 2024)
+unknown,accor,3 Soliko Virsaladze street 0108 TBILISI,unknown,Swissôtel Tbilisi
+unknown,accor,10 Petre Melikishvili 0179 TBILISI,unknown,Tbilisi Philharmonic by Mercure Hotel
+unknown,accor,15 KAZBEGI AVENUE 0160 TBILISI,unknown,Tbilisi Saburtalo Hotel by Mercure
+Tbilisi,alamo,,unknown,Tbilisi
+Batumi,alamo,,unknown,Batumi Airport Meet And Greet
+Kutaisi,alamo,,unknown,Kutaisi International Airport
+Tbilisi,bmw_group,,unknown,GT Motors
+Tbilisi,ecco,,unknown,ECCO Store Karvasla Mall Tblisi‎
+Tbilisi,enterprise,,unknown,Tbilisi
+Kutaisi,enterprise,,unknown,Kutaisi International Airport
+Batumi,enterprise,,unknown,Batumi Airport Meet And Greet
+Tbilisi,ernst_young,Kote Abkhazi Street 44,unknown,EY
+Tbilisi,fedex,,unknown,FedEx Station
+unknown,hilton,17 Ialbuzi street Tbilisi 0149 Georgia,unknown,Hilton Garden Inn Tbilisi Riverview
+unknown,hilton,Chavchavadze 64a Tbilisi 0162 Georgia,unknown,Hilton Garden Inn Tbilisi Chavchavadze
+Tbilisi,hm,,unknown,City Mall Saburtalo
+Akhalkalaki,lukoil,st. Agmashenebeli 2 Akhalkalaki Georgia,unknown,AZS 14-A
+Borjomi,lukoil,Borjomi district village Bakuriani st. Borjomi,unknown,AZS 5-A
+Adigeni,lukoil,near Vale customs checkpoint Adigeni area Gruzija Adigen Georgia,unknown,AZS 6-F
+Tkibuli,lukoil,str. Tkvarcheli 27 Tkibuli,unknown,AZS 8-A
+Tbilisi,lukoil,Tbilisi Agmashenebeli Alley No. 169,unknown,AZS 19
+Tbilisi,lukoil,Tbilisi Tamarashvili Ave. No. 10г,unknown,AZS 8
+Tbilisi,lukoil,Gelovani Ave №30 Tbilisi,unknown,AZS 9
+Tbilisi,lukoil,"Tbilisi st. Sheshelidze No. 24 (""Gldani"")",unknown,AZS 10
+Tbilisi,lukoil,"""between Guramishvili ave. on the opposite side of the p/o """"Tsisartkela."""" (""""Sanzona"""")"" Tbilisi",unknown,AZS 11
+Tbilisi,lukoil,Akaki Tsereteli Ave near Min. soc. Software Samten-2 1 Tbilisi Georgia,unknown,AZS 12
+Tbilisi,lukoil,"""Akaki Tsereteli Ave 145",unknown,AZS 13
+Tbilisi,lukoil,Tbilisi Kakheti Highway on the left side of the Orkhevi Bridge,unknown,AZS 5
+Tbilisi,lukoil,Agmashenebeli alley 228,unknown,AZS 2
+Tbilisi,lukoil,Tbilisi Agmashenebeli Alley No. 1,unknown,AZS 4
+Tbilisi,man_truck_and_bus,,unknown,Tegeta Truck and Bus - BUS CENTER
+Batumi,marriott,,unknown,Sheraton Batumi Hotel
+Tbilisi,marriott,,unknown,Sheraton Grand Tbilisi Metechi Palace
+TBILISI,moneygram,,unknown,CREDO BANK - TBILISI - VARKETILI S.C
+KHELVACHAURI,moneygram,,unknown,CREDO BANK - KHELVACHAURI - KHELVACHAURI
+RUSTAVI,moneygram,,unknown,CREDO BANK - RUSTAVI - RUSTAVI S.C
+BAGDAT'I,moneygram,,unknown,FINCA GEORGIA - #048 - BAGDAT'I
+CHKHOROTSKU,moneygram,,unknown,CREDO BANK - CHKHOROTSKU - CHKHOROTSKU S
+KHASHURI,moneygram,,unknown,CREDO BANK - KHASHURI - KHASHURI S.C
+KUTAISI,moneygram,,unknown,CREDO BANK - KUTAISI - KUTAISI 3 S.C
+ZUGDIDI,moneygram,,unknown,CREDO BANK - ZUGDIDI - ZUGDIDI 2 S.C
+TSKALTUBO,moneygram,,unknown,CREDO BANK - TSKALTUBO - TSKALTUBO S.C
+POTI,moneygram,,unknown,CRYSTAL - POTI - POTI
+SAMTREDIA,moneygram,,unknown,CREDO BANK - SAMTREDIA - SAMTREDIA S.C
+SENAKI,moneygram,,unknown,CREDO BANK - SENAKI - SENAKI S.C
+GURJAANI,moneygram,,unknown,CREDO BANK - GURJAANI - GURJAANI S.C
+GORI,moneygram,,unknown,CREDO BANK - GORI - GORI 2 S.C
+BAKURIANI,moneygram,,unknown,BANK OF GEORGIA - #49
+KABALI (VILLAGE),moneygram,,unknown,JSC FINCA BANK - KABALI (VILLAGE) - KABA
+KHONI,moneygram,,unknown,CREDO BANK - KHONI - KHONI S.C
+KHOBI,moneygram,,unknown,CREDO BANK - KHOBI - KHOBI S.C
+MARTVILI,moneygram,,unknown,CREDO BANK - MARTVILI - MARTVILI S.C
+ABASHA,moneygram,,unknown,CREDO BANK - ABASHA - ABASHA S.C
+CHIATURA,moneygram,,unknown,CREDO BANK - CHIATURA - CHIATURA S.C
+BATUMI,moneygram,,unknown,CREDO BANK - BATUMI - BATUMI 3 S.C
+DUSHETI,moneygram,,unknown,CREDO BANK - DUSHETI - DUSHETI S.C
+KARELI,moneygram,,unknown,CREDO BANK - KARELI - KARELI S.C
+MESTIA,moneygram,,unknown,CREDO BANK - MESTIA - MESTIA S.C
+ISANI-SAMGORI,moneygram,,unknown,LIBERTY BANK - #5 - SC SAMGORI
+SADAKHLO,moneygram,,unknown,LIBERTY BANK - #1 - SC CUSTOM RED BRIDGE
+KOBULETI,moneygram,,unknown,CREDO BANK - KOBULETI - KOBULETI S.C
+OZURGETI,moneygram,,unknown,CREDO BANK - OZURGETI - OZURGETI S.C
+KHOMULI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+GORA,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+BAGHDATI,moneygram,,unknown,CREDO BANK - BAGHDATI - BAGHDATI S.C
+SAREKI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+SHALAURI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KVARELI,moneygram,,unknown,CREDO BANK - KVARELI - KVARELI S.C
+ANAGA,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+LEKHAINDRAO,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+JIKHASHKARI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+AKHALI KHIBULA,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+AKHALKALAKI,moneygram,,unknown,CREDO BANK - AKHALKALAKI - AKHALKALAKI S
+SARTICHALA,moneygram,,unknown,BANK OF GEORGIA
+BOLNISI,moneygram,,unknown,CREDO BANK - BOLNISI - BOLNISI S.C
+KHEVI,moneygram,,unknown,LIBERTY BANK - #1 - KHEVI - SC
+QVISHKHETI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+KVIBISI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+TAZAKENDI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+TEKLATI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+OZAANI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+BAKURTSIKHE,moneygram,,unknown,LIBERTY BANK - #9 - SC TELAVI PAY EXPRES
+DZVELI ANAGA,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+KHICHAURI,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+MERIA,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+MATSIMI,moneygram,,unknown,LIBERTY BANK - #1 - SC CUSTOM LAGODEKHI
+TSURTAVI,moneygram,,unknown,LIBERTY BANK - #2 - SC BOLNISI
+KAZBEGI,moneygram,,unknown,LIBERTY BANK - KAZBEGI - CRA
+KVIRIKE,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+MUKHAESTATE,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+VASHLOVANI,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+FURTIO,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+NIGAZEULI,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+KEDA,moneygram,,unknown,CREDO BANK - KEDA - KEDA S.C
+CHOKHATAURI,moneygram,,unknown,CREDO BANK - CHOKHATAURI - CHOKHATAURI S
+KONCHKATI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+ZOTI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+JURQVETI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+BOROUGH NARUJA,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+GURIANTA,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+NATANEBI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+CHOCHKHATI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+AKETI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+BOROUGH LATIAURI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+SHROMA,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+GVISHTIBI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+MANDAETI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+PARTSKHANAQANEVI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+KVEDA SAZANO,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+ZEDA SIMONETI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+SIKTARVA,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+KVAKHCHIRI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+CHOGNARI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+AMAGLEBA,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+IVANDIDI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+CHORVILA,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+AMBROLAURI,moneygram,,unknown,CREDO BANK - AMBROLAURI - AMBROLAURI S.C
+TKIBULI,moneygram,,unknown,BANK OF GEORGIA
+TCHIATURA,moneygram,,unknown,LIBERTY BANK - #1 - TCHIATURA - SC
+VANI,moneygram,,unknown,CREDO BANK - VANI - VANI S.C
+SACHKHERE,moneygram,,unknown,CREDO BANK - SACHKHERE - SACHKHERE S.C
+ZESTAPHONI,moneygram,,unknown,MICRO BUSINESS CAPITAL - ZESTAPHONI - ZE
+PIRVELI OBCHA,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+PIRVELI SVIRI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+TSKHRATSKARO,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+DZEVRI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+BUGEULI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+DIMI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+VARTSIKHE,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+TUZI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+ITKHVISI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+KORBOULI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+PHERSATI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+KVITIRI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+ENISELI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KONDOLI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+TSINANDALI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+VACHNADZIANI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+NAPAREULI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+VELISTSIKHE,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+IKALTO,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+LAMBALO,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KALAURI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+VEJINI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+TSNORI,moneygram,,unknown,CREDO BANK - TSNORI - TSNORI S.C
+CHALAUBANI,moneygram,,unknown,LIBERTY BANK - #2 - SC GURJAANI
+DEDOPHLISTSKARO,moneygram,,unknown,LIBERTY BANK - DEDOPHLISTSKARO - CRA
+AKHMETA,moneygram,,unknown,CREDO BANK - AKHMETA - AKHMETA S.C
+GULGULA,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+KARDENAKHI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KARAJALA,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+SAMREKLO,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+JUGAANI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KVEMO MACHKHAANI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+ARBOSHIKI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+KVEMO BODBE,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KARTUBANI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+MAGHARO,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+KVEDA KEDI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+KISTAURI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+GALAVANI,moneygram,,unknown,LIBERTY BANK - #2 - SC MTSKHETA PAY EXPR
+DIDI CHKONI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+SACHINO,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+BANDZA,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+MUKHURI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+SALKHINO,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+DZVELI KHIBULA,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+SHAVGHELE,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+ABEDATI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+AKHALSOPELI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+ORSANTIA,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+JGALI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+SUJUNA,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+KAKHATI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+CHITATSKARI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+NAKIFU,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+TSALENJIKHA,moneygram,,unknown,CREDO BANK - TSALENJIKHA - TSALENJIKHA S
+INCHKHURI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+RUKHI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+CHUBERI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+CHAKVINJI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+CHKHORIA,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+KLDE,moneygram,,unknown,LIBERTY BANK - #3 - SC AKHALTSIKHE
+AKHALTSIKHE,moneygram,,unknown,FINCA GEORGIA - #023 - AKHALTSIKHE
+ASPINDZA,moneygram,,unknown,LIBERTY BANK
+BUGHASHENI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+KUMUDRO,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+KARTIKAMI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+SATKHE,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+VALE,moneygram,,unknown,LIBERTY BANK - #1 - VALE - SC CUSTOM
+JANDARA,moneygram,,unknown,LIBERTY BANK - #1 - SC MARNEULI
+GARDABANI,moneygram,,unknown,CREDO BANK - GARDABANI - GARDABANI S.C
+NORIO,moneygram,,unknown,LIBERTY BANK - #1 - SC ABASHA
+TSINTSKARO,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+BORBALO,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+ASURETI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+JORJIASHVILI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+LEMSHVENIERA,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+KRTSANISI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+MARADISI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+MARTKOFI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+RATEVANI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+MEJVRISKHEVI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+ATENI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+ZERTI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+MOKHISI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+URBNISI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+KARALETI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+TSKHRAMUKHA,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+CHALADIDI,moneygram,,unknown,LIBERTY BANK - #1 - CHALADIDI - SC
+AKHALGORI,moneygram,,unknown,LIBERTY BANK - AKHALGORI - BRANCH
+KODA,moneygram,,unknown,LIBERTY BANK - #1 - KODA - SC
+NIGOETI,moneygram,,unknown,LIBERTY BANK - #1 - NIGOETI - SC
+ARALI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+DZEVERA,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+PIRVELI MAISI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+ZEMO MACHKHAANI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+ZEMO KEDA,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+PSHAVELI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+BUSHETI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+KURSEBI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI  PAY EXP
+KVEDA TSAGERI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI  PAY EXP
+AKHUTI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+LAGODEKHI,moneygram,,unknown,CREDO BANK - LAGODEKHI - LAGODEKHI S.C
+AFENI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+CHIKHARESHI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+MAMZARA,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+KORETI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+TADZRISI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+GOGNI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+SAGAREJO,moneygram,,unknown,CREDO BANK - SAGAREJO - SAGAREJO S.C
+GUMBRA,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+DIKHASHKHO,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+PEREVISA,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+OPKVITI,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+MAGLAKI,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+GODOGANI,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+ZEMO JVARI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+BODBISKHEVI,moneygram,,unknown,LIBERTY BANK - #9 - SC TELAVI PAY EXPRES
+TKHINVALI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+LANCHKHUTI,moneygram,,unknown,CREDO BANK - LANCHKHUTI - LANCHKHUTI S.C
+TSOTSKHNARA,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+TSKHISI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+MUKUZANI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+DVABZU,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+NUKRIANI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+AKHALTERDZOLA,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+JOKOLI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+MTSKHETA,moneygram,,unknown,CRYSTAL - MTSKHETA - MUKHRANI
+DZVELI SENAKI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+BAVRA,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+LEDZADZAME,moneygram,,unknown,LIBERTY BANK - #9 - SC ZUGDIDI PAY EXPRE
+SHASHIANI,moneygram,,unknown,LIBERTY BANK - #1 - SHASHIANI - SC
+KHUTSUBANI,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+SHUAKHEVI,moneygram,,unknown,LIBERTY BANK
+KHULO,moneygram,,unknown,CREDO BANK - KHULO - KHULO S.C
+BAKHVI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+DZIMITI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+GRMAGELE,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+ROKHI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+TOLEBI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+SHUAMTA,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+KVATSIKHE,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+KHARAGAULI,moneygram,,unknown,CREDO BANK - KHARAGAULI - KHARAGAULI S.C
+TERJOLA,moneygram,,unknown,CREDO BANK - TERJOLA - TERJOLA S.C
+SAJAVAKHO,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+IANETI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+KUKHI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+RODINAULI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+CHIKHA,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+GAVAZI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+ACURA,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KAKABETI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+TELAVI,moneygram,,unknown,CREDO BANK - TELAVI - TELAVI S.C
+SIGHNAGHI,moneygram,,unknown,LIBERTY BANK
+ARKHILOSKALO,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+SAMTATSKARO,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+ZEMO ALVANI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+NAGVAZAO,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+KITSKHI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+SAJIJAO,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+INGIRI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+ANAKLIA,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+POTSKHO,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+BORJOMI,moneygram,,unknown,CREDO BANK - BORJOMI - BORJOMI S.C
+ADIGENI,moneygram,,unknown,LIBERTY BANK
+HESHTIA,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+TSALKA,moneygram,,unknown,CREDO BANK - TSALKA - TSALKA S.C
+DIDI DMANISI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+KASUMLO,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+VAKHTANGISI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+VARIAN,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+DIRBI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+SHINDISI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+DOESI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+KVARKHELI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+TIANETI,moneygram,,unknown,CREDO BANK - TIANETI - TIANETI S.C
+AKHALDABA,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+LIA,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+TSKHEMLISKHIDI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+DILISKA,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+SHILDA,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+TSAGVERI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+RIKI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+AZAVRETI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+ZEMO KHODASHENI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+ALISUBANI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+VACHEVI,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+RUPOTI,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+MUKHURA,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+KHIDISTAVI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+WIAURI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+GURIFULI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+MAGRAANI,moneygram,,unknown,LIBERTY BANK - #9 - SC TELAVI PAY EXPRES
+UDE,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+SARPHI,moneygram,,unknown,LIBERTY BANK - #1 - SARPHI - SC CUSTOM
+RUISI,moneygram,,unknown,LIBERTY BANK - #1 - RUISI - SC
+KHALA,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+KEDLEBI,moneygram,,unknown,LIBERTY BANK - #18 - SC BATUMI PAY EXPRE
+KOKHNARI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+SUFSA,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+NIGVZIANI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+SHEMOQMEDI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+KHREITI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+MEORE SVIRI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+BARDUBANI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+ORPIRI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+TSITELKHEVI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+ARGVETI,moneygram,,unknown,LIBERTY BANK - #1 - SC ZESTAPHONI
+ONI,moneygram,,unknown,LIBERTY BANK
+TSAGERI,moneygram,,unknown,CREDO BANK - TSAGERI - TSAGERI S.C
+KATSKHI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+ZODI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI PAY EXPRESS
+DIDI JIKHAISHI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+ZEDA SAKARA,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+FUTI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+CHIKAANI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+ARASHENDA,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KISISKHEVI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+KACHRETI,moneygram,,unknown,LIBERTY BANK - #6 - SC TELAVI PAY EXPRES
+NINIGORI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+VAKIRI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+LELIANI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+MATANI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+KVEMO ALVANI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+SAGURAMO,moneygram,,unknown,LIBERTY BANK - #2 - SC MTSKHETA PAY EXPR
+EKI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+KHAMISKURI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+KURZU,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+CHKADUASHI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+CHALE,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+MANGLISI,moneygram,,unknown,LIBERTY BANK - #1 - MANGLISI - SC
+NOSIRI,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+KHABUME,moneygram,,unknown,LIBERTY BANK - SC ZUGDIDI PAY EXPRESS
+KULIKAMI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+ATSKURI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+DMANISI,moneygram,,unknown,CREDO BANK - DMANISI - DMANISI S.C
+MARNEULI,moneygram,,unknown,CREDO BANK - MARNEULI - MARNEULI S.C
+GOMARETI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+MAMKHUTI,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+NAZARLO,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+KASPI,moneygram,,unknown,CREDO BANK - KASPI - KASPI S.C
+TINISKHIDI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+KVENATKOTSI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+GOMI,moneygram,,unknown,LIBERTY BANK - #1 - GOMI - SC
+POKA,moneygram,,unknown,LIBERTY BANK - #1 - POKA - SC
+DIDI KHANCHALI,moneygram,,unknown,LIBERTY BANK - SC AKHALTSIKHE PAY EXPRES
+AKHALABASTUMANI,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+DUISI,moneygram,,unknown,LIBERTY BANK - #7 - SC TELAVI PAY EXPRES
+MERJEVI,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI  PAY EXP
+LESICHINE,moneygram,,unknown,LIBERTY BANK - #8 - SC ZUGDIDI PAY EXPRE
+SAVANE,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+ETSERI,moneygram,,unknown,LIBERTY BANK - #23 - SC KUTAISI PAY EXPR
+PATARDZEULI,moneygram,,unknown,LIBERTY BANK - #9 - SC TELAVI PAY EXPRES
+GAMARJVEBA,moneygram,,unknown,LIBERTY BANK - SC RUSTAVI PAY EXPRESS
+PLEVI,moneygram,,unknown,LIBERTY BANK - #6 - SC GORI PAY EXPRESS
+NAGOMARI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+VAKIDZVARI,moneygram,,unknown,LIBERTY BANK - #4 - SC OZURGETI PAY EXPR
+OJIO,moneygram,,unknown,LIBERTY BANK - #9 - SC TELAVI PAY EXPRES
+NAKHSHIRGELE,moneygram,,unknown,LIBERTY BANK - #18 - SC KUTAISI PAY EXPR
+SVERI,moneygram,,unknown,LIBERTY BANK - SC KUTAISI  PAY EXPRESS
+AKHALKALAQI,moneygram,,unknown,RICO CREDIT
+SIGNAGI,moneygram,,unknown,TBC BANK - SIGNAGI
+T'ELAVI,moneygram,,unknown,FINCA GEORGIA - #005 - T'ELAVI
+K'UT'AISI,moneygram,,unknown,FINCA GEORGIA - #026 - K'UT'AISI
+P'OT'I,moneygram,,unknown,FINCA GEORGIA - #033 - P'OT'I
+KASPI  SAAKADZE STREET 88,moneygram,,unknown,MICROFINANCE ORGANISATION RICO EXPRESS L
+BOLNISI STR. SULKHAN SABA ORBELIANI 101,moneygram,,unknown,RICO CREDIT
+BORJOMI STR.MESKHETI 3,moneygram,,unknown,MICROFINANCE ORGANISATION RICO EXPRESS L
+DEDOPLISTSKARO,moneygram,,unknown,BANK OF GEORGIA - #225
+KABALI,moneygram,,unknown,TBC BANK - KABALI SERVICE-CENTER 1
+IORMUGHANLO,moneygram,,unknown,TBC BANK - IORMUGHANLO SERVICE-CENTER 1
+MARTKOPI,moneygram,,unknown,TBC BANK - MARTKOPI SERVICE-CENTER 1
+ZESTAPONI,moneygram,,unknown,TBC BANK - ZESTAPONI SERVICE-CENTER 1
+GUDAURI,moneygram,,unknown,TBC BANK - SC IN GUDAURI
+MUKHRANI,moneygram,,unknown,TBC BANK - MUKHRANI SERVICE-CENTER 1
+NINOTSMINDA,moneygram,,unknown,CREDO BANK - NINOTSMINDA - NINOTSMINDA S
+TETRITSKARO,moneygram,,unknown,TBC BANK - TETRITSKARO SERVICE-CENTER 1
+QEDA,moneygram,,unknown,ELT COMPANY
+ZESTAFONI,moneygram,,unknown,CREDO BANK - ZESTAFONI - ZESTAFONI S.C
+K'EDA,moneygram,,unknown,LIBERTY BANK
+LENTEKHI,moneygram,,unknown,LIBERTY BANK
+BAGDATI,moneygram,,unknown,LIBERTY BANK
+TETRI TSKARO,moneygram,,unknown,CREDO BANK - TETRI TSKARO - TETRITSKARO
+TSQALTUBO,moneygram,,unknown,BANK OF GEORGIA - #42
+CHAKVI,moneygram,,unknown,CRYSTAL - CHAKVI - CHAKVI
+TQIBULI,moneygram,,unknown,LIBERTY BANK
+KACHRET'I,moneygram,,unknown,LIBERTY BANK
+SARPI,moneygram,,unknown,LIBERTY BANK
+STEPANSTMINDA,moneygram,,unknown,LIBERTY BANK - Stepanstminda
+ALVANI,moneygram,,unknown,CRYSTAL - ALVANI - ALVANI
+DEDOFLISTSKARO,moneygram,,unknown,CREDO BANK - DEDOFLISTSKARO - DEDOFLISTS
+AKHALK'ALAK'I,moneygram,,unknown,FINCA GEORGIA - #046 - AKHALK'ALAK'I
+SACH'KHERE,moneygram,,unknown,FINCA GEORGIA - #030 - SACH'KHERE
+QVARELI,moneygram,,unknown,BANK OF GEORGIA
+TS'AGERI,moneygram,,unknown,LIBERTY BANK
+CHIAT'URA,moneygram,,unknown,FINCA GEORGIA - #031 - CHIAT'URA
+ZESTAP'ONI,moneygram,,unknown,FINCA GEORGIA - #029 - ZESTAP'ONI
+AKHALTSIKE,moneygram,,unknown,CREDO BANK - AKHALTSIKE - AKHALTSIKE S.C
+FOTI,moneygram,,unknown,CREDO BANK - FOTI - FOTI S.C
+Tbilisi,national,,unknown,Tbilisi
+Kutaisi,national,,unknown,Kutaisi International Airport
+Batumi,national,,unknown,Batumi Airport Meet And Greet
+Tiflis,newyorker,16th km D. Aghmashenebeli Alley T'bilisi 0131,unknown,NEW YORKER | Tbilisi Mall
+Tiflis,newyorker,2 Aleksandre Tvalchrelidze East Point M 0182 Tiflis,unknown,NEW YORKER | East Point Mall
+Tiflis,newyorker,2/4 Shota Rustaveli Ave 0105 Tiflis,unknown,NEW YORKER | Galleria Tbilisi Mall
+Tiflis,newyorker,1 Kavtaradze st. 0100 Tiflis,unknown,NEW YORKER | SC Saburtalo City Mall
+Batumi,newyorker,Lech and Maria Kaczynski Str. 1 Batumi,unknown,NEW YORKER | Metro City Mall
+ Tbilisi,next,,unknown,TBILISI
+Tbilisi,next,,unknown,Pekini    
+Tbilisi,nike,,unknown,Nike Rustaveli
+SAVANNAH,nissan_europe,,unknown,VADEN NISSAN
+GRIFFIN,nissan_europe,,unknown,CRONIC NISSAN
+ROSWELL,nissan_europe,,unknown,REGAL NISSAN
+MILLEDGEVILLE,nissan_europe,,unknown,CHILDRE NISSAN
+MARIETTA,nissan_europe,,unknown,AUTONATION NISSAN MARIETTA
+DULUTH,nissan_europe,,unknown,GWINNETT PLACE NISSAN
+KENNESAW,nissan_europe,,unknown,TOWN CENTER NISSAN
+CARROLLTON,nissan_europe,,unknown,SCOTT EVANS NISSAN
+DUBLIN,nissan_europe,,unknown,DUBLIN NISSAN
+VIDALIA,nissan_europe,,unknown,WOODY FOLSOM NISSAN
+CONYERS,nissan_europe,,unknown,CONYERS NISSAN
+WARNER ROBINS,nissan_europe,,unknown,FIVE STAR NISSAN
+FLEMINGTON,nissan_europe,,unknown,VADEN NISSAN OF HINESVILLE
+THOMASVILLE,nissan_europe,,unknown,FLOWERS NISSAN
+TIFTON,nissan_europe,,unknown,TENNESON NISSAN
+COLUMBUS,nissan_europe,,unknown,HEADQUARTER NISSAN OF COLUMBUS
+ALBANY,nissan_europe,,unknown,FIVE STAR NISSAN OF ALBANY
+STATESBORO,nissan_europe,,unknown,VADEN NISSAN OF STATESBORO
+ATHENS,nissan_europe,,unknown,NISSAN OF ATHENS
+GARDEN CITY,nissan_europe,,unknown,GRAINGER NISSAN
+MACON,nissan_europe,,unknown,BUTLER NISSAN
+MCDONOUGH,nissan_europe,,unknown,MCDONOUGH NISSAN
+DALTON,nissan_europe,,unknown,MTN VIEW NISSAN OF DALTON
+BRUNSWICK,nissan_europe,,unknown,GREENWAY NISSAN BRUNSWICK
+CUMMING,nissan_europe,,unknown,NALLEY NISSAN OF CUMMING
+VALDOSTA,nissan_europe,,unknown,VALDOSTA NISSAN
+MORROW,nissan_europe,,unknown,NISSAN SOUTH MORROW
+NEWNAN,nissan_europe,,unknown,NISSAN OF NEWNAN
+AUGUSTA,nissan_europe,,unknown,MIRACLE NISSAN OF AUGUSTA
+WAYCROSS,nissan_europe,,unknown,WALKER-JONES NISSAN
+LITHIA SPRINGS,nissan_europe,,unknown,NISSAN OF LITHIA SPRINGS
+ATLANTA,nissan_europe,,unknown,MIKE REZI NISSAN ATLANTA
+LAGRANGE,nissan_europe,,unknown,NISSAN OF LAGRANGE
+LILBURN,nissan_europe,,unknown,STONE MOUNTAIN NISSAN
+GAINESVILLE,nissan_europe,,unknown,JIM SHORKEY NISSAN OF GAINESVILLE
+ROME,nissan_europe,,unknown,SHOTTENKIRK NISSAN ROME
+HOLLY SPRINGS,nissan_europe,,unknown,CHEROKEE COUNTY NISSAN
+BUFORD,nissan_europe,,unknown,PREMIER NISSAN MALL OF GEORGIA
+UNION CITY,nissan_europe,,unknown,BELLA NISSAN OF UNION CITY
+Tbilisi,ovs,,unknown,OVS Tbilisi Mall
+Batumi,ovs,,unknown,OVS Kids BATUMI
+unknown,sbarro,TAB GEORGIA RUSTAVELIS GAMZIRI 2/4 NAKVETI 65/003,unknown,Georgia City Mall AVM Sbarro
+Kutaisi,sixt,,unknown,Car Hire Kutaisi International Airport | SIXT rent a car
+Tbilisi,sixt,,unknown,Car Hire Tbilisi | SIXT rent a car
+Batumi,sixt,,unknown,Car Hire Batumi International Airport | SIXT rent a car
+Batumi,speed_queen,,unknown,Speed Queen
+Tbilisi,speed_queen,,unknown,Speed Queen
+Terjala,subway,,unknown,Subway Terjola District
+Tbilisi,subway,,unknown,Subway
+Gori,subway,,unknown,Subway
+Batumi,subway,,unknown,Subway Grand Mall
+Tbilisi,superdry,,unknown,Superdry  City Mall
+Tbilisi,the_north_face_eu,,unknown,The North face Tbilisi
+T'bilisi,timberland,,unknown,Timberland - Vazha Pshavela
+Tbilisi,tommy_hilfiger,,unknown,Tommy Hilfiger
+GORI,totalenergies,,unknown,GORI HIGHWAY
+AKHALSOPELI,totalenergies,,unknown,BATUMI AKHALSOPELI
+BATUMI AIRPORT,totalenergies,,unknown,BATUMI AIRPORT
+BATUMI,united_colors_of_benetton,,unknown,Benetton Batumi
+TBILISI,united_colors_of_benetton,,unknown,Benetton Tbilisi
+SARPI,visa,,unknown,unknown
+BATUMI,visa,,unknown,unknown
+SARFI,visa,,unknown,unknown
+KVARIATI,visa,,unknown,unknown
+AKHALSOFELI (KHELVACHAURI),visa,,unknown,unknown
+KHELVACHAURI,visa,,unknown,unknown
+KHARAGAULI,visa,,unknown,unknown
+GORI,visa,,unknown,unknown
+BAKURIANI,visa,,unknown,unknown
+UREKI,visa,,unknown,unknown
+KABALI,visa,,unknown,unknown
+KOBULETI,visa,,unknown,unknown
+TBILISI,visa,,unknown,unknown
+MAKHINJAURI,visa,,unknown,unknown
+DABA CHAQVI,visa,,unknown,unknown
+DABA CHAKVI,visa,,unknown,unknown
+CHAKVI,visa,,unknown,unknown
+CHAQVI,visa,,unknown,unknown
+KEDA,visa,,unknown,unknown
+SACHKHERE,visa,,unknown,unknown
+RUSTAVI,visa,,unknown,unknown
+DABA SHEKVETILI,visa,,unknown,unknown
+SHEKVETILI,visa,,unknown,unknown
+NATANEBI,visa,,unknown,unknown
+POTI,visa,,unknown,unknown
+SHUAKHEVI,visa,,unknown,unknown
+ZUGDIDI,visa,,unknown,unknown
+KUTAISI,visa,,unknown,unknown
+OZURGETI,visa,,unknown,unknown
+MARNEULI,visa,,unknown,unknown
+KHULO,visa,,unknown,unknown
+ANAKLIA,visa,,unknown,unknown
+DEDOPLISTSKARO,visa,,unknown,unknown
+KHOBI,visa,,unknown,unknown
+DMANISI,visa,,unknown,unknown
+LANCHKHUTI,visa,,unknown,unknown
+DARCHELI,visa,,unknown,unknown
+CHOKHATAURI,visa,,unknown,unknown
+NIGOETI,visa,,unknown,unknown
+TSALKA,visa,,unknown,unknown
+ABASHA,visa,,unknown,unknown
+SENAKI,visa,,unknown,unknown
+TSALENJIKHA,visa,,unknown,unknown
+KOKHNATI,visa,,unknown,unknown
+ZESTAPHONI,visa,,unknown,unknown
+ADIGENI,visa,,unknown,unknown
+KHASHURI,visa,,unknown,unknown
+RUKHI,visa,,unknown,unknown
+SAMTREDIA,visa,,unknown,unknown
+VALE,visa,,unknown,unknown
+LESICHINE,visa,,unknown,unknown
+ABASTUMANI,visa,,unknown,unknown
+VANI,visa,,unknown,unknown
+MARTVILI,visa,,unknown,unknown
+AKHALTSIKHE,visa,,unknown,unknown
+DUSHETI,visa,,unknown,unknown
+CHKHOROTSKU,visa,,unknown,unknown
+SAIRME,visa,,unknown,unknown
+KHONI,visa,,unknown,unknown
+DABA DJVARI,visa,,unknown,unknown
+ZEINDARI,visa,,unknown,unknown
+JGALI,visa,,unknown,unknown
+KUMURDO,visa,,unknown,unknown
+TSKALTUBO,visa,,unknown,unknown
+ASPINDZA,visa,,unknown,unknown
+GEGUTI,visa,,unknown,unknown
+VILLAGE VARCIKHE,visa,,unknown,unknown
+BAGDATI,visa,,unknown,unknown
+NINOTSMINDA,visa,,unknown,unknown
+GARDABANI,visa,,unknown,unknown
+ATSKURI,visa,,unknown,unknown
+AKHALKALAKI,visa,,unknown,unknown
+KVARELI,visa,,unknown,unknown
+SVIRI,visa,,unknown,unknown
+BARALETI,visa,,unknown,unknown
+ZESTAPONI,visa,,unknown,unknown
+ZESTAFONI,visa,,unknown,unknown
+TETRITSKARO,visa,,unknown,unknown
+TERJOLA,visa,,unknown,unknown
+SHORAPANI,visa,,unknown,unknown
+BORJOMI,visa,,unknown,unknown
+CHIATURA,visa,,unknown,unknown
+POKA,visa,,unknown,unknown
+BOLNISI,visa,,unknown,unknown
+SATSIRE,visa,,unknown,unknown
+SAZANO,visa,,unknown,unknown
+TKIBULI,visa,,unknown,unknown
+GHORESHA VILLAGE,visa,,unknown,unknown
+TSAGERI,visa,,unknown,unknown
+LAJANA,visa,,unknown,unknown
+LENTEKHI,visa,,unknown,unknown
+CHREBALO,visa,,unknown,unknown
+CHIAT'URA,visa,,unknown,unknown
+TSNORI,visa,,unknown,unknown
+SURAMI,visa,,unknown,unknown
+USAKHELO,visa,,unknown,unknown
+AMBROLAURI,visa,,unknown,unknown
+KORBOULI,visa,,unknown,unknown
+SAGAREJO,visa,,unknown,unknown
+GOMI,visa,,unknown,unknown
+MESTIA,visa,,unknown,unknown
+KARELI,visa,,unknown,unknown
+BERDZENAULI,visa,,unknown,unknown
+KAZRETI,visa,,unknown,unknown
+AGARA,visa,,unknown,unknown
+ONI,visa,,unknown,unknown
+SADAKHLO,visa,,unknown,unknown
+MANGLISI,visa,,unknown,unknown
+TKVIAVI,visa,,unknown,unknown
+TIANETI,visa,,unknown,unknown
+KASPI,visa,,unknown,unknown
+KODA,visa,,unknown,unknown
+KOJORI,visa,,unknown,unknown
+KSANI,visa,,unknown,unknown
+SHINDISI,visa,,unknown,unknown
+MUKHRANI,visa,,unknown,unknown
+MTSKHETA,visa,,unknown,unknown
+TSEROVANI,visa,,unknown,unknown
+VILLAGE TSEROVANI,visa,,unknown,unknown
+ZAHESI,visa,,unknown,unknown
+NATAKHTARI,visa,,unknown,unknown
+TELAVI,visa,,unknown,unknown
+GUDAURI,visa,,unknown,unknown
+0167,visa,,unknown,unknown
+SAGURAMO,visa,,unknown,unknown
+MISAQCIELI,visa,,unknown,unknown
+GURJAANI,visa,,unknown,unknown
+MARTKOFI,visa,,unknown,unknown
+MUKHROVANI,visa,,unknown,unknown
+DABA JINVALI,visa,,unknown,unknown
+SARTICHALA,visa,,unknown,unknown
+KHEVSURTSOPELI,visa,,unknown,unknown
+UDABNO,visa,,unknown,unknown
+P''ASANAURI,visa,,unknown,unknown
+LAGODEKHI,visa,,unknown,unknown
+KAZBEGI,visa,,unknown,unknown
+AKHMETA,visa,,unknown,unknown
+STEPHANCMINDA KAZBEGI,visa,,unknown,unknown
+STEPANTSMINDA,visa,,unknown,unknown
+KVARELTSKALI,visa,,unknown,unknown
+TSINANDALI VILLAGE,visa,,unknown,unknown
+SHASHIANI,visa,,unknown,unknown
+NUKRIANI VILLAGE,visa,,unknown,unknown
+VILLAGE NAPAREULI,visa,,unknown,unknown
+BAKURTSIKHE,visa,,unknown,unknown
+SIGNAGI,visa,,unknown,unknown
+VELISTSIKHE,visa,,unknown,unknown
+SIGNAGHI,visa,,unknown,unknown
+SIGHNAGHI,visa,,unknown,unknown
+DEDOPHLISTSKARO,visa,,unknown,unknown
+BADIAURI,visa,,unknown,unknown
+SHILDA,visa,,unknown,unknown
+GAVAZI,visa,,unknown,unknown
+AKHMET,visa,,unknown,unknown
+APHENI,visa,,unknown,unknown
+AKHALSOPELI,visa,,unknown,unknown
+Tbilisi,western_union,,unknown,RICO EXPRESS
+Gori,western_union,,unknown,RICO EXPRESS
+Kareli,western_union,,unknown,RICO EXPRESS
+Batumi,western_union,,unknown,RICO EXPRESS
+Kutaisi,western_union,,unknown,RICO EXPRESS
+Abasha,western_union,,unknown,RICO EXPRESS
+Rustavi,western_union,,unknown,JSC Silk Bank -19th - Rustavi Branch
+Gardabani,western_union,,unknown,RICO EXPRESS
+unknown,wildberries,Сочи Урожайная Улица 95,unknown,Wildberries
+unknown,wildberries,Сочи Приграничная Улица 14,unknown,Wildberries

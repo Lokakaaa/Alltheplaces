@@ -1,0 +1,19 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+PUQT71,enterprise,Alamo Rent A Car,,Punta Arenas,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+ANFC01,enterprise,Antofagasta,,Antofagasta,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+ANFC71,enterprise,Alamo Rent A Car,,Antofagasta,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+CJCC01,enterprise,Calama - Dowtown,,Calama,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+CJCC71,enterprise,Alamo Rent A Car,,Calama,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+PMCT01,enterprise,Puerto Montt Airport,,Puerto Montt,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+PMCT71,enterprise,Alamo Rent A Car,,Puerto Montt,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+PUQC71,enterprise,Alamo Rent A Car,,Punta Arenas,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+SCLC01,enterprise,Santiago City,,Santiago,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+SCLC71,enterprise,Alamo Rent A Car,,Santiago,,,CL,+56 2 2655 5202,,,Enterprise Rent-A-Car,Q17085454
+SCLT71,enterprise,Alamo Rent A Car,,Santiago,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+SCLT02,enterprise,Santiago Intl Airport,,Santiago,,,CL,,,,Enterprise Rent-A-Car,Q17085454
+bike_santiago:18,gbfs,P16 - Metro Salvador,,,,,CL,,https://www.bikesantiago.cl/,,Bike Itaú - Santiago,
+bike_santiago:42,gbfs,P55 - Pérez Valenzuela,,,,,CL,,https://www.bikesantiago.cl/,,Bike Itaú - Santiago,
+bike_santiago:102,gbfs,I06 - Mall Independencia,,,,,CL,,https://www.bikesantiago.cl/,,Bike Itaú - Santiago,
+bike_santiago:269,gbfs,P36 - Carlos Antúnez /  Barros Errázuriz,,,,,CL,,https://www.bikesantiago.cl/,,Bike Itaú - Santiago,
+bike_santiago:286,gbfs,N02 - Jose Pedro Alessandri / Irarrazaval,,,,,CL,,https://www.bikesantiago.cl/,,Bike Itaú - Santiago,
+bike_santiago:295,gbfs,P50 - Las Esculturas Oriente,,,,,CL,,https://www.bikesantiago.cl/,,Bike Itaú - Santiago,

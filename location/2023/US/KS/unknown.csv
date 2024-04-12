@@ -1,0 +1,591 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+623fdccd-65d5-4277-9231-acc010321739,cintas,"Garden City, KS","1200 S 2nd St , Dodge City, KS 67801",Ford County,KS,,US,+1 620-225-6450,,Mo-Fr 08:00-17:00,Cintas,Q1092571
+9cc37238-a495-4a45-9fe8-921e7c491a67,cintas,"Salina, KS","1331 Armory Rd , Salina, KS 67401",Saline County,KS,,US,+1 785-376-0522,,Mo-Fr 08:00-17:00,Cintas,Q1092571
+8975ca4e-6201-421e-9b8b-17e31328ec8e,cintas,"Wichita, KS","8201 E 34th St N Suite 909 , Wichita, KS 67226",Sedgwick County,KS,,US,+1 913-441-4477,,Mo-Fr 08:00-17:00,Cintas,Q1092571
+bf977728-b21c-44a8-bb2b-b70a3acedf14,cintas,"Wichita, KS","8201 E 34th St N Suite 909 , Wichita, KS 67226",Sedgwick County,KS,,US,+1 316-665-6060,,Mo-Fr 08:00-17:00,Cintas,Q1092571
+59c62cde-f88d-4d5d-9943-fc87301decef,cintas,"Wichita, KS","9333 E 35th St N , Wichita, KS 67226",Sedgwick County,KS,,US,+1 316-945-5700,,Mo-Fr 08:00-17:00,Cintas,Q1092571
+5072510d-37ad-4cbd-bc86-73dab684c17d,cintas,"Kansas City, KS","2050 Kansas City Rd , Olathe, KS 66051",Johnson County,KS,,US,+1 913-782-8333,,Mo-Fr 08:00-17:00,Cintas,Q1092571
+06babae8-0098-43e8-86f4-1b1c48e9cf2f,cintas,"Kansas City, KS","15533 W 100th Terrace , Lenexa, KS 66219",Johnson County,KS,,US,+1 913-441-4477,,Mo-Fr 08:00-17:00,Cintas,Q1092571
+b621a855-5966-4970-b30d-4f3d56e8e1c2,cintas,"Kansas City, KS","10060 Lackman Rd , Lenexa, KS 66219",Johnson County,KS,,US,+1 913-441-4477,,Mo-Fr 08:00-17:00,Cintas,Q1092571
+76FD2kZ0hWm3GWCPsjBvVg,costa_coffee,Walmart ,"13600 S Alden Street Olathe, KS 66062",,KS,,US,,,Mo-Su 06:00-23:00,Smart Café,Q117448428
+,credit_union_us,Mid American CU,,Larned,KS,,US,,,Mo-Fr 09:00-05:00; Sa 09:00-12:00,,
+dcb5c320-09a7-11eb-98ff-7115dabbec5b:Store,crumbl_cookies_us,Derby,"1918 N Rock Rd #700, Derby, Kansas 67037",,KS,,US,+1 316-252-3848,https://crumblcookies.com/derby,Mo-Sa 08:00-22:00,Crumbl Cookies,Q106924414
+7cc6f120-6750-11ec-9996-3d08d3ab42c4:Store,crumbl_cookies_us,Little Apple,"501 N 3rd Place Suite C, Manhattan, Kansas 66502",,KS,,US,+1 785-706-9199,https://crumblcookies.com/kslittleapple,Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00,Crumbl Cookies,Q106924414
+74c72b80-50a1-11ed-86e5-454909b4cfec:Store,crumbl_cookies_us,Mission Commons,"6021 Metcalf Ave, Mission, Kansas 66202",,KS,,US,+1 913-308-6649,https://crumblcookies.com/ksmissioncommons,Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00,Crumbl Cookies,Q106924414
+ebcf19f0-3962-11ed-bd04-514eb79d0283:Store,crumbl_cookies_us,New Market Square,"2755 N. Maize Rd Suite 101, Wichita, Kansas 67205",,KS,,US,+1 316-202-1552,https://crumblcookies.com/ksnewmarketsquare,Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00,Crumbl Cookies,Q106924414
+b615ea10-cd50-11ec-9427-b9c3381402b2:Store,crumbl_cookies_us,Oak Park,"12154 W. 95th St., Lenexa, Kansas 66215",,KS,,US,+1 913-210-1331,https://crumblcookies.com/ksoakpark,Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00,Crumbl Cookies,Q106924414
+4e88f710-60dd-11eb-bdb4-6d50be186102:Store,crumbl_cookies_us,Olathe,"15159 W 119th, Olathe, Kansas 66062",,KS,,US,+1 913-361-7073,https://crumblcookies.com/olathe,Mo-Th 08:00-22:00; Fr-Sa 08:00-24:00,Crumbl Cookies,Q106924414
+85411290-3b32-11eb-8f01-6d36733bac84:Store,crumbl_cookies_us,Overland Park,"6780 W 135th St, Overland Park, Kansas 66223",,KS,,US,+1 913-361-7072,https://crumblcookies.com/overlandpark,Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00,Crumbl Cookies,Q106924414
+f39ec0c0-7943-11ec-b93e-21d09f9f486c:Store,crumbl_cookies_us,Topeka,"2130 SW Wanamaker Road #160, Topeka, Kansas 66614",,KS,,US,+1 785-274-9944,https://crumblcookies.com/kstopeka,Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00,Crumbl Cookies,Q106924414
+0cbfe900-8d5d-11ea-8a5e-b31de66fad71:Store,crumbl_cookies_us,Wichita,"2564 N Greenwich Rd, Suite 500, Wichita, Kansas 67226",,KS,,US,+1 316-778-8862,https://crumblcookies.com/wichita,Mo-Th 08:00-23:00,Crumbl Cookies,Q106924414
+1299,edible_arrangements,Edible Arrangements - 1571,"2300 N Greenwich Rd, Wichita, KS 67226",Sedgwick County,KS,,US,+1 316-847-8232,https://www.ediblearrangements.com/stores/2300-n-greenwich-rd-wichita-ks-67226,Mo-Sa 09:00-19:00; Su 09:00-15:00,Edible Arrangements,Q5337996
+189,edible_arrangements,Edible Arrangements - 323,"13246 W 87th Street, Lenexa, KS 66215",Johnson County,KS,,US,+1 913-894-5511,https://www.ediblearrangements.com/stores/13246-w-87th-st-lenexa-ks-66215,Mo-Sa 09:00-19:00; Su 09:00-15:00,Edible Arrangements,Q5337996
+1134,edible_arrangements,Edible Arrangements - 1458,"3629 Broadway Street, Kansas City, MO 64111",Johnson County,KS,,US,+1 816-569-6649,https://www.ediblearrangements.com/stores/3629-broadway-street-kansas-city-mo-64111,Mo-Sa 09:00-19:00; Su 09:00-15:00,Edible Arrangements,Q5337996
+22,evereve_us,EVEREVE - Town Center Crossing,"4319 W. 119th Street, Leawood Kansas 66209",,KS,,US,+1 913-317-5065,https://evereve.com/stores/ks/leawood-town-center-crossing/,,EVEREVE,Q69891997
+40,evereve_us,EVEREVE - Country Club Plaza,"225 W 47th St, Kansas City Missouri 64112",,KS,,US,+1 816-569-2253,https://evereve.com/stores/mo/kansas-city-country-club-plaza/,,EVEREVE,Q69891997
+61,evereve_us,EVEREVE - Oak Park Mall,"11245 W. 95th Street, Overland Park Kansas 66214",,KS,,US,+1 913-274-9002,https://evereve.com/stores/ks/overland-park-oak-park-mall/,,EVEREVE,Q69891997
+44744539,francescas_us,Bradley Fair Shopping Center #132,"2000 North Rock Rd. 134,Wichita, KS 67206",,KS,,US,+1 316-315-4500,,,Francesca's,Q72982331
+44744531,francescas_us,Country Club Plaza #124,"4724 Broadway,Kansas City, MO 64112",,KS,,US,+1 816-332-4989,,,Francesca's,Q72982331
+44744731,francescas_us,Legends Outlet #2039,"1847 Village West Pkwy K-111,Kansas City, KS 66111",,KS,,US,+1 913-428-2722,,,Francesca's,Q72982331
+44744599,francescas_us,Manhattan Town Center #473,"100 Manhattan Town Center,Manhattan, KS 66502",,KS,,US,+1 785-712-4003,,,Francesca's,Q72982331
+44744534,francescas_us,Oak Park Mall #127,"11445 W 95th St.,Overland Park, KS 66214",,KS,,US,+1 913-428-2742,,,Francesca's,Q72982331
+44744500,francescas_us,Town Center Plaza #75,"5256 W 119th St 2000,Leawood, KS 66209",,KS,,US,+1 913-336-3375,,,Francesca's,Q72982331
+44744632,francescas_us,West Ridge Mall #540,"1801 SW Wanamaker Rd E01B,Topeka, KS 66604",,KS,,US,+1 785-596-1063,,,Francesca's,Q72982331
+205,hooters,Hooters,"6100 SW 10th Avenue, Topeka, KS 66615",Shawnee County,KS,,US,+1 785-273-9464,https://www.hooters.com/locations/1144-topeka,Mo-Th 11:00-24:00; Fr-Sa 11:00-01:00; Su 11:00-24:00,Hooters,Q1025921
+72,hooters,Hooters,"10620 Metcalf Lane, Overland Park, KS 66212",Johnson County,KS,,US,+1 913-381-4668,https://www.hooters.com/locations/1103-overland-park,Mo-Th 11:00-24:00; Fr-Sa 11:00-01:00; Su 11:00-24:00,Hooters,Q1025921
+203,hooters,Hooters,"1712 Village West Parkway, Kansas City, KS 66111",Wyandotte County,KS,,US,+1 913-788-4668,https://www.hooters.com/locations/1147-kansas-city-speedway,Mo-Th 11:00-24:00; Fr-Sa 11:00-01:00; Su 11:00-24:00,Hooters,Q1025921
+1068,leslies_poolmart_us,Leslie's Pool Supplies,"2307 N ROCK RD STE 900, DERBY, KS, 67037-3859",,KS,,US,+1 316-788-1994,https://lesliespool.com/location/derby-kansas-derby-1068.html,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00,Leslie's Poolmart,Q6530568
+989,leslies_poolmart_us,Leslie's Pool Supplies,"1570 SW WANAMAKER RD STE 180-190, TOPEKA, KS, 66604-3856",,KS,,US,+1 785-273-3614,https://lesliespool.com/location/topeka-kansas-topeka-989.html,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00,Leslie's Poolmart,Q6530568
+58,leslies_poolmart_us,Leslie's Pool Supplies,"1168 W 103RD ST, KANSAS CITY, MO, 64114-4511",,KS,,US,+1 816-941-7730,https://lesliespool.com/location/kansas-city-missouri-kansas-city-58.html,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00,Leslie's Poolmart,Q6530568
+61,leslies_poolmart_us,Leslie's Pool Supplies,"4725 E CENTRAL AVE, WICHITA, KS, 67208-3919",,KS,,US,+1 316-682-3093,https://lesliespool.com/location/wichita-kansas-wichita-61.html,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00,Leslie's Poolmart,Q6530568
+637,leslies_poolmart_us,Leslie's Pool Supplies,"12111 W MAPLE ST STE 123, WICHITA, KS, 67235-8756",,KS,,US,+1 316-722-9800,https://lesliespool.com/location/wichita-kansas-west-wichita-637.html,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00,Leslie's Poolmart,Q6530568
+613,leslies_poolmart_us,Leslie's Pool Supplies,"14970 W 119TH ST, OLATHE, KS, 66062-9656",,KS,,US,+1 913-780-9992,https://lesliespool.com/location/olathe-kansas-olathe-613.html,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00,Leslie's Poolmart,Q6530568
+1050,leslies_poolmart_us,Leslie's Pool Supplies,"1435 E 30TH AVE STE D, HUTCHINSON, KS, 67502-1235",,KS,,US,+1 620-663-2162,https://lesliespool.com/location/hutchinson-kansas-hutchinson-1050.html,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00,Leslie's Poolmart,Q6530568
+152382,little_free_library,Novel Nook ~ Book Bungalow #152382,,,KS,,US,,,,Little Free Library,Q6650101
+163581,little_free_library,Donna Henry #163581,,Thomas County,KS,,US,,,,Little Free Library,Q6650101
+https://palmbeachtan.com/locations/KS/Waterfront,palm_beach_tan_us,Wichita Waterfront,"10096 East 13th Street N, Ste 132 Wichita, KS 67206",,KS,,US,+1 316-394-0804,https://palmbeachtan.com/locations/KS/Waterfront,Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 10:00-18:00,Palm Beach Tan,Q64027086
+https://palmbeachtan.com/locations/KS/E-Central,palm_beach_tan_us,Wichita E Central,"3107 East Central Avenue Wichita, KS 67214",,KS,,US,+1 316-394-0803,https://palmbeachtan.com/locations/KS/E-Central,Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 10:00-18:00,Palm Beach Tan,Q64027086
+https://palmbeachtan.com/locations/KS/21st-Maize,palm_beach_tan_us,Wichita 21st & Maize,"10231 West 21st Street N, Ste 111 Wichita, KS 67205",,KS,,US,+1 316-394-0802,https://palmbeachtan.com/locations/KS/21st-Maize,Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 10:00-18:00,Palm Beach Tan,Q64027086
+https://palmbeachtan.com/locations/KS/Maple-KS,palm_beach_tan_us,Wichita Maple,"7825 West Maple Street, Ste 102 Wichita, KS 67209",,KS,,US,+1 316-395-0683,https://palmbeachtan.com/locations/KS/Maple-KS,Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 10:00-18:00,Palm Beach Tan,Q64027086
+https://palmbeachtan.com/locations/KS/Westwood-Rainbow-Boulevard,palm_beach_tan_us,Westwood Village,"4736 Rainbow Blvd Westwood, KS 66205",,KS,,US,+1 913-717-5817,https://palmbeachtan.com/locations/KS/Westwood-Rainbow-Boulevard,Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 10:00-18:00,Palm Beach Tan,Q64027086
+1401,petsmart,South Kansas City,"8600 Ward Pkwy Kansas City, MO 64114",,KS,,US,+1 816-363-3306,https://www.petsmart.com/stores/us/mo/kansas-city-store1401.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+0237,petsmart,Overland Park,"11501 Metcalf Ave Overland Park, KS 66210",,KS,,US,+1 913-338-5544,https://www.petsmart.com/stores/us/ks/overland-park-store0237.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+2413,petsmart,Wyandotte,"7738 State Avenue Kansas City, KS 66112",,KS,,US,+1 913-998-7741,https://www.petsmart.com/stores/us/ks/kansas-city-store2413.html,Mo-Sa 09:00-20:00; Su 10:00-19:00,PetSmart,Q3307147
+2752,petsmart,Lawrence - Bauer Farm Drive,"4820 Bauer Farm Drive LAWRENCE, KS 66049",,KS,,US,+1 785-592-6400,https://www.petsmart.com/stores/us/ks/lawrence-store2752.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+2370,petsmart,Wichita,"11739 East Kellogg Dr. Wichita, KS 67207",,KS,,US,+1 316-361-5174,https://www.petsmart.com/stores/us/ks/wichita-store2370.html,Mo-Sa 09:00-20:00; Su 10:00-19:00,PetSmart,Q3307147
+2473,petsmart,Lawrence - Iowa Street,"2727 Iowa St., Suite E Lawrence, KS 66046",,KS,,US,+1 785-312-3009,https://www.petsmart.com/stores/us/ks/lawrence-store2473.html,Mo-Sa 09:00-20:00; Su 10:00-19:00,PetSmart,Q3307147
+2383,petsmart,Manhattan,"805 S Seth Child Rd Manhattan, KS 66502",,KS,,US,+1 785-560-3185,https://www.petsmart.com/stores/us/ks/manhattan-store2383.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+0246,petsmart,West Wichita,"533 S Tracy St Wichita, KS 67209",,KS,,US,+1 316-944-0470,https://www.petsmart.com/stores/us/ks/wichita-store0246.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+0245,petsmart,East Wichita,"3615 N Rock Rd Wichita, KS 67226",,KS,,US,+1 316-630-8026,https://www.petsmart.com/stores/us/ks/wichita-store0245.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+0244,petsmart,Topeka,"2020 SW Westport Dr Topeka, KS 66604",,KS,,US,+1 785-272-3323,https://www.petsmart.com/stores/us/ks/topeka-store0244.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+0242,petsmart,Shawnee Mission,"15200 Shawnee Mission Pkwy Shawnee Mission, KS 66217",,KS,,US,+1 913-248-9300,https://www.petsmart.com/stores/us/ks/shawnee-mission-store0242.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+0241,petsmart,Olathe,"15255 W 119th St Olathe, KS 66062",,KS,,US,+1 913-393-4111,https://www.petsmart.com/stores/us/ks/olathe-store0241.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+0240,petsmart,Merriam,"5810 Antioch Rd Merriam, KS 66202",,KS,,US,+1 913-384-4445,https://www.petsmart.com/stores/us/ks/merriam-store0240.html,Mo-Sa 09:00-21:00; Su 10:00-19:00,PetSmart,Q3307147
+https://www.questdiagnostics.com/locations/detail.html/MER/66204/75/1,quest_diagnostics,Quest Diagnostics - Georgetown,"9361 W 75th St, Bldg 5, Overland Park, KS 66204",Johnson County,KS,,US,+1 913-236-6303,https://www.questdiagnostics.com/locations/detail.html/MER/66204/75/1,Mo-Fr 07:30-18:00; Sa 07:00-12:00,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/AFET/66508/75/1,quest_diagnostics,Marshall County Health Department - Quest Collection Site,"1500 Center St, Marysville, KS 66508",Marshall County,KS,,US,+1 785-562-3485,https://www.questdiagnostics.com/locations/detail.html/AFET/66508/75/1,Mo-Tu 08:00-17:00; We 08:00-20:00; Th-Fr 08:00-17:00,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/KVD/66061/75/1,quest_diagnostics,Quest Diagnostics - Olathe,"20920 W 151st St, Ste 203, Olathe, KS 66061",Johnson County,KS,,US,+1 913-768-1959,https://www.questdiagnostics.com/locations/detail.html/KVD/66061/75/1,Mo-Fr 07:30-16:30,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/Q66/67214/75/1,quest_diagnostics,Quest Diagnostics - Wichita West - Employer Drug Testing Not Offered,"818 N Emporia St, Ste 306, Wichita, KS 67214",Sedgwick County,KS,,US,+1 316-370-0111,https://www.questdiagnostics.com/locations/detail.html/Q66/67214/75/1,"Mo-Fr 07:30-12:00,13:00-16:30",Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/IM/64110/75/1,quest_diagnostics,Quest Diagnostics - Metro Plaza,"1628 E 63rd St, Kansas City, MO 64110",Johnson County,KS,,US,+1 816-361-3708,https://www.questdiagnostics.com/locations/detail.html/IM/64110/75/1,Mo-Fr 07:00-16:00; Sa 07:30-11:30,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/YST/66502/75/1,quest_diagnostics,Quest Diagnostics - Manhattan,"1419 Westport Landing Pl, Ste 107, Manhattan, KS 66502",Riley County,KS,,US,+1 785-340-2978,https://www.questdiagnostics.com/locations/detail.html/YST/66502/75/1,"Mo-Th 07:00-12:30,13:00-15:30; Fr 07:00-11:30",Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/KL/67226/75/1,quest_diagnostics,Quest Diagnostics - Wichita,"9050 E 29th St N, Ste 80, Wichita, KS 67226",Sedgwick County,KS,,US,+1 316-685-5185,https://www.questdiagnostics.com/locations/detail.html/KL/67226/75/1,Mo-Fr 07:00-16:30,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/ITV/66604/75/1,quest_diagnostics,Quest Diagnostics - Topeka,"1111 SW Gage Blvd, Ste 200, Topeka, KS 66604",Shawnee County,KS,,US,+1 785-272-7743,https://www.questdiagnostics.com/locations/detail.html/ITV/66604/75/1,"Mo-Fr 07:00-11:30,12:30-16:00",Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/ISX/66215/75/1,quest_diagnostics,Quest Diagnostics - Quivira,"10550 Quivira Rd, Ste 290, Overland Park, KS 66215",Johnson County,KS,,US,+1 913-859-9248,https://www.questdiagnostics.com/locations/detail.html/ISX/66215/75/1,Mo-Fr 07:30-17:00,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/LKR/66109/75/1,quest_diagnostics,Quest Diagnostics - Legends,"10940 Parallel Pkwy, Ste E, Kansas City, KS 66109",Wyandotte County,KS,,US,+1 913-299-8538,https://www.questdiagnostics.com/locations/detail.html/LKR/66109/75/1,Mo-Fr 08:00-16:30,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/ITL/66209/75/1,quest_diagnostics,Quest Diagnostics - Menorah,"12140 Nall Ave, Ste 325, Overland Park, KS 66209",Johnson County,KS,,US,+1 913-661-9109,https://www.questdiagnostics.com/locations/detail.html/ITL/66209/75/1,Mo-Fr 07:00-16:30; Sa 07:00-12:00,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/QIV/67560/75/1,quest_diagnostics,Ness County Health Department - Ness County Health Department - QuestSelect Members Only,"202 West Sycamore, Ness, KS 67560",Ness County,KS,,US,+1 785-798-3388,https://www.questdiagnostics.com/locations/detail.html/QIV/67560/75/1,Mo-We 08:00-17:00; Fr 08:00-17:00,Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/ZLP/66044/75/1,quest_diagnostics,Quest Diagnostics - Lawrence,"1130 W 4th St, Ste 3000, Lawrence, KS 66044",Douglas County,KS,,US,+1 785-760-5642,https://www.questdiagnostics.com/locations/detail.html/ZLP/66044/75/1,"Mo-Fr 07:30-12:30,13:00-16:00",Quest Diagnostics,Q7271456
+https://www.questdiagnostics.com/locations/detail.html/OBZ/66801/75/1,quest_diagnostics,Newman Hospital Lab - Newman Hospital Lab - QuestSelect Members Only,"1201 West 12th Ave, Emporia, KS 66801",Lyon County,KS,,US,+1 620-343-6800,https://www.questdiagnostics.com/locations/detail.html/OBZ/66801/75/1,Mo-Fr 06:30-14:30,Quest Diagnostics,Q7271456
+1758,rainbow_shops,Rainbow,,Wichita,KS,,US,+1 316-691-5168,https://stores.rainbowshops.com/ks/wichita/1758/,Mo-Sa 10:00-20:00; Su 11:00-18:00,Rainbow,Q7284708
+leawood-ks,ra_sushi_us,"LEAWOOD, KS","11638 Ash St Leawood, KS 66211 US",Johnson County,KS,,US,+1 913-850-6260,https://rasushi.com/locations/leawood-ks/,Mo-Su 11:00-24:00,RA Sushi,Q117400401
+28899639,round1_us,Wichita (Towne East Square),"7700 E Kellogg Dr, Wichita, KS 67207, USA",,KS,,US,+1 316-500-2909,,Mo-Su 10:00-02:00,Round One Entertainment,Q11346634
+leawood-ks,shake_shack,Leawood,"5200 W. 119th Street; Leawood,  66209",Johnson County,KS,,US,,https://shakeshack.com/location/leawood-ks,,Shake Shack,Q1058722
+country-club-plaza-mo,shake_shack,Country Club Plaza,"239 West 47th Street; Kansas City,  64112",Johnson County,KS,,US,,https://shakeshack.com/location/country-club-plaza-mo,,Shake Shack,Q1058722
+49657972,simple_simons_pizza_us,Simple Simon's Pizza,"500 E 4th St, Altamont, KS 67330",,KS,,US,+1 620-784-3300,,Mo-Th 10:30-22:00; Fr-Sa 10:30-23:00; Su 10:30-22:00,Simple Simon's Pizza,Q116737866
+42382087,simple_simons_pizza_us,Simple Simon's Pizza,"202 N Main St, Attica, KS 67009",,KS,,US,+1 620-915-2158,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+42382159,simple_simons_pizza_us,Simple Simon's Pizza,"15302 Briar Rd, Basehor, KS 66007",,KS,,US,+1 913-724-4141,,Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-20:00,Simple Simon's Pizza,Q116737866
+42382115,simple_simons_pizza_us,Simple Simon's Pizza,"202 E 12th St, Baxter Springs, KS 66713",,KS,,US,+1 620-856-5690,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+42382015,simple_simons_pizza_us,Simple Simon's Pizza,"701 N Santa Fe Ave, Chanute, KS 66720",,KS,,US,+1 620-431-3722,,Mo-Th 06:00-22:00; Fr-Sa 06:00-23:00; Su 06:00-22:00,Simple Simon's Pizza,Q116737866
+44302272,simple_simons_pizza_us,Simple Simon's Pizza,"2110 S Sante Fe Ave, Chanute, KS 66720",,KS,,US,+1 620-431-4044,,Mo-Th 06:00-22:00; Fr-Sa 06:00-23:00; Su 06:00-22:00,Simple Simon's Pizza,Q116737866
+42382294,simple_simons_pizza_us,Simple Simon's Pizza,"1036 W Main, Cherryvale, KS 67335",,KS,,US,+1 620-336-2902,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490570,simple_simons_pizza_us,Simple Simon's Pizza,"807 W 11th S, Suite A, Coffeyville, KS 67337",,KS,,US,+1 620-688-8900,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490599,simple_simons_pizza_us,Simple Simon's Pizza,"998 US Hwy 166, Edna, KS 67342",,KS,,US,+1 620-922-7252,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490549,simple_simons_pizza_us,Simple Simon's Pizza,"14100 Hwy 59, Erie, KS 66733",,KS,,US,+1 620-244-3387,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+42382230,simple_simons_pizza_us,Simple Simon's Pizza,"1920 S Main St, Fort Scott, KS 66701",,KS,,US,+1 620-223-6954,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490632,simple_simons_pizza_us,Simple Simon's Pizza,"5005 Parkview Dr, Frontenac, KS 66763",,KS,,US,+1 620-230-0052,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+42382142,simple_simons_pizza_us,Simple Simon's Pizza,"24963 US 169, Garnett, KS 66032",,KS,,US,+1 785-448-6582,,Th-Sa 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490608,simple_simons_pizza_us,Simple Simon's Pizza,"220 N Summit Ave, Girard, KS 66743",,KS,,US,+1 620-724-6386,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490615,simple_simons_pizza_us,Simple Simon's Pizza,"317 S 9th, Humboldt, KS 66748",,KS,,US,+1 620-473-2611,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+42382246,simple_simons_pizza_us,Simple Simon's Pizza,"12693 SW Hume St, Hume, MO 64752",,KS,,US,+1 660-643-7872,,Mo-Su 07:00-22:00,Simple Simon's Pizza,Q116737866
+42382348,simple_simons_pizza_us,Simple Simon's Pizza,"205 S State St, Iola, KS 66749",,KS,,US,+1 620-365-5795,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+44847649,simple_simons_pizza_us,Simple Simon's Pizza,"111 N Broadway St, La Cygne, KS 66040",,KS,,US,+1 913-757-2525,,Mo-Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+42382191,simple_simons_pizza_us,Simple Simon's Pizza,"1100 W Hwy 400, McCune, KS 66753",,KS,,US,+1 620-632-4400,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490601,simple_simons_pizza_us,Simple Simon's Pizza,"822 N Cedar, Moran, KS 66755",,KS,,US,+1 620-237-4551,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+46414006,simple_simons_pizza_us,Simple Simon's Pizza,"720 6th St, Oswego, KS 67356",,KS,,US,+1 620-795-2563,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490593,simple_simons_pizza_us,Simple Simon's Pizza,"7 N Silver, Paola, KS 66071",,KS,,US,+1 913-294-5790,,Mo-Sa 11:00-20:30,Simple Simon's Pizza,Q116737866
+42382219,simple_simons_pizza_us,Simple Simon's Pizza,"2431 N 16th St, Parsons, KS 67357",,KS,,US,+1 620-423-3182,,Mo-Th 07:00-22:00; Fr-Sa 07:00-23:00; Su 07:00-22:00,Simple Simon's Pizza,Q116737866
+48490559,simple_simons_pizza_us,Simple Simon's Pizza,"116 S 32nd, Parsons, KS 67357",,KS,,US,+1 620-421-3034,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+42382111,simple_simons_pizza_us,Simple Simon's Pizza,"218 R Rd, Severy, KS 67137",,KS,,US,+1 620-736-2305,,Mo-Th 10:30-22:00; Fr-Sa 10:30-23:00; Su 10:30-22:00,Simple Simon's Pizza,Q116737866
+42382333,simple_simons_pizza_us,Simple Simon's Pizza,"124 Willow, South Coffeyville, OK 74072",,KS,,US,+1 918-255-6111,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+42382085,simple_simons_pizza_us,Simple Simon's Pizza,"5123 Lake Ave, St. Joseph, MO 64504",,KS,,US,+1 816-238-3955,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+48490595,simple_simons_pizza_us,Simple Simon's Pizza,"383 W 4th Ave, Welch, OK 74369",,KS,,US,+1 918-788-3950,,24/7,Simple Simon's Pizza,Q116737866
+48490637,simple_simons_pizza_us,Simple Simon's Pizza,"301 S Fry, Yates Center, KS 66783",,KS,,US,+1 620-625-2244,,Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00,Simple Simon's Pizza,Q116737866
+https://www.statefarm.com/agent/us/ks/mcpherson/jim-laduke-brntr1ys000,state_farm_us,Jim LaDuke,,,KS,,US,+1 620-241-8600,https://www.statefarm.com/agent/us/ks/mcpherson/jim-laduke-brntr1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hutchinson/greg-west-7mb9y1ys000,state_farm_us,Greg West,,,KS,,US,+1 620-665-5854,https://www.statefarm.com/agent/us/ks/hutchinson/greg-west-7mb9y1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/gary-lucas-2vmys1ys000,state_farm_us,Gary Lucas,,,KS,,US,+1 785-232-0471,https://www.statefarm.com/agent/us/ks/topeka/gary-lucas-2vmys1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/eudora/keith-nowland-qyshh3nj000,state_farm_us,Keith Nowland,,,KS,,US,+1 785-542-3276,https://www.statefarm.com/agent/us/ks/eudora/keith-nowland-qyshh3nj000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/ryan-mohwinkle-cxd774dk000,state_farm_us,Ryan Mohwinkle,,,KS,,US,+1 785-273-1572,https://www.statefarm.com/agent/us/ks/topeka/ryan-mohwinkle-cxd774dk000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/tammy-long-1614s4d8000,state_farm_us,Tammy Long,,,KS,,US,+1 316-941-4545,https://www.statefarm.com/agent/us/ks/wichita/tammy-long-1614s4d8000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hays/wayne-voss-qnxnd1ys000,state_farm_us,Wayne Voss,,,KS,,US,+1 785-625-5400,https://www.statefarm.com/agent/us/ks/hays/wayne-voss-qnxnd1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/chris-hare-fl8vd6qk4ak,state_farm_us,Chris Hare,,,KS,,US,+1 913-469-1455,https://www.statefarm.com/agent/us/ks/overland-park/chris-hare-fl8vd6qk4ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/coffeyville/harold-mann-x2r501ys000,state_farm_us,Harold Mann,,,KS,,US,+1 620-251-3680,https://www.statefarm.com/agent/us/ks/coffeyville/harold-mann-x2r501ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/victor-kim-v335j324000,state_farm_us,Victor Kim,,,KS,,US,+1 913-782-9900,https://www.statefarm.com/agent/us/ks/olathe/victor-kim-v335j324000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/joe-mayer-jbz8b3gv000,state_farm_us,Joe Mayer,,,KS,,US,+1 785-272-8331,https://www.statefarm.com/agent/us/ks/topeka/joe-mayer-jbz8b3gv000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/concordia/garry-peterson-vsgg91ys000,state_farm_us,Garry Peterson,,,KS,,US,+1 785-243-3812,https://www.statefarm.com/agent/us/ks/concordia/garry-peterson-vsgg91ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/zach-finkelstein-15zzy7y5wge,state_farm_us,Zach Finkelstein,,,KS,,US,+1 913-782-4418,https://www.statefarm.com/agent/us/ks/olathe/zach-finkelstein-15zzy7y5wge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/prairie-vlg/greg-thurman-k53cw8kt7ge,state_farm_us,Greg Thurman,,,KS,,US,+1 913-383-3444,https://www.statefarm.com/agent/us/ks/prairie-vlg/greg-thurman-k53cw8kt7ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/ted-miller-b0v2z8d03gf,state_farm_us,Ted Miller,,,KS,,US,+1 913-491-4500,https://www.statefarm.com/agent/us/ks/overland-park/ted-miller-b0v2z8d03gf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/elkhart/mindy-dougherty-dp0dd228000,state_farm_us,Mindy Dougherty,,,KS,,US,+1 620-697-2402,https://www.statefarm.com/agent/us/ks/elkhart/mindy-dougherty-dp0dd228000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/debbie-swinney-94b481ys000,state_farm_us,Debbie Swinney,,,KS,,US,+1 913-782-3289,https://www.statefarm.com/agent/us/ks/olathe/debbie-swinney-94b481ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/dodge-city/oscar-obando-4zk4v30k000,state_farm_us,Oscar Obando,,,KS,,US,+1 620-408-9392,https://www.statefarm.com/agent/us/ks/dodge-city/oscar-obando-4zk4v30k000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wellington/alison-rusk-d5bh11ys000,state_farm_us,Alison Rusk,,,KS,,US,+1 620-326-3359,https://www.statefarm.com/agent/us/ks/wellington/alison-rusk-d5bh11ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/dustin-sylvester-bml5v8rjygf,state_farm_us,Dustin Sylvester,,,KS,,US,+1 316-686-2119,https://www.statefarm.com/agent/us/ks/wichita/dustin-sylvester-bml5v8rjygf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hutchinson/brandon-meyer-c6d2b6hg0ak,state_farm_us,Brandon Meyer,,,KS,,US,+1 620-662-6600,https://www.statefarm.com/agent/us/ks/hutchinson/brandon-meyer-c6d2b6hg0ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/ryan-lorei-x4flq7bx4ak,state_farm_us,Ryan Lorei,,,KS,,US,+1 913-381-7541,https://www.statefarm.com/agent/us/ks/overland-park/ryan-lorei-x4flq7bx4ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/mo/kansas-city/irvin-pete-ttjvx751lal,state_farm_us,Irvin Pete,,,KS,,US,+1 816-216-1033,https://www.statefarm.com/agent/us/mo/kansas-city/irvin-pete-ttjvx751lal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/shawn-ferestad-qhs928rrzal,state_farm_us,Shawn Ferestad,,,KS,,US,+1 316-267-8273,https://www.statefarm.com/agent/us/ks/wichita/shawn-ferestad-qhs928rrzal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/pittsburg/lori-a-spachek-gft2m1ys000,state_farm_us,Lori Ann Spachek,,,KS,,US,+1 620-231-2027,https://www.statefarm.com/agent/us/ks/pittsburg/lori-a-spachek-gft2m1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/todd-shepard-gw72q1ys000,state_farm_us,Todd Shepard,,,KS,,US,+1 785-266-7254,https://www.statefarm.com/agent/us/ks/topeka/todd-shepard-gw72q1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/liam-porter-33jqq53s7ak,state_farm_us,Liam Porter,,,KS,,US,+1 816-753-4334,https://www.statefarm.com/agent/us/ks/overland-park/liam-porter-33jqq53s7ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/jim-morgan-0077s6m34gf,state_farm_us,Jim Morgan,,,KS,,US,+1 316-721-5769,https://www.statefarm.com/agent/us/ks/wichita/jim-morgan-0077s6m34gf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/cody-corr-0r4nh5c95ak,state_farm_us,Cody Corr,,,KS,,US,+1 913-402-7428,https://www.statefarm.com/agent/us/ks/overland-park/cody-corr-0r4nh5c95ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/ron-culp-50rqv1ys000,state_farm_us,Ron Culp,,,KS,,US,+1 913-648-0585,https://www.statefarm.com/agent/us/ks/overland-park/ron-culp-50rqv1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/crystal-mceachern-glxc1554bak,state_farm_us,Crystal McEachern,,,KS,,US,+1 316-425-0925,https://www.statefarm.com/agent/us/ks/wichita/crystal-mceachern-glxc1554bak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/atchison/rea-laflin-ls2hs1ys000,state_farm_us,Rea Laflin,,,KS,,US,+1 913-367-4856,https://www.statefarm.com/agent/us/ks/atchison/rea-laflin-ls2hs1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/ed-sandate-lg0bc1ys000,state_farm_us,Ed Sandate,,,KS,,US,+1 316-942-4440,https://www.statefarm.com/agent/us/ks/wichita/ed-sandate-lg0bc1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/colby/jane-johnson-z7wr71ys000,state_farm_us,Jane Johnson,,,KS,,US,+1 785-462-7525,https://www.statefarm.com/agent/us/ks/colby/jane-johnson-z7wr71ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/diana-ratliff-cn0wj9vw5ge,state_farm_us,Diana Ratliff,,,KS,,US,+1 316-686-2118,https://www.statefarm.com/agent/us/ks/wichita/diana-ratliff-cn0wj9vw5ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/shawnee/nick-reed-q9lrb42k000,state_farm_us,Nick Reed,,,KS,,US,+1 913-422-0123,https://www.statefarm.com/agent/us/ks/shawnee/nick-reed-q9lrb42k000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/shawnee/mitzi-ryburn-krpym2jr000,state_farm_us,Mitzi Ryburn,,,KS,,US,+1 913-631-0201,https://www.statefarm.com/agent/us/ks/shawnee/mitzi-ryburn-krpym2jr000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/david-kemp-jc1sz2hd000,state_farm_us,David Kemp,,,KS,,US,+1 316-267-3846,https://www.statefarm.com/agent/us/ks/wichita/david-kemp-jc1sz2hd000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/beloit/kevin-hewitt-m6hnb1ys000,state_farm_us,Kevin Hewitt,,,KS,,US,+1 785-738-2043,https://www.statefarm.com/agent/us/ks/beloit/kevin-hewitt-m6hnb1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/council-grove/steve-crichton-yg96l269000,state_farm_us,Steve Crichton,,,KS,,US,+1 620-767-5819,https://www.statefarm.com/agent/us/ks/council-grove/steve-crichton-yg96l269000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/osborne/martin-wolters-xl9c88cbjak,state_farm_us,Martin Wolters,,,KS,,US,+1 785-346-2061,https://www.statefarm.com/agent/us/ks/osborne/martin-wolters-xl9c88cbjak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/pratt/dan-gillig-qg6bh1ys000,state_farm_us,Dan Gillig,,,KS,,US,+1 620-672-3485,https://www.statefarm.com/agent/us/ks/pratt/dan-gillig-qg6bh1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/terry-johnson-x2rn61ys000,state_farm_us,Terry Johnson,,,KS,,US,+1 316-683-6571,https://www.statefarm.com/agent/us/ks/wichita/terry-johnson-x2rn61ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/mo/kansas-city/david-krough-q0p9p5g7pak,state_farm_us,David Krough,,,KS,,US,+1 816-943-6166,https://www.statefarm.com/agent/us/mo/kansas-city/david-krough-q0p9p5g7pak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/shawnee/mark-elling-gftw51ys000,state_farm_us,Mark Elling,,,KS,,US,+1 913-631-9006,https://www.statefarm.com/agent/us/ks/shawnee/mark-elling-gftw51ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/newton/todd-barnes-ngk2s34t000,state_farm_us,Todd Barnes,,,KS,,US,+1 316-283-6726,https://www.statefarm.com/agent/us/ks/newton/todd-barnes-ngk2s34t000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/basehor/christina-sliski-wr1m45fzjak,state_farm_us,Christina Sliski,,,KS,,US,+1 913-682-8888,https://www.statefarm.com/agent/us/ks/basehor/christina-sliski-wr1m45fzjak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lawrence/mike-grosdidier-xdtbf1ys000,state_farm_us,Mike Grosdidier,,,KS,,US,+1 785-842-6407,https://www.statefarm.com/agent/us/ks/lawrence/mike-grosdidier-xdtbf1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/kansas-city/timothy-williams-4qmsp4ytfal,state_farm_us,Timothy Williams,,,KS,,US,+1 913-371-8414,https://www.statefarm.com/agent/us/ks/kansas-city/timothy-williams-4qmsp4ytfal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/manhattan/kevin-bryant-m25w95hfvak,state_farm_us,Kevin Bryant,,,KS,,US,+1 785-537-1809,https://www.statefarm.com/agent/us/ks/manhattan/kevin-bryant-m25w95hfvak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lawrence/rochelle-tramp-4cmlk1ys000,state_farm_us,Rochelle Tramp,,,KS,,US,+1 785-842-6288,https://www.statefarm.com/agent/us/ks/lawrence/rochelle-tramp-4cmlk1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/osage-city/jodi-tillman-4x55c5n8wak,state_farm_us,Jodi Lohmeyer,,,KS,,US,+1 785-528-4525,https://www.statefarm.com/agent/us/ks/osage-city/jodi-tillman-4x55c5n8wak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/eric-atwell-qvr7f8h6sge,state_farm_us,Eric Atwell,,,KS,,US,+1 913-888-1001,https://www.statefarm.com/agent/us/ks/overland-park/eric-atwell-qvr7f8h6sge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/larned/landon-erway-wnbp67srpgf,state_farm_us,Landon Erway,,,KS,,US,+1 620-285-6955,https://www.statefarm.com/agent/us/ks/larned/landon-erway-wnbp67srpgf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/kevin-r-rathert-rb21p1ys000,state_farm_us,Kevin R Rathert,,,KS,,US,+1 316-687-2700,https://www.statefarm.com/agent/us/ks/wichita/kevin-r-rathert-rb21p1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/garnett/ryan-disbrow-zvsrq51b9ak,state_farm_us,Ryan Disbrow,,,KS,,US,+1 785-448-1660,https://www.statefarm.com/agent/us/ks/garnett/ryan-disbrow-zvsrq51b9ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/winfield/marcus-adler-z15zj1ys000,state_farm_us,Marcus Adler,,,KS,,US,+1 620-221-7056,https://www.statefarm.com/agent/us/ks/winfield/marcus-adler-z15zj1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/kansas-city/jane-webb-44x8l1ys000,state_farm_us,Jane Webb,,,KS,,US,+1 913-334-0038,https://www.statefarm.com/agent/us/ks/kansas-city/jane-webb-44x8l1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/ernie-ruelas-3ddw51ys000,state_farm_us,Ernie Ruelas,,,KS,,US,+1 316-682-2300,https://www.statefarm.com/agent/us/ks/wichita/ernie-ruelas-3ddw51ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/norton/ken-schultz-cylgs1ys000,state_farm_us,Ken Schultz,,,KS,,US,+1 785-877-2251,https://www.statefarm.com/agent/us/ks/norton/ken-schultz-cylgs1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/salina/clay-walter-03t8q51ckak,state_farm_us,Clay Walter,,,KS,,US,+1 785-827-9991,https://www.statefarm.com/agent/us/ks/salina/clay-walter-03t8q51ckak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/iola/terry-sparks-vp3d31ys000,state_farm_us,Terry Sparks,,,KS,,US,+1 620-365-7311,https://www.statefarm.com/agent/us/ks/iola/terry-sparks-vp3d31ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/abilene/amanda-west-g12rz9c9vak,state_farm_us,Amanda West,,,KS,,US,+1 785-263-2230,https://www.statefarm.com/agent/us/ks/abilene/amanda-west-g12rz9c9vak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hutchinson/andy-fry-bm9r72c3000,state_farm_us,Andy Fry,,,KS,,US,+1 620-663-1571,https://www.statefarm.com/agent/us/ks/hutchinson/andy-fry-bm9r72c3000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/jody-parker-lj4kd3t0000,state_farm_us,Jody Parker,,,KS,,US,+1 316-722-7700,https://www.statefarm.com/agent/us/ks/wichita/jody-parker-lj4kd3t0000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hugoton/debbie-nordling-9wtk51ys000,state_farm_us,Debbie Nordling,,,KS,,US,+1 620-544-8528,https://www.statefarm.com/agent/us/ks/hugoton/debbie-nordling-9wtk51ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/gardner/joe-oldham-3y6rd1ys000,state_farm_us,Joe Oldham,,,KS,,US,+1 913-856-6124,https://www.statefarm.com/agent/us/ks/gardner/joe-oldham-3y6rd1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/paola/jim-adkins-ls2by1ys000,state_farm_us,Jim Adkins,,,KS,,US,+1 913-294-5351,https://www.statefarm.com/agent/us/ks/paola/jim-adkins-ls2by1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/prairie-village/alec-bartz-y7hhd8w68ak,state_farm_us,Alec Bartz,,,KS,,US,+1 913-341-8888,https://www.statefarm.com/agent/us/ks/prairie-village/alec-bartz-y7hhd8w68ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hutchinson/deana-ackerman-h69hz1ys000,state_farm_us,Deana Ackerman,,,KS,,US,+1 620-663-9983,https://www.statefarm.com/agent/us/ks/hutchinson/deana-ackerman-h69hz1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/mike-dillmon-3y66t1ys000,state_farm_us,Mike Dillmon,,,KS,,US,+1 316-722-5466,https://www.statefarm.com/agent/us/ks/wichita/mike-dillmon-3y66t1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/shawnee/dave-tebbe-jd6vp1ys000,state_farm_us,Dave Tebbe,,,KS,,US,+1 913-631-3400,https://www.statefarm.com/agent/us/ks/shawnee/dave-tebbe-jd6vp1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/julie-fischer-w02k285mpge,state_farm_us,Julie Fischer,,,KS,,US,+1 785-272-5444,https://www.statefarm.com/agent/us/ks/topeka/julie-fischer-w02k285mpge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/david-dettwiler-8zqb54b1000,state_farm_us,David Dettwiler,,,KS,,US,+1 316-613-3811,https://www.statefarm.com/agent/us/ks/wichita/david-dettwiler-8zqb54b1000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/jim-garrison-lmj4d30b000,state_farm_us,Jim Garrison,,,KS,,US,+1 785-272-0332,https://www.statefarm.com/agent/us/ks/topeka/jim-garrison-lmj4d30b000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/andre-hale-qj9nm4jc000,state_farm_us,Andre Hale,,,KS,,US,+1 316-684-0509,https://www.statefarm.com/agent/us/ks/wichita/andre-hale-qj9nm4jc000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/manhattan/josh-salmans-1mjf42gl000,state_farm_us,Josh Salmans,,,KS,,US,+1 785-776-8754,https://www.statefarm.com/agent/us/ks/manhattan/josh-salmans-1mjf42gl000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/columbus/terry-bessman-l72zw5m07al,state_farm_us,Terry Bessman,,,KS,,US,+1 620-429-2480,https://www.statefarm.com/agent/us/ks/columbus/terry-bessman-l72zw5m07al,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/greg-egan-0r69x5hmmal,state_farm_us,Greg Egan,,,KS,,US,+1 913-599-3500,https://www.statefarm.com/agent/us/ks/overland-park/greg-egan-0r69x5hmmal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/augusta/matthew-davidson-hdzbv4tbfal,state_farm_us,Matthew Davidson,,,KS,,US,+1 316-775-5495,https://www.statefarm.com/agent/us/ks/augusta/matthew-davidson-hdzbv4tbfal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/mary-s-smith-kphxf1ys000,state_farm_us,Mary Sue Smith,,,KS,,US,+1 316-722-7621,https://www.statefarm.com/agent/us/ks/wichita/mary-s-smith-kphxf1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hays/matt-lyon-79bfp6171al,state_farm_us,Matt Lyon,,,KS,,US,+1 785-628-2312,https://www.statefarm.com/agent/us/ks/hays/matt-lyon-79bfp6171al,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/mo/kansas-city/payton-logan-916cj83pmge,state_farm_us,Payton Logan,,,KS,,US,+1 816-361-6362,https://www.statefarm.com/agent/us/mo/kansas-city/payton-logan-916cj83pmge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lenexa/michael-johnson-r8p1l6drfge,state_farm_us,Michael Johnson,,,KS,,US,+1 913-888-8444,https://www.statefarm.com/agent/us/ks/lenexa/michael-johnson-r8p1l6drfge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/prairie-vlg/denise-garcia-lnqh41ys000,state_farm_us,Denise Garcia,,,KS,,US,+1 913-648-6400,https://www.statefarm.com/agent/us/ks/prairie-vlg/denise-garcia-lnqh41ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hutchinson/cris-corey-g2hy02mf000,state_farm_us,Cris Corey,,,KS,,US,+1 620-662-7212,https://www.statefarm.com/agent/us/ks/hutchinson/cris-corey-g2hy02mf000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/mulvane/angela-fox-4lc2s1ys000,state_farm_us,Angela Fox,,,KS,,US,+1 316-777-1157,https://www.statefarm.com/agent/us/ks/mulvane/angela-fox-4lc2s1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/derby/rael-hodgson-3m4d21ys000,state_farm_us,Rael Hodgson,,,KS,,US,+1 316-788-7788,https://www.statefarm.com/agent/us/ks/derby/rael-hodgson-3m4d21ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/brandi-bandy-h7fyf9w7sal,state_farm_us,Brandi Bandy,,,KS,,US,+1 316-448-0500,https://www.statefarm.com/agent/us/ks/wichita/brandi-bandy-h7fyf9w7sal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/liberal/aaron-knudsen-g3c7rb1kwgf,state_farm_us,Aaron Knudsen,,,KS,,US,+1 620-624-2535,https://www.statefarm.com/agent/us/ks/liberal/aaron-knudsen-g3c7rb1kwgf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/tod-nelson-qt9ms85r3gf,state_farm_us,Tod Nelson,,,KS,,US,+1 316-838-4204,https://www.statefarm.com/agent/us/ks/wichita/tod-nelson-qt9ms85r3gf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/mcpherson/galen-shields-8h5m11ys000,state_farm_us,Galen Shields,,,KS,,US,+1 620-241-5665,https://www.statefarm.com/agent/us/ks/mcpherson/galen-shields-8h5m11ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/galena/grant-deardorff-725gf9qczge,state_farm_us,Grant Deardorff,,,KS,,US,+1 620-856-5179,https://www.statefarm.com/agent/us/ks/galena/grant-deardorff-725gf9qczge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/allen-warren-75wxd1ys000,state_farm_us,Allen Warren,,,KS,,US,+1 316-682-2200,https://www.statefarm.com/agent/us/ks/wichita/allen-warren-75wxd1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/steve-fisher-t1rjj1ys000,state_farm_us,Steve Fisher,,,KS,,US,+1 913-897-3148,https://www.statefarm.com/agent/us/ks/overland-park/steve-fisher-t1rjj1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/dean-jones-bjyy21ys000,state_farm_us,Dean Jones,,,KS,,US,+1 316-729-4600,https://www.statefarm.com/agent/us/ks/wichita/dean-jones-bjyy21ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/parsons/hunter-e-oneal-43mv07b0sak,state_farm_us,Hunter O'Neal,,,KS,,US,+1 620-421-2170,https://www.statefarm.com/agent/us/ks/parsons/hunter-e-oneal-43mv07b0sak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/prairie-vlg/michele-brogan-tctpl1ys000,state_farm_us,Michele Brogan,,,KS,,US,+1 913-383-9330,https://www.statefarm.com/agent/us/ks/prairie-vlg/michele-brogan-tctpl1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/shelby-brock-w905d4b1000,state_farm_us,Shelby Brock,,,KS,,US,+1 316-722-9009,https://www.statefarm.com/agent/us/ks/wichita/shelby-brock-w905d4b1000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/bill-kemp-z7wb31ys000,state_farm_us,Bill Kemp,,,KS,,US,+1 316-721-4849,https://www.statefarm.com/agent/us/ks/wichita/bill-kemp-z7wb31ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/john-schultz-1fztn1ys000,state_farm_us,John Schultz,,,KS,,US,+1 316-685-0394,https://www.statefarm.com/agent/us/ks/wichita/john-schultz-1fztn1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/salina/robert-pruett-lkctt1ys000,state_farm_us,Robert Pruett,,,KS,,US,+1 785-825-2281,https://www.statefarm.com/agent/us/ks/salina/robert-pruett-lkctt1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/roeland-park/david-chavez-mtgc42fj000,state_farm_us,David Chavez,,,KS,,US,+1 913-432-9000,https://www.statefarm.com/agent/us/ks/roeland-park/david-chavez-mtgc42fj000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/james-bolte-kj63b71rbal,state_farm_us,James Bolte,,,KS,,US,+1 913-381-0070,https://www.statefarm.com/agent/us/ks/overland-park/james-bolte-kj63b71rbal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wamego/michele-jacobs-1qx0r2gh000,state_farm_us,Michele Jacobs,,,KS,,US,+1 785-456-6512,https://www.statefarm.com/agent/us/ks/wamego/michele-jacobs-1qx0r2gh000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/anthony/brandon-hazel-4zjsg310000,state_farm_us,Brandon Hazel,,,KS,,US,+1 620-842-3164,https://www.statefarm.com/agent/us/ks/anthony/brandon-hazel-4zjsg310000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/bob-creager-fx0jd1ys000,state_farm_us,Bob Creager,,,KS,,US,+1 785-272-4820,https://www.statefarm.com/agent/us/ks/topeka/bob-creager-fx0jd1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/david-hines-qmnn23gv000,state_farm_us,David Hines,,,KS,,US,+1 785-272-0038,https://www.statefarm.com/agent/us/ks/topeka/david-hines-qmnn23gv000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/kathy-richard-koenigsman-hvgbm1ys000,state_farm_us,Kathy Richard-Koenigsman,,,KS,,US,+1 316-685-4006,https://www.statefarm.com/agent/us/ks/wichita/kathy-richard-koenigsman-hvgbm1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/bonner-spgs/jim-million-wflsw1ys000,state_farm_us,Jim Million,,,KS,,US,+1 913-422-5567,https://www.statefarm.com/agent/us/ks/bonner-spgs/jim-million-wflsw1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/david-lawrence-543zy1ys000,state_farm_us,David Lawrence,,,KS,,US,+1 316-945-5775,https://www.statefarm.com/agent/us/ks/wichita/david-lawrence-543zy1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/lynette-hudson-cqwln1ys000,state_farm_us,Lynette Hudson,,,KS,,US,+1 785-273-0670,https://www.statefarm.com/agent/us/ks/topeka/lynette-hudson-cqwln1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/chanute/jennifer-dietsch-vwvk61ys000,state_farm_us,Jennifer Dietsch,,,KS,,US,+1 620-431-4280,https://www.statefarm.com/agent/us/ks/chanute/jennifer-dietsch-vwvk61ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lenexa/mel-hawk-ksvmf1ys000,state_farm_us,Mel Hawk,,,KS,,US,+1 913-888-8045,https://www.statefarm.com/agent/us/ks/lenexa/mel-hawk-ksvmf1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/jamie-hornbaker-5tjks6t52al,state_farm_us,Jamie Lou Hornbaker,,,KS,,US,+1 785-267-5613,https://www.statefarm.com/agent/us/ks/topeka/jamie-hornbaker-5tjks6t52al,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/phillipsburg/steven-rust-9vxc67wymak,state_farm_us,Steven Rust,,,KS,,US,+1 785-543-2225,https://www.statefarm.com/agent/us/ks/phillipsburg/steven-rust-9vxc67wymak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/clay-center/david-borgerding-wxqlq77h5ge,state_farm_us,David Borgerding,,,KS,,US,+1 785-632-5642,https://www.statefarm.com/agent/us/ks/clay-center/david-borgerding-wxqlq77h5ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/manhattan/karl-kunz-zglxp1ys000,state_farm_us,Karl Kunz,,,KS,,US,+1 785-776-3800,https://www.statefarm.com/agent/us/ks/manhattan/karl-kunz-zglxp1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/jim-martin-8qg6472wmge,state_farm_us,Jim Martin,,,KS,,US,+1 913-764-1000,https://www.statefarm.com/agent/us/ks/olathe/jim-martin-8qg6472wmge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/scott-city/michael-trout-vxncy547bal,state_farm_us,Michael Trout,,,KS,,US,+1 620-872-5374,https://www.statefarm.com/agent/us/ks/scott-city/michael-trout-vxncy547bal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/alex-langford-n7nv86mdbal,state_farm_us,Alex Langford,,,KS,,US,+1 913-649-9292,https://www.statefarm.com/agent/us/ks/overland-park/alex-langford-n7nv86mdbal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/caleb-m-hanke-d2nsy6zgfal,state_farm_us,Caleb Hanke,,,KS,,US,+1 316-943-6494,https://www.statefarm.com/agent/us/ks/wichita/caleb-m-hanke-d2nsy6zgfal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/jamie-l-hornbaker-zp65sbx6nal,state_farm_us,Jamie Hornbaker,,,KS,,US,+1 785-235-5633,https://www.statefarm.com/agent/us/ks/topeka/jamie-l-hornbaker-zp65sbx6nal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/mo/kansas-city/alexa-barkley-9spbx5q3pal,state_farm_us,Alexa Barkley,,,KS,,US,+1 816-678-0931,https://www.statefarm.com/agent/us/mo/kansas-city/alexa-barkley-9spbx5q3pal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/henry-sandate-cylgv1ys000,state_farm_us,Henry Sandate,,,KS,,US,+1 913-438-2299,https://www.statefarm.com/agent/us/ks/overland-park/henry-sandate-cylgv1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/merriam/julie-stoll-8cv5j1ys000,state_farm_us,Julie Stoll,,,KS,,US,+1 913-722-6200,https://www.statefarm.com/agent/us/ks/merriam/julie-stoll-8cv5j1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/garden-city/lee-barrett-t0j0r3xx000,state_farm_us,Lee Barrett,,,KS,,US,+1 620-275-0596,https://www.statefarm.com/agent/us/ks/garden-city/lee-barrett-t0j0r3xx000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/russ-herman-3s5fk9qc9ge,state_farm_us,Russ Herman,,,KS,,US,+1 316-681-1470,https://www.statefarm.com/agent/us/ks/wichita/russ-herman-3s5fk9qc9ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/kingman/jon-wollen-kx71z1ys000,state_farm_us,Jon Wollen,,,KS,,US,+1 620-532-3179,https://www.statefarm.com/agent/us/ks/kingman/jon-wollen-kx71z1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/jason-parker-mxs4h4kf000,state_farm_us,Jason Parker,,,KS,,US,+1 913-764-0555,https://www.statefarm.com/agent/us/ks/olathe/jason-parker-mxs4h4kf000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/mo/kansas-city/debbie-baker-fx0z81ys000,state_farm_us,Debbie Baker,,,KS,,US,+1 816-361-4200,https://www.statefarm.com/agent/us/mo/kansas-city/debbie-baker-fx0z81ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hillsboro/becky-walsh-9krcr1ys000,state_farm_us,Becky Walsh,,,KS,,US,+1 620-947-5900,https://www.statefarm.com/agent/us/ks/hillsboro/becky-walsh-9krcr1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/dodge-city/rob-sowers-g736c1ys000,state_farm_us,Rob Sowers,,,KS,,US,+1 620-225-5613,https://www.statefarm.com/agent/us/ks/dodge-city/rob-sowers-g736c1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/arkansas-city/mike-dobson-4cmdf1ys000,state_farm_us,Mike Dobson,,,KS,,US,+1 620-442-2827,https://www.statefarm.com/agent/us/ks/arkansas-city/mike-dobson-4cmdf1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lawrence/chris-munk-3y6kh1ys000,state_farm_us,Chris Munk,,,KS,,US,+1 785-842-5000,https://www.statefarm.com/agent/us/ks/lawrence/chris-munk-3y6kh1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/mission/kellen-guinn-wzv9b5jgyak,state_farm_us,Kellen Guinn,,,KS,,US,+1 913-722-2700,https://www.statefarm.com/agent/us/ks/mission/kellen-guinn-wzv9b5jgyak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/lien-nguyen-4ryy729f000,state_farm_us,Lien Nguyen,,,KS,,US,+1 316-942-7481,https://www.statefarm.com/agent/us/ks/wichita/lien-nguyen-4ryy729f000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/atchison/chris-taylor-hxs9178wxge,state_farm_us,Chris Taylor,,,KS,,US,+1 913-367-4015,https://www.statefarm.com/agent/us/ks/atchison/chris-taylor-hxs9178wxge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/dave-curry-hlcg27yf3al,state_farm_us,Dave Curry,,,KS,,US,+1 316-425-3717,https://www.statefarm.com/agent/us/ks/wichita/dave-curry-hlcg27yf3al,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/garden-city/cynthia-warden-50rr81ys000,state_farm_us,Cynthia Warden,,,KS,,US,+1 620-276-3544,https://www.statefarm.com/agent/us/ks/garden-city/cynthia-warden-50rr81ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/ulysses/ceshalyn-rust-k9cq987kkal,state_farm_us,Ceshalyn Rust,,,KS,,US,+1 620-356-3066,https://www.statefarm.com/agent/us/ks/ulysses/ceshalyn-rust-k9cq987kkal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/salina/dauane-briggs-0wr3l51ctak,state_farm_us,Dauane Briggs,,,KS,,US,+1 785-827-8600,https://www.statefarm.com/agent/us/ks/salina/dauane-briggs-0wr3l51ctak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/brandon-aldridge-ddmqh786bge,state_farm_us,Brandon Aldridge,,,KS,,US,+1 785-267-1428,https://www.statefarm.com/agent/us/ks/topeka/brandon-aldridge-ddmqh786bge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/harlan-parker-t8gmz1ys000,state_farm_us,Harlan Parker,,,KS,,US,+1 913-782-3310,https://www.statefarm.com/agent/us/ks/olathe/harlan-parker-t8gmz1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/chanute/ryan-disbrow-5s26h84kfak,state_farm_us,Ryan Disbrow,,,KS,,US,+1 620-431-2680,https://www.statefarm.com/agent/us/ks/chanute/ryan-disbrow-5s26h84kfak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/junction-city/heath-welch-3mg0x67tbgf,state_farm_us,Heath Welch,,,KS,,US,+1 785-238-6114,https://www.statefarm.com/agent/us/ks/junction-city/heath-welch-3mg0x67tbgf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/justin-buoy-w88cp5yz6ak,state_farm_us,Justin Buoy,,,KS,,US,+1 316-721-8822,https://www.statefarm.com/agent/us/ks/wichita/justin-buoy-w88cp5yz6ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/josie-polk-bpmwb5snlak,state_farm_us,Josie Polk,,,KS,,US,+1 913-469-9010,https://www.statefarm.com/agent/us/ks/overland-park/josie-polk-bpmwb5snlak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/nate-thom-rjwyt9w9nal,state_farm_us,Nate Thom,,,KS,,US,+1 316-219-7808,https://www.statefarm.com/agent/us/ks/wichita/nate-thom-rjwyt9w9nal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/holton/gus-suarez-4ppr61ys000,state_farm_us,Gus Suarez,,,KS,,US,+1 785-364-3890,https://www.statefarm.com/agent/us/ks/holton/gus-suarez-4ppr61ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/mo/kansas-city/brady-crawford-pydh76gb0gf,state_farm_us,Brady Crawford,,,KS,,US,+1 816-333-5853,https://www.statefarm.com/agent/us/mo/kansas-city/brady-crawford-pydh76gb0gf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/kansas-city/kyle-wright-rn4731ys000,state_farm_us,Kyle Wright,,,KS,,US,+1 913-334-4464,https://www.statefarm.com/agent/us/ks/kansas-city/kyle-wright-rn4731ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/nick-rouse-4qmn0751lal,state_farm_us,Nick Rouse,,,KS,,US,+1 913-897-9700,https://www.statefarm.com/agent/us/ks/overland-park/nick-rouse-4qmn0751lal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/miles-finch-b1m3r8412ge,state_farm_us,Miles Finch,,,KS,,US,+1 913-827-1528,https://www.statefarm.com/agent/us/ks/overland-park/miles-finch-b1m3r8412ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/shawnee/erin-barrett-ynwpf2cx000,state_farm_us,Erin Barrett,,,KS,,US,+1 913-648-1100,https://www.statefarm.com/agent/us/ks/shawnee/erin-barrett-ynwpf2cx000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lenexa/greg-aldridge-1mky83ky000,state_farm_us,Greg Aldridge,,,KS,,US,+1 913-492-6080,https://www.statefarm.com/agent/us/ks/lenexa/greg-aldridge-1mky83ky000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/salina/bill-roberts-07tbj85htak,state_farm_us,Bill Roberts,,,KS,,US,+1 785-827-1707,https://www.statefarm.com/agent/us/ks/salina/bill-roberts-07tbj85htak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/ottawa/keith-king-cylv21ys000,state_farm_us,Keith King,,,KS,,US,+1 785-242-9435,https://www.statefarm.com/agent/us/ks/ottawa/keith-king-cylv21ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/matt-ciani-g3qy61ys000,state_farm_us,Matt Ciani,,,KS,,US,+1 913-888-0454,https://www.statefarm.com/agent/us/ks/overland-park/matt-ciani-g3qy61ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/salina/bary-martin-sdmjn1ys000,state_farm_us,Bary Martin,,,KS,,US,+1 785-825-0555,https://www.statefarm.com/agent/us/ks/salina/bary-martin-sdmjn1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/independence/kirk-wright-8lk171ys000,state_farm_us,Kirk Wright,,,KS,,US,+1 620-331-1245,https://www.statefarm.com/agent/us/ks/independence/kirk-wright-8lk171ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/shaun-reeves-fb2g0375000,state_farm_us,Shaun Reeves,,,KS,,US,+1 913-897-3276,https://www.statefarm.com/agent/us/ks/overland-park/shaun-reeves-fb2g0375000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/christin-black-dcfy15092al,state_farm_us,Christin Black,,,KS,,US,+1 913-780-3000,https://www.statefarm.com/agent/us/ks/olathe/christin-black-dcfy15092al,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lenexa/jeffrey-t-zigmant-nv3ny7kjzgf,state_farm_us,Jeff Zigmant,,,KS,,US,+1 913-859-9480,https://www.statefarm.com/agent/us/ks/lenexa/jeffrey-t-zigmant-nv3ny7kjzgf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/kim-sykes-n09v354zwak,state_farm_us,Kim Sykes,,,KS,,US,+1 913-355-2190,https://www.statefarm.com/agent/us/ks/olathe/kim-sykes-n09v354zwak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/osawatomie/marsha-adams-vsgs21ys000,state_farm_us,Marsha Adams,,,KS,,US,+1 913-755-3370,https://www.statefarm.com/agent/us/ks/osawatomie/marsha-adams-vsgs21ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/el-dorado/valerie-bean-3d52y6hgyak,state_farm_us,Valerie Bean,,,KS,,US,+1 316-322-8133,https://www.statefarm.com/agent/us/ks/el-dorado/valerie-bean-3d52y6hgyak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/joe-gutierrez-pwb44269000,state_farm_us,Joe Gutierrez,,,KS,,US,+1 785-272-2700,https://www.statefarm.com/agent/us/ks/topeka/joe-gutierrez-pwb44269000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/liberal/crystal-j-kinsinger-409ww4lj000,state_farm_us,Crystal Kinsinger,,,KS,,US,+1 620-624-3600,https://www.statefarm.com/agent/us/ks/liberal/crystal-j-kinsinger-409ww4lj000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/leawood/michael-baca-rlkp56h09ge,state_farm_us,Michael Baca,,,KS,,US,+1 913-327-5566,https://www.statefarm.com/agent/us/ks/leawood/michael-baca-rlkp56h09ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wathena/jessica-studer-bctyw51c2ak,state_farm_us,Jessica Studer,,,KS,,US,+1 785-989-3555,https://www.statefarm.com/agent/us/ks/wathena/jessica-studer-bctyw51c2ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/leavenworth/eddie-moore-gk5511ys000,state_farm_us,Eddie Moore,,,KS,,US,+1 913-682-8185,https://www.statefarm.com/agent/us/ks/leavenworth/eddie-moore-gk5511ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/marysville/john-banister-hyszr1ys000,state_farm_us,John Banister,,,KS,,US,+1 785-562-3694,https://www.statefarm.com/agent/us/ks/marysville/john-banister-hyszr1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/bonner-spgs/garrett-good-htxkh523fal,state_farm_us,Garrett Good,,,KS,,US,+1 913-422-9900,https://www.statefarm.com/agent/us/ks/bonner-spgs/garrett-good-htxkh523fal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/great-bend/levi-keenan-p0cq92th000,state_farm_us,Levi Keenan,,,KS,,US,+1 620-792-3669,https://www.statefarm.com/agent/us/ks/great-bend/levi-keenan-p0cq92th000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/shawnee/john-wills-sydg51ys000,state_farm_us,John Wills,,,KS,,US,+1 913-631-9007,https://www.statefarm.com/agent/us/ks/shawnee/john-wills-sydg51ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/ellsworth/anthony-hopkins-zfx488cblak,state_farm_us,Anthony Hopkins,,,KS,,US,+1 785-472-4426,https://www.statefarm.com/agent/us/ks/ellsworth/anthony-hopkins-zfx488cblak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/burlington/jj-edwards-0k0gcb1nnge,state_farm_us,JJ Edwards,,,KS,,US,+1 620-364-5810,https://www.statefarm.com/agent/us/ks/burlington/jj-edwards-0k0gcb1nnge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/maize/kyle-buzzard-lns23btm6ge,state_farm_us,Kyle Buzzard,,,KS,,US,+1 316-219-7800,https://www.statefarm.com/agent/us/ks/maize/kyle-buzzard-lns23btm6ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lansing/tiffany-andrews-wqtbq6zy4al,state_farm_us,Tiffany Andrews,,,KS,,US,+1 913-727-5388,https://www.statefarm.com/agent/us/ks/lansing/tiffany-andrews-wqtbq6zy4al,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/junction-city/josh-k-salmans-0z2j3c1ftal,state_farm_us,Josh K Salmans,,,KS,,US,+1 785-238-3117,https://www.statefarm.com/agent/us/ks/junction-city/josh-k-salmans-0z2j3c1ftal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/derby/todd-benway-4bfrz234000,state_farm_us,Todd Benway,,,KS,,US,+1 316-788-1964,https://www.statefarm.com/agent/us/ks/derby/todd-benway-4bfrz234000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lenexa/david-b-johnson-50zgh9svjge,state_farm_us,Dave Johnson,,,KS,,US,+1 913-258-8606,https://www.statefarm.com/agent/us/ks/lenexa/david-b-johnson-50zgh9svjge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/sue-zientara-tpxp11ys000,state_farm_us,Sue Zientara,,,KS,,US,+1 785-267-5090,https://www.statefarm.com/agent/us/ks/topeka/sue-zientara-tpxp11ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/dotsie-cuillo-h3fmg9qjbal,state_farm_us,Dotsie Cuillo,,,KS,,US,+1 316-796-8667,https://www.statefarm.com/agent/us/ks/wichita/dotsie-cuillo-h3fmg9qjbal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hays/brock-whitmore-fhckf53chak,state_farm_us,Brock Whitmore,,,KS,,US,+1 785-650-0693,https://www.statefarm.com/agent/us/ks/hays/brock-whitmore-fhckf53chak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/dodge-city/brad-lock-dkhvz35m000,state_farm_us,Brad Lock,,,KS,,US,+1 620-225-5631,https://www.statefarm.com/agent/us/ks/dodge-city/brad-lock-dkhvz35m000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/park-city/cindy-waggoner-bqfwz32v000,state_farm_us,Cindy Waggoner,,,KS,,US,+1 316-744-7500,https://www.statefarm.com/agent/us/ks/park-city/cindy-waggoner-bqfwz32v000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/pittsburg/jay-temaat-px64d8z2rgf,state_farm_us,Jay Temaat,,,KS,,US,+1 620-231-5080,https://www.statefarm.com/agent/us/ks/pittsburg/jay-temaat-px64d8z2rgf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/penny-hardesty-7hz2t1ys000,state_farm_us,Penny Hardesty,,,KS,,US,+1 913-648-7800,https://www.statefarm.com/agent/us/ks/overland-park/penny-hardesty-7hz2t1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/arkansas-city/starlyn-venus-hr2pq1ys000,state_farm_us,Starlyn Venus,,,KS,,US,+1 620-442-3290,https://www.statefarm.com/agent/us/ks/arkansas-city/starlyn-venus-hr2pq1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/russell/mark-ptacek-1nqfx1ys000,state_farm_us,Mark G Ptacek,,,KS,,US,+1 785-483-6624,https://www.statefarm.com/agent/us/ks/russell/mark-ptacek-1nqfx1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/rose-hill/doug-j-mowder-lvg806bb1ge,state_farm_us,Doug Mowder,,,KS,,US,+1 316-776-0558,https://www.statefarm.com/agent/us/ks/rose-hill/doug-j-mowder-lvg806bb1ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/mo/kansas-city/elaine-fry-j5j1r1ys000,state_farm_us,Elaine Fry,,,KS,,US,+1 816-942-7800,https://www.statefarm.com/agent/us/mo/kansas-city/elaine-fry-j5j1r1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/hutchinson/herchel-crainer-dxt031ys000,state_farm_us,Herchel Crainer,,,KS,,US,+1 620-663-9139,https://www.statefarm.com/agent/us/ks/hutchinson/herchel-crainer-dxt031ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/seth-groeneweg-jf6mr72nkak,state_farm_us,Seth Groeneweg,,,KS,,US,+1 913-953-5050,https://www.statefarm.com/agent/us/ks/overland-park/seth-groeneweg-jf6mr72nkak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/kevin-shields-ndfjc1ys000,state_farm_us,Kevin Shields,,,KS,,US,+1 316-686-5968,https://www.statefarm.com/agent/us/ks/wichita/kevin-shields-ndfjc1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/kevin-hale-4lbzp1ys000,state_farm_us,Kevin J Hale,,,KS,,US,+1 913-829-4488,https://www.statefarm.com/agent/us/ks/olathe/kevin-hale-4lbzp1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/andover/tony-durano-k82nd1ys000,state_farm_us,Tony Durano,,,KS,,US,+1 316-733-1000,https://www.statefarm.com/agent/us/ks/andover/tony-durano-k82nd1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/parsons/betty-blubaugh-n92931ys000,state_farm_us,Betty Blubaugh,,,KS,,US,+1 620-421-4010,https://www.statefarm.com/agent/us/ks/parsons/betty-blubaugh-n92931ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/terry-mohwinkle-d1yjb1ys000,state_farm_us,Terry Mohwinkle,,,KS,,US,+1 785-272-8400,https://www.statefarm.com/agent/us/ks/topeka/terry-mohwinkle-d1yjb1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/leawood/tim-thompson-4pq0d1ys000,state_farm_us,Tim Thompson,,,KS,,US,+1 913-498-8830,https://www.statefarm.com/agent/us/ks/leawood/tim-thompson-4pq0d1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/john-brouillette-dxt041ys000,state_farm_us,John Brouillette,,,KS,,US,+1 913-402-8558,https://www.statefarm.com/agent/us/ks/overland-park/john-brouillette-dxt041ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lyons/tory-tipp-72k5y88ftgf,state_farm_us,Tory Tipp,,,KS,,US,+1 620-257-3106,https://www.statefarm.com/agent/us/ks/lyons/tory-tipp-72k5y88ftgf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lenexa/dustin-kessler-p8xq78018ge,state_farm_us,Dustin Kessler,,,KS,,US,+1 913-403-0566,https://www.statefarm.com/agent/us/ks/lenexa/dustin-kessler-p8xq78018ge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/brian-quinn-d0hkm9yqmge,state_farm_us,Brian Quinn,,,KS,,US,+1 913-389-7847,https://www.statefarm.com/agent/us/ks/overland-park/brian-quinn-d0hkm9yqmge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/ottawa/greg-seymour-b3jh51ys000,state_farm_us,Greg Seymour,,,KS,,US,+1 785-242-3187,https://www.statefarm.com/agent/us/ks/ottawa/greg-seymour-b3jh51ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/el-dorado/wilfredo-blanco-diaz-zm9w4bmrcak,state_farm_us,Wilfredo Blanco-Diaz,,,KS,,US,+1 316-320-2210,https://www.statefarm.com/agent/us/ks/el-dorado/wilfredo-blanco-diaz-zm9w4bmrcak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lenexa/kelsey-ballard-z065m9pc2gf,state_farm_us,Kelsey Ballard,,,KS,,US,+1 913-492-0505,https://www.statefarm.com/agent/us/ks/lenexa/kelsey-ballard-z065m9pc2gf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/leawood/matyra-gieseler-x45kn572xak,state_farm_us,Matyra Gieseler,,,KS,,US,+1 913-339-6600,https://www.statefarm.com/agent/us/ks/leawood/matyra-gieseler-x45kn572xak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/lawrence/kurt-goeser-kx7ff1ys000,state_farm_us,Kurt Goeser,,,KS,,US,+1 785-843-0003,https://www.statefarm.com/agent/us/ks/lawrence/kurt-goeser-kx7ff1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/pittsburg/rex-garner-xqwhv1ys000,state_farm_us,Rex Garner,,,KS,,US,+1 620-231-7882,https://www.statefarm.com/agent/us/ks/pittsburg/rex-garner-xqwhv1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/scott-forester-yq3t31ys000,state_farm_us,Scott Forester,,,KS,,US,+1 316-685-2156,https://www.statefarm.com/agent/us/ks/wichita/scott-forester-yq3t31ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/fort-scott/kale-nelson-6hjzs3nf000,state_farm_us,Kale Nelson,,,KS,,US,+1 620-224-2828,https://www.statefarm.com/agent/us/ks/fort-scott/kale-nelson-6hjzs3nf000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/bel-aire/david-curry-w6x071ys000,state_farm_us,David Curry,,,KS,,US,+1 316-634-2125,https://www.statefarm.com/agent/us/ks/bel-aire/david-curry-w6x071ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/quinter/john-pilkington-50rzj1ys000,state_farm_us,John Pilkington,,,KS,,US,+1 785-754-2155,https://www.statefarm.com/agent/us/ks/quinter/john-pilkington-50rzj1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/bridget-meyer-s98xy1ys000,state_farm_us,Bridget Meyer,,,KS,,US,+1 913-432-4500,https://www.statefarm.com/agent/us/ks/overland-park/bridget-meyer-s98xy1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/goodland/jim-neal-gnj921ys000,state_farm_us,Jim Neal,,,KS,,US,+1 785-899-5592,https://www.statefarm.com/agent/us/ks/goodland/jim-neal-gnj921ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/don-payne-k4rck1ys000,state_farm_us,Don Payne,,,KS,,US,+1 316-522-4443,https://www.statefarm.com/agent/us/ks/wichita/don-payne-k4rck1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/moriah-birkle-cqqr1blm3ak,state_farm_us,Moriah Birkle,,,KS,,US,+1 316-721-8181,https://www.statefarm.com/agent/us/ks/wichita/moriah-birkle-cqqr1blm3ak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/kansas-city/mario-giraldo-j4nfg5zpzal,state_farm_us,Mario Giraldo,,,KS,,US,+1 913-334-9400,https://www.statefarm.com/agent/us/ks/kansas-city/mario-giraldo-j4nfg5zpzal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/manhattan/gene-warren-bflnk1ys000,state_farm_us,Gene Warren,,,KS,,US,+1 785-776-7220,https://www.statefarm.com/agent/us/ks/manhattan/gene-warren-bflnk1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/baldwin-city/cody-anno-cndqk7bzjge,state_farm_us,Cody Anno,,,KS,,US,+1 785-594-0270,https://www.statefarm.com/agent/us/ks/baldwin-city/cody-anno-cndqk7bzjge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/valley-center/brian-haight-c8fs289hpak,state_farm_us,Brian Haight,,,KS,,US,+1 316-755-9999,https://www.statefarm.com/agent/us/ks/valley-center/brian-haight-c8fs289hpak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/wichita/jose-looney-pt25y1ys000,state_farm_us,Jose Looney,,,KS,,US,+1 316-686-6878,https://www.statefarm.com/agent/us/ks/wichita/jose-looney-pt25y1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/ness-city/lindsey-boese-kjjxs5fhpak,state_farm_us,Lindsey Boese,,,KS,,US,+1 785-798-2513,https://www.statefarm.com/agent/us/ks/ness-city/lindsey-boese-kjjxs5fhpak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/emporia/pete-euler-5btxp1ys000,state_farm_us,Pete Euler,,,KS,,US,+1 620-342-6272,https://www.statefarm.com/agent/us/ks/emporia/pete-euler-5btxp1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/kaleb-hale-z4kdb1ys000,state_farm_us,Kaleb Hale,,,KS,,US,+1 913-764-1870,https://www.statefarm.com/agent/us/ks/olathe/kaleb-hale-z4kdb1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/girard/brian-tatum-r8vpk95mmgf,state_farm_us,Brian Tatum,,,KS,,US,+1 620-724-4558,https://www.statefarm.com/agent/us/ks/girard/brian-tatum-r8vpk95mmgf,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/shawnee/buddy-shaw-t8178841hge,state_farm_us,Buddy Shaw,,,KS,,US,+1 913-631-4770,https://www.statefarm.com/agent/us/ks/shawnee/buddy-shaw-t8178841hge,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/seneca/tom-hilbert-d82w751lsal,state_farm_us,Tom Hilbert,,,KS,,US,+1 785-336-2250,https://www.statefarm.com/agent/us/ks/seneca/tom-hilbert-d82w751lsal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/emporia/kyle-thompson-vg9gy8zgyak,state_farm_us,Kyle Thompson,,,KS,,US,+1 620-342-2727,https://www.statefarm.com/agent/us/ks/emporia/kyle-thompson-vg9gy8zgyak,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/jeff-sallee-qc8xp5vpzal,state_farm_us,Jeff Sallee,,,KS,,US,+1 913-345-4444,https://www.statefarm.com/agent/us/ks/overland-park/jeff-sallee-qc8xp5vpzal,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/mo/kansas-city/dave-denny-lwfkk1ys000,state_farm_us,David Denny,,,KS,,US,+1 816-363-3187,https://www.statefarm.com/agent/us/mo/kansas-city/dave-denny-lwfkk1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/overland-park/steve-dickerson-txlzv1ys000,state_farm_us,Steve Dickerson,,,KS,,US,+1 913-888-2200,https://www.statefarm.com/agent/us/ks/overland-park/steve-dickerson-txlzv1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/topeka/chip-munk-smb931ys000,state_farm_us,Chip Munk,,,KS,,US,+1 785-272-8858,https://www.statefarm.com/agent/us/ks/topeka/chip-munk-smb931ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/olathe/dave-goodman-yxt4p1ys000,state_farm_us,Dave Goodman,,,KS,,US,+1 913-764-4000,https://www.statefarm.com/agent/us/ks/olathe/dave-goodman-yxt4p1ys000,,State Farm,Q2007336
+https://www.statefarm.com/agent/us/ks/neodesha/connie-shiverdecker-l797d1ys000,state_farm_us,Connie Shiverdecker,,,KS,,US,+1 620-325-2938,https://www.statefarm.com/agent/us/ks/neodesha/connie-shiverdecker-l797d1ys000,,State Farm,Q2007336
+4323973,teriyaki_madness_us,KS | Teriyaki Madness Overland Park,"7074 W 105th St. Overland Park, KS, 66212",,KS,,US,+1 913-701-6983,,Mo-Su 11:00-21:00,Teriyaki Madness,Q107692862
+https://www.goodfeet.com/locations/ks/overland-park,the_good_feet_store,The Good Feet Store Overland Park,11524 W 95th St. Overland Park KS 66214,Johnson County,KS,,US,+1 913-325-2725,https://www.goodfeet.com/locations/ks/overland-park,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-16:00,The Good Feet Store,Q122031157
+https://www.goodfeet.com/locations/ks/wichita,the_good_feet_store,The Good Feet Store Wichita,8113 E Kellogg Dr. Wichita KS 67207,Sedgwick County,KS,,US,+1 316-226-8996,https://www.goodfeet.com/locations/ks/wichita,Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-16:00,The Good Feet Store,Q122031157
+4483,us_army_national_guard,SFC Jason Oesterreich,"2722 SW Topeka Blvd, Topeka, KS 66611, USA",,KS,,US,,,,US Army National Guard,Q928670
+4484,us_army_national_guard,CPT Jacob Durkes,"2722 SW Topeka Blvd, Topeka, KS 66611, USA",,KS,,US,,,,US Army National Guard,Q928670
+4485,us_army_national_guard,CPT John Carolan,"2722 SW Topeka Blvd, Topeka, KS 66611, USA",,KS,,US,,,,US Army National Guard,Q928670
+4486,us_army_national_guard,CW3 Joseph Pirak,"2722 SW Topeka Blvd, Topeka, KS 66611, USA",,KS,,US,,,,US Army National Guard,Q928670
+4487,us_army_national_guard,MSG William Bart,"2929 Scanlan Ave, Salina, KS 67401, USA",,KS,,US,,,,US Army National Guard,Q928670
+4488,us_army_national_guard,SGT Kyle Paugh,"700 College Dr, Hays, KS 67601, USA",,KS,,US,,,,US Army National Guard,Q928670
+4489,us_army_national_guard,SGT Kyle Paugh,"200 Main St, Hays, KS 67601, USA",,KS,,US,,,,US Army National Guard,Q928670
+4490,us_army_national_guard,SGT Jacob Goscha,"2929 Scanlan Ave, Salina, KS 67401, USA",,KS,,US,,,,US Army National Guard,Q928670
+4491,us_army_national_guard,SGT Tyrone Hall,"2929 Scanlan Ave, Salina, KS 67401, USA",,KS,,US,,,,US Army National Guard,Q928670
+4492,us_army_national_guard,SPC Mark Petz,"1009 NW 8th St, Abilene, KS 67410, USA",,KS,,US,,,,US Army National Guard,Q928670
+4493,us_army_national_guard,Vacant,"700 College Dr room 128, Hays, KS 67601, USA",,KS,,US,,,,US Army National Guard,Q928670
+4494,us_army_national_guard,Vacant,"200 Main St, Hays, KS 67601, USA",,KS,,US,,,,US Army National Guard,Q928670
+4495,us_army_national_guard,SSG Anthony Nasal,"500 Airport Rd, Junction City, KS 66441, USA",,KS,,US,,,,US Army National Guard,Q928670
+4496,us_army_national_guard,Vacant,"1111 N Severance St, Hutchinson, KS 67501, USA",,KS,,US,,,,US Army National Guard,Q928670
+4497,us_army_national_guard,SGT Efrain Morales,"1111 N Severance St, Hutchinson, KS 67501, USA",,KS,,US,,,,US Army National Guard,Q928670
+4498,us_army_national_guard,SGT Anthony Thornton,"1111 N Severance St, Hutchinson, KS 67501, USA",,KS,,US,,,,US Army National Guard,Q928670
+4499,us_army_national_guard,SSG Jesse Waugh,"207 Rochester St, Pratt, KS 67124, USA",,KS,,US,,,,US Army National Guard,Q928670
+4500,us_army_national_guard,SSG Julian Tanner,"2120 1st Ave, Dodge City, KS 67801, USA",,KS,,US,,,,US Army National Guard,Q928670
+4501,us_army_national_guard,Vacant,"1802 E Spruce St, Garden City, KS 67846, USA",,KS,,US,,,,US Army National Guard,Q928670
+4502,us_army_national_guard,SSG Miguel Jimenez,"730 Armory Rd, Liberal, KS 67901, USA",,KS,,US,,,,US Army National Guard,Q928670
+4503,us_army_national_guard,1SG Kimberly Fox,"2808 N New York St, Wichita, KS 67219, USA",,KS,,US,,,,US Army National Guard,Q928670
+4504,us_army_national_guard,SSG Jacob Moore,"7348 W 21st St N suite 109, Wichita, KS 67205, USA",,KS,,US,,,,US Army National Guard,Q928670
+4505,us_army_national_guard,SFC Khristopher Simpson,"7348 W 21st St suite 109, Wichita, KS 67205, USA",,KS,,US,,,,US Army National Guard,Q928670
+4506,us_army_national_guard,SSG Miguel Negrete,"3617 S Seneca St, Wichita, KS 67217, USA",,KS,,US,,,,US Army National Guard,Q928670
+4507,us_army_national_guard,SSG Nicholas Keazer,"7348 W 21st St N suite 109, Wichita, KS 67205, USA",,KS,,US,,,,US Army National Guard,Q928670
+4508,us_army_national_guard,SSG Di Nong,"7348 W 21st St N suite 109, Wichita, KS 67205, USA",,KS,,US,,,,US Army National Guard,Q928670
+4509,us_army_national_guard,SPC Giovanni Giardina,"3617 S Seneca St, Wichita, KS 67217, USA",,KS,,US,,,,US Army National Guard,Q928670
+4510,us_army_national_guard,MSG Justin Smith,"2808 N New York St, Wichita, KS 67219, USA",,KS,,US,,,,US Army National Guard,Q928670
+4514,us_army_national_guard,SFC Joseph Goodale,"1846 Fairmount St, Wichita, KS 67260, USA",,KS,,US,,,,US Army National Guard,Q928670
+4515,us_army_national_guard,SSG Joshua Grant,"2115 Moyle St, Augusta, KS 67010, USA",,KS,,US,,,,US Army National Guard,Q928670
+4517,us_army_national_guard,SGT Christopher Sigars,"400 Grandview Ave, Newton, KS 67114, USA",,KS,,US,,,,US Army National Guard,Q928670
+4519,us_army_national_guard,1SG Larry Coppins,"18200 W 87th St, Lenexa, KS 66219, USA",,KS,,US,,,,US Army National Guard,Q928670
+4520,us_army_national_guard,SSG Phillip McGlothlin,"1090 W Santa Fe St, Olathe, KS 66061, USA",,KS,,US,,,,US Army National Guard,Q928670
+4521,us_army_national_guard,SGT Marcus Rhodes,"11040 Quivira Rd, Overland Park, KS 66210, USA",,KS,,US,,,,US Army National Guard,Q928670
+4522,us_army_national_guard,Vacant,"11040 Quivira Rd, Overland Park, KS 66210, USA",,KS,,US,,,,US Army National Guard,Q928670
+4523,us_army_national_guard,SSG Chance Hinds,"11040 Quivira Rd, Overland Park, KS 66210, USA",,KS,,US,,,,US Army National Guard,Q928670
+4524,us_army_national_guard,SSG Matthew Ross,"1090 W Santa Fe St, Olathe, KS 66061, USA",,KS,,US,,,,US Army National Guard,Q928670
+4525,us_army_national_guard,SGT Lyssa Bucklew,"11040 Quivira Rd, Overland Park, KS 66210, USA",,KS,,US,,,,US Army National Guard,Q928670
+4526,us_army_national_guard,SSG Douglas Oreilly,"1090 W Santa Fe St, Olathe, KS 66061, USA",,KS,,US,,,,US Army National Guard,Q928670
+4527,us_army_national_guard,SGT Douglas Oreilly,"1601 W Hwy 56, Olathe, KS 66061, USA",,KS,,US,,,,US Army National Guard,Q928670
+4528,us_army_national_guard,Vacant,"11040 Quivira Rd, Overland Park, KS 66210, USA",,KS,,US,,,,US Army National Guard,Q928670
+4529,us_army_national_guard,SFC Nathan Fabrizius,"11040 Quivira Rd, Overland Park, KS 66210, USA",,KS,,US,,,,US Army National Guard,Q928670
+4530,us_army_national_guard,SFC Rudy Draper,"208 W 17th St, Ottawa, KS 66067, USA",,KS,,US,,,,US Army National Guard,Q928670
+4531,us_army_national_guard,SFC Michael Morris,"1010 Hedge Ln Rd, Paola, KS 66071, USA",,KS,,US,,,,US Army National Guard,Q928670
+4532,us_army_national_guard,SFC Jessica Lane,"208 W 17th St, Ottawa, KS 66067, USA",,KS,,US,,,,US Army National Guard,Q928670
+4533,us_army_national_guard,SSG Nicholas Ledet,"1809 Merchant St, Emporia, KS 66801, USA",,KS,,US,,,,US Army National Guard,Q928670
+4534,us_army_national_guard,SSG Nicholas Ledet,"1 Kellogg Cir, Emporia, KS 66801, USA",,KS,,US,,,,US Army National Guard,Q928670
+4535,us_army_national_guard,SSG Eric Williams,"1021 N State St, Iola, KS 66749, USA",,KS,,US,,,,US Army National Guard,Q928670
+4536,us_army_national_guard,SSG Jared Harlan,"2001 S Rouse St, Pittsburg, KS 66762, USA",,KS,,US,,,,US Army National Guard,Q928670
+4537,us_army_national_guard,SSG Dustin Sheets,"2001 S Rouse St, Pittsburg, KS 66762, USA",,KS,,US,,,,US Army National Guard,Q928670
+4538,us_army_national_guard,SPC Shane Bauer,"2669 S Perl Schmid Dr, Coffeyville, KS 67337, USA",,KS,,US,,,,US Army National Guard,Q928670
+4539,us_army_national_guard,SPC Shane Bauer,"400 W 11th St, Coffeyville, KS 67337, USA",,KS,,US,,,,US Army National Guard,Q928670
+4540,us_army_national_guard,MSG Eric Reichert,"7116 SE Forbes Ave, Topeka, KS 66619, USA",,KS,,US,,,,US Army National Guard,Q928670
+4541,us_army_national_guard,SFC Mark Nussbaumer,"721 Levee Dr, Manhattan, KS 66502, USA",,KS,,US,,,,US Army National Guard,Q928670
+4542,us_army_national_guard,SSG Michael Johnson,"1223 SW Wanamaker Rd suite 200, Topeka, KS 66604, USA",,KS,,US,,,,US Army National Guard,Q928670
+4543,us_army_national_guard,SSG Marc Limon,"1008 W 4th St, Holton, KS 66436, USA",,KS,,US,,,,US Army National Guard,Q928670
+4544,us_army_national_guard,SGT Mario Caraballo,"721 Levee Dr, Manhattan, KS 66502, USA",,KS,,US,,,,US Army National Guard,Q928670
+4545,us_army_national_guard,SSG Megan Brown,"Gen. Richard B. Myers Hall, Manhattan, KS 66506, USA",,KS,,US,,,,US Army National Guard,Q928670
+4546,us_army_national_guard,SPC Tyler Hayes,"1223 SW Wanamaker Rd suite 200, Topeka, KS 66604, USA",,KS,,US,,,,US Army National Guard,Q928670
+4547,us_army_national_guard,SFC Chad Seel,"1223 SW Wanamaker Rd suite 200, Topeka, KS 66604, USA",,KS,,US,,,,US Army National Guard,Q928670
+4548,us_army_national_guard,SSG Steven Walker,"1223 SW Wanamaker Rd suite 200, Topeka, KS 66604, USA",,KS,,US,,,,US Army National Guard,Q928670
+4549,us_army_national_guard,MSG Aaron Todd,"422 Delaware St, Leavenworth, KS 66048, USA",,KS,,US,,,,US Army National Guard,Q928670
+4550,us_army_national_guard,SGT Jonathon Schulz,"422 Delaware St, Leavenworth, KS 66048, USA",,KS,,US,,,,US Army National Guard,Q928670
+4551,us_army_national_guard,SSG Kim Cortner,"422 Delaware St, Leavenworth, KS 66048, USA",,KS,,US,,,,US Army National Guard,Q928670
+4552,us_army_national_guard,SSG Marco Meixueiro,"100 S 20th St, Kansas City, KS 66102, USA",,KS,,US,,,,US Army National Guard,Q928670
+4553,us_army_national_guard,SFC Nathan Wellman,"200 N Iowa St, Lawrence, KS 66049, USA",,KS,,US,,,,US Army National Guard,Q928670
+4554,us_army_national_guard,SSG Bryan Dudley,"1300 Sunnyside Ave, Lawrence, KS 66045, USA",,KS,,US,,,,US Army National Guard,Q928670
+4555,us_army_national_guard,SGT Charles Preiss,"108 1st St, Hiawatha, KS 66434, USA",,KS,,US,,,,US Army National Guard,Q928670
+4556,us_army_national_guard,Vacant,"100 S 20th St, Kansas City, KS 66102, USA",,KS,,US,,,,US Army National Guard,Q928670
+4557,us_army_national_guard,Vacant,"200 N Iowa St, Lawrence, KS 66049, USA",,KS,,US,,,,US Army National Guard,Q928670
+4558,us_army_national_guard,SSG Robert Wunderle,"2115 Blosser Cir, Concordia, KS 66901, USA",,KS,,US,,,,US Army National Guard,Q928670
+4559,us_army_national_guard,SSG Caleb Martin,"3617 S Seneca St, Wichita, KS 67217, USA",,KS,,US,,,,US Army National Guard,Q928670
+4560,us_army_national_guard,SGT Hunter Dierks,"125 S 2nd St, Arkansas City, KS 67005, USA",,KS,,US,,,,US Army National Guard,Q928670
+4561,us_army_national_guard,SSG Jacob Dedmon,"3617 S Seneca St, Wichita, KS 67217, USA",,KS,,US,,,,US Army National Guard,Q928670
+4705,us_army_national_guard,SSG Alex Jacobs,"11310 E 21st St N, Wichita, KS 67226, USA",,KS,,US,,,,US Army National Guard,Q928670
+4706,us_army_national_guard,SSG Brandon Jones,"11310 E 21st St N, Wichita, KS 67226, USA",,KS,,US,,,,US Army National Guard,Q928670
+4707,us_army_national_guard,CPL Shauntel Stovall,"11310 E 21st St N, Wichita, KS 67226, USA",,KS,,US,,,,US Army National Guard,Q928670
+4708,us_army_national_guard,SGT Nicholas Murphy,"11310 E 21st St N, Wichita, KS 67226, USA",,KS,,US,,,,US Army National Guard,Q928670
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,AMSTERDAM,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,LEAWOOD,KS,,US,,,,,
+,visa,,,MISSION,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,MISSION,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,SHAWNEE MISSION,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,LOUISBURG,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,OVERLAND PARK,KS,,US,,,,,
+,visa,,,SHAWNEE,KS,,US,,,,,
+,visa,,,LENEXA,KS,,US,,,,,
+,visa,,,LENEXA,KS,,US,,,,,
+,visa,,,LENEXA,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,LACYGNE,KS,,US,,,,,
+,visa,,,OLATHE,KS,,US,,,,,
+,visa,,,KANSAS CITY,KS,,US,,,,,
+,visa,,,OLATHE,KS,,US,,,,,
+,visa,,,SHAWNEE,KS,,US,,,,,
+,visa,,,SAINT JOSEPH,KS,,US,,,,,
+,visa,,,PAOLA,KS,,US,,,,,
+,visa,,,LEAVENWORTH,KS,,US,,,,,
+,visa,,,LEAVENWORTH,KS,,US,,,,,
+,visa,,,OSAWATOMIE,KS,,US,,,,,
+,visa,,,EDGERTON,KS,,US,,,,,
+,visa,,,PARKER,KS,,US,,,,,
+,visa,,,LINWOOD,KS,,US,,,,,
+,visa,,,ATCHISON,KS,,US,,,,,
+,visa,,,ATCHISON,KS,,US,,,,,
+,visa,,,ATCHISON,KS,,US,,,,,
+,visa,,,ATCHISON,KS,,US,,,,,
+,visa,,,WELLSVILLE,KS,,US,,,,,
+,visa,,,ATCHISON,KS,,US,,,,,
+,visa,,,LAWRENCE,KS,,US,,,,,
+,visa,,,LAWRENCE,KS,,US,,,,,
+,visa,,,LAWRENCE,KS,,US,,,,,
+,visa,,,LAWRENCE,KS,,US,,,,,
+,visa,,,LAWRENCE,KS,,US,,,,,
+,visa,,,LAWRENCE,KS,,US,,,,,
+,visa,,,OTTAWA,KS,,US,,,,,
+,visa,,,GARNETT,KS,,US,,,,,
+,visa,,,LAWRENCE,KS,,US,,,,,
+,visa,,,OTTAWA,KS,,US,,,,,
+,visa,,,OTTAWA,KS,,US,,,,,
+,visa,,,OTTAWA,KS,,US,,,,,
+,visa,,,OTTAWA,KS,,US,,,,,
+,visa,,,LAWRENCE,KS,,US,,,,,
+,visa,,,ERIE,KS,,US,,,,,
+,visa,,,PERRY,KS,,US,,,,,
+,visa,,,PERRY,KS,,US,,,,,
+,visa,,,VALLEY FALLS,KS,,US,,,,,
+,visa,,,POMONA,KS,,US,,,,,
+,visa,,,MERIDEN,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,SCRANTON,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,NEW STRAWN,KS,,US,,,,,
+,visa,,,TOPEKA,KS,,US,,,,,
+,visa,,,YATES CENTER,KS,,US,,,,,
+,visa,,,ROSSVILLE,KS,,US,,,,,
+,visa,,,FREDONIA,KS,,US,,,,,
+,visa,,,WAMEGO,KS,,US,,,,,
+,visa,,,MARYSVILLE,KS,,US,,,,,
+,visa,,,MANHATTAN,KS,,US,,,,,
+,visa,,,MARYSVILLE,KS,,US,,,,,
+,visa,,,MANHATTAN,KS,,US,,,,,
+,visa,,,FORT RILEY,KS,,US,,,,,
+,visa,,,FORT RILEY,KS,,US,,,,,
+,visa,,,FORT RILEY,KS,,US,,,,,
+,visa,,,FORT RILEY,KS,,US,,,,,
+,visa,,,FORT RILEY,KS,,US,,,,,
+,visa,,,FORT RILEY,KS,,US,,,,,
+,visa,,,EL DORADO,KS,,US,,,,,
+,visa,,,WINFIELD,KS,,US,,,,,
+,visa,,,DOUGLASS,KS,,US,,,,,
+,visa,,,WINFIELD,KS,,US,,,,,
+,visa,,,WINFIELD,KS,,US,,,,,
+,visa,,,WINFIELD,KS,,US,,,,,
+,visa,,,WINFIELD,KS,,US,,,,,
+,visa,,,UDALL,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,OXFORD,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,DERBY,KS,,US,,,,,
+,visa,,,DERBY,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,HAYSVILLE,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,WICHITA,KS,,US,,,,,
+,visa,,,WELINGTON,KS,,US,,,,,
+,visa,,,SALINA,KS,,US,,,,,
+,visa,,,SALINA,KS,,US,,,,,
+,visa,,,CAWKER CITY,KS,,US,,,,,
+,visa,,,ZENDA,KS,,US,,,,,
+,visa,,,DORRANCE,KS,,US,,,,,
+,visa,,,HOISINGTON,KS,,US,,,,,
+,visa,,,HOISINGTON,KS,,US,,,,,
+,visa,,,GREAT BEND,KS,,US,,,,,
+,visa,,,GREAT BEND,KS,,US,,,,,
+,visa,,,GREAT BEND,KS,,US,,,,,
+,visa,,,RUSSELL,KS,,US,,,,,
+,visa,,,GREAT BEND,KS,,US,,,,,
+,visa,,,RUSSELL,KS,,US,,,,,
+,visa,,,RUSSEL,KS,,US,,,,,
+,visa,,,JETMORE,KS,,US,,,,,
+https://www.zaxbys.com/locations/ks/olathe/12195-s-strang-line-rd,zaxbys_us,Olathe - 12195 S Strang Line RdX,,Olathe,KS,,US,+1 913-747-4277,https://www.zaxbys.com/locations/ks/olathe/12195-s-strang-line-rd,Mo-Su 10:30-23:00,Zaxby's,Q8067525
+https://www.zaxbys.com/locations/ks/kansas-city/2035-n-109-st,zaxbys_us,Kansas City - 2035 N 109 St,,Kansas City,KS,,US,+1 913-299-8803,https://www.zaxbys.com/locations/ks/kansas-city/2035-n-109-st,Mo-Su 10:30-23:00,Zaxby's,Q8067525

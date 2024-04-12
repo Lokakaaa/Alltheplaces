@@ -1,0 +1,501 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+TXQ,adidas,台中市,8
+TPQ,adidas,台北市,20
+KHQ,adidas,高雄市,7
+TAO,adidas,中壢市,1
+TPQ,adidas,新北市,4
+UNKNOWN,adidas,台北市,3
+TPE,adidas,台北市,3
+UNKNOWN,adidas,桃園市,1
+UNKNOWN,adidas,台中市,2
+UNKNOWN,adidas,Kaohsiung,1
+TAO,adidas,Taoyuan,1
+KHH,adidas,高雄市,3
+TXG,adidas,台中市,2
+TAO,adidas,中壢區,1
+UNKNOWN,adidas,高雄市,1
+TNQ,adidas,台南市,1
+UNKNOWN,adidas,New Taipei City,1
+UNKNOWN,adidas,Taipei,1
+嘉義縣,anytime_fitness,嘉義市 (Chiayi city),1
+臺中市,anytime_fitness,Taichung,2
+臺南市,anytime_fitness,Tainan,1
+臺中市,anytime_fitness,台中市 (Taichung City),1
+臺北市,anytime_fitness,Taipei,1
+台北市,apple,台北市,2
+TXG,ashley_furniture,Taichung,1
+TAIPEI,audi,Taipei City,7
+TAIPEI,audi,New Taipei City,1
+TAIPEI,audi,New Taipei CIty,1
+TAIWAN,audi,Taoyuan City,1
+TAIWAN,audi,Hsinchu City,1
+TAIWAN,audi,Hualien County,1
+TAIWAN,audi,Taichung City,3
+TAIWAN,audi,Changhua County,1
+TAIWAN,audi,Tainan City,1
+KAOHSIUNG,audi,Kaohsiung City,2
+TAIWAN,audi,Kaohsiung City,1
+NEIHUDIST,avis,Taipei City,1
+NANGANDIST,avis,Taipei City,1
+XINYIDIST,avis,Taipei City,1
+BEITOUDIST,avis,Taipei City,1
+BANQIAODIST,avis,New Taipei City,1
+WESTDIST,avis,Taichung,1
+DAYUANDISTNORTHSIDEOFT2,avis,Taoyuan City,1
+TAITUNGCITY,avis,Taitung County,1
+NO26GAOTIEEAST1STRD,avis,Taichung City,1
+HUSITOWNSHIP,avis,Penghu,1
+CHINHUTOWNSHIP,avis,Kinmen,1
+NO62YANHAI1STRD,avis,Kaohsiung City,1
+SHOUFENGTOWNSHIP,avis,Hualien County,1
+HUALIENCITYHUALIENCOUNTY,avis,Hualien City,1
+XINCHENGTOWNSHIP,avis,Hualien,1
+UNKNOWN,bmw_group,New Taipei City,3
+UNKNOWN,bmw_group,Taipei City,9
+UNKNOWN,bmw_group,Chiayi City,1
+UNKNOWN,bmw_group,Nantou County,1
+UNKNOWN,bmw_group,Hsinchu City,1
+UNKNOWN,bmw_group,Taichung City,4
+UNKNOWN,bmw_group,Taoyuan County,3
+UNKNOWN,bmw_group,Changhua County,1
+UNKNOWN,bmw_group,Kaohsiung City,2
+KAOHSIUNGCITY,bmw_group,Qianzhen,1
+TAIWAN,bmw_group,Taichung City,1
+UNKNOWN,bmw_group,Tainan City,2
+TAIWAN,bmw_group,Taipei City,1
+UNKNOWN,bmw_group,Hualien County,1
+TAOYUAN,bmw_group,Taoyuan City,1
+TAIPEICITY,bmw_group,Taipei,1
+UNKNOWN,bmw_group,Pingtung County,1
+YILANCOUNTY,bmw_group,Yilan,1
+NORTHERNTAIWAN,botteg_aveneta,Taipei,8
+CENTRALTAIWAN,botteg_aveneta,Taichung,1
+SOUTHERNTAIWAN,botteg_aveneta,Kaohsiung,1
+SOUTHWESTERNTAIWAN,botteg_aveneta,Tainan,1
+UNKNOWN,carrefour_tw,台北市,70
+UNKNOWN,carrefour_tw,台中市,28
+UNKNOWN,carrefour_tw,嘉義市,5
+UNKNOWN,carrefour_tw,桃園市,38
+UNKNOWN,carrefour_tw,新北市,91
+UNKNOWN,carrefour_tw,高雄市,26
+UNKNOWN,carrefour_tw,台南市,11
+UNKNOWN,carrefour_tw,雲林縣,3
+UNKNOWN,carrefour_tw,屏東縣,3
+UNKNOWN,carrefour_tw,金門縣,1
+UNKNOWN,carrefour_tw,新竹市,9
+UNKNOWN,carrefour_tw,苗栗縣,4
+UNKNOWN,carrefour_tw,新竹縣,12
+UNKNOWN,carrefour_tw,台東縣,1
+UNKNOWN,carrefour_tw,宜蘭縣,1
+UNKNOWN,carrefour_tw,花蓮縣,1
+UNKNOWN,carrefour_tw,南投縣,2
+UNKNOWN,carrefour_tw,彰化縣,2
+UNKNOWN,carrefour_tw,基隆市,4
+UNKNOWN,deloitte,unknown,5
+UNKNOWN,ecco,Taipei City,8
+TW,ernst_young,Taoyuan,1
+TW,ernst_young,Kaohsiung,1
+TW,ernst_young,Taichung,1
+TW,ernst_young,Tainan,1
+TW,ernst_young,Taipei,1
+TW,ernst_young,Hsinchu,1
+台北,fossil,大同區,1
+高雄市,fossil,大樹區,1
+新北,fossil,林口區,1
+UNKNOWN,geox,TAIPEI OUTLET,1
+TAIPEI,google_offices,unknown,1
+UNKNOWN,hilton,unknown,1
+UNKNOWN,hm,Taipei,3
+UNKNOWN,hm,Kaohsiung,3
+UNKNOWN,hm,Taichung,3
+UNKNOWN,hm,Hsinchu,1
+UNKNOWN,hm,Taoyuan,1
+UNKNOWN,hm,Hualien,1
+UNKNOWN,hm,Tainan,2
+TAIWAN,hooters,Hsinchu,1
+TAIPEI,hooters,unknown,2
+TWN,hugo_boss,Taoyuan City (Taiwan Region / 台灣地區),1
+TWN,hugo_boss,New Taipei City (Taiwan Region / 台灣地區),1
+TPE,hugo_boss,Taipei City (Taiwan Region / 台灣地區),8
+TPE,hugo_boss,Zhubei City (Taiwan Region / 台灣地區),1
+TPE,hugo_boss,New Taipei City (Taiwan Region / 台灣地區),1
+TCH,hugo_boss,Taichung (Taiwan Region / 台灣地區),1
+TCH,hugo_boss,Taichung City (Taiwan Region / 台灣地區),2
+TWN,hugo_boss,Tainan City (Taiwan Region / 台灣地區),1
+TPE,hugo_boss,Tainan (Taiwan Region / 台灣地區),1
+KSH,hugo_boss,Kaohsiung City (Taiwan Region / 台灣地區),3
+KSH,hugo_boss,Kaohsiung (Taiwan Region / 台灣地區),1
+TAIPEI,ikks,TAIPEI CITY,1
+ASIAPACIFIC,jll,"Taiwan, China",1
+ASIAPACIFIC,jll,China,1
+UNKNOWN,little_free_library,Taipei,1
+NEWTAIPEICITY,little_free_library,Xindian Dist.,1
+台灣,little_free_library,Taoyuan City,1
+TAIWAN,little_free_library,Kaohsiung,1
+TAIWAN,louisa_coffee,Hsinchu,1
+TAIPEI,louisa_coffee,unknown,1
+TAIPEICITY,lovisa,Taipei City,1
+UNKNOWN,man_truck_and_bus,Singapore ,1
+UNKNOWN,man_truck_and_bus,Guishan Dist. Taoyuan City,1
+UNKNOWN,man_truck_and_bus,"Renwu Dist., Kaohsiung City ",1
+UNKNOWN,man_truck_and_bus,Taoyuan City,1
+UNKNOWN,man_truck_and_bus,Toufen City,1
+UNKNOWN,man_truck_and_bus,"Wugu Dist., New Taipei City ",1
+UNKNOWN,man_truck_and_bus,Wuqi Dist Taichung,1
+UNKNOWN,man_truck_and_bus, Su’ao Township,1
+UNKNOWN,maserati,TAIPEI,1
+UNKNOWN,maserati,KAOHSIUNG,1
+UNKNOWN,maserati,Taichung,1
+UNKNOWN,maserati,TAICHUNG,1
+TAIPEICITY,mercedes_benz,Taipei City,9
+TAOYUANCOUNTY,mercedes_benz,Taoyuan City,2
+HSINCHUCITY,mercedes_benz,Hsinchu City,1
+NEWTAIPEICITY,mercedes_benz,New Taipei City,2
+KAOHSIUNGCITY,mercedes_benz,Kaohsiung City,4
+台南市,mercedes_benz,Tainan City,1
+TAINANCITY,mercedes_benz,Tainan City,1
+TAICHUNGCITY,mercedes_benz,Taichung City,5
+CHIAYICOUNTY,mercedes_benz,Chiayi County,1
+TAOYUANCITY,mercedes_benz,Taoyuan City,1
+CHANGHUACOUNTY,mercedes_benz,Changhua County,1
+YILANCOUNTY,mercedes_benz,Yilan County,1
+CHANGHUACOUNTY,mercedes_benz,Chunghwa County,1
+HUALIENCOUNTY,mercedes_benz,HuaLien County,1
+TAIPEI,meta,unknown,1
+台湾,nike,新竹縣,1
+台湾,nike,台北市,3
+台湾,nike,桃園市,1
+台湾,nike,台中市,1
+台湾,nike,新北市,1
+台湾,nike,高雄市,1
+台北市,pizza_hut_tw,中正區,4
+台北市,pizza_hut_tw,大同區,2
+台北市,pizza_hut_tw,中山區,5
+台北市,pizza_hut_tw,松山區,3
+台北市,pizza_hut_tw,大安區,4
+台北市,pizza_hut_tw,萬華區,2
+台北市,pizza_hut_tw,南港區,4
+台北市,pizza_hut_tw,信義區,3
+台北市,pizza_hut_tw,士林區,5
+台北市,pizza_hut_tw,北投區,3
+台北市,pizza_hut_tw,內湖區,4
+台北市,pizza_hut_tw,文山區,5
+基隆市,pizza_hut_tw,仁愛區,1
+基隆市,pizza_hut_tw,安樂區,1
+基隆市,pizza_hut_tw,信義區,1
+基隆市,pizza_hut_tw,中山區,1
+基隆市,pizza_hut_tw,七堵區,1
+新北市,pizza_hut_tw,金山區,1
+新北市,pizza_hut_tw,板橋區,10
+新北市,pizza_hut_tw,汐止區,3
+新北市,pizza_hut_tw,深坑區,1
+新北市,pizza_hut_tw,瑞芳區,1
+新北市,pizza_hut_tw,新店區,5
+新北市,pizza_hut_tw,永和區,4
+新北市,pizza_hut_tw,中和區,4
+新北市,pizza_hut_tw,土城區,4
+新北市,pizza_hut_tw,三峽區,1
+新北市,pizza_hut_tw,樹林區,3
+新北市,pizza_hut_tw,鶯歌區,1
+新北市,pizza_hut_tw,三重區,6
+新北市,pizza_hut_tw,新莊區,5
+新北市,pizza_hut_tw,泰山區,2
+新北市,pizza_hut_tw,林口區,2
+新北市,pizza_hut_tw,蘆洲區,3
+新北市,pizza_hut_tw,五股區,1
+新北市,pizza_hut_tw,八里區,1
+新北市,pizza_hut_tw,淡水區,4
+宜蘭縣,pizza_hut_tw,宜蘭市,2
+宜蘭縣,pizza_hut_tw,礁溪鄉,1
+宜蘭縣,pizza_hut_tw,羅東鎮,3
+宜蘭縣,pizza_hut_tw,蘇澳鎮,1
+新竹市,pizza_hut_tw,東區,4
+新竹市,pizza_hut_tw,香山區,1
+新竹市,pizza_hut_tw,北區,1
+新竹縣,pizza_hut_tw,竹北市,3
+新竹縣,pizza_hut_tw,湖口鄉,1
+新竹縣,pizza_hut_tw,新豐鄉,1
+新竹縣,pizza_hut_tw,新埔鎮,1
+新竹縣,pizza_hut_tw,關西鎮,1
+新竹縣,pizza_hut_tw,竹東鎮,1
+桃園市,pizza_hut_tw,中壢區,9
+桃園市,pizza_hut_tw,平鎮區,2
+桃園市,pizza_hut_tw,龍潭區,2
+桃園市,pizza_hut_tw,楊梅區,2
+桃園市,pizza_hut_tw,新屋區,1
+桃園市,pizza_hut_tw,觀音區,1
+桃園市,pizza_hut_tw,桃園區,7
+桃園市,pizza_hut_tw,龜山區,4
+桃園市,pizza_hut_tw,八德區,4
+桃園市,pizza_hut_tw,大溪區,1
+桃園市,pizza_hut_tw,大園區,1
+桃園市,pizza_hut_tw,蘆竹區,3
+苗栗縣,pizza_hut_tw,竹南鎮,1
+苗栗縣,pizza_hut_tw,頭份市,2
+苗栗縣,pizza_hut_tw,後龍鎮,1
+苗栗縣,pizza_hut_tw,苑裡鎮,1
+苗栗縣,pizza_hut_tw,苗栗市,2
+苗栗縣,pizza_hut_tw,銅鑼鄉,1
+台中市,pizza_hut_tw,東區,1
+台中市,pizza_hut_tw,南區,2
+台中市,pizza_hut_tw,西區,1
+台中市,pizza_hut_tw,北區,3
+台中市,pizza_hut_tw,北屯區,3
+台中市,pizza_hut_tw,西屯區,3
+台中市,pizza_hut_tw,南屯區,2
+台中市,pizza_hut_tw,太平區,2
+台中市,pizza_hut_tw,大里區,2
+台中市,pizza_hut_tw,霧峰區,1
+台中市,pizza_hut_tw,烏日區,1
+台中市,pizza_hut_tw,豐原區,2
+台中市,pizza_hut_tw,后里區,1
+台中市,pizza_hut_tw,東勢區,1
+台中市,pizza_hut_tw,潭子區,2
+台中市,pizza_hut_tw,大雅區,1
+台中市,pizza_hut_tw,神岡區,1
+台中市,pizza_hut_tw,大肚區,1
+台中市,pizza_hut_tw,沙鹿區,2
+台中市,pizza_hut_tw,龍井區,1
+台中市,pizza_hut_tw,梧棲區,1
+台中市,pizza_hut_tw,清水區,1
+台中市,pizza_hut_tw,大甲區,1
+彰化縣,pizza_hut_tw,彰化市,2
+彰化縣,pizza_hut_tw,花壇鄉,1
+彰化縣,pizza_hut_tw,秀水鄉,1
+彰化縣,pizza_hut_tw,伸港鄉,1
+彰化縣,pizza_hut_tw,員林市,1
+彰化縣,pizza_hut_tw,社頭鄉,1
+彰化縣,pizza_hut_tw,溪湖鎮,1
+彰化縣,pizza_hut_tw,和美鎮,1
+彰化縣,pizza_hut_tw,鹿港鎮,1
+彰化縣,pizza_hut_tw,北斗鎮,1
+彰化縣,pizza_hut_tw,二林鎮,1
+南投縣,pizza_hut_tw,南投市,1
+南投縣,pizza_hut_tw,草屯鎮,1
+南投縣,pizza_hut_tw,埔里鎮,1
+南投縣,pizza_hut_tw,名間鄉,1
+南投縣,pizza_hut_tw,竹山鎮,1
+嘉義市,pizza_hut_tw,西區,2
+嘉義市,pizza_hut_tw,東區,2
+嘉義縣,pizza_hut_tw,朴子市,1
+嘉義縣,pizza_hut_tw,民雄鄉,1
+雲林縣,pizza_hut_tw,斗南鎮,1
+雲林縣,pizza_hut_tw,虎尾鎮,1
+雲林縣,pizza_hut_tw,麥寮鄉,1
+雲林縣,pizza_hut_tw,斗六市,2
+雲林縣,pizza_hut_tw,西螺鎮,1
+雲林縣,pizza_hut_tw,北港鎮,1
+台南市,pizza_hut_tw,東區,2
+台南市,pizza_hut_tw,南區,1
+台南市,pizza_hut_tw,北區,2
+台南市,pizza_hut_tw,安南區,3
+台南市,pizza_hut_tw,永康區,4
+台南市,pizza_hut_tw,歸仁區,1
+台南市,pizza_hut_tw,新化區,1
+台南市,pizza_hut_tw,仁德區,1
+台南市,pizza_hut_tw,麻豆區,1
+台南市,pizza_hut_tw,佳里區,1
+台南市,pizza_hut_tw,新營區,1
+台南市,pizza_hut_tw,善化區,1
+台南市,pizza_hut_tw,新市區,1
+台南市,pizza_hut_tw,安平區,1
+高雄市,pizza_hut_tw,前金區,1
+高雄市,pizza_hut_tw,苓雅區,3
+高雄市,pizza_hut_tw,鹽埕區,1
+高雄市,pizza_hut_tw,鼓山區,1
+高雄市,pizza_hut_tw,前鎮區,1
+高雄市,pizza_hut_tw,三民區,3
+高雄市,pizza_hut_tw,楠梓區,3
+高雄市,pizza_hut_tw,小港區,2
+高雄市,pizza_hut_tw,左營區,3
+高雄市,pizza_hut_tw,仁武區,1
+高雄市,pizza_hut_tw,大社區,1
+高雄市,pizza_hut_tw,岡山區,2
+高雄市,pizza_hut_tw,路竹區,1
+高雄市,pizza_hut_tw,橋頭區,1
+高雄市,pizza_hut_tw,鳳山區,3
+高雄市,pizza_hut_tw,大寮區,2
+高雄市,pizza_hut_tw,林園區,1
+高雄市,pizza_hut_tw,旗山區,1
+高雄市,pizza_hut_tw,茄萣區,1
+金門縣,pizza_hut_tw,金城鎮,1
+屏東縣,pizza_hut_tw,屏東市,2
+屏東縣,pizza_hut_tw,內埔鄉,1
+屏東縣,pizza_hut_tw,萬丹鄉,1
+屏東縣,pizza_hut_tw,潮州鎮,1
+屏東縣,pizza_hut_tw,東港鎮,1
+屏東縣,pizza_hut_tw,恆春鎮,1
+台東縣,pizza_hut_tw,台東市,2
+花蓮縣,pizza_hut_tw,花蓮市,3
+花蓮縣,pizza_hut_tw,吉安鄉,1
+花蓮縣,pizza_hut_tw,玉里鎮,1
+CT1,skoda,unknown,1
+CT2,skoda,unknown,1
+TY3,skoda,unknown,1
+CT4,skoda,unknown,1
+FY2,skoda,unknown,1
+FY1,skoda,unknown,1
+TPS1,skoda,unknown,1
+TPW,skoda,unknown,2
+TPW2,skoda,unknown,1
+KHT,skoda,unknown,1
+UNKNOWN,skoda,unknown,1
+LT,skoda,unknown,1
+CT3,skoda,unknown,1
+JH1,skoda,unknown,1
+JH2,skoda,unknown,1
+CM,skoda,unknown,1
+TY1,skoda,unknown,1
+TY2,skoda,unknown,1
+CM2,skoda,unknown,1
+HL,skoda,unknown,1
+YL,skoda,unknown,1
+KH1,skoda,unknown,1
+KH2,skoda,unknown,1
+HUALIENCOUNTY,smart,HuaLien County,1
+TAIPEICITY,smart,Taipei City,1
+TAOYUANCITY,smart,Taoyuan City,1
+TAICHUNGCITY,smart,Taichung City,1
+TAINANCITY,smart,Tainan City,1
+KAOHSIUNGCITY,smart,Kaohsiung City,1
+,snap_fitness,Hsinchu City,1
+HSINCHU,snap_fitness,Zhubei City,1
+UNKNOWN,subway_tw,unknown,128
+UNKNOWN,timberland,Taichung,3
+UNKNOWN,timberland,Tainan,2
+UNKNOWN,timberland,Taipei,9
+UNKNOWN,timberland,Tao Yuan,1
+UNKNOWN,timberland,Taoyuan,1
+UNKNOWN,timberland,"Chung Li City, Taoyuan",1
+UNKNOWN,timberland,Hsin Zu,1
+UNKNOWN,timberland,Kaohsiung,2
+UNKNOWN,united_colors_of_benetton,TAIPEI,6
+UNKNOWN,united_colors_of_benetton,TAINAN,3
+UNKNOWN,united_colors_of_benetton,KAOHSIUNG,3
+UNKNOWN,united_colors_of_benetton,TAICHUNG,3
+UNKNOWN,united_colors_of_benetton,HSINCHU,1
+UNKNOWN,visa,KINMEN COUNTY,14
+UNKNOWN,visa,LIENCHIANG COUNTY,3
+UNKNOWN,visa,PENGHU COUNTY,3
+UNKNOWN,visa,YUNLIN COUNTY,64
+UNKNOWN,visa,SANCHUNG,3
+UNKNOWN,visa,SUNCHUNG,1
+UNKNOWN,visa,CHIAYI COUNTY,38
+UNKNOWN,visa,CHANGHUA COUNTY,119
+UNKNOWN,visa,TAINAN,11
+UNKNOWN,visa,TAINAN CITY,197
+UNKNOWN,visa,NORTH DISTRICT,2
+UNKNOWN,visa,ANPING DISTRICT,1
+UNKNOWN,visa,TAICHUNG CITY,521
+UNKNOWN,visa,YUNG KANG,1
+UNKNOWN,visa,TAIPEI,204
+UNKNOWN,visa,KAOHSIUNG CITY,319
+UNKNOWN,visa,CHANGHUA,1
+UNKNOWN,visa,CHANG HWA,1
+UNKNOWN,visa,KAOHSIUNG,16
+UNKNOWN,visa,MIAOLI COUNTY,93
+UNKNOWN,visa,TA CHIA,1
+UNKNOWN,visa,KAOHSIUNG HSIEN,2
+UNKNOWN,visa,CHIAYI CITY,29
+UNKNOWN,visa,LU CHU,1
+UNKNOWN,visa,CHIA YI,4
+UNKNOWN,visa,QIAOTOU DISTRICT,1
+UNKNOWN,visa,GANGSHAN DISTRICT,1
+UNKNOWN,visa,CHIAYI,2
+UNKNOWN,visa,CHIA-YI,1
+UNKNOWN,visa,NANZI DISTRICT,3
+UNKNOWN,visa,TAICHUNG,19
+UNKNOWN,visa,QIANZHEN DISTRICT,5
+UNKNOWN,visa,NANTUN DISTRICT,1
+UNKNOWN,visa,TOU LIU,1
+UNKNOWN,visa,NIAOSONG DISTRIC,1
+UNKNOWN,visa,CHICHIN DISTRICT,1
+UNKNOWN,visa,KUSHAN DISTRICT,1
+UNKNOWN,visa,NANTZE DISTRICT,2
+UNKNOWN,visa,CHANG HUA HSIEN,1
+UNKNOWN,visa,BEITUN DISTRICT,1
+UNKNOWN,visa,ZUOYING DISTRICT,10
+UNKNOWN,visa,SANMIN DISTRICT,6
+UNKNOWN,visa,DALIAO DISTRICT,1
+UNKNOWN,visa,XINXING DISTRICT,4
+UNKNOWN,visa,LINGYA DISTRICT,7
+UNKNOWN,visa,KTTOHSIUNG,1
+UNKNOWN,visa,HSINHSING DISTRICT,1
+UNKNOWN,visa,DALI DISTRICT,1
+UNKNOWN,visa,CIANJIN DISTRICT,2
+UNKNOWN,visa,CHIENCHIN DISTRICT,1
+UNKNOWN,visa,KSOHSIUNG,1
+UNKNOWN,visa,KAOSHIUNG,1
+UNKNOWN,visa,NANTOU COUNTY,75
+UNKNOWN,visa,KOSHSIUNG,1
+UNKNOWN,visa,HSENTIN,1
+UNKNOWN,visa,FENGSHAN DISTRICT,4
+UNKNOWN,visa,XIAOGANG DISTRICT,3
+UNKNOWN,visa,HSINCHU CITY,89
+UNKNOWN,visa,HSIAOKANG DISTRICT,1
+UNKNOWN,visa,HSINCHU COUNTY,109
+UNKNOWN,visa,CHUNGLI,2
+UNKNOWN,visa,CHUNG LI,2
+UNKNOWN,visa,CHUNGLL,1
+UNKNOWN,visa,HSINCHU,4
+UNKNOWN,visa,CHUGO,1
+UNKNOWN,visa,NEW TAIPEI CITY,777
+UNKNOWN,visa,TAOYUAN CITY,401
+UNKNOWN,visa,HSINCHUANG,7
+UNKNOWN,visa,SHINCHU,1
+UNKNOWN,visa,PINGTUNG COUNTY,63
+UNKNOWN,visa,PINGTUNG,1
+UNKNOWN,visa,TAO YUAN,2
+UNKNOWN,visa,PING TUNG,1
+UNKNOWN,visa,TAOYUAN DISTRICT,2
+UNKNOWN,visa,TAOYUAN CHIEN,1
+UNKNOWN,visa,CHUNGSANG DISTRICT,1
+UNKNOWN,visa,PINGZHEN DISTRICT,1
+UNKNOWN,visa,JHONGLI,1
+UNKNOWN,visa,TAOYUAN,11
+UNKNOWN,visa,TAIWAN,1
+UNKNOWN,visa,TAIPEI CITY,487
+UNKNOWN,visa,TAIPEI HSIEN,7
+UNKNOWN,visa,TUCHENG,1
+UNKNOWN,visa,LUJHOU,1
+UNKNOWN,visa,BANCIAO DISTRICT,1
+UNKNOWN,visa,BANCIAO,1
+UNKNOWN,visa,SANCHONG,2
+UNKNOWN,visa,ZHONGHE DISTRICT,1
+UNKNOWN,visa,CHUNGCHENG DISTRICT,1
+UNKNOWN,visa,YUNHO,5
+UNKNOWN,visa,PANCHIAO,10
+UNKNOWN,visa,YONGHE,1
+UNKNOWN,visa,ZHONGSHAN DISTRICT,1
+UNKNOWN,visa,TEIPEI,1
+UNKNOWN,visa,HSINTIEN,2
+UNKNOWN,visa,HSINTEN,1
+UNKNOWN,visa,PAMCHIAO,1
+UNKNOWN,visa,CHUNLL,1
+UNKNOWN,visa,NCHIAO,1
+UNKNOWN,visa,HAINCHUANG,1
+UNKNOWN,visa,TAITUNG COUNTY,37
+UNKNOWN,visa,KEELUNG CITY,99
+UNKNOWN,visa,KEELUNG,1
+UNKNOWN,visa,YILAN COUNTY,85
+UNKNOWN,visa,HUALIEN COUNTY,64
+UNKNOWN,visa,CHUGHO,1
+UNKNOWN,visa,YUNBO,1
+UNKNOWN,visa,YI LAN,1
+UNKNOWN,visa,HUA LIEN,1
+TAIWANROC,western_union,Changhua County,1
+TAIWANROC,western_union,Hsinchu City,2
+TAIWANROC,western_union,New Taipei City,2
+TAIWANROC,western_union,Taipei,4
+TAIWANROC,western_union,New Taipei,3
+TAIWANROC,western_union,Taoyuan City,1
+TAIWANROC,western_union,Taichung City,1
+TAIWANROC,western_union,Taoyuan,2
+TAIWANROC,western_union,Chia Yi County,8
+TAIWANROC,western_union,Yunlin County,6
+TAIWANROC,western_union,Tainan,19
+TAIWANROC,western_union,Kaohsiung,3
+TAIWANROC,western_union,Kaohsiung City,2
+TAIWANROC,western_union,Taichung,2
+TAIWANROC,western_union,Chiayi City,2

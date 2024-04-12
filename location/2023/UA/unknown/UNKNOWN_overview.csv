@@ -1,0 +1,3281 @@
+City,Place Name,Zipcode,Name
+unknown,accor,Taras Shevchenko boulevard 25 01032 KIEV,unknown,ibis Kyiv City Center
+unknown,accor,3 Shukhevycha street 79005 LVIV,unknown,ibis Styles Lviv Center
+unknown,accor,Ekaterininskaya Square 4/1 65026 ODESSA,unknown,Hotel de Paris Odessa - MGallery
+unknown,accor,55A Beresteisky Avenue 03113 KIEV,unknown,ibis Kyiv Beresteiska
+unknown,accor,Sicheslavska 6 03049 KYIV,unknown,ibis Kyiv Railway Station
+unknown,accor,55A Beresteisky Avenue 03113 Kyiv,unknown,Adagio Kyiv Beresteiska
+unknown,accor,1 Naberezhno Khreshchatytska Str 04070 KYIV,unknown,Fairmont Grand Hotel Kyiv
+unknown,accor,Vadima Hetmana Street 6 3057 KYIV,unknown,Mercure Kyiv Congress
+unknown,accor,23A Franka Str. 79005 LVIV,unknown,ibis Lviv Center
+Одеса,adidas,,unknown,"Y-3, Екатериненська"
+unknown,alstom, 61037 Kharkiv Ukraine ,unknown,Legal entity in Kharkiv
+unknown,alstom,Bolsunovska 13-15 str. 8th floor 01014 Kyiv Ukraine,unknown,Representative office in Kyiv
+Киев,auchan_ua,04128 Киев ул. Берковецкая 6,unknown,"Auchan Беличи, Киев"
+Запорожье,auchan_ua,69002 Запорожье ул. Запорожская 1б,unknown,"Auchan Запорожье, Запорожье"
+Киев,auchan_ua,03170 Киевская обл. Киево-Святошинский р-н село Петропавловская Борщаговка ул. Большая Кольцевая 4,unknown,"Auchan Кольцевая, Киев"
+Кривой Рог,auchan_ua,50008 Днепропетровская обл.  Кривой Рог площадь 30-летия Победы 1а ТРЦ Солнечная Галлерея,unknown,"Auchan Кривой Рог, Кривой Рог"
+Киев,auchan_ua,03680 Киев ул.Горького (Антоновича) 176 ТРЦ Ocean Plaza,unknown,"Auchan Лыбидская, Киев"
+Львов,auchan_ua,81130 Львовская обл. Пустомитовский р-н село Сокольники ул.Стрийская 30 ТРЦ Кинг Крос Леополис,unknown,"Auchan Сокольники, Львов"
+Одесса,auchan_ua,67571 Одесская обл. Лиманский район Фонтанский Сельский Совет Комплекс зданий и сооружений №1,unknown,"Auchan Фонтанка, Одесса"
+Львов,auchan_ua,79053 Львов ул. В. Великого 58,unknown,"Auchan Пивденный, Львов"
+Киев,auchan_ua,04073 Киев пр-т Степана Бандеры15а,unknown,"Auchan Почайна, Киев"
+Киев,auchan_ua,03680 Киев ул. Гната Хоткевича 1-Б ТРК ПРОСПЕКТ,unknown,"Auchan Черниговская, Киев"
+Киев,auchan_ua,03187 г. Киев пр-т Глушкова 13 Б,unknown,"Auchan Глушкова, Киев"
+Днепр,auchan_ua,52005 г. Днепр ул. Нижнеднепровская 17,unknown,"Auchan Левобережный, Днипро"
+Киев,auchan_ua,04074 г. Киев Луговая 12,unknown,"Auchan Лугова, Киев"
+Житомир,auchan_ua,10001 м. Житомир Житомирска обл. ул.  Киевская 77,unknown,"Auchan Киевская, Житомир"
+Киев,auchan_ua,03134 г. Киев улица Ивана Дзюбы 17,unknown,"Auchan Сосниных, Киев"
+Харьков,auchan_ua,61168 г. Харьков ул. Героев труда 7,unknown,"Auchan Героев Труда, Харьков"
+Черновцы,auchan_ua,58020 м. Черновцы ул. Хотинская 43,unknown,"Auchan Хотинская,Черновцы"
+Харьков,auchan_ua,61068 Харьков ул. Тарасовская 3,unknown,"Auchan Тарасовская, Харьков"
+Киев,auchan_ua,02081 Киев улица Здолбуновская 17 ,unknown,"Auchan Рив Гош, Киев"
+Днепр,auchan_ua,г. Днeпр Бульвар Звездный 1а 49000,unknown,"Auchan Звездный, Днепр "
+Львов,auchan_ua,79019 проспект В.Чорновола 16и Львов Львовская область,unknown,"Auchan Чорновола, Львов"
+Киев,auchan_ua,просп. Соборности 17 помещение 101-2,unknown,"Pick-UP Auchan Комфорт Таун @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Липская 19/7 помещение 29,unknown,"Pick-UP Auchan (ул. Липская) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Трускавецкая д. 8,unknown,"Pick-UP Auchan (Riverstone) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,проспект Голосеевский д. 60 помещение 1006,unknown,"Pick-UP Auchan (Park Avenue) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,Набережно-Рибальськая дорога д. 9 помещение 8,unknown,"Pick-UP Auchan (Rybalskyi) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Юрия Кондратюка д. 5 помещение 855 1-й этаж,unknown,"Pick-UP Auchan (Ministerskyi) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Александра Олеся д. 6-Б помещение 136 ,unknown,"Pick-UP Auchan (Варшавский) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Салютная 2,unknown,"Pick-UP Auchan (Файна Таун) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Михайла Максимовича 26г,unknown,"Pick-UP Auchan (New England) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,Большая Васильковская 111/113,unknown,"Pick-UP Auchan (Vasilkivska) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Ивана Выговского 10м,unknown,"Pick-UP Auchan (Syretskie sadi) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Сикорского Игоря авиаконструктора 4б пом. 269,unknown,"Pick-UP Auchan (Sikorskogo) @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Ирпень,auchan_ua,ул. Соборная д. 118/19 пом. 113,unknown,"Pick-UP Auchan (Irpin) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,02000 Киев б. Рыльского Тадэя б. 3,unknown,"Pick-UP Auchan Рыльского @ Только для жильцов (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Буча,auchan_ua,Буча Кожедуба ул. 3/3В,unknown,"Pick-UP Auchan (Bucha - Kojeduba) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Большая Васильковская (Красноармейская) 53-55,unknown,"Pick-UP Auchan (Olympiyska) (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Андрея Малышко 3-а,unknown,"Мой Auchan ""Darnitsa"" (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,просп. Правды 104/106,unknown,"Mой Auchan ""Pravdi"" (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,ул. Кириловская (Фрунзе) 160,unknown,"Мой Auchan ""Kirilivska"" (Цена доставки - 30 грн., от 300 грн бесплатная)"
+Киев,auchan_ua,Киев бул. Кольцевая 14Д,unknown,"Pick-UP Point Auchan ""Parkoviy"" (Цена доставки - 30 грн., от 300 грн бесплатная)"
+unknown,church_of_england_gb,THE MISSION TO SEAFARERS: Odessa,unknown,Anglican congregation in Odessa
+unknown,church_of_england_gb,St Catherine's German Lutheran Church 22 Luteranska vul Kiev (Kyiv),unknown,Christ Church
+Kyiv,crocs_eu,,unknown,Crocs Prospekt
+Dnipro City,crocs_eu,,unknown,Crocs Dnepr Karavan
+Dnipro,crocs_eu,,unknown,Crocs Dnepr Most City
+Odessa,crocs_eu,,unknown,Crocs Riviera
+Kharkiv,crocs_eu,,unknown,Crocs Kharkiv Karavan
+Kherson,crocs_eu,,unknown,Crocs Kherson Fabrica
+Lviv,crocs_eu,,unknown,Crocs Lviv Forum
+Kiev,crocs_eu,,unknown,Crocs Retroville
+Vinnitsa City,crocs_eu,,unknown,Crocs Vinnitsa Sky Park
+KHERSON,ecco,,unknown,MTI UKRAINE KHERSON
+Kiev,ecco,,unknown,ECCO Basseynaya
+Odessa,ecco,,unknown,ECCO GRECHESKAYA 43
+Kharkov,ecco,,unknown,ECCO 1 Kharkov
+Dniepropetrovsk,ecco,,unknown,ECCO Dniepropetrovsk 1
+Kyiv,ernst_young,Khreschatyk Street 19A,unknown,EY
+Lviv,ernst_young,Kulparkivska Street 200A,unknown,EY
+Kyiv,esprit,,unknown,Esprit Franchise Store Kyiv
+Dnipro,esprit,,unknown,Esprit Franchise Store Dnipro
+Kharkov,esprit,,unknown,Esprit Franchise Store Kharkov
+unknown,gbfs,,unknown,IF_26
+DNEPROPETROVSK,geox,,unknown,Geox DNEPROPETROVSK
+KHARKIV,geox,,unknown,Geox KHARKIV
+KIEV,geox,,unknown,Geox KIEV
+LVIV,geox,,unknown,Geox LVIV
+ODESSA,geox,,unknown,Geox ODESSA
+Kyiv,ikea,,unknown,IKEA Київ
+unknown,ikea,,unknown,Respublika
+м. Київ,jysk,,unknown,"Київ, ТЦ Росток"
+м. Дрогобич,jysk,,unknown,"Дрогобич, ТЦ ""Парк"""
+Софіївська Борщагівка,jysk,,unknown,"Київ, ТРЦ ""Софія Молл"""
+м. Коломия,jysk,,unknown,"Коломия, ТЦ ""Прут"""
+м.Львів,jysk,,unknown,"Львів, ТЦ ""Сріблястий"""
+Київ,jysk,,unknown,Київ ТРЦ Атмосфера
+Червоноград,jysk,,unknown,"Червоноград, ТЦ Майдан"
+Кам'янське,jysk,,unknown,Кам'янське ТЦ Терра
+Львів,jysk,,unknown,"Львів, ТЦ Сільпо"
+Харків,jysk,,unknown,Харків ТЦ Класс (Г. Сталінграду)
+Запоріжжя,jysk,,unknown,"Запоріжжя, ТЦ Амстор (вул. Перемоги)"
+Ужгород,jysk,,unknown,"Ужгород, ТЦ ""ВЕГА"""
+Буча,jysk,,unknown,"БУЧА, ТЦ Рітейл Парк"
+Дніпро,jysk,,unknown,"Дніпро, ТЦ Наша правда"
+Гостомель,jysk,,unknown,"ГОСТОМЕЛЬ, ТЦ Фора"
+Івано-Франківськ,jysk,,unknown,"Івано-Франківськ, ТЦ ""МЕНС"""
+Рівне,jysk,,unknown,"Рівне, ТЦ Новус"
+Житомир,jysk,,unknown,"Житомир, ТЦ Глобал UA"
+Миколаїв,jysk,,unknown,"Миколаїв, БТ ""Південний Буг"""
+Вінниця,jysk,,unknown,"Вінниця, ТЦ Плаза Парк"
+Крюківщина,jysk,,unknown,Крюківщина ТЦ Наше Небо
+Полтава,jysk,,unknown,"Полтава, ТЦ Київ"
+Павлоград,jysk,,unknown,Павлоград ЦУМ
+Умань,jysk,,unknown,м. Умань ТЦ Сільпо
+Луцьк,jysk,,unknown,"Луцьк, ТЦ Варшавський"
+Чернівці,jysk,,unknown,"Чернівці, ТЦ Майдан"
+Кривий Ріг,jysk,,unknown,"Кривий Ріг, ТРК Сонячна Галерея"
+Черкаси,jysk,,unknown,"Черкаси, ТРЦ Depot"
+Кам'янець-Подільський,jysk,,unknown,"Кам'янець-Подільський, ТЦ Сільпо"
+Чернігів,jysk,,unknown,"Чернігів, ТЦ Голлівуд"
+Суми,jysk,,unknown,"Суми, ТЦ Мануфактура"
+Одеса,jysk,,unknown,"Одеса, ТЦ СітіЦентр Таїрова"
+Бровари,jysk,,unknown,Бровари ТЦ Термінал
+Гатне,jysk,,unknown,Гатне ТРЦ «М.Пассаж»
+Біла Церква,jysk,,unknown,"Біла Церква, ТРЦ ""Вега"""
+Тернопіль,jysk,,unknown,"Тернопiль, ТЦ Новус"
+м. Івано-Франківськ,jysk,,unknown,"Івано-Франківськ, ТРК ПАНОРАМА ПЛАЗА"
+Хмельницький,jysk,,unknown,Хмельницький WoodMall
+Бориспіль,jysk,,unknown,"Бориспіль, ТЦ Аеромол"
+Kiev,lhw,53 B. Khmelnitskoho Kiev 01054 Ukraine,unknown,Opera Hotel
+Volya Bartativska ,man_truck_and_bus,,unknown,Truck Service Lviv
+Kyiv,man_truck_and_bus,,unknown,Avanti group
+"Petropavlivska Borschahivka, Bucha district",man_truck_and_bus,,unknown,MAN Truck & Bus Ukraine LLC
+Kotliary village,man_truck_and_bus,,unknown,Transservice
+Pidgorodnenska miska rada,man_truck_and_bus,,unknown,Tekhnoforum
+Kropyvnytskyi,man_truck_and_bus,,unknown,Agroprommontazh
+Nerubaiske,man_truck_and_bus,,unknown,Tekhnoforum Odesa
+s. Hlybochytsia,man_truck_and_bus,,unknown,Agrotruckservice
+Magala,man_truck_and_bus,,unknown,West Trucks
+Pyrohivtsi,man_truck_and_bus,,unknown,"LLC ""VK-Motors"""
+Kiev,marriott,,unknown,"11 Mirrors, a Member of Design Hotels™"
+KYIV,maserati,,unknown,UKRAVTO
+KOLOMYIA,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0114
+KAMYANSKE,moneygram,,unknown,IDEA BANK - #575998 - KAMYANSKE
+KHMELNYTSKYI,moneygram,,unknown,OSCHADBANK - TOBO - 10022-040
+ODESA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0611
+YUZHNE,moneygram,,unknown,PRIVATBANK
+KYIV,moneygram,,unknown,PRIVATBANK - KYIV - OTDELENIE 96
+STARI BOHORODCHANY,moneygram,,unknown,OSCHADBANK - TOBO - 10008-056
+MANIAVA,moneygram,,unknown,OSCHADBANK - TOBO - 10008-059
+DNIPRO,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0622
+DNIPRODZERZHYNSK,moneygram,,unknown,OSCHADBANK - #100030571 - TOBO
+CHERCHE,moneygram,,unknown,OSCHADBANK - TOBO - 10008-088
+MYKOLAIV,moneygram,,unknown,PUMB - REGIONAL CENTRE
+LUTSK,moneygram,,unknown,PRIVATBANK - LUTSK - OTD35
+CHERNIHIV,moneygram,,unknown,PRIVATBANK - CHERNIHIV - OTDELENIE POLIK
+KRYVYI RIH,moneygram,,unknown,PUMB - #3 - KRYVYI RIH
+SUMY,moneygram,,unknown,PRIVATBANK - SUMY - SUMSKOE OTDELENIE 10
+OZHENYN,moneygram,,unknown,PRIVATBANK
+LYMANSKE,moneygram,,unknown,PRIVATBANK
+STRYI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0201
+ZAPORIZHZHIA,moneygram,,unknown,PUMB - #4 - ZAPORIZHIA
+STETSEVA,moneygram,,unknown,OSCHADBANK - TOBO - 10008-095
+LVIV,moneygram,,unknown,PUMB - #5 - LVIV
+DZHURIV,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0102
+TULCHYN,moneygram,,unknown,OSCHADBANK - OTD. 10001 03 F-LA VINNICKO
+HLUKHIV,moneygram,,unknown,OSCHADBANK - TOBO 10018 074 F-LA SUMSKOE
+VINNYTSIA,moneygram,,unknown,PRIVATBANK - VINNYTSIA - TSENTRALNYY AVT
+KILIIA,moneygram,,unknown,OSCHADBANK - #10015-0440 - TOBO
+SAMBIR,moneygram,,unknown,PRIVATBANK - #02RT2 - SAMBORSKOE OTDELEN
+SARNY,moneygram,,unknown,OSCHADBANK - TOBO 10017 0113 F-LA - ROVE
+CHORNOMORSKE,moneygram,,unknown,PRIVATBANK
+TEPLODAR,moneygram,,unknown,PRIVATBANK
+ANDRIIVKA,moneygram,,unknown,UKRPOSHTA - #64220
+RADISNE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0438
+KRYZHANIVKA,moneygram,,unknown,PRIVATBANK - KRYZHANIVKA - OTD ATRIUM
+GUBINIKHA,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0529
+USATOVE,moneygram,,unknown,FUIB
+KOZYN,moneygram,,unknown,PRIVATBANK
+PRYAZOVSKE,moneygram,,unknown,PRIVATBANK
+BABYNA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0218
+DUBLIANY,moneygram,,unknown,OSCHADBANK - #10013-0206 - TOBO
+CHERVONOZNAMIANKA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0432
+NOVOSELIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0364
+VYLKOVE,moneygram,,unknown,PRIVATBANK
+SHEVCHENKOVE,moneygram,,unknown,OSCHADBANK - #10020-0549 - TOBO
+VYSHNEVE,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0846
+PEREIASLAV-HMELNYTSKYY,moneygram,,unknown,FUIB
+IZMAIL,moneygram,,unknown,BANK VOSTOK - #23 - IZMAIL
+TERNOPIL,moneygram,,unknown,UKREXIMBANK
+KIVERTSI,moneygram,,unknown,OSCHADBANK - TOBO 10002 059 VOLYNSKOGO F
+KAMIANETS-PODILSKYI,moneygram,,unknown,OSCHADBANK - TOBO - 10022-0113
+OLEKSANDRIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0135
+KOVEL,moneygram,,unknown,UKRGASBANK
+BEZIMENNE,moneygram,,unknown,OSCHADBANK - #TOBO - 10004-0487 - TOBO -
+BRIUKHOVYCHI,moneygram,,unknown,OSCHADBANK - #100130312 - TOBO
+MEDENYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0247
+KRAMATORSK,moneygram,,unknown,IDEA BANK - #1 - KRAMATORSK
+PUSTOMYTY,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0135
+KUCHURHAN,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0370
+ARTSYZ,moneygram,,unknown,OSCHADBANK - #10015-0428 - TOBO
+DRUZHKIVKA,moneygram,,unknown,OSCHADBANK - #TOBO - 10004-078 - TOBO -
+NADVIRNA,moneygram,,unknown,PJSC TASCOMBANK - #93 - NADVIRNA - NADVI
+KHARKIV,moneygram,,unknown,PUMB - KHARKIV - REGIONAL CENTRE
+IRPIN,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0717
+ILLICHIVSK,moneygram,,unknown,IDEA BANK - #1 - ILLICHIVSK
+LIMANKA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0513
+MALODOLYNSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0516
+CHORNOMORSK,moneygram,,unknown,OSCHADBANK - #100150510 - TOBO
+MOLODIZHNE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0522
+PAVLOHRAD,moneygram,,unknown,FUIB
+SYCHAVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0534
+KHUTIR-BUDYLIV,moneygram,,unknown,OSCHADBANK - TOBO - 10008-094
+DUBIIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10023-070
+PRYSHYB,moneygram,,unknown,UKRPOSHTA - #64223
+ZDOVBYTSIA,moneygram,,unknown,OSCHADBANK - TOBO - 10017-098
+CHERNIVTSI,moneygram,,unknown,PUMB - #2 - CHERNIVTSI
+OBUKHIV,moneygram,,unknown,OSCHADBANK - TOBO 10026 0538 FILIAL-GUOB
+KREMENCHUK,moneygram,,unknown,PUMB - #2 - KREMENCHUK
+CHERKASY,moneygram,,unknown,PUMB - #2 - CHERKASY
+BILA TSERKVA,moneygram,,unknown,IDEA BANK - #1 - BILA TSERKVA
+IVANO-FRANKIVSK,moneygram,,unknown,PRIVATBANK - IVANO-FRANKIVSK - VELES
+UZHHOROD,moneygram,,unknown,OSCHADBANK - TOBO - 10006-08
+NAGUIEVYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0253
+KUTSURUB,moneygram,,unknown,OSCHADBANK - TOBO - 10014-04
+HLYNIANY,moneygram,,unknown,OSCHADBANK - TOBO - 10013-073
+HORODOK,moneygram,,unknown,OSCHADBANK - TOBO 10013 039 F-LA L'VOVSK
+RIVNE,moneygram,,unknown,OSCHADBANK - TOBO - 10017-053
+SIEVERODONETSK,moneygram,,unknown,OSCHADBANK - TOBO - 10012-09
+DNIPROPETROVSK,moneygram,,unknown,PRIVATBANK - DNIPROPETROVSK - PROTEKT
+NIZHYN,moneygram,,unknown,FUIB
+KOROSTEN,moneygram,,unknown,RWSBANK - KOROSTEN - RWSBANK - KOROSTEN
+POLTAVA,moneygram,,unknown,UKRGASBANK - #326-16
+BROVARY,moneygram,,unknown,PRIVATBANK - BROVARY - BROVARSKOE OTDELE
+KUZNETSOVSK,moneygram,,unknown,OSCHADBANK - TOBO - 10017-082
+KULYKIVKA,moneygram,,unknown,PRIVATBANK
+PAVLOGRAD,moneygram,,unknown,OSCHADBANK - #10003-0515 - TOBO
+KRIVIJ RIG,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0344
+DERAZHNIA,moneygram,,unknown,OSCHADBANK - TOBO 10022 051 F-LA HMEL'NI
+NOVA  PRAHA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0158
+ORATIV,moneygram,,unknown,PRIVATBANK
+MOHYLIV- PODILSKYI,moneygram,,unknown,OSCHADBANK - TOBO - 10001-0154
+VORONOVYTSIA,moneygram,,unknown,OSCHADBANK - TOBO 10001 0162
+DROHOBYCH,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0245
+BERDIANSK,moneygram,,unknown,OSCHADBANK - TOBO -  10007-0360
+CHERVONOHRAD,moneygram,,unknown,OSCHADBANK - #10013-0139 - TOBO
+LOZOVA,moneygram,,unknown,OSCHADBANK - TOBO - 10020-0522
+BOLHRAD,moneygram,,unknown,OSCHADBANK - #100150494 - TOBO
+HNIZDYCHIV,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0167
+ZNAMIANKA DRUHA,moneygram,,unknown,OSCHADBANK - TOBO - 10010-0178
+SUKHOVOLIA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-050
+MELEKYNE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0495
+PIDHAICHYKY,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0135
+TRUSKAVETS,moneygram,,unknown,OSCHADBANK - TOBO - 10013-017
+HOROKHOLYNA,moneygram,,unknown,OSCHADBANK - TOBO - 10008-057
+STAROKOSTIANTYNIV,moneygram,,unknown,OSCHADBANK - TOBO 10022 098 FILIALA-HMEL
+NOVI TROIANY,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0505
+KHODOVYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0196
+PRYOZERNE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0452
+RAKOVETS,moneygram,,unknown,OSCHADBANK - TOBO - 10008-060
+HRUSHIV,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0249
+HRYTSIV,moneygram,,unknown,PRIVATBANK
+SLOVIANSK,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0571
+LYSIATYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0195
+SATANIV,moneygram,,unknown,PRIVATBANK
+NOVA KAHOVKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0128
+NOVOGRAD-VOLYNSKYI,moneygram,,unknown,UKRGASBANK
+BALAKLIIA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0475 F-LA HAR'KO
+BORODIANKA,moneygram,,unknown,OSCHADBANK - #10026-0790 - TOBO
+KLESIV,moneygram,,unknown,PRIVATBANK
+KOSTIANTYNIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0306
+RADUSHNE,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+SUVOROVE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0463
+VONIHOVO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0168
+MUKACHEVE,moneygram,,unknown,OSCHADBANK - TOBO - 10006-098
+SURSKO-LYTOVSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0641
+HRODIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0225
+GOLUBIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0541
+DYMYTROV,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0232
+KAMIANKA,moneygram,,unknown,OSCHADBANK - #10023-0218 - TOBO
+NOVOEKONOMICHNE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0223
+KRASNOARMIISK,moneygram,,unknown,PRIVATBANK
+NOVOOLEKSANDRIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0642
+PERESHCHEPYNE,moneygram,,unknown,PRIVATBANK
+MYKOLAYIV,moneygram,,unknown,INDUSTRIALBANK - MYKOLAYIV - BRANCH RU N
+DOBROTVIR,moneygram,,unknown,OSCHADBANK - #10013-0228 - TOBO
+VOVCHANSK,moneygram,,unknown,OSCHADBANK - TOBO 10020 0392 F-LA HAR'KO
+LADYZHYN,moneygram,,unknown,OSCHADBANK - OTD. 10001 0111 F-LA VINNIC
+STAROBISK,moneygram,,unknown,OSCHADBANK - TOBO 10012-048
+KHRUSTALNYI,moneygram,,unknown,PRIVATBANK - KHRUSTALNYI - OTDELENIE DOV
+VASYLKIV,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0692
+MALIIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-054
+BARATIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-095
+SKVARIAVA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-076
+VILKHIVTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0168
+PIDHORODNA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-0123
+CHOPOVYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10005-041
+SAVYNTSI,moneygram,,unknown,UKRPOSHTA - #64270
+KOTOVSK,moneygram,,unknown,PRIVATBANK - KOTOVSK
+CHERVONE,moneygram,,unknown,OSCHADBANK - TOBO - 10005-076
+VYSOKA PICH,moneygram,,unknown,OSCHADBANK - TOBO - 10005-026
+TURKA,moneygram,,unknown,OSCHADBANK - TOBO 10013 021
+YASNOHIRKA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0273
+PRYBUZHIA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-016
+MARYNIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-018
+BEREZIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10015 0404 F-LA ODESSK
+TARTAKIV,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0258
+VOLYTSIA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0260
+NOVOSELYSCHE,moneygram,,unknown,OSCHADBANK - TOBO - 10013-067
+DMYTRIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0256
+DMYTRIV,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0112
+NOVOPETRIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-096
+INHULKA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-012
+KUROVYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-074
+NOVI STRILYSCHA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0177
+ZAROZHANY,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0117
+IZIUM,moneygram,,unknown,OSCHADBANK - TOBO- 10020-0491
+ZOLOCHIV,moneygram,,unknown,OSCHADBANK - #10013-065 - TOBO
+PERSHOTRAVNEVE,moneygram,,unknown,UKRPOSHTA - #63422
+HROZYNE,moneygram,,unknown,OSCHADBANK - TOBO - 10005-030
+BILHOROD-DNISTROVSKYI,moneygram,,unknown,PRIVATBANK
+SHYROKOLANIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-0165
+MOSTOVE,moneygram,,unknown,OSCHADBANK - TOBO - 10014-020
+MARTYNIVSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10014-0180
+BILYI KAMIN,moneygram,,unknown,OSCHADBANK - TOBO - 10013-072
+ZHYROVA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0176
+HROZYNTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0116
+NOVI BILOKOROVYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10005-037
+KORNYN,moneygram,,unknown,OSCHADBANK - TOBO - 10005-077
+APOSTOLOVE,moneygram,,unknown,OSCHADBANK - #10003-0331 - TOBO
+BOHDANIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10010-0176
+SHEPETIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10022 0124 FILIALA-HME
+P'IATYHORY,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0806
+KIROVOHRAD,moneygram,,unknown,PRIVATBANK - KIROVOHRAD - OKTYABRSKOY RE
+KASHPERIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0808
+SHOSTKA,moneygram,,unknown,PRIVATBANK - SHOSTKA - SHOSTKINSKOE 12
+KONOTOP,moneygram,,unknown,INDUSTRIALBANK - KONOTOP - BRANCH 1 KONO
+MYRHOROD,moneygram,,unknown,OSCHADBANK - TOBO - 10016-0168
+SAKSAHAN,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0500
+VORZEL,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0715
+HAVRYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0738
+STEBNYK,moneygram,,unknown,OSCHADBANK - #10013-0251 - TOBO
+ARTEMIVSK,moneygram,,unknown,OSCHADBANK - #10004-0300 - TOBO
+PYRYATYN,moneygram,,unknown,POLTAVA-BANK
+ZAVODSKE,moneygram,,unknown,POLTAVA-BANK
+KHOROL,moneygram,,unknown,OSCHADBANK - TOBO 10016 022
+GREBINKA,moneygram,,unknown,POLTAVA-BANK
+KARLIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10016 031
+LANNA VILLAGE,moneygram,,unknown,POLTAVA-BANK
+KOBELYAKY,moneygram,,unknown,POLTAVA-BANK
+VELYKA BAHACHKA VILLAGE,moneygram,,unknown,POLTAVA-BANK
+LOKHVYTSIA,moneygram,,unknown,OSCHADBANK - #10016-0146 - TOBO
+ZINKIV,moneygram,,unknown,OSCHADBANK - TOBO 10016 0101 F-LA POLTAV
+OPISHNYA VILLAGE,moneygram,,unknown,POLTAVA-BANK
+HLOBYNE,moneygram,,unknown,OSCHADBANK - #10016-089 - TOBO
+DYKANKA VILLAGE,moneygram,,unknown,POLTAVA-BANK
+KOZELSHCHYNA VILLAGE,moneygram,,unknown,POLTAVA-BANK
+NOVI SANZHARY VILLAGE,moneygram,,unknown,POLTAVA-BANK
+CHORNUKHY VILLAGE,moneygram,,unknown,POLTAVA-BANK
+CHUTOVE VILLAGE,moneygram,,unknown,POLTAVA-BANK
+SHYSHAKY VILLAGE,moneygram,,unknown,POLTAVA-BANK
+HOHOLEVE VILLAGE,moneygram,,unknown,POLTAVA-BANK
+LUBNY,moneygram,,unknown,PRIVATBANK - LUBNY - LUBENSKOE 3 OTDELEN
+HADYACH,moneygram,,unknown,POLTAVA-BANK
+KROPYVNYTSKYI,moneygram,,unknown,KIROVOGRADSKA OBLASNA DYREKTSIYA - KROPY
+ZHYTOMYR,moneygram,,unknown,PUMB - #2 - ZHYTOMYR
+HORISHNI PLAVNI,moneygram,,unknown,POLTAVA-BANK
+TAVRIISK,moneygram,,unknown,OSCHADBANK - TOBO - 10021-0130
+DOLYNA,moneygram,,unknown,OSCHADBANK - TOBO 10008 0174 IVANO-FRANK
+SEREDNIE,moneygram,,unknown,PRIVATBANK - SEREDNIE - OTD
+BOIARKA,moneygram,,unknown,PRIVATBANK - BOIARKA - OTDELENIE 5
+DONSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0330
+ZARICHNE,moneygram,,unknown,OSCHADBANK - TOBO 10017 081 F-LA - ROVEN
+VILKHIVTSI-LAZY,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0161
+NOVOSILSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0375
+NOVYI ROZDIL,moneygram,,unknown,OSCHADBANK - #10013-095 - TOBO
+ROZDIL,moneygram,,unknown,OSCHADBANK - TOBO - 10013-088
+VELYKI SOROCHYNTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10016-0161
+UHLIA,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0152
+ONOKIVTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10006-083
+RENI,moneygram,,unknown,INDUSTRIALBANK - RENI - BRANCH 1 RENI
+KOTLOVYNA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0373
+RUDNYKY,moneygram,,unknown,OSCHADBANK - TOBO - 10013-082
+STRUMIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10002-093
+STARA USHYTSIA,moneygram,,unknown,OSCHADBANK - TOBO - 10022-0147
+KOLODNE,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0162
+DOBRIANSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0164
+NAHIRNE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0378
+SOFIIVSKA BORSHCHAHIVKA,moneygram,,unknown,PRIVATBANK
+ROZVADIV,moneygram,,unknown,OSCHADBANK - TOBO - 10013-090
+YUZHNOUKRAINSK,moneygram,,unknown,OSCHADBANK - TOBO 10014 0134 NIKOLAEVSKO
+GORISHNI PLAVNI,moneygram,,unknown,FUIB
+NOVA KAKHOVKA,moneygram,,unknown,PRIVATBANK - NOVA KAKHOVKA - MREO
+OBUHIV,moneygram,,unknown,FUIB
+ZHMERYNKA,moneygram,,unknown,INDUSTRIALBANK - ZHMERYNKA - BRANCH 1 ZH
+OLEKSANDRIIA,moneygram,,unknown,PRIVATBANK - OLEKSANDRIIA
+ZAPORIZHIA,moneygram,,unknown,FUIB - ZAPORIZKE
+ZHELEZNYY PORT,moneygram,,unknown,PRIVATBANK - ZHELEZNYY PORT - BM ZHELEZN
+BUCHA,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0714
+MARKIVKA,moneygram,,unknown,OSCHADBANK - #100120162 - TOBO
+OCHAKIV,moneygram,,unknown,OSCHADBANK - F-AL NIKOLAEVSKOE OBLASTNOE
+CHERKASSY,moneygram,,unknown,PRIVATBANK - CHERKASSY - PRODUKTY VIP
+CHERNOVTSY,moneygram,,unknown,TASCOMBANK JSC - #12 - CHERNOVITSKOE OTD
+DNEPR,moneygram,,unknown,PRIVATBANK - DNEPR - OTDELENIE PHORD
+IVANO-PHRANKOVSK,moneygram,,unknown,PRIVATBANK - IVANO-PHRANKOVSK - VIP-TSEN
+KHARKOV,moneygram,,unknown,OTDELENIE 96 - KHARKOV - OTDELENIE 96
+KIEV,moneygram,,unknown,UKRSTROYINVESTBANK
+KREMENCHUG,moneygram,,unknown,KRYSTALBANK - KREMENCHUTSKA BRANCH (SEPA
+KRIVOY ROG,moneygram,,unknown,COMINBANK - KRIVOY ROG - KRIVIY RIG BRAN
+KROPIVNITSKIY,moneygram,,unknown,PJSC MARFIN BANK - KROPIVNITSKIY - TSENT
+LVOV,moneygram,,unknown,PJSC TASCOMBANK - #99 - LVOV - LVOVSKOE
+NIKOLAEV,moneygram,,unknown,JSB UKRGASBANK
+ODESSA,moneygram,,unknown,ASVIO BANK - #36 - ODESSA - BRANCH #36 A
+TERNOPOL,moneygram,,unknown,PRIVATBANK - TERNOPOL - PRODUKTY VIP
+UZHGOROD,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #1 - UZHGOROD - UZHGOR"""
+ZHITOMIR,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+BERYSLAV,moneygram,,unknown,OSCHADBANK - TOBO 10021 0101
+LVIVSKA,moneygram,,unknown,JSB UKRGASBANK - #433/13 - LVIVSKA - LVI
+CHERNIGIV,moneygram,,unknown,JSB UKRGASBANK - #463/24 - CHERNIGIV - C
+ARTSIZ,moneygram,,unknown,OTDELENIE V G. ARTSIZ - ARTSIZ - OTDELEN
+ROVNO,moneygram,,unknown,BANK LVIV
+SMILA,moneygram,,unknown,OSCHADBANK - #100230403 - TOBO
+CHERNOMORSK,moneygram,,unknown,BANK VOSTOK - #38 - CHERNOMORSK
+TROITSKO-SAFONOVE,moneygram,,unknown,OSCHADBANK - TOBO - 10014-0106
+TERESHKY,moneygram,,unknown,OSCHADBANK - TOBO - 10016-0145
+SHOLOKHOVE,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0479
+HLYBOKA,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0110
+LYMANY,moneygram,,unknown,OSCHADBANK - TOBO - 10014-071
+BEREZNEHUVATE,moneygram,,unknown,OSCHADBANK - TOBO 10014 048 NIKOLAEVSKOG
+VELYKE VERBCHE,moneygram,,unknown,OSCHADBANK - TOBO - 10017-0118
+OPISHNIA,moneygram,,unknown,PRIVATBANK
+NETISHYN,moneygram,,unknown,OSCHADBANK - TOBO 10022 0136 F-LA HMEL'N
+PERVOMAISKE,moneygram,,unknown,OSCHADBANK - TOBO - 10014-074
+VOLODYMYRIVKA,moneygram,,unknown,PRIVATBANK
+HADIACH,moneygram,,unknown,PRIVATBANK
+KYSLIANKA,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0389
+POKROVSKE,moneygram,,unknown,PRIVATBANK
+MENZHYNSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0484
+PRIDNIPROVSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0488
+CHUGUEV,moneygram,,unknown,CHUGUEVSKOE OTDELENIE - CHUGUEV - CHUGUE
+KRASNOGRAD,moneygram,,unknown,KRASNOGRADSKOE OTDELENIE - KRASNOGRAD -
+VOZNESENSK,moneygram,,unknown,OSCHADBANK - TOBO VOZNESENSKOGO OTD 1001
+ZAPOROZHE,moneygram,,unknown,TASCOMBANK JSC - #24 - ZAPOROZHSKOE OTDE
+CHERKASKA,moneygram,,unknown,JSB UKRGASBANK - #418/23 - CHERKASKA - C
+SVITLOVODSK,moneygram,,unknown,PRIVATBANK - SVITLOVODSK
+IVANO-FRANKIVSKA,moneygram,,unknown,JSB UKRGASBANK - #422/08 - IVANO-FRANKIV
+MALECHIV,moneygram,,unknown,"""JS """"CRYSTALBANK"""" - #32 - MALECHIV - SEPA"""
+BAKHMUT,moneygram,,unknown,BAKHMUTSKOE TSENTRALNOE OTDELENIE - BAKH
+BEREZNEGUVATOE,moneygram,,unknown,"""OTDELENIE """"BEREZNEGOVATSKOE-TSENTRALNOE"""
+KRIVOE OZERO,moneygram,,unknown,"""OTDELENIE """"KRIVOOZERSKOE"""" - KRIVOE OZERO"""
+NOVYY BUG,moneygram,,unknown,"""OTDELENIE """"NOVOBUGSKOE 1"""" - NOVYY BUG -"""
+HRUSHIVKA,moneygram,,unknown,PRIVATBANK
+TERNOPILSKA,moneygram,,unknown,JSB UKRGASBANK - #425/19 - TERNOPILSKA -
+DVURECHNAYA,moneygram,,unknown,PRIVATBANK - DVURECHNAYA - DVURECHANSKOE
+ELANETS,moneygram,,unknown,"""PRIVATBANK - ELANETS - OTDELENIE """"ELANET"""
+OCHAKOV,moneygram,,unknown,"""PRIVATBANK - OCHAKOV - OTDELENIE """"OCHAKO"""
+ZHOVTI VODY,moneygram,,unknown,UKRGASBANK - #190-03
+BERDYCHIV,moneygram,,unknown,FUIB - BERDYCHIVSKE
+SLOBOZHANSKOE,moneygram,,unknown,PRIVATBANK - SLOBOZHANSKOE - SLOBOZHANSK
+unknown,moneygram,,unknown,PIVDENNYI BANK - #13-08. -  - LOCATION
+ORDZHONIKIDZE,moneygram,,unknown,OSCHADBANK - #10003-0464 - TOBO
+CHAPLINKA,moneygram,,unknown,CHAPLINSKOE OTDELENIE - CHAPLINKA - CHAP
+KAKHOVKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0104
+LOZOVAYA,moneygram,,unknown,OTDELENIE LOZOVSKOE-3 - LOZOVAYA - OTDEL
+PERESICHNE,moneygram,,unknown,UKRPOSHTA - #62364
+SOLONITSEVKA,moneygram,,unknown,JSC BANK GRANT - #23 - SOLONITSEVKA - NO
+IZYUM,moneygram,,unknown,PRIVATBANK - IZYUM - IZYUMSKOE OTDELENIE
+LYUBESHOV,moneygram,,unknown,PRIVATBANK - LYUBESHOV - LYUBESHOVSKOE O
+KYYIVSKA,moneygram,,unknown,JSB UKRGASBANK - #389 - KYYIVSKA - KYYIV
+DNIPROPETROVSKA,moneygram,,unknown,JSB UKRGASBANK - #414/03 - DNIPROPETROVS
+KYIVSKA,moneygram,,unknown,JSB UKRGASBANK - #395 - KYIVSKA - KYIVSK
+ZAPORIZKA,moneygram,,unknown,JSB UKRGASBANK - #432/07 - ZAPORIZKA - Z
+MANEVICHI,moneygram,,unknown,MANEVICHEVSKOE OTDELENIE - MANEVICHI - M
+ROZHISCHE,moneygram,,unknown,ROZHISCHENSKOE OTDELENIE - ROZHISCHE - R
+TURIYSK,moneygram,,unknown,TURIYSKOE OTDELENIE - TURIYSK - TURIYSKO
+VELIKAYA BAGACHKA,moneygram,,unknown,VELIKOBAGACHANSKOE OTDELENIE - VELIKAYA
+TYACHEV,moneygram,,unknown,JSB UKRGASBANK - #437/06 - TYACHEV - ZAK
+BLAGODATNOE,moneygram,,unknown,OTDELENIE PRIVATBANKA - BLAGODATNOE - OT
+GADYACH,moneygram,,unknown,GADYACHSKOE OTDELENIE - GADYACH - GADYAC
+GLOBINO,moneygram,,unknown,GLOBINSKOE OTDELENIE - GLOBINO - GLOBINS
+MIRNOGRAD,moneygram,,unknown,MIRNOGRADSKOE OTDELENIE - MIRNOGRAD - MI
+SEMENOVKA,moneygram,,unknown,SEMENOVSKOE OTDELENIE - SEMENOVKA - SEME
+SHPOLA,moneygram,,unknown,OSCHADBANK - TOBO 10023 091 F-LA CHERKAS
+VLADIMIR-VOLYNSKIY,moneygram,,unknown,PRIVATBANK - VLADIMIR-VOLYNSKIY - VLADIM
+BOVSHIV,moneygram,,unknown,FUIB
+BOYARKA,moneygram,,unknown,JSB UKRGASBANK - #429 - BOYARKA - KYYIVS
+VERBA,moneygram,,unknown,OSCHADBANK - TOBO - 10017-091
+DERHACHI,moneygram,,unknown,OSCHADBANK - TOBO 10020 0425 F-LA HAR'KO
+KUPIANSK,moneygram,,unknown,OSCHADBANK - #10020-0536 - TOBO
+KOSTOPIL,moneygram,,unknown,OSCHADBANK - TOBO 10017 083 F-LA - ROVEN
+KRASNYI LYMAN,moneygram,,unknown,PRIVATBANK - KRASNYI LYMAN - TOBO KRASNO
+RUBC?,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+MYROHOSCHA-PERSHA,moneygram,,unknown,OSCHADBANK - TOBO - 10017-088
+VARKOVYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10017-089
+SMYHA,moneygram,,unknown,PRIVATBANK - #02U45
+DUBNO,moneygram,,unknown,UKRGASBANK - #117-17
+PIATYHIRSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10020-0478
+KIVSHARIVKA,moneygram,,unknown,UKRPOSHTA - #63734
+SUPRUNIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10016-0142
+DERAZHNE,moneygram,,unknown,OSCHADBANK - TOBO - 10017-0109
+VOLODYMYR-VOLYNSKYI,moneygram,,unknown,OSCHADBANK - TOBO 10002 098 VOLYNSKOGO F
+MONASTYRETS,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0171
+OSTROZHETS,moneygram,,unknown,PRIVATBANK
+STOROZHYNETS,moneygram,,unknown,OSCHADBANK - TOBO 10025 0144 F-LA CHERNO
+NOVOMOSKOVSK,moneygram,,unknown,FUIB
+LIMAN,moneygram,,unknown,PRIVATBANK - LIMAN - LIMANSKOE TSENTRALN
+NOVYE SANZHARY,moneygram,,unknown,PRIVATBANK - NOVYE SANZHARY - NOVOSANZHA
+OKHTYRKA,moneygram,,unknown,PRIVATBANK - #02RS0 - AHTYRSKOE NGDU
+KIVERTSY,moneygram,,unknown,PRIVATBANK - KIVERTSY - KIVERTSYVSKOE OT
+NOVOHRAD-VOLYNSKYI,moneygram,,unknown,OSCHADBANK - TOBO - 10005-059
+NOVOVOLYNSK,moneygram,,unknown,OSCHADBANK - TOBO 10002 0114 VOLYNSKOGO
+STAROKONSTIANTYNIV,moneygram,,unknown,JSC A-BANK - #A208 - STAROKONSTIANTYNIV
+BAHMUT,moneygram,,unknown,JSC A-BANK - #A216 - BAHMUT - 216 OF JS
+KROPYVNYTSKYY,moneygram,,unknown,FUIB
+ROMNY,moneygram,,unknown,INDUSTRIALBANK - ROMNY - BRANCH 1 ROMNY
+VOLOCHYSK,moneygram,,unknown,OSCHADBANK - TOBO 10022 074 F-LA - HMEL'
+NIKOPOL,moneygram,,unknown,UKRGASBANK - #185-03 - NIKOPOL
+KAMENSKOYE,moneygram,,unknown,JSC A-BANK - #ANEJ - KAMENSKOYE - 62 OF
+SLAVUTA,moneygram,,unknown,OSCHADBANK - TOBO - 10022-0131
+TOKMAK,moneygram,,unknown,PRIVATBANK - TOKMAK - 2-E TOKMAKSKOE
+ZAPOROZHYE,moneygram,,unknown,JSC A-BANK - #A34Z - ZAPOROZHYE - 13 OF
+SUMI,moneygram,,unknown,"""JSC A-BANK - #AN5Y - SUMI - 87 OF JS """"-B"""
+UMAN,moneygram,,unknown,OSCHADBANK - TOBO - 10023-0390
+PERVOMAYSKIY,moneygram,,unknown,PRIVATBANK - PERVOMAYSKIY - PERVOMAYSKOE
+TSUMAN,moneygram,,unknown,PRIVATBANK
+BILOVODSK,moneygram,,unknown,OSCHADBANK - #100120159 - TOBO
+TUCHYN,moneygram,,unknown,OSCHADBANK - TOBO - 10017-0154
+S/RADA ORLIVSKA,moneygram,,unknown,JSB UKRGASBANK - #407/15 - S/RADA ORLIVS
+YAKYMIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0316
+PERECHIN,moneygram,,unknown,OSCHADBANK - #10006/021 - PERECHIN
+LVOVSKAYA,moneygram,,unknown,"""A-BANK - #A546 - LVOVSKAYA - 546 OF JS """""""
+ALEKSANDRIYA,moneygram,,unknown,PRIVATBANK - ALEKSANDRIYA - OTDELENIE PR
+ZOLOTONOSHA,moneygram,,unknown,OSCHADBANK - #10023-0272 - TOBO
+KALUSH,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0148
+DZERZHYNSK,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0411
+SVIATOHIRSK,moneygram,,unknown,OSCHADBANK - #10004-0576 - TOBO
+DOBROPILLIA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-08
+CHASO,moneygram,,unknown,PRIVATBANK - CHASO - CHASOVYARSKOE OTDEL
+BILOZERSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-05
+BILETSKE,moneygram,,unknown,PRIVATBANK - BILETSKE - BELITSKOE OTDELE
+FASTIV,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0662
+NOVOIAVORIVSK,moneygram,,unknown,OSCHADBANK - #10013-0288 - TOBO
+PERVOMAISK,moneygram,,unknown,OSCHADBANK - TOBO - 10014-0125
+KOMSOMOLSK,moneygram,,unknown,OSCHADBANK - TOBO - 10016-070
+SOLEDAR,moneygram,,unknown,OSCHADBANK - #10004-0294 - TOBO
+ZAPORIZHZHYA,moneygram,,unknown,UNEXBANK - ZAPORIZKE VIDDILENNYA 1
+NERESNYTSIA,moneygram,,unknown,PRIVATBANK
+TOMASHHOROD,moneygram,,unknown,PRIVATBANK
+RAFALIVKA,moneygram,,unknown,PRIVATBANK - RAFALIVKA - RAPHALOVSKOE OT
+VALKI,moneygram,,unknown,PRIVATBANK - VALKI - VALKOVSKOE OTDELENI
+CHORTKIV,moneygram,,unknown,OSCHADBANK - TOBO - 10019-055
+BOBRYK,moneygram,,unknown,PRIVATBANK - BOBRYK - KOROSTYSHEVSKOE OT
+CHUHUIV,moneygram,,unknown,OSCHADBANK - TOBO 10020 0449 F-LA HAR'KO
+NOVOHRODIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-096
+STANYCHNO-LUHANSKE,moneygram,,unknown,PRIVATBANK - STANYCHNO-LUHANSKE - OTDELE
+SVITLODARSK,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0309
+AVD?IVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0255
+STAROBILSK,moneygram,,unknown,OSCHADBANK - TOBO 10012 041 F-L LUGANSKO
+PIDHAITSI,moneygram,,unknown,OSCHADBANK - TOBO 10002 020 VOLYNSKOGO F
+VERKHIVTSEVE,moneygram,,unknown,PRIVATBANK
+BEREZOVO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-034
+DNIPROVSKE,moneygram,,unknown,PRIVATBANK
+SLATYNE,moneygram,,unknown,OSCHADBANK - TOBO - 10020-0435
+IZA,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0124
+AULI,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0592
+SCHORSK,moneygram,,unknown,PRIVATBANK
+PRUDIANKA,moneygram,,unknown,OSCHADBANK - TOBO - 10020-0436
+KARNAUKHIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0573
+SOFIEVSKAYA BORSHAGOVKA,moneygram,,unknown,OSCHADBANK TOBO 10026/0745 KIEVSKOGO F-
+KHALIAVYN,moneygram,,unknown,PRIVATBANK
+SELYDOVE,moneygram,,unknown,PRIVATBANK
+BOBRYNETS,moneygram,,unknown,OSCHADBANK - TOBO 10010 093
+MIHAYLO-KOCUBINSKE,moneygram,,unknown,OSCHADBANK - #10024/0192 - MIHAYLO-KOCUB
+STAROBELSK,moneygram,,unknown,PRIVATBANK - STAROBELSK - OTDELENIE PRIV
+IRSHANSK,moneygram,,unknown,PRIVATBANK - IRSHANSK - OTDELENIE
+ZABABOLOTTSI,moneygram,,unknown,OSCHADBANK TOBO 10013/0163 LVIVSKOGO F-
+POPASNA,moneygram,,unknown,OSCHADBANK - #100120194 - TOBO
+TERNOVO,moneygram,,unknown,PRIVATBANK
+KRYCHOVO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0153
+HRUSHOVO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0156
+KOZIIVKA,moneygram,,unknown,UKRPOSHTA - #62011
+NOVE ZAPORIZHZHIA,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0263
+ROKYTNE,moneygram,,unknown,OSCHADBANK - TOBO 10026 0583 F-LA GLAVNO
+SVATOVE,moneygram,,unknown,OSCHADBANK - #10012-059 - TOBO
+PETROPAVLIVKA,moneygram,,unknown,OSCHADBANK - #10003-0524 - TOBO
+SVALIAVA,moneygram,,unknown,OSCHADBANK - OTD. 10006 0104
+VINNITSIA,moneygram,,unknown,"""JS """"CRYSTALBANK"""" - #33 - VINNITSIA - SEP"""
+PLIUTY,moneygram,,unknown,PDO SAKSAGANSKOGO OTDELENIA - PLIUTY - P
+CHERNOMORSK ODESSA REGION,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #2 - CHERNOMORSK ODESS"""
+IVANO-FRANKOVSK,moneygram,,unknown,BANK LVIV
+KHERSON,moneygram,,unknown,JSC A-BANK - #A210 - KHERSON - JSC A-BAN
+KROPIVNITSKY,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #1 - KROPIVNITSKY - CE"""
+NEW KAKHOVKA KHERSON REGION,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #1 - NEW KAKHOVKA KHER"""
+OVIDIOPOL,moneygram,,unknown,OSCHADBANK - TOBO 10015 0333
+SMOOTH,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #1 - SMOOTH - RIVNE BR"""
+ZAPOROZHYA,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #1 - ZAPOROZHYA - ZAPO"""
+CITY DOBROSLAV ODESSA REGION,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #14 - CITY DOBROSLAV O"""
+BALTA,moneygram,,unknown,OSCHADBANK - TOBO 10015 0391 F-LA ODESSK
+BELGOROD-DNESTROVSKY ODESSA REGION,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #25 - BELGOROD-DNESTRO"""
+KROPIVNITSKY KIROVOGRAD OBL,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #3 - KROPIVNITSKY KIR"""
+S. WINTER WATER POSTOMITOVSKY DISTRICT L,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #2 - S. WINTER WATER P"""
+ODESSA REGION LIMANSKY DISTRICT VILLAGE,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #20 - ODESSA REGION LI"""
+S. GORA KIEVSKAYA REGION BORISPOL DISTRI,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #24 - S. GORA KIEVSKAY"""
+KAKHOVKA KHERSON OBL,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #3 - KAKHOVKA KHERSON"""
+VELIKODOLINSKOE URBAN SETTLEMENT,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #3 - VELIKODOLINSKOE U"""
+SOUTH ODESSA REGION,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #6 - SOUTH ODESSA REGI"""
+KRASYLIV,moneygram,,unknown,OSCHADBANK - TOBO 10022 081 F-LA -HMEL'N
+YAMPIL,moneygram,,unknown,OSCHADBANK - OTD. 10001 051 F-LA VINNICK
+PONINKA,moneygram,,unknown,PRIVATBANK
+HLYNSK,moneygram,,unknown,OSCHADBANK - TOBO - 10017-097
+VILCHA,moneygram,,unknown,UKRPOSHTA - #62519
+POLONNE,moneygram,,unknown,OSCHADBANK - TOBO 10022 0125 F-LA -HMEL'
+VOVKOVYNTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10022-053
+MALA BILOZERKA,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0228
+PIDHORODTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0181
+BARVINKOVE,moneygram,,unknown,OSCHADBANK - TOBO 10020 0499 F-LA HAR'KO
+VERKHNIE VODIANE,moneygram,,unknown,OSCHADBANK - TOBO - 10006-027
+BALABYNE,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0229
+BILYI KOLODIAZ,moneygram,,unknown,UKRPOSHTA - #62540
+ANANEV,moneygram,,unknown,PRIVATBANK - ANANEV - OTDELENIE V G. ANA
+PRYLUKY,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0319
+VYSHHOROD,moneygram,,unknown,OSCHADBANK - #10026-0726 - TOBO
+ZDOLBUNOV,moneygram,,unknown,PRIVATBANK - ZDOLBUNOV - ZDOLBUNOVSKOE O
+GLUKHOV,moneygram,,unknown,PRIVATBANK - GLUKHOV - GLUKHOVSKOE OTDEL
+NEZHIN,moneygram,,unknown,PRIVATBANK - NEZHIN - OTDELENIE PRIVATBA
+LYUBOTIN,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+OLEKSANDRIYA,moneygram,,unknown,COMINBANK - #0 - OLEKSANDRIYA - OLEKSAND
+KRASNOHORIVKA,moneygram,,unknown,OSCHADBANK TOBO - #10004/0551/001 - KRA
+SOKAL,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0265
+S. NOVOSILKY,moneygram,,unknown,JSCB RWSBANK - #41 - S. NOVOSILKY - NOVO
+ZBARAZH,moneygram,,unknown,OSCHADBANK - TOBO 10019 026 F-LA TERNOPO
+OLHYNKA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0322
+KINETSPIL,moneygram,,unknown,OSCHADBANK - TOBO - 10014-0128
+BOROZENSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10021-0135
+KORETS,moneygram,,unknown,OSCHADBANK - TOBO 10017 0183 F-LA - ROVE
+NOVOTOSHKIVSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10012-0198
+DOROSHIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-0178
+NOVOBOHDANIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0310
+SNIHURIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10014 099 NIKOLAEVSKOG
+KARPYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10017-0174
+HLYNNE,moneygram,,unknown,OSCHADBANK - TOBO - 10017-0170
+MALOKATERYNIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0231
+SCHERBANI,moneygram,,unknown,OSCHADBANK - TOBO - 10014-0177
+BALOVNE,moneygram,,unknown,OSCHADBANK - TOBO - 10014-093
+LYUBASHEVKA,moneygram,,unknown,OTDELENIE V PGT. LYUBASHEVKA - LYUBASHEV
+S. KRIGANIVKA,moneygram,,unknown,PJSC TASCOMBANK - #119 - S. KRIGANIVKA -
+MARHANETS,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0377
+KAMENSKOE,moneygram,,unknown,TASCOMBANK JSC - #33 - KAMENSKOE OTDELEN
+S. POLYANYTSYA,moneygram,,unknown,"""PJSC """"MTB BANK"""" - #2 - S. POLYANYTSYA -"""
+VINNYSTIA,moneygram,,unknown,UNEXBANK - VINNYSTKE VIDDILENNYA 1
+KAMENETZ-PODOLSK,moneygram,,unknown,A-BANK - #A433 - KAMENETZ-PODOLSK - 433
+STRYY,moneygram,,unknown,INDUSTRIALBANK - STRYY - BRANCH 2 STRYY
+MIZIKEVICHA,moneygram,,unknown,BANK VOSTOK
+AVANHARD,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0603
+BEREZNE,moneygram,,unknown,OSCHADBANK - TOBO 10017 0144 F-LA - ROVE
+PETROPAVLOVKA,moneygram,,unknown,OSCHADBANK - TOBO 10012 04
+KHMELNITSK,moneygram,,unknown,PRIVATBANK - KHMELNITSK - KHMELNYTSKOE O
+GYTOMIR,moneygram,,unknown,PJSC TASCOMBANK - #149 - GYTOMIR - GYTOM
+CHAPLYNE,moneygram,,unknown,PRIVATBANK
+MAMALYHA,moneygram,,unknown,PRIVATBANK
+MYHOVE,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0186
+KADUBIVTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0136
+PANKA,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0146
+MYKHALCHA,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0155
+KOZIATYN,moneygram,,unknown,PRIVATBANK - KOZIATYN - KAZATIN-2
+NOVOVASYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0315
+KORIUKIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0159
+BORYSPIL,moneygram,,unknown,PUMB - BORYSPIL
+KAMIANSKE,moneygram,,unknown,COMINBANK - KAMIANSKE - KAMIANSKE BRANCH
+KALITA,moneygram,,unknown,UNEXBANK - KALITYANSKE VIDDILENNYA SMT.K
+KRYVYY RIH,moneygram,,unknown,INDUSTRIALBANK - KRYVYY RIH - BRANCH 1 K
+NETESHYN,moneygram,,unknown,UKRGASBANK - #362/22
+KURAHOVO,moneygram,,unknown,PRIVATBANK - KURAHOVO - OTDELENIE KURAHO
+BILOTSERKIVSKYI DISTR. VIL. KOVALIVKA,moneygram,,unknown,COMINBANK - BILOTSERKIVSKYI DISTR. VIL.
+POKROVSK,moneygram,,unknown,OSCHADBANK - #10004-0218 - TOBO
+VYZHNYTSIA,moneygram,,unknown,OSCHADBANK - TOBO 10025 0181 F-LA CHERNO
+KYRNASIVKA,moneygram,,unknown,OSCHADBANK - #TOBO - 10001-032
+NOVOPSKOV,moneygram,,unknown,OSCHADBANK - TOBO 10012 049 F-L LUGANSKO
+KHMILNYK,moneygram,,unknown,OSCHADBANK - OTD. 10001 0120 F-LA VINNIC
+STARYI LYSETS,moneygram,,unknown,OSCHADBANK - #TOBO - 10008-076
+SELIATYN,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-0196
+KERETSKY,moneygram,,unknown,PRIVATBANK
+BORZNA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0179
+PRESLAV,moneygram,,unknown,OSCHADBANK - #TOBO - 10007-0357
+HIRSKE,moneygram,,unknown,PRIVATBANK
+RUBIZHNE,moneygram,,unknown,PRIVATBANK - #02RS3 - RUBEZHNOE-2
+ZHOVKVA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0214
+PETROVS'KE,moneygram,,unknown,PRIVATBANK - #02GK6 - PETROVS'KE - OTDEL
+KIROVOGRAD,moneygram,,unknown,VERNUM BANK
+KANIV,moneygram,,unknown,OSCHADBANK - TOBO - 10023-0185
+KHOROSTKIV,moneygram,,unknown,OSCHADBANK - TOBO 10019 030 F-LA - TERNO
+KORCHYN,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0111
+KLISHKIVTSI,moneygram,,unknown,PRIVATBANK
+HLADKIVKA,moneygram,,unknown,PRIVATBANK
+LANCHYN,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0123
+VYHODA,moneygram,,unknown,PRIVATBANK
+MELNYTSIA-PODILSKA,moneygram,,unknown,OSCHADBANK - TOBO 10019 038 F-LA TERNOPO
+STAROKOZACHE,moneygram,,unknown,PRIVATBANK
+DARIVKA,moneygram,,unknown,PRIVATBANK
+KOLOCHAVA,moneygram,,unknown,PRIVATBANK
+BOIANY,moneygram,,unknown,OSCHADBANK - TOBO - 10025-073
+KRASNOILSK,moneygram,,unknown,OSCHADBANK - TOBO 10025 0148 F-LA CHERNO
+LAZURNE,moneygram,,unknown,PRIVATBANK
+DUNAIVTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10022-073
+KHOLMY,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0160
+PETRIVKA,moneygram,,unknown,PRIVATBANK
+LIUBECH,moneygram,,unknown,PRIVATBANK
+OLYKA,moneygram,,unknown,PRIVATBANK
+BILSHIVTSI,moneygram,,unknown,PRIVATBANK
+MALA DANYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0428 F-LA HAR'KO
+IRSHAVA,moneygram,,unknown,OSCHADBANK - TOBO 10006 048 ZAKARPATSKOG
+VASYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0224
+MYKOLAIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0577
+PECHENIZHYN,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0136
+VOLNOVAKHA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0317
+NOVOTROITSKE,moneygram,,unknown,OSCHADBANK - TOBO 10021 0119
+BELGOROD-DNESTROVSKY,moneygram,,unknown,PRIVATBANK - BELGOROD-DNESTROVSKY - BELG
+ILYICHEVSK,moneygram,,unknown,PRIVATBANK - ILYICHEVSK - ILYICHEVSKOE O
+KOZACHI LAHERI,moneygram,,unknown,PRIVATBANK - KOZACHI LAHERI - KAZACHI LA
+KRASNY,moneygram,,unknown,PRIVATBANK - KRASNY - OTDELENIE KRASNOLI
+KURISOVO,moneygram,,unknown,PRIVATBANK - KURISOVO - OTDELENIE KURISO
+LYMAN,moneygram,,unknown,UKRPOSHTA - #63463
+MAKIIVKA,moneygram,,unknown,PRIVATBANK - MAKIIVKA - OTDELENIE 137
+MOHYLIV-PODILSKYI,moneygram,,unknown,OSCHADBANK - OTD. 10001 0151 F-LA VINNIC
+SHEPETOVKA,moneygram,,unknown,PRIVATBANK - SHEPETOVKA - SHEPETOVSKOE O
+SYNELNYKOVE,moneygram,,unknown,OSCHADBANK - #10003-0385 - TOBO
+VELYKI HAI,moneygram,,unknown,PRIVATBANK - VELYKI HAI - OTDELENIE DZHE
+YUVILEINE,moneygram,,unknown,PRIVATBANK
+VINNITSA,moneygram,,unknown,ASVIO BANK - #34 - VINNITSA - BRANCH #34
+VILKHIVKA,moneygram,,unknown,OSCHADBANK - #TOBO - 10006-056 - VILKHIV
+STAROMLYNIVKA,moneygram,,unknown,OSCHADBANK - #TOBO - 10004-0450 - STAROM
+SMOLINE,moneygram,,unknown,PRIVATBANK
+LIUBLYNETS,moneygram,,unknown,PRIVATBANK
+KOMAR,moneygram,,unknown,OSCHADBANK - #TOBO - 10004-0446 - KOMAR
+PRYLISNE,moneygram,,unknown,OSCHADBANK - #TOBO - 10002-052 - PRYLISN
+ZHDENIIEVO,moneygram,,unknown,OSCHADBANK - #TOBO - 10006-0111 - ZHDENI
+LYSYCHOVO,moneygram,,unknown,OSCHADBANK - #TOBO - 10006-055 - LYSYCHO
+POVORSK,moneygram,,unknown,OSCHADBANK - #TOBO - 10002-0122 - POVORS
+HLEIUVATKA,moneygram,,unknown,OSCHADBANK - #TOBO - 10003-0372 - HLEIUV
+BAHATYR,moneygram,,unknown,OSCHADBANK - #TOBO - 10004-0447 - BAHATY
+NYZHNI VOROTA,moneygram,,unknown,OSCHADBANK - #TOBO - 10006-0110 - NYZHNI
+CHORNA TYSA,moneygram,,unknown,OSCHADBANK - #TOBO - 10006-033 - CHORNA
+NESCHERETOVE,moneygram,,unknown,OSCHADBANK - #TOBO - 10012-056 - NESCHER
+KATYUZHANKA,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+VILNE,moneygram,,unknown,OSCHADBANK - #TOBO - 10003-0532 - VILNE
+KHLIBODARIVKA,moneygram,,unknown,OSCHADBANK - #TOBO - 10004-0316 - KHLIBO
+NOVA MAIACHKA,moneygram,,unknown,PRIVATBANK
+AVDIIVKA,moneygram,,unknown,PRIVATBANK - #02GO9 - AVDIIVKA - AVDEEVS
+OSTROH,moneygram,,unknown,OSCHADBANK - TOBO 10017 0122 F-LA - ROVE
+MUKACHEVO,moneygram,,unknown,JSCB RWSBANK - #44 - MUKACHEVO - ZAKARPA
+YUZHNOE,moneygram,,unknown,JSB UKRGASBANK
+HERSON,moneygram,,unknown,KREDOBANK - #109 - BRANCH POTOMKINSKA ST
+SVARYTSEVYCHI,moneygram,,unknown,OSCHADBANK - #TOBO - 10017-0135 - SVARYT
+ORSHIVTSI,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-089 - ORSHIVT
+LOMACHYNTSI,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-0171 - LOMACH
+STAVCHANY,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-085 - STAVCHA
+NYZHNI STANIVTSI,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-091 - NYZHNI
+SHYPYNTSI,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-094 - SHYPYNT
+VIKNO,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-0130 - VIKNO
+BUDENETS,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-0162 - BUDENE
+BRYLIVKA,moneygram,,unknown,PRIVATBANK
+VASHKIVTSI,moneygram,,unknown,OSCHADBANK - OSHHADBANK TOBO 10025-0187
+LUKIVTSI,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-0183 - LUKIVT
+KARAPCHIV,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-0188 - KARAPC
+KOSTYCHANY,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-081 - KOSTYCH
+KORYTNE,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-0190 - KORYTN
+STARE SELO,moneygram,,unknown,OSCHADBANK - #TOBO - 10017-0172 - STARE
+BANYLIV,moneygram,,unknown,OSCHADBANK - #TOBO - 10025-0189 - BANYLI
+BYCHA,moneygram,,unknown,UKRGASBANK
+VYSHNEVOE,moneygram,,unknown,UKRGASBANK
+SLAV'YANS'K,moneygram,,unknown,PRIVATBANK - #02M6Z - OTDELENIE 44
+VASIL'KIV,moneygram,,unknown,KRYSTALBANK
+KHMEL'OVE,moneygram,,unknown,OSCHADBANK - TOBO - 10010-0140
+PANTAIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10010-0153
+MYRONIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10026 0671 F-LA GLAVNO
+GRUSHIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0332
+TOSHKIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10012-0185
+MENA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0222
+LYPNIAZHKA,moneygram,,unknown,OSCHADBANK - TOBO - 10010-0126
+ZLYNKA,moneygram,,unknown,OSCHADBANK - ZLYNKA - TOBO - 10010-0141
+MLIIV,moneygram,,unknown,OSCHADBANK - MLIIV - TOBO - 10023-084
+PISKIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0791
+POBUZKE,moneygram,,unknown,PRIVATBANK
+DANYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10012-0160
+STEPANKY,moneygram,,unknown,OSCHADBANK - STEPANKY - TOBO - 10023-058
+POMICHNA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0129
+LUTS`K,moneygram,,unknown,BANK CREDIT DNEPR
+VATUTINE,moneygram,,unknown,OSCHADBANK - #10023-0239 - TOBO
+STRIY,moneygram,,unknown,PJSC TASCOMBANK - #89 - STRIY - STRIYSKO
+ROZSOSHENTSI VILLAGE,moneygram,,unknown,JSC POLTAVA-BANK - #23 - ROZSOSHENTSI VI
+LYCHKOVE,moneygram,,unknown,OSCHADBANK - #TOBO - 10003-0302
+KAMIN-KASHYRSKYI,moneygram,,unknown,OSCHADBANK - TOBO 10002 036 VOLYNSKOGO F
+KOTOVKA,moneygram,,unknown,PRIVATBANK
+PODILSK,moneygram,,unknown,FUIB
+IVIV,moneygram,,unknown,KREDOBANK
+LUCK,moneygram,,unknown,KREDOBANK
+VINNYCJA,moneygram,,unknown,KREDOBANK
+CHERNIVCI,moneygram,,unknown,KREDOBANK
+SVETLOVODSK,moneygram,,unknown,COMINBANK - SVETLOVODSK - SVETLOVODSK BR
+PISOCHIN,moneygram,,unknown,KRYSTALBANK - #39 - PISOCHIN - SEPARATIO
+DOVZHIK,moneygram,,unknown,KRYSTALBANK - #34 - DOVZHIK - SEPARATION
+SOFIIVSKA BORSHAGIVKA,moneygram,,unknown,KRYSTALBANK - #33 - SOFIIVSKA BORSHAGIVK
+PYLYPETS,moneygram,,unknown,KRYSTALBANK - #11 - PYLYPETS - SEPARATIO
+HERMANIVKA,moneygram,,unknown,OSCHADBANK - #TOBO - 10026-0540
+MALOMYKHAILIVKA,moneygram,,unknown,OSCHADBANK - #TOBO - 10003-0289
+MARIUPOL,moneygram,,unknown,FUIB
+ORILKA,moneygram,,unknown,UKRPOSHTA - #64641
+LYZOHUBIVKA,moneygram,,unknown,UKRPOSHTA - #62492
+LYHIVKA,moneygram,,unknown,UKRPOSHTA - #64514
+MAKSYMIVKA,moneygram,,unknown,UKRPOSHTA - #62145
+PARKHOMIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0366 F-LA HAR'KO
+SNIZHKIV,moneygram,,unknown,UKRPOSHTA - #63042
+VOLOKHIV YAR,moneygram,,unknown,UKRPOSHTA - #63552
+STAROVIRIVKA,moneygram,,unknown,UKRPOSHTA - #63251
+SHELESTOVE,moneygram,,unknown,UKRPOSHTA - #63131
+VYSOKOPILLIA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0136
+MALA ROHAN,moneygram,,unknown,UKRPOSHTA - #62485
+VERBIVKA,moneygram,,unknown,UKRPOSHTA - #64219
+IVANIVKA DRUHA,moneygram,,unknown,UKRPOSHTA - #64713
+PISOCHYN,moneygram,,unknown,PRIVATBANK
+MANCHENKY,moneygram,,unknown,UKRPOSHTA - #62448
+KRASNOPAVLIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10020 -0515
+STARYI SALTIV,moneygram,,unknown,OSCHADBANK - TOBO 10020 0390 F-LA HAR'KO
+MARTOVE,moneygram,,unknown,UKRPOSHTA - #62820
+BOROVA,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0658
+KUPIANSK-VUZLOVYI,moneygram,,unknown,UKRPOSHTA - #63709
+VELYKYI BURLUK,moneygram,,unknown,OSCHADBANK - TOBO 10020 0395 F-LA HAR'KO
+PRYKOLOTNE,moneygram,,unknown,UKRPOSHTA - #62630
+PECHENIHY,moneygram,,unknown,PRIVATBANK - PECHENIHY - PECHENEGI MO-4
+DONETS,moneygram,,unknown,UKRPOSHTA - #63462
+PANIUTYNE,moneygram,,unknown,OSCHADBANK - TOBO - 10020-0516
+HENIIVKA,moneygram,,unknown,UKRPOSHTA - #63433
+ZIDKY,moneygram,,unknown,UKRPOSHTA - #63432
+SLOBOZHANSKE,moneygram,,unknown,UKRPOSHTA - #63235
+NOVOPOKROVKA,moneygram,,unknown,OSCHADBANK - TOBO 10003 0280 DNEPROPETRO
+ESKHAR,moneygram,,unknown,UKRPOSHTA - #63524
+KOVIAHY,moneygram,,unknown,UKRPOSHTA - #63021
+MALYNIVKA,moneygram,,unknown,UKRPOSHTA - #63525
+SHARIVKA,moneygram,,unknown,UKRPOSHTA - #62153
+KOLOMAK,moneygram,,unknown,PRIVATBANK
+ROHAN,moneygram,,unknown,UKRPOSHTA - #62481
+STARYI MERCHYK,moneygram,,unknown,UKRPOSHTA - #63011
+TARANIVKA,moneygram,,unknown,UKRPOSHTA - #63450
+HUTY,moneygram,,unknown,UKRPOSHTA - #62131
+BLYZNIUKY,moneygram,,unknown,OSCHADBANK -  10020 0523 F-LA HAR'KOVSKO
+CHKALOVSKE,moneygram,,unknown,UKRPOSHTA - #63544
+KAMIANA YARUHA,moneygram,,unknown,UKRPOSHTA - #63512
+DOKUCHAIEVSKE,moneygram,,unknown,UKRPOSHTA - #62483
+KOTLIARY,moneygram,,unknown,UKRPOSHTA - #62491
+BIRKY,moneygram,,unknown,UKRPOSHTA - #63421
+TSYRKUNY,moneygram,,unknown,UKRPOSHTA - #62441
+SHELUDKIVKA,moneygram,,unknown,UKRPOSHTA - #63440
+NATALYNE,moneygram,,unknown,UKRPOSHTA - #63343
+PODVIRKY,moneygram,,unknown,UKRPOSHTA - #62371
+PETRIVSKE,moneygram,,unknown,UKRPOSHTA - #64282
+MURAFA,moneygram,,unknown,UKRPOSHTA - #62020
+CHERKASKA LOZOVA,moneygram,,unknown,UKRPOSHTA - #62340
+KHROLY,moneygram,,unknown,UKRPOSHTA - #62480
+KOROBOCHKYNE,moneygram,,unknown,UKRPOSHTA - #63540
+TERNOVA,moneygram,,unknown,UKRPOSHTA - #63521
+VILSHANY,moneygram,,unknown,UKRPOSHTA - #62360
+BUDY,moneygram,,unknown,UKRPOSHTA - #62456
+PIVDENNE,moneygram,,unknown,OSCHADBANK - TOBO-  10020-0420
+VASYSHCHEVE,moneygram,,unknown,UKRPOSHTA - #62495
+KRASNOKUTSK,moneygram,,unknown,OSCHADBANK - TOBO 10020 0365 F-LA HAR'KO
+KHOROSHEVE,moneygram,,unknown,UKRPOSHTA - #62466
+ZMIIV,moneygram,,unknown,OSCHADBANK - TOBO 10020 0463 F-LA HAR'KO
+NOVA VODOLAHA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0372 F-LA HAR'KO
+BEZLIUDIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10020-0411
+VALKY,moneygram,,unknown,OSCHADBANK - TOBO 10020 0331 F-LA HAR'KO
+SOLONYTSIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10020 -0432
+ZACHEPYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0349 F-LA HAR'KO
+KOROTYCH,moneygram,,unknown,UKRPOSHTA - #62454
+PERVOMAISKYI,moneygram,,unknown,OSCHADBANK - TOBO-  10020-0534
+KEHYCHIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0442 F-LA HAR'KO
+POKOTYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO-  10020-0418
+VYSOKYI,moneygram,,unknown,OSCHADBANK - TOBO-  10020-0417
+SAKHNOVSHCHYNA,moneygram,,unknown,UKRPOSHTA - #64501
+BABAI,moneygram,,unknown,UKRPOSHTA - #62403
+BOHODUKHIV,moneygram,,unknown,OSCHADBANK - TOBO 10020 0404 F-LA HAR'KO
+KRASNOHRAD,moneygram,,unknown,OSCHADBANK - TOBO 10020 0364 F-LA HAR'KO
+MEREFA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0421 F-LA HAR'KO
+LIUBOTYN,moneygram,,unknown,PRIVATBANK
+OLEKSIIVKA,moneygram,,unknown,UKRPOSHTA - #64122
+BEREZIVSKE,moneygram,,unknown,UKRPOSHTA - #62363
+NOVOPAVLIVKA,moneygram,,unknown,UKRPOSHTA - #64786
+SELEKTSIINE,moneygram,,unknown,UKRPOSHTA - #62478
+UTKIVKA,moneygram,,unknown,UKRPOSHTA - #62471
+MYKOLO-KOMYSHUVATA,moneygram,,unknown,UKRPOSHTA - #63310
+KATERYNIVKA,moneygram,,unknown,UKRPOSHTA - #64662
+KACHALIVKA,moneygram,,unknown,UKRPOSHTA - #62025
+HUBARIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0406 F-LA HAR'KO
+DVORICHNYI KUT,moneygram,,unknown,UKRPOSHTA - #62351
+PROSIANE,moneygram,,unknown,UKRPOSHTA - #63230
+CHEMUZHIVKA,moneygram,,unknown,UKRPOSHTA - #63430
+DOVZHYK,moneygram,,unknown,UKRPOSHTA - #62250
+SANZHARY,moneygram,,unknown,UKRPOSHTA - #62447
+ARTEMIVKA,moneygram,,unknown,UKRPOSHTA - #62821
+BOHUSLAVKA,moneygram,,unknown,UKRPOSHTA - #63810
+BILIAIVKA,moneygram,,unknown,OSCHADBANK - #10015-0414 - TOBO
+VVEDENKA,moneygram,,unknown,UKRPOSHTA - #63520
+BUHAIVKA,moneygram,,unknown,UKRPOSHTA - #64320
+NOVOPILLIA,moneygram,,unknown,OSCHADBANK - #TOBO - 10003-0367
+RANNII RANOK,moneygram,,unknown,OSCHADBANK - #TOBO - 10003-0371
+TERNIVKA,moneygram,,unknown,OSCHADBANK - #10003-0517 - TOBO
+BUSHTYNO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0147
+PERSHOTRAVENSK,moneygram,,unknown,OSCHADBANK - #10003-0518 - TOBO
+TEREBLECHE,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0107
+KRAKOVETS,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0284
+MOGILYV - PODILSKIY,moneygram,,unknown,UKRGASBANK - #225/01 - OTDELENIE V VINNI
+SHEGINI,moneygram,,unknown,UKRGASBANK - #301/13 - OTDELENIE V LVIVS
+VELYKI LAZY,moneygram,,unknown,PRIVATBANK
+CHOP,moneygram,,unknown,OSCHADBANK - OTD. 10006 013
+KOLOMIYA,moneygram,,unknown,PJSC TASCOMBANK - #92 - KOLOMIYA - KOLOM
+LEBEDYN,moneygram,,unknown,INDUSTRIALBANK - LEBEDYN - BRANCH 1 LEBE
+TROITSK,moneygram,,unknown,PRIVATBANK - #02449 - TROITSKOE
+KURAKHOVE,moneygram,,unknown,OSCHADBANK - #100040567 - TOBO
+SHCHERBANI,moneygram,,unknown,PRIVATBANK - #02T4U - SHCHERBANI - OTDEL
+MIKOLAIV,moneygram,,unknown,TASCOMBANK JSC - #19 - NIKOLAEVSKOE OTDE
+KROPIVNITSKIJ,moneygram,,unknown,TASCOMBANK JSC - #34 - KROPIVNITSKOE OTD
+KHMELNITSKIJ,moneygram,,unknown,TASCOMBANK JSC - #47 - KHMELNITSKOE OTDE
+KRIVOJ ROG,moneygram,,unknown,TASCOMBANK JSC - #18 - KRIVOROZHSKOE OTD
+KROPYVNYTSKIY,moneygram,,unknown,UKRGASBANK - #193/10 - OTDELENIE V KYROV
+BEREHOVE,moneygram,,unknown,OSCHADBANK - OTD. 10006 0135
+YAVORIV,moneygram,,unknown,OSCHADBANK - #10013-0276 - TOBO
+ROZDILNA,moneygram,,unknown,UKRGASBANK - #207-15
+MONASTYRYSCHE,moneygram,,unknown,OSCHADBANK - TOBO 10023 0134 F-LA CHERKA
+NYZHNI SIROHOZY,moneygram,,unknown,OSCHADBANK - TOBO 10021 095
+VELYKYI BYCHKIV,moneygram,,unknown,OSCHADBANK - OTD. 10006 023
+KRASNOPILLIA,moneygram,,unknown,OSCHADBANK - TOBO 10018 041 F-LA SUMSKOE
+SUTYSKY,moneygram,,unknown,PRIVATBANK
+NOVOSELYTSIA,moneygram,,unknown,OSCHADBANK 10027 - #67036855 - OSHHADBA
+VOLODYMYRETS,moneygram,,unknown,OSCHADBANK - TOBO 10017 0145 F-LA - ROVE
+NOSIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0260 F-LA CHERNI
+BEREZAN,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0918
+LYSIANKA,moneygram,,unknown,OSCHADBANK - TOBO 10023 0152 F-LA CHERKA
+TSIURUPYNSK,moneygram,,unknown,PRIVATBANK
+DZHURYN,moneygram,,unknown,PRIVATBANK
+LIUBOML,moneygram,,unknown,OSCHADBANK - TOBO 10002 089 VOLYNSKOGO F
+DUBOVE,moneygram,,unknown,PRIVATBANK
+DRABIV,moneygram,,unknown,OSCHADBANK - TOBO 10023 018 F-LA CHERKAS
+KUTY,moneygram,,unknown,PRIVATBANK
+MEZHOVA,moneygram,,unknown,OSCHADBANK - #10003-0526 - TOBO
+YURIVKA,moneygram,,unknown,PRIVATBANK
+VELYKI MOSTY,moneygram,,unknown,OSCHADBANK - TOBO 6333 042
+VILSHANKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0134
+VELYKYI BEREZNYI,moneygram,,unknown,OSCHADBANK - OTD. 10006 020
+KOLKY,moneygram,,unknown,OSCHADBANK - TOBO 10002 050 VOLYNSKOGO F
+BAKHMACH,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0258
+KAZANKA,moneygram,,unknown,OSCHADBANK - TOBO 10014 0101 KAZANKOVSKO
+STARA VYZHIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10002 082 VOLYNSKOGO F
+VRADIIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10014 0155 KRIVOOZERSK
+ANDRUSHIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10005 074 F-LA ZHITOMI
+DYKANKA,moneygram,,unknown,OSCHADBANK - TOBO 10016 045
+IVANKIV,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0559
+FRUNZIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10015 0386
+TORCHYN,moneygram,,unknown,OSCHADBANK - TOBO 10002 026 VOLYNSKOGO F
+PIATYKHATKY,moneygram,,unknown,OSCHADBANK - #10003-0507 - TOBO
+HORODENKA,moneygram,,unknown,OSCHADBANK - OTD GORODENKOVSKOGO OTDELEN
+OLEVSK,moneygram,,unknown,OSCHADBANK - TOBO 10005 036 F-LA ZHITOMI
+YAHOTYN,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0595
+SHYRIAIEVE,moneygram,,unknown,OSCHADBANK - #10015-0431 - TOBO
+NEDRYHAILIV,moneygram,,unknown,OSCHADBANK - TOBO 10018 019 F-LA SUMSKOE
+YEMILCHYNE,moneygram,,unknown,OSCHADBANK - TOBO 10005 063 F-LA ZHITOMI
+LIUBASHIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10015 0396
+PYRIATYN,moneygram,,unknown,OSCHADBANK - TOBO 10016 079
+ZNAMIANKA,moneygram,,unknown,OSCHADBANK - #10010-0172 - TOBO
+KOROSTYSHIV,moneygram,,unknown,PRIVATBANK - KOROSTYSHIV - GABBRO
+BILOZERKA,moneygram,,unknown,OSCHADBANK - KHARCHENKA STREET 24/81
+ANAN'IV,moneygram,,unknown,OSCHADBANK - TOBO 10015 0412 F-LA ODESSK
+PETRYKIVKA,moneygram,,unknown,PRIVATBANK
+BILOPILLIA,moneygram,,unknown,OSCHADBANK - TOBO 10018 084 F-LA SUMSKOE
+TURBIV,moneygram,,unknown,OSCHADBANK - OTD. 10001 0170 F-LA VINNIC
+VOROKHTA,moneygram,,unknown,PRIVATBANK
+PEREIASLAV-KHMELNYTSKYI,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0868
+ZASTAVNA,moneygram,,unknown,OSCHADBANK - TOBO 10025 0128 F-LA CHERNO
+RAKHIV,moneygram,,unknown,OSCHADBANK - TOBO 10006 022 ZAKARPATSKOG
+BROSHNIV-OSADA,moneygram,,unknown,OSCHADBANK - OTD ROZHNYATOVSKOGO OTDELEN
+MIZHHIRIA,moneygram,,unknown,OSCHADBANK - TOBO 10006 037 ZAKARPATSKOG
+LITYN,moneygram,,unknown,OSCHADBANK - OTDELENIE 10001 01 F-LA VIN
+NOVOMYKOLAIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0337
+SERHIIVKA,moneygram,,unknown,PRIVATBANK
+HOLOBY,moneygram,,unknown,PRIVATBANK
+TROSTIANETS,moneygram,,unknown,OSCHADBANK - OTD. 10001 0106 F-LA VINNIC
+OLSHANSKE,moneygram,,unknown,PRIVATBANK
+KOROP,moneygram,,unknown,OSCHADBANK - TOBO 10024 0118
+LYPOVA DOLYNA,moneygram,,unknown,OSCHADBANK - TOBO 10018 0138 F-LA SUMSKO
+IVANIVKA,moneygram,,unknown,OSCHADBANK - #10015-0431 - TOBO
+IZIASLAV,moneygram,,unknown,OSCHADBANK - TOBO 10022 088 F-LA HMEL'NI
+DOMANIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10014-021
+ARBUZYNKA,moneygram,,unknown,OSCHADBANK - TOBO 10014 0109 NIKOLAEVSKO
+NOVODNISTROVSK,moneygram,,unknown,OSCHADBANK - TOBO 10025 0180 F-LA CHERNO
+DOVHE,moneygram,,unknown,PRIVATBANK
+MANEVYCHI,moneygram,,unknown,OSCHADBANK - TOBO 10002 044 VOLYNSKOGO F
+KHRYSTYNIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10023 0121 F-LA CHERKA
+BOBROVYTSIA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0136
+BASHTANKA,moneygram,,unknown,OSCHADBANK - TOBO 10014 07 BASHTANKOVSKO
+PUTYLA,moneygram,,unknown,OSCHADBANK - TOBO 10025 0195 F-LA CHERNO
+ORZHYTSIA,moneygram,,unknown,OSCHADBANK - #10016-0237 - TOBO
+TEOFIPOL,moneygram,,unknown,OSCHADBANK - TOBO 10022 058
+LYPOVETS,moneygram,,unknown,OSCHADBANK - OTD. 10001 0129 F-LA VINNIC
+AULY,moneygram,,unknown,PRIVATBANK
+NOVA ODESA,moneygram,,unknown,OSCHADBANK - TOBO 10014 089 NIKOLAEVSKOG
+NOVOVORONTSOVKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 086
+SOKYRIANY,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0179
+DELIATYN,moneygram,,unknown,PRIVATBANK
+TERESVA,moneygram,,unknown,PRIVATBANK
+KHOTYN,moneygram,,unknown,OSCHADBANK - TOBO 10025 0126 F-LA CHERNO
+RUDKY,moneygram,,unknown,OSCHADBANK - #10013-0222 - TOBO
+MUROVANI KURYLIVTSI,moneygram,,unknown,OSCHADBANK - OTD. 10001 047 F-LA VINNICK
+VILNOHIRSK,moneygram,,unknown,OSCHADBANK - #10003-0509 - TOBO
+RAVA-RUSKA,moneygram,,unknown,OSCHADBANK - #10013-0211 - TOBO
+CHYHYRYN,moneygram,,unknown,OSCHADBANK - TOBO 10023 01 F-LA CHERKASS
+POLOHY,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0258
+ZAVALLIA,moneygram,,unknown,OSCHADBANK - TOBO - 10010-0167
+VERKHOVYNA,moneygram,,unknown,OSCHADBANK - OTD VERHOVINSKOGO OTDELENIY
+ROZHNIATIV,moneygram,,unknown,OSCHADBANK - OTD ROZHNYATOVSKOGO OTDELEN
+KELMENTSI,moneygram,,unknown,OSCHADBANK - TOBO 10025 0197 F-LA CHERNO
+HERTSA,moneygram,,unknown,OSCHADBANK - TOBO 10025 062 F-LA CHERNOV
+MLYNIV,moneygram,,unknown,OSCHADBANK - TOBO 10017 0156 F-LA - ROVE
+BAR,moneygram,,unknown,OSCHADBANK - TOBO - 10001-059
+ROMANIV,moneygram,,unknown,OSCHADBANK - TOBO 10005 051 F-LA ZHITOMI
+KHUST,moneygram,,unknown,OSCHADBANK - TOBO - 10006-06
+BEREZANKA,moneygram,,unknown,OSCHADBANK - TOBO 10014 022 NIKOLAEVSKOG
+PEREHINSKE,moneygram,,unknown,OSCHADBANK - OTD ROZHNYATOVSKOGO OTDELEN
+68001,moneygram,,unknown,UKREXIMBANK
+CHERNIHIVKA,moneygram,,unknown,PRIVATBANK
+YARMOLYNTSI,moneygram,,unknown,OSCHADBANK - TOBO 10022 0104 F-LA HMEL'N
+MASHIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10016 01
+CHEMERIVTSI,moneygram,,unknown,OSCHADBANK - TOBO 10022 0107 F-LA HMEL'N
+SAVRAN,moneygram,,unknown,OSCHADBANK - TOBO 10015 0399
+VOLODARSKE,moneygram,,unknown,OSCHADBANK - #10004-0336 - TOBO
+HENICHESK,moneygram,,unknown,OSCHADBANK - TOBO 10021 0148
+KITSMAN,moneygram,,unknown,OSCHADBANK - TOBO 10025 082 F-LA CHERNOV
+HOROKHIV,moneygram,,unknown,PRIVATBANK - HOROKHIV - GOROKHOVSKOE OTD
+BORYSLAV,moneygram,,unknown,OSCHADBANK - TOBO - 10013-079
+RODYNSKE,moneygram,,unknown,OSCHADBANK - #10004-0228 - TOBO
+SARATA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0362
+SOLONE,moneygram,,unknown,OSCHADBANK - TOBO 10003 0318 F-LA DNEPRO
+VERKHNII ROHACHYK,moneygram,,unknown,OSCHADBANK - TOBO 10021 0163
+KREMENETS,moneygram,,unknown,PRIVATBANK - KREMENETS - KREMENETSKOE OT
+BURSHTYN,moneygram,,unknown,OSCHADBANK - OTD GALICHSKOGO OTDELENIYA
+BUSK,moneygram,,unknown,OSCHADBANK - #10013-051 - TOBO
+KUIBYSHEVE,moneygram,,unknown,OSCHADBANK - TOBO 10007 0261
+NOVA USHYTSIA,moneygram,,unknown,OSCHADBANK - #10022-0148 - TOBO
+TEPLYK,moneygram,,unknown,OSCHADBANK - OTD. 10001 081 F-LA VINNICK
+MARIANIVKA,moneygram,,unknown,PRIVATBANK
+ZHASHKIV,moneygram,,unknown,OSCHADBANK - #10023-0322 - TOBO
+POHREBYSCHE,moneygram,,unknown,OSCHADBANK - OTD. 10001 035 F-LA VINNICK
+MYKULYNTSI,moneygram,,unknown,OSCHADBANK - TOBO 10019 022 F-LA - TERNO
+KAMIANKA-BUZKA,moneygram,,unknown,OSCHADBANK - #10013-0226 - TOBO
+VYNOHRADIV,moneygram,,unknown,OSCHADBANK - TOBO - 10006-073
+CHORNUKHY,moneygram,,unknown,PRIVATBANK
+KOTELVA,moneygram,,unknown,OSCHADBANK - TOBO 10016 084
+ORIKHIV,moneygram,,unknown,OSCHADBANK - TOBO 10007 0201
+KAMIANKA-DNIPROVSKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0232
+ONUFRIIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 087
+POCHAIV,moneygram,,unknown,OSCHADBANK - TOBO 10019 043 F-LA TERNOPO
+HUSIATYN,moneygram,,unknown,OSCHADBANK - TOBO 10019 028 F-LA TERNOPO
+VELYKA LEPETYKHA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0159
+NOVHORODSKE,moneygram,,unknown,OSCHADBANK - #10004-0406 - TOBO
+BILOKURAKYNE,moneygram,,unknown,OSCHADBANK - TOBO 10012 055 F-L LUGANSKO
+BRAILIV,moneygram,,unknown,PRIVATBANK
+POLIANA,moneygram,,unknown,PRIVATBANK
+ZELENODOLSK,moneygram,,unknown,OSCHADBANK - #10003-0339 - TOBO
+SHYROKE,moneygram,,unknown,OSCHADBANK - #10003-0415 - TOBO
+MOSTYSKA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0104
+SEMENIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0103
+BEREHOMET,moneygram,,unknown,OSCHADBANK - TOBO 10025 0184 F-LA CHERNO
+LETYCHIV,moneygram,,unknown,OSCHADBANK - TOBO - 10022-049
+CHERNIAKHIV,moneygram,,unknown,OSCHADBANK - TOBO 10005 023 F-LA ZHITOMI
+LUHYNY,moneygram,,unknown,OSCHADBANK - TOBO 10005 035 F-LA ZHITOMI
+NOVYI BUH,moneygram,,unknown,OSCHADBANK - TOBO 10014 036 NIKOLAEVSKOG
+VELYKA NOVOSILKA,moneygram,,unknown,OSCHADBANK - #10004-0443 - TOBO
+BARANIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10005 062 F-LA ZHITOMI
+SKOLE,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0180
+KLEVAN,moneygram,,unknown,OSCHADBANK - TOBO - 10017-078
+KOBELIAKY,moneygram,,unknown,OSCHADBANK - TOBO 10016 072 F-LA - POLTA
+BOLEKHIV,moneygram,,unknown,OSCHADBANK - TOBO 10008 0168 IVANO-FRANK
+MONASTYRYSKA,moneygram,,unknown,OSCHADBANK - TOBO 10019 051 F-LA TERNOPO
+DVORICHNA,moneygram,,unknown,PRIVATBANK
+CHORNOBAI,moneygram,,unknown,OSCHADBANK - #10023-0293 - TOBO
+VELYKI LUCHKY,moneygram,,unknown,OSCHADBANK - OTD. 10006 078
+HOSCHA,moneygram,,unknown,OSCHADBANK - TOBO 10017 0168 F-LA - ROVE
+TSARYCHANKA,moneygram,,unknown,OSCHADBANK - TOBO 10003 0306 DNEPROPETRO
+RESHETYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10016 053 F-LA - POLTA
+UKRAINKA,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0553
+TIACHIV,moneygram,,unknown,OSCHADBANK - TOBO 10006 0143 F-LA ZAKARP
+SOFIIVKA,moneygram,,unknown,OSCHADBANK - #10003-0456 - TOBO
+VELYKA P'IATYHIRKA,moneygram,,unknown,PRIVATBANK
+OVRUCH,moneygram,,unknown,PRIVATBANK - OVRUCH - NORIN
+KOBLEVE,moneygram,,unknown,PRIVATBANK
+HOLOVANIVSK,moneygram,,unknown,OSCHADBANK - TOBO 10010 0131
+SHUMSKE,moneygram,,unknown,OSCHADBANK - TOBO 10019 044 F-LA TERNOPO
+SOLOTVYNO,moneygram,,unknown,PRIVATBANK
+BRATSKE,moneygram,,unknown,OSCHADBANK - TOBO VOZNESENSKOGO OTD 1001
+TATARBUNARY,moneygram,,unknown,OSCHADBANK - TOBO 10015 0379
+VOLODARKA,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0898
+HREBINKA,moneygram,,unknown,OSCHADBANK - TOBO 10016 060
+KODYMA,moneygram,,unknown,OSCHADBANK - TOBO 10015 0395
+HAIVORON,moneygram,,unknown,OSCHADBANK - TOBO 10010 0162
+CHECHELNYK,moneygram,,unknown,OSCHADBANK - OTD 10001 067 F-LA VINNICKO
+LIUBESHIV,moneygram,,unknown,OSCHADBANK - TOBO 10002 079 VOLYNSKOGO F
+RADOMYSHL,moneygram,,unknown,OSCHADBANK - TOBO 10005 01 ZHITOMIRSKOGO
+HAISYN,moneygram,,unknown,UKRGASBANK - #260-01
+RAKHNY-LISOVI,moneygram,,unknown,PRIVATBANK
+RADYVYLIV,moneygram,,unknown,OSCHADBANK - TOBO 10017 0159 F-LA - ROVE
+ZVENYHORODKA,moneygram,,unknown,OSCHADBANK - #10023-0233 - TOBO
+BRODY,moneygram,,unknown,OSCHADBANK - #10013-0165 - TOBO
+BILOHIRIA,moneygram,,unknown,OSCHADBANK - TOBO 10022 064 F-LA -HMEL'N
+ROZIVKA,moneygram,,unknown,PRIVATBANK
+KOMSOMOLSKE,moneygram,,unknown,OSCHADBANK - TOBO 10020 0471 F-LA HAR'KO
+PRYMORSK,moneygram,,unknown,OSCHADBANK 10027 - #67047226 - OSHHADBA
+KORSUN-SHEVCHENKIVSKYI,moneygram,,unknown,OSCHADBANK - #10023-0206 - TOBO
+TOMAKIVKA,moneygram,,unknown,OSCHADBANK - #10003-0383 - TOBO
+ZHOVTNEVE,moneygram,,unknown,OSCHADBANK - TOBO 10002 0110 VOLYNSKOGO
+VELYKODOLYNSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0334
+CHERVONOARMIISK,moneygram,,unknown,OSCHADBANK - TOBO 10005 028 F-LA ZHITOMI
+BUCHACH,moneygram,,unknown,OSCHADBANK - TOBO 10019 053 F-LA TERNOPO
+KVASYLIV,moneygram,,unknown,OSCHADBANK - TOBO 10017 074 F-LA - ROVEN
+ICHNIA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0235
+VILNIANSK,moneygram,,unknown,OSCHADBANK - TOBO 10007 0336
+ZBORIV,moneygram,,unknown,OSCHADBANK - TOBO 10019 023 F-LA TERNOPO
+KRYZHOPIL,moneygram,,unknown,OSCHADBANK - OTD. 10001 089 F-LA VINNICK
+BERESTECHKO,moneygram,,unknown,OSCHADBANK - TOBO 10002 031 VOLYNSKOGO F
+PROSIANA,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0291
+ZYMNA VODA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0126
+BILYTSKE,moneygram,,unknown,OSCHADBANK - TOBO 10004 06 F-LA - DONECK
+TALNE,moneygram,,unknown,OSCHADBANK - #10023-0257 - TOBO
+SEREDYNA-BUDA,moneygram,,unknown,OSCHADBANK - TOBO 10018 0106 F-LA SUMSKO
+TYVRIV,moneygram,,unknown,OSCHADBANK - OTD. 10001 0171 F-LA VINNIC
+LIUBAR,moneygram,,unknown,OSCHADBANK - TOBO 10005 050 F-LA ZHITOMI
+TOMASHPIL,moneygram,,unknown,OSCHADBANK - OTD. 10001 02 F-LA VINNICKO
+NEMYRIV,moneygram,,unknown,UKRGASBANK - #146-01
+CHERVONA SLOBODA,moneygram,,unknown,PRIVATBANK
+POMORIANY,moneygram,,unknown,PRIVATBANK
+BURYN,moneygram,,unknown,OSCHADBANK - TOBO 10018 024 F-LA SUMSKOE
+MAKIV,moneygram,,unknown,PRIVATBANK
+ZHYDACHIV,moneygram,,unknown,OSCHADBANK - #10013-0166 - TOBO
+TYSMENYTSIA,moneygram,,unknown,OSCHADBANK - OTD TYSMENICKOGO OTDELENIYA
+HOLA PRYSTAN,moneygram,,unknown,PRIVATBANK - HOLA PRYSTAN - GOLAYA PRIST
+VELYKA OLEKSANDRIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0134
+KOPYCHYNTSI,moneygram,,unknown,OSCHADBANK - TOBO 10019 029 F-LA TERNOPO
+KALYNIVKA,moneygram,,unknown,UKRGASBANK - #231-01 - KALYNIVKA
+DOLYNSKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0103
+NOVOARKHANHELSK,moneygram,,unknown,OSCHADBANK - TOBO 10010 0101
+VERKHNIODNIPROVSK,moneygram,,unknown,PRIVATBANK
+SOSNYTSIA,moneygram,,unknown,OSCHADBANK - TOBO -  10024-0232
+RATNE,moneygram,,unknown,OSCHADBANK - TOBO 10002 070 VOLYNSKOGO F
+KOSIV,moneygram,,unknown,OSCHADBANK - OTD KOSOVSKOGO OTDELENIYA 1
+PIDVOLOCHYSK,moneygram,,unknown,OSCHADBANK - TOBO 10019 039 F-LA TERNOPO
+PISCHANKA,moneygram,,unknown,OSCHADBANK - OTD. 10001 096 F-LA VINNICK
+LOKACHI,moneygram,,unknown,PRIVATBANK
+KOMINTERNIVSKE,moneygram,,unknown,MARFIN BANK
+SCHORS,moneygram,,unknown,OSCHADBANK - TOBO 10024 0131
+TURIISK,moneygram,,unknown,OSCHADBANK - TOBO 10002 0131 VOLYNSKOGO
+MANKIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10023 0186 F-LA CHERKA
+ASKANIIA-NOVA,moneygram,,unknown,PRIVATBANK
+TARUTYNE,moneygram,,unknown,OSCHADBANK - TOBO 10015 0401
+ZATOKA,moneygram,,unknown,OSCHADBANK - TOBO 10015 0340
+NOVOUKRAINKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 098
+MAHDALYNIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10003 0293 DNEPROPETRO
+CHUDNIV,moneygram,,unknown,OSCHADBANK - TOBO 10005 053 F-LA ZHITOMI
+NOVHORODKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 089
+ULIANOVKA,moneygram,,unknown,PRIVATBANK
+HALYCH,moneygram,,unknown,OSCHADBANK - OTD GALICKOE OTDELENIYA 100
+BEREZHANY,moneygram,,unknown,OSCHADBANK - TOBO 10019 032 F-LA TERNOPO
+KOZELETS,moneygram,,unknown,OSCHADBANK - TOBO 10024 0212
+IVANYCHI,moneygram,,unknown,OSCHADBANK - TOBO 10002 0118 VOLYNSKOGO
+NOVHOROD-SIVERSKYI,moneygram,,unknown,OSCHADBANK - #10024-0272 - TOBO
+BORSCHIV,moneygram,,unknown,OSCHADBANK - TOBO 10019 036 F-LA TERNOPO
+SLAVUTYCH,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0310
+KREMINNA,moneygram,,unknown,OSCHADBANK - TOBO 10012 028
+SNIATYN,moneygram,,unknown,OSCHADBANK - OTD SNYATYNS'KOGO OTDELENIY
+TETIIV,moneygram,,unknown,OSCHADBANK - #10026-0805 - TOBO
+NOVOMYRHOROD,moneygram,,unknown,OSCHADBANK - TOBO - 10010-0144
+RIPKY,moneygram,,unknown,OSCHADBANK - TOBO 10024 0170
+HRADYZK,moneygram,,unknown,PRIVATBANK
+RUZHYN,moneygram,,unknown,OSCHADBANK - TOBO 10005 052 F-LA ZHITOMI
+KALANCHAK,moneygram,,unknown,OSCHADBANK - TOBO 10021 0116
+BARYSHIVKA,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+YELANETS,moneygram,,unknown,OSCHADBANK - TOBO 10014 0186 VOZNESENSKO
+SOLOMONOVO,moneygram,,unknown,UKREXIMBANK
+PUTYVL,moneygram,,unknown,OSCHADBANK - TOBO 10018 031 F-LA SUMSKOE
+VELYKA MYKHAILIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10015 0357
+MALA VYSKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0137
+KATERYNOPIL,moneygram,,unknown,OSCHADBANK - TOBO 10023 0107 F-LA CHERKA
+BERSHAD,moneygram,,unknown,UKRGASBANK - #144-01
+SHATSK,moneygram,,unknown,OSCHADBANK - TOBO 10002 095 VOLYNSKOGO F
+VELYKA BAHACHKA,moneygram,,unknown,OSCHADBANK - TOBO 10016 037
+HORODYSCHE,moneygram,,unknown,OSCHADBANK - TOBO 10023 075 F-LA CHERKAS
+ROHATYN,moneygram,,unknown,OSCHADBANK - OTD ROGATINSKOGO OTDELENIYA
+ZDOLBUNIV,moneygram,,unknown,OSCHADBANK - TOBO 10017 0150 F-LA - ROVE
+ROZHYSCHE,moneygram,,unknown,OSCHADBANK - TOBO 10002 053 VOLYNSKOGO F
+SOSNIVKA,moneygram,,unknown,OSCHADBANK - #10013-0140 - TOBO
+KRYNYCHKY,moneygram,,unknown,OSCHADBANK - #100030595 - TOBO
+SKADOVSK,moneygram,,unknown,PRIVATBANK - SKADOVSK
+SAKHNOVSCHYNA,moneygram,,unknown,OSCHADBANK - TOBO 10020 0339 F-LA HAR'KO
+LANIVTSI,moneygram,,unknown,OSCHADBANK - TOBO 10019 034 F-LA TERNOPO
+CHASIV YAR,moneygram,,unknown,OSCHADBANK - #10004-0292 - TOBO
+STAVYSCHE,moneygram,,unknown,OSCHADBANK - #10026-0823 - TOBO
+MAKARIV,moneygram,,unknown,OSCHADBANK - #10026-0773 - TOBO
+SHYSHAKY,moneygram,,unknown,OSCHADBANK - #10016-0189 - TOBO
+STARYI SAMBIR,moneygram,,unknown,OSCHADBANK - TOBO 10013 030
+VESELE,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0359
+PEREMYSHLIANY,moneygram,,unknown,OSCHADBANK - TOBO 10013 02
+POPILNIA,moneygram,,unknown,OSCHADBANK - TOBO 10005 075 F-LA ZHITOMI
+KOMPANIIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 050
+DNIPRORUDNE,moneygram,,unknown,OSCHADBANK 10027 - #67419540 - OSHHADBA
+DEMYDIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10017 084 F-LA - ROVEN
+VELYKI KOPANI,moneygram,,unknown,PRIVATBANK
+ZALISCHYKY,moneygram,,unknown,OSCHADBANK - TOBO 10019 046 F-LA TERNOPO
+RADEKHIV,moneygram,,unknown,OSCHADBANK - #10013-0121 - TOBO
+BOHORODCHANY,moneygram,,unknown,OSCHADBANK - TOBO 0008 055 IVANO - FRANK
+CHAPLYNKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0105
+DUBROVYTSIA,moneygram,,unknown,OSCHADBANK - TOBO 10017 0133 F-LA - ROVE
+ILARIONOVE,moneygram,,unknown,PRIVATBANK
+ZHURIVKA,moneygram,,unknown,PRIVATBANK
+KOZ'OVA,moneygram,,unknown,PRIVATBANK
+DOBROVELYCHKIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0125
+KRYVE OZERO,moneygram,,unknown,OSCHADBANK - TOBO 10014 0142 NIKOLAEVSKO
+CHUTOVE,moneygram,,unknown,OSCHADBANK - FILIAL - CHUTOVSKOE OTDELEN
+KROLEVETS,moneygram,,unknown,OSCHADBANK - TOBO 10018 034 F-LA SUMSKOE
+HNIVAN,moneygram,,unknown,OSCHADBANK - OTD. 10001 0173 F-LA VINNIC
+HORNOSTAIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0140
+VESELYNOVE,moneygram,,unknown,OSCHADBANK - VESELINOVSKOE TOBO 10014 01
+KOMARNO,moneygram,,unknown,OSCHADBANK - TOBO 10013 047 F-LA L'VOVSK
+KRASNI OKNY,moneygram,,unknown,OSCHADBANK - #100150477 - TOBO
+SHARHOROD,moneygram,,unknown,OSCHADBANK - OTD. 10001 041 F-LA VINNICK
+BRUSYLIV,moneygram,,unknown,OSCHADBANK - TOBO 10005 080 F-LA ZHITOMI
+MANHUSH,moneygram,,unknown,OSCHADBANK - #10004-0491 - TOBO
+SAMBOR,moneygram,,unknown,BANK LVIV
+GULIAIPOLE,moneygram,,unknown,PRIVATBANK
+VUHLEDAR,moneygram,,unknown,OSCHADBANK - TOBO 10004 024 F-LA - DONEC
+CHERVONOZAVODSKE,moneygram,,unknown,UKREXIMBANK - CHERVONOZAVODSKOE
+SKALAT,moneygram,,unknown,OSCHADBANK - TOBO 10019 040 F-LA TERNOPO
+KOZELSCHYNA,moneygram,,unknown,OSCHADBANK - #100160222 - TOBO
+SRIBNE,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0211
+OZERNE,moneygram,,unknown,OSCHADBANK - TOBO 10019 024 F-LA - TERNO
+VERKHN'ODNIPROVSK,moneygram,,unknown,PRIVATBANK
+KRASNOZNAMENKA,moneygram,,unknown,PRIVATBANK
+ILNYTSIA,moneygram,,unknown,PRIVATBANK
+VARVA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0148
+ZABOLOTIV,moneygram,,unknown,OSCHADBANK - OTD ZABOLOTOV OTDELENIYA 10
+BILOZIRIA,moneygram,,unknown,OSCHADBANK - TOBO - 10023-069
+MORSHYN,moneygram,,unknown,OSCHADBANK - #10013-0189 - TOBO
+MYKHAILIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0215
+DESNA,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0218
+OSTER,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0217
+NARODYCHI,moneygram,,unknown,OSCHADBANK - TOBO 10005 010 F-LA ZHITOMI
+YAREMCHE,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0126
+TARASCHA,moneygram,,unknown,OSCHADBANK - TOBO 10026 0649 F-LA GLAVNO
+SOLOTVYN,moneygram,,unknown,PRIVATBANK
+RUDNE,moneygram,,unknown,PRIVATBANK - #02U11
+UZYN,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0891
+HOSTOMEL,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0720
+FONTANKA,moneygram,,unknown,MARFIN BANK
+SCHASTIA,moneygram,,unknown,OSCHADBANK - #100120218 - TOBO
+NOVYI KALYNIV,moneygram,,unknown,PRIVATBANK
+BEREZNA,moneygram,,unknown,OSCHADBANK - TOBO -  10024-0228
+BOHUSLAV,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0644
+NEMISHAIEVE,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0792
+NOVA ZBURIVKA,moneygram,,unknown,PRIVATBANK
+VYSHNIVETS,moneygram,,unknown,PRIVATBANK
+MOLOCHANSK,moneygram,,unknown,OSCHADBANK 10027 - #67041992 - OSHHADBA
+LUKIV,moneygram,,unknown,PRIVATBANK
+POLIANYTSIA,moneygram,,unknown,PRIVATBANK - POLIANYTSIA - OTDELENIE BUK
+HORODNYTSIA,moneygram,,unknown,PRIVATBANK
+ILLINTSI,moneygram,,unknown,OSCHADBANK - OTD.ELENIE 10001 0148 F-LA
+DOVBYSH,moneygram,,unknown,PRIVATBANK
+TARASIVKA,moneygram,,unknown,PRIVATBANK
+KRIUKIVSCHYNA,moneygram,,unknown,PRIVATBANK
+HLEVAKHA,moneygram,,unknown,PRIVATBANK
+HORODNIA,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0117
+KAHARLYK,moneygram,,unknown,OSCHADBANK - TOBO 10026 0614 F-LA GLAVNO
+KOTSIUBYNSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0716
+VASYSCHEVE,moneygram,,unknown,PRIVATBANK
+TEREBOVLIA,moneygram,,unknown,OSCHADBANK - TOBO 10019 020 F-LA TERNOPO
+KHLIBODARSKE,moneygram,,unknown,OSCHADBANK - #100150578 - TOBO
+KHODORIV,moneygram,,unknown,OSCHADBANK - #10013-0174 - TOBO
+TLUMACH,moneygram,,unknown,OSCHADBANK - OTD TLUMACKOGO OTDELENIYA 1
+BRATSLAV,moneygram,,unknown,PRIVATBANK
+SVESA,moneygram,,unknown,OSCHADBANK - TOBO 10018 0105 F-LA SUMSKO
+VELYKYI OMELIANYK,moneygram,,unknown,OSCHADBANK - TOBO 10002 018 VOLYNSKOGO F
+VAPNIARKA,moneygram,,unknown,OSCHADBANK - OTD. 10001 021 F-LA VINNICK
+VOLOVETS,moneygram,,unknown,OSCHADBANK - OTD. 10006 0109
+PERECHYN,moneygram,,unknown,PRIVATBANK
+VOLODARSK-VOLYNSKYI,moneygram,,unknown,OSCHADBANK - TOBO 10005 020 F-LA ZHITOMI
+MALYN,moneygram,,unknown,OSCHADBANK - TOBO 10005 042 F-LA ZHITOMI
+SKVYRA,moneygram,,unknown,OSCHADBANK - TOBO 10026 0668 F-LA GLAVNO
+OTYNIIA,moneygram,,unknown,OSCHADBANK - OTD KOLOMIYS'KOE OTDELENIE
+PETROVE,moneygram,,unknown,PRIVATBANK
+NOVOAIDAR,moneygram,,unknown,OSCHADBANK - TOBO 10012 018 F-L LUGANSKO
+TALALAIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10024 0205
+STARA SYNIAVA,moneygram,,unknown,OSCHADBANK - TOBO 10022 099 F-LA HMEL'NI
+VINKIVTSI,moneygram,,unknown,OSCHADBANK - TOBO 10022 055 F-LA HMEL'NI
+KULYKIV,moneygram,,unknown,OSCHADBANK - #10013-0208 - TOBO
+CHYNADIIOVO,moneygram,,unknown,OSCHADBANK - OTD. 10006 094
+LADAN,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0314
+NOVA BOROVA,moneygram,,unknown,OSCHADBANK - TOBO 10005 021 F-LA ZHITOMI
+OBERTYN,moneygram,,unknown,OSCHADBANK - OTD TLUMACKOGO OTDELENIYA 1
+VODIANE,moneygram,,unknown,PRIVATBANK
+UKRAINSK,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0102
+BILOHORODKA,moneygram,,unknown,PRIVATBANK
+KUSHUHUM,moneygram,,unknown,PRIVATBANK
+LYPTSI,moneygram,,unknown,PRIVATBANK
+IVANO-FRANKOVE,moneygram,,unknown,OSCHADBANK - #10013-0286 - TOBO
+SARTANA,moneygram,,unknown,PRIVATBANK
+USTYNIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0121
+ROVENKY,moneygram,,unknown,PRIVATBANK
+VORONIVTSI,moneygram,,unknown,PRIVATBANK
+TROITSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0398
+PRYVILLIA,moneygram,,unknown,OSCHADBANK - #10012-092 - TOBO
+NOVOOLEKSIIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0150
+BEKHTERY,moneygram,,unknown,OSCHADBANK - TOBO 10021 0154
+NOVI SANZHARY,moneygram,,unknown,OSCHADBANK - TOBO 10016 0125 F-LA POLTAV
+KRIVIJ R?G,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+VELYKI DEDERKALY,moneygram,,unknown,OSCHADBANK - TOBO 10019 045 F-LA - TERNO
+KAMYANETSPODILSKYI,moneygram,,unknown,OSCHADBANK - #10022-0145 - TOBO
+CHERNIGOV,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0280
+KOMUNIST,moneygram,,unknown,OSCHADBANK - TOBO 10020 0424 F-LA HAR'KO
+MSHANA,moneygram,,unknown,OSCHADBANK - TOBO 10013 048
+NOVYI-KALYNIV,moneygram,,unknown,OSCHADBANK - #10013-0221 - TOBO
+VELYKA PYSARIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10018 013 F-LA SUMSKOE
+KOZOVA,moneygram,,unknown,OSCHADBANK - TOBO 10019 01 F-LA TERNOPOL
+SIVERSK,moneygram,,unknown,OSCHADBANK - #10004-0298 - TOBO
+VYSHKOVO,moneygram,,unknown,OSCHADBANK - OTD. 10006 0116
+VYNNYKY,moneygram,,unknown,PRIVATBANK - VYNNYKY - VINNIKOVSKOE OTD
+HIRNYK,moneygram,,unknown,PRIVATBANK - HIRNYK - GORNYAK
+SKHIDNYTSIA,moneygram,,unknown,OSCHADBANK - TOBO 10013 019
+BELZ,moneygram,,unknown,OSCHADBANK - TOBO 6333 035
+PALIANYTSIA,moneygram,,unknown,OSCHADBANK - TOBO 0008 0128 IVANO - FRAN
+L'V?V,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+ZAPYTIV,moneygram,,unknown,OSCHADBANK - #10013-0236 - TOBO
+SUDOVA VYSHNIA,moneygram,,unknown,OSCHADBANK - #10013-0102 - TOBO
+KRASNE,moneygram,,unknown,OSCHADBANK - #10013-060 - TOBO
+LOPATYN,moneygram,,unknown,OSCHADBANK - #10013-0115 - TOBO
+VELYKYI LIUBIN,moneygram,,unknown,OSCHADBANK - TOBO 10013 040 F-LA L'VOVSK
+RZHYSCHIV,moneygram,,unknown,OSCHADBANK - TOBO 10026 0629 F-LA GLAVNO
+BROVARI,moneygram,,unknown,OSCHADBANK - #TOBO - 10026-0741 - TOBO
+VOROZHBA,moneygram,,unknown,OSCHADBANK - TOBO 10018 082 F-LA SUMSKOE
+ULIANIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 095
+MAYAKI,moneygram,,unknown,OSCHADBANK - TOBO 10002 023 VOLYNSKOGO F
+ZABOLOTTIA,moneygram,,unknown,OSCHADBANK - TOBO 10002 075 VOLYNSKOGO F
+STEPAN,moneygram,,unknown,OSCHADBANK - TOBO 10017 0116 F-LA - ROVE
+BOROVE,moneygram,,unknown,OSCHADBANK - TOBO 10017 0179 F-LA - ROVE
+YASINIA,moneygram,,unknown,PRIVATBANK - YASINIA - YASINYANSKOE OTDE
+KAM'YANSKE,moneygram,,unknown,BANK CREDIT DNEPR - KAM'YANSKE - KAM'YAN
+TYMOSHIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0218
+VELYKA ZNAMIANKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0233
+LUZHANY,moneygram,,unknown,OSCHADBANK - TOBO 10025 086 F-LA CHERNOV
+KL?SHK?VC?,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO  10
+DACHNE,moneygram,,unknown,OSCHADBANK - #10015-0423 - TOBO
+IZMAYIL,moneygram,,unknown,OSCHADBANK - OSHHADBANK TOBO 10015/0457
+?ZMA?L,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+SLOVECHNE,moneygram,,unknown,OSCHADBANK - TOBO 10005 07 F-LA ZHITOMIR
+DNIPROVKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0234
+OSYPENKO,moneygram,,unknown,OSCHADBANK - TOBO 10007 0352
+NERUBAISKE,moneygram,,unknown,OSCHADBANK - #10015-0421 - TOBO
+KHOLODNA BALKA,moneygram,,unknown,OSCHADBANK - #10015-0424 - TOBO
+NOVE,moneygram,,unknown,OSCHADBANK - TOBO 10010 035
+PETROVO,moneygram,,unknown,OSCHADBANK - TOBO 10010 0107
+SHULHYNKA,moneygram,,unknown,OSCHADBANK - TOBO 10012 043
+SOSNOVE,moneygram,,unknown,OSCHADBANK - TOBO 10017 0142 F-LA - ROVE
+RAKOSHYNO,moneygram,,unknown,OSCHADBANK - OTD. 10006 077
+ZALIZTSI,moneygram,,unknown,OSCHADBANK - TOBO 10019 025 F-LA - TERNO
+HRYMAILIV,moneygram,,unknown,OSCHADBANK - TOBO 10019 031 F-LA - TERNO
+VELYKA BILOZERKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0239
+NOVODNIPROVKA,moneygram,,unknown,OSCHADBANK - TOBO 10007 0238
+DVORICHNE,moneygram,,unknown,OSCHADBANK - #10020-0553 - TOBO
+RUSKA POLIANA,moneygram,,unknown,OSCHADBANK - TOBO 10023 053 F-LA CHERKAS
+CHERVONYI DONETS,moneygram,,unknown,OSCHADBANK - TOBO 10020 0483 F-LA HAR'KO
+BATURYN,moneygram,,unknown,OSCHADBANK - TOBO 10024 0253
+YALTA,moneygram,,unknown,OSCHADBANK - #10004-0492 - TOBO
+POKROV,moneygram,,unknown,BANK CREDIT DNEPR - POKROV - POKROVSKOE
+VERKHNODNIPROVSK,moneygram,,unknown,OSCHADBANK - #100030588 - TOBO
+SHYROKA BALKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0109
+LOZUVATKA,moneygram,,unknown,OSCHADBANK - #10003-0366 - TOBO
+HVARDIISKE,moneygram,,unknown,OSCHADBANK - #100030539 - TOBO
+NOVA ZBRUIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10021 0156
+G.KHAR'KOV,moneygram,,unknown,OSCHADBANK - TOBO 10020 0260 F-LA HAR'KO
+PODGAYTSY,moneygram,,unknown,OSCHADBANK - TOBO 10019 033 F-LA TERNOPO
+BILENKE,moneygram,,unknown,OSCHADBANK - TOBO 10007 0291
+TOVSTE,moneygram,,unknown,OSCHADBANK - TOBO 10019 047 F-LA TERNOPO
+VASYLKIVKA,moneygram,,unknown,OSCHADBANK - #10003-0403 - TOBO
+SEREDNE,moneygram,,unknown,OSCHADBANK - OTD. 10006 014
+ROKOSOVO,moneygram,,unknown,OSCHADBANK - OTD. 10006 0118
+VELYKA HOROZHANKA,moneygram,,unknown,OSCHADBANK - #10013-097 - TOBO
+NOVI PETRIVTSI,moneygram,,unknown,OSCHADBANK - #10026-0727 - TOBO
+GULIAYPOLE,moneygram,,unknown,OSCHADBANK 10027 - #67053414 - OSHHADBA
+KYRYLIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0321
+ZNOB-NOVHORODSKE,moneygram,,unknown,OSCHADBANK - TOBO 10018 0107 F-LA SUMSKO
+NOVYI YARYCHIV,moneygram,,unknown,OSCHADBANK - #10013-0231 - TOBO
+PIDKAMIN,moneygram,,unknown,OSCHADBANK - #10013-0155 - TOBO
+PAVLIV,moneygram,,unknown,OSCHADBANK - #10013-0113 - TOBO
+ZHURAVNO,moneygram,,unknown,OSCHADBANK - #10013-0170 - TOBO
+NOVOHUIVYNSKE,moneygram,,unknown,OSCHADBANK - TOBO 10005 027 F-LA ZHITOMI
+MALIN,moneygram,,unknown,OSCHADBANK - TOBO 10005 040 F-LA ZHITOMI
+STAROVOYTOVO,moneygram,,unknown,OSCHADBANK - TOBO 10002 094 VOLYNSKOGO F
+DASHIV,moneygram,,unknown,OSCHADBANK - OTD. 10001 0149 F-LA VINNIC
+DOBROPOLE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-02
+PAVLYSH,moneygram,,unknown,OSCHADBANK - TOBO 10010 088
+VLASIVKA,moneygram,,unknown,OSCHADBANK - TOBO 10010 0118
+ULANIV,moneygram,,unknown,OSCHADBANK - OTD. 10001 0122 F-LA VINNIC
+MIZOCH,moneygram,,unknown,OSCHADBANK - TOBO 10017 0101 F-LA - ROVE
+MILOVE,moneygram,,unknown,PRIVATBANK - MILOVE - MELOVSKOE
+BILOLUTSK,moneygram,,unknown,PRIVATBANK - BILOLUTSK
+M. ZOLOTE,moneygram,,unknown,OSCHADBANK - #100120192 - OSHHADBANK TO
+CHERN?G?V,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO  10
+ZHOVTANTSI,moneygram,,unknown,OSCHADBANK - #10013-0233 - TOBO
+MURNOGRAD,moneygram,,unknown,OSCHADBANK - #10004-0241 - TOBO
+YERKY,moneygram,,unknown,OSCHADBANK - TOBO - 10023-0111
+YELIZAVETIVKA,moneygram,,unknown,OSCHADBANK - #100030569 - TOBO
+URZUF,moneygram,,unknown,OSCHADBANK - #10004-0493 - TOBO
+NOVODRUZHESK,moneygram,,unknown,OSCHADBANK - TOBO - 10012-091
+KRASNORICHENSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10012-027
+PISKY,moneygram,,unknown,OSCHADBANK - TOBO - 10012-050
+SLAVSKE,moneygram,,unknown,OSCHADBANK - #10013-0182 - TOBO
+SLAVHOROD,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0387
+PONORNYTSIA,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0119
+PIDHORODNE,moneygram,,unknown,PRIVATBANK - PIDHORODNE - PODGORODNOE-1
+OLSHANY,moneygram,,unknown,OSCHADBANK - TOBO- 10020-0433
+CHAPAIEVE,moneygram,,unknown,OSCHADBANK - TOBO- 10020-0443
+SOKYRNYTSIA,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0119
+VELIATYNO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0120
+SOFIIVSKA BORSHCHAGIVKA,moneygram,,unknown,RWSBANK - SOFIIVSKA BORSHCHAGIVKA - BORS
+KRYVIY RIH,moneygram,,unknown,BANK VOSTOK - #39 - KRYVIY RIH
+ZHOVT? VODI,moneygram,,unknown,OSCHADBANK 10027 - OSHHADBANK TOBO 100
+KOBAKY,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0156
+PISTYN,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0153
+VELYKI KOM'IATY,moneygram,,unknown,OSCHADBANK - TOBO - 10006-063
+NOVODONETSKE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-07
+KIROVE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0407
+ARTEMOVE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0422
+VELYKI BIRKY,moneygram,,unknown,OSCHADBANK - TOBO - 10019-04
+BILOBOZHNYTSIA,moneygram,,unknown,OSCHADBANK - TOBO - 10019-056
+KRASNOSILKA,moneygram,,unknown,PRIVATBANK - KRASNOSILKA - OTDELENIE SUV
+KURAKHIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10004-093
+IRKLIIV,moneygram,,unknown,OSCHADBANK - TOBO - 10023-0300
+POCHAEV,moneygram,,unknown,PRIVATBANK - POCHAEV - POCZAJEVO OTD
+VELIKA DOBRON,moneygram,,unknown,PRIVATBANK - VELIKA DOBRON - VELIKODODRO
+BORSHCHEV,moneygram,,unknown,PRIVATBANK - BORSHCHEV - BORSHCHOVSKOE O
+ZNAMYANKA,moneygram,,unknown,INDUSTRIALBANK - ZNAMYANKA - BRANCH 1 ZN
+KREMENCHUD,moneygram,,unknown,INDUSTRIALBANK - KREMENCHUD - BRANCH 4 K
+GORISHNY PLAVNY,moneygram,,unknown,INDUSTRIALBANK - GORISHNY PLAVNY - BRANC
+MARINKA,moneygram,,unknown,OSCHADBANK - MARINKA - TOBO - 10004-0396
+CHAHOR,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0105
+KOMYSH-ZORIA,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0262
+YAZLOVETS,moneygram,,unknown,OSCHADBANK - TOBO - 10019-06
+DOBROMYL,moneygram,,unknown,OSCHADBANK - TOBO - 10013-033
+CHEREPKIVTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0100
+BARYSH,moneygram,,unknown,OSCHADBANK - TOBO - 10019-049
+ZGHURIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0608
+LYPCHA,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0122
+HANYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0155
+KOLINKIVTSI,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0127
+CHUDEI,moneygram,,unknown,OSCHADBANK - TOBO - 10025-0147
+MALA DIVYTSIA,moneygram,,unknown,OSCHADBANK - TOBO - 10024-0327
+BORISPL',moneygram,,unknown,OSCHADBANK - TOBO - 10026-0556
+HREBINKY,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0697
+KLAVDIIEVO-TARASOVE,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0794
+DYMER,moneygram,,unknown,OSCHADBANK - TOBO - 10026-0729
+BATIATYCHI,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0227
+OBROSHYNO,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0124
+KOZLIV,moneygram,,unknown,OSCHADBANK - TOBO - 10019-059
+NOVYTSIA,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0145
+VERKHNIA,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0150
+DRAHOVO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0115
+HORINCHEVO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0117
+ZOLOTAREVO,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0123
+SHCHYRETS,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0128
+SOLONKA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0130
+LYSETS,moneygram,,unknown,OSCHADBANK - TOBO - 10008-067
+DZVYNIACH,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0100
+HOLYN,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0143
+KROPYVNYK,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0147
+DYMYTROVE,moneygram,,unknown,OSCHADBANK - TOBO - 10010-0151
+PIDMYKHAILIA,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0146
+BIBRKA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-08
+KHYRIV,moneygram,,unknown,OSCHADBANK - TOBO - 10013-035
+KAM'IANKA-BUZKA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0241
+MEDZHYBIZH,moneygram,,unknown,OSCHADBANK - TOBO - 10022-048
+ZAITSEVE,moneygram,,unknown,OSCHADBANK - TOBO - 10004-0419
+KORSHIV,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0138
+S. KRYZHANIVKA,moneygram,,unknown,BANK VOSTOK - #42 - S. KRYZHANIVKA
+GORA,moneygram,,unknown,PJSC MARFIN BANK - GORA - BORISPOLSKOE O
+DOLINA,moneygram,,unknown,PJSC TASCOMBANK - #90 - DOLINA - DOLINSK
+KOSOV,moneygram,,unknown,PJSC TASCOMBANK - #91 - KOSOV - KOSOVSKO
+VINOGRADOV,moneygram,,unknown,PJSC TASCOMBANK - #95 - VINOGRADOV - VIN
+BEREZNYKY,moneygram,,unknown,OSCHADBANK - TOBO - 10006-0107
+DOBROSYN,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0204
+ZAVODIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0406
+ORZHIV,moneygram,,unknown,OSCHADBANK - TOBO - 10017-059
+ROZKVIT,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0407
+TURYNKA,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0209
+HIICHE,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0212
+OLESKO,moneygram,,unknown,OSCHADBANK - TOBO - 10013-052
+HULIAIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0411
+ZORIA,moneygram,,unknown,OSCHADBANK - TOBO - 10017-060
+SHKLO,moneygram,,unknown,OSCHADBANK - TOBO - 10013-0277
+NERUSHAI,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0381
+ANDRIIEVO-IVANIVKA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0383
+ISAIEVE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0384
+STRIUKOVE,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0385
+MYROPIL,moneygram,,unknown,OSCHADBANK - TOBO - 10005-082
+SLOBIDKA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0393
+KINSKI ROZDORY,moneygram,,unknown,OSCHADBANK - TOBO - 10007-0257
+KAROLINO-BUHAZ,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0335
+NYVA TRUDOVA,moneygram,,unknown,OSCHADBANK - TOBO - 10003-0338
+MYKULYCHYN,moneygram,,unknown,OSCHADBANK - TOBO - 10008-0127
+MIZIKEVYCHA,moneygram,,unknown,OSCHADBANK - TOBO - 10015-0547
+Kiev,newyorker,Generala Vatutina str. 2 t 02660 Kiev,unknown,NEW YORKER | Sky Mall
+Odessa,newyorker,Kominternivsky 67571 Odessa,unknown,NEW YORKER | Riviera Shopping City
+Kharkov,newyorker,Akademika Pavlova Str. 44b 61038 Kharkov,unknown,NEW YORKER | Franzusskij Bulvar
+Odessa,newyorker,Nebesnoi Sotni Ave 2 65000 Odesa,unknown,NEW YORKER | City Center
+Kiev,newyorker,Ul. Gnata Khotkevicha 1b 02100 Kiev,unknown,NEW YORKER | SC Prospekt
+Krivoj Rog,newyorker,SC Sunny Gallery Ploshad 30-letiya Pobedy 50000 Krivoj Rog,unknown,NEW YORKER | SC Sunny Gallery
+Sumy,newyorker,Ul. Kharkovskaya 2 40000 Sumy,unknown,NEW YORKER | SC Manufaktura
+Kiev,newyorker,Antonovycha St 176 03150 Kiev,unknown,NEW YORKER | ТРЦ Ocean Plaza
+Kiev,newyorker,Ul. Berkovetskaya 6D 04128 Kiev,unknown,NEW YORKER | Lavina Mall
+Kiev,newyorker,Dniprovskaya Naberezhnaya Str. 10-14 02000 Kiev,unknown,NEW YORKER | SC River Mall
+Kiev,newyorker,Kolzevaya Doroga 1 03170 Kiev,unknown,NEW YORKER | Respublika
+Chernigov,newyorker,Ul. 77 Gvardejskoj Devisii 1B 14000 Chernigov,unknown,NEW YORKER | Hollywood Mall
+Lviv,newyorker,Kulparkivska St 226А 79000  Lviv Oblast,unknown,"NEW YORKER | LVIV, SC"
+Kiev,newyorker,Prospekt Pravdy  SC Retroville 04208 Kiev,unknown,NEW YORKER | SC RETRO
+Dnepr,newyorker,Ul. Titova 36 49055 Dnepr,unknown,NEW YORKER | SC Apollo
+Kharkov,newyorker,Ul. Puschkinskaja 2 61057 Kharkov,unknown,NEW YORKER | Trts Nikolʹsʹkyy
+Kyiv,nike,,unknown,Nike River Mall
+Odesa,nike,,unknown,Nike Preobrazhenska
+Вишгород,novus_ua,,unknown,Novus
+Біла Церква,novus_ua,,unknown,Novus
+Буча,novus_ua,,unknown,Novus
+Бровари,novus_ua,,unknown,Novus
+Бориспіль,novus_ua,,unknown,Novus
+Київ,novus_ua,,unknown,Novus
+с. Чайки,novus_ua,,unknown,Novus
+с. Софіївська Борщагівка,novus_ua,,unknown,Novus
+с. Петропавлівська Борщагівка,novus_ua,,unknown,Novus
+с. Крюківщина,novus_ua,,unknown,Novus
+Тернопіль,novus_ua,,unknown,Novus
+Рівне,novus_ua,,unknown,Novus
+Новосілки,novus_ua,,unknown,Novus
+Новi Петрiвцi,novus_ua,,unknown,Novus
+Миколаїв,novus_ua,,unknown,Novus
+Ірпінь,novus_ua,,unknown,Novus
+Вишневе,novus_ua,,unknown,Novus
+Kiev,ovs,,unknown,OVS Kids Kiev - Petrivika
+м. Краматорськ,renault,,unknown,Компанія Алекс
+м.Маріуполь,renault,,unknown,"Філія ""Компанія Алекс"" (Тимчасово не працює)"
+Дніпро,renault,,unknown,Сінгл-Мотор
+Харків,renault,,unknown,Соллі Плюс
+м. Львів,renault,,unknown,Галич-Моторс
+м. Полтава,renault,,unknown,Соллі Плюс Полтава
+Луцьк,renault,,unknown,Луцьк-Експо
+Запоріжжя,renault,,unknown,Адамант Моторс Запоріжжя
+Київ,renault,,unknown,"ТД ""Фаворит авто Київ"""
+"Дніпровський р-н, смт. Слобожанське",renault,,unknown,Автотрейдінг-Дніпро
+Біла Церква,renault,,unknown,Європа Плюс
+Кривий Рiг,renault,,unknown,Нара-авто
+Львів,renault,,unknown,Ю.Р.К.
+Чернівці,renault,,unknown,Автоподіум
+Вінниця,renault,,unknown,"ТД ""Фаворит авто Вінниця"""
+м. Херсон,renault,,unknown,ЦЕНТР ХЕРСОН
+Хмельницький,renault,,unknown,"ТД ""Фаворит авто"""
+Івано-Франківськ,renault,,unknown,В.С.К.
+Кременчук,renault,,unknown,Соллі Плюс Кременчук
+Одеса,renault,,unknown,"Філія ""Авто Груп+ Суворовський"""
+м. Рівне,renault,,unknown,ВІК ПАРТНЕР
+Кропивницький,renault,,unknown,Моторкар Кропивницький
+Ізмаїл,renault,,unknown,"Філія ""Авто Груп+"" Ізмаїл"
+м. Чернігів,renault,,unknown,Адамант Моторс Чернігів
+Миколаїв,renault,,unknown,М-Моторс
+с.Клячаново Мукачівський р-н,renault,,unknown,Авто Акорд
+Суми,renault,,unknown,Соллі Плюс Суми
+Умань,renault,,unknown,Автоцентр-АВМ
+Дрогобич,renault,,unknown,"Офіційний сервіс Renault ""Доброта"""
+Тернопіль,renault,,unknown,ТЕРКО АВТО ЦЕНТР
+Черкаси,renault,,unknown,Автогор
+м.Житомир,renault,,unknown,Полісся Моторс Груп
+Chynadiyovo,scania,,unknown,Scania Mukachevo
+Dnipropetrovsk Region,scania,,unknown,Dnipro-Scan-Service Ltd.
+Kalynivka village,scania,,unknown,Scania Kyiv
+"Dergachiv district, Kharkiv region",scania,,unknown,Kharkiv Scan
+"Kryvyy Rih, Dnipropetrovs'k region",scania,,unknown,Scania Kryvyi Rih
+"Riasne-Ruske, Lvivskii distr., Lviv region",scania,,unknown,Scania Lviv
+"Lypyny village, Lutsk district, Volyn region",scania,,unknown,Scania Lutsk
+"Odesa region, Odesa district, village Lativka (Kotovka)",scania,,unknown,Scania Odesa
+Poltava,scania,,unknown,Poltava Scan
+Vinnytsia City,scania,,unknown,Vinnytsia Scan LLC
+Kiev,shell,,unknown,COCA-COLA
+Sofiivs'ka Borshchahivka,shell,,unknown,PETROVSKOE
+Vita-Pochtovaya,shell,,unknown,VITA-POCHTOVAYA
+BUCHA,shell,,unknown,BOOTCHA
+Pidgirtsi,shell,,unknown,PIDGIRTSI RIGHT
+Knyazhichi,shell,,unknown,KNYAZHICHI
+Alexandrovka,shell,,unknown,NEZALEZHNOSTI
+Gora,shell,,unknown,GORA
+Makarov,shell,,unknown,YURIEV
+Nebelytsya,shell,,unknown,NEBYLITSY
+Grebinky,shell,,unknown,GREBYONKI 1
+Uzin,shell,,unknown,UZIN
+Belaja Tserkov,shell,,unknown,I. KOZHEDUBA 1
+Berezan,shell,,unknown,BEREZAN 2
+Khmelnitskiy,shell,,unknown,TRUDOVAJA
+Korostyshiv,shell,,unknown,KOROSTYSHEV
+Skvira,shell,,unknown,SKVIRA
+Zhytomyr,shell,,unknown,OSVOBOZHDENIYA
+Cherkassy,shell,,unknown,SMELJANSKAJA
+Uman,shell,,unknown,UMAN
+Strizhevka,shell,,unknown,STRIZHEVKA
+Vinnytsia,shell,,unknown,PIROGOVA
+Chigirin,shell,,unknown,CHIGIRIN
+Sokolovsky,shell,,unknown,SOKOLOVSKOE
+Sokolovka,shell,,unknown,SOKOLOVKA
+Baraninci,shell,,unknown,BARANINCI
+Uzhhorod,shell,,unknown,SOLOMONOVO
+Klyachanovo,shell,,unknown,MUKACHEVO
+Mukachevo,shell,,unknown,MASARYKA
+ODESSA,shell,,unknown,NASTASIIVSKA-RIGHT
+Kuchurgan,shell,,unknown,KUCHURGAN
+Nerubaiske,shell,,unknown,NERUBAISKOE
+Sukhoy Liman,shell,,unknown,SUKHOY LIMAN
+Yuzhny,shell,,unknown,JUZHNIJ
+Nikolayev,shell,,unknown,BOGOYAVLENSKIJ
+Kolarivska Village,shell,,unknown,KOLARIVSKA
+Taborovka,shell,,unknown,VOZNESENSK
+Znamenka,shell,,unknown,ZNAMENKA
+Baburko,shell,,unknown,BABURKO
+Zaporozhye,shell,,unknown,TIRAZHNAYA
+Dnepropetrovsk,shell,,unknown,MAR'YANІVS'KA
+Pavlograd,shell,,unknown,PAVLOGRAD
+Reshetilovka,shell,,unknown,RESHETILOVKA LEFT
+Pesochyn,shell,,unknown,PISOCHYN
+Kharkov,shell,,unknown,TSIRKUNI
+Lubomil,shell,,unknown,LUBOMIL
+Krakovets,shell,,unknown,KRAKOVETS
+Mikhaylovka,shell,,unknown,MIKHAJLOVKA
+Bugayovka,shell,,unknown,BUGAJOVKA
+Lutsk,shell,,unknown,LUTSK
+Ternopil,shell,,unknown,TERNOPІL' 2
+Chizhikiv,shell,,unknown,CHIZHIKIV
+Lvov,shell,,unknown,DEREVACH
+Veliki Gribovichi,shell,,unknown,GRIBOVICHI
+Pasiky-Zybritskie,shell,,unknown,PASIKY-ZUBRITSKIE
+Rakovets,shell,,unknown,RAKOVETS
+Baglayky,shell,,unknown,BAGLAJKI
+Skarzhentsy,shell,,unknown,SKARZHINTSI
+Kopystyn,shell,,unknown,KOPYSTYN
+Cherneev,shell,,unknown,IVANO-FRANKIVSK
+Goloskov,shell,,unknown,GOLOSKOV
+Staryi Liubar,shell,,unknown,STARYJ LYUBAR
+Kamenets Podolskiy,shell,,unknown,PRIVOKZALNAJA
+Dovzhok,shell,,unknown,DOVZHOK
+Chernovtsi,shell,,unknown,CHERNOVTSI
+Koroviya,shell,,unknown,KOROVIYA
+Kyiv,sixt,,unknown,Car Hire Kiev Zhuliany Airport | SIXT rent a car
+Uzhhorod,sixt,,unknown,Car Hire Uzhhorod | SIXT rent a car
+Zaporizhia,sixt,,unknown,Car Hire Zaporizhia/Intourist Hotel | SIXT rent a car
+Ivano-Frankivsk,sixt,,unknown,Car Hire Ivano-Frankivsk Airport | SIXT rent a car
+Kharkiv,sixt,,unknown,Car Hire Kharkiv Airport | SIXT rent a car
+Dnipro,sixt,,unknown,Car Hire Dnipro Airport | SIXT rent a car
+Odessa,sixt,,unknown,Car Hire Odessa Airport | SIXT rent a car
+Lviv,sixt,,unknown,Car Hire Lviv Airport | SIXT rent a car
+Kryvyi Rih,sixt,,unknown,Car Hire Kryvyi Rih/Reikartz Aurora Htl | SIXT rent a car
+Ivano Frankivsk,sixt,,unknown,Car Hire Ivano Frankivsk | SIXT rent a car
+Truskavets,sixt,,unknown,Car Hire Truskavets | SIXT rent a car
+unknown,skoda,,unknown,ТОВ «Моторкрафт»
+Lviv,speed_queen,,unknown,Speed Queen
+Lvov,speed_queen,,unknown,Speed Queen
+Kyiv,the_north_face_eu,,unknown,GoFree
+Kiev,timberland,,unknown,Timberland Kiev
+Dnipropetrovsk Oblast,timberland,,unknown,Timberland - Dnepropetrovsk
+Kharkiv,timberland,,unknown,Timberland - Timberland - Kharkiv
+Zaporozhie,timberland,,unknown,Timberland - Zaporozhie
+Odessa,timberland,,unknown,Timberland Odessa
+Kherson,timberland,,unknown,Timberland Kherson
+Lviv,timberland,,unknown,"Timberland&#xae - Shopping Mall ""Forum"""
+Kharkov,timberland,,unknown,Timberland Kharkov
+Dnepropetrovsk,timberland,,unknown,Timberland Dnepropetrovsk
+Zaporozhye,timberland,,unknown,Timberland Zaporozhye
+Kiev,tommy_hilfiger,,unknown,Tommy Hilfiger
+Dnepropetrovsk,tommy_hilfiger,,unknown,Tommy Hilfiger
+Odessa,tommy_hilfiger,,unknown,Tommy Jeans
+Kharkov,tommy_hilfiger,,unknown,Tommy Jeans
+LVIV,totalenergies,,unknown,LVIV RING
+KRAKOVEC,totalenergies,,unknown,KRAKOVEC
+RAVA RUSKA,totalenergies,,unknown,RAVA RUSKA
+UZGOROD,totalenergies,,unknown,UZGOROD
+VILOK VILLAGE,totalenergies,,unknown,VILOK
+OSTRYTSIA,totalenergies,,unknown,OSTRYTSIA 2
+ODESSA,totalenergies,,unknown,ODESSA 2
+KALYNIVKA,totalenergies,,unknown,KIEV 1
+FURMANKA,totalenergies,,unknown,FURMANKA
+LADYZHYNKA,totalenergies,,unknown,LADYZHYNKA
+ЧЕРНІГІВ,totalenergies,,unknown,АВТОДРАЙВ-СЕРВІС
+ЧИНАДІЄВО,totalenergies,,unknown,"ТОВ АВТОКОМПЛЕКТ"""""
+ЛУЦЬК,totalenergies,,unknown,АВТОДІМСЕРВІС
+МИКОЛАЇВ,totalenergies,,unknown,EURO TRUCK SERVICE
+ЖИТОМИР,totalenergies,,unknown,АВТО ГЛАСС СЕРВІС
+KIEV,united_colors_of_benetton,,unknown,Benetton Kiev
+HARKOV,united_colors_of_benetton,,unknown,Benetton Harkov
+ODESSA,united_colors_of_benetton,,unknown,Benetton Odessa
+LVOV,united_colors_of_benetton,,unknown,Benetton Lvov
+KHARKOV,united_colors_of_benetton,,unknown,Benetton Kharkov
+ROMNY,visa,,unknown,unknown
+ZAPORIZHZHIA,visa,,unknown,unknown
+DNIPRO,visa,,unknown,unknown
+POLTAVA,visa,,unknown,unknown
+KROPYVNYTSKYY,visa,,unknown,unknown
+RENI,visa,,unknown,unknown
+RENІ,visa,,unknown,unknown
+HORISHNI PLAVNI,visa,,unknown,unknown
+IZMAYIL,visa,,unknown,unknown
+KYIV,visa,,unknown,unknown
+IZMAIL,visa,,unknown,unknown
+IZMAYID,visa,,unknown,unknown
+PYITERFOLVO,visa,,unknown,unknown
+IZMAYL,visa,,unknown,unknown
+VYLOK,visa,,unknown,unknown
+BEREHOVE,visa,,unknown,unknown
+BEREHOVO,visa,,unknown,unknown
+BEREGOVE,visa,,unknown,unknown
+UZHGOROD,visa,,unknown,unknown
+KOSON,visa,,unknown,unknown
+BEREGOVO,visa,,unknown,unknown
+CHEPA,visa,,unknown,unknown
+CHORNOTYSIV,visa,,unknown,unknown
+SOLOMONOVO,visa,,unknown,unknown
+PIDVYNOHRADIV,visa,,unknown,unknown
+CHOP,visa,,unknown,unknown
+VELYKI BEREHY,visa,,unknown,unknown
+VYNOHRADIV,visa,,unknown,unknown
+VYNOGRADIV,visa,,unknown,unknown
+VINOGRADOVO,visa,,unknown,unknown
+SHAYAN,visa,,unknown,unknown
+VELYKA DOBRON,visa,,unknown,unknown
+KOROLEVO,visa,,unknown,unknown
+VYSHKOVO,visa,,unknown,unknown
+VINNYTSA,visa,,unknown,unknown
+BOLHRAD,visa,,unknown,unknown
+BOLGRAD,visa,,unknown,unknown
+TIACHIV,visa,,unknown,unknown
+TYACHIV,visa,,unknown,unknown
+NERESNYTSYA,visa,,unknown,unknown
+BUSHTYNO,visa,,unknown,unknown
+KHARKIV,visa,,unknown,unknown
+TERESVA,visa,,unknown,unknown
+VELYKI LUCHKY,visa,,unknown,unknown
+BEDEVLIA,visa,,unknown,unknown
+KHUST,visa,,unknown,unknown
+CHASLOVTSI,visa,,unknown,unknown
+HUST,visa,,unknown,unknown
+SOLOTVYNO,visa,,unknown,unknown
+HRUSHOVO,visa,,unknown,unknown
+SUVOROVE,visa,,unknown,unknown
+ROZIVKA,visa,,unknown,unknown
+MUKACHEVO,visa,,unknown,unknown
+IRSHAVA,visa,,unknown,unknown
+KILIYA,visa,,unknown,unknown
+KILIIA,visa,,unknown,unknown
+UZHHOROD,visa,,unknown,unknown
+CHUHUYIV,visa,,unknown,unknown
+MUKACHEVE,visa,,unknown,unknown
+VELYKI LAZY,visa,,unknown,unknown
+SEREDNIE,visa,,unknown,unknown
+UZGHOROD,visa,,unknown,unknown
+SEVERODONETSK,visa,,unknown,unknown
+VELYKYY BYCHKIV,visa,,unknown,unknown
+VELYIKYY BYCHKIV,visa,,unknown,unknown
+VELYKYI BYCHKIV,visa,,unknown,unknown
+BYCHKIV,visa,,unknown,unknown
+V.BYCHKIV,visa,,unknown,unknown
+BILKY,visa,,unknown,unknown
+ILNYTSIA,visa,,unknown,unknown
+TERNOVO,visa,,unknown,unknown
+V.VODYANE,visa,,unknown,unknown
+VILKHIVTSI,visa,,unknown,unknown
+UHLIA,visa,,unknown,unknown
+ONOKIVTSI,visa,,unknown,unknown
+NERESNYTSIA,visa,,unknown,unknown
+CHYNADIEVO,visa,,unknown,unknown
+NOVOSELITSA,visa,,unknown,unknown
+CHYNADIIOVO,visa,,unknown,unknown
+KOSIVSKA POLYANA,visa,,unknown,unknown
+VYLKOVE,visa,,unknown,unknown
+DRAGOVO,visa,,unknown,unknown
+DOVGE,visa,,unknown,unknown
+DOVHE,visa,,unknown,unknown
+KALYNY,visa,,unknown,unknown
+RAKHIV,visa,,unknown,unknown
+DUBOVE,visa,,unknown,unknown
+PERECHYN,visa,,unknown,unknown
+KERETSKY,visa,,unknown,unknown
+SVALIAVA,visa,,unknown,unknown
+SVALYAVA,visa,,unknown,unknown
+PERECHIN,visa,,unknown,unknown
+TURYI REMETY,visa,,unknown,unknown
+BOGDAN,visa,,unknown,unknown
+SOLOCHYN,visa,,unknown,unknown
+SOLYCHYN,visa,,unknown,unknown
+POLIANA,visa,,unknown,unknown
+DUBRYNYCHI,visa,,unknown,unknown
+KVASY,visa,,unknown,unknown
+VELYKYJ BEREZNYJ,visa,,unknown,unknown
+VELYKYI BEREZNYI,visa,,unknown,unknown
+KOLOCHAVA,visa,,unknown,unknown
+VELYKYY BEREZNYY,visa,,unknown,unknown
+MIZHHIRIA,visa,,unknown,unknown
+MIZHHIR'YA,visa,,unknown,unknown
+MIZHGIRYA,visa,,unknown,unknown
+MEZHGIRYA,visa,,unknown,unknown
+VOLOVETS,visa,,unknown,unknown
+PILIPETS,visa,,unknown,unknown
+PYLYPETS,visa,,unknown,unknown
+LOPUKHIV,visa,,unknown,unknown
+YASINYA,visa,,unknown,unknown
+YASINIA,visa,,unknown,unknown
+SYNEVYR,visa,,unknown,unknown
+PUTYLA,visa,,unknown,unknown
+TATARBUNARY,visa,,unknown,unknown
+ARTSYZ,visa,,unknown,unknown
+VERKHOVYNA,visa,,unknown,unknown
+POLIANYTSIA,visa,,unknown,unknown
+VOROKHTA,visa,,unknown,unknown
+TARUTYNE,visa,,unknown,unknown
+SLAVSKE,visa,,unknown,unknown
+MYKULYCHYN,visa,,unknown,unknown
+YAREMCHE,visa,,unknown,unknown
+ZORIA,visa,,unknown,unknown
+KRASNOYILSK,visa,,unknown,unknown
+SARATA,visa,,unknown,unknown
+KRASNOILSK,visa,,unknown,unknown
+BORYNYA,visa,,unknown,unknown
+KOZOVA,visa,,unknown,unknown
+NOVOSELYTSYA,visa,,unknown,unknown
+BEREHOMET,visa,,unknown,unknown
+BEREGOMET,visa,,unknown,unknown
+CHUDEJ,visa,,unknown,unknown
+VYZHNYTSIA,visa,,unknown,unknown
+VYZHNYTSYA,visa,,unknown,unknown
+DELIATYN,visa,,unknown,unknown
+KUTY,visa,,unknown,unknown
+GUTA,visa,,unknown,unknown
+ROVNO,visa,,unknown,unknown
+KOSIV,visa,,unknown,unknown
+DELYATYN,visa,,unknown,unknown
+YABLUNIV,visa,,unknown,unknown
+TURKA,visa,,unknown,unknown
+KULEVCHA,visa,,unknown,unknown
+NADVIRNA,visa,,unknown,unknown
+TEREBLECHE,visa,,unknown,unknown
+SKOLE,visa,,unknown,unknown
+USTERIKY,visa,,unknown,unknown
+LANCHYN,visa,,unknown,unknown
+ROZHNIV,visa,,unknown,unknown
+STOROZHYNETS,visa,,unknown,unknown
+PECHENIZHYN,visa,,unknown,unknown
+SOLOTVYN,visa,,unknown,unknown
+HLYBOKA,visa,,unknown,unknown
+PEREHINSKE,visa,,unknown,unknown
+GLYBOKA,visa,,unknown,unknown
+PEREGINSKE,visa,,unknown,unknown
+VYHODA,visa,,unknown,unknown
+VYGODA,visa,,unknown,unknown
+KOLOMYIA,visa,,unknown,unknown
+TOVMACHIK,visa,,unknown,unknown
+KOLOMYYA,visa,,unknown,unknown
+DOLYNA,visa,,unknown,unknown
+KNYAZHOLUKA,visa,,unknown,unknown
+OTYNIYA,visa,,unknown,unknown
+KALUSH,visa,,unknown,unknown
+SKHODNITSA,visa,,unknown,unknown
+SKHIDNYTSYA,visa,,unknown,unknown
+S.DOBRIANY,visa,,unknown,unknown
+ZABOLOTIV,visa,,unknown,unknown
+V.KUCHURIV,visa,,unknown,unknown
+SADJAVA,visa,,unknown,unknown
+VASHKIVTSI,visa,,unknown,unknown
+ROZHNIATIV,visa,,unknown,unknown
+STRYY,visa,,unknown,unknown
+ROZHNYATIV,visa,,unknown,unknown
+BOLEKHIV,visa,,unknown,unknown
+SERHIIVKA,visa,,unknown,unknown
+SERGIYIVKA,visa,,unknown,unknown
+BOHORODCHANY,visa,,unknown,unknown
+BOGORODCHANY,visa,,unknown,unknown
+POKHIVKA,visa,,unknown,unknown
+CHERNIVTSI,visa,,unknown,unknown
+KLISHKIVTSI,visa,,unknown,unknown
+CHERNIGIV,visa,,unknown,unknown
+BORYSLAV,visa,,unknown,unknown
+SAMBIR,visa,,unknown,unknown
+KORSHIV,visa,,unknown,unknown
+STARYI SAMBIR,visa,,unknown,unknown
+NEPOLOKIVTSI,visa,,unknown,unknown
+ST.SAMBIR,visa,,unknown,unknown
+BROSHNIV,visa,,unknown,unknown
+OTYNIIA,visa,,unknown,unknown
+BROSHNIV-OSADA,visa,,unknown,unknown
+KADUBIVTSI,visa,,unknown,unknown
+DROGOBYCH,visa,,unknown,unknown
+SNIATYN,visa,,unknown,unknown
+TRUSKAVETS,visa,,unknown,unknown
+SNYATYN,visa,,unknown,unknown
+HERTSA,visa,,unknown,unknown
+LUZHANY,visa,,unknown,unknown
+MAMALYGA,visa,,unknown,unknown
+GERTSA,visa,,unknown,unknown
+LVIV,visa,,unknown,unknown
+VOLOKA,visa,,unknown,unknown
+MAMAIVTSI,visa,,unknown,unknown
+HVIZDETS,visa,,unknown,unknown
+MORSHYN,visa,,unknown,unknown
+MORSHIN,visa,,unknown,unknown
+KHYRIV,visa,,unknown,unknown
+KAMYANKA,visa,,unknown,unknown
+ZATOKA,visa,,unknown,unknown
+LYSETS,visa,,unknown,unknown
+STAROKOZACHE,visa,,unknown,unknown
+SHABO,visa,,unknown,unknown
+OSTRYTSIA,visa,,unknown,unknown
+NAGUEVYCHI,visa,,unknown,unknown
+STEBNYK,visa,,unknown,unknown
+BILHOROD-DNISTROVSKYI,visa,,unknown,unknown
+BOIANY,visa,,unknown,unknown
+BANYLIV,visa,,unknown,unknown
+KITSMAN,visa,,unknown,unknown
+B.-DNISTROVSK,visa,,unknown,unknown
+NOVOSELYTSIA,visa,,unknown,unknown
+KITSMAN',visa,,unknown,unknown
+DNISTROVSKYJ,visa,,unknown,unknown
+B.DNISTROVSKYJ,visa,,unknown,unknown
+BILGOROD-DNISTROVSKIY,visa,,unknown,unknown
+DROHOBYCH,visa,,unknown,unknown
+OBERTYN,visa,,unknown,unknown
+KRYKHIVTSI,visa,,unknown,unknown
+BILHOROD-DNISTROVS'KYY,visa,,unknown,unknown
+BROSHNIV OSADA,visa,,unknown,unknown
+IVANO-FRANKIVSK,visa,,unknown,unknown
+IV.FRANKIVSK,visa,,unknown,unknown
+RIDKIVTSI,visa,,unknown,unknown
+STRYI,visa,,unknown,unknown
+IVANO FRANKIVSK,visa,,unknown,unknown
+I.FRANKIVSK,visa,,unknown,unknown
+STRYJ,visa,,unknown,unknown
+SPAS,visa,,unknown,unknown
+I. FRANKIVSK,visa,,unknown,unknown
+PAVLIVKA,visa,,unknown,unknown
+IVANO-FRANKOVSK,visa,,unknown,unknown
+IV. FRANKIVSK,visa,,unknown,unknown
+GORINCHOVO,visa,,unknown,unknown
+IVANO-FRANKIVS'K,visa,,unknown,unknown
+KAROLINO-BUHAZ,visa,,unknown,unknown
+DOBROMYL,visa,,unknown,unknown
+TYSMENYTSYA,visa,,unknown,unknown
+NYZHANKOVYCHI,visa,,unknown,unknown
+TYSMENYTSIA,visa,,unknown,unknown
+OVIDIOPOL,visa,,unknown,unknown
+TLUMACH,visa,,unknown,unknown
+OVIDIOPOL',visa,,unknown,unknown
+DASHAVA,visa,,unknown,unknown
+TLUMATCH,visa,,unknown,unknown
+HORODENKA,visa,,unknown,unknown
+CHERNELYTSYA,visa,,unknown,unknown
+ZASTAVNA,visa,,unknown,unknown
+UGERSKOYE,visa,,unknown,unknown
+S. OLESHA,visa,,unknown,unknown
+NOVYJ KALYNIV,visa,,unknown,unknown
+NOVYI KALYNIV,visa,,unknown,unknown
+OPORY,visa,,unknown,unknown
+MAIAKY,visa,,unknown,unknown
+VOINYLIV,visa,,unknown,unknown
+MAYAKY,visa,,unknown,unknown
+MEDENYCHI,visa,,unknown,unknown
+ZALISHCHYKY,visa,,unknown,unknown
+ZALISCHYKY,visa,,unknown,unknown
+BILIAIVKA,visa,,unknown,unknown
+BILYAYIVKA,visa,,unknown,unknown
+ZHURAVNO,visa,,unknown,unknown
+HNIZDYCHIV,visa,,unknown,unknown
+VELYKODOLYNSKE,visa,,unknown,unknown
+KOROPETS,visa,,unknown,unknown
+LYMANSKE,visa,,unknown,unknown
+NEDOBOIVTSI,visa,,unknown,unknown
+HALYCH,visa,,unknown,unknown
+CHORNOMORSK,visa,,unknown,unknown
+PETRODOLYNSKE,visa,,unknown,unknown
+GALYCH,visa,,unknown,unknown
+CHERNOMORSK,visa,,unknown,unknown
+ВЕЛИКОДОЛИНСЬКЕ,visa,,unknown,unknown
+ODESA,visa,,unknown,unknown
+TEPLODAR,visa,,unknown,unknown
+ZHYDACHIV,visa,,unknown,unknown
+ZOLOTYJ POTIK,visa,,unknown,unknown
+KYIVETS,visa,,unknown,unknown
+ILLICHIVS''K,visa,,unknown,unknown
+RUDKY,visa,,unknown,unknown
+BURSHTYN,visa,,unknown,unknown
+LYMANKA,visa,,unknown,unknown
+BILSHIVTSI,visa,,unknown,unknown
+NOVA DOLYNA,visa,,unknown,unknown
+TAIROVE,visa,,unknown,unknown
+KUCHURHAN,visa,,unknown,unknown
+MOSTYSKA,visa,,unknown,unknown
+MELNYTSYA-PODILSKA,visa,,unknown,unknown
+ROZVADIV,visa,,unknown,unknown
+MELNYTSIA-PODILSKA,visa,,unknown,unknown
+BIBRKA,visa,,unknown,unknown
+MUZYKEVYCHA,visa,,unknown,unknown
+SOVYNON,visa,,unknown,unknown
+KOMARNO,visa,,unknown,unknown
+PRYLYMANSKE,visa,,unknown,unknown
+MYKOLAIV,visa,,unknown,unknown
+MYKOLAYIV,visa,,unknown,unknown
+KHOTYN,visa,,unknown,unknown
+KHODORIV,visa,,unknown,unknown
+V.DALNYK,visa,,unknown,unknown
+VELYKYI DALNYK,visa,,unknown,unknown
+NOVYI ROZDIL,visa,,unknown,unknown
+NOVYY ROZDOL,visa,,unknown,unknown
+NOVYJ ROZDIL,visa,,unknown,unknown
+NOVYY ROZDIL,visa,,unknown,unknown
+KURAKHOVO,visa,,unknown,unknown
+ROKOSOVO,visa,,unknown,unknown
+TOVSTE,visa,,unknown,unknown
+AVANHARD,visa,,unknown,unknown
+АВАНГАРД,visa,,unknown,unknown
+ODESSA,visa,,unknown,unknown
+BILCHE-ZOLOTE,visa,,unknown,unknown
+AVANGARD,visa,,unknown,unknown
+KHLIBODARSKE,visa,,unknown,unknown
+MONASTYRYSKA,visa,,unknown,unknown
+SUDOVA VYSHNYA,visa,,unknown,unknown
+SUDOVA VYSHNIA,visa,,unknown,unknown
+FONTANKA,visa,,unknown,unknown
+KHLEBODARS'KE,visa,,unknown,unknown
+USATOVE,visa,,unknown,unknown
+SCHYRETS,visa,,unknown,unknown
+PODILSK,visa,,unknown,unknown
+KOTOVS'K,visa,,unknown,unknown
+KREMENCHUK,visa,,unknown,unknown
+NERUBAISKE,visa,,unknown,unknown
+BUCHACH,visa,,unknown,unknown
+SHYRYAYEVE,visa,,unknown,unknown
+BUHACH,visa,,unknown,unknown
+PISCHANA,visa,,unknown,unknown
+DACHNE,visa,,unknown,unknown
+VELYKIY LYUBIN,visa,,unknown,unknown
+VELYKYI LIUBIN,visa,,unknown,unknown
+ROZDIL'NA,visa,,unknown,unknown
+ROZDILNA,visa,,unknown,unknown
+BORSHCHIV,visa,,unknown,unknown
+BORSCHIV,visa,,unknown,unknown
+USATOVO,visa,,unknown,unknown
+HORODOK,visa,,unknown,unknown
+KELMENTSI,visa,,unknown,unknown
+GORODOK,visa,,unknown,unknown
+ROHATYN,visa,,unknown,unknown
+ROGATYN,visa,,unknown,unknown
+KHOLODNA BALKA,visa,,unknown,unknown
+POLYANA,visa,,unknown,unknown
+LATIVKA,visa,,unknown,unknown
+PUSTOMYTY,visa,,unknown,unknown
+YAVORIV,visa,,unknown,unknown
+DUBLYANY,visa,,unknown,unknown
+PIDHAITSI,visa,,unknown,unknown
+PIDGAJTSI,visa,,unknown,unknown
+LYPNYKY,visa,,unknown,unknown
+CHORTKIV,visa,,unknown,unknown
+KRYZHANIVKA,visa,,unknown,unknown
+V. MYKHAJLIVKA,visa,,unknown,unknown
+VELYKA MYKHAILIVKA,visa,,unknown,unknown
+KAMIANETS-PODILSKYI,visa,,unknown,unknown
+KAM-POD,visa,,unknown,unknown
+KRASNE,visa,,unknown,unknown
+KAMYANETS-PODILSKYI,visa,,unknown,unknown
+KAP-PODILSKYY,visa,,unknown,unknown
+KAMYANETS'-PODIL'S'KYY,visa,,unknown,unknown
+SKALA-PODILSKA,visa,,unknown,unknown
+KHMELNITSKIY,visa,,unknown,unknown
+KAM-PODILSKYJ,visa,,unknown,unknown
+ZAVODSKE,visa,,unknown,unknown
+S.-PODILSKA,visa,,unknown,unknown
+KOPACHIVKA,visa,,unknown,unknown
+KAMYANETS-POD.,visa,,unknown,unknown
+KAMENETS-PODOLSKIY,visa,,unknown,unknown
+KAM-PODILSKYY,visa,,unknown,unknown
+NOVOLABUN,visa,,unknown,unknown
+PISHCHANE,visa,,unknown,unknown
+ILICHANKA,visa,,unknown,unknown
+NOVOYAVORIVSK,visa,,unknown,unknown
+SOKILNYKY,visa,,unknown,unknown
+NOVOIAVORIVSK,visa,,unknown,unknown
+SHKLO,visa,,unknown,unknown
+ZYMNA VODA,visa,,unknown,unknown
+MARIUPOL,visa,,unknown,unknown
+LVIVI,visa,,unknown,unknown
+YABLYNIVKA,visa,,unknown,unknown
+BEREZHANY,visa,,unknown,unknown
+DAVYDIV,visa,,unknown,unknown
+CHORNOMORSKE,visa,,unknown,unknown
+ROMANKIVTSI,visa,,unknown,unknown
+STARYCHI,visa,,unknown,unknown
+IVANO-FRANKOVE,visa,,unknown,unknown
+KOZHYCHI,visa,,unknown,unknown
+ZOLOTNYKY,visa,,unknown,unknown
+HUMENTSI,visa,,unknown,unknown
+L'VIV,visa,,unknown,unknown
+MUROVANE,visa,,unknown,unknown
+VERESHCHYTSIA,visa,,unknown,unknown
+PIDBUZH,visa,,unknown,unknown
+BRODY,visa,,unknown,unknown
+RUDNE,visa,,unknown,unknown
+OBROSHYNO,visa,,unknown,unknown
+LVIV-RYAS-2,visa,,unknown,unknown
+STRILKY,visa,,unknown,unknown
+KOPYCHYNTSI,visa,,unknown,unknown
+STARA USHYTSYA,visa,,unknown,unknown
+VYNNYKY,visa,,unknown,unknown
+SOKYRIANY,visa,,unknown,unknown
+SOKYRYANY,visa,,unknown,unknown
+PEREMYSHLIANY,visa,,unknown,unknown
+BRYUKHOVYCHI,visa,,unknown,unknown
+BRIUKHOVYCHI,visa,,unknown,unknown
+TERNOPIL,visa,,unknown,unknown
+SMT.BRYUKHOVYCHI,visa,,unknown,unknown
+PEREMYSHLYANY,visa,,unknown,unknown
+MAKIV,visa,,unknown,unknown
+YUZHNYJ,visa,,unknown,unknown
+CHERVONOZNAMIANKA,visa,,unknown,unknown
+TSEBRYKOVE,visa,,unknown,unknown
+ZAKHARIVKA,visa,,unknown,unknown
+IVANIVKA,visa,,unknown,unknown
+YUZHNE,visa,,unknown,unknown
+DUBLIANY,visa,,unknown,unknown
+GUSYATYN,visa,,unknown,unknown
+HUSIATYN,visa,,unknown,unknown
+OKNI,visa,,unknown,unknown
+CHEMERIVTSI,visa,,unknown,unknown
+KRASNIOKNA,visa,,unknown,unknown
+OKNY,visa,,unknown,unknown
+ADAMPIL,visa,,unknown,unknown
+NOVODNISTROVSK,visa,,unknown,unknown
+TEREBOVLYA,visa,,unknown,unknown
+TEREBOVLIA,visa,,unknown,unknown
+KHOROSTKIV,visa,,unknown,unknown
+STRUSIV,visa,,unknown,unknown
+SMOTRYCH,visa,,unknown,unknown
+KULYKIV,visa,,unknown,unknown
+DRUZHBA,visa,,unknown,unknown
+GLYNYANY,visa,,unknown,unknown
+KOBLEVE,visa,,unknown,unknown
+NOVYY YARYCHIV,visa,,unknown,unknown
+MYKULYNTSI,visa,,unknown,unknown
+KOBLEVO,visa,,unknown,unknown
+KOMINTERNIVSKE,visa,,unknown,unknown
+DOBROSLAV,visa,,unknown,unknown
+MOHYLIV-PODILSKYI,visa,,unknown,unknown
+DASHIV,visa,,unknown,unknown
+MOGYLIV-PODILSKYJ,visa,,unknown,unknown
+MOGYLIVPODILSKYJ,visa,,unknown,unknown
+MOHYLIV-PODILSK,visa,,unknown,unknown
+M.-PODILSKYJ,visa,,unknown,unknown
+ZHOVKVA,visa,,unknown,unknown
+DUNAYIVTSI,visa,,unknown,unknown
+DUNAIVTSI,visa,,unknown,unknown
+ZAKUPNE,visa,,unknown,unknown
+YAMPIL,visa,,unknown,unknown
+DOBROSYN,visa,,unknown,unknown
+KOZLIV,visa,,unknown,unknown
+ZHOVTANTSI,visa,,unknown,unknown
+RAVA RUSKAYA,visa,,unknown,unknown
+RAVA-RUSKA,visa,,unknown,unknown
+PETROVIRIVKA,visa,,unknown,unknown
+ZBORIV,visa,,unknown,unknown
+OSTRIV,visa,,unknown,unknown
+KULIKOV,visa,,unknown,unknown
+HRYMAILIV,visa,,unknown,unknown
+VELYKA BEREZOVYTSIA,visa,,unknown,unknown
+ZOLOCHIV,visa,,unknown,unknown
+TERNOPOL,visa,,unknown,unknown
+PETRYKIV,visa,,unknown,unknown
+OZERNA,visa,,unknown,unknown
+OCHAKIV,visa,,unknown,unknown
+SATANIV,visa,,unknown,unknown
+LISOVODY,visa,,unknown,unknown
+SHYRIAIEVE,visa,,unknown,unknown
+TERNOPIL`,visa,,unknown,unknown
+MIKULINTSY,visa,,unknown,unknown
+MUROVANI KURYLIVTSI,visa,,unknown,unknown
+KREMENETS,visa,,unknown,unknown
+MURKURYLIVTSI,visa,,unknown,unknown
+NOVA USHYTSIA,visa,,unknown,unknown
+VYSHNIVETS,visa,,unknown,unknown
+ZAPORIZHZHYA,visa,,unknown,unknown
+NOVA USHYTSYA,visa,,unknown,unknown
+SHYRYAEVE,visa,,unknown,unknown
+BUSK,visa,,unknown,unknown
+VENDYCHANY,visa,,unknown,unknown
+SKALAT,visa,,unknown,unknown
+NOVOSELYSCHE,visa,,unknown,unknown
+VELYKI BIRKY,visa,,unknown,unknown
+KAMIANKA-BUZKA,visa,,unknown,unknown
+KAMYANKA-BUZKA,visa,,unknown,unknown
+ZAPYTIV,visa,,unknown,unknown
+KAM-BUZKA,visa,,unknown,unknown
+SOLOBKIVTSI,visa,,unknown,unknown
+MAZURIVKA,visa,,unknown,unknown
+BEREZANKA,visa,,unknown,unknown
+VELYKI MOSTY,visa,,unknown,unknown
+OLESKO,visa,,unknown,unknown
+PISHCHANKA,visa,,unknown,unknown
+KODYMA,visa,,unknown,unknown
+ZALIZTSI,visa,,unknown,unknown
+YARMOLYNTSI,visa,,unknown,unknown
+JARMOLINTCI,visa,,unknown,unknown
+ZINKIV,visa,,unknown,unknown
+BEREZIVKA,visa,,unknown,unknown
+VINKIVTSI,visa,,unknown,unknown
+DOBROTVIR,visa,,unknown,unknown
+ANANIV,visa,,unknown,unknown
+ANANYIV,visa,,unknown,unknown
+ZBARAZH,visa,,unknown,unknown
+DOBROVODY,visa,,unknown,unknown
+PIDVOLOCHYSK,visa,,unknown,unknown
+ANAN'EV,visa,,unknown,unknown
+HORODKIVKA,visa,,unknown,unknown
+BELZ,visa,,unknown,unknown
+SOSNIVKA,visa,,unknown,unknown
+BALTA,visa,,unknown,unknown
+ANDRIEVOIVANIVKA,visa,,unknown,unknown
+VOLOCHYSK,visa,,unknown,unknown
+ZABOLOTTSI,visa,,unknown,unknown
+GIRNYK,visa,,unknown,unknown
+VUZLOVE,visa,,unknown,unknown
+SHARHOROD,visa,,unknown,unknown
+SHARGOROD,visa,,unknown,unknown
+SKADOVSK,visa,,unknown,unknown
+TOMASHPIL,visa,,unknown,unknown
+TROITSKE,visa,,unknown,unknown
+PIDKAMIN,visa,,unknown,unknown
+KRYZHOPIL,visa,,unknown,unknown
+CHERVONOHRAD,visa,,unknown,unknown
+VIJTIVTSI,visa,,unknown,unknown
+PAVLIV,visa,,unknown,unknown
+ROZDIL,visa,,unknown,unknown
+CHERVONOGRAD,visa,,unknown,unknown
+SKARZHYNTSI,visa,,unknown,unknown
+SMILNE,visa,,unknown,unknown
+RADEKHIV,visa,,unknown,unknown
+MURAFA,visa,,unknown,unknown
+CHECHELNYK,visa,,unknown,unknown
+LOPATYN,visa,,unknown,unknown
+VAPNYARKA,visa,,unknown,unknown
+VAPNIARKA,visa,,unknown,unknown
+OLHOPIL,visa,,unknown,unknown
+KHMELNYTSKYI,visa,,unknown,unknown
+SOKAL,visa,,unknown,unknown
+BAR,visa,,unknown,unknown
+POCHAIV,visa,,unknown,unknown
+MYKOLAYIVKA,visa,,unknown,unknown
+MYKOLAIVKA,visa,,unknown,unknown
+POCHAYIV,visa,,unknown,unknown
+KHMELNYTSK,visa,,unknown,unknown
+KHMELNYTSKYJ,visa,,unknown,unknown
+LYUBASHIVKA,visa,,unknown,unknown
+CHORNYI OSTRIV,visa,,unknown,unknown
+NOSKOVTSY,visa,,unknown,unknown
+RADYVYLIV,visa,,unknown,unknown
+LIUBASHIVKA,visa,,unknown,unknown
+KHMELNYTSKYY,visa,,unknown,unknown
+RAJKIVTSI,visa,,unknown,unknown
+SHEPETIVKA,visa,,unknown,unknown
+STAROKOSTYANTYN,visa,,unknown,unknown
+SLAVUTA,visa,,unknown,unknown
+BILOZERKA,visa,,unknown,unknown
+BELOZERKA,visa,,unknown,unknown
+BOGDANIVTSI,visa,,unknown,unknown
+VESELYNOVE,visa,,unknown,unknown
+VEMELYNOVE,visa,,unknown,unknown
+OBODIVKA,visa,,unknown,unknown
+KRUPETS,visa,,unknown,unknown
+DERAZHNIA,visa,,unknown,unknown
+DERAZHNYA,visa,,unknown,unknown
+RAKHNY LISOVI,visa,,unknown,unknown
+KAPUSTYANY,visa,,unknown,unknown
+LANIVTSI,visa,,unknown,unknown
+VOZNESENSK,visa,,unknown,unknown
+V.OLEKSANDRIVKA,visa,,unknown,unknown
+KHERSON,visa,,unknown,unknown
+M. MYKOLAYIV,visa,,unknown,unknown
+SHPYKIV,visa,,unknown,unknown
+MIKILAIV,visa,,unknown,unknown
+CHORNOBAYIVKA,visa,,unknown,unknown
+BALOVNE,visa,,unknown,unknown
+NOVA KAHOVKA,visa,,unknown,unknown
+ZHMERYNKA,visa,,unknown,unknown
+TULCHYN,visa,,unknown,unknown
+MYKOLIYIV,visa,,unknown,unknown
+VINNYTSYA,visa,,unknown,unknown
+BERSHAD,visa,,unknown,unknown
+TROSTYANETS,visa,,unknown,unknown
+TROSTIANETS,visa,,unknown,unknown
+KRYVE OZERO,visa,,unknown,unknown
+OLSHANSKE,visa,,unknown,unknown
+DNIPROVSKE,visa,,unknown,unknown
+MARIANIVKA,visa,,unknown,unknown
+BERYSLAV,visa,,unknown,unknown
+BLAGODATNE,visa,,unknown,unknown
+VYSOKOPILLYA,visa,,unknown,unknown
+NOVOVORONTSOVKA,visa,,unknown,unknown
+IVANYCHI,visa,,unknown,unknown
+TSYURUPYNS'K,visa,,unknown,unknown
+MISHKOVO-POHORILOVE,visa,,unknown,unknown
+DOMANIVKA,visa,,unknown,unknown
+NIKOPOL,visa,,unknown,unknown
+NOVOVOLYNSK,visa,,unknown,unknown
+BERESTECHKO,visa,,unknown,unknown
+TEOFIPOL,visa,,unknown,unknown
+HOROKHIV,visa,,unknown,unknown
+VRADIIVKA,visa,,unknown,unknown
+GOROKHIV,visa,,unknown,unknown
+SAVRAN,visa,,unknown,unknown
+VOSKRESENSKE,visa,,unknown,unknown
+MEDZHYBIZH,visa,,unknown,unknown
+BRAILIV,visa,,unknown,unknown
+ZHOVTNEVE,visa,,unknown,unknown
+KOZYN,visa,,unknown,unknown
+KRASYLIV,visa,,unknown,unknown
+ZAVALLIA,visa,,unknown,unknown
+LETYCHIV,visa,,unknown,unknown
+SUTYSKY,visa,,unknown,unknown
+GAJVORON,visa,,unknown,unknown
+GAYVORON,visa,,unknown,unknown
+HAIVORON,visa,,unknown,unknown
+TYVRIV,visa,,unknown,unknown
+NOVA ODESA,visa,,unknown,unknown
+TROYITSKE,visa,,unknown,unknown
+VERBA,visa,,unknown,unknown
+HNIVAN,visa,,unknown,unknown
+GUBNIK,visa,,unknown,unknown
+HUBNYK,visa,,unknown,unknown
+BRATSLAV,visa,,unknown,unknown
+BELOGORODKA,visa,,unknown,unknown
+GNIVAN,visa,,unknown,unknown
+LADYZHYN,visa,,unknown,unknown
+HNIVAN',visa,,unknown,unknown
+DZHULYNKA,visa,,unknown,unknown
+SMYHA,visa,,unknown,unknown
+SMYGA,visa,,unknown,unknown
+DARYIVKA,visa,,unknown,unknown
+USTYLUH,visa,,unknown,unknown
+DEMYDIVKA,visa,,unknown,unknown
+SHUMSK,visa,,unknown,unknown
+BILOHIRYA,visa,,unknown,unknown
+BILOHIRIA,visa,,unknown,unknown
+ANTONINY,visa,,unknown,unknown
+VOLODYMYR-VOLYNSKYI,visa,,unknown,unknown
+SOBOLIVKA,visa,,unknown,unknown
+VOLODYMYR,visa,,unknown,unknown
+VOLODIMIR,visa,,unknown,unknown
+OLEKSANDRIVKA,visa,,unknown,unknown
+KREMENCHUG,visa,,unknown,unknown
+LUTSK,visa,,unknown,unknown
+LOKACHI,visa,,unknown,unknown
+NEMYRIV,visa,,unknown,unknown
+AHRONOMICHNE,visa,,unknown,unknown
+LITYN,visa,,unknown,unknown
+BEREZYNA,visa,,unknown,unknown
+STAROKOSTYANTYNIV,visa,,unknown,unknown
+STAROKOSTIANTYNIV,visa,,unknown,unknown
+STARKOSTYANTYNIV,visa,,unknown,unknown
+STAROKONSTYANT,visa,,unknown,unknown
+VINNYTSIA,visa,,unknown,unknown
+BLAGOVISHCHENSKE,visa,,unknown,unknown
+YUZHNOUKRAINSK,visa,,unknown,unknown
+LUKA-MELESHKIVSKA,visa,,unknown,unknown
+STAROKOSTYANT,visa,,unknown,unknown
+YUZHNOUKRAYINSK,visa,,unknown,unknown
+DUBNO,visa,,unknown,unknown
+ULANIVKA,visa,,unknown,unknown
+ULYANIVKA,visa,,unknown,unknown
+ZARVANTSI,visa,,unknown,unknown
+STARA SYNIAVA,visa,,unknown,unknown
+STARA SYNYAVA,visa,,unknown,unknown
+S. SYNYAVA,visa,,unknown,unknown
+YAKUSHYNTSI,visa,,unknown,unknown
+VORONOVYTSIA,visa,,unknown,unknown
+DNEPRODZERZHINSK,visa,,unknown,unknown
+MYGIYA,visa,,unknown,unknown
+PERVOMAISK,visa,,unknown,unknown
+PERVOMAJSK,visa,,unknown,unknown
+HRUSHIVKA,visa,,unknown,unknown
+POBUZKE,visa,,unknown,unknown
+LYPOVETS,visa,,unknown,unknown
+GAVRISHOVKA,visa,,unknown,unknown
+TURBIV,visa,,unknown,unknown
+KOPAYHOROD,visa,,unknown,unknown
+PERVOMAYSK,visa,,unknown,unknown
+DESNA,visa,,unknown,unknown
+HAISYN,visa,,unknown,unknown
+GAJSYN,visa,,unknown,unknown
+SAKHNIVTSI,visa,,unknown,unknown
+HAYSYN,visa,,unknown,unknown
+GAYSYN,visa,,unknown,unknown
+VINNYTSKI KHUTORY,visa,,unknown,unknown
+STEPANIVKA,visa,,unknown,unknown
+MLYNIV,visa,,unknown,unknown
+TEPLYK,visa,,unknown,unknown
+MIROGOSHCHA,visa,,unknown,unknown
+PASICHNA,visa,,unknown,unknown
+STAROVOITOVE,visa,,unknown,unknown
+KHMILNYK,visa,,unknown,unknown
+TORCHYN,visa,,unknown,unknown
+MYROHOSHCHA PERSHA,visa,,unknown,unknown
+STRYZHAVKA,visa,,unknown,unknown
+PLUZHNE,visa,,unknown,unknown
+ARBUZYNKA,visa,,unknown,unknown
+SNIHURIVKA,visa,,unknown,unknown
+SNIGURIVKA,visa,,unknown,unknown
+HOLOVANIVSK,visa,,unknown,unknown
+SADOVE,visa,,unknown,unknown
+ROVANTSI,visa,,unknown,unknown
+IZIASLAV,visa,,unknown,unknown
+IZYASLAV,visa,,unknown,unknown
+MIZOCH,visa,,unknown,unknown
+LYUBOML,visa,,unknown,unknown
+LIUBOML,visa,,unknown,unknown
+HRYTSIV,visa,,unknown,unknown
+KOVEL,visa,,unknown,unknown
+OSTROZHETS,visa,,unknown,unknown
+LUTS'K,visa,,unknown,unknown
+ELANETS,visa,,unknown,unknown
+YELANETS,visa,,unknown,unknown
+VILSHANKA,visa,,unknown,unknown
+KALYNIVKA,visa,,unknown,unknown
+KOVEL',visa,,unknown,unknown
+STRUMIVKA,visa,,unknown,unknown
+BRATSKOYE,visa,,unknown,unknown
+BRATSKE,visa,,unknown,unknown
+LYPYNY,visa,,unknown,unknown
+TURIISK,visa,,unknown,unknown
+TURIYSK,visa,,unknown,unknown
+TURIJSK,visa,,unknown,unknown
+ILLINTSI,visa,,unknown,unknown
+OSTROH,visa,,unknown,unknown
+OSTROG,visa,,unknown,unknown
+BASHTANKA,visa,,unknown,unknown
+NOVA KAKHOVKA,visa,,unknown,unknown
+NETISHYN,visa,,unknown,unknown
+KAKHOVKA,visa,,unknown,unknown
+LUKIV,visa,,unknown,unknown
+SELYSCHE,visa,,unknown,unknown
+KHRYSTYNIVKA,visa,,unknown,unknown
+NETESHIN,visa,,unknown,unknown
+CHERKASY,visa,,unknown,unknown
+ULANIV,visa,,unknown,unknown
+KIVERTSI,visa,,unknown,unknown
+SHEPETOVKA,visa,,unknown,unknown
+ZDOLBUNIV,visa,,unknown,unknown
+UMAN,visa,,unknown,unknown
+ROZHYSCHE,visa,,unknown,unknown
+ROZHYSHCHE,visa,,unknown,unknown
+UMAN',visa,,unknown,unknown
+SUDYLKIV,visa,,unknown,unknown
+BALAKLEYA,visa,,unknown,unknown
+OLYKA,visa,,unknown,unknown
+STARYI LIUBAR,visa,,unknown,unknown
+LIUBAR,visa,,unknown,unknown
+LIUBLYNETS,visa,,unknown,unknown
+LYUBAR,visa,,unknown,unknown
+KVASYLIV,visa,,unknown,unknown
+HROMADA,visa,,unknown,unknown
+BEREZNEGUVATE,visa,,unknown,unknown
+BEREZNEHUVATE,visa,,unknown,unknown
+NOVE MISTO,visa,,unknown,unknown
+MONASTYRYSHCHE,visa,,unknown,unknown
+RIVNE,visa,,unknown,unknown
+MONASTYRYSCHE,visa,,unknown,unknown
+HOLOBY,visa,,unknown,unknown
+S.KLYMENTOVYCHI,visa,,unknown,unknown
+GOLOBY,visa,,unknown,unknown
+SHATSK,visa,,unknown,unknown
+ROKYTNE,visa,,unknown,unknown
+AVRAMIVKA,visa,,unknown,unknown
+SUMY,visa,,unknown,unknown
+PIDVYSOKE,visa,,unknown,unknown
+ZORYA,visa,,unknown,unknown
+POLONNE,visa,,unknown,unknown
+NOVA CHORTORYIA,visa,,unknown,unknown
+KLEVAN,visa,,unknown,unknown
+POLONE,visa,,unknown,unknown
+ORATIV,visa,,unknown,unknown
+PISHCHANYI BRID,visa,,unknown,unknown
+POMICHNA,visa,,unknown,unknown
+GAYIVKA,visa,,unknown,unknown
+TSUMAN,visa,,unknown,unknown
+KIVERTSY,visa,,unknown,unknown
+DOBROVELYCHKIVKA,visa,,unknown,unknown
+ORZHEV,visa,,unknown,unknown
+MYROPIL,visa,,unknown,unknown
+PONINKA,visa,,unknown,unknown
+STARI BABANY,visa,,unknown,unknown
+ZHOBRYN,visa,,unknown,unknown
+NOVYJ BUG,visa,,unknown,unknown
+NOVYI BUH,visa,,unknown,unknown
+STARA VYZHIVA,visa,,unknown,unknown
+STARA VYZHIVKA,visa,,unknown,unknown
+HALIIVKA,visa,,unknown,unknown
+TORHOVYTSIA,visa,,unknown,unknown
+NOVOARKHANHELSK,visa,,unknown,unknown
+NOVOARKHANGELSK,visa,,unknown,unknown
+HORBAKIV,visa,,unknown,unknown
+HOSHCHA,visa,,unknown,unknown
+BARANIVKA,visa,,unknown,unknown
+GOSCHA,visa,,unknown,unknown
+DERAZHNE,visa,,unknown,unknown
+SOKOLIVKA,visa,,unknown,unknown
+PERSHOTRAVENSK,visa,,unknown,unknown
+DUBY,visa,,unknown,unknown
+NOVOUKRAINKA,visa,,unknown,unknown
+NOVOUKRAYINKA,visa,,unknown,unknown
+POGREBYSCHE,visa,,unknown,unknown
+POHREBYSHCHE,visa,,unknown,unknown
+KOZYATYN,visa,,unknown,unknown
+VAKULENCHUK,visa,,unknown,unknown
+MANKIVKA,visa,,unknown,unknown
+VELYKA OLEKSANDRIVKA,visa,,unknown,unknown
+BEREZDIV,visa,,unknown,unknown
+KOZIATYN,visa,,unknown,unknown
+CHUDNIV,visa,,unknown,unknown
+ROMANIV,visa,,unknown,unknown
+KOLKY,visa,,unknown,unknown
+ZABOLOTTYA,visa,,unknown,unknown
+TETIYIV,visa,,unknown,unknown
+BOBRYNETS,visa,,unknown,unknown
+BERDYCHIV,visa,,unknown,unknown
+TETIIV,visa,,unknown,unknown
+IVANKY,visa,,unknown,unknown
+BERDICHIV,visa,,unknown,unknown
+ZHYTOMYR,visa,,unknown,unknown
+TALNE,visa,,unknown,unknown
+SMOLINE,visa,,unknown,unknown
+ZLYNKA,visa,,unknown,unknown
+KOSTOPIL',visa,,unknown,unknown
+KOSTOPIL,visa,,unknown,unknown
+ZHASHKIV,visa,,unknown,unknown
+BUKY,visa,,unknown,unknown
+USTYNIVKA,visa,,unknown,unknown
+KORETS,visa,,unknown,unknown
+KAPITANIVKA,visa,,unknown,unknown
+MANEVYCHI,visa,,unknown,unknown
+RUZHYN,visa,,unknown,unknown
+RATNE,visa,,unknown,unknown
+KAZANKA,visa,,unknown,unknown
+KRYVYI RIH,visa,,unknown,unknown
+KRYVYJ RIG,visa,,unknown,unknown
+KOMPANIIVKA,visa,,unknown,unknown
+VYSOKOPILLIA,visa,,unknown,unknown
+KOMPANIYIVKA,visa,,unknown,unknown
+PRYLISNE,visa,,unknown,unknown
+DOVBYSH,visa,,unknown,unknown
+KATERYNOPIL,visa,,unknown,unknown
+SUSLY,visa,,unknown,unknown
+SHYROKE,visa,,unknown,unknown
+SOSNOVE,visa,,unknown,unknown
+KAMIN'-KASHYRS'KYI,visa,,unknown,unknown
+KAM.KASHYRSKYY,visa,,unknown,unknown
+KAMIN-KASHYRSKYI,visa,,unknown,unknown
+M-KALYGIRKA,visa,,unknown,unknown
+KAMIN KASHYRSKYJ,visa,,unknown,unknown
+KAM. KASHYRSKYJ,visa,,unknown,unknown
+MOKRA KALYHIRKA,visa,,unknown,unknown
+STAVYSHCHE,visa,,unknown,unknown
+NOVOHRAD-VOLYNSKYI,visa,,unknown,unknown
+STAVYSCHE,visa,,unknown,unknown
+NOV-VOLYNSKYI,visa,,unknown,unknown
+MALA VYSKA,visa,,unknown,unknown
+SVITLOVODSK,visa,,unknown,unknown
+N-VOLYNSKYJ,visa,,unknown,unknown
+VOLODARKA,visa,,unknown,unknown
+STEPAN,visa,,unknown,unknown
+NOVOGRAD VOLYNSKYJ,visa,,unknown,unknown
+NOVOHRAD-VOLYNS'KYY,visa,,unknown,unknown
+BARASHI,visa,,unknown,unknown
+NOV.-VOLYNSKYY,visa,,unknown,unknown
+NOVOGRAD-VOLYNSKYJ,visa,,unknown,unknown
+VARASH,visa,,unknown,unknown
+KUZNETSOVSK,visa,,unknown,unknown
+KUZNETSOVS'K,visa,,unknown,unknown
+BEREZNE,visa,,unknown,unknown
+VELYKA VYSKA,visa,,unknown,unknown
+KUZNETCOVSK,visa,,unknown,unknown
+VATUTINE,visa,,unknown,unknown
+ANDRUSHIVKA,visa,,unknown,unknown
+RAFALIVKA,visa,,unknown,unknown
+ANDRUSHKY,visa,,unknown,unknown
+ZVENYHORODKA,visa,,unknown,unknown
+ZELENODOLSK,visa,,unknown,unknown
+ZVENYGORODKA,visa,,unknown,unknown
+IVANO-BLAGODATNOE,visa,,unknown,unknown
+ZVENIGORODKA,visa,,unknown,unknown
+SKVYRA,visa,,unknown,unknown
+DOLYNSKA,visa,,unknown,unknown
+OZERNE,visa,,unknown,unknown
+HORODNYTSIA,visa,,unknown,unknown
+CHERVONE,visa,,unknown,unknown
+NOVOHUIVYNSKE,visa,,unknown,unknown
+DOLYNSKE,visa,,unknown,unknown
+NOVOGUJVYNSKE,visa,,unknown,unknown
+ZARICHANY,visa,,unknown,unknown
+STANYSHIVKA,visa,,unknown,unknown
+KIROVOGRAD,visa,,unknown,unknown
+MELITOPOL',visa,,unknown,unknown
+ZHITOMIR,visa,,unknown,unknown
+NOVE,visa,,unknown,unknown
+KROPYVNYTSKYJ,visa,,unknown,unknown
+IVANOPIL,visa,,unknown,unknown
+NOVOMYRHOROD,visa,,unknown,unknown
+KRYVYY RIH,visa,,unknown,unknown
+KROPIVNITSKII,visa,,unknown,unknown
+KROPYVNYTSKYI,visa,,unknown,unknown
+OLIYIVKA,visa,,unknown,unknown
+LYSIANKA,visa,,unknown,unknown
+PULINI,visa,,unknown,unknown
+PULYNY,visa,,unknown,unknown
+YAKYMIVKA,visa,,unknown,unknown
+LYSYANKA,visa,,unknown,unknown
+NOVOMYRGOROD,visa,,unknown,unknown
+APOSTOLOVE,visa,,unknown,unknown
+POPILNIA,visa,,unknown,unknown
+KIROVOHRAD,visa,,unknown,unknown
+POPILNYA,visa,,unknown,unknown
+KROPYVNITSKIY,visa,,unknown,unknown
+OLEKSANDRIYA,visa,,unknown,unknown
+KRIVOY ROG,visa,,unknown,unknown
+NYVA TRUDOVA,visa,,unknown,unknown
+MARIANSKE,visa,,unknown,unknown
+KRYVYY RIG,visa,,unknown,unknown
+SHPOLA,visa,,unknown,unknown
+RADUSHNE,visa,,unknown,unknown
+NOVOIVNYTSKE,visa,,unknown,unknown
+VOLODYMYRETS,visa,,unknown,unknown
+KRYVIY RIG,visa,,unknown,unknown
+NOVOMOSKOVSK,visa,,unknown,unknown
+NOVHORODKA,visa,,unknown,unknown
+NOVGORODKA,visa,,unknown,unknown
+NOVOMAYSK,visa,,unknown,unknown
+SARNY,visa,,unknown,unknown
+TARASHCHA,visa,,unknown,unknown
+KRYVYI RIG,visa,,unknown,unknown
+ILARIONOVE,visa,,unknown,unknown
+LOZUVATKA,visa,,unknown,unknown
+CHERNIAKHIV,visa,,unknown,unknown
+CHERNYAKHIV,visa,,unknown,unknown
+LIUBESHIV,visa,,unknown,unknown
+VILSHANA,visa,,unknown,unknown
+BILA TSERKVA,visa,,unknown,unknown
+LYUBESHIV,visa,,unknown,unknown
+BILA TCERKVA,visa,,unknown,unknown
+BELAYA TSERKOV,visa,,unknown,unknown
+KOROSTYSHIV,visa,,unknown,unknown
+NOVOPILLYA,visa,,unknown,unknown
+SHKARIVKA,visa,,unknown,unknown
+KHOROSHIV,visa,,unknown,unknown
+EMILCHYNE,visa,,unknown,unknown
+YEMILCHYNE,visa,,unknown,unknown
+EMILCHYNO,visa,,unknown,unknown
+KORNYN,visa,,unknown,unknown
+NOVOMAJSKE,visa,,unknown,unknown
+POKROV,visa,,unknown,unknown
+MELITOPOL,visa,,unknown,unknown
+ROMASHKY,visa,,unknown,unknown
+KLESIV,visa,,unknown,unknown
+HOLOVYNE,visa,,unknown,unknown
+UZYN,visa,,unknown,unknown
+STEBLIV,visa,,unknown,unknown
+OLSHANYTSYA,visa,,unknown,unknown
+BOGUSLAV,visa,,unknown,unknown
+BOHUSLAV,visa,,unknown,unknown
+HORODYSHCHE,visa,,unknown,unknown
+TOMASHHOROD,visa,,unknown,unknown
+NIKOPOL',visa,,unknown,unknown
+FASTIV,visa,,unknown,unknown
+GORODYSCHE,visa,,unknown,unknown
+KARAPYSHI,visa,,unknown,unknown
+HREBINKY,visa,,unknown,unknown
+GREBINKY,visa,,unknown,unknown
+LESNOE,visa,,unknown,unknown
+K-SHEVCHENKIVSKYJ,visa,,unknown,unknown
+KORSUN-SHEVCH.,visa,,unknown,unknown
+LISOVE,visa,,unknown,unknown
+KORSUN-SHEVCHENKIVSKYI,visa,,unknown,unknown
+KORSUN'-SHEVCHENKIVS'KYY,visa,,unknown,unknown
+BRUSYLIV,visa,,unknown,unknown
+NOVA BOROVA,visa,,unknown,unknown
+NOVABOROVA,visa,,unknown,unknown
+BOHDANIVKA,visa,,unknown,unknown
+KAMIANSKE,visa,,unknown,unknown
+DUBROVYTSYA,visa,,unknown,unknown
+KORSUN,visa,,unknown,unknown
+KORSUN-SHEVCH,visa,,unknown,unknown
+DUBROVYTSIA,visa,,unknown,unknown
+ENERGODAR,visa,,unknown,unknown
+PETROVE,visa,,unknown,unknown
+K.SHEVCHENKIVSKYY,visa,,unknown,unknown
+NOVA PRAHA,visa,,unknown,unknown
+ZNAMYANKA,visa,,unknown,unknown
+ZNAMIANKA,visa,,unknown,unknown
+PRYDNIPROVSKE,visa,,unknown,unknown
+ZNAM`IANKA,visa,,unknown,unknown
+KAMIANKA,visa,,unknown,unknown
+CHERVONOHRYHOR,visa,,unknown,unknown
+MYRONIVKA,visa,,unknown,unknown
+SOFIYIVKA,visa,,unknown,unknown
+RADOMYSHL,visa,,unknown,unknown
+SOFIIVKA,visa,,unknown,unknown
+ZARICHNE,visa,,unknown,unknown
+POTIYIVKA,visa,,unknown,unknown
+RADOMYSHL',visa,,unknown,unknown
+SMILA,visa,,unknown,unknown
+USHOMYR,visa,,unknown,unknown
+OLEVSK,visa,,unknown,unknown
+IRSHANSK,visa,,unknown,unknown
+DYMYTROVE,visa,,unknown,unknown
+MARHANETS,visa,,unknown,unknown
+MARGANETS,visa,,unknown,unknown
+NOVYJ STARODUB,visa,,unknown,unknown
+ZHOVTI VODY,visa,,unknown,unknown
+BILOKOROVYCHI,visa,,unknown,unknown
+BILSK,visa,,unknown,unknown
+NOVI BILOKOROVYCHI,visa,,unknown,unknown
+BOROVA,visa,,unknown,unknown
+SHEVCHENKOVE,visa,,unknown,unknown
+MAKORTY,visa,,unknown,unknown
+BILOZIRIA,visa,,unknown,unknown
+POLISKE,visa,,unknown,unknown
+BILOZIRYA,visa,,unknown,unknown
+KAGARLYK,visa,,unknown,unknown
+MYRONIVSKYJ,visa,,unknown,unknown
+KAHARLYK,visa,,unknown,unknown
+OLEKSANDRIIA,visa,,unknown,unknown
+DUBIIVKA,visa,,unknown,unknown
+KOROSTEN,visa,,unknown,unknown
+ALEKSANDRIYA,visa,,unknown,unknown
+KOROSTEN',visa,,unknown,unknown
+VASYLKIV,visa,,unknown,unknown
+PRYIUTIVKA,visa,,unknown,unknown
+MISTECHKO,visa,,unknown,unknown
+LUGYNY,visa,,unknown,unknown
+DANYLIVKA,visa,,unknown,unknown
+LUHYNY,visa,,unknown,unknown
+CHOPOVYCHI,visa,,unknown,unknown
+MAKARIV,visa,,unknown,unknown
+HOSTOMEL,visa,,unknown,unknown
+PYATYKHATKY,visa,,unknown,unknown
+IRPIN,visa,,unknown,unknown
+PIATYKHATKY,visa,,unknown,unknown
+OBUKHIV,visa,,unknown,unknown
+RUSKA POLIANA,visa,,unknown,unknown
+SAKSAGAN,visa,,unknown,unknown
+RUSKA POLYANA,visa,,unknown,unknown
+VASYLIVKA,visa,,unknown,unknown
+MALYN,visa,,unknown,unknown
+MOSHNY,visa,,unknown,unknown
+KRUSHYNSKA SLR,visa,,unknown,unknown
+ORSHANETS,visa,,unknown,unknown
+HLEVAKHA,visa,,unknown,unknown
+TOMAKIVKA,visa,,unknown,unknown
+BILENKE,visa,,unknown,unknown
+HERONYMIVKA,visa,,unknown,unknown
+KIEV,visa,,unknown,unknown
+CHYHYRYN,visa,,unknown,unknown
+BOIARSKE LISNYTSTVO,visa,,unknown,unknown
+CHYGYRYN,visa,,unknown,unknown
+BOIARKA,visa,,unknown,unknown
+KANIV,visa,,unknown,unknown
+HUDYAKY,visa,,unknown,unknown
+BOYARKA,visa,,unknown,unknown
+CHERVONA SLOBODA,visa,,unknown,unknown
+ANDRIYIVKA,visa,,unknown,unknown
+RZHYSHCHIV,visa,,unknown,unknown
+RZHYSCHIV,visa,,unknown,unknown
+DUBIYIVKA,visa,,unknown,unknown
+TARASIVKA,visa,,unknown,unknown
+UKRAYINKA,visa,,unknown,unknown
+VITA-POCHTOVAYA,visa,,unknown,unknown
+BILOHORODKA,visa,,unknown,unknown
+UKRAINKA,visa,,unknown,unknown
+BORODIANKA,visa,,unknown,unknown
+MYLA,visa,,unknown,unknown
+KHODOSIVKA,visa,,unknown,unknown
+SVIATOPETRIVSKE,visa,,unknown,unknown
+CHABANY,visa,,unknown,unknown
+RUDYKY,visa,,unknown,unknown
+DMYTRIVKA,visa,,unknown,unknown
+HORENYCHI,visa,,unknown,unknown
+KRIUKIVSHCHYNA,visa,,unknown,unknown
+SOFIIVSKA BORSHCHAHIVKA,visa,,unknown,unknown
+HATNE,visa,,unknown,unknown
+SOF. BORSCHAGIVKA,visa,,unknown,unknown
+LISNIKI,visa,,unknown,unknown
+KHOTIV,visa,,unknown,unknown
+LISNYKY,visa,,unknown,unknown
+VYSHNEVE,visa,,unknown,unknown
+PAVLYSH,visa,,unknown,unknown
+STOIANKA,visa,,unknown,unknown
+BOZHEDARIVKA,visa,,unknown,unknown
+NOVOSILKY,visa,,unknown,unknown
+SOFIYIVSKA BORSHCHAGIVKA,visa,,unknown,unknown
+CHAIKI,visa,,unknown,unknown
+VISHNEVE,visa,,unknown,unknown
+CHAIKY,visa,,unknown,unknown
+SOF BORSHCHAHIVKA,visa,,unknown,unknown
+KYYIV,visa,,unknown,unknown
+PETROPAVLIVSKA BORSHCHAHIVKA,visa,,unknown,unknown
+N.ZAPORIZHZHYA,visa,,unknown,unknown
+ZAPORIZHYA,visa,,unknown,unknown
+KUSHUHUM,visa,,unknown,unknown
+BROVARY,visa,,unknown,unknown
+PETROPAVLIVKA,visa,,unknown,unknown
+NEMISHAIEVE,visa,,unknown,unknown
+VILNOHIRSK,visa,,unknown,unknown
+BORODYANKA,visa,,unknown,unknown
+PETROPAVLIVS'KA BORSHCHAHIVKA,visa,,unknown,unknown
+VORZEL,visa,,unknown,unknown
+VILNOGIRSK,visa,,unknown,unknown
+BUCHA,visa,,unknown,unknown
+SLOVECHNE,visa,,unknown,unknown
+SLOVECHNO,visa,,unknown,unknown
+IRPIN',visa,,unknown,unknown
+YAGOTYN,visa,,unknown,unknown
+ZAPOROZHYE,visa,,unknown,unknown
+BORYSPIL,visa,,unknown,unknown
+MST.KRYVE OZERO,visa,,unknown,unknown
+BORTNICHI,visa,,unknown,unknown
+ZOLOTONOSHA,visa,,unknown,unknown
+BERDYANSK,visa,,unknown,unknown
+KORSUN-SHEVCHEN.,visa,,unknown,unknown
+M. KYYIV,visa,,unknown,unknown
+STUDENYKY,visa,,unknown,unknown
+SHPYTKY,visa,,unknown,unknown
+IRKLIYIV,visa,,unknown,unknown
+IRKLIIV,visa,,unknown,unknown
+BERDIANSK,visa,,unknown,unknown
+ONUFRIYIVKA,visa,,unknown,unknown
+KYIYIV,visa,,unknown,unknown
+GOSTOMEL',visa,,unknown,unknown
+ONUFRIIVKA,visa,,unknown,unknown
+DYMER,visa,,unknown,unknown
+MARTUSOVKA,visa,,unknown,unknown
+KOZELETS,visa,,unknown,unknown
+NULL,visa,,unknown,unknown
+HELMIAZIV,visa,,unknown,unknown
+GELMYAZIV,visa,,unknown,unknown
+KROPYVNYTSK,visa,,unknown,unknown
+VERKHIVTSEVE,visa,,unknown,unknown
+VERKHOVTSEVO,visa,,unknown,unknown
+SVITLOVODS'K,visa,,unknown,unknown
+MIRNOYE,visa,,unknown,unknown
+KRYNYCHKY,visa,,unknown,unknown
+KYRNYCHKY,visa,,unknown,unknown
+SHCHASLYVE,visa,,unknown,unknown
+OVRUCH,visa,,unknown,unknown
+PEREIASLAV,visa,,unknown,unknown
+PROLISKY,visa,,unknown,unknown
+PEREYASLIV,visa,,unknown,unknown
+P-KHMELNYTSKYJ,visa,,unknown,unknown
+PEREYASLAV-KHMEL'NYTS'KYY,visa,,unknown,unknown
+PLESHKANI,visa,,unknown,unknown
+NARODYCHI,visa,,unknown,unknown
+HORA,visa,,unknown,unknown
+BILOGORODKA,visa,,unknown,unknown
+ORIKHIV,visa,,unknown,unknown
+NADIYIVKA,visa,,unknown,unknown
+PEREYASLAV-KHM,visa,,unknown,unknown
+VLASIVKA,visa,,unknown,unknown
+APOLLONOVKA,visa,,unknown,unknown
+BORYSPIL',visa,,unknown,unknown
+VYSHHOROD,visa,,unknown,unknown
+CHORNOBAJ,visa,,unknown,unknown
+NOVI PETRIVTSI,visa,,unknown,unknown
+CHORNOBAI,visa,,unknown,unknown
+CHORNOBAY,visa,,unknown,unknown
+SOLONE,visa,,unknown,unknown
+KNYAZHYCHI,visa,,unknown,unknown
+KAMYANE,visa,,unknown,unknown
+OPISHNYA,visa,,unknown,unknown
+STARYYE PETROVTSY,visa,,unknown,unknown
+KHOROL,visa,,unknown,unknown
+SKORIKIVKA,visa,,unknown,unknown
+HRADYZK,visa,,unknown,unknown
+PERSHOTRAVNEVE,visa,,unknown,unknown
+IVANKIV,visa,,unknown,unknown
+ZAZYMIE,visa,,unknown,unknown
+BOVARY,visa,,unknown,unknown
+NOVOMYKOLAIVKA,visa,,unknown,unknown
+GORISHNI PLAVNI,visa,,unknown,unknown
+POTOKY,visa,,unknown,unknown
+HORISHNIPLAVNI,visa,,unknown,unknown
+PRISTROMY,visa,,unknown,unknown
+AULY,visa,,unknown,unknown
+VILNYANSK,visa,,unknown,unknown
+VILNIANSK,visa,,unknown,unknown
+KOMSOMOL'SK,visa,,unknown,unknown
+VERKHNODNIPROVSK,visa,,unknown,unknown
+VERKHODNIPROVSK,visa,,unknown,unknown
+KAMYANSKE,visa,,unknown,unknown
+KAMENSKOE,visa,,unknown,unknown
+VERKHNEDNIPROVSK,visa,,unknown,unknown
+BARYSHIVKA,visa,,unknown,unknown
+KAMENSKE,visa,,unknown,unknown
+LOZOVAYA,visa,,unknown,unknown
+NYZHNJE SOLOTVYNO,visa,,unknown,unknown
+NOVOGRODOVKA,visa,,unknown,unknown
+TORETSK,visa,,unknown,unknown
+GORNYAK,visa,,unknown,unknown
+ILNYTSYA,visa,,unknown,unknown
+SIEVERODONETS'K,visa,,unknown,unknown
+SURSKO-LYTOVSKE,visa,,unknown,unknown
+KARNAUKHIVKA,visa,,unknown,unknown
+PUSTOVARIVKA,visa,,unknown,unknown
+DNIPROPETROVSK,visa,,unknown,unknown
+DENESHI,visa,,unknown,unknown
+BEREZAN,visa,,unknown,unknown
+VELYKA DYMERKA,visa,,unknown,unknown
+DRABIV,visa,,unknown,unknown
+BEREZAN',visa,,unknown,unknown
+DNIPRODZERZHINSK,visa,,unknown,unknown
+NOVOOLEKSANDRIVKA,visa,,unknown,unknown
+HLOBYNE,visa,,unknown,unknown
+GLOBYNE,visa,,unknown,unknown
+VERKHNYA TERSA,visa,,unknown,unknown
+YELYZAVETIVKA,visa,,unknown,unknown
+YAHOTYN,visa,,unknown,unknown
+STARI KODAKY,visa,,unknown,unknown
+DNEPROPETROVSK,visa,,unknown,unknown
+VOZDVYZHIVKA,visa,,unknown,unknown
+YUBILEYNOYE,visa,,unknown,unknown
+ORZHYTSIA,visa,,unknown,unknown
+ORZHYTSYA,visa,,unknown,unknown
+ORDZHONIKIDZE,visa,,unknown,unknown
+ILARIONOVO,visa,,unknown,unknown
+PAVLOGRAD,visa,,unknown,unknown
+PAVLOHRAD,visa,,unknown,unknown
+SINELNIKOVO,visa,,unknown,unknown
+OBUKHIVKA,visa,,unknown,unknown
+DNIEPROPETROVSK,visa,,unknown,unknown
+PARTYZANSKE,visa,,unknown,unknown
+PETRYKIVKA,visa,,unknown,unknown
+PARTIZANSKOYE,visa,,unknown,unknown
+SEMYPOLKY,visa,,unknown,unknown
+LIUBYMIVKA,visa,,unknown,unknown
+RADIONIVKA,visa,,unknown,unknown
+SEMENIVKA,visa,,unknown,unknown
+KOZELSCHYNA,visa,,unknown,unknown
+KOZELSHCHYNA,visa,,unknown,unknown
+NOVOMYKOLAYIVKA,visa,,unknown,unknown
+MOHYLIV,visa,,unknown,unknown
+CHUMAKY,visa,,unknown,unknown
+SLOBOZHANSKE,visa,,unknown,unknown
+PIDHORODNE,visa,,unknown,unknown
+TSARYCHANKA,visa,,unknown,unknown
+SYNELNYKOVE,visa,,unknown,unknown
+HREBINKA,visa,,unknown,unknown
+GREBINKA,visa,,unknown,unknown
+KOBELIAKY,visa,,unknown,unknown
+VESELE,visa,,unknown,unknown
+KOBELYAKY,visa,,unknown,unknown
+ZHURIVKA,visa,,unknown,unknown
+OSTER,visa,,unknown,unknown
+NOVOORZHYTSKE,visa,,unknown,unknown
+NOVOSELIVKA,visa,,unknown,unknown
+BILOTSERKIVKA,visa,,unknown,unknown
+NOVOKRASNOVKA,visa,,unknown,unknown
+BOBROVYTSYA,visa,,unknown,unknown
+BOBROVYTSIA,visa,,unknown,unknown
+POKROVSKE,visa,,unknown,unknown
+YALOSOVETSKE,visa,,unknown,unknown
+MARIUPOL',visa,,unknown,unknown
+RADYVONIVKA,visa,,unknown,unknown
+GVARDIYSKE,visa,,unknown,unknown
+POPOVE,visa,,unknown,unknown
+MAYACHKA,visa,,unknown,unknown
+PYRIATYN,visa,,unknown,unknown
+LUBNY,visa,,unknown,unknown
+ORLIVSHCHYNA,visa,,unknown,unknown
+VASYLKIVKA,visa,,unknown,unknown
+ZASULLIA,visa,,unknown,unknown
+ZASULLYA,visa,,unknown,unknown
+PYRYATYN,visa,,unknown,unknown
+DEIMANIVKA,visa,,unknown,unknown
+MAGDALINOVKA,visa,,unknown,unknown
+MAGDALYNIVKA,visa,,unknown,unknown
+MAHDALYNIVKA,visa,,unknown,unknown
+ZNAMENIVKA,visa,,unknown,unknown
+CHAPLYNE,visa,,unknown,unknown
+NOVI SANZHARY,visa,,unknown,unknown
+HVARDIYSKE,visa,,unknown,unknown
+HVARDIISKE,visa,,unknown,unknown
+CHERKASKE,visa,,unknown,unknown
+SHYSHAKY,visa,,unknown,unknown
+HUBYNYKHA,visa,,unknown,unknown
+NOVOTROITSKE,visa,,unknown,unknown
+PISKI,visa,,unknown,unknown
+PROSIANA,visa,,unknown,unknown
+SRIBNE,visa,,unknown,unknown
+RESHETYLIVKA,visa,,unknown,unknown
+ROMODAN,visa,,unknown,unknown
+VELYKA BAHACHKA,visa,,unknown,unknown
+NOSIVKA,visa,,unknown,unknown
+MEZHERICH,visa,,unknown,unknown
+VELYKA BAGACHKA,visa,,unknown,unknown
+VARVA,visa,,unknown,unknown
+PROSYANE,visa,,unknown,unknown
+HOLUBIVKA,visa,,unknown,unknown
+CHORNUKHY,visa,,unknown,unknown
+KOTOVKA,visa,,unknown,unknown
+HONCHARIVSKE,visa,,unknown,unknown
+PRYLUKY,visa,,unknown,unknown
+KOTELVA,visa,,unknown,unknown
+LOSYNIVKA,visa,,unknown,unknown
+MYRHOROD,visa,,unknown,unknown
+LADAN,visa,,unknown,unknown
+MYRGOROD,visa,,unknown,unknown
+S.MRYN,visa,,unknown,unknown
+MIRGOROD,visa,,unknown,unknown
+HILTSI,visa,,unknown,unknown
+MASHIVKA,visa,,unknown,unknown
+HNIDYNTSI,visa,,unknown,unknown
+TERNIVKA,visa,,unknown,unknown
+KUSTOLOVO-SUKHODOLKA,visa,,unknown,unknown
+PERESCHEPYNE,visa,,unknown,unknown
+OLISHEVKA,visa,,unknown,unknown
+PERESHCHEPYNE,visa,,unknown,unknown
+UGLEDAR,visa,,unknown,unknown
+GOGOLEV,visa,,unknown,unknown
+SLAVUTYCH,visa,,unknown,unknown
+SLAVUTICH,visa,,unknown,unknown
+ROZSOSHENTSI,visa,,unknown,unknown
+VERBUVATIVKA,visa,,unknown,unknown
+SHCHERBANI,visa,,unknown,unknown
+BAGATE,visa,,unknown,unknown
+SENCHA,visa,,unknown,unknown
+VYRISHALNE,visa,,unknown,unknown
+NIZHYN,visa,,unknown,unknown
+MYKHAJLO-KOTSYUBYNSKE,visa,,unknown,unknown
+MEZHOVA,visa,,unknown,unknown
+ZACHEPYLIVKA,visa,,unknown,unknown
+ZACHYPYLIVKA,visa,,unknown,unknown
+LOKHVYTSIA,visa,,unknown,unknown
+LOKHVYTSYA,visa,,unknown,unknown
+YURIVKA,visa,,unknown,unknown
+VELYKYY BAYRAK,visa,,unknown,unknown
+LIUBECH,visa,,unknown,unknown
+BAZILEVSHCHINA,visa,,unknown,unknown
+ICHNIA,visa,,unknown,unknown
+BEZELEVSHCHYNA,visa,,unknown,unknown
+ICHNYA,visa,,unknown,unknown
+KOMYSHNYA,visa,,unknown,unknown
+KURAKHOVE,visa,,unknown,unknown
+VERTIYIVKA,visa,,unknown,unknown
+CHERNIHIV,visa,,unknown,unknown
+STEPNE,visa,,unknown,unknown
+CHERNIVGIV,visa,,unknown,unknown
+SHOSTKA,visa,,unknown,unknown
+SLOVIANKA,visa,,unknown,unknown
+PONORNYTSYA,visa,,unknown,unknown
+CHERNIGOV,visa,,unknown,unknown
+LANNA,visa,,unknown,unknown
+KARLIVKA,visa,,unknown,unknown
+BOZHKIIVS'KE,visa,,unknown,unknown
+RIPKY,visa,,unknown,unknown
+DYKANKA,visa,,unknown,unknown
+DYKAN'KA,visa,,unknown,unknown
+KULYKIVKA,visa,,unknown,unknown
+KHALIAVYN,visa,,unknown,unknown
+PARAFIYIVKA,visa,,unknown,unknown
+HIRNYK,visa,,unknown,unknown
+HIRNAK,visa,,unknown,unknown
+DONETSK,visa,,unknown,unknown
+UKRAYINSK,visa,,unknown,unknown
+SELYDOVE,visa,,unknown,unknown
+SELIDOVO,visa,,unknown,unknown
+UKRAINSK,visa,,unknown,unknown
+NOVOHRODIVKA,visa,,unknown,unknown
+NATALYNE,visa,,unknown,unknown
+KRASNOHRAD,visa,,unknown,unknown
+KRASNOGRAD,visa,,unknown,unknown
+POKROVSK,visa,,unknown,unknown
+KRASNOARMIJSK,visa,,unknown,unknown
+NOVOEKONOMICHNE,visa,,unknown,unknown
+KRASNOARMIYS'K,visa,,unknown,unknown
+LOZOVA,visa,,unknown,unknown
+SAKHNOVSHCHYNA,visa,,unknown,unknown
+SAKHNOVSHCHINA,visa,,unknown,unknown
+NOVOGRODIVKA,visa,,unknown,unknown
+KRASNOARMIYSK,visa,,unknown,unknown
+PLYSKY,visa,,unknown,unknown
+PANYUTYNE,visa,,unknown,unknown
+MYRNOGRAD,visa,,unknown,unknown
+MYRNOHRAD,visa,,unknown,unknown
+VOVCHANSK,visa,,unknown,unknown
+OPISHNIA,visa,,unknown,unknown
+KEHYCHIVKA,visa,,unknown,unknown
+RODYNSKE,visa,,unknown,unknown
+DYMYTROV,visa,,unknown,unknown
+RODINSKOYE,visa,,unknown,unknown
+DOBROPILLYA,visa,,unknown,unknown
+DOBROPILLIA,visa,,unknown,unknown
+HADIACH,visa,,unknown,unknown
+BILYTSKE,visa,,unknown,unknown
+DOBROPOL'YE,visa,,unknown,unknown
+HADYACH,visa,,unknown,unknown
+GADIACH,visa,,unknown,unknown
+GADYACH,visa,,unknown,unknown
+CHUTOVE,visa,,unknown,unknown
+TALALAIVKA,visa,,unknown,unknown
+TALALAYIVKA,visa,,unknown,unknown
+CHUTOVO,visa,,unknown,unknown
+BLYZNIUKY,visa,,unknown,unknown
+BILOZERSKE,visa,,unknown,unknown
+BORZNA,visa,,unknown,unknown
+BEREZNA,visa,,unknown,unknown
+CHERVONYY DONETS,visa,,unknown,unknown
+LYPOVA DOLYNA,visa,,unknown,unknown
+NOVODONETSKE,visa,,unknown,unknown
+SYNIVKA,visa,,unknown,unknown
+OCHERETYNE,visa,,unknown,unknown
+KURIN,visa,,unknown,unknown
+KRASNOPAVLIVKA,visa,,unknown,unknown
+MAKIIVKA,visa,,unknown,unknown
+BAKHMACH,visa,,unknown,unknown
+STAROVIRIVKA,visa,,unknown,unknown
+MENA,visa,,unknown,unknown
+MAKOSHYNE,visa,,unknown,unknown
+KOLOMAK,visa,,unknown,unknown
+DOBRIANKA,visa,,unknown,unknown
+GORODNYA,visa,,unknown,unknown
+TUPYCHIV,visa,,unknown,unknown
+HORODNIA,visa,,unknown,unknown
+PERVOMAISKYI,visa,,unknown,unknown
+PERVOMAJSKYJ,visa,,unknown,unknown
+NOVHORODSKE,visa,,unknown,unknown
+KRASNOKUTSK,visa,,unknown,unknown
+BARVINKOVE,visa,,unknown,unknown
+SOSNYTSIA,visa,,unknown,unknown
+SOSNYTSYA,visa,,unknown,unknown
+SNOVSK,visa,,unknown,unknown
+BATURYN,visa,,unknown,unknown
+DRUZHKIVKA,visa,,unknown,unknown
+KOSTIANTYNIVKA,visa,,unknown,unknown
+SLOVYANSK,visa,,unknown,unknown
+KOSTYANTYNIVKA,visa,,unknown,unknown
+KONSTYANTYNIVKA,visa,,unknown,unknown
+VALKY,visa,,unknown,unknown
+NEDRYHAILIV,visa,,unknown,unknown
+KONOTOP,visa,,unknown,unknown
+KONOTOM,visa,,unknown,unknown
+NOVA VODOLAHA,visa,,unknown,unknown
+N.VODOLAHA,visa,,unknown,unknown
+OKHTYRKA,visa,,unknown,unknown
+NOVA VODOLAGA,visa,,unknown,unknown
+LEBEDYN,visa,,unknown,unknown
+NEDRYGAJLIV,visa,,unknown,unknown
+BOROMLYA,visa,,unknown,unknown
+KORIUKIVKA,visa,,unknown,unknown
+KORYUKIVKA,visa,,unknown,unknown
+KRAMATORSK,visa,,unknown,unknown
+VOLODARSKE,visa,,unknown,unknown
+KRASNOARMEYSK,visa,,unknown,unknown
+M.KRAMATORSK,visa,,unknown,unknown
+KOMAR,visa,,unknown,unknown
+SVYATOHIRSK,visa,,unknown,unknown
+YASNOHIRKA,visa,,unknown,unknown
+LYMAN,visa,,unknown,unknown
+PYATYHIRSKE,visa,,unknown,unknown
+SLOVIANSK,visa,,unknown,unknown
+MERCHYK,visa,,unknown,unknown
+MEREFA,visa,,unknown,unknown
+BOHODUKHIV,visa,,unknown,unknown
+KOROP,visa,,unknown,unknown
+DONETS,visa,,unknown,unknown
+BAKHMUT,visa,,unknown,unknown
+BOGODUKHIV,visa,,unknown,unknown
+S.KOZATSKE,visa,,unknown,unknown
+LIUBOTYN,visa,,unknown,unknown
+ZMIIV,visa,,unknown,unknown
+ZMIYIV,visa,,unknown,unknown
+LYUBOTIN,visa,,unknown,unknown
+LYUBOTYN,visa,,unknown,unknown
+ANDRIIVKA,visa,,unknown,unknown
+PIVDENNE,visa,,unknown,unknown
+BURYN,visa,,unknown,unknown
+BALAKLIIA,visa,,unknown,unknown
+BALAKLIYA,visa,,unknown,unknown
+KAPYTOLIVKA,visa,,unknown,unknown
+KHOLMY,visa,,unknown,unknown
+KONSTANTYNOPIL,visa,,unknown,unknown
+IZIUM,visa,,unknown,unknown
+IZYUM,visa,,unknown,unknown
+TEMNEVKA,visa,,unknown,unknown
+SOLONITSIVKA,visa,,unknown,unknown
+SOLONYTSIVKA,visa,,unknown,unknown
+POKOTYLIVKA,visa,,unknown,unknown
+PISOCHYN,visa,,unknown,unknown
+SVYATOGIRSK,visa,,unknown,unknown
+VASYSHCHEVE,visa,,unknown,unknown
+KROLEVETS,visa,,unknown,unknown
+SAVYNTSI,visa,,unknown,unknown
+BEZLIUDIVKA,visa,,unknown,unknown
+KUPYANSK,visa,,unknown,unknown
+DERHACHI,visa,,unknown,unknown
+RUBLIVKA,visa,,unknown,unknown
+PUTYVL,visa,,unknown,unknown
+MALI PROKHODY,visa,,unknown,unknown
+VELYKA PYSARIVKA,visa,,unknown,unknown
+VEL. PYSARIVKA,visa,,unknown,unknown
+SAD,visa,,unknown,unknown
+LIMAN,visa,,unknown,unknown
+KRASNYY LIMAN,visa,,unknown,unknown
+VOROZHBA,visa,,unknown,unknown
+CHKALOVSKE,visa,,unknown,unknown
+MALYNIVKA,visa,,unknown,unknown
+KHARKOV,visa,,unknown,unknown
+BILOPILLYA,visa,,unknown,unknown
+VATUTINO,visa,,unknown,unknown
+DOKUCHAIEVSKE,visa,,unknown,unknown
+BELOPOLYE,visa,,unknown,unknown
+BILOPILLIA,visa,,unknown,unknown
+DERGACHI,visa,,unknown,unknown
+KYLINICHI,visa,,unknown,unknown
+VILSHANY,visa,,unknown,unknown
+SEVERSK,visa,,unknown,unknown
+CHUHUIV,visa,,unknown,unknown
+CHUGUYIV,visa,,unknown,unknown
+SLATINO,visa,,unknown,unknown
+KOCHETOK,visa,,unknown,unknown
+VORONEZH,visa,,unknown,unknown
+KRASNOPILLIA,visa,,unknown,unknown
+KRASNOPILLYA,visa,,unknown,unknown
+HIRSKE,visa,,unknown,unknown
+PECHENIGY,visa,,unknown,unknown
+PECHENIHY,visa,,unknown,unknown
+KOZACHA LOPAN,visa,,unknown,unknown
+LYPTSI,visa,,unknown,unknown
+LISICHANSK,visa,,unknown,unknown
+NOVHOROD-SIVERSKYI,visa,,unknown,unknown
+N-SIVERSKYY,visa,,unknown,unknown
+GLUKHIV,visa,,unknown,unknown
+N-SIVERSKYJ,visa,,unknown,unknown
+HLUKHIV,visa,,unknown,unknown
+RUBEZHNOE,visa,,unknown,unknown
+SEVERODONECK,visa,,unknown,unknown
+MYROPILLYA,visa,,unknown,unknown
+KATERINOVKA,visa,,unknown,unknown
+KIVSHARIVKA,visa,,unknown,unknown
+KUPIANSK-VUZLOVYI,visa,,unknown,unknown
+KUPIANSK,visa,,unknown,unknown
+SVESA,visa,,unknown,unknown
+DVORICHNA,visa,,unknown,unknown
+VELYKYI BURLUK,visa,,unknown,unknown
+VELYKYJ BURLUK,visa,,unknown,unknown
+TAVILZHANKA,visa,,unknown,unknown
+SEREDYNA-BUDA,visa,,unknown,unknown
+POLOVYNKINO,visa,,unknown,unknown
+BILOVODSK,visa,,unknown,unknown
+BELOVODSK,visa,,unknown,unknown
+POPASNA,visa,,unknown,unknown
+L.-OLEKSANDRIVKA,visa,,unknown,unknown
+Kherson,western_union,,unknown,PRIVATBANK
+Odessa,western_union,,unknown,JSC ASVIO BANK
+Kyiv,western_union,,unknown,JSC  ASVIO BANK
+Vinnitsa,western_union,,unknown,PRIVATBANK
+Вінниця,winetime_ua,,unknown,WINETIME у Вінниці
+Дніпро,winetime_ua,,unknown,WINETIME на Олександра Поля
+Івано-Франківськ,winetime_ua,,unknown,WINETIME у Крихівцях
+Київ,winetime_ua,,unknown,WINEWTIME на Верхогляда
+Луцьк,winetime_ua,,unknown,WINETIME на Градному узвозі
+Львів,winetime_ua,,unknown,WINETIME на Чорновола
+Полтава,winetime_ua,,unknown,WINETIME на Стрітенській
+Рівне,winetime_ua,,unknown,WINETIME на Щасливій
+Тернопіль,winetime_ua,,unknown,WINETIME на Крушельницької
+Ужгород,winetime_ua,,unknown,WINETIME в Ужгороді
+Хмельницький,winetime_ua,,unknown,WINETIME на Проскурівській
+Черкаси,winetime_ua,,unknown,WINETIME на Грушевського
+Чернівці,winetime_ua,,unknown,WINETIME на Головній
+Чернігів,winetime_ua,,unknown,WINETIME на Київській

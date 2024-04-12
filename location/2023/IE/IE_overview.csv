@@ -1,0 +1,4153 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,2
+UNKNOWN,adidas,Kildare,1
+M,alamo,Cork,1
+M,alamo,Clare,1
+D,alamo,Dublin,1
+KY,alamo,Kerry,1
+L,alamo,Dublin,1
+CARLOW,aldi_sud_ie,unknown,4
+CORK,aldi_sud_ie,unknown,26
+WICKLOW,aldi_sud_ie,unknown,5
+WEXFORD,aldi_sud_ie,unknown,7
+WESTMEATH,aldi_sud_ie,unknown,4
+WATERFORD,aldi_sud_ie,unknown,5
+TIPPERARY,aldi_sud_ie,unknown,8
+SLIGO,aldi_sud_ie,unknown,1
+ROSCOMMON,aldi_sud_ie,unknown,1
+OFFALY,aldi_sud_ie,unknown,2
+MONAGHAN,aldi_sud_ie,unknown,1
+MEATH,aldi_sud_ie,unknown,7
+MAYO,aldi_sud_ie,unknown,6
+LOUTH,aldi_sud_ie,unknown,5
+LONGFORD,aldi_sud_ie,unknown,1
+LIMERICK,aldi_sud_ie,unknown,3
+LEITRIM,aldi_sud_ie,unknown,1
+LAOIS,aldi_sud_ie,unknown,2
+KILKENNY,aldi_sud_ie,unknown,5
+KILDARE,aldi_sud_ie,unknown,9
+KERRY,aldi_sud_ie,unknown,8
+GALWAY,aldi_sud_ie,unknown,11
+DUBLIN,aldi_sud_ie,unknown,26
+DONEGAL,aldi_sud_ie,unknown,6
+CLARE,aldi_sud_ie,unknown,4
+CAVAN,aldi_sud_ie,unknown,1
+DONEGAL,allied_irish_banks_ie,unknown,8
+CORK,allied_irish_banks_ie,unknown,26
+WICKLOW,allied_irish_banks_ie,unknown,5
+WEXFORD,allied_irish_banks_ie,unknown,4
+WESTMEATH,allied_irish_banks_ie,unknown,2
+WATERFORD,allied_irish_banks_ie,unknown,6
+TIPPERARY,allied_irish_banks_ie,unknown,9
+SLIGO,allied_irish_banks_ie,unknown,2
+ROSCOMMON,allied_irish_banks_ie,unknown,2
+OFFALY,allied_irish_banks_ie,unknown,3
+MONAGHAN,allied_irish_banks_ie,unknown,3
+MEATH,allied_irish_banks_ie,unknown,4
+MAYO,allied_irish_banks_ie,unknown,6
+LOUTH,allied_irish_banks_ie,unknown,4
+LONGFORD,allied_irish_banks_ie,unknown,1
+LIMERICK,allied_irish_banks_ie,unknown,8
+LEITRIM,allied_irish_banks_ie,unknown,3
+LAOIS,allied_irish_banks_ie,unknown,2
+KILKENNY,allied_irish_banks_ie,unknown,2
+KILDARE,allied_irish_banks_ie,unknown,7
+KERRY,allied_irish_banks_ie,unknown,8
+GALWAY,allied_irish_banks_ie,unknown,11
+DUBLIN,allied_irish_banks_ie,unknown,23
+DUBLIN,allied_irish_banks_ie,Tallaght Dublin 24,1
+DUBLIN,allied_irish_banks_ie,Santry Dublin 9,1
+DUBLIN,allied_irish_banks_ie,Rathgar Dublin 6,1
+DUBLIN,allied_irish_banks_ie,Ranelagh Dublin 6,1
+DUBLIN,allied_irish_banks_ie,Finglas Dublin 11,1
+DUBLIN,allied_irish_banks_ie,Dun Laoghaire Dún Laoghaire,1
+DUBLIN,allied_irish_banks_ie,Dublin City Dublin 1,3
+DUBLIN,allied_irish_banks_ie,Dublin City Dublin 2,6
+DUBLIN,allied_irish_banks_ie,Drumcondra Dublin 9,1
+DUBLIN,allied_irish_banks_ie,Cornelscourt Dublin 18,1
+DUBLIN,allied_irish_banks_ie,Ballymount Dublin 22,1
+CLARE,allied_irish_banks_ie,unknown,5
+CAVAN,allied_irish_banks_ie,unknown,1
+CARLOW,allied_irish_banks_ie,unknown,2
+UNKNOWN,alstom,unknown,2
+DUBLIN,anytime_fitness,Clondalkin,1
+DUBLIN,anytime_fitness,Kilmainham,1
+DUBLIN,anytime_fitness,Co. Dublin,1
+KILDARE,anytime_fitness,Maynooth,1
+CORK,anytime_fitness,Ballincollig (Cork),1
+COOFFALY,an_post_ie,Banagher,1
+COOFFALY,an_post_ie,Cloghan,1
+COGALWAY,an_post_ie,Ballinasloe,8
+COOFFALY,an_post_ie,Shannonbridge,1
+COOFFALY,an_post_ie,Birr,2
+COOFFALY,an_post_ie,Crinkle,1
+COOFFALY,an_post_ie,Ferbane,1
+COOFFALY,an_post_ie,Kilcormac,1
+COGALWAY,an_post_ie,Portumna,1
+COWESTMEATH,an_post_ie,Ballinahowen,1
+COGALWAY,an_post_ie,Creagh,1
+COOFFALY,an_post_ie,Shinrone,1
+COTIPPERARY,an_post_ie,Borriskane,1
+COOFFALY,an_post_ie,Ballycumber,1
+COOFFALY,an_post_ie,Tullamore,6
+COWESTMEATH,an_post_ie,Athlone,4
+COROSCOMMON,an_post_ie,Athlone,1
+COTIPPERARY,an_post_ie,Cloughjordan,1
+COTIPPERARY,an_post_ie,Roscrea,1
+COWESTMEATH,an_post_ie,Moate,2
+COGALWAY,an_post_ie,Loughrea,4
+COOFFALY,an_post_ie,Clara,1
+COOFFALY,an_post_ie,Dunkerrin,1
+COLAOIS,an_post_ie,Clonaslee,1
+COGALWAY,an_post_ie,Woodford,2
+COWESTMEATH,an_post_ie,Glasson,1
+COGALWAY,an_post_ie,Ahascragh,1
+COROSCOMMON,an_post_ie,Curraghboy,1
+COLAOIS,an_post_ie,Borris-In-Ossory,1
+COROSCOMMON,an_post_ie,Ballinasloe,1
+COWESTMEATH,an_post_ie,Kilbeggan,2
+COTIPPERARY,an_post_ie,Nenagh,4
+COWESTMEATH,an_post_ie,Ballymore,1
+COWESTMEATH,an_post_ie,Streamstown,1
+COLAOIS,an_post_ie,Mountrath,1
+COTIPPERARY,an_post_ie,Newtown,1
+COLAOIS,an_post_ie,Errill,1
+COLAOIS,an_post_ie,Rathdowney,2
+COWESTMEATH,an_post_ie,Castletown Geoghegan,1
+COGALWAY,an_post_ie,Ballygar,1
+COLAOIS,an_post_ie,Portlaoise,8
+COROSCOMMON,an_post_ie,Knockcroghery,1
+COLONGFORD,an_post_ie,Ballymahon,1
+COTIPPERARY,an_post_ie,Templemore,1
+COLAOIS,an_post_ie,Mountmellick,1
+COWESTMEATH,an_post_ie,Tyrrellspass,1
+COGALWAY,an_post_ie,Newbridge,1
+COGALWAY,an_post_ie,Mountbellew,1
+COOFFALY,an_post_ie,Daingean,1
+COTIPPERARY,an_post_ie,Thurles,5
+COCLARE,an_post_ie,Scarriff,1
+COTIPPERARY,an_post_ie,Borrisoleigh,1
+COLAOIS,an_post_ie,Abbeyleix,3
+COLAOIS,an_post_ie,Ballacolla,1
+COLONGFORD,an_post_ie,Keenagh,1
+COGALWAY,an_post_ie,Craughwell,1
+COROSCOMMON,an_post_ie,Roscommon,1
+COROSCOMMON,an_post_ie,Castlecoote,1
+COGALWAY,an_post_ie,Creggs,1
+COWESTMEATH,an_post_ie,Mullingar,6
+COWESTMEATH,an_post_ie,Rochfortbridge,1
+COGALWAY,an_post_ie,Athenry,3
+COGALWAY,an_post_ie,Monivea,1
+COCLARE,an_post_ie,Feakle,1
+COCLARE,an_post_ie,Killaloe,1
+COLAOIS,an_post_ie,Portarlington,2
+COWESTMEATH,an_post_ie,Ballynacargy,1
+COLAOIS,an_post_ie,Cullahill,1
+COLONGFORD,an_post_ie,Lenamore,1
+COLONGFORD,an_post_ie,Lanesborough,1
+COCLARE,an_post_ie,Caher,1
+COLAOIS,an_post_ie,Durrow,1
+COOFFALY,an_post_ie,Rhode,1
+COGALWAY,an_post_ie,Labane,1
+COKILKENNY,an_post_ie,Johnstown,1
+COGALWAY,an_post_ie,Kilkerrin,1
+COLONGFORD,an_post_ie,Ardagh Village,1
+COGALWAY,an_post_ie,Gort,1
+COLAOIS,an_post_ie,Attanagh,1
+COGALWAY,an_post_ie,Abbeyknockmoy,1
+COKILKENNY,an_post_ie,Urlingford,1
+COLAOIS,an_post_ie,Stradbally,1
+COGALWAY,an_post_ie,Tuam,7
+COOFFALY,an_post_ie,Rathangan,1
+COGALWAY,an_post_ie,Kilcolgan,1
+COWESTMEATH,an_post_ie,Ballinalack,1
+COGALWAY,an_post_ie,Clarinbridge,1
+COOFFALY,an_post_ie,Clonbullogue,1
+COTIPPERARY,an_post_ie,Newport,1
+COGALWAY,an_post_ie,Glenamaddy,1
+COCLARE,an_post_ie,Broadford,1
+COLONGFORD,an_post_ie,Longford,2
+COLONGFORD,an_post_ie,Edgeworthstown,1
+COKILDARE,an_post_ie,Monasterevin,1
+COTIPPERARY,an_post_ie,Hollyford,1
+COCLARE,an_post_ie,Tulla,1
+COLIMERICK,an_post_ie,Castleconnell,2
+COTIPPERARY,an_post_ie,Rossmore,1
+COGALWAY,an_post_ie,Oran More,1
+COGALWAY,an_post_ie,Turloughmore,1
+COOFFALY,an_post_ie,Edenderry,2
+COKILKENNY,an_post_ie,Freshford,1
+COTIPPERARY,an_post_ie,Clonoulty,1
+COLONGFORD,an_post_ie,Newtownforbes,1
+COROSCOMMON,an_post_ie,Ballintubber,1
+COWESTMEATH,an_post_ie,Kinnegad,1
+COLIMERICK,an_post_ie,Murroe,1
+COKILDARE,an_post_ie,Rathangan,1
+COWESTMEATH,an_post_ie,Killucan,1
+COROSCOMMON,an_post_ie,Strokestown,1
+COGALWAY,an_post_ie,Claregalway,1
+COCLARE,an_post_ie,Kilkishen,1
+COKILKENNY,an_post_ie,Castlecomer,2
+COLIMERICK,an_post_ie,Doon,1
+COGALWAY,an_post_ie,Williamstown,1
+COCLARE,an_post_ie,Ardnacrusha,1
+COGALWAY,an_post_ie,Briarhill,1
+COLIMERICK,an_post_ie,Cappamore,1
+COLAOIS,an_post_ie,Ballylinan,1
+COTIPPERARY,an_post_ie,Cappawhite,1
+COCARLOW,an_post_ie,Crettyard,2
+COLONGFORD,an_post_ie,Ballinalee,1
+COGALWAY,an_post_ie,Galway,13
+COLIMERICK,an_post_ie,Limerick,11
+COGALWAY,an_post_ie,Dunmore,1
+COWESTMEATH,an_post_ie,Raharney,1
+COWESTMEATH,an_post_ie,Coole,1
+COROSCOMMON,an_post_ie,Castlerea,2
+COKILDARE,an_post_ie,Athy,2
+COTIPPERARY,an_post_ie,Dundrum,1
+COWESTMEATH,an_post_ie,Castlepollard,1
+COKILDARE,an_post_ie,Kildare,2
+COKILDARE,an_post_ie,Carbury,1
+COGALWAY,an_post_ie,Corrandulla,1
+COLIMERICK,an_post_ie,Kileely Road,1
+COLONGFORD,an_post_ie,Drumlish,1
+COMEATH,an_post_ie,Hill Of Down,1
+COTIPPERARY,an_post_ie,Killenaule,1
+COCLARE,an_post_ie,Quin,1
+COROSCOMMON,an_post_ie,Roosky,1
+COCLARE,an_post_ie,Sixmilebridge,1
+COLONGFORD,an_post_ie,Granard,1
+COLIMERICK,an_post_ie,Pallasgreen,2
+COLIMERICK,an_post_ie,Ennis Road,1
+COKILKENNY,an_post_ie,Kilmanagh,1
+COLIMERICK,an_post_ie,Caherconlish,1
+COGALWAY,an_post_ie,Newcastle,1
+COROSCOMMON,an_post_ie,Elphin,2
+COTIPPERARY,an_post_ie,Cashel,1
+COROSCOMMON,an_post_ie,Ballyhaunis,1
+COWESTMEATH,an_post_ie,Delvin,1
+COKILDARE,an_post_ie,Allenwood,1
+COCLARE,an_post_ie,Cratloe,1
+COLIMERICK,an_post_ie,Oola,1
+COROSCOMMON,an_post_ie,Ballinlough,1
+COLIMERICK,an_post_ie,Ballyneety,1
+COMEATH,an_post_ie,Longwood,1
+COLAOIS,an_post_ie,Carlow,1
+COKILKENNY,an_post_ie,Kilkenny,6
+COTIPPERARY,an_post_ie,Golden,1
+COGALWAY,an_post_ie,Milltown,1
+COKILDARE,an_post_ie,Curragh,1
+COCLARE,an_post_ie,Ennis,6
+COCLARE,an_post_ie,Corofin,1
+COCLARE,an_post_ie,Newmarket-On-Fergus,1
+COMEATH,an_post_ie,Ballivor,1
+COCLARE,an_post_ie,Clarecastle,1
+COKILDARE,an_post_ie,Newbridge,4
+COGALWAY,an_post_ie,Barna,1
+COKILDARE,an_post_ie,Robertstown,1
+COCLARE,an_post_ie,Ballyvaughan,1
+COKILDARE,an_post_ie,Coill Dubh,1
+COMEATH,an_post_ie,Johnstownbridge,1
+COTIPPERARY,an_post_ie,Drangan,1
+COLAOIS,an_post_ie,Carlow Town,1
+COROSCOMMON,an_post_ie,Frenchpark,2
+COMAYO,an_post_ie,Claremorris,2
+COCLARE,an_post_ie,Shannon,1
+COTIPPERARY,an_post_ie,Tipperary,1
+COKILDARE,an_post_ie,Ballitore,1
+COCARLOW,an_post_ie,Carlow,4
+COMEATH,an_post_ie,Enfield,1
+COGALWAY,an_post_ie,Headford,1
+COGALWAY,an_post_ie,Moycullen,1
+COCARLOW,an_post_ie,Old Leighlin,1
+COTIPPERARY,an_post_ie,Mullinahone,1
+COCAVAN,an_post_ie,Loch Gowna,1
+COLEITRIM,an_post_ie,Mohill,1
+COLIMERICK,an_post_ie,Patrickswell,1
+COKILKENNY,an_post_ie,Callan,1
+COGALWAY,an_post_ie,Furbo,1
+COMAYO,an_post_ie,Shrule,1
+COLIMERICK,an_post_ie,Crecora,1
+COKILDARE,an_post_ie,Castledermot,1
+COMAYO,an_post_ie,Ballyhaunis,2
+COKILDARE,an_post_ie,Prosperous,1
+COTIPPERARY,an_post_ie,Fethard,2
+COMEATH,an_post_ie,Kells,5
+COKILDARE,an_post_ie,Kilcullen,1
+COWESTMEATH,an_post_ie,Clonmellon,1
+COCARLOW,an_post_ie,Leighlinbridge,1
+COCAVAN,an_post_ie,Loughduff,1
+COMAYO,an_post_ie,Ballindine,2
+COLONGFORD,an_post_ie,Moyne,1
+COTIPPERARY,an_post_ie,Emly,1
+COMEATH,an_post_ie,Oldcastle,1
+COLEITRIM,an_post_ie,Carrick-On-Shannon,4
+COLIMERICK,an_post_ie,Pallaskenry,1
+COCAVAN,an_post_ie,Mountnugent,1
+COLIMERICK,an_post_ie,Hospital,1
+COMEATH,an_post_ie,Rathmolyon,1
+COKILKENNY,an_post_ie,Bennettsbridge,1
+COMEATH,an_post_ie,Athboy,1
+COCAVAN,an_post_ie,Arva,1
+COWICKLOW,an_post_ie,Dunlavin,1
+COKILDARE,an_post_ie,Clane,1
+COCLARE,an_post_ie,Inagh,1
+COCARLOW,an_post_ie,Muine Bheag,1
+COKILKENNY,an_post_ie,Gowran,1
+COLIMERICK,an_post_ie,Bruff,1
+COKILDARE,an_post_ie,Naas,3
+COLIMERICK,an_post_ie,Adare,1
+COKILDARE,an_post_ie,Sallins,1
+COGALWAY,an_post_ie,Spiddal,1
+COMEATH,an_post_ie,Trim,1
+COROSCOMMON,an_post_ie,Ballaghadereen,1
+COCLARE,an_post_ie,Lisdoonvarna,1
+COMEATH,an_post_ie,Summerhill,1
+COLIMERICK,an_post_ie,Croom,1
+COMEATH,an_post_ie,Fordstown,1
+COLEITRIM,an_post_ie,Leitrim Village,1
+COWICKLOW,an_post_ie,Baltinglass,1
+COROSCOMMON,an_post_ie,Boyle,2
+COLIMERICK,an_post_ie,Galbally,1
+COKILKENNY,an_post_ie,Windgap,1
+COTIPPERARY,an_post_ie,Cahir,2
+COKILDARE,an_post_ie,Kilcock,1
+COLEITRIM,an_post_ie,Carrigallen,1
+COCAVAN,an_post_ie,Ballinagh,1
+COKILKENNY,an_post_ie,Goresbridge,1
+COCAVAN,an_post_ie,Ballyjamesduff,1
+COMAYO,an_post_ie,Cross,1
+COKILDARE,an_post_ie,Ballymore Eustace,1
+COTIPPERARY,an_post_ie,Clonmel,4
+COMAYO,an_post_ie,Knock,1
+COCLARE,an_post_ie,Ennistymon,1
+COKILKENNY,an_post_ie,Kilmoganny,1
+COMEATH,an_post_ie,Carnaross,1
+COKILDARE,an_post_ie,Straffan,1
+COKILKENNY,an_post_ie,Thomastown,1
+COKILDARE,an_post_ie,Kill,2
+COCAVAN,an_post_ie,Lisduff,1
+COCARLOW,an_post_ie,Rathvilly,1
+COCARLOW,an_post_ie,Fenagh,1
+COMEATH,an_post_ie,Dunderry,1
+COGALWAY,an_post_ie,Oughterard,1
+COLIMERICK,an_post_ie,Askeaton,1
+COCAVAN,an_post_ie,Virginia,1
+COKILKENNY,an_post_ie,Knocktopher,1
+COCARLOW,an_post_ie,Tullow,1
+COCLARE,an_post_ie,Lissacassey,1
+COLIMERICK,an_post_ie,Ballylanders,1
+COKILKENNY,an_post_ie,Ballyhale,1
+COCLARE,an_post_ie,Kildysart,1
+COMAYO,an_post_ie,Cong,1
+COMAYO,an_post_ie,Kilkelly,1
+COMAYO,an_post_ie,Ballinrobe,1
+COKILDARE,an_post_ie,Maynooth,1
+COCLARE,an_post_ie,Lehinch,1
+COCARLOW,an_post_ie,Ballon,1
+COLEITRIM,an_post_ie,Drumshanbo,1
+COMEATH,an_post_ie,Kilcloon,1
+COLIMERICK,an_post_ie,Kilmallock,2
+COCARLOW,an_post_ie,Borris,1
+COSLIGO,an_post_ie,Gurteen,1
+COWICKLOW,an_post_ie,Blessington,1
+COLEITRIM,an_post_ie,Ballinamore,2
+COMEATH,an_post_ie,Kilmessan,1
+COKILDARE,an_post_ie,Celbridge,3
+COCAVAN,an_post_ie,Mullagh,1
+COLIMERICK,an_post_ie,Rathkeale,1
+COTIPPERARY,an_post_ie,Ardfinnan,1
+COLIMERICK,an_post_ie,Kilfinane,1
+COCARLOW,an_post_ie,Myshall,1
+COCAVAN,an_post_ie,Cavan,1
+COMEATH,an_post_ie,Navan,9
+COMEATH,an_post_ie,Moynalty,1
+COLIMERICK,an_post_ie,Foynes,1
+COLIMERICK,an_post_ie,Ballingarry,1
+COKILKENNY,an_post_ie,Inistioge,1
+COROSCOMMON,an_post_ie,Carrick-On-Shannon,1
+COMAYO,an_post_ie,Kiltamagh,1
+COKILKENNY,an_post_ie,Graiguenamanagh,1
+CODUBLIN,an_post_ie,Newcastle,1
+COGALWAY,an_post_ie,Clonbur,1
+COTIPPERARY,an_post_ie,Carrick-On-Suir,1
+COKILDARE,an_post_ie,Leixlip,1
+COMEATH,an_post_ie,Johnstown,1
+COGALWAY,an_post_ie,Ballynahown,1
+CODUBLIN,an_post_ie,Rathcoole,1
+COLIMERICK,an_post_ie,Shanagolden,1
+COCAVAN,an_post_ie,Stradone,1
+COCARLOW,an_post_ie,Hacketstown,1
+COMAYO,an_post_ie,Charlestown,1
+COCLARE,an_post_ie,Miltown Malbay,1
+COMEATH,an_post_ie,Dunshaughlin,1
+COTIPPERARY,an_post_ie,Ballyporeen,1
+COTIPPERARY,an_post_ie,Newcastle,1
+COMAYO,an_post_ie,Balla,1
+COKILKENNY,an_post_ie,Piltown,2
+CODUBLIN,an_post_ie,Saggart,1
+CODUBLIN,an_post_ie,Lucan,3
+COMEATH,an_post_ie,Dunboyne,1
+COCLARE,an_post_ie,Kilmihil,1
+COGALWAY,an_post_ie,Inis Oirr,1
+COMAYO,an_post_ie,Cornamona,1
+COWATERFORD,an_post_ie,Ballymacarbry,1
+COCORK,an_post_ie,Charleville,1
+CODUBLIN,an_post_ie,Dublin 24,12
+COCORK,an_post_ie,Mitchelstown,1
+COCAVAN,an_post_ie,Bailieborough,2
+COGALWAY,an_post_ie,Costelloe,1
+COCAVAN,an_post_ie,Ballyhaise,1
+COMEATH,an_post_ie,Clonee,1
+COMAYO,an_post_ie,Toormakeady,1
+COMAYO,an_post_ie,Swinford,1
+CODUBLIN,an_post_ie,Dublin 22,7
+COKILKENNY,an_post_ie,Listerlin,1
+COCLARE,an_post_ie,Kilrush,4
+COSLIGO,an_post_ie,Ballymote,1
+CODUBLIN,an_post_ie,Dublin 15,9
+COMAYO,an_post_ie,Bohola,1
+COCAVAN,an_post_ie,Ballyconnell,1
+COCLARE,an_post_ie,Kilmurry Mcmahon,1
+COKILKENNY,an_post_ie,The Rower,1
+COMEATH,an_post_ie,Ratoath,1
+COCLARE,an_post_ie,Quilty,1
+COWEXFORD,an_post_ie,Bunclody,1
+COCAVAN,an_post_ie,Drung,1
+COCAVAN,an_post_ie,Belturbet,2
+COCAVAN,an_post_ie,Canningstown,1
+COMEATH,an_post_ie,Nobber,1
+COGALWAY,an_post_ie,Carraroe,1
+CODUBLIN,an_post_ie,Dublin 20,2
+COWICKLOW,an_post_ie,Shillelagh,1
+COSLIGO,an_post_ie,Tubbercurry,1
+COSLIGO,an_post_ie,Riverstown,1
+COMEATH,an_post_ie,Rathkenny,1
+CODUBLIN,an_post_ie,Dublin 10,4
+COCORK,an_post_ie,Kildorrery,1
+COWEXFORD,an_post_ie,Enniscorthy,7
+COLIMERICK,an_post_ie,Newcastle West,1
+COWATERFORD,an_post_ie,Portlaw,1
+COLEITRIM,an_post_ie,Drumkeeran,1
+COGALWAY,an_post_ie,Bealdangan,1
+COLIMERICK,an_post_ie,Carrigkerry,1
+COMAYO,an_post_ie,Breaghwy,1
+COMAYO,an_post_ie,Ballyvary,1
+COWICKLOW,an_post_ie,Tinahely,1
+COMEATH,an_post_ie,Lobinstown,1
+COKILKENNY,an_post_ie,Mooncoin,1
+COGALWAY,an_post_ie,Rosmuck,1
+CODUBLIN,an_post_ie,Dublin 12,9
+COWATERFORD,an_post_ie,Ballinamult,1
+COMEATH,an_post_ie,Ashbourne,1
+COLIMERICK,an_post_ie,Glin,1
+CODUBLIN,an_post_ie,Dublin 16,4
+COCAVAN,an_post_ie,Kingscourt,2
+CODUBLIN8,an_post_ie,Inchicore,1
+COCAVAN,an_post_ie,Dowra,1
+COKILKENNY,an_post_ie,Upper Kilmacow,1
+COMEATH,an_post_ie,Slane,1
+COCORK,an_post_ie,Dromina,1
+CODUBLIN,an_post_ie,Dublin 8,8
+COSLIGO,an_post_ie,Aclare,1
+COWEXFORD,an_post_ie,New Ross,3
+CODUBLIN,an_post_ie,Dublin 14,6
+COGALWAY,an_post_ie,Lettermore,1
+COWEXFORD,an_post_ie,Irishtown,1
+COGALWAY,an_post_ie,Inishmore,1
+CODUBLIN,an_post_ie,Dublin 6w,4
+COKILKENNY,an_post_ie,Glenmore,1
+CODUBLIN,an_post_ie,Dublin 7,8
+COWICKLOW,an_post_ie,Carnew,1
+COLIMERICK,an_post_ie,Dromcollogher,1
+CODUBLIN,an_post_ie,Dublin 11,8
+COCLARE,an_post_ie,Doonbeg,1
+COMAYO,an_post_ie,Castlebar,3
+CODUBLIN,an_post_ie,Dublin 6W,1
+CODUBLIN,an_post_ie,Finglas,1
+COWICKLOW,an_post_ie,Glendalough,1
+COCORK,an_post_ie,Kilworth,1
+CODUBLIN,an_post_ie,Garristown,1
+COCORK,an_post_ie,Glanworth,1
+COWEXFORD,an_post_ie,Caim,1
+COMEATH,an_post_ie,Drumconrath,1
+COCAVAN,an_post_ie,Shercock,1
+COCAVAN,an_post_ie,Cootehill,1
+COLIMERICK,an_post_ie,Broadford,1
+CODUBLIN,an_post_ie,Dublin 6,2
+COWATERFORD,an_post_ie,Kilmacthomas,1
+COCORK,an_post_ie,Doneraile,1
+CODUBLIN,an_post_ie,Dublin 9,10
+COMONAGHAN,an_post_ie,Carrickmacross,3
+COMAYO,an_post_ie,Foxford,1
+COSLIGO,an_post_ie,Ballygawley,1
+CODUBLIN,an_post_ie,Dublin 2,6
+CODUBLIN,an_post_ie,Dublin 1,3
+COSLIGO,an_post_ie,Collooney,1
+COKERRY,an_post_ie,Tarbert,1
+COKILKENNY,an_post_ie,Newrath,1
+COCORK,an_post_ie,Buttevant,1
+COWATERFORD,an_post_ie,Cappoquin,2
+COMEATH,an_post_ie,Duleek,1
+COWICKLOW,an_post_ie,Aughrim,1
+CODUBLIN,an_post_ie,Dublin 4,3
+COWATERFORD,an_post_ie,Lismore,1
+COCORK,an_post_ie,Liscarroll,1
+CODUBLIN,an_post_ie,Dublin 3,5
+COMAYO,an_post_ie,Westport,5
+COWATERFORD,an_post_ie,Kilmeaden,1
+COCORK,an_post_ie,Castletownroche,1
+COCORK,an_post_ie,Fermoy,3
+COLEITRIM,an_post_ie,Dromahair,1
+CODUBLIN,an_post_ie,Sandyford,1
+CODUBLIN,an_post_ie,Dublin 18,4
+COWICKLOW,an_post_ie,Roundwood,1
+COWEXFORD,an_post_ie,Clonroche,1
+COWATERFORD,an_post_ie,Waterford,8
+COLOUTH,an_post_ie,Collon,1
+CODUBLIN,an_post_ie,Blackrock,4
+COSLIGO,an_post_ie,Ballisodare,1
+COLIMERICK,an_post_ie,Templeglantine,1
+CODUBLIN,an_post_ie,Swords,6
+COLIMERICK,an_post_ie,Athea,1
+CODUBLIN,an_post_ie,Dublin 5,7
+COMONAGHAN,an_post_ie,Latton,1
+COWATERFORD,an_post_ie,Ballybeg,1
+CODUBLIN,an_post_ie,Ballyboughal,1
+CODUBLIN,an_post_ie,Dublin 17,3
+COWEXFORD,an_post_ie,Ferns,1
+COWICKLOW,an_post_ie,Enniskerry,1
+COLOUTH,an_post_ie,Drogheda,6
+CODUBLIN,an_post_ie,Clonshaugh,1
+COWICKLOW,an_post_ie,Rathdrum,1
+COMONAGHAN,an_post_ie,Shantonagh,1
+COKERRY,an_post_ie,Listowel,2
+CODUBLIN,an_post_ie,Naul,1
+COWATERFORD,an_post_ie,Kilcohan,1
+COGALWAY,an_post_ie,Recess,1
+COLOUTH,an_post_ie,Ardee,1
+COMONAGHAN,an_post_ie,Clones,1
+COMONAGHAN,an_post_ie,Newbliss,1
+COWATERFORD,an_post_ie,Tallow,1
+COWATERFORD,an_post_ie,Cheekpoint,1
+COLEITRIM,an_post_ie,Glenfarne,1
+COWEXFORD,an_post_ie,Tomsallagh,1
+COCORK,an_post_ie,Conna,1
+COWEXFORD,an_post_ie,Campile,1
+COGALWAY,an_post_ie,Leenane,1
+COSLIGO,an_post_ie,Beltra,1
+COWEXFORD,an_post_ie,Adamstown,1
+CODUBLIN,an_post_ie,Glenageary,9
+COGALWAY,an_post_ie,Carna,1
+CODUBLIN,an_post_ie,Dublin 13,5
+COKERRY,an_post_ie,Ballylongford,1
+CODUBLIN,an_post_ie,Dublin,1
+COMAYO,an_post_ie,Ballina,9
+COWEXFORD,an_post_ie,Newbawn,1
+COWICKLOW,an_post_ie,Bray,6
+COWICKLOW,an_post_ie,Avoca,1
+COWEXFORD,an_post_ie,Ballyfad,1
+COLOUTH,an_post_ie,Bryanstown,1
+COMEATH,an_post_ie,Stamullin,1
+COCORK,an_post_ie,Castlelyons,1
+COWATERFORD,an_post_ie,Dungarvan,3
+COWEXFORD,an_post_ie,Kilanerin,1
+COWEXFORD,an_post_ie,Bree,1
+COSLIGO,an_post_ie,Sligo,2
+COLEITRIM,an_post_ie,Manorhamilton,1
+COSLIGO,an_post_ie,Church Hill,1
+COLOUTH,an_post_ie,Dundalk,10
+CODUBLIN,an_post_ie,Malahide,1
+COMONAGHAN,an_post_ie,Smithborough,1
+COSLIGO,an_post_ie,Ballinode,1
+COCORK,an_post_ie,Mallow,2
+COCORK,an_post_ie,Rathcormac,1
+COWICKLOW,an_post_ie,Newtownmountkennedy,1
+CODUBLIN,an_post_ie,Portmarnock,2
+COCLARE,an_post_ie,Kilkee,1
+COWEXFORD,an_post_ie,Coolgreany,1
+COLIMERICK,an_post_ie,Abbeyfeale,1
+COWEXFORD,an_post_ie,Boolavogue,1
+CODUBLIN,an_post_ie,Donabate,1
+CODUBLIN,an_post_ie,Lusk,1
+COWEXFORD,an_post_ie,GOREY,1
+COMONAGHAN,an_post_ie,Ballybay,1
+COWEXFORD,an_post_ie,Gorey,1
+COWICKLOW,an_post_ie,Ashford,1
+COSLIGO,an_post_ie,Strandhill,1
+COWEXFORD,an_post_ie,Ramsgrange,1
+COLOUTH,an_post_ie,Dunleer,1
+COWATERFORD,an_post_ie,Tramore,1
+COWEXFORD,an_post_ie,Ballycullane,1
+COLOUTH,an_post_ie,Louth Village,1
+COMEATH,an_post_ie,Laytown,1
+COWEXFORD,an_post_ie,Foulksmills,2
+COMAYO,an_post_ie,Kilmeena,1
+COWICKLOW,an_post_ie,Greystones,1
+CODUBLIN,an_post_ie,Balbriggan,3
+COCORK,an_post_ie,Newmarket,1
+COWICKLOW,an_post_ie,Kilcoole,1
+COMEATH,an_post_ie,Bettystown,1
+COWICKLOW,an_post_ie,Kilbride,1
+COCORK,an_post_ie,Kanturk,1
+COMEATH,an_post_ie,Mornington,1
+COMAYO,an_post_ie,Newport,1
+COWICKLOW,an_post_ie,Rathnew,1
+COWATERFORD,an_post_ie,Dunmore East,2
+COWICKLOW,an_post_ie,Arklow,2
+COWEXFORD,an_post_ie,Oylegate,1
+COMONAGHAN,an_post_ie,Inniskeen,1
+COWEXFORD,an_post_ie,Ballycanew,1
+COSLIGO,an_post_ie,Rosses Point,1
+COLEITRIM,an_post_ie,Kiltyclogher,1
+COMONAGHAN,an_post_ie,Three Mile House,1
+COLOUTH,an_post_ie,Termonfeckin,1
+COKERRY,an_post_ie,Brosna,1
+COGALWAY,an_post_ie,Roundstone,1
+CODUBLIN,an_post_ie,Rush,1
+COWEXFORD,an_post_ie,The Ballagh,1
+COWEXFORD,an_post_ie,Taghmon,1
+COWEXFORD,an_post_ie,Wells,1
+COWEXFORD,an_post_ie,Oulart,1
+COWICKLOW,an_post_ie,Wicklow,1
+COLOUTH,an_post_ie,Castlebellingham,1
+COWICKLOW,an_post_ie,Ballyguile,1
+CODUBLIN,an_post_ie,Skerries,1
+COSLIGO,an_post_ie,Dromore West,1
+COWEXFORD,an_post_ie,Wellingtonbridge,1
+COMONAGHAN,an_post_ie,Castleblayney,1
+COWEXFORD,an_post_ie,Courtown,1
+COKERRY,an_post_ie,Lisselton,1
+COLOUTH,an_post_ie,Dromiskin,1
+COCLARE,an_post_ie,Carrigaholt,1
+COMONAGHAN,an_post_ie,Monaghan,3
+COCORK,an_post_ie,Watergrasshill,1
+COLOUTH,an_post_ie,Clogherhead,1
+COMAYO,an_post_ie,Crossmolina,1
+COWATERFORD,an_post_ie,Youghal,1
+COWEXFORD,an_post_ie,Fethard-On-Sea,1
+COWEXFORD,an_post_ie,Bannow,1
+COMONAGHAN,an_post_ie,Scotstown,1
+COSLIGO,an_post_ie,Inniscrone,1
+COWEXFORD,an_post_ie,Cleariestown,1
+COMONAGHAN,an_post_ie,Clontibret,1
+COCORK,an_post_ie,Dungourney,1
+COCORK,an_post_ie,Boherbue,1
+COWEXFORD,an_post_ie,Ballygarrett,1
+COKERRY,an_post_ie,Ballybunnion,1
+COWEXFORD,an_post_ie,Castlebridge,1
+COWEXFORD,an_post_ie,Kilmuckridge,1
+COGALWAY,an_post_ie,Letterfrack,1
+COMAYO,an_post_ie,Louisburgh,1
+COLOUTH,an_post_ie,Blackrock,1
+COWEXFORD,an_post_ie,Blackwater,1
+COCORK,an_post_ie,Youghal,1
+COCORK,an_post_ie,Grenagh,1
+COCORK,an_post_ie,Carrignavar,1
+COCORK,an_post_ie,Kiskeam,1
+COKERRY,an_post_ie,Lyracrompane,1
+COWEXFORD,an_post_ie,Crosstown,1
+COSLIGO,an_post_ie,Easkey,1
+COSLIGO,an_post_ie,Grange,1
+COCORK,an_post_ie,Killeagh,1
+COWATERFORD,an_post_ie,Ardmore,1
+COWEXFORD,an_post_ie,Curracloe,1
+COWEXFORD,an_post_ie,Wexford,2
+COKERRY,an_post_ie,Ballyduff,1
+COGALWAY,an_post_ie,Clifden,1
+COGALWAY,an_post_ie,Tully More,1
+COMAYO,an_post_ie,Killala,1
+COWEXFORD,an_post_ie,Murrinstown,1
+COCORK,an_post_ie,Ballydesmond,1
+COKERRY,an_post_ie,Lixnaw,1
+COLEITRIM,an_post_ie,Kinlough,1
+COCORK,an_post_ie,Castlemartyr,1
+COCORK,an_post_ie,Midleton,2
+COCORK,an_post_ie,Glanmire,1
+COCORK,an_post_ie,Donoughmore,1
+COCORK,an_post_ie,Ladysbridge,1
+COKERRY,an_post_ie,Castleisland,2
+COCORK,an_post_ie,Carrigtohill,1
+COLOUTH,an_post_ie,Jenkinstown,1
+COCORK,an_post_ie,Glounthaune,1
+COWEXFORD,an_post_ie,Bridgetown,1
+COCORK,an_post_ie,Ballymacoda,1
+CODONEGAL,an_post_ie,Bundoran,1
+COMONAGHAN,an_post_ie,Emyvale,2
+COCORK,an_post_ie,Cork,22
+COCORK,an_post_ie,Blarney,2
+COCORK,an_post_ie,Millstreet,1
+COCORK,an_post_ie,Little Island,1
+COCORK,an_post_ie,Blackpool,1
+COKERRY,an_post_ie,Causeway,1
+COWEXFORD,an_post_ie,Killinick,1
+COWEXFORD,an_post_ie,Kilmore,1
+COCORK,an_post_ie,Rylane,1
+COCORK,an_post_ie,Churchfield,1
+COLOUTH,an_post_ie,Riverstown,1
+CODONEGAL,an_post_ie,Ballyshannon,1
+COCORK,an_post_ie,Mahon,1
+COKERRY,an_post_ie,Scartaglen,1
+COWEXFORD,an_post_ie,Rosslare,1
+COKERRY,an_post_ie,Abbeydorney,1
+COCORK,an_post_ie,Passage West,1
+COKERRY,an_post_ie,Rathmore,1
+COCORK,an_post_ie,Shanagarry,1
+COCORK,an_post_ie,Douglas,1
+COMAYO,an_post_ie,Clare Island,1
+COGALWAY,an_post_ie,Cleggan,1
+COCORK,an_post_ie,Macroom,7
+COLOUTH,an_post_ie,Carlingford,2
+COCORK,an_post_ie,Cobh,3
+COCORK,an_post_ie,Ballincollig,2
+COKERRY,an_post_ie,Ardfert,2
+COCORK,an_post_ie,Upper Aghada,1
+COLOUTH,an_post_ie,Omeath,1
+CODONEGAL,an_post_ie,Rossnowlagh,1
+COCORK,an_post_ie,Cloyne,1
+CODONEGAL,an_post_ie,Pettigo,1
+COWEXFORD,an_post_ie,Rosslare Harbour,1
+COMAYO,an_post_ie,Ballycastle,1
+COCORK,an_post_ie,Ovens,1
+COCORK,an_post_ie,Coachford,1
+COMAYO,an_post_ie,Achill Sound,1
+COKERRY,an_post_ie,Ballyheige,1
+COKERRY,an_post_ie,Tralee,2
+COKERRY,an_post_ie,Farranfore,1
+CODONEGAL,an_post_ie,Ballintra,1
+COCORK,an_post_ie,Carrigaline,1
+COCORK,an_post_ie,Crosshaven,1
+COGALWAY,an_post_ie,Inishbofin,1
+COMAYO,an_post_ie,Bangor Erris,1
+COKERRY,an_post_ie,Killarney,4
+COCORK,an_post_ie,Ballinhassig,1
+CODONEGAL,an_post_ie,Donegal,2
+COCORK,an_post_ie,Ballymakeera,1
+COCORK,an_post_ie,Crookstown,1
+COCORK,an_post_ie,Innishannon,2
+COCORK,an_post_ie,Minane Bridge,1
+COMAYO,an_post_ie,Glenamoy,1
+COCORK,an_post_ie,Kilbarry,1
+COKERRY,an_post_ie,Castlemaine,1
+CODONEGAL,an_post_ie,Mountcharles,1
+CODONEGAL,an_post_ie,Drumlonagher,1
+CODONEGAL,an_post_ie,Bruckless,1
+CODONEGAL,an_post_ie,Inver,1
+CODONEGAL,an_post_ie,Killybegs,2
+COKERRY,an_post_ie,Milltown,1
+COCORK,an_post_ie,Belgooly,1
+CODONEGAL,an_post_ie,Kilcar,1
+COKERRY,an_post_ie,Beaufort,1
+COCORK,an_post_ie,Bandon,2
+COCORK,an_post_ie,Inchigeelagh,1
+COCORK,an_post_ie,Kinsale,1
+CODONEGAL,an_post_ie,Carrick,1
+COCORK,an_post_ie,Enniskeane,2
+COKERRY,an_post_ie,Killorglin,1
+COKERRY,an_post_ie,Castlegregory,1
+COMAYO,an_post_ie,Belmullet,2
+COKERRY,an_post_ie,Kilgarvan,1
+COCORK,an_post_ie,Ballinspittle,1
+COCORK,an_post_ie,Kilbrittain,1
+CODONEGAL,an_post_ie,Glencolmcille,1
+CODONEGAL,an_post_ie,Ardara,1
+CODONEGAL,an_post_ie,Killygordan,1
+CODONEGAL,an_post_ie,Ballybofey,2
+CODONEGAL,an_post_ie,Glenties,1
+COCORK,an_post_ie,Dunmanway,1
+COKERRY,an_post_ie,Annascaul,1
+COKERRY,an_post_ie,Kenmare,1
+CODONEGAL,an_post_ie,Castlefin,1
+COKERRY,an_post_ie,Glenbeigh,1
+COKERRY,an_post_ie,Glencar,1
+CODONEGAL,an_post_ie,Cloghan,1
+COCORK,an_post_ie,Clonakilty,2
+CODONEGAL,an_post_ie,Lifford,1
+COCORK,an_post_ie,Kealkill,1
+CODONEGAL,an_post_ie,Portnoo,1
+CODONEGAL,an_post_ie,Lettermacaward,1
+CODONEGAL,an_post_ie,Convoy,1
+COKERRY,an_post_ie,Blackwater Bridge,1
+CODONEGAL,an_post_ie,Raphoe,1
+COCORK,an_post_ie,Drimoleague,1
+COCORK,an_post_ie,Glengarrif,1
+COCORK,an_post_ie,Rosscarbery,1
+COKERRY,an_post_ie,Dingle,1
+COCORK,an_post_ie,Bantry,4
+CODONEGAL,an_post_ie,Letterkenny,6
+COCORK,an_post_ie,Leap,1
+CODONEGAL,an_post_ie,Saint Johnston,1
+CODONEGAL,an_post_ie,Dunglow,1
+CODONEGAL,an_post_ie,Manorcunningham,1
+COKERRY,an_post_ie,Sneem,1
+COKERRY,an_post_ie,Ventry,1
+CODONEGAL,an_post_ie,Carrigans,1
+CODONEGAL,an_post_ie,Church Hill,1
+COKERRY,an_post_ie,Caherciveen,1
+CODONEGAL,an_post_ie,Burtonport,1
+COCORK,an_post_ie,Skibbereen,1
+CODONEGAL,an_post_ie,Arranmore,1
+CODONEGAL,an_post_ie,Loughanure,1
+CODONEGAL,an_post_ie,Killea,1
+COCORK,an_post_ie,Durrus,1
+CODONEGAL,an_post_ie,Newtowncunningham,1
+COKERRY,an_post_ie,Cahersiveen,1
+CODONEGAL,an_post_ie,Annagry,1
+CODONEGAL,an_post_ie,Dunlewey,1
+CODONEGAL,an_post_ie,Kilmacrennan,1
+CODONEGAL,an_post_ie,Kincasslagh,1
+CODONEGAL,an_post_ie,Ramelton,1
+COCORK,an_post_ie,Ballydehob,1
+CODONEGAL,an_post_ie,Burt,2
+COKERRY,an_post_ie,Castlecove,1
+CODONEGAL,an_post_ie,Bridgend,1
+CODONEGAL,an_post_ie,Derrybeg,2
+COKERRY,an_post_ie,Waterville,1
+CODONEGAL,an_post_ie,Milford,1
+CODONEGAL,an_post_ie,Fahan,1
+COCORK,an_post_ie,Bere Island,1
+COCORK,an_post_ie,Schull,1
+COCORK,an_post_ie,Eyeries,1
+COCORK,an_post_ie,Kilcrohane,1
+CODONEGAL,an_post_ie,Rathmullan,1
+CODONEGAL,an_post_ie,Muff,1
+CODONEGAL,an_post_ie,Gortahork,1
+CODONEGAL,an_post_ie,Creeslough,1
+COKERRY,an_post_ie,Ballinskelligs,1
+COCORK,an_post_ie,Castletownbere,1
+COKERRY,an_post_ie,Portmagee,1
+CODONEGAL,an_post_ie,Falcarragh,1
+CODONEGAL,an_post_ie,Kerrykeel,1
+CODONEGAL,an_post_ie,Buncrana,1
+CODONEGAL,an_post_ie,Cockhill,1
+CODONEGAL,an_post_ie,Carrigart,1
+CODONEGAL,an_post_ie,Crocknamurleog,1
+CODONEGAL,an_post_ie,Redcastle,1
+CODONEGAL,an_post_ie,Ballylar,1
+CODONEGAL,an_post_ie,Moville,1
+CODONEGAL,an_post_ie,Tory Island,1
+CODONEGAL,an_post_ie,Greencastle,1
+CODONEGAL,an_post_ie,Clonmany,1
+CODONEGAL,an_post_ie,Carndonagh,1
+CODONEGAL,an_post_ie,Gleneely,1
+CODONEGAL,an_post_ie,Ballyliffin,2
+CODONEGAL,an_post_ie,Malin,2
+CODONEGAL,an_post_ie,Culdaff,1
+CODONEGAL,an_post_ie,Malin Head,1
+LEINSTER,applegreen,Kilkenny,2
+MUNSTER,applegreen,unknown,6
+LEINSTER,applegreen,Loch Garman,8
+MUNSTER,applegreen,Ciarrai,7
+MUNSTER,applegreen,County Cork,16
+MUNSTER,applegreen,South Tipperary,2
+ULSTER,applegreen,County Donegal,10
+CONNAUGHT,applegreen,Sligo,1
+CONNAUGHT,applegreen,Maigh Eo,6
+ULSTER,applegreen,County Monaghan,5
+ULSTER,applegreen,An Cabhan,5
+CONNAUGHT,applegreen,Roscommon,3
+LEINSTER,applegreen,Lu,9
+LEINSTER,applegreen,An Longfort,3
+CONNAUGHT,applegreen,County Galway,8
+LEINSTER,applegreen,An Mhi,11
+LEINSTER,applegreen,An Iarmhi,3
+LEINSTER,applegreen,unknown,23
+LEINSTER,applegreen,Kildare,10
+LEINSTER,applegreen,Fingal County,1
+LEINSTER,applegreen,Dublin City,1
+UNKNOWN,applegreen,unknown,9
+LEINSTER,applegreen,Uibh Fhaili,5
+LEINSTER,applegreen,South Dublin,1
+LEINSTER,applegreen,Laois,5
+MUNSTER,applegreen,An Clar,4
+MUNSTER,applegreen,North Tipperary,2
+LEINSTER,applegreen,Wicklow,4
+MUNSTER,applegreen,County Limerick,5
+LEINSTER,applegreen,County Carlow,4
+MUNSTER,applegreen,Waterford,5
+LEINSTER,asics_eu,Dublin,1
+LEINSTER,asics_eu,Kildare,1
+LEINSTER,audi,Dublin,2
+MUNSTER,audi,Limerick,1
+MUNSTER,audi,Cork,1
+ULSTER,audi,Letterkenny,1
+MUNSTER,audi,Fermoy,1
+CONNAUGHT,audi,Ballina,1
+UNKNOWN,audi,Sligo,1
+CONNAUGHT,audi,Galway,1
+LEINSTER,audi,"Drogheda, Co. Louth",1
+LEINSTER,audi,Kilkenny,1
+MUNSTER,audi,Waterford,1
+LEINSTER,audi,Wexford,1
+LEINSTER,audi,Athlone,1
+LEINSTER,audi,Naas,1
+SHANNONCOCLARE,avis,Shannon Co Clare,1
+IRELANDWESTAIRPORTKNOCK,avis,Mayo,1
+KILLARNEY,avis,Killarney,1
+KERRY,avis,Kerry,1
+ARRIVALSHALL,avis,Dublin,1
+CORK,avis,Cork,1
+KILMAINHAM,avis,Dublin,2
+DUBLIN9,avis,Dublin,1
+COWEXFORD,bmw_group,Enniscorthy,1
+COKILDARE,bmw_group,Naas,1
+COCORK,bmw_group,Cork,1
+COWESTMEATH,bmw_group,Athlone,1
+DUBLIN11,bmw_group,Dublin,1
+COTIPPERARY,bmw_group,Cahir,1
+DUBLIN12,bmw_group,Dublin,1
+COLOUTH,bmw_group,Drogheda,1
+COLIMERICK,bmw_group,Limerick,1
+COWATERFORD,bmw_group,Waterford,1
+COSLIGO,bmw_group,Sligo,1
+CODUBLIN,bmw_group,Blackrock,1
+COKERRY,bmw_group,Castleisland,1
+COGALWAY,bmw_group,Galway City,1
+UNKNOWN,boots,unknown,78
+DUBLIN,botteg_aveneta,Dublin,1
+UNKNOWN,bq,unknown,8
+LEINSTER,brewdog,unknown,1
+UNKNOWN,calvin_klein,Dublin Central,1
+UNKNOWN,calvin_klein,Clondalkin,1
+UNKNOWN,calvin_klein,Kildare,1
+UNKNOWN,calvin_klein,Blanchardstown,1
+KILDARE,carpetright_gb,Naas,1
+KILKENNY,carpetright_gb,Kilkenny,1
+DUBLIN,carpetright_gb,Dublin,2
+DUBLIN,carpetright_gb,Swords,1
+WEXFORD,carpetright_gb,Wexford,1
+DUBLIN,carpetright_gb,Tallaght,1
+UNKNOWN,centra_ie,unknown,477
+UNKNOWN,circle_k_ireland,Kilbeggan,1
+UNKNOWN,circle_k_ireland,Castlemaine,2
+UNKNOWN,circle_k_ireland,Riverstick,1
+UNKNOWN,circle_k_ireland,Dunmanaway,1
+UNKNOWN,circle_k_ireland,Donegal Town,1
+UNKNOWN,circle_k_ireland,Edenderry,1
+UNKNOWN,circle_k_ireland,Balla,1
+UNKNOWN,circle_k_ireland,Dungarvan,1
+UNKNOWN,circle_k_ireland,Borrisoleigh,1
+UNKNOWN,circle_k_ireland,Dundalk,3
+UNKNOWN,circle_k_ireland,Carrickmacross,1
+UNKNOWN,circle_k_ireland,Letterkenny,3
+UNKNOWN,circle_k_ireland,Carrick-on Shannon,1
+UNKNOWN,circle_k_ireland,New Ross,2
+UNKNOWN,circle_k_ireland,Dublin 2,4
+UNKNOWN,circle_k_ireland,Dublin 1,2
+UNKNOWN,circle_k_ireland,Dublin 22,2
+UNKNOWN,circle_k_ireland,Dublin 12,2
+UNKNOWN,circle_k_ireland,Dublin 18,1
+UNKNOWN,circle_k_ireland,Carlow,2
+UNKNOWN,circle_k_ireland,Ashford,1
+UNKNOWN,circle_k_ireland,Gormanstown,1
+UNKNOWN,circle_k_ireland,Fermoy,2
+UNKNOWN,circle_k_ireland,Macroom,1
+UNKNOWN,circle_k_ireland,Waterford,4
+UNKNOWN,circle_k_ireland,Rathcrogue,1
+UNKNOWN,circle_k_ireland,Newtown,1
+UNKNOWN,circle_k_ireland,Citywest,1
+UNKNOWN,circle_k_ireland,Arklow,1
+UNKNOWN,circle_k_ireland,Trim,2
+UNKNOWN,circle_k_ireland,Kilcullen,1
+UNKNOWN,circle_k_ireland,Moate,2
+UNKNOWN,circle_k_ireland,Inch,1
+UNKNOWN,circle_k_ireland,Clones,1
+UNKNOWN,circle_k_ireland,Swords,4
+UNKNOWN,circle_k_ireland,Ballacolla,1
+UNKNOWN,circle_k_ireland,Longford,1
+UNKNOWN,circle_k_ireland,Limerick,6
+UNKNOWN,circle_k_ireland,Athy,1
+UNKNOWN,circle_k_ireland,Monaghan,1
+UNKNOWN,circle_k_ireland,Cashel,1
+UNKNOWN,circle_k_ireland,Wicklow,1
+UNKNOWN,circle_k_ireland,Clondalkin,4
+UNKNOWN,circle_k_ireland,Kilcoole,1
+UNKNOWN,circle_k_ireland,Ballywaltrim,1
+UNKNOWN,circle_k_ireland,Dublin,7
+UNKNOWN,circle_k_ireland,Mitchelstown,1
+UNKNOWN,circle_k_ireland,Ballincollig,2
+UNKNOWN,circle_k_ireland,Cork,5
+UNKNOWN,circle_k_ireland,Meath,2
+UNKNOWN,circle_k_ireland,Kilmainham,1
+UNKNOWN,circle_k_ireland,Whitehall,1
+UNKNOWN,circle_k_ireland,Kimmage,2
+UNKNOWN,circle_k_ireland,Ballyfermot,1
+UNKNOWN,circle_k_ireland,Drogheda,3
+UNKNOWN,circle_k_ireland,Palmerstown,1
+UNKNOWN,circle_k_ireland,Kilmacanogue,2
+UNKNOWN,circle_k_ireland,Mullingar,4
+UNKNOWN,circle_k_ireland,Foxrock,1
+UNKNOWN,circle_k_ireland,Dún Laoghaire,1
+UNKNOWN,circle_k_ireland,Dillonsland,1
+UNKNOWN,circle_k_ireland,Rathfarnham,5
+UNKNOWN,circle_k_ireland,Dunshaughlin,1
+UNKNOWN,circle_k_ireland,Ballybough,1
+UNKNOWN,circle_k_ireland,Greystones,2
+UNKNOWN,circle_k_ireland,Rathcoole,1
+UNKNOWN,circle_k_ireland,Ballymun,2
+UNKNOWN,circle_k_ireland,Sandymount,1
+UNKNOWN,circle_k_ireland,Rathmines,1
+UNKNOWN,circle_k_ireland,Mount Merrion,1
+UNKNOWN,circle_k_ireland,Cabinteely,1
+UNKNOWN,circle_k_ireland,Deerpark,1
+UNKNOWN,circle_k_ireland,Maynooth,1
+UNKNOWN,circle_k_ireland,Clontarf,1
+UNKNOWN,circle_k_ireland,Ranelagh,1
+UNKNOWN,circle_k_ireland,Bray,2
+UNKNOWN,circle_k_ireland,Kill,2
+UNKNOWN,circle_k_ireland,Tymon South,1
+UNKNOWN,circle_k_ireland,Artane,1
+UNKNOWN,circle_k_ireland,Achill,1
+UNKNOWN,circle_k_ireland,Ballyshannon,1
+UNKNOWN,circle_k_ireland,Carrick on Suir,1
+UNKNOWN,circle_k_ireland,KNOCKLONG,1
+UNKNOWN,circle_k_ireland,Ratoath,2
+UNKNOWN,circle_k_ireland,Castleisland,1
+UNKNOWN,circle_k_ireland,Galway,5
+UNKNOWN,circle_k_ireland,Carrigaline,1
+UNKNOWN,circle_k_ireland,Grange,1
+UNKNOWN,circle_k_ireland,Newcastlewest,1
+UNKNOWN,circle_k_ireland,Blackpool,1
+UNKNOWN,circle_k_ireland,Dublin Port,1
+UNKNOWN,circle_k_ireland,Ashbourne,2
+UNKNOWN,circle_k_ireland,Cavan,1
+UNKNOWN,circle_k_ireland,Ennis,3
+UNKNOWN,circle_k_ireland,Ballinasloe,3
+UNKNOWN,circle_k_ireland,Dunboyne,1
+UNKNOWN,circle_k_ireland,Bleach Green,2
+UNKNOWN,circle_k_ireland,Kilkenny,2
+UNKNOWN,circle_k_ireland,Midleton,2
+UNKNOWN,circle_k_ireland,Mulhuddart,1
+UNKNOWN,circle_k_ireland,Mountanville,1
+UNKNOWN,circle_k_ireland,Lucan,1
+UNKNOWN,circle_k_ireland,Dalkey,1
+UNKNOWN,circle_k_ireland,Tralee,3
+UNKNOWN,circle_k_ireland,Dunsoghly,1
+UNKNOWN,circle_k_ireland,Douglas,1
+UNKNOWN,circle_k_ireland,Kilternan,1
+UNKNOWN,circle_k_ireland,Santry,2
+UNKNOWN,circle_k_ireland,Hartstown,1
+UNKNOWN,circle_k_ireland,Dun Laoghaire,1
+UNKNOWN,circle_k_ireland,Tallaght,6
+UNKNOWN,circle_k_ireland,Tuam,2
+UNKNOWN,circle_k_ireland,Clonee,1
+UNKNOWN,circle_k_ireland,Finglas,1
+UNKNOWN,circle_k_ireland,Navan,1
+UNKNOWN,circle_k_ireland,Thurles,2
+UNKNOWN,circle_k_ireland,Ballytivnan,1
+UNKNOWN,circle_k_ireland,Kilcolgan,1
+UNKNOWN,circle_k_ireland,Castleknock,1
+UNKNOWN,circle_k_ireland,Raheny,1
+UNKNOWN,circle_k_ireland,Abbelyeix,1
+UNKNOWN,circle_k_ireland,Blessington,1
+UNKNOWN,circle_k_ireland,Dundrum,1
+UNKNOWN,circle_k_ireland,Kinnegad,1
+UNKNOWN,circle_k_ireland,Johnstown,1
+UNKNOWN,circle_k_ireland,Ballina,1
+UNKNOWN,circle_k_ireland,Bishoptown,1
+UNKNOWN,circle_k_ireland,Shannon,1
+UNKNOWN,circle_k_ireland,Beaumont,1
+UNKNOWN,circle_k_ireland,Caherdavin,1
+UNKNOWN,circle_k_ireland,Athlone,3
+UNKNOWN,circle_k_ireland,Portlaoise,3
+UNKNOWN,circle_k_ireland,Tullamore,4
+UNKNOWN,circle_k_ireland,Rathnapish,1
+UNKNOWN,circle_k_ireland,Templeogue,1
+UNKNOWN,circle_k_ireland,Shannonbridge,1
+UNKNOWN,circle_k_ireland,Donaghmede,1
+UNKNOWN,circle_k_ireland,Killarney,1
+UNKNOWN,circle_k_ireland,Merrion,1
+UNKNOWN,circle_k_ireland,Glasnevin,1
+UNKNOWN,circle_k_ireland,Charleville,1
+UNKNOWN,circle_k_ireland,Ballybay,1
+UNKNOWN,circle_k_ireland,Abbeydorney,1
+UNKNOWN,circle_k_ireland,Barstown,1
+UNKNOWN,circle_k_ireland,Emyvale,2
+UNKNOWN,circle_k_ireland,Carlanstown,1
+UNKNOWN,circle_k_ireland,Rhode,1
+UNKNOWN,circle_k_ireland,Ennistymon,1
+UNKNOWN,circle_k_ireland,Castletroy,1
+UNKNOWN,circle_k_ireland,Slane,1
+UNKNOWN,circle_k_ireland,Co Wicklow,1
+UNKNOWN,circle_k_ireland,Ballyliffen,1
+UNKNOWN,circle_k_ireland,Doon,1
+UNKNOWN,circle_k_ireland,Kells,2
+UNKNOWN,circle_k_ireland,Co Cork,1
+UNKNOWN,circle_k_ireland,Maganey Lower,1
+UNKNOWN,circle_k_ireland,Kingscourt,1
+UNKNOWN,circle_k_ireland,Ballylinan,1
+UNKNOWN,circle_k_ireland,Co Kildare,1
+UNKNOWN,circle_k_ireland,Clarina,1
+UNKNOWN,circle_k_ireland,Lifford,2
+UNKNOWN,circle_k_ireland,Laghey,1
+UNKNOWN,circle_k_ireland,Castlebar,4
+UNKNOWN,circle_k_ireland,Buncrana,1
+UNKNOWN,circle_k_ireland,Carrigart,1
+UNKNOWN,circle_k_ireland,Westport,1
+UNKNOWN,circle_k_ireland,Gowran,1
+UNKNOWN,circle_k_ireland,Crosstown,1
+UNKNOWN,circle_k_ireland,Cappamore,1
+UNKNOWN,circle_k_ireland,Shercock,1
+UNKNOWN,circle_k_ireland,Galway City,1
+UNKNOWN,circle_k_ireland,Tullow,1
+UNKNOWN,circle_k_ireland,Waterville,1
+UNKNOWN,circle_k_ireland,Ard Fert,1
+UNKNOWN,circle_k_ireland,Caherconlish,1
+UNKNOWN,circle_k_ireland,Gorey,3
+UNKNOWN,circle_k_ireland,Prosperous,1
+UNKNOWN,circle_k_ireland,Ballybrit,1
+UNKNOWN,circle_k_ireland,Dublin 8,1
+UNKNOWN,circle_k_ireland,Ballybane,1
+UNKNOWN,circle_k_ireland,Rochestown,1
+UNKNOWN,circle_k_ireland,Bandon,2
+UNKNOWN,circle_k_ireland,Skibereen,1
+UNKNOWN,circle_k_ireland,Newport,2
+UNKNOWN,circle_k_ireland,Nenagh,1
+UNKNOWN,circle_k_ireland,Virginia,1
+UNKNOWN,circle_k_ireland,Dunleer,1
+UNKNOWN,circle_k_ireland,Dublin 15,2
+UNKNOWN,circle_k_ireland,Clane,1
+UNKNOWN,circle_k_ireland,Knockanork,1
+UNKNOWN,circle_k_ireland,Tipperary Town,1
+UNKNOWN,circle_k_ireland,Newbridge,1
+UNKNOWN,circle_k_ireland,Ballingarry,1
+UNKNOWN,circle_k_ireland,Scartaglen,1
+UNKNOWN,circle_k_ireland,Castletownbere,1
+UNKNOWN,circle_k_ireland,Corofin,1
+UNKNOWN,circle_k_ireland,Birr,2
+UNKNOWN,circle_k_ireland,Killaloe,1
+UNKNOWN,circle_k_ireland,Muff,1
+UNKNOWN,circle_k_ireland,Lareasa,1
+UNKNOWN,circle_k_ireland,Moneygall,1
+UNKNOWN,circle_k_ireland,Killorglin,1
+UNKNOWN,circle_k_ireland,Ballyhaunis,1
+UNKNOWN,circle_k_ireland,Dromore West,1
+UNKNOWN,circle_k_ireland,Falcarragh,1
+UNKNOWN,circle_k_ireland,Ballymahon,1
+UNKNOWN,circle_k_ireland,Blarney,1
+UNKNOWN,circle_k_ireland,Connemara,1
+UNKNOWN,circle_k_ireland,Patrickswell,1
+UNKNOWN,circle_k_ireland,Listowel,1
+UNKNOWN,circle_k_ireland,Little Island,1
+UNKNOWN,circle_k_ireland,Tullaghan,1
+UNKNOWN,circle_k_ireland,Roscommon,2
+UNKNOWN,circle_k_ireland,Kenmare,1
+UNKNOWN,circle_k_ireland,Graiguecullen,1
+UNKNOWN,circle_k_ireland,Carndonagh,2
+UNKNOWN,circle_k_ireland,Mallow,1
+UNKNOWN,circle_k_ireland,Foynes,1
+UNKNOWN,circle_k_ireland,Blackrock,1
+UNKNOWN,circle_k_ireland,Breaffy Road,1
+UNKNOWN,circle_k_ireland,Enniscorthy,1
+UNKNOWN,circle_k_ireland,Clifden,1
+UNKNOWN,circle_k_ireland,Clonard Little,1
+UNKNOWN,circle_k_ireland,Knocklong,1
+UNKNOWN,circle_k_ireland,Burt,1
+UNKNOWN,circle_k_ireland,Camphill,1
+UNKNOWN,circle_k_ireland,Dublin Road,1
+UNKNOWN,circle_k_ireland,Crowe Street,1
+UNKNOWN,circle_k_ireland,Castlerea,1
+UNKNOWN,circle_k_ireland,Ballinrobe,1
+UNKNOWN,circle_k_ireland,Louisberg,1
+UNKNOWN,circle_k_ireland,Carrick-on-shannon,1
+UNKNOWN,circle_k_ireland,Clonmel,2
+UNKNOWN,circle_k_ireland,Castleblayney,1
+UNKNOWN,circle_k_ireland,Pettigo,1
+UNKNOWN,circle_k_ireland,Craughwell,1
+UNKNOWN,circle_k_ireland,Headford,1
+UNKNOWN,circle_k_ireland,Templemore,1
+UNKNOWN,circle_k_ireland,Kildorrery,1
+UNKNOWN,circle_k_ireland,Dooradoyle,1
+UNKNOWN,circle_k_ireland,Lissarda,1
+UNKNOWN,circle_k_ireland,Derrybeg,1
+UNKNOWN,circle_k_ireland,Kilmihill,1
+UNKNOWN,circle_k_ireland,Drinagh,1
+UNKNOWN,circle_k_ireland,Annagry,1
+UNKNOWN,circle_k_ireland,Ballybofey,1
+UNKNOWN,circle_k_ireland,Killybegs,1
+UNKNOWN,circle_k_ireland,Inishannon,1
+UNKNOWN,circle_k_ireland,Ardee,1
+UNKNOWN,circle_k_ireland,Oranmore,1
+UNKNOWN,circle_k_ireland,Fahan,1
+UNKNOWN,circle_k_ireland,Castlefinn,1
+UNKNOWN,circle_k_ireland,Kiltimagh,1
+UNKNOWN,circle_k_ireland,Monasterevin,1
+UNKNOWN,circle_k_ireland,Cullohill,1
+UNKNOWN,circle_k_ireland,Kilrush,1
+UNKNOWN,circle_k_ireland,Roscrea,1
+UNKNOWN,claires,Bray,1
+UNKNOWN,claires,Wexford,1
+UNKNOWN,claires,Arklow,1
+UNKNOWN,claires,Athlone,1
+UNKNOWN,claires,Mullingar,1
+UNKNOWN,claires,Limerick,2
+UNKNOWN,claires,Mahon,1
+UNKNOWN,claires,Killarney,1
+UNKNOWN,claires,Waterford,1
+UNKNOWN,claires,Sligo,1
+UNKNOWN,claires,Newbridge,1
+UNKNOWN,claires,Drogheda,1
+UNKNOWN,claires,Tralee,1
+UNKNOWN,claires,KilKenny,1
+UNKNOWN,claires,Dundalk,1
+UNKNOWN,claires,Galway,1
+UNKNOWN,claires,Dublin,8
+UNKNOWN,claires,Dundrum,1
+UNKNOWN,claires,Cork,3
+UNKNOWN,claires,Carlow,1
+UNKNOWN,claires,Blanchardstown,1
+UNKNOWN,claires,Ennis,1
+UNKNOWN,costa_coffee,unknown,294
+UNKNOWN,crew_clothing_gb,Co Kildare,1
+UNKNOWN,currys,"Cork,Cork",1
+UNKNOWN,currys,"Inner Relief Road,Louth",1
+UNKNOWN,currys,Santry,1
+UNKNOWN,currys,"Dublin Road,Carlow",1
+UNKNOWN,currys,"Jigginstown,Naas",1
+UNKNOWN,currys,"Dublin Road,Limerick",1
+UNKNOWN,currys,"Headford Road,Gallway",1
+UNKNOWN,currys,"Waterford Retail Park,Butlerstown",1
+UNKNOWN,currys,"Tralee,Kerry",1
+UNKNOWN,currys,"Airside,Swords",1
+UNKNOWN,currys,"Clondalkin,Dublin",1
+UNKNOWN,currys,"Dublin 15,Dublin",1
+UNKNOWN,currys,"Dublin 1,Dublin",1
+UNKNOWN,currys,"Carraroe Retail Park,Dublin Road",1
+UNKNOWN,currys,"Carrickmines,Dublin",1
+UNKNOWN,currys,"Navan,Meath",1
+UNKNOWN,ecco,Galway,1
+UNKNOWN,ecco,Co. Wicklow,1
+UNKNOWN,ecco,Dublin 16,1
+UNKNOWN,ecco,Limerick,1
+UNKNOWN,ecco,Dublin,2
+UNKNOWN,ecco,Co. Dublin,1
+UNKNOWN,ecco,Cork,4
+UNKNOWN,ecco,Dublin 22,1
+UNKNOWN,ecco,Dublin 15,1
+UNKNOWN,ecco,Belfast,1
+UNKNOWN,ecco,"Dunlaoighre, CO. DUBLIN",1
+UNKNOWN,ecco,Dublin 2,1
+UNKNOWN,ecco,Kilkenny,1
+UNKNOWN,enterprise,Dublin,6
+UNKNOWN,enterprise,Swords,1
+UNKNOWN,enterprise,Dun Laothaire,1
+UNKNOWN,enterprise,Limerick,1
+UNKNOWN,enterprise,Galway,1
+UNKNOWN,enterprise,Cork,3
+UNKNOWN,enterprise,Drogheda,1
+UNKNOWN,enterprise,Waterford,1
+UNKNOWN,enterprise,Athlone,1
+UNKNOWN,enterprise,Cavan,1
+UNKNOWN,enterprise,Kilkenny,1
+UNKNOWN,enterprise,Sligo,1
+UNKNOWN,enterprise,Letterkenny,1
+UNKNOWN,enterprise,Tralee,1
+UNKNOWN,enterprise,Naas,1
+UNKNOWN,enterprise,Wexford,1
+UNKNOWN,enterprise,Ennis,1
+UNKNOWN,enterprise,Kerry,1
+UNKNOWN,enterprise,Castlebar,1
+UNKNOWN,ernst_young,Cork,1
+UNKNOWN,ernst_young,Dublin,1
+UNKNOWN,ernst_young,Galway,1
+UNKNOWN,ernst_young,Limerick,1
+UNKNOWN,ernst_young,Waterford,1
+UNKNOWN,fatface,Wexford,1
+UNKNOWN,fatface,Co. Cork,1
+UNKNOWN,fatface,Co. Kerry,1
+CODUBLIN,fatface,Dundrum,1
+UNKNOWN,fatface,Cork,1
+KILKENNY,fedex,Kilkenny City,1
+DUBLIN,fedex,Santry,1
+DUBLIN,fedex,Dublin,1
+CORK,fedex,Blarney,1
+CLARE,fedex,Shannon,2
+DUBLIN,five_guys_ie,Dublin,2
+DUBLIN,five_guys_ie,Dublin Clondalkin,1
+DUBLIN,five_guys_ie,Dublin Dundrum,1
+IELK,footlocker,Limerick,1
+IED,footlocker,SWORDS,1
+IED,footlocker,Dublin,5
+NY,footlocker,New York,5
+UNKNOWN,ford,Midleton,1
+UNKNOWN,ford,Knocklong,1
+UNKNOWN,ford,Dundalk,1
+UNKNOWN,ford,Cork,2
+UNKNOWN,ford,Fermoy,1
+UNKNOWN,ford,Portland,1
+UNKNOWN,ford,Monaghan,1
+UNKNOWN,ford,Claremorris,1
+UNKNOWN,ford,Macroom,1
+UNKNOWN,ford,Tralee,1
+UNKNOWN,ford,Ballinasloe,1
+UNKNOWN,ford,Letterkenny,1
+UNKNOWN,ford,Athy,1
+UNKNOWN,ford,Ennis,1
+UNKNOWN,ford,Waterford,2
+UNKNOWN,ford,Drogheda,1
+UNKNOWN,ford,Limerick,2
+UNKNOWN,ford,Charleville,1
+UNKNOWN,ford,Co Dublin,1
+UNKNOWN,ford,Naas,1
+UNKNOWN,ford,Tullamore,1
+UNKNOWN,ford,Bandon,1
+UNKNOWN,ford,Wexford,1
+UNKNOWN,ford,New Ross,1
+UNKNOWN,ford,Nenagh,1
+UNKNOWN,ford,Bray,1
+UNKNOWN,ford,Portlaoise,1
+UNKNOWN,ford,Killarney,1
+UNKNOWN,ford,Clonmel,1
+UNKNOWN,ford,Carlow,1
+UNKNOWN,ford,Dublin 5,1
+UNKNOWN,ford,Navan,1
+UNKNOWN,ford,Dunkineely,1
+UNKNOWN,ford,Swords,1
+UNKNOWN,ford,Cavan Town,1
+UNKNOWN,ford,Mullingar,1
+UNKNOWN,ford,ATHLONE,1
+UNKNOWN,ford,CASTLEBAR,1
+UNKNOWN,ford,Stillorgan Industrial Park,1
+UNKNOWN,ford,Kilkenny,1
+UNKNOWN,ford,Dublin 11,1
+UNKNOWN,ford,Dublin 15,1
+UNKNOWN,ford,Dublin 22,1
+UNKNOWN,ford,Dunshaughlin,1
+UNKNOWN,ford,Castlebaldwin,1
+UNKNOWN,ford,Mallow,1
+UNKNOWN,ford,unknown,1
+UNKNOWN,ford,Dublin,1
+UNKNOWN,fossil,Kildare,2
+UNKNOWN,gbfs,unknown,85
+LEINSTER,google_offices,unknown,1
+UNKNOWN,hardrock,Dublin,2
+DUB,hilton,unknown,1
+UNKNOWN,hm,Dublin,7
+UNKNOWN,hm,Limerick,1
+UNKNOWN,hm,Newbridge,1
+UNKNOWN,hm,Athlone,1
+UNKNOWN,hm,Cork,1
+UNKNOWN,hm,Kilkenny,1
+UNKNOWN,hm,Letterkenny,1
+UNKNOWN,hm,Dundalk,1
+UNKNOWN,holland_and_barrett,Dublin,9
+UNKNOWN,holland_and_barrett,Wilton,1
+UNKNOWN,holland_and_barrett,Cork,3
+UNKNOWN,holland_and_barrett,Limerick,2
+UNKNOWN,holland_and_barrett,Kilkenny,2
+UNKNOWN,holland_and_barrett,Shannon,1
+UNKNOWN,holland_and_barrett,Drogheda,2
+UNKNOWN,holland_and_barrett,Dundalk,1
+UNKNOWN,holland_and_barrett,Newbridge,1
+UNKNOWN,holland_and_barrett,Dun Laoghaire,1
+UNKNOWN,holland_and_barrett,Athlone,1
+UNKNOWN,holland_and_barrett,Rathmines,1
+UNKNOWN,holland_and_barrett,Dooradoyle,1
+UNKNOWN,holland_and_barrett,Wexford,2
+UNKNOWN,holland_and_barrett,Nenagh,1
+UNKNOWN,holland_and_barrett,Letterkenny,1
+UNKNOWN,holland_and_barrett,Carlow,1
+UNKNOWN,holland_and_barrett,Galway,1
+UNKNOWN,holland_and_barrett,Thurles,1
+UNKNOWN,holland_and_barrett,Naas,2
+UNKNOWN,holland_and_barrett,Ashbourne,1
+UNKNOWN,holland_and_barrett,Sligo,1
+UNKNOWN,holland_and_barrett,Tralee,1
+UNKNOWN,holland_and_barrett,Mullingar,1
+UNKNOWN,holland_and_barrett,Monaghan,1
+UNKNOWN,holland_and_barrett,Balbriggan,1
+UNKNOWN,holland_and_barrett,Clonmel,1
+UNKNOWN,holland_and_barrett,Maynooth,2
+UNKNOWN,holland_and_barrett,Portlaoise,1
+UNKNOWN,holland_and_barrett,Ballina,1
+UNKNOWN,holland_and_barrett,Tullamore,1
+UNKNOWN,holland_and_barrett,Clondalkin,1
+UNKNOWN,holland_and_barrett,Castlebar,1
+UNKNOWN,holland_and_barrett,Gorey,1
+UNKNOWN,holland_and_barrett,Swords,1
+UNKNOWN,holland_and_barrett,Dundrum,1
+UNKNOWN,holland_and_barrett,Ireland,1
+UNKNOWN,holland_and_barrett,Dublin 15,1
+UNKNOWN,holland_and_barrett,Bray,1
+UNKNOWN,holland_and_barrett,Navan,1
+UNKNOWN,holland_and_barrett,Ballincollig,1
+UNKNOWN,holland_and_barrett,Ellesmere Port,1
+UNKNOWN,holland_and_barrett,Killarney,1
+UNKNOWN,holland_and_barrett,Waterford,1
+UNKNOWN,holland_and_barrett,Arklow,1
+UNKNOWN,holland_and_barrett,Ballinasloe,1
+UNKNOWN,holland_and_barrett,New Ross,1
+UNKNOWN,holland_and_barrett,Ardkeen,1
+UNKNOWN,holland_and_barrett,Longford,1
+UNKNOWN,holland_and_barrett,Dublin 22,1
+MUNSTER,homebase_gb_ie,Waterford,1
+CONNAUGHT,homebase_gb_ie,Sligo,1
+LEINSTER,homebase_gb_ie,Laois,1
+LEINSTER,homebase_gb_ie,An Mhi,1
+ULSTER,homebase_gb_ie,County Donegal,1
+LEINSTER,homebase_gb_ie,unknown,1
+LEINSTER,homebase_gb_ie,Lu,1
+DB,hugo_boss,Dublin 1,1
+DB,hugo_boss,Dublin,2
+KD,hugo_boss,Kildare,1
+KD,hugo_boss,Kildare Village,1
+UNKNOWN,ikea,Dublin,1
+CORK,inver,unknown,16
+KILDARE,inver,unknown,5
+KILKENNY,inver,unknown,9
+MEATH,inver,unknown,1
+MONAGHAN,inver,unknown,1
+TIPPERARY,inver,unknown,11
+CARLOW,inver,unknown,3
+LIMERICK,inver,unknown,14
+CLARE,inver,unknown,10
+WATERFORD,inver,unknown,2
+KERRY,inver,unknown,10
+ROSCOMMON,inver,unknown,2
+WEXFORD,inver,unknown,2
+LAOIS,inver,unknown,3
+WICKLOW,inver,unknown,1
+GALWAY,inver,unknown,2
+OFFALY,inver,unknown,3
+LONGFORD,inver,unknown,1
+WESTMEATH,inver,unknown,1
+MAYO,inver,unknown,2
+LEINSTER,ionity,Kildare,2
+LEINSTER,ionity,An Iarmhi,1
+LEINSTER,ionity,An Mhi,1
+LEINSTER,ionity,Loch Garman,1
+MUNSTER,ionity,unknown,1
+UNKNOWN,jack_and_jones,Navan,1
+UNKNOWN,jack_and_jones,Dublin 9,1
+UNKNOWN,jack_and_jones,Limerick,2
+UNKNOWN,jack_and_jones,Athlone,1
+UNKNOWN,jack_and_jones,Dublin,2
+UNKNOWN,jack_and_jones,Monaghan,1
+UNKNOWN,jack_and_jones,Clondalkin,1
+UNKNOWN,jack_and_jones,Drogheda,1
+UNKNOWN,jack_and_jones,Dublin 1,1
+UNKNOWN,jack_and_jones,Swords,1
+UNKNOWN,jack_and_jones,Galway,1
+UNKNOWN,jack_and_jones,Dundalk,1
+UNKNOWN,jack_and_jones,Portlaoise,1
+UNKNOWN,jack_and_jones,Kilkenny,1
+UNKNOWN,jack_and_jones,Carlow,1
+UNKNOWN,jack_and_jones,Cork,1
+UNKNOWN,jack_and_jones,Dublin 24,1
+IRELAND,jll,Dublin,1
+NA,just_group,Dublin 15,1
+NA,just_group,Cork,1
+NA,just_group,Dublin 16,1
+NA,just_group,Dublin 1,1
+NA,just_group,Limerick Crescent,1
+NA,just_group,Mahon Point Cork,1
+NA,just_group,Swords,1
+UNKNOWN,jysk,Dublin,1
+UNKNOWN,jysk,"Ballincollig, Cork",1
+UNKNOWN,jysk,Sandyford,1
+UNKNOWN,jysk,Clonmel,1
+UNKNOWN,jysk,Monaghan,1
+UNKNOWN,jysk,Letterkenny,1
+UNKNOWN,jysk,Athlone,1
+UNKNOWN,jysk,Thurles,1
+UNKNOWN,jysk,Limerick,2
+UNKNOWN,jysk,"Little Island, Cork",1
+UNKNOWN,jysk,Dundalk,1
+UNKNOWN,jysk,Tralee,1
+UNKNOWN,jysk,Ashbourne,1
+UNKNOWN,jysk,Carlow,1
+UNKNOWN,jysk,Dublin 9,1
+UNKNOWN,jysk,Sligo,1
+UNKNOWN,jysk,Waterford,1
+UNKNOWN,jysk,Youghal,1
+UNKNOWN,jysk,Drogheda,1
+UNKNOWN,jysk,Port Laoise,1
+UNKNOWN,jysk,Navan,1
+UNKNOWN,jysk,Naas,1
+COUNTYCARLOW,j_d_wetherspoon,Carlow,1
+COUNTYCORK,j_d_wetherspoon,Cork,1
+COUNTYDUBLIN,j_d_wetherspoon,Dublin,4
+COUNTYDUBLIN,j_d_wetherspoon,Swords,1
+COUNTYDUBLIN,j_d_wetherspoon,Dún Laoghaire,1
+COUNTYWATERFORD,j_d_wetherspoon,Waterford,1
+UNKNOWN,leonidas,Cork,3
+UNKNOWN,leonidas,Dublin 2,1
+UNKNOWN,leonidas,Waterford,1
+UNKNOWN,leonidas,Naas,2
+UNKNOWN,leonidas,Dublin,2
+UNKNOWN,leonidas,Limerick,1
+UNKNOWN,leonidas,Dublin 24,1
+UNKNOWN,leonidas,Maynooth,1
+UNKNOWN,leonidas,KILKENNY,1
+UNKNOWN,lhw,Dublin,3
+UNKNOWN,lhw,Adare,1
+UNKNOWN,lhw,Killarney,1
+KILDARE,lidl_ie,Clane,1
+WATERFORD,lidl_ie,Waterford,2
+DUBLIN,lidl_ie,Dublin,24
+CORK,lidl_ie,Cobh,1
+WEXFORD,lidl_ie,Wexford,1
+CORK,lidl_ie,Cork,4
+WATERFORD,lidl_ie,Tramore,1
+TIPPERARY,lidl_ie,Templemore,1
+KILDARE,lidl_ie,Sallins,1
+DONEGAL,lidl_ie,Dungloe,1
+LIMERICK,lidl_ie,Limerick,3
+GALWAY,lidl_ie,Clifden,1
+CORK,lidl_ie,Kinsale,1
+GALWAY,lidl_ie,Oranmore,1
+CARLOW,lidl_ie,Tullow,1
+DONEGAL,lidl_ie,Millford,1
+MAYO,lidl_ie,Westport,1
+KILKENNY,lidl_ie,Kilkenny,1
+DUBLIN,lidl_ie,Swords,2
+DONEGAL,lidl_ie,Ballybofey,1
+WICKLOW,lidl_ie,Bray,1
+KILDARE,lidl_ie,Celbridge,1
+DUBLIN,lidl_ie,Dublin 14,1
+TIPPERARY,lidl_ie,Carrick-on-Suir,1
+KERRY,lidl_ie,Kenmare,1
+CORK,lidl_ie,Clonakilty,1
+GALWAY,lidl_ie,Galway,2
+DUBLIN,lidl_ie,Terenure,1
+DUBLIN,lidl_ie,Ballycullen,1
+KILDARE,lidl_ie,Kilcock,1
+DONEGAL,lidl_ie,Letterkenny,2
+DUBLIN,lidl_ie,East Wall,1
+DUBLIN,lidl_ie,Tallaght,2
+WESTMEATH,lidl_ie,Mullingar,2
+MAYO,lidl_ie,Ballina,2
+CORK,lidl_ie,Castleknock,1
+KILDARE,lidl_ie,Athy,1
+DUBLIN2,lidl_ie,unknown,1
+WEXFORD,lidl_ie,Gorey,1
+DUBLIN,lidl_ie,Portmarnock,1
+TIPPERARY,lidl_ie,Clonmel,1
+CORK,lidl_ie,Wilton,1
+KERRY,lidl_ie,Tralee,2
+CAVAN,lidl_ie,Virginia,1
+CORK,lidl_ie,Macroom,1
+SLIGO,lidl_ie,Sligo,1
+CORK,lidl_ie,Bantry,1
+TIPPERARY,lidl_ie,Nenagh,1
+DUBLIN,lidl_ie,Drumcondra,1
+CORK,lidl_ie,Cork - Churchfield,1
+DUBLIN,lidl_ie,Dublin 7,1
+KANTURK,lidl_ie,unknown,1
+OFFALY,lidl_ie,Edenderry,1
+SLIGO,lidl_ie,unknown,1
+MITCHELSTOWN,lidl_ie,unknown,1
+LOUTH,lidl_ie,Drogheda,2
+OFFALY,lidl_ie,Birr,1
+MEATH,lidl_ie,Dunshaughlin,1
+DONEGAL,lidl_ie,unknown,1
+DUBLIN9,lidl_ie,Ballymun,1
+OFFALY,lidl_ie,Tullamore,2
+GALWAY,lidl_ie,Tuam,1
+ROSCOMMON,lidl_ie,Castlerea,1
+CORK,lidl_ie,Youghal,1
+KILDARE,lidl_ie,Kildare,1
+CORK,lidl_ie,Fermoy,1
+GALWAY,lidl_ie,unknown,2
+CLAREMORRIS,lidl_ie,unknown,1
+COTIPPERARY,lidl_ie,Thurles,1
+CLONSILLA,lidl_ie,Dublin 15,1
+BAGENALSTOWN,lidl_ie,Carlow,1
+LIMERICK,lidl_ie,unknown,2
+DUBLIN,lidl_ie,unknown,4
+LUCAN,lidl_ie,unknown,1
+CHARLEVILLE,lidl_ie,unknown,1
+LUSK,lidl_ie,unknown,1
+ENNISCORTHY,lidl_ie,Wexford,1
+BRAY,lidl_ie,unknown,1
+MALLOW,lidl_ie,unknown,1
+TIPPERARY,lidl_ie,unknown,1
+ARDEE,lidl_ie,unknown,1
+WICKLOW,lidl_ie,unknown,1
+CLONMEL,lidl_ie,unknown,1
+PORTLAOISE,lidl_ie,unknown,1
+CORK,lidl_ie,unknown,1
+GREYSTONES,lidl_ie,unknown,1
+BETTYSTOWN,lidl_ie,unknown,1
+KILKENNY,lidl_ie,unknown,1
+KERRY,lidl_ie,Listowel,1
+MEATH,lidl_ie,Ashbourne,1
+KILDARE,lidl_ie,Leixlip,1
+ROSCOMMON,lidl_ie,Carrick on Shannon,1
+LAOIS,lidl_ie,Portarlington,1
+MONAGHAN,lidl_ie,Castleblayney,1
+CARLOW,lidl_ie,Carlow,1
+KERRY,lidl_ie,Dingle,1
+MEATH,lidl_ie,Clonee,1
+KILDARE,lidl_ie,Newbridge,1
+KILKENNY,lidl_ie,Thomastown,1
+MONAGHAN,lidl_ie,Carrickmacross,1
+LOUTH,lidl_ie,Dundalk,2
+WATERFORD,lidl_ie,Dungarvan,1
+MAYO,lidl_ie,Castlebar,1
+CORK,lidl_ie,Bandon,1
+GALWAY,lidl_ie,Gort,1
+DUBLIN,lidl_ie,Dun Laoghaire,1
+KILDARE,lidl_ie,Naas,1
+ROSCOMMON,lidl_ie,Roscommon,1
+DONEGAL,lidl_ie,Bundoran,1
+MEATH,lidl_ie,Navan,1
+WESTMEATH,lidl_ie,Athlone,1
+KERRY,lidl_ie,Killarney,1
+WICKLOW,lidl_ie,Arklow,1
+CAVAN,lidl_ie,Cavan,1
+GALWAY,lidl_ie,Ballinasloe,1
+TIPPERARY,lidl_ie,Roscrea,1
+CLARE,lidl_ie,Shannon,1
+WEXFORD,lidl_ie,New Ross,1
+CORK,lidl_ie,Midleton,1
+DONEGAL,lidl_ie,Buncrana,1
+DUBLIN,lidl_ie,Baldoyle,1
+CLARE,lidl_ie,Ennis,1
+DUBLIN,lidl_ie,Dublin 1,1
+DUBLIN,lidl_ie,Ballyowen,1
+KERRY,lidl_ie,Castleisland,1
+MONAGHAN,lidl_ie,Monaghan,1
+LIMERICK,lidl_ie,Newcastlewest,1
+DUBLIN,lidl_ie,Deansgrange,1
+KILDARE,lidl_ie,Maynooth,1
+CORK,lidl_ie,Skibbereen,1
+TIPPERARY,lidl_ie,Cashel,1
+CORK,lidl_ie,Carrigaline,1
+MEATH,lidl_ie,Trim,1
+DUBLIN,lidl_ie,Balbriggan,1
+UNKNOWN,longchamp,KILDARE,1
+UNKNOWN,longchamp,GALWAY,1
+UNKNOWN,longchamp,LIMERICK,1
+UNKNOWN,longchamp,CORK,1
+UNKNOWN,longchamp,DUBLIN,3
+DUBLIN,lovisa,Dublin,1
+LEINSTER,mail_boxes_etc_gb_ie,Dublin City,1
+LEINSTER,mail_boxes_etc_gb_ie,unknown,1
+MUNSTER,mail_boxes_etc_gb_ie,County Cork,1
+MUNSTER,mail_boxes_etc_gb_ie,Ciarrai,1
+UNKNOWN,man_truck_and_bus,"Mullingar, Co. West Meath",1
+UNKNOWN,man_truck_and_bus,"New Ross,",1
+UNKNOWN,man_truck_and_bus,Donegal,1
+UNKNOWN,man_truck_and_bus,Limerick,1
+UNKNOWN,man_truck_and_bus,Dublin,1
+UNKNOWN,man_truck_and_bus,ATHENRY,1
+UNKNOWN,man_truck_and_bus,Mondaniel  Rathcormac ,1
+UNKNOWN,man_truck_and_bus,Cork,1
+UNKNOWN,marks_and_spencer,"SANTRY, DUBLIN 9",1
+UNKNOWN,marks_and_spencer,DUBLIN 1,1
+UNKNOWN,marks_and_spencer,CO. MEATH,1
+UNKNOWN,marks_and_spencer,DUBLIN 15,1
+UNKNOWN,marks_and_spencer,CO. WESTMEATH,1
+UNKNOWN,marks_and_spencer,CO. KERRY,1
+UNKNOWN,marks_and_spencer,"Athboy Road, Navan",1
+UNKNOWN,marks_and_spencer,CO. DUBLIN,1
+UNKNOWN,marks_and_spencer,Ashford,1
+UNKNOWN,marks_and_spencer,CO. KILDARE,1
+UNKNOWN,marks_and_spencer,CO. DONEGAL,1
+UNKNOWN,marks_and_spencer,CO. LOUTH,1
+UNKNOWN,marks_and_spencer,DUBLIN 22,1
+UNKNOWN,marks_and_spencer,Dundalk,1
+UNKNOWN,marks_and_spencer,Blackrock,1
+UNKNOWN,marks_and_spencer,Limerick,1
+UNKNOWN,marks_and_spencer,Cork,2
+UNKNOWN,marks_and_spencer,Dublin 17,1
+UNKNOWN,marks_and_spencer,Naas,1
+UNKNOWN,marks_and_spencer,GALWAY,1
+UNKNOWN,marks_and_spencer,"SANDYFORD ROAD, DUBLIN 16",1
+UNKNOWN,marks_and_spencer,BLACKROCK,1
+UNKNOWN,marks_and_spencer,CLONMEL,1
+UNKNOWN,marks_and_spencer,Dublin 1,1
+UNKNOWN,marks_and_spencer,Dublin 2,1
+UNKNOWN,marriott,Dublin,2
+UNKNOWN,marriott,Athlone,1
+DUBLIN,maxol_ie,Dublin,27
+CORK,maxol_ie,Cork,21
+KILKENNY,maxol_ie,Kilkenny,2
+WEXFORD,maxol_ie,Wexford,7
+CARLOW,maxol_ie,Carlow,3
+TIPPERARY,maxol_ie,Tipperary,2
+WATERFORD,maxol_ie,Waterford,5
+GALWAY,maxol_ie,Galway,6
+KERRY,maxol_ie,Kerry,4
+LIMERICK,maxol_ie,Limerick,12
+OFFALY,maxol_ie,Offaly,1
+MEATH,maxol_ie,Meath,6
+LOUTH,maxol_ie,Louth,7
+SLIGO,maxol_ie,Sligo,1
+LAOIS,maxol_ie,Laois,3
+KILDARE,maxol_ie,Kildare,10
+DONEGAL,maxol_ie,Donegal,5
+LEITRIM,maxol_ie,Leitrim,1
+CLARE,maxol_ie,Clare,3
+MONAGHAN,maxol_ie,Monaghan,2
+WICKLOW,maxol_ie,Wicklow,3
+WESTMEATH,maxol_ie,Westmeath,1
+MAYO,maxol_ie,Mayo,3
+LONGFORD,maxol_ie,Longford,1
+CAVAN,maxol_ie,Cavan,1
+DERRY,maxol_ie,Derry,1
+WEXFORD,mercedes_benz,WEXFORD,1
+LEINSTER,mercedes_benz,Dublin,6
+COUNTYWATERFORD,mercedes_benz,WATERFORD,1
+WESTMEATH,mercedes_benz,Moate,1
+CONNACHT,mercedes_benz,GALWAY,1
+COUNTYTIPPERARY,mercedes_benz,Clonmel,1
+COUNTYDUBLIN,mercedes_benz,Dublin,4
+COUNTYKERRY,mercedes_benz,Tralee ,1
+COUNTYLIMERICK,mercedes_benz,Limerick,2
+CORK,mercedes_benz,Cork,1
+CONNAUGHT,mercedes_benz,SLIGO,1
+MUNSTER,mercedes_benz,Cork,3
+MEATH,mercedes_benz,Navan,1
+DONEGAL,mercedes_benz,Lifford,1
+OFFALY,mercedes_benz,PORTARLINGTON,1
+COUNTYDUBLIN,mercedes_benz,DUBLIN,1
+COUNTYMONAGHAN,mercedes_benz,Kingscourt,1
+COUNTYCARLOW,mercedes_benz,Carlow,1
+COUNTYWESTMEATH,mercedes_benz,Athlone,1
+SLIGO,mercedes_benz,Sligo,1
+LEINSTER,mercedes_benz,Kildare,1
+CONNAUGHT,mercedes_benz,Galway,1
+LEINSTER,mercedes_benz,Wexford,1
+LEINSTER,mercedes_benz,"Oldcastle, County Meath",1
+LEINSTER,meta,unknown,2
+MUNSTER,meta,County Cork,1
+KILDARE,michaelkors,Kildare,2
+DUBLIN,michaelkors,Dublin,2
+UNKNOWN,moneygram,RATOATH,1
+UNKNOWN,moneygram,FERMOY,1
+UNKNOWN,moneygram,CONDOKIN,1
+UNKNOWN,moneygram,TRALEE,1
+UNKNOWN,moneygram,CORK,6
+UNKNOWN,moneygram,DUBLIN,18
+UNKNOWN,moneygram,NEWBRIDGE,1
+UNKNOWN,moneygram,WATERFORD,1
+UNKNOWN,moneygram,ATHLONE,1
+UNKNOWN,moneygram,TUAM,1
+UNKNOWN,moneygram,BALBRIGGAN,3
+UNKNOWN,moneygram,GALWAY,3
+UNKNOWN,moneygram,CASTLEBAR,1
+UNKNOWN,moneygram,BALLYHAUNIS,1
+UNKNOWN,moneygram,ENFIELD,1
+UNKNOWN,moneygram,DUNDALK,4
+UNKNOWN,moneygram,DROGHEDA,5
+UNKNOWN,moneygram,PORTLAOISE,3
+UNKNOWN,moneygram,NAVAN,2
+UNKNOWN,moneygram,BLANCHARDSTOWN,1
+UNKNOWN,moneygram,EDENDERRY,1
+UNKNOWN,moneygram,SLIGO,1
+UNKNOWN,moneygram,ASHBOURNE,1
+UNKNOWN,moneygram,MITCHELSTOWN,1
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,moneygram,BALLAGHADEREEN,1
+UNKNOWN,moneygram,MULLINGAR,1
+UNKNOWN,moneygram,LIMERICK,2
+UNKNOWN,moneygram,TRIM,1
+UNKNOWN,moneygram,CO. WATERFORD.,1
+UNKNOWN,moneygram,CASTLEREA,1
+UNKNOWN,moneygram,NAAS,1
+UNKNOWN,moneygram,CLANE,1
+UNKNOWN,moneygram,ENNIS,1
+UNKNOWN,moneygram,CARLOW,1
+UNKNOWN,mr_price_ie,Artane,1
+UNKNOWN,mr_price_ie,Dublin 12,1
+UNKNOWN,mr_price_ie,Dublin,1
+UNKNOWN,mr_price_ie,Coolock,1
+UNKNOWN,mr_price_ie,Rathfarnham,1
+UNKNOWN,mr_price_ie,Co. Dublin,1
+UNKNOWN,mr_price_ie,"Dublin 17,",1
+UNKNOWN,mr_price_ie,Tallaght,4
+UNKNOWN,mr_price_ie,Blanchardstown,1
+UNKNOWN,mr_price_ie,Ashbourne,1
+UNKNOWN,mr_price_ie,Naas,1
+UNKNOWN,mr_price_ie,Bettystown,1
+UNKNOWN,mr_price_ie,Drogheda,2
+COKILDARE,mr_price_ie,Newbridge,1
+UNKNOWN,mr_price_ie,Athy,1
+UNKNOWN,mr_price_ie,Arklow,1
+UNKNOWN,mr_price_ie,Carlow,2
+UNKNOWN,mr_price_ie,Dundalk,1
+LOUTH,mr_price_ie,Louth,1
+UNKNOWN,mr_price_ie,Mullingar,1
+UNKNOWN,mr_price_ie,PORTLAOISE,1
+UNKNOWN,mr_price_ie,Bunclody,1
+UNKNOWN,mr_price_ie,Tullamore,1
+UNKNOWN,mr_price_ie,Enniscorthy,1
+UNKNOWN,mr_price_ie,Cavan,1
+UNKNOWN,mr_price_ie,Kilkenny,1
+UNKNOWN,mr_price_ie,Rathdowney,1
+UNKNOWN,mr_price_ie,Athlone,1
+UNKNOWN,mr_price_ie,Longford,1
+UNKNOWN,mr_price_ie,Monaghan,1
+UNKNOWN,mr_price_ie,Wexford,1
+UNKNOWN,mr_price_ie,Co Galway,1
+UNKNOWN,mr_price_ie,Waterford,2
+UNKNOWN,mr_price_ie,Carrick-on-Suir,1
+UNKNOWN,mr_price_ie,Nenagh,1
+UNKNOWN,mr_price_ie,Clonmel,1
+UNKNOWN,mr_price_ie,Tipperary Town,1
+UNKNOWN,mr_price_ie,Limerick,2
+UNKNOWN,mr_price_ie,Sligo,1
+UNKNOWN,mr_price_ie,Milltown,1
+UNKNOWN,mr_price_ie,Galway,2
+UNKNOWN,mr_price_ie,Swinford,1
+DONEGAL,mr_price_ie,Donegal,1
+UNKNOWN,mr_price_ie,Midleton,1
+UNKNOWN,mr_price_ie,Castlebar,1
+UNKNOWN,mr_price_ie,Ballina,1
+UNKNOWN,mr_price_ie,"LIMERICK,",1
+UNKNOWN,mr_price_ie,Cork City,1
+UNKNOWN,mr_price_ie,Ballincollig,1
+UNKNOWN,mr_price_ie,Bandon,1
+COKERRY,mr_price_ie,KERRY,1
+KERRY,mr_price_ie,KERRY,1
+UNKNOWN,mr_price_ie,KERRY,1
+KERRY,mr_price_ie,Kerry,1
+IRELAND,nandos,Dublin 24,1
+IRELAND,nandos,County Dublin,1
+IRELAND,nandos,"Quarryvale, Dublin 22",1
+IRELAND,nandos,"Dublin, Dublin 15",1
+IRELAND,nandos,Dublin 2,1
+IRELAND,nandos,Dublin 1,1
+IRELAND,nandos,"Mahon, Cork",1
+IRELAND,nandos,"Swords, County Dublin",1
+IRELAND,nandos,"Dundrum, Dublin 16",1
+IRELAND,nandos,Dublin 9,1
+IRELAND,nandos,"Newbridge, County Kildare",1
+IRELAND,nandos,"Cork, Cork",1
+IRELAND,nandos,Dooradoyle,1
+M,national,Cork,1
+M,national,Clare,1
+KY,national,Kerry,1
+D,national,Dublin,1
+L,national,Dublin,1
+COWATERFORD,next,unknown,1
+WATERFORD,next,CO. WATERFORD,1
+COKERRY,next,TRALEE,1
+COSLIGO,next,SLIGO,1
+COMONAGHAN,next,MONAGHAN,1
+COUNTYKILDARE,next,COUNTY KILDARE,1
+UNKNOWN,next,LIMERICK,2
+LETTERKENNY,next,CO. DONEGAL,1
+RAHOON,next,CO.GALWAY,1
+UNKNOWN,next,DUBLIN,2
+UNKNOWN,next,DUBLIN 32,1
+UNKNOWN,next,Dublin,1
+UNKNOWN,next,DUBLIN 16,1
+UNKNOWN,next,CARRICKMINES,1
+DUBLIN,next,BLACKROCK,1
+UNKNOWN,next,COUNTY LOUTH,1
+EIRE,next, CORK,1
+UNKNOWN,next,CO. MAYO,1
+CARLOW,next,CO. CARLOW,1
+UNKNOWN,next,COUNTY WESTMEATH,1
+UNKNOWN,next,CORK,1
+UNKNOWN,nike,Dublin,1
+ULSTER,nissan_europe,Aughnacloy,1
+UNKNOWN,nissan_europe,Cork,2
+UNKNOWN,nissan_europe,Co Dublin,2
+UNKNOWN,nissan_europe,Dublin 24,1
+UNKNOWN,nissan_europe,Co Mayo,1
+UNKNOWN,nissan_europe,Kilkenny,1
+UNKNOWN,nissan_europe,Co Cavan,2
+UNKNOWN,nissan_europe,Co Carlow,1
+UNKNOWN,nissan_europe,Co Roscommon,1
+UNKNOWN,nissan_europe,Co Tipperary,1
+UNKNOWN,nissan_europe,Co Clare,1
+UNKNOWN,nissan_europe,Co Kildare,2
+UNKNOWN,nissan_europe,Co Cork,2
+UNKNOWN,nissan_europe,Dublin 8,1
+UNKNOWN,nissan_europe,Co Donegal,1
+UNKNOWN,nissan_europe,Co. Louth,1
+UNKNOWN,nissan_europe,Co Louth,1
+UNKNOWN,nissan_europe,Co Westmeath,2
+UNKNOWN,nissan_europe,Dublin 12,1
+UNKNOWN,nissan_europe,Co Meath,2
+UNKNOWN,nissan_europe,Co Longford,1
+UNKNOWN,nissan_europe,Co Limerick,1
+UNKNOWN,nissan_europe,Co Kerry,2
+UNKNOWN,nissan_europe,Co Offaly,1
+UNKNOWN,nissan_europe,Waterford,2
+UNKNOWN,nissan_europe,Wexford,1
+UNKNOWN,nissan_europe,Co Wicklow,1
+UNKNOWN,nissan_europe,Galway,1
+UNKNOWN,nissan_europe,Dublin 22,1
+UNKNOWN,nissan_europe,Dublin 11,1
+UNKNOWN,nissan_europe,Dublin 5,1
+UNKNOWN,obriens_ie,unknown,35
+UNKNOWN,pod_point,Co. Dublin,1
+UNKNOWN,pod_point,Ballymahon,1
+LEINSTER,quest_diagnostics,unknown,1
+UNKNOWN,renault,Limerick,4
+UNKNOWN,renault,Cork,4
+UNKNOWN,renault,"Waterford Rd, Kilkenny.R95 NH32",2
+UNKNOWN,renault,CLONMEL CO. TIPPERARY,2
+UNKNOWN,renault,Drogheda,2
+UNKNOWN,renault,BRAY CO.WICKLOW,2
+UNKNOWN,renault,Carlow,2
+UNKNOWN,renault,Tipperary,2
+UNKNOWN,renault,CORK,1
+UNKNOWN,renault,Gorey Co Wexford,2
+UNKNOWN,renault,SWORDS CO.DUBLIN,2
+UNKNOWN,renault,Waterford,2
+UNKNOWN,renault,Galway,2
+UNKNOWN,renault,"Charleville, Co Cork",2
+UNKNOWN,renault,"Rathmore, Co Kerry",2
+UNKNOWN,renault,"Mullingar, Co Westmeath",2
+UNKNOWN,renault,Co Cork,2
+UNKNOWN,renault,Tallaght,2
+UNKNOWN,renault,Co Offaly,2
+UNKNOWN,renault,Wexford,2
+UNKNOWN,renault,LONGFORD,2
+UNKNOWN,renault,CASTLEISLAND,2
+UNKNOWN,renault,NAVAN,2
+UNKNOWN,renault,Portlaoise,2
+UNKNOWN,renault,DUNDALK,2
+UNKNOWN,renault,DUBLIN 11,2
+UNKNOWN,renault,BLANCHARDSTOWN,1
+UNKNOWN,renault,CAVAN,2
+UNKNOWN,renault,"Athlone,Co Wesmteath",2
+UNKNOWN,renault,Co Clare,2
+UNKNOWN,renault,Co Mayo,2
+UNKNOWN,renault,"Naas, Co Kildare",2
+UNKNOWN,renault,Letterkenny Co Donegal,2
+ALLREGIONSINIRELAND,ricoh_europe,Co Dublin,1
+ALLREGIONSINIRELAND,ricoh_europe,Dublin 12,1
+UNKNOWN,riverisland_ie_gb,County Wicklow,1
+UNKNOWN,riverisland_ie_gb,County West Meath,1
+UNKNOWN,riverisland_ie_gb,Waterford,1
+UNKNOWN,riverisland_ie_gb,County Dublin,4
+UNKNOWN,riverisland_ie_gb,County Sligo,1
+UNKNOWN,riverisland_ie_gb,County Kildare,1
+UNKNOWN,riverisland_ie_gb,Co Meath,1
+UNKNOWN,riverisland_ie_gb,Limerick,2
+UNKNOWN,riverisland_ie_gb,Donegal,1
+UNKNOWN,riverisland_ie_gb,County Kilkenny,1
+UNKNOWN,riverisland_ie_gb,Galway,1
+UNKNOWN,riverisland_ie_gb,County Louth,2
+UNKNOWN,riverisland_ie_gb,Dublin,1
+UNKNOWN,riverisland_ie_gb,Dublin 1,1
+UNKNOWN,riverisland_ie_gb,Dublin 2,1
+UNKNOWN,riverisland_ie_gb,Cork,2
+UNKNOWN,riverisland_ie_gb,Carlow,1
+COUNTYDUBLIN,sbarro,DUBLIN,1
+LEINSTER,sbarro,DUBLIN,1
+COUNTYDUBLIN,sbarro,unknown,1
+UNKNOWN,sbarro,Clondalkin,1
+UNKNOWN,scania,Carrigtwohill  Co Cork ,1
+UNKNOWN,scania,"North Road, Finglas,Co Dublin",1
+UNKNOWN,scania,"MERLIN PARK, GALWAY",1
+UNKNOWN,scania,"Castleisland, Co Kerry ",1
+UNKNOWN,scania,"Naas, Co Kildare",1
+UNKNOWN,scania,Monaghan,1
+UNKNOWN,scania,Roscommon,1
+UNKNOWN,scania, Knocknarea Co Sligo,1
+UNKNOWN,scania,"Thurles, Co Tipperary",1
+UNKNOWN,scania,"Drinagh, Co Wexford",1
+UNKNOWN,sixt,Dublin,5
+UNKNOWN,sixt,Shannon,1
+UNKNOWN,sixt,Cork,1
+UNKNOWN,sixt,Swords,2
+CE,skoda,unknown,1
+D,skoda,unknown,4
+LS,skoda,unknown,1
+C,skoda,unknown,4
+CW,skoda,unknown,1
+CN,skoda,unknown,1
+SO,skoda,unknown,1
+DL,skoda,unknown,1
+WX,skoda,unknown,1
+MN,skoda,unknown,1
+LK,skoda,unknown,1
+WD,skoda,unknown,1
+RN,skoda,unknown,1
+TS,skoda,unknown,1
+KK,skoda,unknown,1
+KY,skoda,unknown,1
+WH,skoda,unknown,2
+MO,skoda,unknown,1
+GW,skoda,unknown,1
+TN,skoda,unknown,1
+KE,skoda,unknown,1
+WW,skoda,unknown,1
+LH,skoda,unknown,1
+COUNTYDUBLIN,smart,Dublin,2
+COUNTYLIMERICK,smart,Limerick,1
+COUNTYWESTMEATH,smart,Athlone,1
+MUNSTER,smart,Cork,1
+COUNTYCARLOW,smart,Carlow,1
+LEINSTER,smart,Kildare,1
+LEINSTER,smart,Wexford,1
+CONNAUGHT,smart,Galway,1
+SLIGO,smart,Sligo,1
+SLIGO,snap_fitness,Sligo,1
+MEATH,snap_fitness,Drogheda,1
+WATERFORD,snap_fitness,Waterford,1
+MEATH,snap_fitness,Navan,1
+GALWAY,snap_fitness,Galway,1
+UNKNOWN,speed_queen,Dublin,6
+UNKNOWN,speed_queen,Ballinasloe,1
+UNKNOWN,speed_queen,Balieborough,1
+UNKNOWN,speed_queen,Ballybeg,1
+UNKNOWN,speed_queen,Ardkeen,1
+UNKNOWN,speed_queen,Arklow,1
+UNKNOWN,speed_queen,"Cashel, Co. Tipperary",1
+UNKNOWN,speed_queen,Clonmel,1
+UNKNOWN,speed_queen,Tullamore,1
+UNKNOWN,speed_queen,Wexford,1
+UNKNOWN,speed_queen,Drogheda,1
+UNKNOWN,speed_queen,Tramore,1
+UNKNOWN,speed_queen,Coonagh,1
+UNKNOWN,speed_queen,Dundalk,1
+UNKNOWN,speed_queen,Edenderry,1
+UNKNOWN,speed_queen,Killarney Park,1
+UNKNOWN,speed_queen,Maynooth,1
+UNKNOWN,speed_queen,Mullingar,1
+UNKNOWN,speed_queen,Newross,1
+UNKNOWN,speed_queen,Athlone,1
+UNKNOWN,speed_queen,Galway,1
+UNKNOWN,speed_queen,Claremorris,1
+MUNSTER,starbucks_eu,Tralee,1
+CONNAUGHT,starbucks_eu,Galway,3
+MUNSTER,starbucks_eu,Shannon   Airport,1
+MUNSTER,starbucks_eu,Limerick,4
+MUNSTER,starbucks_eu,Cork,7
+MUNSTER,starbucks_eu,Douglas,1
+MUNSTER,starbucks_eu,Waterford,2
+MUNSTER,starbucks_eu,Co   Tipperary,1
+LEINSTER,starbucks_eu,Kilkenny,1
+LEINSTER,starbucks_eu,Co   Wicklow,1
+LEINSTER,starbucks_eu,Athlone,1
+LEINSTER,starbucks_eu,Kildare,1
+LEINSTER,starbucks_eu,Newbridge,1
+LEINSTER,starbucks_eu,Jigginstown,1
+LEINSTER,starbucks_eu,Howth,1
+LEINSTER,starbucks_eu,Dublin,41
+LEINSTER,starbucks_eu,Malahide,1
+LEINSTER,starbucks_eu,Swords,1
+LEINSTER,starbucks_eu,Bray,1
+LEINSTER,starbucks_eu,Cabinteely   Dublin,1
+LEINSTER,starbucks_eu,Co   Dublin,1
+UNKNOWN,starbucks_eu,Dublin,3
+LEINSTER,starbucks_eu,Drogheda,2
+LEINSTER,starbucks_eu,Dublin 1,2
+UNKNOWN,starbucks_eu,Dublin 1,1
+LEINSTER,starbucks_eu,Dublin 7,1
+LEINSTER,starbucks_eu,Dublin 2,3
+LEINSTER,starbucks_eu,Lucan,1
+LEINSTER,starbucks_eu,Dundalk,1
+LOUTH,subway,West Street,1
+WICKLOW,subway,Bray Co. Wicklow,1
+WEXFORD,subway,Wexford Wexford,1
+WEXFORD,subway,Kilmore Meath,1
+WICKLOW,subway,Cullenmore Co. Wicklow,1
+WEXFORD,subway,Ferns Co. Wexford,1
+WEXFORD,subway,Gorey,1
+WEXFORD,subway,Drinagh Co. Wexford,1
+WESTMEATH,subway,Athlone Westmeath,1
+WATERFORD,subway,Waterford,2
+WESTMEATH,subway,Mullingar,2
+WATERFORD,subway,Waterford Co. Waterford,1
+TIPPERARY,subway,Tipperary,1
+WATERFORD,subway,Tramore Waterford,1
+TIPPERARY,subway,"Nenagh, Tipperary Co Tipperary",1
+WATERFORD,subway,Lemybrien Co. Waterford,1
+SLIGO,subway,Sligo,1
+TIPPERARY,subway,Birdhill Co. Tipperary,1
+TIPPERARY,subway,Cashel,1
+SLIGO,subway,Holyhill,1
+OFFALY,subway,Tullamore Co.Offaly,1
+MONAGHAN,subway,Monaghan,1
+MONAGHAN,subway,Clones Co. Monaghan,1
+MEATH,subway,Trim Meath,1
+MEATH,subway,Navan,2
+MEATH,subway,Ashbourne Co. Meath,1
+MAYO,subway,Swinford,1
+LOUTH,subway,Dundalk Louth,2
+LOUTH,subway,Dromikin Co. Louth,1
+LOUTH,subway,Drogheda County Louth,1
+LIMERICK,subway,Seefin Co. Offaly,1
+LIMERICK,subway,Newcastle West Co. Limerick,1
+LOUTH,subway,Ardee,1
+LIMERICK,subway,Limerick Co Limerick,1
+LIMERICK,subway,Limerick,4
+LIMERICK,subway,Newcastle West,1
+LIMERICK,subway,Limerick Co.Limerick,1
+LIMERICK,subway,Limerick County Limerick,1
+LIMERICK,subway,Castletroy,1
+LAOIS,subway,Midway,1
+LAOIS,subway,Portlaoise,1
+KILDARE,subway,Newbridge,1
+KILKENNY,subway,Kilkenny,2
+KILKENNY,subway,Paulstown Co. Kilkenny,1
+KILDARE,subway,Naas County Kildare,1
+KILDARE,subway,Monasterevin,1
+KILDARE,subway,Naas Co. Kildare,1
+KERRY,subway,Killarney,1
+KERRY,subway,Listowel,1
+KILDARE,subway,Celbridge,1
+KERRY,subway,Tralee Co. Kerry,1
+GALWAY,subway,Galway,3
+GALWAY,subway,Galway Co. Galway,1
+DUBLIN,subway,Tallaght Tallaght,1
+DUBLIN,subway,Santry D9,1
+DUBLIN,subway,Swords,1
+DUBLIN,subway,Swords County Dublin,1
+DUBLIN,subway,Swords Co. Dublin,1
+DUBLIN,subway,Sandyford Industrial Est,1
+DUBLIN,subway,Santry,1
+DUBLIN,subway,Rathfarnham,1
+DUBLIN,subway,Lucan Co. Dublin,1
+DUBLIN,subway,Inchicore Dublin 8,1
+DUBLIN,subway,Rathcoole Co Dublin,1
+DUBLIN,subway,Glasnevin,1
+DUBLIN,subway,Dublin,24
+DUBLIN,subway,Dublin Co. Dublin,1
+DUBLIN,subway,Dublin Dublin,2
+DUBLIN,subway,Dublin Dublin 16,1
+DUBLIN,subway,Dublin Dublin 15,1
+DUBLIN,subway,Dublin co dublin,1
+DUBLIN,subway,Dublin Co.Dublin,2
+DUBLIN,subway,Clondalkin,1
+DUBLIN,subway,Coolock,1
+DUBLIN,subway,Cherrywood Co.Dublin,1
+DUBLIN,subway,Ballyfermot,1
+DUBLIN,subway,Ballymount Cross,1
+DUBLIN,subway,Baldoyle Dublin,1
+DUBLIN,subway,Balbriggin,1
+DONEGAL,subway,Letterkenny,1
+DONEGAL,subway,Letterkenny Donegal,1
+DUBLIN,subway,Artane,1
+DONEGAL,subway,Buncrana Co. Donegal,1
+CORK,subway,Wilton,1
+CORK,subway,Fermoy,1
+CORK,subway,Midleton Cork,1
+CORK,subway,Glanmire Co. Cork,1
+CORK,subway,Cork Cork,2
+CORK,subway,Cork,3
+CORK,subway,Ballincollig Cork,1
+CLARE,subway,Shannon Co.Clare,1
+CORK,subway,Ballincollig Co. Cork,1
+CORK,subway,Corbally Co. Limerick,1
+CAVAN,subway,Poles Co. Cavan,1
+CLARE,subway,Ennis Co. Clare,1
+CLARE,subway,Ennis CO CLARE,1
+CARLOW,subway,Carlow,1
+DUBLIN,sunglass_hut_1,Dublin,6
+DUBLIN,superdry,Swords,1
+LIMERICK,superdry,Limerick,1
+KILDARE,superdry,Kildare,1
+DUBLIN,superdry,Dublin,1
+DERRY,superdry,Derry,1
+CORK,superdry,Cork,1
+DUBLIN,superdry,Blanchardstown,1
+COLIMERICK,supervalu_ie,Abbeyfeale,1
+COLAOIS,supervalu_ie,Abbeyleix,1
+COMAYO,supervalu_ie,Achill Sound,1
+COLOUTH,supervalu_ie,Ardee,1
+COWICKLOW,supervalu_ie,Arklow,1
+COMEATH,supervalu_ie,Ashbourne,1
+COLIMERICK,supervalu_ie,Askeaton,1
+CODUBLIN,supervalu_ie,City Centre,1
+COWESTMEATH,supervalu_ie,unknown,1
+COKILDARE,supervalu_ie,Athy,1
+CODUBLIN,supervalu_ie,Tallaght,2
+COCARLOW,supervalu_ie,Bagenalstown,1
+COCAVAN,supervalu_ie,Bailieborough,1
+CODUBLIN,supervalu_ie,Sandyford,1
+CODUBLIN,supervalu_ie,Balbriggan,1
+COROSCOMMON,supervalu_ie,Ballaghaderreen,1
+COMAYO,supervalu_ie,Ballina,1
+COLEITRIM,supervalu_ie,Ballinamore,1
+COGALWAY,supervalu_ie,Ballinasloe,1
+COCORK,supervalu_ie,Ballincollig,2
+COMAYO,supervalu_ie,Ballinrobe,1
+DUBLIN16,supervalu_ie,"Ballinteer,",1
+COSLIGO,supervalu_ie,Ballisodare,1
+CODONEGAL,supervalu_ie,Ballybofey,1
+COKERRY,supervalu_ie,Ballybunion,1
+COCAVAN,supervalu_ie,Ballyconnell,1
+COMAYO,supervalu_ie,Ballyhaunis,1
+COLONGFORD,supervalu_ie,Ballymahon,1
+COKILKENNY,supervalu_ie,Ballyragget,1
+CODUBLIN,supervalu_ie,Rathfarnham,1
+COWICKLOW,supervalu_ie,Baltinglass,1
+COOFFALY,supervalu_ie,Banagher,1
+COCORK,supervalu_ie,Bandon,1
+COCORK,supervalu_ie,Bantry,1
+COGALWAY,supervalu_ie,Barna,1
+COTIPPERARY,supervalu_ie,Roscrea,1
+COOFFALY,supervalu_ie,Birr,1
+COCORK,supervalu_ie,Blackrock,1
+CODUBLIN,supervalu_ie,"Blackrock,",1
+DUBLIN15,supervalu_ie,"Blanchardstown,",1
+COCORK,supervalu_ie,Blarney,1
+COWICKLOW,supervalu_ie,Blessington,1
+COCORK,supervalu_ie,Boherbue,1
+COROSCOMMON,supervalu_ie,Boyle,1
+WICKLOW,supervalu_ie,Bray,1
+COWICKLOW,supervalu_ie,"Bray,",1
+COWEXFORD,supervalu_ie,Bunclody,1
+CODONEGAL,supervalu_ie,Buncrana,1
+COKERRY,supervalu_ie,Caherciveen,1
+COTIPPERARY,supervalu_ie,Cahir,1
+COKILKENNY,supervalu_ie,Callan,1
+CODONEGAL,supervalu_ie,Carndonagh,1
+COWATERFORD,supervalu_ie,Cappoquin,1
+COCARLOW,supervalu_ie,Carlow,1
+COMONAGHAN,supervalu_ie,Carrickmacross,1
+COLEITRIM,supervalu_ie,Carrick-on-Shannon,1
+COTIPPERARY,supervalu_ie,Carrick-on-Suir,1
+COCORK,supervalu_ie,Carrigaline,1
+COTIPPERARY,supervalu_ie,Cashel,1
+COMAYO,supervalu_ie,Castlebar,1
+COMONAGHAN,supervalu_ie,Castleblayney,1
+COLIMERICK,supervalu_ie,Castleconnell,1
+COKERRY,supervalu_ie,Castleisland,1
+COROSCOMMON,supervalu_ie,Castlerea,1
+COCORK,supervalu_ie,Castletownbere,1
+COLIMERICK,supervalu_ie,"Castletroy,",1
+COCAVAN,supervalu_ie,Cavan Town,1
+COKILDARE,supervalu_ie,Celbridge,1
+COWICKLOW,supervalu_ie,"Greystones,",1
+COCORK,supervalu_ie,Charleville,1
+COKILDARE,supervalu_ie,Clane,1
+COGALWAY,supervalu_ie,Claregalway,1
+COMAYO,supervalu_ie,Claremorris,1
+COGALWAY,supervalu_ie,Clifden,1
+COCORK,supervalu_ie,Clonakilty,1
+COMONAGHAN,supervalu_ie,Clones,1
+COCORK,supervalu_ie,Cobh,1
+COCAVAN,supervalu_ie,Cootehill,1
+COLIMERICK,supervalu_ie,Corbally,1
+CODUBLIN,supervalu_ie,"Dalkey,",1
+CODUBLIN,supervalu_ie,Deansgrange,1
+COKERRY,supervalu_ie,Dingle,1
+CODUBLIN,supervalu_ie,Donabate,1
+CODONEGAL,supervalu_ie,Donegal Town,1
+COMEATH,supervalu_ie,Dunboyne,1
+COWATERFORD,supervalu_ie,Dungarvan,1
+CODONEGAL,supervalu_ie,Dungloe,1
+CODUBLIN,supervalu_ie,Dun Laoghaire,1
+COCORK,supervalu_ie,Dunmanway,1
+COMEATH,supervalu_ie,Dunshaughlin,1
+COLONGFORD,supervalu_ie,Edgeworthstown,1
+COMEATH,supervalu_ie,"Enfield,",1
+COWEXFORD,supervalu_ie,Enniscorthy,1
+COCLARE,supervalu_ie,Ennistymon,1
+GALWAY,supervalu_ie,unknown,1
+COCORK,supervalu_ie,Fermoy,1
+DUBLIN11,supervalu_ie,"Finglas,",1
+CODUBLIN,supervalu_ie,Firhouse,1
+COCORK,supervalu_ie,Glanmire,1
+COGALWAY,supervalu_ie,Glenamaddy,1
+COWEXFORD,supervalu_ie,Gorey,1
+COGALWAY,supervalu_ie,Gort,1
+COKILKENNY,supervalu_ie,Graiguenamagh,1
+COLONGFORD,supervalu_ie,Granard,1
+COCORK,supervalu_ie,Grange/Douglas,1
+COSLIGO,supervalu_ie,Grange,1
+COWICKLOW,supervalu_ie,Greystones,1
+COCARLOW,supervalu_ie,Hacketstown,1
+COCORK,supervalu_ie,Hollyhill,1
+COSLIGO,supervalu_ie,Ballymote,1
+COCORK,supervalu_ie,Kanturk,1
+COMEATH,supervalu_ie,Kells,1
+COKERRY,supervalu_ie,Kenmare,1
+WATERFORD,supervalu_ie,"Tramore Road,",1
+COKILDARE,supervalu_ie,unknown,2
+COCLARE,supervalu_ie,Killaloe,1
+COKERRY,supervalu_ie,Killarney,1
+CODUBLIN,supervalu_ie,Killester,1
+CODUBLIN,supervalu_ie,"Dunlaoire,",1
+COKERRY,supervalu_ie,Killorglin,1
+CODONEGAL,supervalu_ie,Killybegs,1
+COLIMERICK,supervalu_ie,Kilmallock,1
+COCLARE,supervalu_ie,Kilrush,1
+COMAYO,supervalu_ie,Kitimagh,1
+COCAVAN,supervalu_ie,Cavan,1
+COCORK,supervalu_ie,"Kinsale,",1
+DUBLIN16,supervalu_ie,"Templeogue,",1
+COGALWAY,supervalu_ie,Turloughmore,1
+COLONGFORD,supervalu_ie,Co Longford,1
+COKILDARE,supervalu_ie,Leixlip,1
+COKERRY,supervalu_ie,Listowel,1
+COLONGFORD,supervalu_ie,Longford,1
+COKILKENNY,supervalu_ie,Loughboy,1
+COGALWAY,supervalu_ie,Loughrea,1
+CODUBLIN,supervalu_ie,"Lucan,",1
+COCORK,supervalu_ie,Macroom,1
+CODUBLIN,supervalu_ie,Malahide,1
+COCORK,supervalu_ie,Mallow,1
+COLEITRIM,supervalu_ie,Manorhamilton,1
+COTIPPERARY,supervalu_ie,Clonmel,1
+COCORK,supervalu_ie,Mayfield,1
+COKILDARE,supervalu_ie,Maynooth,1
+COCORK,supervalu_ie,Midleton,1
+COCORK,supervalu_ie,Millstreet,1
+COCLARE,supervalu_ie,Miltown Malbay,1
+COCORK,supervalu_ie,Mitchelstown,1
+COWESTMEATH,supervalu_ie,Moate,1
+COMONAGHAN,supervalu_ie,Monaghan,1
+COKILDARE,supervalu_ie,Monasterevin,1
+COROSCOMMON,supervalu_ie,Athlone,1
+COGALWAY,supervalu_ie,unknown,1
+COLAOIS,supervalu_ie,Mountmellick,1
+CODUBLIN,supervalu_ie,Mount Merrion,1
+COGALWAY,supervalu_ie,Moycullen,1
+COWESTMEATH,supervalu_ie,Mullingar,1
+COKILDARE,supervalu_ie,"Naas,",1
+COMEATH,supervalu_ie,Navan,2
+COLIMERICK,supervalu_ie,Newcastle West,1
+COCORK,supervalu_ie,Newmarket,1
+COWEXFORD,supervalu_ie,New Ross,1
+DUBLIN17,supervalu_ie,"Coolock,",1
+COMEATH,supervalu_ie,Oldcastle,1
+DUBLIN20,supervalu_ie,Palmerstown,1
+COLAOIS,supervalu_ie,"Portlaoise,",1
+CODUBLIN,supervalu_ie,"Swords,",1
+COWEXFORD,supervalu_ie,Wexford Town,2
+COLAOIS,supervalu_ie,Portarlington,1
+COLAOIS,supervalu_ie,Portlaoise,1
+COGALWAY,supervalu_ie,Portumna,1
+CODUBLIN,supervalu_ie,Raheny,1
+DUBLIN6,supervalu_ie,"Ranelagh,",1
+DUBLIN15,supervalu_ie,"Rathborne,",1
+COLAOIS,supervalu_ie,Rathdowney,1
+DUBLIN6,supervalu_ie,"Rathgar,",1
+COMEATH,supervalu_ie,Ratoath,1
+COROSCOMMON,supervalu_ie,Roscommon,1
+COWEXFORD,supervalu_ie,Rosslare,1
+CODUBLIN,supervalu_ie,Clondalkin,1
+CODUBLIN,supervalu_ie,unknown,1
+COKILDARE,supervalu_ie,Sallins,1
+CODUBLIN,supervalu_ie,Santry,1
+CODUBLIN,supervalu_ie,Skerries,1
+COCORK,supervalu_ie,Skibbereen,1
+COLAOIS,supervalu_ie,Stradbally,1
+COROSCOMMON,supervalu_ie,Strokestown,1
+DUBLIN12,supervalu_ie,"Kimmage,",1
+CODUBLIN,supervalu_ie,Churchtown,1
+COLOUTH,supervalu_ie,Dundalk,1
+DUBLIN8,supervalu_ie,"Kilmainham,",1
+CODUBLIN,supervalu_ie,Lusk,1
+DUBLIN13,supervalu_ie,"Sutton,",1
+CODONEGAL,supervalu_ie,Bundoran,1
+CODUBLIN,supervalu_ie,Swords,1
+CODUBLIN,supervalu_ie,Talbot Street,1
+CODUBLIN,supervalu_ie,Templeogue,1
+UNKNOWN,supervalu_ie,unknown,1
+COKILKENNY,supervalu_ie,Thomastown,1
+COTIPPERARY,supervalu_ie,unknown,1
+COTIPPERARY,supervalu_ie,Tipperary Town,1
+COCORK,supervalu_ie,Togher,1
+COCORK,supervalu_ie,unknown,1
+COKERRY,supervalu_ie,Tralee,1
+COWATERFORD,supervalu_ie,Tramore,1
+COMEATH,supervalu_ie,Trim,1
+COGALWAY,supervalu_ie,Tuam,1
+COSLIGO,supervalu_ie,Tubbercurry,1
+COCLARE,supervalu_ie,Tulla,1
+COCARLOW,supervalu_ie,Tullow,1
+DUBLIN15,supervalu_ie,"Tyrrelstown,",1
+COCAVAN,supervalu_ie,Virginia,1
+DUBLIN12,supervalu_ie,"Walkinstown,",1
+COWATERFORD,supervalu_ie,Waterford,1
+COWEXFORD,supervalu_ie,Wellingtonbridge,1
+COMAYO,supervalu_ie,Westport,1
+COWICKLOW,supervalu_ie,Wicklow Town,1
+COCORK,supervalu_ie,Youghal,1
+CODUBLIN,tanning_shop_ie,Dublin,2
+CODUBLIN,tanning_shop_ie,Dundrum,1
+CODUBLIN,tanning_shop_ie,Finglas Village,1
+COWICKLOW,tanning_shop_ie,Greystones,1
+UNKNOWN,thebodyshop,COUNTY DUBLIN,1
+UNKNOWN,thebodyshop,DUBLIN,1
+UNKNOWN,thebodyshop,DUBLIN 2,1
+UNKNOWN,thebodyshop,GALWAY,1
+UNKNOWN,thebodyshop,CORK,1
+UNKNOWN,thebodyshop,DUBLIN 15,1
+UNKNOWN,therapie_clinic,Athlone,1
+UNKNOWN,therapie_clinic,Dublin,10
+UNKNOWN,therapie_clinic,Cork,1
+UNKNOWN,therapie_clinic,Dundalk,1
+UNKNOWN,therapie_clinic,Galway,1
+UNKNOWN,therapie_clinic,Limerick,2
+UNKNOWN,therapie_clinic,Naas,1
+UNKNOWN,therapie_clinic,Newbridge,1
+UNKNOWN,therapie_clinic,Sligo,1
+UNKNOWN,therapie_clinic,Waterford,1
+UNKNOWN,therapie_clinic,Wexford,1
+UNKNOWN,the_north_face_eu,Kildare,1
+DUBLIN,the_north_face_eu,Dundrum,1
+UNKNOWN,the_north_face_eu,Cork,1
+UNKNOWN,the_north_face_eu,Dublin,1
+MUNSTER,the_range,Waterford,1
+COUNTYKERRY,the_range,Tralee,1
+DUBLIN,the_range,Northside,1
+KILDARE,the_range,Maynooth,1
+LIMERICK,the_range,Childers Road,1
+DUBLIN,the_range,Quarryvale,1
+CORK,the_range,unknown,1
+IRELAND,the_range,Carlow,1
+UNKNOWN,the_works,Killarney,1
+UNKNOWN,the_works,Dublin,3
+UNKNOWN,the_works,Athlone,1
+UNKNOWN,the_works,Wilton,1
+UNKNOWN,the_works,Blackpool,1
+UNKNOWN,the_works,Kilkenny,1
+UNKNOWN,the_works,Swords,1
+UNKNOWN,the_works,Gorey,1
+LEINSTER,tier,unknown,94
+LEINSTER,tier,Fingal County,87
+MUNSTER,tier,County Limerick,1
+UNKNOWN,timberland,Dublin,5
+DUBLIN,timberland,Dublin,1
+UNKNOWN,timberland,Limerick,2
+UNKNOWN,timberland,Cork,2
+UNKNOWN,timberland,Kildare,1
+UNKNOWN,timpson_gb,Newbridge,1
+UNKNOWN,timpson_gb,Naas,1
+UNKNOWN,timpson_gb,Galway,1
+UNKNOWN,timpson_gb,Dublin,1
+UNKNOWN,timpson_gb,Drogheda,1
+UNKNOWN,tommy_hilfiger,Cork,2
+UNKNOWN,tommy_hilfiger,Dublin Central,2
+UNKNOWN,tommy_hilfiger,Limerick,1
+UNKNOWN,tommy_hilfiger,Athlone,1
+UNKNOWN,tommy_hilfiger,Swords,1
+UNKNOWN,tommy_hilfiger,Galway,1
+UNKNOWN,tommy_hilfiger,Waterford,1
+UNKNOWN,tommy_hilfiger,Kildare,1
+UNKNOWN,tommy_hilfiger,Blanchardstown,1
+UNKNOWN,totalenergies,DUNDALK CO LOUTH,1
+UNKNOWN,totalenergies,EMYVALE,1
+UNKNOWN,totalenergies,DUNDALK EAST,1
+UNKNOWN,totalenergies,DUNDALK WEST,1
+UNKNOWN,totalenergies,ENFIELD SOUTH,1
+UNKNOWN,totalenergies,LUSK EAST,1
+UNKNOWN,totalenergies,LUSK WEST,1
+UNKNOWN,totalenergies,ROSSLARE EUROPORT,1
+UNKNOWN,totalenergies,MAYFIELD  MONASTEREVIN,1
+UNKNOWN,totalenergies,ROSSLARE,1
+UNKNOWN,totalenergies,CORK,1
+UNKNOWN,totalenergies,NEVINSTOWN,1
+UNKNOWN,totalenergies,LIMERICK,1
+UNKNOWN,totalenergies,DUNDALK,1
+UNKNOWN,totalenergies,NAAS,1
+UNKNOWN,ubitricity,Malahide,2
+UNKNOWN,ubitricity,Dublin,9
+UNKNOWN,united_colors_of_benetton,DUBLIN,4
+UNKNOWN,united_colors_of_benetton,GALWAY,1
+UNKNOWN,united_colors_of_benetton,NAAS,1
+UNKNOWN,united_colors_of_benetton,KILKENNY,2
+UNKNOWN,united_colors_of_benetton,WATERFORD,1
+UNKNOWN,united_colors_of_benetton,CORK,1
+DUBLIN,vans,Dublin,3
+KILDARE,vans,Kildare,1
+UNKNOWN,visa,TUAM,4
+UNKNOWN,visa,BLARNEY,3
+UNKNOWN,visa,INNISCRONE,1
+UNKNOWN,visa,DUBLIN,570
+UNKNOWN,visa,TIPPERARY,23
+UNKNOWN,visa,ENNIS,17
+UNKNOWN,visa,ROSCOMMON,11
+UNKNOWN,visa,KILDARE,28
+UNKNOWN,visa,BALBRIGGAN,8
+UNKNOWN,visa,LIMERICK,69
+UNKNOWN,visa,CASTLEREA,3
+UNKNOWN,visa,WICKLOW,27
+UNKNOWN,visa,SCARRIFF,1
+UNKNOWN,visa,ATHLONE,15
+UNKNOWN,visa,MURROE,1
+UNKNOWN,visa,NEW ROSS,8
+UNKNOWN,visa,THOMASTOWN,3
+UNKNOWN,visa,CORK CITY,88
+UNKNOWN,visa,TINAHELY,1
+UNKNOWN,visa,BANDON,4
+UNKNOWN,visa,LAHINCH,1
+UNKNOWN,visa,TULLAMORE,12
+UNKNOWN,visa,BORRIS,1
+UNKNOWN,visa,MONAGHAN,19
+UNKNOWN,visa,WATERFORD CITY,34
+UNKNOWN,visa,LETTERKENNY,16
+UNKNOWN,visa,CLARE,2
+UNKNOWN,visa,DUNDALK,31
+UNKNOWN,visa,NAAS,18
+UNKNOWN,visa,BALLINCOLLIG,6
+UNKNOWN,visa,MIDLETON,10
+UNKNOWN,visa,WEXFORD,34
+UNKNOWN,visa,DONABATE,1
+UNKNOWN,visa,SWORDS,17
+UNKNOWN,visa,CAVAN,17
+UNKNOWN,visa,SHILLELAGH,1
+UNKNOWN,visa,BALLAGHADERREEN,1
+UNKNOWN,visa,MULLAGH,1
+UNKNOWN,visa,FRESHFORD,1
+UNKNOWN,visa,BALLINASLOE,3
+UNKNOWN,visa,CAHERSIVEEN,2
+UNKNOWN,visa,DROGHEDA,30
+UNKNOWN,visa,KNOCK,2
+UNKNOWN,visa,CELBRIDGE,7
+UNKNOWN,visa,BALLYMAHON,5
+UNKNOWN,visa,SKIBBEREEN,2
+UNKNOWN,visa,PORTLAOISE,13
+UNKNOWN,visa,ENFIELD,6
+UNKNOWN,visa,BALLINDINE,1
+UNKNOWN,visa,TYRRELLSPASS,1
+UNKNOWN,visa,ATHY,7
+UNKNOWN,visa,NEWBRIDGE,11
+UNKNOWN,visa,CAPPAMORE,2
+UNKNOWN,visa,CASLACH,1
+UNKNOWN,visa,TURLOUGHMORE,2
+UNKNOWN,visa,HOSPITAL,1
+UNKNOWN,visa,FOYNES,1
+UNKNOWN,visa,CLONDALKIN,10
+UNKNOWN,visa,KILCULLEN,2
+UNKNOWN,visa,INNISHANNON,1
+UNKNOWN,visa,TULLOW,3
+UNKNOWN,visa,GLENAMADDY,2
+UNKNOWN,visa,ADARE,3
+UNKNOWN,visa,NEWCASTLE,1
+UNKNOWN,visa,MOHILL,5
+UNKNOWN,visa,NAVAN,15
+UNKNOWN,visa,KILRONAN,1
+UNKNOWN,visa,THURLES,7
+UNKNOWN,visa,CARLOW,25
+UNKNOWN,visa,CLONMEL,11
+UNKNOWN,visa,CHARLEVILLE,5
+UNKNOWN,visa,GALWAY CITY,65
+UNKNOWN,visa,BALLYJAMESDUFF,3
+UNKNOWN,visa,SPIDDLE,1
+UNKNOWN,visa,YOUGHAL,4
+UNKNOWN,visa,STROKESTOWN,2
+UNKNOWN,visa,CASTLEPOLLARD,5
+UNKNOWN,visa,MOUNTRATH,4
+UNKNOWN,visa,BETTYSTOWN,4
+UNKNOWN,visa,MILLSTREET,2
+UNKNOWN,visa,NEWMARKET,1
+UNKNOWN,visa,MEATHAS TRUIM,1
+UNKNOWN,visa,BANTRY,3
+UNKNOWN,visa,DUNMORE EAST,2
+UNKNOWN,visa,CLARA,2
+UNKNOWN,visa,MULLINGAR,9
+UNKNOWN,visa,NEWPORT,1
+UNKNOWN,visa,KILLARNEY,29
+UNKNOWN,visa,DUNLAVIN,1
+UNKNOWN,visa,BALTINGLASS,1
+UNKNOWN,visa,CLONAKILTY,4
+UNKNOWN,visa,ROSSCARBERY,1
+UNKNOWN,visa,TRALEE,19
+UNKNOWN,visa,FERMOY,8
+UNKNOWN,visa,WALKINSTOWN,4
+UNKNOWN,visa,BALLINEEN AND ENNISKEAN,1
+UNKNOWN,visa,SLIGO BOROUGH,13
+UNKNOWN,visa,ATHBOY,2
+UNKNOWN,visa,NEWMARKET-ON-FERGUS,1
+UNKNOWN,visa,SHANKILL,2
+UNKNOWN,visa,TRAMORE,8
+UNKNOWN,visa,MILLTOWN MALBAY,4
+UNKNOWN,visa,BRIDGETOWN,1
+UNKNOWN,visa,GREYSTONES,8
+UNKNOWN,visa,DUNMANWAY,1
+UNKNOWN,visa,KINSALE,6
+UNKNOWN,visa,SHERCOCK,1
+UNKNOWN,visa,KILLALA,2
+UNKNOWN,visa,KENMARE,2
+UNKNOWN,visa,KILKENNY,27
+UNKNOWN,visa,KILMEAGE,1
+UNKNOWN,visa,KELLS,5
+UNKNOWN,visa,LOUGHREA,4
+UNKNOWN,visa,ROSCREA,3
+UNKNOWN,visa,MAYNOOTH,8
+UNKNOWN,visa,BALLYLINAN,1
+UNKNOWN,visa,DONEGAL,24
+UNKNOWN,visa,BOHERBUE,1
+UNKNOWN,visa,DROMAHAIR,1
+UNKNOWN,visa,CABINTEELY,2
+UNKNOWN,visa,ROSSLARE,3
+UNKNOWN,visa,CASTLEBAR,12
+UNKNOWN,visa,ASHBOURNE,11
+UNKNOWN,visa,DAINGEAN,4
+UNKNOWN,visa,BALLINA,16
+UNKNOWN,visa,ARKLOW,6
+UNKNOWN,visa,LEIXLIP,6
+UNKNOWN,visa,BISHOPSTOWN,2
+UNKNOWN,visa,DRUMLISH,2
+UNKNOWN,visa,RATHDOWNEY,1
+UNKNOWN,visa,STRAFFAN,2
+UNKNOWN,visa,BOYLE,3
+UNKNOWN,visa,RATHMORE,2
+UNKNOWN,visa,CLOYNE,2
+UNKNOWN,visa,BALLYROAN,2
+UNKNOWN,visa,CARRIGART,1
+UNKNOWN,visa,MACROOM,3
+UNKNOWN,visa,BALLINROBE,3
+UNKNOWN,visa,ENNISCORTHY,9
+UNKNOWN,visa,ARDNACRUSHA,2
+UNKNOWN,visa,BALLYDESMOND,1
+UNKNOWN,visa,BRAY,12
+UNKNOWN,visa,GOREY,12
+UNKNOWN,visa,RATHDRUM,1
+UNKNOWN,visa,NEWTOWNMOUNTKENNEDY,1
+UNKNOWN,visa,DUNFANAGHY,2
+UNKNOWN,visa,BAILIEBOROUGH,3
+UNKNOWN,visa,CLANE,4
+UNKNOWN,visa,PORTUMNA,1
+UNKNOWN,visa,CASTLEBRIDGE,1
+UNKNOWN,visa,HACKETSTOWN,1
+UNKNOWN,visa,TARBERT,2
+UNKNOWN,visa,PORTMARNOCK,3
+UNKNOWN,visa,CLARINBRIDGE,1
+UNKNOWN,visa,LISTOWEL,5
+UNKNOWN,visa,STRADBALLY,2
+UNKNOWN,visa,TRIM,4
+UNKNOWN,visa,TALLOW,1
+UNKNOWN,visa,CAPPOQUIN,1
+UNKNOWN,visa,EDGEWORTHSTOWN,2
+UNKNOWN,visa,ORANMORE,3
+UNKNOWN,visa,DUNBOYNE,3
+UNKNOWN,visa,CARRIGALLEN,2
+UNKNOWN,visa,BLACKPOOL,3
+UNKNOWN,visa,BUNCRANA,3
+UNKNOWN,visa,BALLYBUNION,5
+UNKNOWN,visa,PORTARLINGTON,5
+UNKNOWN,visa,BRIDGE END,1
+UNKNOWN,visa,DUN LAOGHAIRE,9
+UNKNOWN,visa,COBH,7
+UNKNOWN,visa,KILMALLOCK,5
+UNKNOWN,visa,NOBBER,1
+UNKNOWN,visa,KILRUSH,2
+UNKNOWN,visa,CASTLETOWNBERE,1
+UNKNOWN,visa,SHINRONE,1
+UNKNOWN,visa,BALLYBOFEY-STRANORLAR,4
+UNKNOWN,visa,DRIMOLEAGUE,1
+UNKNOWN,visa,RATOATH,2
+UNKNOWN,visa,MALLOW,7
+UNKNOWN,visa,WATERVILLE,3
+UNKNOWN,visa,RATHCORMAC,1
+UNKNOWN,visa,ARDRAHAN,1
+UNKNOWN,visa,CLAREMORRIS,9
+UNKNOWN,visa,CARRICK-ON SUIR,1
+UNKNOWN,visa,BENNETTSBRIDGE,1
+UNKNOWN,visa,KILCAR,1
+UNKNOWN,visa,CHARLESTOWN,4
+UNKNOWN,visa,BRIDGEND,1
+UNKNOWN,visa,CLONMANY,1
+UNKNOWN,visa,VIRGINIA,4
+UNKNOWN,visa,ELPHIN,1
+UNKNOWN,visa,DINGLE,6
+UNKNOWN,visa,DUNGARVAN,10
+UNKNOWN,visa,CASTLEISLAND,1
+UNKNOWN,visa,LUSK,3
+UNKNOWN,visa,NENAGH,6
+UNKNOWN,visa,EDENDERRY,3
+UNKNOWN,visa,CAMOLIN,2
+UNKNOWN,visa,WESTPORT,11
+UNKNOWN,visa,MOYCULLEN,1
+UNKNOWN,visa,MANORHAMILTON,6
+UNKNOWN,visa,SUMMERHILL,2
+UNKNOWN,visa,ASKEATON,1
+UNKNOWN,visa,BALLYBRACK,5
+UNKNOWN,visa,CASTLEDERMOT,2
+UNKNOWN,visa,GORT,2
+UNKNOWN,visa,NEWCASTLE WEST,4
+UNKNOWN,visa,CARRICK ON SHANNON,5
+UNKNOWN,visa,BORRIS-IN-OSSORY,1
+UNKNOWN,visa,OLDCASTLE,2
+UNKNOWN,visa,BALLIVOR,1
+UNKNOWN,visa,BAGENALSTOWN,1
+UNKNOWN,visa,CASTLECOMER,2
+UNKNOWN,visa,CASTLEBLAYNEY,3
+UNKNOWN,visa,FERNS,2
+UNKNOWN,visa,ABBEYFEALE,2
+UNKNOWN,visa,DROMISKIN,1
+UNKNOWN,visa,HEADFORD,2
+UNKNOWN,visa,MONASTEREVIN,1
+UNKNOWN,visa,LONGFORD,7
+UNKNOWN,visa,COURTOWN HARBOUR,1
+UNKNOWN,visa,CARRAROE,1
+UNKNOWN,visa,BALLYHAISE,2
+UNKNOWN,visa,SAGGART,2
+UNKNOWN,visa,BALLYGAR,1
+UNKNOWN,visa,MARINO,1
+UNKNOWN,visa,ENNISTYMON,2
+UNKNOWN,visa,ATHENRY,3
+UNKNOWN,visa,BANAGHER,1
+UNKNOWN,visa,CARRICKMACROSS,3
+UNKNOWN,visa,NEWBLISS,1
+UNKNOWN,visa,KILLORGLIN,2
+UNKNOWN,visa,KILWORTH,1
+UNKNOWN,visa,SHANNON,4
+UNKNOWN,visa,KILDORRERY,1
+UNKNOWN,visa,FERBANE,3
+UNKNOWN,visa,KILNALECK,1
+UNKNOWN,visa,LIFFORD,17
+UNKNOWN,visa,LUCAN,12
+UNKNOWN,visa,BALLYPHEHANE,2
+UNKNOWN,visa,BALLYMUN,2
+UNKNOWN,visa,TULLA,1
+UNKNOWN,visa,MORNINGTON,1
+UNKNOWN,visa,BLESSINGTON,4
+UNKNOWN,visa,CLOGHAN,2
+UNKNOWN,visa,TIMOLEAGUE,1
+UNKNOWN,visa,RATHNEW,3
+UNKNOWN,visa,GLENBEIGH,1
+UNKNOWN,visa,MILTON MOWBRAY,1
+COCORK,visa,SKIBBEREEN,2
+UNKNOWN,visa,CO. CORK,35
+CORK,visa,SKIBBEREEN,2
+COUNTYCORK,visa,CLONAKILTY,1
+COCORK,visa,CLONAKILTY,2
+CORK,visa,CLONAKILTY,2
+CORK,visa,TIMOLEAGUE,1
+UNKNOWN,visa,HARBOURVIEW,1
+CORK,visa,KINSALE,1
+UNKNOWN,visa,DRINAGH,1
+CORK,visa,UNION HALL,1
+COCORK,visa,DRIMOLEAGUE,1
+CORK,visa,DONERAILE,1
+COCORK,visa,CASTLETOWNBERE,1
+COCORK,visa,BANDON,3
+COCORK,visa,MIDLETON,2
+COUNTYCORK,visa,BANDON,1
+CORK,visa,BANDON,1
+CORK,visa,INNISHANNON,1
+COCORK,visa,CROSSHAVEN,1
+CORK,visa,DUNMANWAY,1
+CORK,visa,BANTRY,1
+CORK,visa,CARRIGALINE,1
+COUNTYCORK,visa,CARRIGALINE,1
+COCORK,visa,DUNMANWAY,1
+UNKNOWN,visa,CARRIGALINE,1
+UNKNOWN,visa,"NEWTOWN, BANTRY CORK",1
+UNKNOWN,visa,POWERTOWN,1
+COCORK,visa,CLOYNE,1
+CORK,visa,COBH,1
+UNKNOWN,visa,LOUTH,4
+CORK,visa,CASTLETOWN BEREHAVEN,1
+COUNTYCORK,visa,CORK,3
+COCORK,visa,COBH,2
+UNKNOWN,visa,CORK,34
+COCORK,visa,CORK,16
+UNKNOWN,visa,CASTLEMARTYR,1
+UNKNOWN,visa,DONNYBROOK,3
+COCORK,visa,YOUGHAL,2
+COCORK,visa,DOUGLAS,1
+UNKNOWN,visa,DOUGLAS,3
+COUNTYCORK,visa,DOUGLAS,1
+UNKNOWN,visa,DOUGLAS CORK,1
+UNKNOWN,visa,CURRAGHCONWAY,1
+CORK,visa,CORK,1
+COUNTYCORK,visa,MIDLETON,1
+COUNTYCORK,visa,BISHOPSTOWN,1
+UNKNOWN,visa,WILTON,5
+CORK,visa,TOGHER,1
+CORK,visa,MIDLETON,1
+COCORK,visa,MALLOW,6
+UNKNOWN,visa,"MIDLETON, CO. CORK",1
+UNKNOWN,visa,BEAUMONT,1
+COCORK,visa,BLACKROCK,1
+UNKNOWN,visa,CO.CORK,1
+CORK,visa,BISHOPSTOWN,1
+COCORK,visa,BISHOPSTOWN,3
+UNKNOWN,visa,LITTLE ISLAND,1
+COCORK,visa,CO. CORK,1
+CORK,visa,YOUGHAL,1
+UNKNOWN,visa,CARRIGTWOHILL,1
+COCORK,visa,MAHON POINT,1
+UNKNOWN,visa,MAHON,1
+UNKNOWN,visa,MAYFIELD,1
+UNKNOWN,visa,CO. DUBLIN,21
+CORK,visa,BLACKROCK,1
+UNKNOWN,visa,BALLINTEMPLE,1
+UNKNOWN,visa,BISHOPSTOWN CORK,1
+COCORK,visa,BALLINEEN,1
+UNKNOWN,visa,DENNEHYS CROSS,1
+COCORK,visa,GLOUNTHAUNE,1
+CORKC,visa,CORK,1
+CARLOW,visa,CORK,1
+UNKNOWN,visa,"GLANMIRE, CORK",1
+UNKNOWN,visa,TIVOLI,1
+CORK,visa,LOWER GLANMORE,1
+COCORK,visa,BALLINCOLLIG,3
+UNKNOWN,visa,NEW STREET,1
+COUNTYCORK,visa,BALLINCOLLIG,1
+CORK,visa,BALLINCOLLIG,2
+CORK,visa,MAYFIELD,1
+COCORK,visa,BLACKPOOL,5
+UNKNOWN,visa,GLANMIRE,1
+COCORK,visa,GRAND PARADE,1
+UNKNOWN,visa,"CARRIGROHANE, C CORK",1
+COCORK,visa,BLARNEY,2
+COCORK,visa,COACHFORD,1
+COCORK,visa,MACROOM,2
+COUNTYCORK,visa,MACROOM,1
+CORK,visa,MACROOM,1
+COWATERFORD,visa,DUNMORE EAST,1
+UNKNOWN,visa,CO. WATERFORD,15
+COCORK,visa,WATERGRASSHILL,1
+COWATERFORD,visa,DUNGARVAN,2
+COUNTYWATERFORD,visa,DUNGARVAN,1
+WATERFORD,visa,DUNGARVAN,1
+UNKNOWN,visa,KINGSCOURT,2
+UNKNOWN,visa,CO. KERRY,11
+KERRY,visa,KENMARE,1
+WATERFORD,visa,TRAMORE,2
+COWATERFORD,visa,TRAMORE,2
+COKERRY,visa,KENMARE,1
+UNKNOWN,visa,TRAMORE WATERFORD,2
+COKERRY,visa,SNEEM,1
+COCORK,visa,GRENAGH,1
+UNKNOWN,visa,WATERFORD,11
+UNKNOWN,visa,ROSSLARE HARBOUR,1
+COWEXFORD,visa,WEXFORD,5
+COKERRY,visa,WATERVILLE,1
+UNKNOWN,visa,KILLANICK,1
+COCORK,visa,RATHCORMAC,1
+UNKNOWN,visa,GEASHILL,1
+COWEXFORD,visa,ROSSLARE,1
+UNKNOWN,visa,KILMACTHOMAS,3
+UNKNOWN,visa,LISMORE,1
+UNKNOWN,visa,CO WEXFORD,1
+COWATERFORD,visa,WATERFORD,7
+WATERFORD,visa,DUNMORE ROAD,2
+UNKNOWN,visa,ARDKEEN VILLAGE,2
+WATERFORD,visa,ARDKEEN,1
+UNKNOWN,visa,KINGSMEADOW,1
+COCORK,visa,FERMOY,3
+WATERFORD,visa,LISDUGGAN,1
+WATERFORD,visa,WATERFORD,3
+UNKNOWN,visa,KILMEADEN,1
+UNKNOWN,visa,CO. WEXFORD,10
+CORK,visa,FERMOY,2
+COWATERFORD,visa,TALLOW,1
+WEXFORD,visa,WEXFORD TOWN,1
+CORK,visa,MILLSTREET,1
+COCORK,visa,MILLSTREET,1
+UNKNOWN,visa,TAGHMON,1
+WEXFORD,visa,NEW ROSS,3
+WEXFORD,visa,WEXFORD,3
+COUNTYWEXFORD,visa,WEXFORD,1
+UNKNOWN,visa,DUNCANNON,1
+WEXFORD,visa,"1798 STREET, REDMOND ROAD",1
+UNKNOWN,visa,CO CORK,1
+UNKNOWN,visa,BLACKROCK,8
+COUNTYCORK,visa,MALLOW,1
+COWEXFORD,visa,NEW ROSS,3
+UNKNOWN,visa,MOONCOIN,1
+COKERRY,visa,CAHERCIVEEN,1
+UNKNOWN,visa,PORTLAW,1
+COKERRY,visa,RATHMORE,2
+CORK,visa,CAHIRCIVEEN,1
+COKERRY,visa,CAHIRCIVEEN,1
+DUBLIN12,visa,OAK CLOSE,1
+COWEXFORD,visa,CASTLEBRIDGE,1
+COKERRY,visa,KILLARNEY,5
+KERRY,visa,KILLARNEY,1
+UNKNOWN,visa,SNEEM,1
+UNKNOWN,visa,MILLTOWN,3
+UNKNOWN,visa,CROMANE,1
+COUNTYKERRY,visa,KILLARNEY,1
+UNKNOWN,visa,CO. TIPPERARY,11
+CORK,visa,KANTURK,1
+TIPPERARY,visa,CARRICKBEG,1
+COCORK,visa,KANTURK,1
+COUNTYWATERFORD,visa,WATERFORD,1
+WEXFORD,visa,MULLINAVAT,1
+COCORK,visa,BOHERBUE,1
+TIPPERARY,visa,CARRICK-ON-SUIR,1
+COTIPPERARY,visa,CARRICK-ON-SUIR,1
+COUNTYWEXFORD,visa,NEW ROSS,1
+COCORK,visa,KILDORRERY,1
+UNKNOWN,visa,CLONEE,1
+UNKNOWN,visa,MITCHELSTOWN,1
+COKERRY,visa,GLENBEIGH,1
+CORK,visa,MITCHELSTOWN,1
+COUNTYCORK,visa,MITCHELSTOWN,1
+CORK,visa,BUTTEVANT,1
+COTIPPERARY,visa,CLONMEL,3
+TIPPERARY,visa,CLONMEL,2
+TIPPERARYSOUTHRIDING,visa,CLONMEL,1
+COTIPPERARY,visa,"WATERFORD ROAD, CLONMEL",1
+KERRY,visa,KILLORGLIN,1
+COKERRY,visa,KILLORGLIN,1
+COCORK,visa,BALLYDESMOND,1
+COWEXFORD,visa,KILMUCKRIDGE,1
+COWEXFORD,visa,ENNISCORTHY,3
+WEXFORD,visa,ENNISCORTHY,1
+TIPPERARY,visa,CAHIR,1
+COTIPPERARY,visa,CAHIR,1
+UNKNOWN,visa,ROXBORO,1
+COKERRY,visa,CASTLEISLAND,2
+KERRY,visa,CASTLEISLAND,1
+COKERRY,visa,DINGLE,1
+KERRY,visa,DINGLE,1
+COCORK,visa,CHARLEVILLE,1
+CORK,visa,CHARLEVILLE,1
+UNKNOWN,visa,FETHARD,1
+UNKNOWN,visa,FETHARD-ON-SEA,1
+COUNTYKILKENNY,visa,KILKENNY,2
+UNKNOWN,visa,CO. KILKENNY,9
+COLIMERICK,visa,DROMCOLLOGHER,1
+DUBLIN18,visa,BLACK GLEN,1
+LIMERICK,visa,KILMALLOCK,1
+UNKNOWN,visa,"COURTOWN, CO. WEXFORD",1
+COWEXFORD,visa,COURTOWN,1
+COWEXFORD,visa,CAMOLIN,1
+COKERRY,visa,TRALEE,7
+UNKNOWN,visa,BRUFF,2
+COUNTYKERRY,visa,TRALEE,1
+KERRY,visa,TRALEE,1
+UNKNOWN,visa,RATHCOOLE,5
+COKERRY,visa,CO KERRY,1
+COKERRY,visa,"CLONALOUR, TRALEE",1
+UNKNOWN,visa,"DINGLE,KERRY",1
+COCARLOW,visa,BORRIS,1
+COTIPPERARY,visa,TIPPERARY,2
+TIPPERARY,visa,TIPPERARY,1
+UNKNOWN,visa,CO. CARLOW,5
+UNKNOWN,visa,TIPPERARY TOWN,1
+LAOIS,visa,BORRIS,1
+COKERRY,visa,CASTLEGREGORY,1
+COTIPPERARY,visa,CASHEL,2
+TIPPERARY,visa,CASHEL,1
+COKILKENNY,visa,BENNETTSBRIDGE,1
+WEXFORD,visa,GOREY,2
+COWEXFORD,visa,GOREY,2
+COUNTYWEXFORD,visa,GOREY,1
+COWEXFORD,visa,BUNCLODY,2
+UNKNOWN,visa,CO. LIMERICK,15
+UNKNOWN,visa,BUNCLODY,1
+COLIMERICK,visa,ABBEYFEALE,1
+LIMERICK,visa,ABBEYFEALE,1
+UNKNOWN,visa,BALLYCONNELL,7
+UNKNOWN,visa,CO. WICKLOW,7
+UNKNOWN,visa,RATHBOURNE,1
+UNKNOWN,visa,DUNDRUM,1
+COKILKENNY,visa,KILKENNY,6
+COKILKENNY,visa,JOHNSTOWN,1
+COLIMERICK,visa,NEWCASTLE WEST,1
+LIMERICK,visa,NEWCASTLEWEST,1
+COUNTYLIMERICK,visa,NEWCASTLE,1
+COUNTYLIMERICK,visa,NEWCASTLEWEST,1
+KILKENNY,visa,KILKENNY,1
+KILKENNY,visa,KILENNY,1
+UNKNOWN,visa,KILKENNY TOWN,1
+COLIMERICK,visa,OOLA,1
+COLIMERICK,visa,NEWCASTLEWEST,3
+COCARLOW,visa,BAGENALSTOWN,2
+UNKNOWN,visa,CROOM,1
+UNKNOWN,visa,BOHERMORE,1
+COWICKLOW,visa,ARKLOW,2
+KERRY,visa,LISTOWEL,1
+COKERRY,visa,LISTOWEL,1
+WICKLOW,visa,ARKLOW,1
+COLIMERICK,visa,RATHKEALE,1
+UNKNOWN,visa,RATHKEALE,1
+LIMERICK,visa,RATHKEALE,1
+UNKNOWN,visa,LEIGHLINBRIDGE,1
+UNKNOWN,visa,CABRA,2
+COLIMERICK,visa,CAHERCONLISH,1
+COTIPPERARY,visa,THURLES,2
+COWICKLOW,visa,TINAHELY,1
+LIMERICK,visa,KILDIMO,1
+LIMERICK,visa,ADARE,1
+COLIMERICK,visa,ADARE,1
+TIPPERARY,visa,THURLES,1
+UNKNOWN,visa,THURLES CO. TIPPERARY,1
+UNKNOWN,visa,URLINGFORD,2
+COLIMERICK,visa,PATRICKSWELL,1
+CARLOW,visa,TULLOW,1
+COCARLOW,visa,TULLOW,1
+UNKNOWN,visa,MILFORD,2
+COLIMERICK,visa,MURROE,1
+COLIMERICK,visa,DOORADOYLE,1
+LIMERICK,visa,RAHEEN,1
+UNKNOWN,visa,DOORADOYLE,4
+COKERRY,visa,BALLYBUNION,1
+COLIMERICK,visa,ASKEATON,1
+LIMERICK,visa,DOORADOYLE,1
+COUNTYLIMERICK,visa,DOORADOYLE,1
+COLIMERICK,visa,BALLYBROWN,1
+UNKNOWN,visa,BALLINACURRA,1
+UNKNOWN,visa,BALLYRAGGET,1
+UNKNOWN,visa,LIMERICK CITY,2
+COLIMERICK,visa,LIMERICK,11
+COKERRY,visa,BALLYLONGFORD,1
+LIMERICK,visa,LIMERICK,6
+UNKNOWN,visa,NEWCASTLEWEST,1
+COLIMERICK,visa,ANNACOTTY,1
+COCARLOW,visa,CARLOW,7
+COLIMERICK,visa,CASTLETROY PARK COMPLEX,1
+COGALWAY,visa,LIMERICK ROAD,1
+UNKNOWN,visa,CASTLETROY,3
+LIMERICK,visa,CASTLETROY,1
+CARLOW,visa,CARLOW,1
+UNKNOWN,visa,CASTLETROY LIMERICK,1
+COUNTYCARLOW,visa,CARLOW,1
+UNKNOWN,visa,CARLOW TOWN,2
+UNKNOWN,visa,NEWCASTLE ROAD,1
+UNKNOWN,visa,GRAIGUECULLEN,1
+COCARLOW,visa,HACKETSTOWN RD,1
+COUNTYLIMERICK,visa,LIMERICK,2
+COKERRY,visa,TARBERT,1
+COLIMERICK,visa,KILMALLOCK,1
+COLIMERICK,visa,CORBALLY,1
+UNKNOWN,visa,PLASSEY,1
+COLIMERICK,visa,UNIVERSITY OF LIMERICK,1
+LIMERICK,visa,CORBALLY,1
+COLIMERICK,visa,CAHERDAVIN,1
+COLIMERICK,visa,KILEELY,1
+UNKNOWN,visa,CROSSMOLINA,2
+UNKNOWN,visa,CORBALLY,2
+COTIPPERARY,visa,NEWPORT,1
+MAYO,visa,NEWPORT,1
+UNKNOWN,visa,CASTLECONNELL,1
+COLIMERICK,visa,CASTLECONNELL,1
+COTIPPERARY,visa,TEMPLEMORE,1
+UNKNOWN,visa,DURROW,1
+COLAOIS,visa,MOUNTMELLICK,3
+COCLARE,visa,BUNRATTY,2
+UNKNOWN,visa,CRATLOE,3
+UNKNOWN,visa,CO WICKLOW,2
+COWICKLOW,visa,SHILLELAGH,1
+UNKNOWN,visa,WICKLOW TOWN,1
+WICKLOW,visa,WICKLOW,1
+COCLARE,visa,DROMGEELY SHANNON,1
+UNKNOWN,visa,CO. LAOIS,8
+COCLARE,visa,SHANNON,1
+UNKNOWN,visa,CO. CLARE,8
+COCLARE,visa,TULLYVARAGH,1
+COCLARE,visa,KILRUSH,1
+CLARE,visa,KILRUSH,1
+UNKNOWN,visa,BALLACOLLA CO. LAOIS,1
+COWICKLOW,visa,BALTINGLASS,1
+UNKNOWN,visa,"ENNIS, CO. CLARE",1
+COCLARE,visa,SIXMILEBRIDGE,1
+WICKLOW,visa,ASHFORD,1
+UNKNOWN,visa,ABBEYLEIX CO. LAOIS,1
+COLAOIS,visa,ABBEYLEIX,1
+COWICKLOW,visa,N 11,1
+CLARE,visa,KILLALOE,1
+COTIPPERARY,visa,BALLINA,1
+UNKNOWN,visa,NEWMARKET ON FERGUS,1
+COCLARE,visa,NEWMARKET-ON-FERGUS,1
+UNKNOWN,visa,KILKEE,1
+CLARE,visa,KILMIHIL,1
+TIPPERARY,visa,NENAGH,2
+COKILDARE,visa,ATHY,3
+COLAOIS,visa,BALLYROAN,1
+COTIPPERARY,visa,NENAGH,2
+TIPPERARYNORTHRIDING,visa,NENAGH,1
+UNKNOWN,visa,BIRR,4
+KILDARE,visa,ATHY,1
+UNKNOWN,visa,ROUNDWOOD,2
+UNKNOWN,visa,CO. KILDARE,14
+UNKNOWN,visa,DOONBEG,1
+COWICKLOW,visa,NEWTOWNMOUNTKENNEDY,1
+TIPPERARY,visa,ROSCREA,2
+COCLARE,visa,CLARECASTLE,1
+UNKNOWN,visa,CLARECASTLE,1
+COWICKLOW,visa,HOLLYWOOD,1
+COWICKLOW,visa,DUNLAVIN,1
+COLAOIS,visa,STRADBALLY,1
+COTIPPERARY,visa,ROSCREA,2
+UNKNOWN,visa,ENNISKERRY,2
+COCLARE,visa,CLIFFS OF MOHER,1
+COCLARE,visa,LISSEYCASEY,1
+COLAOIS,visa,MOUNTRATH,3
+OFFALY,visa,CLOUGHJORDAN,1
+COCLARE,visa,ENNIS,6
+UNKNOWN,visa,CO CLARE,1
+COCLARE,visa,TULLA,1
+CLARE,visa,ENNIS,2
+COUNTYCLARE,visa,ENNIS,1
+UNKNOWN,visa,DELGANY,1
+COLAOIS,visa,PORTLAOISE,5
+UNKNOWN,visa,PORTLAOISE CO. LAOIS,1
+MAYO,visa,CLOREMORRIS,1
+LIMERICK,visa,DOCK ROAD,1
+LAOIS,visa,PORTLAOISE,2
+COUNTYLAOIS,visa,PORT LAOISE,1
+UNKNOWN,visa,PORT LAOISE,2
+WICKLOW,visa,GREYSTONES,1
+COCLARE,visa,SCARRIFF,1
+COWICKLOW,visa,GREYSTONES,2
+COUNTYWICKLOW,visa,GREYSTONES,1
+COOFFALY,visa,SHINRONE,1
+UNKNOWN,visa,BALLINAMORE,2
+UNKNOWN,visa,CASTLEBELLINGHAM,3
+COWICKLOW,visa,BRAY,3
+UNKNOWN,visa,BALLINGARRY,1
+COWICKLOW,visa,BLESSINGTON,1
+COUNTYWICKLOW,visa,BRAY,1
+UNKNOWN,visa,GEORGES QUAY,1
+WICKLOW,visa,BRAY,1
+WICKLOW,visa,BLESSINGTON,1
+DUBLIN22,visa,CLONDALKIN,13
+COKILDARE,visa,NAAS,12
+COCLARE,visa,CRUSHEEN,1
+KILDARE,visa,KILDAR,1
+COKILDARE,visa,LEIXLIP,4
+COKILDARE,visa,CELBRIDGE,2
+COKILDARE,visa,"KILMOREBRANNAGH, CADAMSTOWN",2
+COKILDARE,visa,KILDARE TOWN,1
+COKILDARE,visa,KILDARE,1
+COKILDARE,visa,NEWBRIDGE,5
+KILDARE,visa,NEWBRIDGE,2
+COKILDARE,visa,MONASTEREVIN,1
+COKILDARE,visa,NEWBRIDGE (2),1
+CODUBLIN,visa,SHANKILL,1
+UNKNOWN,visa,KILTERNAN,1
+COLEITRIM,visa,BRIDGE STREET,1
+COUNTYKILDARE,visa,NEWBRIDGE,2
+COLAOIS,visa,PORTARLINGTON,3
+DUBLIN18,visa,CHERRYWOOD,1
+UNKNOWN,visa,CARIICKMINES,1
+UNKNOWN,visa,LEAP,1
+DUBLIN18,visa,CABINTEELY,3
+COCLARE,visa,LAHINCH,1
+OFFALY,visa,BIRR,1
+KILDARE,visa,NAAS,2
+UNKNOWN,visa,LISCANNOR,2
+COCLARE,visa,ENNISTYMON,1
+UNKNOWN,visa,LEOPARDSTOWN,1
+COUNTYKILDARE,visa,NAAS,2
+DUBLIN18,visa,LEOPARDSTOWN,1
+UNKNOWN,visa,DUBLIN 18,3
+UNKNOWN,visa,CO DUBLIN,2
+UNKNOWN,visa,"DUBLIN,CABINTEELY",1
+UNKNOWN,visa,SALTHOUSE LANE,1
+DUBLIN,visa,CORNELSCOURT,1
+CODUBLIN,visa,FOXROCK,2
+UNKNOWN,visa,FOXROCK,1
+UNKNOWN,visa,DALKEY,2
+UNKNOWN,visa,ROCHESTOWN,1
+UNKNOWN,visa,JOHNSTOWN,2
+CODUBLIN,visa,DÚN LAOGHAIRE,1
+DUBLIN18,visa,SANDYFORD IND EST BRANCH,1
+UNKNOWN,visa,KILL,3
+DUBLIN18,visa,SANDYFORD INDUSTRIAL ESTATE,1
+UNKNOWN,visa,SANDYCOVE,1
+UNKNOWN,visa,GLENAGEARY,1
+DUBLIN,visa,SANDYFORD,1
+DUBLIN16,visa,SANDYFORD,2
+DUBLIN18,visa,SANDYFORD,2
+DUBLIN18,visa,SANDYFORD (SEE NOTES),1
+UNKNOWN,visa,SANDYFORD,2
+DUBLIN,visa,DUBLIN,16
+UNKNOWN,visa,KILLENAULE,1
+UNKNOWN,visa,RATHANGAN,1
+UNKNOWN,visa,DUBLIN 4,8
+DUBLIN4,visa,STILLORGAN,1
+UNKNOWN,visa,STILLORGAN,3
+DUBLIN16,visa,BALLINTEER,1
+DUBLIN24,visa,FIRHOUSE,1
+UNKNOWN,visa,DUBLIN 8,8
+UNKNOWN,visa,BALLINTEER,1
+UNKNOWN,visa,DOON,1
+DUBLIN24,visa,TALLAGHT,16
+UNKNOWN,visa,CO. GALWAY,26
+COUNTYDUBLIN,visa,DUN LAOGHAIRE,1
+DUBLIN24,visa,KILTIPPER WAY,1
+DUBLIN,visa,DUN LAOGHAIRE,3
+UNKNOWN,visa,DUBLN 20,1
+UNKNOWN,visa,LEIXIP,1
+UNKNOWN,visa,DUN LAOIGHRE,1
+UNKNOWN,visa,DUBLIN 1,28
+CODUBLIN,visa,DUN LAOGHAIRE,1
+COUNTYDUBLIN,visa,STILLORGAN,1
+DUBLIN,visa,STILLORGAN,1
+UNKNOWN,visa,CO. OFFALY,6
+DUBLIN16,visa,RATHFARNHAM,3
+DUBLIN16,visa,DUBLIN 16,1
+UNKNOWN,visa,DUBLIN 14,7
+UNKNOWN,visa,DUBLN 14,2
+UNKNOWN,visa,MONKSTOWN,2
+DUBLIN,visa,DUNDRUM,2
+DUBLIN24,visa,BALLYCULLEN,1
+UNKNOWN,visa,DUBLIN 16.,1
+UNKNOWN,visa,KNOCKLYON,1
+COUNTYDUBLIN,visa,DUNDRUM,1
+UNKNOWN,visa,DUBLIN 9,2
+COUNTYDUBLIN,visa,TALLAGHT,1
+UNKNOWN,visa,TEMPLEOGUE,1
+CODUBLIN,visa,STILLORGAN RD,1
+DUBLIN14,visa,GOATSTOWN,1
+UNKNOWN,visa,TALLAGHT,6
+COUNTYDUBLIN,visa,BLACKROCK,1
+CODUBLIN,visa,SAGGART,2
+DUBLIN,visa,TALLAGHT,3
+UNKNOWN,visa,RATHFARNHAM,2
+UNKNOWN,visa,CITYWEST,1
+UNKNOWN,visa,DUBLIN 2,30
+UNKNOWN,visa,DUBLIN 24,3
+COUNTYDUBLIN,visa,RATHFARNHAM,1
+UNKNOWN,visa,MOUNT MERRION,1
+CODUBLIN,visa,RATHCOOLE,2
+DUBLIN,visa,RATHFARNHAM,1
+DUBLIN14,visa,CLONSKEAGH,1
+DUBLIN4,visa,DONNYBROOK,2
+DUBLIN,visa,CLONSKEAGH,1
+COOFFALY,visa,KILCORMAC,1
+UNKNOWN,visa,DUBLIN 6,6
+UNKNOWN,visa,DUBLN 4,1
+DUBLIN,visa,RATHGAR,1
+DUBLIN16,visa,DUNDRUM,1
+UNKNOWN,visa,DUBLN 6,1
+COGALWAY,visa,GORT,1
+GALWAY,visa,GORT,1
+UNKNOWN,visa,BALLYMOUNT,1
+UNKNOWN,visa,RATHMINES,1
+UNKNOWN,visa,KIMMAGE,1
+UNKNOWN,visa,272 LR RATHMINES ROAD,1
+COUNTYDUBLIN,visa,WALKINSTOWN,1
+UNKNOWN,visa,RANELAGH,2
+UNKNOWN,visa,DUBLN 12,1
+DUBLIN12,visa,CRUMLIN,2
+DUBLIN6,visa,HAROLD'S CROSS,1
+DUBLIN,visa,RANELAGH,1
+COUNTYDUBLIN,visa,RATHMINES,1
+UNKNOWN,visa,CRUMLIN,3
+UNKNOWN,visa,DUBLIN 12,5
+UNKNOWN,visa,RATHMINES DUBLIN,1
+UNKNOWN,visa,BALLSBRIDGE,1
+UNKNOWN,visa,GALWAY,17
+KILDARE,visa,CLANE,1
+UNKNOWN,visa,CLANE VILLAGE,1
+CLARE,visa,DOOLIN,1
+DUBLIN4,visa,BALLSBRIDGE,2
+UNKNOWN,visa,PROSPEROUS,2
+DUBLIN,visa,SANDYMOUNT,1
+COKILDARE,visa,CLANE,2
+UNKNOWN,visa,KILLESHANDRA,2
+UNKNOWN,visa,DRIMNAGH,1
+DUBLIN12,visa,DRIMNAGH,2
+DUBLIN,visa,CRUMLIN,1
+DUBLIN,visa,CLONDALKIN,2
+UNKNOWN,visa,GRAND CANAL HARBOUR,1
+UNKNOWN,visa,BELFAST,1
+UNKNOWN,visa,BANBRIDGE,1
+COUNTYDUBLIN,visa,DUBLIN,11
+UNKNOWN,visa,DUBLN 2,1
+UNKNOWN,visa,"CLONDALKIN,DUBLIN",1
+UNKNOWN,visa,BLUEBELL,1
+UNKNOWN,visa,LISDOONVARNA,1
+UNKNOWN,visa,RINGSEND,1
+DUBLIN4,visa,RINGSEND,1
+DUBLIN8,visa,RIALTO,1
+DUBLIN8,visa,CORK STREET,1
+DUBLIN2,visa,(SEE NOTES),3
+CODUBLIN,visa,LUCAN,6
+DUBLIN2,visa,ANNE'S LANE,1
+UNKNOWN,visa,DUBLIN 22,2
+UNKNOWN,visa,"KILMAINHAM,DUBLIN",1
+DUBLIN,visa,DUBLIN 2,1
+DUBLIN11,visa,FINGLAS,1
+DUBLIN2,visa,DAME STREET,1
+DUBLIN8,visa,JAMES STREET,1
+DUBLIN10,visa,BALLYFERMOT,3
+CODUBLIN,visa,GLASNEVIN,1
+UNKNOWN,visa,DUBLN 1,3
+UNKNOWN,visa,TEMPLE BAR,2
+UNKNOWN,visa,THE COOMBE,1
+UNKNOWN,visa,DUBLIN 7,10
+COUNTYDUBLIN,visa,BALLYFERMOT,1
+UNKNOWN,visa,INCHICORE,2
+DUBLIN1,visa,IFSC,2
+DUBLIN1,visa,THE CONCOURSE (SEE NOTES),1
+UNKNOWN,visa,DUBLIN 10,2
+COOFFALY,visa,BANAGHER,1
+DUBLIN1,visa,DUBLIN,1
+UNKNOWN,visa,ARVA,3
+DUBLIN7,visa,STONEYBATTER,1
+DUBLIN10,visa,BALLYFERMOT ROAD,1
+UNKNOWN,visa,BALLYFERMOT,2
+DUBLIN,visa,BALGADY LUCAN,1
+UNKNOWN,visa,MOUNTMELLICK,2
+DUBLIN24,visa,PRIORS GATE,2
+DUBLIN7,visa,FOUR COURTS,1
+DUBLIN5,visa,SWANS NEST ROAD,1
+UNKNOWN,visa,LOUGHLINSTOWN,1
+DUBLIN20,visa,PALMERSTOWN,2
+UNKNOWN,visa,DRUMSHANBO,1
+DUBLIN7,visa,PHIBSBOROUGH,1
+UNKNOWN,visa,DUBLIN 3,3
+KILDARE,visa,CELBRIDGE,1
+DUBLIN5,visa,RAHENY,3
+UNKNOWN,visa,DUBLN 3,1
+DUBLIN,visa,CABRA,1
+CODUBLIN,visa,CO DUBLIN,1
+DUBLIN5,visa,KILLESTER,1
+COUNTYDUBLIN,visa,DRUMCONDRA,1
+DUBLIN,visa,DRUMCONDRA,1
+DUBLIN9,visa,DRUMCONDRA,1
+UNKNOWN,visa,UNION HALL,1
+UNKNOWN,visa,DUBLIN 5,4
+UNKNOWN,visa,HOWTH ROAD,1
+DUBLIN,visa,LUCAN,1
+COUNTYDUBLIN,visa,RAHENY,1
+UNKNOWN,visa,DUBLIN 13,1
+DUBLIN5,visa,CLONTARF EAST,1
+UNKNOWN,visa,CLONSKEAGH,1
+UNKNOWN,visa,THORNHILL,1
+CODUBLIN,visa,DUBLIN 11,2
+DUBLIN,visa,ARTANE,1
+UNKNOWN,visa,ASHTOWN,1
+UNKNOWN,visa,SUTTON,1
+COUNTYDUBLIN,visa,ARTANE,1
+UNKNOWN,visa,WHITEHALL DUBLIN,1
+COOFFALY,visa,TULLAMORE,4
+DUBLIN15,visa,ROYAL CANAL PARK,1
+KILDARE,visa,LEIXLIP,1
+COUNTYDUBLIN,visa,COOLOCK,1
+UNKNOWN,visa,COOLOCK,4
+UNKNOWN,visa,EDENMORE,1
+UNKNOWN,visa,DUBLN 5,1
+COUNTYOFFALY,visa,TULLAMORE,1
+UNKNOWN,visa,DUBLIN 17,2
+DUBLIN13,visa,DONAGHMEDE,2
+UNKNOWN,visa,DUBLN 13,3
+DUBLIN7,visa,DUBLIN,1
+DUBLIN9,visa,GLASNEVIN NORTH,1
+OFFALY,visa,TULLAMORE,1
+UNKNOWN,visa,CASTLEKNOCK,1
+UNKNOWN,visa,OMEATH,1
+CODUBLIN,visa,CASTLEKNOCK,1
+UNKNOWN,visa,BALDOYLE,1
+DUBLIN9,visa,SANTRY,2
+UNKNOWN,visa,"SANTY, DUBLIN",1
+UNKNOWN,visa,DUBLIN 11,2
+UNKNOWN,visa,DUBLIN 15,4
+CODUBLIN,visa,SWORDS,6
+UNKNOWN,visa,FINGLAS EAST,1
+UNKNOWN,visa,FINGLAS,6
+DUBLIN,visa,WHITEHALL,1
+DUBLIN,visa,FINGLAS,2
+UNKNOWN,visa,DUBLN 15,2
+COUNTYDUBLIN,visa,FINGLAS,1
+DUBLIN,visa,SANTRY,1
+UNKNOWN,visa,CLAREHALL,1
+UNKNOWN,visa,BLANCHARDSTOWN,3
+UNKNOWN,visa,SCOTSTOWN,1
+DUBLIN15,visa,BLANCHARDSTOWN,4
+UNKNOWN,visa,CLONSILLA ROAD,1
+UNKNOWN,visa,OFFALY,1
+DUBLIN,visa,BLANCHARDSTOWN,1
+UNKNOWN,visa,SANTRY,1
+COUNTYDUBLIN,visa,BLANCHARDSTOWN,2
+UNKNOWN,visa,CLONSILLA,1
+DUBLIN15,visa,CLONEE,1
+UNKNOWN,visa,KINVARA,1
+DUBLIN9,visa,FINGLAS,1
+COKILDARE,visa,MAYNOOTH,2
+KILDARE,visa,MAYNOOTH,1
+COKILDARE,visa,JOHNSTOWN,1
+COKILDARE,visa,CASTLEDERMOT,1
+COUNTYKILDARE,visa,MAYNOOTH,1
+DUBLIN,visa,CORDUFF,1
+COOFFALY,visa,EDENDERRY,1
+OFFALY,visa,EDENDERRY,1
+COUNTYDUBLIN,visa,MULHUDDART,1
+UNKNOWN,visa,CARBURY,3
+COOFFALY,visa,FERBANE,1
+UNKNOWN,visa,"SANTRY, DUBLIN",1
+CODUBLIN,visa,PORTMARNOCK,1
+UNKNOWN,visa,RUSH,1
+DUBLIN15,visa,BALLYCOOLIN,1
+GALWAY,visa,LOUGHREA,1
+GALWAY,visa,CO GALWAY,1
+COGALWAY,visa,LOUGHREA,2
+CODUBLIN,visa,ARRIVALS,1
+COMEATH,visa,CLONEE,1
+UNKNOWN,visa,KINSEALY,1
+UNKNOWN,visa,CLOGHRAN,1
+UNKNOWN,visa,SWORDS DUBLIN,1
+UNKNOWN,visa,CO. MEATH,11
+COKILDARE,visa,KILCOCK,1
+UNKNOWN,visa,KILCOCK,1
+DUBLIN,visa,MALAHIDE,1
+COUNTYDUBLIN,visa,MALAHIDE,1
+UNKNOWN,visa,MALAHIDE,2
+UNKNOWN,visa,MEATH,2
+DUBLIN,visa,SWORDS,2
+COUNTYDUBLIN,visa,SWORDS,1
+UNKNOWN,visa,RIVER VALLEY SWORDS,1
+UNKNOWN,visa,KILBRIDE,1
+COMEATH,visa,ENFIELD,1
+COKILDARE,visa,"MARTINSTOWN, CADAMSTOWN",2
+COOFFALY,visa,CLARA,2
+UNKNOWN,visa,KILCOLGAN,1
+CODUBLIN,visa,DONABATE,1
+COWESTMEATH,visa,KILBEGGAN,1
+COWESTMEATH,visa,TYRELLSPASS,1
+UNKNOWN,visa,CO MEATH,4
+CODUBLIN,visa,DUBLIN,2
+UNKNOWN,visa,RUSH DUBLIN,1
+GALWAY,visa,BALLINASLOE,1
+UNKNOWN,visa,PELLETSTOWN,1
+CODUBLIN,visa,LUSK,2
+UNKNOWN,visa,GRANGE,1
+COMEATH,visa,SUMMERHILL,2
+UNKNOWN,visa,ASHBOURNE MEATH,1
+COMEATH,visa,ASHBOURNE,2
+COGALWAY,visa,BALLINASLOE,2
+UNKNOWN,visa,PALMERSTOWN,2
+MEATH,visa,ASHBOURNE,1
+COUNTYMEATH,visa,ASHBOURNE,1
+UNKNOWN,visa,CO. WESTMEATH,8
+WESTMEATH,visa,ATHLONE,2
+UNKNOWN,visa,MOATE,1
+UNKNOWN,visa,WESTMEATH,2
+UNKNOWN,visa,SKERRIES,2
+GALWAY,visa,ORANMOR,1
+COMEATH,visa,DUNSHAUGHLIN,1
+COGALWAY,visa,ORANMORE,2
+COMEATH,visa,NAVAN,5
+UNKNOWN,visa,DUNSHAUGHLIN,1
+COGALWAY,visa,BARNA,2
+COGALWAY,visa,"PROSPECT, ATHENRY",1
+GALWAY,visa,SALTHILL,2
+GALWAY,visa,ATHENRY,1
+COGALWAY,visa,SALTHILL,1
+COGALWAY,visa,ATHENRY,2
+COGALWAY,visa,GALWAY,14
+GALWAY,visa,GALWAY CITY,2
+UNKNOWN,visa,PATRICKSWELL,1
+GALWAY,visa,ORANMORE,1
+GALWAY,visa,KNOCKNACARRA,1
+GALWAY,visa,DUBLIN ROAD RENMORE,1
+GALWAY,visa,GALWAY,4
+GALWAY,visa,CONNEMARA,1
+COUNTYGALWAY,visa,GALWAY,2
+GALWAY,visa,RENMORE,1
+COGALWAY,visa,COSTELLO,1
+GALWAY,visa,MERVUE,1
+GALWAY,visa,TUAM,2
+CODUBLIN,visa,"BALLYSTRANE, LUSK",2
+CODUBLIN,visa,"BALDRUMMAN, LUSK",2
+GALWAY,visa,BALLYBRIT,2
+COMEATH,visa,BATTERSTOWN,1
+COGALWAY,visa,INVERIN,1
+UNKNOWN,visa,CLAIRNBRIDGE,1
+UNKNOWN,visa,PARKMORE,1
+COWESTMEATH,visa,ATHLONE,6
+COUNTYWESTMEATH,visa,ATHLONE,1
+COWESTMEATH,visa,KILLUCAN,1
+COGALWAY,visa,EDWARD SQUARE,1
+COGALWAY,visa,ARAN ISLANDS,1
+COGALWAY,visa,CONNEMARA,1
+CODUBLIN,visa,HOWTH,1
+COMEATH,visa,BALLIVOR,1
+GALWAY,visa,AHASCRAGH,1
+UNKNOWN,visa,KILMESSAN,1
+DUBLIN,visa,BALBRIGGAN,1
+MEATH,visa,TRIM,1
+COMEATH,visa,TRIM,2
+COUNTYDUBLIN,visa,BALBRIGGAN,1
+CODUBLIN,visa,BALBRIGGAN,3
+WESTMEATH,visa,MULLINGAR,2
+UNKNOWN,visa,EASTWALL,1
+COWESTMEATH,visa,MULLINGAR,5
+COUNTYWESTMEATH,visa,MULLINGAR,1
+UNKNOWN,visa,GORMANSTOWN,1
+COGALWAY,visa,MOYCULLEN,1
+COWESTMEATH,visa,CO. WESTMEATH,1
+UNKNOWN,visa,STAMULLEN,1
+COGALWAY,visa,TURLOUGHMORE,1
+COGALWAY,visa,LETTERMORE,1
+UNKNOWN,visa,CLOONBOO,1
+UNKNOWN,visa,CRAUGHWELL,1
+UNKNOWN,visa,FURBOGH,1
+UNKNOWN,visa,BALLYVAUGHAN,2
+UNKNOWN,visa,DULEEK,3
+UNKNOWN,visa,JULIANSTOWN,1
+COMEATH,visa,LAYTOWN,1
+COMEATH,visa,ATHBOY,1
+MEATH,visa,NAVAN,4
+UNKNOWN,visa,MITCHELLSTOWN,1
+COGALWAY,visa,ROSMUCK,1
+COUNTYMEATH,visa,NAVAN,1
+COMEATH,visa,BETTYSTOWN,2
+UNKNOWN,visa,LAYTOWN,1
+COLOUTH,visa,DROGHEDA,9
+COLOUTH,visa,"DONORE, DROGHEDA",1
+UNKNOWN,visa,CO. LOUTH,6
+COUNTYROSCOMMON,visa,ROSCOMMON,1
+COMEATH,visa,MORNINGTON,1
+COGALWAY,visa,BALLYGAR,1
+LOUTH,visa,DROGHEDA,1
+COUNTYLOUTH,visa,DROGHEDA,1
+UNKNOWN,visa,SLANE,2
+COMEATH,visa,SLANE,1
+COGALWAY,visa,OUGHTERARD,1
+COGALWAY,visa,HEADFORD,3
+GALWAY,visa,HEADFORD ROAD,1
+UNKNOWN,visa,ATHLEAGUE,1
+COGALWAY,visa,TUAM,1
+UNKNOWN,visa,TERMONFECKIN,1
+COMEATH,visa,KELLS,3
+MEATH,visa,KELLS,1
+UNKNOWN,visa,CRAIGCULLEN,1
+UNKNOWN,visa,DROGHEDA CO. LOUTH,1
+UNKNOWN,visa,ARDEE,5
+UNKNOWN,visa,DONORE,1
+UNKNOWN,visa,CLIFDEN,1
+ROSCOMMON,visa,ROSCOMMON,2
+COMAYO,visa,SHRULE,1
+COROSCOMMON,visa,ROSCOMMON,3
+UNKNOWN,visa,CO. ROSCOMMON,5
+COROSCOMMON,visa,BALLAGHADERREEN,2
+COLONGFORD,visa,EDGEWORTHSTOWN,1
+UNKNOWN,visa,CO. LONGFORD,4
+COGALWAY,visa,CARRAROE,1
+UNKNOWN,visa,LANESBOROUGH,1
+UNKNOWN,visa,DUNLEER,2
+COLOUTH,visa,DUNLEER,1
+COCORK,visa,TOGHER,1
+COMEATH,visa,OLDCASTLE,1
+COGALWAY,visa,SPIDDAL,1
+LONGFORD,visa,LONGFORD,2
+COLONGFORD,visa,LONGFORD,2
+UNKNOWN,visa,DUNMORE,2
+UNKNOWN,visa,CO. MAYO,14
+COMEATH,visa,NOBBER,1
+COLONGFORD,visa,BALLYMAHON,1
+COUNTYLONGFORD,visa,LONGFORD,1
+COCAVAN,visa,MULLAGH,1
+COLOUTH,visa,ARDEE,2
+COGALWAY,visa,CLIFDEN,1
+GALWAY,visa,CLIFDEN,1
+UNKNOWN,visa,GRANARD,2
+UNKNOWN,visa,TARMONBARRY,1
+UNKNOWN,visa,IRISHTOWN,1
+UNKNOWN,visa,WILLIAMSTOWN,1
+COMAYO,visa,BALLINROBE,2
+UNKNOWN,visa,BALLINAROBE,1
+UNKNOWN,visa,STRANDHILL,4
+COCAVAN,visa,BALLYJAMESDUFF,1
+COROSCOMMON,visa,STROKESTOWN,2
+UNKNOWN,visa,CO. CAVAN,5
+COLONGFORD,visa,DRUMLISH,1
+LOUTH,visa,"WHITERATH, DROMISKIN",1
+COLOUTH,visa,"COMMONS, DROMISKIN",2
+COLOUTH,visa,"WHITERATH, DROMISKIN",1
+COROSCOMMON,visa,CASTLEREA,1
+COMAYO,visa,BALLINDINE,1
+ROSCOMMON,visa,CASTLEREA,1
+MAYO,visa,CLAREMORRIS,1
+CLARE,visa,CLARE,1
+COLOUTH,visa,DUNDALK,6
+UNKNOWN,visa,BALLYHAUNIS,3
+UNKNOWN,visa,MAGHERACLOONE,1
+MONAGHAN,visa,CARRICKMACROSS,1
+UNKNOWN,visa,CARRICKMACROSS MONOGHAN,1
+COMONAGHAN,visa,CARRICKMACROSS,1
+COUNTYLOUTH,visa,DUNDALK,1
+LOUTH,visa,DUNDALK,1
+UNKNOWN,visa,CO. MONAGHAN,4
+UNKNOWN,visa,DUNDALK LOUTH,2
+COROSCOMMON,visa,ELPHIN,1
+UNKNOWN,visa,CO CAVAN,1
+UNKNOWN,visa,CARLINGFORD,1
+CAVAN,visa,CAVAN,2
+UNKNOWN,visa,JENKINSTOWN,1
+COMAYO,visa,KNOCK,1
+COMAYO,visa,CLAREMORRIS,1
+COWEXFORD,visa,KILLEEN,1
+COCAVAN,visa,LAVEY,1
+UNKNOWN,visa,CO. LEITRIM,5
+COCAVAN,visa,CAVAN,3
+COCAVAN,visa,BALLINAGH,1
+COMAYO,visa,BALLA,1
+COUNTYCAVAN,visa,CAVAN,1
+UNKNOWN,visa,OMEATH LOUTH,1
+COCAVAN,visa,VIRGINIA,1
+UNKNOWN,visa,CAVAN TOWN,1
+COCAVAN,visa,COOTEHILL RD,1
+UNKNOWN,visa,DRUMSNA,1
+COLEITRIM,visa,CARRICK ON SHANNON,1
+LEITRIM,visa,CARRICK-ON-SHANNON,1
+UNKNOWN,visa,KILTIMAGH,1
+COMAYO,visa,KILKELLY,1
+ROSCOMMON,visa,BALLAGHADERREEN,1
+MAYO,visa,WESTPORT,1
+UNKNOWN,visa,KILKELLY,1
+COMAYO,visa,WESTPORT,2
+UNKNOWN,visa,COOTEHILL,3
+UNKNOWN,visa,MONASTEREVAN,1
+COMAYO,visa,CASTLEBAR,4
+MAYO,visa,CASTLEBAR,2
+COUNTYMAYO,visa,CASTLEBAR,1
+COROSCOMMON,visa,BOYLE,2
+MONAGHAN,visa,CASTLEBLANEY,1
+COMONAGHAN,visa,CASTLEBLAYNEY,1
+UNKNOWN,visa,BALLYHEIGUE,1
+LEITRIM,visa,BALLINMORE,1
+DUBLIN14,visa,MILTOWN,1
+COMAYO,visa,SWINFORD,1
+UNKNOWN,visa,BELTURBET,3
+COCAVAN,visa,BELTURBET,1
+COMAYO,visa,CHARLESTOWN,1
+UNKNOWN,visa,BALLYFARNON,1
+COMAYO,visa,NEWPORT,2
+MONAGHAN,visa,NEWPORT,1
+UNKNOWN,visa,FOXFORD,1
+UNKNOWN,visa,CLONES,4
+LONGFORD,visa,CLONES,1
+COMONAGHAN,visa,CLONES,1
+UNKNOWN,visa,CLONES CO. MONAGHAN,1
+UNKNOWN,visa,BALLYMOTE,2
+SLIGO,visa,TUBBERCURRY,1
+UNKNOWN,visa,SLIGO,6
+UNKNOWN,visa,CO. SLIGO,4
+COUNTYMONAGHAN,visa,MONAGHAN,1
+COMONAGHAN,visa,MONAGHAN,1
+MONAGHAN,visa,MONAGHAN,1
+UNKNOWN,visa,MONOGHAN,1
+UNKNOWN,visa,DROMINA,1
+UNKNOWN,visa,SWANLINBAR,1
+UNKNOWN,visa,DRUMKEERAN,1
+UNKNOWN,visa,ACHILL SOUND,1
+COMAYO,visa,BALLINA,4
+COSLIGO,visa,COLLOONEY,1
+UNKNOWN,visa,COLLOONEY,1
+UNKNOWN,visa,DRUMCONDRA,2
+MAYO,visa,BALLINA,2
+UNKNOWN,visa,EMYVALE,3
+UNKNOWN,visa,BALLINAGH,1
+COMAYO,visa,CROSSMOLINA,1
+COLEITRIM,visa,DROMAHAIR,1
+UNKNOWN,visa,TUBBERCURRY,1
+UNKNOWN,visa,BALLYSADARE,1
+UNKNOWN,visa,KINLOUGH,2
+UNKNOWN,visa,BLACKLION,1
+UNKNOWN,visa,BELMULLET,3
+COSLIGO,visa,SLIGO,6
+UNKNOWN,visa,ENNISCRONE,1
+SLIGO,visa,25 CASTLE STREET,1
+COSLIGO,visa,TUBBERCURRY,1
+SLIGO,visa,ENNISCRONE,1
+COUNTYSLIGO,visa,SLIGO,1
+SLIGO,visa,SLIGO,2
+UNKNOWN,visa,CLIFFONEY,1
+COSLIGO,visa,ENNISCRONE,1
+COSLIGO,visa,DROMORE WEST,1
+COMAYO,visa,KILLALA,2
+UNKNOWN,visa,EASKY,1
+UNKNOWN,visa,BALLYCASTLE,1
+COUNTYMAYO,visa,BALLINA,1
+COMAYO,visa,BELMULLET,1
+CODONEGAL,visa,BUNDORAN,2
+CODONEGAL,visa,DONEGAL,2
+DONEGAL,visa,BALLYSHANNON,1
+DONEGAL,visa,ANNAGRY,1
+UNKNOWN,visa,CO. DONEGAL,16
+DONEGAL,visa,DONEGAL,1
+CODONEGAL,visa,CO. DONEGAL,1
+UNKNOWN,visa,PETTIGO,1
+UNKNOWN,visa,KILLYBEGS,2
+UNKNOWN,visa,KILLEBEGS,1
+UNKNOWN,visa,CARRICK,1
+UNKNOWN,visa,CASTLEFINN,1
+UNKNOWN,visa,BALLYBOFEY,1
+DONEGAL,visa,BALLYBOFEY,1
+DONEGAL,visa,BALLYLIFFIN,1
+CODONEGAL,visa,BALLYBOFEY,1
+CODONEGAL,visa,STRANORLAR,1
+CODONEGAL,visa,LIFFORD,1
+UNKNOWN,visa,ARDARA,3
+DONEGAL,visa,ARDARA,1
+UNKNOWN,visa,DUNGLOE,3
+UNKNOWN,visa,CONVOY,1
+UNKNOWN,visa,RAPHOE,2
+CODONEGAL,visa,DRUMKEEN,1
+CODONEGAL,visa,LETTERKENNY,3
+UNKNOWN,visa,KILMACRENNAN,4
+UNKNOWN,visa,FALCARRAGH,2
+UNKNOWN,visa,GORTAHORK,2
+DONEGAL,visa,LETTERKENNY,1
+COUNTYDONEGAL,visa,LETTERKENNY,1
+UNKNOWN,visa,NEWTOWNCUNNINGHAM,1
+CODONEGAL,visa,NEWTOWNCUNNINGHAM,1
+CODONEGAL,visa,BRIDGE END,1
+CODONEGAL,visa,DUNGLOE,1
+CODONEGAL,visa,BRIDGEND,1
+UNKNOWN,visa,CASTLEFIN,2
+CODONEGAL,visa,RAMELTON,1
+UNKNOWN,visa,RATHMULLAN,1
+CODONEGAL,visa,KINCASSLAGH,1
+CODONEGAL,visa,BUNCRANA,1
+DONEGAL,visa,BUNCRANA,1
+UNKNOWN,visa,MOVILLE,4
+DONEGAL,visa,GWEEDORE,1
+CODONEGAL,visa,CREESLOUGH,1
+DUBLIN14,visa,CRANFORD,1
+UNKNOWN,visa,GREENCASTLE,1
+CODONEGAL,visa,GORTAHORK,1
+DONEGAL,visa,FALCARRAGH,1
+CODONEGAL,visa,CARRIGART,1
+UNKNOWN,visa,LAGHEY,1
+CODONEGAL,visa,CARNDONAGH,2
+CODONEGAL,visa,DUNFANAGHY,1
+DONEGAL,visa,CARNDONAGH,1
+CODONEGAL,visa,CLONMANY,1
+UNKNOWN,visa,CULDAFF,1
+DONEGAL,visa,CLONMANY,1
+UNKNOWN,visa,BALLYLIFFIN,1
+LEINSTER,waterstones,Dublin,1
+LEINSTER,waterstones,Drogheda,1
+MUNSTER,waterstones,Cork,1
+COMAYO,western_union,Belmullet,1
+COMAYO,western_union,Ballina,9
+COMAYO,western_union,Achill Island,1
+COMAYO,western_union,Balina,1
+COMAYO,western_union,Westport,5
+COUNTYMAYO,western_union,Louisburgh,1
+COGALWAY,western_union,Clifden,1
+COGALWAY,western_union,Galway,11
+COGALWAY,western_union,Connemarae,1
+COGALWAY,western_union,Loughrea,2
+COGALWAY,western_union,Ballygar,1
+COCLARE,western_union,Ennis,5
+COKERRY,western_union,Tralee,10
+COLEITRIM,western_union,Carrick On Shannon,6
+COLEITRIM,western_union,Sligo,1
+COROSCOMMON,western_union,Roscommon,3
+COGALWAY,western_union,Ballinasloe,5
+COLIMERICK,western_union,Foynes,1
+CODONEGAL,western_union,Letterkenny,14
+COLONGFORD,western_union,Townparks,1
+COCARLOW,western_union,Carlow,4
+COOFFALY,western_union,Tullamore,3
+COCLARE,western_union,Kilrush,3
+COKERRY,western_union,Listowel,2
+COROSCOMMON,western_union,Elphin,1
+COLIMERICK,western_union,Glin,1
+COCLARE,western_union,Clarecastle,1
+COLIMERICK,western_union,Kildimo,1
+COCORK,western_union,Youghal,1
+COLIMERICK,western_union,Croom,1
+COCORK,western_union,Mallow,6
+COLIMERICK,western_union,Limerick,15
+COLIMERICK,western_union,Kilmallock,1
+P67K376,western_union,Mallow,1
+COCLARE,western_union,Lisdoonvarna,1
+COCORK,western_union,Fermoy,3
+COCLARE,western_union,Shannon,1
+COCLARE,western_union,Corofin,1
+COWATERFORD,western_union,Tallow,1
+COLIMERICK,western_union,Killmallock,1
+COLIMERICK,western_union,Adare,1
+COGALWAY,western_union,Spiddal,1
+COCORK,western_union,Mitchelstown,1
+COLIMERICK,western_union,Patrickswell,1
+COLIMERICK,western_union,Bruff,1
+COTIPPERARY,western_union,Cashel,2
+COLIMERICK,western_union,Pallas Green,1
+COLIMERICK,western_union,Abbeyfeale,1
+COKILKENNY,western_union,Kilkenny,5
+COLIMERICK,western_union,Newcastle West,1
+COTIPPERARY,western_union,Tipperary,5
+COWEXFORD,western_union,Gorey,3
+COLIMERICK,western_union,Templeglantine,1
+COLIMERICK,western_union,Ballingarry,1
+COCARLOW,western_union,Borris,1
+COKILKENNY,western_union,Inistioge,1
+COCORK,western_union,Charleville,3
+COKERRY,western_union,Killarney,9
+COTIPPERARY,western_union,Thurles,3
+COTIPPERARY,western_union,Killenaule,1
+COTIPPERARY,western_union,Oola,1
+COWEXFORD,western_union,Wexford,7
+COTIPPERARY,western_union,Fethard,1
+COWEXFORD,western_union,Enniscorthy,10
+COKERRY,western_union,Caherciveen,1
+COKILKENNY,western_union,Callan,1
+COKILKENNY,western_union,Graiguenamanagh,1
+COTIPPERARY,western_union,Clonmel,5
+COKERRY,western_union,Co Kerry,1
+COKERRY,western_union,Rathmore,1
+COWEXFORD,western_union,Murntown,1
+COCORK,western_union,Kanturk,1
+COWEXFORD,western_union,Rosslare,1
+COTIPPERARY,western_union,Carrick On Suir,1
+COTIPPERARY,western_union,Cahir,2
+V35DC04,western_union,Kilmallock,1
+COCORK,western_union,Newmarket,1
+COCORK,western_union,Liscarroll,1
+COWEXFORD,western_union,New Ross,3
+COCORK,western_union,Ballydesmond,1
+COLIMERICK,western_union,Ballylanders,1
+COCORK,western_union,Milstreet,1
+COWATERFORD,western_union,Rockshire,1
+COWEXFORD,western_union,Bridgetown,1
+COWATERFORD,western_union,Portlaw,1
+COKERRY,western_union,Killorglin,1
+COTIPPERARY,western_union,Golden,1
+COKERRY,western_union,Glenbeigh,1
+COKILKENNY,western_union,Thomastown,1
+COKILKENNY,western_union,Mooncoin,1
+COKILKENNY,western_union,Waterford,1
+COWEXFORD,western_union,Killinick,1
+COCORK,western_union,Doneraile,1
+COWATERFORD,western_union,Waterford,6
+COWATERFORD,western_union,Lisduggan Big,1
+COWEXFORD,western_union,Co Wexford,2
+COKERRY,western_union,Kenmare,1
+COWATERFORD,western_union,Clashrea,1
+COWATERFORD,western_union,Kilmacthomas,1
+COKERRY,western_union,Kerry,1
+COCORK,western_union,Bantry,2
+COKILKENNY,western_union,Piltown,1
+COCORK,western_union,Boherbue,1
+COCORK,western_union,Rylane,1
+COWATERFORD,western_union,Dunmore East,1
+COWATERFORD,western_union,Lismore,1
+COWATERFORD,western_union,Cappoquin,2
+COCORK,western_union,Macroom,4
+COCORK,western_union,Castletownbere,1
+COCORK,western_union,Cork,21
+COCORK,western_union,St Lukes,1
+COCORK,western_union,North Ring Road,1
+COCORK,western_union,Ballincollig,1
+COCORK,western_union,Knocknaheeny,1
+COCORK,western_union,Fair Hill,1
+COCORK,western_union,Blackpool,1
+T23EF29,western_union,Farranree,1
+COCORK,western_union,Glanmire,1
+COWATERFORD,western_union,Dungarvan,3
+COCORK,western_union,Donoughmore,1
+COCORK,western_union,Glengarriff,1
+COCORK,western_union,Cloghroe,1
+COCORK,western_union,Watergrasshill,1
+COCORK,western_union,Kealkill Bantry,1
+COCORK,western_union,Castlemartyr,1
+COCORK,western_union,Ballydehob,1
+COCORK,western_union,Schull Skibbereen,1
+COCORK,western_union,Midleton,2
+COCORK,western_union,Drimoleague,1
+COCORK,western_union,Douglas,1
+COCORK,western_union,Killeagh,1
+COCORK,western_union,Carrigtwohill Cork,1
+COCORK,western_union,Blackrock,1
+COCORK,western_union,Togher,1
+COCORK,western_union,Dunmanway,1
+COCORK,western_union,Little Island,1
+COCORK,western_union,Wilton,1
+COCORK,western_union,Turners Cross,1
+T45X434,western_union,Cork,1
+COCORK,western_union,Ballintemple,1
+COCORK,western_union,Bandon,4
+COCORK,western_union,Carrigaline,1
+COCORK,western_union,Cobh,2
+COCORK,western_union,Ballinhassig,1
+COCORK,western_union,Crossbarry,1
+COCORK,western_union,Enniskeane,1
+COCORK,western_union,Passage West,1
+COCORK,western_union,Kinsale,2
+COCORK,western_union,Rosscarbery,1
+COCORK,western_union,Clonakilty,1
+COCORK,western_union,Leap,1
+COCORK,western_union,Skibbereen,1
+COCORK,western_union,Crosshaven,1
+COCORK,western_union,Middleton,1
+COCLARE,western_union,Ballyvaughan,1
+COLIMERICK,western_union,Caherdavin,1
+COGALWAY,western_union,Main Street,1
+COGALWAY,western_union,Moycullen,1
+COMAYO,western_union,Tourmakeady,1
+COLIMERICK,western_union,Moyross,1
+COLIMERICK,western_union,Thomondgate,1
+COGALWAY,western_union,Barna,1
+V94Y8N8,western_union,Limerick,1
+COLIMERICK,western_union,Dooradoyle,1
+COMAYO,western_union,Claremorris,7
+COMAYO,western_union,Castlebar,3
+COMAYO,western_union,Ballinrobe,1
+COGALWAY,western_union,Seamus Quirke Road,1
+H91TK5R,western_union,Galway,1
+COCLARE,western_union,Tulla,1
+COGALWAY,western_union,Newcastle,1
+COGALWAY,western_union,Gort,1
+COGALWAY,western_union,Headford,1
+COGALWAY,western_union,Bohermone,1
+COLIMERICK,western_union,Cappamore,1
+COLIMERICK,western_union,Castleconnell,1
+COGALWAY,western_union,Mervue,1
+COGALWAY,western_union,Corrandulla,1
+COGALWAY,western_union,Kilcolgan,1
+COLIMERICK,western_union,Newport,1
+COCLARE,western_union,Co Clare,1
+COGALWAY,western_union,Oranmore,1
+COGALWAY,western_union,Co Galway,1
+COGALWAY,western_union,Lackagh Turloughmore,1
+COCLARE,western_union,Scarriff,1
+COCLARE,western_union,Killaloe,1
+COMAYO,western_union,Balla,1
+COGALWAY,western_union,Craughwell,1
+COMAYO,western_union,Foxford,1
+COGALWAY,western_union,Tuam,5
+COGALWAY,western_union,Athenry,2
+COGALWAY,western_union,Milltown Tuam,1
+COTIPPERARY,western_union,Nenagh,3
+COMAYO,western_union,Swinford,1
+COMAYO,western_union,Ballyhaunis,3
+COGALWAY,western_union,Dunmore,1
+COSLIGO,western_union,Dromore,1
+COROSCOMMON,western_union,Castlerea,3
+COTIPPERARY,western_union,Co Tipperary,1
+COSLIGO,western_union,Tubbercurry,1
+CODONEGAL,western_union,Glencolmkille,1
+COTIPPERARY,western_union,Templemore,1
+COGALWAY,western_union,Castlerea,1
+COGALWAY,western_union,Portumna,1
+COTIPPERARY,western_union,Borrisokane,1
+COOFFALY,western_union,Birr,3
+CODONEGAL,western_union,Donegal,5
+COSLIGO,western_union,Sligo,6
+COROSCOMMON,western_union,Ballaghadereen,1
+COKILKENNY,western_union,Urlingford,1
+COOFFALY,western_union,Shinrone,1
+COTIPPERARY,western_union,Roscrea,1
+F56XN60,western_union,Ballymote,1
+COSLIGO,western_union,Grange,1
+COSLIGO,western_union,Strandhills,1
+COSLIGO,western_union,Ballisodare,1
+CODONEGAL,western_union,Portnoo,1
+COSLIGO,western_union,Collooney,2
+COOFFALY,western_union,Banagher,1
+CODONEGAL,western_union,Annagry,1
+CODONEGAL,western_union,Derrybeg,1
+CODONEGAL,western_union,Ardara,1
+COLAOIS,western_union,Rathdowney,1
+CODONEGAL,western_union,Killybegs,1
+COKILKENNY,western_union,Loughboy,1
+COLAOIS,western_union,Portlaoise,5
+CODONEGAL,western_union,Glenties,1
+CODONEGAL,western_union,Inver,1
+COROSCOMMON,western_union,Boyle,2
+COOFFALY,western_union,Cloghan,1
+COLEITRIM,western_union,Dromahair Co Leitrim,1
+COLEITRIM,western_union,Kinlough,1
+CODONEGAL,western_union,Bundoran,1
+COOFFALY,western_union,Kilcormac,1
+COWESTMEATH,western_union,Athlone,4
+COOFFALY,western_union,Ferbane,1
+COKILKENNY,western_union,Goresbridge,1
+WESTMEATH,western_union,Athlone,1
+COLAOIS,western_union,Castlecomer,1
+COROSCOMMON,western_union,Strokestown,1
+CODONEGAL,western_union,Rossnowlagh,1
+CODONEGAL,western_union,Ballyshannon,1
+COLAOIS,western_union,Abbeyleix,1
+COWESTMEATH,western_union,Moate,1
+CODONEGAL,western_union,Co Donegal,2
+COLEITRIM,western_union,Manorhamilton,1
+COCARLOW,western_union,Mhuine Bheag,1
+CODONEGAL,western_union,Ballintra,1
+COLONGFORD,western_union,Kenagh,1
+COLAOIS,western_union,Mountmellick,1
+COLONGFORD,western_union,Ballymahon,1
+COWEXFORD,western_union,Fern,1
+COWESTMEATH,western_union,Mullingar,7
+CODONEGAL,western_union,Ballybofey,1
+COWEXFORD,western_union,Ballycanew,1
+COLONGFORD,western_union,Longford,3
+COCARLOW,western_union,Tullow,1
+COLEITRIM,western_union,Mohill,1
+COKILDARE,western_union,Athy,3
+COLAOIS,western_union,Stradbally,1
+CODONEGAL,western_union,Pettigo,1
+CODONEGAL,western_union,Clonmany,1
+COKILDARE,western_union,Kildare,5
+COKILDARE,western_union,Castledermot,1
+COLAOIS,western_union,Portarlinton,1
+COOFFALY,western_union,Daingean,1
+COLONGFORD,western_union,Edgeworthstown,1
+COLONGFORD,western_union,Ballinalee,1
+COWICKLOW,western_union,Carnew,1
+CODONEGAL,western_union,Lifford,10
+CODONEGAL,western_union,Convoy Lifford,1
+COWICKLOW,western_union,Arklow,4
+COCARLOW,western_union,Rathvilly,1
+COWESTMEATH,western_union,Tyrellspass,1
+CODONEGAL,western_union,Cardonagh,1
+COCAVAN,western_union,Carrigallen,1
+COKILDARE,western_union,Monasterevin,1
+COWICKLOW,western_union,Tinahely,1
+COCARLOW,western_union,Hacketstown,1
+COWESTMEATH,western_union,Dublin Road Rochfortbridge,1
+COCAVAN,western_union,Arva,1
+COWESTMEATH,western_union,Co Westmeath,1
+CODONEGAL,western_union,St Johnston,1
+COWICKLOW,western_union,Baltinglass,1
+COWEXFORD,western_union,Killinierin,1
+COLONGFORD,western_union,Granard,1
+COOFFALY,western_union,Clonbullogue,1
+COCAVAN,western_union,Cavan,3
+COKILDARE,western_union,Rathangan,1
+COCAVAN,western_union,Belturbet,2
+COWICKLOW,western_union,Dunlavin,1
+COKILDARE,western_union,Curragh Camp,1
+COOFFALY,western_union,Edenderry,1
+COWESTMEATH,western_union,Castlepollard,1
+CODONEGAL,western_union,Moville,1
+COKILDARE,western_union,Naas,9
+COWESTMEATH,western_union,Kinnegad,1
+KILDARE,western_union,Newbridge,1
+COKILDARE,western_union,Newbridge,1
+COKILDARE,western_union,Co Kildare,1
+COMEATH,western_union,Kells,5
+COKILDARE,western_union,Ballymore Eustace,1
+COCAVAN,western_union,Co Cavan,2
+COWICKLOW,western_union,Rathdrum,1
+COMEATH,western_union,Meath,1
+COCAVAN,western_union,Ballyjamesduff,1
+COMEATH,western_union,Ballivor,1
+COCAVAN,western_union,Stradone,1
+COWICKLOW,western_union,Blessington,1
+COMONAGHAN,western_union,Fermanagh,1
+COMEATH,western_union,Johnstwn,1
+COKILDARE,western_union,Clane,1
+COMEATH,western_union,Enfield,1
+COWICKLOW,western_union,Rathnew,1
+COCAVAN,western_union,Virginia,1
+COWICKLOW,western_union,Ashford,1
+COWICKLOW,western_union,Wicklow,1
+COMEATH,western_union,Athboy,1
+COMONAGHAN,western_union,Newbliss,1
+COMEATH,western_union,Navan,4
+CODUBLIN,western_union,Newcastle,1
+COCAVAN,western_union,Cootehill,2
+COMEATH,western_union,Trim,2
+COMEATH,western_union,Summerhill Enfield,1
+CODUBLIN,western_union,Saggart,2
+COKILDARE,western_union,Maynooth,1
+COKILDARE,western_union,Celbridge,1
+CODUBLIN,western_union,Rathcoole,1
+COWICKLOW,western_union,Greystones,3
+CODUBLIN,western_union,Montpellier,1
+CODUBLIN,western_union,Maplewood Road,1
+CODUBLIN,western_union,Tallaght,3
+COMONAGHAN,western_union,Monaghan,2
+COMONAGHAN,western_union,Scotstown,1
+CODUBLIN,western_union,Church Grove,1
+CODUBLIN,western_union,Lucan,2
+CODUBLIN,western_union,Bawnogue,1
+CODUBLIN,western_union,Dublin,65
+CODUBLIN,western_union,Neilstown,1
+COWICKLOW,western_union,Enniskerry,1
+CODUBLIN,western_union,Knocklyon,1
+CODUBLIN,western_union,West Perrystown,1
+COWICKLOW,western_union,Bray,4
+COMEATH,western_union,Dunboyne,1
+CODUBLIN,western_union,Marian Road,1
+CODUBLIN,western_union,Ballyboden,1
+CODUBLIN,western_union,Clonsilla Village,1
+CODUBLIN,western_union,Drimnagh,1
+CODUBLIN,western_union,Rathfarnham,1
+COMEATH,western_union,Clonee,1
+CODUBLIN,western_union,Hartstown S C,1
+CODUBLIN,western_union,Stepaside,1
+CODUBLIN,western_union,Ballinteer,1
+CODUBLIN,western_union,Walkinstown,1
+COMONAGHAN,western_union,Emyvale,1
+CODUBLIN,western_union,Palmerstown,1
+CODUBLIN,western_union,Dundrum,1
+CODUBLIN,western_union,Inchicore,1
+CODUBLIN,western_union,Tramyard Inchicore,1
+COMEATH,western_union,Dunshaughlin,1
+CODUBLIN,western_union,Churchtown,1
+COMONAGHAN,western_union,Co Monaghan,1
+CODUBLIN,western_union,Rialto,1
+A94TD30,western_union,Blackrock,1
+COCAVAN,western_union,Kingscourt,1
+CODUBLIN,western_union,Cabra,2
+CODUBLIN,western_union,Blackrock,1
+CODUBLIN,western_union,Dun Laoighre,1
+COMEATH,western_union,Nobber,1
+CODUBLIN,western_union,Cabinteely,1
+CODUBLIN,western_union,Ranelagh Village,1
+CODUBLIN,western_union,Rochestown Domain,1
+CODUBLIN,western_union,Leinster,1
+COMEATH,western_union,Ratoath,1
+CODUBLIN,western_union,Cardiffsbridge Road,1
+CODUBLIN,western_union,Kilmainham,1
+COMONAGHAN,western_union,Co  Monaghan,1
+CODUBLIN,western_union,Castleknock,1
+CODUBLIN,western_union,Blanchardstown,1
+COMEATH,western_union,Johnstown Via Thurles,1
+COMEATH,western_union,Balrath,1
+COMEATH,western_union,Blackcastle Navan,1
+CODUBLIN,western_union,Dun Laoghaire,3
+CODUBLIN,western_union,Drumcondra,1
+CODUBLIN,western_union,North Strand,1
+CODUBLIN,western_union,Summerhill,1
+CODUBLIN,western_union,Finglas,2
+CODUBLIN,western_union,Barrow Street,1
+CODUBLIN,western_union,Marino,1
+CODUBLIN,western_union,Glasthule,1
+CODUBLIN,western_union,Finglas East,1
+CODUBLIN,western_union,Ballymun,1
+COMEATH,western_union,Ashbourne,1
+CODUBLIN,western_union,Lorcan Ave,1
+CODUBLIN,western_union,Santry,1
+COMONAGHAN,western_union,Castleblaney,1
+CODUBLIN,western_union,Edenmore,1
+COMEATH,western_union,Slane,1
+CODUBLIN,western_union,Swords,3
+CODUBLIN,western_union,Donaghmede,1
+CODUBLIN,western_union,Garristown,1
+COLOUTH,western_union,Duleek,1
+CODUBLIN,western_union,Portmarnock,1
+CODUBLIN,western_union,Ballyboughal,1
+CODUBLIN,western_union,Sutton,1
+CODUBLIN,western_union,Baldoyle,1
+CODUBLIN,western_union,Coolock Across Courtyard,1
+COMEATH,western_union,Drumconrath,1
+COMONAGHAN,western_union,Carrickmacross,1
+CODUBLIN,western_union,Malahide,1
+CODUBLIN,western_union,Howth,1
+COLOUTH,western_union,Drogheda,10
+COLOUTH,western_union,Ash Walk,1
+CODUBLIN,western_union,Bayside,1
+CODUBLIN,western_union,Donabate,1
+COLOUTH,western_union,Iniskeen,1
+CODUBLIN,western_union,Lusk,1
+COLOUTH,western_union,Dundalk,9
+COLOUTH,western_union,Dromisken,1
+CODUBLIN,western_union,Skerries,1
+COLOUTH,western_union,Castlebellingham,1
+COFINGAL,western_union,Balbriggan,1
+CODUBLIN,western_union,Rush,1
+COMEATH,western_union,Stamullen,1
+LOUTH,western_union,Drogheda,1
+COLOUTH,western_union,Carlingford,1
+COLOUTH,western_union,Clogherhead Drogheda,1
+COLOUTH,western_union,Blackrock,1
+COKERRY,western_union,Dingle,1
+V92XT66,western_union,Tralee,1
+COKERRY,western_union,Lisselton,1
+COCLARE,western_union,Cooraclare,1
+COKERRY,western_union,Ballybunion,1
+COKERRY,western_union,Ballyheigue,1
+COCLARE,western_union,Kilmihill,1
+COCLARE,western_union,Lahinch,1
+COGALWAY,western_union,Carraroe,1
+COGALWAY,western_union,Gaillimhe,1
+COGALWAY,western_union,Leenane,1
+COGALWAY,western_union,Recess,1
+COGALWAY,western_union,Carna,1
+COGALWAY,western_union,Rosmuck,1
+COGALWAY,western_union,Lettermore,1
+COCLARE,western_union,Quilty Ennis,1
+COCLARE,western_union,Miltown Malbay,1
+COCLARE,western_union,Ennistymon,1
+COCARLOW,western_union,Mhuinebheag,1
+COLONGFORD,western_union,Lanesborough,1
+GALWAY,western_union,Galway,1
+UNKNOWN,zambrero,unknown,21
+UNKNOWN,zizzi_gb,unknown,3

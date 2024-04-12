@@ -1,0 +1,360 @@
+City,Place Name,Zipcode,Name
+Balneário Camboriú,audi,Av. do Estado Dalmo Vieira 360 88338635 Balneário Camboriú,unknown,AC Balneário
+Blumenau,audi,Rua Dois de Setembro 460 89052-000 Blumenau,unknown,AC Blumenau
+Florianópolis,audi,Avenida Marinheiro Max Schramm 3722 88095-000 Florianópolis,unknown,AC Florianópolis
+Joinville,audi,Rua Ottokar Doerffel 899 89203-307 Joinville,unknown,AC Joinville
+Blumenau,bmw_group,,unknown,Top Car Blumenau
+Florianópolis,bmw_group,,unknown,Top Car FLN
+Chapecó,bmw_group,,unknown,Top Car Chapecó
+Balneário Camboriú,bmw_group,,unknown,Top Car Balneário
+Joinville,bmw_group,,unknown,Euro Import
+Criciúma,bmw_group,,unknown,Top Car Criciúma
+Blumenau,ernst_young,Edifício Tarumã Office Rua 7 de Setembro 1600 - 13º andar - Salas 1302 e 1303 Centro,unknown,EY
+SÃO JOSÉ,mercedes_benz,,unknown,DVA AUTO COMÉRCIO DE VEÍCULOS LTDA.
+CHAPECÓ,mercedes_benz,,unknown,DVA AUTO COMÉRCIO DE VEÍCULOS LTDA.
+BLUMENAU,mercedes_benz,,unknown,DVA AUTO COMÉRCIO DE VEÍCULOS LTDA.
+JOINVILLE,mercedes_benz,,unknown,DVA AUTO COMÉRCIO DE VEÍCULOS LTDA.
+ITAJAÍ,mercedes_benz,,unknown,DVA AUTO COMÉRCIO DE VEÍCULOS LTDA.
+Florianópolis,nissan_europe,,unknown,VIP FLORIANOPOLIS
+Balneário Camboriú,nissan_europe,,unknown,GLOBO BALNEÁRIO CAMBORIÚ
+São José,nissan_europe,,unknown,GLOBO SAO JOSE
+Itajaí,nissan_europe,,unknown,GLOBO ITAJAI
+Tubarão,nissan_europe,,unknown,VIP TUBARAO
+Lages,nissan_europe,,unknown,VIP LAGES
+Criciúma,nissan_europe,,unknown,VIP CRICIUMA
+Araranguá,nissan_europe,,unknown,VIP ARARANGUA
+Rio do Sul,nissan_europe,,unknown,VIP RIO DO SUL
+Chapecó,nissan_europe,,unknown,VIP CHAPECÓ
+Jaraguá do Sul,nissan_europe,,unknown,NIX JARAGUA DO SUL
+Joinville,nissan_europe,,unknown,NIX JOINVILLE
+Blumenau,nissan_europe,,unknown,NIX BLUMENAU
+Itajai,petland_us,869 Av. Sete de Setembro,unknown,Itajai
+PORTO UNIAO,shell,,unknown,AUTO POSTO VERENKA LTDA
+BOM RETIRO,shell,,unknown,POSTO AGRICOPEL LTDA
+ITUPORANGA,shell,,unknown,POSTO AGRICOPEL LTDA
+AURORA,shell,,unknown,POSTO DE COMB ESTRELA DO VALE LTDA
+GRAO PARA,shell,,unknown,POSTO GRAO PARA LTDA
+RIO FORTUNA,shell,,unknown,OENNING E CIA LTDA
+SAO MARTINHO,shell,,unknown,AUTO POSTO GABIROBA LTDA
+SAO JOAQUIM,shell,,unknown,NAZARE DE FATIMA D CORREA E CIA LTD
+BRACO DO NORTE,shell,,unknown,MS COMERCIO DE COMBUSTIVEIS LTDA
+ORLEANS,shell,,unknown,POSTO LEAO DO TREVO LTDA
+RIO DO SUL,shell,,unknown,POSTO AGRICOPEL LTDA
+SAO LUDGERO,shell,,unknown,AUTO POSTO COM LTDA
+SAO JOSE,shell,,unknown,POSTO AVENIDA DAS TORRES LTDA
+JOINVILLE,shell,,unknown,POSTO GUAIRA LTDA
+LAGES,shell,,unknown,LUBRISEN COMB E LUBRIF LTDA
+POUSO REDONDO,shell,,unknown,POSTO AGRICOPEL LTDA
+GRAVATAL,shell,,unknown,EDINHO COMERCIO DE COMBUSTIVEIS LTD
+LONTRAS,shell,,unknown,EDEMAR RUSSI CIA LTDA
+SANTO AMARO DA IMPERATRIZ,shell,,unknown,AUTO POSTO ST AMARO IMPERATRIZ LTDA
+PALHOCA,shell,,unknown,POSTO IDEAL LTDA
+MIRIM DOCE,shell,,unknown,COMERCIO DE COMBUSTIVEIS SEMANN LTD
+IBIRAMA,shell,,unknown,POSTO AGRICOPEL LTDA
+GASPAR,shell,,unknown,POSTO AVENIDA DAS COMUNIDADES LTDA
+PRESIDENTE GETULIO,shell,,unknown,COMERCIO DE COMBUSTIVEIS ADAMI LTDA
+NOVA TRENTO,shell,,unknown,TREVISO COMBUSTIVEIS LTDA
+SIDEROPOLIS,shell,,unknown,RIO JORDAO COM DE COMBUSTIVEIS LTDA
+APIUNA,shell,,unknown,POSTO AGRICOPEL LTDA
+TAIO,shell,,unknown,SEEMANN E ANDERLE LTDA
+TUBARAO,shell,,unknown,DNB COMBUST?VEIS EIRELI
+COCAL DO SUL,shell,,unknown,POSTO COCAL DO SUL LTDA
+ITAJAI,shell,,unknown,AUTO POSTO M LTDA
+NAVEGANTES,shell,,unknown,ZONI SUPERMERCADOS LTDA
+BALNEARIO CAMBORIU,shell,,unknown,POSTO AGRICOPEL LTDA
+ILHOTA,shell,,unknown,AUTO POSTO ILHOTA LTDA
+PENHA,shell,,unknown,GIROTTO POSTO DE GASOLINA LTDA
+ITAPEMA,shell,,unknown,COM VAR DERIV PET QUATRO ILHAS LTDA
+BRUSQUE,shell,,unknown,GUARANI COMERCIO COMBUSTIVEIS LTDA
+LUIZ ALVES,shell,,unknown,COMERCIO DE COMBUSTIVEIS MARTENDAL
+BARRA VELHA,shell,,unknown,HAVAN AUTO CENTER LTDA
+GUARAMIRIM,shell,,unknown,POSTO DE GASOLINA MAIOCHI LTDA
+SAO JOAO DO ITAPERIU,shell,,unknown,POSTO DE COMBUSTIVEIS VEH LTDA
+BLUMENAU,shell,,unknown,WF COMERCIO DE COMBUSTVEIS LTDA
+PORTO BELO,shell,,unknown,MENEGATTI PORTO BELO COM COMB LTDA
+BOMBINHAS,shell,,unknown,POSTO PRAIA BOMBAS LTDA
+MAFRA,shell,,unknown,AUTO POSTO PIRAMIDE II LTDA EPP
+SAO LOURENCO DO OESTE,shell,,unknown,BAUER POSTOS COM DE COMB E CONV LTD
+PALMA SOLA,shell,,unknown,NIEDERMAIER E DAHMER LTDA
+SAO DOMINGOS,shell,,unknown,ABAST DE COMBUSTIVEIS GRISS LTDA
+SERRA ALTA,shell,,unknown,AUTO POSTO SERRA ALTA LTDA
+SAO JOSE DO CEDRO,shell,,unknown,POSTO CEDRO LTDA
+MODELO,shell,,unknown,COOP REG ITAIPU
+MARAVILHA,shell,,unknown,ABASTECEDORA FAE LTDA
+SAUDADES,shell,,unknown,POSTO SAUDADES LTDA
+PINHALZINHO,shell,,unknown,COMERCIO DE COMBUSTIVEIS 2012 LTDA
+CORONEL FREITAS,shell,,unknown,PIVA COMERCIO LTDA
+XANXERE,shell,,unknown,EDILSON MARCIO
+FAXINAL DOS GUEDES,shell,,unknown,POSTOS ECONORTE LTDA
+XAXIM,shell,,unknown,BMG COMERCIO DE COMBUSTIVEIS LTDA
+CHAPECO,shell,,unknown,POSTO GAUCHO LTDA
+SEARA,shell,,unknown,IRMAOS BIFFI LTDA
+IPUMIRIM,shell,,unknown,BIFFI E BIFFI LTDA
+NOVA ITABERABA,shell,,unknown,A P ITABERABA COM DE COMB LTDA
+IRANI,shell,,unknown,POSTO SGANZERLA LTDA ME
+CONCORDIA,shell,,unknown,POSTO PARISENTI LTDA
+CAXAMBU DO SUL,shell,,unknown,ABASTECEDORA CAXAMBU LTDA EPP
+SAO CARLOS,shell,,unknown,AUTO POSTO CAMPO VERDE LTDA EPP
+AGUAS DE CHAPECO,shell,,unknown,INES ZEN E FILHOS LTDA
+VARGEM BONITA,shell,,unknown,COM DE COMBUSTIVEL BULGARELLI LTDA
+JABORA,shell,,unknown,AUTO POSTO POYER LTDA
+CATANDUVAS,shell,,unknown,ASSOTRAN TRAN E COM DE COMBU LTDA
+CRICIUMA,shell,,unknown,POSTO ALBINO COM DE COMB TRANSP LT
+ICARA,shell,,unknown,POSTO PARADA OBRIGATORIA LTDA ME
+BALNEARIO RINCAO,shell,,unknown,POSTO FERREIRA LTDA ME
+MARACAJA,shell,,unknown,POSTO PERDIGAO LTDA
+MORRO DA FUMACA,shell,,unknown,POSTO MARAGNO LTDA
+ARARANGUA,shell,,unknown,HAVAN AUTO CENTER LTDA
+MELEIRO,shell,,unknown,AUTO POSTO MELEIRO LTDA
+MORRO GRANDE,shell,,unknown,AUTO POSTO MORRO GRANDE LTDA
+TURVO,shell,,unknown,POSTO ROMANO LTDA
+SOMBRIO,shell,,unknown,COMERCIO DE COMB JAPONES LTDA
+CAPIVARI DE BAIXO,shell,,unknown,L.M COMERCIO DE COMBUSTIVEIS LTDA
+SANTA ROSA DO SUL,shell,,unknown,ABAST DE COMBUSTIVEIS ROBEDER LTDA
+LAGUNA,shell,,unknown,POSTO LEAO DO TREVO LTDA
+SAO JOAO DO SUL,shell,,unknown,BROCCA E VARGAS COMBUSTIVEIS LTDA
+JOACABA,shell,,unknown,COM DE COMB E TRANS ARALDI LTDA EPP
+LUZERNA,shell,,unknown,AUTO POSTO LUZERNA LTDA
+ERVAL VELHO,shell,,unknown,DISTRIB DE COMB PASINATO LTDA
+OURO,shell,,unknown,IRMAOS DAMBROS LTDA
+AGUA DOCE,shell,,unknown,COOPERATIVA DE PROD E CON CONCORDIA
+TANGARA,shell,,unknown,COOP DOS TRANSP DE CARGAS DA REG TA
+CAMPOS NOVOS,shell,,unknown,POSTO COELHO LTDA
+VIDEIRA,shell,,unknown,AUTO POSTO E COM DE COMB ELLO LTDA
+RIO DAS ANTAS,shell,,unknown,AUTO POSTO IPOMEIA LTDA EPP
+ANITA GARIBALDI,shell,,unknown,POSTO DE COMB ARMINDO FOREST LTDA
+CACADOR,shell,,unknown,POSTO BRASILIA LTDA
+FREI ROGERIO,shell,,unknown,CESCA E CIA LTDA
+SAO JOSE DO CERRITO,shell,,unknown,AUTO POSTO JORDY LTDA
+LEBON REGIS,shell,,unknown,AUTO POSTO AG3 EIRELI
+JARAGUA DO SUL,shell,,unknown,POSTO DE COMBUSTVEIS ZE LUCAS LTDA
+SCHROEDER,shell,,unknown,POSTO AGRICOPEL LTDA
+POMERODE,shell,,unknown,POSTO AGRICOPEL LTDA
+ARAQUARI,shell,,unknown,REDE DE POSTOS APOLO LTDA
+TIMBO,shell,,unknown,AUTO POSTO MANARIN LTDA.
+CAMPO ALEGRE,shell,,unknown,AUTO POSTO JK LTDA
+SAO BENTO DO SUL,shell,,unknown,POSTO AGRICOPEL LTDA
+INDAIAL,shell,,unknown,EDEMAR RUSSI CIA LTDA
+FLORIANOPOLIS,shell,,unknown,INGLESES COM DE COMBUSTVEIS LTDA
+BIGUACU,shell,,unknown,POSTO MAR DAS PEDRAS LTDA
+TIJUCAS,shell,,unknown,AUTO POSTO UNIAO LTDA
+CANELINHA,shell,,unknown,SOMMAS COMBUSTIVEIS LTDA
+SAO JOAO BATISTA,shell,,unknown,POSTO AVENIDA DAS PALMEIRAS LTDA
+CURITIBANOS,shell,,unknown,AUTO POSTO R.R.D LTDA
+SAO CRISTOVAO DO SUL,shell,,unknown,POSTO MACA LTDA
+PONTE ALTA DO NORTE,shell,,unknown,CESCA E CIA LTDA
+SANTA CECILIA,shell,,unknown,POSTOS AG LTDA
+SANTA TEREZINHA,shell,,unknown,AUTO POSTO PIJURAUTO LTDA
+MONTE CASTELO,shell,,unknown,AUTO POSTO DE LUCA LTDA
+MAJOR VIEIRA,shell,,unknown,AUTO POSTO DENILSON LTDA
+SAO FRANCISCO DO SUL,shell,,unknown,POSTO AGRICOPEL LTDA
+ASCURRA,shell,,unknown,POSTO Z9 LTDA
+CANOINHAS,shell,,unknown,AUTO POSTO PWIEDADE LTDA
+PAPANDUVA,shell,,unknown,AUTO POSTO PIRAMIDE LTDA
+RIO NEGRINHO,shell,,unknown,AUTO POSTO TRADICAO LTDA
+PAULO LOPES,shell,,unknown,AUTO POSTO LITORAL LTDA
+IMBITUBA,shell,,unknown,IMBITUBA COM DE DER DE PETRO LTDA
+CHAPECÓ,smart,,unknown,DVA AUTO COMÉRCIO DE VEÍCULOS LTDA.
+SÃO JOSÉ,smart,,unknown,DVA AUTO COMÉRCIO DE VEÍCULOS LTDA.
+SAO FRANCISCO DO SUL,visa,,unknown,unknown
+BALNEARIO BARRA DO SUL,visa,,unknown,unknown
+GARUVA,visa,,unknown,unknown
+ARAQUARI,visa,,unknown,unknown
+JOINVILLE,visa,,unknown,unknown
+BARRA VELHA,visa,,unknown,unknown
+PENHA,visa,,unknown,unknown
+BALNEARIO PICARRAS,visa,,unknown,unknown
+BOMBINHAS,visa,,unknown,unknown
+FLORIANOPOLIS,visa,,unknown,unknown
+SAO JOAO DO ITAPERIU,visa,,unknown,unknown
+NAVEGANTES,visa,,unknown,unknown
+PORTO BELO,visa,,unknown,unknown
+ITAJAI,visa,,unknown,unknown
+BALNEARIO CAMBORIU,visa,,unknown,unknown
+ITAPEMA,visa,,unknown,unknown
+CAMBORIU,visa,,unknown,unknown
+GOVERNADOR CELSO RAMOS,visa,,unknown,unknown
+TIJUCAS,visa,,unknown,unknown
+GUARAMIRIM,visa,,unknown,unknown
+ILHOTA,visa,,unknown,unknown
+LUIZ ALVES,visa,,unknown,unknown
+SCHROEDER,visa,,unknown,unknown
+MASSARANDUBA,visa,,unknown,unknown
+JARAGUA DO SUL,visa,,unknown,unknown
+SAO JOSE,visa,,unknown,unknown
+BIGUACU,visa,,unknown,unknown
+CANELINHA,visa,,unknown,unknown
+ITAPOA,visa,,unknown,unknown
+CAMPO ALEGRE,visa,,unknown,unknown
+BRUSQUE,visa,,unknown,unknown
+GASPAR,visa,,unknown,unknown
+PALHOCA,visa,,unknown,unknown
+SAO JOAO BATISTA,visa,,unknown,unknown
+CORUPA,visa,,unknown,unknown
+BLUMENAU,visa,,unknown,unknown
+GUABIRUBA,visa,,unknown,unknown
+SAO BENTO DO SUL,visa,,unknown,unknown
+NOVA TRENTO,visa,,unknown,unknown
+SAO PEDRO DE ALCANTARA,visa,,unknown,unknown
+POMERODE,visa,,unknown,unknown
+SANTO AMARO DA IMPERATRIZ,visa,,unknown,unknown
+GAROPABA,visa,,unknown,unknown
+RIO DOS CEDROS,visa,,unknown,unknown
+INDAIAL,visa,,unknown,unknown
+RIO NEGRINHO,visa,,unknown,unknown
+TIMBO,visa,,unknown,unknown
+IMBITUBA,visa,,unknown,unknown
+BENEDITO NOVO,visa,,unknown,unknown
+RANCHO QUEIMADO,visa,,unknown,unknown
+SAO BONIFACIO,visa,,unknown,unknown
+APIUNA,visa,,unknown,unknown
+IMARUI,visa,,unknown,unknown
+MAFRA,visa,,unknown,unknown
+LAGUNA,visa,,unknown,unknown
+IBIRAMA,visa,,unknown,unknown
+LONTRAS,visa,,unknown,unknown
+ITAIOPOLIS,visa,,unknown,unknown
+IMBUIA,visa,,unknown,unknown
+PRESIDENTE GETULIO,visa,,unknown,unknown
+ALFREDO WAGNER,visa,,unknown,unknown
+GRAVATAL,visa,,unknown,unknown
+TUBARAO,visa,,unknown,unknown
+RIO DO SUL,visa,,unknown,unknown
+BRACO DO NORTE,visa,,unknown,unknown
+JAGUARUNA,visa,,unknown,unknown
+WITMARSUM,visa,,unknown,unknown
+SAO LUDGERO,visa,,unknown,unknown
+ITUPORANGA,visa,,unknown,unknown
+LAURENTINO,visa,,unknown,unknown
+BOM RETIRO,visa,,unknown,unknown
+SANGAO,visa,,unknown,unknown
+PAPANDUVA,visa,,unknown,unknown
+ORLEANS,visa,,unknown,unknown
+PETROLANDIA,visa,,unknown,unknown
+TRES BARRAS,visa,,unknown,unknown
+MORRO DA FUMACA,visa,,unknown,unknown
+URUSSANGA,visa,,unknown,unknown
+AGROLANDIA,visa,,unknown,unknown
+LAURO MULLER,visa,,unknown,unknown
+URUBICI,visa,,unknown,unknown
+COCAL DO SUL,visa,,unknown,unknown
+POUSO REDONDO,visa,,unknown,unknown
+CANOINHAS,visa,,unknown,unknown
+TAIO,visa,,unknown,unknown
+ICARA,visa,,unknown,unknown
+CRICIUMA,visa,,unknown,unknown
+BALNEARIO GAIVOTA,visa,,unknown,unknown
+RIO DO CAMPO,visa,,unknown,unknown
+NOVA VENEZA,visa,,unknown,unknown
+SIDEROPOLIS,visa,,unknown,unknown
+FORQUILHINHA,visa,,unknown,unknown
+OTACILIO COSTA,visa,,unknown,unknown
+ARARANGUA,visa,,unknown,unknown
+SANTA CECILIA,visa,,unknown,unknown
+MELEIRO,visa,,unknown,unknown
+IRINEOPOLIS,visa,,unknown,unknown
+SAO JOAQUIM,visa,,unknown,unknown
+TURVO,visa,,unknown,unknown
+SOMBRIO,visa,,unknown,unknown
+CORREIA PINTO,visa,,unknown,unknown
+JACINTO MACHADO,visa,,unknown,unknown
+LAGES,visa,,unknown,unknown
+LEBON REGIS,visa,,unknown,unknown
+SANTA ROSA DO SUL,visa,,unknown,unknown
+CURITIBANOS,visa,,unknown,unknown
+SAO CRISTOVAO DO SUL,visa,,unknown,unknown
+PORTO UNIAO,visa,,unknown,unknown
+CACADOR,visa,,unknown,unknown
+FRAIBURGO,visa,,unknown,unknown
+MONTE CARLO,visa,,unknown,unknown
+CAMPO BELO DO SUL,visa,,unknown,unknown
+VIDEIRA,visa,,unknown,unknown
+IOMERE,visa,,unknown,unknown
+PINHEIRO PRETO,visa,,unknown,unknown
+TANGARA,visa,,unknown,unknown
+IBIAM,visa,,unknown,unknown
+ARROIO TRINTA,visa,,unknown,unknown
+SALTO VELOSO,visa,,unknown,unknown
+CAMPOS NOVOS,visa,,unknown,unknown
+IBICARE,visa,,unknown,unknown
+TREZE TILIAS,visa,,unknown,unknown
+AGUA DOCE,visa,,unknown,unknown
+HERVAL D'OESTE,visa,,unknown,unknown
+JOACABA,visa,,unknown,unknown
+CATANDUVAS,visa,,unknown,unknown
+CAPINZAL,visa,,unknown,unknown
+PONTE SERRADA,visa,,unknown,unknown
+CONCORDIA,visa,,unknown,unknown
+ABELARDO LUZ,visa,,unknown,unknown
+FAXINAL DOS GUEDES,visa,,unknown,unknown
+ARABUTA,visa,,unknown,unknown
+BOM JESUS,visa,,unknown,unknown
+XANXERE,visa,,unknown,unknown
+SAO DOMINGOS,visa,,unknown,unknown
+SEARA,visa,,unknown,unknown
+XAXIM,visa,,unknown,unknown
+CORDILHEIRA ALTA,visa,,unknown,unknown
+SAO LOURENCO DO OESTE,visa,,unknown,unknown
+QUILOMBO,visa,,unknown,unknown
+CHAPECO,visa,,unknown,unknown
+CORONEL FREITAS,visa,,unknown,unknown
+CAMPO ERE,visa,,unknown,unknown
+PINHALZINHO,visa,,unknown,unknown
+SAUDADES,visa,,unknown,unknown
+SAO CARLOS,visa,,unknown,unknown
+MARAVILHA,visa,,unknown,unknown
+CUNHA PORA,visa,,unknown,unknown
+PALMITOS,visa,,unknown,unknown
+CAIBI,visa,,unknown,unknown
+SAO JOSE DO CEDRO,visa,,unknown,unknown
+RIQUEZA,visa,,unknown,unknown
+DIONISIO CERQUEIRA,visa,,unknown,unknown
+GUARACIABA,visa,,unknown,unknown
+SAO MIGUEL DO OESTE,visa,,unknown,unknown
+DESCANSO,visa,,unknown,unknown
+MONDAI,visa,,unknown,unknown
+IPORA DO OESTE,visa,,unknown,unknown
+PARAISO,visa,,unknown,unknown
+TUNAPOLIS,visa,,unknown,unknown
+SAO JOAO DO OESTE,visa,,unknown,unknown
+ITAPIRANGA,visa,,unknown,unknown
+Concordia,western_union,,unknown,SICOOB CREDIAUC CONCORDIA PA16
+Xaxim,western_union,,unknown,SICOOB MAXICREDITO XAXIM
+Chapeco,western_union,,unknown,KESS COMPANY LTDA
+Sao Francisco Do Sul,western_union,,unknown,LOJAS MM 134 SAO FRANCISCO DO SUL
+Garopaba,western_union,,unknown,CASCAES CAMBIO GAROPABA
+Florianopolis,western_union,,unknown,LOJA BELVITUR FLORIANOPOLIS
+Criciuma,western_union,,unknown,LOJA WU CRICIUMA
+Itajai,western_union,,unknown,LOJAS MM 160 ITAJAI SAO VICENTE
+Navegantes,western_union,,unknown,LOJAS MM 127 NAVEGANTES
+Meia Praia,western_union,,unknown,CONFIDENCE SC NAVEGANTES - QUIOESQUE
+Balneario Camboriu,western_union,,unknown,FAIR BALNEARIO CAMBORIU
+Itapema,western_union,,unknown,LOJAS MM 226 ITAPEMA
+Balneario Barra Do Sul,western_union,,unknown,LOJAS MM 191 BALNEARIO BARRA DO SUL
+Santa Catarina,western_union,,unknown,CONFIDENCE SC CRICIUMA NACOES SH
+Sao Jose,western_union,,unknown,FAIR SAO JOSE
+Itapoa,western_union,,unknown,LOJAS MM 167 ITAPOA
+Joinville,western_union,,unknown,LOJAS MM 142 PARANAGUAMIRIM
+Barra Velha,western_union,,unknown,LOJAS MM 145 BARRA VELHA
+Balneario De Picarras,western_union,,unknown,LOJAS MM 195 PICARRAS
+Jaragua Do Sul,western_union,,unknown,DAYCAMBIO JARAGUA DO SUL
+Blumenau,western_union,,unknown,CONFIDENCE SC BLUMENAU PARK EUROPEU QUIO
+Guaramirim,western_union,,unknown,LOJAS MM 162 GUARAMIRIM
+Gaspar,western_union,,unknown,LOJAS MM 128 GASPAR
+Indaial,western_union,,unknown,LOJAS MM 119 INDAIAL
+Corupa,western_union,,unknown,LOJAS MM 156 CORUPA
+Brusque,western_union,,unknown,LOJAS MM 174 BRUSQUE
+Rio Negrinho,western_union,,unknown,LOJAS MM 121 RIO NEGRINHO
+Sao Bento Do Sul,western_union,,unknown,LOJAS MM 143 SAO BENTO DO SUL
+Timbo,western_union,,unknown,LOJAS MM 223 TIMBO II
+Bom Jesus Do Oeste,western_union,,unknown,SICOOB CREDITAIPU BOM JESUS DO
+Canoinhas,western_union,,unknown,LOJAS MM 101 CANOINHAS
+Cunha Pora,western_union,,unknown,SICOOB CREDIAL
+Papanduva,western_union,,unknown,LOJAS MM 190 PAPANDUVA
+Pinhalzinho,western_union,,unknown,SICOOB CREDITAIPU MATRIZ
+Saudades,western_union,,unknown,SICOOB CREDITAIPU SAUDADES
+Araquari,western_union,,unknown,LOJAS MM 171 ARAQUARI
+Garuva,western_union,,unknown,LOJAS MM 102 GARUVA
+Itaiopolis,western_union,,unknown,LOJAS MM 122 ITAIOPOLIS
+Mafra,western_union,,unknown,LOJAS MM 103 MAFRA
+Porto Alegre,western_union,,unknown,IFP DC PRAIA DE BELAS

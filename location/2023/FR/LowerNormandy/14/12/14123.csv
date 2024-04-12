@@ -1,0 +1,16 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+FRAA04140,audi,AUDERA SA,"8, RUE ALFRED NOBEL, CAEN (IFS), 14123",CAEN (IFS),Lower Normandy,,FR,+33 2 31 35 66 66,,,Audi,Q23317
+https://www.cic.fr:443/fr/agences/30027/16080/00/000,cic,CIC,,FLEURY SUR ORNE,Lower Normandy,,FR,+33 2 31 36 26 32,https://www.cic.fr:443/fr/agences/30027/16080/00/000,"Tu-We 08:45-12:30,13:30-18:00; Th 08:45-12:30,14:30-18:00; Fr 08:45-12:30,14:00-18:00; Sa 08:30-13:00",cic,Q746525
+1014t003t1,e_leclerc,Manège à bijoux,,IFS,Lower Normandy,,FR,+33 2 31 35 42 00,https://e.leclerc/mag/e-leclerc-ifs,Mo-Sa 08:30-19:30,Manège à Bijoux,Q1273376
+1014t008t1,e_leclerc,Station Service 24/24h,,IFS,Lower Normandy,,FR,+33 2 31 35 42 00,,Mo-Su 00:01-24:00,E.Leclerc,Q1273376
+1014t010t1,e_leclerc,Auto,,IFS - CAEN,Lower Normandy,,FR,+33 7 55 54 68 75,https://e.leclerc/mag/e-leclerc-ifs,Mo-Sa 08:30-19:00,E.Leclerc,Q1273376
+1014t011t1,e_leclerc,Voyages,,IFS,Lower Normandy,,FR,+33 2 31 35 42 15,https://e.leclerc/mag/e-leclerc-ifs,Mo-Sa 09:00-19:00,E.Leclerc,Q1273376
+1014t078t1,e_leclerc,Espace Culturel,,IFS,Lower Normandy,,FR,+33 2 31 35 42 00,https://e.leclerc/mag/e-leclerc-ifs,Mo-Fr 08:30-20:00; Sa 08:30-19:30,E.Leclerc Espace Culturel,Q1273376
+1014t083t1,e_leclerc,Une heure pour Soi,,IFS,Lower Normandy,,FR,+33 2 31 35 42 19,https://e.leclerc/mag/e-leclerc-ifs,Mo-Sa 08:30-19:30,Une Heure Pour Soi,Q1273376
+1014t101t1,e_leclerc,IFS,,IFS,Lower Normandy,,FR,+33 2 31 35 42 00,https://e.leclerc/mag/e-leclerc-ifs,Mo-Fr 08:30-20:00; Sa 08:30-19:30,E.Leclerc,Q1273376
+1014t117t1,e_leclerc,Location,,IFS,Lower Normandy,,FR,+33 2 31 35 48 57,https://e.leclerc/mag/e-leclerc-ifs,"Mo 08:00-12:30,14:00-18:00; Tu 09:00-12:30,14:00-18:00; We-Th 08:30-12:30,14:00-18:00; Fr 09:00-12:30,14:00-19:00; Sa 08:00-12:30,14:00-19:00",E.Leclerc Location,Q1273376
+1014t118t1,e_leclerc,Drive Cormelles-le-royal / Caen Sud,,CORMELLES LE ROYAL,Lower Normandy,,FR,+33 2 31 84 55 62,,Mo-Fr 08:00-20:00; Sa 08:00-19:30,E.Leclerc Drive,Q1273376
+1014t118t4,e_leclerc,Drive Ifs,,Ifs,Lower Normandy,,FR,+33 2 31 35 42 17,,Mo-Sa 08:30-19:30,E.Leclerc Drive,Q1273376
+https://local.fedex.com/#1017436183,fedex,,,Ifs,Lower Normandy,,FR,,https://local.fedex.com/en-fr/ifs/cfrff,,FedEx,Q459477
+https://local.fedex.com/#1017446289,fedex,,,Ifs,Lower Normandy,,FR,,https://local.fedex.com/en-fr/ifs/cfrez,,FedEx,Q459477
+https://local.fedex.com/#1017445569,fedex,,,Fleury Sur Orne,Lower Normandy,,FR,,https://local.fedex.com/en-fr/fleury-sur-orne/cfrlp,,FedEx,Q459477

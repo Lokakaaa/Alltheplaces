@@ -1,0 +1,1335 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,13
+UNKNOWN,adidas,Trujillo,1
+UNKNOWN,adidas,Lima,7
+LMA,adidas,Lima,22
+JUN,adidas,Huancayo,1
+PIU,adidas,Piura,2
+LAL,adidas,Trujillo,6
+LIM,adidas,Lima,3
+ANC,adidas,Chimbote,1
+ICA,adidas,Ica,2
+LMA,adidas,Chincha,1
+LAM,adidas,Chiclayo,1
+UNKNOWN,adidas,LIMA,2
+ARE,adidas,Arequipa,2
+UNKNOWN,adidas,Cuzco,2
+UNKNOWN,adidas,Arequipa,2
+UNKNOWN,adidas,Chiclayo,1
+LIM,adidas,Huacho,1
+HUC,adidas,Huanuco,1
+UNKNOWN,alamo,Lima,3
+UNKNOWN,alstom,unknown,2
+UNKNOWN,american_eagle_outfitters,Santiago De Surco,1
+LIMA,audi,Lima,2
+AREQUIPA,audi,Arequipa,1
+LIMA,avis,Lima,2
+SANISIDROMIRAFLORES,avis,Lima,1
+UNKNOWN,bmw_group,Lima,1
+LIMA,bmw_group,Lima,1
+UNKNOWN,bmw_group,Arequipa,1
+UNKNOWN,enterprise,Lima,3
+UNKNOWN,ernst_young,Lima,1
+UNKNOWN,ernst_young,Arequipa,1
+UNKNOWN,ernst_young,Trujillo,1
+UNKNOWN,esprit,Lima,4
+UNKNOWN,ford,SURQUILLO,1
+UNKNOWN,ford,INDEPENDENCIA,1
+UNKNOWN,ford,SAN ISIDRO,1
+UNKNOWN,ford,LA MOLINA,1
+UNKNOWN,ford,TACNA,1
+UNKNOWN,ford,AREQUIPA,1
+UNKNOWN,ford,CUSCO,1
+UNKNOWN,ford,ICA,1
+UNKNOWN,ford,HUANCAYO,1
+UNKNOWN,ford,SAN MIGUEL,1
+UNKNOWN,ford,CAJAMARCA,1
+UNKNOWN,ford,CHIMBOTE,1
+UNKNOWN,ford,SANTIAGO DE SURCO,1
+UNKNOWN,ford,JULIACA,1
+UNKNOWN,ford,TRUJILLO,2
+UNKNOWN,ford,PIURA,2
+UNKNOWN,ford,CHICLAYO,1
+UNKNOWN,ford,SAN JUAN DE MIRAFLORES,1
+UNKNOWN,ford,LOS OLIVOS,1
+UNKNOWN,ford,ANCASH,1
+UNKNOWN,ford,TARAPOTO,1
+LIMA,google_offices,Lima,1
+UNKNOWN,hilton,unknown,6
+UNKNOWN,hm,Lima,9
+UNKNOWN,hm,Trujillo,1
+UNKNOWN,hm,Piura,1
+UNKNOWN,hm,Cusco,1
+UNKNOWN,hm,Arequipa,2
+UNKNOWN,hm,Ica,1
+UNKNOWN,hm,Huancayo,1
+UNKNOWN,hm,Cajamarca,1
+LIMA,hm,Lima,1
+UNKNOWN,hm,Chiclayo,1
+06,hugo_boss,"Santiago de Surco, Lima 23",1
+06,hugo_boss,"San Isidro, Lima",1
+06,hugo_boss,Lima 27,2
+06,hugo_boss,Modulo 7,1
+06,hugo_boss,"Lima, Real Plaza Salaverry",1
+06,hugo_boss,lima,1
+PERU,jll,Lima,1
+UNKNOWN,lhw,Lima,1
+LIMA,lovisa,Santiago de Surco,1
+PERU,lovisa,Peru,1
+UNKNOWN,man_truck_and_bus,Santa Anita – Lima,1
+UNKNOWN,man_truck_and_bus,Lima,1
+UNKNOWN,man_truck_and_bus,Iquitos,1
+UNKNOWN,man_truck_and_bus,Chiclayo,1
+UNKNOWN,marriott,Lima,5
+UNKNOWN,maserati,SAN ISIDRO,1
+UNKNOWN,mcdonalds_latin_america,Arequipa,1
+UNKNOWN,mcdonalds_latin_america,AREQUIPA,2
+UNKNOWN,mcdonalds_latin_america,CUSCO,1
+UNKNOWN,mcdonalds_latin_america,Cuzco,1
+UNKNOWN,mcdonalds_latin_america,Lima,3
+UNKNOWN,mcdonalds_latin_america,Surco,3
+UNKNOWN,mcdonalds_latin_america,San Isidro,1
+UNKNOWN,mcdonalds_latin_america,LIMA,5
+UNKNOWN,mcdonalds_latin_america,San Juan de Lurigancho,1
+UNKNOWN,mcdonalds_latin_america,Independencia,1
+UNKNOWN,mcdonalds_latin_america,CALLAO,1
+UNKNOWN,mcdonalds_latin_america,TRUJILLO,1
+UNKNOWN,mcdonalds_latin_america,Trujillo,1
+LALIBERTAD,mercedes_benz,Trujillo,1
+CAJAMARCA,mercedes_benz,Cajamarca,1
+MUNICIPALIDADMETROPOLITANADELIMA,mercedes_benz,Lima,2
+ANCASH,mercedes_benz,Huaraz,1
+PROVINCIADELIMA,mercedes_benz,Lima,2
+AREQUIPA,mercedes_benz,Arequipa,1
+CALLAO,mercedes_benz,Callao,1
+PASCO,mercedes_benz,Cerro de Pasco,1
+PUNO,mercedes_benz,Juliaca,1
+CUSCO,mercedes_benz,Cusco,1
+MUNICIPALIDADMETROPOLITANADELIMA,mercedes_benz,La Molina,1
+PIURA,mercedes_benz,Piura,1
+LAMBAYEQUE,mercedes_benz,Lambayeque,1
+CUSCO,mercedes_benz,Espinar,1
+MUNICIPALIDADMETROPOLITANADELIMA,mercedes_benz,La Victoria,1
+JUNÍN,mercedes_benz,"El tambo, Huancayo",1
+UNKNOWN,moneygram,CHONTALI,1
+UNKNOWN,moneygram,LIMA,102
+UNKNOWN,moneygram,CALLAO,10
+UNKNOWN,moneygram,CHICLAYO,10
+UNKNOWN,moneygram,RIOJA,3
+UNKNOWN,moneygram,PARDO MIGUEL,1
+UNKNOWN,moneygram,PALCAZU,1
+UNKNOWN,moneygram,HUACHO,1
+UNKNOWN,moneygram,TRUJILLO,10
+UNKNOWN,moneygram,ABANCAY,2
+UNKNOWN,moneygram,MIRAFLORES,2
+UNKNOWN,moneygram,CHACHAPOYAS,2
+UNKNOWN,moneygram,UTCUBAMBA,3
+UNKNOWN,moneygram,CUSCO,3
+UNKNOWN,moneygram,SANTIAGO DE SURCO,1
+UNKNOWN,moneygram,SAN JUAN DE MIRAFLORES,3
+UNKNOWN,moneygram,AMBO,1
+UNKNOWN,moneygram,ATALAYA,1
+UNKNOWN,moneygram,LUCANAS,1
+UNKNOWN,moneygram,CANTA,1
+UNKNOWN,moneygram,CASMA,1
+UNKNOWN,moneygram,AYMARAES,1
+UNKNOWN,moneygram,CANETE,4
+UNKNOWN,moneygram,CHURCAMPA,1
+UNKNOWN,moneygram,CORONGO,1
+UNKNOWN,moneygram,TACNA,4
+UNKNOWN,moneygram,BOLOGNESI,1
+UNKNOWN,moneygram,HUNACANE,1
+UNKNOWN,moneygram,AYACUCHO,2
+UNKNOWN,moneygram,HUAURA,3
+UNKNOWN,moneygram,HUAYTARA,1
+UNKNOWN,moneygram,LAMBAYEQUE,3
+UNKNOWN,moneygram,MARISCAL CACERES,1
+UNKNOWN,moneygram,ISALY,2
+UNKNOWN,moneygram,ANTONIO RAYMONDI,1
+UNKNOWN,moneygram,OYON,1
+UNKNOWN,moneygram,PASCO,2
+UNKNOWN,moneygram,AZANGARO,1
+UNKNOWN,moneygram,LA MAR,2
+UNKNOWN,moneygram,PACASMAYO,2
+UNKNOWN,moneygram,HUALLAGA,1
+UNKNOWN,moneygram,CONTUMAZA,1
+UNKNOWN,moneygram,VIRU,1
+UNKNOWN,moneygram,CARAVELI,2
+UNKNOWN,moneygram,PIURA,3
+UNKNOWN,moneygram,CHUCUITO,1
+UNKNOWN,moneygram,PALLASCA,1
+UNKNOWN,moneygram,SURQUILLO,1
+UNKNOWN,moneygram,JAEN,2
+UNKNOWN,moneygram,HUANCABAMBA,1
+UNKNOWN,moneygram,HUANCAYO,5
+UNKNOWN,moneygram,HUANUCO,2
+UNKNOWN,moneygram,AREQUIPA,5
+UNKNOWN,moneygram,SAN ROMAN,1
+UNKNOWN,moneygram,HUARAZ,3
+UNKNOWN,moneygram,SAN MARTIN,3
+UNKNOWN,moneygram,CORONEL PORTILLO,2
+UNKNOWN,moneygram,SANTA,3
+UNKNOWN,moneygram,MAYNAS,2
+UNKNOWN,moneygram,PACHACAMAC,1
+UNKNOWN,moneygram,JUNIN,1
+UNKNOWN,moneygram,CAJAMARCA,2
+UNKNOWN,moneygram,SAN MARTIN DE PORRES,2
+UNKNOWN,moneygram,ASCOPE,2
+UNKNOWN,moneygram,PUNO,2
+UNKNOWN,moneygram,PAUCARBAMBA,1
+UNKNOWN,moneygram,LA MOLINA,1
+UNKNOWN,moneygram,JESUS MARIA,4
+UNKNOWN,moneygram,LA VICTORIA,4
+UNKNOWN,moneygram,JAUJA,1
+UNKNOWN,moneygram,SAN ISIDRO,1
+UNKNOWN,moneygram,V M DEL TRIUNFO,1
+UNKNOWN,moneygram,BARRANCA,3
+UNKNOWN,moneygram,CHEPEN,1
+UNKNOWN,moneygram,LOS OLIVOS,1
+UNKNOWN,moneygram,TAMBOPATA,1
+UNKNOWN,moneygram,CHACLACAYO,1
+UNKNOWN,moneygram,CHINCHA ALTA,2
+UNKNOWN,moneygram,RIMAC,1
+UNKNOWN,moneygram,SAN MIGUEL,3
+UNKNOWN,moneygram,SAN JUAN,3
+UNKNOWN,moneygram,SURCO,2
+UNKNOWN,moneygram,CHOSICA,1
+UNKNOWN,moneygram,PISCO,1
+UNKNOWN,moneygram,ELAGUSTINO,1
+UNKNOWN,moneygram,PAITA,1
+UNKNOWN,moneygram,SULLANA,1
+UNKNOWN,moneygram,CHANCHAMAYO,3
+UNKNOWN,moneygram,MARISCAL NIETO,2
+UNKNOWN,moneygram,FERRENAFE,1
+UNKNOWN,moneygram,VILLA EL SALVADOR,2
+UNKNOWN,moneygram,S M PORRES,1
+UNKNOWN,moneygram,CANCHIS,1
+UNKNOWN,moneygram,VENTANILLA CALLAO,1
+UNKNOWN,moneygram,S J LURIGANCHO,1
+UNKNOWN,moneygram,CUTERVO,2
+UNKNOWN,moneygram,LEONCIO PRADO,1
+UNKNOWN,moneygram,PUEBLO LIBRE,1
+UNKNOWN,moneygram,TUMBES,1
+UNKNOWN,moneygram,TALARA,2
+UNKNOWN,moneygram,ILO,1
+UNKNOWN,moneygram,CASTILLA,2
+UNKNOWN,moneygram,CHORRILLOS,4
+UNKNOWN,moneygram,MORROPON,1
+UNKNOWN,moneygram,TARMA,2
+UNKNOWN,moneygram,ICA,2
+UNKNOWN,moneygram,NAZCA,1
+UNKNOWN,moneygram,PUENTE PIEDRA,2
+UNKNOWN,moneygram,COMAS,2
+UNKNOWN,moneygram,MOYOBAMBA,2
+UNKNOWN,moneygram,BAGUA,1
+UNKNOWN,moneygram,CAMANA,1
+UNKNOWN,moneygram,HUARAL,1
+UNKNOWN,moneygram,SAN BORJA,1
+UNKNOWN,moneygram,MELGAR,1
+UNKNOWN,moneygram,SANCHEZ CARRION,1
+UNKNOWN,moneygram,HUANCAVELICA,1
+UNKNOWN,moneygram,LA CONVENCION,1
+UNKNOWN,moneygram,HUANTA,1
+UNKNOWN,moneygram,SAN RAMON,1
+UNKNOWN,moneygram,HUACANA,1
+UNKNOWN,moneygram,ALTO AMAZONAS,1
+UNKNOWN,moneygram,HUAYLLAY,1
+UNKNOWN,moneygram,CHOTA,2
+UNKNOWN,moneygram,ANDAHUAYLAS,1
+UNKNOWN,moneygram,LURIN,1
+UNKNOWN,moneygram,YAULI,1
+UNKNOWN,moneygram,AYABACA,1
+UNKNOWN,moneygram,BELLAVISTA,1
+UNKNOWN,moneygram,MARISCAL RAMON CASTILLA,1
+UNKNOWN,moneygram,CALCA,1
+UNKNOWN,moneygram,LAMAS,2
+UNKNOWN,moneygram,PAUCAR DEL SARA SARA,1
+UNKNOWN,moneygram,SAN PABLO,1
+UNKNOWN,moneygram,SANTA CRUZ,1
+UNKNOWN,moneygram,CELENDIN,1
+UNKNOWN,moneygram,HUARALL,1
+UNKNOWN,moneygram,TOCACHE,1
+UNKNOWN,moneygram,OTUZCO,1
+UNKNOWN,moneygram,YUNGAY,1
+UNKNOWN,moneygram,UCAYALI,1
+UNKNOWN,moneygram,ZARUMILLA,2
+UNKNOWN,moneygram,LA MERCED,1
+UNKNOWN,moneygram,PUNCHANA,1
+UNKNOWN,moneygram,PATAPO,1
+UNKNOWN,moneygram,CHIMBOTE,3
+UNKNOWN,moneygram,HUARI,1
+UNKNOWN,moneygram,BANOS,1
+UNKNOWN,moneygram,TONGO,1
+UNKNOWN,moneygram,ATE,1
+UNKNOWN,moneygram,MAGDALENA DEL MAR,1
+UNKNOWN,moneygram,MAGDALENA,1
+UNKNOWN,moneygram,INAPARI,1
+UNKNOWN,moneygram,ALTO DE LA CRUZ,1
+UNKNOWN,moneygram,POMACANCHI,1
+UNKNOWN,moneygram,MATANZA,1
+UNKNOWN,moneygram,JULIACA,1
+UNKNOWN,moneygram,IQUITOS,1
+UNKNOWN,moneygram,PUCALLPA,1
+UNKNOWN,moneygram,TARAPOTO,1
+UNKNOWN,moneygram,PERUATE,1
+UNKNOWN,moneygram,PICHARI,1
+UNKNOWN,moneygram,SIVIA,1
+UNKNOWN,moneygram,PION,1
+UNKNOWN,moneygram,LURIGANCHO,1
+UNKNOWN,moneygram,INDEPENDENCIA,2
+UNKNOWN,moneygram,LOS BANOS DEL INCA,1
+UNKNOWN,moneygram,TENIENTE LOPEZ,1
+UNKNOWN,moneygram,CAMPO VERDE,1
+UNKNOWN,moneygram,SAN JUAN BAUTISTA,1
+UNKNOWN,moneygram,PAMPAS CHICO,1
+UNKNOWN,moneygram,UCO,1
+UNKNOWN,moneygram,ECHARATE,1
+UNKNOWN,moneygram,LA BANDA,1
+UNKNOWN,moneygram,CHIRIACO,1
+UNKNOWN,moneygram,AMARILIS,1
+UNKNOWN,moneygram,INDEPENDECIA,1
+UNKNOWN,moneygram,TALAVERA DE LA REYNA,1
+UNKNOWN,moneygram,PUQUINA,1
+UNKNOWN,moneygram,PARCOY,1
+UNKNOWN,moneygram,NUEVO PROGRESO,1
+UNKNOWN,moneygram,SAN SEBASTIAN,1
+UNKNOWN,moneygram,ACORA,1
+UNKNOWN,moneygram,NUNOA,1
+UNKNOWN,moneygram,SOROCHUCO,1
+UNKNOWN,moneygram,MAZAMARI,1
+UNKNOWN,moneygram,LA HUACA,1
+UNKNOWN,moneygram,MANU,1
+UNKNOWN,moneygram,CRUCERO,1
+UNKNOWN,moneygram,CAYLLOMA,1
+UNKNOWN,moneygram,CUZCO,2
+UNKNOWN,moneygram,NAMBALLE,1
+UNKNOWN,moneygram,HUAMANGA,1
+UNKNOWN,moneygram,ACORIA,1
+UNKNOWN,moneygram,LAGUNAS,1
+UNKNOWN,moneygram,SAN JUAN DE LURIGANCHO,1
+UNKNOWN,moneygram,CONDORCANQUI,1
+UNKNOWN,moneygram,CHONGOS ALTO,1
+UNKNOWN,moneygram,ICHUNA,1
+UNKNOWN,moneygram,PAMPACOLCA,1
+UNKNOWN,moneygram,PUYUSCA,1
+UNKNOWN,moneygram,SANTA ANITA,1
+UNKNOWN,national,Lima,3
+UNKNOWN,next,Trujillo,1
+UNKNOWN,next,Lima Perú,1
+UNKNOWN,next,San Borja ,1
+UNKNOWN,next,Lima,1
+UNKNOWN,next,Lima 33,1
+UNKNOWN,next,de Surco Lima 18,1
+LIMA,nissan_europe,Lima,9
+AREQUIPA,nissan_europe,Arequipa,2
+JUNIN,nissan_europe,Huancayo,1
+LALIBERTAD,nissan_europe,Trujillo,2
+PIURA,nissan_europe,Piura,1
+LAMBAYEQUE,nissan_europe,Chiclayo,1
+HUÁNUCO,nissan_europe,Huánuco,1
+UCAYALI,nissan_europe,Pucallpa,1
+TACNA,nissan_europe,Tacna,1
+ANCASH,nissan_europe,Chimbote,1
+LORETO,nissan_europe,Iquitos,1
+PIURA,nissan_europe,Talara,1
+AYACUCHO,nissan_europe,Huamanga,1
+LIMAPROVINCIA,nissan_europe,Huaura,1
+CUSCO,nissan_europe,Wanchaq,1
+ICA,nissan_europe,Ica,1
+PUNO,nissan_europe,Juliaca,1
+MOQUEGUA,nissan_europe,Ilo,1
+AREQUIPA,nissan_europe,Camaná,1
+HUARAZ,nissan_europe,Huaraz,1
+CAJAMARCA,nissan_europe,Cajamarca,1
+SANMARTÍN,nissan_europe,Tarapoto,1
+LIM,orangetheory_fitness,La Molina,1
+UNKNOWN,pandora,Santiago de Surco,2
+UNKNOWN,pandora,San Isidro,1
+UNKNOWN,pandora,San Borja,1
+UNKNOWN,pandora,Miraflores,2
+UNKNOWN,pandora,Lima,7
+UNKNOWN,pandora,Cusco,1
+UNKNOWN,pandora,Callao,1
+UNKNOWN,pandora,Arequipa,1
+UNKNOWN,reebok,Lima,2
+LIM,reebok,Lima,2
+LMA,reebok,Lima,2
+UNKNOWN,scania,Cajamarca,1
+UNKNOWN,scania,Lambayeque,1
+UNKNOWN,scania,Cusco,1
+UNKNOWN,scania,Huancayo,1
+UNKNOWN,scania,Juliaca,1
+UNKNOWN,scania,Lima,1
+UNKNOWN,scania,Trujillo,1
+UNKNOWN,sixt,Tarapoto,1
+UNKNOWN,sixt,Talara,1
+UNKNOWN,sixt,Arequipa,1
+UNKNOWN,sixt,Piura,1
+UNKNOWN,sixt,Cuzco,1
+UNKNOWN,sixt,Callao,1
+UNKNOWN,sixt,Lima,1
+SOUTHAMERICA,the_north_face,LIMA,4
+SOUTHAMERICA,the_north_face,CUSCO,3
+SOUTHAMERICA,the_north_face,CAJAMARCA,1
+UNKNOWN,timberland,Lima-Surco,1
+UNKNOWN,united_colors_of_benetton,LIMA,2
+MADREDEDIOS,visa,TAMBOPATA,7
+PUERTOMALDONADO,visa,TAMBOPATA,4
+TAMBOPATA,visa,MADRE DE DIOS,4
+TAMBOPATA,visa,TAMBOPATA,3
+IBERIA,visa,TAHUAMANU,1
+PUNO,visa,DESAGUADERO,2
+DESAGUADERO,visa,CHUCUITO,1
+YUNGUYO,visa,YUNGUYO,1
+INAPARI,visa,TAHUAMANU,1
+PUNO,visa,SANDIA,1
+JULI,visa,CHUCUITO,1
+ILAVE,visa,EL COLLAO,1
+PUNO,visa,ILAVE,1
+HUANCANE,visa,HUANCANE,1
+PUNO,visa,HUANCANE,2
+PUNO,visa,PUNO,25
+JULIACA,visa,SAN ROMAN,3
+PUNO,visa,JULIACA,18
+SANROMAN,visa,PUNO,7
+SANRAMON,visa,PUNO,5
+AZANGARO,visa,AZANGARO,1
+SANROMAN,visa,JULIACA,4
+JULIACA,visa,SAN ROMÁN,1
+MANU,visa,MADRE DE DIOS,1
+PUNO,visa,AZÁNGARO,1
+MADREDEDIOS,visa,INAMBARI,1
+PUNO,visa,MACUSANI,1
+POCOLLAY,visa,TACNA,1
+TACNA,visa,CIUDAD NUEVA,2
+CIUDADNUEVA,visa,TACNA,1
+TACNA,visa,TACNA,51
+TACNA,visa,ALTO DE LA ALIANZA,1
+TACNA,visa,CERCADO,1
+TACNA,visa,CORONEL GREGORIO ALBARRACIN L,1
+TACNA,visa,CORONEL GREGORIO ALBARRACÍN LANCHIPA,3
+AYAVIRI,visa,MELGAR,1
+PUNO,visa,AYAVIRI,2
+JORGEBASADRE,visa,TACNA,2
+LOCUMBA,visa,JORGE BASADRE,1
+MARISCALNIETO,visa,MOQUEGUA,8
+MOQUEGUA,visa,OMATE,1
+MOQUEGUA,visa,MARISCAL NIETO,4
+MOQUEGUA,visa,MOQUEGUA,5
+SICUANI,visa,CANCHIS,1
+CUSCO,visa,SICUANI,5
+CANCHIS,visa,CUSCO,1
+MOQUEGUA,visa,SAN ANTONIO,1
+CUSCO,visa,OCONGATE,1
+CUSCO,visa,ESPINAR,3
+ILO,visa,ILO,6
+MOQUEGUA,visa,ILO,7
+ILO,visa,MOQUEGUA,5
+ILO,visa,PACOCHA,1
+LIMA,visa,SAN BORJA,43
+AREQUIPA,visa,PAUCARPATA,10
+AREQUIPA,visa,AREQUIPA,128
+AREQUIPA,visa,MARIANO MELGAR,1
+AREQUIPA,visa,MIRAFLORES,6
+PAUCARPATA,visa,AREQUIPA,2
+CUSCO,visa,OROPESA,1
+AREQUIPA,visa,ALTO SELVA ALEGRE,2
+MIRAFLORES,visa,AREQUIPA,2
+AREQUIPA,visa,JOSÉ LUIS BUSTAMANTE Y RIVERO,12
+ALTOSELVAALEGRE,visa,AREQUIPA,1
+AREQUIPA,visa,SELVA ALEGRE,1
+JACOBOHUNTER,visa,AREQUIPA,1
+AREQUIPA,visa,CHIVAY,2
+AREQUIPA,visa,SOCABAYA,2
+AREQUIPA,visa,JOSE LUIS BUSTAMANTE Y RIVERO,3
+JOSELBUSTAMANTEYRIV,visa,AREQUIPA,1
+JOSELUISBUSTAMANTEYRI,visa,AREQUIPA,1
+AREQUIPA,visa,CAYMA,14
+AREQUIPA,visa,YANAHUARA,8
+LAMERCED,visa,CHANCHAMAYO,2
+YANAHUARA,visa,AREQUIPA,1
+AREQUIPA,visa,CERCADO,1
+CAYMA,visa,AREQUIPA,2
+AREQUIPA,visa,JACOBO HUNTER,7
+AREQUIPA,visa,CERRO COLORADO,16
+CALCA,visa,PISAQ,1
+PISAC,visa,URUBAMBA,1
+CUSCO,visa,PISAC,1
+CUSCO,visa,CUSCO,90
+AREQUIPA,visa,YURA,2
+CUSCO,visa,SAN JERÓNIMO,3
+CUSCO,visa,SAN JERONIMO,2
+CUSCO,visa,SAN SEBASTIÁN,7
+CUSCO,visa,SAN SEBASTIAN,2
+MAJES,visa,CAYLLOMA,1
+CUSCO,visa,CALCA,1
+CALCA,visa,CALCA,1
+CUSCO,visa,WANCHAQ,19
+CAJAMARCA,visa,CAJAMARCA,55
+WANCHAQ,visa,CUSCO,3
+CUSCO,visa,SANTIAGO,7
+SANJERONIMO,visa,CUSCO,1
+URCOS,visa,QUISPICANCHI,1
+YAURI,visa,ESPINAR,1
+SANTOTOMAS,visa,CHUMBIVILCAS,1
+CUSCO,visa,CHINCHERO,1
+AREQUIPA,visa,COCACHACRA,2
+URUBAMBA,visa,CUSCO,4
+CUSCO,visa,URUBAMBA,3
+URUBAMBA,visa,URUBAMBA,3
+AREQUIPA,visa,LA JOYA,1
+ANTA,visa,ANTA,1
+CUSCO,visa,ANTA,2
+URUBAMBA,visa,OLLANTAYTAMBO,1
+IQUITOS,visa,LORETO,3
+APURÍMAC,visa,CHALLHUAHUACHO,1
+AREQUIPA,visa,MOLLENDO,2
+ISLAY,visa,AREQUIPA,2
+MOLLENDO,visa,ISLAY,1
+COTABAMBAS,visa,COTABAMBAS,1
+AREQUIPA,visa,MAJES,8
+CAYLLOMA,visa,AREQUIPA,1
+CASTILLA,visa,AREQUIPA,1
+ORCOPAMPA,visa,CASTILLA,1
+URUBAMBA,visa,MACHUPICCHU,2
+CUSCO,visa,MACHUPICCHU,1
+MACHUPICCHU,visa,URUBAMBA,1
+ECHARATE,visa,LA CONVENCION,2
+QUILLABAMBA,visa,LA CONVENCION,2
+SANTAANA,visa,LA CONVENCION,1
+LACONVENCION,visa,CUSCO,1
+CUSCO,visa,SANTA ANA,3
+AREQUIPA,visa,URACA,1
+APURÍMAC,visa,CURAHUASI,1
+APLAO,visa,CASTILLA,1
+MAYNAS,visa,LORETO,10
+MAYNAS,visa,IQUITOS,6
+IQUITOS,visa,IQUITOS,1
+IQUITOS,visa,MAYNAS,4
+LORETO,visa,IQUITOS,4
+MAYNAS,visa,PUNCHANA,1
+PUNCHANA,visa,MAYNAS,1
+MAYNAS,visa,BELEN,2
+LORETO,visa,SAN JUAN BAUTISTA,1
+SANJUANBAUTISTA,visa,MAYNAS,1
+MAYNAS,visa,SAN JUAN BAUTISTA,1
+APURÍMAC,visa,ABANCAY,5
+ABANCAY,visa,APURIMAC,2
+ABANCAY,visa,ABANCAY,4
+CAMANA,visa,CAMANA,3
+AREQUIPA,visa,CAMANÁ,4
+CAMANA,visa,AREQUIPA,1
+CUSCO,visa,ECHARATE,1
+KITENI,visa,LA CONVENCION,1
+AREQUIPA,visa,COTAHUASI,1
+CABALLOCOCHA,visa,RAMON CASTILLA,1
+NAUTA,visa,NAUTA,1
+ANDAHUAYLAS,visa,ANDAHUAYLAS,3
+ANDAHUAYLAS,visa,APURIMAC,1
+SANRAMON,visa,LA MERCED,1
+APURÍMAC,visa,ANDAHUAYLAS,4
+APURIMAC,visa,ANDAHUAYLAS,1
+REQUENA,visa,IQUITOS,1
+RAYMONDI,visa,ATALAYA,2
+UCAYALI,visa,RAYMONDI,1
+CHINCHEROS,visa,CHINCHEROS,1
+KIMBIRI,visa,LA CONVENCION,1
+AYNA,visa,LA MAR,1
+CUSCO,visa,PICHARI,1
+PICHARI,visa,LA CONVENCION,2
+AREQUIPA,visa,ATICO,1
+CORACORA,visa,PARINACOCHAS,1
+VICTORFAJARDO,visa,AYACUCHO,1
+SANMIGUEL,visa,LA MAR,1
+AYACUCHO,visa,AYACUCHO,5
+CHUSCHI,visa,CANGALLO,1
+CARMENALTO,visa,HUAMANGA,1
+AYACUCHO,visa,SAN JUAN BAUTISTA,1
+HUANTA,visa,HUANTA,3
+HUAMANGA,visa,AYACUCHO,11
+AYACUCHO,visa,HUAMANGA,3
+AYACUCHO,visa,PUQUIO,3
+VINCHOS,visa,HUAMANGA,1
+AYACUCHO,visa,HUANTA,1
+UCAYALI,visa,CALLERÍA,8
+CORONELPORTILLO,visa,CALLERIA,6
+PUCALLPA,visa,CORONEL PORTILLO,5
+UCAYALI,visa,PUCALLPA,7
+CORONELPORTILLO,visa,UCAYALI,7
+PUCALLPA,visa,CORONOL PORTILLO,1
+CALLERIA,visa,CORONEL PORTILLO,1
+CORONELPORTILLO,visa,YARINACOCHA,3
+YARINACOCHA,visa,CORONEL PORTILLO,2
+PUQUIO,visa,LUCANAS,1
+SANMARTINDEPANGO,visa,SATIPO,1
+CHURCAMPA,visa,CHURCAMPA,1
+MAZAMARI,visa,SATIPO,2
+AREQUIPA,visa,CHALA,1
+CHALA,visa,CARAVELI,1
+SATIPO,visa,SATIPO,3
+JUNÍN,visa,SATIPO,2
+SATIPO,visa,JUNIN,1
+LASLOMAS,visa,PIURA,1
+HUANCAVELICA,visa,ACOBAMBA,1
+ACOBAMBA,visa,ACOBAMBA,1
+UCAYALI,visa,CAMPOVERDE,1
+HUANCAVELICA,visa,PAUCARA,1
+LIRCAY,visa,ANGARAES,2
+HUANCAVELICA,visa,LIRCAY,1
+CONTAMANA,visa,UCAYALLI,1
+CHANCHAMAYO,visa,PICHANAQUI,1
+CHANCHAMAYO,visa,JUNIN,6
+PICHANAQUI,visa,CHANCHAMAYO,1
+JUNÍN,visa,PICHANAQUI,2
+PUERTOBERMUDEZ,visa,OXAPAMPA,1
+ACARI,visa,CARAVELI,1
+PASCO,visa,CONSTITUCIÓN,1
+PAMPAS,visa,TAYACAJA,1
+HUANCAVELICA,visa,HUANCAVELICA,8
+IZCUCHACA,visa,HUANCAVELICA,1
+NAZCA,visa,NAZCA,4
+NASCA,visa,ICA,1
+ICA,visa,NAZCA,2
+NAZCA,visa,ICA,2
+SANJUANDEMARCONA,visa,NAZCA,1
+VILLAPERENÉ,visa,CHANCHAMAYO,1
+HUANCAYO,visa,JUNIN,24
+HUANCAYO,visa,HUANCAYO,20
+CHILCA,visa,HUANCAYO,2
+JUNÍN,visa,CHILCA,3
+HUANCAYO,visa,CHILCA,2
+JUNÍN,visa,HUANCAYO,9
+HUANCAYO,visa,EL TAMBO,7
+ELTAMBO,visa,HUANCAYO,3
+PERIFERICA,visa,HUANCAYO,2
+JUNÍN,visa,EL TAMBO,4
+JUNÍN,visa,SAN AGUSTÍN DE CAJAS,1
+JUNÍN,visa,CHANCHAMAYO,3
+CHANCHAMAYO,visa,CHANCHAMAYO,2
+JUNÍN,visa,CHUPACA,4
+CHUPACA,visa,CHUPACA,1
+CHUPACA,visa,HUANCAYO,1
+CONCEPCION,visa,HUANCAYO,1
+PASCO,visa,OXAPAMPA,3
+OXAPAMPA,visa,PASCO,1
+PALPA,visa,PALPA,1
+ICA,visa,PALPA,1
+UCAYALI,visa,PADRE ABAD,3
+AGUAYTIA,visa,PADRE ABAD,1
+NAZCA,visa,MARCONA,1
+CHUPACA,visa,YANACANCHA,1
+JUNÍN,visa,JAUJA,1
+JUNÍN,visa,YAUYOS,1
+JAUJA,visa,JAUJA,3
+JAUJA,visa,JUNIN,1
+HUASAHUASI,visa,TARMA,1
+JUNÍN,visa,TARMA,3
+TARMA,visa,TARMA,2
+TARMA,visa,JUNIN,2
+ICA,visa,SANTIAGO,5
+PARCONA,visa,ICA,1
+ICA,visa,PARCONA,2
+ICA,visa,ICA,58
+YURIMAGUAS,visa,ALTO AMAZONAS,2
+LORETO,visa,YURIMAGUAS,4
+ALTOAMAZONAS,visa,LORETO,2
+ICA,visa,SUBTANJALLA,1
+LEONCIOPRADO,visa,RUPARUPA,1
+RUPARUPA,visa,LEONCIO PRADO,1
+AUCAYACU,visa,LEONCIO PRADO,1
+HUÁNUCO,visa,RUPA-RUPA,3
+LEONCIOPRADO,visa,HUANUCO,2
+TINGOMARIA,visa,HUANUCO,1
+YAULI,visa,JUNIN,2
+LAOROYA,visa,YAULI,2
+ICA,visa,SALAS,2
+HUÁNUCO,visa,PANAO,1
+JUNÍN,visa,LA OROYA,1
+YAULI,visa,SANTA ROSA DE SACCO,1
+JUNIN,visa,JUNIN,1
+PASCO,visa,PASCO,4
+PICOTA,visa,PICOTA,1
+SANMARTÍN,visa,PICOTA,1
+LABANDADESHILCAYO,visa,SAN MARTIN,1
+TARAPOTO,visa,SAN MARTIN,4
+SANMARTÍN,visa,TARAPOTO,9
+HUANUCO,visa,HUANUCO,20
+SANMARTIN,visa,SAN MARTIN,9
+SANMARTIN,visa,TARAPOTO,5
+AMARILIS,visa,HUANUCO,2
+SANMARTÍN,visa,SAN MARTÍN,3
+HUÁNUCO,visa,HUÁNUCO,5
+PILLCOMARCA,visa,HUANUCO,1
+SANMARTÍN,visa,NUEVO PROGRESO,1
+VILLARICA,visa,OXAPAMPA,1
+PASCO,visa,YANACANCHA,3
+PASCO,visa,CHAUPIMARCA,1
+LUNAHUANA,visa,CANETE,1
+CHAUPIMARCA,visa,PASCO,2
+HUARIACA,visa,PASCO,1
+OXAPAMPA,visa,OXAPAMPA,1
+POZUZO,visa,OXAPAMPA,1
+CHINCHA,visa,ICA,13
+CHINCHA,visa,CHINCHA ALTA,6
+ICA,visa,CHINCHA ALTA,6
+CHINCHAALTA,visa,CHINCHA,3
+CHINCHA,visa,CHINCHA BAJA,1
+PISCO,visa,PISCO,4
+PISCO,visa,ICA,12
+LAMAS,visa,LAMAS,2
+ICA,visa,PISCO,4
+SANMARTÍN,visa,UCHIZA,1
+UCHIZA,visa,TOCACHE,2
+SANMARTÍN,visa,TOCACHE,2
+TOCACHE,visa,TOCACHE,1
+PISCO,visa,PARACAS,1
+BELLAVISTA,visa,BELLAVISTA,1
+SANMARTÍN,visa,BELLAVISTA,1
+LIMA,visa,IMPERIAL,1
+CANETE,visa,LIMA,14
+SANVICENTEDECANETE,visa,IMPERIAL,1
+CERRODEPASCO,visa,PASCO,2
+LIMA,visa,SAN VICENTE DE CAÑETE,2
+SANVICENTEDECANETE,visa,CANETE,2
+SANVICENTEDECANETE,visa,SAN VICENTE DE CANETE,2
+LIMA,visa,SAN VICENTE DE CANETE,1
+JUANJUI,visa,MARISCAL CACERES,1
+SANMARTÍN,visa,JUANJUÍ,1
+MARISCALCACERES,visa,SAN MARTIN,1
+SANMARTÍN,visa,SAPOSOA,1
+SAPOSOA,visa,HUALLAGA,1
+CANTA,visa,CANTA,1
+SANVICENTEDECANETE,visa,ASIA,2
+LIMA,visa,ASIA,1
+CAÑETE,visa,LIMA,4
+MALA,visa,CAÑETE,1
+LIMA,visa,MALA,1
+SANVICENTEDECANETE,visa,MALA,1
+LAUNION,visa,DOS DE MAYO,1
+LLATA,visa,HUAMALIES,1
+LIMA,visa,LIMA,1336
+LIMA,visa,LURIGANCHO,9
+CHOSICA,visa,LIMA,2
+OYON,visa,LIMA,1
+OYON,visa,OYON,1
+MOYOBAMBA,visa,MOYOBAMBA,5
+MOYOBAMBA,visa,SAN MARTIN,3
+SANMARTÍN,visa,MOYOBAMBA,3
+SANVICENTEDECANETE,visa,CHILCA,1
+LURIGANCHO,visa,LIMA,1
+LIMA,visa,CHACLACAYO,2
+CHACLACAYO,visa,LIMA,2
+LIMA,visa,SAN BARTOLO,1
+HUAROCHIRI,visa,LIMA,2
+CIENEGUILLA,visa,LIMA,1
+LIMA,visa,PUCUSANA,1
+LIMA,visa,ATE,11
+LIMA,visa,ATE VITARTE,27
+LIMA,visa,LURÍN,4
+LIMA,visa,PUNTA HERMOSA,2
+LIMA,visa,LURIN,11
+LIMA,visa,PACHACAMAC,5
+PACHACAMAC,visa,LIMA,1
+SANMARTÍN,visa,SORITOR,1
+LIMA,visa,LA MOLINA,30
+LURIN,visa,LIMA,1
+LIMA,visa,VILLA MARÍA DEL TRIUNFO,5
+ATEVITARTE,visa,LIMA,8
+LIMA,visa,VILLA MARIA DEL TRIUNFO,12
+LIMA,visa,VILLA EL SALVADOR,18
+VILLAMARIADELTRIUNFO,visa,LIMA,4
+LIMA,visa,SANTA ANITA,18
+RIOJA,visa,RIOJA,1
+LIMA,visa,LA VICTORIA,32
+LIMA,visa,SAN ISIDRO,53
+LAMOLINA,visa,LIMA,4
+RIOJA,visa,SAN MARTIN,2
+SANMARTÍN,visa,RIOJA,3
+VILLAELSALVADOR,visa,LIMA,3
+SANTAANITA,visa,LIMA,3
+LIMA,visa,SAN JUAN DE LURIGANCHO,50
+SANJUANDEMIRAFLORES,visa,LIMA,4
+LIMA,visa,SANTIAGO DE SURCO,67
+LIMA,visa,SAN JUAN DE MIRAFLORES,24
+SANJUANDELURIGANCHO,visa,LIMA,9
+LIMA,visa,EL AGUSTINO,9
+SANTIAGODESURCO,visa,LIMA,13
+LIMA,visa,SURCO,1
+LIMA,visa,CHORRILLOS,35
+ELAGUSTINO,visa,LIMA,2
+LIMA,visa,SAN LUIS,5
+CALLAO,visa,LIMA,46
+PIURA,visa,PIURA,108
+SANBORJA,visa,LIMA,8
+SANLUIS,visa,LIMA,1
+CHORRILLOS,visa,LIMA,13
+LIMA,visa,SURQUILLO,22
+SURQUILLO,visa,LIMA,6
+LIMA,visa,CARABAYLLO,8
+LIMA,visa,MIRAFLORES,55
+LAVICTORIA,visa,LIMA,9
+CERCADO,visa,LIMA,34
+SANISIDRO,visa,LIMA,5
+CARABAYLLO,visa,LIMA,2
+LIMA,visa,RIMAC,10
+LIMA,visa,COMAS,23
+LIMA,visa,BARRANCO,6
+LIMA,visa,CERCADO DE LIMA,64
+BARRANCO,visa,LIMA,1
+SANTA,visa,NUEVO CHIMBOTE,2
+RIMAC,visa,LIMA,7
+LIMA,visa,LINCE,17
+MIRAFLORES,visa,LIMA,4
+COMAS,visa,LIMA,7
+LINCE,visa,LIMA,2
+LIMA,visa,JESUS MARIA,19
+JESUSMARIA,visa,LIMA,14
+LIMA,visa,BRENA,12
+LIMA,visa,JESÚS MARÍA,6
+BRENA,visa,LIMA,1
+LIMA,visa,BREÑA,1
+BREÑA,visa,LIMA,3
+LIMA,visa,INDEPENDENCIA,29
+SANMARTINDEPORRES,visa,LIMA,6
+LIMA,visa,SAN MARTÍN DE PORRES,5
+LIMA,visa,SAN MARTIN DE PORRES,19
+HUARI,visa,HUARI,1
+LIMA,visa,PUEBLO LIBRE,11
+LIMA,visa,LOS OLIVOS,42
+INDEPENDENCIA,visa,LIMA,6
+LIMA,visa,MAGDALENA DEL MAR,16
+LIMA,visa,INDEPENDECIA,1
+LIMA,visa,MAGDALENA  DEL MAR,1
+SANTA,visa,CHIMBOTE,18
+LALIBERTAD,visa,TRUJILLO,21
+LOSOLIVOS,visa,LIMA,5
+PUENTEPIEDRA,visa,LIMA,2
+LIMA,visa,MAGDALENA,1
+PUEBLOLIBRE,visa,LIMA,2
+LIMA,visa,PUENTE PIEDRA,9
+MAGDALENA,visa,LIMA,4
+CHAVINDEHUANTAR,visa,HUARI,1
+LIMA,visa,SAN MIGUEL,30
+SANMIGUEL,visa,LIMA,6
+NUEVACAJAMARCA,visa,RIOJA,1
+CALLAO,visa,CALLAO,85
+SANMARTÍN,visa,NUEVA CAJAMARCA,1
+LIMA,visa,CALLAO,10
+CALLAO,visa,CARMEN DE LA LEGUA REYNOSO,1
+CARMENDELALEGUA,visa,CALLAO,1
+LIMA,visa,CARMEN DE LA LEGUA REYNOSO,1
+CALLAO,visa,BELLAVISTA,3
+BELLAVISTA,visa,LIMA,1
+CARMENDELALEGUA,visa,LIMA,1
+CALLAO,visa,LA PERLA,2
+LAPERLACALLAO,visa,LIMA,1
+CALLAO,visa,VENTANILLA,3
+LIMA,visa,VENTANILLA,5
+VENTANILLA,visa,LIMA,2
+VENTANILLA,visa,CALLAO,1
+LAPERLA,visa,CALLAO,1
+BELLAVISTA,visa,CALLAO,3
+LIMA,visa,SANTA ROSA,1
+TAYABAMBA,visa,PATAZ,1
+CALLAO,visa,LA PUNTA,2
+TUMBES,visa,TUMBES,21
+ANCON,visa,LIMA,1
+HUAURA,visa,LIMA,8
+LIMA,visa,HUARAL,4
+HUARAL,visa,LIMA,6
+HUARAL,visa,HUARAL,5
+SANLUIS,visa,CARLOS FERMIN FITZCARRA,1
+HUARAL,visa,CHANCAY,2
+CHANCAY,visa,HUARAL,1
+AMAZONAS,visa,SAN NICOLÁS,1
+SANNICOLAS,visa,RODRIGUEZ DE MENDOZA,1
+PATAZ,visa,PARCOY,1
+POMABAMBA,visa,POMABAMBA,1
+HUARAZ,visa,ANCASH,5
+HUARAZ,visa,HUARAZ,8
+ANCASH,visa,HUARAZ,2
+INDEPENDENCIA,visa,HUARAZ,1
+ANCASH,visa,ANTA,1
+SIHUAS,visa,SIHUAS,1
+CARHUAZ,visa,CARHUAZ,1
+HUAURA,visa,HUAURA,1
+LIMA,visa,HUACHO,5
+HUACHO,visa,LIMA,2
+HUAURA,visa,HUACHO,6
+UNKNOWN,visa,LORETO,1
+HUACHO,visa,HUAURA,3
+YUNGAY,visa,YUNGAY,1
+TRUJILLO,visa,LA LIBERTAD,70
+AMAZONAS,visa,CHACHAPOYAS,4
+SUPE,visa,BARRANCA,1
+CHACHAPOYAS,visa,CHACHAPOYAS,3
+CHACHAPOYAS,visa,AMAZONAS,1
+ANCASH,visa,CARAZ,1
+CARAZ,visa,HUAYLAS,1
+HUAYLAS,visa,ANCASH,1
+BARRANCA,visa,LIMA,8
+BARRANCA,visa,BARRANCA,4
+LIMA,visa,BARRANCA,2
+PARAMONGA,visa,BARRANCA,1
+AMAZONAS,visa,FLORIDA,1
+AMAZONAS,visa,JAZÁN,1
+CAJAMARCA,visa,CAJABAMBA,2
+BAMBAMARCA,visa,HUALGAYOC,1
+HUAMACHUCO,visa,SANCHEZ,1
+HUAMACHUCO,visa,SANCHEZ CARRION,1
+SANCHEZCARRION,visa,LA LIBERTAD,1
+SANCHEZCARRION,visa,HUAMACHUCO,1
+LALIBERTAD,visa,HUAMACHUCO,2
+JAZAN,visa,BONGARA,1
+CELENDIN,visa,CELENDIN,2
+CAJAMARCA,visa,CELENDÍN,1
+SANMARCOS,visa,SAN MARCOS,1
+CAJAMARCA,visa,PEDRO GÁLVEZ,1
+SANTIAGODECHUCO,visa,SANTIAGO DE CHUCO,1
+CASMA,visa,ANCASH,2
+HUARMEY,visa,HUARMEY,1
+SANTAMARIADENIEVA,visa,CONDORCANQUI,1
+SANTA,visa,NEPENA,1
+CASMA,visa,CASMA,2
+AMAZONAS,visa,LONYA GRANDE,1
+BAGUAGRANDE,visa,UTCUBAMBA,3
+AMAZONAS,visa,BAGUA GRANDE,2
+UTCUBAMBA,visa,AMAZONAS,1
+LOSBANOSDELINCA,visa,CAJAMARCA,1
+CAJAMARCA,visa,LOS BANOS DEL INCA,1
+CAJAMARCA,visa,LOS BAÑOS DEL INCA,1
+BAGUACHICA,visa,BAGUA,2
+AMAZONAS,visa,BAGUA,1
+BAGUA,visa,AMAZONAS,1
+HUALGAYOC,visa,CAJAMARCA,1
+CAJAMARCA,visa,BAMBAMARCA,2
+CAJABAMBA,visa,CAJABAMBA,1
+NUEVOCHIMBOTE,visa,SANTA,3
+OTUZCO,visa,OTUZCO,1
+LALIBERTAD,visa,OTUZCO,1
+CHIMBOTE,visa,ANCASH,2
+CAJAMARCA,visa,TACABAMBA,1
+ANCASH,visa,NUEVO CHIMBOTE,1
+ANCASH,visa,CHIMBOTE,5
+SANTA,visa,ANCASH,6
+CAJAMARCA,visa,CHOTA,2
+CHOTA,visa,CAJAMARCA,3
+CHOTA,visa,CHOTA,3
+CHIMBOTE,visa,SANTA,1
+NEPEÑA,visa,SANTA,1
+SANTA,visa,SANTA,1
+CAJAMARCA,visa,CHETILLA,1
+CAJAMARCA,visa,SOCOTA,1
+JAEN,visa,JAEN,7
+CAJAMARCA,visa,JAÉN,5
+JAEN,visa,CAJAMARCA,3
+VIRU,visa,VIRU,6
+LALIBERTAD,visa,VIRÚ,1
+CAJAMARCA,visa,CUTERVO,1
+CUTERVO,visa,CUTERVO,2
+CHILETE,visa,CONTUMAZA,1
+CAJAMARCA,visa,SAN MIGUEL,1
+SANMIGUEL,visa,SAN MIGUEL,1
+CAJAMARCA,visa,SANTA CRUZ,1
+SANIGNACIO,visa,SAN IGNACIO,2
+CAJAMARCA,visa,SAN IGNACIO,1
+LAREDO,visa,TRUJILLO,1
+SANTACRUZ,visa,SANTA CRUZ,1
+LALIBERTAD,visa,EL PORVENIR,3
+TRUJILLO,visa,EL PORVENIR,2
+TRUJILLO,visa,TRUJILLO,63
+VÍCTORLARCO,visa,TRUJILLO,1
+TRUJILLO,visa,VICTOR LARCO HERRERA,6
+LALIBERTAD,visa,LA ESPERANZA,2
+TRUJILLO,visa,LA ESPERANZA,2
+SALAVERRY,visa,TRUJILLO,1
+PAIJAN,visa,ASCOPE,1
+TRUJILLO,visa,HUANCHACO,2
+CASAGRANDE,visa,ASCOPE,1
+ASCOPE,visa,CASA GRANDE,1
+CHOCOPE,visa,ASCOPE,1
+ASCOPE,visa,SANTIAGO DE CAO,1
+LAMBAYEQUE,visa,OYOTÚN,1
+HUANCABAMBA,visa,HUANCABAMBA,1
+PIURA,visa,HUANCABAMBA,1
+CHEPEN,visa,LA LIBERTAD,2
+CHEPEN,visa,CHEPEN,2
+LALIBERTAD,visa,CHEPÉN,2
+TALAVERA,visa,ANDAHUAYLAS,1
+GUADALUPE,visa,PACASMAYO,1
+CHICLAYO,visa,CHICLAYO,42
+PACASMAYO,visa,LA LIBERTAD,3
+LALIBERTAD,visa,PACASMAYO,2
+PASCASMAYO,visa,PASCAMAYO,1
+SANPEDRODELLOC,visa,PACASMAYO,1
+PIURA,visa,PACAIPAMPA,1
+PÁTAPO,visa,CHICLAYO,1
+AYABACA,visa,AYABACA,1
+PIURA,visa,AYABACA,2
+MOTUPE,visa,LAMBAYEQUE,1
+LAMBAYEQUE,visa,MOTUPE,2
+LAMBAYEQUE,visa,LAMBAYEQUE,9
+LAMBAYEQUE,visa,OLMOS,1
+POMALCA,visa,CHICLAYO,1
+LAMBAYEQUE,visa,JAYANCA,1
+LAMBAYEQUE,visa,FERREÑAFE,1
+CHICLAYO,visa,LAMBAYEQUE,52
+LAMBAYEQUE,visa,FERRENAFE,1
+FERRENAFE,visa,FERRENAFE,1
+FERREÑAFE,visa,FERREÑAFE,1
+PIURA,visa,SALITRAL,1
+JAYANCA,visa,LAMBAYEQUE,1
+OLMOS,visa,LAMBAYEQUE,1
+LAMBAYEQUE,visa,CHICLAYO,18
+LAMBAYEQUE,visa,LA VICTORIA,1
+PERIFERICA,visa,CHICLAYO,1
+LAVICTORIA,visa,CHICLAYO,1
+LAMBAYEQUE,visa,JOSÉ LEONARDO ORTIZ,2
+CHICLAYO,visa,JOSE LEONARDO ORTIZ,1
+CHICLAYO,visa,LA VICTORIA,1
+TUMÁN,visa,CHICLAYO,1
+TUCUME,visa,LAMBAYEQUE,1
+SANTAELENA,visa,CHICLAYO,1
+CAYALTI,visa,CHICLAYO,1
+CHONGOYAPE,visa,CHICLAYO,1
+MONSEFU,visa,CHICLAYO,1
+PIURA,visa,PAIMAS,1
+PIMENTEL,visa,CHICLAYO,1
+PIURA,visa,MORROPÓN,1
+CHULUCANAS,visa,MORROPON,2
+MORROPON,visa,PIURA,2
+MORROPON,visa,CHULUCANAS,1
+PIURA,visa,CHULUCANAS,1
+AGUASVERDES,visa,ZARUMILLA,2
+ZARUMILLA,visa,AGUAS VERDES,1
+ZARUMILLA,visa,TUMBES,1
+TUMBES,visa,AGUAS VERDES,2
+PIURA,visa,LAS LOMAS,1
+ZARUMILLA,visa,ZARUMILLA,1
+PIURA,visa,TAMBOGRANDE,1
+TUMBES,visa,CORRALES,1
+PIURA,visa,CASTILLA,9
+CASTILLA,visa,PIURA,2
+TALARA,visa,PIURA,7
+CATACAOS,visa,PIURA,1
+TAMBOGRANDE,visa,PIURA,1
+SULLANA,visa,SULLANA,12
+PIURA,visa,27 DE OCTUBRE,1
+PIURA,visa,VEINTISÉIS DE OCTUBRE,7
+PIURA,visa,QUERECOTILLO,1
+CONTRALMIRANTEVILLAR,visa,ZORRITOS,1
+TUMBES,visa,ZORRITOS,2
+ZORRITOS,visa,CONTRA ALMIRANTE VILLAR,1
+PIURA,visa,CATACAOS,3
+PIURA,visa,SULLANA,10
+SULLANA,visa,PIURA,9
+PIURA,visa,LA UNIÓN,3
+LAUNION,visa,PIURA,1
+SECHURA,visa,BELLAVISTA DE LA UNION,1
+PIURA,visa,VICE,1
+SECHURA,visa,SECHURA,1
+PIURA,visa,SECHURA,1
+SECHURA,visa,PIURA,1
+PIURA,visa,IGNACIO ESCUDERO,2
+MANCORA,visa,TALARA,1
+TALARA,visa,MANCORA,2
+PIURA,visa,MÁNCORA,1
+PAITA,visa,PAITA,5
+PAITA,visa,PIURA,4
+PIURA,visa,PAITA,2
+TALARA,visa,LOS ORGANOS,1
+PIURA,visa,PARIÑAS,4
+TALARA,visa,PARINAS,8
+TALARA,visa,TALARA,1
+CAJAMARCA,western_union,San Ignacio,5
+CAJAMARCA,western_union,Jaen,6
+CAJAMARCA,western_union,Cajamarca,14
+AMAZONAS,western_union,Bagua,4
+LALIBERTAD,western_union,Vir�,1
+LALIBERTAD,western_union,Viru,3
+LALIBERTAD,western_union,Trujillo,47
+LALIBERTAD,western_union,La Libertad,9
+LALIBERTAD,western_union,Santiago De Chuco,2
+SANMARTIN,western_union,Picota,1
+SANMARTIN,western_union,Bellavista,1
+SANMARTIN,western_union,Juanjui,2
+PIURA,western_union,Talara,6
+LORETO,western_union,Alto Amazonas,3
+LORETO,western_union,Yurimaguas,1
+LALIBERTAD,western_union,La Esperanza,1
+LALIBERTAD,western_union,El Porvenir,2
+LALIBERTAD,western_union,Huanchaco,1
+LORETO,western_union,Tarapoto,1
+SANMARTIN,western_union,San Martin,9
+SANMARTIN,western_union,Tarapoto,2
+HUANUCO,western_union,Nuevo Progreso,1
+LALIBERTAD,western_union,Junin,1
+SANMARTIN,western_union,Uchiza,1
+TUMBES,western_union,Tumbes,9
+LALIBERTAD,western_union,Otuzco,1
+LALIBERTAD,western_union,Sanchez Carrion,5
+LALIBERTAD,western_union,Huamachuco,1
+TUMBES,western_union,Contralmirante Villar,1
+TUMBES,western_union,Zarumilla,2
+TUMBES,western_union,Aguas Verdes,1
+SANMARTIN,western_union,Lamas,1
+LALIBERTAD,western_union,Ascope,2
+PIURA,western_union,Paita,5
+CAJAMARCA,western_union,Cajabamba,5
+LALIBERTAD,western_union,Pacasmayo,4
+PIURA,western_union,Sechura,3
+PIURA,western_union,Piura,24
+PIURA,western_union,Sullana,7
+PIURA,western_union,La Union,2
+CAJAMARCA,western_union,San Marcos,1
+CAJAMARCA,western_union,Pedro Galvez,1
+PIURA,western_union,Bellavista,1
+LALIBERTAD,western_union,Chepen,8
+LALIBERTAD,western_union,Paijan,1
+LAMBAYEQUE,western_union,Chiclayo,17
+LAMBAYEQUE,western_union,Oyotun,1
+LAMBAYEQUE,western_union,Lambayeque,15
+LAMBAYEQUE,western_union,Jose Leonardo Ortiz,2
+SANMARTIN,western_union,Moyobamba,6
+PIURA,western_union,Chulucanas,1
+PIURA,western_union,Castilla,1
+CAJAMARCA,western_union,Celendin,3
+SANMARTIN,western_union,Nueva Cajamarca,2
+SANMARTIN,western_union,Rioja,3
+LAMBAYEQUE,western_union,Patapo,2
+AMAZONAS,western_union,Rodriguez De Mendoza,2
+AMAZONAS,western_union,San Nicolas,1
+LAMBAYEQUE,western_union,La Victoria,1
+LAMBAYEQUE,western_union,Ferrenafe,1
+PIURA,western_union,Tambogrande,1
+LAMBAYEQUE,western_union,Cayalti,1
+HUANUCO,western_union,Leoncio Prado,5
+PIURA,western_union,Ayabaca,3
+LAMBAYEQUE,western_union,Jayanca,1
+PIURA,western_union,Morropon,5
+CAJAMARCA,western_union,Chota,4
+LAMBAYEQUE,western_union,Olmos,1
+AMAZONAS,western_union,Condorcanqui,1
+AMAZONAS,western_union,Chachapoyas,5
+LAMBAYEQUE,western_union,Motupe,1
+AMAZONAS,western_union,Bagua Grande,1
+PIURA,western_union,Huancabamba,3
+CAJAMARCA,western_union,Pucara,1
+AMAZONAS,western_union,Bongara,1
+AMAZONAS,western_union,Jazan,2
+CAJAMARCA,western_union,Cutervo,3
+CAJAMARCA,western_union,Tacabamba,1
+ANCASH,western_union,Santa Cruz,1
+CAJAMARCA,western_union,Hualgayoc,3
+CAJAMARCA,western_union,Bambamarca,3
+LORETO,western_union,Iquitos,5
+LORETO,western_union,Maynas,5
+LORETO,western_union,Loreto,1
+LIMA,western_union,Barranca,14
+LIMA,western_union,Paramonga,3
+HUANUCO,western_union,Huarmey,1
+ANCASH,western_union,Huarmey,1
+LIMA,western_union,Lima,359
+UCAYALI,western_union,Coronel Portillo,6
+UCAYALI,western_union,Pucallpa,1
+UCAYALI,western_union,Lima,1
+HUANUCO,western_union,Rupa Rupa,3
+PASCO,western_union,Pozuzo,1
+SANMARTIN,western_union,Tocache,5
+UCAYALI,western_union,Ucayali,1
+UCAYALI,western_union,Aguaytia,1
+UCAYALI,western_union,Irazola,1
+UCAYALI,western_union,Padre Abad,2
+PASCO,western_union,Oxapampa,2
+PASCO,western_union,Constitucion,1
+HUANUCO,western_union,Puerto Inca,1
+UCAYALI,western_union,Raymondi,1
+UCAYALI,western_union,Raimondi,1
+PASCO,western_union,Puerto Bermudez,1
+HUANUCO,western_union,Jose Crespo Y Castillo,2
+JUNIN,western_union,Junin,7
+JUNIN,western_union,Tarma,5
+LIMA,western_union,Canete,5
+HUANUCO,western_union,Panao,2
+JUNIN,western_union,Yauli,1
+JUNIN,western_union,Santa Rosa De Sacco,1
+LALIBERTAD,western_union,Pataz,2
+HUANCAVELICA,western_union,Pampas,2
+HUANUCO,western_union,Huanuco,8
+JUNIN,western_union,Carhuamayo,1
+PASCO,western_union,Chaupimarca,1
+PASCO,western_union,Pasco,3
+PASCO,western_union,Yanacancha,1
+LIMA,western_union,San Bartolo,1
+LIMA,western_union,Pucusana,1
+HUANUCO,western_union,Ambo,2
+HUANUCO,western_union,Pillco Marca,1
+LIMA,western_union,Lurigancho,3
+LIMA,western_union,Lurin,2
+LIMA,western_union,Villa Maria Del Triunfo,3
+LIMA,western_union,Chorrillos,4
+LIMA,western_union,San Juan De Miraflores,4
+LIMA,western_union,Ate,9
+LIMA,western_union,La Molina,2
+LIMA,western_union,Villa El Salvador,2
+LIMA,western_union,Pachacamac,1
+LIMA,western_union,Chaclacayo,1
+LIMA,western_union,Santiago De Surco,2
+LIMA,western_union,Santa Anita,3
+LIMA,western_union,San Borja,2
+HUANUCO,western_union,La Union,1
+LIMA,western_union,Barranco,2
+LIMA,western_union,Surco,1
+LIMA,western_union,El Agustino,2
+LIMA,western_union,San Juan De Lurigancho,12
+LIMA,western_union,La Victoria,1
+LIMA,western_union,Surquillo,2
+LIMA,western_union,Miraflores,7
+LIMA,western_union,San Martin De Porres,8
+ANCASH,western_union,Huari,1
+LIMA,western_union,San Luis,1
+LIMA,western_union,Jesus Maria,2
+JUNIN,western_union,San Martin De Pangoa,1
+LIMA,western_union,San Antonio,1
+LIMA,western_union,Magdalena,2
+LIMA,western_union,Lince,1
+LIMA,western_union,Magdalena Del Mar,3
+CALLAO,western_union,Callao,32
+LIMA,western_union,Rimac,3
+LIMA,western_union,Los Olivos,6
+LIMA,western_union,Independencia,2
+LIMA,western_union,San Martin De Porras,2
+LIMA,western_union,San Juan Del Lurigancho,1
+LIMA,western_union,Brena,2
+LIMA,western_union,Cercado De Lima,1
+LIMA,western_union,Comas,10
+ANCASH,western_union,Caraz,1
+ANCASH,western_union,Huaylas,3
+LALIBERTAD,western_union,Lima,1
+LIMA,western_union,Carabayllo,4
+LIMA,western_union,Carabyllo,1
+ANCASH,western_union,Chimbote Santa,1
+ANCASH,western_union,Ancash,3
+ANCASH,western_union,Santa,11
+ANCASH,western_union,Chimbote,4
+ANCASH,western_union,Huaraz,5
+LIMA,western_union,Huaral,7
+LIMA,western_union,Ancon,1
+ANCASH,western_union,Carhuaz,1
+CALLAO,western_union,Ventanilla,3
+LIMA,western_union,Puente Piedra,4
+LIMA,western_union,Huaura,6
+LIMA,western_union,Huacho,3
+ANCASH,western_union,Casma,3
+LIMA,western_union,Chancay,3
+APURIMAC,western_union,Andahuaylas,8
+APURIMAC,western_union,Abancay,6
+APURIMAC,western_union,Apurimac,1
+APURIMAC,western_union,Chincheros,1
+LIMA,western_union,Supe,1
+LIMA,western_union,Huara,1
+MOQUEGUA,western_union,Moquegua,4
+MOQUEGUA,western_union,Ilo,6
+AREQUIPA,western_union,Islay,2
+AREQUIPA,western_union,Arequipa,27
+AREQUIPA,western_union,Camana,3
+MOQUEGUA,western_union,Mariscal Nieto,3
+MADREDEDIOS,western_union,Laberinto,1
+MADREDEDIOS,western_union,Tambopata,10
+JUNIN,western_union,Mazamari,2
+JUNIN,western_union,San Jeronimo De Tunan,1
+LIMA,western_union,Macari,1
+JUNIN,western_union,Concepcion,2
+AREQUIPA,western_union,Chivay,1
+AREQUIPA,western_union,Caylloma,5
+PIURA,western_union,Aplao,1
+JUNIN,western_union,Satipo,5
+PUNO,western_union,Nunoa,1
+AREQUIPA,western_union,Castilla,1
+JUNIN,western_union,Jauja,2
+ICA,western_union,Chincha Alta,3
+ICA,western_union,Pueblo Nuevo,1
+ICA,western_union,Chincha,2
+ICA,western_union,Ica,10
+LIMA,western_union,Pisco,1
+PUNO,western_union,Ayaviri,1
+ICA,western_union,Pisco,2
+JUNIN,western_union,Chupaca,7
+MADREDEDIOS,western_union,Tambo Pata,1
+ICA,western_union,San Clemente,1
+JUNIN,western_union,Pichanaqui,3
+JUNIN,western_union,Chanchamayo,2
+JUNIN,western_union,Perene,1
+PUNO,western_union,Asillo,1
+JUNN,western_union,Huancayo,1
+JUNIN,western_union,Huancayo,22
+JUNIN,western_union,Pangoa,2
+JUNIN,western_union,El Tambo,6
+JUNIN,western_union,Pilcomayo,1
+ICA,western_union,Parcona,1
+AYACUCHO,western_union,Parinacochas,1
+HUANCAVELICA,western_union,Paucara,1
+CUSCO,western_union,Livitaca,1
+CUSCO,western_union,Ocongate,1
+HUANCAVELICA,western_union,Huancavelica,4
+CUSCO,western_union,Paucartambo,1
+HUANCAVELICA,western_union,Tayacaja,1
+CUSCO,western_union,Sicuani,2
+CUSCO,western_union,Canchis,1
+CUSCO,western_union,Espinar,2
+AREQUIPA,western_union,Chuquibamba,1
+AREQUIPA,western_union,Condesuyos,1
+JUNIN,western_union,Huayucachi,1
+JUNIN,western_union,Chilca,3
+AREQUIPA,western_union,Cerro Colorado,3
+PUNO,western_union,Puno,9
+PUNO,western_union,Juliaca,4
+PUNO,western_union,San Roman,5
+PUNO,western_union,Cabanillas,1
+PUNO,western_union,Azangaro,1
+LIMA,western_union,Lampa,1
+AREQUIPA,western_union,Miraflores,1
+AREQUIPA,western_union,Alto Selva Alegre,1
+TACNA,western_union,Coronel Gregorio Albarracin L,1
+TACNA,western_union,Tacna,10
+TACNA,western_union,Coronel Gregorio Albarracin La,1
+TACNA,western_union,Coronel Gregorio Albarracin,1
+AREQUIPA,western_union,Jose Luis Bustamante Y Rivero,1
+TACNA,western_union,Ciudad Nueva,1
+AREQUIPA,western_union,La Joya,1
+PUNO,western_union,Yunguyo,1
+PUNO,western_union,Coata,1
+PUNO,western_union,Acora,1
+LIMA,western_union,Moho,1
+PUNO,western_union,Ilave,1
+LIMA,western_union,Juli,1
+PUNO,western_union,Desaguadero,1
+PUNO,western_union,Desaguero,1
+CUSCO,western_union,San Jeronimo,1
+CUSCO,western_union,Calca,2
+CUSCO,western_union,La Convenci�n,1
+CUSCO,western_union,La Convencion,1
+CUSCO,western_union,Quispincanchis,1
+CUSCO,western_union,Santo Tomas,1
+AYACUCHO,western_union,Huanta,5
+AYACUCHO,western_union,Lucanas,1
+AYACUCHO,western_union,Puquio,1
+HUANCAVELICA,western_union,Acobamba,2
+HUANCAVELICA,western_union,Lircay,2
+CUSCO,western_union,Quispicanchi,1
+AYACUCHO,western_union,Coracora,1
+CUSCO,western_union,Cusco,9
+CUSCO,western_union,Wanchaq,2
+CUSCO,western_union,San Sebastian,3
+CUSCO,western_union,Urcos,1
+CUSCO,western_union,Cuzco,1
+AYACUCHO,western_union,Huamanga,5
+AYACUCHO,western_union,La Mar,2
+AYACUCHO,western_union,Santa Rosa,1
+AYACUCHO,western_union,Ayacucho,6
+AYACUCHO,western_union,San Juan Bautista,1
+AYACUCHO,western_union,Ayna,1
+CUSCO,western_union,Anta,3
+CUSCO,western_union,Urubamba,1
+CUSCO,western_union,Pichari,1
+CUSCO,western_union,Santiago,1

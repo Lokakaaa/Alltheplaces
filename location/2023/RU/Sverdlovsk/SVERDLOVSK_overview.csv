@@ -1,0 +1,986 @@
+City,Place Name,Zipcode,Name
+Ekaterinburg,audi,prospekt Kosmonavtov 6 620017 Ekaterinburg,unknown,AC Kosmonavtov
+Ekaterinburg,audi,Bebelya 57 620141 Ekaterinburg,unknown,Audi Center Ekaterinburg
+Березовский,coffee_like,ул. Фурманова 126,unknown,Coffee Like
+Березовский,coffee_like,ул. Строителей 4,unknown,Coffee Like
+Екатеринбург,coffee_like,ул. Академика Шварца 17,unknown,Coffee Like
+Екатеринбург,coffee_like,ул. Большакова 151А,unknown,Coffee Like
+Екатеринбург,coffee_like,пр-т Академика Сахарова 107/1,unknown,Coffee Like
+Екатеринбург,coffee_like,пр-т Космонавтов 108д,unknown,Coffee Like
+Екатеринбург,coffee_like,ул. Репина 94,unknown,Coffee Like
+Екатеринбург,coffee_like,просп. Космонавтов 1в/1,unknown,Coffee Like
+Екатеринбург,coffee_like,ул. Белореченская 13/1,unknown,Coffee Like
+Нижний Тагил,coffee_like,ул. Красноармейская 40/2,unknown,Coffee Like
+Нижний Тагил,coffee_like,пр-т Ленина 71,unknown,Coffee Like
+Нижний Тагил,coffee_like,пр-т Вагоностроителей 26а,unknown,Coffee Like
+Нижний Тагил,coffee_like,просп. Ленина 32,unknown,Coffee Like
+Нижний Тагил,coffee_like,Свердловское шоссе 31Б (кофейня),unknown,Coffee Like
+Нижний Тагил,coffee_like,просп. Ленина 59,unknown,Coffee Like
+Нижний Тагил,coffee_like,Свердловское шоссе 31БНижний Тагил Свердловское шоссе 31Б (центр. вход),unknown,Coffee Like
+Нижний Тагил,coffee_like,Свердловское шоссе 31Б,unknown,Coffee Like
+Нижний Тагил,coffee_like,ул. Садовая 1,unknown,Coffee Like
+Нижний Тагил,coffee_like,ш. Черноисточинское 49,unknown,Coffee Like
+Yekaterinburg,lukoil,"Russia 620000 Sverdlovsk region Yekaterinburg st. Predelnaya
+",unknown,AZS No 404 (66404)
+unknown,lukoil,Russia 620000 Sverdlovsk Region. area Nizhneserginskiy 132 km road Perm-Yekaterinburg ter km str 1,unknown,AZS No 497 (66497)
+unknown,lukoil,Russia 620000 Sverdlovsk Region. area Achitskiy Bakryazh road Perm-Yekaterinburg 169 km,unknown,AZS No 420 (66420)
+Lesnoy,lukoil,Russia 624200 Sverdlovsk Region. Lesnoy st. Stroiteley 24,unknown,AZS № 66727
+N. Tagil,lukoil,Russia 622000 Sverdlovsk Region. N. Tagil st. Sverdlovskoye shosse 14,unknown,АЗС №496 (66496)
+Karpinsk,lukoil,Russia 624930 Sverdlovsk Region. Karpinsk 37 km +250 m road Serov – Severouralsk – Ivdel sleva,unknown,AZS No 499 (66499)
+Yekaterinburg,lukoil,Russia 620146 Sverdlovsk Region Yekaterinburg st. Frontovykh Brigad 19A,unknown,AZS No 445 (66445)
+Yekaterinburg,lukoil,Russia Sverdlovsk Region Yekaterinburg st. Blyukhera 91,unknown,AZS No 498 (66498)
+Verkhnyaya Salda,lukoil,Russia 620000 Sverdlovsk Region Verkhnyaya Salda st. Parkovaya 14b,unknown,AZS No 494 (66494)
+unknown,lukoil,Russia 620000 Sverdlovsk Region Losinyy Rezhevskoy trakt,unknown,AZS No 491 (66491)
+Verkhnyaya Pyshma,lukoil,Russia 624090 Sverdlovsk Region Verkhnyaya Pyshma area of treatment facilities on the way out of the city,unknown,AZS No 495 (66495)
+Nizhniy Tagil,lukoil,Russia 622000 Sverdlovsk Region Nizhniy Tagil 168 km road Yekaterinburg-Nizhniy tagil-Serov,unknown,AZS No 489 (66489)
+Nizhniy Tagil,lukoil,Russia 620000 Sverdlovsk Region Nizhniy Tagil Lenevka road Yekaterinburg-Nizhniy tagil-Serov,unknown,AZS No 470 (66470)
+Berezovskiy,lukoil,Russia 623700 Sverdlovsk Region Berezovskiy st. Koltsevaya 6a,unknown,AZS No 493 (66493)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg Bogdanovich road Yekaterinburg-Tyumen 105+800 (levaya storona),unknown,AZS No 484 (66484)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg dubler Sibirskogo trakta 6 km (naprotiv t/k Metro),unknown,AZS No 488 (66488)
+gorod Nizhniy Tagil g.o.,lukoil,Russia 622030 Sverdlovsk Region. gorod Nizhniy Tagil g.o. g. Nizhniy Tagil Chernoistochinskoye sh. zd. 64g,unknown,No AZS 66452
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. g. Yekaterinburg ul. Posadskaya d. 85,unknown,AZS No 418 (66418)
+Yekaterinburg,lukoil,Russia 620102 Sverdlovsk Region Yekaterinburg st. Deryabinoy-Repina,unknown,AZS № 437 (66437)
+Ivdel,lukoil,Russia 624590 Sverdlovsk Region Ivdel road Ivdel-KHMAO 1 km,unknown,AZS No 487 (66487)
+Yekaterinburg,lukoil,Russia 620072 Sverdlovsk Region Yekaterinburg st. Vladimira Vysotskogo 49,unknown,AZS No 428 (66428)
+Yekaterinburg,lukoil,Russia 62000 Sverdlovsk Region Yekaterinburg Dubler Sibirskogo trakta. 5,unknown,AZS No 430 (66430)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg st. Cherepanova 33,unknown,AZS No423 (66423)
+unknown,lukoil,Russia 623040 Sverdlovsk Region. area Achitskiy a/d Perm-Yekaterinburg 170 km,unknown,AZS No 410 (66410)
+unknown,lukoil,Russia 623550 Sverdlovsk Region Pyshminskiy area Pyshma road Yekaterinburg-Tyumen 174 km,unknown,AZS No 486 (66486)
+unknown,lukoil,Russia 624582 Sverdlovsk Region. g. Ivdel a/d Yekaterinburg-KHMAO na km 101+700 (sleva),unknown,AZS No 460 (66460)
+unknown,lukoil,Russia 623040 Sverdlovsk Region Bogdanovich road Yekaterinburg-Tyumen 105 km,unknown,AZS No 485 (66485)
+unknown,lukoil,Russia 620000 Sverdlovsk Region. Sysertskiy area road Yekaterinburg-Chelyabinsk 31 km,unknown,AZS No 482 (66482)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg road Yekaterinburg-airport Koltsovo ter 9/5 5,unknown,AZS No 449 (66449)
+unknown,lukoil,Russia 620000 Sverdlovsk Region Kamenskiy area road Yekaterinburg-Kamensk-Uralskiy road Yekaterinburg-Shadrinsk-Kurgan 86km,unknown,AZS No 483 (66483)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region Yekaterinburg Koltsovskiy trakt  10 km str. 2,unknown,AZS No 448 (66448)
+unknown,lukoil,Russia 623040 Sverdlovsk Region Sysertskiy area road Yekaterinburg-Chelyabinsk 30 km,unknown,AZS No 481 (66481)
+Severouralsk,lukoil,Russia 623040 Sverdlovsk region Severouralsk road Serov-Severouralsk-Ivdel 89+500 km,unknown,AZS No 492 (66492)
+Yekaterinburg,lukoil,Russia 620141 Sverdlovsk Region. Yekaterinburg st. Pekhotintsev 8,unknown,AZS No 475 (66475)
+Yekaterinburg,lukoil,Russia 620082 Sverdlovsk Region Yekaterinburg st. Varshavskaya 5,unknown,AZS No 476 (66476)
+Yekaterinburg,lukoil,Russia 620089 Sverdlovsk Region Yekaterinburg st. Bazovyy 30,unknown,AZS No 477 (66477)
+Yekaterinburg,lukoil,Russia 620149 Sverdlovsk Region Yekaterinburg st. Onufriyeva 23,unknown,AZS No 478 (66478)
+g. Berezovskiy,lukoil,Russia 623700 Sverdlovsk Region. g. Berezovskiy ul. Berezovskiy trakt 6 km,unknown,AZS No 479 (66479)
+unknown,lukoil,Russia 620000 Sverdlovsk Region. Nizhneserginskiy area road Perm-Yekaterinburg ter km 1,unknown,AZS № 480 (66480)
+g. Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. g. Yekaterinburg YEKAD 31 km bd. 35,unknown,AZS No 455 (66455)
+Yekaterinburg,lukoil,Russia 620146 Sverdlovsk Region. Yekaterinburg st. Moskovskaya 216b,unknown,AZS No 442 (66442)
+Yekaterinburg,lukoil,Russia 620041 Sverdlovsk Region Yekaterinburg st. Mayakovskogo 1 A,unknown,AZS No 454 (66454)
+Yekaterinburg,lukoil,Russia 620102 Sverdlovsk Region Yekaterinburg st. Volgogradskaya 206,unknown,AZS No 447 (66447)
+Yekaterinburg,lukoil,Russia 620141 Sverdlovsk region Yekaterinburg st. Artinskaya 22 B,unknown,AZS No 453 (66453)
+Rezh,lukoil,Russia 623750 Sverdlovsk Region. Rezh st. Pochtovaya 2,unknown,AZS No 474 (66474)
+g. Yekaterinburg,lukoil,Russia 620023 Sverdlovsk Region. g. Yekaterinburg ul. Shcherbakova 85,unknown,AZS No 446 (66446)
+Kamensk-Uralskiy,lukoil,Russia 623400 Sverdlovsk Region. Kamensk-Uralskiy st. Karla Marksa 64a,unknown,AZS № 422 (66422)
+Nizhniy Tagil,lukoil,Russia 622000 Sverdlovsk Region. Nizhniy Tagil st. Festivalnaya 13,unknown,AZS No 451 (66451)
+Kamensk-Uralskiy,lukoil,Russia 623400 Sverdlovsk Region. Kamensk-Uralskiy st. Ryabova 1A,unknown,AZS No 425 (66425)
+g. Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. g. Yekaterinburg ul. Bebelya 63-a,unknown,AZS No 473 (66473)
+g. Pervouralsk,lukoil,Russia 623100 Sverdlovsk Region. g. Pervouralsk sh. Dinasovoye str.4,unknown,AZS No 403 (66403)
+Polevskoy,lukoil,Russia 623380 Sverdlovsk Region Polevskoy area Zelennyy Bor - 2 53,unknown,AZS No 472 (66472)
+Revda,lukoil,Russia 623280 Sverdlovsk Region Revda st. Kalinina 26a,unknown,AZS No 471 (66471)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg st. Mashinostroiteley 5,unknown,AZS No 468 (66468)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg Moskovskiy trakt 8 km 25,unknown,AZS № 467 (66467)
+Yekaterinburg,lukoil,Russia 620130 Sverdlovsk Region. Yekaterinburg st. 8 Marta 183a,unknown,AZS No 469 (66469)
+Pervouralsk,lukoil,Russia 623100 Sverdlovsk Region. Pervouralsk st. Lenina 8,unknown,AZS No 465 (66465)
+g. Pervouralsk,lukoil,Russia 623100 Sverdlovsk Region. g. Pervouralsk ul. Stroiteley,unknown,AZS No 466 (66466)
+Yekaterinburg,lukoil,620000 Sverdlovsk Region. Yekaterinburg st. Bakinskikh Komissarov 159,unknown,AZS No464 (66464)
+Yekaterinburg,lukoil,Russia 620024 Sverdlovsk Region. Yekaterinburg road Yelizavetinskoye 60,unknown,AZS No 463 (66463)
+Yekaterinburg,lukoil,Russia 620030 Sverdlovsk Region Yekaterinburg Sibirskiy trakt 8 km,unknown,AZS No 439 (66439)
+unknown,lukoil,Russia 624030 Sverdlovsk Region Beloyarskiy area Beloyarskiy road Yekaterinburg-Tyumen 32 km,unknown,AZS No438 (66438)
+Revda,lukoil,Russia 623280 Sverdlovsk Region. Revda st. Tsvetnikov 53,unknown,AZS No 436 (66436)
+g. Nizhniy Tagil,lukoil,Russia 622048 Sverdlovsk Region. g. Nizhniy Tagil ul. Volodarskogo,unknown,AZS No 434 (66434)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg st. Repina 92,unknown,AZS No 433 (66433)
+Verkhnyaya Pyshma,lukoil,Russia 624092 Sverdlovsk Region Verkhnyaya Pyshma st. Petrova 67,unknown,AZS № 432 (66432)
+Nizhniy Tagil,lukoil,Russia 622000 Sverdlovsk Region. Nizhniy Tagil road Vostochnoye,unknown,AZS No 429 (66429)
+Nizhniy Tagil,lukoil,Russia 622000 Sverdlovsk Region. Nizhniy Tagil Linevka,unknown,AZS No 427 (66427)
+Pervouralsk,lukoil,Russia 623101 Sverdlovsk Region. Pervouralsk st. Vaynera 5,unknown,AZS № 426 (66426)
+Asbest,lukoil,Russia 624260 Sverdlovsk region Asbest st. Mira 18,unknown,AZS No 421 (66421)
+g.o. Yekaterinburg,lukoil,Russia 620103 Sverdlovsk Region. g.o. Yekaterinburg g. Yekaterinburg ul. Novosibirskaya 2-ya soor. 6,unknown,No AZS 66419
+Kamensk-Uralskiy g.o.,lukoil,Russia 623406 Sverdlovsk Region. Kamensk-Uralskiy g.o. g. Kamensk-Uralskiy ul. Alyuminiyevaya d. 1b,unknown,No AZS 66417
+Kamensk-Uralskiy,lukoil,Russia 623400 Sverdlovsk Region. Kamensk-Uralskiy Barabanovskiy trakt,unknown,AZS No 416 (66416)
+g. Asbest,lukoil,Russia 624260 Sverdlovsk Region. g. Asbest ul. Plekhanova d. 58,unknown,AZS No 414 (66414)
+g. Pervouralsk,lukoil,Russia 620000 Sverdlovsk Region. g. Pervouralsk 29 km a/trakta Yekaterinburg-Perm,unknown,AZS No 413 (66413)
+g. Pervouralsk,lukoil,Russia 623100 Sverdlovsk Region.,unknown,AZS No 411 (66411)
+g.o. Asbestovskiy,lukoil,Russia 620000 Sverdlovsk Region. g.o. Asbestovskiy g. Asbest ul. Promyshlennaya str. 2v,unknown,No AZS 66409
+Pervouralsk,lukoil,Russia 623101 Sverdlovsk Region Pervouralsk st. Lenina 1A,unknown,AZS No 408 (66408)
+unknown,lukoil,Russia 624033 Sverdlovsk Region. area Beloyarskiy Beloyarskiy st. Khimikov 3B,unknown,AZS No 406 (66406)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg Chelyabinsk 19-km trakt 6,unknown,AZS No 405 (66405)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region Yekaterinburg st. Bakinskikh Komissarov 2,unknown,AZS No 402 (66402)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region Yekaterinburg st. Krestinskogo 40,unknown,AZS No 462 (66462)
+Sukhoy Log,lukoil,Russia 620000 Sverdlovsk Region. Sukhoy Log st. Vokzalnaya 1a,unknown,AZS No 401 (66401)
+Yekaterinburg,lukoil,Russia 620033 Sverdlovsk Region Yekaterinburg st. Trudovaya 22,unknown,AZS No 461 (66461)
+Yekaterinburg,lukoil,Russia 620033 Sverdlovsk Region Yekaterinburg st. Trudovaya 31,unknown,AZS No 459 (66459)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg Polevskoy trakt 12 km,unknown,AZS No 458 (66458)
+Krasnoufimsk,lukoil,Russia 623300 Sverdlovsk Region. Krasnoufimsk st. Achitskaya 1,unknown,AZS No 457 (66457)
+Yekaterinburg,lukoil,Russia 620085 Sverdlovsk Region Yekaterinburg road Voditelskiy 10,unknown,AZS No 456 (66456)
+Yekaterinburg,lukoil,Russia 620023 Sverdlovsk region. Yekaterinburg st. Shcherbakova 1,unknown,AZS No 443 (66443)
+Yekaterinburg,lukoil,Russia 620000 Sverdlovsk Region. Yekaterinburg st. Komsomolskaya 69B,unknown,AZS No 441 (66441)
+unknown,wildberries,Свердловская область Нижний Тагил проспект Мира 12,unknown,Wildberries
+unknown,wildberries,Свердловская область Серов Зелёная улица,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Белинского 54,unknown,Wildberries
+unknown,wildberries,г. Новоуральск (Свердловская область) Первомайская улица д. 42,unknown,Wildberries
+unknown,wildberries,Свердловская область Североуральск улица Мира 20,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижняя Тура улица 40 лет Октября 39,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Советская улица 10,unknown,Wildberries
+unknown,wildberries,Свердловская область Первоуральск Береговая улица 12А,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Тбилисский бульвар 13,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Победы 45,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Вильгельма де Геннина 42,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) Ильича 2,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Техническая улица д. 51,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Белореченская улица д. 11,unknown,Wildberries
+unknown,wildberries,Свердловская область Ирбит Советская улица 96,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Готвальда 3,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Гагарина 18А,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Челюскинцев 60,unknown,Wildberries
+unknown,wildberries,Свердловская область Верхняя Пышма улица Уральских Рабочих 41,unknown,Wildberries
+unknown,wildberries,г. Полевской (Свердловская область) улица Максима Горького д. 1А,unknown,Wildberries
+unknown,wildberries,г. Березовский (Свердловская область) ул. Красных Героев  д. 18,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Уктусская улица 31,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) улица Победы д. 22,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Владимира Высоцкого д. 36,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Московская улица д. 198,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Чкалова д. 124,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Щорса д. 32,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица 8 Марта 55,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Бородина 21,unknown,Wildberries
+unknown,wildberries,г. Заречный (Свердловская область) Ленинградская улица д. 16,unknown,Wildberries
+unknown,wildberries,г. Богданович (Свердловская область) Партизанская улица д. 6,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Техническая улица 154,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил улица Дружинина 74,unknown,Wildberries
+unknown,wildberries,г. Тавда (Свердловская область) улица 9 Мая д. 18,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Сулимова д. 23,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Банникова 3,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Юлиуса Фучика д. 1,unknown,Wildberries
+unknown,wildberries,г. Алапаевск (Свердловская область) улица Фрунзе д 51,unknown,Wildberries
+unknown,wildberries,г. Краснотурьинск (Свердловская область) улица Попова д. 57,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Чкалова д. 256,unknown,Wildberries
+unknown,wildberries,г. Ивдель (Свердловская область) Почтовая улица д. 7,unknown,Wildberries
+unknown,wildberries,г. Новоуральск (Свердловская область) Театральный проезд д. 14,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Репина 68,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Комсомольская улица 39,unknown,Wildberries
+unknown,wildberries,г. Асбест (Свердловская область) улица Мира д. 9,unknown,Wildberries
+unknown,wildberries,г. Краснотурьинск (Свердловская область) ул. Ленина д. 17,unknown,Wildberries
+unknown,wildberries,г. Карпинск (Свердловская область) улица Мира д. 68,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) улица Юности д. 18,unknown,Wildberries
+unknown,wildberries,г. Серов (Свердловская область) улица Ленина д. 162,unknown,Wildberries
+unknown,wildberries,г. Ревда (Свердловская область) улица Цветников д. 30,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Новгородцевой д. 13Б,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Короленко д. 8А,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Шаумяна д. 87,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) проезд Решетникова д. 9,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Родонитовая улица д. 2к2,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Сиреневый бульвар 7,unknown,Wildberries
+unknown,wildberries,Свердловская область Красноуральск улица Ленина 55,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Анатолия Мехренцева д. 38,unknown,Wildberries
+unknown,wildberries,г. Кировград (Свердловская область) улица Свердлова д. 59,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил улица Космонавтов 31,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) улица Карла Маркса д. 45,unknown,Wildberries
+unknown,wildberries,г. Серов Зелёная улица д. 10,unknown,Wildberries
+unknown,wildberries,г. Верхняя Пышма (Свердловская область) Успенский проспект д. 113Б,unknown,Wildberries
+unknown,wildberries,г. Кушва (Свердловская область) улица Фадеевых д. 18,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Восточная улица 64,unknown,Wildberries
+unknown,wildberries,г. Дегтярск (Свердловская область) улица Калинина д. 6А,unknown,Wildberries
+unknown,wildberries,г. Краснотурьинск (Свердловская область) улица Рюмина д. 23,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) Ленинградский проспект д. 74,unknown,Wildberries
+unknown,wildberries,г. Новая Ляля (Свердловская область) улица Розы Люксембург д. 67А,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Восточная улица д. 164,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Победы д. 9,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Первомайская улица д. 72,unknown,Wildberries
+unknown,wildberries,г. Серов (Свердловская область) Типографская улица д. 29,unknown,Wildberries
+unknown,wildberries,г. Новоуральск (Свердловская область) улица Ленина д. 136,unknown,Wildberries
+unknown,wildberries,г. Первоуральск (Свердловская область) улица Герцена д. 9,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Амундсена 69,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Радищева 33,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) улица Максарёва д. 13,unknown,Wildberries
+unknown,wildberries,г. Лесной (Свердловская область) улица Ленина д. 33,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Павла Шаманова 60,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Индустрии д. 104,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Луначарского д. 218,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Ирбитская улица 8,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Юмашева д. 1,unknown,Wildberries
+unknown,wildberries,Свердловская область Реж улица Фрунзе 21,unknown,Wildberries
+unknown,wildberries,Свердловская область Красноуральск улица Ленина 17,unknown,Wildberries
+unknown,wildberries,г. Нижняя Салда (Свердловская область) Уральская улица д. 2,unknown,Wildberries
+unknown,wildberries,Свердловская область Алапаевск улица Пушкина 34,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Уральская улица д. 57к1,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Библиотечная улица д. 25,unknown,Wildberries
+unknown,wildberries,г. Артёмовский (Свердловская область) улица Мира д. 7,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Степана Разина 28,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Смазчиков 2,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Шефская улица 108,unknown,Wildberries
+unknown,wildberries,г. Ирбит (Свердловская область) улица Свердлова д. 19,unknown,Wildberries
+unknown,wildberries,г. Новоуральск (Свердловская область) улица Ленина д. 94,unknown,Wildberries
+unknown,wildberries,г. Невьянск (Свердловская область) улица Мартьянова д. 31,unknown,Wildberries
+unknown,wildberries,г. Краснотурьинск (Свердловская область) улица Фурманова д. 9,unknown,Wildberries
+unknown,wildberries,Свердловская область Серов улица Ленина 142,unknown,Wildberries
+unknown,wildberries,г. Среднеуральск (Свердловская область) Уральская улица д. 20,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Палисадная улица д. 8А,unknown,Wildberries
+unknown,wildberries,г. Верхняя Салда (Свердловская область) улица Энгельса д. 81к4,unknown,Wildberries
+unknown,wildberries,г. Красноуфимск (Свердловская область) улица 8 Марта д. 38,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) Уральский проспект д. 83,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) улица Циолковского д. 4,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Бебеля д. 152А,unknown,Wildberries
+unknown,wildberries,Свердловская область г. Екатеринбург улица Григория Речкалова д. 1,unknown,Wildberries
+unknown,wildberries,г. Талица (Свердловская область) улица Луначарского д. 10,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил Тагилстроевская улица 6,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Бакинских Комиссаров 93,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Краснолесья д. 14к2,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Кишинёвская улица д. 33,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Суворовский переулок д. 11,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Сыромолотова д. 17,unknown,Wildberries
+unknown,wildberries,г. Красноуфимск (Свердловская область) улица Ленина д. 42,unknown,Wildberries
+unknown,wildberries,г. Каменск-Уральский (Свердловская область) проспект Победы д. 51,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Светлый микрорайон д. 5,unknown,Wildberries
+unknown,wildberries,г. Полевской (Свердловская область) Коммунистическая улица д. 17,unknown,Wildberries
+unknown,wildberries,г. Полевской (Свердловская область) улица Ленина д. 5,unknown,Wildberries
+unknown,wildberries,Свердловская область Камышлов улица Карла Маркса 29,unknown,Wildberries
+unknown,wildberries,Свердловская область Сухой Лог Юбилейная улица 6,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) Лучистая улица д. 4,unknown,Wildberries
+unknown,wildberries,г. Екатеринбург (Свердловская область) улица Евгения Савкова д. 33,unknown,Wildberries
+unknown,wildberries,г. Ревда (Свердловская область) Российская улица д. 34,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Циолковского 29А,unknown,Wildberries
+unknown,wildberries,г. Североуральск (Свердловская область) улица Ленина д. 9,unknown,Wildberries
+unknown,wildberries,г. Арамиль (Свердловская область) Октябрьская улица д. 131,unknown,Wildberries
+unknown,wildberries,г. Верхняя Пышма (Свердловская область) улица Кривоусова д. 26,unknown,Wildberries
+unknown,wildberries,г. Верхняя Пышма (Свердловская область) улица Александра Козицына д. 12,unknown,Wildberries
+unknown,wildberries,г. Качканар (Свердловская область) мкр 5А д. 6,unknown,Wildberries
+unknown,wildberries,г. Лесной (Свердловская область) улица Ленина д. 75,unknown,Wildberries
+unknown,wildberries,г. Кушва  (Свердловская область) Луначарского д. 14,unknown,Wildberries
+unknown,wildberries,г. Невьянск (Свердловская область) улица Карла Маркса д. 2,unknown,Wildberries
+unknown,wildberries,г. Нижний Тагил (Свердловская область) улица Правды д. 15,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Рефтинский (Свердловская область) улица Гагарина 3,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Буланаш (Свердловская область) Театральная площадь д. 2,unknown,Wildberries
+unknown,wildberries,г. Верхний Тагил (Свердловская область) улица Чехова д. 2,unknown,Wildberries
+unknown,wildberries,г. Сысерть (Свердловская область) улица Орджоникидзе д. 9,unknown,Wildberries
+unknown,wildberries,г. Первоуральск (Свердловская обл) Сакко и Ванцетти 3,unknown,Wildberries
+unknown,wildberries,рп. Верхняя Синячиха (Свердловская обл) Октябрьская 3,unknown,Wildberries
+unknown,wildberries,г. Туринск (Свердловская обл) Кирова   30,unknown,Wildberries
+unknown,wildberries,г. Каменск-Уральский (Свердловская обл) Лермонтова  38,unknown,Wildberries
+unknown,wildberries,г. Верхняя Салда   (Свердловская область) Энгельса 25,unknown,Wildberries
+unknown,wildberries,Заречный (Свердловская область) Мира 40,unknown,Wildberries
+unknown,wildberries,г Верхняя Тура (Свердловская обл) улица Володарского 66,unknown,Wildberries
+unknown,wildberries,г Новоуральск (Россия Свердловская обл) Юбилейная 3,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Гастелло 25,unknown,Wildberries
+unknown,wildberries,г Ивдель (Свердловская обл) Карла Маркса 25,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский (Свердловская обл) Парковая 18,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский (Россия Свердловская обл) Октябрьская 34,unknown,Wildberries
+unknown,wildberries,г Первоуральск (Свердловская обл) Ватутина 50,unknown,Wildberries
+unknown,wildberries,г Качканар Россия Свердловская обл 8-й микрорайон д. 11,unknown,Wildberries
+unknown,wildberries,г Березовский (Свердловская обл) Спортивная 10,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил (Свердловская обл улица Гвардейская 28,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский (Свердловская обл) улица Калинина 39,unknown,Wildberries
+unknown,wildberries,Свердловская область Ирбит Пролетарская улица 50,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская область Советская улица 54,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил (Свердловская область городской округ Нижний Тагил) улица Фрунзе 30,unknown,Wildberries
+unknown,wildberries,г Екатеринбург (Свердловская область) улица Луначарского 76,unknown,Wildberries
+unknown,wildberries,Свердловская область Сухой Лог Юбилейная улица 27,unknown,Wildberries
+unknown,wildberries,г Серов (Свердловская область) Ленина 221Г,unknown,Wildberries
+unknown,wildberries,г Реж (Свердловская обл) улица Космонавтов 10,unknown,Wildberries
+unknown,wildberries,Верхняя Салда (Свердловская обл) Спортивная улица 12к3,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил (Свердловская обл) улица Щорса 5 ,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский (Свердловская область) Комсомольский 39,unknown,Wildberries
+unknown,wildberries,Екатеринбург (Свердловская область) улица Анри Барбюса 6,unknown,Wildberries
+unknown,wildberries,г Екатеринбург (Свердловская область) улица Степана Разина 107Б,unknown,Wildberries
+unknown,wildberries,г Серов (Свердловская область) улица Олега Кошевого 4,unknown,Wildberries
+unknown,wildberries,Полевской Свердловская область Полевской городской округ Зеленый Бор-1 12,unknown,Wildberries
+unknown,wildberries,Качканар (Свердловская область) улица Свердлова 26,unknown,Wildberries
+unknown,wildberries,Нижний Тагил (Свердловская область) улица Жуковского 9,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Черноисточинское шоссе 17,unknown,Wildberries
+unknown,wildberries,Екатеринбург Якутская улица 10,unknown,Wildberries
+unknown,wildberries,Екатеринбург Бисертская улица 29,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Белинского 200а,unknown,Wildberries
+unknown,wildberries,п Прохладный Улица Высоцкого 2а,unknown,Wildberries
+unknown,wildberries,рп Белоярский Милицейская Улица 2,unknown,Wildberries
+unknown,wildberries,Екатеринбург (Свердловская область) Таватуйская 25 кор. 4,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Новаторов 8в,unknown,Wildberries
+unknown,wildberries,г Верхняя Пышма Улица Машиностроителей 21,unknown,Wildberries
+unknown,wildberries,Свердловская область Талица улица Кузнецова 69,unknown,Wildberries
+unknown,wildberries,г Тавда Красногвардейская Улица 28,unknown,Wildberries
+unknown,wildberries,г Верхняя Пышма Улица Петрова 34в,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Пархоменко 33,unknown,Wildberries
+unknown,wildberries,п Зайково Улица Ленина 60,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Соболева 19,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Хрустальногорская Улица 83,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Улица Металлургов 46,unknown,Wildberries
+unknown,wildberries,с Балтым Первомайская Улица 47,unknown,Wildberries
+unknown,wildberries,рп Свободный Улица Ленина 16,unknown,Wildberries
+unknown,wildberries,Нижняя Тура Свердловская область улица Ильича 4,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Московская улица 193А,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Куйбышева 149а,unknown,Wildberries
+unknown,wildberries,Свердловская область Асбест улица Пархоменко 8/1,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Свердловская обл Зари 21Г,unknown,Wildberries
+unknown,wildberries,Заречный Свердловская область городской округ Заречный улица Алещенкова 7,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Менделеева 11,unknown,Wildberries
+unknown,wildberries,Среднеуральск Свердловская обл Уральская улица 2,unknown,Wildberries
+unknown,wildberries,Верхняя Салда улица Карла Маркса 51,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская область улица Чемпионов 5,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл Комсомольская 72,unknown,Wildberries
+unknown,wildberries,Новоуральск Свердловская обл бульвар Академика Кикоина 4,unknown,Wildberries
+unknown,wildberries,г Среднеуральск Лесная Улица 1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская область Павлодарская улица 1,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Свердловская область улица Карла Маркса 45,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская область Агрономическая улица 23,unknown,Wildberries
+unknown,wildberries,г Березовский Улица Исакова 18а,unknown,Wildberries
+unknown,wildberries,г Сысерть Микрорайон Новый 22,unknown,Wildberries
+unknown,wildberries,г Сысерть Микрорайон Каменный Цветок 1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская область переулок Осоавиахима 105,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Инженерная Улица 33,unknown,Wildberries
+unknown,wildberries,с Щелкун Улица Ленина 164,unknown,Wildberries
+unknown,wildberries,г Богданович Партизанская Улица 16,unknown,Wildberries
+unknown,wildberries,п Троицкий Улица Мира 20б,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Свердловская область Алюминиевая улица 69,unknown,Wildberries
+unknown,wildberries,рп Пышма Улица Кирова 59,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Куйбышева 121,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Переулок Сапёров 5,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Пальмиро Тольятти 30,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Луначарского 182,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Бульвар Есенина 10,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Селькоровская Улица 34,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Окружная Улица 1д,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Советская Улица 25,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Проспект Мира 48,unknown,Wildberries
+unknown,wildberries,п Цементный Улица Ленина 64,unknown,Wildberries
+unknown,wildberries,г Камышлов Советская Улица 46,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл улица Войкова 11,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл улица Викулова 35/1,unknown,Wildberries
+unknown,wildberries,г Сысерть Улица Карла Либкнехта 70,unknown,Wildberries
+unknown,wildberries,п Большой Исток Улица Гагарина 15а,unknown,Wildberries
+unknown,wildberries,п Баранчинский Улица Володарского 31,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский Улица Карла Маркса 58,unknown,Wildberries
+unknown,wildberries,г Красноуфимск Улица Куйбышева 18,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Шефская Улица 91к1,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Яскина 14,unknown,Wildberries
+unknown,wildberries,г Кировград Улица Лермонтова 18,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл улица Мамина-Сибиряка 102,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл Волчанский переулок 2А,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл улица Спутников 16,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица 8 Марта 127,unknown,Wildberries
+unknown,wildberries,Свердловская обл г Первоуральск пр-кт Ильича д 3 ,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл улица Крупносортщиков 8,unknown,Wildberries
+unknown,wildberries,г Красноуфимск Советская Улица 28,unknown,Wildberries
+unknown,wildberries,д Боярка Ленинградская Улица 29,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл Селькоровская улица 100к2,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица 40-летия Октября 42к1,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Вильгельма Де Геннина 33,unknown,Wildberries
+unknown,wildberries,Североуральск Свердловская обл улица Ленина 33П-1,unknown,Wildberries
+unknown,wildberries,г Ревда Улица Максима Горького 7/77,unknown,Wildberries
+unknown,wildberries,Свердловская обл г Каменск-Уральский ул Суворова д 36 ,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Евгения Савкова 4,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл Студенческая улица 2,unknown,Wildberries
+unknown,wildberries,Ревда Свердловская обл улица Карла Либкнехта 33,unknown,Wildberries
+unknown,wildberries,г Первоуральск Улица Чкалова 21/1,unknown,Wildberries
+unknown,wildberries,г Верхняя Пышма Улица Уральских Рабочих 46а,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Свердловская область городской округ Нижний Тагил Черноисточинское шоссе 42,unknown,Wildberries
+unknown,wildberries,Богданович Свердловская обл Богдановичский р-н улица Степана Разина 39/1,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Проспект Ленина 59,unknown,Wildberries
+unknown,wildberries,г Талица Улица Ленина 105а,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Куйбышева 4,unknown,Wildberries
+unknown,wildberries,Краснотурьинск Свердловская область  округ Краснотурьинск улица Попова 73,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Рощинская Улица 50,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская область улица Азина 55,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский 4-Й Проезд 4,unknown,Wildberries
+unknown,wildberries,г Первоуральск Улица 50 Лет СССР 16а,unknown,Wildberries
+unknown,wildberries,Свердловская область Верхняя Салда Восточная улица 5,unknown,Wildberries
+unknown,wildberries,с Косулино Кузнечная Улица 10а,unknown,Wildberries
+unknown,wildberries,рп Ачит Улица Кривозубова 15,unknown,Wildberries
+unknown,wildberries,Ивдель Свердловская обл улица Трошева 14,unknown,Wildberries
+unknown,wildberries,рп Арти Улица Рабочей Молодёжи 78/82,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл Боровая улица 31,unknown,Wildberries
+unknown,wildberries,г Сухой Лог Юбилейная Улица 17,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Александровский Проспект 11,unknown,Wildberries
+unknown,wildberries,г Верхняя Пышма Успенский Проспект 58,unknown,Wildberries
+unknown,wildberries,г Ревда Улица Максима Горького 39б,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Свердловская область городской округ Нижний Тагил улица Карла Маркса 75,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Фрезеровщиков 27,unknown,Wildberries
+unknown,wildberries,г Тавда Улица Павлика Морозова 5,unknown,Wildberries
+unknown,wildberries,г Камышлов Улица Карла Маркса 59,unknown,Wildberries
+unknown,wildberries,Первоуральск Свердловская обл улица Ленина 25А,unknown,Wildberries
+unknown,wildberries,Верхотурье Свердловская область городской округ Верхотурский Карла Маркса 5Б,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Сыромолотова 14,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Краснолесья 161,unknown,Wildberries
+unknown,wildberries,Сысерть Свердловская область Сысертский городской округ улица Орджоникидзе 58,unknown,Wildberries
+unknown,wildberries,г Первоуральск Улица Трубников 19,unknown,Wildberries
+unknown,wildberries,Лесной Свердловская обл улица Сиротина 2А,unknown,Wildberries
+unknown,wildberries,Первоуральск Свердловская область городской округ Первоуральск Береговая улица 34А,unknown,Wildberries
+unknown,wildberries,г Североуральск Улица Ленина 32,unknown,Wildberries
+unknown,wildberries,г Богданович Улица Тимирязева 3,unknown,Wildberries
+unknown,wildberries,Свердловская область Ревда улица Мира 20,unknown,Wildberries
+unknown,wildberries,г Полевской Улица Бажова 14,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Проспект Академика Сахарова 29,unknown,Wildberries
+unknown,wildberries,г Полевской Микрорайон Черёмушки 1,unknown,Wildberries
+unknown,wildberries,Свердловская область Североуральск улица Мира 6,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская область улица Начдива Онуфриева 68,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Восстания 9,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил Выйская улица 62,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург проспект Космонавтов 108А,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Азина 39,unknown,Wildberries
+unknown,wildberries,г Алапаевск Улица Пушкина 46,unknown,Wildberries
+unknown,wildberries,г Реж Улица Калинина 14а,unknown,Wildberries
+unknown,wildberries,рп Свободный Улица Неделина 23,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Орденоносцев 10,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Улица Захарова 2,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Чайковского 75,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Тверитина 19,unknown,Wildberries
+unknown,wildberries,г Верхняя Пышма Улица Орджоникидзе 9,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Гагарина 17,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Вилонова 20,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Готвальда 19в,unknown,Wildberries
+unknown,wildberries,г Серов Улица Заславского 26,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Родонитовая Улица 1,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский Проспект Победы 38,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский Алюминиевая Улица 28,unknown,Wildberries
+unknown,wildberries,г Камышлов Улица Фарфористов 19,unknown,Wildberries
+unknown,wildberries,п Лобва Улица Ленина 26,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Бажова 75,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Уральский Проспект 36,unknown,Wildberries
+unknown,wildberries,г Артемовский Комсомольская Улица 7,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Красных Командиров 1а,unknown,Wildberries
+unknown,wildberries,г Красноуфимск Улица Ухтомского 11,unknown,Wildberries
+unknown,wildberries,г Камышлов Улица Гагарина 20,unknown,Wildberries
+unknown,wildberries,Свердловская область Асбест улица Ладыженского 10,unknown,Wildberries
+unknown,wildberries,г Ревда Улица Цветников 7,unknown,Wildberries
+unknown,wildberries,г Алапаевск Улица Братьев Смольниковых 36,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Энтузиастов 27,unknown,Wildberries
+unknown,wildberries,рп Бисерть Улица Ленина 41,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Маршала Жукова 6,unknown,Wildberries
+unknown,wildberries,г Невьянск Улица Матвеева 30,unknown,Wildberries
+unknown,wildberries,г Верхняя Салда Парковая Улица 12а,unknown,Wildberries
+unknown,wildberries,Свердловская область Новоуральск улица Мичурина 4А,unknown,Wildberries
+unknown,wildberries,п Двуреченск Озёрная Улица 1,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Братская Улица 6,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Восточная Улица 9,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Газетная Улица 38,unknown,Wildberries
+unknown,wildberries,г Краснотурьинск Улица Карпинского 34,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл Студенческая улица 13,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл улица Краснолесья 30,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Ильича 28,unknown,Wildberries
+unknown,wildberries,рп Верх-Нейвинский Улица 8 Марта 7,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Черепанова 18,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Краснофлотцев 15,unknown,Wildberries
+unknown,wildberries,п Калья Красноармейская Улица 46,unknown,Wildberries
+unknown,wildberries,г Арамиль Улица Карла Маркса 37,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Бакинских Комиссаров 58,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Шаумяна 92,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок городского типа Рефтинский Молодёжная улица 3,unknown,Wildberries
+unknown,wildberries,Лесной Свердловская обл улица Ленина 60,unknown,Wildberries
+unknown,wildberries,Североуральск Североуральский городской округ улица Ленина 14,unknown,Wildberries
+unknown,wildberries,г Первоуральск Улица Ленина 11,unknown,Wildberries
+unknown,wildberries,г Первоуральск Комсомольская Улица 19а,unknown,Wildberries
+unknown,wildberries,п Калиново Советская Улица 22,unknown,Wildberries
+unknown,wildberries,г Волчанск Социалистическая Улица 2а,unknown,Wildberries
+unknown,wildberries,г Ревда Улица Мичурина 9,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский Октябрьская Улица 43а,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Реактивная Улица 78,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский проспект Победы 10,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Красный Переулок 8,unknown,Wildberries
+unknown,wildberries,г Арамиль Колхозная Улица 71б,unknown,Wildberries
+unknown,wildberries,г Михайловск Улица Кирова 49,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Татищева 92,unknown,Wildberries
+unknown,wildberries,г Туринск Улица Спорта 25,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург проспект Космонавтов 68,unknown,Wildberries
+unknown,wildberries,с Мезенское Улица Кузнецова 4,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский улица Кунавина 11,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Александровский Проспект 8,unknown,Wildberries
+unknown,wildberries,г Сухой Лог Пушкинская Улица 1,unknown,Wildberries
+unknown,wildberries,п Лосиный Центральная Улица 7,unknown,Wildberries
+unknown,wildberries,г Краснотурьинск Базстроевская Улица 5,unknown,Wildberries
+unknown,wildberries,г Красноуфимск Улица Ухтомского 12,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Амундсена 50,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Октябрьский Проспект 8,unknown,Wildberries
+unknown,wildberries,Свердловская область Лесной улица Мира 32,unknown,Wildberries
+unknown,wildberries,Свердловская область Среднеуральск улица Куйбышева 6Б,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Бакинских Комиссаров 2б,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Академика Шварца 2к1,unknown,Wildberries
+unknown,wildberries,п Черемухово Улица Калинина 2,unknown,Wildberries
+unknown,wildberries,г Верхняя Пышма Улица Калинина 66,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Крауля 56,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский Каменская Улица 82,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Декабристов 51,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Родонитовая Улица 22,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Уральских Рабочих 49,unknown,Wildberries
+unknown,wildberries,д Боярка Таховская Улица 8,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Лебяжинская Улица 17,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Бульвар Денисова-Уральского 5а,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Бисертская Улица 131а,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Амундсена 53,unknown,Wildberries
+unknown,wildberries,д Боярка Ленинградская Улица 19,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Проспект Вагоностроителей 8,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Улица Удовенко 6,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Родонитовая улица 15,unknown,Wildberries
+unknown,wildberries,г Верхняя Салда Пролетарская Улица 1,unknown,Wildberries
+unknown,wildberries,г Краснотурьинск Улица Ленина 12,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Ломоносова 24,unknown,Wildberries
+unknown,wildberries,г Верхняя Салда Улица Энгельса 70к1,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Старых Большевиков 3,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Электриков 27,unknown,Wildberries
+unknown,wildberries,г Краснотурьинск Улица Рюмина 19,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Академика Шварца 12к1,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Начдива Онуфриева 10,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Дорожная улица 17,unknown,Wildberries
+unknown,wildberries,г Асбест Улица Калинина 38,unknown,Wildberries
+unknown,wildberries,Свердловская область Ирбит улица Свердлова 5,unknown,Wildberries
+unknown,wildberries,п Бобровский Улица Дёмина 37,unknown,Wildberries
+unknown,wildberries,Свердловская область муниципальное образование Екатеринбург Таёжная улица 11,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл Артинская улица 34,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Победы 32,unknown,Wildberries
+unknown,wildberries,Свердловская область Среднеуральск улица Свердлова 8,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Евгения Савкова 23,unknown,Wildberries
+unknown,wildberries,г Верхняя Пышма Успенский Проспект 101,unknown,Wildberries
+unknown,wildberries,Новоуральск Свердловская обл Новоуральский городской округ 15 микрорайон дом  3Б,unknown,Wildberries
+unknown,wildberries,г Качканар 2-Й Микрорайон 7,unknown,Wildberries
+unknown,wildberries,Свердловская область Лесной улица Ленина 132,unknown,Wildberries
+unknown,wildberries,г Нижние Серги Улица Розы Люксембург 82,unknown,Wildberries
+unknown,wildberries,Свердловская область Лесной улица Ленина 72,unknown,Wildberries
+unknown,wildberries,Нижняя Тура Свердловская обл улица 40 лет Октября 2,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Нижняя Улица Черепанова 11,unknown,Wildberries
+unknown,wildberries,г Алапаевск Улица Николая Островского 18а,unknown,Wildberries
+unknown,wildberries,г Полевской Микрорайон Зелёный Бор-2 38,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Самолётная улица 45,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Ленинградский Проспект 38,unknown,Wildberries
+unknown,wildberries,г Порошино Почтовое Отделение Порошино 20,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Волгоградская Улица 198,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Щорса 132,unknown,Wildberries
+unknown,wildberries,г Михайловск Улица Кирова 35,unknown,Wildberries
+unknown,wildberries,Екатеринбург Свердловская обл Самолётная улица 27,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург проспект Космонавтов 47,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил улица Юности 14,unknown,Wildberries
+unknown,wildberries,Новоуральск Свердловская область г.Новоуральск Октябрьская улица 1,unknown,Wildberries
+unknown,wildberries,г Первоуральск Улица Строителей 32б,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Красных Командиров 106,unknown,Wildberries
+unknown,wildberries,Малышева Свердловская область улица Ленина 7,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Пехотинцев 12,unknown,Wildberries
+unknown,wildberries,Кушва Свердловская область Кушвинский городской округ Линейная улица 21,unknown,Wildberries
+unknown,wildberries,с Николо-Павловское Юбилейная Улица 5а,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Надеждинская Улица 12,unknown,Wildberries
+unknown,wildberries,Арамиль Свердловская обл Сысертский р-н улица Космонавтов 15к1,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Бахчиванджи 12А,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Крауля 89а,unknown,Wildberries
+unknown,wildberries,г Алапаевск Улица Мира 15,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Проспект Космонавтов 11а,unknown,Wildberries
+unknown,wildberries,рп Белоярский Молодёжная Улица 37,unknown,Wildberries
+unknown,wildberries,г Полевской Коммунистическая Улица 42,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Проспект Дзержинского 53,unknown,Wildberries
+unknown,wildberries,г Дегтярск Улица Калинина 44,unknown,Wildberries
+unknown,wildberries,г Полевской Улица Розы Люксембург 84,unknown,Wildberries
+unknown,wildberries,рп Сосьва Улица Балдина 49,unknown,Wildberries
+unknown,wildberries,рп Тугулым Улица Ленина 65,unknown,Wildberries
+unknown,wildberries,тер Снт Рефтинский Молодёжная Улица 3,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Стрелочников 7,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Рощинская Улица 26,unknown,Wildberries
+unknown,wildberries,г Нижняя Салда Улица Ломоносова 44,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил улица Землячки 2,unknown,Wildberries
+unknown,wildberries,рп Малышева Пионерская Улица 8,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Улица Сакко И Ванцетти 60,unknown,Wildberries
+unknown,wildberries,г Асбест Улица Победы 6,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский Улица Ленина 122а,unknown,Wildberries
+unknown,wildberries,д Приданниково Улица Дружбы 7а,unknown,Wildberries
+unknown,wildberries,п Новоуткинск Улица Партизан 48,unknown,Wildberries
+unknown,wildberries,г Асбест Улица Имени Александра Королёва 29/1,unknown,Wildberries
+unknown,wildberries,г Екатеринбург Дагестанская Улица 10,unknown,Wildberries
+unknown,wildberries,Свердловская область Артёмовский улица Свободы 42,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Мостовая улица 39,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Курортная Улица 15,unknown,Wildberries
+unknown,wildberries,посёлок Черноисточинск Улица Кирова 4,unknown,Wildberries
+unknown,wildberries,г Алапаевск Улица Защиты 147,unknown,Wildberries
+unknown,wildberries,г Нижняя Тура Улица Ленина 106,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Улица Пархоменко 25,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Садовая Улица 38а,unknown,Wildberries
+unknown,wildberries,г Верхотурье Улица Малышева 57,unknown,Wildberries
+unknown,wildberries,село Мезенское Улица Строителей 21,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Гагарина 5,unknown,Wildberries
+unknown,wildberries,Свердловская область Сухой Лог улица Гагарина 9,unknown,Wildberries
+unknown,wildberries,Свердловская область Первоуральск улица Ильича 11А,unknown,Wildberries
+unknown,wildberries,Екатеринбург Расточная Улица 45,unknown,Wildberries
+unknown,wildberries,Екатеринбург Прибалтийская Улица 15,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Западная Улица 11,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Индустрии 57/1,unknown,Wildberries
+unknown,wildberries,Красноуфимск Селекционная Улица 7,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Владимира Высоцкого 4/1,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Махнёво Улица Городок Карьера 5,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица 40-Летия Комсомола 10,unknown,Wildberries
+unknown,wildberries,Екатеринбург Сахалинская Улица 3,unknown,Wildberries
+unknown,wildberries,Красноуфимск Улица Рогозинниковых 50,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Красноармейская Улица 109,unknown,Wildberries
+unknown,wildberries,г Нижний Тагил Улица Зари 47,unknown,Wildberries
+unknown,wildberries,Екатеринбург Разливная Улица 50к2,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Стрелочников 2,unknown,Wildberries
+unknown,wildberries,село Успенка Студенческая Улица 3,unknown,Wildberries
+unknown,wildberries,Екатеринбург Агрономическая Улица 48,unknown,Wildberries
+unknown,wildberries,Свердловская область Лесной улица Ленина 86,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Белинского 156,unknown,Wildberries
+unknown,wildberries,посёлок Растущий Сосновая Улица 1,unknown,Wildberries
+unknown,wildberries,село Туринская Слобода Советская Улица 87,unknown,Wildberries
+unknown,wildberries,Верхняя Салда Спортивная Улица 8к1,unknown,Wildberries
+unknown,wildberries,Свердловская область Арамиль улица Горбачёва 3Б,unknown,Wildberries
+unknown,wildberries,г Асбест Проспект Ленина 18,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Шейнкмана 128,unknown,Wildberries
+unknown,wildberries,Свердловская область Асбест проспект Ленина 8/3,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Малышева 138,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Шаля Улица Орджоникидзе 3,unknown,Wildberries
+unknown,wildberries,Берёзовский Театральная Улица 26,unknown,Wildberries
+unknown,wildberries,посёлок Баранчинский Улица Коммуны 51,unknown,Wildberries
+unknown,wildberries,Красноуфимск Транспортная Улица 9,unknown,Wildberries
+unknown,wildberries,г Каменск-Уральский Трубная Улица 15,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Академика Бардина 21а,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Пелым Улица Строителей 5а,unknown,Wildberries
+unknown,wildberries,Первоуральск Улица Ватутина 36,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Пехотинцев 3к2,unknown,Wildberries
+unknown,wildberries,Верхняя Салда Улица Карла Либкнехта 58,unknown,Wildberries
+unknown,wildberries,Берёзовский Улица Красных Героев 4к1,unknown,Wildberries
+unknown,wildberries,Свердловская область Ивдель улица 50 лет Октября 18,unknown,Wildberries
+unknown,wildberries,посёлок Октябрьский Улица Свердлова 45а,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Горноуральский Посёлок Городского Типа Горноуральский 48а,unknown,Wildberries
+unknown,wildberries,Свердловская область село Курьи Школьная улица 14В,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок городского типа Буланаш улица Машиностроителей 12,unknown,Wildberries
+unknown,wildberries,Верхняя Пышма Улица Огнеупорщиков 4,unknown,Wildberries
+unknown,wildberries,Свердловская область Сухой Лог улица Белинского 47,unknown,Wildberries
+unknown,wildberries,Екатеринбург Союзная Улица 2,unknown,Wildberries
+unknown,wildberries,Кушва Улица Строителей 4,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Токарей 33,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Бебеля 136,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Пионерский Улица Ожиганова 1,unknown,Wildberries
+unknown,wildberries,Заречный Улица Клары Цеткин 23,unknown,Wildberries
+unknown,wildberries,Свердловская область Серов улица Луначарского 100,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Чайковского 78,unknown,Wildberries
+unknown,wildberries,Свердловская область Качканар Советская улица 8А,unknown,Wildberries
+unknown,wildberries,Свердловская область Ирбит Первомайская улица 46,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Дружинино Улица Железнодорожников 5б,unknown,Wildberries
+unknown,wildberries,Свердловская область муниципальное образование Город Екатеринбург улица Барвинка 16,unknown,Wildberries
+unknown,wildberries,Свердловская область Сысерть улица Розы Люксембург 58,unknown,Wildberries
+unknown,wildberries,Кушва Улица Фадеевых 25,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Папанина 5,unknown,Wildberries
+unknown,wildberries,посёлок Монетный Улица Горького 6,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский улица Бугарева 3,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский улица Суворова 28,unknown,Wildberries
+unknown,wildberries,Полевской Улица Карла Маркса 5,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Рябинина 21,unknown,Wildberries
+unknown,wildberries,Екатеринбург Хибиногорский Переулок 4,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Улица Кунавина 27,unknown,Wildberries
+unknown,wildberries,Тавда Улица Кирова 128,unknown,Wildberries
+unknown,wildberries,Заречный Улица Победы 21,unknown,Wildberries
+unknown,wildberries,село Костино Школьная Улица 1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Черняховского 86к12,unknown,Wildberries
+unknown,wildberries,Свердловская область Краснотурьинск улица Попова 39,unknown,Wildberries
+unknown,wildberries,Свердловская область Артёмовский Пролетарская улица 44А,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Татищева 49,unknown,Wildberries
+unknown,wildberries,Артёмовский Улица 8 Марта 66а,unknown,Wildberries
+unknown,wildberries,Свердловская область Верхняя Салда улица Воронова 11,unknown,Wildberries
+unknown,wildberries,Полевской Улица Карла Маркса 10,unknown,Wildberries
+unknown,wildberries,Талица Улица Луначарского 75,unknown,Wildberries
+unknown,wildberries,Екатеринбург Кировградская Улица 12,unknown,Wildberries
+unknown,wildberries,Верхняя Пышма Успенский Проспект 18/2,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Тугулым Улица Ленина 80,unknown,Wildberries
+unknown,wildberries,Екатеринбург Водоёмная Улица 80к1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Латвийская Улица 54,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Бебеля 148,unknown,Wildberries
+unknown,wildberries,село Горный Щит Улица Будённого 1к,unknown,Wildberries
+unknown,wildberries,Асбест Ленинградская Улица 26/2,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Проспект Ленина 73,unknown,Wildberries
+unknown,wildberries,Серов Улица Льва Толстого 24,unknown,Wildberries
+unknown,wildberries,село Горный Щит Горнощитская Улица 42,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Улица Суворова 32,unknown,Wildberries
+unknown,wildberries,Серов Улица Циолковского 27,unknown,Wildberries
+unknown,wildberries,Свердловская область Новая Ляля улица Лермонтова 25Г,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Одинарка 1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Переходный Переулок 2,unknown,Wildberries
+unknown,wildberries,посёлок Восточный Парковая Улица 15,unknown,Wildberries
+unknown,wildberries,Свердловская область Сухой Лог улица Гоголя 34,unknown,Wildberries
+unknown,wildberries,Екатеринбург Проспект Космонавтов 46а,unknown,Wildberries
+unknown,wildberries,Свердловская область Кировград Кировградская улица 39,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Цвиллинга 4,unknown,Wildberries
+unknown,wildberries,Свердловская область Качканар 5-й микрорайон 61,unknown,Wildberries
+unknown,wildberries,Туринск Улица Свердлова 82б,unknown,Wildberries
+unknown,wildberries,Красноуфимск Улица Рогозинниковых 23,unknown,Wildberries
+unknown,wildberries,село Горный Щит Улица Ленина 10а,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Академика Парина 43,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица 40-летия Комсомола 32Г,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский Комсомольский бульвар 38,unknown,Wildberries
+unknown,wildberries,Екатеринбург Карельская Улица 53,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Краснофлотцев 1Г,unknown,Wildberries
+unknown,wildberries,Свердловская область Карпинск улица Мира 8,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Карла Маркса 66,unknown,Wildberries
+unknown,wildberries,Полевской Улица Свердлова 33,unknown,Wildberries
+unknown,wildberries,Свердловская область Красноуральск улица Иллариона Янкина 24,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил Газетная улица 20,unknown,Wildberries
+unknown,wildberries,Свердловская область Первоуральск бульвар Юности 4,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил Октябрьский проспект 1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Валимхаматова 10,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Рябинина 19,unknown,Wildberries
+unknown,wildberries,Туринск Улица Спорта 19,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил проспект Вагоностроителей 16,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Краснолесья 10/5,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Алюминиевая Улица 59,unknown,Wildberries
+unknown,wildberries,Свердловская область Качканар микрорайон 6А 2,unknown,Wildberries
+unknown,wildberries,Свердловская область Новоуральск Комсомольская улица 18,unknown,Wildberries
+unknown,wildberries,село Туринская Слобода Октябрьская Улица 6,unknown,Wildberries
+unknown,wildberries,посёлок Исток Главная Улица 15,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок Новоасбест Пионерская улица 7А,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Академика Бардина 40к1,unknown,Wildberries
+unknown,wildberries,Свердловская область Новоуральск бульвар Академика Кикоина 15А,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Готвальда 22,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица 8 Марта 202/3,unknown,Wildberries
+unknown,wildberries,Берёзовский Улица Героев Труда 22,unknown,Wildberries
+unknown,wildberries,Екатеринбург Дружининская Улица 5а,unknown,Wildberries
+unknown,wildberries,Свердловская область Первоуральск Советская улица 22В,unknown,Wildberries
+unknown,wildberries,Артёмовский Лесная Улица 22а,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Начдива Васильева 14/2,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Анатолия Мехренцева 32,unknown,Wildberries
+unknown,wildberries,Екатеринбург Комсомольская Улица 78,unknown,Wildberries
+unknown,wildberries,Екатеринбург Ангарская Улица 54б,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский улица Серова 3,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил улица Калинина 105,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Мира 36,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Амундсена 74,unknown,Wildberries
+unknown,wildberries,Первоуральск Улица Емлина 12,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Проспект Вагоностроителей 50,unknown,Wildberries
+unknown,wildberries,Свердловская область Серов улица Луначарского 126,unknown,Wildberries
+unknown,wildberries,Екатеринбург Опалихинская Улица 27,unknown,Wildberries
+unknown,wildberries,Екатеринбург Гурзуфская Улица 11,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Прониной 30,unknown,Wildberries
+unknown,wildberries,село Балтым Фиалковая Улица 1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Бульвар Академика Н.А. Семихатова 18,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок Красногвардейский улица Панова 7,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Машинная улица 3А,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Евгения Савкова 35/2,unknown,Wildberries
+unknown,wildberries,село Позариха Лесная Улица 2а,unknown,Wildberries
+unknown,wildberries,Свердловская область Первоуральск улица Вайнера 51,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Верхние Серги Улица Володарского 14,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Краснолесья 54,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Энтузиастов 44а,unknown,Wildberries
+unknown,wildberries,Первоуральск Проспект Космонавтов 16,unknown,Wildberries
+unknown,wildberries,Екатеринбург Советская Улица 45,unknown,Wildberries
+unknown,wildberries,Новоуральск Улица Ленина 116,unknown,Wildberries
+unknown,wildberries,Заречный Улица Победы 7,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Владимира Высоцкого 5,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Очеретина 14,unknown,Wildberries
+unknown,wildberries,Камышлов Улица Карла Маркса 28,unknown,Wildberries
+unknown,wildberries,Полевской Улица Степана Разина 52,unknown,Wildberries
+unknown,wildberries,Невьянск Улица Ленина 34,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица М.Н. Михеева 2,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица 40-Летия Комсомола 4дки,unknown,Wildberries
+unknown,wildberries,посёлок Арамиль Станционная Улица 16,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Металлургов 14А,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Пышма Торговая Улица 2,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Щербакова 150,unknown,Wildberries
+unknown,wildberries,Свердловская область Сухой Лог Школьный проезд 3,unknown,Wildberries
+unknown,wildberries,Полевской Улица Победы 14,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский Озёрная улица 6,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Билимбай Улица Орджоникидзе 4,unknown,Wildberries
+unknown,wildberries,село Кочневское Улица Ленина 4б,unknown,Wildberries
+unknown,wildberries,Дегтярск Улица Токарей 1,unknown,Wildberries
+unknown,wildberries,Св. обл. Тавда Ленина 44,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Бобкова 13,unknown,Wildberries
+unknown,wildberries,Свердловская область село Покровское площадь Красных Партизан 3Б,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок Нейво-Рудянка Заводская улица 5,unknown,Wildberries
+unknown,wildberries,село Обуховское Улица Мира 109б,unknown,Wildberries
+unknown,wildberries,посёлок Ключевск Улица Строителей 6,unknown,Wildberries
+unknown,wildberries,Екатеринбург Санаторная Улица 26,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский улица 4-й Пятилетки 26,unknown,Wildberries
+unknown,wildberries,Арамиль Рабочая Улица 128,unknown,Wildberries
+unknown,wildberries,Сухой Лог Пушкинская Улица 15,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Кунарская улица 20,unknown,Wildberries
+unknown,wildberries,посёлок Лёвиха Улица Куйбышева 14,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Московская Улица 4,unknown,Wildberries
+unknown,wildberries,Свердловская область Серов Зелёная улица 16,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Фурманова 103,unknown,Wildberries
+unknown,wildberries,Свердловская область Верхняя Пышма улица Орджоникидзе 16,unknown,Wildberries
+unknown,wildberries,Верхний Тагил Улица Островского 58,unknown,Wildberries
+unknown,wildberries,Арамиль Улица 1 Мая 75а,unknown,Wildberries
+unknown,wildberries,Екатеринбург Проспект Орджоникидзе 6,unknown,Wildberries
+unknown,wildberries,Свердловская область Серов улица Ленина 173,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский проспект Победы 66,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Восточная улица 174,unknown,Wildberries
+unknown,wildberries,Верхняя Пышма Зелёная Улица 1в,unknown,Wildberries
+unknown,wildberries,деревня Поварня Улица Патрушева 111,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок городского типа Верхняя Синячиха улица Розы Люксембург 78,unknown,Wildberries
+unknown,wildberries,Свердловская область Карпинск улица Некрасова 41,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Ленинградский Проспект 95,unknown,Wildberries
+unknown,wildberries,посёлок Шамары Улица Ленина 11,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Верхнее Дуброво Улица Победы 3,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Староуткинск Улица Фрунзе 2,unknown,Wildberries
+unknown,wildberries,Свердловская область Карпинск улица Луначарского 32,unknown,Wildberries
+unknown,wildberries,Екатеринбург Мраморская Улица 28,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил улица Кузнецкого 1,unknown,Wildberries
+unknown,wildberries,Красноуфимск Улица 8 Марта 80/1,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург микрорайон Светлый 3,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Машинная улица 31В,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Рябинина 47,unknown,Wildberries
+unknown,wildberries,Свердловская область Верхняя Пышма Юбилейная улица 3,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Победы 45,unknown,Wildberries
+unknown,wildberries,Свердловская область Лесной Коммунистический проспект 29,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Бисерть Октябрьская Улица 32,unknown,Wildberries
+unknown,wildberries,коттеджный посёлок Шишкино Луговая Улица 1,unknown,Wildberries
+unknown,wildberries,Алапаевск Улица Пушкина 95,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Белоярский Центральная Улица 44,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский улица Добролюбова 18,unknown,Wildberries
+unknown,wildberries,село Тарасково Улица Ленина 34,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Николая Кичигина 9,unknown,Wildberries
+unknown,wildberries,Свердловская область Сухой Лог улица Юлиуса Фучика 1А,unknown,Wildberries
+unknown,wildberries,Свердловская область Невьянск улица Ленина 11,unknown,Wildberries
+unknown,wildberries,село Байны Улица Мичурина 27,unknown,Wildberries
+unknown,wildberries,Реж Спортивная Улица 1/1,unknown,Wildberries
+unknown,wildberries,Карпинск Улица 8 Марта 70,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок городского типа Пышма улица Кирова 23,unknown,Wildberries
+unknown,wildberries,Реж Вокзальная Улица 1а,unknown,Wildberries
+unknown,wildberries,Свердловская область Полевской микрорайон Ялунина 9,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Челюскинцев 31,unknown,Wildberries
+unknown,wildberries,Екатеринбург Черниговский Переулок 23,unknown,Wildberries
+unknown,wildberries,Екатеринбург Онежская Улица 8а,unknown,Wildberries
+unknown,wildberries,село Байкалово Улица Мальгина 80,unknown,Wildberries
+unknown,wildberries,Свердловская область Верхний Тагил улица Ленина 69,unknown,Wildberries
+unknown,wildberries,Свердловская область Карпинск улица Ленина 76,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Щербакова 47,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Краснознамённая Улица 45,unknown,Wildberries
+unknown,wildberries,Реж Улица Чапаева 19,unknown,Wildberries
+unknown,wildberries,Свердловская область село Битимка Совхозная улица 7А,unknown,Wildberries
+unknown,wildberries,Свердловская область Артёмовский улица Акулова 8,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Лучистая улица 8,unknown,Wildberries
+unknown,wildberries,Серов Улица Ленина 238,unknown,Wildberries
+unknown,wildberries,Екатеринбург Автомагистральная Улица 5,unknown,Wildberries
+unknown,wildberries,Свердловская область село Николо-Павловское Новая улица 3,unknown,Wildberries
+unknown,wildberries,Екатеринбург Белореченская Улица 23к1,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок Троицкий улица Ленина 52,unknown,Wildberries
+unknown,wildberries,Свердловская область Артёмовский улица Полярников 29,unknown,Wildberries
+unknown,wildberries,Богданович Октябрьская Улица 1/1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Репина 101,unknown,Wildberries
+unknown,wildberries,Свердловская область Реж улица Черняховского 13,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Чемпионов 15,unknown,Wildberries
+unknown,wildberries,Екатеринбург Рощинская Улица 44,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Печатников 1,unknown,Wildberries
+unknown,wildberries,Екатеринбург Байкальская Улица 38,unknown,Wildberries
+unknown,wildberries,Екатеринбург Переулок Ритслянда 11,unknown,Wildberries
+unknown,wildberries,Свердловская область Новоуральск Садовая улица 26,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил проспект Ленина 36,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Академика Ландау 14/3,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский проспект Победы 26,unknown,Wildberries
+unknown,wildberries,Берёзовский Улица Гагарина 29,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Ильича 41,unknown,Wildberries
+unknown,wildberries,Свердловская область Новоуральск Советская улица 19Г,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Бебеля 120,unknown,Wildberries
+unknown,wildberries,Екатеринбург Варшавская Улица 26,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Сурикова 48,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Блюхера 18,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Заводская улица 32/2,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Пархоменко 35,unknown,Wildberries
+unknown,wildberries,Екатеринбург Садовая Улица 7,unknown,Wildberries
+unknown,wildberries,Серов Проспект Серова 60а,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Черноисточинское Шоссе 7/4,unknown,Wildberries
+unknown,wildberries,Екатеринбург Нагорная Улица 11,unknown,Wildberries
+unknown,wildberries,Берёзовский Восточная Улица 11,unknown,Wildberries
+unknown,wildberries,посёлок Большой Исток Улица Ленина 121б,unknown,Wildberries
+unknown,wildberries,Свердловская область Ревда улица Карла Либкнехта 11,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Грибоедова 26,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Блюхера 49,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Ирбитская улица 13,unknown,Wildberries
+unknown,wildberries,Красноуфимск Улица Сухобского 28,unknown,Wildberries
+unknown,wildberries,Екатеринбург Посадская Улица 54,unknown,Wildberries
+unknown,wildberries,Свердловская область село Новопышминское улица Ильича 5,unknown,Wildberries
+unknown,wildberries,Асбест Ленинградская Улица 35а,unknown,Wildberries
+unknown,wildberries,Свердловская область Заречный Олимпийская улица 1,unknown,Wildberries
+unknown,wildberries,Свердловская область Ревда улица Максима Горького 54,unknown,Wildberries
+unknown,wildberries,Свердловская область Серов улица Победы 21,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Машиностроителей 12,unknown,Wildberries
+unknown,wildberries,Свердловская область Качканар 10-й микрорайон 31А,unknown,Wildberries
+unknown,wildberries,посёлок Двуреченск Улица Мира 4к2,unknown,Wildberries
+unknown,wildberries,село Рыбниковское Советская Улица 132,unknown,Wildberries
+unknown,wildberries,Екатеринбург Проспект Академика Сахарова 95/3,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Петрокаменская Улица 1а,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Свердлова 62,unknown,Wildberries
+unknown,wildberries,село Криулино Мирная Улица 25,unknown,Wildberries
+unknown,wildberries,Свердловская область Реж Пролетарская улица 2,unknown,Wildberries
+unknown,wildberries,Туринск Улица Горького 55,unknown,Wildberries
+unknown,wildberries,Екатеринбург Студенческая Улица 58,unknown,Wildberries
+unknown,wildberries,Красноуфимск Советская Улица 40,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Победы 102,unknown,Wildberries
+unknown,wildberries,Свердловская область Лесной улица Мира 8А,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Анатолия Муранова 18,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Пархоменко 99,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Стачек 62,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил Парковая улица 9А,unknown,Wildberries
+unknown,wildberries,посёлок Первомайский Садовая Улица 29а,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок Буланаш улица Максима Горького 29,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Октябрьский Проспект 15,unknown,Wildberries
+unknown,wildberries,Свердловская область село Петрокаменское улица Ленина 1,unknown,Wildberries
+unknown,wildberries,посёлок Нейво-Шайтанский Улица Ленина 35,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Куйбышева 21,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил улица Ильича 3А,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Землячки 45,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок Прохладный улица Свердлова 3А,unknown,Wildberries
+unknown,wildberries,Свердловская область Нижний Тагил Балакинская улица 18,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Уральский Проспект 42,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Натальинск Улица Ленина 25,unknown,Wildberries
+unknown,wildberries,Екатеринбург Уральская Улица 60,unknown,Wildberries
+unknown,wildberries,посёлок Бобровский Улица 1 Мая 59,unknown,Wildberries
+unknown,wildberries,Екатеринбург Московская Улица 225/1,unknown,Wildberries
+unknown,wildberries,посёлок Кедровое Улица Воинов-Интернационалистов 2,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Счастливая улица 16,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Проспект Вагоностроителей 57,unknown,Wildberries
+unknown,wildberries,Екатеринбург Заводская Улица 30,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Павла Шаманова 9,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Шевченко 9,unknown,Wildberries
+unknown,wildberries,посёлок Большой Исток Исетский Переулок 4а,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург проспект Академика Сахарова 83,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Бажова 68,unknown,Wildberries
+unknown,wildberries,посёлок Билимбай Красноармейская Улица 58а,unknown,Wildberries
+unknown,wildberries,Алапаевск Улица Колногорова 82,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Садоводов 109,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Щорса 53,unknown,Wildberries
+unknown,wildberries,Свердловская область Новоуральск Северная улица 6,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Академика Ландау 45,unknown,Wildberries
+unknown,wildberries,Полевской Улица Торопова 9,unknown,Wildberries
+unknown,wildberries,Свердловская область посёлок Белокаменный Комсомольская улица 15,unknown,Wildberries
+unknown,wildberries,Свердловская область Богданович улица Ленина 11,unknown,Wildberries
+unknown,wildberries,Ирбит Улица Маршала Жукова 12а,unknown,Wildberries
+unknown,wildberries,Свердловская область Каменск-Уральский улица Кирова 29,unknown,Wildberries
+unknown,wildberries,Ирбит Советская Улица 59,unknown,Wildberries
+unknown,wildberries,Новоуральск Улица Тегенцева 12,unknown,Wildberries
+unknown,wildberries,Екатеринбург Гаринский Переулок 3,unknown,Wildberries
+unknown,wildberries,село Манчаж Улица 40 Лет Победы 1а,unknown,Wildberries
+unknown,wildberries,село Кашино Улица Ленина 67,unknown,Wildberries
+unknown,wildberries,посёлок Белореченский Уральская Улица 22,unknown,Wildberries
+unknown,wildberries,Верхняя Пышма Улица Алексея Латышова 1а,unknown,Wildberries
+unknown,wildberries,Новоуральск Улица Чурина 6а,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Красных Командиров 29,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург улица Академика Парина 35,unknown,Wildberries
+unknown,wildberries,Свердловская область Новоуральск улица Гагарина 7,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Самолётная улица 7,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Уральская улица 6,unknown,Wildberries
+unknown,wildberries,Свердловская область Новоуральск улица Ленина 66,unknown,Wildberries
+unknown,wildberries,Свердловская область Серов улица Орджоникидзе 53А,unknown,Wildberries
+unknown,wildberries,Свердловская область Екатеринбург Перспективная улица 12/2,unknown,Wildberries
+unknown,wildberries,Свердловская область село Таборы Красноармейская улица 9,unknown,Wildberries
+unknown,wildberries,Свердловская область Реж Заводская улица 8/2,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Арти Улица Рабочей Молодёжи 64,unknown,Wildberries
+unknown,wildberries,посёлок Троицкий Улица Горького 26,unknown,Wildberries
+unknown,wildberries,село Патруши Центральная Улица 1,unknown,Wildberries
+unknown,wildberries,Кушва Улица Республики 3,unknown,Wildberries
+unknown,wildberries,Екатеринбург Лесная Улица 39,unknown,Wildberries
+unknown,wildberries,Качканар 10-Й Микрорайон 23а,unknown,Wildberries
+unknown,wildberries,Нижняя Салда Площадь Свободы 7,unknown,Wildberries
+unknown,wildberries,Екатеринбург Донская Улица 31,unknown,Wildberries
+unknown,wildberries,село Русский Потам Улица Гагарина 1,unknown,Wildberries
+unknown,wildberries,Ирбит Улица Маршала Жукова 2в,unknown,Wildberries
+unknown,wildberries,Красноуфимск Улица Матросова 16,unknown,Wildberries
+unknown,wildberries,Верхняя Пышма Красноармейская Улица 8,unknown,Wildberries
+unknown,wildberries,Алапаевск Улица Говырина 15,unknown,Wildberries
+unknown,wildberries,Екатеринбург Черничная Улица 57,unknown,Wildberries
+unknown,wildberries,Екатеринбург Техническая Улица 45,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Посёлок Первомайский 22,unknown,Wildberries
+unknown,wildberries,Екатеринбург Микрорайон Светлый 10,unknown,Wildberries
+unknown,wildberries,Волчанск Кольцевая Улица 32,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Улица Кутузова 32,unknown,Wildberries
+unknown,wildberries,Талица Улица Ленина 69,unknown,Wildberries
+unknown,wildberries,Екатеринбург Полимерный Переулок 11,unknown,Wildberries
+unknown,wildberries,Екатеринбург Мурзинская Улица 28,unknown,Wildberries
+unknown,wildberries,село Сарсы-Вторые Село Сарсы-Вторые 74,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Ачит Улица Кирова 36а,unknown,Wildberries
+unknown,wildberries,село Бутка Улица Некрасова 9/12,unknown,Wildberries
+unknown,wildberries,Заречный Комсомольская Улица 12,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Чекистов 9,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Атиг Улица Гагарина 5,unknown,Wildberries
+unknown,wildberries,Нижний Тагил Улица Калинина 24,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Евгения Савкова 35,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Проспект Победы 77,unknown,Wildberries
+unknown,wildberries,посёлок Валериановск Лесная Улица 2,unknown,Wildberries
+unknown,wildberries,Каменск-Уральский Улица 4-Й Пятилетки 49,unknown,Wildberries
+unknown,wildberries,Екатеринбург Улица Краснофлотцев 69,unknown,Wildberries
+unknown,wildberries,посёлок Рудничный Воронцовская Улица 1,unknown,Wildberries
+unknown,wildberries,посёлок Сарана Улица 1918 Года 32,unknown,Wildberries
+unknown,wildberries,Екатеринбург Коуровская Улица 13/3,unknown,Wildberries

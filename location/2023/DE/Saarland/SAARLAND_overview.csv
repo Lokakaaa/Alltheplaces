@@ -1,0 +1,355 @@
+City,Place Name,Zipcode,Name
+Saarlouis,audi,Rodener Schanze 3 66740 Saarlouis,unknown,Dechent Automobile GmbH
+St. Wendel,audi,Welvertstraße 4-6 66606 St. Wendel,unknown,Autohaus Kröninger GmbH & Co.KG
+Neunkirchen,audi,Am Gneisenauflöz 9 66538 Neunkirchen,unknown,"Scherer GmbH & Co.KG, Homburg"
+Homburg,audi,Saarbrücker Straße 120 66424 Homburg,unknown,"Scherer GmbH & Co. KG, Homburg"
+Saarbrücken,audi,Wiesenstraße 5 66115 Saarbrücken,unknown,Autohaus Scherer GmbH & Co. KG
+Saarlouis,audi,Wallerfanger Straße 124 66740 Saarlouis,unknown,W. Wirtz GmbH
+Heusweiler,audi,Saarbrücker Straße 108-110 66265 Heusweiler,unknown,Autohaus Bojahr GmbH
+Merzig,audi,Zum Wiesenhof 66663 Merzig,unknown,Werner Wirtz GmbH
+Losheim am See,audi,Wolfsborn 50-56 66679 Losheim am See,unknown,Autohaus Klinkner GmbH
+Blieskastel,audi,Bliestalstraße 116 66440 Blieskastel,unknown,Auto Thönes GmbH
+Saarbrücken,barbarossa_baeckerei_de,Metzer Straße 136,unknown,Barbarossa Bäckerei GmbH &#038; Co. KG
+Köllerbach,barbarossa_baeckerei_de,Sprengerstraße 1,unknown,Barbarossa Bäckerei GmbH &#038; Co. KG
+Neunkirchen,burgerking,,unknown,Burger King
+Lebach,burgerking,,unknown,Burger King
+Saarbrücken,burgerking,,unknown,Burger King
+Homburg,das_futterhaus,,unknown,Das Futterhaus Homburg
+Saarlouis,das_futterhaus,,unknown,Das Futterhaus Saarlouis
+St. Ingbert,das_futterhaus,,unknown,Das Futterhaus St. Ingbert
+St. Wendel,deichmann,,unknown,DEICHMANN Filiale St. Wendel Jahnstraße 6
+St. Ingbert,deichmann,,unknown,DEICHMANN Filiale St. Ingbert Dudweiler Straße 101-103
+Saarlouis,deichmann,,unknown,DEICHMANN Filiale Saarlouis Carl-Zeiss-Straße 10
+Saarbrücken,deichmann,,unknown,DEICHMANN Filiale Saarbrücken Bahnhofstrasse 45
+Perl,deichmann,,unknown,DEICHMANN Filiale Perl Trierer Straße 44
+Neunkirchen,deichmann,,unknown,DEICHMANN Filiale Neunkirchen Stummplatz 2
+Merzig,deichmann,,unknown,DEICHMANN Filiale Merzig Poststraße 53
+Losheim,deichmann,,unknown,DEICHMANN Filiale Losheim Haagstraße 16
+Lebach,deichmann,,unknown,DEICHMANN Filiale Lebach Poststraße 28
+Kleinblittersdorf,deichmann,,unknown,DEICHMANN Filiale Kleinblittersdorf Elsässer Straße 97 A
+Homburg,deichmann,,unknown,DEICHMANN Filiale Homburg Gerberstraße 13
+Heusweiler,deichmann,,unknown,DEICHMANN Filiale Heusweiler Saarbrücker Straße 28
+Großrosseln,deichmann,,unknown,DEICHMANN Filiale Großrosseln Bahnhofstraße 9
+Bous,deichmann,,unknown,DEICHMANN Filiale Bous Saarbrücker Straße 197
+Saarbrücken-Bübingen,edeka_de,,unknown,Cap Markt Saarbrücken-Bübingen
+St. Wendel-Niederkirchen,edeka_de,,unknown,CAP Markt St. Wendel-Niederkirchen
+Bexbach-Frankenholz,edeka_de,,unknown,EDEKA Kunzler
+Völklingen,edeka_de,,unknown,Markt-Bäckerei Völklingen
+Saarwellingen,edeka_de,,unknown,EDEKA Kunzler
+Saarbrücken-Dudweiler,edeka_de,,unknown,EDEKA Kunzler
+Wadgassen-Differten,edeka_de,,unknown,EDEKA Kunzler
+Schwalbach,edeka_de,,unknown,EDEKA Kunzler
+Homburg,edeka_de,,unknown,EDEKA Bittner
+Wadern,edeka_de,,unknown,E center HACO Haas & Birtel
+Eppelborn - Wiesbach,edeka_de,,unknown,EDEKA Kessler
+Saarbrücken-Altenkessel,edeka_de,,unknown,Markt-Bäckerei Saarbrücken-Altenkessel
+Wadgassen-Schaffhausen,edeka_de,,unknown,EDEKA Kunzler
+Altforweiler,edeka_de,,unknown,EDEKA Kunzler
+Saarbrücken-Malstatt,edeka_de,,unknown,CAP Markt Saarbrücken
+Püttlingen,edeka_de,,unknown,EDEKA Kunzler
+Uchtelfangen,edeka_de,,unknown,nah und gut Schwan
+Mandelbachtal Erfweiler-Ehlingen,edeka_de,,unknown,Markt-Bäckerei Mandelbachtal Erfweiler-Ehlingen
+Saarbrücken,edeka_de,,unknown,EDEKA Lonsdorfer
+Püttlingen-Köllerbach,edeka_de,,unknown,Markt-Bäckerei Püttlingen-Köllerbach
+Wallerfangen,edeka_de,,unknown,EDEKA Kühne
+Tholey,edeka_de,,unknown,EDEKA Groß
+Neunkirchen-Wellesweiler,edeka_de,,unknown,E center Göksu
+Saarbrücken-Folsterhöhe,edeka_de,,unknown,EDEKA Fuchs
+Ottweiler,edeka_de,,unknown,EDEKA Philippi
+Saarbrücken-St. Arnual,edeka_de,,unknown,EDEKA Lonsdorfer
+Namborn-Eisweiler,edeka_de,,unknown,EDEKA Schneider
+Marpingen,edeka_de,,unknown,EDEKA Scherer
+Spiesen-Elversberg,edeka_de,,unknown,EDEKA Hoffmann & Konrad
+Ensdorf,edeka_de,,unknown,EDEKA Schmidt
+Freisen,edeka_de,,unknown,EDEKA Eckstein
+St. Ingbert,edeka_de,,unknown,EDEKA Hoffmann & Konrad
+Sulzbach,edeka_de,,unknown,EDEKA Hoffmann & Konrad
+Schwalbach-Elm,edeka_de,,unknown,EDEKA Berghoff
+Nohfelden-Türkismühle,edeka_de,,unknown,EDEKA Schäfer
+Mandelbachtal-Erfweiler-Ehlingen,edeka_de,,unknown,EDEKA Schuck
+Saarlouis,edeka_de,,unknown,EDEKA Chiarello
+Friedrichsthal,edeka_de,,unknown,EDEKA Hartmann
+Mandelbachtal-Habkirchen,edeka_de,,unknown,EDEKA  Lonsdorfer
+Rehlingen-Siersburg,edeka_de,,unknown,EDEKA Fuchs
+Beckingen,edeka_de,,unknown,EDEKA Kaiser
+Oberthal,edeka_de,,unknown,EDEKA Schneider
+Saarbrücken-Brebach,edeka_de,,unknown,EDEKA May
+Blieskastel-Lautzkirchen,edeka_de,,unknown,EDEKA Berberich
+Völklingen-Geislautern,edeka_de,,unknown,EDEKA Lorenz
+Kleinblittersdorf,edeka_de,,unknown,EDEKA Lonsdorfer
+Tholey-Hasborn-Dautweiler,edeka_de,,unknown,EDEKA Groß
+Homburg-Erbach,edeka_de,,unknown,EDEKA Lieblang
+Völklingen-Lauterbach,edeka_de,,unknown,nah und gut Heckmann
+Heusweiler-Holz,edeka_de,,unknown,nah und gut Heckmann
+Beckingen-Düppenweiler,edeka_de,,unknown,nah und gut Scherrmann
+Petite Rosselle,fedex,,unknown,unknown
+Saarbrücken,hm,,unknown,Saarbasar Saarbrücken
+St. Ingbert,hm,,unknown,Kaiserstraße 71
+Homburg / Saar,hm,,unknown,Christian-Weber Platz
+Neunkirchen,hm,,unknown,Saarpark-Center Neunkirchen
+Saarlouis,hm,,unknown,Galerie Kleiner Markt
+Saarbrücken,hypovereinsbank_de,,unknown,HypoVereinsbank Saarbrücken
+Saarlouis,hypovereinsbank_de,,unknown,HypoVereinsbank Saarlouis
+unknown,ich_tanke_strom,Auf Scharlen 1  66440 Blieskastel,unknown,unknown
+unknown,ich_tanke_strom,Adenauerstraße 116  66399 Mandelbachtal,unknown,unknown
+unknown,ich_tanke_strom,Lasbachstraße 8  66287 Quierschied,unknown,unknown
+SARREGUEMINES,ikks,,unknown,SARREGUEMINES MMXJ
+Saarbrücken,jacques_wein_depot_de,,unknown,Saarbrücken St. Johann
+Saarbrücken,karstadt_de,,unknown,GALERIA Saarbrücken am St. Johanner Markt
+Saarbrücken,kieser_training_de,,unknown,Kieser Saarbrücken
+Saarbrücken,lovisa,,unknown,Lovisa
+St. Ingbert,mercedes_benz,,unknown,Saar-Pfalz-Garage GmbH
+Saarbrücken,mercedes_benz,,unknown,Torpedo Garage Saarland GmbH
+Wadern,mercedes_benz,,unknown,Gerd Schirra GmbH
+Merzig,mercedes_benz,,unknown,Merbag Trier GmbH
+Lebach,mercedes_benz,,unknown,Autohaus Reitenbach GmbH
+Sulzbach,mercedes_benz,,unknown,Autohaus Birkelbach GmbH
+St. Wendel,mercedes_benz,,unknown,Torpedo Garage Saarland GmbH
+Neunkirchen,mercedes_benz,,unknown,Torpedo Garage Saarland GmbH
+Saarlouis,mercedes_benz,,unknown,Torpedo Garage Saarland GmbH
+Völklingen-Luisenthal,netto_de,,unknown,Netto Marken-Discount
+Heiligenwald,netto_de,,unknown,Netto Marken-Discount
+Saarbrücken,netto_de,,unknown,Netto Marken-Discount
+Blieskastel,netto_de,,unknown,Netto Marken-Discount
+Neunkirchen,netto_de,,unknown,Netto Marken-Discount
+Homburg-Einöd,netto_de,,unknown,Netto Marken-Discount
+Göttelborn,netto_de,,unknown,Netto Marken-Discount
+St. Wendel-Bliesen,netto_de,,unknown,Netto Marken-Discount
+Freisen-Oberkirchen,netto_de,,unknown,Netto Marken-Discount
+Homburg,netto_de,,unknown,Netto Marken-Discount
+Wadern,netto_de,,unknown,Netto Marken-Discount
+Sulzbach,netto_de,,unknown,Netto Marken-Discount
+Spiesen-Elversberg,netto_de,,unknown,Netto Marken-Discount
+Großrosseln-Naßweiler,netto_de,,unknown,Netto Marken-Discount
+Riegelsberg,netto_de,,unknown,Netto Marken-Discount
+Mettlach,netto_de,,unknown,Netto Marken-Discount
+Dillingen-Diefflen,netto_de,,unknown,Netto Marken-Discount
+Saarwellingen,netto_de,,unknown,Netto Marken-Discount
+Völklingen,netto_de,,unknown,Netto Marken-Discount
+Püttlingen,netto_de,,unknown,Netto Marken-Discount
+Lebach-Thalexweiler,netto_de,,unknown,Netto Marken-Discount
+Dillingen-Saar,netto_de,,unknown,Netto Marken-Discount
+Kirkel-Limbach,netto_de,,unknown,Netto Marken-Discount
+Nonnweiler,netto_de,,unknown,Netto Marken-Discount
+Schwalbach,netto_de,,unknown,Netto Marken-Discount
+Merzig,netto_de,,unknown,Netto Marken-Discount
+St. Ingbert,netto_de,,unknown,Netto Marken-Discount
+Saarbrücken-St. Arnual,netto_de,,unknown,Netto Marken-Discount
+Türkismühle,netto_de,,unknown,Netto Marken-Discount
+Assweiler,netto_de,,unknown,Netto Marken-Discount
+Beckingen,netto_de,,unknown,Netto Marken-Discount
+Saarlouis,netto_de,,unknown,Netto Marken-Discount
+Weiskirchen,netto_de,,unknown,Netto Marken-Discount
+Schiffweiler,netto_de,,unknown,Netto Marken-Discount
+Wadgassen,netto_de,,unknown,Netto Marken-Discount
+Bous,netto_de,,unknown,Netto Marken-Discount
+Schmelz,netto_de,,unknown,Netto Marken-Discount
+Rilchingen-Hanweiler,netto_de,,unknown,Netto Marken-Discount
+Saarbrücken,nordsee,,unknown,Nordsee Saarbrücken
+Neunkirchen,nordsee,,unknown,NORDSEE Neunkirchen Saarpark
+Schmelz,obi_eu,,unknown,Obi Markt Schmelz
+Sankt Ingbert,obi_eu,,unknown,Obi Markt Sankt Ingbert
+Neunkirchen,obi_eu,,unknown,Obi Markt Neunkirchen
+Nohfelden,orlen,,unknown,STAR Tankstelle 847
+Gersheim,penny_de,,unknown,Penny Am alten Bahnhof
+Perl,penny_de,,unknown,Penny SaarLorLux
+Rehlingen-Siersburg,penny_de,,unknown,Penny Rehlingen
+Saarlouis,penny_de,,unknown,Penny Fraulautern
+Neunkirchen,penny_de,,unknown,Penny Alte Ziegelei
+Namborn,penny_de,,unknown,Penny Allerburg
+Nonnweiler-Otzenhausen,penny_de,,unknown,Penny Otzenhausen
+Blieskastel,penny_de,,unknown,Penny Webenheim
+Saarbrücken,penny_de,,unknown,Penny Saarbrücken
+Oberthal,penny_de,,unknown,Penny Im Brühl
+Dillingen,penny_de,,unknown,Penny Dillingen
+Ottweiler,penny_de,,unknown,Penny Ottweiler
+Saarbrücken,santander_de,,unknown,Santander
+HOMBURG/SAAR,shell,,unknown,A6 HOMBURG / SAAR
+HOMBURG,shell,,unknown,"HOMBURG, BEXBACHER STR. 74"
+NEUNKIRCHEN,shell,,unknown,"NEUNKIRCHEN, FERNSTR"
+ST.WENDEL,shell,,unknown,"ST.WENDEL, LINXWEILER STR. 2"
+OTTWEILER,shell,,unknown,"OTTWEILER, BLIESSTR"
+ST. INGBERT,shell,,unknown,"ST.INGBERT, SUEDSTR 64"
+GERSHEIM,shell,,unknown,"GERSHEIM, BLIESTALSTR"
+MERZIG,shell,,unknown,"MERZIG, MERZIGER STR. 1"
+WEISKIRCHEN,shell,,unknown,"WEISKIRCHEN, AUF DER HEIDE 4-8"
+WADERN,shell,,unknown,"WADERN, SAARBRUECKER STR"
+WALLERFANGEN,shell,,unknown,"WALLERFANGEN, HAUPTSTR"
+SAARLOUIS,shell,,unknown,"SAARLOUIS, LISDORFER STR."
+ÜBERHERRN-ALTFORW.,shell,,unknown,"UEBERHERRN-ALTFORW., LANDSTR."
+PÜTTLINGEN,shell,,unknown,"PUETTLINGEN, BAHNHOFSTR. 76."
+VÖLKLINGEN,shell,,unknown,"VOELKLINGEN, KAROLINGER STR"
+SAARBRÜCKEN,shell,,unknown,"SAARBRÜCKEN, PROVINZIALSTR. 2"
+VÖLKLINGEN LUDWEILER,shell,,unknown,"VOELKLINGEN, VOELKLINGER STR."
+SAARBRUECKEN,shell,,unknown,A6 GOLDENE BREMM SUED
+EPPELBORN,shell,,unknown,"EPPELBORN, RATHAUSSTR. 114."
+KLEINBLITTERSDORF,shell,,unknown,"KLEINBLITTERSDORF, KONRAD-ADENAUER-"
+Dillingen/Saar,storebox,Herrenstraße 8-10 66763 Dillingen/Saar Deutschland ,unknown,Storebox Dillingen Herrenstrasse
+Saarbrücken,storebox,Hochstraße 158 66115 Saarbrücken Deutschland ,unknown,Storebox Saarbrücken Burbach
+Saarbrücken,storebox,Beethovenstraße 27 66111 Saarbrücken Deutschland ,unknown,Storebox Saarbrücken Mitte
+Merzig,tedi,,unknown,TEDi GmbH & Co. KG
+Losheim am See,tedi,,unknown,TEDi GmbH & Co. KG
+Beckingen,tedi,,unknown,TEDi GmbH & Co. KG
+Großrosseln,tedi,,unknown,TEDi GmbH & Co. KG
+Wadgassen,tedi,,unknown,TEDi GmbH & Co. KG
+Bous,tedi,,unknown,TEDi GmbH & Co. KG
+Völklingen,tedi,,unknown,TEDi GmbH & Co. KG
+Ensdorf,tedi,,unknown,TEDi GmbH & Co. KG
+Schwalbach,tedi,,unknown,TEDi GmbH & Co. KG
+Saarlouis,tedi,,unknown,TEDi GmbH & Co. KG
+Püttlingen,tedi,,unknown,TEDi GmbH & Co. KG
+Saarbrücken,tedi,,unknown,TEDi GmbH & Co. KG
+Dillingen,tedi,,unknown,TEDi GmbH & Co. KG
+Heusweiler,tedi,,unknown,TEDi GmbH & Co. KG
+Lebach,tedi,,unknown,TEDi GmbH & Co. KG
+Schmelz,tedi,,unknown,TEDi GmbH & Co. KG
+St. Ingbert,tedi,,unknown,TEDi GmbH & Co. KG
+Blieskastel,tedi,,unknown,TEDi GmbH & Co. KG
+Neunkirchen (Saar),tedi,,unknown,TEDi GmbH & Co. KG
+Neunkirchen,tedi,,unknown,TEDi GmbH & Co. KG
+Homburg,tedi,,unknown,TEDi GmbH & Co. KG
+Wadern,tedi,,unknown,TEDi GmbH & Co. KG
+Oberthal,tedi,,unknown,TEDi GmbH & Co. KG
+St. Wendel,tedi,,unknown,TEDi GmbH & Co. KG
+Namborn,tedi,,unknown,TEDi GmbH & Co. KG
+Sankt Ingbert,thomas_philipps,,unknown,Thomas Philipps Sankt Ingbert 
+Lebach,thomas_philipps,,unknown,Thomas Philipps Lebach
+Bous,thomas_philipps,,unknown,Thomas Philipps Bous
+unknown,tier,,unknown,Tier
+KLEINBLITTERSDORF,visa,,unknown,unknown
+GROSSROSSELN-NASSWEILER,visa,,unknown,unknown
+KLEINBLITTERSDORF-AUERSMACHER,visa,,unknown,unknown
+BLIESMENGEN-BOLCHEN,visa,,unknown,unknown
+GERSHEIM,visa,,unknown,unknown
+KLEINBLITTERSD-BLIESRANSBACH,visa,,unknown,unknown
+SAARBRUECKEN-BUEBINGEN,visa,,unknown,unknown
+GROSSROSSELN,visa,,unknown,unknown
+VOELKLINGEN-LUDWEILER,visa,,unknown,unknown
+SAARBRUECKEN-GUEDINGEN,visa,,unknown,unknown
+SAARBRUECKEN FECHINGEN,visa,,unknown,unknown
+UEBERHERRN,visa,,unknown,unknown
+ORMESHEIM,visa,,unknown,unknown
+SAARBRUECKEN-ENSHEIM,visa,,unknown,unknown
+VOLKLINGEN,visa,,unknown,unknown
+SAARBRUECKEN-BREBACH,visa,,unknown,unknown
+WADGASSEN,visa,,unknown,unknown
+SAARBRUECKEN-KLARENTHAL,visa,,unknown,unknown
+SAARBRUECKEN-ST.ARNUAL,visa,,unknown,unknown
+SAARBRUECKEN,visa,,unknown,unknown
+SAARBRUECKEN-BISCHMISHEIM,visa,,unknown,unknown
+SAARBRUECKEN-GERSWEILER,visa,,unknown,unknown
+SAARBRUCKEN,visa,,unknown,unknown
+VOLKLINGEN-WEHRDEN,visa,,unknown,unknown
+SAARBRUECKEN-OTTENHAUSEN,visa,,unknown,unknown
+SAARBRUECKEN SCHAFBRUECKE,visa,,unknown,unknown
+OMMERSHEIM,visa,,unknown,unknown
+SAARBRUECKEN-ROCKERSHAUSEN,visa,,unknown,unknown
+ASSWEILER,visa,,unknown,unknown
+SAABRUECKEN,visa,,unknown,unknown
+VOELKLINGEN,visa,,unknown,unknown
+SAARBRUECKEN-ALTENKESSEL,visa,,unknown,unknown
+BOUS,visa,,unknown,unknown
+ST. INGBERT,visa,,unknown,unknown
+WALLERFANGEN,visa,,unknown,unknown
+BLIESKASTEL,visa,,unknown,unknown
+NIEDERWURZBACH,visa,,unknown,unknown
+DUDWEILER-SUED,visa,,unknown,unknown
+SCHWALBACH,visa,,unknown,unknown
+SAARLOUIS,visa,,unknown,unknown
+PUETTLINGEN,visa,,unknown,unknown
+SAARBRUECKEN-DUDWEILER,visa,,unknown,unknown
+HASSEL,visa,,unknown,unknown
+ENSDORF,visa,,unknown,unknown
+PUETTLINGEN-KOELLERBACH,visa,,unknown,unknown
+PUTTLINGEN-KOLLERBACH,visa,,unknown,unknown
+BLK-BIERBACH,visa,,unknown,unknown
+RIEGELSBERG,visa,,unknown,unknown
+EINOD,visa,,unknown,unknown
+ROHRBACH,visa,,unknown,unknown
+SULZBACH,visa,,unknown,unknown
+KIRKEL,visa,,unknown,unknown
+RIEGELSBERG-HILSCHBACH,visa,,unknown,unknown
+RIEGELSBERG-WALPERSHOFEN,visa,,unknown,unknown
+SULZBACH-HUEHNERFELD,visa,,unknown,unknown
+REHLINGEN-SIERSBURG,visa,,unknown,unknown
+SAARWELLINGEN,visa,,unknown,unknown
+HEUSWEILER,visa,,unknown,unknown
+DILLINGEN,visa,,unknown,unknown
+HOMBURG,visa,,unknown,unknown
+SPIESEN-ELVERSBERG,visa,,unknown,unknown
+HEUSWEILER-HOLZ,visa,,unknown,unknown
+QUIERSCHIED,visa,,unknown,unknown
+FRIEDRICHSTHAL,visa,,unknown,unknown
+BEEDEN,visa,,unknown,unknown
+KIRRBERG,visa,,unknown,unknown
+FRIEDRICHSTHAL-BILDSTOCK,visa,,unknown,unknown
+NEUNKIRCHEN,visa,,unknown,unknown
+LIMBACH,visa,,unknown,unknown
+QUIERSCHIED-GOETTELBORN,visa,,unknown,unknown
+REHLINGEN,visa,,unknown,unknown
+HEUSWEILER-EIWEILER,visa,,unknown,unknown
+BECKINGEN,visa,,unknown,unknown
+NALBACH,visa,,unknown,unknown
+MERCHWEILER,visa,,unknown,unknown
+SCHIFFWEILER,visa,,unknown,unknown
+ERBACH WOHNPARK,visa,,unknown,unknown
+BEXBACH,visa,,unknown,unknown
+ERBACH,visa,,unknown,unknown
+ILLINGEN,visa,,unknown,unknown
+MERZIG-BIETZEN,visa,,unknown,unknown
+HAUSTADT,visa,,unknown,unknown
+BECKINGEN-DUPPENWEILER,visa,,unknown,unknown
+OBERBEXBACH,visa,,unknown,unknown
+MERZIG,visa,,unknown,unknown
+LEBACH,visa,,unknown,unknown
+MERZIG-HILBRINGEN,visa,,unknown,unknown
+MERZIG HST,visa,,unknown,unknown
+JAGERSBURG,visa,,unknown,unknown
+BESSERINGEN,visa,,unknown,unknown
+EPPELBORN,visa,,unknown,unknown
+FRANKENHOLZ,visa,,unknown,unknown
+MERZIG-STADTMITTE,visa,,unknown,unknown
+SCHMELZ,visa,,unknown,unknown
+PERL,visa,,unknown,unknown
+OTTWEILER,visa,,unknown,unknown
+MERZIG-SCHWEMLINGEN,visa,,unknown,unknown
+BECKINGEN-REIMSBACH,visa,,unknown,unknown
+BROTDORF,visa,,unknown,unknown
+LOSHEIM-BACHEM,visa,,unknown,unknown
+METTLACH,visa,,unknown,unknown
+ORSCHOLZ,visa,,unknown,unknown
+MARPINGEN,visa,,unknown,unknown
+LOSHEIM-WAHLEN,visa,,unknown,unknown
+PERL-NENNIG,visa,,unknown,unknown
+LOSHEIM,visa,,unknown,unknown
+NENNIG,visa,,unknown,unknown
+ST. WENDEL,visa,,unknown,unknown
+THOLEY,visa,,unknown,unknown
+MARPINGEN ALSWEILER,visa,,unknown,unknown
+LOSHEIM AM SEE,visa,,unknown,unknown
+GLOBUS LOSHEIM,visa,,unknown,unknown
+LOSHEIM-BRITTEN,visa,,unknown,unknown
+NIEDERKIRCHEN,visa,,unknown,unknown
+WEISKIRCHEN-RAPPWEILER,visa,,unknown,unknown
+WADERN-LOCKWEILER,visa,,unknown,unknown
+OBERTHAL,visa,,unknown,unknown
+NUNKIRCHEN,visa,,unknown,unknown
+WADERN,visa,,unknown,unknown
+NONNWEILER,visa,,unknown,unknown
+NAMBORN,visa,,unknown,unknown
+WEISKIRCHEN,visa,,unknown,unknown
+FREISEN,visa,,unknown,unknown
+WADRILL,visa,,unknown,unknown
+NOHFELDEN,visa,,unknown,unknown
+Dillingen,western_union,,unknown,DILLINGER MARKT
+Merzig,western_union,,unknown,POSTAGENTUR
+Saarlouis,western_union,,unknown,TELECAFE
+Volklingen,western_union,,unknown,SAAR AN AND VERKAUF
+Saarbruecken,western_union,,unknown,REISEBANK AG
+Saarbrucken Malstatt,western_union,,unknown,HANDY SHOP
+Saarbrucken,western_union,,unknown,REPAIRPOINT REPARATUR AN AND VERKAUF
+Saarbruecken Dudweiler,western_union,,unknown,PAKTEL CALL CENTER
+Kleinblittersdorf,western_union,,unknown,B M HANDEL GMBH
+Neunkirchen,western_union,,unknown,CLARA S AFROSTYLE
+Sankt Wendel,western_union,,unknown,DAS ROSENLADCHEN
+Homburg,western_union,,unknown,PRESENT SHOP MERCI

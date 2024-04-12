@@ -1,0 +1,26 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+DOM-71,aldi_sud_ch,ALDI,"Seftigenstrasse 310, Wabern, 3084",Wabern,,,CH,+41 31 961 28 53,,Mo-Fr 08:00-20:00; Sa 08:00-17:00,ALDI,Q41171672
+0a2c117e7cef12c9be22959b14dadd7a2e4aef02,bern_ch,,,Bern,,,CH,,,,,
+eecd3f08e82d9469d5d410f0a8d9eb91a7b9d45d,bern_ch,Velostatt,,Wabern,,,CH,,http://velostatt.ch,,,
+4a4b5449fe103b255094538bbf9ea8186f3e8d92,bern_ch,e-motion e-Bike Welt Bern,,Wabern,,,CH,+41 31 961 15 0,https://www.emotion-technologies.ch/bern/,,,
+71048efc2d35c5f6ccff3537e72ae1c60c766b3a,bern_ch,Welowerk,,Wabern,,,CH,,,,,
+f4151da149b2f400ac354b93a61e10ed828bbf11,bern_ch,Koller Velo,,Wabern,,,CH,,,,,
+ab50272af1cae2063246ed44550ff89172545a80,bern_ch,,,Köniz,,,CH,,,,,
+e085682643fde58fde355605148f9cab045c8ef2,bern_ch,,,Köniz,,,CH,,,,,
+7c20d711e6e65b93eae74b21941c7571385bc4fa,bern_ch,,,Köniz,,,CH,,,,,
+799a261fe66c2273adbd4130e09c025e310d4835,bern_ch,,,Köniz,,,CH,,,,,
+f8989aa743db91cb1153e8e1ad683a74b9f135d6,bern_ch,carvelo2go,,Köniz,,,CH,,,,carvelo2go,Q110278232
+ffab618e93d6d23bf8c0bbed7cb2665a652739f7,bern_ch,carvelo2go,,Wabern bei Bern,,,CH,,,,carvelo2go,Q110278232
+5e7f575827b134214ec00845e9228df56561baf4,bern_ch,,,Köniz,,,CH,,,,,
+seftigenstrasse-368-3084-wabern,denner_ch,Denner,,Wabern,,,CH,+41 58 999 05 34,https://www.denner.ch/de/filialen/denner-filiale-und-oeffnungszeiten/store/seftigenstrasse-368-3084-wabern/,Mo-We 08:00-19:00; Th-Fr 08:00-20:00; Sa 07:30-18:00,Denner,Q379911
+sharedmobility.ch:carvelo2go:a89495e3-6b95-4f20-f519-3e5f93016fc4,gbfs,e-motion Bern,,,,,CH,,https://www.sharedmobility.ch/info,,sharedmobility.ch,
+sharedmobility.ch:carvelo2go:193d8061-b236-48ce-c927-a66fe3aba0dc,gbfs,Märitladen,,,,,CH,,https://www.sharedmobility.ch/info,,sharedmobility.ch,
+publibike:9053d46e-14e5-493c-a5ee-cfd57c22afc9,gbfs,Camping Eichholz,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:09356f5d-9755-429b-9629-201285e2779e,gbfs,Tram-Endstation,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:fe277f43-9f28-424f-ab2c-b142b2d9c830,gbfs,Wabern Bahnhof,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:a14966b7-ac86-494f-8d7f-4bcc0d10db9c,gbfs,Wabern Zentrum,,,,,CH,,https://www.publibike.ch,,PubliBike,
+publibike:49b221fd-cf4d-4e0c-87a7-41e0710a342e,gbfs,WINTERPAUSE: Station Gurten Kulm ist nicht in Betrieb,,,,,CH,,https://www.publibike.ch,,PubliBike,
+0034350_super,migros_ch,Migros,,Wabern,,,CH,+41 58 567 30 25,https://filialen.migros.ch/de/migros-supermarkt-wabern-chly-wabere,Mo-We 08:00-19:00; Th-Fr 08:00-20:00; Sa 07:30-17:00,Migros,Q115661152
+0034350_flori,migros_ch,Florissimo,,Wabern,,,CH,+41 58 567 30 25,https://filialen.migros.ch/de/florissimo-wabern-chly-wabere,Mo-We 08:00-19:00; Th-Fr 08:00-20:00; Sa 07:30-17:00,Florissimo,Q115659418
+0037313_voi,migros_ch,VOI,,Wabern,,,CH,+41 58 567 48 40,https://filialen.migros.ch/de/voi-voi-wabern,Mo-Fr 08:00-20:00; Sa 08:00-17:00,VOI,Q110277616
+,visa,,,WABERN,,,CH,,,,,

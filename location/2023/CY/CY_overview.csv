@@ -1,0 +1,305 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+01,adidas,Nicosia,1
+03,adidas,Larnaca,1
+UNKNOWN,alamo,Paphos,1
+UNKNOWN,alamo,Larnaca,1
+UNKNOWN,american_eagle_outfitters,STROVOLOS,1
+LEFKOSIA,audi,Nicosia,1
+LIMASSOL,audi,Limassol,2
+LARNAKA,audi,Larnaca,2
+RITACOURT2,avis,Limassol,1
+AYIANAPA,avis,Ayia Napa,1
+LARNACA,avis,Larnaca,1
+PAPHOS,avis,Paphos,2
+UNKNOWN,beev_gb,Akrotiri,1
+UNKNOWN,bmw_group,Nicosia,1
+ZYPERNSÜD,bmw_group,Paphos,1
+ZYPERNSUD,bmw_group,Paphos,1
+ZYPERNSUD,bmw_group,Latsia,1
+ZYPERNSÜD,bmw_group,Limassol,1
+ZYPERNSUD,bmw_group,Limassol,1
+UNKNOWN,crocs_eu,Nicosia,1
+UNKNOWN,deloitte,Limassol,1
+UNKNOWN,deloitte,Nicosia,2
+UNKNOWN,deloitte,unknown,2
+PAFOS,easypay,unknown,3
+LARNAKA,easypay,unknown,2
+AMMOCHOSTOS,easypay,unknown,1
+LEFKOSIA,easypay,unknown,5
+LIMASSOL,easypay,unknown,3
+UNKNOWN,ecco,Paphos,1
+UNKNOWN,ecco,Lefkosia,4
+UNKNOWN,ecco,Larnaca,2
+UNKNOWN,ecco,Limassol,2
+UNKNOWN,ecco,Egkomi,1
+UNKNOWN,enterprise,Larnaca,1
+UNKNOWN,enterprise,Limassol,1
+UNKNOWN,enterprise,Paphos,1
+UNKNOWN,ernst_young,Limassol,1
+UNKNOWN,ernst_young,Nicosia,1
+CY,exxonmobil,Λευκωσία,28
+CY,exxonmobil,Πάφος,8
+CY,exxonmobil,Λεμεσός,17
+CY,exxonmobil,Αμμόχωστος,5
+CY,exxonmobil,Λάρνακα,8
+UNKNOWN,gbfs,unknown,260
+UNKNOWN,hardrock,Ayia Napa,1
+UNKNOWN,hm,Nicosia,2
+UNKNOWN,hm,Limassol,1
+01,hugo_boss,Nicoisa,1
+01,hugo_boss,Limassol,1
+01,hugo_boss,Larnaka,1
+LARNAKA,ich_tanke_strom,unknown,1
+UNKNOWN,leonidas,Larnaca,2
+UNKNOWN,leonidas,Nicosia,2
+UNKNOWN,leonidas,LIMASSOL,1
+UNKNOWN,lhw,Limassol,1
+UNKNOWN,lhw,Neo Chorio,1
+UNKNOWN,lidl_cy,Lemesos,2
+UNKNOWN,lidl_cy,Lefkosia,1
+UNKNOWN,lidl_cy,Paralimni,2
+UNKNOWN,lidl_cy,Latsia,1
+UNKNOWN,lidl_cy,Aradippou,1
+UNKNOWN,lidl_cy,Lakatamia,1
+UNKNOWN,lidl_cy,Larnaka,1
+UNKNOWN,lidl_cy,Ormideia,1
+UNKNOWN,lidl_cy,Kokkinotrimithia,1
+UNKNOWN,lidl_cy,Aglantzia,1
+UNKNOWN,lidl_cy,Pafos,2
+UNKNOWN,lidl_cy,Strovolos,2
+UNKNOWN,lidl_cy,Ypsonas,1
+UNKNOWN,lidl_cy,Agios Athanasios,1
+UNKNOWN,lidl_cy,Meneou,1
+UNKNOWN,lidl_cy,Mouttagiaka,1
+UNKNOWN,longchamp,NICOSIA,1
+UNKNOWN,man_truck_and_bus,Larnaca,1
+UNKNOWN,man_truck_and_bus,Nicosia,1
+UNKNOWN,marriott,Paphos,1
+UNKNOWN,maserati,NICOSIA,1
+UNKNOWN,maserati,LIMASSOL,1
+UNKNOWN,mcdonalds_cy,unknown,23
+LARNAKA,mercedes_benz,Larnaca,1
+UNKNOWN,mercedes_benz,Pafos,2
+UNKNOWN,mercedes_benz,Lefkoşa,1
+UNKNOWN,mercedes_benz,Nicosia,2
+UNKNOWN,mercedes_benz,Limassol,3
+CYPRUSNORTH,mercedes_benz,Lefkoşa,1
+CYPRUSNORTH,mercedes_benz,Girne,1
+NICOSIA,mercedes_benz,Nicosia,1
+UNKNOWN,michaelkors,Larnaca,1
+UNKNOWN,moneygram,PERISTERONA,1
+UNKNOWN,moneygram,KOKKINOTRIMITHIA,2
+UNKNOWN,moneygram,ISKELE,5
+UNKNOWN,moneygram,YPSONAS,1
+UNKNOWN,moneygram,GAZIMAGUSA,1
+UNKNOWN,moneygram,LEFKOSIA,52
+UNKNOWN,moneygram,ARADIPPOU,3
+UNKNOWN,moneygram,AYIA NAPA,4
+UNKNOWN,moneygram,NICOSIA,12
+UNKNOWN,moneygram,LEMESOS,22
+UNKNOWN,moneygram,LARNACA,8
+UNKNOWN,moneygram,HASPOLAT,1
+UNKNOWN,moneygram,PROTARAS,1
+UNKNOWN,moneygram,GUZELYURT,5
+UNKNOWN,moneygram,ATHIENOU,2
+UNKNOWN,moneygram,FAMAGUSTA,8
+UNKNOWN,moneygram,DALI,2
+UNKNOWN,moneygram,PAFOS,9
+UNKNOWN,moneygram,KYRENIA,7
+UNKNOWN,moneygram,PARALIMNI,5
+UNKNOWN,moneygram,POLI CHRYSOCHOUS,2
+UNKNOWN,moneygram,KITI,2
+UNKNOWN,moneygram,LIMASSOL,3
+UNKNOWN,moneygram,MAUSA,1
+UNKNOWN,moneygram,STROVOLOS,3
+UNKNOWN,moneygram,DEGIRMENLIK,1
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,moneygram,LARNAKA,9
+UNKNOWN,moneygram,PAPHOS,2
+UNKNOWN,moneygram,LATSIA,2
+UNKNOWN,moneygram,GAZIMAGOSA,1
+UNKNOWN,moneygram,MAGUSA,2
+UNKNOWN,moneygram,GIRNE,7
+UNKNOWN,moneygram,EPISKOPI,1
+UNKNOWN,moneygram,AMMOCHOSTOS,2
+UNKNOWN,moneygram,KIONELI,1
+UNKNOWN,moneygram,GALINI,1
+UNKNOWN,moneygram,GALINOPORNI,1
+UNKNOWN,moneygram,KOSI,1
+UNKNOWN,moneygram,GOURRI,1
+UNKNOWN,moneygram,KERYNEIA,1
+UNKNOWN,moneygram,MILIA,1
+UNKNOWN,moneygram,MESA GEITONIA,1
+UNKNOWN,moneygram,KATO POLEMIDIA,1
+UNKNOWN,moneygram,AGROS,1
+UNKNOWN,moneygram,ORMIDEIA,2
+UNKNOWN,moneygram,XYLOTYMVOU,1
+UNKNOWN,moneygram,XYLOFAGOU,1
+UNKNOWN,moneygram,AGIA NAPA,1
+UNKNOWN,moneygram,LIOPETRI,1
+UNKNOWN,moneygram,DERYNEIA,1
+UNKNOWN,moneygram,GEROSKIPOU,1
+UNKNOWN,moneygram,EGKOMI,1
+UNKNOWN,moneygram,LAKATAMEIA,1
+UNKNOWN,moneygram,TSERI,1
+UNKNOWN,moneygram,PEGEIA,1
+UNKNOWN,moneygram,PISSOURI,1
+UNKNOWN,moneygram,AVGOROU,1
+UNKNOWN,moneygram,LEFKOSA,7
+UNKNOWN,national,Paphos,1
+UNKNOWN,national,Larnaca,1
+UNKNOWN,next,Larnaca,1
+UNKNOWN,next,Nicosia,2
+UNKNOWN,next,Kokkinotrimithia,1
+UNKNOWN,next,6022 Larnaca,1
+UNKNOWN,next,Paphos,1
+UNKNOWN,next,NICOSIA,1
+UNKNOWN,next,PAPHOS,1
+UNKNOWN,next,Limassol,1
+KUZEYKIBRISTÜRKCUMHURİYETİ,nike,Gönyeli Çemberi Lefkoşe,1
+UNKNOWN,ovs,Nicosia,5
+UNKNOWN,ovs,Larnaca,3
+UNKNOWN,ovs,Paphos,2
+UNKNOWN,ovs,Limassol,1
+UNKNOWN,ovs,Phapos,1
+UNKNOWN,petit_bateau,Nicosia,1
+UNKNOWN,sixt,Nicosia,1
+UNKNOWN,sixt,Paphos,2
+UNKNOWN,sixt,Protaras,1
+UNKNOWN,sixt,Larnaca,1
+UNKNOWN,sixt,Limassol,1
+UNKNOWN,skoda,unknown,4
+NICOSIA,smart,Nicosia,1
+UNKNOWN,smart,Nicosia,1
+UNKNOWN,smart,Limassol,1
+LIMASSOL,starbucks_eu,Lemesos,5
+PAFOS,starbucks_eu,Paphos,1
+PAFOS,starbucks_eu,Pafos,1
+LARNAKA,starbucks_eu,Larnaca,2
+LARNAKA,starbucks_eu,Larnaka,1
+LEFKOSIA,starbucks_eu,2324 NICOSIA,1
+LEFKOSIA,starbucks_eu,Nicosia,4
+LEFKOSIA,starbucks_eu,2025 NICOSIA,1
+AMMOCHOSTOS,starbucks_eu,5280 PROATARAS,1
+UNKNOWN,subway,Paphos,1
+UNKNOWN,subway,Limassol,2
+UNKNOWN,subway,Ammochostos,1
+UNKNOWN,sunglass_hut_2,Limassol,1
+UNKNOWN,timberland,Limassol,1
+UNKNOWN,timberland,Nicosia,1
+UNKNOWN,tommy_hilfiger,Limassol,2
+UNKNOWN,tommy_hilfiger,Nicosia,3
+UNKNOWN,tommy_hilfiger,Paphos,1
+UNKNOWN,tommy_hilfiger,Larnaca,1
+UNKNOWN,united_colors_of_benetton,NICOSIA,4
+UNKNOWN,united_colors_of_benetton,LEMESOS,3
+UNKNOWN,united_colors_of_benetton,LARNAKA,1
+NICOSIA,vans,Nicosia,2
+KYRENIA,vans,Kyrenia,1
+LIMASSOL,vans,Limassol,1
+UNKNOWN,visa,PAPHOS,93
+UNKNOWN,visa,PAFOS,73
+UNKNOWN,visa,KATO PAPHOS,16
+UNKNOWN,visa,LIMASSOL,153
+UNKNOWN,visa,FAMAGUSTA,28
+UNKNOWN,visa,PEGEIA,13
+UNKNOWN,visa,CHLORAKAS,14
+UNKNOWN,visa,GEROSKIPOU,4
+POLISCHRYSOCHOU,visa,PAPHOS,1
+UNKNOWN,visa,EMPA,1
+UNKNOWN,visa,ACHELEIA,2
+UNKNOWN,visa,KISSONERGA,3
+UNKNOWN,visa,OROKLINI,2
+UNKNOWN,visa,MESOGI,2
+UNKNOWN,visa,KONIA,1
+UNKNOWN,visa,MANDRIA,2
+UNKNOWN,visa,TIMI,1
+UNKNOWN,visa,TALA,3
+UNKNOWN,visa,KOUKLIA,3
+UNKNOWN,visa,TSADA,1
+UNKNOWN,visa,PISSOURI,4
+UNKNOWN,visa,POLEMI,1
+UNKNOWN,visa,GIOLOU,1
+UNKNOWN,visa,LATSI,5
+UNKNOWN,visa,POLI CHRYSOCHOUS,4
+UNKNOWN,visa,AKROTIRI,4
+UNKNOWN,visa,EPISKOPI,4
+UNKNOWN,visa,ARGAKA,2
+UNKNOWN,visa,KANTOU,1
+UNKNOWN,visa,TRACHONI LEMESOU,1
+UNKNOWN,visa,KOLOSSI,1
+UNKNOWN,visa,OMODOS,1
+UNKNOWN,visa,AGIOS ATHANASIOS,1
+UNKNOWN,visa,GERMASOGEIA,7
+UNKNOWN,visa,PAREKKLISIA,2
+UNKNOWN,visa,PAREKKLISIA TOURISTIKI PERI,1
+UNKNOWN,visa,AGIOS TYCHONAS,2
+UNKNOWN,visa,AGIOS TYCHONAS TOURISTIKI,1
+UNKNOWN,visa,NICOSIA,146
+UNKNOWN,visa,KIBRIS,41
+UNKNOWN,visa,ZYGI,1
+UNKNOWN,visa,LARNACA,59
+UNKNOWN,visa,CHOIROKOITIA,1
+UNKNOWN,visa,SKARINOU,1
+UNKNOWN,visa,MAZOTOS,2
+UNKNOWN,visa,TERSEFANOU,1
+UNKNOWN,visa,LARNAKA,60
+UNKNOWN,visa,PROFITIS ILIAS,1
+UNKNOWN,visa,DALI,1
+UNKNOWN,visa,LYMPIA,1
+UNKNOWN,visa,DROMOLAXIA,1
+UNKNOWN,visa,EGKOMI,1
+NICOSIA,visa,LATSIA,1
+UNKNOWN,visa,STROVOLOS,1
+NICOSIA,visa,STROVOLOS,2
+UNKNOWN,visa,LEFKARA PANO,1
+UNKNOWN,visa,ARADIPPOU,1
+UNKNOWN,visa,LEFKOSA,5
+UNKNOWN,visa,LEIVADIA,1
+UNKNOWN,visa,OROKLINI TOURISTIKI PERIOCHI,4
+LARNACA,visa,VOROKLINI,1
+UNKNOWN,visa,PYLA TOURISTIKI PERIOCHI,1
+UNKNOWN,visa,DEKELEIA,1
+UNKNOWN,visa,GIRNE,3
+UNKNOWN,visa,KYRENIA,2
+UNKNOWN,visa,PYLA,3
+UNKNOWN,visa,ORMIDEIA,1
+UNKNOWN,visa,DASAKI ACHNAS,1
+UNKNOWN,visa,XYLOFAGOU,2
+UNKNOWN,visa,AGIA NAPA,117
+UNKNOWN,visa,VRYSOULES,4
+UNKNOWN,visa,FRENAROS,1
+AMMOCHOSTOS,visa,AGIA NAPA,1
+UNKNOWN,visa,PROTARAS,45
+AMMOCHOSTOS,visa,PARALIMNI,1
+UNKNOWN,visa,PARALIMNI,11
+UNKNOWN,visa,DERYNEIA,2
+AYIANAPA,visa,FAMAGUSTA,1
+PROTARAS,visa,FAMAGUSTA,1
+UNKNOWN,visa,MAGUSA,4
+UNKNOWN,visa,PERNERA,13
+UNKNOWN,visa,AGIA TRIADA,3
+LARNACA,western_union,Larnaca,16
+GIRNE,western_union,Girne,1
+LEFKOSA,western_union,Nicosia,1
+LEFKOSA,western_union,Lefkosa,4
+NICOSIA,western_union,Nicosia,19
+NICOSIA,western_union,Ayios Dometios,1
+NICOSIA,western_union,Strovolos,3
+GAZIMAGUSA,western_union,Akdogan,1
+LARNACA,western_union,Lanarca,1
+ISKELE,western_union,Iskele,1
+GAZIMAGUSA,western_union,Gazimagusa,2
+FAMAGUSTA,western_union,Avgorou,1
+FAMAGUSTA,western_union,Ayia Napa,2
+FAMAGUSTA,western_union,Paralimni,2
+GIRNE,western_union,Kyrenia,1
+LIMASSOL,western_union,Limassol,21
+LIMASSOL,western_union,Kolossi,1
+GUZELYURT,western_union,Guzelyurt,1
+LIMASSOL,western_union,Lemesos,1
+LEFKE,western_union,Gemikonagi,2
+PAPHOS,western_union,Paphos,7
+PAPHOS,western_union,Chlorakas,2
+PAPHOS,western_union,Chloraka,1

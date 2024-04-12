@@ -1,0 +1,132 @@
+State,Place Name,City,Establishments
+ERBIL,avis,Erbil,2
+UNKNOWN,bmw_group,Erbil,1
+UNKNOWN,deloitte,Baghdad,1
+UNKNOWN,deloitte,Erbil,1
+UNKNOWN,ecco,Sulaymaniyah,1
+UNKNOWN,ecco,ERBIL,1
+UNKNOWN,ecco,Erbil,2
+UNKNOWN,ecco,Baghdad,1
+UNKNOWN,ernst_young,Baghdad,1
+UNKNOWN,ernst_young,Erbil,1
+SALAHADDINGOVERNORATE,fedex,Tikrit Airbase,1
+DHIQAR,fedex,"Tallil Ab,Lsa Adder",1
+BASRAGOVERNORATE,fedex,Safwan,1
+ANBAR,fedex,"Q-West Ab,Fob Endurance",1
+NINAWA,fedex,"Mosul Ab,Lsa Diamondback",1
+MUHAFAZATKIRKUK,fedex,Kirkuk Airbase,1
+ARBIL,fedex,Erbil,1
+ANBAR,fedex,Camp Junction,1
+ANBAR,fedex,Camp Cook,1
+BASRAGOVERNORATE,fedex,Basrah,1
+BASRAGOVERNORATE,fedex,Baghdad,1
+MAYORALITYOFBAGHDAD,fedex,Baghdad City,2
+ANBAR,fedex,Al Asad Airbase,1
+UNKNOWN,ford,أربيل,1
+UNKNOWN,ford,Erbil,2
+UNKNOWN,ford,السليمانية,1
+UNKNOWN,ford,Sulymanyiah,1
+UNKNOWN,ford,بغداد,1
+UNKNOWN,ford,Baghdad,1
+UNKNOWN,ford,Sulamaniyah,1
+UNKNOWN,ford,ا لسليمانية,1
+UNKNOWN,ford,أ ربيل,1
+UNKNOWN,ford,ا لأحمدي,2
+UNKNOWN,ford,ا لجهراء,2
+UNKNOWN,ford,Shuwaikh,1
+UNKNOWN,ford,م دينة الكويت,1
+UNKNOWN,geox,ERBIL GRAND MAJIDI MALL,1
+UNKNOWN,man_truck_and_bus,Baghdad,1
+UNKNOWN,man_truck_and_bus,Basrah,1
+UNKNOWN,man_truck_and_bus,Erbil,1
+UNKNOWN,moneygram,BAGHDAD,3
+UNKNOWN,moneygram,AL-JAZAAR,1
+UNKNOWN,moneygram,HAY AL MUHANDSEEN,1
+UNKNOWN,moneygram,ANBAR,1
+UNKNOWN,moneygram,MANSOUR,1
+UNKNOWN,moneygram,BASRAH,1
+UNKNOWN,moneygram,ARBIL,1
+UNKNOWN,moneygram,DAHOUK,1
+UNKNOWN,moneygram,KARKOUK,1
+UNKNOWN,moneygram,SULIMANIA,1
+زاخو,nissan_europe,زاخو,2
+النجف,nissan_europe,النجف,1
+UNKNOWN,ovs,Bagdad,1
+UNKNOWN,ovs,Erbil,1
+UNKNOWN,sixt,Erbil,1
+UNKNOWN,turkiye_is_bankasi,unknown,2
+UNKNOWN,visa,ANBAR,5
+UNKNOWN,visa,NAJAF,22
+UNKNOWN,visa,KARBALA,10
+UNKNOWN,visa,KARA,1
+UNKNOWN,visa,BABEL,11
+UNKNOWN,visa,BAGHDAD,137
+UNKNOWN,visa,NASRIYA,19
+UNKNOWN,visa,MUTHANA,1
+UNKNOWN,visa,AL ANBAR,1
+UNKNOWN,visa,QADISEYAH,1
+UNKNOWN,visa,BAGDAT,1
+UNKNOWN,visa,NASIRIYAH,1
+UNKNOWN,visa,KUT,5
+KRG,visa,DUHOK,5
+UNKNOWN,visa,MOSUL,1
+UNKNOWN,visa,DUHOK,6
+UNKNOWN,visa,DOHUK,1
+UNKNOWN,visa,BASRAH,23
+UNKNOWN,visa,ERBIL,19
+KRG,visa,ERBIL,8
+KRG,visa,EBIL,1
+UNKNOWN,visa,BASRA,1
+UNKNOWN,visa,AMARAH,20
+UNKNOWN,visa,DEWANIA,1
+KRG,visa,SULAYMANIYAH,1
+UNKNOWN,visa,SULAYMANIA,10
+KRG,visa,SULAYMANIAYAH,1
+KRG,visa,SULAYMNIAYAH,1
+KRG,visa,SULAYMANIAH,2
+BAGHDAD,western_union,Baghdad,46
+BAGHDAD,western_union,Hay Aljameaa,1
+BAGHDAD,western_union,Al Mansour,3
+BAGHDAD,western_union,Al Karkh,2
+BAGHDAD,western_union,Al Qadisiyyah,2
+BASRA,western_union,Basra,10
+BASRA,western_union,Um Qasr,1
+BASRA,western_union,Um Qaser,1
+MAYSAN,western_union,Maysan,2
+MAYSAN,western_union,Amara,1
+ERBIL,western_union,Erbil,2
+ERBIL,western_union,Kurdistan,1
+ARBIL,western_union,Arbil,4
+UNKNOWN,western_union,Arbil,1
+NINEVEH,western_union,Mosul,1
+DAHOUK,western_union,Dahouk,2
+KIRKUK,western_union,Kirkuk,4
+SULAYMANIYAH,western_union,Sulaymaniyah,6
+DHIQAR,western_union,Nasriya,2
+NAJAF,western_union,Najaf,8
+NAJAF,western_union,Al Ameer,1
+ALQADISIYYAH,western_union,Diwaniyah,2
+WASIT,western_union,Kut,3
+MUTHANNA,western_union,Samawa,1
+BABIL,western_union,Hilla,5
+BABIL,western_union,Babil,1
+BABIL,western_union,Hilah,1
+SALAHALDIN,western_union,Samarra,1
+WASIT,western_union,Al Aziziya,1
+BAGHDAD,western_union,Karada,4
+BAGHDAD,western_union,Zayona,1
+BAGHDAD,western_union,Jamela,1
+BABIL,western_union,Al Mussyab,1
+ALKARBALA,western_union,Karbalaa,1
+KARBALA,western_union,Al Abasia,1
+ALKARBALA,western_union,Karbala,1
+KARBALA,western_union,Hay Alnaqeeb,1
+UNKNOWN,western_union,Karbala,2
+KARBALA,western_union,Karbala,3
+KARBALA,western_union,Hay Alhussain,1
+WASIT,western_union,Al Suwair,1
+DIYALA,western_union,Baquba,1
+BABIL,western_union,Hay Shuber,1
+BAGHDAD,western_union,Shorja,1
+BAGHDAD,western_union,Al Harthiya,1
+BAGHDAD,western_union,Al Kadhimiya,1

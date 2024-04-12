@@ -1,0 +1,471 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,5
+UNKNOWN,alamo,Montevideo,5
+UNKNOWN,alamo,Punta Del Este,2
+UNKNOWN,alamo,Ciudad De La Costa,1
+MONTEVIDEO,audi,Montevideo,1
+TACUAREMBO,avis,Tacuarembo,1
+PUNTADELESTE,avis,Punta Del Este,1
+PAYSANDU,avis,Paysandu,1
+SNESQUINAGORLERO,avis,Punta Del Este,1
+ATJOSEMMORELLI,avis,Cuidad de La Costa,1
+FRAYBENTOS,avis,Fray Bentos,1
+MERCEDES,avis,Mercedes,1
+DURAZNO,avis,Durazno,1
+ARRIVALSHALL,avis,Montevideo,1
+COLONIA,avis,Colonia,1
+FERRYPASSENGERSONLY,avis,Montevideo,1
+MONTEVIDEO,avis,Montevideo,1
+URUGUAY,bmw_group,Montevideo,1
+UNKNOWN,bmw_group,Montevideo,2
+UNKNOWN,deloitte,Montevideo,3
+UNKNOWN,enterprise,Montevideo,10
+UNKNOWN,enterprise,Punta Del Este,6
+UNKNOWN,enterprise,Montevido,1
+UNKNOWN,enterprise,Monetvideo,1
+UNKNOWN,ernst_young,Montevideo,1
+MONTEVIDEO,fedex,Montevideo,2
+CANELONES,fedex,Aeropuerto,1
+UNKNOWN,hardrock,Montevideo,1
+UNKNOWN,hm,Montevideo,3
+10,hugo_boss,Punta Del Este,1
+10,hugo_boss,Montevideo,1
+UNKNOWN,lhw,Montevideo ,1
+UNKNOWN,man_truck_and_bus,Montevideo,1
+UNKNOWN,marriott,Montevideo,1
+UNKNOWN,marriott,Colonia Del Sacramento,1
+UNKNOWN,maserati,MONTEVIDEO,1
+UNKNOWN,mcdonalds_latin_america,Maldonado,1
+UNKNOWN,mcdonalds_latin_america,Punta Del Este,3
+UNKNOWN,mcdonalds_latin_america,Piriápolis,1
+UNKNOWN,mcdonalds_latin_america,Canelones,3
+UNKNOWN,mcdonalds_latin_america,Montevideo,13
+DEPARTAMENTODEMALDONADO,mercedes_benz,Punta del Este,1
+MONTEVIDEO,mercedes_benz,Montevideo,2
+DEPARTAMENTODEMONTEVIDEO,mercedes_benz,Montevideo,1
+DEPARTAMENTODECANELONES,mercedes_benz,Canelones,1
+DEPARTAMENTODEPAYSANDÚ,mercedes_benz,Paysandú,1
+UNKNOWN,moneygram,MONTEVIDEO,75
+UNKNOWN,moneygram,COLONIA,4
+UNKNOWN,moneygram,VILLA RODRIGUEZ,1
+UNKNOWN,moneygram,TACUAREMBO,4
+UNKNOWN,moneygram,FRAILE MUERTO,1
+UNKNOWN,moneygram,CANELONES,19
+UNKNOWN,moneygram,MERCEDES,4
+UNKNOWN,moneygram,CERRO LARGO,1
+UNKNOWN,moneygram,MALDONADO,11
+UNKNOWN,moneygram,ECILDA PAULLIER,1
+UNKNOWN,moneygram,NUEVO BERLIN,1
+UNKNOWN,moneygram,DURAZNO,5
+UNKNOWN,moneygram,MINAS,3
+UNKNOWN,moneygram,SAN CARLOS,5
+UNKNOWN,moneygram,BELLA UNION,1
+UNKNOWN,moneygram,SALTO,5
+UNKNOWN,moneygram,TALA,1
+UNKNOWN,moneygram,AIGUA,1
+UNKNOWN,moneygram,PAN DE AZUCAR,1
+UNKNOWN,moneygram,ARTIGAS,2
+UNKNOWN,moneygram,ROCHA,4
+UNKNOWN,moneygram,PARQUE DEL PLATA,1
+UNKNOWN,moneygram,PAYSANDU,1
+UNKNOWN,moneygram,SORIANO,1
+UNKNOWN,moneygram,TOMAS GOMENSORO,1
+UNKNOWN,moneygram,RIO NEGRO,1
+UNKNOWN,moneygram,IPORA,1
+UNKNOWN,moneygram,SARANDI GRANDE,1
+UNKNOWN,moneygram,PINAMAR,1
+UNKNOWN,moneygram,FLORIDA,1
+UNKNOWN,moneygram,CARDONA,1
+UNKNOWN,moneygram,RIVERA,1
+UNKNOWN,moneygram,MELO,2
+UNKNOWN,moneygram,DOLORES,1
+UNKNOWN,moneygram,TRINIDAD,1
+UNKNOWN,moneygram,FRAY BENTOS,1
+UNKNOWN,moneygram,LAGOMAR,1
+UNKNOWN,moneygram,LA PAZ,1
+UNKNOWN,moneygram,SOLIS DE MATAOJO,1
+UNKNOWN,moneygram,MONTVIDEO,1
+UNKNOWN,moneygram,PANDO,1
+UNKNOWN,moneygram,ROSARIO,1
+UNKNOWN,national,Montevideo,5
+UNKNOWN,national,Punta Del Este,2
+UNKNOWN,national,Ciudad De La Costa,1
+UNKNOWN,nike,Montevideo,1
+MONTEVIDEO,nissan_europe,Montevideo,9
+MALDONADO,nissan_europe,Punta del Este,2
+CANELONES,nissan_europe,Pando,1
+CERROLARGO,nissan_europe,Melo,1
+COLONIA,nissan_europe,Colonia del Sacramento,2
+DURAZNO,nissan_europe,Durazno,2
+FLORIDA,nissan_europe,Florida,2
+LAVALLEJA,nissan_europe,Minas,1
+PAYSANDÚ,nissan_europe,Paysandú,2
+SALTO,nissan_europe,Salto,2
+TREINTAYTRES,nissan_europe,Treinta y Tres,1
+SORIANO,nissan_europe,Mercedes,2
+CANELONES,nissan_europe,Las Piedras,1
+RIVERA,nissan_europe,Rivera,1
+CANELONES,nissan_europe,Ciudad de la Costa,2
+MALDONADO,sbarro,Maldonado,1
+CANELONES,sbarro,Canelones,1
+DEPARTAMENTODEMONTEVIDEO,sbarro,MONTEVIDEO,1
+MONTEVIDEO,sbarro,Montevideo,1
+MONTEVIDEO,sbarro,unknown,1
+CANELONES,sbarro,Montevideo,1
+MONTEVIDEO,sbarro,MONTEVIDEO,1
+MONTEVIDEO11600,sbarro,Montevideo ,1
+UNKNOWN,sixt,Montevideo,1
+UNKNOWN,sixt,Punta del Este,1
+UNKNOWN,sixt,Colonia del Sacramento,1
+UNKNOWN,sixt,Maldonado,1
+UNKNOWN,sixt,Canelones,1
+UNKNOWN,timberland,Montevideo,2
+UNKNOWN,timberland,Punta Del Este,1
+CERROLARGO,visa,RIO BRANCO,2
+ROCHA,visa,CHUY,1
+ROCHA,visa,ROCHA,2
+CERROLARGO,visa,MELO,3
+TREINTAYTRES,visa,VERGARA,1
+RIVERA,visa,VICHADERO,1
+CERROLARGO,visa,FRAILE MUERTO,1
+ROCHA,visa,CASTILLOS,1
+TREINTAYTRES,visa,TREINTA Y TRES,2
+ROCHA,visa,LASCANO,1
+RIVERA,visa,RIVERA,5
+LAVALLEJA,visa,JOSE PEDRO VARELA,1
+ROCHA,visa,VELAZQUEZ,1
+RIVERA,visa,MINAS DE CORRALES,1
+TREINTAYTRES,visa,SANTA CLARA DE OLIMAR,1
+DURAZNO,visa,LA PALOMA,1
+ROCHA,visa,LA PALOMA,1
+RIVERA,visa,TRANQUERAS,2
+TREINTAYTRES,visa,CERRO CHATO,1
+MALDONADO,visa,AIGUÁ,1
+LAVALLEJA,visa,JOSE BATLLE Y ORDOÑEZ,1
+ARTIGAS,visa,ARTIGAS,2
+TACUAREMBÓ,visa,TACUAREMBÓ,6
+MALDONADO,visa,JOSÉ IGNACIO,1
+TACUAREMBÓ,visa,SAN GREGORIO DE POLANCO,1
+MALDONADO,visa,SAN CARLOS,3
+MALDONADO,visa,BARRA DE MALDONADO,1
+TACUAREMBÓ,visa,TAMBORES,1
+DURAZNO,visa,SARANDI DEL YI,1
+MALDONADO,visa,MALDONADO,8
+MALDONADO,visa,PUNTA DEL ESTE,24
+UNKNOWN,visa,MALDONADO,1
+LAVALLEJA,visa,MINAS,3
+MALDONADO,visa,SOLANAS,1
+MALDONADO,visa,LAGUNA DEL SAUCE,1
+MALDONADO,visa,PAN DE AZUCAR,1
+DURAZNO,visa,CARMEN,1
+MALDONADO,visa,PIRIÁPOLIS,4
+FLORIDA,visa,CASUPÁ,1
+LAVALLEJA,visa,SOLIS DE MATAOJO,1
+CANELONES,visa,MIGUES,1
+CANELONES,visa,TALA,1
+ARTIGAS,visa,TOMAS GOMENSORO,1
+ARTIGAS,visa,BALTASAR BRUM,1
+TACUAREMBÓ,visa,PASO DE LOS TOROS,1
+CANELONES,visa,LA FLORESTA,1
+ARTIGAS,visa,BELLA UNION,1
+CANELONES,visa,SAN RAMON,1
+CANELONES,visa,ATLÁNTIDA,6
+CANELONES,visa,SAN JACINTO,1
+CANELONES,visa,SAN BAUTISTA,1
+FLORIDA,visa,SARANDI GRANDE,1
+CANELONES,visa,PINAMAR,1
+DURAZNO,visa,DURAZNO,4
+FLORIDA,visa,FLORIDA,3
+CANELONES,visa,EL PINAR,2
+CANELONES,visa,PANDO,6
+CANELONES,visa,LA TAHONA,1
+CANELONES,visa,SOLYMAR,2
+CANELONES,visa,SAUCE,1
+CANELONES,visa,LAGOMAR,9
+CANELONES,visa,COLONIA NICOLICH,1
+MONTEVIDEO,visa,MONTEVIDEO,93
+CANELONES,visa,SHANGRILA,1
+CANELONES,visa,AEROPUERTO,3
+CANELONES,visa,SAN JOSÉ DE CARRASCO,3
+CANELONES,visa,PARQUE ROOSEVELT,2
+CANELONES,visa,BARRA DE CARRASCO,3
+CANELONES,visa,PASO CARRASCO,1
+CANELONES,visa,PARQUE MIRAMAR,1
+CANELONES,visa,ZONA AMERICA,4
+CANELONES,visa,CANELONES,5
+CANELONES,visa,TOLEDO,1
+MONTEVIDEO,visa,CARRASCO,17
+MONTEVIDEO,visa,CARRASCO NORTE,4
+MONTEVIDEO,visa,VILLA GARCÍA,1
+UNKNOWN,visa,MONTEVIDEO,10
+PAYSANDÚ,visa,GUICHON,1
+MONTEVIDEO,visa,MALVÍN,7
+MONTEVIDEO,visa,HIPÓDROMO,3
+MONTEVIDEO,visa,PIEDRAS BLANCAS,1
+MONTEVIDEO,visa,MALVÍN NORTE,1
+MONTEVIDEO,visa,MAROÑAS,3
+MONTEVIDEO,visa,UNIÓN,9
+MONTEVIDEO,visa,BUCEO,14
+MONTEVIDEO,visa,VILLA ESPAÑOLA,1
+CANELONES,visa,LAS PIEDRAS,9
+MONTEVIDEO,visa,PARQUE BATLLE,6
+MONTEVIDEO,visa,CERRITO DE LA VICTORIA,1
+MONTEVIDEO,visa,JACINTO VERA,4
+MONTEVIDEO,visa,LA BLANQUEADA,7
+MONTEVIDEO,visa,CILINDRO,1
+MONTEVIDEO,visa,CIUDAD VIEJA,11
+MONTEVIDEO,visa,BRAZO ORIENTAL,5
+MONTEVIDEO,visa,POCITOS,12
+MONTEVIDEO,visa,TRES CRUCES,9
+MONTEVIDEO,visa,ATAHUALPA,3
+MONTEVIDEO,visa,VILLA BIARRITZ,4
+CANELONES,visa,LA PAZ,2
+MONTEVIDEO,visa,PEÑAROL,2
+MONTEVIDEO,visa,GOES,2
+MONTEVIDEO,visa,CORDÓN,15
+MONTEVIDEO,visa,PUNTA CARRETAS,9
+MONTEVIDEO,visa,PARQUE RODÓ,2
+MONTEVIDEO,visa,COLÓN,3
+MONTEVIDEO,visa,PARQUE POSADAS,4
+MONTEVIDEO,visa,AGUADA,10
+MONTEVIDEO,visa,SAYAGO,4
+MONTEVIDEO,visa,PRADO,3
+CANELONES,visa,SANTA LUCIA,1
+CANELONES,visa,SANTA LUCÍA,1
+MONTEVIDEO,visa,REDUCTO,1
+MONTEVIDEO,visa,CENTRO,20
+MONTEVIDEO,visa,PALERMO,1
+MONTEVIDEO,visa,CAPURRO,2
+MONTEVIDEO,visa,PASO MOLINO,4
+MONTEVIDEO,visa,NUEVO PARÍS,1
+MONTEVIDEO,visa,LA TEJA,2
+CANELONES,visa,CERRILLOS,1
+MONTEVIDEO,visa,CERRO,2
+MONTEVIDEO,visa,PASO DE LA ARENA,2
+FLORES,visa,TRINIDAD,3
+SANJOSÉ,visa,RODRIGUEZ,1
+SANJOSÉ,visa,PLAYA PASCUAL,1
+SALTO,visa,SALTO,14
+SANJOSÉ,visa,SAN JOSÉ DE MAYO,2
+SANJOSÉ,visa,SAN JOSÉ,5
+SANJOSÉ,visa,LIBERTAD,2
+SANJOSÉ,visa,RAFAEL PERAZZA,1
+PAYSANDÚ,visa,QUEBRACHO,1
+RÍONEGRO,visa,YOUNG,2
+SANJOSÉ,visa,ECILDA PAULLIER,1
+SORIANO,visa,CARDONA,1
+COLONIA,visa,NUEVA HELVECIA,1
+PAYSANDÚ,visa,PAYSANDÚ,8
+SORIANO,visa,JOSE ENRIQUE RODO,1
+COLONIA,visa,COLONIA VALDENSE,2
+COLONIA,visa,ROSARIO,2
+PAYSANDÚ,visa,SAN JAVIER,1
+SORIANO,visa,PALMITAS,1
+COLONIA,visa,JUAN LACAZE,1
+RÍONEGRO,visa,NUEVO BERLIN,1
+COLONIA,visa,MIGUELETE,1
+SORIANO,visa,MERCEDES,8
+COLONIA,visa,TARARIRAS,1
+COLONIA,visa,OMBUES DE LAVALLE,1
+RÍONEGRO,visa,FRAY BENTOS,3
+COLONIA,visa,COLONIA DEL SACRAMENTO,10
+SORIANO,visa,DOLORES,3
+UNKNOWN,visa,COLONIA,1
+COLONIA,visa,CONCHILLAS,1
+COLONIA,visa,CARMELO,3
+COLONIA,visa,NUEVA PALMIRA,2
+MONTEVIDEO,western_union,Montevideo,122
+ARTIGAS,western_union,Bella Union,3
+PAYSANDU,western_union,Paysandu,17
+RIVERA,western_union,Vichadero,1
+PAYSANDU,western_union,Guichon,1
+PAYSANDU,western_union,Quebracho,1
+TACUAREMBO,western_union,Villa Ansina,1
+TACUAREMBO,western_union,Tacuarembo,8
+RIVERA,western_union,Minas De Corrales,1
+SALTO,western_union,Salto,12
+RIVERA,western_union,Tranqueras,1
+RIVERA,western_union,Rivera,13
+ARTIGAS,western_union,Artigas,7
+CERROLARGO,western_union,Rio Branco,4
+ROCHA,western_union,Chuy,5
+CERROLARGO,western_union,Melo,7
+MONTEVIDEO,western_union,Punta Carretas,2
+MONTEVIDEO,western_union,Barrio Sur,1
+MONTEVIDEO,western_union,Ciudad Vieja,12
+MONTEVIDEO,western_union,Pocitos,13
+MONTEVIDEO,western_union,Centro,35
+ROCHA,western_union,Rocha,8
+ROCHA,western_union,Castillos,2
+ROCHA,western_union,Lascano,2
+CERROLARGO,western_union,Acegua,1
+TREINTAYTRES,western_union,Treinta Y Tres,5
+TREINTAYTRES,western_union,Santa Clara De Olimar,1
+ROCHA,western_union,Velazquez,1
+LAVALLEJA,western_union,Jose Pedro Varela,1
+ROCHA,western_union,La Paloma,3
+RIONEGRO,western_union,Young,5
+RIONEGRO,western_union,Fray Bentos,5
+TACUAREMBO,western_union,Paso De Los Toros,4
+SORIANO,western_union,Mercedes,7
+DURAZNO,western_union,Cerro Chato,1
+TACUAREMBO,western_union,Montevideo,1
+TACUAREMBO,western_union,San Gregorio De Polanco,1
+SORIANO,western_union,Dolores,4
+DURAZNO,western_union,Durazno,6
+DURAZNO,western_union,Sarandi Del Yi,1
+COLONIA,western_union,Nueva Palmira,2
+LAVALLEJA,western_union,Jose Batlle Y Ordonez,1
+DURAZNO,western_union,Villa Del Carmen,1
+COLONIA,western_union,Carmelo,2
+FLORES,western_union,Trinidad,4
+COLONIA,western_union,Ombues De Lavalle,2
+MALDONADO,western_union,Aigua,1
+COLONIA,western_union,Conchillas,1
+SORIANO,western_union,Cardona,1
+FLORIDA,western_union,Sarandi Grande,2
+FLORES,western_union,Ismael Cortinas,1
+LAVALLEJA,western_union,Minas,8
+COLONIA,western_union,Colonia,5
+COLONIA,western_union,Colonia Del Sacramento,2
+MALDONADO,western_union,La Barra,2
+COLONIA,western_union,Juan Lacaze,2
+FLORIDA,western_union,Florida,5
+FLORIDA,western_union,Casupa,1
+COLONIA,western_union,Tarariras,1
+COLONIA,western_union,Colonia Valdense,1
+MALDONADO,western_union,Palmas De La Barra,1
+MALDONADO,western_union,La Barra De Maldonado,1
+COLONIA,western_union,Nueva Helvecia,2
+MALDONADO,western_union,San Carlos,4
+MALDONADO,western_union,Manantiales,1
+COLONIA,western_union,Rosario,1
+MALDONADO,western_union,Balneario Buenos Aires,1
+FLORIDA,western_union,Fray Marcos,1
+MALDONADO,western_union,Punta Del Este,16
+CANELONES,western_union,Tala,2
+CANELONES,western_union,San Ramon,1
+MALDONADO,western_union,Maldonado,27
+MALDONADO,western_union,Maldoinado,1
+SANJOSE,western_union,San Jose De Mayo,5
+MALDONADO,western_union,Solanas,1
+MALDONADO,western_union,Punta Ballena,1
+SANJOSE,western_union,Ecilda Paullier,1
+CANELONES,western_union,San Antonio,1
+MALDONADO,western_union,Piriapolis,5
+CANELONES,western_union,San Bautista,1
+SANJOSE,western_union,Villa Rodriguez,2
+LAVALLEJA,western_union,Solis De Mataojo,1
+MALDONADO,western_union,Pan De Azucar,2
+MALDONADO,western_union,Sauce De Portezuelo,1
+SANJOSE,western_union,San Jose,3
+CANELONES,western_union,Migues,1
+CANELONES,western_union,Canelones,9
+CANELONES,western_union,Soca,1
+CANELONES,western_union,Cuchilla Alta,1
+SANJOSE,western_union,Rafael Perazza,1
+CANELONES,western_union,Santa Lucia,4
+CANELONES,western_union,Santa Rosa,1
+CANELONES,western_union,San Jacinto,1
+CANELONES,western_union,La Floresta,1
+CANELONES,western_union,Costa Azul,1
+CANELONES,western_union,San Luis,1
+CANELONES,western_union,Atlantida,7
+CANELONES,western_union,Los Cerrillos,1
+CANELONES,western_union,Sauce,2
+CANELONES,western_union,Las Toscas,1
+CANELONES,western_union,Empalme Olmos,1
+CANELONES,western_union,Parque Del Plata,3
+CANELONES,western_union,Juanico,1
+CANELONES,western_union,Joanico,1
+CANELONES,western_union,Salinas,2
+CANELONES,western_union,Pando,9
+CANELONES,western_union,Marindia,1
+SANJOSE,western_union,Libertad,2
+CANELONES,western_union,Las Piedras,13
+MONTEVIDEO,western_union,Goes,5
+CANELONES,western_union,Toledo,3
+CANELONES,western_union,El Pinar,2
+CANELONES,western_union,Barros Blancos,5
+CANELONES,western_union,Colonia Nicolich,1
+MONTEVIDEO,western_union,Manga,3
+CANELONES,western_union,La Paz,6
+SANJOSE,western_union,Playa Pascual,1
+CANELONES,western_union,Solymar,4
+CANELONES,western_union,Lagomar,4
+CANELONES,western_union,Medanos De Solymar,2
+MONTEVIDEO,western_union,Punta De Manga,2
+CANELONES,western_union,Suarez,1
+CANELONES,western_union,Paraje El Colorado,1
+CANELONES,western_union,Pinamar,3
+CANELONES,western_union,Progreso,2
+SANJOSE,western_union,Ciudad Del Plata,4
+MONTEVIDEO,western_union,Villa Garcia,1
+CANELONES,western_union,Aeropuerto,2
+CANELONES,western_union,San Jose De Carrasco,2
+CANELONES,western_union,Shangrila,2
+MONTEVIDEO,western_union,Colon,4
+MONTEVIDEO,western_union,Piedras Blancas,3
+MONTEVIDEO,western_union,Santiago Vazquez,1
+MONTEVIDEO,western_union,Prado Sur,6
+MONTEVIDEO,western_union,Punta Rieles,1
+CANELONES,western_union,Parque De Carrasco,1
+MONTEVIDEO,western_union,Carrasco Norte,1
+MONTEVIDEO,western_union,Sayago,5
+MONTEVIDEO,western_union,Las Acacias,1
+MONTEVIDEO,western_union,Lavalleja,1
+MONTEVIDEO,western_union,Carrasco,10
+MONTEVIDEO,western_union,Maronas,3
+MONTEVIDEO,western_union,Conciliacion,2
+MONTEVIDEO,western_union,Flor De Maronas,1
+MONTEVIDEO,western_union,Hipodromo,1
+MONTEVIDEO,western_union,Penarol,1
+MONTEVIDEO,western_union,Cerrito De La Victoria,3
+MONTEVIDEO,western_union,Perez Castellanos,3
+MONTEVIDEO,western_union,Pe�arol,1
+MONTEVIDEO,western_union,Belvedere,4
+MONTEVIDEO,western_union,Nuevo Paris,1
+MONTEVIDEO,western_union,Paso De La Arena,3
+MONTEVIDEO,western_union,Aires Puros,1
+MONTEVIDEO,western_union,Villa Espanola,1
+MONTEVIDEO,western_union,Prado Norte,1
+MONTEVIDEO,western_union,La Cruz,1
+MONTEVIDEO,western_union,Malvin Norte,4
+CANELONES,western_union,Barra De Carrasco,3
+CANELONES,western_union,Paso Carrasco,2
+MONTEVIDEO,western_union,Jardines Del Hipodromo,2
+CANELONES,western_union,Parque Miramar,1
+CANELONES,western_union,Parque Carrasco,1
+MONTEVIDEO,western_union,Casavalle,1
+MONTEVIDEO,western_union,Castro,1
+MONTEVIDEO,western_union,Union,7
+MONTEVIDEO,western_union,Las Canteras,1
+MONTEVIDEO,western_union,Punta Gorda,2
+MONTEVIDEO,western_union,Larranaga,3
+MONTEVIDEO,western_union,Atahualpa,2
+MONTEVIDEO,western_union,Bolivar,1
+MONTEVIDEO,western_union,Brazo Oriental,2
+MONTEVIDEO,western_union,Jacinto Vera,3
+MONTEVIDEO,western_union,Malvin,6
+MONTEVIDEO,western_union,Paso Molino,2
+MONTEVIDEO,western_union,La Teja,2
+MONTEVIDEO,western_union,Capurro,3
+MONTEVIDEO,western_union,La Blanqueada,5
+MONTEVIDEO,western_union,Pajas Blancas,1
+MONTEVIDEO,western_union,Villa Munoz,3
+MONTEVIDEO,western_union,Reducto,4
+MONTEVIDEO,western_union,Buceo,9
+MONTEVIDEO,western_union,La Figurita,2
+MONTEVIDEO,western_union,Arroyo Seco,1
+MONTEVIDEO,western_union,Aguada,19
+MONTEVIDEO,western_union,Cerro,6
+MONTEVIDEO,western_union,La Comercial,2
+MONTEVIDEO,western_union,Parque Batlle,1
+MONTEVIDEO,western_union,Tres Cruces,7
+MONTEVIDEO,western_union,Cordon,19
+CANELONES,western_union,La Tahona,1
+MONTEVIDEO,western_union,Parque Rodo,3
+MONTEVIDEO,western_union,Casabo,1
+TREINTAYTRES,western_union,Vergara,1
+UNKNOWN,western_union,Montevideo,1
+MONTEVIDEO,western_union,Santa Catalina,1

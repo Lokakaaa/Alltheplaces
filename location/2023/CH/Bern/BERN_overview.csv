@@ -1,0 +1,591 @@
+City,Place Name,Zipcode,Name
+Bern,audi,Wankdorffeldstrasse 60 3014 Bern,unknown,AMAG Bern
+Erlach,audi,Vinelzstrasse 50 3235 Erlach,unknown,Garage Kocher AG
+Huttwil,audi,Luzernstrasse 76 4950 Huttwil,unknown,Touring-Garage AG Huttwil
+Brügg bei Biel,audi,Römerstrasse 16-18 2555 Brügg bei Biel,unknown,AMAG Biel-Bienne
+Lyssach,audi,Schachenstrasse 31 3421 Lyssach,unknown,Garage Gautschi AG
+Langenthal,audi,Bern-Zürichstrasse 44 4900 Langenthal,unknown,Garage Gautschi AG
+Hinterkappelen,audi,Bernstrasse 109-111 3032 Hinterkappelen,unknown,Automobile Németh AG
+Thun,audi,Gwattstrasse 22-28 3604 Thun,unknown,AMAG Thun
+Interlaken,audi,Wychelstrasse 32 3800 Interlaken,unknown,Garage Wenger AG
+Frutigen,audi,Spiezstrasse 22 3714 Frutigen,unknown,Autohaus von Känel AG
+Bern,avis,,unknown,Avis Switzerland Bern
+Munsingen,burgerking,,unknown,Burger King
+Stefflsburg,burgerking,,unknown,Burger King
+Langenthal,burgerking,,unknown,Burger King
+Urtenen-Schönbühl,deichmann,,unknown,DOSENBACH Filiale Urtenen-Schönbühl Industriestrasse 10
+Thun,deichmann,,unknown,DOSENBACH Filiale Thun Bälliz 29
+Reconvilier,deichmann,,unknown,DOSENBACH Filiale Reconvilier Rue Du Bruye 50
+Münsingen,deichmann,,unknown,DOSENBACH Filiale Münsingen Bahnhofplatz 1
+Lyssach,deichmann,,unknown,DOSENBACH Filiale Lyssach Bernstrasse 9
+Lyss,deichmann,,unknown,DOSENBACH Filiale Lyss Marktplatz 7
+Langenthal,deichmann,,unknown,DOSENBACH Filiale Langenthal St. Urbanstrasse 3
+Interlaken,deichmann,,unknown,DOSENBACH Filiale Interlaken Bahnhofstrasse 45
+Huttwil,deichmann,,unknown,DOSENBACH Filiale Huttwil Bahnhofstrasse 28
+Heimberg,deichmann,,unknown,DOSENBACH Filiale Heimberg Blümlisalpstrasse 61
+Burgdorf,deichmann,,unknown,DOSENBACH Filiale Burgdorf Lyssachstrasse 23
+Brügg,deichmann,,unknown,DOSENBACH Filiale Brügg Erlenstrasse 40
+Biel/Bienne,deichmann,,unknown,DOSENBACH Filiale Biel/Bienne Nidaugasse 28
+Biel,deichmann,,unknown,DOSENBACH Filiale Biel Salzhausstrasse 31
+Bern,deichmann,,unknown,DOSENBACH Filiale Bern Bümplizstrasse 124
+Bern,dunkin_ch,Neuengass-Passage 3011 Bern Switzerland,unknown,Dunkin' Bern Hbf
+Bern,dunkin_ch,Welle 7 Schanzenstrasse 5 3008 Bern Switzerland,unknown,Dunkin' Bern Welle 7
+Urtenen-Schönbühl,dunkin_ch,Industriestrasse 10 3321 Urtenen-Schönbühl Switzerland,unknown,Dunkin' Shoppyland - Schönbühl
+Bern,hm,,unknown,Marktgasse 6
+Thun,hm,,unknown,Panorama Center
+Langenthal,hm,,unknown,St. Urbanstrasse 4
+Schönbühl,hm,,unknown,Shoppyland
+Bern-Mittelland District,ich_tanke_strom,Wolfackerweg  3063 Ittigen,unknown,unknown
+Jura bernois,ich_tanke_strom,Grand-Rue  2732 Reconvillier,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Im Breitenacker  3122 Kehrsatz,unknown,unknown
+Seeland District,ich_tanke_strom,Alte Lyssstrasse  3270 Aarberg,unknown,unknown
+Thun District,ich_tanke_strom,Moosweg  3645 Gwatt,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Belpstrasse  3113 Rubigen,unknown,Tesla Supercharger
+Seeland District,ich_tanke_strom,Petinescastrasse  2775 Studen BE,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Lindenallee  3800 Interlaken,unknown,unknown
+Seeland District,ich_tanke_strom,Aareweg 25  2557 Studen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Sonnenbodenstrasse 9  3076 Worb,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Peyer Bern Wangenstrasse 102  3018 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Kasparstrasse 7/9  0 Bern,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Nidaugasse 35  0 Biel,unknown,unknown
+Thun District,ich_tanke_strom,Schulstrasse 32  0 Thun,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Märitgasse 1  0 Zollikofen,unknown,unknown
+Thun District,ich_tanke_strom,Kreuzweg 177b  0 Unterlangenegg,unknown,unknown
+Thun District,ich_tanke_strom,Gwattstrasse  0 Gwatt Thun,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Wohlenstrasse 62C  0 Hinterkappelen,unknown,unknown
+Oberaargau,ich_tanke_strom,Untere Marktgasse 2  0 Langenthal,unknown,unknown
+Emmental District,ich_tanke_strom,Kirchbergstrasse 219  0 Burgdorf,unknown,unknown
+Emmental District,ich_tanke_strom,Dorfstrasse 47  0 Zollbrück,unknown,unknown
+Oberaargau,ich_tanke_strom,Lotzwilstrasse 66  0 Langenthal,unknown,unknown
+Oberaargau,ich_tanke_strom,Byfangstrasse 7  0 Herzogenbuchsee,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Eyboden 8  0 Niederscherli,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Murtenstrasse 28  0 Laupen,unknown,unknown
+Oberaargau,ich_tanke_strom,Dorfstrasse 34  0 Melchnau,unknown,unknown
+Emmental District,ich_tanke_strom,beim Bahnhof 5  0 Lohn-Ammansegg,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Mittlere Aegertenstrasse 42  0 Lenk,unknown,unknown
+Thun District,ich_tanke_strom,Stockhornstrasse 19  0 Heimberg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Stapfenstrasse 5  0 Köniz,unknown,unknown
+Thun District,ich_tanke_strom,Blümlisalpstrasse 61  0 Heimberg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bahnhofstrasse 3  0 Ostermundigen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bärenplatz 4  0 Worb,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Rütti 5  3052 Zollikofen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Eymattstrasse 21  0 Bern,unknown,unknown
+Thun District,ich_tanke_strom,Tempelstrasse 30  3608 Thun,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue Haute 11  0 Tramelan,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Schermenweg 9  3014 Bern,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Oberriedstrasse 33c  0 Lenk,unknown,unknown
+Seeland District,ich_tanke_strom,Steinweg 6-28  0 Lyss,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Seestrasse 2  0 Lenk im Simmental BE,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Hauptstrasse 26  0 Wohlen bei Bern,unknown,unknown
+Oberaargau,ich_tanke_strom,Zürichstrasse 32  0 Bützberg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse 62  0 Jegenstorf,unknown,unknown
+Thun District,ich_tanke_strom,Glockentalstrasse 50  0 Steffisburg,unknown,unknown
+Emmental District,ich_tanke_strom,Bahnhofstrasse 19–21  0 Lützelflüh,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Schlossmattstrasse 2  3110 Münsingen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Energiezentrale ewb Murtenstrasse 100  3001 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Rubigenstrasse 80  0 Worb,unknown,unknown
+Oberaargau,ich_tanke_strom,Hardstrasse 4  4922 Bützberg,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Hauptstrasse 1  0 Orpund,unknown,unknown
+Oberaargau,ich_tanke_strom,Bernstrasse 62  0 Schwarzenbach,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Rollstrasse 24  0 Frutigen,unknown,unknown
+Seeland District,ich_tanke_strom,Alte Lyssstrasse 2  0 Aarberg,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Bodenstrasse 4  0 Grindelwald,unknown,unknown
+Emmental District,ich_tanke_strom,Bernstrasse 52  3422 Alchenflüh,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse 34  0 Ostermundigen,unknown,unknown
+Emmental District,ich_tanke_strom,Schachenstrasse 39  0 Lyssach,unknown,unknown
+Thun District,ich_tanke_strom,Allmendstrasse 1-5  0 Thun,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Ahornweg 21  3043 Wohlen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bahnhofstrasse 45  3127 Mühlethurnen,unknown,unknown
+Oberaargau,ich_tanke_strom,Aarwangenstrasse 82  0 Langenthal,unknown,unknown
+Emmental District,ich_tanke_strom,Rastplatz Chölfeld A1 Richtung Bern  0 Utzenstorf,unknown,unknown
+Emmental District,ich_tanke_strom,Sägegasse 14  0 Burgdorf,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Gewerbestrasse 8  0 Bolligen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Kirchstrasse 4  0 Liebefeld,unknown,unknown
+Oberaargau,ich_tanke_strom,Hohlenstrasse 24  0 Huttwil,unknown,unknown
+Thun District,ich_tanke_strom,Freienhofgasse 3  0 Thun,unknown,unknown
+Jura bernois,ich_tanke_strom,Pl. du Seize-Mars 1  0 Saint-Imier,unknown,unknown
+Emmental District,ich_tanke_strom,Kernenriedstrasse 1  3421 Lyssach,unknown,unknown
+Seeland District,ich_tanke_strom,Hans-Müller-Weg  0 Aarberg,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Hofstadt 6  3702 Hondrich,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Mittelstrasse 1  2555 Biel-Brügg,unknown,unknown
+Thun District,ich_tanke_strom,Burgstrasse 18  3600 Thun,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Stationsstrasse 4  0 Mülenen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Haldenweg 5  0 Konolfingen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Dorfstrasse 9  3032 Hinterkappelen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse 45  3066 Stettlen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bleichestrasse 10  3066 Stettlen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse 116  3066 Stettlen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Aefligenstrasse 9  3314 Schalunen,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Spiezstrasse 22  0 Frutigen,unknown,unknown
+Oberaargau,ich_tanke_strom,Tundwilerweg 1  0 St. Urban,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Thunstrasse 80  0 Muri bei Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Viktoriastrasse 21  0 Bern,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Hubelstrasse 12  0 Schönried,unknown,unknown
+Thun District,ich_tanke_strom,Schlossgasse 8  0 Oberhofen am Thunersee,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Brühlplatz  0 Köniz,unknown,unknown
+Oberaargau,ich_tanke_strom,St. Urbanstrasse 3  0 Langenthal,unknown,unknown
+Oberaargau,ich_tanke_strom,Bernstrasse 43  0 Herzogenbuchsee,unknown,unknown
+Emmental District,ich_tanke_strom,Sägestrasse 37  0 Langnau im Emmental,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Parkterrasse 16  0 Bern,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Mittelstrasse 32  0 Orpund,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Lindenhofweg 15  0 Brienz,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Riedbachstrasse 165  0 Bern,unknown,unknown
+Thun District,ich_tanke_strom,Bahnhofstrasse 91a  3613 Steffisburg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Lochackerweg 5  0 Moosseedorf,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Thunstrasse 28a  0 Zweisimmen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Milchstrasse 2-8  0 Ostermundigen,unknown,unknown
+Seeland District,ich_tanke_strom,Grenzstrasse 25  0 Lyss,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Thunstrasse 29H  0 Zweisimmen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Viehweidstrasse  3123 Belp,unknown,unknown
+Jura bernois,ich_tanke_strom,Route du Vignoble  2520 La Neuveville,unknown,unknown
+Jura bernois,ich_tanke_strom,Ruelle de la Poste  2720 Tramelan,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue du Viaduc  2740 Moutier,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Lohngasse  2562 Port,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue du Collège  2610 Saint-Imier,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Untere Bönigstrasse  3800 Interlaken,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Radiostrasse  3053 Münchenbuchsee,unknown,unknown
+Oberaargau,ich_tanke_strom,Am Bach  4938 Rohrbach,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Bahnhofstrasse  3713 Reichenbach,unknown,unknown
+Emmental District,ich_tanke_strom,Schmiedenrain  3400 Burgdorf,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse  3066 Stettlen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Rothornstrasse  6174 Flühli,unknown,unknown
+Thun District,ich_tanke_strom,Spiezstrasse  3645 Gwatt,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue Agassiz Place du 16 Mars  2610 Saint-Imier,unknown,unknown
+Jura bernois,ich_tanke_strom,Beauregard  2610 Saint-Imier,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Suterstrasse  3780 Gstaad,unknown,unknown
+Thun District,ich_tanke_strom,Seestrasse  3654 Gunten,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue Beau-Site  2610 Saint-Imier,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Stauffacherstrasse  3000 Bern 22,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Floraplatz  3792 Saanen,unknown,unknown
+Oberaargau,ich_tanke_strom,Höflisgasse  4534 Flumenthal,unknown,unknown
+Emmental District,ich_tanke_strom,Beisatzgasse  3537 Eggiwil,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Alte Strasse  3713 Reichenbach,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Chemin du Long-Champ  2504 Bienne,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Schönriedstrasse  3792 Saanen,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Dorfplatz  2552 Orpund,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Könizstrasse  3098 Köniz,unknown,unknown
+Jura bernois,ich_tanke_strom,Chemin des Lovières  2720 Tramelan,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Güterstrasse  3780 Gstaad,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Salzhausstrasse  2503 Biel,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Feldstrasse  3073 Muri bei Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Guisanplatz  3014 Bern,unknown,unknown
+Thun District,ich_tanke_strom,Uttigenstrasse  3602 Thun,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Tägetlistrasse  3072 Ostermundigen,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Gygerweg  3700 Spiezwiler,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue Industrielle  2740 Moutier,unknown,unknown
+Jura bernois,ich_tanke_strom,Route de Reuchenette  2604 La Heutte,unknown,unknown
+Jura bernois,ich_tanke_strom,Les Lovières  2720 Tramelan,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Zürichstrasse  2504 Bienne,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse  3076 Worb,unknown,unknown
+Jura bernois,ich_tanke_strom,Prom. J-J Rousseau  2520 La Neuveville,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Chemin des Chanterelles  1659 Rougemont,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse  3053 Münchenbuchsee,unknown,unknown
+Jura bernois,ich_tanke_strom,Grand Rue  2606 Corgémont,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Pfadern  3154 Rüschegg,unknown,unknown
+Thun District,ich_tanke_strom,Gurnigelstrasse  4802 Heimberg,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue de l'Hôtel-de-Ville Derrière côté est  2740 Moutier,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Zuben  3822 Lauterbrunnen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Äschmad  3822 Lauterbrunnen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Grundstrasse  3818 Grindelwald,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,spirchen  3068 Utzigen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Alte Staatsstrasse  3812 Wilderswil,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue de la Combe-Aubert  2720 Tramelan,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Güterstrasse  3076 Worb,unknown,unknown
+Jura bernois,ich_tanke_strom,Route Principale  2743 Eschert,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Talstation  3824 Stechelberg,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Chemin des Palettes  1659 Rougemont,unknown,unknown
+Seeland District,ich_tanke_strom,Stadtgraben  3235 Erlach,unknown,unknown
+Jura bernois,ich_tanke_strom,Place du Marché  2520 La Neuveville,unknown,unknown
+Oberaargau,ich_tanke_strom,Allmendstrasse  4938 Rohrbach,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue du Lac  2520 La Neuveville,unknown,unknown
+Jura bernois,ich_tanke_strom,La Clef  2722 Tramelan,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Hinterseestrasse  3782 Lauenen b. Gstaad,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Obere Gletscherstrasse  3818 Grindelwald,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Thunstrasse  3770 Zweisimmen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Bim Grüt  3800 Matten bei Interlaken,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Solothurnerstrasse  2504 Biel/Bienne,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Weltpoststrasse  3015 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Talgut-Zentrum  3063 Ittigen,unknown,unknown
+Emmental District,ich_tanke_strom,Mühlestrasse 8  3555 Trubschachen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Wölflistrasse 5  3006 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Eisengasse 1  3065 Bolligen,unknown,unknown
+Jura bernois,ich_tanke_strom,Grand-Rue 21  2608 Courtelary,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Raststätte Grauholz A1 - Wolfackerweg 8  3063 Ittigen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Papiermühlestrasse 85  3014 Bern,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Bahnhofstrasse 13  3700 Spiez,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Bahnhofstrasse 12  3700 Spiez,unknown,unknown
+Jura bernois,ich_tanke_strom,Chasseral 1  2518 Nods,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Oberdorfstasse 10  3053 Münchenbuchsee,unknown,unknown
+Emmental District,ich_tanke_strom,Bucherstrasse 6  3400 Burgdorf,unknown,unknown
+Thun District,ich_tanke_strom,Deltaweg 29  3645 Gwatt,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Füllerichstrasse 51  3074 Gümligen,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,SOCAR Autobahnraststätte Pieterlen A5  2542 Pieterlen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse 101  3072 Ostermundigen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Freiburgstrasse 20  3010 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Ostermundigenstrasse  3006 Bern,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Rawilstrasse 20b  3775 Lenk,unknown,unknown
+Jura bernois,ich_tanke_strom,Rue du Collège 4  2605 Sonceboz-Sombeval,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Militärstrasse 38  3014 Bern,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Docteur Schneider-Strasse 10  2560 Nidau,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Kreuzgasse 32A  3294 Büren an der Aare,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Bözingenstrasse 100  2502 Bienne,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Neueneggstrasse 10  3177 Laupen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Europaplatz  3008 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Tiefenaustrasse 106 / Parkplatz Nr. 232 & 233  3004 Bern,unknown,unknown
+Seeland District,ich_tanke_strom,Hauptstrasse 18  4577 Hessigkofen,unknown,unknown
+Oberaargau,ich_tanke_strom,Waldhofstrasse 1  4900 Langenthal,unknown,unknown
+Emmental District,ich_tanke_strom,Bäraustrasse 60  3552 Bärau,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Kanalstrasse 34-38  3294 Büren an der Aare,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Parkterrasse 14  3012 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Monument im Fruchtland  3001 Bern,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Oberriedstrasse 17  3775 Lenk,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Höheweg 94  3800 Interlaken,unknown,unknown
+Thun District,ich_tanke_strom,Bernstrasse 119  3613 Steffisburg,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Neueretstrasse 2  3780 Gstaad,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Dorfstrasse 6  3792 Saanen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,MOVE - ewb Schwabstrasse 70  3018 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,MOVE - ewb Hallerstrasse 56  3001 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Waisenhausplatz 19  3011 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Mani-Matter-Platz 1  3084 Wabern,unknown,unknown
+Seeland District,ich_tanke_strom,Käsereistrasse 2  3297 Leuzigen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Klösterlistutz  3013 Bern,unknown,unknown
+Seeland District,ich_tanke_strom,Obere Zollgasse 74  3072 Ostermundigen,unknown,unknown
+Emmental District,ich_tanke_strom,Huttwilstrasse 5  3462 Weier,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Jungfraustrasse 53  3800 Interlaken,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Feldstrasse 32  3073 Muri bei Bern,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Boulevard des Sports 18 23  2504 Biel,unknown,unknown
+Emmental District,ich_tanke_strom,Mehrzweckhalle Eyacker  4571 Lüterkofen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Ostermundigenstrasse 93  3006 Bern,unknown,unknown
+Emmental District,ich_tanke_strom,Grünenstrasse 10  3455 Sumiswald,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Schwarzenburgstrasse 160  3097 Liebefeld,unknown,unknown
+Seeland District,ich_tanke_strom,Bernstrasse 64  3250 Lyss,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Kohlenweg  3097 Liebefeld,unknown,unknown
+Emmental District,ich_tanke_strom,Spitalstrasse 7  3454 Sumiswald,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Moserstrasse 8  3013 Bern,unknown,unknown
+Emmental District,ich_tanke_strom,Industrie Neuhof 1a  3422 Kirchberg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Papiermühlestrasse  3014 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Lyssstrasse 50  3053 Münchenbuchsee,unknown,unknown
+Emmental District,ich_tanke_strom,Unterdorf 8  4587 Aetingen,unknown,unknown
+Seeland District,ich_tanke_strom,Bielstrasse 98  3250 Lyss,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Freiburgstrasse 3  3010 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Jupiterstrasse 41  3015 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Jupiterstrasse 1  3015 Bern,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Dorfstrasse 110  3818 Grindelwald,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Boligenstrasse 61  3006 Bern,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Badstrasse 20  3775 Lenk im Simmental,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Murtenstrasse 10  3010 Bern,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Saanenstrasse 15  3770 Zweisimmen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Kochergasse 1  3011 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Effingerstrasse 20  3008 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bundesgasse 35  3001 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Stöckackerstrasse 33  3018 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Neubrückstrasse 166  3012 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Kornhausstrasse 3  3013 Bern,unknown,unknown
+Thun District,ich_tanke_strom,Innerdorfstrasse  Merligen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Mittelweg  Wilderswil,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Kirchweg  Wilderswil,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Byfangstrasse  Orpund,unknown,unknown
+Emmental District,ich_tanke_strom,Gotthelfstrasse 1  3427 Utzenstorf,unknown,unknown
+Thun District,ich_tanke_strom,Frutigenstrasse 18  3600 Thun,unknown,unknown
+Thun District,ich_tanke_strom,C. F. L. Lohnerstrasse 29  3645 Gwatt,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Hubelgutstrasse 2  3048 Ittigen,unknown,unknown
+Emmental District,ich_tanke_strom,Lyssachstrasse 113  3400 Burgdorf,unknown,unknown
+Seeland District,ich_tanke_strom,Busswilstrasse 44  3250 Lyss,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Herrschaftsweg 9  3818 Grindelwald,unknown,unknown
+Oberaargau,ich_tanke_strom,Luzernstrasse 148  4955 Gondiswil Schweiz,unknown,unknown
+Seeland District,ich_tanke_strom,Oberfeld 16  3283 Kallnach,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Egglistrasse 23  3780 Gstaad,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,5 5  2512 Tüscherz-Alfermée,unknown,unknown
+Thun District,ich_tanke_strom,Moosweg 10  3645 Gwatt,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Längfeldweg 90  2504 Biel,unknown,unknown
+Thun District,ich_tanke_strom,Aarestrasse 14  3600 Thun,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Gewerbestrasse 17  3302 Moosseedorf,unknown,unknown
+Thun District,ich_tanke_strom,Frutigenstrasse 36  3600 Thun,unknown,unknown
+Emmental District,ich_tanke_strom,Schachenstrasse 54  3421 Lyssach,unknown,unknown
+Thun District,ich_tanke_strom,Industriestrasse 6  3600 Thun,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Dorfstrasse 36  3715 Adelboden,unknown,unknown
+Thun District,ich_tanke_strom,Bierigutstrasse 9  3608 Thun,unknown,unknown
+Seeland District,ich_tanke_strom,Bahnhofstrasse 12  3270 Aarberg,unknown,unknown
+Seeland District,ich_tanke_strom,Schaftenholzweg 10  2557 Studen,unknown,unknown
+Thun District,ich_tanke_strom,Gwattstrasse 54  3604 Thun,unknown,unknown
+Seeland District,ich_tanke_strom,Beundengasse 1  3250 Lyss,unknown,unknown
+Thun District,ich_tanke_strom,Winterhaldenstrasse 20  3627 Heimberg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Freiburgstrasse 443  3018 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Reiterstrasse 11  3013 Bern,unknown,unknown
+Thun District,ich_tanke_strom,Telmaweg 1  3662 Seftigen,unknown,unknown
+Oberaargau,ich_tanke_strom,Schulhausstrasse 24  4900 Langenthal,unknown,unknown
+Oberaargau,ich_tanke_strom,Wangenstrasse 55  3380 Wangen an der Aare,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,3800 Interlaken  - Schweiz,unknown,unknown
+Thun District,ich_tanke_strom,Bernstrasse 138  3613 Steffisburg,unknown,unknown
+Jura bernois,ich_tanke_strom,Grand-Rue 33  2745 Grandval,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Ey-Gässli 2  3770 Zweisimmen,unknown,unknown
+Oberaargau,ich_tanke_strom,Gaswerkstrasse 41  4900 Langenthal,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Krankenhausweg 39  3110 Münsingen,unknown,unknown
+Thun District,ich_tanke_strom,Schorenstrasse 39  3645 Gwatt (Thun),unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Spitzhornweg 30  3792 Saanen,unknown,unknown
+Emmental District,ich_tanke_strom,Dorfstrasse 16  6196 Marbach LU Marbach LU,unknown,unknown
+Emmental District,ich_tanke_strom,Burghof 100  3454 Sumiswald,unknown,unknown
+Emmental District,ich_tanke_strom,Hasenmattstrasse 13M  3427 Utzenstorf,unknown,unknown
+Emmental District,ich_tanke_strom,Hasenmattstrasse 13O  3427 Utzenstorf,unknown,unknown
+Oberaargau,ich_tanke_strom,Engermatte 4  4936 Kleindietwil,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Winterholzstrasse 83  3018 Bern,unknown,unknown
+Emmental District,ich_tanke_strom,Mühlegasse 26  3432 Lützelflüh,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Dorfmattweg 8A  3110 Münsingen,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Chemin du Long-Champ 93–95  2504 Biel/Bienne,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Dorfstrasse 77  3778 Schönried,unknown,unknown
+Thun District,ich_tanke_strom,Brüggstrasse 40  3634 Thierachern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Moosstrasse 4  3302 Moosseedorf,unknown,unknown
+Thun District,ich_tanke_strom,Mönchstrasse 30A  3600 Thun,unknown,unknown
+Oberaargau,ich_tanke_strom,Steinackerweg 20  4900 Langenthal,unknown,unknown
+Oberaargau,ich_tanke_strom,Schulhausstrasse 22  4923 Wynau,unknown,unknown
+Oberaargau,ich_tanke_strom,Möösli 307  4954 Wyssachen,unknown,unknown
+Oberaargau,ich_tanke_strom,Hofmattenweg 4A  4914 Roggwil,unknown,unknown
+Thun District,ich_tanke_strom,Grabenstrasse 6  3600 Thun,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Lehngasse 28  3812 Wilderswil,unknown,unknown
+Oberaargau,ich_tanke_strom,Byfangweg 18  3360 Herzogenbuchsee,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Reichenbachstrasse 118  3004 Bern,unknown,unknown
+Oberaargau,ich_tanke_strom,Industriestrasse 21  3362 Niederönz,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Amthausgasse 4b  3860 Meiringen,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Römerstrasse 11  2555 Brügg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Haldenweg 1  3510 Konolfingen,unknown,unknown
+Oberaargau,ich_tanke_strom,Untersteckholzstrasse 1  4900 Langenthal,unknown,unknown
+Emmental District,ich_tanke_strom,Polieregasse 3  3400 Burgdorf,unknown,unknown
+Emmental District,ich_tanke_strom,Napfstrasse 49  3550 Langnau im Emmental,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Vogelsang 99  2502 Biel,unknown,unknown
+Oberaargau,ich_tanke_strom,Wuhrgasse 23  4900 Langenthal,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Flugplatzstrasse 2  3123 Belp,unknown,unknown
+Thun District,ich_tanke_strom,Schützenstrasse 72  3627 Heimberg,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Alpbachstrasse 15  3860 Meiringen,unknown,unknown
+Thun District,ich_tanke_strom,6 111  3645 Thun,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Bellevuestrasse 15  3715 Adelboden,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Senggistrasse 1  3715 Adelboden,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Schachenstrasse 39  3700 Spiez,unknown,unknown
+Thun District,ich_tanke_strom,Bodmerstrasse  3645 Thun,unknown,unknown
+Seeland District,ich_tanke_strom,Kerzersstrasse 25  3225 Müntschemier,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Höheweg 74  3800 Interlaken,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Privat  - -,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Industriestrasse 19  2553 Safnern,unknown,unknown
+Thun District,ich_tanke_strom,Auweg 8  3627 Heimberg,unknown,unknown
+Oberaargau,ich_tanke_strom,Baselstrasse 18  4537 Wiedlisbach,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Unterdorf 6  6083 Hasliberg,unknown,unknown
+Emmental District,ich_tanke_strom,Dorfstrasse 14  3324 Hindelbank,unknown,unknown
+Seeland District,ich_tanke_strom,Bernstrasse 70  3250 Lyss,unknown,unknown
+Thun District,ich_tanke_strom,Bierigutstrasse 7  3608 Thun,unknown,unknown
+Thun District,ich_tanke_strom,Dornhaldestrasse 3  3627 Heimberg Heimberg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bremgartenstrasse 117  3012 Bern,unknown,unknown
+Thun District,ich_tanke_strom,Burgstrasse 17  3600 Thun,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Gymnasium  3800 Interlaken,unknown,unknown
+Emmental District,ich_tanke_strom,Industrieweg 4  3426 Aefligen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bahnhofstrasse 31  3127 Mühlethurnen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Waldhöheweg 2  3013 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Lehnweg 2  3532 Zäziwil,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Obergasse 26  2555 Brügg,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Aefligenstrasse 13  3314 Schalunen,unknown,unknown
+Emmental District,ich_tanke_strom,Dorfstrasse 26  3465 Dürrenroth,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Juraweg 10  3073 Muri bei Bern,unknown,unknown
+Thun District,ich_tanke_strom,Stationsstrasse 14  3626 Hilterfingen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Eichholzweg 20  3123 Belp,unknown,unknown
+Emmental District,ich_tanke_strom,Dorfgasse 14  3454 Sumiswald,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Kreuzgasse 3  3856 Brienzwiler,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Nussbaumstrasse 32  3006 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Heidmoosweg 15  3049 Wohlen bei Bern,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Industriestrasse 2  2552 Orpund,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Wikartswil 618  3512 Walkringen,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Prastenstrasse 6/17–8/3  3714 Frutigen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Muristrasse 3  3123 Belp,unknown,unknown
+Oberaargau,ich_tanke_strom,Langenthalstrasse 7  4950 Huttwil,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Milchstrasse 3  3072 Ostermundigen,unknown,unknown
+Oberaargau,ich_tanke_strom,Murgenthalstrasse 87  4900 Langenthal,unknown,unknown
+Seeland District,ich_tanke_strom,Schulgasse 1  3268 Lobsigen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Aeschistrasse 25  3110 Münsingen,unknown,unknown
+Emmental District,ich_tanke_strom,Bäraugrundstrasse 3A  3552 Bärau,unknown,unknown
+Thun District,ich_tanke_strom,Schulstrasse 9  3627 Heimberg,unknown,unknown
+Seeland District,ich_tanke_strom,Rämismatte 7  3232 Ins,unknown,unknown
+Seeland District,ich_tanke_strom,Schmiedgasse 35  3264 Diessbach bei Büren,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Brunnenplatz 2  2543 Lengnau,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Nicht Sichtbar auf Karte  - -,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Florastrasse 12  3800 Interlaken,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Schulgasse 2  2560 Nidau,unknown,unknown
+Oberaargau,ich_tanke_strom,Schwende 1  4950 Huttwil,unknown,unknown
+Thun District,ich_tanke_strom,Sigriswilstrasse 117  3655 Sigriswil,unknown,unknown
+Oberaargau,ich_tanke_strom,Bern-Zürichstrasse  4900 Langenthal,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Zelgstrasse 2  3715 Adelboden,unknown,unknown
+Seeland District,ich_tanke_strom,Industriestrasse 7  2557 Studen,unknown,unknown
+Seeland District,ich_tanke_strom,Bahnhofstrasse 19  3250 Lyss,unknown,unknown
+Seeland District,ich_tanke_strom,Hans-Müller-Weg  3270 Aarberg,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Aareschluchtstrasse 15  3860 Schattenhalb,unknown,unknown
+Seeland District,ich_tanke_strom,Römerweg 16  2557 Studen,unknown,unknown
+Thun District,ich_tanke_strom,Glütschbachstrasse 5  3661 Uetendorf,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Rue de l'Argent 39  2503 Biel/Bienne,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Gewerbestrasse 12  3322 Urtenen-Schönbühl,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bahnhofstrasse 5a  3123 Belp,unknown,unknown
+Emmental District,ich_tanke_strom,Fabrikstrasse 6a  3427 Utzenstorf,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Höhenstrasse 2  3770 Zweisimmen,unknown,unknown
+Thun District,ich_tanke_strom,Moosweg 42  3645 Gwatt,unknown,unknown
+Oberaargau,ich_tanke_strom,Steinackerweg 18  4900 Langenthal,unknown,unknown
+Thun District,ich_tanke_strom,Weberweg 11  3612 Steffisburg,unknown,unknown
+Thun District,ich_tanke_strom,Höchhusweg 5  3612 Steffisburg,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Rue Franche 15  2502 Biel/Bienne,unknown,unknown
+Emmental District,ich_tanke_strom,Lyssachstrasse 94  3400 Burgdorf,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Dammweg 39  3053 Münchenbuchsee,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Lauenenstrasse 50  3780 Gstaad,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Grenchenstrasse 3  2504 Biel/Bienne,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Saalistrasse 5  3785 Gsteig,unknown,unknown
+Oberaargau,ich_tanke_strom,Farbgasse 29A  4900 Langenthal,unknown,unknown
+Oberaargau,ich_tanke_strom,Rankmattweg 21  4900 Langenthal,unknown,unknown
+Seeland District,ich_tanke_strom,Waldweg 2  3272 Walperswil,unknown,unknown
+Thun District,ich_tanke_strom,Gwattstrasse 1  3604 Thun,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Dorfmattweg 2  3110 Münsingen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Hauptstrasse 274  3852 Ringgenberg,unknown,unknown
+Emmental District,ich_tanke_strom,Schulhausstrasse 8  3465 Dürrenroth,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Eichholzweg 16  3123 Belp,unknown,unknown
+Seeland District,ich_tanke_strom,Südstrasse 37  3250 Lyss,unknown,unknown
+Seeland District,ich_tanke_strom,Moosgasse 4  3232 Ins,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Alpenstrasse 45  3800 Interlaken,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Fuhrenstrasse  3775 Lenk im Simmental,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Moserstrasse 17  3014 Bern,unknown,unknown
+Thun District,ich_tanke_strom,Mönchstrasse 4  3600 Thun,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Lückhalde 12b  3074 Muri bei Bern,unknown,unknown
+Seeland District,ich_tanke_strom,Oberfeld 8  3283 Kallnach,unknown,unknown
+Oberaargau,ich_tanke_strom,Hirsern 102A  4937 Ursenbach,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Hauptstrasse 276  3852 Ringgenberg,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Höheweg 41  3800 Interlaken,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Bodenstrasse 2  3715 Adelboden,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Harderstrasse 68  3800 Interlaken,unknown,unknown
+Emmental District,ich_tanke_strom,Lyssachstrasse 113a  3400 Burgdorf,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Tägertschistrasse 23  3110 Münsingen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Hallmattstrasse 33  3172 Niederwangen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Seestrasse 201  3800 Unterseen,unknown,unknown
+Jura bernois,ich_tanke_strom,Rte de Frinvillier 7  2534 Orvin,unknown,unknown
+Thun District,ich_tanke_strom,Bernstrasse 40  3612 Steffisburg,unknown,unknown
+Oberaargau,ich_tanke_strom,Industriestrasse 11  3362 Niederönz,unknown,unknown
+Thun District,ich_tanke_strom,Schwäbismattweg 8  3613 Steffisburg,unknown,unknown
+Emmental District,ich_tanke_strom,Scheunenstrasse 3  3400 Burgdorf,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Aarmühlestrasse 23  3800 Interlaken,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Solothurnstrasse 23  3322 Urtenen-Schönbühl,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Flecklistrasse 40  3715 Adelboden,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Ochsenwald 122  3434 Landiswil,unknown,unknown
+Thun District,ich_tanke_strom,Militärstrasse 9  3600 Thun,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Murtenstrasse 67 2502 Biel/Bienne  - Schweiz,unknown,unknown
+Emmental District,ich_tanke_strom,Dorfstrasse 16  6196 Marbach,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,11 149  3855 Brienz,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Bühl  3814 Gsteigwiler,unknown,unknown
+Oberaargau,ich_tanke_strom,Weststrasse 7  4900 Langenthal,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Unter dem Birg 1660  3715 Adelboden,unknown,unknown
+Emmental District,ich_tanke_strom,Sägestrasse 22  3550 Langnau im Emmental,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Lenggasse 44  3860 Meiringen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Schwyzerstärnweg 18  3012 Bern,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Gottstattstrasse 4  2504 Biel,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Diessenberg 2  3068 Utzigen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Schlossstrasse 98  3067 Vechigen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Gewerbeweg 1  3812 Wilderswil,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Ohmweg 10  2504 Biel/Bienne,unknown,unknown
+Seeland District,ich_tanke_strom,Südstrasse 14  3250 Lyss,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Kirchstrasse 6  3780 Gstaad,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Löhre/Mauchamp  2504 Biel,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Bernstrasse 87  3110 Münsingen,unknown,unknown
+Thun District,ich_tanke_strom,Uttigenstrasse 126  3603 Thun,unknown,unknown
+Seeland District,ich_tanke_strom,Im Moos 10  2513 Twann,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Sewli 6  1656 Jaun,unknown,unknown
+Thun District,ich_tanke_strom,Blümlisalpstrasse 12  3628 Uttigen,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Zentweg 46  3072 Ostermundigen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Hittboden 1424G  3855 Axalp,unknown,unknown
+Oberaargau,ich_tanke_strom,Talstrasse 29  4900 Langenthal,unknown,unknown
+Emmental District,ich_tanke_strom,Güterstrasse 28  3550 Langnau im Emmental,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Murtenstrasse 103  3202 Frauenkappelen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Tellweg 7  3800 Matten bei Interlaken,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Thunstrasse 28  3770 Zweisimmen,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Guglerstrasse 6  2560 Nidau,unknown,unknown
+Oberaargau,ich_tanke_strom,Buchsistrasse 4  3380 Wangen an der Aare,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Seestrasse 119  3800 Unterseen,unknown,unknown
+Seeland District,ich_tanke_strom,Im Moos 19  2513 Twann,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Mingerstrasse 6  3014 Bern Kirchenfeld-Schosshalde,unknown,unknown
+Thun District,ich_tanke_strom,Schulstrasse 14  3627 Heimberg,unknown,unknown
+Emmental District,ich_tanke_strom,Friedhofweg 8  3415 Hasle bei Burgdorf,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Alpbachstrasse 18  3860 Meiringen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,3800  Matten bei Interlaken,unknown,unknown
+Thun District,ich_tanke_strom,Winterhaldenstrasse 16  3627 Heimberg,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Öschistrasse 49  3718 Kandersteg,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Am Bühl 300A  3717 Kandergrund,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Dorfstrasse 121  3792 Saanen,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Trachtlistrasse 6  3855 Brienz,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Rue de Gottstatt 4  2504 Bienne,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Haslistrasse 18  3752 Wimmis,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Aarbergstrasse 54  2503 Biel,unknown,unknown
+Oberaargau,ich_tanke_strom,Waldgasse 24  3360 Herzogenbuchsee,unknown,unknown
+Thun District,ich_tanke_strom,Fliederweg 13B  3600 Thun,unknown,unknown
+Oberaargau,ich_tanke_strom,Aarwangenstrasse 8  4900 Langenthal,unknown,unknown
+Jura bernois,ich_tanke_strom,Chem. de Grandval 143  2746 Crémines,unknown,unknown
+Biel/Bienne District,ich_tanke_strom,Neuenburgstrasse 90  2505 Biel,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Morgenstrasse 129  3018 Bern,unknown,unknown
+Seeland District,ich_tanke_strom,Bühlstrasse 25  3272 Walperswil,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Worbstrasse 71  3074 Muri b. Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Obere Zollgasse 23  3072 Ostermundigen,unknown,unknown
+Oberaargau,ich_tanke_strom,Unterdorf 159  4937 Ursenbach,unknown,unknown
+Seeland District,ich_tanke_strom,Südstrasse 11  3250 Lyss,unknown,unknown
+Emmental District,ich_tanke_strom,Gotthelfstrasse 25  3427 Utzenstorf,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Eigerpl. 2  3007 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Allmendweg 5  3508 Arni BE,unknown,unknown
+Seeland District,ich_tanke_strom,Erlenweg 9  2575 Hagneck Hagneck,unknown,unknown
+Frutigen-Niedersimmental District,ich_tanke_strom,Schlegelistrasse 10  3715 Adelboden,unknown,unknown
+Emmental District,ich_tanke_strom,Dorfstrasse 9  3534 Signau,unknown,unknown
+Seeland District,ich_tanke_strom,Bernstrasse 19C  3250 Lyss,unknown,unknown
+Obersimmental-Saanen District,ich_tanke_strom,Bellerivestrasse 42  3780 Gstaad,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Rössliplatz  3855 Brienz,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Wankdorfallee 3  3014 Bern,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Diessenberg 8  3068 Utzigen,unknown,unknown
+Oberaargau,ich_tanke_strom,Rankmattweg 22  4900 Langenthal,unknown,unknown
+Thun District,ich_tanke_strom,Seestrasse 34  3600 Thun,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Höheweg 211  3800 Interlaken,unknown,unknown
+Thun District,ich_tanke_strom,Schlossgasse 8  3653 Oberhofen am Thunersee,unknown,unknown
+Oberaargau,ich_tanke_strom,Käsereistrasse 2  4900 Langenthal,unknown,unknown
+Bern-Mittelland District,ich_tanke_strom,Seftigenstrasse 99  3007 Bern,unknown,unknown
+Interlaken-Oberhasli District,ich_tanke_strom,Seestrasse 16  3800 Unterseen,unknown,unknown
+Bern-Mittelland District,ionity,,unknown,Grauholz Süd
+Bern,lovisa,,unknown,Lovisa
+Langenthal,mercedes_benz,,unknown,Schulhausgarage AG
+Bern,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Bümpliz"
+Oberburg,mercedes_benz,,unknown,Bauder AG
+Wilderswil,mercedes_benz,,unknown,Elite Autocenter AG
+Lyssach,mercedes_benz,,unknown,Lorenz Nutzfahrzeuge AG
+Bern 22,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Bern"
+Aegerten,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Aegerten"
+Uetendorf,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Uetendorf"
+Feutersoey,mercedes_benz,,unknown,B.I. Collection BE AG
+Thun,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Thun"
+Biel/Bienne 6,mercedes_benz,,unknown,"Mercedes-Benz Automobil AG, Zweigniederlassung Biel"
+Gümmenen,mercedes_benz,,unknown,Autogarage Hörhager AG
+Schönbühl (Bern),ricoh_europe,,unknown,Ricoh Schweiz AG - Bern
+LANGENTHAL,shell,,unknown,SHELL LANGENTHAL
+AUSWIL,shell,,unknown,MOVERI AUSWIL
+HERZOGENBUCHSEE,shell,,unknown,MOVERI HERZOGENBUCHSEE
+OBERBIPP,shell,,unknown,AUTOHUS BIPP
+WIEDLISBACH,shell,,unknown,MOVERI WIEDLISBACH
+BURGDORF,shell,,unknown,MIGROL SERVICE BURGDORF.
+LANGNAU IM EMMENTAL,shell,,unknown,MOVERI LANGNAU IM EMMENTAL
+SIGNAU,shell,,unknown,MOVERI SIGNAU
+LYSS,shell,,unknown,MIGROL SERVICE LYSS
+BIEL,shell,,unknown,SHELL SCHIFFLAENDTE
+BIEL/BIENNE,shell,,unknown,MOVERI BIEL
+TREITEN,shell,,unknown,MOVERI TREITEN
+LENGNAU BEI BIEL,shell,,unknown,MOVERI LENGNAU BEI BIEL.
+BERN,shell,,unknown,SHELL OSTRING
+CORGEMONT,shell,,unknown,MOVERI CORGEMONT
+TAVANNES,shell,,unknown,SHELL TAVANNES.
+MURI B. BERN,shell,,unknown,SHELL MURI.
+MOUTIER,shell,,unknown,MOVERI MOUTIER
+ST. IMIER,shell,,unknown,MOVERI ST. IMIER
+MÜNSINGEN,shell,,unknown,MOVERI MÜNSINGEN
+STEFFISBURG,shell,,unknown,AUTO BETTSCHEN AG
+THUN,shell,,unknown,SHELL KLOSEMATTE.
+BOLTIGEN,shell,,unknown,BEAT MATTI
+FRUTIGEN,shell,,unknown,WIDI GARAGE AG.
+WILDERSWIL,shell,,unknown,MIGROL SERVICE WILDERSWIL.
+ST. STEPHAN,shell,,unknown,GARAGE BUEHLER.
+SPIEZ,shell,,unknown,SCHOENEGG-GARAGE AG.
+BRIENZ,shell,,unknown,GARAGE ABEGGLEN.
+Bern,starbucks_eu,Laupenstrasse 1 3008 Bern,unknown,Bubenbergplatz
+Bern,starbucks_eu,Bahnhofplatz 10 3011 Bern,unknown,RailCity Bern
+Bern,starbucks_eu,Waaghausgasse 18 3011 Bern,unknown,Waisenhausplatz
+Bern,swing_kitchen,,unknown,Swing Kitchen Bern
+Bern-Mittelland District,tier,,unknown,Tier

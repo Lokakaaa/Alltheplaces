@@ -1,0 +1,764 @@
+City,Place Name,Zipcode,Name
+Krasnoyarsk,audi,Partizana Zheleznyaka 46G 660022 Krasnoyarsk,unknown,Audi Center Krasnoyarsk
+Дудинка,coffee_like,ул. Островского 6,unknown,Coffee Like
+Krasnoyarsk,lukoil,Russia 660052 Krasnoyarsk Territory Krasnoyarsk st. Montazhnikov 24B,unknown,AZS № 24404
+g. Krasnoyarsk,lukoil,Russia 660100 Krasnoyarsk Territory g. Krasnoyarsk ul. Lado Ketskhoveli d.45,unknown,AZS No 24403.
+PGT Berezovka,lukoil,Russia 662520 Krasnoyarsk Territory PGT Berezovka ul. Kirova d.56A,unknown,AZS No 24402
+unknown,lukoil,Russia 660122 Krasnoyarsk Territory Krasnoyarsk 60 let Oktyabrya st. 161g,unknown,AZS № 24401
+unknown,wildberries,г. Ачинск (Красноярский край) 4-й мкр д. 9,unknown,Wildberries
+unknown,wildberries,г. Канск (Красноярский край) улица Эйдемана д. 18,unknown,Wildberries
+unknown,wildberries,г. Норильск (Красноярский край) ул. Орджоникидзе 1Б,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Кирова 37,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск улица Строителей 25,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Авиаторов 41,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) ул. Затонская д.3,unknown,Wildberries
+unknown,wildberries,г. Минусинск (Красноярский край) ул. Гагарина д. 13 пом. 65,unknown,Wildberries
+unknown,wildberries,г. Норильск (Красноярский край) ул. Школьная  д. 16,unknown,Wildberries
+unknown,wildberries,г. Железногорск (Красноярский край) улица Ленина д. 30,unknown,Wildberries
+unknown,wildberries,г. Назарово (Красноярский край) улица 30 лет ВЛКСМ д. 70  помещение 33,unknown,Wildberries
+unknown,wildberries,г. Ачинск (Красноярский край) 8-й микрорайон д. 7,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) Краснодарская улица д. 22А,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) Аэровокзальная улица д. 7,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица Батурина ул. 19,unknown,Wildberries
+unknown,wildberries,г. Ачинск (Красноярский край) 3-й Привокзальный микрорайон д. 2,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица Крупской д. 4А,unknown,Wildberries
+unknown,wildberries,г. Енисейск (Красноярский край) улица Кирова д. 87,unknown,Wildberries
+unknown,wildberries,г. Железногорск (Красноярский край) Ленинградский проспект 35,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) Свободный проспект д. 28,unknown,Wildberries
+unknown,wildberries,г. Шарыпово (Красноярский край) 1-й мкр д. 2,unknown,Wildberries
+unknown,wildberries,г. Минусинск (Красноярский край) Народная улица д. 15,unknown,Wildberries
+unknown,wildberries,г. посёлок городского типа Курагино (Красноярский край) Партизанская улица д. 134,unknown,Wildberries
+unknown,wildberries,г. Канск (Красноярский край) улица 40 лет Октября д. 46,unknown,Wildberries
+unknown,wildberries,г. Боготол (Красноярский край) Советская улица д. 13,unknown,Wildberries
+unknown,wildberries,г. Ачинск (Красноярский край) Юго-Восточный микр-он д. 62,unknown,Wildberries
+unknown,wildberries,г. Ачинск (Красноярский край) 1 мкр  д. 42А,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица Космонавтов д. 17А,unknown,Wildberries
+unknown,wildberries,г. Бородино (Красноярский край) улица Ленина Д. 54А,unknown,Wildberries
+unknown,wildberries,г. Сосновоборск (Красноярский край) улица Юности д. 53,unknown,Wildberries
+unknown,wildberries,г. Лесосибирск (Красноярский край) улица 60 лет ВЛКСМ д. 6,unknown,Wildberries
+unknown,wildberries,г. Железногорск (Красноярский край) проспект Курчатова д. 16А,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица 9 Мая д. 83,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) проспект имени Газеты Красноярский Рабочий д. 63Б,unknown,Wildberries
+unknown,wildberries,село Богучаны (Красноярский край) Октябрьская улица д. 77,unknown,Wildberries
+unknown,wildberries,г. Железногорск (Красноярский край) Октябрьская улица д. 4,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица Академика Киренского д 25Б,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) Взлётная улица д. 7Ж,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) Новосибирская улица д. 1,unknown,Wildberries
+unknown,wildberries,г. Минусинск (Красноярский край) улица Бограда д. 2,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица Петра Ломако д. 2,unknown,Wildberries
+unknown,wildberries,г. Кодинск (Красноярский край) улица Гидростроителей д. 7,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица Водопьянова д. 19,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок городского типа Шушенское 3-й микрорайон 6А,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица Мичурина д. 8,unknown,Wildberries
+unknown,wildberries,г. Ужур (Красноярский край) Советская улица д. 12А,unknown,Wildberries
+unknown,wildberries,г. Шарыпово (Красноярский край) Пионерный микрорайон д. 26,unknown,Wildberries
+unknown,wildberries,Красноярский край Железногорск Таёжная улица 66,unknown,Wildberries
+unknown,wildberries,п. Таежный (Красноярский край) Карабульская  11,unknown,Wildberries
+unknown,wildberries,г. Ачинск (Красноярский край) 5 микрорайон д. 19,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Комсомольская улица 39,unknown,Wildberries
+unknown,wildberries,г. Иланский (Красноярский край) Коммунистическая улица д. 43,unknown,Wildberries
+unknown,wildberries,г. Норильск (Красноярский край) Рудная  3,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) Новосибирская улица д. 41,unknown,Wildberries
+unknown,wildberries,г. Зеленогорск (Красноярский край) Мира улица  36А,unknown,Wildberries
+unknown,wildberries,г. Назарово (Красноярский край) Арбузова 116 Б,unknown,Wildberries
+unknown,wildberries,г. Уяр (Красноярский край) Ленина 172/10,unknown,Wildberries
+unknown,wildberries,г. Минусинск (Красноярский край) Ботаническая 31Б,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) улица Марковского д. 19,unknown,Wildberries
+unknown,wildberries,г. Красноярск (Красноярский край) Линейная улица д. 122,unknown,Wildberries
+unknown,wildberries,пгт. Емельяново (Красноярский край) Новая 9Г,unknown,Wildberries
+unknown,wildberries,г Зеленогорск (Красноярский край) улица Заводская 6,unknown,Wildberries
+unknown,wildberries,Красноярский край Кодинск улица Михайлова 6А,unknown,Wildberries
+unknown,wildberries,г Красноярск (Россия Красноярский край) улица Мате Залки 24,unknown,Wildberries
+unknown,wildberries,г Канск (Россия Красноярский край) мкрн. Северный 26,unknown,Wildberries
+unknown,wildberries,г Красноярск (Россия Красноярский край) Норильская 16И,unknown,Wildberries
+unknown,wildberries,г Красноярск (Красноярский край городской округ Красноярск) улица Шевченко 28А,unknown,Wildberries
+unknown,wildberries,г Лесосибирск Красноярский край городской округ Лесосибирск ул. Дзержинского 6,unknown,Wildberries
+unknown,wildberries,п Солнечный (Красноярский край) Солнечная улица 25А,unknown,Wildberries
+unknown,wildberries,г Красноярск  улица Вильского 22,unknown,Wildberries
+unknown,wildberries,г Красноярск Воронова 14/6,unknown,Wildberries
+unknown,wildberries,с Ермаковское (Красноярский край) Ленина 82А,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Комсомольская улица 23А,unknown,Wildberries
+unknown,wildberries,Козулька (Красноярский край) Вокзальная улица 9,unknown,Wildberries
+unknown,wildberries,Сосновоборск Красноярский край городской округ Сосновоборск улица Энтузиастов 20а,unknown,Wildberries
+unknown,wildberries,г Красноярск (Красноярский край) Елены Стасовой 38Г,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Чернышева 4,unknown,Wildberries
+unknown,wildberries,г Красноярск (Красноярский край) улица Мичурина 2Ж,unknown,Wildberries
+unknown,wildberries,г Минусинск (Красноярский край) улица Тимирязева 17А,unknown,Wildberries
+unknown,wildberries,Шарыпово (Красноярский край) 6 микрорайон 13,unknown,Wildberries
+unknown,wildberries,Железногорск улица 60 лет ВЛКСМ д. 54,unknown,Wildberries
+unknown,wildberries,г Красноярск (Красноярский край) улица Ады Лебедевой 141,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Мате Залки 31,unknown,Wildberries
+unknown,wildberries,г Дивногорск Комсомольская Улица 19,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Академгородок 66г,unknown,Wildberries
+unknown,wildberries,г Енисейск Улица Фефелова 94,unknown,Wildberries
+unknown,wildberries,г Железногорск Улица Советской Армии 30,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Александра Матросова 12,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица 78-Й Добровольческой Бригады 4,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Партизана Железняка 11б,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Калинина 70а,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Карамзина 20,unknown,Wildberries
+unknown,wildberries,г Красноярск Норильская Улица 4,unknown,Wildberries
+unknown,wildberries,пгт Берёзовка Заводская Улица 58,unknown,Wildberries
+unknown,wildberries,Богучаны Красноярский край Богучанский район переулок Островского 8Гс2,unknown,Wildberries
+unknown,wildberries,Ачинск Красноярский край улица Кирова 38,unknown,Wildberries
+unknown,wildberries,г Красноярск Комсомольский Проспект 3,unknown,Wildberries
+unknown,wildberries,Канск Красноярский край городской округ Канск Московская улица 66,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Мужества 14,unknown,Wildberries
+unknown,wildberries,г Красноярск Линейная Улица 97,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Тельмана 15б,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Воронова 29,unknown,Wildberries
+unknown,wildberries,г Красноярск Судостроительная Улица 27а,unknown,Wildberries
+unknown,wildberries,г Красноярск Проспект Имени Газеты Красноярский Рабочий 159,unknown,Wildberries
+unknown,wildberries,Дивногорск Красноярский край улица 30 лет Победы 1,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край городской округ Красноярск улица Дмитрия Мартынова 33,unknown,Wildberries
+unknown,wildberries,г Красноярск Ярыгинская Набережная 9,unknown,Wildberries
+unknown,wildberries,Шушенское Красноярский край Шушенский район 1 микрайон 8,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Дмитрия Мартынова 25,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край Апрельская улица 3,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край улица Кутузова 77А,unknown,Wildberries
+unknown,wildberries,п Кедровый Улица Павлова 6а,unknown,Wildberries
+unknown,wildberries,г Лесосибирск (Красноярский край) ул Горького д 24 ,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край улица Академика Киренского 56А,unknown,Wildberries
+unknown,wildberries,г Лесосибирск 5-Й Микрорайон 26в,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Авиаторов 44,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край улица Сергея Лазо 8А,unknown,Wildberries
+unknown,wildberries,Красноярский край г Красноярск ул Микуцкого д 12 ,unknown,Wildberries
+unknown,wildberries,г Красноярск Судостроительная Улица 62,unknown,Wildberries
+unknown,wildberries,п Абан Улица Пушкина 18,unknown,Wildberries
+unknown,wildberries,Ачинск Красноярский край 3 микрорайон 14,unknown,Wildberries
+unknown,wildberries,г Лесосибирск Улица Ломоносова 62б,unknown,Wildberries
+unknown,wildberries,г Красноярск Взлётная Улица 6,unknown,Wildberries
+unknown,wildberries,г Красноярск Взлётная Улица 26г,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край Ярыгинская набережная 13А,unknown,Wildberries
+unknown,wildberries,г Лесосибирск Промышленная Улица 50,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Тельмана 26,unknown,Wildberries
+unknown,wildberries,г Красноярск Судостроительная Улица 37а,unknown,Wildberries
+unknown,wildberries,г Красноярск Молодёжный Проспект 19,unknown,Wildberries
+unknown,wildberries,Сосновоборск Красноярский край городской округ Сосновоборск проспект Мира 15,unknown,Wildberries
+unknown,wildberries,Красноярский край г Зеленогорск ул Парковая д 17 ,unknown,Wildberries
+unknown,wildberries,г Красноярск Северный Проезд 4,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Весны 5,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица 26 Бакинских Комиссаров 17,unknown,Wildberries
+unknown,wildberries,Норильск Красноярский край городской округ Норильск Дудинская улица 11,unknown,Wildberries
+unknown,wildberries,г Лесосибирск 6-Й Квартал 16,unknown,Wildberries
+unknown,wildberries,пгт Емельяново Почтовый Переулок 7а,unknown,Wildberries
+unknown,wildberries,г Сосновоборск Весенняя Улица 8,unknown,Wildberries
+unknown,wildberries,г Сосновоборск Улица Ленинского Комсомола 11,unknown,Wildberries
+unknown,wildberries,Дудинка Красноярский край улица Бегичева 8,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Ленинградская улица 3Б,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Водопьянова 6,unknown,Wildberries
+unknown,wildberries,Норильск Красноярский край городской округ Норильск Первомайская улица 52А,unknown,Wildberries
+unknown,wildberries,г Енисейск Рабоче-Крестьянская Улица 184,unknown,Wildberries
+unknown,wildberries,г Ачинск 2-Й Юго-Восточный Микрорайон 31,unknown,Wildberries
+unknown,wildberries,г Сосновоборск Улица Ленинского Комсомола 18,unknown,Wildberries
+unknown,wildberries,г Железногорск Советская Улица 30б,unknown,Wildberries
+unknown,wildberries,г Ачинск 5-Й Микрорайон 5,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Партизана Железняка 48е,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Академика Киренского 43,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Ладо Кецховели 75,unknown,Wildberries
+unknown,wildberries,г Канск Микрорайон Северо-Западный 41,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Кутузова 48,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Лесников 27,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Академика Киренского 22,unknown,Wildberries
+unknown,wildberries,Красноярский край Минусинск Абаканская улица 43,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок городского типа Нижняя Пойма микрорайон Спутник 18,unknown,Wildberries
+unknown,wildberries,г Красноярск Малаховская Улица 2,unknown,Wildberries
+unknown,wildberries,г Красноярск Проспект Имени Газеты Красноярский Рабочий 39,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край улица Борисевича 20,unknown,Wildberries
+unknown,wildberries,г Назарово Улица 30 Лет ВЛКСМ 49,unknown,Wildberries
+unknown,wildberries,г Ачинск 3-Й Микрорайон 2,unknown,Wildberries
+unknown,wildberries,с Богучаны Подгорная Улица 2д,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край Комсомольский проспект 22/2,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Партизана Железняка 57,unknown,Wildberries
+unknown,wildberries,г Красноярск Проспект Имени Газеты Красноярский Рабочий 118,unknown,Wildberries
+unknown,wildberries,г Красноярск (Красноярский край) Ярыгинская набережная 25,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Карамзина 4,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Лесопарковая улица 33,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Партизана Железняка 59,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица 9 Мая 73,unknown,Wildberries
+unknown,wildberries,г Красноярск Соколовская Улица 72а,unknown,Wildberries
+unknown,wildberries,г Железногорск Парковая Улица 16,unknown,Wildberries
+unknown,wildberries,г Енисейск Рабоче-Крестьянская Улица 198/4,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Александра Матросова 32,unknown,Wildberries
+unknown,wildberries,г солонцы Улица Новостроек 4а,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица 9 Мая 45,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица 9 Мая 49,unknown,Wildberries
+unknown,wildberries,Дудинка Красноярский край улица Горького 46,unknown,Wildberries
+unknown,wildberries,г Красноярск Линейная Улица 105,unknown,Wildberries
+unknown,wildberries,г Лесосибирск Улица Победы 8а,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Авиаторов 25а,unknown,Wildberries
+unknown,wildberries,г Минусинск Абаканская Улица 56,unknown,Wildberries
+unknown,wildberries,г Красноярск Проспект Имени Газеты Красноярский Рабочий 94,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Тотмина 11,unknown,Wildberries
+unknown,wildberries,г Минусинск Улица Ленина 58,unknown,Wildberries
+unknown,wildberries,г Красноярск Караульная Улица 42,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица 78-Й Добровольческой Бригады 7,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Петра Ломако 12,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Ладо Кецховели 22а,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Шумяцкого 6,unknown,Wildberries
+unknown,wildberries,с Сухобузимское Комсомольская Улица 29,unknown,Wildberries
+unknown,wildberries,Красноярский край Железногорск улица Ленина 51,unknown,Wildberries
+unknown,wildberries,пгт Балахта Юбилейный Переулок 1,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Чернышевского 75а,unknown,Wildberries
+unknown,wildberries,г Красноярск Новгородская Улица 2,unknown,Wildberries
+unknown,wildberries,г Ачинск Улица Калинина 6,unknown,Wildberries
+unknown,wildberries,г Красноярск Амурская Улица 16г,unknown,Wildberries
+unknown,wildberries,Красноярский край г Красноярск Улица Шевченко 70,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Железнодорожников 22д,unknown,Wildberries
+unknown,wildberries,г Канск Улица 40 Лет Октября 62/4,unknown,Wildberries
+unknown,wildberries,г Красноярск Светлогорская Улица 35ак2,unknown,Wildberries
+unknown,wildberries,г Сосновоборск Весенняя Улица 34,unknown,Wildberries
+unknown,wildberries,г Боготол Улица 40 Лет Октября 15а,unknown,Wildberries
+unknown,wildberries,г Железногорск Ленинградский Проспект 7/1,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 1-й Юго-Восточный микрорайон 26,unknown,Wildberries
+unknown,wildberries,с Тюхтет Улица Кирова 44,unknown,Wildberries
+unknown,wildberries,с Шалинское Улица Ленина 30,unknown,Wildberries
+unknown,wildberries,г Красноярск Судостроительная Улица 161,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Ладо Кецховели 37,unknown,Wildberries
+unknown,wildberries,г Красноярск Проспект Имени Газеты Красноярский Рабочий 175,unknown,Wildberries
+unknown,wildberries,Красноярский край Бородино улица Ленина 61А,unknown,Wildberries
+unknown,wildberries,г Железногорск Улица Ленина 50,unknown,Wildberries
+unknown,wildberries,г Назарово Улица Арбузова 96,unknown,Wildberries
+unknown,wildberries,снт Звезда 2 Тихая Улица 1,unknown,Wildberries
+unknown,wildberries,г Железногорск Улица Свердлова 33,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Урванцева 12,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Курчатова 4,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Калинина 17,unknown,Wildberries
+unknown,wildberries,п Подгорный Лесная Улица 9,unknown,Wildberries
+unknown,wildberries,г Железногорск Ленинградский Проспект 73,unknown,Wildberries
+unknown,wildberries,г Зеленогорск Улица Мира 6/1,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Петра Подзолкова 3в,unknown,Wildberries
+unknown,wildberries,г Красноярск Норильская Улица 34,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Копылова 76,unknown,Wildberries
+unknown,wildberries,г Красноярск Переулок Маяковского 18,unknown,Wildberries
+unknown,wildberries,г Ачинск Индустриальная Улица 16,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Забобонова 8,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 5-й микрорайон 40,unknown,Wildberries
+unknown,wildberries,г Красноярск Красномосковская Улица 34,unknown,Wildberries
+unknown,wildberries,г Красноярск Заводская Улица 4,unknown,Wildberries
+unknown,wildberries,Красноярский край Шарыпово 2-й микрорайон 1,unknown,Wildberries
+unknown,wildberries,г Железногорск Восточная Улица 49/1,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Академгородок 17б,unknown,Wildberries
+unknown,wildberries,г Боготол Комсомольская Улица 148,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Парижской Коммуны 3,unknown,Wildberries
+unknown,wildberries,г Железногорск Улица Ленина 22,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Диктатуры Пролетариата 6,unknown,Wildberries
+unknown,wildberries,Красноярск Красноярский край Львовская улица 33А,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Молокова 1а,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Академика Вавилова 52,unknown,Wildberries
+unknown,wildberries,с Дзержинское Садовый Переулок 14,unknown,Wildberries
+unknown,wildberries,пгт Большая Мурта Советская Улица 15,unknown,Wildberries
+unknown,wildberries,г Зеленогорск Улица Диктатуры Пролетариата 1,unknown,Wildberries
+unknown,wildberries,пгт Нижний Ингаш Улица Красная Площадь 51,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Чернышевского 120,unknown,Wildberries
+unknown,wildberries,с Черемшанка Садовая Улица 1,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Ады Лебедевой 91,unknown,Wildberries
+unknown,wildberries,с Большой Улуй Советская Улица 125,unknown,Wildberries
+unknown,wildberries,г Красноярск Проспект 60 Лет Образования СССР 28,unknown,Wildberries
+unknown,wildberries,г Иланский Школьная Улица 27,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Елены Стасовой 50д,unknown,Wildberries
+unknown,wildberries,г Канск Шоссейная Улица 50,unknown,Wildberries
+unknown,wildberries,г Ачинск Квартал 7Б 8а,unknown,Wildberries
+unknown,wildberries,г Норильск Надеждинская Улица 12,unknown,Wildberries
+unknown,wildberries,г Красноярск Норильская Улица 4д,unknown,Wildberries
+unknown,wildberries,пгт Курагино Улица Ленина 59,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Устиновича 28а,unknown,Wildberries
+unknown,wildberries,с Новоселово Улица Максима Горького 2,unknown,Wildberries
+unknown,wildberries,г Красноярск 2-Я Ботаническая Улица 1а,unknown,Wildberries
+unknown,wildberries,г Красноярск Регатная Улица 1,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Свердловская улица 101А,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Свердловская улица 9А,unknown,Wildberries
+unknown,wildberries,г Красноярск Свободный Проспект 29,unknown,Wildberries
+unknown,wildberries,г Минусинск Скворцовская Улица 71,unknown,Wildberries
+unknown,wildberries,г Минусинск Улица Чайковского 60,unknown,Wildberries
+unknown,wildberries,г Красноярск 2-Я Огородная Улица 24,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Алексеева 93,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Белопольского 2а,unknown,Wildberries
+unknown,wildberries,п Копьево Партизанская Улица 19,unknown,Wildberries
+unknown,wildberries,г Красноярск Свободная Улица 7б,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Мате Залки 10,unknown,Wildberries
+unknown,wildberries,пгт Курагино Партизанская Улица 50п,unknown,Wildberries
+unknown,wildberries,г Красноярск Проспект Металлургов 22,unknown,Wildberries
+unknown,wildberries,г Красноярск Ястынская Улица 19,unknown,Wildberries
+unknown,wildberries,г Зеленогорск Набережная Улица 62,unknown,Wildberries
+unknown,wildberries,г Красноярск Ястынская Улица 2д,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Судостроительная улица 90,unknown,Wildberries
+unknown,wildberries,Красноярский край Уяр улица Ленина 83В,unknown,Wildberries
+unknown,wildberries,Красноярский край Бородино улица Маяковского 40,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок городского типа Шушенское улица Тельмана 26,unknown,Wildberries
+unknown,wildberries,с Партизанское Советская Улица 30,unknown,Wildberries
+unknown,wildberries,Ачинск 8-Й Микрорайон 16б,unknown,Wildberries
+unknown,wildberries,с Тесь Улица Строителей 19,unknown,Wildberries
+unknown,wildberries,Канск Улица 40 Лет Октября 47,unknown,Wildberries
+unknown,wildberries,пгт Емельяново Московская Улица 238а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Петра Словцова 3а,unknown,Wildberries
+unknown,wildberries,г Зеленогорск Улица Ленина 1,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица 60 лет Октября 25,unknown,Wildberries
+unknown,wildberries,Красноярский край Кодинск проспект Ленинского Комсомола 10,unknown,Wildberries
+unknown,wildberries,село Ирбейское Интернациональная Улица 95/4,unknown,Wildberries
+unknown,wildberries,село Ермаковское Улица Карла Маркса 61,unknown,Wildberries
+unknown,wildberries,село Тасеево Улица Зелёная Роща 19,unknown,Wildberries
+unknown,wildberries,г Красноярск Улица Молокова 40,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Александра Матросова 5,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Большая Ирба Улица Бочкарёва 20а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Дмитрия Мартынова 15,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Щорса 85г,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Урванцева 15,unknown,Wildberries
+unknown,wildberries,Красноярск Парусная Улица 8,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Калинина 177а,unknown,Wildberries
+unknown,wildberries,Ачинск Улица Свердлова 19,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Калинина 185,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Краснокаменск Центральная Улица 13,unknown,Wildberries
+unknown,wildberries,Красноярский край село Каратузское Советская улица 26Г,unknown,Wildberries
+unknown,wildberries,Красноярск Парусная Улица 9,unknown,Wildberries
+unknown,wildberries,Красноярск Семафорная Улица 191,unknown,Wildberries
+unknown,wildberries,Зеленогорск Парковая Улица 62г,unknown,Wildberries
+unknown,wildberries,село Новобирилюссы Кооперативная Улица 2а,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект 60 Лет Образования СССР 56,unknown,Wildberries
+unknown,wildberries,Красноярский край городской поселок Дубинино Комсомольская улица 28,unknown,Wildberries
+unknown,wildberries,посёлок Элита Озёрная Улица 8,unknown,Wildberries
+unknown,wildberries,Минусинск Народная Улица 7в,unknown,Wildberries
+unknown,wildberries,село Дрокино Московская Улица 1а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Алексеева 19,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Королёва 5А,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Белинского 1,unknown,Wildberries
+unknown,wildberries,Ачинск Улица Кирова 23,unknown,Wildberries
+unknown,wildberries,село Агинское Советская Улица 113,unknown,Wildberries
+unknown,wildberries,Красноярский край село Ермаковское улица Карла Маркса 43,unknown,Wildberries
+unknown,wildberries,село Казачинское Советская Улица 42а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Академика Киренского 67,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Академика Киренского 32,unknown,Wildberries
+unknown,wildberries,Красноярск Лесопарковая Улица 21,unknown,Wildberries
+unknown,wildberries,село Казачинское Советская Улица 89,unknown,Wildberries
+unknown,wildberries,Красноярск Вербная Улица 6,unknown,Wildberries
+unknown,wildberries,Красноярск Ястынская Улица 19д,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект 60 Лет Образования СССР 40б,unknown,Wildberries
+unknown,wildberries,Красноярский край Дивногорск Комсомольская улица 3,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Тельмана 30а,unknown,Wildberries
+unknown,wildberries,Красноярский край Шарыпово 2-й микрорайон 15А,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Тотмина 9,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Балахта Советская Улица 45,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск Московская улица 73,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Березовка Центральная Улица 32,unknown,Wildberries
+unknown,wildberries,Красноярск улица им. Карбышева 24б,unknown,Wildberries
+unknown,wildberries,село Новая Солянка Октябрьская Улица 69а,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск 6-й Северо-Западный микрорайон 6,unknown,Wildberries
+unknown,wildberries,Ачинск Улица Дружбы Народов с10,unknown,Wildberries
+unknown,wildberries,Красноярск Ольховая Улица 6,unknown,Wildberries
+unknown,wildberries,Красноярск Свердловская Улица 17б,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Тотмина 12а,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Даурская улица 16/4,unknown,Wildberries
+unknown,wildberries,Канск Улица Некрасова 10/2,unknown,Wildberries
+unknown,wildberries,Красноярский край Назарово улица Труда 13,unknown,Wildberries
+unknown,wildberries,Красноярск Ширинская Улица 1,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Красной Армии 15,unknown,Wildberries
+unknown,wildberries,Дивногорск Улица Хулиана Гримау 23а/2,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Весны 3,unknown,Wildberries
+unknown,wildberries,Лесосибирск Улица Белинского 5б,unknown,Wildberries
+unknown,wildberries,посёлок Таёжный Лесовозная Улица 9м,unknown,Wildberries
+unknown,wildberries,Красноярск Норильская Улица 52а,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект Имени Газеты Красноярский Рабочий 79,unknown,Wildberries
+unknown,wildberries,деревня Минино Улица Внуковых 10,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок Солнечный Солнечная улица 15с1,unknown,Wildberries
+unknown,wildberries,Минусинск Улица Тимирязева 24,unknown,Wildberries
+unknown,wildberries,Красноярск Якорный Переулок 10,unknown,Wildberries
+unknown,wildberries,Красноярский край Ужур улица Кирова 40Г,unknown,Wildberries
+unknown,wildberries,Сосновоборск Улица Ленинского Комсомола 37,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Джамбульская улица 19А,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Анатолия Гладкова 25Г,unknown,Wildberries
+unknown,wildberries,Красноярск Улица 9 Мая 60г,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск 4-й Центральный микрорайон 19,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Академика Павлова 54,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск улица Эйдемана 12,unknown,Wildberries
+unknown,wildberries,Красноярск Апрельская Улица 1,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Талнахская улица 30,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск улица Орджоникидзе 2,unknown,Wildberries
+unknown,wildberries,Железногорск Ленинградский Проспект 89а,unknown,Wildberries
+unknown,wildberries,Красноярский край Бородино улица Ленина 45Б,unknown,Wildberries
+unknown,wildberries,посёлок Солонцы Кедровая Улица 5,unknown,Wildberries
+unknown,wildberries,Сосновоборск Улица Энтузиастов 7,unknown,Wildberries
+unknown,wildberries,Красноярский край Лесосибирск 7-й микрорайон 1,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Алексеева 22,unknown,Wildberries
+unknown,wildberries,Енисейск Улица Доры Кваш 18,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Югославская улица 30,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Щорса 14,unknown,Wildberries
+unknown,wildberries,Красноярский край Дивногорск улица Чкалова 61,unknown,Wildberries
+unknown,wildberries,Красноярский край Дивногорск набережная имени В.И. Ленина 51,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Березовка Советская Улица 51а,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Волгоградская улица 21,unknown,Wildberries
+unknown,wildberries,посёлок Гремучий Студенческая Улица 3т,unknown,Wildberries
+unknown,wildberries,Заозёрный Улица Ленина 14,unknown,Wildberries
+unknown,wildberries,Красноярский край Минусинск Ботаническая улица 37,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок Ангарский Полярная улица 23,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Партизана Железняка 6а,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица 60 лет Октября 35,unknown,Wildberries
+unknown,wildberries,посёлок Абан Советская Улица 64,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Ленинский проспект 13,unknown,Wildberries
+unknown,wildberries,село Пировское Улица Ленина 33,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Ленина 28,unknown,Wildberries
+unknown,wildberries,село Ирбейское Улица Ленина 57,unknown,Wildberries
+unknown,wildberries,Красноярск Новосибирская Улица 3,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Мечникова 41,unknown,Wildberries
+unknown,wildberries,Ачинск Улица Дружбы Народов 10,unknown,Wildberries
+unknown,wildberries,Зеленогорск Первомайская Улица 7,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск проспект 60 лет Образования СССР 26,unknown,Wildberries
+unknown,wildberries,Красноярский край город Боготол Садовая улица 65А,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Ломоносова 98,unknown,Wildberries
+unknown,wildberries,посёлок Саянский Улица Лукашевича 18,unknown,Wildberries
+unknown,wildberries,Минусинск Улица Тимирязева 8,unknown,Wildberries
+unknown,wildberries,Канск Улица Горького 46,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Республики 42,unknown,Wildberries
+unknown,wildberries,село Бархатово Улица Ленина 5а,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица 40 лет Победы 18,unknown,Wildberries
+unknown,wildberries,поселок Малиновка Квартал 1 2,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 1-й Юго-Восточный микрорайон 13,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Апрельская улица 4,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект Металлургов 28а,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Комсомольская улица 33,unknown,Wildberries
+unknown,wildberries,Красноярск Свердловская Улица 49а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Щорса 30,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск проспект имени Газеты Красноярский Рабочий 26,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Свободный проспект 10,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск улица Космонавтов 39,unknown,Wildberries
+unknown,wildberries,Иланский Улица 40 Лет ВЛКСМ 2д,unknown,Wildberries
+unknown,wildberries,Красноярск Улица 40 Лет Победы 9,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Любы Шевцовой 84,unknown,Wildberries
+unknown,wildberries,Минусинск Улица Трегубенко 58,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Талнахская улица 55,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Чернышевского 63,unknown,Wildberries
+unknown,wildberries,село Ирбейское Трактовая Улица 26и,unknown,Wildberries
+unknown,wildberries,Красноярский край Шарыпово 3-й микрорайон 17,unknown,Wildberries
+unknown,wildberries,Красноярск Свободный Проспект 57,unknown,Wildberries
+unknown,wildberries,Красноярск Сибирский Переулок 8,unknown,Wildberries
+unknown,wildberries,Красноярский край Лесосибирск улица Горького 72,unknown,Wildberries
+unknown,wildberries,Зеленогорск Улица Диктатуры Пролетариата 6,unknown,Wildberries
+unknown,wildberries,Красноярский край Шарыпово 2-й микрорайон 4/6,unknown,Wildberries
+unknown,wildberries,Красноярский край Лесосибирск 5-й микрорайон 4,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Академика Киренского 2и,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 6-й микрорайон 19,unknown,Wildberries
+unknown,wildberries,Красноярский край Лесосибирск 9-й микрорайон 3А,unknown,Wildberries
+unknown,wildberries,Красноярск Ярыгинская Набережная 41,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Рудная улица 31,unknown,Wildberries
+unknown,wildberries,Заозёрный Улица Карла Маркса 12,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Петра Подзолкова 26,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 3-й Привокзальный микрорайон 37,unknown,Wildberries
+unknown,wildberries,Красноярский край Кодинск улица Гайнулина 8/8,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Бограда 111,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск улица Орджоникидзе 20с1,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Урванцева 5,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Мате Залки 11а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Говорова 42а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Вильского 16,unknown,Wildberries
+unknown,wildberries,Красноярск Краснодарская Улица 16,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Молокова 50,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Нижний Ингаш Улица Ленина 153,unknown,Wildberries
+unknown,wildberries,Минусинск Абаканская Улица 61,unknown,Wildberries
+unknown,wildberries,Иланский Улица Голованя 12,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Калинина 41В,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Говорова 53,unknown,Wildberries
+unknown,wildberries,Красноярск Ольховая Улица 14,unknown,Wildberries
+unknown,wildberries,Зеленогорск Улица Энергетиков 3а,unknown,Wildberries
+unknown,wildberries,посёлок Урал Октябрьская Улица 15,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Елены Стасовой 48д,unknown,Wildberries
+unknown,wildberries,рабочий посёлок Зелёный Бор Улица Журавлёва 5,unknown,Wildberries
+unknown,wildberries,Лесосибирск Улица Победы 43а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Сады 2к,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект Металлургов 51,unknown,Wildberries
+unknown,wildberries,Красноярск Ярыгинская Набережная 35,unknown,Wildberries
+unknown,wildberries,Красноярск Свердловская Улица 137,unknown,Wildberries
+unknown,wildberries,Красноярский край Назарово улица 30 лет ВЛКСМ 57А,unknown,Wildberries
+unknown,wildberries,Красноярск Улица 60 Лет Октября 104,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск проспект Машиностроителей 35,unknown,Wildberries
+unknown,wildberries,Красноярск Улица 9 Мая 15,unknown,Wildberries
+unknown,wildberries,Красноярск Ферганская Улица 3,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Светлова 44,unknown,Wildberries
+unknown,wildberries,Красноярский край Ужур улица Кирова 29,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск проспект Металлургов 36,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Ястынская улица 11,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Ладо Кецховели 60,unknown,Wildberries
+unknown,wildberries,Красноярск Семафорная Улица 17г,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Республики 49а,unknown,Wildberries
+unknown,wildberries,село Краснотуранск Улица Дружбы 13/3,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Светлогорский переулок 12,unknown,Wildberries
+unknown,wildberries,Канск Улица Николая Буды 9,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Лесников 23,unknown,Wildberries
+unknown,wildberries,Красноярский край Назарово улица 30 лет ВЛКСМ 80,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Северо-Енисейский Улица Ленина 17,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Петра Подзолкова 3и,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Копылова 17,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Свердловская улица 61,unknown,Wildberries
+unknown,wildberries,Красноярский край Зеленогорск Заводская улица 4,unknown,Wildberries
+unknown,wildberries,Красноярск Молодёжный Проспект 1,unknown,Wildberries
+unknown,wildberries,Ачинск Улица Назарова 24,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Медицинский переулок 35,unknown,Wildberries
+unknown,wildberries,Сосновоборск Улица Юности 3а,unknown,Wildberries
+unknown,wildberries,Красноярск Апрельская Улица 5и,unknown,Wildberries
+unknown,wildberries,Красноярск Соколовская Улица 80а,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Инструментальная улица 6,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Подтёсово Переулок Талалихина 3,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Шевченко 48,unknown,Wildberries
+unknown,wildberries,Зеленогорск Улица Ленина 35,unknown,Wildberries
+unknown,wildberries,Назарово Улица Карла Маркса 44б,unknown,Wildberries
+unknown,wildberries,Красноярск Свердловская Улица 6к,unknown,Wildberries
+unknown,wildberries,Железногорск Улица Толстого 27а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Тельмана 47а,unknown,Wildberries
+unknown,wildberries,Красноярск Комсомольский Проспект 17а,unknown,Wildberries
+unknown,wildberries,Железногорск Проспект Курчатова 48,unknown,Wildberries
+unknown,wildberries,Красноярский край Дудинка улица Горького 64,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Воронова 7,unknown,Wildberries
+unknown,wildberries,Красноярск 2-Я Краснофлотская Улица 19,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Ладо Кецховели 28,unknown,Wildberries
+unknown,wildberries,Железногорск Улица 60 Лет ВЛКСМ 48,unknown,Wildberries
+unknown,wildberries,Красноярский край Лесосибирск 7-й микрорайон 18В,unknown,Wildberries
+unknown,wildberries,Красноярск Северо-Енисейская Улица 52,unknown,Wildberries
+unknown,wildberries,Назарово Улица Борисенко 7,unknown,Wildberries
+unknown,wildberries,село Богучаны Улица Ленина 168,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Водопьянова 13,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект 60 Лет Образования СССР 38и,unknown,Wildberries
+unknown,wildberries,Красноярск Судостроительная Улица 74,unknown,Wildberries
+unknown,wildberries,Канск Улица Шабалина 44с7,unknown,Wildberries
+unknown,wildberries,Красноярск Ярыгинская Набережная 5,unknown,Wildberries
+unknown,wildberries,село Миндерла Советская Улица 1,unknown,Wildberries
+unknown,wildberries,посёлок Степной Школьная Улица 1,unknown,Wildberries
+unknown,wildberries,село Идринское Улица Ломоносова 6,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск Кайтымская улица 36,unknown,Wildberries
+unknown,wildberries,Ачинск 4-Й Микрорайон 4,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Михаила Годенко 3,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Березовка Полевая Улица 37б,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Курагино Партизанская Улица 210а,unknown,Wildberries
+unknown,wildberries,Железногорск Улица Свердлова 15,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Юшкова 18г,unknown,Wildberries
+unknown,wildberries,село Верхнепашино Советская Улица 38,unknown,Wildberries
+unknown,wildberries,село Дзержинское Улица Кирова 59,unknown,Wildberries
+unknown,wildberries,Зеленогорск Набережная Улица 34,unknown,Wildberries
+unknown,wildberries,Минусинск Улица Профсоюзов 46б,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Ярыгинская набережная 19,unknown,Wildberries
+unknown,wildberries,Заозёрный Улица Юности 14,unknown,Wildberries
+unknown,wildberries,Красноярск Улица 40 Лет Победы 2,unknown,Wildberries
+unknown,wildberries,Красноярск Капитанская Улица 6,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Щорса 101/1,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица 60 лет Октября 145,unknown,Wildberries
+unknown,wildberries,Назарово Улица Арбузова 85д,unknown,Wildberries
+unknown,wildberries,Красноярский край поселок Новочернореченский улица Карла Маркса 7А,unknown,Wildberries
+unknown,wildberries,Красноярск Дудинская Улица 1,unknown,Wildberries
+unknown,wildberries,село Каратузское Улица Островского 38а,unknown,Wildberries
+unknown,wildberries,Красноярский край село Холмогорское Молодёжная улица 14А,unknown,Wildberries
+unknown,wildberries,село Городок Улица Ленина 1а,unknown,Wildberries
+unknown,wildberries,Красноярский край село Долгий Мост Советская улица 94,unknown,Wildberries
+unknown,wildberries,Красноярский край Шарыпово микрорайон Северный 32,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Кошурниково Улица Горького 38,unknown,Wildberries
+unknown,wildberries,городской посёлок Стрелка Октябрьская Улица 11,unknown,Wildberries
+unknown,wildberries,село Филимоново Восточная Улица 1б,unknown,Wildberries
+unknown,wildberries,посёлок Пинчуга Улица Горького 2,unknown,Wildberries
+unknown,wildberries,Красноярский край село Есаулово улица Туполева 28,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Комсомольский проспект 2Г,unknown,Wildberries
+unknown,wildberries,Красноярский край Норильск Талнахская улица 39,unknown,Wildberries
+unknown,wildberries,Красноярский край поселок Тинской Первомайская улица 106,unknown,Wildberries
+unknown,wildberries,поселок Ильичево Московская Улица 11,unknown,Wildberries
+unknown,wildberries,Енисейск Улица Ленина 20,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Батурина 15,unknown,Wildberries
+unknown,wildberries,посёлок Октябрьский 2-Я Пионерская Улица 4м,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Лесников 37Б,unknown,Wildberries
+unknown,wildberries,Красноярский край село Знаменка улица Победы 14А,unknown,Wildberries
+unknown,wildberries,село Нарва Заводская Улица 11,unknown,Wildberries
+unknown,wildberries,Красноярский край село Шила Солнечная улица 4,unknown,Wildberries
+unknown,wildberries,село Чечеул Улица Ленина 25,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск улица Герцена 7Г,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Молокова 64,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск микрорайон Солнечный 55/1-2,unknown,Wildberries
+unknown,wildberries,Красноярский край Назарово улица Арбузова 110,unknown,Wildberries
+unknown,wildberries,село Шуваево Улица Просвещения 9-1а,unknown,Wildberries
+unknown,wildberries,Назарово Новокомсомольская Улица 9,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Дачная улица 37,unknown,Wildberries
+unknown,wildberries,Назарово Улица Арбузова 120,unknown,Wildberries
+unknown,wildberries,Красноярск 1-Я Гипсовая Улица 1а,unknown,Wildberries
+unknown,wildberries,село Зыково Советская Улица 54е,unknown,Wildberries
+unknown,wildberries,село Чунояр Школьная Улица 4,unknown,Wildberries
+unknown,wildberries,село Еловое Улица Гурского 11,unknown,Wildberries
+unknown,wildberries,Красноярский край село Крутояр Почтовая улица 8,unknown,Wildberries
+unknown,wildberries,Канск Московская Улица 67/1,unknown,Wildberries
+unknown,wildberries,село Абалаково Советская Улица 36,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Алёши Тимошенкова 167А,unknown,Wildberries
+unknown,wildberries,село Вознесенка Улица Юности 38,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Борисова 32,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок Громадск Железнодорожная улица 12Б,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Батурина 36,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Алексеева 27,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Мужества 10Б,unknown,Wildberries
+unknown,wildberries,посёлок Приморск Улица Энергетиков 2,unknown,Wildberries
+unknown,wildberries,село Атаманово Береговая Улица 19к1,unknown,Wildberries
+unknown,wildberries,село Тасеево Улица Луначарского 62,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 2-й микрорайон 25,unknown,Wildberries
+unknown,wildberries,Красноярский край Лесосибирск Привокзальная улица 17,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 6-й микрорайон 10,unknown,Wildberries
+unknown,wildberries,село Зыково Клубная Улица 4а,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Ярыгинская набережная 3,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок городского типа Кедровый Гвардейская улица 2/10,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Борисова 14с7,unknown,Wildberries
+unknown,wildberries,посёлок Танзыбей Кедровая Улица 1,unknown,Wildberries
+unknown,wildberries,Красноярский край Минусинск Абаканская улица 46,unknown,Wildberries
+unknown,wildberries,Красноярский край городской посёлок Дубинино улица Олега Кошевого 12,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок городского типа Нижняя Пойма улица Дзержинского 14,unknown,Wildberries
+unknown,wildberries,Красноярский край Уяр улица Площадь Революции 7,unknown,Wildberries
+unknown,wildberries,Красноярск Свободный Проспект 64,unknown,Wildberries
+unknown,wildberries,Красноярский край село Солгон улица Гайдара 2А,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Подтёсово Улица Пушкина 44,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Одесская улица 1,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок Новоангарск улица 3-й квартал 7,unknown,Wildberries
+unknown,wildberries,Красноярский край Кодинск улица Гайнулина 2,unknown,Wildberries
+unknown,wildberries,посёлок Минино Зелёная Улица 1б,unknown,Wildberries
+unknown,wildberries,Канск Улица Урицкого 47,unknown,Wildberries
+unknown,wildberries,Красноярский край Лесосибирск улица 60 лет ВЛКСМ 11,unknown,Wildberries
+unknown,wildberries,Красноярский край село Верхнепашино улица Геофизиков 12,unknown,Wildberries
+unknown,wildberries,Красноярский край Кодинск проспект Ленинского Комсомола 2/3,unknown,Wildberries
+unknown,wildberries,Красноярск Московская Улица 24,unknown,Wildberries
+unknown,wildberries,Красноярский край Назарово улица Карла Маркса 18А,unknown,Wildberries
+unknown,wildberries,Норильск Улица Маслова 2,unknown,Wildberries
+unknown,wildberries,Красноярск Норильская Улица 3,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Калинина 53Ас14/1,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект Имени Газеты Красноярский Рабочий 119,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Нижняя Пойма Трактовая Улица 179в,unknown,Wildberries
+unknown,wildberries,село Нижняя Есауловка Школьная Улица 2,unknown,Wildberries
+unknown,wildberries,Красноярск Львовская Улица 52,unknown,Wildberries
+unknown,wildberries,село Никольское Советская Улица 75а,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Корнеева 25А,unknown,Wildberries
+unknown,wildberries,Красноярск Улица 78-Й Добровольческой Бригады 1,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Апрельская улица 7,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Водопьянова 11г,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Кутузова 54,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица имени Героя Советского Союза Д.М. Карбышева 4Б/1,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Кутузова 107,unknown,Wildberries
+unknown,wildberries,Назарово Улица 30 Лет ВЛКСМ 40,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Лесопарковая улица 47,unknown,Wildberries
+unknown,wildberries,Красноярский край Лесосибирск 5-й микрорайон 13,unknown,Wildberries
+unknown,wildberries,Красноярск Степная Улица 13д,unknown,Wildberries
+unknown,wildberries,Канск Улица 40 Лет Октября 38,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Карла Маркса 137,unknown,Wildberries
+unknown,wildberries,Уяр Интернациональная Улица 11,unknown,Wildberries
+unknown,wildberries,Красноярский край Дудинка улица Матросова 13Б,unknown,Wildberries
+unknown,wildberries,село Каратузское Улица Ленина 22,unknown,Wildberries
+unknown,wildberries,Красноярск Парашютная Улица 7,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Вильского 24,unknown,Wildberries
+unknown,wildberries,Красноярский край город Боготол улица Кирова 91,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект Имени Газеты Красноярский Рабочий 80,unknown,Wildberries
+unknown,wildberries,город Боготол Улица Кирова 25,unknown,Wildberries
+unknown,wildberries,Красноярский край городской посёлок Стрелка Октябрьская улица 38,unknown,Wildberries
+unknown,wildberries,деревня Петропавловка Садовая Улица 1б,unknown,Wildberries
+unknown,wildberries,деревня Ермолаево Кедровая Улица 1,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Академика Павлова 44,unknown,Wildberries
+unknown,wildberries,Красноярск Лесопарковая Улица 15,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок городского типа Мотыгино Боровая улица 1А,unknown,Wildberries
+unknown,wildberries,село Шалинское Улица Гончарова 94а,unknown,Wildberries
+unknown,wildberries,Красноярск Семафорная Улица 399,unknown,Wildberries
+unknown,wildberries,посёлок Абан Пионерская Улица 3а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Марковского 78,unknown,Wildberries
+unknown,wildberries,Красноярск Судостроительная Улица 31е,unknown,Wildberries
+unknown,wildberries,Красноярск Норильская Улица 8б,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск Красноярская улица 2,unknown,Wildberries
+unknown,wildberries,Ачинск Полевая Улица 6,unknown,Wildberries
+unknown,wildberries,Дивногорск Улица Чкалова 163,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Академгородок 12а/1,unknown,Wildberries
+unknown,wildberries,село Рыбное Улица Нефтяников 11,unknown,Wildberries
+unknown,wildberries,деревня Кузнецово Удачная Улица 1,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Саянский Улица Кошурникова 4а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Карамзина 24,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Чернышевского 100,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск Норильская улица 20,unknown,Wildberries
+unknown,wildberries,Красноярский край Шарыпово 3-й микрорайон 13Б,unknown,Wildberries
+unknown,wildberries,посёлок Усть-Мана Подгорная Улица 6а,unknown,Wildberries
+unknown,wildberries,село Тюльково Молодёжная Улица 25,unknown,Wildberries
+unknown,wildberries,Енисейск Улица Ленина 69,unknown,Wildberries
+unknown,wildberries,поселок Балай Улица Ленина 41,unknown,Wildberries
+unknown,wildberries,Красноярск Ястынская Улица 7,unknown,Wildberries
+unknown,wildberries,Красноярский край Канск микрорайон МЖК 19,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Горького 37,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 9-й микрорайон 26,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Щорса 60,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Карла Маркса 21,unknown,Wildberries
+unknown,wildberries,село Юдино Колхозная Улица 14а,unknown,Wildberries
+unknown,wildberries,Ачинск 8-Й Микрорайон 13,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Николаева 9б,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Менжинского 11а,unknown,Wildberries
+unknown,wildberries,Лесосибирск Улица Энтузиастов 18и,unknown,Wildberries
+unknown,wildberries,село Карапсель Улица 40 Лет Победы 1а,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Профсоюзов 30,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Микуцкого 3,unknown,Wildberries
+unknown,wildberries,Красноярск Светлогорская Улица 33,unknown,Wildberries
+unknown,wildberries,Сосновоборск Улица Ленинского Комсомола 25,unknown,Wildberries
+unknown,wildberries,Красноярск Улица 78-Й Добровольческой Бригады 25,unknown,Wildberries
+unknown,wildberries,Назарово Улица Арбузова 118в,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Спандаряна 35,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Петра Подзолкова 6,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Шевченко 5,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Емельяново Новая Улица 17н,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Крупской 10,unknown,Wildberries
+unknown,wildberries,Минусинск Советская Улица 35а,unknown,Wildberries
+unknown,wildberries,село Малая Минуса Улица Ленина 47,unknown,Wildberries
+unknown,wildberries,село Шошино Улица Калинина 100,unknown,Wildberries
+unknown,wildberries,город Боготол 1-Я Зарельсовая Улица 33,unknown,Wildberries
+unknown,wildberries,городской посёлок Стрелка Заводская Улица 18,unknown,Wildberries
+unknown,wildberries,Заозёрный Советская Улица 51,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск улица Кравченко 7А,unknown,Wildberries
+unknown,wildberries,Шарыпово 4-Й Микрорайон 18а,unknown,Wildberries
+unknown,wildberries,Канск Улица 15 Борцов 27/1с2,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Раздолинск Первомайская Улица 70,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок Памяти 13 Борцов улица Гурского 67А,unknown,Wildberries
+unknown,wildberries,Канск 1-Й Городок с11,unknown,Wildberries
+unknown,wildberries,Минусинск Канская Улица 102,unknown,Wildberries
+unknown,wildberries,деревня Тагара Первомайский Переулок 9,unknown,Wildberries
+unknown,wildberries,Красноярск Краснодарская Улица 40/1,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Можайского 6/1,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Шушенское 2-Й Микрорайон 20а,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Балахта Дивногорская Улица 44,unknown,Wildberries
+unknown,wildberries,Красноярск Проспект Имени Газеты Красноярский Рабочий 108,unknown,Wildberries
+unknown,wildberries,Красноярск Ботанический Бульвар 15,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярский край улица Академгородок 74,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок Рассвет улица 30 лет Победы 8,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Бебеля 57,unknown,Wildberries
+unknown,wildberries,село Очуры Советская Улица 148,unknown,Wildberries
+unknown,wildberries,село Галанино Трактовая Улица 70ж/1,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск 2-й Юго-Восточный микрорайон 48,unknown,Wildberries
+unknown,wildberries,Шарыпово Берёзовая Улица 30,unknown,Wildberries
+unknown,wildberries,Ужур Рабочая Улица 71,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица Чернышевского 114,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск улица Смены 87А,unknown,Wildberries
+unknown,wildberries,Красноярский край посёлок городского типа Козулька улица 40 лет Победы 60В,unknown,Wildberries
+unknown,wildberries,Красноярский край Красноярск улица 60 лет Октября 22,unknown,Wildberries
+unknown,wildberries,Красноярский край Назарово Вокзальная улица 1А,unknown,Wildberries
+unknown,wildberries,Красноярский край Ачинск микрорайон Авиатор 19,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Александра Матросова 9а,unknown,Wildberries
+unknown,wildberries,Ачинск 24-Й Квартал 1,unknown,Wildberries
+unknown,wildberries,Красноярск Улица 9 Мая 35а,unknown,Wildberries
+unknown,wildberries,село Белый Яр Трактовая Улица 49,unknown,Wildberries
+unknown,wildberries,посёлок Солонцы Новая Улица 3с2,unknown,Wildberries
+unknown,wildberries,Ачинск Улица Льва Толстого 61,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Курагино Советский Переулок 22/4п,unknown,Wildberries
+unknown,wildberries,посёлок Таёжный Улица Ленина 22,unknown,Wildberries
+unknown,wildberries,Минусинск Улица Чайковского 23с1,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Калинина 47и,unknown,Wildberries
+unknown,wildberries,посёлок Топольки Набережная Улица 36б,unknown,Wildberries
+unknown,wildberries,посёлок Первоманск Микрорайон 23,unknown,Wildberries
+unknown,wildberries,Красноярск Ерофеевская Улица 2,unknown,Wildberries
+unknown,wildberries,село Талое Советская Улица 23,unknown,Wildberries
+unknown,wildberries,Ачинск Красноярская Улица 30,unknown,Wildberries
+unknown,wildberries,село Лугавское Улица Красных Партизан 50,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Емельяново Улица Декабристов 166в,unknown,Wildberries
+unknown,wildberries,село Берёзовское Улица Ленина 27,unknown,Wildberries
+unknown,wildberries,село Анцирь Советская Улица 41,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Авиаторов 20,unknown,Wildberries
+unknown,wildberries,Минусинск Красноармейская Улица 16,unknown,Wildberries
+unknown,wildberries,Красноярск Северное Шоссе 48,unknown,Wildberries
+unknown,wildberries,посёлок городского типа Балахта Улица Молодогвардейцев 11,unknown,Wildberries
+unknown,wildberries,Красноярск Улица Ленина 153/39,unknown,Wildberries
+unknown,wildberries,село Частоостровское Лесная Улица 10а,unknown,Wildberries
+unknown,wildberries,Шарыпово 6-Й Микрорайон 3,unknown,Wildberries
+unknown,wildberries,Назарово Улица 30 Лет ВЛКСМ 8а,unknown,Wildberries
+unknown,wildberries,Лесосибирск Лесная Улица 41,unknown,Wildberries
+unknown,wildberries,посёлок Первомайск Партизанская Улица 4,unknown,Wildberries
+unknown,wildberries,село Субботино Садовая Улица 17,unknown,Wildberries
+unknown,wildberries,село Заледеево Улица 70 Лет Октября 6,unknown,Wildberries
+unknown,wildberries,Красноярск Караульная Улица 43/2,unknown,Wildberries
+unknown,wildberries,село Дзержинское Красноармейская Улица 90а,unknown,Wildberries
+unknown,wildberries,поселок Причулымский Улица Просвещения 2а,unknown,Wildberries
+unknown,wildberries,село Озерное Ленинградская Улица 37,unknown,Wildberries
+unknown,wildberries,село Кордово Набережная Улица 15,unknown,Wildberries

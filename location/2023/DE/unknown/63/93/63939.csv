@@ -1,0 +1,15 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+HEL-10,aldi_sud_de,,"Presentstraße 12, 63939, Wörth am Main, Deutschland",Wörth am Main,,,DE,,,Mo-Sa 08:00-20:00,ALDI Süd,Q41171672
+49.7968719.158028,dpd_de,ABC Schreibwaren,,Wörth,,,DE,,,Mo-Fr 07:00-18:00; Sa 08:00-14:00,DPD,Q541030
+49.787059.16926,dpd_de,Bauer Baustoffe GmbH,,Wörth,,,DE,,,,DPD,Q541030
+2760910681,gls_de,Autoteile Sauerwein,,Wörth,,,DE,+49 9372 5922,,"Mo-Fr 08:00-12:30,13:30-17:00; Sa 09:00-13:00",General Logistics Systems,Q46495823
+2760914106,gls_de,ABC Schreibwaren,,Wörth,,,DE,+49 9372 4448,,Mo-Fr 07:00-18:00; Sa 08:00-14:00,General Logistics Systems,Q46495823
+2646,kik,KiK,,Wörth am Main,,,DE,+49 9372 1398920,,Mo-Fr 09:00-19:00; Sa 09:00-18:00,KiK,Q883965
+6035,lidl_de,,,Wörth,,,DE,,,Mo-Sa 07:00-20:00,Lidl,Q151954
+49.7922_9.16081,norma_de,NORMA,,Wörth am Main,,,DE,,,Mo-Sa 08:00-20:00,Norma,Q450180
+https://www.rossmann.de/de/filialen/bayern/woerth-am-main/presentstr--5.html,rossmann_de,Rossmann Drogerie-Markt Presentstr. 5,,Wörth am Main,,,DE,+49 9372 9209944,https://www.rossmann.de/de/filialen/bayern/woerth-am-main/presentstr--5.html,Mo-Sa 08:00-20:00,Rossmann,Q316004
+25782,sparkasse_de,Sparkasse Miltenberg-Obernburg Geldautomat Wörth,,Wörth,,,DE,+49 6022 5010,https://www.sparkasse.de/standorte/geldautomaten/sparkasse-miltenberg-obernburg-geldautomat-woerth-25782,24/7,Sparkasse,Q13601825
+13354,sparkasse_de,Sparkasse Miltenberg-Obernburg Beratungscenter Wörth,,Wörth,,,DE,+49 6022 5010,https://www.sparkasse.de/standorte/filialen/sparkasse-miltenberg-obernburg-beratungscenter-woerth-13354,"Mo 09:30-12:30,14:00-17:00; Tu-Th 09:30-12:30; Fr 09:30-12:30,14:00-17:00",Sparkasse,Q13601825
+ND041764,totalenergies,WOERTH AM MAIN HATTSTEINSTRASSE 2,,WOERTH AM MAIN,,,DE,+49 9372 7063484,https://store.totalenergies.fr/en_EN/ND041764,Mo-Su 06:00-22:00,TotalEnergies,Q154037
+,visa,,,WOERTH,,,DE,,,,,
+https://www.vr.de/standorte/W/Wn-Wz/raiffeisen-volksbank-aschaffenburg-eg-geschaeftsstelle-woerth-9733.html,vr_bank,Raiffeisen-Volksbank Aschaffenburg eG – Geschäftsstelle Wörth,,Wörth,,,DE,+49 6021 4970,https://www.raiffeisen-volksbank-aschaffenburg.de,"Tu 09:00-12:00,14:00-16:30",,

@@ -1,0 +1,918 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,28
+ALX,adidas,Alexandria,3
+C,adidas,Cairo,11
+DT,adidas,Domiate,1
+GZ,adidas,Cairo,3
+UNKNOWN,adidas,Alexandria,2
+UNKNOWN,adidas,Cairo,3
+UNKNOWN,adidas,PortSaid,1
+UNKNOWN,adidas,Mansoura,1
+UNKNOWN,adidas,Tanta,1
+UNKNOWN,adidas,6th of October,1
+UNKNOWN,adidas,Zakazik,1
+UNKNOWN,alamo,Cairo,2
+UNKNOWN,alamo,Hurghada,1
+UNKNOWN,alstom,unknown,1
+CAIRO,american_eagle_outfitters,Heliopolis,1
+CAIRO,american_eagle_outfitters,Giza 5 Of October City,1
+CAIRO,american_eagle_outfitters,Fifth Settlement New Cairo,2
+UNKNOWN,american_eagle_outfitters,Cairo Governorate El Nozha,1
+MUHAFAZATALQALYUBIYAH,audi,Obour City,1
+ALEXANDRIA,audi,Alexandria,1
+ALJIZAH,audi,Giza,1
+MUHAFAZATALQALYUBIYAH,audi,New Cairo,1
+ALJIZAH,audi,Maadi,1
+MEETANDGREET,avis,Sharm El Sheikh,1
+SOUTHSINAIGOVERNORATE,avis,Sharm El Sheikh,1
+BUILDINGNO25,avis,Hurghada,1
+MADINATY,avis,Cairo,1
+MEETGREET,avis,Alexandria,1
+ROUSHDY,avis,Alexandria,1
+ALEXANDRIA,avis,Alexandria,1
+CAIRO,avis,Cairo,2
+5THSETTLEMENTNEWCARO,avis,Cairo,1
+SAUDICOBUILDINGNASRCITY,avis,Cairo,1
+ALJAZEERATOWER2MAADI,avis,Cairo,1
+HURGHADA,avis,Hurghada,1
+CLOSETOCOSTACAFE,avis,Hurghada,1
+UNKNOWN,costa_coffee,unknown,54
+CAIRO,crocs_eu,Nasr City,1
+UNKNOWN,crocs_eu,Nasr City,1
+UNKNOWN,crocs_eu,Heliopolis,1
+UNKNOWN,crocs_eu,Giza City,2
+CAIRO,crocs_eu,11757 Heliopolis,1
+UNKNOWN,crocs_eu,41516 Ismailia,1
+UNKNOWN,crocs_eu,New Cairo City,2
+UNKNOWN,crocs_eu,6th of October City,1
+UNKNOWN,crocs_eu,Al Giza Desert,1
+UNKNOWN,crocs_eu,Cairo,2
+UNKNOWN,crocs_eu,Cairo Festival City New Cairo,1
+UNKNOWN,crocs_eu,Damietta,2
+UNKNOWN,crocs_eu,First 6th of October City,1
+UNKNOWN,crocs_eu,Giza,1
+ALEXANDRIA,crocs_eu,Roshdy,1
+UNKNOWN,crocs_eu,Port Said,1
+UNKNOWN,crocs_eu,North Coast,1
+CAIRO,crocs_eu,Heliopolis,1
+CAIROGOVERNORATE,dan_john,Cairo Governorate,2
+CAIROGOVERNORATE,dan_john,New Cairo,1
+UNKNOWN,dan_john,Cairo Governorate,1
+GIZAGOVERNATE,dan_john,Giza,1
+CAIROGOVERNORATE,dan_john,Nasr City,1
+UNKNOWN,deloitte,Cairo,1
+UNKNOWN,ecco,Cairo,3
+UNKNOWN,ecco,Alexandria,1
+UNKNOWN,enterprise,Sheikh Zayed,1
+UNKNOWN,enterprise,Cairo,5
+UNKNOWN,enterprise,Hurghada,1
+UNKNOWN,enterprise,Sharm El Sheikh,1
+UNKNOWN,ernst_young,Cairo,1
+UNKNOWN,geox,ALEXANDRIA,1
+UNKNOWN,geox,CAIRO,5
+UNKNOWN,goldsgym,Cairo,3
+UNKNOWN,goldsgym,Giza,2
+UNKNOWN,goldsgym,Hurghada,1
+UNKNOWN,hardrock,Hurghada,1
+UNKNOWN,hardrock,Nabq,1
+UNKNOWN,hardrock,Sharm El Sheikh,1
+UNKNOWN,hilton,unknown,3
+UNKNOWN,hm,Cairo,10
+UNKNOWN,hm,Alexandria,1
+07,hugo_boss,Cairo,1
+01,hugo_boss,Cairo,1
+10,hugo_boss,Cairo,1
+UNKNOWN,ikea,القاهرة الجديدة,1
+UNKNOWN,ikea,الجيزة,1
+EGYPT,jll,Cairo,1
+UNKNOWN,lhw,El Gouna,1
+UNKNOWN,man_truck_and_bus,El Obour,1
+UNKNOWN,man_truck_and_bus,Luxor,1
+UNKNOWN,man_truck_and_bus,Hurghada,1
+UNKNOWN,man_truck_and_bus,Alexandria,3
+UNKNOWN,man_truck_and_bus,Cairo,1
+UNKNOWN,marriott,Cairo,9
+UNKNOWN,marriott,Sharm El Sheikh,2
+UNKNOWN,marriott,Hurghada,1
+UNKNOWN,marriott,Alexandria,1
+UNKNOWN,marriott,El Gouna,1
+UNKNOWN,marriott,Red Sea,1
+UNKNOWN,maserati,CAIRO,1
+OBOURCITY,mcdonalds_qstore,Obour City,1
+ALQALYUBIAGOVERNORATE,mcdonalds_qstore,Al Qalyubia Governorate,2
+ALMANSOURA,mcdonalds_qstore, Al Mansoura,1
+CAIRO,mcdonalds_qstore,Cairo,11
+NEWCAIRO,mcdonalds_qstore,New Cairo,3
+GIZA,mcdonalds_qstore,Giza,6
+CAIRO,mcdonalds_qstore, Cairo,1
+ALEXANDRIA,mcdonalds_qstore, Alexandria,1
+MADINATY,mcdonalds_qstore,Madinaty,1
+ALEXANDRIA,mcdonalds_qstore,Alexandria,4
+ISMAILIA,mcdonalds_qstore,Ismailia,1
+PORTSAID,mcdonalds_qstore,Port Said,1
+UNKNOWN,mcdonalds_qstore,unknown,111
+GIZAGOVERNORATE,mcdonalds_qstore,Giza Governorate,4
+NASRCITYCAIRO,mcdonalds_qstore,"Nasr City, Cairo",2
+CAIROGOVERNORATE,mcdonalds_qstore,Cairo Governorate,5
+SUEZ,mcdonalds_qstore,Suez,1
+GHARBIA,mcdonalds_qstore,Gharbia,1
+ALQALYUBIA,mcdonalds_qstore,Al Qalyubia,1
+CAIROALEX,mcdonalds_qstore,Cairo-Alex,1
+ISMAILIA,mcdonalds_qstore,Ismailia ,1
+CAIROGOVERNORATE,mercedes_benz,Cairo,2
+GHARBIAGOVERNORATE,mercedes_benz,Alexandria,1
+CAIRO,mercedes_benz,Cairo,3
+الجيزة,mercedes_benz,Giza,1
+GIZAGOVERNORATE,mercedes_benz,Giza,1
+REDSEAGOVERNORATE,mercedes_benz,Hurghada,1
+ALAMEIN,mercedes_benz,Alamein,1
+GIZAGOVERNORATE,mercedes_benz,6th of October,2
+CAIRO,michaelkors,Nasr,2
+UNKNOWN,moneygram,CAIRO,112
+UNKNOWN,moneygram,GIZA,40
+UNKNOWN,moneygram,ASSUIT,41
+UNKNOWN,moneygram,AL BEHEIRA,33
+UNKNOWN,moneygram,AL ISMAILIYA,20
+UNKNOWN,moneygram,AL FAYOUM,30
+UNKNOWN,moneygram,AL SHARKIYA,40
+UNKNOWN,moneygram,AL MINYA,34
+UNKNOWN,moneygram,ASWAN,23
+UNKNOWN,moneygram,QENA,27
+UNKNOWN,moneygram,AL DAKAHLIYA,30
+UNKNOWN,moneygram,SOHAG,47
+UNKNOWN,moneygram,ALEXANDRIA,52
+UNKNOWN,moneygram,AL MONOUFIYA,21
+UNKNOWN,moneygram,BENI SUEF,20
+UNKNOWN,moneygram,KAFR EL SHEIKH,33
+UNKNOWN,moneygram,AL QALIUBIYA,26
+UNKNOWN,moneygram,AL GHARBIYA,31
+UNKNOWN,moneygram,DOMIAT,19
+UNKNOWN,moneygram,LUXOR,19
+UNKNOWN,moneygram,AL WADI AL GADID,12
+UNKNOWN,moneygram,DAMIETTA,4
+UNKNOWN,moneygram,6 OCTOBER,1
+UNKNOWN,moneygram,KAFR EL SHEKH,1
+UNKNOWN,moneygram,ASSIUT,3
+UNKNOWN,moneygram,BENI SOWEIF,4
+UNKNOWN,moneygram,SOUTH SINAI,5
+UNKNOWN,moneygram,MARSA MATROUH,4
+UNKNOWN,moneygram,HURGHADA,1
+UNKNOWN,moneygram,ISMALIA CITY,1
+UNKNOWN,moneygram,MAHALA,1
+UNKNOWN,moneygram,EL MANSOURA,1
+UNKNOWN,moneygram,MENYA,1
+UNKNOWN,moneygram,MIT GHAMR,1
+UNKNOWN,moneygram,PORT SAID,5
+UNKNOWN,moneygram,SUEZ,5
+UNKNOWN,moneygram,TANTA,3
+UNKNOWN,moneygram,EL ZAQAZIQ,1
+UNKNOWN,moneygram,BANI SOUIF,2
+UNKNOWN,moneygram,FAYOUM,7
+UNKNOWN,moneygram,DAMANHOUR,1
+UNKNOWN,moneygram,DAMITTA,1
+UNKNOWN,moneygram,DAMANHUR NEW,1
+UNKNOWN,moneygram,DAMIETTA GOVERNORATE,1
+UNKNOWN,moneygram,KAFR ELSHEIKH,8
+UNKNOWN,moneygram,BENI SUFE,10
+UNKNOWN,moneygram,AL GHARBIA,1
+UNKNOWN,moneygram,6TH OF OCTOBER,2
+UNKNOWN,moneygram,MATROH,1
+UNKNOWN,moneygram,SHARKIYA,2
+UNKNOWN,moneygram,MAGHAGHA,1
+UNKNOWN,moneygram,DAKAHLIYA,1
+UNKNOWN,moneygram,AL JIZAH,9
+UNKNOWN,moneygram,DEKERNES,3
+UNKNOWN,moneygram,NABARUH,1
+UNKNOWN,moneygram,MANSOURA,6
+UNKNOWN,moneygram,DUMYAT,3
+UNKNOWN,moneygram,ZAGAZIG,1
+UNKNOWN,moneygram,OCTOBER 6,2
+UNKNOWN,moneygram,EL-QALYUBIYA,3
+UNKNOWN,moneygram,EL-SHARQAYA,9
+UNKNOWN,moneygram,AL-DAKHILAH,8
+UNKNOWN,moneygram,GHARBIYA EL- SAQRIYA,5
+UNKNOWN,moneygram,EL-KAFR EL-SHARQI,4
+UNKNOWN,moneygram,6 OCTOBER CITY,3
+UNKNOWN,moneygram,EL-MANAYIF,6
+UNKNOWN,moneygram,HELWAN,2
+UNKNOWN,moneygram,KENA,3
+UNKNOWN,moneygram,NEW VALLEY,1
+UNKNOWN,moneygram,RED SEA,2
+UNKNOWN,moneygram,EL BAHARIYA,4
+UNKNOWN,moneygram,NORTH SINAI,1
+UNKNOWN,moneygram,ISMALIA,2
+UNKNOWN,moneygram,BENI SUWEIF,3
+UNKNOWN,moneygram,QALYOUBIYA,2
+UNKNOWN,moneygram,BANISWAEF,1
+UNKNOWN,moneygram,BEHIRA,1
+UNKNOWN,national,Cairo,2
+UNKNOWN,national,Hurghada,1
+UNKNOWN,newyorker,Cairo,2
+UNKNOWN,nike,Cairo,6
+UNKNOWN,nike,Alexandria,2
+مصر,nissan_europe,القاهرة,14
+مصر,nissan_europe,أسوان,2
+مصر,nissan_europe,إسكندرية ,5
+مصر,nissan_europe,داخلية ,2
+مصر,nissan_europe,جيزة,5
+مصر,nissan_europe,غربية,2
+مصر,nissan_europe,قنا,2
+مصر,nissan_europe,السويس,1
+مصر,nissan_europe,سويس ,1
+مصر,nissan_europe,الاقصر,2
+مصر,nissan_europe,الاسماعلية,1
+مصر,nissan_europe,الغردقة,1
+مصر,nissan_europe,المنيا,2
+مصر,nissan_europe,إسكندرية,1
+مصر,nissan_europe,بني سويف ,1
+مصر,nissan_europe,اسيوط,2
+NA,reebok,Giza,2
+NA,reebok,Cairo,3
+UNKNOWN,reebok,Cairo,3
+UNKNOWN,reebok,Alexandria,1
+UNKNOWN,reebok,Giza,3
+MUHAFAZATALQAHIRAH,sbarro,Cairo,1
+GIZAGOVERNORATE,sbarro,unknown,1
+UNKNOWN,sixt,Cairo,10
+UNKNOWN,sixt,Sharm El Sheikh,2
+UNKNOWN,sixt,Hacienda,1
+UNKNOWN,sixt,El Alamein,1
+UNKNOWN,sixt,Hurghada,2
+UNKNOWN,sixt,El Gouna,1
+UNKNOWN,sixt,Aswan,1
+UNKNOWN,sixt,Marsa Alam,1
+UNKNOWN,sixt,Luxor,1
+UNKNOWN,sixt,Alexandria,2
+UNKNOWN,sixt,Sharm el Sheikh,1
+UNKNOWN,sixt,"Hurghada, Red Sea",1
+UNKNOWN,speed_queen,Cairo,1
+UNKNOWN,sunglass_hut_2,Cairo,4
+UNKNOWN,sunglass_hut_2,Alexandria,1
+UNKNOWN,timberland,Cairo,20
+UNKNOWN,timberland,Alexandria,9
+UNKNOWN,timberland,Port Saed,2
+UNKNOWN,timberland,Redsea,5
+UNKNOWN,timberland,Hurghada,2
+UNKNOWN,timberland,Nasr City,1
+UNKNOWN,timberland,Sharm El Sheikh,1
+UNKNOWN,tommy_hilfiger,Cairo,5
+UNKNOWN,tommy_hilfiger,Alexandria,2
+MUHAFAZATMATRUH,tops_at_spar,Empangeni,1
+ALJIZAH,tops_at_spar,Harrismith,1
+MUHAFAZATMATRUH,tops_at_spar,Carolina,1
+MUHAFAZATMATRUH,tops_at_spar,Vryburg,1
+UNKNOWN,totalenergies,unknown,3
+UNKNOWN,totalenergies,CAIRO,43
+UNKNOWN,totalenergies,Sharqeya,20
+UNKNOWN,totalenergies,Cairo,97
+UNKNOWN,totalenergies,Alexandria,41
+UNKNOWN,totalenergies,Giza,87
+UNKNOWN,totalenergies,Behaira,13
+UNKNOWN,totalenergies,Daqahleya,11
+UNKNOWN,totalenergies,Qaliubeya,8
+UNKNOWN,totalenergies,GHARBIA,14
+UNKNOWN,totalenergies,KALYOBIA,14
+UNKNOWN,totalenergies,Monofeya,3
+UNKNOWN,totalenergies,MONOFYA,12
+UNKNOWN,totalenergies,SHARKEYA,37
+UNKNOWN,totalenergies,Nasr City,3
+UNKNOWN,totalenergies,Kafr Elskeikh,5
+UNKNOWN,totalenergies,Qism El-Salam,1
+UNKNOWN,totalenergies,Bani Mazar,1
+UNKNOWN,totalenergies,ASYUT,3
+UNKNOWN,totalenergies,Marsa Matrouh,1
+UNKNOWN,totalenergies,Markaz Kafr El-Dawar,1
+UNKNOWN,totalenergies,Suez,4
+UNKNOWN,totalenergies,BEHERA,20
+UNKNOWN,totalenergies,Markaz Al Alamein,1
+UNKNOWN,totalenergies,RED SEA,4
+UNKNOWN,totalenergies,Ismaileya,4
+UNKNOWN,totalenergies,Gharbeya,1
+UNKNOWN,totalenergies,DAKHLIA,12
+UNKNOWN,totalenergies,Qesm Borg Al Arab,1
+UNKNOWN,totalenergies,QENA,3
+UNKNOWN,totalenergies,Markaz El-Zakazik,1
+UNKNOWN,totalenergies,GIZA,26
+UNKNOWN,totalenergies,Al Haram,1
+UNKNOWN,totalenergies,Cairo - Alex,1
+UNKNOWN,totalenergies,El-Basatin,2
+UNKNOWN,totalenergies,Al Maadi,1
+UNKNOWN,totalenergies,Assiout,1
+UNKNOWN,totalenergies,Shibin el Kom,1
+UNKNOWN,totalenergies,Asmara,1
+UNKNOWN,totalenergies,suez,5
+UNKNOWN,totalenergies,Al Basatin,1
+UNKNOWN,totalenergies,ALEXANDRIA,12
+UNKNOWN,totalenergies,Damietta,12
+UNKNOWN,totalenergies,Qalyoub,1
+UNKNOWN,totalenergies,DAMITTA,5
+UNKNOWN,totalenergies,Qesm Al Amereyah,1
+UNKNOWN,totalenergies,Aswan,1
+UNKNOWN,totalenergies,Qism El-Nozha,1
+UNKNOWN,totalenergies,ASWAN,4
+UNKNOWN,totalenergies,Menya,2
+UNKNOWN,totalenergies,Ismailia,9
+UNKNOWN,totalenergies,Qism El-Khalifa,1
+UNKNOWN,totalenergies,KAFR EL SHEIKH,3
+UNKNOWN,totalenergies,Hurghada,2
+UNKNOWN,totalenergies,SUEZ,2
+UNKNOWN,totalenergies,DAMIETTA,5
+UNKNOWN,totalenergies,KAFR ELSHEIKH,3
+UNKNOWN,totalenergies,MINYA,5
+UNKNOWN,totalenergies,MATROUH,3
+UNKNOWN,totalenergies,Kafr El Sheikh,6
+UNKNOWN,totalenergies,El Beheira,15
+UNKNOWN,totalenergies,Kalyoubia,3
+UNKNOWN,totalenergies,SHARQEYA,12
+UNKNOWN,totalenergies,NORTH SINAI,2
+UNKNOWN,totalenergies,DAKAHLIA,7
+UNKNOWN,totalenergies,AL QALYUBIA,5
+UNKNOWN,totalenergies,El Sharquia,17
+UNKNOWN,totalenergies,NORTH COAST,1
+UNKNOWN,totalenergies,ALEX,2
+UNKNOWN,totalenergies,Sharkia,1
+UNKNOWN,totalenergies,EL BEHEIRA,1
+UNKNOWN,totalenergies,QALIUBEYA,2
+UNKNOWN,totalenergies,El Gharbeya,5
+UNKNOWN,totalenergies,6th of October,4
+UNKNOWN,totalenergies,QALYUBIA,1
+UNKNOWN,totalenergies,Monufia,1
+UNKNOWN,totalenergies,Kom Ombo-Asswan,1
+UNKNOWN,totalenergies,QALIUBYA,1
+UNKNOWN,totalenergies,Dakahleya,6
+UNKNOWN,totalenergies,SADAT CITY,1
+UNKNOWN,totalenergies,Elmonfya,1
+UNKNOWN,totalenergies,Menia,1
+UNKNOWN,totalenergies,El monofya,1
+UNKNOWN,totalenergies,QALYOUB,1
+UNKNOWN,totalenergies,Elmofya,1
+UNKNOWN,totalenergies,kalyoubia,1
+UNKNOWN,totalenergies,ZAGAZIG,1
+UNKNOWN,totalenergies,El Monoufeya,2
+MUHAFAZATALWADIALJADID,travelex,Pretoria,1
+ALEXANDRIA,truworths,Flagstaff,1
+UNKNOWN,turkiye_is_bankasi,unknown,1
+UNKNOWN,united_colors_of_benetton,IL CAIRO,1
+CAIRO,vans,Cairo,3
+ALEXANDRIA,vans,Alexandria,1
+HURGHADA,visa,RED SEA,4
+UNKNOWN,visa,QENA,184
+UNKNOWN,visa,ASWAN,148
+UNKNOWN,visa,SHARKIA,54
+UNKNOWN,visa,EL WADI EL GDID,2
+UNKNOWN,visa,WADI EL GADID,14
+UNKNOWN,visa,AIN SOKHNA,1
+UNKNOWN,visa,BEHERA,24
+UNKNOWN,visa,MARSA MATROUH,106
+UNKNOWN,visa,ABO SEMBOL,1
+UNKNOWN,visa,MONUFIA,267
+UNKNOWN,visa,PORT SAIED,5
+UNKNOWN,visa,PORT SAHID,1
+UNKNOWN,visa,BANY SWEIF,18
+UNKNOWN,visa,SOUTH OF SINAI,11
+UNKNOWN,visa,EL GHARBIA,4
+UNKNOWN,visa,GHRABIA,1
+UNKNOWN,visa,AL GHARBIYAH,3
+UNKNOWN,visa,GHARBIA,49
+UNKNOWN,visa,GIZA,1038
+UNKNOWN,visa,CAIRO,2524
+UNKNOWN,visa,QALYUBIA,342
+UNKNOWN,visa,SEIMNSE,1
+EGY,visa,HURGHADA,1
+ASWAN,visa,ASWAN,2
+UNKNOWN,visa,KENA,1
+UNKNOWN,visa,ALEXANDRIA,739
+UNKNOWN,visa,SOHAG,261
+MATROUH,visa,MARSA MATROUH,1
+UNKNOWN,visa,KOM EMPO,1
+UNKNOWN,visa,KALYOBEYA,22
+UNKNOWN,visa,ASSYOUT,180
+UNKNOWN,visa,MENYA,24
+UNKNOWN,visa,NASR CITY (1),1
+ASSIUT,visa,ASSIUT,3
+UNKNOWN,visa,ASYUT,41
+UNKNOWN,visa,ASSUIT,11
+UNKNOWN,visa,LUXOR,104
+UNKNOWN,visa,ASYOUT,16
+UNKNOWN,visa,ASSIUT,3
+UNKNOWN,visa,ESNA,1
+UNKNOWN,visa,MANFALOUT,1
+UNKNOWN,visa,SOUHAG,12
+UNKNOWN,visa,MARINA,1
+UNKNOWN,visa,RAMADAN,3
+UNKNOWN,visa,EL BEHIRA,5
+UNKNOWN,visa,DAYROUT,1
+UNKNOWN,visa,MINYA,232
+UNKNOWN,visa,DAMIETTA,110
+UNKNOWN,visa,EDFO,1
+UNKNOWN,visa,ASSUITE,1
+SOHAG,visa,SOHAG,2
+UNKNOWN,visa,SUHAG,1
+EGY,visa,ASSIUT,1
+UNKNOWN,visa,ASIUT,2
+UNKNOWN,visa,ASSIOUT,2
+UNKNOWN,visa,ASUTE,1
+ASSUIT,visa,ASSUIT,1
+ASYUT,visa,ASYUT,2
+UNKNOWN,visa,HURGHADA,82
+UNKNOWN,visa,GERGA,1
+UNKNOWN,visa,TENTH,2
+UNKNOWN,visa,MENOUFYA,23
+UNKNOWN,visa,AL MINYA,1
+UNKNOWN,visa,ASMAILIA,1
+UNKNOWN,visa,MALAWY,1
+CAIRO,visa,CAIRO,74
+UNKNOWN,visa,RED SEA,156
+UNKNOWN,visa,NAGA HAMMADY,1
+QENA,visa,NAGAA HAMADY,1
+UNKNOWN,visa,MERSA MATROH,1
+UNKNOWN,visa,MATROUH,3
+UNKNOWN,visa,41918,5
+UNKNOWN,visa,MATRUH,4
+UNKNOWN,visa,MARSA MATROH,1
+UNKNOWN,visa,MARSA MATRUH,2
+UNKNOWN,visa,ABO QURQAS,1
+LUXOR,visa,LUXOR,2
+UNKNOWN,visa,EL LUXOR,1
+UNKNOWN,visa,EL-MENIA,2
+UNKNOWN,visa,MIAMI,1
+ELMENYA,visa,EL- MENYA,1
+UNKNOWN,visa,MENIA,5
+MINYA,visa,MINYA,1
+NEWMINYA,visa,AL- MINYA,1
+UNKNOWN,visa,ELMENYA,1
+UNKNOWN,visa,EL MONOFYA,1
+UNKNOWN,visa,ELMAHMODYA,1
+UNKNOWN,visa,EL MONOFIA,1
+UNKNOWN,visa,SAMALUT,1
+GIZA,visa,EL WAHAT,2
+UNKNOWN,visa,BANI MAZAR,1
+QENA,visa,QENA,2
+UNKNOWN,visa,QINA,2
+UNKNOWN,visa,QUNA,3
+UNKNOWN,visa,GLEEM,1
+UNKNOWN,visa,SHARM,2
+UNKNOWN,visa,MAGHAGHA,1
+UNKNOWN,visa,BANI SUEF,137
+UNKNOWN,visa,FAYOUM,144
+MATROUH,visa,NORTH COAST,4
+UNKNOWN,visa,MASOURA,1
+UNKNOWN,visa,BENI SUEF,17
+UNKNOWN,visa,SOUTH SINA,1
+UNKNOWN,visa,SINAI,7
+UNKNOWN,visa,NORTH SINA,1
+ALEXANDRIA,visa,ALEXANDRIA,64
+UNKNOWN,visa,NORTH COAST,1
+UNKNOWN,visa,FAIYUM,15
+FAIYUM,visa,EL-FAYOUM,2
+UNKNOWN,visa,ZAYED,2
+UNKNOWN,visa,AL FAYYUM,1
+UNKNOWN,visa,FAUOM,1
+UNKNOWN,visa,EL FAYOM,1
+UNKNOWN,visa,BANI SWIF,3
+UNKNOWN,visa,BANI SWEIF,3
+BENISUEF,visa,BENI SUEF,3
+UNKNOWN,visa,BEHEIRA,251
+UNKNOWN,visa,MANSORA,5
+UNKNOWN,visa,AL MANSURA,1
+UNKNOWN,visa,AL MANSURAH,3
+UNKNOWN,visa,DAKAHLIA,371
+UNKNOWN,visa,BORG EL ARAB,2
+UNKNOWN,visa,BORG EL_ARAB,1
+UNKNOWN,visa,BORG EL-ARAB,2
+UNKNOWN,visa,BENISUEF,1
+ALEXANDRIA,visa,NORTH COAST,1
+BORGELARAB,visa,ALEXANDRIA,1
+DELINGAT,visa,BEHEIRA,1
+GIZA,visa,6TH OF OCTOBER,62
+UNKNOWN,visa,AL WADI EL GDID,1
+6THOFOCTOBER,visa,GIZA,9
+ALSHARQIA,visa,10TH OF RAMADAN,20
+UNKNOWN,visa,GHARBYA,251
+UNKNOWN,visa,SADAT,2
+UNKNOWN,visa,SADAT CITY,1
+UNKNOWN,visa,MENOFIA,6
+UNKNOWN,visa,MARSA ALAM,5
+UNKNOWN,visa,ELSADAT CITY,1
+UNKNOWN,visa,OCTOBER,8
+UNKNOWN,visa,6TH OCTOBER,1
+UNKNOWN,visa,SIX OF OCTOBER,4
+UNKNOWN,visa,SIX OF OCTOBER CITY,1
+UNKNOWN,visa,6TH OCT,1
+UNKNOWN,visa,6TH OCTOBER CITY,1
+UNKNOWN,visa,10 OF RAMADAN,13
+ELMENOUFIA,visa,EL SADAT,1
+UNKNOWN,visa,ALEX,144
+UNKNOWN,visa,MARSA ALLAM,1
+UNKNOWN,visa,6TH OF OCTOBER,10
+UNKNOWN,visa,MONOFIA,6
+UNKNOWN,visa,SOKHNA,5
+ALSHEIKHZAYED,visa,GIZA,7
+UNKNOWN,visa,ISMAILIA,36
+UNKNOWN,visa,TANTA,22
+NEWGIZA,visa,GIZA,1
+ALEXANDRIA,visa,ALEXANDRIA PORT,1
+GIZA,visa,ABU RAWWASH,6
+UNKNOWN,visa,NOBRIA,1
+UNKNOWN,visa,"BAB SHARK, ALEXANDRIA",1
+AMIRIYA,visa,ALEXANDRIA,1
+UNKNOWN,visa,BANI SUWAYF,3
+UNKNOWN,visa,BANI SWAIF,1
+UNKNOWN,visa,ALEXENDEIRA,8
+UNKNOWN,visa,WAHAAT,1
+ALEXDESERTROAD,visa,ALEXANDRIA,1
+ALHURRIYA,visa,ALEXANDRIA,1
+ELRAML,visa,ALEXANDRIA,1
+UNKNOWN,visa,ALEX BAB SHARK,1
+HADAEKALAHRAM,visa,GIZA,1
+MOHARAMBIK,visa,ALEXANDRIA,1
+ALEXANDRIA,visa,HORIA ROAD,1
+UNKNOWN,visa,BENI SUIF,1
+UNKNOWN,visa,SHARM EL SHEIKH,64
+GIZA,visa,HARAM,4
+GIZA,visa,AL HARAM,8
+ALHARAM,visa,GIZA,1
+UNKNOWN,visa,GHANDY G.C.,1
+SEMOHA,visa,ALEXANDRIA,2
+UNKNOWN,visa,SEMOHA,1
+GIZA,visa,GIZA,13
+SMOUHA,visa,ALEXANDRIA,1
+MOSTAFAKAMEL,visa,ALEXANDRIA,1
+KAFRABDO,visa,ALEXANDRIA,2
+GIZA,visa,DOKKI,10
+CAIRO,visa,HELWAN,6
+UNKNOWN,visa,SAFAGA,4
+UNKNOWN,visa,HELWAN,2
+UNKNOWN,visa,10TH OF RAMADAN,27
+ABUQIR,visa,ALEXANDRIA,1
+GLEEM,visa,ALEXANDRIA,1
+CAIRO,visa,MAADI,29
+CORNISHALMAADI,visa,CAIRO,1
+UNKNOWN,visa,NEW MAADI,1
+UNKNOWN,visa,CAI,91
+SANSTEFANO,visa,ALEXANDRIA,1
+UNKNOWN,visa,6-OCTOBER,5
+UNKNOWN,visa,ISMAILEYA,100
+UNKNOWN,visa,MAHALLA,5
+EGY,visa,CAIRO,2
+UNKNOWN,visa,DOKKI CAIRO,1
+UNKNOWN,visa,MAADI CAIRO,1
+GIZA,visa,BOULAQ,1
+SIDIBISHR,visa,ALEXANDRIA,1
+CAIRO,visa,AL MANYAL,2
+CAIRO,visa,SHUBRA,10
+ELMOHANDSIN,visa,GIZA,2
+CAIRO,visa,MANIAL,1
+CAIRO,visa,HELIOPOLIS,56
+ELCAIRO,visa,CAIRO,5
+GIZA,visa,MOHANDESSEEN,11
+CAIRO,visa,BADR CITY,3
+UNKNOWN,visa,SHARM ELSHEIKH,18
+UNKNOWN,visa,DOKKI,1
+GIZA,visa,MOHANDSEEN,5
+UNKNOWN,visa,ALEXANRIA,7
+MAADILASELKY,visa,CAIRO,1
+MAADI,visa,CAIRO,2
+UNKNOWN,visa,KAFR ALDWAR,1
+CAIRO,visa,EL SAYEDA,1
+GIZA,visa,EL-AGOUZAH,2
+MIAMY,visa,ALEXANDRIA,1
+BEHERA,visa,KAFR AD DAWWAR,1
+UNKNOWN,visa,ASHMOUN,1
+UNKNOWN,visa,ELOBOUR,8
+UNKNOWN,visa,PORT SAID,105
+GIZA,visa,EL AGOUZA,1
+GIZA,visa,AL KITKATAH,3
+CAIRO,visa,ZAMALEK,5
+CAIRO,visa,GARDEN CITY,1
+ELZAMALEK,visa,CAIRO,2
+ZAMALEK,visa,CAIRO,2
+CAIRO,visa,AS SAYYIDAH ZAYNAB,1
+UNKNOWN,visa,EL ASHER,2
+CAIRO,visa,HADAYEK EL-KOBA,5
+UNKNOWN,visa,ZAMALEK,1
+DOWNTOWN,visa,CAIRO,1
+QALYUBIA,visa,EL OBOUR CITY,14
+CAIRO,visa,DOWN TOWN,1
+ALMAADI,visa,CAIRO,1
+UNKNOWN,visa,DAMANHOUR,5
+MONUFIA,visa,SADAT CITY,2
+UNKNOWN,visa,SHARKEYA,1
+ELMONTAZAH,visa,ALEXANDRIA,1
+CAIRO,visa,COURNICH EL NILE,2
+ALMONTAZAH,visa,ALEXANDRIA,1
+CAIRO,visa,MOKATTAM,4
+MOKATTAM,visa,CAIRO,2
+BULAK,visa,CAIRO,1
+CAIRO,visa,KORNISH EL NILE,3
+UNKNOWN,visa,ZKAZEEK,1
+UNKNOWN,visa,EL-DAKAHLIA,3
+UNKNOWN,visa,PORTO MARINA,1
+UNKNOWN,visa,PORTO SOKHNA,1
+UNKNOWN,visa,KALUBIA,3
+UNKNOWN,visa,ELOBOUR CITY,1
+UNKNOWN,visa,MERCATO SHARM,1
+UNKNOWN,visa,SHERATON BUILDING,1
+UNKNOWN,visa,ELSENBELLAWEEN,1
+UNKNOWN,visa,ELSALAM CITY,1
+UNKNOWN,visa,ELMAHALA ELKOBRA,2
+UNKNOWN,visa,MODERN ACCADEMY,1
+UNKNOWN,visa,ELASMAILIA,1
+CAIRO,visa,MADINAT AL MUQATTAM,2
+CAIRO,visa,NEW CAIRO,26
+ZAHRAAELMAADI,visa,CAIRO,1
+SHOUBRA,visa,CAIRO,2
+CAIRO,visa,QASR AL NIL,1
+CAIRO,visa,SHOUBRA,2
+UNKNOWN,visa,P.SAID,7
+UNKNOWN,visa,MAADI,1
+JIHANSADATAXIS,visa,CAIRO,1
+CAIRO,visa,EL WAILY,1
+KATTAMYA,visa,CAIRO,1
+CAIRO,visa,AL ABBASIYAH,2
+REDSEA,visa,HURGHADA,14
+CAIRO,visa,NASR CITY,36
+UNKNOWN,visa,SAHL HASHISH,1
+NASERCITY,visa,CAIRO,10
+UNKNOWN,visa,KALIOUB,1
+UNKNOWN,visa,MONOFYA,7
+HELIOPOLIS,visa,CAIRO,10
+CAIRO,visa,EL MARG,1
+CAIRO,visa,EL AMEREYA,1
+UNKNOWN,visa,HELIOPOLIS CAIRO,2
+ELMENIA,visa,EL MENIA,1
+UNKNOWN,visa,ABU HUMMUS,1
+NEWCAIRO,visa,CAIRO,20
+UNKNOWN,visa,NEW CAIRO,5
+QALYUBIA,visa,QALUOBIA,3
+ALMAZA,visa,CAIRO,1
+UNKNOWN,visa,KAFR ELDAWWAR,1
+UNKNOWN,visa,QAHA,1
+UNKNOWN,visa,MENOUF,1
+UNKNOWN,visa,NOZHA,1
+REDSEA,visa,GOUNA,2
+6THOFOCTOBER,visa,CAIRO,1
+UNKNOWN,visa,BEHIRAA,1
+UNKNOWN,visa,MARAQUIA,1
+UNKNOWN,visa,DAMNHOUR,1
+ELBEHIRA,visa,DAMNHOUR,3
+SUEZ,visa,SUEZ,14
+UNKNOWN,visa,HURGADA,15
+UNKNOWN,visa,BEHIRA,3
+UNKNOWN,visa,HELIOPLISE,1
+UNKNOWN,visa,NORTH SINAI,23
+EGY,visa,ASWAN,1
+UNKNOWN,visa,AL MINYAH,5
+EGY,visa,MENIA,1
+BEHEIRA,visa,DAMANHOUR,1
+UNKNOWN,visa,BEHARA,1
+UNKNOWN,visa,ALL,1
+UNKNOWN,visa,MOHADESEEN CAIRO,1
+UNKNOWN,visa,ITAY AL BARUD,1
+CAIRO,visa,EL REHAB,4
+UNKNOWN,visa,TOUKH,1
+UNKNOWN,visa,SHEBIN ELKOOM,1
+CAIRO,visa,EL REHAB CITY,2
+SHEBINELKOM,visa,MONUFIA,1
+UNKNOWN,visa,SHEBIN EL KOUM,1
+MONUFIA,visa,SHEBEEN EL-KOUM,2
+UNKNOWN,visa,MENOUFIA,3
+UNKNOWN,visa,MET GHAMR,1
+UNKNOWN,visa,SUEZ,36
+ALREHABCITY,visa,CAIRO,1
+UNKNOWN,visa,SHEBIN EL KOM,1
+UNKNOWN,visa,AL SHARQIA,16
+10THOFRAMADAN,visa,EL-SHARKIA,3
+UNKNOWN,visa,KALUIOB,1
+UNKNOWN,visa,EL SHARQEYA,342
+BEHERA,visa,BEHERA,1
+UNKNOWN,visa,KAFR ELZAYAT,1
+UNKNOWN,visa,ZAGAZIG,1
+QALYUBIA,visa,BANHA,2
+BANHA,visa,QLUBYIA,1
+UNKNOWN,visa,BANHA,3
+UNKNOWN,visa,AL GHARBIA,5
+UNKNOWN,visa,RA''S GHARIB,1
+REDSEA,visa,RAS GHAREB,1
+UNKNOWN,visa,QALYOBEYA,3
+UNKNOWN,visa,ZAKAZEIK,1
+ELOBOUR,visa,QLUBYIA,2
+ELOBOUR,visa,CAIRO,1
+QALIOUBIEYA,visa,OBOUR CITY,2
+UNKNOWN,visa,EL-OBOUR,6
+UNKNOWN,visa,MEHALA,2
+UNKNOWN,visa,QUESNA,3
+CAIRO,visa,MADINATY,2
+UNKNOWN,visa,AL OBOOR,1
+UNKNOWN,visa,AS SUWAYS,2
+UNKNOWN,visa,KAFR EL SHAIKH,152
+UNKNOWN,visa,KAFR EL-SHEIKH,12
+UNKNOWN,visa,BASYUN,1
+CAIRO,visa,SHOROUK CITY,1
+UNKNOWN,visa,SHARQIA,45
+CAIRO,visa,EL SHEROUK,2
+UNKNOWN,visa,KAFR EL SHEIKH,23
+MADINATY,visa,CAIRO,1
+TANTA,visa,AL- GHARBIA,3
+UNKNOWN,visa,DESOUK,1
+UNKNOWN,visa,DISUK,1
+GHARBIA,visa,TANTA,3
+UNKNOWN,visa,GHARBEYA,3
+GHARBIEYA,visa,TANTA,2
+UNKNOWN,visa,RASHID,2
+UNKNOWN,visa,BADR CITY,1
+UNKNOWN,visa,EL SUEZ,72
+UNKNOWN,visa,QUTUR,1
+UNKNOWN,visa,KOTOUR,1
+UNKNOWN,visa,ZIFTA,1
+UNKNOWN,visa,ZEFTA,1
+MITGHAMR,visa,DAKAHLIA,1
+DAKAHLIA,visa,AL MANSURAH,7
+ALSHARQIA,visa,BELBEIS,1
+UNKNOWN,visa,MEET GHAMR,1
+SHARKIEYA,visa,10TH OF RAMDAN,2
+SUEZ,visa,AIN SOKHNA,1
+UNKNOWN,visa,SUZE,3
+UNKNOWN,visa,ALWARRAK,1
+UNKNOWN,visa,KAFR ELSHEIKH,4
+UNKNOWN,visa,NUBAH,1
+UNKNOWN,visa,10TH OF RAMADA,4
+KAFRASHSHAYKH,visa,KAFR ASH SHAYKH,1
+UNKNOWN,visa,KAFER EL-SHIEKH,1
+UNKNOWN,visa,KAFR EL SHIEKH,1
+KAFRELSHEIKH,visa,KAFR EL-SHEIKH,1
+UNKNOWN,visa,ZAGAZIK,1
+ALSHARQIA,visa,ZAGAZIG,4
+ZAGAZIG,visa,AL- SHARKIA,1
+UNKNOWN,visa,EL EIN SOUKHNA,1
+UNKNOWN,visa,ZAGAZEG,2
+UNKNOWN,visa,ZAKAZIK,1
+UNKNOWN,visa,ELZAKAZIK,2
+UNKNOWN,visa,SHRQIA,2
+UNKNOWN,visa,SOUTH SINAI,108
+UNKNOWN,visa,TOR,1
+ALMAHALLAALKOBRA,visa,AL- GHARBIA,1
+GHARBIA,visa,AL MAHALLAH,1
+UNKNOWN,visa,EIN EL SOKHNA,2
+UNKNOWN,visa,AGA,1
+UNKNOWN,visa,HO,1
+SOUTHSINAI,visa,SHARM EL SHEIKH,9
+UNKNOWN,visa,RAS SEDR,1
+UNKNOWN,visa,DAKAHLEYA,1
+DAKAHLIEYA,visa,MANSOURA,2
+UNKNOWN,visa,MANSOURA,31
+MANSOURA,visa,DAKAHLIA,3
+UNKNOWN,visa,DAQHLIA,2
+UNKNOWN,visa,KAFR SAQR,1
+UNKNOWN,visa,EL DAKAHLIA,5
+UNKNOWN,visa,DAKHLIA,1
+UNKNOWN,visa,ELMANSOURA,1
+UNKNOWN,visa,MANSOURAH,1
+UNKNOWN,visa,ABU KABIR,1
+UNKNOWN,visa,GARBIA,1
+UNKNOWN,visa,EL MANIA,3
+JANUBSINAI,visa,SHARM EL SHEIKH,1
+UNKNOWN,visa,SHARM EL-SHEIKH,14
+UNKNOWN,visa,EL DAKAHLEYA,1
+UNKNOWN,visa,SHARM ALSHEIKH,1
+UNKNOWN,visa,SHARM ELSHIKH,1
+UNKNOWN,visa,SHARM EL SHEIK,1
+UNKNOWN,visa,SHARAM EL-SHIKH,4
+UNKNOWN,visa,SHARM EL SHEKH,7
+ELRAWDA,visa,SUEZ,1
+UNKNOWN,visa,SUIZ,1
+SUEZ,visa,EL SUEZ,2
+UNKNOWN,visa,BALTIM,1
+UNKNOWN,visa,FAYID,1
+UNKNOWN,visa,DIKIRNIS,1
+UNKNOWN,visa,FAYED,1
+UNKNOWN,visa,EL QALIOBIA,1
+UNKNOWN,visa,DEKERNES,1
+UNKNOWN,visa,NILE CITY,1
+UNKNOWN,visa,KASR EL NILE,1
+UNKNOWN,visa,SHERBIN,1
+UNKNOWN,visa,MINYAT AN NASR,1
+ELISMAILIA,visa,EL ISMAILIA,1
+UNKNOWN,visa,EL ISMILIA,1
+ISMAILIA,visa,ISMAILIA,4
+UNKNOWN,visa,IAMAILIA,1
+ALISMAILIA,visa,AL- ISMAILIA,1
+PORTSAID,visa,PORTSAID,5
+UNKNOWN,visa,JAMASAH,1
+UNKNOWN,visa,DOMIAT,14
+UNKNOWN,visa,FARASKOUR,1
+UNKNOWN,visa,ISMAAILIA,1
+UNKNOWN,visa,ISMAELIA,1
+UNKNOWN,visa,ELMANZALA,1
+UNKNOWN,visa,AL MANZALAH,2
+DAMIETTA,visa,NEW DAMIETTA,1
+NEWDAMIETT,visa,DAMIETT,1
+DAMIETTA,visa,DAMIETTA,5
+UNKNOWN,visa,DOMIATE,5
+UNKNOWN,visa,DOMIAAT,1
+UNKNOWN,visa,DOMYAT,1
+UNKNOWN,visa,DUMYAT,3
+UNKNOWN,visa,DOUMYAT,1
+UNKNOWN,visa,DEMIATTE,1
+UNKNOWN,visa,DAMEITTA,1
+UNKNOWN,visa,DAMITTA,1
+ELASARDIVISION,visa,DAMIETT,1
+UNKNOWN,visa,RAS EL BAR,1
+UNKNOWN,visa,RAAS ELBAAR,1
+UNKNOWN,visa,PORTSAID,1
+UNKNOWN,visa,DAHAB,3
+PORTSAID,visa,PORT SAID,7
+UNKNOWN,visa,PORT-SAID,2
+UNKNOWN,visa,PORT FOUAD,2
+UNKNOWN,visa,EL SHRQIA,1
+UNKNOWN,visa,6 OF OCTOBER,2
+UNKNOWN,visa,NWEEBA,1
+UNKNOWN,visa,TABA,9
+UNKNOWN,visa,AL ARISH,1
+UNKNOWN,visa,AREISH,1
+UNKNOWN,visa,AREESH,1
+UNKNOWN,visa,EL SADAT,1
+GAZASTRIP,visa,RAFAH,1
+MATRUH,western_union,Matruh,1
+SUEZ,western_union,Suez,5
+CAIRO,western_union,Cairo,95
+SHARQIA,western_union,Sharqia,2
+SHARQIA,western_union,10th Of Ramadan,3
+CAIRO,western_union,El Shorouk,1
+CAIRO,western_union,El Rehab,1
+LUXOR,western_union,Luxor,5
+ASWAN,western_union,Aswan,5
+QENA,western_union,Qena,5
+REDSEA,western_union,Safaga,1
+QENA,western_union,Dishna,1
+MINYA,western_union,Minya,7
+REDSEA,western_union,Hurghada,5
+ASYUT,western_union,Abu  Tig,1
+SOHAG,western_union,Abu Tisht,1
+REDSEA,western_union,Red Sea,1
+SOHAG,western_union,Balyana,1
+SOHAG,western_union,Manshah,1
+SOHAG,western_union,Sohag,3
+ASYUT,western_union,Asyut,4
+MATRUH,western_union,Alamein City,2
+ASYUT,western_union,Dairut,1
+DAMIETTA,western_union,Damietta,6
+SOUTHSINAI,western_union,Sharm El Sheikh,6
+ALEXANDRIA,western_union,Alexandria,30
+ALEXANDRIA,western_union,Agamy Bitash,1
+MINYA,western_union,Abu  Qurqas,1
+SOUTHSINAI,western_union,South Sinai,1
+BEHEIRA,western_union,Kafr El Dawwar,1
+GAZA,western_union,Rafah,1
+ALEXANDRIA,western_union,Sidi Beshr,1
+SHARQIA,western_union,Sadat,1
+CAIRO,western_union,Alexandria,1
+KAFRELSHEIKH,western_union,Kafr El Sheikh,4
+GHARBIA,western_union,El Mahalla El Kubra,5
+BEHEIRA,western_union,Wadi El Natroun,1
+SHARQIA,western_union,Disouq,1
+MINYA,western_union,Maghagha,1
+BEHEIRA,western_union,Damanhour,1
+BEHEIRA,western_union,Beheira,1
+MINYA,western_union,Bani Mazar,1
+BEHEIRA,western_union,Rashid,1
+BENISUEF,western_union,Beni Suef,4
+DAKAHLIA,western_union,Mansoura,6
+FAIYUM,western_union,Faiyum,4
+DAKAHLIA,western_union,Belkas,1
+GHARBIA,western_union,Kafr Az Zayat,1
+PORTSAID,western_union,Port Said,5
+GHARBIA,western_union,Tanta,5
+SHARQIA,western_union,Sammanoud,1
+BENISUEF,western_union,Shamlah,1
+DAKAHLIA,western_union,Sherbin,2
+MONUFIA,western_union,Monufia,2
+MONUFIA,western_union,Shibin El Kom,3
+DAKAHLIA,western_union,Dekernis,1
+DAKAHLIA,western_union,Aga,1
+DAKAHLIA,western_union,Dakahlia,1
+FAIYUM,western_union,Sinnuris,1
+GIZA,western_union,Giza,40
+CAIRO,western_union,Shubra,1
+QALYUBIA,western_union,Banha,3
+QALYUBIA,western_union,Qalyubia,4
+GIZA,western_union,Sheikh Zayed,2
+GIZA,western_union,6th October,4
+DAKAHLIA,western_union,Miet Ghamr,1
+GIZA,western_union,Dokki,2
+GIZA,western_union,Hawamdeyya,2
+SHARQIA,western_union,Zagazig,5
+GIZA,western_union,Al Bahr Al Aazam,1
+ALEXANDRIA,western_union,Sidi Gabir,1
+ISMAILIA,western_union,Ismailia,5
+QALYUBIA,western_union,El Obour City,1
+GIZA,western_union,Mohandseen,1
+GIZA,western_union,Al Ahram,2
+CAIRO,western_union,Giza,1
+GIZA,western_union,Haram,1
+CAIRO,western_union,Hadayek Al Kobba,1
+CAIRO,western_union,Maadi,1
+CAIRO,western_union,Nozha,1
+CAIRO,western_union,Nasr City,1
+CAIRO,western_union,Heliopolice,1
+CAIRO,western_union,Helwan,3

@@ -1,0 +1,369 @@
+City,Place Name,Zipcode,Name
+TARBES,audi,BOULEVARD DU PRESIDENT KENNEDY TARBES 65000,unknown,SCALA TARBES
+TOULOUSE (LABEGE ESCALQUENS),audi,575 rue de l'Hers-Zone de la Masquere TOULOUSE (LABEGE ESCALQUENS) 31676,unknown,STERLING AUTOMOBILES SAS
+TOULOUSE,audi,157 Avenue des Etats Unis TOULOUSE 31200,unknown,STERLING AUTOMOBILES
+CONDOM,audi,Route d'Auch CONDOM 32100,unknown,GARAGE ANDREU SAS
+PAMIERS,audi,Allée de la Bouriette Village Automobiles PAMIERS 09102,unknown,SCALA SA
+MONTAUBAN,audi,IMPASSE DE MONACO Z.activité Albasud MONTAUBAN 82000,unknown,AUTOPOLE MAUREL MONTAUBAN
+ST GAUDENS (ESTANCARBON),audi,25 CHEMIN DU VILLAGE ST GAUDENS (ESTANCARBON) 31800,unknown,SCALA SAINT GAUDENS
+AUCH,audi,Z.A.C. de Clarac AUCH 32000,unknown,SCALA AUCH
+CASTRES,audi,95 ROUTE TOULOUSE CASTRES 81100,unknown,AUTOPOLE 81
+ALBI,audi,ROUTE DE CASTRES RANTEIL ALBI 81000,unknown,CENTRE AUTO TARNAIS SA
+RODEZ (ONET LE CHÂTEAU),audi,Rue des Enlumineurs RODEZ (ONET LE CHÂTEAU) 12850,unknown,AUTOMOBILE SERVICE 12
+TOULOUSE,cic,,unknown,CIC
+PORTET SUR GARONNE,cic,,unknown,CIC PORTET SUR GARONNE - CIC CUGNAUX
+BALMA,cic,,unknown,CIC ST ORENS
+CASTANET TOLOSAN,cic,,unknown,CIC TOULOUSE ST MICHEL
+ST ORENS DE GAMEVILLE,cic,,unknown,CIC ST ORENS - CIC BALMA
+FOIX,cic,,unknown,CIC FOIX - CIC LAVELANET
+LAVAUR,cic,,unknown,CIC SAINT SULPICE - LAVAUR
+AUTERIVE,cic,,unknown,CIC
+LAVELANET,cic,,unknown,CIC FOIX
+PAMIERS,cic,,unknown,CIC
+CASTRES,cic,,unknown,CIC
+VILLEFRANCHE DE LAURAGAIS,cic,,unknown,CIC VILLEFR. DE LAURAGAIS - CIC REVEL
+CUGNAUX,cic,,unknown,CIC PORTET SUR GARONNE - CIC CUGNAUX
+REVEL,cic,,unknown,CIC VILLEFR. DE LAURAGAIS - CIC REVEL
+ST SULPICE LA POINTE,cic,,unknown,CIC SAINT SULPICE - LAVAUR - CIC LAVAUR
+ALBI,cic,,unknown,CIC
+VILLEFRANCHE DE ROUERGUE,cic,,unknown,CIC
+GAILLAC,cic,,unknown,CIC
+L UNION,cic,,unknown,CIC
+BLAGNAC,cic,,unknown,CIC BLAGNAC - CIC CORNEBARRIEU
+COLOMIERS,cic,,unknown,CIC COLOMIERS - CIC LEGUEVIN
+LEGUEVIN,cic,,unknown,CIC COLOMIERS
+CORNEBARRIEU,cic,,unknown,CIC BLAGNAC - CIC CORNEBARRIEU
+CAHORS,cic,,unknown,CIC
+L ISLE JOURDAIN,cic,,unknown,CIC
+AUCH,cic,,unknown,CIC
+CAUSSADE,cic,,unknown,CIC
+FRONTON,cic,,unknown,CIC FRONTON - CIC GRENADE SUR GARONNE
+GRENADE,cic,,unknown,CIC FRONTON - CIC GRENADE SUR GARONNE
+MONTAUBAN,cic,,unknown,CIC
+MOISSAC,cic,,unknown,CIC MOISSAC - CIC VALENCE D AGEN
+VALENCE D AGEN,cic,,unknown,CIC MOISSAC
+CAZERES,cic,,unknown,CIC
+AIRE SUR L ADOUR,cic,,unknown,CIC MONT DE MARSAN M.JUIN - CIC AIRE SUR L'ADOUR
+SALIES DU SALAT,cic,,unknown,CIC
+ST GAUDENS,cic,,unknown,CIC
+ST LARY SOULAN,cic,,unknown,CIC LANNEMEZAN
+LOURDES,cic,,unknown,CIC TARBES FOCH -CIC TARBES LA GESPE -CIC LOURDES
+LANNEMEZAN,cic,,unknown,CIC LANNEMEZAN - CIC ST LARY
+TARBES,cic,,unknown,CIC TARBES FOCH -CIC TARBES LA GESPE -CIC LOURDES
+BAGNERES DE BIGORRE,cic,,unknown,CIC
+FIGEAC,cic,,unknown,CIC
+ST AFFRIQUE,cic,,unknown,CIC MILLAU - CIC SAINT AFFRIQUE
+ONET LE CHATEAU,cic,,unknown,CIC
+MILLAU,cic,,unknown,CIC MILLAU - CIC SAINT AFFRIQUE
+MURET,cic,,unknown,CIC MURET - CIC SAINT LYS
+ST LYS,cic,,unknown,CIC MURET - CIC SAINT LYS
+ST GIRONS,cic,,unknown,CIC
+TOURNEFEUILLE,cic,,unknown,CIC
+MUR DE BARREZ,cic,,unknown,CIC AURILLAC LA PONETIE
+ESPALION,cic,,unknown,CIC
+SAINT JEAN DU FALGA,e_leclerc,,unknown,Drive
+SOUILLAC,e_leclerc,,unknown,Drive Souillac
+TARBES,e_leclerc,,unknown,Drive Tarbes Méridien
+ALBI,e_leclerc,,unknown,Relais Albi centre-ville
+MONTAUBAN,e_leclerc,,unknown,Drive Montauban - Aussonne
+MONTAUBAN CEDEX,e_leclerc,,unknown,Drive Montauban - Sapiac
+Montauban,e_leclerc,,unknown,Espace Jardinerie
+FOIX,e_leclerc,,unknown,Drive Foix
+ONET LE CHATEAU,e_leclerc,,unknown,Location
+Rodez,e_leclerc,,unknown,Station Drive E.LECLERC SEBADIS
+RODEZ,e_leclerc,,unknown,DRIVE Rodez Saint-Eloi
+ONET-LE-CHATEAU,e_leclerc,,unknown,Espace Culturel
+Luc - La Primaube,e_leclerc,,unknown,Drive Luc-La Primaube
+Onet-le-Château,e_leclerc,,unknown,DRIVE Onet-le-Château / Comtal
+EAUZE,e_leclerc,,unknown,EAUZE
+PRADINES,e_leclerc,,unknown,Drive Cahors
+CAHORS,e_leclerc,,unknown,Espace Culturel
+LOURDES,e_leclerc,,unknown,Drive Lourdes
+LESCURE D'ALBIGEOIS,e_leclerc,,unknown,Location
+Lescure d'Albigeois,e_leclerc,,unknown,Drive
+CASTELSARRASIN,e_leclerc,,unknown,Drive Castelsarrasin
+Moissac,e_leclerc,,unknown,Drive Moissac
+VILLEFRANCHE DE ROUERGUE,e_leclerc,,unknown,Drive Villefranche-de-Rouergue
+AIRE SUR L'ADOUR CEDEX,e_leclerc,,unknown,Drive
+AIRE SUR L'ADOUR,e_leclerc,,unknown,Brico-Jardi
+FIGEAC,e_leclerc,,unknown,Drive Figeac
+Aubin,e_leclerc,,unknown,Drive Aubin / Decazeville
+GAILLAC,e_leclerc,,unknown,GAILLAC
+BRENS,e_leclerc,,unknown,Auto
+Saint-Sulpice-la-Pointe,e_leclerc,,unknown,Express Saint-Sulpice-La-Pointe
+BRENS - GAILLAC,e_leclerc,,unknown,Drive Gaillac
+Saint-Sulpice-La-Pointe,e_leclerc,,unknown,Drive Saint-Sulpice-La-Pointe
+MONTAUBAN-AUSSONNE,e_leclerc,,unknown,AUSSONNE
+AUCH,e_leclerc,,unknown,Drive Auch
+Biars Sur Cère,e_leclerc,,unknown,Jardi
+BIARS SUR CERE,e_leclerc,,unknown,Drive Biars sur Cere
+GRAULHET,e_leclerc,,unknown,Drive Graulhet
+LAVAUR,e_leclerc,,unknown,Drive Lavaur
+CREISSELS,e_leclerc,,unknown,Drive Millau
+SAINT-LAURENT LES TOURS,e_leclerc,,unknown,Location
+IBOS CEDEX 9,e_leclerc,,unknown,Brico
+IBOS - CEDEX 9,e_leclerc,,unknown,Auto
+Vic-en-Bigorre,e_leclerc,,unknown,EXPRESS VIC EN BIGORRE
+IBOS CEDEX 9 / L'AUTO E.LECLERC,e_leclerc,,unknown,Location
+ORLEIX,e_leclerc,,unknown,ORLEIX
+BOUT DU PONT DE L'ARN,e_leclerc,,unknown,Drive Bout-du-Pont-de-l'Arn / Mazamet
+MAZAMET,e_leclerc,,unknown,E.Leclerc Express Mazamet
+GRAMAT,e_leclerc,,unknown,Location
+VILLEMUR SUR TARN,e_leclerc,,unknown,Drive Villemur-sur-tarn
+Fronton,e_leclerc,,unknown,Drive Fronton
+CASTRES,e_leclerc,,unknown,CASTRES SIALA
+Soustons,e_leclerc,,unknown,DRIVE Soustons
+ROQUES SUR GARONNE,e_leclerc,,unknown,Drive Roques Sur Garonne
+SAINT ORENS DE GAMEVILLE,e_leclerc,,unknown,Location
+SAINT ORENS,e_leclerc,,unknown,Auto
+BALMA,e_leclerc,,unknown,Drive Balma
+Toulouse,e_leclerc,,unknown,DRIVE Montaudran
+SAINT-ORENS,e_leclerc,,unknown,DRIVE Saint Orens
+ESTANCARBON,e_leclerc,,unknown,Drive d'Estancarbon / Saint-Gaudens
+ST GOPÔLE / ESTANCARBON,e_leclerc,,unknown,SAINT GAUDENS
+BLAGNAC CEDEX,e_leclerc,,unknown,Drive Blagnac
+BLAGNAC,e_leclerc,,unknown,Auto
+BLAGNAC ,e_leclerc,,unknown,BLAGNAC
+Bruguières,e_leclerc,,unknown,Drive Bruguières
+ROUFFIAC TOLOSAN,e_leclerc,,unknown,Drive Rouffiac/ Toulouse
+ROUFFIAC-TOLOSAN,e_leclerc,,unknown,ROUFFIAC
+Saint-Lys,e_leclerc,,unknown,SAINT LYS
+Villenouvelle,fedex,,unknown,unknown
+Villeneuve Tolosane,fedex,,unknown,unknown
+Villeneuve Du Pareage,fedex,,unknown,unknown
+Villeneuve D Olmes,fedex,,unknown,unknown
+Villefranche De Rouergue,fedex,,unknown,unknown
+Villefranche De Lauragais,fedex,,unknown,unknown
+Villebrumier,fedex,,unknown,unknown
+Vic Fezensac,fedex,,unknown,unknown
+Vic En Bigorre,fedex,,unknown,unknown
+Vernet,fedex,,unknown,unknown
+Verfeil,fedex,,unknown,unknown
+Verdun Sur Garonne,fedex,,unknown,unknown
+Venerque,fedex,,unknown,unknown
+Varennes,fedex,,unknown,unknown
+Valence D Agen,fedex,,unknown,unknown
+Vacquiers,fedex,,unknown,unknown
+Trie Sur Baise,fedex,,unknown,unknown
+Tournay,fedex,,unknown,unknown
+Toulouse,fedex,,unknown,unknown
+Thil,fedex,,unknown,unknown
+Tarbes,fedex,,unknown,unknown
+St Sulpice,fedex,,unknown,unknown
+St Sulpice Sur Leze,fedex,,unknown,unknown
+St Puy,fedex,,unknown,unknown
+St Porquier,fedex,,unknown,unknown
+St Paul Cap De Joux,fedex,,unknown,unknown
+St Orens De Gameville,fedex,,unknown,unknown
+St Martory,fedex,,unknown,unknown
+St Lys,fedex,,unknown,unknown
+St Lizier,fedex,,unknown,unknown
+St Leon,fedex,,unknown,unknown
+St Juery,fedex,,unknown,unknown
+St Jory,fedex,,unknown,unknown
+St Jean,fedex,,unknown,unknown
+St Girons,fedex,,unknown,unknown
+St Gaudens,fedex,,unknown,unknown
+St Felix Lauragais,fedex,,unknown,unknown
+St Elix Le Chateau,fedex,,unknown,unknown
+St Come D Olt,fedex,,unknown,unknown
+St Clar,fedex,,unknown,unknown
+St Cere,fedex,,unknown,unknown
+St Alban,fedex,,unknown,unknown
+St Affrique,fedex,,unknown,unknown
+Souillac,fedex,,unknown,unknown
+Soual,fedex,,unknown,unknown
+Soreze,fedex,,unknown,unknown
+Seysses,fedex,,unknown,unknown
+Septfonds,fedex,,unknown,unknown
+Semeac,fedex,,unknown,unknown
+Sebazac Concoures,fedex,,unknown,unknown
+Saverdun,fedex,,unknown,unknown
+Rodez,fedex,,unknown,FedEx Express FR
+Riscle,fedex,,unknown,unknown
+Rignac,fedex,,unknown,unknown
+Rieux,fedex,,unknown,unknown
+Rieupeyroux,fedex,,unknown,unknown
+Rieumes,fedex,,unknown,unknown
+Rieucros,fedex,,unknown,unknown
+Revel,fedex,,unknown,unknown
+Requista,fedex,,unknown,unknown
+Realmont,fedex,,unknown,unknown
+Ramonville St Agne,fedex,,unknown,unknown
+Rabastens,fedex,,unknown,unknown
+Rabastens De Bigorre,fedex,,unknown,unknown
+Puylaurens,fedex,,unknown,unknown
+Puygouzon,fedex,,unknown,unknown
+Prayssac,fedex,,unknown,unknown
+Prat Bonrepaux,fedex,,unknown,unknown
+Pradines,fedex,,unknown,unknown
+Portet Sur Garonne,fedex,,unknown,unknown
+Pont De Salars,fedex,,unknown,unknown
+Pont De Larn,fedex,,unknown,unknown
+Pompertuzat,fedex,,unknown,unknown
+Pointis Inard,fedex,,unknown,unknown
+Plaisance,fedex,,unknown,unknown
+Pinsaguel,fedex,,unknown,unknown
+Pins Justaret,fedex,,unknown,unknown
+Pinas,fedex,,unknown,unknown
+Pibrac,fedex,,unknown,unknown
+Pechbonnieu,fedex,,unknown,unknown
+Pamiers,fedex,,unknown,unknown
+Orleix,fedex,,unknown,unknown
+Onet Le Chateau,fedex,,unknown,unknown
+Nohic,fedex,,unknown,unknown
+Nogaro,fedex,,unknown,unknown
+Naucelle,fedex,,unknown,unknown
+Nailloux,fedex,,unknown,unknown
+Muret,fedex,,unknown,unknown
+Montricoux,fedex,,unknown,unknown
+Montrejeau,fedex,,unknown,unknown
+Montreal Du Gers,fedex,,unknown,unknown
+Montjoire,fedex,,unknown,unknown
+Montgiscard,fedex,,unknown,unknown
+Montesquieu Volvestre,fedex,,unknown,unknown
+Montech,fedex,,unknown,unknown
+Montbeton,fedex,,unknown,unknown
+Montberon,fedex,,unknown,unknown
+Montbartier,fedex,,unknown,unknown
+Montauban,fedex,,unknown,unknown
+Montaigut Sur Save,fedex,,unknown,unknown
+Mondonville,fedex,,unknown,unknown
+Moissac,fedex,,unknown,unknown
+Mirepoix,fedex,,unknown,unknown
+Miremont,fedex,,unknown,unknown
+Mirandol Bourgnounac,fedex,,unknown,unknown
+Mirande,fedex,,unknown,unknown
+Millau,fedex,,unknown,unknown
+Mercus Garrabet,fedex,,unknown,unknown
+Mazeres,fedex,,unknown,unknown
+Mazamet,fedex,,unknown,unknown
+Mauzac,fedex,,unknown,unknown
+Mauvezin,fedex,,unknown,unknown
+Maubourguet,fedex,,unknown,unknown
+Masseube,fedex,,unknown,unknown
+Martres Tolosane,fedex,,unknown,unknown
+Marssac Sur Tarn,fedex,,unknown,unknown
+Mane,fedex,,unknown,unknown
+Madiran,fedex,,unknown,unknown
+Lourdes,fedex,,unknown,unknown
+Lisle Sur Tarn,fedex,,unknown,unknown
+Lezat Sur Leze,fedex,,unknown,unknown
+Levignac,fedex,,unknown,unknown
+Lescure D Albigeois,fedex,,unknown,unknown
+Leguevin,fedex,,unknown,unknown
+Le Sequestre,fedex,,unknown,unknown
+Le Fousseret,fedex,,unknown,unknown
+Le Fossat,fedex,,unknown,unknown
+Le Burgaud,fedex,,unknown,unknown
+Lavit,fedex,,unknown,unknown
+Lavelanet,fedex,,unknown,unknown
+Lavaur,fedex,,unknown,unknown
+Lautrec,fedex,,unknown,unknown
+Launaguet,fedex,,unknown,unknown
+Laroque D Olmes,fedex,,unknown,unknown
+Lanta,fedex,,unknown,unknown
+Lannemezan,fedex,,unknown,unknown
+Laissac,fedex,,unknown,unknown
+Lagrave,fedex,,unknown,unknown
+Lagardelle Sur Leze,fedex,,unknown,unknown
+Lafrancaise,fedex,,unknown,unknown
+Lacrouzette,fedex,,unknown,unknown
+Lacaune,fedex,,unknown,unknown
+Lacapelle Marival,fedex,,unknown,unknown
+Labruguiere,fedex,,unknown,unknown
+Labege,fedex,,unknown,unknown
+Labastide St Pierre,fedex,,unknown,unknown
+Labastide Clermont,fedex,,unknown,unknown
+Labastide Beauvoir,fedex,,unknown,unknown
+Labarthe Inard,fedex,,unknown,unknown
+La Ville Dieu Du Temple,fedex,,unknown,unknown
+La Tour Du Crieu,fedex,,unknown,unknown
+La Primaube,fedex,,unknown,unknown
+L Union,fedex,,unknown,unknown
+L Isle Jourdain,fedex,,unknown,unknown
+L Isle En Dodon,fedex,,unknown,unknown
+L Honor De Cos,fedex,,unknown,unknown
+Juillan,fedex,,unknown,unknown
+Ibos,fedex,,unknown,unknown
+Grisolles,fedex,,unknown,unknown
+Grepiac,fedex,,unknown,unknown
+Grenade,fedex,,unknown,unknown
+Graulhet,fedex,,unknown,unknown
+Gratentour,fedex,,unknown,unknown
+Gramat,fedex,,unknown,unknown
+Gourdon,fedex,,unknown,unknown
+Gourdan Polignan,fedex,,unknown,unknown
+Gimont,fedex,,unknown,unknown
+Gaillac,fedex,,unknown,unknown
+Gagnac Sur Cere,fedex,,unknown,unknown
+Frouzins,fedex,,unknown,unknown
+Fronton,fedex,,unknown,unknown
+Fonsorbes,fedex,,unknown,unknown
+Fonbeauzard,fedex,,unknown,unknown
+Foix,fedex,,unknown,unknown
+Fleurance,fedex,,unknown,unknown
+Firmi,fedex,,unknown,unknown
+Figeac,fedex,,unknown,unknown
+Fenouillet,fedex,,unknown,unknown
+Eauze,fedex,,unknown,unknown
+Eaunes,fedex,,unknown,unknown
+Decazeville,fedex,,unknown,unknown
+Daux,fedex,,unknown,unknown
+Cugnaux,fedex,,unknown,unknown
+Cransac,fedex,,unknown,unknown
+Cornebarrieu,fedex,,unknown,unknown
+Condom,fedex,,unknown,unknown
+Colomiers,fedex,,unknown,FedEx Express FR
+Cintegabelle,fedex,,unknown,unknown
+Cazeres,fedex,,unknown,unknown
+Caylus,fedex,,unknown,unknown
+Caussade,fedex,,unknown,unknown
+Caumont,fedex,,unknown,unknown
+Catus,fedex,,unknown,unknown
+Castres,fedex,,unknown,unknown
+Castelsarrasin,fedex,,unknown,unknown
+Castanet Tolosan,fedex,,unknown,unknown
+Carmaux,fedex,,unknown,unknown
+Carbonne,fedex,,unknown,unknown
+Caraman,fedex,,unknown,unknown
+Capdenac Gare,fedex,,unknown,unknown
+Labège,hema,,unknown,HEMA
+Toulouse,hema,,unknown,HEMA
+MILLAU,ikks,,unknown,XandO Women MILLAU
+CASTRES,ikks,,unknown,IKKS Women Castres
+NAILLOUX,ikks,,unknown,IKKS Outlet Nailloux XGSO
+ALBI,ikks,,unknown,IKKS Women ALBI
+RODEZ,ikks,,unknown,IKKS Women Rodez
+LABEGE,ikks,,unknown,IKKS Men LABEGE
+PORTET SUR GARONNE,ikks,,unknown,IKKS Women PORTET SUR GARONNE
+ROQUES SUR GARONNE,ikks,,unknown,IKKS Women Men ROQUES SUR GARONNE
+TOULOUSE,ikks,,unknown,IKKS Junior TOULOUSE
+BLAGNAC,ikks,,unknown,IKKS Junior BLAGNAC
+VILLEFRANCHE DE ROUERGUE,ikks,,unknown,XandO Women VILLEFRANCHE DE ROUERGUE
+L ISLE JOURDAIN,ikks,,unknown,ISLE JOURDAIN MMXJ
+MONTAUBAN,ikks,,unknown,ICODE MONTAUBAN
+FIGEAC,ikks,,unknown,XandO JUNIOR FIGEAC
+LUZ SAINT SAUVEUR,ikks,,unknown,LUZ SAINT SAUVEUR MMXJ
+TARBES,ikks,,unknown,IKKS Women Men TARBES
+Departement de l'Aveyron,ionity,,unknown,Larzac
+Departement de la Haute-Garonne,ionity,,unknown,Garonne
+Departement de l'Ariege,ionity,,unknown,Pamiers
+Departement du Tarn-et-Garonne,ionity,,unknown,Montbartier
+Departement de la Haute-Garonne,pokawa,7 Esplanade Compans - Caffarelli  Toulouse   31000,unknown,Pokawa Toulouse Compans Caffarelli
+81000 ALBI,starbucks_eu,4 PLACE DU VIGAN 81000 ALBI,unknown,Albi Vigan CIC
+Toulouse,starbucks_eu,3 Esplanade Compans Cafarelli 31000 Toulouse,unknown,Compans
+31000 TOULOUSE,starbucks_eu,7 RUE LAFAYETTE 31000 TOULOUSE,unknown,Toulouse Rue Lafayette
+Touluse,starbucks_eu,5 rue des Changes 3100 Touluse,unknown,Esquirol
+Toulouse,starbucks_eu,5 allee du President Roosevelt 31400 Toulouse,unknown,Roosevelt - Toulouse
+Toulouse,starbucks_eu,64 Boulevard Pierre Smard 31500 Toulouse,unknown,Toulouse Gare
+Blagnac,starbucks_eu,Aeroport Toulouse Blagnac Arrivals 31703 Blagnac,unknown,Blagnac- Toulouse Airp Hall C Lands
+Blagnac,starbucks_eu,2 Allee Emile Zola 31700 Blagnac,unknown,CC Blagnac
+Toulouse,starbucks_eu,2 chemin de gabardie 31200 Toulouse,unknown,Auchan Toulouse Gramont
+31062 TOULOUSE,starbucks_eu,ROUTE DE NARBONNE 31062 TOULOUSE,unknown,Toulouse Rangueil Tisseo
+31120 PORTET SUR GARONNE,starbucks_eu,110 BD DE L EUROPE 31120 PORTET SUR GARONNE,unknown,CC Porter sur Garonne
+Gameville,starbucks_eu,5 Allee Champs Pinsons 31650 Saint Orens de Gameville,unknown,CC Saint Orens
+Labege,starbucks_eu,130 rue Galilee 31670 Labege,unknown,Drive Labege
+Toulouse,travelex,Aéroport International de Toulouse Niveau Arrivées Hall C (zone publique) Blagnac 31700,unknown,Aeroport Toulouse Blagnac
+Toulouse,western_union,,unknown,EPICERIE DU MONDE BY ALLOTHADCHA
+Colomiers,western_union,,unknown,HS PHONE

@@ -1,0 +1,562 @@
+City,Place Name,Zipcode,Name
+unknown,accor,Route de Trèves FINDEL LUXEMBOURG L-2632 FINDEL,unknown,ibis Luxembourg Aéroport
+unknown,accor,6 Rue du Fort Niedergruenewald Plateau de Kirchberg 2226 LUXEMBOURG,unknown,Sofitel Luxembourg Europe
+unknown,accor,30 rue Joseph Junck 1839 LUXEMBOURG,unknown,ibis Styles Luxembourg Centre Gare
+unknown,accor,6 rue Fort Niedergrünewald Quartier Européen Nord Plateau de Kirchberg L-2226 LUXEMBOURG,unknown,Novotel Luxembourg Kirchberg
+unknown,accor,100 Scheierhaff 5412 CANACH,unknown,Mercure Luxembourg Kikuoka Golf and Spa
+unknown,accor,Route de Trèves Findel L 2632 LUXEMBOURG,unknown,ibis budget Luxembourg Aéroport
+unknown,accor,GPS 35 rue du Laboratoire L 1911 LUXEMBOURG POSTALE 40 boulevard d Avranches 1160 LUXEMBOURG,unknown,Sofitel Luxembourg Le Grand Ducal
+unknown,accor,35 rue du Laboratoire L-1911 LUXEMBOURG,unknown,Novotel Luxembourg Centre
+unknown,accor,Rue de Turi L 3378 LIVANGE,unknown,ibis Luxembourg Sud
+unknown,accor,Rue de Turi L-3378 LIVANGE,unknown,ibis budget Luxembourg Sud
+unknown,accor,Avenue du Rock n Roll 12 4361 ESCH SUR ALZETTE,unknown,ibis Esch Belval
+unknown,accor,13 Avenue J F Kennedy Quartier Europeen 1855 LUXEMBOURG,unknown,Novotel Suites Luxembourg
+unknown,accor,271 Rue De Neudorf 2221 LUXEMBOURG,unknown,Mercure Luxembourg Off kirchberg
+unknown,accor,2 Rue Du Fort Niedergrunewald L2226 Luxembourg,unknown,Mama Shelter Luxembourg
+Mersch,action,,unknown,Mersch
+Esch sur Alzette,action,,unknown,Esch sur Alzette
+Marnach,action,,unknown,Marnach
+Beggen,action,,unknown,Beggen
+Strassen,action,,unknown,Strassen
+Schengen,action,,unknown,Schengen
+Sandweiler,action,,unknown,Sandweiler
+Bettembourg,action,,unknown,Bettembourg
+Wemperhardt,action,,unknown,Wemperhardt
+Diekirch,action,,unknown,Diekirch
+Luxembourg,alamo,,unknown,Luxembourg Airport
+Luxembourg,america_today,,unknown,Luxembourg (AT & AT Junior)
+Bertange,america_today,,unknown,Luxembourg
+unknown,auchan_lu,,unknown,Auchan Shop
+Hosingen,bmw_group,,unknown,Schweig
+Mersch,bmw_group,,unknown,Schmitz
+Luxemburg,bmw_group,,unknown,Bilia Luxembourg
+Moutfort,bmw_group,,unknown,Delbecq Motos Luxembourg
+Esch-Sur-Alzette,bmw_group,,unknown,Muzzolini
+Echternach,bp,,unknown,Aral Luxembourg SA - Echternach
+Bertrange,bp,,unknown,R. Goedert S.A. - Bertrange / Belle Etoile
+Luxembourg-Merl,bp,,unknown,F&L Fuel Sàrl - MERL 1
+Luxembourg-Merl 2,bp,,unknown,F&L Fuel Sàrl - Merl 2
+Rollingergrund,bp,,unknown,Ener gine Sàrl - Rollingergrund
+Luxembourg,bp,,unknown,R. Goedert S.A. Hollerich
+Capellen - PKW,bp,,unknown,BP CAPELLEN - PKW
+Capellen - Shop,bp,,unknown,BP CAPELLEN - SHOP
+Capellen - LKW 2,bp,,unknown,BP CAPELLEN - LKW
+Capellen - LKW 1,bp,,unknown,BP CAPELLEN - LKW
+Capellen - PKW MP2,bp,,unknown,BP CAPELLEN - PKW MP2
+Capellen - LKW MP1,bp,,unknown,BP CAPELLEN - LKW MP1
+Bereldange,bp,,unknown,R. Goedert S.A. - Bereldange
+Howald,bp,,unknown,Petronelli Antonio
+Bour,bp,,unknown,Bour Shopping S.à r.l.
+Berchem Ouest - LKW1,bp,,unknown,BERCHEM - Aral Luxembourg SA
+Berchem Ouest - PKW1,bp,,unknown,BERCHEM - Aral Luxembourg SA
+Berchem Ouest - Shop,bp,,unknown,Aral Berchem
+Berchem Ouest - PKW2,bp,,unknown,BERCHEM . Aral Luxembourg SA
+Berchem Ouest - LKW2,bp,,unknown,BERCHEM - Aral Luxembourg SA
+Steinfort,bp,,unknown,F&L Fuel S.à r.l.
+Luxembourg-Findel,bp,,unknown,Aral Tankstellen Services S.à r.l. - Findel
+Foetz,bp,,unknown,GOEDERT FOETZ
+Bettembourg,bp,,unknown,ener gine S.à r.l.
+Lintgen,bp,,unknown,Dias&Mueller S.A. - LINTGEN
+Bascharage,bp,,unknown,Aral Cifarelli Concept S.à r.l. - Bascharage
+Schifflange,bp,,unknown,Aral Luxembourg SA - Schifflange
+Esch-Lallange,bp,,unknown,Aral Luxembourg SA - Esch
+Niederkorn,bp,,unknown,Ener gine Sàrl - NIEDERKORN 2
+Pétange,bp,,unknown,A. Cifarellli Concept S.à r.l. - Pétange
+Dudelange,bp,,unknown,Aral Luxembourg SA - Dudelange
+Differdange/Obercorn,bp,,unknown,OBERCORN - LOUMAX NRJ S.à.r.l
+Gonderange,bp,,unknown,SIGMA Sàrl - GONDERANGE
+Frisange,bp,,unknown,GOEDERT FRISANGE
+Rodange II,bp,,unknown,Kurek Illya
+Junglinster,bp,,unknown,Aral Garage de l'Est
+Rodange I,bp,,unknown,Aral Luxembourg SA. - Rodange
+Rodange III,bp,,unknown,Aral Luxembourg SA - Rodange 3
+Redange-Attert,bp,,unknown,Garage J. Leyder S.à r.l. - REDANGE
+Mondorf-les-Bains,bp,,unknown,B&B Store Sàrl - Mondorf
+Remich,bp,,unknown,GOEDERT REMICH3
+Niederfeulen,bp,,unknown,BS Services S.à r.l. - Niederfeulen
+Ettelbruck,bp,,unknown,Bonn Fuel Sàrl
+Ingeldorf,bp,,unknown,SIMON S PLAZA INGELDORF
+Diekirch,bp,,unknown,Friedhaff S.A.
+Koetschette,bp,,unknown,Simon Thierry BP S.à r.l.
+Hierheck,bp,,unknown,Hierheck Shopping S.à r.l.
+Schengen,bp,,unknown,Aral Luxembourg SA - Schengen
+Remerschen,bp,,unknown,Jos Petry S.à r.l.
+Remich II,bp,,unknown,Aral Luxembourg SA- Remich II
+Remich I,bp,,unknown,Aral Luxembourg SA - Remich I
+Grevenmacher KU,bp,,unknown,SIMON S PLAZA KUMMERT
+Grevenmacher  RP,bp,,unknown,SIMON S PLAZA  ROND-POINT
+Grevenmacher PB2,bp,,unknown,SIMON'S PLAZA POTASCHBIERG 2
+Grevenmacher PB1,bp,,unknown,SIMON S PLAZA POTASCHBERG 1
+Wasserbillig I,bp,,unknown,SIGMA Sàrl - WASSERBILLIG
+Wasserbillig II,bp,,unknown,Zika-Tank S.à r.l.
+Martelange,bp,,unknown,TRUCK STOP MARTELANGE
+Rombach-Martelange,bp,,unknown,PetroVan S.A.
+Pommerloch,bp,,unknown,BS Services S.à r.l. - Pommerloch
+Wiltz,bp,,unknown,STOP&SHOP - Wiltz
+Hoscheid-Dickt,bp,,unknown,Roadstore Sàrl - HOSCHEID DICKT
+Wemperhardt,bp,,unknown,MASSEN SA
+Vianden,bp,,unknown,ROADSTORE S.à r.l. - Vianden
+Käerjeng,burger_king_be_lu,,unknown,Burger King Bascharage
+Bertrange,burger_king_be_lu,,unknown,Burger King Bertrange
+Mondercange,burger_king_be_lu,,unknown,Burger King Foetz
+Hesperange,burger_king_be_lu,,unknown,Burger King Howald
+Mersch,burger_king_be_lu,,unknown,Burger King Mersch
+Luxembourg,burger_king_be_lu,,unknown,BurgerKing Place d'Armes
+Luxembourg- Kirchberg,carrefour_be,,unknown,Carrefour express Luxembourg- Kirchberg
+Niederkorn,carrefour_be,,unknown,Carrefour express Niederkorn
+Esch-sur-Alzette,carrefour_be,,unknown,Carrefour express Esch-sur-Alzette
+unknown,church_of_england_gb,Konvikt Chapel 5 Avenue Marie-Therese L-2132 Luxembourg,unknown,"All Saints Anglican Church, Luxembourg"
+Esch-sur-Alzette,claires,,unknown,Shop Ear Piercings & Jewellery at Esch Sur Alzette Rue D'Alzette
+Luxembourg City,claires,,unknown,Shop Ear Piercings & Jewellery at Luxemburg City - Avenue De La Gare
+LUXEMBOURG,colruyt,,unknown,Colruyt
+MERSCH,colruyt,,unknown,Colruyt
+POMMERLOCH,colruyt,,unknown,Colruyt
+SOLEUVRE,colruyt,,unknown,Colruyt
+STRASSEN,colruyt,,unknown,Colruyt
+WEMPERHARDT,colruyt,,unknown,Colruyt
+Foetz,cora,,unknown,Cora Foetz
+Bertrange,cora,,unknown,Cora Bertrange
+Schmiede/ Huldange,c_and_a,Op d' Schmett 3 9964 Schmiede/ Huldange,unknown,Schmiede
+Sandweiler,c_and_a,Rue de Luxembourg 1 5230 Sandweiler,unknown,Sandweiler
+Mersch,c_and_a,Route du Colmarberg 1 7525 Mersch,unknown,Mersch
+L-Pommerloch,c_and_a,Route de Bastogne 19 9638 L-Pommerloch,unknown,Pommerloch
+Foetz,c_and_a,Rue du Brill 1 3898 Foetz,unknown,Foetz
+Esch-sur-Alzette,c_and_a,Rue de l' Alzette 23-25 4011 Esch-sur-Alzette,unknown,Esch
+Bertrange,c_and_a,Route d' Arlon 36 8050 Bertrange,unknown,Belle Etoile
+SCHMIEDE,di,3 Op d'Schmett SCHMIEDE 9964,unknown,Di Schmiede
+POMMERLOCH,di,19 Route de Bastogne POMMERLOCH 9638,unknown,Di Pommerloch
+Luxembourg,enterprise,,unknown,Luxembourg City
+Diekirch,enterprise,,unknown,Diekirch
+Luxembourg,ernst_young,35E avenue John F. Kennedy,unknown,EY
+Luxembourg,esprit,,unknown,Esprit Store Luxembourg
+Esch-sur-Alzette,esprit,,unknown,Esprit Franchise Store Esch-sur-Alzette
+Mersch,esprit,,unknown,Esprit Franchise Store Mersch
+Bertrange,esprit,,unknown,Esprit Store Bertrange
+Pommerloch,esprit,,unknown,Esprit Franchise Store Pommerloch
+Wemperhardt,esprit,,unknown,Esprit Franchise Store Wemperhardt
+WORMELDANGE,exxonmobil,,unknown,Esso Wormeldange
+ROSPORT,exxonmobil,,unknown,Esso Rosport
+ESCH-SUR-ALZETTE,exxonmobil,,unknown,ESSO TERRE ROUGE
+RODANGE,exxonmobil,,unknown,ESSO RODANGE NORD
+GREVENMACHER,exxonmobil,,unknown,ESSO GREVENMACHER
+FRISANGE,exxonmobil,,unknown,ESSO FRISANGE
+DUDELANGE,exxonmobil,,unknown,ESSO DUDELANGE
+PETANGE,exxonmobil,,unknown,Esso Petange
+ROLLINGEN,exxonmobil,,unknown,ESSO MERSCH
+ROMBACH-MARTELANGE,exxonmobil,,unknown,PC-TANK SARL ROMBACH-MARTELANGE
+LUXEMBOURG-HOLLERICH,exxonmobil,,unknown,Esso Hollerich
+HEIDERSCHEID,exxonmobil,,unknown,PC-TANK SARL ESSO FUUSSEKAUL
+LEUDELANGE,exxonmobil,,unknown,PC-TANK SARL LEUDELANGE
+LAROCHETTE,exxonmobil,,unknown,ESSO LAROCHETTE
+REMERSCHEN,exxonmobil,,unknown,ESSO REMERSCHEN
+BASCHARAGE,exxonmobil,,unknown,PC-TANK SARL BASCHARAGE
+MERTERT,exxonmobil,,unknown,PC-TANK SARL MERTERT
+HULDANGE,exxonmobil,,unknown,T.C. BREVER SARL
+HELLANGE,exxonmobil,,unknown,BW SOMOLI SARL
+GAICHEL,exxonmobil,,unknown,PC-TANK SARL GAICHEL
+ALLERBORN,exxonmobil,,unknown,BW Esso Allerborn PC-tank
+STEINFORT,exxonmobil,,unknown,ESSO STEINFORT
+SENNINGERBERG,exxonmobil,,unknown,ESSO SENNINGERBERG
+SANDWEILER,exxonmobil,,unknown,ESSO SANDWEILER
+REMICH,exxonmobil,,unknown,ESSO REMICH
+ECHTERNACH,exxonmobil,,unknown,PC-TANK SARL ECHTERNACH
+DIFFERDANGE,exxonmobil,,unknown,SNACK & SHOP CARLO BERNARD SARL
+Luxembourg,five_guys_lu,,unknown,Five Guys Luxembourg
+ETTELBRÜCK,ford,,unknown,GRAND GARAGE P.WENGLER SARL
+GREVENMACHER,ford,,unknown,GARAGE SCHMIT & FILS S.A.R.L.
+WILTZ,ford,,unknown,GARAGE SCHILTZ FRERES SA
+Dondelange,ford,,unknown,Performance Cars
+MUNSBACH,ford,,unknown,LUXMOTOR SARL
+FOETZ,ford,,unknown,LUXMOTOR SARL
+NIEDERKORN,ford,,unknown,Autopolis Niederkorn
+Bertrange,ford,,unknown,Autopolis Bertrange
+ESCH-SUR-ALZETTE,geox,,unknown,Geox ESCH-SUR-ALZETTE
+LUXEMBOURG,geox,,unknown,Geox LUXEMBOURG
+Huldange,leonidas,,unknown,Leonidas Knauf Huldange
+Marnach,leonidas,,unknown,Cactus Marnach
+Luxembourg City,lhw,12 Boulevard Royal<br>L-2449 Luxembourg,unknown,Le Royal Hotels & Resorts - Luxembourg
+Mondercange,lidl_be,,unknown,unknown
+Differdange,lidl_be,,unknown,unknown
+Troisvierges,lidl_be,,unknown,unknown
+Koerich,lidl_be,,unknown,unknown
+Erpeldange,lidl_be,,unknown,unknown
+Pétange,lidl_be,,unknown,unknown
+Bertrange,lidl_be,,unknown,unknown
+Mersch,lidl_be,,unknown,unknown
+Mertert,lidl_be,,unknown,unknown
+Dudelange,lidl_be,,unknown,unknown
+Winseler,lidl_be,,unknown,unknown
+Strassen,lidl_be,,unknown,unknown
+Luxembourg,lidl_be,,unknown,unknown
+LUXEMBOURG,longchamp,,unknown,Lagardere Travel Retail Luxembourg
+ETTELBRUCK,longchamp,,unknown,Maroquinerie Du Passage
+BERTRANGE,longchamp,,unknown,Bram
+ESCH-SUR-ALZETTE,longchamp,,unknown,Escapade
+Niederanven,man_truck_and_bus,,unknown,Garage Losch Truck Van & Bus S.à r.l.
+BERTRANGE,maserati,,unknown,INTINI
+Roeser,match_lu,,unknown,Livange - Match
+Grevenmacher,match_lu,,unknown,Grevenmacher - Match Copal
+Ettelbruck,match_lu,,unknown,Ettelbruck - Match
+Esch-sur-Alzette,match_lu,,unknown,Esch Sur Alzette - Match
+Dudelange,match_lu,,unknown,Dudelange - Match
+Diekirch,match_lu,,unknown,Diekirch - Match
+Capellen,match_lu,,unknown,Capellen - Match
+Wiltz,match_lu,,unknown,Wiltz - Match
+Niederanven,match_lu,,unknown,Niederanven - Match
+Mondorf-les-Bains,match_lu,,unknown,Mondorf Les Bains - Match
+Mertert,match_lu,,unknown,Mertert - Match Copal
+Mersch,match_lu,,unknown,Mersch - Match
+unknown,mcdonalds_lu,30 route de Bastogne L-9638 POMMERLOCH,unknown,McDonald’s « Pommerloch »
+unknown,mcdonalds_lu,2A Avenue de Luxembourg (sur le parking de Cactus) L-4950 Bascharage,unknown,McDonald’s « Bascharage »
+unknown,mcdonalds_lu,Aire de Berchem Autoroute E 25 Berchem Luxembourg (3325),unknown,McDonald’s « Aire de Berchem »
+unknown,mcdonalds_lu,Shopping Center « La Belle Etoile » route d’Arlon Bertrange (8050),unknown,McDonald’s « Belle Etoile »
+unknown,mcdonalds_lu,45 Avenue J.F. Kennedy Luxembourg (1855),unknown,McDonald’s Kinepolis
+unknown,mcdonalds_lu,1A rue du Pont Bereldange (7245),unknown,McDonald’s Bereldange
+unknown,mcdonalds_lu,5 route de l’Europe Remich (5531),unknown,McDonald’s Remich
+unknown,mcdonalds_lu,1A bis route d’Ettelbrück Ingeldorf (9160),unknown,McDonald’s Ingeldorf
+unknown,mcdonalds_lu,3 rue du Brill Foetz (3898),unknown,McDonald’s Foetz
+unknown,mcdonalds_lu,168 route d'Arlon Strassen (8010),unknown,McDonald’s Strassen
+unknown,mcdonalds_lu,2 rue de la Poste Luxembourg (2346),unknown,McDonald’s Place d'Armes
+unknown,mcdonalds_lu,33 avenue de la Gare Luxembourg (1611),unknown,McDonald’s Gare
+Luxembourg,michaelkors,,unknown,Michael Kors Luxembourg
+LUXEMBOURG,moneygram,,unknown,AGENCE MONEYGROW METROPLUS S.A.R.L - #1
+LONDON,moneygram,,unknown,WORLDPAY - LUXEMBOURG
+Luxembourg,national,,unknown,Luxembourg Airport
+Luxembourg,neuhaus,,unknown,Neuhaus Luxembourg Auchan
+Esch sur Alzette,newyorker,Avenue du Rock'n'Roll 7 4361 Esch sur Alzette,unknown,NEW YORKER | Belval Plaza I
+Pommerloch,newyorker,Bastnicherstrooss 19 9638 Pommerloch,unknown,NEW YORKER | SC Knauf Pommerloch
+Luxemburg,newyorker,Avenue de la Gare 8-10 1611 Luxemburg,unknown,NEW YORKER
+Mersch,newyorker,Rue de Colmar-Berg 7525 Mersch,unknown,NEW YORKER | Centre commercial Topaze
+Schmiede,newyorker,3 Op d'Schmett 9964 Schmiede Huldange Ulflingen,unknown,NEW YORKER | Knauf Shopping
+LUXEMBOURG,optical_center,,unknown,Optical Center LUXEMBOURG - GASPERICH
+DUDELANGE,optical_center,,unknown,Opticien DUDELANGE Optical Center
+STRASSEN,optical_center,,unknown,Optical Center - STRASSEN
+BERELDANGE,optical_center,,unknown,Opticien BERELDANGE - Optical Center
+ESCH-SUR-ALZETTE,optical_center,,unknown,Optical Center - ESCH-SUR-ALZETTE - LALLANGE
+Lussemburgo,ovs,,unknown,OVS Luxembourg Cloche D'or Kids
+Differdange,ovs,,unknown,OVS Differdange Opkorn
+Luxembourg,petit_bateau,,unknown,Petit Bateau Luxembourg
+unknown,q8,"2 Rue D""eich 1460 Eich",unknown,Q8 Eich
+unknown,q8,55 Route De Wasserbillig 6686 Mertert-Wasserbillig,unknown,Q8 Mertert
+unknown,q8,2 Val De Hamm 1714 Pulvermuehl,unknown,Q8 Pulvermuehl
+unknown,q8,"46 Route D""arlon 8410 Steinfort",unknown,Q8 Steinfort
+unknown,q8,211 Route De Luxembourg 3515 Dudelange,unknown,Q8 Dudelange
+unknown,q8,"6 Route D""arlon 8832 Rombach-Martelange",unknown,Q8 Martelange II
+unknown,q8,432 Route De Longwy 4832 Rodange,unknown,Q8 Rodange II
+unknown,q8,80 Route De Longwy 8060 Bertrange,unknown,Q8 Bertrange
+unknown,q8,"13 Route De L""europe 5531 Remich",unknown,Q8 Remich
+unknown,q8,11 Rue De La Frontiere 9412 Vianden,unknown,Q8 Vianden
+unknown,q8,468 Route De Thionville 5886 Hesperange,unknown,Q8 Hesperange
+unknown,q8,"65 Route D""esch 4450 Belvaux",unknown,Q8 Belvaux
+unknown,q8,91 Route De  Luxembourg 7240 Bereldange,unknown,Q8 Bereldange
+unknown,q8,130 Route De Luxembourg 3254 Bettembourg,unknown,Q8 Bettembourg
+unknown,q8,19 Route De Diekirch 6555 Bollendorf-Pont,unknown,Q8 Bollendorf-Pont
+unknown,q8,59 Route De Luxembourg 8140 Bridel,unknown,Q8 Bridel
+unknown,q8,"19 Rue De L""usine 3754 Rumelange",unknown,Q8 Rumelange
+unknown,q8,1 Dosberbreck 9839 Dasbourg-Pont,unknown,Q8 Dasbourg-Pont
+unknown,q8,96 Route De Luxembourg 6450 Echternach,unknown,Q8 Echternach
+unknown,q8,"3 Op D""schmett 9964 Huldange",unknown,Q8 Huldange I
+unknown,q8,"36 Route D""ettelbrueck 9160 Ingeldorf",unknown,Q8 Ingeldorf
+unknown,q8,258 Route De Longwy 1940 Merl,unknown,Q8 Merl
+unknown,q8,"260 Route D""esch 1471 Gasperich",unknown,Q8 Gasperich
+unknown,q8,12 Route De Thionville 2610 Luxembourg-Bonnevoie,unknown,Q8 Bonnevoie
+unknown,q8,"44-46 Route D""arlon 8008 Strassen",unknown,Q8 Strassen
+unknown,q8,"13 Route D""arlon 8832 Rombach-Martelange",unknown,Q8 Martelange I
+unknown,q8,2 Rue Romain Fandel 4149 Esch-sur-Alzette,unknown,Q8 Esch-sur-Alzette
+unknown,q8,Aire De Capellen - E25 Lux-be 8309 Capellen,unknown,Q8 Capellen Cars II
+unknown,q8,31B Rue De Wilwerdange 9911 Troisvierges,unknown,Q8 Troisvierges
+unknown,q8,1 Rue Leon Laval 3372 Leudelange,unknown,Q8 Leudelange
+unknown,q8,"18 Op D""schmett 9964 Huldange",unknown,Q8 Huldange II
+unknown,q8,8 Route De Luxembourg 5634 Mondorf-Les-Bains,unknown,Q8 Mondorf-Les-Bains
+unknown,q8,26 Route De Bastogne 9638 Pommerloch,unknown,Q8 Pommerloch I
+unknown,q8,428 Route De Longwy 4832 Rodange,unknown,Q8 Rodange I
+unknown,q8,2A Route De Mersch 7470 Saeul,unknown,Q8 Saeul
+unknown,q8,115 Route De Longwy 4994 Schouweiler,unknown,Q8 Schouweiler
+unknown,q8,96 Haaptstrooss 9780 Wincrange,unknown,Q8 Wincrange
+unknown,q8,17 Route De Bastogne 9638 Pommerloch,unknown,Q8 Pommerloch II
+Luxembourg,quick_be_lu,,unknown,Kirchberg
+Esch,quick_be_lu,,unknown,Lallange
+Bereldange,quick_be_lu,,unknown,Walferdange
+WEICHERDANGE,renault,,unknown,GARAGE FELTEN FRERES sarl
+PETANGE,renault,,unknown,GARAGE REINERT SARL
+LUXEMBOURG,renault,,unknown,RENAULT LUXEMBOURG - GASPERICH
+JUNGLINSTER,renault,,unknown,GARAGE DE L'EST sa
+ESCH-SUR-ALZETTE,renault,,unknown,RENAULT LUXEMBOURG-ESCH
+MERSCH,renault,,unknown,GARAGE THOMMES MERSCH
+CAPELLEN (LUX.),renault,,unknown,GARAGE SERVICE AUTOMOBILE sa
+HEFFINGEN,renault,,unknown,GARAGE THOMMES SARL
+DIEKIRCH,renault,,unknown,RENAULT LUXEMBOURG - DIEKIRCH
+GREVENMACHER,renault,,unknown,GARAGE BRAUN SARL
+DUDELANGE,renault,,unknown,RENAULT LUXEMBOURG - DUDELANGE
+BUDERSCHEID,renault,,unknown,GARAGE SCHILTZ-BUEDERSCHEID sa
+Luxembourg,renault,,unknown,TECH Dealer LU
+BERTRANGE,renault,,unknown,RENAULT LUXEMBOURG - BERTRANGE
+ECHTERNACH,renault,,unknown,GARAGE SCHNEIDERS sarl
+Breda,scania,,unknown,Scania Luxembourg (Engine sales)
+Munsbach,scania,,unknown,Scania Luxembourg S.A. (Rental)
+Münsbach,scania,,unknown,Scania Luxembourg sa/Atelier Münsbach
+Schifflange (Esch-sur-Alzette),scania,,unknown,Scania Luxembourg sa/Atelier Schifflange
+ROMBACH-MARTELANGE,shell,,unknown,ROMBACH-MARTELANGE L07632
+POMMERLOCH,shell,,unknown,POMMERLOCH L07582
+OBERPALLEN,shell,,unknown,OBERPALLEN L07551
+HACHIVILLE,shell,,unknown,HACHIVILLE L93224
+STEINFORT FRONTIERE,shell,,unknown,STEINFORT FRONTIERE L07168
+RODANGE,shell,,unknown,RODANGE L07587
+PETANGE,shell,,unknown,PETANGE L07235
+KEHLEN,shell,,unknown,KEHLEN L0927
+BRIDEL,shell,,unknown,BRIDEL L07223
+STRASSEN,shell,,unknown,STRASSEN
+HELFENT-BERTRANGE,shell,,unknown,HELFENT-BERTRANGE L07142
+LUX/BEGGEN,shell,,unknown,LUX/BEGGEN L07398
+LUX/MERL,shell,,unknown,LUX/MERL L07341
+LUX/DOMMELDANGE,shell,,unknown,LUX/DOMMELDANGE L07009
+LUXEMBOURG-HOLLERICH,shell,,unknown,LUXEMBOURG-HOLLERICH L07294
+LUXEMBOURG-GASPERICH,shell,,unknown,LUXEMBOURG-GASPERICH L07182
+LUXEMBOURG-NEUDORF,shell,,unknown,LUXEMBOURG-NEUDORF L07133
+ROOST,shell,,unknown,ROOST SHELL STATION
+BERCHEM,shell,,unknown,BERCHEM E25 L07569
+DIFFERDANGE,shell,,unknown,07268 - DIFFERDANGE L07268
+ESCH-ALZETTE,shell,,unknown,ESCH-ALZETTE L07286
+NIEDERANVEN,shell,,unknown,NIEDERANVEN L99519
+COLMAR,shell,,unknown,COLMAR L07028
+FRISANGE,shell,,unknown,FRISANGE L07619
+RUMELANGE,shell,,unknown,RUMELANGE L07618
+REMICH,shell,,unknown,REMICH L07834
+ECHTERNACH,shell,,unknown,ECHTERNACH L07687
+REMERSCHEN,shell,,unknown,REMERSCHEN L07849
+MERTERT,shell,,unknown,MERTERT L07083
+WEISWAMPACH,shell,,unknown,WEISWAMPACH. L99018
+WEMPERHARDT,shell,,unknown,WEMPERHARDT DER L07685
+Esch-sur-Alzette,sixt,,unknown,Car Hire Luxembourg Esch | SIXT rent a car
+Findel,sixt,,unknown,Car Hire Findel | SIXT rent a car
+Luxemburg-Findel,sixt,,unknown,Car Hire Luxembourg Airport | SIXT rent a car
+unknown,skoda,,unknown,Garage Tewes Serge
+Wiltz,smatch_lu,,unknown,Wiltz - Smatch
+Troisvierges,smatch_lu,,unknown,Troisvierges - Smatch
+Sanem,smatch_lu,,unknown,Soleuvre - Smatch
+Sandweiler,smatch_lu,,unknown,Sandweiler - Smatch
+Rëmeleng,smatch_lu,,unknown,Rumelange - Smatch
+Schuttrange,smatch_lu,,unknown,Munsbach - Smatch
+Leudelange,smatch_lu,,unknown,Leudelange - Smatch
+Luxembourg,smatch_lu,,unknown,Gasperich - Smatch
+Fentange,smatch_lu,,unknown,Fentange - Smatch
+Esch-sur-Alzette,smatch_lu,,unknown,Esch Sur Alzette - Smatch
+Ellange,smatch_lu,,unknown,Ellange - Smatch
+Echternach,smatch_lu,,unknown,Echternach - Smatch
+Käerjeng,smatch_lu,,unknown,Bascharage - Smatch
+Foetz,subway,,unknown,Subway
+Luxembourg,subway,,unknown,Subway 1 Rue Beck
+Esch-Belval,subway,,unknown,Subway
+Bereldange,subway,,unknown,Subway 11 Avenue de La Gare
+Luxembourg,the_north_face_eu,,unknown,The North Face Store Luxembourg
+LUXEMBOURG,timberland,,unknown,Timberland - Timberland LUXEMBOURG
+Luxembourg,tommy_hilfiger,,unknown,Tommy Hilfiger
+Grevenmacher  RP,totalenergies,,unknown,SIMON S PLAZA  ROND-POINT
+Ingeldorf,totalenergies,,unknown,SIMON S PLAZA INGELDORF
+Grevenmacher KU,totalenergies,,unknown,SIMON S PLAZA KUMMERT
+Grevenmacher PB1,totalenergies,,unknown,SIMON S PLAZA POTASCHBERG 1
+Wasserbillig II,totalenergies,,unknown,Zika-Tank S.à r.l.
+Wasserbillig I,totalenergies,,unknown,SIGMA Sàrl - WASSERBILLIG
+Gonderange,totalenergies,,unknown,SIGMA Sàrl - GONDERANGE
+Hoscheid-Dickt,totalenergies,,unknown,Roadstore Sàrl - HOSCHEID DICK
+Foetz,totalenergies,,unknown,R. Goedert S.A. - Foetz
+Koetschette,totalenergies,,unknown,Simon Thierry BP S. à r.l.
+Grevenmacher PB2,totalenergies,,unknown,SIMON'S PLAZA POTASCHBIERG 2
+Ettelbruck,totalenergies,,unknown,Taga S.A.
+Martelange,totalenergies,,unknown,TRUCK STOP MARTELANGE Sàrl
+Pétange,totalenergies,,unknown,A. Cifarellli Concept S. à r.l
+Rodange I,totalenergies,,unknown,Aral Tankstellen Services S. à
+Esch-Lallange,totalenergies,,unknown,Aral Tankstellen Services S. à
+Diekirch,totalenergies,,unknown,Roadstore Sàrl - DIEKIRCH
+Capellen - LKW 1,totalenergies,,unknown,BP CAPELLEN - LKW
+Steinfort,totalenergies,,unknown,A.C. Store S.à r.l. -STEINFORT
+Redange-Attert,totalenergies,,unknown,Garage J. Leyder S. à r.l. - R
+Capellen - LKW 2,totalenergies,,unknown,BP CAPELLEN - LKW
+Hierheck,totalenergies,,unknown,Hierheck Shopping S. à r.l.
+Luxembourg,totalenergies,,unknown,R. Goedert S.A. Hollerich
+Remerschen,totalenergies,,unknown,Jos Petry S. à r.l.
+Capellen - Shop,totalenergies,,unknown,BP Capellen S. à r.l.
+Capellen - LKW MP1,totalenergies,,unknown,BP CAPELLEN - LKW MP1
+Rodange II,totalenergies,,unknown,Kurek Illya
+Bascharage,totalenergies,,unknown,Aral Cifarelli Concept S. à r.
+Luxembourg-Findel,totalenergies,,unknown,Aral Tankstellen Services S. à
+Capellen - PKW,totalenergies,,unknown,BP CAPELLEN - PKW
+Capellen - PKW MP2,totalenergies,,unknown,BP CAPELLEN - PKW MP2
+Wemperhardt,totalenergies,,unknown,BP MASSEN SA
+Bereldange,totalenergies,,unknown,R. Goedert S.A. - Bereldange
+Differdange/Obercorn,totalenergies,,unknown,OBERCORN - LOUMAX NRJ S.à.r.l
+Frisange,totalenergies,,unknown,Pela S à r.l.
+Junglinster,totalenergies,,unknown,Aral Garage de l'Est
+Echternach,totalenergies,,unknown,Aral Tankstellen Services S. à
+Niederfeulen,totalenergies,,unknown,BS Services S.à r.l. - Niederf
+Remich I,totalenergies,,unknown,Aral Tankstellen Services S. à
+Pommerloch,totalenergies,,unknown,BS Services S.à r.l. - Pommerl
+Dudelange,totalenergies,,unknown,Aral Tankstellen Services S. à
+Lintgen,totalenergies,,unknown,Dias & Mueller S.A. - LINTGEN
+Remich II,totalenergies,,unknown,Aral Tankstellen Services S. à
+Berchem Ouest - Shop,totalenergies,,unknown,Aral Services Luxembourg S. à
+Berchem Ouest - PKW1,totalenergies,,unknown,ARAL SERVICES LUXEMBOURG S.A R
+Schengen,totalenergies,,unknown,Aral Tankstellen Services S. à
+Berchem Ouest - LKW1,totalenergies,,unknown,ARAL SERVICES LUXEMBOURG S.A R
+Berchem Ouest - PKW2,totalenergies,,unknown,ARAL SERVICES LUXEMBOURG S.A R
+Berchem Ouest - LKW2,totalenergies,,unknown,ARAL SERVICES LUXEMBOURG S.A R
+Niederkorn,totalenergies,,unknown,Ener gine Sàrl - NIEDERKORN 2
+Rollingergrund,totalenergies,,unknown,Ener gine Sàrl - Rollingergrun
+Schifflange,totalenergies,,unknown,Aral Tankstellen Services S. à
+Bertrange,totalenergies,,unknown,R. Goedert S.A. - Bertrange /
+Rodange III,totalenergies,,unknown,Aral Tankstellen Services S. à
+Wiltz,totalenergies,,unknown,Exess SA
+Luxembourg-Merl,totalenergies,,unknown,F&L Fuel Sàrl - MERL 1
+Mondorf-les-Bains,totalenergies,,unknown,B&B Store S. à r.l.
+Howald,totalenergies,,unknown,Petronelli Antonio
+Bour,totalenergies,,unknown,Bour Shopping S. à r.l.
+Rombach-Martelange,totalenergies,,unknown,PetroVan S.A.
+Luxembourg-Merl 2,totalenergies,,unknown,F&L Fuel Sàrl - Merl 2
+FRISANGE,totalenergies,,unknown,FRISANGE 40 (TOTALENERGIES)
+RODANGE,totalenergies,,unknown,RODANGE TRUCK
+MONDORF-LES-BAINS,totalenergies,,unknown,MONDORF LES BAINS (TOTALENERGIES)
+WINDHOF,totalenergies,,unknown,WINDHOF (TOTALENERGIES)
+MARTELANGE-HAUT,totalenergies,,unknown,MARTELANGE 24 (TOTALENERGIES)
+BASCHARAGE,totalenergies,,unknown,BASCHARAGE (TOTALENERGIES)
+WEMPERHARDT,totalenergies,,unknown,WEMPERHARDT (TOTALENERGIES)
+MERTERT,totalenergies,,unknown,LUXOIL
+LIVANGE,totalenergies,,unknown,LIVANGE (TOTALENERGIES)
+SCHENGEN,totalenergies,,unknown,SCHENGEN 102 (TOTALENERGIES)
+ESCH-SUR-ALZETTE,totalenergies,,unknown,TRANSCO
+WASSERBILLIG,totalenergies,,unknown,WASSERBILLIG SUD (TOTALENERGIES)
+MARNACH,totalenergies,,unknown,MARNACH (TOTALENERGIES)
+OBERPALLEN,totalenergies,,unknown,OBERPALLEN 30 (TOTALENERGIES)
+POMMERLOCH,totalenergies,,unknown,POMMERLOCH (TOTALENERGIES)
+INGELDORF,totalenergies,,unknown,INGELDORF (TOTALENERGIES)
+BERTRANGE,totalenergies,,unknown,BERTRANGE (TOTALENERGIES)
+RUMELANGE,totalenergies,,unknown,RUMELANGE 77 (TOTALENERGIES)
+REMICH,totalenergies,,unknown,REMICH 11 (TOTALENERGIES)
+REMERSCHEN,totalenergies,,unknown,SCHENGERWISS (TOTALENERGIES)
+LUXEMBOURG,totalenergies,,unknown,PULVERMUHLE (TOTALENERGIES)
+DONCOLS,totalenergies,,unknown,DONCOLS (TOTALENERGIES)
+ROMBACH-MARTELANGE,totalenergies,,unknown,MARTELANGE 10 (TOTALENERGIES)
+STRASSEN,totalenergies,,unknown,STRASSEN (TOTALENERGIES)
+HULDANGE,totalenergies,,unknown,HULDANGE (TOTALENERGIES)
+ROSPORT,totalenergies,,unknown,ROSPORT (TOTALENERGIES)
+DUDELANGE,totalenergies,,unknown,DUDELANGE (TOTALENERGIES)
+WINCRANGE,totalenergies,,unknown,WINCRANGE (TOTALENERGIES)
+LORENTZWEILER,totalenergies,,unknown,LORENTZWEILER (TOTALENERGIES)
+MERSCH,totalenergies,,unknown,MERSCH (TOTALENERGIES)
+ECHTERNACH,totalenergies,,unknown,ECHTERNACH (TOTALENERGIES)
+CONTERN,totalenergies,,unknown,CONTERN (TOTALENERGIES)
+BETTEMBOURG,totalenergies,,unknown,BETTEMBOURG (TOTALENERGIES)
+PONTPIERRE,totalenergies,,unknown,PONTPIERRE (TOTALENERGIES)
+BELVAUX,totalenergies,,unknown,BELVAL (TOTALENERGIES)
+BERCHEM,totalenergies,,unknown,SHELL-BERCHEM
+LUXEMBOURG,united_colors_of_benetton,,unknown,Benetton Luxembourg
+Luxembourg,valora,,unknown,k kiosk
+Findel,valora,,unknown,Press & Books
+Esch/Alzette,valora,,unknown,k kiosk
+Merl,valora,,unknown,k kiosk
+Clervaux,valora,,unknown,k kiosk
+Redange/Attert,valora,,unknown,k kiosk
+Windhof,valora,,unknown,k kiosk
+Sandweiler,valora,,unknown,k kiosk
+Mondorf Les Bains,valora,,unknown,k kiosk
+Capellen,valora,,unknown,k kiosk
+Bascharage,valora,,unknown,k kiosk
+Ingeldorf,valora,,unknown,k kiosk
+Tetange,valora,,unknown,k kiosk
+Mersch,valora,,unknown,k kiosk
+Mertert,valora,,unknown,k kiosk
+Diekirch,valora,,unknown,k kiosk
+Grevenmacher,valora,,unknown,k kiosk
+Dudelange,valora,,unknown,k kiosk
+Howald,valora,,unknown,k kiosk
+Wiltz,valora,,unknown,k kiosk
+Ettelbruck,valora,,unknown,k kiosk
+Bereldange,valora,,unknown,k kiosk
+Luxembourg-Kirchberg,valora,,unknown,k kiosk
+Petange,valora,,unknown,k kiosk
+Bettembourg,valora,,unknown,k kiosk
+Niederanven,valora,,unknown,k kiosk
+Luxembourg 233,valora,,unknown,k kiosk
+Echternach,valora,,unknown,k kiosk
+Foetz/Mondercange,valora,,unknown,k kiosk
+Bertrange,valora,,unknown,k kiosk
+Luxembourg  119,valora,,unknown,k kiosk
+Remich,valora,,unknown,k kiosk
+Livange,valora,,unknown,k kiosk
+RUMELANGE,visa,,unknown,unknown
+DUDELANGE,visa,,unknown,unknown
+KAYL,visa,,unknown,unknown
+ESCH/ALZETTE,visa,,unknown,unknown
+ESCH/LALLANGE,visa,,unknown,unknown
+BELVAUX,visa,,unknown,unknown
+OBERKORN,visa,,unknown,unknown
+SCHIFFLANGE,visa,,unknown,unknown
+DIFFERDANGE,visa,,unknown,unknown
+FOETZ,visa,,unknown,unknown
+NIEDERKORN,visa,,unknown,unknown
+BETTEMBOURG,visa,,unknown,unknown
+MONDORF LES BAINS,visa,,unknown,unknown
+FRISANGE,visa,,unknown,unknown
+MONDERCANGE,visa,,unknown,unknown
+RODANGE,visa,,unknown,unknown
+LIVANGE,visa,,unknown,unknown
+PETANGE,visa,,unknown,unknown
+BASCHARAGE,visa,,unknown,unknown
+REMICH,visa,,unknown,unknown
+CLEMENCY,visa,,unknown,unknown
+HESPERANGE,visa,,unknown,unknown
+GASPERICH,visa,,unknown,unknown
+HOWALD,visa,,unknown,unknown
+LUXEMBOURG,visa,,unknown,unknown
+BERTRANGE,visa,,unknown,unknown
+LUXEMBOURG GARE,visa,,unknown,unknown
+BELAIR,visa,,unknown,unknown
+LUXEMBOURG VILLE,visa,,unknown,unknown
+STRASSEN,visa,,unknown,unknown
+MAMER,visa,,unknown,unknown
+KIRCHBERG,visa,,unknown,unknown
+SANDWEILER,visa,,unknown,unknown
+CANACH,visa,,unknown,unknown
+ESCH,visa,,unknown,unknown
+CAPELLEN,visa,,unknown,unknown
+FINDEL,visa,,unknown,unknown
+WORMELDANGE,visa,,unknown,unknown
+CONTERN,visa,,unknown,unknown
+STEINFORT,visa,,unknown,unknown
+MUNSBACH,visa,,unknown,unknown
+BERELDANGE,visa,,unknown,unknown
+BRIDEL,visa,,unknown,unknown
+SENNINGERBERG,visa,,unknown,unknown
+NIEDERANVEN,visa,,unknown,unknown
+WALFERDANGE,visa,,unknown,unknown
+EISCHEN,visa,,unknown,unknown
+STEINSEL,visa,,unknown,unknown
+LORENTZWEILER,visa,,unknown,unknown
+GREVENMACHER,visa,,unknown,unknown
+LINTGEN,visa,,unknown,unknown
+JUNGLINSTER,visa,,unknown,unknown
+NOERDANGE,visa,,unknown,unknown
+REDANGE/ATTERT,visa,,unknown,unknown
+MERSCH,visa,,unknown,unknown
+WASSERBILLIG,visa,,unknown,unknown
+USELDANGE,visa,,unknown,unknown
+BETTBORN,visa,,unknown,unknown
+LAROCHETTE,visa,,unknown,unknown
+MARTELANGE,visa,,unknown,unknown
+COLMAR-BERG,visa,,unknown,unknown
+RAMBROUCH,visa,,unknown,unknown
+ECHTERNACH,visa,,unknown,unknown
+ETTELBRUCK,visa,,unknown,unknown
+BEAUFORT,visa,,unknown,unknown
+INGELDORF,visa,,unknown,unknown
+ESCHDORF,visa,,unknown,unknown
+DIEKIRCH,visa,,unknown,unknown
+REISDORF,visa,,unknown,unknown
+ESCH/SURE,visa,,unknown,unknown
+VIANDEN,visa,,unknown,unknown
+WILTZ,visa,,unknown,unknown
+CLERVAUX,visa,,unknown,unknown
+MARNACH,visa,,unknown,unknown
+TROISVIERGES,visa,,unknown,unknown
+WEISWAMPACH,visa,,unknown,unknown
+WEMPERHARDT,visa,,unknown,unknown
+BERCHEM,visa,,unknown,unknown

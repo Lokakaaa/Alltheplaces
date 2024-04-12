@@ -1,0 +1,475 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1300,coffee_like,Coffee Like,"ул. Магомеда Гаджиева, 41",Махачкала,Dagestan,,RU,,,Mo-Su 08:30-23:00,Coffee Like,Q55662627
+300,coffee_like,Coffee Like,"ул. Магомеда Гаджиева, 3",Махачкала,Dagestan,,RU,,,Mo-Su 08:30-23:00,Coffee Like,Q55662627
+1113,coffee_like,Coffee Like,"просп. Гамидова, 15",Махачкала,Dagestan,,RU,,,Mo-Fr 08:30-23:00; Sa-Su 08:30-22:00,Coffee Like,Q55662627
+1409,coffee_like,Coffee Like,"ул. Ломоносова, 15 в",Махачкала,Dagestan,,RU,,,Mo-Su 08:30-23:00,Coffee Like,Q55662627
+132,coffee_like,Coffee Like,"просп. Петра Первого, 51 а",Махачкала,Dagestan,,RU,,,Mo-Su 08:30-23:30,Coffee Like,Q55662627
+43,wildberries,Wildberries,"г. Махачкала (Дагестан Респ.), пр-кт. Али-Гаджи Акушинского, 30Д /11",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+654,wildberries,Wildberries,"г. Дербент (Дагестан Респ.), ул. 345 Дагестанской Стрелковой Дивизии, 6 /2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+1162,wildberries,Wildberries,"г. Каспийск (Республика Дагестан), улица Амет-хан Султана, 2Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+2187,wildberries,Wildberries,"Республика Дагестан, Махачкала, проспект Петра I, 115",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+2922,wildberries,Wildberries,"г. Избербаш (Республика Дагестан), проспект Ленина, д. 2А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+2966,wildberries,Wildberries,"г. Кизляр (Республика Дагестан), Махачкалинская улица, д. 12",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+3662,wildberries,Wildberries,"г. Махачкала (Республика Дагестан), улица Юсупа Акаева, д. 25А",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+5542,wildberries,Wildberries,"г. Махачкала (Республика Дагестан), улица Дзержинского, д. 6",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+5711,wildberries,Wildberries,"г. Каспийск (Республика Дагестан), улица Ленина, д. 20",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+5712,wildberries,Wildberries,"Республика Дагестан, Буйнакск, микрорайон Дружба, 17",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+5974,wildberries,Wildberries,"Республика Дагестан, город Кизилюрт, улица Гамзата Цадасы, 86Г",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+101856,wildberries,Wildberries,г. Дагестанские Огни Ленина 5,,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+102300,wildberries,Wildberries,"г. Махачкала (Республика Дагестан), проспект Имама Шамиля, д. 25",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+104750,wildberries,Wildberries,"Республика Дагестан, г. Махачкала, улица Мирзабекова, 146",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+106253,wildberries,Wildberries,"Республика Дагестан, Махачкала, проспект Али-Гаджи Акушинского, 116",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+107996,wildberries,Wildberries,г. Дербент (Респ Дагестан) Ул. Буйнакского 68,,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+109885,wildberries,Wildberries,"г Махачкала (Республика Дагестан, городской округ Махачкала) улица Генерала Омарова 102",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+112700,wildberries,Wildberries,г. Хасавюрт улица С-М. Абубакарова 48,,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+112793,wildberries,Wildberries,г Махачкала (Респ Дагестан) Даниялова 64 ,,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+113705,wildberries,Wildberries,"г Махачкала (Республика Дагестан), Насрутдинова 69Б",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+114774,wildberries,Wildberries,"г Махачкала (Респ Дагестан), проспект Имама Шамиля 18Ж",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+114776,wildberries,Wildberries,"г Махачкала (Республика Дагестан), проспект Гамидова 55 ",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+114969,wildberries,Wildberries,"г Буйнакск (Республика Дагестан), улица Имама Гази-Магомеда 8",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+121314,wildberries,Wildberries,"г Махачкала, Улица Хаджи Булача 17д",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+121657,wildberries,Wildberries,"г Каспийск, Махачкалинская Улица 73",,Dagestan,,RU,,,Mo-Su 08:00-19:00,Wildberries,Q24933714
+122503,wildberries,Wildberries,"г Каспийск, Улица Назарова 9",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+124613,wildberries,Wildberries,"г Махачкала, Проспект Казбекова 165а",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+124994,wildberries,Wildberries,"г Махачкала, Улица Мирзабекова 24",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+131220,wildberries,Wildberries,"г Махачкала, Улица Мухтарова 36",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+132710,wildberries,Wildberries,"Республика Дагестан, Избербаш, улица Гамидова, 99",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+134356,wildberries,Wildberries,Махачкала Респ Дагестан улица Буйнакского 73,,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+136027,wildberries,Wildberries,"с Коркмаскала, Улица Сталина 46",,Dagestan,,RU,,,Mo-Su 09:30-20:00,Wildberries,Q24933714
+137071,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица А.И. Абукова, 24",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+137778,wildberries,Wildberries,"Махачкала Республика Дагестан, городской округ Махачкала проспект Али-Гаджи Акушинского 361",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+137913,wildberries,Wildberries,"Респ Дагестан, г Хасавюрт, ул Датуева, д 35Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+138313,wildberries,Wildberries,"с Карабудахкент, Улица Быковского 2",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+138501,wildberries,Wildberries,Кизляр Респ Дагестан улица 40 лет Дагестана 1/5Б,,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+139185,wildberries,Wildberries,"Республика Дагестан, Дербент, улица имени Гаджи-Гасана Ахундова, 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+139922,wildberries,Wildberries,"г Хасавюрт, Янтарная Улица 47",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+141026,wildberries,Wildberries,"Республика Дагестан, Махачкала, улица Славы, 3",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+141387,wildberries,Wildberries,"Республика Дагестан, Каспийск, Омарова, 22",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+141912,wildberries,Wildberries,"г Каспийск, Улица Абдулманапова 6б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+145157,wildberries,Wildberries,"г Махачкала, Улица Магомеда Гаджиева 66",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+149772,wildberries,Wildberries,"г Хасавюрт, Улица Бараненко 37",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+150129,wildberries,Wildberries,"г Каспийск, Улица 8-Я Линия 1е",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+150345,wildberries,Wildberries,"г Дербент, Улица Сурмача 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+151254,wildberries,Wildberries,"г Махачкала, Улица Мирзабекова 157",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+151270,wildberries,Wildberries,"г Махачкала, Улица Зои Космодемьянской 50",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+151371,wildberries,Wildberries,"г Махачкала, Улица Айвазовского 2/4",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+151580,wildberries,Wildberries,"г Кизляр, Улица Победы 50",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+151606,wildberries,Wildberries,"г Хасавюрт, Улица С-М. Абубакарова 13",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+152994,wildberries,Wildberries,"Республика Дагестан, Дербент, улица Сальмана, 89",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+153667,wildberries,Wildberries,"г Каспийск, Улица Ленина 86",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+154641,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица Магидова, 64",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+154974,wildberries,Wildberries,"г Махачкала, Проспект Петра I 129",,Dagestan,,RU,,,Mo-Su 09:30-20:00,Wildberries,Q24933714
+155003,wildberries,Wildberries,"г Махачкала, Проспект Петра I 97",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+155702,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Завокзальная улица, 69",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+156198,wildberries,Wildberries,"г Махачкала, Проспект Имама Шамиля 89б",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+156911,wildberries,Wildberries,"г Махачкала, Дагестанская Улица 51",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+156931,wildberries,Wildberries,"г Каспийск, Улица Орджоникидзе 14",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+157179,wildberries,Wildberries,"Республика Дагестан, Дербент, улица Сальмана, 52",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+157223,wildberries,Wildberries,"г Махачкала, Улица Магомедтагирова 180м",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+157317,wildberries,Wildberries,"г Махачкала, Улица Кирова 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+157721,wildberries,Wildberries,"г Махачкала, Проспект Гамидова 20",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+157831,wildberries,Wildberries,"г Махачкала, Проспект Имама Шамиля 46а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+157875,wildberries,Wildberries,"г Махачкала, Проспект Гамидова 49к4",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+157899,wildberries,Wildberries,"г Махачкала, Улица Гагарина 50",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+158723,wildberries,Wildberries,"с Маджалис, Гаражная Улица 16",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+158734,wildberries,Wildberries,"г Дербент, Проспект Агасиева 12д",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+158887,wildberries,Wildberries,"пгт Ленинкент, Улица Гитинова 1а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+159196,wildberries,Wildberries,"г Дербент, Улица Генерала Сеидова 1",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+159288,wildberries,Wildberries,"г Каспийск, Улица Ильяшенко 5",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+159318,wildberries,Wildberries,"г Махачкала, Проспект Гамидова 50а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+159327,wildberries,Wildberries,"г Махачкала, Улица Юсупова 55",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+159926,wildberries,Wildberries,Кизилюрт Респ Дагестан улица Имама Газимагомеда 1,,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+160679,wildberries,Wildberries,"г Махачкала, Улица Максима Горького 15",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+160789,wildberries,Wildberries,"г Махачкала, Проспект Петра I 81",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+161296,wildberries,Wildberries,"г Махачкала, Микрорайон Научный Городок 6и",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+161483,wildberries,Wildberries,"г Махачкала, Проспект Насрутдинова 89",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+161838,wildberries,Wildberries,"г Каспийск, Улица Ленина 70а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+162215,wildberries,Wildberries,"г Дербент, Улица 345-Й Дагестанской Стрелковой Дивизии 8м",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+162236,wildberries,Wildberries,"с Бабаюрт, Улица Д. Алиева 18",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+162356,wildberries,Wildberries,"г Каспийск, Улица Кирова 26",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+162530,wildberries,Wildberries,"г Дербент, Улица Ленина 5",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+162649,wildberries,Wildberries,"г Махачкала, Улица Тахо-Годи 54а",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+162686,wildberries,Wildberries,"с Рутул, Центральная Улица 1",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+162703,wildberries,Wildberries,"г Кизилюрт, Красная Улица 7",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+162860,wildberries,Wildberries,"с Магарамкент, Улица Ленина 1",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+162862,wildberries,Wildberries,"Республика Дагестан, Махачкала, улица Танкаева, 64А",,Dagestan,,RU,,,Mo-Su 08:00-22:00,Wildberries,Q24933714
+162880,wildberries,Wildberries,"г Каспийск, Улица Батырая 50",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+163287,wildberries,Wildberries,"г Махачкала, Проспект Имама Шамиля 60",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+163294,wildberries,Wildberries,"г Махачкала, Улица Хизроева 144",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+163470,wildberries,Wildberries,"г Кизилюрт, Улица Малагусейнова 16",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+163528,wildberries,Wildberries,"г Каспийск, Приморская Улица 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+163878,wildberries,Wildberries,"с Чонтаул, Улица Нурадилова 76",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+163969,wildberries,Wildberries,"г Дербент, Фермерская Улица 46",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+164038,wildberries,Wildberries,"п Белиджи, Улица Загира Арухова 103",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+164303,wildberries,Wildberries,"г Дербент, Улица Хандадаша Тагиева 37",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+164481,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица Сайгидинова, 29",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+164506,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Кандауровская улица 2Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+164867,wildberries,Wildberries,"г Буйнакск, Улица Чкалова 21",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+165712,wildberries,Wildberries,"Республика Дагестан, Махачкала, улица Нахимова, 4",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+165940,wildberries,Wildberries,"г Хасавюрт, Грозненская Улица 72",,Dagestan,,RU,,,Mo-Su 08:00-23:00,Wildberries,Q24933714
+167046,wildberries,Wildberries,"г Каспийск, Каспийская Улица 6а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+167128,wildberries,Wildberries,Махачкала Респ Дагестан проспект Амет-Хана Султана 63,,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+167600,wildberries,Wildberries,Избербаш Респ Дагестан Чернышевского 63,,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+167662,wildberries,Wildberries,"с Терекли-Мектеб, Улица Эдиге 11",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+167679,wildberries,Wildberries,"г Махачкала, Улица Кулиева 3",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+167829,wildberries,Wildberries,"г Каспийск, Проспект Омарова 6",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+167837,wildberries,Wildberries,"с Гельбах, Улица Защитников Республики 13",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+168746,wildberries,Wildberries,"с Касумкент, Улица Ленина 25",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+168862,wildberries,Wildberries,"пгт Семендер, Улица Таркинская 1а",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+169010,wildberries,Wildberries,"г Махачкала, Улица Громова 32",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+169166,wildberries,Wildberries,"г Каспийск, Улица Орджоникидзе 4а",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+169188,wildberries,Wildberries,"г Кизляр, Московская Улица 18",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+170097,wildberries,Wildberries,"с Чиркей, Улица А.Чиркейского 33",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+170199,wildberries,Wildberries,"г Махачкала, Проспект Амет-Хана Султана 8и",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+170727,wildberries,Wildberries,"с Арани, Улица Наби Кураева 31",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+170989,wildberries,Wildberries,"пгт Шамилькала, Улица Махача Дахадаева 2",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+171566,wildberries,Wildberries,"с Гапцах, Улица Ленина 10",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+172344,wildberries,Wildberries,"г Махачкала, Улица Гаруна Курбанова 35",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+172617,wildberries,Wildberries,"с Хучни, Улица С.К. Курбанова 11",,Dagestan,,RU,,,Mo-Su 08:30-19:00,Wildberries,Q24933714
+172832,wildberries,Wildberries,"г Махачкала, Улица Юсупова 35",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+172896,wildberries,Wildberries,"г Дагестанские Огни, Проспект Калинина 92",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+200622,wildberries,Wildberries,"Каспийск, Молодёжная Улица 2к4",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+201069,wildberries,Wildberries,"г Махачкала, Улица Магомеда Гаджиева 170",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+201105,wildberries,Wildberries,"Махачкала, Учительская Улица 18",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+201145,wildberries,Wildberries,"Южно-Сухокумск, Пионерская Улица 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+201311,wildberries,Wildberries,"Хасавюрт, 24-Я Народная Улица 2",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+201920,wildberries,Wildberries,"п Мамедкала, Улица Максима Горького 5",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+202497,wildberries,Wildberries,"с Леваши, Улица Гамида Мустафаевича Гамидова 3",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+202674,wildberries,Wildberries,"Республика Дагестан, Каспийск, улица Ленина, 13Д",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+202741,wildberries,Wildberries,"село Аксай, Улица Даибова 8",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+202747,wildberries,Wildberries,"Кизляр, Грозненская Улица 2",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+202763,wildberries,Wildberries,"Махачкала, Федеральное Шоссе 44",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+202988,wildberries,Wildberries,"Буйнакск, Улица Академика Аскерханова 71",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+203082,wildberries,Wildberries,"село Сергокала, Улица Азизова 1",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+203396,wildberries,Wildberries,"село Леваши, Улица Ленина 31кб",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+203654,wildberries,Wildberries,"Республика Дагестан, село Зубутли-Миатли, улица Пушкина",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+204593,wildberries,Wildberries,"Каспийск, Кавказская Улица 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+205254,wildberries,Wildberries,"Махачкала, Улица Рахматуллаева 18",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+205371,wildberries,Wildberries,"село Новая Мака, Улица В. Ленина 6",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+205461,wildberries,Wildberries,"Буйнакск, Улица Имама Гази-Магомеда 92",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+206137,wildberries,Wildberries,"Республика Дагестан, Махачкала, Газопроводная улица, 9В",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+206393,wildberries,Wildberries,"Избербаш, Улица Азизова 3",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+206473,wildberries,Wildberries,"село Касумкент, Улица Мира 1а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+206528,wildberries,Wildberries,"село Сиртыч, Парковая Улица 23",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+206719,wildberries,Wildberries,"Махачкала, Федеральное Шоссе 121",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+206961,wildberries,Wildberries,"село Акуша, Улица Бетакара 9",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+207010,wildberries,Wildberries,"Избербаш, Улица Нефтяников 8а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+207137,wildberries,Wildberries,"Кизляр, Улица Орджоникидзе 36",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+207198,wildberries,Wildberries,"Махачкала, Цветочная Улица 2",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+207219,wildberries,Wildberries,"село Ленинаул, Улица Ю. Салимханова 20",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+207357,wildberries,Wildberries,"Республика Дагестан, Каспийск, проспект Акулиничева, 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+207634,wildberries,Wildberries,"село Акуша, Улица Али-Гаджи Акушинского 76",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+207871,wildberries,Wildberries,"село Новый Чиркей, Южная Улица 2б",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+207909,wildberries,Wildberries,"село Терекли-Мектеб, Улица Мокринского 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+207913,wildberries,Wildberries,"село Терекли-Мектеб, Улица Мокринского 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+207958,wildberries,Wildberries,"село Дылым, Улица Шихмирзы Абуева 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+208170,wildberries,Wildberries,"Республика Дагестан, посёлок городского типа Новый Сулак, улица Мира, 21А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+208175,wildberries,Wildberries,"село Терекли-Мектеб, 82К-001 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+208488,wildberries,Wildberries,"село Тагиркент-Казмаляр, Шоссейная Улица 7",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+208515,wildberries,Wildberries,"Республика Дагестан, Махачкала, проспект Имама Шамиля, 43Д",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+209040,wildberries,Wildberries,"село Нариман, Село Нариман 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+210295,wildberries,Wildberries,"Кизляр, Улица Фридриха Энгельса 40",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+210764,wildberries,Wildberries,"Республика Дагестан, Избербаш, улица У.Д. Буйнакского, 141",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+210950,wildberries,Wildberries,"село Ахты, Село Ахты 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+211054,wildberries,Wildberries,"село Каякент, Улица Шихсаидова 64/8",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+211269,wildberries,Wildberries,"село Куппа, Улица Курбана Магомеда 29",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+211512,wildberries,Wildberries,"Дагестанские Огни, Улица Козленко 16",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+212190,wildberries,Wildberries,"село Кокрек, Красная Улица 7",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+212544,wildberries,Wildberries,"село Гергебиль, Улица Идриса Наиба 87",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+212613,wildberries,Wildberries,"Республика Дагестан, село Геджух, улица Ленина, 17",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+212617,wildberries,Wildberries,"Республика Дагестан, село Хучни, Больничная улица, 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+212774,wildberries,Wildberries,"Республика Дагестан, Дербент, улица Расулбекова, 8Е",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+212793,wildberries,Wildberries,"село Маджалис, Улица Больничная АРС 5",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+212985,wildberries,Wildberries,"Махачкала, Улица Перова 11/6",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213136,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица 40 лет Октября, 16-й проезд, 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213237,wildberries,Wildberries,"село Первомайское, Улица Ленина 41",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213303,wildberries,Wildberries,"Махачкала, Улица Абдулхакима Исмаилова 42а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213496,wildberries,Wildberries,"село Гергебиль, Улица Нахибашева 14",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213520,wildberries,Wildberries,"Махачкала, Улица Магомедтагирова 130",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213529,wildberries,Wildberries,"посёлок Комсомольский, Улица Чумудова 36",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213652,wildberries,Wildberries,"Каспийск, Дербентская Улица 10",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213760,wildberries,Wildberries,"село Тантари, Заречная Улица 27",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213833,wildberries,Wildberries,"Республика Дагестан, село Хив, улица Юзбекова, 6Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+213846,wildberries,Wildberries,"село Ботлих, Улица Имама Шамиля 107",Botlikhskiy Rayon,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+214371,wildberries,Wildberries,"село Дружба, Улица Гаджиева 26",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+214808,wildberries,Wildberries,"Республика Дагестан, Избербаш, улица Гамидова, 69А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+214809,wildberries,Wildberries,"Республика Дагестан, Махачкала, Ташкентская улица, 13Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+214811,wildberries,Wildberries,"Республика Дагестан, Махачкала, улица Каммаева, 20А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+214854,wildberries,Wildberries,"Махачкала, Улица Эльзы Ибрагимовой 5к12",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+214956,wildberries,Wildberries,"село Ботлих, Улица Имама Газимагомеда 24",Botlikhskiy Rayon,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215245,wildberries,Wildberries,"село Нижнее Казанище, Улица Бадани Казбекова 54",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215288,wildberries,Wildberries,"село Ботлих, Улица Имама Шамиля 8",Botlikhskiy Rayon,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215307,wildberries,Wildberries,"Махачкала, Улица Магомета Гаджиева 75",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215341,wildberries,Wildberries,"Махачкала, Улица Максима Горького 83а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215432,wildberries,Wildberries,"село Червленные Буруны, Улица Н. Арсланова 10",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215452,wildberries,Wildberries,"Республика Дагестан, Махачкала, улица Зои Космодемьянской, 54К",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215489,wildberries,Wildberries,"село Гоцатль Большой, Сосновая Улица 26",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215577,wildberries,Wildberries,"Дербент, Улица Гагарина 18а",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+215652,wildberries,Wildberries,"посёлок Белиджи, Микрорайон Штул 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215675,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица Датуева, 68Г",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215789,wildberries,Wildberries,"Дербент, Улица Гагарина 30",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215790,wildberries,Wildberries,"Махачкала, 9-Я Акгёльная Улица 26",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215830,wildberries,Wildberries,"Махачкала, Улица Даниялова 101",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215843,wildberries,Wildberries,"село Манаскент, Улица Р. Джангишиева 65",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215875,wildberries,Wildberries,"Республика Дагестан, село Хучни, Набережная улица, 8",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+215888,wildberries,Wildberries,"село Джалган, Дагестанская Улица 13",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+216019,wildberries,Wildberries,"посёлок городского типа Шамхал, Улица Буйнакского 1/1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+216020,wildberries,Wildberries,"Махачкала, Проспект Гамидова 8",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+216119,wildberries,Wildberries,"село Губден, Улица Расула Абдулаева 102",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+216724,wildberries,Wildberries,"село Уркарах, Улица К.С. Курбановича 119",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+216858,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица Победы, 109В",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+216982,wildberries,Wildberries,"село Хунзах, Улица Максуда Алиханова 70",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+216998,wildberries,Wildberries,"Махачкала, Улица Аскерханова 8",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+217111,wildberries,Wildberries,"село Советское, Шоссейная Улица 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+217138,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица Сержанта Гайдара, 32",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+217206,wildberries,Wildberries,"Махачкала, Улица Абдулхакима Исмаилова 4б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+217258,wildberries,Wildberries,"Хасавюрт, Улица Тотурбиева 117",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+217502,wildberries,Wildberries,"село Кироваул, Цумадинская Улица 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+217901,wildberries,Wildberries,"садовое общество Агачаульский, Садовое Общество Агачаульский 434г",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+218060,wildberries,Wildberries,"Махачкала, Улица Абдулхакима Исмаилова 41",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+218106,wildberries,Wildberries,"село Ботаюрт, Улица Шавхала Солтамута Тарковского 67",Khasavyurtovskiy Rayon,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+218217,wildberries,Wildberries,"село Нижнее Казанище, Улица Даида Даидова 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+218556,wildberries,Wildberries,"поселок Хамаматюрт, Улица Ахмедиева 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+218711,wildberries,Wildberries,"село Муцалаул, Улица Ибрагимова 96",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+218718,wildberries,Wildberries,"село Верхний Дженгутай, Улица Гаджиева Абуса 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+218790,wildberries,Wildberries,"Республика Дагестан, село Новосельское, Шоссейная улица, 35",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+218791,wildberries,Wildberries,"Республика Дагестан, посёлок Солнечное, Футбольная улица, 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+219039,wildberries,Wildberries,"Республика Дагестан, село Нечаевка, улица Имама Шамиля, 4А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+300241,wildberries,Wildberries,"село Эндирей, Улица Алхаматова 56",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+300301,wildberries,Wildberries,"село Мюрего, Центральная Улица 3",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+300337,wildberries,Wildberries,"Республика Дагестан, посёлок городского типа Дубки, 1-й квартал, 3А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+300993,wildberries,Wildberries,"село Султан-Янги-Юрт, Полевая Улица 57",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301084,wildberries,Wildberries,"село Бабаюрт, Улица Гасанова 102",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301182,wildberries,Wildberries,"Республика Дагестан, город Кизилюрт, улица Малагусейнова, 30",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301214,wildberries,Wildberries,"село Шамхал-Термен, Улица Сталина 3",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301244,wildberries,Wildberries,"село Унцукуль, Улица С.М. Абубакарова 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301466,wildberries,Wildberries,"Республика Дагестан, посёлок городского типа Сулак, Советская улица, 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301527,wildberries,Wildberries,"село Бабаюрт, Улица Д. Алиева 88",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301541,wildberries,Wildberries,"посёлок городского типа Тюбе, Заводская Улица 7/4",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301546,wildberries,Wildberries,"село Сергокала, Улица Азизова 92а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301578,wildberries,Wildberries,"село Геметюбе, Село Геметюбе 35",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301606,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Энергетическая улица, 92Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301669,wildberries,Wildberries,"село Касумкент, Дербентская Улица 16",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301671,wildberries,Wildberries,"село Хебда, Улица Имама Шамиля 62а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+301713,wildberries,Wildberries,"кутан Новая Урада, Улица С.Х. Асиятилова 69",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302361,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица Бейбулатова, 9",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302363,wildberries,Wildberries,"село Гели, Улица Б. Агаимова 5",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302372,wildberries,Wildberries,"село Агвали, Улица Кади Абакарова 99",Tsumadinskiy Rayon,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+302390,wildberries,Wildberries,"село Учкент, Улица Буйнакского 32",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302395,wildberries,Wildberries,"село Акнада, Улица Орджоникидзе 37",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302521,wildberries,Wildberries,"Республика Дагестан, село Деличобан, Луговая улица, 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302582,wildberries,Wildberries,"посёлок городского типа Ленинкент, Шоссе Дружбы Народов 124",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302609,wildberries,Wildberries,"Республика Дагестан, село Темиргое, улица Тагирова, 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302610,wildberries,Wildberries,"село Кунбатар, Улица Ханмурзы Кумукова 12",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302695,wildberries,Wildberries,"Махачкала, Монтажная Улица 130",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+302714,wildberries,Wildberries,"село Оружба, Улица М. Ярагского 18",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+303122,wildberries,Wildberries,"село Кумух, Улица Идриса Булатова 5",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+303150,wildberries,Wildberries,"село Новодмитриевка, Советская Улица 86а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+303171,wildberries,Wildberries,"Республика Дагестан, Дербент, улица Эдисона Пашабекова, 23В",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+303392,wildberries,Wildberries,"Республика Дагестан, Дербент, улица Атаева, 37",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+303394,wildberries,Wildberries,"село Куруш, Улица Нажмудина Самурского 31",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+303432,wildberries,Wildberries,"село Нижний Джалган, Улица Коммунаров 25",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+303819,wildberries,Wildberries,"село Львовский № 1, Улица Забитова 67",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+303860,wildberries,Wildberries,"Избербаш, 1-Я Линия 29",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+303950,wildberries,Wildberries,"село Хаджалмахи, Улица В.В. Путина 74",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304057,wildberries,Wildberries,"село Тарумовка, Советская Улица 100а",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+304086,wildberries,Wildberries,"село Темираул, Береговая Улица 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304107,wildberries,Wildberries,"село Адиль-Янгиюрт, Почтовая Улица 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304170,wildberries,Wildberries,"Махачкала, Бабаюртовская Улица 14",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304343,wildberries,Wildberries,"город Кизилюрт, Улица Гагарина 76а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304466,wildberries,Wildberries,"село Какашура, Улица Ирчи Казака 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304497,wildberries,Wildberries,"Буйнакск, Улица Ленина 21",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304502,wildberries,Wildberries,"Махачкала, Улица Даганова 32",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304512,wildberries,Wildberries,"поселок Тамазатюбе Новое, Улица Мира 30",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+304519,wildberries,Wildberries,"посёлок городского типа Ленинкент, Улица Гаджиева 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304554,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Кандауровская улица, 87",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304666,wildberries,Wildberries,"село Карабудахкент, Улица Абакарова 1а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304683,wildberries,Wildberries,"поселок Нововладимирское, Дорожная Улица 15",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+304775,wildberries,Wildberries,"Кизляр, Московская Улица 3/1",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+304869,wildberries,Wildberries,"село Аксай, Пионерская Улица 12а",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+304950,wildberries,Wildberries,"Махачкала, Мекегинская Улица 35",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305020,wildberries,Wildberries,"село Новые Викри, Улица Ленина 55",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305301,wildberries,Wildberries,"Махачкала, Улица Энергетиков 66",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+305310,wildberries,Wildberries,"село Ново-Георгиевка, Степная Улица 1д",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305434,wildberries,Wildberries,"село Новогагатли, Горная Улица 20",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305591,wildberries,Wildberries,"село Уллубийаул, Карабудахкентская Улица 8",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305617,wildberries,Wildberries,"Республика Дагестан, Кизляр, улица 40 лет Дагестана, 14/2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305622,wildberries,Wildberries,"Республика Дагестан, село Параул, улица Шихсаидова, 95",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305695,wildberries,Wildberries,"село Усухчай, Улица Эмирсултановой 44г",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305697,wildberries,Wildberries,"Махачкала, Проспект Имама Шамиля 79/2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305707,wildberries,Wildberries,"село Сулевкент, Центральная Улица 42",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305727,wildberries,Wildberries,"Буйнакск, Микрорайон Дружба 63в/1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305973,wildberries,Wildberries,"село Аджидада, Новая Улица 1",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+305974,wildberries,Wildberries,"село Авадан, Улица Ленина 16",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+305981,wildberries,Wildberries,"Махачкала, Техническая Улица 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306010,wildberries,Wildberries,"село Цветковка, Гредерная Улица 8а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306090,wildberries,Wildberries,"Республика Дагестан, село Дарваг, улица Абзера Рагимова, 32",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306221,wildberries,Wildberries,"Махачкала, Проспект Али-Гаджи Акушинского 56",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306228,wildberries,Wildberries,"Кизляр, Грозненская Улица 114ж/1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306279,wildberries,Wildberries,"село Алмало, Ибрагимова Улица 32",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306306,wildberries,Wildberries,"село Урма, Улица Ш. Далгатова 20",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306485,wildberries,Wildberries,"село Кочубей, Улица Ленина 99",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+306651,wildberries,Wildberries,"село Кабир-Казмаляр, Улица Победы 28",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306724,wildberries,Wildberries,"село Чинар, Улица Чкалова 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306741,wildberries,Wildberries,"село Коркмаскала, Улица Энгельса 184",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306767,wildberries,Wildberries,"Махачкала, Улица Хуторянского 21а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+306822,wildberries,Wildberries,"село Бамматюрт, Улица А.А. Кадырова 107",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+306991,wildberries,Wildberries,"село Леваши, Улица Кирова 9",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307218,wildberries,Wildberries,"Махачкала, 1-Й Хивский Проезд 17",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307295,wildberries,Wildberries,"Хасавюрт, Улица Гумбетовская 1а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307300,wildberries,Wildberries,"село Курах, Улица Гагарина 29",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307332,wildberries,Wildberries,"Махачкала, Улица Абубакарова 17",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307354,wildberries,Wildberries,"Республика Дагестан, Махачкала, проспект Петра I, 107Ек1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307872,wildberries,Wildberries,"Республика Дагестан, село Крайновка, Советская улица, 48Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307901,wildberries,Wildberries,"село Новокаякент, Улица Юсупа Акаева 29",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307909,wildberries,Wildberries,"Кизляр, Улица Советской Милиции 16",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+307976,wildberries,Wildberries,"Республика Дагестан, село Аверьяновка, улица Будённого, 40",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308075,wildberries,Wildberries,"Махачкала, Проспект Амет-Хана Султана 10и",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308236,wildberries,Wildberries,"село Сагаси-Дейбук, Комсомольская Улица 12",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308264,wildberries,Wildberries,"село Стальское, Улица Орджоникидзе 9",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308299,wildberries,Wildberries,"село Великент, Центральная Улица 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308404,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Грозненская улица, 82В",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308425,wildberries,Wildberries,"село Карата, Улица Магомедзагида Абдулманапова 111",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308461,wildberries,Wildberries,"село Цуриб, Улица Ахмеда Абдулмеджидова 8",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+308749,wildberries,Wildberries,"село Таловка, Улица МЖС 6а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308754,wildberries,Wildberries,"Буйнакск, Улица Имама Гази-Магомеда 14",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308802,wildberries,Wildberries,"Махачкала, Улица Азиза Алиева 19",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+308954,wildberries,Wildberries,"Республика Дагестан, село Новолакское, улица Хайдакова, 50",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309073,wildberries,Wildberries,"Республика Дагестан, село Новый Хушет, улица Хизроева, 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309082,wildberries,Wildberries,"Республика Дагестан, Каспийск, проспект Акулиничева, 15Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309086,wildberries,Wildberries,"Республика Дагестан, Каспийск, Кавказская улица, 29А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309126,wildberries,Wildberries,"село Ахты, Улица Ленина 4а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309154,wildberries,Wildberries,"село Бабаюрт, Улица Горького 8",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309190,wildberries,Wildberries,"поселок Татаюрт, Поселковая Улица 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309255,wildberries,Wildberries,"Буйнакск, Улица Ленина 70",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309335,wildberries,Wildberries,"Махачкала, Московская Улица 5",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309362,wildberries,Wildberries,"село Дюбек, Улица Машарик 63",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+309398,wildberries,Wildberries,"Республика Дагестан, Каспийск, улица Ленина, 59А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309500,wildberries,Wildberries,"Республика Дагестан, село Покровское, улица Кирова, 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309560,wildberries,Wildberries,"Махачкала, Улица Абдулхакима Исмаилова 189",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309640,wildberries,Wildberries,"Махачкала, Улица Плеханова 45",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309722,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Османюртовская улица, 22А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309750,wildberries,Wildberries,"село Башлыкент, Улица Ленина 89",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309778,wildberries,Wildberries,"Республика Дагестан, село Богатырёвка, улица Ленина, 14",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309784,wildberries,Wildberries,"село Дзержинское, Центральная Улица 38а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309829,wildberries,Wildberries,"село Стальское, Шоссейная Улица 13",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309921,wildberries,Wildberries,"село Рассвет, Улица Дружбы 2а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+309971,wildberries,Wildberries,"село Икра, Улица Мугудина Кахриманова 34а",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+309981,wildberries,Wildberries,"Дербент, Улица Имени Надыра Эмиргамзаева 10",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310041,wildberries,Wildberries,"село Кочубей, Советская Улица 267а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310103,wildberries,Wildberries,"посёлок городского типа Комсомольский, Советская Улица 19/1",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+310123,wildberries,Wildberries,"Кизляр, Улица Победы 57",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+310180,wildberries,Wildberries,"Махачкала, Улица Бейбулатова 18/1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310202,wildberries,Wildberries,"Каспийск, Улица Буйнакского 86",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310278,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Комсомольская улица, 56",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310419,wildberries,Wildberries,"Махачкала, Улица Джамалутдина Атаева 13",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310471,wildberries,Wildberries,"Буйнакск, Улица Чкалова 2б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310496,wildberries,Wildberries,"село Чиркей, Улица Имама Шамиля 25",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310575,wildberries,Wildberries,"село Верхнее Казанище, Улица Закира Даудова 65а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310581,wildberries,Wildberries,"Махачкала, Улица Магомедтагирова 49а",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+310776,wildberries,Wildberries,"Буйнакск, Микрорайон Дружба 26/2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310786,wildberries,Wildberries,"село Джемикент, Улица С.Д. Курбанова 2а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310799,wildberries,Wildberries,"Махачкала, Улица Лаптиева 72в",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310850,wildberries,Wildberries,"поселок Отделение №2 совхоза Герейханова, Улица Салихова 7",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310886,wildberries,Wildberries,"Буйнакск, Улица Ломоносова 79",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310887,wildberries,Wildberries,"Махачкала, Улица Гоголя 31",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310892,wildberries,Wildberries,"Республика Дагестан, село Нурадилово, улица Дж. Абдулгамидова, 24",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+310933,wildberries,Wildberries,"Республика Дагестан, село Новолакское, 9-я Линия улица, 17",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311022,wildberries,Wildberries,"село Ахты, Улица Кази Магомеда Агасиева 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311032,wildberries,Wildberries,"село Муги, Проспект Сумена Курбанова 141",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311066,wildberries,Wildberries,"Махачкала, Радужная Улица 10а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311082,wildberries,Wildberries,"посёлок городского типа Семендер, Пирамидальная Улица 4",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311135,wildberries,Wildberries,"город Кизилюрт, Улица Гамзата Цадаса 39г",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311258,wildberries,Wildberries,"Республика Дагестан, село Ленинаул, улица Р. Магомедова, 106",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311283,wildberries,Wildberries,"Махачкала, Газпромная Улица 10",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311306,wildberries,Wildberries,"Махачкала, Улица Титова 144к3",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+311387,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Бамовская улица, 95",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311424,wildberries,Wildberries,"Республика Дагестан, село Боташюрт, Шоссейная улица, 4",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311427,wildberries,Wildberries,"Избербаш, Аллея Дружбы Народов 60",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311450,wildberries,Wildberries,"Каспийск, 2-я линия (Каспий СНТ) 102",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311529,wildberries,Wildberries,"село Новомехельта, Советская Улица 20а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311674,wildberries,Wildberries,"Республика Дагестан, село Хапиль, Кольцевая улица, 3",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311699,wildberries,Wildberries,"Республика Дагестан, село Герейхановское, улица Ленина, 13",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311725,wildberries,Wildberries,"село Новый Аул, Шоссейная Улица 12а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311740,wildberries,Wildberries,"Махачкала, Улица Братьев Нурбагандовых 6",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+311747,wildberries,Wildberries,"село Доргели, Улица Шарафутдина 31",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311756,wildberries,Wildberries,"село Ашага-Стал-Казмаляр, 1-Я Шоссейная Улица 4а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+311791,wildberries,Wildberries,"Кизляр, Улица Циолковского 2б",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+311812,wildberries,Wildberries,"село Гильяр, Улица Магамеда Абасова 7",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312027,wildberries,Wildberries,"село Гимры, Улица Имама Шамиля 101",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312039,wildberries,Wildberries,"Республика Дагестан, село Хучни, Цалакская улица, 19А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312089,wildberries,Wildberries,"село Мехельта, Центральная Улица 54",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312112,wildberries,Wildberries,"село Тлох, Улица Имама Шамиля 53а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312181,wildberries,Wildberries,"Республика Дагестан, Буйнакск, улица Наби Ханмурзаева, 21",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312190,wildberries,Wildberries,"село Черняевка, Улица Ленина 33/3",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312221,wildberries,Wildberries,"Махачкала, Улица Ахлакова 11",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312250,wildberries,Wildberries,"Республика Дагестан, Дербент, улица М. Далгата, 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312261,wildberries,Wildberries,"Республика Дагестан, Махачкала, Магарамкентская улица, 15А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312294,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Привокзальная улица, 18",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312368,wildberries,Wildberries,"село Куйсун, Улица Ветеранов 9",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+312375,wildberries,Wildberries,"село Уркарах, Улица С.К. Курбанова 51",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+312451,wildberries,Wildberries,"село Мискинджа, Улица Мирзабека Ахундова 1а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312636,wildberries,Wildberries,"Республика Дагестан, село Рубас, Центральная улица, 18Б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312729,wildberries,Wildberries,"Каспийск, Улица 5-Я Линия 2а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312844,wildberries,Wildberries,"Республика Дагестан, село Гуниб, Гунибская улица, 7",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312848,wildberries,Wildberries,"Махачкала, Улица Гаджи Алибегова 12",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312869,wildberries,Wildberries,"село Усемикент, Улица Казанатова 2",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+312886,wildberries,Wildberries,"село Шумлы-Олик, Улица Раджабова 40",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+312926,wildberries,Wildberries,"Республика Дагестан, Махачкала, улица Маяковского, 89/1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+313011,wildberries,Wildberries,"Республика Дагестан, Махачкала, проспект Имама Шамиля, 95",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+313015,wildberries,Wildberries,"Республика Дагестан, село Хурик, улица Мира, 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+313093,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, Набережная улица, 10",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+313344,wildberries,Wildberries,"Республика Дагестан, Дербент, улица Владимира Ленина, 26",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+313510,wildberries,Wildberries,"Республика Дагестан, село Тотурбийкала, улица Кабардиева, 63",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+313883,wildberries,Wildberries,"Республика Дагестан, село Османюрт, улица Дружбы, 17",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+313902,wildberries,Wildberries,"Республика Дагестан, село Коммуна, Коммунская улица, 118",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+314037,wildberries,Wildberries,"Республика Дагестан, населенный пункт Ибрагимотар, Ибрагимотарская улица, 6",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+314088,wildberries,Wildberries,"Республика Дагестан, Хасавюрт, улица Акаева, 81А",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+314143,wildberries,Wildberries,"Республика Дагестан, село Джульджаг, Отсутствует, 6ш",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+314855,wildberries,Wildberries,"Республика Дагестан, село Большой Бредихин, улица Крупской, 22",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+315219,wildberries,Wildberries,"Республика Дагестан, село Новое Лидже, Заводская улица, 1",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+50000005,wildberries,Wildberries,"Махачкала, 1-Й Сулевкентский Тупик 3",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+50000012,wildberries,Wildberries,"Махачкала, Рельефная Улица 66",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+50000038,wildberries,Wildberries,"село Рахата, Улица Имама Шамиля 50",Botlikhskiy Rayon,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+50000044,wildberries,Wildberries,"село Леваши, Улица Пожарников 4",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+50000126,wildberries,Wildberries,"село Халимбекаул, Улица Атая Абдурагимова 1",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000128,wildberries,Wildberries,"село Гурбуки, Карабудахкентская Улица 19",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000146,wildberries,Wildberries,"Избербаш, Улица Гамидова 61",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000151,wildberries,Wildberries,"Махачкала, 7-Я Дачная Улица 49а",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+50000154,wildberries,Wildberries,"село Эминхюр, Фабричная Улица 18",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+50000160,wildberries,Wildberries,"город Кизилюрт, Улица Гагарина 42",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+50000203,wildberries,Wildberries,"село Гуни, Улица Ахмеда Мансурова 10",,Dagestan,,RU,,,Mo-Su 08:00-20:00,Wildberries,Q24933714
+50000211,wildberries,Wildberries,"село Нижний Кегер, Заводская Улица 119",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000258,wildberries,Wildberries,"село Наскент, Улица Магомеда Ногаева 22",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+50000259,wildberries,Wildberries,"село Эрпели, Улица Имана Шафии 3",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+50000304,wildberries,Wildberries,"село Ахты, Улица Ленина 60б",,Dagestan,,RU,,,Mo-Su 10:00-21:00,Wildberries,Q24933714
+50000363,wildberries,Wildberries,"село Новый Хушет, Улица Гагарина 39",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000374,wildberries,Wildberries,"село Комсомольское, Улица Имама Газимагомеда 91",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000400,wildberries,Wildberries,"Махачкала, Газпромная Улица 15к4",,Dagestan,,RU,,,Mo-Su 09:00-20:00,Wildberries,Q24933714
+50000422,wildberries,Wildberries,"посёлок Белиджи, Улица Загира Арухова 73и",,Dagestan,,RU,,,Mo-Su 09:00-21:00,Wildberries,Q24933714
+50000458,wildberries,Wildberries,"село Костек, Набережная Улица 36",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000473,wildberries,Wildberries,"станица Старогладовская, Улица Ахмата Кадырова 6",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000524,wildberries,Wildberries,"Хасавюрт, Улица Ватутина 27",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000529,wildberries,Wildberries,"Каспийск, Вишнёвая Улица 16",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000535,wildberries,Wildberries,"село Голотль, Улица Максудова 5",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000540,wildberries,Wildberries,"посёлок городского типа Семендер, Дербентская Улица 18а",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000569,wildberries,Wildberries,"Кизляр, Грозненская Улица 95",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000593,wildberries,Wildberries,"село Гурбуки, Школьная Улица 141",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000610,wildberries,Wildberries,"село Байрамаул, Главная Улица 44",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000634,wildberries,Wildberries,"село Краснооктябрьское, Улица Победы 2кв2",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000653,wildberries,Wildberries,"Кизляр, Советская Улица 1",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000663,wildberries,Wildberries,"Махачкала, Убекинская Улица 22а",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000719,wildberries,Wildberries,"село Комсомольское, Улица Кади-Абакарова 23",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000732,wildberries,Wildberries,"село Чирката, Центральная Улица 29",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000768,wildberries,Wildberries,"село Куркент, Улица Ленина 1в",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000870,wildberries,Wildberries,"посёлок городского типа Семендер, Театральная Улица 47/1",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000927,wildberries,Wildberries,"Кизляр, Улица Красина 44б",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000935,wildberries,Wildberries,"село Ашага-Ярак, Улица Мира 3",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50000970,wildberries,Wildberries,"село Новочуртах, Улица А. Тагаева 58",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50001076,wildberries,Wildberries,"Махачкала, 2-Й Полярный Тупик 12",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50001104,wildberries,Wildberries,"садовое общество Новый Параул, Улица Имама Шамиля 130",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50001209,wildberries,Wildberries,"село Кчун-Казмаляр, Школьная Улица 1в",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50001269,wildberries,Wildberries,"село Садовое, Совхозная Улица 11",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50001282,wildberries,Wildberries,"Махачкала, 5-Я Рассветная Улица 2",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50001317,wildberries,Wildberries,"село Аксай, Улица Гамзата Цадасы 6",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714
+50001331,wildberries,Wildberries,"Кизляр, Первомайская Улица 5/1",,Dagestan,,RU,,,Mo-Su 10:00-22:00,Wildberries,Q24933714

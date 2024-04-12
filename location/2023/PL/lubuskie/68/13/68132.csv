@@ -1,0 +1,9 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+7550,abc_pl,abc,,Sanice,lubuskie,,PL,,,,abc,Q11683985
+9712,abc_pl,abc,,Piotrów,lubuskie,,PL,,,,abc,Q11683985
+7541,abc_pl,abc,,Przewóz,lubuskie,,PL,,,,abc,Q11683985
+7545,abc_pl,abc,,Sobolice,lubuskie,,PL,,,,abc,Q11683985
+PIOR02M,paczkomat_inpost_pl,Przy świetlicy,,Piotrów,lubuskie,,PL,,https://inpost.pl/paczkomat-piotrow-pior02m-piotrow-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+PXR01M,paczkomat_inpost_pl,na placu przy Urzędzie,,Przewóz,lubuskie,,PL,,https://inpost.pl/paczkomat-przewoz-pxr01m-plac-partyzantow-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+PXR02M,paczkomat_inpost_pl,przy budynku biblioteki,,Przewóz,lubuskie,,PL,,https://inpost.pl/paczkomat-przewoz-pxr02m-sportowa-paczkomaty-lubuskie,24/7,Paczkomat,Q110970254
+315448,poczta_polska_pl,FUP Gozdnica,,Przewóz,LUBUSKIE,,PL,+48 68 362 32 20,,,Poczta Polska,Q168833

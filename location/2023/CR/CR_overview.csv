@@ -1,0 +1,967 @@
+State,Place Name,City,Establishments
+UNKNOWN,alamo,Cartago,1
+UNKNOWN,alamo,Curridabat,1
+UNKNOWN,alamo,Papagayo,2
+UNKNOWN,alamo,Guancaste,1
+UNKNOWN,alamo,La Cruz,1
+UNKNOWN,alamo,Liberia,4
+UNKNOWN,alamo,San Jose,3
+UNKNOWN,alamo,Paso Canoas,1
+UNKNOWN,alamo,Golfito,2
+UNKNOWN,alamo,Quepos,3
+UNKNOWN,alamo,Tamarindo,3
+UNKNOWN,alamo,Uvita,1
+UNKNOWN,alamo,Jaco,1
+UNKNOWN,alamo,Nosara Beach,2
+UNKNOWN,alamo,Samara Beach,1
+UNKNOWN,alamo,Uruca,1
+UNKNOWN,alamo,La Fortuna,2
+UNKNOWN,alamo,Belen,3
+UNKNOWN,alamo,Mal Pais,1
+UNKNOWN,alamo,Limon,1
+UNKNOWN,alamo,Puerto Viejo,1
+UNKNOWN,alamo,La Asuncion,1
+UNKNOWN,alamo,Palmares,1
+UNKNOWN,alamo,Peninsula De Osa,1
+UNKNOWN,alamo,Playa Hermosa,1
+UNKNOWN,alamo,San Isidro Del General,1
+UNKNOWN,alamo,Ciudad Quesada,1
+UNKNOWN,alamo,La Uruca,1
+UNKNOWN,alamo,Penas Blancas,1
+UNKNOWN,alamo,Puerto Jimenez,1
+UNKNOWN,alamo,Herradura,1
+UNKNOWN,alamo,Lindora,1
+UNKNOWN,alamo,Brasilito,1
+UNKNOWN,alamo,Santa Cruz,1
+UNKNOWN,alamo,Dominical,1
+UNKNOWN,alamo,Guapiles,1
+UNKNOWN,alamo,Carrillo,1
+UNKNOWN,american_eagle_outfitters,San Jose,2
+SJ,ashley_furniture,Piedades de Santa Ana,1
+H,ashley_furniture,Heredia,1
+SANJOSE,audi,San Jose,2
+PANIFICADORABIMBO200MESTE,avis,El Coco,1
+LIBERIAGUANACASTE,avis,Liberia Guanacaste,1
+ALAJUELA,avis,Alajuela,2
+ORO,avis,Jaco,1
+BELEN,avis,Belen,1
+NEXTTONISSANDEALER,avis,Ciudad Quesada,1
+LOCAL2PUNTAARENAS,avis,Domincal,1
+SANJOSE,avis,San Jose,1
+DELAANTIGUAGALERA,avis,San Jose,1
+NEXTTOAUDICENTER,avis,San Jose,1
+SABANANORTE,avis,San Jose,1
+INSIDEMALLNUMBER9,avis,Tamarindo Guanacaste,1
+UNKNOWN,bmw_group,San José,2
+UNKNOWN,bmw_group,"San José, la Uruca",1
+UNKNOWN,bmw_group,San Jose,1
+SANJOSÉ,crunch_fitness,Curridabat,2
+UNKNOWN,deloitte,unknown,1
+UNKNOWN,enterprise,San Jose,6
+UNKNOWN,enterprise,Liberia,4
+UNKNOWN,enterprise,Quepos,3
+UNKNOWN,enterprise,Uvita,1
+UNKNOWN,enterprise,La Fortuna,2
+UNKNOWN,enterprise,Palmares,1
+UNKNOWN,enterprise,Playa Hermosa,1
+UNKNOWN,enterprise,Tamarindo,3
+UNKNOWN,enterprise,Dominical,1
+UNKNOWN,enterprise,Nosara Beach,2
+UNKNOWN,enterprise,Samara Beach,1
+UNKNOWN,enterprise,La Uruca,1
+UNKNOWN,enterprise,Golfito,2
+UNKNOWN,enterprise,Penas Blancas,1
+UNKNOWN,enterprise,Paso Canoas,1
+UNKNOWN,enterprise,Mal Pais,1
+UNKNOWN,enterprise,Herradura Beach,1
+UNKNOWN,enterprise,Limon,1
+UNKNOWN,enterprise,Puerto Viejo,1
+UNKNOWN,enterprise,San Isidro Del General,1
+UNKNOWN,enterprise,Guancaste,1
+UNKNOWN,enterprise,Papagayo,2
+UNKNOWN,enterprise,La Cruz,1
+UNKNOWN,enterprise,Guapiles,1
+UNKNOWN,enterprise,Ciudad Quesada,1
+UNKNOWN,enterprise,Peninsula De Osa,1
+UNKNOWN,enterprise,Brasilito,1
+UNKNOWN,enterprise,Santa Cruz,1
+UNKNOWN,enterprise,Carillo,1
+UNKNOWN,enterprise,La Asuncion,1
+UNKNOWN,enterprise,Uruca,1
+UNKNOWN,enterprise,Puerto Jimenez,1
+UNKNOWN,enterprise,Belen,1
+UNKNOWN,enterprise,Jaco,1
+UNKNOWN,enterprise,Santa Ana,1
+UNKNOWN,enterprise,Curridabat,1
+UNKNOWN,enterprise,Cartago,1
+UNKNOWN,ernst_young,San José,4
+UNKNOWN,express,San Vincente,1
+UNKNOWN,express,Escazu,1
+ALAJUELA,fedex,San Jose,1
+SANJOSE,fedex,San Jose,2
+HEREDIA,fedex,Heredia,2
+CARTAGO,fedex,Cartago,1
+UNKNOWN,goldsgym,San Jose,2
+UNKNOWN,hilton,unknown,8
+UNKNOWN,hm,Unknown,1
+SANJOSE,hooters,unknown,3
+HEREDIA,hooters,unknown,1
+CARTAGO,hooters,unknown,1
+07,hugo_boss,San Jose,2
+07,hugo_boss,Multiplaza Curridabat,1
+UNKNOWN,lhw,La Fortuna,2
+UNKNOWN,man_truck_and_bus,"Garabito, Puntarenas",1
+UNKNOWN,man_truck_and_bus,San José,1
+UNKNOWN,man_truck_and_bus,San Jose,1
+UNKNOWN,marriott,San José,2
+UNKNOWN,marriott,Belen,1
+UNKNOWN,marriott,Escazu,1
+UNKNOWN,marriott,Alajuela,2
+UNKNOWN,marriott,San Jose,3
+UNKNOWN,marriott,Heredia,2
+UNKNOWN,marriott,Herradura,2
+UNKNOWN,maserati,CURRIDABAT,1
+UNKNOWN,mcdonalds_latin_america,Limón,1
+UNKNOWN,mcdonalds_latin_america,Cartago,8
+UNKNOWN,mcdonalds_latin_america,La Unión,1
+UNKNOWN,mcdonalds_latin_america,Curridabat,4
+UNKNOWN,mcdonalds_latin_america,Desamparados,6
+UNKNOWN,mcdonalds_latin_america,San José,15
+UNKNOWN,mcdonalds_latin_america,Montes de Oca,3
+UNKNOWN,mcdonalds_latin_america,Vásquez de Coronado,1
+UNKNOWN,mcdonalds_latin_america,Moravia,2
+UNKNOWN,mcdonalds_latin_america,Goicochea,1
+UNKNOWN,mcdonalds_latin_america,unknown,1
+UNKNOWN,mcdonalds_latin_america,Alajuelita,1
+UNKNOWN,mcdonalds_latin_america,Tibás,1
+UNKNOWN,mcdonalds_latin_america,Santo Domingo,1
+UNKNOWN,mcdonalds_latin_america,Escazú,4
+UNKNOWN,mcdonalds_latin_america,Heredia,6
+UNKNOWN,mcdonalds_latin_america,Santa Ana,1
+UNKNOWN,mcdonalds_latin_america,Belén,2
+UNKNOWN,mcdonalds_latin_america,Alajuela,6
+UNKNOWN,mcdonalds_latin_america,Grecia,1
+UNKNOWN,mcdonalds_latin_america,San Ramón,1
+UNKNOWN,mcdonalds_latin_america,San Carlos,1
+UNKNOWN,mcdonalds_latin_america,Nicoya,1
+UNKNOWN,mcdonalds_latin_america,Liberia,1
+UNKNOWN,michaelkors,San Jose,2
+UNKNOWN,moneygram,GUACIMO,3
+UNKNOWN,moneygram,SAN JOSE,64
+UNKNOWN,moneygram,LIBERIA,5
+UNKNOWN,moneygram,ESPARZA,2
+UNKNOWN,moneygram,TURRIALBA,4
+UNKNOWN,moneygram,PALMARES,4
+UNKNOWN,moneygram,GRECIA,6
+UNKNOWN,moneygram,SIQUIRRES,3
+UNKNOWN,moneygram,HEREDIA,15
+UNKNOWN,moneygram,CORONADO,1
+UNKNOWN,moneygram,MORAVIA,6
+UNKNOWN,moneygram,SAN PEDRO DE MONTES DE OCA,1
+UNKNOWN,moneygram,PAVAS,2
+UNKNOWN,moneygram,LA UNION,6
+UNKNOWN,moneygram,ALAJUELITA,3
+UNKNOWN,moneygram,OROTINA,3
+UNKNOWN,moneygram,ATENAS,2
+UNKNOWN,moneygram,PEREZ ZELEDON,8
+UNKNOWN,moneygram,COTO BRUS,3
+UNKNOWN,moneygram,TALAMANCA,3
+UNKNOWN,moneygram,URUCA,3
+UNKNOWN,moneygram,EL GUARCO,2
+UNKNOWN,moneygram,GARABITO,4
+UNKNOWN,moneygram,LOS CHILES,1
+UNKNOWN,moneygram,CARTAGO,9
+UNKNOWN,moneygram,PUNTARENAS,5
+UNKNOWN,moneygram,CIUDAD NEILY,1
+UNKNOWN,moneygram,CIUDAD QUESADA,3
+UNKNOWN,moneygram,SAN RAMON,7
+UNKNOWN,moneygram,NARANJO,2
+UNKNOWN,moneygram,CURRIDABAT,3
+UNKNOWN,moneygram,POAS,2
+UNKNOWN,moneygram,DESAMPARADOS,7
+UNKNOWN,moneygram,SARCHI,3
+UNKNOWN,moneygram,TIBAS,5
+UNKNOWN,moneygram,GUADALUPE,4
+UNKNOWN,moneygram,HEREDIA CENTRO,3
+UNKNOWN,moneygram,BELEN,5
+UNKNOWN,moneygram,SANTA BARBARA,2
+UNKNOWN,moneygram,SAN JOSE PASEO COLON,1
+UNKNOWN,moneygram,ALAJUELA,23
+UNKNOWN,moneygram,CANAS,2
+UNKNOWN,moneygram,SAN FRANCISCO,1
+UNKNOWN,moneygram,SAN ISIDRO DE PEREZ ZELEDON,3
+UNKNOWN,moneygram,ESCAZU,4
+UNKNOWN,moneygram,MORA,3
+UNKNOWN,moneygram,PURISCAL,3
+UNKNOWN,moneygram,SAN RAFAEL,2
+UNKNOWN,moneygram,SANTA ANA,6
+UNKNOWN,moneygram,POCOSI,1
+UNKNOWN,moneygram,SANTA CRUZ,4
+UNKNOWN,moneygram,AGUAS ZARCAS,2
+UNKNOWN,moneygram,LIMON,4
+UNKNOWN,moneygram,EL ROBLE,2
+UNKNOWN,moneygram,LA CRUZE,1
+UNKNOWN,moneygram,BARREAL,2
+UNKNOWN,moneygram,AGUIRRE,4
+UNKNOWN,moneygram,SARAPIQUI,4
+UNKNOWN,moneygram,LIMON CENTRO,2
+UNKNOWN,moneygram,JACO,1
+UNKNOWN,moneygram,SAN PEDRO,1
+UNKNOWN,moneygram,MATA REDONDA,1
+UNKNOWN,moneygram,LA URUCA,1
+UNKNOWN,moneygram,CARILLO,2
+UNKNOWN,moneygram,PARRITA,2
+UNKNOWN,moneygram,EL COYOL,1
+UNKNOWN,moneygram,HERRADURA,1
+UNKNOWN,moneygram,OJOCHAL,1
+UNKNOWN,moneygram,AGUA ZARCAS,1
+UNKNOWN,moneygram,SAN CARLOS,5
+UNKNOWN,moneygram,BARVA,2
+UNKNOWN,moneygram,SANTO DOMINGO,2
+UNKNOWN,moneygram,QUEPOS,1
+UNKNOWN,moneygram,NOSARA,1
+UNKNOWN,moneygram,CARIARI,1
+UNKNOWN,moneygram,CARRILLO,3
+UNKNOWN,moneygram,ULLOA,1
+UNKNOWN,moneygram,CENTRAL,7
+UNKNOWN,moneygram,CATEDAL,1
+UNKNOWN,moneygram,ACOSTA,1
+UNKNOWN,moneygram,ZAPOTE,1
+UNKNOWN,moneygram,GUAPILES,4
+UNKNOWN,moneygram,GUANACASTE,1
+UNKNOWN,moneygram,PUNTARENA,1
+UNKNOWN,moneygram,SAN MARCOS DE TARRAZU,1
+UNKNOWN,moneygram,BUENOS AIRES,2
+UNKNOWN,moneygram,SAN JOAQUIN DE FLORES,2
+UNKNOWN,moneygram,ZARCERO,3
+UNKNOWN,moneygram,SAN JUANILLO,1
+UNKNOWN,moneygram,LA MERCED,2
+UNKNOWN,moneygram,CUBUJUQUI,1
+UNKNOWN,moneygram,CUIDAD QUESADA,2
+UNKNOWN,moneygram,PARAISO,1
+UNKNOWN,moneygram,MATINA,2
+UNKNOWN,moneygram,CORREDORES,2
+UNKNOWN,moneygram,OSA,3
+UNKNOWN,moneygram,BAGACES,2
+UNKNOWN,moneygram,TILARAN,2
+UNKNOWN,moneygram,ASERRI,1
+UNKNOWN,moneygram,CURRIBADAT,4
+UNKNOWN,moneygram,POCOCI,3
+UNKNOWN,moneygram,ARANJUEZ,1
+UNKNOWN,moneygram,MONTES DE OCA,3
+UNKNOWN,moneygram,SAN RAFAEL DE HEREDIA,1
+UNKNOWN,moneygram,SANTA ROSA DE POCOSOL,1
+UNKNOWN,moneygram,CA?AS,1
+UNKNOWN,moneygram,CUIDADA CARIARI,1
+UNKNOWN,moneygram,LOS ANGELES,1
+UNKNOWN,moneygram,NICOYA,3
+UNKNOWN,moneygram,BARRIO CORDOBA,1
+UNKNOWN,moneygram,GOICOCHEA,2
+UNKNOWN,moneygram,PITAL,1
+UNKNOWN,moneygram,VAZQUEZ DE CORONADO,2
+UNKNOWN,moneygram,BARRIO AMON,1
+UNKNOWN,moneygram,UPALA,1
+UNKNOWN,moneygram,OREAMUNO,1
+UNKNOWN,moneygram,BARRIO SAN JOSE,1
+UNKNOWN,moneygram,SAN RAFAEL DE ALAJUELA,1
+UNKNOWN,moneygram,GOLFITO,2
+UNKNOWN,moneygram,BARRIO LOS ANGELES,1
+UNKNOWN,moneygram,MERCEDES NORTE,1
+UNKNOWN,moneygram,SAN PEDRO MONTES DE OCA,1
+UNKNOWN,moneygram,SAN ISIDRO,1
+UNKNOWN,moneygram,LA CRUZ,2
+UNKNOWN,moneygram,TARRAZU,1
+UNKNOWN,national,San Jose,3
+UNKNOWN,national,La Fortuna,2
+UNKNOWN,national,Tamarindo,3
+UNKNOWN,national,La Uruca,1
+UNKNOWN,national,Jaco,1
+UNKNOWN,national,Liberia,4
+UNKNOWN,national,Nosara Beach,2
+UNKNOWN,national,Samara Beach,1
+UNKNOWN,national,Uvita,1
+UNKNOWN,national,Belen,3
+UNKNOWN,national,Lindora,1
+UNKNOWN,national,Brasilito,1
+UNKNOWN,national,Dominical,1
+UNKNOWN,national,Puerto Jimenez,1
+UNKNOWN,national,Puerto Viejo,1
+UNKNOWN,national,Quepos,3
+UNKNOWN,national,Golfito,2
+UNKNOWN,national,Palmares,1
+UNKNOWN,national,Guancaste,1
+UNKNOWN,national,Papagayo,2
+UNKNOWN,national,Curridabat,1
+UNKNOWN,national,Playa Hermosa,1
+UNKNOWN,national,San Isidro Del General,1
+UNKNOWN,national,Ciudad Quesada,1
+UNKNOWN,national,Penas Blancas,1
+UNKNOWN,national,Uruca,1
+UNKNOWN,national,Herradura,1
+UNKNOWN,national,La Asuncion,1
+UNKNOWN,national,Mal Pais,1
+UNKNOWN,national,Limon,1
+UNKNOWN,national,Santa Cruz,1
+UNKNOWN,national,La Cruz,1
+UNKNOWN,national,Guapiles,1
+UNKNOWN,national,Peninsula De Osa,1
+UNKNOWN,national,Carillo,1
+UNKNOWN,national,Paso Canoas,1
+UNKNOWN,national,Cartago,1
+SANJOSÉ,nissan_europe,San José,1
+SANJOSÉ,nissan_europe,San Pedro de Montes de Oca,1
+HEREDIA,nissan_europe,Heredia,1
+CARTAGO,nissan_europe,Cartago,1
+GUANACASTE,nissan_europe,Liberia,1
+ALAJUELA,nissan_europe,San Carlos,1
+SANJOSÉ,nissan_europe,Moravia,1
+SANJOSÉ,nissan_europe,Pérez Zeledón,1
+LIMÓN,nissan_europe,Guápiles,1
+SANJOSE,nissan_europe,Escazú,1
+SANJOSE,orangetheory_fitness,ESCAZU,1
+SANJOSE,orangetheory_fitness,Curridabat,1
+UNKNOWN,pandora,Zapote,1
+UNKNOWN,pandora,San Jose,3
+UNKNOWN,pandora,Alajuela,1
+SANJOSÉ,sbarro,San José Province,1
+SANJOSE,sbarro,unknown,1
+UNKNOWN,sixt,"Tamarindo, Guanacaste",1
+UNKNOWN,sixt,Cabo Velas,1
+UNKNOWN,sixt,San Isidro de El General,1
+UNKNOWN,sixt,Ciudad Quesada,1
+UNKNOWN,sixt,Jaco,1
+UNKNOWN,sixt,San Jose,2
+UNKNOWN,sixt,Penas Blancas,1
+UNKNOWN,sixt,Guapiles,1
+UNKNOWN,sixt,Alajuela,1
+UNKNOWN,sixt,Liberia,1
+CENTRALAMERICA,the_north_face,SAN JOSE,2
+UNKNOWN,timberland,San Jose,1
+UNKNOWN,totalenergies,Guanacaste,4
+UNKNOWN,totalenergies,San Jose,5
+UNKNOWN,totalenergies,Cartago,2
+UNKNOWN,totalenergies,Heredia,2
+UNKNOWN,totalenergies,Puntarenas,1
+UNKNOWN,totalenergies,Limon,4
+PUNTARENAS,visa,PUNTARENAS,48
+SANJOSE,visa,SAN JOSE,266
+BRIBRI,visa,LIMON,4
+UNKNOWN,visa,LIMON,22
+LIMON,visa,LIMON,40
+LIMON,visa,TALAMANCA,3
+PUERTOVIEJODELIMON,visa,LIMON,2
+CIUDADNEILLY,visa,PUNTARENAS,4
+PUNTARENAS,visa,CORREDORES,2
+PUNTARENAS,visa,LAUREL,1
+LAUREL,visa,PUNTARENAS,2
+PUNTARENAS,visa,COTO BRUS,3
+BNSABALITO,visa,PUNTARENAS,1
+ALAJUELA,visa,SAN RAMON,18
+PUNTARENAS,visa,CIUDAD NEILLY,2
+PUNTARENAS,visa,CIUDAD NEILY,1
+PUNTARENAS,visa,SAN VITO,3
+PUNTARENAS,visa,SAN VITO DE COTO BRUS,1
+SANVITO,visa,PUNTARENAS,2
+BNLIMON,visa,LIMON,1
+SANJOSÉ,visa,LIMÓN,2
+PUNTARENAS,visa,GOLFITO,6
+SANJOSE,visa,UVITA,1
+RIOCLARO,visa,PUNTARENAS,1
+SUBASTAGANADERA,visa,PUNTARENAS,1
+GOLFITO,visa,PUNTARENAS,1
+AGENCIADEGOLFITO,visa,PUNTARENAS,1
+DEPOSITOLIBREDEGOLFITO,visa,PUNTARENAS,1
+UNKNOWN,visa,PUNTARENAS,17
+LIMON,visa,MATINA,3
+PUNTARENAS,visa,CHACARITA,1
+PUERTOJIMENEZ,visa,PUNTARENAS,2
+PUNTARENAS,visa,BUENOS AIRES,3
+BUENOSAIRES,visa,PUNTARENAS,1
+BATAAN,visa,LIMON,1
+AGENCIAPALMARNORTE,visa,PUNTARENAS,3
+PUNTARENAS,visa,PALMAR NORTE,1
+PUNTARENAS,visa,OSA,3
+CIUDADCORTES,visa,PUNTARENAS,1
+LIMON,visa,SIQUIRRES,3
+SUCURSALSIQUIRRES,visa,SAN JOSE,1
+SUCURSALSIQUIRRES,visa,LIMON,3
+LIMON,visa,POCOCI,7
+CARTAGO,visa,CARTAGO,62
+SANJOSE,visa,SAN ISIDRO DEL GENERAL,10
+LIMON,visa,GUACIMO,7
+LASUIZA,visa,CARTAGO,1
+CARTAGO,visa,TURRIALBA,12
+SANJOSE,visa,PEREZ ZELEDON,19
+PALMARESDEPEREZZELEDON,visa,SAN JOSE,1
+TURRIALBA,visa,CARTAGO,4
+GUACIMO,visa,LIMON,3
+SANISIDRODELGENERALPEREZZELEDON,visa,SAN JOSE,4
+UNKNOWN,visa,SAN JOSE,209
+PEREZZELEDON,visa,SAN JOSE,1
+SANJOSE,visa,PUNTARENAS,1
+CAJAAUXILIAR1SANISIDRODELGENERAL,visa,SAN JOSE,1
+LIMON,visa,GUAPILES,9
+PUNTAUVITA,visa,PUNTARENAS,2
+UNKNOWN,visa,ALAJUELA,61
+CARIARI,visa,LIMON,2
+ALAJUELA,visa,ALAJUELA,107
+CARTAGO,visa,JIMENEZ,1
+UNKNOWN,visa,HEREDIA,77
+GUAPILES,visa,POCOCI,1
+GUAPILES,visa,LIMON,4
+CARTAGO,visa,PARAISO,4
+MANTENIMIENTODEATMS,visa,CARTAGO,6
+PACAYAS,visa,CARTAGO,1
+CARTAGO,visa,ALVARADO,2
+CARTAGO,visa,OREAMUNO,2
+PUNTARENAS,visa,COBANO,3
+OROSI,visa,CARTAGO,1
+PARAISO,visa,CARTAGO,3
+OREAMUNO,visa,CARTAGO,3
+UNKNOWN,visa,CARTAGO,24
+RIOFRIO,visa,HEREDIA,3
+HEREDIA,visa,SARAPIQUI,8
+INSTITUTOTECNOLOGICO,visa,CARTAGO,1
+ALAJUELA,visa,CARTAGO,1
+HEREDIA,visa,HEREDIA,96
+SUCURSALDEHEREDIA,visa,HEREDIA,1
+SANJOSE,visa,CARTAGO,3
+SUCURSALCARTAGO,visa,CARTAGO,4
+METROCENTRO,visa,CARTAGO,2
+CCPASEOMETROPOLI,visa,CARTAGO,1
+TEJAR,visa,CARTAGO,3
+CARTAGO,visa,EL GUARCO,2
+CARTAGO,visa,LIMA,1
+SANJOSE,visa,DOTA,1
+SANTAMARIADEDOTA,visa,SAN JOSE,1
+CARTAGO,visa,LA UNION,5
+TRESRIOS,visa,CARTAGO,2
+MANTENIMIENTODEATMS,visa,SAN JOSE,29
+TERRAMALL,visa,SAN JOSE,1
+TERRAMALL,visa,CARTAGO,1
+CARTAGO,visa,TRES RIOS,4
+SANJOSE,visa,SAN MARCOS DE TARRAZU,1
+CONCEPCIONDETRESRIOS,visa,CARTAGO,2
+SANJUANDELAUNION,visa,CARTAGO,1
+SANJOSE,visa,VAZQUEZ DE CORONADO,1
+SANJOSE,visa,VASQUEZ CORONADO,1
+SANJOSE,visa,CORONADO,3
+CORONADO,visa,SAN JOSE,2
+SANJOSE,visa,SAN MARCOS,1
+SANJOSE,visa,CURRIDABAT,21
+TARRAZU,visa,SAN JOSE,3
+SANJOSE,visa,TARRAZU,1
+PUERTOVIEJOSARAPIQUI,visa,HEREDIA,2
+ATMCENTROCOMERCIALCIUDADDELESTE,visa,GUANACASTE,1
+CURRIDABAT,visa,SAN JOSE,3
+SANJOSE,visa,SABANILLA,2
+SANANTONIODECORONADO,visa,SAN JOSE,2
+SANJOSE,visa,MORAVIA,19
+SABANILLA,visa,SAN JOSE,2
+SANJOSE,visa,LEON CORTEZ,1
+SANPABLODELEONCORTES,visa,SAN JOSE,1
+SANJOSE,visa,MONTES DE OCA,8
+CFIA,visa,SAN JOSE,1
+SANJOSÉ,visa,SAN JOSÉ,19
+SANJOSE,visa,GOICOECHEA,7
+PLAZACRISTAL,visa,SAN JOSE,2
+HEREDIA,visa,SAN JOSÉ,2
+SANJOSE,visa,SAN PEDRO,8
+SANJOSE,visa,DESAMPARADOS,25
+SANJOSE,visa,ZAPOTE,5
+SANJOSE,visa,ESCAZU,37
+SANJOSE,visa,GUADALUPE,5
+MORAVIA,visa,SAN JOSE,3
+FRAILES,visa,SAN JOSE,1
+GUADALUPE,visa,SAN JOSE,2
+SANPEDRO,visa,SAN JOSE,3
+UCRSANPEDRO,visa,SAN JOSE,1
+ZAPOTE,visa,SAN JOSE,1
+CONTROLDEOPERACIONESALTERNOSCOA,visa,SAN JOSE,1
+CASAPRESIDENCIALMANTENIMIENTODEATMS,visa,SAN JOSE,1
+SANFRANCISCODEDOSRIOS,visa,SAN JOSE,2
+HEREDIA,visa,SAN ISIDRO,1
+PLAZALINCOLN,visa,SAN JOSE,2
+MALLSANPEDRO,visa,SAN JOSE,2
+HEREDIA,visa,SAN ISIDRO DE HEREDIA,1
+SANISIDRODEHEREDIA,visa,HEREDIA,2
+SANJOSE,visa,SAN FRANCISCO DE DOS RIOS,3
+HEREDIA,visa,SANTO DOMINGO,6
+DESAMPARADOS,visa,SAN JOSE,2
+TOBOSI,visa,CARTAGO,2
+CCGUADALUPE,visa,SAN JOSE,2
+SANJOSE,visa,CALLE BLANCOS,1
+SANJOSE,visa,TIBAS,18
+SANJOSE,visa,ARANJUEZ,1
+MANTENIMIENTODEATMS,visa,HEREDIA,11
+CALLEBLANCOS,visa,SAN JOSE,1
+CCMULTICENTRODESAMPARADOS,visa,SAN JOSE,1
+FUERZAYLUZLAURUCA,visa,SAN JOSE,1
+PODERJUDICIAL,visa,SAN JOSE,1
+AVENIDADIEZ,visa,SAN JOSE,2
+CCDELSUR,visa,SAN JOSE,2
+HOSPITALMETROPOLITANOSANJOSE,visa,SAN JOSE,1
+SANJOSE,visa,SAN FRANCISCO,1
+ALAJUELA,visa,SAN JOSÉ,2
+COOPECAJAMANTENIMIENTODEATMS,visa,SAN JOSE,1
+CATEDRAL,visa,CENTRAL,1
+GUANACASTE,visa,GUANACASTE,14
+SANJOSÉ,visa,PUNTARENAS,3
+PUNTARENAS,visa,SAN JOSÉ,3
+CASONADETIBAS,visa,SAN JOSE,3
+ELCARMEN,visa,CENTRAL,1
+LOBBYNORTEOFICINASCENTRALESSANJOSE,visa,SAN JOSE,1
+LOBBYNORTENUEVOENLATORRE,visa,SAN JOSE,2
+LOBBYSUROFICINACENTRALOFCPRINCIPAL,visa,SAN JOSE,1
+OFICINACENTRALM1,visa,SAN JOSE,1
+LOBBYSUROFICINACENTRAL,visa,SAN JOSE,5
+LOBBYNORTEOFICINASCENTRALES,visa,SAN JOSE,1
+OFICINACENTRALM1SANJOSE,visa,SAN JOSE,1
+CCPLAZAHIGUERONES,visa,SAN JOSE,2
+SANJOSE,visa,ASERRI,6
+HEREDIA,visa,SAN RAFAEL,4
+SANJOSE,visa,PASEO COLON,3
+SANSEBASTIAN,visa,SAN JOSE,1
+SANTODOMINGO,visa,HEREDIA,3
+ASERRI,visa,SAN JOSE,1
+LAURUCA,visa,SAN JOSE,2
+ALAJUELA,visa,SAN JOSE,1
+LASABANA,visa,SAN JOSE,2
+SANJOSE,visa,HATILLO,1
+PLAZAAMERICA,visa,SAN JOSE,2
+SANJOSE,visa,ALAJUELITA,3
+HEREDIA,visa,SAN PABLO DE HEREDIA,1
+ALAJUELITA,visa,SAN JOSE,1
+HEREDIA,visa,SAN PABLO,2
+OFICINACENTRALICESABANA,visa,SAN JOSE,1
+SANJOSE,visa,SABANA NORTE,1
+SANRAFAELHEREDIA,visa,HEREDIA,3
+SANJOSE,visa,URUCA,2
+SANJOSÉ,visa,SABANA,1
+SANJOSE,visa,ROHRMOSER,10
+HATILLO,visa,SAN JOSE,1
+CANAL7MANTENIMIENTODEATMS,visa,SAN JOSE,1
+MALLPASEODELAFLORES,visa,HEREDIA,2
+SANJOSE,visa,PAVAS,6
+HOSPITALMEXICO,visa,SAN JOSE,1
+CAJAAUXILIAR1HEREDIA,visa,HEREDIA,2
+PAVAS,visa,SAN JOSE,1
+AGENCIAPAVAS,visa,SAN JOSE,1
+HEREDIA,visa,BARVA,2
+BARVAHEREDIA,visa,HEREDIA,2
+PUNTARENAS,visa,QUEPOS,8
+PUNTARENAS,visa,AGUIRRE,2
+MERCEDESNORTEDEHEREDIA,visa,HEREDIA,2
+SANFRANCISCO,visa,HEREDIA,1
+PUNTARENAS,visa,MANUEL ANTONIO,1
+HEREDIA,visa,BARBA,1
+SUPERSALON,visa,SAN JOSE,1
+SANRAFAELDEESCAZU,visa,SAN JOSE,1
+ESCAZU,visa,SAN JOSE,1
+LAVIRGEN,visa,HEREDIA,2
+SANJOSE,visa,GUACHIPELIN,1
+AGECIADEMULTIPLAZAVESPESCAZU,visa,SAN JOSE,2
+HEREDIA,visa,FLORES,2
+HEREDIA,visa,BELEN,7
+QUEPOS,visa,PUNTARENAS,1
+SANJOAQUIN,visa,HEREDIA,2
+HEREDIA,visa,BARREAL,1
+ACOSTA,visa,SAN JOSE,2
+HEREDIA,visa,SANTA BARBARA,3
+ALAJUELA,visa,NARANJO,7
+MALLREALCARIARI,visa,HEREDIA,1
+SANJOSE,visa,ACOSTA,1
+SANTABARBARAHEREDIA,visa,HEREDIA,2
+HEREDIA,visa,CARIARI,1
+SANJOSÉ,visa,GUACHIPELÍN,1
+HOTELMARRIOTTHACIENDABELEN,visa,HEREDIA,1
+SANJOSE,visa,SANTA ANA,18
+SANTAANA,visa,SAN JOSE,3
+HEREDIA,visa,SAN ANTONIO,1
+BELEN,visa,HEREDIA,2
+MANTENIMIENTODEATMS,visa,ALAJUELA,5
+SANMIGUELDESARAPIQUI,visa,HEREDIA,1
+SANJOSÉ,visa,HEREDIA,1
+LINDORA,visa,SAN JOSE,2
+ALAJUELA,visa,FRAIJANES,1
+ALAJUELA,visa,SAN RAFAEL,1
+ALAJUELAPROBLEMASDEALARMA,visa,ALAJUELA,1
+CITYMALLMALLALAJUELAVESP,visa,ALAJUELA,2
+CAJAAUXILIA2ALAJUELA,visa,ALAJUELA,2
+POCOCI,visa,LIMON,1
+ESTACIONDEBUSESTUASADEALAJUELA,visa,SAN JOSE,1
+CAJAAUXILIAR1ALAJUELA,visa,ALAJUELA,2
+SANRAFAELALAJUELA,visa,ALAJUELA,2
+SANTARITA,visa,ALAJUELA,1
+GUANACASTE,visa,ALA,1
+ELCOYOL,visa,ALAJUELA,5
+TEJAR,visa,SAN ANTONIO,1
+SANJOSE,visa,CIUDAD COLON,1
+SANJOSE,visa,MORA,4
+CIUDADCOLON,visa,SAN JOSE,2
+ALAJUELA,visa,GRECIA,21
+POASDEALAJUELA,visa,ALAJUELA,3
+ALAJUELA,visa,POAS,4
+ALAJUELA,visa,LA GUACIMA,1
+CENTRAL,visa,ESCAZU,1
+VENECIA,visa,ALAJUELA,2
+ALAJUELA,visa,SAN CARLOS,30
+PITAL,visa,ALAJUELA,2
+ALAJUELA,visa,PITAL,1
+SANJOSE,visa,PURISCAL,4
+GRECIA,visa,ALAJUELA,3
+PURISCAL,visa,SAN JOSE,2
+SUCURSALGRECIA,visa,ALAJUELA,2
+TURRUCARES,visa,ALAJUELA,2
+PUNTARENAS,visa,PARRITA,3
+PARRITA,visa,PUNTARENAS,2
+ALAJUELA,visa,AGUAS ZARCAS,1
+AGUASZARCAS,visa,ALAJUELA,3
+ALAJUELA,visa,SARCHI,2
+AGENCIASARCHINORTE,visa,ALAJUELA,1
+SARCHI,visa,ALAJUELA,1
+ALAJUELA,visa,VALVERDE VEGA,1
+ALAJUELA,visa,ATENAS,4
+ATENAS,visa,ALAJUELA,3
+AGENCIADENARANJO,visa,ALAJUELA,2
+ALAJUELA,visa,ALFARO RUIZ,3
+ALAJUELA,visa,ZARCERO,1
+ALAJUELA,visa,CIUDAD QUESADA,4
+ZARCERO,visa,ALAJUELA,1
+ALAJUELA,visa,PALMARES,7
+CIUDADQUESADA,visa,ALAJUELA,2
+CAJAAUXILIAR1CIUDADQUESADAVESPCENTRODENEGOCIOSDECIUDADQUESADA,visa,ALAJUELA,1
+AGENCIADEPALMARES,visa,ALAJUELA,2
+MUELLEDESANCARLOS,visa,ALAJUELA,1
+SANRAMON,visa,ALAJUELA,1
+SUCURSALDESANRAMON,visa,ALAJUELA,4
+AGENCIALAFLORENCIADESANCARLOS,visa,ALAJUELA,1
+PUNTARENAS,visa,OROTINA,1
+ALAJUELA,visa,OROTINA,5
+ALAJUELA,visa,SAN MATEO,1
+OROTINA,visa,ALAJUELA,3
+SANTAROSADEPOCOSOL,visa,ALAJUELA,2
+ALAJUELA,visa,SANTA ROSA,1
+PUNTARENAS,visa,GARABITO,6
+JACO,visa,PUNTARENAS,3
+HEREDIA,visa,JACO,1
+PLAZAHERRADURA,visa,PUNTARENAS,1
+HEREDIA,visa,HERRADURA,1
+GUANACASTE,visa,LA CRUZ,4
+ALAJUELA,visa,LA FORTUNA,1
+LAFORTUNADESANCARLOS,visa,ALAJUELA,2
+PUNTARENAS,visa,HERRADURA,2
+PUNTARENAS,visa,ESPARZA,4
+GUANACASTE,visa,PUNTARENAS,1
+ESPARZA,visa,PUNTARENAS,2
+ELROBLE,visa,PUNTARENAS,3
+PUNTARENAS,visa,MONTES DE ORO,1
+MIRAMAR,visa,PUNTARENAS,2
+PUNTARENAS,visa,EL ROBLE,2
+LOSCHILES,visa,ALAJUELA,1
+SANTAELENAMONTEVERDE,visa,PUNTARENAS,2
+ALAJUELA,visa,GUATUSO,2
+GUATUSO,visa,ALAJUELA,2
+ARENAL,visa,GUANACASTE,1
+GUANACASTE,visa,ABANGARES,3
+ABANGARES,visa,GUANACASTE,1
+UNKNOWN,visa,GUANACASTE,19
+GUANACASTE,visa,TILARAN,3
+UPALA,visa,ALAJUELA,3
+TILARAN,visa,GUANACASTE,2
+COBANO,visa,PUNTARENAS,5
+PUNTARENAS,visa,GUANACASTE,1
+ALAJUELA,visa,UPALA,4
+BIJAGUA,visa,ALAJUELA,1
+GUANACASTE,visa,CANAS,11
+CANAS,visa,GUANACASTE,1
+MANTENIMIENTODEATMS,visa,GUANACASTE,11
+JICARAL,visa,PUNTARENAS,2
+PLAYACARMEN,visa,PUNTARENAS,1
+AGUASCLARAS,visa,ALAJUELA,1
+FORTUNABAGACES,visa,GUANACASTE,1
+GUANACASTE,visa,BAGACES,3
+GUANACASTE,visa,NANDAYURE,1
+GUANACASTE,visa,NICOYA,11
+CARMONA,visa,GUANACASTE,1
+BAGACES,visa,GUANACASTE,1
+GUANACASTE,visa,LIBERIA,18
+GUANACASTE,visa,HOJANCHA,1
+HOJANCHA,visa,GUANACASTE,1
+ALAJUELA,visa,GUANACASTE,1
+LIBERIA,visa,GUANACASTE,3
+SUCURSALDENICOYA,visa,GUANACASTE,1
+NICOYA,visa,GUANACASTE,3
+PUNTARENAS,visa,NICOYA,1
+SAMARA,visa,GUANACASTE,1
+GUANACASTE,visa,CARRILLO,5
+FILADELFIA,visa,GUANACASTE,2
+GUANACASTE,visa,SANTA CRUZ,22
+SANTACRUZ,visa,GUANACASTE,2
+AGENCIADESANTACRUZ,visa,GUANACASTE,2
+LACRUZ,visa,GUANACASTE,1
+PLAYASDELCOCO,visa,GUANACASTE,1
+FLAMINGO,visa,GUANACASTE,1
+GUANACASTE,visa,TAMARINDO,1
+TAMARINDO,visa,GUANACASTE,1
+ALAJUELA,western_union,Aguas Zarcas,5
+GUANACASTE,western_union,Bagaces,8
+GUANACASTE,western_union,Tilaran,9
+GUANACASTE,western_union,Liberia,26
+HEREDIA,western_union,Sarapiqui,9
+ALAJUELA,western_union,Pital,6
+ALAJUELA,western_union,San Carlos,7
+ALAJUELA,western_union,La Fortuna,4
+ALAJUELA,western_union,Fortuna,2
+ALAJUELA,western_union,Upala,16
+GUANACASTE,western_union,San Roque,2
+SANCARLOS,western_union,Agua Zarcas,2
+GUANACASTE,western_union,Santa Cruz,24
+ALAJUELA,western_union,Santa Rosa,4
+ALAJUELA,western_union,San Rafael De Guatuso,2
+GUANACASTE,western_union,La Cruz,8
+ALAJUELA,western_union,Los Chiles,6
+PUNTARENAS,western_union,Puerto Jimenez,2
+PUNTARENAS,western_union,Golfito,8
+PUNTARENAS,western_union,Osa,6
+PUNTARENAS,western_union,Palmar Norte,2
+CENTRAL,western_union,Golfito,2
+PUNTARENAS,western_union,Uvita,3
+GUANACASTE,western_union,El Coco,2
+GUANACASTE,western_union,Carrillo,10
+GUANACASTE,western_union,Tamarindo,7
+GUANACASTE,western_union,Huacas,2
+GUANACASTE,western_union,Hojancha,6
+GUANACASTE,western_union,Sardinal De Carrillo,2
+GUANACASTE,western_union,Sardinal,2
+GUANACASTE,western_union,Filadelfia,4
+GUANACASTE,western_union,Ca�as,14
+GUANACASTE,western_union,Carillo,2
+GUANACASTE,western_union,Nosara,4
+GUANACASTE,western_union,Nicoya,17
+LIMON,western_union,Guapiles,17
+PUNTARENAS,western_union,Puntarenas,14
+CENTRAL,western_union,Monteverde,2
+SANJOSE,western_union,San Jose,55
+GUANACASTE,western_union,Las Juntas,4
+GUANACASTE,western_union,Samara,2
+LIMON,western_union,Cariari,6
+ALAJUELA,western_union,Florencia,2
+ALAJUELA,western_union,Ciudad Quesada,13
+CENTRAL,western_union,Carrillo,2
+ALAJUELA,western_union,Venecia,4
+CENTRAL,western_union,Cuidad Quesada,2
+GUANACASTE,western_union,Nanduyure,2
+HEREDIA,western_union,Rio Frio,2
+LIMON,western_union,Limon,21
+LIMON,western_union,La Rita,2
+LIMON,western_union,Guacimo,8
+LIMON,western_union,Limoncito,3
+LIMON,western_union,Matina,4
+LIMON,western_union,Jimenez,2
+LIMON,western_union,Pococi,2
+ALAJUELA,western_union,Brisas,1
+LIMON,western_union,Pocora,2
+LIMON,western_union,Siquirres,7
+ALAJUELA,western_union,Zarcero,2
+LIMON,western_union,Venecia,2
+PUNTARENAS,western_union,Jicaral,2
+LIMON,western_union,Batan,2
+ALAJUELA,western_union,San Juan,2
+LIMON,western_union,Puerto Viejo,4
+ALAJUELA,western_union,Fraijanes,2
+ALAJUELA,western_union,Alajuela,41
+PUNTARENAS,western_union,Miramar,2
+ALAJUELA,western_union,San Ramon,16
+ALAJUELA,western_union,Naranjo,10
+CANDELARIA,western_union,Naranjo,2
+ALAJUELA,western_union,Palmares,5
+ALAJUELA,western_union,Grecia,14
+PUNTARENAS,western_union,Chacarita,1
+PUNTARENAS,western_union,Costanera,2
+PUNTARENAS,western_union,El Roble,12
+ALAJUELA,western_union,Sarchi Norte,2
+LIMON,western_union,Grecia,2
+LIMON,western_union,Bribri,1
+PUNTARENAS,western_union,Barranca,3
+ALAJUELA,western_union,Poas,4
+ALAJUELA,western_union,San Pedro De Poas,2
+HEREDIA,western_union,Santa Barbara,13
+CARTAGO,western_union,Turrialba,21
+ALAJUELA,western_union,El Poro,2
+SANTABARBARA,western_union,Santa Barbara,2
+PUNTARENAS,western_union,Esparza,6
+ALAJUELA,western_union,Palmares Centro,1
+ALAJUELA,western_union,Desamparados,2
+HEREDIA,western_union,Barva,8
+GUANACASTE,western_union,Carrillos,2
+ALAJUELA,western_union,Tuetal,2
+HEREDIA,western_union,San Isidro,4
+CENTRAL,western_union,San Rafael,2
+BARVA,western_union,Heredia,2
+ALAJUELA,western_union,El Llano,2
+HEREDIA,western_union,Heredia,30
+ALAJUELA,western_union,Rio Segundo,3
+HEREDIA,western_union,San Pablo,8
+ALAJUELA,western_union,El Coyol,2
+ALAJUELA,western_union,Barrio San Jose,4
+ALAJUELA,western_union,San Jose,1
+HEREDIA,western_union,San Rafael,3
+ALAJUELA,western_union,Las Canas,2
+PUNTARENAS,western_union,Paquera,2
+ALAJUELA,western_union,San Mateo,2
+HEREDIA,western_union,Flores,2
+ALAJUELA,western_union,Atenas,7
+HEREDIA,western_union,Mercedes Norte,2
+HEREDIA,western_union,San Joaquin De Flores,2
+ALAJUELA,western_union,Villa Bonita,2
+HEREDIA,western_union,Mercedes Sur,2
+HEREDIA,western_union,Belen,4
+HEREDIA,western_union,San Miguel,2
+SANJOSE,western_union,Coronado,8
+HEREDIA,western_union,Santo Domingo,10
+HEREDIA,western_union,Paseo De Las Flores,2
+ALAJUELA,western_union,Ciruelas,2
+CENTRAL,western_union,Ulloa,2
+HEREDIA,western_union,Ulloa,2
+ALAJUELA,western_union,San Rafael De Alajuela,2
+PUNTARENAS,western_union,Cobano,4
+HEREDIA,western_union,San Francisco,6
+HEREDIA,western_union,Santa Rosa,2
+ALAJUELA,western_union,Turrucares,2
+ALAJUELA,western_union,San Rafael,4
+SANJOSE,western_union,San Antonio Coronado,2
+HEREDIA,western_union,Lagos,2
+HEREDIA,western_union,Aurora,2
+ALAJUELA,western_union,El Roble,2
+SANJOSE,western_union,Purral,2
+ALAJUELA,western_union,Orotina,8
+SANJOSE,western_union,Tibas,11
+SANJOSE,western_union,San Juan,2
+SANJOS,western_union,Goicohechea,2
+SANJOSE,western_union,Moravia,4
+SANJOSE,western_union,Goicoechea,6
+SANJOSE,western_union,San Vicente,2
+ALAJUELA,western_union,Guacima,2
+SANJOSE,western_union,San Blas,2
+SANJOSE,western_union,Ipis,3
+SANJOSE,western_union,Pavas,16
+SANJOSE,western_union,Cuatro Reinas,2
+SANANTONIO,western_union,Coronado,2
+SANJOSE,western_union,Escazu,14
+SANJOSE,western_union,Vazquez De Coronado,2
+HEREDIA,western_union,Lagunilla,2
+SANJOSE,western_union,Colima,2
+SANJOSE,western_union,Guadalupe,13
+SANJOSE,western_union,Llorente,2
+SANJOSE,western_union,Santa Ana,13
+SANJOSE,western_union,Montes De Oca,12
+SANJOS,western_union,Cinco Esquinas,2
+SANJOSE,western_union,Goicohechea,2
+SANJOSE,western_union,Calle Blancos,2
+SANJOSE,western_union,Mata De Platano,2
+SANJOSE,western_union,Barrio Mexico,1
+SANTAROSA,western_union,Turrialba,2
+SANJOSE,western_union,Lomas Del Rio,2
+CARTAGO,western_union,Juan Vi�as,2
+SANJOSE,western_union,San Pedro,4
+SANJOSE,western_union,Guachipelin,2
+SANJOSE,western_union,La Merded,2
+SANJOSE,western_union,Sabana,2
+SANJOSE,western_union,Rohrmoser,4
+SANJOSE,western_union,Alajuelita,14
+SANJOSE,western_union,Piedades,2
+SANJOSE,western_union,Paseo Colon,4
+SANJOSE,western_union,Granadilla,2
+CARTAGO,western_union,Dulce Nombre,2
+CARTAGO,western_union,Concepcion,2
+CARTAGO,western_union,Tierra Blanca,1
+SANJOSE,western_union,Curridabat,9
+CARTAGO,western_union,La Union,6
+SANJOSE,western_union,La Soledad,2
+SANJOSE,western_union,Castellana,2
+SANJOSE,western_union,Barrio Cuba,2
+SANJOSE,western_union,Plaza Viquez,2
+SANJOSE,western_union,Barrio La Cruz,2
+SANJOSE,western_union,Barrio Lujan,2
+SANJOSE,western_union,Cristo Rey,1
+SANJOSE,western_union,Ciudad Colon,9
+CARTAGO,western_union,Pacayas,2
+SANJOSE,western_union,Merced,2
+SANJOSE,western_union,Lourdes,2
+SANJOSE,western_union,Zapote,4
+SANJOSE,western_union,San Sebastian,6
+SANJOSE,western_union,Cordoba,2
+JOSEMARIAZELEDON,western_union,Curridabat,2
+SANJOSE,western_union,Hatillo,6
+CARTAGO,western_union,Tres Rios,4
+SANJOSE,western_union,La Verbena,2
+ALAJUELA,western_union,San Felipe,2
+SANJOSE,western_union,Desamparados,32
+CARTAGO,western_union,Cervantes,2
+CALLEFALLAS,western_union,Desamparados,2
+SANJOSE,western_union,San Rafael Abajo,2
+SANJOSE,western_union,Fatima,2
+CARTAGO,western_union,Tucurrique,2
+SANJOSE,western_union,Tirrases,2
+SANJOSE,western_union,Paso Ancho,2
+SANJOSE,western_union,Sauces,2
+CARTAGO,western_union,Cot,2
+CARTAGO,western_union,Cartago,31
+ALAJUELA,western_union,Concepcion,2
+CARTAGO,western_union,La Uinion,2
+SANJOSE,western_union,San Antonio,4
+SANJOSE,western_union,El Cruce,1
+SANJOSE,western_union,San Miguel,4
+CARTAGO,western_union,Taras,2
+SANJOSE,western_union,San Rafael Abajo Desamparados,2
+CARTAGO,western_union,Oreamuno,2
+SANJOSE,western_union,San Francisco,3
+SANJOSE,western_union,San Francisco De Dos Rios,2
+CARTAGO,western_union,San Rafael,2
+CENTRAL,western_union,Oreamuno,2
+SANJOSE,western_union,San Juan De Dios,2
+CARTAGO,western_union,Lima,2
+SANJOSE,western_union,Barrio Corazon De Jesus,2
+CARTAGO,western_union,Santiago,2
+SANJOSE,western_union,Aserri,7
+CARTAGO,western_union,Oriental,2
+CARTAGO,western_union,San Diego,2
+CARTAGO,western_union,Los Angeles,2
+CARTAGO,western_union,Tejar,6
+SANJOSE,western_union,Higuito,3
+CARTAGO,western_union,Tejar Del Guarco,1
+CARTAGO,western_union,Paraiso,9
+SANJOSE,western_union,Puriscal,8
+CARTAGO,western_union,El Guarco,2
+CARTAGO,western_union,Aguacaliente,2
+SANJOSE,western_union,Huazo,1
+CABALLOBLANCO,western_union,Oreamuno,2
+SANJOSE,western_union,Vueltas,2
+SANJOSE,western_union,Acosta,2
+CARTAGO,western_union,Guarco,1
+CARTAGO,western_union,Tobosi,2
+CARTAGO,western_union,Pitahaya,2
+CARTAGO,western_union,Santa Lucia,2
+SANJOSE,western_union,Santiago De Puriscal,2
+PUNTARENAS,western_union,Parrita,6
+SANJOSE,western_union,Dota,2
+SANJOSE,western_union,Santa Maria,2
+SANJOSE,western_union,Tarrazu,4
+SANJOSE,western_union,San Marcos,2
+PUNTARENAS,western_union,Jaco,15
+SANJOSE,western_union,Santa Cruz Leon Cortes,2
+PUNTARENAS,western_union,Corredores,7
+PUNTARENAS,western_union,Coto Brus,5
+PUNTARENAS,western_union,San Vito,2
+SANJOSE,western_union,Perez Zeledon,22
+SANJOSE,western_union,San Isidro Del General,11
+PUNTARENAS,western_union,Quepos,8
+CENTRAL,western_union,Prez Zeledon,2
+SANPABLO,western_union,Leon Cortes,2
+SANJOSE,western_union,San Pablo,2
+PUNTARENAS,western_union,Ciudad Neily,6
+PUNTARENAS,western_union,Buenos Aires,6
+PUNTARENAS,western_union,Aguirre,2
+PUNTARENAS,western_union,Rio Claro,4
+PUNTARENAS,western_union,Laurel,2

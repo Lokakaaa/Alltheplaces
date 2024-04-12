@@ -1,0 +1,59 @@
+City,Place Name,Zipcode,Name
+Mexico D.F.,audi,Juan Salvador Agraz No. 60 60 05109 Mexico D.F.,unknown,Audi Center Santa Fé
+Mexico D.F.,audi,Avenida Insurgentes Sur No 1572 1572 03940 Mexico D.F.,unknown,Audi Center Insurgentes
+Mexico D.F.,audi,Periférico Sur No. 3539 3539 10400 Mexico D.F.,unknown,Audi Center Pedregal
+Mexico D.F.,audi,Calle Filadelfia No. 65 65 03800 Mexico D.F.,unknown,Service Center Filadelfia
+Mexico D.F.,audi,Calzada del Hueso No. 859 859 14300 Mexico D.F.,unknown,Audi Center Coapa
+Ciudad de México,audi,Av. Presidente Masaryk Esquina Galileo No 66 66 11550 Ciudad de México,unknown,Audi Center Masaryk
+Mexico City,avis,,unknown,Avis Mexico Mexico City
+unknown,google_offices,"Google Mexico S. de R.L. de C.V.
+Montes Urales 445
+Lomas de Chapultepec
+Mexico City 11000 Mexico",unknown,Mexico City
+unknown,hooters,Eje 1 Nte. 259 Buenavista Cuauhtémoc Ciudad de México CDMX 06350 Mexico,unknown,Hooters
+unknown,hooters,Avenida Universidad 734 Benito Juarez Mexico City 3650 Mexico,unknown,Hooters
+unknown,hooters,Loc. L-A Av Moliere 353 Polanco III Secc Miguel Hidalgo Ciudad de México 11550 Mexico,unknown,Hooters
+Iztacalco,hooters,Canal Río Churubusco 1635 Área Federal Central de Abastos Iztapalapa Ciudad de México 09040 Mexico,unknown,Hooters
+unknown,hooters,Avenida Universidad 1778 Loc R09 TR09 Mexico D.F. 4360 Mexico,unknown,Hooters
+unknown,hooters,L-40 Londres 127 Juárez Cuauhtémoc Ciudad de México CDMX 06600 Mexico,unknown,Hooters
+unknown,hooters,Rio Lerma #230 Colonia Cauhtemoc Mexico D.F 06500 Mexico City Me 6500 Mexico,unknown,Hooters
+unknown,hooters,Insurgentes Sur #2018 Col. San Angel Mexico City 1050 Mexico,unknown,Hooters
+unknown,hooters,Ave. Insurgentes Sur 826 Col. Del Valle Delegation Benito Juarez Mexico D.F. 3100 Mexico,unknown,Hooters
+unknown,hooters,Canal de Miramontes #3155 Colonia El Vergel Delegacion Tlalpan Tlalpan 14320 Mexico,unknown,Hooters
+unknown,hooters,Jardines del Pedregal Álvaro Obregón Mexico City 01900 Mexico,unknown,Hooters
+unknown,hooters,alz Acoxpa 430 Coapa Vergel del Sur Tlalpan Ciudad de México CDMX 14340 Mexico,unknown,Hooters
+CDMX,little_free_library,,unknown,The Free Library @ JEEB #173889 CDMX Mexico City
+México,mercedes_benz,,unknown,"Automotriz Hermer, S.A. de C.V."
+unknown,meta,,unknown,Meta
+unknown,quest_diagnostics,Avenida de las Fuentes 550 Local 13 Col. Jardines del Pedregal Álvaro Obregón C.P. 01900,unknown,Mexico City -Suroeste (Southwest)  Pedregal
+unknown,quest_diagnostics,Montecito No. 38 Col. Nápoles Torre WTC Planta Baja Local 4 Benito Juárez  C.P. 03810,unknown,Mexico City- Zona Centro (Central) - WTC
+unknown,quest_diagnostics,Dr. José Ma. Vértiz No. 1048 Col. Vértiz Narvarte Benito Juárez C.P. 03630,unknown,Mexico City- Zona Centro (Central) - Vértiz
+unknown,quest_diagnostics,Frontera No. 4 Esq. Av. Chapultepec Col. Roma Cuauhtémoc  C.P. 06700,unknown,Mexico City- Zona Centro (Central) - Roma Frontera
+unknown,quest_diagnostics,Porfirio Díaz No. 69-B Col. Noche Buena Benito Juárez C.P. 03720,unknown,Mexico City- Zona Centro (Central) - Parque Hundido
+unknown,quest_diagnostics,Av. Universidad No. 767 Local L-01 Col. Del Valle Sur Benito Juárez C.P. 03100,unknown,Mexico City- Zona Centro (Central) - Del Valle
+unknown,quest_diagnostics,Calzada de Tlalpan No. 4697 Toriello Guerra C.P. 14050,unknown,Mexico City -Zona Sur (South) - Zona de Hospitales
+unknown,quest_diagnostics,Avenida H. Esc. Naval Militar No. 754 Col. Ex-Hda. Coapa Plaza Premier Local 12 y 13 Tlalpan C.P. 04890,unknown,Mexico City- Zona Sur (South) - Villa Coapa
+unknown,quest_diagnostics,América No. 5 Col. Parque San Andrés Locales 1 y 2 Coyoacán C.P. 04040,unknown,Mexico City- Zona Sur (South) - Taxqueña
+unknown,quest_diagnostics,Insurgentes Sur No.2110 Col. Chimalistac Álvaro Obregón C.P. 01000,unknown,Mexico City- Zona Sur (South) - San Ángel
+unknown,quest_diagnostics,Insurgentes Sur No. 1377 Esq. Algeciras (Parroquia del otro lado de Insurgentes) Col. Insurgentes Mixcoac Locales E y F Benito Juárez C.P. 03920,unknown,Mexico City -Zona Sur (South) - Parroquia
+unknown,quest_diagnostics,Calz. del Hueso No. 503 Plaza Fiesta Coapa Loc. 6-D Col. Los Girasoles Coyoacán  C.P. 04920,unknown,Mexico City-Zona Sur (South) - Miramontes
+unknown,quest_diagnostics,Miguel Ángel de Quevedo No. 448 Col. Santa María Catarina Coyoacán C.P. 04000,unknown,Mexico City-Zona Sur (South) - Miguel Ángel de Quevedo
+unknown,quest_diagnostics,Insurgentes Sur No. 4342 Local 6-A Col. La Joya Tlalpan  C.P. 14090,unknown,Mexico City-Zona Sur (South) -   La Joya
+unknown,quest_diagnostics,Fco. del Paso y Troncoso No.109-A Col. Jardín Balbuena Venustiano Carranza C.P. 15900,unknown,Mexico City-Zona Oriente (East) - Balbuena Troncoso
+unknown,quest_diagnostics,Avenida Prado Norte No. 530 Col. Lomas De Chapultepec V Sección. Miguel Hidalgo  C.P. 11000,unknown,Mexico City - Zona Poniente (West) Prado Norte
+unknown,quest_diagnostics,Plaza Zentrika Local 12 Lateral Autopista México Toluca No. 1235 Col. Lomas de Santa Fe Cuajimalpa  C.P. 05300,unknown,Mexico City-Zona Poniente (West) - Zentrika
+unknown,quest_diagnostics,Av. Ejército Nacional No. 989 letra A Col. Irrigación Miguel Hidalgo  C.P. 11500,unknown,Mexico City-Zona Poniente (West) - Polanco
+unknown,quest_diagnostics,Frontera No. 4 Col. Roma Cuahtémoc  C.P. 06700,unknown,Mexico City- Zona Centro (Central) - Roma Frontera
+unknown,quest_diagnostics,World Trade Center 9th Floor Office 19 Col. Nápoles Benito Juarez C.P. 03810,unknown,Mexico City- Zona Centro (Central) - WTC
+unknown,quest_diagnostics,Frontera No. 4 Colonia Roma Cuauhtémoc C.P. 06700,unknown,Quest Diagnostics Mexico Central Lab
+unknown,quest_diagnostics,World Trade Center 9th Floor Office 19 Colonia Nápoles Benito Juarez D.F.C.P. 03810,unknown,Quest Diagnostics Mexico Administrative Offices
+CIUDAD DE MÉXICO,sbarro,Blv. Adolfo Ruiz Cortines #4300 Local F210 Fraccionamiento,unknown,Sb Andamar
+MEXICO DELEGACION VENUSTIANO CARRANZA CP,sbarro,AVENIDA CAPITAN CARLOS LEON S/N POST SECRUITY,unknown,Aeropuerto De La Cuidad De Mexico T1 Post-Security
+"MEXICO CITY, DELEGACION VENUSTIANO CARRANZA CP",sbarro,AVENIDA CAPTIAN CARLOS LEON S/N POST SECRUITY,unknown,Aeropuerto De La Ciudad De Mexico T1 Post Security
+unknown,shake_shack,Av. Ejercito Nacional No. 769 Colonia Granada Delegación Miguel Hidalgo Conjunto Polanco Torre F-G local L12.; Mexico,unknown,"Mexico City, Miyana"
+unknown,shake_shack,Durango 205 Colonia Roma Norte CP 06700 Cuauhtémoc; Cd. de México. Local 2   Mexico,unknown,"Mexico City, Roma Cibeles"
+unknown,shake_shack,Av. Insurgentes Sur 866 Colonia del Valle 03100; Ciudad de México   Mexico,unknown,"Mexico City, Colonia del Valle"
+unknown,shake_shack,Calzada Acoxpa No. 610; Col. Coapa Alcaldía Tlalpan CP. 14390 CDMX.; Local R-09   Mexico,unknown,"Mexico City, Terraza Coapa"
+unknown,shake_shack,Paseo de Los Tamarindos 90 local PB-45; Bosques de las Lomas Cuajimalpa de Morelos C.P.; 11520 Ciudad de México   Mexico,unknown,"Mexico City, Arcos Bosques"
+unknown,shake_shack,Av. Paseo de la Reforma No. 333 Cuauhtémoc; 06500 Ciudad de México CDMX   Mexico,unknown,"Mexico City, Reforma"
+México,smart,,unknown,"Automotriz Hermer, S.A. de C.V."

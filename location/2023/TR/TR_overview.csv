@@ -1,0 +1,4029 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,72
+UNKNOWN,adidas,Istanbul,2
+34,adidas,İstanbul,14
+35,adidas,Izmir,3
+34,adidas,Istanbul,6
+41,adidas,Kocaeli,2
+09,adidas,Aydın,2
+06,adidas,Ankara,4
+03,adidas,Afyon,1
+34,adidas,istanbul,6
+07,adidas,Antalya,1
+UNKNOWN,alamo,Denizli,1
+UNKNOWN,alamo,Ankara,2
+UNKNOWN,alamo,Ordu,1
+UNKNOWN,alamo,Nevsehir,1
+UNKNOWN,alamo,Sanliurfa,1
+UNKNOWN,alamo,Mugla,2
+UNKNOWN,alamo,Diyarbakir,1
+UNKNOWN,alamo,Samsun,1
+UNKNOWN,alamo,Van,1
+UNKNOWN,alamo,Istanbul,3
+UNKNOWN,alamo,Antalya,3
+UNKNOWN,alamo,Izmir,2
+UNKNOWN,alamo,Adana,2
+UNKNOWN,alamo,Batman,1
+UNKNOWN,alamo,Erzurum,1
+UNKNOWN,alamo,Gaziantep,2
+UNKNOWN,alamo,Hatay,1
+UNKNOWN,alamo,Mardin,1
+UNKNOWN,alamo,Trabzon,1
+UNKNOWN,alamo,Konya,1
+UNKNOWN,alamo,Kayseri,1
+ISTANBUL,alstom,unknown,2
+ANKARA,alstom,unknown,1
+İSTANBUL,apple,Beşiktaş İstanbul,1
+İSTANBUL,apple,Kadıköy İstanbul,1
+İSTANBUL,apple,Üsküdar İstanbul,1
+06,ashley_furniture,Yenimahalle/Ankar,1
+34,ashley_furniture,Basaksehir,1
+16,ashley_furniture,Nilufer,1
+ADANA,audi,Adana,2
+ANKARA,audi,Ankara,3
+ANTALYA,audi,Antalya,2
+AYDIN,audi,Aydın,1
+BURSA,audi,Bursa,1
+CANAKKALE,audi,Çanakkale,1
+CORUM,audi,Çorum,1
+DENIZLI,audi,Denizli,2
+DIYARBAKIR,audi,Diyarbakır,1
+EDIRNE,audi,Edirne ,1
+ERZURUM,audi,Erzurum,1
+ESKISEHIR,audi,Eskişehir,1
+GAZIANTEP,audi,Gaziantep,1
+GAZIANTEP,audi,GAZIANTEP,1
+HATAY,audi,HATAY,1
+ISPARTA,audi,Isparta,1
+MERSIN,audi,Mersin,1
+ISTANBUL,audi,Istanbul,6
+ISTANBUL,audi,ISTANBUL,1
+IZMIR,audi,Izmir,2
+IZMIR,audi,IZMIR,1
+KAYSERI,audi,Kayseri,1
+KOCAELI,audi,Kocaeli,1
+KONYA,audi,Konya,1
+MALATYA,audi,Malatya,1
+MARDIN,audi,MARDIN,1
+MARDIN,audi,Mardin,1
+MUGLA,audi,Muğla,2
+SAKARYA,audi,Sakarya,2
+SAMSUN,audi,Samsun,1
+TEKIRDAG,audi,Tekirdağ,1
+TRABZON,audi,Trabzon,2
+SANLIURFA,audi,Şanlıurfa,1
+ZONGULDAK,audi,Zonguldak,1
+OSMANIYE,audi,Osmaniye,1
+UNKNOWN,aveda,İSTANBUL,1
+06,aveda,ANKARA,2
+34,aveda,İSTANBUL,2
+34,aveda,ISTANBUL,1
+HACERAPT1451AFENERYOLU,avis,Istanbul,1
+AYDINEVLERMAH,avis,Istanbul,1
+TRABZON,avis,Trabzon,1
+ISTANBUL,avis,Istanbul,3
+MIGROSKARSMELEKAPTNO99B,avis,Yalova,1
+SIVAS,avis,Sivas,2
+ESKISEHIR,avis,Eskisehir,1
+59850CORLUTEKIRDAG,avis,Tekirdag,1
+BEYLINKDUZUBARISMAH,avis,Istanbul,1
+CDNO1ARNAVUTKOY,avis,Istanbul,1
+YBEYAZIDCD,avis,Istanbul,1
+NO7CIZRE,avis,Sirnak,1
+YUREKAPARTMANI,avis,Sirnak,1
+YENMAHYANIAUTOWAX,avis,Siirt,1
+BELEKSERIK,avis,Antalya,1
+SANLIUFRA,avis,Sanliufra,1
+REFAHAPTNO12A,avis,Sanliurfa,1
+NO36ATAKUMSAMSUN,avis,Samsun,1
+BALTURKOTELALTIADAPAZARI,avis,Sakarya,1
+RIZE,avis,Rize,1
+ORDUGIRESUNHAVALIMANI,avis,Ordu,1
+ICHATLARGELENYOLCUSALONU,avis,Nevsehir,1
+DALAMANMUGLA,avis,Dalaman Mugla,1
+NILUFERBURSA,avis,Bursa,1
+BODRUM,avis,Bodrum,2
+ARMUTALAN,avis,Marmaris,1
+LALESANSITESIKARSISINO17,avis,Nevsehir,1
+MERMERDELENMAH,avis,Rize,1
+SAMSUN,avis,Samsun,1
+ANTALYA,avis,Antalya,1
+WATERGARDEN,avis,Istanbul,1
+FATIHSKNO1,avis,Istanbul,1
+ZINCIRLIKUYU,avis,Sisli Istanbul,1
+AMASYA,avis,Merzifon,1
+ELIBOLAPT240ASILIFKEMER,avis,Mersin,1
+SITESIBBLOKNO11DYENI,avis,Mersin,1
+MALATYA,avis,Malatya,1
+FAHRIKAYAHANBULVARINO15,avis,Malatya,1
+KONYA,avis,Konya,1
+KAYSERI,avis,Kayseri,1
+MARDIN,avis,Mardin,2
+ESKISANBOLGESI6CDNO1,avis,Kocasinan,1
+FERITPASAMAHALLESIRIDVANSK,avis,Konya,1
+2BLOKZ03ALSANCAK,avis,Izmir,1
+KARS,avis,Kars,1
+SEMAOTOAS164A,avis,Kars,1
+IZMIT,avis,Izmit,1
+IZMIR,avis,Izmir,1
+BORNOVA,avis,Izmir,1
+LALEIMAHALLESI,avis,Manisa,1
+HATAY,avis,Hatay,1
+GUNAYISMERKEZIGUZELBURC,avis,Antakya,1
+ANKARA,avis,Ankara,1
+GAZIANTEP,avis,Gaziantep,1
+FETHIYE,avis,Fethiye,1
+NO224H11ATLANTISAVM,avis,Ankara,1
+ERZURUM,avis,Erzurum,1
+ERZINCAN,avis,Erzincan,1
+YENIMAHALLEBIRMOT,avis,Ankara,1
+MERKEZ,avis,Diyarbakir,1
+KAYALIKCADNO9,avis,Denizli,1
+SOGUTOZU,avis,Ankara,1
+CORUM,avis,Corum,1
+NO31MERKEZ,avis,Canakkale,1
+MUGLA,avis,Bodrum,1
+BEDRITUGCADBBLOK3B,avis,Bingol,1
+BALIKESIR,avis,Balikesir,1
+GUZELHISARMAHALLESI,avis,Aydin,1
+AKAYISHANINO32B,avis,Artvin,1
+AYVALIKSETURMARINANO611,avis,Balikesir,1
+NO216MERKEZ,avis,Aksaray,1
+ADIYAMAN,avis,Adiyaman,1
+ADANA,avis,Adana,1
+FORDPLAZAADIYAMANMERKEZ,avis,Adiyaman,1
+RUYAOTOPARKLARISARPARTVIN,avis,Rize,1
+YATLIMANINO101AT,avis,Aydin,1
+UNKNOWN,bmw_group,Istanbul,14
+UNKNOWN,bmw_group,Ankara,4
+UNKNOWN,bmw_group,Izmir,3
+UNKNOWN,bmw_group,ANKARA,1
+UNKNOWN,bmw_group,Diyarbakir,1
+UNKNOWN,bmw_group,Mersin,1
+UNKNOWN,bmw_group,Kayseri,2
+UNKNOWN,bmw_group,BURSA,1
+UNKNOWN,bmw_group,Denizli,2
+UNKNOWN,bmw_group,SAKARYA,1
+UNKNOWN,bmw_group,Karatay-Konya,1
+UNKNOWN,bmw_group,Lefkosa (Zypern-Nord),1
+UNKNOWN,bmw_group,Trabzon,2
+UNKNOWN,bmw_group,Tekirdag,1
+UNKNOWN,bmw_group,Samsun - Türkiye,1
+UNKNOWN,bmw_group,Adapazari,1
+UNKNOWN,bmw_group,Mugla,3
+UNKNOWN,bmw_group,Manisa,1
+UNKNOWN,bmw_group,Antep,1
+UNKNOWN,bmw_group,Kocaeli,1
+UNKNOWN,bmw_group,Antalya,1
+UNKNOWN,bmw_group,Eskisehir,1
+UNKNOWN,bmw_group,Bursa,3
+UNKNOWN,bmw_group,Erzurum,1
+UNKNOWN,bmw_group,Gaziantep,1
+UNKNOWN,bmw_group,SANLIURFA,1
+BODRUM,botteg_aveneta,Bodrum,1
+ISTANBUL,botteg_aveneta,Istanbul,2
+UNKNOWN,bp,MANISA,22
+UNKNOWN,bp,IZMIR,45
+UNKNOWN,bp,DENIZLI,20
+UNKNOWN,bp,AYDIN,14
+UNKNOWN,bp,USAK,4
+UNKNOWN,bp,KUTAHYA,8
+UNKNOWN,bp,ANKARA,45
+UNKNOWN,bp,KIRSEHIR,2
+UNKNOWN,bp,KONYA,37
+UNKNOWN,bp,AKSARAY,5
+UNKNOWN,bp,KIRIKKALE,3
+UNKNOWN,bp,NEVSEHIR,1
+UNKNOWN,bp,KARABUK,1
+UNKNOWN,bp,BARTIN,1
+UNKNOWN,bp,ZONGULDAK,3
+UNKNOWN,bp,BOLU,6
+UNKNOWN,bp,KASTAMONU,4
+UNKNOWN,bp,CANKIRI,1
+UNKNOWN,bp,ANTALYA,48
+UNKNOWN,bp,BURDUR,5
+UNKNOWN,bp,ISPARTA,3
+UNKNOWN,bp,AFYON,14
+UNKNOWN,bp,BITLIS,1
+UNKNOWN,bp,SIIRT,1
+UNKNOWN,bp,MUS,1
+UNKNOWN,bp,VAN,2
+UNKNOWN,bp,BATMAN,3
+UNKNOWN,bp,SIRNAK,1
+UNKNOWN,bp,AGRI,2
+UNKNOWN,bp,BINGOL,1
+UNKNOWN,bp,ERZURUM,5
+UNKNOWN,bp,DIYARBAKIR,9
+UNKNOWN,bp,MARDIN,3
+UNKNOWN,bp,KARS,3
+UNKNOWN,bp,ELAZIG,7
+UNKNOWN,bp,HAKKARI,1
+UNKNOWN,bp,TUNCELI,1
+UNKNOWN,bp,ERZINCAN,1
+UNKNOWN,bp,RIZE,1
+UNKNOWN,bp,GUMUSHANE,1
+UNKNOWN,bp,TRABZON,3
+UNKNOWN,bp,SANLIURFA,2
+UNKNOWN,bp,MALATYA,2
+UNKNOWN,bp,SAMSUN,8
+UNKNOWN,bp,AMASYA,3
+UNKNOWN,bp,ORDU,7
+UNKNOWN,bp,TOKAT,2
+UNKNOWN,bp,SINOP,3
+UNKNOWN,bp,CORUM,3
+UNKNOWN,bp,GIRESUN,3
+UNKNOWN,bp,SIVAS,5
+UNKNOWN,bp,YOZGAT,1
+UNKNOWN,bp,KAYSERI,16
+UNKNOWN,bp,ESKISEHIR,14
+UNKNOWN,bp,BILECIK,3
+UNKNOWN,bp,BURSA,32
+UNKNOWN,bp,SAKARYA,10
+UNKNOWN,bp,CANAKKALE,10
+UNKNOWN,bp,BALIKESIR,16
+UNKNOWN,bp,EDIRNE,7
+UNKNOWN,bp,TEKIRDAG,18
+UNKNOWN,bp,ICEL,20
+UNKNOWN,bp,ADANA,25
+UNKNOWN,bp,NIGDE,3
+UNKNOWN,bp,HATAY,13
+UNKNOWN,bp,OSMANIYE,4
+UNKNOWN,bp,KILIS,1
+UNKNOWN,bp,GAZIANTEP,11
+UNKNOWN,bp,KMARAS,10
+UNKNOWN,bp,ISTANBUL,98
+UNKNOWN,bp,MUGLA,29
+UNKNOWN,bp,KOCAELI,23
+UNKNOWN,bp,YALOVA,7
+UNKNOWN,bp,KARAMAN,1
+UNKNOWN,bp,ADIYAMAN,3
+UNKNOWN,bp,KIRKLARELI,8
+UNKNOWN,bp,DUZCE,6
+BAĞCILAR,burger_king_tr,İstanbul Avrupa,8
+ÇANKAYA,burger_king_tr,Ankara,27
+SEYHAN,burger_king_tr,Adana,8
+YÜREĞIR,burger_king_tr,Adana,3
+ÇUKUROVA,burger_king_tr,Adana,4
+ADAPAZARI,burger_king_tr,Sakarya,6
+MERKEZ,burger_king_tr,Afyonkarahisar,3
+BALÇOVA,burger_king_tr,İzmir,4
+BAKIRKÖY,burger_king_tr,İstanbul Avrupa,12
+ESENYURT,burger_king_tr,İstanbul Avrupa,7
+BEŞIKTAŞ,burger_king_tr,İstanbul Avrupa,8
+ALANYA,burger_king_tr,Antalya,9
+MURATPAŞA,burger_king_tr,Antalya,15
+BEYKOZ,burger_king_tr,İstanbul Asya,2
+OSMANGAZI,burger_king_tr,Bursa,9
+YENIMAHALLE,burger_king_tr,Ankara,9
+KEÇIÖREN,burger_king_tr,Ankara,5
+AKYURT,burger_king_tr,Ankara,1
+ETIMESGUT,burger_king_tr,Ankara,8
+KEPEZ,burger_king_tr,Antalya,4
+KÜÇÜKÇEKMECE,burger_king_tr,İstanbul Avrupa,8
+HOPA,burger_king_tr,Artvin,1
+KADIKÖY,burger_king_tr,İstanbul Asya,10
+BÜYÜKÇEKMECE,burger_king_tr,İstanbul Avrupa,7
+AVCILAR,burger_king_tr,İstanbul Avrupa,4
+EFELER,burger_king_tr,Aydın,2
+BANDIRMA,burger_king_tr,Balıkesir,2
+BAŞAKŞEHIR,burger_king_tr,İstanbul Avrupa,7
+MERKEZ,burger_king_tr,Batman,3
+İZMIT,burger_king_tr,Kocaeli,10
+BEYLIKDÜZÜ,burger_king_tr,İstanbul Avrupa,8
+BODRUM,burger_king_tr,Muğla,6
+MERKEZ,burger_king_tr,Bolu,4
+BORNOVA,burger_king_tr,İzmir,7
+ÜMRANIYE,burger_king_tr,İstanbul Asya,12
+NILÜFER,burger_king_tr,Bursa,8
+ÜSKÜDAR,burger_king_tr,İstanbul Asya,8
+ATAŞEHIR,burger_king_tr,İstanbul Asya,7
+ŞIŞLI,burger_king_tr,İstanbul Avrupa,8
+MERKEZ,burger_king_tr,Çanakkale,4
+ÇEKMEKÖY,burger_king_tr,İstanbul Asya,4
+ÇERKEZKÖY,burger_king_tr,Tekirdağ,3
+ÇEŞME,burger_king_tr,İzmir,1
+GÜNGÖREN,burger_king_tr,İstanbul Avrupa,3
+ÇORLU,burger_king_tr,Tekirdağ,4
+PAMUKKALE,burger_king_tr,Denizli,3
+DERINCE,burger_king_tr,Kocaeli,1
+YENIŞEHIR,burger_king_tr,Diyarbakır,3
+EREĞLI,burger_king_tr,Zonguldak,3
+ESENLER,burger_king_tr,İstanbul Avrupa,1
+ODUNPAZARI,burger_king_tr,Eskişehir,1
+TEPEBAŞI,burger_king_tr,Eskişehir,5
+EYÜPSULTAN,burger_king_tr,İstanbul Avrupa,8
+FETHIYE,burger_king_tr,Muğla,3
+ŞEHITKAMIL,burger_king_tr,Gaziantep,7
+ŞAHINBEY,burger_king_tr,Gaziantep,3
+GAZIOSMANPAŞA,burger_king_tr,İstanbul Avrupa,3
+GEBZE,burger_king_tr,Kocaeli,4
+FATIH,burger_king_tr,İstanbul Avrupa,8
+İSKENDERUN,burger_king_tr,Hatay,2
+MERKEZ,burger_king_tr,Isparta,5
+İNEGÖL,burger_king_tr,Bursa,1
+BAYRAMPAŞA,burger_king_tr,İstanbul Avrupa,5
+SARIYER,burger_king_tr,İstanbul Avrupa,8
+GAZIEMIR,burger_king_tr,İzmir,4
+BUCA,burger_king_tr,İzmir,5
+KARŞIYAKA,burger_king_tr,İzmir,4
+KONAK,burger_king_tr,İzmir,9
+GÖLCÜK,burger_king_tr,Kocaeli,1
+BAHÇELIEVLER,burger_king_tr,İstanbul Avrupa,6
+KARTAL,burger_king_tr,İstanbul Asya,6
+MELIKGAZI,burger_king_tr,Kayseri,6
+KEMER,burger_king_tr,Antalya,1
+SELÇUKLU,burger_king_tr,Konya,6
+EREĞLI,burger_king_tr,Konya,1
+PENDIK,burger_king_tr,İstanbul Asya,12
+MERKEZ,burger_king_tr,Kütahya,2
+KAĞITHANE,burger_king_tr,İstanbul Avrupa,5
+YEŞILYURT,burger_king_tr,Malatya,2
+MANAVGAT,burger_king_tr,Antalya,3
+ŞEHZADELER,burger_king_tr,Manisa,3
+YENIŞEHIR,burger_king_tr,Mersin,7
+MERKEZ,burger_king_tr,Nevşehir,3
+ZEYTINBURNU,burger_king_tr,İstanbul Avrupa,2
+SALIHLI,burger_king_tr,Manisa,2
+ATAKUM,burger_king_tr,Samsun,3
+SILIVRI,burger_king_tr,İstanbul Avrupa,2
+MERKEZ,burger_king_tr,Sivas,2
+SULTANBEYLI,burger_king_tr,İstanbul Asya,3
+MALTEPE,burger_king_tr,İstanbul Asya,8
+KARAKÖPRÜ,burger_king_tr,Şanlıurfa,2
+BEYOĞLU,burger_king_tr,İstanbul Avrupa,5
+MERKEZ,burger_king_tr,Tekirdağ,1
+ORTAHISAR,burger_king_tr,Trabzon,2
+YOMRA,burger_king_tr,Trabzon,1
+MERKEZ,burger_king_tr,Trabzon,2
+KÖRFEZ,burger_king_tr,Kocaeli,3
+MERKEZ,burger_king_tr,Uşak,3
+MERKEZ,burger_king_tr,Yalova,3
+MERKEZ,burger_king_tr,Zonguldak,3
+SULTANGAZI,burger_king_tr,İstanbul Avrupa,3
+MERKEZ,burger_king_tr,Diyarbakır,1
+MAMAK,burger_king_tr,Ankara,3
+SINCAN,burger_king_tr,Ankara,1
+ALTINDAĞ,burger_king_tr,Ankara,2
+MERKEZ,burger_king_tr,Erzincan,2
+TARSUS,burger_king_tr,Mersin,2
+SÖKE,burger_king_tr,Aydın,1
+KARABAĞLAR,burger_king_tr,İzmir,1
+SANCAKTEPE,burger_king_tr,İstanbul Asya,5
+KONYAALTI,burger_king_tr,Antalya,4
+AYVALIK,burger_king_tr,Balıkesir,2
+İLKADIM,burger_king_tr,Samsun,2
+MERKEZ,burger_king_tr,Manisa,1
+MERKEZ,burger_king_tr,Van,2
+KARESI,burger_king_tr,Balıkesir,1
+MERKEZ,burger_king_tr,Amasya,2
+MERKEZ,burger_king_tr,Aksaray,2
+GÖLBAŞI,burger_king_tr,Ankara,2
+MERKEZ,burger_king_tr,Kars,1
+NARLIDERE,burger_king_tr,İzmir,1
+MERKEZ,burger_king_tr,Ordu,1
+MERKEZ,burger_king_tr,Kırşehir,1
+ARTUKLU,burger_king_tr,Mardin,1
+MERKEZ,burger_king_tr,Düzce,3
+AKDENIZ,burger_king_tr,Mersin,1
+ALTINORDU,burger_king_tr,Ordu,2
+BIGA,burger_king_tr,Çanakkale,1
+KOCASINAN,burger_king_tr,Kayseri,4
+BAĞLAR,burger_king_tr,Diyarbakır,1
+KEŞAN,burger_king_tr,Edirne,2
+CANIK,burger_king_tr,Samsun,1
+MERKEZ,burger_king_tr,Bilecik,1
+MERKEZ,burger_king_tr,Kahramanmaraş,1
+MERKEZ,burger_king_tr,Giresun,2
+KUŞADASI,burger_king_tr,Aydın,3
+MERKEZ,burger_king_tr,Siirt,2
+ALIAĞA,burger_king_tr,İzmir,1
+MARMARIS,burger_king_tr,Muğla,2
+HALILIYE,burger_king_tr,Şanlıurfa,2
+MERKEZ,burger_king_tr,Çorum,2
+MEZITLI,burger_king_tr,Mersin,1
+KIZILTEPE,burger_king_tr,Mardin,2
+MERKEZ,burger_king_tr,Edirne,2
+MERKEZ,burger_king_tr,Denizli,1
+MERKEZ,burger_king_tr,Kırklareli,1
+MERKEZ,burger_king_tr,Muğla,2
+YAKUTIYE,burger_king_tr,Erzurum,2
+YAHŞIHAN,burger_king_tr,Kırıkkale,1
+MERKEZ,burger_king_tr,Şanlıurfa,1
+MILAS,burger_king_tr,Muğla,1
+KAYAPINAR,burger_king_tr,Diyarbakır,5
+MERKEZ,burger_king_tr,Osmaniye,1
+NAZILLI,burger_king_tr,Aydın,2
+MERKEZ,burger_king_tr,Iğdır,1
+MERKEZEFENDI,burger_king_tr,Denizli,3
+BATTALGAZI,burger_king_tr,Malatya,1
+AKHISAR,burger_king_tr,Manisa,1
+SERDIVAN,burger_king_tr,Sakarya,2
+DARICA,burger_king_tr,Kocaeli,1
+TUZLA,burger_king_tr,İstanbul Asya,3
+MERKEZ,burger_king_tr,Adıyaman,2
+EDREMIT,burger_king_tr,Balıkesir,3
+BAŞISKELE,burger_king_tr,Kocaeli,1
+ARNAVUTKÖY,burger_king_tr,İstanbul Avrupa,7
+MERKEZ,burger_king_tr,Karabük,2
+MERKEZ,burger_king_tr,Yozgat,2
+KARTEPE,burger_king_tr,Kocaeli,1
+MERKEZ,burger_king_tr,Bartın,1
+BAFRA,burger_king_tr,Samsun,1
+SUSURLUK,burger_king_tr,Balıkesir,1
+ÇIĞLI,burger_king_tr,İzmir,2
+SERIK,burger_king_tr,Antalya,2
+GAZIPAŞA,burger_king_tr,Antalya,1
+DILOVASI,burger_king_tr,Kocaeli,1
+DIDIM,burger_king_tr,Aydın,1
+ORHANGAZI,burger_king_tr,Bursa,1
+GEMLIK,burger_king_tr,Bursa,3
+BOZÜYÜK,burger_king_tr,Bilecik,1
+ÜNYE,burger_king_tr,Ordu,1
+MERKEZ,burger_king_tr,Bingöl,2
+ALTIEYLÜL,burger_king_tr,Balıkesir,2
+LÜLEBURGAZ,burger_king_tr,Kırklareli,2
+TURGUTLU,burger_king_tr,Manisa,1
+BAYRAKLI,burger_king_tr,İzmir,2
+ANTAKYA,burger_king_tr,Hatay,1
+MENTEŞE,burger_king_tr,Muğla,1
+KEMALPAŞA,burger_king_tr,İzmir,1
+DOĞUBAYAZIT,burger_king_tr,Ağrı,1
+CIZRE,burger_king_tr,Şırnak,2
+TALAS,burger_king_tr,Kayseri,1
+MERKEZ,burger_king_tr,Ağrı,1
+DALAMAN,burger_king_tr,Muğla,1
+POLATLI,burger_king_tr,Ankara,1
+CEYHAN,burger_king_tr,Adana,1
+HENDEK,burger_king_tr,Sakarya,1
+SAFRANBOLU,burger_king_tr,Karabük,1
+KARASU,burger_king_tr,Sakarya,1
+MIDYAT,burger_king_tr,Mardin,1
+PURSAKLAR,burger_king_tr,Ankara,1
+TATVAN,burger_king_tr,Bitlis,1
+MERKEZ,burger_king_tr,Burdur,1
+MUDANYA,burger_king_tr,Bursa,1
+MERKEZ,burger_king_tr,Çankırı,1
+ERGANI,burger_king_tr,Diyarbakır,1
+AKÇAKOCA,burger_king_tr,Düzce,1
+MERKEZ,burger_king_tr,Elazığ,3
+NIZIP,burger_king_tr,Gaziantep,1
+DÖRTYOL,burger_king_tr,Hatay,1
+MENEMEN,burger_king_tr,İzmir,2
+ONIKIŞUBAT,burger_king_tr,Kahramanmaraş,2
+MERKEZ,burger_king_tr,Karaman,1
+MERKEZ,burger_king_tr,Kastamonu,3
+ÇAYIROVA,burger_king_tr,Kocaeli,1
+YUNUSEMRE,burger_king_tr,Manisa,1
+ERDEMLI,burger_king_tr,Mersin,1
+MERKEZ,burger_king_tr,Rize,2
+MERKEZ,burger_king_tr,Sinop,1
+SIVEREK,burger_king_tr,Şanlıurfa,1
+SILOPI,burger_king_tr,Şırnak,1
+SÜLEYMANPAŞA,burger_king_tr,Tekirdağ,1
+MERKEZ,burger_king_tr,Tokat,1
+LAPSEKI,burger_king_tr,Çanakkale,2
+GELIBOLU,burger_king_tr,Çanakkale,2
+SUR,burger_king_tr,Diyarbakır,1
+MERKEZ,burger_king_tr,Erzurum,1
+KIRIKHAN,burger_king_tr,Hatay,1
+MERKEZ,burger_king_tr,Konya,1
+KULU,burger_king_tr,Konya,1
+MERAM,burger_king_tr,Konya,1
+SOMA,burger_king_tr,Manisa,1
+MERKEZ,burger_king_tr,Mardin,1
+DÖŞEMEALTI,burger_king_tr,Antalya,1
+ARDEŞEN,burger_king_tr,Rize,1
+SAPANCA,burger_king_tr,Sakarya,1
+VIRANŞEHIR,burger_king_tr,Şanlıurfa,1
+MERKEZ,burger_king_tr,Şırnak,1
+MERKEZ,burger_king_tr,Niğde,1
+UNKNOWN,church_of_england_gb,unknown,7
+UNKNOWN,crocs_eu,Üsküdar İstanbul,1
+UNKNOWN,crocs_eu,Kadıköy/İstanbul,1
+UNKNOWN,crocs_eu,Sarıyer/İstanbul,1
+UNKNOWN,decathlon_tr,İSTANBUL,2
+UNKNOWN,decathlon_tr,Ankara,4
+UNKNOWN,decathlon_tr,IZMIR,1
+UNKNOWN,decathlon_tr,SAMSUN,1
+UNKNOWN,decathlon_tr,ADANA,1
+UNKNOWN,decathlon_tr,ISTANBUL,4
+UNKNOWN,decathlon_tr,MERSIN,1
+UNKNOWN,decathlon_tr,MUGLA,1
+UNKNOWN,decathlon_tr,Antalya,2
+UNKNOWN,decathlon_tr,KOCAELİ,1
+UNKNOWN,decathlon_tr,ANKARA,2
+UNKNOWN,decathlon_tr,İZMİR,1
+UNKNOWN,decathlon_tr,TEKİRDAĞ,1
+UNKNOWN,decathlon_tr,Kepez,1
+UNKNOWN,decathlon_tr,İstanbul,10
+UNKNOWN,decathlon_tr,BURSA,1
+UNKNOWN,decathlon_tr,istanbul,1
+UNKNOWN,decathlon_tr,Bursa,1
+UNKNOWN,decathlon_tr,Kayseri,1
+UNKNOWN,decathlon_tr,Eskişehir,1
+UNKNOWN,decathlon_tr,İzmir,1
+UNKNOWN,decathlon_tr,Gaziantep,1
+UNKNOWN,decathlon_tr,Konya,1
+UNKNOWN,decathlon_tr,Izmir,1
+UNKNOWN,decathlon_tr,Diyarbakır,1
+UNKNOWN,decathlon_tr,Istanbul,1
+UNKNOWN,decathlon_tr,BALIKESIR,1
+UNKNOWN,decathlon_tr,TRABZON,1
+UNKNOWN,deichmann,Zonguldak,1
+UNKNOWN,deichmann,Merkez/Yalova,1
+UNKNOWN,deichmann,Merkez/ Van,1
+UNKNOWN,deichmann,Merkez/Usak,1
+UNKNOWN,deichmann,Merkez/Trabzon,1
+UNKNOWN,deichmann,Degirmendere/Trabzon,1
+UNKNOWN,deichmann,Tekirdag,1
+UNKNOWN,deichmann,Merkez/Tekirdag,1
+UNKNOWN,deichmann,Corlu,1
+UNKNOWN,deichmann,Merkez,1
+UNKNOWN,deichmann,Sanliurfa,1
+UNKNOWN,deichmann,Samsun,2
+UNKNOWN,deichmann,Erenler/Adapazari,1
+UNKNOWN,deichmann,Adapazari/Sakarya,1
+UNKNOWN,deichmann,Ordu,1
+UNKNOWN,deichmann,Nevsehir,1
+UNKNOWN,deichmann,Mugla,1
+UNKNOWN,deichmann,Milas/Mugla,1
+UNKNOWN,deichmann,Marmaris/Mugla,1
+UNKNOWN,deichmann,Fethiye/Mugla,1
+UNKNOWN,deichmann,Bodrum/Mugla,1
+UNKNOWN,deichmann,Yenisehir/Mersin,1
+UNKNOWN,deichmann,Tarsus/Mersin,1
+UNKNOWN,deichmann,Mersin,1
+UNKNOWN,deichmann,Salihli/Manisa,1
+UNKNOWN,deichmann,Merkes/Manisa,1
+UNKNOWN,deichmann,Yahsihan/Kirikkale,1
+UNKNOWN,deichmann,Merkez/Kütahya,1
+UNKNOWN,deichmann,Selcuklu/Konya,1
+UNKNOWN,deichmann,Kocaeli,1
+UNKNOWN,deichmann,Derince/Izmit,1
+UNKNOWN,deichmann,Melikgazi/Kayseri,2
+UNKNOWN,deichmann,Merkez/Kahramanmaras,1
+UNKNOWN,deichmann,Izmir,2
+UNKNOWN,deichmann,izmir,1
+UNKNOWN,deichmann,Gaziemir/İzmir,1
+UNKNOWN,deichmann,Bornova/Izmir,1
+UNKNOWN,deichmann,Zeytinburnu/Istanbul,1
+UNKNOWN,deichmann,Ümraniye,1
+UNKNOWN,deichmann,Silivri/Istanbul,1
+UNKNOWN,deichmann,Sefaköy/Istanbul,1
+UNKNOWN,deichmann,Pendik/Istanbul,2
+UNKNOWN,deichmann,Maltepe/Istanbul,1
+UNKNOWN,deichmann,Kücükcekmece/Istanbul,1
+UNKNOWN,deichmann,Kagithane/Istanbul,1
+UNKNOWN,deichmann,Istanbul,7
+UNKNOWN,deichmann,Eyüp/Istanbul,1
+UNKNOWN,deichmann,Beyoglu/Istanbul,1
+UNKNOWN,deichmann,Basaksehir/Istanbul,1
+UNKNOWN,deichmann,Bagcilar/Istanbul,1
+UNKNOWN,deichmann,Avcilar/Istanbul,1
+UNKNOWN,deichmann,Atasehir/Istanbul,2
+UNKNOWN,deichmann,Merkez/Isparta,1
+UNKNOWN,deichmann,Sehitkamil/Gaziantep,1
+UNKNOWN,deichmann,Gaziantep,2
+UNKNOWN,deichmann,Merkez/Eskişehir,1
+UNKNOWN,deichmann,Merkez/Erzurum,1
+UNKNOWN,deichmann,Elazig,1
+UNKNOWN,deichmann,Merkez/Edirne,1
+UNKNOWN,deichmann,Edirne,1
+UNKNOWN,deichmann,Merkez/Düzce,1
+UNKNOWN,deichmann,Kayapinar/Diyarbakir,1
+UNKNOWN,deichmann,Denizli,1
+UNKNOWN,deichmann,Canakkale,1
+UNKNOWN,deichmann,Biga/Canakkale,1
+UNKNOWN,deichmann,Osmangazi/Bursa,2
+UNKNOWN,deichmann,Inegöl/Bursa,1
+UNKNOWN,deichmann,Bursa,2
+UNKNOWN,deichmann,Merkez/Batman,1
+UNKNOWN,deichmann,Balıkesir,1
+UNKNOWN,deichmann,Balikesir,1
+UNKNOWN,deichmann,Söke/Aydin,1
+UNKNOWN,deichmann,Merkez/Aydin,1
+UNKNOWN,deichmann,Aydin,1
+UNKNOWN,deichmann,Muratpasa/Antalya,2
+UNKNOWN,deichmann,Kepez/Antalya,1
+UNKNOWN,deichmann,Kepez,1
+UNKNOWN,deichmann,Antalya,2
+UNKNOWN,deichmann,Yenimahalle/Ankara,2
+UNKNOWN,deichmann,Mamak/Ankara,1
+UNKNOWN,deichmann,Keciören/Ankara,1
+UNKNOWN,deichmann,Etlik/Ankara,1
+UNKNOWN,deichmann,Ankara,3
+UNKNOWN,deichmann,Akköprü/Ankara,1
+UNKNOWN,deichmann,Afyonkarahisar,1
+UNKNOWN,deichmann,Adiyaman,1
+UNKNOWN,deichmann,Yüregir/Adana,1
+UNKNOWN,deichmann,Seyhan/Adana,1
+UNKNOWN,deloitte,Adana,1
+UNKNOWN,deloitte,Bursa,1
+UNKNOWN,deloitte,Izmir,1
+UNKNOWN,deloitte,Istanbul,1
+UNKNOWN,deloitte,Ankara,1
+UNKNOWN,denizbank_tr,unknown,3820
+UNKNOWN,ecco,Sisli/Istanbul,1
+UNKNOWN,ecco,Basaksehir/Istanbul,1
+UNKNOWN,ecco,Istanbul,2
+UNKNOWN,enterprise,Adana,3
+UNKNOWN,enterprise,Ankara,12
+UNKNOWN,enterprise,Antalya,6
+UNKNOWN,enterprise,Batman,1
+UNKNOWN,enterprise,Erzurum,2
+UNKNOWN,enterprise,Gaziantep,2
+UNKNOWN,enterprise,Hatay,2
+UNKNOWN,enterprise,Istanbul,20
+UNKNOWN,enterprise,Kocaeli,4
+UNKNOWN,enterprise,Mardin,1
+UNKNOWN,enterprise,Mugla,8
+UNKNOWN,enterprise,Sivas,2
+UNKNOWN,enterprise,Trabzon,2
+UNKNOWN,enterprise,Bursa,2
+UNKNOWN,enterprise,Sinop,2
+UNKNOWN,enterprise,Izmir,6
+UNKNOWN,enterprise,Kayseri,2
+UNKNOWN,enterprise,Nevsehir,2
+UNKNOWN,enterprise,Samsun,2
+UNKNOWN,enterprise,Elazig,2
+UNKNOWN,enterprise,Malatya,3
+UNKNOWN,enterprise,Sanliurfa,2
+UNKNOWN,enterprise,Eskisehir,1
+UNKNOWN,enterprise,Corum,1
+UNKNOWN,enterprise,Amasya,1
+UNKNOWN,enterprise,Kusadasi,1
+UNKNOWN,enterprise,Denizli,3
+UNKNOWN,enterprise,Diyarbakir,2
+UNKNOWN,enterprise,Konya,2
+UNKNOWN,enterprise,Kutahya,2
+UNKNOWN,enterprise,Maltepe Istanbul,1
+UNKNOWN,enterprise,Beylikduzu Istanbul,1
+UNKNOWN,enterprise,Kahramanmaras,1
+UNKNOWN,enterprise,Belek,1
+UNKNOWN,enterprise,Van,2
+UNKNOWN,enterprise,Manisa,1
+UNKNOWN,enterprise,Tekirdag,1
+UNKNOWN,enterprise,Canakkale,1
+UNKNOWN,enterprise,Adapazari,1
+UNKNOWN,enterprise,Side,1
+UNKNOWN,enterprise,Rize,1
+UNKNOWN,enterprise,Ordu,1
+ANKARA,ernst_young,Ankara,1
+BURSA,ernst_young,Bursa,1
+ISTANBUL,ernst_young,Istanbul,3
+IZMIR,ernst_young,Izmir,1
+ADANA,ernst_young,Adana,1
+UNKNOWN,gbfs,unknown,123
+IZMIR,geox,IZMIR,1
+ISTANBUL,google_offices,unknown,1
+UNKNOWN,hilton,unknown,24
+MARMARA,hm,Istanbul,18
+ICANADOLU,hm,Ankara,6
+GUNEYDOGUANADOLU,hm,Gaziantep,1
+AKDENIZ,hm,Antalya,4
+KARADENIZ,hm,Samsun,1
+MARMARA,hm,Sakarya,1
+MARMARA,hm,Çanakkale,1
+EGE,hm,Muğla,1
+MARMARA,hm,Izmit,1
+ICANADOLU,hm,Konya,1
+AKDENIZ,hm,Adana,2
+MARMARA,hm,Balikesir,1
+EGE,hm,Denizli,1
+MARMARA,hm,Bursa,2
+EGE,hm,Izmir,2
+AKDENIZ,hm,Istanbul,1
+389,hugo_boss,ISTANBUL,2
+402,hugo_boss,Esenyurt/Istanbul,1
+393,hugo_boss,Bakırkōy- İstanbul,1
+409,hugo_boss,Sariyer- Istanbul,1
+396,hugo_boss,Etiler-Beşiktaş-İstanbul,1
+388,hugo_boss,Acibadem-Üskudar/Istanbul,1
+383,hugo_boss,Kurtköy-Pendik/ Istanbul,1
+031,hugo_boss,Izmir,1
+035,hugo_boss,Gaziemir- Izmir,1
+075,hugo_boss,Ankara,1
+175,hugo_boss,Çankaya-Ankara,1
+001,hugo_boss,Antalya,1
+001,hugo_boss,Kayapınar /DIYARBAKIT,1
+867,hugo_boss,Yeisehir/Mersin,1
+UNKNOWN,jysk,İSTANBUL,1
+UNKNOWN,jysk,"Esenyurt, Istanbul",1
+UNKNOWN,jysk,Istanbul/Bagcilar,1
+UNKNOWN,kuveyt_turk_tr,İstanbul,779
+UNKNOWN,kuveyt_turk_tr,Sakarya,24
+UNKNOWN,kuveyt_turk_tr,Manisa,16
+UNKNOWN,kuveyt_turk_tr,Antalya,58
+UNKNOWN,kuveyt_turk_tr,İzmir,60
+UNKNOWN,kuveyt_turk_tr,Çanakkale,8
+UNKNOWN,kuveyt_turk_tr,Bursa,95
+UNKNOWN,kuveyt_turk_tr,Ankara,104
+UNKNOWN,kuveyt_turk_tr,Trabzon,21
+UNKNOWN,kuveyt_turk_tr,Gaziantep,36
+UNKNOWN,kuveyt_turk_tr,Isparta,12
+UNKNOWN,kuveyt_turk_tr,Kocaeli,53
+UNKNOWN,kuveyt_turk_tr,Konya,58
+UNKNOWN,kuveyt_turk_tr,Aydın,15
+UNKNOWN,kuveyt_turk_tr,Mersin,27
+UNKNOWN,kuveyt_turk_tr,Eskişehir,16
+UNKNOWN,kuveyt_turk_tr,Kütahya,9
+UNKNOWN,kuveyt_turk_tr,Yalova,5
+UNKNOWN,kuveyt_turk_tr,Aksaray,9
+UNKNOWN,kuveyt_turk_tr,Kahramanmaraş,7
+UNKNOWN,kuveyt_turk_tr,Kırıkkale,4
+UNKNOWN,kuveyt_turk_tr,Mardin,8
+UNKNOWN,kuveyt_turk_tr,Tekirdağ,12
+UNKNOWN,kuveyt_turk_tr,Muğla,8
+UNKNOWN,kuveyt_turk_tr,Samsun,16
+UNKNOWN,kuveyt_turk_tr,Karabük,4
+UNKNOWN,kuveyt_turk_tr,Diyarbakır,21
+UNKNOWN,kuveyt_turk_tr,Niğde,4
+UNKNOWN,kuveyt_turk_tr,Adıyaman,4
+UNKNOWN,kuveyt_turk_tr,Afyon,7
+UNKNOWN,kuveyt_turk_tr,Ağrı,4
+UNKNOWN,kuveyt_turk_tr,Amasya,4
+UNKNOWN,kuveyt_turk_tr,Kayseri,32
+UNKNOWN,kuveyt_turk_tr,Hatay,13
+UNKNOWN,kuveyt_turk_tr,Balıkesir,17
+UNKNOWN,kuveyt_turk_tr,Bartın,4
+UNKNOWN,kuveyt_turk_tr,Batman,4
+UNKNOWN,kuveyt_turk_tr,Malatya,6
+UNKNOWN,kuveyt_turk_tr,Bilecik,4
+UNKNOWN,kuveyt_turk_tr,Çankırı,3
+UNKNOWN,kuveyt_turk_tr,Denizli,12
+UNKNOWN,kuveyt_turk_tr,Çorum,4
+UNKNOWN,kuveyt_turk_tr,Adana,18
+UNKNOWN,kuveyt_turk_tr,Düzce,8
+UNKNOWN,kuveyt_turk_tr,Elazığ,7
+UNKNOWN,kuveyt_turk_tr,Zonguldak,8
+UNKNOWN,kuveyt_turk_tr,Erzincan,5
+UNKNOWN,kuveyt_turk_tr,Erzurum,8
+UNKNOWN,kuveyt_turk_tr,Giresun,4
+UNKNOWN,kuveyt_turk_tr,Gümüşhane,4
+UNKNOWN,kuveyt_turk_tr,Şanlıurfa,11
+UNKNOWN,kuveyt_turk_tr,Karaman,4
+UNKNOWN,kuveyt_turk_tr,Kars,4
+UNKNOWN,kuveyt_turk_tr,Kastamonu,4
+UNKNOWN,kuveyt_turk_tr,Kırşehir,4
+UNKNOWN,kuveyt_turk_tr,Sivas,7
+UNKNOWN,kuveyt_turk_tr,Kilis,4
+UNKNOWN,kuveyt_turk_tr,Nevşehir,4
+UNKNOWN,kuveyt_turk_tr,Ordu,8
+UNKNOWN,kuveyt_turk_tr,Osmaniye,4
+UNKNOWN,kuveyt_turk_tr,Rize,4
+UNKNOWN,kuveyt_turk_tr,Siirt,4
+UNKNOWN,kuveyt_turk_tr,Bitlis,4
+UNKNOWN,kuveyt_turk_tr,Tokat,5
+UNKNOWN,kuveyt_turk_tr,Uşak,4
+UNKNOWN,kuveyt_turk_tr,Bolu,4
+UNKNOWN,kuveyt_turk_tr,Edirne,3
+UNKNOWN,kuveyt_turk_tr,Muş,4
+UNKNOWN,kuveyt_turk_tr,Afyonkarahisar,2
+UNKNOWN,kuveyt_turk_tr,Burdur,4
+UNKNOWN,kuveyt_turk_tr,K.Maraş,3
+UNKNOWN,kuveyt_turk_tr,unknown,3
+UNKNOWN,kuveyt_turk_tr,Bingöl,4
+UNKNOWN,kuveyt_turk_tr,Van,7
+UNKNOWN,kuveyt_turk_tr,Yozgat,3
+UNKNOWN,leonidas,Istanbul,1
+UNKNOWN,leonidas,YENISEHIR- MERSIN,1
+UNKNOWN,leonidas,EYÜPSULTAN - ISTANBUL,1
+ISTANBUL,lhw,Istanbul,1
+MUGLA,lhw,Marmaris,1
+MUGLA,lhw,Bodrum,1
+ANTALYA,lhw,Kemer,1
+ANTALYA,lhw,Belek,1
+UNKNOWN,longchamp,ISTANBUL,4
+34,longchamp,ISTANBUL,2
+IZMIR,lukoil,IZMIR,15
+MANISA,lukoil,MANISA,21
+HATAY,lukoil,HATAY,20
+ADANA,lukoil,ADANA,5
+CANAKKALE,lukoil,CANAKKALE,5
+ISPARTA,lukoil,ANTALYA,1
+BURSA,lukoil,BURSA,12
+ANKARA,lukoil,ANKARA,8
+TOKAT,lukoil,TOKAT,10
+CANKIRI,lukoil,CANKIRI,2
+KIRSEHIR,lukoil,KIRSEHIR,3
+DENIZLI,lukoil,DENIZLI,3
+ANTALYA,lukoil,ANTALYA,10
+KONYA,lukoil,KONYA,33
+SAKARYA,lukoil,SAKARYA,9
+KIRIKKALE,lukoil,KIRIKKALE,4
+KAYSERI,lukoil,KAYSERI,5
+KUETAHYA,lukoil,KUTAHYA,8
+TRABZON,lukoil,ERZURUM,1
+BALIKESIR,lukoil,BALIKESIR,13
+SIVAS,lukoil,SIVAS,8
+BOLU,lukoil,BOLU,4
+TEKIRDAG,lukoil,TEKIRDAG,1
+BALIKESIR,lukoil,EGE,2
+MALATYA,lukoil,SHANLIURFA,1
+MALATYA,lukoil,MALATYA,13
+YALOVA,lukoil,YALOVA,2
+SANLIURFA,lukoil,SHANLIURFA,1
+ISTANBUL,lukoil,ISTANBUL,5
+SANLIURFA,lukoil,SANLIURFA,4
+MUGLA,lukoil,MUGLA,6
+VAN,lukoil,VAN,2
+BINGOEL,lukoil,BINGOL,1
+ARTVIN,lukoil,ARTVIN,2
+ISPARTA,lukoil,ISPARTA,5
+SIIRT,lukoil,SIIRT,1
+AYDIN,lukoil,AYDIN,6
+IGDIR,lukoil,IGDIR,3
+KAHRAMANMARAS,lukoil,K.MARAS,6
+KILIS,lukoil,KILIS,4
+MERSIN,lukoil,MERSIN,1
+CORUM,lukoil,ÇORUM,1
+AMASYA,lukoil,AMASYA,4
+SAMSUN,lukoil,SAMSUN,7
+ORDU,lukoil,ORDU,11
+GIRESUN,lukoil,GIRESUN,5
+BALIKESIR,lukoil,Tekirdag,1
+MERSIN,lukoil,MERSİN,1
+USAK,lukoil,USAK,1
+BATMAN,lukoil,BATMAN,1
+BILECIK,lukoil,SAKARYA,1
+AGRI,lukoil,AGRI,4
+MERSIN,lukoil,ICEL,7
+CANAKKALE,lukoil,СANAKKALE,1
+NIGDE,lukoil,NIGDE,3
+MANISA,lukoil,IZMIR,1
+ERZURUM,lukoil,EЕZURUM,1
+ERZURUM,lukoil,ERZURUM,3
+BURDUR,lukoil,BURDUR,2
+ESKISEHIR,lukoil,ESKISEHIR,2
+ARTVIN,lukoil,Batumi,1
+ERZURUM,lukoil,TRABZON,1
+KOCAELI,lukoil,KOCAELI,10
+DIYARBAKIR,lukoil,DIYARBAKIR,4
+KAHRAMANMARAS,lukoil,KAHRAMANMARAS,1
+OSMANIYE,lukoil,OSMANIYE,3
+IZMIR,lukoil,MANISA,1
+YOZGAT,lukoil,YOZGAT,3
+AFYONKARAHISAR,lukoil,AFYONKARAHISAR,6
+ZONGULDAK,lukoil,ZONGULDAK,2
+GAZIANTEP,lukoil,GAZIANTEP,6
+CORUM,lukoil,CORUM,4
+RIZE,lukoil,RIZE,1
+CANAKKALE,lukoil,BALIKESIR,1
+MUS,lukoil,MUS,2
+AYDIN,lukoil,DENIZLI,1
+DUZCE,lukoil,DUZCE,2
+UNKNOWN,lukoil,MUGLA,1
+ERZINCAN,lukoil,ERZINCAN,2
+NEVSEHIR,lukoil,NEVSEHIR,6
+KARABUK,lukoil,KARABUK,1
+BURSA,lukoil,YALOVA,1
+KASTAMONU,lukoil,KASTAMONU,1
+SINOP,lukoil,SINOP,1
+GUMUSHANE,lukoil,GUMUSHANE,2
+TRABZON,lukoil,TRABZON,1
+ADIYAMAN,lukoil,ADIYAMAN,2
+BITLIS,lukoil,BITLIS,1
+ARDAHAN,lukoil,ARDAHAN,2
+TUNCELI,lukoil,ERZINCAN,1
+ARDAHAN,lukoil,unknown,1
+EDIRNE,lukoil,unknown,2
+UNKNOWN,man_truck_and_bus,Izmir,1
+UNKNOWN,man_truck_and_bus,Mardin,1
+UNKNOWN,man_truck_and_bus,Elazığ,1
+UNKNOWN,man_truck_and_bus,Samsun ,1
+UNKNOWN,man_truck_and_bus,Kayseri,1
+UNKNOWN,man_truck_and_bus,İzmir,3
+UNKNOWN,man_truck_and_bus,Bodrum,1
+UNKNOWN,man_truck_and_bus,Trabzon,1
+UNKNOWN,man_truck_and_bus,Çorlu,1
+UNKNOWN,man_truck_and_bus,Afyonkarahisar,1
+UNKNOWN,man_truck_and_bus,Bursa ,1
+UNKNOWN,man_truck_and_bus,AKSARAY,1
+UNKNOWN,man_truck_and_bus,Diyarbakır,1
+UNKNOWN,man_truck_and_bus,Başakşehir,1
+UNKNOWN,man_truck_and_bus,KOCAELİ,1
+UNKNOWN,man_truck_and_bus,DENIZLI,1
+UNKNOWN,man_truck_and_bus,VAN,1
+UNKNOWN,man_truck_and_bus,ERZURUM,1
+UNKNOWN,man_truck_and_bus,Gaziantep,1
+UNKNOWN,man_truck_and_bus,izmir,1
+UNKNOWN,man_truck_and_bus,istanbul,1
+UNKNOWN,man_truck_and_bus,Antalya,1
+UNKNOWN,man_truck_and_bus,Konya,1
+UNKNOWN,man_truck_and_bus,Balıkesir,1
+UNKNOWN,man_truck_and_bus,Mersin,2
+UNKNOWN,man_truck_and_bus,Eskişehir,1
+UNKNOWN,man_truck_and_bus,Marmaris,1
+UNKNOWN,man_truck_and_bus,Bursa,1
+UNKNOWN,man_truck_and_bus,Tuzla,1
+UNKNOWN,man_truck_and_bus,Göcek,1
+UNKNOWN,man_truck_and_bus,Ankara,3
+UNKNOWN,man_truck_and_bus,İstanbul,1
+UNKNOWN,marriott,Bursa,3
+UNKNOWN,marriott,Istanbul,23
+UNKNOWN,marriott,Izmir,3
+UNKNOWN,marriott,Bodrum,2
+UNKNOWN,marriott,Trabzon,1
+UNKNOWN,marriott,Adana,1
+UNKNOWN,marriott,Ankara,1
+UNKNOWN,marriott,Samsun,1
+UNKNOWN,marriott,Antalya,1
+UNKNOWN,maserati,BURSA,1
+UNKNOWN,maserati,KURUCESME ISTANBUL,1
+UNKNOWN,maserati,ANTALYA,1
+UNKNOWN,maserati,ANKARA,1
+UNKNOWN,maserati,IZMIR,1
+UNKNOWN,mcdonalds_tr,unknown,253
+SIVAS,mercedes_benz,Sivas,1
+EGEBÖLGESI,mercedes_benz,İzmir,4
+İÇANADOLUBÖLGESI,mercedes_benz,Aksaray,1
+AKDENIZBÖLGESI,mercedes_benz,Mersin,1
+AKDENIZBÖLGESI,mercedes_benz,Antalya,2
+MUĞLA,mercedes_benz,Muğla,2
+İÇANADOLUBÖLGESI,mercedes_benz,Ankara,7
+MARMARABÖLGESI,mercedes_benz,İstanbul,15
+MARMARABÖLGESI,mercedes_benz,Istanbul,1
+İSTANBUL,mercedes_benz,İstanbul,6
+İSTANBUL,mercedes_benz, Istanbul,1
+AKDENIZBÖLGESI,mercedes_benz,Adana,1
+ANTALYA,mercedes_benz,Antalya,1
+EGEBÖLGESI,mercedes_benz,Denizli,1
+EGEBÖLGESI,mercedes_benz,Muğla,2
+HATAY,mercedes_benz,Hatay,2
+İÇANADOLUBÖLGESI,mercedes_benz,Konya,1
+İÇANADOLUBÖLGESI,mercedes_benz,Eskişehir,1
+İÇANADOLUBÖLGESI,mercedes_benz,Kayseri,1
+DENIZLI,mercedes_benz,Denizli,1
+ERZURUM,mercedes_benz,Erzurum,1
+MARMARABÖLGESI,mercedes_benz,İSTANBUL,1
+ADANA,mercedes_benz,Adana,1
+TEKIRDAĞ,mercedes_benz,Tekirdağ,1
+MARMARABÖLGESI,mercedes_benz,Kocaeli,1
+TRABZON,mercedes_benz,Trabzon,1
+İZMIR,mercedes_benz,Izmir,1
+BURSA,mercedes_benz,Bursa,1
+DÜZCE,mercedes_benz,Düzce,1
+MERSIN,mercedes_benz,Mersin,1
+GÜNEYDOĞUANADOLUBÖLGESI,mercedes_benz,Gaziantep,1
+MALATYA,mercedes_benz,Malatya,1
+DIYARBAKIR,mercedes_benz,Diyarbakır,1
+İSTANBUL,mercedes_benz,Istanbul,1
+MARMARABÖLGESI,mercedes_benz,Bursa,2
+İZMIR,mercedes_benz,İzmir,1
+SAMSUN,mercedes_benz,Samsun,1
+UNKNOWN,michaelkors,Istanbul Arnavutköy,1
+UNKNOWN,moneygram,MUGLA,101
+UNKNOWN,moneygram,DENIZLI,79
+UNKNOWN,moneygram,ISTANBUL,1195
+UNKNOWN,moneygram,KONYA,118
+UNKNOWN,moneygram,USAK,24
+UNKNOWN,moneygram,ANTALYA,220
+UNKNOWN,moneygram,IZMIR,234
+UNKNOWN,moneygram,KAHRAMANMARAS,37
+UNKNOWN,moneygram,TEKIRDAG,61
+UNKNOWN,moneygram,ANKARA,421
+UNKNOWN,moneygram,BURSA,172
+UNKNOWN,moneygram,GAZIANTEP,103
+UNKNOWN,moneygram,KAYSERI,78
+UNKNOWN,moneygram,BATMAN,20
+UNKNOWN,moneygram,AYDIN,68
+UNKNOWN,moneygram,TRABZON,60
+UNKNOWN,moneygram,NIGDE,20
+UNKNOWN,moneygram,BALIKESIR,93
+UNKNOWN,moneygram,KOCAELI,117
+UNKNOWN,moneygram,ESKISEHIR,74
+UNKNOWN,moneygram,DUZCE,24
+UNKNOWN,moneygram,ADANA,148
+UNKNOWN,moneygram,GUMUSHANE,10
+UNKNOWN,moneygram,EDIRNE,32
+UNKNOWN,moneygram,SAKARYA,58
+UNKNOWN,moneygram,ORDU,47
+UNKNOWN,moneygram,SANLIURFA,67
+UNKNOWN,moneygram,SIRNAK,28
+UNKNOWN,moneygram,HATAY,84
+UNKNOWN,moneygram,ELAZIG,36
+UNKNOWN,moneygram,BINGOL,13
+UNKNOWN,moneygram,RIZE,26
+UNKNOWN,moneygram,MARDIN,37
+UNKNOWN,moneygram,KIRKLARELI,28
+UNKNOWN,moneygram,SAMSUN,68
+UNKNOWN,moneygram,MANISA,66
+UNKNOWN,moneygram,MERSIN,95
+UNKNOWN,moneygram,AKDENIZ,5
+UNKNOWN,moneygram,KARABUK,20
+UNKNOWN,moneygram,GIRESUN,31
+UNKNOWN,moneygram,KIRIKKALE,27
+UNKNOWN,moneygram,KASTAMONU,34
+UNKNOWN,moneygram,DIYARBAKIR,56
+UNKNOWN,moneygram,CANAKKALE,36
+UNKNOWN,moneygram,ZONGULDAK,29
+UNKNOWN,moneygram,AFYON,7
+UNKNOWN,moneygram,SIVAS,45
+UNKNOWN,moneygram,TUNCELI,15
+UNKNOWN,moneygram,BAYBURT,7
+UNKNOWN,moneygram,NEVSEHIR,32
+UNKNOWN,moneygram,TARSUS,3
+UNKNOWN,moneygram,KILIS,13
+UNKNOWN,moneygram,TOKAT,26
+UNKNOWN,moneygram,SILIFKE,2
+UNKNOWN,moneygram,YALOVA,21
+UNKNOWN,moneygram,SIIRT,15
+UNKNOWN,moneygram,AGRI,23
+UNKNOWN,moneygram,KARS,16
+UNKNOWN,moneygram,BURDUR,23
+UNKNOWN,moneygram,AKSARAY,24
+UNKNOWN,moneygram,MALATYA,40
+UNKNOWN,moneygram,BILECIK,19
+UNKNOWN,moneygram,ERZURUM,45
+UNKNOWN,moneygram,AMASYA,23
+UNKNOWN,moneygram,ERZINCAN,39
+UNKNOWN,moneygram,ARTVIN,13
+UNKNOWN,moneygram,ISPARTA,37
+UNKNOWN,moneygram,MUS,17
+UNKNOWN,moneygram,CORUM,31
+UNKNOWN,moneygram,OSMANIYE,33
+UNKNOWN,moneygram,VAN,34
+UNKNOWN,moneygram,ARDAHAN,10
+UNKNOWN,moneygram,KUTAHYA,43
+UNKNOWN,moneygram,IGDIR,10
+UNKNOWN,moneygram,KIRSEHIR,18
+UNKNOWN,moneygram,ERDEMLI,1
+UNKNOWN,moneygram,YOZGAT,25
+UNKNOWN,moneygram,YENISEHIR,1
+UNKNOWN,moneygram,SINOP,12
+UNKNOWN,moneygram,KARAMAN,19
+UNKNOWN,moneygram,BARTIN,13
+UNKNOWN,moneygram,ADIYAMAN,22
+UNKNOWN,moneygram,HAKKARI,14
+UNKNOWN,moneygram,MUT,1
+UNKNOWN,moneygram,BITLIS,18
+UNKNOWN,moneygram,DARICA,1
+UNKNOWN,moneygram,BOLU,19
+UNKNOWN,moneygram,CANKIRI,24
+UNKNOWN,moneygram,AFYONKARAHISAR,49
+UNKNOWN,moneygram,ISKENDERUN,1
+UNKNOWN,moneygram,REYHANLI,5
+UNKNOWN,moneygram,ANTAKYA,5
+UNKNOWN,moneygram,GEBZE,2
+UNKNOWN,moneygram,SAMANDAG,1
+UNKNOWN,moneygram,OSMANGAZI,1
+UNKNOWN,moneygram,MEZITLI,3
+UNKNOWN,moneygram,ONIKISUBAT,1
+UNKNOWN,moneygram,STANBUL,30
+UNKNOWN,moneygram,KAHRAMANMARA,1
+UNKNOWN,moneygram,ANLIURFA,1
+UNKNOWN,moneygram,ZMIR,2
+UNKNOWN,moneygram,CAYIROVA,1
+UNKNOWN,moneygram,ESENYURT,1
+UNKNOWN,moneygram,KUSADASI,1
+UNKNOWN,moneygram,ELBISTAN,1
+UNKNOWN,moneygram,PAZARCIK,1
+UNKNOWN,moneygram,DORTYOL,1
+UNKNOWN,moneygram,TUZLUCA,1
+UNKNOWN,moneygram,IZMIT,2
+UNKNOWN,moneygram,ALTINORDU,1
+UNKNOWN,national,Sanliurfa,1
+UNKNOWN,national,Istanbul,3
+UNKNOWN,national,Antalya,3
+UNKNOWN,national,Izmir,2
+UNKNOWN,national,Ankara,1
+UNKNOWN,national,Gaziantep,2
+UNKNOWN,national,Konya,1
+UNKNOWN,national,Ordu,1
+UNKNOWN,national,Van,1
+UNKNOWN,national,Adana,2
+UNKNOWN,national,Batman,1
+UNKNOWN,national,Erzurum,1
+UNKNOWN,national,Hatay,1
+UNKNOWN,national,Mardin,1
+UNKNOWN,national,Mugla,2
+UNKNOWN,national,Trabzon,1
+UNKNOWN,national,Nevsehir,1
+UNKNOWN,national,Denizli,1
+UNKNOWN,national,Diyarbakir,1
+UNKNOWN,national,Kayseri,1
+UNKNOWN,national,Samsun,1
+UNKNOWN,nike,ANTALYA,2
+UNKNOWN,nike,İSTANBUL,3
+ISTANBUL,nike,ISTANBUL,1
+UNKNOWN,nike,DENİZLİ,1
+UNKNOWN,nike,Muratpaşa ANTALYA,1
+UNKNOWN,nike,MALATYA,1
+UNKNOWN,nike,ANKARA,4
+UNKNOWN,nike,Izmit/Kocaeli,1
+UNKNOWN,nike,İZMİR,2
+UNKNOWN,nike,GAZİANTEP,1
+UNKNOWN,nike,KAYSERİ,1
+UNKNOWN,nike,ISTANBUL,1
+UNKNOWN,nike,KOCAELİ,1
+UNKNOWN,nike,Kurtköy İSTANBUL,1
+UNKNOWN,nike,İzmir,1
+UNKNOWN,nissan_europe,BALIKESİR,1
+UNKNOWN,nissan_europe,HATAY / İSKENDERUN,1
+UNKNOWN,nissan_europe,İZMİR,3
+UNKNOWN,nissan_europe,SAMSUN,1
+UNKNOWN,nissan_europe,TEKİRDAĞ ,1
+UNKNOWN,nissan_europe,ANTALYA,1
+UNKNOWN,nissan_europe,ANKARA ,3
+UNKNOWN,nissan_europe,VAN ,1
+UNKNOWN,nissan_europe,TRABZON,1
+UNKNOWN,nissan_europe,İSTANBUL,9
+UNKNOWN,nissan_europe,ERZURUM,1
+UNKNOWN,nissan_europe,ŞANLIURFA ,1
+UNKNOWN,nissan_europe,MUĞLA ,1
+UNKNOWN,nissan_europe,KAYSERİ,1
+UNKNOWN,nissan_europe,SİVAS,1
+UNKNOWN,nissan_europe,Adana,1
+UNKNOWN,nissan_europe,İÇEL / MERSİN,1
+UNKNOWN,nissan_europe,KAHRAMANMARAŞ,1
+UNKNOWN,nissan_europe,BURSA,1
+UNKNOWN,nissan_europe,ESKİŞEHİR,1
+UNKNOWN,nissan_europe,DİYARBAKIR ,1
+UNKNOWN,nissan_europe,DENİZLİ,1
+UNKNOWN,nissan_europe,KOCAELİ,1
+UNKNOWN,nissan_europe,ELAZIĞ,1
+UNKNOWN,nissan_europe,GAZİANTEP,1
+UNKNOWN,nissan_europe,KONYA,1
+UNKNOWN,pizza_hut_tr,unknown,200
+UNKNOWN,reebok,Magosa,1
+UNKNOWN,renault,SAMSUN,2
+UNKNOWN,renault,AKSARAY,2
+UNKNOWN,renault,ISTANBUL,70
+UNKNOWN,renault,ANKARA,20
+UNKNOWN,renault,UŞAK,2
+UNKNOWN,renault,KOCAELI,10
+UNKNOWN,renault,KÜTAHYA,2
+UNKNOWN,renault,MUGLA,4
+UNKNOWN,renault,ZONGULDAK,2
+UNKNOWN,renault,TEKIRDAG,6
+UNKNOWN,renault,IĞDIR,2
+UNKNOWN,renault,MERSIN,8
+UNKNOWN,renault,KIRŞEHİR,2
+UNKNOWN,renault,AYDIN,2
+UNKNOWN,renault,HATAY,4
+UNKNOWN,renault,SAKARYA,2
+UNKNOWN,renault,IZMIR,22
+UNKNOWN,renault,MANISA,4
+UNKNOWN,renault,ISPARTA,3
+UNKNOWN,renault,VAN,2
+UNKNOWN,renault,ANTALYA,6
+UNKNOWN,renault,YALOVA,2
+UNKNOWN,renault,NEVSEHIR,2
+UNKNOWN,renault,MARDIN,2
+UNKNOWN,renault,KARAMAN,2
+UNKNOWN,renault,İZMİR,2
+UNKNOWN,renault,KIRKLARELİ,4
+UNKNOWN,renault,SIRNAK,2
+UNKNOWN,renault,ADANA,4
+UNKNOWN,renault,BATMAN,2
+UNKNOWN,renault,Izmir,2
+UNKNOWN,renault,ÇORUM,2
+UNKNOWN,renault,SANLIURFA,2
+UNKNOWN,renault,DIYARBAKIR,2
+UNKNOWN,renault,YOZGAT,2
+UNKNOWN,renault,SİVAS,2
+UNKNOWN,renault,GAZIANTEP,4
+UNKNOWN,renault,AFYONKARAHISAR,2
+UNKNOWN,renault,ORDU,2
+UNKNOWN,renault,BURSA,6
+UNKNOWN,renault,Istanbul,2
+UNKNOWN,renault,KARS,2
+UNKNOWN,renault,EDIRNE,2
+UNKNOWN,renault,DENIZLI,2
+UNKNOWN,renault,KAHRAMANMARAS,2
+UNKNOWN,renault,ELAZIG,2
+UNKNOWN,renault,ÇANAKKALE,2
+UNKNOWN,renault,AMASYA,2
+UNKNOWN,renault,Mersin,2
+UNKNOWN,renault,İSTANBUL,2
+UNKNOWN,renault,MUĞLA,2
+UNKNOWN,renault,KONYA,4
+UNKNOWN,renault,BALIKESIR,6
+UNKNOWN,renault,SIIRT,2
+UNKNOWN,renault,ESKISEHIR,2
+UNKNOWN,renault,TRABZON,2
+UNKNOWN,renault,ERZURUM,2
+UNKNOWN,renault,KARABUK,2
+UNKNOWN,renault,KIBRIS,2
+UNKNOWN,renault,RİZE,2
+UNKNOWN,renault,DUZCE,2
+UNKNOWN,renault,KAYSERI,4
+UNKNOWN,renault,MALATYA,2
+UNKNOWN,renault,OSMANİYE,2
+UNKNOWN,renault,ERZINCAN,2
+UNKNOWN,renault,ADIYAMAN,2
+ANKARA,ricoh_europe,Yenimahalle,1
+İSTANBUL,ricoh_europe,Şişli,1
+İZMIR,ricoh_europe,Withco,1
+ᲐᲭᲐᲠᲐ,rompetrol,გონიო,1
+UNKNOWN,rsg_group,Istanbul,1
+VAN,sbarro,VAN,1
+VAN,sbarro,unknown,1
+TURKEY,sbarro,Siirt,1
+BATMAN,sbarro,BATMAN										,1
+KAYAPINAR,sbarro,Diyarbakır,1
+UNKNOWNANLIURFA,sbarro,SANLIURFA,1
+GAZIANTEP,sbarro,unknown,3
+HATAY,sbarro,İSKENDERUN ,1
+ELAZIUNKNOWN,sbarro,unknown,1
+ERZURUM,sbarro,unknown,1
+MALATYA,sbarro,unknown,1
+OSMANIYE,sbarro,Osmaniye Merkez,1
+KAHRAMANMARAUNKNOWN,sbarro,unknown,1
+ADANA,sbarro,unknown,2
+ADANA,sbarro,Adana,1
+ADANA,sbarro,ADANA,1
+MERSIN,sbarro,MERSIN,1
+MERSIN,sbarro,unknown,2
+TRABZON,sbarro,unknown,1
+TRABZON,sbarro,Trabzon,1
+KAYSERI,sbarro,Kacasinan Kayseri ,1
+KARAMAN,sbarro,Karaman,1
+KOCASİNAN,sbarro,Kayseri,1
+TOKAT,sbarro,TOKAT,1
+KONYA,sbarro,Selçuklu/Konya,1
+KONYA,sbarro,unknown,2
+ANTALYA,sbarro,unknown,3
+ANTALYA,sbarro,Antalya,2
+SAMSUN,sbarro,unknown,1
+ISPARTA,sbarro,ISPARTA,1
+ANKARA,sbarro,Goelbasi,1
+ANKARA,sbarro,unknown,5
+ANKARA,sbarro,Ankara,2
+AFYONKARAHISAR,sbarro,unknown,1
+DENIZLI,sbarro,unknown,1
+AYDIN,sbarro,AYDIN,1
+ESKISEHIR,sbarro,ESKISEHIR,1
+ESKIUNKNOWNEHIR,sbarro,unknown,1
+KÜTAHYA,sbarro,unknown,1
+BOLU,sbarro,unknown,1
+ZONGULDAK,sbarro,unknown,1
+SAKARYA,sbarro,Sakarya,1
+UNKNOWNZMIR,sbarro,unknown,2
+IZMIR,sbarro,?ZM?R,1
+IZMIR,sbarro,Izmir,1
+KOCAELI,sbarro,unknown,1
+KOCAELI,sbarro,Dolphin,1
+BURSA,sbarro,Osmangazi,1
+BURSA,sbarro,unknown,3
+BALIKESIR,sbarro,Balikesir,1
+YALOVA,sbarro,Yalova,1
+UNKNOWNSTANBUL,sbarro,unknown,9
+ISTANBUL,sbarro,İstanbul,1
+ISTANBUL,sbarro,Istanbul,9
+ISTANBUL,sbarro,unknown,2
+ISTANBUL,sbarro,Maltepe/İstanbul,1
+UNKNOWNSTANBUL,sbarro,ISTANBUL,2
+ISTANBUL,sbarro,Üsküdar ,1
+ISTANBUL,sbarro,BAGIMIZ ALAL SISLI ISTANBUL,1
+ISTANBUL,sbarro,İSTANBUL,1
+ISTANBUL,sbarro,ESENYURT,1
+ISTANBUL,sbarro,ŞİŞLİ,1
+EDIRNE,sbarro,unknown,1
+ISTANBUL,shake_shack,unknown,5
+ISTANBUL,shake_shack,Atasehir,1
+GAZIANTEP,shell,ŞEHİTKAMİL GAZİANTEP,10
+GAZIANTEP,shell,SEHİTKAMİL GAZİANTEP,1
+GAZIANTEP,shell,MERKEZ GAZİANTEP,2
+GAZIANTEP,shell,ŞAHİNBEY GAZİANTEP,2
+GAZIANTEP,shell,GAZİANTEP,2
+GAZIANTEP,shell,ŞAHİNBEY GAZIANTEP,1
+GAZIANTEP,shell,SEHITKAMIL-GAZIANTEP,1
+GAZIANTEP,shell,ŞEHİTKAMİL  GAZİANTEP,1
+KAHRAMANMARAS,shell,PAZARCIK KAHRAMANMARAŞ,1
+KILIS,shell,MERKEZ / KİLİS,1
+GAZIANTEP,shell,NİZİP / GAZİANTEP,1
+GAZIANTEP,shell,NİZİP - GAZİANTEP,1
+KAHRAMANMARAS,shell, PAZARCIK KAHRAMANMARAŞ,1
+KAHRAMANMARAS,shell,TÜRKOĞLU KAHRAMANMARAŞ,1
+KAHRAMANMARAS,shell,DULKADİROĞLU KAHRAMANMARAŞ,3
+KAHRAMANMARAS,shell,ONİKİŞUBAT KAHRAMANMARAŞ,1
+ADIYAMAN,shell,GÖLBAŞI ADIYAMAN,2
+HATAY,shell,HASSA - HATAY,1
+HATAY,shell,KIRIKHAN HATAY,1
+OSMANIYE,shell,MERKEZ OSMANİYE,3
+OSMANIYE,shell,BAHÇE OSMANİYE,1
+HATAY,shell,DÖRTYOL HATAY,1
+HATAY,shell,KIRIKHAN / HATAY,1
+OSMANIYE,shell,TOPRAKKALE OSMANİYE,1
+ADIYAMAN,shell,MERKEZ ADIYAMAN,2
+HATAY,shell,BELEN HATAY,1
+HATAY,shell,İSKENDERUN - HATAY,1
+ADIYAMAN,shell,ADIYAMAN,1
+HATAY,shell,İSKENDERUN HATAY,2
+KAHRAMANMARAS,shell,ELBİSTAN KAHRAMANMARAŞ,1
+KAHRAMANMARAS,shell,ELBISTAN KAHRAMANMARAŞ,1
+KAHRAMANMARAS,shell,AFŞİN KAHRAMANMARAŞ,1
+ISTANBUL,shell,KARTAL İSTANBUL,6
+ISTANBUL,shell,PENDIK-ISTANBUL,1
+ISTANBUL,shell,PENDIK ISTANBUL,2
+ISTANBUL,shell,PENDİK ISTANBUL,1
+ISTANBUL,shell,PENDİK İSTANBUL,6
+ISTANBUL,shell,MALTEPE İSTANBUL,4
+ISTANBUL,shell,SANCAKTEPE İSTANBUL,6
+ISTANBUL,shell,SULTANBEYLİ İSTANBUL,2
+ISTANBUL,shell,TUZLA İSTANBUL,5
+ISTANBUL,shell,TUZLA ISTANBUL,1
+ISTANBUL,shell, TUZLA ISTANBUL,1
+ISTANBUL,shell,ATAŞEHİR İSTANBUL,1
+ISTANBUL,shell,KADIKÖY İSTANBUL,5
+ISTANBUL,shell,SANCAKTEPE / İSTANBUL,1
+ISTANBUL,shell,ÜMRANİYE İSTANBUL,4
+ISTANBUL,shell,ÇEKMEKÖY İSTANBUL,4
+KOCAELI,shell,ŞEKERPINAR ÇAYIROVA KOCAELİ,1
+KOCAELI,shell,GEBZE KOCAELİ,8
+ISTANBUL,shell,ÜMRANIYE İSTANBUL,1
+ANTALYA,shell,ALANYA ANTALYA,4
+ANTALYA,shell,MERKEZ ANTALYA,4
+ANTALYA,shell,GAZİPAŞA ANTALYA,2
+ANTALYA,shell,MANAVGAT ANTALYA,2
+ANTALYA,shell,MANAVGAT-ANTALYA,1
+ANTALYA,shell,MANAVGAT / ANTALYA,1
+KONYA,shell,HADIM KONYA,1
+ANTALYA,shell,MERKEZ/ANTALYA,1
+MERSIN,shell,MERKEZ MERSIN,1
+ANTALYA,shell,SERİK ANTALYA,4
+ANTALYA,shell,MERKEZ-ANTALYA,2
+KONYA,shell,SEYDİSEHİR KONYA,1
+ANTALYA,shell,AKSU  ANTALYA,1
+ANTALYA,shell,MERKEZ  ANTALYA,1
+ANTALYA,shell,AKSU ANTALYA,1
+ANTALYA,shell,AKSU - ANTALYA,1
+ANTALYA,shell,MURATPAŞA ANTALYA,5
+MERSIN,shell,MERSİN,1
+ANTALYA,shell,KEPEZ ANTALYA,4
+ANTALYA,shell,ANTALYA,3
+ANTALYA,shell,MURATPASA ANTALYA,1
+KARAMAN,shell,MERKEZ KARAMAN,2
+ANTALYA,shell,VARSAK ANTALYA,1
+MERSIN,shell,MUT MERSİN,1
+ANTALYA,shell,KEPEZ / ANTALYA,1
+KONYA,shell,BEYŞEHİR KONYA,2
+KONYA,shell,MERAM / KONYA,1
+KONYA,shell,MERAM KONYA,1
+KONYA,shell,MERAM - KONYA,1
+KONYA,shell,SELÇUKLU KONYA,4
+SAKARYA,shell,AKYAZI SAKARYA,1
+SAKARYA,shell,HENDEK SAKARYA,1
+SAKARYA,shell,MERKEZ SAKARYA,2
+SAKARYA,shell,HENDEK - SAKARYA,1
+SAKARYA,shell,ARİFİYE SAKARYA,2
+SAKARYA,shell,ADAPAZARI SAKARYA,4
+SAKARYA,shell,ARİFİYE - SAKARYA,1
+SAKARYA,shell,SERDİVAN SAKARYA,3
+SAKARYA,shell,SERDİVAN / SAKARYA,1
+SAKARYA,shell,SÖĞÜTLÜ SAKARYA,1
+SAKARYA,shell,FERİZLİ SAKARYA,1
+SAKARYA,shell,GEYVE SAKARYA,1
+DÜZCE,shell,GÜMÜŞOVA DÜZCE,1
+KOCAELI,shell,İZMİT KOCAELİ,4
+DÜZCE,shell,MERKEZ / DÜZCE,1
+DÜZCE,shell,ÇİLİMLİ DÜZCE,1
+KOCAELI,shell,KARTEPE KOCAELİ,3
+KOCAELI,shell,KARTEPE / KOCAELİ,1
+SAKARYA,shell,KARASU SAKARYA,1
+KOCAELI,shell,KARTEPE  KOCAELİ,1
+DÜZCE,shell,MERKEZ DÜZCE,3
+KOCAELI,shell,BAŞİSKELE KOCAELİ,2
+KOCAELI,shell,İZMİT / KOCAELİ,2
+DÜZCE,shell,AKÇAKOCA DÜZCE,2
+KOCAELI,shell,BAŞİSKELE - KOCAELİ,1
+KOCAELI,shell,GÖLCÜK KOCAELİ,1
+KOCAELI,shell,DERİNCE KOCAELİ,2
+KOCAELI,shell,KÖRFEZ KOCAELİ,3
+BOLU,shell,MERKEZ BOLU,5
+BILECIK,shell,MERKEZ BİLECİK,1
+ESKISEHIR,shell,ESKİŞEHİR,1
+AYDIN,shell,ÇİNE AYDIN,3
+AYDIN,shell,KÖŞK AYDIN,1
+AYDIN,shell,MERKEZ AYDIN,3
+AYDIN,shell,EFELER AYDIN,2
+MUGLA,shell,YATAĞAN MUĞLA,2
+AYDIN,shell,AYDIN,1
+AYDIN,shell,KOÇARLI - AYDIN,1
+AYDIN,shell,NAZİLLİ  AYDIN,1
+AYDIN,shell,INCIRLIOVA AYDIN,1
+AYDIN,shell,NAZİLLİ AYDIN,1
+MUGLA,shell,MİLAS MUĞLA,4
+MUGLA,shell,MİLAS /MUĞLA,1
+MUGLA,shell,BAYIR MUĞLA,1
+MUGLA,shell,MUGLA,1
+AYDIN,shell,NAZILLI AYDIN,1
+AYDIN,shell,GERMENCİK AYDIN,1
+MUGLA,shell,MERKEZ MUĞLA,1
+AYDIN,shell,KUYUCAK / AYDIN,1
+AYDIN,shell,SÖKE - AYDIN,2
+IZMIR,shell,AYDIN SÖKE,1
+AYDIN,shell,ORTAKLAR GERMENCİK AYDIN,1
+AYDIN,shell,SÖKE AYDIN,3
+MUGLA,shell,MENTEŞE MUĞLA,2
+AYDIN,shell,DİDİM AYDIN,2
+IZMIR,shell,TİRE İZMİR,1
+IZMIR,shell,ÖDEMİŞ İZMİR,3
+AYDIN,shell,KUŞADASI AYDIN,5
+MUGLA,shell,ULA MUĞLA,2
+IZMIR,shell,ÖDEMİŞ / İZMİR,1
+IZMIR,shell,SELÇUK - İZMİR,1
+IZMIR,shell,BAYINDIR İZMİR,1
+IZMIR,shell,BAYINDIR / İZMİR,1
+MUGLA,shell,MARMARİS MUĞLA,2
+BALIKESIR,shell,EDREMİT BALİKESIR,1
+BALIKESIR,shell,EDREMİT BALIKESİR,3
+BALIKESIR,shell,EDREMIT BALIKESIR,1
+BALIKESIR,shell,BURHANİYE BALIKESİR,1
+BALIKESIR,shell,ALTINOLUK EDREMIT BALIKESIR,1
+BALIKESIR,shell,HAVRAN BALIKESİR,1
+BALIKESIR,shell,AYVALIK BALIKESİR,2
+ÇANAKKALE,shell,BAYRAMİÇ ÇANAKKALE,1
+IZMIR,shell,DIKILI IZMIR,1
+ÇANAKKALE,shell,ÇAN ÇANAKKALE,1
+BALIKESIR,shell,İVRİNDİ  BALIKESİR,1
+ÇANAKKALE,shell,EZİNE ÇANAKKALE,1
+IZMIR,shell,BERGAMA İZMİR,2
+BALIKESIR,shell,İVRİNDİ BALIKESİR,1
+IZMIR,shell,KINIK İZMİR,1
+MANISA,shell,SOMA - MANISA,1
+MANISA,shell,SOMA MANİSA,2
+ÇANAKKALE,shell,MERKEZ ÇANAKKALE,4
+IZMIR,shell,ÇANDARLI İZMİR,1
+MANISA,shell,SOMA MANISA,1
+ÇANAKKALE,shell,BİGA ÇANAKKALE,2
+IZMIR,shell,ALİAĞA İZMİR,3
+ÇANAKKALE,shell,BIGA - CANAKKALE,1
+ÇANAKKALE,shell,LAPSEKI CANAKKALE,1
+ÇANAKKALE,shell,LAPSEKİ ÇANAKKALE,2
+BALIKESIR,shell,KARESİ BALIKESİR,2
+BALIKESIR,shell,ALTIEYLÜL BALIKESİR,3
+BALIKESIR,shell,GONEN / BALIKESIR,1
+ÇANAKKALE,shell,GELİBOLU ÇANAKKALE,3
+BALIKESIR,shell,GÖNEN BALIKESIR,1
+IZMIR,shell,FOÇA İZMİR,1
+IZMIR,shell,MENEMEN İZMİR,2
+IZMIR,shell,KARABAĞLAR İZMİR,2
+IZMIR,shell,KARABAĞLAR  İZMİR,1
+IZMIR,shell,ÜÇKUYULAR İZMİR,1
+IZMIR,shell,BALÇOVA İZMİR,1
+IZMIR,shell,ŞİRİNYER BUCA İZMİR,1
+IZMIR,shell,BORNOVA İZMİR,8
+IZMIR,shell,KONAK İZMİR,1
+IZMIR,shell,BORNOVA IZMIR,1
+IZMIR,shell,KARŞIYAKA İZMİR,1
+IZMIR,shell,BAYRAKLI İZMİR,3
+IZMIR,shell,BAYRAKLI IZMIR,1
+IZMIR,shell,CIGLI IZMIR,1
+IZMIR,shell,MENDERES İZMİR,2
+IZMIR,shell,BORNOVA - İZMİR,1
+IZMIR,shell,BUCA İZMİR,2
+IZMIR,shell,GÜZELBAHÇE / İZMİR,1
+IZMIR,shell,MENEMEN IZMIR,2
+IZMIR,shell,GÜZELBAHÇE İZMİR,3
+IZMIR,shell,KEMALPAŞA İZMİR,1
+IZMIR,shell,ULUCAK KEMALPAŞA İZMİR,1
+IZMIR,shell,İZMİR,1
+IZMIR,shell,IZMIR,1
+IZMIR,shell,KEMALPASA IZMIR,1
+IZMIR,shell,TORBALI İZMİR,2
+MANISA,shell,MERKEZ MANİSA,2
+IZMIR,shell,KEMALPASA-IZMIR,1
+MANISA,shell,YUNUSEMRE MANİSA,1
+IZMIR,shell,MERKEZ İZMİR,1
+IZMIR,shell,SEFERİHİSAR İZMİR,1
+MANISA,shell,SARIGÖL - MANİSA,2
+MANISA,shell,ALAŞEHİR MANİSA,1
+MANISA,shell,ALAŞEHİR MANISA,1
+MANISA,shell,KULA MANİSA,2
+DENIZLI,shell,SARAYKÖY DENİZLİ,1
+MANISA,shell,SALİHLİ / MANİSA,2
+DENIZLI,shell,MERKEZEFENDI DENIZLI,1
+MANISA,shell,SALİHLİ MANİSA,3
+DENIZLI,shell,MERKEZ DENİZLİ,3
+USAK,shell,ULUBEY UŞAK,1
+DENIZLI,shell,GÜMÜŞLER DENİZLİ,1
+DENIZLI,shell,PAMUKKALE DENİZLİ,3
+MANISA,shell,SALİHLİ/MANİSA,1
+DENIZLI,shell,MERKEZ -DENIZLI,1
+MANISA,shell,AHMETLİ MANİSA,1
+USAK,shell,MERKEZ UŞAK,4
+DENIZLI,shell,KAKLIK HONAZ DENİZLİ,1
+USAK,shell,MERKEZ USAK,1
+MANISA,shell,GÖLMARMARA MANİSA,1
+DENIZLI,shell,KALE DENİZLİ,1
+KÜTAHYA,shell,SİMAV - KÜTAHYA,1
+MALATYA,shell,MALATYA,2
+MALATYA,shell,YEŞİLYURT MALATYA,6
+MALATYA,shell,MERKEZ MALATYA,1
+MALATYA,shell,BATTALGAZİ MALATYA,1
+MALATYA,shell,BATTALGAZI MALATYA,1
+MALATYA,shell,YEŞİLYURT - MALATYA,1
+ELAZIG,shell,MERKEZ ELAZIĞ,5
+SIVAS,shell,GÜRÜN SİVAS,2
+SANLIURFA,shell,HİLVAN ŞANLIURFA,1
+SANLIURFA,shell,SİVEREK ŞANLIURFA,1
+DIYARBAKIR,shell,ERGANİ / DİYARBAKIR,1
+SANLIURFA,shell,ŞANLIURFA KARAKÖPRÜ,1
+SANLIURFA,shell,KARAKÖPRÜ ŞANLIURFA,1
+SANLIURFA,shell,MERKEZ ŞANLIURFA,2
+SANLIURFA,shell,HALİLİYE ŞANLIURFA,3
+TUNCELI,shell,MERKEZ TUNCELİ,1
+ANKARA,shell,KIZILCAHAMAM ANKARA,1
+ÇANKIRI,shell,ÇERKEŞ  ÇANKIRI,1
+ANKARA,shell,GÜDÜL ANKARA,1
+ANKARA,shell,KAHRAMANKAZAN / ANKARA,1
+ANKARA,shell,YENİMAHALLE ANKARA,11
+BOLU,shell,GEREDE BOLU,2
+ANKARA,shell,PURSAKLAR ANKARA,2
+ANKARA,shell,KEÇIÖREN ANKARA,1
+ANKARA,shell,YENİMAHALLE / ANKARA,1
+ANKARA,shell,SİNCAN ANKARA,3
+ANKARA,shell,ETİMESGUT ANKARA,6
+ANKARA,shell,ALTINDAĞ ANKARA,8
+ANKARA,shell,KEÇİÖREN ANKARA,2
+ANKARA,shell,İSKİTLER ANKARA,1
+ANKARA,shell,ÇANKAYA ANKARA,12
+ANKARA,shell,MAMAK ANKARA,3
+BURSA,shell,OSMANGAZİ BURSA,5
+BURSA,shell,OSMANGAZI / BURSA,1
+BURSA,shell,OSMANGAZI BURSA,1
+BURSA,shell,BURSA,2
+BURSA,shell,YILDIRIM BURSA,5
+BURSA,shell,NİLÜFER - BURSA,2
+BURSA,shell,NİLÜFER BURSA,7
+BURSA,shell,MERKEZ BURSA,2
+BURSA,shell,OSMANGAZİ / BURSA,1
+BURSA,shell,MUDANYA BURSA,1
+BURSA,shell,YILDIRIM - BURSA,1
+BURSA,shell,GEMLİK BURSA,4
+BURSA,shell,NİLÜFER  BURSA,1
+BURSA,shell,GEMLIK BURSA,1
+BURSA,shell,KESTEL BURSA,3
+BURSA,shell,GEMLİK/BURSA,1
+BURSA,shell,NILUFER BURSA,1
+BURSA,shell,NİLÜFER / BURSA,1
+BURSA,shell,ORHANGAZİ BURSA,1
+BURSA,shell,İNEGÖL BURSA,7
+YALOVA,shell,ARMUTLU YALOVA,1
+YALOVA,shell,MERKEZ YALOVA,4
+YALOVA,shell, CIFTLIKKOY / YALOVA,1
+MARDIN,shell,ARTUKLU MARDİN,2
+MARDIN,shell,MERKEZ MARDİN,3
+MARDIN,shell,KIZILTEPE MARDİN,2
+DIYARBAKIR,shell,BİSMİL DİYARBAKIR,1
+MARDIN,shell,MIDYAT -MARDIN,1
+DIYARBAKIR,shell,BAĞLAR DİYARBAKIR,2
+BATMAN,shell,MERKEZ BATMAN,2
+DIYARBAKIR,shell,YENİŞEHİR DİYARBAKIR,4
+DIYARBAKIR,shell,MERKEZ DİYARBAKIR,4
+DIYARBAKIR,shell,BAGLAR DIYARBAKIR,1
+DIYARBAKIR,shell,DIYARBAKIR,1
+DIYARBAKIR,shell,KAYAPINAR / DİYARBAKIR,1
+DIYARBAKIR,shell,DİYARBAKIR,2
+SANLIURFA,shell,VİRANŞEHİR ŞANLIURFA,2
+DIYARBAKIR,shell,KAYAPINAR DIYARBAKIR,1
+DIYARBAKIR,shell,KAYAPINAR  DİYARBAKIR,1
+BATMAN,shell,KOZLUK BATMAN,1
+SIIRT,shell,MERKEZ SİİRT,1
+SIRNAK,shell,ŞIRNAK MERKEZ,1
+MUS,shell,MERKEZ MUŞ,1
+MUS,shell,MERKEZ - MUŞ,1
+BINGÖL,shell,MERKEZ BİNGÖL,2
+BITLIS,shell,TATVAN / BİTLİS,1
+BITLIS,shell,TATVAN BİTLİS,1
+AFYONKARAHISAR,shell,MERKEZ AFYONKARAHİSAR,4
+AFYONKARAHISAR,shell,SİNANPAŞA AFYONKARAHİSAR,2
+AFYONKARAHISAR,shell,İSCEHİSAR AFYONKARAHİSAR,1
+AFYONKARAHISAR,shell,SANDIKLI AFYON,1
+AFYONKARAHISAR,shell,SANDIKLI AFYONKARAHİSAR,2
+AFYONKARAHISAR,shell,ÇAY AFYONKARAHİSAR,1
+AFYONKARAHISAR,shell,BOLVADIN AFYON,1
+AFYONKARAHISAR,shell,BOLVADIN / AFYONKARAHISAR,1
+AFYONKARAHISAR,shell,EMIRDAG- AFYONKARAHISAR,1
+USAK,shell,BANAZ UŞAK,1
+USAK,shell,BANAZ - USAK,1
+ISPARTA,shell,ULUBORLU ISPARTA,1
+ESKISEHIR,shell,ÇİFTELER ESKİŞEHİR,1
+KÜTAHYA,shell,MERKEZ KÜTAHYA,4
+DENIZLI,shell,CIVRIL DENIZLI,1
+AFYONKARAHISAR,shell,DİNAR AFYONKARAHİSAR,1
+AFYONKARAHISAR,shell,DİNAR AFYON,1
+KÜTAHYA,shell,GEDİZ - KÜTAHYA,1
+KONYA,shell,AKŞEHİR KONYA,1
+ISPARTA,shell,KECIBORLU ISPARTA,1
+ESKISEHIR,shell,ODUNPAZARI ESKİŞEHİR,7
+ISPARTA,shell,GÖNEN ISPARTA,1
+ESKISEHIR,shell,MERKEZ ESKİŞEHİR,2
+ESKISEHIR,shell,ODUNPAZARI ESKISEHIR,1
+ISPARTA,shell,MERKEZ ISPARTA,3
+ESKISEHIR,shell,TEPEBAŞI ESKİŞEHİR,1
+ESKISEHIR,shell,İNÖNÜ ESKİŞEHİR,1
+NIGDE,shell,MERKEZ NİĞDE,3
+NIGDE,shell,BOR NİĞDE,1
+KAYSERI,shell,YEŞİLHİSAR KAYSERİ,2
+NEVSEHIR,shell,MERKEZ NEVŞEHİR,4
+ADANA,shell,POZANTI ADANA,1
+KAYSERI,shell,YAHYALI KAYSERİ,1
+AKSARAY,shell,MERKEZ AKSARAY,4
+NEVSEHIR,shell,ACIGÖL - NEVŞEHİR,1
+ADANA,shell,ALADAG ADANA,1
+NEVSEHIR,shell,MERKEZ  NEVŞEHİR,1
+KONYA,shell,EREĞLİ KONYA,2
+AKSARAY,shell,MERKEZ / AKSARAY,1
+AKSARAY,shell,AKSARAY,1
+NEVSEHIR,shell,AVANOS NEVŞEHİR,1
+NEVSEHIR,shell,GÜLŞEHİR  NEVŞEHİR,1
+KAYSERI,shell,DEVELİ KAYSERİ,1
+KONYA,shell,KARAPINAR KONYA,2
+MERSIN,shell,TARSUS MERSİN,5
+KAYSERI,shell,İNCESU KAYSERİ,1
+KAYSERI,shell,MELİKGAZİ - KAYSERİ,1
+KAYSERI,shell,MERKEZ KAYSERİ,1
+KAYSERI,shell,MELIKGAZI / KAYSERİ,1
+KAYSERI,shell,MELİKGAZİ KAYSERİ,7
+KAYSERI,shell,MELİKGAZİ / KAYSERİ,1
+KAYSERI,shell,KOCASİNAN KAYSERİ,3
+KAYSERI,shell,KAYSERİ KOCASİNAN,1
+ADANA,shell,SEYHAN ADANA,11
+MERSIN,shell,TARSUS MERSIN,1
+MERSIN,shell,TARSUS-MERSİN,1
+MERSIN,shell,HUZURKENT TARSUS MERSİN,1
+ISTANBUL,shell,BÜYÜKÇEKMECE İSTANBUL,7
+ISTANBUL,shell,BEYLİKDÜZÜ İSTANBUL,2
+ISTANBUL,shell,ESENYURT  İSTANBUL,2
+ISTANBUL,shell,ESENYURT İSTANBUL,3
+ISTANBUL,shell,ESENYURT ISTANBUL,2
+ISTANBUL,shell,AVCILAR İSTANBUL,1
+ISTANBUL,shell,İSTANBUL,1
+ISTANBUL,shell,BAŞAKŞEHİR / İSTANBUL,1
+ISTANBUL,shell,BAŞAKŞEHİR İSTANBUL,2
+ISTANBUL,shell,KÜÇÜKÇEKMECE / İSTANBUL,1
+ISTANBUL,shell,KÜÇÜKÇEKMECE - İSTANBUL,1
+ISTANBUL,shell,ARNAVUTKÖY İSTANBUL,5
+ISTANBUL,shell,KÜCÜKÇEKMEÇE ISTANBUL,1
+ISTANBUL,shell,KÜÇÜKÇEKMECE İSTANBUL,3
+ISTANBUL,shell,BAKIRKÖY İSTANBUL,5
+ISTANBUL,shell,KÜÇÜKCEKMECE İSTANBUL,1
+ISTANBUL,shell,BAĞCILAR İSTANBUL,5
+ISTANBUL,shell,BAHÇELİEVLER İSTANBUL,1
+ISTANBUL,shell,BAŞAKŞEHIR İSTANBUL,1
+ISTANBUL,shell,BAGCILAR ISTANBUL,2
+ISTANBUL,shell,BAŞAKŞEHİR/ İSTANBUL,1
+ISTANBUL,shell,ESENLER ISTANBUL,2
+ISTANBUL,shell,ESENLER İSTANBUL,2
+ISTANBUL,shell,BASAKSEHIR ISTANBUL,1
+ISTANBUL,shell,ARNAVUTKÖY/ İSTANBUL,1
+IZMIR,shell,CESME /IZMIR,1
+IZMIR,shell,ÇEŞME İZMİR,2
+IZMIR,shell,ÇEŞME - İZMİR,1
+ISTANBUL,shell,EYÜP İSTANBUL,4
+ISTANBUL,shell,GAZIOSMANPASA ISTANBUL,1
+ISTANBUL,shell,KAĞITHANE / İSTANBUL,1
+ISTANBUL,shell,GAZIOSMANPASA İSTANBUL,1
+ISTANBUL,shell,GAZIOSMANPAŞA ISTANBUL,1
+ISTANBUL,shell,BEYOĞLU İSTANBUL,1
+ISTANBUL,shell,KAĞITHANE İSTANBUL,2
+ISTANBUL,shell,BAYRAMPAŞA İSTANBUL,2
+ISTANBUL,shell,KAĞITHANE  İSTANBUL,1
+ISTANBUL,shell,ŞİŞLİ İSTANBUL,1
+ISTANBUL,shell,KAĞITHANE - İSTANBUL,1
+ISTANBUL,shell,ŞİŞLİ  İSTANBUL,1
+ISTANBUL,shell,SULTANGAZİ İSTANBUL,2
+ISTANBUL,shell,BAYRAMPASA ISTANBUL,2
+ISTANBUL,shell,FATİH İSTANBUL,1
+ISTANBUL,shell,SULTANGAZİ - İSTANBUL,1
+ISTANBUL,shell,BEŞİKTAŞ İSTANBUL,3
+ISTANBUL,shell,ZEYTİNBURNU İSTANBUL,3
+ISTANBUL,shell,GÜNGÖREN İSTANBUL,2
+ISTANBUL,shell,SULTANGAZI / İSTANBUL,1
+ISTANBUL,shell,GÜNGÖREN - İSTANBUL,1
+ISTANBUL,shell,ÜSKÜDAR ISTANBUL,1
+ISTANBUL,shell,SARIYER ISTANBUL,1
+ISTANBUL,shell,GÜNGÖREN ISTANBUL,1
+ISTANBUL,shell,ÜSKÜDAR İSTANBUL,2
+ISTANBUL,shell,BEYKOZ İSTANBUL,3
+ISTANBUL,shell,EYÜPSULTAN  İSTANBUL,1
+SINOP,shell,MERKEZ SINOP,1
+TOKAT,shell,MERKEZ TOKAT,3
+TOKAT,shell,ERBAA TOKAT,1
+TOKAT,shell,TURHAL TOKAT,1
+TOKAT,shell,NİKSAR TOKAT,1
+TOKAT,shell,ZİLE TOKAT,1
+AMASYA,shell,TAŞOVA AMASYA,1
+AMASYA,shell,GÖKMEDRESE MERKEZ AMASYA,1
+SIVAS,shell,MERKEZ SİVAS,7
+YOZGAT,shell,AKDAĞMADENİ  YOZGAT,1
+AMASYA,shell,SULUOVA AMASYA,1
+SAMSUN,shell,HAVZA SAMSUN,1
+SAMSUN,shell,ÇARŞAMBA SAMSUN,2
+SAMSUN,shell,TEKKEKÖY SAMSUN,2
+SAMSUN,shell,TERME SAMSUN,2
+SAMSUN,shell,TEKKEKÖY - SAMSUN,1
+ORDU,shell,ÜNYE - ORDU,1
+ORDU,shell,ÜNYE ORDU,1
+AMASYA,shell,MERZİFON AMASYA,2
+SAMSUN,shell,İLKADIM SAMSUN,1
+SIVAS,shell,ZARA SİVAS,1
+SAMSUN,shell,MERKEZ SAMSUN,1
+SIVAS,shell,ŞARKIŞLA SİVAS,1
+ORDU,shell,ORDU,1
+ORDU,shell,FATSA ORDU,1
+SAMSUN,shell,ATAKUM SAMSUN,2
+SAMSUN,shell,VEZİRKÖPRÜ / SAMSUN,1
+SAMSUN,shell,19 MAYIS SAMSUN,2
+YOZGAT,shell,SORGUN - YOZGAT,1
+AMASYA,shell,GÜMÜŞHACIKÖY AMASYA,1
+YOZGAT,shell,SORGUN YOZGAT,1
+SAMSUN,shell,19 MAYIS/SAMSUN,1
+ORDU,shell,MERKEZ ORDU,3
+SIVAS,shell,GEMEREK SIVAS,1
+YOZGAT,shell,SARIYAKA YOZGAT,1
+SAMSUN,shell,BAFRA SAMSUN,1
+ISTANBUL,shell,SARIYER İSTANBUL,3
+TEKIRDAG,shell,MERKEZ TEKİRDAĞ,2
+TEKIRDAG,shell,SÜLEYMANPAŞA TEKİRDAĞ,4
+TEKIRDAG,shell, MERKEZ TEKİRDAĞ,1
+TEKIRDAG,shell,TEKİRDAĞ,1
+TEKIRDAG,shell,MURATLI - TEKİRDAĞ,1
+TEKIRDAG,shell,MARMARAEREĞLİSİ TEKİRDAĞ,2
+TEKIRDAG,shell,ERGENE TEKİRDAĞ,1
+TEKIRDAG,shell,ÇERKEZKÖY TEKİRDAĞ,3
+TEKIRDAG,shell,ÇORLU TEKİRDAĞ,3
+KIRKLARELI,shell,LÜLEBURGAZ KIRKLARELİ,1
+TEKIRDAG,shell,CORLU TEKIRDAG,1
+ISTANBUL,shell,SILIVRI - ISTANBUL,1
+ISTANBUL,shell,SİLİVRİ İSTANBUL,7
+TEKIRDAG,shell,ŞARKÖY TEKİRDAĞ,1
+KIRKLARELI,shell,LÜLEBURGAZ - KIRKLARELİ,1
+TEKIRDAG,shell,SARAY TEKİRDAĞ,1
+ISTANBUL,shell,SİLİVRİ - İSTANBUL,1
+EDIRNE,shell,KEŞAN EDİRNE,2
+KIRKLARELI,shell,VİZE KIRKLARELİ,2
+EDIRNE,shell,UZUNKÖPRÜ EDİRNE,3
+EDIRNE,shell,UZUNKOPRU EDİRNE,1
+BALIKESIR,shell,MERKEZ BALIKESİR,2
+BALIKESIR,shell,BANDIRMA BALIKESİR,2
+BALIKESIR,shell,GÖNEN BALIKESİR,1
+KIRKLARELI,shell,MERKEZ KIRKLARELİ,2
+MANISA,shell,AKHİSAR MANİSA,1
+MANISA,shell,AKHISAR MANİSA,1
+MANISA,shell,AKHISAR MANISA,2
+MANISA,shell,KIRKAGAC MANİSA,1
+MANISA,shell,KIRKAGAÇ MANISA,1
+MANISA,shell,MANİSA,1
+MANISA,shell,ŞEHZADELER MANİSA,1
+MANISA,shell,TURGUTLU MANİSA,3
+IZMIR,shell,KEMALPAŞA IZMIR,1
+BURSA,shell,MUSTAFAKEMALPAŞA BURSA,4
+BURSA,shell,MUSTAFAKEMALPAŞA / BURSA,1
+BALIKESIR,shell,SUSURLUK BALIKESİR,3
+BURSA,shell,KARACABEY BURSA,1
+BALIKESIR,shell,KEPSUT BALIKESİR,1
+EDIRNE,shell,KAPIKULE MERKEZ EDİRNE,1
+EDIRNE,shell,MERKEZ EDİRNE,6
+EDIRNE,shell,EDIRNE,1
+EDIRNE,shell,İPSALA / EDİRNE,1
+ISTANBUL,shell,ÇEKMEKÖY  İSTANBUL,1
+ISTANBUL,shell,ÇEKMEKÖY / İSTANBUL,1
+ISTANBUL,shell,SILE ISTANBUL,1
+ADANA,shell,KOZAN - ADANA,2
+ADANA,shell,KOZAN ADANA,1
+ADANA,shell,KOZAN/ADANA,1
+OSMANIYE,shell,KADİRLİ OSMANİYE,1
+ADANA,shell,İMAMOĞLU ADANA,1
+ADANA,shell,CEYHAN ADANA,1
+ADANA,shell,SARIÇAM ADANA,1
+ADANA,shell,SARIÇAM / ADANA,1
+ADANA,shell,YÜREĞİR ADANA,5
+ADANA,shell,ÇUKUROVA ADANA,1
+ADANA,shell,SEYHAN - ADANA,1
+ADANA,shell,MERKEZ ADANA,1
+ADANA,shell,MERKEZ -ADANA,1
+KAHRAMANMARAS,shell,GÖKSUN  KAHRAMANMARAŞ,1
+ANTALYA,shell,KAŞ ANTALYA,1
+MUGLA,shell,FETHİYE MUĞLA,2
+MUGLA,shell,FETHIYE MUĞLA,1
+MUGLA,shell,FETHİYE - MUĞLA,1
+MUGLA,shell,DALAMAN MUĞLA,1
+MUGLA,shell,ORTACA MUĞLA,1
+MUGLA,shell,DALYAN ORTACA MUĞLA,1
+ANTALYA,shell,KUMLUCA ANTALYA,3
+MUGLA,shell,KOYCEGIZ MUGLA,1
+BURDUR,shell,ÇAVDIR BURDUR,1
+ANTALYA,shell,KEMER ANTALYA,2
+MUGLA,shell,MARMARİS  MUĞLA,1
+ANTALYA,shell,KORKUTELI ANTALYA,1
+ANTALYA,shell,GÖYNÜK KEMER ANTALYA,1
+ANTALYA,shell,KORKUTELİ ANTALYA,1
+BURDUR,shell,KARAMANLI BURDUR,1
+DENIZLI,shell,ACIPAYAM DENIZLI,1
+ANTALYA,shell,DÖŞEMELATI ANTALYA,1
+VAN,shell,TUŞBA VAN,1
+VAN,shell,MERKEZ VAN,2
+VAN,shell,İPEKYOLU VAN,2
+VAN,shell,MERKEZ - VAN,1
+VAN,shell,EDREMIT/VAN,1
+VAN,shell,ERCİŞ VAN,1
+HAKKARI,shell,YÜKSEKOVA HAKKARİ,1
+AGRI,shell,DOĞUBAYAZIT AĞRI,1
+AGRI,shell,MERKEZ AGRI,1
+AGRI,shell,MERKEZ AĞRI,1
+IGDIR,shell,MERKEZ  IĞDIR,1
+ERZURUM,shell,PASİNLER ERZURUM,1
+KARS,shell,MERKEZ KARS,2
+ERZURUM,shell,PASİNLER  ERZURUM,1
+KARS,shell,MERKEZ   KARS,1
+ERZURUM,shell,YAKUTİYE - ERZURUM,1
+ERZURUM,shell,YAKUTİYE ERZURUM,2
+ERZURUM,shell,OLTU ERZURUM,1
+ERZURUM,shell,AŞKALE ERZURUM,1
+IZMIR,shell,SELÇUK İZMİR,2
+KASTAMONU,shell,MERKEZ KASTAMONU,6
+KASTAMONU,shell,TOSYA KASTAMONU,1
+KASTAMONU,shell,BOZKURT KASTAMONU,1
+ÇANKIRI,shell,ILGAZ ÇANKIRI,2
+ÇORUM,shell,OSMANCIK ÇORUM,2
+SINOP,shell,BOYABAT SİNOP,1
+ÇANKIRI,shell,MERKEZ ÇANKIRI,1
+KARABÜK,shell,MERKEZ KARABÜK,1
+ÇORUM,shell,OSMANCIK - ÇORUM,1
+BARTIN,shell,MERKEZ BARTIN,2
+BARTIN,shell,BARTIN,1
+ÇORUM,shell,MERKEZ ÇORUM,5
+ÇORUM,shell,MERKEZ - ÇORUM,1
+ZONGULDAK,shell,ÇAYCUMA ZONGULDAK,2
+ÇORUM,shell,SUNGURLU ÇORUM,3
+ÇORUM,shell,ALACA ÇORUM,1
+KIRIKKALE,shell,DELİCE KIRIKKALE,2
+ANKARA,shell,ELMADAG ANKARA,2
+KIRIKKALE,shell,YAHŞİHAN KIRIKKALE,1
+MERSIN,shell,MERSIN,1
+MERSIN,shell,MERKEZ MERSİN,3
+MERSIN,shell,YENİŞEHİR MERSİN,1
+MERSIN,shell,YENİŞEHİR  MERSİN,1
+MERSIN,shell,TOROSLAR MERSİN,2
+MERSIN,shell,MEZİTLİ MERSİN,2
+MERSIN,shell,AKDENİZ MERSİN,1
+MERSIN,shell,MEZITLI MERSIN,2
+MERSIN,shell,AKDENİZ - MERSİN,1
+MERSIN,shell,ERDEMLİ - MERSİN,1
+MERSIN,shell,ERDEMLİ MERSİN,1
+MERSIN,shell,SİLİFKE MERSİN,1
+BURSA,shell,İZNİK BURSA,2
+BURSA,shell,YENİŞEHİR BURSA,1
+KOCAELI,shell,KARAMURSEL KOCAELİ,2
+YALOVA,shell,ÇİFTLİKKÖY YALOVA,1
+KOCAELI,shell,DARICA KOCAELİ,1
+KOCAELI,shell,DARICA / KOCAELİ,1
+BILECIK,shell,PAZARYERİ BİLECİK,1
+YOZGAT,shell,BOĞAZLIYAN YOZGAT,2
+KAYSERI,shell,KOCASINAN KAYSERİ,1
+KAYSERI,shell,KOCASINAN -KAYSERI,1
+KAYSERI,shell,KOCASINAN KAYSERI,1
+KAYSERI,shell,KOCASİNAN - KAYSERİ,2
+KAYSERI,shell,TALAS KAYSERİ,1
+KAYSERI,shell,KAYSERİ,1
+YOZGAT,shell,MERKEZ YOZGAT,2
+KIRSEHIR,shell,MERKEZ KIRŞEHİR,2
+MUGLA,shell,BODRUM MUĞLA,3
+MUGLA,shell,BODRUM MUGLA,2
+MUGLA,shell,DATÇA - MUĞLA,1
+ZONGULDAK,shell,MERKEZ ZONGULDAK,1
+ZONGULDAK,shell,ELVANPAZARCIK ZONGULDAK,1
+ZONGULDAK,shell,DEVREK ZONGULDAK,1
+ZONGULDAK,shell,EREĞLİ ZONGULDAK,2
+ZONGULDAK,shell,ALAPLI ZONGULDAK,1
+BOLU,shell,DÖRTDİVAN BOLU,2
+ANKARA,shell,BEYPAZARI ANKARA,1
+ANKARA,shell,GÖLBAŞI ANKARA,5
+ANKARA,shell,CANKAYA ANKARA,1
+GIRESUN,shell,MERKEZ GİRESUN,2
+GIRESUN,shell,MERKEZ - GİRESUN,1
+GIRESUN,shell,BULANCAK GİRESUN,2
+GIRESUN,shell,TİREBOLU GİRESUN,1
+TRABZON,shell,BEŞIKDÜZÜ/TRABZON,1
+TURKEY,shell,TORUL GÜMÜŞHANE,1
+SIVAS,shell,SUŞEHRİ SİVAS,1
+TRABZON,shell,SÖĞÜTLÜ AKÇAABAT TRABZON,1
+TRABZON,shell,AKÇAABAT / TRABZON,1
+TRABZON,shell,ORTAHİSAR TRABZON,1
+TRABZON,shell,MERKEZ TRABZON,2
+ERZINCAN,shell,REFAHİYE ERZİNCAN,1
+TRABZON,shell,YOMRA TRABZON,1
+TRABZON,shell,ARSİN / TRABZON,1
+TRABZON,shell,ARSİN TRABZON,1
+TRABZON,shell,ARAKLI TRABZON,1
+ERZINCAN,shell,MERKEZ ERZİNCAN,1
+TRABZON,shell,OF TRABZON,1
+RIZE,shell,İYİDERE RİZE,1
+BAYBURT,shell,MERKEZ BAYBURT,1
+SAMSUN,shell,ALAÇAM SAMSUN,1
+HATAY,shell,SAMANDAG - HATAY,1
+HATAY,shell,DEFNE HATAY,1
+HATAY,shell,MERKEZ HATAY,1
+HATAY,shell,GÜZELBURÇ HATAY,1
+HATAY,shell,ANTAKYA HATAY,2
+HATAY,shell,GÖZCÜLER İSKENDERUN HATAY,1
+KONYA,shell,KONYA,1
+KONYA,shell,KARATAY KONYA,4
+KONYA,shell,SARAYÖNÜ - KONYA,1
+KONYA,shell,SARAYÖNÜ KONYA,2
+KONYA,shell,CİHANBEYLİ KONYA,3
+ISPARTA,shell,ŞARKİKARAAGAÇ ISPARTA,1
+KONYA,shell,KULU KONYA,1
+ANKARA,shell,Ş.KOÇHİSAR ANKARA,1
+ANKARA,shell,ŞEREFLİKOÇHİSAR ANKARA,2
+KONYA,shell,KULU - KONYA,1
+ANKARA,shell,ŞEREFLIKOÇHISAR  ANKARA,1
+ANKARA,shell,HAYMANA ANKARA,1
+RIZE,shell,PAZAR RİZE,1
+RIZE,shell,ÇAMLIHEMŞİN RİZE,1
+RIZE,shell,ÇAYELİ RİZE,2
+ARTVIN,shell,BORÇKA ARTVİN,1
+ANKARA,shell,POLATLI ANKARA,2
+ESKISEHIR,shell,SİVRİHİSAR ESKİŞEHİR,1
+BILECIK,shell,BOZÜYÜK BİLECİK,2
+BILECIK,shell,BOZUYUK BILECIK,1
+KÜTAHYA,shell,TAVŞANLI KÜTAHYA,1
+BURDUR,shell,BUCAK - BURDUR,1
+BURDUR,shell,ÇELTİKÇİ BURDUR,1
+BURDUR,shell,BUCAK BURDUR,1
+ISPARTA,shell,EĞİRDİR ISPARTA,1
+ANTALYA,shell,YEŞİLBAYIR DEŞEMEALTI ANTALYA,1
+DENIZLI,shell,BOZKURT DENIZLI,1
+ISTANBUL,shell,CATALCA ISTANBUL,1
+ANKARA,shell,ANKARA,1
+IZMIR,shell,URLA İZMİR,1
+MERSIN,shell,SİLİFKE / MERSİN,1
+UNKNOWN,sixt,Adana,2
+UNKNOWN,sixt,Izmir,3
+UNKNOWN,sixt,Istanbul,8
+UNKNOWN,sixt,Konya,1
+UNKNOWN,sixt,Samsun,1
+UNKNOWN,sixt,Sanliurfa,1
+UNKNOWN,sixt,Bursa,1
+UNKNOWN,sixt,Malatya,1
+UNKNOWN,sixt,Edremit (Balikesir),1
+UNKNOWN,sixt,Ankara,2
+UNKNOWN,sixt,Antalya,2
+UNKNOWN,sixt,Kayseri,2
+UNKNOWN,sixt,Mugla,3
+UNKNOWN,sixt,Trabzon,1
+UNKNOWN,sixt,Gaziantep,1
+J,skoda,unknown,5
+H,skoda,unknown,3
+A,skoda,unknown,20
+E,skoda,unknown,6
+UNKNOWN,skoda,unknown,2
+C,skoda,unknown,8
+B,skoda,unknown,6
+K,skoda,unknown,3
+İÇANADOLUBÖLGESI,smart,Kayseri,1
+GÜNEYDOĞUANADOLUBÖLGESI,smart,Gaziantep,1
+ERZURUM,smart,Erzurum,1
+DENIZLI,smart,Denizli,1
+MARMARABÖLGESI,smart,İstanbul,3
+AKDENIZBÖLGESI,smart,Antalya,1
+AKDENIZBÖLGESI,smart,Mersin,1
+ISTANBUL,snap_fitness,Beşiktaş,1
+ISTANBUL,snap_fitness,Şişli,1
+IZMIR,starbucks_eu,Izmir,52
+EDIRNE,starbucks_eu,Edirne,3
+MUGLA,starbucks_eu,Mugla,16
+MUGLA,starbucks_eu,Bodrum,3
+CANAKKALE,starbucks_eu,Canakkale,5
+BALIKESIR,starbucks_eu,Balikesir,9
+TEKIRDAG,starbucks_eu,Tekirdag,4
+IZMIR,starbucks_eu,35663 Menemen/Izmir,1
+IZMIR,starbucks_eu,35630 IZMIR,1
+MANISA,starbucks_eu,Manisa,6
+IZMIR,starbucks_eu,Istanbul,1
+AYDIN,starbucks_eu,Aydin,9
+KIRKLARELI,starbucks_eu,Kirklareli,3
+ISTANBUL,starbucks_eu,Istanbul,178
+ISTANBUL,starbucks_eu,34515 ISTANBUL,1
+ISTANBUL,starbucks_eu,Avrupa,6
+DENIZLI,starbucks_eu,Denizli,4
+BALIKESIR,starbucks_eu,Susurluk,1
+BURSA,starbucks_eu,Bursa,31
+BURSA,starbucks_eu,Osmangazi,1
+BURSA,starbucks_eu,16370 bursa,1
+YALOVA,starbucks_eu,Yalova,1
+ANTALYA,starbucks_eu,Antalya,35
+ISPARTA,starbucks_eu,Isparta,3
+ISTANBUL,starbucks_eu,"Uskudar, Istanbul",1
+ISTANBUL,starbucks_eu,34394 ISTANBUL,1
+ISTANBUL,starbucks_eu,34899 Pendik/Istanbul,1
+ISTANBUL,starbucks_eu,Beyoglu,1
+ISTANBUL,starbucks_eu,Umraniye,1
+KOCAELI,starbucks_eu,Istanbul,3
+ISTANBUL,starbucks_eu,Pendik,2
+ISTANBUL,starbucks_eu,Asya,2
+ISTANBUL,starbucks_eu,Atasehir,1
+KOCAELI,starbucks_eu,Kocaeli,12
+KOCAELI,starbucks_eu,41050 IZMIT,1
+KOCAELI,starbucks_eu,Kocaeli   Izmit,1
+KOCAELI,starbucks_eu,Izmit,1
+SAKARYA,starbucks_eu,Sakarya,7
+DUZCE,starbucks_eu,Duzce,2
+ZONGULDAK,starbucks_eu,Zonguldak,2
+BOLU,starbucks_eu,Bolu,1
+USAK,starbucks_eu,Usak,1
+KUETAHYA,starbucks_eu,Kutahya,2
+BILECIK,starbucks_eu,Bilecik,2
+ESKISEHIR,starbucks_eu,Tepebasi,1
+ESKISEHIR,starbucks_eu,Eskisehir,10
+AFYONKARAHISAR,starbucks_eu,Afyon,3
+AFYONKARAHISAR,starbucks_eu,Afyonkarahisar,2
+BOLU,starbucks_eu,14100 bolu,1
+BOLU,starbucks_eu,Istanbul,1
+ANKARA,starbucks_eu,Ankara,74
+KONYA,starbucks_eu,Konya,10
+KARAMAN,starbucks_eu,Karaman,1
+ANKARA,starbucks_eu,Yenimahalle   Merkez,1
+ANKARA,starbucks_eu,Cankaya,1
+KIRIKKALE,starbucks_eu,Kirikkale,2
+KONYA,starbucks_eu,Ankara,2
+KASTAMONU,starbucks_eu,Kastamonu,1
+CORUM,starbucks_eu,Corum,1
+MERSIN,starbucks_eu,Mersin,9
+MERSIN,starbucks_eu,Mersin   Icel,1
+MERSIN,starbucks_eu,33160 MERSIN,1
+NIGDE,starbucks_eu,Nigde,1
+MERSIN,starbucks_eu,33800 Mersin (Icel),1
+AKSARAY,starbucks_eu,Aksaray,2
+NEVSEHIR,starbucks_eu,Nevsehir,2
+YOZGAT,starbucks_eu,Yozgat,1
+SAMSUN,starbucks_eu,Samsun,5
+SAMSUN,starbucks_eu,Ilkadim,1
+HATAY,starbucks_eu,Hatay,1
+HATAY,starbucks_eu,Tekirdag,1
+ORDU,starbucks_eu,Ordu,1
+GIRESUN,starbucks_eu,Giresun,1
+ADANA,starbucks_eu,Adana,17
+OSMANIYE,starbucks_eu,Osmaniye,1
+KAYSERI,starbucks_eu,Kayseri,5
+TOKAT,starbucks_eu,Tokat,1
+KAHRAMANMARAS,starbucks_eu,Kahramanmaras,2
+GAZIANTEP,starbucks_eu,Gaziantep,7
+SIVAS,starbucks_eu,Sivas,3
+MALATYA,starbucks_eu,Malatya,1
+RIZE,starbucks_eu,Rize,1
+ELAZIG,starbucks_eu,Elazig,2
+SANLIURFA,starbucks_eu,Sanliurfa,1
+DIYARBAKIR,starbucks_eu,Diyarbakir,6
+MARDIN,starbucks_eu,Mardin,1
+BATMAN,starbucks_eu,Batman,2
+ERZURUM,starbucks_eu,25100 ERZURUM,1
+SIIRT,starbucks_eu,Siirt,1
+PORTUGAL,sunglass_hut_2,Funchal,1
+PORTUGAL,sunglass_hut_2,Faro,1
+FARO,sunglass_hut_2,Faro,1
+FUNCHAL,sunglass_hut_2,Funchal,2
+VIANADOCASTELO,sunglass_hut_2,Viana Do Castelo,1
+PORTO,sunglass_hut_2,Matosinhos,1
+PORTO,sunglass_hut_2,V.N.Gaia,1
+PORTO,sunglass_hut_2,Porto,3
+COIMBRA,sunglass_hut_2,Coimbra,1
+PORTO,sunglass_hut_2,Vila do Conde,1
+VILAREAL,sunglass_hut_2,Vila Real,1
+MONTIJO,sunglass_hut_2,Montijo,1
+CARREGADO,sunglass_hut_2,Carregado,1
+LISBOA,sunglass_hut_2,Lisboa,5
+LISBOA,sunglass_hut_2,Alcabideche,1
+BRAGA,sunglass_hut_2,Braga,1
+ALBUFEIRA,sunglass_hut_2,Albufeira,2
+PONTADELGADA,sunglass_hut_2,Ponta Delgada,1
+LEIRIA,sunglass_hut_2,Leiria,1
+PORTO,sunglass_hut_2,S.João da Madeira,1
+LISBOA,sunglass_hut_2,Amadora,1
+COIMBRA,sunglass_hut_2,Santa Clara,1
+FIGUEIRADAFOZ,sunglass_hut_2,Figueira Da Foz,1
+PORTO,sunglass_hut_2,Senhora Da Horta,1
+AVEIRO,sunglass_hut_2,Aveiro,1
+ALCOCHETE,sunglass_hut_2,Alcochete,1
+ALMADA,sunglass_hut_2,Almada,1
+FUNCHAL,sunglass_hut_2,Santa Cruz Madeira,1
+UNKNOWN,the_north_face_eu,Ankara,1
+ADANA,the_north_face_eu,ADANA,2
+MARMARA,the_north_face_eu,ISTANBUL,1
+CENTRALANATOLIA,the_north_face_eu,ESKISEHIR,1
+MARMARA,the_north_face_eu,Istanbul,1
+UNKNOWN,timberland,Ankara,3
+UNKNOWN,timberland,Istanbul,7
+UNKNOWN,timberland,ISTANBUL,2
+UNKNOWN,timberland,ANKARA,1
+UNKNOWN,timberland,Bursa,1
+UNKNOWN,timberland,Izmir,1
+UNKNOWN,timberland,Kayseri,1
+UNKNOWN,tommy_hilfiger,Muğla,1
+UNKNOWN,tommy_hilfiger,Antalya,3
+UNKNOWN,tommy_hilfiger,Ankara,7
+UNKNOWN,tommy_hilfiger,Istanbul,13
+UNKNOWN,tommy_hilfiger,Denizli,1
+UNKNOWN,tommy_hilfiger,Trabzon,1
+UNKNOWN,tommy_hilfiger,Izmit,1
+UNKNOWN,tommy_hilfiger,Mersin,1
+UNKNOWN,tommy_hilfiger,Kayseri,1
+UNKNOWN,tommy_hilfiger,Izmir,4
+UNKNOWN,tommy_hilfiger,Konya,1
+UNKNOWN,tommy_hilfiger,Samsun,1
+UNKNOWN,tommy_hilfiger,Susurluk,1
+UNKNOWN,tommy_hilfiger,Soke,1
+UNKNOWN,tommy_hilfiger,Afyonkarahisar,1
+UNKNOWN,tommy_hilfiger,Gaziantep,1
+UNKNOWN,turkiye_is_bankasi,ISPARTA,26
+UNKNOWN,turkiye_is_bankasi,İSTANBUL,1458
+UNKNOWN,turkiye_is_bankasi,IĞDIR,4
+UNKNOWN,turkiye_is_bankasi,HATAY,68
+UNKNOWN,turkiye_is_bankasi,HAKKARİ,8
+UNKNOWN,turkiye_is_bankasi,GÜMÜŞHANE,8
+UNKNOWN,turkiye_is_bankasi,GİRESUN,23
+UNKNOWN,turkiye_is_bankasi,GAZİANTEP,87
+UNKNOWN,turkiye_is_bankasi,ESKİŞEHİR,73
+UNKNOWN,turkiye_is_bankasi,ERZURUM,22
+UNKNOWN,turkiye_is_bankasi,ERZİNCAN,10
+UNKNOWN,turkiye_is_bankasi,ELAZIĞ,17
+UNKNOWN,turkiye_is_bankasi,EDİRNE,49
+UNKNOWN,turkiye_is_bankasi,DÜZCE,21
+UNKNOWN,turkiye_is_bankasi,DİYARBAKIR,51
+UNKNOWN,turkiye_is_bankasi,ZONGULDAK,38
+UNKNOWN,turkiye_is_bankasi,YOZGAT,21
+UNKNOWN,turkiye_is_bankasi,YALOVA,25
+UNKNOWN,turkiye_is_bankasi,VAN,29
+UNKNOWN,turkiye_is_bankasi,UŞAK,20
+UNKNOWN,turkiye_is_bankasi,TUNCELİ,4
+UNKNOWN,turkiye_is_bankasi,TRABZON,58
+UNKNOWN,turkiye_is_bankasi,TOKAT,22
+UNKNOWN,turkiye_is_bankasi,TEKİRDAĞ,82
+UNKNOWN,turkiye_is_bankasi,ŞIRNAK,9
+UNKNOWN,turkiye_is_bankasi,ŞANLIURFA,49
+UNKNOWN,turkiye_is_bankasi,SİVAS,30
+UNKNOWN,turkiye_is_bankasi,SİNOP,19
+UNKNOWN,turkiye_is_bankasi,SİİRT,9
+UNKNOWN,turkiye_is_bankasi,SAMSUN,72
+UNKNOWN,turkiye_is_bankasi,SAKARYA,66
+UNKNOWN,turkiye_is_bankasi,RİZE,20
+UNKNOWN,turkiye_is_bankasi,OSMANİYE,22
+UNKNOWN,turkiye_is_bankasi,ORDU,29
+UNKNOWN,turkiye_is_bankasi,NİĞDE,11
+UNKNOWN,turkiye_is_bankasi,NEVŞEHİR,34
+UNKNOWN,turkiye_is_bankasi,MUŞ,10
+UNKNOWN,turkiye_is_bankasi,MUĞLA,156
+UNKNOWN,turkiye_is_bankasi,MERSİN,119
+UNKNOWN,turkiye_is_bankasi,MARDİN,24
+UNKNOWN,turkiye_is_bankasi,MANİSA,88
+UNKNOWN,turkiye_is_bankasi,MALATYA,23
+UNKNOWN,turkiye_is_bankasi,KÜTAHYA,29
+UNKNOWN,turkiye_is_bankasi,KONYA,101
+UNKNOWN,turkiye_is_bankasi,KOCAELİ,172
+UNKNOWN,turkiye_is_bankasi,KİLİS,7
+UNKNOWN,turkiye_is_bankasi,KIRŞEHİR,10
+UNKNOWN,turkiye_is_bankasi,KIRKLARELİ,36
+UNKNOWN,turkiye_is_bankasi,KIRIKKALE,10
+UNKNOWN,turkiye_is_bankasi,KAYSERİ,96
+UNKNOWN,turkiye_is_bankasi,KASTAMONU,22
+UNKNOWN,turkiye_is_bankasi,KARS,12
+UNKNOWN,turkiye_is_bankasi,KARAMAN,10
+UNKNOWN,turkiye_is_bankasi,KARABÜK,14
+UNKNOWN,turkiye_is_bankasi,KAHRAMANMARAŞ,40
+UNKNOWN,turkiye_is_bankasi,İZMİR,404
+UNKNOWN,turkiye_is_bankasi,DENİZLİ,69
+UNKNOWN,turkiye_is_bankasi,ÇORUM,25
+UNKNOWN,turkiye_is_bankasi,ÇANKIRI,14
+UNKNOWN,turkiye_is_bankasi,ÇANAKKALE,48
+UNKNOWN,turkiye_is_bankasi,BURSA,252
+UNKNOWN,turkiye_is_bankasi,BURDUR,14
+UNKNOWN,turkiye_is_bankasi,BOLU,26
+UNKNOWN,turkiye_is_bankasi,BİTLİS,13
+UNKNOWN,turkiye_is_bankasi,BİNGÖL,6
+UNKNOWN,turkiye_is_bankasi,BİLECİK,19
+UNKNOWN,turkiye_is_bankasi,BAYBURT,4
+UNKNOWN,turkiye_is_bankasi,BATMAN,16
+UNKNOWN,turkiye_is_bankasi,BARTIN,15
+UNKNOWN,turkiye_is_bankasi,BALIKESİR,97
+UNKNOWN,turkiye_is_bankasi,AYDIN,104
+UNKNOWN,turkiye_is_bankasi,ARTVİN,18
+UNKNOWN,turkiye_is_bankasi,ARDAHAN,3
+UNKNOWN,turkiye_is_bankasi,ANTALYA,289
+UNKNOWN,turkiye_is_bankasi,ANKARA,486
+UNKNOWN,turkiye_is_bankasi,AMASYA,20
+UNKNOWN,turkiye_is_bankasi,AKSARAY,18
+UNKNOWN,turkiye_is_bankasi,AĞRI,12
+UNKNOWN,turkiye_is_bankasi,AFYON,38
+UNKNOWN,turkiye_is_bankasi,ADIYAMAN,23
+UNKNOWN,turkiye_is_bankasi,ADANA,131
+UNKNOWN,united_colors_of_benetton,BURSA,3
+UNKNOWN,united_colors_of_benetton,ANKARA,7
+UNKNOWN,united_colors_of_benetton,ISTANBUL,34
+UNKNOWN,united_colors_of_benetton,ESKISEHIR,1
+UNKNOWN,united_colors_of_benetton,IZMIR,8
+UNKNOWN,united_colors_of_benetton,ANTALYA,6
+UNKNOWN,united_colors_of_benetton,ADANA,2
+UNKNOWN,united_colors_of_benetton,SAMSUN,2
+UNKNOWN,united_colors_of_benetton,IZMIT,1
+UNKNOWN,united_colors_of_benetton,VAN,1
+UNKNOWN,united_colors_of_benetton,LEFKOSA,1
+UNKNOWN,united_colors_of_benetton,DIYARBAKIR,1
+UNKNOWN,united_colors_of_benetton,BOLU,1
+UNKNOWN,united_colors_of_benetton,TRABZON,1
+UNKNOWN,united_colors_of_benetton,KAYSERI,1
+UNKNOWN,united_colors_of_benetton,SAKARYA,1
+UNKNOWN,united_colors_of_benetton,RIZE,2
+UNKNOWN,united_colors_of_benetton,GAZIANTEP,1
+UNKNOWN,united_colors_of_benetton,DENIZLI,1
+UNKNOWN,united_colors_of_benetton,KONYA,1
+UNKNOWN,vakif_katilim_tr,İstanbul,141
+UNKNOWN,vakif_katilim_tr,Gaziantep,9
+UNKNOWN,vakif_katilim_tr,Kocaeli,16
+UNKNOWN,vakif_katilim_tr,Denizli,4
+UNKNOWN,vakif_katilim_tr,Sakarya,4
+UNKNOWN,vakif_katilim_tr,Ankara,28
+UNKNOWN,vakif_katilim_tr,Konya,13
+UNKNOWN,vakif_katilim_tr,Şanlıurfa,4
+UNKNOWN,vakif_katilim_tr,Kahramanmaraş,4
+UNKNOWN,vakif_katilim_tr,Kayseri,7
+UNKNOWN,vakif_katilim_tr,Trabzon,4
+UNKNOWN,vakif_katilim_tr,Antalya,6
+UNKNOWN,vakif_katilim_tr,Adana,12
+UNKNOWN,vakif_katilim_tr,Erzurum,2
+UNKNOWN,vakif_katilim_tr,İzmir,15
+UNKNOWN,vakif_katilim_tr,Bursa,19
+UNKNOWN,vakif_katilim_tr,Rize,2
+UNKNOWN,vakif_katilim_tr,Elazığ,2
+UNKNOWN,vakif_katilim_tr,Eskişehir,4
+UNKNOWN,vakif_katilim_tr,Van,2
+UNKNOWN,vakif_katilim_tr,Afyonkarahisar,2
+UNKNOWN,vakif_katilim_tr,Çorum,2
+UNKNOWN,vakif_katilim_tr,Sivas,2
+UNKNOWN,vakif_katilim_tr,Malatya,4
+UNKNOWN,vakif_katilim_tr,Hatay,4
+UNKNOWN,vakif_katilim_tr,Mersin,6
+UNKNOWN,vakif_katilim_tr,Batman,2
+UNKNOWN,vakif_katilim_tr,Manisa,4
+UNKNOWN,vakif_katilim_tr,Yalova,2
+UNKNOWN,vakif_katilim_tr,Diyarbakır,4
+UNKNOWN,vakif_katilim_tr,Samsun,4
+UNKNOWN,vakif_katilim_tr,Ordu,2
+UNKNOWN,vakif_katilim_tr,Karaman,2
+UNKNOWN,vakif_katilim_tr,Nevşehir,2
+UNKNOWN,vakif_katilim_tr,Düzce,2
+UNKNOWN,vakif_katilim_tr,Balıkesir,4
+UNKNOWN,vakif_katilim_tr,Adıyaman,2
+UNKNOWN,vakif_katilim_tr,Erzincan,2
+UNKNOWN,vakif_katilim_tr,Aydın,2
+UNKNOWN,vakif_katilim_tr,Siirt,2
+UNKNOWN,vakif_katilim_tr,Tekirdağ,4
+UNKNOWN,vakif_katilim_tr,Osmaniye,2
+UNKNOWN,vakif_katilim_tr,Aksaray,2
+UNKNOWN,vakif_katilim_tr,Bolu,2
+UNKNOWN,vakif_katilim_tr,Isparta,2
+UNKNOWN,vakif_katilim_tr,Kütahya,2
+UNKNOWN,vakif_katilim_tr,Uşak,2
+UNKNOWN,vakif_katilim_tr,Mardin,2
+UNKNOWN,vakif_katilim_tr,Karabük,2
+UNKNOWN,vakif_katilim_tr,Niğde,2
+UNKNOWN,vakif_katilim_tr,Tokat,2
+UNKNOWN,vakif_katilim_tr,Giresun,2
+ANKARA,vans,Ankara,1
+ISTANBUL,vans,Istanbul,2
+UNKNOWN,visa,IZMIR,1172
+UNKNOWN,visa,MUGLA,486
+UNKNOWN,visa,MUĞLA,233
+BODRUM,visa,MUGLA,81
+MUĞLA,visa,BODRUM,47
+,visa,MUGLA,57
+UNKNOWN,visa,BODRUM,2
+MUĞLA,visa,DATCA,2
+DATCA,visa,MUGLA,2
+MILAS,visa,MUGLA,21
+UNKNOWN,visa,MANISA,231
+TR,visa,MUGLA,13
+MARMARIS,visa,MUGLA,48
+MUĞLA,visa,MARMARIS,28
+UNKNOWN,visa,MARMARIS,5
+UNKNOWN,visa,AYDIN,490
+DIDIM,visa,AYDIN,20
+AYDIN,visa,DIDIM,9
+TR,visa,AYDIN,9
+,visa,AYDIN,16
+MUĞLA,visa,MILAS,13
+OSMANGAZI,visa,BURSA,120
+TR,visa,MUĞLA,2
+UNKNOWN,visa,ANTALYA,1260
+UNKNOWN,visa,ISTANBUL,4591
+İZMIR,visa,CEŞME,14
+CEŞME,visa,IZMIR,6
+MUGLA,visa,MILAS,1
+CESME,visa,IZMIR,9
+UNKNOWN,visa,İZMİR,596
+UNKNOWN,visa,İZMIR,12
+KUŞADASI,visa,AYDIN,17
+AYDIN,visa,KUŞADASI,17
+,visa,IZMIR,121
+MUĞLA,visa,ORTACA,3
+ORTACA,visa,MUGLA,10
+TR,visa,IZMIR,22
+ANTALYA,visa,KAŞ,6
+KAŞ,visa,ANTALYA,7
+KUSADASI,visa,AYDIN,9
+MUĞLA,visa,DALAMAN,3
+ULA,visa,MUGLA,2
+MUĞLA,visa,ULA,2
+DALAMAN,visa,MUGLA,4
+,visa,ANTALYA,90
+KAS,visa,ANTALYA,2
+TR,visa,ANTALYA,22
+UNKNOWN,visa,KUSADASI,3
+SOKE,visa,AYDIN,8
+AYDIN,visa,SOKE,6
+MUĞLA,visa,FETHIYE,27
+FETHIYE,visa,MUGLA,47
+İZMIR,visa,SEFERIHISAR,3
+SEFERIHISAR,visa,IZMIR,9
+MENDERES,visa,IZMIR,10
+MUĞLA,visa,YATAĞAN,3
+İZMIR,visa,MENDERES,2
+MUGLA,visa,FETHIYE,1
+MENTEŞE,visa,MUGLA,12
+MUĞLA,visa,MENTEŞE,8
+İZMIR,visa,SELCUK,4
+SELCUK,visa,IZMIR,5
+MENTESE,visa,MUGLA,5
+YATAĞAN,visa,MUGLA,2
+YATAGAN,visa,MUGLA,1
+MUĞLA,visa,KOYCEĞIZ,3
+KOYCEGIZ,visa,MUGLA,2
+KOYCEĞIZ,visa,MUGLA,1
+UNKNOWN,visa,FETHIYE,3
+UNKNOWN,visa,MUGLA SUBEYE,1
+İZMIR,visa,URLA,5
+URLA,visa,IZMIR,5
+UNKNOWN,visa,DENIZLI,201
+AYDIN,visa,GERMENCIK,2
+İZMIR,visa,KARABURUN,1
+KARABURUN,visa,IZMIR,1
+GERMENCIK,visa,AYDIN,2
+SEYDIKEMER,visa,MUGLA,1
+MUĞLA,visa,SEYDIKEMER,1
+GUZELBAHCE,visa,IZMIR,3
+İZMIR,visa,GUZELBAHCE,2
+TORBALI,visa,IZMIR,13
+AYDIN,visa,CINE,2
+CINE,visa,AYDIN,3
+KARAKOPRU,visa,SANLIURFA,9
+AYDIN,visa,INCIRLIOVA,1
+AYDIN,visa,İNCIRLIOVA,1
+INCIRLIOVA,visa,AYDIN,1
+İNCIRLIOVA,visa,AYDIN,1
+İZMIR,visa,NARLIDERE,5
+MUĞLA,visa,KAVAKLIDERE,1
+KAVAKLIDERE,visa,MUGLA,1
+ANTALYA,visa,DEMRE,1
+DEMRE,visa,ANTALYA,1
+IZMIR,visa,TORBALI,1
+İZMIR,visa,TORBALI,8
+GAZIEMIR,visa,IZMIR,16
+EFELER,visa,AYDIN,22
+AYDIN,visa,EFELER,18
+İZMIR,visa,GAZIEMIR,16
+AYDIN,visa,AYDIN,1
+UNKNOWN,visa,ANKARA,2333
+NARLIDERE,visa,IZMIR,3
+IZMIR,visa,IZMIR,13
+UNKNOWN,visa,SANLIURFA,118
+AYDIN,visa,MERKEZ,1
+AYD,visa,AYDIN,2
+İZMIR,visa,BALCOVA,9
+BALCOVA,visa,IZMIR,12
+IZMIR,visa,BASMANE,1
+İZMIR,visa,BUCA,25
+İZMIR,visa,KARABAĞLAR,22
+KONAK,visa,IZMIR,55
+KARABAĞLAR,visa,IZMIR,19
+İZMIR,visa,KONAK,36
+KARABAGLAR,visa,IZMIR,13
+BUCA,visa,IZMIR,44
+IZM,visa,IZMIR,7
+UNKNOWN,visa,KARABAGLAR,1
+IZMIR,visa,KARABAGLAR,1
+İZMIR,visa,CIĞLI,16
+İZMIR,visa,FOCA,7
+UNKNOWN,visa,DENİZLİ,135
+CIĞLI,visa,IZMIR,12
+FOCA,visa,IZMIR,9
+IZMIR,visa,KONAK,1
+CIGLI,visa,IZMIR,6
+UNKNOWN,visa,KONAK,1
+KARŞIYAKA,visa,IZMIR,21
+KARSIYAKA,visa,IZMIR,15
+İZMIR,visa,KARŞIYAKA,23
+ANTALYA,visa,FINIKE,2
+FINIKE,visa,ANTALYA,2
+BORNOVA,visa,IZMIR,50
+IZMIR,visa,KARSIYAKA,1
+İZMIR,visa,BORNOVA,40
+İZMIR,visa,BAYRAKLI,16
+BAYRAKLI,visa,IZMIR,22
+KOSK,visa,AYDIN,1
+AYDIN,visa,KOŞK,1
+KOŞK,visa,AYDIN,1
+İZMIR,visa,ALIAĞA,8
+IZMIR,visa,TIRE,1
+TIRE,visa,IZMIR,6
+İZMIR,visa,TIRE,5
+UNKNOWN,visa,İSTANBUL,1895
+İZMIR,visa,MENEMEN,7
+MENEMEN,visa,IZMIR,10
+UNKNOWN,visa,BURSA,1126
+UNKNOWN,visa,MARDIN,59
+IZMIR,visa,BORNOVA,1
+UNKNOWN,visa,HATAY,343
+İZMIR,visa,BAYINDIR,1
+BAYINDIR,visa,IZMIR,2
+IZMIR,visa,BAYINDIR,1
+UNKNOWN,visa,BURDUR,81
+IZMIR,visa,MENEMEN,1
+KUMLUCA,visa,ANTALYA,3
+KEMALPASA,visa,IZMIR,4
+KALE,visa,DENIZLI,1
+UNKNOWN,visa,SAMSUN,359
+DENIZLI,visa,KALE,1
+İZMIR,visa,KEMALPAŞA,4
+KEMALPAŞA,visa,IZMIR,5
+ANTALYA,visa,KUMLUCA,3
+IZMIR,visa,ALIAGA,2
+ALIAĞA,visa,IZMIR,10
+NAZILLI,visa,AYDIN,8
+ANTALYA,visa,ELMALI,3
+ELMALI,visa,ANTALYA,2
+KEMER,visa,ANTALYA,24
+ALIAGA,visa,IZMIR,1
+AYDIN,visa,NAZILLI,7
+MANISA,visa,YUNUSEMRE,15
+YUNUSEMRE,visa,MANISA,30
+UNKNOWN,visa,MANİSA,184
+ODEMIS,visa,IZMIR,4
+ODEMIŞ,visa,IZMIR,3
+,visa,MANISA,18
+TR,visa,MANISA,9
+İZMIR,visa,ODEMIŞ,4
+IZMIR,visa,ODEMIS,1
+GOLHISAR,visa,BURDUR,1
+ANTALYA,visa,KEMER,14
+SEHZADELER,visa,MANISA,4
+BEYDAG,visa,IZMIR,1
+ŞEHZADELER,visa,MANISA,7
+KUYUCAK,visa,AYDIN,1
+MANISA,visa,ŞEHZADELER,9
+DIKILI,visa,IZMIR,6
+İZMIR,visa,DIKILI,4
+UNKNOWN,visa,SAKARYA,325
+SAK,visa,SAKARYA,1
+TURGUTLU,visa,MANISA,10
+UNKNOWN,visa,BALIKESIR,299
+MANISA,visa,TURGUTLU,8
+MAN,visa,MANISA,2
+TAVAS,visa,DENIZLI,2
+DENIZLI,visa,TAVAS,1
+UNKNOWN,visa,CANAKKALE,239
+MANISA,visa,ANAFARTALAR,1
+KIRAZ,visa,IZMIR,2
+İZMIR,visa,KIRAZ,1
+TR,visa,DENIZLI,4
+DENIZLI,visa,ACIPAYAM,1
+ACIPAYAM,visa,DENIZLI,2
+SARUHANLI,visa,MANISA,3
+AYVALIK,visa,BALIKESIR,13
+BALIKESIR,visa,AYVALIK,7
+UNKNOWN,visa,BALIKESİR,190
+MANISA,visa,SARUHANLI,2
+UNKNOWN,visa,KEMER,1
+BERGAMA,visa,IZMIR,7
+DENIZLI,visa,SERINHISAR,1
+BAL,visa,BALIKESIR,2
+MANISA,visa,AHMETLI,1
+DENIZLI,visa,MERKEZEFENDI,18
+,visa,BALIKESIR,14
+MERKEZEFENDI,visa,DENIZLI,26
+,visa,DENIZLI,18
+PAMUKKALE,visa,DENIZLI,20
+DENIZLI,visa,DENIZLI,1
+DENIZLI,visa,PAMUKKALE,12
+UNKNOWN,visa,MERKEZEFENDI,1
+DENIZLI,visa,MERKEZ,1
+DEN,visa,DENIZLI,2
+UNKNOWN,visa,ADANA,517
+SARAYKOY,visa,DENIZLI,2
+DENIZLI,visa,SARAYKOY,1
+TR,visa,BURDUR,3
+MANISA,visa,SALIHLI,7
+İZMIR,visa,BERGAMA,4
+SALIHLI,visa,MANISA,8
+UNKNOWN,visa,ESKISEHIR,219
+IZMIR,visa,BERGAMA,1
+AYVACIK,visa,CANAKKALE,4
+UNKNOWN,visa,KOCAELI,494
+CANAKKALE,visa,AYVACIK,2
+DENIZLI,visa,BULDAN,1
+BULDAN,visa,DENIZLI,1
+CANAKKALE,visa,BOZCAADA,1
+BOZCAADA,visa,CANAKKALE,1
+HONAZ,visa,DENIZLI,2
+ANTALYA,visa,KORKUTELI,2
+KORKUTELI,visa,ANTALYA,3
+ANTALYA,visa,ANTALYA,4
+BALIKESIR,visa,GOMEC,1
+GOMEC,visa,BALIKESIR,1
+UNKNOWN,visa,KARAMAN,63
+MANISA,visa,GOLMARMARA,1
+,visa,CANAKKALE,9
+DENIZLI,visa,HONAZ,1
+EZINE,visa,CANAKKALE,6
+CANAKKALE,visa,EZINE,2
+KINIK,visa,IZMIR,2
+İZMIR,visa,KINIK,1
+ALAŞEHIR,visa,MANISA,3
+ALASEHIR,visa,MANISA,1
+MANISA,visa,ALASEHIR,1
+MANISA,visa,ALAŞEHIR,2
+MANISA,visa,SARIGOL,2
+SARIGOL,visa,MANISA,1
+ANTALYA,visa,KONYAALTI,16
+MANISA,visa,AKHISAR,7
+AKHISAR,visa,MANISA,10
+UNKNOWN,visa,VAN,171
+KONYAALTI,visa,ANTALYA,22
+ANTALYA,visa,ALANYA,60
+EDREMIT,visa,BALIKESIR,19
+BALIKESIR,visa,EDREMIT,17
+BURHANIYE,visa,BALIKESIR,9
+ANT,visa,ANTALYA,5
+ANTALYA,visa,KEPEZ,29
+KEPEZ,visa,ANTALYA,39
+BALIKESIR,visa,BURHANIYE,3
+MURATPAŞA,visa,ANTALYA,37
+ANTALYA,visa,MURATPAŞA,39
+MURATPASA,visa,ANTALYA,22
+ANTALYA,visa,MERKEZ,1
+TR,visa,BALIKESIR,8
+UNKNOWN,visa,MURATPASA,2
+DOŞEMEALTI,visa,ANTALYA,4
+MERKEZ,visa,CANAKKALE,21
+KIRKAĞAC,visa,MANISA,1
+UNKNOWN,visa,GUZELYURT,20
+UNKNOWN,visa,LEFKOŞA,31
+KIRKAGAC,visa,MANISA,1
+MANISA,visa,KIRKAĞAC,1
+DOSEMEALTI,visa,ANTALYA,3
+ANTALYA,visa,DOŞEMEALTI,3
+SOMA,visa,MANISA,7
+MANISA,visa,SOMA,3
+ANTALYA,visa,AKSU,15
+AKSU,visa,ANTALYA,18
+CANAKKALE,visa,BAYRAMIC,1
+BAYRAMIC,visa,CANAKKALE,1
+UNKNOWN,visa,UŞAK,61
+MANISA,visa,KULA,1
+KULA,visa,MANISA,2
+BALIKESIR,visa,HAVRAN,1
+HAVRAN,visa,BALIKESIR,2
+UNKNOWN,visa,KARABUK,90
+ANTALYA,visa,SERIK,20
+SERIK,visa,ANTALYA,38
+ESME,visa,USAK,1
+UNKNOWN,visa,USAK,58
+EŞME,visa,USAK,1
+TR,visa,KIBRIS,7
+CANAKKALE,visa,MERKEZ,11
+GORDES,visa,MANISA,1
+CAN,visa,CANAKKALE,4
+TR,visa,CANAKKALE,3
+BALIKESIR,visa,SAVAŞTEPE,1
+SAVAŞTEPE,visa,BALIKESIR,1
+SAVASTEPE,visa,BALIKESIR,1
+UNKNOWN,visa,CANKIRI,71
+ECEABAT,visa,CANAKKALE,2
+UNKNOWN,visa,LEFKOSA,26
+UNKNOWN,visa,AFYON,98
+UNKNOWN,visa,AFYONKARAHİSAR,95
+MANAVGAT,visa,ANTALYA,72
+ANTALYA,visa,MANAVGAT,27
+UNKNOWN,visa,GİRNE,14
+ULUBEY,visa,USAK,2
+IVRINDI,visa,BALIKESIR,1
+BALIKESIR,visa,İVRINDI,1
+BURDUR,visa,BUCAK,3
+BUCAK,visa,BURDUR,5
+BRD,visa,BURDUR,1
+,visa,BURDUR,4
+UNKNOWN,visa,MANAVGAT,1
+BURDUR,visa,MERKEZ,4
+MERKEZ,visa,BURDUR,7
+YENICE,visa,CANAKKALE,1
+SELENDI,visa,MANISA,1
+UNKNOWN,visa,ISPARTA,158
+ALANYA,visa,ANTALYA,102
+UNKNOWN,visa,LEFKOSE,7
+BALIKESIR,visa,SINDIRGI,1
+SINDIRGI,visa,BALIKESIR,2
+UNKNOWN,visa,GIRNE,33
+UNKNOWN,visa,ISKELE,18
+UNKNOWN,visa,KKTC,2
+UNKNOWN,visa,KIBRIS,10
+MERKEZ,visa,USAK,17
+UNKNOWN,visa,MAGOSA,4
+UNKNOWN,visa,LEFKE,2
+UNKNOWN,visa,GAZIMAGUSA,22
+CANAKKALE,visa,CAN,4
+CANAKKALE,visa,YENICE,1
+BIGADIC,visa,BALIKESIR,3
+DEMIRCI,visa,MANISA,1
+BALIKESIR,visa,BIGADIC,1
+MANISA,visa,DEMIRCI,1
+CIVRIL,visa,DENIZLI,3
+BALIKESIR,visa,ALTIEYLUL,11
+DENIZLI,visa,CIVRIL,1
+ANTALYA,visa,GAZIPAŞA,2
+GAZIPASA,visa,ANTALYA,1
+GAZIPAŞA,visa,ANTALYA,1
+UŞAK,visa,MERKEZ,9
+UNKNOWN,visa,ISIKLAR,1
+UNKNOWN,visa,ALANYA,1
+CANAKKALE,visa,LAPSEKI,1
+LAPSEKI,visa,CANAKKALE,1
+ALTIEYLUL,visa,BALIKESIR,10
+ISP,visa,ISPARTA,1
+MERKEZ,visa,ISPARTA,18
+ISPARTA,visa,MERKEZ,9
+TR,visa,ISPARTA,4
+,visa,ISPARTA,11
+UNKNOWN,visa,KAYSERI,296
+KARESI,visa,BALIKESIR,14
+UNKNOWN,visa,EDİRNE,90
+UNKNOWN,visa,AFYONKARAHISAR,23
+AFYONKARAHISAR,visa,DINAR,1
+BALIKESIR,visa,KARESI,9
+UNKNOWN,visa,GAZİMAĞUSA,10
+GONEN,visa,ISPARTA,1
+MERKEZ,visa,EDIRNE,30
+UNKNOWN,visa,EDIRNE,115
+TR,visa,AFYON,12
+DINAR,visa,AFYONKARAHISAR,2
+BALIKESIR,visa,BALIKESIR,1
+BALIKESIR,visa,MERKEZ,1
+CANAKKALE,visa,GELIBOLU,2
+GELIBOLU,visa,CANAKKALE,4
+,visa,USAK,4
+TR,visa,USAK,3
+SIVASLI,visa,USAK,1
+UNKNOWN,visa,MERSIN,240
+MERSIN,visa,ANAMUR,2
+ANAMUR,visa,MERSIN,4
+,visa,MERSIN,28
+TR,visa,MERSIN,6
+UNKNOWN,visa,İCEL,100
+UNKNOWN,visa,MERSİN,91
+UNKNOWN,visa,ICEL,46
+UNKNOWN,visa,KUTAHYA,149
+SIMAV,visa,KUTAHYA,3
+KUTAHYA,visa,SIMAV,1
+CANAKKALE,visa,BIGA,8
+BIGA,visa,CANAKKALE,7
+KEPSUT,visa,BALIKESIR,1
+BOZYAZI,visa,MERSIN,2
+MERSIN,visa,BOZYAZI,1
+ISPARTA,visa,EĞIRDIR,1
+SENIRKENT,visa,ISPARTA,1
+GONEN,visa,BALIKESIR,4
+BALIKESIR,visa,GONEN,2
+UNKNOWN,visa,KONYA,502
+GEDIZ,visa,KUTAHYA,3
+KUTAHYA,visa,GEDIZ,1
+BANAZ,visa,USAK,2
+UŞAK,visa,BANAZ,1
+EDIRNE,visa,İPSALA,3
+İPSALA,visa,EDIRNE,2
+SUSURLUK,visa,BALIKESIR,4
+BALIKESIR,visa,SUSURLUK,4
+IPSALA,visa,EDIRNE,1
+BALIKESIR,visa,DURSUNBEY,1
+DURSUNBEY,visa,BALIKESIR,1
+KEŞAN,visa,EDIRNE,4
+,visa,AFYON,5
+SANDIKLI,visa,AFYONKARAHISAR,2
+AFYONKARAHISAR,visa,SANDIKLI,3
+EDIRNE,visa,KEŞAN,2
+TR,visa,EDIRNE,4
+KESAN,visa,EDIRNE,2
+,visa,EDIRNE,10
+MANYAS,visa,BALIKESIR,2
+BALIKESIR,visa,MANYAS,1
+TR,visa,KONYA,12
+UNKNOWN,visa,TEKIRDAG,270
+UNKNOWN,visa,TEKİRDAĞ,123
+HISARCIK,visa,KUTAHYA,1
+ŞARKOY,visa,TEKIRDAG,2
+SARKOY,visa,TEKIRDAG,1
+TEKIRDAĞ,visa,ŞARKOY,2
+BALIKESIR,visa,BANDIRMA,9
+EMET,visa,KUTAHYA,1
+KONYA,visa,SEYDIŞEHIR,2
+SEYDIŞEHIR,visa,KONYA,1
+SEYDISEHIR,visa,KONYA,1
+BALIKESIR,visa,MARMARA,1
+MARMARA,visa,BALIKESIR,1
+BURSA,visa,MUSTAFAKEMALPAŞA,8
+TR,visa,TEKIRDAG,9
+TEKIRDAĞ,visa,MALKARA,1
+,visa,TEKIRDAG,17
+MALKARA,visa,TEKIRDAG,3
+MERIC,visa,EDIRNE,1
+ERDEK,visa,BALIKESIR,5
+BALIKESIR,visa,ERDEK,2
+SUHUT,visa,AFYONKARAHISAR,1
+MUSTAFAKEMALPAŞA,visa,BURSA,3
+,visa,BURSA,75
+TR,visa,BURSA,17
+MUSTAFAKEMALPASA,visa,BURSA,2
+KONYA,visa,BEYŞEHIR,2
+BEYSEHIR,visa,KONYA,1
+BEYŞEHIR,visa,KONYA,1
+BANDIRMA,visa,BALIKESIR,14
+MERSIN,visa,GULNAR,1
+GULNAR,visa,MERSIN,1
+TEK,visa,TEKIRDAG,4
+KARACABEY,visa,BURSA,5
+MERKEZ,visa,AFYONKARAHISAR,19
+BURSA,visa,KARACABEY,4
+BURSA,visa,OSMANGAZI,95
+AFYONKARAHISAR,visa,MERKEZ,11
+AFY,visa,AFYON,1
+UZUNKOPRU,visa,EDIRNE,3
+AFYON,visa,AFYON,1
+EDIRNE,visa,UZUNKOPRU,1
+ISPARTA,visa,YALVAC,2
+YALVAC,visa,ISPARTA,2
+TAVSANLI,visa,KUTAHYA,3
+KUTAHYA,visa,TAVŞANLI,4
+TAVŞANLI,visa,KUTAHYA,3
+,visa,KUTAHYA,6
+TEKIRDAĞ,visa,SULEYMANPAŞA,11
+SULEYMANPAŞA,visa,TEKIRDAG,13
+SULEYMANPASA,visa,TEKIRDAG,10
+CAY,visa,AFYONKARAHISAR,2
+AFYONKARAHISAR,visa,CAY,1
+BURSA,visa,NILUFER,71
+TEKIRDAĞ,visa,HAYRABOLU,2
+HAYRABOLU,visa,TEKIRDAG,3
+TEKIRDAG,visa,TEKIRDAG,2
+UNKNOWN,visa,TEKIRDAĞ,7
+NILUFER,visa,BURSA,88
+MUT,visa,MERSIN,1
+MERSIN,visa,MUT,2
+IÇEL,visa,IÇEL,10
+UNKNOWN,visa,KIRKLARELİ,69
+KON,visa,KONYA,10
+AKŞEHIR,visa,KONYA,3
+AFYONKARAHISAR,visa,İSCEHISAR,1
+,visa,KONYA,13
+ISCEHISAR,visa,AFYONKARAHISAR,1
+KONYA,visa,AKŞEHIR,2
+İSCEHISAR,visa,AFYONKARAHISAR,1
+TR,visa,KUTAHYA,2
+KUT,visa,KUTAHYA,2
+AKSEHIR,visa,KONYA,1
+MERKEZ,visa,KUTAHYA,18
+KUTAHYA,visa,MERKEZ,14
+SILIFKE,visa,MERSIN,9
+MERSIN,visa,SILIFKE,3
+EDIRNE,visa,MERKEZ,15
+UNKNOWN,visa,KIRKLARELI,89
+AFYONKARAHISAR,visa,BOLVADIN,1
+BOLVADIN,visa,AFYONKARAHISAR,3
+ICEL,visa,MERSIN,1
+BUR,visa,BURSA,7
+TERKIRDAG,visa,CORLU,1
+ORHANGAZI,visa,BURSA,14
+UNKNOWN,visa,KIRIKKALE,86
+BABAESKI,visa,KIRKLARELI,4
+UNKNOWN,visa,NILUFER,1
+HAVSA,visa,EDIRNE,2
+EDIRNE,visa,HAVSA,1
+TR,visa,KIRKLARELI,4
+YILDIRIM,visa,BURSA,53
+BURSA,visa,BURSA,8
+BURSA,visa,YILDIRIM,28
+MURATLI,visa,TEKIRDAG,3
+TEKIRDAĞ,visa,MURATLI,2
+ISTANBUL,visa,YENIBOSNA,1
+MELIKGAZI,visa,KAYSERI,40
+,visa,KIRKLARELI,7
+MARMARAEREĞLISI,visa,TEKIRDAG,2
+MARMARAEREGLISI,visa,TEKIRDAG,2
+TEKIRDAĞ,visa,MARMARAEREĞLISI,2
+BURSA,visa,MUDANYA,5
+MUDANYA,visa,BURSA,6
+INEGOL,visa,BURSA,11
+BURSA,visa,GURSU,2
+SEYITGAZI,visa,ESKISEHIR,1
+GURSU,visa,BURSA,5
+KESTEL,visa,BURSA,6
+MERKEZ,visa,KARAMAN,8
+UNKNOWN,visa,ESKİŞEHİR,144
+UNKNOWN,visa,OSMANIYE,55
+BURSA,visa,KESTEL,1
+,visa,KARAMAN,3
+KARAMAN,visa,MERKEZ,6
+TR,visa,KARAMAN,2
+KRM,visa,KARAMAN,1
+CORLU,visa,TEKIRDAG,26
+KIRKLARELI,visa,LULEBURGAZ,9
+LULEBURGAZ,visa,KIRKLARELI,18
+KONYA,visa,MERAM,8
+IST,visa,ISTANBUL,90
+UNKNOWN,visa,CORLU,4
+CUMRA,visa,KONYA,1
+KONYA,visa,CUMRA,1
+ILGIN,visa,KONYA,2
+KONYA,visa,ILGIN,2
+MERAM,visa,KONYA,8
+UNKNOWN,visa,YALOVA,121
+YALOVA,visa,ARMUTLU,1
+UNKNOWN,visa,LULEBURGAZ,1
+UNKNOWN,visa,KIRIKLARELI,1
+UNKNOWN,visa,KAHRAMANMARAS,107
+KONYA,visa,SELCUKLU,23
+TEKIRDAĞ,visa,CORLU,14
+TEKIRDAĞ,visa,ERGENE,8
+ARMUTLU,visa,YALOVA,1
+ERGENE,visa,TEKIRDAG,9
+SELCUKLU,visa,KONYA,40
+İNEGOL,visa,BURSA,8
+BURSA,visa,İNEGOL,11
+KONYA,visa,KONYA,7
+TEKIRDAG,visa,CORLU,1
+KARATAY,visa,KONYA,12
+KONYA,visa,KARATAY,9
+İSTANBUL,visa,SILIVRI,9
+UNKNOWN,visa,ISTANBUL-AVR,310
+SILIVRI,visa,ISTANBUL,15
+ERDEMLI,visa,MERSIN,14
+MERSIN,visa,ERDEMLI,5
+UNKNOWN,visa,SELCUKLU,1
+BURSA,visa,GEMLIK,10
+GEMLIK,visa,BURSA,13
+EMIRDAĞ,visa,AFYONKARAHISAR,1
+EDIRNE,visa,LALAPAŞA,1
+SARAY,visa,TEKIRDAG,6
+ISTANBUL,visa,ISTANBUL,60
+CERKEZKOY,visa,TEKIRDAG,23
+KADINHANI,visa,KONYA,1
+KONYA,visa,KADINHANI,1
+UNKNOWN,visa,SILIVRI,1
+UNKNOWN,visa,ERZURUM,185
+UNKNOWN,visa,BILECIK,39
+TEKIRDAĞ,visa,CERKEZKOY,17
+BILECIK,visa,BOZUYUK,4
+ESKIŞEHIR,visa,İNONU,3
+UNKNOWN,visa,BİLECİK,30
+BOZUYUK,visa,BILECIK,4
+,visa,ISTANBUL,479
+TR,visa,ISTANBUL,96
+TR,visa,BILECIK,1
+,visa,BILECIK,4
+İNONU,visa,ESKISEHIR,1
+BURSA,visa,ORHANGAZI,6
+KIRKLARELI,visa,MERKEZ,5
+MERKEZ,visa,KIRKLARELI,4
+KAPAKLI,visa,TEKIRDAG,6
+TEKIRDAĞ,visa,KAPAKLI,10
+İSTANBUL,visa,BUYUKCEKMECE,19
+BUYUKCEKMECE,visa,ISTANBUL,33
+BURSA,visa,YENIŞEHIR,2
+YENISEHIR,visa,BURSA,3
+YENIŞEHIR,visa,BURSA,1
+TEPEBAŞI,visa,ESKISEHIR,21
+PINARHISAR,visa,KIRKLARELI,1
+KIRKLARELI,visa,PINARHISAR,1
+İSTANBUL,visa,BEYLIKDUZU,23
+ODUNPAZARI,visa,ESKISEHIR,50
+CINARCIK,visa,YALOVA,4
+TEPEBASI,visa,ESKISEHIR,19
+YALOVA,visa,CINARCIK,2
+,visa,YALOVA,8
+BEYLIKDUZU,visa,ISTANBUL,46
+,visa,ESKISEHIR,25
+ESKIŞEHIR,visa,ODUNPAZARI,33
+CATALCA,visa,ISTANBUL,5
+ESKIŞEHIR,visa,TEPEBAŞI,20
+UNKNOWN,visa,ESKIŞEHIR,5
+TEKIRDAĞ,visa,SARAY,2
+CIFTELER,visa,ESKISEHIR,1
+TR,visa,ESKISEHIR,7
+ESENYURT,visa,ISTANBUL,122
+İSTANBUL,visa,ESENYURT,69
+MERKEZ,visa,BILECIK,5
+ISTANBUL,visa,BEYLIKDUZU,1
+BILECIK,visa,MERKEZ,3
+AVCILAR,visa,ISTANBUL,44
+İSTANBUL,visa,AVCILAR,31
+UNKNOWN,visa,ESENYURT,2
+İSTANBUL,visa,CATALCA,3
+ESKISEHIR,visa,MERKEZ,1
+SOGUT,visa,BILECIK,1
+BILECIK,visa,SOĞUT,1
+SOĞUT,visa,BILECIK,1
+UNKNOWN,visa,TEPEBASI,1
+YALOVA,visa,MERKEZ,9
+ODUNPAZARI,visa,ESKİŞEHİR,1
+UNKNOWN,visa,AVCILAR,1
+MERKEZ,visa,YALOVA,19
+VIZE,visa,KIRKLARELI,4
+KIRKLARELI,visa,VIZE,1
+SULTANGAZI,visa,ISTANBUL,28
+ISTANBUL,visa,AVCILAR,1
+ISTANBUL,visa,ESENYURT,2
+TR,visa,YALOVA,2
+YALOVAMERKEZ,visa,YALOVA,1
+YAL,visa,YALOVA,1
+BAKIRKOY,visa,ISTANBUL,48
+İSTANBUL,visa,BAKIRKOY,37
+İSTANBUL,visa,KUCUKCEKMECE,47
+KUCUKCEKMECE,visa,ISTANBUL,68
+ISTANBUL,visa,YESILKOY,1
+BAŞAKŞEHIR,visa,ISTANBUL,27
+BASAKSEHIR,visa,ISTANBUL,22
+İSTANBUL,visa,BAŞAKŞEHIR,28
+UNKNOWN,visa,BAKIRKOY,2
+CIFTLIKKOY,visa,YALOVA,4
+YALOVA,visa,CIFTLIKKOY,2
+ISTANBUL,visa,KUCUKCEKMECE,1
+SEFAKOY,visa,ISTANBUL,1
+ESK,visa,ESKISEHIR,1
+ARNAVUTKOY,visa,ISTANBUL,26
+BAHCELIEVLER,visa,ISTANBUL,64
+İSTANBUL,visa,BAHCELIEVLER,38
+İSTANBUL,visa,ARNAVUTKOY,22
+IZNIK,visa,BURSA,1
+BURSA,visa,İZNIK,1
+BAĞCILAR,visa,ISTANBUL,40
+ISTANBUL,visa,BAKIRKOY,1
+UNKNOWN,visa,ORDU,175
+BAGCILAR,visa,ISTANBUL,40
+İSTANBUL,visa,BAĞCILAR,51
+İSTANBUL,visa,ZEYTINBURNU,27
+ZEYTINBURNU,visa,ISTANBUL,34
+ISTANBUL,visa,GUNESLI,1
+İSTANBUL,visa,GUNGOREN,17
+GUNGOREN,visa,ISTANBUL,25
+UNKNOWN,visa,BAGCILAR,2
+ISTANBUL,visa,ZEYTINBURNU,3
+ISTANBUL,visa,MERTER,1
+ISTANBUL,visa,BASAKSEHIR,1
+ADALAR,visa,ISTANBUL,3
+UNKNOWN,visa,ISTANBUL-AND,214
+İSTANBUL,visa,ADALAR,2
+UNKNOWN,visa,GUNGOREN,1
+ISTANBUL,visa,BAGCILAR,2
+FATIH,visa,ISTANBUL,137
+UNKNOWN,visa,BASAKSEHIR,1
+ISTANBUL,visa,IKITELLI,1
+İSTANBUL,visa,ESENLER,19
+ESENLER,visa,ISTANBUL,31
+İSTANBUL,visa,FATIH,84
+BAYRAMPASA,visa,ISTANBUL,14
+UNKNOWN,visa,ZEYTINBURNU,1
+İSTANBUL,visa,BAYRAMPAŞA,22
+BAYRAMPAŞA,visa,ISTANBUL,21
+UNKNOWN,visa,FATIH,1
+UNKNOWN,visa,YOZGAT,91
+İSTANBUL,visa,KADIKOY,82
+ISTANBUL,visa,FATIH,1
+MEZITLI,visa,MERSIN,7
+MERSIN,visa,MEZITLI,5
+UNKNOWN,visa,BAYRAMPASA,1
+0,visa,ISTANBUL,1
+LALELI,visa,ISTANBUL,1
+İSTANBUL,visa,EYUPSULTAN,40
+ALTINOVA,visa,YALOVA,5
+UNKNOWN,visa,ARDAHAN,29
+EYUP,visa,ISTANBUL,23
+ISTANBUL,visa,TOPCULAR,1
+UNKNOWN,visa,EYUP,1
+EYUPSULTAN,visa,ISTANBUL,15
+ISTANBUL,visa,EMINONU,1
+KADIKOY,visa,ISTANBUL,124
+GAZIOSMANPASA,visa,ISTANBUL,20
+MALTEPE,visa,ISTANBUL,50
+İSTANBUL,visa,GAZIOSMANPAŞA,21
+GAZIOSMANPAŞA,visa,ISTANBUL,24
+TUZLA,visa,ISTANBUL,45
+İSTANBUL,visa,KARTAL,36
+KARTAL,visa,ISTANBUL,55
+ISTANBUL,visa,KADIKOY,3
+İSTANBUL,visa,BEYOĞLU,44
+İSTANBUL,visa,MALTEPE,36
+BEYOĞLU,visa,ISTANBUL,47
+İSTANBUL,visa,SULTANGAZI,18
+UNKNOWN,visa,KOCAELİ,234
+DARICA,visa,KOCAELI,19
+BEYOGLU,visa,ISTANBUL,18
+KOCAELI,visa,DARICA,11
+,visa,KOCAELI,55
+İSTANBUL,visa,SULTANGAZI MH,1
+UNKNOWN,visa,KARTAL,1
+ISTANBUL,visa,KARAKOY,1
+ISTANBUL,visa,GOZTEPE,1
+İSTANBUL,visa,TUZLA,24
+ISTANBUL,visa,SUADIYE,2
+ISTANBUL,visa,MALTEPE,1
+ISTANBUL,visa,GAZIOSMANPASA,1
+İSTANBUL,visa,USKUDAR,58
+USKUDAR,visa,ISTANBUL,68
+UNKNOWN,visa,KADIKOY,3
+KAĞITHANE,visa,ISTANBUL,25
+ISTANBUL,visa,PENDIK,1
+ISTANBUL,visa,KARTAL,2
+İSTANBUL,visa,PENDIK,59
+PENDIK,visa,ISTANBUL,81
+YENIŞEHIR,visa,MERSIN,15
+BILECIK,visa,OSMANELI,1
+YALOVA,visa,ALTINOVA,1
+İSTANBUL,visa,ŞIŞLI,63
+MERSIN,visa,YENIŞEHIR,14
+ISTANBUL,visa,TAKSIM,1
+ŞIŞLI,visa,ISTANBUL,57
+ATAŞEHIR,visa,ISTANBUL,40
+YENISEHIR,visa,MERSIN,10
+İSTANBUL,visa,ATAŞEHIR,48
+BESIKTAS,visa,ISTANBUL,24
+BEŞIKTAŞ,visa,ISTANBUL,55
+SISLI,visa,ISTANBUL,33
+İSTANBUL,visa,KAĞITHANE,26
+ATASEHIR,visa,ISTANBUL,37
+İSKENDERUN,visa,HATAY,8
+İSTANBUL,visa,BEŞIKTAŞ,53
+KAGITHANE,visa,ISTANBUL,20
+UNKNOWN,visa,SISLI,3
+KOCAELI,visa,GEBZE,35
+UNKNOWN,visa,PENDIK,2
+UNKNOWN,visa,DIYARBAKIR,125
+ISTANBUL,visa,SISLI,4
+GEBZE,visa,KOCAELI,47
+UNKNOWN,visa,USKUDAR,1
+ISTANBUL,visa,ALTUNIZADE,1
+CAYIROVA,visa,KOCAELI,18
+DORTYOL,visa,HATAY,10
+SARIYER,visa,ISTANBUL,73
+KOCAELI,visa,CAYIROVA,16
+KOCAELİ,visa,CAYIROVA,1
+UNKNOWN,visa,GEBZE,8
+UMRANIYE,visa,ISTANBUL,95
+İSTANBUL,visa,UMRANIYE,61
+UNKNOWN,visa,BESIKTAS,1
+KOC,visa,KOCAELI,6
+KONYA,visa,KARAPINAR,3
+ISTANBUL,visa,KAGITHANE,1
+ISTANBUL,visa,UMRANIYE,2
+TR,visa,KOCAELI,6
+KARAPINAR,visa,KONYA,1
+KOCAELI,visa,KARAMURSEL,2
+KARAMURSEL,visa,KOCAELI,5
+KOCAELI,visa,IZMIT,1
+ESENTEPE,visa,ISTANBUL,1
+SANCAKTEPE,visa,ISTANBUL,31
+İSTANBUL,visa,SARIYER,47
+İSTANBUL,visa,SANCAKTEPE,21
+AKDENIZ,visa,MERSIN,33
+UNKNOWN,visa,UMRANIYE,2
+MERSIN,visa,AKDENIZ,14
+DILOVASI,visa,KOCAELI,5
+ISTANBUL,visa,ETILER,1
+TOROSLAR,visa,MERSIN,9
+ISTANBUL,visa,Y.DUDULLU,1
+UNKNOWN,visa,AKDENIZ,1
+SULTANBEYLI,visa,ISTANBUL,27
+UNKNOWN,visa,SARIYER,1
+İSTANBUL,visa,BEYKOZ,23
+BEYKOZ,visa,ISTANBUL,27
+MER,visa,MERSIN,1
+MERSIN,visa,TOROSLAR,4
+CEKMEKOY,visa,ISTANBUL,27
+ISTANBUL,visa,TUZLA,3
+KOCAELI,visa,DILOVASI,7
+İSTANBUL,visa,SULTANBEYLI,13
+İSTANBUL,visa,CEKMEKOY,17
+ISTANBUL,visa,SULTANBEYLI,1
+ISTANBUL,visa,SANCAKTEPE,1
+ISTANBUL,visa,SARIYER,1
+SUR,visa,DIYARBAKIR,4
+KOCAELI,visa,KORFEZ,9
+KORFEZ,visa,KOCAELI,14
+SIVRIHISAR,visa,ESKISEHIR,1
+UNKNOWN,visa,TRABZON,264
+KOCAELI,visa,KOCAELI,1
+GOLCUK,visa,KOCAELI,12
+KOCAELI,visa,GOLCUK,12
+TR,visa,IZMIT,1
+KONYA,visa,EREĞLI,4
+PAMUKOVA,visa,SAKARYA,4
+SAKARYA,visa,PAMUKOVA,1
+DERINCE,visa,KOCAELI,16
+KOCAELI,visa,DERINCE,5
+KOCAELI,visa,BAŞISKELE,5
+EREĞLI,visa,KONYA,5
+EREGLI,visa,KONYA,2
+IZMIT,visa,KOCAELI,23
+BASISKELE,visa,KOCAELI,2
+BAŞISKELE,visa,KOCAELI,5
+UNKNOWN,visa,IZMIT,7
+İZMIT,visa,KOCAELI,32
+KOCAELI,visa,İZMIT,18
+TARSUS,visa,MERSIN,16
+GEYVE,visa,SAKARYA,2
+SAKARYA,visa,GEYVE,2
+KARTEPE,visa,KOCAELI,18
+KOCAELI,visa,KARTEPE,5
+MERSIN,visa,TARSUS,12
+UNKNOWN,visa,TARSUS,1
+ICEL,visa,TARSUS,1
+CIHANBEYLI,visa,KONYA,1
+KONYA,visa,CIHANBEYLI,1
+UNKNOWN,visa,AKSARAY,102
+SAKARYA,visa,SAPANCA,5
+SAPANCA,visa,SAKARYA,7
+KARATAS,visa,ADANA,1
+ADANA,visa,KARATAŞ,1
+KARATAŞ,visa,ADANA,1
+ŞILE,visa,ISTANBUL,2
+HATAY,visa,YAYLADAĞI,1
+İSTANBUL,visa,ŞILE,3
+SILE,visa,ISTANBUL,1
+GOYNUK,visa,BOLU,2
+UNKNOWN,visa,BOLU,121
+BOLU,visa,GOYNUK,1
+UNKNOWN,visa,NEVŞEHİR,46
+ESKIL,visa,AKSARAY,1
+ARIFIYE,visa,SAKARYA,6
+SAMANDAG,visa,HATAY,1
+SAKARYA,visa,ARIFIYE,6
+,visa,SAKARYA,8
+,visa,HATAY,9
+HATAY,visa,SAMANDAĞ,3
+SERDIVAN,visa,SAKARYA,13
+SAKARYA,visa,SERDIVAN,4
+ADAPAZARI,visa,SAKARYA,26
+SAKARYA,visa,ADAPAZARI,13
+ULUKIŞLA,visa,NIGDE,1
+UNKNOWN,visa,NIGDE,37
+UNKNOWN,visa,NİĞDE,42
+SAKARYA,visa,ERENLER,6
+TR,visa,SAKARYA,4
+ERENLER,visa,SAKARYA,7
+YUREGIR,visa,ADANA,8
+UNKNOWN,visa,ADAPAZARI,4
+AKYAZI,visa,SAKARYA,5
+SAKARYA,visa,AKYAZI,3
+SAKARYA,visa,SAKARYA,1
+SEYHAN,visa,ADANA,73
+ANKARA,visa,POLATLI,4
+POLATLI,visa,ANKARA,7
+TR,visa,ANKARA,45
+,visa,ANKARA,88
+ANKARA,visa,ANKARA,12
+ADANA,visa,SEYHAN,38
+NALLIHAN,visa,ANKARA,2
+KULU,visa,KONYA,3
+UNKNOWN,visa,SEYHAN,1
+,visa,ADANA,40
+MERKEZ,visa,OSMANIYE,13
+HATAY,visa,ARSUZ,2
+ARSUZ,visa,HATAY,2
+KANDIRA,visa,KOCAELI,2
+KOCAELI,visa,KANDIRA,1
+HATAY,visa,DEFNE,2
+CUKUROVA,visa,ADANA,28
+ADANA,visa,CUKUROVA,17
+HENDEK,visa,SAKARYA,5
+DEFNE,visa,HATAY,5
+ADA,visa,ADANA,5
+TR,visa,ADANA,9
+HATAY,visa,DORTYOL,3
+UNKNOWN,visa,ANTAKYA,4
+HATAY,visa,ANTAKYA,9
+YUREĞIR,visa,ADANA,14
+ADANA,visa,ADANA,3
+ADANA,visa,YUREĞIR,11
+POZANTI,visa,ADANA,1
+HATAY,visa,ALTINOZU,1
+ALTINOZU,visa,HATAY,1
+ANTAKYA,visa,HATAY,11
+TR,visa,HATAY,3
+SAKARYA,visa,HENDEK,2
+HAT,visa,HATAY,2
+KAYNARCA,visa,SAKARYA,2
+SAKARYA,visa,KAYNARCA,1
+SAKARYA,visa,SOĞUTLU,3
+DIYARBAKIR,visa,YENIŞEHIR,4
+ANKARA,visa,NALLIHAN,1
+FERIZLI,visa,SAKARYA,2
+SAKARYA,visa,FERIZLI,1
+AKSARAY,visa,MERKEZ,11
+MERKEZ,visa,AKSARAY,10
+ADANA,visa,SARICAM,5
+ANKARA,visa,SINCAN,26
+SARICAM,visa,ADANA,6
+MUDURNU,visa,BOLU,3
+BOLU,visa,MUDURNU,1
+KONYA,visa,KULU,1
+NIĞDE,visa,BOR,2
+,visa,NIGDE,3
+,visa,AKSARAY,3
+TR,visa,AKSARAY,2
+BOR,visa,NIGDE,2
+ADANA,visa,YUMURTALIK,1
+YUMURTALIK,visa,ADANA,2
+AKSARAY,visa,AKSARAY,1
+UNKNOWN,visa,DUZCE,112
+GOLYAKA,visa,DUZCE,2
+,visa,DUZCE,5
+ANKARA,visa,BEYPAZARI,2
+GUMUSOVA,visa,DUZCE,1
+GUMUŞOVA,visa,DUZCE,2
+UNKNOWN,visa,ISKENDERUN,2
+BEYPAZARI,visa,ANKARA,2
+HATAY,visa,İSKENDERUN,9
+ISKENDERUN,visa,HATAY,6
+NIĞDE,visa,MERKEZ,5
+CUMAYERI,visa,DUZCE,2
+MERKEZ,visa,NIGDE,6
+ANKARA,visa,ŞEREFLIKOCHISAR,1
+SEREFLIKOCHISAR,visa,ANKARA,1
+TR,visa,NIGDE,1
+HATAY,visa,HATAY,3
+SINCAN,visa,ANKARA,37
+HATAY,visa,ISKENDERUN,1
+KARASU,visa,SAKARYA,3
+SAKARYA,visa,KARASU,3
+DUZCE,visa,MERKEZ,13
+MERKEZ,visa,DUZCE,19
+CILIMLI,visa,DUZCE,2
+KIRIKHAN,visa,HATAY,5
+REYHANLI,visa,HATAY,3
+HATAY,visa,REYHANLI,1
+DUZCE,visa,KAYNAŞLI,2
+ADANA,visa,CEYHAN,5
+HATAY,visa,KIRIKHAN,2
+CEYHAN,visa,ADANA,5
+TR,visa,DUZCE,2
+DUZ,visa,DUZCE,1
+KOCAALI,visa,SAKARYA,2
+SAKARYA,visa,KOCAALI,1
+ETIMESGUT,visa,ANKARA,44
+ANKARA,visa,ETIMESGUT,27
+GOLBAŞI,visa,ANKARA,4
+AYAS,visa,ANKARA,1
+KAYNASLI,visa,DUZCE,2
+KAYNAŞLI,visa,DUZCE,2
+İMAMOĞLU,visa,ADANA,1
+IMAMOGLU,visa,ADANA,1
+ANKARA,visa,GOLBAŞI,6
+ANKARA,visa,CANKAYA,97
+CANKAYA,visa,ANKARA,143
+BOLU,visa,MERKEZ,10
+MERKEZ,visa,BOLU,22
+HATAY,visa,PAYAS,1
+PAYAS,visa,HATAY,1
+ORTAKOY,visa,AKSARAY,1
+ANK,visa,ANKARA,18
+YENIMAHALLE,visa,ANKARA,77
+GOLBASI,visa,ANKARA,3
+,visa,BOLU,2
+BOL,visa,BOLU,1
+TR,visa,BOLU,4
+DUZCE,visa,AKCAKOCA,1
+AKCAKOCA,visa,DUZCE,3
+ANKARA,visa,YENIMAHALLE,51
+UNKNOWN,visa,OSMANİYE,47
+ANKARA,visa,ULUS,1
+OSMANIYE,visa,TOPRAKKALE,1
+ANKARA,visa,KAHRAMANKAZAN,3
+HATAY,visa,ERZIN,1
+ERZIN,visa,HATAY,1
+UNKNOWN,visa,CANKAYA,1
+KAZAN,visa,ANKARA,4
+ANKARA,visa,BALGAT,1
+HATAY,visa,HASSA,2
+UNKNOWN,visa,YENIMAHALLE,2
+HASSA,visa,HATAY,4
+ANKARA,visa,IVEDIK,1
+CAYIROVA,visa,ANKARA,1
+UNKNOWN,visa,AN,1
+YIGILCA,visa,DUZCE,2
+UNKNOWN,visa,NEVSEHIR,72
+KAHRAMANKAZAN,visa,ANKARA,2
+DUZCE,visa,YIĞILCA,1
+ALTINDAG,visa,ANKARA,20
+ALTINDAĞ,visa,ANKARA,23
+ANKARA,visa,ALTINDAĞ,23
+ANKARA,visa,KECIOREN,36
+KECIOREN,visa,ANKARA,63
+MAMAK,visa,ANKARA,41
+ANKARA,visa,MAMAK,20
+OSMANIYE,visa,MERKEZ,5
+KOZAN,visa,ADANA,4
+ADANA,visa,KOZAN,2
+,visa,OSMANIYE,4
+UNKNOWN,visa,ALTINDAG,1
+OSMANIYE,visa,OSMANIYE,1
+TR,visa,OSMANIYE,2
+OSM,visa,OSMANIYE,1
+KAMAN,visa,KIRSEHIR,1
+UNKNOWN,visa,KIRŞEHİR,30
+UNKNOWN,visa,KIRSEHIR,26
+PURSAKLAR,visa,ANKARA,5
+ANKARA,visa,PURSAKLAR,5
+UNKNOWN,visa,ZONGULDAK,165
+ALAPLI,visa,ZONGULDAK,3
+ZONGULDAK,visa,ALAPLI,2
+ZONGULDAK,visa,ZONGULDAK,1
+MERKEZ,visa,NEVSEHIR,12
+KADIRLI,visa,OSMANIYE,4
+OSMANIYE,visa,KADIRLI,4
+NEV,visa,NEVSEHIR,1
+UNKNOWN,visa,NEVŞEHIR,1
+NEVŞEHIR,visa,MERKEZ,11
+,visa,NEVSEHIR,2
+URGUP,visa,NEVSEHIR,6
+TR,visa,NEVSEHIR,1
+ANKARA,visa,AKYURT,9
+UNKNOWN,visa,KAYSERİ,155
+,visa,KAYSERI,23
+YAHYALI,visa,KAYSERI,1
+TR,visa,KIRSEHIR,1
+MERKEZ,visa,KIRSEHIR,3
+ELMADAĞ,visa,ANKARA,5
+,visa,KIRSEHIR,2
+KIRŞEHIR,visa,MERKEZ,2
+UNKNOWN,visa,KIRŞEHIR,1
+ELMADAG,visa,ANKARA,2
+ANKARA,visa,ELMADAĞ,1
+EREGLI,visa,ZONGULDAK,4
+AKYURT,visa,ANKARA,5
+ZONGULDAK,visa,EREĞLI,6
+KIRIKKALE,visa,MERKEZ,7
+UNKNOWN,visa,KRD EREGLG,1
+,visa,ZONGULDAK,5
+ZON,visa,ZONGULDAK,2
+EREĞLI,visa,ZONGULDAK,4
+TR,visa,ZONGULDAK,2
+UNKNOWN,visa,GAZIANTEP,251
+NEVŞEHIR,visa,URGUP,2
+UNKNOWN,visa,GAZİANTEP,126
+UNKNOWN,visa,KILIS,16
+ISLAHIYE,visa,GAZIANTEP,1
+İSLAHIYE,visa,GAZIANTEP,3
+GAZIANTEP,visa,İSLAHIYE,1
+UNKNOWN,visa,YILDIRIM,1
+GEREDE,visa,BOLU,1
+ANKARA,visa,KIZILCAHAMAM,1
+BOLU,visa,GEREDE,1
+KIZILCAHAMAM,visa,ANKARA,2
+YAHSIYAN,visa,KIRIKKALE,2
+KIRIKKALE,visa,YAHŞIHAN,5
+NEVŞEHIR,visa,AVANOS,1
+AVANOS,visa,NEVSEHIR,4
+DUZICI,visa,OSMANIYE,3
+MERKEZ,visa,KIRIKKALE,5
+YAHŞIHAN,visa,KIRIKKALE,2
+OSMANIYE,visa,DUZICI,2
+,visa,KIRIKKALE,2
+TR,visa,KIRIKKALE,1
+YAHSIHAN,visa,KIRIKKALE,1
+CUBUK,visa,ANKARA,4
+ANKARA,visa,CUBUK,2
+UNKNOWN,visa,KAHRAMANMARAŞ,91
+BAHCE,visa,OSMANIYE,2
+UNKNOWN,visa,KİLİS,11
+MERKEZ,visa,KILIS,6
+KILIS,visa,MERKEZ,3
+TR,visa,KILIS,1
+NURDAGI,visa,GAZIANTEP,1
+INCESU,visa,KAYSERI,1
+TR,visa,KAYSERI,9
+NURDAĞI,visa,GAZIANTEP,1
+ANDIRIN,visa,KAHRAMANMARAS,1
+UNKNOWN,visa,K MARAS,2
+ZONGULDAK,visa,DEVREK,3
+DEVREK,visa,ZONGULDAK,3
+KAYSERI,visa,DEVELI,1
+DEVELI,visa,KAYSERI,2
+ZONGULDAK,visa,KOZLU,1
+KOZLU,visa,ZONGULDAK,1
+MERKEZ,visa,ZONGULDAK,7
+ŞAHINBEY,visa,GAZIANTEP,23
+ZONGULDAK,visa,MERKEZ,2
+KILIMLI,visa,ZONGULDAK,1
+ZONGULDAK,visa,KILIMLI,1
+UNKNOWN,visa,ERZINCAN,41
+UNKNOWN,visa,MALATYA,186
+ZONGULDAK,visa,GOKCEBEY,1
+KAY,visa,KAYSERI,4
+KAYSERI,visa,MELIKGAZI,21
+KAHRAMANMARAŞ,visa,TURKOĞLU,1
+TURKOGLU,visa,KAHRAMANMARAS,1
+TURKOĞLU,visa,KAHRAMANMARAS,2
+KOZAKLI,visa,NEVSEHIR,1
+KOCASINAN,visa,KAYSERI,28
+KAYSERI,visa,KOCASINAN,14
+CAYCUMA,visa,ZONGULDAK,2
+ZONGULDAK,visa,CAYCUMA,2
+UNKNOWN,visa,MELIKGAZI,1
+KAYSERI,visa,GESI,1
+KAYSERI,visa,KAYSERI,3
+TALAS,visa,KAYSERI,7
+CANKIRI,visa,MERKEZ,3
+MERKEZ,visa,CANKIRI,7
+KAYSERI,visa,TALAS,3
+YERKOY,visa,YOZGAT,2
+YOZGAT,visa,YERKOY,1
+GAZIANTEP,visa,ŞAHINBEY,24
+,visa,GAZIANTEP,22
+SAHINBEY,visa,GAZIANTEP,20
+TR,visa,GAZIANTEP,7
+ŞEHITKAMIL,visa,GAZIANTEP,30
+SEHITKAMIL,visa,GAZIANTEP,26
+GAZIANTEP,visa,ŞEHITKAMIL,24
+ONIKIŞUBAT,visa,KAHRAMANMARAS,10
+DULKADIROĞLU,visa,KAHRAMANMARAS,11
+ONIKISUBAT,visa,KAHRAMANMARAS,11
+MERKEZ,visa,BATMAN,17
+GAZIANTEP,visa,MERKEZ,1
+GAZ,visa,GAZIANTEP,4
+KAHRAMANMARAŞ,visa,ONIKIŞUBAT,8
+PAZARCIK,visa,KAHRAMANMARAS,3
+GAZIANTEP,visa,GAZIANTEP,6
+UNKNOWN,visa,BARTIN,60
+,visa,KAHRAMANMARAS,9
+UNKNOWN,visa,ELAZIG,51
+UNKNOWN,visa,SEHITKAMIL,2
+MERKEZ,visa,KARABUK,12
+OĞUZELI,visa,GAZIANTEP,1
+GAZIANTEP,visa,OĞUZELI,1
+TR,visa,KAHRAMANMARAS,5
+OGUZELI,visa,GAZIANTEP,1
+TR,visa,KARABUK,3
+,visa,KARABUK,5
+KARABUK,visa,MERKEZ,5
+KAR,visa,KARABUK,1
+BOĞAZLIYAN,visa,YOZGAT,1
+DULKADIROGLU,visa,KAHRAMANMARAS,8
+KAHRAMANMARAŞ,visa,DULKADIROĞLU,9
+KMARAS,visa,MERKEZ,1
+KAH,visa,KAHRAMANMARAS,1
+KAHRAMANMARAS,visa,KAHRAMANMARAS,5
+KAHRAMANMARAŞ,visa,GOKSUN,1
+GOKSUN,visa,KAHRAMANMARAS,1
+BARTIN,visa,MERKEZ,8
+MERKEZ,visa,BARTIN,8
+TR,visa,YOZGAT,2
+,visa,YOZGAT,4
+YOZGAT,visa,BOĞAZLIYAN,1
+BOGAZLIYAN,visa,YOZGAT,1
+SAFRANBOLU,visa,KARABUK,3
+KARABUK,visa,KARABUK,1
+KARABUK,visa,SAFRANBOLU,3
+,visa,CANKIRI,3
+CNK,visa,CANKIRI,1
+TR,visa,CANKIRI,1
+,visa,BARTIN,1
+KAHRAMANMARAŞ,visa,PAZARCIK,1
+BUNYAN,visa,KAYSERI,1
+NIZIP,visa,GAZIANTEP,4
+GAZIANTEP,visa,NIZIP,2
+UNKNOWN,visa,CORUM,152
+SUNGURLU,visa,CORUM,1
+CORUM,visa,SUNGURLU,1
+TR,visa,CORUM,3
+YOZ,visa,YOZGAT,1
+MERKEZ,visa,YOZGAT,5
+YOZGAT,visa,MERKEZ,2
+UNKNOWN,visa,KASTAMONU,107
+AMASRA,visa,BARTIN,2
+BARTIN,visa,AMASRA,1
+ŞANLIURFA,visa,BIRECIK,3
+UNKNOWN,visa,ŞANLIURFA,99
+BIRECIK,visa,SANLIURFA,2
+SARIZ,visa,KAYSERI,1
+ARABAN,visa,GAZIANTEP,1
+PINARBASI,visa,KAYSERI,1
+KAHRAMANMARAŞ,visa,AFŞIN,1
+AFSIN,visa,KAHRAMANMARAS,1
+ŞANLIURFA,visa,HALFETI,1
+SORGUN,visa,YOZGAT,2
+YOZGAT,visa,SORGUN,1
+ALACA,visa,CORUM,1
+UNKNOWN,visa,SIVAS,80
+IHSANGAZI,visa,KASTAMONU,1
+UNKNOWN,visa,SİVAS,81
+SARAYKENT,visa,YOZGAT,1
+ELBISTAN,visa,KAHRAMANMARAS,5
+TR,visa,SIVAS,3
+KAHRAMANMARAŞ,visa,ELBISTAN,3
+UNKNOWN,visa,ADIYAMAN,107
+SURUC,visa,SANLIURFA,2
+ADIYAMAN,visa,GOLBAŞI,1
+GOLBASI,visa,ADIYAMAN,1
+KASTAMONU,visa,TOSYA,1
+TOSYA,visa,KASTAMONU,2
+KASTAMONU,visa,KASTAMONU,1
+TR,visa,KASTAMONU,3
+BESNI,visa,ADIYAMAN,2
+DADAY,visa,KASTAMONU,1
+ADIYAMAN,visa,BESNI,2
+ISKILIP,visa,CORUM,1
+CORUM,visa,İSKILIP,1
+VAN,visa,VAN,2
+KASTAMONU,visa,MERKEZ,7
+MERKEZ,visa,KASTAMONU,14
+,visa,KASTAMONU,5
+KAS,visa,KASTAMONU,1
+AKCAKALE,visa,SANLIURFA,1
+CORUM,visa,MERKEZ,13
+MERKEZ,visa,CORUM,19
+ŞANLIURFA,visa,EYYUBIYE,10
+COR,visa,CORUM,1
+,visa,CORUM,3
+SIVAS,visa,ŞARKIŞLA,1
+UNKNOWN,visa,KARS,72
+EYYUBIYE,visa,SANLIURFA,13
+BOZOVA,visa,SANLIURFA,1
+MERKEZ,visa,ADIYAMAN,8
+HALILIYE,visa,SANLIURFA,12
+ŞANLIURFA,visa,HALILIYE,8
+,visa,SANLIURFA,7
+TR,visa,SANLIURFA,2
+SANLIURFA,visa,SANLIURFA,2
+ADIYAMAN,visa,MERKEZ,5
+SANLIURFA,visa,MERKEZ,1
+SAN,visa,SANLIURFA,2
+DEVREKANI,visa,KASTAMONU,1
+TR,visa,ADIYAMAN,2
+ŞANLIURFA,visa,KARAKOPRU,4
+ADI,visa,ADIYAMAN,1
+,visa,ADIYAMAN,1
+UNKNOWN,visa,AMASYA,94
+KURE,visa,KASTAMONU,2
+OSMANCIK,visa,CORUM,2
+CORUM,visa,OSMANCIK,1
+UNKNOWN,visa,SINOP,30
+TASKOPRU,visa,KASTAMONU,1
+TAŞKOPRU,visa,KASTAMONU,1
+KASTAMONU,visa,TAŞKOPRU,1
+UNKNOWN,visa,TOKAT,143
+İNEBOLU,visa,KASTAMONU,1
+TOKAT,visa,ZILE,1
+ZILE,visa,TOKAT,1
+GUMUŞHACIKOY,visa,AMASYA,1
+GUMUSHACIKOY,visa,AMASYA,1
+ADIYAMAN,visa,KAHTA,4
+KAHTA,visa,ADIYAMAN,3
+MALATYA,visa,YEŞILYURT,15
+BOZKURT,visa,KASTAMONU,1
+UNKNOWN,visa,SİNOP,27
+HILVAN,visa,SANLIURFA,1
+YESILYURT,visa,MALATYA,6
+YILDIZELI,visa,SIVAS,1
+MERZIFON,visa,AMASYA,7
+YEŞILYURT,visa,MALATYA,4
+MALATYA,visa,YEŞILYURRT,1
+AMASYA,visa,MERZIFON,2
+TR,visa,AMASYA,2
+,visa,AMASYA,3
+MERKEZ,visa,AMASYA,10
+,visa,MALATYA,12
+TOKAT,visa,TURHAL,3
+TURHAL,visa,TOKAT,4
+BOYABAT,visa,SINOP,2
+TR,visa,TOKAT,4
+MALATYA,visa,BATTALGAZI,7
+BATTALGAZI,visa,MALATYA,13
+MALATYA,visa,MALATYA,4
+MALATYA,visa,HEKIMHAN,1
+MAL,visa,MALATYA,1
+TR,visa,MALATYA,2
+AMASYA,visa,MERKEZ,5
+İPEKYOLU,visa,VAN,10
+AMASYA,visa,AMASYA,2
+AMASYA,visa,SULUOVA,1
+SULUOVA,visa,AMASYA,3
+SIVAS,visa,MERKEZ,16
+MERKEZ,visa,SIVAS,13
+,visa,SIVAS,3
+SIV,visa,SIVAS,1
+HAVZA,visa,SAMSUN,2
+SAMSUN,visa,HAVZA,1
+VEZIRKOPRU,visa,SAMSUN,2
+SAMSUN,visa,VEZIRKOPRU,1
+TR,visa,SAMSUN,8
+TOKAT,visa,MERKEZ,6
+MERKEZ,visa,TOKAT,9
+CEYLANPINAR,visa,SANLIURFA,1
+,visa,TOKAT,4
+TOK,visa,TOKAT,1
+AYANCIK,visa,SINOP,2
+SINOP,visa,AYANCIK,1
+LADIK,visa,SAMSUN,3
+ŞANLIURFA,visa,VIRANŞEHIR,2
+VIRANSEHIR,visa,SANLIURFA,2
+VIRANŞEHIR,visa,SANLIURFA,3
+PUTURGE,visa,MALATYA,1
+SIVEREK,visa,SANLIURFA,5
+ŞANLIURFA,visa,SIVEREK,2
+AMASYA,visa,TAŞOVA,1
+TAŞOVA,visa,AMASYA,1
+SAMSUN,visa,KAVAK,1
+KAVAK,visa,SAMSUN,1
+DOGANYOL,visa,MALATYA,1
+ERBAA,visa,TOKAT,6
+UNKNOWN,visa,ELAZIĞ,75
+TOKAT,visa,ERBAA,2
+GERZE,visa,SINOP,2
+SINOP,visa,GERZE,1
+ASARCIK,visa,SAMSUN,1
+DIVRIĞI,visa,SIVAS,2
+SINOP,visa,MERKEZ,3
+UNKNOWN,visa,DİYARBAKIR,94
+MERKEZ,visa,SINOP,7
+SAMSUN,visa,ALACAM,1
+ALACAM,visa,SAMSUN,1
+,visa,SINOP,1
+TOKAT,visa,NIKSAR,2
+NIKSAR,visa,TOKAT,3
+UNKNOWN,visa,MARDİN,47
+DERIK,visa,MARDIN,1
+BAFRA,visa,SAMSUN,11
+SAMSUN,visa,BAFRA,4
+,visa,SAMSUN,15
+UNKNOWN,visa,ERZİNCAN,46
+SAMSUN,visa,ATAKUM,14
+SAMSUN,visa,İLKADIM,18
+KIZILTEPE,visa,MARDIN,8
+ILKADIM,visa,SAMSUN,14
+İLKADIM,visa,SAMSUN,16
+ATAKUM,visa,SAMSUN,16
+CARŞAMBA,visa,SAMSUN,3
+SAMSUN,visa,CANIK,4
+CANIK,visa,SAMSUN,9
+ONDOKUZMAYIS,visa,SAMSUN,1
+SAMSUN,visa,ONDOKUZMAYIS,1
+ELAZIĞ,visa,MERKEZ,10
+MERKEZ,visa,ELAZIG,16
+UNKNOWN,visa,ILKADIM,1
+SAM,visa,SAMSUN,2
+SAMSUN,visa,MERKEZ,1
+,visa,ELAZIG,3
+SAMSUN,visa,TEKKEKOY,6
+TEKKEKOY,visa,SAMSUN,7
+MARDIN,visa,KIZILTEPE,3
+MARDIN,visa,MARDIN,1
+,visa,MARDIN,2
+TR,visa,ELAZIG,1
+ELA,visa,ELAZIG,1
+KAYAPINAR,visa,DIYARBAKIR,25
+UNKNOWN,visa,TUNCELİ,17
+İLIC,visa,ERZINCAN,1
+MAZIDAGI,visa,MARDIN,1
+ERGANI,visa,DIYARBAKIR,2
+DIYARBAKIR,visa,ERGANI,5
+SALIPAZARI,visa,SAMSUN,1
+,visa,DIYARBAKIR,7
+BAĞLAR,visa,DIYARBAKIR,8
+SAMSUN,visa,CARŞAMBA,4
+CARSAMBA,visa,SAMSUN,2
+DIYARBAKIR,visa,KAYAPINAR,14
+SAMSUN,visa,SAMSUN,1
+YENIŞEHIR,visa,DIYARBAKIR,11
+SII,visa,SIIRT,1
+ARTUKLU,visa,MARDIN,6
+MARDIN,visa,ARTUKLU,5
+TR,visa,MARDIN,1
+MAR,visa,MARDIN,1
+DIY,visa,DIYARBAKIR,2
+MIDYAT,visa,MARDIN,3
+DIYARBAKIR,visa,BAĞLAR,4
+BAGLAR,visa,DIYARBAKIR,4
+AYBASTI,visa,ORDU,2
+ALTINORDU,visa,ORDU,14
+YENISEHIR,visa,DIYARBAKIR,5
+TR,visa,DIYARBAKIR,2
+UNKNOWN,visa,YENISEHIR,1
+DIYARBAKIR,visa,DIYARBAKIR,4
+ESKISEHIR,visa,ESKISEHIR,1
+UNKNOWN,visa,TUNCELI,11
+DIYARBAKIR,visa,SUR,1
+CINAR,visa,DIYARBAKIR,1
+DIYARBAKIR,visa,CINAR,1
+KUMRU,visa,ORDU,3
+ORDU,visa,KUMRU,1
+MESUDIYE,visa,ORDU,1
+SAMSUN,visa,TERME,3
+TERME,visa,SAMSUN,2
+DIYARBAKIR,visa,EĞIL,1
+NUSAYBIN,visa,MARDIN,1
+ELAZIĞ,visa,KOVANCILAR,1
+UNYE,visa,ORDU,7
+ORDU,visa,UNYE,3
+,visa,ORDU,8
+SAVUR,visa,MARDIN,1
+BISMIL,visa,DIYARBAKIR,2
+DIYARBAKIR,visa,BISMIL,1
+KOVANCILAR,visa,ELAZIG,2
+ORDU,visa,FATSA,4
+TR,visa,ORDU,5
+ORD,visa,ORDU,3
+FATSA,visa,ORDU,4
+ORDU,visa,ORDU,2
+TUNCELI,visa,TUNCELI,1
+UNKNOWN,visa,GIRESUN,68
+UNKNOWN,visa,GİRESUN,67
+UNKNOWN,visa,BINGOL,15
+MARDIN,visa,MIDYAT,2
+PERŞEMBE,visa,ORDU,1
+ORDU,visa,PERŞEMBE,1
+ORDU,visa,ALTINORDU,10
+UNKNOWN,visa,BATMAN,65
+BATMAN,visa,MERKEZ,9
+,visa,BATMAN,3
+BAT,visa,BATMAN,1
+TR,visa,BATMAN,1
+PIRAZIZ,visa,GIRESUN,2
+GIRESUN,visa,PIRAZIZ,1
+BULANCAK,visa,GIRESUN,3
+MERKEZ,visa,ERZINCAN,7
+ERZINCAN,visa,MERKEZ,4
+GIRESUN,visa,BULANCAK,2
+SILVAN,visa,DIYARBAKIR,1
+DIYARBAKIR,visa,HAZRO,1
+,visa,GIRESUN,5
+BATMAN,visa,BEŞIRI,1
+DERELI,visa,GIRESUN,1
+,visa,ERZINCAN,2
+ERZINCAN,visa,ERZINCAN,1
+TR,visa,ERZINCAN,1
+GIRESUN,visa,MERKEZ,5
+MERKEZ,visa,GIRESUN,11
+UNKNOWN,visa,GUMUSHANE,20
+UNKNOWN,visa,GUMUŞHANE,16
+UNKNOWN,visa,BİNGOL,35
+TR,visa,GIRESUN,1
+GIR,visa,GIRESUN,1
+MERKEZ,visa,BINGOL,5
+UNKNOWN,visa,ŞIRNAK,22
+UNKNOWN,visa,SIRNAK,22
+BINGOL,visa,MERKEZ,1
+KESAP,visa,GIRESUN,1
+KEŞAP,visa,GIRESUN,1
+KELKIT,visa,GUMUSHANE,2
+GIRESUN,visa,ESPIYE,1
+ESPIYE,visa,GIRESUN,2
+KURTALAN,visa,SIIRT,2
+SIIRT,visa,KURTALAN,1
+UNKNOWN,visa,SIIRT,20
+UNKNOWN,visa,SİİRT,29
+KOZLUK,visa,BATMAN,2
+BATMAN,visa,KOZLUK,1
+TIREBOLU,visa,GIRESUN,2
+GIRESUN,visa,TIREBOLU,1
+MERKEZ,visa,GUMUSHANE,5
+TR,visa,GUMUSHANE,1
+GUMUŞHANE,visa,MERKEZ,2
+SILOPI,visa,SIRNAK,1
+SIIRT,visa,MERKEZ,3
+MERKEZ,visa,SIIRT,6
+,visa,SIIRT,1
+SIIRT,visa,SIIRT,1
+UNKNOWN,visa,BAYBURT,16
+GIRESUN,visa,GIRESUN,1
+GORELE,visa,GIRESUN,2
+GIRESUN,visa,GORELE,1
+TONYA,visa,TRABZON,1
+EYNESIL,visa,GIRESUN,1
+UNKNOWN,visa,MUŞ,31
+UNKNOWN,visa,MUS,22
+MUS,visa,MUS,1
+MERKEZ,visa,MUS,4
+TRABZON,visa,BEŞIKDUZU,1
+BEŞIKDUZU,visa,TRABZON,1
+BESIKDUZU,visa,TRABZON,1
+VAKFIKEBIR,visa,TRABZON,3
+TRABZON,visa,VAKFIKEBIR,1
+UNKNOWN,visa,BİTLİS,34
+MERKEZ,visa,BAYBURT,1
+TR,visa,BAYBURT,1
+UNKNOWN,visa,RIZE,59
+CAT,visa,ERZURUM,1
+ERZURUM,visa,CAT,1
+,visa,TRABZON,6
+AKCAABAT,visa,TRABZON,6
+TRA,visa,TRABZON,3
+TRABZON,visa,AKCAABAT,5
+TR,visa,TRABZON,4
+ASKALE,visa,ERZURUM,1
+UNKNOWN,visa,BITLIS,26
+BIT,visa,BITLIS,1
+TRABZON,visa,ORTAHISAR,10
+ORTAHISAR,visa,TRABZON,20
+TRABZON,visa,TRABZON,1
+YOMRA,visa,TRABZON,4
+TRABZON,visa,YOMRA,4
+ARSIN,visa,TRABZON,2
+TRABZON,visa,ARSIN,2
+,visa,BITLIS,1
+TATVAN,visa,BITLIS,1
+BITLIS,visa,TATVAN,1
+TRABZON,visa,CAYKARA,2
+CAYKARA,visa,TRABZON,1
+ARAKLI,visa,TRABZON,1
+TRABZON,visa,ARAKLI,1
+SURMENE,visa,TRABZON,2
+TRABZON,visa,SURMENE,1
+AZIZIYE,visa,ERZURUM,3
+ERZURUM,visa,AZIZIYE,1
+YAKUTIYE,visa,ERZURUM,15
+PALANDOKEN,visa,ERZURUM,7
+TR,visa,ERZURUM,2
+,visa,ERZURUM,2
+ERZURUM,visa,PALANDOKEN,3
+ERZURUM,visa,YAKUTIYE,7
+ERZURUM,visa,ERZURUM,1
+UNKNOWN,visa,HAKKARİ,37
+ERZ,visa,ERZURUM,1
+TRABZON,visa,OF,2
+OF,visa,TRABZON,2
+TRABZON,visa,HAYRAT,1
+UNKNOWN,visa,RİZE,67
+RIZE,visa,İYIDERE,1
+KALKANDERE,visa,RIZE,1
+RIZE,visa,KALKANDERE,1
+RIZE,visa,MERKEZ,10
+RIZE,visa,DEREPAZARI,1
+MERKEZ,visa,RIZE,10
+RIZE,visa,MERKEZI,1
+,visa,RIZE,1
+TR,visa,RIZE,1
+RIZE,visa,GUNEYSU,1
+UNKNOWN,visa,HAKKARI,20
+RIZ,visa,RIZE,1
+ERZURUM,visa,PASINLER,1
+PASINLER,visa,ERZURUM,1
+RIZE,visa,CAYELI,2
+CAYELI,visa,RIZE,3
+EDREMIT,visa,VAN,2
+RIZE,visa,HEMŞIN,1
+VAN,visa,EDREMIT,1
+,visa,VAN,7
+VAN,visa,TUŞBA,2
+RIZE,visa,CAMLIHEMŞIN,1
+PAZAR,visa,RIZE,3
+RIZE,visa,PAZAR,1
+VAN,visa,İPEKYOLU,7
+IPEKYOLU,visa,VAN,3
+UNKNOWN,visa,TORTUM,1
+TR,visa,VAN,3
+RIZE,visa,ARDEŞEN,2
+ARDEŞEN,visa,RIZE,2
+UNKNOWN,visa,ARTVİN,47
+UNKNOWN,visa,AGRI,24
+UNKNOWN,visa,AĞRI,34
+HORASAN,visa,ERZURUM,1
+UNKNOWN,visa,ARTVIN,37
+RIZE,visa,FINDIKLI,1
+FINDIKLI,visa,RIZE,1
+ARTVIN,visa,YUSUFELI,1
+ELEŞKIRT,visa,AGRI,1
+VAN,visa,ERCIŞ,5
+OLTU,visa,ERZURUM,1
+ERCIS,visa,VAN,1
+ARTVIN,visa,ARHAVI,1
+,visa,ARTVIN,2
+ARHAVI,visa,ARTVIN,1
+HOPA,visa,ARTVIN,3
+ARTVIN,visa,HOPA,2
+TR,visa,ARTVIN,2
+MERKEZ,visa,AGRI,4
+AĞRI,visa,MERKEZ,2
+TR,visa,AGRI,1
+OZALP,visa,VAN,1
+ARTVIN,visa,MERKEZ,3
+MERKEZ,visa,ARTVIN,3
+ARTVIN,visa,KEMALPAŞA,1
+ARTVIN,visa,BORCKA,1
+VAN,visa,CALDIRAN,1
+UNKNOWN,visa,BATUM,4
+KARS,visa,SELIM,1
+MERKEZ,visa,KARS,5
+KARS,visa,MERKEZ,3
+TR,visa,KARS,1
+,visa,KARS,1
+DOĞUBAYAZIT,visa,AGRI,1
+UNKNOWN,visa,IGDIR,9
+UNKNOWN,visa,IĞDIR,18
+MERKEZ,visa,ARDAHAN,2
+IĞDIR,visa,MERKEZ,2
+MERKEZ,visa,IGDIR,2
+,visa,IGDIR,2
+TR,visa,IGDIR,1
+UNKNOWN,visa,TİFLİS,2
+UNKNOWN,western_union,Hatay,99
+UNKNOWN,western_union,Antalya,445
+UNKNOWN,western_union,Canakkale,55
+UNKNOWN,western_union,Balikesir,118
+UNKNOWN,western_union,Aydin,117
+UNKNOWN,western_union,Isparta,49
+UNKNOWN,western_union,Yozgat,50
+UNKNOWN,western_union,Nevsehir,49
+UNKNOWN,western_union,Denizli,117
+UNKNOWN,western_union,Afyon,49
+UNKNOWN,western_union,Duzce,33
+UNKNOWN,western_union,Bolu,40
+UNKNOWN,western_union,Eskisehir,89
+UNKNOWN,western_union,Mersin,164
+UNKNOWN,western_union,Kahramanmaras,59
+UNKNOWN,western_union,Adana,164
+UNKNOWN,western_union,Gaziantep,173
+UNKNOWN,western_union,Zonguldak,66
+UNKNOWN,western_union,Bartin,27
+UNKNOWN,western_union,Kilis,11
+UNKNOWN,western_union,Karabuk,23
+UNKNOWN,western_union,Giresun,46
+UNKNOWN,western_union,Adiyaman,18
+UNKNOWN,western_union,Malatya,47
+UNKNOWN,western_union,Konya,189
+UNKNOWN,western_union,Afyonkarahisar,19
+UNKNOWN,western_union,Elazig,54
+UNKNOWN,western_union,Eregli Zonguldak,1
+TR,western_union,Gaziantep,1
+UNKNOWN,western_union,Sivas,64
+UNKNOWN,western_union,Edirne,47
+UNKNOWN,western_union,Erzincan,29
+UNKNOWN,western_union,Ordu,73
+UNKNOWN,western_union,Yenisehir,1
+UNKNOWN,western_union,Karaman,25
+UNKNOWN,western_union,Ankara,689
+UNKNOWN,western_union,Kastamonu,53
+UNKNOWN,western_union,Osmaniye,26
+UNKNOWN,western_union,Sinop,24
+UNKNOWN,western_union,Samsun,137
+UNKNOWN,western_union,Samsunn,2
+UNKNOWN,western_union,Tokat,40
+UNKNOWN,western_union,Nigde,27
+UNKNOWN,western_union,Cankiri,28
+UNKNOWN,western_union,Amasya,30
+UNKNOWN,western_union,Kayseri,144
+UNKNOWN,western_union,Aksaray,36
+UNKNOWN,western_union,Corum,60
+TURKIYE,western_union,Ankara,1
+UNKNOWN,western_union,Istanbul,1675
+UNKNOWN,western_union,Kirikkale,34
+UNKNOWN,western_union,Kirsehir,23
+UNKNOWN,western_union,Lefkosa,2
+UNKNOWN,western_union,Sanliurfa,80
+UNKNOWN,western_union,Gazimagusa,1
+UNKNOWN,western_union,Mugla,183
+UNKNOWN,western_union,Sakarya,113
+UNKNOWN,western_union,Kocaeli,147
+UNKNOWN,western_union,Tekirdag,95
+UNKNOWN,western_union,Bilecik,23
+UNKNOWN,western_union,Usak,31
+UNKNOWN,western_union,Kutahya,50
+UNKNOWN,western_union,Izmit,1
+UNKNOWN,western_union,Manisa,91
+UNKNOWN,western_union,Izmir,442
+UNKNOWN,western_union,Trabzon,121
+UNKNOWN,western_union,Bursa,261
+UNKNOWN,western_union,Kirklareli,40
+UNKNOWN,western_union,Yalova,39
+TURKIYE,western_union,Kocaeli,1
+ISTANBUL,western_union,Istanbul,1
+UNKNOWN,western_union,Erzurum,65
+UNKNOWN,western_union,Agri,31
+UNKNOWN,western_union,Girne,1
+UNKNOWN,western_union,Burdur,38
+UNKNOWN,western_union,Bitlis,15
+UNKNOWN,western_union,Mus,28
+UNKNOWN,western_union,Bayburt,8
+UNKNOWN,western_union,Ardahan,14
+UNKNOWN,western_union,Artvin,35
+UNKNOWN,western_union,Rize,51
+UNKNOWN,western_union,Gumushane,14
+UNKNOWN,western_union,Tunceli,25
+UNKNOWN,western_union,Kars,24
+UNKNOWN,western_union,Hakkari,17
+UNKNOWN,western_union,Igdir,22
+UNKNOWN,western_union,Diyarbakir,68
+UNKNOWN,western_union,Mardin,70
+UNKNOWN,western_union,Bingol,22
+UNKNOWN,western_union,Van,50
+UNKNOWN,western_union,Sirnak,37
+UNKNOWN,western_union,Batman,29
+UNKNOWN,western_union,Siirt,19
+UNKNOWN,western_union,?irnak,1

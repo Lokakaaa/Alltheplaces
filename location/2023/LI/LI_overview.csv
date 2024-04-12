@@ -1,0 +1,51 @@
+State,Place Name,City,Establishments
+VADUZ,audi,Vaduz,1
+UNKNOWN,deloitte,9490 Vaduz,1
+UNKNOWN,denner_ch,Schaan,1
+UNKNOWN,denner_ch,Triesen,1
+UNKNOWN,denner_ch,Eschen,1
+UNKNOWN,denner_ch,Triesenberg,1
+UNKNOWN,ernst_young,Vaduz,1
+UNKNOWN,gbfs,unknown,7
+BALZERS,ich_tanke_strom,unknown,1
+SCHAAN,ich_tanke_strom,unknown,9
+VADUZ,ich_tanke_strom,unknown,3
+RUGGELL,ich_tanke_strom,unknown,3
+ESCHEN,ich_tanke_strom,unknown,1
+TRIESEN,ich_tanke_strom,unknown,7
+GAMPRIN,ich_tanke_strom,unknown,2
+UNKNOWN,longchamp,VADUZ,1
+UNKNOWN,migros_ch,Eschen,1
+UNKNOWN,migros_ch,Ruggell,1
+UNKNOWN,migros_ch,Balzers,1
+UNKNOWN,migros_ch,Schaan,2
+UNKNOWN,migros_ch,Triesen,2
+UNKNOWN,neuroth,Vaduz,1
+UNKNOWN,subway,Vaduz,1
+UNKNOWN,valora,Schaan,1
+FL,visa,BALZERS,1
+FL,visa,VADUZ,4
+GR,visa,DAVOS PLATZ,1
+ZH,visa,OPFIKON,1
+VD,visa,RENENS,1
+ZH,visa,WALLISELLEN,1
+BE,visa,MURI,1
+BE,visa,BERN,1
+ZH,visa,ZUERICH,5
+BE,visa,BURGDORF,2
+LU,visa,EMMEN,1
+ZH,visa,RUETI,1
+SH,visa,SCHAFFHAUSEN,1
+ZH,visa,ZOLLIKON,1
+ZH,visa,ZUERICH SEEFELD,1
+GE,visa,GENEVE,1
+VS,visa,ZERMATT,1
+GE,visa,CAROUGE GE,1
+VS,visa,SIERRE,1
+ZH,visa,GLATTBRUGG,1
+ZH,visa,ZUERICH ENGE,1
+AG,visa,OFTRINGEN,1
+BALZERS,western_union,Balzers,1
+VADUZ,western_union,Vaduz,1
+SCHAAN,western_union,Schaan,1
+ESCHEN,western_union,Eschen,1

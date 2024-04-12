@@ -1,0 +1,9 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+2723,abc_pl,abc,,Miasteczko Krajeńskie,wielkopolskie,,PL,,,,abc,Q11683985
+5064,abc_pl,abc,,Brzostowo,wielkopolskie,,PL,,,,abc,Q11683985
+14856,abc_pl,abc,,Grabówno,wielkopolskie,,PL,,,,abc,Q11683985
+13462,groszek_pl,Groszek,,Miasteczko Krajeńskie,wielkopolskie,,PL,,,,Groszek,Q9280965
+BOT01M,paczkomat_inpost_pl,Market Dino,,Brzostowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-brzostowo-bot01m-brzostowo-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GRAW01APP,paczkomat_inpost_pl,Przy sklepie ABC,,Grabówno,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grabowno-graw01app-grabowno-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+MSK01E,paczkomat_inpost_pl,Przy sklepie Odido,,Miasteczko Krajeńskie,wielkopolskie,,PL,,https://inpost.pl/paczkomat-miasteczko-krajenskie-msk01e-kosciuszki-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+542047,poczta_polska_pl,FUP Wyrzysk,,Miasteczko Krajeńskie,WIELKOPOLSKIE,,PL,+48 885 951 832,,,Poczta Polska,Q168833

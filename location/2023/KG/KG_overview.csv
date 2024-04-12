@@ -1,0 +1,469 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+UNKNOWN,bmw_group,Bishkek,1
+UNKNOWN,dodo_pizza,Бишкек,7
+UNKNOWN,ecco,Bishkek,1
+CHUY,ernst_young,Bishkek,1
+UNKNOWN,geox,BISHKEK TOKTOGULA ST. 90,1
+01,hugo_boss,Bishkek,1
+UNKNOWN,man_truck_and_bus, Bishkek,1
+UNKNOWN,marriott,Bishkek,1
+UNKNOWN,mexx,unknown,2
+UNKNOWN,moneygram,BISHKEK,337
+UNKNOWN,moneygram,ARAVAN,11
+UNKNOWN,moneygram,CHUI,3
+UNKNOWN,moneygram,KARAKOL,35
+UNKNOWN,moneygram,KARA-SUU,24
+UNKNOWN,moneygram,KYZYL-KYIA,1
+UNKNOWN,moneygram,KYZYL-KIYA,10
+UNKNOWN,moneygram,KOCHKOR-ATA,5
+UNKNOWN,moneygram,SHAMALDYSAY,1
+UNKNOWN,moneygram,MASSY,4
+UNKNOWN,moneygram,SOKULUK,9
+UNKNOWN,moneygram,JALAL-ABAD,21
+UNKNOWN,moneygram,SULYUKTA,1
+UNKNOWN,moneygram,TEPLOKLYUCHENKA,1
+UNKNOWN,moneygram,ISFANA,7
+UNKNOWN,moneygram,TASH-KUMYR,3
+UNKNOWN,moneygram,OSH,111
+UNKNOWN,moneygram,TOKTOGUL,7
+UNKNOWN,moneygram,KARA-BALTA,21
+UNKNOWN,moneygram,KERBEN,7
+UNKNOWN,moneygram,ARSTANBAP,2
+UNKNOWN,moneygram,TALAS,23
+UNKNOWN,moneygram,KOCHKORATA,5
+UNKNOWN,moneygram,NOVOPAVLOVKA,1
+UNKNOWN,moneygram,KASHGAR-KYSHTAK,1
+UNKNOWN,moneygram,KYZYL-KIJA,1
+UNKNOWN,moneygram,KYZYL-SUU,5
+UNKNOWN,moneygram,CHOLPON-ATA,9
+UNKNOWN,moneygram,ALA-BUKA,11
+UNKNOWN,moneygram,TOKMOK,13
+UNKNOWN,moneygram,IVANOVKA,2
+UNKNOWN,moneygram,KANYSH-KIYA,2
+UNKNOWN,moneygram,BATKEN,24
+UNKNOWN,moneygram,SHAMALDY-SAY,2
+UNKNOWN,moneygram,DZHALAL-ABAD,38
+UNKNOWN,moneygram,KURSHAB,4
+UNKNOWN,moneygram,VILLAGE ARAVAN,1
+UNKNOWN,moneygram,KANT,12
+UNKNOWN,moneygram,CHUY,9
+UNKNOWN,moneygram,KARAKUL,1
+UNKNOWN,moneygram,BALYKCHI,4
+UNKNOWN,moneygram,MYRZAKE,1
+UNKNOWN,moneygram,KARA-KULZHA,1
+UNKNOWN,moneygram,KASHKAR-KYSHTAK,2
+UNKNOWN,moneygram,KOKJAR,1
+UNKNOWN,moneygram,ZHALA-ABAD,1
+UNKNOWN,moneygram,KADAMJAY,2
+UNKNOWN,moneygram,NOOKAT,17
+UNKNOWN,moneygram,UCHKORGON,1
+UNKNOWN,moneygram,SAKALDY,1
+UNKNOWN,moneygram,GRIGOREVKA,1
+UNKNOWN,moneygram,UZGEN,22
+UNKNOWN,moneygram,NARIMAN,1
+UNKNOWN,moneygram,DJALAL-ABAD,2
+UNKNOWN,moneygram,BOKONBAEVO,5
+UNKNOWN,moneygram,CHOLPONATA,2
+UNKNOWN,moneygram,KYZYLKIYA,5
+UNKNOWN,moneygram,NARYN,17
+UNKNOWN,moneygram,GULCHA,5
+UNKNOWN,moneygram,KYZYLSUU,2
+UNKNOWN,moneygram,SUZAK,8
+UNKNOWN,moneygram,AT-BASHY,1
+UNKNOWN,moneygram,BALYKCHY,8
+UNKNOWN,moneygram,BOSTERI,2
+UNKNOWN,moneygram,S/U NARIMAN,1
+UNKNOWN,moneygram,BAZARKORGON,5
+UNKNOWN,moneygram,KASHGARKYSHTAK,2
+UNKNOWN,moneygram,JALALABAT,4
+UNKNOWN,moneygram,KYZYL-ADYR,4
+UNKNOWN,moneygram,MASY,2
+UNKNOWN,moneygram,KAZARMAN,3
+UNKNOWN,moneygram,DJALALABAD,2
+UNKNOWN,moneygram,KARABALTA,4
+UNKNOWN,moneygram,SELO KOCHKOR,1
+UNKNOWN,moneygram,TYUP,3
+UNKNOWN,moneygram,ORLOVKA,1
+UNKNOWN,moneygram,ALABUKA,1
+UNKNOWN,moneygram,KEMIN,4
+UNKNOWN,moneygram,KARA-KULDZHA,2
+UNKNOWN,moneygram,MAYLUUSUU,1
+UNKNOWN,moneygram,KOCHKOR,3
+UNKNOWN,moneygram,ARAVAN VILLAGE,3
+UNKNOWN,moneygram,KASHKAR-KYSHTAK VILLAGE,1
+UNKNOWN,moneygram,UZGEN DISTRICT,1
+UNKNOWN,moneygram,KADAMJAI DISTRICT UCH-KORGON VILLAGE,1
+UNKNOWN,moneygram,KADAMJAI,2
+UNKNOWN,moneygram,DJETI-OGUZ DISTRICT KYZYL-SUU VILLAGE,1
+UNKNOWN,moneygram,ASANCHEK,1
+UNKNOWN,moneygram,JANY-NOOKAT,1
+UNKNOWN,moneygram,OSCH,2
+UNKNOWN,moneygram,KYZYLADYR,1
+UNKNOWN,moneygram,BAZAR-KORGON,11
+UNKNOWN,moneygram,KARASUU,4
+UNKNOWN,moneygram,AT-BASHI,1
+UNKNOWN,moneygram,KYZYL-KIYIA,1
+UNKNOWN,moneygram,KARA-KUL,5
+UNKNOWN,moneygram,SELO ARAVAN,1
+UNKNOWN,moneygram,BAZAR-KORGON VILLAGE,1
+UNKNOWN,moneygram,CHUI VILLAGE,1
+UNKNOWN,moneygram,GULCHA VILLAGE,1
+UNKNOWN,moneygram,KADAMZHAI,3
+UNKNOWN,moneygram,KOK-OI VILLAGE,1
+UNKNOWN,moneygram,KURSHAB VILLAGE,1
+UNKNOWN,moneygram,KYZYL-SUU VILLAGE,2
+UNKNOWN,moneygram,OTUZ-ADYR VILLAGE,1
+UNKNOWN,moneygram,RAZZAKOVA,1
+UNKNOWN,moneygram,SHAMALDY-SAI,1
+UNKNOWN,moneygram,SHARK VILLAGE ADMINISTRATION,1
+UNKNOWN,moneygram,SHERALY VILLAGE,1
+UNKNOWN,moneygram,SOKULUK VILLAGE,1
+UNKNOWN,moneygram,SOPU-KORGON VILLAGE,1
+UNKNOWN,moneygram,TASH-BULAK VILLAGE,1
+UNKNOWN,moneygram,TYUP VILLAGE,1
+UNKNOWN,moneygram,UCH-TEREK VILLAGE,1
+UNKNOWN,moneygram,SELO SHAMALDY-SAI,1
+UNKNOWN,moneygram,BARSKOON,1
+UNKNOWN,moneygram,BELOVODSK,3
+UNKNOWN,moneygram,SULUKTU,1
+UNKNOWN,moneygram,POKROVKA,2
+UNKNOWN,moneygram,KYZYL-KIA,3
+UNKNOWN,moneygram,ISSYK-KUL,4
+UNKNOWN,moneygram,KARAKICHI,1
+UNKNOWN,moneygram,ESKI-NOOKAT,2
+UNKNOWN,moneygram,KARAKULDZHA,1
+UNKNOWN,moneygram,KUZYL-SUU,1
+UNKNOWN,moneygram,V. PADAVAN,1
+UNKNOWN,moneygram,PULGON,4
+UNKNOWN,moneygram,SHAMALDYSAI,2
+UNKNOWN,moneygram,GM FRUNZE,1
+UNKNOWN,moneygram,TOKMAK,4
+UNKNOWN,moneygram,TEPLOKLUCHENKA,1
+UNKNOWN,moneygram,CHAEK,2
+UNKNOWN,moneygram,DAROOT-KORGON,1
+UNKNOWN,moneygram,BELOVODSKOE,4
+UNKNOWN,moneygram,SULYUKTU,1
+UNKNOWN,moneygram,KAINDY,2
+UNKNOWN,moneygram,AT  BASHY,1
+UNKNOWN,moneygram,BAETOVO,2
+UNKNOWN,moneygram,BAKAY-ATA,1
+UNKNOWN,moneygram,AKCHIY,1
+UNKNOWN,moneygram,KYZYLKIA,1
+UNKNOWN,moneygram,BEOVODSKOE,1
+UNKNOWN,moneygram,NOKAT,1
+UNKNOWN,moneygram,ANANEVO,1
+UNKNOWN,moneygram,KARAKULJA,2
+UNKNOWN,moneygram,ATBASHI,1
+UNKNOWN,moneygram,BAKAI-ATA,1
+UNKNOWN,moneygram,JALAL - ABAD,1
+UNKNOWN,moneygram,MAILUU-SUU,1
+UNKNOWN,moneygram,JALALABAD,4
+UNKNOWN,moneygram,KARAKULDJA,1
+UNKNOWN,moneygram,POSELOK AIDARKEN,1
+UNKNOWN,moneygram,KATABALTA,1
+UNKNOWN,moneygram,NOOKEN,1
+UNKNOWN,moneygram,UCH-KORGON,1
+UNKNOWN,moneygram,DJALAL - ABAD,1
+UNKNOWN,moneygram,AK-KORGON,1
+UNKNOWN,moneygram,A-O KULUNDU INTERNATSIONALNOE CELO,1
+UNKNOWN,moneygram,KADJI-SAI,1
+UNKNOWN,moneygram,CHALDOVAR,1
+UNKNOWN,moneygram,ALEKSANDROVKA,2
+UNKNOWN,moneygram,VOENNO-ANTONOVKA,1
+UNKNOWN,moneygram,KHALMION,1
+UNKNOWN,moneygram,KOK-ZHAR,1
+UNKNOWN,moneygram,OKTYABRSKOE,1
+UNKNOWN,moneygram,DOROOT-KORGON,1
+UNKNOWN,next,Bishkek,1
+UNKNOWN,united_colors_of_benetton,BISHKEK,1
+UNKNOWN,visa,KOK TASH,1
+UNKNOWN,visa,ISFANA,1
+UNKNOWN,visa,INTERNATSIONALNOE,1
+UNKNOWN,visa,KATRAN,1
+UNKNOWN,visa,AK-SAI,1
+UNKNOWN,visa,KYZYL-BEL,1
+UNKNOWN,visa,BATKEN,5
+UNKNOWN,visa,BOZ-ADYR,1
+UNKNOWN,visa,TAYAN,1
+UNKNOWN,visa,TON,1
+UNKNOWN,visa,AYDARKEN,1
+UNKNOWN,visa,KYRGYZ-KYSHTAK,1
+JALALABAD,visa,JALAL-ABAD,28
+UNKNOWN,visa,KHALMION,1
+UNKNOWN,visa,KADAMJAY,2
+UNKNOWN,visa,KADAMJAI,1
+UNKNOWN,visa,PULGON,1
+UNKNOWN,visa,ALABUKA,1
+UNKNOWN,visa,ALA-BUKA,2
+UNKNOWN,visa,YZAR,1
+UNKNOWN,visa,MARKAZ,1
+UNKNOWN,visa,JASHTYK,1
+OSH,visa,OSH,50
+UNKNOWN,visa,KERBEN,2
+UNKNOWN,visa,CHAUVAY,1
+BATKEN,visa,KYZYL KIYA,4
+UNKNOWN,visa,KYZYL-KIYA,4
+UNKNOWN,visa,TASH-BASHAT,1
+UNKNOWN,visa,KYZYL-JYLDYZ,1
+UNKNOWN,visa,KYZYL-ADYR,2
+UNKNOWN,visa,KYZYL-JAR,1
+UNKNOWN,visa,BAYZAK,1
+UNKNOWN,visa,UCH-KORGON,1
+UNKNOWN,visa,TASH-KUMYR,2
+UNKNOWN,visa,SHAMALDISAY,1
+UNKNOWN,visa,BEL,1
+UNKNOWN,visa,BORU-BASH,1
+UNKNOWN,visa,TASH-KUMUR,1
+UNKNOWN,visa,BAKAI-ATA,1
+OSH,visa,ARAVAN,1
+UNKNOWN,visa,ARAVAN,1
+UNKNOWN,visa,ESKI NOOKAT,1
+UNKNOWN,visa,NOOKAT,3
+UNKNOWN,visa,KYZYL-OKTYABR,1
+UNKNOWN,visa,OZGORUSH,1
+UNKNOWN,visa,KOCHKOR-ATA,1
+UNKNOWN,visa,JALAL-ABAD,6
+UNKNOWN,visa,MAILUU SUU,1
+UNKNOWN,visa,KUU-MAYDAN,1
+UNKNOWN,visa,SAKALDY,1
+UNKNOWN,visa,CHEK,1
+UNKNOWN,visa,KYRGYZSTAN,1
+UNKNOWN,visa,OSH,34
+UNKNOWN,visa,MASY,2
+UNKNOWN,visa,KUM-ARYK,1
+UNKNOWN,visa,TALAS,14
+CHUI,visa,BISHKEK,196
+TALAS,visa,TALAS,6
+UNKNOWN,visa,ATAMEREK,1
+UNKNOWN,visa,KYZYL-AI,1
+UNKNOWN,visa,SHARK,1
+UNKNOWN,visa,BALBAI,1
+UNKNOWN,visa,BAZAR-KORGON,1
+UNKNOWN,visa,KYZYL-TUU,2
+UNKNOWN,visa,KARA-SUU,6
+UNKNOWN,visa,KARAS-SUU,1
+UNKNOWN,visa,BESHIK JON,1
+UNKNOWN,visa,CHOLPONATA,1
+UNKNOWN,visa,KARA-KUL,1
+UNKNOWN,visa,KYZYL-SHARK,1
+UNKNOWN,visa,SUZAK,1
+UNKNOWN,visa,BEK-ABAD,1
+UNKNOWN,visa,JALALABAT,7
+UNKNOWN,visa,JYLKELDI,1
+UNKNOWN,visa,JETY-OGUZ,1
+UNKNOWN,visa,ESHPEROV,1
+UNKNOWN,visa,KAYRAGACH-ARYK,1
+UNKNOWN,visa,TEPLOKLUCHENKA,1
+UNKNOWN,visa,CHAPAEVA,1
+UNKNOWN,visa,BORBORDUK,1
+UNKNOWN,visa,JALALABAD,2
+UNKNOWN,visa,ALEKSEEVKA,1
+UNKNOWN,visa,ARAL,2
+UNKNOWN,visa,AK_TOOK,1
+UNKNOWN,visa,TOKTOGUL,1
+UNKNOWN,visa,KAROOL,1
+UNKNOWN,visa,UZGEN,3
+UNKNOWN,visa,OZGON,1
+UNKNOWN,visa,TORT-KUL,1
+UNKNOWN,visa,GULCHO,1
+UNKNOWN,visa,KYZYL-KORGON,1
+UNKNOWN,visa,BAKMAL,1
+UNKNOWN,visa,KARA-CHOLOK,1
+UNKNOWN,visa,MYRZA-AKE,1
+UNKNOWN,visa,TORKENT,1
+UNKNOWN,visa,TALDY BULAK,1
+UNKNOWN,visa,KAINAMA,1
+UNKNOWN,visa,KARA-ALMA,1
+UNKNOWN,visa,KYZYL-BULAK,1
+UNKNOWN,visa,KYZYL-TOO,1
+UNKNOWN,visa,KARA-JYGACH,1
+UNKNOWN,visa,CHALMA,1
+UNKNOWN,visa,KARA-TASH,1
+UNKNOWN,visa,TOLUK,1
+UNKNOWN,visa,KURPULDEK,1
+UNKNOWN,visa,KAZARMAN,1
+UNKNOWN,visa,KAINDY,1
+UNKNOWN,visa,CHON-GARA,1
+UNKNOWN,visa,KARA-BALTA,8
+UNKNOWN,visa,SOSNOVKA,1
+UNKNOWN,visa,ERIKTUU,1
+UNKNOWN,visa,KARABALTA,2
+CHUI,visa,CHUI REGION,11
+UNKNOWN,visa,POLTAVKA,1
+UNKNOWN,visa,DJERGE-TAL,1
+UNKNOWN,visa,BISHKEK,152
+UNKNOWN,visa,SRETENKA,1
+UNKNOWN,visa,CHOLPON-ATA,8
+UNKNOWN,visa,KARA-DOBO,1
+UNKNOWN,visa,SOKULUK,4
+UNKNOWN,visa,AK-TATYR,1
+UNKNOWN,visa,NOVOPAVLOVKA,1
+UNKNOWN,visa,TUGOL-SAI,1
+UNKNOWN,visa,DJAL,1
+UNKNOWN,visa,NIJNYAYA ALA-ARCHA,1
+UNKNOWN,visa,BISKEK,1
+UNKNOWN,visa,DJALALABAD,1
+UNKNOWN,visa,BESH-KYUNGEY,1
+ISSYKKUL,visa,CHOLPON-ATA,10
+BISHKEK,visa,BISHKEK,1
+UNKNOWN,visa,NOVOPOKROVKA,1
+UNKNOWN,visa,KANT,7
+CHUI,visa,KANT,3
+UNKNOWN,visa,YUREVKA,1
+UNKNOWN,visa,MANTYSH,1
+UNKNOWN,visa,KEN-BULUN,1
+UNKNOWN,visa,DJANY-DJOL,1
+UNKNOWN,visa,TOKMOK,8
+CHUI,visa,TOKMOK,1
+UNKNOWN,visa,TOKMAK,1
+UNKNOWN,visa,KUM-DOBO,1
+UNKNOWN,visa,AT-BASHY,1
+UNKNOWN,visa,CHIMKORGON,1
+UNKNOWN,visa,OTTTUK,1
+UNKNOWN,visa,ORLOVKA,1
+UNKNOWN,visa,KOCHKOR,1
+NARYN,visa,NARYN,5
+UNKNOWN,visa,NARYN,4
+UNKNOWN,visa,AK-MOYUN,1
+UNKNOWN,visa,KEMIN,1
+UNKNOWN,visa,AK-BULUN,1
+ISSYKKUL,visa,BALYKCHI,3
+UNKNOWN,visa,BALYKCHY,6
+UNKNOWN,visa,BALYKCHI,1
+ISSYKKOL,visa,BALYKCHY,3
+UNKNOWN,visa,KARATALAA,1
+UNKNOWN,visa,TORU-AIGYR,1
+UNKNOWN,visa,BOKONBAEVO,1
+UNKNOWN,visa,KADJI-SAY,1
+ISSYKKUL,visa,ISSYK-KUL,2
+UNKNOWN,visa,BOSTERI,1
+UNKNOWN,visa,S. SARY-OY,1
+UNKNOWN,visa,KOK-JAR,1
+UNKNOWN,visa,GRIGORIEVKA,1
+UNKNOWN,visa,AK-TEREK,1
+UNKNOWN,visa,DARKAN,1
+UNKNOWN,visa,SARUU,1
+UNKNOWN,visa,KYZYLSUU,1
+ISSYKKOL,visa,KYZYL-SUU,1
+UNKNOWN,visa,SVETLAYA POLYANA,2
+UNKNOWN,visa,FRUNZE,1
+UNKNOWN,visa,BELOVODSK,1
+ISSYKKUL,visa,KARAKOL,10
+UNKNOWN,visa,KARAKOL,15
+UNKNOWN,visa,KARA-KOL,2
+ISSYKKOL,visa,KARAKOL,2
+UNKNOWN,visa,TUP,2
+UNKNOWN,visa,AK-SUU,2
+UNKNOWN,visa,AIRY-TAM,1
+BATKENSKYIREGION,western_union,Kyzyl-kia,1
+UNKNOWN,western_union,Khalmion,2
+ZHALALABAD,western_union,Shamaldy-sai,1
+UNKNOWN,western_union,Shamaldy Say,3
+UNKNOWN,western_union,Naryn,13
+UNKNOWN,western_union,Tash Kumyr,2
+UNKNOWN,western_union,Tashkumyr,1
+UNKNOWN,western_union,Shamaldysay,1
+UNKNOWN,western_union,Talas,12
+UNKNOWN,western_union,Batken,5
+UNKNOWN,western_union,Bakay Ata,2
+UNKNOWN,western_union,Bakayata,1
+UNKNOWN,western_union,Kerben,4
+UNKNOWN,western_union,Aral,1
+UNKNOWN,western_union,Isfana,5
+UNKNOWN,western_union,Razzakova,1
+UNKNOWN,western_union,Ala Buka,3
+UNKNOWN,western_union,Kyzyl Adyr,3
+UNKNOWN,western_union,Kyzyladyr,1
+UNKNOWN,western_union,Pokrovka,2
+UNKNOWN,western_union,Ak Korgon,1
+UNKNOWN,western_union,Sulyukta,1
+UNKNOWN,western_union,Amanbaevo,1
+UNKNOWN,western_union,Gulcho,1
+UNKNOWN,western_union,Daroot Korgon,1
+UNKNOWN,western_union,Kara Kuldzha,2
+UNKNOWN,western_union,Kara Kulzha,1
+UNKNOWN,western_union,Karakulzha,2
+UNKNOWN,western_union,Nookat,6
+UNKNOWN,western_union,Balykchi,7
+UNKNOWN,western_union,Ananevo,2
+UNKNOWN,western_union,Kochkor,5
+UNKNOWN,western_union,Kara Koo,1
+UNKNOWN,western_union,Bokonbaevo,3
+UNKNOWN,western_union,Tyup,5
+UNKNOWN,western_union,Balykchy,5
+UNKNOWN,western_union,Cholpon Ata,8
+UNKNOWN,western_union,Sokuluk,10
+UNKNOWN,western_union,Belovodskoe,8
+UNKNOWN,western_union,Karakol,21
+UNKNOWN,western_union,Karabalta,3
+UNKNOWN,western_union,Kara Balta,7
+UNKNOWN,western_union,Panfilovka,1
+UNKNOWN,western_union,Osh,55
+UNKNOWN,western_union,Bishkek,201
+CHUI,western_union,Bishkek,4
+UNKNOWN,western_union,Kyzyl Kiya,11
+UNKNOWN,western_union,Zhalal Abad,18
+CHUIREGION,western_union,Bishek,1
+UNKNOWN,western_union,Kemin,3
+UNKNOWN,western_union,Novopavlovka,1
+UNKNOWN,western_union,Kara Suu,10
+UNKNOWN,western_union,Kant,8
+UNKNOWN,western_union,Tokmok,15
+UNKNOWN,western_union,Ivanovka,2
+UNKNOWN,western_union,At Bashi,6
+UNKNOWN,western_union,Chaek,1
+UNKNOWN,western_union,Uch Terek,1
+UNKNOWN,western_union,Kara Kul,3
+UNKNOWN,western_union,Kara Zhygach,1
+UNKNOWN,western_union,Kara Dzhygach,1
+UNKNOWN,western_union,Toktogul,3
+UNKNOWN,western_union,Mayluu Suu,2
+UNKNOWN,western_union,Aydarken,1
+UNKNOWN,western_union,Massy,1
+UNKNOWN,western_union,Masy,1
+UNKNOWN,western_union,Baetovo,1
+UNKNOWN,western_union,Kochkor Ata,6
+UNKNOWN,western_union,Kochkorata,1
+NARYN,western_union,Atbashy,1
+UNKNOWN,western_union,Bazar Korgon,4
+UNKNOWN,western_union,Ak Chiy,1
+UNKNOWN,western_union,Bazarkorgon,2
+UNKNOWN,western_union,Internatsional,1
+UNKNOWN,western_union,Kazarman,2
+UNKNOWN,western_union,Dzhalal Abad,10
+UNKNOWN,western_union,Suzak,4
+UNKNOWN,western_union,Zhalalabad,1
+UNKNOWN,western_union,Dzhalalabad,1
+UNKNOWN,western_union,Kadamzhay,2
+UNKNOWN,western_union,Pulgon,2
+UNKNOWN,western_union,Uzgen,7
+UNKNOWN,western_union,Nuriman,1
+UNKNOWN,western_union,Zarbdar,1
+UNKNOWN,western_union,Kashkar Kyshtak,2
+UNKNOWN,western_union,Kashgar Kyshtak,1
+UNKNOWN,western_union,Ozgorush,1
+OSH,western_union,Aravan,1
+UNKNOWN,western_union,Karasuu,1
+UNKNOWN,western_union,Uch Korgon,2
+UNKNOWN,western_union,Zhalalabat,1
+UNKNOWN,western_union,Aravan,5
+UNKNOWN,western_union,Kyzyl Kyya,2
+UNKNOWN,western_union,Kyzylkyya,1
+UNKNOWN,western_union,Padavan,1
+OSH,western_union,Kurshab,1
+UNKNOWN,western_union,Kurshab,4
+UNKNOWN,western_union,Zhany Nookat,1
+UNKNOWN,western_union,Dyykan Kyshtak,1
+UNKNOWN,western_union,Otuz Adyr,2
+UNKNOWN,western_union,Karatay,1
+UNKNOWN,western_union,Kyzyl Suu,5
+ISSYKKUL,western_union,Barskoon,1
+UNKNOWN,western_union,Barskoon,1
+UNKNOWN,western_union,Kara Kol,1
+CHUY,wildberries,unknown,91
+OSH,wildberries,unknown,7
+JALALABAD,wildberries,unknown,2
+YSYKKOEL,wildberries,unknown,5
+TALAS,wildberries,unknown,1
+NARYN,wildberries,unknown,1

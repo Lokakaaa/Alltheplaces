@@ -1,0 +1,597 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,14
+UNKNOWN,action,Mersch,1
+UNKNOWN,action,Esch sur Alzette,1
+UNKNOWN,action,Marnach,1
+UNKNOWN,action,Beggen,1
+UNKNOWN,action,Strassen,1
+UNKNOWN,action,Schengen,1
+UNKNOWN,action,Sandweiler,1
+UNKNOWN,action,Bettembourg,1
+UNKNOWN,action,Wemperhardt,1
+UNKNOWN,action,Diekirch,1
+UNKNOWN,alamo,Luxembourg,1
+KANTONCAPELLEN,aldi_nord_lu,Capellen,1
+LUXEMBOURG,aldi_nord_lu,Luxembourg,2
+CAPELLEN,aldi_nord_lu,Bascharage,1
+ESCHSURALZETTE,aldi_nord_lu,Dudelange,1
+ESCHSURALZETTE,aldi_nord_lu,Esch-sur-Alzette,1
+KANTONKLIERF,aldi_nord_lu,Klierf,1
+CLERVAUX,aldi_nord_lu,Troisvierges,1
+ESCHSURALZETTE,aldi_nord_lu,Mondercange,1
+KANTONGREVENMACHER,aldi_nord_lu,Mertert,1
+GREVENMACHER,aldi_nord_lu,Junglinster,1
+LUXEMBOURG,aldi_nord_lu,Bertrange,1
+ECHTERNACH,aldi_nord_lu,Echternach,1
+ESCHSURALZETTE,aldi_nord_lu,Differdange,1
+LUXEMBOURG,aldi_nord_lu,Sandweiler,1
+DIEKIRCH,aldi_nord_lu,Erpeldange-sur-Sûre,1
+MERSCH,aldi_nord_lu,Mersch,1
+KANTONWOLZ,aldi_nord_lu,Wanseler,1
+UNKNOWN,america_today,Luxembourg,1
+UNKNOWN,america_today,Bertange,1
+ESCHSURALZETTE,auchan_lu,Mondercange,2
+ESCHSURALZETTE,auchan_lu,Pétange,1
+LUXEMBOURG,auchan_lu,Bertrange,1
+LUXEMBOURG,auchan_lu,Schuttrange,1
+LUXEMBOURG,auchan_lu,Luxembourg,2
+MERSCH,auchan_lu,Lintgen,1
+CAPELLEN,auchan_lu,Käerjeng,1
+DIEKIRCH,auchan_lu,Feulen,1
+ESCHSURALZETTE,auchan_lu,Dudelange,1
+ESCHSURALZETTE,auchan_lu,Esch-sur-Alzette,1
+WILTZ,auchan_lu,Wiltz,1
+DISTRICTDELUXEMBOURG,auchan_lu,Differdange,3
+DISTRIKTDIKRECH,auchan_lu,Parc Housen,1
+UNKNOWN,auchan_lu,unknown,1
+DISTRICTDELUXEMBOURG,auchan_lu,Luxembourg,3
+DISTRICTDELUXEMBOURG,auchan_lu,Schifflange,1
+GREVENMACHER,auchan_lu,Junglinster,1
+DISTRICTDELUXEMBOURG,auchan_lu,Roeser,1
+LUXEMBOURG,audi,Strassen,1
+DIEKIRCH,audi,Weidingen,1
+GREVENMACHER,audi,Echternach,1
+DIEKIRCH,audi,Ingeldorf,1
+LUXEMBOURG,audi,Esch / Alzette,1
+LUXEMBOURG,audi,Luxembourg,1
+LUXEMBOURG,audi,Rollingen/Mersch,1
+LUXEMBOURG,audi,Dudelange,1
+GREVENMACHER,audi,Junglinster,1
+GREVENMACHER,audi,Bech-Kleinmacher,1
+LUXEMBOURG,audi,Bereldange,1
+GARAGERENAULT,avis,Diekirch,1
+GARAGERENAULT,avis,Esch-Sur-Alzette,1
+SANDWEILER,avis,Sandweiler,1
+LUXEMBOURG,avis,Luxembourg,1
+DEPARTSRETOURSPARKINGCFL,avis,Luxembourg,1
+COUNTERARRIVALHALLLEVEL1,avis,Luxembourg,1
+UNKNOWN,bmw_group,Hosingen,1
+UNKNOWN,bmw_group,Mersch,1
+UNKNOWN,bmw_group,Luxemburg,1
+UNKNOWN,bmw_group,Moutfort,1
+UNKNOWN,bmw_group,Esch-Sur-Alzette,1
+UNKNOWN,bp,Echternach,1
+UNKNOWN,bp,Bertrange,1
+UNKNOWN,bp,Luxembourg-Merl,1
+UNKNOWN,bp,Luxembourg-Merl 2,1
+UNKNOWN,bp,Rollingergrund,1
+UNKNOWN,bp,Luxembourg,1
+UNKNOWN,bp,Capellen - PKW,1
+UNKNOWN,bp,Capellen - Shop,1
+UNKNOWN,bp,Capellen - LKW 2,1
+UNKNOWN,bp,Capellen - LKW 1,1
+UNKNOWN,bp,Capellen - PKW MP2,1
+UNKNOWN,bp,Capellen - LKW MP1,1
+UNKNOWN,bp,Bereldange,1
+UNKNOWN,bp,Howald,1
+UNKNOWN,bp,Bour,1
+UNKNOWN,bp,Berchem Ouest - LKW1,1
+UNKNOWN,bp,Berchem Ouest - PKW1,1
+UNKNOWN,bp,Berchem Ouest - Shop,1
+UNKNOWN,bp,Berchem Ouest - PKW2,1
+UNKNOWN,bp,Berchem Ouest - LKW2,1
+UNKNOWN,bp,Steinfort,1
+UNKNOWN,bp,Luxembourg-Findel,1
+UNKNOWN,bp,Foetz,2
+UNKNOWN,bp,Bettembourg,1
+UNKNOWN,bp,Lintgen,1
+UNKNOWN,bp,Bascharage,1
+UNKNOWN,bp,Schifflange,1
+UNKNOWN,bp,Esch-Lallange,1
+UNKNOWN,bp,Niederkorn,1
+UNKNOWN,bp,Pétange,1
+UNKNOWN,bp,Dudelange,1
+UNKNOWN,bp,Differdange/Obercorn,1
+UNKNOWN,bp,Gonderange,1
+UNKNOWN,bp,Frisange,2
+UNKNOWN,bp,Rodange II,1
+UNKNOWN,bp,Junglinster,1
+UNKNOWN,bp,Rodange I,1
+UNKNOWN,bp,Rodange III,1
+UNKNOWN,bp,Redange-Attert,1
+UNKNOWN,bp,Mondorf-les-Bains,1
+UNKNOWN,bp,Remich,1
+UNKNOWN,bp,Niederfeulen,1
+UNKNOWN,bp,Ettelbruck,1
+UNKNOWN,bp,Ingeldorf,1
+UNKNOWN,bp,Diekirch,2
+UNKNOWN,bp,Koetschette,2
+UNKNOWN,bp,Hierheck,1
+UNKNOWN,bp,Schengen,1
+UNKNOWN,bp,Remerschen,1
+UNKNOWN,bp,Remich II,1
+UNKNOWN,bp,Remich I,1
+UNKNOWN,bp,Grevenmacher KU,1
+UNKNOWN,bp,Grevenmacher  RP,1
+UNKNOWN,bp,Grevenmacher PB2,1
+UNKNOWN,bp,Grevenmacher PB1,1
+UNKNOWN,bp,Wasserbillig I,1
+UNKNOWN,bp,Wasserbillig II,1
+UNKNOWN,bp,Martelange,1
+UNKNOWN,bp,Rombach-Martelange,1
+UNKNOWN,bp,Pommerloch,1
+UNKNOWN,bp,Wiltz,1
+UNKNOWN,bp,Hoscheid-Dickt,1
+UNKNOWN,bp,Wemperhardt,2
+UNKNOWN,bp,Vianden,1
+UNKNOWN,burger_king_be_lu,Käerjeng,1
+UNKNOWN,burger_king_be_lu,Bertrange,1
+UNKNOWN,burger_king_be_lu,Mondercange,1
+UNKNOWN,burger_king_be_lu,Hesperange,1
+UNKNOWN,burger_king_be_lu,Mersch,1
+UNKNOWN,burger_king_be_lu,Luxembourg,1
+UNKNOWN,carrefour_be,Luxembourg- Kirchberg,1
+UNKNOWN,carrefour_be,Niederkorn,1
+UNKNOWN,carrefour_be,Esch-sur-Alzette,1
+UNKNOWN,church_of_england_gb,unknown,1
+UNKNOWN,claires,Esch-sur-Alzette,1
+UNKNOWN,claires,Luxembourg City,1
+UNKNOWN,colruyt,LUXEMBOURG,1
+UNKNOWN,colruyt,MERSCH,1
+UNKNOWN,colruyt,POMMERLOCH,1
+UNKNOWN,colruyt,SOLEUVRE,1
+UNKNOWN,colruyt,STRASSEN,1
+UNKNOWN,colruyt,WEMPERHARDT,1
+UNKNOWN,cora,Foetz,1
+UNKNOWN,cora,Bertrange,1
+UNKNOWN,c_and_a,Schmiede/ Huldange,1
+UNKNOWN,c_and_a,Sandweiler,1
+UNKNOWN,c_and_a,Mersch,1
+UNKNOWN,c_and_a,L-Pommerloch,1
+UNKNOWN,c_and_a,Foetz,1
+UNKNOWN,c_and_a,Esch-sur-Alzette,1
+UNKNOWN,c_and_a,Bertrange,1
+UNKNOWN,di,SCHMIEDE,1
+UNKNOWN,di,POMMERLOCH,1
+UNKNOWN,enterprise,Luxembourg,2
+UNKNOWN,enterprise,Diekirch,1
+UNKNOWN,ernst_young,Luxembourg,1
+UNKNOWN,esprit,Luxembourg,2
+UNKNOWN,esprit,Esch-sur-Alzette,1
+UNKNOWN,esprit,Mersch,1
+UNKNOWN,esprit,Bertrange,1
+UNKNOWN,esprit,Pommerloch,1
+UNKNOWN,esprit,Wemperhardt,1
+UNKNOWN,exxonmobil,WORMELDANGE,1
+UNKNOWN,exxonmobil,ROSPORT,1
+UNKNOWN,exxonmobil,ESCH-SUR-ALZETTE,3
+UNKNOWN,exxonmobil,RODANGE,4
+UNKNOWN,exxonmobil,GREVENMACHER,1
+UNKNOWN,exxonmobil,FRISANGE,2
+UNKNOWN,exxonmobil,DUDELANGE,2
+UNKNOWN,exxonmobil,PETANGE,1
+UNKNOWN,exxonmobil,ROLLINGEN,1
+UNKNOWN,exxonmobil,ROMBACH-MARTELANGE,2
+UNKNOWN,exxonmobil,LUXEMBOURG-HOLLERICH,1
+UNKNOWN,exxonmobil,HEIDERSCHEID,1
+UNKNOWN,exxonmobil,LEUDELANGE,1
+UNKNOWN,exxonmobil,LAROCHETTE,1
+UNKNOWN,exxonmobil,REMERSCHEN,1
+UNKNOWN,exxonmobil,BASCHARAGE,1
+UNKNOWN,exxonmobil,MERTERT,1
+UNKNOWN,exxonmobil,HULDANGE,1
+UNKNOWN,exxonmobil,HELLANGE,1
+UNKNOWN,exxonmobil,GAICHEL,1
+UNKNOWN,exxonmobil,ALLERBORN,1
+UNKNOWN,exxonmobil,STEINFORT,1
+UNKNOWN,exxonmobil,SENNINGERBERG,1
+UNKNOWN,exxonmobil,SANDWEILER,1
+UNKNOWN,exxonmobil,REMICH,1
+UNKNOWN,exxonmobil,ECHTERNACH,1
+UNKNOWN,exxonmobil,DIFFERDANGE,1
+LUXEMBOURG,fedex,Rodemack,1
+UNKNOWN,five_guys_lu,Luxembourg,1
+LULU,footlocker,Gasperich,1
+LUL,footlocker,Luxembourg,3
+LUL,footlocker,Esch-sur-Alzette,1
+LUES,footlocker,Esch-zur-alzette,1
+NY,footlocker,New York,8
+UNKNOWN,ford,ETTELBRÜCK,1
+UNKNOWN,ford,GREVENMACHER,1
+UNKNOWN,ford,WILTZ,1
+UNKNOWN,ford,Dondelange,1
+UNKNOWN,ford,MUNSBACH,1
+UNKNOWN,ford,FOETZ,1
+UNKNOWN,ford,NIEDERKORN,1
+UNKNOWN,ford,Bertrange,1
+UNKNOWN,geox,ESCH-SUR-ALZETTE,1
+UNKNOWN,geox,LUXEMBOURG,1
+DISTRICTDELUXEMBOURG,grand_optical,Esch-sur-Alzette,1
+LUXEMBOURG,grand_optical,Koerich,1
+LUXEMBOURG,grand_optical,Bertrange,1
+AREA5,hm,Luxembourg,3
+AREA5,hm,Huldange,1
+AREA5,hm,Esch-sur-Alzette,1
+AREA5,hm,Bertrange,1
+AREA5,hm,Pommerloch,1
+01,hugo_boss,Luxembourg,1
+02,hugo_boss,Luxembourg,1
+LUXEMBOURG,ikks,LUXEMBOURG,4
+,indigo,Luxemburg,1
+,indigo,Luxembourg,5
+,indigo,Bettembourg,1
+,indigo,Düdelingen,1
+,indigo,Gare,1
+LUXEMBOURG,jll,Luxembourg,1
+LUXEMBOURG,jll,Bertrange,1
+UNKNOWN,leonidas,Huldange,1
+UNKNOWN,leonidas,Marnach,1
+UNKNOWN,lhw,Luxembourg City,1
+UNKNOWN,lidl_be,Mondercange,1
+UNKNOWN,lidl_be,Differdange,1
+UNKNOWN,lidl_be,Troisvierges,1
+UNKNOWN,lidl_be,Koerich,1
+UNKNOWN,lidl_be,Erpeldange,1
+UNKNOWN,lidl_be,Pétange,1
+UNKNOWN,lidl_be,Bertrange,1
+UNKNOWN,lidl_be,Mersch,1
+UNKNOWN,lidl_be,Mertert,1
+UNKNOWN,lidl_be,Dudelange,1
+UNKNOWN,lidl_be,Winseler,1
+UNKNOWN,lidl_be,Strassen,1
+UNKNOWN,lidl_be,Luxembourg,1
+UNKNOWN,longchamp,LUXEMBOURG,2
+UNKNOWN,longchamp,ETTELBRUCK,1
+UNKNOWN,longchamp,BERTRANGE,2
+UNKNOWN,longchamp,ESCH-SUR-ALZETTE,1
+LU,lovisa,Luxembourg,1
+LU,lovisa,Bertrange,1
+UNKNOWN,man_truck_and_bus,Niederanven,1
+UNKNOWN,maserati,BERTRANGE,1
+UNKNOWN,match_lu,Roeser,1
+UNKNOWN,match_lu,Grevenmacher,1
+UNKNOWN,match_lu,Ettelbruck,1
+UNKNOWN,match_lu,Esch-sur-Alzette,1
+UNKNOWN,match_lu,Dudelange,1
+UNKNOWN,match_lu,Diekirch,1
+UNKNOWN,match_lu,Capellen,1
+UNKNOWN,match_lu,Wiltz,1
+UNKNOWN,match_lu,Niederanven,1
+UNKNOWN,match_lu,Mondorf-les-Bains,1
+UNKNOWN,match_lu,Mertert,1
+UNKNOWN,match_lu,Mersch,1
+UNKNOWN,mcdonalds_lu,unknown,12
+LUXEMBOURGDIEKIRCH,mercedes_benz,Diekirch,1
+LUXEMBOURGESCH,mercedes_benz,Esch / Alzette,1
+LUXEMBOURGLUXEMBOURG,mercedes_benz,Luxembourg-Hollerich,1
+LUXEMBOURGROOST,mercedes_benz,Roost,1
+LUXEMBOURGLEUDELANGE,mercedes_benz,Leudelange,1
+UNKNOWN,michaelkors,Luxembourg,2
+UNKNOWN,moneygram,LUXEMBOURG,1
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,national,Luxembourg,1
+UNKNOWN,neuhaus,Luxembourg,1
+UNKNOWN,newyorker,Esch sur Alzette,1
+UNKNOWN,newyorker,Pommerloch,1
+UNKNOWN,newyorker,Luxemburg,1
+UNKNOWN,newyorker,Mersch,1
+UNKNOWN,newyorker,Schmiede,1
+UNKNOWN,optical_center,LUXEMBOURG,2
+UNKNOWN,optical_center,DUDELANGE,1
+UNKNOWN,optical_center,STRASSEN,2
+UNKNOWN,optical_center,BERELDANGE,1
+UNKNOWN,optical_center,ESCH-SUR-ALZETTE,1
+UNKNOWN,ovs,Lussemburgo,1
+UNKNOWN,ovs,Differdange,1
+UNKNOWN,petit_bateau,Luxembourg,1
+LUXEMBOURG,pokawa,unknown,1
+UNKNOWN,q8,unknown,42
+UNKNOWN,quick_be_lu,Luxembourg,1
+UNKNOWN,quick_be_lu,Esch,1
+UNKNOWN,quick_be_lu,Bereldange,1
+UNKNOWN,renault,WEICHERDANGE,2
+UNKNOWN,renault,PETANGE,2
+UNKNOWN,renault,LUXEMBOURG,2
+UNKNOWN,renault,JUNGLINSTER,2
+UNKNOWN,renault,ESCH-SUR-ALZETTE,2
+UNKNOWN,renault,MERSCH,2
+UNKNOWN,renault,CAPELLEN (LUX.),1
+UNKNOWN,renault,HEFFINGEN,2
+UNKNOWN,renault,DIEKIRCH,2
+UNKNOWN,renault,GREVENMACHER,2
+UNKNOWN,renault,DUDELANGE,2
+UNKNOWN,renault,BUDERSCHEID,2
+UNKNOWN,renault,Luxembourg,2
+UNKNOWN,renault,BERTRANGE,2
+UNKNOWN,renault,ECHTERNACH,2
+LUXEMBOURG,ricoh_europe,Bertrange,1
+UNKNOWN,scania,Breda,1
+UNKNOWN,scania,Munsbach,1
+UNKNOWN,scania,Münsbach,1
+UNKNOWN,scania,Schifflange (Esch-sur-Alzette),1
+UNKNOWN,shell,ROMBACH-MARTELANGE,2
+UNKNOWN,shell,POMMERLOCH,1
+UNKNOWN,shell,OBERPALLEN,1
+UNKNOWN,shell,HACHIVILLE,1
+UNKNOWN,shell,STEINFORT FRONTIERE,1
+UNKNOWN,shell,RODANGE,1
+UNKNOWN,shell,PETANGE,1
+UNKNOWN,shell,KEHLEN,1
+UNKNOWN,shell,BRIDEL,1
+UNKNOWN,shell,STRASSEN,1
+UNKNOWN,shell,HELFENT-BERTRANGE,1
+UNKNOWN,shell,LUX/BEGGEN,1
+UNKNOWN,shell,LUX/MERL,1
+UNKNOWN,shell,LUX/DOMMELDANGE,1
+UNKNOWN,shell,LUXEMBOURG-HOLLERICH,1
+UNKNOWN,shell,LUXEMBOURG-GASPERICH,1
+UNKNOWN,shell,LUXEMBOURG-NEUDORF,1
+UNKNOWN,shell,ROOST,1
+UNKNOWN,shell,BERCHEM,1
+UNKNOWN,shell,DIFFERDANGE,2
+UNKNOWN,shell,ESCH-ALZETTE,1
+UNKNOWN,shell,NIEDERANVEN,1
+UNKNOWN,shell,COLMAR,1
+UNKNOWN,shell,FRISANGE,1
+UNKNOWN,shell,RUMELANGE,1
+UNKNOWN,shell,REMICH,1
+UNKNOWN,shell,ECHTERNACH,1
+UNKNOWN,shell,REMERSCHEN,1
+UNKNOWN,shell,MERTERT,1
+UNKNOWN,shell,WEISWAMPACH,1
+UNKNOWN,shell,WEMPERHARDT,1
+UNKNOWN,sixt,Esch-sur-Alzette,1
+UNKNOWN,sixt,Findel,1
+UNKNOWN,sixt,Luxemburg-Findel,1
+UNKNOWN,skoda,unknown,20
+LUXEMBOURGDIEKIRCH,smart,Diekirch,1
+LUXEMBOURGLUXEMBOURG,smart,LUXEMBOURG,1
+UNKNOWN,smatch_lu,Wiltz,1
+UNKNOWN,smatch_lu,Troisvierges,1
+UNKNOWN,smatch_lu,Sanem,1
+UNKNOWN,smatch_lu,Sandweiler,1
+UNKNOWN,smatch_lu,Rëmeleng,1
+UNKNOWN,smatch_lu,Schuttrange,1
+UNKNOWN,smatch_lu,Leudelange,1
+UNKNOWN,smatch_lu,Luxembourg,1
+UNKNOWN,smatch_lu,Fentange,1
+UNKNOWN,smatch_lu,Esch-sur-Alzette,1
+UNKNOWN,smatch_lu,Ellange,1
+UNKNOWN,smatch_lu,Echternach,1
+UNKNOWN,smatch_lu,Käerjeng,1
+LUXEMBOURG,starbucks_eu,Berchem,1
+LUXEMBOURG,starbucks_eu,Luxembourg,3
+LUXEMBOURG,starbucks_eu,L-2016 Luxembourg-Findel,1
+DISTRICTDELUXEMBOURG,storebox,Strassen,1
+UNKNOWN,subway,Foetz,1
+UNKNOWN,subway,Luxembourg,3
+UNKNOWN,subway,Esch-Belval,1
+UNKNOWN,subway,Bereldange,1
+UNKNOWN,the_north_face_eu,Luxembourg,1
+UNKNOWN,timberland,LUXEMBOURG,1
+UNKNOWN,tommy_hilfiger,Luxembourg,1
+UNKNOWN,totalenergies,Grevenmacher  RP,1
+UNKNOWN,totalenergies,Ingeldorf,1
+UNKNOWN,totalenergies,Grevenmacher KU,1
+UNKNOWN,totalenergies,Grevenmacher PB1,1
+UNKNOWN,totalenergies,Wasserbillig II,1
+UNKNOWN,totalenergies,Wasserbillig I,1
+UNKNOWN,totalenergies,Gonderange,1
+UNKNOWN,totalenergies,Hoscheid-Dickt,1
+UNKNOWN,totalenergies,Foetz,3
+UNKNOWN,totalenergies,Koetschette,1
+UNKNOWN,totalenergies,Grevenmacher PB2,1
+UNKNOWN,totalenergies,Ettelbruck,1
+UNKNOWN,totalenergies,Martelange,1
+UNKNOWN,totalenergies,Pétange,1
+UNKNOWN,totalenergies,Rodange I,1
+UNKNOWN,totalenergies,Esch-Lallange,1
+UNKNOWN,totalenergies,Diekirch,2
+UNKNOWN,totalenergies,Capellen - LKW 1,1
+UNKNOWN,totalenergies,Steinfort,1
+UNKNOWN,totalenergies,Redange-Attert,1
+UNKNOWN,totalenergies,Capellen - LKW 2,1
+UNKNOWN,totalenergies,Hierheck,1
+UNKNOWN,totalenergies,Luxembourg,1
+UNKNOWN,totalenergies,Remerschen,1
+UNKNOWN,totalenergies,Capellen - Shop,2
+UNKNOWN,totalenergies,Capellen - LKW MP1,1
+UNKNOWN,totalenergies,Rodange II,1
+UNKNOWN,totalenergies,Bascharage,1
+UNKNOWN,totalenergies,Luxembourg-Findel,1
+UNKNOWN,totalenergies,Capellen - PKW,1
+UNKNOWN,totalenergies,Capellen - PKW MP2,1
+UNKNOWN,totalenergies,Wemperhardt,2
+UNKNOWN,totalenergies,Bereldange,1
+UNKNOWN,totalenergies,Differdange/Obercorn,1
+UNKNOWN,totalenergies,Frisange,1
+UNKNOWN,totalenergies,Junglinster,1
+UNKNOWN,totalenergies,Echternach,1
+UNKNOWN,totalenergies,Niederfeulen,1
+UNKNOWN,totalenergies,Remich I,1
+UNKNOWN,totalenergies,Pommerloch,1
+UNKNOWN,totalenergies,Dudelange,1
+UNKNOWN,totalenergies,Lintgen,1
+UNKNOWN,totalenergies,Remich II,1
+UNKNOWN,totalenergies,Berchem Ouest - Shop,1
+UNKNOWN,totalenergies,Berchem Ouest - PKW1,1
+UNKNOWN,totalenergies,Schengen,1
+UNKNOWN,totalenergies,Berchem Ouest - LKW1,1
+UNKNOWN,totalenergies,Berchem Ouest - PKW2,1
+UNKNOWN,totalenergies,Berchem Ouest - LKW2,1
+UNKNOWN,totalenergies,Niederkorn,1
+UNKNOWN,totalenergies,Rollingergrund,1
+UNKNOWN,totalenergies,Schifflange,1
+UNKNOWN,totalenergies,Bertrange,1
+UNKNOWN,totalenergies,Rodange III,1
+UNKNOWN,totalenergies,Wiltz,1
+UNKNOWN,totalenergies,Luxembourg-Merl,1
+UNKNOWN,totalenergies,Mondorf-les-Bains,1
+UNKNOWN,totalenergies,Howald,1
+UNKNOWN,totalenergies,Bour,1
+UNKNOWN,totalenergies,Rombach-Martelange,1
+UNKNOWN,totalenergies,Luxembourg-Merl 2,1
+UNKNOWN,totalenergies,FRISANGE,1
+UNKNOWN,totalenergies,RODANGE,3
+UNKNOWN,totalenergies,MONDORF-LES-BAINS,1
+UNKNOWN,totalenergies,WINDHOF,1
+UNKNOWN,totalenergies,MARTELANGE-HAUT,1
+UNKNOWN,totalenergies,BASCHARAGE,1
+UNKNOWN,totalenergies,WEMPERHARDT,1
+UNKNOWN,totalenergies,MERTERT,2
+UNKNOWN,totalenergies,LIVANGE,1
+UNKNOWN,totalenergies,SCHENGEN,2
+UNKNOWN,totalenergies,ESCH-SUR-ALZETTE,2
+UNKNOWN,totalenergies,WASSERBILLIG,2
+UNKNOWN,totalenergies,MARNACH,1
+UNKNOWN,totalenergies,OBERPALLEN,2
+UNKNOWN,totalenergies,POMMERLOCH,1
+UNKNOWN,totalenergies,INGELDORF,1
+UNKNOWN,totalenergies,BERTRANGE,1
+UNKNOWN,totalenergies,RUMELANGE,2
+UNKNOWN,totalenergies,REMICH,2
+UNKNOWN,totalenergies,REMERSCHEN,1
+UNKNOWN,totalenergies,LUXEMBOURG,2
+UNKNOWN,totalenergies,DONCOLS,1
+UNKNOWN,totalenergies,ROMBACH-MARTELANGE,1
+UNKNOWN,totalenergies,STRASSEN,1
+UNKNOWN,totalenergies,HULDANGE,1
+UNKNOWN,totalenergies,ROSPORT,1
+UNKNOWN,totalenergies,DUDELANGE,1
+UNKNOWN,totalenergies,WINCRANGE,1
+UNKNOWN,totalenergies,LORENTZWEILER,1
+UNKNOWN,totalenergies,MERSCH,1
+UNKNOWN,totalenergies,ECHTERNACH,1
+UNKNOWN,totalenergies,CONTERN,1
+UNKNOWN,totalenergies,BETTEMBOURG,1
+UNKNOWN,totalenergies,PONTPIERRE,1
+UNKNOWN,totalenergies,BELVAUX,1
+UNKNOWN,totalenergies,BERCHEM,1
+UNKNOWN,united_colors_of_benetton,LUXEMBOURG,1
+UNKNOWN,valora,Luxembourg,20
+UNKNOWN,valora,Findel,2
+UNKNOWN,valora,Esch/Alzette,7
+UNKNOWN,valora,Merl,1
+UNKNOWN,valora,Clervaux,1
+UNKNOWN,valora,Redange/Attert,1
+UNKNOWN,valora,Windhof,1
+UNKNOWN,valora,Sandweiler,1
+UNKNOWN,valora,Mondorf Les Bains,1
+UNKNOWN,valora,Capellen,1
+UNKNOWN,valora,Bascharage,1
+UNKNOWN,valora,Ingeldorf,1
+UNKNOWN,valora,Tetange,1
+UNKNOWN,valora,Mersch,2
+UNKNOWN,valora,Mertert,1
+UNKNOWN,valora,Diekirch,2
+UNKNOWN,valora,Grevenmacher,1
+UNKNOWN,valora,Dudelange,2
+UNKNOWN,valora,Howald,1
+UNKNOWN,valora,Wiltz,1
+UNKNOWN,valora,Ettelbruck,3
+UNKNOWN,valora,Bereldange,1
+UNKNOWN,valora,Luxembourg-Kirchberg,2
+UNKNOWN,valora,Petange,1
+UNKNOWN,valora,Bettembourg,1
+UNKNOWN,valora,Niederanven,1
+UNKNOWN,valora,Luxembourg 233,1
+UNKNOWN,valora,Echternach,1
+UNKNOWN,valora,Foetz/Mondercange,1
+UNKNOWN,valora,Bertrange,2
+UNKNOWN,valora,Luxembourg  119,1
+UNKNOWN,valora,Remich,1
+UNKNOWN,valora,Livange,1
+UNKNOWN,visa,RUMELANGE,2
+UNKNOWN,visa,DUDELANGE,4
+UNKNOWN,visa,KAYL,3
+UNKNOWN,visa,ESCH/ALZETTE,12
+UNKNOWN,visa,ESCH/LALLANGE,2
+UNKNOWN,visa,BELVAUX,3
+UNKNOWN,visa,OBERKORN,1
+UNKNOWN,visa,SCHIFFLANGE,3
+UNKNOWN,visa,DIFFERDANGE,5
+UNKNOWN,visa,FOETZ,2
+UNKNOWN,visa,NIEDERKORN,2
+UNKNOWN,visa,BETTEMBOURG,5
+UNKNOWN,visa,MONDORF LES BAINS,4
+UNKNOWN,visa,FRISANGE,1
+UNKNOWN,visa,MONDERCANGE,1
+UNKNOWN,visa,RODANGE,2
+UNKNOWN,visa,LIVANGE,1
+UNKNOWN,visa,PETANGE,2
+UNKNOWN,visa,BASCHARAGE,2
+UNKNOWN,visa,REMICH,4
+UNKNOWN,visa,CLEMENCY,1
+UNKNOWN,visa,HESPERANGE,2
+UNKNOWN,visa,GASPERICH,3
+UNKNOWN,visa,HOWALD,2
+UNKNOWN,visa,LUXEMBOURG,44
+UNKNOWN,visa,BERTRANGE,5
+UNKNOWN,visa,LUXEMBOURG GARE,1
+UNKNOWN,visa,BELAIR,2
+UNKNOWN,visa,LUXEMBOURG VILLE,1
+UNKNOWN,visa,STRASSEN,6
+UNKNOWN,visa,MAMER,2
+UNKNOWN,visa,KIRCHBERG,15
+UNKNOWN,visa,SANDWEILER,3
+UNKNOWN,visa,CANACH,1
+UNKNOWN,visa,ESCH,1
+UNKNOWN,visa,CAPELLEN,2
+UNKNOWN,visa,FINDEL,1
+UNKNOWN,visa,WORMELDANGE,1
+UNKNOWN,visa,CONTERN,1
+UNKNOWN,visa,STEINFORT,2
+UNKNOWN,visa,MUNSBACH,1
+UNKNOWN,visa,BERELDANGE,2
+UNKNOWN,visa,BRIDEL,2
+UNKNOWN,visa,SENNINGERBERG,1
+UNKNOWN,visa,NIEDERANVEN,3
+UNKNOWN,visa,WALFERDANGE,3
+UNKNOWN,visa,EISCHEN,1
+UNKNOWN,visa,STEINSEL,1
+UNKNOWN,visa,LORENTZWEILER,1
+UNKNOWN,visa,GREVENMACHER,5
+UNKNOWN,visa,LINTGEN,1
+UNKNOWN,visa,JUNGLINSTER,2
+UNKNOWN,visa,NOERDANGE,1
+UNKNOWN,visa,REDANGE/ATTERT,3
+UNKNOWN,visa,MERSCH,6
+UNKNOWN,visa,WASSERBILLIG,5
+UNKNOWN,visa,USELDANGE,1
+UNKNOWN,visa,BETTBORN,1
+UNKNOWN,visa,LAROCHETTE,3
+UNKNOWN,visa,MARTELANGE,1
+UNKNOWN,visa,COLMAR-BERG,1
+UNKNOWN,visa,RAMBROUCH,1
+UNKNOWN,visa,ECHTERNACH,3
+UNKNOWN,visa,ETTELBRUCK,8
+UNKNOWN,visa,BEAUFORT,1
+UNKNOWN,visa,INGELDORF,2
+UNKNOWN,visa,ESCHDORF,1
+UNKNOWN,visa,DIEKIRCH,4
+UNKNOWN,visa,REISDORF,1
+UNKNOWN,visa,ESCH/SURE,1
+UNKNOWN,visa,VIANDEN,2
+UNKNOWN,visa,WILTZ,6
+UNKNOWN,visa,CLERVAUX,3
+UNKNOWN,visa,MARNACH,1
+UNKNOWN,visa,TROISVIERGES,2
+UNKNOWN,visa,WEISWAMPACH,1
+UNKNOWN,visa,WEMPERHARDT,1
+UNKNOWN,visa,BERCHEM,1
+LUXEMBOURG,western_union,Luxembourg,6
+LUXEMBOURG,western_union,Ettelbruck,1
+DUDELANGE,western_union,Luxembourg,1
+LUXEMBOURG,western_union,Schifflange,1
+LUXEMBOURG,western_union,Esch Sur Alzette,2
+LUXEMBOURG,western_union,Differdange,1

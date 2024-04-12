@@ -1,0 +1,54 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+12255,abc_pl,abc,,Smykówko,warmińsko-mazurskie,,PL,,,,abc,Q11683985
+PL001224,aldi_nord_pl,ALDI,,Ostróda,Warmińsko-Mazurskie,,PL,+48 800 118 118,,Mo-Sa 07:00-21:00,ALDI,Q41171373
+73,bricomarche_pl,Bricomarché Ostróda,,Ostróda,warmińsko-mazurskie,,PL,+48 519 503 010,https://www.bricomarche.pl/sklep/bricomarche-ostroda,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1823-ostroda-stefana-czarnieckiego,credit_agricole_pl,"Credit Agricole Stefana Czarnieckiego 23, Ostróda",,Ostróda,warmińsko-mazurskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1823-ostroda-stefana-czarnieckiego,Mo 10:00-18:00; Tu-Th 10:00-17:00; Fr 10:00-16:00,Credit Agricole,Q590952
+648,dr_max,"Apteka Dr.Max, Jana Pawła II 9/7, Ostróda",,Ostróda,Warmińsko-Mazurskie,,PL,+48 89 642 83 80,https://www.drmax.pl/apteki/ostroda-jana-pawa-ii-9-7,,Dr. Max,Q56317371
+833,dr_max,"Apteka Dr.Max, Chrobrego 2, Ostróda",,Ostróda,Warmińsko-Mazurskie,,PL,+48 89 642 11 24,https://www.drmax.pl/apteki/ostroda-chrobrego-2,,Dr. Max,Q56317371
+14597,groszek_pl,Groszek,,Lubajny,warmińsko-mazurskie,,PL,,,,Groszek,Q9280965
+142,mcdonalds_pl,McDonald's,,Ostróda,Warmińsko­‑Mazurskie,,PL,+48 694 495 962,https://mcdonalds.pl/restauracje/warminsko-mazurskie/ostroda/ostroda-ul-przemyslowa-4,Mo-Th 08:00-24:00; Fr-Sa 08:00-01:00; Su 08:00-24:00,McDonald's,Q38076
+IDZ01M,paczkomat_inpost_pl,przy sklepie Groszek,,Idzbark,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-idzbark-idz01m-piotra-i-pawla-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+KAJK01M,paczkomat_inpost_pl,przy Żabce,,Kajkowo,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-kajkowo-kajk01m-widok-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+LUJ01M,paczkomat_inpost_pl,przy Sklepie Spożywczym GS,,Lubajny,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-lubajny-luj01m-lubajny-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST01A,paczkomat_inpost_pl,przy Kauflandzie,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost01a-piastowska-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST01M,paczkomat_inpost_pl,Pomiędzy blokami nr 6 i 10. Na przeciwko sklepu Warzywa i Owoce,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost01m-stepowskiego-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST01N,paczkomat_inpost_pl,Przy sklepie Globi,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost01n-krzywa-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST02A,paczkomat_inpost_pl,Przy siedzibie Auto Land,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost02a-chrobrego-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST04M,paczkomat_inpost_pl,Przy Delikatesach,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost04m-plebiscytowa-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST05M,paczkomat_inpost_pl,przy Firmie RO-POŻ,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost05m-hurtowa-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST05N,paczkomat_inpost_pl,Przy Galerii Mazurskiej,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost05n-jana-pawla-ii-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST06M,paczkomat_inpost_pl,przy Lidlu,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost06m-pulaskiego-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST06N,paczkomat_inpost_pl,Przy stacji LPG,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost06n-olsztynska-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST07M,paczkomat_inpost_pl,przy sklepie spożywczym,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost07m-stepowskiego-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST07N,paczkomat_inpost_pl,Przy wejściu do Stokrotki,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost07n-jaracza-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST08M,paczkomat_inpost_pl,przy sklepie spożywczym,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost08m-kosciuszki-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST08N,paczkomat_inpost_pl,Z prawej strony sklepu Stokrotka,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost08n-czarnieckiego-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST09M,paczkomat_inpost_pl,przy sklepie spożywczym,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost09m-przedszkolna-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST10M,paczkomat_inpost_pl,"przy delikatesach ""Smacznego""",,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost10m-bursztynowa-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST11M,paczkomat_inpost_pl,przy myjni samochodowej,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost11m-grunwaldzka-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+OST12M,paczkomat_inpost_pl,przy Lidlu,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-ost12m-skladowa-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+PID01M,paczkomat_inpost_pl,przy sklepie GS,,Pietrzwałd,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-pietrzwald-pid01m-pietrzwald-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+POP-OST11,paczkomat_inpost_pl,PAKA24-OSTRÓDA,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-pop-ost11-niepodleglosci-paczkomaty-warminsko-mazurskie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+POP-OST12,paczkomat_inpost_pl,AGENCJA REKLAMOWA GRAFFITTI,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-pop-ost12-21-stycznia-paczkomaty-warminsko-mazurskie,Mo-Fr 08:00-17:00,Paczkomat,Q110970254
+POP-OST17,paczkomat_inpost_pl,HAPPY PACK - ALKOHOLE WINOTEKA,,Ostróda,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-ostroda-pop-ost17-zamkowa-paczkomaty-warminsko-mazurskie,Mo-Sa 10:00-21:00,Paczkomat,Q110970254
+POP-SMB1,paczkomat_inpost_pl,SKLEP SPOŻYWCZY MARIUSZ SIWY,,Samborowo,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-samborowo-pop-smb1-ostrodzka-paczkomaty-warminsko-mazurskie,Mo-Sa 06:00-20:00; Su 09:00-15:00,Paczkomat,Q110970254
+SMW01M,paczkomat_inpost_pl,Market Dino,,Samborowo,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-samborowo-smw01m-przemyslowa-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+SMW01N,paczkomat_inpost_pl,przy sklepie Livio,,Samborowo,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-samborowo-smw01n-ostrodzka-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+TYR01M,paczkomat_inpost_pl,przy sklepie Lewiatan,,Tyrowo,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-tyrowo-tyr01m-tyrowo-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+XMY01M,paczkomat_inpost_pl,przy sklepie Groszek,,Smykówko,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-smykowko-xmy01m-smykowko-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+XZY01M,paczkomat_inpost_pl,przy sklepie odido,,Szyldak,warmińsko-mazurskie,,PL,,https://inpost.pl/paczkomat-szyldak-xzy01m-szkolna-paczkomaty-warminsko-mazurskie,24/7,Paczkomat,Q110970254
+https://105.pl/pizzeria-ostroda/#local-place,pizzeria_105_pl,Pizzeria 105,,Ostróda,Warmińsko-Mazurskie,,PL,+48 504 103 105,https://105.pl/pizzeria-ostroda/,Mo-Th 12:00-22:00; Fr-Sa 11:00-23:00; Su 11:00-22:00,Pizzeria 105,Q123090276
+133,play_pl,Salon Play,Ul. Jana Pawła II 9,Ostróda,warmińsko-mazurskie,,PL,+48 790 031 029,,Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 10:00-16:00,Play,Q7202998
+250,play_pl,Salon Play,Ul. Stefana Czarnieckiego 33/1,Ostróda,warmińsko-mazurskie,,PL,+48 792 000 993,,Mo-Fr 09:00-17:00; Sa 09:00-13:00,Play,Q7202998
+230789,poczta_polska_pl,UP Ostróda 1,,Ostróda,WARMIŃSKO-MAZURSKIE,,PL,+48 89 646 56 07;+48 89 646 56 27,,,Poczta Polska,Q168833
+557406,poczta_polska_pl,FUP Ostróda 1,,Ostróda,WARMIŃSKO-MAZURSKIE,,PL,+48 89 646 38 98,,,Poczta Polska,Q168833
+389963,poczta_polska_pl,FUP Ostróda 1,,Ostróda,WARMIŃSKO-MAZURSKIE,,PL,+48 89 646 58 76,,,Poczta Polska,Q168833
+366946,poczta_polska_pl,AP Szyldak,,Szyldak,WARMIŃSKO-MAZURSKIE,,PL,+48 607 247 366,,,Poczta Polska,Q168833
+,visa,,,OSTRODA,WARMIŃSKO-MAZURSKIE,,PL,,,,,
+,visa,,,OSTRODA,WARMIŃSKO-MAZURSKIE,,PL,,,,,
+,visa,,,OSTRODA,WARMIŃSKO-MAZURSKIE,,PL,,,,,
+,visa,,,OSTRODA,WARMIŃSKO-MAZURSKIE,,PL,,,,,
+,visa,,,OSTRODA,WARMIŃSKO-MAZURSKIE,,PL,,,,,
+,visa,,,OSTRODA,WARMIŃSKO-MAZURSKIE,,PL,,,,,
+,visa,,,OSTRODA,WARMIŃSKO-MAZURSKIE,,PL,,,,,
+,visa,,,OSTRODA,WARMIŃSKO-MAZURSKIE,,PL,,,,,

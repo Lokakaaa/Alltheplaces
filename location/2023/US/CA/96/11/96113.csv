@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1366786,usps,HERLONG,,HERLONG,CA,,US,+1 530-827-3074,,"Mo-We 08:00-12:30,13:30-16:30; Th 08:00-12:30,13:30-17:30; Fr 08:00-12:30,13:30-16:30",United States Postal Service,Q668687
+9611300000,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,2067 YUBA ST,HERLONG,CA,,US,,,,United States Postal Service,Q668687
+9611300001,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,2067 YUBA ST,HERLONG,CA,,US,,,,United States Postal Service,Q668687
+,visa,,,HERLONG,CA,,US,,,,,

@@ -1,0 +1,226 @@
+City,Place Name,Zipcode,Name
+Érd,audi,Fehérvári út 63-65. 2030 Érd,unknown,BARA Autóház Kft.
+unknown,ionity,,unknown,Szigetszentmiklós
+Szentendre,kfc_amrest,,unknown,KFC Szentendre DT
+Budaörs,kfc_amrest,,unknown,KFC Budaörs Tesco
+Vác,kfc_amrest,,unknown,KFC Vác DT
+Gödöllő,kfc_amrest,,unknown,KFC Gödöllő Stop Shop DT
+Cegléd,kfc_amrest,,unknown,KFC Cegléd DT
+Csömör,kfc_amrest,,unknown,KFC Csömör Auchan DT
+Dunakeszi,kfc_amrest,,unknown,KFC Dunakeszi Auchan
+Dunaharaszti,kfc_amrest,,unknown,KFC Dunaharaszti DT
+Szigetszentmiklós,kfc_amrest,,unknown,KFC Szigetszentmiklós M0 DT
+Solymár,mercedes_benz,,unknown,Jász-Plasztik Autócentrum Kft.
+Budapest,mercedes_benz,,unknown,Pappas Auto Magyarország Kft.
+Fót,mercedes_benz,,unknown,Jász-Plasztik Autócentrum Kft.
+Gödöllő,penny,,unknown,PENNY
+Abony,penny,,unknown,PENNY
+Nagykőrös,penny,,unknown,PENNY
+Pilis,penny,,unknown,PENNY
+Dunakeszi,penny,,unknown,PENNY
+Pécel,penny,,unknown,PENNY
+Göd,penny,,unknown,PENNY
+Szigetszentmiklós,penny,,unknown,PENNY
+Albertirsa,penny,,unknown,PENNY
+Gyömrő,penny,,unknown,PENNY
+Isaszeg,penny,,unknown,PENNY
+Tura,penny,,unknown,PENNY
+Cegléd,penny,,unknown,PENNY
+Budapest,penny,,unknown,PENNY
+Üllő,penny,,unknown,PENNY
+Alsónémedi,penny,,unknown,PENNY
+Kistarcsa,penny,,unknown,PENNY
+Nagykáta,penny,,unknown,PENNY
+Ráckeve,penny,,unknown,PENNY
+Monor,penny,,unknown,PENNY
+Biatorbágy,penny,,unknown,PENNY
+Aszód,penny,,unknown,PENNY
+Gyál,penny,,unknown,PENNY
+Vecsés,penny,,unknown,PENNY
+Szigethalom,penny,,unknown,PENNY
+Érd II.,penny,,unknown,PENNY
+Dabas,penny,,unknown,PENNY
+Érd I.,penny,,unknown,PENNY
+unknown,pepco,,unknown,Pepco
+Budaörs,pizza_hut_amrest,,unknown,Pizza Hut BUDAÖRS AUCHAN
+Budapest,pizza_hut_amrest,,unknown,Pizza Hut SELFSTORE PLAZA
+Dunakeszi,pizza_hut_amrest,,unknown,Pizza Hut DUNAKESZI AUCHAN
+GÖDÖLLŐ,shell,,unknown,GÖDÖLLŐ
+SÜLYSÁP,shell,,unknown,SÜLYSÁP
+FÓT,shell,,unknown,FÓT
+DUNAKESZI,shell,,unknown,DUNAKESZI
+MONOR,shell,,unknown,MONOR
+VÁC,shell,,unknown,VÁC
+VECSÉS,shell,,unknown,FERIHEGY
+CEGLÉD,shell,,unknown,CEGLÉD I.
+DABAS,shell,,unknown,DABAS
+BUDAÖRS,shell,,unknown,BUDAÖRS II 546
+BUDAORS,shell,,unknown,BUDAORS TESCO SHELL CAFE
+BUDAKESZI,shell,,unknown,BUDAKESZI
+TÖRÖKBÁLINT,shell,,unknown,TÖRÖKBÁLINT
+SOLYMÁR,shell,,unknown,SOLYMÁR
+SZIGETSZENTMIKLÓS,shell,,unknown,SZIGETSZENTMIKLÓS II.
+NAGYKOROS,shell,,unknown,NAGYKŐRÖS
+ÉRD,shell,,unknown,ÉRD.
+TOKOL,shell,,unknown,EV TESCO TOKOL
+SZAZHALOMBATTA,shell,,unknown,SZÁZHALOMBAT 547
+DUNAHARASZTI,shell,,unknown,EV TESCO DUNAHARASZTI
+Budapest,smart,,unknown,Pappas Auto Magyarország Kft.
+Biatorbagy,starbucks_eu,Budaorsi 4 2051 Biatorbagy,unknown,Biatorbagy Premier Outlet Budapest
+Budaors,starbucks_eu,2 4 Sport str 2040 Budaors,unknown,Budaors Sport Street
+Dunakeszi,starbucks_eu,Ndas u. 6 2120 Dunakeszi,unknown,Dunakeszi Retail Park
+Vecses,starbucks_eu,Vecses Fo ut 246 248 2220 Vecses,unknown,"Vecses, Market Central"
+Vác,tedi,,unknown,TEDi Árukereskedelmi Kft.
+Budapest,tedi,,unknown,TEDi Árukereskedelmi Kft.
+unknown,tier,,unknown,Tier
+LAJOSKOMÁROM,visa,,unknown,unknown
+DÖMSÖD,visa,,unknown,unknown
+RÁCKEVE,visa,,unknown,unknown
+KISKUNLACHAZA,visa,,unknown,unknown
+KISKUNLACHÁZA,visa,,unknown,unknown
+SZÁZHALOMBATTA,visa,,unknown,unknown
+SZAZHALOMBATTA,visa,,unknown,unknown
+NAGYKŐRÖS,visa,,unknown,unknown
+DABAS,visa,,unknown,unknown
+NAGYKOROS,visa,,unknown,unknown
+TÖKÖL,visa,,unknown,unknown
+ERD,visa,,unknown,unknown
+ÉRD,visa,,unknown,unknown
+SZIGETSZENTMIKLÓS,visa,,unknown,unknown
+TAKSONY,visa,,unknown,unknown
+HALÁSZTELEK,visa,,unknown,unknown
+SZIGETSZENTMIKLOS,visa,,unknown,unknown
+OCSA,visa,,unknown,unknown
+ÚJLENGYEL,visa,,unknown,unknown
+BICSKE,visa,,unknown,unknown
+DUNAHARASZTI,visa,,unknown,unknown
+DIÓSD,visa,,unknown,unknown
+TOROKBALINT,visa,,unknown,unknown
+BIATORBÁGY,visa,,unknown,unknown
+CEGLED,visa,,unknown,unknown
+CEGLÉD,visa,,unknown,unknown
+BUDAORS,visa,,unknown,unknown
+BUDAÖRS,visa,,unknown,unknown
+ALBERTIRSA,visa,,unknown,unknown
+PÁTY,visa,,unknown,unknown
+MONOR,visa,,unknown,unknown
+VECSES,visa,,unknown,unknown
+BUDAKESZI,visa,,unknown,unknown
+VECSÉS,visa,,unknown,unknown
+BUDAPEST,visa,,unknown,unknown
+ABONY,visa,,unknown,unknown
+NAGYKOVÁCSI,visa,,unknown,unknown
+GYÖMRŐ,visa,,unknown,unknown
+GYOMRO,visa,,unknown,unknown
+MAGLÓD,visa,,unknown,unknown
+MAGLOD,visa,,unknown,unknown
+SOLYMÁR,visa,,unknown,unknown
+PILISCSABA,visa,,unknown,unknown
+PILISVÖRÖSVÁR,visa,,unknown,unknown
+UROM,visa,,unknown,unknown
+PÉCEL,visa,,unknown,unknown
+SÜLYSÁP,visa,,unknown,unknown
+BUDAKALASZ,visa,,unknown,unknown
+DUNAKESZI,visa,,unknown,unknown
+POMÁZ,visa,,unknown,unknown
+POMAZ,visa,,unknown,unknown
+KEREPES,visa,,unknown,unknown
+NAGYKÁTA,visa,,unknown,unknown
+FÓT,visa,,unknown,unknown
+SZENTENDRE,visa,,unknown,unknown
+GODOLLO,visa,,unknown,unknown
+GÖDÖLLŐ,visa,,unknown,unknown
+GÖD,visa,,unknown,unknown
+VERESEGYHAZ,visa,,unknown,unknown
+VERESEGYHÁZ,visa,,unknown,unknown
+ERDŐKERTES,visa,,unknown,unknown
+HÉVÍZGYÖRK,visa,,unknown,unknown
+VAC,visa,,unknown,unknown
+VÁC,visa,,unknown,unknown
+TURA,visa,,unknown,unknown
+ASZÓD,visa,,unknown,unknown
+KARTAL,visa,,unknown,unknown
+Doemsoed,western_union,,unknown,MAGYAR POSTA ZRT
+Rackeve,western_union,,unknown,MAGYAR POSTA ZRT
+Kiskunlachaza,western_union,,unknown,MAGYAR POSTA ZRT
+Szigetujfalu,western_union,,unknown,MAGYAR POSTA ZRT
+Kocser,western_union,,unknown,MAGYAR POSTA ZRT
+Jaszkarajeno,western_union,,unknown,MAGYAR POSTA ZRT
+Dabas,western_union,,unknown,MAGYAR POSTA ZRT
+Bugyi,western_union,,unknown,MAGYAR POSTA ZRT
+Oerkeny,western_union,,unknown,MAGYAR POSTA ZRT
+Szazhalombatta,western_union,,unknown,MAGYAR POSTA ZRT
+Taborfalva,western_union,,unknown,MAGYAR POSTA ZRT
+Delegyhaza,western_union,,unknown,MAGYAR POSTA ZRT
+Szigethalom,western_union,,unknown,MAGYAR POSTA ZRT
+Erd,western_union,,unknown,MAGYAR POSTA ZRT
+Taksony,western_union,,unknown,MAGYAR POSTA ZRT
+Cegled,western_union,,unknown,MAGYAR POSTA ZRT
+Szigetszentmiklos,western_union,,unknown,E SPECIAL CHANGE KFT S302
+Ocsa,western_union,,unknown,MAGYAR POSTA ZRT
+Toekoel,western_union,,unknown,MAGYAR POSTA ZRT
+Alsonemedi,western_union,,unknown,MAGYAR POSTA ZRT
+Dunavarsany,western_union,,unknown,MAGYAR POSTA ZRT
+Cegledbercel,western_union,,unknown,MAGYAR POSTA ZRT
+Dunaharaszti,western_union,,unknown,E SPECIAL CHANGE KFT S309
+Tarnok,western_union,,unknown,MAGYAR POSTA ZRT
+Inarcs,western_union,,unknown,MAGYAR POSTA ZRT
+Tokol,western_union,,unknown,E SPECIAL CHANGE KFT S311
+Torokbalint,western_union,,unknown,MAGYAR POSTA ZRT
+Nyaregyhaza,western_union,,unknown,MAGYAR POSTA ZRT
+Diosd,western_union,,unknown,EXCLUSIVE CHANGE ZRT X926
+Budaors,western_union,,unknown,MAGYAR POSTA ZRT
+Biatorbagy,western_union,,unknown,EXCLUSIVE CHANGE ZRT E021
+Albertirsa,western_union,,unknown,MAGYAR POSTA ZRT
+Abony,western_union,,unknown,MAGYAR POSTA ZRT
+Gyal,western_union,,unknown,MAGYAR POSTA ZRT
+Paty,western_union,,unknown,MAGYAR POSTA ZRT
+Monor,western_union,,unknown,MAGYAR POSTA ZRT
+Budakeszi,western_union,,unknown,MAGYAR POSTA ZRT
+Budapest,western_union,,unknown,EXCLUSIVE CHANGE ZRT E039
+Pilis,western_union,,unknown,MAGYAR POSTA ZRT
+Zsambek,western_union,,unknown,MAGYAR POSTA ZRT
+Vecses,western_union,,unknown,MAGYAR POSTA ZRT
+Uello,western_union,,unknown,MAGYAR POSTA ZRT
+Tapioszentmarton,western_union,,unknown,MAGYAR POSTA ZRT
+Gyoemro,western_union,,unknown,MAGYAR POSTA ZRT
+Tapioszele,western_union,,unknown,MAGYAR POSTA ZRT
+Nagykovacsi,western_union,,unknown,MAGYAR POSTA ZRT
+Tapiobicske,western_union,,unknown,MAGYAR POSTA ZRT
+Maglod,western_union,,unknown,MP MAGLOD
+Tapiogyoergye,western_union,,unknown,MAGYAR POSTA ZRT
+Farmos,western_union,,unknown,MAGYAR POSTA ZRT
+Tapiosag,western_union,,unknown,MAGYAR POSTA ZRT
+Pilisvorosvar,western_union,,unknown,MAGYAR POSTA ZRT
+Solymar,western_union,,unknown,E SPECIAL CHANGE KFT S306
+Sulysap,western_union,,unknown,MAGYAR POSTA ZRT
+Nagykata,western_union,,unknown,MAGYAR POSTA ZRT
+Pecel,western_union,,unknown,MAGYAR POSTA ZRT
+Tapioszecso,western_union,,unknown,MAGYAR POSTA ZRT
+Szentmartonkata,western_union,,unknown,MAGYAR POSTA ZRT
+Fot,western_union,,unknown,MAGYAR POSTA ZRT
+Pomaz,western_union,,unknown,MAGYAR POSTA ZRT
+Csoemoer,western_union,,unknown,MAGYAR POSTA ZRT
+Csomor,western_union,,unknown,E SPECIAL CHANGE KFT S303
+Budakalasz,western_union,,unknown,INTERCHANGE
+Kistarcsa,western_union,,unknown,MAGYAR POSTA ZRT
+Isaszeg,western_union,,unknown,MAGYAR POSTA ZRT
+Koka,western_union,,unknown,MAGYAR POSTA ZRT
+Dunakeszi,western_union,,unknown,MAGYAR POSTA ZRT
+Szentendre,western_union,,unknown,MAGYAR POSTA ZRT
+Dany,western_union,,unknown,MAGYAR POSTA ZRT
+Godollo,western_union,,unknown,MAGYAR POSTA ZRT
+Goed,western_union,,unknown,MAGYAR POSTA ZRT
+Erdokertes,western_union,,unknown,MAGYAR POSTA ZRT
+Nagymaros,western_union,,unknown,MAGYAR POSTA ZRT
+Veresegyhaz,western_union,,unknown,MAGYAR POSTA ZRT
+Leanyfalu,western_union,,unknown,MAGYAR POSTA ZRT
+Bag,western_union,,unknown,MAGYAR POSTA ZRT
+Tura,western_union,,unknown,MAGYAR POSTA ZRT
+Dunabogdany,western_union,,unknown,MAGYAR POSTA ZRT
+Aszod,western_union,,unknown,MAGYAR POSTA ZRT
+Orbottyan,western_union,,unknown,MAGYAR POSTA ZRT
+Visegrad,western_union,,unknown,MAGYAR POSTA ZRT
+Kartal,western_union,,unknown,MAGYAR POSTA ZRT
+Vac,western_union,,unknown,GOOD CHANGE G012
+Hevizgyoerk,western_union,,unknown,MAGYAR POSTA ZRT

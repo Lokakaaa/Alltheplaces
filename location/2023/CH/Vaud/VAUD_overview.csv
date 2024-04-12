@@ -1,0 +1,488 @@
+City,Place Name,Zipcode,Name
+Payerne,audi,Route de la Grosse Pierre 24 1530 Payerne,unknown,AutoNova Payerne SA
+Prangins,audi,Route de Lausanne 114 1197 Prangins,unknown,AMAG Nyon
+Lutry,audi,Route de Lavaux 89 1095 Lutry,unknown,Autocorner J.-C. & C. Oberson S.A.
+Romanel-sur-Morges,audi,Route de Bremblens 2 1122 Romanel-sur-Morges,unknown,Arenaz Services SA
+Crissier,audi,Rue de la Vernie 2 1023 Crissier,unknown,AMAG Crissier
+Etoy,audi,route de Buchillon 1 1163 Etoy,unknown,AMAG Etoy
+Yverdon-les-Bains,audi,Le Bey 11 1400 Yverdon-les-Bains,unknown,Automobiles Senn SA
+St-Légier-La Chiésaz,audi,Route Industrielle 9 1806 St-Légier-La Chiésaz,unknown,AMAG St-Légier
+Bavois,burgerking,,unknown,Burger King
+Aran,burgerking,,unknown,Burger King
+Crissier,burgerking,,unknown,Burger King
+Valais,burgerking,,unknown,Burger King
+Nyon District,church_of_england_gb,Temple de Gingins Route de l'Eglise 9 1276 Gingins - Switzerland Temple de Crassier Rte de Genève 2 1263 Crassier Switzerland Temple de Divonne 77 Rue du Temple 01220 Divonne-les-Bains France,unknown,La Côte Anglican Church
+Yverdon-les-Bains,deichmann,,unknown,DOSENBACH Filiale Yverdon-les-Bains Rue D'Orbe 1
+Vevey,deichmann,,unknown,DOSENBACH Filiale Vevey Rue De Lausanne 29
+Signy,deichmann,,unknown,DOSENBACH Filiale Signy Rue Des Fléchères 7A
+Romanel-s-Lausanne,deichmann,,unknown,DOSENBACH Filiale Romanel-s-Lausanne En Fezelin 1
+Rennaz,deichmann,,unknown,DOSENBACH Filiale Rennaz Route Du Pré-De-La-Croix 18
+Renens,deichmann,,unknown,DOSENBACH Filiale Renens Place Du Marché 1
+Prilly,deichmann,,unknown,DOSENBACH Filiale Prilly Route De Cossonay 28
+Payerne,deichmann,,unknown,DOSENBACH Filiale Payerne Route De Bussy 18-20
+Oron-la-Ville,deichmann,,unknown,DOSENBACH Filiale Oron-la-Ville Route De Lausanne 27
+Morges,deichmann,,unknown,DOSENBACH Filiale Morges Rue De La Gare 19
+Montreux,deichmann,,unknown,DOSENBACH Filiale Montreux Place Du Marché 6
+Montagny-près-Yverdon,deichmann,,unknown,DOSENBACH Filiale Montagny-près-Yverdon En Chamard 41 A
+Lausanne,deichmann,,unknown,DOSENBACH Filiale Lausanne Rue De L'Ale 1
+Ecublens,deichmann,,unknown,DOSENBACH Filiale Ecublens Chemin Du Croset 7
+Crissier,deichmann,,unknown,DOSENBACH Filiale Crissier Chemin Du Closalet 7
+Allaman,deichmann,,unknown,DOSENBACH Filiale Allaman Route De La Gare 10
+Aigle,deichmann,,unknown,DOSENBACH Filiale Aigle Chemin Sous Le Grand Pré 7
+Chaux Neuve,fedex,,unknown,unknown
+Vevey,hm,,unknown,Centre Manor Vevey
+Montreux,hm,,unknown,Grand-Rue 10
+Lausanne,hm,,unknown,Rue du Pont 16
+Nyon,hm,,unknown,Rue de la Gare 8
+Yverdon,hm,,unknown,Shopping Center Bel-Air
+Crissier,hm,,unknown,Centre Commercial Crissier
+Morges District,ich_tanke_strom,Route d Allaman  1163 Etoy,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Le Devin  1510 Moudon,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Charrière d'Estavayer  1530 Payerne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Route de Condémine  1030 Bussigny,unknown,Tesla Supercharger
+Morges District,ich_tanke_strom,rue de Lausanne  1110 Morges,unknown,unknown
+Nyon District,ich_tanke_strom,293 Route de Saint-Cergue  1260 Nyon,unknown,unknown
+Nyon District,ich_tanke_strom,Route de Saint-Cergue 293  1260 Nyon,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Le Pertit Lac A9  1822 Montreux,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Le Pertit Montagne A9  1822 Montreux,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route de Saint-Maurice  1000 La Tour-de-Peilz,unknown,unknown
+Nyon District,ich_tanke_strom,Chemin de la Bichette 4  0 Vich,unknown,unknown
+Aigle District,ich_tanke_strom,Route du Pillon 58  0 Les Diablerets,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue de Morges 23  0 Crissier,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Rte d'Yverdon 5  0 Echallens,unknown,unknown
+Morges District,ich_tanke_strom,Promenade du Petit-Bois 15  0 Morges,unknown,unknown
+Aigle District,ich_tanke_strom,Chemin de la Biole 12  0 Aigle,unknown,unknown
+Nyon District,ich_tanke_strom,En Fléchère 7A  0 Signy-Avenex,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Avenue de Longemalle 13  0 Renens,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Route de Morens 46  0 Payerne,unknown,unknown
+Morges District,ich_tanke_strom,Rte de la Gare 10  0 Allaman,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route de la Gare 4  0 Château-d'Oex,unknown,unknown
+Broye-Vully District,ich_tanke_strom,En Milavy  0 Avenches,unknown,unknown
+Morges District,ich_tanke_strom,Chem. d'Etraz 1  0 Lonay,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Av. de Cerjat 2A  0 Moudon,unknown,unknown
+Nyon District,ich_tanke_strom,Chemin De La Fontaine 10  0 Nyon,unknown,unknown
+Nyon District,ich_tanke_strom,Chemin de la Fontaine 10  0 Nyon,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,En Chamard 24  0 Montagny-près-Yverdon,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin du Viaduc 1  1008 Prilly,unknown,unknown
+Aigle District,ich_tanke_strom,Chemin de la Source 3  1854 Leysin,unknown,unknown
+Aigle District,ich_tanke_strom,Route de pré Jaquet ZI A26  0 Villeneuve,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Route de Chardonne 2  0 Puidoux,unknown,unknown
+Aigle District,ich_tanke_strom,Centre Villeneuve Zone Industrielle D107  1844 Villeneuve,unknown,unknown
+Nyon District,ich_tanke_strom,Rue de la Gare 1  0 Perroy,unknown,unknown
+Lausanne District,ich_tanke_strom,Rte du village 1a  0 Epalinges,unknown,unknown
+Aigle District,ich_tanke_strom,Route de Prélan 1  1854 Leysin,unknown,unknown
+Nyon District,ich_tanke_strom,Hohlstrasse 440A  0 Zürich,unknown,unknown
+Lausanne District,ich_tanke_strom,Chem. de Budron C8  0 Le Mont-sur-Lausanne,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rue du Village 10  0 Montpreveyres,unknown,unknown
+Aigle District,ich_tanke_strom,Pré-de-la-Croix 18  0 Rennaz,unknown,unknown
+Nyon District,ich_tanke_strom,Chem. de la Vuarpillière 25  0 Nyon,unknown,unknown
+Aigle District,ich_tanke_strom,Route du Pré-de-la-Croix 18  0 Rennaz,unknown,unknown
+Nyon District,ich_tanke_strom,Hohlstrasse 494  0 Zürich,unknown,unknown
+Morges District,ich_tanke_strom,Route de Dizy 2  0 Cossonay,unknown,unknown
+Nyon District,ich_tanke_strom,Route du Bois-Laurent 1  1261 Le Vaud,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,EPFL Allée de Savoie  0 Ecublens,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,AV. Mayour-Vautier 10  0 Clarens,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de Saugy 1  0 Crissier,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Rue de la Grande Salle  0 Lucens,unknown,unknown
+Morges District,ich_tanke_strom,Rue de la Chenalette 1  1163 Etoy,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Route de Cossonay 28  0 Prilly,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Route de Lausanne 31  0 Oron-La-Ville,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Place du Général Guisan 7  1530 Payerne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Place du Marché 1  0 Renens,unknown,unknown
+Morges District,ich_tanke_strom,Av. de la Gottaz 28  0 Morges,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Route des Granges-Martin 22  0 Orbe,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Chemin de la Chapelle 19a  0 Puidoux,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue d'Orbe  0 Yverdon,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue de la Gare  1030 Bussigny,unknown,unknown
+Morges District,ich_tanke_strom,Les Corbes  1121 Bremblens,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Grand-Rue  1820 Montreux,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue de Genève  1003 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue de la Gare  1033 Cheseaux-sur-Lausanne,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Avenue du Tirage  1009 Pully,unknown,unknown
+Lausanne District,ich_tanke_strom,Avenue Mon-Repos  1005 Lausanne,unknown,unknown
+Nyon District,ich_tanke_strom,Rue Neuve  1260 Nyon,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Avenue Reller  1800 Vevey,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Pré Des Clos  1009 Pully,unknown,unknown
+Aigle District,ich_tanke_strom,Avenue de la Gare  1880 Bex,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Sentier de la Crausaz  1814 La Tour-de-Peilz,unknown,unknown
+Nyon District,ich_tanke_strom,Restoroute La Côte direction Genève  1183 Bursins,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de la Source  1337 Vallorbe,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin des Lentillières  1023 Crissier,unknown,unknown
+Nyon District,ich_tanke_strom,Promenade des Amoureux  1180 Rolle,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Place des Anciens-Fossés  1814 La Tour-de-Peilz,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de la Tournelle  1350 Orbe,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Eterpaz  1337 Vallorbe,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Parking Géopolis  1015 Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Parking Sorge - Parking public  1015 Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Parking Centre  1022 Chavannes-près-Renens,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Parking Chamberonne  1015 Lausanne,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Route d'Entre-les-Eaux  1337 Vallorbe,unknown,unknown
+Aigle District,ich_tanke_strom,Rue du Quai  1844 Villeneuve,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Le Rocher  1348 Le Brassus,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue des Bruyères  1347 Le Sentier,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Chaussée de la Guinguette  1800 Vevey,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Route de France  1348 Le Brassus,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rte de Condémine  1030 Bussigny,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Route du Port  1468 Cheyres,unknown,unknown
+Nyon District,ich_tanke_strom,Place Sy-Vieuxville  1264 Saint-Cergue,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de l'Ancien Stand  1401 Yverdon-les-Bains,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Parking des Oches  1807 Blonay,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue des Artisans  1026 Echandens,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Les Terreaux  1345 Le Lieu,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue Centrale  1341 Le Chenit,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,La Grande Partie  1346 Les Bioux,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Allée de Winterthur  1401 Yverdon-les-Bains,unknown,unknown
+Morges District,ich_tanke_strom,chemin des ancelles  1170 Aubonne,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Sentier Derrière-le-Four  1806 Saint-Légier-La Chiésaz,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Avenue de la Gare  1401 Yverdon-les-Bains,unknown,unknown
+Nyon District,ich_tanke_strom,Parking de Rive  1260 Nyon,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Les Combremonts  1510 Moudon,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue de la Belle-Fontaine  1003 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Place de la Navigation  1006 Lausanne,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rue du Rivage  1095 Lutry,unknown,unknown
+Lausanne District,ich_tanke_strom,Chemin des Croisettes  1066 Epalinges,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route des Châtaigniers  1816 Chailly-Montreux,unknown,unknown
+Nyon District,ich_tanke_strom,Rue de Rive  1260 Nyon,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route de Saint-Maurice  1814 La Tour-de-Peilz,unknown,unknown
+Nyon District,ich_tanke_strom,Parking Petit Perdtemps  1260 Nyon,unknown,unknown
+Aigle District,ich_tanke_strom,Place de Barboleuse  1882 Gryon,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de Faraz  1031 Mex,unknown,unknown
+Lausanne District,ich_tanke_strom,Rte des Martines  1052 Le Mont-sur-Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Chemin des Grandes Isles  1865 Les Diablerets,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de l'Orbe  1347 Le Sentier,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rue Aimé-Steinlen  1800 Vevey,unknown,unknown
+Morges District,ich_tanke_strom,Route de Dizy  1304 Cossonay-Ville,unknown,unknown
+Morges District,ich_tanke_strom,Place de l'Eglise  1110 Morges,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Place du Village  1080 Les Cullayes,unknown,unknown
+Morges District,ich_tanke_strom,Route de Gimel  1174 Montherod,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Chemin du Suchet  1350 Orbe,unknown,unknown
+Aigle District,ich_tanke_strom,Route de l'Alpe des Chaux  1882 Gryon,unknown,unknown
+Lausanne District,ich_tanke_strom,Avenue Louis-Ruchonnet  1003 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue Saint-Martin  1003 Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Place Alphonse Mex  1860 Aigle,unknown,unknown
+Nyon District,ich_tanke_strom,Chemin de Montoly  1196 Gland,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de la Gare  1342 Le Pont,unknown,unknown
+Lausanne District,ich_tanke_strom,Chemin de Mornex  1003 Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Place de l'Eglise  1869 Massongex,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Champ-Aux-Roses  1338 Ballaigues,unknown,unknown
+Nyon District,ich_tanke_strom,Route du Rionzier  1173 Féchy,unknown,unknown
+Aigle District,ich_tanke_strom,Chemin du Pré-Neuf  1844 Villeneuve,unknown,unknown
+Lausanne District,ich_tanke_strom,En Fezelin  1032 Romanel-sur-Lausanne,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,En Chamard  1442 Montagny-près-Yverdon,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Chemin du Pré Neuf  1400 Yverdon-les-Bains,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue du Bugnon  1005 Lausanne,unknown,unknown
+Morges District,ich_tanke_strom,Avenue de Riond-Bosson  1110 Morges,unknown,unknown
+Morges District,ich_tanke_strom,Chemin des Assenges  1142 Pampigny,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route du Pillon  1865 Les Diablerets,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue de la Mèbre  1020 Renens,unknown,unknown
+Lausanne District,ich_tanke_strom,Avenue Bergières  1004 Lausanne,unknown,unknown
+Nyon District,ich_tanke_strom,Route du Signal  1172 Bougy-Villars,unknown,unknown
+Nyon District,ich_tanke_strom,En Fléchère  1274 Signy-Avenex,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Route des Condémines  1030 Bussigny,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Innovation Park  1015 Lausanne,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Grand-Rue  1814 La Tour-de-Peilz,unknown,unknown
+Lausanne District,ich_tanke_strom,Route du Jorat  1000 Lausanne,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte de Lausanne  1096 Cully,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue des Moulins  1401 Yverdon-les-Bains,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Chemin de Coudrex  1422 Grandson,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue de l'Industrie  1030 Bussigny,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Route de Lausanne  1040 Echallens,unknown,unknown
+Nyon District,ich_tanke_strom,Rue Juste-Olivier  1260 Nyon,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rte de Fenil  1809 Fenil-sur-Corsier,unknown,unknown
+Aigle District,ich_tanke_strom,Place Hôtel de Ville Route de Villars  1867 Ollon,unknown,unknown
+Nyon District,ich_tanke_strom,Route du Village  1195 Bursinel,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue du Grand-Chêne  1003 Lausanne,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue Galilée  1400 Yverdon-les-Bains,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Route de Moudon  1072 Forel (Lavaux),unknown,unknown
+Morges District,ich_tanke_strom,Rte du chêne  1145 Bière,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Centre  1023 Crissier,unknown,unknown
+Lausanne District,ich_tanke_strom,Chemin de Maillefer  1052 Le Mont-sur-Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Place de la Gare  1884 Villars-sur-Ollon,unknown,unknown
+Lausanne District,ich_tanke_strom,Place du Port  1006 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Chemin du Beau Rivage  1006 Lausanne,unknown,unknown
+Nyon District,ich_tanke_strom,Chemin de la Crétaux  1196 Gland,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Parking Sorge - Parking abonnés  1015 Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Chemin sous le Grand Pré  1860 Aigle,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de Closalet  1023 Crissier,unknown,unknown
+Morges District,ich_tanke_strom,Rue du Sablon  1110 Morges,unknown,unknown
+Nyon District,ich_tanke_strom,Route de la Gare  1182 Gilly,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue Louis Favre  1015 Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Route du Col de la Croix  1865 Les Diablerets,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Route de Mouthe  1343 Les Charbonnières,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Route de l'Hôtel de Ville  1344 L'Abbaye,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Grand'Rue  1462 Yvonand,unknown,unknown
+Aigle District,ich_tanke_strom,Chemin des Orlons  1860 Aigle,unknown,unknown
+Nyon District,ich_tanke_strom,Route du Muids  1274 Genolier,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Avenue du Silo  1020 Renens,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Route de Lausanne  1610 Oron-la-Ville,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route de Caux  1823 Glion,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rue des Terreaux  1095 Lutry,unknown,unknown
+Aigle District,ich_tanke_strom,Route du Vieux Séquoia  1847 Rennaz,unknown,unknown
+Lausanne District,ich_tanke_strom,Route de Genève  1033 Cheseaux-sur-Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Route de Praz Véguey  1022 Chavannes-près-Renens,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de Neuchâtel  1400 Yverdon-les-Bains,unknown,unknown
+Nyon District,ich_tanke_strom,Route de Champ-Colin  1260 Nyon,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Avenue du Temple  1020 Renens,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Place du Château  1040 Echallens,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de l'Industrie  1373 Chavornay,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Avenue des Alpes  1820 Montreux,unknown,unknown
+Lausanne District,ich_tanke_strom,Route de la Croix-Blanche  1066 Epalinges,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Chemin de Praz  1424 Champagne,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue de Genève  1004 Lausanne,unknown,unknown
+Morges District,ich_tanke_strom,Place de la Navigation  1110 Morges,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte. de la Corniche  1070 Chexbres,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rue Carlo-Boller  1820 Montreux,unknown,unknown
+Lausanne District,ich_tanke_strom,Place de la Riponne  1002 Lausanne,unknown,unknown
+Nyon District,ich_tanke_strom,Chemin des Fontenailles  1196 Gland,unknown,unknown
+Lausanne District,ich_tanke_strom,Route de Rionzi  1052 Le Mont-sur-Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Avenue J-R. Perronet  1015 Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue Ami Argand  1015 Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin Alan Turing  1015 Lausanne,unknown,unknown
+Nyon District,ich_tanke_strom,Les Terrasses du Léman  1274 Genolier,unknown,unknown
+Lausanne District,ich_tanke_strom,Chemin des Allinges  1006 Lausanne,unknown,unknown
+Morges District,ich_tanke_strom,Rue du Village  1312 Eclépens,unknown,unknown
+Morges District,ich_tanke_strom,Promenade Général Guisan  1110 Morges,unknown,unknown
+Morges District,ich_tanke_strom,Chemin de sous l'Auberge  1174 Montherod,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Avenue Nestlé  1800 Vevey,unknown,unknown
+Nyon District,ich_tanke_strom,Rte de la Chataigneriaz  1297 Founex,unknown,unknown
+Lausanne District,ich_tanke_strom,Chemin du Rionzi  1052 Le Mont-sur-Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de l'Esparcette  1023 Crissier,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Place de la Gare  1510 Moudon,unknown,unknown
+Nyon District,ich_tanke_strom,Av. du Mont-Blanc  1196 Gland,unknown,unknown
+Lausanne District,ich_tanke_strom,Avenue d'Ouchy  1006 Lausanne,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,chemin du clos samuel  1422 Grandson,unknown,unknown
+Lausanne District,ich_tanke_strom,Route de Lausanne  1052 Le Mont-sur-Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Chemin Novassalles  1860 Aigle,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin du Viaduc  1008 Prilly,unknown,unknown
+Morges District,ich_tanke_strom,Le Prieure  1163 Etoy,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rue du Village  1803 Chardonne,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Chemin du Pèlerin  1801 Le Mont Pèlerin,unknown,unknown
+Morges District,ich_tanke_strom,Rue des Chavannes  1034 Cossonay-Ville,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de la Gare  1347 Le Chenit,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Entre Deux Villes  1814 La Tour-de-Peilz,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Chemin de la Mouniaz  1097 Riex,unknown,unknown
+Nyon District,ich_tanke_strom,Route de Clémenty  1260 Nyon,unknown,unknown
+Nyon District,ich_tanke_strom,Chemin de la Bichette  1267 Vich,unknown,unknown
+Morges District,ich_tanke_strom,Ruelle de Carroz  1168 Villars-sous-Yens,unknown,unknown
+Nyon District,ich_tanke_strom,Avenue de la Gare  1180 Rolle,unknown,unknown
+Lausanne District,ich_tanke_strom,Avenue Benjamin-Constant  1003 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Route de Berne  1010 Lausanne,unknown,unknown
+Morges District,ich_tanke_strom,Route d'Apples  1144 Ballens,unknown,unknown
+Morges District,ich_tanke_strom,Rue des Fossé-Dessous  1170 Aubonne,unknown,unknown
+Lausanne District,ich_tanke_strom,Place du Tunnel  1005 Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Allée de Savoie  1015 Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,La Cité  1854 Leysin,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Place du Château  1338 Ballaigues,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue Pestalozzi  1400 Yverdon-les-Bains,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rue du Panorama  1800 Vevey,unknown,unknown
+Lausanne District,ich_tanke_strom,Avenue des Bergières  1004 Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Route du Grand-St-Bernard  1880 Bex,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Route de la Gare  1070 Puidoux,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Avenue de la Vallonnette  1012 Lausanne,unknown,unknown
+Morges District,ich_tanke_strom,Route de l'Industrie  1163 Etoy,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Ch. de La Branche  1073 Mollie-Margot,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de la Gare  1350 Orbe,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte du Port  1009 Pully,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Ch. du Vigny  1096 Cully,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Route du Port  1009 Pully,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rte de la Chaux  1030 Bussigny,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin du Closel  1020 Renens,unknown,unknown
+Lausanne District,ich_tanke_strom,Chemin de la chapelle  1033 Cheseaux sur Lausanne,unknown,unknown
+Morges District,ich_tanke_strom,Rte de Lully  1167 Lussy-sur-Morges,unknown,unknown
+Lausanne District,ich_tanke_strom,Route en Rambuz  1037 Etagnières,unknown,unknown
+Lausanne District,ich_tanke_strom,ch de Maillefer  1052 Le mont sur Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue Ecole de Commerce  1000 Lausanne,unknown,unknown
+Nyon District,ich_tanke_strom,Route De L'Etraz  1267 Vich,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de Plaisance  1400 Yverdon-les-Bains,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Champs Torrens  1400 Yverdon-les-Bains,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Rue de la Poste  1410 Thierrens,unknown,unknown
+Lausanne District,ich_tanke_strom,Chem. Auguste-Pidoux  1000 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Av. Edouard Dapples  1000 Lausanne,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte d'Ouchy  1095 Lutry,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Rue de la Gare  1038 Bercher,unknown,unknown
+Morges District,ich_tanke_strom,Chemin des Prés-Morés  1315 La Sarraz,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Rte de Moudon  1410 Thierrens,unknown,unknown
+Lausanne District,ich_tanke_strom,Route de Genève  1033 Cheseaux sur Lausanne,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,rte de la Conversion  1093 La Conversion,unknown,unknown
+Lausanne District,ich_tanke_strom,-____  1052 Le Mont-sur-Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,evpass  1052 Le Mont-sur-Lausanne,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Avenue Claude Nobs  1820 Montreux,unknown,unknown
+Nyon District,ich_tanke_strom,Rte de l'Etraz  1267 Vich,unknown,unknown
+Aigle District,ich_tanke_strom,Rte industrielle  1880 Bex,unknown,unknown
+Lausanne District,ich_tanke_strom,Grande Chêne  1002 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue du Valentin  1004 Lausanne,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Chemin du Zoo  1077 Servion,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de Longet  1031 Mex,unknown,unknown
+Morges District,ich_tanke_strom,Rue des Fossés  1110 Morges,unknown,unknown
+Nyon District,ich_tanke_strom,Place de la Poste  1188 Saint-George,unknown,unknown
+Nyon District,ich_tanke_strom,Chemin de la laiterie  1172 Bougy-Villars,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rue du Lac  1094 Paudex,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route des Mosses  1660 L'Etivaz,unknown,unknown
+Lausanne District,ich_tanke_strom,Chem. Auguste-Pidou  1000 Lausanne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chem. de Longet  1031 Mex,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue Roger-de-Guimps  1400 Yverdon-les-Bains,unknown,unknown
+Nyon District,ich_tanke_strom,rte de la Tourbière  1267 Coinsins,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Route de la Corniche  1091 Grandvaux,unknown,unknown
+Lausanne District,ich_tanke_strom,Av. de Cour  1007 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Av. de la Chablière  1000 Lausanne,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte de Sous-la-Ville  1070 Puidoux,unknown,unknown
+Morges District,ich_tanke_strom,Route de la Sarraz  1317 Orny,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de la Scierie  1462 Yvonand,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rte des Condémines  1030 Bussigny,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de Mongevon  1023 Crissier,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rue de la Gare  1096 Cully,unknown,unknown
+Aigle District,ich_tanke_strom,Route du Simplon  1845 Noville,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte du Burenoz  1092 Belmont-sur-Lausanne,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Chemin des Petits Champs  1400 Yverdon-les-Bains,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Rte du Vully  1543 Grandcour,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin du Vallon  1030 Bussigny,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Avenue des Trois-Lacs  1400 Yverdon-les-Bains,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rte de Sous-Riette  1023 Crissier,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Route de la Corniche  1098 Epesses,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rte de Châtel-St-Denis  1805 Jongny,unknown,unknown
+Lausanne District,ich_tanke_strom,Av. Mon-Repos  1005 Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Rue Margencel  1860 Aigle,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Avenue de l'Hippodrome  1400 Yverdon-les-Bains,unknown,unknown
+Nyon District,ich_tanke_strom,Rte du Stand  1267 Vich,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rue du Collège  1804 Corsier-sur-Vevey,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue du Pont Neuf  1341 L'Orient,unknown,unknown
+Nyon District,ich_tanke_strom,Rte de St-Cergue  1268 Begnins,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Avenue des Découvertes  1401 Yverdon-les-Bains,unknown,unknown
+Lausanne District,ich_tanke_strom,Rue Centrale 28  1003 Lausanne,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue des Philosophes  1400 Yverdon-les-Bains,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Grand Rue  1660 Château-d'Oex,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue des Grandes Forges  1337 Vallorbe,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Rue de la Creuse  1325 Vaulion,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue de Morges  1023 Crissier,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte de la Conversion  1095 Lutry,unknown,unknown
+Aigle District,ich_tanke_strom,-____  1880 Bex,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rte de Chavannes  1007 Lausanne,unknown,unknown
+Lausanne District,ich_tanke_strom,Chemin des Mésanges  1032 Romanel-sur-Lausanne,unknown,unknown
+Aigle District,ich_tanke_strom,Rte du Village  1847 Rennaz,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Route de Nonfoux  1417 Essertines-sur-Yverdon,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Place de la Gare  1096 Cully,unknown,unknown
+Morges District,ich_tanke_strom,Rue de la Potale  1148 L'Isle,unknown,unknown
+Lausanne District,ich_tanke_strom,Avenue du Grey  1018 Lausanne,unknown,unknown
+Nyon District,ich_tanke_strom,Le Viez  1277 Arnex-sur-Nyon,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte de Verney  1070 Puidoux,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rte de la Maladière  1022 Chavannes,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rue du Boulevard  1071 Chexbres,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Route des Châtaigniers  1355 L'Abergement,unknown,unknown
+Aigle District,ich_tanke_strom,Rte de Massongex  1880 Bex,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Av. des Découvertes Y-Parc  1400 Yverdon-les-Bains,unknown,unknown
+Morges District,ich_tanke_strom,Route d'Allaman  1163 Etoy,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,ZI du Day  1337 Le Day,unknown,unknown
+Nyon District,ich_tanke_strom,Route Blanche  1274 Signy,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Le Bey 21  1400 Yverdon-les-Bains,unknown,unknown
+Nyon District,ich_tanke_strom,Avenue du Mont-Blanc 2  1196 Gland,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rue du Théâtre 9  1820 Montreux,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Rue de la Gare 23  1030 Bussigny VD,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de Villars 20  1030 Bussigny VD,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Aéropole 201  1530 Payerne,unknown,unknown
+Aigle District,ich_tanke_strom,Route des Deux Chênes 11  1847 Rennaz,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Rue de la Gare  1530 Payerne,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Place des Tireurs  1530 Payerne,unknown,unknown
+Nyon District,ich_tanke_strom,La Côte/A1 nord  1183 Bursins,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de Richardaz 1  1031 Mex,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Chemin du Flonzel 59  1093 La Conversion,unknown,unknown
+Aigle District,ich_tanke_strom,Av. du Cloître  1860 Aigle,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Grand Bourgeau 61  2126 Les Verrières,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Route Cantonale 31  1025 Saint-Sulpice,unknown,unknown
+Nyon District,ich_tanke_strom,Route de Duillier 6  1260 Nyon,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Rue de Guillermaux 1-3-5  1530 Payerne,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Avenue Claude Nobs 2  1820 Montreux,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Autoroute du Rhône  1091 Bourg-en-Lavaux,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Chemin de Praz 10  1424 Champagne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin du Closalet 20  1023 Crissier,unknown,unknown
+Lausanne District,ich_tanke_strom,Route de Gratta-Paille 2  1018 Lausanne,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Place du Marché  1800 Vevey,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Impasse de la Plaine 6  1580 Avenches,unknown,unknown
+Nyon District,ich_tanke_strom,Les Champs-Blancs  1279 Chavannes-de-Bogis,unknown,unknown
+Broye-Vully District,ich_tanke_strom,ZI Palaz C 36  1530 Payerne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Route de Cossonay 101  1020 Renens,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Aeropole 131  1530 Payerne,unknown,unknown
+Nyon District,ich_tanke_strom,SOCAR La Cote/A1 Sud  1183 Bursins,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Avenue des Bains 9  1400 Yverdon-les-Bains,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route de Fenil 2  1804 Corsier-sur-Vevey,unknown,unknown
+Nyon District,ich_tanke_strom,Aire de repos la Côte Lac Autoroute A1  1183 Bursins,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Route de Berne 6  1580 Avenches,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Avenue de la Gare 13  1522 Lucens,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Av. des Bains 21  1400 Yverdon-les-Bains,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Rte de la Bitternaz  1562 Corcelles près Payerne,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Route de Reculan 11  1024 Ecublens,unknown,unknown
+Lausanne District,ich_tanke_strom,Route de Berne 144  1010 Lausanne,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Autoroute A1  1372 Bavois,unknown,unknown
+Lausanne District,ich_tanke_strom,Av. de Crousaz 10  Lausanne 1010,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Rte du Village 38  1070 Puidoux,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Route des Alpes 25  1452 Les Rasses,unknown,unknown
+Aigle District,ich_tanke_strom,Av. du Cloitre  1860 Aigle,unknown,unknown
+Morges District,ich_tanke_strom,Chem. des Vergers 1  1026 Denges,unknown,unknown
+Nyon District,ich_tanke_strom,Av. du Mont-Blanc 24  1196 Gland,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Avenue des Baumettes 1  1020 Renens,unknown,unknown
+Aigle District,ich_tanke_strom,Rte de la Résidence 51  1884 Ollon,unknown,unknown
+Lausanne District,ich_tanke_strom,Rte du Grand-Mont 29  1052 Le Mont-sur-Lausanne,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Imp. de Vulliama 2  1489 Murist,unknown,unknown
+Broye-Vully District,ich_tanke_strom,Rte de Neuchâtel 8  1530 Payerne,unknown,unknown
+Lausanne District,ich_tanke_strom,Rte du Grand-Mont 1  1052 Le Mont-sur-Lausanne,unknown,unknown
+Morges District,ich_tanke_strom,Rte de Saint-Fiacre 9  1112 Echichens,unknown,unknown
+Lausanne District,ich_tanke_strom,Chem. du Petit-Flon 27  1052 Le Mont-sur-Lausanne,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route Industrielle 10  1806 Saint-Légier-La Chiésaz,unknown,unknown
+Morges District,ich_tanke_strom,Rue du Village 5  1127 Clarmont,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Chem. du Jura 5  1418 Vuarrens,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Chemin du Champ aux Roses 5 1338 Ballaigues  - -,unknown,unknown
+Nyon District,ich_tanke_strom,Rte de Promenthoux 8  1197 Prangins,unknown,unknown
+Lavaux-Oron District,ich_tanke_strom,Place de la Gare 1  1009 Pully,unknown,unknown
+Ouest Lausannois District,ich_tanke_strom,Chemin de Closalet 19  1023 Crissier,unknown,unknown
+Nyon District,ich_tanke_strom,Rte de Duillier 50  1260 Nyon,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Av. Haldimand 34  1400 Yverdon-les-Bains,unknown,unknown
+Aigle District,ich_tanke_strom,Chem. de la Source 2  1854 Leysin,unknown,unknown
+Morges District,ich_tanke_strom,Avenue de Plan 8  1110 Morges,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Chem. de la Veyre d'en Haut 3a  1806 Saint-Légier-La Chiésaz,unknown,unknown
+Nyon District,ich_tanke_strom,Rte de Champ-Colin 1  1260 Nyon,unknown,unknown
+Gros-de-Vaud District,ich_tanke_strom,Impasse de la Léchière 1  1044 Fey,unknown,unknown
+Jura-Nord vaudois District,ich_tanke_strom,Chem. du Temple 5  1442 Montagny-près-Yverdon,unknown,unknown
+Nyon District,ich_tanke_strom,Route de Champ-Colin 1  1260 Nyon,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Rte Industrielle 10  1806 Saint-Légier-La Chiésaz,unknown,unknown
+Riviera-Pays-d'Enhaut District,ich_tanke_strom,Route de l'Intyamon 332  1669 Montbovon,unknown,unknown
+Morges District,ich_tanke_strom,route des Alpes 6  1123 Aclens,unknown,unknown
+Noville,mercedes_benz,,unknown,"Espace Auto Chablais, succursale de Groupe Leuba SA"
+Lausanne,mercedes_benz,,unknown,"Mon Repos Automobile, succursale de Groupe Leuba SA"
+Payerne,mercedes_benz,,unknown,Liechti Automobiles SA
+Renens VD,mercedes_benz,,unknown,"Garage de l'Etoile, succursale de Groupe Leuba SA"
+Echandens,mercedes_benz,,unknown,LARAG SA Echandens
+Yverdon-les-Bains,mercedes_benz,,unknown,"Garage de la Plaine, succursale de Groupe Leuba SA"
+La Tour-de-Peilz,mercedes_benz,,unknown,"Garage de la Riviera, succursale de Groupe Leuba SA"
+Nyon,mercedes_benz,,unknown,Garage de Nyon - A. et S. Chevalley SA
+Morges,mercedes_benz,,unknown,"Auto-Rives, succursale de Groupe Leuba SA"
+Aigle,mercedes_benz,,unknown,"Inter-Auto, succursale de Groupe Leuba SA"
+Aubonne,nike,,unknown,Nike Factory Store Aubonne
+Etoy,ricoh_europe,,unknown,Ricoh Schweiz AG - Etoy
+MIES,shell,,unknown,SHELL LA BUNA.
+CHAVANNES-DE-BOGIS,shell,,unknown,SHELL CHAVANNES-DE-BOGIS.
+SIGNY CENTRE,shell,,unknown,SHELL SIGNY.
+ETOY,shell,,unknown,MIGROL SERVICE ETOY.
+MORGES,shell,,unknown,MIGROL SERVICE MORGES.
+ECUBLENS,shell,,unknown,SHELL CENTRE COMMERCIAL.
+RENENS,shell,,unknown,MIGROL SERVICE RENENS.
+CRISSIER,shell,,unknown,RESTOSHOP SA
+VILLARS STE CROIX,shell,,unknown,MIGROL SERVICE VILLARS-ST-CROIX
+LAUSANNE,shell,,unknown,SHELL VALMONT.
+PRILLY,shell,,unknown,MIGROL SERVICE PRILLY.
+PULLY,shell,,unknown,SHELL PULLY-PORT.
+ROMANEL-SUR-LAUSANNE,shell,,unknown,REBELLION MOTORS SA
+CHESEAUX-SUR-LAUSANNE,shell,,unknown,SHELL CHESEAUX.
+BAVOIS,shell,,unknown,SHELL BAVOIS-ALPES
+ROPRAZ,shell,,unknown,MOVERI ROPRAZ JURA
+ECHALLENS,shell,,unknown,GARAGE CARROSSERIE.
+VEVEY 1,shell,,unknown,MOVERI VEVEY
+CLARENS,shell,,unknown,MOVERI CLARENS
+YVERDON-LES-BAINS,shell,,unknown,GARAGE BEL-AIR SA
+MONTAGNY-YVERDON,shell,,unknown,MIGROL SERVICE MONTAGNY.
+NOVILLE,shell,,unknown,SHELL VILLENEUVE.
+Lausanne,smart,,unknown,"Mon Repos Automobile, succursale de Groupe Leuba SA"
+Lausanne,starbucks_eu,Rue St Laurent 19 1003 Lausanne,unknown,St. Laurent
+Lausanne,starbucks_eu,Place de St. Francois 2 1003 Lausanne,unknown,St. Francois
+Lausanne,starbucks_eu,Place de la gare 2 1001 Lausanne,unknown,Place de la Gare Lausanne
+Vevey,starbucks_eu,Place de la Gare 4 1800 Vevey,unknown,Place de la Gare Vevey
+Crissier,western_union,,unknown,KIOSQUE DES NOUTES
+Nyon,western_union,,unknown,KIOSQUE DE L ETRAZ

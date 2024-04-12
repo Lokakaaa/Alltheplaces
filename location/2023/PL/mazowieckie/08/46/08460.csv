@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5867,abc_pl,abc,,Sobolew,mazowieckie,,PL,,,,abc,Q11683985
+4271,abc_pl,abc,,Grabniak,mazowieckie,,PL,,,,abc,Q11683985
+GCC01F,paczkomat_inpost_pl,Na stacji paliw Avia,,Gończyce,mazowieckie,,PL,,https://inpost.pl/paczkomat-gonczyce-gcc01f-gonczyce-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+GCC01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Gończyce,mazowieckie,,PL,,https://inpost.pl/paczkomat-gonczyce-gcc01m-gonczyce-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+POP-GNC1,paczkomat_inpost_pl,STACJA PALIW SKR,,Gończyce,mazowieckie,,PL,,https://inpost.pl/paczkomat-gonczyce-pop-gnc1-gonczyce-paczkomaty-mazowieckie,Mo-Sa 06:00-21:00; Su 12:00-16:00,Paczkomat,Q110970254
+POP-SBL2,paczkomat_inpost_pl,UBEZPIECZENIA SOBOLEW,,Sobolew,mazowieckie,,PL,,https://inpost.pl/paczkomat-sobolew-pop-sbl2-kosciuszki-paczkomaty-mazowieckie,Mo-Fr 09:00-17:00; Sa 10:00-14:00,Paczkomat,Q110970254
+SOB01A,paczkomat_inpost_pl,Przy sklepie Stokrotka,,Sobolew,mazowieckie,,PL,,https://inpost.pl/paczkomat-sobolew-sob01a-kosciuszki-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SOB01M,paczkomat_inpost_pl,Market Dino,,Sobolew,mazowieckie,,PL,,https://inpost.pl/paczkomat-sobolew-sob01m-maciejowicka-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+265809,poczta_polska_pl,UP Sobolew,,Sobolew,MAZOWIECKIE,,PL,+48 25 682 50 28,,,Poczta Polska,Q168833
+,visa,,,SOBOLEW,MAZOWIECKIE,,PL,,,,,

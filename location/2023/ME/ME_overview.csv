@@ -1,0 +1,285 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,2
+UNKNOWN,alamo,Tivat,1
+UNKNOWN,alamo,Podgorica,1
+PODGORICA,audi,Podgorica,1
+TIVAT,avis,Tivat,1
+PODGORICA,avis,Podgorica,2
+UNKNOWN,bmw_group,Podgorica,1
+PODGORICA,dan_john,Podgorica,1
+UNKNOWN,dan_john,Budva,1
+UNKNOWN,enterprise,Tivat,1
+UNKNOWN,enterprise,Herceg Novi,3
+UNKNOWN,enterprise,Podgorica,3
+UNKNOWN,ernst_young,Podgorica,1
+UNKNOWN,extreme_intimo,unknown,12
+UNKNOWN,geox,unknown,1
+UNKNOWN,hardrock,Podgorica,1
+01,hugo_boss,Podgorica,1
+UNKNOWN,jasmil,unknown,4
+UNKNOWN,lhw,Reževići,1
+UNKNOWN,lhw,Radovici,1
+UNKNOWN,lukoil,Herceg Novi,1
+PODGORICA,lukoil,Podgorica,2
+BUDVA,lukoil,Budva,1
+ULCINJ,lukoil,Ulcinj,1
+BIJELOPOLJE,lukoil,Bijelo Polje,1
+UNKNOWN,lukoil,Podgorica,1
+OPSTINAKOLASIN,lukoil,Kolasin,1
+UNKNOWN,man_truck_and_bus,Tivat,2
+UNKNOWN,man_truck_and_bus,Danilovgrad,1
+UNKNOWN,marriott,Kolasin,1
+UNKNOWN,moneygram,PODGORICA,42
+UNKNOWN,moneygram,DANILOVGRAD,2
+UNKNOWN,moneygram,TUZI,1
+UNKNOWN,moneygram,KOLASIN,2
+UNKNOWN,moneygram,MANASTIR MORACA,1
+UNKNOWN,moneygram,CETINJE,2
+UNKNOWN,moneygram,GOLUBOVCI,1
+UNKNOWN,moneygram,VIRPAZAR,1
+UNKNOWN,moneygram,NIKSIC,8
+UNKNOWN,moneygram,KOCANI,1
+UNKNOWN,moneygram,KLICEVO,1
+UNKNOWN,moneygram,SPUZ,1
+UNKNOWN,moneygram,MIOLJE POLJE,1
+UNKNOWN,moneygram,GRAHOVO,1
+UNKNOWN,moneygram,BROD,1
+UNKNOWN,moneygram,VRACENOVICI,1
+UNKNOWN,moneygram,VIDROVAN,1
+UNKNOWN,moneygram,PLUZINE,1
+UNKNOWN,moneygram,SAVNIK BB,1
+UNKNOWN,moneygram,BIJELO POLJE,5
+UNKNOWN,moneygram,MOJKOVAC,1
+UNKNOWN,moneygram,BISTRICA,1
+UNKNOWN,moneygram,PLJEVLJA,2
+UNKNOWN,moneygram,TOMASEVO,1
+UNKNOWN,moneygram,PAVINO POLJE,1
+UNKNOWN,moneygram,GRADAC,1
+UNKNOWN,moneygram,SULA,1
+UNKNOWN,moneygram,ODZAK,1
+UNKNOWN,moneygram,ZABLJAK,1
+UNKNOWN,moneygram,KOSANICA,1
+UNKNOWN,moneygram,BERANE,2
+UNKNOWN,moneygram,ZATON,1
+UNKNOWN,moneygram,LOZNA,1
+UNKNOWN,moneygram,ROZAJE,2
+UNKNOWN,moneygram,SKAREPACA,1
+UNKNOWN,moneygram,PETNJICA,1
+UNKNOWN,moneygram,BAC,1
+UNKNOWN,moneygram,BISEVO,1
+UNKNOWN,moneygram,ANDRIJEVICA,1
+UNKNOWN,moneygram,MURINO,1
+UNKNOWN,moneygram,PLAV,1
+UNKNOWN,moneygram,GUSINJE,1
+UNKNOWN,moneygram,PETROVAC,2
+UNKNOWN,moneygram,BUDVA,10
+UNKNOWN,moneygram,STARI GRAD,1
+UNKNOWN,moneygram,SVETI STEFAN,1
+UNKNOWN,moneygram,BECICI,1
+UNKNOWN,moneygram,LASTVA GRBALJSKA,1
+UNKNOWN,moneygram,RADANOVICI,1
+UNKNOWN,moneygram,TIVAT,4
+UNKNOWN,moneygram,RADOVICI,1
+UNKNOWN,moneygram,KOTOR,5
+UNKNOWN,moneygram,DOBROTA 2,1
+UNKNOWN,moneygram,DONJI STOLIV,1
+UNKNOWN,moneygram,PRCANJ,1
+UNKNOWN,moneygram,PERAST,1
+UNKNOWN,moneygram,RISAN,1
+UNKNOWN,moneygram,MORINJ,1
+UNKNOWN,moneygram,HERCEG NOVI,3
+UNKNOWN,moneygram,BAOSICI,1
+UNKNOWN,moneygram,BIJELA,1
+UNKNOWN,moneygram,DJENOVICI BB,1
+UNKNOWN,moneygram,ZELENIKA,1
+UNKNOWN,moneygram,IGALO,3
+UNKNOWN,moneygram,MELJINE,1
+UNKNOWN,moneygram,GAT - V,1
+UNKNOWN,moneygram,BAR,4
+UNKNOWN,moneygram,CELUGA,1
+UNKNOWN,moneygram,SUTOMORE,2
+UNKNOWN,moneygram,PECURICE,1
+UNKNOWN,moneygram,ZUKOTRLICA,1
+UNKNOWN,moneygram,ULCINJ,5
+UNKNOWN,moneygram,VLADIMIR,1
+UNKNOWN,national,Tivat,1
+UNKNOWN,national,Podgorica,1
+UNKNOWN,newyorker,Radanovici,1
+UNKNOWN,newyorker,Podgorica,1
+UNKNOWN,newyorker,Niksic,1
+UNKNOWN,newyorker,Bijelo Polje,1
+UNKNOWN,newyorker,Herceg Novi,1
+UNKNOWN,newyorker,Ulcinj,1
+UNKNOWN,nike,Podgorica,1
+UNKNOWN,ovs,Podgorica,2
+UNKNOWN,ovs,Tivat,1
+UNKNOWN,ovs,Herceg Novi,1
+UNKNOWN,ovs,Cattaro,1
+UNKNOWN,ovs,Budva,1
+UNKNOWN,ovs,Niksic,1
+UNKNOWN,ovs,Bar,1
+UNKNOWN,petrol,CETINJE,1
+UNKNOWN,petrol,KOTOR,1
+UNKNOWN,petrol,PODGORICA,4
+UNKNOWN,petrol,KONTARI,1
+UNKNOWN,petrol,PLJEVLJA,1
+UNKNOWN,petrol,REŽEVIĆI,1
+UNKNOWN,petrol,NIKŠIĆ,1
+UNKNOWN,petrol,ŠUŠANJ,1
+UNKNOWN,petrol,DANILOVGRAD,1
+UNKNOWN,petrol,BAR,1
+UNKNOWN,petrol,SUTORINA,1
+UNKNOWN,petrol,TUZI,1
+UNKNOWN,renault,PODGORICA,2
+UNKNOWN,renault,KOTOR,2
+UNKNOWN,sixt,Tivat,3
+UNKNOWN,sixt,Kotor,1
+UNKNOWN,sixt,"Igalo, Herceg Novi",1
+UNKNOWN,sixt,Podgorica,2
+UNKNOWN,sixt,Herceg Novi,1
+UNKNOWN,sixt,Budva,1
+UNKNOWN,superdry,Podgorica,1
+UNKNOWN,tommy_hilfiger,Podgorica,1
+UNKNOWN,united_colors_of_benetton,BUDVA,1
+UNKNOWN,united_colors_of_benetton,PODGORICA,1
+UNKNOWN,visa,BUDVA,50
+UNKNOWN,visa,HERCEG NOVI,20
+UNKNOWN,visa,PODGORICA,46
+UNKNOWN,visa,NIKSIC,4
+UNKNOWN,visa,KOTOR,18
+UNKNOWN,visa,PLJEVLJA,2
+UNKNOWN,visa,ULCINJ,16
+UNKNOWN,visa,TIVAT,11
+UNKNOWN,visa,BAR,17
+MONTENEGRO,visa,ULCINJ,7
+02_JUG,visa,ULCINJ,2
+02_JUG,visa,BAR,4
+MONTENEGRO,visa,BAR,6
+MONTENEGRO,visa,PETROVAC,3
+02_JUG,visa,BUDVA,5
+UNKNOWN,visa,PETROVAC,2
+MONTENEGRO,visa,BUDVA,11
+MONTENEGRO,visa,TIVAT,6
+MONTENEGRO,visa,IGALO,2
+02_JUG,visa,HERCEG NOVI,4
+MONTENEGRO,visa,HERCEG NOVI,11
+UNKNOWN,visa,IGALO,2
+MONTENEGRO,visa,KOTOR,7
+02_JUG,visa,TIVAT,2
+MONTENEGRO,visa,BIJELA,1
+02_JUG,visa,KOTOR,2
+MONTENEGRO,visa,CETINJE,2
+UNKNOWN,visa,CETINJE,4
+02_JUG,visa,CETINJE,1
+MONTENEGRO,visa,PODGORICA,32
+01_PODGORICA,visa,PODGORICA,26
+01_PODGORICA,visa,SPUZ,1
+UNKNOWN,visa,DANILOVGRAD,2
+MONTENEGRO,visa,DANILOVGRAD,2
+01_PODGORICA,visa,DANILOVGRAD,1
+MONTENEGRO,visa,NIKSIC,7
+03_SJEVER,visa,NIKSIC,3
+UNKNOWN,visa,NIKŠIĆ,2
+MONTENEGRO,visa,ROZAJE,2
+03_SJEVER,visa,PLAV,1
+MONTENEGRO,visa,GUSINJE,1
+03_SJEVER,visa,GUSINJE,1
+MONTENEGRO,visa,PLAV,1
+UNKNOWN,visa,KOLAŠIN,1
+03_SJEVER,visa,KOLASIN,2
+03_SJEVER,visa,ANDRIJEVICA,1
+MONTENEGRO,visa,ANDRIJEVICA,1
+MONTENEGRO,visa,PLUZINE,1
+03_SJEVER,visa,PLUZINE,1
+UNKNOWN,visa,ŽABLJAK,2
+MONTENEGRO,visa,BERANE,3
+UNKNOWN,visa,BERANE,2
+03_SJEVER,visa,BERANE,1
+MONTENEGRO,visa,MOJKOVAC,1
+03_SJEVER,visa,MOJKOVAC,1
+UNKNOWN,visa,MOJKOVAC,1
+MONTENEGRO,visa,ZABLJAK,1
+UNKNOWN,visa,ZABLJAK,1
+03_SJEVER,visa,ZABLJAK,1
+03_SJEVER,visa,PETNJICA,1
+UNKNOWN,visa,ROZAJE,1
+03_SJEVER,visa,ROZAJE,1
+MONTENEGRO,visa,BIJELO POLJE,2
+UNKNOWN,visa,BIJELO POLJE,3
+03_SJEVER,visa,BIJELO POLJE,1
+MONTENEGRO,visa,PLJEVLJA,2
+03_SJEVER,visa,PLJEVLJA,1
+UNKNOWN,western_union,Tivat,9
+UNKNOWN,western_union,Donja Lastva,1
+MONTENEGRO,western_union,Tivat,4
+UNKNOWN,western_union,Stoliv,1
+UNKNOWN,western_union,Risan,1
+UNKNOWN,western_union,Baosici,1
+UNKNOWN,western_union,Perast,1
+UNKNOWN,western_union,Herceg Novi,8
+UNKNOWN,western_union,Djenovici,1
+UNKNOWN,western_union,Bijela,1
+MONTENEGRO,western_union,Herceg Novi,3
+UNKNOWN,western_union,Niksic,13
+UNKNOWN,western_union,Morinj,1
+UNKNOWN,western_union,Klicevo,1
+UNKNOWN,western_union,Zelenika,1
+UNKNOWN,western_union,Savnik,2
+UNKNOWN,western_union,Meljine,1
+MONTENEGRO,western_union,Niksic,2
+MONTENEGRO,western_union,Podi,1
+UNKNOWN,western_union,Pljevlja,4
+UNKNOWN,western_union,Vidrovan,1
+UNKNOWN,western_union,Igalo,2
+MONTENEGRO,western_union,Igalo,1
+UNKNOWN,western_union,Zabljak,3
+UNKNOWN,western_union,Pluzine,2
+MONTENEGRO,western_union,Rasovo,1
+MONTENEGRO,western_union,Bijelo Polje,1
+UNKNOWN,western_union,Bijelo Polje,5
+UNKNOWN,western_union,Zaton,1
+UNKNOWN,western_union,Bisevo,1
+UNKNOWN,western_union,Bac,1
+UNKNOWN,western_union,Petnjica,1
+UNKNOWN,western_union,Mojkovac,3
+UNKNOWN,western_union,Rozaje,4
+UNKNOWN,western_union,Berane,6
+MONTENEGRO,western_union,Kolasin,1
+UNKNOWN,western_union,Kolasin,3
+UNKNOWN,western_union,Andrijevica,2
+UNKNOWN,western_union,Miolje Polje,1
+MONTENEGRO,western_union,Plav,1
+UNKNOWN,western_union,Plav,2
+UNKNOWN,western_union,Spuz,1
+UNKNOWN,western_union,Gusinje,1
+UNKNOWN,western_union,Kotor,7
+UNKNOWN,western_union,Danilovgrad,3
+UNKNOWN,western_union,Podgorica,50
+MONTENEGRO,western_union,Kotor,2
+MONTENEGRO,western_union,Podgorica,19
+UNKNOWN,western_union,Dobrota,1
+UNKNOWN,western_union,Prcanj Bb,1
+UNKNOWN,western_union,Cetinje,4
+MONTENEGRO,western_union,Cetinje,1
+MONTENEGRO,western_union,Radanovici,1
+UNKNOWN,western_union,Radanovici,1
+UNKNOWN,western_union,Radovici,1
+UNKNOWN,western_union,Tuzi,2
+MONTENEGRO,western_union,Tuzi,1
+UNKNOWN,western_union,Budva,13
+UNKNOWN,western_union,Golubovci,2
+UNKNOWN,western_union,Lastva Grbaljska,1
+UNKNOWN,western_union,Sveti Stefan,1
+UNKNOWN,western_union,Przno,1
+UNKNOWN,western_union,Petrovac Na Moru,1
+UNKNOWN,western_union,Virpazar,1
+MONTENEGRO,western_union,Budva,5
+UNKNOWN,western_union,Sutomore,2
+UNKNOWN,western_union,Ostros,1
+MONTENEGRO,western_union,Bar,5
+UNKNOWN,western_union,Bar,12
+MONTENEGRO,western_union,Sutomore,1
+UNKNOWN,western_union,Pecurice,1
+UNKNOWN,western_union,Vladimir,1
+UNKNOWN,western_union,Ulcinj,7
+MONTENEGRO,western_union,Ulcinj,4

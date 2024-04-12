@@ -1,0 +1,2588 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,45
+UNKNOWN,adairs,unknown,7
+AUK,adidas,Auckland,7
+UNKNOWN,adidas,Christchurch,1
+UNKNOWN,adidas,Auckland,2
+UNKNOWN,aje,unknown,2
+UNKNOWN,alamo,Queenstown,1
+UNKNOWN,alamo,Wellington,1
+UNKNOWN,alamo,Christchurch,1
+UNKNOWN,alamo,Auckland,1
+UNKNOWN,alamo,Nelson,1
+UNKNOWN,alamo,Dunedin,1
+CANTERBURY,anytime_fitness,"Cashmere, Christchurch",1
+WAIKATO,anytime_fitness,"Rototuna, Hamilton",1
+AUCKLAND,anytime_fitness,Auckland,14
+HAWKESBAY,anytime_fitness,Hastings,1
+AUCKLAND,anytime_fitness,"Ormiston, Auckland",1
+CANTERBURY,anytime_fitness,"Hornby, Christchurch",1
+WAIKATO,anytime_fitness,Hamilton,1
+BOP,anytime_fitness,Rotorua,1
+GISBORNE,anytime_fitness,Gisborne,1
+TARANAKI,anytime_fitness,New Plymouth,1
+CANTERBURY,anytime_fitness,"Hereford, Christchurch",1
+HAWKESBAY,anytime_fitness,Napier,1
+HAWKESBAY,anytime_fitness,Taradale,1
+AUCKLAND,anytime_fitness,"Botany Downs, Auckland",1
+WELLINGTON,anytime_fitness,Wellington,1
+AUCKLAND,anytime_fitness,"Glendene, Auckland",1
+WAIKATO,anytime_fitness,Taupo,1
+CANTERBURY,anytime_fitness,Christchurch,4
+AUCKLAND,anytime_fitness,"St Lukes, Auckland",1
+CANTERBURY,anytime_fitness,Rangiora,1
+WAIKATO,anytime_fitness,"Avalon, Hamilton",1
+OTAGO,anytime_fitness,Dunedin,3
+AUCKLAND,anytime_fitness,"Highland Park, Auckland",1
+AUCKLAND,anytime_fitness,"Ponsonby, Auckland",1
+AUCKLAND,anytime_fitness,Whangaparaoa,1
+CANTERBURY,anytime_fitness,"Riccarton, Christchurch",1
+AUCKLAND,anytime_fitness,"Browns Bay, Auckland",1
+WAIKATO,anytime_fitness,Cambridge,1
+AUCKLAND,anytime_fitness,"Ellerslie, Auckland",1
+BOP,anytime_fitness,Tauranga,3
+SOUTHISLAND,anytime_fitness,Invercargill,1
+NORTHLAND,anytime_fitness,Whangarei,1
+AUCKLAND,anytime_fitness,"New Lynn, Auckland",1
+AUCKLAND,anytime_fitness,"Pukekohe, Auckland",1
+AUCKLAND,anytime_fitness,"Henderson, Auckland",1
+AUCKLAND,anytime_fitness,"Takanini, Auckland",1
+CANTERBURY,anytime_fitness,"Shirley, Christchurch",1
+WAIKATO,anytime_fitness,"5 Cross Roads, Hamilton",1
+WELLINGTON,audi,Wellington,1
+AUCKLAND,audi,Auckland,2
+WAIKATO,audi,Hamilton,1
+BAYOFPLENTY,audi,Tauranga,1
+NORTHLAND,audi,Whangarei,2
+WAIKATO,audi,Taupo,1
+HAWKESBAY,audi,Napier,1
+TARANAKI,audi,New Plymouth,1
+MANAWATUWANGANUI,audi,Palmerston North,1
+CANTERBURY,audi,Christchurch,1
+OTAGO,audi,Dunedin,1
+OTAGO,audi,Queenstown,1
+AUCKLAND,aurecongroup,Auckland,1
+CANTERBURY,aurecongroup,Christchurch,1
+GISBORNE,aurecongroup,Hamilton,1
+BAYOFPLENTY,aurecongroup,Tauranga,1
+WELLINGTON,aurecongroup,Wellington,1
+NORTHISLAND,avis,Whangarei,1
+NORTHISLAND,avis,Lower Hutt,2
+AIRLINEPASSENGERSONLY,avis,Timaru,1
+SOUTHISLAND,avis,Timaru,1
+NORTHISLAND,avis,Wellington,2
+TEARO,avis,Wellington,2
+NORTHISLAND,avis,Tauranga,2
+NORTHISLAND,avis,Taupo,2
+NORTHISLAND,avis,Rotorua,2
+FRANKTONSOUTHISLAND,avis,Queenstown,2
+SOUTHISLAND,avis,Blenheim,2
+NORTHISLAND,avis,Palmerston North,2
+NORTHISLAND,avis,New Plymouth,2
+SOUTHISLAND,avis,Nelson,2
+NORTHISLAND,avis,Napier,2
+NORTHISLAND,avis,Auckland,7
+ALBANYNORTHISLAND,avis,Auckland,1
+BAYOFISLANDSAIRPORTNORTHISLAND,avis,Kerikeri,1
+SOUTHISLAND,avis,Invercargill,2
+SOUTHISLAND,avis,Greymouth,2
+NORTHISLAND,avis,Hamilton,3
+NORTHISLAND,avis,Gisborne,1
+SOUTHISLAND,avis,Hokitika,2
+AIRLINEPASSENGERSONLYNORTHISLAND,avis,Kerikeri,1
+SOUTHISLAND,avis,Picton,2
+SOUTHISLAND,avis,Queenstown,2
+SOUTHISLAND,avis,Dunedin,2
+SOUTHISLAND,avis,Christchurch,4
+CHRISTCHURCH,avis,Christchurch,1
+97MOTELSOUTHISLAND,avis,Dunedin,1
+AUCKLAND,baby_bunting,Mt Wellington,1
+CHRISTCHURCH,baby_bunting,Addington,1
+AUCKLAND,baby_bunting,Albany,1
+AUCKLAND,baby_bunting,Manukau,1
+UNKNOWN,bakers_delight,Auckland,2
+UNKNOWN,bakers_delight,Tauranga,1
+UNKNOWN,bakers_delight,Hastings,1
+UNKNOWN,bakers_delight,Rotorua,1
+UNKNOWN,bakers_delight,Mt Maunganui,1
+UNKNOWN,bakers_delight,Taupo,1
+UNKNOWN,bakers_delight,Point Chevalier,1
+UNKNOWN,bakers_delight,Royal Oak,1
+UNKNOWN,bakers_delight,Hamilton,1
+UNKNOWN,bakers_delight,Manukau,1
+UNKNOWN,bakers_delight,Papanui,1
+UNKNOWN,bakers_delight,Birkenhead,1
+UNKNOWN,bakers_delight,St Heliers,1
+UNKNOWN,bakers_delight,Howick,1
+UNKNOWN,bakers_delight,Remuera,1
+UNKNOWN,bakers_delight,Milford,1
+UNKNOWN,bakers_delight,New Lynn,1
+UNKNOWN,bed_bath_n_table,unknown,15
+UNKNOWN,bmw_group,Auckland,2
+UNKNOWN,bmw_group,Hamilton,1
+UNKNOWN,bmw_group,Tauranga,1
+UNKNOWN,bmw_group,Queenstown,1
+NEWZEALAND,bmw_group,Wellington,1
+NEWZEALAND,bmw_group,"Kaiwharawhara, Wellington",1
+NEWZEALAND,bmw_group,Newmarket,1
+UNKNOWN,bmw_group,Palmerston North,1
+UNKNOWN,bmw_group,"Mount Maunganui, Tauranga",1
+NEWZEALAND,bmw_group,Auckland,1
+UNKNOWN,bmw_group,"Waikato, Hamilton",1
+NEWZEALAND,bmw_group,Christchurch,1
+NEWZEALAND,bmw_group,Dunedin,1
+UNKNOWN,bmw_group,Christchurch,1
+UNKNOWN,bmw_group,Newmarket,1
+UNKNOWN,bmw_group,Hastings,1
+UNKNOWN,bmw_group,Dunedin,1
+UNKNOWN,bmw_group,"Kingsland, Auckland",1
+AUCKLAND,botteg_aveneta,Auckland,1
+UNKNOWN,bp,Whakatane,1
+UNKNOWN,bp,Kawerau,1
+PONGAKAWA,bp,Te Puke,1
+UNKNOWN,bp,Te Puke,1
+UNKNOWN,bp,Rotorua,2
+WHAKAREWAREWA,bp,Rotorua,1
+FAIRYSPRINGS,bp,Rotorua,1
+PAPAMOA,bp,Tauranga,2
+MTMAUNGANUI,bp,Tauranga,2
+MAUNGATAPU,bp,Tauranga,1
+GATEPA,bp,Tauranga,1
+JUDEA,bp,Tauranga,1
+OTUMOETAI,bp,Tauranga,1
+TAURIKO,bp,Tauranga,2
+BETHLEHEM,bp,Tauranga,1
+UNKNOWN,bp,Te Puna,2
+UNKNOWN,bp,Tokoroa,2
+UNKNOWN,bp,Katikati,1
+UNKNOWN,bp,Putaruru,2
+UNKNOWN,bp,Tirau,1
+UNKNOWN,bp,Wairakei,2
+TAUHARA,bp,Taupo,1
+UNKNOWN,bp,Taupo,1
+GISBORNE,bp,Gisborne,1
+UNKNOWN,bp,Gisborne,1
+UNKNOWN,bp,Waihi,1
+KAITI,bp,Gisborne,1
+UNKNOWN,bp,Morrinsville,1
+LEAMINGTON,bp,Cambridge,2
+GLENVIEW,bp,Hamilton,1
+UNKNOWN,bp,Turangi,1
+UNKNOWN,bp,Thames,1
+BAYVIEW,bp,Napier,2
+UNKNOWN,bp,Napier,1
+GREENMEADOWS,bp,Napier,1
+UNKNOWN,bp,Clive,1
+UNKNOWN,bp,Hastings,1
+STLEONARDS,bp,Hastings,1
+SAINTLEONARDS,bp,Hastings,1
+UNKNOWN,bp,Havelock North,1
+UNKNOWN,bp,Nelson,1
+PORTNELSON,bp,Nelson,1
+RICHMOND,bp,Nelson,1
+UNKNOWN,bp,Motueka,1
+UNKNOWN,bp,Takaka,1
+UNKNOWN,bp,Blenheim,2
+KARORI,bp,Wellington,1
+BROOKLYN,bp,Wellington,1
+BERHAMPORE,bp,Wellington,1
+NEWTOWN,bp,Wellington,1
+TEARO,bp,Wellington,1
+JOHNSONVILLE,bp,Wellington,1
+NEWLANDS,bp,Wellington,1
+UNKNOWN,bp,Kaikoura,2
+TAWA,bp,Wellington,1
+UNKNOWN,bp,Wellington,1
+GRENADANORTH,bp,Wellington,1
+PORIRUA,bp,Wellington,2
+UNKNOWN,bp,Porirua,1
+MANA,bp,Porirua,1
+ALICETOWN,bp,Wellington,1
+SEAVIEW,bp,Wellington,1
+WAIWHETU,bp,Wellington,1
+LOWERHUTT,bp,Wellington,1
+UNKNOWN,bp,Wainuiomata,1
+TAITA,bp,Wellington,1
+UNKNOWN,bp,Westport,1
+UNKNOWN,bp,Paraparaumu,2
+UNKNOWN,bp,Upper Hutt,1
+OTAKI,bp,Otaki,1
+UNKNOWN,bp,Levin,1
+HOROWHENUA,bp,Levin,1
+UNKNOWN,bp,Martinborough,1
+UNKNOWN,bp,Whanganui,1
+SPRINGVALE,bp,Whanganui,1
+WHANGANUICENTRAL,bp,Whanganui,1
+ELTHAM,bp,Taranaki,1
+RAVENSWOOD,bp,North Canterbury,1
+WAIMAKARIRI,bp,Rangiora,2
+UNKNOWN,bp,Oakura,1
+UNKNOWN,bp,Inglewood,1
+MARSHLAND,bp,Christchurch,1
+NEWBRIGHTON,bp,Christchurch,1
+BISHOPDALE,bp,Christchurch,1
+MAIREHAU,bp,Christchurch,1
+MANGERE,bp,Auckland,3
+ONEHUNGA,bp,Auckland,2
+HILLSBOROUGH,bp,Auckland,1
+PAPATOETOE,bp,Auckland,1
+MTROSKILL,bp,Auckland,1
+ELLERSLIE,bp,Auckland,1
+EPSOM,bp,Auckland,1
+THREEKINGS,bp,Auckland,1
+GREENLANE,bp,Auckland,2
+MANUKAU,bp,Auckland,2
+MTWELLINGTON,bp,Auckland,1
+WIRI,bp,Auckland,1
+HIGHBROOK,bp,Auckland,1
+REMUERA,bp,Auckland,1
+NEWMARKET,bp,Auckland,1
+EASTTAMAKI,bp,Auckland,1
+MTALBERT,bp,Auckland,1
+NEWLYNN,bp,Auckland,2
+PAKURANGA,bp,Auckland,1
+FLATBUSH,bp,Auckland,1
+MANUREWA,bp,Auckland,1
+NORTHPARK,bp,Auckland,1
+WATERVIEW,bp,Auckland,1
+AUCKLANDCENTRAL,bp,Auckland,1
+PONSONBY,bp,Auckland,1
+HERNEBAY,bp,Auckland,1
+HOWICK,bp,Auckland,1
+GLENEDEN,bp,Auckland,1
+AVONDALE,bp,Auckland,1
+TAKANINI,bp,Auckland,2
+GLENDENE,bp,Auckland,1
+WHITFORD,bp,Auckland,1
+HENDERSON,bp,Auckland,3
+NORTHCOTE,bp,Auckland,3
+HAURAKI,bp,Auckland,1
+BIRKENHEAD,bp,Auckland,1
+OPAHEKE,bp,Auckland,1
+TAKAPUNA,bp,Auckland,2
+UNKNOWN,bp,Taihape,1
+UNKNOWN,bp,Waiouru,1
+UNKNOWN,bp,Hunterville,1
+UNKNOWN,bp,Ohakune,1
+UNKNOWN,bp,Feilding,2
+UNKNOWN,bp,Dannevirke,2
+UNKNOWN,bp,Bulls,1
+BULLS,bp,Bulls,1
+UNKNOWN,bp,Waipawa,2
+UNKNOWN,bp,Palmerston North,2
+PALMERSTONNORTHCENTRAL,bp,Palmerston North,1
+TAKARO,bp,Palmerston North,1
+UNKNOWN,bp,Pahiatua,1
+UNKNOWN,bp,Taumarunui,1
+UNKNOWN,bp,Masterton,2
+UNKNOWN,bp,Te Kuiti,2
+HAREWOOD,bp,Christchurch,2
+ILAM,bp,Christchurch,2
+PAPANUI,bp,Christchurch,1
+UPPERRICCARTON,bp,Christchurch,1
+HORNBY,bp,Christchurch,2
+SOCKBURN,bp,Christchurch,1
+STALBANS,bp,Christchurch,1
+CHRISTCHURCHCENTRAL,bp,Christchurch,1
+HALSWELL,bp,Christchurch,1
+HOONHAY,bp,Christchurch,1
+LINWOOD,bp,Christchurch,1
+BROMLEY,bp,Christchurch,1
+WESTMELTON,bp,Christchurch,1
+REDCLIFFS,bp,Christchurch,1
+ROLLESTON,bp,Christchurch,2
+UNKNOWN,bp,Ashburton,2
+WASHDYKE,bp,Timaru,1
+WAIMATAITAI,bp,Timaru,1
+HIGHFIELD,bp,Timaru,1
+HOKITIKA,bp,Hokitika,1
+UNKNOWN,bp,Hokitika,1
+UNKNOWN,bp,Fairlie,1
+UNKNOWN,bp,Greymouth,1
+UNKNOWN,bp,Oamaru,2
+HAMILTONCENTRAL,bp,Hamilton,2
+FRANKTON,bp,Hamilton,1
+UNKNOWN,bp,Hamilton,1
+ROTOTUNA,bp,Hamilton,1
+HOROTIU,bp,Waikato,1
+UNKNOWN,bp,Ngarauwahia,2
+UNKNOWN,bp,Taupiri,2
+UNKNOWN,bp,Raglan,1
+BOMBAY,bp,Auckland,2
+PUKEKOHE,bp,Auckland,1
+PAPAKURA,bp,Auckland,2
+PORTWHANGAREI,bp,Whangarei,1
+PARAHAKI,bp,Whangarei,1
+WOODHILL,bp,Whangarei,1
+WHANGAREI,bp,Whangarei,1
+UNKNOWN,bp,Whakapara,1
+UNKNOWN,bp,Dargaville,1
+UNKNOWN,bp,Moerewa,2
+UNKNOWN,bp,Kerikeri,1
+UNKNOWN,bp,Waipapa,1
+COLLEGEESTATE,bp,Warkworth,1
+UNKNOWN,bp,Kaeo,1
+OREWA,bp,Auckland,1
+MILLWATER,bp,Auckland,1
+SILVERDALE,bp,Auckland,1
+STANMOREBAY,bp,Auckland,1
+DAIRYFLAT,bp,Auckland,1
+NORTHHARBOUR,bp,Auckland,1
+ALBANY,bp,Auckland,1
+ROSEDALE,bp,Auckland,1
+KUMEU,bp,Auckland,1
+GLENFIELD,bp,Auckland,1
+WHENUAPAI,bp,Auckland,1
+HOBSONVILLE,bp,Auckland,1
+UNKNOWN,bp,Balclutha,1
+UNKNOWN,bp,Gore,1
+MOSGIEL,bp,Dunedin,1
+MORNINGTON,bp,Dunedin,1
+UNKNOWN,bp,Dunedin,1
+MUSSELBURGH,bp,Dunedin,1
+DUNEDINCENTRAL,bp,Dunedin,2
+HAWTHORNDALE,bp,Invercargill,1
+PRESTONVILLE,bp,Invercargill,1
+UNKNOWN,bp,Invercargill,1
+UNKNOWN,bp,Cromwell,2
+FRANKTON,bp,Queenstown,1
+UNKNOWN,bp,Queenstown,1
+UNKNOWN,bp,Wanaka,1
+UNKNOWN,bp,Coromandel,1
+UNKNOWN,bp,Whitianga,1
+ONEROA,bp,Waiheke Island,1
+UNKNOWN,bp,Waitara,1
+UNKNOWN,bp,New Plymouth,1
+BELLBLOCK,bp,New Plymouth,1
+MOTUROA,bp,New Plymouth,1
+AWANUI,bp,Kaitaia,1
+UNKNOWN,bp,Kaitaia,2
+UNKNOWN,bridgestone_select,unknown,97
+UNKNOWN,bridgestone_select,Wainuiomata,1
+UNKNOWN,bridgestone_select,Thorndon,1
+UNKNOWN,bridgestone_select,Tawa,1
+UNKNOWN,bridgestone_select,Porirua City Centre,1
+UNKNOWN,bridgestone_select,Mount Cook,2
+UNKNOWN,bridgestone_select,Miramar,1
+UNKNOWN,bridgestone_select,Johnsonville,1
+UNKNOWN,bridgestone_select,Te Rapa,2
+UNKNOWN,bridgestone_select,Hillcrest,2
+UNKNOWN,bridgestone_select,Hamilton Central,2
+UNKNOWN,bridgestone_select,Stoke,2
+UNKNOWN,bridgestone_select,Gladstone,1
+UNKNOWN,bridgestone_select,Kenmure,1
+UNKNOWN,bridgestone_select,Frankton,1
+UNKNOWN,bridgestone_select,South Dunedin,1
+UNKNOWN,bridgestone_select,Port Whangarei,1
+UNKNOWN,bridgestone_select,Mayfield,1
+UNKNOWN,bridgestone_select,Castlecliff,1
+UNKNOWN,bridgestone_select,Napier South,1
+UNKNOWN,bridgestone_select,Pandora,1
+UNKNOWN,bridgestone_select,Saint Leonards,1
+UNKNOWN,bridgestone_select,Awapuni,1
+UNKNOWN,bridgestone_select,Washdyke,1
+UNKNOWN,bridgestone_select,Burnside,1
+UNKNOWN,bridgestone_select,Parkside,1
+UNKNOWN,bridgestone_select,Shirley,1
+UNKNOWN,bridgestone_select,Redwood,1
+UNKNOWN,bridgestone_select,Northwood,1
+UNKNOWN,bridgestone_select,Hornby South,1
+UNKNOWN,bridgestone_select,Halswell,1
+UNKNOWN,bridgestone_select,Ferrymead,1
+UNKNOWN,bridgestone_select,Christchurch Central,1
+UNKNOWN,bridgestone_select,Sockburn,1
+UNKNOWN,bridgestone_select,Riccarton,1
+UNKNOWN,bridgestone_select,Addington,1
+UNKNOWN,bridgestone_select,Hornby,1
+UNKNOWN,bridgestone_select,Tauranga South,1
+UNKNOWN,bridgestone_select,Ngapuna,1
+UNKNOWN,bridgestone_select,Papamoa Beach,1
+UNKNOWN,bridgestone_select,Mount Maunganui,1
+UNKNOWN,bridgestone_select,Mangakakahi,1
+UNKNOWN,bridgestone_select,Wiri,1
+UNKNOWN,bridgestone_select,Wairau Valley,2
+UNKNOWN,bridgestone_select,Mount Albert,1
+UNKNOWN,bridgestone_select,Pakuranga Heights,1
+UNKNOWN,bridgestone_select,Otahuhu,1
+UNKNOWN,bridgestone_select,New Lynn,1
+UNKNOWN,bridgestone_select,Henderson,1
+UNKNOWN,bridgestone_select,Greenlane,1
+UNKNOWN,bridgestone_select,Glen Innes,1
+UNKNOWN,bridgestone_select,Glen Eden,1
+UNKNOWN,bridgestone_select,East Tamaki,1
+UNKNOWN,bridgestone_select,Huntington Park,1
+UNKNOWN,bridgestone_select,Browns Bay,1
+UNKNOWN,bridgestone_select,Botany,1
+UNKNOWN,bridgestone_select,Avondale,1
+UNKNOWN,bridgestone_select,Albany,1
+UNKNOWN,bridgestone_select,Rosedale,1
+UNKNOWN,bridgestone_select,Onehunga,1
+UNKNOWN,bridgestone_select,Mt Roskill,1
+UNKNOWN,bridgestone_select,Manukau,1
+UNKNOWN,bridgestone_select,Howick,1
+UNKNOWN,bridgestone_select,Auckland Airport,1
+AUK,carla_zampatti,Ponsonby,1
+UNKNOWN,carpet_court_nz,Invercargill,1
+UNKNOWN,carpet_court_nz,Gore,1
+UNKNOWN,carpet_court_nz,South Dunedin,1
+UNKNOWN,carpet_court_nz,Dunedin,1
+UNKNOWN,carpet_court_nz,Alexandra,1
+UNKNOWN,carpet_court_nz,Queenstown,1
+UNKNOWN,carpet_court_nz,Cromwell,1
+UNKNOWN,carpet_court_nz,Oamaru,1
+UNKNOWN,carpet_court_nz,Wanaka,1
+UNKNOWN,carpet_court_nz,Timaru,2
+UNKNOWN,carpet_court_nz,Ashburton,1
+UNKNOWN,carpet_court_nz,Christchurch,3
+UNKNOWN,carpet_court_nz,Rangiora,1
+UNKNOWN,carpet_court_nz,Hokitika,1
+UNKNOWN,carpet_court_nz,Greymouth,1
+UNKNOWN,carpet_court_nz,Blenheim,1
+UNKNOWN,carpet_court_nz,Nelson,1
+UNKNOWN,carpet_court_nz,Wellington,1
+UNKNOWN,carpet_court_nz,Lower Hutt,1
+UNKNOWN,carpet_court_nz,Porirua,1
+UNKNOWN,carpet_court_nz,Upper Hutt,1
+UNKNOWN,carpet_court_nz,Paraparaumu,1
+UNKNOWN,carpet_court_nz,Masterton,1
+UNKNOWN,carpet_court_nz,Waikanae,1
+UNKNOWN,carpet_court_nz,Levin,1
+UNKNOWN,carpet_court_nz,Palmerston North,1
+UNKNOWN,carpet_court_nz,Feilding,1
+UNKNOWN,carpet_court_nz,Whanganui,1
+UNKNOWN,carpet_court_nz,Hastings,1
+UNKNOWN,carpet_court_nz,Napier,1
+UNKNOWN,carpet_court_nz,New Plymouth,1
+UNKNOWN,carpet_court_nz,Taupo,1
+UNKNOWN,carpet_court_nz,Gisborne,1
+UNKNOWN,carpet_court_nz,Te Kuiti,1
+UNKNOWN,carpet_court_nz,Rotorua,1
+UNKNOWN,carpet_court_nz,Te Awamutu,1
+UNKNOWN,carpet_court_nz,Cambridge,1
+BAYOFPLENTY,carpet_court_nz,Whakatane,1
+UNKNOWN,carpet_court_nz,Hamilton,1
+UNKNOWN,carpet_court_nz,Matamata,1
+UNKNOWN,carpet_court_nz,Morrinsville,1
+UNKNOWN,carpet_court_nz,Tauranga,2
+UNKNOWN,carpet_court_nz,Auckland,2
+UNKNOWN,carpet_court_nz,Takanini,1
+UNKNOWN,carpet_court_nz,Manukau,1
+UNKNOWN,choices_flooring_nz,unknown,7
+AUK,coach_au_nz,Auckland,3
+UNKNOWN,cue,Auckland,2
+UNKNOWN,cue,"Botany Downs, Auckland",1
+UNKNOWN,cue,Wellington,1
+AUCKLAND,dangerfield,Albany,1
+UNKNOWN,dangerfield,Auckland CBD,1
+UNKNOWN,dangerfield,Riccarton,1
+UNKNOWN,dangerfield,Dunedin Central,1
+UNKNOWN,dangerfield,Ponsonby,1
+UNKNOWN,dangerfield,Mt Wellington,1
+UNKNOWN,dangerfield,Tauranga,1
+UNKNOWN,dangerfield,Wellington Central,1
+UNKNOWN,dangerfield,Newmarket,1
+UNKNOWN,dusk_nz,Manukau City Centre,1
+UNKNOWN,dusk_nz,Massy,1
+UNKNOWN,dusk_nz,Hutt Central,1
+CAN,early_settler,Riccarton,1
+WGN,early_settler,Wellington,1
+AUK,early_settler,Botany Downs,1
+WKO,early_settler,Hamilton,1
+AUK,early_settler,Ponsonby,1
+AUK,early_settler,Wairau Park,1
+OTA,early_settler,Dunedin,1
+AUK,early_settler,Mount Wellington,1
+UNKNOWN,eb_games_nz,unknown,39
+UNKNOWN,ecco,Mangere Auckland NI,1
+UNKNOWN,ecco,MILFORD,1
+UNKNOWN,ecco,Wellington,1
+UNKNOWN,ecco,Newmarket,1
+UNKNOWN,enterprise,Auckland,3
+UNKNOWN,enterprise,Queenstown,1
+UNKNOWN,enterprise,Nelson,1
+UNKNOWN,enterprise,Wellington,1
+UNKNOWN,enterprise,Christchurch,1
+UNKNOWN,enterprise,Dunedin,1
+UNKNOWN,ernst_young,Auckland,1
+UNKNOWN,ernst_young,Christchurch,1
+UNKNOWN,ernst_young,Wellington,1
+UNKNOWN,ernst_young,Tauranga,1
+CHRISTCHURCH,exxonmobil,ST ALBANS,1
+AUCKLAND,exxonmobil,MANUKAU,2
+BAYOFPLENTY,exxonmobil,WHITIANGA,1
+TARANAKI,exxonmobil,PATEA,1
+MANAWATU,exxonmobil,WHANGANUI,1
+WAIKATO,exxonmobil,HAMILTON,6
+AUCKLAND,exxonmobil,EPSOM,1
+TARANAKI,exxonmobil,STRATFORD,1
+CANTERBURY,exxonmobil,TIMARU,1
+CHRISTCHURCH,exxonmobil,ROLLESTON,1
+AUCKLAND,exxonmobil,EAST TAMAKI,3
+NORTHLAND,exxonmobil,KAIKOHE,1
+BAYOFPLENTY,exxonmobil,OPOTIKI,1
+CHRISTCHURCH,exxonmobil,RICCARTON,1
+CANTERBURY,exxonmobil,TWIZEL,1
+WAIKATO,exxonmobil,MATAMATA,1
+CHRISTCHURCH,exxonmobil,YALDHURST,1
+CHRISTCHURCH,exxonmobil,KAIAPOI,1
+AUCKLAND,exxonmobil,TAKANINI,1
+AUCKLAND,exxonmobil,BLOCKHOUSE BAY,1
+CHRISTCHURCH,exxonmobil,FENDALTON,1
+HAWKESBAY,exxonmobil,WAIPUKURAU,1
+MANAWATU,exxonmobil,PALMERSTON NORTH,2
+MANAWATU,exxonmobil,AWAPUNI,1
+WAIKATO,exxonmobil,CAMBRIDGE,1
+WAIKATO,exxonmobil,MORRINSVILLE,1
+WAIKATO,exxonmobil,OTOROHANGA,1
+AUCKLAND,exxonmobil,PUKEKOHE,2
+WESTCOAST,exxonmobil,REEFTON,1
+BAYOFPLENTY,exxonmobil,ROTORUA,4
+AUCKLAND,exxonmobil,MT ALBERT,1
+AUCKLAND,exxonmobil,MANGERE,2
+AUCKLAND,exxonmobil,MANUREWA,3
+NORTHLAND,exxonmobil,WHANGAREI,3
+HAWKESBAY,exxonmobil,BAY VIEW NAPIER,1
+NORTHLAND,exxonmobil,DARGAVILLE,1
+WESTCOAST,exxonmobil,GREYMOUTH,1
+OTAGO,exxonmobil,QUEENSTOWN,1
+OTAGO,exxonmobil,DUNEDIN,3
+TARANAKI,exxonmobil,NEW PLYMOUTH,1
+NELSON,exxonmobil,STOKE,1
+NELSON,exxonmobil,TAHUNANUI,1
+MARLBOROUGH,exxonmobil,BLENHEIM,1
+AUCKLAND,exxonmobil,MT EDEN,2
+BAYOFPLENTY,exxonmobil,WAIHI,1
+WAIKATO,exxonmobil,KOPU THAMES,1
+AUCKLAND,exxonmobil,KOHIMARAMA,1
+HAWKESBAY,exxonmobil,HASTINGS,1
+AUCKLAND,exxonmobil,WELLSFORD,1
+SOUTHLAND,exxonmobil,INVERCARGILL,3
+WAIKATO,exxonmobil,TAUMARUNUI,1
+AUCKLAND,exxonmobil,ONEHUNGA,1
+AUCKLAND,exxonmobil,PAPATOETOE,2
+WAIKATO,exxonmobil,TE AWAMUTU,1
+AUCKLAND,exxonmobil,MT WELLINGTON,2
+CANTERBURY,exxonmobil,ASHBURTON,1
+MANAWATU,exxonmobil,TAIHAPE,1
+AUCKLAND,exxonmobil,CLENDON PARK,1
+HAWKESBAY,exxonmobil,NAPIER,1
+AUCKLAND,exxonmobil,MT ROSKILL,1
+WELLINGTON,exxonmobil,PARAPARAUMU,1
+WELLINGTON,exxonmobil,KILBIRNIE,1
+MANAWATU,exxonmobil,LEVIN,1
+MANAWATU,exxonmobil,FOXTON,1
+MANAWATU,exxonmobil,BULLS,1
+NORTHLAND,exxonmobil,KAITAIA,1
+HAWKESBAY,exxonmobil,GISBORNE,1
+BAYOFPLENTY,exxonmobil,TAURANGA,3
+AUCKLAND,exxonmobil,OTAHUHU,2
+AUCKLAND,exxonmobil,PARNELL,1
+NELSON,exxonmobil,MURCHISON,1
+HAWKESBAY,exxonmobil,HAVELOCK NORTH,1
+CHRISTCHURCH,exxonmobil,SYDENHAM,1
+AUCKLAND,exxonmobil,AUCKLAND CENTRAL,2
+CHRISTCHURCH,exxonmobil,WIGRAM,1
+WELLINGTON,exxonmobil,JOHNSONVILLE,1
+AUCKLAND,exxonmobil,GLEN EDEN,2
+WAIKATO,exxonmobil,HUNTLY,1
+CHRISTCHURCH,exxonmobil,PAPANUI,1
+WAIRARAPA,exxonmobil,MASTERTON,3
+AUCKLAND,exxonmobil,MAIRANGI BAY,1
+MANAWATU,exxonmobil,TURAKINA,1
+CANTERBURY,exxonmobil,AMBERLEY,1
+AUCKLAND,exxonmobil,ALBANY,1
+AUCKLAND,exxonmobil,REMUERA,1
+AUCKLAND,exxonmobil,TAKAPUNA,1
+CHRISTCHURCH,exxonmobil,ARANUI,1
+WAIKATO,exxonmobil,WAHAROA,1
+AUCKLAND,exxonmobil,BIRKENHEAD,1
+AUCKLAND,exxonmobil,NEW LYNN,1
+AUCKLAND,exxonmobil,SANDRINGHAM,1
+AUCKLAND,exxonmobil,HENDERSON,3
+AUCKLAND,exxonmobil,WARKWORTH,1
+WELLINGTON,exxonmobil,PORIRUA,3
+AUCKLAND,exxonmobil,DRURY,1
+WAIKATO,exxonmobil,TAUPO,3
+AUCKLAND,exxonmobil,WHANGAPARAOA,1
+AUCKLAND,exxonmobil,GLENFIELD,3
+AUCKLAND,exxonmobil,ST. LUKES,1
+CHRISTCHURCH,exxonmobil,CHRISTCHURCH CENTRAL,1
+CHRISTCHURCH,exxonmobil,REDWOOD,1
+AUCKLAND,exxonmobil,MASSEY,2
+SOUTHLAND,exxonmobil,TE ANAU,1
+AUCKLAND,exxonmobil,GLENDENE,1
+OTAGO,exxonmobil,MOSGIEL,1
+WAIKATO,exxonmobil,MERCER,1
+WELLINGTON,exxonmobil,OTAKI,1
+AUCKLAND,exxonmobil,KELSTON,1
+WAIRARAPA,exxonmobil,DANNEVIRKE,1
+WAIRARAPA,exxonmobil,CARTERTON,1
+AUCKLAND,exxonmobil,NORTHCOTE,1
+WELLINGTON,exxonmobil,LOWER HUTT,1
+WELLINGTON,exxonmobil,PETONE,1
+WELLINGTON,exxonmobil,SILVERSTREAM,1
+WELLINGTON,exxonmobil,KARORI,1
+NELSON,exxonmobil,NELSON,1
+WELLINGTON,exxonmobil,WAIKANAE,1
+WAIKATO,exxonmobil,TOKOROA,1
+AUCKLAND,exxonmobil,OTARA,1
+AUCKLAND,exxonmobil,AUCKLAND,1
+AUCKLAND,exxonmobil,GLEN INNES,1
+AUCKLAND,exxonmobil,PAPAKURA,2
+AUCKLAND,exxonmobil,PANMURE,1
+AUCKLAND,exxonmobil,AVONDALE,1
+AUCKLAND,exxonmobil,HIGHLAND PARK,1
+WAIKATO,exxonmobil,THAMES,1
+WAIKATO,exxonmobil,KARAPIRO,1
+CHRISTCHURCH,exxonmobil,ST MARTINS,1
+CANTERBURY,exxonmobil,METHVEN,1
+CANTERBURY,exxonmobil,RAKAIA,1
+WAIRARAPA,exxonmobil,FEATHERSTON,1
+NZWGN,footlocker,Mount Wellington,1
+NZSTL,footlocker,Glenfield,1
+NZNSN,footlocker,Wellington,2
+NZNSN,footlocker,Manukau,1
+NZNSN,footlocker,Auckland,2
+NZNSN,footlocker,Porirua,1
+NZNSN,footlocker,AUCKLAND,2
+NZNSN,footlocker,Hamilton,1
+NZCAN,footlocker,Riccarton,1
+NZAUK,footlocker,New Lynn,1
+NZAUK,footlocker,Henderson,1
+NZAUK,footlocker,EAST TAMAKI,1
+NY,footlocker,New York,16
+UNKNOWN,ford,Auckland,1
+UNKNOWN,ford,Penrose,1
+UNKNOWN,ford,Henderson,1
+UNKNOWN,ford,Whangarei,1
+UNKNOWN,ford,Kerikeri,1
+UNKNOWN,ford,Kaitaia,1
+UNKNOWN,ford,Dargaville,1
+UNKNOWN,ford,Takapuna,1
+UNKNOWN,ford,Silverdale,1
+UNKNOWN,ford,Glenfield,1
+UNKNOWN,ford,Manukau,1
+UNKNOWN,ford,Pukekohe,1
+UNKNOWN,ford,Botany,1
+UNKNOWN,ford,Mangere,1
+UNKNOWN,ford,Takanini,1
+UNKNOWN,ford,Whakatane,1
+UNKNOWN,ford,Rotorua,1
+UNKNOWN,ford,Taupo,1
+UNKNOWN,ford,Mount Maunganui,1
+UNKNOWN,ford,Tauranga City,1
+UNKNOWN,ford,Te Puke,1
+UNKNOWN,ford,Hamilton,1
+UNKNOWN,ford,Matamata,1
+UNKNOWN,ford,Tokoroa,1
+UNKNOWN,ford,Te Awamutu,1
+UNKNOWN,ford,Thames,1
+UNKNOWN,ford,Te Aroha,1
+UNKNOWN,ford,Cambridge,1
+UNKNOWN,ford,Otorohanga,1
+UNKNOWN,ford,Taumarunui,1
+UNKNOWN,ford,New Plymouth,1
+UNKNOWN,ford,Stratford,1
+UNKNOWN,ford,Hawera,1
+UNKNOWN,ford,Eltham,1
+UNKNOWN,ford,Lower Hutt,1
+UNKNOWN,ford,Wellington,1
+UNKNOWN,ford,Porirua,1
+UNKNOWN,ford,Paraparaumu,1
+UNKNOWN,ford,Pipitea,1
+UNKNOWN,ford,Napier,1
+UNKNOWN,ford,Dannevirke,1
+UNKNOWN,ford,Gisborne,1
+UNKNOWN,ford,Hastings,1
+UNKNOWN,ford,Waipukurau,1
+UNKNOWN,ford,Palmerston Nth,1
+UNKNOWN,ford,Feilding,1
+UNKNOWN,ford,Masterton,1
+UNKNOWN,ford,Wanganui,1
+UNKNOWN,ford,Roxburgh,1
+UNKNOWN,ford,Christchurch Sth,1
+UNKNOWN,ford,Rangiora,1
+UNKNOWN,ford,Greymouth,1
+UNKNOWN,ford,Ashburton,1
+UNKNOWN,ford,Christchurch,1
+UNKNOWN,ford,Gore,1
+UNKNOWN,ford,Balclutha,1
+UNKNOWN,ford,Timaru,1
+UNKNOWN,ford,Invercargill,1
+UNKNOWN,ford,Queenstown,1
+UNKNOWN,ford,Wanaka,1
+UNKNOWN,ford,Nelson,1
+UNKNOWN,ford,Dunedin,1
+UNKNOWN,ford,Oamaru,1
+UNKNOWN,ford,Alexandra,1
+UNKNOWN,ford,Blenheim,1
+CHRISTCHURCH,forever_new,Riccarton,1
+WELLINGTON,forever_new,Wellington,1
+HAMILTON,forever_new,Chartwell,1
+AUCKLAND,forever_new,Auckland,2
+AUCKLAND,forever_new,Mt Wellington South,1
+AUCKLAND,forever_new,Newmarket,1
+AUCKLAND,forever_new,Albany,1
+UNKNOWN,freedom_furniture,Auckland,5
+UNKNOWN,freedom_furniture,Hamilton,1
+UNKNOWN,freedom_furniture,Hastings,1
+UNKNOWN,freedom_furniture,Christchurch,1
+UNKNOWN,freedom_furniture,New Plymouth,1
+UNKNOWN,freedom_furniture,Tauranga,1
+UNKNOWN,freedom_furniture,Keri Keri,1
+UNKNOWN,freedom_furniture,Wellington,1
+UNKNOWN,freshchoice_nz,unknown,50
+UNKNOWN,gas_nz,unknown,123
+UNKNOWN,gbfs,unknown,291
+NORTHERN,glassons,Auckland,12
+CENTRAL,glassons,Tauranga,1
+CENTRAL,glassons,Hamilton,3
+CENTRAL,glassons,Wellington,4
+SOUTHERN,glassons,Dunedin,1
+SOUTHERN,glassons,Christchurch,5
+SOUTHERN,glassons,Invercargill,1
+CENTRAL,glassons,Napier,1
+SOUTHERN,glassons,Nelson,1
+CENTRAL,glassons,New Plymouth,1
+CENTRAL,glassons,Palmerston North,1
+SOUTHERN,glassons,Queenstown,1
+CENTRAL,glassons,Rotorua,1
+SOUTHERN,glassons,Timaru,1
+NORTHERN,glassons,Whangarei,1
+WAIKATO,goodyear_autocare_au_nz,WHITIANGA,1
+MANAWATUWANGANUI,goodyear_autocare_au_nz,PALMERSTON NORTH,1
+AUCKLAND,goodyear_autocare_au_nz,Glen Eden,1
+MANAWATUWANGANUI,goodyear_autocare_au_nz,Dannevirke,1
+TARANAKI,goodyear_autocare_au_nz,New Plymouth,2
+GISBORNE,goodyear_autocare_au_nz,Gisborne,1
+OTAGO,goodyear_autocare_au_nz,Alexandra,1
+CANTERBURY,goodyear_autocare_au_nz,Ashburton,1
+CANTERBURY,goodyear_autocare_au_nz,Sydenham,1
+CANTERBURY,goodyear_autocare_au_nz,Twizel,1
+AUCKLAND,goodyear_autocare_au_nz,Waiuku,1
+AUCKLAND,goodyear_autocare_au_nz,Warkworth,1
+HAMILTON,goodyear_autocare_au_nz,Frankton,1
+WELLINGTON,goodyear_autocare_au_nz,"Clouston Park, Upper Hutt",1
+MANAWATU,goodyear_autocare_au_nz,"Palmerston North,",1
+AUCKLAND,goodyear_autocare_au_nz,Mount Roskill,1
+HASTINGS,goodyear_autocare_au_nz,Frimley,1
+WAIKATO,goodyear_autocare_au_nz,Hamilton,1
+AUCKLAND,goodyear_autocare_au_nz,PENROSE,1
+UNKNOWN,goodyear_autocare_au_nz,Waikanae ,1
+WELLINGTON,goodyear_autocare_au_nz,Te Aro,1
+NORTHLAND,goodyear_autocare_au_nz,Kerikeri,1
+UNKNOWN,goodyear_autocare_au_nz,Nelson,1
+WELLINGTON,goodyear_autocare_au_nz,Porirua,1
+MARLBOROUGH,goodyear_autocare_au_nz,Blenheim,1
+OTAGO,goodyear_autocare_au_nz,Central Dunedin,1
+OTAGO,goodyear_autocare_au_nz,Dunedin,1
+CANTERBURY,goodyear_autocare_au_nz,Timaru,1
+AUCKLAND,goodyear_autocare_au_nz,Henderson,1
+HAMILTON,goodyear_autocare_au_nz,Barbush,1
+AUCKLAND,google_offices,Auckland,1
+AUCKLAND,gull_nz,Auckland ,7
+AUCKLAND,gull_nz,Auckland,38
+WAIKATO,gull_nz,South Waikato,1
+CANTERBURY,gull_nz,Christchurch,4
+BAYOFPLENTY,gull_nz,Tauranga,5
+LOWERNORTHISLAND,gull_nz,Masterton ,1
+LOWERNORTHISLAND,gull_nz,Palmerston North,2
+BAYOFPLENTY,gull_nz,Bay of Plenty,4
+BAYOFPLENTY,gull_nz,Rotorua,2
+WAIKATO,gull_nz,Hamilton,4
+LOWERNORTHISLAND,gull_nz,Manawatu,1
+BAYOFPLENTY,gull_nz,Gisborne,1
+LOWERNORTHISLAND,gull_nz,Whanganui,2
+SOUTHLAND,gull_nz,Gore,1
+WAIKATO,gull_nz,Auckland,1
+LOWERNORTHISLAND,gull_nz,Hawera,1
+AUCKLAND,gull_nz,Hunua,1
+NORTHLAND,gull_nz, Kaitaia,1
+NORTHLAND,gull_nz,Kaiwaka,1
+BAYOFPLENTY,gull_nz,Rotorua ,2
+BAYOFPLENTY,gull_nz,Whakatane ,1
+LOWERNORTHISLAND,gull_nz,Levin,1
+OTAGO,gull_nz,Maheno,1
+WAIKATO,gull_nz,Waikato,6
+HAWKESBAY,gull_nz,Hastings,1
+BAYOFPLENTY,gull_nz,Merivale ,1
+TARANAKI,gull_nz,New Plymouth,1
+WAIKATO,gull_nz,Hauraki Plains,1
+WAIKATO,gull_nz,Hamilton ,1
+HAWKESBAY,gull_nz,Hastings ,1
+BAYOFPLENTY,gull_nz,Opotiki,1
+BAYOFPLENTY,gull_nz,Te Puke,1
+BAYOFPLENTY,gull_nz,Papamoa,1
+WAIKATO,gull_nz,Pōkeno,1
+LOWERNORTHISLAND,gull_nz,Sanson,1
+LOWERNORTHISLAND,gull_nz,Upper Hutt,1
+CANTERBURY,gull_nz,Christchurch ,1
+LOWERNORTHISLAND,gull_nz,Taihape,1
+WAIKATO,gull_nz,Coromandel,2
+BAYOFPLENTY,gull_nz,Taneatua,1
+HAWKESBAY,gull_nz,Napier,1
+WAIKATO,gull_nz,Tauranga Taupo Bay,1
+WAIKATO,gull_nz,Te Awamutu,1
+WAIKATO,gull_nz,Te Kuiti,1
+BAYOFPLENTY,gull_nz,Lynmore,1
+BAYOFPLENTY,gull_nz,Bay Of Plenty ,1
+WAIKATO,gull_nz,Tokoroa,1
+WAIKATO,gull_nz,Waihi,1
+LOWERNORTHISLAND,gull_nz,Lower Hutt,2
+NORTHLAND,gull_nz,Northland,1
+HAWKESBAY,gull_nz,Waipukurau,1
+HAWKESBAY,gull_nz,Hawke's Bay,1
+NORTHLAND,gull_nz,Auckland,1
+NORTHLAND,gull_nz,Whangarei,1
+AUCKLAND,gull_nz,Waitakere,1
+WAIKATO,gull_nz,Whitikahu,1
+UNKNOWN,harcourts,Henderson,1
+UNKNOWN,harcourts,Cooks Beach,1
+UNKNOWN,harcourts,Auckland,53
+UNKNOWN,harcourts,Christchurch,34
+UNKNOWN,harcourts,Alexandra,1
+UNKNOWN,harcourts,Ashburton,1
+UNKNOWN,harcourts,Balclutha,1
+UNKNOWN,harcourts,Bay of Islands,1
+UNKNOWN,harcourts,Beachlands,1
+UNKNOWN,harcourts,"Marsden Cove, One Tree Point",1
+UNKNOWN,harcourts,Browns Bay,2
+UNKNOWN,harcourts,Cambridge,1
+UNKNOWN,harcourts,unknown,6
+UNKNOWN,harcourts,Mangonui,1
+UNKNOWN,harcourts,Coromandel,1
+UNKNOWN,harcourts,Cromwell,1
+UNKNOWN,harcourts,Dannevirke,1
+UNKNOWN,harcourts,North Shore City,2
+UNKNOWN,harcourts,Dunedin,1
+UNKNOWN,harcourts,Lower Hutt,3
+UNKNOWN,harcourts,Feilding,1
+UNKNOWN,harcourts,Manukau,1
+UNKNOWN,harcourts,Geraldine,1
+UNKNOWN,harcourts,Gisborne,1
+UNKNOWN,harcourts,Gore,1
+UNKNOWN,harcourts,Greytown,1
+UNKNOWN,harcourts,Hamilton,7
+UNKNOWN,harcourts,Hanmer Springs,1
+UNKNOWN,harcourts,Hastings,1
+UNKNOWN,harcourts,Havelock North,1
+UNKNOWN,harcourts,Hawera,1
+UNKNOWN,harcourts,Hāwera,1
+UNKNOWN,harcourts,Hokitika,1
+UNKNOWN,harcourts,Howick,1
+UNKNOWN,harcourts,Huntly,1
+UNKNOWN,harcourts,Inglewood,1
+UNKNOWN,harcourts,Invercargill,1
+UNKNOWN,harcourts,North Canterbury,1
+UNKNOWN,harcourts,Kaikoura,1
+UNKNOWN,harcourts,Katikati,1
+UNKNOWN,harcourts,Morrinsville,1
+UNKNOWN,harcourts,Wellington,4
+UNKNOWN,harcourts,Kumeū,1
+UNKNOWN,harcourts,Levin,1
+UNKNOWN,harcourts,Lincoln,1
+UNKNOWN,harcourts,Mairangi Bay,1
+UNKNOWN,harcourts,Mangawhai,1
+UNKNOWN,harcourts,Blenheim,1
+UNKNOWN,harcourts,Masterton,1
+UNKNOWN,harcourts,Matamata,1
+UNKNOWN,harcourts,Mt Maunganui,1
+UNKNOWN,harcourts,Mapua,2
+UNKNOWN,harcourts,Napier,2
+UNKNOWN,harcourts,Nelson,2
+UNKNOWN,harcourts,New lynn,1
+UNKNOWN,harcourts,New Plymouth,3
+UNKNOWN,harcourts,Ngaruawahia,1
+UNKNOWN,harcourts,Oamaru,1
+UNKNOWN,harcourts,Opotiki,1
+UNKNOWN,harcourts,Otaki,1
+UNKNOWN,harcourts,Paeroa,1
+UNKNOWN,harcourts,Paihia,1
+UNKNOWN,harcourts,Palmerston North,1
+UNKNOWN,harcourts,Papamoa,1
+UNKNOWN,harcourts,Paraparaumu,1
+UNKNOWN,harcourts,Porirua,2
+UNKNOWN,harcourts,Pauanui,1
+UNKNOWN,harcourts,Prebbleton,1
+UNKNOWN,harcourts,Queenstown,1
+UNKNOWN,harcourts,Rangiora,1
+UNKNOWN,harcourts,Papakura,1
+UNKNOWN,harcourts,CHRISTCHURCH,1
+UNKNOWN,harcourts,Rotorua,1
+UNKNOWN,harcourts,Russell,1
+UNKNOWN,harcourts,Takapuna,2
+UNKNOWN,harcourts,Tairua,1
+UNKNOWN,harcourts,Taumarunui,1
+UNKNOWN,harcourts,Taupo,2
+UNKNOWN,harcourts,Tauranga,4
+UNKNOWN,harcourts,Te Aroha,1
+UNKNOWN,harcourts,AUCKLAND,1
+UNKNOWN,harcourts,Te Awamutu,1
+UNKNOWN,harcourts,Te Kauwhata,1
+UNKNOWN,harcourts,Te Kuiti,1
+UNKNOWN,harcourts,Paremata,1
+UNKNOWN,harcourts,Temuka,1
+UNKNOWN,harcourts,Thames,1
+UNKNOWN,harcourts,Timaru,1
+UNKNOWN,harcourts,Tokoroa,1
+UNKNOWN,harcourts,Turangi,1
+UNKNOWN,harcourts,Upper Hutt,1
+UNKNOWN,harcourts,Waihi,1
+UNKNOWN,harcourts,Waihi Beach,1
+UNKNOWN,harcourts,Waikanae,1
+UNKNOWN,harcourts,Waimate,1
+UNKNOWN,harcourts,Wainuiomata,1
+UNKNOWN,harcourts,Waipu,1
+UNKNOWN,harcourts,Waipukurau,1
+UNKNOWN,harcourts,Waitara,1
+UNKNOWN,harcourts,Wanaka,1
+UNKNOWN,harcourts,Warkworth,1
+UNKNOWN,harcourts,Greymouth,1
+UNKNOWN,harcourts,Whakatane,1
+UNKNOWN,harcourts,Whangamata,1
+UNKNOWN,harcourts,Whanganui,1
+UNKNOWN,harcourts,Whangarei,2
+UNKNOWN,harcourts,Whitianga,2
+UNKNOWN,harcourts,Motueka,1
+UNKNOWN,harcourts,Picton,1
+UNKNOWN,hilton,unknown,2
+NORTHISLAND,hm,Auckland,4
+SOUTHISLAND,hm,Christchurch,2
+NORTHISLAND,hm,Wellington,1
+NORTHISLAND,hm,Tauranga,1
+NORTHISLAND,hm,Hamilton,1
+UNKNOWN,hunting_and_fishing_nz,Ashburton,1
+UNKNOWN,hunting_and_fishing_nz,Botany,1
+UNKNOWN,hunting_and_fishing_nz,Cambridge,1
+UNKNOWN,hunting_and_fishing_nz,Cromwell,1
+UNKNOWN,hunting_and_fishing_nz,Christchurch,1
+UNKNOWN,hunting_and_fishing_nz,Dargaville,1
+UNKNOWN,hunting_and_fishing_nz,Dunedin,1
+UNKNOWN,hunting_and_fishing_nz,Pukekohe,1
+UNKNOWN,hunting_and_fishing_nz,Gisborne,1
+UNKNOWN,hunting_and_fishing_nz,"Petone, Lower Hutt",1
+UNKNOWN,hunting_and_fishing_nz,Invercargill,1
+UNKNOWN,hunting_and_fishing_nz,Kaikoura,1
+UNKNOWN,hunting_and_fishing_nz,Kaitaia,1
+UNKNOWN,hunting_and_fishing_nz,Kerikeri,1
+UNKNOWN,hunting_and_fishing_nz,Palmerston North,1
+UNKNOWN,hunting_and_fishing_nz,Blenheim,1
+UNKNOWN,hunting_and_fishing_nz,Napier,1
+UNKNOWN,hunting_and_fishing_nz,Nelson,1
+UNKNOWN,hunting_and_fishing_nz,Rangiora,1
+UNKNOWN,hunting_and_fishing_nz,Oamaru,1
+UNKNOWN,hunting_and_fishing_nz,Rosedale,1
+UNKNOWN,hunting_and_fishing_nz,Otaki,1
+UNKNOWN,hunting_and_fishing_nz,Frankton,1
+UNKNOWN,hunting_and_fishing_nz,Richmond,1
+UNKNOWN,hunting_and_fishing_nz,Rotorua,1
+UNKNOWN,hunting_and_fishing_nz,New Plymouth,2
+UNKNOWN,hunting_and_fishing_nz,Taupo,1
+UNKNOWN,hunting_and_fishing_nz,Tauranga,1
+UNKNOWN,hunting_and_fishing_nz,Thames,1
+UNKNOWN,hunting_and_fishing_nz,Timaru,1
+UNKNOWN,hunting_and_fishing_nz,Hamilton,1
+UNKNOWN,hunting_and_fishing_nz,Masterton,1
+UNKNOWN,hunting_and_fishing_nz,Wanganui,1
+UNKNOWN,hunting_and_fishing_nz,Warkworth,1
+UNKNOWN,hunting_and_fishing_nz,Massey North,1
+UNKNOWN,hunting_and_fishing_nz,Whakatane,1
+UNKNOWN,hunting_and_fishing_nz,Whangarei,1
+NEWZEALAND,jll,Auckland,3
+NEWZEALAND,jll,Wellington,2
+NEWZEALAND,jll,Christchurch,1
+CANTERBURY,jll,Christchurch City,1
+AUCKLAND,jll,Auckland,6
+WELLINGTON,jll,Wellington City,1
+UNKNOWN,just_cuts,Auckland,2
+UNKNOWN,just_cuts,Rolleston,1
+UNKNOWN,just_cuts,"Takanini, Auckland",1
+UNKNOWN,just_cuts,Invercargill,1
+UNKNOWN,just_cuts,Nelson,1
+UNKNOWN,just_cuts,"Flat Bush, Auckland",1
+UNKNOWN,just_cuts,Newmarket,1
+UNKNOWN,just_cuts,Silverdale,1
+UNKNOWN,just_cuts,Tauranga,1
+UNKNOWN,just_cuts,Pukekohe,1
+UNKNOWN,just_cuts,Queenstown,1
+UNKNOWN,just_cuts,"Shirley, Christchurch",1
+UNKNOWN,just_cuts,Hornby Christchurch,1
+UNKNOWN,just_cuts,"Massey, Auckland",1
+UNKNOWN,just_cuts,Hamilton,1
+UNKNOWN,just_cuts,Bethlehem,1
+UNKNOWN,just_cuts,"Paraparaumu, Kapiti Coast",1
+UNKNOWN,just_cuts,Mount Wellington South,1
+UNKNOWN,just_cuts,"Lower Hutt, Wellington",1
+UNKNOWN,just_cuts,Whanganui,1
+UNKNOWN,just_cuts,"Papanui, Christchurch",1
+UNKNOWN,just_cuts,"Johnsonville, Wellington",1
+UNKNOWN,just_cuts,Mount Maunganui,1
+UNKNOWN,just_cuts,"Chartwell, Hamilton",1
+UNKNOWN,just_cuts,"Riccarton, Christchurch",1
+UNKNOWN,just_cuts,"Glenfield, Auckland",1
+UNKNOWN,just_cuts,"New Lynn, Auckland",1
+UNKNOWN,just_cuts,Palmerston North,1
+UNKNOWN,just_cuts,New Plymouth,1
+UNKNOWN,just_cuts,Dunedin,1
+UNKNOWN,just_cuts,"St Lukes, Mt Albert, Auckland",1
+UNKNOWN,just_group,Albany,6
+UNKNOWN,just_group,Blenheim,1
+UNKNOWN,just_group,East Tamaki,5
+UNKNOWN,just_group,Chartwell,5
+UNKNOWN,just_group,Paraparaumu,1
+UNKNOWN,just_group,Dunedin,5
+UNKNOWN,just_group,Gisborne,1
+UNKNOWN,just_group,Glenfield,1
+UNKNOWN,just_group,Hamilton,6
+UNKNOWN,just_group,Hastings,1
+UNKNOWN,just_group,Henderson,4
+UNKNOWN,just_group,"Hornby, Christchurch",1
+UNKNOWN,just_group,Hornby,1
+UNKNOWN,just_group,Invercargill,1
+UNKNOWN,just_group,Johnsonville,2
+UNKNOWN,just_group,Wellington,3
+UNKNOWN,just_group,Lower Hutt,7
+UNKNOWN,just_group,Christchurch,10
+UNKNOWN,just_group,Manukau City,3
+UNKNOWN,just_group,Manakau,1
+UNKNOWN,just_group,Masterson,1
+UNKNOWN,just_group,Mt Maunganui,7
+UNKNOWN,just_group,Napier,4
+UNKNOWN,just_group,Nelson,6
+UNKNOWN,just_group,New Lynn,2
+UNKNOWN,just_group,New Plymouth,4
+UNKNOWN,just_group,Newmarket,3
+UNKNOWN,just_group,Onehunga,4
+UNKNOWN,just_group,Auckland,3
+UNKNOWN,just_group,Palmerston North,6
+UNKNOWN,just_group,Palmerston,1
+UNKNOWN,just_group,Porirua,2
+UNKNOWN,just_group,Poriura,1
+UNKNOWN,just_group,Queenstown,5
+UNKNOWN,just_group,Riccarton,1
+UNKNOWN,just_group,Richmond,1
+UNKNOWN,just_group,Rotorua,2
+UNKNOWN,just_group,Shirley,3
+UNKNOWN,just_group,Takapuna,4
+UNKNOWN,just_group,St Lukes,6
+UNKNOWN,just_group,Mt Wellington,7
+UNKNOWN,just_group,Taupo,2
+UNKNOWN,just_group,Tauriko,3
+UNKNOWN,just_group,Terapa   Hamilton,2
+UNKNOWN,just_group,Timaru,2
+UNKNOWN,just_group,Whakatane,1
+UNKNOWN,just_group,Whanganui,1
+UNKNOWN,just_group,Whangaparaoa,2
+UNKNOWN,just_group,Whangarei,3
+AUK,kate_spade_au_nz,Auckland,2
+NZ,kennards_self_storage_nz,WELLINGTON,1
+NZ,kennards_self_storage_nz,PALMERSTON NORTH,1
+NZ,kennards_self_storage_nz,"Frimley, Hastings",1
+NZ,kennards_self_storage_nz,ONEKAWA,1
+NZ,kennards_self_storage_nz,NAPIER,1
+NZ,kennards_self_storage_nz,HASTINGS,1
+NZ,kennards_self_storage_nz,TAURANGA,1
+NZ,kennards_self_storage_nz,WAIRAU VALLEY,1
+NZ,kennards_self_storage_nz,THREE KINGS,1
+NZ,kennards_self_storage_nz,MT EDEN,1
+AUK,kookai_nz,Auckland,2
+AUK,kookai_nz,Newmarket,1
+AUK,kookai_nz,Auckland CBD,1
+UNKNOWN,liquorland_nz,unknown,168
+UNKNOWN,lorna_jane,unknown,7
+AUCK,lovisa,Manukau,1
+AUCK,lovisa,Hamilton,3
+AUCK,lovisa,East Tamaki,1
+AUCK,lovisa,Glenfield,1
+AUCK,lovisa,New Plymouth,1
+AUCK,lovisa,Albany,1
+AUCK,lovisa,Mount Albert,1
+WELL,lovisa,Porirua,1
+AUCK,lovisa,New Lynn,1
+CHCH,lovisa,Hornby,1
+WELL,lovisa,Wellington,1
+WELL,lovisa,Lower Hutt,1
+AUCK,lovisa,Mount Wellington,1
+AUCK,lovisa,"Mount Maunganui, Tauranga",1
+CHCH,lovisa,Riccarton,1
+CHCH,lovisa,Dunedin,1
+NI,lovisa,Tauranga,1
+CHCH,lovisa,Papanui,1
+NI,lovisa,Palmerston North,1
+AUCK,lovisa,Newmarket,1
+NZ,lovisa,Riccarton,1
+NZ,lovisa,Auckland,1
+AUK,lovisa,East Tamaki,1
+NI,lovisa,Whangarei,1
+AUCK,lovisa,Invercargill Central,1
+SHIRLEY,lovisa,Christchurch   ,1
+UNKNOWN,man_truck_and_bus,Tauranga,1
+UNKNOWN,man_truck_and_bus,Wiri,1
+UNKNOWN,man_truck_and_bus,Whangarei,1
+UNKNOWN,man_truck_and_bus,Hamilton,1
+UNKNOWN,man_truck_and_bus,Taupo,1
+UNKNOWN,man_truck_and_bus,Napier,1
+UNKNOWN,man_truck_and_bus,Lower Hutt,1
+UNKNOWN,man_truck_and_bus,Christchurch,1
+UNKNOWN,man_truck_and_bus,Queenstown,1
+UNKNOWN,man_truck_and_bus,Dunedin,1
+UNKNOWN,man_truck_and_bus,Invercargill,1
+UNKNOWN,man_truck_and_bus,Richmond,1
+UNKNOWN,man_truck_and_bus,Palmerston North,1
+UNKNOWN,man_truck_and_bus,Timaru,1
+UNKNOWN,man_truck_and_bus,Auckland,1
+UNKNOWN,man_truck_and_bus,"Devonport Auckland, NZ",1
+UNKNOWN,marriott,Auckland,1
+UNKNOWN,maserati,CHRISTCHURCH 8001,1
+UNKNOWN,maserati,AUCKLAND,1
+NEWZEALAND,mcdonalds_qstore,AUCKLAND,3
+NEWZEALAND,mcdonalds_qstore,LOWER HUTT,1
+NEWZEALAND,mcdonalds_qstore,NEW LYNN,2
+NEWZEALAND,mcdonalds_qstore,WELLINGTON,3
+NEWZEALAND,mcdonalds_qstore,WHANGANUI,2
+NEWZEALAND,mcdonalds_qstore,NEW PLYMOUTH,3
+NEWZEALAND,mcdonalds_qstore,TAURANGA,2
+NEWZEALAND,mcdonalds_qstore,NEWTOWN,2
+NEWZEALAND,mcdonalds_qstore,ROTORUA,2
+NEWZEALAND,mcdonalds_qstore,HENDERSON,2
+NEWZEALAND,mcdonalds_qstore,MT ALBERT,2
+NEWZEALAND,mcdonalds_qstore,UPPER HUTT,1
+NEWZEALAND,mcdonalds_qstore,MANGERE,1
+NEWZEALAND,mcdonalds_qstore,WHANGAREI,2
+NEWZEALAND,mcdonalds_qstore,MERIVALE,1
+NEWZEALAND,mcdonalds_qstore,HASTINGS,1
+NEWZEALAND,mcdonalds_qstore,MANUKAU CITY,1
+NEWZEALAND,mcdonalds_qstore,GISBORNE,1
+NEWZEALAND,mcdonalds_qstore,JOHNSONVILLE,1
+NEWZEALAND,mcdonalds_qstore,LINWOOD,1
+NEWZEALAND,mcdonalds_qstore,PARAPARAUMU,1
+NEWZEALAND,mcdonalds_qstore,RICCARTON,2
+NEWZEALAND,mcdonalds_qstore,NELSON,1
+NEWZEALAND,mcdonalds_qstore,NAPIER,2
+NEWZEALAND,mcdonalds_qstore,DUNEDIN,3
+NEWZEALAND,mcdonalds_qstore,FRANKTON,1
+NEWZEALAND,mcdonalds_qstore,BELMONT,1
+NEWZEALAND,mcdonalds_qstore,MANUREWA,1
+NEWZEALAND,mcdonalds_qstore,TE AWAMUTU,1
+NEWZEALAND,mcdonalds_qstore,TAUPO,1
+NEWZEALAND,mcdonalds_qstore,PAPAKURA,1
+NEWZEALAND,mcdonalds_qstore,PAKURANGA,1
+NEWZEALAND,mcdonalds_qstore,HAMILTON,3
+NEWZEALAND,mcdonalds_qstore,THAMES,1
+NEWZEALAND,mcdonalds_qstore,INVERCARGILL,2
+NEWZEALAND,mcdonalds_qstore,GLENFIELD,2
+NEWZEALAND,mcdonalds_qstore,MASTERTON,1
+NEWZEALAND,mcdonalds_qstore,TIMARU,1
+NEWZEALAND,mcdonalds_qstore,LEVIN,1
+NEWZEALAND,mcdonalds_qstore,WAINUIOMATA,1
+NEWZEALAND,mcdonalds_qstore,WHAKATANE,1
+NEWZEALAND,mcdonalds_qstore,OREWA,1
+NEWZEALAND,mcdonalds_qstore,MANUKAU,1
+NEWZEALAND,mcdonalds_qstore,"""PUKEKOHE, SOUTH AUCKLAND""",1
+NEWZEALAND,mcdonalds_qstore,BLEHEIM,1
+NEWZEALAND,mcdonalds_qstore,PALMERSTON NORTH,3
+NEWZEALAND,mcdonalds_qstore,AVONDALE,1
+NEWZEALAND,mcdonalds_qstore,HAMILTON EAST,1
+NEWZEALAND,mcdonalds_qstore,HORNBY,1
+NEWZEALAND,mcdonalds_qstore,ASHBURTON,1
+NEWZEALAND,mcdonalds_qstore,WESTGATE,1
+NEWZEALAND,mcdonalds_qstore,OAMARU,1
+NEWZEALAND,mcdonalds_qstore,SYDENHAM,2
+NEWZEALAND,mcdonalds_qstore,HUNTLY,1
+NEWZEALAND,mcdonalds_qstore,WELLSFORD,1
+NEWZEALAND,mcdonalds_qstore,HILLMORTON,1
+NEWZEALAND,mcdonalds_qstore,GREY LYNN,1
+NEWZEALAND,mcdonalds_qstore,TOKOROA,1
+NEWZEALAND,mcdonalds_qstore,MANA ESPLANADE,1
+NEWZEALAND,mcdonalds_qstore,FEILDING,1
+NEWZEALAND,mcdonalds_qstore,KAIKOHE,1
+NEWZEALAND,mcdonalds_qstore,MERCER,1
+NEWZEALAND,mcdonalds_qstore,SHIRLEY,1
+NEWZEALAND,mcdonalds_qstore,KERIKERI,1
+NEWZEALAND,mcdonalds_qstore,TAHUNANUI,1
+NEWZEALAND,mcdonalds_qstore,SILVERSTREAM,1
+NEWZEALAND,mcdonalds_qstore,PETONE,1
+NEWZEALAND,mcdonalds_qstore,MILFORD,1
+NEWZEALAND,mcdonalds_qstore,BULLS,1
+NEWZEALAND,mcdonalds_qstore,MANGERE EAST,1
+NEWZEALAND,mcdonalds_qstore,AIRPORT,1
+NEWZEALAND,mcdonalds_qstore,KELSTON,1
+NEWZEALAND,mcdonalds_qstore,GLEN INNES,1
+NEWZEALAND,mcdonalds_qstore,OTAHUHU,1
+NEWZEALAND,mcdonalds_qstore,TAKANINI,1
+NEWZEALAND,mcdonalds_qstore,BOMBAY,2
+NEWZEALAND,mcdonalds_qstore,GREERTON,1
+NEWZEALAND,mcdonalds_qstore,PT CHEVALIER,1
+NEWZEALAND,mcdonalds_qstore,MATAMATA,1
+NEWZEALAND,mcdonalds_qstore,PENROSE,1
+NEWZEALAND,mcdonalds_qstore,OTARA,1
+NEWZEALAND,mcdonalds_qstore,GREYMOUTH,1
+CHRISTCHURCH,mcdonalds_qstore,CHRISTCHURCH,1
+NEWZEALAND,mcdonalds_qstore,HAWERA,1
+NEWZEALAND,mcdonalds_qstore,BOTANY TOWN CENTRE,1
+NEWZEALAND,mcdonalds_qstore,PORIRUA,1
+NEWZEALAND,mcdonalds_qstore,MT WELLINGTON,2
+NEWZEALAND,mcdonalds_qstore,Manukau City,1
+NEWZEALAND,mcdonalds_qstore,"CLENDON PARK, MANUKAU",1
+NEWZEALAND,mcdonalds_qstore,ALBANY,1
+NEWZEALAND,mcdonalds_qstore,PAPAMOA,1
+NEWZEALAND,mcdonalds_qstore,MOTUEKA,1
+NEWZEALAND,mcdonalds_qstore,PORIRUA  ,1
+NEWZEALAND,mcdonalds_qstore,DANNEVIRKE,1
+NEWZEALAND,mcdonalds_qstore,GORE,1
+NEWZEALAND,mcdonalds_qstore,TAIHAPE,1
+NEWZEALAND,mcdonalds_qstore,AUCKLAND AIRPORT,2
+NEWZEALAND,mcdonalds_qstore,RANGIORA,1
+NEWZEALAND,mcdonalds_qstore,OTOROHANGA,1
+NELSON,mcdonalds_qstore,RICHMOND,1
+ROTORUA,mcdonalds_qstore,TE NGAE,1
+MOUNTMAUNGANUI,mcdonalds_qstore,MOUNT MAUNGANUI,1
+WELLINGTON,mcdonalds_qstore,Pipitea,1
+AUCKLAND,mcdonalds_qstore,Whangaparaoa,1
+QUEENSTOWN,mcdonalds_qstore,Frankton,1
+TAURANGA,mcdonalds_qstore,Te Puke ,1
+PAEROA,mcdonalds_qstore,SH2,1
+NORTHSHORECITY,mcdonalds_qstore,ROSEDALE,1
+MANAWATUWHANGANUI,mcdonalds_qstore,Taumarunui,1
+HAMILTON,mcdonalds_qstore,HAMILTON,1
+AUCKLAND,mcdonalds_qstore,Mt Wellington,1
+AUCKLAND,mcdonalds_qstore,ALBANY,1
+AUCKLAND,mcdonalds_qstore,AUCKLAND CITY,1
+AUCKLAND,mcdonalds_qstore,BALMORAL,1
+NEWZEALAND,mcdonalds_qstore,GREENLANE,1
+HAMILTON,mcdonalds_qstore,Rototuna,1
+NEWZEALAND,mcdonalds_qstore,CAMBRIDGE,1
+AUCKLAND,mcdonalds_qstore,MASSEY,1
+NEWZEALAND,mcdonalds_qstore,KAITAIA,1
+NEWZEALAND,mcdonalds_qstore,WARKWORTH,1
+NEWZEALAND,mcdonalds_qstore,PAPATOETOE,1
+NEWZEALAND,mcdonalds_qstore,CHRISTCHURCH,2
+NEWZEALAND,mcdonalds_qstore,Havelock North,1
+ROLLESTON,mcdonalds_qstore,Rolleston,1
+AUCKLAND,mcdonalds_qstore,Mt Roskill,1
+HAMILTON,mcdonalds_qstore,Te Rapa,1
+AUCKLAND,mcdonalds_qstore,TE ATATU PENINSULA,1
+UNKNOWN,mcdonalds_qstore,Flat Bush Auckland,1
+CHRISTCHURCH,mcdonalds_qstore,Woolston,1
+NEWZEALAND,mcdonalds_qstore,Manukau,1
+CHRISTCHURCH,mcdonalds_qstore,Yaldhurst,1
+CHRISTCHURCH,mcdonalds_qstore,Marshland,1
+CHRISTCHURCH,mcdonalds_qstore,Woodend,1
+UNKNOWN,mcdonalds_qstore,Taupiri,1
+NEWZEALAND,mcdonalds_qstore,KARAKA,1
+NEWZEALAND,mcdonalds_qstore,Henderson,1
+NEWZEALAND,mcdonalds_qstore,Queenstown,1
+NEWZEALAND,mcdonalds_qstore,RUAKURA,1
+AUCKLAND,mcdonalds_qstore,SILVERDALE,1
+NEWZEALAND,mcdonalds_qstore,Birkenhead,1
+NEWZEALAND,mcdonalds_qstore,PUKEKOHE,1
+AUCKLAND,mercedes_benz,Eden Terrace,1
+WELLINGTON,mercedes_benz,Palmerston North,1
+CANTERBURY,mercedes_benz,Christchurch,1
+OTAGO,mercedes_benz,Queenstown,1
+AUCKLAND,mercedes_benz,Penrose,1
+NORTHLAND,mercedes_benz,Whangarei,1
+WELLINGTON,mercedes_benz,Mount Cook,1
+WAIKATO,mercedes_benz,Taupo,1
+TASMAN,mercedes_benz,Nelson,1
+WAIKATO,mercedes_benz,Te Rapa,1
+AUCKLAND,mercedes_benz,Glenfield,1
+OTAGO,mercedes_benz,Dunedin,1
+WAIKATO,mercedes_benz,Hamilton,1
+BAYOFPLENTY,mercedes_benz,Mount Maunganui,1
+WELLINGTON,mercedes_benz,Te Aro,1
+AUCKLAND,mercedes_benz,Newmarket,1
+HAWKESBAY,mercedes_benz,Napier,1
+AUCKLAND,mercedes_benz,Burswood,1
+CANTERBURY,mercedes_benz,Addington,1
+BAYOFPLENTY,mercedes_benz,Mt. Maunganui,1
+AUCKLAND,mercedes_benz,Takapuna,1
+AUCKLAND,meta,Auckland,1
+UNKNOWN,michaelkors,Newmarket,2
+UNKNOWN,michaelkors,Auckland,2
+UNKNOWN,moneygram,AUCKLAND,17
+UNKNOWN,moneygram,HASTINGS,2
+UNKNOWN,moneygram,CHRISTCHURCH,2
+UNKNOWN,moneygram,HAMILTON,1
+UNKNOWN,moneygram,WELLINGTON,1
+UNKNOWN,moneygram,ROTORUA,1
+UNKNOWN,moneygram,TAURANGA,4
+UNKNOWN,moneygram,PAPAKURA,1
+UNKNOWN,moneygram,AVONDALE,1
+UNKNOWN,moneygram,MOTUEKA,1
+UNKNOWN,moneygram,NEW YORK,1
+UNKNOWN,moneygram,NELSON,1
+UNKNOWN,moneygram,BLENHEIM,1
+UNKNOWN,moneygram,TE PUKE,3
+UNKNOWN,moneygram,OTAHUHU,1
+UNKNOWN,moneygram,PAPATOETOE,1
+UNKNOWN,moneygram,KATIKATI,2
+UNKNOWN,moneygram,GREETON,1
+UNKNOWN,moneygram,CLENDON PARK,1
+AUCK,nandos,Wairau Valley,1
+HAM,nandos,Hamilton,2
+AUCK,nandos,Takanini,1
+AUCK,nandos,Mount Wellington,2
+AUCK,nandos,Mount Albert,1
+BOP,nandos,Rotorua,1
+CHCH,nandos,Riccarton,1
+AUCK,nandos,Auckland Cbd,1
+WEL,nandos,Porirua,1
+CHCH,nandos,Papanui,1
+AUCK,nandos,Massey,1
+AUCK,nandos,Waitakere,1
+AUCK,nandos,Manukau,1
+WEL,nandos,Lower Hutt,1
+WEL,nandos,Te Aro,1
+AUCK,nandos,East Tamaki,1
+BOP,nandos,Mount Maunganui,1
+AUCK,nandos,Albany,1
+UNKNOWN,national,Christchurch,1
+UNKNOWN,national,Queenstown,1
+UNKNOWN,national,Auckland,1
+UNKNOWN,national,Wellington,1
+UNKNOWN,national,Nelson,1
+UNKNOWN,national,Dunedin,1
+UNKNOWN,new_world_nz,unknown,144
+UNKNOWN,nick_scali_furniture,unknown,5
+UNKNOWN,nike,Auckland,4
+UNKNOWN,nike,Wellington,1
+UNKNOWN,nike,Auckland CBD,1
+NZ,nissan_europe,TAURANGA,1
+NZ,nissan_europe,NELSON,1
+NZ,nissan_europe,NEW PLYMOUTH,1
+NZ,nissan_europe,MASTERTON,1
+NZ,nissan_europe,GISBORNE,1
+NZ,nissan_europe,CAMBRIDGE,1
+NZ,nissan_europe,PALMERSTON NORTH,1
+NZ,nissan_europe,PAEROA,1
+NZ,nissan_europe,HAMILTON,1
+NZ,nissan_europe,WELLINGTON,1
+NZ,nissan_europe,MORRINSVILLE,1
+NZ,nissan_europe,TAUPO,1
+NZ,nissan_europe,INVERCARGILL,1
+NZ,nissan_europe,OTOROHANGA,1
+NZ,nissan_europe,BALCLUTHA,1
+NZ,nissan_europe,LOWER HUTT WELLINGTON,1
+NZ,nissan_europe,AUCKLAND,3
+NZ,nissan_europe,BLENHEIM,1
+NZ,nissan_europe,WHANGANUI,1
+NZ,nissan_europe,ASHBURTON,1
+NZ,nissan_europe,ROTORUA,1
+NZ,nissan_europe,WHAKATANE,1
+NZ,nissan_europe,"ANDERSONS BAY, DUNEDIN",1
+NZ,nissan_europe,"FRANKTON, QUEENSTOWN",1
+NZ,nissan_europe,WHANGAREI,1
+NZ,nissan_europe,RANGIORA,1
+NZ,nissan_europe,CHRISTCHURCH,1
+NZ,nissan_europe,GLENFIELD AUCKLAND,1
+NZ,nissan_europe,"ELSDON, PORIRUA",1
+NZ,nissan_europe,BURSWOOD,1
+NZ,nissan_europe,HASTINGS,1
+NZ,nissan_europe,"NEWMARKET, AUCKLAND",1
+CHRISTCHURCH,novo_nz,Riccarton,1
+AUCKLAND,novo_nz,unknown,3
+HAMILTON,novo_nz,unknown,1
+AUCKLAND,novo_nz,Mt Wellington,1
+AUCKLAND,novo_nz,St lukes,1
+GLENFIELD,novo_nz,Glenfield,1
+AUCKLAND,novo_nz,East Tamaki,1
+NEWZEALAND,novo_nz,Auckland,1
+CHRISTCHURCH,novo_nz,Papanui,1
+AUCKLAND,novo_nz,Newmarket,1
+CHCH,orangetheory_fitness,Christchurch,1
+AUK,orangetheory_fitness,Auckland,2
+UNKNOWN,oscar_wylee,unknown,10
+UNKNOWN,pandora,Richmond,1
+SOUTHLANDDISTRICT,ray_white_au_nz,Te Anau,1
+QUEENSTOWNLAKESDISTRICT,ray_white_au_nz,Queenstown,1
+QUEENSTOWNLAKESDISTRICT,ray_white_au_nz,Arrowtown,1
+QUEENSTOWNLAKESDISTRICT,ray_white_au_nz,Wanaka,1
+INVERCARGILL,ray_white_au_nz,Invercargill,1
+FARNORTHDISTRICT,ray_white_au_nz,Kaitaia,1
+GOREDISTRICT,ray_white_au_nz,Gore,1
+WESTLANDDISTRICT,ray_white_au_nz,Hokitika,1
+FARNORTHDISTRICT,ray_white_au_nz,Coopers Beach,1
+BULLERDISTRICT,ray_white_au_nz,Westport,1
+FARNORTHDISTRICT,ray_white_au_nz,Kaikohe,1
+FARNORTHDISTRICT,ray_white_au_nz,Kerikeri,1
+FARNORTHDISTRICT,ray_white_au_nz,Kawakawa,1
+FARNORTHDISTRICT,ray_white_au_nz,Paihia,1
+CLUTHADISTRICT,ray_white_au_nz,Balclutha,1
+FARNORTHDISTRICT,ray_white_au_nz,Russell,1
+TASMANDISTRICT,ray_white_au_nz,Takaka,1
+ASHBURTONDISTRICT,ray_white_au_nz,Methven,1
+WHANGAREIDISTRICT,ray_white_au_nz,Whangarei,1
+TIMARUDISTRICT,ray_white_au_nz,Timaru,1
+DUNEDINCITY,ray_white_au_nz,Dunedin Central,1
+WHANGAREIDISTRICT,ray_white_au_nz,Ngunguru,1
+WHANGAREIDISTRICT,ray_white_au_nz,Marsden Cove,1
+TASMANDISTRICT,ray_white_au_nz,Motueka,1
+ASHBURTONDISTRICT,ray_white_au_nz,Ashburton,1
+KAIPARADISTRICT,ray_white_au_nz,Mangawhai,1
+WAIMAKARIRIDISTRICT,ray_white_au_nz,Oxford,1
+RODNEY,ray_white_au_nz,Kumeu,1
+TASMANDISTRICT,ray_white_au_nz,Richmond,1
+RODNEY,ray_white_au_nz,Warkworth,3
+NELSONCITY,ray_white_au_nz,Stoke,1
+WAITAKERECITY,ray_white_au_nz,Swanson,1
+WAITAKERECITY,ray_white_au_nz,Massey,1
+RODNEY,ray_white_au_nz,Matakana,1
+NELSONCITY,ray_white_au_nz,Nelson,1
+RODNEY,ray_white_au_nz,Silverdale,1
+RODNEY,ray_white_au_nz,Snells Beach,1
+RODNEY,ray_white_au_nz,Orewa,2
+NEWPLYMOUTHDISTRICT,ray_white_au_nz,New Plymouth,1
+WAITAKERECITY,ray_white_au_nz,Te Atatu Peninsula,2
+WAITAKERECITY,ray_white_au_nz,Te Atatu South,2
+NORTHSHORECITY,ray_white_au_nz,Albany,2
+NORTHSHORECITY,ray_white_au_nz,Beach Haven,1
+WAITAKERECITY,ray_white_au_nz,Titirangi,1
+WAITAKERECITY,ray_white_au_nz,New Lynn,1
+NORTHSHORECITY,ray_white_au_nz,Birkdale,1
+WAITAKERECITY,ray_white_au_nz,Green Bay,1
+AUCKLANDCITY,ray_white_au_nz,Point Chevalier,1
+NORTHSHORECITY,ray_white_au_nz,Glenfield,2
+NORTHSHORECITY,ray_white_au_nz,Pinehill,1
+NORTHSHORECITY,ray_white_au_nz,Birkenhead,1
+RODNEY,ray_white_au_nz,Manly,1
+AUCKLANDCITY,ray_white_au_nz,Blockhouse Bay,1
+NORTHSHORECITY,ray_white_au_nz,Browns Bay,1
+AUCKLAND,ray_white_au_nz,Wairau Park,1
+SELWYNDISTRICT,ray_white_au_nz,Rolleston,2
+NORTHSHORECITY,ray_white_au_nz,Mairangi Bay,1
+AUCKLANDCITY,ray_white_au_nz,Mount Albert,1
+AUCKLANDCITY,ray_white_au_nz,Grey Lynn,1
+AUCKLANDCITY,ray_white_au_nz,Sandringham,1
+AUCKLANDCITY,ray_white_au_nz,Kingsland,1
+AUCKLANDCITY,ray_white_au_nz,Mt Roskill,1
+UNKNOWN,ray_white_au_nz,Wynyard Quarter,1
+AUCKLANDCITY,ray_white_au_nz,Auckland Central,2
+AUCKLANDCITY,ray_white_au_nz,Mt Eden,1
+AUCKLANDCITY,ray_white_au_nz,Parnell,2
+AUCKLANDCITY,ray_white_au_nz,Royal Oak,1
+AUCKLANDCITY,ray_white_au_nz,Epsom,1
+WAIMAKARIRIDISTRICT,ray_white_au_nz,Rangiora,2
+NORTHSHORECITY,ray_white_au_nz,Devonport,1
+AUCKLANDCITY,ray_white_au_nz,Greenlane,1
+AUCKLANDCITY,ray_white_au_nz,One Tree Hill,1
+AUCKLANDCITY,ray_white_au_nz,Onehunga,1
+AUCKLANDCITY,ray_white_au_nz,Remuera,1
+MANUKAUCITY,ray_white_au_nz,Mangere Bridge,1
+AUCKLANDCITY,ray_white_au_nz,Orakei,1
+FRANKLIN,ray_white_au_nz,Waiuku,1
+AUCKLANDCITY,ray_white_au_nz,Ellerslie,2
+MANUKAUCITY,ray_white_au_nz,Mangere,1
+AUCKLANDCITY,ray_white_au_nz,Mission Bay,1
+SELWYNDISTRICT,ray_white_au_nz,Lincoln,2
+SELWYNDISTRICT,ray_white_au_nz,Prebbleton,1
+AUCKLANDCITY,ray_white_au_nz,Kohimarama,1
+AUCKLANDCITY,ray_white_au_nz,Mt Wellington,1
+CHRISTCHURCHCITY,ray_white_au_nz,Clearwater,1
+CHRISTCHURCHCITY,ray_white_au_nz,Bishopdale,2
+AUCKLANDCITY,ray_white_au_nz,St Heliers,2
+CHRISTCHURCHCITY,ray_white_au_nz,Wigram,1
+CHRISTCHURCHCITY,ray_white_au_nz,Upper Riccarton,1
+WAIMAKARIRIDISTRICT,ray_white_au_nz,Kaiapoi,1
+CHRISTCHURCHCITY,ray_white_au_nz,Papanui,1
+WAIMAKARIRIDISTRICT,ray_white_au_nz,Pegasus Town,1
+MANUKAUCITY,ray_white_au_nz,Papatoetoe,1
+MANUKAUCITY,ray_white_au_nz,Pakuranga,1
+CHRISTCHURCHCITY,ray_white_au_nz,Halswell,1
+CHRISTCHURCHCITY,ray_white_au_nz,Addington,1
+FRANKLIN,ray_white_au_nz,Patumahoe,1
+MANUKAUCITY,ray_white_au_nz,Manukau City,1
+MANUKAUCITY,ray_white_au_nz,Bucklands Beach,1
+MANUKAUCITY,ray_white_au_nz,Manukau,1
+CHRISTCHURCHCITY,ray_white_au_nz,Mairehau,1
+CHRISTCHURCHCITY,ray_white_au_nz,Christchurch,2
+MANUKAUCITY,ray_white_au_nz,Half Moon Bay,1
+CHRISTCHURCHCITY,ray_white_au_nz,Marshland,1
+MANUKAUCITY,ray_white_au_nz,Dannemora,1
+CHRISTCHURCHCITY,ray_white_au_nz,Cashmere,1
+MANUKAUCITY,ray_white_au_nz,Manurewa,1
+UNKNOWN,ray_white_au_nz,Ormiston Town Centre,1
+MANUKAUCITY,ray_white_au_nz,Howick,1
+PAPAKURA,ray_white_au_nz,Takanini,1
+FRANKLIN,ray_white_au_nz,Karaka,1
+FRANKLIN,ray_white_au_nz,Pukekohe,1
+PAPAKURA,ray_white_au_nz,Papakura,1
+CHRISTCHURCHCITY,ray_white_au_nz,New Brighton,1
+CHRISTCHURCHCITY,ray_white_au_nz,Ferrymead,1
+WAIHEKEISLAND,ray_white_au_nz,Waiheke Island,1
+MANUKAUCITY,ray_white_au_nz,Beachlands,1
+FRANKLIN,ray_white_au_nz,Tuakau,1
+FRANKLIN,ray_white_au_nz,Bombay,1
+WAIKATODISTRICT,ray_white_au_nz,Raglan,1
+MARLBOROUGH,ray_white_au_nz,Blenheim,1
+HAMILTONCITY,ray_white_au_nz,Hamilton Central,1
+OTOROHANGADISTRICT,ray_white_au_nz,Otorohanga,1
+WAIPADISTRICT,ray_white_au_nz,Cambridge,1
+THAMESCOROMANDELDISTRICT,ray_white_au_nz,Whitianga,1
+THAMESCOROMANDELDISTRICT,ray_white_au_nz,Whangamata,1
+WELLINGTONCITY,ray_white_au_nz,Karori,1
+WELLINGTONCITY,ray_white_au_nz,Khandallah,1
+WELLINGTONCITY,ray_white_au_nz,Wellington Central,1
+WELLINGTONCITY,ray_white_au_nz,Johnsonville,1
+PORIRUACITY,ray_white_au_nz,Porirua,1
+KAPITICOASTDISTRICT,ray_white_au_nz,Paraparaumu,1
+LOWERHUTTCITY,ray_white_au_nz,Petone,1
+LOWERHUTTCITY,ray_white_au_nz,Lower Hutt,1
+KAPITICOASTDISTRICT,ray_white_au_nz,Waikanae,1
+HOROWHENUADISTRICT,ray_white_au_nz,Foxton,1
+UPPERHUTTCITY,ray_white_au_nz,Upper Hutt,1
+HOROWHENUADISTRICT,ray_white_au_nz,Levin,1
+TAURANGACITY,ray_white_au_nz,Greerton,1
+TAURANGACITY,ray_white_au_nz,Tauranga,1
+TAURANGACITY,ray_white_au_nz,Mt Maunganui,3
+MANAWATUDISTRICT,ray_white_au_nz,Feilding,1
+TAURANGACITY,ray_white_au_nz,Papamoa Beach,1
+TAUPODISTRICT,ray_white_au_nz,Taupo,1
+PALMERSTONNORTHCITY,ray_white_au_nz,Palmerston North,1
+ROTORUADISTRICT,ray_white_au_nz,Rotorua,1
+MASTERTONDISTRICT,ray_white_au_nz,Masterton,1
+WESTERNBAYOFPLENTYDISTRICT,ray_white_au_nz,Pukehina,1
+WHAKATANEDISTRICT,ray_white_au_nz,Whakatane,1
+WHAKATANEDISTRICT,ray_white_au_nz,Ohope Beach,1
+NAPIERCITY,ray_white_au_nz,Napier,1
+HASTINGSDISTRICT,ray_white_au_nz,Havelock North,1
+OPOTIKIDISTRICT,ray_white_au_nz,Opotiki,1
+GISBORNEDISTRICT,ray_white_au_nz,Gisborne,1
+UNKNOWN,rebel_sport_nz,Auckland,9
+UNKNOWN,rebel_sport_nz,Manukau ,1
+UNKNOWN,rebel_sport_nz,Newmarket,1
+UNKNOWN,rebel_sport_nz,Pukekohe,1
+UNKNOWN,rebel_sport_nz,Auckland ,1
+UNKNOWN,rebel_sport_nz,Kerikeri ,1
+UNKNOWN,rebel_sport_nz,Whangarei ,1
+UNKNOWN,rebel_sport_nz,Gisborne,1
+UNKNOWN,rebel_sport_nz,Hamilton,2
+UNKNOWN,rebel_sport_nz,Hastings,1
+UNKNOWN,rebel_sport_nz,Napier,1
+UNKNOWN,rebel_sport_nz,New Plymouth,1
+UNKNOWN,rebel_sport_nz,Palmerston North ,1
+UNKNOWN,rebel_sport_nz,Rotorua,1
+UNKNOWN,rebel_sport_nz,Taupo,1
+UNKNOWN,rebel_sport_nz,Tauranga,1
+UNKNOWN,rebel_sport_nz,Whakatane,1
+UNKNOWN,rebel_sport_nz, Wellington ,1
+UNKNOWN,rebel_sport_nz,Lower Hutt,1
+UNKNOWN,rebel_sport_nz,Porirua,1
+UNKNOWN,rebel_sport_nz,Wellington City ,2
+UNKNOWN,rebel_sport_nz,Whanganui,1
+UNKNOWN,rebel_sport_nz,Blenheim,1
+UNKNOWN,rebel_sport_nz,Nelson,1
+UNKNOWN,rebel_sport_nz,Ashburton,1
+UNKNOWN,rebel_sport_nz,Christchurch,3
+UNKNOWN,rebel_sport_nz,Papanui,1
+UNKNOWN,rebel_sport_nz,Timaru,1
+UNKNOWN,rebel_sport_nz,Dunedin,1
+UNKNOWN,rebel_sport_nz,Invercargill ,1
+UNKNOWN,rebel_sport_nz,Queenstown,1
+UNKNOWN,retail_apparel_group,Dunedin,1
+UNKNOWN,retail_apparel_group,Hornby,2
+UNKNOWN,retail_apparel_group,Riccarton,3
+UNKNOWN,retail_apparel_group,Christchurch,3
+UNKNOWN,retail_apparel_group,Papanui,1
+UNKNOWN,retail_apparel_group,Palmerston North,3
+UNKNOWN,retail_apparel_group,Wellington,2
+UNKNOWN,retail_apparel_group,"Mount Maunganui, Tauranga",1
+UNKNOWN,retail_apparel_group,Manukau City,1
+UNKNOWN,retail_apparel_group,Onehunga,2
+UNKNOWN,retail_apparel_group,Mount Wellington,1
+UNKNOWN,retail_apparel_group,St Lukes,1
+UNKNOWN,retail_apparel_group,Auckland,3
+UNKNOWN,retail_apparel_group,East Tamaki,2
+UNKNOWN,retail_apparel_group,Mount Albert,1
+UNKNOWN,retail_apparel_group,HAMILTON,1
+UNKNOWN,retail_apparel_group,"Manukau, Aukland",1
+UNKNOWN,retail_apparel_group,NEW LYN,1
+UNKNOWN,retail_apparel_group,Sylvia Park,1
+UNKNOWN,retail_apparel_group,HENDERSON,1
+UNKNOWN,retail_apparel_group,"St Lukes, Auckland",1
+UNKNOWN,retail_apparel_group,Albany,1
+UNKNOWN,retail_apparel_group,"Hornby, Christchurch",1
+UNKNOWN,retail_apparel_group,"Lower Hutt, Wellington",1
+UNKNOWN,retail_apparel_group, Poriura,1
+UNKNOWN,retail_apparel_group,Hamilton,1
+UNKNOWN,retail_apparel_group,"Manukau, Auckland",1
+UNKNOWN,retail_apparel_group,Onehunga ,1
+UNKNOWN,retail_apparel_group,"Mount Wellington, Auckland",1
+UNKNOWN,scania,Ashburton,1
+UNKNOWN,scania,Auckland,1
+UNKNOWN,scania,Blenheim,1
+UNKNOWN,scania,Carterton,1
+UNKNOWN,scania,Christchurch,1
+UNKNOWN,scania,Drury,2
+UNKNOWN,scania,Dunedin,1
+UNKNOWN,scania,Gisborne,1
+UNKNOWN,scania,Hamilton,3
+UNKNOWN,scania,Hastings,1
+UNKNOWN,scania,Hokitika,2
+UNKNOWN,scania,Invercargill,1
+UNKNOWN,scania,Mt Manganui,1
+UNKNOWN,scania,Nelson,1
+UNKNOWN,scania,New Plymouth,1
+UNKNOWN,scania,Birkenhead,1
+UNKNOWN,scania,Opua,1
+UNKNOWN,scania,Palmerston North,1
+UNKNOWN,scania,Boydtown,1
+UNKNOWN,scania,Rotorua,1
+UNKNOWN,scania,Taupo,1
+UNKNOWN,scania,Timaru,1
+UNKNOWN,scania,Wellington,2
+UNKNOWN,scania,Whakatane,1
+UNKNOWN,scania,Whanganui,1
+UNKNOWN,scania,Whangarei,1
+UNKNOWN,scania,Wiri,1
+UNKNOWN,shaver_shop,Mount Maunganui,1
+UNKNOWN,shaver_shop,New Lynn,1
+UNKNOWN,shaver_shop,Newmarket,1
+UNKNOWN,shaver_shop,Papanui,1
+UNKNOWN,shaver_shop,Lower Hutt,1
+UNKNOWN,shaver_shop,Riccarton,1
+UNKNOWN,shaver_shop,Sandringham,1
+UNKNOWN,shaver_shop,Sylvia Park,1
+UNKNOWN,sixt,Dunedin,1
+UNKNOWN,sixt,Queenstown,1
+UNKNOWN,sixt,Christchurch,1
+UNKNOWN,sixt,Wellington,1
+UNKNOWN,sixt,Auckland,2
+CANTERBURY,skoda,unknown,2
+AUCKLAND,skoda,unknown,3
+BAYOFPLENTY,skoda,unknown,2
+HAMILTON,skoda,unknown,1
+TAUPO,skoda,unknown,1
+NAPIER,skoda,unknown,1
+WELLINGTON,skoda,unknown,1
+NELSON,skoda,unknown,1
+NORTHLAND,skoda,unknown,1
+BLENHEIM,skoda,unknown,1
+OTAGO,skoda,unknown,2
+PALMERSTONNORTH,skoda,unknown,1
+SOUTHLAND,skoda,unknown,1
+NEWPLYMOUTH,skoda,unknown,1
+AUCKLAND,smart,Takapuna,1
+CANTERBURY,smart,Addington,1
+HAWKESBAY,smart,Napier,1
+AUCKLAND,smart,Newmarket,1
+OTAGO,smart,Dunedin,1
+WAIKATO,smart,Te Rapa,1
+CANTERBURY,snap_fitness,"Rolleston, Christchurch",1
+CANTERBURY,snap_fitness,Barrington,1
+CANTERBURY,snap_fitness,"Shirley, Christchurch",1
+MARLBOROUGH,snap_fitness,Blenheim,1
+CANTERBURY,snap_fitness,Christchurch-Ferrymead,1
+OTAGO,snap_fitness,Dunedin,1
+CANTERBURY,snap_fitness,Ashburton,1
+MANAWATUWHANGANUI,snap_fitness,Palmerston North,1
+CANTERBURY,snap_fitness,Christchurch,3
+WELLINGTON,snap_fitness,Wellington,2
+AUCKLAND,snap_fitness,Warkworth,1
+NORTHLAND,snap_fitness,Whangarei,1
+AUCKLAND,snap_fitness,Ormiston,1
+AUCKLAND,snap_fitness,Auckland,7
+OTAGO,snap_fitness,Wanaka,1
+AUCKLAND,snap_fitness,Glen Innes,1
+WAIKATO,snap_fitness,Cambridge,1
+WAIKATO,snap_fitness,Hamilton,3
+WAIKATO,snap_fitness,Te Awamutu,1
+AUCKLAND,snap_fitness,Avondale,1
+CANTERBURY,snap_fitness,New Brighton,1
+WELLINGTON,snap_fitness,Johnsonville,1
+TASMAN,snap_fitness,Richmond,1
+OTAGO,snap_fitness,Oamaru,1
+CANTERBURY,snap_fitness,Kaiapoi,1
+OTAGO,snap_fitness,Queenstown,1
+AUCKLAND,snap_fitness,Kelston,1
+AUCKLAND,snap_fitness,"Mt. Wellington, Auckland",1
+AUCKLAND,snap_fitness,Albany,1
+AUCKLAND,snap_fitness,Birkenhead,1
+WELLINGTON,snap_fitness,Lower Hutt,1
+AUCKLAND,snap_fitness,Royal Oak,1
+AUCKLAND,snap_fitness,Mairangi Bay,1
+BAYOFPLENTY,snap_fitness,Tauranga,1
+AUCKLAND,snap_fitness,Takanini,1
+AUCKLAND,snap_fitness,Silverdale,1
+CANTERBURY,snap_fitness,Rangiora,1
+WELLINGTON,snap_fitness,Kapiti Coast,1
+HAWKESBAY,snap_fitness,Napier,1
+SOUTHLAND,snap_fitness,Invercargill,1
+MANAWATUWHANGANUI,snap_fitness,Feilding,1
+AUCKLAND,snap_fitness,Pukekohe,1
+BAYOFPLENTY,snap_fitness,Papamoa,1
+WAIKATO,snap_fitness,"Frankton, Hamilton",1
+TARANAKI,snap_fitness,New Plymouth CBD,1
+AUCKLAND,snap_fitness,Henderson,1
+CANTERBURY,snap_fitness,Timaru,1
+CANTERBURY,snap_fitness,"Upper Riccarton, Christchurch",1
+NZ,spa_world_au_nz,Tauranga,1
+NZ,spa_world_au_nz,Nelson,1
+NZ,spa_world_au_nz,Christchurch,1
+NZ,spa_world_au_nz,Auckland,1
+CHRISTCHURCH,sportscraft,Christchurch Central,1
+TIMARU,sportscraft,Timaru,1
+AUCKLAND,sportscraft,Newmarket,3
+WELLINGTON,sportscraft,Wellington Central,3
+CHRISTCHURCH,sportscraft,Merivale,2
+AUCKLAND,sportscraft,Milford,1
+AUCKLAND,sportscraft,Mount Albert,1
+CANTERBURY,spotlight,Christchurch City,2
+AUCKLAND,spotlight,Auckland,6
+OTAGO,spotlight,Queenstown-Lakes District,1
+WELLINGTON,spotlight,Kapiti Coast District,1
+NORTHLAND,spotlight,Whangarei,1
+WELLINGTON,spotlight,Wellington City,1
+BAYOFPLENTY,spotlight,Tauranga City,1
+BAYOFPLENTY,spotlight,Rotorua District,1
+MANAWATUWANGANUI,spotlight,Palmerston North City,1
+TARANAKI,spotlight,New Plymouth District,1
+NELSON,spotlight,Nelson City,1
+SOUTHLAND,spotlight,Invercargill City,1
+HAWKESBAY,spotlight,Hastings District,1
+WAIKATO,spotlight,Hamilton City,1
+OTAGO,spotlight,Dunedin City,1
+NZSOUTH,sunglass_hut_1,Christchurch,4
+NZSOUTH,sunglass_hut_1,Auckland,7
+WELLINGTON,sunglass_hut_1,Wellington,2
+NZNORTH,sunglass_hut_1,Auckland,5
+NZNORTH,sunglass_hut_1,New Plymouth,1
+WELLINGTON,sunglass_hut_1,Lower Hutt,1
+NZNORTH,sunglass_hut_1,Hamilton,1
+AUCKLAND,sunglass_hut_1,Auckland,1
+WAIKATO,sunglass_hut_1,Hamilton,1
+OTA,sunglass_hut_1,Queenstown,1
+UNKNOWN,sunglass_hut_1,Dunedin,1
+BOP,sunglass_hut_1,Mt. Maunganui,1
+UNKNOWN,superdry,Queenstown,1
+UNKNOWN,superdry,Auckland,2
+CAN,t2,Riccarton,1
+AUK,t2,Mount Albert,1
+AUK,t2,Auckland,1
+WGN,t2,Wellington,1
+AUK,t2,Albany,1
+BOP,t2,Tauranga,1
+AUCKLAND,the_cheesecake_shop,unknown,12
+HAMILTON,the_cheesecake_shop,unknown,2
+ROTORUA,the_cheesecake_shop,unknown,1
+TAURANGA,the_cheesecake_shop,unknown,1
+WHANGAREI,the_cheesecake_shop,unknown,1
+AUK,the_north_face_au_nz,Auckland,1
+OTA,the_north_face_au_nz,Queenstown,1
+CAN,the_north_face_au_nz,Christchurch,1
+AUK,the_north_face_au_nz,Onehunga,1
+UNKNOWN,timberland,Auckland,4
+UNKNOWN,timberland,Wellington,1
+AUCKLAND,tommy_hilfiger_au_nz,Auckland,2
+CANTERBURY,tommy_hilfiger_au_nz,Selwyn District,1
+WELLINGTON,tommy_hilfiger_au_nz,Porirua City,1
+OTAGO,tommy_hilfiger_au_nz,Queenstown-Lakes District,1
+TKI,toyworld_nz,New Plymouth,1
+WGN,toyworld_nz,Wellington,1
+WGN,toyworld_nz,Johnsonville,1
+STL,toyworld_nz,Invercargill,1
+MWT,toyworld_nz,Palmerston North,1
+WGN,toyworld_nz,Lower Hutt,1
+WKO,toyworld_nz,Matamata,1
+AUK,toyworld_nz,Manukau,1
+WKO,toyworld_nz,Hamilton,1
+WTC,toyworld_nz,Westport,1
+BOP,toyworld_nz,Tauranga,1
+AUK,toyworld_nz,Albany,1
+AUK,toyworld_nz,Auckland,1
+AUK,toyworld_nz,East Tamaki,1
+HKB,toyworld_nz,Napier,1
+AUK,toyworld_nz,Westgate,1
+AUK,toyworld_nz,Pukekohe,1
+AUK,toyworld_nz,Silverdale,1
+AUK,toyworld_nz,New Lynn,1
+AUK,toyworld_nz,Sylvia Park,1
+WKO,toyworld_nz,Te Awamutu,1
+WKO,toyworld_nz,Waihi,1
+AUK,toyworld_nz,Henderson,1
+AUK,toyworld_nz,St Lukes,1
+CAN,toyworld_nz,Christchurch,3
+SOUTHLAND,travelex,Invercargill,1
+SOUTHLAND,travelex,Winton,1
+SOUTHLAND,travelex,Te Anau,1
+OTAGO,travelex,Dunedin,1
+OTAGO,travelex,Queenstown,2
+CANTERBURY,travelex,Timaru,1
+CANTERBURY,travelex,Temuka,1
+CANTERBURY,travelex,Christchurch,7
+CANTERBURY,travelex,Ferrymead,1
+CANTERBURY,travelex,Northcote,1
+CANTERBURY,travelex,Rangiora,1
+NELSON,travelex,Nelson,1
+WELLINGTON,travelex,Wellington,1
+WELLINGTON,travelex,Waikanae,1
+MANAWATUWANGANUI,travelex,Palmerston North,2
+WAIKATO,travelex,Hamilton,1
+BAYOFPLENTY,travelex,Tauranga,2
+AUCKLAND,travelex,Auckland,13
+AUCKLAND,travelex,Helensville,1
+CANTERBURY,vapo_nz,Christchurch,1
+AUCKLAND,vapo_nz,Mt Eden,1
+OTAGO,vapo_nz,Dunedin,1
+WAIKATO,vapo_nz,Hamilton,1
+AUCKLAND,vapo_nz,Auckland,6
+AUCKLAND,vapo_nz,Auckland CBD,1
+AUCKLAND,vapo_nz,Manukau,1
+BAYOFPLENTY,vapo_nz,Mount Maunganui,1
+NELSON,vapo_nz,Nelson,1
+AUCKLAND,vapo_nz,Pukekohe Hill,1
+OTAGO,vapo_nz,Queenstown,1
+AUCKLAND,vapo_nz,Mount Wellington,1
+WELLINGTON,vapo_nz,Wellington,1
+UNKNOWN,visa,STEWART ISLAND,1
+UNKNOWN,visa,SOUTHLAND,4
+UNKNOWN,visa,CANTERBURY,1
+UNKNOWN,visa,TOKANUI,2
+UNKNOWN,visa,INVERCARGILL,28
+NZ,visa,INVERCARGILL,5
+SOUTHLAND,visa,INVERCARGILL,10
+SOUTHLAND,visa,RIVERTON,1
+UNKNOWN,visa,RIVERTON,1
+UNKNOWN,visa,"INVERCARGILL,",1
+NZ,visa,"INVERCARGILL,",1
+UNKNOWN,visa,TUATAPERE,1
+UNKNOWN,visa,WYNDHAM,3
+UNKNOWN,visa,EDENDALE,1
+UNKNOWN,visa,OTAUTAU,2
+UNKNOWN,visa,OWAKA,1
+UNKNOWN,visa,WINTON,3
+NZ,visa,WINTON,1
+SOUTHLAND,visa,WINTON,1
+UNKNOWN,visa,MATAURA,3
+UNKNOWN,visa,NIGHTCAPS,1
+UNKNOWN,visa,GORE,8
+UNKNOWN,visa,BALCLUTHA,4
+SOUTHLAND,visa,GORE,3
+NZ,visa,GORE,1
+OTAGO,visa,BALCLUTHA,2
+NZ,visa,BALCLUTHA,1
+UNKNOWN,visa,RIVERSDALE,1
+OTAGO,visa,MILTON,2
+UNKNOWN,visa,MILTON,1
+UNKNOWN,visa,TAPANUI,2
+UNKNOWN,visa,LUMSDEN,1
+UNKNOWN,visa,LAWRENCE,1
+UNKNOWN,visa,TE ANAU,2
+SOUTHLAND,visa,TE ANAU,2
+NZ,visa,DUNEDIN,7
+UNKNOWN,visa,DUNEDIN,33
+OTAGO,visa,MOSGIEL,2
+UNKNOWN,visa,MOSGIEL,1
+OTAGO,visa,DUNEDIN,17
+NA,visa,DUNEDIN,1
+UNKNOWN,visa,"DUNEDIN, OTAGO",1
+UNKNOWN,visa,ROXBURGH,1
+UNKNOWN,visa,ATHOL,1
+UNKNOWN,visa,WAIKOUAITI,1
+UNKNOWN,visa,ALEXANDRA,5
+OTAGO,visa,ALEXANDRA,2
+UNKNOWN,visa,PALMERSTON,1
+UNKNOWN,visa,"PALMERSTON, OTAGO",1
+NA,visa,ALEXANDRA,1
+NZ,visa,ALEXANDRA,1
+UNKNOWN,visa,QUEENSTOWN,13
+OTAGO,visa,QUEENSTOWN,8
+NA,visa,QUEENSTOWN,1
+UNKNOWN,visa,FRANKTON,1
+NZ,visa,FRANKTON,1
+NZ,visa,QUEENSTOWN,1
+UNKNOWN,visa,HAMILTON,55
+UNKNOWN,visa,QUEESTOWN,1
+UNKNOWN,visa,CROMWELL,4
+UNKNOWN,visa,HAMPDEN,1
+NA,visa,CROMWELL,1
+OTAGO,visa,CROMWELL,2
+UNKNOWN,visa,OMAKAU,1
+UNKNOWN,visa,ARROWTOWN,2
+UNKNOWN,visa,GLENORCHY,1
+OTAGO,visa,RANFURLY,1
+UNKNOWN,visa,RANFURLY,1
+NZ,visa,OAMARU,3
+UNKNOWN,visa,OAMARU,6
+OTAGO,visa,OAMARU,3
+UNKNOWN,visa,OAMARU NORTH,1
+UNKNOWN,visa,WANAKA,4
+NZ,visa,WANAKA,1
+OTAGO,visa,WANAKA,4
+CANTERBURY,visa,WAIMATE,1
+UNKNOWN,visa,WAIMATE,3
+NZ,visa,WAIMATE,1
+NZ,visa,"WAIMATE, SOUTH ISLAND",1
+UNKNOWN,visa,TEKAPO,1
+UNKNOWN,visa,TWIZEL,2
+CANTERBURY,visa,TWIZEL,1
+UNKNOWN,visa,TIMARU,10
+CANTERBURY,visa,TIMARU,5
+NZ,visa,TIMARU,3
+UNKNOWN,visa,PLEASANT POINT,2
+UNKNOWN,visa,HAAST,1
+UNKNOWN,visa,TEMUKA,3
+CANTERBURY,visa,TEMUKA,1
+NZ,visa,TEMUKA,1
+CANTERBURY,visa,FAIRLIE,1
+CANTERBURY,visa,GERALDINE,2
+UNKNOWN,visa,GERALDINE,3
+UNKNOWN,visa,MT COOK,2
+UNKNOWN,visa,ASHBURTON,11
+CANTERBURY,visa,ASHBURTON,6
+NZ,visa,ASHBURTON,2
+UNKNOWN,visa,SOUTHBRIDGE,1
+UNKNOWN,visa,RAKAIA,2
+UNKNOWN,visa,LEESTON,1
+UNKNOWN,visa,FRANZ JOSEF,1
+UNKNOWN,visa,METHVEN,3
+UNKNOWN,visa,AKAROA,2
+UNKNOWN,visa,DUNSANDEL,1
+UNKNOWN,visa,CHRISTCHURCH,158
+NZ,visa,CHRISTCHURCH,39
+CANTERBURY,visa,CHRISTCHURCH,74
+UNKNOWN,visa,CHATHAM ISLAN,2
+UNKNOWN,visa,CHRISTCURCH,1
+NZ,visa,LYTTLETON,1
+UNKNOWN,visa,COALGATE,1
+CANTERBURY,visa,DARFIELD,1
+UNKNOWN,visa,DARFIELD,2
+NZ,visa,DARFIELD,1
+UNKNOWN,visa,SYDENHAM,1
+UNKNOWN,visa,"CHRISTCHURCH, CANTERBURY",3
+UNKNOWN,visa,ADDINGTON,1
+UNKNOWN,visa,WOOLSTON,1
+NA,visa,CHRISTCHURCH,1
+UNKNOWN,visa,"MAIREHAU, CHRISTCHURCH",1
+UNKNOWN,visa,SPRINGFIELD,1
+UNKNOWN,visa,KAIAPOI,4
+CANTERBURY,visa,KAIAPOI,2
+NZ,visa,KAIAPOI,1
+CANTERBURY,visa,OXFORD,1
+CANTERBURY,visa,RANGIORA,5
+UNKNOWN,visa,RANGIORA,6
+UNKNOWN,visa,WOODEND,1
+NZ,visa,RANGIORA,2
+NZ,visa,WOODEND,1
+UNKNOWN,visa,ARTHURS PASS,1
+UNKNOWN,visa,HOKITIKA,4
+WESTCOAST,visa,HOKITIKA,1
+NZ,visa,HOKITIKA,1
+UNKNOWN,visa,GRETA VALLEY,1
+UNKNOWN,visa,CULVERDEN,1
+UNKNOWN,visa,CHEVIOT,1
+NZ,visa,GREYMOUTH,1
+UNKNOWN,visa,GREYMOUTH,8
+UNKNOWN,visa,DOBSON,1
+WESTCOAST,visa,GREYMOUTH,2
+UNKNOWN,visa,RUNANGA,1
+UNKNOWN,visa,HANMER SPRINGS,2
+UNKNOWN,visa,HANMER SPRING,2
+NZ,visa,HANMER SPRINGS,1
+UNKNOWN,visa,KAIKOURA,3
+CANTERBURY,visa,KAIKOURA,2
+NZ,visa,KAIKOURA,1
+WESTCOAST,visa,REEFTON,1
+UNKNOWN,visa,REEFTON,1
+WESTCOAST,visa,WESTPORT,2
+UNKNOWN,visa,WESTPORT,6
+NZ,visa,WESTPORT,1
+UNKNOWN,visa,MURCHISON,1
+UNKNOWN,visa,NELSON,25
+UNKNOWN,visa,SEDDON,1
+UNKNOWN,visa,TAPAWERA,1
+MARLBOROUGH,visa,BLENHEIM,6
+UNKNOWN,visa,BLENHEIM,14
+UNKNOWN,visa,WAKEFIELD,2
+UNKNOWN,visa,RENWICK,1
+NZ,visa,BLENHEIM,3
+UNKNOWN,visa,KARMAMEA,1
+UNKNOWN,visa,KARAMEA,1
+TASMAN,visa,RICHMOND,3
+NELSON,visa,NELSON,9
+UNKNOWN,visa,"RICHMOND, NELSON",1
+UNKNOWN,visa,RICHMOND,3
+NZ,visa,RICHMOND,1
+UNKNOWN,visa,STOKE,1
+NZ,visa,STOKE,1
+NZ,visa,NELSON,4
+NZ,visa,"STOKE, NELSON",1
+UNKNOWN,visa,MAPUA,1
+MARLBOROUGH,visa,PICTON,1
+UNKNOWN,visa,PICTON,3
+NZ,visa,PICTON,1
+WELLINGTON,visa,WELLINGTON,68
+UNKNOWN,visa,WELLINGTON,60
+TASMAN,visa,MOTUEKA,2
+UNKNOWN,visa,MOTUEKA,8
+NZ,visa,MOTUEKA,3
+NZ,visa,WELLINGTON,18
+UNKNOWN,visa,KILBIRNIE,1
+NA,visa,WELLINGTON,3
+UNKNOWN,visa,MIRAMAR,1
+UNKNOWN,visa,BROOKLYN,1
+UNKNOWN,visa,TE ARO,1
+WELLINGTON,visa,LOWER HUTT,5
+UNKNOWN,visa,LOWER HUTT,28
+WELLINGTON,visa,WAINUIOMATA,1
+NZ,visa,LOWER HUTT,4
+UNKNOWN,visa,PETONE,3
+UNKNOWN,visa,PENTONE,1
+NZ,visa,NAENAE,1
+UNKNOWN,visa,NAENAE,1
+UNKNOWN,visa,TAWA,2
+NZ,visa,MARTINBOROUGH,1
+UNKNOWN,visa,MARTINBOROUGH,2
+WELLINGTON,visa,MARTINBOROUGH,1
+UNKNOWN,visa,PORIRUA,10
+WELLINGTON,visa,PORIRUA,2
+NZ,visa,PORIRUA,2
+WELLINGTON,visa,UPPER HUTT,4
+UNKNOWN,visa,UPPER HUTT,8
+NZ,visa,UPPER HUTT,2
+NZ,visa,TAKAKA,1
+UNKNOWN,visa,TAKAKA,5
+TASMAN,visa,TAKAKA,1
+UNKNOWN,visa,PORIUNA,1
+WELLINGTON,visa,FEATHERSTON,1
+NZ,visa,FEATHERSTON,1
+UNKNOWN,visa,FEATHERSTON,1
+WELLINGTON,visa,GREYTOWN,1
+UNKNOWN,visa,GREYTOWN,2
+NZ,visa,GREYTOWN,1
+UNKNOWN,visa,PAEKAKARIKI,1
+UNKNOWN,visa,CATERTON,1
+WELLINGTON,visa,CARTERTON,2
+UNKNOWN,visa,CARTERTON,1
+NZ,visa,CARTERTON,1
+UNKNOWN,visa,"COLLINGWOOD, NELSON",1
+WELLINGTON,visa,RAUMATI BEACH,1
+UNKNOWN,visa,PARAPARAUMU,8
+UNKNOWN,visa,KAPITI,1
+WELLINGTON,visa,PARAPARAUMU,5
+UNKNOWN,visa,WAIKATO,5
+UNKNOWN,visa,MASTERTON,5
+NZ,visa,MASTERTON,2
+WELLINGTON,visa,MASTERTON,6
+UNKNOWN,visa,WAIKANAE,3
+WELLINGTON,visa,WAIKANAE,2
+WELLINGTON,visa,OTAKI,3
+UNKNOWN,visa,OTAKI,4
+NZ,visa,OTAKI,1
+NZ,visa,LEVIN,2
+UNKNOWN,visa,LEVIN,6
+WHANGANUIMANAWATU,visa,LEVIN,4
+MANAWATUWANGANUI,visa,LEVIN,1
+UNKNOWN,visa,EKETAHUNA,2
+WHANGANUIMANAWATU,visa,SHANNON,1
+NZ,visa,FOXTON,1
+UNKNOWN,visa,FOXTON,2
+WHANGANUIMANAWATU,visa,FOXTON,1
+UNKNOWN,visa,PAHIATUA,2
+WHANGANUIMANAWATU,visa,PAHIATUA,1
+UNKNOWN,visa,PAIHIATUA,1
+UNKNOWN,visa,PALMERSTON NORTH,25
+WHANGANUIMANAWATU,visa,PALMERSTON NORTH,10
+NZ,visa,PALMERSTON NORTH,4
+NA,visa,PALMERSTON NORTH,1
+MANAWATUWANGANUI,visa,PALMERSTON NORTH,7
+UNKNOWN,visa,PALMERSTON NO,1
+UNKNOWN,visa,MANAWATU-WANGANUI,1
+MANAWATUWANGANUI,visa,WOODVILLE,1
+UNKNOWN,visa,WOODVILLE,1
+NZ,visa,SANSON,1
+UNKNOWN,visa,FEILDING,6
+NZ,visa,FEILDING,1
+WHANGANUIMANAWATU,visa,FEILDING,3
+MANAWATUWANGANUI,visa,FEILDING,1
+WHANGANUIMANAWATU,visa,BULLS,1
+MANAWATUWANGANUI,visa,BULLS,1
+UNKNOWN,visa,BULLS,1
+WHANGANUIMANAWATU,visa,DANNEVIRKE,2
+UNKNOWN,visa,DANNEVIRKE,5
+NZ,visa,DANNEVIRKE,1
+MANAWATUWANGANUI,visa,DANNEVIRKE,1
+UNKNOWN,visa,MARTON,3
+WHANGANUIMANAWATU,visa,MARTON,1
+NZ,visa,MARTON,1
+UNKNOWN,visa,WANGANUI,13
+UNKNOWN,visa,WAIPUKURAU,5
+UNKNOWN,visa,WHANGANUI,5
+MANAWATUWANGANUI,visa,WHANGANUI,5
+NZ,visa,WHANGANUI,2
+WHANGANUIMANAWATU,visa,WHANGANUI,7
+NZ,visa,WANGANUI,1
+UNKNOWN,visa,AUCKLAND,410
+UNKNOWN,visa,HUNTERVILLE,1
+NZ,visa,WAIPUKURAU,1
+HAWKESBAY,visa,WAIPUKURAU,2
+UNKNOWN,visa,PATEA,1
+UNKNOWN,visa,WAIPAWA,1
+HAWKESBAY,visa,WAIPAWA,1
+NZ,visa,HAWERA,2
+UNKNOWN,visa,HAWERA,9
+TARANAKI,visa,HAWERA,2
+UNKNOWN,visa,TARANAKI,2
+UNKNOWN,visa,MANAIA,3
+WHANGANUIMANAWATU,visa,TAIHAPE,1
+MANAWATUWANGANUI,visa,TAIHAPE,1
+UNKNOWN,visa,TAIHAPE,2
+NZ,visa,OPUNAKE,1
+UNKNOWN,visa,OPUNAKE,2
+UNKNOWN,visa,"OPUNAKE, TARANAKI",1
+UNKNOWN,visa,KAPONGA,1
+UNKNOWN,visa,ELTHAM,1
+HAWKESBAY,visa,HASTINGS,11
+UNKNOWN,visa,HAVELOCK NORTH,2
+NZ,visa,HAVELOCK NORTH,1
+HAWKESBAY,visa,HAVELOCK NORTH,1
+UNKNOWN,visa,NAPIER,31
+NZ,visa,HASTINGS,2
+UNKNOWN,visa,HASTINGS,23
+NZ,visa,FLAXMERE,1
+UNKNOWN,visa,HAUMOANA,1
+UNKNOWN,visa,STRATFORD,4
+NA,visa,STRATFORD,1
+TARANAKI,visa,STRATFORD,1
+HAWKESBAY,visa,NAPIER,15
+UNKNOWN,visa,HAWKES BAY,1
+UNKNOWN,visa,STRATFORD WEST,1
+NZ,visa,WAIOURU,1
+MANAWATUWANGANUI,visa,WAIOURU,1
+UNKNOWN,visa,WAIOURU,2
+UNKNOWN,visa,RAETIHI,1
+UNKNOWN,visa,OHAKUNE,2
+MANAWATUWANGANUI,visa,OHAKUNE,1
+UNKNOWN,visa,MIDHIRST,1
+UNKNOWN,visa,TARADALE,1
+NZ,visa,NAPIER,4
+UNKNOWN,visa,INGLEWOOD,1
+UNKNOWN,visa,NEW PLYMOUTH,16
+TARANAKI,visa,NEW PLYMOUTH,9
+NZ,visa,NEW PLYMOUTH,1
+NZ,visa,WAITARA,1
+TARANAKI,visa,WAITARA,1
+UNKNOWN,visa,"WAITARA, TARANAKI",1
+UNKNOWN,visa,URENUI,1
+UNKNOWN,visa,TURANGI,5
+WAIKATO,visa,TURANGI,1
+UNKNOWN,visa,MAHIA,2
+UNKNOWN,visa,TAUMARUNUI,4
+WHANGANUIMANAWATU,visa,TAUMARUNUI,1
+MANAWATUWANGANUI,visa,TAUMARUNUI,1
+NA,visa,TAUMARUNUI,1
+UNKNOWN,visa,WAIROA,6
+HAWKESBAY,visa,WAIROA,2
+NZ,visa,WAIROA,1
+NZ,visa,TURANGI,1
+UNKNOWN,visa,TAUPO,14
+NZ,visa,TAUPO,2
+WAIKATO,visa,TAUPO,5
+UNKNOWN,visa,"TAUPO, WAIKATO",1
+WAIKATO,visa,WAIRAKEI,1
+UNKNOWN,visa,PIO PIO,1
+GISBORNE,visa,GISBORNE,10
+NA,visa,GISBORNE,1
+UNKNOWN,visa,GISBORNE,14
+NZ,visa,GISBORNE,3
+UNKNOWN,visa,REPOROA,1
+UNKNOWN,visa,TE KUITI,6
+NZ,visa,TE KUITI,1
+WAIKATO,visa,TE KUITI,2
+BAYOFPLENTY,visa,MURUPARA,1
+UNKNOWN,visa,MANGAKINO,1
+UNKNOWN,visa,OTOROHANGA,3
+WAIKATO,visa,OTOROHANGA,2
+UNKNOWN,visa,TOKOROA,9
+NZ,visa,TOKOROA,2
+WAIKATO,visa,TOKOROA,3
+UNKNOWN,visa,TOLAGA BAY,1
+UNKNOWN,visa,OPARAU,1
+BAYOFPLENTY,visa,ROTORUA,15
+UNKNOWN,visa,ROTORUA,34
+NZ,visa,ROTORUA,7
+NA,visa,ROTORUA,1
+UNKNOWN,visa,KIHIKIHI,1
+WAIKATO,visa,TE AWAMUTU,5
+UNKNOWN,visa,TE AWAMUTU,8
+NZ,visa,TE AWAMUTU,2
+UNKNOWN,visa,PUTARURU,3
+WAIKATO,visa,PUTARURU,2
+NZ,visa,WAIKATO,1
+BAYOFPLENTY,visa,KAWERAU,2
+UNKNOWN,visa,KAWERAU,2
+UNKNOWN,visa,TIRAU,1
+UNKNOWN,visa,BAY OF PLENTY,2
+UNKNOWN,visa,TOKOMARU BAY,1
+WAIKATO,visa,CAMBRIDGE,4
+UNKNOWN,visa,CAMBRIDGE,7
+UNKNOWN,visa,RAGLAN,3
+NZ,visa,OPOTIKI,2
+UNKNOWN,visa,OPOTIKI,6
+UNKNOWN,visa,"RAGLAN, WAIKATO",1
+WAIKATO,visa,RAGLAN,1
+NZ,visa,"OPOTIKI, NORTH ISLAND",2
+UNKNOWN,visa,EDGECUMBE,3
+BAYOFPLENTY,visa,OPOTIKI,2
+WAIKATO,visa,HAMILTON,25
+UNKNOWN,visa,WHAKATANE,17
+UNKNOWN,visa,OHOPE,1
+NZ,visa,HAMILTON,15
+BAYOFPLENTY,visa,WHAKATANE,5
+NZ,visa,WHAKATANE,2
+NA,visa,HAMILTON,1
+UNKNOWN,visa,MATAMATA,6
+NZ,visa,MATAMATA,1
+WAIKATO,visa,MATAMATA,2
+UNKNOWN,visa,MATATA,1
+UNKNOWN,visa,HOROTIU,1
+UNKNOWN,visa,PONGAKAWA,1
+BAYOFPLENTY,visa,TE PUKE,4
+UNKNOWN,visa,TE PUKE,3
+WAIKATO,visa,NGARUAWAHIA,2
+NZ,visa,TE PUKE,1
+UNKNOWN,visa,NGARUAWAHIA,3
+NZ,visa,NGARUAWAHIA,1
+UNKNOWN,visa,EAST COAST,1
+UNKNOWN,visa,TAURANGA,41
+BAYOFPLENTY,visa,TAURANGA,27
+NZ,visa,TAURANGA,6
+UNKNOWN,visa,MORRINSVILLE,4
+WAIKATO,visa,MORRINSVILLE,2
+NZ,visa,MORRINSVILLE,1
+WAIKATO,visa,TAUPIRI,1
+UNKNOWN,visa,TAUPIRI,1
+BAYOFPLENTY,visa,PAPAMOA,1
+UNKNOWN,visa,PAPAMOA,5
+NZ,visa,PAPAMOA,1
+UNKNOWN,visa,"TAURANGA, BAY OF PLENTY",1
+NA,visa,TAURANGA,1
+UNKNOWN,visa,MT MAUNGANUI,3
+BAYOFPLENTY,visa,MOUNT MAUNGANUI,1
+NZ,visa,HUNTLY,1
+UNKNOWN,visa,HUNTLY,4
+WAIKATO,visa,HUNTLY,2
+UNKNOWN,visa,OMOKOROA,1
+NZ,visa,OMOKOROA,1
+UNKNOWN,visa,MOUNT MANGANUI,2
+UNKNOWN,visa,TE KAHA,1
+UNKNOWN,visa,WAIHOU,1
+UNKNOWN,visa,TE AROHA,6
+WAIKATO,visa,TE AROHA,2
+UNKNOWN,visa,KATIKATI,2
+BAYOFPLENTY,visa,KATIKATI,2
+NZ,visa,KATIKATI,1
+UNKNOWN,visa,RANGARIRI WAIKATO,1
+UNKNOWN,visa,TE KAUWHATA,1
+WAIKATO,visa,WAIHI BEACH,1
+UNKNOWN,visa,PAEROA,4
+UNKNOWN,visa,WAIHI,5
+WAIKATO,visa,PAEROA,2
+WAIKATO,visa,WAIHI,3
+NA,visa,WAIHI,1
+UNKNOWN,visa,WAIUKU,1
+NZ,visa,WAIUKU,1
+UNKNOWN,visa,MERCER,2
+NZ,visa,TUAKAU,1
+UNKNOWN,visa,POKENO,1
+UNKNOWN,visa,PUKEKOHE,5
+UNKNOWN,visa,MILFORD - AUCKLAND,1
+UNKNOWN,visa,MARAMARUA,1
+NZ,visa,NGATEA,1
+UNKNOWN,visa,NGATEA,1
+AUCKLAND,visa,PUKEKOHE,1
+UNKNOWN,visa,GLENBROOK,1
+NZ,visa,PUKEKOHE,1
+AUCKLAND,visa,AUCKLAND,209
+UNKNOWN,visa,PATUMAHOE,1
+UNKNOWN,visa,KOPU,1
+NZ,visa,"WHANGAMATA, NORTH ISLAND",1
+UNKNOWN,visa,WHANGAMATA,4
+WAIKATO,visa,WHANGAMATA,2
+WAIKATO,visa,THAMES,3
+UNKNOWN,visa,THAMES,5
+AUCKLAND,visa,PAPAKURA,1
+NZ,visa,AUCKLAND,66
+UNKNOWN,visa,MANUKAU,5
+NZ,visa,MANUKAU,4
+UNKNOWN,visa,WEYMOUTH,1
+UNKNOWN,visa,MANUREWA,2
+UNKNOWN,visa,WIRI,1
+UNKNOWN,visa,PAPATOETOE,2
+UNKNOWN,visa,MANAKAU,1
+UNKNOWN,visa,MANGERE,1
+NZ,visa,OTARA,1
+UNKNOWN,visa,OTARA,2
+UNKNOWN,visa,FLATBUSH,1
+UNKNOWN,visa,OTAHUHU,1
+UNKNOWN,visa,ONEHUNGA,1
+UNKNOWN,visa,GLEN EDEN,1
+UNKNOWN,visa,HENDERSON,4
+NA,visa,AUCKLAND,3
+NZ,visa,WAITAKERE,2
+UNKNOWN,visa,"TUAKAU, AUCKLAND",1
+UNKNOWN,visa,"NEW LYNN, AUCKLAND",1
+UNKNOWN,visa,ROYAL OAK,1
+UNKNOWN,visa,MT ROSKILL,1
+UNKNOWN,visa,PAUANUI,1
+UNKNOWN,visa,RONGOTEA,1
+UNKNOWN,visa,TAIRUA,2
+WAIKATO,visa,TAIRUA,1
+UNKNOWN,visa,POINT CHEVALI,1
+NZ,visa,HENDERSON,1
+UNKNOWN,visa,EDEN TERRACE,1
+UNKNOWN,visa,MASSEY,1
+NZ,visa,AUCKLAND CBD,1
+UNKNOWN,visa,TAKANINI,1
+UNKNOWN,visa,DEVONPORT,1
+UNKNOWN,visa,COROGLEN,1
+NZ,visa,NORTH SHORE CITY,4
+UNKNOWN,visa,KUMEU,2
+NZ,visa,WAIMAUKU,1
+UNKNOWN,visa,WAIMAUKU,1
+UNKNOWN,visa,HUAPAI,1
+NZ,visa,NORTH SHORE,1
+UNKNOWN,visa,NORTH SHORE CITY,1
+UNKNOWN,visa,GLENFIELD,1
+UNKNOWN,visa,WAIHEKE ISLAND,2
+UNKNOWN,visa,"WAIHEKE, AUCKLAND",1
+UNKNOWN,visa,WAIHEKE,2
+UNKNOWN,visa,ALBANY,2
+UNKNOWN,visa,WHITIANGA,6
+WAIKATO,visa,WHITIANGA,2
+NZ,visa,WHITIANGA,1
+UNKNOWN,visa,HELENSVILLE,2
+NZ,visa,HELENSVILLE,1
+UNKNOWN,visa,PARAKAI,1
+UNKNOWN,visa,COROMANDEL,3
+NZ,visa,COROMANDEL,1
+UNKNOWN,visa,WHANGAPAROA,1
+UNKNOWN,visa,WHANGAPARAOA,3
+UNKNOWN,visa,"SILVERDALE, AUCKLAND",1
+UNKNOWN,visa,SILVERDALE,2
+UNKNOWN,visa,OREWA,3
+UNKNOWN,visa,PUHOI,1
+NZ,visa,SNELLS BEACH,1
+UNKNOWN,visa,SNELLS BEACH,1
+UNKNOWN,visa,WARKWORTH,5
+AUCKLAND,visa,WARKWORTH,1
+NZ,visa,WARKWORTH,1
+UNKNOWN,visa,WELLSFORD,4
+UNKNOWN,visa,KAITAIA,10
+NZ,visa,WELLSFORD,1
+UNKNOWN,visa,KAIWAKA,1
+UNKNOWN,visa,MAUNGATUROTO,2
+UNKNOWN,visa,MANGATUROTO,1
+UNKNOWN,visa,MANGAWHAI,3
+UNKNOWN,visa,DARGAVILLE,5
+UNKNOWN,visa,DARGAVILLE AUCKLAND,1
+NORTHLAND,visa,DARGAVILLE,2
+NZ,visa,DARGAVILLE,1
+UNKNOWN,visa,"DARGAVILLE,",1
+UNKNOWN,visa,WAIPU,1
+NORTHLAND,visa,WAIPU,1
+UNKNOWN,visa,RUAKAKA,1
+NORTHLAND,visa,RUAKAKA,1
+UNKNOWN,visa,WHANGAREI,28
+UNKNOWN,visa,MARSDEN COVE,1
+NZ,visa,OTAIKA,1
+NORTHLAND,visa,WHANGAREI,11
+UNKNOWN,visa,"ONERAHI, WHANGAREI",1
+UNKNOWN,visa,OTAIKA,1
+NZ,visa,WHANGAREI,6
+UNKNOWN,visa,KAMO,3
+UNKNOWN,visa,OPONONI,2
+UNKNOWN,visa,NGUNGURU,1
+UNKNOWN,visa,HIKURANGI,1
+UNKNOWN,visa,RAWENE,1
+UNKNOWN,visa,KAIKOHE,2
+NORTHLAND,visa,KAIKOHE,2
+UNKNOWN,visa,MOEREWA,1
+UNKNOWN,visa,"MOEREWA, NORTHLAND",1
+NORTHLAND,visa,KAWAKAWA,1
+NZ,visa,KAWAKAWA,1
+UNKNOWN,visa,KAWAKAWA,1
+UNKNOWN,visa,OPUA,1
+UNKNOWN,visa,HARURU,1
+UNKNOWN,visa,PAIHIA,4
+NZ,visa,PAIHIA,1
+NORTHLAND,visa,PAIHIA,1
+NORTHLAND,visa,RUSSELL,1
+UNKNOWN,visa,RUSSELL,1
+UNKNOWN,visa,KERIKERI,5
+NORTHLAND,visa,KERIKERI,2
+NZ,visa,KERIKERI,1
+NORTHLAND,visa,KAITAIA,3
+NORTHLAND,visa,WAIPAPA,1
+UNKNOWN,visa,AWANUI,1
+UNKNOWN,visa,KAEO,1
+UNKNOWN,visa,TAIPA,1
+UNKNOWN,visa,MANGONUI,3
+CANTERBURY,western_union,Christchurch,18
+AUCKLAND,western_union,Papakura,2
+OTAGO,western_union,Alexandra,1
+CANTERBURY,western_union,Winchester,1
+OTAGO,western_union,Queenstown,2
+OTAGO,western_union,Dunedin,4
+OTAGO,western_union,South Dunedin,1
+OTAGO,western_union,Balclutha,1
+SOUTHLAND,western_union,Te Anau,1
+CANTERBURY,western_union,Darfield,1
+WESTCOAST,western_union,Hokitika,1
+TASMAN,western_union,Motueka,1
+BAYOFPLENTY,western_union,Tauranga,3
+CANTERBURY,western_union,Harewood,1
+NORTHLAND,western_union,Kaitaia,1
+NORTHLAND,western_union,Kerikeri,1
+NORTHLAND,western_union,Kawakawa,1
+NORTHLAND,western_union,Dargaville,1
+NORTHLAND,western_union,Whangarei,1
+AUCKLAND,western_union,Auckland,53
+AUCKLAND,western_union,Glenfield,1
+MANAWATUWANGANUI,western_union,Manawatu Whanganui,1
+MANAWATUWANGANUI,western_union,Whanganui,1
+MANAWATUWANGANUI,western_union,Wanganui,1
+MANAWATUWANGANUI,western_union,Feilding,1
+MANAWATUWANGANUI,western_union,Palmerston North,2
+MANAWATUWANGANUI,western_union,Ohakune,1
+WELLINGTON,western_union,Masterton,1
+WELLINGTON,western_union,Upper Hutt,1
+HAWKESBAY,western_union,Flaxmere,1
+HAWKESBAY,western_union,Hastings,5
+AUCKLAND,western_union,Otara,1
+AUCKLAND,western_union,Manukau,2
+AUCKLAND,western_union,New Lynn,1
+AUCKLAND,western_union,Mangere Bridge,1
+AUCKLAND,western_union,Mt Wellington,1
+AUCKLAND,western_union,Henderson,1
+AUCKLAND,western_union,Northcote Point,1
+AUCKLAND,western_union,Kelston,1
+AUCKLAND,western_union,Glen Eden,1
+AUCKLAND,western_union,Avondale,1
+BAYOFPLENTY,western_union,Te Puke,5
+BAYOFPLENTY,western_union,Papamoa,1
+BAYOFPLENTY,western_union,Mt Maunganui,1
+GISBORNE,western_union,Gisborne,1
+BAYOFPLENTY,western_union,Katikati,1
+BAYOFPLENTY,western_union,Opotiki,2
+WAIKATO,western_union,Tuakau,1
+AUCKLAND,western_union,Waiuku,1
+AUCKLAND,western_union,Pukekohe,1
+BAYOFPLENTY,western_union,Rotorua,2
+TASMAN,western_union,Nelson,1
+NELSON,western_union,Nelson,3
+MARLBOROUGH,western_union,Nelson,1
+TASMAN,western_union,Richmond,1
+WAIKATO,western_union,Matamata,1
+WAIKATO,western_union,Hamilton,4
+WELLINGTON,western_union,Lower Hutt,3
+HAWKESBAY,western_union,Napier,2
+WELLINGTON,western_union,Wellington,5
+TARANAKI,western_union,New Plymouth,1
+WAIKATO,western_union,Taupo,1
+MARLBOROUGH,western_union,Picton,1
+WAIKATO,western_union,Tokoroa,1
+MARLBOROUGH,western_union,Blenheim,1
+UNKNOWN,zambrero,unknown,11
+GISBORNE,z_energy_nz,Gisborne,2
+CANTERBURY,z_energy_nz,Christchurch,19
+BAYOFPLENTY,z_energy_nz,Tauranga,3
+AUCKLAND,z_energy_nz,Albany,2
+OTAGO,z_energy_nz,Dunedin,4
+AUCKLAND,z_energy_nz,West Auckland,4
+BAYOFPLENTY,z_energy_nz,Whakatane,3
+AUCKLAND,z_energy_nz,Auckland,40
+CANTERBURY,z_energy_nz,Belfast,1
+TARANAKI,z_energy_nz,Strathmore,1
+AUCKLAND,z_energy_nz,Manukau,1
+WAIKATO,z_energy_nz,Cambridge,1
+CANTERBURY,z_energy_nz,Timaru,1
+BAYOFPLENTY,z_energy_nz,Mount Maunganui,3
+AUCKLAND,z_energy_nz,24-28 Papakura-Clevedon Road,1
+WELLINGTON,z_energy_nz,Wellington,12
+TARANAKI,z_energy_nz,New Plymouth,4
+OTAGO,z_energy_nz,Cromwell,2
+SOUTHLAND,z_energy_nz,Invercargill,3
+WAIKATO,z_energy_nz,Hamilton,9
+MANAWATUWANGANUI,z_energy_nz,Whanganui,2
+BAYOFPLENTY,z_energy_nz,Rotorua,4
+MANAWATUWANGANUI,z_energy_nz,Palmerston North,4
+CANTERBURY,z_energy_nz,Geraldine,1
+AUCKLAND,z_energy_nz,North Shore,1
+WESTCOAST,z_energy_nz,Greymouth,2
+MARLBOROUGH,z_energy_nz,Blenheim,4
+AUCKLAND,z_energy_nz,South Auckland,7
+WAIKATO,z_energy_nz,New Zealand,1
+HAWKESBAY,z_energy_nz,Havelock North,1
+TARANAKI,z_energy_nz,Hawera,2
+HAWKESBAY,z_energy_nz,Hastings,4
+WELLINGTON,z_energy_nz,Lower Hutt,4
+WAIKATO,z_energy_nz,Huntly,1
+TARANAKI,z_energy_nz,Inglewood,1
+NORTHLAND,z_energy_nz,Kaikohe,1
+NORTHLAND,z_energy_nz,Kaitaia,1
+NORTHLAND,z_energy_nz,Whangarei,4
+WELLINGTON,z_energy_nz,Paraparaumu,1
+BAYOFPLENTY,z_energy_nz,Kawerau,1
+HAWKESBAY,z_energy_nz,Napier,3
+AUCKLAND,z_energy_nz,Papakura,2
+AUCKLAND,z_energy_nz,Manukau City,3
+MANAWATUWANGANUI,z_energy_nz,Levin,2
+AUCKLAND,z_energy_nz,Henderson,1
+AUCKLAND,z_energy_nz,Mairangi Bay,2
+AUCKLAND,z_energy_nz,Whangaparaoa,2
+MANAWATUWANGANUI,z_energy_nz,Marton,1
+WELLINGTON,z_energy_nz,Masterton,2
+WAIKATO,z_energy_nz,Matamata,1
+WAIKATO,z_energy_nz,Morrinsville,1
+OTAGO,z_energy_nz,Mosgiel,1
+WAIKATO,z_energy_nz,Ngaruawahia,1
+WAIKATO,z_energy_nz,Ngatea,2
+OTAGO,z_energy_nz,Oamaru,2
+BAYOFPLENTY,z_energy_nz,Papamoa Beach,1
+OTAGO,z_energy_nz,Palmerston,1
+MARLBOROUGH,z_energy_nz,Picton,1
+WAIKATO,z_energy_nz,Putaruru,1
+OTAGO,z_energy_nz,Queenstown,1
+NELSON,z_energy_nz,Nelson,3
+MANAWATUWANGANUI,z_energy_nz,Sanson,2
+TARANAKI,z_energy_nz,Stratford,1
+AUCKLAND,z_energy_nz,Takapuna,1
+NORTHLAND,z_energy_nz,Taipa,1
+HAWKESBAY,z_energy_nz,Tamatea,1
+WAIKATO,z_energy_nz,Taupo,2
+WAIKATO,z_energy_nz,Taupō,1
+WAIKATO,z_energy_nz,Te Awamutu,1
+WAIKATO,z_energy_nz,Te Kuiti,2
+BAYOFPLENTY,z_energy_nz,Te Puke,1
+CANTERBURY,z_energy_nz,Templeton,2
+AUCKLAND,z_energy_nz,Auckland International Airport,1
+WELLINGTON,z_energy_nz,Upper Hutt,3
+WAIKATO,z_energy_nz,Turangi,2
+CANTERBURY,z_energy_nz,Waikuku,1
+MANAWATUWANGANUI,z_energy_nz,Waiouru,2
+HAWKESBAY,z_energy_nz,Wairoa,2
+AUCKLAND,z_energy_nz,Waiuku,1
+AUCKLAND,z_energy_nz,Warkworth,1
+WAIKATO,z_energy_nz,Whitianga,1
+AUCKLAND,z_energy_nz,Auckland 2113,1
+CANTERBURY,z_energy_nz,Amberley,1
+CANTERBURY,z_energy_nz,Ashburton,1
+OTAGO,z_energy_nz,Balclutha,1
+HAWKESBAY,z_energy_nz,Dannevirke,1
+SOUTHLAND,z_energy_nz,Gore,1
+CANTERBURY,z_energy_nz,Kaikoura,1
+WAIKATO,z_energy_nz,Kinleith,1
+WAIKATO,z_energy_nz,Maramarua,1
+CANTERBURY,z_energy_nz,Methven,1
+WAIKATO,z_energy_nz,Pokeno,1
+TASMAN,z_energy_nz,Nelson,1
+TASMAN,z_energy_nz,Takaka,1
+WAIKATO,z_energy_nz,Tirau,1
+WAIKATO,z_energy_nz,Tokoroa,1
+WAIKATO,z_energy_nz,Waharoa,1
+NORTHLAND,z_energy_nz,Waipapa,1
+SOUTHLAND,z_energy_nz,Winton,1
+SOUTHCANTERBURY,z_energy_nz,Timaru,1
+CANTERBURY,z_energy_nz,Rangiora 7400,1
+UNKNOWN,z_energy_nz,Ashburton,1

@@ -1,0 +1,949 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,41
+UNKNOWN,adidas,Riyadh,15
+UNKNOWN,adidas,Jeddah,16
+UNKNOWN,adidas,Muhyail-Aseer,1
+UNKNOWN,adidas,Dammam,2
+UNKNOWN,adidas,Jizan,1
+UNKNOWN,adidas,Al Ahsa,1
+UNKNOWN,adidas,Jubail,1
+UNKNOWN,adidas,Taif,4
+UNKNOWN,adidas,Mecca,1
+UNKNOWN,adidas,Hail,1
+UNKNOWN,adidas,Qassim,2
+UNKNOWN,adidas,Abha,2
+UNKNOWN,adidas,Madina,2
+UNKNOWN,adidas,Tabuk,1
+UNKNOWN,adidas,Al Majmaah,1
+UNKNOWN,adidas,Khobar,2
+UNKNOWN,alamo,Riyadh,2
+UNKNOWN,alamo,Dammam,1
+UNKNOWN,alamo,Jazan,1
+UNKNOWN,alamo,Abha,1
+UNKNOWN,alamo,Yanbu,1
+UNKNOWN,alamo,Taif,1
+UNKNOWN,alamo,Madinah,1
+UNKNOWN,alstom,unknown,2
+UNKNOWN,american_eagle_outfitters,Riyadh,8
+UNKNOWN,american_eagle_outfitters,Riyadh Al Mathar Ash Shamali,1
+UNKNOWN,american_eagle_outfitters,Riyadh G99-B+C,1
+UNKNOWN,american_eagle_outfitters,Riyadh Ash Shuhada,1
+UNKNOWN,american_eagle_outfitters,Qatif,1
+UNKNOWN,american_eagle_outfitters,Jubail,1
+UNKNOWN,american_eagle_outfitters,Jeddah,3
+UNKNOWN,american_eagle_outfitters,Jeddah Al Naeem District,1
+UNKNOWN,american_eagle_outfitters,Jeddah Prince Mohammed Bin Abdulaziz Street,1
+UNKNOWN,american_eagle_outfitters,Dammam,2
+UNKNOWN,american_eagle_outfitters,Tabuk,1
+UNKNOWN,american_eagle_outfitters,Medina,1
+UNKNOWN,american_eagle_outfitters,Mecca,1
+UNKNOWN,american_eagle_outfitters,Makkah,1
+UNKNOWN,american_eagle_outfitters,Alkhobar,1
+UNKNOWN,american_eagle_outfitters,Abha,1
+UNKNOWN,ashley_furniture,Al Hufuf,1
+UNKNOWN,ashley_furniture,Riyadh,1
+UNKNOWN,ashley_furniture,Al Khobar,1
+MAKKAH,audi,Jeddah,2
+ARRIYAD,audi,Riyadh,3
+EASTERNPROVINCE,audi,Al Khobar,1
+EASTERNPROVINCE,audi,Khobar,1
+TABUK,avis,Tabuk,1
+KKIATERMINAL5,avis,Riyadh,1
+RIYADH,avis,Riyadh,2
+INDUSTRIALAREANO1,avis,Dammam,1
+CAMP2,avis,Jubail,1
+TERMINAL1,avis,Jeddah,1
+BAMAROUFCEMTER,avis,Jeddah,1
+UNKNOWN,bmw_group,Riyadh,3
+UNKNOWN,bmw_group,Al Khobar,1
+UNKNOWN,bmw_group,Madinah,1
+UNKNOWN,bmw_group,Buraydah,1
+UNKNOWN,bmw_group,Makkah,1
+UNKNOWN,bmw_group,Jeddah,3
+JEDDAH,botteg_aveneta,Jeddah,2
+RIYADH,botteg_aveneta,Riyadh,4
+UNKNOWN,carhartt_wip,Al Khobar,1
+UNKNOWN,carhartt_wip,Jeddah,1
+UNKNOWN,crocs_eu,Al Khobar,3
+UNKNOWN,crocs_eu,Jeddah,8
+UNKNOWN,crocs_eu,Madina,1
+UNKNOWN,crocs_eu,Riyadh Rabwa,1
+UNKNOWN,crocs_eu,Riyadh,13
+UNKNOWN,crocs_eu,Dhahran,2
+UNKNOWN,crocs_eu,Arar,1
+UNKNOWN,crocs_eu,Al Ahsa,1
+UNKNOWN,crocs_eu,Al Qatif,1
+UNKNOWN,crocs_eu,Al-Kharj,1
+UNKNOWN,crocs_eu,Buraidah,1
+UNKNOWN,crocs_eu,Dammam,3
+UNKNOWN,crocs_eu,Hail,1
+UNKNOWN,crocs_eu,Jazan,1
+UNKNOWN,crocs_eu,Unayzah,1
+UNKNOWN,crocs_eu,Tabuk,1
+UNKNOWN,deloitte,Riyadh,2
+UNKNOWN,deloitte,Al Khobar,1
+UNKNOWN,deloitte,Jeddah,1
+UNKNOWN,ecco,Riyadh,4
+UNKNOWN,ecco,Jeddah,2
+UNKNOWN,ecco,Dammam,2
+UNKNOWN,enterprise,Riyadh,7
+UNKNOWN,enterprise,Jeddah,6
+UNKNOWN,enterprise,Dammam,5
+UNKNOWN,enterprise,Al Khobar,2
+UNKNOWN,enterprise,Jazan,1
+UNKNOWN,enterprise,Abha,1
+UNKNOWN,enterprise,Yanbu,2
+UNKNOWN,enterprise,Taif,1
+UNKNOWN,enterprise,Jubail,1
+UNKNOWN,enterprise,Khamis Mushait,1
+UNKNOWN,enterprise,Al Madina Al Munawwarah,1
+UNKNOWN,enterprise,Al Qassim,1
+UNKNOWN,enterprise,Madinah,1
+UNKNOWN,enterprise,Al Ahsa,1
+UNKNOWN,enterprise,Makkah,1
+UNKNOWN,ernst_young,Riyadh,2
+UNKNOWN,ernst_young,Jeddah,1
+UNKNOWN,ernst_young,Al Khobar,1
+UNKNOWN,esprit,Jeddah,2
+UNKNOWN,esprit,Makkah,1
+UNKNOWN,esprit,Riyadh,1
+UNKNOWN,five_guys_sa,Riyadh,7
+UNKNOWN,five_guys_sa,Jeddah,2
+UNKNOWN,five_guys_sa,Dhahran,1
+UNKNOWN,five_guys_sa,Mecca,1
+UNKNOWN,five_guys_sa,Dammam,1
+UNKNOWN,ford,المنطقة الوسطى، الخرج,2
+UNKNOWN,ford,"Central Region, Al Kharj",2
+UNKNOWN,ford,المنطقة الوسطى، الرياض,10
+UNKNOWN,ford,"Central Region, Riyadh",10
+UNKNOWN,ford,المنطقة الشرقية، الجبيل,2
+UNKNOWN,ford,"Eastern Region, Jubail",2
+UNKNOWN,ford,المنطقة الشرقية حفر الباطن,2
+UNKNOWN,ford,"Eastern Region, Hafr Al Batin",2
+UNKNOWN,ford,المنطقة الشمالية، عرعر,2
+UNKNOWN,ford,"Northern Borders Province, Arar",2
+UNKNOWN,ford,أبها,2
+UNKNOWN,ford,Abha,2
+UNKNOWN,ford,المنطقة الشرقية، الدمام,2
+UNKNOWN,ford,"Eastern Region, Damam",2
+UNKNOWN,ford,المنطقة الوسطى، حائل,2
+UNKNOWN,ford,"Central Region, Hail",2
+UNKNOWN,ford,جدة,8
+UNKNOWN,ford,Jeddah,17
+UNKNOWN,ford,جازان,4
+UNKNOWN,ford,Jizan,2
+UNKNOWN,ford,المدينة المنورة,2
+UNKNOWN,ford,Madinah,4
+UNKNOWN,ford,نجران,2
+UNKNOWN,ford,Najran,2
+UNKNOWN,ford,المنطقة الوسطى، القصيم,2
+UNKNOWN,ford,"Central Region, Qasem",2
+UNKNOWN,ford,تبوك,5
+UNKNOWN,ford,Tabuk,3
+UNKNOWN,ford,ينبع,1
+UNKNOWN,ford,Yanbu,1
+UNKNOWN,ford,المنطقة الشرقية، الإحساء,2
+UNKNOWN,ford,"Eastern Region, Hassa",2
+UNKNOWN,ford,مكة المكرمة,2
+UNKNOWN,ford,Makkah,7
+UNKNOWN,ford,الطايف,1
+UNKNOWN,ford,Taif,2
+UNKNOWN,ford,بلجرشي,1
+UNKNOWN,ford,Baljurashi,1
+UNKNOWN,ford,جدّة,9
+UNKNOWN,ford,الطائف,1
+UNKNOWN,ford,مكة المكرّمة,4
+UNKNOWN,ford,Kharj,1
+UNKNOWN,ford,الرياض,24
+UNKNOWN,ford,المدينة المنوّرة,2
+UNKNOWN,ford,Riyadh,21
+UNKNOWN,ford,Al Hassa,3
+UNKNOWN,ford,الأحساء,1
+UNKNOWN,ford,الدمام,7
+UNKNOWN,ford,Hofuf,2
+UNKNOWN,ford,الهفوف,2
+UNKNOWN,ford,Ha'fr Al Batin,1
+UNKNOWN,ford,حفر الباطن,1
+UNKNOWN,ford,Onaiza,1
+UNKNOWN,ford,Qassim,2
+UNKNOWN,ford,القسيم,2
+UNKNOWN,ford,Dammam,6
+UNKNOWN,ford,Jubail,2
+UNKNOWN,ford,الجبيل,2
+UNKNOWN,ford,Hail,3
+UNKNOWN,ford,حائل,3
+UNKNOWN,ford,Tubak,2
+UNKNOWN,fossil,Doha Al Janubiyah,1
+UNKNOWN,geox,ABHA,1
+UNKNOWN,geox,JEDDAH,1
+UNKNOWN,geox,RIYADH,2
+UNKNOWN,geox,RIYADH PANORAMA MALL,1
+UNKNOWN,goldsgym,Jeddah,3
+UNKNOWN,goldsgym,Riyadh,1
+UNKNOWN,hilton,unknown,10
+UNKNOWN,hm,Riyadh,15
+UNKNOWN,hm,Mecca,1
+UNKNOWN,hm,Madina,3
+UNKNOWN,hm,Jeddah,5
+UNKNOWN,hm,Dammam,3
+UNKNOWN,hm,Yanbu,1
+UNKNOWN,hm,Hofuf,1
+UNKNOWN,hm,Khamies Mushayt,1
+UNKNOWN,hm,Hail,1
+UNKNOWN,hm,Taif,2
+UNKNOWN,hm,Abha,1
+UNKNOWN,hm,Jizan,1
+UNKNOWN,hm,Jubail,1
+UNKNOWN,hm,Khobar,2
+UNKNOWN,hm,Tabuk,2
+01,hugo_boss,Jeddah,2
+06,hugo_boss,Riyadh,3
+UNKNOWN,ikea,الرياض,2
+UNKNOWN,ikea,الظهران,1
+UNKNOWN,ikea,جدة,1
+MAKKAH,ikks,JEDDAH,3
+ARRIYAD,ikks,RIYADH,8
+EASTERNPROVINCE,ikks,DHAHRAN,1
+EASTERNPROVINCE,ikks,DAMMAM,1
+EASTERNPROVINCE,ikks,AL KHOBAR,1
+SAUDIARABIA,jll,Jeddah,1
+SAUDIARABIA,jll,Al Khobar,1
+SAUDIARABIA,jll,Riyadh,1
+UNKNOWN,leonidas,RIYADH,1
+JEDDAH,lovisa,Abdullah Fuad Dammam,1
+JEDDAH,lovisa,unknown,1
+ARRIYAD,lukoil,Alesd,1
+ARRIYAD,lukoil,Sebes,1
+MINTAQATHAIL,lukoil,EDIRNE,1
+ARRIYAD,lukoil,Arad,1
+ALJAWF,lukoil,KUTAHYA,1
+ALQASSIM,lukoil,Afumati,1
+ARRIYAD,lukoil,Remetea MAre,1
+ARRIYAD,lukoil,Oradea,1
+UNKNOWN,lukoil,Constanta,2
+MINTAQATTABUK,lukoil,YALOVA,1
+ALJAWF,lukoil,YALOVA,1
+UNKNOWN,man_truck_and_bus,Al-Khobar,1
+UNKNOWN,man_truck_and_bus,Khamis Mushait,1
+UNKNOWN,man_truck_and_bus,Riyadh,1
+UNKNOWN,man_truck_and_bus,Jeddah,1
+UNKNOWN,marriott,Al Khobar,3
+UNKNOWN,marriott,Riyadh,14
+UNKNOWN,marriott,Jazan,2
+UNKNOWN,marriott,Jubail,1
+UNKNOWN,marriott,Jeddah,6
+UNKNOWN,marriott,Madinah,1
+UNKNOWN,marriott,Makkah,5
+UNKNOWN,marriott,Medina,1
+UNKNOWN,marriott,Dammam,2
+UNKNOWN,marriott,Red Sea,2
+UNKNOWN,maserati,RIYADH,1
+UNKNOWN,maserati,JEDDAH,1
+UNKNOWN,michaelkors,Jeddah,4
+UNKNOWN,michaelkors,Dhahran,2
+UNKNOWN,michaelkors,Ar Riyāḑ,6
+UNKNOWN,moneygram,RIYADH,212
+UNKNOWN,moneygram,BURAIDA,5
+UNKNOWN,moneygram,AL KHOBAR,7
+UNKNOWN,moneygram,JEDDAH,91
+UNKNOWN,moneygram,KHAMIS MUSHAIT,30
+UNKNOWN,moneygram,AL MADINAH,10
+UNKNOWN,moneygram,YANBU,4
+UNKNOWN,moneygram,DAMMAM,37
+UNKNOWN,moneygram,JUBAIL,5
+UNKNOWN,moneygram,MAKKAH,34
+UNKNOWN,moneygram,TAIF,27
+UNKNOWN,moneygram,TABUK,5
+UNKNOWN,moneygram,HAFOUF,2
+UNKNOWN,moneygram,ABHA,22
+UNKNOWN,moneygram,AL KHARJ,3
+UNKNOWN,moneygram,HAIL,30
+UNKNOWN,moneygram,JAIZAN,2
+UNKNOWN,moneygram,THOQBA,1
+UNKNOWN,moneygram,AL BAHA,1
+UNKNOWN,moneygram,NAJRAN,6
+UNKNOWN,moneygram,WADI AL DAWASIR,1
+UNKNOWN,moneygram,AL BEKAIRYAH,1
+UNKNOWN,moneygram,HAFR AL BATEN,2
+UNKNOWN,moneygram,AL MAJMA'A,1
+UNKNOWN,moneygram,ONAIZAH,2
+UNKNOWN,moneygram,RAS TANOURA,1
+UNKNOWN,moneygram,AL DAWADMI,1
+UNKNOWN,moneygram,AL MOBARRAZ,1
+UNKNOWN,moneygram,AL RASS,2
+UNKNOWN,moneygram,BISHAH,1
+UNKNOWN,moneygram,MAHAIL ASEER,1
+UNKNOWN,moneygram,AHAD RFAIDAH,1
+UNKNOWN,moneygram,AL AFLAJ,1
+UNKNOWN,moneygram,RABEGH,1
+UNKNOWN,moneygram,AFIF,1
+UNKNOWN,moneygram,AL KHAFJY,1
+UNKNOWN,moneygram,SHAQRA,1
+UNKNOWN,moneygram,QOBA,1
+UNKNOWN,moneygram,SABIA,1
+UNKNOWN,moneygram,AL QUNFUZAH,1
+UNKNOWN,moneygram,AL GORAYAT,1
+UNKNOWN,moneygram,ARAR,4
+UNKNOWN,moneygram,AL JOUF,1
+UNKNOWN,moneygram,AL NAIRIYAH,1
+UNKNOWN,moneygram,AL LEITH,1
+UNKNOWN,moneygram,SABT AL ALAYA,1
+UNKNOWN,moneygram,BALGORASHY,1
+UNKNOWN,moneygram,ABQAIQ,1
+UNKNOWN,moneygram,DEBA,1
+UNKNOWN,moneygram,OYON AL GEWA,1
+UNKNOWN,moneygram,AL MEKHWAH,1
+UNKNOWN,moneygram,TANOMAH,1
+UNKNOWN,moneygram,SHARORAH,1
+UNKNOWN,moneygram,BEESH,1
+UNKNOWN,moneygram,ABU AREESH,1
+UNKNOWN,moneygram,AL QOWYAH,1
+UNKNOWN,moneygram,DHURUMA,1
+UNKNOWN,moneygram,AL SAHNAH,1
+UNKNOWN,moneygram,HOTAT BANI TAMEEM,1
+UNKNOWN,moneygram,BADR,1
+UNKNOWN,moneygram,THUWAL,1
+UNKNOWN,moneygram,AL QATIF,1
+UNKNOWN,moneygram,MAHD AL DAHAB,1
+UNKNOWN,moneygram,UMLUG,1
+UNKNOWN,moneygram,SAGER,1
+UNKNOWN,moneygram,SAMTAH,1
+UNKNOWN,moneygram,AL DARB,1
+UNKNOWN,moneygram,AL EIDABY,1
+UNKNOWN,moneygram,RNYAH,1
+UNKNOWN,moneygram,RAFHA,1
+UNKNOWN,moneygram,AL MUZAHMIYAH,1
+UNKNOWN,moneygram,AL MUZNAB,1
+UNKNOWN,moneygram,TABARGAL,1
+UNKNOWN,moneygram,DAHRAN AL JANOUB,1
+UNKNOWN,moneygram,AL MJARDAH,1
+UNKNOWN,moneygram,QARIA AL AULYA,1
+UNKNOWN,moneygram,AL ZULFI,1
+UNKNOWN,moneygram,AL DERIYAH,1
+UNKNOWN,moneygram,AL BDAYEE,1
+UNKNOWN,moneygram,ALWAJH,1
+UNKNOWN,moneygram,HURAIMELA,1
+UNKNOWN,moneygram,AL NAMAS,1
+UNKNOWN,moneygram,AL AHSA,4
+UNKNOWN,moneygram,TURAIF,1
+UNKNOWN,moneygram,AL JUBAIL,1
+UNKNOWN,moneygram,RIYAD ALKHABRA,1
+UNKNOWN,moneygram,ALAHSSA,4
+UNKNOWN,moneygram,HUTAT SUDAIR,1
+UNKNOWN,moneygram,QATIF,1
+UNKNOWN,moneygram,TATHLEETH,1
+UNKNOWN,moneygram,RIYADH NORTH,2
+UNKNOWN,moneygram,SARAAT ABIDAH,1
+UNKNOWN,moneygram,MADINAH,38
+UNKNOWN,moneygram,QASEEM,70
+UNKNOWN,moneygram,GURAYAT,1
+UNKNOWN,moneygram,TUHAMA,17
+UNKNOWN,moneygram,ZULFI,1
+UNKNOWN,moneygram,ALBAHA,17
+UNKNOWN,moneygram,ALKHOBAR,21
+UNKNOWN,moneygram,ALHASA,20
+UNKNOWN,moneygram,ALJOUF,3
+UNKNOWN,moneygram,TRAIF,1
+UNKNOWN,moneygram,AMARAH,1
+UNKNOWN,moneygram,ALMAHRAJANA,1
+UNKNOWN,moneygram,DOMAT AL JANDAL,1
+UNKNOWN,moneygram,HAQEL,1
+UNKNOWN,moneygram,TABARJAL,1
+UNKNOWN,moneygram,HUDAITH,1
+UNKNOWN,moneygram,ALET AMMAR,1
+UNKNOWN,moneygram,BOSAYTA,1
+UNKNOWN,moneygram,SOUTHREN,1
+UNKNOWN,moneygram,ZUHOOR,1
+UNKNOWN,moneygram,TAIEF,1
+UNKNOWN,moneygram,AL QURAYYAT,1
+UNKNOWN,moneygram,AL DALHAM,1
+UNKNOWN,moneygram,YANBU',1
+UNKNOWN,moneygram,KH. MUSHAYT,1
+UNKNOWN,moneygram,THOGHBAH,1
+UNKNOWN,moneygram,HAFR AL-BATIN,1
+UNKNOWN,moneygram,HA'IL,1
+UNKNOWN,moneygram,KHOBAR,1
+UNKNOWN,moneygram,AL-JOUF,1
+UNKNOWN,moneygram,MADINAH MUNAWRAH,1
+UNKNOWN,moneygram,QASSIM,1
+UNKNOWN,national,Riyadh,2
+UNKNOWN,national,Dammam,1
+UNKNOWN,national,Abha,1
+UNKNOWN,national,Yanbu,1
+UNKNOWN,national,Jazan,1
+UNKNOWN,national,Taif,1
+UNKNOWN,national,Madinah,1
+UNKNOWN,newyorker,Jeddah,6
+UNKNOWN,newyorker,Riyadh,6
+UNKNOWN,newyorker,Medina,1
+UNKNOWN,newyorker,Al Hofuf,1
+UNKNOWN,newyorker,Mekka,1
+UNKNOWN,newyorker,Tabuk,1
+UNKNOWN,newyorker,Ryadh,1
+UNKNOWN,newyorker,Dammam,1
+UNKNOWN,next,Taif,1
+KSA,next,Taif,1
+WESTERNPROVINCE,next,Jeddah 23432,1
+UNKNOWN,next,Western Province,2
+UNKNOWN,next,KSA,1
+UNKNOWN,next,Riyadh,4
+UNKNOWN,next,Jeddah,1
+UNKNOWN,next,K.S.A,1
+UNKNOWN,next,Riyadh 14241,1
+CENTRALPROVINCE,next,Unayzah,1
+EASTERNPROVINCE,next,Al Hofuf,1
+UNKNOWN,next,Othaim Mall Hail,1
+UNKNOWN,next,Ksa Central Riyadh,1
+UNKNOWN,next,Central Province,3
+WESTERNPROVINCE,next,Tabuk,1
+UNKNOWN,next,Eastern Province,2
+UNKNOWN,next,Madinah,1
+KSA,next,Jeddah,1
+UNKNOWN,next,Dammam,1
+UNKNOWN,next,Jeddah 23432,1
+KSA,next,Eastern Province,1
+UNKNOWN,next,Riyadh 12791 7639,1
+UNKNOWN,nike,RIYADH,2
+UNKNOWN,nike,Riyadh,4
+UNKNOWN,nike,Onaizah,1
+UNKNOWN,nike,AL KHOBAR,1
+UNKNOWN,nike,Makkah,1
+UNKNOWN,nike,JEDDAH,1
+UNKNOWN,nike,MEDINA,1
+RIYADH,nike,RIYADH,1
+المنطقةالوسطى,nissan_europe,الرياض,26
+المنطقةالوسطى,nissan_europe,القصيم,8
+المنطقةالوسطى,nissan_europe,الرياض ,2
+المنطقةالشرقية,nissan_europe,الدمام,9
+المنطقةالوسطى,nissan_europe,سكاكا,1
+المنطقةالشمالية,nissan_europe,عرعر,1
+المنطقةالغربية,nissan_europe,خميس مشيط,3
+المنطقةالغربية,nissan_europe,المدينة المنورة,3
+المنطقةالشرقية,nissan_europe,قطيف,1
+المنطقةالغربية,nissan_europe,جدة,14
+المنطقةالشرقية,nissan_europe,سكاكا,1
+المنطقةالشرقية,nissan_europe,صفوى,1
+المنطقةالشرقية,nissan_europe,الاحساء,2
+المنطقةالغربية,nissan_europe,مكة المكرمة,1
+المنطقةالوسطي,nissan_europe,الرياض,5
+المنطقةالشرقية,nissan_europe,الخبر,1
+المنطقةالشرقية,nissan_europe,الجبيل,1
+المنطقةالجنوبية,nissan_europe,جازان,1
+المنطقةالوسطي,nissan_europe,بريدة,1
+المنطقةالجنوبية,nissan_europe,أبها,1
+المنطقةالوسطي,nissan_europe,حائل,1
+المنطقةالغربية,nissan_europe,ينبع,1
+UNKNOWN,ovs,Dammam,3
+UNKNOWN,ovs,Riyadh,6
+UNKNOWN,ovs,Abha,2
+UNKNOWN,ovs,Buraidah,1
+UNKNOWN,ovs,Unaizah,1
+UNKNOWN,ovs,Al Ahsa,1
+UNKNOWN,ovs,Hail Othaim,1
+UNKNOWN,ovs,Jeddah,3
+UNKNOWN,ovs,Mecca,1
+UNKNOWN,ovs,Dhahran,1
+UNKNOWN,ovs,Arar,1
+UNKNOWN,ovs,Hafar Al Batin,1
+UNKNOWN,ovs,Khafji,1
+UNKNOWN,ovs,Tabuk,1
+UNKNOWN,ovs,Al Rass,1
+JEDDAH,petland_us,Jeddah,1
+UNKNOWN,pizza_hut_ae_sa,unknown,64
+NA,reebok,Riyadh,2
+NA,reebok,Al Khobar,2
+NA,reebok,Jeddah,1
+UNKNOWN,reebok,Riyadh,2
+UNKNOWN,reebok,Al Khobar,2
+UNKNOWN,reebok,Jeddah,1
+EASTERNPROVINCE,sbarro,Al Khobar,1
+RIYADH,sbarro,Riyadh,1
+RIYADHPROVINCE,sbarro,RIYADH,4
+ARRIYAD,sbarro,Riyadh,1
+ARRIYAD,sbarro,Riyadh										,1
+MAKKAH,sbarro,Taif,1
+MAKKAHPROVINCE,sbarro,MECCA,1
+MAKKAHPROVINCE,sbarro,Jeddah,1
+MAKKAH,sbarro,Jeddah,1
+MAKKAH,sbarro,JEDDAH,2
+MAKKAH,sbarro,Dublin,1
+UNKNOWN,scania,Al-Khobar,1
+ARRIYAD,shake_shack,unknown,4
+MAKKAH,shake_shack,unknown,1
+UNKNOWN,sixt,Riyadh,4
+UNKNOWN,sixt,Al Hofuf,1
+UNKNOWN,sixt,Al Qassim,1
+UNKNOWN,sixt,Dammam,3
+UNKNOWN,sixt,Jizan,1
+UNKNOWN,sixt,Khobar,1
+UNKNOWN,sixt,Tabuk,1
+UNKNOWN,skoda,unknown,3
+ASHSHARQIYAH,snap_fitness,Al-Jubail,1
+ARRIYAD,sunglass_hut_2,Riyadh,3
+ALQASSIM,sunglass_hut_2,Riyadh,1
+EASTERNPROVINCE,sunglass_hut_2,Dahran,1
+MAKKAH,sunglass_hut_2,Jeddah,2
+EASTERNPROVINCE,the_good_feet_store,unknown,1
+MAKKAH,tier,unknown,4
+ARRIYAD,tier,unknown,50
+UNKNOWN,tommy_hilfiger,Dhahran,1
+UNKNOWN,tommy_hilfiger,Riyadh,5
+UNKNOWN,tommy_hilfiger,Jeddah,3
+UNKNOWN,tommy_hilfiger,Mecca,1
+UNKNOWN,tommy_hilfiger,Al Khobar,2
+UNKNOWN,united_colors_of_benetton,RIYADH,3
+UNKNOWN,united_colors_of_benetton,DHAHRAN,1
+TABŪK,vans,Tabuk,1
+ASHSHARQĪYAH,vans,Dammam,2
+UNKNOWN,visa,JAZAN – DHAMAD,2
+UNKNOWN,visa,MADINAH,175
+UNKNOWN,visa,JEDDAH,814
+UNKNOWN,visa,JIDDAH,14
+UNKNOWN,visa,DHEBA,1
+UNKNOWN,visa,DHUBA,6
+UNKNOWN,visa,NORTH OF JEDDAH,30
+UNKNOWN,visa,UMLUJ,6
+UNKNOWN,visa,UMMLUJJ,1
+UNKNOWN,visa,SHAGRA,3
+UNKNOWN,visa,ALWAJH,1
+UNKNOWN,visa,AL RASS,22
+UNKNOWN,visa,DUBA,1
+UNKNOWN,visa,ALBADAA,1
+UNKNOWN,visa,DAHBAN,2
+UNKNOWN,visa,YANBOU,3
+UNKNOWN,visa,YANBU,54
+UNKNOWN,visa,BAHRAH,1
+UNKNOWN,visa,YANBU AL BAHR,4
+UNKNOWN,visa,AL DAYIR,1
+UNKNOWN,visa,ASFAN,3
+UNKNOWN,visa,AHAD AL-MASARHA,9
+UNKNOWN,visa,THOAL,2
+UNKNOWN,visa,THUWAL,4
+UNKNOWN,visa,KHULAIS,1
+UNKNOWN,visa,RABEGH,2
+UNKNOWN,visa,KHLEES,2
+UNKNOWN,visa,HAQL,7
+UNKNOWN,visa,KHLEESS,4
+UNKNOWN,visa,ALLAYTH,2
+UNKNOWN,visa,AL LAYTH,1
+UNKNOWN,visa,RABIGH,19
+UNKNOWN,visa,MAKKAH,255
+UNKNOWN,visa,HUTAT SEDEER,1
+UNKNOWN,visa,MAKKAH ALMOKARRAMAH,2
+UNKNOWN,visa,HAQIL,1
+UNKNOWN,visa,DAWMAT AL JANDAL,3
+UNKNOWN,visa,HAQEL,1
+UNKNOWN,visa,BASITA,1
+UNKNOWN,visa,BADAYA,5
+UNKNOWN,visa,BADAYI,1
+UNKNOWN,visa,QUNFITHAH,3
+UNKNOWN,visa,AL QUNFUDAH,1
+UNKNOWN,visa,AL-KAMIL,1
+UNKNOWN,visa,TAIF,178
+UNKNOWN,visa,TABUK,60
+UNKNOWN,visa,ALTAIF,3
+UNKNOWN,visa,AL AIS,3
+UNKNOWN,visa,TABOUK,50
+UNKNOWN,visa,MAJMAA,2
+UNKNOWN,visa,MAJMA'AH,10
+UNKNOWN,visa,MOZAHEMIAH,5
+UNKNOWN,visa,ARTAWIAH,3
+UNKNOWN,visa,QELWAH,1
+UNKNOWN,visa,SABT AL ALAYA,15
+UNKNOWN,visa,RIYADH,1361
+UNKNOWN,visa,ALJAFER,1
+UNKNOWN,visa,AL MANDAQ,2
+UNKNOWN,visa,ALMANDAQ,1
+UNKNOWN,visa,HALIT AMMAR,1
+UNKNOWN,visa,ALDARB,1
+UNKNOWN,visa,HALAT AMMAR,1
+UNKNOWN,visa,AL MEKWAH,1
+UNKNOWN,visa,ALMIKHWAH,1
+UNKNOWN,visa,AL ULLA,1
+UNKNOWN,visa,ULA,8
+UNKNOWN,visa,JAZAN,19
+UNKNOWN,visa,JEZAN,6
+UNKNOWN,visa,JAMOM,3
+UNKNOWN,visa,JIZAN,24
+UNKNOWN,visa,BEESHA,1
+UNKNOWN,visa,ALBASHAIR,1
+UNKNOWN,visa,AL WADIYAN,5
+UNKNOWN,visa,BAHA,77
+UNKNOWN,visa,MOUHAIL ASIR,7
+UNKNOWN,visa,MEHAYEL,1
+UNKNOWN,visa,MAHAYL ASEER,1
+UNKNOWN,visa,AL ANBARIYA,3
+UNKNOWN,visa,AL KHOBEEB,2
+UNKNOWN,visa,AL IBJADIYA,1
+UNKNOWN,visa,MHAIL ASEER,1
+UNKNOWN,visa,AL-BAHA,2
+UNKNOWN,visa,BALJORASHY,12
+UNKNOWN,visa,BALJORUSHI,1
+UNKNOWN,visa,JAZAN - BAISH,3
+UNKNOWN,visa,ALKHURMAH,1
+UNKNOWN,visa,JAZAN - SABYA,9
+UNKNOWN,visa,BAYSH,1
+UNKNOWN,visa,BESHI,15
+UNKNOWN,visa,BIESH,3
+UNKNOWN,visa,SABYA,9
+UNKNOWN,visa,SABBIYA,2
+UNKNOWN,visa,SABIA,1
+UNKNOWN,visa,BALJURASHI,1
+UNKNOWN,visa,ALMADINAH ALMUNAWARAH,4
+UNKNOWN,visa,KHABAT SAEED,1
+UNKNOWN,visa,JAZAN - ABO ARISH,6
+UNKNOWN,visa,SAMTA,2
+UNKNOWN,visa,JAZAN - AHAD AL MESARHA,4
+UNKNOWN,visa,QUWAYIYAH,6
+UNKNOWN,visa,MADINA,24
+UNKNOWN,visa,ABHA,99
+UNKNOWN,visa,QUBBA,1
+UNKNOWN,visa,JAZAN - SAMTA,3
+UNKNOWN,visa,SAMTAH,1
+UNKNOWN,visa,DHAMAD,1
+UNKNOWN,visa,ABU ARAISH,2
+UNKNOWN,visa,ALNAMAS,1
+UNKNOWN,visa,WEST OF MADINAH,36
+UNKNOWN,visa,EAST OF MADINAH,24
+UNKNOWN,visa,AL MADINAH AL MUNAWWARAH,12
+UNKNOWN,visa,AL OYOUN,1
+UNKNOWN,visa,OYOUN AL JAWA,1
+UNKNOWN,visa,DAWADMI,13
+UNKNOWN,visa,TANOUMAH,1
+UNKNOWN,visa,MEDINA,1
+UNKNOWN,visa,BALLASMAR,1
+UNKNOWN,visa,ASEER,10
+UNKNOWN,visa,ABAH,1
+UNKNOWN,visa,ABU AREESH,14
+UNKNOWN,visa,JAZAN – AL ARDAH,1
+UNKNOWN,visa,KHAMIS MUSHAIT,25
+UNKNOWN,visa,KHAMIS MUSHIET,5
+UNKNOWN,visa,ALMADINAH,17
+UNKNOWN,visa,KHAMIS MUSHAYT,7
+UNKNOWN,visa,TORBAH,9
+UNKNOWN,visa,AHAD RAFIDAH,1
+UNKNOWN,visa,DARB,1
+UNKNOWN,visa,KHAYBAR,10
+UNKNOWN,visa,SURAT OBEDIA,1
+UNKNOWN,visa,SARAT ABEEDAH,3
+UNKNOWN,visa,SARAT OBEDA,1
+UNKNOWN,visa,SARAT OBEED,3
+UNKNOWN,visa,TAYMA,2
+UNKNOWN,visa,TAIMA,1
+UNKNOWN,visa,BISHA,23
+UNKNOWN,visa,NAJRAN,67
+UNKNOWN,visa,AL HAIT,1
+UNKNOWN,visa,ALLETH,1
+UNKNOWN,visa,DELAM,5
+UNKNOWN,visa,HABONA,1
+UNKNOWN,visa,RANYAH,1
+UNKNOWN,visa,ALBAHA,4
+UNKNOWN,visa,ALHARAJAH,1
+UNKNOWN,visa,HAIL,122
+UNKNOWN,visa,DUBA AL SHIMAL,3
+UNKNOWN,visa,AL SHIMLI,1
+UNKNOWN,visa,TURBAT AL SHIMAL,1
+UNKNOWN,visa,AL HADITHA,1
+UNKNOWN,visa,HADITHAH,5
+UNKNOWN,visa,YITMA,1
+UNKNOWN,visa,YDAMAH,1
+UNKNOWN,visa,AL QURAYAT,6
+UNKNOWN,visa,QURAYAT,11
+UNKNOWN,visa,ALQURAYAT,1
+UNKNOWN,visa,TABARJAL,3
+UNKNOWN,visa,AL SULAYIL,3
+UNKNOWN,visa,GHAZALA,2
+UNKNOWN,visa,AFIF,1
+UNKNOWN,visa,AFEEF,4
+UNKNOWN,visa,MUQEEK,1
+UNKNOWN,visa,SAIHAT,23
+UNKNOWN,visa,JUBBAH,1
+UNKNOWN,visa,DOMAT AL JANDAL,2
+UNKNOWN,visa,DOUMAT AL JANDAL,6
+UNKNOWN,visa,WADI DAWASIR,1
+UNKNOWN,visa,TURAIF,8
+UNKNOWN,visa,TUREEF,1
+UNKNOWN,visa,SKAKA,12
+UNKNOWN,visa,RAWDAT HAIL,1
+UNKNOWN,visa,SAKAKA,13
+UNKNOWN,visa,AL JOUF,9
+UNKNOWN,visa,JOWAF,1
+UNKNOWN,visa,AJFOUR,1
+UNKNOWN,visa,AL NAQE'E,1
+UNKNOWN,visa,SHINAN,2
+UNKNOWN,visa,RASS,21
+UNKNOWN,visa,AL DAWADMI,7
+UNKNOWN,visa,DUKHNA,2
+UNKNOWN,visa,RIYADH ALKABRA,4
+UNKNOWN,visa,ALRASS,8
+UNKNOWN,visa,AR RASS,3
+UNKNOWN,visa,BAQA,2
+UNKNOWN,visa,RAS TANAJEEB,2
+UNKNOWN,visa,RAS MUSHAB,1
+UNKNOWN,visa,BURAIDAH,105
+UNKNOWN,visa,DAWDMI,1
+UNKNOWN,visa,AL KHABRA,4
+UNKNOWN,visa,ONAIZA,3
+UNKNOWN,visa,ALBADAI,1
+UNKNOWN,visa,BKAIRIAH,9
+UNKNOWN,visa,AL BIKARIYA,4
+UNKNOWN,visa,SHAROURAH,6
+UNKNOWN,visa,SHARORA,6
+UNKNOWN,visa,BADAIE,1
+UNKNOWN,visa,QUWARA,1
+UNKNOWN,visa,QASEEM,3
+UNKNOWN,visa,ARAR,35
+UNKNOWN,visa,ARA'AR,12
+UNKNOWN,visa,UNAIZAH,13
+UNKNOWN,visa,AR`AR,1
+UNKNOWN,visa,UNAYZAH,7
+UNKNOWN,visa,BUREDA,44
+UNKNOWN,visa,ONAIZAH,39
+UNKNOWN,visa,SHIRI,1
+UNKNOWN,visa,ALMIDHNAB,1
+UNKNOWN,visa,BURAIYDAH,3
+UNKNOWN,visa,BURAYDAH,5
+UNKNOWN,visa,MIDHNAB,5
+UNKNOWN,visa,AL SAFRA,2
+UNKNOWN,visa,SAFRA,1
+UNKNOWN,visa,ALJARDAH,1
+UNKNOWN,visa,MIDDLE OF QASEEM,10
+UNKNOWN,visa,BURIDAH,20
+UNKNOWN,visa,BURAIDA,2
+UNKNOWN,visa,METHNAB,4
+UNKNOWN,visa,ALEHSAA,6
+UNKNOWN,visa,HASA,5
+UNKNOWN,visa,AL ASYAH,2
+UNKNOWN,visa,ALHASSA,1
+UNKNOWN,visa,AL MITHNIB,4
+UNKNOWN,visa,AL RAFAYE,2
+UNKNOWN,visa,SAJER,1
+UNKNOWN,visa,SAJIR,5
+UNKNOWN,visa,KAHFA,1
+UNKNOWN,visa,AR RIYAD,82
+UNKNOWN,visa,QUAIEYYAH,2
+UNKNOWN,visa,BAREQ,2
+UNKNOWN,visa,AL SHMASIYA,1
+UNKNOWN,visa,OQLAT AL SUQOUR,1
+UNKNOWN,visa,ZULFI,32
+UNKNOWN,visa,AL ZULFI,1
+UNKNOWN,visa,AL AFLAJ,1
+UNKNOWN,visa,AL GHAT,3
+UNKNOWN,visa,GHAT,1
+UNKNOWN,visa,SHAQRA,2
+UNKNOWN,visa,QARAYAT AL ALAYA,6
+UNKNOWN,visa,JALAJIL,2
+UNKNOWN,visa,RAFHA,4
+UNKNOWN,visa,AL MAJMA'AH,1
+UNKNOWN,visa,RAWDAT SIDEER,2
+UNKNOWN,visa,DURMA,4
+UNKNOWN,visa,RGABA,1
+UNKNOWN,visa,HAWTET SUDAIR,4
+UNKNOWN,visa,HAWTAT SUDAYR,1
+UNKNOWN,visa,AL MAJMA'A,6
+UNKNOWN,visa,MUZAHMEYAH,2
+UNKNOWN,visa,DHURMA,3
+UNKNOWN,visa,THADIQ,2
+UNKNOWN,visa,AL MOZAHEMIAH,1
+UNKNOWN,visa,MZAHMYAH,2
+UNKNOWN,visa,HORIMLA,1
+UNKNOWN,visa,BAQA'A,2
+UNKNOWN,visa,BAKIRIYAH,7
+UNKNOWN,visa,EAST OF RIYADH,28
+UNKNOWN,visa,HOFUF,129
+UNKNOWN,visa,DERIEYYAH,1
+UNKNOWN,visa,KHOBAR,124
+UNKNOWN,visa,DAMMAM,330
+UNKNOWN,visa,HAFER AL BATEN,42
+UNKNOWN,visa,THOQBAH,14
+UNKNOWN,visa,DHAHRAN,56
+UNKNOWN,visa,OYAYNA,1
+UNKNOWN,visa,SAFWA,22
+UNKNOWN,visa,KHAFJI,25
+UNKNOWN,visa,ABQAIQ,20
+UNKNOWN,visa,K. MUSHAIT,44
+UNKNOWN,visa,QATIF,62
+UNKNOWN,visa,JUBAIL,75
+UNKNOWN,visa,MUBARRAZ,23
+UNKNOWN,visa,OYOUN AL JWA,2
+UNKNOWN,visa,MIDDLE OF RIYADH,27
+UNKNOWN,visa,DERIAH,2
+UNKNOWN,visa,AD-DIRIYAH,1
+UNKNOWN,visa,KHARJ,30
+UNKNOWN,visa,AHED RUFAIDAH,8
+UNKNOWN,visa,RIYADH AL KHABRA,8
+UNKNOWN,visa,AMNCO,3
+UNKNOWN,visa,WEST OF RIYADH,35
+UNKNOWN,visa,NORTH OF RIYADH,35
+UNKNOWN,visa,SOLAYEL,4
+UNKNOWN,visa,HAREEDAH,1
+UNKNOWN,visa,HAFER AL BATEN M.,11
+UNKNOWN,visa,WADI AL DAWASER,8
+UNKNOWN,visa,TOMAIR,1
+UNKNOWN,visa,NAYRIAH,4
+UNKNOWN,visa,NAMAS,4
+UNKNOWN,visa,BADER,5
+UNKNOWN,visa,SEHAT,4
+UNKNOWN,visa,AL WAJEH,2
+UNKNOWN,visa,HOTAT BANI TAMIM,2
+UNKNOWN,visa,MANFUHA,1
+UNKNOWN,visa,UYUN,5
+UNKNOWN,visa,ROQAIY,2
+UNKNOWN,visa,TARUT,11
+UNKNOWN,visa,DAMAD,1
+UNKNOWN,visa,CENTRAL AREA,16
+UNKNOWN,visa,HAFUF,46
+UNKNOWN,visa,MOBILE,2
+UNKNOWN,visa,FAWARA,1
+UNKNOWN,visa,HUTAT SUDEER,1
+UNKNOWN,visa,AHAD RAFEDA,6
+UNKNOWN,visa,EHSA,3
+UNKNOWN,visa,WESTERN AREA,12
+UNKNOWN,visa,K. MUSHEET,44
+UNKNOWN,visa,REMITTANCE,10
+UNKNOWN,visa,ALSHEEBEN,1
+UNKNOWN,visa,ALMAZNAB,2
+UNKNOWN,visa,ONAYZA,5
+UNKNOWN,visa,OMRAN,1
+UNKNOWN,visa,HAFOUF,4
+UNKNOWN,visa,AFLAJ,7
+UNKNOWN,visa,ISMERA,1
+UNKNOWN,visa,BEKAIRIAH,2
+UNKNOWN,visa,QURAISH,1
+UNKNOWN,visa,FAYZIYA,1
+UNKNOWN,visa,KITTAH,1
+UNKNOWN,visa,ALTWAL,1
+UNKNOWN,visa,AL SSADDA,3
+UNKNOWN,visa,SADYAN,2
+UNKNOWN,visa,ALKHARJ,13
+UNKNOWN,visa,RAS TANOURAH,14
+UNKNOWN,visa,AARDAH,1
+UNKNOWN,visa,ALDELIM,1
+UNKNOWN,visa,AL KHARJ,31
+UNKNOWN,visa,AL-KHARAJ,7
+UNKNOWN,visa,HAFR ALBATEN,19
+UNKNOWN,visa,RMAH,1
+UNKNOWN,visa,HAFAR ALBATIN,2
+UNKNOWN,visa,HAFER AL BATIN,3
+UNKNOWN,visa,HAFR AL BATIN,20
+UNKNOWN,visa,HAFAR AL BATIN,1
+UNKNOWN,visa,HAFER ALBATEN,2
+UNKNOWN,visa,AL QAYSOMA,2
+UNKNOWN,visa,ALQAISUMAH,1
+UNKNOWN,visa,UM AL SAHIK,1
+UNKNOWN,visa,AL RUQEI,1
+UNKNOWN,visa,ALSARAR,1
+UNKNOWN,visa,UDHALIYAH,1
+UNKNOWN,visa,NAFI,1
+UNKNOWN,visa,MALIDA,2
+UNKNOWN,visa,NARIYAH,1
+UNKNOWN,visa,AL HAFOUF,16
+UNKNOWN,visa,AL HASSA,9
+UNKNOWN,visa,ALHAFOOF,4
+UNKNOWN,visa,HUFUF,13
+UNKNOWN,visa,AL MUBARRAZ,6
+UNKNOWN,visa,AL BAKERIA,1
+UNKNOWN,visa,ALBAKERIA,1
+UNKNOWN,visa,AL ASIYAH,1
+UNKNOWN,visa,AL JAFR,2
+UNKNOWN,visa,JAFR,2
+UNKNOWN,visa,AL KHAFJI,2
+UNKNOWN,visa,ALKHAFJI,1
+UNKNOWN,visa,EASTERN AREA,18
+UNKNOWN,visa,AL JUBAYL,12
+UNKNOWN,visa,JUBAIL INDUSTRIAL,10
+UNKNOWN,visa,AL EHSA,32
+UNKNOWN,visa,AL IHSA,1
+UNKNOWN,visa,ALJUBAYL,1
+UNKNOWN,visa,ALJUBAIL,9
+UNKNOWN,visa,DAHRAN,17
+UNKNOWN,visa,ALQATIF,2
+UNKNOWN,visa,OM AL SAHIK,1
+UNKNOWN,visa,OM AL SAHEK,1
+UNKNOWN,visa,AL JARDA,1
+UNKNOWN,visa,AD DAMMAM,25
+UNKNOWN,visa,SAYHAT,2
+UNKNOWN,visa,ALQATIFF,8
+UNKNOWN,visa,SEIHAT,2
+UNKNOWN,visa,AL-KHOBAR,18
+UNKNOWN,visa,QATIFF,1
+UNKNOWN,visa,ADDAMMAM,3
+UNKNOWN,visa,SEYHAT,2
+UNKNOWN,visa,AL KHOBAR,46
+UNKNOWN,visa,DHAHRAN JANOU,1
+UNKNOWN,visa,DAHRAN AL JANOUB,4
+UNKNOWN,visa,DHRAN ALJANOOB,1
+UNKNOWN,visa,ALWADEEN,1
+UNKNOWN,visa,TUHAMA,33
+UNKNOWN,visa,ALKHOBAR,18
+UNKNOWN,visa,ATH THUQBAH,2
+UNKNOWN,visa,TARROUT,1
+UNKNOWN,visa,TAROUT,1
+UNKNOWN,visa,THUQBA,1
+UNKNOWN,visa,ALKHUBAR,8
+UNKNOWN,visa,AL AQRABIYA,1
+UNKNOWN,visa,KHUBAR,1
+UNKNOWN,visa,RAS TANNURAH,1
+UNKNOWN,visa,RAS TANURA,1
+UNKNOWN,visa,RAS TANNOURAH,2
+UNKNOWN,visa,RA''S TANNURAH,1
+UNKNOWN,visa,AREEDAH,1
+UNKNOWN,visa,ARTAWIYA,1
+TABUK,western_union,Tabuk,5
+MEDINAH,western_union,Al Madinah,12
+MADINAH,western_union,Al Madinah,4
+MEDINA,western_union,Al Madinah,1
+ASIR,western_union,Al Namas,1
+ASIR,western_union,Mahayil,1
+ASIR,western_union,Khamis Mushait,2
+ASIR,western_union,Abha,1
+ASIR,western_union,Bisha,2
+JIZAN,western_union,Al Darb,1
+MAKKAH,western_union,Al Qunfudhah,1
+JIZAN,western_union,Baish,1
+MAKKAH,western_union,Al Bahah,1
+JAZAN,western_union,Dumat Al Jandal,1
+JAZAN,western_union,Al Jouf,2
+NAJRAN,western_union,Turaif,1
+JAZAN,western_union,Al Gurayyat,1
+NAJRAN,western_union,Arar,1
+MADINAH,western_union,Al Ula,1
+NAJRAN,western_union,Hail,1
+MAKKAH,western_union,Taif,3
+MAKKAH,western_union,Makkah,14
+MAKKAH,western_union,Jeddah,13
+RIYADH,western_union,Afif,1
+MAKKAH,western_union,Rabigh,4
+MAKKAH,western_union,Thuwal,1
+MADINAH,western_union,Yanbu,3
+JIZAN,western_union,Sabya,1
+JIZAN,western_union,Abu Arish,1
+JIZAN,western_union,Jazan,3
+NAJRAN,western_union,Najran,3
+JIZAN,western_union,Samtah,1
+RIYADH,western_union,Wadi Al Dawasir,1
+NAJRAN,western_union,Sharorah,1
+RIYADH,western_union,Al Kharj,1
+RIYADH,western_union,Riyadh,58
+EASTERN,western_union,Hafr Al Batin,2
+RIYADH,western_union,Al Zulfi,1
+RIYADH,western_union,Al Majma Ah,1
+ALQASSIM,western_union,Buraidah,5
+EASTERN,western_union,Al Khafji,1
+EASTERN,western_union,Al Nairyah,1
+RIYADH,western_union,Shaqra,1
+ALQASSIM,western_union,Al Rass,1
+ALAHSA,western_union,Al Ahsa,6
+EASTERN,western_union,Al Mubarraz,1
+EASTERN,western_union,Al Hofuf,2
+EASTERN,western_union,Al Khobar,5
+EASTERN,western_union,Al Thuqbah,1
+EASTERN,western_union,Dammam,12
+EASTERN,western_union,Ras Tanura,1
+EASTERN,western_union,Saihat,1
+EASTERN,western_union,Al Jubail,3
+EASTERN,western_union,Abqaiq,1
+ALQASSIM,western_union,Al Qassim,1
+ALQASSIM,western_union,Al Bukayriah,1
+NAJRAN,western_union,Rafha,1
+ALQASSIM,western_union,Unaizah,3

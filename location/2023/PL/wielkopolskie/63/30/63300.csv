@@ -1,0 +1,45 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+7833,abc_pl,abc,,Sowina Błotna,wielkopolskie,,PL,,,,abc,Q11683985
+455,abc_pl,abc,,Dobra Nadzieja,wielkopolskie,,PL,,,,abc,Q11683985
+457,abc_pl,abc,,Bronów,wielkopolskie,,PL,,,,abc,Q11683985
+PL001182,aldi_nord_pl,ALDI,,Pleszew,Wielkopolskie,,PL,+48 800 118 118,,Mo-Sa 07:00-22:00,ALDI,Q41171373
+227,bricomarche_pl,Bricomarché Pleszew,,Pleszew,wielkopolskie,,PL,+48 62 768 81 90,https://www.bricomarche.pl/sklep/bricomarche-pleszew,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1631-pleszew-krzyzowa,credit_agricole_pl,"Credit Agricole Krzyżowa 2, Pleszew",,Pleszew,wielkopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1631-pleszew-krzyzowa,Mo-Fr 09:00-16:00,Credit Agricole,Q590952
+769,dr_max,"Apteka Dr.Max, Słowackiego 16, Pleszew",,Pleszew,Wielkopolskie,,PL,+48 62 741 33 31,https://www.drmax.pl/apteki/pleszew-sowackiego-16,,Dr. Max,Q56317371
+770,dr_max,"Apteka Dr.Max, Szpitalna 21, Pleszew",,Pleszew,Wielkopolskie,,PL,+48 513 714 820,https://www.drmax.pl/apteki/pleszew-szpitalna-21,,Dr. Max,Q56317371
+775,dr_max,"Apteka Dr.Max, Kaliska 21, Pleszew",,Pleszew,Wielkopolskie,,PL,+48 62 720 70 02,https://www.drmax.pl/apteki/pleszew-kaliska-21,,Dr. Max,Q56317371
+11804,groszek_pl,Groszek,,Grodzisko,wielkopolskie,,PL,,,,Groszek,Q9280965
+2487,groszek_pl,Groszek,,Taczanów Drugi,wielkopolskie,,PL,,,,Groszek,Q9280965
+14814,groszek_pl,Groszek,,Pleszew,wielkopolskie,,PL,,,,Groszek,Q9280965
+KWV01M,paczkomat_inpost_pl,Market Dino,,Kowalew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kowalew-kwv01m-boleslawa-chrobrego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+MXR01M,paczkomat_inpost_pl,przy sklepie spożywczym,,Marszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-marszew-mxr01m-marszew-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE01HP,paczkomat_inpost_pl,w sklepie Duży Ben,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple01hp-rynek-paczkomaty-wielkopolskie,Mo-Th 10:00-23:00; Fr-Sa 10:00-23:30; Su 11:00-22:00,Paczkomat,Q110970254
+PLE01M,paczkomat_inpost_pl,Market Dino,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple01m-kozminska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE01ML,paczkomat_inpost_pl,Przy markecie POLOmarket,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple01ml-bogusza-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE02M,paczkomat_inpost_pl,Parking przed sklepem Lewiatan,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple02m-mieszka-i-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE03M,paczkomat_inpost_pl,parking Lidla,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple03m-kaliska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE04M,paczkomat_inpost_pl,Market Dino,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple04m-marszewska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE04N,paczkomat_inpost_pl,przy sklepie spożywczym,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple04n-zygmunta-augusta-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE05M,paczkomat_inpost_pl,Parking przy Netto,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple05m-swietego-ducha-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE06M,paczkomat_inpost_pl,trawnik przy bloku mieszkalnym,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple06m-mieszka-i-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE07M,paczkomat_inpost_pl,Market Dino,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple07m-kaliska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE08M,paczkomat_inpost_pl,przy sklepie Neonet,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple08m-lipowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLE09M,paczkomat_inpost_pl,przy Aldi,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-ple09m-sienkiewicza-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-BRI1,paczkomat_inpost_pl,LUNA AUTO GAZ,,Brzezie,wielkopolskie,,PL,,https://inpost.pl/paczkomat-brzezie-pop-bri1-lesna-paczkomaty-wielkopolskie,Mo-Fr 08:00-19:00,Paczkomat,Q110970254
+POP-PLE10,paczkomat_inpost_pl,DUŻY BEN,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-pop-ple10-rynek-paczkomaty-wielkopolskie,Mo-Sa 10:00-23:00,Paczkomat,Q110970254
+POP-PLE11,paczkomat_inpost_pl,FURGONETKA- VEGA,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-pop-ple11-sopalowicza-paczkomaty-wielkopolskie,Mo-Fr 10:00-18:00; Sa 10:00-15:00,Paczkomat,Q110970254
+POP-PLE12,paczkomat_inpost_pl,HAPPY PACK-KING VAPE E-PAPIEROSY,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-pop-ple12-daszynskiego-paczkomaty-wielkopolskie,Mo-Fr 10:00-18:00; Sa 10:00-16:00,Paczkomat,Q110970254
+POP-PLE3,paczkomat_inpost_pl,EPAKA,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-pop-ple3-niesiolowskiego-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00; Sa 09:00-13:00,Paczkomat,Q110970254
+POP-PLE7,paczkomat_inpost_pl,SHIP CENTER,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-pop-ple7-fabryczna-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-PLE8,paczkomat_inpost_pl,SARA,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-pop-ple8-ostrowska-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-PLE9,paczkomat_inpost_pl,PUNKT KURIERSKI POLKURIER,,Pleszew,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pleszew-pop-ple9-70-pulku-piechoty-paczkomaty-wielkopolskie,Mo-Fr 09:00-19:00,Paczkomat,Q110970254
+ZNL01M,paczkomat_inpost_pl,parking przy sklepie,,Zielona Łąka,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zielona-laka-znl01m-ostrowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+135,play_pl,Salon Play,Ul. Kaliska 3,Pleszew,wielkopolskie,,PL,+48 790 030 685,,Mo-Fr 09:00-17:00; Sa 09:00-13:00,Play,Q7202998
+259430,poczta_polska_pl,UP Pleszew 1,,Pleszew,WIELKOPOLSKIE,,PL,+48 502 016 131;+48 885 900 542,,,Poczta Polska,Q168833
+311022,poczta_polska_pl,FUP Pleszew 1,,Pleszew,WIELKOPOLSKIE,,PL,+48 885 870 453,,,Poczta Polska,Q168833
+294440,poczta_polska_pl,AP Pleszew,,Pleszew,WIELKOPOLSKIE,,PL,+48 62 742 79 90,,,Poczta Polska,Q168833
+7186,tedi,TEDi Sieć Handlowa Sp. z o.o.,,Pleszew,Wielkopolskie,,PL,+48 32 450 36 20,https://www.tedi.com/stores/7186/pl/Wielkopolskie/Pleszew/Armii-Poznań-24,Mo-Sa 09:00-20:00,TEDi,Q1364603
+,visa,,,PLESZEW,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,PLESZEW,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,PLESZEW,WIELKOPOLSKIE,,PL,,,,,
+37b374fe5ea3abea59c829752014767c,western_union,STEFCZYK FINANSE,,Pleszew,WIELKOPOLSKIE,,PL,+48 62 508 00 12,https://location.westernunion.com/pl/wielkopolskie/pleszew/37b374fe5ea3abea59c829752014767c,Mo-Fr 09:00-17:00,Western Union,Q861042

@@ -1,0 +1,369 @@
+City,Place Name,Zipcode,Name
+Sion,audi,Rue Traversière 10 1950 Sion,unknown,"Autocorner J.-C. & C. Oberson S.A.
+succursale de Sion"
+Sierre,audi,Avenue de France 52 3960 Sierre,unknown,Garage Olympic A. Antille Sierre SA
+Gamsen,audi,Industriestrasse 32 3900 Gamsen,unknown,Garage Atlantic Eyer Paul AG
+Martigny,audi,Route du Levant 149 1920 Martigny,unknown,Garage Olympic P. Antille Martigny SA
+Monthey,audi,Route de Collombey 55 1870 Monthey,unknown,Garage de Monthey SA
+Sierre,burgerking,,unknown,Burger King
+Visp,burgerking,,unknown,Burger King
+Conthey,burgerking,,unknown,Burger King
+Monthey,burgerking,,unknown,Burger King
+Nyon,burgerking,,unknown,Burger King
+Visp,deichmann,,unknown,DOSENBACH Filiale Visp Bahnhofstrasse 15
+Sion,deichmann,,unknown,DOSENBACH Filiale Sion Place Du Midi 36
+Sierre,deichmann,,unknown,DOSENBACH Filiale Sierre Rue De Plantassage 24
+Martigny,deichmann,,unknown,DOSENBACH Filiale Martigny Avenue De Fully 53
+Glis,deichmann,,unknown,DOSENBACH Filiale Glis Kantonsstrasse 58
+Eyholz,deichmann,,unknown,DOSENBACH Filiale Eyholz Kantonsstrasse 57
+Conthey,deichmann,,unknown,DOSENBACH Filiale Conthey Avenue De La Gare 34
+Collombey,deichmann,,unknown,DOSENBACH Filiale Collombey Z. A. Entre Deux Fossaux 4
+Brig,deichmann,,unknown,DOSENBACH Filiale Brig Bahnhofstrasse 12
+Sion,hm,,unknown,Galeries du Midi
+Martigny,hm,,unknown,Shopping-Center Quartz
+Glis,hm,,unknown,Simplon Center
+Sierre,hm,,unknown,Avenue Général-Guisan 2
+Monthey,hm,,unknown,Centre commercial Monthey
+Saint-Maurice District,ich_tanke_strom,Rastanlage Martigny A9  1920 Martigny,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,Marché Relais St. Bernard  1920 Martigny,unknown,Tesla Supercharger
+Leuk District,ich_tanke_strom,Besche Mattenstrasse  3940 Steg-Hohtenn,unknown,Tesla Supercharger
+Visp District,ich_tanke_strom,Talstrasse  3922 Stalden VS,unknown,unknown
+Monthey District,ich_tanke_strom,Z.A. Pré du Pont  1868 Collombey,unknown,unknown
+Monthey District,ich_tanke_strom,Avenue de Savoie 71  1896 Vouvry,unknown,unknown
+Martigny District,ich_tanke_strom,Aire de repos des Indivis  0 Martigny,unknown,unknown
+Sion District,ich_tanke_strom,Rue de la Drague 62  0 Sion,unknown,unknown
+Martigny District,ich_tanke_strom,Aire de Repos Dents de Morcles  0 St.Maurice,unknown,unknown
+Martigny District,ich_tanke_strom,Aire de repos Pierre-Avoi  0 Charrat,unknown,unknown
+Conthey District,ich_tanke_strom,Rue de la Madeleine 2  0 Conthey,unknown,unknown
+Brig District,ich_tanke_strom,Kantonstrasse 288  0 Brig,unknown,unknown
+Brig District,ich_tanke_strom,Kantonsstrasse 288  0 Brig,unknown,unknown
+Visp District,ich_tanke_strom,Kantonsstrasse 171  0 Täsch,unknown,unknown
+Sierre District,ich_tanke_strom,Rte de Sion 115  0 Sierre,unknown,unknown
+Martigny District,ich_tanke_strom,Le Gondran 26  0 Bovernier,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,Avenue du Simplon 47  0 Saint-Maurice,unknown,unknown
+Sion District,ich_tanke_strom,Rue du Pont 9  1958 Uvrier-Sion,unknown,unknown
+Martigny District,ich_tanke_strom,Rue du Battoir 6  0 Martigny,unknown,unknown
+Martigny District,ich_tanke_strom,Aire de Repos Cime de L’Est  0 St.Maurice,unknown,unknown
+Visp District,ich_tanke_strom,Kantonsstrasse 129  0 Täsch,unknown,unknown
+Sierre District,ich_tanke_strom,Route du Rawyl  3963 Crans-Montana,unknown,unknown
+Sion District,ich_tanke_strom,Avenue de la gare  1950 Sion,unknown,unknown
+Sierre District,ich_tanke_strom,Avenue Max Huber  3960 Sierre,unknown,unknown
+Sion District,ich_tanke_strom,Rue des Tonneliers  1950 Sion,unknown,unknown
+Sion District,ich_tanke_strom,Route de Vissigen  1950 Sion,unknown,unknown
+Herens District,ich_tanke_strom,Rue de la Maison Blanche  1969 Saint-Martin,unknown,unknown
+Sion District,ich_tanke_strom,Rue du Scex  1950 Sion,unknown,unknown
+Sierre District,ich_tanke_strom,Route de la Moubra  3963 Crans-Montana,unknown,unknown
+Conthey District,ich_tanke_strom,Route de Scex-Riond  1976 Erde,unknown,unknown
+Visp District,ich_tanke_strom,Neue Kantonsstrasse  3929 Täsch,unknown,unknown
+Sion District,ich_tanke_strom,Rue des Creusets  1950 Sion,unknown,unknown
+Monthey District,ich_tanke_strom,Avenue du Simplon  1870 Monthey,unknown,unknown
+Sion District,ich_tanke_strom,Parking du centre scolaire Rue de Coméraz  1971 Grimisuat,unknown,unknown
+Herens District,ich_tanke_strom,Rue centrale  1983 Evolène,unknown,unknown
+Conthey District,ich_tanke_strom,Avenue de la Gare  1964 Conthey,unknown,unknown
+Herens District,ich_tanke_strom,Chemin de la Bourgeoisie 11 Les Collons 1900  1988 Thyon - Les Collons,unknown,unknown
+Conthey District,ich_tanke_strom,Route de l'Abbaye  1963 Vétroz,unknown,unknown
+Conthey District,ich_tanke_strom,Rte du Magrappé  1993 Veysonnaz,unknown,unknown
+Conthey District,ich_tanke_strom,Route des Ecluses  1997 Haute-Nendaz,unknown,unknown
+Herens District,ich_tanke_strom,Rue de l'Evouette  1969 St-Martin,unknown,unknown
+Sion District,ich_tanke_strom,Bureau de poste Rue de Plandodin  1965 Savièse,unknown,unknown
+Sierre District,ich_tanke_strom,Les Lietettes  3961 Chandolin,unknown,unknown
+Sion District,ich_tanke_strom,Rue de l'Avenir  1950 Sion,unknown,unknown
+Sierre District,ich_tanke_strom,Route des Barzettes  3963 Crans-Montana,unknown,unknown
+Sion District,ich_tanke_strom,Route de l'aéroport  1950 Sion,unknown,unknown
+Entremont District,ich_tanke_strom,Chemin de la Croix  1936 Verbier,unknown,unknown
+Sion District,ich_tanke_strom,Route de Riddes  1950 Sion,unknown,unknown
+Conthey District,ich_tanke_strom,Route des Rottes  1964 Conthey,unknown,unknown
+Herens District,ich_tanke_strom,Rue du Vieux-Village  1967 Bramois,unknown,unknown
+Sierre District,ich_tanke_strom,Rue Principale  1978 Lens,unknown,unknown
+Martigny District,ich_tanke_strom,Avenue de Fully  1920 Martigny,unknown,unknown
+Sierre District,ich_tanke_strom,rue du Prado  3963 Lens,unknown,unknown
+Entremont District,ich_tanke_strom,Chemin de la Gare  1934 Le Châble,unknown,unknown
+Conthey District,ich_tanke_strom,Route du Sanetsch  1964 Conthey,unknown,unknown
+Herens District,ich_tanke_strom,Rue des Bochonès  1972 Anzère,unknown,unknown
+Sion District,ich_tanke_strom,Route de la Vernaz  1992 La Vernaz,unknown,unknown
+Herens District,ich_tanke_strom,Avenue du Grand-Champsec  1951 Sion,unknown,unknown
+Sion District,ich_tanke_strom,Route d'Aproz  1950 Sion,unknown,unknown
+Entremont District,ich_tanke_strom,Chemin des Marais Verts  1936 Verbier,unknown,unknown
+Martigny District,ich_tanke_strom,Rue des Finettes  1920 Martigny,unknown,unknown
+Sion District,ich_tanke_strom,Rue de l'Industrie  1950 Sion,unknown,unknown
+Martigny District,ich_tanke_strom,Rue de la Maison de Commune  1926 Fully,unknown,unknown
+Herens District,ich_tanke_strom,Route Centrale  1961 Vernamiège,unknown,unknown
+Sierre District,ich_tanke_strom,Café d'Icogne Route de la Bourgeoisie  1977 Icogne,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Monderessy  3973 Venthône,unknown,unknown
+Sion District,ich_tanke_strom,Avenue de France  1950 Sion,unknown,unknown
+Martigny District,ich_tanke_strom,Chemin des Babioux  1908 Riddes,unknown,unknown
+Sierre District,ich_tanke_strom,Parking du Régent Rue du Bisse  3963 Lens,unknown,unknown
+Sion District,ich_tanke_strom,Route du Village  1974 Arbaz,unknown,unknown
+Martigny District,ich_tanke_strom,Rue d’Octodure  1920 Martigny,unknown,unknown
+Sierre District,ich_tanke_strom,Avenue de la Gare  3963 Crans-Montana,unknown,unknown
+Martigny District,ich_tanke_strom,Route du Village  1907 Saxon,unknown,unknown
+Martigny District,ich_tanke_strom,Rue Centrale  1918 La Tzoumaz,unknown,unknown
+Conthey District,ich_tanke_strom,Rue des Verdelets  1957 Ardon,unknown,unknown
+Monthey District,ich_tanke_strom,Route du Grand Paradis  1874 Champéry,unknown,unknown
+Herens District,ich_tanke_strom,Route du Manège  1950 Sion,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Sous-Géronde  3960 Sierre,unknown,unknown
+Herens District,ich_tanke_strom,Chemin de La Bourgeoisie  1988 Les Collons,unknown,unknown
+Herens District,ich_tanke_strom,Rue des Collons  1988 Les Collons,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Chalais  3967 Vercorin,unknown,unknown
+Martigny District,ich_tanke_strom,Pré-de-Foire  1920 Martigny,unknown,unknown
+Entremont District,ich_tanke_strom,Route de Mauvoisin  1934 Le Châble,unknown,unknown
+Monthey District,ich_tanke_strom,Place des remontées mécaniques  1873 Val-d'Illiez,unknown,unknown
+Martigny District,ich_tanke_strom,Avenue du Grand St-Bernard  1920 Martigny,unknown,unknown
+Martigny District,ich_tanke_strom,Rue des Farquets  1920 Martigny,unknown,unknown
+Monthey District,ich_tanke_strom,Route de la Fin  1874 Champéry,unknown,unknown
+Monthey District,ich_tanke_strom,Place du Village  1873 Val-d'Illiez,unknown,unknown
+Sierre District,ich_tanke_strom,Route des Mélèzes  3963 Lens,unknown,unknown
+Herens District,ich_tanke_strom,Rue des Cinq 4000  3961 Zinal,unknown,unknown
+Conthey District,ich_tanke_strom,Rue Cheutez  1976 Aven,unknown,unknown
+Herens District,ich_tanke_strom,Route de La Sage  1984 Les Haudères,unknown,unknown
+Sion District,ich_tanke_strom,Avenue de Tourbillon  1950 Sion,unknown,unknown
+Monthey District,ich_tanke_strom,Avenue de la gare  1870 Monthey,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Sion  3960 Sierre,unknown,unknown
+Sion District,ich_tanke_strom,Chemin Saint-Hubert  1950 Sion,unknown,unknown
+Herens District,ich_tanke_strom,Rue des Audannes  1972 Anzère,unknown,unknown
+Entremont District,ich_tanke_strom,Chemin de Pierra-Barna  1934 Le Châble,unknown,unknown
+Martigny District,ich_tanke_strom,Rue de l'Eglise  1932 Bovernier,unknown,unknown
+Entremont District,ich_tanke_strom,Route de Verbier Station  1936 Verbier,unknown,unknown
+Herens District,ich_tanke_strom,Route du Vallon  1986 Evolène,unknown,unknown
+Herens District,ich_tanke_strom,Rue du Lagec  1969 Eison,unknown,unknown
+Herens District,ich_tanke_strom,Chemin de l'Ecole  1967 Bramois,unknown,unknown
+Conthey District,ich_tanke_strom,Route Cantonale  1964 Conthey,unknown,unknown
+Sierre District,ich_tanke_strom,Rue du Pas de l'Ours  3963 Lens,unknown,unknown
+Herens District,ich_tanke_strom,Route d'Evolène  1981 Vex,unknown,unknown
+Conthey District,ich_tanke_strom,Rue du Moulin  1963 Vétroz,unknown,unknown
+Sierre District,ich_tanke_strom,Route du Moulin  3977 Granges,unknown,unknown
+Sion District,ich_tanke_strom,Route de la Drague  1950 Sion,unknown,unknown
+Sierre District,ich_tanke_strom,Route Cantonale  3971 Crans-Montana,unknown,unknown
+Martigny District,ich_tanke_strom,Rue de la Poste  1920 Martigny,unknown,unknown
+Brig District,ich_tanke_strom,Kantonsstrasse  3902 Glis,unknown,unknown
+Herens District,ich_tanke_strom,Av. du Grand-Champsec  1950 Sion,unknown,unknown
+Martigny District,ich_tanke_strom,Route du village  1907 Saxon,unknown,unknown
+Martigny District,ich_tanke_strom,Rue de l'Ancienne Pointe  1920 Martigny,unknown,unknown
+Martigny District,ich_tanke_strom,Rue la Chapelette  1933 Sembrancher,unknown,unknown
+Herens District,ich_tanke_strom,Rte de Thyon  1988 Thyon,unknown,unknown
+Sierre District,ich_tanke_strom,Rue Centrale  3979 Grône,unknown,unknown
+Martigny District,ich_tanke_strom,Rue du Levant  1920 Martigny,unknown,unknown
+Sierre District,ich_tanke_strom,Route des Lacustres  3960 Sierre,unknown,unknown
+Monthey District,ich_tanke_strom,En Bellossy  1987 Le Bouveret,unknown,unknown
+Martigny District,ich_tanke_strom,Chemin de Provence  1926 Fully,unknown,unknown
+Sierre District,ich_tanke_strom,Rue de Plantassage  3960 Sierre,unknown,unknown
+Entremont District,ich_tanke_strom,Route de Bagnes  1941 Vollèges,unknown,unknown
+Martigny District,ich_tanke_strom,Rte du Centre Thermal  1913 Saillon,unknown,unknown
+Sion District,ich_tanke_strom,Place du Marais  1974 Arbaz,unknown,unknown
+Martigny District,ich_tanke_strom,Route du Grand-Saint-Bernard  1933 Sembrancher,unknown,unknown
+Herens District,ich_tanke_strom,Rte de Moiry  3961 Grimentz,unknown,unknown
+Leuk District,ich_tanke_strom,Dammstrasse  3940 Steg,unknown,unknown
+Entremont District,ich_tanke_strom,-____  1934 Bruson,unknown,unknown
+Entremont District,ich_tanke_strom,-____  1936 Verbier,unknown,unknown
+Entremont District,ich_tanke_strom,Rte de Mauvoisin  1948 Fionnay,unknown,unknown
+Monthey District,ich_tanke_strom,Rue du Pavé  1895 Vionnaz,unknown,unknown
+Sierre District,ich_tanke_strom,Rue de la Monderèche  3960 Sierre,unknown,unknown
+Sierre District,ich_tanke_strom,Granges-Gare 1  3977 Granges,unknown,unknown
+Monthey District,ich_tanke_strom,Avenue de la France  1870 Monthey,unknown,unknown
+Herens District,ich_tanke_strom,Centre scolaire Route d'Anzère  1966 St-Romain,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,Les Marais  1922 Salvan,unknown,unknown
+Sion District,ich_tanke_strom,La Place  1973 Nax,unknown,unknown
+Herens District,ich_tanke_strom,Parking de l'église Route du Village  1968 Mase,unknown,unknown
+Herens District,ich_tanke_strom,Rue Centrale  1983 Evolène,unknown,unknown
+Herens District,ich_tanke_strom,Route des Masses  1987 Hérémence,unknown,unknown
+Conthey District,ich_tanke_strom,Rue de l'Eglise  1976 Premploz,unknown,unknown
+Sion District,ich_tanke_strom,Rue de Loèche  1950 Sion,unknown,unknown
+Sierre District,ich_tanke_strom,Barrage de Zeuzier  1966 Ayent,unknown,unknown
+Conthey District,ich_tanke_strom,Rte des Rottes  1964 Conthey,unknown,unknown
+Conthey District,ich_tanke_strom,Rue de la Treille  1950 Sion,unknown,unknown
+Sierre District,ich_tanke_strom,Route Principale  3961 Saint-Luc,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,Rte Cantonale  1925 Le Châtelard,unknown,unknown
+Brig District,ich_tanke_strom,Wiichje  3914 Blatten bei Naters,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Muraz  3968 Veyras,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Déjot Vy  3972 Miège,unknown,unknown
+Sierre District,ich_tanke_strom,Route de l'Eglise  3967 Vercorin,unknown,unknown
+Martigny District,ich_tanke_strom,Rue de Grimisuat  1920 Martigny,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Crans-Montana  3963 Crans-Montana,unknown,unknown
+Sierre District,ich_tanke_strom,Route de l'Astoria  3963 Crans-Montana,unknown,unknown
+Sierre District,ich_tanke_strom,Avenue Général-Guisan  3960 Sierre,unknown,unknown
+Herens District,ich_tanke_strom,Route du Barrage  1987 Hérémence,unknown,unknown
+Sion District,ich_tanke_strom,Chemin du Moulin  1991 Pravidondaz,unknown,unknown
+Herens District,ich_tanke_strom,Route de Botyre 18  1966 Botyre,unknown,unknown
+Sion District,ich_tanke_strom,Parking du Lac Souterrain Rue des Champlans  1958 St-Léonard,unknown,unknown
+Herens District,ich_tanke_strom,Parking de la Forclaz  1985 La Forclaz,unknown,unknown
+Conthey District,ich_tanke_strom,Route de Bassin  1964 Conthey,unknown,unknown
+Conthey District,ich_tanke_strom,Rue Centrale  1964 Conthey,unknown,unknown
+Martigny District,ich_tanke_strom,Rue des Remparts  1913 Saillon,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,Grand Rue  1904 Vernyaz,unknown,unknown
+Monthey District,ich_tanke_strom,Avenue de l'Europe  1870 Monthey,unknown,unknown
+Monthey District,ich_tanke_strom,Rue Reconfière  1870 Monthey,unknown,unknown
+Visp District,ich_tanke_strom,Sportplatzstrasse  3910 Saas-Grund,unknown,unknown
+Sierre District,ich_tanke_strom,Granges-Gare  3977 Granges,unknown,unknown
+Martigny District,ich_tanke_strom,Place St-Martin  1912 Leytron,unknown,unknown
+Martigny District,ich_tanke_strom,Route Cantonale  1908 Riddes,unknown,unknown
+Martigny District,ich_tanke_strom,Route du Simplon  1907 Saxon,unknown,unknown
+Goms District,ich_tanke_strom,Chalet  3997 Bellwald,unknown,unknown
+Goms District,ich_tanke_strom,Furkastrasse  3989 Ritzingen,unknown,unknown
+Brig District,ich_tanke_strom,Furkastrasse  3983 Mörel,unknown,unknown
+Entremont District,ich_tanke_strom,Rte du Saint-Bernard  1937 Orsières,unknown,unknown
+Herens District,ich_tanke_strom,Rte des Cinq 4000  3961 Zinal,unknown,unknown
+Sierre District,ich_tanke_strom,Route Principale  3960 Crans-Montana,unknown,unknown
+Sierre District,ich_tanke_strom,Promenade des Horbes  3971 Crans-Montana,unknown,unknown
+Goms District,ich_tanke_strom,Nussbaum  3993 Grengiols,unknown,unknown
+Monthey District,ich_tanke_strom,Rte de l'Ile-au-Bois  1870 Monthey,unknown,unknown
+Conthey District,ich_tanke_strom,Rue des Industries  1964 Conthey,unknown,unknown
+Monthey District,ich_tanke_strom,Place du Village  1893 Illarsaz (Collombey-Muraz),unknown,unknown
+Brig District,ich_tanke_strom,Rischinustrasse  3914 Blatten bei Naters,unknown,unknown
+Conthey District,ich_tanke_strom,Chemin des Cibles  1997 Nendaz,unknown,unknown
+Martigny District,ich_tanke_strom,Rue du Manoir  1920 Martigny,unknown,unknown
+Visp District,ich_tanke_strom,Thermalbadstrasse  3900 Brig,unknown,unknown
+Brig District,ich_tanke_strom,Bahnhofstrasse  3900 Brig,unknown,unknown
+Monthey District,ich_tanke_strom,ZI en Propèse  1868 Collombey-le-Grand,unknown,unknown
+Entremont District,ich_tanke_strom,-____  1937 Orsières,unknown,unknown
+Monthey District,ich_tanke_strom,Avenue du Valais  1896 Vouvry,unknown,unknown
+Sierre District,ich_tanke_strom,Route du Funiculaire  3961 Saint-Luc,unknown,unknown
+Sierre District,ich_tanke_strom,Route Touristique  3963 Crans-Montana,unknown,unknown
+Sierre District,ich_tanke_strom,Route du Téléphérique  3966 Chalais,unknown,unknown
+Martigny District,ich_tanke_strom,Route de Fully  1913 Fully,unknown,unknown
+Sierre District,ich_tanke_strom,Rue Thèodore Stephani  3963 Crans-Montana,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Plans-Mayens  3963 Lens,unknown,unknown
+Sion District,ich_tanke_strom,Rue de la Chapelle  1958 Uvrier,unknown,unknown
+Sierre District,ich_tanke_strom,Chemin de Tsébetta  1973 Nax,unknown,unknown
+Sion District,ich_tanke_strom,Place Mgr Gabriel Balet  1971 Grimisuat,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,Place de la Télécabine  1923 Marécottes,unknown,unknown
+Entremont District,ich_tanke_strom,Route du Grand Saint-Bernard  1937 Orsières,unknown,unknown
+Conthey District,ich_tanke_strom,Digue de la Morge  1962 Pont-de-la-Morge,unknown,unknown
+Sierre District,ich_tanke_strom,Rue de l'Industrie  3960 Sierre,unknown,unknown
+Monthey District,ich_tanke_strom,Rte des Ilettes  1870 Monthey,unknown,unknown
+Brig District,ich_tanke_strom,Bielstrasse  3902 Brig-Glis,unknown,unknown
+Martigny District,ich_tanke_strom,Rue des Morasses  1920 Martigny,unknown,unknown
+Brig District,ich_tanke_strom,-____  3983 Greich,unknown,unknown
+Brig District,ich_tanke_strom,Kirchplatz 2  3983 Ried-Mörel,unknown,unknown
+Sierre District,ich_tanke_strom,Rue de la Bourgeoisie  3974 Crans-Montana,unknown,unknown
+Sierre District,ich_tanke_strom,Chemin Paul Hindemith  3975 Crans-Montana,unknown,unknown
+Monthey District,ich_tanke_strom,Chemin du Vieux Port  1897 Le Bouveret,unknown,unknown
+Martigny District,ich_tanke_strom,Chemin du Milieu  1920 Martigny,unknown,unknown
+Conthey District,ich_tanke_strom,Route du Stade  1963 Vétroz,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,Place Val de Marne  1890 Saint-Maurice,unknown,unknown
+Martigny District,ich_tanke_strom,Avenue de la Gare  1906 Charrat,unknown,unknown
+Martigny District,ich_tanke_strom,Rue Marconi  1920 Martigny,unknown,unknown
+Herens District,ich_tanke_strom,Rte des Rahâs  3961 Grimentz,unknown,unknown
+Sierre District,ich_tanke_strom,Rue Saint-Charles  3960 Sierre,unknown,unknown
+Conthey District,ich_tanke_strom,Rue de l'Eglise  1955 Chamoson,unknown,unknown
+Conthey District,ich_tanke_strom,Chemin Neuf  1955 Chamoson,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,Rue des Ardoisières  1905 Dorénaz,unknown,unknown
+Martigny District,ich_tanke_strom,Rue d’Aoste  1920 Martigny,unknown,unknown
+Sierre District,ich_tanke_strom,Rue des Pirredrittes  3971 Crans-Montana,unknown,unknown
+Conthey District,ich_tanke_strom,Route de Fontenelle  1976 Premploz,unknown,unknown
+Brig District,ich_tanke_strom,Oberer Saltinadamm  3900 Brig,unknown,unknown
+Brig District,ich_tanke_strom,-____  3983 Goppisberg,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Vermala  3963 Crans-Montana,unknown,unknown
+Martigny District,ich_tanke_strom,Rte de la Télécabine  1918 La Tzoumaz,unknown,unknown
+Martigny District,ich_tanke_strom,Place de Rome  1920 Martigny,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Martelles  3971 Crans-Montana,unknown,unknown
+Herens District,ich_tanke_strom,Route des Plans  1992 Mayens-de-Sion,unknown,unknown
+Martigny District,ich_tanke_strom,Route du Roty  1914 Isérables,unknown,unknown
+Conthey District,ich_tanke_strom,Parking remontées mécaniques  1997 Siviez,unknown,unknown
+Martigny District,ich_tanke_strom,Place Centrale  1921 Martigny-Croix,unknown,unknown
+Herens District,ich_tanke_strom,Rue du Nord  1972 Anzère,unknown,unknown
+Sion District,ich_tanke_strom,Rue du Stade  1965 Savièse,unknown,unknown
+Brig District,ich_tanke_strom,Kirchweg  3912 Termen,unknown,unknown
+Martigny District,ich_tanke_strom,Rue du Forum  1920 Martigny,unknown,unknown
+Martigny District,ich_tanke_strom,Place Farinet  1913 Saillon,unknown,unknown
+Monthey District,ich_tanke_strom,Chemin du Pré-Loup  1868 Collombey,unknown,unknown
+Goms District,ich_tanke_strom,Bahnhofstrasse  3993 Grengiols,unknown,unknown
+Conthey District,ich_tanke_strom,Place de la Gare  1964 Conthey,unknown,unknown
+Conthey District,ich_tanke_strom,Route du Rhône  1963 Vétroz,unknown,unknown
+Sierre District,ich_tanke_strom,Avenue de France  3960 Sierre,unknown,unknown
+Monthey District,ich_tanke_strom,Route de Larret  1870 Monthey,unknown,unknown
+Martigny District,ich_tanke_strom,Quai de la Gare  1907 Saxon,unknown,unknown
+Monthey District,ich_tanke_strom,Avenue de Savoie  1896 Vouvry,unknown,unknown
+Brig District,ich_tanke_strom,Simplonstrasse  3911 Ried-Brig,unknown,unknown
+Brig District,ich_tanke_strom,Industriestrasse  3900 Brig,unknown,unknown
+Conthey District,ich_tanke_strom,Rte de Magrappé  1993 Veysonnaz,unknown,unknown
+Sierre District,ich_tanke_strom,Route de l'Aminona  3963 Crans-Montana,unknown,unknown
+Sierre District,ich_tanke_strom,Route du Pafouer  3975 Crans-Montana,unknown,unknown
+Monthey District,ich_tanke_strom,Chemin des Cibleries  1896 Vouvry,unknown,unknown
+Monthey District,ich_tanke_strom,Rte de la Jorette  1899 Torgon,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,La Gare  1922 Salvan,unknown,unknown
+Conthey District,ich_tanke_strom,Rte des Rangs  1975 St-Séverin,unknown,unknown
+Monthey District,ich_tanke_strom,Rte des Iles  1870 Monthey,unknown,unknown
+Martigny District,ich_tanke_strom,Route des Bains  1911 Ovronnaz,unknown,unknown
+Visp District,ich_tanke_strom,Kantonsstrasse  3930 Eyholz,unknown,unknown
+Conthey District,ich_tanke_strom,Rastplatz Ardon Nord Autobahn  1957 Ardon,unknown,unknown
+Monthey District,ich_tanke_strom,Chemin des Vergers 3  1868 Collombey-Muraz,unknown,unknown
+Sion District,ich_tanke_strom,Aire de repos La Biolaz / Uvrier  1950 Sion,unknown,unknown
+Saint-Maurice District,ich_tanke_strom,A9 Relais du St. Bernard  1920 Martigny,unknown,unknown
+Conthey District,ich_tanke_strom,Rastplatz Ardon Süd  1957 Ardon,unknown,unknown
+Conthey District,ich_tanke_strom,Aire de repos Les Îles  1950 Sion,unknown,unknown
+Conthey District,ich_tanke_strom,Route de Bassin 12  1964 Conthey,unknown,unknown
+Sierre District,ich_tanke_strom,Rte de la Tour 10  3963 Crans-Montana,unknown,unknown
+Sierre District,ich_tanke_strom,Rte du Lac  1978 Lens,unknown,unknown
+Sierre District,ich_tanke_strom,Route du Petit Signal 3  3963 Crans-Montana,unknown,unknown
+Leuk District,ich_tanke_strom,Bahnhofstraße  Susten,unknown,unknown
+Leuk District,ich_tanke_strom,Leukerstrasse  Leuk-Stadt,unknown,unknown
+Leuk District,ich_tanke_strom,Umfahrungsstrasse  Varen,unknown,unknown
+Leuk District,ich_tanke_strom,Brunnjistrasse  Inden,unknown,unknown
+Leuk District,ich_tanke_strom,Kantonsstrasse  Leukerbad,unknown,unknown
+Visp District,ich_tanke_strom,Dorfstrasse  Visperterminen,unknown,unknown
+Leuk District,ich_tanke_strom,Lichtenstrasse  Leukerbad,unknown,unknown
+Visp District,ich_tanke_strom,Talstrasse  Visp,unknown,unknown
+Goms District,ich_tanke_strom,Zer Brigge  Binn,unknown,unknown
+Goms District,ich_tanke_strom,Dorfstrasse  Binn,unknown,unknown
+Goms District,ich_tanke_strom,Mühlebachstrasse  Ernen,unknown,unknown
+Leuk District,ich_tanke_strom,Moosmattenstrasse  Oberems,unknown,unknown
+Goms District,ich_tanke_strom,Furkastrasse  Fiesch,unknown,unknown
+Leuk District,ich_tanke_strom,Kantonsstrasse  Leuk,unknown,unknown
+Goms District,ich_tanke_strom,Dorfplatz  Fieschertal,unknown,unknown
+Goms District,ich_tanke_strom,Furkastrasse  Lax,unknown,unknown
+Visp District,ich_tanke_strom,Fafleralpe  Blatten,unknown,unknown
+Raron District,ich_tanke_strom,Talstation Wiler  Wiler,unknown,unknown
+Leuk District,ich_tanke_strom,Schulhaus Kippel  Kippel,unknown,unknown
+Visp District,ich_tanke_strom,Parkplatz Silberdistel  Blatten,unknown,unknown
+Visp District,ich_tanke_strom,Bahnhofplatz  Täsch,unknown,unknown
+Conthey District,ich_tanke_strom,Route Cantonale 15  1963 Vetroz,unknown,unknown
+Conthey District,ich_tanke_strom,Rue Centrale 9  1955 Chamoson,unknown,unknown
+Brig District,ich_tanke_strom,Furkastrasse 12  3983 Mörel-Filet,unknown,unknown
+Sion District,ich_tanke_strom,Rue de la Dixence 83  1950 Sion,unknown,unknown
+Martigny District,ich_tanke_strom,Le Capio 8  1920 Martigny,unknown,unknown
+Martigny District,ich_tanke_strom,Rue de Saragoux 16  1920 Martigny,unknown,unknown
+Goms District,ich_tanke_strom,Furkastrasse 4  3997 Bellwald,unknown,unknown
+Visp District,ich_tanke_strom,Automobile Neubrück  3922 Stalden,unknown,unknown
+Visp District,ich_tanke_strom,Bielweg 4  3934 Zeneggen,unknown,unknown
+Brig District,ich_tanke_strom,Saflischstrasse 3  3900 Brig,unknown,unknown
+Visp District,ich_tanke_strom,Haus Rio 69  3925 Grächen,unknown,unknown
+Sion District,ich_tanke_strom,Chem. Saint-Hubert 12  1950 Sion,unknown,unknown
+Martigny District,ich_tanke_strom,Rue du Levant 171  1920 Martigny,unknown,unknown
+Sierre District,ich_tanke_strom,Rte du Simplon 58  3960 Sierre,unknown,unknown
+Goms District,ich_tanke_strom,Schulhausstrasse 1  3984 Fiesch,unknown,unknown
+Leuk District,ich_tanke_strom,Bahnhofstrasse 1  3945 Gampel,unknown,unknown
+Conthey District,ich_tanke_strom,Route de Merdesson 3A  1955 Chamoson,unknown,unknown
+Sion District,ich_tanke_strom,Chem. Saint-Hubert 36  1950 Sion,unknown,unknown
+Visp District,ich_tanke_strom,Dorfstrasse 24  3937 Baltschieder,unknown,unknown
+Visp District,ich_tanke_strom,Pomonastrasse 7a  3930 Visp,unknown,unknown
+Brig District,ich_tanke_strom,Industriestrasse 26  3900 Brig,unknown,unknown
+Visp District,ich_tanke_strom,Kantonsstrasse 6  3930 Eyholz,unknown,unknown
+Goms District,ich_tanke_strom,Furkastrasse 735  3985 Goms,unknown,unknown
+Leuk District,ich_tanke_strom,Kantonsstrasse 1  3946 Turtmann,unknown,unknown
+Sierre District,ich_tanke_strom,Route de Grône 18  3966 Chalais,unknown,unknown
+Leuk District,ich_tanke_strom,Industriestrasse 51  3952 Leuk,unknown,unknown
+Sion District,ich_tanke_strom,Rte de Vissigen 23  1950 Sion,unknown,unknown
+Monthey District,ich_tanke_strom,Route du Simplon 1  1895 Vionnaz,unknown,unknown
+Leuk District,ich_tanke_strom,Gribelierstrasse 2  3954 Leukerbad,unknown,unknown
+Conthey District,ich_tanke_strom,Rte de Plan-Baar 7047/7110  1996 Nendaz,unknown,unknown
+Leuk District,ich_tanke_strom,Dorfstrasse 8  3946 Turtmann,unknown,unknown
+Brig District,ich_tanke_strom,Riederstrasse 10  3982 Bitsch,unknown,unknown
+Leuk District,ich_tanke_strom,Pfeirenstutz 1  3954 Leukerbad,unknown,unknown
+Brig District,ich_tanke_strom,Nordstrasse 14  3900 Brig,unknown,unknown
+Monthey District,ich_tanke_strom,Rte du Simplon 16  1895 Vionnaz,unknown,unknown
+Sion District,ich_tanke_strom,Rte de Vissigen 25  1950 Sion,unknown,unknown
+Leuk District,ich_tanke_strom,Brunnenstrasse 13  3956 Guttet-Feschel,unknown,unknown
+Saint-Maurice District,ionity,,unknown,Martigny
+VISP,shell,,unknown,GARAGE REX AG.
+STALDEN,shell,,unknown,MIGROL SERVICE STALDEN.
+GLIS,shell,,unknown,TANKSTELLE GLISERALLEE GMBH
+STEG,shell,,unknown,MIGROL SERVICE STEG.
+TURTMANN,shell,,unknown,FRITZ & URS JÄGER AG
+SIERRE,shell,,unknown,MOVERI SIERRE
+SION,shell,,unknown,MIGROL SERVICE SION
+CONTHEY,shell,,unknown,MIGROL SERVICE CONTHEY.
+VETROZ,shell,,unknown,SHELL VÉTROZ
+MARTIGNY,shell,,unknown,SHELL RELAIS DU ST-BERNARD.
+TROISTORRENTS,shell,,unknown,GARAGE ST-CHRISTOPHE.
+COLLOMBEY-MURAZ,shell,,unknown,MIGROL SERVICE COLLOMBEY.
+ST-GINGOLPH,shell,,unknown,SHELL ST-GINGOLPH.

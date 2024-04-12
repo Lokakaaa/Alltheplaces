@@ -1,0 +1,23 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://www.cic.fr:443/fr/agences/30087/33809/04/000,cic,CIC MONTEVRAIN,,CHESSY,Ile-de-France,,FR,+33 1 60 24 46 88,https://www.cic.fr:443/fr/agences/30087/33809/04/000,"Tu-We 08:30-12:15,13:30-18:00; Th 08:30-12:15,14:30-18:00,14:45-18:00; Fr 08:30-12:15,13:30-18:00; Sa 08:15-12:15",cic,Q746525
+https://local.fedex.com/#1028514969,fedex,,,Serris,Ile-de-France,,FR,,https://local.fedex.com/en-fr/serris/lbgs2,,FedEx,Q459477
+https://local.fedex.com/#1017446720,fedex,,,Serris,Ile-de-France,,FR,,https://local.fedex.com/en-fr/serris/lbg0z,,FedEx,Q459477
+https://local.fedex.com/#1017450642,fedex,,,Magny Le Hongre,Ile-de-France,,FR,,https://local.fedex.com/en-fr/magny-le-hongre/lbgme,,FedEx,Q459477
+https://local.fedex.com/#1017444110,fedex,,,Chessy,Ile-de-France,,FR,,https://local.fedex.com/en-fr/chessy/lbglr,,FedEx,Q459477
+1050504,starbucks_eu,Serris CCR Val d'Europe,"14 Cr du Danube 77700 Serris Francia, 77700 Serris",Serris,Ile-de-France,,FR,,,,Starbucks,Q37158
+1017955,starbucks_eu,Paris Disneyland - Santa Fe Hotel,"Avenue Robert Schuman, 77700 Coupvray",Coupvray,Ile-de-France,,FR,,,,Starbucks,Q37158
+1023110,starbucks_eu,Paris - Gare Marne La Vallee,"Place des Passagers des Vents, 77700 Chessy",Chessy,Ile-de-France,,FR,,,,Starbucks,Q37158
+19025,starbucks_eu,Disney Village 1,"Disney Village, 77700 Chessy",Chessy,Ile-de-France,,FR,+33 1 60 42 11 49,,,Starbucks,Q37158
+1017954,starbucks_eu,Paris Disneyland - Cheyenne Hotel,"Rue du Boeuf Agile, 77700 Coupvray",Coupvray,Ile-de-France,,FR,,,,Starbucks,Q37158
+,visa,,,MELUN,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,BUSSY-SAINT-GEORGES,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,SERRIS,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,SERRIS,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,MAGNY LE HONGRE,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,CHAUMONT EN VEXIN,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,TRICOT,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,AILLY SUR NOYE,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,VILLERS BOCAGE,ILE-DE-FRANCE,,FR,,,,,
+,visa,,,CRECY EN PONTHIEU,ILE-DE-FRANCE,,FR,,,,,
+09c3d8c9ac630826a8e6092126572948,western_union,BAILLY ROMAINVILLIERS BP,,Bailly,ILE DE FRANCE,,FR,(+33) 3631,https://location.westernunion.com/fr/ile-de-france/bailly/09c3d8c9ac630826a8e6092126572948,Tu-We 09:00-18:00; Th 14:30-18:00; Fr 09:00-18:00; Sa 09:00-12:30,Western Union,Q861042
+bed109fe3b8883664d63f1385f32cb33,western_union,SERRIS VAL D EUROPE BP,,Serris,ILE DE FRANCE,,FR,(+33) 3631,https://location.westernunion.com/fr/ile-de-france/serris/bed109fe3b8883664d63f1385f32cb33,Mo 10:00-18:30; Tu 14:00-18:30; We-Fr 10:00-18:30; Sa 10:00-13:00,Western Union,Q861042

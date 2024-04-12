@@ -1,0 +1,786 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+6701,accor,Novotel Taipei Taoyuan International Airport,"No. 1-1, Hangzhan South Rd., Dayuan District, Taoyuan City, 337041 TAOYUAN CITY",,,,TW,,https://all.accor.com/hotel/6701/index.en.shtml,,Novotel,Q420545
+377,carrefour_tw,大安仁愛店,106 台北市大安區仁愛路四段151巷37號B1,台北市,,,TW,+886 2 7744 7799,,24/7,Carrefour Market,Q2689639
+376,carrefour_tw,豐原向陽店,420 台中市豐原區向陽路265號1、2樓,台中市,,,TW,待提供,,Mo-We 07:00-23:00; Fr-Su 07:00-23:00,Carrefour Market,Q2689639
+375,carrefour_tw,大直明水店,104 台北市中山區明水路575號B1,台北市,,,TW,+886 2 7744 7789,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour Market,Q2689639
+373,carrefour_tw,烏日信義店,414 台中市烏日區信義街164巷9弄17號,台中市,,,TW,+886 4 3707 2500,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+372,carrefour_tw,嘉義民族店,600 嘉義市西區民族路610號,嘉義市,,,TW,+886 5 320 9020,,24/7,Carrefour Market,Q2689639
+369,carrefour_tw,龜山文青店,333 桃園市龜山區文青路137號B1,桃園市,,,TW,+886 3 328 6301,,Mo-We 07:00-23:00; Fr-Su 07:00-23:00,Carrefour Market,Q2689639
+366,carrefour_tw,青埔店,320 桃園市中壢區高鐵南路2段352號2樓,桃園市,,,TW,+886 3 287 6020,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour,Q3117359
+362,carrefour_tw,南港店,115 台北市南港區南港路二段146號B2,台北市,,,TW,+886 2 2653 0598,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour,Q3117359
+361,carrefour_tw,桃園中埔六店,330 桃園市桃園區中埔六街127號,桃園市,,,TW,03-346-8555、03-346-6449,,24/7,Carrefour Market,Q2689639
+165,carrefour_tw,八里商港店,249 新北市八里區商港七路21號1樓,新北市,,,TW,+886 2 2610 0959,,Mo-We 07:00-23:00; Fr-Su 07:00-23:00,Carrefour Market,Q2689639
+164,carrefour_tw,土城廣明店,236 新北市土城區廣明街63巷31號1F,新北市,,,TW,+886 2 8966 0529,,24/7,Carrefour Market,Q2689639
+151,carrefour_tw,高雄九如1店,807 高雄市三民區九如一路886號,高雄市,,,TW,+886 7 380 6307,,24/7,Carrefour Market,Q2689639
+81,carrefour_tw,新仁店,717 台南市仁德區大同路三段755號,台南市,,,TW,+886 6 289 1265,,Mo-We 09:00-22:30; Fr-Su 09:00-22:30,Carrefour,Q3117359
+46,carrefour_tw,新楠店,811 高雄市楠梓區土庫一路 60 號,高雄市,,,TW,+886 7 351 8006,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+85,carrefour_tw,北港店,651 雲林縣北港鎮華南路101號,雲林縣,,,TW,+886 5 783 0163,,Mo-We 09:00-22:30; Fr-Su 09:00-22:30,Carrefour,Q3117359
+134,carrefour_tw,新屏店,900 屏東縣屏東市台糖街3號,屏東縣,,,TW,+886 8 756 0005,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+147,carrefour_tw,西屯店,407 台中市西屯區台灣大道四段1086號,台中市,,,TW,+886 4 2465 2028,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+38,carrefour_tw,土城中央店,236 新北市土城區中央路二段191號B1,新北市,,,TW,+886 2 2265 5626,,24/7,Carrefour Market,Q2689639
+51,carrefour_tw,大安臨江店,106 台北市大安區臨江街87號B1,台北市,,,TW,+886 2 2700 8368,,24/7,Carrefour Market,Q2689639
+149,carrefour_tw,鳳山甲1店,830 高雄市鳳山區和興里五甲一路261號,高雄市,,,TW,+886 7 719 8236,,24/7,Carrefour Market,Q2689639
+1,carrefour_tw,台中水湳店,406 台中市北屯區中清路二段165號,台中市,,,TW,+886 4 2296 5766,,24/7,Carrefour Market,Q2689639
+114,carrefour_tw,小港漢民店,812 高雄市小港區漢民路798號,高雄市,,,TW,+886 7 801 7897,,24/7,Carrefour Market,Q2689639
+88,carrefour_tw,三重新北大道店,241 新北市三重區新北市三重區新北大道一段115號B1,新北市,,,TW,+886 2 2988 9196,,24/7,Carrefour Market,Q2689639
+66,carrefour_tw,台中復興店,402 台中市南區復興路二段120號,台中市,,,TW,+886 4 2262 5616,,24/7,Carrefour Market,Q2689639
+136,carrefour_tw,中壢成章1店,320 桃園市中壢區成章一街88號,桃園市,,,TW,+886 3 453 5379,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+93,carrefour_tw,高雄天祥店,807 高雄市三民區天祥一路102號,高雄市,,,TW,+886 7 359 9258,,24/7,Carrefour Market,Q2689639
+35,carrefour_tw,內湖江南店,114 台北市內湖區江南街55號,台北市,,,TW,+886 2 2656 1165,,24/7,Carrefour Market,Q2689639
+11,carrefour_tw,北投明德店,112 台北市北投區明德路161號B1樓,台北市,,,TW,+886 2 2827 8227,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour Market,Q2689639
+15,carrefour_tw,左營崇德店,813 高雄市左營區高雄市左營區崇德路360號,高雄市,,,TW,+886 7 341 5517,,24/7,Carrefour Market,Q2689639
+94,carrefour_tw,內湖成功店,114 台北市內湖區成功路三段174巷8號B1,台北市,,,TW,+886 2 2793 1215,,24/7,Carrefour Market,Q2689639
+61,carrefour_tw,台中大里中興店,412 台中市大里區中興路二段550號,台中市,,,TW,+886 4 2485 2689,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+110,carrefour_tw,金門店,892 金門縣金寧鄉伯玉路二段223號,金門縣,,,TW,+886 8 231 2015,,Mo-We 08:00-22:30; Fr-Su 08:00-22:30,Carrefour,Q3117359
+27,carrefour_tw,太平環中店,411 台中市太平區環中東路三段567號,台中市,,,TW,+886 4 2391 6018,,24/7,Carrefour Market,Q2689639
+112,carrefour_tw,台北錦州店,104 台北市中山區錦州街276號,台北市,,,TW,+886 2 7723 4350,,24/7,Carrefour Market,Q2689639
+76,carrefour_tw,土城日月光店,236 新北市土城區學府路二段210號B2樓,新北市,,,TW,+886 2 2263 5268,,Mo-We 10:00-22:00; Fr-Su 10:00-22:00,Carrefour Market,Q2689639
+135,carrefour_tw,桃園中正店,330 桃園市桃園區中正路836號,桃園市,,,TW,+886 3 358 1259,,24/7,Carrefour Market,Q2689639
+55,carrefour_tw,桃園大興店,330 桃園市桃園區大興路1號,桃園市,,,TW,+886 3 325 0172,,24/7,Carrefour Market,Q2689639
+58,carrefour_tw,板橋文化店,220 新北市板橋區文化路二段313號B1,新北市,,,TW,+886 2 2256 5121,,24/7,Carrefour Market,Q2689639
+39,carrefour_tw,台北內湖1店,114 台北市內湖區內湖路一段155號,台北市,,,TW,+886 2 2658 5955,,24/7,Carrefour Market,Q2689639
+105,carrefour_tw,台中大墩11店,408 台中市南屯區大墩十一街730號,台中市,,,TW,+886 4 2252 8128,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+31,carrefour_tw,台中進化店,404 台中市北區台中市北區進化路379號,台中市,,,TW,+886 4 2360 2158,,24/7,Carrefour Market,Q2689639
+41,carrefour_tw,新莊中港店,248 新北市新莊區中港路336號,新北市,,,TW,+886 2 2998 5052,,24/7,Carrefour Market,Q2689639
+60,carrefour_tw,士林忠誠店,111 台北市士林區忠誠路二段188號,台北市,,,TW,+886 2 2875 5015,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour Market,Q2689639
+131,carrefour_tw,台北濟南店,100 台北市中正區濟南路2段46號B1,台北市,,,TW,+886 2 2321 1262,,24/7,Carrefour Market,Q2689639
+106,carrefour_tw,蘆洲光華店,247 新北市蘆洲區光華路200號,新北市,,,TW,+886 2 2288 9268,,24/7,Carrefour Market,Q2689639
+26,carrefour_tw,台南裕農店,701 台南市東區裕農路766號,台南市,,,TW,+886 6 331 5595,,24/7,Carrefour Market,Q2689639
+108,carrefour_tw,新竹南大店,300 新竹市東區南大路286號,新竹市,,,TW,+886 3 561 7768,,24/7,Carrefour Market,Q2689639
+47,carrefour_tw,大甲蔣公店,437 台中市大甲區蔣公路295號,台中市,,,TW,+886 4 2687 0392,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+32,carrefour_tw,桃園龍安店,330 桃園市桃園區龍安街137號,桃園市,,,TW,+886 3 369 8550,,24/7,Carrefour Market,Q2689639
+119,carrefour_tw,內湖東湖店,114 台北市內湖區東湖路69號B1,台北市,,,TW,+886 2 2632 0558,,24/7,Carrefour Market,Q2689639
+79,carrefour_tw,屏東自由店,900 屏東縣屏東市自由路618號,屏東縣,,,TW,+886 8 766 3568,,24/7,Carrefour Market,Q2689639
+127,carrefour_tw,台中興安店,406 台中市北屯區平田里13鄰興安路一段288號,台中市,,,TW,+886 4 2242 0200,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+132,carrefour_tw,左營南屏店,813 高雄市左營區南屏路369號,高雄市,,,TW,+886 7 522 3536,,24/7,Carrefour Market,Q2689639
+28,carrefour_tw,台南北安店,704 台南市北區北安路一段167號,台南市,,,TW,+886 6 251 8022,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+44,carrefour_tw,左營重和店,813 高雄市左營區文川路323號,高雄市,,,TW,+886 7 341 1855,,24/7,Carrefour Market,Q2689639
+95,carrefour_tw,中壢中北店,320 桃園市中壢區中北路111號,桃園市,,,TW,+886 3 416 2176,,24/7,Carrefour Market,Q2689639
+43,carrefour_tw,八德店,334 桃園市八德區介壽路一段728號B2,桃園市,,,TW,+886 3 361 1385,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+14,carrefour_tw,台南開元店,704 台南市北區開元路501號,台南市,,,TW,+886 6 209 3057,,24/7,Carrefour Market,Q2689639
+96,carrefour_tw,板橋中正店,220 新北市板橋區中正路302號,新北市,,,TW,+886 2 2960 5886,,24/7,Carrefour Market,Q2689639
+6,carrefour_tw,三民建工店,807 高雄市三民區建工路497號,高雄市,,,TW,+886 7 380 8236,,24/7,Carrefour Market,Q2689639
+22,carrefour_tw,高雄鼎金店,807 高雄市三民區鼎山街259號,高雄市,,,TW,+886 7 380 3017,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+118,carrefour_tw,左營自由2店,813 高雄市左營區自由二路150號,高雄市,,,TW,+886 7 556 2238,,24/7,Carrefour Market,Q2689639
+84,carrefour_tw,永和永安店,234 新北市永和區中和路499-1號,新北市,,,TW,+886 2 2232 7755,,24/7,Carrefour Market,Q2689639
+49,carrefour_tw,北大店,238 新北市樹林區大雅路288號B1,新北市,,,TW,+886 2 3501 6879,,Mo-We 08:30-23:00; Fr-Su 08:30-23:00,Carrefour,Q3117359
+86,carrefour_tw,林口店,244 新北市林口區文化二路一段 559 號 B1,新北市,,,TW,+886 2 2602 5858,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+75,carrefour_tw,新店店,231 新北市新店區中興路三段1號,新北市,,,TW,+886 2 8919 3333,,24/7,Carrefour,Q3117359
+82,carrefour_tw,樹林店,238 新北市樹林區大安路118號,新北市,,,TW,+886 2 2681 0000,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+57,carrefour_tw,土城店,236 新北市土城區青雲路152號B1,新北市,,,TW,+886 2 2265 6001,,Mo-We 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00,Carrefour,Q3117359
+56,carrefour_tw,中和店,235 新北市中和區中山路二段295號B1,新北市,,,TW,+886 2 8245 5566,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+100,carrefour_tw,板橋店,220 新北市板橋區三民路二段31號B1,新北市,,,TW,+886 2 2964 2988,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+116,carrefour_tw,景安店,235 新北市中和區景平路353號B1,新北市,,,TW,+886 2 2240 9628,,24/7,Carrefour Market,Q2689639
+54,carrefour_tw,中平店,248 新北市新莊區中平路108號B1,新北市,,,TW,+886 2 8992 5678,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+125,carrefour_tw,蘆洲店,241 新北市三重區五華街282號,新北市,,,TW,+886 2 8287 9000,,24/7,Carrefour,Q3117359
+115,carrefour_tw,重新店,241 新北市三重區重新路五段654號,新北市,,,TW,+886 2 2999 5000,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+33,carrefour_tw,汐科店,221 新北市汐止區新台五路一段99號B1,新北市,,,TW,+886 2 2697 1098,,Mo-We 09:30-22:30; Fr-Su 09:30-22:30,Carrefour,Q3117359
+102,carrefour_tw,安平店,700 台南市中西區中華西路2段16號,台南市,,,TW,+886 6 295 7588,,24/7,Carrefour,Q3117359
+138,carrefour_tw,仁德店,717 台南市仁德區中山路711號,台南市,,,TW,+886 6 249 6666,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+130,carrefour_tw,中華店,710 台南市永康區中華二路350號B1-1-8,台南市,,,TW,+886 6 275 6050,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+121,carrefour_tw,中正店,710 台南市永康區中正南路358號,台南市,,,TW,+886 6 253 8481,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+120,carrefour_tw,新營店,730 台南市新營區健康路251號,台南市,,,TW,+886 6 656 9435,,Mo-We 08:30-23:00; Fr-Su 08:30-23:00,Carrefour,Q3117359
+3,carrefour_tw,斗六店,640 雲林縣斗六市雲林路二段297號,雲林縣,,,TW,+886 5 537 5500,,Mo-We 09:00-22:30; Fr-Su 09:00-22:30,Carrefour,Q3117359
+72,carrefour_tw,虎尾店,632 雲林縣虎尾鎮立新街96號,雲林縣,,,TW,+886 5 633 1089,,Mo-We 08:30-22:30; Fr-Su 08:30-22:30,Carrefour,Q3117359
+42,carrefour_tw,北門店,600 嘉義市東區忠孝路346巷21號,嘉義市,,,TW,+886 5 277 2289,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+103,carrefour_tw,嘉義店,600 嘉義市西區博愛路二段461號,嘉義市,,,TW,+886 5 235 3606,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+71,carrefour_tw,楠梓店,811 高雄市楠梓區藍田路288號,高雄市,,,TW,+886 7 591 1899,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+10,carrefour_tw,光華店,806 高雄市前鎮區光華二路157號,高雄市,,,TW,+886 7 330 6189,,Mo-We 08:30-23:00; Fr-Su 08:30-23:00,Carrefour,Q3117359
+91,carrefour_tw,澄清店,807 高雄市三民區澄清路635號,高雄市,,,TW,+886 7 394 3858,,Mo-We 08:30-23:00; Fr-Su 08:30-23:00,Carrefour,Q3117359
+12,carrefour_tw,成功店,806 高雄市前鎮區中華五路1111號,高雄市,,,TW,+886 7 536 9828,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+53,carrefour_tw,屏東店,900 屏東縣屏東市仁愛路188號,屏東縣,,,TW,+886 8 738 0310,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+70,carrefour_tw,鳳山店,830 高雄市鳳山區中山西路236號,高雄市,,,TW,+886 7 740 1789,,Mo-We 08:30-23:00; Fr-Su 08:30-23:00,Carrefour,Q3117359
+140,carrefour_tw,五甲店,830 高雄市鳳山區林森路291號,高雄市,,,TW,+886 7 713 8508,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+40,carrefour_tw,愛河店,807 高雄市三民區河東路356號,高雄市,,,TW,+886 7 272 5066,,Mo-We 08:30-23:00; Fr-Su 08:30-23:00,Carrefour,Q3117359
+5,carrefour_tw,鼎山店,807 高雄市三民區大順二路849號,高雄市,,,TW,+886 7 394 5588,,24/7,Carrefour,Q3117359
+23,carrefour_tw,左營自由店,813 高雄市左營區自由三路250號,高雄市,,,TW,+886 7 341 8908,,24/7,Carrefour Market,Q2689639
+90,carrefour_tw,莊敬店,701 台南市東區莊敬路118號1樓,台南市,,,TW,+886 6 236 9528,,24/7,Carrefour Market,Q2689639
+99,carrefour_tw,苗栗店,360 苗栗縣苗栗市國華路599號,苗栗縣,,,TW,+886 3 733 3000,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+7,carrefour_tw,中原店(目前暫停營業),320 桃園市中壢區中華路二段501號,桃園市,,,TW,+886 3 433 4601,,24/7,Carrefour,Q3117359
+37,carrefour_tw,南竹店,338 桃園市蘆竹區桃園街118號B1,桃園市,,,TW,+886 3 212 2077,,24/7,Carrefour Market,Q2689639
+19,carrefour_tw,經國店,330 桃園市桃園區經國路369號,桃園市,,,TW,+886 3 316 0676,,24/7,Carrefour,Q3117359
+21,carrefour_tw,竹北店,302 新竹縣竹北市光明六路89號1F,新竹縣,,,TW,+886 80 050 0505,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+29,carrefour_tw,內壢店,320 桃園市中壢區中華路一段450號,桃園市,,,TW,+886 3 452 6000,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+4,carrefour_tw,中壢店,320 桃園市中壢區中山東路二段510號,桃園市,,,TW,+886 80 068 8388,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour,Q3117359
+67,carrefour_tw,桃園店,330 桃園市桃園區春日路1593號,桃園市,,,TW,+886 3 356 6611,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+143,carrefour_tw,台東店,950 台東縣臺東市正氣路300之1號,台東縣,,,TW,+886 8 933 3258,,Mo-We 09:00-22:30; Fr-Su 09:00-22:30,Carrefour,Q3117359
+124,carrefour_tw,宜蘭店,260 宜蘭縣宜蘭市民權路二段38巷2號B2,宜蘭縣,,,TW,+886 3 936 1188,,Mo-We 08:00-22:30; Fr-Su 08:00-22:30,Carrefour,Q3117359
+68,carrefour_tw,花蓮店,971 花蓮縣新城鄉嘉里路15號B1,花蓮縣,,,TW,+886 3 826 7979,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+123,carrefour_tw,三民店,105 台北市松山區三民路160號,台北市,,,TW,+886 2 2767 0702,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour,Q3117359
+74,carrefour_tw,內湖店,114 台北市內湖區民善街88號(民權大橋旁),台北市,,,TW,+886 2 8790 5000,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+111,carrefour_tw,天母中北店,111 台北市士林區中山北路七段113號,台北市,,,TW,+886 2 2871 2126,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour Market,Q2689639
+63,carrefour_tw,豐原店,420 台中市豐原區成功路500號,台中市,,,TW,+886 4 2526 5151,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+48,carrefour_tw,豐南店,420 台中市豐原區豐南街118號,台中市,,,TW,+886 4 2528 0897,,24/7,Carrefour Market,Q2689639
+144,carrefour_tw,太平店,411 台中市太平區中平七街70號,台中市,,,TW,+886 4 2277 8068,,Mo-We 09:00-22:30; Fr-Su 09:00-22:30,Carrefour,Q3117359
+126,carrefour_tw,文心店,408 台中市南屯區文心路一段521號,台中市,,,TW,+886 4 2254 3355,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+9,carrefour_tw,青海店,407 台中市西屯區青海路二段207-18號,台中市,,,TW,+886 4 2707 3866,,24/7,Carrefour,Q3117359
+146,carrefour_tw,德安店,401 台中市東區復興路4段186號B1,台中市,,,TW,+886 4 2223 6677,,24/7,Carrefour,Q3117359
+16,carrefour_tw,南投店,540 南投縣南投市三和三路21號,南投縣,,,TW,+886 4 9224 5318,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+80,carrefour_tw,彰化店,500 彰化縣彰化市金馬路二段321號,彰化縣,,,TW,+886 4 736 7397,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+2,carrefour_tw,大墩店,408 台中市南屯區大墩路533號B1,台中市,,,TW,+886 4 2310 8467,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+142,carrefour_tw,中清店,407 台中市西屯區中清路三段436號,台中市,,,TW,+886 4 2426 2555,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+52,carrefour_tw,沙鹿店,433 台中市沙鹿區光華路336號,台中市,,,TW,+886 4 2665 2300,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+17,carrefour_tw,昌平店,406 台中市北屯區昌平路一段105-1號,台中市,,,TW,+886 4 2243 6058,,24/7,Carrefour Market,Q2689639
+59,carrefour_tw,埔里店,545 南投縣埔里鎮信義路1029號,南投縣,,,TW,+886 4 9291 2088,,Mo-We 09:00-22:30; Fr-Su 09:00-22:30,Carrefour,Q3117359
+113,carrefour_tw,新莊丹鳳店,248 新北市新莊區雙鳳路59號,新北市,,,TW,+886 2 2901 5908,,24/7,Carrefour Market,Q2689639
+13,carrefour_tw,永康二王店,710 台南市永康區中山南路696號,台南市,,,TW,+886 6 201 6398,,24/7,Carrefour Market,Q2689639
+139,carrefour_tw,高雄岡山店,820 高雄市岡山區岡山路288號,高雄市,,,TW,+886 7 621 7627,,24/7,Carrefour Market,Q2689639
+45,carrefour_tw,高雄小港店,812 高雄市小港區宏平路411號,高雄市,,,TW,+886 7 801 2597,,24/7,Carrefour Market,Q2689639
+18,carrefour_tw,台中南屯店,408 台中市南屯區南屯路二段270之1號,台中市,,,TW,+886 4 2475 0568,,24/7,Carrefour Market,Q2689639
+83,carrefour_tw,台中漢口店,404 台中市北區漢口路四段295號,台中市,,,TW,+886 4 2236 0276,,24/7,Carrefour Market,Q2689639
+25,carrefour_tw,楠梓益群店,811 高雄市楠梓區益群路50號,高雄市,,,TW,+886 7 301 1317,,24/7,Carrefour Market,Q2689639
+78,carrefour_tw,平鎮店,324 桃園市平鎮區坤慶路1號,桃園市,,,TW,+886 3 469 0288,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+92,carrefour_tw,桃園南平店,330 桃園市桃園區南平路168號,桃園市,,,TW,+886 3 316 3799,,24/7,Carrefour Market,Q2689639
+62,carrefour_tw,桂林店,108 台北市萬華區桂林路1號,台北市,,,TW,+886 2 2388 9887,,24/7,Carrefour,Q3117359
+8,carrefour_tw,重慶店,103 台北市大同區重慶北路二段171號,台北市,,,TW,+886 2 2553 7389,,Mo-We 09:00-24:00; Fr-Sa 09:00-02:00; Su 09:00-24:00,Carrefour,Q3117359
+117,carrefour_tw,北投店,112 台北市北投區中和街366號B1,台北市,,,TW,+886 2 2896 3000,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour,Q3117359
+87,carrefour_tw,淡新店,251 新北市淡水區中山北路二段383號,新北市,,,TW,+886 2 8631 8880,,Mo-We 09:00-23:00; Fr-Su 09:00-23:00,Carrefour,Q3117359
+24,carrefour_tw,天母店,111 台北市士林區德行西路47號,台北市,,,TW,+886 2 2833 8042,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour,Q3117359
+256,carrefour_tw,竹北六家二店,302 新竹縣竹北市六家五路二段162號,新竹縣,,,TW,03-658-9954、03-658-7254,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+257,carrefour_tw,竹北六家店,302 新竹縣竹北市六家五路一段133號,新竹縣,,,TW,03-667-3304、03-667-3394,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+258,carrefour_tw,竹北成功店,302 新竹縣竹北市成功八路158號,新竹縣,,,TW,03-657-6629、03-657-6653,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+259,carrefour_tw,竹北勝利二店,302 新竹縣竹北市勝利二路26號,新竹縣,,,TW,+886 3 658 5344,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+260,carrefour_tw,竹北華興店,302 新竹縣竹北市華興街135號1F,新竹縣,,,TW,+886 3 554 5015#3,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+261,carrefour_tw,竹北福興東店,302 新竹縣竹北市福興東路二段97號,新竹縣,,,TW,03-550-1894、03-550-5194,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+262,carrefour_tw,竹北縣政二店,302 新竹縣竹北市縣政二路南段56號,新竹縣,,,TW,+886 3 558 3843,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+263,carrefour_tw,竹東民德店,310 新竹縣竹東鎮民德路64號1樓,新竹縣,,,TW,+886 3 596 3919#20,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+264,carrefour_tw,竹南民族二店,350 苗栗縣竹南鎮民族街146號,苗栗縣,,,TW,03-748-1301、03-748-1303,,24/7,Carrefour Market,Q2689639
+265,carrefour_tw,西屯青海店,407 台中市西屯區青海路一段126，128號,台中市,,,TW,+886 4 2317 4258,,24/7,Carrefour Market,Q2689639
+267,carrefour_tw,板橋大觀店,220 新北市板橋區大觀路三段236號1樓之14、1樓之15,新北市,,,TW,02-2682-5173、02-2682-5190,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+268,carrefour_tw,板橋四維店,220 新北市板橋區四維路247、249、251、253號,新北市,,,TW,02-2257-7098、02-2257-6530,,24/7,Carrefour Market,Q2689639
+269,carrefour_tw,板橋忠孝店,220 新北市板橋區忠孝路237號,新北市,,,TW,02-2964-6761、02-2964-5736,,24/7,Carrefour Market,Q2689639
+270,carrefour_tw,板橋金門二店,220 新北市板橋區金門街153、155、159號,新北市,,,TW,02-2675-1057、02-2675-1043,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+271,carrefour_tw,板橋金門店,220 新北市板橋區金門街357號,新北市,,,TW,02-2675-4160、02-2675-4198,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+272,carrefour_tw,林口仁愛店,244 新北市林口區仁愛路二段89號,新北市,,,TW,+886 2 2601 5495,,24/7,Carrefour Market,Q2689639
+274,carrefour_tw,林口文化一店,244 新北市林口區文化三路一段319、321、323、325號,新北市,,,TW,+886 2 7754 2000,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+275,carrefour_tw,林口文化三店,244 新北市林口區文化三路一段543號,新北市,,,TW,02-2600-9770、02-2600-9576,,24/7,Carrefour Market,Q2689639
+276,carrefour_tw,南屯黎明店,408 台中市南屯區黎明路二段423號,台中市,,,TW,+886 4 2252 2418,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+277,carrefour_tw,南港成福店,115 台北市南港區成福路183號,台北市,,,TW,02-2788-4756、02-2788-6030,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+278,carrefour_tw,南港東明店,115 台北市南港區東明街99號1樓,台北市,,,TW,02-2785-6170、02-2785-5972,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+279,carrefour_tw,後龍中山店,356 苗栗縣後龍鎮中山路116-120號,苗栗縣,,,TW,03-772-8559、03-772-8564,,Mo-We 06:00-24:00; Fr-Su 06:00-24:00,Carrefour Market,Q2689639
+281,carrefour_tw,員林博愛店,510 彰化縣員林市博愛路185號,彰化縣,,,TW,+886 4 833 7848,,24/7,Carrefour Market,Q2689639
+283,carrefour_tw,桃園大興西店,330 桃園市桃園區大興西路二段63號、65號,桃園市,,,TW,03-302-6997、03-302-6975,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+284,carrefour_tw,桃園大豐店,330 桃園市桃園區大豐路89號,桃園市,,,TW,03-374-2603、03-374-2426,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+286,carrefour_tw,桃園文化七店,333 桃園市龜山區文化七路173號,桃園市,,,TW,+886 3 327 4328,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+288,carrefour_tw,桃園南華店,330 桃園市桃園區南華街77號1樓,桃園市,,,TW,03-347-9001、03-347-5491,,24/7,Carrefour Market,Q2689639
+289,carrefour_tw,桃園國際店,330 桃園市桃園區國際路一段1169號,桃園市,,,TW,03-344-1500、03-344-1501,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+290,carrefour_tw,桃園陸光店,333 桃園市龜山區陸光路81號,桃園市,,,TW,03-213-3818、03-213-3817,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+291,carrefour_tw,桃園復興一店,333 桃園市龜山區復興一路222號,桃園市,,,TW,03-328-8385、03-328-8392,,24/7,Carrefour Market,Q2689639
+292,carrefour_tw,桃園復興店,330 桃園市桃園區復興路96號,桃園市,,,TW,03-334-1848、03-334-5328,,24/7,Carrefour Market,Q2689639
+293,carrefour_tw,桃園萬壽二店,333 桃園市龜山區萬壽路二段663-667號,桃園市,,,TW,03-349-3008、03-349-8433,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+294,carrefour_tw,桃園萬壽店,333 桃園市龜山區萬壽路一段293-295號,桃園市,,,TW,+886 2 8209 8221,,24/7,Carrefour Market,Q2689639
+295,carrefour_tw,桃園壽昌店,330 桃園市桃園區壽昌街20巷17號,桃園市,,,TW,03-220-4545、03-220-3710,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+296,carrefour_tw,桃園寶山店,330 桃園市桃園區寶山街276、278號,桃園市,,,TW,03-325-3722、03-325-3732,,24/7,Carrefour Market,Q2689639
+297,carrefour_tw,泰山明志店,243 新北市泰山區明志路二段95-97號,新北市,,,TW,+886 2 2296 5072,,24/7,Carrefour Market,Q2689639
+298,carrefour_tw,高雄大豐二店,807 高雄市三民區大豐二路298號,高雄市,,,TW,07-383-8374、07-383-4447,,24/7,Carrefour Market,Q2689639
+299,carrefour_tw,高雄南屏店,804 高雄市鼓山區南屏路551號,高雄市,,,TW,07-553-7845、07-553-6427,,24/7,Carrefour Market,Q2689639
+300,carrefour_tw,高雄美術東店,804 高雄市鼓山區美術東二路175號,高雄市,,,TW,07-522-5546、07-522-2434,,24/7,Carrefour Market,Q2689639
+301,carrefour_tw,基隆安樂店,204 基隆市安樂區安樂路二段164號B1,基隆市,,,TW,+886 2 2432 4051#3,,24/7,Carrefour Market,Q2689639
+302,carrefour_tw,基隆孝二店,200 基隆市仁愛區孝二路86號B1,基隆市,,,TW,+886 2 2422 1270,,24/7,Carrefour Market,Q2689639
+303,carrefour_tw,基隆深溪店,201 基隆市信義區深溪路63號、65號,基隆市,,,TW,02-2465-4548、02-2465-4523,,Mo-We 07:30-23:00; Fr-Su 07:30-23:00,Carrefour Market,Q2689639
+307,carrefour_tw,淡水中山北店,251 新北市淡水區中山北路一段156號,新北市,,,TW,02-2621-5450、02-2621-5475,,24/7,Carrefour Market,Q2689639
+308,carrefour_tw,淡水民權店,251 新北市淡水區民權路177巷12、16、18、20號,新北市,,,TW,+886 2 7754 2170,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+310,carrefour_tw,淡水沙崙店,251 新北市淡水區沙崙路168號,新北市,,,TW,02-2805-2174、02-2805-2294,,24/7,Carrefour Market,Q2689639
+311,carrefour_tw,深坑北深店,222 新北市深坑區深坑區北深路三段151號,新北市,,,TW,02-2664-0807、02-2664-3105,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+313,carrefour_tw,新竹北大店,300 新竹市北區北大路338號1樓,新竹市,,,TW,+886 3 524 6333,,24/7,Carrefour Market,Q2689639
+314,carrefour_tw,新竹光復店,300 新竹市東區光復路一段329-1號,新竹市,,,TW,+886 3 668 6226#7,,24/7,Carrefour Market,Q2689639
+316,carrefour_tw,新竹明湖店,300 新竹市東區明湖路566號,新竹市,,,TW,03-520-5842、03-520-5843,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+317,carrefour_tw,新竹金山店,300 新竹市東區金山街30號,新竹市,,,TW,03-567-9001、03-567-9792,,24/7,Carrefour Market,Q2689639
+318,carrefour_tw,新竹長春店,300 新竹市東區長春街56號,新竹市,,,TW,03-579-7088、03-579-8283,,Mo-We 08:00-23:00; Fr-Su 08:00-23:00,Carrefour Market,Q2689639
+319,carrefour_tw,新竹建中店,300 新竹市東區建中路42號、46號,新竹市,,,TW,03-573-8716、03-573-8720,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+320,carrefour_tw,新竹食品店,300 新竹市東區食品路262-266號,新竹市,,,TW,03-561-0693、03-561-0977,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+321,carrefour_tw,新竹振興店,300 新竹市東區振興路62號及68號,新竹市,,,TW,+886 3 562 1446,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+323,carrefour_tw,新店民族店,231 新北市新店區民族路71號B1,新北市,,,TW,+886 2 2918 4611#2,,24/7,Carrefour Market,Q2689639
+324,carrefour_tw,新店如意店,231 新北市新店區如意街95、97號,新北市,,,TW,02-2210-4341、02-2210-4472,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+325,carrefour_tw,新店安康二店,231 新北市新店區安康路二段136巷59號,新北市,,,TW,02-2212-1092、02-2212-0949,,24/7,Carrefour Market,Q2689639
+326,carrefour_tw,新店安康店,231 新北市新店區安康路二段196號B1,新北市,,,TW,02-2211-5934、02-2211-5965,,24/7,Carrefour Market,Q2689639
+327,carrefour_tw,新店安祥店,231 新北市新店區安祥路85-89號,新北市,,,TW,02-2200-8008、02-2200-8030,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+328,carrefour_tw,新店新坡一店,231 新北市新店區新坡一街75號B1,新北市,,,TW,02-2915-7750、02-2915-7675,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+329,carrefour_tw,新店溪園店,231 新北市新店區溪園路399號,新北市,,,TW,02-8667-8042、02-8667-8047,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+330,carrefour_tw,新莊中平店,248 新北市新莊區中平路377巷18、20號,新北市,,,TW,+886 2 2992 2182,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+331,carrefour_tw,新莊中信店,248 新北市新莊區中信街72號,新北市,,,TW,+886 2 2994 5810,,24/7,Carrefour Market,Q2689639
+332,carrefour_tw,新莊公園一店,248 新北市新莊區公園一路110號,新北市,,,TW,02-2276-8602、02-2276-8537,,24/7,Carrefour Market,Q2689639
+333,carrefour_tw,新莊公園店,248 新北市新莊區公園路226號,新北市,,,TW,02-8994-2178、02-8994-2193,,24/7,Carrefour Market,Q2689639
+334,carrefour_tw,新莊化成店,248 新北市新莊區化成路193號,新北市,,,TW,+886 2 2990 2980,,24/7,Carrefour Market,Q2689639
+335,carrefour_tw,新莊民安店,248 新北市新莊區民安路157號之1,新北市,,,TW,02-2204-2479、02-2202-2272,,24/7,Carrefour Market,Q2689639
+336,carrefour_tw,新莊昌隆店,248 新北市新莊區昌隆街69、75、83號,新北市,,,TW,02-2992-3404、02-2992-3594,,24/7,Carrefour Market,Q2689639
+337,carrefour_tw,新莊後港一店,248 新北市新莊區後港一路122-126號,新北市,,,TW,02-2204-8948、02-2204-0349,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+338,carrefour_tw,新莊富國店,248 新北市新莊區富國路2號B1,新北市,,,TW,02-2902-6138、02-2902-6139,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+339,carrefour_tw,新莊龍安店,248 新北市新莊區龍安路75號,新北市,,,TW,02-2904-0032、02-2904-0035,,24/7,Carrefour Market,Q2689639
+340,carrefour_tw,新豐建興店,304 新竹縣新豐鄉建興路一段116-2號,新竹縣,,,TW,03-557-2047、03-557-2497,,24/7,Carrefour Market,Q2689639
+341,carrefour_tw,楊梅中興店,326 桃園市楊梅區中興路67號1樓,桃園市,,,TW,03-481-2599、03-481-3637,,24/7,Carrefour Market,Q2689639
+343,carrefour_tw,嘉義仁愛店,600 嘉義市西區仁愛路211、213號,嘉義市,,,TW,05-285-0171、05-285-0190,,24/7,Carrefour Market,Q2689639
+345,carrefour_tw,嘉義德明店,600 嘉義市西區德明路128-132號,嘉義市,,,TW,05-231-5457、05-231-1739,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+346,carrefour_tw,樹林太順店,238 新北市樹林區太順路64號、66號、68號,新北市,,,TW,02-8684-9572、02-8684-9573,,Mo-We 07:30-24:00; Fr-Su 07:30-24:00,Carrefour Market,Q2689639
+347,carrefour_tw,樹林復興店,238 新北市樹林區復興路198號,新北市,,,TW,+886 2 2675 4662,,24/7,Carrefour Market,Q2689639
+348,carrefour_tw,樹林學成店,238 新北市樹林區學成路536號,新北市,,,TW,02-2680-4208、02-2680-4216,,24/7,Carrefour Market,Q2689639
+349,carrefour_tw,頭份中華店,351 苗栗縣頭份市中華路1155號,苗栗縣,,,TW,+886 3 769 1625#6,,24/7,Carrefour Market,Q2689639
+350,carrefour_tw,龍井藝術店,434 台中市龍井區藝術街22號,台中市,,,TW,04-2631-5031、04-2631-9395,,Mo-We 08:00-24:00; Fr-Su 08:00-24:00,Carrefour Market,Q2689639
+352,carrefour_tw,關西中興店,306 新竹縣關西鎮中興路19號,新竹縣,,,TW,03-587-7931、03-587-7943,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+353,carrefour_tw,蘆竹六福店,338 桃園市蘆竹區六福路189號,桃園市,,,TW,03-321-6025、03-321-3267,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+354,carrefour_tw,蘆竹吉林店,338 桃園市蘆竹區吉林路169、171號,桃園市,,,TW,03-311-0457、03-311-0954,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+355,carrefour_tw,蘆竹奉化店,338 桃園市蘆竹區奉化路248號,桃園市,,,TW,03-311-6523、03-311-8715,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+356,carrefour_tw,蘆竹福祿一店,338 桃園市蘆竹區福祿一街189-193號,桃園市,,,TW,03-311-6651、03-311-7023,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+357,carrefour_tw,蘆洲三民店,247 新北市蘆洲區三民路54號,新北市,,,TW,+886 2 2847 6454,,24/7,Carrefour Market,Q2689639
+358,carrefour_tw,蘆洲中興店,247 新北市蘆洲區中興街34、36號,新北市,,,TW,02-2847-4195、02-2847-4389,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+359,carrefour_tw,蘆洲長安二店,247 新北市蘆洲區長安街387號1樓,新北市,,,TW,02-2848-4041、02-2848-5364,,24/7,Carrefour Market,Q2689639
+360,carrefour_tw,蘆洲長榮店,247 新北市蘆洲區長榮路386號,新北市,,,TW,+886 2 8282 1005,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+166,carrefour_tw,台北敦化北店,105 台北市松山區敦化北路199巷5號,台北市,,,TW,+886 2 2716 7228#9,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+167,carrefour_tw,南港舊莊店,115 台北市南港區舊莊街一段196號,台北市,,,TW,+886 2 2651 2639,,24/7,Carrefour Market,Q2689639
+168,carrefour_tw,七堵崇信店,206 基隆市七堵區崇信街16號,基隆市,,,TW,+886 2 2456 8106#7,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+169,carrefour_tw,三重中正北店,241 新北市三重區中正北路67號、69號,新北市,,,TW,02-2984-9994、02-2984-9814,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+170,carrefour_tw,三重五華店,241 新北市三重區五華街110巷1-4號,新北市,,,TW,+886 2 2981 0980#1,,24/7,Carrefour Market,Q2689639
+171,carrefour_tw,三重仁愛二店,241 新北市三重區仁愛街81號,新北市,,,TW,02-2976-3213、02-2976-4507,,24/7,Carrefour Market,Q2689639
+172,carrefour_tw,三重仁愛店,241 新北市三重區仁愛街285號及293號,新北市,,,TW,02-2983-4569、02-2983-9326,,24/7,Carrefour Market,Q2689639
+173,carrefour_tw,三重永福店,241 新北市三重區永福街245、247、249號,新北市,,,TW,02-2280-1127、02-2280-0127,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+174,carrefour_tw,三重重陽店,241 新北市三重區重陽路一段41號,新北市,,,TW,+886 2 8982 9137#8,,24/7,Carrefour Market,Q2689639
+175,carrefour_tw,三重溪尾店,241 新北市三重區溪尾街125號1樓,新北市,,,TW,+886 2 8985 2820,,24/7,Carrefour Market,Q2689639
+176,carrefour_tw,三峽中山店,237 新北市三峽區中山路171號,新北市,,,TW,02-8671-3230、02-8671-3231,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+177,carrefour_tw,三峽光明店,237 新北市三峽區光明路71號,新北市,,,TW,02-8671-1790、02-8671-1796,,24/7,Carrefour Market,Q2689639
+178,carrefour_tw,土城立德店,236 新北市土城區立德路105號,新北市,,,TW,02-2273-6908、02-2273-6903,,24/7,Carrefour Market,Q2689639
+179,carrefour_tw,土城金城店,236 新北市土城區金城路三段202-6號,新北市,,,TW,02-2270-7730、02-2270-8462,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+180,carrefour_tw,土城學府店,"236 新北市土城區學府路一段157,161號",新北市,,,TW,02-8273-2574、02-8273-2584,,24/7,Carrefour Market,Q2689639
+181,carrefour_tw,士林社中店,111 台北市士林區社中街222號1樓,台北市,,,TW,02-8811-2281、02-8811-1567,,24/7,Carrefour Market,Q2689639
+182,carrefour_tw,士林雨聲店,111 台北市士林區雨聲街52號、52-1號、52巷1號,台北市,,,TW,02-2838-1772、02-2838-0751,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+183,carrefour_tw,士林格致店,111 台北市士林區格致路7號,台北市,,,TW,+886 2 2862 4435,,24/7,Carrefour Market,Q2689639
+184,carrefour_tw,士林通河店,111 台北市士林區通河街153號、155號,台北市,,,TW,02-2885-5937、02-2885-5938,,24/7,Carrefour Market,Q2689639
+185,carrefour_tw,士林華齡店,111 台北市士林區華齡街175號,台北市,,,TW,+886 2 2882 4585#6,,24/7,Carrefour Market,Q2689639
+186,carrefour_tw,士林德行東店,111 台北市士林區德行東路230號,台北市,,,TW,+886 2 2836 6280#1,,24/7,Carrefour Market,Q2689639
+187,carrefour_tw,大安和平東店,106 台北市大安區和平東路一段145號,台北市,,,TW,02-2391-3765、02-2391-8062,,24/7,Carrefour Market,Q2689639
+188,carrefour_tw,大安敦化南店,106 台北市大安區敦化南路二段48號,台北市,,,TW,+886 2 7756 4150,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+189,carrefour_tw,大雅民生二店,428 台中市大雅區上雅村民生路一段37號,台中市,,,TW,+886 4 2560 3900,,24/7,Carrefour Market,Q2689639
+190,carrefour_tw,大溪介壽店,335 桃園市大溪區介壽路894號、896號,桃園市,,,TW,03-380-2244、03-380-9842,,24/7,Carrefour Market,Q2689639
+191,carrefour_tw,中和中山店,235 新北市中和區中山路三段1-3號,新北市,,,TW,+886 2 8221 2870,,24/7,Carrefour Market,Q2689639
+192,carrefour_tw,中和民治店,235 新北市中和區民治街120號,新北市,,,TW,02-8221-8517、02-8221-8597,,24/7,Carrefour Market,Q2689639
+193,carrefour_tw,中和復興店,235 新北市中和區復興路268號,新北市,,,TW,+886 2 8242 3945,,24/7,Carrefour Market,Q2689639
+194,carrefour_tw,中和圓通店,235 新北市中和區圓通路274號,新北市,,,TW,02-2249-8224、02-2249-7404,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+195,carrefour_tw,中和壽德店,235 新北市中和區壽德街20號1樓,新北市,,,TW,02-2964-3543、02-2964-3541,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+196,carrefour_tw,中和興南店,235 新北市中和區興南路一段20號B1,新北市,,,TW,+886 2 2948 1240#1,,24/7,Carrefour Market,Q2689639
+198,carrefour_tw,中壢環北店,320 桃園市中壢區環北路392號,桃園市,,,TW,03-427-4485、03-427-4486,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+199,carrefour_tw,五股成泰二店,248 新北市五股區成泰路一段6號,新北市,,,TW,02-2297-4497、02-2297-0425,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+200,carrefour_tw,五股成泰店,248 新北市五股區成泰路一段235號之4,新北市,,,TW,02-2291-5245、02-2291-5275,,24/7,Carrefour Market,Q2689639
+201,carrefour_tw,五股西雲店,248 新北市五股區西雲路169-1號、171號、171-1號,新北市,,,TW,02-2295-3601、02-2295-1621,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+202,carrefour_tw,五股明德店,248 新北市五股區明德路12巷5號,新北市,,,TW,02-2293-1485、02-2293-8455,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+203,carrefour_tw,內湖民權東店,114 台北市內湖區民權東路六段296巷42-3號地下樓,台北市,,,TW,02-2634-1240、02-2634-8246,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+204,carrefour_tw,內湖成功二店,114 台北市內湖區成功路二段320巷19號,台北市,,,TW,+886 2 2796 0902#3,,24/7,Carrefour Market,Q2689639
+205,carrefour_tw,內湖康樂店,114 台北市內湖區康樂街150號,台北市,,,TW,02-2633-8537、02-2633-8437,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+206,carrefour_tw,文山木新店,116 台北市文山區木新路二段158-1號,台北市,,,TW,02-2936-2263、02-2936-2220,,24/7,Carrefour Market,Q2689639
+207,carrefour_tw,文山景隆店,116 台北市文山區景隆街36巷2號,台北市,,,TW,02-2935-3394、02-2935-4421,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+208,carrefour_tw,文山萬慶店,116 台北市文山區萬慶街27號,台北市,,,TW,02-2935-2362、02-2935-2367,,24/7,Carrefour Market,Q2689639
+209,carrefour_tw,北投公館店,112 台北市北投區公館路198號,台北市,,,TW,+886 2 2893 1276,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+210,carrefour_tw,北投光明店,112 台北市北投區光明路220號1F,台北市,,,TW,+886 2 2896 8712#3,,24/7,Carrefour Market,Q2689639
+211,carrefour_tw,北投致遠一店,112 台北市北投區致遠一路二段19號、21號、23號,台北市,,,TW,02-2827-4150、02-2827-4159,,24/7,Carrefour Market,Q2689639
+212,carrefour_tw,台中建成店,402 台中市南區建成路1025-1031號,台中市,,,TW,+886 4 2281 2970,,24/7,Carrefour Market,Q2689639
+213,carrefour_tw,台北八德店,105 台北市松山區八德路四段83號,台北市,,,TW,02-2742-3398、02-2742-3397,,24/7,Carrefour Market,Q2689639
+214,carrefour_tw,台北大理店,108 台北市萬華區大理街114號1樓,台北市,,,TW,02-2304-2343、02-2304-2353,,24/7,Carrefour Market,Q2689639
+215,carrefour_tw,台北中坡南店,115 台北市南港區中坡南路3號,台北市,,,TW,02-2785-4579、02-2785-4725,,24/7,Carrefour Market,Q2689639
+216,carrefour_tw,台北仁愛二店,106 台北市大安區仁愛路四段388號B1,台北市,,,TW,+886 2 7756 4050,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+217,carrefour_tw,台北仁愛店,"106 台北市大安區仁愛路四段50-99,50-100號B1",台北市,,,TW,+886 2 7756 4170,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+218,carrefour_tw,台北太原店,103 台北市大同區太原路155、157號,台北市,,,TW,02-2558-4038、02-2558-6525,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+219,carrefour_tw,台北木柵店,116 台北市文山區木柵路四段153號,台北市,,,TW,02-2239-6401、02-2239-6404,,24/7,Carrefour Market,Q2689639
+220,carrefour_tw,台北北安店,104 台北市中山區北安路595巷11-13號,台北市,,,TW,+886 2 2533 7796#7,,24/7,Carrefour Market,Q2689639
+221,carrefour_tw,台北四維店,106 台北市大安區四維路198巷35號,台北市,,,TW,+886 2 7756 4140,,24/7,Carrefour Market,Q2689639
+222,carrefour_tw,台北光復店,105 台北市松山區光復北路198號,台北市,,,TW,+886 2 2546 9080,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+223,carrefour_tw,台北同安店,100 台北市中正區同安街71號,台北市,,,TW,+886 2 2365 1672,,24/7,Carrefour Market,Q2689639
+224,carrefour_tw,台北西藏店,108 台北市萬華區西藏路125巷13-15號,台北市,,,TW,+886 2 2332 6726,,24/7,Carrefour Market,Q2689639
+225,carrefour_tw,台北延吉店,106 台北市大安區延吉街250號B1,台北市,,,TW,+886 2 2704 8933,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+226,carrefour_tw,台北延壽店,105 台北市松山區延壽街91號、93號,台北市,,,TW,02-2745-7060、02-2745-7065,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+227,carrefour_tw,台北忠孝東二店,106 台北市大安區忠孝東路三段218號B1,台北市,,,TW,02-2777-1516、02-2777-1517,,24/7,Carrefour Market,Q2689639
+228,carrefour_tw,台北忠孝東店,106 台北市大安區忠孝東路四段71號B1,台北市,,,TW,02-2781-1008、02-2778-1336,,24/7,Carrefour Market,Q2689639
+229,carrefour_tw,台北松仁店,110 台北市信義區松仁路271號B1,台北市,,,TW,+886 2 2720 7494,,24/7,Carrefour Market,Q2689639
+230,carrefour_tw,台北松德店,110 台北市信義區松德路99號B1,台北市,,,TW,+886 2 2346 3665,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+231,carrefour_tw,台北林森北店,104 台北市中山區林森北路413號B1,台北市,,,TW,02-2525-3663、02-2525-3664,,24/7,Carrefour Market,Q2689639
+232,carrefour_tw,台北長安東店,104 台北市中山區長安東路二段63、63-1、63-2號,台北市,,,TW,02-2507-1687、02-2507-9903,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+233,carrefour_tw,台北長沙店,108 台北市萬華區長沙街二段93號B1,台北市,,,TW,+886 2 2370 6201#2,,24/7,Carrefour Market,Q2689639
+234,carrefour_tw,台北信義店,106 台北市大安區信義路四段296號B1,台北市,,,TW,+886 2 2754 5386#7,,24/7,Carrefour Market,Q2689639
+235,carrefour_tw,台北重慶北店,103 台北市大同區重慶北路一段73號B1,台北市,,,TW,+886 2 2555 9081#2,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+236,carrefour_tw,台北師大店,106 台北市大安區師大路129號1樓,台北市,,,TW,+886 2 2368 0031#2,,24/7,Carrefour Market,Q2689639
+237,carrefour_tw,台北酒泉店,103 台北市大同區酒泉街105號,台北市,,,TW,02-2593-3600、02-2593-3033,,24/7,Carrefour Market,Q2689639
+238,carrefour_tw,台北新生南店,106 台北市大安區新生南路三段2號B1,台北市,,,TW,02-2368-6191、02-2368-6195,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+239,carrefour_tw,台北萬大店,108 台北市萬華區萬大路486巷48號1樓,台北市,,,TW,02-2303-8018、02-2303-6980,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+240,carrefour_tw,台北農安二店,104 台北市中山區農安街26號、26-1號,台北市,,,TW,02-2599-2851、02-2599-1650,,24/7,Carrefour Market,Q2689639
+241,carrefour_tw,台北農安店,104 台北市中山區農安街257、259號,台北市,,,TW,02-2504-7952、02-2504-7942,,Mo-We 07:30-23:00; Fr-Su 07:30-23:00,Carrefour Market,Q2689639
+242,carrefour_tw,台北羅斯福店,106 台北市大安區羅斯福路三段285號B1,台北市,,,TW,+886 2 2363 1410,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+244,carrefour_tw,平鎮文化店,324 桃園市平鎮區文化街102號,桃園市,,,TW,03-281-2047、03-281-2438,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+245,carrefour_tw,平鎮廣明店,324 桃園市平鎮區廣明路1號,桃園市,,,TW,03-493-1438、03-493-1483,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+246,carrefour_tw,永和中正店,234 新北市永和區中正路704號,新北市,,,TW,+886 2 2921 5627,,Mo-We 07:00-01:00; Fr-Su 07:00-01:00,Carrefour Market,Q2689639
+247,carrefour_tw,永和仁愛店,234 新北市永和區仁愛路152號B1,新北市,,,TW,02-2921-5698、02-2925-3555,,24/7,Carrefour Market,Q2689639
+248,carrefour_tw,永和竹林店,234 新北市永和區竹林路60號,新北市,,,TW,02-2926-6951、02-2926-7343,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+250,carrefour_tw,汐止大同店,221 新北市汐止區大同路二段285號B1,新北市,,,TW,02-2649-2001、02-2649-2051,,24/7,Carrefour Market,Q2689639
+251,carrefour_tw,汐止明峰店,221 新北市汐止區明峰街117號B1,新北市,,,TW,02-2692-5615、02-2692-5636,,24/7,Carrefour Market,Q2689639
+252,carrefour_tw,汐止建成店,221 新北市汐止區建成路39號,新北市,,,TW,+886 2 2641 0815,,24/7,Carrefour Market,Q2689639
+253,carrefour_tw,汐止福德一店,221 新北市汐止區福德一路256號,新北市,,,TW,02-8693-2839、02-8693-2840,,24/7,Carrefour Market,Q2689639
+254,carrefour_tw,汐止樟樹一店,221 新北市汐止區樟樹一路176號1樓及174號地下室,新北市,,,TW,02-2643-3749、02-2643-3841,,Mo-We 07:00-24:00; Fr-Su 07:00-24:00,Carrefour Market,Q2689639
+255,carrefour_tw,竹北中正東店,302 新竹縣竹北市中正東路71號,新竹縣,,,TW,+886 3 553 2329#30,,24/7,Carrefour Market,Q2689639
+Taipei,deloitte,Taipei,,,,,TW,+886 2 2725 9988,https://www2.deloitte.com/tw/en/footerlinks/office-locator.html,,Deloitte,Q491748
+Hsinchu,deloitte,Hsinchu,,,,,TW,+886 3 578 0899,https://www2.deloitte.com/tw/en/footerlinks/office-locator.html,,Deloitte,Q491748
+Taichung,deloitte,Taichung,,,,,TW,+886 4 3705 9988,https://www2.deloitte.com/tw/en/footerlinks/office-locator.html,,Deloitte,Q491748
+Tainan,deloitte,Tainan,,,,,TW,+886 6 213 9988,https://www2.deloitte.com/tw/en/footerlinks/office-locator.html,,Deloitte,Q491748
+Kaohsiung,deloitte,Kaohsiung,,,,,TW,+886 7 530 1888,https://www2.deloitte.com/tw/en/footerlinks/office-locator.html,,Deloitte,Q491748
+21730,subway_tw,Song De Restaurant,"No.28, Songde Rd., Xinyi Dist., Taipei City 110, Taiwan",,,,TW,+886 2 8780 8380,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+25623,subway_tw,NTU Restaurant,"1F., No.85, Sec. 4, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan",,,,TW,+886 2 3365 2629,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+26739,subway_tw,NTNU Restaurant,"1F., No.230, Sec. 2, Jinshan S. Rd., Da’an Dist., Taipei City 106, Taiwan",,,,TW,+886 2 2322 1767,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+28187,subway_tw,Zhou Zi Food Hall Restaurant,"1F. (01011), No.517, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan",,,,TW,+886 2 8751 6551,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71287,subway_tw,Donghu Restaurant,"No. 187, Sec. 3, Kangning Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.)",,,,TW,+886 2 2630 5189,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+32579,subway_tw,Min Quan Long Jiang Restaurant,"1F., No.15, Sec. 3, Minquan E. Rd., Zhongshan Dist., Taipei City 104, Taiwan",,,,TW,+886 2 2515 7231,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+32580,subway_tw,Taipower Building Restaurant,"1F., No.241, Sec. 3, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan",,,,TW,+886 2 3365 3359,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+33814,subway_tw,Yong He Yong An Restaurant,"No.413, Zhonghe Rd., Yonghe Dist., New Taipei City 234, Taiwan",,,,TW,+886 2 2928 1007,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71013,subway_tw,Xinzhuang Xingfu Restaurant,"No. 620, Xingfu Rd., Xinzhuang Dist., New Taipei City 242022, Taiwan (R.O.C.)",,,,TW,+886 2 2992 9012,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70866,subway_tw,Shulin Zhongshan Restaurant,"No. 88, Sec. 1, Zhongshan Rd., Shulin Dist., New Taipei City 238, Taiwan (R.O.C.)",,,,TW,+886 2 2685 1031,https://subway.com.tw/en/include/index.php?pageNum_content01=0&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68274,subway_tw,Tucheng Zhongyang Restaurant,"No. 191, Sec. 2, Zhongyang Rd., Tucheng Dist., New Taipei City 236, Taiwan (R.O.C.)",,,,TW,+886 2 2270 8958,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+34100,subway_tw,Dun Hua He Ping Restaurant,"No.150, Sec. 2, Dunhua S. Rd., Da’an Dist., Taipei City 106, Taiwan",,,,TW,+886 2 2709 2008,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+72299,subway_tw,Xinzhuang Minan Restaurant,"1F., No. 139, Minan Rd., Xinzhuang Dist., New Taipei City",,,,TW,+886 2 2206 8062,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+34691,subway_tw,Rui Guang Restaurant,"1F., No.277, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan",,,,TW,+886 2 2657 9298,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+36667,subway_tw,Da An Park Restaurant,"1F., No.27, Sec. 3, Xinyi Rd., Da’an Dist., Taipei City 106, Taiwan",,,,TW,+886 2 2704 9318,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+41299,subway_tw,Da Ping Lin Restaurant,"No.23, Minquan Rd., Xindian Dist., New Taipei City 231, Taiwan",,,,TW,+886 2 2910 3228,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+41591,subway_tw,Zhong Shan De Hui Restaurant,"No.49, Sec. 3, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan",,,,TW,+886 2 2598 6678,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+41782,subway_tw,Xin Bei Tou Restaurant,"1F., No.41, Zhonghe St., Beitou Dist., Taipei City 112, Taiwan",,,,TW,+886 2 2898 1536,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+42313,subway_tw,Qi Zhang Restaurant,新北市新店區北新路二段156號,,,,TW,+886 2 2918 8004,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71555,subway_tw,Guandu Ligong,"No. 17, Ligong St., Beitou Dist., Taipei City 112019, Taiwan (R.O.C.)",,,,TW,+886 2 2895 9292,https://subway.com.tw/en/include/index.php?pageNum_content01=1&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+42689,subway_tw,Xiao Nan Men Restaurant,"1F., No.165, Yanping S. Rd., Zhongzheng Dist., Taipei City 100, Taiwan",,,,TW,+886 2 2311 4819,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+43247,subway_tw,Daan MRT Restaurant,"No.5, Ln. 30, Sec. 4, Xinyi Rd., Da’an Dist., Taipei City 106, Taiwan",,,,TW,+886 2 2703 5869,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+43487,subway_tw,Banqiao Xin Pu Restaurant,"1F., No.318, Sec. 1, Wenhua Rd., Banqiao Dist., New Taipei City 220, Taiwan",,,,TW,+886 2 2256 9693,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70862,subway_tw,板橋埔墘餐廳,新北市板橋區中山路二段162號,,,,TW,+886 2 2951 2162,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+43849,subway_tw,Ji Nan Xing Sheng Restaurant,"1F., No.58-2, Sec. 2, Jinan Rd., Zhongzheng Dist., Taipei City 100, Taiwan",,,,TW,+886 2 2327 9318,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+43983,subway_tw,Wan Fang Restaurant,"49, Sec. 3, Xinglong Rd., Wenshan Dist., Taipei City 116, Taiwan",,,,TW,+886 2 2932 8743,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+46505,subway_tw,Q Square Restaurant,"B2F., No.1, Sec. 1, Chengde Rd., Datong Dist., Taipei City 103, Taiwan",,,,TW,+886 2 2558 2938,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+46863,subway_tw,Taipei Medical University Restaurant,"1F., No.19, Ln. 220, Wuxing St., Xinyi Dist., Taipei City 110, Taiwan",,,,TW,+886 2 2733 6605,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+47281,subway_tw,Xindian District Office Station Restaurant,新北市新店區北新路一段337號一樓,,,,TW,+886 2 2234 1290,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+49194,subway_tw,Sanxia NTPU Restaurant,"No.84, Guoxue St., Sanxia Dist., New Taipei City 237, Taiwan",,,,TW,+886 2 8672 3327,https://subway.com.tw/en/include/index.php?pageNum_content01=2&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+49865,subway_tw,SongShan Airport Restaurant,"No.340-9, Dunhua N. Rd., Songshan Dist., Taipei City 105, Taiwan",,,,TW,+886 2 2547 1031,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+49868,subway_tw,Tamsui MRT Restaurant,"No.45, Zhongzheng E. Rd., Tamsui Dist., New Taipei City 251, Taiwan",,,,TW,+886 2 2622 9352,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71761,subway_tw,淡水淡大餐廳,新北市淡水區北新路182巷80號,,,,TW,+886 2 2626 1099,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+50028,subway_tw,Tamsui Fisherman's Wharf Restaurant,"2F., No.210, Guanhai Rd., Tamsui Dist., New Taipei City 251, Taiwan",,,,TW,+886 2 2805 5102,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+50563,subway_tw,Chang An Song Jiang Restaurant,"1F., No.92, Sec. 2, Chang’an E. Rd., Zhongshan Dist., Taipei City 104, Taiwan",,,,TW,+886 2 2517 7667,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+51523,subway_tw,Formosa Plastics Min Sheng Restaurant,"1F., No.7, Ln. 80, Sec. 4, Minsheng E. Rd., Songshan Dist., Taipei City 105, Taiwan",,,,TW,+886 2 2715 0076,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+52741,subway_tw,Fu Xing He Ping Restaurant,"1F., No.203, Sec. 2, Heping E. Rd., Da’an Dist., Taipei City 106, Taiwan",,,,TW,+886 2 2705 4132,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+66982,subway_tw,師大和平餐廳,台北市大安區和平東路一段129號,,,,TW,+886 2 2321 0081,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+52742,subway_tw,Chong Qing Heng Yang Restaurant,"1F., No.23, Hengyang Rd., Zhongzheng Dist., Taipei City 100, Taiwan",,,,TW,+886 2 2311 7907,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+54199,subway_tw,Nanjing Sanmin Restaurant,"1F., No.60, Ln. 245, Sec. 4, Bade Rd., Songshan Dist., Taipei City 105, Taiwan",,,,TW,+886 2 3765 5726,https://subway.com.tw/en/include/index.php?pageNum_content01=3&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+54686,subway_tw,ShiLin MRT Restaurant,"1F., No.62, Meide St., Shilin Dist., Taipei City 111, Taiwan",,,,TW,+886 2 2836 3818,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68627,subway_tw,Jiantan TPAC Restaurant,"No. 12, Jiantan Rd., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)",,,,TW,+886 2 2883 3553,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+55355,subway_tw,Tianmu East Rd. Restaurant,"1F., No.33, Tianmu E. Rd., Shilin Dist., Taipei City 111, Taiwan",,,,TW,+886 2 2876 0566,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+72335,subway_tw,天母中山餐廳,台北市士林區中山北路六段732號,,,,TW,+886 2 2876 2785,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+56897,subway_tw,Dazhi Restaurant,"1F., No.48, Dazhi St., Zhongshan Dist., Taipei City 104, Taiwan",,,,TW,+886 2 2532 2001,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+57194,subway_tw,Chang Gung Memorial Hospital Linkou Restaurant,Chang Gung Memorial Hospital Linkou Restaurant,,,,TW,+886 3 328 1200#3133,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+72077,subway_tw,Pingzhen Zhongfeng,"No. 126, Sec. Shanding, Zhongfeng Rd., Pingzhen Dist., Taoyuan City 324, Taiwan (R.O.C.)",,,,TW,+886 3 469 3020,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+72852,subway_tw,Guishan Wenqing restaurant,"No. 163, Wenqing Rd., Guishan Dist., Taoyuan City",,,,TW,+886 3 328 1878,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+57939,subway_tw,Yuanhua Restaurant,"No.152, Cihui 1st St., Zhongli Dist., Taoyuan City 320, Taiwan",,,,TW,+886 3 425 5399,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+52817,subway_tw,Nanjing Jilin restaurant,"(No. 62, Section 2, Nanjing East Road, Zhongshan District Taipei City, Taiwan)",,,,TW,+886 2 2543 5098,https://subway.com.tw/en/include/index.php?pageNum_content01=4&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+63688,subway_tw,Songjiang Nanjing Restaurant,"1F., No.151, Sec. 2, Nanjing E. Rd., Zhongshan Dist., Taipei City 104, Taiwan",,,,TW,+886 2 2503 2466,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70616,subway_tw,NanJing FuXing Restaurant,"No. 195, Section 3, Nanjing East Road, Zhongshan District, Taipei City",,,,TW,+886 2 2546 0598,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+64453,subway_tw,Chengde Yuanshan Restaurant,"1F., No.263, Sec. 3, Chengde Rd., Datong Dist., Taipei City 103, Taiwan",,,,TW,+886 2 2592 2229,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70336,subway_tw,Zhongli Zhongyuan Restaurant,"No. 131, Zhongbei Rd., Zhongli Dist., Taoyuan City 320, Taiwan",,,,TW,+886 3 465 1399,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+66536,subway_tw,Taoyuan City Government Restaurant,"No.482, Zhongshan Rd., Taoyuan Dist., Taoyuan City 330, Taiwan",,,,TW,+886 3 336 6650,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+56383,subway_tw,Taoyuan International Airport Restaurant,Taoyuan International Airport Restaurant,,,,TW,+886 3 398 3659,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+67526,subway_tw,桃園藝文餐廳,桃園市桃園區同德五街2號,,,,TW,+886 3 317 8686,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71437,subway_tw,龍潭中科院餐廳,"No.481, Jia’an Sec., Jhongjheng Rd., Longtan Dist., Taoyuan City 325, Taiwan (R.O.C.)",,,,TW,+886 3 411 1282,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+66828,subway_tw,Yonghe Dingxi Restaurant,"1F., No.139, Sec. 2, Yonghe Rd., Yonghe Dist., New Taipei City 234, Taiwan",,,,TW,+886 2 2924 2909,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+73262,subway_tw,Taoyuan Guoji Restaurant,"No. 991, Ciwen Rd., Taoyuan Dist., Taoyuan City",,,,TW,+886 3 369 6638,https://subway.com.tw/en/include/index.php?pageNum_content01=5&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+67274,subway_tw,Taipei City Hospital Zhongxiao Restaurant,"1F., No.79, Tongde Rd., Nangang Dist., Taipei City 115, Taiwan",,,,TW,+886 2 2785 5611,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68185,subway_tw,Sanchong Zhengyi Restaurant,"No.236, Zhengyi N. Rd., Sanchong Dist., New Taipei City 241, Taiwan",,,,TW,+886 2 2981 6212,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68277,subway_tw,RT-Mart Nei Hu Restaurant,"1F., No.188, Sec. 1, Jiuzong Rd., Neihu Dist., Taipei City 114, Taiwan",,,,TW,+886 2 8791 0206,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70879,subway_tw,內湖站餐廳,台北市內湖區成功路四段155號,,,,TW,+886 2 8792 8226,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68406,subway_tw,Linkou Renai Restaurant,"1F., No.259, Sec. 2, Ren’ai Rd., Linkou Dist., New Taipei City 244, Taiwan",,,,TW,+886 2 2600 9022,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+52636,subway_tw,Hualian Jianzhong Restaurant,"No.68, Jianzhong St., Hualien City, Hualien County 970, Taiwan",,,,TW,+886 3 831 5878,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68696,subway_tw,Yilan Zhongshan Restaurant,"No.516-1, Sec. 2, Zhongshan Rd., Yilan City, Yilan County 260, Taiwan",,,,TW,+886 3 936 5958,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70031,subway_tw,Songshan Station Restaurant,"B1F., No. 11, Songshan Rd., Xinyi Dist., Taipei City 110, Taiwan",,,,TW,+886 2 2753 0258,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+69252,subway_tw,Nangang Station Restaurant,"RoomB02011F., No. 369, Sec. 7, Zhongxiao E. Rd., Nangang Dist., Taipei City 115, Taiwan",,,,TW,+886 2 2651 4661,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70936,subway_tw,Zhongqing Tianjin Restaurant,"No. 595, Sec. 1, Zhongqing Rd., North Dist., Taichung City 404, Taiwan (R.O.C.)",,,,TW,+886 4 2299 4995,https://subway.com.tw/en/include/index.php?pageNum_content01=6&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70769,subway_tw,Taichung Station Restaurant,"No. 1 (F3), Sec. 1, Taiwan Blvd., Central Dist., Taichung City 400, Taiwan (R.O.C.)",,,,TW,+886 4 3509 7360,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70878,subway_tw,基隆仁愛餐廳,基隆市仁愛區愛二路39號,,,,TW,+886 2 2426 8008,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+21033,subway_tw,Zhonggang Restaurant,"1F., No. 767, Taiwan Boulevard Setcion 4, Xitun District, Taichung",,,,TW,+886 4 2358 8714,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+72424,subway_tw,Nangang Exhibition Center,"No. 1, Jingmao 2nd Rd., Nangang Dist., Taipei City, Taiwan",,,,TW,+886 2 2651 1118,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+23032,subway_tw,Jianxin Restaurant,"No.22, Jianxin Rd., East Dist., Hsinchu City 300, Taiwan",,,,TW,+886 3 572 3828,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+37127,subway_tw,Fengjia Restaurant,"No.258-27, Sec. 2, Xitun Rd., Xitun Dist., Taichung City 40749, Taiwan",,,,TW,+886 4 2451 4699,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+22543,subway_tw,Meicun Restaurant,"1F., No.190, Sec. 1, Meicun Rd., West Dist., Taichung City 40351, Taiwan",,,,TW,+886 4 2301 2719,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+40536,subway_tw,Sanmin Restaurant,"No.119, Sec. 3, Sanmin Rd., North Dist., Taichung City 40446, Taiwan",,,,TW,+886 4 2225 6990,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70736,subway_tw,Chien Hsin Bachelor Restaurant,"1F., No.406, Jianxing Rd., North Dist., Taichung City 40459, Taiwan",,,,TW,+886 4 2235 7680,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+47283,subway_tw,Gongxue Fuxing Restaurant,"Sec. 2, Fusing Rd., South Dist., Taichung City 402, Taiwan",,,,TW,+886 4 2260 1550,https://subway.com.tw/en/include/index.php?pageNum_content01=7&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+49986,subway_tw,Zhanghua Zhonghua Restaurant,"1F., No.65, Zhonghua Rd., Changhua City, Changhua County 50046, Taiwan",,,,TW,+886 4 729 6966,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+55515,subway_tw,Wenxin Chongde Restaurant,"1F., No.692-1, Sec. 4, Wenxin Rd., Beitun Dist., Taichung City 40651, Taiwan",,,,TW,+886 4 2236 5155,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+56053,subway_tw,Chung Hsing University Restaurant,"No. 145, Xingda Road, South District, Taichung City, Taiwan",,,,TW,+886 4 2285 6803,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71697,subway_tw,Shalu Shatian Restaurant,"No. 94, Shatian Road, Shalu District, Taichung City 433, Taiwan (R.O.C.)",,,,TW,+886 4 2636 5366,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+59262,subway_tw,Hsinchu Dongmen Restaurant,"1F., No.46, Dongmen St., East Dist., Hsinchu City 300, Taiwan",,,,TW,+886 3 526 2981,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70723,subway_tw,Taichung TungHai Restaurant,"No. 12, Xinxing Road, Longjing District, Taichung City",,,,TW,+886 4 2652 0198,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+69754,subway_tw,Hsinchu Train Station Restaurant,"No.19, Linsen Rd., East Dist., Hsinchu City, Taiwan",,,,TW,+886 3 526 9911,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+62492,subway_tw,Feng Yuan Station Restaurant,"No.27, Zhongzheng Rd., Fengyuan Dist., Taichung City 42056, Taiwan",,,,TW,+886 4 2528 8159,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+65738,subway_tw,Taichung HSR Station Restaurant,"No.8, Zhanqu 2nd Rd., Wuri Dist., Taichung City, 41456, Taiwan",,,,TW,+886 4 3601 8199,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+67354,subway_tw,Zhubei Guang Ming Restaurant,"Room 104 & 105, No.89, Guangming 6th Rd., Zhubei City, Hsinchu County 302, Taiwan",,,,TW,+886 3 558 5352,https://subway.com.tw/en/include/index.php?pageNum_content01=8&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+67574,subway_tw,Huiwen Henan Restaurant,"1-2F., No.440, Sec. 4, Henan Rd., Nantun Dist., Taichung City 408, Taiwan",,,,TW,+886 4 2251 2275,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+23993,subway_tw,竹北享平方餐廳,"No. 36, Ziqiang S. Rd., Zhubei City, Hsinchu County 30264, Taiwan (R.O.C.)",,,,TW,+886 3 658 5927,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+67581,subway_tw,Zhubei Taiyuen Hi-Tech Industrial Park Restaurant,"No.1, Taiyuan 1st St., Zhubei City, Hsinchu County 302, Taiwan",,,,TW,+886 3 560 1186,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68096,subway_tw,Taichung Dali Restaurant,"No. 163, Sec. 1, Zhongxing Rd Dali District Taichung City 412, Taiwan",,,,TW,+886 4 2496 9526,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+69291,subway_tw,竹北台元一店,新竹縣竹北市台元街26號一樓之6 (台元科技園區一期),,,,TW,+886 3 552 6599,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+69551,subway_tw,Hsinchu HSR Station Restaurant,"No.6, Gaotie 7th Rd., Zhubei City, Hsinchu County 302, Taiwan",,,,TW,+886 3 668 3350,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70424,subway_tw,Hsinchu NCTU Restaurant,"No.1001, University Road, Hsinchu 300, Taiwan",,,,TW,+886 3 572 8798,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+69890,subway_tw,Lihpao Resort Restaurant,"No. 8, Furong Road, Houli District, Taichung City, 421, Taiwan",,,,TW,+886 4 2558 6088#3218,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68939,subway_tw,Kaohsiung Gangshan Restaurant,"No. 53, Minyou Rd., Gangshan Dist., Kaohsiung City 820, Taiwan (R.O.C.)",,,,TW,+886 7 621 2538,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+35119,subway_tw,Kaohsiung Bo Ai Restaurant,"No. 364, Bo'ai 2nd Road, Zuoying District, Kaohsiung City, 813, Taiwan",,,,TW,+886 7 556 6501,https://subway.com.tw/en/include/index.php?pageNum_content01=9&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71448,subway_tw,Toufen Xindong,"No. 73, Sec. 2, Xindong Rd., Toufen City, Miaoli County 351, Taiwan (R.O.C.)",,,,TW,+886 3 767 6073,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+66055,subway_tw,SKM PARK,"No. 1-1, Zhongan Rd., Qianzhen Dist., Kaohsiung City 806, Taiwan (R.O.C.)",,,,TW,+886 7 793 2758,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+41647,subway_tw,Kaohsiung FitnessFactory Restaurant,"No. 98, Bo'ai 3rd. Road, Zuoying District, Kaohsiung City, 813, Taiwan",,,,TW,+886 7 341 7977,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+67783,subway_tw,高雄中正餐廳,"No. 45, Zhongzheng 3rd Rd., Xinxing Dist., Kaohsiung City 800, Taiwan (R.O.C.)",,,,TW,+886 7 223 2670,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+44994,subway_tw,Kaohsiung Ai He Restaurant,"No. 148, Wufu 3rd Road, Qianjin District, Kaohsiung City, 801, Taiwan",,,,TW,+886 7 282 0800,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+46146,subway_tw,Kaohsiung NKNU Restaurant,"No.116, Heping 1st Rd., Xinxing Dist., Kaohsiung City 800, Taiwan",,,,TW,+886 7 727 9881,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70366,subway_tw,Kaohsiung Sanduo Restaurant,"No. 306, Sanduo 2nd Rd., Linya Dist., Kaohsiung City, Taiwan (R.O.C.)",,,,TW,+886 7 536 6979,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+46699,subway_tw,Kaohsiung Station Restaurant,"No. 42, Jianguo 3rd Road, Sanmin District, Kaohsiung City, 807, Taiwan",,,,TW,+886 7 285 0088,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+46845,subway_tw,Jiayi Station Restaurant,"No. 505, Zhongshan Rd., West Dist., Chiayi City 60041, Taiwan (R.O.C)",,,,TW,+886 5 222 7988,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+47083,subway_tw,Kaohsiung Fengshan Qingnian Restaurant,"No.381, Sec. 2, Qingnian Rd., Fengshan Dist., Kaohsiung City 830, Taiwan",,,,TW,+886 7 777 5858,https://subway.com.tw/en/include/index.php?pageNum_content01=10&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68845,subway_tw,Kaohsiung Fengshan Guangyuan Restaurant,"1F & 2F, No.297, Guangyuan Rd., Fengshan Dist., Kaohsiung City 830, Taiwan (R.O.C.)",,,,TW,+886 7 710 9392,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+47451,subway_tw,Tainan Min Zu Restaurant,"No.73, Sec. 2, Minzu Rd., West Central Dist., Tainan City 700, Taiwan",,,,TW,+886 6 228 0312,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70489,subway_tw,Kaohsiung Tongmeng Restaurant,"No. 632, Tongmeng 3rd Rd., Sanmin Dist., Kaohsiung City, Taiwan (R.O.C.)",,,,TW,+886 7 311 0159,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70256,subway_tw,Kaohsiung Ｍingcheng Restaurant,"1F, No.72, Mingcheng 2nd Rd., Sanmin Dist., Kaohsiung, Taiwan",,,,TW,+886 7 345 6565,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71672,subway_tw,台南西門餐廳,"No. 731, Sec. 1, Ximen Rd., West Central Dist., Tainan City 700, Taiwan (R.O.C.)",,,,TW,+886 6 222 3113,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+49239,subway_tw,Tainan Anping Restaurant,"No.162, Guoping Rd., Anping Dist., Tainan City 708, Taiwan",,,,TW,+886 6 299 2280,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71889,subway_tw,Tainan Jiankang Restaurant,"No. 102, Sec. 1, Jiankang Rd., West Central Dist., Tainan City 700",,,,TW,+886 6 215 0086,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+47930,subway_tw,Kaohsiung Jian Nan Restaurant,"No.89, Jiannan Rd., Nanzi Dist., Kaohsiung City 811, Taiwan",,,,TW,+886 7 353 5531,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+72159,subway_tw,Kaohsiung Tianxiang Restaurant,"No. 185, Tianxiang 1st Rd., Sanmin Dist., Kaohsiung City 807",,,,TW,+886 7 310 5139,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+48322,subway_tw,Tainan Chengda,"No. 117, Shengli Road, East District, Tainan City, 701, Taiwan",,,,TW,+886 6 275 9122,https://subway.com.tw/en/include/index.php?pageNum_content01=11&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+50917,subway_tw,Tainan Zhi Wen Restaurant,"Just Win Hotel, 1F #56-20 JhongJheng N Road, Yongkang, 71702, Taiwan",,,,TW,+886 6 243 7979,https://subway.com.tw/en/include/index.php?pageNum_content01=12&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71382,subway_tw,Tainan Yongkang Zhonghua Restaurant,"1F, No. 237 & 239, Zhonghua Rd., Yongkang Dist., Tainan City 710044, Taiwan (R.O.C.)",,,,TW,+886 6 311 5559,https://subway.com.tw/en/include/index.php?pageNum_content01=12&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+52519,subway_tw,Pingtung Minsheng Restaurant,"No.325, Minsheng Rd., Pingtung City, Pingtung County 900, Taiwan",,,,TW,+886 8 733 2888,https://subway.com.tw/en/include/index.php?pageNum_content01=12&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+54505,subway_tw,Kaohsiung Nanzih Export Processing Zone Restaurant,"No. 8, Cuiping Road, Nanzi District, Kaohsiung City, 811, Taiwan",,,,TW,+886 7 364 2929,https://subway.com.tw/en/include/index.php?pageNum_content01=12&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+67391,subway_tw,Tainan Dong Ning Restaurant,"1&2F, No. 254 Dongning Road, East District, Tainan City, Taiwan",,,,TW,+886 6 209 7290,https://subway.com.tw/en/include/index.php?pageNum_content01=12&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+68958,subway_tw,Zuoying HSR Station Restaurant,"2F., No.107, Gaotie Rd., Zuoying Dist., Kaohsiung City 813, Taiwan",,,,TW,+886 7 960 9139,https://subway.com.tw/en/include/index.php?pageNum_content01=12&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+70853,subway_tw,Tainan Kaiyuan restaurant,"No.457, Kaiyuan Rd., North Dist., Tainan City",,,,TW,+886 6 235 8282,https://subway.com.tw/en/include/index.php?pageNum_content01=12&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+71791,subway_tw,Penghu Magong Restaurant,"No. 27, Minquan Rd., Magong City, Penghu County",,,,TW,+886 6 926 8586,https://subway.com.tw/en/include/index.php?pageNum_content01=12&totalRows_content01=128&Cate01=&Cate02=&Cate03=,,Subway,Q244457
+10000,timberland,Timberland - Taichung,,Taichung,,,TW,+886 4 2227 7931,,,Timberland,Q1539185
+10020,timberland,Timberland - Tainan,,Tainan,,,TW,+886 6 229 5639,,,Timberland,Q1539185
+10040,timberland,Timberland - Tainan,,Tainan,,,TW,+886 6 303 0109,,,Timberland,Q1539185
+10060,timberland,Timberland - Taipei,,Taipei,,,TW,+886 2 2711 1089,,,Timberland,Q1539185
+10080,timberland,Timberland - Taipei,,Taipei,,,TW,+886 2 2331 0574,,,Timberland,Q1539185
+10100,timberland,Timberland - Taipei,,Taipei,,,TW,+886 968 483 255,,,Timberland,Q1539185
+10120,timberland,Timberland - Taipei,,Taipei,,,TW,+886 2 2831 8543,,,Timberland,Q1539185
+10140,timberland,Timberland - Taipei,,Taipei,,,TW,+886 2 2731 8639,,,Timberland,Q1539185
+10160,timberland,Timberland - Taipei,,Taipei,,,TW,+886 2 3762 1297,,,Timberland,Q1539185
+10180,timberland,Timberland - Taipei,,Taipei,,,TW,+886 2 2345 2859,,,Timberland,Q1539185
+10200,timberland,Timberland - Taipei,,Taipei,,,TW,+886 2 2773 5600,,,Timberland,Q1539185
+10220,timberland,Timberland - Taipei,,Taipei,,,TW,+886 2 8789 8138,,,Timberland,Q1539185
+10240,timberland,Timberland - Tao Yuan,,Tao Yuan,,,TW,+886 3 339 4561,,,Timberland,Q1539185
+10260,timberland,Timberland - Taoyuan,,Taoyuan,,,TW,+886 3 339 4561,,,Timberland,Q1539185
+9880,timberland,Timberland - Chung Li City,,"Chung Li City, Taoyuan",,,TW,+886 3 426 2593,,,Timberland,Q1539185
+9900,timberland,Timberland - Hsin Zu,,Hsin Zu,,,TW,+886 3 526 3096,,,Timberland,Q1539185
+9920,timberland,Timberland - Kaohsiung,,Kaohsiung,,,TW,+886 7 215 9862,,,Timberland,Q1539185
+9940,timberland,Timberland - Kaohsiung,,Kaohsiung,,,TW,+886 7 335 8742,,,Timberland,Q1539185
+9960,timberland,Timberland - Taichung,,Taichung,,,TW,+886 4 2258 0261,,,Timberland,Q1539185
+9980,timberland,Timberland - Taichung,,Taichung,,,TW,+886 4 2328 0212,,,Timberland,Q1539185
+,visa,,,SANCHUNG,,,TW,,,,,
+,visa,,,SANCHUNG,,,TW,,,,,
+,visa,,,SANCHUNG,,,TW,,,,,
+,visa,,,SUNCHUNG,,,TW,,,,,
+,visa,,,NORTH DISTRICT,,,TW,,,,,
+,visa,,,ANPING DISTRICT,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAINAN,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,CHANGHUA,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,QIAOTOU DISTRICT,,,TW,,,,,
+,visa,,,GANGSHAN DISTRICT,,,TW,,,,,
+,visa,,,CHIAYI,,,TW,,,,,
+,visa,,,CHIAYI,,,TW,,,,,
+,visa,,,NANZI DISTRICT,,,TW,,,,,
+,visa,,,QIANZHEN DISTRICT,,,TW,,,,,
+,visa,,,NANTUN DISTRICT,,,TW,,,,,
+,visa,,,NIAOSONG DISTRIC,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,CHICHIN DISTRICT,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,KUSHAN DISTRICT,,,TW,,,,,
+,visa,,,NANTZE DISTRICT,,,TW,,,,,
+,visa,,,BEITUN DISTRICT,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,NANZI DISTRICT,,,TW,,,,,
+,visa,,,NANTZE DISTRICT,,,TW,,,,,
+,visa,,,SANMIN DISTRICT,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,DALIAO DISTRICT,,,TW,,,,,
+,visa,,,SANMIN DISTRICT,,,TW,,,,,
+,visa,,,TAICHUNG,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,XINXING DISTRICT,,,TW,,,,,
+,visa,,,LINGYA DISTRICT,,,TW,,,,,
+,visa,,,NANZI DISTRICT,,,TW,,,,,
+,visa,,,ZUOYING DISTRICT,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KTTOHSIUNG,,,TW,,,,,
+,visa,,,XINXING DISTRICT,,,TW,,,,,
+,visa,,,HSINHSING DISTRICT,,,TW,,,,,
+,visa,,,XINXING DISTRICT,,,TW,,,,,
+,visa,,,DALI DISTRICT,,,TW,,,,,
+,visa,,,LINGYA DISTRICT,,,TW,,,,,
+,visa,,,LINGYA DISTRICT,,,TW,,,,,
+,visa,,,CIANJIN DISTRICT,,,TW,,,,,
+,visa,,,CIANJIN DISTRICT,,,TW,,,,,
+,visa,,,CHIENCHIN DISTRICT,,,TW,,,,,
+,visa,,,KSOHSIUNG,,,TW,,,,,
+,visa,,,QIANZHEN DISTRICT,,,TW,,,,,
+,visa,,,LINGYA DISTRICT,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,SANMIN DISTRICT,,,TW,,,,,
+,visa,,,SANMIN DISTRICT,,,TW,,,,,
+,visa,,,XINXING DISTRICT,,,TW,,,,,
+,visa,,,LINGYA DISTRICT,,,TW,,,,,
+,visa,,,LINGYA DISTRICT,,,TW,,,,,
+,visa,,,LINGYA DISTRICT,,,TW,,,,,
+,visa,,,KOSHSIUNG,,,TW,,,,,
+,visa,,,KAOHSIUNG,,,TW,,,,,
+,visa,,,QIANZHEN DISTRICT,,,TW,,,,,
+,visa,,,SANMIN DISTRICT,,,TW,,,,,
+,visa,,,QIANZHEN DISTRICT,,,TW,,,,,
+,visa,,,HSENTIN,,,TW,,,,,
+,visa,,,QIANZHEN DISTRICT,,,TW,,,,,
+,visa,,,SANMIN DISTRICT,,,TW,,,,,
+,visa,,,FENGSHAN DISTRICT,,,TW,,,,,
+,visa,,,FENGSHAN DISTRICT,,,TW,,,,,
+,visa,,,FENGSHAN DISTRICT,,,TW,,,,,
+,visa,,,XIAOGANG DISTRICT,,,TW,,,,,
+,visa,,,XIAOGANG DISTRICT,,,TW,,,,,
+,visa,,,FENGSHAN DISTRICT,,,TW,,,,,
+,visa,,,HSIAOKANG DISTRICT,,,TW,,,,,
+,visa,,,XIAOGANG DISTRICT,,,TW,,,,,
+,visa,,,CHUNGLI,,,TW,,,,,
+,visa,,,CHUNG LI,,,TW,,,,,
+,visa,,,CHUNGLL,,,TW,,,,,
+,visa,,,CHUNGLI,,,TW,,,,,
+,visa,,,CHUNG LI,,,TW,,,,,
+,visa,,,NORTH DISTRICT,,,TW,,,,,
+,visa,,,CHUGO,,,TW,,,,,
+,visa,,,HSINCHU,,,TW,,,,,
+,visa,,,HSINCHUANG,,,TW,,,,,
+,visa,,,HSINCHUANG,,,TW,,,,,
+,visa,,,HSINCHUANG,,,TW,,,,,
+,visa,,,HSINCHUANG,,,TW,,,,,
+,visa,,,HSINCHUANG,,,TW,,,,,
+,visa,,,HSINCHUANG,,,TW,,,,,
+,visa,,,HSINCHUANG,,,TW,,,,,
+,visa,,,PINGTUNG,,,TW,,,,,
+,visa,,,TAO YUAN,,,TW,,,,,
+,visa,,,TAOYUAN DISTRICT,,,TW,,,,,
+,visa,,,CHUNGSANG DISTRICT,,,TW,,,,,
+,visa,,,PINGZHEN DISTRICT,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAIWAN,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAOYUAN DISTRICT,,,TW,,,,,
+,visa,,,TAOYUAN,,,TW,,,,,
+,visa,,,TAO YUAN,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,BANCIAO DISTRICT,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,ZHONGHE DISTRICT,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,CHUNGCHENG DISTRICT,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,YUNHO,,,TW,,,,,
+,visa,,,YUNHO,,,TW,,,,,
+,visa,,,YUNHO,,,TW,,,,,
+,visa,,,YUNHO,,,TW,,,,,
+,visa,,,YUNHO,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,PANCHIAO,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,ZHONGSHAN DISTRICT,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI HSIEN,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TEIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI HSIEN,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,HSINTIEN,,,TW,,,,,
+,visa,,,HSINTIEN,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,HSINTEN,,,TW,,,,,
+,visa,,,PAMCHIAO,,,TW,,,,,
+,visa,,,CHUNLL,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,NCHIAO,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,HAINCHUANG,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,TAIPEI,,,TW,,,,,
+,visa,,,CHUGHO,,,TW,,,,,
+,visa,,,YUNBO,,,TW,,,,,

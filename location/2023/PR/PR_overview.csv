@@ -1,0 +1,789 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,1
+UNKNOWN,adidas,Barceloneta,1
+UNKNOWN,adidas,San Juan,1
+PR,advance_auto_parts_us,Humacao,1
+PR,advance_auto_parts_us,San Lorenzo,1
+PR,advance_auto_parts_us,Caguas,2
+PR,advance_auto_parts_us,Ponce,2
+PR,advance_auto_parts_us,Manati,1
+PR,advance_auto_parts_us,Isabela,1
+PR,advance_auto_parts_us,Bayamón,1
+PR,advance_auto_parts_us,Carolina,3
+PR,advance_auto_parts_us,Cayey,1
+PR,advance_auto_parts_us,Guaynabo,1
+PR,advance_auto_parts_us,Bayamon,2
+PR,advance_auto_parts_us,Hatillo,1
+PR,advance_auto_parts_us,Guayama,1
+PR,advance_auto_parts_us,Trujillo Alto,1
+PR,advance_auto_parts_us,Yauco,1
+PR,advance_auto_parts_us,Vega Baja,1
+PR,advance_auto_parts_us,Fajardo,1
+PR,advance_auto_parts_us,Mayaguez,1
+PR,advance_auto_parts_us,Dorado,1
+PR,advance_auto_parts_us,Corozal,1
+PR,advance_auto_parts_us,Río Grande,1
+PR,allied_universal,Guaynabo,2
+UNKNOWN,allied_universal,San Juan,1
+UNKNOWN,american_eagle_outfitters,San Juan,2
+UNKNOWN,american_eagle_outfitters,Ponce,1
+UNKNOWN,american_eagle_outfitters,Carolina,2
+UNKNOWN,american_eagle_outfitters,Caguas,1
+UNKNOWN,american_eagle_outfitters,Bayamon,1
+UNKNOWN,american_eagle_outfitters,Barceloneta,2
+UNKNOWN,amigo_pr,Guayama,1
+PR,amigo_pr,Juncos,1
+UNKNOWN,amigo_pr, Caguas,1
+UNKNOWN,amigo_pr,Levittown,1
+UNKNOWN,amigo_pr,Bayamón,1
+UNKNOWN,amigo_pr,Río Piedras,1
+UNKNOWN,amigo_pr,  Luquillo,1
+UNKNOWN,amigo_pr,Fajardo,1
+PUERTORICO,amigo_pr,Guaynabo,1
+PUERTORICO,amigo_pr,Bayamón,1
+UNKNOWN,amigo_pr,San Lorenzo,1
+CATANO,audi,San Juan,1
+UNKNOWN,autozone_us,Yauco,1
+UNKNOWN,autozone_us,Yabucoa,1
+UNKNOWN,autozone_us,Vega Baja,1
+UNKNOWN,autozone_us,Utuado,1
+UNKNOWN,autozone_us,Trujillo Alto,1
+UNKNOWN,autozone_us,Toa Baja,1
+UNKNOWN,autozone_us,Santa Isabel,1
+UNKNOWN,autozone_us,San Sebastian,1
+UNKNOWN,autozone_us,San Lorenzo,1
+UNKNOWN,autozone_us,San Juan,4
+UNKNOWN,autozone_us,San German,1
+UNKNOWN,autozone_us,Salinas,1
+UNKNOWN,autozone_us,Rio Grande,1
+UNKNOWN,autozone_us,Quebradillas,1
+UNKNOWN,autozone_us,Ponce,2
+UNKNOWN,autozone_us,Morovis,1
+UNKNOWN,autozone_us,Mayaguez,1
+UNKNOWN,autozone_us,Manati,1
+UNKNOWN,autozone_us,Luquillo,1
+UNKNOWN,autozone_us,Levittown,1
+UNKNOWN,autozone_us,Las Piedras,1
+UNKNOWN,autozone_us,Lares,1
+UNKNOWN,autozone_us,Juncos,1
+UNKNOWN,autozone_us,Juana Diaz,1
+UNKNOWN,autozone_us,Isabela,1
+UNKNOWN,autozone_us,Humacao,1
+UNKNOWN,autozone_us,Hatillo,1
+UNKNOWN,autozone_us,Gurabo,1
+UNKNOWN,autozone_us,Guaynabo,1
+UNKNOWN,autozone_us,Guayama,1
+UNKNOWN,autozone_us,Fajardo,1
+UNKNOWN,autozone_us,Cayey,1
+UNKNOWN,autozone_us,Carolina,3
+UNKNOWN,autozone_us,Canovanas,1
+UNKNOWN,autozone_us,Caguas,2
+UNKNOWN,autozone_us,Cabo Rojo,1
+UNKNOWN,autozone_us,Bayamon,3
+UNKNOWN,autozone_us,Barceloneta,1
+UNKNOWN,autozone_us,Arecibo,1
+UNKNOWN,autozone_us,Aibonito,1
+UNKNOWN,autozone_us,Aguadilla,1
+UNKNOWN,autozone_us,Aguada,1
+PR,averitt,International Trade CenterState Road #165 km 2.4Guaynabo,1
+NEARROOSEVELTRDSNAVALBASE,avis,Ceiba,1
+BARRIOMONTESANTO,avis,Vieques,1
+AVISEMI0291STLEVEL,avis,San Juan,1
+CAROLINA,avis,Carolina,1
+TERMINALBLDG,avis,Ponce,1
+RAFAELHERNANDEZAIRPORT,avis,Aguadilla,1
+ESQUINABARRANQUITA,avis,San Juan,1
+SANJUAN,avis,San Juan,1
+UNKNOWN,bassett_furniture,Carolina,1
+PR,batteriesplus,San Juan,1
+PR,batteriesplus,Ponce,1
+PR,batteriesplus,Mayaguez,1
+PR,batteriesplus,Hatillo,1
+PR,batteriesplus,Carolina,1
+PR,batteriesplus,Caguas,1
+PR,batteriesplus,Bayamon,1
+CATANO,bestbuy,San Juan,1
+TOABAJA,bestbuy,Bayamon,1
+PR,chuckecheese,Caguas,1
+PR,citi,Vega Baja,1
+PR,citi,Dorado,2
+PR,citi,Arecibo,2
+PR,citi,Bayamon,2
+PR,citi,San Juan,2
+PR,citi,Ponce,1
+PR,citi,Boqueron,1
+PR,claires,CAROLINA,1
+PR,claires,SAN JUAN,1
+PR,claires,PONCE,1
+PR,claires,CAGUAS,1
+PR,claires,GUAYNABO,1
+PR,claires,BAYAMON,1
+PR,claires,Hatillo,1
+PR,claires,MAYAGUEZ,1
+PR,claires,BARCELONETA,1
+PR,claires,AGUADILLA,1
+UNKNOWN,crocs_eu,Barceloneta,1
+UNKNOWN,crocs_eu,San Juan,1
+UNKNOWN,crocs_eu,Ponce,1
+BAYAMON,edible_arrangements,unknown,1
+GUAYNABO,edible_arrangements,unknown,1
+UNKNOWN,esprit,Hato Rey,1
+UNKNOWN,express,Carolina,1
+UNKNOWN,express,Ponce,1
+UNKNOWN,express,San Juan,1
+PR,finishline,San Juan,1
+UNKNOWN,ford,San Juan,7
+UNKNOWN,ford,Caguas,3
+UNKNOWN,ford,Vega Alta,3
+UNKNOWN,ford,St. Thomas,1
+UNKNOWN,ford,St. Croix,1
+UNKNOWN,ford,Luquillo,3
+UNKNOWN,ford,Arecibo,1
+UNKNOWN,ford,Mayagüez,2
+UNKNOWN,ford,Ponce,3
+UNKNOWN,ford,Toa Baja,1
+UNKNOWN,ford,Carolina,1
+UNKNOWN,ford,Mayaguez,1
+UNKNOWN,ford,Guaynabo,2
+UNKNOWN,ford,Bayamon,1
+UNKNOWN,ford,Bayamón,1
+UNKNOWN,ford,Hatillo.Arecibo,2
+PR,fossil,San Juan,1
+PR,fuddruckers,Caguas,1
+UNKNOWN,gulf_pr_us,Carolina,8
+UNKNOWN,gulf_pr_us,Rio Grande,3
+UNKNOWN,gulf_pr_us,Toa Baja,5
+UNKNOWN,gulf_pr_us,San Juan,41
+UNKNOWN,gulf_pr_us,Juncos,3
+UNKNOWN,gulf_pr_us,Arroyo,2
+UNKNOWN,gulf_pr_us,Bayamon,13
+UNKNOWN,gulf_pr_us,Barceloneta,1
+UNKNOWN,gulf_pr_us,Mercedita,8
+UNKNOWN,gulf_pr_us,Ponce,6
+UNKNOWN,gulf_pr_us,Moca,3
+UNKNOWN,gulf_pr_us,Caguas,6
+UNKNOWN,gulf_pr_us,Manati,5
+UNKNOWN,gulf_pr_us,Quebradillas,2
+UNKNOWN,gulf_pr_us,Morovis,3
+UNKNOWN,gulf_pr_us,Humacao,2
+UNKNOWN,gulf_pr_us,Vega Alta,3
+UNKNOWN,gulf_pr_us,San German,3
+UNKNOWN,gulf_pr_us,Trujillo Alto,4
+UNKNOWN,gulf_pr_us,Santa Isabel,3
+UNKNOWN,gulf_pr_us,Adjuntas,2
+UNKNOWN,gulf_pr_us,Las Piedras,2
+UNKNOWN,gulf_pr_us,Hatillo,2
+UNKNOWN,gulf_pr_us,Lares,5
+UNKNOWN,gulf_pr_us,Cayey,4
+UNKNOWN,gulf_pr_us,Guayama,4
+UNKNOWN,gulf_pr_us,San Sebastian,4
+UNKNOWN,gulf_pr_us,Mayaguez,4
+UNKNOWN,gulf_pr_us,Cabo Rojo,2
+UNKNOWN,gulf_pr_us,San Lorenzo,2
+UNKNOWN,gulf_pr_us,Ceiba,4
+UNKNOWN,gulf_pr_us,Toa Alta,4
+UNKNOWN,gulf_pr_us,Barranquitas,2
+UNKNOWN,gulf_pr_us,Arecibo,9
+UNKNOWN,gulf_pr_us,Aguadilla,6
+UNKNOWN,gulf_pr_us,Penuelas,2
+UNKNOWN,gulf_pr_us,Naguabo,2
+UNKNOWN,gulf_pr_us,Coamo,2
+UNKNOWN,gulf_pr_us,Isabela,6
+UNKNOWN,gulf_pr_us,Yauco,2
+UNKNOWN,gulf_pr_us,Catano,2
+UNKNOWN,gulf_pr_us,Villalba,1
+UNKNOWN,gulf_pr_us,Aguada,4
+UNKNOWN,gulf_pr_us,Salinas,3
+UNKNOWN,gulf_pr_us,Bajadero,1
+UNKNOWN,gulf_pr_us,Vega Baja,3
+UNKNOWN,gulf_pr_us,Patillas,2
+UNKNOWN,gulf_pr_us,Yabucoa,1
+UNKNOWN,gulf_pr_us,Aibonito,2
+UNKNOWN,gulf_pr_us,Comerio,2
+UNKNOWN,gulf_pr_us,Maunabo,2
+UNKNOWN,gulf_pr_us,Jayuya,1
+UNKNOWN,gulf_pr_us,Anasco,2
+UNKNOWN,gulf_pr_us,Rincon,3
+UNKNOWN,gulf_pr_us,Juana Diaz,3
+UNKNOWN,gulf_pr_us,Camuy,2
+UNKNOWN,gulf_pr_us,Florida,1
+UNKNOWN,gulf_pr_us,Naranjito,2
+UNKNOWN,gulf_pr_us,Boqueron,1
+UNKNOWN,gulf_pr_us,Lajas,1
+UNKNOWN,gulf_pr_us,Puerto Real,1
+UNKNOWN,gulf_pr_us,Fajardo,1
+UNKNOWN,gulf_pr_us,Orocovis,1
+UNKNOWN,gulf_pr_us,Loiza,1
+UNKNOWN,gulf_pr_us,Cidra,1
+UNKNOWN,hardrock,Ponce,1
+UNKNOWN,hilton,unknown,3
+PR,ihop,San Juan,1
+PR,ihop,Ponce,1
+PR,ihop,Carolina,1
+PR,ihop,Bayamon,1
+PR,ihop,Caguas,1
+PR,ihop,Barceloneta,1
+UNKNOWN,iron_mountain,Rio Grande,1
+UNKNOWN,iron_mountain,Catano,1
+UNKNOWN,iron_mountain,Carolina,2
+PR,lenscrafters,San Juan,2
+PR,lenscrafters,Ponce,2
+PR,lenscrafters,Mayaguez,1
+UNKNOWN,longchamp_us,SAN JUAN,2
+PR,lululemon,San Juan,1
+UNKNOWN,man_truck_and_bus,Las Piedras,1
+UNKNOWN,marriott,Ponce,1
+UNKNOWN,marriott,San Juan,7
+UNKNOWN,marriott,Carolina,3
+UNKNOWN,marriott,Aguadilla,1
+UNKNOWN,marriott,"Isla Verde, Carolina",1
+UNKNOWN,marriott,Luquillo,1
+UNKNOWN,marriott,Caguas,1
+UNKNOWN,marriott,Dorado,2
+UNKNOWN,marriott,Rio Grande,1
+UNKNOWN,maserati,SAN JUAN,1
+UNKNOWN,mcdonalds_latin_america,unknown,48
+UNKNOWN,mcdonalds_latin_america,Fajardo,1
+UNKNOWN,mcdonalds_latin_america,Cayey,1
+UNKNOWN,mcdonalds_latin_america,Ponce,2
+UNKNOWN,mcdonalds_latin_america,San Juan,2
+UNKNOWN,mcdonalds_latin_america,Carolina,1
+UNKNOWN,mcdonalds_latin_america,GUAYNABO,1
+UNKNOWN,mcdonalds_latin_america,Bayamón,2
+UNKNOWN,mcdonalds_latin_america,Hatillo,1
+UNKNOWN,mcdonalds_latin_america,Aguadilla,1
+UNKNOWN,michaelkors,Hato Rey,2
+UNKNOWN,michaelkors,Barceloneta,2
+PR,moneygram,LEVITTOWN,1
+PR,moneygram,BAYAMON,6
+PR,moneygram,SAN JUAN,3
+PR,moneygram,TOA ALTA,2
+PR,moneygram,COROZAL,1
+PR,moneygram,PATILLAS,1
+PR,moneygram,AGUADA,2
+PR,moneygram,AGUADILLA,3
+PR,moneygram,BARCELONETA,3
+PR,moneygram,MAYAGUEZ,6
+PR,moneygram,OROCOVIS,2
+PR,moneygram,ANASCO,2
+PR,moneygram,TOA BAJA,3
+PR,moneygram,NARANJITO,2
+PR,moneygram,BARRANQUITAS,1
+PR,moneygram,CANOVANAS,3
+PR,moneygram,CAGUAS,5
+PR,moneygram,CAYEY,3
+PR,moneygram,SALINAS,2
+PR,moneygram,ARECIBO,4
+PR,moneygram,CABO ROJO,1
+PR,moneygram,AIBONITO,1
+PR,moneygram,GUAYNABO,3
+PR,moneygram,UTUADO,2
+PR,moneygram,PONCE,10
+PR,moneygram,COMERIO,2
+UNKNOWN,moneygram,SAN JUAN,1
+PR,moneygram,GURABO,1
+PR,moneygram,ISABELA,3
+PR,moneygram,CAROLINA,6
+PR,moneygram,RINCON,2
+PR,moneygram,MOCA,1
+PR,moneygram,NAGUABO,1
+PR,moneygram,RIO GRANDE,1
+PR,moneygram,HATILLO,2
+PR,moneygram,MANATI,2
+PR,moneygram,FAJARDO,3
+PR,moneygram,GUAYAMA,3
+PR,moneygram,HUMACAO,2
+PR,moneygram,SANTA ISABEL,2
+PR,moneygram,GUANICA,1
+PR,moneygram,YAUCO,2
+PR,moneygram,VILLALBA,1
+UNKNOWN,moneygram,BAYAMON,1
+PR,moneygram,SAN LORENZO,1
+PR,moneygram,SAN GERMAN,2
+PR,moneygram,ARROYO,1
+UNKNOWN,moneygram,LARES,1
+PR,moneygram,CAMUY,1
+PR,moneygram,MOROVIS,1
+PR,moneygram,HORMIGUEROS,1
+PR,moneygram,SABANA GRANDE,1
+PR,moneygram,DORADO,1
+PR,moneygram,COAMO,1
+PR,moneygram,SANTURCE,1
+PR,moneygram,SAN SEBASTIAN,1
+ADJUNTAS,orangetheory_fitness,Guaynabo,1
+PUERTORICO,orangetheory_fitness,Condado,1
+UNKNOWN,ovs,WEISSENFELS,1
+UNKNOWN,ovs,BEIRUT,1
+UNKNOWN,ovs,SAALFELD,1
+UNKNOWN,ovs,BAD NEUENAHR-AHRWEILER,1
+LOMBARDIA,ovs,Tirano,1
+UNKNOWN,petco,San Juan,1
+UNKNOWN,petco,Guaynabo,1
+UNKNOWN,petco,Caguas,1
+UNKNOWN,petco,Aguadilla,1
+PR,premium_outlets,Barceloneta,1
+PR,qdoba,Guaynabo,1
+CAROLINA,quest_diagnostics,unknown,1
+PONCE,quest_diagnostics,unknown,1
+CAGUAS,quest_diagnostics,unknown,2
+BAYAMON,quest_diagnostics,unknown,2
+MANATI,quest_diagnostics,unknown,1
+FAJARDO,quest_diagnostics,unknown,2
+GURABO,quest_diagnostics,unknown,1
+BARCELONETA,quest_diagnostics,unknown,1
+VEGAALTA,quest_diagnostics,unknown,1
+CATANO,quest_diagnostics,unknown,2
+SANJUAN,quest_diagnostics,unknown,1
+MOCA,quest_diagnostics,unknown,1
+PR,quiznos,Rio Piedias,1
+PR,shell,Fajardo,1
+PR,shell,Ceiba,1
+PR,shell,Humacao,3
+PR,shell,Juncos,2
+PR,shell,CanÛvanas,1
+PR,shell,Carolina,2
+PR,shell,Gurabo,1
+PR,shell,Caguas,2
+PR,shell,Trujillo Alto,1
+PR,shell,San Juan,6
+PR,shell,Hato Rey,2
+PR,shell,Guaynabo,4
+PR,shell,BayamÛn,8
+PR,shell,CataÒo,1
+PR,shell,Bayamón,1
+PR,shell,ComerÌo,1
+PR,shell,Toa Baja,1
+PR,shell,Aibonito,1
+PR,shell,Vega Alta,1
+PR,shell,Salinas,1
+PR,shell,Vega Baja,1
+PR,shell,Santa Isabel,1
+PR,shell,Barceloneta,1
+PR,shell,Ponce,1
+PR,shell,Utuado,1
+PR,shell,Adjuntas,1
+PR,shell,Hatillo,2
+PR,shell,Lares,1
+PR,shell,San Germ·n,2
+PR,shell,Hormigueros,1
+PR,shell,Cabo Rojo,1
+PR,shell,Yauco,1
+PR,shell,Aguada,2
+PR,shell,RincÛn,1
+PR,shell,Isabela,1
+PR,shell,Aguadilla,2
+PR,sherwin_williams,Rincon,1
+PR,sherwin_williams,Aguadilla,1
+PR,sherwin_williams,Mayaguez,2
+PR,sherwin_williams,Cabo Rojo,1
+PR,sherwin_williams,Isabela,1
+PR,sherwin_williams,San Sebastian,1
+PR,sherwin_williams,Yauco,1
+PR,sherwin_williams,Ponce,2
+PR,sherwin_williams,Juana Diaz,1
+PR,sherwin_williams,Arecibo,1
+PR,sherwin_williams,Barceloneta,1
+PR,sherwin_williams,Manatí,1
+PR,sherwin_williams,Guayama,1
+PR,sherwin_williams,Cayey,1
+PR,sherwin_williams,Carolina,2
+PR,sherwin_williams,Rio Piedras,1
+PR,sherwin_williams,Santurce,1
+PR,sherwin_williams,San Juan,3
+PR,sherwin_williams,Trujillo Alto,1
+PR,sherwin_williams,Fajardo,1
+PR,sherwin_williams,Puerto Nuevo,1
+PR,sherwin_williams,Guaynabo,2
+PR,sherwin_williams,Bayamon,3
+PR,sherwin_williams,Toa Baja,1
+PR,sherwin_williams,Caguas,2
+PR,sherwin_williams,Dorado,1
+PR,sherwin_williams,Humacao,1
+PR,simonmalls,Carolina,1
+PR,simonmalls,Barceloneta,1
+UNKNOWN,sixt,San Juan,1
+UNKNOWN,sixt,Aguadilla,1
+UNKNOWN,sixt,Carolina,1
+LOÍZA,sizzler_us,Loíza,1
+BAYAMÓN,sizzler_us,Bayamón,2
+UNKNOWN,sizzler_us,San Juan,1
+FAJARDO,sizzler_us,Fajardo,1
+PONCE,sizzler_us,Ponce,1
+MAYAGÜEZ,sizzler_us,Mayagüez,1
+ISLAGRANDE,sizzler_us,San Juan,1
+AGUADILLA,sizzler_us,Aguadilla Pueblo,1
+CAROLINA,sizzler_us,Carolina,1
+UNKNOWN,subway,Yauco,1
+UNKNOWN,subway,Rio Piedras,1
+UNKNOWN,subway,San Juan,2
+UNKNOWN,subway,Mayaguez,1
+UNKNOWN,subway,Humacao,1
+UNKNOWN,subway,Hatillo,1
+UNKNOWN,subway,Arecibo,1
+UNKNOWN,subway,Carolina,1
+UNKNOWN,subway,Caguas,1
+UNKNOWN,subway,Condado,1
+UNKNOWN,sunglass_hut_1,Caguas,1
+PR,sunglass_hut_1,Canovanas,1
+PR,sunglass_hut_1,Mayaguez,1
+PR,sunglass_hut_1,San Juan,4
+PR,sunglass_hut_1,Ponce,1
+PR,sunglass_hut_1,Carolina,1
+PR,sunglass_hut_1,Rio Piedras,1
+PR,sunglass_hut_1,Barceloneta,1
+PR,sunglass_hut_1,Guaynabo,1
+PR,supercuts,Mayaguez,1
+PR,supercuts,Hatillo,1
+PR,supercuts,Bayamon,2
+PR,supercuts,Cayey,1
+PR,supercuts,Carolina,1
+PR,supercuts,San Juan,1
+PR,supercuts,Ponce,1
+SANJUAN,the_cheesecake_factory,San Juan,1
+CATANO,the_good_feet_store,unknown,1
+UNKNOWN,totalenergies,YAUCO,3
+UNKNOWN,totalenergies,SAN  JUAN,1
+UNKNOWN,totalenergies,CAROLINA,10
+UNKNOWN,totalenergies,PONCE,7
+UNKNOWN,totalenergies,SAN JUAN,20
+UNKNOWN,totalenergies,BAYAMON,13
+UNKNOWN,totalenergies,GUAYNABO,11
+UNKNOWN,totalenergies,RIO GRANDE,3
+UNKNOWN,totalenergies,TRUJILLO ALTO,4
+UNKNOWN,totalenergies,CAYEY,3
+UNKNOWN,totalenergies,MANATI,1
+UNKNOWN,totalenergies,ARECIBO,4
+UNKNOWN,totalenergies,CAGUAS,10
+UNKNOWN,totalenergies,LOIZA,1
+UNKNOWN,totalenergies,SAN GERMAN,1
+UNKNOWN,totalenergies,QUEBRADILLAS,3
+UNKNOWN,totalenergies,SABANA GRANDE,2
+UNKNOWN,totalenergies,CIDRA,4
+UNKNOWN,totalenergies,CABO ROJO,3
+UNKNOWN,totalenergies,AGUADILLA,4
+UNKNOWN,totalenergies,CANOVANAS,3
+UNKNOWN,totalenergies,CAMUY,4
+UNKNOWN,totalenergies,HUMACAO,2
+UNKNOWN,totalenergies,TOA BAJA,6
+UNKNOWN,totalenergies,GUAYAMA,3
+UNKNOWN,totalenergies,DORADO,2
+UNKNOWN,totalenergies,MAYAGUEZ,3
+UNKNOWN,totalenergies,ADJUNTAS,1
+UNKNOWN,totalenergies,GURABO,1
+UNKNOWN,totalenergies,SALINAS,1
+UNKNOWN,totalenergies,MOCA,2
+UNKNOWN,totalenergies,VEGA BAJA,4
+UNKNOWN,totalenergies,MARICAO,1
+UNKNOWN,totalenergies,COAMO,3
+UNKNOWN,totalenergies,ISABELA,3
+UNKNOWN,totalenergies,Toa Alta,1
+UNKNOWN,totalenergies,PEÑUELAS,1
+UNKNOWN,totalenergies,COMERIO,2
+UNKNOWN,totalenergies,GUANICA,1
+UNKNOWN,totalenergies,JUANA DIAZ,2
+UNKNOWN,totalenergies,FLORIDA,1
+UNKNOWN,totalenergies,ANASCO,1
+UNKNOWN,totalenergies,BARCELONETA,3
+UNKNOWN,totalenergies,COROZAL,2
+UNKNOWN,totalenergies,LAJAS,3
+UNKNOWN,totalenergies,Cabo Rojo,1
+UNKNOWN,totalenergies,CIALES,1
+UNKNOWN,totalenergies,LAS PIEDRAS,1
+UNKNOWN,totalenergies,CEIBA,1
+UNKNOWN,totalenergies,FAJARDO,2
+UNKNOWN,totalenergies,UTUADO,2
+UNKNOWN,totalenergies,AGUAS BUENAS,1
+UNKNOWN,totalenergies,GUAYANILLA,1
+UNKNOWN,totalenergies,SAN LORENZO,2
+UNKNOWN,totalenergies,HATILLO,1
+UNKNOWN,totalenergies,LARES,1
+UNKNOWN,totalenergies,SANTA ISABEL,1
+UNKNOWN,totalenergies,AGUADA,1
+UNKNOWN,totalenergies,CULEBRA,1
+UNKNOWN,totalenergies,CATANO,1
+UNKNOWN,totalenergies,JAYUYA,1
+UNKNOWN,totalenergies,VIEQUES,2
+UNKNOWN,totalenergies,MOROVIS,1
+UNKNOWN,totalenergies,LUQUILLO,1
+UNKNOWN,totalenergies,HORMIGUEROS,1
+UNKNOWN,totalenergies,PENUELAS,2
+UNKNOWN,totalenergies,SAN SEBASTIAN,3
+UNKNOWN,totalenergies,TOA ALTA,3
+UNKNOWN,totalenergies,AIBONITO,1
+UNKNOWN,totalenergies,VILLALBA,1
+UNKNOWN,totalenergies,PATILLAS,1
+UNKNOWN,totalenergies,VEGA ALTA,1
+UNKNOWN,totalenergies,ST. THOMAS,1
+UNKNOWN,totalenergies,ST THOMAS,5
+PR,visa,UTUADO,13
+VI,visa,VIRGIN GORDA,1
+PR,visa,GUANICA,7
+PR,visa,HATILLO,32
+PR,visa,ARECIBO,55
+PR,visa,OROCOVIS,14
+PR,visa,TOA BAJA,42
+PR,visa,AIBONITO,9
+PR,visa,SAN JUAN,385
+PR,visa,LARES,11
+PR,visa,SAN GERMAN,20
+PR,visa,PONCE,114
+UNKNOWN,visa,COLEBRA,1
+PR,visa,CULEBRA,2
+PR,visa,VIEQUES,12
+PR,visa,CANOVANAS,20
+PR,visa,YABUCOA,14
+UNKNOWN,visa,CEIBA,2
+PR,visa,CEIBA,6
+PR,visa,CIDRA,17
+PR,visa,GUAYNABO,77
+UNKNOWN,visa,VEGA BAJA,13
+PR,visa,FAJARDO,27
+PUERTORICO,visa,FAJARDO,3
+UNKNOWN,visa,FAJARDO,2
+PR,visa,SALINAS,18
+PR,visa,GURABO,19
+UNKNOWN,visa,HUCARES NAHUBO,1
+UNKNOWN,visa,NAGUABO,2
+PR,visa,NAGUABO,7
+PR,visa,LUQUILLO,7
+PR,visa,HUMACAO,34
+PR,visa,RIO GRANDE,26
+UNKNOWN,visa,HUMACAO,3
+PUERTORICO,visa,HUMACAO,2
+PR,visa,CAGUAS,112
+PR,visa,AGUADILLA,45
+PR,visa,LOIZA,9
+PR,visa,LAS PIEDRAS,17
+PUERTORICO,visa,RIO GRANDE,1
+PR,visa,LAJAS,14
+UNKNOWN,visa,YABUCOA,1
+UNKNOWN,visa,LAS PIEDRAS,1
+PR,visa,AGUADA,18
+PR,visa,MAYAGUEZ,57
+PR,visa,MAUNABO,2
+PR,visa,JUNCOS,22
+UNKNOWN,visa,CANOVANAS,4
+PUERTORICO,visa,CANOVANAS,4
+UNKNOWN,visa,LOIZA,1
+UNKNOWN,visa,CARAVANAS,1
+PR,visa,CANAVANAS,1
+UNKNOWN,visa,CANOVANS,1
+PUERTORICO,visa,JUNCOS,1
+UNKNOWN,visa,BARCELONETA,2
+UNKNOWN,visa,CAROLINA,24
+PR,visa,CAROLINA,147
+PR,visa,SABANA GRANDE,11
+UNKNOWN,visa,SAN LORENZO,3
+UNKNOWN,visa,SAN LORENZO MUNICIPIO,1
+PR,visa,SAN LORENZO,19
+PR,visa,JUNCO,1
+PUERTORICO,visa,CAROLINA,17
+PUERTORICO,visa,GURABO,2
+PR,visa,PATILLAS,5
+PR,visa,BAYAMON,138
+PR,visa,TRUJILLO ALTO,31
+PR,visa,MOROVIS,14
+PR,visa,TOA ALTA,23
+UNKNOWN,visa,TRUJILLO ALTO,6
+PR,visa,SANTA ISABEL,16
+PR,visa,ARROYO,12
+UNKNOWN,visa,SAN JUAN,53
+PUERTORICO,visa,CAGUAS,10
+UNKNOWN,visa,SAINT JUST,1
+PUERTORICO,visa,TRUJILLO ALTO,3
+UNKNOWN,visa,CAGUAS,16
+UNKNOWN,visa,GUAYAMA,3
+PR,visa,GUAYAMA,25
+PUERTORICO,visa,SAN JUAN,40
+PR,visa,VEGA ALTA,20
+PR,visa,MANATI,35
+PR,visa,CAYEY,26
+UNKNOWN,visa,HATO REY,4
+PR,visa,RIO PIEDRAS,16
+PUERTORICO,visa,GUAYAMA,4
+PUERTORICO,visa,RIO PIEDRAS,5
+UNKNOWN,visa,RIO PIEDRAS,6
+PR,visa,SANTURCE,8
+PR,visa,CATANO,15
+UNKNOWN,visa,GUAYNABO,9
+PR,visa,CUPEY,3
+PR,visa,HATO REY,8
+PR,visa,JUANA DIAZ,29
+UNKNOWN,visa,BAYAMON,20
+PR,visa,BARCELONETA,14
+UNKNOWN,visa,TOA ALTA,3
+UNKNOWN,visa,CUPEY,2
+UNKNOWN,visa,DORADO,5
+UNKNOWN,visa,PUERTO NUEVO,2
+PR,visa,ISABELA,18
+PR,visa,VILLALBA,8
+UNKNOWN,visa,CONDADA,1
+PUERTORICO,visa,SANTURCE,1
+UNKNOWN,visa,TOA BOJA,1
+PUERTORICO,visa,HATO REY,1
+UNKNOWN,visa,CAGUSO,1
+PR,visa,PEÃ‘UELAS,1
+PR,visa,CAYEY 2,1
+PR,visa,MOCA,10
+PR,visa,BO GUERRERO ISABELA,1
+PR,visa,INT 351 MAYAGUEEZ,1
+PR,visa,BOQUERON,1
+PR,visa,RINCON,17
+PR,visa,CAMUY,12
+PR,visa,GUAYANILLA,6
+PR,visa,RIO PEDRAS,1
+PR,visa,AGUAS BUENAS,6
+PR,visa,YAUCO,20
+UNKNOWN,visa,OSCAR JUANEZ,1
+PR,visa,SABANA SECA TOA BAJA,1
+PR,visa,VILLA CAROLINA,1
+PR,visa,QUEBRADILLAS,12
+PR,visa,HUMACO,1
+PR,visa,LARES 2,1
+PR,visa,ANASCO ATM,1
+PR,visa,TRUJILLO ALTA,1
+PR,visa,LEVITTOWN,1
+PR,visa,BARRANQUITAS,10
+PR,visa,TUJILLO ALTO,1
+PR,visa,TRUJILO ALTO,1
+PR,visa,HAFILLO,1
+PR,visa,BO SALTO ABAJO,1
+PR,visa,COAMO,11
+PUERTORICO,visa,CONDADO,1
+PR,visa,CONDADO,2
+PR,visa,HORMIGUEROS,7
+PR,visa,SAN SEBASTIAN,20
+PUERTORICO,visa,MIRAMAR,1
+PUERTORICO,visa,GUAYNABO,11
+UNKNOWN,visa,MIRAMAR,1
+UNKNOWN,visa,CAYEY,15
+UNKNOWN,visa,RIO PIEDRA,1
+PUERTORICO,visa,CAYEY,7
+PR,visa,DORADO,26
+UNKNOWN,visa,GUAYNADO,1
+PUERTORICO,visa,CIDRA,2
+PR,visa,PENUELAS,8
+UNKNOWN,visa,PUERTA DI TIERRA,1
+PR,visa,CATAÑO,1
+UNKNOWN,visa,CATANO,2
+PR,visa,FORT BUCHANAN,2
+PUERTORICO,visa,CATANO,1
+PUERTORICO,visa,BAYAMON,21
+PR,visa,CABO ROJO,20
+UNKNOWN,visa,REXVILLE BAYAMON,1
+UNKNOWN,visa,BAYOMON,3
+UNKNOWN,visa,HUMALBO,1
+PUERTORICO,visa,TOA BAJA,3
+UNKNOWN,visa,LEVITTOWN,1
+PR,visa,VIEJO SAN JUAN,1
+PUERTORICO,visa,HATO TEJAS,1
+PR,visa,SABANA SECA,2
+UNKNOWN,visa,VILLA FONTANA,1
+PR,visa,VALENCIA BAY,1
+PUERTORICO,visa,TOA ALTA,3
+PR,visa,COMERIO,7
+UNKNOWN,visa,NARANJITO,2
+UNKNOWN,visa,AIBONITO,1
+PUERTORICO,visa,AIBONITO,1
+PUERTORICO,visa,NARANJITO,1
+PR,visa,NARANJITO,18
+PR,visa,COROZAL,16
+UNKNOWN,visa,TOA BAJA,1
+PUERTORICO,visa,BARRANQUITAS,1
+PUERTORICO,visa,DORADO,2
+UNKNOWN,visa,COROZAL,7
+UNKNOWN,visa,BUYNABO,1
+PUERTORICO,visa,COROZAL,1
+UNKNOWN,visa,COAMO,2
+UNKNOWN,visa,VEGA ALTA,3
+UNKNOWN,visa,SANTA ISABEL,1
+UNKNOWN,visa,CUOMO,1
+PR,visa,VEJA BAJA,1
+PUERTORICO,visa,VEGA BAJA,2
+PR,visa,VEGA BAJA,30
+UNKNOWN,visa,VILLALBA,1
+PR,visa,JUANA D?AZ,1
+PUERTORICO,visa,JUANA DIAZ,1
+UNKNOWN,visa,JUANA DIAZ,3
+UNKNOWN,visa,CIALES,1
+PR,visa,CIALES,8
+UNKNOWN,visa,MANATI,1
+PUERTORICO,visa,MANATI,4
+UNKNOWN,visa,PONCE,18
+PUERTORICO,visa,PONCE,15
+PR,visa,COTO LAUREL,1
+UNKNOWN,visa,COTO LAUREL,1
+PR,visa,ANASCO,11
+PR,visa,FLORIDA,4
+PR,visa,JAYUYA,6
+PUERTORICO,visa,JAYUYA,1
+PUERTORICO,visa,ARECIBO,5
+UNKNOWN,visa,UTUADO,3
+UNKNOWN,visa,PENUELAS,1
+UNKNOWN,visa,ARECIBO,9
+PUERTORICO,visa,UTUADO,2
+PR,visa,ADJUNTAS,4
+PR,visa,GARROCHALES,1
+UNKNOWN,visa,JUNCOS,2
+PR,visa,GUAYNILLA,1
+UNKNOWN,visa,HATILLO,6
+UNKNOWN,visa,YAUCO,5
+PUERTORICO,visa,YAUCO,2
+UNKNOWN,visa,CAMUY,1
+UNKNOWN,visa,LARES,1
+PUERTORICO,visa,LARES,1
+PUERTORICO,visa,CAMUY,1
+PR,visa,ENSENADA,1
+PUERTORICO,visa,GUANICA,1
+PUERTORICO,visa,SABANA GRANDE,2
+PR,visa,MARICAO,2
+UNKNOWN,visa,DUEBRADILLAS,1
+UNKNOWN,visa,QUEBRADILLA,1
+UNKNOWN,visa,QUEBRADILLAS,1
+PUERTORICO,visa,MARICAO,1
+PR,visa,LAS MARIAS,2
+UNKNOWN,visa,SAN GERMAN,3
+UNKNOWN,visa,SAN SEBASTIAN,1
+PUERTORICO,visa,SAN SEBASTIAN,2
+UNKNOWN,visa,GUAYABO,1
+PUERTORICO,visa,SAN GERMAN,3
+PR,visa,CAIN ALTO,1
+PUERTORICO,visa,ISABELA,2
+UNKNOWN,visa,MOCA,4
+UNKNOWN,visa,ISABELA,3
+PUERTORICO,visa,AGUADILLA,3
+PUERTORICO,visa,MOCA,1
+UNKNOWN,visa,MAYAGUEZ,5
+PUERTORICO,visa,CABO ROJO,3
+PUERTORICO,visa,MAYAGUEZ,7
+PUERTORICO,visa,HORMIGUEROS,2
+PR,visa,PUERTO REAL,1
+PUERTORICO,visa,MAYAGÜEZ,1
+UNKNOWN,visa,CABO ROJO,3
+UNKNOWN,visa,AGUADILLA,8
+PUERTORICO,visa,ANASCO,3
+UNKNOWN,visa,HORMIGUERO,1
+UNKNOWN,visa,MAYAQUEZ,1
+PUERTORICO,visa,AÑASCO,1
+PUERTORICO,visa,AGUADA,3
+UNKNOWN,visa,AGUADILL,1
+PR,visa,AQUADA,1
+UNKNOWN,visa,AGUADO,1
+UNKNOWN,visa,RIO GRANDE,2
+UNKNOWN,visa,MOCO,1
+UNKNOWN,visa,BERBELY HILL,1
+UNKNOWN,visa,CARIKUBA,1
+UNKNOWN,visa,HARO REY,1
+UNKNOWN,visa,TOA ALTA HEIGHTS,1
+PR,visa,PUERTO NUEVO,1
+UNKNOWN,visa,ARROYO,1
+PR,visa,ANTIOCH,1
+PR,visa,ANAGIO,1
+PR,visa,TRUILLO ALTO,2
+PR,visa,CATA?O,1
+UNKNOWN,visa,LOS DOMINICS BAY,1
+UNKNOWN,visa,PUERTA NUEVA,1
+PR,vitamin_shoppe,Guaynabo,1
+PR,vitamin_shoppe,Caguas,1
+PR,whitehouseblackmarket,San Juan,2
+PR,whitehouseblackmarket,Ponce,1

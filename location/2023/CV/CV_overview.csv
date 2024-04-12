@@ -1,0 +1,117 @@
+State,Place Name,City,Establishments
+UNKNOWN,ford,Praia,4
+UNKNOWN,hilton,unknown,1
+,little_free_library,Cachaco,1
+,little_free_library,Tantum,1
+,little_free_library,Nova Sintra,2
+UNKNOWN,moneygram,PRAIA,2
+UNKNOWN,moneygram,CALABACEIRA(CIDADE VELHA),1
+UNKNOWN,moneygram,PRAIA BAIXO,1
+UNKNOWN,moneygram,VILA DE SAL REI,1
+UNKNOWN,moneygram,JOAO GALEGO,1
+UNKNOWN,moneygram,NOVA SINTRA,1
+UNKNOWN,moneygram,NA SA DO MONTE,1
+UNKNOWN,moneygram,SAO FELIPE,1
+UNKNOWN,moneygram,COVA FIGUEIRA,1
+UNKNOWN,moneygram,MOSTEIROS TRAS,1
+UNKNOWN,moneygram,VILA DO PORTO INGLES,1
+UNKNOWN,moneygram,VILA DO PORTO NOVO,1
+UNKNOWN,moneygram,PAUL,1
+UNKNOWN,moneygram,VILA DE PONTA DO SOL,1
+UNKNOWN,moneygram,RIBEIRA GRANDE,1
+UNKNOWN,moneygram,COCULI,1
+UNKNOWN,moneygram,VILA DO TARRAFAL,2
+UNKNOWN,moneygram,RIBEIRA DA BARCA,1
+UNKNOWN,moneygram,MINDELO,1
+UNKNOWN,moneygram,RIBEIRA BOTE,1
+UNKNOWN,moneygram,MONTE SOSSEGO,1
+UNKNOWN,moneygram,ESPARGOS,1
+UNKNOWN,moneygram,SANTA MARIA,1
+UNKNOWN,moneygram,FAZENDA(PRAIA),1
+UNKNOWN,moneygram,ACHADA DE SANTO ANTONIO,1
+UNKNOWN,moneygram,SAO DOMINGOS,1
+UNKNOWN,moneygram,CARREIRA(ORGAOS),1
+UNKNOWN,moneygram,ACHADA IGREJA(PICOS),1
+UNKNOWN,moneygram,ASSOMADA,1
+UNKNOWN,moneygram,CALHETA,1
+UNKNOWN,moneygram,ACHADA FATIMA,1
+SANTIAGO,shell,São Domingos,1
+SANTIAGO,shell,Pedra Badejo,1
+SANTIAGO,shell,Praia,6
+SANTIAGO,shell,Assomada,2
+SANTIAGO,shell,Calheta,1
+SANTIAGO,shell,Tarrafal Santiago,1
+MAIO,shell,Porto Ingles,1
+FOGO,shell,Mosteiros,1
+FOGO,shell,São Filipe,1
+BRAVA,shell,Nova Sintra,1
+BOAVISTA,shell,Sal Rei,1
+SÃONICOLAU,shell,Tarrafal São Nicolau,1
+SAL,shell,Santa Maria,1
+SÃONICOLAU,shell,Ribeira Brava,1
+SAL,shell,Espargos,1
+SVICENTE,shell,Mindelo,1
+SÃOVICENTE,shell,Mindelo,3
+SANTOANTÃO,shell,Porto Novo,1
+SANTOANTÃO,shell,Ribeira Grande,1
+MAIO,visa,MAIO,3
+PRAIA,visa,PRAIA,74
+PRAIA,visa,MINDELO,1
+PRAIA,visa,NOVA SINTRA,2
+PRAIA,visa,MOSTEIROS,1
+BOAVISTA,visa,SAL REI,9
+SAODOMINGOS,visa,SAO DOMINGOS,2
+SANTACRUZ,visa,SANTA CRUZ,2
+BOAVISTA,visa,PRAIA,1
+SAOSALVADORDOMUNDO,visa,PICOS,1
+SAOMIGUEL,visa,CALHETA SAO MIGUEL,3
+SANTACATARINA,visa,ASSOMADA,10
+TARRAFAL,visa,TARRAFAL,3
+SAL,visa,SANTA MARIA,13
+SAL,visa,ESPARGOS,14
+MOSTEIROS,visa,MOSTEIROS,1
+SAOFILIPE,visa,SAO FILIPE,7
+BRAVA,visa,VILA DA RIBEIRA BRAVA,1
+RIBEIRABRAVA,visa,RIBEIRA BRAVA,4
+SAOVICENTE,visa,MINDELO,26
+SAOVICENTE,visa,PRAIA,1
+PORTONOVO,visa,PORTO NOVO,4
+PAUL,visa,CIDADE DAS POMBAS,2
+RIBEIRAGRANDE,visa,RIBEIRA GRANDE,4
+RIBEIRAGRANDE,visa,TARRAFAL DA VILA DE RIBEIRA GRANDE,2
+RIBEIRAGRANDE,visa,PONTA DO SOL,1
+BARLAVENTO,western_union,Santo Antao,2
+BARLAVENTO,western_union,Porto Novo,6
+BARLAVENTO,western_union,Ribeira Grande,4
+BARLAVENTO,western_union,Vila De Ribeira Grande,1
+BARLAVENTO,western_union,Paul,1
+BARLAVENTO,western_union,Mindelo,12
+BARLAVENTO,western_union,Monte Sossego,1
+BARLAVENTO,western_union,Vila Do Tarrafal,2
+BARLAVENTO,western_union,Sao Nicolau,2
+BARLAVENTO,western_union,Ribeira Brava,1
+BARLAVENTO,western_union,Vila Do Maio,1
+SOTAVENTO,western_union,Vila Do Maio,2
+SOTAVENTO,western_union,Praia,37
+SANTIAGO,western_union,Praia,4
+BARLAVENTO,western_union,Sal Rei,7
+BARLAVENTO,western_union,Vila De Sal Rei,1
+SOTAVENTO,western_union,Mosteiros,1
+BARLAVENTO,western_union,Vila Dos Mosteiros,1
+SOTAVENTO,western_union,Sao Filipe,5
+SOTAVENTO,western_union,Ilha Do Fogo,1
+BARLAVENTO,western_union,Santa Maria,2
+BARLAVENTO,western_union,Vila De Santa Maria,1
+SOTAVENTO,western_union,Calheta Sao Miguel,4
+SOTAVENTO,western_union,Assomada,5
+SOTAVENTO,western_union,Santa Catarina,2
+SOTAVENTO,western_union,Tarrafal,2
+SOTAVENTO,western_union,Ribeira Grande De Santiago,2
+SOTAVENTO,western_union,Sao Domingos,1
+BARLAVENTO,western_union,Vila De Sao Domingos,1
+SOTAVENTO,western_union,Pedra Badejo,1
+BARLAVENTO,western_union,Vila De Pedra Badejo,1
+SOTAVENTO,western_union,Santa Cruz,2
+SOTAVENTO,western_union,Picos,1
+ILHADESANTIAGO,western_union,Praia,1
+SOTAVENTO,western_union,Santiago,1

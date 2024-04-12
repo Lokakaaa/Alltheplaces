@@ -1,0 +1,736 @@
+State,Place Name,City,Establishments
+UNKNOWN,alamo,Santo Domingo,5
+UNKNOWN,alamo,Puerto Plata,3
+UNKNOWN,alamo,Punta Cana,2
+UNKNOWN,alamo,Santiago,2
+UNKNOWN,alamo,La Romana,4
+UNKNOWN,alamo,La Marina,1
+UNKNOWN,alstom,unknown,1
+UNKNOWN,american_eagle_outfitters,Santo Domingo,1
+25,ashley_furniture,Santiago De Los Caballeros,1
+NACIONAL,audi,Santo Domingo,1
+SANTODOMINGO,avis,Santo Domingo,2
+NEARHILTONHOTEL,avis,Santo Domingo,1
+BELLAVISTA,avis,Santo Domingo,1
+CORNERBENVENIDOGGAUTIER,avis,Santo Domingo,1
+PUERTOPLATA,avis,Puerto Plata,2
+CARRHIGUEYMICHESHWY105,avis,Punta Cana,1
+CIBAOINTLAIRPORT,avis,Santiago,1
+CARRETERASANTIAGOLICEYKM2,avis,Santiago,1
+LAROMANA,avis,La Romana,1
+CENTRALROMANAPORT,avis,La Romana,1
+UNKNOWN,bmw_group,Santo Domingo,2
+REPUBLICADOMINICANA,bmw_group,Republica Dominicana,1
+SANTODOMINGO,deloitte,unknown,1
+UNKNOWN,enterprise,Puerto Plata,1
+UNKNOWN,enterprise,Santo Domingo,4
+UNKNOWN,enterprise,Punta Cana,2
+UNKNOWN,enterprise,Santiago,1
+UNKNOWN,enterprise,La Romana,2
+UNKNOWN,ernst_young,Santo Domingo,1
+SANTODOMINGO,fedex,Santo Domingo,1
+NACIONAL,fedex,Santo Domingo,5
+SANTIAGO,fedex,Santiago,1
+SANJUAN,fedex,Punta Cana,1
+PUERTOPLATA,fedex,Puerto Plata,1
+UNKNOWN,ford,"Distrito Nacional, Santo Domingo",1
+UNKNOWN,ford,Santo Domingo,8
+UNKNOWN,ford,Higüey,2
+UNKNOWN,ford,La Vega,2
+UNKNOWN,ford,Santiago,2
+UNKNOWN,goldsgym,"Bani, Peravia Province",1
+UNKNOWN,goldsgym,Santo Domingo,2
+UNKNOWN,goldsgym,Moca,1
+UNKNOWN,goldsgym,unknown,1
+UNKNOWN,goldsgym,Sosua,1
+UNKNOWN,goldsgym,San Francisco de Macoris,1
+UNKNOWN,goldsgym,Santo Domingo Este,1
+UNKNOWN,goldsgym,Santiago,1
+UNKNOWN,hardrock,Punta Cana,1
+UNKNOWN,hardrock,Santo Domingo,1
+UNKNOWN,hilton,unknown,2
+NACIONAL,hooters,unknown,1
+09,hugo_boss,Santo Domingo,1
+UNKNOWN,lhw,Punta Cana,1
+UNKNOWN,longchamp_us,SANTO DOMINGO,1
+UNKNOWN,longchamp_us,PUNTA CANA,2
+UNKNOWN,man_truck_and_bus,Santo Domingo,3
+UNKNOWN,man_truck_and_bus,Santiago,1
+UNKNOWN,marriott,"Santo Domingo, Distrito Nacional",2
+UNKNOWN,marriott,Punta Cana,2
+UNKNOWN,marriott,Santo Domingo,4
+UNKNOWN,marriott,Santiago de los Caballeros,1
+UNKNOWN,maserati,SANTO DOMINGO,1
+UNKNOWN,michaelkors,Santo Domingo,1
+UNKNOWN,minerd_do,unknown,10616
+UNKNOWN,moneygram,STO DOMINGO OESTE,1
+UNKNOWN,moneygram,MOCA,18
+UNKNOWN,moneygram,SANTIAGO,82
+UNKNOWN,moneygram,SANTO DOMINGO,370
+UNKNOWN,moneygram,HIGUEY,32
+UNKNOWN,moneygram,HATO MAYOR DEL REY,1
+UNKNOWN,moneygram,SANTO DOMINGO OESTE,6
+UNKNOWN,moneygram,SAN FRANCISCO MACORIS,1
+UNKNOWN,moneygram,HAINA,4
+UNKNOWN,moneygram,LA VEGA,19
+UNKNOWN,moneygram,JIMANI,5
+UNKNOWN,moneygram,D.N.,1
+UNKNOWN,moneygram,AZUA,5
+UNKNOWN,moneygram,LA ROMANA,22
+UNKNOWN,moneygram,SAN JOSE DE LOS LLANOS,1
+UNKNOWN,moneygram,SAN FRANCISCO DE MACORIS,10
+UNKNOWN,moneygram,LAGUNA SALADA,1
+UNKNOWN,moneygram,BANI,11
+UNKNOWN,moneygram,VILLA LA MATA,1
+UNKNOWN,moneygram,PUERTO PLATA,25
+UNKNOWN,moneygram,SAN PEDRO DE MACORIS,12
+UNKNOWN,moneygram,BONAO,9
+UNKNOWN,moneygram,CONSTANZA,5
+UNKNOWN,moneygram,COTUI,7
+UNKNOWN,moneygram,VILLA VASQUEZ,1
+UNKNOWN,moneygram,SOSUA,2
+UNKNOWN,moneygram,BAVARO,11
+UNKNOWN,moneygram,NAVARRETE,2
+UNKNOWN,moneygram,SABANA PERDIDA CHARLES DE GAULLE,1
+UNKNOWN,moneygram,VILLA OLGA,1
+UNKNOWN,moneygram,CASTILLO,1
+UNKNOWN,moneygram,SAN PEDRO MACORIS,1
+UNKNOWN,moneygram,SAN FCO. MACORIS,1
+UNKNOWN,moneygram,BARAHONA,6
+UNKNOWN,moneygram,NAGUA,7
+UNKNOWN,moneygram,SANTO DOMINGO ESTE,1
+UNKNOWN,moneygram,SAN JUAN DE LA MAGUANA,6
+UNKNOWN,moneygram,SAN JOSE DE LAS MATAS,1
+UNKNOWN,moneygram,TENARES,4
+UNKNOWN,moneygram,SAN CRISTOBAL,14
+UNKNOWN,moneygram,PEDRO BRAND,1
+UNKNOWN,moneygram,GUAYMATE,1
+UNKNOWN,moneygram,MONTE PLATA,2
+UNKNOWN,moneygram,SANTIAGO RODRIGUEZ,1
+UNKNOWN,moneygram,SAN JUAN,3
+UNKNOWN,moneygram,YAGUATE,1
+UNKNOWN,moneygram,DISTRITO NACIONAL,8
+UNKNOWN,moneygram,LA ALTAGRACIA,6
+UNKNOWN,moneygram,ESPAILLAT,1
+UNKNOWN,moneygram,SANTO DOMINGO NORTE,3
+UNKNOWN,moneygram,SAMANA,6
+UNKNOWN,moneygram,NEYBA,1
+UNKNOWN,moneygram,SABANA GRANDE DE BOYA,1
+UNKNOWN,moneygram,MONTE CRISTI,5
+UNKNOWN,moneygram,SAN JOSE OCOA,1
+UNKNOWN,moneygram,LA CUABA,1
+UNKNOWN,moneygram,SANTIAGO DE LOS CABALLEROS,6
+UNKNOWN,moneygram,MAO VALVERDE,2
+UNKNOWN,moneygram,BOCA CHICA,4
+UNKNOWN,moneygram,EL VALLE,1
+UNKNOWN,moneygram,HATO MAYOR,4
+UNKNOWN,moneygram,VERON / PUNTA CANA,1
+UNKNOWN,moneygram,LA CALETA,1
+UNKNOWN,moneygram,SAN ANTONIO DE GUERRA,1
+UNKNOWN,moneygram,LAS TERRENAS,1
+UNKNOWN,moneygram,SN FRANCISCO DE MACORIS,2
+UNKNOWN,moneygram,LICEY SANTIAGO,1
+UNKNOWN,moneygram,JARABACOA,4
+UNKNOWN,moneygram,ENSANCHE PIANTINI,1
+UNKNOWN,moneygram,SN PEDRO DE MACORIS,3
+UNKNOWN,moneygram,MIRADOR SUR,1
+UNKNOWN,moneygram,SN JOSE DE OCOA,1
+UNKNOWN,moneygram,SN CRISTOBAL,2
+UNKNOWN,moneygram,EL SEIBO,3
+UNKNOWN,moneygram,PUNTA CANA,1
+UNKNOWN,moneygram,SN JUAN DE LA MAGUANA,1
+UNKNOWN,moneygram,SLA' ROMANA,1
+UNKNOWN,moneygram,SAN FRANCISCO MARCORIS,1
+UNKNOWN,moneygram,SAN ISIDRO,1
+UNKNOWN,moneygram,STO DGO ARROYO HOND,1
+UNKNOWN,moneygram,ESPERANZA,1
+UNKNOWN,moneygram,GURABO,1
+UNKNOWN,moneygram,LICEY,1
+UNKNOWN,moneygram,TAMBORIL,1
+UNKNOWN,moneygram,CABARETE,1
+UNKNOWN,moneygram,MAO,3
+UNKNOWN,moneygram,FANTINO,1
+UNKNOWN,moneygram,SALVALEON DE HIGUEY,1
+UNKNOWN,moneygram,LOMA DE CABRERA,1
+UNKNOWN,moneygram,DAJABON,2
+UNKNOWN,moneygram,GASPAR HERNANDEZ,1
+UNKNOWN,moneygram,SALCEDO,1
+UNKNOWN,moneygram,MAIMON,1
+UNKNOWN,moneygram,PEDERNALES,1
+UNKNOWN,moneygram,BABIECA,1
+UNKNOWN,moneygram,EL ABANICO,1
+UNKNOWN,moneygram,NEYABA,1
+UNKNOWN,moneygram,SANCHEZ,1
+UNKNOWN,moneygram,VILLA ALTAGRACIA,2
+UNKNOWN,moneygram,SANTA LUCIA,1
+UNKNOWN,moneygram,BONAO MONSENOL NOUEL,1
+UNKNOWN,moneygram,BAYAGUANA,1
+UNKNOWN,moneygram,SANTO DOMINGO DE GUZMAN,5
+UNKNOWN,national,Santo Domingo,5
+UNKNOWN,national,Santiago,2
+UNKNOWN,national,La Romana,4
+UNKNOWN,national,Puerto Plata,3
+UNKNOWN,national,Punta Cana,2
+SANTIAGO,nissan_europe,Santiago,2
+PUERTOPLATA,nissan_europe,Puerto Plata,1
+DISTRITONACIONAL,nissan_europe,Santo Domingo,2
+LAVEGA,nissan_europe,La Vega,1
+VERÓN,nissan_europe,Bávaro,1
+DISTRITONACIONAL,orangetheory_fitness,Santo Domingo,2
+DISTRITONACIONAL,orangetheory_fitness,Bellavista,1
+SANTIAGO,orangetheory_fitness,Santiago,1
+SANTIAGO,orangetheory_fitness,Arroyo Hondo,1
+LAVEGA,shell,Constanza,1
+LAVEGA,shell,Jarabacoa,2
+MONSEÃORNOUEL,shell,Bonao,2
+LAVEGA,shell,La Vega,7
+SANCHEZRAMIREZ,shell,Fantino,1
+MONSEÃORNOUEL,shell,Maimon,1
+LAVEGA,shell,Cutupu,1
+ESPAILLAT,shell,Espaillat,3
+MOCA,shell,Moca,1
+ESPAILLAT,shell,Moca,3
+SANTIAGO,shell,Santiago,15
+HERMANASMIRABAL,shell,Hermanas Mirabal,2
+SANCHEZRAMIREZ,shell,Cotui,2
+SANCHEZRAMIREZ,shell,Sanchez Ramirez,1
+HERMANASMIRABAL,shell,Tenares,1
+SANTIAGO,shell,Tamboril,1
+SANJOSEDEOCOA,shell,Valle de Peravia,1
+DUARTE,shell,Duarte,2
+SANTIAGODELOSCABALLEROS,shell,SANTIAGO DE LOS CABALLEROS ,1
+AZUA,shell,Azua,5
+SANJUAN,shell,San Juan,6
+PERAVIA,shell,Azua,2
+SANTODOMINGO,shell,Santo Domingo,30
+DISTRITONACIONAL,shell,SANTO DOMINGO,8
+SANTODOMINGOESTE,shell,SANTO DOMINGO,2
+SANTODOMINGO,shell,SANTO DOMINGO,1
+UNKNOWN,shell,unknown,1
+SANCRISTOBAL,shell,Haina,3
+SANCRISTOBAL,shell,San Cristobal,3
+MONTEPLATA,shell,Yamasa,1
+MONTEPLATA,shell,Monte Plata,1
+SANJUANDELAMAGUANA,shell,LAS MATAS DE FARFAN,1
+BAHORUCO,shell,Bahoruco,2
+BAHORUCO,shell,Neyba,1
+BARAHONA,shell,Barahona,3
+SANTIAGORODRIGUEZ,shell,Sabaneta,1
+BARAHONA,shell,Enriquillo,1
+INDEPENDENCIA,shell,Jimani,1
+VALVERDE,shell,Mao,1
+VALVERDE,shell,Valverde,3
+MONTECRISTI,shell,Monte Cristi,6
+PUERTOPLATA,shell,Puerto Plata,5
+PUERTOPLATA,shell,Luperon,1
+PUERTOPLATA,shell,CABARETE,1
+MARIATRINIDADSANCHEZ,shell,Gaspar Hernandez,1
+MARIATRINIDADSANCHEZ,shell,Maria Trinidad Sanchez,4
+MARIATRINIDADSANCHEZ,shell,Nagua,2
+MARIATRINIDADSANCHEZ,shell,Cabrera,1
+SAMANA,shell,Samana,2
+MONTEPLATA,shell,Bayaguana,1
+PERAVIA,shell,Bani,3
+PERAVIA,shell,Nizao,1
+SANJOSEDEOCOA,shell,San Jose De Ocoa,1
+SANPEDRODEMACORIS,shell,Juan Dolio,1
+SANPEDRODEMACORIS,shell,San Pedro De Macoris,5
+ELSEYBO,shell,Miches,1
+ELSEYBO,shell,El Seybo,1
+SAMANA,shell,SAMANA,1
+LAALTAGRACIA,shell,Higuey,1
+LAALTAGRACIA,shell,Bayahibe,1
+LAALTAGRACIA,shell,Boca de Yuma,1
+PEDERNALES,shell,Pedernales,1
+UNKNOWN,sixt,La Romana,1
+UNKNOWN,sixt,Santo Domingo,3
+UNKNOWN,sixt,Punta Cana,1
+UNKNOWN,totalenergies,JARABACOA,2
+UNKNOWN,totalenergies,SANTO DOMINGO,64
+UNKNOWN,totalenergies,SAN PEDRO DE MACORÍS,7
+UNKNOWN,totalenergies,AZUA,1
+UNKNOWN,totalenergies,SAN JUAN DE LA MAGUANA,2
+UNKNOWN,totalenergies,JUAN DOLIO,2
+UNKNOWN,totalenergies,SANTIAGO DE LOS CABALLEROS,24
+UNKNOWN,totalenergies,HATO MAYOR,1
+UNKNOWN,totalenergies,BONAO,3
+UNKNOWN,totalenergies,DUVERGÉ,2
+UNKNOWN,totalenergies,MOCA,1
+UNKNOWN,totalenergies,HIGUEY,4
+UNKNOWN,totalenergies,PUNTA CANA,6
+UNKNOWN,totalenergies,BAVARO,1
+UNKNOWN,totalenergies,BÁVARO,3
+UNKNOWN,totalenergies,LA VEGA,8
+UNKNOWN,totalenergies,MONTECRISTI,1
+UNKNOWN,totalenergies,CONSTANZA,1
+UNKNOWN,totalenergies,MONTELLANO,1
+UNKNOWN,totalenergies,NAVARRETE,2
+UNKNOWN,totalenergies,PUERTO PLATA,4
+UNKNOWN,totalenergies,SALCEDO,2
+UNKNOWN,totalenergies,TENARES,1
+UNKNOWN,totalenergies,TAMBORIL,1
+UNKNOWN,totalenergies,SAN CRISTOBAL,5
+UNKNOWN,totalenergies,GASPAR HERNANDEZ,2
+UNKNOWN,totalenergies,SAN FRANCISCO DE MACORÍS,2
+UNKNOWN,totalenergies,SAN FRANCISCO DE MACORIS,1
+UNKNOWN,totalenergies,MAO,2
+UNKNOWN,totalenergies,PADRE LAS CASAS,1
+UNKNOWN,totalenergies,LA ROMANA,6
+UNKNOWN,totalenergies,SAN PEDRO DE MACORIS,1
+UNKNOWN,totalenergies,BANI,4
+UNKNOWN,totalenergies,ESPERANZA,1
+UNKNOWN,totalenergies,CABRERA,1
+UNKNOWN,totalenergies,"CABRAL, BARAHONA",1
+UNKNOWN,totalenergies,EL SEIBO,1
+UNKNOWN,totalenergies,SAN JOSÉ DE OCOA,1
+UNKNOWN,totalenergies,LOS MAMEYES,1
+UNKNOWN,totalenergies,SAN CRISTÓBAL,2
+UNKNOWN,totalenergies,Santo Domingo,32
+UNKNOWN,totalenergies,Santiago de los Caballeros,4
+UNKNOWN,totalenergies,La Vega,3
+UNKNOWN,totalenergies,Jarabacoa,2
+UNKNOWN,totalenergies,San Pedro de Macoris,6
+UNKNOWN,totalenergies,San Juan de la Maguana,1
+UNKNOWN,totalenergies,Salcedo,1
+UNKNOWN,totalenergies,Santo Domingo Este,9
+UNKNOWN,totalenergies,Puerto Plata,4
+UNKNOWN,totalenergies,Tenares,1
+UNKNOWN,totalenergies,Tamboril,1
+UNKNOWN,totalenergies,Ranchito,1
+UNKNOWN,totalenergies,Gaspar Hernandez,1
+UNKNOWN,totalenergies,Azua,1
+UNKNOWN,totalenergies,Juan Dolio,1
+UNKNOWN,totalenergies,Santiago,10
+UNKNOWN,totalenergies,Barahona,1
+UNKNOWN,totalenergies,Hato Mayor del Rey,1
+UNKNOWN,totalenergies,Bonao,1
+UNKNOWN,totalenergies,Moca,1
+UNKNOWN,totalenergies,Higuey,1
+UNKNOWN,totalenergies,Salvaleon de Higuey,2
+UNKNOWN,totalenergies,Bavaro,1
+UNKNOWN,totalenergies,Montecristi,1
+UNKNOWN,totalenergies,Constanza,1
+UNKNOWN,totalenergies,Montellano,1
+UNKNOWN,totalenergies,Santo Domingo Oeste,1
+UNKNOWN,totalenergies,Boca Chica,2
+UNKNOWN,totalenergies,Navarrete,1
+UNKNOWN,totalenergies,VILLA GONZÁLEZ,1
+UNKNOWN,totalenergies,San Cristobal,1
+UNKNOWN,totalenergies,SANTIAGO,1
+UNKNOWN,totalenergies,San Francisco de Macoris,1
+UNKNOWN,totalenergies,Mao,2
+UNKNOWN,totalenergies,La Romana,1
+UNKNOWN,totalenergies,Licey,1
+UNKNOWN,totalenergies,Gurabo,1
+UNKNOWN,totalenergies,Bani,1
+UNKNOWN,totalenergies,PEDERNALES,1
+UNKNOWN,totalenergies,Arenoso,1
+UNKNOWN,totalenergies,ARENOSO,1
+UNKNOWN,totalenergies,BARAHONA,1
+UNKNOWN,totalenergies,SOSUA,1
+UNKNOWN,totalenergies,SABANA GRANDE DE BOYÁ,1
+UNKNOWN,totalenergies,PALMAR DE OCOA,1
+UNKNOWN,totalenergies,COTUI,1
+UNKNOWN,totalenergies,LA REFORMA,1
+UNKNOWN,totalenergies,BAYAHIBE,1
+UNKNOWN,totalenergies,NAGUA,1
+LAALTAGRACIA,visa,CABEZA DE TORO,3
+LAALTAGRACIA,visa,PUNTA CANA,11
+LAALTAGRACIA,visa,PLAYA BIBIJAGUA,1
+LAALTAGRACIA,visa,LOS CORALES PUNTA CANA,2
+LAALTAGRACIA,visa,EL CORTECITO BAVARO,3
+LAALTAGRACIA,visa,RESIDENCIAL CORAL GOLF,1
+LAALTAGRACIA,visa,BAVARO,12
+LAALTAGRACIA,visa,LAS CAYENA / BAVARO,1
+LAALTAGRACIA,visa,CORTESITO BAVARO,1
+LAALTAGRACIA,visa,WHITE SANDS GOLF COURSE,1
+BAVARO,visa,PLAZA TOBACCO,1
+LAALTAGRACIA,visa,PLAZA BAVARO,1
+PUNTACANA,visa,ARENA GORDA,1
+LAALTAGRACIA,visa,PUNTA CANA MACAO,1
+LAALTAGRACIA,visa,HIGUEY,131
+LAALTAGRACIA,visa,UVERO ALTO,3
+PUNTACANA,visa,PUNTA CANA,4
+HIGUEY,visa,HIGUEY,9
+UNKNOWN,visa,HIGUEY,1
+PUNTACANA,visa,"SALVALEÓN HIGUEY, PUNTA CANA, REP. DOM.",1
+UNKNOWN,visa,LA ALTAGRACIA,8
+DISTRITONACIONAL,visa,SANTO DOMINGO,431
+PUNTACANABAVARO,visa,PUNTA CANA BAVARO,1
+LAROMANA,visa,ROMANA,16
+LAALTAGRACIA,visa,LA ALTAGRACIA,2
+LAALTAGRACIA,visa,PUEBLO BAVARO,1
+LAALTAGRACIA,visa,VERON,1
+BAYAHIBE,visa,BAYAHIBE,1
+LAROMANA,visa,DOMINICUS BAYAHIBE,1
+LAALTAGRACIA,visa,EL CORTESITO,1
+LAALTAGRACIA,visa,BAYAHIBE,4
+LAALTAGRACIA,visa,DOMINICUS BAYAHIBE,1
+LAROMANA,visa,BAYAHIBE,1
+LAALTAGRACIA,visa,LOS MELONES/BAYAHIBE,1
+LAALTAGRACIA,visa,ARENA BLANCA PUNTA CANA,1
+LAALTAGRACIA,visa,BÁVARO,2
+LAALTAGRACIA,visa,LA ROMANA,3
+SANTIAGO,visa,SANTIAGO,207
+SANTODOMINGO,visa,SANTO DOMINGO,229
+SANTODOMINGOOESTE,visa,SANTO DOMINGO OESTE,2
+HIGUEY,visa,LA ALTAGRACIA,1
+MUNICIPIOSALVALEONHIGUEY,visa,HIGUEY,1
+SANPEDRO,visa,SAN PEDRO,2
+LAALTAGRACIA,visa,SAN RAFAEL DEL YUMA,4
+LAROMANA,visa,LA ROMANA,59
+UNKNOWN,visa,LA ROMANA,22
+LAROMANA,visa,"LA ROMANA, REP. DOM.",1
+UNKNOWN,visa,DUARTE,2
+MONTEPLATA,visa,MONTE PLATA,11
+SANPEDRODEMACORI,visa,SAN PEDRO DE MACORI,2
+LAROMANA,visa,LA ROMAMA,1
+LAROMANA,visa,VILLA HERMOSA,2
+ELSEIBO,visa,EL SEIBO,7
+SEYBO,visa,SEYBO,1
+ELSEIBO,visa,MICHES,1
+SANPEDRODEMACORIS,visa,PLACER BONITO,1
+SANPEDRODEMACORIS,visa,SAN PEDRO DE MACORIS,50
+GUAYACANES,visa,JUAN DOLIO,1
+SANPEDRODEMACORIS,visa,RAMON SANTANA,1
+HATOMAYOR,visa,HATO MAYOR DEL REY,3
+HATOMAYOR,visa,HATO MAYOR,7
+UNKNOWN,visa,SAN PEDRO DE MACORIS,8
+SAMANA,visa,SAMANA,19
+HATOMAYORDELREY,visa,HATO MAYOR DEL REY,1
+SANPEDRODEMACORÍS,visa,"SAN PEDRO DE MACORÍS, REP. DOM.",1
+SANPEDRODEM,visa,SANPEDRO DE M,1
+SANTODOMINGO,visa,BOCA CHICA,19
+SANPEDRODEMACORIS,visa,CONSUELO,1
+SAMANA,visa,ARROYO SABANA EL LIMON,1
+SANTODOMINGO,visa,SANTA LUCIA,1
+SANPEDRODEMACORIS,visa,GUAYACANES,1
+SAMANA,visa,EL LIMON,1
+LASTERRENAS,visa,LA PLAYA,1
+SANPEDRODEMACORIS,visa,JUAN DOLIO,2
+SAMANA,visa,LAS TERRENAS,5
+LASTERRENAS,visa,EL HOSPITAL,1
+BARAHONA,visa,BARAHONA,21
+LASTERRENAS,visa,PLAYA BONITA,1
+DOMINICANREPUBLIC,visa,SAMANA,1
+JUANDOLIO,visa,"SAN PEDRO DE MACORÍS, REP. DOM.",1
+PERAVIA,visa,BANI,19
+SANTODOMINGO,visa,ENSANCHE ISABELITA,1
+DISTRITONACIONAL,visa,ENS OZAMA,1
+SANTODOMINGO,visa,ZONA COLONIAL,1
+UNKNOWN,visa,ENS MIRAFLORES,1
+SANTODOMINGO,visa,GAZCUE,4
+SANTODOMINGO,visa,SAN JUAN BOSCO,1
+SANTODOMINGO,visa,ENS MIRAFLORES,1
+SANTODOMINGO,visa,MATA HAMBRE,2
+SANTODOMINGO,visa,CENTRO DE LOS HEROES,1
+SANTODOMINGO,visa,LA FERIA,1
+DISTRITONACIONAL,visa,MATA HAMBRE,1
+SANTODOMINGO,visa,BELLA VISTA,3
+SANTODOMINGO,visa,DISTRITO NACIONAL,1
+SANTODOMINGO,visa,MIRADOR SUR,1
+SANTODOMINGO,visa,URB RENACIMIENTO,1
+SANTODOMINGO,visa,LAS PRADERAS,1
+SANTODOMINGO,visa,SANTO DOMINGO NORTE,40
+UNKNOWN,visa,DISTRITO NACIONAL,66
+12HAINA,visa,SANTO DOMINGO OESTE,1
+UNKNOWN,visa,SANTO DOMINGO,56
+UNKNOWN,visa,BOCA CHICA,1
+UNKNOWN,visa,SAMANA,1
+SAMANA,visa,LAS TERRRENAS,4
+SAMANÁ,visa,LAS TERRENAS,1
+SANTODOMINGO,visa,SANTO DOMINGO ESTE,137
+MONTEPLATA,visa,BAYAGUANA,2
+SANTODOMINGOESTE,visa,SANTO DOMINGO,7
+REPDOMINICANA,visa,REP. DOMINICANA,1
+SANTODOMINGO,visa,SAN ANTONIO DE GUERRA,2
+SAMANA,visa,SANCHEZ,3
+DISTRITONACIONAL,visa,SANTO DOMINGO DE GUZMAN,223
+DISTRITONACIONALSANTODOMINGO,visa,SANTO DOMINGO,35
+SANTODOMINGOORIENTAL,visa,SANTO DOMINGO ORIENTAL,2
+SANTODOMINGOESTE,visa,SANTO DOMINGO ESTE,4
+SANTODOMINGO,visa,SANTO DOMINGO OESTE,98
+PUERTOPLATA,visa,PUERTO PLATA,71
+DISTRITONACIONAL,visa,"SANTO DOMINGO, D. N.",9
+UNKNOWN,visa,SANTO DOMINGO ESTE,1
+DUARTE,visa,SAN FRANCISCO DE MACORIS,29
+SANTODOMINGOESTE,visa,ENSACHE ISABELITA,1
+DISTRITONACIONAL,visa,DISTRITO NACIONAL,24
+SANTODOMINGO,visa,DON BOSCO,1
+DISTNACIONAL,visa,DIST NACIONAL,8
+VALVERDE,visa,MAO,11
+SANTODOMINGONORTE,visa,SANTO DOMINGO NORTE,1
+SANTODOMINGO,visa,ZONA UNIVERSITARIA,1
+UNKNOWN,visa,LA VEGA,4
+SANTODOMINGO,visa,NACO,1
+LAVEGA,visa,LA VEGA,43
+MARIATRINIDADSANCHEZ,visa,NAGUA,8
+SANCRISTOBAL,visa,SAN CRISTOBAL,42
+UNKNOWN,visa,"SANTO DOMINGO, D.N.",5
+SANTIAGODELOSCABALLEROS,visa,SANTIAGO,65
+UNKNOWN,visa,SANTIAGO,26
+MAO,visa,MAO,2
+UNKNOWN,visa,SANTO DOMINGO DN,1
+BAHORUCO,visa,NEYBA,5
+DISTRITONACIANAL,visa,SANTO DOMINGO,1
+GURABO,visa,SANTIAGO,1
+SANTODOMINGO,visa,HONDURAS DEL NORTE,1
+DUARTE,visa,ARENOSO,1
+DISTNACIONAL,visa,DIST.NACIONAL,1
+INDEPENDENCIA,visa,JIMANÍ,2
+MARIATRINIDADSANCHEZ,visa,CABRERA,1
+SANJUANDELAMAGUANA,visa,SAN JUAN,8
+REPDOM,visa,SANTIAGO,1
+NAGUA,visa,NAGUA,1
+UNKNOWN,visa,MARIA TRINIDAD SANCHEZ,3
+LUPERON,visa,LUPERON,2
+SANTODOMINGOOESTE,visa,SANTO DOMINGO,2
+DUARTE,visa,SAN FRANCISCO DE MACORÍS,9
+SANTODOMINGO,visa,SANTO DOMINGO DE GUZMAN,1
+13DEHAINA,visa,12 DE HAINA,1
+SANTODOMINGO,visa,COSTA VERDE,1
+SANCRISTOBAL,visa,HAINA,7
+DUARTE,visa,VILLAS RIVAS,1
+MONTEPLATA,visa,YAMASA,1
+SANTODOMINGO,visa,LOS ALCARRIZOS,6
+SANCRISTOBAL,visa,BAJOS DE HAINA,13
+UNKNOWN,visa,SAN CRISTOBAL,5
+SANCRISTOBAL,visa,SAN GREGORIO DE NIGUA,2
+SANTODOMINGOOESTE,visa,PEDRO BRAND,1
+SANTODOMINGO,visa,PEDRO BRAND,9
+MARIATRINI,visa,MARIA TRINI,2
+SANCHEZRAMIREZ,visa,COTUI,14
+DAJABON,visa,DAJABON,10
+SANCRISTOBAL,visa,YAGUATE,1
+DUARTE,visa,PIMENTEL,1
+SANCRISTOBAL,visa,VILLA ALTAGRACIA,4
+VILLAALTAGRACIA,visa,VILLA ALTAGRACIA,1
+SANCHEZ,visa,SANCHEZ,1
+UNKNOWN,visa,SANCHEZ RAMIREZ,1
+COTUI,visa,COTUI,1
+UNKNOWN,visa,GUAYIGA,1
+UNKNOWN,visa,BANI,1
+BANI,visa,BANI,1
+UNKNOWN,visa,PERAVIA,2
+PERAVIA,visa,PERAVIA,2
+MONSENORNOUEL,visa,MAIMON,1
+MONSENORNOUEL,visa,BONAO,26
+SANFRANCISCODEMACORIS,visa,SAN FRANCISCO DE MACORIS,3
+UNKNOWN,visa,MACORIS,1
+LASTERRENAS,visa,LAS TERRENAS,1
+MONSEÑORNOUEL,visa,BONAO,3
+SANCHEZRAMIREZ,visa,FANTINO,1
+ESPALLIAT,visa,GASPAR HERNANDEZ,1
+ESPAILLAT,visa,MOCA,21
+ESPAILLAT,visa,GASPAR HERNANDEZ,1
+HERMANASMIRABAL,visa,TENARES,2
+MONSENORNOUEL,visa,MONSENOR NOUEL,1
+BONAO,visa,BONAO,1
+HERMANASMIRABAL,visa,HERMANAS MIRABAL,4
+UNKNOWN,visa,BONAO,1
+SANJOSEDEOCOA,visa,BANI,4
+SÁNCHEZRAMÍREZ,visa,FANTINO,1
+UNKNOWN,visa,SAN JOSE DE OCOA,1
+OCOA,visa,OCOA,1
+SANJOSEDEOCOA,visa,SAN JOSE DE OCOA,1
+PUERTOPLATA,visa,SOSUA,17
+HERMANASMIRABAL,visa,SALCEDO,1
+UNKNOWN,visa,HERMANAS MIRABAL,1
+LAVEGA,visa,CONCEPCION LA VEGA,4
+PUERTOPLATA,visa,CABARETE,5
+UNKNOWN,visa,PUERTO PLATA,9
+LAVEGA,visa,LA CONCEPCION DE LA VEGA,12
+ESPALLIAT,visa,MOCA,9
+PROVINCIAESPAILLAT,visa,MOCA,1
+ESPAILLAT,visa,ESPAILLAT,2
+UNKNOWN,visa,ESPAILLAT,1
+UNKNOWN,visa,MOCA,1
+AZUADECOMPOSTELA,visa,AZUA DE COMPOSTELA,2
+MOCA,visa,MOCA,1
+UNKNOWN,visa,SOSUA,1
+LAVEGA,visa,JARABACOA,6
+UNKNOWN,visa,CONSTANZA,1
+SANTIAGO,visa,TAMBORIL,4
+AZUA,visa,AZUA DE COMPOSTELA,2
+SANTIAGO,visa,LICEY AL MEDIO,2
+SANTIAGODELOSCABALLEROS,visa,LICEY AL MEDIO,2
+MONTECRISTI,visa,SAN FERNANDO DE MONTE CRISTI,7
+JARABACOA,visa,JARABACOA,1
+UNKNOWN,visa,JARABACOA,1
+AZUA,visa,AZUA,7
+SANTIAGODELOSCABALLEROS,visa,TAMBORIL,2
+UNKNOWN,visa,AZUA,1
+LAVEGA,visa,CONSTANZA,3
+SANTIAGODELOSCABALLEROS,visa,SANTIAGO DE LOS CABALLEROS,20
+PUERTOPLATA,visa,LUPERON,2
+SANTIAGO,visa,"SANTIAGO DE LOS CABALLEROS, REP. DOM.",1
+SANTIAGODELOSCABALLEROS,visa,SANTO DOMINGO,1
+TAMBORIL,visa,TAMBORIL,1
+SANTIAGO,visa,JANICO,1
+PUERTOPLATA,visa,COFRESI,1
+SANTIAGO,visa,VILLA GONZALEZ,4
+SANTIAGODELOSCABALLEROS,visa,NAVARRETE,1
+SANTIAGO,visa,VILLA BISONO,2
+SANTIAGO,visa,SAN JOSE DE LA MATAS,1
+VALVERDE,visa,ESPERANZA,4
+VALVERDE,visa,VALVERDE,4
+BAHORUCO,visa,TAMAYO,1
+UNKNOWN,visa,VALVERDE,1
+PUERTOPLATA,visa,VILLA ISABELA,1
+SANJUAN,visa,SAN JUAN MAGUANA,4
+SANJUANDELAMAGUANA,visa,SAN JUAN DE LA MAGUANA,4
+UNKNOWN,visa,SAN JUAN,1
+SANTIAGORODRIGUEZ,visa,SABANETA,3
+BAHORUCO,visa,NEIBA,1
+SANTIAGORODRIGUEZ,visa,SAN IGNACIO DE SABANETA,1
+SANTIAGORODRIGUEZ,visa,SANTIAGO RODRIGUEZ,1
+MONTECRISTI,visa,GUAYUBIN,1
+SANJUANDELAMAGUANA,visa,LAS MATAS DE FARFAN,1
+MONTECRISTI,visa,VILLA VASQUEZ,2
+PEDERNALES,visa,PEDERNALES,2
+MONTECRISTI,visa,MONTE CRISTI,1
+ELIASPIÑA,visa,COMENDADOR,1
+MONTECRISTI,visa,SAN FERNANDO DE MONTECRISTI,1
+MONTECRISTI,visa,MONTECRISTI,1
+MARIATRINIDADSANCHEZ,western_union,Nagua,4
+MONTEPLATA,western_union,Monte Plata,3
+MARIATRINIDADSANCHEZ,western_union,Cabrera,3
+SANTODOMINGO,western_union,Santo Domingo Este,31
+SANTODOMINGO,western_union,Santo Domingo,12
+SANTODOMINGO,western_union,Guerra,1
+DISTRITONACIONAL,western_union,Santo Domingo Este,1
+DISTRITONACIONAL,western_union,Santo Domingo,9
+MONTEPLATA,western_union,Sabana Grande De Boya,1
+MARIATRINIDADSANCHEZ,western_union,El Factor,1
+DUARTE,western_union,Arenoso,2
+SANTODOMINGO,western_union,Distrito Nacional,20
+MONSEORNOUEL,western_union,Maimon,2
+SANTODOMINGO,western_union,Santo Domingo Norte,10
+SANTODOMINGO,western_union,Santo Domingo N,2
+SANTODOMINGO,western_union,Ozama,1
+SANTODOMINGO,western_union,Los Mina,1
+SANTODOMINGO,western_union,Manoguayabo,1
+DUARTE,western_union,Castillo,1
+SANTODOMINGO,western_union,Santo Domingo Oeste,18
+DISTRITONACIONAL,western_union,Distrito Nacional,8
+SANCHEZRAMIREZ,western_union,Cevicos,1
+SANTIAGO,western_union,Santiago,29
+DUARTE,western_union,Villa Rivas,1
+ESPAILLAT,western_union,Gaspar Hernandez,2
+SANCHEZRAMIREZ,western_union,Cotui,4
+SANCRISTOBAL,western_union,Canastica,1
+SANCRISTOBAL,western_union,San Cristobal,6
+SANCRISTOBAL,western_union,San Crsitobal,1
+SANTODOMINGO,western_union,Pedro Brand,1
+DUARTE,western_union,Pimentel,1
+SANCRISTOBAL,western_union,Hatillo,1
+MARIATRINIDADSANCHEZ,western_union,Rio San Juan,2
+DISTRITONACIONAL,western_union,Santo Domingo Norte,1
+HERMANASMIRABAL,western_union,Tenares,3
+PUERTOPLATA,western_union,Cabarete,2
+DUARTE,western_union,San Francisco De Macoris,10
+PUERTOPLATA,western_union,Puerto Plata,9
+PUERTOPLATA,western_union,Sabaneta De Yasica,1
+SANTODOMINGO,western_union,Cristo Rey,1
+MONTEPLATA,western_union,Peralvillo,1
+MONTEPLATA,western_union,Yamasa,3
+SANCRISTOBAL,western_union,Nigua,1
+SANTODOMINGO,western_union,Los Alcarrizos,1
+SANCRISTOBAL,western_union,Haina,2
+SANTODOMINGO,western_union,Bajos De Haina,1
+SANCHEZRAMIREZ,western_union,La Mata,2
+SANCRISTOBAL,western_union,Villa Altagracia,3
+DUARTE,western_union,Las Guaranas,2
+SANCRISTOBAL,western_union,Cambita Garabitos,1
+PERAVIA,western_union,Nizao,1
+PERAVIA,western_union,Don Gregorio,1
+SANCRISTOBAL,western_union,Yaguate,1
+SANTODOMINGO,western_union,Herrera,1
+SANTODOMINGO,western_union,Santo Domingo O,1
+LAVEGA,western_union,La Vega,7
+LAVEGA,western_union,Cutupu,1
+ESPAILLAT,western_union,Moca,4
+ESPAILLAT,western_union,Cayetano Germosen,1
+MONSEORNOUEL,western_union,Bonao,5
+PERAVIA,western_union,Bani,6
+LAVEGA,western_union,Bonao,1
+PUERTOPLATA,western_union,Monte Llano,1
+PUERTOPLATA,western_union,Montellano,1
+HERMANASMIRABAL,western_union,Villa Tapia,2
+PERAVIA,western_union,Matanzas,1
+LAVEGA,western_union,Jima Abajo,1
+HERMANASMIRABAL,western_union,Salcedo,2
+SANTIAGO,western_union,Gurabo,2
+SANTIAGO,western_union,Licey Al Medio,2
+SANTIAGO,western_union,Tamboril,4
+SANJOSEDEOCOA,western_union,San Jose De Ocoa,2
+SANJOSEDEOCOA,western_union,Sabana Larga,1
+MONSEORNOUEL,western_union,Piedra Blanca,1
+PUERTOPLATA,western_union,Sosua,2
+SANCHEZRAMIREZ,western_union,Fantino,3
+SANTIAGO,western_union,La Canela,1
+SANTIAGO,western_union,Sabana Iglesia,2
+LAVEGA,western_union,Constanza,4
+SANTIAGO,western_union,Las Charcas,1
+SANTIAGO,western_union,Villa Gonzalez,1
+PUERTOPLATA,western_union,Luperon,1
+SANTIAGO,western_union,Baitoa,1
+PUERTOPLATA,western_union,Altamira,1
+SANTIAGO,western_union,Santiago De Los Caballeros,1
+LAVEGA,western_union,Jarabacoa,4
+LAVEGA,western_union,Las Canas,1
+MONTECRISTI,western_union,Castanuelas,3
+SANTIAGORODRIGUEZ,western_union,Santiago Rodriguez,2
+BAHORUCO,western_union,Tamayo,1
+BARAHONA,western_union,Vicente Noble,3
+MONTECRISTI,western_union,Guayubin,1
+MONTECRISTI,western_union,Villa Vasquez,2
+SANTIAGORODRIGUEZ,western_union,Moncion,2
+BARAHONA,western_union,Barahona,4
+PUERTOPLATA,western_union,Imbert,2
+SANTIAGO,western_union,El Rubio,1
+MONTECRISTI,western_union,Hatillo Palma,1
+AZUA,western_union,Padre Las Casas,2
+VALVERDE,western_union,Laguna Salada,2
+VALVERDE,western_union,Mao,3
+SANTIAGO,western_union,San Jose De Las Matas,1
+VALVERDE,western_union,Esperanza,3
+AZUA,western_union,Sabana Yegua,1
+AZUA,western_union,Nuevo Sabana Yegua,1
+VALVERDE,western_union,Guatapanal,1
+PUERTOPLATA,western_union,El Mamey,1
+PUERTOPLATA,western_union,La Isabela,1
+PUERTOPLATA,western_union,Villa Isabela,1
+SANTIAGO,western_union,Janico,1
+SANTIAGO,western_union,Mejia De Navarrete,1
+SANTIAGO,western_union,Navarrete,1
+AZUA,western_union,Azua,3
+PUERTOPLATA,western_union,Guananico,1
+BAHORUCO,western_union,Neyba,2
+DAJABON,western_union,Partido,1
+SANJUAN,western_union,Vallejuelo,1
+DAJABON,western_union,El Pino,1
+SANTIAGORODRIGUEZ,western_union,Los Almacigos,1
+SANJUAN,western_union,Juan De Herrera,1
+MONTECRISTI,western_union,Las Matas De Santa Cruz,1
+SANJUAN,western_union,San Juan De La Maguana,4
+MONTECRISTI,western_union,Montecristi,1
+MONTECRISTI,western_union,Monte Cristi,1
+INDEPENDENCIA,western_union,Duverge,1
+DAJABON,western_union,Dajabon,3
+DAJABON,western_union,Loma De Cabrera,2
+MONTECRISTI,western_union,Pepillo Salcedo,1
+PEDERNALES,western_union,Pedernales,2
+SANJUAN,western_union,El Cercado,1
+SANJUAN,western_union,Las Matas De Farfan,2
+INDEPENDENCIA,western_union,Jimani,2
+DAJABON,western_union,Restauracion,1
+ELIASPIA,western_union,Elias Pina,1
+LAROMANA,western_union,La Romana,8
+LAALTAGRACIA,western_union,Bavaro,7
+LAALTAGRACIA,western_union,Higuey,7
+LAALTAGRACIA,western_union,La Otra Banda,1
+LAALTAGRACIA,western_union,Punta Cana,1
+LAALTAGRACIA,western_union,San Rafael Del Yuma,1
+LAALTAGRACIA,western_union,Bayahibe,1
+LAALTAGRACIA,western_union,Veron,1

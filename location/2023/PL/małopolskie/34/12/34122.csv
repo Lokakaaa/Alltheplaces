@@ -1,0 +1,12 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+10299,abc_pl,abc,,Wieprz,małopolskie,,PL,,,,abc,Q11683985
+10785,abc_pl,abc,,Nidek,małopolskie,,PL,,,,abc,Q11683985
+12571,abc_pl,abc,,Gierałtowice,małopolskie,,PL,,,,abc,Q11683985
+GLT01M,paczkomat_inpost_pl,Za sklepem Wizan,,Gierałtowice,małopolskie,,PL,,https://inpost.pl/paczkomat-gieraltowice-glt01m-swietego-marcina-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+NDE01M,paczkomat_inpost_pl,Sklep Spożywczy Nidek,,Nidek,małopolskie,,PL,,https://inpost.pl/paczkomat-nidek-nde01m-sw-jana-pawla-ii-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WPR01M,paczkomat_inpost_pl,Przed sklepem,,Wieprz,małopolskie,,PL,,https://inpost.pl/paczkomat-wieprz-wpr01m-gorska-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WPR02M,paczkomat_inpost_pl,na parkingu obok sklepu,,Wieprz,małopolskie,,PL,,https://inpost.pl/paczkomat-wieprz-wpr02m-wadowicka-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WPR03M,paczkomat_inpost_pl,PARKING DOM WESELNY POLONEZ,,Wieprz,małopolskie,,PL,,https://inpost.pl/paczkomat-wieprz-wpr03m-koscielna-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+WUP03M,paczkomat_inpost_pl,Parking przed sklepem Delfin,,Wieprz,małopolskie,,PL,,https://inpost.pl/paczkomat-wieprz-wup03m-beskidzka-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+991398,poczta_polska_pl,FUP Andrychów,,Wieprz,MAŁOPOLSKIE,,PL,+48 33 875 51 21,,,Poczta Polska,Q168833
+,visa,,,WIEPRZ,MAŁOPOLSKIE,,PL,,,,,

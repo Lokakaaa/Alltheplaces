@@ -1,0 +1,2828 @@
+City,Place Name,Zipcode,Name
+Algard,adidas,,unknown,adidas Outlet Store Algard
+Vestby,adidas,,unknown,adidas Outlet Store Vestby
+Lillestrom,adidas,,unknown,adidas Outlet Store Lillestrom
+Gardermoen,alamo,,unknown,Oslo Gardermoen Airport
+Vigra,alamo,,unknown,Alesund Vigra Airport
+Bergen,alamo,,unknown,Bergen Flesland Airport
+Bodo,alamo,,unknown,Bodo Airport
+Evenes,alamo,,unknown,Harstad Evenes Airport
+Kjevik,alamo,,unknown,Kristansand Kjevik Airport
+Stavanger,alamo,,unknown,Stavanger Sola Airport
+Tromso,alamo,,unknown,Tromso Langnes Airport
+Stjordal,alamo,,unknown,Trondheim Vaernes Airport
+unknown,alstom,Drammensveien 165 - N-0277 Oslo - Norway,unknown,Oslo
+unknown,alstom,Eilert Smiths vei 1 - 0975 Oslo - Norway,unknown,Grorud
+Hønefoss,bmw_group,,unknown,"Bilia Norge AS, Avd. Hønefoss"
+Gol,bmw_group,,unknown,"Bilia Norge AS, Avd Gol"
+Gardermoen,bmw_group,,unknown,"Bavaria Norge AS, Gardermoen"
+Farsund,bmw_group,,unknown,"Bavaria Norge AS, Farsund Avd. Farsund"
+Molde,bmw_group,,unknown,"Bavaria Norge AS, Molde"
+Stavanger,bmw_group,,unknown,Rovik MC AS
+Nyborg,bmw_group,,unknown,Ride Bergen AS
+Hamar,bmw_group,,unknown,"Sulland Auto AS, Hamar Avd. Hamar"
+Kristiansand,bmw_group,,unknown,Motor-Teknikk AS
+Oslo,bmw_group,,unknown,MC Oslo AS
+Karmsund,bmw_group,,unknown,"Bavaria Norge AS, Haugesund"
+Kongsvinger,bmw_group,,unknown,"Bilia Norge AS, Avd.Kongsvinger"
+Lierstranda,bmw_group,,unknown,"Bilia Norge AS, Drammen"
+Kjeller,bmw_group,,unknown,"Bavaria Norge AS, Lillestrøm"
+Arendal,bmw_group,,unknown,"Bavaria Norge AS, Arendal"
+Kristiansund,bmw_group,,unknown,"Bavaria Norge AS, Kristiansund"
+Moss,bmw_group,,unknown,"Sulland Auto AS, Moss Avd. Moss"
+Steinkjer,bmw_group,,unknown,"Sulland Auto AS, Steinkjer Avd. Steinkjer"
+Bodø,bmw_group,,unknown,"Sulland Auto AS, Bodø Avd. Bodø"
+Gjøvik,bmw_group,,unknown,"Sulland Auto AS, Gjøvik Avd. Gjøvik"
+Tromsø,bmw_group,,unknown,Arctic Motor Tromsø AS
+Skien,bmw_group,,unknown,"Bilia Norge AS, Avd. Skien"
+Trondheim,bmw_group,,unknown,Strandveien Auto AS
+Førde,bmw_group,,unknown,Biltreff AS
+Tiller,bmw_group,,unknown,"Sulland Auto AS, Trondheim Avd. Trondheim"
+Sarpsborg,bmw_group,,unknown,"Sulland Østfold AS, Sarpsborg Avd. Sarpsborg"
+Bryne,bmw_group,,unknown,"Bavaria Norge AS, Bryne"
+Bud,bmw_group,,unknown,GS Bildeler AS
+Fredrikstad,bmw_group,,unknown,Leere's Motorsport A/S
+Sandefjord,bmw_group,,unknown,Speed Motorcenter AS
+Lillehammer,bmw_group,,unknown,"Sulland Auto AS, Lillehammer Avd. Lillehammer"
+Ski,bmw_group,,unknown,"Bilia Norge AS, Avd. Follo"
+Furnes,bmw_group,,unknown,MC Huset Nydal AS
+Ålesund,bmw_group,,unknown,AMS Motorsykkelsenteret AS
+Høvik,bmw_group,,unknown,"Bilia Norge AS, Avd Furubakken"
+Skodje,bmw_group,,unknown,"Bavaria Norge AS, Ålesund"
+Harstad,bmw_group,,unknown,"Sulland Auto AS, Harstad Avd. Harstad"
+Tønsberg,bmw_group,,unknown,"Bilia Norge AS, Avd. Vestfold"
+Alta,bmw_group,,unknown,"Sulland Auto AS, Alta Avd. Alta"
+Kokstad,bmw_group,,unknown,Jæger Sentrum avd. Kokstad
+unknown,boots_no,Friholmsgaten  4 4836 Arendal,unknown,Boots apotek Arendal
+unknown,boots_no,Furuvn. 1 2020 Skedsmokorset,unknown,Boots apotek Skedsmokorset
+unknown,boots_no,Gladbakkvegen  2b 2070 Råholt,unknown,Boots apotek Råholt
+unknown,boots_no,Metro senter Bibliotekgt 30 1473 Lørenskog,unknown,Boots apotek Lørenskog
+unknown,boots_no,Stortorget  11 2000 Akershus,unknown,Boots apotek Lillestrøm
+unknown,boots_no,Rødskiferveien  1 1352 Kolsås,unknown,Boots apotek Kolsås
+unknown,boots_no,Strandliveien  4 1410 Kolbotn,unknown,Boots apotek Kolbotn Torg
+unknown,boots_no,Trondheimsvegen - Kløfta  86 2040 Kløfta,unknown,Boots apotek Kløfta
+unknown,boots_no,O. H. Bangs vei  17 1363 Høvik,unknown,Boots apotek Høvik
+unknown,boots_no,Snipetjernveien  10 1405 Langhus,unknown,Boots apotek HomeCare
+unknown,boots_no,Vestvang  6 2022 Gjerdrum,unknown,Boots apotek Gjerdrum
+unknown,boots_no,Garderbakken  6 1900 Fetsund,unknown,Boots apotek Fetsund
+unknown,boots_no,Rådhusveien  5 1940 Bjørkelangen,unknown,Boots apotek Bjørkelangen
+unknown,boots_no,Gamle Ringeriksvei  34 1357 Bekkestua,unknown,Boots apotek Bekkestua
+unknown,boots_no,Skonnertveien 16 4624 Kristiansand,unknown,Boots Apotek Vågsbygd
+unknown,boots_no,Sentrumsvegen  41 4700 Vennesla,unknown,Boots apotek Vennesla
+unknown,boots_no,Prinsens gate  6 1530 Moss,unknown,Boots apotek Svanen Moss
+unknown,boots_no,Carlbergveien  2 1526 Moss,unknown,Boots apotek Rygge Storsenter
+unknown,boots_no,Rådhusveien  4 1890 Rakkestad,unknown,Boots apotek Rakkestad
+unknown,boots_no,Lilleengveien  8 1523 Moss,unknown,Boots apotek Lilleeng Helsepark
+unknown,boots_no,Vestrevei  4 1710 Sarpsborg,unknown,Boots apotek Lande
+unknown,boots_no,Kråkerøyveien  2A 1671 Kråkerøy,unknown,Boots apotek Kråkerøy
+unknown,boots_no,Helgerødgata  36 1515 Moss,unknown,Boots apotek Jeløy
+unknown,boots_no,Helgebyveien  8 1734 Hafslundsøy,unknown,Boots Apotek Hafslundsøy
+unknown,boots_no,Mosseveien  16 1610 Fredrikstad,unknown,Boots apotek Fredrikstad
+unknown,boots_no,Engelsvikenveien 155 1626 Manstad,unknown,Boots apotek Elingaardkilen
+unknown,boots_no,Skolegata  11 1830 Askim,unknown,Boots apotek Askim
+unknown,boots_no,Åsane Storsenter Åsane Senter 42 5116 Ulset,unknown,Boots apotek Åsane
+unknown,boots_no,Krokatjønnveien  11A 5147 Fyllingsdalen,unknown,Boots apotek Spelhaugen
+unknown,boots_no,Sartor Storsenter Sartorvegen 12 5353 Straume,unknown,Boots apotek Sotra
+unknown,boots_no,Sartor Storsenterinngang ved Bunnpris 5353 Straume,unknown,Boots apotek Sartor Storsenter
+unknown,boots_no,Aurdalslia  14 5253 Sandsli,unknown,Boots apotek Sandsli
+unknown,boots_no,Smelteverket  14 5750 Odda,unknown,Boots apotek Odda
+unknown,boots_no,Kaien  9 5600 Norheimsund,unknown,Boots apotek Norheimsund
+unknown,boots_no,Østre Nesttunvegen  16 5221 Nesttun,unknown,Boots apotek Nesttun
+unknown,boots_no,Vestkanten Loddefjordvn. 2 5171 Loddefjord,unknown,Boots apotek Loddefjord
+unknown,boots_no,Hardangerfjordvegen  615 5610 Øystese,unknown,Boots apotek Linnea
+unknown,boots_no,Kilden senter Søråshøgda 9 5235 Rådal,unknown,Boots apotek Kilden
+unknown,boots_no,Folke Bernadottes vei  52 5147 Fyllingsdalen,unknown,Boots apotek Fyllingsdalen
+unknown,boots_no,Øyrane Torg Ådnavegen 63 5260 Indre Arna,unknown,Boots apotek Arna
+unknown,boots_no,Tolvsrødsenteret Valløvn. 56b 3152 Tolvsrød,unknown,Boots apotek Tolvsrød
+unknown,boots_no,Kostegata  1 3070 Sande i Vestfold,unknown,Boots apotek Sande
+unknown,boots_no,Kåpeveien 5 3174 Revetal,unknown,Boots apotek Revetal
+unknown,boots_no,Gauterødveien  6B 3154 Tolvsrød,unknown,Boots apotek Olsrød
+unknown,boots_no,Trimveien  41 3188 Horten,unknown,Boots apotek Horten Handelspark
+unknown,boots_no,Langgaten  35 3080 Holmestrand,unknown,Boots apotek Holmestrand
+unknown,boots_no,Nordgata 12 - 16 - MEGA 7650 Verdal,unknown,Boots apotek Verdal
+unknown,boots_no,Anders Estenstads veg  18 7046 Trondheim,unknown,Boots apotek Valentinlyst
+unknown,boots_no,Stokmovegen  2 7500 Stjørdal,unknown,Boots apotek Torgkvartalet
+unknown,boots_no,Ivar Lykkes veg  1 7075 Tiller,unknown,Boots apotek Tiller
+unknown,boots_no,Svebergvegen  3 7550 Hommelvik,unknown,Boots apotek Sveberg
+unknown,boots_no,Kjøpmannsgata  28 7500 Stjørdal,unknown,Boots apotek Stjørdal
+unknown,boots_no,Rådhusvegen  14 7353 Børsa,unknown,Boots apotek Skaun
+unknown,boots_no,Nestansringen  10 7580 Selbu,unknown,Boots apotek Selbu
+unknown,boots_no,Reier Søbstads veg  3 7078 Saupstad,unknown,Boots apotek Saupstad
+unknown,boots_no,Ingeborg Aas' veg  2 7036 Trondheim,unknown,Boots apotek Risvollan
+unknown,boots_no,Orkdalsveien  58 7300 Orkanger,unknown,Boots apotek Orkla
+unknown,boots_no,Nordre gate  5 7011 Trondheim,unknown,Boots apotek Nordre
+unknown,boots_no,Nardo senteret  Hans Baucks vei 1 7033 Trondheim,unknown,Boots apotek Nardo
+unknown,boots_no,Magneten Kjøpesenter 7606 Levanger,unknown,Boots apotek Magneten
+unknown,boots_no,Østmarkveien  2 7040 Trondheim,unknown,Boots apotek LadeTorget
+unknown,boots_no,Nessjordet  3 7670 Inderøy,unknown,Boots apotek Inderøy
+unknown,boots_no,Ringvålvegen  3-7 7080 Heimdal,unknown,Boots apotek Heimdal
+unknown,boots_no,Sandaveien 27 7350 Buvika,unknown,Boots Apotek Buvika
+unknown,boots_no,Magnus den Godes veg  23 7650 Verdal,unknown,Boots Apotek Alti Verdal
+unknown,boots_no,Verkstedveien  7 9406 Harstad,unknown,Boots apotek Sjøkanten
+unknown,boots_no,Manetv  2 9100 Kvaløysletta,unknown,Boots apotek Kvaløysletta
+unknown,boots_no,Heilovegen  19 9015 Tromsø,unknown,Boots apotek Jekta
+unknown,boots_no,Kjølebrøndsveien  1 3766 Sannidal,unknown,Boots apotek Sannidal
+unknown,boots_no,Cappelens gate  15 3722 Skien,unknown,Boots apotek Medicus Skien
+unknown,boots_no,Nansetgata  8 3256 Larvik,unknown,Boots apotek Larvik
+unknown,boots_no,Brotorvet senter Gangveien 10 3960 Stathelle,unknown,Boots apotek Brotorvet
+unknown,boots_no,Skippergaten 11 5527 Haugesund,unknown,"Boots apotek Ørnen, Haugesund"
+unknown,boots_no,Skibmannsvegen 3 4056 Tananger,unknown,Boots apotek Tananger
+unknown,boots_no,Solakrossen 13 4097 Sola,unknown,Boots apotek Sola
+unknown,boots_no,Sandsvegen 2 4230 Sand,unknown,Boots apotek Sand
+unknown,boots_no,Holbergsgaten 15 4306 Sandnes,unknown,Boots apotek Samarit
+unknown,boots_no,Austrheimvegen  10 5516 Haugesund,unknown,Boots apotek Kvalasenteret (Haugesund)
+unknown,boots_no,Austre Karmøyveg 130 4250 Kopervik,unknown,Boots apotek Kopervik
+unknown,boots_no,Hundvåg senteret Hundvågveien 47 4085 Hundvåg,unknown,Boots apotek Hundvåg
+unknown,boots_no,Hillevågsveien  24 4016 Stavanger,unknown,Boots apotek Hillevåg
+unknown,boots_no,Oasen Storsenter Austbøvegen 16 5542 Karmsund,unknown,Boots apotek Havfruen
+unknown,boots_no,Jupitervegen 2 4340 Bryne,unknown,Boots apotek Bryne
+unknown,boots_no,Årvollvn. 17-21 0590 Oslo,unknown,Boots Apotek Årvoll
+unknown,boots_no,Ruseløkkveien  26 0251 Oslo,unknown,Boots Apotek Via Vika
+unknown,boots_no,Hagegata 28 0653 Oslo,unknown,Boots apotek Tøyen 
+unknown,boots_no,Vitaminveien 7-9 0485 Oslo,unknown,Boots apotek Storo
+unknown,boots_no,Henrik Ibsens gate 90 0255 Oslo,unknown,Boots apotek Solli
+unknown,boots_no,Slemdal senter Stasjonsveien 2-4 0776 Oslo,unknown,Boots apotek Slemdal
+unknown,boots_no,Karenslyst allé 9 0278 Oslo,unknown,Boots apotek Skøyen
+unknown,boots_no,Sentralhallen   Oslo S 0154 Oslo,unknown,Boots apotek Oslo S
+unknown,boots_no,Haakon Tveters vei 88 0686 Oslo,unknown,Boots apotek Oppsal
+unknown,boots_no,Helga Vaneksvei 1 F 1281 Oslo,unknown,Boots apotek Mortensrud Torg
+unknown,boots_no,Linderud Senter 0594 Oslo,unknown,Boots apotek Linderud
+unknown,boots_no,Lambertseterveien  35 1150 Oslo,unknown,Boots apotek Lambertseter
+unknown,boots_no,Sofienberggt. 6 0551 Oslo,unknown,Boots apotek Grünerløkka
+unknown,boots_no,Bergensveien 2 0963 Oslo,unknown,Boots apotek Grorud
+unknown,boots_no,Utmarkv  1 0691 Oslo,unknown,Boots apotek Bøler
+unknown,boots_no,Bogstadveien 34 0366 Oslo,unknown,Boots apotek Bogstadveien
+unknown,boots_no,Theresesgt. 36 0168 Oslo,unknown,Boots apotek Bislett
+unknown,boots_no,SkibsgårdenStrandgt.12 8400 Sortland,unknown,Boots apotek Sortland
+unknown,boots_no,Sjøgata 6 8006 Bodø,unknown,Boots apotek Sentrumsgården
+unknown,boots_no,Havnesenteret Storgata 58 8900 Brønnøysund,unknown,Boots apotek Brønnøysund
+unknown,boots_no,AMFI Surnadal Øravegen 4 6650 Surnadal,unknown,Boots apotek Surnadal
+unknown,boots_no,Storgata 23 6413 Molde,unknown,Boots apotek Molde
+unknown,boots_no,Langelandsveien 13 6010 Ålesund,unknown,Boots apotek Moa
+unknown,boots_no,Strandgata 40 6270 Brattvåg,unknown,Boots apotek Haram
+unknown,boots_no,Torget 10 6440 Elnesvågen,unknown,Boots apotek Fræna
+unknown,boots_no,Hundervegen  17 2636 Øyer,unknown,Boots apotek Øyer
+unknown,boots_no,Vålgutua  204 2436 Våler i Solør,unknown,Boots apotek Våler
+unknown,boots_no,Vikavegen  15A 2312 Ottestad,unknown,Boots apotek Vikasenteret
+unknown,boots_no,Brugata  20 2500 Tynset,unknown,Boots apotek Tynset
+unknown,boots_no,Stange Bruk Romedalvn. 4 2335 Stange,unknown,Boots apotek Stange Bruk
+unknown,boots_no,Torget  5 2450 Rena,unknown,Boots apotek Rena
+unknown,boots_no,Torggata  81-83 2317 Hamar,unknown,Boots apotek Løven Hamar
+unknown,boots_no,Storgata  64B 2609 Lillehammer,unknown,Boots apotek Lillehammer
+unknown,boots_no,Kirkevegen  4 2406 Elverum,unknown,Boots apotek Kremmertorget
+unknown,boots_no,Coop Kjemsjøveien  2 2480 Koppang,unknown,Boots apotek Koppang
+unknown,boots_no,Aslak Bolts Gate  48 2316 Hamar,unknown,Boots apotek Hamar
+unknown,boots_no,Kaffegata  23 2270 Flisa,unknown,Boots apotek Flisa
+unknown,boots_no,Torggata  3 2408 Elverum,unknown,Boots apotek Elverum
+unknown,boots_no,Altaveien  281 9515 Alta,unknown,"Boots apotek Elvebakken, Alta"
+unknown,boots_no,Sorenskriverveien  13 9511 Alta,unknown,Boots apotek Alta
+unknown,boots_no,Bjørneparken Kjøpesenter 3539 Flå,unknown,Boots medisinutsalg Flå
+unknown,boots_no,Ålingen kjøpesenter Myren  19 3570 Ål,unknown,Boots apotek Ål
+unknown,boots_no,Storgata  30 3611 Kongsberg,unknown,Boots apotek Sølvkronen
+unknown,boots_no,Fransåsveien  2 3475 Sætre,unknown,Boots apotek Sætre
+unknown,boots_no,Storgaten  92 3060 Svelvik,unknown,Boots apotek Svelvik
+unknown,boots_no,Bjørnstjerne Bjørnsons gate  60 3044 Drammen,unknown,Boots apotek Strømsø Senter
+unknown,boots_no,Strømsø torg  9 3044 Drammen,unknown,Boots apotek Strømsø
+unknown,boots_no,Jordeshagen  3 3540 Nesbyen,unknown,Boots apotek Nesbyen
+unknown,boots_no,Pettersvollen  3 3032 Drammen,unknown,Boots apotek Konnerud
+unknown,boots_no,Sentrumsveien  28 3647 Hvittingfoss,unknown,Boots apotek Hvittingfoss
+unknown,boots_no,Østre Strandvei  36 3482 Tofte,unknown,Boots apotek Hurum
+unknown,boots_no,Vik Torg 3530 Røyse,unknown,Boots apotek Hole
+unknown,boots_no,Stasjonsgata  85 3300 Hokksund,unknown,Boots apotek Hokksund
+unknown,boots_no,Kremmartunet Sentrumsvegen 116 3550 Gol,unknown,Boots apotek Gol
+unknown,boots_no,Kyrkjevegen  2 3581 Geilo,unknown,Boots apotek Geilo
+unknown,boots_no,Rosenkrantzgata  17 3018 Drammen,unknown,Boots Apotek Drammen Legevakt
+unknown,boots_no,Rådhusplassen  29-30 1430 Ås,unknown,Boots apotek Ås
+unknown,boots_no,Sentrumsveien 7 1540 Vestby,unknown,Boots apotek Vestby
+unknown,boots_no,Jessheim Storsenter 2050 Jessheim,unknown,Boots apotek Ullensaker
+unknown,boots_no,Triaden Lørenskog Storsenter Gamleveien 88 1476 Rasta,unknown,Boots Apotek Triaden
+unknown,boots_no,Villavn. 2 1920 Sørumsand,unknown,Boots apotek Sørumsand
+unknown,boots_no,Strømmen storsenter Støperiveien  5 2010 Strømmen,unknown,Boots apotek Strømmen
+unknown,boots_no,Rortunet Senter 3470 Slemmestad,unknown,Boots apotek Slemmestad
+unknown,boots_no,Nordens vei  15 2013 Skjetten,unknown,Boots apotek Skjetten
+unknown,boots_no,Tollbodgata  6 4611 Kristiansand,unknown,Boots apotek Kristiansand
+unknown,boots_no,Langsæv.5 Harebakken senter 4846 Arendal,unknown,Boots apotek Harebakken
+unknown,church_of_england_gb,Moss,unknown,Anglican congregation in Moss
+unknown,church_of_england_gb,Sandefjord,unknown,Anglican congregation in Sandefjord
+unknown,church_of_england_gb,Tromsö,unknown,Tromsø Anglicans
+unknown,church_of_england_gb,Balestrand,unknown,St Olaf
+unknown,church_of_england_gb,Mariakirken Dreggsallmenningen 15 Bergen,unknown,Anglican congregation in Bergen
+unknown,church_of_england_gb,Drammen,unknown,Anglican congregation in Drammen
+unknown,church_of_england_gb,Kristiansand,unknown,Anglican congregation in Kristiansand
+unknown,church_of_england_gb,Møllergata 30 Oslo,unknown,"St Edmund's Anglican Church, Oslo"
+unknown,church_of_england_gb,Domkirken og St Petri Menighetshus Rektor Steens gate 7 Stavanger,unknown,Anglican congregation in Stavanger
+unknown,church_of_england_gb,Kongsgårdsgata 2 Trondheim,unknown,Trondheim Anglicans
+Øyer,circle_k_no,,unknown,CIRCLE K E6 ØYER
+Tretten,circle_k_no,,unknown,CIRCLE K TRETTEN
+Vågå,circle_k_no,,unknown,CIRCLE K VÅGÅ
+Nordberg,circle_k_no,,unknown,CIRCLE K NORDBERG
+Ringebu,circle_k_no,,unknown,CIRCLE K RINGEBU
+Lillehammer,circle_k_no,,unknown,CIRCLE K STRANDTORGET
+Vestre Gausdal,circle_k_no,,unknown,CIRCLE K AUTOMAT GAUSDAL
+Kvam,circle_k_no,,unknown,CIRCLE K AUTOMAT KVAM
+Sør-fron,circle_k_no,,unknown,CIRCLE K SØR-FRON
+Vinstra,circle_k_no,,unknown,CIRCLE K E6 VINSTRA
+Dombås,circle_k_no,,unknown,CIRCLE K E6 DOMBÅS
+Koppang,circle_k_no,,unknown,CIRCLE K STAI
+Næroset,circle_k_no,,unknown,CIRCLE K AUTOMAT NÆROSET
+Hamar,circle_k_no,,unknown,CIRCLE K AUTOMAT HAMAR
+Engerdal,circle_k_no,,unknown,CIRCLE K AUTOMAT ENGERDAL
+Halden,circle_k_no,,unknown,CIRCLE K AUTOMAT HALDEN
+Larvik,circle_k_no,,unknown,CIRCLE K TORSTRAND
+OSLO,circle_k_no,,unknown,CIRCLE K LADER ULLEVAAL STADION
+KRISTIANSAND S,circle_k_no,,unknown,CIRCLE K ELVEGATEN
+Dalekvam,circle_k_no,,unknown,CIRCLE K LADER DALE CAFE
+Gjettum,circle_k_no,,unknown,CIRCLE K AUTOMAT BÆRUMSVEI
+Haugesund,circle_k_no,,unknown,CIRCLE K KVALA
+Krokstadelva,circle_k_no,,unknown,CIRCLE K AUTOMAT KROKSTADELVA
+Lonevåg,circle_k_no,,unknown,CIRCLE K AUTOMAT LONEVÅG
+Tromsø,circle_k_no,,unknown,CIRCLE K BREIVIKA
+Godvik,circle_k_no,,unknown,CIRCLE K AUTOMAT GODVIK
+Isdalstø,circle_k_no,,unknown,CIRCLE K AUTOMAT KNARVIK
+Grimstad,circle_k_no,,unknown,CIRCLE K GRIMSTAD
+Rubbestadneset,circle_k_no,,unknown,CIRCLE K AUTOMAT BØMLO
+Trondheim,circle_k_no,,unknown,CIRCLE K BYÅSEN
+Arendal,circle_k_no,,unknown,CIRCLE K AUTOMAT KRYSSET - ARENDAL
+Granvin,circle_k_no,,unknown,CIRCLE K AUTOMAT GRANVIN
+Haugsvær,circle_k_no,,unknown,CIRCLE K AUTOMAT HAUGSVÆR
+Verdal,circle_k_no,,unknown,CIRCLE K AUTOMAT BOBY'N
+Vinterbro,circle_k_no,,unknown,CIRCLE K AUTOMAT TUSENFRYD
+Borgenhaugen,circle_k_no,,unknown,CIRCLE K AUTOMAT HAFSLUND
+Stavanger,circle_k_no,,unknown,CIRCLE K AUTOMAT LAGÅRDSVEIEN
+Lillesand,circle_k_no,,unknown,CIRCLE K AUTOMAT LILLESAND
+Aurland,circle_k_no,,unknown,CIRCLE K AUTOMAT AURLAND
+Vinje,circle_k_no,,unknown,"CIRCLE K AUTOMAT ÅMOT, YTRE VINJE"
+Nærbø,circle_k_no,,unknown,CIRCLE K NÆRBØ
+Hundvåg,circle_k_no,,unknown,CIRCLE K AUTOMAT HUNDVÅG
+Lier,circle_k_no,,unknown,CIRCLE K LIERBYEN
+Kristiansand,circle_k_no,,unknown,CIRCLE K AUTOMAT SØRLANDSPARKEN
+Tønsberg,circle_k_no,,unknown,CIRCLE K TØNSBERG
+Kopervik,circle_k_no,,unknown,CIRCLE K AUTOMAT KOPERVIK
+Hafrsfjord,circle_k_no,,unknown,CIRCLE K AUTOMAT  HAFRSFJORD
+Balestrand,circle_k_no,,unknown,CIRCLE K AUTOMAT BALESTRAND
+Odda,circle_k_no,,unknown,CIRCLE K AUTOMAT ODDA
+Bergen,circle_k_no,,unknown,CIRCLE K HELLEVEIEN
+Kongsberg,circle_k_no,,unknown,CIRCLE K KONGSBERG
+Moi,circle_k_no,,unknown,CIRCLE K AUTOMAT MOI
+Notodden,circle_k_no,,unknown,CIRCLE K HEDDAL
+Sande i Vestfold,circle_k_no,,unknown,CIRCLE K AUTOMAT SANDE
+Skien,circle_k_no,,unknown,CIRCLE K NYLENDE
+Kleppestø,circle_k_no,,unknown,CIRCLE K AUTOMAT ASKØY
+Brennåsen,circle_k_no,,unknown,CIRCLE K AUTOMAT BRENNÅSEN
+Mysen,circle_k_no,,unknown,CIRCLE K AUTOMAT MYSEN
+Byrkjelo,circle_k_no,,unknown,CIRCLE K AUTOMAT BYRKJELO
+Rena,circle_k_no,,unknown,CIRCLE K AUTOMAT RENA
+Berg i Østfold,circle_k_no,,unknown,CIRCLE K TRUCK HALDEN
+Helgeroa,circle_k_no,,unknown,CIRCLE K AUTOMAT HELGEROA
+Lillestrøm,circle_k_no,,unknown,CIRCLE K AUTOMAT LILLESTRØM
+Porsgrunn,circle_k_no,,unknown,CIRCLE K TELEMARKSPORTEN
+Vanse,circle_k_no,,unknown,CIRCLE K AUTOMAT VANSE
+Oslo,circle_k_no,,unknown,CIRCLE K BØLER
+Levanger,circle_k_no,,unknown,CIRCLE K MOAN
+Nybergsund,circle_k_no,,unknown,CIRCLE K AUTOMAT NYBERGSUND
+Ålesund,circle_k_no,,unknown,CIRCLE K AUTOMAT HATLANE
+Eide,circle_k_no,,unknown,CIRCLE K AUTOMAT EIDE
+Auli,circle_k_no,,unknown,CIRCLE K AUTOMAT AULI
+Evje,circle_k_no,,unknown,CIRCLE K AUTOMAT  EVJE
+Kirkenes,circle_k_no,,unknown,CIRCLE K AUTOMAT KIRKENES
+Dokka,circle_k_no,,unknown,CIRCLE K AUTOMAT DOKKA
+Rjukan,circle_k_no,,unknown,CIRCLE K TRUCK RJUKAN
+Hønefoss,circle_k_no,,unknown,CIRCLE K HØNEFOSS
+Kongsvinger,circle_k_no,,unknown,CIRCLE K AUTOMAT LANGELAND
+Raufoss,circle_k_no,,unknown,CIRCLE K RAUFOSS
+Volda,circle_k_no,,unknown,CIRCLE K VOLDA
+Florø,circle_k_no,,unknown,CIRCLE K FLORØ
+Hovin i Telemark,circle_k_no,,unknown,CIRCLE K AUTOMAT OPPBYGDA
+SURNADAL,circle_k_no,,unknown,CIRCLE K TRUCK SURNADAL
+Øydegard,circle_k_no,,unknown,CIRCLE K TRUCK ØYDEGARD
+Longyearbyen,circle_k_no,,unknown,CIRCLE K AUTOMAT SVALBARD
+Stranda,circle_k_no,,unknown,CIRCLE K AUTOMAT STRANDA
+BØSTAD,circle_k_no,,unknown,CIRCLE K TRUCK BØSTAD
+VINSTRA,circle_k_no,,unknown,CIRCLE K BILVASK VINSTRA
+TYNSET,circle_k_no,,unknown,CIRCLE K TRUCK TYNSET
+Lærdal,circle_k_no,,unknown,CIRCLE K TRUCK LÆRDAL
+SANDNES,circle_k_no,,unknown,CIRCLE K AUTOMAT SANDNESPORTEN
+Eleverum,circle_k_no,,unknown,CIRCLE K TRUCK ELVERUM
+TVEDESTRAND,circle_k_no,,unknown,CIRCLE K AUTOMAT FIANE
+Nordfjordeid,circle_k_no,,unknown,CIRCLE K EID
+Undheim,circle_k_no,,unknown,CIRCLE K AUTOMAT UNDHEIM
+KONGSBERG,circle_k_no,,unknown,CIRCLE K KONGSBERGPORTEN
+SUNNDALSØRA,circle_k_no,,unknown,CIRCLE K TRUCK SUNNDALSØRA
+STATHELLE,circle_k_no,,unknown,CIRCLE K E18 BAMBLE
+SANDEFJORD,circle_k_no,,unknown,CIRCLE K BILVASK HAUKERØD
+Aksdal,circle_k_no,,unknown,CIRCLE K TRUCK GISMARVIK
+Oteren,circle_k_no,,unknown,CIRCLE K AUTOMAT HATTENG
+Skei i Jølster,circle_k_no,,unknown,CIRCLE K SKEI
+Tananger,circle_k_no,,unknown,CIRCLE K TRUCK RISAVIKA
+Frei,circle_k_no,,unknown,CIRCLE K TRUCK SØDALEN
+Greåker,circle_k_no,,unknown,CIRCLE K AUTOMAT GREÅKER
+Slinde,circle_k_no,,unknown,CIRCLE K AUTOMAT SLINDE
+Skudeneshavn,circle_k_no,,unknown,CIRCLE K SKUDENESHAVN
+Sande i Sunnfjord,circle_k_no,,unknown,CIRCLE K TRUCK SANDE
+Tangen,circle_k_no,,unknown,CIRCLE K E6 INNLANDSPORTEN
+Rygge,circle_k_no,,unknown,CIRCLE K E6 RYGGE
+Skodje,circle_k_no,,unknown,CIRCLE K DIGERNESET
+Høydalsmo,circle_k_no,,unknown,CIRCLE K HØYDALSMO
+Nyborg,circle_k_no,,unknown,CIRCLE K HAUKÅS
+Sunndalsøra,circle_k_no,,unknown,CIRCLE K SUNNDALSØRA
+Sykkylven,circle_k_no,,unknown,CIRCLE K SYKKYLVEN
+Mo i Rana,circle_k_no,,unknown,CIRCLE K GRUBHEI
+Støren,circle_k_no,,unknown,CIRCLE K E6 STØREN
+Sandefjord,circle_k_no,,unknown,CIRCLE K HAUKERØD
+Askim,circle_k_no,,unknown,CIRCLE K ASKIM
+Minnesund,circle_k_no,,unknown,CIRCLE K E6 MINNESUND
+Fauske,circle_k_no,,unknown,CIRCLE K FAUSKE
+Stange,circle_k_no,,unknown,CIRCLE K STANGE
+Oppdal,circle_k_no,,unknown,CIRCLE K OPPDAL
+Sandstad,circle_k_no,,unknown,CIRCLE K AUTOMAT HITRA
+Heimdal,circle_k_no,,unknown,CIRCLE K AUTOMAT HEIMDAL
+Spillum,circle_k_no,,unknown,CIRCLE K NAMSOS
+Hagan,circle_k_no,,unknown,CIRCLE K TRUCK GJELLERÅSEN
+Sandnes,circle_k_no,,unknown,CIRCLE K HANA
+Fornebu,circle_k_no,,unknown,CIRCLE K FORNEBU
+Østre Gausdal,circle_k_no,,unknown,CIRCLE K SEGALSTAD BRU
+Åmot,circle_k_no,,unknown,CIRCLE K ÅMOT
+Ualand,circle_k_no,,unknown,CIRCLE K TRUCK UALAND
+Gjøvik,circle_k_no,,unknown,CIRCLE K KOPPERUD
+Harstad,circle_k_no,,unknown,CIRCLE K HARSTAD
+Tau,circle_k_no,,unknown,CIRCLE K TAU
+Ågotnes,circle_k_no,,unknown,CIRCLE K TRUCK CCB
+Evenes,circle_k_no,,unknown,CIRCLE K EVENES
+Sandnessjøen,circle_k_no,,unknown,CIRCLE K AUTOMAT SANDNESSJØEN
+Tjøme,circle_k_no,,unknown,CIRCLE K AUTOMAT TJØME
+Frogner,circle_k_no,,unknown,CIRCLE K AUTOMAT FROGNER - AKERSHUS
+Trysil,circle_k_no,,unknown,CIRCLE K TRYSIL
+Sømna,circle_k_no,,unknown,CIRCLE K BERG
+KRISTIANSUND N,circle_k_no,,unknown,CIRCLE K AUTOMAT VIADUKTEN
+Brattvåg,circle_k_no,,unknown,CIRCLE K AUTOMAT BRATTVÅG
+Korgen,circle_k_no,,unknown,CIRCLE K KORGEN
+Lørenskog,circle_k_no,,unknown,CIRCLE K LØRENSKOG
+Mosjøen,circle_k_no,,unknown,CIRCLE K MOSJØEN
+Meisingset,circle_k_no,,unknown,CIRCLE K AUTOMAT MEISINGSET
+Vestby,circle_k_no,,unknown,CIRCLE K E6 VESTBY
+Ulset,circle_k_no,,unknown,CIRCLE K ULSET
+Gol,circle_k_no,,unknown,CIRCLE K GOL
+Bodø,circle_k_no,,unknown,CIRCLE K OLAV V'S GATE
+Førde,circle_k_no,,unknown,CIRCLE K TRUCK FØRDE
+Fredrikstad,circle_k_no,,unknown,CIRCLE K FRESKOVEIEN
+Kvelde,circle_k_no,,unknown,CIRCLE K TRUCK KVELDE
+Førresfjorden,circle_k_no,,unknown,CIRCLE K TRUCK SCANIA SØR
+Drammen,circle_k_no,,unknown,CIRCLE K ROSENKRANTZGATA
+Fusa,circle_k_no,,unknown,CIRCLE K AUTOMAT FUSA
+Bardufoss,circle_k_no,,unknown,CIRCLE K BARDUFOSS
+Furnes,circle_k_no,,unknown,CIRCLE K E6 FURNES
+Gardermoen,circle_k_no,,unknown,CIRCLE K GARDERMOEN
+Holmestrand,circle_k_no,,unknown,CIRCLE K E18 GRELLAND
+Fyllingsdalen,circle_k_no,,unknown,CIRCLE K AUTOMAT FYLLINGSDALEN
+Myre,circle_k_no,,unknown,CIRCLE K AUTOMAT MYRE
+Olden,circle_k_no,,unknown,CIRCLE K AUTOMAT OLDEN
+Orkanger,circle_k_no,,unknown,CIRCLE K TRUCK ORKDAL
+Sarpsborg,circle_k_no,,unknown,CIRCLE K ALVIM
+Gamle Fredrikstad,circle_k_no,,unknown,CIRCLE K ØSTSIDEN
+Stord,circle_k_no,,unknown,CIRCLE K LEIRVIK
+Dovreskogen,circle_k_no,,unknown,CIRCLE K TRUCK DOVRESKOGEN
+Sortland,circle_k_no,,unknown,CIRCLE K SORTLAND
+Moss,circle_k_no,,unknown,CIRCLE K MOSSEPORTEN
+Røyse,circle_k_no,,unknown,CIRCLE K VIK
+Seljord,circle_k_no,,unknown,CIRCLE K SELJORD
+Molde,circle_k_no,,unknown,CIRCLE K AUTOMAT JULSUNDVEIEN
+Stokmarknes,circle_k_no,,unknown,CIRCLE K STOKMARKNES
+Moen,circle_k_no,,unknown,CIRCLE K E6 BUKTAMO
+Storslett,circle_k_no,,unknown,CIRCLE K STORSLETT
+Skibotn,circle_k_no,,unknown,CIRCLE K E6 SKIBOTN
+Hammerfest,circle_k_no,,unknown,CIRCLE K HAMMERFEST
+Karasjok,circle_k_no,,unknown,CIRCLE K KARASJOK
+Risør,circle_k_no,,unknown,CIRCLE K RISØR
+Narvik,circle_k_no,,unknown,CIRCLE K E6 NARVIK
+Lundamo,circle_k_no,,unknown,CIRCLE K E6 LUNDAMO
+Sørkjosen,circle_k_no,,unknown,CIRCLE K AUTOMAT NORDREISA
+Kjøllefjord,circle_k_no,,unknown,CIRCLE K AUTOMAT KJØLLEFJORD
+Steinkjer,circle_k_no,,unknown,CIRCLE K STEINKJER
+Jevnaker,circle_k_no,,unknown,CIRCLE K JEVNAKER
+Otta,circle_k_no,,unknown,CIRCLE K E6 OTTA
+Sola,circle_k_no,,unknown,CIRCLE K AUTOMAT SOLA
+Sundebru,circle_k_no,,unknown,CIRCLE K E18 BROKELANDSHEIA
+Lavik,circle_k_no,,unknown,CIRCLE K AUTOMAT LAVIK
+Storsteinnes,circle_k_no,,unknown,CIRCLE K AUTOMAT STORSTEINNES
+Hyllestad,circle_k_no,,unknown,CIRCLE K AUTOMAT HYLLESTAD
+Åsgårdstrand,circle_k_no,,unknown,CIRCLE K ÅSGÅRDSTRAND
+Mjøndalen,circle_k_no,,unknown,CIRCLE K MJØNDALEN
+Blomsterdalen,circle_k_no,,unknown,CIRCLE K FLESLAND
+Ørje,circle_k_no,,unknown,CIRCLE K ØRJE
+Skogsvåg,circle_k_no,,unknown,CIRCLE K SKOGSVÅG
+Havøysund,circle_k_no,,unknown,CIRCLE K AUTOMAT HAVØYSUND
+Vadsø,circle_k_no,,unknown,CIRCLE K VADSØ
+Meldal,circle_k_no,,unknown,CIRCLE K AUTOMAT MELDAL
+Berlevåg,circle_k_no,,unknown,CIRCLE K AUTOMAT BERLEVÅG
+Tiller,circle_k_no,,unknown,CIRCLE K ROSTEN
+Høylandet,circle_k_no,,unknown,CIRCLE K HØYLANDET
+Tjeldstø,circle_k_no,,unknown,CIRCLE K AUTOMAT TJELDSTØ
+Rypefjord,circle_k_no,,unknown,CIRCLE K RYPEFJORD
+Hommersåk,circle_k_no,,unknown,CIRCLE K HOMMERSÅK
+Sandsli,circle_k_no,,unknown,CIRCLE K SANDSLI
+Sandvika,circle_k_no,,unknown,CIRCLE K SANDVIKA
+Ål,circle_k_no,,unknown,CIRCLE K ÅL
+Namsskogan,circle_k_no,,unknown,CIRCLE K NAMSSKOGAN
+Reine,circle_k_no,,unknown,CIRCLE K REINE
+Brumunddal,circle_k_no,,unknown,CIRCLE K BRUMUNDDAL
+Dal,circle_k_no,,unknown,CIRCLE K E6 DAL
+Kvikne,circle_k_no,,unknown,CIRCLE K AUTOMAT KVIKNE
+Røkland,circle_k_no,,unknown,CIRCLE K RØKLAND
+Langhus,circle_k_no,,unknown,CIRCLE K LANGHUS
+Årnes,circle_k_no,,unknown,CIRCLE K ÅRNES
+Elverum,circle_k_no,,unknown,CIRCLE K ELVERUM
+Horten,circle_k_no,,unknown,CIRCLE K AUTOMAT HOLTANDALEN
+Tranby,circle_k_no,,unknown,CIRCLE K TRANBY
+Kragerø,circle_k_no,,unknown,CIRCLE K KRAGERØ
+Krokelvdalen,circle_k_no,,unknown,CIRCLE K AUTOMAT KROKEN
+Hauglandshella,circle_k_no,,unknown,CIRCLE K RAVNANGER
+Egersund,circle_k_no,,unknown,CIRCLE K EGERSUND
+Tjelta,circle_k_no,,unknown,CIRCLE K TJELTA
+Rossfjordstraumen,circle_k_no,,unknown,CIRCLE K AUTOMAT ROSSFJORDSTRAUMEN
+Husnes,circle_k_no,,unknown,CIRCLE K HUSNES
+Svolvær,circle_k_no,,unknown,CIRCLE K SVOLVÆR
+Leknes,circle_k_no,,unknown,CIRCLE K LEKNES
+Hesseng,circle_k_no,,unknown,CIRCLE K HESSENG
+Sørreisa,circle_k_no,,unknown,CIRCLE K AUTOMAT SØRREISA
+Lakselv,circle_k_no,,unknown,CIRCLE K LAKSELV
+Ramberg,circle_k_no,,unknown,CIRCLE K AUTOMAT RAMBERG
+Finnsnes,circle_k_no,,unknown,CIRCLE K FINNSNES
+Kautokeino,circle_k_no,,unknown,CIRCLE K KAUTOKEINO
+Båtsfjord,circle_k_no,,unknown,CIRCLE K AUTOMAT BÅTSFJORD
+Bardu,circle_k_no,,unknown,CIRCLE K SETERMOEN
+Meistervik,circle_k_no,,unknown,CIRCLE K AUTOMAT MEISTERVIK
+Nordkjosbotn,circle_k_no,,unknown,CIRCLE K E6 NORDKJOSBOTN
+Alta,circle_k_no,,unknown,CIRCLE K ALTA
+Ålen,circle_k_no,,unknown,CIRCLE K AUTOMAT ÅLEN
+Brekstad,circle_k_no,,unknown,CIRCLE K BREKSTAD
+Rørvik,circle_k_no,,unknown,CIRCLE K RØRVIK
+Tynset,circle_k_no,,unknown,CIRCLE K TYNSET
+Leinstrand,circle_k_no,,unknown,CIRCLE K E6 KLETT
+Stjørdal,circle_k_no,,unknown,CIRCLE K STJØRDAL
+Snåsa,circle_k_no,,unknown,CIRCLE K AUTOMAT SNÅSA
+Skaun,circle_k_no,,unknown,CIRCLE K AUTOMAT SKAUN
+Brekkebygd,circle_k_no,,unknown,CIRCLE K AUTOMAT BREKKEN
+Røros,circle_k_no,,unknown,CIRCLE K RØROS
+Rissa,circle_k_no,,unknown,CIRCLE K AUTOMAT RISSA
+Rennebu,circle_k_no,,unknown,CIRCLE K E6 BERKÅK
+Overhalla,circle_k_no,,unknown,CIRCLE K OVERHALLA
+Løkken Verk,circle_k_no,,unknown,CIRCLE K LØKKEN
+Hommelvik,circle_k_no,,unknown,CIRCLE K HOMMELVIK
+Nordli,circle_k_no,,unknown,CIRCLE K AUTOMAT NORDLI
+Harran,circle_k_no,,unknown,CIRCLE K HARRAN
+Flatanger,circle_k_no,,unknown,CIRCLE K AUTOMAT LAUVSNES
+Velfjord,circle_k_no,,unknown,CIRCLE K AUTOMAT HOMMELSTØ
+Brønnøysund,circle_k_no,,unknown,CIRCLE K AUTOMAT BRØNNØYSUND
+Alvdal,circle_k_no,,unknown,CIRCLE K ALVDAL
+Ørsta,circle_k_no,,unknown,CIRCLE K ØRSTA
+Åndalsnes,circle_k_no,,unknown,CIRCLE K ÅNDALSNES
+Midsund,circle_k_no,,unknown,CIRCLE K AUTOMAT MIDSUND
+Fosnavåg,circle_k_no,,unknown,CIRCLE K AUTOMAT FOSNAVÅG
+Hareid,circle_k_no,,unknown,CIRCLE K HAREID
+Valderøya,circle_k_no,,unknown,CIRCLE K AUTOMAT VALDERØY
+Aukra,circle_k_no,,unknown,CIRCLE K AUTOMAT AUKRA
+Voss,circle_k_no,,unknown,CIRCLE K VOSS
+Hjelledalen,circle_k_no,,unknown,CIRCLE K AUTOMAT HJELLEDALEN
+Stryn,circle_k_no,,unknown,CIRCLE K AUTOMAT STRYN
+Sogndal,circle_k_no,,unknown,CIRCLE K SOGNDAL
+Fonnes,circle_k_no,,unknown,CIRCLE K HOPE
+Hatlestrand,circle_k_no,,unknown,CIRCLE K AUTOMAT HATLESTRAND
+Øystese,circle_k_no,,unknown,CIRCLE K AUTOMAT ØYSTESE
+Dalsøyra,circle_k_no,,unknown,CIRCLE K AUTOMAT EIDSBOTN
+Sandane,circle_k_no,,unknown,CIRCLE K AUTOMAT SANDANE
+Eikefjord,circle_k_no,,unknown,CIRCLE K AUTOMAT EIKEFJORD
+Fjell,circle_k_no,,unknown,CIRCLE K FJELL
+Nesttun,circle_k_no,,unknown,CIRCLE K NESTTUN
+Finnås,circle_k_no,,unknown,CIRCLE K AUTOMAT FINNÅS
+Ølensvåg,circle_k_no,,unknown,CIRCLE K ØLENSVÅG
+Jørpeland,circle_k_no,,unknown,CIRCLE K JØRPELAND
+Tonstad,circle_k_no,,unknown,CIRCLE K AUTOMAT TONSTAD
+Randaberg,circle_k_no,,unknown,CIRCLE K RANDABERG
+Lyngdal,circle_k_no,,unknown,CIRCLE K LYNGDAL
+Kvinesdal,circle_k_no,,unknown,CIRCLE K KVINESDAL
+Kleppe,circle_k_no,,unknown,CIRCLE K KLEPP
+Sævelandsvik,circle_k_no,,unknown,CIRCLE K SÆVELANDSVIK
+Ålgård,circle_k_no,,unknown,CIRCLE K ÅLGÅRD
+Sira,circle_k_no,,unknown,CIRCLE K SIRA
+Flekkefjord,circle_k_no,,unknown,CIRCLE K FLEKKEFJORD
+Farsund,circle_k_no,,unknown,CIRCLE K FARSUND
+Vikeså,circle_k_no,,unknown,CIRCLE K VIKESÅ
+Rysstad,circle_k_no,,unknown,CIRCLE K RYSSTAD
+Lindesnes,circle_k_no,,unknown,CIRCLE K LIVOLD
+Saltrød,circle_k_no,,unknown,CIRCLE K SALTRØD
+Austbygde,circle_k_no,,unknown,CIRCLE K AUTOMAT AUSTBYGDA
+Akkerhaugen,circle_k_no,,unknown,CIRCLE K AUTOMAT AKKERHAUGEN
+Kviteseid,circle_k_no,,unknown,CIRCLE K AUTOMAT KVITESEID
+Drangedal,circle_k_no,,unknown,CIRCLE K DRANGEDAL
+Bø,circle_k_no,,unknown,CIRCLE K BØ I TELEMARK
+Stavern,circle_k_no,,unknown,CIRCLE K STAVERN
+Svarstad,circle_k_no,,unknown,CIRCLE K AUTOMAT SVARSTAD
+Revetal,circle_k_no,,unknown,CIRCLE K REVETAL
+Stokke,circle_k_no,,unknown,CIRCLE K STOKKE
+Sem,circle_k_no,,unknown,CIRCLE K SEM
+Vestskogen,circle_k_no,,unknown,CIRCLE K VESTSKOGEN
+Nykirke,circle_k_no,,unknown,CIRCLE K E18 HORTEN
+Andebu,circle_k_no,,unknown,CIRCLE K ANDEBU
+Prestfoss,circle_k_no,,unknown,CIRCLE K AUTOMAT PRESTFOSS
+Slemmestad,circle_k_no,,unknown,CIRCLE K SLEMMESTAD
+Vikersund,circle_k_no,,unknown,CIRCLE K AUTOMAT SYSLE
+Lierskogen,circle_k_no,,unknown,CIRCLE K LIERSKOGEN
+Lampeland,circle_k_no,,unknown,CIRCLE K LAMPELAND
+Bagn,circle_k_no,,unknown,CIRCLE K BAGN
+Noresund,circle_k_no,,unknown,CIRCLE K AUTOMAT NORESUND
+Geilo,circle_k_no,,unknown,CIRCLE K GEILO
+Flå,circle_k_no,,unknown,CIRCLE K GULSVIK
+Bekkestua,circle_k_no,,unknown,CIRCLE K NADDERUD
+Asker,circle_k_no,,unknown,CIRCLE K ASKER
+Hov,circle_k_no,,unknown,CIRCLE K HOV
+Fagernes,circle_k_no,,unknown,CIRCLE K AUTOMAT FAGERNES
+Hernes,circle_k_no,,unknown,CIRCLE K HERNES
+Flisa,circle_k_no,,unknown,CIRCLE K FLISA
+Skarnes,circle_k_no,,unknown,CIRCLE K SKARNES
+Ski,circle_k_no,,unknown,CIRCLE K SKI
+Råde,circle_k_no,,unknown,CIRCLE K AUTOMAT LUNDEBY
+Rakkestad,circle_k_no,,unknown,CIRCLE K RAKKESTAD
+Kolbotn,circle_k_no,,unknown,CIRCLE K KOLBOTN
+Nesoddtangen,circle_k_no,,unknown,CIRCLE K FLASKEBEKK
+Jessheim,circle_k_no,,unknown,CIRCLE K JESSHEIM
+Sørum,circle_k_no,,unknown,CIRCLE K SØRUM
+Kjeller,circle_k_no,,unknown,CIRCLE K KJELLER
+Skedsmokorset,circle_k_no,,unknown,CIRCLE K SKEDSMOKORSET
+Lunner,circle_k_no,,unknown,CIRCLE K AUTOMAT LUNNER
+Brandbu,circle_k_no,,unknown,CIRCLE K BRANDBU
+Fetsund,circle_k_no,,unknown,CIRCLE K FETSUND
+Eidsvoll Verk,circle_k_no,,unknown,CIRCLE K EIDSVOLL VERK
+Hemnes,circle_k_no,,unknown,CIRCLE K AUTOMAT HEMNES
+Hamarvik,coop_no,,unknown,Coop Prix Hamarvik
+Averøy,coop_no,,unknown,Extra Bruhagen
+Brekkebygd,coop_no,,unknown,Coop Marked Brekken
+Snåsa,coop_no,,unknown,Coop Byggmix Snåsa
+Bindalseidet,coop_no,,unknown,Coop Marked Bindalseidet
+Indre Billefjord,coop_no,,unknown,Coop Marked Billefjord
+Barstadvik,coop_no,,unknown,Coop Marked Barstadvik
+Askvoll,coop_no,,unknown,Coop Marked Askvoll
+Vikeså,coop_no,,unknown,Coop Byggmix Vikeså
+Surnadal,coop_no,,unknown,Extra Surnadal
+Rindal,coop_no,,unknown,Extra Rindal
+Kleppe,coop_no,,unknown,Coop Mega Klepp
+Øystese,coop_no,,unknown,Extra Øystese
+Ølen,coop_no,,unknown,Extra Ølen
+Ålen,coop_no,,unknown,Coop Marked Ålen
+Åheim,coop_no,,unknown,Coop Byggmix Åheim
+Bergen,coop_no,,unknown,Coop Prix Marken
+..,coop_no,,unknown,Web Butikk Obs BYGG
+Vinterbro,coop_no,,unknown,Extra Nesset
+Loddefjord,coop_no,,unknown,Extra Vadmyra
+Tromsø,coop_no,,unknown,Coop Prix Håpet
+Kristiansand,coop_no,,unknown,Coop Mega Lund
+Ålesund,coop_no,,unknown,Matkroken Vegsund
+Steinkjer,coop_no,,unknown,Coop Marked Kvam
+Slitu,coop_no,,unknown,Obs BYGG Slitu
+Straume,coop_no,,unknown,Obs Sartor
+Sandefjord,coop_no,,unknown,Coop Prix Sperretorvet
+Moss,coop_no,,unknown,Extra Jeløy
+Rudshøgda,coop_no,,unknown,Obs BYGG Rudshøgda
+Furnes,coop_no,,unknown,Obs BYGG Olrud
+Mo i Rana,coop_no,,unknown,Coop Prix Mo I Rana
+Stavanger,coop_no,,unknown,Coop Mega Gausel
+Lyngdal,coop_no,,unknown,Extra Lyngdal
+Lillestrøm,coop_no,,unknown,Coop Prix Alexander Kiellands Gt
+Rådal,coop_no,,unknown,Extra Apeltun
+Sandnes,coop_no,,unknown,Coop Marked Høle
+Jessheim,coop_no,,unknown,Extra Algarheimveien
+Nyborg,coop_no,,unknown,Extra Nyborg
+Haugesund,coop_no,,unknown,Coop Prix Rogalandsgate
+Oslo,coop_no,,unknown,Coop Mega Aker Brygge
+Harstad,coop_no,,unknown,Extra Fjordgata
+Elverum,coop_no,,unknown,Extra Grindalsmoen
+Tiller,coop_no,,unknown,Obs BYGG Tiller
+Trondheim,coop_no,,unknown,Coop Mega Nardo
+Krokstadelva,coop_no,,unknown,Obs Buskerud
+Bryne,coop_no,,unknown,Coop Mega Bryne
+Bodø,coop_no,,unknown,Coop Mega Rønvikveien
+Ålgård,coop_no,,unknown,Coop Mega Ålgård
+Volda,coop_no,,unknown,Coop Mega Volda
+Vinstra,coop_no,,unknown,Extra Sødorptunet
+Verdal,coop_no,,unknown,Coop Mega Verdal
+Ulsteinvik,coop_no,,unknown,Coop Mega Ulsteinvik
+Sarpsborg,coop_no,,unknown,Extra Alvim
+Småvollan,coop_no,,unknown,Obs BYGG Støren
+Brattholmen,coop_no,,unknown,Obs BYGG Straume
+Stord,coop_no,,unknown,Extra Leirvik
+Stjørdal,coop_no,,unknown,Coop Mega Torgkvartalet
+Sortland,coop_no,,unknown,Coop Mega Sortland
+Skien,coop_no,,unknown,Coop Prix Åfoss
+Orkanger,coop_no,,unknown,Coop Mega Orkanger
+Narvik,coop_no,,unknown,Extra Bolaget
+Spillum,coop_no,,unknown,Extra Namsos
+Molde,coop_no,,unknown,Coop Mega Bekkevoll
+Mjøndalen,coop_no,,unknown,Extra Mjøndalen
+Nesttun,coop_no,,unknown,Extra Nesttun
+Hafrsfjord,coop_no,,unknown,Coop Mega Madla
+Levanger,coop_no,,unknown,Coop Prix Levangernesset
+Larvik,coop_no,,unknown,Coop Prix Frankendalsveien
+Kristiansund,coop_no,,unknown,Coop Mega Kristiansund
+Kongsberg,coop_no,,unknown,Coop Mega Berjasenteret
+Klepp,coop_no,,unknown,Obs BYGG Klepp
+--,coop_no,,unknown,Obs BYGG Bamble
+Hunndalen,coop_no,,unknown,Extra Hunndalen
+Hønefoss,coop_no,,unknown,Coop Mega Hønefoss
+Førde,coop_no,,unknown,Coop Mega Førde
+Gressvik,coop_no,,unknown,Extra Mascot
+Fauske,coop_no,,unknown,Coop Mega Fauske
+Skodje,coop_no,,unknown,Extra Digernes
+Rud,coop_no,,unknown,Obs BYGG Bærum
+Hundvåg,coop_no,,unknown,Extra Hundvåg
+Bardufoss,coop_no,,unknown,Extra Bardufoss
+Alta,coop_no,,unknown,Coop Marked Rafsbotn
+Arendal,coop_no,,unknown,Coop Mega Arendal
+Risøyhamn,coop_no,,unknown,Matkroken Åse
+Årviksand,coop_no,,unknown,Matkroken Årviksand
+Ånstad,coop_no,,unknown,Matkroken Ånstad
+Visthus,coop_no,,unknown,Matkroken Visthus
+Vestbygd,coop_no,,unknown,Matkroken Vestbygd
+Vengsøy,coop_no,,unknown,Matkroken Vengsøy
+Vannareid,coop_no,,unknown,Matkroken Vannareid
+Asker,coop_no,,unknown,Extra Askerholmen
+Ulvsvåg,coop_no,,unknown,Matkroken Ulvsvåg
+Mandal,coop_no,,unknown,Extra Ime
+Tylldal,coop_no,,unknown,Matkroken Tylldalen
+Vinje,coop_no,,unknown,Extra Vinje
+Trones,coop_no,,unknown,Matkroken Trones
+Todalen,coop_no,,unknown,Matkroken Todalen
+Sørvågen,coop_no,,unknown,Matkroken Sørvågen
+Sørstraumen,coop_no,,unknown,Matkroken Sørstraumen
+Søre Osen,coop_no,,unknown,Matkroken Søre Osen
+Sørbøvågen,coop_no,,unknown,Matkroken Sørbøvåg
+Gjøra,coop_no,,unknown,Matkroken Sunndalsporten
+Paradis,coop_no,,unknown,Matkroken Strønen
+Storvik,coop_no,,unknown,Matkroken Storvik
+Nord-statland,coop_no,,unknown,Matkroken Statland
+Sommarøy,coop_no,,unknown,Matkroken Sommarøy
+Svingvoll,coop_no,,unknown,Matkroken Skeikampen
+Senjahopen,coop_no,,unknown,Matkroken Senjahopen
+Selsøyvik,coop_no,,unknown,Matkroken Selsøyvik
+Bøverbru,coop_no,,unknown,Matkroken Sangnes
+Mortenhals,coop_no,,unknown,Matkroken Sand
+Russenes,coop_no,,unknown,Matkroken Russenes
+Rebbenes,coop_no,,unknown,Matkroken Rebbenes
+Hidrasund,coop_no,,unknown,Matkroken Kirkehamn
+Notodden,coop_no,,unknown,Extra Kongsbergveien
+Nordnesøy,coop_no,,unknown,Matkroken Nordnesøy
+Måsøy,coop_no,,unknown,Matkroken Måsøy
+Meisingset,coop_no,,unknown,Matkroken Meisingset
+Sørli,coop_no,,unknown,Matkroken Mebygda
+Lurøy,coop_no,,unknown,Matkroken Lurøy
+Lillesand,coop_no,,unknown,Extra Lillesand
+Nordli,coop_no,,unknown,Matkroken Kvelibua
+Laukvik,coop_no,,unknown,Matkroken Laukvik
+Lakselvbukt,coop_no,,unknown,Matkroken Lakselvbukt
+Kvisvik,coop_no,,unknown,Matkroken Kvisvik
+Kvalfjord,coop_no,,unknown,Matkroken Kvalfjord
+Kunes,coop_no,,unknown,Matkroken Kunes
+Kjørsvikbugen,coop_no,,unknown,Matkroken Kjørsvikbugen
+Kjerringøy,coop_no,,unknown,Matkroken Kjerringøy
+Staubø,coop_no,,unknown,Matkroken Kilsund
+Oppland,coop_no,,unknown,Matkroken Jøssund
+Innvik,coop_no,,unknown,Matkroken Innvik
+Ingøy,coop_no,,unknown,Matkroken Ingøy
+Høvåg,coop_no,,unknown,Matkroken Indre Årsnes
+Vikedal,coop_no,,unknown,Coop Prix Vikedal
+Hovin i Telemark,coop_no,,unknown,Matkroken Hovin
+Hjelmås,coop_no,,unknown,Matkroken Hjelmås
+Hedalen,coop_no,,unknown,Matkroken Hedalen
+Hansnes,coop_no,,unknown,Matkroken Hansnes
+Gryllefjord,coop_no,,unknown,Matkroken Gryllefjord
+Grovfjord,coop_no,,unknown,Matkroken Grovfjord
+Gransherad,coop_no,,unknown,Matkroken Gransherad
+Gjesvær,coop_no,,unknown,Matkroken Gjesvær
+Fedje,coop_no,,unknown,Matkroken Fedje
+Etnedal,coop_no,,unknown,Matkroken Etnedal
+Drøbak,coop_no,,unknown,Extra Drøbak
+Dalsøyra,coop_no,,unknown,Matkroken Dalsøyra
+Bæverfjord,coop_no,,unknown,Matkroken Bæverfjord
+Bygland,coop_no,,unknown,Coop Marked Ose I Setesdal
+Bessaker,coop_no,,unknown,Matkroken Bessaker
+Berlevåg,coop_no,,unknown,Matkroken Berlevåg
+Atna,coop_no,,unknown,Matkroken Atna
+Hemsedal,coop_no,,unknown,Extra Hemsedal
+Bratland,coop_no,,unknown,Matkroken Aldersund
+Manstad,coop_no,,unknown,Extra Manstad
+Grimstad,coop_no,,unknown,Coop Prix Bergemoen
+Avaldsnes,coop_no,,unknown,Extra Avaldsnes
+Øvre Årdal,coop_no,,unknown,Extra Øvre Årdal
+Øverbygd,coop_no,,unknown,Extra Øverbygd
+Ørje,coop_no,,unknown,Extra Ørje
+Klepp Stasjon,coop_no,,unknown,Extra Klepp St
+Drammen,coop_no,,unknown,Extra Austad
+Åsen,coop_no,,unknown,Extra Åsen
+Ås,coop_no,,unknown,Extra Raveien
+Åndalsnes,coop_no,,unknown,Extra Åndalsnes
+Åkrehamn,coop_no,,unknown,Extra Åkrehamn
+Åfjord,coop_no,,unknown,Extra Åfjord
+Greåker,coop_no,,unknown,Extra Yven
+Vossevangen,coop_no,,unknown,Coop Prix Voss
+Vormsund,coop_no,,unknown,Extra Vormsund
+Vikhammer,coop_no,,unknown,Extra Vikhammer
+Rennesøy,coop_no,,unknown,Coop Marked Østhusvik
+Vikersund,coop_no,,unknown,Extra Vikersund
+Vennesla,coop_no,,unknown,Coop Prix Moseidmoen
+Ottestad,coop_no,,unknown,Extra Vikasenteret
+Vik i Sogn,coop_no,,unknown,Coop Byggmix Vik I Sogn
+Vigrestad,coop_no,,unknown,Coop Byggmix Vigrestad
+Vestnes,coop_no,,unknown,Extra Vestnes
+Vestfossen,coop_no,,unknown,Extra Vestfossen
+Vestby,coop_no,,unknown,Extra Vestby
+Namsos,coop_no,,unknown,Coop Prix Namsos
+Veggli,coop_no,,unknown,Extra Veggli
+Tennfjord,coop_no,,unknown,Extra Vatneeidet
+Varhaug,coop_no,,unknown,Extra Varhaug
+Valestrandsfossen,coop_no,,unknown,Extra Valestrand
+Vadsø,coop_no,,unknown,Extra Vadsø
+Ulset,coop_no,,unknown,Coop Prix Prestestien
+Ulefoss,coop_no,,unknown,Extra Ulefoss
+Tønsberg,coop_no,,unknown,Coop Prix Farmannsveien
+Tysnes,coop_no,,unknown,Extra Tysnes
+Tyristrand,coop_no,,unknown,Extra Tyristrand
+Tynset,coop_no,,unknown,Extra Tynset
+Tverlandet,coop_no,,unknown,Extra Tverlandet
+Tvedestrand,coop_no,,unknown,Extra Tvedestrand
+Færvik,coop_no,,unknown,Extra Tromøytunet
+Tromsdalen,coop_no,,unknown,Extra Tromsdalen
+Rasta,coop_no,,unknown,Extra Triaden
+Tranby,coop_no,,unknown,Extra Tranby
+Torp,coop_no,,unknown,Extra Torp
+Tonstad,coop_no,,unknown,Extra Tonstad
+Tolvsrød,coop_no,,unknown,Extra Tolvsrød
+Tofte,coop_no,,unknown,Coop Byggmix Tofte
+Tjøme,coop_no,,unknown,Extra Tjøme
+Tjodalyng,coop_no,,unknown,Coop Prix Tjølling
+Tjelta,coop_no,,unknown,Extra Tjelta
+Tingvoll,coop_no,,unknown,Extra Tingvoll
+Tau,coop_no,,unknown,Extra Prestamarka
+Søgne,coop_no,,unknown,Coop Mega Søgne
+Tana,coop_no,,unknown,Extra Tana
+Sørumsand,coop_no,,unknown,Extra Sørumsand
+Sørreisa,coop_no,,unknown,Extra Sørreisa
+Søreidgrend,coop_no,,unknown,Extra Søreide
+Sætre,coop_no,,unknown,Coop Byggmix Sætre
+Sykkylven,coop_no,,unknown,Extra Sykkylven
+Svolvær,coop_no,,unknown,Extra Svolvær
+Svelvik,coop_no,,unknown,Extra Svelvik
+Sveio,coop_no,,unknown,Extra Sveio
+Sunndalsøra,coop_no,,unknown,Extra Sunndalsøra
+Sand,coop_no,,unknown,Extra Suldal
+Støren,coop_no,,unknown,Extra Støren
+Strømmen,coop_no,,unknown,Extra Skjettentoppen
+Stryn,coop_no,,unknown,Extra Stryn
+Rypefjord,coop_no,,unknown,Extra Storsvingen
+Storsteinnes,coop_no,,unknown,Extra Storsteinnes
+Storslett,coop_no,,unknown,Extra Storslett
+Kvaløysletta,coop_no,,unknown,Extra Storelva
+Storebø,coop_no,,unknown,Extra Austevoll
+Stokmarknes,coop_no,,unknown,Coop Prix Stokmarknes
+Stavern,coop_no,,unknown,Extra Stavern
+Stathelle,coop_no,,unknown,Extra Stathelle
+Fredrikstad,coop_no,,unknown,Coop Mega Fredrikstad
+Spydeberg,coop_no,,unknown,Extra Spydeberg
+Sola,coop_no,,unknown,Coop Byggmix Sola
+Soknedal,coop_no,,unknown,Extra Soknedal
+Hauge I Dalane,coop_no,,unknown,Extra Sokndal
+Sogndal,coop_no,,unknown,Extra Sogndal
+Sofiemyr,coop_no,,unknown,Extra Hellerasten
+Slemmestad,coop_no,,unknown,Extra Slemmestad
+Skulestadmo,coop_no,,unknown,Extra Skulestadmo
+Skudeneshavn,coop_no,,unknown,Extra Skudenes
+Skreia,coop_no,,unknown,Extra Skreia
+Skotterud,coop_no,,unknown,Extra Skotterud
+Skogn,coop_no,,unknown,Extra Skogn
+Skjervøy,coop_no,,unknown,Extra Skjervøy
+Ski,coop_no,,unknown,Coop Prix Hageveien
+Skjåk,coop_no,,unknown,Extra Skeimo
+Skatval,coop_no,,unknown,Extra Skatval
+Skarnes,coop_no,,unknown,Extra Skarnes
+Sjøvegan,coop_no,,unknown,Extra Sjøvegan
+Sistranda,coop_no,,unknown,Extra Sistranda
+Silsand,coop_no,,unknown,Extra Silsand
+Siggerud,coop_no,,unknown,Extra Siggerud
+Bardu,coop_no,,unknown,Extra Setermoen
+Sem,coop_no,,unknown,Extra Semsbyen
+Sellebakk,coop_no,,unknown,Extra Sellebakk
+Seljord,coop_no,,unknown,Extra Seljord
+Selbu,coop_no,,unknown,Extra Selbu
+Sauda,coop_no,,unknown,Extra Sauda
+Sandvika,coop_no,,unknown,Extra Sandvika
+Sandnessjøen,coop_no,,unknown,Coop Byggmix Sandnessjøen
+Bjørnevatn,coop_no,,unknown,Coop Prix Bjørnevatn
+Sandane,coop_no,,unknown,Extra Sandane
+Sagstua,coop_no,,unknown,Extra Sand
+Brønnøysund,coop_no,,unknown,Coop Prix Farmen
+Rørvik,coop_no,,unknown,Extra Rørvik
+Røros,coop_no,,unknown,Coop Mega Røros
+Rælingen,coop_no,,unknown,Extra Rælingen
+Råholt,coop_no,,unknown,Extra Råholt
+Jørpeland,coop_no,,unknown,Extra Jørpeland
+Rykkinn,coop_no,,unknown,Extra Rykkinn
+Rognan,coop_no,,unknown,Extra Rognan
+Rissa,coop_no,,unknown,Extra Rissa
+Hommersåk,coop_no,,unknown,Extra Hommersåk
+Heimdal,coop_no,,unknown,Extra Heimdal
+Ringebu,coop_no,,unknown,Extra Ringebu
+Rena,coop_no,,unknown,Extra Rena
+Rauland,coop_no,,unknown,Extra Rauland
+Raufoss,coop_no,,unknown,Extra Raufoss
+Risør,coop_no,,unknown,Coop Prix Risør
+Rakkestad,coop_no,,unknown,Extra Rakkestad
+Porsgrunn,coop_no,,unknown,Extra Dr. Munk
+Otta,coop_no,,unknown,Extra Otta
+Os,coop_no,,unknown,Extra Os
+Orre,coop_no,,unknown,Extra Orre
+Opphaug,coop_no,,unknown,Coop Byggmix Opphaug
+Olsvik,coop_no,,unknown,Extra Olsvik
+Olsborg,coop_no,,unknown,Extra Olsborg
+Finnsnes,coop_no,,unknown,Extra Olderhamna
+Odda,coop_no,,unknown,Extra Odda
+Nøtterøy,coop_no,,unknown,Extra Nøtterøy
+Halden,coop_no,,unknown,Coop Prix Østre Lie
+Nærbø,coop_no,,unknown,Coop Mega Nærbø
+Nordkjosbotn,coop_no,,unknown,Extra Nordkjosbotn
+Nordfjordeid,coop_no,,unknown,Extra Nordfjordeid
+Nesoddtangen,coop_no,,unknown,Extra Nesoddtangen
+Hvam,coop_no,,unknown,Extra Neskollen
+Nes,coop_no,,unknown,Extra Nes I Ådal
+Naustdal,coop_no,,unknown,Extra Naustdal
+Sparbu,coop_no,,unknown,Extra Mære
+Mysen,coop_no,,unknown,Extra Mysen
+Myre,coop_no,,unknown,Extra Myre
+Mosjøen,coop_no,,unknown,Extra Halsøy
+Vormedal,coop_no,,unknown,Extra Moksheim
+Moi,coop_no,,unknown,Coop Byggmix Moi
+Meråker,coop_no,,unknown,Coop Byggmix Meråker
+Melhus,coop_no,,unknown,Extra Melhus
+Melbu,coop_no,,unknown,Extra Melbu
+Hamar,coop_no,,unknown,Coop Prix Ajer
+Mathopen,coop_no,,unknown,Extra Mathopen
+Austrheim,coop_no,,unknown,Extra Mastrevik
+Manger,coop_no,,unknown,Extra Manger
+Fyllingsdalen,coop_no,,unknown,Extra Løvås
+Løvenstad,coop_no,,unknown,Extra Løvenstad
+Sørum,coop_no,,unknown,Extra Lørenfallet
+Løkken Verk,coop_no,,unknown,Extra Løkken
+Lærdal,coop_no,,unknown,Extra Lærdal
+Lyngseidet,coop_no,,unknown,Extra Lyngseidet
+Lyefjell,coop_no,,unknown,Extra Lye
+Lonevåg,coop_no,,unknown,Extra Lonevåg
+Haukeland,coop_no,,unknown,Extra Lone
+Lommedalen,coop_no,,unknown,Extra Lommedalen
+Lom,coop_no,,unknown,Extra Lom
+Vanse,coop_no,,unknown,Extra Lista
+Sør-audnedal,coop_no,,unknown,Extra Lindesnes
+Sande i Vestfold,coop_no,,unknown,Extra Lersbryggen
+Lena,coop_no,,unknown,Extra Lena
+Leksvik,coop_no,,unknown,Coop Byggmix Leksvik
+Leknes,coop_no,,unknown,Coop Prix Leknes
+Leira i Valdres,coop_no,,unknown,Extra Leira
+Langhus,coop_no,,unknown,Extra Langhus
+Langesund,coop_no,,unknown,Extra Langesund
+Lakselv,coop_no,,unknown,Extra Lakselv
+Kyrksæterøra,coop_no,,unknown,Extra Kyrksæterøra
+Kvinesdal,coop_no,,unknown,Extra Kvinesdal
+Kverneland,coop_no,,unknown,Extra Kvernaland
+Kurland,coop_no,,unknown,Extra Kurlandsåsen
+Krokelvdalen,coop_no,,unknown,Extra Kroken
+Korgen,coop_no,,unknown,Coop Byggmix Korgen
+Kopervik,coop_no,,unknown,Extra Kopervik
+Kongsvinger,coop_no,,unknown,Extra Festningen
+Kongshavn,coop_no,,unknown,Extra Kongshavn
+Kolvereid,coop_no,,unknown,Coop Marked Sjånes
+Saupstad,coop_no,,unknown,Extra Kolstad
+Øvre Vats,coop_no,,unknown,Extra Knapphus
+Klæbu,coop_no,,unknown,Extra Klæbu
+Kirkenær,coop_no,,unknown,Extra Kirkenær
+Kirkenes,coop_no,,unknown,Extra Kirkenes
+Gjøvik,coop_no,,unknown,Coop Prix Tranberg
+Kautokeino,coop_no,,unknown,Extra Kautokeino
+Kaupanger,coop_no,,unknown,Extra Kaupanger
+Karasjok,coop_no,,unknown,Extra Karasjok
+Kabelvåg,coop_no,,unknown,Extra Kabelvåg
+Jevnaker,coop_no,,unknown,Extra Jevnaker
+Jar,coop_no,,unknown,Extra Jar
+Borgenhaugen,coop_no,,unknown,Extra Iseveien
+Inderøy,coop_no,,unknown,Coop Marked Kjerknesvågen
+Høyanger,coop_no,,unknown,Extra Høyanger
+Høvik,coop_no,,unknown,Coop Prix Løkeberg
+Vesterøy,coop_no,,unknown,Extra Hvaler
+Husnes,coop_no,,unknown,Extra Husnes
+Hovden,coop_no,,unknown,Extra Hovden
+Horten,coop_no,,unknown,Extra Bekkajordet
+Honningsvåg,coop_no,,unknown,Extra Honningsvåg
+Hommelvik,coop_no,,unknown,Extra Hommelvik
+Holmestrand,coop_no,,unknown,Extra Gullhaug
+Hokksund,coop_no,,unknown,Coop Prix Hokksund
+Hjelmeland,coop_no,,unknown,Extra Hjelmeland
+Hitra,coop_no,,unknown,Extra Hitra
+Solbergmoen,coop_no,,unknown,Extra Herstrøm
+Helle,coop_no,,unknown,Extra Helle
+Lier,coop_no,,unknown,Extra Heggtoppen
+Heggedal,coop_no,,unknown,Extra Heggedal
+Sannidal,coop_no,,unknown,Extra Haugtun
+Haslum,coop_no,,unknown,Extra Haslum
+Hareid,coop_no,,unknown,Extra Hareid
+Eidsvoll,coop_no,,unknown,Extra Hammerås
+Hafslundsøy,coop_no,,unknown,Extra Hafslundsøy
+Øyer,coop_no,,unknown,Extra Hafjell
+Grålum,coop_no,,unknown,Extra Grålum
+Mo I Rana,coop_no,,unknown,Extra Gruben
+Medjå,coop_no,,unknown,Extra Grong
+Ranheim,coop_no,,unknown,Coop Prix Olderdalen
+Gran,coop_no,,unknown,Extra Gran
+Aukra,coop_no,,unknown,Extra Gossen
+Gol,coop_no,,unknown,Extra Gol
+Kråkerøy,coop_no,,unknown,Extra Glommen Brygge
+Glomfjord,coop_no,,unknown,Extra Glomfjord
+Gjerdrum,coop_no,,unknown,Extra Gjerdrum
+Fåvang,coop_no,,unknown,Extra Fåvang
+Frosta,coop_no,,unknown,Coop Byggmix Frosta
+Førresfjorden,coop_no,,unknown,Extra Frakkagjerd
+Fosnavåg,coop_no,,unknown,Extra Fosnavåg
+Florø,coop_no,,unknown,Extra Florø
+Flisa,coop_no,,unknown,Extra Flisa
+Flekkefjord,coop_no,,unknown,Coop Prix Drangeid
+Flatåsen,coop_no,,unknown,Extra Flatåsen
+Flateby,coop_no,,unknown,Extra Flateby
+Finstadjordet,coop_no,,unknown,Extra Finstadjordet
+Finnøy,coop_no,,unknown,Extra Finnøy
+Fevik,coop_no,,unknown,Extra Fevik
+Fetsund,coop_no,,unknown,Extra Fetsund
+Farsund,coop_no,,unknown,Extra Farsund
+Fanrnem,coop_no,,unknown,Extra Fannrem
+Fana,coop_no,,unknown,Extra Fana
+Fagernes,coop_no,,unknown,Extra Fagernes
+Brumunddal,coop_no,,unknown,Extra Brumunddal
+Eydehavn,coop_no,,unknown,Extra Eydehavn
+Evje,coop_no,,unknown,Extra Evje
+Evenskjer,coop_no,,unknown,Extra Evenskjer
+Etne,coop_no,,unknown,Extra Etne
+Holter,coop_no,,unknown,Extra Eltonåsen
+Elnesvågen,coop_no,,unknown,Extra Elnesvågen
+Eiksmarka,coop_no,,unknown,Extra Eiksmarka
+Eidsvåg i Åsane,coop_no,,unknown,Extra Eidsvåg Bergen
+Eidsvåg i Romsdal,coop_no,,unknown,Extra Eidsvåg
+Sundet,coop_no,,unknown,Extra Eidsvoll
+Eide,coop_no,,unknown,Extra Eide
+Gjettum,coop_no,,unknown,Extra Dønski
+Drangedal,coop_no,,unknown,Extra Drangedal
+Dombås,coop_no,,unknown,Extra Dombås
+Dokka,coop_no,,unknown,Extra Dokka
+Åkrahamn,coop_no,,unknown,Extra Divigården Åkra
+Laksevåg,coop_no,,unknown,Extra Damsgård
+Dalen,coop_no,,unknown,Extra Dalen
+Dalekvam,coop_no,,unknown,Extra Dalekvam
+Dale,coop_no,,unknown,Extra Dale
+Børsa,coop_no,,unknown,Extra Børsa
+Bønes,coop_no,,unknown,Extra Bønes
+Egersund,coop_no,,unknown,Coop Mega Egersund
+Bø,coop_no,,unknown,Extra Bø
+Båtsfjord,coop_no,,unknown,Extra Båtsfjord
+Spongdal,coop_no,,unknown,Extra Byneset
+Buvika,coop_no,,unknown,Extra Buvika
+Skedsmokorset,coop_no,,unknown,Extra Brånåsen
+Hammerfest,coop_no,,unknown,Coop Prix Fuglenes
+Lunde,coop_no,,unknown,Extra Brugata
+Bremnes,coop_no,,unknown,Coop Prix Bremnes
+Brekstad,coop_no,,unknown,Extra Brekstad
+Brattvåg,coop_no,,unknown,Extra Brattvåg
+Brandbu,coop_no,,unknown,Extra Brandbu
+Borkenes,coop_no,,unknown,Extra Borkenes
+Borgen,coop_no,,unknown,Extra Borgen
+Blomsterdalen,coop_no,,unknown,Extra Blomsterdalen
+Bjørkelangen,coop_no,,unknown,Extra Bjørkelangen
+Bjugn,coop_no,,unknown,Extra Bjugn
+Vollen,coop_no,,unknown,Extra Bjerkås
+Bjerkvik,coop_no,,unknown,Extra Bjerkvik
+Maura,coop_no,,unknown,Extra Bjerke
+Birkeland,coop_no,,unknown,Extra Birkeland
+Biri,coop_no,,unknown,Extra Biri
+Rennebu,coop_no,,unknown,Extra Berkåk
+Bekkestua,coop_no,,unknown,Coop Mega Meglergården
+Beitostølen,coop_no,,unknown,Coop Byggmix Beitostølen
+Ballangen,coop_no,,unknown,Extra Ballangen
+Aurskog,coop_no,,unknown,Extra Aurskog
+Aure,coop_no,,unknown,Coop Byggmix Aure
+Auli,coop_no,,unknown,Extra Auli Senter
+Kleppestø,coop_no,,unknown,Extra Askøy
+Askim,coop_no,,unknown,Extra Askim
+Ankenesstrand,coop_no,,unknown,Extra Ankenes
+Andenes,coop_no,,unknown,Coop Prix Andenes
+Alvdal,coop_no,,unknown,Extra Alvdal
+Ørnes,coop_no,,unknown,Coop Prix Ørnes
+Øksfjord,coop_no,,unknown,Coop Prix Øksfjord
+Åseral,coop_no,,unknown,Coop Prix Åseral
+Årdal,coop_no,,unknown,Coop Prix Årdal
+Åmli,coop_no,,unknown,Coop Prix Åmli
+Jerpstad,coop_no,,unknown,Coop Prix Å
+Ytre Arna,coop_no,,unknown,Coop Prix Ytre Arna
+Værøy,coop_no,,unknown,Coop Prix Værøy
+Vågland,coop_no,,unknown,Coop Prix Vågland
+Vuku,coop_no,,unknown,Coop Prix Vuku
+Sømna,coop_no,,unknown,Coop Byggmix Berg
+Slidre,coop_no,,unknown,Coop Prix Vestre Slidre
+Vestre Gausdal,coop_no,,unknown,Coop Prix Vestre Gausdal
+Hommelstø,coop_no,,unknown,Coop Prix Velfjord
+Vega,coop_no,,unknown,Coop Byggmix Vega
+Vedavågen,coop_no,,unknown,Coop Prix Vedavågen
+Varangerbotn,coop_no,,unknown,Coop Prix Varangerbotn
+Vanvikan,coop_no,,unknown,Coop Prix Vanvikan
+Valnesfjord,coop_no,,unknown,Coop Prix Valnesfjord
+Valle,coop_no,,unknown,Coop Prix Valle
+Vaksdal,coop_no,,unknown,Coop Prix Vaksdal
+Uvdal,coop_no,,unknown,Coop Prix Uvdal
+Undheim,coop_no,,unknown,Coop Prix Undheim Handelslag
+Ulvik,coop_no,,unknown,Coop Prix Ulvik
+Tydal,coop_no,,unknown,Coop Prix Tydal
+Tveit,coop_no,,unknown,Coop Prix Tveit
+Tustna,coop_no,,unknown,Coop Prix Tustna
+Trofors,coop_no,,unknown,Coop Prix Trofors
+Treungen,coop_no,,unknown,Coop Prix Treungen
+Tretten,coop_no,,unknown,Coop Prix Tretten
+Gamle Fredrikstad,coop_no,,unknown,Coop Prix Torsnes
+Tornes i Romsdal,coop_no,,unknown,Coop Prix Tornes
+Tolga,coop_no,,unknown,Coop Prix Tolga
+Terråk,coop_no,,unknown,Coop Marked Terråk
+Tennevoll,coop_no,,unknown,Coop Prix Tennevoll
+Talvik,coop_no,,unknown,Coop Prix Talvik
+Søvik,coop_no,,unknown,Coop Prix Søvik
+Sør-fron,coop_no,,unknown,Coop Prix Sør-Fron
+Syvde,coop_no,,unknown,Coop Prix Syvde
+Svelgen,coop_no,,unknown,Coop Prix Svelgen
+Sulitjelma,coop_no,,unknown,Coop Prix Sulitjelma
+Suldalsosen,coop_no,,unknown,Coop Prix Suldal
+Straumen,coop_no,,unknown,Coop Prix Straumen
+Straumsjøen,coop_no,,unknown,Coop Prix Straume
+Strandebarm,coop_no,,unknown,Coop Prix Strandebarm
+Storforshei,coop_no,,unknown,Coop Prix Storforshei
+Stordal,coop_no,,unknown,Coop Prix Stordal
+Leinesfjord,coop_no,,unknown,Coop Prix Steigen
+Stamsund,coop_no,,unknown,Coop Prix Stamsund
+Stadsbygd,coop_no,,unknown,Coop Prix Stadsbygd
+Snertingdalen,coop_no,,unknown,Coop Prix Snertingdal
+Slattum,coop_no,,unknown,Coop Prix Slattum
+Skotfoss,coop_no,,unknown,Coop Prix Skotfoss
+Skjoldastraumen,coop_no,,unknown,Coop Prix Skjoldastraumen
+Skei,coop_no,,unknown,Coop Byggmix Skei I Jølster
+Skaun,coop_no,,unknown,Coop Prix Skaun
+Ørskog,coop_no,,unknown,Coop Prix Sjøholt
+Sjetnemarka,coop_no,,unknown,Coop Prix Sjetnemarka
+Sira,coop_no,,unknown,Coop Prix Sira
+Singsås,coop_no,,unknown,Coop Prix Singsås
+Selje,coop_no,,unknown,Coop Prix Selje
+Sandeid,coop_no,,unknown,Coop Byggmix Sandeid
+Saltstraumen,coop_no,,unknown,Coop Prix Saltstraumen
+Røldal,coop_no,,unknown,Coop Prix Røldal
+Røkland,coop_no,,unknown,Coop Prix Røkland
+Råde,coop_no,,unknown,Coop Prix Råde
+Rosendal,coop_no,,unknown,Coop Prix Rosendal
+Reine,coop_no,,unknown,Coop Prix Reine
+Steinsdalen,coop_no,,unknown,Coop Prix Osen
+Oltedal,coop_no,,unknown,Coop Prix Oltedal
+Norheimsund,coop_no,,unknown,Coop Prix Norheimsund
+Nesna,coop_no,,unknown,Coop Byggmix Nesna
+Nedre Eggedal,coop_no,,unknown,Coop Prix Nedre Eggedal
+Namdalseid,coop_no,,unknown,Coop Marked Sjøåsen
+Måndalen,coop_no,,unknown,Coop Prix Måndalen
+Midsund,coop_no,,unknown,Coop Prix Midsund
+Meldal,coop_no,,unknown,Coop Prix Meldal
+Mestervik,coop_no,,unknown,Coop Prix Meistervik
+Mehamn,coop_no,,unknown,Coop Prix Mehamn
+Samuelsberg,coop_no,,unknown,Coop Prix Manndalen
+Malm,coop_no,,unknown,Coop Prix Malm
+Lødingen,coop_no,,unknown,Coop Prix Lødingen
+Lysøysund,coop_no,,unknown,Coop Prix Lysøysund
+Lundamo,coop_no,,unknown,Coop Prix Lundamo
+Longva,coop_no,,unknown,Coop Prix Longva
+Ler,coop_no,,unknown,Coop Prix Ler
+Lensvik,coop_no,,unknown,Coop Byggmix Lensvik
+Leirfjord,coop_no,,unknown,Coop Byggmix Leirfjord
+Stol,coop_no,,unknown,Coop Prix Langåker
+Lalm,coop_no,,unknown,Coop Prix Lalm
+Kvål,coop_no,,unknown,Coop Prix Kvål
+Kvitsøy,coop_no,,unknown,Coop Prix Kvitsøy
+Kvinlog,coop_no,,unknown,Coop Prix Kvinlog
+Kvalsund,coop_no,,unknown,Coop Prix Kvalsund
+Krøderen,coop_no,,unknown,Coop Prix Krøderen
+Snillfjord,coop_no,,unknown,Coop Prix Krokstadøra
+Korsvegen,coop_no,,unknown,Coop Prix Korsvegen
+Koppang,coop_no,,unknown,Coop Prix Koppang
+Kolbu,coop_no,,unknown,Coop Prix Kolbu
+Kjøpsvik,coop_no,,unknown,Coop Prix Kjøpsvik
+Kjøllefjord,coop_no,,unknown,Coop Prix Kjøllefjord
+Kattem,coop_no,,unknown,Coop Prix Kattem
+Jondal,coop_no,,unknown,Coop Byggmix Jondal
+Tangen,coop_no,,unknown,Coop Prix Innlandsporten
+Inndyr,coop_no,,unknown,Coop Prix Inndyr
+Ilseng,coop_no,,unknown,Coop Prix Ilseng. Innlandet
+Høylandet,coop_no,,unknown,Coop Prix Høylandet
+Rysstad,coop_no,,unknown,Coop Prix Hylestad
+Hurdal,coop_no,,unknown,Coop Prix Hurdal
+Hovsherad,coop_no,,unknown,Coop Prix Hovsherad
+Hovin,coop_no,,unknown,Coop Prix Hovin
+Hornindal,coop_no,,unknown,Coop Prix Hornindal
+Smøla,coop_no,,unknown,Coop Marked Veidholmen
+Herøy,coop_no,,unknown,Coop Marked Seløy
+Herre,coop_no,,unknown,Coop Prix Herre
+Leikanger,coop_no,,unknown,Coop Byggmix Hermansverk
+Hemnesberget,coop_no,,unknown,Coop Prix Hemnesberget
+Hemnes,coop_no,,unknown,Coop Prix Hemnes
+Hellvik,coop_no,,unknown,Coop Prix Hellvik
+Helleland,coop_no,,unknown,Coop Prix Helleland
+Hell,coop_no,,unknown,Coop Prix Hell
+Heggenes,coop_no,,unknown,Coop Prix Heggenes
+Havøysund,coop_no,,unknown,Coop Byggmix Havøysund
+Hattfjelldal,coop_no,,unknown,Coop Byggmix Hattfjelldal
+Oteren,coop_no,,unknown,Coop Prix Hatteng
+Hasvik,coop_no,,unknown,Coop Prix Hasvik
+Harøy,coop_no,,unknown,Coop Prix Harøy
+Haramsøy,coop_no,,unknown,Coop Prix Haramsøy
+Haltdalen,coop_no,,unknown,Coop Prix Haltdalen
+Gvarv,coop_no,,unknown,Coop Prix Gvarv
+Nodeland,coop_no,,unknown,Coop Prix Greipstad
+Gjerstad,coop_no,,unknown,Coop Prix Gjerstad
+Geithus,coop_no,,unknown,Coop Prix Geithus
+Gaupne,coop_no,,unknown,Coop Byggmix Gaupne
+Frei,coop_no,,unknown,Coop Prix Frei
+Fornebu,coop_no,,unknown,Coop Prix Fornebu
+Folldal,coop_no,,unknown,Coop Prix Folldal
+Vang i Valdres,coop_no,,unknown,Coop Prix Fjellvang
+Feiring,coop_no,,unknown,Coop Prix Feiring
+Feda,coop_no,,unknown,Coop Prix Feda
+Farstad,coop_no,,unknown,Coop Prix Farstad
+Engerdal,coop_no,,unknown,Coop Prix Engerdal
+Engavågen,coop_no,,unknown,Coop Prix Engavågen
+Eiken,coop_no,,unknown,Coop Prix Eiken
+Eidfjord,coop_no,,unknown,Coop Prix Eidfjord
+Dønna,coop_no,,unknown,Coop Prix Dønna
+Norddyrøy,coop_no,,unknown,Coop Prix Dyrøy
+Dovre,coop_no,,unknown,Coop Prix Dovre
+Degernes,coop_no,,unknown,Coop Prix Degernes
+Dal,coop_no,,unknown,Coop Prix Dal
+Jakobsli,coop_no,,unknown,Coop Prix Charlottenlund
+Bøverdalen,coop_no,,unknown,Coop Prix Bøverdalen
+Byrkjelo,coop_no,,unknown,Coop Prix Byrkjelo
+Bykle,coop_no,,unknown,Coop Prix Bykle
+Byglandsfjord,coop_no,,unknown,Coop Prix Byglandsfjord
+Burfjord,coop_no,,unknown,Coop Prix Burfjord
+Budal,coop_no,,unknown,Coop Prix Budal
+Bud,coop_no,,unknown,Coop Prix Bud
+Brøstadbotn,coop_no,,unknown,Coop Prix Brøstadbotn
+Nordberg,coop_no,,unknown,Coop Prix Bruvoll
+Brusand,coop_no,,unknown,Coop Prix Brusand
+Bokn,coop_no,,unknown,Coop Prix Bokn
+Bleikvasslia,coop_no,,unknown,Coop Prix Bleikvassli
+Bjørnemyr,coop_no,,unknown,Coop Prix Bjørnemyr
+Bjerkreim,coop_no,,unknown,Coop Prix Bjerkreim
+Bjerka,coop_no,,unknown,Coop Prix Bjerka
+Birtavarre,coop_no,,unknown,Coop Prix Birtavarre
+Beitstad,coop_no,,unknown,Coop Prix Beitstad
+Moldjord,coop_no,,unknown,Coop Byggmix Beiarn
+Balestrand,coop_no,,unknown,Coop Prix Balestrand
+Bagn,coop_no,,unknown,Coop Prix Bagn
+Årnes,coop_no,,unknown,Coop Mega Årnes
+Vågå,coop_no,,unknown,Coop Byggmix Vågåmo
+Trysil,coop_no,,unknown,Coop Byggmix Trysil
+Tananger,coop_no,,unknown,Coop Byggmix Tananger
+Stange,coop_no,,unknown,Coop Mega Stange
+Billingstad,coop_no,,unknown,Coop Mega Slependen
+Randaberg,coop_no,,unknown,Coop Mega Randaberg
+Oppdal,coop_no,,unknown,Coop Byggmix Oppdal
+Nordås,coop_no,,unknown,Coop Mega Nordås
+Nittedal,coop_no,,unknown,Coop Mega Nittedal
+Lørenskog,coop_no,,unknown,Coop Mega Metro
+Lillehammer,coop_no,,unknown,Coop Mega Lillehammer
+Kolbotn,coop_no,,unknown,Coop Mega Kolbotn
+Nesbru,coop_no,,unknown,Coop Mega Holmen
+Hagan,coop_no,,unknown,Coop Mega Hagan
+Fjellhamar,coop_no,,unknown,Coop Mega Fjellhamar
+Rendalen,coop_no,,unknown,Coop Marked Øvre Rendal
+Modalen,coop_no,,unknown,Coop Marked Modalen
+Ålvik,coop_no,,unknown,Coop Marked Ålvik
+Ytterøy,coop_no,,unknown,Coop Marked Ytterøy
+Voll,coop_no,,unknown,Coop Marked Voll
+Vistdal,coop_no,,unknown,Coop Marked Vistdal
+Vingelen,coop_no,,unknown,Coop Marked Vingelen
+Vihalsen,coop_no,,unknown,Coop Marked Vikhals
+Vevelstad,coop_no,,unknown,Coop Marked Vevelstad
+Vevang,coop_no,,unknown,Coop Marked Vevang
+Vassenden,coop_no,,unknown,Coop Marked Vassenden
+Vallersund,coop_no,,unknown,Coop Marked Vallersund
+Jøsenfjorden,coop_no,,unknown,Coop Marked Vadla
+Tørvikbygd,coop_no,,unknown,Coop Marked Tørvikbygd
+Tordal,coop_no,,unknown,Coop Marked Tørdal
+Svanvik,coop_no,,unknown,Coop Marked Svanvik
+Hovet,coop_no,,unknown,Coop Marked Sunhov
+Sula,coop_no,,unknown,Coop Marked Sula
+Storås,coop_no,,unknown,Coop Marked Storås
+Storfosna,coop_no,,unknown,Coop Marked Storfosna
+Stokkøy,coop_no,,unknown,Coop Marked Stokkøy
+Stanghelle,coop_no,,unknown,Coop Marked Stanghelle
+Skåbu,coop_no,,unknown,Coop Marked Skåbu
+Skrova,coop_no,,unknown,Coop Marked Skrova
+Skjånes,coop_no,,unknown,Coop Marked Skjånes
+Skjolden,coop_no,,unknown,Coop Marked Skjolden
+Sandshamn,coop_no,,unknown,Coop Marked Sandsøy
+Råkvåg,coop_no,,unknown,Coop Marked Råkvåg
+Bosberg,coop_no,,unknown,Coop Marked Rye
+Rossfjordstraumen,coop_no,,unknown,Coop Marked Rossfjord
+Roan,coop_no,,unknown,Coop Marked Roan
+Breim,coop_no,,unknown,Coop Marked Reed
+Tessand,coop_no,,unknown,Coop Marked Randsverk
+Fosslandsosen,coop_no,,unknown,Coop Marked Otterøy
+Salsbruket,coop_no,,unknown,Coop Marked Opløfjorden
+Olderdalen,coop_no,,unknown,Coop Marked Olderdalen
+Olden,coop_no,,unknown,Coop Marked Olden
+Nygårdsjøen,coop_no,,unknown,Coop Marked Nygårdsjøen
+Rindalsskogen,coop_no,,unknown,Coop Marked Nybø
+Kverva,coop_no,,unknown,Coop Marked Nordskag
+Nordfold,coop_no,,unknown,Coop Marked Nordfold
+Neslandsvatn,coop_no,,unknown,Coop Marked Neslandsvatn
+Naustbukta,coop_no,,unknown,Coop Marked Naustbukta
+Namsskogan,coop_no,,unknown,Coop Marked Namsskogan
+Agdenes,coop_no,,unknown,Coop Marked Mølnbukt
+Mosvik,coop_no,,unknown,Coop Marked Mosvik
+Moltustranda,coop_no,,unknown,Coop Marked Moltustranda
+Misvær,coop_no,,unknown,Coop Marked Misvær
+Meløy,coop_no,,unknown,Coop Marked Meløy
+Mausund,coop_no,,unknown,Coop Marked Mausundvær
+Ljørdalen,coop_no,,unknown,Coop Marked Ljørdalen
+Leka,coop_no,,unknown,Coop Marked Leka
+Leines,coop_no,,unknown,Coop Marked Leines
+Lauvstad,coop_no,,unknown,Coop Marked Lauvstad
+Kvikne,coop_no,,unknown,Coop Marked Kvikne
+Kvamsøy,coop_no,,unknown,Coop Marked Kvamsøy
+Gåsbakken,coop_no,,unknown,Coop Marked Hølonda
+Helligvær,coop_no,,unknown,Coop Marked Helligvær
+Hellesylt,coop_no,,unknown,Coop Marked Hellesylt
+Harran,coop_no,,unknown,Coop Marked Harran
+Gyland,coop_no,,unknown,Coop Marked Gyland
+Granvin,coop_no,,unknown,Coop Marked Granvin
+Glåmos,coop_no,,unknown,Coop Marked Glåmos
+Gjerdsvika,coop_no,,unknown,Coop Marked Gjerdsvika
+Fresvik,coop_no,,unknown,Coop Marked Fresvik
+Forsand,coop_no,,unknown,Coop Marked Forsand
+Follafoss,coop_no,,unknown,Coop Marked Follafoss
+Folkestad,coop_no,,unknown,Coop Marked Folkestad
+Foldfjorden,coop_no,,unknown,Coop Marked Foldfjorden
+Flåm,coop_no,,unknown,Coop Marked Flåm
+Flatanger,coop_no,,unknown,Coop Marked Flatanger
+Fjørtoft,coop_no,,unknown,Coop Marked Fjørtoft
+Blaksæter,coop_no,,unknown,Coop Marked Fjelli
+Fiskåbygd,coop_no,,unknown,Coop Marked Fiskå
+Fevåg,coop_no,,unknown,Coop Marked Fevåg
+Eresfjord,coop_no,,unknown,Coop Marked Eresfjord
+Eidsdal,coop_no,,unknown,Coop Marked Eidsdal
+Dverberg,coop_no,,unknown,Coop Marked Dverberg
+Børselv,coop_no,,unknown,Coop Marked Børselv
+Bøfjorden,coop_no,,unknown,Coop Marked Bøfjord
+Haga,coop_no,,unknown,Coop Byggmix Finnøy
+Haugesund,dan_john,,unknown,Dan John Haugesund
+unknown,deloitte,,unknown,Bryne
+Lørenskog,ecco,,unknown,ECCO Triaden
+Ålgård,ecco,,unknown,ECCO Outlet Stavanger
+Vestby,ecco,,unknown,ECCO Outlet Vestby
+Oslo,ecco,,unknown,Ecco Store Karl Johan
+"Loddefjord, Bergen",ecco,,unknown,ECCO Store Loddefjord
+Tromsø,ecco,,unknown,ECCO Store Jekta
+Kristiansand,ecco,,unknown,Eva Sko
+Ski,ecco,,unknown,Ecco Store Ski
+Ålesund,ecco,,unknown,ECCO Store Ålesund
+Rådal,ecco,,unknown,Oscar Lillebøe Engros AS
+Jessheim,ecco,,unknown,ECCO Store Jessheim
+Bodø,ecco,,unknown,ECCO Store Bodø
+Tønsberg,ecco,,unknown,ECCO Store Tønsberg
+Stavanger,ecco,,unknown,ECCO Stavanger
+Oslo,enterprise,,unknown,Oslo Alna
+Bergen,enterprise,,unknown,Bergen Flesland Airport
+Stavanger Sola,enterprise,,unknown,Stavanger Sola Airport
+Oslo Gardermoen,enterprise,,unknown,Enterprise Rent-A-Car
+Drammen,enterprise,,unknown,Drammen
+Honefoss,enterprise,,unknown,Honefoss
+Lierstranda,enterprise,,unknown,Lier
+Hovdebygda,enterprise,,unknown,Orsta
+Skodje,enterprise,,unknown,Digernes
+Alesund,enterprise,,unknown,Brages Bilskadesenter
+Gardermoen,enterprise,,unknown,Oslo Gardermoen Airport
+Vigra,enterprise,,unknown,Alesund Vigra Airport
+Bodo,enterprise,,unknown,Bodo Airport
+Evenes,enterprise,,unknown,Harstad Evenes Airport
+Kjevik,enterprise,,unknown,Kristansand Kjevik Airport
+Stavanger,enterprise,,unknown,Stavanger Sola Airport
+Tromso,enterprise,,unknown,Tromso City
+Stjordal,enterprise,,unknown,Trondheim Vaernes Airport
+Sundebru,enterprise,,unknown,Sundebru
+Trondheim,enterprise,,unknown,Trondheim City Centre
+Otta,enterprise,,unknown,Otta
+Kongsvinger,enterprise,,unknown,Kongsvinger
+Lillehammer,enterprise,,unknown,Lillehammer
+Harstad,enterprise,,unknown,Harstad
+Hamar,enterprise,,unknown,Hamar
+Gjovik,enterprise,,unknown,Gjovik
+Elverum,enterprise,,unknown,Elverum
+Arendal,ernst_young,Kysteveien 2C,unknown,EY
+Ålesund,ernst_young,Langelandsvegen 1 DaaeGården,unknown,EY
+Bergen,ernst_young,Thormøhlens gate 53 D P.O. Box 6163,unknown,EY
+Bodø,ernst_young,Dronningens gate 7 8006,unknown,EY
+Bø i Telemark,ernst_young,Kyrkjevegen 6 Hellandtunet 3833,unknown,EY
+Drammen,ernst_young,Dr. Hansteins gate 13,unknown,EY
+Fredrikstad,ernst_young,Nygata 4 P.O. Box 257,unknown,EY
+Haugesund,ernst_young,Kvaløygata 3,unknown,EY
+Hønefoss,ernst_young,Arnemannsveien 3,unknown,EY
+Kongsberg,ernst_young,Dyrmyrgata 35,unknown,EY
+Kragerø,ernst_young,Ytre Strandvei 6 P.O. Box 230,unknown,EY
+Kristiansand,ernst_young,Markens gate 9 P.O. Box 184,unknown,EY
+Larvik,ernst_young,Sanden 1 P.O.Box 83 Fritzøe Brygge,unknown,EY
+Levanger,ernst_young,Moafjæra 8A,unknown,EY AS
+Lillehammer,ernst_young,Gudbrandsdalsvegen 188,unknown,EY
+Notodden,ernst_young,Storgata 14 P.O. Box. 194,unknown,EY
+Oslo,ernst_young,Stortorvet 7 P.O. Box 1156 Sentrum,unknown,EY Parthenon
+Otta,ernst_young,Storgata 15 P.O. Box 78,unknown,EY
+Porsgrunn,ernst_young,Dokkveien 11,unknown,EY
+Sortland,ernst_young,Strandgata 31 P.O. Box 286,unknown,EY
+Stavanger,ernst_young,Vassbotnen 11a Forus P.O. Box 8015,unknown,EY
+Steinkjer,ernst_young,Hamnegata 20 P.O. Box 432,unknown,EY
+Tønsberg,ernst_young,Åshaugveien 68 3170 Sem P.O. Box 2427,unknown,EY
+Tromsø,ernst_young,Strandgata 8,unknown,EY
+Trondheim,ernst_young,Havnegata 9 7010 Trondheim Postboks 1299 Torgarden,unknown,EY
+Kolbotn,ernst_young,Ormerudveien 2C,unknown,EY Skye
+Stord,ernst_young,Torgbakken 9,unknown,EY Skye
+Hamar,ernst_young,Østregata 23,unknown,EY
+Ulsteinvik,ernst_young,Stålhaugen 11,unknown,EY
+Lørenskog,espresso_house,,unknown,Espresso House
+Haugesund,espresso_house,,unknown,Espresso House
+Billingstad,espresso_house,,unknown,Espresso House
+Fyllingsdalen,espresso_house,,unknown,Espresso House
+Halden,espresso_house,,unknown,Espresso House
+Harstad,espresso_house,,unknown,Espresso House
+Sandnes,espresso_house,,unknown,Espresso House
+Skien,espresso_house,,unknown,Espresso House
+Førde,espresso_house,,unknown,Espresso House
+Bodø,espresso_house,,unknown,Espresso House
+Gjøvik,espresso_house,,unknown,Espresso House
+Oslo,espresso_house,,unknown,Espresso House
+Kristiansund,espresso_house,,unknown,Espresso House
+Sarpsborg,espresso_house,,unknown,Espresso House
+Vinterbro,espresso_house,,unknown,Espresso House
+Hønefoss,espresso_house,,unknown,Espresso House
+Arendal,espresso_house,,unknown,Espresso House
+Molde,espresso_house,,unknown,Espresso House
+Asker,espresso_house,,unknown,Espresso House
+Lillehammer,espresso_house,,unknown,Espresso House
+Trondheim ,espresso_house,,unknown,Espresso House
+Horten,espresso_house,,unknown,Espresso House
+Sandefjord,espresso_house,,unknown,Espresso House
+Porsgrunn,espresso_house,,unknown,Espresso House
+Steinkjer,espresso_house,,unknown,Espresso House
+Kongsberg,espresso_house,,unknown,Espresso House
+Ålesund,espresso_house,,unknown,Espresso House
+Kolbotn,espresso_house,,unknown,Espresso House
+Tønsberg,espresso_house,,unknown,Espresso House
+Larvik,espresso_house,,unknown,Espresso House
+Ulset,espresso_house,,unknown,Espresso House
+Strømmen,espresso_house,,unknown,Espresso House
+Bergen,espresso_house,,unknown,Espresso House
+Stavanger,espresso_house,,unknown,Espresso House
+Fredrikstad,espresso_house,,unknown,Espresso House
+Ski,espresso_house,,unknown,Espresso House
+Hamar,espresso_house,,unknown,Espresso House
+Rådal,espresso_house,,unknown,Espresso House
+Lysaker,espresso_house,,unknown,Espresso House
+Drammen,espresso_house,,unknown,Espresso House
+Trondheim,espresso_house,,unknown,Espresso House
+Sandvika,espresso_house,,unknown,Espresso House
+Åfjord,esprit,,unknown,Esprit Franchise Store Åfjord
+LIERSTRANDA,exxonmobil,,unknown,ESSO AMTMANNSVINGEN
+DEKNEPOLLEN,exxonmobil,,unknown,ESSO EXPRESS MÅLØY
+MANDAL,exxonmobil,,unknown,ESSO MANDALSKRYSSET
+SKJOLD,exxonmobil,,unknown,ESSO SKJOLD
+TJODALYNG,exxonmobil,,unknown,Esso
+HØVÅG,exxonmobil,,unknown,ESSO EXPRESS KJUTTAVIGA
+HANESTAD,exxonmobil,,unknown,ESSO EXPRESS HANESTAD
+VIKEBYGD,exxonmobil,,unknown,Esso
+FURNES,exxonmobil,,unknown,ESSO EXPRESS NYDAL
+NEDSTRAND,exxonmobil,,unknown,Esso
+ARENDAL,exxonmobil,,unknown,ESSO STOA
+GRIMSTAD,exxonmobil,,unknown,ESSO GRØM
+UNDHEIM,exxonmobil,,unknown,Esso
+MOEN,exxonmobil,,unknown,Esso
+ÅSERAL,exxonmobil,,unknown,Esso
+GVARV,exxonmobil,,unknown,Esso
+SANDNES,exxonmobil,,unknown,ESSO SANDNES
+JELSA,exxonmobil,,unknown,Esso
+STATHELLE,exxonmobil,,unknown,ESSO GRASMYR
+PORSGRUNN,exxonmobil,,unknown,ESSO BRUA
+SOKNDAL,exxonmobil,,unknown,Esso
+ØLEN,exxonmobil,,unknown,Esso
+VIKEDAL,exxonmobil,,unknown,Esso
+TYSVÆR,exxonmobil,,unknown,Esso
+AVALDSNES,exxonmobil,,unknown,ESSO AVALDSNES
+STOL,exxonmobil,,unknown,Esso
+FORSAND,exxonmobil,,unknown,Esso
+RENNESØY,exxonmobil,,unknown,Esso
+HAUGESUND,exxonmobil,,unknown,ESSO KARMSUNDGATEN
+STAVANGER,exxonmobil,,unknown,ESSO HILLEVÅG
+HOMMELVIK,exxonmobil,,unknown,ESSO EXPRESS MALVIK
+NES I ÅDAL,exxonmobil,,unknown,ESSO EXPRESS VALDRESPORTEN
+VOLL,exxonmobil,,unknown,ESSO SELE SERVICESENTER
+SKEI I JØLSTER,exxonmobil,,unknown,ESSO EXPRESS SKEI
+LANGHUS,exxonmobil,,unknown,ESSO LANGHUS
+HALDEN,exxonmobil,,unknown,ESSO EXPRESS RISUM
+VÅLER I  SOLØR,exxonmobil,,unknown,ESSO VÅLER
+HEGGEDAL,exxonmobil,,unknown,ESSO HEGGEDAL
+OSLO,exxonmobil,,unknown,ESSO EXPRESS GRORUD
+SKJETTEN,exxonmobil,,unknown,ESSO SKJETTEN
+KLØFTA,exxonmobil,,unknown,ESSO KLØFTA
+YTRE ENEBAKK,exxonmobil,,unknown,ESSO ENEBAKK
+MO I RANA,exxonmobil,,unknown,ESSO LANGNESET
+FROSTA,exxonmobil,,unknown,ESSO FROSTA
+KOLVEREID,exxonmobil,,unknown,ESSO KOLVEREID
+SANDEFJORD,exxonmobil,,unknown,ESSO SANDEFJORD
+ANKENESSTRAND,exxonmobil,,unknown,ESSO EXPRESS ANKENES
+BJERKVIK,exxonmobil,,unknown,ESSO BJERKVIK
+VESTBY,exxonmobil,,unknown,ESSO VESTBY
+HAFSLO,exxonmobil,,unknown,ESSO HAFSLO
+ÅGOTNES,exxonmobil,,unknown,ESSO ÅGOTNES
+BERGEN,exxonmobil,,unknown,ESSO EXPRESS LANDÅSTORGET
+STORSTEINNES,exxonmobil,,unknown,ESSO TØMMERELV
+HANSNES,exxonmobil,,unknown,ESSO HANSNES
+KRAGERØ,exxonmobil,,unknown,ESSO KRAGERØ MARINA
+BODØ,exxonmobil,,unknown,ESSO RØNVIK
+JAREN,exxonmobil,,unknown,ESSO JAREN
+ÅNDALSNES,exxonmobil,,unknown,ESSO ØRAN
+ULEFOSS,exxonmobil,,unknown,ESSO ULEFOSS
+VIGRA,exxonmobil,,unknown,ESSO VIGRA
+SAUDA,exxonmobil,,unknown,ESSO SAUDA
+ALTA,exxonmobil,,unknown,ESSO ALTAGÅRD
+KVELDE,exxonmobil,,unknown,ESSO KVELDE
+MOSJØEN,exxonmobil,,unknown,ESSO MOSJØEN
+HAMAR,exxonmobil,,unknown,ESSO STORHAMAR
+VIKESÅ,exxonmobil,,unknown,ESSO VIKESÅ
+JØRPELAND,exxonmobil,,unknown,ESSO JØRPELAND
+GRÅLUM,exxonmobil,,unknown,ESSO GRÅLUM
+SVOLVÆR,exxonmobil,,unknown,ESSO OSAN
+BRUMMUNDAL,exxonmobil,,unknown,ESSO BRUMMUNDAL
+HUNDVÅG,exxonmobil,,unknown,ESSO HUNDVÅG
+FREKHAUG,exxonmobil,,unknown,ESSO FREKHAUG
+TYSNES,exxonmobil,,unknown,ESSO TYSNES
+GEILO,exxonmobil,,unknown,ESSO EXPRESS GEILO
+SULDALSOSEN,exxonmobil,,unknown,ESSO EXPRESS SULDAL
+TROFORS,exxonmobil,,unknown,ESSO EXPRESS TROFORS
+TRØGSTAD,exxonmobil,,unknown,ESSO TRØGSTAD
+OPPAKER,exxonmobil,,unknown,ESSO EXPRESS OPPAKER
+ØYSTESE,exxonmobil,,unknown,ESSO ØYSTESE
+VOSSESTRAND,exxonmobil,,unknown,ESSO VOSSESTRAND
+VESTMARKA,exxonmobil,,unknown,ESSO EXPRESS VESTMARKA
+VARHAUG,exxonmobil,,unknown,ESSO VARHAUG
+KINSARVIK,exxonmobil,,unknown,ESSO KINSARVIK
+SØRUMSAND,exxonmobil,,unknown,ESSO SØRUMSAND
+SELBU,exxonmobil,,unknown,ESSO SELBU
+EDLAND,exxonmobil,,unknown,ESSO HAUKELI
+JEVNAKER,exxonmobil,,unknown,ESSO JEVNAKER
+SANNIDAL,exxonmobil,,unknown,ESSO SANNIDAL
+SAGSTUA,exxonmobil,,unknown,ESSO SAGSTUA
+STRANDA,exxonmobil,,unknown,ESSO STRANDA
+SKOTTERUD,exxonmobil,,unknown,ESSO SKOTTERUD
+MYSEN,exxonmobil,,unknown,ESSO EXPRESS RAMSTADKRYSSET
+HAMMERFEST,exxonmobil,,unknown,ESSO HAMMERFEST
+FROLAND,exxonmobil,,unknown,ESSO OSEDALEN
+NESBYEN,exxonmobil,,unknown,ESSO EXPRESS NESBYEN
+LARVIK,exxonmobil,,unknown,ESSO EXPRESS AMUNDRØD
+GRONG,exxonmobil,,unknown,ESSO EXPRESS GRONG
+MAURA,exxonmobil,,unknown,ESSO MAURA
+DOKKA,exxonmobil,,unknown,ESSO DOKKA
+DRANGEDAL,exxonmobil,,unknown,ESSO EXPRESS DRANGEDAL
+VALLE,exxonmobil,,unknown,ESSO KYRVESTAD
+RYKKINN,exxonmobil,,unknown,ESSO EXPRESS RYKKINN
+LØKEN,exxonmobil,,unknown,ESSO HØLAND
+VOSS,exxonmobil,,unknown,ESSO VOSSEVANGEN
+STEINKJER,exxonmobil,,unknown,ESSO DAMPSAGA
+KLEPPESTØ,exxonmobil,,unknown,ESSO KLEPPESTØ
+BJØRKELANGEN,exxonmobil,,unknown,ESSO EXPRESS BJØRKELANGEN
+LÆRDAL,exxonmobil,,unknown,ESSO LÆRDAL
+SKIEN,exxonmobil,,unknown,ESSO MYREN
+FØRDE,exxonmobil,,unknown,ESSO FØRDE
+ASKER,exxonmobil,,unknown,ESSO ASKER
+LEVANGER,exxonmobil,,unknown,ESSO EXPRESS GRÅMYRA
+ELNESVÅGEN,exxonmobil,,unknown,ESSO EXPRESS ELNESVÅGEN
+BREMNES,exxonmobil,,unknown,ESSO BREMNES
+GAMLE FREDRIKSTAD,exxonmobil,,unknown,ESSO EXPRESS BEGBY
+RUBBESTADNESET,exxonmobil,,unknown,ESSO RUBBESTADNESET
+AURLAND,exxonmobil,,unknown,ESSO EXPRESS AURLAND
+SARPSBORG,exxonmobil,,unknown,ESSO SANNESUND
+HORNNES,exxonmobil,,unknown,ESSO EXPRESS HORNNES
+JESSHEIM,exxonmobil,,unknown,ESSO RINGVEIEN
+STRØMMEN,exxonmobil,,unknown,ESSO STRØMMEN
+NOTODDEN,exxonmobil,,unknown,ESSO NOTODDEN
+KONGSBERG,exxonmobil,,unknown,ESSO KONGSBERG
+LILLEHAMMER,exxonmobil,,unknown,ESSO LILLEHAMMER
+SØGNE,exxonmobil,,unknown,ESSO SØGNE
+NESTTUN,exxonmobil,,unknown,ESSO NESTTUN
+ROLVSØY,exxonmobil,,unknown,ESSO ROLVSØY
+KRISTIANSUND,exxonmobil,,unknown,ESSO LØKKEMYRA
+LEKNES,exxonmobil,,unknown,ESSO LEKNES
+HØNEFOSS,exxonmobil,,unknown,ESSO HVERVENKASTET
+LODDEFJORD,exxonmobil,,unknown,ESSO VESTKANTEN
+BRYNE,exxonmobil,,unknown,ESSO BRYNE
+LØTEN,exxonmobil,,unknown,ESSO MYKLEGARD
+HEIMDAL,exxonmobil,,unknown,ESSO SANDMOEN
+HAFRSFJORD,exxonmobil,,unknown,ESSO REVHEIMSVEIEN
+ÅS,exxonmobil,,unknown,ESSO ÅS
+GJØVIK,exxonmobil,,unknown,ESSO GJØVIK
+KROKSTADELVA,exxonmobil,,unknown,ESSO EXPRESS KROGSTADELVA
+KRISTIANSAND S,exxonmobil,,unknown,ESSO ODDEMARKA
+KROKKLEIVA,exxonmobil,,unknown,ESSO SUNDVOLDEN VEISERVICE
+MELHUS,exxonmobil,,unknown,ESSO MELHUS
+RAKKESTAD,exxonmobil,,unknown,ESSO EXPRESS RAKKESTAD
+FREDRIKSTAD,exxonmobil,,unknown,ESSO EXPRESS APENESGATEN
+DRAMMEN,exxonmobil,,unknown,ESSO FARMEN
+SKARNES,exxonmobil,,unknown,ESSO SKARNES
+SAUPSTAD,exxonmobil,,unknown,ESSO KOLSTAD
+SKI,exxonmobil,,unknown,ESSO NORDBYVEIEN
+TRONDHEIM,exxonmobil,,unknown,ESSO STRINDHEIM
+LUNDAMO,exxonmobil,,unknown,ESSO EXPRESS LUNDAMO
+BORRE,exxonmobil,,unknown,ESSO BORRE
+FEVIK,exxonmobil,,unknown,ESSO EXPRESS FEVIK
+ÅMLI,exxonmobil,,unknown,ESSO EXPRESS ÅMLI
+SKREIA,exxonmobil,,unknown,ESSO SKREIA
+RAULAND,exxonmobil,,unknown,ESSO EXPRESS RAULAND
+HÆGELAND,exxonmobil,,unknown,ESSO HÆGELAND
+VEGÅRSHEI,exxonmobil,,unknown,ESSO VEGÅRSHEI
+TØNSBERG,exxonmobil,,unknown,ESSO TEIE
+TROMSDALEN,exxonmobil,,unknown,ESSO EXPRESS TROMSDALEN
+HESSENG,exxonmobil,,unknown,ESSO HESSENG
+SURNADAL,exxonmobil,,unknown,ESSO EXPRESS SURNADAL
+STORD,exxonmobil,,unknown,ESSO LEIRVIK
+LILLESTRØM,exxonmobil,,unknown,ESSO LILLESTRØM
+KJELLER,exxonmobil,,unknown,ESSO KJELLERHOLEN
+BORGENHAUGEN,exxonmobil,,unknown,ESSO HAFSLUND
+RÅDE,exxonmobil,,unknown,ESSO RÅDE
+NITTEDAL,exxonmobil,,unknown,ESSO NITTEDAL
+VORMSUND,exxonmobil,,unknown,ESSO VORMSUND
+LOM,exxonmobil,,unknown,ESSO LOM
+NORHEIMSUND,exxonmobil,,unknown,ESSO NORHEIMSUND
+KAUTOKEINO,exxonmobil,,unknown,ESSO KAUTOKEINO
+HUNNDALEN,exxonmobil,,unknown,ESSO EXPRESS HUNNDALEN
+ELVERUM,exxonmobil,,unknown,ESSO BANKHJØRNET
+VØYENENGA,exxonmobil,,unknown,ESSO VØYENENGA
+SELLEBAKK,exxonmobil,,unknown,ESSO EXPRESS SELLEBAKK
+BARDU,exxonmobil,,unknown,ESSO BARDU
+KONSMO,exxonmobil,,unknown,ESSO KONSMO
+NYBORG,exxonmobil,,unknown,ESSO NYBORG
+ÅLESUND,exxonmobil,,unknown,ESSO SPJELKAVIK
+HOKKSUND,exxonmobil,,unknown,ESSO HOKKSUND
+LENA,exxonmobil,,unknown,ESSO LENA
+VERDAL,exxonmobil,,unknown,ESSO VERDAL
+VENNESLA,exxonmobil,,unknown,ESSO VENNESLA
+STRYN,exxonmobil,,unknown,ESSO STRYN
+STJØRDAL,exxonmobil,,unknown,ESSO STJØRDAL
+SPYDEBERG,exxonmobil,,unknown,ESSO SPYDEBERG
+SOLA,exxonmobil,,unknown,ESSO EXPRESS SOLA
+SEM,exxonmobil,,unknown,ESSO EXPRESS SEM
+RØROS,exxonmobil,,unknown,ESSO RØROS
+FJÆRINGBY,exxonmobil,,unknown,ESSO RÆLINGEN
+DILLING,exxonmobil,,unknown,ESSO BREDSAND
+RENNEBU,exxonmobil,,unknown,ESSO BERKÅK
+OS,exxonmobil,,unknown,ESSO OS
+ODDA,exxonmobil,,unknown,ESSO ODDA
+VARANGERBOTN,exxonmobil,,unknown,ESSO VARANGERBOTN
+MOSS,exxonmobil,,unknown,ESSO FLEMMINGHJØRNET
+SKÅRER,exxonmobil,,unknown,ESSO SKÅRER
+LYNGDAL,exxonmobil,,unknown,ESSO EXPRESS LYNGDAL
+ÅSEN,exxonmobil,,unknown,ESSO ÅSEN
+FINNSNES,exxonmobil,,unknown,ESSO FINNSNES
+LEIKANGER,exxonmobil,,unknown,ESSO HERMANSVERK
+LAKSEVÅG,exxonmobil,,unknown,ESSO LAKSEVÅG
+KRISTIANSAND,exxonmobil,,unknown,ESSO EXPRESS VÅGSBYGD
+KONGSVINGER,exxonmobil,,unknown,ESSO BRUGATA
+VESTERØY,exxonmobil,,unknown,ESSO EXPRESS VESTERØY
+HORTEN,exxonmobil,,unknown,ESSO HORTEN
+HIS,exxonmobil,,unknown,ESSO EXPRESS HISØY
+KYRKSÆTERØRA,exxonmobil,,unknown,ESSO HEMNE
+KIRKENÆR,exxonmobil,,unknown,ESSO EXPRESS KIRKENÆR
+FLÅ,exxonmobil,,unknown,ESSO FLÅ
+FAUSKE,exxonmobil,,unknown,ESSO FAUSKE
+RÅHOLT,exxonmobil,,unknown,ESSO SOLUM
+DOMBÅS,exxonmobil,,unknown,ESSO EXPRESS DOMBÅS
+BØ I TELEMARK,exxonmobil,,unknown,ESSO BØ
+STABEKK,exxonmobil,,unknown,ESSO STABEKK
+HASLUM,exxonmobil,,unknown,ESSO HASLUM
+TVERLANDET,exxonmobil,,unknown,ESSO TVERLANDET VEISERVICE AS
+ASKIM,exxonmobil,,unknown,ESSO EXPRESS HØYENDAL
+BILLINGSTAD,exxonmobil,,unknown,ESSO SLEPENDEN
+Oslo,first_hotels,,unknown,First Hotel Millennium
+Lillehammer,first_hotels,,unknown,First Hotel Breiseth
+Kvinesdal,first_hotels,,unknown,Utsikten Hotell Kvinesdal | First Partner Collection
+Bryne,first_hotels,,unknown,Bryne Hotell | First Partner Collection
+Kabelvåg,first_hotels,,unknown,Skårungen | First Partner Collection
+Kongsberg,fjallraven,,unknown,Naturkompaniet Butikk Kongsberg
+Ålesund,fjallraven,,unknown,Naturkompaniet Butikk Ålesund
+Bergen,fjallraven,,unknown,Naturkompaniet Butikk Bergen
+Oslo,fjallraven,,unknown,Fjällräven Brand Center Oslo
+ÅLESUND,ford,,unknown,Auto 8-8 Ålesund AS
+BODØ,ford,,unknown,SVEINS AUTO AS
+Tønsberg,ford,,unknown,"Bil-Service AS, avd. Tønsberg"
+Kvinesdal,ford,,unknown,Kverneland Bil AS | Ford Kvinesdal
+OSLO,ford,,unknown,RøhneSelmer Røa
+BERGEN,ford,,unknown,Kverneland Bil AS Bergen Åsane
+STRAUME,ford,,unknown,Lieco Auto AS
+ØYSTESE,ford,,unknown,ØYSTESE MEK.VERKSTED A/S
+STORD,ford,,unknown,Sunnhordland Bil AS
+RØROS,ford,,unknown,RØROS AUTO AS
+SORTLAND,ford,,unknown,BILTREND VESTERÅLEN A/S
+HAUGESUND,ford,,unknown,Kverneland Bil AS | Ford Haugesund
+HOLMESTRAND,ford,,unknown,"Bil-Service AS, avd. Holmestrand"
+VADSØ,ford,,unknown,Autosalg AS
+KRISTIANSAND S,ford,,unknown,Kverneland Bil AS | Kristiansand
+MANDAL,ford,,unknown,Kverneland Bil AS | Mandal
+Lyngdal,ford,,unknown,Kverneland Bil AS | Lyngdal
+KRISTIANSUND N,ford,,unknown,Auto 8-8 Sildnes & Halaas AS
+EIDE,ford,,unknown,Auto 8-8 Sildnes & Halaas AS avd. Eide
+ARENDAL,ford,,unknown,ARENDAL AUTO AS
+KONGSBERG,ford,,unknown,Bil-Service AS avd. Kongsberg
+MOLDE,ford,,unknown,Auto 8-8 Molde AS
+NOTODDEN,ford,,unknown,Solberg Bil AS avd. Notodden
+BILLINGSTAD,ford,,unknown,"RøhneSelmer AS, avd. Asker og Bærum"
+NAMSOS,ford,,unknown,OTTO MOE avd. Namsos
+GRONG,ford,,unknown,"OTTO MOE, AVD GRONG"
+RØRVIK,ford,,unknown,OTTO MOE avd. RØRVIK
+EGERSUND,ford,,unknown,Bilservice Egersund AS
+Moss,ford,,unknown,"Sulland Østfold AS, avd. Moss"
+FREDRIKSTAD,ford,,unknown,"Sulland Østfold AS, avd Fredrikstad"
+LARVIK,ford,,unknown,"Bil-Service AS, avd. Larvik"
+FINNSNES,ford,,unknown,INDLANDET AUTOMOBILVERKSTED AS
+JESSHEIM,ford,,unknown,Sulland Jessheim AS
+LILLESTRØM,ford,,unknown,"RøhneSelmer AS, avd. Lillestrøm"
+Sarpsborg,ford,,unknown,Sulland Østfold AS
+SKI,ford,,unknown,FOLLO AUTOCO A/S
+SANDNES,ford,,unknown,Kverneland Bil AS Ford Bilhuset
+DRAMMEN,ford,,unknown,Grøndal Bilbutikken AS
+Åmot,ford,,unknown,Wold & Borgersen AS
+ALTA,ford,,unknown,Finnmark Motorsenter AS
+HARSTAD,ford,,unknown,FORD HARSTAD AS
+MYSEN,ford,,unknown,BERGERKRYSSET AUTO MYSEN AS
+Skulestadmo,ford,,unknown,BILTUNET VOSS AS
+HUNNDALEN,ford,,unknown,Sulland Gjøvik Ford
+HAMAR,ford,,unknown,Sulland Hamar AS
+TRONDHEIM,ford,,unknown,Melhus Bil Trondheim AS
+STEINKJER,ford,,unknown,Melhus Bil Steinkjer
+ORKANGER,ford,,unknown,Melhus Bil Orkanger AS
+BRYNE,ford,,unknown,Kverneland Bil AS Ford Bryne
+SKIEN,ford,,unknown,SOLBERG BIL A/S
+MO I RANA,ford,,unknown,SENTRUM AUTO A/S
+MOSJØEN,ford,,unknown,Bilfokus AS
+SVOLVÆR,ford,,unknown,Bil i Nord AS avd. Svolvær
+LEKNES,ford,,unknown,"Bil i Nord AS, avd Leknes"
+TROMSØ,ford,,unknown,Bil i Nord AS avd. Tromsø
+OTTA,ford,,unknown,Sulland Otta AS
+Elverum,ford,,unknown,Sulland Elverum AS
+SANDEFJORD,ford,,unknown,"Bil-Service AS, avd. Sandefjord"
+LILLEHAMMER,ford,,unknown,Sulland Bilsenter Lillehammer AS
+KONGSVINGER,ford,,unknown,Sulland Kongsvinger AS
+ANKENESSTRAND,ford,,unknown,SOMMERSETH AS
+FØRDE,ford,,unknown,Auto 8-8 Forum AS
+FLORØ,ford,,unknown,"Auto 8-8 Forum AS, avd. Florø"
+LEIKANGER,ford,,unknown,Leikanger Auto AS
+STRYN,ford,,unknown,Stryn Mek. Verksted AS
+HALDEN,ford,,unknown,Halden Bilsenter AS
+LEIRA i VALDRES,ford,,unknown,Hovrud Auto AS
+GOL,ford,,unknown,"Hovrud Auto As, avd. Gol"
+HØNEFOSS,ford,,unknown,"RøhneSelmer AS, avd. Hønefoss"
+STJØRDAL,ford,,unknown,Melhus Bil Stjørdal
+LIERSTRANDA,ford,,unknown,RøhneSelmer AS avd. Drammen og Lier
+Hovdebygda,ford,,unknown,Ørsta Bil AS
+KOLBOTN,ford,,unknown,SOFIEMYR BIL A/S
+BJUGN,ford,,unknown,BUGGE BIL AS
+Åndalsnes,ford,,unknown,Åndalsnes Bilverksted AS
+Hesseng,ford,,unknown,Autosalg Kirkenes AS
+Surnadal,ford,,unknown,Tellesbø Karosseri AS
+unknown,gbfs,,unknown,Tårnplass
+Tromso,hardrock,,unknown,Hard Rock Cafe Tromso
+Oslo,hm,,unknown,H&M
+Lillestrøm,hm,,unknown,Lillestrøm Torv
+Strømmen,hm,,unknown,Strømmen Storsenter
+Sandvika,hm,,unknown,Sandvika Storsenter
+Ski,hm,,unknown,Ski Storsenter
+Trondheim,hm,,unknown,H&M HOME Trondheim
+Sandnes,hm,,unknown,Kvadrat Kjøpesenter
+Sarpsborg,hm,,unknown,Storbyen
+Bodø,hm,,unknown,Koch Kjøpesenter
+Larvik,hm,,unknown,Nordbyen Kjøpesenter
+Ålesund,hm,,unknown,Amfi Moa
+Tønsberg,hm,,unknown,Farmandstredet
+Kristiansand,hm,,unknown,Sandens Senter
+Bergen,hm,,unknown,Horisont Senter
+Moss,hm,,unknown,Mosseporten
+Fredrikstad,hm,,unknown,Torvbyen
+Sandefjord,hm,,unknown,Hvaltorvet
+Drammen,hm,,unknown,Emil Jensen Gården
+Molde,hm,,unknown,Amfi Roseby
+Lierskogen,hm,,unknown,Liertoppen Senter
+Krokstadelva,hm,,unknown,Buskerud Storsenter
+Haugesund,hm,,unknown,Amanda Storsenter
+Førde,hm,,unknown,Alti Førde
+Tromsø,hm,,unknown,Jekta Storsenter
+Narvik,hm,,unknown,Amfi Narvik
+Karmsund,hm,,unknown,Oasen Storsenter
+Gjøvik,hm,,unknown,CC Gjøvik
+Steinkjer,hm,,unknown,Amfi Steinkjer
+Lillehammer,hm,,unknown,Strandtorget
+Kongsvinger,hm,,unknown,Kongssenteret
+Asker,hm,,unknown,Holmen Senter
+Stavanger,hm,,unknown,Kilden Kjøpesenter
+Namsos,hm,,unknown,Namsos Storsenter
+Sortland,hm,,unknown,Sortland Storsenter
+Jessheim,hm,,unknown,Jessheim Storsenter
+Elverum,hm,,unknown,Kremmertorget
+Hønefoss,hm,,unknown,Kuben Hønefoss
+Kristiansund,hm,,unknown,Alti Storkaia
+Porsgrunn,hm,,unknown,ALTI Brotorvet
+Arendal,hm,,unknown,ALTI Arendal
+Kongsberg,hm,,unknown,Stortorvet Senter
+Skien,hm,,unknown,Herkules
+Alta,hm,,unknown,Amfi Alta
+Bryne,hm,,unknown,M44 Bryne
+Levanger,hm,,unknown,Magneten Kjøpesenter
+Sogndal,hm,,unknown,Sogningen Storsenter
+Mo i Rana,hm,,unknown,Byporten Mo i Rana
+Stord,hm,,unknown,Amfi Stord
+Lørenskog,hm,,unknown,Gamleveien 88
+Halden,hm,,unknown,Tista Senter
+Askim,hm,,unknown,Askimtorget
+Hamar,hm,,unknown,CC Hamar
+Orkanger,hm,,unknown,Amfi Orkanger
+Mandal,hm,,unknown,ALTI Mandal
+Harstad,hm,,unknown,Amfi Kanebogen
+Stjørdal,hm,,unknown,Torgkvartalet
+Sandnes,ikea,,unknown,Forus
+Oslo,ikea,,unknown,Furuset
+Trondheim,ikea,,unknown,Leangen
+Furnes,ikea,,unknown,Ringsaker
+Billingstad,ikea,,unknown,Slependen
+Kristiansand,ikea,,unknown,Sørlandet
+Nyborg,ikea,,unknown,Åsane
+Molde,jack_and_jones,,unknown,Molde
+Ålesund,jack_and_jones,,unknown,Moagård
+Tiller,jack_and_jones,,unknown,Trondheim - City Syd
+Gjøvik,jack_and_jones,,unknown,Gjøvik
+Sandnes,jack_and_jones,,unknown,Sandnes - Kvadrat Senter
+Straume,jack_and_jones,,unknown,Sartor
+Stord,jack_and_jones,,unknown,Stord - Hamnegata
+Larvik,jack_and_jones,,unknown,Larvik
+Horten,jack_and_jones,,unknown,Horten
+Mosjøen,jack_and_jones,,unknown,Mosjøen
+Namsos,jack_and_jones,,unknown,Namsos
+Kongsberg,jack_and_jones,,unknown,Kongsberg
+Steinkjer,jack_and_jones,,unknown,Steinkjer
+Tønsberg,jack_and_jones,,unknown,Tønsberg - Farmandstredet
+Levanger,jack_and_jones,,unknown,Levanger - Magneten Kjøpesenter
+Kanebogen,jack_and_jones,,unknown,Harstad - Kanebogen Senter
+Lørenskog,jack_and_jones,,unknown,Metro Senter
+Drammen,jack_and_jones,,unknown,Gulskogen Senter
+Moss,jack_and_jones,,unknown,Mosseporten
+Førde,jack_and_jones,,unknown,Førde
+Oslo,jack_and_jones,,unknown,Karl Johan
+Orkanger,jack_and_jones,,unknown,Orkanger - AMFI
+SKI,jack_and_jones,,unknown,Ski
+Stavanger,jack_and_jones,,unknown,Stavanger
+Haugesund,jack_and_jones,,unknown,Amanda
+Hønefoss,jack_and_jones,,unknown,Hønefoss
+Lillehammer,jack_and_jones,,unknown,Strandtorget
+Sandefjord,jack_and_jones,,unknown,Sandefjord
+Sandvika,jack_and_jones,,unknown,Sandvika
+Loddefjord/bergen,jack_and_jones,,unknown,Vestkanten
+Sortland,jack_and_jones,,unknown,Sortland - Skibsgarten
+Krokstadelva,jack_and_jones,,unknown,Buskerud
+Elverum,jack_and_jones,,unknown,Elverum
+Stjørdal,jack_and_jones,,unknown,Stjørdal
+Porsgrunn,jack_and_jones,,unknown,Porsgrunn - Down Town
+Bryne,jack_and_jones,,unknown,Bryne - M44
+Rolvsøy,jack_and_jones,,unknown,Østfoldhallen
+Kristiansand,jack_and_jones,,unknown,Sørlandssenteret
+Kongsvinger,jack_and_jones,,unknown,Kongsvinger
+Bergen,jack_and_jones,,unknown,Torgalmenning - Bergen
+Jessheim,jack_and_jones,,unknown,Jessheim
+Strømmen,jack_and_jones,,unknown,Strømmen 2
+Tromsø,jack_and_jones,,unknown,Tromsø - Jekta Storcenter
+Alta,jack_and_jones,,unknown,Alta - AMFI
+Finnsnes,jack_and_jones,,unknown,Finnsnes
+Arendal,jack_and_jones,,unknown,Arendal - Amfi Arena
+Trondheim,jack_and_jones,,unknown,Trondheim - Sirkus Senter
+Nyborg,jack_and_jones,,unknown,Nyborg - Horisont
+Bodø,jack_and_jones,,unknown,Bodø - Koch Kjøpesenter
+Mo i Rana,jack_and_jones,,unknown,Mo i Rana
+Narvik,jack_and_jones,,unknown,Narvik
+Tromsdalen,jack_and_jones,,unknown,Tromsdalen - Amfi Pyramiden
+Hamar,jack_and_jones,,unknown,Hamar - CC Hamar
+Lillestrøm,jack_and_jones,,unknown,Lillestrøm - Lillestrøm Torv
+Rådal Bergen,jack_and_jones,,unknown,Lagunen Senter
+Vestby,jack_and_jones,,unknown,Oslo Outlet
+Rasta,jack_and_jones,,unknown,Rasta - Triaden
+Skien,jack_and_jones,,unknown,Skien - Herkules
+Kristiansund,jack_and_jones,,unknown,Kristiansund - Storkaia Brygge
+Ålgård,jack_and_jones,,unknown,Ålgård - Norwegian Outlet Rogaland AS
+Svolvær,jack_and_jones,,unknown,Svolvær - Alti Svolvær
+Trondheim,jysk,,unknown,"Lade, Trondheim"
+Stathelle,jysk,,unknown,Bamble
+Oslo,jysk,,unknown,"Stovner, Oslo"
+Nittedal,jysk,,unknown,Nittedal
+Ålgård,jysk,,unknown,Ålgård
+Notodden,jysk,,unknown,Notodden
+Sofiemyr,jysk,,unknown,Sofiemyr
+Rypefjord,jysk,,unknown,Hammerfest
+NYBORG,jysk,,unknown,"Åsane, Bergen"
+OSLO,jysk,,unknown,"Hasle, Oslo"
+Drammen,jysk,,unknown,"Åssiden, Drammen"
+Tau,jysk,,unknown,Tau
+Lillestrøm,jysk,,unknown,Lillestrøm
+Evje,jysk,,unknown,Evje
+Finnsnes,jysk,,unknown,Finnsnes
+Eidsvoll,jysk,,unknown,Eidsvoll
+Kleppestø,jysk,,unknown,Kleppestø
+Brekstad,jysk,,unknown,Brekstad
+Sandnessjøen,jysk,,unknown,Sandnessjøen
+Holmen,jysk,,unknown,Holmen
+Vinterbro,jysk,,unknown,Vinterbro
+Sunndalsøra,jysk,,unknown,Sunndalsøra
+Billingstad,jysk,,unknown,Slependen
+Namsos,jysk,,unknown,Namsos
+Mosjøen,jysk,,unknown,Mosjøen
+Mjøndalen,jysk,,unknown,Mjøndalen
+Brønnøysund,jysk,,unknown,Brønnøysund
+Ulsteinvik,jysk,,unknown,Ulsteinvik
+Bergen,jysk,,unknown,"Midtun, Bergen"
+Steinkjer,jysk,,unknown,Steinkjer
+Sandvika,jysk,,unknown,Sandvika
+Lillehammer,jysk,,unknown,Lillehammer
+Laksevåg,jysk,,unknown,"Laksevåg, Bergen"
+SKI,jysk,,unknown,Ski
+Tiller,jysk,,unknown,"Tiller, Trondheim"
+Halden,jysk,,unknown,Halden
+Tromsø,jysk,,unknown,Tromsø
+Bodø,jysk,,unknown,Bodø
+Kristiansand,jysk,,unknown,"Sørlandsparken, Kristiansand"
+Kristiansund,jysk,,unknown,Kristiansund
+Kongsvinger,jysk,,unknown,Kongsvinger
+Lyngdal,jysk,,unknown,Lyngdal
+Moss,jysk,,unknown,Moss
+Stavanger,jysk,,unknown,"Forus, Stavanger"
+Førde,jysk,,unknown,Førde
+Tønsberg,jysk,,unknown,Tønsberg
+Strømmen,jysk,,unknown,Strømmen
+Larvik,jysk,,unknown,Larvik
+Bryne,jysk,,unknown,Bryne
+Skien,jysk,,unknown,Skien
+Kristiansand S,jysk,,unknown,"Vågsbygd, Kristiansand"
+Arendal,jysk,,unknown,Arendal
+Ålesund,jysk,,unknown,Ålesund
+Fredrikstad,jysk,,unknown,Fredrikstad
+Florø,jysk,,unknown,Florø
+Hønefoss,jysk,,unknown,Hønefoss
+Fauske,jysk,,unknown,Fauske
+Molde,jysk,,unknown,Molde
+Gjøvik,jysk,,unknown,Gjøvik
+Haugesund,jysk,,unknown,Haugesund
+FURNES,jysk,,unknown,Hamar
+Straume,jysk,,unknown,Sotra
+Stord,jysk,,unknown,Stord
+Kirkenes,jysk,,unknown,Kirkenes
+Sogndal,jysk,,unknown,Sogndal
+Ankenesstrand,jysk,,unknown,Narvik
+Volda,jysk,,unknown,Furene
+Lørenskog,jysk,,unknown,Lørenskog
+Gol,jysk,,unknown,Gol
+Avaldsnes,jysk,,unknown,Karmøy
+Elverum,jysk,,unknown,Elverum
+Mandal,jysk,,unknown,Mandal
+Mo I Rana,jysk,,unknown,Mo I Rana
+Sarpsborg,jysk,,unknown,Sarpsborg
+Alta,jysk,,unknown,Alta
+Harstad,jysk,,unknown,Harstad
+Husnes,jysk,,unknown,Husnes
+Kongsberg,jysk,,unknown,Kongsberg
+STJØRDAL,jysk,,unknown,Stjørdal
+Sortland,jysk,,unknown,Sortland
+Voss,jysk,,unknown,Voss
+Tynset,jysk,,unknown,Tynset
+Sandefjord,jysk,,unknown,Sandefjord
+Brumunddal,jysk,,unknown,Brumunddal
+Leira,jysk,,unknown,Leira
+Leknes,jysk,,unknown,Leknes
+Gran,jysk,,unknown,Gran
+Vinstra,jysk,,unknown,Vinstra
+Nordfjordeid,jysk,,unknown,Nordfjordeid
+Orkanger,jysk,,unknown,Orkanger
+Østerås,jysk,,unknown,Grini
+Os,jysk,,unknown,Os
+Egersund,jysk,,unknown,Egersund
+Otta,jysk,,unknown,Otta
+Jessheim,jysk,,unknown,Jessheim
+Levanger,jysk,,unknown,Levanger
+Askim,jysk,,unknown,Askim
+Horten,jysk,,unknown,Horten
+Porsgrunn,jysk,,unknown,Porsgrunn
+Oslo,lhw,Stortingsgaten 24-26 Oslo 0117 Norway,unknown,Hotel Continental
+Trondheim,lhw,Dronningens Gate 5 7011 Trondheim Norway ,unknown,Britannia Hotel
+TRONDHEIM,longchamp,,unknown,Aagaard
+Stavanger,man_truck_and_bus,,unknown,MAN Truck & Bus Norge AS avd. Stavanger
+Otta,man_truck_and_bus,,unknown,Team Verksted AS avd. Otta
+Bodø,man_truck_and_bus,,unknown,Team Verksted AS avd. Bodø
+Sarpsborg,man_truck_and_bus,,unknown,MAN Truck & Bus Norge AS avd. Sarpsborg
+Askim,man_truck_and_bus,,unknown,Team Verksted AS avd. Askim
+Drammen,man_truck_and_bus,,unknown,MAN Truck & Bus Norge AS avd. Drammen
+Larvik,man_truck_and_bus,,unknown,Larvik Last og Buss AS
+Stryn,man_truck_and_bus,,unknown,Kveen AS
+Ålesund,man_truck_and_bus,,unknown,Auto Last Møre AS
+Tromsø,man_truck_and_bus,,unknown,Team Verksted AS avd. Tromsø
+Kopervik,man_truck_and_bus,,unknown,Skude Transport & Sped. AS
+Nyborg (Bergen),man_truck_and_bus,,unknown,MAN Truck & Bus Norge AS avd. Bergen
+Tiller (Trondheim),man_truck_and_bus,,unknown,MAN Truck & Bus Norge AS avd. Trondheim
+Rudshøgda,man_truck_and_bus,,unknown,MAN Truck & Bus Norge AS avd. Rudshøgda
+Steinkjer,man_truck_and_bus,,unknown,NT Last og Buss AS
+Kristiansand,man_truck_and_bus,,unknown,Maskin & Auto Service Sør AS
+Fjellhamar,man_truck_and_bus,,unknown,MAN Truck & Bus Norge AS avd. Oslo Fjellhamar
+ Fagernes,man_truck_and_bus,,unknown,Valdresbil AS
+Aurskog,man_truck_and_bus,,unknown,Finstadhagen Last AS
+Skulestadmo,man_truck_and_bus,,unknown,Voss Bil Lastebil AS
+Førde,man_truck_and_bus,,unknown,Trucknor Førde AS
+Harstad,man_truck_and_bus,,unknown,K. Simonsen Storbilsenter AS
+Sveio,man_truck_and_bus,,unknown,Last Haugesund AS
+Alta,man_truck_and_bus,,unknown,Team Verksted AS avd. Alta
+Alvdal,man_truck_and_bus,,unknown,Jonstad Auto AS
+Blomsterdalen,man_truck_and_bus,,unknown,Mancraft AS
+Kongsvinger,man_truck_and_bus,,unknown,Glåmdal Bilco AS
+Bergen,marriott,,unknown,Moxy Bergen
+Skjetten,marriott,,unknown,Moxy Oslo X
+Tromso,marriott,,unknown,Moxy Tromso
+BILLINGSTAD,maserati,,unknown,FORMULA AUTOMOBILE NORGE AS
+Gardemoen,michaelkors,,unknown,Michael Kors Oslo Airport North Terminal
+OSLO,moneygram,,unknown,KHAWAJA INVEST AS - OSLO - CASH AND DEBI
+BERGEN,moneygram,,unknown,MOMMONA KAFFETERIA - #LNO0170 - CASH AND
+KRISTIANSAND,moneygram,,unknown,ORANOS HABIB AS
+SKIEN,moneygram,,unknown,SULTANA - #1 - SKIEN
+FREDRIKSTAD,moneygram,,unknown,UMS FREDRIKSTAD - CASH AND DEBIT
+SARPSBORG,moneygram,,unknown,FIX IT - #1 - SARPSBORG - CASH AND DEBIT
+MOSS,moneygram,,unknown,KHAWAJA INVEST AS - MOSS - CASH AND DEBI
+DRAMMEN,moneygram,,unknown,MIX GULSKOGEN - DRAMMEN - CASH AND DEBIT
+HONEFOSS,moneygram,,unknown,PRO - #1 - HONEFOSS
+LARVIK,moneygram,,unknown,ASIA MAT 1 - LARVIK - CASH AND DEBIT
+TRONDHEIM,moneygram,,unknown,WEIRAH NET AS - TRONDHEIM
+LILLESTROM,moneygram,,unknown,NORSK OG ASIATISK DAGLIVARE - LILLESTROM
+SANDNES,moneygram,,unknown,GRACE ASIATISK BUTIKK - #LNO0084 - CASH
+STORD,moneygram,,unknown,LEIRVIK INTERNASJONAL MAT BUTIKK - CASH
+HEMSEDAL,moneygram,,unknown,GLOBAL AFRO SHOP
+KRISTIANSAND S,moneygram,,unknown,AFRO SHOP - CASH AND DEBIT
+HAUGESUND,moneygram,,unknown,NORAS STIL V/ WAHEED - CASH AND DEBIT
+STAVANGER,moneygram,,unknown,UMMA IMPORT AS - CASH AND DEBIT
+HALDEN,moneygram,,unknown,UMS HALDEN - DEBIT CARDS ONLY
+NOTODDEN,moneygram,,unknown,NOTODDEN ASIA BUTIKK - NOTODDEN
+Stavanger,national,,unknown,Stavanger Sola Airport
+Stjordal,national,,unknown,Trondheim Vaernes Airport
+Gardermoen,national,,unknown,Oslo Gardermoen Airport
+Bergen,national,,unknown,Bergen Flesland Airport
+Evenes,national,,unknown,Harstad Evenes Airport
+Vigra,national,,unknown,Alesund Vigra Airport
+Bodo,national,,unknown,Boda Airport
+Kjevik,national,,unknown,Kristansand Kjevik Airport
+Tromso,national,,unknown,Tromso Langnes Airport
+Strommen,newyorker,Støperiveien 5 2010 Strommen,unknown,NEW YORKER | Strommen Storsenter
+Tonsberg,newyorker,Jernbanegaten 1D 3110 Tonsberg,unknown,NEW YORKER | Farmandstredet Center
+Stavanger,newyorker,Klubbgata 5 4013 Stavanger,unknown,NEW YORKER | Arkaden Torgterrassen
+Kristiansand,newyorker,Barstølveien 72 4636 Kristiansand,unknown,NEW YORKER | Sørlandssenteret
+Tromso,newyorker,Karlsøyvegen 12 9015 Tromso,unknown,NEW YORKER | Jekta Storsenter
+Skien,newyorker,Ulefossveien 32 3730 Skien,unknown,NEW YORKER | Herkules Center
+Trondheim,newyorker,Haakon VII's gate 9 7041 Trondheim,unknown,NEW YORKER | CITY LADE KJØPESENTER
+Hamar,newyorker,Vangsvegen 62 2317 Hamar,unknown,NEW YORKER | CC Hamar
+Alesund,newyorker,Langelandsveien 25 6010 Alesund,unknown,NEW YORKER | Amfi Moa
+Bergen - Straum,newyorker,Sartorvegen 12 5353 Bergen - Straum,unknown,NEW YORKER | Sartor Shopping
+Sandness,newyorker,Gamle Stokkavei 1 4313 Sandness,unknown,NEW YORKER | Kvadrat
+Trondheim,pod_point,,unknown,Font Eiendom - Sectech
+Oslo,rains,,unknown,Rains Store Oslo
+Drammen,renault,,unknown,MotorParts AS
+Oslo,samsonite_eu,,unknown,Samsonite
+Slemmestad,sats,,unknown,SATS Slemmestad
+Drammen,sats,,unknown,SATS Drammen Åssiden
+Oslo,sats,,unknown,Majorstua (closed)
+Bergen,sats,,unknown,SATS Oasen
+Rådal,sats,,unknown,SATS Lagunen
+Hafrsfjord,sats,,unknown,SATS Madla
+Porsgrunn,sats,,unknown,SATS Porselensfabrikken
+Lørenskog,sats,,unknown,SATS Metro
+Stavanger,sats,,unknown,Stavanger (closed)
+Jessheim,sats,,unknown,SATS Jessheim
+Kristiansand S,sats,,unknown,SATS Vågsbygd
+Sandsli,sats,,unknown,Sandsli (closed)
+Kolbotn,sats,,unknown,SATS Kolbotn
+Kråkerøy,sats,,unknown,SATS Fredrikstad
+Bekkestua,sats,,unknown,SATS Bekkestua
+Trondheim,sats,,unknown,SATS Lade Arena (closed)
+Nyborg,sats,,unknown,SATS Åsane
+Skien,sats,,unknown,SATS Klosterøya
+Sandnes,sats,,unknown,SATS Trim Towers
+Lillestrøm,sats,,unknown,SATS Lillestrøm
+Sandvika,sats,,unknown,SATS Sandvika Panorama
+Billingstad,sats,,unknown,SATS Billingstad
+Sarpsborg,sats,,unknown,SATS Tunejordet
+Fornebu,sats,,unknown,SATS Fornebu
+Bryne,sats,,unknown,SATS Bryne
+Tromsø,sats,,unknown,SATS Langnes
+Kokstad,sats,,unknown,SATS Kokstad
+Asker,sats,,unknown,SATS Asker
+Nesttun,sats,,unknown,SATS Nesttun
+Laksevåg,sats,,unknown,SATS Damsgård
+Strømmen,sats,,unknown,Strømmen (closed)
+Skedsmokorset,sats,,unknown,SATS Skedsmokorset
+Lillehammer,sats,,unknown,SATS Lillehammer
+Alta,scania,,unknown,"Norsk Scania AS, avd Alta"
+Nedenes,scania,,unknown,"Norsk Scania AS, avd Arendal"
+Rud,scania,,unknown,"Norsk Scania AS, avd Bærum"
+Bardufoss,scania,,unknown,"Norsk Scania AS, avd Bardufoss"
+Nyborg,scania,,unknown,"Norsk Scania AS, avd Bergen"
+Bodø,scania,,unknown,"Norsk Scania AS, avd Bodø"
+Kviteseid,scania,,unknown,"Norsk Scania AS, avd Brunkeberg"
+Drammen,scania,,unknown,"Norsk Scania AS, avd Drammen"
+Fagernes,scania,,unknown,Oppland Tungbilservice AS
+Fauske,scania,,unknown,"Norsk Scania AS, avd Fauske"
+Førde,scania,,unknown,"Norsk Scania AS, avd Førde"
+Hunndalen,scania,,unknown,"Norsk Scania AS, avd Gjøvik"
+Berg i Østfold,scania,,unknown,"Norsk Scania AS, avd Halden"
+Ingeberg,scania,,unknown,"Norsk Scania AS, avd Hamar"
+Harstad,scania,,unknown,"Norsk Scania AS, avd Harstad"
+Førresfjorden,scania,,unknown,"Norsk Scania AS, avd Haugesund"
+Hønefoss,scania,,unknown,"Norsk Scania AS, avd Hønefoss"
+Kløfta,scania,,unknown,"Norsk Scania AS, avd Kløfta"
+Kongsvinger,scania,,unknown,"Norsk Scania AS, avd Kongsvinger"
+Kristiansand,scania,,unknown,"Norsk Scania AS, avd Kristiansand"
+Lakselv,scania,,unknown,"Norsk Scania AS, avd Lakselv"
+Leknes,scania,,unknown,"Norsk Scania AS, avd Leknes"
+Lillehammer,scania,,unknown,"Norsk Scania AS, avd Lillehammer"
+Lyngdal,scania,,unknown,"Norsk Scania AS, avd Lyngdal"
+Mo i Rana,scania,,unknown,"Norsk Scania AS, avd Mo i Rana"
+Hjelset,scania,,unknown,"Norsk Scania AS, avd Molde"
+Mosjøen,scania,,unknown,"Norsk Scania AS, avd Mosjøen"
+Spillum,scania,,unknown,"Norsk Scania AS, avd Namsos"
+Narvik,scania,,unknown,"Norsk Scania AS, avd Narvik"
+Oslo,scania,,unknown,"Norsk Scania AS, avd Oslo"
+Otta,scania,,unknown,"Norsk Scania AS, avd Otta"
+Råde,scania,,unknown,"Norsk Scania AS, avd Råde"
+Sande i Vestfold,scania,,unknown,"Norsk Scania AS, avd Sande"
+Skien,scania,,unknown,"Norsk Scania AS, avd Skien"
+Sortland,scania,,unknown,"Norsk Scania AS, avd Sortland"
+Sandnes,scania,,unknown,"Norsk Scania AS, avd Stavanger"
+Stjørdal,scania,,unknown,"Norsk Scania AS, avd Stjørdal"
+Stokke,scania,,unknown,"Norsk Scania AS, avd Borgeskogen"
+Stranda,scania,,unknown,"Norsk Scania AS, avd Stranda"
+Stryn,scania,,unknown,"Norsk Scania AS, avd Stryn"
+Tomasjord,scania,,unknown,"Norsk Scania AS, avd Tromsø"
+Tiller,scania,,unknown,"Norsk Scania AS, avd Trondheim"
+Tynset,scania,,unknown,Tynset Diesel AS
+Verdal,scania,,unknown,"Norsk Scania AS, avd Verdal"
+Skodje,scania,,unknown,"Norsk Scania AS, avd Ålesund"
+HARSTAD,shell,,unknown,SHELL ÅSBY
+SORTLAND,shell,,unknown,SHELL EXPRESS SORTLAND
+BJERKVIK,shell,,unknown,SHELL BJERKVIK
+BALLANGEN,shell,,unknown,SHELL BALLANGEN
+NARVIK,shell,,unknown,SHELL NARVIK
+ANKENES,shell,,unknown,SHELL ANKENES
+ANDENES,shell,,unknown,SHELL ANDENES MARINA
+FINNSNES,shell,,unknown,SHELL FINNSNES
+MELBU,shell,,unknown,SHELL MELBU
+GIBOSTAD,shell,,unknown,SHELL SENJA
+HAMARØY,shell,,unknown,SHELL HAMARØY
+INNHAVET,shell,,unknown,SHELL INNHAVET
+SVOLVÆR,shell,,unknown,SHELL SVOLVÆR
+ØVERBYGD,shell,,unknown,SHELL ØVERBYGD
+BOGØY,shell,,unknown,SHELL BOGØY
+NORDKJOSBOTN,shell,,unknown,SHELL BALSFJORD
+TROMSØ,shell,,unknown,SHELL EXPRESS TROMSØ STRANDVEGEN
+TROMSDALEN,shell,,unknown,SHELL ISHAVSPORTEN
+FAUSKE,shell,,unknown,SHELL FAUSKE
+BODØ,shell,,unknown,SHELL STORMYRA
+SØRKJOSEN,shell,,unknown,SHELL AUTOMAT SØRKJOSEN
+SKJERVØY,shell,,unknown,SHELL AUTOMAT SKJERVØY
+ØRNES,shell,,unknown,SHELL ØRNESKRYSSET
+KAUTOKEINO,shell,,unknown,SHELL AUTOMAT KAUTOKEINO
+TALVIK,shell,,unknown,SHELL TRUCKDIESEL TALVIK
+MO I RANA,shell,,unknown,SHELL EXPRESS VIKA MO I RANA
+ALTA,shell,,unknown,SHELL ALTA
+SANDNESSJØEN,shell,,unknown,SHELL SANDNESSJØEN
+MOSJØEN,shell,,unknown,SHELL HALSØY
+BRØNNØYSUND,shell,,unknown,SHELL BRØNNØYSUND
+NAMSOS,shell,,unknown,SHELL ØSTRE
+NAMDALSEID,shell,,unknown,SHELL EXPRESS NAMDALSEID
+STEINKJER,shell,,unknown,SHELL FIGGA
+SPARBU,shell,,unknown,SHELL SPARBU
+INDERØY,shell,,unknown,SHELL INDERØY
+VERDAL,shell,,unknown,SHELL VERDAL
+STJØRDAL,shell,,unknown,SHELL VÆRNES
+TILLER,shell,,unknown,SHELL TILLER
+TRONDHEIM,shell,,unknown,SHELL AUTOMAT HAVNA
+LEINSTRAND,shell,,unknown,SHELL KLETT
+MALVIK,shell,,unknown,SHELL STAV SYD
+LER,shell,,unknown,SHELL AUTOMAT LER
+ORKANGER,shell,,unknown,SHELL BÅRDSHAUG
+RENNEBU,shell,,unknown,SHELL BERKÅK
+KYRKSÆTERØRA,shell,,unknown,SHELL KYRKSÆTERØRA
+HITRA,shell,,unknown,SHELL EXPRESS HITRA
+OPPDAL,shell,,unknown,SHELL AUTOMAT OPPDAL
+FREI,shell,,unknown,SHELL AUTOKRYSSET
+ALVDAL,shell,,unknown,SHELL ALVDAL
+DOMBÅS,shell,,unknown,SHELL EXPRESS DOMBÅS
+ÅNDALSNES,shell,,unknown,SHELL EXPRESS ÅNDALSNES
+KOPPANG,shell,,unknown,SHELL KOPPANG
+FÅVANG,shell,,unknown,SHELL AUTOMAT FÅVANG
+LILLEHAMMER,shell,,unknown,SHELL EXPRESS RØYSLIMOEN
+TRYSIL,shell,,unknown,SHELL TRYSIL
+FAGERNES,shell,,unknown,SHELL FAGERNES
+MOELV,shell,,unknown,SHELL MOELV
+BRUMUNDDAL,shell,,unknown,SHELL EXPRESS BRUMUNDDAL
+DOKKA,shell,,unknown,SHELL DOKKA
+ELVERUM,shell,,unknown,SHELL ELVERUM
+STAVSJØ,shell,,unknown,SHELL EXPRESS STAVSJØ
+RIDABU,shell,,unknown,SHELL TORSHOV
+GJØVIK,shell,,unknown,SHELL EXPRESS GJØVIK
+HEMSEDAL,shell,,unknown,SHELL HEMSEDAL
+GOL,shell,,unknown,SHELL GOL
+ESPA,shell,,unknown,SHELL ESPA
+JAREN,shell,,unknown,SHELL LYGNASÆTER
+BRANDBU,shell,,unknown,SHELL AUTOMAT BRANDBU
+FLÅ,shell,,unknown,SHELL FLÅ
+GRAN,shell,,unknown,SHELL GRAN
+EIDSVOLL VERK,shell,,unknown,SHELL NEBBENES ØST
+ROA,shell,,unknown,SHELL ROA
+SOKNA,shell,,unknown,SHELL VEME
+HØNEFOSS,shell,,unknown,SHELL SLETTA
+RØYSE,shell,,unknown,SHELL VIK
+NORESUND,shell,,unknown,SHELL NORESUND
+SOLUMSMOEN,shell,,unknown,SHELL SOLUMSMOEN
+HARESTUA,shell,,unknown,SHELL HARESTUA
+BÆRUMS VERK,shell,,unknown,SHELL BÆRUMS VERK
+HASLUM,shell,,unknown,SHELL EXPRESS HASLUM
+SANDVIKA,shell,,unknown,SHELL EXPRESS SANDVIKA
+OSLO,shell,,unknown,SHELL ROMMEN
+NESBRU,shell,,unknown,SHELL AUTOMAT NESBRU
+ASKER,shell,,unknown,SHELL ASKER
+VETTRE,shell,,unknown,SHELL VETTRE
+LIER,shell,,unknown,SHELL EXPRESS LIERBY
+LIERSTRANDA,shell,,unknown,SHELL KJELLSTAD
+MJØNDALEN,shell,,unknown,SHELL MJØNDALEN
+DRAMMEN,shell,,unknown,SHELL BRAKERØYA
+SPIKKESTAD,shell,,unknown,SHELL EXPRESS SPIKKESTAD
+TROLLÅSEN,shell,,unknown,SHELL MASTEMYR
+KOLBOTN,shell,,unknown,SHELL KOLBOTN
+KONGSBERG,shell,,unknown,SHELL FRIEDLAND
+SVELVIK,shell,,unknown,SHELL SVELVIK
+SANDE I VESTFOLD,shell,,unknown,SHELL SANDE
+SKOLLENBORG,shell,,unknown,SHELL AUTOMAT HOSTVEDT
+HOLMESTRAND,shell,,unknown,SHELL EXPRESS HOLMESTRAND
+VÅLE,shell,,unknown,SHELL VÅLE
+KRAGERØ,shell,,unknown,SHELL KRAGERØ KIRKEBUKTA
+FREDRIKSTAD,shell,,unknown,SHELL RÅBEKKEN
+KRÅKERØY,shell,,unknown,SHELL KRÅKERØY
+GREÅKER,shell,,unknown,SHELL SOLLIBRUA
+BORGENHAUGEN,shell,,unknown,SHELL HAFSLUND
+MANSTAD,shell,,unknown,SHELL EXPRESS ONSØY
+RÅDE,shell,,unknown,SHELL EXPRESS RÅDE
+HALDEN,shell,,unknown,SHELL EXPRESS HALDEN
+MOSS,shell,,unknown,SHELL ØRE
+DUKEN,shell,,unknown,SHELL NØTTERØY
+NØTTERØY,shell,,unknown,SHELL TEIEHØYDEN
+TØNSBERG,shell,,unknown,SHELL KJELLEVEIEN
+HØLEN,shell,,unknown,SHELL AUTOMAT TEGNEBYHOLTET
+BARKÅKER,shell,,unknown,SHELL GRØSTAD
+HORTEN,shell,,unknown,SHELL EXPRESS APENES
+MELSOMVIK,shell,,unknown,SHELL EXPRESS MELSOMVIK
+MYSEN,shell,,unknown,SHELL MOMARKEN
+SLITU,shell,,unknown,SHELL EXPRESS MORENEN
+HOBØL,shell,,unknown,SHELL HOBØL
+SANDEFJORD,shell,,unknown,SHELL FOKSERØD
+ÅS,shell,,unknown,SHELL ÅS
+LØRENSKOG,shell,,unknown,SHELL SKÅRER
+STRØMMEN,shell,,unknown,SHELL STRØMMEN
+LILLESTRØM,shell,,unknown,SHELL LILLESTRØM
+SKEDSMOKORSET,shell,,unknown,SHELL SKEDSMOVOLLEN VEST
+TANA,shell,,unknown,SHELL TANABRU
+EIDSVOLL,shell,,unknown,SHELL EIDSVOLL
+NANNESTAD,shell,,unknown,SHELL AUTOMAT NANNESTAD SENTRUM
+VORMSUND,shell,,unknown,SHELL AUTOMAT VORMSUND
+HOLTER,shell,,unknown,SHELL EXPRESS NANNESTAD ELTONÅSEN
+KLØFTA,shell,,unknown,SHELL KLØFTA ØST
+GJERDRUM,shell,,unknown,SHELL GJERDRUM
+KONGSVINGER,shell,,unknown,SHELL VINGER
+HAUKELAND,shell,,unknown,SHELL LONE
+BERGEN,shell,,unknown,SHELL EXPRESS SANDVIKEN
+BØNES,shell,,unknown,SHELL BØNES
+NESTTUN,shell,,unknown,SHELL AUTOMAT NESTTUN
+LAKSEVÅG,shell,,unknown,SHELL NYGÅRD
+FYLLINGSDALEN,shell,,unknown,SHELL VARDEN
+RÅDAL,shell,,unknown,SHELL LAGUNEPARKEN
+BREISTEIN,shell,,unknown,SHELL HAUKÅS NYBORG
+KOKSTAD,shell,,unknown,SHELL EXPRESS KOKSTAD
+BLOMSTERDALEN,shell,,unknown,SHELL BLOMSTERDALEN
+MJØLKERÅEN,shell,,unknown,SHELL EXPRESS MARIKOLLEN
+STRAUME,shell,,unknown,SHELL STRAUME
+ISDALSTØ,shell,,unknown,SHELL EXPRESS ISDALSTØ
+OSTEREIDET,shell,,unknown,SHELL OSTEREIDET
+DALEKVAM,shell,,unknown,SHELL DALE
+NORHEIMSUND,shell,,unknown,SHELL NORHEIMSUND
+VOSS,shell,,unknown,SHELL EXPRESS VOSS
+STORD,shell,,unknown,SHELL HEIANE
+ODDA,shell,,unknown,SHELL ODDA
+ETNE,shell,,unknown,SHELL ETNE
+ØLEN,shell,,unknown,SHELL AUTOMAT ØLEN
+SVEIO,shell,,unknown,SHELL HAUKÅS SVEIO
+GUDVANGEN,shell,,unknown,SHELL GUDVANGEN
+ØVRE VATS,shell,,unknown,SHELL KNAPPHUS
+SANDEID,shell,,unknown,SHELL SANDEID
+RØLDAL,shell,,unknown,SHELL RØLDAL
+AKSDAL,shell,,unknown,SHELL AKSDAL
+HAUGESUND,shell,,unknown,SHELL KARMSUNDGATA
+SAND,shell,,unknown,SHELL SAND
+KARMSUND,shell,,unknown,SHELL NORHEIM
+KOPERVIK,shell,,unknown,SHELL KOPERVIK
+FØRDE,shell,,unknown,SHELL CRT FIRDA BILLAG
+MOSTERØY,shell,,unknown,SHELL EXPRESS RENNESØY
+STAVANGER,shell,,unknown,SHELL AUTOMAT FORUS
+HAFRSFJORD,shell,,unknown,SHELL MADLAKROSSEN
+TANANGER,shell,,unknown,SHELL EXPRESS RISAVIKA
+SOLA,shell,,unknown,SHELL SOLAKROSSEN
+SANDNES,shell,,unknown,SHELL EXPRESS BOGAFJELL
+NORDFJORDEID,shell,,unknown,SHELL CRT NORDFJORDEID
+VOLDA,shell,,unknown,SHELL EXPRESS VOLDA
+HOVDEBYGDA,shell,,unknown,SHELL EXPRESS HOVDEBYGDA
+ØRSTA,shell,,unknown,SHELL ØRSTA
+SELJE,shell,,unknown,SHELL SELJE
+ULSTEINVIK,shell,,unknown,SHELL ULSTEINVIK
+ÅLESUND,shell,,unknown,SHELL LERSTAD
+ØRSKOG,shell,,unknown,SHELL ØRSKOG
+VALLDAL,shell,,unknown,SHELL VALLDAL
+SOGNDAL,shell,,unknown,SHELL SOGNDAL
+VESTNES,shell,,unknown,SHELL VESTNES
+FORTUN,shell,,unknown,SHELL FORTUN
+KAUPANGER,shell,,unknown,SHELL EXPRESS KAUPANGER
+MOLDE,shell,,unknown,SHELL BOLSØNES
+NAMNÅ,shell,,unknown,SHELL NAMNÅ
+MOSBY,shell,,unknown,SHELL MOSBY
+KRISTIANSAND S,shell,,unknown,SHELL EXPRESS SØRLANDSPARKEN
+NODELAND,shell,,unknown,SHELL NODELAND
+SØGNE,shell,,unknown,SHELL LONELIER
+MANDAL,shell,,unknown,SHELL EXPRESS MANDAL
+LYNGDAL,shell,,unknown,SHELL PIT-STOP LYNGDAL
+ARENDAL,shell,,unknown,SHELL MYRENE
+FÆRVIK,shell,,unknown,SHELL TROMØY
+BYGLAND,shell,,unknown,SHELL BYGLAND
+TVEDESTRAND,shell,,unknown,SHELL EXPRESS AMTMANNSVINGEN
+FLEKKEFJORD,shell,,unknown,SHELL FLEKKEFJORD
+EGERSUND,shell,,unknown,SHELL EIEKRYSSET
+STATHELLE,shell,,unknown,SHELL LASSES
+ÅLGÅRD,shell,,unknown,SHELL EXPRESS ÅLGÅRD
+PORSGRUNN,shell,,unknown,SHELL JERNBANEGATA
+SKIEN,shell,,unknown,SHELL EXPRESS BØLEVEGEN
+SELJORD,shell,,unknown,SHELL SJØORMEN
+SAULAND,shell,,unknown,SHELL SAULAND
+NOTODDEN,shell,,unknown,SHELL NOTODDEN
+RJUKAN,shell,,unknown,SHELL TVEITO
+LARVIK,shell,,unknown,SHELL STORGATA LARVIK
+KODAL,shell,,unknown,SHELL EXPRESS KODAL
+BRYNE,shell,,unknown,SHELL BRYNE
+RØDBERG,shell,,unknown,SHELL AUTOMAT RØDBERG
+Kristiansand,sixt,,unknown,Car Hire Kristiansand | SIXT rent a car
+Herøysundet,sixt,,unknown,Car Hire Kvinnherad | SIXT rent a car
+Askim,sixt,,unknown,Car Hire Askim | SIXT rent a car
+Flekkefjord,sixt,,unknown,Car Hire Flekkefjord | SIXT rent a car
+Svartnes,sixt,,unknown,Car Hire Vardø Airport | SIXT rent a car
+Vadsø,sixt,,unknown,Car Hire Vadsø | SIXT rent a car
+Kleppe,sixt,,unknown,Car Hire Kleppe | SIXT rent a car
+Sandnes,sixt,,unknown,Car Hire Sandnes | SIXT rent a car
+Sauda,sixt,,unknown,Car Hire Sauda | SIXT rent a car
+Egersund,sixt,,unknown,Car Hire Egersund | SIXT rent a car
+Bryne,sixt,,unknown,Car Hire Bryne | SIXT rent a car
+Kristiansund,sixt,,unknown,Car Hire Kristiansund | SIXT rent a car
+Sveio,sixt,,unknown,Car Hire Sveio | SIXT rent a car
+Etne,sixt,,unknown,Car Hire Etne | SIXT rent a car
+Lakselv,sixt,,unknown,Car Hire Lakselv Airport | SIXT rent a car
+Sandnessjøen,sixt,,unknown,Car Hire Sandnessjoen Airport | SIXT rent a car
+Porsgrunn,sixt,,unknown,Car Hire Porsgrunn | SIXT rent a car
+Haugesund,sixt,,unknown,Car Hire Haugesund Cruise Port | SIXT rent a car
+Kongsberg,sixt,,unknown,Car Hire Kongsberg | SIXT rent a car
+Drammen,sixt,,unknown,Car Hire Drammen Train Station | SIXT rent a car
+Bardufoss,sixt,,unknown,Car Hire Bardufoss Airport | SIXT rent a car
+Leknes,sixt,,unknown,Car Hire Leknes Airport | SIXT rent a car
+Svolvær,sixt,,unknown,Car Hire Svolvær Airport | SIXT rent a car
+Oslo,sixt,,unknown,Car Hire Oslo Helsfyr | SIXT rent a car
+Mo i Rana,sixt,,unknown,Car Hire Mo i Rana | SIXT rent a car
+Nyborg,sixt,,unknown,Car Hire Ulset/Asane | SIXT rent a car
+Sagvag,sixt,,unknown,Car Hire Stord Airport | SIXT rent a car
+Mandal,sixt,,unknown,Car Hire Mandal | SIXT rent a car
+Hesseng,sixt,,unknown,Car Hire Kirkenes Airport | SIXT rent a car
+Skonseng,sixt,,unknown,Car Hire Mo i Rana Airport | SIXT rent a car
+Avaldsnes,sixt,,unknown,Car Hire Haugesund | SIXT rent a car
+Vigra,sixt,,unknown,Car Hire Alesund Airport | SIXT rent a car
+Molde,sixt,,unknown,Car Hire Molde Airport | SIXT rent a car
+"Kristiansund, Kvernberget",sixt,,unknown,Car Hire Kristiansund Kvernberget Airport | SIXT rent a car
+Mosjoen,sixt,,unknown,Car Hire Mosjøen Airport | SIXT rent a car
+Bodø,sixt,,unknown,Car Hire Bodø | SIXT rent a car
+Evenes,sixt,,unknown,Car Hire Harstad/Narvik Airport | SIXT rent a car
+Tromsoe,sixt,,unknown,Car Hire Tromsø Airport | SIXT rent a car
+Alta,sixt,,unknown,Car Hire Alta | SIXT rent a car
+Sandefjord,sixt,,unknown,Car Hire Sandefjord Torp Airport | SIXT rent a car
+Kjevik,sixt,,unknown,Car Hire Kristiansand Airport Kjevik | SIXT rent a car
+Stavanger,sixt,,unknown,Car Hire Stavanger Sola Airport | SIXT rent a car
+Stjørdal,sixt,,unknown,Car Hire Trondheim Vaernes Airport | SIXT rent a car
+Bergen,sixt,,unknown,Car Hire Bergen Flesland Airport | SIXT rent a car
+Gardermoen,sixt,,unknown,Car Hire Oslo Gardermoen Airport | SIXT rent a car
+Trondheim,sixt,,unknown,Car Hire Trondheim | SIXT rent a car
+Grimstad,sixt,,unknown,Car Hire Grimstad | SIXT rent a car
+Tromsø,sixt,,unknown,Car Hire Tromsø | SIXT rent a car
+Sola,sixt,,unknown,Car Hire Stavanger | SIXT rent a car
+Farsund,sixt,,unknown,Car Hire Farsund | SIXT rent a car
+Lyngdal,sixt,,unknown,Car Hire Lyngdal | SIXT rent a car
+Berg i Østfold,sixt,,unknown,Car Hire Halden | SIXT rent a car
+Rolvsøy,sixt,,unknown,Car Hire Fredrikstad/Sarpsborg | SIXT rent a car
+Arendal,sixt,,unknown,Car Hire Arendal | SIXT rent a car
+Batsfjord,sixt,,unknown,Car Hire Batsfjord | SIXT rent a car
+Narvik,sixt,,unknown,Car Hire Narvik | SIXT rent a car
+Kirkenes,sixt,,unknown,Car Hire Kirkenes | SIXT rent a car
+Ski,sixt,,unknown,Car Hire Ski | SIXT rent a car
+Rud,sixt,,unknown,Car Hire Rud/Baerum | SIXT rent a car
+Moss,sixt,,unknown,Car Hire Moss | SIXT rent a car
+unknown,skoda,,unknown,Svebjørn Auto AS
+Vinterbro,subway,,unknown,Subway Vinterbro Senter
+Trondheim,subway,,unknown,Subway City Lade
+Tønsberg,subway,,unknown,Subway Farmandstredet
+Vestby,subway,,unknown,Subway Vestby Storsenter
+Sogndal,subway,,unknown,Subway Amfi Sogningen
+Skien,subway,,unknown,Subway Skien Herkules
+Ski,subway,,unknown,Subway Jernbanesvingen 6
+Strømmen,subway,,unknown,Subway Strømmen Storsenter
+Sarpsborg,subway,,unknown,Subway Storbyen
+Sandefjord,subway,,unknown,Subway Sandefjord
+Porsgrunn,subway,,unknown,Subway
+Oslo,subway,,unknown,Subway
+Lillestrøm,subway,,unknown,Subway Lillestrøm Torv
+Lysaker,subway,,unknown,Subway Lysaker Station
+Lørenskog,subway,,unknown,Subway Metro Senter
+Lorenskog,subway,,unknown,Subway Gamleveien 88
+Kristiansand,subway,,unknown,Subway Lille Markens
+Krokstadelva,subway,,unknown,Subway Buskerud Storsenter
+Larvik,subway,,unknown,Subway Larvik Nansetgata
+Kongsberg,subway,,unknown,Subway Stortorvet
+Jessheim,subway,,unknown,Subway Jessheim Storsenter
+Hamar,subway,,unknown,Subway Cc Hamar Stadion
+Grimstad,subway,,unknown,Subway
+Fredrikstad,subway,,unknown,Subway
+Drammen,subway,,unknown,Subway Strømsø Torg
+Bodø,subway,,unknown,Subway Bodø Sentrum
+Bergen,subway,,unknown,Subway
+Asker,subway,,unknown,Subway
+Elverum,subway,,unknown,Subway Kremmertorget
+Arendal,subway,,unknown,Subway Stoa
+Alta,subway,,unknown,Subway Bjorn Wirkolas Vei 17
+unknown,super_dekk_no,Soknedalsveien 568 7288 Soknedal,unknown,Aarhaugs bilverksted AS
+unknown,super_dekk_no,Gvammen 18 3630 Rødberg,unknown,Aasen Bil og Landbruk AS
+unknown,super_dekk_no,Kvalamarka 9 5514 Haugesund,unknown,Anker Dekk AS
+unknown,super_dekk_no,Næringsveien 3 6517 Kristiansund N,unknown,AS Auto-Elektro
+unknown,super_dekk_no,Liamyrane 11 5132 Nyborg,unknown,ATR Autoservice AS
+unknown,super_dekk_no,Onstadvegen 5 5745 Aurland,unknown,Aurland Bil og Maskin AS
+unknown,super_dekk_no,Vik 160 5396 Vestre Vinnesvåg,unknown,Austevoll Auto AS
+unknown,super_dekk_no,Fensfjordvegen 600 5986 Hosteland,unknown,Auto Mek AS
+unknown,super_dekk_no,Øyna 54 6200 Stranda,unknown,Automek AS
+unknown,super_dekk_no,Hålandsvegen 26 4344 Bryne,unknown,Autoservice Bryne AS
+unknown,super_dekk_no,Industriveien 9 3430 Spikkestad,unknown,Autoservice Røyken AS
+unknown,super_dekk_no,Visnesvegen 107 4262 Avaldsnes,unknown,Avaldsnes Bilverksted
+unknown,super_dekk_no,Kvænangsveien 2380 9162 Sørstraumen,unknown,Badderen Servicesenter
+unknown,super_dekk_no,Hemsedalsvegen 2850 3560 Hemsedal,unknown,Bcn Bil Og Deler Da
+unknown,super_dekk_no,Vestabergveien 2 8920 Sømna,unknown,Berg Service AS
+unknown,super_dekk_no,Østlifaret 9 1476 Rasta,unknown,Bergersen Bil og Karosseri AS
+unknown,super_dekk_no,Nedre Rælingsveg 429 2008 Fjerdingby,unknown,Bergersen Bil og Karosseri AS avd. Rælingen
+unknown,super_dekk_no,Kyrkjevegen 429 6040 Vigra,unknown,Bil og Mekaniske AS
+unknown,super_dekk_no,Vestheimvegen 5 4250 Kopervik,unknown,Bilgummilageret AS
+unknown,super_dekk_no,Badstuveien 2 7100 Rissa,unknown,Bilhjelp1 AS
+unknown,super_dekk_no,Øyane 8 6770 Nordfjordeid,unknown,Bilpartner Vest AS
+unknown,super_dekk_no,Glåmveien 4 2500 Tynset,unknown,Bilskadesenteret Tynset AS
+unknown,super_dekk_no,Haraldvollveien 1 9325 Bardufoss,unknown,Biltech AS
+unknown,super_dekk_no,St Olavs Gate 147 9407 Harstad,unknown,Bilutstyr Nor AS
+unknown,super_dekk_no,Ivar Aasen gate 14 6150 Ørsta,unknown,Bilvarehuset AS
+unknown,super_dekk_no,Nergårdsgate 26 8643 Bjerka,unknown,Bjerka Auto
+unknown,super_dekk_no,Krutfjellveien 943D 8695 Hattfjelldal,unknown,Bjørkås Rep. og Service
+unknown,super_dekk_no,Hellandsjøveien 4 7200 Kyrksæterøra,unknown,Blakstad Auto AS
+unknown,super_dekk_no,Sandhorngata 39 8008 Bodø,unknown,Bodø Bil & Karosseri AS
+unknown,super_dekk_no,Averøyveien 8 6530 Averøy,unknown,Bremsnes Bilverksted AS
+unknown,super_dekk_no,Jemtlandsvegen 4 2383 Brumunddal,unknown,Brumunddal Dekk AS
+unknown,super_dekk_no,Valen 3 9990 Båtsfjord,unknown,Båtsfjord Bilsenter AS
+unknown,super_dekk_no,Hovlandsvegen 151 5443 Bømlo,unknown,Bømlo Bil AS
+unknown,super_dekk_no,Juvikflaten 12 5308 Kleppestø,unknown,Børge Olsen Racing AS
+unknown,super_dekk_no,Bølerlia 1 0691 Oslo,unknown,Circle K Bølerlia AS
+unknown,super_dekk_no,Havnegata 28 8400 Sortland,unknown,Custom Shop AS
+unknown,super_dekk_no,Hillevågveien 99B 4016 Stavanger,unknown,Dekk Centrum AS
+unknown,super_dekk_no,Tromsøysundveien 22 9020 Tromsdalen,unknown,Dekksentralen AS
+unknown,super_dekk_no,Haugeveien 40 1738 Borgenhaugen,unknown,DinBilservice AS
+unknown,super_dekk_no,Kvellurveien 1A 4373 Egersund,unknown,Egersund Bilverksted AS
+unknown,super_dekk_no,Eidfjordvegen 268 5783 Eidfjord,unknown,Eidfjord Bil og Last AS
+unknown,super_dekk_no,Sentrumsveien 116 3748 Siljan,unknown,Ekeberg Auto AS
+unknown,super_dekk_no,Tovika 58 9445 Tovik,unknown,Elvevoll Handel & Servicesenter AS
+unknown,super_dekk_no,Tongane 24 5590 Etne,unknown,Etne Auto AS
+unknown,super_dekk_no,Haukelivegen 945 5590 Etne,unknown,Etne Service Senter AS
+unknown,super_dekk_no,Negardsvegen 8 2270 Flisa,unknown,Flisa Bil 
+unknown,super_dekk_no,Skogevegen 2 5382 Skogsvåg,unknown,Forland Autosenter AS
+unknown,super_dekk_no,Setenesvegen 1 5943 Austrheim,unknown,Fosnøy Bilsenter AS
+unknown,super_dekk_no,Fievroluodda 3 9520 Kautokeino,unknown,Furulys Bilservice AS
+unknown,super_dekk_no,Opsalneset 20 5641 Fusa,unknown,Fusa Auto AS
+unknown,super_dekk_no,Jonstadveien 6 5146 Fyllingsdalen,unknown,Fyllingsdalen Autoservice AS
+unknown,super_dekk_no,Øyrane 1 6800 Førde,unknown,Førde Bilsalg AS
+unknown,super_dekk_no,Strandgata 95 6060 Hareid,unknown,G. Eilertsen AS
+unknown,super_dekk_no,Gaupnegrandane 11 6868 Gaupne,unknown,Gaupne Bilsenter AS
+unknown,super_dekk_no,Ollebakken 9 3181 Horten,unknown,Glenns Bildeler AS
+unknown,super_dekk_no,Tangenvegen 7 7653 Verdal,unknown,GT Bilprodukter
+unknown,super_dekk_no,Lagerveien 10 8250 Rognan,unknown,H.M. Karlsen & Sønner AS
+unknown,super_dekk_no,Hestemyrveien 18 4950 Risør,unknown,H.R. Bildeler AS
+unknown,super_dekk_no,Kinsarvikvegen 1 5780 Kinsarvik,unknown,Halldor Utne AS - Esso Kinsarvik
+unknown,super_dekk_no,Hadelandsvegen 902 2743 Harestua,unknown,Harestua Bil AS
+unknown,super_dekk_no,Bjørkåsveien 18A 8540 Ballangen,unknown,Harley-Davidson Nord Norge
+unknown,super_dekk_no,Hyllestadvegen 406 6957 Hyllestad,unknown,Hatleberg Bil og Maskin AS
+unknown,super_dekk_no,Hodlebrautsvegen 8 5281 Valestrandsfossen,unknown,Haugland Automobil AS
+unknown,super_dekk_no,Tittelsnesvegen 595 5550 Sveio,unknown,Haukås Dekk & Fritid AS
+unknown,super_dekk_no,Hessengveien 22 9912 Hesseng,unknown,Hivand Service AS
+unknown,super_dekk_no,Fabrikkveien 30 3360 Geithus,unknown,Hovde Bil AS
+unknown,super_dekk_no,Toralivegen 14 5450 Sunde i Sunnhordland,unknown,Husnes Pit Stop Service AS
+unknown,super_dekk_no,Storburusjøveien 25 7387 Singsås,unknown,Huus Bil AS
+unknown,super_dekk_no,Salhussletta 4 8900 Brønnøysund,unknown,Høylandet Auto AS
+unknown,super_dekk_no,Leksvikveien 131 7120 Leksvik,unknown,Indre Fosen Auto AS
+unknown,super_dekk_no,Sigurd Dahls veg 1 3520 Jevnaker,unknown,Jevnaker Bil & Karosseri AS
+unknown,super_dekk_no,Hyllavegen 4 7670 Inderøy,unknown,Jætåsen Bil AS
+unknown,super_dekk_no,Stongsvingen 70 4270 Åkrehamn,unknown,Karmøy Bilservice AS
+unknown,super_dekk_no,Hålandsdalsvegen 993 5640 Eikelandsosen,unknown,Kilen Auto AS
+unknown,super_dekk_no,Haugamyrvegen 12 5600 Norheimsund,unknown,Kvam Auto AS
+unknown,super_dekk_no,Holmfossveien 6 3282 Kvelde,unknown,Kvelde Servicesenter AS
+unknown,super_dekk_no,Skoganvarreveien 75 9700 Lakselv,unknown,Lakselv Motor AS
+unknown,super_dekk_no,Hanahaug 10 6863 Leikanger,unknown,Leikanger Auto
+unknown,super_dekk_no,Emil Schanches gate 7 7160 Bjugn,unknown,Maskin & Fritids Senteret
+unknown,super_dekk_no,Bordvegen 10 6854 Kaupanger,unknown,Maskinsenteret Vestland AS
+unknown,super_dekk_no,Mauravegen 67 2032 Maura,unknown,Maura Bensin og Service
+unknown,super_dekk_no,Gunnar Bergs vei 28 8300 Svolvær,unknown,Mdesign AS
+unknown,super_dekk_no,Torstadvegen 5 2335 Stange,unknown,Mekonomen Stange
+unknown,super_dekk_no,Mjåtveitflaten 17 5918 Frekhaug,unknown,Meland Auto AS
+unknown,super_dekk_no,Melhusvegen 397 7224 Melhus,unknown,Melhus Auto AS
+unknown,super_dekk_no,Sanddalsringen 3 5225 Nesttun,unknown,Mitt Verksted AS
+unknown,super_dekk_no,Nordåsdalen 27 5235 Rådal,unknown,Mitt Verksted Nordås AS
+unknown,super_dekk_no,Vålerstuen 2 2436 Våler i Solør,unknown,Mobakk Bil og Service AS
+unknown,super_dekk_no,Mølnvegen 10 7863 Overhalla,unknown,Multiservice Overhalla AS
+unknown,super_dekk_no,Mevikveien 8 8145 Storvik,unknown,Myrvang Service AS
+unknown,super_dekk_no,Sørsidevegen 1769 6386 Måndalen,unknown,Måndalen Servicesenter AS
+unknown,super_dekk_no,Kleist Geddes Vei 35 7890 Namsskogan,unknown,Namsskogan Servicestasjon AS
+unknown,super_dekk_no,Movegen 23 8700 Nesna,unknown,Nesna Mekaniske AS
+unknown,super_dekk_no,Raumavegen 69 6300 Åndalsnes,unknown,NH Bilverksted AS
+unknown,super_dekk_no,Torheimsvegen 214 6774 Nordfjordeid,unknown,Nordfjord Bilsenter AS
+unknown,super_dekk_no,Nordkappveien 80 9750 Nordkapp,unknown,Nordkapp Bilservice AS
+unknown,super_dekk_no,Orkdalsveien 604 7320 Fannrem,unknown,Nøsen & Co AS
+unknown,super_dekk_no,Malmefjordvegen 236 6445 Malmefjorden,unknown,Oljebua (Samuelsen Maskin)
+unknown,super_dekk_no,Sognevegen 4264 5961 Brekke,unknown,Oppedal Servicesenter AS
+unknown,super_dekk_no,Kårøydalsveien 4 7203 Vinjeøra,unknown,Opsal og Fjelnset AS
+unknown,super_dekk_no,Langsundveien 27 9130 Hansnes,unknown,Prima Mat AS
+unknown,super_dekk_no,Radøyvegen 1607 5936 Manger,unknown,Radøy Auto AS
+unknown,super_dekk_no,Kollevågvegen 8 5310 Hauglandshella,unknown,Ravnanger Autosenter AS
+unknown,super_dekk_no,Hovedveien 45 9152 Sørkjosen,unknown,Reisa Bilsenter AS
+unknown,super_dekk_no,Sjøgata 1 2450 Rena,unknown,Rena Servicesenter AS
+unknown,super_dekk_no,Gamle Kongevei 2443 2485 Rendalen,unknown,Rendalen Servicesenter AS
+unknown,super_dekk_no,Storveien 19 9310 Sørreisa,unknown,RH Autoservice AS
+unknown,super_dekk_no,Rindalslina 603 6657 Rindal,unknown,Rindal Auto AS
+unknown,super_dekk_no,Hvalsmoen 127 3514 Hønefoss,unknown,Ringerike Bilsenter AS
+unknown,super_dekk_no,Gunnar Schjelderups veg 64A 6723 Svelgen,unknown,Route 614 AS
+unknown,super_dekk_no,Rolvsøyveien 207 1617 Fredrikstad,unknown,Råbekken Bilverksted AS
+unknown,super_dekk_no,Industrivegen 4 2120 Sagstua,unknown,Sand-Tec AS
+unknown,super_dekk_no,Birkelandsvegen 122 4200 Sauda,unknown,Sauda Bilverkstad AS
+unknown,super_dekk_no,Århusmoen 1 3840 Seljord,unknown,Seljord Bil AS
+unknown,super_dekk_no,Lysnesveien 89 9372 Gibostad,unknown,Senja Autoservice AS
+unknown,super_dekk_no,St. Jetmund-vegen 102 6146 Åheim,unknown,Senso Auto AS
+unknown,super_dekk_no,Sentrumsveien 54 3550 Gol,unknown,Sentrum Bil
+unknown,super_dekk_no,Sommerroveien 4 1793 Tistedal,unknown,Sentrum Bilservice AS
+unknown,super_dekk_no,Totenvegen 815 2848 Skreia,unknown,Servicepunkt1 AS
+unknown,super_dekk_no,Elling O. Wallbøes veg 5 6240 Ørskog,unknown,Sjøholt Maskin AS
+unknown,super_dekk_no,Stamphus vei 3 7374 Røros,unknown,Skancke AS
+unknown,super_dekk_no,Industrivegen 42 2680 Vågå,unknown,Skogen Bil AS
+unknown,super_dekk_no,Østsideveien 2333 6570 Smøla,unknown,Smøla Bilservice AS
+unknown,super_dekk_no,Telemarksveien 156 4985 Vegårshei,unknown,Snowking AS
+unknown,super_dekk_no,Peter Jebsensveg 72 5265 Ytre Arna,unknown,Stamneshagen Auto AS
+unknown,super_dekk_no,Vabakkjen 3 5411 Stord,unknown,Stord Bil og Dekksenter AS
+unknown,super_dekk_no,Salomons vei 21 8530 Bjerkvik,unknown,Storøs Auto AS
+unknown,super_dekk_no,Stovnerveien 4 0980 Oslo,unknown,Stovnerbrua Servicesenter AS
+unknown,super_dekk_no,Nedrevegen 150 6710 Raudeberg,unknown,Strand Auto AS
+unknown,super_dekk_no,Sartorvegen 10 5353 Straume,unknown,Straume Bensin Autosenter AS
+unknown,super_dekk_no,Tonningsgata 2 6783 Stryn,unknown,Stryn Bensinstasjon AS
+unknown,super_dekk_no,Smånipevegen 6 5381 Glesvær,unknown,Sund Lakk Karosseri Bil AS
+unknown,super_dekk_no,Kråkøyveien 54 7180 Roan,unknown,Super Dekk Service Roan
+unknown,super_dekk_no,Kyrkjevegen 159 6230 Sykkylven,unknown,Sykkylven Bil AS
+unknown,super_dekk_no,Elvebakken 4 9419 Sørvik,unknown,Sørvik Bensin AS
+unknown,super_dekk_no,Rådhusveien 1 9845 Tana,unknown,Tanabru Service AS
+unknown,super_dekk_no,Finnmarksveien 50 9600 Hammerfest,unknown,Tech`s AS
+unknown,super_dekk_no,Grotlevegen 65 6727 Bremanger,unknown,Terdal Bilservice AS
+unknown,super_dekk_no,Framnes 2500 Tynset,unknown,TF Dekkteam AS
+unknown,super_dekk_no,Strandavegen 367 5710 Skulestadsmo,unknown,Tide Verksted avd. Voss
+unknown,super_dekk_no,Minne Industriområde 49 2092 Minnesund,unknown,Timo AS
+unknown,super_dekk_no,Gåsavikja 1 4230 Sand,unknown,Tjelmane Dekkservice AS
+unknown,super_dekk_no,Hamnsundvegen 242 6280 Søvik,unknown,Torbjørn Søvikhagen AS
+unknown,super_dekk_no,Kåsenveien 3 7340 Oppdal,unknown,Total Autoservice AS
+unknown,super_dekk_no,Turmoen 14 2635 Tretten,unknown,Tretten Bilpleiesenter 
+unknown,super_dekk_no,Tangenvegen 3 6885 Årdalstangen,unknown,Trucknor Sogn Og Fjordane AS
+unknown,super_dekk_no,Vullosguolbba 23 9730 Karasjok,unknown,Tuning & Service AS
+unknown,super_dekk_no,Tydalsvegen 80 7590 Tydal,unknown,Tydal Bil-Elektro AS
+unknown,super_dekk_no,Kilengata 20 3117 Tønsberg,unknown,Tønsberg Autoservice AS
+unknown,super_dekk_no,Langslågata 1 6600 Sunndalsøra,unknown,Tørset Bil A/S
+unknown,super_dekk_no,Tørvikbygdvegen 440 5620 Tørvikbygd,unknown,Tørvikbygd Auto
+unknown,super_dekk_no,Espelandsvegen 20 5730 Ulvik,unknown,Ulvik Bensin og Service AS
+unknown,super_dekk_no,Osterfjordvegen 1220 5913 Eikangervåg,unknown,Vaage Karosseri AS
+unknown,super_dekk_no,Sør-Varangerveien 8 9801 Vadsø,unknown,Vadsø Bil og Motor AS
+unknown,super_dekk_no,Syltegata 5 6210 Valldal,unknown,Valldal Bilsenter AS
+unknown,super_dekk_no,Øraveien 2 1630 Gamle Fredrikstad,unknown,Vaterland Auto AS
+unknown,super_dekk_no,Brekkvegen 582 6690 Aure,unknown,Vean Bil & Landbruksverksted
+unknown,super_dekk_no,Neptunvegen 3 7652 Verdal,unknown,Verdal Last og Buss AS
+unknown,super_dekk_no,Buktavegen 15 6390 Vestnes,unknown,Vestnes Dekk & Felger AS
+unknown,super_dekk_no,Vestsida 1171 3623 Lampeland,unknown,Vestsia Servicesenter
+unknown,super_dekk_no,Haukelivegen 353 5574 Skjold,unknown,Voll Motor AS
+unknown,super_dekk_no,Storgaten 59 2830 Raufoss,unknown,Wangen AS
+unknown,super_dekk_no,Skeivegen 8 6650 Surnadal,unknown,YX Energi B Schei
+unknown,super_dekk_no,Straumsnesvegen 614 6674 Kvisvik,unknown,Ø.A. Kanestrøm Mek. Verksted
+unknown,super_dekk_no,Vestmovegen 26 2420 Trysil,unknown,Økonomidekk AS
+unknown,super_dekk_no,Lundanes 2 5610 Øystese,unknown,"ØMV Bilsenter, Øystese"
+Oslo,timberland,,unknown,Timberland Outlet Oslo - Vestby Centre
+Oslo,tommy_hilfiger,,unknown,Tommy Hilfiger Outlet
+BODO,united_colors_of_benetton,,unknown,Benetton Bodo
+HAUGESUND,united_colors_of_benetton,,unknown,Benetton Haugesund
+OSLO,united_colors_of_benetton,,unknown,Benetton Oslo
+SANDVIKA,united_colors_of_benetton,,unknown,CONCEPT AS/SANDVIKA/N
+STAVANGER,united_colors_of_benetton,,unknown,Benetton Stavanger
+MANDAL,visa,,unknown,unknown
+BEKKESTUA,visa,,unknown,unknown
+VANSE,visa,,unknown,unknown
+FARSUND,visa,,unknown,unknown
+KRISTIANSAND S,visa,,unknown,unknown
+KJEVIK,visa,,unknown,unknown
+LILLESAND,visa,,unknown,unknown
+VENNESLA,visa,,unknown,unknown
+KVINESDAL,visa,,unknown,unknown
+GRIMSTAD,visa,,unknown,unknown
+ARENDAL,visa,,unknown,unknown
+BRYNE,visa,,unknown,unknown
+EVJE,visa,,unknown,unknown
+KLEPPE,visa,,unknown,unknown
+SANDNES,visa,,unknown,unknown
+TVEDESTRAND,visa,,unknown,unknown
+LODDEFJORD,visa,,unknown,unknown
+STAVANGER,visa,,unknown,unknown
+HOMMERSAK,visa,,unknown,unknown
+SKUDENESHAVN,visa,,unknown,unknown
+AKREHAMN,visa,,unknown,unknown
+VEDAVAGEN,visa,,unknown,unknown
+AVALDSNES,visa,,unknown,unknown
+SANNIDAL,visa,,unknown,unknown
+KARMSUND,visa,,unknown,unknown
+DRANGEDAL,visa,,unknown,unknown
+STAVERN,visa,,unknown,unknown
+STATHELLE,visa,,unknown,unknown
+HAUGESUND,visa,,unknown,unknown
+LARVIK,visa,,unknown,unknown
+PORSGRUNN,visa,,unknown,unknown
+SKIEN,visa,,unknown,unknown
+SANDEFJORD,visa,,unknown,unknown
+TJØME,visa,,unknown,unknown
+ØVRE VATS,visa,,unknown,unknown
+STOKKE,visa,,unknown,unknown
+DALEN,visa,,unknown,unknown
+BERG I ØSTFOLD,visa,,unknown,unknown
+HALDEN,visa,,unknown,unknown
+GRESSVIK,visa,,unknown,unknown
+TONSBERG,visa,,unknown,unknown
+TØNSBERG,visa,,unknown,unknown
+GAMLE FREDRIKSTAD,visa,,unknown,unknown
+FREDRIKSTAD,visa,,unknown,unknown
+NOTODDEN,visa,,unknown,unknown
+ETNE,visa,,unknown,unknown
+ROLVSØY,visa,,unknown,unknown
+GREAKER,visa,,unknown,unknown
+SARPSBORG,visa,,unknown,unknown
+BO I TELEMARK,visa,,unknown,unknown
+BORGENHAUGEN,visa,,unknown,unknown
+REVETAL,visa,,unknown,unknown
+STORD,visa,,unknown,unknown
+GRALUM,visa,,unknown,unknown
+RADE,visa,,unknown,unknown
+HORTEN,visa,,unknown,unknown
+MOSS,visa,,unknown,unknown
+HOLMESTRAND,visa,,unknown,unknown
+KONGSBERG,visa,,unknown,unknown
+BEKKJARVIK,visa,,unknown,unknown
+SVELVIK,visa,,unknown,unknown
+VESTBY,visa,,unknown,unknown
+MYSEN,visa,,unknown,unknown
+ASKIM,visa,,unknown,unknown
+STOREBO,visa,,unknown,unknown
+STOREBØ,visa,,unknown,unknown
+SPYDEBERG,visa,,unknown,unknown
+DRØBAK,visa,,unknown,unknown
+DROBAK,visa,,unknown,unknown
+AS,visa,,unknown,unknown
+DRAMMEN,visa,,unknown,unknown
+KROKSTADELVA,visa,,unknown,unknown
+SKI,visa,,unknown,unknown
+BASTAD,visa,,unknown,unknown
+VINTERBRO,visa,,unknown,unknown
+SLEMMESTAD,visa,,unknown,unknown
+OS,visa,,unknown,unknown
+YTRE ENEBAKK,visa,,unknown,unknown
+LIERSKOGEN,visa,,unknown,unknown
+ASKER,visa,,unknown,unknown
+SOFIEMYR,visa,,unknown,unknown
+KOLBOTN,visa,,unknown,unknown
+BJØRNEMYR,visa,,unknown,unknown
+NESBRU,visa,,unknown,unknown
+OSLO,visa,,unknown,unknown
+BLOMSTERDALEN,visa,,unknown,unknown
+NESODDTANGEN,visa,,unknown,unknown
+BILLINGSTAD,visa,,unknown,unknown
+RADAL,visa,,unknown,unknown
+SANDVIKA,visa,,unknown,unknown
+HØVIK,visa,,unknown,unknown
+NESTTUN,visa,,unknown,unknown
+KOLSAS,visa,,unknown,unknown
+HASLUM,visa,,unknown,unknown
+RYKKINN,visa,,unknown,unknown
+LYSAKER,visa,,unknown,unknown
+FYLLINGSDALEN,visa,,unknown,unknown
+BÆRUMS VERK,visa,,unknown,unknown
+BERGEN,visa,,unknown,unknown
+GODVIK,visa,,unknown,unknown
+ØSTERAS,visa,,unknown,unknown
+OSTERAS,visa,,unknown,unknown
+GAUPNE,visa,,unknown,unknown
+RASTA,visa,,unknown,unknown
+LAKSEVAG,visa,,unknown,unknown
+AGOTNES,visa,,unknown,unknown
+LØRENSKOG,visa,,unknown,unknown
+STROMMEN,visa,,unknown,unknown
+NORDBYHAGEN,visa,,unknown,unknown
+KLEPPESTØ,visa,,unknown,unknown
+KLEPPESTO,visa,,unknown,unknown
+BJORKELANGEN,visa,,unknown,unknown
+FETSUND,visa,,unknown,unknown
+STRØMMEN,visa,,unknown,unknown
+HEMNES I HOLA,visa,,unknown,unknown
+SKJETTEN,visa,,unknown,unknown
+LILLESTRØM,visa,,unknown,unknown
+LILLESTROM,visa,,unknown,unknown
+HAUGLANDSHELLA,visa,,unknown,unknown
+HAGAN,visa,,unknown,unknown
+AURSKOG,visa,,unknown,unknown
+ULSET,visa,,unknown,unknown
+NYBORG,visa,,unknown,unknown
+SKEDSMOKORSET,visa,,unknown,unknown
+EIDFJORD,visa,,unknown,unknown
+AULI,visa,,unknown,unknown
+ISDALSTO,visa,,unknown,unknown
+HØNEFOSS,visa,,unknown,unknown
+HONEFOSS,visa,,unknown,unknown
+KLØFTA,visa,,unknown,unknown
+JESSHEIM,visa,,unknown,unknown
+ARNES,visa,,unknown,unknown
+VOSS,visa,,unknown,unknown
+VOSSESTRAND,visa,,unknown,unknown
+SKULESTADMO,visa,,unknown,unknown
+GEILO,visa,,unknown,unknown
+FLA,visa,,unknown,unknown
+RAHOLT,visa,,unknown,unknown
+KONGSVINGER,visa,,unknown,unknown
+NESBYEN,visa,,unknown,unknown
+GARDVIK,visa,,unknown,unknown
+GUDVANGEN,visa,,unknown,unknown
+FEIRING,visa,,unknown,unknown
+AURLAND,visa,,unknown,unknown
+HEMSEDAL,visa,,unknown,unknown
+LENA,visa,,unknown,unknown
+GJOVIK,visa,,unknown,unknown
+BAGN,visa,,unknown,unknown
+FLISA,visa,,unknown,unknown
+DOKKA,visa,,unknown,unknown
+GJØVIK,visa,,unknown,unknown
+OTTESTAD,visa,,unknown,unknown
+HAMAR,visa,,unknown,unknown
+FAGERNES,visa,,unknown,unknown
+LEIKANGER,visa,,unknown,unknown
+ETNEDAL,visa,,unknown,unknown
+BALESTRAND,visa,,unknown,unknown
+BRUMUNDDAL,visa,,unknown,unknown
+ASKVOLL,visa,,unknown,unknown
+SOGNDAL,visa,,unknown,unknown
+ARDALSTANGEN,visa,,unknown,unknown
+ELVERUM,visa,,unknown,unknown
+FØRDE,visa,,unknown,unknown
+FORDE,visa,,unknown,unknown
+LILLEHAMMER,visa,,unknown,unknown
+SJUSJØEN,visa,,unknown,unknown
+FLORO,visa,,unknown,unknown
+SKEI I JOLSTER,visa,,unknown,unknown
+SKEI I JØLSTER,visa,,unknown,unknown
+KALVAG,visa,,unknown,unknown
+SVELGEN,visa,,unknown,unknown
+SANDANE,visa,,unknown,unknown
+RINGEBU,visa,,unknown,unknown
+TRYSIL,visa,,unknown,unknown
+OLDEN,visa,,unknown,unknown
+MALOY,visa,,unknown,unknown
+NORDFJORDEID,visa,,unknown,unknown
+LOEN,visa,,unknown,unknown
+STRYN,visa,,unknown,unknown
+LOM,visa,,unknown,unknown
+OTTA,visa,,unknown,unknown
+VAGA,visa,,unknown,unknown
+VOLDA,visa,,unknown,unknown
+HOVDEBYGDA,visa,,unknown,unknown
+ORSTA,visa,,unknown,unknown
+ØRSTA,visa,,unknown,unknown
+DOMBAS,visa,,unknown,unknown
+FOSNAVAG,visa,,unknown,unknown
+ULSTEINVIK,visa,,unknown,unknown
+STRANDA,visa,,unknown,unknown
+HAREID,visa,,unknown,unknown
+SYKKYLVEN,visa,,unknown,unknown
+LANGEVAG,visa,,unknown,unknown
+ALESUND,visa,,unknown,unknown
+VIGRA,visa,,unknown,unknown
+BRATTVAG,visa,,unknown,unknown
+KRISTIANSUND N,visa,,unknown,unknown
+TYNSET,visa,,unknown,unknown
+ANDALSNES,visa,,unknown,unknown
+VESTNES,visa,,unknown,unknown
+MOLDE,visa,,unknown,unknown
+SUNNDALSØRA,visa,,unknown,unknown
+OPPDAL,visa,,unknown,unknown
+ELNESVAGEN,visa,,unknown,unknown
+RØROS,visa,,unknown,unknown
+RENNEBU,visa,,unknown,unknown
+SURNADAL,visa,,unknown,unknown
+BUDALEN,visa,,unknown,unknown
+ALEN,visa,,unknown,unknown
+STØREN,visa,,unknown,unknown
+HOVIN I GAULDAL,visa,,unknown,unknown
+AURE,visa,,unknown,unknown
+ORKANGER,visa,,unknown,unknown
+MELHUS,visa,,unknown,unknown
+BØRSA,visa,,unknown,unknown
+HEIMDAL,visa,,unknown,unknown
+TILLER,visa,,unknown,unknown
+FLATASEN,visa,,unknown,unknown
+HITRA,visa,,unknown,unknown
+TRONDHEIM,visa,,unknown,unknown
+HOMMELVIK,visa,,unknown,unknown
+VIKHAMMER,visa,,unknown,unknown
+STJØRDAL,visa,,unknown,unknown
+STJORDAL,visa,,unknown,unknown
+VANVIKAN,visa,,unknown,unknown
+RISSA,visa,,unknown,unknown
+MERAKER,visa,,unknown,unknown
+SISTRANDA,visa,,unknown,unknown
+FROSTA,visa,,unknown,unknown
+LEKSVIK,visa,,unknown,unknown
+LEVANGER,visa,,unknown,unknown
+VERDAL,visa,,unknown,unknown
+AFJORD,visa,,unknown,unknown
+INDERØY,visa,,unknown,unknown
+STEINKJER,visa,,unknown,unknown
+MALM,visa,,unknown,unknown
+ROAN,visa,,unknown,unknown
+NAMDALSEID,visa,,unknown,unknown
+STEINSDALEN,visa,,unknown,unknown
+SNASA,visa,,unknown,unknown
+FLATANGER,visa,,unknown,unknown
+NAMSOS,visa,,unknown,unknown
+SØRLI,visa,,unknown,unknown
+OVERHALLA,visa,,unknown,unknown
+GRONG,visa,,unknown,unknown
+HØYLANDET,visa,,unknown,unknown
+RØRVIK,visa,,unknown,unknown
+KOLVEREID,visa,,unknown,unknown
+NAMSSKOGAN,visa,,unknown,unknown
+LEKA,visa,,unknown,unknown
+TERRAK,visa,,unknown,unknown
+MO I RANA,visa,,unknown,unknown
+STORFORSHEI,visa,,unknown,unknown
+BODØ,visa,,unknown,unknown
+BODO,visa,,unknown,unknown
+FAUSKE,visa,,unknown,unknown
+SØRVAGEN,visa,,unknown,unknown
+RAMBERG,visa,,unknown,unknown
+BØSTAD,visa,,unknown,unknown
+KABELVAG,visa,,unknown,unknown
+SVOLVAER,visa,,unknown,unknown
+STOKMARKNES,visa,,unknown,unknown
+NARVIK,visa,,unknown,unknown
+EVENES,visa,,unknown,unknown
+HARSTAD,visa,,unknown,unknown
+TROMSØ,visa,,unknown,unknown
+TROMSO,visa,,unknown,unknown
+ALTA,visa,,unknown,unknown
+HONNINGSVAG,visa,,unknown,unknown

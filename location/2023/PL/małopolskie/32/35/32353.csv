@@ -1,0 +1,12 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+11463,abc_pl,abc,,Glanów,małopolskie,,PL,,,,abc,Q11683985
+15140,abc_pl,abc,,Imbramowice,małopolskie,,PL,,,,abc,Q11683985
+2479,groszek_pl,Groszek,,Zagórowa,małopolskie,,PL,,,,Groszek,Q9280965
+12510,groszek_pl,Groszek,,Sucha,małopolskie,,PL,,,,Groszek,Q9280965
+14410,groszek_pl,Groszek,,Tarnawa,małopolskie,,PL,,,,Groszek,Q9280965
+GLAN01M,paczkomat_inpost_pl,Przy OSP Sucha,,Glanów,małopolskie,,PL,,https://inpost.pl/paczkomat-glanow-glan01m-dluga-miejsc-sucha-32-353-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+IMB01M,paczkomat_inpost_pl,Przy OSP Imbramowice,,Imbramowice,małopolskie,,PL,,https://inpost.pl/paczkomat-imbramowice-imb01m-imbramowice-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+JNG01A,paczkomat_inpost_pl,Na parkingu przed sklepem ABC,,Jangrot,małopolskie,,PL,,https://inpost.pl/paczkomat-jangrot-jng01a-jangrot-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+TRY01M,paczkomat_inpost_pl,Urząd Gminy,,Trzyciąż,małopolskie,,PL,,https://inpost.pl/paczkomat-trzyciaz-try01m-lesna-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+ZDR01M,paczkomat_inpost_pl,Przy OSP Zadroże,,Zadroże,małopolskie,,PL,,https://inpost.pl/paczkomat-zadroze-zdr01m-zadroze-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+775268,poczta_polska_pl,FUP Wolbrom,,Trzyciąż,MAŁOPOLSKIE,,PL,+48 12 389 40 41,,,Poczta Polska,Q168833

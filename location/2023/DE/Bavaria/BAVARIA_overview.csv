@@ -1,0 +1,526 @@
+City,Place Name,Zipcode,Name
+Ingolstadt,asics_eu,,unknown,ASICS Factory Outlet Ingolstadt
+Wals-Himmelreich,asics_eu,,unknown,ASICS Factory Outlet Salzburg
+Wertheim,asics_eu,,unknown,ASICS Factory Outlet Wertheim
+Tarsdorf,audi,Tarsdorf 56/4 5121 Tarsdorf,unknown,Felber Auto GmbH
+Wals-Himmelreich,audi,Bundesstraße 15 5071 Wals-Himmelreich,unknown,Auto Lindner Ges.m.b.H.
+Kempten,audi,Johann-Abt-Straße 2 87437 Kempten,unknown,ABT Servicecenter GmbH
+Karlstadt,audi,Am Hammersteig 1 97753 Karlstadt,unknown,Peter Grampp GmbH & Co. KG
+Hersbruck,audi,Ostbahnstraße 130 91217 Hersbruck,unknown,Amann GmbH & Co. KG
+Waldsassen,audi,Lämmerstraße 30 95652 Waldsassen,unknown,Motor-Nützel Vertriebs-GmbH
+Unterschleißheim,audi,Landshuter Straße 25 85716 Unterschleißheim,unknown,Auto-Kölbl GmbH
+Riedenburg,audi,Am Gewerbepark 10 93339 Riedenburg,unknown,Auto Bierschneider GmbH
+Höchstadt,audi,Fürther Straße 10 91315 Höchstadt,unknown,Auto Wormser & Co. Service GmbH
+Bamberg,audi,Kärntenstraße 9/11 96052 Bamberg,unknown,Motor-Nützel Vertriebs-GmbH
+Füssen,audi,Hiebelerstraße 65 87629 Füssen,unknown,Autohaus Heuberger GmbH
+Weixerau,audi,Wasserbruck 1 84174 Weixerau,unknown,Autohaus Rudolf Sedlmaier e.K.
+Sand,audi,Zeiler Straße 56 97522 Sand,unknown,Autohaus Sand am Main Gelder & Sorg GmbH
+Hausen,audi,Fladunger Straße 29 97647 Hausen,unknown,Autohaus Orf Inh. Walter Orf e.K.
+Weiden,audi,Dr.-Johann-Stark-Straße 8 92637 Weiden,unknown,Autohaus Raab GmbH
+Pocking,audi,Hartkirchner Straße 45 94060 Pocking,unknown,Auto-Ringler-Service- GmbH
+Weißenburg,audi,Dettenheimer Straße 23 91781 Weißenburg,unknown,Auto Bierschneider GmbH
+Landsberg,audi,Lechwiesenstraße 54 86899 Landsberg,unknown,Auto & Service PIA GmbH
+Weilheim,audi,Olympiastraße 4-8 82362 Weilheim,unknown,Auto & Service PIA GmbH
+Penzberg,audi,Seeshaupter Straße 19 82377 Penzberg,unknown,Auto & Service PIA GmbH
+München,audi,Filchnerstraße 86-88 81476 München,unknown,Autohaus Christl & Schowalter GmbH & Co. KG
+Freising,audi,Haggertystraße 8 85356 Freising,unknown,Autohaus Freising Schowalter GmbH & Co. Autohandels KG
+Donauwörth,audi,Dillinger Straße 47 B 86609 Donauwörth,unknown,Auto König GmbH & Co. KG
+Miesbach,audi,Strass 1 83714 Miesbach,unknown,Autohaus Weingärtner GmbH & Co. KG
+Würzburg,audi,Nürnberger Straße 126 a 97076 Würzburg,unknown,Spindler GmbH & Co. KG
+Lichtenfels,audi,Grünewaldstraße 2 96215 Lichtenfels,unknown,G & S Automobile GmbH
+Eggenfelden,audi,Landshuter Straße 160 84307 Eggenfelden,unknown,Autohaus Ostermaier GmbH
+Bamberg,audi,Kronacher Straße 51 96052 Bamberg,unknown,Auto-Scholz AHG GmbH & Co. KG
+Bayreuth,audi,Wolfsbacher Straße 10 95448 Bayreuth,unknown,Auto-Scholz AHG GmbH & Co. KG
+Pfatter,audi,Am Lauser 1 93102 Pfatter,unknown,Autohaus Früchtl GmbH
+Dingolfing,audi,Römerstraße 38 84130 Dingolfing,unknown,AVP Autoland GmbH & Co. KG
+Schongau,audi,Am Lerchenfeld 7 86956 Schongau,unknown,Autohaus Anton Ortner GmbH & Co. KG
+Kulmbach,audi,Leitenacker 8 95326 Kulmbach,unknown,Motor-Nützel Vertriebs-GmbH
+Großwallstadt,audi,Grundtalring 28 63868 Großwallstadt,unknown,Autohaus Adam Wolfert GmbH
+Rosenheim,audi,Äußere Münchener Straße 60 83026 Rosenheim,unknown,BaderMainzl GmbH & Co. KG
+Aschaffenburg,audi,Schönbornstraße 52 63741 Aschaffenburg,unknown,Scherer GmbH & Co. KG
+Schweinfurt,audi,Stockholmstraße 2 97424 Schweinfurt,unknown,Gelder & Sorg Schweinfurt GmbH & Co. KG
+Röttingen,audi,Rothenburger Straße 26 97285 Röttingen,unknown,ascari GmbH
+Dietersheim,audi,Am Baumgarten 3+7 91463 Dietersheim,unknown,Auto Zeilinger GmbH
+Deggendorf,audi,Graflinger Straße 174 94469 Deggendorf,unknown,AVP Autoland GmbH & Co. KG
+Friedberg,audi,Balthasar-Schaller-Straße 7 86316 Friedberg,unknown,Autohaus Stegmair GmbH
+Bad Kissingen,audi,Würzburger Straße 15 97688 Bad Kissingen,unknown,Gelder & Sorg GmbH & Co. KG
+Kitzingen,audi,Mainstraße 51 97318 Kitzingen,unknown,Autohaus Spindler Kitzingen GmbH & Co. KG
+Germering,audi,Maria-von-Linden-Straße 7 82110 Germering,unknown,Autohaus Moser GmbH
+Straubing,audi,Chamer Straße 130 94315 Straubing,unknown,Auto Bierschneider GmbH
+Regensburg,audi,Prüller Weg 5 93055 Regensburg,unknown,Auto Bierschneider GmbH
+Eching,audi,Heisenbergstraße 4 85386 Eching,unknown,Audi München GmbH
+Pressig,audi,Kronacher Straße 22 96332 Pressig,unknown,Autohaus Vetter Vertriebsgesellschaft mbH
+Coburg,audi,Neustadterstraße 26 96450 Coburg,unknown,Gelder & Sorg Coburg GmbH
+Hof,audi,Fuhrmannstraße 25 95030 Hof,unknown,Motor-Nützel Vertriebs GmbH
+Burgoberbach,audi,Im Herrmannshof 23 91595 Burgoberbach,unknown,Feser-Breitschwert GmbH
+Scheßlitz,audi,Am Steinernen Kreuz 2 96110 Scheßlitz,unknown,Motor-Nützel Vertriebs-GmbH
+Erding,audi,Am Kletthamer Feld 11 85435 Erding,unknown,Autohaus Hans Maier GmbH
+Schrobenhausen,audi,Augsburger Straße 47 86529 Schrobenhausen,unknown,Autohaus Stiglmayr GmbH
+Landshut,audi,Liebigstraße 6 84030 Landshut,unknown,Audi Zentrum Landshut Zweigniederlassung der Hans Eichbichler GmbH & Co. KG
+Passau,audi,Pionierstraße 2 94036 Passau,unknown,Audi Zentrum Passau Niederlassung der Firma Erich Röhr GmbH & Co. KG
+Traunstein,audi,Grabenstätterstraße 2 + 4 83278 Traunstein,unknown,Osenstätter Kraftfahrzeuge GmbH
+Kempten,audi,Calgeerstraße 7 87435 Kempten,unknown,Autohaus Seitz GmbH
+München,audi,Hochstraße 15 81669 München,unknown,Audi München GmbH
+Starnberg,audi,Münchner Straße 25-27 82319 Starnberg,unknown,Audi München GmbH
+Saal,audi,Donaustraße 22 93342 Saal,unknown,Johann Wiedmann GmbH
+Landsberg,audi,Graf-Zeppelin-Straße 2 86899 Landsberg,unknown,Autohaus Huttner GmbH
+Fürth,audi,Schwabacher Straße 333 90763 Fürth,unknown,Autozentrum Fürth Graf GmbH
+Altmannstein,audi,Riedenburger Straße 17 93336 Altmannstein,unknown,Horst Faulstich
+Gunzenhausen,audi,Nürnberger Straße 64 91710 Gunzenhausen,unknown,Auto Halbig GmbH & Co. KG
+Schnaittach,audi,Kirschenleite 20 91220 Schnaittach,unknown,Autohaus Strobel GmbH
+Bruckmühl,audi,Münchener Straße 2 83052 Bruckmühl,unknown,BaderMainzl GmbH & Co. KG
+Greding,audi,Industriestraße 2 91171 Greding,unknown,Auto Bierschneider GmbH
+Kronach,audi,Ludwigsstädter Straße 8 96317 Kronach,unknown,Autohaus Vetter Vertriebsgesellschaft mbH
+Vohburg,audi,Gewerbestraße 27 85088 Vohburg,unknown,AMSC Automobiles Mobilitäts- und Service Center Vohburg GmbH
+Erlangen,audi,Bunsenstraße 72 91058 Erlangen,unknown,Feser-Biemann Erlangen GmbH
+Marktredwitz,audi,Waldershofer Straße 14 95615 Marktredwitz,unknown,Autohaus Ziegler GmbH
+Münchberg,audi,Kirchenlamitzer Straße 112 95213 Münchberg,unknown,Autohaus Schnurrer GmbH
+Wackersdorf,audi,Gewerbepark 2 92442 Wackersdorf,unknown,Maschek Automobile GmbH & Co. KG
+Vohenstrauss,audi,Altenstädter Straße 20 92648 Vohenstrauss,unknown,Autohaus Dobner GmbH
+Mitterteich,audi,Gottlieb-Daimler-Straße 5 95666 Mitterteich,unknown,Motor-Nützel Vertriebs-GmbH
+Wörth,audi,Birkenstraße 2 93086 Wörth,unknown,Autohaus Radlbeck GmbH
+Ansbach,audi,Feuchtwanger Straße 36 91522 Ansbach,unknown,Autohaus Ansbach W. OberseiderGmbH & Co. KG
+Augsburg,audi,Donaustraße 8 86165 Augsburg,unknown,Schwaba GmbH
+Gersthofen,audi,Augsburger Straße 53 86368 Gersthofen,unknown,Schwaba GmbH
+Eichstätt,audi,Industriestraße 30 85072 Eichstätt,unknown,Automobilecenter Schmid GmbH
+Haßfurt,audi,Ohmstraße 4 97437 Haßfurt,unknown,Autohaus Hassberge Gelder & Sorg GmbH & Co. KG
+Ingolstadt,audi,Neuburger Straße 75 99 85057 Ingolstadt,unknown,Audi Zentrum Ingolstadt Karl Brod GmbH
+Königsbrunn,audi,Haunstetter Straße 75 86343 Königsbrunn,unknown,Autohaus Knaller GmbH & Co. KG
+Insingen,audi,Rothenburger Straße 3 91610 Insingen,unknown,Auto Koch-Nölscher GmbH
+Neuburg,audi,Am Schwalbanger 39 86633 Neuburg,unknown,Autohaus Prüller e.K.
+Ascha,audi,Chamer Straße 2 94347 Ascha,unknown,Autohaus Lorbert GmbH
+Bischofswiesen,audi,Aschauerweiherstraße 2 83483 Bischofswiesen,unknown,Autohaus Köppl GmbH & Co. KG
+Traunreut,audi,Trostberger Straße 1 + 3 83301 Traunreut,unknown,Autohaus Schlögl GmbH & Co. KG
+Freyung,audi,Grafenauer Straße 41-45 94078 Freyung,unknown,Autohaus Michael Krammer GmbH
+Pfarrkirchen,audi,Südeinfahrt 10 84347 Pfarrkirchen,unknown,Autocenter Neuss GmbH & Co. KG
+Siegsdorf,audi,Breslauer Straße 1 83313 Siegsdorf,unknown,Autohaus Rausch GmbH & Co. KG
+Herrsching/Breitbrunn,audi,Hauptstraße 1 82211 Herrsching/Breitbrunn,unknown,Autohaus Wagner GmbH & Co. KG
+München,audi,Allacher Straße 250-252 80999 München,unknown,Autohaus E. Hoppe GmbH
+Neufinsing,audi,Erdinger Straße 10a 85464 Neufinsing,unknown,Autohaus Hans Maier Neufinsing GmbH
+Pfaffenhofen,audi,Krankenhausstraße 1 85276 Pfaffenhofen,unknown,Autohaus Michael Stiglmayr GmbH
+Waakirchen,audi,Tölzer Straße 15 83666 Waakirchen,unknown,Autohaus Weingärtner GmbH & Co. KG
+Puchheim,audi,Aubinger Weg 47-51 82178 Puchheim,unknown,Autohaus Moser GmbH
+Günzburg,audi,Heidenheimer Straße 11 89312 Günzburg,unknown,Auto König GmbH & Co. KG
+Kaufbeuren,audi,Augsburger Straße 85-87 87600 Kaufbeuren,unknown,Auto Singer GmbH & Co. KG
+Krumbach,audi,Erwin-Bosch-Ring 1 86381 Krumbach,unknown,Autohaus Schwehr GmbH & Co. KG
+Lindau,audi,Riggersweilerweg 5 88131 Lindau,unknown,Autohaus Seitz GmbH
+Lindenberg,audi,Hauptstraße 79 88161 Lindenberg,unknown,Weber + Seitz GmbH
+Marktoberdorf,audi,Siemensring 17 87616 Marktoberdorf,unknown,Auto Singer GmbH & Co. KG
+Rosshaupten,audi,Füssener Straße 23 87672 Rosshaupten,unknown,"Theodor Miller Kraftfahrzeuge,Inh. Stefan Miller"
+Neumarkt,audi,Nürnberger Straße 45-47 92318 Neumarkt,unknown,Fischer Automobile GmbH
+Nürnberg,audi,Marienbergstraße 88 90411 Nürnberg,unknown,Audi Zentrum Nürnberg-Marienberg GmbH
+Neutraubling,audi,Rosenhofer Str. 2 93073 Neutraubling,unknown,Jepsen Neutraubling Zweigbetrieb der Jepsen Betriebs GmbH & Co. KG
+Gräfenberg,audi,Bayreuther Straße 38 91322 Gräfenberg,unknown,Autohaus Hartmann GmbH
+Bad Neustadt,audi,Hauptstraße 7-9 97616 Bad Neustadt,unknown,Autohaus Kehm GmbH
+Goldbach,audi,Aschaffenburger Straße 124 63773 Goldbach,unknown,Autohaus Günter Schmitt GmbH & Co. KG
+Hammelburg,audi,Berliner Straße 26 97762 Hammelburg,unknown,Autohaus Sell GmbH & Co. KG
+Laudenbach,audi,Aufseßring 26 63925 Laudenbach,unknown,Autohaus Link GmbH
+Veitshöchheim,audi,Scheffelstraße 1 97209 Veitshöchheim,unknown,Autohaus Keller GmbH
+Zellingen,audi,Stützenbergstr 1 97225 Zellingen,unknown,Hans Haberbosch GmbH
+Lohr,audi,Bürgermeister-Dr.Nebel-Str. 19 97816 Lohr,unknown,Peter Grampp GmbH & Co. KG
+Schopfloch,audi,Lehengütingen 23 A 91626 Schopfloch,unknown,Auto Bierschneider GmbH
+Würzburg,audi,Randersackerer Straße 50 97072 Würzburg,unknown,Spindler GmbH & Co. KG
+Schwabach,audi,Fürther Straße 32 91126 Schwabach,unknown,Feser GmbH
+Roth,audi,Kupferschmiedstraße 2 91154 Roth,unknown,Feser-Joachim Automobil GmbH
+Leinburg,audi,Strassäckerweg 6 91227 Leinburg,unknown,Leonhard Sperber GmbH
+Rothenburg,audi,Nördlinger Straße 7 91541 Rothenburg,unknown,Auto-Breitschwert GmbH & Co.KG
+Wassertrüdingen,audi,Öttinger Straße 53 91717 Wassertrüdingen,unknown,Auto König GmbH & Co. KG
+Aschaffenburg,audi,Mörswiesenstraße 30 63741 Aschaffenburg,unknown,Künzig + Bleuel GmbH
+Bürgstadt,audi,Oberer Steffleinsgraben 8 63927 Bürgstadt,unknown,Autohaus Adam Wolfert GmbH
+Nördlingen,audi,Augsburger Straße 48 86720 Nördlingen,unknown,Auto König GmbH & Co. KG
+Schwabmünchen,audi,Augsburger Straße 54 86830 Schwabmünchen,unknown,Autohaus Bunz e.K.
+Forchheim,audi,Äußere Nürnberger Straße 41 91301 Forchheim,unknown,Autohaus Hartner GmbH
+Forchheim,audi,Daimlerstraße 4 a 91301 Forchheim,unknown,Auto Zolleis - Inh. Helmut Zolleis e. K.
+Ergolding,audi,Industriestraße 34 84030 Ergolding,unknown,Autoforum Landshut GmbH
+Ebersberg,audi,Gewerbepark Nord-Ost 1 85560 Ebersberg,unknown,Autohaus Ebersberg GmbH & Co. KG
+Fürth,audi,Nürnberger Straße 147 90762 Fürth,unknown,Volkswagen Zentrum Fürth Pillenstein GmbH
+Langenzenn,audi,Nürnberger Straße 31 90579 Langenzenn,unknown,Autohaus Leitzmann GmbH
+Neustadt,audi,Riedfelder Ortsstraße 57 91413 Neustadt,unknown,Pillenstein Autohaus GmbH
+Memmingen,audi,Münchner Straße 81 87700 Memmingen,unknown,Autohaus Seitz GmbH
+Mindelheim,audi,Nebelhornstraße 4 87719 Mindelheim,unknown,Autohaus Schragl KG
+Sonthofen,audi,Illerstraße 19 87527 Sonthofen,unknown,Seitz + Mayr GmbH & Co. KG
+Mainburg,audi,Max-Spenger-Straße 11 84048 Mainburg,unknown,Auto Köhler GmbH & Co. KG
+Straubing,audi,Chamer Straße 50 94315 Straubing,unknown,Autohaus Ostermaier GmbH
+Vilsbiburg,audi,Landshuter Straße 9 84137 Vilsbiburg,unknown,Autohaus Ostermaier GmbH
+Altötting,audi,Mühldorfer Straße 88 84503 Altötting,unknown,AVP Autoland GmbH & Co. KG
+Bad Aibling,audi,Kampenwandstraße 5 83043 Bad Aibling,unknown,Autohaus Robert M. Boxhammer GmbH
+Bad Reichenhall,audi,Kiblinger Straße 7 83435 Bad Reichenhall,unknown,Autohaus Huber GmbH & Co. KG
+Berchtesgaden,audi,Bahnhofstraße 21 83471 Berchtesgaden,unknown,Autohaus Buchwinkler GmbH & Co KG
+Dachau,audi,Münchner Straße 87 85221 Dachau,unknown,Auto Rapp GmbH
+Feldkirchen-Westerham,audi,Münchener Straße 20/23 83620 Feldkirchen-Westerham,unknown,BaderMainzl GmbH & Co.KG
+Freilassing,audi,Reichenhaller Straße 53 83395 Freilassing,unknown,Otto Marx GmbH
+Fürstenfeldbruck,audi,Augsburger Straße 38/40 82256 Fürstenfeldbruck,unknown,Auto-Rasch GmbH & Co. KG
+Gauting,audi,Starnberger Straße 29 82131 Gauting,unknown,Robert Schäfer & Söhne KG
+Haag,audi,Münchener Straße 46 83527 Haag,unknown,Autohaus Haag Zweig- niederlassung der Autohaus Ebersberg GmbH & Co. KG
+Haar,audi,Münchner Straße 39 85540 Haar,unknown,Autohaus Feicht GmbH
+Mühldorf,audi,Wolfgang-Perger-Straße 3 84453 Mühldorf,unknown,Autohaus Ostermaier GmbH
+München,audi,Westendstraße 219 80686 München,unknown,Autohaus Westend Gossler GmbH & Co. KG
+München,audi,Filchnerstraße 86 81476 München,unknown,Autohaus Christl GmbH & Co. KG
+Murnau,audi,Weilheimer Straße 18 82418 Murnau,unknown,Autohaus Anton Ortner GmbH &.Co. KG
+Rosenheim,audi,Innstraße 63 83022 Rosenheim,unknown,Ludwig Kriechbaum GmbH
+Wasserburg,audi,Staudhamer Feld 10 83512 Wasserburg,unknown,Autohaus Reisinger GmbH
+Wolfratshausen,audi,Hans-Urmiller-Ring 40 A 82515 Wolfratshausen,unknown,BaderMainzl GmbH & Co. KG
+München,audi,Wasserburger Landstraße 69 81825 München,unknown,Audi München GmbH
+Neu-Ulm,audi,Memminger Straße 65-67 89231 Neu-Ulm,unknown,Held & Ströhle GmbH & Co. KG
+Coburg,audi,Neustadter Straße 14 96450 Coburg,unknown,Autohaus Willy Ernst GmbH
+Erlangen,audi,Dresdener Straße 15 91058 Erlangen,unknown,Autohaus Tauwald GmbH
+Hilpoltstein,audi,Heidecker Straße 41 91161 Hilpoltstein,unknown,Autohaus Rothsee GmbH
+Kronach,audi,Im Eichicht 1a 96317 Kronach,unknown,Autohaus Max Schultz GmbH & Co. KG
+Kulmbach,audi,Kronacher Straße 2 95326 Kulmbach,unknown,Autohaus Dippold GmbH
+Lauf,audi,Röthenbacher Straße 28 91207 Lauf,unknown,Feser Lauf GmbH
+Pegnitz,audi,Sauerbruchstraße 23 91257 Pegnitz,unknown,Motor-Nützel Vertriebs-GmbH
+Sulzbach-Rosenberg,audi,Rosenberger Straße 59 92237 Sulzbach-Rosenberg,unknown,Meister GmbH
+Grafenau,audi,Frauenberg 13 94481 Grafenau,unknown,Auto-Röhr Grafenau Niederlassung der Firma Erich Röhr GmbH & Co. KG Passau
+Passau,audi,Spitalhofstraße 61/70 94032 Passau,unknown,Erich Röhr GmbH & Co. KG
+Vilshofen,audi,Kapuzinerstraße 108-111 94474 Vilshofen,unknown,Erich Röhr Vilshofen Niederlassung der Firma Erich Röhr GmbH & Co. KG Passau
+Abensberg,audi,Max-Bronold-Straße 3 93326 Abensberg,unknown,Autohaus Baumer Abensberg GmbH & Co. KG
+Cham,audi,Janahofer Straße 1 93413 Cham,unknown,Autohaus Zehder GmbH & Co. KG
+Neutraubling,audi,Neusatzer Straße 14 93073 Neutraubling,unknown,Autohaus Neutraubling GmbH
+Nittenau,audi,Böhmerwaldstraße 2 93149 Nittenau,unknown,Autohaus Lacher GmbH & Co.KG
+Regensburg,audi,Nordgaustraße 5 93059 Regensburg,unknown,Audi Zentrum Regensburg Zweigbetrieb der Jepsen Betriebs GmbH & Co. KG
+Nürnberg,audi,Nopitschstraße 3 90441 Nürnberg,unknown,Auto Zentrum Nürnberg-Feser GmbH
+Ulm,audi,Wielandstraße 50 89073 Ulm,unknown,Eberhardt Kraftfahrzeug GmbH + Co. KG
+Bischofsheim,audi,Rhönstraße 17 97653 Bischofsheim,unknown,Auto-Weber GmbH & Co. KG
+Ebern,audi,Bahnhofstraße 41 96106 Ebern,unknown,Gelder & Sorg GmbH & Co. KG
+Bad Königshofen,audi,Thüringer Straße 23 97631 Bad Königshofen,unknown,Autohaus Hölzer GmbH
+Kreuzwertheim,audi,Haslocher Straße 23 97892 Kreuzwertheim,unknown,Autohaus Spindler Kreuzwertheim GmbH & Co. KG
+München,audi,Albrechtstraße 16 80636 München,unknown,Audi München GmbH
+Nürnberg,audi,Heisterstraße 6-10 90441 Nürnberg,unknown,Auto Zentrum Nürnberg - Feser GmbH
+Plattling,audi,Dr.-Wandinger-Straße 7 94447 Plattling,unknown,AVP Autoland GmbH & Co. KG
+München,audi,Frankfurter Ring 251 80807 München,unknown,MAHAG Automobilhandel und Service GmbH & Co. oHG
+Herzogenaurach,audi,Werner-Heisenberg-Straße 4 91074 Herzogenaurach,unknown,WAS Servicezentrum GmbH
+Bayreuth,audi,Nürnberger Straße 95 95448 Bayreuth,unknown,Motor-Nützel Vertriebs-GmbH
+Rain,audi,Nelkenweg 15 86641 Rain,unknown,Autohaus Karmann GmbH
+München,audi,Frankfurter Ring 218 80807 München,unknown,Auto & Service PIA GmbH
+Baar,audi,Aichacher Straße 15 86674 Baar,unknown,Autohaus Kürbis GmbH
+Dinkelscherben,audi,Augsburger Straße 21 86424 Dinkelscherben,unknown,Auto Höss GmbH
+Wemding,audi,Bahnhofstraße 37 86650 Wemding,unknown,Autohaus Leinfelder GmbH & Co. KG
+Regen,audi,Gewerbestraße 2 94209 Regen,unknown,AVP Autoland GmbH & Co. KG
+Geiselwind,audi,Fischhausstraße 3 96160 Geiselwind,unknown,Autohaus Pohr Inhaber Roland Pohr e.K.
+Freigericht,audi,Hanauer Straße 61 63579 Freigericht,unknown,Autohaus Schmitt GmbH
+München,audi,Georg-Brauchle-Ring 71 80992 München,unknown,MAHAG Automobilhandel und Service GmbH & Co. oHG
+Türkheim,audi,Wörishofer Straße 23 86842 Türkheim,unknown,Autohaus Mayer GmbH & Co Vertriebs KG
+Lauingen,audi,Theodor-Heuss-Straße 2 89415 Lauingen,unknown,Auto König GmbH & Co. KG
+Bad Tölz,audi,Demmeljochstraße 48 83646 Bad Tölz,unknown,Autohaus Rinner GmbH
+Rottenburg,audi,Max-Von-Müller-Straße 57 84056 Rottenburg,unknown,Autohaus Lang GmbH
+Waldkraiburg,audi,Teplitzer Straße 25 84478 Waldkraiburg,unknown,Autohaus Ostermaier GmbH
+München,audi,Detmoldstraße 6 80935 München,unknown,MAHAG Automobilhandel und Service GmbH & Co. oHG
+Ottobrunn,audi,Rosenheimer Landstraße 112 85521 Ottobrunn,unknown,MAHAG Automobilhandel und Service GmbH & Co. oHG
+Allershausen,audi,Robert-Koch-Straße 1 85391 Allershausen,unknown,Autohaus Hartl GmbH
+Bernbeuren,audi,Schongauer Straße 14 86975 Bernbeuren,unknown,Autohaus Heuberger GmbH
+Burghausen,audi,Burgkirchener Straße 147 84489 Burghausen,unknown,AVP Autoland GmbH & Co. KG
+Chieming,audi,Hauptstraße 23 83339 Chieming,unknown,Auto Wallner Inhaber Julia Wallner e.K.
+Dachau,audi,Freisinger Straße 73 85221 Dachau,unknown,Auto Stock GmbH & Co. KG
+Denklingen,audi,Hauptstraße 14 86920 Denklingen,unknown,Alfred Sanktjohanser Automobile e.K.
+Bad Endorf,audi,Chiemseeweg 1 83093 Bad Endorf,unknown,Autohaus Obermaier GmbH
+Schliersee,audi,Neuhauser Straße 22 83727 Schliersee,unknown,Autohaus Pusl Inh. Klaus Pusl
+Gröbenzell,audi,Olchinger Straße 150 82194 Gröbenzell,unknown,Autohaus Neumayr GmbH & Co. KG
+Holzkirchen,audi,Münchner Straße 105 83607 Holzkirchen,unknown,Autohaus Fellner GmbH & Co. KG
+Ingolstadt,audi,Friedrich-Ebert-Straße 66 85055 Ingolstadt,unknown,Karl-Heinz Diekow GmbH & Co. KG
+Moorenweis,audi,Fürstenfeldbrucker Straße 18 82272 Moorenweis,unknown,Autohaus Knoller GmbH & Co. KG
+Moosburg,audi,Landshuter Straße 133 85368 Moosburg,unknown,Autohaus Braun GmbH & Co.
+München,audi,Haager Straße 5 81671 München,unknown,Autohaus Werndl GmbH & Co.
+München,audi,Posener Platz 4 81929 München,unknown,Autohaus Burgstaller GmbH
+Aichach,audi,Leonhardstraße 2 86551 Aichach,unknown,Heinrich Penthaler
+Ruhpolding,audi,Seehauserstraße 39 B 83324 Ruhpolding,unknown,Autohaus Daburger e.K.
+Scheuring,audi,Hauptstraße 2 86937 Scheuring,unknown,Autohaus Huttner GmbH
+Vohburg,audi,Regensburger Straße 30 85088 Vohburg,unknown,Vohburger Autohaus GmbH & Co. KG
+Wolnzach,audi,Auenstraße 15 85283 Wolnzach,unknown,Autohaus Wallner KG
+Röfingen,audi,Thannhauser Straße 14 89365 Röfingen,unknown,Autohaus Köpf GmbH
+Bad Berneck,audi,August-Mittelsten-Scheid-Str.1 95460 Bad Berneck,unknown,Motor-Nützel Vertriebs-GmbH
+Baiersdorf,audi,Industriestraße 5 91083 Baiersdorf,unknown,Autohaus Baumann GmbH
+Beilngries,audi,Kelheimer Straße 35 92339 Beilngries,unknown,Auto Bierschneider GmbH
+Creussen,audi,Neuhofer Straße 23 95473 Creussen,unknown,Friedrich Hartmann GmbH
+Eckental,audi,Forther Hauptstraße 2 90542 Eckental,unknown,Auto Kofler GmbH
+Nürnberg,audi,Saarbrückener Straße 68 90469 Nürnberg,unknown,Hans Maier Inh. Stefanie Meiler e.K.
+Nürnberg,audi,Löwenberger Straße 38 90475 Nürnberg,unknown,Autohaus Vöge GmbH & Co. KG
+Großmehring,audi,Nicolaus-Otto-Ring 3a 85098 Großmehring,unknown,Autohaus Rudzki GmbH
+Schwaig,audi,Nürnberger Straße 51 90571 Schwaig,unknown,Autohaus Schmid Inh. Marko Fahner e.K.
+Spalt,audi,Windsbacher Straße 35-39 91174 Spalt,unknown,Auto Kraus e.K.
+Wendelstein,audi,Sperbersloher Straße 26-28 90530 Wendelstein,unknown,Auto-Langhans GmbH
+Eging am See,audi,Deggendorfer Straße 21 94535 Eging am See,unknown,Autohaus Osterer GmbH
+Neureichenau,audi,Dreisesselstraße 39 94089 Neureichenau,unknown,Autohaus Denk GmbH
+Schönberg,audi,Regener Straße 116 94513 Schönberg,unknown,Michael Krammer
+Waldkirchen,audi,Bahnhofstraße 1 94065 Waldkirchen,unknown,Auto Färber GmbH
+Parsberg,audi,Lindlbergstraße 11 92331 Parsberg,unknown,Kurt Atzinger GmbH
+Schmidmühlen,audi,Am Herrenhölzl 1 92287 Schmidmühlen,unknown,Auto-Leitz GmbH
+Wernberg-Köblitz,audi,Weidener Straße 2 92533 Wernberg-Köblitz,unknown,Autohaus Götz Inh. Hildegard Held
+Ursensollen,audi,Juraallee 1-3 92289 Ursensollen,unknown,Fischer Automobile GmbH & Co. KG
+Gemünden,audi,Weissensteinstraße 33 97737 Gemünden,unknown,Autohaus Gemünden GmbH
+Marktheidenfeld,audi,Würzburger Straße 17-21 97828 Marktheidenfeld,unknown,Hettinger GmbH
+Ochsenfurt,audi,Uffenheimer Straße 18 97199 Ochsenfurt,unknown,Auto Meyer GmbH & Co. KG
+Schwebheim,audi,Heidenfelder Straße 9 97525 Schwebheim,unknown,Erwin Pfister GmbH & Co. KG
+Wiesentheid,audi,Prichsenstädter Straße 9a 97353 Wiesentheid,unknown,Georg Ganzinger
+Bad Kötzting,audi,Lehmgasse 14 93444 Bad Kötzting,unknown,Autohaus Silberbauer e.K.
+Senden,audi,Zum Baggersee 1 89250 Senden,unknown,Held & Ströhle GmbH & Co. KG
+Schwarzenfeld,audi,Böttgerstraße 50 92521 Schwarzenfeld,unknown,Autohaus Manz GmbH
+Treuchtlingen,audi,Ansbacher Straße 64 91757 Treuchtlingen,unknown,Auto Bierschneider GmbH
+Mühlhausen,audi,Sulzweg 2 92360 Mühlhausen,unknown,Auto Bierschneider GmbH
+Eiselfing,audi,Rosenheimer Straße 22 83549 Eiselfing,unknown,Autohaus Gartner GmbH & Co. KG
+Raubling,audi,Breiteicher Straße 30 83064 Raubling,unknown,Autohaus Höhentinger GmbH
+Aindling,audi,Peter-Sengl-Straße 26 86447 Aindling,unknown,Autohaus Erdle e.K.
+Mömbris-Schimborn,audi,Kahlgrundstraße 137 63776 Mömbris-Schimborn,unknown,Autohaus Reuter GmbH
+Schierling,audi,Leierndorfer Straße 38 84069 Schierling,unknown,Autohaus Angerer GmbH & Co. KG
+Hengersberg,audi,Deggendorfer Straße 48 94491 Hengersberg,unknown,Autohaus Krammer GmbH
+München,bmw_group,,unknown,Schmidt Premium Cars GmbH
+Munich,botteg_aveneta,,unknown,Munich - Maximilianstrasse
+Vilseck,burgerking,,unknown,Burger King
+Hausen,burgerking,,unknown,Burger King
+Zwiesel,burgerking,,unknown,Burger King
+Rosbach v.d.H.,burgerking,,unknown,Burger King
+Eggenfelden,burgerking,,unknown,Burger King
+München,burgerking,,unknown,Burger King
+Rosenheim,burgerking,,unknown,Burger King
+Amberg,das_futterhaus,,unknown,Das Futterhaus Amberg
+Aschaffenburg,das_futterhaus,,unknown,Das Futterhaus Aschaffenburg
+Augsburg-Haunstetten,das_futterhaus,,unknown,Das Futterhaus Augsburg
+Bamberg,das_futterhaus,,unknown,Das Futterhaus Bamberg-Hafen
+Bayreuth,das_futterhaus,,unknown,Das Futterhaus Bayreuth
+Burglengenfeld,das_futterhaus,,unknown,Das Futterhaus Burglengenfeld
+Coburg,das_futterhaus,,unknown,Das Futterhaus Coburg
+Deggendorf,das_futterhaus,,unknown,Das Futterhaus Deggendorf
+Dillingen,das_futterhaus,,unknown,Das Futterhaus Dillingen
+Dingolfing,das_futterhaus,,unknown,Das Futterhaus Dingolfing
+Elchingen,das_futterhaus,,unknown,Das Futterhaus Elchingen
+Freising,das_futterhaus,,unknown,Das Futterhaus Freising
+Fürth,das_futterhaus,,unknown,Das Futterhaus Fürth
+Gersthofen,das_futterhaus,,unknown,Das Futterhaus Gersthofen
+Großostheim,das_futterhaus,,unknown,Das Futterhaus Großostheim
+Haar,das_futterhaus,,unknown,Das Futterhaus Haar
+Karlsfeld,das_futterhaus,,unknown,Das Futterhaus Karlsfeld
+Kaufbeuren,das_futterhaus,,unknown,Das Futterhaus Kaufbeuren
+Kelheim,das_futterhaus,,unknown,Das Futterhaus Kelheim
+Kempten,das_futterhaus,,unknown,Das Futterhaus Kempten
+Kitzingen,das_futterhaus,,unknown,Das Futterhaus Kitzingen
+Krumbach,das_futterhaus,,unknown,Das Futterhaus Krumbach
+Landshut-Ergolding,das_futterhaus,,unknown,Das Futterhaus Landshut Ergolding
+Memmingen,das_futterhaus,,unknown,Das Futterhaus Memmingen
+München,das_futterhaus,,unknown,Das Futterhaus München
+München-Pasing,das_futterhaus,,unknown,Das Futterhaus München-Pasing
+München-Schwanthalerhöhe,das_futterhaus,,unknown,Das Futterhaus München-Schwanthalerhöhe
+Nürnberg,das_futterhaus,,unknown,Das Futterhaus Nürnberg
+Passau,das_futterhaus,,unknown,Das Futterhaus Passau
+Poing,das_futterhaus,,unknown,Das Futterhaus Poing
+Röthenbach a.d. Pegnitz,das_futterhaus,,unknown,Das Futterhaus Röthenbach a.d. Pegnitz
+Schwandorf,das_futterhaus,,unknown,Das Futterhaus Schwandorf
+Schweinfurt,das_futterhaus,,unknown,Das Futterhaus Schweinfurt
+Senden,das_futterhaus,,unknown,Das Futterhaus Senden
+Sonthofen,das_futterhaus,,unknown,Das Futterhaus Sonthofen
+Stadtbergen,das_futterhaus,,unknown,Das Futterhaus Stadtbergen
+Straubing,das_futterhaus,,unknown,Das Futterhaus Straubing
+Unterföhring,das_futterhaus,,unknown,Das Futterhaus Unterföhring
+Wackersberg (bei Bad Tölz),das_futterhaus,,unknown,Das Futterhaus Wackersberg
+Wals,das_futterhaus,,unknown,Das Futterhaus Wals
+Weiden in der Oberpfalz,das_futterhaus,,unknown,Das Futterhaus Weiden in der Oberpfalz
+Wielenbach,das_futterhaus,,unknown,Das Futterhaus Wielenbach
+Würzburg,das_futterhaus,,unknown,Das Futterhaus Würzburg
+Zirndorf,das_futterhaus,,unknown,Das Futterhaus Zirndorf
+München,deloitte,,unknown,Deloitte - München
+Nürnberg,deloitte,,unknown,Deloitte - Nürnberg
+Cham,fussl_at_de,,unknown,Cham - Regentalcenter
+Donauwörth,fussl_at_de,,unknown,Donauwörth
+Dorfen,fussl_at_de,,unknown,Dorfen
+Eichstätt,fussl_at_de,,unknown,Eichstätt - Gewerbepark Sollnau
+Feuchtwangen,fussl_at_de,,unknown,Feuchtwangen
+Forchheim,fussl_at_de,,unknown,Forchheim
+Freising,fussl_at_de,,unknown,Freising
+Gemünden am Main,fussl_at_de,,unknown,Gemünden
+Haßfurt,fussl_at_de,,unknown,Haßfurt
+Hohenstadt,fussl_at_de,,unknown,Hohenstadt - PEZ
+Ingolstadt,fussl_at_de,,unknown,Ingolstadt
+Kaufbeuren,fussl_at_de,,unknown,Kaufbeuren - Forettle Center
+Kelheim,fussl_at_de,,unknown,Kelheim - EKZ
+Königsbrunn,fussl_at_de,,unknown,Königsbrunn
+Kreuzwertheim,fussl_at_de,,unknown,Kreuzwertheim
+Moosburg,fussl_at_de,,unknown,Moosburg
+Neustadt a.d.D.,fussl_at_de,,unknown,Neustadt a.d.D.
+Neutraubling,fussl_at_de,,unknown,Neutraubling
+Nördlingen,fussl_at_de,,unknown,Nördlingen - EGM Center
+Pfarrkirchen,fussl_at_de,,unknown,Pfarrkirchen
+Pocking,fussl_at_de,,unknown,Pocking
+Regensburg,fussl_at_de,,unknown,Regensburg - KÖWE EKZ
+Rödental,fussl_at_de,,unknown,Rödental - Anna-Park
+Rothenburg ob der Tauber,fussl_at_de,,unknown,Rothenburg ob der Tauber - Zentro
+Schwandorf,fussl_at_de,,unknown,Schwandorf
+Straubing,fussl_at_de,,unknown,Straubing - Theresiencenter
+Weiden,fussl_at_de,,unknown,Weiden
+Zwiesel,fussl_at_de,,unknown,Zwiesel - Arberzentrum
+Upper Bavaria,google_offices,"Erika-Mann-Str. 33
+80636 Munich
+Germany",unknown,Munich
+Nürnberg,hema,,unknown,HEMA
+Upper Bavaria,ich_tanke_strom,Mitterfeldallee 17  85774 Unterföhring,unknown,unknown
+Swabia,ich_tanke_strom,Geisenmoos 4 a  86983 Lechbruck am See,unknown,unknown
+Upper Franconia,ich_tanke_strom,St2186 18  91346 Wiesenttal,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Lothstraße 1  80335 München,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Münchener Str. 46  83527 Haag in Oberbayern,unknown,unknown
+Lower Bavaria,ich_tanke_strom,Am Rathaus 7  84095 Furth,unknown,unknown
+Swabia,ich_tanke_strom,Hölzlers 172  87474 Buchenberg,unknown,unknown
+Swabia,ich_tanke_strom,Gewerbering 6  86698 Oberndorf am Lech,unknown,unknown
+Upper Franconia,ich_tanke_strom,Wüstenstein 18  91346 Wiesenttal,unknown,unknown
+Regierungsbezirk Unterfranken,ich_tanke_strom,Schloßstraße 12  97265 Hettstadt,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Marsstraße 4A  85221 Dachau,unknown,unknown
+Upper Franconia,ich_tanke_strom,Bieberbacher Str. 6  96242 Sonnefeld,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Eversbuschstraße 194b  80999 München,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Marie-Curie-Straße 3  85055 Ingolstadt,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Wiesenstraße 15  83059 Kolbermoor,unknown,unknown
+Swabia,ich_tanke_strom,Via Claudia 6  86983 Lechbruck am See,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Schlierseestraße 8  81541 17 München Stadtbezirk,unknown,unknown
+Lower Bavaria,ich_tanke_strom,Am Klosterberg 1  84095 Furth,unknown,unknown
+Swabia,ich_tanke_strom,Gewerbering 8  86698 Oberndorf am Lech,unknown,unknown
+Swabia,ich_tanke_strom,Frundsbergstraße 36  87727 Babenhausen,unknown,unknown
+Swabia,ich_tanke_strom,Augsburger Str. 46  89231 Neu-Ulm,unknown,unknown
+Swabia,ich_tanke_strom,Columbusweg 5  86609 Donauwörth,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Jurastraße 1  85131 Pollenfeld,unknown,unknown
+Lower Bavaria,ich_tanke_strom,Freiling 28  4942 Gurten,unknown,unknown
+Upper Franconia,ich_tanke_strom,Domänenweg 9  96242 Sonnefeld,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Vorderer Grund 6  85111 Adelschlag,unknown,unknown
+Swabia,ich_tanke_strom,Bürgermeister-Templer-Ring 5  86703 Rögling,unknown,unknown
+Swabia,ich_tanke_strom,Fuggerstraße 13  86405 Meitingen,unknown,unknown
+Lower Bavaria,ich_tanke_strom,Iggensbacher Str. 22  94508 Schöllnach,unknown,unknown
+Regierungsbezirk Mittelfranken,ich_tanke_strom,Chamberetallee 22  91583 Schillingsfürst,unknown,unknown
+Swabia,ich_tanke_strom,Schöneggweg 9  87727 Babenhausen,unknown,unknown
+Swabia,ich_tanke_strom,Herbststraße 1  87600 Kaufbeuren,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Kälberschüttstraße 3  85053 Ingolstadt,unknown,unknown
+Swabia,ich_tanke_strom,Wetzsteinstraße 5  87642 Halblech,unknown,unknown
+Swabia,ich_tanke_strom,Gartenstraße 7  86739 Ederheim-Hürnheim,unknown,unknown
+Swabia,ich_tanke_strom,Pater-Frey-Ring 79  86698 Oberndorf am Lech,unknown,unknown
+Swabia,ich_tanke_strom,Am Jürgenfeld 13  87645 Schwangau,unknown,unknown
+Swabia,ich_tanke_strom,Am Jürgenfeld 18  87645 Schwangau,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Am Pflanzgarten 17  83413 Fridolfing,unknown,unknown
+Regierungsbezirk Unterfranken,ich_tanke_strom,Am Weiherlein 5A  97523 Schwanfeld,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Am Pfannenstiel 18  85101 Lenting,unknown,unknown
+Swabia,ich_tanke_strom,Merzenberg 5a  87785 Winterrieden,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Kreisten 1  86989 Steingaden,unknown,unknown
+Upper Palatinate,ich_tanke_strom,Von-Heyden-Straße 11  93105 Tegernheim,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Am Pfannenstiel 14  85101 Lenting,unknown,unknown
+Swabia,ich_tanke_strom,An d. Breite 2  87642 Halblech,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Am Pfannenstiel 16  85101 Lenting,unknown,unknown
+Swabia,ich_tanke_strom,Fuggerstraße 13A  86405 Meitingen,unknown,unknown
+Upper Bavaria,ich_tanke_strom,Landsberger Str. 410  81241 München,unknown,unknown
+Lower Bavaria,ionity,,unknown,Pilsting
+Upper Bavaria,ionity,,unknown,Samerberg Süd
+Regierungsbezirk Mittelfranken,ionity,,unknown,Ohrenbach Ost
+Regierungsbezirk Unterfranken,ionity,,unknown,Riedener Wald West
+Swabia,ionity,,unknown,Dietmannsried
+Upper Palatinate,ionity,,unknown,Wernberg-Köblitz
+Upper Franconia,ionity,,unknown,Himmelkron
+"Česká Kubice, Horní Folmava",kfc_amrest,,unknown,KFC Folmava
+Rozvadov,kfc_amrest,,unknown,KFC Rozvadov
+Ebermannsdorf,mercedes_benz,,unknown,Autohaus Widmann GmbH & Co. KG
+Piding,nike,,unknown,Nike Factory Store Piding
+Aschaffenburg,nordsee,,unknown,NORDSEE Aschaffenburg City-Galerie
+Würzburg,nordsee,,unknown,NORDSEE Autobahnraststätte Würzburg Süd
+Bamberg,nordsee,,unknown,NORDSEE Bamberg Hauptwachstraße
+Schweinfurt,nordsee,,unknown,NORDSEE Schweinfurt Stadtgalerie
+Lindau (Bodensee),nordsee,,unknown,NORDSEE Lindau Schneeberggasse
+Kempten (Allgäu),nordsee,,unknown,NORDSEE Kempten Forum Allgäu
+München,nordsee,,unknown,NORDSEE München Pasing Arcaden
+Bayreuth,nordsee,,unknown,NORDSEE Bayreuth Rotmain-Center
+Nürnberg,nordsee,,unknown,NORDSEE Nürnberg Franken-Center
+Regensburg,nordsee,,unknown,NORDSEE Regensburg Donau-Einkaufszentrun
+Straubing,nordsee,,unknown,NORDSEE Straubing Ludwigsplatz
+Weiden in der Oberpfalz,nordsee,,unknown,NORDSEE Weiden/Oberpfalz Wörthstraße
+Passau,nordsee,,unknown,NORDSEE Autobahnraststätte Donautal Ost
+Hof,nordsee,,unknown,NORDSEE Hof Altstadt
+Erlangen,nordsee,,unknown,NORDSEE Erlangen Arcaden
+Augsburg,nordsee,,unknown,NORDSEE Augsburg Stadtmarkt
+Ansbach,nordsee,,unknown,NORDSEE Ansbach Brücken-Center
+Greding,nordsee,,unknown,NORDSEE Autobahnraststätte Greding Ost
+Rohrbrunn,nordsee,,unknown,NORDSEE Autobahnraststätte Spessart Nord
+Landsberg am Lech,nordsee,,unknown,NORDSEE Autobahnraststätte Lechwiesen Süd
+Bergen,nordsee,,unknown,NORDSEE Autobahnraststätte Hochfelln Süd
+Kiefersfelden,nordsee,,unknown,NORDSEE Autobahnraststätte Inntal West
+Pegnitz,nordsee,,unknown,NORDSEE Autobahnraststätte Fränkische Schweiz West
+Kammerstein,nordsee,,unknown,NORDSEE Autobahnraststätte Kammerstein Süd
+Wachenroth,nordsee,,unknown,NORDSEE Autobahnraststätte Steigerwald Nord
+Ohrenbach,nordsee,,unknown,NORDSEE Autobahnraststätte Ohrenbach Ost
+Hausen,nordsee,,unknown,NORDSEE Autobahnraststätte Riedener Wald West
+Worms,nordsee,,unknown,NORDSEE Autobahnraststätte Wonnegau West
+Hepberg,nordsee,,unknown,NORDSEE Autobahnraststätte Köschinger Forst Ost
+Herzogenaurach,nordsee,,unknown,NORDSEE Autobahnraststätte Aurach Süd
+Burgau,nordsee,,unknown,NORDSEE Autobahnraststätte Burgauer See
+Dettingen/Iller,nordsee,,unknown,NORDSEE Autobahnraststätte Illertal West
+Coburg,nordsee,,unknown,NORDSEE Coburg Spitalgasse
+Coburg,orlen,,unknown,ORLEN STAR Tankstelle 846
+Kulmbach,orlen,,unknown,STAR Tankstelle 848
+München,orlen,,unknown,STAR Tankstelle 845
+Stožec,orlen,,unknown,Benzina Nová Houžná
+Freigericht,orlen,,unknown,STAR Tankstelle 842
+Lower Bavaria,pepco,,unknown,Pepco
+Swabia,pepco,,unknown,Pepco
+Muenchen,starbucks_eu,Thomas Dehler Strasse 12 81737 Muenchen,unknown,"Muenchen, PEP Einkaufszentrum"
+Muenchen,starbucks_eu,Platzl 3 80331 Muenchen,unknown,"Muenchen, Platzl"
+Muenchen,starbucks_eu,Rosental 7 80331 Muenchen,unknown,"Muenchen, Rosental 7"
+80539 München,starbucks_eu,ODEONSPLATZ 15-16 80539 München,unknown,"Muenchen, Odeonsplatz"
+Muenchen,starbucks_eu,Leopoldstrasse 56 80802 Muenchen,unknown,"Muenchen, Leopoldstrasse 56"
+Muenchen,starbucks_eu,Karlsplatz 8 80335 Muenchen,unknown,"Munich, Karlsplatz 8"
+Muenchen,starbucks_eu,Einkaufszentrum Stachus Passagen 80335 Muenchen,unknown,"Muenchen, EKZ Stachuspassagen"
+80335 München,starbucks_eu,BAYERSTRASSE 10A MUNICH MAIN STATION 80335 München,unknown,Muenchen Hauptbahnhof Platform 11
+Munich,starbucks_eu,Bayerstrabe 10A 80335 Munich,unknown,Munich Main Station II
+Schweitenkirchen,starbucks_eu,Holledaustrasse 85301 Schweitenkirchen,unknown,Holledau A9 Munich
+Muenchen,starbucks_eu,Terminalstrasse 85356 Muenchen,unknown,MUC Munich Airport T2 Ankunft
+92655 Grafenwöhr,starbucks_eu,U.S. Army Garrison Grafenwöhr Am Lager 92655 Grafenwöhr,unknown,U.S. Army Garrison Grafenwohr
+Augsburg,starbucks_eu,Buergermeister-Fischer-Straße 11 86150 Augsburg,unknown,Augsburg Koenigsbau
+Augsburg,starbucks_eu,Viktoriastr 1 86150 Augsburg,unknown,Augsburg Hauptbanhof
+Nuernberg,starbucks_eu,Breite Gasse 41 90402 Nuernberg,unknown,"Nuernberg, Breite Gasse 41"
+Nuernberg,starbucks_eu,Karolinenstrasse 12 90402 Nuernberg,unknown,"Nuernberg, Karolinenstrasse 12"
+Nuernberg,starbucks_eu,Hauptmarkt 1 90403 Nuernberg,unknown,Nuernberg Hauptmarkt 1
+Nuernberg,starbucks_eu,Hefnersplatz 10 90402 Nuernberg,unknown,"Nuernberg, Hefnersplatz 10"
+Erlangen,starbucks_eu,Nuernberger Strasse 7 91052 Erlangen,unknown,Erlangen Erlangen Arcaden
+81241 München,starbucks_eu,Pasinger Bahnhofspl. 5 81241 München,unknown,Munich Pasing
+München,swing_kitchen,,unknown,Swing Kitchen München
+Hof,thomas_philipps,,unknown,Thomas Philipps Hof 
+Münchberg,thomas_philipps,,unknown,Thomas Philipps Münchberg
+Neustadt bei Coburg,thomas_philipps,,unknown,Thomas Philipps Neustadt b. Coburg 
+Marktredwitz,thomas_philipps,,unknown,Thomas Philipps Marktredwitz
+Burgkunstadt,thomas_philipps,,unknown,Thomas Philipps Burgkunstadt
+Bayreuth,thomas_philipps,,unknown,Thomas Philipps Bayreuth
+Weiden in der Oberpfalz,thomas_philipps,,unknown,Thomas Philipps Weiden in der Oberpfalz
+Bamberg,thomas_philipps,,unknown,Thomas Philipps Bamberg 
+Haßfurt,thomas_philipps,,unknown,Thomas Philipps Haßfurt
+Amberg,thomas_philipps,,unknown,Thomas Philipps Amberg
+Cham,thomas_philipps,,unknown,Thomas Philipps Cham 
+Fürth,thomas_philipps,,unknown,Thomas Philipps Fürth
+Kitzingen,thomas_philipps,,unknown,Thomas Philipps Kitzingen
+Nürnberg,thomas_philipps,,unknown,Thomas Philipps Nürnberg-Gebersdorf 
+Wendelstein,thomas_philipps,,unknown,Thomas Philipps Wendelstein 
+Regen,thomas_philipps,,unknown,Thomas Philipps Regen
+Neutraubling,thomas_philipps,,unknown,Thomas Philipps Neutraubling
+Abenberg,thomas_philipps,,unknown,Thomas Philipps Abenberg
+Deggendorf,thomas_philipps,,unknown,Thomas Philipps Deggendorf 
+Straubing,thomas_philipps,,unknown,Thomas Philipps Straubing 
+Obernburg am Main,thomas_philipps,,unknown,Thomas Philipps Obernburg am Main 
+Vilshofen an der Donau,thomas_philipps,,unknown,Thomas Philipps Vilshofen 
+Dingolfing,thomas_philipps,,unknown,Thomas Philipps Dingolfing 
+Ingolstadt,thomas_philipps,,unknown,Thomas Philipps Ingolstadt-Süd
+Passau,thomas_philipps,,unknown,Thomas Philipps Passau 
+Dinkelsbühl,thomas_philipps,,unknown,Thomas Philipps Dinkelsbühl
+Ergolding,thomas_philipps,,unknown,Thomas Philipps Ergolding
+Mühldorf am Inn,thomas_philipps,,unknown,Thomas Philipps Mühldorf am Inn 
+Stadtbergen,thomas_philipps,,unknown,Thomas Philipps Stadtbergen
+Kissing,thomas_philipps,,unknown,Thomas Philipps Kissing
+Burgau,thomas_philipps,,unknown,Thomas Philipps Burgau 
+Königsbrunn,thomas_philipps,,unknown,Thomas Philipps Königsbrunn
+Elchingen,thomas_philipps,,unknown,Thomas Philipps Elchingen
+Senden,thomas_philipps,,unknown,Thomas Philipps Senden
+Bruckmühl,thomas_philipps,,unknown,Thomas Philipps Bruckmühl 
+Regierungsbezirk Mittelfranken,tier,,unknown,Tier
+Upper Bavaria,tier,,unknown,Tier
+Swabia,tier,,unknown,Tier
+Upper Palatinate,tier,,unknown,Tier
+STRAŽNY,visa,,unknown,unknown
+CESKA KUBICE,visa,,unknown,unknown
+ČESKA KUBICE,visa,,unknown,unknown
+NEMANICE,visa,,unknown,unknown
+ROZVADOV,visa,,unknown,unknown
+POMEZI NAD OHŘI,visa,,unknown,unknown
+Neuburg A. D. Donau,western_union,,unknown,GLOBAL CENTER
+Ingolstadt,western_union,,unknown,MR  PHONE
+Gersthofen,western_union,,unknown,LA ROMANU
+Bamberg,western_union,,unknown,AGRABAH
+Memmingen,western_union,,unknown,VEMA SERVICE
+Neu Ulm,western_union,,unknown,FIRST CLASS
+Erlangen,western_union,,unknown,NOORICOM
+Munchen,western_union,,unknown,HAPPY KIOSK
+Hochstadt A D Donau,western_union,,unknown,LINHS BOUTIQUE

@@ -1,0 +1,15 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+0951t008t1,e_leclerc,Station Service,,DIZY,Champagne-Ardenne,,FR,+33 3 26 55 14 55,,24/7,E.Leclerc,Q1273376
+0951t078t1,e_leclerc,Espace Culturel,,DIZY,Champagne-Ardenne,,FR,+33 3 26 55 14 55,https://e.leclerc/mag/e-leclerc-dizy,Mo-Sa 09:00-20:00; Su 09:30-12:00,E.Leclerc Espace Culturel,Q1273376
+0951t101t1,e_leclerc,DIZY,,DIZY,Champagne-Ardenne,,FR,+33 3 26 55 14 55,https://e.leclerc/mag/e-leclerc-dizy,Mo-Sa 09:00-20:00; Su 09:30-12:00,E.Leclerc,Q1273376
+0951t117t1,e_leclerc,Location,,DIZY,Champagne-Ardenne,,FR,+33 3 26 55 14 55,https://e.leclerc/mag/e-leclerc-dizy,"Mo-Sa 09:00-12:00,14:00-17:30",E.Leclerc Location,Q1273376
+1251t001t1,e_leclerc,Parapharmacie,,PIERRY,Champagne-Ardenne,,FR,+33 3 26 54 06 33,,Mo-Sa 09:00-20:00, E.Leclerc Parapharmacie,Q1273376
+1251t003t1,e_leclerc,Manège à bijoux,,PIERRY,Champagne-Ardenne,,FR,+33 3 26 54 06 33,,Mo-Sa 09:00-20:00,Manège à Bijoux,Q1273376
+1251t008t1,e_leclerc,Station Service,,PIERRY,Champagne-Ardenne,,FR,+33 3 26 54 06 33,,24/7,E.Leclerc,Q1273376
+1251t011t1,e_leclerc,Voyages,,PIERRY,Champagne-Ardenne,,FR,+33 5 49 48 01 24,,Mo-Sa 09:30-19:30,E.Leclerc,Q1273376
+1251t101t1,e_leclerc,PIERRY,,PIERRY,Champagne-Ardenne,,FR,+33 3 26 54 06 33,https://e.leclerc/mag/e-leclerc-pierry,Mo-Sa 08:30-20:00,E.Leclerc,Q1273376
+1251t117t1,e_leclerc,Location,,PIERRY,Champagne-Ardenne,,FR,+33 3 26 54 06 33,,Mo-Sa 08:30-18:45,E.Leclerc Location,Q1273376
+1251t118t1,e_leclerc,Drive Pierry / Epernay,,PIERRY,Champagne-Ardenne,,FR,+33 3 26 54 06 33,https://e.leclerc/mag/e-leclerc-pierry,Mo-Sa 07:00-20:00,E.Leclerc Drive,Q1273376
+https://local.fedex.com/#1017451777,fedex,,,St Martin D Ablois,Champagne-Ardenne,,FR,,https://local.fedex.com/en-fr/st-martin-d-ablois/rhell,,FedEx,Q459477
+https://local.fedex.com/#1017443831,fedex,,,Pierry,Champagne-Ardenne,,FR,,https://local.fedex.com/en-fr/pierry/rhego,,FedEx,Q459477
+https://local.fedex.com/#1017446129,fedex,,,Dizy,Champagne-Ardenne,,FR,,https://local.fedex.com/en-fr/dizy/rhedl,,FedEx,Q459477

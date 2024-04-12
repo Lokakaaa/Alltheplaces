@@ -1,0 +1,30 @@
+City,Place Name,Zipcode,Name
+Fukuoka,audi,819-0001 Fukuoka FUKUOKA-NISHI Fukuoka Odo Nishi-ku 2-2-85,unknown,Audi Fukuoka Marina
+Fukuoka-shi,audi,819-0001 Fukuoka Fukuoka Nishi Fukuoka-shi Odo Nishi-ku 2-2-85,unknown,Audi Approved Automobile Fukuoka Marina
+Kurume,audi,839-0841 Fukuoka KURUME Kurume Miihatazaki 4-3-14,unknown,Audi Kurume
+Kitakyushu,audi,802-0021 Fukuoka KITAKYUSYU Kitakyushu Takahama Kokura Kita-ku 1-1-25,unknown,Audi Kitakyushu
+Kitakyushu,audi,802-0021 Fukuoka KITAKYUSYU Kitakyushu Takahama Kokura Kita-ku 1-1-10,unknown,Audi Approved Automobile Kitakyushu
+Fukuoka,audi,812-0004 Fukuoka Fukuoka Higashi Fukuoka Enokida Hakata-ku 1-2-17,unknown,Audi Approved Automobile Hakata
+Fukuoka,audi,812-0882 Fukuoka FUKUOKA-HIGASHI Fukuoka Mugino Hakata-ku 2-25-8,unknown,Audi Itazuke
+Fukuoka,audi,815-0031 Fukuoka FUKUOKA-CHUO Fukuoka Shimizu Minami-ku 1-24-24,unknown,Audi Fukuoka Chuo
+Fukuoka,avis,,unknown,null Fukuoka
+"Kitakyusyu-city,",bmw_group,,unknown,"WILLPLUS Motoren Corporation, Yahat a/BPS Yahata/MINI NEXT Yahata"
+"Fukuoka-city,",bmw_group,,unknown,"YANASE Bayern Motors K.K., BPS Fuku oka-Nishi"
+"Kokurakita-ku, Kitakyushu-city,",bmw_group,,unknown,"WILLPLUS Motoren Corporation, Kokur a/BPS Kokura"
+"Kitakyushu-city,",bmw_group,,unknown,"WILLPLUS Motoren Corporation, MIN I Kokura/MINI NEXT Kokura"
+"Kurume-city,",bmw_group,,unknown,"YANASE Bayern Motors K.K., BPS Kuru me"
+Fukuoka-shi,bmw_group,,unknown,K.K. Balcom Motors / Fukuoka-Nishi
+Kita-kyushu-city,bmw_group,,unknown,K.K. Balcom Motors/ Kita-Kyushu Motorrad Balcom Kita-Kyushu
+Fukuoka-city,bmw_group,,unknown,"Balcom Motors Co.,Ltd, Fukuoka-Higa shi / BPS Fukuoka-Higashi"
+Kasuya-gun,bmw_group,,unknown,"WILLPLUS Motoren Corporation, MINI NEXT Fukuoka-Higashi"
+Fukuoka,botteg_aveneta,,unknown,Fukuoka - Iwataya
+Kitakyushu,botteg_aveneta,,unknown,Kitakyushu - Izutsuya Kokura
+Fukuoka Chuo Ward,petit_bateau,,unknown,Petit Bateau Iwataya
+Fukuoka Hakata Ward,petit_bateau,,unknown,Petit Bateau Boutique Amu Plaza Hakata
+"Hakata-ku, Fukuoka-shi,",travelex,1F Fukuoka Airport Int’l Terminal 739 Aoki Hakata-ku Fukuoka-shi 812-0851,unknown,Fukuoka Airport Intl Arrival Lobby
+"Fukuoka-shi,",travelex,3F Fukuoka Airport Int'l Terminal 739 Aoki Hakata-ku Fukuoka-shi 812-0851,unknown,FUKUOKA AIRPORT INT'L DEPARTURE GATE (SOUTH)  (In Boarding Gate Area)
+FUKUOKA-SHI,visa,,unknown,unknown
+KURUME-SHI,visa,,unknown,unknown
+Higashi Ku,western_union,,unknown,CE FUKUOKA HIGASHI
+Fukuoka Shi,western_union,,unknown,QS REMIT HQ YOSHIZUKA
+Fukuoka,western_union,,unknown,CE FUKUOKA

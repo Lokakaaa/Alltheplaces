@@ -1,0 +1,19 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+8922,abc_pl,abc,,Stanisławice,małopolskie,,PL,,,,abc,Q11683985
+363,mcdonalds_pl,McDonald's,,Kłaj,Małopolskie,,PL,+48 664 166 881,https://mcdonalds.pl/restauracje/malopolskie/klaj/klaj-klaj-1050-a,Mo-Su 06:00-24:00,McDonald's,Q38076
+364,mcdonalds_pl,McDonald's,,Kłaj,Małopolskie,,PL,+48 664 166 882,https://mcdonalds.pl/restauracje/malopolskie/klaj/klaj-klaj-1052a,Mo-Su 06:00-24:00,McDonald's,Q38076
+KLA01A,paczkomat_inpost_pl,Przy markecie Delikatesy Centrum,,Kłaj,małopolskie,,PL,,https://inpost.pl/paczkomat-klaj-kla01a-klaj-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+KLA01M,paczkomat_inpost_pl,Przy sklepie Lewiatan,,Kłaj,małopolskie,,PL,,https://inpost.pl/paczkomat-klaj-kla01m-klaj-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+KLA02M,paczkomat_inpost_pl,PRZY SKLEPIE GROSZEK,,Kłaj,małopolskie,,PL,,https://inpost.pl/paczkomat-klaj-kla02m-klaj-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+LYN01APP,paczkomat_inpost_pl,Przy frontowej ścianie sklepu,,Łysokanie,małopolskie,,PL,,https://inpost.pl/paczkomat-lysokanie-lyn01app-lysokanie-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+LYN01M,paczkomat_inpost_pl,przy Ranczo u Anity,,Łysokanie,małopolskie,,PL,,https://inpost.pl/paczkomat-lysokanie-lyn01m-lysokanie-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+POP-GDK1,paczkomat_inpost_pl,PAKERSI - KOMIS BIK AUTO,,Grodkowice,małopolskie,,PL,,https://inpost.pl/paczkomat-grodkowice-pop-gdk1-grodkowice-paczkomaty-malopolskie,Mo-Fr 09:00-18:00; Sa 10:00-14:00,Paczkomat,Q110970254
+POP-KLJ1,paczkomat_inpost_pl,DELIKATESY CENTRUM,,Kłaj,małopolskie,,PL,,https://inpost.pl/paczkomat-klaj-pop-klj1-klaj-paczkomaty-malopolskie,Mo-Sa 06:00-21:00,Paczkomat,Q110970254
+POP-KLJ2,paczkomat_inpost_pl,DELIKATESY CENTRUM,,Kłaj,małopolskie,,PL,,https://inpost.pl/paczkomat-klaj-pop-klj2-targowisko-paczkomaty-malopolskie,Mo-Sa 06:00-21:00,Paczkomat,Q110970254
+POP-KLJ3,paczkomat_inpost_pl,DELIKATESY CENTRUM,,Kłaj,małopolskie,,PL,,https://inpost.pl/paczkomat-klaj-pop-klj3-stanislawice-paczkomaty-malopolskie,Mo-Sa 06:00-21:00,Paczkomat,Q110970254
+SAS01M,paczkomat_inpost_pl,Przy parkingu od strony Apteki,,Stanisławice,małopolskie,,PL,,https://inpost.pl/paczkomat-stanislawice-sas01m-sloneczna-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+TGW01M,paczkomat_inpost_pl,Boczna ściana Delikatesów Centrum,,Targowisko,małopolskie,,PL,,https://inpost.pl/paczkomat-targowisko-tgw01m-targowisko-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+TGW02M,paczkomat_inpost_pl,Sklep Spożywczo-Przemysłowy,,Targowisko,małopolskie,,PL,,https://inpost.pl/paczkomat-targowisko-tgw02m-targowisko-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+245805,poczta_polska_pl,UP Kłaj,,Kłaj,MAŁOPOLSKIE,,PL,+48 885 951 843,,,Poczta Polska,Q168833
+298804,poczta_polska_pl,AP Stanisławice,,Stanisławice,MAŁOPOLSKIE,,PL,+48 12 284 20 44,,,Poczta Polska,Q168833
+,visa,,,KŁAJ,MAŁOPOLSKIE,,PL,,,,,

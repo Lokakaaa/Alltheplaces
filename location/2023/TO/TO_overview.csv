@@ -1,0 +1,21 @@
+State,Place Name,City,Establishments
+NUKUALOFA,avis,Tongatapu,2
+UNKNOWN,man_truck_and_bus,"Auckland, New Zealand",1
+UNKNOWN,moneygram,NUKUALOFA,3
+UNKNOWN,moneygram,EUA,1
+UNKNOWN,moneygram,HA'APAI,1
+UNKNOWN,moneygram,NUKU'ALOFA,9
+UNKNOWN,moneygram,VAVAU,1
+UNKNOWN,moneygram,NEIAFU,4
+UNKNOWN,moneygram,LONGOLONGO,1
+UNKNOWN,moneygram,TONGATAPU,1
+UNKNOWN,moneygram,VAVA'U,1
+UNKNOWN,moneygram,PANGAI,1
+UNKNOWN,visa,NUKU'ALOFA,6
+UNKNOWN,visa,"NEIAFU, VAVA'U",1
+TONGATAPU,western_union,Nukualofa,8
+TONGATAPU,western_union,Nukualosa,1
+TONGATAPU,western_union,Tongatapu,1
+EUA,western_union,Eua,1
+HAAPAI,western_union,Ha Apai,1
+VAVAU,western_union,Neiafu,1

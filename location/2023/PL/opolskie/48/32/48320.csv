@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+13323,abc_pl,abc,,Czarnolas,opolskie,,PL,,,,abc,Q11683985
+CNA01M,paczkomat_inpost_pl,Po prawej stronie sklepu,,Chróścina,opolskie,,PL,,https://inpost.pl/paczkomat-chroscina-cna01m-szkolna-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+POP-CRS1,paczkomat_inpost_pl,BORT WIMAR,,Chróścina,opolskie,,PL,,https://inpost.pl/paczkomat-chroscina-pop-crs1-szkolna-paczkomaty-opolskie,Mo-Sa 06:00-22:00,Paczkomat,Q110970254
+POP-SII1,paczkomat_inpost_pl,BORT WIMAR,,Sidzina,opolskie,,PL,,https://inpost.pl/paczkomat-sidzina-pop-sii1-opolska-paczkomaty-opolskie,Mo-Sa 06:00-21:00,Paczkomat,Q110970254
+POP-SOR1,paczkomat_inpost_pl,BORT WIMAR,,Skoroszyce,opolskie,,PL,,https://inpost.pl/paczkomat-skoroszyce-pop-sor1-braterstwa-broni-paczkomaty-opolskie,Mo-Sa 06:00-22:00,Paczkomat,Q110970254
+SGQ01M,paczkomat_inpost_pl,Przy sklepie Bort-Wimar,,Stary Grodków,opolskie,,PL,,https://inpost.pl/paczkomat-stary-grodkow-sgq01m-stary-grodkow-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+SIQ01M,paczkomat_inpost_pl,"Za rogiem, po lewej stronie od wejścia do sklepu",,Sidzina,opolskie,,PL,,https://inpost.pl/paczkomat-sidzina-siq01m-opolska-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+SKX01F,paczkomat_inpost_pl,Po prawej stronie od wejścia do sklepu ABC,,Skoroszyce,opolskie,,PL,,https://inpost.pl/paczkomat-skoroszyce-skx01f-dzialkowa-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+SKX01M,paczkomat_inpost_pl,Po lewej stronie sklepu,,Skoroszyce,opolskie,,PL,,https://inpost.pl/paczkomat-skoroszyce-skx01m-braterstwa-broni-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+972335,poczta_polska_pl,FUP Nysa 1,,Skoroszyce,OPOLSKIE,,PL,+48 885 920 776,,,Poczta Polska,Q168833

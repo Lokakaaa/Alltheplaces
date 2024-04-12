@@ -1,0 +1,6 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1362248,usps,ELECTRIC CITY,,ELECTRIC CITY,WA,,US,+1 509-633-0606,,"Mo-Fr 09:00-12:00,13:00-16:45; Sa 09:00-11:00",United States Postal Service,Q668687
+9912300003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,5 W COULEE BLVD,ELECTRIC CITY,WA,,US,,,,United States Postal Service,Q668687
+9912300001,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,5 W COULEE BLVD,ELECTRIC CITY,WA,,US,,,,United States Postal Service,Q668687
+9912300002,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,5 W COULEE BLVD,ELECTRIC CITY,WA,,US,,,,United States Postal Service,Q668687
+,visa,,,ELECTRIC CITY,WA,,US,,,,,

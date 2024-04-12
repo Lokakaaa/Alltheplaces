@@ -1,0 +1,51 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1248,abc_pl,abc,,Powiercie,wielkopolskie,,PL,,,,abc,Q11683985
+13924,abc_pl,abc,,Koło,wielkopolskie,,PL,,,,abc,Q11683985
+313,bricomarche_pl,Bricomarché Koło,,Koło,wielkopolskie,,PL,+48 63 261 05 59,https://www.bricomarche.pl/sklep/bricomarche-kolo,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1781-kolo-torunska,credit_agricole_pl,"Credit Agricole Toruńska 11, Koło",,Koło,wielkopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1781-kolo-torunska,Mo 09:30-17:00; Tu-Fr 08:30-16:00,Credit Agricole,Q590952
+132,dr_max,"Apteka Dr.Max, Sienkiewicza 17, Koło",,Koło,Wielkopolskie,,PL,+48 63 272 30 04,https://www.drmax.pl/apteki/koo-sienkiewicza-17,,Dr. Max,Q56317371
+161,dr_max,"Apteka Dr.Max, Blizna 26, Koło",,Koło,Wielkopolskie,,PL,+48 63 261 98 82,https://www.drmax.pl/apteki/koo-blizna-26,,Dr. Max,Q56317371
+595,dr_max,"Apteka Dr.Max, Polskiego Czerwonego Krzyża 4, Koło",,Koło,Wielkopolskie,,PL,+48 723 222 472,https://www.drmax.pl/apteki/koo-polskiego-czerwonego-krzyza-4,,Dr. Max,Q56317371
+11823,groszek_pl,Groszek,,Koło,wielkopolskie,,PL,,,,Groszek,Q9280965
+11855,groszek_pl,Groszek,,Koło,wielkopolskie,,PL,,,,Groszek,Q9280965
+11930,groszek_pl,Groszek,,Przybyłów,wielkopolskie,,PL,,,,Groszek,Q9280965
+598,mcdonalds_pl,McDonald's,,Koło,Wielkopolskie,,PL,+48 608 311 166,https://mcdonalds.pl/restauracje/wielkopolskie/kolo/kolo-dabska-41,Mo-Su 07:00-01:00,McDonald's,Q38076
+CJN01M,paczkomat_inpost_pl,Market Dino,,Chojny,wielkopolskie,,PL,,https://inpost.pl/paczkomat-chojny-cjn01m-chojny-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO01A,paczkomat_inpost_pl,Parking POLOmarket,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo01a-niezlomnych-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO01APP,paczkomat_inpost_pl,POLOmarket Blizna 26,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo01app-blizna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO01M,paczkomat_inpost_pl,Przy sklepie Lidl,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo01m-sienkiewicza-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO01N,paczkomat_inpost_pl,Przy sklepie Jysk,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo01n-konopnickiej-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO02A,paczkomat_inpost_pl,Parking sklepu KIK,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo02a-tuwima-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO02M,paczkomat_inpost_pl,Przy bocznej ścianie.,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo02m-kolejowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO02N,paczkomat_inpost_pl,Przy sklepie meblowym Szwed meble,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo02n-nowowarszawska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO03M,paczkomat_inpost_pl,Przy sklepie Społem.,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo03m-plater-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO03N,paczkomat_inpost_pl,Przy sklepie Brico Marche,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo03n-torunska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO04M,paczkomat_inpost_pl,Market Dino,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo04m-bogumila-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO05M,paczkomat_inpost_pl,"obok sklepu, centralka i skrytki odwrócone w stronę chodnika",,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo05m-tulipanowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO06M,paczkomat_inpost_pl,od ulicy Spółdzielców,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo06m-wojciechowskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO07M,paczkomat_inpost_pl,przy sklepie Grzybo Branie,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo07m-broniewskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO08M,paczkomat_inpost_pl,Market Dino,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo08m-skladowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO09M,paczkomat_inpost_pl,PSB Franspol,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo09m-torunska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO10M,paczkomat_inpost_pl,Sklep ABC,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo10m-zeromskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO11M,paczkomat_inpost_pl,Gosposia-Gaz,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo11m-stanislawa-poniatowskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+KOO12M,paczkomat_inpost_pl,Kaufland Polska,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-koo12m-kolejowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+MYE01M,paczkomat_inpost_pl,Przy Sklepie Spożywczym,,Młynek,wielkopolskie,,PL,,https://inpost.pl/paczkomat-mlynek-mye01m-mlynek-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-KOO4,paczkomat_inpost_pl,SKLEP SPOŻYWCZY4,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-pop-koo4-emilii-plater-paczkomaty-wielkopolskie,Mo-Fr 08:00-20:00; Sa 10:00-16:00,Paczkomat,Q110970254
+POP-KOO5,paczkomat_inpost_pl,SKLEP SPOŻYWCZY,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-pop-koo5-broniewskiego-paczkomaty-wielkopolskie,Mo-Fr 08:00-20:00; Sa 08:00-19:00,Paczkomat,Q110970254
+POP-KOO6,paczkomat_inpost_pl,SKLEP SPOŻYWCZY,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-pop-koo6-kolejowa-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00; Sa 08:00-13:00,Paczkomat,Q110970254
+POP-KOO7,paczkomat_inpost_pl,SKLEP SPOŻYWCZY,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-pop-koo7-bogumila-paczkomaty-wielkopolskie,Mo-Fr 08:00-18:00,Paczkomat,Q110970254
+POP-KOO8,paczkomat_inpost_pl,SKLEP SPOŻYWCZY,,Koło,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kolo-pop-koo8-ceramiczna-paczkomaty-wielkopolskie,Mo-Fr 08:00-18:00; Sa 10:00-14:00,Paczkomat,Q110970254
+PQK01M,paczkomat_inpost_pl,Przy sklepie Groszek,,Powiercie-Kolonia,wielkopolskie,,PL,,https://inpost.pl/paczkomat-powiercie-kolonia-pqk01m-powiercie-kolonia-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PVE01M,paczkomat_inpost_pl,Market Dino,,Powiercie,wielkopolskie,,PL,,https://inpost.pl/paczkomat-powiercie-pve01m-powiercie-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+WRZW01M,paczkomat_inpost_pl,Market Dino,,Wrząca Wielka,wielkopolskie,,PL,,https://inpost.pl/paczkomat-wrzaca-wielka-wrzw01m-wrzaca-wielka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+43,play_pl,Salon Play,Ul. Toruńska 47/2,Koło,wielkopolskie,,PL,+48 790 031 501,,Mo-Fr 09:00-18:00; Sa 09:00-14:00,Play,Q7202998
+246310,poczta_polska_pl,UP Koło 1,,Koło,WIELKOPOLSKIE,,PL,+48 63 272 44 09;+48 63 272 44 13,,,Poczta Polska,Q168833
+,visa,,,KOLO,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOŁO,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOŁO,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOŁO,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOLO,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOŁO,WIELKOPOLSKIE,,PL,,,,,
+,visa,,,KOŁO,WIELKOPOLSKIE,,PL,,,,,
+42a326f8272463754aac34879e386699,western_union,STEFCZYK FINANSE,,Kolo,WIELKOPOLSKIE,,PL,+48 63 262 57 30,https://location.westernunion.com/pl/wielkopolskie/kolo/42a326f8272463754aac34879e386699,Mo-Fr 09:00-17:00,Western Union,Q861042
+c2141bdd82d6d60678a77a64f4f0bc13,western_union,LBS STRZALKOWO O KOLO,,Kolo,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/kolo/c2141bdd82d6d60678a77a64f4f0bc13,Mo-Fr 07:30-17:00,Western Union,Q861042

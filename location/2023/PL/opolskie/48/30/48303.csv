@@ -1,0 +1,26 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+10851,abc_pl,abc,,Siestrzechowice,opolskie,,PL,,,,abc,Q11683985
+5228,abc_pl,abc,,Kubice,opolskie,,PL,,,,abc,Q11683985
+3469,abc_pl,abc,,Nysa,opolskie,,PL,,,,abc,Q11683985
+5524,abc_pl,abc,,Przełęk,opolskie,,PL,,,,abc,Q11683985
+5368,abc_pl,abc,,Nysa,opolskie,,PL,,,,abc,Q11683985
+9914,abc_pl,abc,,Nysa,opolskie,,PL,,,,abc,Q11683985
+10839,abc_pl,abc,,Wierzbięcice,opolskie,,PL,,,,abc,Q11683985
+PL001108,aldi_nord_pl,ALDI,,Nysa,Opolskie,,PL,+48 800 118 118,,Mo-Sa 06:00-22:00,ALDI,Q41171373
+BNS01M,paczkomat_inpost_pl,Przy przystanku autobusowym,,Biała Nyska,opolskie,,PL,,https://inpost.pl/paczkomat-biala-nyska-bns01m-nyska-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+HNS01M,paczkomat_inpost_pl,Przy posesji prywatnej,,Hajduki Nyskie,opolskie,,PL,,https://inpost.pl/paczkomat-hajduki-nyskie-hns01m-hajduki-nyskie-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+KOPE01M,paczkomat_inpost_pl,Przy OSP,,Koperniki,opolskie,,PL,,https://inpost.pl/paczkomat-koperniki-kope01m-koperniki-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+NYS02A,paczkomat_inpost_pl,Market Dino,,Nysa,opolskie,,PL,,https://inpost.pl/paczkomat-nysa-nys02a-zwyciestwa-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+NYS03M,paczkomat_inpost_pl,W tylnej części parkingu myjni,,Nysa,opolskie,,PL,,https://inpost.pl/paczkomat-nysa-nys03m-dlugosza-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+NYS06M,paczkomat_inpost_pl,Na stacji paliw BP,,Nysa,opolskie,,PL,,https://inpost.pl/paczkomat-nysa-nys06m-jagielonska-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+NYS07M,paczkomat_inpost_pl,Przy sklepie Lewiatan,,Nysa,opolskie,,PL,,https://inpost.pl/paczkomat-nysa-nys07m-pilsudskiego-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+NYS11M,paczkomat_inpost_pl,"Na parkingu, po lewej stronie sklepu",,Nysa,opolskie,,PL,,https://inpost.pl/paczkomat-nysa-nys11m-dlugosza-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+NYS16M,paczkomat_inpost_pl,"Przy sklepie ""Berlinek""",,Nysa,opolskie,,PL,,https://inpost.pl/paczkomat-nysa-nys16m-prusa-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+NYS20M,paczkomat_inpost_pl,Stacja paliw MOL,,Nysa,opolskie,,PL,,https://inpost.pl/paczkomat-nysa-nys20m-pilsudskiego-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+WBE01M,paczkomat_inpost_pl,Przy sklepie Darvita,,Wierzbięcice,opolskie,,PL,,https://inpost.pl/paczkomat-wierzbiecice-wbe01m-wierzbiecice-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+WQS01APP,paczkomat_inpost_pl,Po prawej od wejścia do sklepu,,Wyszków Śląski,opolskie,,PL,,https://inpost.pl/paczkomat-wyszkow-slaski-wqs01app-wyszkow-slaski-paczkomaty-opolskie,24/7,Paczkomat,Q110970254
+256550,poczta_polska_pl,UP Nysa 3,,Nysa,OPOLSKIE,,PL,+48 77 409 30 83;+48 77 409 36 75,,,Poczta Polska,Q168833
+,visa,,,NYSA,OPOLSKIE,,PL,,,,,
+,visa,,,NYSA,OPOLSKIE,,PL,,,,,
+,visa,,,NYSA,OPOLSKIE,,PL,,,,,
+,visa,,,NYSA,OPOLSKIE,,PL,,,,,

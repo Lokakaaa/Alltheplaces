@@ -1,0 +1,338 @@
+State,Place Name,City,Establishments
+UNKNOWN,alamo,Tola,1
+UNKNOWN,alamo,Managua,2
+UNKNOWN,alamo,Rivas,2
+RIVAS,avis,San Juan Del Sur,1
+GRANADA,avis,Granada,1
+MANAGUA,avis,Managua,3
+MANAGUA,deloitte,unknown,1
+UNKNOWN,enterprise,Mangua,1
+UNKNOWN,enterprise,Tola,1
+UNKNOWN,enterprise,Managua,1
+UNKNOWN,enterprise,Rivas,1
+UNKNOWN,enterprise,San Juan Del Sur,1
+UNKNOWN,ernst_young,Managua,1
+UNKNOWN,ford,Managua,1
+UNKNOWN,hardrock,Managua,1
+UNKNOWN,hilton,unknown,1
+UNKNOWN,lidl_ni,Belfast,8
+UNKNOWN,lidl_ni,Banbridge,1
+UNKNOWN,lidl_ni,Lurgan,1
+UNKNOWN,lidl_ni,Magherafelt,1
+UNKNOWN,lidl_ni,Derry,1
+UNKNOWN,lidl_ni,Ballymoney,1
+UNKNOWN,lidl_ni,Strabane,1
+UNKNOWN,lidl_ni,Antrim,1
+UNKNOWN,lidl_ni,Newtownards,1
+UNKNOWN,lidl_ni,Limavady,1
+UNKNOWN,lidl_ni,Dundonald,1
+UNKNOWN,lidl_ni,Portadown,1
+UNKNOWN,lidl_ni,Newry,2
+UNKNOWN,lidl_ni,Omagh,1
+UNKNOWN,lidl_ni,Cookstown,1
+UNKNOWN,lidl_ni,Portrush,1
+UNKNOWN,lidl_ni,Ballyclare,1
+UNKNOWN,lidl_ni,Newtownabbey,1
+UNKNOWN,lidl_ni,Lisburn,2
+UNKNOWN,lidl_ni,Ballynahinch,1
+UNKNOWN,lidl_ni,Downpatrick,1
+UNKNOWN,lidl_ni,Ballymena,1
+UNKNOWN,lidl_ni,Dungannon,1
+UNKNOWN,lidl_ni,Newcastle,1
+UNKNOWN,lidl_ni,Larne,1
+UNKNOWN,lidl_ni,Armagh,1
+UNKNOWN,lidl_ni,Enniskillen,1
+UNKNOWN,lidl_ni,Bangor,1
+UNKNOWN,lidl_ni,Craigavon,1
+UNKNOWN,lidl_ni,Lisnaskea,1
+UNKNOWN,lidl_ni,Carrickfergus,1
+UNKNOWN,moneygram,MANAGUA,108
+UNKNOWN,moneygram,LEON,13
+UNKNOWN,moneygram,RIVAS,10
+UNKNOWN,moneygram,TIPITAPA,5
+UNKNOWN,moneygram,SOMOTILLO,6
+UNKNOWN,moneygram,CHINANDEGA,22
+UNKNOWN,moneygram,LA PAZ CENTRO,6
+UNKNOWN,moneygram,ESTELI,10
+UNKNOWN,moneygram,SAN JUAN DE LIMAY,2
+UNKNOWN,moneygram,PUEBLO NUEVO,1
+UNKNOWN,moneygram,CONDEGA,1
+UNKNOWN,moneygram,SOMOTO,4
+UNKNOWN,moneygram,VILLA NUEVA,2
+UNKNOWN,moneygram,JINOTEPE,5
+UNKNOWN,moneygram,DIRIOMO,2
+UNKNOWN,moneygram,JUIGALPA,8
+UNKNOWN,moneygram,JALAPA,6
+UNKNOWN,moneygram,EL SAUCE,3
+UNKNOWN,moneygram,CHICHIGALPA,4
+UNKNOWN,moneygram,MASAYA,7
+UNKNOWN,moneygram,CORINTO,6
+UNKNOWN,moneygram,NEW YORK,1
+UNKNOWN,moneygram,BOACO,9
+UNKNOWN,moneygram,PUERTO CABEZAS,1
+UNKNOWN,moneygram,EL RAMA,5
+UNKNOWN,moneygram,MATAAGALPA,1
+UNKNOWN,moneygram,PALACAGUINA,1
+UNKNOWN,moneygram,SAN CARLOS,8
+UNKNOWN,moneygram,DIRIAMBA,4
+UNKNOWN,moneygram,CHONTALES,2
+UNKNOWN,moneygram,MASATEPE,6
+UNKNOWN,moneygram,MATAGALPA,13
+UNKNOWN,moneygram,NICARAGUA,1
+UNKNOWN,moneygram,JINOTEGA,6
+UNKNOWN,moneygram,EL VIEJO,5
+UNKNOWN,moneygram,CIUDAD DARIO,4
+UNKNOWN,moneygram,MANGUA,2
+UNKNOWN,moneygram,CARIBE NORTE,2
+UNKNOWN,moneygram,NANDAIME,6
+UNKNOWN,moneygram,MATIGUAS,2
+UNKNOWN,moneygram,SEBACO,3
+UNKNOWN,moneygram,QUILALI,2
+UNKNOWN,moneygram,GRANADA,8
+UNKNOWN,moneygram,OCOTAL,6
+UNKNOWN,moneygram,SAN JUAN DEL RIO COCO,2
+UNKNOWN,moneygram,TECOLOSTOTE,1
+UNKNOWN,moneygram,EL TUMA LA DALIA,2
+UNKNOWN,moneygram,NAGAROTE,4
+UNKNOWN,moneygram,LA TRINIDAD,3
+UNKNOWN,moneygram,NUEVA GUINEA,9
+UNKNOWN,moneygram,CUIDAD DARIO,1
+UNKNOWN,moneygram,NINDIRI,3
+UNKNOWN,moneygram,TEUSTEPE,3
+UNKNOWN,moneygram,ALTAGRACIA,1
+UNKNOWN,moneygram,NIQUINOHOMO,2
+UNKNOWN,moneygram,SIUNA,2
+UNKNOWN,moneygram,BOCANA DE PAIWAS,1
+UNKNOWN,moneygram,SAN JORGE,1
+UNKNOWN,moneygram,MATEARE,1
+UNKNOWN,moneygram,CAMOAPA,7
+UNKNOWN,moneygram,SANTO TOMAS,5
+UNKNOWN,moneygram,MALPAISILLO,1
+UNKNOWN,moneygram,VILLANUEVA,1
+UNKNOWN,moneygram,ESQUIPULAS,3
+UNKNOWN,moneygram,LA CONCEPCION,1
+UNKNOWN,moneygram,SAN ISIDRO,1
+UNKNOWN,moneygram,EL CUA,1
+UNKNOWN,moneygram,MUELLE DE LOS BUEYES,1
+UNKNOWN,moneygram,RAAS,1
+UNKNOWN,moneygram,WASLALA,2
+UNKNOWN,moneygram,MULUKUKU,1
+UNKNOWN,moneygram,ROSITA,3
+UNKNOWN,moneygram,LAGUNA DE PERLAS,1
+UNKNOWN,moneygram,EL JICARO,3
+UNKNOWN,moneygram,EL CRUCERO,1
+UNKNOWN,moneygram,RANCHO GRANDE,1
+UNKNOWN,moneygram,CIUDAD SANDINO,1
+UNKNOWN,moneygram,LA CRUZ DE RIO GRANDE,1
+UNKNOWN,moneygram,SAN RAFAEL DEL SUR,3
+UNKNOWN,moneygram,EL ALMENDRO,1
+UNKNOWN,moneygram,ACHUAPA,1
+UNKNOWN,moneygram,MURRA,1
+UNKNOWN,moneygram,WIWILI,2
+UNKNOWN,moneygram,ACOYAPA,1
+UNKNOWN,moneygram,RIO BLANCO,2
+UNKNOWN,moneygram,BLUEFIELDS,1
+UNKNOWN,moneygram,EL GUASAULE,1
+UNKNOWN,moneygram,PENAS BLANCAS,1
+UNKNOWN,moneygram,SAN JUAN DEL SUR,1
+UNKNOWN,moneygram,SAN MARCOS,1
+UNKNOWN,moneygram,RAAN,1
+UNKNOWN,national,"San Juan Del Sur, Rivas",1
+UNKNOWN,national,Rivas,1
+UNKNOWN,national,Tola,1
+UNKNOWN,national,Managua,2
+UNKNOWN,united_colors_of_benetton,MANAGUA,1
+UNKNOWN,visa,CORN ISLAND,1
+UNKNOWN,visa,PUERTO CABEZAS,1
+UNKNOWN,visa,RAAN,1
+UNKNOWN,visa,RAAS,12
+UNKNOWN,visa,KUKRA HILL,2
+UNKNOWN,visa,BLUEFIELDS,4
+UNKNOWN,visa,MANAGUA,491
+UNKNOWN,visa,EL RAMA,2
+UNKNOWN,visa,BONANZA,2
+UNKNOWN,visa,ROSITA,1
+UNKNOWN,visa,NUEVA GUINEA,2
+UNKNOWN,visa,MATAGALPA,34
+UNKNOWN,visa,RIO SAN JUAN,2
+UNKNOWN,visa,SAN CARLOS,2
+UNKNOWN,visa,SIUNA,2
+UNKNOWN,visa,GRANADA,31
+UNKNOWN,visa,SANTO DOMINGO,1
+UNKNOWN,visa,SANTO TOMAS,1
+UNKNOWN,visa,CHONTALES,10
+UNKNOWN,visa,SAN PEDRO DE LOVAGO,1
+UNKNOWN,visa,RIO BLANCO,2
+UNKNOWN,visa,LA LIBERTAD,1
+UNKNOWN,visa,JUIGALPA,7
+JUIGALPA,visa,JUIGALPA,1
+UNKNOWN,visa,WASLALA,1
+UNKNOWN,visa,MATIGUAS,2
+UNKNOWN,visa,BOACO,10
+UNKNOWN,visa,CAMOAPA,1
+UNKNOWN,visa,RIVAS,31
+UNKNOWN,visa,LEON,46
+UNKNOWN,visa,PEÑAS BLANCAS,1
+UNKNOWN,visa,OMETEPE,2
+UNKNOWN,visa,LA DALIA,1
+UNKNOWN,visa,ESQUIPULAS,1
+RIVAS,visa,RIVAS,1
+UNKNOWN,visa,SAN JUAN DEL SUR,6
+RIVAS,visa,SAN JUAN DEL SUR,1
+UNKNOWN,visa,TOLA,6
+MATAGALPA,visa,MATAGALPA,1
+GRANADA,visa,GRANADA,1
+UNKNOWN,visa,JINOTEGA,9
+UNKNOWN,visa,NANDAIME,2
+UNKNOWN,visa,MASAYA,36
+UNKNOWN,visa,MASATEPE,3
+UNKNOWN,visa,TIPITAPA,6
+MASAYA,visa,MASAYA,2
+MANAGUA,visa,MANAGUA,42
+UNKNOWN,visa,NINDIRI,3
+UNKNOWN,visa,SAN MARCOS,5
+UNKNOWN,visa,JINOTEPE,9
+MATAGALPA,visa,SEBACO,1
+UNKNOWN,visa,SEBACO,6
+UNKNOWN,visa,DIRIAMBA,3
+UNKNOWN,visa,OCOTAL,8
+UNKNOWN,visa,JALAPA,1
+UNKNOWN,visa,NUEVA SEGOVIA,1
+UNKNOWN,visa,LA CONCHA,1
+UNKNOWN,visa,CARAZO,8
+JINOTEPE,visa,JINOTEPE,1
+UNKNOWN,visa,TICUANTEPE,2
+DIRIAMBA,visa,DIRIAMBA,1
+UNKNOWN,visa,SOMOTO,5
+UNKNOWN,visa,CIUDAD SANDINO,2
+UNKNOWN,visa,ESTELI,32
+ESTELI,visa,ESTELI,2
+UNKNOWN,visa,ESTELÍ,1
+UNKNOWN,visa,CONDEGA,1
+UNKNOWN,visa,SAN RAFAEL DEL SUR,2
+UNKNOWN,visa,MATEARE,1
+UNKNOWN,visa,MASACHAPA,2
+UNKNOWN,visa,NAGAROTE,1
+SOMOTO,visa,SOMOTO,1
+UNKNOWN,visa,LA PAZ CENTRO,1
+UNKNOWN,visa,SOMOTILLO,2
+LEON,visa,LEON,2
+UNKNOWN,visa,GUASAULE,1
+UNKNOWN,visa,LAS PEÑITAS,1
+UNKNOWN,visa,CHINANDEGA,34
+UNKNOWN,visa,CHICHIGALPA,2
+CHINANDEGA,visa,CHINANDEGA,2
+UNKNOWN,visa,EL VIEJO,3
+UNKNOWN,visa,CORINTO,1
+RACCN,western_union,Coperna,2
+RAUTONDELCARIBENORTERACN,western_union,Rosita,7
+RAAN,western_union,Rosita,1
+RAUTONDELCARIBENORTERACN,western_union,Siuna,6
+CHINANDEGA,western_union,Chichigalpa,10
+CHINANDEGA,western_union,Corinto,8
+CHINANDEGA,western_union,El Viejo,8
+CHINANDEGA,western_union,Chinandega,37
+CHINANDEGA,western_union,Puerto Morazan,2
+CHINANDEGA,western_union,Posoltega,2
+LEON,western_union,Leon,36
+RIVAS,western_union,San Juan Del Sur,6
+MANAGUA,western_union,San Rafael Del Sur,4
+RIVAS,western_union,Tola,2
+LEON,western_union,Nagarote,11
+RIVAS,western_union,Rivas,17
+ESTELI,western_union,Pueblo Nuevo,5
+CHINANDEGA,western_union,San Pedro Del Norte,2
+LEON,western_union,La Paz Centro,10
+BOACO,western_union,Boaco,10
+CHINANDEGA,western_union,Villa Nueva,4
+CHINANDEGA,western_union,Somotillo,8
+CARAZO,western_union,San Marcos,4
+CARAZO,western_union,Jinotepe,18
+GRANADA,western_union,Nandaime,8
+LEON,western_union,Malpaisillo,2
+CARAZO,western_union,Diriamba,2
+RIVAS,western_union,San Jorge,2
+MANAGUA,western_union,Managua,216
+MANAGUA,western_union,Ciudad Sandino,12
+MASAYA,western_union,La Concepcion,5
+RIOSANJUAN,western_union,San Carlos,8
+RIVAS,western_union,Moyogalpa,3
+RIVAS,western_union,Isla De Ometepe,2
+MATAGALPA,western_union,Rio Blanco,8
+CARAZO,western_union,Santa Teresa,2
+MANAGUA,western_union,Mateare,3
+MASAYA,western_union,Masatepe,4
+MANAGUA,western_union,Ticuantepe,7
+GRANADA,western_union,Diriomo,2
+MASAYA,western_union,Masaya,24
+MASAYA,western_union,Niquinohomo,2
+JINOTEGA,western_union,Santa Maria De Pantasma,4
+MANAGUA,western_union,Esquipulas,1
+MASAYA,western_union,Nindiri,3
+RIVAS,western_union,Altagracia,2
+LEON,western_union,El Sauce,6
+ESTELI,western_union,San Juan De Limay,2
+LEON,western_union,Achuapa,2
+GRANADA,western_union,Granada,17
+MADRIZ,western_union,Somoto,6
+MANAGUA,western_union,Tipitapa,17
+MANAGUA,western_union,San Francisco Libre,1
+MASAYA,western_union,Tisma,2
+LEON,western_union,El Jicaral,2
+NUEVASEGOVIA,western_union,Ocotal,11
+LEON,western_union,Santa Rosa Del Penon,2
+OCOTAL,western_union,Nueva Segovia,1
+MANAGUA,western_union,San Benito,2
+ESTELI,western_union,Esteli,32
+ESTELI,western_union,Condega,4
+MADRIZ,western_union,Palacaguina,3
+ESTELI,western_union,San Nicolas De Oriente,2
+NUEVASEGOVIA,western_union,Jalapa,11
+BOACO,western_union,Teustepe,2
+NUEVASEGOVIA,western_union,Susucayan,2
+JINOTEGA,western_union,San Sebastian De Yali,2
+MATAGALPA,western_union,Sebaco,9
+MATAGALPA,western_union,San Isidro,5
+MADRIZ,western_union,Telpaneca,2
+MATAGALPA,western_union,Ciudad Dario,6
+ESTELI,western_union,La Trinidad,2
+RAUTONDELCARIBESURRACS,western_union,Nueva Guinea,18
+BOACO,western_union,Tecolostote,2
+MADRIZ,western_union,San Juan De Rio Coco,4
+JINOTEGA,western_union,Jinotega,16
+CHONTALES,western_union,Juigalpa,22
+CHONTALES,western_union,Acoyapa,4
+NUEVASEGOVIA,western_union,El Jicaro,2
+MATAGALPA,western_union,Terrabona,2
+MATAGALPA,western_union,Matagalpa,25
+MATAGALPA,western_union,Esquipulas,2
+NUEVASEGOVIA,western_union,Quilali,4
+BOACO,western_union,Santa Lucia,2
+RAUTONDELCARIBESURRACS,western_union,Bluefields,5
+MATAGALPA,western_union,San Ramon,1
+BOACO,western_union,Camoapa,7
+CHONTALES,western_union,Santo Tomas,6
+JINOTEGA,western_union,Wiwili,5
+JINOTEGA,western_union,El Cua,4
+RAUTONDELCARIBESURRACS,western_union,Kukrahill,2
+RAUTONDELCARIBESURRACS,western_union,Muelle De Los Bueyes,2
+MATAGALPA,western_union,El Tuma La Dalia,4
+NUEVASEGOVIA,western_union,Wiwili,2
+MATAGALPA,western_union,Muy Muy,4
+MATAGALPA,western_union,Matiguas,10
+RAUTONDELCARIBESURRACS,western_union,El Rama,6
+RAUTONDELCARIBENORTERACN,western_union,Puerto Cabezas,5
+RAAN,western_union,Waslala,2
+RAUTONDELCARIBENORTERACN,western_union,Waslala,2
+RAUTONDELCARIBESURRACS,western_union,Paiwas,2
+RAUTONDELCARIBESURRACS,western_union,El Ayote,2
+RACCN,western_union,Siuna,2
+RACCN,western_union,Santa Rita,2
+BONANZA,western_union,Raan,2
+RAAN,western_union,Mulukuku,1
+RAUTONDELCARIBENORTERACN,western_union,Mulukuku,1
+RACCN,western_union,Bilwi,2
+JINOTEGA,western_union,San Jose De Bocay,8
+RAUTONDELCARIBENORTERACN,western_union,Waspan,2
+RAUTONDELCARIBESURRACS,western_union,Laguna De Perlas,2
+BLUEFIELDS,western_union,Raas,2

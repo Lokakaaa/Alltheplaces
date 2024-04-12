@@ -1,0 +1,104 @@
+City,Place Name,Zipcode,Name
+Graz Stadt,a1_at,,unknown,A1 Shop Graz City Park
+Politischer Bezirk Leoben,a1_at,,unknown,A1 Shop Leoben
+Politischer Bezirk Hartberg-Fuerstenfeld,a1_at,,unknown,A1 Shop Hartberg
+Politischer Bezirk Leibnitz,a1_at,,unknown,A1 Shop Leibnitz
+Politischer Bezirk Bruck-Muerzzuschlag,a1_at,,unknown,A1 Shop Kapfenberg ece
+Politischer Bezirk Suedoststeiermark,a1_at,,unknown,A1 Shop Feldbach
+Politischer Bezirk Murtal,a1_at,,unknown,A1 Shop Fohnsdorf Arena am Wal
+Politischer Bezirk Graz-Umgebung,a1_at,,unknown,A1 Shop Graz SC Seiersberg
+Politischer Bezirk Liezen,a1_at,,unknown,A1 Shop Liezen ELI
+Graz,audi,Ferdinand Porsche Platz 1 8041 Graz,unknown,Porsche Inter Auto GmbH & Co KG ZNL Porsche Graz-Liebenau
+Graz,audi,Weinzöttlstraße 15 8045 Graz,unknown,Ing. Franz Kuss Autohaus GmbH
+Graz,audi,Triesterstraße 11-13 8020 Graz,unknown,Hans Pugl Ges.m.b.H.
+Aichdorf,audi,Bundesstraße 10 8753 Aichdorf,unknown,Neubauer GmbH
+Bruck - Mur,audi,Wiener Straße 48 8600 Bruck - Mur,unknown,F. Ebner GmbH
+Feldbach,audi,Gniebing 84 8330 Feldbach,unknown,TL Automobile Vertriebs GmbH & Co KG
+Liezen,audi,Gesäusestraße 5-11 8940 Liezen,unknown,Laimer Ges.m.b.H.
+Murau,audi,Bundesstraße 1 8850 Murau,unknown,Schuhberger GesmbH
+Mureck,audi,Grazer Straße 76 8480 Mureck,unknown,Autohaus Schaffer GmbH & Co KG
+Voitsberg,audi,Packerstraße 4 8570 Voitsberg,unknown,Franz Fripertinger Ges.m.b.H
+"Haus, Steiermark",audi,Bundesstraße 99 8967 Haus Steiermark,unknown,Meißnitzer Gesellschaft mbH
+Friedberg,audi,Hauptstrasse 27 8240 Friedberg,unknown,Lind GmbH & Co KG
+St. Peter-Freienstein,audi,Gewerbepark 9 8792 St. Peter-Freienstein,unknown,Porsche Inter Auto GmbH & Co KG ZNL Porsche Leoben
+Frohnleiten,audi,Rechbergstraße 22 8130 Frohnleiten,unknown,Autohaus Bocskay GmbH
+Ilz,audi,Hauptstraße 35 8262 Ilz,unknown,Theodor Mager Ges.m.b.H.
+Kapfenberg,audi,Wiener Straße 77 8605 Kapfenberg,unknown,Porsche Inter Auto GmbH & Co KG ZNL Porsche Kapfenberg
+Leibnitz,audi,Südbahnstraße 27 8430 Leibnitz,unknown,Porsche Inter Auto GmbH & Co KG ZNL Porsche Leibnitz
+Fürstenfeld,audi,Körmenderstraße 7 8280 Fürstenfeld,unknown,Theodor Mager Ges.m.b.H.
+Neumarkt,audi,St. Georgen 127 8820 Neumarkt,unknown,Johann Kaiser GmbH
+Deutschlandsberg,audi,Frauentalerstraße 59 8530 Deutschlandsberg,unknown,Porsche Inter Auto GmbH & Co KG ZNL Porsche Deutschlandsberg
+Bärnbach,audi,Hauptstraße 5 8572 Bärnbach,unknown,Autohaus Mürzl Ges.m.b.H.
+Schladming,audi,Ramsauerstraße 571 8970 Schladming,unknown,Rudolf Erlbacher GmbH
+Graz,audi,Kärntnerstraße 20 8020 Graz,unknown,Porsche Inter Auto GmbH & Co KG ZNL Porsche Graz-Kärntnerstraße
+Birkfeld,audi,Gasener Straße 3 8190 Birkfeld,unknown,Autohaus Felber Ges.m.b.H.
+Großreifling,audi,Großreifling 85 8931 Großreifling,unknown,Hermann Berger GmbH
+Bad Aussee,audi,Pötschenstraße 134 8990 Bad Aussee,unknown,Bathelt Autohaus Handels- und Werkstätten Ges.m.b.H.
+Hartberg,audi,Ressavarstraße 76 8230 Hartberg,unknown,Autohaus Ebner GmbH
+Graz,audi,Kärntnerstraße 234 8054 Graz,unknown,Porsche Inter Auto GmbH & Co KG ZNL Porsche Graz-Kärntnerstraße
+Mariazell,audi,An der Forststraße 3 8630 Mariazell,unknown,Autohaus Diepold Ges.m.b.H.
+Vorau,audi,Hauptstraße 285 8250 Vorau,unknown,F. Kremnitzer GesmbH & Co KG
+Gnas,audi,Burgfried 175 8342 Gnas,unknown,Albert Fink Ges.m.b.H.
+Weiz,audi,Werksweg 10-14 8160 Weiz,unknown,Autohaus Weiz GesmbH & Co KG
+Gleisdorf,audi,Ziegelgasse 6 8200 Gleisdorf,unknown,Autohaus Gleisdorf Wiener GesmbH & Co KG
+Langenwang,audi,Grazer Straße 79 8665 Langenwang,unknown,Autohaus Diepold Ges.m.b.H.
+Gleinstätten,audi,Distelhof 81 8443 Gleinstätten,unknown,Autohaus Paier & Paier GmbH
+Fohnsdorf,burgerking,,unknown,Burger King
+Bruck an der Mur,das_futterhaus,,unknown,Das Futterhaus Bruck an der Mur
+Fohnsdorf,das_futterhaus,,unknown,Das Futterhaus Fohnsdorf
+Gleisdorf,das_futterhaus,,unknown,Das Futterhaus Gleisdorf
+Graz/Nord,das_futterhaus,,unknown,Das Futterhaus Graz/Nord
+Graz/West,das_futterhaus,,unknown,Das Futterhaus Graz/West
+Knittelfeld,das_futterhaus,,unknown,Das Futterhaus Knittelfeld
+Leoben,das_futterhaus,,unknown,Das Futterhaus Leoben
+Rosental an der Kainach,das_futterhaus,,unknown,Das Futterhaus Rosental an der Kainach
+St. Lorenzen im Mürztal,das_futterhaus,,unknown,Das Futterhaus St. Lorenzen im Mürztal
+Vogau,das_futterhaus,,unknown,Das Futterhaus Vogau
+Bad Radkersburg,fussl_at_de,,unknown,Bad Radkersburg - SOS
+Deutschlandsberg,fussl_at_de,,unknown,Deutschlandsberg - FMZ
+Feldbach,fussl_at_de,,unknown,Feldbach
+Fohnsdorf,fussl_at_de,,unknown,Fohnsdorf - Arena
+Fürstenfeld,fussl_at_de,,unknown,Fürstenfeld - FMZ
+Gleisdorf,fussl_at_de,,unknown,Gleisdorf
+Gralla,fussl_at_de,,unknown,Gralla
+Graz,fussl_at_de,,unknown,Graz - Shopping Nord
+Hartberg,fussl_at_de,,unknown,Hartberg - Hatric
+St. Lorenzen,fussl_at_de,,unknown,Kapfenberg
+Knittelfeld,fussl_at_de,,unknown,Knittelfeld - Kollibri Shoppingsafari
+Leibnitz,fussl_at_de,,unknown,Leibnitz - Basta
+Leoben,fussl_at_de,,unknown,Leoben - LCS
+Liezen,fussl_at_de,,unknown,Liezen - ELI
+Laßnitz bei Murau,fussl_at_de,,unknown,Murau
+Rosental,fussl_at_de,,unknown,Rosental
+Schladming,fussl_at_de,,unknown,Schladming
+Bärnbach,fussl_at_de,,unknown,Voitsberg – FMZ Voitspark
+Weiz,fussl_at_de,,unknown,Weiz
+Politischer Bezirk Deutschlandsberg,ich_tanke_strom,Frauentaler Str. 104  8530 Deutschlandsberg,unknown,unknown
+Politischer Bezirk Weiz,ich_tanke_strom,Flöcking 224  8200 Flöcking,unknown,unknown
+Politischer Bezirk Leibnitz,ich_tanke_strom,Lagerpostweg 37  8403 Lebring,unknown,unknown
+Politischer Bezirk Graz-Umgebung,ich_tanke_strom,Bundesstraße 7  8410 Neudorf ob Wildon,unknown,unknown
+Politischer Bezirk Murau,ich_tanke_strom,Kreischberg 2  8861 St. Lorenzen ob Murau,unknown,unknown
+Politischer Bezirk Leibnitz,ich_tanke_strom,Am Kögel 1-2  8430 Leibnitz,unknown,unknown
+Politischer Bezirk Deutschlandsberg,ich_tanke_strom,Korbin 29  8542 Korbin,unknown,unknown
+Politischer Bezirk Leibnitz,ich_tanke_strom,Grazer Str. 176  8430 Kaindorf,unknown,unknown
+Politischer Bezirk Weiz,ich_tanke_strom,Flöcking 185  8200 Flöcking,unknown,unknown
+Politischer Bezirk Leibnitz,ich_tanke_strom,Ewitsch 13  8461 Ewitsch,unknown,unknown
+Politischer Bezirk Suedoststeiermark,ich_tanke_strom,Gleichenbergerstraße 3  8083 Sankt Stefan im Rosental,unknown,unknown
+Politischer Bezirk Deutschlandsberg,ich_tanke_strom,Ingenieur-Ludwig-Neumann-Straße 4  8523 Schamberg,unknown,unknown
+Politischer Bezirk Liezen,ich_tanke_strom,Tauplitz 301  8982 Tauplitz,unknown,unknown
+Politischer Bezirk Graz-Umgebung,ionity,,unknown,Kaiserwald
+Politischer Bezirk Bruck-Muerzzuschlag,ionity,,unknown,St. Lorenzen
+Politischer Bezirk Liezen,ionity,,unknown,Trieben
+Graz,nordsee,,unknown,NORDSEE Graz Herrengasse
+Seiersberg,nordsee,,unknown,NORDSEE Seiersberg
+Politischer Bezirk Hartberg-Fuerstenfeld,pepco,,unknown,Pepco
+Politischer Bezirk Graz-Umgebung,pepco,,unknown,Pepco
+Graz Stadt,pepco,,unknown,Pepco
+Politischer Bezirk Voitsberg,pepco,,unknown,Pepco
+Politischer Bezirk Bruck-Muerzzuschlag,pepco,,unknown,Pepco
+Politischer Bezirk Leoben,pepco,,unknown,Pepco
+Politischer Bezirk Liezen,pepco,,unknown,Pepco
+Politischer Bezirk Leibnitz,pepco,,unknown,Pepco
+Politischer Bezirk Suedoststeiermark,pepco,,unknown,Pepco
+Graz,swing_kitchen,,unknown,Swing Kitchen Graz
+Köflach,thomas_philipps,,unknown,Thomas Philipps Köflach

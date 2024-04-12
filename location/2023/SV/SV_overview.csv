@@ -1,0 +1,551 @@
+State,Place Name,City,Establishments
+UNKNOWN,alamo,San Salvador,2
+UNKNOWN,alamo,San Miguel,1
+UNKNOWN,alamo,San Luis Talpa,1
+UNKNOWN,alamo,Santa Ana,1
+UNKNOWN,alamo,Antiguo Cuscatlan,1
+LALIBERTAD,audi,San Salvador,1
+DEPARTMENTODELAPAZ,avis,San Luis Talpa,1
+SANSALVADOR,avis,San Salvador,1
+COLONIAFLORBLANCA,avis,San Salvador,1
+UNKNOWN,benihana, Paseo General Escalón,1
+ELSALVADOR,bmw_group,San Salvador,1
+UNKNOWN,bmw_group,San Salvador,1
+UNKNOWN,enterprise,La Paz,1
+UNKNOWN,enterprise,Antiguo Cuscatlan,1
+UNKNOWN,enterprise,San Salvador,2
+UNKNOWN,enterprise,Santa Ana,1
+UNKNOWN,enterprise,San Miguel,1
+UNKNOWN,enterprise,San Luis Talpa,1
+UNKNOWN,ernst_young,San Salvador,1
+UNKNOWN,express,Antiguo Cuscatlan,1
+ELSALVADOR,first_cash,Santa Ana,1
+ELSALVADOR,first_cash,Sonsonate,1
+ELSALVADOR,first_cash,Santa Tecla,2
+ELSALVADOR,first_cash,Mejicanos,1
+ELSALVADOR,first_cash,San Salvador,3
+ELSALVADOR,first_cash,Soyopango,1
+ELSALVADOR,first_cash,Cojutepeque,1
+ELSALVADOR,first_cash,San Vicente,1
+ELSALVADOR,first_cash,Zacatecoluca,1
+SV,first_cash,"San Miguel, El Salvador.",1
+ELSALVADOR,first_cash,San Miguel,2
+UNKNOWN,ford,San Salvador,3
+UNKNOWN,marriott,San Salvador,3
+UNKNOWN,moneygram,ANTIGUO CUSCATLAN,28
+UNKNOWN,moneygram,COJUTEPEQUE,16
+UNKNOWN,moneygram,ILOPANGO,10
+UNKNOWN,moneygram,LA LIBERTAD,39
+UNKNOWN,moneygram,MEJICANOS,13
+UNKNOWN,moneygram,SAN SALVADOR,229
+UNKNOWN,moneygram,SANTA ANA,59
+UNKNOWN,moneygram,SANTA TECLA,40
+UNKNOWN,moneygram,SOYAPANGO,43
+UNKNOWN,moneygram,ZACATECOLUCA,26
+UNKNOWN,moneygram,SAN JORGE,1
+UNKNOWN,moneygram,SAN RAFAEL ORIENTE,6
+UNKNOWN,moneygram,CONCEPCION BATRES,3
+UNKNOWN,moneygram,AHUACHAPAN,22
+UNKNOWN,moneygram,LA PAZ,5
+UNKNOWN,moneygram,SAN MARCOS,7
+UNKNOWN,moneygram,SAN IGNACIO,2
+UNKNOWN,moneygram,APOPA,23
+UNKNOWN,moneygram,SONSONATE,35
+UNKNOWN,moneygram,COLON,5
+UNKNOWN,moneygram,SAN FRANCISCO MENENDEZ,2
+UNKNOWN,moneygram,MONCAGUA,1
+UNKNOWN,moneygram,BERLIN,2
+UNKNOWN,moneygram,EL TRIUNFO,3
+UNKNOWN,moneygram,PERQUIN,1
+UNKNOWN,moneygram,MERCEDES UMANA,2
+UNKNOWN,moneygram,CONCEPCION ATACO,1
+UNKNOWN,moneygram,SAN MIGUEL,67
+UNKNOWN,moneygram,CHIRILAGUA,3
+UNKNOWN,moneygram,IZALCO,5
+UNKNOWN,moneygram,JUCUARAN,3
+UNKNOWN,moneygram,CUSCATLAN,3
+UNKNOWN,moneygram,ROSA,1
+UNKNOWN,moneygram,SAN GERARDO,1
+UNKNOWN,moneygram,SENSUNTEPEQUE,11
+UNKNOWN,moneygram,NEW YORK,1
+UNKNOWN,moneygram,MEANGUERA,1
+UNKNOWN,moneygram,CHALCHUAPA,9
+UNKNOWN,moneygram,SAN PEDRO MASAHUAT,2
+UNKNOWN,moneygram,ZARAGOZA,5
+UNKNOWN,moneygram,MORAZAN,4
+UNKNOWN,moneygram,SANTO TOMAS,3
+UNKNOWN,moneygram,SAN ISIDRO,1
+UNKNOWN,moneygram,SAN FRANCISCO GOTERA,12
+UNKNOWN,moneygram,VICTORIA,1
+UNKNOWN,moneygram,SAN SEBASTIAN SALITRILLO,1
+UNKNOWN,moneygram,SAN LUIS LA HERRADURA,3
+UNKNOWN,moneygram,JUTIAPA,1
+UNKNOWN,moneygram,LA UNION,17
+UNKNOWN,moneygram,AGUILARES,12
+UNKNOWN,moneygram,CIUDAD ARCE,10
+UNKNOWN,moneygram,CIUDAD DELGADO,3
+UNKNOWN,moneygram,SANTA ELENA,2
+UNKNOWN,moneygram,NUEVO CUSCATLAN,3
+UNKNOWN,moneygram,SAN JOSE VILLANUEVA,1
+UNKNOWN,moneygram,METAPAN,17
+UNKNOWN,moneygram,SAN JUAN OPICO,8
+UNKNOWN,moneygram,USULUTAN,33
+UNKNOWN,moneygram,SESORI,2
+UNKNOWN,moneygram,EREGUAYQUIN,3
+UNKNOWN,moneygram,SANTA ROSA DE LIMA,16
+UNKNOWN,moneygram,CONCHAGUA,1
+UNKNOWN,moneygram,AHUCHAPAN,4
+UNKNOWN,moneygram,CHALATENANGO,25
+UNKNOWN,moneygram,CIIUDAD ARCE,1
+UNKNOWN,moneygram,CACAOPERA,1
+UNKNOWN,moneygram,JUAYUA,5
+UNKNOWN,moneygram,SAN ANTONIO DEL MONTE,1
+UNKNOWN,moneygram,OSICALA,3
+UNKNOWN,moneygram,CONCEPCION QUEZALTEPEQUE,2
+UNKNOWN,moneygram,EL TRANSITO,8
+UNKNOWN,moneygram,HUIZUCAR,1
+UNKNOWN,moneygram,LOLOTIQUE,2
+UNKNOWN,moneygram,CHINAMECA,2
+UNKNOWN,moneygram,ESTANZUELA,1
+UNKNOWN,moneygram,SAN MARTIN,11
+UNKNOWN,moneygram,SUCHITOTO,3
+UNKNOWN,moneygram,ANAMOROS,2
+UNKNOWN,moneygram,ILOBASCO,13
+UNKNOWN,moneygram,SANTIAGO DE MARIA,7
+UNKNOWN,moneygram,CHAPELTIQUE,4
+UNKNOWN,moneygram,GUAZAPA,2
+UNKNOWN,moneygram,CIUDAD BARRIOS,5
+UNKNOWN,moneygram,SAN FANCISCO MENENDEZ,1
+UNKNOWN,moneygram,CONCEPCION DE ORIENTE,1
+UNKNOWN,moneygram,TONACATEPEQUE,2
+UNKNOWN,moneygram,MUNIC INTIPUCA/LAUNI,1
+UNKNOWN,moneygram,OLOCUILTA,4
+UNKNOWN,moneygram,SANTA MARIA,1
+UNKNOWN,moneygram,LOURDES COLON,6
+UNKNOWN,moneygram,QUELEPA,1
+UNKNOWN,moneygram,ACAJUTLA,4
+UNKNOWN,moneygram,SAN LUIS TALPA,4
+UNKNOWN,moneygram,AGUA CALIENTE,1
+UNKNOWN,moneygram,ARMENIA,3
+UNKNOWN,moneygram,INTIPUCA,1
+UNKNOWN,moneygram,MERLIOT,1
+UNKNOWN,moneygram,CIUDAD DOLORES,1
+UNKNOWN,moneygram,QUEZALTEPEQUE,6
+UNKNOWN,moneygram,SAN ESTEBAN CATARINA,1
+UNKNOWN,moneygram,JIQUILISCO,6
+UNKNOWN,moneygram,ATIQUIZAYA,5
+UNKNOWN,moneygram,SAN RAFAEL CEDROS,2
+UNKNOWN,moneygram,TEJUTLA,1
+UNKNOWN,moneygram,GUATAJIAGUA,2
+UNKNOWN,moneygram,EL ROSARIO,1
+UNKNOWN,moneygram,SAN VICENTE,15
+UNKNOWN,moneygram,JUCUAPA,3
+UNKNOWN,moneygram,NUEVA CONCEPCION,5
+UNKNOWN,moneygram,PUERTO DE LA LIBERTAD,3
+UNKNOWN,moneygram,SOCIEDAD,1
+UNKNOWN,moneygram,LA PALMA,2
+UNKNOWN,moneygram,CD MERLIOT,1
+UNKNOWN,moneygram,SAN SEBASTIAN,2
+UNKNOWN,moneygram,TEXISTEPEQUE,2
+UNKNOWN,moneygram,CARA SUCIA,3
+UNKNOWN,moneygram,LOURDES,9
+UNKNOWN,moneygram,SAN JOSE,1
+UNKNOWN,moneygram,DULCE NOMBRE DE MARIA,1
+UNKNOWN,moneygram,CORINTO,1
+UNKNOWN,moneygram,CANDELARIA DE LA FRONTERA,2
+UNKNOWN,moneygram,EL CONGO,4
+UNKNOWN,moneygram,JOCORO,2
+UNKNOWN,moneygram,SAN PEDRO NONUALCO,1
+UNKNOWN,moneygram,SANTIAGO NONUALCO,2
+UNKNOWN,moneygram,NEJAPA,1
+UNKNOWN,moneygram,PASAQUINA,1
+UNKNOWN,moneygram,NUEVA ESPARTA,1
+UNKNOWN,moneygram,COMALAPA,1
+UNKNOWN,moneygram,LA LAGUNA,1
+UNKNOWN,moneygram,EL PARAISO,1
+UNKNOWN,moneygram,TEJUTEPEQUE,1
+UNKNOWN,moneygram,LA REINA,1
+UNKNOWN,moneygram,POLOROS,1
+UNKNOWN,moneygram,SAN LUIS DE LA REINA,1
+UNKNOWN,moneygram,LA FRONTERA,1
+UNKNOWN,moneygram,SAN JOSE GUAYABAL,1
+UNKNOWN,moneygram,SAN JULIAN,1
+UNKNOWN,moneygram,TACUBA,1
+UNKNOWN,moneygram,EL SALVADOR,1
+UNKNOWN,moneygram,COATEPEQUE,2
+UNKNOWN,moneygram,SAN ANTONIO PAJONAL,1
+UNKNOWN,moneygram,GOTERA,1
+UNKNOWN,moneygram,BARRIO LA MERCED,1
+UNKNOWN,moneygram,SACACOYO,1
+UNKNOWN,moneygram,AYUTUXTEPEQUE,1
+UNKNOWN,moneygram,CIUDAD MERLIOT,1
+UNKNOWN,moneygram,CUSCATANCINGO,2
+UNKNOWN,moneygram,NAHUIZALCO,1
+UNKNOWN,moneygram,SAN JACINTO,2
+UNKNOWN,moneygram,SAN LUIS LA HERREDURA,1
+UNKNOWN,moneygram,ROSARIO DE LA PAZ,1
+UNKNOWN,moneygram,SAN BARTOLO,1
+UNKNOWN,moneygram,CAROLINA,1
+UNKNOWN,moneygram,LIBERTAD,1
+UNKNOWN,moneygram,ZACAMIL,1
+UNKNOWN,moneygram,NOMBRE DE JESUS,1
+UNKNOWN,moneygram,CABANAS,2
+UNKNOWN,moneygram,PANCHIMALCO,1
+UNKNOWN,moneygram,AZACUALPA,1
+UNKNOWN,moneygram,EL COYOLITO,1
+UNKNOWN,moneygram,SAN MIGUEL CENTRO,1
+UNKNOWN,national,San Salvador,2
+UNKNOWN,national,San Luis Talpa,1
+UNKNOWN,national,Antiguo Cuscatlan,1
+UNKNOWN,national,San Miguel,1
+UNKNOWN,national,Santa Ana,1
+UNKNOWN,pandora,San Salvador,2
+UNKNOWN,pandora,Antiguo Cucatlan,1
+UNKNOWN,pandora,La Paz,1
+SANSALVADOR,petland_us,San Salvador,2
+SANSALVADOR,petland_us,"Antiguo Cuscatlan, La Libertad",1
+UNKNOWN,visa,LA UNION,4
+LU,visa,LA UNIÓN,8
+LU,visa,LA UNION,1
+SANSALVADOR,visa,SAN SALVADOR,216
+LAUNION,visa,LA UNION,3
+LAUNIÓN,visa,LA UNIÓN,1
+UNKNOWN,visa,SANTA ROSA DE LIMA,1
+UNKNOWN,visa,LA UNIÓN,2
+SANTAROSADELIMA,visa,LA UNION,2
+SANTAROSADELIMA,visa,SANTA ROSA DE LIMA,1
+LAUNION,visa,SANTA ROSA DE LIMA,2
+MO,visa,MORAZAN,1
+GOTERA,visa,GOTERA,1
+SANFRANCISCOGOTERA,visa,MORAZÁN,1
+SANFRANCISCOGOTERA,visa,MORAZAN,1
+MO,visa,MORAZÁN,3
+MORAZAN,visa,SAN FRANCISCO GOTERA,1
+UNKNOWN,visa,GOTERA,1
+SANMIGUEL,visa,EL DELIRIO,1
+SM,visa,SAN MIGUEL,32
+SANMIGUEL,visa,SAN MIGUEL,39
+LALIBERTAD,visa,LOURDES COLON,2
+UNKNOWN,visa,SAN MIGUEL,21
+LALIBERTAD,visa,ANTIGUO CUSCATLAN,31
+MORAZAN,visa,MORAZAN,2
+SANSALVADOR,visa,SOYAPANGO,24
+LALIBERTAD,visa,SACACOYO,1
+UNKNOWN,visa,SAN SALVADOR,208
+SANMIGUEL,visa,LA MERCED,1
+LALIBERTAD,visa,SANTA TECLA,23
+USULUTAN,visa,EL TRIUNFO,1
+SANSALVADOR,visa,APOPA,14
+LAPAZ,visa,SAN PEDRO MASAHUAT,2
+SANMIGUEL,visa,CIUDAD BARRIOS,1
+CIUDADBARRIOS,visa,CIUDAD BARRIOS,1
+SANMIGUEL,visa,EL TRANSITO,1
+UNKNOWN,visa,JUCUAPA,1
+USULUTAN,visa,SANTA MARIA,1
+UNKNOWN,visa,USULUTAN,3
+USULUTAN,visa,USULUTAN,10
+US,visa,USULUTÁN,10
+USULUTAN,visa,USULUTÁN,2
+US,visa,USULUTAN,1
+UNKNOWN,visa,USULUTÁN,3
+USULUTAN,visa,SANTIAGO DE MARIA,1
+USULUTAN,visa,BERLIN,1
+BERLIN,visa,BERLIN,1
+SANTIAGODEMARÍA,visa,USULUTÁN,1
+USULUTAN,visa,JIQUILISCO,1
+JIQUILISCO,visa,USULUTAN,1
+CA,visa,CABAÑAS,5
+CABANAS,visa,SENSUNTEPEQUE,2
+SENSUNTEPEQUE,visa,CABAÑAS,1
+SENSUNTEPEQUE,visa,CABANAS,1
+UNKNOWN,visa,CABANAS,2
+SANVICENTE,visa,SAN VICENTE,7
+SV,visa,SAN VICENTE,8
+UNKNOWN,visa,SAN VICENTE,2
+ILOBASCO,visa,CABAÑAS,1
+CABANAS,visa,ILOBASCO,1
+ILOBASCO,visa,ILOBASCO,1
+LP,visa,LA PAZ,20
+LAPAZ,visa,ZACATECOLUCA,7
+UNKNOWN,visa,LA PAZ,9
+ZACATECOLUCA,visa,ZACATECOLUCA,1
+ZACATECOLUCA,visa,LA PAZ,3
+SANSALVADOR,visa,MEJICANOS,3
+UNKNOWN,visa,ZACATECOLUCA,1
+CU,visa,CUSCATLÁN,7
+CU,visa,CUSCATLAN,2
+CUSCATLAN,visa,COJUTEPEQUE,2
+UNKNOWN,visa,CHALATENANGO,3
+COJUTEPEQUE,visa,CUSCATLÁN,2
+UNKNOWN,visa,IZALCO,1
+UNKNOWN,visa,COJUTEPEQUE,2
+COJUTEPEQUE,visa,CUSCATLAN,1
+LALIBERTAD,visa,SAN JUAN OPICO,9
+CH,visa,CHALATENANGO,5
+CHALATENANGO,visa,CHALATENANGO,5
+UNKNOWN,visa,CUSCATLÁN,1
+UNKNOWN,visa,CUSCATLAN,1
+LAPAZ,visa,SANTIAGO NONUALCO,1
+LAPAZ,visa,EL ROSARIO,2
+CUSCATLAN,visa,SUCHITOTO,1
+SANLUISTALPA,visa,LA PAZ,7
+SS,visa,SAN SALVADOR,225
+SANSALVADOR,visa,SAN MARTIN,2
+SANLUISTALPA,visa,SAN LUIS TALPA,1
+UNKNOWN,visa,SAN LUIS TALPA,1
+LAPAZ,visa,SAN LUIS TALPA,1
+SANJUANTALPA,visa,LA PAZ,1
+COMALAPA,visa,LA PAZ,2
+ILOPANGO,visa,SAN SALVADOR,5
+TONACATEPEQUE,visa,SAN SALVADOR,1
+SANSALVADOR,visa,ILOPANGO,11
+ILOPANGO,visa,ILOPANGO,1
+UNKNOWN,visa,ILOPANGO,2
+APOPA,visa,SAN SALVADOR,7
+SOYAPANGO,visa,SOYAPANGO,2
+SOYAPANGO,visa,SAN SALVADOR,9
+UNKNOWN,visa,SOYAPANGO,3
+TEJUTLA,visa,TEJUTLA,1
+CHALATENANGO,visa,TEJUTLA,2
+LAPAZ,visa,COMALAPA,1
+LAPALMA,visa,LA PALMA,1
+SANMARCOS,visa,SAN MARCOS,1
+UNKNOWN,visa,APOPA,3
+APOPA,visa,APOPA,2
+SONSONATE,visa,SONSONATE,17
+SANMARCOS,visa,SAN SALVADOR,4
+SANSALVADOR,visa,SAN MARCOS,4
+MEJICANOS,visa,SAN SALVADOR,2
+SANSALVADOR,visa,AGUILARES,1
+AGUILARES,visa,SAN SALVADOR,1
+SANTAANA,visa,SANTA ANA,32
+AGUILARES,visa,AGUILARES,1
+ANTIGUOCUSCATLÁN,visa,SAN SALVADOR,1
+SANSALVADOR,visa,AYUTUXTEPEQUE,2
+MEJICANOS,visa,MEJICANOS,3
+SANSALVADOR,visa,NEJAPA,3
+AYUTUXTEPEQUE,visa,SAN SALVADOR,1
+UNKNOWN,visa,AYUTUXTEPEQUE,1
+UNKNOWN,visa,SONSONATE,14
+QUEZALTEPEQUE,visa,SAN SALVADOR,1
+LALIBERTAD,visa,LA LIBERTAD,9
+UNKNOWN,visa,LA LIBERTAD,62
+SONSONATE,visa,EL ANGEL,1
+SANTAANA,visa,METAPAN,4
+SANSALVADOR,visa,SAN SALVADIR,1
+SANTATECLA,visa,SAN SALVADOR,1
+LL,visa,LA LIBERTAD,90
+ANTIGUOCUSCATLÁN,visa,LA LIBERTAD,13
+SANMIGUEL,visa,CHAPELTIQUE,1
+UNKNOWN,visa,ANTIGUO CUSCATLÁN,3
+AHUACHAPAN,visa,AHUACHAPAN,11
+ANTIGUOCUSCATLAN,visa,LA LIBERTAD,2
+ANTIGUOCUSCATLAN,visa,ANTIGUO CUSCATLAN,5
+SANSALVADOR,visa,LA LIBERTAD,1
+UNKNOWN,visa,ANTIGUO CUSCATLAN,1
+UNKNOWN,visa,MERLIOT,2
+UNKNOWN,visa,SANTA ELENA,1
+SANTATECLA,visa,LA LIBERTAD,25
+SANTATECLA,visa,SANTA TECLA,5
+QUEZALTEPEQUE,visa,LA LIBERTAD,1
+LALIBERTAD,visa,QUEZALTEPEQUE,2
+UNKNOWN,visa,CIUDAD MERLIOT,1
+LALIBERTAD,visa,NUEVO CUSCATLAN,1
+ZARAGOZA,visa,LA LIBERTAD,2
+UNKNOWN,visa,SANTA TECLA,2
+LALIBERTAD,visa,ZARAGOZA,3
+NVACONCEPCION,visa,NVA. CONCEPCION,1
+CHALATENANGO,visa,NUEVA CONCEPCION,1
+PUERTODELALIBERTAD,visa,LA LIBERTAD,1
+SANJUANOPICO,visa,LA LIBERTAD,3
+LALIBERTAD,visa,COLON,5
+LOURDES,visa,LA LIBERTAD,7
+COLÓN,visa,LA LIBERTAD,3
+COLON,visa,COLON,1
+COLON,visa,LA LIBERTAD,1
+UNKNOWN,visa,LOURDES COLÓN,1
+LALIBERTAD,visa,TAMANIQUE,1
+SANSALVADOR,visa,ALTAVISTA,1
+CIUDADARCE,visa,SANTA ANA,1
+LALIBERTAD,visa,CIUDAD ARCE,2
+UNKNOWN,visa,EL CONGO,1
+ATEOS,visa,ATEOS,1
+LALIBERTAD,visa,CHILTIUPA,1
+SA,visa,SANTA ANA,29
+UNKNOWN,visa,SANTA ANA,21
+METAPAN,visa,METAPAN,1
+METAPÁN,visa,SANTA ANA,1
+UNKNOWN,visa,METAPÁN,1
+SO,visa,SONSONATE,20
+ARMENIA,visa,SONSONATE,1
+SANTAANA,visa,COATEPEQUE,1
+SANTAANA,visa,CHALCHUAPA,5
+CANDELARIALAFRONTERA,visa,CANDELARIA LA FRONTERA,1
+UNKNOWN,visa,MORAZAN,1
+IZALCO,visa,IZALCO,1
+CHALCHUAPA,visa,SANTA ANA,1
+CHALCHUAPA,visa,CHALCHUAPA,1
+UNKNOWN,visa,SENSUNTEPEQUE,1
+SONSONATE,visa,JUAYUA,1
+JUAYUA,visa,SONSONATE,1
+ATIQUIZAYA,visa,ATIQUIZAYA,1
+AH,visa,AHUACHAPÁN,8
+UNKNOWN,visa,AHUACHAPAN,4
+AHUACHAPAN,visa,ATIQUIZAYA,1
+ACAJUTLA,visa,SONSONATE,4
+UNKNOWN,visa,AHUACHAPÁN,2
+AH,visa,AHUACHAPAN,3
+ATACO,visa,AHUACHAPAN,1
+CARASUCIA,visa,CARA SUCIA,1
+SANSALVADOR,western_union,Mejicanos,29
+LAPAZ,western_union,San Luis La Herradura,2
+LAPAZ,western_union,San Luis La Herredura,2
+SANSALVADOR,western_union,San Salvador,419
+LAPAZ,western_union,San Luis Talpa,13
+LALIBERTAD,western_union,La Libertad,45
+LALIBERTAD,western_union,Santa Tecla,79
+SANMIGUEL,western_union,El Transito,17
+SANMIGUEL,western_union,San Miguel,136
+SANMIGUEL,western_union,Chapeltique,6
+AHUACHAPAN,western_union,Ahuachapan,46
+SANSALVADOR,western_union,Aguilares,18
+CABANAS,western_union,Ilobasco,23
+CABAAS,western_union,Ilobasco,4
+SANTAANA,western_union,Coatepeque,2
+CABANAS,western_union,Tejutepeque,1
+SANVICENTE,western_union,Tecoluca,6
+LAUNION,western_union,La Union,39
+AHUACHAPAN,western_union,Tacuba,1
+SANSALVADOR,western_union,Guazapa,1
+LAUNION,western_union,San Alejo,3
+SANTAANA,western_union,El Congo,5
+CUSCATLAN,western_union,Cojutepeque,42
+LALIBERTAD,western_union,San Juan Opico,20
+SANTAANA,western_union,Santa Ana,106
+LAUNION,western_union,Santa Rosa De Lima,4
+CUSCATLAN,western_union,San Jose Guayabal,1
+LALIBERTAD,western_union,Quezaltepeque,19
+SANMIGUEL,western_union,Ciudad Barrios,11
+SANMIGUEL,western_union,Moncagua,3
+SANMIGUEL,western_union,Quelepa,1
+SANSALVADOR,western_union,Apopa,48
+LALIBERTAD,western_union,Ciudad Arce,8
+SANVICENTE,western_union,San Sebastian,4
+SANSALVADOR,western_union,Nejapa,3
+SONSONATE,western_union,Juayua,7
+AHUACHAPAN,western_union,Juayua,2
+SANMIGUEL,western_union,Lolotique,2
+CUSCATLAN,western_union,San Rafael Cedros,4
+AHUACHAPAN,western_union,San Francisco Menendez,14
+SANMIGUEL,western_union,Chinameca,4
+SONSONATE,western_union,Nahuizalco,5
+MORAZAN,western_union,Guatajiagua,1
+SANSALVADOR,western_union,Tonacatepeque,3
+LAPAZ,western_union,Zacatecoluca,41
+SANSALVADOR,western_union,San Martin,16
+USULUTAN,western_union,El Triunfo,6
+CUSCATLAN,western_union,San Bartolome Perulapia,1
+SANVICENTE,western_union,San Vicente,28
+SANVICENTE,western_union,San Esteban Catarina,1
+AHUACHAPAN,western_union,Cara Sucia,4
+SANVICENTE,western_union,Apastepeque,2
+SANMARTIN,western_union,San Martin,1
+USULUTAN,western_union,Jucuapa,5
+USULUTAN,western_union,Mercedes Umana,2
+SANSALVADOR,western_union,Ayutuxtepeque,2
+SANVICENTE,western_union,Sn Vicente,2
+SANSALVADOR,western_union,Soyapango,81
+LALIBERTAD,western_union,Colon,24
+LALIBERTAD,western_union,Lourdes,12
+SANSALVADOR,western_union,Ilopango,22
+SANSALVADOR,western_union,Cuscatancingo,4
+SANVICENTE,western_union,Santa Elena,2
+SANSALVADOR,western_union,Ciudad Delgado,3
+SANSALVADOR,western_union,Delgado,2
+SANSALVADOR,western_union,San Bartolo,2
+CABANAS,western_union,Tonacatepeque,2
+SONSONATE,western_union,Armenia,9
+SONSONATE,western_union,Izalco,6
+LALIBERTAD,western_union,Nuevo Cuscatlan,6
+DEFAULTSTATE,western_union,San Salvador,1
+SANTAANA,western_union,Chalchuapa,21
+SONSONATE,western_union,Sonsonate,70
+LALIBERTAD,western_union,Antiguo Cuscatlan,66
+SONSONATE,western_union,Sonzacate,12
+USULUTAN,western_union,Santiago De Maria,16
+CHALATENANGO,western_union,Concepcion Quezaltepeque,2
+SANSALVADOR,western_union,San Jacinto,2
+USULUTAN,western_union,Usulutan,66
+USULUTAN,western_union,Berlin,3
+SANMIGUEL,western_union,San Jorge,2
+SANTAANA,western_union,Metapan,24
+LALIBERTAD,western_union,Ciudad Meliot,2
+SANSALVADOR,western_union,San Marcos,9
+AHUACHAPAN,western_union,San Francisco Mendendez,2
+LALIBERTAD,western_union,Ciudad Merliot,4
+LALIBERTAD,western_union,Santa Elena,4
+SONSONATE,western_union,San Julian,1
+LAPAZ,western_union,San Pedro Nonualco,1
+LALIBERTAD,western_union,Zaragoza,6
+SANMIGUEL,western_union,Chirilagua,1
+SONSONATE,western_union,Acajutla,20
+SANSALVADOR,western_union,Panchimalco,1
+LAUNION,western_union,Intipuca,5
+LAPAZ,western_union,Olocuilta,6
+CHALATENANGO,western_union,Tejutla,10
+SANMIGUEL,western_union,San Rafael Oriente,2
+SANSALVADOR,western_union,Santo Tomas,5
+LAPAZ,western_union,Santiago Nonualco,7
+LAPAZ,western_union,San Rafael Obrajuelo,2
+LAPAZ,western_union,San Pedro Masahuat,1
+USULUTAN,western_union,Santa Maria,3
+USULUTAN,western_union,Ereguayquin,2
+USULUTAN,western_union,Concepcion Batres,1
+MORAZAN,western_union,Joateca,2
+LAPAZ,western_union,El Rosario,3
+USULUTAN,western_union,San Francisco Javier,2
+USULUTAN,western_union,Jiquilisco,12
+LAPAZ,western_union,Rosario De La Paz,2
+LAUNION,western_union,Anamoros,2
+LAUNION,western_union,Poloros,1
+MORAZAN,western_union,Jocoro,3
+MORAZAN,western_union,El Divisadero,2
+LAUNION,western_union,Lislique,2
+MORAZAN,western_union,Corinto,6
+MORAZAN,western_union,San Francisco Gotera,37
+MORAZAN,western_union,Osicala,6
+MORAZAN,western_union,Morazan,1
+MORAZAN,western_union,Meanguera,3
+SANMIGUEL,western_union,Sesori,3
+MORAZAN,western_union,Perquin,5
+SANMIGUEL,western_union,Carolina,1
+SANMIGUEL,western_union,San Luis De La Reina,1
+SANMIGUEL,western_union,San Gerardo,1
+CABANAS,western_union,Villa Dolores,1
+CABANAS,western_union,Sensuntepeque,19
+CABAAS,western_union,Sensuntepeque,4
+CABANAS,western_union,Caba�as,2
+CABANAS,western_union,San Isidro,1
+CABANAS,western_union,Victoria,1
+CABANAS,western_union,Jutiapa,1
+CHALATENANGO,western_union,Nombre De Jesus,1
+CHALATENANGO,western_union,Arcatao,2
+CUSCATLAN,western_union,Suchitoto,4
+CHALATENANGO,western_union,Azacualpa,1
+CHALATENANGO,western_union,Chalatenango,38
+CHALATENANGO,western_union,Aguacaliente,3
+CHALATENANGO,western_union,La Laguna,1
+CHALATENANGO,western_union,El Paraiso,1
+CHALATENANGO,western_union,Dulce Nombre De Maria,2
+LALIBERTAD,western_union,San Pablo Tacachico,4
+SANTANA,western_union,Santa Ana,2
+CHALATENANGO,western_union,Nueva Concepcion,12
+CHALATENANGO,western_union,La Reina,1
+AHUACHAPAN,western_union,Atiquizaya,10
+SANTAANA,western_union,Texistepeque,4
+AHUACHAPAN,western_union,Las Chinamas,2
+SANTAANA,western_union,Santa Rosa Guachipilin,1
+CHALATENANGO,western_union,La Palma,1
+SANTAANA,western_union,Candelaria De La Frontera,8
+CHALATENANGO,western_union,San Ignacio,2
+SANTAANA,western_union,San Antonio Pajonal,2

@@ -1,0 +1,49 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+10180,abc_pl,abc,,Myślenice,małopolskie,,PL,,,,abc,Q11683985
+10939,abc_pl,abc,,Jawornik,małopolskie,,PL,,,,abc,Q11683985
+4897,abc_pl,abc,,Myślenice,małopolskie,,PL,,,,abc,Q11683985
+11584,abc_pl,abc,,Bysina,małopolskie,,PL,,,,abc,Q11683985
+https://www.credit-agricole.pl/kontakt/oddzial/21119-myslenice-mikolaja-reja,credit_agricole_pl,"Credit Agricole Mikołaja Reja 1, Myślenice",,Myślenice,małopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/21119-myslenice-mikolaja-reja,Mo-Fr 09:00-16:00,Credit Agricole,Q590952
+12706,groszek_pl,Groszek,,Bysina,małopolskie,,PL,,,,Groszek,Q9280965
+13992,groszek_pl,Groszek,,Jawornik,małopolskie,,PL,,,,Groszek,Q9280965
+334,mcdonalds_pl,McDonald's,,Jawornik,Małopolskie,,PL,+48 730 530 351,https://mcdonalds.pl/restauracje/malopolskie/jawornik/jawornik-jawornik-782,Mo-Su 07:00-24:00,McDonald's,Q38076
+BOZ01M,paczkomat_inpost_pl,na parkingu sklepu HITPOL,,Borzęta,małopolskie,,PL,,https://inpost.pl/paczkomat-borzeta-boz01m-borzeta-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BOZ02M,paczkomat_inpost_pl,Przy Delikatesach Centrum w Q-Park,,Borzęta,małopolskie,,PL,,https://inpost.pl/paczkomat-borzeta-boz02m-borzeta-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+BVS01M,paczkomat_inpost_pl,Za budynkiem OSP,,Bysina,małopolskie,,PL,,https://inpost.pl/paczkomat-bysina-bvs01m-bysina-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+DRG01M,paczkomat_inpost_pl,Parking OSP Droginia,,Droginia,małopolskie,,PL,,https://inpost.pl/paczkomat-droginia-drg01m-droginia-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+JIE01M,paczkomat_inpost_pl,na parkingu obok remizy,,Jasienica,małopolskie,,PL,,https://inpost.pl/paczkomat-jasienica-jie01m-jasienica-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+JIK01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Jawornik,małopolskie,,PL,,https://inpost.pl/paczkomat-jawornik-jik01m-jawornik-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL01A,paczkomat_inpost_pl,Przy Centrum Handlowym Dekada,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl01a-sloneczna-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL01M,paczkomat_inpost_pl,Na parkingu sklepu Kaufland,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl01m-slowackiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL01MP,paczkomat_inpost_pl,Przy placu zabaw,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl01mp-ogrodowa-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL01N,paczkomat_inpost_pl,Przy markecie Mrówka,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl01n-slowackiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL02M,paczkomat_inpost_pl,Przy zajezdni autobusowej od strony Kasprowicza,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl02m-kasprowicza-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL03M,paczkomat_inpost_pl,Na parkingu Carrefour,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl03m-slowackiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL04M,paczkomat_inpost_pl,Przy wejściu do budynku,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl04m-zwirki-i-wigury-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL05M,paczkomat_inpost_pl,przy sklepie monopolowym Sangria,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl05m-pardyaka-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL06M,paczkomat_inpost_pl,Pierogarnia koło ronda,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl06m-sloneczna-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL07M,paczkomat_inpost_pl,Delikatesy  Sklep Spożywczy,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl07m-pilsudskiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL08M,paczkomat_inpost_pl,Stacja Paliw AGRO-BUD ( wjazd od ul. Partyzantów),,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl08m-kazimierza-wielkiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL09M,paczkomat_inpost_pl,Budynki biurowo - usługowe,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl09m-drogowcow-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL10M,paczkomat_inpost_pl,Prywatna posesja,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl10m-3-maja-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL11M,paczkomat_inpost_pl,Na końcu parkingu LIDL,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl11m-galla-anonima-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL12M,paczkomat_inpost_pl,Przy budynku Strzelnicy,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl12m-zdrojowa-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+MSL13M,paczkomat_inpost_pl,Parking sklepu z farbami,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-msl13m-slowackiego-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+OSE01M,paczkomat_inpost_pl,na parkingu hurtowni ELHURT,,Osieczany,małopolskie,,PL,,https://inpost.pl/paczkomat-osieczany-ose01m-osieczany-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+OSE02M,paczkomat_inpost_pl,AVITA U JĘDROCHY,,Osieczany,małopolskie,,PL,,https://inpost.pl/paczkomat-osieczany-ose02m-osieczany-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+PKA01M,paczkomat_inpost_pl,Przy budynku GS,,Polanka,małopolskie,,PL,,https://inpost.pl/paczkomat-polanka-pka01m-polanka-paczkomaty-malopolskie,24/7,Paczkomat,Q110970254
+POP-MSL6,paczkomat_inpost_pl,EPAKA,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-pop-msl6-slowackiego-paczkomaty-malopolskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-MSL8,paczkomat_inpost_pl,MINI BANK,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-pop-msl8-pilsudskiego-paczkomaty-malopolskie,Mo-Fr 09:00-17:00,Paczkomat,Q110970254
+POP-MSL9,paczkomat_inpost_pl,AL.CAPONE,,Myślenice,małopolskie,,PL,,https://inpost.pl/paczkomat-myslenice-pop-msl9-niepodleglosci-paczkomaty-malopolskie,Mo-Sa 05:00-24:00; Su 07:00-23:00,Paczkomat,Q110970254
+410,play_pl,Salon Play,Ul. Słoneczna 2D,Myślenice,małopolskie,,PL,+48 793 731 570,,Mo-Sa 09:00-20:00; Su 10:00-19:00,Play,Q7202998
+739,play_pl,Salon Play,Ul. Gałczyńskiego 1,Myślenice,małopolskie,,PL,+48 790 030 606,,Mo-Fr 09:00-19:00; Sa 09:00-15:00,Play,Q7202998
+255276,poczta_polska_pl,UP Myślenice,,Myślenice,MAŁOPOLSKIE,,PL,+48 885 951 583;+48 885 952 053,,,Poczta Polska,Q168833
+341897,poczta_polska_pl,FUP Myślenice,,Myślenice,MAŁOPOLSKIE,,PL,+48 12 272 47 17,,,Poczta Polska,Q168833
+295379,poczta_polska_pl,AP Myślenice,,Myślenice,MAŁOPOLSKIE,,PL,+48 785 621 695,,,Poczta Polska,Q168833
+,visa,,,MYŚLENICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,MYŚLENICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,MYŚLENICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,MYŚLENICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,MYŚLENICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,MYŚLENICE,MAŁOPOLSKIE,,PL,,,,,
+,visa,,,MYŚLENICE,MAŁOPOLSKIE,,PL,,,,,

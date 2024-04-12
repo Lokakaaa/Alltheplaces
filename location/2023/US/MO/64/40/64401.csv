@@ -1,0 +1,6 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1352429,usps,AGENCY,,AGENCY,MO,,US,+1 816-253-9255,,Mo-Fr 07:00-11:00; Sa 07:30-10:00,United States Postal Service,Q668687
+6440100001,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,10580 STATE ROUTE FF SE,AGENCY,MO,,US,,,,United States Postal Service,Q668687
+6440100003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,10580 STATE ROUTE FF SE,AGENCY,MO,,US,,,,United States Postal Service,Q668687
+6440100000,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,10580 STATE ROUTE FF SE,AGENCY,MO,,US,,,,United States Postal Service,Q668687
+,visa,,,AGENCY,MO,,US,,,,,

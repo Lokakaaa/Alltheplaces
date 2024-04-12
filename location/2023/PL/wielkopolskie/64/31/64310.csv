@@ -1,0 +1,19 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+7353,abc_pl,abc,,Brody,wielkopolskie,,PL,,,,abc,Q11683985
+7381,abc_pl,abc,,Lwówek,wielkopolskie,,PL,,,,abc,Q11683985
+2727,abc_pl,abc,,Zębowo,wielkopolskie,,PL,,,,abc,Q11683985
+7356,abc_pl,abc,,Pakosław,wielkopolskie,,PL,,,,abc,Q11683985
+7379,abc_pl,abc,,Zgierzynka,wielkopolskie,,PL,,,,abc,Q11683985
+11934,groszek_pl,Groszek,,Lwówek,wielkopolskie,,PL,,,,Groszek,Q9280965
+11935,groszek_pl,Groszek,,Zębowo,wielkopolskie,,PL,,,,Groszek,Q9280965
+266,groszek_pl,Groszek,,Pakosław,wielkopolskie,,PL,,,,Groszek,Q9280965
+BQD01M,paczkomat_inpost_pl,przy parkingu,,Brody,wielkopolskie,,PL,,https://inpost.pl/paczkomat-brody-bqd01m-brody-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+CMK01M,paczkomat_inpost_pl,Sklep Cho no tu,,Chmielinko,wielkopolskie,,PL,,https://inpost.pl/paczkomat-chmielinko-cmk01m-chmielinko-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+LWW01M,paczkomat_inpost_pl,Market Dino,,Lwówek,wielkopolskie,,PL,,https://inpost.pl/paczkomat-lwowek-lww01m-nowotomyska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+LWW02N,paczkomat_inpost_pl,Za Apteką,,Lwówek,wielkopolskie,,PL,,https://inpost.pl/paczkomat-lwowek-lww02n-pniewska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+PLV01M,paczkomat_inpost_pl,na parkingu przed marketem,,Pakosław,wielkopolskie,,PL,,https://inpost.pl/paczkomat-pakoslaw-plv01m-pakoslaw-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-LWW1,paczkomat_inpost_pl,PHU TOREZ,,Lwówek,wielkopolskie,,PL,,https://inpost.pl/paczkomat-lwowek-pop-lww1-opalenicka-paczkomaty-wielkopolskie,Mo-Fr 09:00-17:00,Paczkomat,Q110970254
+POP-LWW4,paczkomat_inpost_pl,CHATA POLSKA ,,Lwówek ,wielkopolskie,,PL,,https://inpost.pl/paczkomat-lwowek-pop-lww4-rynek-paczkomaty-wielkopolskie,Mo-Sa 06:00-22:00,Paczkomat,Q110970254
+ZEO01M,paczkomat_inpost_pl,Przy sklepie ABC,,Zębowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zebowo-zeo01m-plac-sw-jana-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+251405,poczta_polska_pl,UP Lwówek k. Nowego Tomyśla,,Lwówek,WIELKOPOLSKIE,,PL,+48 61 441 41 49,,,Poczta Polska,Q168833
+304681,poczta_polska_pl,AP Zębowo,,Zębowo,WIELKOPOLSKIE,,PL,+48 61 224 05 14,,,Poczta Polska,Q168833

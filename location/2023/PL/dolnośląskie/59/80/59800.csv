@@ -1,0 +1,35 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+7819,abc_pl,abc,,Henryków Lubański,dolnośląskie,,PL,,,,abc,Q11683985
+6001,abc_pl,abc,,Lubań,dolnośląskie,,PL,,,,abc,Q11683985
+7817,abc_pl,abc,,Lubań,dolnośląskie,,PL,,,,abc,Q11683985
+PL001024,aldi_nord_pl,ALDI,,Lubań,Dolnośląskie,,PL,+48 800 118 118,,Mo-Sa 06:00-22:00,ALDI,Q41171373
+129,bricomarche_pl,Bricomarché Lubań,,Lubań,dolnośląskie,,PL,+48 795 538 804,https://www.bricomarche.pl/sklep/bricomarche-luban,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/2140-luban-bracka,credit_agricole_pl,"Credit Agricole Bracka 8, Lubań",,Lubań,dolnośląskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/2140-luban-bracka,Mo-We 09:00-16:00; Th 10:00-17:00; Fr 09:00-16:00,Credit Agricole,Q590952
+710,mcdonalds_pl,McDonald's,,Lubań,Dolnośląskie,,PL,+48 532 758 379,https://mcdonalds.pl/restauracje/dolnoslaskie/luban/luban-papieza-jana-pawla-ii,Mo-Su 07:00-23:00,McDonald's,Q38076
+LUA01APP,paczkomat_inpost_pl,Przy wjeździe na parking.,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua01app-esperantystow-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA01M,paczkomat_inpost_pl,Po lewej stronie od wejścia do sklepu Czerwona Torebka,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua01m-zgorzelecka-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA01ML,paczkomat_inpost_pl,Przy markecie Intermarche,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua01ml-zgorzelecka-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA01N,paczkomat_inpost_pl,Po lewej stronie od wejścia do sklepu Cytryna,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua01n-kazimierza-wielkiego-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA02M,paczkomat_inpost_pl,Po lewej stronie od wejścia sklepu Aldi,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua02m-7-dywizji-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA03M,paczkomat_inpost_pl,Po prawej stronie od wejścia do sklepu,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua03m-tkacka-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA04M,paczkomat_inpost_pl,Przy parkingu Lidla.,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua04m-papieza-jana-pawla-ii-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA05M,paczkomat_inpost_pl,Po prawej stronie od bramy wjazdowej.,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua05m-lesna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA06M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua06m-mostowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA07M,paczkomat_inpost_pl,Po prawej stronie od wejścia.,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua07m-mickiewicza-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA08M,paczkomat_inpost_pl,"Po lewej stronie od wejścia, przy parkingu.",,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua08m-kopernika-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA09M,paczkomat_inpost_pl,Market Dino,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua09m-armii-krajowej-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA11M,paczkomat_inpost_pl,Przy parkingu stacji benzynowej.,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua11m-jeleniogorska-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA12M,paczkomat_inpost_pl,"Po prawej stronie Parkingu, z tyłu sklepu.",,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua12m-rybacka-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA13M,paczkomat_inpost_pl,Po lewej stronie od wejścia do sklepu.,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua13m-parkowa-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+LUA14M,paczkomat_inpost_pl,Przy piekarni.,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-lua14m-lesna-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+POP-LUA3,paczkomat_inpost_pl,KSIĘGARNIA ŚWISTAK SHOP,,Lubań,dolnośląskie,,PL,,https://inpost.pl/paczkomat-luban-pop-lua3-rynek-sukiennice-paczkomaty-dolnoslaskie,Mo-Fr 10:00-18:00,Paczkomat,Q110970254
+PZV01M,paczkomat_inpost_pl,Po prawej stronie od wejścia do sklepu.,,Pisarzowice,dolnośląskie,,PL,,https://inpost.pl/paczkomat-pisarzowice-pzv01m-pisarzowice-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+ZRE01M,paczkomat_inpost_pl,Po prawej stronie od wejścia do sklepu.,,Zaręba,dolnośląskie,,PL,,https://inpost.pl/paczkomat-zareba-zre01m-slowackiego-paczkomaty-dolnoslaskie,24/7,Paczkomat,Q110970254
+594,play_pl,Salon Play,Ul. Kopernika 30A,Lubań,dolnośląskie,,PL,+48 790 031 328,,Mo-Sa 09:00-21:00; Su 09:00-20:00,Play,Q7202998
+250369,poczta_polska_pl,UP Lubań Śląski 1,,Lubań,DOLNOŚLĄSKIE,,PL,+48 885 901 291;+48 75 721 63 42,,,Poczta Polska,Q168833
+,visa,,,LUBAŃ,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,LUBAŃ,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,LUBAŃ,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,LUBAŃ,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,LUBAŃ,DOLNOŚLĄSKIE,,PL,,,,,
+,visa,,,LUBAŃ,DOLNOŚLĄSKIE,,PL,,,,,

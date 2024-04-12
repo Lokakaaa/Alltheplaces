@@ -1,0 +1,159 @@
+City,Place Name,Zipcode,Name
+BELFORT,audi,RUE RENE CASSIN ZAC LA JUSTICE BELFORT 90000,unknown,SAS ESPACE 3000
+BESANCON,audi,16 RUE du Bellay ZAC Châteaufarine BESANCON 25000,unknown,SAS ESPACE 3000
+LONS LE SAUNIER (PERRIGNY),audi,500 Rue de la Lieme LONS LE SAUNIER (PERRIGNY) 39570,unknown,THEVENOD SAS
+LES FINS,audi,22 Route de Besancon Les Lavottes LES FINS 25500,unknown,AUTOMOBILES MOUGIN
+CHOISEY,audi,Z.I. Ciale de Choisey CHOISEY 39100,unknown,AUTOMOBILES THIERRY CUYNET
+PONTARLIER,audi,25 RUE de la Libération PONTARLIER 25300,unknown,ESPACE 3000 PONTARLIER
+VESOUL,audi,RUE VICTOR DOLLE ZAC TECHNOLOGIA VESOUL 70000,unknown,ESPACE 3000 VESOUL
+FOUGEROLLES,cic,,unknown,CIC LUXEUIL LES BAINS
+ST LOUP SUR SEMOUSE,cic,,unknown,CIC LUXEUIL LES BAINS
+JUSSEY,cic,,unknown,CIC VESOUL-MOREL
+VESOUL,cic,,unknown,CIC AGENCE ENTREPRISE BESANCON - CIC ENTREPRISE BESANCON
+LUXEUIL LES BAINS,cic,,unknown,CIC LUXEUIL LES BAINS - CIC FOUGEROLLES
+LURE,cic,,unknown,CIC
+SELONCOURT,cic,,unknown,CIC AUDINCOURT
+DELLE,cic,,unknown,CIC BELFORT-FOCH
+AUDINCOURT,cic,,unknown,CIC AUDINCOURT - CIC SELONCOURT
+MONTBELIARD,cic,,unknown,CIC
+HERICOURT,cic,,unknown,CIC BELFORT-FOCH
+GIROMAGNY,cic,,unknown,CIC BELFORT J.JAURES
+BELFORT,cic,,unknown,CIC BELFORT J.JAURES - CIC GIROMAGNY
+DOLE,cic,,unknown,CIC DOLE - CIC DOLE CHOISEY
+CHOISEY,cic,,unknown,CIC DOLE
+HAUTS DE BIENNE,cic,,unknown,CIC ST CLAUDE - CIC SAINT CLAUDE
+ST CLAUDE,cic,,unknown,CIC ST CLAUDE - CIC HAUTS DE BIENNE
+ARBOIS,cic,,unknown,CIC ARBOIS - CIC POLIGNY
+CHAMPAGNOLE,cic,,unknown,CIC ARBOIS
+POLIGNY,cic,,unknown,CIC ARBOIS
+LONS LE SAUNIER,cic,,unknown,CIC
+BESANCON,cic,,unknown,CIC BESANCON ST FERJEUX - CIC BESANCON ST-FERJEUX
+MAICHE,cic,,unknown,CIC
+GRAY,cic,,unknown,CIC
+VILLERS LE LAC,cic,,unknown,CIC MORTEAU
+MORTEAU,cic,,unknown,CIC MORTEAU - CIC VILLERS LE LAC
+PONTARLIER,cic,,unknown,CIC
+Champagnole,e_leclerc,,unknown,Station Service
+CHAMPAGNOLE,e_leclerc,,unknown,CHAMPAGNOLE
+LURE,e_leclerc,,unknown,DRIVE LURE
+BELFORT,e_leclerc,,unknown,Drive Belfort
+VALDOIE,e_leclerc,,unknown,Drive Valdoie
+PONTARLIER,e_leclerc,,unknown,Drive Pontarlier
+DOLE,e_leclerc,,unknown,Drive Dole
+PUSEY,e_leclerc,,unknown,PUSEY
+VESOUL,e_leclerc,,unknown,Brico
+NOIDANS LES VESOUL,e_leclerc,,unknown,Drive Noidans-lès-Vesoul
+Vesoul,e_leclerc,,unknown,Location
+MONTBELIARD,e_leclerc,,unknown,Location
+AUDINCOURT,e_leclerc,,unknown,Drive Audincourt
+Besançon,e_leclerc,,unknown,Drive Besançon
+Montbeliard,e_leclerc,,unknown,DRIVE Le Piéton de Montbéliard Centre-ville
+Sochaux,e_leclerc,,unknown,DRIVE Sochaux
+HERICOURT,e_leclerc,,unknown,Drive Héricourt
+Bethoncourt,e_leclerc,,unknown,DRIVE Bethoncourt
+VALDAHON,e_leclerc,,unknown,Location
+Vuillafans,fedex,,unknown,unknown
+Voujeaucourt,fedex,,unknown,unknown
+Villersexel,fedex,,unknown,unknown
+Villers Le Lac,fedex,,unknown,unknown
+Vesoul,fedex,,unknown,unknown
+Vercel Villedieu Le Camp,fedex,,unknown,unknown
+Vaux Les Pres,fedex,,unknown,unknown
+Valentigney,fedex,,unknown,unknown
+Valdahon,fedex,,unknown,unknown
+Thise,fedex,,unknown,unknown
+Ternuay Melay Et St Hilaire,fedex,,unknown,unknown
+Tavaux,fedex,,unknown,unknown
+St Vit,fedex,,unknown,unknown
+St Sauveur,fedex,,unknown,unknown
+St Loup Sur Semouse,fedex,,unknown,unknown
+St Laurent En Grandvaux,fedex,,unknown,unknown
+St Claude,fedex,,unknown,unknown
+St Amour,fedex,,unknown,unknown
+Sochaux,fedex,,unknown,unknown
+Seloncourt,fedex,,unknown,unknown
+Sellieres,fedex,,unknown,unknown
+Saone,fedex,,unknown,unknown
+Sancey Le Grand,fedex,,unknown,unknown
+Salins Les Bains,fedex,,unknown,unknown
+Rougemont,fedex,,unknown,unknown
+Ronchamp,fedex,,unknown,unknown
+Quingey,fedex,,unknown,unknown
+Quenoche,fedex,,unknown,unknown
+Port Sur Saone,fedex,,unknown,unknown
+Pontarlier,fedex,,unknown,unknown
+Pont De Roide,fedex,,unknown,unknown
+Pont De Poitte,fedex,,unknown,unknown
+Plancher Bas,fedex,,unknown,unknown
+Pesmes,fedex,,unknown,unknown
+Perouse,fedex,,unknown,unknown
+Ornans,fedex,,unknown,unknown
+Orgelet,fedex,,unknown,unknown
+Orchamps Vennes,fedex,,unknown,unknown
+Offemont,fedex,,unknown,unknown
+Nozeroy,fedex,,unknown,unknown
+Noidans Les Vesoul,fedex,,unknown,unknown
+Nancray,fedex,,unknown,unknown
+Morvillars,fedex,,unknown,unknown
+Morez,fedex,,unknown,unknown
+Montrond Le Chateau,fedex,,unknown,unknown
+Montmorot,fedex,,unknown,unknown
+Montenois,fedex,,unknown,unknown
+Montbeliard,fedex,,unknown,unknown
+Mont Sous Vaudrey,fedex,,unknown,unknown
+Monnet La Ville,fedex,,unknown,unknown
+Moirans En Montagne,fedex,,unknown,unknown
+Mandeure,fedex,,unknown,unknown
+Mamirolle,fedex,,unknown,unknown
+Malbuisson,fedex,,unknown,unknown
+Maiche,fedex,,unknown,unknown
+Luxeuil Les Bains,fedex,,unknown,unknown
+Lure,fedex,,unknown,unknown
+Lons Le Saunier,fedex,,unknown,unknown
+Levier,fedex,,unknown,unknown
+Les Rousses,fedex,,unknown,unknown
+Les Fins,fedex,,unknown,unknown
+Le Russey,fedex,,unknown,unknown
+Le Deschaux,fedex,,unknown,unknown
+Labergement Ste Marie,fedex,,unknown,unknown
+Jussey,fedex,,unknown,unknown
+Jougne,fedex,,unknown,unknown
+Herimoncourt,fedex,,unknown,unknown
+Hericourt,fedex,,unknown,unknown
+Gy,fedex,,unknown,unknown
+Gray,fedex,,unknown,unknown
+Grand Combe Chateleu,fedex,,unknown,unknown
+Giromagny,fedex,,unknown,unknown
+Frasne,fedex,,unknown,unknown
+Fougerolles,fedex,,unknown,unknown
+Fontaine Les Luxeuil,fedex,,unknown,unknown
+Etupes,fedex,,unknown,unknown
+Ecole Valentin,fedex,,unknown,unknown
+Doubs,fedex,,unknown,unknown
+Dole,fedex,,unknown,unknown
+Delle,fedex,,unknown,unknown
+Dannemarie Sur Crete,fedex,,unknown,unknown
+Combeaufontaine,fedex,,unknown,unknown
+Colombier Fontaine,fedex,,unknown,unknown
+Clerval,fedex,,unknown,unknown
+Clairvaux Les Lacs,fedex,,unknown,unknown
+Choisey,fedex,,unknown,unknown
+Chemaudin,fedex,,unknown,FedEx Express FR
+Chavannes Sur L Etang,fedex,,unknown,unknown
+Chatillon Le Duc,fedex,,unknown,unknown
+Charquemont,fedex,,unknown,unknown
+Champlitte,fedex,,unknown,unknown
+Champagnole,fedex,,unknown,unknown
+Chalezeule,fedex,,unknown,unknown
+PONTARLIER,ikks,,unknown,IKKS Men PONTARLIER
+MORTEAU,ikks,,unknown,MORTEAU MMXJ
+LONS LE SAUNIER,ikks,,unknown,XandO Women LONS LE SAUNIER
+MONTBELIARD,ikks,,unknown,XandO Women MONTBELIARD
+BELFORT,ikks,,unknown,XandO Women Men BELFORT
+BESANÇON,ikks,,unknown,IKKS Junior BESANCON_CC
+BESANCON,ikks,,unknown,IKKS Women Men Besancon Chateaufarine
+DOLE,ikks,,unknown,XandO Women DOLE
+VESOUL,ikks,,unknown,VESOUL MMXJ
+Departement du Jura,ionity,,unknown,Jura
+Departement du Doubs,pokawa,3 rue de granges  Besançon   25000,unknown,Pokawa Besancon
+Belfort,starbucks_eu,2 place corbis 90000 Belfort,unknown,Le Central - Belfort

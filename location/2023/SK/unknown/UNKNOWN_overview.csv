@@ -1,0 +1,1081 @@
+City,Place Name,Zipcode,Name
+unknown,accor,Zamocka 38 81101 BRATISLAVA,unknown,ibis Bratislava Centrum
+Spišská Nová Ves,action,,unknown,Spišská Nová Ves
+Bratislava,action,,unknown,Bratislava
+Zvolen,action,,unknown,Zvolen
+Topoľčany,action,,unknown,Topoľčany
+Martin,action,,unknown,Martin
+Trnava,action,,unknown,Trnava
+Michalovce,action,,unknown,Michalovce
+Bratislava,alamo,,unknown,Bratislava Airport
+Kosice,alamo,,unknown,Kosice International Airport
+unknown,best_in_parking,,unknown,Garáž Centrum
+Dunajska Streda,bmw_group,,unknown,Dunauto DS s.r.o.
+Trnava,bmw_group,,unknown,"Bavaria TT, s.r.o."
+Bratislava,bmw_group,,unknown,Auto Motiv s.r.o.
+Kosice,bmw_group,,unknown,K-moto s.r.o.
+Presov,bmw_group,,unknown,Regnum Bavaria s.r.o.
+Zilina,bmw_group,,unknown,MD-Bavaria Zilina s.r.o.
+Trencianska Turna,bmw_group,,unknown,T.O.B. s.r.o.
+Nitra,bmw_group,,unknown,RIJA - Bavaria s.r.o
+Banská Bystrica,bmw_group,,unknown,"LION CAR, s.r.o."
+Banska Bystrica,bmw_group,,unknown,Motoshop Zubor s.r.o.
+Bratislava,calvin_klein,,unknown,Calvin Klein Jeans
+Bratislava,ccc,,unknown,Bratislava CCC Eurovea 4188
+Žilina,ccc,,unknown,Žilina CCC Aupark 1841
+Nitra,ccc,,unknown,Nitra CCC Promenada 4150
+Košice,ccc,,unknown,Košice CCC Atrium Optima 2214
+Dunajská Streda,ccc,,unknown,Dunajska Streda CCC Max 1547
+Piešťany,ccc,,unknown,Piešťany CCC Aupark 1562
+Púchov,ccc,,unknown,Puchov CCC Stop Shop 1563
+Trenčín,ccc,,unknown,Trenčín CCC Laugaricio 1578
+Prievidza,ccc,,unknown,Prievidza CCC Korzo 1654
+Martin,ccc,,unknown,Martin CCC Galéria 2368
+Topoľčany,ccc,,unknown,Topolčany CCC 1720
+Humenné,ccc,,unknown,Humenné CCC 1785
+Levice,ccc,,unknown,Levice CCC Dituria 1842
+Trnava,ccc,,unknown,Trnava CCC City Arena 2073
+Poprad,ccc,,unknown,Poprad CCC Forum 2094
+Lučenec,ccc,,unknown,Lučenec CCC Galéria 2126
+Liptovský Mikuláš,ccc,,unknown,Liptovský Mikuláš CCC 2127
+Rimavská Sobota,ccc,,unknown,Rimavská Sobota CCC Galéria Komín 2130
+Považská Bystrica,ccc,,unknown,Považská Bystrica CCC Retail Park 2183
+Ružomberok,ccc,,unknown,Ružomberok CCC Retail Park 2252
+Senica,ccc,,unknown,Senica CCC Retail Park 2258
+Zvolen,ccc,,unknown,Zvolen CCC Europa 2266
+Banská Bystrica,ccc,,unknown,Banská Bystrica CCC Terminal 2274
+Brezno,ccc,,unknown,Brezno CCC Retail Park 2324
+Bardějov,ccc,,unknown,Bardejov CCC Across 2339
+Michalovce,ccc,,unknown,Michalovce CCC Retail Park 2343
+Pezinok,ccc,,unknown,Pezinok CCC Tesco 2499
+Šamorín,ccc,,unknown,Šamorín CCC Retail Box 3103
+Kežmarok,ccc,,unknown,Kežmarok CCC Retail Park 2498
+Komárno,ccc,,unknown,Komarno CCC Korzo 3789
+Prešov,ccc,,unknown,Prešov CCC Novum 3828
+Petržalka Bratislava,crocs_eu,,unknown,Crocs Bratislava
+Zilina,c_and_a,Velka okruzna 59A 010 01 Zilina,unknown,Zilina Aupark
+Trnava,c_and_a,Ulica Nova 8679/6B 917 01 Trnava,unknown,Trnava TMT
+Trencin,c_and_a,Bela 7271 911 04 Trencin,unknown,Trencin OC Laugaricio
+Prievidza,c_and_a,Nabrezna 1913/5a 971 01 Prievidza,unknown,Prievidza OC Korzo
+Prešov,c_and_a,Arm.gen.Svobodu 25 08001 Prešov,unknown,PRESOV SC EPERIA
+Poprad,c_and_a,Namestie Sv.Egidia c. 3290/124 05801 Poprad,unknown,Poprad Forum
+Nitra,c_and_a,Stefanikova trieda 35/61 949 01 Nitra,unknown,Nitra Galeria Mlyny
+Martin,c_and_a,Jilemnickeho 10809/63A 036 01 Martin,unknown,Martin Retail Park
+Liptovsky Mikulas,c_and_a,1.maja 41 031 01 Liptovsky Mikulas,unknown,Liptovsky Mikulas Stop Shop
+Kosice,c_and_a,Namestie osloboditelov 1 040 01 Kosice,unknown,Kosice Aupark
+Kosice,c_and_a,Moldavska cesta 32 040 11 Kosice,unknown,Kosice OC Optima
+Bratislava,c_and_a,Ivanska cesta 16 821 04 Bratislava,unknown,Bratislava Avion Shopping Park
+Bratislava,c_and_a,Lamac c.p. 6780 841 03 Bratislava,unknown,Bratislava Bory Mall
+Bratislava,c_and_a,Metodova 6 821 08 Bratislava,unknown,Bratislava OC Central
+Banska Bystrica,c_and_a,29.Augusta 38 97401 Banska Bystrica,unknown,Banska Bystrica NC Terminal
+Banská Bystrica,dm,,unknown,dm drogerie markt
+Levice,dm,,unknown,dm drogerie markt
+Trnava,dm,,unknown,dm-drogerie markt
+Poprad,dm,,unknown,dm drogerie markt
+Handlová,dm,,unknown,dm drogerie markt
+Čadca,dm,,unknown,dm drogerie markt
+Prievidza,dm,,unknown,dm drogerie markt
+Malacky,dm,,unknown,dm-drogerie markt
+Partizánske,dm,,unknown,dm drogerie markt
+Svidník,dm,,unknown,dm drogerie markt
+Nitra,dm,,unknown,dm-drogerie markt
+Brezno,dm,,unknown,dm drogerie markt
+Košice,dm,,unknown,dm drogerie markt
+Bratislava,dm,,unknown,dm-drogerie markt
+Stará Ľubovňa,dm,,unknown,dm drogerie markt
+Pezinok,dm,,unknown,dm-drogerie markt
+Martin,dm,,unknown,dm drogerie markt
+Kežmarok,dm,,unknown,dm-drogerie markt
+Sabinov,dm,,unknown,dm-drogerie markt
+Rovinka,dm,,unknown,dm-drogerie markt
+Komárno,dm,,unknown,dm drogerie markt
+Námestovo,dm,,unknown,dm drogerie markt
+Žilina,dm,,unknown,dm drogerie markt
+Ľubotice,dm,,unknown,dm-drogerie markt
+Senec,dm,,unknown,dm drogerie markt
+Nové Zámky,dm,,unknown,dm drogerie markt
+Stupava,dm,,unknown,dm drogerie markt
+Zvolen,dm,,unknown,dm-drogerie markt
+Prešov,dm,,unknown,dm drogerie markt
+Topoľčany,dm,,unknown,dm-drogerie markt
+Nové Mesto nad Váhom,dm,,unknown,dm drogerie markt
+Veľký Krtíš,dm,,unknown,dm-drogerie markt
+Žiar nad Hronom,dm,,unknown,dm-drogerie markt
+Piešťany,dm,,unknown,dm-drogerie markt
+Ilava,dm,,unknown,dm drogerie markt
+Dunajská Streda,dm,,unknown,dm-drogerie markt
+Bánovce nad Bebravou,dm,,unknown,dm drogerie markt
+Galanta,dm,,unknown,dm drogerie markt
+Hlohovec,dm,,unknown,dm drogerie markt
+Dubnica nad Váhom,dm,,unknown,dm drogerie markt
+Šamorín,dm,,unknown,dm drogerie markt
+Banská Štiavnica,dm,,unknown,dm-drogerie markt
+Detva,dm,,unknown,dm-drogerie markt
+Michalovce,dm,,unknown,dm drogerie markt
+Myjava,dm,,unknown,dm-drogerie markt
+Šaľa,dm,,unknown,dm drogerie markt
+Ružomberok,dm,,unknown,dm drogerie markt
+Trenčín,dm,,unknown,dm drogerie markt
+Zlaté Moravce,dm,,unknown,dm drogerie markt
+Lučenec,dm,,unknown,dm drogerie markt
+Snina,dm,,unknown,dm drogerie markt
+Vranov nad Topľou,dm,,unknown,dm drogerie markt
+Rožňava,dm,,unknown,dm drogerie markt
+Bardejov,dm,,unknown,dm drogerie markt
+Dolný Kubín,dm,,unknown,dm drogerie markt
+Sereď,dm,,unknown,dm drogerie markt
+Púchov,dm,,unknown,dm drogerie markt
+Spišská Nová Ves,dm,,unknown,dm drogerie markt
+Liptovský Mikuláš,dm,,unknown,dm drogerie markt
+Rimavská Sobota,dm,,unknown,dm drogerie markt
+Humenné,dm,,unknown,dm drogerie markt
+Trebišov,dm,,unknown,dm drogerie markt
+Senica,dm,,unknown,dm drogerie markt
+Považská Bystrica,dm,,unknown,dm drogerie markt
+Bernolákovo,dm,,unknown,dm-drogerie markt
+Veľký Meder,dm,,unknown,dm-drogerie markt
+Chorvátsky Grob,dm,,unknown,dm drogerie markt
+Žarnovica,dm,,unknown,dm drogerie markt
+Most pri Bratislave,dm,,unknown,dm-drogerie markt
+Štúrovo,dm,,unknown,dm-drogerie markt
+Šurany,dm,,unknown,dm-drogerie markt
+Skalica,dm,,unknown,dm-drogerie markt
+Kysucké Nové Mesto,dm,,unknown,dm-drogerie markt
+Sládkovičovo,dm,,unknown,dm-drogerie markt
+Bytča,dm,,unknown,dm-drogerie markt
+Bratislava,dr_max,,unknown,"Stará Vajnorská 18, Bratislava"
+Nitra,ecco,,unknown,ECCO Mlyny Nitra
+Bratislava,ecco,,unknown,ECCO Avion Bratislava
+Košice,ecco,,unknown,ECCO Aupark Kosice
+Poprad,ecco,,unknown,ECCO Forum Poprad
+Trnava,ecco,,unknown,ECCO Arena Trnava
+Zilina,ecco,,unknown,ECCO Zilina
+Trenčín,ecco,,unknown,ECCO Laugarício Trenčín
+Banska Bystrica,ecco,,unknown,ECCO Europa Banska
+Kosice,ecco,,unknown,ECCO Optima Kosice
+Martin,ecco,,unknown,ECCO Outlet Martin
+Kosice,enterprise,,unknown,Kosice International Airport
+Bratislava,enterprise,,unknown,Bratislava Airport
+Zilina,enterprise,,unknown,Zilina
+Bratislava,ernst_young,Zizkova 9,unknown,EY
+Kosice,ernst_young,Sturova 27,unknown,EY
+Zilina,ernst_young,Kuzmanyho 8,unknown,EY
+unknown,gbfs,,unknown,Stanica Žilina-Záriečie
+CELJE,geox,,unknown,Geox CELJE
+LJUBLJANA,geox,,unknown,Geox LJUBLJANA
+MARIBOR,geox,,unknown,Geox MARIBOR
+BRATISLAVA,geox,,unknown,Geox BRATISLAVA
+unknown,hilton,Hlavna 1 Kosice 040 01 Slovakia,unknown,DoubleTree by Hilton Kosice
+Bratislava,hm,,unknown,Petržalka
+Kosice,hm,,unknown,Tesco Košice
+Nitra,hm,,unknown,OC Galéria Nitra
+Žilina,hm,,unknown,Dubeň Žilina
+Trenčín,hm,,unknown,Laugaricio
+Prievidza,hm,,unknown,Nákupné centrum Korzo
+Banská Bystrica,hm,,unknown,Europa
+Trnava,hm,,unknown,City Park Trnava
+Poprad,hm,,unknown,Forum Poprad
+Spišská Nová Ves,hm,,unknown,Madaras
+Levice,hm,,unknown,OD Dituria
+Lučenec,hm,,unknown,Galéria Lučenec
+Prešov,hm,,unknown,Námestie legionárov 6824/1
+Martin,hm,,unknown,Galéria Martin
+Liptovsky Mikulas,hm,,unknown,Retail Park Liptovský Mikuláš
+Dunajska Streda,hm,,unknown,Galéria Dunajská Streda
+Bratislava,ikea,,unknown,Bratislava
+Ružomberok,jysk,,unknown,Ružomberok
+Žilina,jysk,,unknown,Žilina
+Námestovo,jysk,,unknown,Námestovo
+Šamorín,jysk,,unknown,Šamorín
+Košice,jysk,,unknown,"Džungla, Košice"
+Nitra,jysk,,unknown,Nitra
+Levoča,jysk,,unknown,Levoča
+Velý Krtíš,jysk,,unknown,Velký Krtíš
+Nové Mesto nad Váhom,jysk,,unknown,Nove Mesto n. V.
+Šala,jysk,,unknown,Šala
+Považská Bystrica,jysk,,unknown,Považská Bystrica
+Bratislava,jysk,,unknown,"Zlaté piesky, Bratislava"
+Levice,jysk,,unknown,Levice
+Banská Bystrica,jysk,,unknown,Banská Bystrica
+Humenné,jysk,,unknown,Humenné
+Čadca,jysk,,unknown,Čadca
+Topoľčany,jysk,,unknown,Topoľčany
+Brezno,jysk,,unknown,Brezno
+Malacky,jysk,,unknown,Malacky
+Trnava,jysk,,unknown,Trnava
+Bardejov,jysk,,unknown,Bardejov
+Rimavská Sobota,jysk,,unknown,Rimavská Sobota
+Komárno,jysk,,unknown,Komárno
+Dunajská Streda,jysk,,unknown,Dunajská Streda
+Prievidza,jysk,,unknown,Prievidza
+Hlohovec,jysk,,unknown,Hlohovec
+Piešťany,jysk,,unknown,Piešťany
+Spišská Nová Ves,jysk,,unknown,Spišská Nová Ves
+Prešov,jysk,,unknown,Prešov
+Púchov,jysk,,unknown,Púchov
+Trebišov,jysk,,unknown,Trebišov
+"Cassovia, Košice",jysk,,unknown,"Cassovia, Košice"
+Senica,jysk,,unknown,Senica
+Michalovce,jysk,,unknown,Michalovce
+Liptovský Mikuláš,jysk,,unknown,Liptovský Mikuláš
+Bratislava 35,jysk,,unknown,"Rača, Bratislava"
+"Bratislava, Záhorská Bystrica",jysk,,unknown,"Lamač, Bratislava"
+Trenčín,jysk,,unknown,Trenčín
+Nové Zámky,jysk,,unknown,Nové Zámky
+Zvolen,jysk,,unknown,Zvolen
+Lučenec,jysk,,unknown,Lučenec
+Poprad,jysk,,unknown,Poprad
+Rožňava,jysk,,unknown,Rožňava
+Martin,jysk,,unknown,Martin
+Velky Meder,kik,,unknown,KiK
+Komarno,kik,,unknown,KiK
+Šamorin,kik,,unknown,KiK
+Bratislava,kik,,unknown,KiK
+Dunajská Streda,kik,,unknown,KiK
+Dunajska Streda,kik,,unknown,KiK
+Bratislava Podunajské Biskupice,kik,,unknown,KiK
+Bratislava Dúbravka,kik,,unknown,KiK
+Bratislava Rača,kik,,unknown,KiK
+Štúrovo,kik,,unknown,KiK
+Chorvátsky Grob,kik,,unknown,KiK
+Senec,kik,,unknown,KiK
+Nové Zámky,kik,,unknown,KiK
+Pezinok,kik,,unknown,KiK
+Galanta,kik,,unknown,KiK
+Šaľa,kik,,unknown,KiK
+Surany,kik,,unknown,KiK
+Malacky,kik,,unknown,KiK
+Sereď,kik,,unknown,KiK
+Zeliezovce,kik,,unknown,KiK
+Trnava,kik,,unknown,KiK
+Nitra,kik,,unknown,KiK
+Hlohovec,kik,,unknown,KiK
+Levice,kik,,unknown,KiK
+Zlaté Moravce,kik,,unknown,KiK
+Senica,kik,,unknown,KiK
+Piešťany,kik,,unknown,KiK
+Topoľčany,kik,,unknown,KiK
+Veľký Krtíš,kik,,unknown,KiK
+Skalica,kik,,unknown,KiK
+Myjava,kik,,unknown,KiK
+Topolčany,kik,,unknown,KiK
+Krupina,kik,,unknown,KiK
+Stará Tura,kik,,unknown,KiK
+Zarnovica,kik,,unknown,KiK
+ Nové Mesto nad Váhom,kik,,unknown,KiK
+Banská Štiavnica,kik,,unknown,KiK
+Partizánske,kik,,unknown,KiK
+Bánovce nad Bebravou,kik,,unknown,KiK
+Fiľakovo,kik,,unknown,KiK
+Lučenec,kik,,unknown,KiK
+Žiar nad Hronom,kik,,unknown,KiK
+Trenčín,kik,,unknown,KiK
+Zvolen,kik,,unknown,KiK
+Prievidza,kik,,unknown,KiK
+Detva,kik,,unknown,KiK
+Rimavská Sobota,kik,,unknown,KiK
+Dubnica nad Váhom,kik,,unknown,KiK
+Ilava,kik,,unknown,KiK
+Banská Bystrica,kik,,unknown,KiK
+Tornala,kik,,unknown,KiK
+Púchov,kik,,unknown,KiK
+Považská Bystrica,kik,,unknown,KiK
+Rajec,kik,,unknown,KiK
+Brezno,kik,,unknown,KiK
+Revúca,kik,,unknown,KiK
+Martin,kik,,unknown,KiK
+Žilina,kik,,unknown,KiK
+Rožnava,kik,,unknown,KiK
+Ružomberok,kik,,unknown,KiK
+Moldava nad Bodvou,kik,,unknown,KiK
+Kysucke Nove Mesto,kik,,unknown,KiK
+Liptovský Mikuláš,kik,,unknown,KiK
+Dolný Kubín,kik,,unknown,KiK
+Čadca,kik,,unknown,KiK
+Košice,kik,,unknown,KiK
+Kosice,kik,,unknown,KiK
+Spišská Nová Ves,kik,,unknown,KiK
+Poprad,kik,,unknown,KiK
+Trebišov,kik,,unknown,KiK
+Levoča,kik,,unknown,KiK
+Námestovo,kik,,unknown,KiK
+Kezmarok,kik,,unknown,KiK
+Michalovce,kik,,unknown,KiK
+Prešov,kik,,unknown,KiK
+Presov - Lubotice,kik,,unknown,KiK
+Vranov nad Topl`ou,kik,,unknown,KiK
+Sabinov,kik,,unknown,KiK
+Stará Ľubovňa,kik,,unknown,KiK
+Humenné,kik,,unknown,KiK
+Snina,kik,,unknown,KiK
+Bardejov,kik,,unknown,KiK
+Svidník,kik,,unknown,KiK
+Brastislava,leonidas,,unknown,Leonidas Chocolates & Café
+Senica,lidl_sk,,unknown,Lidl
+Žiar nad Hronom,lidl_sk,,unknown,Lidl
+Dunajská Streda,lidl_sk,,unknown,Lidl
+Bratislava,lidl_sk,,unknown,Lidl
+Prievidza,lidl_sk,,unknown,Lidl
+Ružomberok,lidl_sk,,unknown,Lidl
+Nitra,lidl_sk,,unknown,Lidl
+Štúrovo,lidl_sk,,unknown,Lidl
+Senec,lidl_sk,,unknown,Lidl
+Bánovce nad Bebravou,lidl_sk,,unknown,Lidl
+Žilina,lidl_sk,,unknown,Lidl
+Sereď,lidl_sk,,unknown,Lidl
+Partizánske,lidl_sk,,unknown,Lidl
+Nové Mesto nad Váhom,lidl_sk,,unknown,Lidl
+Humenné,lidl_sk,,unknown,Lidl
+Košice,lidl_sk,,unknown,Lidl
+Rožňava,lidl_sk,,unknown,Lidl
+Prešov,lidl_sk,,unknown,Lidl
+Michalovce,lidl_sk,,unknown,Lidl
+Poprad,lidl_sk,,unknown,Lidl
+Lučenec,lidl_sk,,unknown,Lidl
+Nové Zámky,lidl_sk,,unknown,Lidl
+Trnava,lidl_sk,,unknown,Lidl
+Trenčín,lidl_sk,,unknown,Lidl
+Brezno,lidl_sk,,unknown,Lidl
+Liptovský Mikuláš,lidl_sk,,unknown,Lidl
+Vranov nad Topľou,lidl_sk,,unknown,Lidl
+Snina,lidl_sk,,unknown,Lidl
+Martin,lidl_sk,,unknown,Lidl
+Skalica,lidl_sk,,unknown,Lidl
+Hlohovec,lidl_sk,,unknown,Lidl
+Šamorín,lidl_sk,,unknown,Lidl
+Stará Ľubovňa,lidl_sk,,unknown,Lidl
+Dubnica nad Váhom,lidl_sk,,unknown,Lidl
+Banská Bystrica,lidl_sk,,unknown,Lidl
+Kysucké Nové Mesto,lidl_sk,,unknown,Lidl
+Sabinov,lidl_sk,,unknown,Lidl
+Kežmarok,lidl_sk,,unknown,Lidl
+Topoľčany,lidl_sk,,unknown,Lidl
+Zvolen,lidl_sk,,unknown,Lidl
+Bardejov,lidl_sk,,unknown,Lidl
+Kosice,lidl_sk,,unknown,Lidl
+Čadca,lidl_sk,,unknown,Lidl
+Malacky,lidl_sk,,unknown,Lidl
+Detva,lidl_sk,,unknown,Lidl
+Nová Baňa,lidl_sk,,unknown,Lidl
+Veľký Krtíš,lidl_sk,,unknown,Lidl
+Trebišov,lidl_sk,,unknown,Lidl
+Pezinok,lidl_sk,,unknown,Lidl
+Vráble,lidl_sk,,unknown,Lidl
+Myjava,lidl_sk,,unknown,Lidl
+Želiezovce,lidl_sk,,unknown,Lidl
+Považská Bystrica,lidl_sk,,unknown,Lidl
+Svit,lidl_sk,,unknown,Lidl
+Holíč,lidl_sk,,unknown,Lidl
+Stropkov,lidl_sk,,unknown,Lidl
+Dolný Kubín,lidl_sk,,unknown,Lidl
+Piešťany,lidl_sk,,unknown,Lidl
+Šahy,lidl_sk,,unknown,Lidl
+Hurbanovo,lidl_sk,,unknown,Lidl
+Levoča,lidl_sk,,unknown,Lidl
+Velké Kapušany,lidl_sk,,unknown,Lidl
+Handlová,lidl_sk,,unknown,Lidl
+Nováky,lidl_sk,,unknown,Lidl
+Rimavská Sobota,lidl_sk,,unknown,Lidl
+Zlaté Moravce,lidl_sk,,unknown,Lidl
+Veľký Meder,lidl_sk,,unknown,Lidl
+Levice,lidl_sk,,unknown,Lidl
+Fiľakovo,lidl_sk,,unknown,Lidl
+Komárno,lidl_sk,,unknown,Lidl
+Revúca,lidl_sk,,unknown,Lidl
+Spišská Nová Ves,lidl_sk,,unknown,Lidl
+Vrbové,lidl_sk,,unknown,Lidl
+Námestovo,lidl_sk,,unknown,Lidl
+Bernolákovo,lidl_sk,,unknown,Lidl
+Šurany,lidl_sk,,unknown,Lidl
+Sobrance,lidl_sk,,unknown,Lidl
+Kráľovský Chlmec,lidl_sk,,unknown,Lidl
+Terchová,lidl_sk,,unknown,Lidl
+Svidník,lidl_sk,,unknown,Lidl
+Šaľa,lidl_sk,,unknown,Lidl
+Banská Štiavnica,lidl_sk,,unknown,Lidl
+Nová Dubnica,lidl_sk,,unknown,Lidl
+Moldava Nad Bodvou,lidl_sk,,unknown,Lidl
+Galanta,lidl_sk,,unknown,Lidl
+Tvrdošín,lidl_sk,,unknown,Lidl
+Púchov,lidl_sk,,unknown,Lidl
+Bojnice,lidl_sk,,unknown,Lidl
+Ilava,lidl_sk,,unknown,Lidl
+Krompachy,lidl_sk,,unknown,Lidl
+Liptovský Hrádok,lidl_sk,,unknown,Lidl
+Tornaľa,lidl_sk,,unknown,Lidl
+Most pri Bratislave,lidl_sk,,unknown,Lidl
+Turzovka,lidl_sk,,unknown,Lidl
+Modra,lidl_sk,,unknown,Lidl
+Turčianske Teplice,lidl_sk,,unknown,Lidl
+Bytča,lidl_sk,,unknown,Lidl
+Komarno,man_truck_and_bus,,unknown,NEOSPED s.r.o.
+Zilina- Povazský Chlmec,man_truck_and_bus,,unknown,"BCI-S&T, s.r.o."
+Zvolen,man_truck_and_bus,,unknown,Prva dopravno-mechanizacna spolocnost s r.o.
+Nove Mesto nad Vahom,man_truck_and_bus,,unknown,"AVE-MOTO, s.r.o."
+Bratislava,man_truck_and_bus,,unknown,"MAN Truck & Bus Slovakia s.r.o., Bratislava"
+Liptovský Mikuláš,man_truck_and_bus,,unknown,PROCAR a.s.
+Žilina,man_truck_and_bus,,unknown,PROCAR a.s.
+Prešov,man_truck_and_bus,,unknown,"MAN Truck & Bus Slovakia s.r.o., Prešov"
+Bratislava,marriott,,unknown,Sheraton Bratislava Hotel
+Banská Bystrica,mcdonalds_sk,,unknown,Banská Bystrica
+Bratislava,mcdonalds_sk,,unknown,"Bratislava, VIVO!"
+Bernolákovo,mcdonalds_sk,,unknown,D1 Triblavina
+Dolný Hričov,mcdonalds_sk,,unknown,D3 Dolný Hričov
+Dunajská Streda,mcdonalds_sk,,unknown,Dunajská Streda
+Košice,mcdonalds_sk,,unknown,"Košice, Popradská"
+Liptovský Mikuláš,mcdonalds_sk,,unknown,Liptovský Mikuláš
+Martin,mcdonalds_sk,,unknown,Martin
+Nitra,mcdonalds_sk,,unknown,"Nitra, Galéria Mlyny"
+Nové Zámky,mcdonalds_sk,,unknown,Nové Zámky
+Pezinok,mcdonalds_sk,,unknown,Pezinok
+Poprad - Spišská Sobota,mcdonalds_sk,,unknown,Poprad
+Prešov,mcdonalds_sk,,unknown,"Prešov, OC Novum"
+Prievidza,mcdonalds_sk,,unknown,Prievidza
+Beladice,mcdonalds_sk,,unknown,R1 Beladice
+Trenčín,mcdonalds_sk,,unknown,"Trenčín, OC Laugaricio"
+Trnava,mcdonalds_sk,,unknown,"Trnava, Nová Ulica"
+Žilina,mcdonalds_sk,,unknown,"Žilina, Mirage"
+Zvolen,mcdonalds_sk,,unknown,Zvolen
+BRATISLAVA,moneygram,,unknown,TESCO STORES SR A.S. - BRATISLAVA
+LONDON,moneygram,,unknown,WORLDPAY - SLOVAKIA
+TRENCIN - TREN.TURNA,moneygram,,unknown,TESCO STORES SR A.S. - TRENCIN - TREN.T
+POPRAD,moneygram,,unknown,TESCO STORES SR A.S. - POPRAD - POPRAD
+NOVE ZAMKY,moneygram,,unknown,TESCO STORES SR A.S. - NOVE ZAMKY - NOV
+LEVICE,moneygram,,unknown,TESCO STORES SR A.S. - LEVICE - LEVICE
+PODUNAJSKE BISKUPICE,moneygram,,unknown,TESCO STORES SR A.S. - PODUNAJSKE BISKU
+KOSICE,moneygram,,unknown,TESCO STORES SR A.S. - KOSICE - KOSICE
+PRESOV,moneygram,,unknown,TESCO STORES SR A.S. - PRESOV
+BANSKA BYSTRICA,moneygram,,unknown,TESCO STORES SR A.S. - BANSKA BYSTRICA
+TRNAVA,moneygram,,unknown,TESCO STORES SR A.S. - TRNAVA - TRNAVA
+FILAKOVO,moneygram,,unknown,TESCO STORES SR A.S. - FILAKOVO - FILAK
+MICHALOVCE,moneygram,,unknown,TESCO STORES SR A.S. - MICHALOVCE - MIC
+ZILINA,moneygram,,unknown,TESCO STORES SR A.S. - ZILINA - ZILINA
+GALANTA,moneygram,,unknown,TESCO STORES SR A.S. - GALANTA - GALANT
+DUNAJSKA STREDA,moneygram,,unknown,TESCO STORES SR A.S. - DUNAJSKA STREDA
+NITRA,moneygram,,unknown,TESCO STORES SR A.S. - NITRA
+SALA - VECA,moneygram,,unknown,TESCO STORES SR A.S. - SALA - VECA
+SENEC,moneygram,,unknown,TESCO STORES SR A.S. - SENEC - SENEC
+TREBISOV,moneygram,,unknown,TESCO STORES SR A.S. - TREBISOV - TREBI
+Bratislava,national,,unknown,Bratislava Airport
+Kosice,national,,unknown,Kosice International Airport
+Košice,newyorker,Moldavská cesta 32 04011 Košice,unknown,NEW YORKER | Attrium Optima
+Poprad,newyorker,Dlhé Hony 4588/1 05801 Poprad,unknown,NEW YORKER | MAX Poprad
+Trencin,newyorker,ul. Gen. M.R. Štefánika 426 91101 Trencin,unknown,NEW YORKER | ZOC Max
+Martin,newyorker,Pltníky 2 036 01 Martin-Záturčie,unknown,NEW YORKER | Tulip Center Zaturcie
+Banská Bystrica,newyorker,Na Troskach 25 97401 Banská Bystrica,unknown,NEW YORKER | Europa Shopping Centre
+Bratislava,newyorker,Ivanská cesta 16 82104 Bratislava,unknown,NEW YORKER | Avion Shopping Park
+Trnava,newyorker,Veterná 40 91701 Trnava,unknown,NEW YORKER | OC Galéria Trnava
+Žilina,newyorker,Sturovo Namestie 010 01 Žilina,unknown,NEW YORKER | AUPARK
+Dunajská Streda,newyorker,Galantska cesta 929 01 Dunajská Streda,unknown,NEW YORKER | ZOC MAX
+Lucenec,newyorker,Parny Mlyn 98401 Lucenec,unknown,NEW YORKER | City Center Lucenec
+Zvolen,newyorker,Obchodna 3 96001 Zvolen,unknown,NEW YORKER | Retail Park
+Nové Zámky,newyorker,Nitrianska cesta 109 940 02 Nové Zámky,unknown,NEW YORKER | Stop Shop
+Michalovce,newyorker,Andreja Sládkoviča 6110/5 071 01 Michalovce,unknown,NEW YORKER | OC Zemplín
+Žilina,newyorker,Prielohy 979/10 01001 Žilina,unknown,NEW YORKER | Chovateľské potreby (OC MAX)
+Presov,newyorker,Vihorlatská 2/A 080 01 Presov,unknown,NEW YORKER | ZOC MAX
+Nitra,newyorker,Bratislavska  5B 94901 Nitra,unknown,NEW YORKER | Obchodne Centrum Galeria
+Prievidza,newyorker,Nábrežná ulica 1913 / 5A 97101 Prievidza,unknown,NEW YORKER | OC Korzo
+Trencin,newyorker,Belà 7271 91321 Trencin,unknown,NEW YORKER | NC Laugaricio
+Nitra,newyorker,Stefanikova treida 61 94901 Nitra,unknown,NEW YORKER | Galeria Mlyny
+Košice,newyorker,Toryská ulica 5 040 11 Košice,unknown,NEW YORKER | OC Galéria
+Skalica,newyorker,Malleho 2611/ 55 90901 Skalica,unknown,NEW YORKER | MAX Skalica
+Bratislava,newyorker,Pribinova 8 81109 Bratislava,unknown,NEW YORKER | Eurovea Pribina Galleria
+Piešťany,newyorker,Nitrianska 7555/18 92101 Piešťany,unknown,NEW YORKER | AUPARK
+Malacky,newyorker,Pezinská 11/A 90101 Malacky,unknown,NEW YORKER | OC Malavia
+Liptovsky Mikulas,newyorker,Ul. 1. maja 45 03101 Liptovsky Mikulas,unknown,NEW YORKER | STOP SHOP
+Bratislava,newyorker,Metodova 6 821 08 Bratislava-Ružinov-Ružinov,unknown,NEW YORKER |  Centrál Bratislava
+Košice,newyorker,Namestie osvobeditelou 04001 Košice,unknown,NEW YORKER | AUPARK
+Levice,newyorker,Turecký rad 934 05 Levice,unknown,NEW YORKER | City Park Levice
+Spišská Nová Ves,newyorker,Mlynská 39 052 01 Spišská Nová Ves,unknown,NEW YORKER |  OC Madaras
+Presov,newyorker,Hviezdoslavov 08001 Presov,unknown,NEW YORKER | Novum Presov
+Bratislava,newyorker,Panónska cesta 25 85104 Bratislava,unknown,NEW YORKER | Bratislava Tesco Petrzalka
+Bratislava,newyorker,Mlynské nivy 5 82109 Bratislava,unknown,NEW YORKER | Stanica Nivy
+Prešov-Sekčov,newyorker,Armádneho Generála L.Svobodu 25 08001 Prešov-Sekčov,unknown,NEW YORKER | Eperia Shopping Mall
+Trnava,newyorker,ulice Kollarova 91701 Trnava,unknown,NEW YORKER | Trnava City Arena
+Poprad,newyorker,Námestie svätého Egídia 3290/124 058 01 Poprad,unknown,NEW YORKER
+Martin,newyorker,Námestie SNP 2 03601 Martin,unknown,NEW YORKER | OC Galéria Martin
+BRATISLAVA,nike,,unknown,Nike Well Collective - Eurovea City (Partnered)
+Bratislava,obi_eu,,unknown,OBI predajňa Bratislava Lamač
+Banská Bystrica,obi_eu,,unknown,OBI predajňa Banská Bystrica
+Žilina,obi_eu,,unknown,OBI predajňa Žilina
+Trnava,obi_eu,,unknown,OBI predajňa Trnava
+Trenčín,obi_eu,,unknown,OBI predajňa Trenčín
+Spišská Nová Ves,obi_eu,,unknown,OBI predajňa Spišská Nová Ves
+Prievizda,obi_eu,,unknown,OBI predajňa Prievidza
+Prešov,obi_eu,,unknown,OBI predajňa Prešov
+Poprad,obi_eu,,unknown,OBI predajňa Poprad
+Nitra-Chrenová,obi_eu,,unknown,OBI predajňa Nitra
+Michalovce,obi_eu,,unknown,OBI predajňa Michalovce
+Martin,obi_eu,,unknown,OBI predajňa Martin-Záturčie
+Liptovský Mikuláš,obi_eu,,unknown,OBI predajňa Liptovský Mikuláš
+Košice,obi_eu,,unknown,OBI predajňa Košice Trolejbusová
+Bratislava-Ružinov,obi_eu,,unknown,OBI predajňa Bratislava Ružinov
+unknown,obi_eu,,unknown,Všetky predajne OBI na Slovensku
+Košice,omv,,unknown,OMV
+Levice,omv,,unknown,OMV
+Bardejov,omv,,unknown,OMV
+Ivanka pri Dunaji,omv,,unknown,OMV
+Dolný Hričov,omv,,unknown,OMV
+Spišská Belá,omv,,unknown,OMV
+Trnava,omv,,unknown,OMV
+Liptovský Mikuláš-Demänová,omv,,unknown,OMV
+Blatné,omv,,unknown,OMV
+Pezinok,omv,,unknown,OMV
+Vlčkovce,omv,,unknown,OMV
+Bratislava - Jarovce,omv,,unknown,OMV
+Dolný Štál,omv,,unknown,OMV
+Bratislava,omv,,unknown,OMV
+Michalovce,omv,,unknown,OMV
+Košice - Barca,omv,,unknown,OMV
+Trenčín,omv,,unknown,OMV
+Martin,omv,,unknown,OMV
+Poprad,omv,,unknown,OMV
+Trebišov,omv,,unknown,OMV
+Košťany nad Turcom - Martin,omv,,unknown,OMV
+Spišská Nová Ves,omv,,unknown,OMV
+Nitra,omv,,unknown,OMV
+Senica,omv,,unknown,OMV
+Partizánske,omv,,unknown,OMV
+Veľký Meder,omv,,unknown,OMV
+Snina,omv,,unknown,OMV
+Prievidza,omv,,unknown,OMV
+Považská Bystrica,omv,,unknown,OMV
+Banská Bystrica,omv,,unknown,OMV
+Badín,omv,,unknown,OMV
+BRATISLAVA,omv,,unknown,OMV
+Ružomberok,omv,,unknown,OMV
+Dvory nad Žitavou,omv,,unknown,OMV
+Hlohovec,omv,,unknown,OMV
+Slovenské Nové Mesto,omv,,unknown,OMV
+Martin 1,omv,,unknown,OMV
+Hrádok,omv,,unknown,OMV
+Lučenec,omv,,unknown,OMV
+Žilina,omv,,unknown,OMV
+Volkovce časť Olichov,omv,,unknown,OMV
+Čadca,omv,,unknown,OMV
+Dolná Streda,omv,,unknown,OMV
+Hybe,omv,,unknown,OMV
+Vráble,omv,,unknown,OMV
+Nové Mesto nad Váhom,omv,,unknown,OMV
+Žiar nad Hronom,omv,,unknown,OMV
+Zeleneč pri Trnave,omv,,unknown,OMV
+Prešov,omv,,unknown,OMV
+Nové Zámky,omv,,unknown,OMV
+Malinovo,omv,,unknown,OMV
+Poprad - Matejovce,omv,,unknown,OMV
+Holice,omv,,unknown,OMV
+Blatná na Ostrove,omv,,unknown,OMV
+Tekovské Nemce,omv,,unknown,OMV
+Bratislava - Podunajské Biskupice,omv,,unknown,OMV
+Šaľa-Veča,omv,,unknown,OMV
+Ľubotice,omv,,unknown,OMV
+Šamorín,omv,,unknown,OMV
+Púchov,omv,,unknown,OMV
+Myjava,omv,,unknown,OMV
+Humenné,omv,,unknown,OMV
+Zvolen,omv,,unknown,OMV
+Dunajská Streda,omv,,unknown,OMV
+Topoľčany,omv,,unknown,OMV
+Čoltovo,omv,,unknown,OMV
+Dunajska Streda,renault,,unknown,Auto Ideal DS s. r. o.
+Bratislava,renault,,unknown,Auto Ideal s. r. o.
+Senica,renault,,unknown,"TT-CAR Senica, s.r.o."
+Trnava,renault,,unknown,"AUTOSTYL TT, a.s."
+Trenčianska Turná,renault,,unknown,"AUTOŠTÝL, a.s."
+Malacky,renault,,unknown,"IDM-CAR, spol. s r.o."
+Žilina,renault,,unknown,"AUTO MARKET, s.r.o."
+Bardejov,renault,,unknown,"ALD MOBIL BJ, s.r.o."
+Poprad,renault,,unknown,"EUROCAMP, s.r.o."
+Martin,renault,,unknown,AUTONA s.r.o.
+Nove Zamky,renault,,unknown,"MAGNUM Co. NZ, s.r.o."
+Prievidza,renault,,unknown,A.K.MOTOR s. r. o.
+Piešťany,renault,,unknown,ELA CAR s.r.o.
+Stara Lubovna,renault,,unknown,"ALD MOBIL, s.r.o."
+Nitra,renault,,unknown,"TT-CAR Nitra, s.r.o."
+Vráble,renault,,unknown,"MAGNUM Co., s.r.o."
+Liptovský Mikulás,renault,,unknown,"R-J.A. servis, s.r.o."
+Humenné,renault,,unknown,"CHETRA SK, s.r.o."
+Michalovce,renault,,unknown,"Winkler, s.r.o."
+Presov,renault,,unknown,"ALD MOBIL PO, s.r.o."
+Topoľčany,renault,,unknown,MOTORBOX s.r.o.
+Košice,renault,,unknown,Tempus - Car s.r.o.
+Banská Bystrica,renault,,unknown,"EUROMOTOR, spol. s r. o."
+Bratislava,samsonite_eu,,unknown,Samsonite
+Ličartovce,scania,,unknown,SCANIA SLOVAKIA s.r.o.
+Nové Zámky,scania,,unknown,SCANIA SLOVAKIA s.r.o. 
+Poprad,scania,,unknown,SCANIA SLOVAKIA s.r.o.
+Senec,scania,,unknown,SCANIA SLOVAKIA s.r.o.
+Žilina,scania,,unknown,SCANIA SLOVAKIA s.r.o.
+Budča,scania,,unknown,SCANIA SLOVAKIA s.r.o.
+Poprad,sixt,,unknown,Car Hire Poprad-Tatry Airport | SIXT rent a car
+Kosice,sixt,,unknown,Car Hire Kosice Airport | SIXT rent a car
+Bratislava,sixt,,unknown,Car Hire Bratislava/Aston Hotel | SIXT rent a car
+Trnava,subway,,unknown,Subway City Aréna
+Trencín,subway,,unknown,Subway Oc Laugarício
+Košice,subway,,unknown,Subway Aupark
+Nitra,subway,,unknown,Subway Oc Centro
+Bratislava,subway,,unknown,Subway Avion Shopping Park
+Trencin,superdry,,unknown,Superdry  Trencin
+Bratislava,superdry,,unknown,Superdry  Bratislava
+Banska Bystrica,superdry,,unknown,Superdry  Banska Bystrica
+851 01 Bratislava,timberland,,unknown,Timberland - Bratislava
+Bratislava,timberland,,unknown,Timberland Aupark
+Nitra,tommy_hilfiger,,unknown,Tommy Hilfiger
+Kosice,tommy_hilfiger,,unknown,Tommy Hilfiger
+Banská Bystrica,tommy_hilfiger,,unknown,Tommy Hilfiger
+TRENCIN,totalenergies,,unknown,TRENCIN
+RUZOMBEROK,totalenergies,,unknown,RUZOMBEROK
+SENEC,totalenergies,,unknown,SENEC
+MALACKY,totalenergies,,unknown,MALACKY
+RUZOMBEROK - CERNOVA,totalenergies,,unknown,VOMS RUZOMBEROK
+TRNAVA,totalenergies,,unknown,TRNAVA MODRANKA 2-2
+STUPAVA,totalenergies,,unknown,STUPAVA
+ZILINA,totalenergies,,unknown,ZILINA
+BRATISLAVA-STARA VAJNORSKA,totalenergies,,unknown,BRATISLAVA-STARA VAJNORSKA
+SAHY,totalenergies,,unknown,SAHY
+MILHOST,totalenergies,,unknown,MILHOST
+ZVOLEN,totalenergies,,unknown,ZVOLEN
+Bánovce nad Bebravou,totalenergies,,unknown,Bánovce nad Bebravou 2
+Banská Bystrica,totalenergies,,unknown,Banská Bystrica 6
+Bernolákovo,totalenergies,,unknown,Bernolákovo
+Blatná na Ostrove,totalenergies,,unknown,Blatná na Ostrove
+Bošany,totalenergies,,unknown,Bošany
+Bratislava,totalenergies,,unknown,Bratislava 27
+Brezová pod Bradlom,totalenergies,,unknown,Brezová pod Bradlom
+Budča,totalenergies,,unknown,Budča 2
+Demandice,totalenergies,,unknown,Demandice
+Devínska Nová Ves,totalenergies,,unknown,Devínska Nová Ves
+Dubnica nad Váhom,totalenergies,,unknown,Dubnica nad Váhom
+Dudince,totalenergies,,unknown,Dudince
+Dunajská Streda,totalenergies,,unknown,Dunajská Streda 4
+Gabčíkovo,totalenergies,,unknown,Gabčíkovo
+Hanušovce nad Topľou,totalenergies,,unknown,Hanušovce nad Topľou
+Hlohovec - Šulekovo,totalenergies,,unknown,Hlohovec - Šulekovo
+Hnúšťa,totalenergies,,unknown,Hnúšťa
+Holíč,totalenergies,,unknown,Holíč 2
+Humenné,totalenergies,,unknown,Humenné 2
+Ilava,totalenergies,,unknown,Ilava
+Ivachnová,totalenergies,,unknown,Ivachnová
+Jablonov nad Turňou,totalenergies,,unknown,Jablonov nad Turňou
+Kalná nad Hronom,totalenergies,,unknown,Kalná nad Hronom
+Kolárovo,totalenergies,,unknown,Kolárovo
+Komárno,totalenergies,,unknown,Komárno 2
+Košice,totalenergies,,unknown,Košice 16
+Krompachy,totalenergies,,unknown,Krompachy
+Krupina,totalenergies,,unknown,Krupina
+Kúty,totalenergies,,unknown,Kúty
+Lednické Rovne,totalenergies,,unknown,Lednické Rovne
+Levice,totalenergies,,unknown,Levice 3
+Levoča,totalenergies,,unknown,Levoča
+Liptovský Hrádok,totalenergies,,unknown,Liptovský Hrádok 2
+Liptovský Mikuláš,totalenergies,,unknown,Liptovský Mikuláš 2
+Lučenec,totalenergies,,unknown,Lučenec
+Lučenec časť Opatová,totalenergies,,unknown,Lučenec časť Opatová
+Madunice,totalenergies,,unknown,Madunice
+Martin,totalenergies,,unknown,Martin 3
+Medveďov,totalenergies,,unknown,Medveďov
+Medzilaborce,totalenergies,,unknown,Medzilaborce
+Michalovce,totalenergies,,unknown,Michalovce 3
+Modra,totalenergies,,unknown,Modra
+Moldava nad Bodvou,totalenergies,,unknown,Moldava nad Bodvou
+Myjava,totalenergies,,unknown,Myjava
+Námestovo,totalenergies,,unknown,Námestovo
+Nitra,totalenergies,,unknown,Nitra 4
+Nižná nad Oravou,totalenergies,,unknown,Nižná nad Oravou
+Nová Baňa,totalenergies,,unknown,Nová Baňa
+Nováky,totalenergies,,unknown,Nováky
+Nové Zámky,totalenergies,,unknown,Nové Zámky 3
+Partizánske,totalenergies,,unknown,Partizánske
+Pezinok,totalenergies,,unknown,Pezinok 2
+Piešťany,totalenergies,,unknown,Piešťany 3
+Poltár,totalenergies,,unknown,Poltár
+Poprad,totalenergies,,unknown,Poprad 1
+Poprad - západ,totalenergies,,unknown,Poprad - západ
+Povazská Bystrica,totalenergies,,unknown,Považská Bystrica 2
+Považská Bystrica - Orlové,totalenergies,,unknown,Považská Bystrica - Orlové
+Prešov,totalenergies,,unknown,Prešov 3
+Prievidza,totalenergies,,unknown,Prievidza 2
+Púchov,totalenergies,,unknown,Púchov 1
+Radoľa,totalenergies,,unknown,Radoľa
+Rajec,totalenergies,,unknown,Rajec
+Raslavice,totalenergies,,unknown,Raslavice
+Revúca,totalenergies,,unknown,Revúca
+Rimavská Sobota,totalenergies,,unknown,Rimavská Sobota 2
+Rožňava,totalenergies,,unknown,Rožňava 2
+Ružomberok,totalenergies,,unknown,Ružomberok
+Sabinov,totalenergies,,unknown,Sabinov
+Šahy,totalenergies,,unknown,Šahy
+Šaľa,totalenergies,,unknown,Šaľa 2
+Šamorín,totalenergies,,unknown,Šamorín
+Sečovce,totalenergies,,unknown,Sečovce
+Sekule I.,totalenergies,,unknown,Sekule I.
+Sekule II.,totalenergies,,unknown,Sekule II.
+Senec,totalenergies,,unknown,Senec 3
+Senica,totalenergies,,unknown,Senica
+Sereď,totalenergies,,unknown,Sereď
+Skalica,totalenergies,,unknown,Skalica
+Sládkovičovo,totalenergies,,unknown,Sládkovičovo 1
+Sladkovičovo,totalenergies,,unknown,Sladkovičovo 2
+Slovenské Ďarmoty,totalenergies,,unknown,Slovenské Ďarmoty
+Sobrance,totalenergies,,unknown,Sobrance
+Spišská Nová Ves,totalenergies,,unknown,Spišská Nová Ves 2
+Stará Ľubovňa,totalenergies,,unknown,Stará Ľubovňa
+Štrba,totalenergies,,unknown,Štrba
+Stropkov,totalenergies,,unknown,Stropkov
+Štúrovo,totalenergies,,unknown,Štúrovo 2
+Šurany,totalenergies,,unknown,Šurany
+Sverepec,totalenergies,,unknown,Sverepec
+Svidník,totalenergies,,unknown,Svidník
+Svit,totalenergies,,unknown,Svit
+Svrčinovec,totalenergies,,unknown,Svrčinovec
+Terchová,totalenergies,,unknown,Terchová
+Topoľčany,totalenergies,,unknown,Topoľčany
+Tornaľa,totalenergies,,unknown,Tornaľa
+Trebišov,totalenergies,,unknown,Trebišov
+Trenčianska Turná,totalenergies,,unknown,Trenčianska Turná
+Trenčianske Teplice,totalenergies,,unknown,Trenčianske Teplice
+Trenčín,totalenergies,,unknown,Trenčín 4
+Trnava,totalenergies,,unknown,Trnava 4
+Trstená,totalenergies,,unknown,Trstená
+Turčianske Teplice,totalenergies,,unknown,Turčianske Teplice
+Turzovka,totalenergies,,unknown,Turzovka
+Veľké Kapušany,totalenergies,,unknown,Veľké Kapušany
+Veľký Krtíš,totalenergies,,unknown,Veľký Krtíš 2
+Veľký Meder,totalenergies,,unknown,Veľký Meder
+Veľký Šariš,totalenergies,,unknown,Veľký Šariš
+Vráble,totalenergies,,unknown,Vráble
+Vranov nad Topľou,totalenergies,,unknown,Vranov nad Topľou
+Vrbové,totalenergies,,unknown,Vrbové
+Vysoké Tatry,totalenergies,,unknown,Vysoké Tatry
+Záhorská Bystrica,totalenergies,,unknown,Záhorská Bystrica
+Zakamenné,totalenergies,,unknown,Zakamenné
+Ždiar,totalenergies,,unknown,Ždiar
+Zeleneč I.,totalenergies,,unknown,Zeleneč I.
+Želiezovce,totalenergies,,unknown,Želiezovce
+Žiar nad Hronom,totalenergies,,unknown,Žiar nad Hronom 3
+Žilina,totalenergies,,unknown,Žilina 6
+Zlaté Moravce,totalenergies,,unknown,Zlaté Moravce 2
+Zvolen,totalenergies,,unknown,Zvolen 5
+PEZINOK,united_colors_of_benetton,,unknown,Benetton Pezinok
+NITRA,united_colors_of_benetton,,unknown,Benetton Nitra
+KOSICE,united_colors_of_benetton,,unknown,Benetton Kosice
+ZILINA,united_colors_of_benetton,,unknown,Benetton Zilina
+BANSKA BYSTRICA,united_colors_of_benetton,,unknown,Benetton Banska Bystrica
+PIESTANY,united_colors_of_benetton,,unknown,Benetton Piestany
+BRATISLAVA,visa,,unknown,unknown
+MEDVEDOV,visa,,unknown,unknown
+GABCIKOVO,visa,,unknown,unknown
+VEĽKY MEDER,visa,,unknown,unknown
+VELKY MEDER,visa,,unknown,unknown
+KOMARNO,visa,,unknown,unknown
+PATINCE,visa,,unknown,unknown
+HAMULIAKOVO,visa,,unknown,unknown
+SAMORIN,visa,,unknown,unknown
+ŠAMORIN,visa,,unknown,unknown
+KAMENICNA,visa,,unknown,unknown
+DRAZOVCE,visa,,unknown,unknown
+BRATISLAVA - PETRZALKA,visa,,unknown,unknown
+DUNAJSKA LUŽNA,visa,,unknown,unknown
+MARCELOVA,visa,,unknown,unknown
+BRATISLAVA - NOVEMESTO,visa,,unknown,unknown
+DUNAJSKA LUZNA,visa,,unknown,unknown
+ROVINKA,visa,,unknown,unknown
+HVIEZDOSLAVOV,visa,,unknown,unknown
+DUNAJSKA STREDA,visa,,unknown,unknown
+BRATISLAVA - KARLOVAVES,visa,,unknown,unknown
+DEVIN,visa,,unknown,unknown
+BRATISLAVA - STAREMESTO,visa,,unknown,unknown
+JAROVCE,visa,,unknown,unknown
+BRATISLAVA - DUBRAVKA,visa,,unknown,unknown
+BRATISLAVA - RUZINOV,visa,,unknown,unknown
+BRATISLAVA - LAMAC,visa,,unknown,unknown
+ŠTVRTOK NA OSTROVĚ,visa,,unknown,unknown
+KOLAROVO,visa,,unknown,unknown
+BRATISLAVA - DEVINSKA NOVA VES,visa,,unknown,unknown
+HURBANOVO,visa,,unknown,unknown
+IMEL,visa,,unknown,unknown
+ZLATE KLAŠY,visa,,unknown,unknown
+JAHODNA,visa,,unknown,unknown
+IVANKA PRI DUNAJI,visa,,unknown,unknown
+ZAHORKSA BYSTRICA,visa,,unknown,unknown
+MUZLA,visa,,unknown,unknown
+BRATISLAVA - RACA,visa,,unknown,unknown
+ZEMNE,visa,,unknown,unknown
+STUPAVA,visa,,unknown,unknown
+BERNOLAKOVO,visa,,unknown,unknown
+NOVA DEDINKA,visa,,unknown,unknown
+STUROVO,visa,,unknown,unknown
+ŠTUROVO,visa,,unknown,unknown
+STREKOV,visa,,unknown,unknown
+VYSOKA PRI MORAVE,visa,,unknown,unknown
+NOVE ZAMKY,visa,,unknown,unknown
+ANDOVCE,visa,,unknown,unknown
+SENEC,visa,,unknown,unknown
+VELKE ULANY,visa,,unknown,unknown
+HORNE SALIBY,visa,,unknown,unknown
+LOZORNO,visa,,unknown,unknown
+PEZINOK,visa,,unknown,unknown
+DVORY NAD ZITAVOU,visa,,unknown,unknown
+LAB,visa,,unknown,unknown
+KAMENIN,visa,,unknown,unknown
+SELICE,visa,,unknown,unknown
+MATUSKOVO,visa,,unknown,unknown
+SLADKOVICOVO,visa,,unknown,unknown
+VELKY GROB,visa,,unknown,unknown
+SALA,visa,,unknown,unknown
+GALANTA,visa,,unknown,unknown
+BINA,visa,,unknown,unknown
+TRNOVEC NAD VAHOM,visa,,unknown,unknown
+ŠAĽA,visa,,unknown,unknown
+VELKE LUDINCE,visa,,unknown,unknown
+SEMEROVO,visa,,unknown,unknown
+TVRDOSOVCE,visa,,unknown,unknown
+KRALOVA NAD VAHOM,visa,,unknown,unknown
+MODRA,visa,,unknown,unknown
+KAPLNA,visa,,unknown,unknown
+KOLTA,visa,,unknown,unknown
+SURANY,visa,,unknown,unknown
+VELKA MACA,visa,,unknown,unknown
+FARNA,visa,,unknown,unknown
+RASTISLAVICE,visa,,unknown,unknown
+MALACKY,visa,,unknown,unknown
+CIFER,visa,,unknown,unknown
+POHRONSKY RUSKOV,visa,,unknown,unknown
+BUDMERICE,visa,,unknown,unknown
+PODHAJSKA,visa,,unknown,unknown
+SOPORNA,visa,,unknown,unknown
+OPOJ,visa,,unknown,unknown
+SEREĎ,visa,,unknown,unknown
+SERED,visa,,unknown,unknown
+MOCENOK,visa,,unknown,unknown
+ROHOZNIK,visa,,unknown,unknown
+PATA,visa,,unknown,unknown
+VELKY KYR,visa,,unknown,unknown
+TRNAVA,visa,,unknown,unknown
+MANA,visa,,unknown,unknown
+TRAVNICA,visa,,unknown,unknown
+ZELIEZOVCE,visa,,unknown,unknown
+POVAŽSKA BYSTRICA,visa,,unknown,unknown
+BANSKA BYSTRICA,visa,,unknown,unknown
+TEKOVSKE LUZANY,visa,,unknown,unknown
+VELKY CETIN,visa,,unknown,unknown
+VELKE ZALUZIE,visa,,unknown,unknown
+NITRA,visa,,unknown,unknown
+DVORNIKY,visa,,unknown,unknown
+LEHOTA,visa,,unknown,unknown
+ŠPAČINCE,visa,,unknown,unknown
+VRABLE,visa,,unknown,unknown
+SMOLENICE,visa,,unknown,unknown
+IVANKA PRI NITRE,visa,,unknown,unknown
+SAHY,visa,,unknown,unknown
+HLOHOVEC,visa,,unknown,unknown
+NITRIANSKE HRNČIAROVCE,visa,,unknown,unknown
+NITRIANSKE HRNCIAROVCE,visa,,unknown,unknown
+LEOPOLDOV,visa,,unknown,unknown
+ČAKAJOVCE,visa,,unknown,unknown
+POHRANICE,visa,,unknown,unknown
+LEVICE,visa,,unknown,unknown
+KUTY,visa,,unknown,unknown
+BRODSKE,visa,,unknown,unknown
+SASTIN - STRAZE,visa,,unknown,unknown
+STARY TEKOV,visa,,unknown,unknown
+NOVE SADY,visa,,unknown,unknown
+DUDINCE,visa,,unknown,unknown
+VYCAPY - OPATOVCE,visa,,unknown,unknown
+TLMACE,visa,,unknown,unknown
+TLMAČE,visa,,unknown,unknown
+SLAZANY,visa,,unknown,unknown
+ZLATE MORAVCE,visa,,unknown,unknown
+SENICA,visa,,unknown,unknown
+SENICA NAD MYJAVOU,visa,,unknown,unknown
+HRONSKY BEŇADIK,visa,,unknown,unknown
+PIESTANY,visa,,unknown,unknown
+BREZOVA POD BRADLOM,visa,,unknown,unknown
+PIEŠŤANY,visa,,unknown,unknown
+VRBOVE,visa,,unknown,unknown
+NITRIANSKA BLATNICA,visa,,unknown,unknown
+HOLIC,visa,,unknown,unknown
+NOVA BAŇA,visa,,unknown,unknown
+TOPOLCANY,visa,,unknown,unknown
+TOPOĽČANY,visa,,unknown,unknown
+NOVE MESTO NAD VAHOM,visa,,unknown,unknown
+VELKY KRTIS,visa,,unknown,unknown
+NOVA BANA,visa,,unknown,unknown
+VEĽKY KRTIŠ,visa,,unknown,unknown
+SKALICA,visa,,unknown,unknown
+MYJAVA,visa,,unknown,unknown
+MODRY KAMEŇ,visa,,unknown,unknown
+KRUPINA,visa,,unknown,unknown
+STARA TURA,visa,,unknown,unknown
+ZARNOVICA,visa,,unknown,unknown
+BANSKA STIAVNICA,visa,,unknown,unknown
+BANSKA ŠTIAVNICA,visa,,unknown,unknown
+ŠIATORSKA BUKOVINKA,visa,,unknown,unknown
+PARTIZANSKE,visa,,unknown,unknown
+VYHNE,visa,,unknown,unknown
+SIATORSKA BUKOVINKA,visa,,unknown,unknown
+BANOVCE NAD BEBRAVOU,visa,,unknown,unknown
+DOLNE VESTENICE,visa,,unknown,unknown
+FILAKOVO,visa,,unknown,unknown
+FIĽAKOVO,visa,,unknown,unknown
+HALIČ,visa,,unknown,unknown
+LUČENEC,visa,,unknown,unknown
+LUCENEC,visa,,unknown,unknown
+ŽIAR NAD HRONOM,visa,,unknown,unknown
+ZIAR NAD HRONOM,visa,,unknown,unknown
+TRENČIN,visa,,unknown,unknown
+NOVAKY,visa,,unknown,unknown
+TRENCIN,visa,,unknown,unknown
+LEHOTA POD VTACNIKOM,visa,,unknown,unknown
+ZVOLEN,visa,,unknown,unknown
+NITRIANSKE RUDNO,visa,,unknown,unknown
+BOJNICE,visa,,unknown,unknown
+PRIEVIDZA,visa,,unknown,unknown
+HANDLOVA,visa,,unknown,unknown
+KANIANKA,visa,,unknown,unknown
+TRENCIANSKE TEPLICE,visa,,unknown,unknown
+DETVA,visa,,unknown,unknown
+POLTAR,visa,,unknown,unknown
+KREMNICA,visa,,unknown,unknown
+NOVA DUBNICA,visa,,unknown,unknown
+RIMAVSKA SOBOTA,visa,,unknown,unknown
+DUBNICA NAD VAHOM,visa,,unknown,unknown
+HRINOVA,visa,,unknown,unknown
+ABOVCE,visa,,unknown,unknown
+NITRIANSKE PRAVNO,visa,,unknown,unknown
+ILAVA,visa,,unknown,unknown
+SELCE,visa,,unknown,unknown
+TURCIANSKE TEPLICE,visa,,unknown,unknown
+TORNALA,visa,,unknown,unknown
+SLOVENSKA LUPCA,visa,,unknown,unknown
+LEDNICKE ROVNE,visa,,unknown,unknown
+BELUSA,visa,,unknown,unknown
+HNUSTA,visa,,unknown,unknown
+MEDZIBROD,visa,,unknown,unknown
+BRUSNO,visa,,unknown,unknown
+PUCHOV,visa,,unknown,unknown
+POVAZSKA BYSTRICA,visa,,unknown,unknown
+DONOVALY,visa,,unknown,unknown
+DONOVAL,visa,,unknown,unknown
+PREDAJNA,visa,,unknown,unknown
+TISOVEC,visa,,unknown,unknown
+HRONEC,visa,,unknown,unknown
+HORNA LEHOTA,visa,,unknown,unknown
+BREZNO,visa,,unknown,unknown
+RAJEC,visa,,unknown,unknown
+POHRONSKA POLHORA,visa,,unknown,unknown
+MARTIN,visa,,unknown,unknown
+REVUCA,visa,,unknown,unknown
+RAJECKE TEPLICE,visa,,unknown,unknown
+PAPRADNO,visa,,unknown,unknown
+VRUTKY,visa,,unknown,unknown
+BYTCA,visa,,unknown,unknown
+SUCANY,visa,,unknown,unknown
+ŽILINA,visa,,unknown,unknown
+TURANY,visa,,unknown,unknown
+ZILINA,visa,,unknown,unknown
+ZAVADKA NAD HRONOM,visa,,unknown,unknown
+ROZNAVA,visa,,unknown,unknown
+ROŽŇAVA,visa,,unknown,unknown
+STREČNO,visa,,unknown,unknown
+DEMANOVSKA DOLINA,visa,,unknown,unknown
+GBELANY,visa,,unknown,unknown
+RUZOMBEROK,visa,,unknown,unknown
+RUŽOMBEROK,visa,,unknown,unknown
+LIPTOVSKE SLIAČE,visa,,unknown,unknown
+POHORELA,visa,,unknown,unknown
+SUMIAC,visa,,unknown,unknown
+TURNA NAD BODVOU,visa,,unknown,unknown
+RUDINA,visa,,unknown,unknown
+LIPTOVSKY MIKULAS,visa,,unknown,unknown
+BESENOVA,visa,,unknown,unknown
+BEŠEŇOVA,visa,,unknown,unknown
+KYSUCKE NOVE MESTO,visa,,unknown,unknown
+DEMANOVA,visa,,unknown,unknown
+MOLDAVA NAD BODVOU,visa,,unknown,unknown
+LUČKY,visa,,unknown,unknown
+LIPTOVSKY HRADOK,visa,,unknown,unknown
+LIPTOVSKY JAN,visa,,unknown,unknown
+TERCHOVA,visa,,unknown,unknown
+LIPTOVSKY MIKULAŠ,visa,,unknown,unknown
+SENA,visa,,unknown,unknown
+KYSUCKY LIESKOVEC,visa,,unknown,unknown
+LIPTOVSKA SIELNICA,visa,,unknown,unknown
+TURZOVKA,visa,,unknown,unknown
+DOLNY KUBIN,visa,,unknown,unknown
+ZAZRIVA,visa,,unknown,unknown
+KRASNO NAD KYSUCOU,visa,,unknown,unknown
+CANA,visa,,unknown,unknown
+RAKOVA,visa,,unknown,unknown
+ORAVSKY PODZAMOK,visa,,unknown,unknown
+CADCA,visa,,unknown,unknown
+ČADCA,visa,,unknown,unknown
+STRBA,visa,,unknown,unknown
+KOSICE,visa,,unknown,unknown
+KRAĽOVKSY CHLMEC,visa,,unknown,unknown
+OŠČADNICA,visa,,unknown,unknown
+KRALOVSKY CHLMEC,visa,,unknown,unknown
+ŠTRBA,visa,,unknown,unknown
+KOŠICE,visa,,unknown,unknown
+HRABUŠICE,visa,,unknown,unknown
+KOSICE - SIDLISKO KVP,visa,,unknown,unknown
+SVRCINOVEC,visa,,unknown,unknown
+SPIŠSKA NOVA VES,visa,,unknown,unknown
+SVIT,visa,,unknown,unknown
+SPISSKA NOVA VES,visa,,unknown,unknown
+SMIZANY,visa,,unknown,unknown
+POPRAD,visa,,unknown,unknown
+ŠTRBSKE PLESO,visa,,unknown,unknown
+KOSICE - STAREMESTO,visa,,unknown,unknown
+STRBSKE PLESO,visa,,unknown,unknown
+HABOVKA,visa,,unknown,unknown
+GELNICA,visa,,unknown,unknown
+KOSICE - DZUNGLA,visa,,unknown,unknown
+NIZNA,visa,,unknown,unknown
+SKALITE,visa,,unknown,unknown
+ZAKAMENNE,visa,,unknown,unknown
+TVRDOSIN,visa,,unknown,unknown
+TREBISOV,visa,,unknown,unknown
+KROMPACHY,visa,,unknown,unknown
+TREBIŠOV,visa,,unknown,unknown
+VYSOKE TATRY,visa,,unknown,unknown
+NOVOŤ,visa,,unknown,unknown
+LEVOCA,visa,,unknown,unknown
+LIPANY,visa,,unknown,unknown
+LEVOČA,visa,,unknown,unknown
+TRSTENA,visa,,unknown,unknown
+TATRANSKA KOTLINA,visa,,unknown,unknown
+SPISSKE PODHRADIE,visa,,unknown,unknown
+NAMESTOVO,visa,,unknown,unknown
+VELKE KAPUSANY,visa,,unknown,unknown
+SECOVCE,visa,,unknown,unknown
+TATRANSKA LOMNICA,visa,,unknown,unknown
+LIESEK,visa,,unknown,unknown
+LUBICA,visa,,unknown,unknown
+KEZMAROK,visa,,unknown,unknown
+VITANOVA,visa,,unknown,unknown
+KEŽMAROK,visa,,unknown,unknown
+SPISSKA BELA,visa,,unknown,unknown
+ŽDIAR,visa,,unknown,unknown
+MICHALOVCE,visa,,unknown,unknown
+PRESOV,visa,,unknown,unknown
+PREŠOV,visa,,unknown,unknown
+BARDEJOV,visa,,unknown,unknown
+VYŠNE NEMECKE,visa,,unknown,unknown
+LUBOTICE,visa,,unknown,unknown
+PODOLINEC,visa,,unknown,unknown
+VRANOV NAD TOPLOU,visa,,unknown,unknown
+SABINOV,visa,,unknown,unknown
+SOBRANCE,visa,,unknown,unknown
+STRAZSKE,visa,,unknown,unknown
+KALUŽA,visa,,unknown,unknown
+STARA LUBOVNA,visa,,unknown,unknown
+HANUSOVCE NAD TOPLOU,visa,,unknown,unknown
+HUMENNE,visa,,unknown,unknown
+LESNICA,visa,,unknown,unknown
+RASLAVICE,visa,,unknown,unknown
+GIRALTOVCE,visa,,unknown,unknown
+SNINA,visa,,unknown,unknown
+STROPKOV,visa,,unknown,unknown
+SVIDNIK,visa,,unknown,unknown
+MEDZILABORCE,visa,,unknown,unknown

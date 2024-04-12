@@ -1,0 +1,31 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+7921,abc_pl,abc,,Stefanowo,wielkopolskie,,PL,,,,abc,Q11683985
+7916,abc_pl,abc,,Stefanowo,wielkopolskie,,PL,,,,abc,Q11683985
+14700,abc_pl,abc,,Nowa Wieś Zbąska,wielkopolskie,,PL,,,,abc,Q11683985
+11748,groszek_pl,Groszek,,Zbąszyń,wielkopolskie,,PL,,,,Groszek,Q9280965
+11931,groszek_pl,Groszek,,Strzyżewo,wielkopolskie,,PL,,,,Groszek,Q9280965
+11933,groszek_pl,Groszek,,Stefanowice,wielkopolskie,,PL,,,,Groszek,Q9280965
+11937,groszek_pl,Groszek,,Zbąszyń,wielkopolskie,,PL,,,,Groszek,Q9280965
+11942,groszek_pl,Groszek,,Nądnia,wielkopolskie,,PL,,,,Groszek,Q9280965
+11943,groszek_pl,Groszek,,Nowy Dwór,wielkopolskie,,PL,,,,Groszek,Q9280965
+11954,groszek_pl,Groszek,,Łomnica,wielkopolskie,,PL,,,,Groszek,Q9280965
+14091,groszek_pl,Groszek,,Zbąszyń,wielkopolskie,,PL,,,,Groszek,Q9280965
+LQM01M,paczkomat_inpost_pl,przy sklepie,,Łomnica,wielkopolskie,,PL,,https://inpost.pl/paczkomat-lomnica-lqm01m-lomnica-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+NAN01M,paczkomat_inpost_pl,przy auto komisie Główna 2,,Nądnia,wielkopolskie,,PL,,https://inpost.pl/paczkomat-nadnia-nan01m-glowna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+NAN02M,paczkomat_inpost_pl,na terenie prywatnej posesji,,Nądnia,wielkopolskie,,PL,,https://inpost.pl/paczkomat-nadnia-nan02m-kowalska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-ZBZ1,paczkomat_inpost_pl,SALON ESOTIQ,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-pop-zbz1-senatorska-paczkomaty-wielkopolskie,Mo-Fr 09:00-17:00; Sa 09:00-13:00,Paczkomat,Q110970254
+POP-ZBZ4,paczkomat_inpost_pl,FURGONETKA DREWLAND,,Zbąszyń ,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-pop-zbz4-warszawska-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00; Sa 09:00-13:00,Paczkomat,Q110970254
+PYP01M,paczkomat_inpost_pl,Market Dino,,Przyprostynia,wielkopolskie,,PL,,https://inpost.pl/paczkomat-przyprostynia-pyp01m-prandoty-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SRZZ01M,paczkomat_inpost_pl,przy sklepie,,Strzyżewo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-strzyzewo-srzz01m-trzcielska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO01APP,paczkomat_inpost_pl,przy sklepie,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo01app-chrosnica-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO01M,paczkomat_inpost_pl,Na parkingu obok sklepu daWINci i Stihl,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo01m-poznanska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO02M,paczkomat_inpost_pl,na pakingu,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo02m-zygmunta-i-starego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO02N,paczkomat_inpost_pl,Przy sklepie Intermarche,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo02n-na-kepie-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO03M,paczkomat_inpost_pl,obok apteki,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo03m-mostowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO03N,paczkomat_inpost_pl,Przy Urzędzie Gminy,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo03n-senatorska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO04M,paczkomat_inpost_pl,na parkingu,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo04m-pilkarska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO05M,paczkomat_inpost_pl,wzdłuż bocznej ściany delikatesów,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo05m-mostowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZBO06M,paczkomat_inpost_pl,na parkingu przed marketem,,Zbąszyń,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zbaszyn-zbo06m-wypoczynkowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+290217,poczta_polska_pl,AP Łomnica,,Łomnica,WIELKOPOLSKIE,,PL,+48 68 386 71 27,,,Poczta Polska,Q168833
+276961,poczta_polska_pl,UP Zbąszyń,,Zbąszyń,WIELKOPOLSKIE,,PL,+48 885 870 332,,,Poczta Polska,Q168833
+2076ab15b1b5cae01dab91d7a4699672,western_union,BS SIEDLEC F ZBASZYN,,Zbaszyn,WIELKOPOLSKIE,,PL,+48 801 402 404,https://location.westernunion.com/pl/wielkopolskie/zbaszyn/2076ab15b1b5cae01dab91d7a4699672,Mo-Fr 09:00-17:00,Western Union,Q861042

@@ -1,0 +1,511 @@
+City,Place Name,Zipcode,Name
+Segrate,anytime_fitness,,unknown,Anytime Fitness
+Legnano,anytime_fitness,,unknown,Anytime Fitness
+Milano,anytime_fitness,,unknown,Anytime Fitness
+Rho,anytime_fitness,,unknown,Anytime Fitness
+Cologno Monzese,anytime_fitness,,unknown,Anytime Fitness
+Milano,arcaplanet_it,,unknown,Arcaplanet
+San Giuliano Milanese,arcaplanet_it,,unknown,Arcaplanet
+Cerro Maggiore,arcaplanet_it,,unknown,Arcaplanet
+San Vittore Olona,arcaplanet_it,,unknown,Arcaplanet
+Legnano,arcaplanet_it,,unknown,Arcaplanet
+Corsico,arcaplanet_it,,unknown,Arcaplanet
+Magenta,arcaplanet_it,,unknown,Arcaplanet
+Rozzano,arcaplanet_it,,unknown,Arcaplanet
+Pessano con Bornago,arcaplanet_it,,unknown,Arcaplanet
+Trezzano sul naviglio,arcaplanet_it,,unknown,Arcaplanet
+Gorgonzola,arcaplanet_it,,unknown,Arcaplanet
+Buccinasco,arcaplanet_it,,unknown,Arcaplanet
+Abbiategrasso,arcaplanet_it,,unknown,Arcaplanet
+Pero,arcaplanet_it,,unknown,Arcaplanet
+Bareggio,arcaplanet_it,,unknown,Arcaplanet
+Cernsco sul Naviglio,arcaplanet_it,,unknown,Arcaplanet
+Trezzo sull&apos;Adda,arcaplanet_it,,unknown,Arcaplanet
+Pantigliate,arcaplanet_it,,unknown,Arcaplanet
+Paderno Dugnano,arcaplanet_it,,unknown,Arcaplanet
+Sesto S. Giovanni,arcaplanet_it,,unknown,Arcaplanet
+Cambiago,arcaplanet_it,,unknown,Arcaplanet
+Vimodrone,arcaplanet_it,,unknown,Arcaplanet
+Bollate,arcaplanet_it,,unknown,Arcaplanet
+Garbagnate Milanese,arcaplanet_it,,unknown,Arcaplanet
+Rho,arcaplanet_it,,unknown,Arcaplanet
+Opera,arcaplanet_it,,unknown,Arcaplanet
+Busto Garolfo,arcaplanet_it,,unknown,Arcaplanet
+MILANO,aveda,,unknown,NORINO EXTENSION MILANO
+MILANO,bmw_group,,unknown,AUTOTORINO SPA
+San Donato Milanese,bmw_group,,unknown,BM BymyCar Milano S.r.l. BYmyCAR Milano
+MAGENTA,bmw_group,,unknown,PIZZALA SRL
+POGLIANO MILANESE,bmw_group,,unknown,DUE RUOTE RHO di Vegetti Paolo
+CORSICO,bmw_group,,unknown,AUTOTORINO SPA
+Milano,bmw_group,,unknown,NONSOLOMOTO SAS di Bonsignori Massimo & C.
+Cologno Monzese,brico_io_it,,unknown,COLOGNO MONZESE
+Milano,brico_io_it,,unknown,MILANO VIALE MONZA
+Opera,brico_io_it,,unknown,OPERA
+PADERNO DUGNANO,carrefour_it,,unknown,Carrefour Iper STRADA STATALE 35 DEI GIOVI - PADERNO DUGNANO (MI)
+MILANO,carrefour_it,,unknown,Carrefour Express VIA CADORE 24 - MILANO (MI)
+SAN ZENONE AL LAMBRO,carrefour_it,,unknown,Carrefour Express A1 ROMA MILANO - SAN ZENONE AL LAMBRO (MI)
+SEGRATE,carrefour_it,,unknown,Carrefour Market CC S.FELICE - SEGRATE (MI)
+CORMANO,carrefour_it,,unknown,Carrefour Express A4 MILANO - VENEZIA KM8 - CORMANO (MI)
+BINASCO,carrefour_it,,unknown,Carrefour Express Via Turati 41 - BINASCO (MI)
+PIEVE EMANUELE,carrefour_it,,unknown,Carrefour Express Via Pini n. 3 - PIEVE EMANUELE (MI)
+ABBIATEGRASSO,carrefour_it,,unknown,Carrefour Express LARGO CHARLIE CHAPLIN - ABBIATEGRASSO (MI)
+LOCATE DI TRIULZI,carrefour_it,,unknown,Carrefour Express VIA SALAZAR 12 - LOCATE DI TRIULZI (MI)
+ROZZANO,carrefour_it,,unknown,Carrefour Market Via XXV Aprile n. 31 - ROZZANO (MI)
+MELEGNANO,carrefour_it,,unknown,Carrefour Express VIA MARTIRI DELLA LIBERTA' N.8 - MELEGNANO (MI)
+VIZZOLO PREDABISSI,carrefour_it,,unknown,Carrefour Market S.S. EMILIA KM. 312 - VIZZOLO PREDABISSI (MI)
+ASSAGO,carrefour_it,,unknown,Carrefour Iper VIALE MILANO FIORI - ASSAGO (MI)
+SAN GIULIANO MILANESE,carrefour_it,,unknown,Carrefour Market P.ZZA ITALIA - SAN GIULIANO MILANESE (MI)
+CORSICO,carrefour_it,,unknown,Carrefour Express VIA CAVOUR 50 - CORSICO (MI)
+SAN DONATO MILANESE,carrefour_it,,unknown,Carrefour Express VIA EUROPA 7 - SAN DONATO MILANESE (MI)
+PESCHIERA BORROMEO,carrefour_it,,unknown,Carrefour Express Via Papa Giovanni XXIII n. 25 - PESCHIERA BORROMEO (MI)
+BAREGGIO,carrefour_it,,unknown,Carrefour Market Via Madonna Pellegrina n.64 - BAREGGIO (MI)
+SETTIMO MILANESE,carrefour_it,,unknown,Carrefour Express VIA DELLA LIBERTA' 19 - SETTIMO MILANESE (MI)
+CORNAREDO,carrefour_it,,unknown,Carrefour Market VIA AMENDOLA ANG. VIA DEI MILLE - CORNAREDO (MI)
+RHO,carrefour_it,,unknown,Carrefour Market VIA PIETRO MASCAGNI 2 - RHO (MI)
+MAZZO MILANESE,carrefour_it,,unknown,"Carrefour Market VIA GHANDI, 21 - MAZZO MILANESE (MI)"
+BARANZATE,carrefour_it,,unknown,Carrefour Express VIA NAZARIO SAURO 18 - BARANZATE (MI)
+NERVIANO,carrefour_it,,unknown,Carrefour Express Via Diaz ang. Via Leonardo Da Vinci  11 - NERVIANO (MI)
+PARABIAGO,carrefour_it,,unknown,Carrefour Market VIA SEMPIONE N. 80 - PARABIAGO (MI)
+BOLLATE,carrefour_it,,unknown,Carrefour Express VIA MATTEOTTI N.18 - BOLLATE (MI)
+COLOGNO MONZESE,carrefour_it,,unknown,Carrefour Express CORSO ROMA N.19 - COLOGNO MONZESE (MI)
+SESTO SAN GIOVANNI,carrefour_it,,unknown,Carrefour Market VIA F.LLI PICARDI 5 - SESTO SAN GIOVANNI (MI)
+BRESSO,carrefour_it,,unknown,"Carrefour Market VIA V. VENETO ANG.DON MINZONI,1/3 - BRESSO (MI)"
+LEGNANO,carrefour_it,,unknown,"Carrefour Market VIA PIONIERI DELL'ARIA LEGNANESI ,1 - LEGNANO (MI)"
+CERNUSCO SUL NAVIGLIO,carrefour_it,,unknown,Carrefour Express Via VESPUCCI 32 - CERNUSCO SUL NAVIGLIO (MI)
+GARBAGNATE MILANESE,carrefour_it,,unknown,Carrefour Express VIA PER CESATE N.110 - GARBAGNATE MILANESE (MI)
+SENAGO,carrefour_it,,unknown,"Carrefour Market Via Risorgimento, 51 - SENAGO (MI)"
+GORGONZOLA,carrefour_it,,unknown,Carrefour Market VIA ALCIDE DE GASPERI - GORGONZOLA (MI)
+CARUGATE,carrefour_it,,unknown,Carrefour Iper STRADA PROVINCIALE  208 KM. 2 - CARUGATE (MI)
+unknown,conad_it,Viale Trieste 1 20078 SAN COLOMBANO AL LAMBRO,unknown,Conad City
+unknown,conad_it,Via Panagulis 1 20080 CASARILE,unknown,Conad
+unknown,conad_it,VIA FALCONE SNC 20084 LACCHIARELLA,unknown,Conad
+unknown,conad_it,Viale Cristoforo Colombo 7 20090 TREZZANO SUL NAVIGLIO,unknown,Conad City
+unknown,conad_it,VIA EDISON SNC 20010 BERNATE TICINO,unknown,Conad City
+unknown,conad_it,VIA FRANCESCO GONIN 71 20147 MILANO,unknown,Conad
+unknown,conad_it,Via della Ferrera 18 20142 MILANO,unknown,Conad
+unknown,conad_it,Via Ettore Ponti 45 20143 MILANO,unknown,Conad City
+unknown,conad_it,VIA GIUSEPPE MEDA 41 20141 MILANO,unknown,Conad City
+unknown,conad_it,VIA BERNARDO QUARANTA 42 20139 MILANO,unknown,Conad
+unknown,conad_it,CORSO LODI 130 20139 MILANO,unknown,Conad
+unknown,conad_it,CORSO SAN GOTTARDO 29 20136 MILANO,unknown,Conad City
+unknown,conad_it,VIA GIAN CARLO CASTELBARCO 11 20136 MILANO,unknown,unknown
+unknown,conad_it,PIAZZALE BOLOGNA 7 20139 MILANO,unknown,Conad
+unknown,conad_it,VIA MILANO 72 20067 PAULLO,unknown,Conad
+unknown,conad_it,VIA FRANCESCO BURLAMACCHI 2 20100 MILANO,unknown,unknown
+unknown,conad_it,Viale Monte Nero 6 20135 MILANO,unknown,Conad City
+unknown,conad_it,Via Cesare Correnti 6 20123 MILANO,unknown,Conad City
+unknown,conad_it,VIA DIAZ 1 20029 TURBIGO,unknown,Conad City
+unknown,conad_it,PIAZZA DON RINO VILLA 1 20010 INVERUNO,unknown,Conad
+unknown,conad_it,VIA CIRCO 1 20123 MILANO,unknown,Conad City
+unknown,conad_it,VIA MATTEO BANDELLO 2 20123 MILANO,unknown,unknown
+unknown,conad_it,VIA MICHELANGELO BUONARROTI 11 20149 MILANO,unknown,Conad City
+unknown,conad_it,VIALE MURILLO 5 20149 MILANO,unknown,Conad City
+unknown,conad_it,Via Vincenzo Monti 21 20123 MILANO,unknown,unknown
+unknown,conad_it,VIA BENEDETTO MARCELLO 16 20124 MILANO,unknown,unknown
+unknown,conad_it,PIAZZA DUCA D'AOSTA- STAZIONE CENTRALE SNC 20100 MILANO,unknown,unknown
+unknown,conad_it,VIA DELLA PECETTA 33 20100 MILANO,unknown,unknown
+unknown,conad_it,VIA LONATE 28 20022 CASTANO PRIMO,unknown,Conad City
+unknown,conad_it,VIA CEFALONIA 10 20156 MILANO,unknown,Conad
+unknown,conad_it,VIA GIULIO E CORRADO VENINI 37 20127 MILANO,unknown,unknown
+unknown,conad_it,VIA DELLA FILANDA 4/6 20010 VANZAGO,unknown,Conad
+unknown,conad_it,VIA GIULIO E CORRADO VENINI 50 20127 MILANO,unknown,Conad
+unknown,conad_it,Via Ruggero Leoncavallo 15/17 20131 MILANO,unknown,Conad
+unknown,conad_it,VIA GIUSEPPE TARTINI 3/A 20158 MILANO,unknown,Conad City
+unknown,conad_it,VIA ROMAGNA 10 20096 PIOLTELLO,unknown,unknown
+unknown,conad_it,PIAZZA OSPEDALE MAGGIORE - GALL.COMM.BLOCCO NORD 3 20100 MILANO,unknown,unknown
+unknown,conad_it,Via Umberto Ceva 2 20157 MILANO,unknown,Conad
+unknown,conad_it,VIA PELLEGRINO ROSSI 80 20161 MILANO,unknown,Conad City
+unknown,conad_it,VIA PADOVA 224 20132 MILANO,unknown,Conad
+unknown,conad_it,VIA ALESSANDRO ASTESANI 46 20161 MILANO,unknown,Conad City
+unknown,conad_it,PIAZZA BRUZZANO 5 20161 MILANO,unknown,Conad City
+unknown,conad_it,Via Padana Superiore km 292 20090 VIMODRONE,unknown,Spazio Conad
+unknown,conad_it,VIA TICINO 4 20020 LAINATE,unknown,Conad
+unknown,conad_it,VIALE DEI PLATANI 6 20020 ARESE,unknown,Conad
+unknown,conad_it,VIA PONTIDA 7 20063 CERNUSCO SUL NAVIGLIO,unknown,Conad City
+unknown,conad_it,VIA CONFALONIERI 16 20099 SESTO SAN GIOVANNI,unknown,Conad City
+unknown,conad_it,PIAZZA MATTEOTTI 8 20063 CERNUSCO SUL NAVIGLIO,unknown,Conad City
+unknown,conad_it,VIA GIUSEPPE LAZZATI 7 20063 CERNUSCO SUL NAVIGLIO,unknown,Conad Superstore
+unknown,conad_it,Viale Italia 555 20099 SESTO SAN GIOVANNI,unknown,Conad Superstore
+unknown,conad_it,PIAZZA S. MARCO TRECELLA 5 20060 POZZUOLO MARTESANA,unknown,unknown
+unknown,conad_it,VIA E. MATTEI 11 20064 GORGONZOLA,unknown,Conad
+unknown,conad_it,Via Palmiro Togliatti 4 20027 RESCALDINA,unknown,unknown
+unknown,conad_it,VIA MAZZINI SNC 20056 TREZZO SULL'ADDA,unknown,Conad Superstore
+Buccinasco,gamestop_it,,unknown,Sede Centrale
+Novate Milanese,gamestop_it,,unknown,NOVATE
+Cinisello Balsamo,gamestop_it,,unknown,CINISELLO BALSAMO
+Rescaldina,gamestop_it,,unknown,RESCALDINA
+Assago,gamestop_it,,unknown,ASSAGO
+San Giuliano Milanese,gamestop_it,,unknown,SAN GIULIANO MILANESE
+Cornate D’Adda,gamestop_it,,unknown,CORNATE D’ADDA
+Milano,gamestop_it,,unknown,MILANO - City Life
+Cesano Boscone,gamestop_it,,unknown,CESANO BOSCONE
+Carugate,gamestop_it,,unknown,CARUGATE
+Vignate,gamestop_it,,unknown,VIGNATE
+Villasanta,gamestop_it,,unknown,VILLASANTA
+Limbiate,gamestop_it,,unknown,LIMBIATE
+Giussano,gamestop_it,,unknown,GIUSSANO
+Paderno Dugnano,gamestop_it,,unknown,PADERNO DUGNANO
+Sesto San Giovanni,gamestop_it,,unknown,SESTO SAN GIOVANNI
+Rho,gamestop_it,,unknown,RHO
+Vittuone,gamestop_it,,unknown,VITTUONE
+Vanzaghello,gamestop_it,,unknown,VANZAGHELLO
+Buccinasco ,gamestop_it,,unknown,E-Commerce
+Peschiera Borromeo,gamestop_it,,unknown,PESCHIERA BORROMEO
+Arese,gamestop_it,,unknown,ARESE - IL CENTRO
+Rozzano,giunti_al_punto_it,Via E. Curiel 25 c/o Centro Commerciale Fiordaliso 20089 Rozzano MI,unknown,Libreria Giunti al Punto Rozzano
+Vignate,giunti_al_punto_it,Via Cassanese/via Galilei - Unita'5 c/o Centro Commerciale Acquario 20052 Vignate MI,unknown,Libreria Giunti al Punto Vignate
+Cerro Maggiore,giunti_al_punto_it,Via Turati 52 c/o Centro Commerciale Move In 20023 Cerro Maggiore MI,unknown,Libreria Giunti al Punto Cerro Maggiore
+Rescaldina,giunti_al_punto_it,Via Togliatti 2 c/o Centro Commerciale RESCALDINA 20027 Rescaldina MI,unknown,Libreria Giunti al Punto Rescaldina
+Vanzaghello,giunti_al_punto_it,C.so Italia - S.p.ex S.s.527 Bustes c/o Centro Commerciale Il Parco Shopping Cen 20020 Vanzaghello MI,unknown,Libreria Giunti al Punto Vanzaghello
+Peschiera Borromeo,giunti_al_punto_it,Via Liberazione 8 -s.p.415 Paullese c/o Galleria Borromea Shopping Center (iperc 20068 Peschiera Borromeo MI,unknown,Libreria Giunti al Punto Peschiera Borromeo
+Sedriano,giunti_al_punto_it,Centro Commerciale sedriano Shopping  S.s.11 Padana Superiore 20018 Sedriano MI,unknown,Libreria Giunti al Punto Sedriano
+San Giuliano Milanese,giunti_al_punto_it,S.s. 9 Via Emilia- Ang.via Tolstoj c/o Centro Commerciale San Giuliano 20098 San Giuliano Milanese MI,unknown,Libreria Giunti al Punto San Giuliano
+Milano,giunti_al_punto_it,Via Vitruvio 43 20124 Milano MI,unknown,Libreria Giunti al Punto Milano
+Milano,giunti_al_punto_it,c/o Ospedale Niguarda c/o Ospedale P.zza Dell'ospedale Maggiore 3 20162 Milano MI,unknown,Libreria Giunti al Punto Milano Niguarda
+San Giuliano Milanese ,giunti_al_punto_it,Via della pace 26  c/o Centro commerciale LE CUPOLE 20098 San Giuliano Milanese  MI,unknown,Libreria Giunti al Punto San Giuliano Milanese
+Milano,giunti_al_punto_it,Corso Magenta 2 20123 Milano MI,unknown,Libreria Giunti al Punto Milano Magenta
+Milano,giunti_al_punto_it,Via C. Belgioioso 173 Ospedale Galeazzi - Sant'Ambrogio  c/o IRCSS Ospedale Galeazzi - Sant'Ambrogio 20157 Milano MI,unknown,Libreria Giunti al Punto Milano Galeazzi
+MILANO,gnp_it,,unknown,GNP
+Varese,hugo_boss,,unknown,BOSS Menswear Store
+Milano,hugo_boss,,unknown,HUGO Annex Duomo
+MILANO,moneygram,,unknown,PACE PHONE SNC
+BOLLATE,moneygram,,unknown,TABACCHERIA VENTIMIGLIA
+LEGNANO,moneygram,,unknown,AZIZ MINIMARKET
+MELZO,moneygram,,unknown,AKMAL GENERAL STORE
+SESTO SAN GIOVANNI,moneygram,,unknown,IT ALIMENTARI
+CASSANO D ADDA,moneygram,,unknown,INTERNET - KHALID HAROON
+CINISELLO BALSAMO,moneygram,,unknown,METWLY MAHMOUD
+SAN GIULIANO MILANESE,moneygram,,unknown,KANDY MARKET - SAN GIULIANO MILANESE
+CESANO BOSCONE,moneygram,,unknown,TABACCHERIA - LI YIQIANG
+BIELLA,moneygram,,unknown,OMAR VIAGGI
+PIOLTELLO,moneygram,,unknown,ASAD ENTERPRISES
+RHO,moneygram,,unknown,HAQUE AZIJUL - RHO
+SOLARO,moneygram,,unknown,REHMAN MOBILE - SOLARO
+CORNAREDO,moneygram,,unknown,MINI MARKET MD DABIR - CORNAREDO
+TREZZO SULL'ADDA,moneygram,,unknown,PIXXA S.R.L.S.
+CASSANO D'ADDA,moneygram,,unknown,CHEBRI AMEUR - CASSANO
+ARLUNO,moneygram,,unknown,EDICOLA TUNESI
+BARANZATE,moneygram,,unknown,MEDIA STORE - BARANZATE
+SAN DONATO MILANESE,moneygram,,unknown,AL CONFESSIONALE
+NERVIANO,moneygram,,unknown,NERVIANO CENTER
+CESATE,moneygram,,unknown,AVELINA
+CASTANO PRIMO,moneygram,,unknown,EFFEDUEZETA
+TREZZANO SUL NAVIGLIO,moneygram,,unknown,TABACCHERIA XU JIAJIE - TREZZANO SUL NAV
+VITTUONE,moneygram,,unknown,MINIMARKET DI SHAH ZAFAR - VITTUONE
+PERO,moneygram,,unknown,PUNTO SERVIZI LICCIARDELLO LUCA
+ABBIATEGRASSO,moneygram,,unknown,SUPERMONEY
+RESCALDINA,moneygram,,unknown,ZAHID ARIFA
+TREZZO SULL ADDA,moneygram,,unknown,CHEBRI AMEUR
+PARABIAGO,moneygram,,unknown,TABACCHERIA VIGNATI
+CORBETTA,moneygram,,unknown,AWAIS TROPICAL MARKET
+CORSICO,moneygram,,unknown,AL AZHAR ABDESSAMAD - CORSICO
+PADERNO DUGNANO,moneygram,,unknown,CARREFOUR - #415 - PADERNO
+INZAGO,moneygram,,unknown,BADEGNA MINIMARKET
+MAGENTA,moneygram,,unknown,PHONE DARWISH
+BIENATE,moneygram,,unknown,ROBY NEWS EDICOLA
+VAPRIO D ADDA,moneygram,,unknown,ASIAN FOOD
+San Giuliano Milanese,obi_eu,,unknown,Negozio OBI San Giuliano Milanese
+Magenta,obi_eu,,unknown,Negozio OBI Magenta
+Legnano,obi_eu,,unknown,Negozio OBI Legnano
+Milano,petit_bateau,,unknown,Rivenditore Monomarca Petit Bateau
+CUSANO MILANINO,q8_italia,,unknown,Q8
+MAGNAGO,q8_italia,,unknown,Q8
+MILANO,q8_italia,,unknown,Q8
+SOLARO,q8_italia,,unknown,Q8
+PADERNO DUGNANO,q8_italia,,unknown,Q8
+TREZZANO SUL NAVIGLIO,q8_italia,,unknown,Q8 Easy
+OZZERO,q8_italia,,unknown,Q8
+PREGNANA MILANESE,q8_italia,,unknown,Q8
+CARPIANO,q8_italia,,unknown,Q8 Easy
+COLOGNO MONZESE,q8_italia,,unknown,Q8
+ZIBIDO SAN GIACOMO,q8_italia,,unknown,Q8
+TREZZO SULL'ADDA,q8_italia,,unknown,Q8
+LAINATE,q8_italia,,unknown,Q8
+OPERA,q8_italia,,unknown,Q8
+BOLLATE,q8_italia,,unknown,Q8 Easy
+VIMODRONE,q8_italia,,unknown,Q8
+BAREGGIO,q8_italia,,unknown,Q8 Easy
+BRESSO,q8_italia,,unknown,Q8 Easy
+BELLINZAGO LOMBARDO,q8_italia,,unknown,Q8 Easy
+CASSINA DE' PECCHI,q8_italia,,unknown,Q8 Easy
+BUSCATE,q8_italia,,unknown,Q8
+CINISELLO BALSAMO,q8_italia,,unknown,Q8
+SEDRIANO,q8_italia,,unknown,Q8 Easy
+BORGO LOMBARDO  - SAN G,q8_italia,,unknown,Q8
+ROZZANO,q8_italia,,unknown,Q8
+GARBAGNATE,q8_italia,,unknown,Q8
+LEGNANO,q8_italia,,unknown,Q8
+RHO,q8_italia,,unknown,Q8
+SESTO SAN GIOVANNI,q8_italia,,unknown,Q8
+SAN GIULIANO MILANESE,q8_italia,,unknown,Q8
+ZIBIDO S.GIACOMO,q8_italia,,unknown,Q8 Easy
+TRUCCAZZANO,q8_italia,,unknown,Q8
+VIGNATE,q8_italia,,unknown,Q8 Easy
+NERVIANO,q8_italia,,unknown,Q8 Easy
+PAULLO,q8_italia,,unknown,Q8 Easy
+SEGRATE,q8_italia,,unknown,Q8
+CORSICO,q8_italia,,unknown,Q8
+GORGONZOLA,q8_italia,,unknown,Q8 Easy
+POGLIANO MILANESE,q8_italia,,unknown,Q8 Easy
+PERO,q8_italia,,unknown,Q8 Easy
+BARANZATE,q8_italia,,unknown,Q8 Easy
+CARUGATE,q8_italia,,unknown,Q8 Easy
+CESATE,q8_italia,,unknown,Q8
+LISCATE,q8_italia,,unknown,Q8
+MELZO,q8_italia,,unknown,Q8 Easy
+CORMANO,q8_italia,,unknown,Q8
+PESSANO CON BORNAGO,q8_italia,,unknown,Q8
+MELEGNANO,q8_italia,,unknown,Q8
+NOVATE MILANESE,q8_italia,,unknown,Q8
+SETTIMO MILANESE,q8_italia,,unknown,Q8
+S. ZENONE AL LAMBRO,q8_italia,,unknown,Q8
+VITTUONE,q8_italia,,unknown,Q8
+BUCCINASCO,q8_italia,,unknown,Q8 Easy
+SAN ZENONE AL LAMBRO,q8_italia,,unknown,Q8
+NOVATE,q8_italia,,unknown,Q8 Easy
+ASSAGO,q8_italia,,unknown,Q8
+CESANO BOSCONE,q8_italia,,unknown,Q8 Easy
+MEDIGLIA,q8_italia,,unknown,Q8 Easy
+CERNUSCO SUL NAVIGLIO,q8_italia,,unknown,Q8
+ABBIATEGRASSO,q8_italia,,unknown,Q8 Easy
+PESCHIERA BORROMEO,q8_italia,,unknown,Q8
+MARCALLO CON CASONE,q8_italia,,unknown,Q8
+SENAGO,q8_italia,,unknown,Q8
+unknown,remax_it,Via Vittorio Locchi 3 20156 Milano MI Italia,unknown,RE/MAX Commercial Corporate
+unknown,remax_it,Via Liguria 28 20072 Pieve Emanuele MI Italia,unknown,RE/MAX Agave
+unknown,remax_it,Via Durini 19 20122 Milano MI Italia,unknown,RE/MAX Alliance
+unknown,remax_it,Via Boccaccio 7 ang. Via Campari 20099 Sesto San Giovanni MI Italia,unknown,RE/MAX Armonia
+unknown,remax_it,Via Gran Sasso 31 20131 Milano MI Italia,unknown,RE/MAX Associati Real Estate
+unknown,remax_it,Corso Europa 190 20017 Rho MI Italia,unknown,RE/MAX Class
+unknown,remax_it,Corso Concordia 10 20129 Milano MI Italia,unknown,RE/MAX Class 10
+unknown,remax_it,Strada Statale 33 73 20016 Pero MI Italia,unknown,RE/MAX Class 14
+unknown,remax_it,Corso Sempione 108 20025 Legnano MI Italia,unknown,RE/MAX Class 2
+unknown,remax_it,Viale Luigi Einaudi 29 20020 Arese MI Italia,unknown,RE/MAX Class 3
+unknown,remax_it,Via Cenisio 14 20154 Milano MI Italia,unknown,RE/MAX Class 4
+unknown,remax_it,Via Sant’Ambrogio 40 20015 Parabiago MI Italia,unknown,RE/MAX Class 6
+unknown,remax_it,Viale Beatrice d’Este 7 20122 Milano MI Italia,unknown,RE/MAX Class 7
+unknown,remax_it,Via Varesina 71 20156 Milano MI Italia,unknown,RE/MAX Desire
+unknown,remax_it,Piazza Gramsci 19 20092 Cinisello Balsamo MI Italia,unknown,RE/MAX Digital Home
+unknown,remax_it,Via Roma 31 20021 Bollate MI Italia,unknown,RE/MAX Essenza 2
+unknown,remax_it,Via Raffaello Sanzio 13/m1 24033 Trezzano Rosa MI Italia,unknown,RE/MAX Expo 6
+unknown,remax_it,Via Friuli 61 20135 Milano MI Italia,unknown,RE/MAX Fides
+unknown,remax_it,Via Magenta 22 20021 Bollate MI Italia,unknown,RE/MAX Fiducia
+unknown,remax_it,Via Giovanni da Procida 7 20149 Milano MI Italia,unknown,RE/MAX Fiducia 2
+unknown,remax_it,Via Graziano 29 20162 Milano MI Italia,unknown,RE/MAX House Broker
+unknown,remax_it,Via Domodossola 7 20145 Milano MI Italia,unknown,RE/MAX Immobiltec 2
+unknown,remax_it,Via G. Marconi 8 20093 Cologno Monzese MI Italia,unknown,RE/MAX Insieme
+unknown,remax_it,Via Fabio Filzi 7 20099 Sesto San Giovanni MI Italia,unknown,RE/MAX Insieme 2
+unknown,remax_it,Via Fratelli Cervi 23 20098 San Giuliano Milanese MI Italia,unknown,RE/MAX Iris
+unknown,remax_it,Via Meda 53 20017 Rho MI Italia,unknown,RE/MAX Loserimm
+unknown,remax_it,Viale Abruzzi 92 20131 Milano MI Italia,unknown,RE/MAX Next
+unknown,remax_it,Via Angelo Moro 121 20097 San Donato Milanese MI Italia,unknown,RE/MAX Per Te
+unknown,remax_it,- - Milano MI Italia,unknown,RE/MAX Res
+unknown,remax_it,Via Cesare Battisti 61 20054 Segrate MI Italia,unknown,RE/MAX Properties & Life
+unknown,remax_it,Via Manzoni 50/52 20024 Garbagnate Milanese MI Italia,unknown,RE/MAX Punto Casa
+unknown,remax_it,Viale Aurelio Magno Cassiodoro 4 20145 Milano MI Italia,unknown,RE/MAX Rainbow
+unknown,remax_it,Strada Padana Superiore 19/B 20063 Cernusco sul Naviglio MI Italia,unknown,RE/MAX Renova
+unknown,remax_it,Via Enrico Nöe 23 20133 Milano MI Italia,unknown,RE/MAX Renova 2
+unknown,remax_it,Via Cavour 22 20065 Inzago MI Italia,unknown,RE/MAX Selection
+unknown,remax_it,- - Assago MI Italia,unknown,RE/MAX Studio
+unknown,remax_it,Via Italia 25 20064 Gorgonzola MI Italia,unknown,RE/MAX Toro
+unknown,remax_it,Via Garibaldini 7/1 20019 Settimo Milanese MI Italia,unknown,RE/MAX Trinity
+unknown,remax_it,Via Benvenuto Garofalo 31 20133 Milano MI Italia,unknown,RE/MAX Valori
+unknown,remax_it,Via Giuseppe Garibaldi 88 20024 Garbagnate Milanese MI Italia,unknown,RE/MAX Yes 2
+unknown,remax_it,Corso Magenta 56 20123 Milano MI Italia,unknown,The RE/MAX Collection Ultimate
+Segrate,shell,,unknown,Segrate
+unknown,skoda,,unknown,STOPCAR S.R.L.
+Settimo Milanese,speed_queen,,unknown,Lavanderia self service Speed Queen
+MILANO,the_north_face_eu,,unknown,COIN CINQUE GIORNATE
+Milano,the_north_face_eu,,unknown,The North Face - Orefici11
+CERNUSCO SUL NAVIGLIO,the_north_face_eu,,unknown,OTTANTATRE SHOP
+TREVIGLIO,the_north_face_eu,,unknown,OTTANTATRE SHOP
+Paderno Dugnano,tigota_it,,unknown,Tigotà
+Magnago,tigota_it,,unknown,Tigotà
+ROZZANO,visa,,unknown,unknown
+MILANO,visa,,unknown,unknown
+TREZZANO SUL NAVIGLIO,visa,,unknown,unknown
+CORMANO,visa,,unknown,unknown
+CASTANO PRIMO,visa,,unknown,unknown
+RHO,visa,,unknown,unknown
+PADERNO DUGNANO,visa,,unknown,unknown
+PAULLO,visa,,unknown,unknown
+CINISELLO BALSAMO,visa,,unknown,unknown
+RAGUSA,visa,,unknown,unknown
+PALERMO,visa,,unknown,unknown
+MONTESARCHIO,visa,,unknown,unknown
+ROMA,visa,,unknown,unknown
+METANOPOLI - SAN DONATO M,visa,,unknown,unknown
+FARA IN SABINA,visa,,unknown,unknown
+L'AQUILA,visa,,unknown,unknown
+PESCARA,visa,,unknown,unknown
+GENOVA,visa,,unknown,unknown
+PINEROLO,visa,,unknown,unknown
+CARIGNANO,visa,,unknown,unknown
+NOVI LIGURE,visa,,unknown,unknown
+LA LOGGIA,visa,,unknown,unknown
+TORINO,visa,,unknown,unknown
+RIVAROLO CANAVESE,visa,,unknown,unknown
+SAN COLOMBANO AL LAMBRO,visa,,unknown,unknown
+MOTTA VISCONTI,visa,,unknown,unknown
+VERNATE FRAZIONE MONCUCCO,visa,,unknown,unknown
+LACCHIARELLA,visa,,unknown,unknown
+BINASCO,visa,,unknown,unknown
+ROSATE,visa,,unknown,unknown
+CALVIGNASCO,visa,,unknown,unknown
+NOVIGLIO,visa,,unknown,unknown
+GUDO VISCONTI,visa,,unknown,unknown
+BUBBIANO,visa,,unknown,unknown
+PIEVE EMANUELE,visa,,unknown,unknown
+ZIBIDO SAN GIACOMO,visa,,unknown,unknown
+CERRO AL LAMBRO,visa,,unknown,unknown
+BASIGLIO,visa,,unknown,unknown
+CARPIANO,visa,,unknown,unknown
+ABBIATEGRASSO,visa,,unknown,unknown
+SAN ZENONE AL LAMBRO,visa,,unknown,unknown
+OZZERO,visa,,unknown,unknown
+VERMEZZO,visa,,unknown,unknown
+LOCATE DI TRIULZI,visa,,unknown,unknown
+MELEGNANO,visa,,unknown,unknown
+ALBAIRATE,visa,,unknown,unknown
+OPERA,visa,,unknown,unknown
+GAGGIANO,visa,,unknown,unknown
+VIZZOLO PREDABISSI,visa,,unknown,unknown
+QUINTO DE STAMPI,visa,,unknown,unknown
+ASSAGO,visa,,unknown,unknown
+GALLIATE,visa,,unknown,unknown
+SESTO ULTERIANO,visa,,unknown,unknown
+MAGENTA,visa,,unknown,unknown
+BUCCINASCO,visa,,unknown,unknown
+SAN GIULIANO MILANESE,visa,,unknown,unknown
+CORSICO,visa,,unknown,unknown
+BOFFALORA SOPRA TICINO,visa,,unknown,unknown
+CESANO BOSCONE,visa,,unknown,unknown
+SAN DONATO MILANESE,visa,,unknown,unknown
+BERNATE TICINO,visa,,unknown,unknown
+PESCHIERA BORROMEO,visa,,unknown,unknown
+MEDIGLIA,visa,,unknown,unknown
+CUSAGO,visa,,unknown,unknown
+CORBETTA,visa,,unknown,unknown
+MARCALLO CON CASONE,visa,,unknown,unknown
+VITTUONE,visa,,unknown,unknown
+SANTO STEFANO TICINO,visa,,unknown,unknown
+TRIBIANO,visa,,unknown,unknown
+MESERO,visa,,unknown,unknown
+BAREGGIO,visa,,unknown,unknown
+CUGGIONO,visa,,unknown,unknown
+SEDRIANO,visa,,unknown,unknown
+MOMBRETTO,visa,,unknown,unknown
+OSSONA,visa,,unknown,unknown
+ROBECCHETTO CON INDUNO,visa,,unknown,unknown
+CORNAREDO,visa,,unknown,unknown
+SAN PIETRO ALL'OLMO,visa,,unknown,unknown
+TURBIGO,visa,,unknown,unknown
+MELZO,visa,,unknown,unknown
+SETTALA,visa,,unknown,unknown
+SETTIMO MILANESE,visa,,unknown,unknown
+PANTIGLIATE,visa,,unknown,unknown
+INVERUNO,visa,,unknown,unknown
+ARLUNO,visa,,unknown,unknown
+PERO,visa,,unknown,unknown
+AOSTA,visa,,unknown,unknown
+CASOREZZO,visa,,unknown,unknown
+PREGNANA MILANESE,visa,,unknown,unknown
+BUSCATE,visa,,unknown,unknown
+ARCONATE,visa,,unknown,unknown
+SEGRATE,visa,,unknown,unknown
+SAN FELICE,visa,,unknown,unknown
+PIOLTELLO,visa,,unknown,unknown
+VANZAGO,visa,,unknown,unknown
+BUSTO GAROLFO,visa,,unknown,unknown
+CERCHIATE,visa,,unknown,unknown
+PARABIAGO,visa,,unknown,unknown
+POGLIANO MILANESE,visa,,unknown,unknown
+LIMITO,visa,,unknown,unknown
+BARANZATE,visa,,unknown,unknown
+MAZZO MILANESE,visa,,unknown,unknown
+NOVATE MILANESE,visa,,unknown,unknown
+DAIRAGO,visa,,unknown,unknown
+LISCATE,visa,,unknown,unknown
+VANZAGHELLO,visa,,unknown,unknown
+LAINATE,visa,,unknown,unknown
+MAGNAGO,visa,,unknown,unknown
+VILLA CORTESE,visa,,unknown,unknown
+BIENATE,visa,,unknown,unknown
+BARBAIANA,visa,,unknown,unknown
+NERVIANO,visa,,unknown,unknown
+VIMODRONE,visa,,unknown,unknown
+PASSIRANA,visa,,unknown,unknown
+CANEGRATE,visa,,unknown,unknown
+BRESSO,visa,,unknown,unknown
+BOLLATE,visa,,unknown,unknown
+SAN GIORGIO SU LEGNANO,visa,,unknown,unknown
+ARESE,visa,,unknown,unknown
+SESTO SAN GIOVANNI,visa,,unknown,unknown
+COLOGNO MONZESE,visa,,unknown,unknown
+CERNUSCO SUL NAVIGLIO,visa,,unknown,unknown
+CASSINA DE' PECCHI,visa,,unknown,unknown
+LEGNANO,visa,,unknown,unknown
+GARBAGNATE MILANESE,visa,,unknown,unknown
+CERRO MAGGIORE,visa,,unknown,unknown
+SAN VITTORE OLONA,visa,,unknown,unknown
+CUSANO MILANINO,visa,,unknown,unknown
+POZZUOLO MARTESANA,visa,,unknown,unknown
+SAN MAURIZIO AL LAMBRO,visa,,unknown,unknown
+BUSSERO,visa,,unknown,unknown
+SENAGO,visa,,unknown,unknown
+GORGONZOLA,visa,,unknown,unknown
+BRUGHERIO,visa,,unknown,unknown
+PALAZZOLO MILANESE,visa,,unknown,unknown
+CARUGATE,visa,,unknown,unknown
+RESCALDINA,visa,,unknown,unknown
+CESATE,visa,,unknown,unknown
+MONZA,visa,,unknown,unknown
+CASSANO D'ADDA,visa,,unknown,unknown
+PESSANO CON BORNAGO,visa,,unknown,unknown
+BELLINZAGO LOMBARDO,visa,,unknown,unknown
+GESSATE,visa,,unknown,unknown
+NOVA MILANESE,visa,,unknown,unknown
+INZAGO,visa,,unknown,unknown
+LIMBIATE,visa,,unknown,unknown
+RESCALDA,visa,,unknown,unknown
+SOLARO,visa,,unknown,unknown
+MUGGIO',visa,,unknown,unknown
+BOVISIO MASCIAGO,visa,,unknown,unknown
+LISSONE,visa,,unknown,unknown
+CAMBIAGO,visa,,unknown,unknown
+CONCOREZZO,visa,,unknown,unknown
+MONTICHIARI,visa,,unknown,unknown
+BASIANO,visa,,unknown,unknown
+CESANO MADERNO,visa,,unknown,unknown
+DESIO,visa,,unknown,unknown
+CAVENAGO DI BRIANZA,visa,,unknown,unknown
+POZZO D'ADDA,visa,,unknown,unknown
+COGLIATE,visa,,unknown,unknown
+VAPRIO D'ADDA,visa,,unknown,unknown
+TREZZANO ROSA,visa,,unknown,unknown
+SEVESO,visa,,unknown,unknown
+VIMERCATE,visa,,unknown,unknown
+ARCORE,visa,,unknown,unknown
+SEREGNO,visa,,unknown,unknown
+MEDA,visa,,unknown,unknown
+TREZZO SULL'ADDA,visa,,unknown,unknown
+LENTATE SUL SEVESO,visa,,unknown,unknown
+USMATE VELATE,visa,,unknown,unknown
+ALBIATE,visa,,unknown,unknown
+CARATE BRIANZA,visa,,unknown,unknown
+CORNATE D'ADDA,visa,,unknown,unknown
+GIUSSANO,visa,,unknown,unknown
+BESANA IN BRIANZA,visa,,unknown,unknown
+ROSOLINA,visa,,unknown,unknown
+MERATE,visa,,unknown,unknown
+VEDUGGIO CON COLZANO,visa,,unknown,unknown
+OMEGNA,visa,,unknown,unknown
+CALDIERO,visa,,unknown,unknown
+COLVERDE,visa,,unknown,unknown
+ALZANO LOMBARDO,visa,,unknown,unknown
+TREVISO,visa,,unknown,unknown
+MONFALCONE,visa,,unknown,unknown
+Milano,yves_rocher_it,,unknown,Yves Rocher Italia
+Assago,yves_rocher_it,,unknown,Yves Rocher Italia
+Rescaldina,yves_rocher_it,,unknown,Yves Rocher Italia
+Rozzano,yves_rocher_it,,unknown,Yves Rocher Italia

@@ -1,0 +1,5 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1375042,usps,NEWTON,,NEWTON,WV,,US,+1 304-565-7625,,Mo-Sa 08:00-12:00,United States Postal Service,Q668687
+2526600000,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,12402 CLAY RD,NEWTON,WV,,US,,,,United States Postal Service,Q668687
+2526600001,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,12402 CLAY RD,NEWTON,WV,,US,,,,United States Postal Service,Q668687
+2526600003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,12426 CLAY RD,NEWTON,WV,,US,,,,United States Postal Service,Q668687

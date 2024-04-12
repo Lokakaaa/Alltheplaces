@@ -1,0 +1,15 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4697,abc_pl,abc,,Wolanów,mazowieckie,,PL,,,,abc,Q11683985
+4287,abc_pl,abc,,Młodocin Większy,mazowieckie,,PL,,,,abc,Q11683985
+11916,groszek_pl,Groszek,,Wolanów,mazowieckie,,PL,,,,Groszek,Q9280965
+MNIS01M,paczkomat_inpost_pl,Przy Sklepie Poziomka,,Mniszek,mazowieckie,,PL,,https://inpost.pl/paczkomat-mniszek-mnis01m-mniszek-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+POP-KWN2,paczkomat_inpost_pl,PRYMUS AGD,,Kowalanka,mazowieckie,,PL,,https://inpost.pl/paczkomat-kowalanka-pop-kwn2-kowalanka-paczkomaty-mazowieckie,Mo-Fr 08:00-17:00,Paczkomat,Q110970254
+POP-MNS1,paczkomat_inpost_pl,SKLEP Z ZABAWKAMI,,Mniszek ,mazowieckie,,PL,,https://inpost.pl/paczkomat-mniszek-pop-mns1-mniszek-paczkomaty-mazowieckie,Mo-Fr 09:00-17:00; Sa 11:00-15:00,Paczkomat,Q110970254
+RAD04A,paczkomat_inpost_pl,Przy pawilonie handlowym,,Radom,mazowieckie,,PL,,https://inpost.pl/paczkomat-radom-rad04a-1905-roku-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SLEP01M,paczkomat_inpost_pl,Przy wjeździe na parking,,Ślepowron,mazowieckie,,PL,,https://inpost.pl/paczkomat-slepowron-slep01m-slepowron-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SLEP02M,paczkomat_inpost_pl,od Sławno 5,,Ślepowron,mazowieckie,,PL,,https://inpost.pl/paczkomat-slepowron-slep02m-slepowron-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+SRQ01M,paczkomat_inpost_pl,Przy sklepie Odido,,Strzałków,mazowieckie,,PL,,https://inpost.pl/paczkomat-strzalkow-srq01m-strzalkow-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+WNV01M,paczkomat_inpost_pl,Market Dino,,Wolanów,mazowieckie,,PL,,https://inpost.pl/paczkomat-wolanow-wnv01m-opoczynska-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+291427,poczta_polska_pl,AP Mniszek,,Mniszek,MAZOWIECKIE,,PL,+48 48 618 64 58,,,Poczta Polska,Q168833
+274965,poczta_polska_pl,UP Wolanów,,Wolanów,MAZOWIECKIE,,PL,+48 48 618 60 99,,,Poczta Polska,Q168833
+22e9601f835bcdc3b97f23805f8a1dd5,western_union,BANK SPOLDZIELCZY RZEMIOSLA W RADOMIU,,Wolanow,MAZOWIECKIE,,PL,+48 801 120 224,https://location.westernunion.com/pl/mazowieckie/wolanow/22e9601f835bcdc3b97f23805f8a1dd5,Mo-Fr 07:30-15:00,Western Union,Q861042

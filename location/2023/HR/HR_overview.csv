@@ -1,0 +1,3344 @@
+State,Place Name,City,Establishments
+BJELOVARSKOBILOGORSKA,a1_hr,Bjelovar,1
+MEDIMURSKA,a1_hr,Čakovec,1
+DUBROVACKONERETVANSKA,a1_hr,Dubrovnik,1
+KARLOVACKA,a1_hr,Karlovac,1
+KOPRIVNICKOKRIZEVACKA,a1_hr,Koprivnica,1
+OSJECKOBARANJSKA,a1_hr,Osijek,2
+POZESKOSLAVONSKA,a1_hr,Požega,1
+ISTARSKA,a1_hr,Pula,1
+PRIMORSKOGORANSKA,a1_hr,Rijeka,1
+SISACKOMOSLAVACKA,a1_hr,Sisak,1
+BRODSKOPOSAVSKA,a1_hr,Slavonski Brod,1
+SPLITSKODALMATINSKA,a1_hr,Split,3
+SIBENSKOKNINISKA,a1_hr,Šibenik,1
+VARAZDINSKA,a1_hr,Varaždin,1
+ZAGREBACKA,a1_hr,Velika Gorica,1
+VUKOVARSKOSRIJEMSKA,a1_hr,Vukovar,1
+ZADARSKA,a1_hr,Zadar,1
+GRADZAGREB,a1_hr,Zagreb,7
+UNKNOWN,accor,unknown,3
+UNKNOWN,adidas,Zagreb,1
+UNKNOWN,adidas,Sesvete-Kraljevac,2
+UNKNOWN,adidas,Sveti Kriz Zacretje,2
+02,adidas,Ivanja Reka,1
+17,adidas,Dugopolje,1
+UNKNOWN,alamo,Zagreb,1
+UNKNOWN,alamo,Dubrovnik,1
+UNKNOWN,alamo,Pula,1
+UNKNOWN,alamo,Rijeka,1
+UNKNOWN,alamo,Split,1
+UNKNOWN,alamo,Zadar,1
+ZADARSKA,audi,Zadar,1
+GRADZAGREB,audi,Zagreb,3
+SPLITSKODALMATINSKA,audi,Split,2
+OSJECKOBARANJSKA,audi,Osijek,2
+GRADZAGREB,audi,Sesvete,1
+MEDIMURSKA,audi,Cakovec,1
+ISTARSKA,audi,Pula,1
+DUBROVACKONERETVANSKA,audi,Mlini,1
+PRIMORSKOGORANSKA,audi,Rijeka,1
+SPLITSKODALMATINSKA,audi,Solin,1
+VARAZDINSKA,audi,Varazdin,1
+11,aveda,RIJEKA,1
+DUBROVNIK,avis,Dubrovnik,1
+ZAGREB,avis,Zagreb,1
+ZADAR,avis,Zadar,1
+SPLIT,avis,Split,1
+UNKNOWN,best_in_parking,unknown,19
+SREDIŠNJAHRVATSKA,bipa_hr,Zagreb,31
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Poreč,2
+DALMACIJA,bipa_hr,Split,9
+SREDIŠNJAHRVATSKA,bipa_hr,Sesvete,1
+SREDIŠNJAHRVATSKA,bipa_hr,Zaprešić,2
+SREDIŠNJAHRVATSKA,bipa_hr,Samobor,1
+SREDIŠNJAHRVATSKA,bipa_hr,Karlovac,2
+SREDIŠNJAHRVATSKA,bipa_hr,Krapina,1
+SREDIŠNJAHRVATSKA,bipa_hr,Varaždin,2
+SREDIŠNJAHRVATSKA,bipa_hr,Donji Kneginec,1
+SREDIŠNJAHRVATSKA,bipa_hr,Čakovec,1
+SREDIŠNJAHRVATSKA,bipa_hr,Dugo Selo,1
+SREDIŠNJAHRVATSKA,bipa_hr,Prelog,1
+SREDIŠNJAHRVATSKA,bipa_hr,Sisak,2
+SREDIŠNJAHRVATSKA,bipa_hr,Bjelovar,2
+SLAVONIJAIBARANJA,bipa_hr,Virovitica,1
+SLAVONIJAIBARANJA,bipa_hr,Beli Manastir,1
+SLAVONIJAIBARANJA,bipa_hr,Slavonski Brod,3
+SREDIŠNJAHRVATSKA,bipa_hr,Našice,1
+SLAVONIJAIBARANJA,bipa_hr,Osijek,3
+SLAVONIJAIBARANJA,bipa_hr,Đakovo,1
+SLAVONIJAIBARANJA,bipa_hr,Vinkovci,1
+SLAVONIJAIBARANJA,bipa_hr,Valpovo,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Rijeka,4
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Opatija,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Crikvenica,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Omišalj,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Mali Lošinj,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Senj,1
+DALMACIJA,bipa_hr,Zadar,4
+DALMACIJA,bipa_hr,Vodice,1
+DALMACIJA,bipa_hr,Solin,1
+DALMACIJA,bipa_hr,Sinj,1
+DALMACIJA,bipa_hr,Makarska,2
+DALMACIJA,bipa_hr,Metković,1
+DALMACIJA,bipa_hr,Imotski,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Pazin,1
+DALMACIJA,bipa_hr,Šibenik,2
+SREDIŠNJAHRVATSKA,bipa_hr,Koprivnica,1
+SLAVONIJAIBARANJA,bipa_hr,Donji Miholjac,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Rab,1
+DALMACIJA,bipa_hr,Knin,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Kastav,1
+SLAVONIJAIBARANJA,bipa_hr,Vukovar,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Matulji,1
+SLAVONIJAIBARANJA,bipa_hr,Nova Gradiška,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Rovinj,1
+SREDIŠNJAHRVATSKA,bipa_hr,Velika Gorica,2
+DALMACIJA,bipa_hr,Korčula,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Viškovo,1
+SREDIŠNJAHRVATSKA,bipa_hr,Zlatar,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Pula,3
+DALMACIJA,bipa_hr,Novalja,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Umag,1
+DALMACIJA,bipa_hr,Trogir,2
+SREDIŠNJAHRVATSKA,bipa_hr,Lepoglava,1
+DALMACIJA,bipa_hr,Benkovac,1
+SREDIŠNJAHRVATSKA,bipa_hr,Jastrebarsko,1
+UNKNOWN,bipa_hr,Garešnica,1
+UNKNOWN,bipa_hr,Bibinje,1
+SREDIŠNJAHRVATSKA,bipa_hr,Ludbreg,1
+SLAVONIJAIBARANJA,bipa_hr,Županja,1
+SREDIŠNJAHRVATSKA,bipa_hr,Daruvar,1
+SLAVONIJAIBARANJA,bipa_hr,Požega,1
+SREDIŠNJAHRVATSKA,bipa_hr,Križevci,1
+SREDIŠNJAHRVATSKA,bipa_hr,Kutina,1
+SREDIŠNJAHRVATSKA,bipa_hr,Vrbovec,1
+SREDIŠNJAHRVATSKA,bipa_hr,Ogulin,1
+SREDIŠNJAHRVATSKA,bipa_hr,Ivanec,1
+ISTRAISJEVERNOPRIMORJE,bipa_hr,Krk,1
+SREDIŠNJAHRVATSKA,bipa_hr,Zabok,1
+SLAVONIJAIBARANJA,bipa_hr,Slatina,1
+SREDIŠNJAHRVATSKA,bipa_hr,Rakovica,1
+DALMACIJA,bipa_hr,Dubrovnik,1
+ISTRA,bipa_hr,Rovinj,1
+ZAGREB,bipa_hr,Grad Zagreb,1
+PRIMORSKOGORANSKAŽUPANIJA,bipa_hr,Kukuljanovo,1
+GRADZAGREB,bipa_hr,Zagreb,1
+LIKA,bipa_hr,Gospić,1
+VARAŽDINSKA,bipa_hr,Novi Marof,1
+UNKNOWN,bmw_group,Zadar,1
+UNKNOWN,bmw_group,Pula,1
+DALMATIEN,bmw_group,Split,1
+UNKNOWN,bmw_group,Slavonski Brod,1
+ZUPANIJAMEDIMURSKA,bmw_group,Cakovec,1
+UNKNOWN,bmw_group,Rijeka,1
+UNKNOWN,bmw_group,Zagreb,2
+OSJECKOBARANJSKAZUPANIJA,bmw_group,Osijek,1
+UNKNOWN,box_now,unknown,468
+UNKNOWN,calvin_klein,Zagreb,1
+UNKNOWN,calvin_klein,Sv. Kriz Zacretje,1
+UNKNOWN,crocs_eu,Zagreb,2
+UNKNOWN,c_and_a,Zapresic,1
+UNKNOWN,c_and_a,Zagreb,5
+UNKNOWN,c_and_a,Zadar,1
+UNKNOWN,c_and_a,Varazdin,1
+UNKNOWN,c_and_a,Split,1
+UNKNOWN,c_and_a,Slavonski Brod,1
+UNKNOWN,c_and_a,Sisak,1
+UNKNOWN,c_and_a,Sibenik,1
+UNKNOWN,c_and_a,Samobor,1
+UNKNOWN,c_and_a,Rijeka,1
+UNKNOWN,c_and_a,Pula,1
+UNKNOWN,c_and_a,Pozega,1
+UNKNOWN,c_and_a,Porec,1
+UNKNOWN,c_and_a,Osijek,1
+UNKNOWN,c_and_a,Koprivnica,1
+UNKNOWN,c_and_a,Karlovac,1
+UNKNOWN,c_and_a,"Donji Kneginec, Turcin",1
+UNKNOWN,c_and_a,Cakovec,1
+UNKNOWN,c_and_a,Bjelovar,1
+ZAGREBAČKAŽUPANIJA,deichmann,Velika Gorica,1
+ZAGREBAČKAŽUPANIJA,deichmann,Samobor,1
+ZADARSKAŽUPANIJA,deichmann,Zadar,1
+VUKOVARSKOSRIJEMSKAŽUPANIJA,deichmann,Vukovar,1
+VUKOVARSKOSRIJEMSKAŽUPANIJA,deichmann,Vinkovci,1
+VIROVITIČKOPODRAVSKAŽUPANIJA,deichmann,Virovitica,1
+VARAŽDINSKAŽUPANIJA,deichmann,Varazdin,1
+VARAŽDINSKAŽUPANIJA,deichmann,Turčin,1
+SPLITSKODALMATINSKAŽUPANIJA,deichmann,Trogir,1
+SPLITSKODALMATINSKAŽUPANIJA,deichmann,Split,3
+SPLITSKODALMATINSKAŽUPANIJA,deichmann,Makarska,1
+SPLITSKODALMATINSKAŽUPANIJA,deichmann,Imotski,1
+SISAČKOMOSLAVAČKAŽUPANIJA,deichmann,Sisak,1
+SISAČKOMOSLAVAČKAŽUPANIJA,deichmann,Kutina,1
+ŠIBENSKOKNINSKAŽUPANIJA,deichmann,Šibenik,1
+PRIMORSKOGORANSKAŽUPANIJA,deichmann,Rijeka,2
+PRIMORSKOGORANSKAŽUPANIJA,deichmann,Kukuljanovo,1
+PRIMORSKOGORANSKAŽUPANIJA,deichmann,Krk,1
+PRIMORSKOGORANSKAŽUPANIJA,deichmann,Crikvenica,1
+POŽEŠKOSLAVONSKAŽUPANIJA,deichmann,Požega,1
+OSJEČKOBARANJSKAŽUPANIJA,deichmann,Đakovo,1
+OSJEČKOBARANJSKAŽUPANIJA,deichmann,Valpovo,1
+OSJEČKOBARANJSKAŽUPANIJA,deichmann,Osijek,2
+OSJEČKOBARANJSKAŽUPANIJA,deichmann,Nasice,1
+MEĐIMURSKAŽUPANIJA,deichmann,Čakovec,1
+KOPRIVNIČKOKRIŽEVAČKAŽUPANIJA,deichmann,Križevci,1
+KOPRIVNIČKOKRIŽEVAČKAŽUPANIJA,deichmann,Koprivinca,1
+KARLOVAČKAŽUPANIJA,deichmann,Karlovac,1
+ISTARSKAŽUPANIJA,deichmann,Pula,1
+ISTARSKAŽUPANIJA,deichmann,Poreč,1
+GRADZAGREB,deichmann,Zagreb,7
+GRADZAGREB,deichmann,Sesvete,1
+DUBROVAČKONERETVANSKAŽUPANIJA,deichmann,Dubrovnik,1
+BRODSKOPOSAVSKAŽUPANIJA,deichmann,Slavonski Brod,2
+BRODSKOPOSAVSKAŽUPANIJA,deichmann,Nova Gradiska,1
+BJELOVARSKOBILOGORSKAŽUPANIJA,deichmann,Daruvar,1
+BJELOVARSKOBILOGORSKAŽUPANIJA,deichmann,Bjelovar,1
+UNKNOWN,dm,VELIKA GORICA,3
+UNKNOWN,dm,SPLIT,12
+UNKNOWN,dm,ZAGREB,49
+UNKNOWN,dm,RIJEKA,10
+UNKNOWN,dm,VUKOVAR,1
+UNKNOWN,dm,DONJI KNEGINEC,1
+UNKNOWN,dm,OSIJEK,9
+UNKNOWN,dm,DONJI STUPNIK,1
+UNKNOWN,dm,ROVINJ,1
+UNKNOWN,dm,POŽEGA,2
+UNKNOWN,dm,ČAKOVEC,3
+UNKNOWN,dm,SLAVONSKI BROD,3
+UNKNOWN,dm,DARUVAR,2
+UNKNOWN,dm,ZADAR,5
+UNKNOWN,dm,KARLOVAC,3
+UNKNOWN,dm,MLINI,1
+UNKNOWN,dm,PULA,4
+UNKNOWN,dm,GOSPIĆ,1
+UNKNOWN,dm,CRIKVENICA,1
+UNKNOWN,dm,SUPETAR,1
+UNKNOWN,dm,JABLANOVEC,1
+UNKNOWN,dm,OGULIN,1
+UNKNOWN,dm,KAŠTEL SUĆURAC,1
+UNKNOWN,dm,DUBROVNIK,2
+UNKNOWN,dm,IVANIĆ-GRAD,1
+UNKNOWN,dm,ĐAKOVO,2
+UNKNOWN,dm,KOPRIVNICA,2
+UNKNOWN,dm,IMOTSKI,1
+UNKNOWN,dm,ZABOK,1
+UNKNOWN,dm,KRK,1
+UNKNOWN,dm,RAB,1
+UNKNOWN,dm,SAMOBOR,2
+UNKNOWN,dm,SISAK,3
+UNKNOWN,dm,KNIN,1
+UNKNOWN,dm,ŽUPANJA,1
+UNKNOWN,dm,DUGO SELO,1
+UNKNOWN,dm,UMAG,1
+UNKNOWN,dm,KUTINA,2
+UNKNOWN,dm,SESVETE,2
+UNKNOWN,dm,NOVA GRADIŠKA,1
+UNKNOWN,dm,KRIŽEVCI,2
+UNKNOWN,dm,KRAPINA,1
+UNKNOWN,dm,ZAPREŠIĆ,3
+UNKNOWN,dm,TROGIR,1
+UNKNOWN,dm,ŠIBENIK,3
+UNKNOWN,dm,BJELOVAR,1
+UNKNOWN,dm,VARAŽDIN,2
+UNKNOWN,dm,VINKOVCI,2
+UNKNOWN,dm,METKOVIĆ,1
+UNKNOWN,dm,BIOGRAD NA MORU,1
+UNKNOWN,dm,VRBOVEC,1
+UNKNOWN,dm,NOVI VINODOLSKI,1
+UNKNOWN,dm,STARI GRAD,1
+UNKNOWN,dm,BUZET,1
+UNKNOWN,dm,NAŠICE,1
+UNKNOWN,dm,SINJ,1
+UNKNOWN,dm,SENJ,1
+UNKNOWN,dm,MAKARSKA,1
+UNKNOWN,dm,VIROVITICA,1
+UNKNOWN,dm,VALPOVO,1
+UNKNOWN,dm,SLATINA,1
+UNKNOWN,dm,MALI LOŠINJ,1
+UNKNOWN,dm,POREČ,1
+UNKNOWN,dm,PETRINJA,1
+UNKNOWN,dm,LABIN,2
+UNKNOWN,dm,DUGOPOLJE,1
+UNKNOWN,dm,JASTREBARSKO,1
+UNKNOWN,dm,OPATIJA,1
+UNKNOWN,dm,PAZIN,1
+UNKNOWN,dm,SOLIN,1
+UNKNOWN,ecco,Split,2
+UNKNOWN,ecco,Zagreb,3
+UNKNOWN,ecco,Rijeka,1
+UNKNOWN,enterprise,Dubrovnik,2
+UNKNOWN,enterprise,Pula,2
+UNKNOWN,enterprise,Rijeka,2
+UNKNOWN,enterprise,Split,2
+UNKNOWN,enterprise,Zadar,2
+UNKNOWN,enterprise,Rovinj,1
+UNKNOWN,enterprise,Zagreb,4
+UNKNOWN,ernst_young,Zagreb,2
+UNKNOWN,extreme_intimo,unknown,7
+GRADZAGREB,fedex,Zagreb,1
+PRIMORSKOGORANSKA,fedex,Viskovo,1
+OSJECKOBARANJSKA,fedex,Osijek,1
+UNKNOWN,fjallraven,Rijeka,1
+UNKNOWN,gbfs,unknown,296
+UNKNOWN,geox,ZAGABRIA,3
+UNKNOWN,hardrock,Dubrovnik,1
+UNKNOWN,hm,Zagreb,6
+UNKNOWN,hm,Split,2
+UNKNOWN,hm,Zadar,1
+UNKNOWN,hm,Osijek,1
+UNKNOWN,hm,Rijeka,1
+UNKNOWN,hm,Slavonski Brod,1
+UNKNOWN,hm,Sibenik,1
+UNKNOWN,hm,Varazdin,1
+UNKNOWN,hm,Dubrovnik,1
+UNKNOWN,hm,Pula,1
+02,hugo_boss,Zagreb,1
+21,hugo_boss,Zagreb,1
+16,hugo_boss,Split,2
+UNKNOWN,ikea,Sop,1
+GRADZAGREB,ikks,ZAGREB,2
+LICKOSENJSKA,ionity,unknown,1
+ZADARSKA,ionity,unknown,1
+GRADZAGREB,ionity,Sesvete,1
+KRAPINSKOZAGORSKA,ionity,unknown,1
+ISTARSKA,ionity,unknown,1
+UNKNOWN,jysk,Split,2
+UNKNOWN,jysk,Vrbovec,1
+UNKNOWN,jysk,Zadar,2
+UNKNOWN,jysk,Ivanić Grad,1
+UNKNOWN,jysk,Dugopolje,1
+UNKNOWN,jysk,Krk,1
+UNKNOWN,jysk,Pazin,1
+UNKNOWN,jysk,Labin,1
+UNKNOWN,jysk,Daruvar,1
+UNKNOWN,jysk,Kukuljanovo,1
+UNKNOWN,jysk,Sveti Ivan Zelina,1
+UNKNOWN,jysk,Zagreb,7
+UNKNOWN,jysk,Županja,1
+UNKNOWN,jysk,Krapina,1
+UNKNOWN,jysk,Biograd na moru,1
+UNKNOWN,jysk,Pula,2
+UNKNOWN,jysk,Supetar,1
+UNKNOWN,jysk,Našice,1
+UNKNOWN,jysk,Umag,1
+UNKNOWN,jysk,Korčula,1
+UNKNOWN,jysk,Križevci,1
+UNKNOWN,jysk,Makarska,1
+UNKNOWN,jysk,Novi Zagreb,1
+UNKNOWN,jysk,Vukovar,1
+UNKNOWN,jysk,Sesvete,1
+UNKNOWN,jysk,Požega,1
+UNKNOWN,jysk,Opuzen,1
+UNKNOWN,jysk,Donja Bistra,1
+UNKNOWN,jysk,Poreč,1
+UNKNOWN,jysk,Zabok,1
+UNKNOWN,jysk,Kaštel Sućurac,1
+UNKNOWN,jysk,Rovinj,1
+UNKNOWN,jysk,Samobor,1
+UNKNOWN,jysk,Osijek,2
+UNKNOWN,jysk,Velika Gorica,1
+UNKNOWN,jysk,Mlini,1
+UNKNOWN,jysk,Bjelovar,1
+UNKNOWN,jysk,Sinj,1
+UNKNOWN,jysk,Karlovac,1
+UNKNOWN,jysk,Sisak,1
+UNKNOWN,jysk,Šibenik,1
+UNKNOWN,jysk,Đakovo,1
+UNKNOWN,jysk,Vinkovci,1
+UNKNOWN,jysk,Rijeka,1
+UNKNOWN,jysk,Slavonski Brod,1
+UNKNOWN,jysk,Čakovec,1
+UNKNOWN,jysk,Valpovo,1
+UNKNOWN,jysk,Imotski,1
+UNKNOWN,jysk,Virovitica,1
+UNKNOWN,jysk,Varaždin,1
+UNKNOWN,jysk,Koprivnica,1
+UNKNOWN,kaufland,Zagreb Peščenica,1
+UNKNOWN,kaufland,Zabok,1
+UNKNOWN,kaufland,Karlovac,1
+UNKNOWN,kaufland,Čakovec,1
+UNKNOWN,kaufland,Koprivnica,1
+UNKNOWN,kaufland,Đakovo,1
+UNKNOWN,kaufland,Vinkovci,1
+UNKNOWN,kaufland,Sisak,1
+UNKNOWN,kaufland,Split,1
+UNKNOWN,kaufland,Rijeka Zamet,1
+UNKNOWN,kaufland,Zagreb Ravnice,1
+UNKNOWN,kaufland,Zadar - Višnjik,1
+UNKNOWN,kaufland,Velika Gorica,1
+UNKNOWN,kaufland,Varaždin,2
+UNKNOWN,kaufland,Šibenik,1
+UNKNOWN,kaufland,Pula,1
+UNKNOWN,kaufland,Slavonski Brod,1
+UNKNOWN,kaufland,Virovitica,1
+UNKNOWN,kaufland,Bjelovar,1
+UNKNOWN,kaufland,Osijek,1
+UNKNOWN,kaufland,Kutina,1
+UNKNOWN,kaufland,Zaprešić,1
+UNKNOWN,kaufland,Zagreb Sesvete,1
+UNKNOWN,kaufland,Samobor,1
+UNKNOWN,kaufland,Sinj,1
+UNKNOWN,kaufland,Dugo Selo,1
+UNKNOWN,kaufland,Poreč,1
+UNKNOWN,kaufland,Zagreb Jankomir,1
+UNKNOWN,kaufland,Zagreb - Jablanska,1
+UNKNOWN,kaufland,Umag,1
+UNKNOWN,kaufland,Trogir,1
+UNKNOWN,kaufland,Zagreb Blato,1
+UNKNOWN,kaufland,Zagreb Sloboština,1
+UNKNOWN,kaufland,Makarska,1
+UNKNOWN,kaufland,Zagreb Središće,1
+UNKNOWN,kaufland,Zadar - Sinjoretovo,1
+UNKNOWN,kaufland,Rovinj - Rovigno,1
+UNKNOWN,kaufland,Zagreb Barutanski Jarak,1
+UNKNOWN,kaufland,Biograd na Moru,1
+UNKNOWN,kaufland,Vukovar,1
+UNKNOWN,kaufland,Zagreb Zagrebačka 136,1
+UNKNOWN,kaufland,Nova Gradiška,1
+UNKNOWN,kaufland,Požega,1
+UNKNOWN,kaufland,Zagreb St. Grad,1
+UNKNOWN,kaufland,Rijeka Škurinje,1
+UNKNOWN,kaufland,Čibača,1
+UNKNOWN,kaufland,Vodice,1
+GRADZAGREB,kfc_amrest,Zagreb,1
+UNKNOWN,kik,Korcula,1
+UNKNOWN,kik,Dubrovnik,1
+UNKNOWN,kik,Mlini Dubrovnik,1
+UNKNOWN,kik,Hvar-Stari grad,1
+UNKNOWN,kik,Supetar-Brac,1
+UNKNOWN,kik,Metkovic,1
+UNKNOWN,kik,Trogir,1
+UNKNOWN,kik,Makarska,1
+UNKNOWN,kik,Kastel Stafilic/Trogir,1
+UNKNOWN,kik,Split,3
+UNKNOWN,kik,Omiš,1
+UNKNOWN,kik,Kastel Sucurac,2
+UNKNOWN,kik,Solin,1
+UNKNOWN,kik,Sibenik,2
+UNKNOWN,kik,Biograd na Moru,1
+UNKNOWN,kik,Imotski,1
+UNKNOWN,kik,Zadar,1
+UNKNOWN,kik,Benkovac,1
+UNKNOWN,kik,Nin,1
+UNKNOWN,kik,Novalja,1
+UNKNOWN,kik,Pula,2
+UNKNOWN,kik,Gospic,1
+UNKNOWN,kik,Rovinj,2
+UNKNOWN,kik,Labin,2
+UNKNOWN,kik,Pazin,2
+UNKNOWN,kik,Krk,1
+UNKNOWN,kik,Umag,1
+UNKNOWN,kik,Crikvenica,1
+UNKNOWN,kik,Opatija,1
+UNKNOWN,kik,Plitvice,1
+UNKNOWN,kik,Rijeka,4
+UNKNOWN,kik,Kukuljanovo,1
+UNKNOWN,kik,Ogulin,1
+UNKNOWN,kik,Karlovac,1
+UNKNOWN,kik,Karlovac Supernova),1
+UNKNOWN,kik,Jastrebarsko,1
+UNKNOWN,kik,Sisak,2
+UNKNOWN,kik,Nova Gradiška,1
+UNKNOWN,kik,Kutina,1
+UNKNOWN,kik,Samobor,1
+UNKNOWN,kik,Velika Gorica,1
+UNKNOWN,kik,Zagreb,9
+UNKNOWN,kik,Slavonski Brod,2
+UNKNOWN,kik,Zagreb Spansko,1
+UNKNOWN,kik,Zapresic,3
+UNKNOWN,kik,Pozega,1
+UNKNOWN,kik,Ivanić Grad,1
+UNKNOWN,kik,Zagreb-Resnik,1
+UNKNOWN,kik,Sesvete - Novi Jelkovec,1
+UNKNOWN,kik,Sesvetski Kraljevec,1
+UNKNOWN,kik,Sesvete,1
+UNKNOWN,kik,Dugo Selo,1
+UNKNOWN,kik,Županja,1
+UNKNOWN,kik,Daruvar,1
+UNKNOWN,kik,Vrbovec,1
+UNKNOWN,kik,Zabok,1
+UNKNOWN,kik,Sveti Ivan Zelina,1
+UNKNOWN,kik,Dakovo,1
+UNKNOWN,kik,Nasice,1
+UNKNOWN,kik,Vinkovci,2
+UNKNOWN,kik,Krapina,1
+UNKNOWN,kik,Križevci,1
+UNKNOWN,kik,Virovitica,1
+UNKNOWN,kik,Novi Marof,1
+UNKNOWN,kik,Ivanec,1
+UNKNOWN,kik,Ilok,1
+UNKNOWN,kik,Vukovar,1
+UNKNOWN,kik,Osijek,4
+UNKNOWN,kik,Valpovo,1
+UNKNOWN,kik,Koprivnica,1
+UNKNOWN,kik,Varaždin,1
+UNKNOWN,kik,Ludbreg,1
+UNKNOWN,kik,Cakovec,2
+UNKNOWN,konzum_hr,Zagreb,136
+UNKNOWN,konzum_hr,Tenja,1
+UNKNOWN,konzum_hr,Knin,4
+UNKNOWN,konzum_hr,Vodice,2
+UNKNOWN,konzum_hr,Split,21
+UNKNOWN,konzum_hr,Dubrovnik,6
+UNKNOWN,konzum_hr,Gradići,1
+UNKNOWN,konzum_hr,Varaždin,10
+UNKNOWN,konzum_hr,Tribunj,1
+UNKNOWN,konzum_hr,Sesvete,7
+UNKNOWN,konzum_hr,Velika Gorica,4
+UNKNOWN,konzum_hr,Bizovac,1
+UNKNOWN,konzum_hr,Lipovljani,1
+UNKNOWN,konzum_hr,Rovinj,8
+UNKNOWN,konzum_hr,Zaprešić,3
+UNKNOWN,konzum_hr,Orebić,2
+UNKNOWN,konzum_hr,Omišalj,1
+UNKNOWN,konzum_hr,Vidovec,1
+UNKNOWN,konzum_hr,Turčin,1
+UNKNOWN,konzum_hr,Odra,2
+UNKNOWN,konzum_hr,Novo Čiče,1
+UNKNOWN,konzum_hr,Kistanje,1
+UNKNOWN,konzum_hr,Križevci,1
+UNKNOWN,konzum_hr,Vis,1
+UNKNOWN,konzum_hr,Pula,7
+UNKNOWN,konzum_hr,Gospić,3
+UNKNOWN,konzum_hr,Donja Lomnica,1
+UNKNOWN,konzum_hr,Novska,1
+UNKNOWN,konzum_hr,Gornji Desinec,1
+UNKNOWN,konzum_hr,Preko,2
+UNKNOWN,konzum_hr,Lepoglava,1
+UNKNOWN,konzum_hr,Solin,4
+UNKNOWN,konzum_hr,Bilje,1
+UNKNOWN,konzum_hr,Čabar,1
+UNKNOWN,konzum_hr,Rubeši,1
+UNKNOWN,konzum_hr,Krapinske Toplice,2
+UNKNOWN,konzum_hr,Otok,1
+UNKNOWN,konzum_hr,Vrhovine,1
+UNKNOWN,konzum_hr,Rogoznica,2
+UNKNOWN,konzum_hr,Baška Voda,1
+UNKNOWN,konzum_hr,Korčula,4
+UNKNOWN,konzum_hr,Babina Greda,1
+UNKNOWN,konzum_hr,Trogir,1
+UNKNOWN,konzum_hr,Šibenik,7
+UNKNOWN,konzum_hr,Rakov Potok,1
+UNKNOWN,konzum_hr,Sračinec,1
+UNKNOWN,konzum_hr,Labin,1
+UNKNOWN,konzum_hr,Vukovina,1
+UNKNOWN,konzum_hr,Ludbreg,1
+UNKNOWN,konzum_hr,Šemovec,1
+UNKNOWN,konzum_hr,Karlovac,4
+UNKNOWN,konzum_hr,Lopar,3
+UNKNOWN,konzum_hr,Bribir,1
+UNKNOWN,konzum_hr,Oroslavje,1
+UNKNOWN,konzum_hr,Valpovo,1
+UNKNOWN,konzum_hr,Komolac,1
+UNKNOWN,konzum_hr,FUNTANA,1
+UNKNOWN,konzum_hr,Buje,2
+UNKNOWN,konzum_hr,Beletinec,1
+UNKNOWN,konzum_hr,Duga Resa,3
+UNKNOWN,konzum_hr,Čakovec,3
+UNKNOWN,konzum_hr,Grohote,1
+UNKNOWN,konzum_hr,Beretinec,1
+UNKNOWN,konzum_hr,Fažana,1
+UNKNOWN,konzum_hr,Sinj,3
+UNKNOWN,konzum_hr,Medveja,1
+UNKNOWN,konzum_hr,Nijemci,1
+UNKNOWN,konzum_hr,Barban,1
+UNKNOWN,konzum_hr,Sutivan,1
+UNKNOWN,konzum_hr,Imotski,1
+UNKNOWN,konzum_hr,Sisak,3
+UNKNOWN,konzum_hr,Ivanec,2
+UNKNOWN,konzum_hr,Vrbovsko,1
+UNKNOWN,konzum_hr,Ika,1
+UNKNOWN,konzum_hr,Makarska,6
+UNKNOWN,konzum_hr,Novi Vinodolski,1
+UNKNOWN,konzum_hr,Zadar,9
+UNKNOWN,konzum_hr,Krapina,4
+UNKNOWN,konzum_hr,Sućuraj,1
+UNKNOWN,konzum_hr,Bjelovar,1
+UNKNOWN,konzum_hr,Delnice,1
+UNKNOWN,konzum_hr,Marija Bistrica,1
+UNKNOWN,konzum_hr,Staro Petrovo Selo,1
+UNKNOWN,konzum_hr,Tuhelj,1
+UNKNOWN,konzum_hr,Jalkovec,1
+UNKNOWN,konzum_hr,Pleternica,1
+UNKNOWN,konzum_hr,Nova Ves,1
+UNKNOWN,konzum_hr,Osijek,12
+UNKNOWN,konzum_hr,Barbat,1
+UNKNOWN,konzum_hr,Vinkovci,3
+UNKNOWN,konzum_hr,Strmec Samoborski,1
+UNKNOWN,konzum_hr,Županja,1
+UNKNOWN,konzum_hr,ROVINJ,3
+UNKNOWN,konzum_hr,Kukuljanovo,1
+UNKNOWN,konzum_hr,VRSAR,2
+UNKNOWN,konzum_hr,Lipik,1
+UNKNOWN,konzum_hr,Baška,1
+UNKNOWN,konzum_hr,Selce,1
+UNKNOWN,konzum_hr,Sv. Križ Začretje,1
+UNKNOWN,konzum_hr,Ugljan,1
+UNKNOWN,konzum_hr,Brtonigla,1
+UNKNOWN,konzum_hr,Podvinje,1
+UNKNOWN,konzum_hr,Tršće,1
+UNKNOWN,konzum_hr,Sv. Ivan Zelina,1
+UNKNOWN,konzum_hr,Hvar,1
+UNKNOWN,konzum_hr,Vrsar,3
+UNKNOWN,konzum_hr,Pregrada,2
+UNKNOWN,konzum_hr,Kaštel Štafilić,1
+UNKNOWN,konzum_hr,Glina,1
+UNKNOWN,konzum_hr,Rab,3
+UNKNOWN,konzum_hr,Opatija,2
+UNKNOWN,konzum_hr,Petrijevci,1
+UNKNOWN,konzum_hr,Kneginec Gornji,1
+UNKNOWN,konzum_hr,Starigrad Paklenica,1
+UNKNOWN,konzum_hr,Otok Sinjski,1
+UNKNOWN,konzum_hr,Krk,2
+UNKNOWN,konzum_hr,Privlaka,1
+UNKNOWN,konzum_hr,Poreč,3
+UNKNOWN,konzum_hr,Banjol,1
+UNKNOWN,konzum_hr,Zlatar,1
+UNKNOWN,konzum_hr,Desinić,1
+UNKNOWN,konzum_hr,Virovitica,3
+UNKNOWN,konzum_hr,Belišće,1
+UNKNOWN,konzum_hr,Gornji Stupnik,1
+UNKNOWN,konzum_hr,Savudrija,1
+UNKNOWN,konzum_hr,Supetarska Draga,1
+UNKNOWN,konzum_hr,Viškovo,1
+UNKNOWN,konzum_hr,Gerovo,1
+UNKNOWN,konzum_hr,Novi Marof,1
+UNKNOWN,konzum_hr,Slavonski Brod,5
+UNKNOWN,konzum_hr,Stankovci,1
+UNKNOWN,konzum_hr,Ozalj,1
+UNKNOWN,konzum_hr,Ploče,1
+UNKNOWN,konzum_hr,Lovran,2
+UNKNOWN,konzum_hr,Klanjec,1
+UNKNOWN,konzum_hr,Jalžabet,1
+UNKNOWN,konzum_hr,Postira,1
+UNKNOWN,konzum_hr,Kupari,1
+UNKNOWN,konzum_hr,Omiš,2
+UNKNOWN,konzum_hr,Donji Kneginec,1
+UNKNOWN,konzum_hr,Jastrebarsko,3
+UNKNOWN,konzum_hr,Kaštel Sućurac,2
+UNKNOWN,konzum_hr,Veprinac,1
+UNKNOWN,konzum_hr,Crikvenica,3
+UNKNOWN,konzum_hr,Nova Gradiška,2
+UNKNOWN,konzum_hr,Požega,3
+UNKNOWN,konzum_hr,Okučani,1
+UNKNOWN,konzum_hr,Brodarica,1
+UNKNOWN,konzum_hr,Klenovica,1
+UNKNOWN,konzum_hr,Rijeka,4
+UNKNOWN,konzum_hr,Trnovec Bartolovečki,1
+UNKNOWN,konzum_hr,Koška,1
+UNKNOWN,konzum_hr,Pribislavec,1
+UNKNOWN,konzum_hr,Okrug Gornji,1
+UNKNOWN,konzum_hr,Novigrad,2
+UNKNOWN,konzum_hr,Sv.Ivan Zelina,1
+UNKNOWN,konzum_hr,Donji Andrijevci,1
+UNKNOWN,konzum_hr,Vukovar,3
+UNKNOWN,konzum_hr,Tučepi,1
+UNKNOWN,konzum_hr,Mlini,1
+UNKNOWN,konzum_hr,Kolan,1
+UNKNOWN,konzum_hr,Stubičke Toplice,1
+UNKNOWN,konzum_hr,Biograd Na Moru,2
+UNKNOWN,konzum_hr,"Bol, Otok Brač",1
+UNKNOWN,konzum_hr,Čeglje,1
+UNKNOWN,konzum_hr,Vela Luka,2
+UNKNOWN,konzum_hr,Davor,1
+UNKNOWN,konzum_hr,Vrbovec,1
+UNKNOWN,konzum_hr,Kampor,1
+UNKNOWN,konzum_hr,Ogulin,2
+UNKNOWN,konzum_hr,Pazin,1
+UNKNOWN,konzum_hr,Tribalj,1
+UNKNOWN,konzum_hr,Majerje,1
+UNKNOWN,konzum_hr,Cerovac Vukmanički,1
+UNKNOWN,konzum_hr,Matulji,1
+UNKNOWN,konzum_hr,Koprivnica,2
+UNKNOWN,konzum_hr,Vodice - Srima,1
+UNKNOWN,konzum_hr,Hrašćica,1
+UNKNOWN,konzum_hr,Vrbanovec,1
+UNKNOWN,konzum_hr,Milna,1
+UNKNOWN,konzum_hr,Pag,3
+UNKNOWN,konzum_hr,Mali Lošinj,1
+UNKNOWN,konzum_hr,Buzet,1
+UNKNOWN,konzum_hr,Perušić,1
+UNKNOWN,konzum_hr,Blato,1
+UNKNOWN,konzum_hr,Žrnovnica,1
+UNKNOWN,konzum_hr,Šćitarjevo,1
+UNKNOWN,konzum_hr,Volosko,1
+UNKNOWN,konzum_hr,Prelog,2
+UNKNOWN,konzum_hr,Dugopolje,2
+UNKNOWN,konzum_hr,Kelemen,1
+UNKNOWN,konzum_hr,Pitomača,1
+UNKNOWN,konzum_hr,Petrčane,1
+UNKNOWN,konzum_hr,Gornje Jesenje,1
+UNKNOWN,konzum_hr,Metković,2
+UNKNOWN,konzum_hr,Mrkopalj,1
+UNKNOWN,konzum_hr,"Kravarsko ,Velika Gorica",1
+UNKNOWN,konzum_hr,Klinča Sela,1
+UNKNOWN,konzum_hr,Ilok,1
+UNKNOWN,konzum_hr,Orahovica,1
+UNKNOWN,konzum_hr,Sv.Filip I Jakov,1
+UNKNOWN,konzum_hr,Dugo Selo,1
+UNKNOWN,konzum_hr,Umag,3
+UNKNOWN,konzum_hr,Ston,1
+UNKNOWN,konzum_hr,Kućan Marof,1
+UNKNOWN,konzum_hr,Brckovljani,1
+UNKNOWN,konzum_hr,Bistra,1
+UNKNOWN,konzum_hr,Kaštelanec,1
+UNKNOWN,konzum_hr,Banjole,1
+UNKNOWN,konzum_hr,Vodnjan,1
+UNKNOWN,konzum_hr,Lumbarda,1
+UNKNOWN,konzum_hr,SVETVINČENAT,1
+UNKNOWN,konzum_hr,Mursko Središće,1
+UNKNOWN,konzum_hr,Benkovac,1
+UNKNOWN,konzum_hr,Višnjevac,1
+UNKNOWN,konzum_hr,Čepin,1
+UNKNOWN,konzum_hr,Donja Stubica,1
+UNKNOWN,konzum_hr,Batrina,1
+UNKNOWN,konzum_hr,Drašnice,1
+UNKNOWN,konzum_hr,Velika Mlaka,1
+UNKNOWN,konzum_hr,Trilj,1
+UNKNOWN,konzum_hr,Sveti Ilija,1
+UNKNOWN,konzum_hr,Čačinci,1
+UNKNOWN,konzum_hr,Vinica,1
+UNKNOWN,konzum_hr,Našice,1
+UNKNOWN,konzum_hr,Velika,1
+UNKNOWN,konzum_hr,Neorić,1
+UNKNOWN,konzum_hr,Ivanić Grad,3
+UNKNOWN,konzum_hr,Jablanovec,1
+UNKNOWN,konzum_hr,Novalja,2
+UNKNOWN,konzum_hr,Kaštel Lukšić,1
+UNKNOWN,konzum_hr,Kolarovec,1
+UNKNOWN,konzum_hr,Mihovljan,1
+UNKNOWN,konzum_hr,Strizivojna,1
+UNKNOWN,konzum_hr,Oriovac,1
+UNKNOWN,konzum_hr,Rukavac,1
+UNKNOWN,konzum_hr,Sibinj,1
+UNKNOWN,konzum_hr,Brela,1
+UNKNOWN,konzum_hr,Beli Manastir,1
+UNKNOWN,konzum_hr,Brinje,1
+UNKNOWN,konzum_hr,Popovača,1
+UNKNOWN,konzum_hr,Mala Buna,1
+UNKNOWN,konzum_hr,Jezera,1
+UNKNOWN,konzum_hr,Povljana,1
+UNKNOWN,konzum_hr,Josipovac,1
+UNKNOWN,konzum_hr,Drniš,1
+UNKNOWN,konzum_hr,Jalševec Nartski,1
+UNKNOWN,konzum_hr,Zaostrog,1
+UNKNOWN,konzum_hr,Cavtat,1
+UNKNOWN,konzum_hr,Feričanci,1
+UNKNOWN,konzum_hr,Pisarovina,1
+UNKNOWN,konzum_hr,Daruvar,1
+UNKNOWN,konzum_hr,Donja Dubrava,1
+UNKNOWN,konzum_hr,Kukljica,1
+UNKNOWN,konzum_hr,Otočac,1
+UNKNOWN,konzum_hr,Đurđenovac,1
+UNKNOWN,konzum_hr,Brdovec,1
+UNKNOWN,konzum_hr,Korenica,1
+UNKNOWN,konzum_hr,Zabok,1
+UNKNOWN,konzum_hr,Turopolje,1
+UNKNOWN,konzum_hr,Garešnica,1
+UNKNOWN,konzum_hr,Jelsa,1
+UNKNOWN,konzum_hr,Dramalj,1
+UNKNOWN,konzum_hr,Grab,1
+UNKNOWN,konzum_hr,Supetar,1
+UNKNOWN,konzum_hr,Grižane,1
+UNKNOWN,konzum_hr,Pobri,1
+UNKNOWN,konzum_hr,Grabovac,1
+UNKNOWN,konzum_hr,Kućan Gornji,1
+UNKNOWN,konzum_hr,Sukošan,1
+UNKNOWN,konzum_hr,Hum Na Sutli,1
+UNKNOWN,konzum_hr,Sesvetski Kraljevec,1
+UNKNOWN,konzum_hr,Prezid,1
+UNKNOWN,konzum_hr,Obrovac,1
+UNKNOWN,konzum_hr,Pakrac,1
+UNKNOWN,konzum_hr,Samobor,2
+UNKNOWN,konzum_hr,Primošten,1
+UNKNOWN,konzum_hr,Senj,1
+UNKNOWN,konzum_hr,Greda,1
+UNKNOWN,konzum_hr,Vir,1
+UNKNOWN,konzum_hr,Veliko Trgovišće,1
+UNKNOWN,konzum_hr,Zaton,1
+UNKNOWN,konzum_hr,Vrboska,1
+UNKNOWN,konzum_hr,Skradin,1
+UNKNOWN,konzum_hr,Murter,1
+UNKNOWN,konzum_hr,Malinska,1
+UNKNOWN,konzum_hr,Đurmanec,1
+UNKNOWN,konzum_hr,Darda,1
+UNKNOWN,konzum_hr,Goričan,1
+UNKNOWN,konzum_hr,Vrgorac,1
+UNKNOWN,konzum_hr,Konjščina,1
+UNKNOWN,konzum_hr,Krašić,1
+UNKNOWN,konzum_hr,Marčana,1
+UNKNOWN,konzum_hr,Zlatar Bistrica,1
+UNKNOWN,konzum_hr,Bedekovčina,1
+UNKNOWN,konzum_hr,Jurovski Brod,1
+UNKNOWN,konzum_hr,Donji Miholjac,1
+UNKNOWN,konzum_hr,Cres,1
+UNKNOWN,konzum_hr,Đurđevac,1
+UNKNOWN,konzum_hr,Slatina,1
+UNKNOWN,konzum_hr,Žminj,1
+UNKNOWN,konzum_hr,Promajna,1
+UNKNOWN,konzum_hr,Kotoriba,1
+UNKNOWN,konzum_hr,Đakovo,1
+UNKNOWN,konzum_hr,Medulin,1
+UNKNOWN,lhw,Rovinj,2
+UNKNOWN,lhw,Dubrovnik,2
+UNKNOWN,lhw,Ika,1
+UNKNOWN,lhw,Hvar,1
+UNKNOWN,lhw,Zman,1
+UNKNOWN,lidl_hr,Jastrebarsko,1
+UNKNOWN,lidl_hr,Osijek,3
+UNKNOWN,lidl_hr,Županja,1
+UNKNOWN,lidl_hr,Varaždin,2
+UNKNOWN,lidl_hr,Valpovo,1
+UNKNOWN,lidl_hr,Vinkovci,1
+UNKNOWN,lidl_hr,Gospić,1
+UNKNOWN,lidl_hr,Sisak,1
+UNKNOWN,lidl_hr,Petrinja,1
+UNKNOWN,lidl_hr,Metković,1
+UNKNOWN,lidl_hr,Koprivnica,1
+UNKNOWN,lidl_hr,Labin,1
+UNKNOWN,lidl_hr,Sinj,1
+UNKNOWN,lidl_hr,Kutina,1
+UNKNOWN,lidl_hr,Solin,1
+UNKNOWN,lidl_hr,Nova Gradiška,1
+UNKNOWN,lidl_hr,Našice,1
+UNKNOWN,lidl_hr,Split,5
+UNKNOWN,lidl_hr,Ploče,1
+UNKNOWN,lidl_hr,Đurđevac,1
+UNKNOWN,lidl_hr,Imotski,1
+UNKNOWN,lidl_hr,Zagreb,17
+UNKNOWN,lidl_hr,Knin,1
+UNKNOWN,lidl_hr,Beli Manastir,1
+UNKNOWN,lidl_hr,Donji Miholjac,1
+UNKNOWN,lidl_hr,Zadar,3
+UNKNOWN,lidl_hr,Karlovac,2
+UNKNOWN,lidl_hr,Ivanec,1
+UNKNOWN,lidl_hr,Dubrovnik,1
+UNKNOWN,lidl_hr,Pula,2
+UNKNOWN,lidl_hr,Slatina,1
+UNKNOWN,lidl_hr,Daruvar,1
+UNKNOWN,lidl_hr,Vrbovec,1
+UNKNOWN,lidl_hr,Virovitica,1
+UNKNOWN,lidl_hr,Kaštela,1
+UNKNOWN,lidl_hr,Ogulin,1
+UNKNOWN,lidl_hr,Rovinj,1
+UNKNOWN,lidl_hr,Požega,1
+UNKNOWN,lidl_hr,Vodice,1
+UNKNOWN,lidl_hr,Otočac,1
+UNKNOWN,lidl_hr,Križevci,1
+UNKNOWN,lidl_hr,Rijeka,3
+UNKNOWN,lidl_hr,Trogir,1
+UNKNOWN,lidl_hr,Dugo Selo,1
+UNKNOWN,lidl_hr,Vukovar,1
+UNKNOWN,lidl_hr,Biograd na Moru,1
+UNKNOWN,lidl_hr,Pazin,1
+UNKNOWN,lidl_hr,Šibenik,2
+UNKNOWN,lidl_hr,Novska,1
+UNKNOWN,lidl_hr,Samobor,1
+UNKNOWN,lidl_hr,Sesvete,1
+UNKNOWN,lidl_hr,Makarska,1
+UNKNOWN,lidl_hr,Ivanić-Grad,1
+UNKNOWN,lidl_hr,Kukuljanovo,1
+UNKNOWN,lidl_hr,Supetar,1
+UNKNOWN,lidl_hr,Sveta Nedelja,1
+UNKNOWN,lidl_hr,Slavonski Brod,2
+UNKNOWN,lidl_hr,Čakovec,2
+UNKNOWN,lidl_hr,Mali Lošinj,1
+UNKNOWN,lidl_hr,Matulji,1
+UNKNOWN,lidl_hr,Novi Vinodolski,1
+UNKNOWN,lidl_hr,Đakovo,1
+UNKNOWN,lidl_hr,Delnice,1
+UNKNOWN,lidl_hr,Krapina,1
+UNKNOWN,lidl_hr,Zaprešić,1
+UNKNOWN,lidl_hr,Viškovo,1
+UNKNOWN,lidl_hr,Medulin,1
+UNKNOWN,lidl_hr,Krk,1
+UNKNOWN,lidl_hr,Crikvenica,1
+UNKNOWN,lidl_hr,Bjelovar,1
+UNKNOWN,lidl_hr,Zabok,1
+UNKNOWN,lidl_hr,Umag-Umago,1
+UNKNOWN,lidl_hr,Velika Gorica,2
+UNKNOWN,lidl_hr,Poreč,1
+UNKNOWN,lidl_hr,Dugopolje,1
+UNKNOWN,lidl_hr,Novi Marof,1
+UNKNOWN,longchamp,VELIKA GORICA,1
+KARLOVACKA,lukoil,LAPOVAC,1
+VUKOVARSKOSRIJEMSKA,lukoil,VUKOVAR,1
+BRODSKOPOSAVSKA,lukoil,unknown,1
+DUBROVACKONERETVANSKA,lukoil,DUBROVNIK,1
+OSJECKOBARANJSKA,lukoil,Belišće,1
+GRADZAGREB,lukoil,ZAGREB,2
+GRADZAGREB,lukoil,VELIKA GORICA,1
+SPLITSKODALMATINSKA,lukoil,SPLIT,2
+OSJECKOBARANJSKA,lukoil,Osijek,2
+ISTARSKA,lukoil,Pula,1
+GRADZAGREB,lukoil,Zagreb,6
+ZAGREBACKA,lukoil,Jakovlje,1
+SPLITSKODALMATINSKA,lukoil,Sinj,1
+SPLITSKODALMATINSKA,lukoil,Podgora,1
+SIBENSKOKNINISKA,lukoil,Sibenik,3
+PRIMORSKOGORANSKA,lukoil,Jadranovo,1
+ZAGREBACKA,lukoil,Zagreb,3
+SISACKOMOSLAVACKA,lukoil,Glina,1
+KARLOVACKA,lukoil,Karlovac,1
+OSJECKOBARANJSKA,lukoil,unknown,1
+SPLITSKODALMATINSKA,lukoil,Split,3
+VIROVITICKPODRAVSKA,lukoil,Pitomaca,1
+OSJECKOBARANJSKA,lukoil,Dakovo,1
+ZAGREBACKA,lukoil,Sv.Ivan Zelina,1
+SIBENSKOKNINISKA,lukoil,Knin,1
+SPLITSKODALMATINSKA,lukoil,Solin,1
+SPLITSKODALMATINSKA,lukoil,Dicmo,1
+GRADZAGREB,lukoil,Stupnik,1
+UNKNOWN,man_truck_and_bus,Hrvatski Leskovac,1
+UNKNOWN,man_truck_and_bus,Lipovljani,1
+UNKNOWN,man_truck_and_bus,Osijek,1
+UNKNOWN,man_truck_and_bus,Turčin,1
+UNKNOWN,man_truck_and_bus,Dugopolje,2
+UNKNOWN,man_truck_and_bus,Split,1
+UNKNOWN,man_truck_and_bus,Umag,1
+UNKNOWN,man_truck_and_bus,Primosten,1
+UNKNOWN,man_truck_and_bus,Punat,1
+UNKNOWN,man_truck_and_bus,Dubrovnik,1
+UNKNOWN,man_truck_and_bus,Zadar,2
+UNKNOWN,man_truck_and_bus,Čavle,1
+UNKNOWN,man_truck_and_bus,Karlovac,1
+UNKNOWN,man_truck_and_bus,Pazin,1
+UNKNOWN,man_truck_and_bus,Pula,1
+UNKNOWN,man_truck_and_bus,Rijeka,1
+UNKNOWN,man_truck_and_bus,Brodarica,1
+UNKNOWN,man_truck_and_bus,Brezovica,1
+UNKNOWN,marriott,Split,2
+UNKNOWN,marriott,Mlini,1
+UNKNOWN,marriott,Zagreb,1
+UNKNOWN,mcdonalds_hr,Zagreb,17
+UNKNOWN,mcdonalds_hr,Zadar,2
+UNKNOWN,mcdonalds_hr,Vukova Gorica,1
+UNKNOWN,mcdonalds_hr,Kastav,1
+UNKNOWN,mcdonalds_hr,Velika Gorica,1
+UNKNOWN,mcdonalds_hr,Varaždin,1
+UNKNOWN,mcdonalds_hr,Rijeka,2
+UNKNOWN,mcdonalds_hr,Šibenik,1
+UNKNOWN,mcdonalds_hr,Split,4
+UNKNOWN,mcdonalds_hr,Slavonski Brod,1
+UNKNOWN,mcdonalds_hr,Sisak,1
+UNKNOWN,mcdonalds_hr,Sesvete,2
+UNKNOWN,mcdonalds_hr,Rovinj,1
+UNKNOWN,mcdonalds_hr,Pula,1
+UNKNOWN,mcdonalds_hr,Poreč,1
+UNKNOWN,mcdonalds_hr,Osijek,3
+UNKNOWN,mcdonalds_hr,Koprivnica,1
+UNKNOWN,mcdonalds_hr,Karlovac,1
+UNKNOWN,mcdonalds_hr,Ježevo,1
+UNKNOWN,mcdonalds_hr,Nova Gradiška,1
+UNKNOWN,mcdonalds_hr,Jasterbarsko,1
+UNKNOWN,mcdonalds_hr,Bjelovar,1
+VARAŽDINSKA,mercedes_benz,Varaždin,1
+PRIMORSKOGORANSKAŽUPANIJA,mercedes_benz,Matulji,1
+GRADZAGREB,mercedes_benz,Sesvete,1
+PRIMORSKOGORANSKAŽUPANIJA,mercedes_benz,Rijeka,1
+ZAGREBAČKAŽUPANIJA,mercedes_benz,Vukovina,1
+OSJEČKOBARANJSKA,mercedes_benz,Osijek,1
+ISTARSKAŽUPANIJA,mercedes_benz,Pazin,1
+SPLITSKODALMATINSKA,mercedes_benz,Dugopolje,1
+ZADARSKA,mercedes_benz,Zadar,1
+GRADZAGREB,mercedes_benz,Zagreb,3
+UNKNOWN,moneygram,LONDON,1
+UNKNOWN,mueller,Podstrana,1
+UNKNOWN,mueller,Bakar,1
+UNKNOWN,mueller,Zadar,4
+UNKNOWN,mueller,Sesvete,1
+UNKNOWN,mueller,Trogir,2
+UNKNOWN,mueller,Vukovar,1
+UNKNOWN,mueller,Zapresic,1
+UNKNOWN,mueller,Zagreb,19
+UNKNOWN,mueller,Ploče,1
+UNKNOWN,mueller,Sveti Ivan Zelina,1
+UNKNOWN,mueller,Rovinj,2
+UNKNOWN,mueller,Omis,1
+UNKNOWN,mueller,Benkovac,1
+UNKNOWN,mueller,Kastel Sucurac,1
+UNKNOWN,mueller,Rijeka,3
+UNKNOWN,mueller,Velika Gorica,2
+UNKNOWN,mueller,Sibenik,1
+UNKNOWN,mueller,Makarska,1
+UNKNOWN,mueller,Metkovic,1
+UNKNOWN,mueller,Porec,1
+UNKNOWN,mueller,Turčin,1
+UNKNOWN,mueller,Split,5
+UNKNOWN,mueller,Novska,1
+UNKNOWN,mueller,Ludbreg,1
+UNKNOWN,mueller,Varaždin,1
+UNKNOWN,mueller,Duga Resa,1
+UNKNOWN,mueller,Karlovac,2
+UNKNOWN,mueller,Jastrebarsko,1
+UNKNOWN,mueller,Crikvenica,1
+UNKNOWN,mueller,Viškovo,1
+UNKNOWN,mueller,Labin,1
+UNKNOWN,mueller,Pazin,1
+UNKNOWN,mueller,Hvar,1
+UNKNOWN,mueller,Blato,1
+UNKNOWN,mueller,Kaštel Novi,1
+UNKNOWN,mueller,Murter,1
+UNKNOWN,mueller,Vir,1
+UNKNOWN,mueller,Biograd na moru,1
+UNKNOWN,mueller,Sinj,1
+UNKNOWN,mueller,Mokošica,1
+UNKNOWN,mueller,Dubrovnik,1
+UNKNOWN,mueller,Bjelovar,1
+UNKNOWN,mueller,Srebreno,1
+UNKNOWN,mueller,Samobor,1
+UNKNOWN,mueller,Osijek,2
+UNKNOWN,mueller,Pula,2
+UNKNOWN,mueller,Čakovec,1
+UNKNOWN,mueller,Virovitica,1
+UNKNOWN,mueller,Šibenik,1
+UNKNOWN,mueller,Koprivnica,1
+UNKNOWN,mueller,Varazdin,1
+UNKNOWN,mueller,Sisak,1
+UNKNOWN,mueller,Zagreb Buzin,1
+UNKNOWN,mueller,Zaprešić,1
+UNKNOWN,mueller,Slavonski Brod,1
+UNKNOWN,national,Zagreb,1
+UNKNOWN,national,Dubrovnik,1
+UNKNOWN,national,Pula,1
+UNKNOWN,national,Rijeka,1
+UNKNOWN,national,Split,1
+UNKNOWN,national,Zadar,1
+UNKNOWN,neuroth,Karlovac,1
+UNKNOWN,neuroth,Čakovec,1
+UNKNOWN,neuroth,Zadar,1
+UNKNOWN,neuroth,Zagreb,4
+UNKNOWN,neuroth,Dubrovnik,1
+UNKNOWN,neuroth,Split,1
+UNKNOWN,neuroth,Osijek,1
+UNKNOWN,neuroth,Varaždin,1
+UNKNOWN,neuroth,Rijeka,1
+UNKNOWN,newyorker,Sisak,1
+UNKNOWN,newyorker,Split,2
+UNKNOWN,newyorker,Zagreb,6
+UNKNOWN,newyorker,Zapresic,1
+UNKNOWN,newyorker,Varaždin,1
+UNKNOWN,newyorker,Zadar,1
+UNKNOWN,newyorker,Koprivnica,1
+UNKNOWN,newyorker,Rijeka,2
+UNKNOWN,newyorker,Šibenik,1
+UNKNOWN,newyorker,Imotski,1
+UNKNOWN,newyorker,Karlovac,1
+UNKNOWN,newyorker,Krizevci,1
+UNKNOWN,newyorker,Osijek,1
+UNKNOWN,newyorker,Vinkovci,1
+UNKNOWN,newyorker,Virovitica,1
+UNKNOWN,newyorker,Slavonski Brod,1
+UNKNOWN,newyorker,Velika Gorica,1
+UNKNOWN,newyorker,Čakovec,1
+UNKNOWN,newyorker,Varazdin,1
+UNKNOWN,newyorker,Mlini,1
+UNKNOWN,newyorker,Porec,1
+UNKNOWN,newyorker,Pozega,1
+UNKNOWN,newyorker,Makarska,1
+UNKNOWN,newyorker,Gospic,1
+UNKNOWN,newyorker,Djakovo,1
+UNKNOWN,newyorker,Pula,1
+UNKNOWN,next,Donja Bistra,1
+UNKNOWN,next,10000 Zagreb,1
+UNKNOWN,next,Split,1
+UNKNOWN,next,Zagreb,1
+HR,nissan_europe,Zagreb,3
+HR,nissan_europe,Karlovac,1
+HR,nissan_europe,Krapina,1
+HR,nissan_europe,Varaždin,1
+HR,nissan_europe,Slavonski Brod,1
+HR,nissan_europe,Osijek,1
+HR,nissan_europe,Rijeka,2
+HR,nissan_europe,Žminj,1
+HR,nissan_europe,Zadar,1
+HR,nissan_europe,Kaštel Stari,1
+HR,nissan_europe,Omiš,1
+HR,nissan_europe,Pula,1
+HR,nissan_europe,Vrbovec,1
+UNKNOWN,ovs,Osijek,1
+UNKNOWN,ovs,Hrvatska,1
+UNKNOWN,ovs,Zagabria,1
+UNKNOWN,ovs,Spalato,1
+UNKNOWN,ovs,Zadar,1
+UNKNOWN,ovs,Sveti Kriz Zacretje,1
+VUKOVARSKOSRIJEMSKA,pepco,unknown,5
+GRADZAGREB,pepco,unknown,25
+VARAZDINSKA,pepco,unknown,6
+ISTARSKA,pepco,Grad Pula,4
+OSJECKOBARANJSKA,pepco,unknown,6
+GRADZAGREB,pepco,Sesvete,3
+ZAGREBACKA,pepco,unknown,7
+DUBROVACKONERETVANSKA,pepco,unknown,2
+BRODSKOPOSAVSKA,pepco,unknown,2
+ISTARSKA,pepco,unknown,1
+OSJECKOBARANJSKA,pepco,Grad Osijek,3
+ZADARSKA,pepco,unknown,6
+DUBROVACKONERETVANSKA,pepco,Grad Dubrovnik,2
+SPLITSKODALMATINSKA,pepco,unknown,9
+BJELOVARSKOBILOGORSKA,pepco,Grad Cazma,1
+SIBENSKOKNINISKA,pepco,unknown,1
+ISTARSKA,pepco,Grad Rovinj,1
+SPLITSKODALMATINSKA,pepco,Grad Trogir,2
+KOPRIVNICKOKRIZEVACKA,pepco,Grad Koprivnica,2
+KARLOVACKA,pepco,Grad Karlovac,2
+KOPRIVNICKOKRIZEVACKA,pepco,unknown,2
+BJELOVARSKOBILOGORSKA,pepco,unknown,3
+SPLITSKODALMATINSKA,pepco,Grad Omis,1
+PRIMORSKOGORANSKA,pepco,unknown,6
+VIROVITICKPODRAVSKA,pepco,unknown,1
+PRIMORSKOGORANSKA,pepco,Grad Krk,1
+MEDIMURSKA,pepco,unknown,2
+SISACKOMOSLAVACKA,pepco,unknown,2
+KRAPINSKOZAGORSKA,pepco,Grad Krapina,1
+POZESKOSLAVONSKA,pepco,unknown,3
+SPLITSKODALMATINSKA,pepco,Grad Makarska,1
+SISACKOMOSLAVACKA,pepco,Grad Sisak,2
+ZAGREBACKA,pepco,Grad Vrbovec,1
+SPLITSKODALMATINSKA,pepco,Grad Split,1
+ISTARSKA,pepco,Grad Porec,1
+KRAPINSKOZAGORSKA,pepco,unknown,1
+LICKOSENJSKA,pepco,unknown,2
+SIBENSKOKNINISKA,pepco,Grad Sibenik,1
+BJELOVARSKOBILOGORSKA,pepco,Grad Daruvar,1
+VIROVITICKPODRAVSKA,pepco,Grad Virovitica,1
+ZAGREBACKA,pepco,Grad Velika Gorica,1
+BRODSKOPOSAVSKA,pepco,Grad Slavonski Brod,1
+ZAGREB,petit_bateau,Zagreb,1
+UNKNOWN,petrol,VALPOVO,2
+UNKNOWN,petrol,NOVA GRADIŠKA,1
+UNKNOWN,petrol,ZAGREB,22
+UNKNOWN,petrol,RAMLJANI,2
+UNKNOWN,petrol,VODICE,1
+UNKNOWN,petrol,KLOŠTAR PODRAVSKI,1
+UNKNOWN,petrol,PUSTODOL ZAČRETSKI,1
+UNKNOWN,petrol,VELI BRGUD,2
+UNKNOWN,petrol,ĐAKOVO,3
+UNKNOWN,petrol,VIROVITICA,1
+UNKNOWN,petrol,KASTAV,2
+UNKNOWN,petrol,UMAG,1
+UNKNOWN,petrol,VODNJAN,1
+UNKNOWN,petrol,ZLATAR,1
+UNKNOWN,petrol,ZADAR,7
+UNKNOWN,petrol,VELIKA GORICA,1
+UNKNOWN,petrol,ČAKOVEC,1
+UNKNOWN,petrol,BANJOLE,1
+UNKNOWN,petrol,BJELOVAR,2
+UNKNOWN,petrol,LUŽAN,2
+UNKNOWN,petrol,PAZIN,1
+UNKNOWN,petrol,GRADEC,1
+UNKNOWN,petrol,VINKOVCI,3
+UNKNOWN,petrol,BELI MANASTIR,1
+UNKNOWN,petrol,SLATINA,1
+UNKNOWN,petrol,RIJEKA,9
+UNKNOWN,petrol,KRALJEVICA,1
+UNKNOWN,petrol,SLAVONSKI BROD,2
+UNKNOWN,petrol,VELIKA KOPANICA,1
+UNKNOWN,petrol,TRIBUNJ,1
+UNKNOWN,petrol,KAŠTEL SUĆURAC,2
+UNKNOWN,petrol,HUM ZABOČKI,1
+UNKNOWN,petrol,ROVINJ,1
+UNKNOWN,petrol,KONJŠČINA,1
+UNKNOWN,petrol,ĐURĐEVAC,1
+UNKNOWN,petrol,ZAGRAD,1
+UNKNOWN,petrol,TRNBUSI,2
+UNKNOWN,petrol,ZAPREŠIĆ,1
+UNKNOWN,petrol,SVETI VID-MIHOLJICE,1
+UNKNOWN,petrol,ŽUPANJA,1
+UNKNOWN,petrol,GORNJE PLAVNICE,1
+UNKNOWN,petrol,DONJI STUPNIK,1
+UNKNOWN,petrol,SAVUDRIJA,1
+UNKNOWN,petrol,ZATON,1
+UNKNOWN,petrol,ŠIBENIK,2
+UNKNOWN,petrol,CIGLENICA ZAGORSKA,2
+UNKNOWN,petrol,MAVRINCI,1
+UNKNOWN,petrol,HERCEGOVAC,1
+UNKNOWN,petrol,PODGORJE BISTRIČKO,1
+UNKNOWN,petrol,ŠTRMAC,1
+UNKNOWN,petrol,LUKARIŠĆE,1
+UNKNOWN,petrol,GORICE,2
+UNKNOWN,petrol,BARTOLOVEC,1
+UNKNOWN,petrol,KAŠTEL ŠTAFILIĆ,2
+UNKNOWN,petrol,VARAŽDIN,5
+UNKNOWN,petrol,VIŠKOVO,1
+UNKNOWN,petrol,NOVIGRAD,2
+UNKNOWN,petrol,SVETI IVAN,1
+UNKNOWN,petrol,SPLIT,1
+UNKNOWN,petrol,VIRJE,1
+UNKNOWN,petrol,MAKARSKA,1
+UNKNOWN,petrol,DONJA BISTRA,1
+UNKNOWN,petrol,VRSAR,1
+UNKNOWN,petrol,MAJERJE,1
+UNKNOWN,petrol,PULA,2
+UNKNOWN,petrol,NOVSKA,1
+UNKNOWN,petrol,KOPRIVNICA,2
+UNKNOWN,petrol,DIJANEŠ,1
+UNKNOWN,petrol,OZALJ,2
+UNKNOWN,petrol,OSIJEK,7
+UNKNOWN,petrol,KOSINOŽIĆI,1
+UNKNOWN,petrol,SISAK,2
+UNKNOWN,petrol,VUKOVAR,1
+UNKNOWN,petrol,IVANEC,1
+UNKNOWN,petrol,BELIŠĆE,1
+UNKNOWN,petrol,SESVETE,4
+UNKNOWN,petrol,MATULJI,1
+UNKNOWN,petrol,MURVICA,2
+UNKNOWN,petrol,DUGOPOLJE,2
+UNKNOWN,petrol,NOVI PERKOVCI,1
+UNKNOWN,petrol,GALIŽANA,1
+UNKNOWN,petrol,DONJI DESINEC,3
+UNKNOWN,petrol,LADINEC,1
+UNKNOWN,petrol,VELIKO POLJE,1
+UNKNOWN,petrol,SVETI KRIŽ,1
+UNKNOWN,petrol,POREČ - PARENZO,1
+UNKNOWN,petrol,POŽEGA,3
+UNKNOWN,petrol,ORAŠAC,1
+UNKNOWN,petrol,KAŠTEL NOVI,1
+UNKNOWN,petrol,DRAŽICE,1
+UNKNOWN,petrol,PUŠĆINE,1
+UNKNOWN,petrol,KARLOVAC,1
+UNKNOWN,petrol,DRAGANIĆ,1
+UNKNOWN,petrol,PETRČANE,1
+UNKNOWN,petrol,KUTINA,1
+UNKNOWN,petrol,SVETA NEDELJA,1
+UNKNOWN,petrol,KORIJA,1
+UNKNOWN,petrol,OTOK OŠTARIJSKI,1
+UNKNOWN,petrol,TURČIŠĆE,1
+UNKNOWN,petrol,PRELOG,1
+UNKNOWN,petrol,SELCI ĐAKOVAČKI,1
+UNKNOWN,petrol,KADUMI,1
+UNKNOWN,petrol,VRPOLJE,1
+UNKNOWN,petrol,CRIKVENICA,1
+UNKNOWN,petrol,ČAVLE,1
+UNKNOWN,petrol,PLOČE,1
+UNKNOWN,petrol,OROSLAVJE,1
+UNKNOWN,petrol,PRIMOŠTEN,1
+UNKNOWN,petrol,LUKA,1
+UNKNOWN,petrol,MOŠĆENICA,1
+UNKNOWN,petrol,GROMAČNIK,1
+UNKNOWN,petrol,PAKOŠTANE,1
+UNKNOWN,petrol,ZABOK,1
+UNKNOWN,petrol,BERAVCI,1
+UNKNOWN,petrol,CISTA VELIKA,1
+UNKNOWN,petrol,ČEGLJE,1
+UNKNOWN,petrol,ZLATAR-BISTRICA,1
+UNKNOWN,petrol,DELNICE,1
+UNKNOWN,petrol,BRCKOVLJANI,1
+UNKNOWN,petrol,BULINAC,1
+UNKNOWN,petrol,STRMEC,1
+UNKNOWN,petrol,GOLI VRH,1
+UNKNOWN,petrol,IVANIĆ-GRAD,1
+UNKNOWN,petrol,RAŠTEVIĆ,1
+UNKNOWN,petrol,HRELJIN,1
+UNKNOWN,petrol,CRNO,1
+UNKNOWN,petrol,SAMOBOR,1
+UNKNOWN,plodine_hr,Beli Manastir,1
+UNKNOWN,plodine_hr,Benkovac,1
+UNKNOWN,plodine_hr,Biograd,1
+UNKNOWN,plodine_hr,Bjelovar,1
+UNKNOWN,plodine_hr,Buzet,1
+UNKNOWN,plodine_hr,Čakovec,2
+UNKNOWN,plodine_hr,Čazma,1
+UNKNOWN,plodine_hr,Čepin,1
+UNKNOWN,plodine_hr,Cres,1
+UNKNOWN,plodine_hr,Crikvenica,1
+UNKNOWN,plodine_hr,Daruvar,1
+UNKNOWN,plodine_hr,Dugo Selo,1
+UNKNOWN,plodine_hr,Fažana,1
+UNKNOWN,plodine_hr,Funtana,1
+UNKNOWN,plodine_hr,Gospić,1
+UNKNOWN,plodine_hr,Ivanić-Grad,1
+UNKNOWN,plodine_hr,Jastrebarsko,1
+UNKNOWN,plodine_hr,Jelsa,1
+UNKNOWN,plodine_hr,Kali,1
+UNKNOWN,plodine_hr,Karlovac,1
+UNKNOWN,plodine_hr,Kastav,1
+UNKNOWN,plodine_hr,Kaštel Štafilić,1
+UNKNOWN,plodine_hr,Kaštel Sućurac,1
+UNKNOWN,plodine_hr,Koprivnica,1
+UNKNOWN,plodine_hr,Korčula,1
+UNKNOWN,plodine_hr,Kostrena,1
+UNKNOWN,plodine_hr,Krapinske Toplice,1
+UNKNOWN,plodine_hr,Križevci,1
+UNKNOWN,plodine_hr,Krk,1
+UNKNOWN,plodine_hr,Kukuljanovo,1
+UNKNOWN,plodine_hr,Kutina,1
+UNKNOWN,plodine_hr,Labin,2
+UNKNOWN,plodine_hr,Lovran,1
+UNKNOWN,plodine_hr,Ludberg,1
+UNKNOWN,plodine_hr,Makarska,1
+UNKNOWN,plodine_hr,Malinska,1
+UNKNOWN,plodine_hr,Matulji,2
+UNKNOWN,plodine_hr,Medulin,1
+UNKNOWN,plodine_hr,Metković,1
+UNKNOWN,plodine_hr,Murter - Betina,1
+UNKNOWN,plodine_hr,Našice,1
+UNKNOWN,plodine_hr,Nin,1
+UNKNOWN,plodine_hr,Nova Gradiška,1
+UNKNOWN,plodine_hr,Novalja,2
+UNKNOWN,plodine_hr,Novi Vinodolski,1
+UNKNOWN,plodine_hr,Novigrad,1
+UNKNOWN,plodine_hr,Novska,1
+UNKNOWN,plodine_hr,Ogulin,1
+UNKNOWN,plodine_hr,Opatija,1
+UNKNOWN,plodine_hr,Opuzen,1
+UNKNOWN,plodine_hr,Orebić,1
+UNKNOWN,plodine_hr,Osijek,2
+UNKNOWN,plodine_hr,Otočac,1
+UNKNOWN,plodine_hr,Pag,1
+UNKNOWN,plodine_hr,Pakoštane,1
+UNKNOWN,plodine_hr,Pazin,1
+UNKNOWN,plodine_hr,Petrinja,1
+UNKNOWN,plodine_hr,Pirovac,1
+UNKNOWN,plodine_hr,Pitomača,1
+UNKNOWN,plodine_hr,Ploče,1
+UNKNOWN,plodine_hr,"Podglavica, Rogoznica",1
+UNKNOWN,plodine_hr,Pomer,1
+UNKNOWN,plodine_hr,Poreč,2
+UNKNOWN,plodine_hr,Posedarje,1
+UNKNOWN,plodine_hr,Požega,1
+UNKNOWN,plodine_hr,Pregrada,1
+UNKNOWN,plodine_hr,Prelog,1
+UNKNOWN,plodine_hr,Pula,3
+UNKNOWN,plodine_hr,Rab,1
+UNKNOWN,plodine_hr,Rijeka,9
+UNKNOWN,plodine_hr,Rovinj,1
+UNKNOWN,plodine_hr,Senj,1
+UNKNOWN,plodine_hr,Šibenik,2
+UNKNOWN,plodine_hr,Sisak,1
+UNKNOWN,plodine_hr,Slatina,1
+UNKNOWN,plodine_hr,Slavonski brod,1
+UNKNOWN,plodine_hr,Split,2
+UNKNOWN,plodine_hr,Sukošan,1
+UNKNOWN,plodine_hr,Sv. Filip i Jakov,1
+UNKNOWN,plodine_hr,Sveta Nedjelja,1
+UNKNOWN,plodine_hr,Sveti Ivan Zelina,1
+UNKNOWN,plodine_hr,Tar-Vabriga,1
+UNKNOWN,plodine_hr,Tribunj,1
+UNKNOWN,plodine_hr,Trogir,1
+UNKNOWN,plodine_hr,Umag,1
+UNKNOWN,plodine_hr,Valpovo,1
+UNKNOWN,plodine_hr,Varaždin,2
+UNKNOWN,plodine_hr,Varaždinske Toplice,1
+UNKNOWN,plodine_hr,Velika Gorica,1
+UNKNOWN,plodine_hr,Vinkovci,2
+UNKNOWN,plodine_hr,Virovitica,1
+UNKNOWN,plodine_hr,Viškovo,1
+UNKNOWN,plodine_hr,Vodice,1
+UNKNOWN,plodine_hr,Vodnjan,1
+UNKNOWN,plodine_hr,Vrbovec,1
+UNKNOWN,plodine_hr,Vrsar,1
+UNKNOWN,plodine_hr,Zabok,1
+UNKNOWN,plodine_hr,Zadar,3
+UNKNOWN,plodine_hr,Zagreb,6
+UNKNOWN,plodine_hr,Zaostrog,1
+UNKNOWN,plodine_hr,Zaprešić,1
+UNKNOWN,plodine_hr,Žminj,1
+UNKNOWN,plodine_hr,Županja,1
+UNKNOWN,plodine_hr,Đakovo,1
+UNKNOWN,reebok,ZAGREB,1
+UNKNOWN,reebok,SV. KRIZ ZACRETJE,1
+UNKNOWN,reebok,PULA,1
+UNKNOWN,renault,PULA,2
+UNKNOWN,renault,POREČ,2
+UNKNOWN,renault,ZAGREB,8
+UNKNOWN,renault,SISAK,2
+UNKNOWN,renault,ŠIBENIK,2
+UNKNOWN,renault,KRAPINA-LEPAJCI,2
+UNKNOWN,renault,SPLIT,4
+UNKNOWN,renault,ZADAR,3
+UNKNOWN,renault,VIROVITICA,2
+UNKNOWN,renault,SELNICA,2
+UNKNOWN,renault,BJELOVAR,2
+UNKNOWN,renault,KOPRIVNICA,2
+UNKNOWN,renault,Vrbovec,2
+UNKNOWN,renault,OPUZEN,2
+UNKNOWN,renault,KARLOVAC,2
+UNKNOWN,renault,RIJEKA,4
+UNKNOWN,renault,GRUDA,1
+UNKNOWN,renault,VELIKA GORICA,2
+UNKNOWN,renault,Kaštel Sućurac,2
+UNKNOWN,renault,KRK,2
+UNKNOWN,renault,OSIJEK,2
+UNKNOWN,renault,ŽRNOVNICA-SPLIT,2
+UNKNOWN,renault,Vinkovci,2
+UNKNOWN,renault,POŽEGA,1
+UNKNOWN,renault,ZAPREŠIĆ,2
+UNKNOWN,renault,SAMOBOR,2
+UNKNOWN,renault,OMIŠ,2
+UNKNOWN,renault,Varaždin,2
+UNKNOWN,renault,SLAVONSKI BROD,2
+UNKNOWN,renault,KANFANAR,1
+UNKNOWN,scania,Sikirevci kod Slavonski Brod,1
+UNKNOWN,scania,Dicmo-Split,1
+UNKNOWN,scania,"Turcin, Gornji Kneginec",1
+UNKNOWN,scania,Zagreb - Lucko,1
+UNKNOWN,shell,Čakovec,1
+UNKNOWN,shell,Medulin,1
+UNKNOWN,shell,Pula,1
+UNKNOWN,shell,Kanfanar,1
+UNKNOWN,shell,Pazin,1
+UNKNOWN,shell,Umag,1
+UNKNOWN,shell,Zadar,3
+UNKNOWN,shell,Zemunik,3
+UNKNOWN,shell,Koprivnica,1
+UNKNOWN,shell,Gornji Kneginec,1
+UNKNOWN,shell,Varazdin ,1
+UNKNOWN,shell,Virovitica,1
+UNKNOWN,shell,Konjščina,1
+UNKNOWN,shell,Cabuna,1
+UNKNOWN,shell,Križ,1
+UNKNOWN,shell,Rugvica,1
+UNKNOWN,shell,Sesvetski Kraljevec,2
+UNKNOWN,shell,Prigorje Brdovečko,1
+UNKNOWN,shell,Šenkovec,1
+UNKNOWN,shell,Donja Bistra,1
+UNKNOWN,shell,Mokrice,1
+UNKNOWN,shell,Zagreb,1
+UNKNOWN,shell,Sesvete,1
+UNKNOWN,shell,Karlovac,1
+UNKNOWN,shell,Petrinja,1
+UNKNOWN,shell,Gornja Vrba,1
+UNKNOWN,shell,Kaštel Štafilić,1
+UNKNOWN,shell,Dugopolje,1
+UNKNOWN,sixt,Zagreb,3
+UNKNOWN,sixt,Sibenik,1
+UNKNOWN,sixt,Umag,1
+UNKNOWN,sixt,Novi Vinodolski,1
+UNKNOWN,sixt,Makarska,1
+UNKNOWN,sixt,Rovinj,1
+UNKNOWN,sixt,Klisa,1
+UNKNOWN,sixt,Pula,2
+UNKNOWN,sixt,Dubrovnik,2
+UNKNOWN,sixt,Split,1
+UNKNOWN,sixt,Porec,1
+UNKNOWN,sixt,Rijeka,1
+UNKNOWN,sixt,Osijek,1
+UNKNOWN,sixt,"Zadar, Zemunik Donji",1
+UNKNOWN,sixt,Zadar,1
+UNKNOWN,sixt,Kastel Stafilic,1
+UNKNOWN,sixt,Omisalj,1
+UNKNOWN,sixt,Opatija,1
+PRIMORSKOGORANSKA,skoda,unknown,3
+ISTARSKA,skoda,unknown,3
+ŠIBENSKOKNINSKA,skoda,unknown,2
+MEĐIMURSKA,skoda,unknown,1
+KARLOVAČKA,skoda,unknown,2
+ZADARSKA,skoda,unknown,3
+BJELOVARSKOBILOGORSKA,skoda,unknown,2
+BRODSKOPOSAVSKA,skoda,unknown,1
+ZAGREBAČKA,skoda,unknown,10
+VIROVITIČKOPODRAVSKA,skoda,unknown,1
+DUBROVAČKONERETVANSKA,skoda,unknown,2
+KRAPINSKOZAGORSKA,skoda,unknown,1
+SPLITSKODALMATINSKA,skoda,unknown,4
+OSJEČKOBARANJSKA,skoda,unknown,2
+VUKOVARSKOSRIJEMSKA,skoda,unknown,1
+POŽEŠKOSLAVONSKA,skoda,unknown,1
+SISAČKOMOSLAVAČKA,skoda,unknown,1
+VARAŽDINSKA,skoda,unknown,1
+GRADZAGREB,smart,Zagreb,1
+ZADARSKA,smart,Zadar,1
+SPLITSKODALMATINSKA,smart,Dugopolje,1
+ISTARSKAŽUPANIJA,smart,Pazin,1
+ZAGREBAČKAREGIJA,spar_hr,Zagreb,42
+ZAGREBAČKAREGIJA,spar_hr,Donji Stupnik,1
+ZAGREBAČKAREGIJA,spar_hr,ZAGREB,9
+SLAVONIJA,spar_hr,Vukovar,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Marija Bistrica,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Ozalj,1
+DALMACIJA,spar_hr,Split,6
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Krapinske Toplice,1
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Kukuljanovo,1
+ZAGREBAČKAREGIJA,spar_hr,Jastrebarsko,1
+SLAVONIJA,spar_hr,Čepin,1
+DALMACIJA,spar_hr,Gospić,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Pregrada,1
+ZAGREBAČKAREGIJA,spar_hr,Velika Gorica,2
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Rijeka,7
+DALMACIJA,spar_hr,Kaštel Sućurac,2
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Donja Stubica,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Popovača,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Ivanec,1
+ZAGREBAČKAREGIJA,spar_hr,Samobor,1
+SLAVONIJA,spar_hr,Osijek,4
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Novi Marof,1
+ZAGREBAČKAREGIJA,spar_hr,Sv. Ivan Zelina,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Zlatar,1
+ZAGREBAČKAREGIJA,spar_hr,Ivanić Grad,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Čakovec,2
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Buje,1
+ZAGREBAČKAREGIJA,spar_hr,Sesvetski Kraljevec,1
+DALMACIJA,spar_hr,Zadar,4
+SLAVONIJA,spar_hr,Požega,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Ludbreg,1
+DALMACIJA,spar_hr,Šibenik,1
+DALMACIJA,spar_hr,SPLIT,1
+DALMACIJA,spar_hr,Bibinje,1
+DALMACIJA,spar_hr,Knin,1
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Pula,2
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Kastav,1
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Selce,1
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Opatija,1
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Poreč,1
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Umag,1
+ISTRAPRIMORJELIKAIGORSKIKOTAR,spar_hr,Labin,1
+SLAVONIJA,spar_hr,Slavonski Brod,2
+SLAVONIJA,spar_hr,Valpovo,1
+SLAVONIJA,spar_hr,Vinkovci,1
+SLAVONIJA,spar_hr,Đakovo,1
+SLAVONIJA,spar_hr,Orahovica,1
+SLAVONIJA,spar_hr,Pakrac,1
+SLAVONIJA,spar_hr,Suhopolje,1
+SLAVONIJA,spar_hr,Daruvar,1
+SLAVONIJA,spar_hr,Pleternica,1
+SLAVONIJA,spar_hr,Našice,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Sisak,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Koprivnica,2
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Karlovac,2
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Varaždin,4
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Bjelovar,1
+SREDIŠNJAISJEVERNAHRVATSKA,spar_hr,Križevci,1
+ZAGREBAČKAREGIJA,spar_hr,Zaprešić,1
+ZAGREBAČKAREGIJA,spar_hr,VELIKA GORICA,1
+UNKNOWN,speed_queen,Pula,3
+UNKNOWN,speed_queen,Zagreb,5
+UNKNOWN,speed_queen,Split,1
+UNKNOWN,speed_queen,Umag,2
+UNKNOWN,speed_queen,Rijeka,1
+UNKNOWN,speed_queen,Velika Gorica,1
+UNKNOWN,speed_queen,Varaždin,1
+UNKNOWN,speed_queen,Labin,1
+UNKNOWN,speed_queen,Rovinj,1
+UNKNOWN,speed_queen,Osijek,1
+ISTARSKAŽUPANIJA,tedi,"Umag, STC",1
+ISTARSKAŽUPANIJA,tedi,"Poreč, Riva mall",1
+ISTARSKAŽUPANIJA,tedi,"Poreč, Galerija",1
+ISTARSKAŽUPANIJA,tedi,"Rovinj, Retail park Rovinj",1
+PRIMORSKOGORANSKAŽUPANIJA,tedi,"Kukuljanovo, Galerija Bakar",1
+PRIMORSKOGORANSKAŽUPANIJA,tedi,"Rijeka, Tower centar",1
+PRIMORSKOGORANSKAŽUPANIJA,tedi,"Rijeka, Korzo",1
+PRIMORSKOGORANSKAŽUPANIJA,tedi,"Rijeka, TC Plodine",1
+PRIMORSKOGORANSKAŽUPANIJA,tedi,"Rijeka, Marti Retail Park",1
+PRIMORSKOGORANSKAŽUPANIJA,tedi,"Krk, Park&Shop",1
+PRIMORSKOGORANSKAŽUPANIJA,tedi,"Gospić, Stop Shop",1
+ZADARSKAŽUPANIJA,tedi,"Zadar, HEY PARK",1
+ZADARSKAŽUPANIJA,tedi,"Zadar, Vox",1
+ZADARSKAŽUPANIJA,tedi,"Zadar, Shopping Capitol",1
+ZADARSKAŽUPANIJA,tedi,"Zadar, City Park",1
+KARLOVAČKAŽUPANIJA,tedi,"Karlovac, Karlovčanka",1
+ZAGREBAČKAŽUPANIJA,tedi,"Jastrebarsko, Jaska Park",1
+LIČKOSENJSKAŽUPANIJA,tedi,"Čatrnja, Plitvice Mall",1
+ŠIBENSKOKNINSKAŽUPANIJA,tedi,"Vodice, TC Tommy",1
+ŠIBENSKOKNINSKAŽUPANIJA,tedi,"Šibenik,Citylife",1
+ISTARSKAŽUPANIJA,tedi,"Štrmac, Stop Shop Labin",1
+ISTARSKAŽUPANIJA,tedi,"Pula, City Mall",1
+KRAPINSKOZAGORSKAŽUPANIJA,tedi,"Krapina, NTL",1
+KRAPINSKOZAGORSKAŽUPANIJA,tedi,"Zabok, Regeneracija",1
+ZAGREBAČKAŽUPANIJA,tedi,"Zaprešić, Westgate",1
+GRADZAGREB,tedi,"Zagreb, Z centar",1
+GRADZAGREB,tedi,"Zagreb, Gradišćanska",1
+GRADZAGREB,tedi,"Zagreb, Importanne Galleria",1
+GRADZAGREB,tedi,"Zagreb, SN Garden mall",1
+GRADZAGREB,tedi,"Zagreb, Dubrava",1
+GRADZAGREB,tedi,"Zagreb, RP Branimirova",1
+GRADZAGREB,tedi,"Zagreb, SN Buzin",1
+GRADZAGREB,tedi,"Zagreb, Retail park Radnička",1
+ISTARSKAŽUPANIJA,tedi,"Pazin, Stop Shop",1
+POŽEŠKOSLAVONSKAŽUPANIJA,tedi,"Požega, Supernova",1
+POŽEŠKOSLAVONSKAŽUPANIJA,tedi,"Požega, Shopping Capitol",1
+BRODSKOPOSAVSKAŽUPANIJA,tedi,"Slavonski Brod, SN Colosseum",1
+BRODSKOPOSAVSKAŽUPANIJA,tedi,"Slavonski Brod, SN",1
+VIROVITIČKOPODRAVSKAŽUPANIJA,tedi,"Slatina, TC Slatina",1
+VIROVITIČKOPODRAVSKAŽUPANIJA,tedi,"Virovitica, Park&Shop",1
+OSJEČKOBARANJSKAŽUPANIJA,tedi,"Valpovo, Stop Shop",1
+OSJEČKOBARANJSKAŽUPANIJA,tedi,"Osijek, Portanova",1
+OSJEČKOBARANJSKAŽUPANIJA,tedi,"Osijek, Interspar",1
+OSJEČKOBARANJSKAŽUPANIJA,tedi,"Osijek, Super",1
+OSJEČKOBARANJSKAŽUPANIJA,tedi,"Osijek, Retail park Gacka",1
+OSJEČKOBARANJSKAŽUPANIJA,tedi,"Đakovo, TC",1
+VUKOVARSKOSRIJEMSKAŽUPANIJA,tedi,"Vinkovci, VSC Capitol",1
+SISAČKOMOSLAVAČKAŽUPANIJA,tedi,"Sisak, SN West",1
+SISAČKOMOSLAVAČKAŽUPANIJA,tedi,"Sisak, SN East",1
+ZAGREBAČKAŽUPANIJA,tedi,"Sesvete, Park & Shop Sesvete",1
+ZAGREBAČKAŽUPANIJA,tedi,"Ivanić Grad, Capitol Park",1
+VARAŽDINSKAŽUPANIJA,tedi,"Ivanec, TC Mipcro",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Trogir, Spot",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Kaštel Sućurac, Stop Shop",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Split, Joker",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Kaštel Sućurac, Emmezeta",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Split, Mall of Split",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Split, TC Dujmovača",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Dugopolje, Top outlet",1
+VARAŽDINSKAŽUPANIJA,tedi,"Varaždin, Supernova",1
+VARAŽDINSKAŽUPANIJA,tedi,"Varaždin, Storeland",1
+ZAGREBAČKAŽUPANIJA,tedi,"Sveti Ivan Zelina, City park Zelina",1
+ZAGREBAČKAŽUPANIJA,tedi,"Vrbovec, TC Bravel",1
+SISAČKOMOSLAVAČKAŽUPANIJA,tedi,"Kutina, Capitol Park",1
+BJELOVARSKOBILOGORSKAŽUPANIJA,tedi,"Čazma, RP Čazma",1
+KOPRIVNIČKOKRIŽEVAČKAŽUPANIJA,tedi,"Križevci, Capitol Park",1
+VARAŽDINSKAŽUPANIJA,tedi,"Ludbreg, Stop Shop",1
+MEĐIMURSKAŽUPANIJA,tedi,"Čakovec, Galerija Sjever",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Makarska, Capitol Park",1
+SPLITSKODALMATINSKAŽUPANIJA,tedi,"Imotski, Park&Shop",1
+DUBROVAČKONERETVANSKAŽUPANIJA,tedi,"Ploče, Port Mall",1
+DUBROVAČKONERETVANSKAŽUPANIJA,tedi,"Metković, Retail park Metković",1
+DUBROVAČKONERETVANSKAŽUPANIJA,tedi,"Dubrovnik, Srđ",1
+BJELOVARSKOBILOGORSKAŽUPANIJA,tedi,"Daruvar, FMZ",1
+ISTARSKA,tier,Grad Pula,60
+ISTARSKA,tier,Grad Porec,4
+UNKNOWN,timberland,Zagreb,5
+UNKNOWN,timberland,Split,2
+UNKNOWN,timberland,Sveti Kriz Zacretje,1
+UNKNOWN,timberland,Sv. Kriz Zacretje,1
+UNKNOWN,timberland,Zadar,1
+UNKNOWN,tommy_hilfiger,Split,2
+UNKNOWN,tommy_hilfiger,Zagreb,5
+UNKNOWN,tommy_hilfiger,Sv. Kriz Zacretje,1
+UNKNOWN,totalenergies,DESINEC,2
+UNKNOWN,totalenergies,ZAGREB,1
+UNKNOWN,totalenergies,DAVOKO,2
+UNKNOWN,united_colors_of_benetton,VINKOVCI,2
+UNKNOWN,united_colors_of_benetton,BISTRA,1
+UNKNOWN,united_colors_of_benetton,MAKARSKA,1
+UNKNOWN,united_colors_of_benetton,ZAGREB,9
+UNKNOWN,united_colors_of_benetton,KARLOVAC,1
+UNKNOWN,united_colors_of_benetton,SIBENIK,1
+UNKNOWN,united_colors_of_benetton,SLAVONSKI BROD,1
+UNKNOWN,united_colors_of_benetton,OSIJEK,3
+UNKNOWN,united_colors_of_benetton,BIOGRAD NA MORU,1
+UNKNOWN,united_colors_of_benetton,POREC,3
+UNKNOWN,united_colors_of_benetton,VARAZDIN,1
+UNKNOWN,united_colors_of_benetton,PULA,2
+UNKNOWN,united_colors_of_benetton,SISAK,1
+UNKNOWN,united_colors_of_benetton,DUBROVNIK,1
+UNKNOWN,united_colors_of_benetton,SPLIT,2
+UNKNOWN,united_colors_of_benetton,VELIKA GORICA,2
+UNKNOWN,united_colors_of_benetton,ZADAR,2
+UNKNOWN,united_colors_of_benetton,RIJEKA,2
+UNKNOWN,united_colors_of_benetton,SAMOBOR,1
+UNKNOWN,united_colors_of_benetton,METKOVIC,1
+UNKNOWN,united_colors_of_benetton,CAKOVEC,1
+UNKNOWN,united_colors_of_benetton,DAKOVO,1
+UNKNOWN,united_colors_of_benetton,UMAG,1
+UNKNOWN,united_colors_of_benetton,MLINI,1
+UNKNOWN,united_colors_of_benetton,SOLIN,1
+POZESKOSLAVONSKA,visa,POZEGA,9
+KARLOVACKA,visa,KARLOVAC,29
+KARLOVACKA,visa,OZALJ,2
+ZADARSKA,visa,ZADAR,52
+KARLOVACKA,visa,DUGA RESA,4
+BRODSKOPOSAVSKA,visa,SLAVONSKI BROD,13
+BRODSKOPOSAVSKA,visa,NOVA GRADISKA,2
+ISTARSKA,visa,PULA,38
+SPLITSKODALMATINSKA,visa,SPLIT,74
+PRIMORSKOGORANSKA,visa,RIJEKA,67
+OSJECKOBARANJSKA,visa,OSIJEK,25
+VUKOVARSKOSRIJEMSKA,visa,VINKOVCI,11
+UNKNOWN,visa,ZAPRESIC,18
+UNKNOWN,visa,LASTOVO,1
+UNKNOWN,visa,MAKARSKA,47
+UNKNOWN,visa,NOVIGRAD (CITTANOVA),3
+UNKNOWN,visa,KORCULA,20
+UNKNOWN,visa,POMENA (MLJET),1
+UNKNOWN,visa,GOVEDJARI (MLJET),2
+UNKNOWN,visa,ZADAR,80
+UNKNOWN,visa,SOBRA (MLJET),1
+UNKNOWN,visa,MARANOVICI (MLJET),1
+UNKNOWN,visa,LUMBARDA (KORCULA),2
+UNKNOWN,visa,SIPANSKA LUKA,2
+UNKNOWN,visa,OREBIC,9
+UNKNOWN,visa,STON,6
+UNKNOWN,visa,UBLI,1
+UNKNOWN,visa,KOMIZA (VIS),3
+UNKNOWN,visa,DELNICE,3
+DUBROVACKONERETVANSKA,visa,LASTOVO,1
+UNKNOWN,visa,CAVTAT,15
+UNKNOWN,visa,DUBROVNIK,80
+UNKNOWN,visa,VIS,9
+UNKNOWN,visa,KOMIZA,4
+SPLITSKODALMATINSKA,visa,KOMIŽA,1
+UNKNOWN,visa,SUPETAR,15
+SPLITSKODALMATINSKA,visa,KOMIZA,4
+OSJECKOBARANJSKA,visa,NASICE,2
+UNKNOWN,visa,MLINI,8
+SPLITSKODALMATINSKA,visa,VIS,5
+SPLITSKODALMATINSKAZUPANIJA,visa,VIS,1
+SPLITSKODALMATINSKA,visa,SUMARTIN,1
+UNKNOWN,visa,NOVA GRADISKA,10
+UNKNOWN,visa,PRIZBA,1
+DUBROVACKONERETVANSKA,visa,KORCULA,4
+UNKNOWN,visa,BRNA,1
+UNKNOWN,visa,HVAR,26
+UNKNOWN,visa,VELA LUKA,5
+SPLITSKODALMATINSKA,visa,MAKARSKA,10
+DUBROVACKONERETVANSKA,visa,VELA LUKA,4
+DUBROVACKONERETVANSKAZUPANIJA,visa,VELA LUKA,1
+DUBROVACKONERETVANSKA,visa,BLATO,1
+UNKNOWN,visa,BLATO,2
+UNKNOWN,visa,CARA,1
+DUBROVACKONERETVANSKA,visa,SMOKVICA,1
+UNKNOWN,visa,GOVEDARI,1
+UNKNOWN,visa,JELSA (HVAR),2
+UNKNOWN,visa,POMENA,1
+DUBROVACKONERETVANSKA,visa,POLAČE,1
+UNKNOWN,visa,GOVEDJARI,1
+UNKNOWN,visa,MLJET,1
+UNKNOWN,visa,MOLUNAT,1
+UNKNOWN,visa,SAPLUNARA,1
+UNKNOWN,visa,SV KLEMENT,1
+UNKNOWN,visa,MARINKOVAC (HVAR),1
+DUBROVAČKONERETVANSKA,visa,KORČULA,1
+UNKNOWN,visa,LUMBARDA,2
+DUBROVACKONERETVANSKA,visa,LUMBARDA,1
+UNKNOWN,visa,KONAVLE,1
+SPLITSKODALMATINSKA,visa,HVAR,7
+UNKNOWN,visa,CILIPI,5
+UNKNOWN,visa,GRUDA,1
+DUBROVACKONERETVANSKA,visa,GRUDA,1
+DUBROVACKONERETVANSKA,visa,ČILIPI,2
+SPLITSKODALMATINSKAZUPANIJA,visa,HVAR,1
+UNKNOWN,visa,"HVAR, ISLAND HVAR",1
+KRAPINSKOZAGORSKA,visa,DURMANEC,1
+UNKNOWN,visa,MILNA,6
+DUBROVACKONERETVANSKA,visa,CAVTAT,1
+DUBROVACKONERETVANSKAZUPANIJA,visa,KONAVLE,1
+DUBROVACKONERETVANSKA,visa,KORČULA,3
+UNKNOWN,visa,LOPUD,6
+UNKNOWN,visa,KORČULA,2
+SIBENSKOKNINSKA,visa,VODICE,7
+DUBROVACKONERETVANSKA,visa,LOPUD,1
+UNKNOWN,visa,IVAN DOLAC (HVAR),1
+UNKNOWN,visa,VIGANJ,1
+DUBROVACKONERETVANSKA,visa,DUBROVNIK,25
+DUBROVACKONERETVANSKA,visa,VIGANJ,1
+UNKNOWN,visa,KOLOCEP,1
+UNKNOWN,visa,SUDURAD,1
+SIBENSKOKNINSKA,visa,SIBENIK,12
+DUBROVACKONERETVANSKAZUPANIJA,visa,DUBROVNIK,1
+UNKNOWN,visa,OREBIĆ,4
+DUBROVAČKONERETVANSKA,visa,DUBROVNIK,1
+SPLITSKODALMATINSKA,visa,SINJ,7
+ZAGREBACKA,visa,VELIKA GORICA,8
+UNKNOWN,visa,JELSA,15
+UNKNOWN,visa,PLAT,1
+DUBROVACKONERETVANSKA,visa,OREBIC,2
+DUBROVACKONERETVANSKA,visa,ŽUPA DUBROVAČKA,1
+UNKNOWN,visa,KUPARI,1
+UNKNOWN,visa,SREBRENO,3
+DUBROVACKONERETVANSKA,visa,SREBRENO,1
+UNKNOWN,visa,"SREBRENO,MLINI",2
+DUBROVACKONERETVANSKA,visa,OREBIĆ,2
+UNKNOWN,visa,LOVISTE,1
+UNKNOWN,visa,OREBIC (PELJESAC),1
+SPLITSKODALMATINSKA,visa,KASTEL KAMBELOVAC,1
+UNKNOWN,visa,STARI GRAD,11
+SPLITSKODALMATINSKA,visa,STARI GRAD,5
+UNKNOWN,visa,STARI GRAD (HVAR),1
+UNKNOWN,visa,PRAPRATNO,1
+UNKNOWN,visa,ZATON VELIKI,2
+DUBROVACKONERETVANSKA,visa,ZATON VELIKI,1
+DUBROVACKONERETVANSKA,visa,MOKOŠICA,2
+UNKNOWN,visa,TRSTENIK,1
+DUBROVACKONERETVANSKAZUPANIJA,visa,OREBIC,1
+UNKNOWN,visa,POTOMJE,1
+UNKNOWN,visa,NOVA MOKOŠICA,1
+UNKNOWN,visa,HVAR STARI GRAD,1
+UNKNOWN,visa,MOKOSICA,3
+UNKNOWN,visa,NOVA MOKOSICA,1
+SPLITSKODALMATINSKA,visa,KASTEL GOMILICA,1
+UNKNOWN,visa,ZATON DUBROVACKI,1
+SPLITSKODALMATINSKAZUPANIJA,visa,STARI GRAD,1
+SPLITSKODALMATINSKA,visa,JELSA,4
+SPLITSKODALMATINSKAZUPANIJA,visa,JELSA,1
+UNKNOWN,visa,SPLIT,199
+UNKNOWN,visa,PROMAJNA,3
+DUBROVACKONERETVANSKA,visa,JANJINA,1
+DUBROVACKONERETVANSKA,visa,STON,1
+UNKNOWN,visa,RAZANAC,2
+UNKNOWN,visa,BASKA VODA,17
+UNKNOWN,visa,VRBOSKA,3
+UNKNOWN,visa,VRBOSKA (HVAR),1
+UNKNOWN,visa,BRELA,11
+UNKNOWN,visa,DRAČE / PELJEŠAC,1
+UNKNOWN,visa,SLANO,1
+DUBROVACKONERETVANSKA,visa,SLANO,1
+DUBROVACKONERETVANSKA,visa,TRPANJ,1
+UNKNOWN,visa,TRPANJ (PELJESAC),1
+UNKNOWN,visa,TRPANJ,2
+SPLITSKODALMATINSKA,visa,MILNA,3
+UNKNOWN,visa,KLEK,1
+UNKNOWN,visa,BOL,16
+UNKNOWN,visa,SOLTA,1
+UNKNOWN,visa,MASLINICA,2
+SPLITSKODALMATINSKA,visa,BOL,5
+PRIMORSKOGORANSKA,visa,MALINSKA,2
+UNKNOWN,visa,POSTIRA,4
+UNKNOWN,visa,MILNA (BRAC),1
+UNKNOWN,visa,PODGORA,8
+SPLITSKODALMATINSKA,visa,SOLTA,1
+UNKNOWN,visa,STOMORSKA (SOLTA),1
+UNKNOWN,visa,TUCEPI,13
+UNKNOWN,visa,GROHOTE,1
+SPLITSKODALMATINSKA,visa,ŠOLTA,1
+UNKNOWN,visa,DRVENIK VELI,1
+UNKNOWN,visa,MARINA,5
+UNKNOWN,visa,GORNJI HUMAC,1
+UNKNOWN,visa,SUĆURAJ,1
+UNKNOWN,visa,SUCURAJ,1
+UNKNOWN,visa,RAZANJ,1
+UNKNOWN,visa,PLOCE,9
+PRIMORSKOGORANSKA,visa,PUNAT,4
+DUBROVACKONERETVANSKA,visa,PLOČE,2
+DUBROVACKONERETVANSKAZUPANIJA,visa,PLOCE,1
+UNKNOWN,visa,OPUZEN,3
+SISACKOMOSLAVACKA,visa,SISAK,12
+DUBROVACKONERETVANSKA,visa,OPUZEN,2
+SIBENSKOKNINSKA,visa,ROGOZNICA,2
+UNKNOWN,visa,ROGOZNICA,8
+UNKNOWN,visa,VINISCE,2
+ŠIBENSKOKNINSKAZUPANIJA,visa,ROGOZNICA,1
+UNKNOWN,visa,NIN,10
+SPLITSKODALMATINSKA,visa,GRADAC,2
+UNKNOWN,visa,GRADAC,3
+UNKNOWN,visa,SUTIVAN,2
+SPLITSKODALMATINSKA,visa,SUTIVAN,2
+UNKNOWN,visa,GRADAC N/M,1
+UNKNOWN,visa,KOMIN,1
+UNKNOWN,visa,SUTIVAN (OTOK BRAC),1
+UNKNOWN,visa,PODACA,1
+UNKNOWN,visa,BRIST,1
+SPLITSKODALMATINSKA,visa,ZAOSTROG,1
+UNKNOWN,visa,ZAOSTROG,1
+DUBROVAČKONERETVANSKA,visa,METKOVIC,1
+UNKNOWN,visa,ŽIVOGOŠĆE,1
+UNKNOWN,visa,ZIVOGOSCE,2
+UNKNOWN,visa,TRIBANJ,1
+UNKNOWN,visa,DRVENIK,3
+UNKNOWN,visa,PRIMOSTEN,13
+UNKNOWN,visa,IGRANE,2
+UNKNOWN,visa,TISNO,19
+SPLITSKODALMATINSKA,visa,ZIVOGOSCE,1
+UNKNOWN,visa,OKRUG GORNJI,20
+SPLITSKODALMATINSKAZUPANIJA,visa,SUPETAR,1
+SPLITSKODALMATINSKA,visa,SUPETAR,6
+UNKNOWN,visa,SUPETAR (BRAČ),1
+UNKNOWN,visa,SELCA (BRAC),1
+UNKNOWN,visa,SUPETAR -ISLAN BRAE,1
+UNKNOWN,visa,OKRUG,1
+UNKNOWN,visa,SUMARTIN (BRAČ),1
+UNKNOWN,visa,SUMARTIN,1
+UNKNOWN,visa,POLJICA,1
+UNKNOWN,visa,ŽIRJE,1
+SPLITSKODALMATINSKA,visa,SELCA,1
+UNKNOWN,visa,SELCA-BRAC,1
+BJELOVARSKOBILOGORSKA,visa,IVANSKA,1
+UNKNOWN,visa,SPLITSKA (BRAC),1
+SIBENSKOKNINSKA,visa,PRIMOSTEN,4
+UNKNOWN,visa,PRIMOŠTEN,3
+UNKNOWN,visa,OKRUG DONJI,1
+UNKNOWN,visa,METKOVIC,8
+UNKNOWN,visa,DRASNICE,1
+UNKNOWN,visa,SEGET VRANJICA,3
+UNKNOWN,visa,DRAŠNICE,1
+UNKNOWN,visa,SEGET VRANJIC,1
+SPLITSKODALMATINSKA,visa,POSTIRA,1
+UNKNOWN,visa,OKRUG GORNJI (CIOVO),2
+SPLITSKODALMATINSKA,visa,PUČIŠĆA,1
+DUBROVACKONERETVANSKA,visa,METKOVIC,4
+UNKNOWN,visa,PUCISCA,3
+SPLITSKODALMATINSKA,visa,PODGORA,3
+UNKNOWN,visa,SEGET DONJI,5
+SPLITSKODALMATINSKA,visa,OKRUG GORNJI (OTOK ČIOVO),1
+ZAGREBACKA,visa,ZAPRESIC,7
+DUBROVACKONERETVANSKAZUPANIJA,visa,METKOVIC,1
+DUBROVACKONERETVANSKA,visa,METKOVIĆ,3
+UNKNOWN,visa,TROGIR,30
+SIBENSKOKNINSKA,visa,SKRADIN,1
+SPLITSKODALMATINSKA,visa,TROGIR,9
+SPLITSKODALMATINSKA,visa,SEGET DONJI,2
+UNKNOWN,visa,SEGET,1
+UNKNOWN,visa,TROGIR - CIOVO,1
+UNKNOWN,visa,POVLJA,1
+SPLITSKODALMATINSKA,visa,TUCEPI,2
+UNKNOWN,visa,OMIŠ,1
+ISTARSKA,visa,SAVUDRIJA,1
+UNKNOWN,visa,MARCANA,1
+SPLITSKODALMATINSKAZUPANIJA,visa,TROGIR,1
+UNKNOWN,visa,POVLJA (BRAČ),1
+SIBENSKOKNINSKA,visa,KNIN,4
+SPLITSKODALMATINSKA,visa,SOLIN,10
+UNKNOWN,visa,TRIBUNJ,5
+SPLITSKODALMATINSKA,visa,TUČEPI,1
+SPLITSKODALMATINSKA,visa,DUGOPOLJE,3
+SIBENSKOKNINSKA,visa,KAPRIJE,1
+UNKNOWN,visa,OTOK KAPRIJE,1
+UNKNOWN,visa,SLATINE,2
+UNKNOWN,visa,ARBANIJA,3
+UNKNOWN,visa,SLATINE / CIOVO,1
+SPLITSKODALMATINSKAZUPANIJA,visa,MAKARSKA,2
+UNKNOWN,visa,OTOK OBONJAN (22232 ZLARIN),1
+UNKNOWN,visa,GREBAŠTICA,1
+UNKNOWN,visa,GREBASTICA,1
+UNKNOWN,visa,KASTEL STAFILIC,5
+SPLITSKODALMATINSKA,visa,KAŠTEL ŠTAFILIĆ,1
+UNKNOWN,visa,KAŠTEL ŠTAFILIĆ,3
+UNKNOWN,visa,KAŠTEL ŠTAFALIĆ,1
+SPLITSKODALMATINSKA,visa,PROMAJNA,1
+SPLITSKODALMATINSKA,visa,VRGORAC,2
+UNKNOWN,visa,VRGORAC,6
+UNKNOWN,visa,STANICI,1
+SPLITSKODALMATINSKA,visa,OMIS,4
+UNKNOWN,visa,LOKVA ROGOZNICA,2
+UNKNOWN,visa,DUGI RAT,5
+UNKNOWN,visa,NEMIRA,1
+SPLITSKODALMATINSKA,visa,DUGI RAT,1
+SPLITSKODALMATINSKA,visa,DUCE,1
+SPLITSKODALMATINSKAZUPANIJA,visa,SPLIT,5
+SPLITSKODALMATINSKA,visa,HRVACE,1
+UNKNOWN,visa,DUCE,3
+SPLITSKODALMATINSKAZUPANIJA,visa,DUGI RAT,1
+ZADARSKA,visa,MANDRE,2
+ZADARSKA,visa,PAG,3
+SPLITSKODALMATINSKA,visa,STOBREC,1
+UNKNOWN,visa,PODSTRANA,14
+UNKNOWN,visa,ZABORIC,1
+SPLITSKODALMATINSKA,visa,KAŠTEL NOVI,2
+SPLITSKODALMATINSKA,visa,BASKA VODA,4
+KRAPINSKOZAGORSKA,visa,PREGRADA,2
+VIROVITICKOPODRAVSKA,visa,PITOMACA,1
+SPLITSKODALMATINSKA,visa,KASTEL LUKSIC,2
+ZADARSKA,visa,BIOGRAD NA MORU,8
+SPLITSKODALMATINSKA,visa,OKRUG GORNJI,1
+UNKNOWN,visa,KRAPANJ,1
+UNKNOWN,visa,OMIS,21
+UNKNOWN,visa,ZLARIN,1
+UNKNOWN,visa,KASTEL NOVI,4
+KRAPINSKOZAGORSKA,visa,SVETI KRIZ ZACRETJE,2
+SPLITSKODALMATINSKA,visa,TRILJ,2
+SPLITSKODALMATINSKA,visa,OMIŠ,3
+UNKNOWN,visa,BAŠKA VODA,1
+ZADARSKA,visa,POVLJANA,2
+UNKNOWN,visa,BRODARICA,2
+UNKNOWN,visa,KASTEL STARI,7
+SPLITSKODALMATINSKA,visa,KAŠTEL STARI,2
+SPLITSKODALMATINSKA,visa,MARINA,1
+UNKNOWN,visa,MIMICE,1
+UNKNOWN,visa,SIBENIK,37
+SPLITSKODALMATINSKA,visa,BRELA,2
+ZAGREBACKA,visa,PISAROVINA,2
+SPLITSKODALMATINSKAZUPANIJA,visa,BRELA,1
+OSJECKOBARANJSKA,visa,DAKOVO,4
+UNKNOWN,visa,STOBREC,5
+UNKNOWN,visa,KASTEL LUKSIC,1
+UNKNOWN,visa,SINJ,13
+SPLITSKODALMATINSKA,visa,STOBREČ,1
+SIBENSKOKNINSKA,visa,KISTANJE,1
+SPLITSKODALMATINSKAZUPANIJA,visa,KAŠTELA,1
+SIBENSKOKNINSKA,visa,BRODARICA,2
+UNKNOWN,visa,KAŠTEL KAMBELOVAC,1
+UNKNOWN,visa,PRVIC LUKA,1
+SPLITSKODALMATINSKA,visa,PODSTRANA,3
+UNKNOWN,visa,KASTEL KAMBELOVAC,1
+UNKNOWN,visa,PISAK,1
+SPLITSKODALMATINSKA,visa,KAŠTEL KAMBELOVAC,1
+UNKNOWN,visa,VODICE,24
+UNKNOWN,visa,ŠIBENIK ZABLAĆE,1
+UNKNOWN,visa,KASTEL GOMILICA,3
+SPLITSKODALMATINSKA,visa,KAŠTEL GOMILICA,1
+UNKNOWN,visa,KASTEL SUCURAC,9
+SPLITSKODALMATINSKA,visa,KAŠTEL SUĆURAC,3
+GRADZAGREB,visa,ZAGREB,335
+UNKNOWN,visa,ZAGREB,403
+UNKNOWN,visa,KASTELA,1
+UNKNOWN,visa,SOLIN,14
+SIBENSKOKNINSKA,visa,TRIBUNJ,1
+SIBENSKOKNINSKAZUPANIJA,visa,TRIBUNJ,1
+UNKNOWN,visa,JEZERA,3
+SPLITSKODALMATINSKA,visa,IMOTSKI,5
+UNKNOWN,visa,JEZERA (MURTER),1
+UNKNOWN,visa,JEZERA - MURTER,1
+ISTARSKA,visa,POTPICAN,1
+SIBENSKOKNINSKA,visa,ŠIBENIK,6
+POZESKOSLAVONSKA,visa,LIPIK,1
+SIBENSKOKNINSKA,visa,DRNIS,1
+UNKNOWN,visa,ŠIBENIK,3
+PRIMORSKOGORANSKA,visa,VISKOVO,4
+UNKNOWN,visa,BETINA,4
+UNKNOWN,visa,ZRNOVNICA,1
+ŠIBENSKOKNINSKAZUPANIJA,visa,VODICE,1
+ISTARSKA,visa,POREC,10
+SIBENSKOKNINSKA,visa,TISNO (OTOK MURTER),1
+SIBENSKOKNINSKA,visa,TISNO,4
+UNKNOWN,visa,MURTER,11
+ZADARSKA,visa,VIR,3
+SIBENSKOKNINSKAZUPANIJA,visa,SIBENIK,3
+ZADARSKA,visa,SALI,2
+ZADARSKA,visa,PAKOSTANE,1
+UNKNOWN,visa,SALI,2
+BJELOVARSKOBILOGORSKA,visa,BULINAC,1
+PRIMORSKOGORANSKA,visa,DELNICE,4
+ISTARSKA,visa,BUJE,3
+UNKNOWN,visa,BRESTOVA,1
+ŠIBENSKOKNINSKAZUPANIJA,visa,SIBENIK,1
+SIBENSKOKNINSKA,visa,MURTER (OTOK MURTER),1
+SIBENSKOKNINSKA,visa,MURTER,1
+MEDIMURSKA,visa,CAKOVEC,7
+UNKNOWN,visa,?IBENIK,1
+UNKNOWN,visa,ZADVARJE,1
+SHIBENSKOKNINSKA,visa,TISNO,1
+UNKNOWN,visa,PIROVAC,6
+ISTARSKA,visa,LABIN,10
+ISTARSKA,visa,NOVIGRAD,4
+UNKNOWN,visa,KLIS,1
+SPLITSKODALMATINSKA,visa,KLIS,1
+UNKNOWN,visa,ZAGVOZD,1
+SPLITSKODALMATINSKA,visa,ZAGVOZD,1
+UNKNOWN,visa,SESTANOVAC,1
+ŠIBENSKOKNINSKA,visa,PIROVAC,1
+UNKNOWN,visa,ZATON,5
+UNKNOWN,visa,AC ZAGREB-DUBROVNIK,1
+SPLITSKODALMATINSKA,visa,ŠESTANOVAC,1
+UNKNOWN,visa,DRAGE,3
+UNKNOWN,visa,TKON,1
+UNKNOWN,visa,TKON (OTOK PASMAN),1
+KOPRIVNICKOKRIZEVACKA,visa,KRIZEVCI,5
+ZADARSKA,visa,TKON,2
+UNKNOWN,visa,PAKOSTANE,14
+UNKNOWN,visa,DUGOPOLJE,2
+ZADARSKA,visa,PAKOŠTANE,1
+UNKNOWN,visa,BIOGRAD NA MORU,17
+UNKNOWN,visa,LOZOVAC,3
+ISTARSKA,visa,PAZIN,6
+VUKOVARSKOSRIJEMSKA,visa,VUKOVAR,6
+UNKNOWN,visa,BIOGRAD N/M,1
+UNKNOWN,visa,BIOGRAD,2
+SISACKOMOSLAVACKA,visa,NOVSKA,2
+ZADARSKA,visa,PAŠMAN,1
+UNKNOWN,visa,PASMAN,1
+BJELOVARSKOBILOGORSKA,visa,GARESNICA,3
+ZADARSKAZUPANIJA,visa,BIOGRAD NA MORU,1
+ZADARSKA,visa,BIOGRAD,1
+KRAPINSKOZAGORSKA,visa,ZABOK,6
+UNKNOWN,visa,PREKO (UGLJAN),1
+SIBENSKOKNINSKA,visa,LOZOVAC,1
+UNKNOWN,visa,SVETI FILIP I JAKOV,4
+UNKNOWN,visa,VELI IZ,1
+ZADARSKA,visa,SVETI FILIP I JAKOV,2
+ZADARSKA,visa,VELI IZ,1
+UNKNOWN,visa,SKRADIN,10
+ISTARSKA,visa,UMAG,8
+UNKNOWN,visa,CISTA PROVO,2
+UNKNOWN,visa,LOVREC,1
+UNKNOWN,visa,DICMO,1
+SPLITSKODALMATINSKA,visa,CISTA PROVO,1
+UNKNOWN,visa,VELI RAT,1
+UNKNOWN,visa,VIR,13
+ZADARSKA,visa,KUKLJICA,1
+SPLITSKODALMATINSKA,visa,DICMO,1
+ZADARSKA,visa,STANKOVCI,1
+UNKNOWN,visa,IMOTSKI,11
+UNKNOWN,visa,SVETI PETAR NA MORU,1
+ZADARSKA,visa,KALI,1
+UNKNOWN,visa,KALI - UGLJAN,1
+UNKNOWN,visa,TRILJ,3
+UNKNOWN,visa,SUKOŠAN,3
+UNKNOWN,visa,PREKO,5
+SPLITSKODALMATINSKAZUPANIJA,visa,TRILJ,1
+UNKNOWN,visa,SUKOSAN,5
+ZADARSKA,visa,PREKO,2
+ZADARSKA,visa,SUTOMISCICA,1
+ZADARSKAZUPANIJA,visa,PREKO,1
+ZADARSKA,visa,SUKOSAN,2
+ZADARSKA,visa,SUKOŠAN,2
+SHIBENSKOKNINSKA,visa,SKRADIN,1
+BJELOVARSKOBILOGORSKA,visa,KAPELA,1
+ZADARSKA,visa,BIBINJE,2
+UNKNOWN,visa,BIBINJE,2
+UNKNOWN,visa,"BIBINJE, SUKOSAN",1
+UNKNOWN,visa,BRNAZE,2
+ISTARSKA,visa,LUPOGLAV,1
+UNKNOWN,visa,UGLJAN,1
+ZADARSKA,visa,UGLJAN,2
+ZADARSKA,visa,POLAČA,1
+ZADARSKAZUPANIJA,visa,ZADAR,5
+UNKNOWN,visa,CAKOVEC,24
+UNKNOWN,visa,OSIJEK,66
+UNKNOWN,visa,VUKOVAR,13
+ISTARSKA,visa,ROVINJSKO SELO,1
+KRAPINSKOZAGORSKA,visa,KRAPINSKE TOPLICE,2
+ISTARSKA,visa,ROVINJ,12
+VIROVITICKOPODRAVSKA,visa,VIROVITICA,5
+VIROVITICKOPODRAVSKA,visa,CACINCI,1
+BJELOVARSKOBILOGORSKA,visa,HERCEGOVAC,1
+BJELOVARSKOBILOGORSKA,visa,CAZMA,2
+BJELOVARSKOBILOGORSKA,visa,BJELOVAR,16
+SISACKOMOSLAVACKA,visa,POPOVACA,1
+VUKOVARSKOSRIJEMSKA,visa,ZUPANJA,2
+SISACKOMOSLAVACKA,visa,KUTINA,5
+SPLITSKODALMATINSKAZUPANIJA,visa,SINJ,2
+OSJECKOBARANJSKA,visa,BELI MANASTIR,2
+UNKNOWN,visa,GALOVAC,1
+UNKNOWN,visa,NEREZINE,3
+UNKNOWN,visa,DRNIS,5
+ISTARSKA,visa,MEDULIN,4
+SIBENSKOKNINSKA,visa,DRNIŠ,2
+UNKNOWN,visa,ZEMUNIK DONJI,2
+SPLITSKODALMATINSKA,visa,"OTOK, SINJ",1
+UNKNOWN,visa,OTOK,4
+UNKNOWN,visa,BENKOVAC,3
+ZADARSKA,visa,BENKOVAC,3
+UNKNOWN,visa,PETRCANE,6
+UNKNOWN,visa,OPATIJA,6
+UNKNOWN,visa,PETRČANE,1
+ZADARSKA,visa,MURVICA DONJA,1
+UNKNOWN,visa,HRVACE,1
+ZADARSKA,visa,NIN,5
+ZADARSKA,visa,ZATON,1
+UNKNOWN,visa,ZATON - NIN,1
+UNKNOWN,visa,SILBA,1
+UNKNOWN,visa,PRIVLAKA,5
+ZADARSKAZUPANIJA,visa,NIN,1
+ZADARSKA,visa,PRIVLAKA,1
+UNKNOWN,visa,PRIDRAGA,1
+UNKNOWN,visa,KARIN GORNJI,1
+UNKNOWN,visa,POSEDARJE,1
+UNKNOWN,visa,ISLAM LATINSKI (POSEDARJE),1
+SPLITSKODALMATINSKA,visa,VRLIKA,1
+UNKNOWN,visa,VRSI,2
+ZADARSKA,visa,VRSI,2
+UNKNOWN,visa,VRLIKA,1
+ZADARSKAZUPANIJA,visa,VIR,1
+ZADARSKA,visa,POSEDARJE,3
+UNKNOWN,visa,STROZANAC,1
+UNKNOWN,visa,CRES,7
+ZADARSKA,visa,MASLENICA,1
+UNKNOWN,visa,MALI LOSINJ,14
+UNKNOWN,visa,POVLJANA,2
+ZADARSKA,visa,RAŽANAC,1
+UNKNOWN,visa,RTINA,1
+UNKNOWN,visa,KNIN,7
+SIBENSKOKNINSKAZUPANIJA,visa,KNIN,1
+UNKNOWN,visa,VELI LOSINJ,4
+PRIMORSKOGORANSKA,visa,MALI LOŠINJ,2
+PRIMORSKOGORANSKA,visa,MALI LOSINJ,4
+UNKNOWN,visa,MALI LOŠINJ,2
+ZADARSKA,visa,OBROVAC,1
+UNKNOWN,visa,AUTOCESTA SPLIT-ZAGREB,1
+UNKNOWN,visa,AUTOCESTA ZAGREB-SPLIT,3
+UNKNOWN,visa,JASENICE,1
+UNKNOWN,visa,ROVANJSKA,1
+UNKNOWN,visa,SELINE,1
+UNKNOWN,visa,STARIGRAD PAKLENICA,8
+ZADARSKA,visa,STARIGRAD PAKLENICA,1
+UNKNOWN,visa,STARIGRAD,4
+ZADARSKA,visa,STARIGRAD,2
+UNKNOWN,visa,STARIGRAD (PAKLENICA),1
+ZADARSKAZUPANIJA,visa,STARIGRAD,1
+UNKNOWN,visa,MANDRE KOLAN,2
+UNKNOWN,visa,MANDRE,3
+UNKNOWN,visa,PAG,12
+ISTARSKA,visa,SVETVINCENAT,1
+ZADARSKA,visa,SIMUNI,1
+KARLOVACKA,visa,OGULIN,6
+ZADARSKAZUPANIJA,visa,PAG,1
+UNKNOWN,visa,PUNTA KRIZA,1
+UNKNOWN,visa,PULA,57
+PRIMORSKOGORANSKA,visa,MARTINSCICA,1
+UNKNOWN,visa,GAJAC (PAG),2
+UNKNOWN,visa,KOLAN,2
+PRIMORSKOGORANSKA,visa,NOVI VINODOLSKI,4
+ZAGREBACKA,visa,BREGANA,1
+UNKNOWN,visa,METAJNA (PAG),1
+UNKNOWN,visa,NOVALJA,56
+UNKNOWN,visa,METAJNA,1
+LICKOSENJSKA,visa,METAJNA,1
+ISTARSKAZUPANIJA,visa,MEDULIN,6
+LICKOSENJSKA,visa,NOVALJA,21
+UNKNOWN,visa,PREMANTURA,5
+ISTARSKA,visa,PREMANTURA,1
+LICKOSENJSKA,visa,HOSTEL ZRCE,1
+UNKNOWN,visa,MEDULIN,18
+UNKNOWN,visa,BANJOLE,5
+UNKNOWN,visa,"OSOR, OTOK CRES",1
+UNKNOWN,visa,GRACAC,1
+UNKNOWN,visa,PULA - BANJOLE,1
+ISTARSKA,visa,BANJOLE,1
+UNKNOWN,visa,ZRCE,1
+UNKNOWN,visa,KUČIŠTE,1
+SISACKOMOSLAVACKA,visa,PETRINJA,4
+UNKNOWN,visa,STARA NOVALJA,1
+UNKNOWN,visa,KARLOBAG,3
+ISTARSKAZUPANIJA,visa,PULA,7
+UNKNOWN,visa,PULA - VERUDA,1
+GRADZAGREB,visa,SESVETE,8
+UNKNOWN,visa,LIZNJAN,3
+LICKOSENJSKA,visa,STARA NOVALJA,1
+UNKNOWN,visa,VERUDA,1
+ISTARSKA,visa,VRSAR,3
+VARAZDINSKA,visa,LUDBREG,2
+KOPRIVNICKOKRIZEVACKA,visa,KOPRIVNICA,16
+UNKNOWN,visa,ZMINJ,1
+ISTARSKA,visa,VODNJAN,3
+UNKNOWN,visa,SISAN,1
+PRIMORSKOGORANSKA,visa,NJIVICE,2
+UNKNOWN,visa,LOVINAC,1
+UNKNOWN,visa,BANJOLE (PULA),1
+ISTARSKA,visa,ŠTINJAN,1
+UNKNOWN,visa,VALBANDON,2
+UNKNOWN,visa,FAZANA,12
+UNKNOWN,visa,LUN,2
+ISTARSKA,visa,FAŽANA,2
+SISACKOMOSLAVACKA,visa,TOPUSKO,2
+ISTARSKA,visa,BRTONIGLA,2
+UNKNOWN,visa,VALTURA,1
+UNKNOWN,visa,FAŽANA,1
+UNKNOWN,visa,MOGORIC,1
+UNKNOWN,visa,PEROJ,1
+UNKNOWN,visa,"MARTINSCICA , OTOK CRES",2
+PRIMORSKOGORANSKA,visa,OPATIJA,8
+UNKNOWN,visa,GOSPIC,6
+LICKOSENJSKA,visa,GOSPIC,4
+LICKOSENJSKA,visa,OTOCAC,4
+UNKNOWN,visa,VODNJAN,2
+ISTARSKAZUPANIJA,visa,VODNJAN,1
+UNKNOWN,visa,BARBARIGA,2
+UNKNOWN,visa,KRNICA,1
+ISTARSKA,visa,MARČANA,1
+UNKNOWN,visa,BALE,2
+ISTARSKA,visa,BALE,2
+UNKNOWN,visa,RAB,18
+PRIMORSKOGORANSKA,visa,RAB,7
+UNKNOWN,visa,STINICA,1
+PRIMORSKOGORANSKA,visa,VOLOSKO,1
+UNKNOWN,visa,RAB ,1
+UNKNOWN,visa,KAMPOR (RAB),1
+UNKNOWN,visa,ROVINJ,38
+ISTARSKAZUPANIJA,visa,ROVINJ,5
+UNKNOWN,visa,SUPETARSKA DRAGA,1
+UNKNOWN,visa,ROVINJ (ROVIGNO),3
+ISTARSKA,visa,BARBAN,2
+UNKNOWN,visa,UDBINA,1
+KRAPINSKOZAGORSKA,visa,KRAPINA,4
+UNKNOWN,visa,LOPAR,4
+UNKNOWN,visa,PERUSIC,1
+UNKNOWN,visa,LOPAR (RAB),1
+UNKNOWN,visa,TRGET,1
+ISTARSKA,visa,SVETI PETAR U SUMI,1
+UNKNOWN,visa,ROVINJSKO SELO,1
+UNKNOWN,visa,VRSAR,10
+UNKNOWN,visa,LABIN,9
+ISTARSKAZUPANIJA,visa,VRSAR,1
+UNKNOWN,visa,RIJEKA,66
+UNKNOWN,visa,POREC,59
+ISTARSKA,visa,SVETVINČENAT,1
+PRIMORSKOGORANSKA,visa,CRES,5
+UNKNOWN,visa,FUNTANA,7
+UNKNOWN,visa,SANTA MARINA - LABIN,1
+ISTARSKA,visa,FUNTANA,1
+UNKNOWN,visa,RABAC,13
+UNKNOWN,visa,KANFANAR,1
+ISTARSKAZUPANIJA,visa,FUNTANA,1
+UNKNOWN,visa,DONJI LAPAC,1
+ISTARSKA,visa,KANFANAR,2
+UNKNOWN,visa,LOVISTE (PELJESAC),1
+ISTARSKA,visa,VISNJAN,1
+ISTARSKA,visa,SVETI LOVREC,1
+VARAZDINSKA,visa,IVANEC,1
+ISTARSKA,visa,ŽMINJ,1
+ISTARSKA,visa,LIZNJAN,1
+VARAZDINSKA,visa,NOVI MAROF,2
+ISTARSKAZUPANIJA,visa,POREC,1
+ISTARSKA,visa,POREČ,2
+UNKNOWN,visa,POREČ,1
+ISTARSKA,visa,BUZET,5
+UNKNOWN,visa,KRK,28
+UNKNOWN,visa,BASKA,10
+UNKNOWN,visa,BAŠKA,5
+PRIMORSKOGORANSKA,visa,SKRLJEVO,2
+PRIMORSKOGORANSKA,visa,BASKA,5
+PRIMORSKOGORANSKA,visa,VALBISKA,1
+UNKNOWN,visa,SVETI JURAJ,1
+PRIMORSKOGORANSKA,visa,BAŠKA,1
+UNKNOWN,visa,PINEZICI,1
+PRIMORSKOGORANSKA,visa,OMISALJ,4
+UNKNOWN,visa,PUNAT,7
+UNKNOWN,visa,OTOK KRK,1
+PRIMORSKOGORANSKAZUPANIJA,visa,KRK,1
+PRIMORSKOGORANSKA,visa,MOSCENICKA DRAGA,1
+UNKNOWN,visa,CEVAR PORAT,1
+UNKNOWN,visa,CERVAT PORAT,1
+PRIMORSKOGORANSKA,visa,"KRK, OTOK KRK",1
+LICKOSENJSKA,visa,SENJ,4
+PRIMORSKOGORANSKA,visa,KRK,4
+UNKNOWN,visa,OTOCAC,3
+VARAZDINSKA,visa,VARAZDIN,11
+ZAGREBACKA,visa,DUGO SELO,6
+UNKNOWN,visa,KORENICA,1
+ISTARSKA,visa,VOZILICI,1
+UNKNOWN,visa,TAR,2
+UNKNOWN,visa,NJIVICE-ISLAND KRK,1
+ISTARSKAZUPANIJA,visa,TAR-VABRIGA,1
+ISTARSKAZUPANIJA,visa,NOVIGRAD,1
+UNKNOWN,visa,NOVIGRAD,12
+LICKOSENJSKA,visa,KORENICA,1
+LICKOSENJSKAZUPANIJA,visa,SENJ,1
+UNKNOWN,visa,SENJ,4
+UNKNOWN,visa,RUDANOVAC,1
+BJELOVARSKOBILOGORSKA,visa,DARUVAR,3
+UNKNOWN,visa,PAZIN,3
+PRIMORSKOGORANSKA,visa,MATULJI,3
+LICKOSENJSKA,visa,SVETI JURAJ,1
+ISTARSKA,visa,RABAC,1
+UNKNOWN,visa,"KATELIR, LABINCI",1
+UNKNOWN,visa,VRHOVINE,1
+UNKNOWN,visa,KASTELIR,1
+ISTARSKAZUPANIJA,visa,PAZIN,1
+KOPRIVNICKOKRIZEVACKA,visa,DURDEVAC,2
+UNKNOWN,visa,MALINSKA - DUBASNICA,1
+UNKNOWN,visa,VRBNIK,1
+UNKNOWN,visa,MALINSKA,13
+UNKNOWN,visa,"MALINSKA, ISLAND KRK",1
+PRIMORSKOGORANSKAZUPANIJA,visa,MALINSKA-DUBASNICA,1
+UNKNOWN,visa,UMAG,23
+ISTARSKA,visa,CEROVLJE,1
+UNKNOWN,visa,MIHOLJICE,1
+UNKNOWN,visa,VIZINADA,1
+UNKNOWN,visa,SV. IVAN ZELINA,2
+ISTARSKA,visa,FAZANA,2
+UNKNOWN,visa,BRINJE,1
+UNKNOWN,visa,MOTOVUN,2
+UNKNOWN,visa,NJIVICE,3
+PRIMORSKOGORANSKA,visa,CAVLE,2
+UNKNOWN,visa,MOSCENICKA DRAGA,2
+UNKNOWN,visa,GRUBISNO POLJE,2
+UNKNOWN,visa,CIZICI,1
+ISTARSKAZUPANIJA,visa,UMAG,3
+UNKNOWN,visa,PLITVICKA JEZERA,6
+UNKNOWN,visa,SILO,2
+UNKNOWN,visa,GROZNJAN,1
+UNKNOWN,visa,KLIMNO,1
+PRIMORSKOGORANSKA,visa,SILO,2
+UNKNOWN,visa,UMAG (UMAGO),2
+ZAGREBACKA,visa,DUBRAVA,1
+UNKNOWN,visa,KLENOVICA,1
+BJELOVARSKOBILOGORSKA,visa,VELIKO TROJSTVO,1
+ISTARSKAZUPANIJA,visa,BUJE,1
+UNKNOWN,visa,BUJE,1
+ISTARSKA,visa,MOTOVUN,1
+UNKNOWN,visa,NOVI VINODOLSKI,7
+PRIMORSKOGORANSKA,visa,N.VINODOLSKI,1
+PRIMORSKOGORANSKAZUPANIJA,visa,NOVI VINODOLSKI,1
+PRIMORSKOGORANSKA,visa,SELCE,4
+UNKNOWN,visa,SELCE,6
+UNKNOWN,visa,KATORO,2
+UNKNOWN,visa,CRIKVENICA,13
+PRIMORSKOGORANSKA,visa,CRIKVENICA,7
+PRIMORSKOGORANSKA,visa,KOSTRENA,2
+KARLOVACKA,visa,ZAKANJE,2
+PRIMORSKOGORANSKAZUPANIJA,visa,CRIKVENICA,1
+UNKNOWN,visa,OMISALJ,2
+PRIMORSKOGORANSKA,visa,LOKVE,1
+UNKNOWN,visa,LOVRAN,5
+UNKNOWN,visa,DRAMALJ,1
+UNKNOWN,visa,OMIŠALJ,1
+UNKNOWN,visa,SAVUDRIJA,2
+UNKNOWN,visa,SELIŠTE DREŽNIČKO,1
+UNKNOWN,visa,IKA,1
+ISTARSKA,visa,ROC,1
+KARLOVACKAZUPANIJA,visa,RAKOVICA,1
+UNKNOWN,visa,JADRANOVO,1
+UNKNOWN,visa,DREZNIK GRAD,1
+UNKNOWN,visa,KRALJEVICA,5
+UNKNOWN,visa,BUZET,1
+ISTARSKAZUPANIJA,visa,BUZET,1
+PRIMORSKOGORANSKA,visa,BRIBIR,1
+UNKNOWN,visa,GRABOVAC,1
+ZAGREBACKA,visa,GRADICI,1
+UNKNOWN,visa,RAKOVICA,3
+PRIMORSKOGORANSKA,visa,OPATIJA 3,1
+PRIMORSKOGORANSKAZUPANIJA,visa,OPATIJA,1
+PRIMORSKOGORANSKA,visa,RUPA,1
+UNKNOWN,visa,VOLOSKO,1
+UNKNOWN,visa,KOSTRENA,2
+ZADARSKA,visa,PRIDRAGA,1
+DUBROVACKONERETVANSKA,visa,BLACE,1
+PRIMORSKOGORANSKA,visa,NEREZINE,2
+PRIMORSKOGORANSKA,visa,BAKAR,1
+PRIMORSKOGORANSKA,visa,BRSEC,1
+PRIMORSKOGORANSKA,visa,VRBNIK,1
+PRIMORSKOGORANSKA,visa,TRSCE,1
+PRIMORSKOGORANSKA,visa,KASTAV,3
+ISTARSKA,visa,RASA,1
+PRIMORSKOGORANSKA,visa,KLANA,1
+PRIMORSKOGORANSKA,visa,LOPAR,1
+PRIMORSKOGORANSKA,visa,ICICI,1
+UNKNOWN,visa,MATULJI,3
+PRIMORSKOGORANSKAZUPANIJA,visa,MATULJI,1
+PRIMORSKOGORANSKAZUPANIJA,visa,RIJEKA,2
+PRIMORSKOGORANSKA,visa,DRAMALJ,1
+VUKOVARSKOSRIJEMSKA,visa,OTOK,1
+UNKNOWN,visa,KRASIC,2
+ISTARSKA,visa,TAR,1
+ISTARSKA,visa,KRSAN,1
+KRAPINSKOZAGORSKA,visa,OROSLAVJE,2
+ISTARSKA,visa,ZMINJ,2
+UNKNOWN,visa,KUKULJANOVO,2
+PRIMORSKOGORANSKAZUPANIJA,visa,KASTAV,1
+PRIMORSKOGORANSKAZUPANIJA,visa,BAKAR,1
+PRIMORSKOGORANSKA,visa,LOVRAN,1
+UNKNOWN,visa,VISKOVO,5
+PRIMORSKOGORANSKA,visa,MARINICI,1
+UNKNOWN,visa,KUKULJANOVO - RIJEKA,1
+PRIMORSKOGORANSKA,visa,BROD NA KUPI,1
+PRIMORSKOGORANSKA,visa,JURDANI,1
+PRIMORSKOGORANSKA,visa,VIŠKOVO,1
+PRIMORSKOGORANSKA,visa,GEROVO,1
+PRIMORSKOGORANSKAZUPANIJA,visa,VISKOVO,1
+UNKNOWN,visa,KRIZEVCI,10
+UNKNOWN,visa,CAVLE,1
+PRIMORSKOGORANSKA,visa,FUZINE,1
+UNKNOWN,visa,FUZINE,1
+UNKNOWN,visa,DRAZICE,1
+PRIMORSKOGORANSKA,visa,DRAZICE,1
+UNKNOWN,visa,JOSIPDOL,1
+KARLOVACKA,visa,JOSIPDOL,1
+UNKNOWN,visa,SLUNJ,4
+KARLOVACHKA,visa,SLUNJ,1
+PRIMORSKOGORANSKA,visa,VALUN,1
+UNKNOWN,visa,OGULIN,8
+LICKOSENJSKA,visa,BRINJE,1
+PRIMORSKOGORANSKA,visa,VELI LOSINJ,1
+KRAPINSKOZAGORSKA,visa,DONJA STUBICA,1
+UNKNOWN,visa,RAVNA GORA,2
+UNKNOWN,visa,AUTOCESTA RIJEKA-ZAGREB,1
+PRIMORSKOGORANSKA,visa,MORAVICE,1
+POZESKOSLAVONSKA,visa,PAKRAC,3
+PRIMORSKOGORANSKA,visa,MRKOPALJ,1
+SISACKOMOSLAVACKA,visa,DVOR,1
+UNKNOWN,visa,DVOR,1
+UNKNOWN,visa,GORNJI STUPNIK,1
+PRIMORSKOGORANSKA,visa,HRELJIN,1
+UNKNOWN,visa,BEDEKOVCINA,3
+PRIMORSKOGORANSKA,visa,KUKULJANOVO,2
+UNKNOWN,visa,VOJNIC,2
+KARLOVACKA,visa,VOJNIC,1
+UNKNOWN,visa,TOPUSKO,1
+UNKNOWN,visa,DUGA RESA,5
+KRAPINSKOZAGORSKA,visa,HUM NA SUTLI,1
+PRIMORSKOGORANSKA,visa,KRASICA,1
+UNKNOWN,visa,MACE,1
+UNKNOWN,visa,KARLOVAC,23
+UNKNOWN,visa,TURANJ,1
+PRIMORSKOGORANSKA,visa,SKRAD,1
+KARLOVACKAZUPANIJA,visa,KARLOVAC,2
+UNKNOWN,visa,GLINA,3
+SISACKOMOSLAVACKA,visa,GLINA,2
+ZAGREBACKA,visa,JASTREBARSKO,5
+KARLOVACKA,visa,RAKOVICA,1
+UNKNOWN,visa,HRVAT.KOSTAJNICA,1
+SISACKOMOSLAVACKAZUPANIJA,visa,HRVATSKA KOSTAJNICA,1
+PRIMORSKOGORANSKA,visa,PREZID,1
+UNKNOWN,visa,HRVATSKA DUBICA,1
+UNKNOWN,visa,DRAGANIC,1
+UNKNOWN,visa,OZALJ,2
+UNKNOWN,visa,PETRINJA,7
+KARLOVACKA,visa,SLUNJ,2
+UNKNOWN,visa,SUNJA,3
+SISACKOMOSLAVACKA,visa,SUNJA,1
+UNKNOWN,visa,JASENOVAC,1
+UNKNOWN,visa,MOSCENICA,1
+ZAGREBACKAZUPANIJA,visa,PISAROVINA,1
+SISACKOMOSLAVACKAZUPANIJA,visa,SISAK,4
+UNKNOWN,visa,SISAK,19
+BRODSKOPOSAVSKAZUPANIJA,visa,DAVOR,1
+ZAGREBACKAZUPANIJA,visa,JASTREBARSKO,1
+UNKNOWN,visa,JASTREBARSKO,5
+ZAGREBAČKA,visa,JASTREBARSKO,1
+SISAČKOMOSLAVAČKA,visa,SISAK,1
+UNKNOWN,visa,ZABOK,9
+UNKNOWN,visa,VELIKA GORICA,16
+ZAGREBACKA,visa,SISAK,1
+UNKNOWN,visa,BUDASEVO (TOPOLOVAC),1
+UNKNOWN,visa,OKUCANI,1
+UNKNOWN,visa,KLINCA SELA,1
+SISACKOMOSLAVACKAZUPANIJA,visa,NOVSKA,1
+UNKNOWN,visa,NOVSKA,3
+UNKNOWN,visa,SAMOBOR,17
+SISACKOMOSLAVACKA,visa,LEKENIK,1
+SISACKOMOSLAVACKAZUPANIJA,visa,LEKENIK,1
+BRODSKOPOSAVSKA,visa,OKUČANI,1
+UNKNOWN,visa,LIPOVLJANI,1
+BRODSKOPOSAVSKA,visa,NOVA GRADIŠKA,1
+BRODSKOPOSAVSKAZUPANIJA,visa,NOVA GRADISKA,1
+UNKNOWN,visa,STARO PETROVO SELO,1
+ZAGREBACKAZUPANIJA,visa,SAMOBOR,5
+UNKNOWN,visa,RAKOV POTOK,1
+ZAGREBAČKA,visa,SAMOBOR,1
+UNKNOWN,visa,NOVA KAPELA,1
+BRODSKOPOSAVSKAZUPANIJA,visa,NOVA KAPELA,1
+UNKNOWN,visa,ORIOVAC,2
+SISACKOMOSLAVACKAZUPANIJA,visa,KUTINA,1
+UNKNOWN,visa,KUTINA,5
+PRIMORSKOGORANSKA,visa,KRALJEVICA,1
+UNKNOWN,visa,REPUSNICA,1
+UNKNOWN,visa,BRODSKI STUPNIK,1
+UNKNOWN,visa,SPISIC BUKOVICA,1
+UNKNOWN,visa,DONJI STUPNIK,2
+UNKNOWN,visa,LUCKO,3
+ZAGREBACKAZUPANIJA,visa,STUPNIK,1
+GRADZAGREB,visa,SOBLINEC,1
+ZAGREBACKA,visa,SAMOBOR,10
+ZAGREBAČKA,visa,GORNJI STUPNIK,1
+LICKOSENJSKA,visa,PERUSIC,1
+ZAGREBACHKA,visa,VELIKA GORICA,1
+UNKNOWN,visa,ODRA,1
+ZAGREBACKAZUPANIJA,visa,VELIKA GORICA,4
+ZAGREBACKA,visa,SVETA NEDELJA,2
+UNKNOWN,visa,SVETA NEDJELJA,3
+ZAGREBACKAZUPANIJA,visa,SVETA NEDELJA,3
+GRADZAGREB,visa,BOTINEC,1
+UNKNOWN,visa,STRMEC SAMOBORSKI,1
+UNKNOWN,visa,SVETA NEDELJA,1
+UNKNOWN,visa,POPOVACA,3
+SISACKOMOSLAVACKA,visa,POPOVAČA,1
+UNKNOWN,visa,LIPIK,1
+GZ,visa,ZAGREB,1
+ZADARSKA,visa,GRACAC,1
+KOPRIVNICKOKRIZEVACKA,visa,MOLVE,1
+UNKNOWN,visa,SLAVONSKI BROD,33
+UNKNOWN,visa,SLAVONSKI SAMAC,1
+ZADARSKA,visa,KOLAN,1
+UNKNOWN,visa,SIBINJ,1
+ZADARSKA,visa,POLICNIK,1
+UNKNOWN,visa,GUNJA,4
+ZAGREBACKA,visa,BESTOVJE,1
+BRODSKOPOSAVSKAZUPANIJA,visa,SLAVONSKI BROD,5
+PRIMORSKOGORANSKA,visa,RAVNA GORA,1
+ZAGREBACKA,visa,VELIKA MLAKA,1
+SIBENSKOKNINSKA,visa,PIROVAC,1
+UNKNOWN,visa,SOBLINEC,1
+BJELOVARSKOBILOGORSKA,visa,ROVISCE,1
+ZAGREBACKA,visa,BRDOVEC,1
+UNKNOWN,visa,ZAPRUDJE,1
+UNKNOWN,visa,VELIKA LUDINA,1
+UNKNOWN,visa,PAKRAC,2
+POŽEŠKOSLAVONSKA,visa,PAKRAC,1
+VUKOVARSKOSRIJEMSKA,visa,ILOK,2
+DUBROVACKONERETVANSKA,visa,CILIPI,1
+ZAGREBACKA,visa,VRBOVEC,1
+UNKNOWN,visa,SESVETE,12
+LICKOSENJSKA,visa,VRHOVINE,2
+UNKNOWN,visa,PODVINJE,2
+VUKOVARSKOSRIJEMSKA,visa,IVANKOVO,1
+UNKNOWN,visa,CAZMA,5
+UNKNOWN,visa,ZAPREŠIĆ,1
+UNKNOWN,visa,BRDOVEC,1
+UNKNOWN,visa,KRIZ,2
+OSJECKOBARANJSKA,visa,DONJI MIHOLJAC,1
+GRADZAGREB,visa,ZAPRESIC,2
+OSJECKOBARANJSKA,visa,VALPOVO,3
+ZAGREBACKAZUPANIJA,visa,BRDOVEC,1
+VIROVITICKOPODRAVSKA,visa,CADAVICA,1
+UNKNOWN,visa,DONJA BISTRA,1
+UNKNOWN,visa,IVANIC GRAD,6
+UNKNOWN,visa,ZAPREŠIC,2
+DUBROVACKONERETVANSKA,visa,PLOCE,1
+ZAGREBACKAZUPANIJA,visa,IVANIC-GRAD,2
+ZAGREBACKA,visa,IVANIC-GRAD,1
+SPLITSKODALMATINSKA,visa,KASTEL SUCURAC,1
+UNKNOWN,visa,PLETERNICA,5
+VIROVITICKOPODRAVSKA,visa,ORAHOVICA,2
+POZESKOSLAVONSKA,visa,PLETERNICA,3
+UNKNOWN,visa,SVIBJE,1
+UNKNOWN,visa,POZEGA,13
+DUBROVACKONERETVANSKA,visa,MLINI,1
+POZEŠKOSLAVONSKAZUPANIJA,visa,POZEGA,1
+POZESKOSLAVONSKA,visa,POŽEGA,1
+VUKOVARSKOSRIJEMSKA,visa,BABINA GREDA,1
+ZAGREBACKA,visa,VUKOVINA,1
+POZESKOSLAVONSKAZUPANIJA,visa,POZEGA,1
+UNKNOWN,visa,SESVETSKI KRALJEVEC,3
+ZAGREBACKAZUPANIJA,visa,RUGVICA,1
+DUBROVACKONERETVANSKA,visa,MOKOSICA,1
+UNKNOWN,visa,GARCIN,1
+UNKNOWN,visa,ZAGREB - DUBRAVA,1
+GRADZAGREB,visa,ZAGREB-DUBRAVA,1
+BJELOVARSKOBILOGORSKA,visa,GAREŠNICA,1
+SPLITSKODALMATINSKA,visa,KASTEL STARI,1
+UNKNOWN,visa,ZAGREB-DUBRAVA,1
+UNKNOWN,visa,GARESNICA,1
+UNKNOWN,visa,DONJA PUSCA,1
+UNKNOWN,visa,KLOSTAR IVANIC,2
+ZAGREBACKA,visa,JALSEVEC NARTSKI,1
+UNKNOWN,visa,SIKIREVCI,1
+ZAGREBACKAZUPANIJA,visa,BISTRA,2
+UNKNOWN,visa,SES. KRALJEVEC,1
+GRADZAGREB,visa,SESVETSKI KRALJEVEC,1
+GRADZAGREB,visa,SESVETE KRALJEVEC,1
+ZAGREBACKAZUPANIJA,visa,DUGO SELO,3
+GRADZAGREB,visa,LUCKO,1
+UNKNOWN,visa,DUGO SELO,7
+ZAGREBACKA,visa,MALA BUNA,1
+UNKNOWN,visa,POLJANICA BISTRANSKA,1
+UNKNOWN,visa,DONJI ANDRIJEVCI,2
+UNKNOWN,visa,VELIKA KOPANICA,1
+UNKNOWN,visa,VRBANJA,1
+UNKNOWN,visa,BABINA GREDA,1
+UNKNOWN,visa,BOSNJACI,1
+UNKNOWN,visa,ZUPANJA,5
+VUKOVARSKOSRIJEMSKA,visa,ŽUPANJA,1
+UNKNOWN,visa,BRCKOVLJANI,1
+DUBROVACKONERETVANSKA,visa,ORASAC,1
+ZAGREBACKAZUPANIJA,visa,BRCKOVLJANI,1
+UNKNOWN,visa,KRALJEVEC NA SUTLI,1
+UNKNOWN,visa,VELIKA,1
+PRIMORSKOGORANSKA,visa,CABAR,1
+UNKNOWN,visa,VRPOLJE,1
+ZAGREBACKA,visa,DONJI STUPNIK,1
+UNKNOWN,visa,DARUVAR,3
+ISTARSKA,visa,GROZNJAN,1
+BJELOVARSKOBILOGORSKAZUPANIJA,visa,DARUVAR,1
+UNKNOWN,visa,STUBICKE TOPLICE,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,STUBICKE TOPLICE,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,VELIKO TRGOVISCE,1
+UNKNOWN,visa,OROSLAVLJE,1
+UNKNOWN,visa,DONJA STUBICA,3
+UNKNOWN,visa,KUTJEVO,2
+KRAPINSKOZAGORSKAZUPANIJA,visa,DONJA STUBICA,2
+UNKNOWN,visa,OROSLAVJE,1
+ZAGREBACKAZUPANIJA,visa,SVETI IVAN ZELINA,3
+KRAPINSKOZAGORSKAZUPANIJA,visa,KLANJEC,1
+UNKNOWN,visa,KLANJEC,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,GORNJA STUBICA,1
+UNKNOWN,visa,LUKA,1
+POZESKOSLAVONSKA,visa,KUTJEVO,1
+UNKNOWN,visa,DUBRAVA,1
+UNKNOWN,visa,VRBOVEC,6
+UNKNOWN,visa,KUMROVEC,1
+UNKNOWN,visa,VELIKI ZDENCI,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,ZABOK,3
+KRAPINSKOZAGORSKAŽUPANIJA,visa,VELIKO TRGOVIŠĆE,1
+ZAGREBACKAZUPANIJA,visa,VRBOVEC,2
+KRAPINSKOZAGORSKAZUPANIJA,visa,TUHELJ,1
+UNKNOWN,visa,TUHELJSKE TOPLICE,1
+UNKNOWN,visa,CERNA,3
+ZAGREBACKA,visa,SVETI IVAN ZELINA,2
+UNKNOWN,visa,SVETI IVAN ZELINA,4
+UNKNOWN,visa,DJAKOVO,6
+OSJEČKOBARANJSKA,visa,ĐAKOVO,1
+UNKNOWN,visa,DAKOVO,8
+KRAPINSKOZAGORSKAZUPANIJA,visa,MARIJA BISTRICA,2
+PRIMORSKOGORANSKA,visa,SEVERIN NA KUPI,1
+UNKNOWN,visa,MARIJA BISTRICA,1
+UNKNOWN,visa,ĐAKOVO,1
+OSJECKOBARANJSKA,visa,ĐAKOVO,1
+BJELOVARSKOBILOGORSKA,visa,GRUBISNO POLJE,2
+KRAPINSKOZAGORSKAZUPANIJA,visa,KRAPINSKE TOPLICE,1
+UNKNOWN,visa,KRAPINSKE TOPLICE,1
+UNKNOWN,visa,SVETI KRIZ ZACRETJE,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,SVETI KRIZ ZACRETJE,1
+BJELOVARSKOBILOGORSKA,visa,VELIKI GRDJEVAC,1
+UNKNOWN,visa,VELIKI GRDEVAC,1
+UNKNOWN,visa,POZNANOVEC,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,DESINIC,1
+UNKNOWN,visa,STARI MIKANOVCI,1
+UNKNOWN,visa,ROKOVCI-ANDRIJASEVCI,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,ZLATAR BISTRICA,1
+UNKNOWN,visa,ZLATAR BISTRICA,1
+UNKNOWN,visa,NIJEMCI,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,PREGRADA,1
+UNKNOWN,visa,ORAHOVICA,3
+UNKNOWN,visa,PREGRADA,2
+UNKNOWN,visa,KONJSCINA,2
+UNKNOWN,visa,IVANKOVO,3
+VUKOVARSKOSRIJEMSKAZUPANIJA,visa,IVANKOVO,1
+UNKNOWN,visa,FERICANCI,1
+UNKNOWN,visa,ZLATAR,3
+UNKNOWN,visa,NASICE,9
+OSJEČKOBARANJSKA,visa,NAŠICE,1
+OSJECKOBARANJSKA,visa,NAŠICE,1
+UNKNOWN,visa,KRAPINA,6
+UNKNOWN,visa,SVETI IVAN ZABNO,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,KRAPINA,1
+BJELOVARSKOBILOGORSKAZUPANIJA,visa,BJELOVAR,1
+UNKNOWN,visa,VINKOVCI,20
+UNKNOWN,visa,BJELOVAR,11
+UNKNOWN,visa,VINKOVCI (NOVO SELO),1
+KRAPINSKOZAGORSKAZUPANIJA,visa,HUM NA SUTLI,1
+UNKNOWN,visa,HUM NA SUTLI,1
+UNKNOWN,visa,TOVARNIK,1
+KRAPINSKOZAGORSKA,visa,ZLATAR,1
+UNKNOWN,visa,RADOBOJ,1
+MEDIMURSKA,visa,MURSKO SREDISCE,1
+MEDIMURSKA,visa,PRELOG,1
+UNKNOWN,visa,DURDENOVAC,2
+UNKNOWN,visa,CACINCI,1
+UNKNOWN,visa,STARI JANKOVCI,1
+VIROVITICKOPODRAVSKAZUPANIJA,visa,CACINCI,1
+KOPRIVNIČKOKRIŽEVAČKA,visa,KRIŽEVCI,1
+KRAPINSKOZAGORSKAZUPANIJA,visa,LOBOR,1
+UNKNOWN,visa,NOVI GOLUBOVEC,1
+KOPRIVNICKOKRIZEVACKA,visa,KRIŽEVCI,1
+UNKNOWN,visa,DJURMANEC,1
+KARLOVACKA,visa,KRNJAK,1
+PRIMORSKOGORANSKA,visa,CRNI LUG,1
+UNKNOWN,visa,BREZNICKI HUM,1
+UNKNOWN,visa,GORNJE JESENJE,1
+KRAPINSKOZAGORSKA,visa,BUDINŠCINA,1
+VIROVITICKOPODRAVSKAZUPANIJA,visa,SLATINA,2
+UNKNOWN,visa,SLATINA,5
+VIROVITICKOPODRAVSKA,visa,SLATINA,3
+UNKNOWN,visa,NUSTAR,1
+VIROVITICKOPODRAVSKAZUPANIJA,visa,SUHOPOLJE,1
+UNKNOWN,visa,LEPOGLAVA,4
+UNKNOWN,visa,BEDNJA,1
+UNKNOWN,visa,VIROVITICA,8
+VIROVITICKOPODRAVSKAZUPANIJA,visa,VIROVITICA,1
+UNKNOWN,visa,SUHOPOLJE,1
+VIROVITIČKOPODRAVSKA,visa,VIROVITICA,1
+UNKNOWN,visa,KOSKA,1
+UNKNOWN,visa,NOVI MAROF,5
+VARAŽDINSKAŽUPANIJA,visa,NOVI MAROF,1
+UNKNOWN,visa,IVANEC,5
+VARAZDINSKAZUPANIJA,visa,IVANEC,2
+ZAGREBACKA,visa,BUZIN,1
+UNKNOWN,visa,VUKOVAR-MITNICA,1
+VARAŽDINSKA,visa,NOVI MAROF,1
+UNKNOWN,visa,ILOK,3
+VARAŽDINSKA,visa,LJUBEŠCICA,1
+UNKNOWN,visa,VUKOVAR - BOROVO NASELJE,1
+VUKOVARSKOSRIJEMSKAZUPANIJA,visa,VUKOVAR,1
+UNKNOWN,visa,CEPIN,5
+UNKNOWN,visa,BOROVO NASELJE,2
+UNKNOWN,visa,BOROVO,3
+UNKNOWN,visa,KLENOVNIK,1
+UNKNOWN,visa,ANTUNOVAC,2
+OSJECKOBARANJSKAZUPANIJA,visa,CEPIN,1
+OSJECKOBARANJSKA,visa,ČEPIN,1
+OSJECKOBARANJSKA,visa,CEPIN,1
+UNKNOWN,visa,PITOMACA,3
+VIROVITIČKOPODRAVSKA,visa,PITOMAČA,1
+KARLOVACKA,visa,PLASKI,1
+UNKNOWN,visa,KLOSTAR PODRAVSKI,1
+UNKNOWN,visa,VARAZDINSKE TOPLICE,3
+UNKNOWN,visa,MARUSEVEC,3
+UNKNOWN,visa,VARAZDIN.TOPLICE,1
+UNKNOWN,visa,BIZOVAC,1
+VARAZDINSKAZUPANIJA,visa,BERETINEC,1
+UNKNOWN,visa,TENJA,1
+UNKNOWN,visa,KOPRIVNICA,10
+KOPRIVNIČKOKRIŽEVAČKA,visa,ĐURĐEVAC,1
+KOPRIVNICKOKRIZEVACKAZUPANIJA,visa,KALINOVAC,1
+KOPRIVNICKOKRIZEVACKA,visa,DJURDJEVAC,1
+UNKNOWN,visa,DURDEVAC,2
+UNKNOWN,visa,DJURDJEVAC,1
+KOPRIVNICKOKRIZEVACKA,visa,VIRJE,1
+KOPRIVNICKOKRIZEVACKAZUPANIJA,visa,VIRJE,1
+UNKNOWN,visa,PODRAVSKE SESVETE,1
+UNKNOWN,visa,TURCIN,2
+OSJECKOBARANJSKAZUPANIJA,visa,OSIJEK,4
+UNKNOWN,visa,VISNJEVAC,4
+VARAZDINSKAZUPANIJA,visa,VIDOVEC,1
+UNKNOWN,visa,GORNJI KNEGINEC,1
+PRIMORSKOGORANSKA,visa,VRBOVSKO,1
+OSJEČKOBARANJSKA,visa,OSIJEK,4
+VUKOVARSKOSRIJEMSKA,visa,DRENOVCI,1
+UNKNOWN,visa,DONJI KNEGINEC,4
+VARAZDINSKAZUPANIJA,visa,GORNJI KNEGINEC,1
+VARAZDINSKAZUPANIJA,visa,VINICA,1
+UNKNOWN,visa,JELKOVEC,1
+UNKNOWN,visa,OSIJEK-KLISA,1
+UNKNOWN,visa,PETRIJEVCI,1
+UNKNOWN,visa,JALZABET,1
+UNKNOWN,visa,VALPOVO,6
+OSJECKOBARANJSKAZUPANIJA,visa,VALPOVO,1
+KOPRIVNICKOKRIZEVACKAZUPANIJA,visa,KOPRIVNICA,2
+VARAZDINSKA,visa,VARAŽDIN,3
+UNKNOWN,visa,VARAZDIN,34
+UNKNOWN,visa,SRACINEC,2
+VARAZDINSKAZUPANIJA,visa,VARAZDIN,6
+UNKNOWN,visa,DALJ,2
+VARAŽDINSKA,visa,VARAŽDIN,4
+UNKNOWN,visa,CESTICA,1
+UNKNOWN,visa,KUCAN MAROF,1
+UNKNOWN,visa,VARAŽDIN,2
+UNKNOWN,visa,BELISCE,4
+UNKNOWN,visa,DONJI MIHOLJAC,5
+UNKNOWN,visa,FERDINANDOVAC,1
+KOPRIVNICKOKRIZEVACKA,visa,SVETI IVAN ZABNO,1
+VARAZDINSKAZUPANIJA,visa,TRNOVEC BARTOLOVECKI,1
+UNKNOWN,visa,TRNOVEC BARTOLOVECKI,2
+VARAZDINSKAZUPANIJA,visa,PETRIJANEC,1
+UNKNOWN,visa,MARTIJANEC,1
+VARAZDINSKAZUPANIJA,visa,LUDBREG,2
+UNKNOWN,visa,LUDBREG,7
+UNKNOWN,visa,ALJMAS,1
+OSJECKOBARANJSKAZUPANIJA,visa,BILJE,1
+UNKNOWN,visa,BILJE,3
+UNKNOWN,visa,DARDA,3
+UNKNOWN,visa,NEDELISCE,5
+UNKNOWN,visa,OREHOVICA,1
+UNKNOWN,visa,MACINEC,1
+UNKNOWN,visa,VELIKI BUKOVEC,1
+UNKNOWN,visa,STRAHONINEC,1
+UNKNOWN,visa,SAVSKA VES,1
+KOPRIVNICKOKRIZEVACKA,visa,GOLA,1
+UNKNOWN,visa,IVANOVEC,1
+BJELOVARSKOBILOGORSKA,visa,NOVA RACA,1
+UNKNOWN,visa,PRELOG,6
+UNKNOWN,visa,&#268;AKOVEC,1
+PRIMORSKOGORANSKA,visa,JADRANOVO,1
+MEĐIMURSKAZUPANIJA,visa,PRELOG,1
+BJELOVARSKOBILOGORSKA,visa,GARESNICKI BRESTOVAC,1
+MEDJIMURSKA,visa,PRELOG,1
+MEĐIMURSKAZUPANIJA,visa,CAKOVEC,1
+UNKNOWN,visa,CAKOVEK,1
+MEDJIMURSKA,visa,ČAKOVEC,2
+UNKNOWN,visa,GORNJI MIHALJEVEC,1
+UNKNOWN,visa,SENKOVEC,1
+UNKNOWN,visa,CAKOVEC - SENKOVEC,1
+UNKNOWN,visa,MALA SUBOTICA,1
+UNKNOWN,visa,PRIBISLAVEC,1
+UNKNOWN,visa,DONJI KRALJEVEC,3
+UNKNOWN,visa,SVETA MARIJA,1
+UNKNOWN,visa,DONJA DUBRAVA,2
+UNKNOWN,visa,SVETI JURAJ NA BREGU,1
+UNKNOWN,visa,BELI MANASTIR,7
+OSJECKOBARANJSKAZUPANIJA,visa,BELI MANASTIR,1
+UNKNOWN,visa,BELICA,1
+UNKNOWN,visa,KNEZEVI VINOGRADI,2
+UNKNOWN,visa,GORICAN,1
+UNKNOWN,visa,STRIGOVA,1
+UNKNOWN,visa,KOTORIBA,2
+UNKNOWN,visa,SIVICA,1
+UNKNOWN,visa,DOMASINEC,1
+UNKNOWN,visa,SELNICA,1
+UNKNOWN,visa,VRATISINEC,1
+UNKNOWN,visa,PODTUREN,1
+UNKNOWN,visa,ZABNIK,1
+UNKNOWN,visa,SVETI MARTIN NA MURI,1
+UNKNOWN,visa,MURSKO SREDISCE,4
+MEĐIMURSKAZUPANIJA,visa,SVETI MARTIN NA MURI,1
+MEĐIMURSKAZUPANIJA,visa,MURSKO SREDISCE,1
+LICKOSENJSKA,western_union,Gospic,2
+LICKOSENJSKA,western_union,Perusic,1
+LICKOSENJSKA,western_union,Udbina,1
+LICKOSENJSKA,western_union,Lovinac,1
+LICKOSENJSKA,western_union,Plitvichka Jezera,1
+LICKOSENJSKA,western_union,Korenica,1
+ZADARSKA,western_union,Starigrad Paklenica,1
+LICKOSENJSKA,western_union,Vrhovine,1
+LICKOSENJSKA,western_union,Donji Lapac,1
+ZADARSKA,western_union,Razanac,1
+LICKOSENJSKA,western_union,Plitvicka Jezera,1
+LICKOSENJSKA,western_union,Karlobag,1
+ZADARSKA,western_union,Jasenice,1
+LICKOSENJSKA,western_union,Licko Petrovo Selo,1
+DUBROVACKONERETVANSKA,western_union,Gruda,1
+DUBROVACKONERETVANSKA,western_union,Konavle,1
+DUBROVACKONERETVANSKA,western_union,Cavtat,1
+VUKOVARSKOSRIJEMSKA,western_union,Ilok,2
+DUBROVACKONERETVANSKA,western_union,Mlini,1
+DUBROVACKONERETVANSKA,western_union,Zhupa Dubrovachka,1
+VUKOVARSKOSRIJEMSKA,western_union,Bapska,1
+VUKOVARSKOSRIJEMSKA,western_union,Lovas,1
+DUBROVACKONERETVANSKA,western_union,Dubrovnik,9
+VUKOVARSKOSRIJEMSKA,western_union,Tovarnik,1
+OSJECKOBARANJSKA,western_union,Batina,1
+OSJECKOBARANJSKA,western_union,Draz,1
+VUKOVARSKOSRIJEMSKA,western_union,Bajakovo,1
+VUKOVARSKOSRIJEMSKA,western_union,Tompojevci,1
+OSJECKOBARANJSKA,western_union,Dubosevica,1
+DUBROVACKONERETVANSKA,western_union,Kolocep,1
+ZADARSKA,western_union,Zaton,2
+OSJECKOBARANJSKA,western_union,Erdut,2
+VUKOVARSKOSRIJEMSKA,western_union,Borovo,2
+VUKOVARSKOSRIJEMSKA,western_union,Vukovar,6
+OSJECKOBARANJSKA,western_union,Knezevo,1
+OSJECKOBARANJSKA,western_union,Knezhevi Vinogradi,1
+VUKOVARSKOSRIJEMSKA,western_union,Nijemci,2
+OSJECKOBARANJSKA,western_union,Bilje,1
+OSJECKOBARANJSKA,western_union,Popovac,1
+VUKOVARSKOSRIJEMSKA,western_union,Trpinja,1
+OSJECKOBARANJSKA,western_union,Beli Manastir,2
+DUBROVACKONERETVANSKA,western_union,Sipanjska Luka,1
+VUKOVARSKOSRIJEMSKA,western_union,Stari Jankovci,1
+VUKOVARSKOSRIJEMSKA,western_union,Komletinci,1
+DUBROVACKONERETVANSKA,western_union,Dubrovachko Primorje,1
+OSJECKOBARANJSKA,western_union,Osijek,13
+VUKOVARSKOSRIJEMSKA,western_union,Nustar,1
+OSJECKOBARANJSKA,western_union,Darda,1
+VUKOVARSKOSRIJEMSKA,western_union,Racinovci,1
+OSJECKOBARANJSKA,western_union,Cheminac,1
+VUKOVARSKOSRIJEMSKA,western_union,Vrbanja,2
+VUKOVARSKOSRIJEMSKA,western_union,Otok,2
+OSJECKOBARANJSKA,western_union,Jagodnjak,1
+OSJECKOBARANJSKA,western_union,Visnjevac,1
+OSJECKOBARANJSKA,western_union,Antunovac,1
+VUKOVARSKOSRIJEMSKA,western_union,Vinkovci,3
+ZADARSKA,western_union,Privlaka,2
+VUKOVARSKOSRIJEMSKA,western_union,Markushica,1
+VUKOVARSKOSRIJEMSKA,western_union,Jarmina,1
+VUKOVARSKOSRIJEMSKA,western_union,Ivankovo,1
+OSJECKOBARANJSKA,western_union,Chepin,1
+OSJECKOBARANJSKA,western_union,Ernestinovo,1
+VUKOVARSKOSRIJEMSKA,western_union,Gunja,1
+OSJECKOBARANJSKA,western_union,Petrijevci,1
+VUKOVARSKOSRIJEMSKA,western_union,Andrijashevci,1
+VUKOVARSKOSRIJEMSKA,western_union,Posavski Podgajci,1
+OSJECKOBARANJSKA,western_union,Bizovac,1
+VUKOVARSKOSRIJEMSKA,western_union,Zhupanja,1
+VUKOVARSKOSRIJEMSKA,western_union,Vodjinci,1
+OSJECKOBARANJSKA,western_union,Valpovo,2
+OSJECKOBARANJSKA,western_union,Belishce,1
+VUKOVARSKOSRIJEMSKA,western_union,Cerna,1
+VUKOVARSKOSRIJEMSKA,western_union,Gradishte,1
+DUBROVACKONERETVANSKA,western_union,Ston,1
+OSJECKOBARANJSKA,western_union,Vladislavci,1
+DUBROVACKONERETVANSKA,western_union,Babino Polje,1
+VUKOVARSKOSRIJEMSKA,western_union,Bosnjaci,1
+VUKOVARSKOSRIJEMSKA,western_union,Stari Mikanovci,1
+OSJECKOBARANJSKA,western_union,Gat,1
+OSJECKOBARANJSKA,western_union,Donji Miholjac,2
+OSJECKOBARANJSKA,western_union,Semeljci,1
+OSJECKOBARANJSKA,western_union,Vuka,1
+BRODSKOPOSAVSKA,western_union,Gundinci,1
+OSJECKOBARANJSKA,western_union,Koshka,1
+OSJECKOBARANJSKA,western_union,Djakovo,2
+OSJECKOBARANJSKA,western_union,Budimci,1
+DUBROVACKONERETVANSKA,western_union,Metkovic,1
+VUKOVARSKOSRIJEMSKA,western_union,Babina Greda,1
+DUBROVACKONERETVANSKA,western_union,Opuzen,1
+ZAGREBACKA,western_union,Komin,1
+OSJECKOBARANJSKA,western_union,Podgorach,1
+OSJECKOBARANJSKA,western_union,Podravska Moslavina,1
+OSJECKOBARANJSKA,western_union,Drenje,1
+OSJECKOBARANJSKA,western_union,Strizivojna,1
+BRODSKOPOSAVSKA,western_union,Velika Kopanica,1
+DUBROVACKONERETVANSKA,western_union,Janjina,1
+BRODSKOPOSAVSKA,western_union,Vrpolje,1
+BRODSKOPOSAVSKA,western_union,Sikirevci,1
+BRODSKOPOSAVSKA,western_union,Slavonski Shamac,1
+UNKNOWN,western_union,Nova Sela,2
+MEDIMURSKA,western_union,Sveti Martin Na Muri,1
+DUBROVACKONERETVANSKA,western_union,Ploche,1
+BRODSKOPOSAVSKA,western_union,Donji Andrijevci,1
+OSJECKOBARANJSKA,western_union,Nashice,1
+OSJECKOBARANJSKA,western_union,Nasice,2
+VIROVITICKOPODRAVSKA,western_union,Crnac,1
+DUBROVACKONERETVANSKA,western_union,Lastovo,1
+MEDIMURSKA,western_union,Mursko Sredishce,1
+DUBROVACKONERETVANSKA,western_union,Trpanj,1
+MEDIMURSKA,western_union,Kotoriba,1
+MEDIMURSKA,western_union,Dekanovec,1
+VIROVITICKOPODRAVSKA,western_union,Chadjavica,1
+OSJECKOBARANJSKA,western_union,Levanjska Varos,1
+DUBROVACKONERETVANSKA,western_union,Lumbarda,1
+OSJECKOBARANJSKA,western_union,Trnava,1
+MEDIMURSKA,western_union,Podturen,1
+OSJECKOBARANJSKA,western_union,Djurdjenovac,1
+MEDIMURSKA,western_union,Gorican,2
+VIROVITICKOPODRAVSKA,western_union,Zdenci,1
+BRODSKOPOSAVSKA,western_union,Oprisavci,1
+DUBROVACKONERETVANSKA,western_union,Orebic,1
+MEDIMURSKA,western_union,Sveta Marija,1
+MEDIMURSKA,western_union,Donji Kraljevec,1
+DUBROVACKONERETVANSKA,western_union,Korcula,1
+OSJECKOBARANJSKA,western_union,Ferichanci,1
+BRODSKOPOSAVSKA,western_union,Garchin,1
+DUBROVACKONERETVANSKA,western_union,Korchula,1
+MEDIMURSKA,western_union,Cakovec,2
+MEDIMURSKA,western_union,Mala Subotica,1
+SPLITSKODALMATINSKA,western_union,Podaca,1
+VIROVITICKOPODRAVSKA,western_union,Nova Bukovica,1
+MEDIMURSKA,western_union,Prelog,2
+KOPRIVNICKOKRIZEVACKA,western_union,Djelekovec,1
+MEDIMURSKA,western_union,Chakovec,1
+SPLITSKODALMATINSKA,western_union,Vrgorac,2
+BRODSKOPOSAVSKA,western_union,Ruscica,1
+SPLITSKODALMATINSKA,western_union,Zaostrog,1
+BRODSKOPOSAVSKA,western_union,Bukovlje,1
+KOPRIVNICKOKRIZEVACKA,western_union,Peteranec,1
+PRIMORSKOGORANSKA,western_union,Orehovica,1
+KOPRIVNICKOKRIZEVACKA,western_union,Ferdinandovac,1
+VIROVITICKOPODRAVSKA,western_union,Cacinci,1
+DUBROVACKONERETVANSKA,western_union,Blato,2
+BRODSKOPOSAVSKA,western_union,Slavonski Brod,9
+KOPRIVNICKOKRIZEVACKA,western_union,Molve,1
+SPLITSKODALMATINSK,western_union,Sucuraj,1
+VARAZDINSKA,western_union,Ludbreg,1
+VARAZDINSKA,western_union,Cestica,1
+VIROVITICKOPODRAVSKA,western_union,Suhopolje,1
+DUBROVACKONERETVANSKA,western_union,Vela Luka,2
+VIROVITICKOPODRAVSKA,western_union,Gradina,1
+MEDIMURSKA,western_union,Nedelisce,1
+KOPRIVNICKOKRIZEVACKA,western_union,Drnje,1
+VIROVITICKOPODRAVSKA,western_union,Slatina,3
+DUBROVACKONERETVANSKA,western_union,Smokvica,1
+POZESKOSLAVONSKA,western_union,Chaglin,1
+VIROVITICKOPODRAVSKA,western_union,Mikleus,1
+VIROVITICKOPODRAVSKA,western_union,Orahovica,2
+SPLITSKODALMATINSKA,western_union,Drvenik,2
+BRODSKOPOSAVSKA,western_union,Podvinje,1
+DUBROVACKONERETVANSKA,western_union,Loviste,1
+MEDIMURSKA,western_union,Belica,1
+KOPRIVNICKOKRIZEVACKA,western_union,Legrad,1
+MEDIMURSKA,western_union,Donja Dubrava,1
+KOPRIVNICKOKRIZEVACKA,western_union,Virje,1
+VIROVITICKOPODRAVSKA,western_union,Virovitica,4
+VARAZDINSKA,western_union,Vinica,1
+VARAZDINSKA,western_union,Varazdin,3
+KOPRIVNICKOKRIZEVACKA,western_union,Rasinja,1
+KOPRIVNICKOKRIZEVACKA,western_union,Klostar Podravski,1
+VARAZDINSKA,western_union,Kucan Marof,1
+VARAZDINSKA,western_union,Varazhdin,1
+KOPRIVNICKOKRIZEVACKA,western_union,Djurdjevac,1
+VIROVITICKOPODRAVSKA,western_union,Pitomacha,1
+VIROVITICKOPODRAVSKA,western_union,Pitomaca,1
+VARAZDINSKA,western_union,Gornji Kneginec,1
+BRODSKOPOSAVSKA,western_union,Sibinj,1
+VARAZDINSKA,western_union,Jalzabet,1
+VARAZDINSKA,western_union,Trnovec Bartolovecki,1
+KOPRIVNICKOKRIZEVACKA,western_union,Koprivnica,5
+VARAZDINSKA,western_union,Sracinec,1
+POZESKOSLAVONSKA,western_union,Pleternica,2
+POZESKOSLAVONSKA,western_union,Jaksic,1
+VIROVITICKOPODRAVSKA,western_union,Vocin,1
+POZESKOSLAVONSKA,western_union,Kaptol,1
+VARAZDINSKA,western_union,Donja Voca,1
+VARAZDINSKA,western_union,Marushevec,1
+POZESKOSLAVONSKA,western_union,Kutjevo,2
+VIROVITICKOPODRAVSKA,western_union,Cabuna,1
+VARAZDINSKA,western_union,Turcin,1
+VARAZDINSKA,western_union,Vidovec,1
+SPLITSKODALMATINSKA,western_union,Igrane,1
+BJELOVARSKOBILOGORSKA,western_union,Djulovac,1
+VARAZDINSKA,western_union,Petrijanec,1
+POZESKOSLAVONSKA,western_union,Velika,1
+KOPRIVNICKOKRIZEVACKA,western_union,Sokolovac,1
+POZESKOSLAVONSKA,western_union,Pozhega,4
+SPLITSKODALMATINSKA,western_union,Runovic,1
+BJELOVARSKOBILOGORSKA,western_union,Sandrovac,1
+VARAZDINSKA,western_union,Ivanec,2
+KOPRIVNICKOKRIZEVACKA,western_union,Gornja Rijeka,1
+SPLITSKODALMATINSKA,western_union,Makarska,2
+KRAPINSKOZAGORSK,western_union,Hum Na Sutli,1
+ZAGREBACKAULICA5,western_union,Varazdinske Toplice,1
+SPLITSKODALMATINSKA,western_union,Drasnice,1
+ISTARSKA,western_union,Umag,1
+ISTARSKAZUPANIJA,western_union,Umag   Umago,2
+SPLITSKODALMATINSKA,western_union,Zmijavci,1
+BRODSKOPOSAVSKA,western_union,Bebrina,1
+BRODSKOPOSAVSKA,western_union,Brodski Stupnik,1
+SPLITSKODALMATINSKA,western_union,Podgora,1
+KRAPINSKOZAGORSK,western_union,Djurmanec,1
+SPLITSKODALMATINSKA,western_union,Imotski,1
+BJELOVARSKOBILOGORSKA,western_union,Veliko Trojstvo,1
+BRODSKOPOSAVSKA,western_union,Oriovac,2
+BJELOVARSKOBILOGORSKA,western_union,Zrinski Topolovac,1
+VARAZDINSKA,western_union,Bednja,1
+VARAZDINSKA,western_union,Novi Marof,2
+POZESKOSLAVONSKA,western_union,Brestovac,1
+BJELOVARSKOBILOGORSKA,western_union,Kapela,1
+BJELOVARSKOBILOGORSKA,western_union,Bjelovar,3
+BJELOVARSKOBILOGORSKA,western_union,Grubishno Polje,2
+KOPRIVNICKOKRIZEVACKA,western_union,Krizevci,1
+VARAZDINSKA,western_union,Breznicki Hum,1
+BRODSKOPOSAVSKA,western_union,Nova Kapela,1
+KRAPINSKOZAGORSK,western_union,Lobor,1
+KRAPINSKOZAGORSK,western_union,Krapina,2
+BJELOVARSKOBILOGORSKA,western_union,Rovisce,1
+BJELOVARSKOBILOGORSKA,western_union,Severin,1
+KRAPINSKOZAGORSK,western_union,Radoboj,1
+KOPRIVNICKOKRIZEVACKA,western_union,Krizhevci,1
+VARAZDINSKA,western_union,Lepoglava,1
+SPLITSKODALMATINSKA,western_union,Sumartin,1
+KRAPINSKOZAGORSK,western_union,Pregrada,2
+BRODSKOPOSAVSKA,western_union,Staro Petrovo Selo,1
+SPLITSKODALMATINSKA,western_union,Brela,1
+SPLITSKODALMATINSKA,western_union,Komiza,1
+KRAPINSKOZAGORSK,western_union,Zlatar,3
+BJELOVARSKOBILOGORSKA,western_union,Vel Zdenci,1
+KRAPINSKOZAGORSK,western_union,Budinshchina,1
+SPLITSKODALMATINSKA,western_union,Jelsa,1
+ISTARSKA,western_union,Buje,2
+SPLITSKODALMATINSKA,western_union,Vis,2
+KOPRIVNICKOKRIZEVACKA,western_union,Sveti Ivan Zhabno,1
+BJELOVARSKOBILOGORSKA,western_union,Daruvar,2
+ISTARSKA,western_union,Brtonigla,1
+SPLITSKODALMATINSKA,western_union,Stari Grad,1
+SPLITSKODALMATINSKA,western_union,Bashka Voda,1
+BRODSKOPOSAVSKA,western_union,Reshetari,1
+ISTARSKA,western_union,Porec,2
+BJELOVARSKOBILOGORSKA,western_union,Ivanska,1
+ISTARSKA,western_union,Rovinj,5
+ISTARSKA,western_union,Porech,1
+SPLITSKODALMATINSKA,western_union,Bol,2
+KRAPINSKOZAGORSK,western_union,Sveti Krizh Zachretje,1
+ISTARSKA,western_union,Novigrad,2
+KARLOVACKA,western_union,Selce,1
+KRAPINSKOZAGORSK,western_union,Desinic,1
+BJELOVARSKOBILOGORSKA,western_union,Nova Raca,1
+BJELOVARSKOBILOGORSKA,western_union,Veliki Grdevac,1
+SPLITSKODALMATINSKA,western_union,Zagvozd,1
+BRODSKOPOSAVSKA,western_union,Cernik,1
+ISTARSKA,western_union,Nova Vas,1
+SPLITSKODALMATINSKA,western_union,Sestanovac,1
+KRAPINSKOZAGORSK,western_union,Marija Bistrica,2
+ISTARSKA,western_union,Funtana,1
+UNKNOWN,western_union,Lovrec,1
+BJELOVARSKOBILOGORSKA,western_union,Hercegovac,1
+BRODSKOPOSAVSKA,western_union,Davor,1
+KRAPINSKOZAGORSK,western_union,Bedekovchina,1
+ISTARSKA,western_union,Tar,1
+SPLITSKODALMATINSKA,western_union,Hvar,2
+KRAPINSKOZAGORSK,western_union,Krapinske Toplice,1
+ISTARSKA,western_union,Cervar Porat,1
+SPLITSKODALMATINSKA,western_union,Povlja,1
+ZAGREBACKA,western_union,Bedenice,1
+KRAPINSKOZAGORSK,western_union,Konjshchina,1
+ZAGREBACKA,western_union,Sveti Ivan Zelina,3
+SPLITSKODALMATINSKA,western_union,Mimice,1
+KRAPINSKOZAGORSK,western_union,Zabok,2
+BRODSKOPOSAVSKA,western_union,Nova Gradiska,2
+ISTARSKA,western_union,Vrsar,1
+KRAPINSKOZAGORSK,western_union,Klanjec,1
+SPLITSKODALMATINSKA,western_union,Pucisca,1
+POZESKOSLAVONSKA,western_union,Pakrac,2
+ISTARSKA,western_union,Vishnjan,1
+SPLITSKODALMATINSKA,western_union,Cista Provo,1
+ISTARSKA,western_union,Vizinada,1
+BRODSKOPOSAVSKA,western_union,Vrbje,1
+BJELOVARSKOBILOGORSKA,western_union,Chazma,1
+GRADZAGREB,western_union,Zagreb,72
+BJELOVARSKOBILOGORSKA,western_union,Cazma,1
+ISTARSKA,western_union,Sveti Lovrec,1
+BJELOVARSKOBILOGORSKA,western_union,Garesnica,1
+BJELOVARSKOBILOGORSKA,western_union,Dezanovac,1
+BJELOVARSKOBILOGORSKA,western_union,Gareshnica,1
+BRODSKOPOSAVSKA,western_union,Dragalic,1
+SPLITSKODALMATINSKA,western_union,Postira,1
+KRAPINSKOZAGORSK,western_union,Kraljevec Na Sutli,1
+SPLITSKODALMATINSKA,western_union,Arzano,1
+ISTARSKA,western_union,Motovun,1
+ZAGREBACKA,western_union,Donja Zelina,1
+POZESKOSLAVONSKA,western_union,Lipik,1
+KRAPINSKOZAGORSK,western_union,Stubicke Toplice,1
+SPLITSKODALMATINSKA,western_union,Nerezisca,1
+SIBENSKOKNINSKA,western_union,Shibenik,3
+KRAPINSKOZAGORSK,western_union,Donja Stubica,2
+KRAPINSKOZAGORSK,western_union,Veliko Trgovisce,1
+ZAGREBACKA,western_union,Dubrava,1
+KRAPINSKOZAGORSK,western_union,Oroslavje,2
+ZAGREBACKA,western_union,Vrbovec,1
+ZAGREBACKA,western_union,Bistra,1
+POZESKOSLAVONSKA,western_union,Poljana,1
+BRODSKOPOSAVSKA,western_union,Okuchani,2
+SPLITSKODALMATINSKA,western_union,Dugi Rat,1
+SPLITSKODALMATINSKA,western_union,Supetar,2
+SPLITSKODALMATINSKA,western_union,Omis,2
+ISTARSKA,western_union,Buzet,2
+ZAGREBACKA,western_union,Jakovlje,1
+SISACKOMOSLAVACKA,western_union,Rajic,1
+BRODSKOPOSAVSKA,western_union,Stara Gradiska,1
+ISTARSKA,western_union,Svetvincenat,1
+ISTARSKA,western_union,Zminj,1
+ZAGREBACKA,western_union,Zapreshic,2
+SISACKOMOSLAVACKA,western_union,Banova Jaruga,1
+SPLITSKODALMATINSKA,western_union,Podstrana,1
+ISTARSKA,western_union,Pazin,2
+SPLITSKODALMATINSKA,western_union,Zrnovnica,1
+SPLITSKODALMATINSKA,western_union,Trilj,2
+ISTARSKA,western_union,Fazana,1
+SISACKOMOSLAVACKA,western_union,Novska,1
+SISACKOMOSLAVACKA,western_union,Velika Ludina,1
+SISACKOMOSLAVACKA,western_union,Voloder,1
+SISACKOMOSLAVACKA,western_union,Kutina,2
+SISACKOMOSLAVACKA,western_union,Lipovljani,1
+SPLITSKODALMATINSKA,western_union,Stobrec,1
+ZAGREBACKA,western_union,Brdovec,2
+GRADZAGREB,western_union,Sesvete,1
+ISTARSKA,western_union,Kanfanar,1
+ZAGREBACKA,western_union,Klostar Ivanic,1
+GRADZAGREB,western_union,Sesvete-kraljevec,1
+ISTARSKA,western_union,Bale,1
+ZAGREBACKA,western_union,Dugo Selo,1
+ISTARSKA,western_union,Cerovlje,1
+SPLITSKODALMATINSKA,western_union,Grohote,1
+ZAGREBACKA,western_union,Ivanic Grad,2
+ZAGREBACKA,western_union,Novoselec,1
+ZAGREBACKA,western_union,Kriz,1
+SISACKOMOSLAVACKA,western_union,Popovacha,1
+SPLITSKODALMATINSKA,western_union,Split,20
+ZAGREBACKA,western_union,Samobor,2
+ISTARSKA,western_union,Pula,11
+SPLITSKODALMATINSKA,western_union,Dugopolje,3
+SPLITSKODALMATINSKA,western_union,Spilt,1
+SPLITSKODALMATINSKA,western_union,Solin,2
+UNKNOWN,western_union,Split,2
+ISTARSKA,western_union,Sveta Nedelja,1
+ZAGREBACKA,western_union,Bestovje,1
+ISTARSKAZUPANIJA,western_union,Pula,3
+ISTARSKA,western_union,Vodnjan,2
+ZAGREBACKA,western_union,Velika Gorica,6
+GRADZAGREB,western_union,Botinec,1
+SPLITSKODALMATINSKA,western_union,Klis,1
+ZAGREBACKAZUPANIJA,western_union,Velika Gorica,1
+ZAGREBACKA,western_union,Stupnik,1
+SPLITSKODALMATINSKA,western_union,Dicmo,1
+PRIMORSKOGORANSKA,western_union,Klana,1
+SPLITSKODALMATINSKA,western_union,Kastel Sucurac,1
+SISACKOMOSLAVACKA,western_union,Jasenovac,1
+PRIMORSKOGORANSKA,western_union,Chabar,2
+ISTARSKA,western_union,Rasa,1
+ISTARSKA,western_union,Liznjan,1
+SPLITSKODALMATINSKA,western_union,Vinisce,1
+ISTARSKA,western_union,Krnica,1
+PRIMORSKOGORANSKA,western_union,Icici,1
+SPLITSKODALMATINSKA,western_union,Seget Donji,1
+ISTARSKA,western_union,Nedescina,1
+PRIMORSKOGORANSKA,western_union,Opatija,2
+PRIMORSKOGORANSKA,western_union,Kastav,1
+SPLITSKODALMATINSKA,western_union,Trogir,2
+ISTARSKA,western_union,Medulin,2
+SPLITSKODALMATINSKA,western_union,Kastel Stafilic,1
+SPLITSKODALMATINSKA,western_union,Kastel Stari,1
+PRIMORSKOGORANSKA,western_union,Matulji,3
+SPLITSKODALMATINSKA,western_union,Sinj,1
+SPLITSKODALMATINSKA,western_union,Kastel Luksic,1
+SISACKOMOSLAVACKA,western_union,Martinska Ves,1
+SPLITSKODALMATINSKA,western_union,Kastel Kambelovac,1
+ISTARSKA,western_union,Barban,1
+SPLITSKODALMATINSKA,western_union,Kastel Gomilica,1
+SISACKOMOSLAVACKA,western_union,Sisak,5
+SPLITSKODALMATINSKA,western_union,Donji Muc,1
+ISTARSKA,western_union,Rabac,1
+PRIMORSKOGORANSKA,western_union,Rijeka,17
+ZAGREBACKA,western_union,Jastrebarsko,2
+PRIMORSKOGORANSKA,western_union,Drazice,1
+ISTARSKA,western_union,Labin,3
+PRIMORSKOGORANSKA,western_union,Moscenicka Draga,1
+SPLITSKODALMATINSKA,western_union,Marina,1
+PRIMORSKOGORANSKA,western_union,Crikvenica,4
+PRIMORSKOGORANSKA,western_union,Lovran,1
+PRIMORSKOGORANSKA,western_union,Vishkovo,1
+SISACKOMOSLAVACKA,western_union,Sunja,1
+ZAGREBACKA,western_union,Krasic,1
+SISACKOMOSLAVACKA,western_union,Hrvatska Dubica,1
+ISTARSKA,western_union,Marcana,1
+ISTARSKA,western_union,Podpican,1
+KARLOVACKA,western_union,Ozalj,2
+KARLOVACKA,western_union,Zakanje,2
+CROATIA,western_union,Rijeka,1
+SIBENSKOKNINSKA,western_union,Rogoznica,1
+PRIMORSKOGORANSKA,western_union,Cavle,2
+PRIMORSKOGORANSKAZUPANIJA,western_union,Rijeka,2
+KARLOVACKA,western_union,Netretic,1
+SIBENSKOKNINSKA,western_union,Unesic,1
+PRIMORSKOGORANSKA,western_union,Omisalj,1
+PRIMORSKOGORANSKA,western_union,Hreljin,1
+SISACKOMOSLAVACKA,western_union,Hrvatska Kostajnica,2
+PRIMORSKOGORANSKA,western_union,Delnice,2
+PRIMORSKOGORANSKA,western_union,Brod Moravice,1
+PRIMORSKOGORANSKA,western_union,Kraljevica,2
+UNKNOWN,western_union,Lasinja,1
+PRIMORSKOGORANSKA,western_union,Cres,1
+PRIMORSKOGORANSKA,western_union,Vrbovsko,3
+SIBENSKOKNINSKA,western_union,Zlarin,1
+SPLITSKODALMATINSKA,western_union,Vrlika,1
+PRIMORSKOGORANSKA,western_union,Malinska,1
+PRIMORSKOGORANSKA,western_union,Ravna Gora,1
+KARLOVACKA,western_union,Karlovac,8
+PRIMORSKOGORANSKA,western_union,Moravice,1
+PRIMORSKOGORANSKA,western_union,Fuzine,1
+SIBENSKOKNINSKA,western_union,Brodarica,1
+SIBENSKOKNINSKA,western_union,Prvic Luka,1
+SIBENSKOKNINSKA,western_union,Sibenik,5
+KARLOVACKA,western_union,Bosiljevo,1
+PRIMORSKOGORANSKA,western_union,Krk,2
+SIBENSKOKNINSKA,western_union,Tribunj,1
+SIBENSKOKNINSKA,western_union,Vodice,2
+SISACKOMOSLAVACKA,western_union,Gvozd,1
+SIBENSKOKNINSKA,western_union,Drnish,2
+ZADARSKA,western_union,Pakostane,1
+SIBENSKOKNINSKA,western_union,Kistanje,1
+ZADARSKA,western_union,Stankovci,1
+SIBENSKOKNINSKA,western_union,Golubic,1
+ZADARSKA,western_union,Sali,1
+PRIMORSKOGORANSKA,western_union,Baska,1
+SIBENSKOKNINSKA,western_union,Knin,2
+SIBENSKOKNINSKA,western_union,Promina,1
+KARLOVACKA,western_union,Ogulin,1
+KARLOVACKA,western_union,Krnjak,1
+SISACKOMOSLAVACKA,western_union,Dvor,2
+KARLOVACKA,western_union,Generalski Stol,1
+PRIMORSKOGORANSKA,western_union,Punat,1
+SISACKOMOSLAVACKA,western_union,Topusko,2
+SIBENSKOKNINSKA,western_union,Drinovci,1
+SIBENSKOKNINSKA,western_union,Skradin,1
+PRIMORSKOGORANSKA,western_union,Vinodolska Opcina,1
+LICKOSENJSKA,western_union,Senj,2
+ZADARSKA,western_union,Silba,1
+PRIMORSKOGORANSKA,western_union,Lopar,1
+ZADARSKA,western_union,Biograd Na Moru,2
+ZADARSKA,western_union,Tkon,1
+KARLOVACKA,western_union,Josipdol,1
+SIBENSKOKNINSKA,western_union,Primosten,1
+SISACKOMOSLAVACKA,western_union,Petrinja,2
+PRIMORSKOGORANSKA,western_union,Bakar,2
+KARLOVACKA,western_union,Draganici,1
+PRIMORSKOGORANSKA,western_union,Skrljevo,1
+ZAGREBACKA,western_union,Pisarovina,1
+SISACKOMOSLAVACKA,western_union,Moscenica,1
+PRIMORSKOGORANSKA,western_union,Kostrena,1
+PRIMORSKOGORANSKA,western_union,Veli Losinj,1
+SIBENSKOKNINSKA,western_union,Murter,1
+SIBENSKOKNINSKA,western_union,Pirovac,1
+PRIMORSKOGORANSKA,western_union,Mali Loshinj,2
+PRIMORSKOGORANSKA,western_union,Novi Vinodolski,2
+KARLOVACKA,western_union,Vojnic,1
+SIBENSKOKNINSKA,western_union,Tisno,2
+KARLOVACKA,western_union,Plashki,1
+ZADARSKA,western_union,Ugljan,1
+ZADARSKA,western_union,Benkovac,2
+ZADARSKA,western_union,Sukosan,1
+ZADARSKA,western_union,Preko,1
+KARLOVACKA,western_union,Slunj,2
+ZADARSKA,western_union,Kali,1
+LICKOSENJSKA,western_union,Sveti Juraj,1
+ZADARSKA,western_union,Srb,1
+ZADARSKA,western_union,Zemunik,1
+LICKOSENJSKA,western_union,Jablanac,1
+ZADARSKA,western_union,Shkabrnja,1
+ZADARSKA,western_union,Zadar,8
+SISACKOMOSLAVACKA,western_union,Glina,2
+PRIMORSKOGORANSKA,western_union,Susak,1
+SIBENSKOKNINSKA,western_union,Razine,1
+KARLOVACKA,western_union,Duga Resa,1
+ZADARSKA,western_union,Olib,1
+PRIMORSKOGORANSKA,western_union,Rab,2
+KARLOVACKA,western_union,Cetingrad,1
+ZADARSKA,western_union,Pasman,1
+ZADARSKA,western_union,Bozava,1
+ZADARSKA,western_union,Policnik,1
+ZADARSKA,western_union,Nin,1
+ZADARSKA,western_union,Kolan,1
+ZADARSKA,western_union,Vir,1
+ZADARSKA,western_union,Pridraga,1
+LICKOSENJSKA,western_union,Krasno,1
+ZADARSKA,western_union,Gornji Karin,1
+KARLOVACKA,western_union,Rakovica,1
+ZADARSKA,western_union,Petrcane,1
+LICKOSENJSKA,western_union,Novalja,2
+LICKOSENJSKA,western_union,Brinje,2
+ZADARSKA,western_union,Bibinje,1
+ZADARSKA,western_union,Posedarje,1
+ZADARSKA,western_union,Pag,2
+LICKOSENJSKA,western_union,Otochac,2
+ZADARSKA,western_union,Povljana,1
+ZADARSKA,western_union,Vrsi,1
+ZADARSKA,western_union,Obrovac,1
+ZADARSKA,western_union,Gracac,1
+ZADARSKA,western_union,Grachac,1

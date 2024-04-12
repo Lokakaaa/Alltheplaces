@@ -1,0 +1,4940 @@
+State,Place Name,City,Establishments
+UNKNOWN,accor,unknown,9
+UNKNOWN,action,Praha 6,1
+UNKNOWN,action,Kladno,1
+UNKNOWN,action,OPAVA,1
+UNKNOWN,action,Hradec Kralove,1
+UNKNOWN,action,Frýdek-Místek,1
+UNKNOWN,action,Ostrava,1
+UNKNOWN,action,Pardubice,1
+UNKNOWN,action,Pribram,1
+UNKNOWN,action,Trebic,1
+UNKNOWN,action,Trmice,1
+UNKNOWN,action,Bohumin,1
+UNKNOWN,action,Kromeriz,1
+UNKNOWN,action,Jihlava,1
+UNKNOWN,action,Tabor,1
+UNKNOWN,action,Kolin,1
+UNKNOWN,action,Praha,4
+UNKNOWN,action,Prostějov,1
+UNKNOWN,action,Mladá Boleslav,1
+UNKNOWN,action,Ostrava-Trebovice,1
+UNKNOWN,action,Chrudim,1
+UNKNOWN,action,Plzen,2
+UNKNOWN,action,Most,2
+UNKNOWN,action,Cheb,1
+UNKNOWN,action,Jablonec nad Nisou,1
+UNKNOWN,action,Staré Město,1
+UNKNOWN,action,Ústí Nad Labem,1
+UNKNOWN,action,Havířov,1
+UNKNOWN,action,Olomouc,2
+UNKNOWN,action,Plzeň,1
+UNKNOWN,action,Karviná-Ráj,1
+UNKNOWN,action,Praha 17,1
+UNKNOWN,action,Novy Jicin,1
+UNKNOWN,action,Česká Lípa,1
+UNKNOWN,action,Děčín,1
+UNKNOWN,action,Vyškov,1
+UNKNOWN,action,Pisek,1
+UNKNOWN,action,Žatec,1
+UNKNOWN,action,Praha 13,1
+UNKNOWN,action,Přerov,1
+UNKNOWN,action,Teplice,1
+UNKNOWN,action,Mariánské Lázně,1
+UNKNOWN,action,Liberec,1
+UNKNOWN,action,Blansko,1
+UNKNOWN,adidas,Ostrava,1
+UNKNOWN,adidas,Prague,2
+UNKNOWN,adidas,Hate,1
+UNKNOWN,alamo,Prague,2
+PRAHA,alstom,Praha 1,1
+LIBERECKY,alstom,Okres Ceska Lipa,1
+PRAHA,asics_eu,Praha 8,1
+OLOMOUCKY,audi,"Olomouc, Holice",1
+PRAHA,audi,Praha 5,1
+KRALOVEHRADECKY,audi,Hradec Králové,2
+UNKNOWN,audi,Ostrava - Hrabová,1
+OLOMOUCKY,audi,Olomouc,2
+MORAVSKOSLEZSKY,audi,Ostrava - Poruba,1
+PRAHA,audi,Praha 8,1
+PLZENSKY,audi,Plzeň,2
+PRAHA,audi,Praha 6,1
+CENTRALBOHEMIA,audi,Praha - Čestlice,1
+SOUTHMORAVIAN,audi,Brno,2
+SOUTHMORAVIAN,audi,Kyjov,1
+SOUTHMORAVIAN,audi,Hodonín,1
+ZLIN,audi,Zlín-Želechovice nad Dřevnicí,1
+JIHOCESKY,audi,České Budějovice,1
+ZLIN,audi,Zlín - Příluky,1
+ZLIN,audi,Uherské Hradište,1
+CENTRALBOHEMIA,audi,Praha 6,1
+CENTRALBOHEMIA,audi,Poděbrady,1
+PARDUBICKY,audi,Pardubice,1
+LIBERECKY,audi,Liberec - Vratislavice nad Nisou,1
+USTECKY,audi,Teplice,1
+PRAHA,audi,Praha 9,2
+PRAHA,audi,Praha 10-Štěrboholy,1
+MORAVSKOSLEZSKY,audi,Ostrava-Moravská Ostrava,1
+SOUTHMORAVIAN,audi,Slavkov u Brna,1
+CENTRALBOHEMIA,audi,Kladno IV,1
+PRAHA,audi,Praha 3,1
+CENTRALBOHEMIA,audi,Praha 4 - Kunratice,1
+MORAVSKOSLEZSKY,audi,Opava - Jaktař,1
+KARLOVARSKY,audi,Karlovy Vary,1
+PRAGUE6,avis,Prague,1
+OSTRAVA,avis,Ostrava,2
+PRAHACITYCENTER,avis,Prague,1
+NHOLOMOUCCONGRESSHOTEL,avis,Olomouc,1
+BRNO,avis,Brno,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 8 - Oc Krakov,1
+STŘEDOČESKÝKRAJ,billa,Dobřichovice Lety,1
+KRÁLOVEHRADECKÝKRAJ,billa,Hořice,1
+HLAVNÍMĚSTOPRAHA,billa,Praha Kunratice,1
+HLAVNÍMĚSTOPRAHA,billa,Praha Kbely,1
+STŘEDOČESKÝKRAJ,billa,Mladá Boleslav,3
+JIHOMORAVSKÝKRAJ,billa,Znojmo,2
+PARDUBICKÝKRAJ,billa,Pardubice,2
+PLZEŇSKÝKRAJ,billa,Nepomuk,1
+STŘEDOČESKÝKRAJ,billa,Stará Boleslav,1
+PLZEŇSKÝKRAJ,billa,Strašice,1
+STŘEDOČESKÝKRAJ,billa,Čestlice,1
+ZLÍNSKÝKRAJ,billa,Zlín,4
+ZLÍNSKÝKRAJ,billa,Otrokovice,2
+JIHOČESKÝKRAJ,billa,Týn Nad Vltavou,2
+PLZEŇSKÝKRAJ,billa,Zbiroh,1
+JIHOMORAVSKÝKRAJ,billa,Brno,15
+STŘEDOČESKÝKRAJ,billa,Velká Dobrá,1
+STŘEDOČESKÝKRAJ,billa,Stehelčeves,1
+PLZEŇSKÝKRAJ,billa,Stříbro,1
+ZLÍNSKÝKRAJ,billa,Bojkovice,1
+MORAVSKOSLEZSKÝKRAJ,billa,Město Albrechtice,1
+JIHOČESKÝKRAJ,billa,Hluboká Nad Vltavou,1
+ÚSTECKÝKRAJ,billa,Rumburk,1
+STŘEDOČESKÝKRAJ,billa,Dolní Břežany,1
+OLOMOUCKÝKRAJ,billa,Lipník Nad Bečvou,1
+STŘEDOČESKÝKRAJ,billa,Nové Strašecí,1
+MORAVSKOSLEZSKÝKRAJ,billa,Fulnek,1
+PARDUBICKÝKRAJ,billa,Polička,1
+MORAVSKOSLEZSKÝKRAJ,billa,Ostrava,3
+PLZEŇSKÝKRAJ,billa,Plzeň,5
+JIHOČESKÝKRAJ,billa,Jindřichův Hradec,1
+STŘEDOČESKÝKRAJ,billa,Dobřejovice,1
+MORAVSKOSLEZSKÝKRAJ,billa,Jablunkov,1
+STŘEDOČESKÝKRAJ,billa,Beroun,2
+ÚSTECKÝKRAJ,billa,Děčín,2
+LIBERECKÝKRAJ,billa,Tanvald,1
+JIHOČESKÝKRAJ,billa,Tábor,2
+JIHOČESKÝKRAJ,billa,České Budějovice,6
+KARLOVARSKÝKRAJ,billa,Karlovy Vary,2
+KRAJVYSOČINA,billa,Moravské Budějovice,1
+KRAJVYSOČINA,billa,Pelhřimov,1
+JIHOMORAVSKÝKRAJ,billa,Veselí Nad Moravou,1
+KRAJVYSOČINA,billa,Nové Město Na Moravě,1
+ZLÍNSKÝKRAJ,billa,Holešov,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 8 Metro,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 4,4
+ÚSTECKÝKRAJ,billa,Chomutov,1
+JIHOČESKÝKRAJ,billa,Strakonice,2
+HLAVNÍMĚSTOPRAHA,billa,Praha-Březiněves,1
+MORAVSKOSLEZSKÝKRAJ,billa,Frýdek Místek,2
+STŘEDOČESKÝKRAJ,billa,Kamenice,1
+KRÁLOVEHRADECKÝKRAJ,billa,Hradec Kralove,1
+OLOMOUCKÝKRAJ,billa,Olomouc,5
+ÚSTECKÝKRAJ,billa,Teplice Obi,1
+ÚSTECKÝKRAJ,billa,Děčín Pivovar,1
+OLOMOUCKÝKRAJ,billa,Přerov,2
+HLAVNÍMĚSTOPRAHA,billa,Praha Quadrio,1
+STŘEDOČESKÝKRAJ,billa,Mnisek Pod Brdy,1
+JIHOMORAVSKÝKRAJ,billa,Slavkov U Brna,1
+HLAVNÍMĚSTOPRAHA,billa,Dolní Chabry,1
+JIHOMORAVSKÝKRAJ,billa,Brno Minoritska,1
+KRÁLOVEHRADECKÝKRAJ,billa,Hradec Králové,1
+STŘEDOČESKÝKRAJ,billa,Jílové U Prahy,1
+STŘEDOČESKÝKRAJ,billa,Sestajovice,1
+HLAVNÍMĚSTOPRAHA,billa,Praha Komořany,1
+HLAVNÍMĚSTOPRAHA,billa,Praha Karlín,1
+LIBERECKÝKRAJ,billa,Česká Lípa,1
+STŘEDOČESKÝKRAJ,billa,Český Brod,1
+HLAVNÍMĚSTOPRAHA,billa,Uhříněves,1
+STŘEDOČESKÝKRAJ,billa,Kolin,1
+STŘEDOČESKÝKRAJ,billa,Mělník,1
+STŘEDOČESKÝKRAJ,billa,Úvaly,1
+HLAVNÍMĚSTOPRAHA,billa,Praha Blox,1
+HLAVNÍMĚSTOPRAHA,billa,Praha Vinoř,1
+ÚSTECKÝKRAJ,billa,Ústí Nad Labem,4
+JIHOMORAVSKÝKRAJ,billa,Brno Kavkaz,1
+JIHOMORAVSKÝKRAJ,billa,Kuřim,1
+STŘEDOČESKÝKRAJ,billa,Vestec,1
+JIHOČESKÝKRAJ,billa,Písek,1
+HLAVNÍMĚSTOPRAHA,billa,Praha Radlicka,1
+STŘEDOČESKÝKRAJ,billa,Poděbrady,1
+STŘEDOČESKÝKRAJ,billa,Stránčice,1
+STŘEDOČESKÝKRAJ,billa,Milovice,1
+KRAJVYSOČINA,billa,Světlá  Nad Sázavou,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 9,4
+STŘEDOČESKÝKRAJ,billa,Jesenice,1
+ZLÍNSKÝKRAJ,billa,Valašské Meziříčí,1
+STŘEDOČESKÝKRAJ,billa,Chyne,1
+KARLOVARSKÝKRAJ,billa,Mariánské Lázně,1
+STŘEDOČESKÝKRAJ,billa,Dobříš,1
+JIHOČESKÝKRAJ,billa,Dacice,1
+KRAJVYSOČINA,billa,Velké Meziříčí,1
+KRÁLOVEHRADECKÝKRAJ,billa,Rychnov Nad Kněžnou,1
+PARDUBICKÝKRAJ,billa,Česká Třebová,1
+PARDUBICKÝKRAJ,billa,Litomyšl,1
+KRÁLOVEHRADECKÝKRAJ,billa,Dvůr Králové Nad Labem,1
+PARDUBICKÝKRAJ,billa,Chrudim,1
+JIHOMORAVSKÝKRAJ,billa,Břeclav,1
+ZLÍNSKÝKRAJ,billa,Uherské Hradiště,1
+JIHOMORAVSKÝKRAJ,billa,Rajhrad,1
+JIHOMORAVSKÝKRAJ,billa,Blansko,1
+OLOMOUCKÝKRAJ,billa,Prostějov,2
+JIHOMORAVSKÝKRAJ,billa,Mikulov,1
+PARDUBICKÝKRAJ,billa,Moravská Třebová,1
+MORAVSKOSLEZSKÝKRAJ,billa,Český Těšín,1
+MORAVSKOSLEZSKÝKRAJ,billa,Orlová,1
+OLOMOUCKÝKRAJ,billa,Jeseník,1
+OLOMOUCKÝKRAJ,billa,Hranice,1
+MORAVSKOSLEZSKÝKRAJ,billa,Havířov,1
+MORAVSKOSLEZSKÝKRAJ,billa,Bruntál,1
+MORAVSKOSLEZSKÝKRAJ,billa,Frýdlant Nad Ostravicí,1
+OLOMOUCKÝKRAJ,billa,Litovel,1
+OLOMOUCKÝKRAJ,billa,Šumperk,1
+ZLÍNSKÝKRAJ,billa,Rožnov Pod Radhoštěm,1
+MORAVSKOSLEZSKÝKRAJ,billa,Ostrava Dubina,1
+OLOMOUCKÝKRAJ,billa,Zábřeh Na Moravě,1
+MORAVSKOSLEZSKÝKRAJ,billa,Hlučín,1
+ÚSTECKÝKRAJ,billa,Vejprty,1
+STŘEDOČESKÝKRAJ,billa,Kolín,3
+HLAVNÍMĚSTOPRAHA,billa,Praha 6,5
+HLAVNÍMĚSTOPRAHA,billa,Praha 6 Sarka,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 8,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 7,3
+HLAVNÍMĚSTOPRAHA,billa,Praha 5,3
+HLAVNÍMĚSTOPRAHA,billa,Praha 10,3
+HLAVNÍMĚSTOPRAHA,billa,Praha 2,3
+HLAVNÍMĚSTOPRAHA,billa,Praha Dedina,1
+KARLOVARSKÝKRAJ,billa,Sokolov,1
+STŘEDOČESKÝKRAJ,billa,Říčany U Prahy,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 15,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 12,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 1,2
+STŘEDOČESKÝKRAJ,billa,Hořovice,1
+STŘEDOČESKÝKRAJ,billa,Kladno,3
+STŘEDOČESKÝKRAJ,billa,Slaný,1
+LIBERECKÝKRAJ,billa,Jablonec Nad Nisou,1
+ÚSTECKÝKRAJ,billa,Teplice,1
+ÚSTECKÝKRAJ,billa,Varnsdorf,1
+LIBERECKÝKRAJ,billa,Liberec,3
+ÚSTECKÝKRAJ,billa,Litvinov,1
+STŘEDOČESKÝKRAJ,billa,Čelákovice,1
+ÚSTECKÝKRAJ,billa,Louny,1
+ÚSTECKÝKRAJ,billa,Roudnice Nad Labem,1
+PLZEŇSKÝKRAJ,billa,Nýřany,1
+PLZEŇSKÝKRAJ,billa,Rokycany,1
+STŘEDOČESKÝKRAJ,billa,Příbram,2
+JIHOČESKÝKRAJ,billa,Milevsko,1
+STŘEDOČESKÝKRAJ,billa,Benešov,1
+PLZEŇSKÝKRAJ,billa,Tachov,1
+KRAJVYSOČINA,billa,Havlíčkův Brod,1
+KRAJVYSOČINA,billa,Třebíč - Týn,1
+KRAJVYSOČINA,billa,Humpolec,1
+KRAJVYSOČINA,billa,Jihlava,1
+KRÁLOVEHRADECKÝKRAJ,billa,Trutnov,1
+LIBERECKÝKRAJ,billa,Turnov,1
+KRÁLOVEHRADECKÝKRAJ,billa,Vrchlabí,1
+HLAVNÍMĚSTOPRAHA,billa,Praha 3,1
+STŘEDOČESKÝKRAJ,billa,Kutná Hora,1
+STŘEDOČESKÝKRAJ,billa,Benátky Nad Jizerou,1
+ÚSTECKÝKRAJ,billa,Lovosice,1
+STŘEDOČESKÝKRAJ,billa,Sedlčany,1
+STŘEDOČESKÝKRAJ,billa,Rakovník,1
+KARLOVARSKÝKRAJ,billa,Aš,1
+KRÁLOVEHRADECKÝKRAJ,billa,Týniště Nad Orlicí,1
+STŘEDOČESKÝKRAJ,billa,Čáslav,1
+PARDUBICKÝKRAJ,billa,Přelouč,1
+ÚSTECKÝKRAJ,billa,Podbořany,1
+STŘEDOČESKÝKRAJ,billa,Neratovice,1
+PLZEŇSKÝKRAJ,billa,Klatovy,1
+PLZEŇSKÝKRAJ,billa,Přeštice,1
+STŘEDOČESKÝKRAJ,billa,Vlašim,1
+KARLOVARSKÝKRAJ,billa,Kraslice,1
+PARDUBICKÝKRAJ,billa,Žamberk,1
+PARDUBICKÝKRAJ,billa,Hlinsko,1
+KRÁLOVEHRADECKÝKRAJ,billa,Jičín,1
+HLAVNÍMĚSTOPRAHA,billa,Dolní Počernice,1
+KRAJVYSOČINA,billa,Ledeč Nad Sázavou,1
+MORAVSKOSLEZSKÝKRAJ,billa,Ostrava Vyskovice,1
+MORAVSKOSLEZSKÝKRAJ,billa,Opava,1
+HLAVNÍMĚSTOPRAHA,billa,Praha-Radotín,1
+JIHOČESKÝKRAJ,billa,České Budějovice - Bios,1
+ÚSTECKÝKRAJ,billa,Most,1
+STŘEDOČESKÝKRAJ,billa,Kostelec N.Č.Lesy,1
+UNKNOWN,bmw_group,Plzen,1
+UNKNOWN,bmw_group,Olomouc,1
+CZECHREPUBLIC,bmw_group,Pardubice,1
+UNKNOWN,bmw_group,Pardubice,2
+UNKNOWN,bmw_group,Ceske Budejovice,1
+UNKNOWN,bmw_group,Brno-Slatina,1
+UNKNOWN,bmw_group,Praha 4,1
+UNKNOWN,bmw_group,Praha,2
+UNKNOWN,bmw_group,Praha 10,1
+UNKNOWN,bmw_group,Prague,1
+UNKNOWN,bmw_group,Vestec,1
+UNKNOWN,bmw_group,Ostrava-Poruba,1
+UNKNOWN,bmw_group,Liberec,1
+UNKNOWN,bmw_group,Praha 9,1
+UNKNOWN,bmw_group,Ostrava - Vitkovice,1
+UNKNOWN,bmw_group,Karlovy Vary,1
+UNKNOWN,bmw_group,Praha 5 - Stodulky,1
+UNKNOWN,bmw_group,Liberec 11,2
+UNKNOWN,bmw_group,Cestlice,1
+UNKNOWN,bmw_group,Zlin,1
+UNKNOWN,bmw_group,Ostrava,1
+UNKNOWN,bmw_group,Usti nad Labem,1
+UNKNOWN,bmw_group,Brno,2
+UNKNOWN,bmw_group,Hradec Kralove-Brezhrad,1
+PRAGUE,botteg_aveneta,Prague,1
+UNKNOWN,burgerking,Prague,9
+PRAHA,burgerking,Prague,3
+KRALOVEHRADECKY,burgerking,Praha,1
+UNKNOWN,burgerking,150 00 Praha 5,1
+PRAHA,burgerking,Praha,2
+UNKNOWN,burgerking,Prague - Cakovice,1
+UNKNOWN,burgerking,Prague 6,1
+OLOMOUCKY,burgerking,Kladfalse,1
+MORAVSKOSLEZSKY,burgerking,Mlada Boleslav,1
+JIHOCESKY,burgerking,Příbram,1
+UNKNOWN,burgerking,Dobšice,1
+USTECKY,burgerking,Usti Nad Labem,1
+PRAHA,burgerking,Čechtice,1
+LIBERECKY,burgerking,Příšovice,1
+KARLOVARSKY,burgerking,Teplice,1
+PLZENSKY,burgerking,Plzeň,1
+PRAHA,burgerking,Plzen,1
+LIBERECKY,burgerking,Liberec,1
+UNKNOWN,burgerking,Pilsen,1
+KRALOVEHRADECKY,burgerking,Liberec,1
+LIBERECKY,burgerking,Pardubice,1
+KRALOVEHRADECKY,burgerking,Hradec Králové,1
+VYSOCINA,burgerking,Jihlava,1
+UNKNOWN,burgerking,Ceske Budejovice,1
+LIBERECKY,burgerking,Praha,1
+STREDOCESKY,burgerking,Brfalse,1
+UNKNOWN,burgerking,Brfalse,2
+MORAVSKOSLEZSKY,burgerking,Brfalse,1
+OLOMOUCKY,burgerking,Hate,1
+OLOMOUCKY,burgerking,Olomouc,1
+LIBERECKY,burgerking,Ostrava,2
+UNKNOWN,burgerking,Ostrava,1
+MORAVSKOSLEZSKY,burgerking,Frýdek-Místek,1
+MORAVSKOSLEZSKY,burgerking,Karviná,1
+UNKNOWN,burger_king_cz,Karviná,1
+UNKNOWN,burger_king_cz,Ostrava,3
+UNKNOWN,burger_king_cz,Frýdek-Místek,1
+UNKNOWN,burger_king_cz,Olomouc,1
+UNKNOWN,burger_king_cz,Hradec Králové,1
+UNKNOWN,burger_king_cz,Pardubice,1
+UNKNOWN,burger_king_cz,Liberec,2
+UNKNOWN,burger_king_cz,Příšovice,1
+UNKNOWN,burger_king_cz,Brno,4
+UNKNOWN,burger_king_cz,Dobšice,1
+UNKNOWN,burger_king_cz,Troubsko,1
+UNKNOWN,burger_king_cz,Mladá Boleslav,1
+UNKNOWN,burger_king_cz,Benátky nad Jizerou,1
+UNKNOWN,burger_king_cz,Jihlava,1
+UNKNOWN,burger_king_cz,Loket,1
+UNKNOWN,burger_king_cz,Praha,18
+UNKNOWN,burger_king_cz,Ústí nad Labem,1
+UNKNOWN,burger_king_cz,Hatě,1
+UNKNOWN,burger_king_cz,Teplice,1
+UNKNOWN,burger_king_cz,Kladno,1
+UNKNOWN,burger_king_cz,Příbram,1
+UNKNOWN,burger_king_cz,Plzeň,3
+UNKNOWN,calvin_klein,Prague,9
+UNKNOWN,calvin_klein,Ostrava,1
+UNKNOWN,calvin_klein,Modřice,1
+UNKNOWN,calvin_klein,Plzen,1
+UNKNOWN,ccc,Praha,12
+UNKNOWN,ccc,Brno,4
+UNKNOWN,ccc,Karlovy Vary,1
+UNKNOWN,ccc,Olomouc,3
+UNKNOWN,ccc,Mladá Boleslav,2
+UNKNOWN,ccc,Most,1
+UNKNOWN,ccc,České Budějovice,2
+UNKNOWN,ccc,Česká Lípa,1
+UNKNOWN,ccc,Prostějov,1
+UNKNOWN,ccc,Kolín,1
+UNKNOWN,ccc,Liberec,2
+UNKNOWN,ccc,Bohunice,1
+UNKNOWN,ccc,Ústí nad Labem,1
+UNKNOWN,ccc,Staré Město,1
+UNKNOWN,ccc,Teplice,2
+UNKNOWN,ccc,Ostrava,1
+UNKNOWN,ccc,Hradec Králové,2
+UNKNOWN,ccc,Opava,1
+UNKNOWN,ccc,Trutnov,1
+UNKNOWN,ccc,Třinec,1
+UNKNOWN,ccc,Roudnice nad Labem,1
+UNKNOWN,ccc,Cheb,1
+UNKNOWN,ccc,Náchod,1
+UNKNOWN,ccc,Zlín,1
+UNKNOWN,ccc,Nový Jičín,1
+UNKNOWN,ccc,Česká Třebová,1
+UNKNOWN,ccc,Litoměřice,1
+UNKNOWN,ccc,Jihlava,1
+UNKNOWN,ccc,Děčín,1
+UNKNOWN,ccc,Frýdek-Místek,1
+UNKNOWN,ccc,Čáslav,1
+UNKNOWN,ccc,Kladno,1
+UNKNOWN,ccc,Plzeň,1
+UNKNOWN,ccc,Břeclav,1
+UNKNOWN,ccc,Jičín,1
+UNKNOWN,ccc,Přerov,1
+UNKNOWN,ccc,Jablonec nad Nisou,1
+UNKNOWN,ccc,Strakonice,1
+UNKNOWN,ccc,Písek,1
+UNKNOWN,ccc,Vyškov,1
+UNKNOWN,ccc,Havířov,1
+UNKNOWN,ccc,Valašské Meziříčí,1
+UNKNOWN,ccc,Otvice,1
+UNKNOWN,ccc,Hodonín,1
+UNKNOWN,ccc,Benešov,1
+UNKNOWN,ccc,Příbram,1
+UNKNOWN,ccc,Ostrava- Plesná,1
+UNKNOWN,ccc,Třebíč,1
+UNKNOWN,ccc,Pardubice,1
+UNKNOWN,ccc,Praha - 9,1
+UNKNOWN,ccc,Vsetín,1
+UNKNOWN,ccc,Znojmo,1
+UNKNOWN,church_of_england_gb,unknown,2
+UNKNOWN,claires,Brno,1
+UNKNOWN,claires,Olomouc,1
+UNKNOWN,claires,Plzen 3,1
+UNKNOWN,claires,Plzen - Cernice,1
+UNKNOWN,claires,Praha 9,2
+UNKNOWN,claires,Ostrava,1
+UNKNOWN,claires,Prague 10,1
+UNKNOWN,claires,Praha 1,1
+UNKNOWN,claires,Prague 5,1
+UNKNOWN,claires,Prague 3,1
+UNKNOWN,claires,Prague 2,1
+UNKNOWN,claires,Praha 4,1
+UNKNOWN,crocs_eu,Kiel-Praha 14,1
+UNKNOWN,crocs_eu,Praha,1
+UNKNOWN,crocs_eu,Praha 5-Anděl,1
+UNKNOWN,czech_post_cz,unknown,8757
+UNKNOWN,c_and_a,Znojmo,1
+UNKNOWN,c_and_a,Zlin 4 - Malenovice,1
+UNKNOWN,c_and_a,Velky Tynec,1
+UNKNOWN,c_and_a,Usti nad Labem,1
+UNKNOWN,c_and_a,Trebic,1
+UNKNOWN,c_and_a,Teplice - Srbice,1
+UNKNOWN,c_and_a,Tabor,1
+UNKNOWN,c_and_a,Prerov,1
+UNKNOWN,c_and_a,Praha 9 - Liben,1
+UNKNOWN,c_and_a,Praha 9,1
+UNKNOWN,c_and_a,Praha 8,1
+UNKNOWN,c_and_a,Praha 5,1
+UNKNOWN,c_and_a,Praha 4 Chodov,1
+UNKNOWN,c_and_a,Praha 4,1
+UNKNOWN,c_and_a,Praha 10 - Sterboholy,1
+UNKNOWN,c_and_a,Praha 1,2
+UNKNOWN,c_and_a,Praha,1
+UNKNOWN,c_and_a,Plzen-Cernice,1
+UNKNOWN,c_and_a,Plzen,1
+UNKNOWN,c_and_a,Pardubice,1
+UNKNOWN,c_and_a,Ostrava,1
+UNKNOWN,c_and_a,Opava,1
+UNKNOWN,c_and_a,Olomouc,1
+UNKNOWN,c_and_a,Most,1
+UNKNOWN,c_and_a,Mlada Boleslav,1
+UNKNOWN,c_and_a,Liberec XI,1
+UNKNOWN,c_and_a,Liberec,1
+UNKNOWN,c_and_a,Kladno,1
+UNKNOWN,c_and_a,Karvina - Frystat,1
+UNKNOWN,c_and_a,Karlovy Vary - Dvory,1
+UNKNOWN,c_and_a,Jihlava,1
+UNKNOWN,c_and_a,Hradec Kralove,1
+UNKNOWN,c_and_a,Havirov - Podlesi,1
+UNKNOWN,c_and_a,Ceske Budejovice,2
+UNKNOWN,c_and_a,Brno-Modrice,1
+UNKNOWN,c_and_a,Brno,2
+UNKNOWN,decathlon_cz,Liberec,1
+UNKNOWN,decathlon_cz,OSTRAVA,1
+UNKNOWN,decathlon_cz,Olomouc,1
+UNKNOWN,decathlon_cz,Plzeň - Bory,1
+UNKNOWN,decathlon_cz,Praha,5
+UNKNOWN,decathlon_cz,České Budějovice,1
+UNKNOWN,decathlon_cz,Hradec Králové,1
+UNKNOWN,decathlon_cz,Brno,2
+UNKNOWN,decathlon_cz,Ostrava,1
+UNKNOWN,decathlon_cz,Praha 13-Třebonice,1
+UNKNOWN,decathlon_cz,Mladá Boleslav,1
+UNKNOWN,decathlon_cz,Jihlava,1
+UNKNOWN,decathlon_cz,Teplice,1
+UNKNOWN,decathlon_cz,Opava,1
+UNKNOWN,decathlon_cz,Zlín,1
+UNKNOWN,decathlon_cz,Tábor,1
+UNKNOWN,decathlon_cz,Kladno,1
+UNKNOWN,decathlon_cz,Frýdek-Místek,1
+UNKNOWN,decathlon_cz,Pardubice,1
+UNKNOWN,decathlon_cz,Jenišov,1
+UNKNOWN,deichmann,Brno,5
+UNKNOWN,deichmann,Zlín,2
+UNKNOWN,deichmann,Vsetin,1
+UNKNOWN,deichmann,Valašské Meziříčí,1
+UNKNOWN,deichmann,Uherský Brod,1
+UNKNOWN,deichmann,Staré Město,1
+UNKNOWN,deichmann,Kroměříž,1
+UNKNOWN,deichmann,Žatec,1
+UNKNOWN,deichmann,Ústí nad Labem,1
+UNKNOWN,deichmann,Trmice,1
+UNKNOWN,deichmann,Teplice,2
+UNKNOWN,deichmann,Otvice,1
+UNKNOWN,deichmann,Most,1
+UNKNOWN,deichmann,Louny,1
+UNKNOWN,deichmann,Kadaň,1
+UNKNOWN,deichmann,Děčín,1
+UNKNOWN,deichmann,Vlašim,1
+UNKNOWN,deichmann,Rakovník,1
+UNKNOWN,deichmann,Příbram,1
+UNKNOWN,deichmann,Poděbrady,1
+UNKNOWN,deichmann,Mladá Boleslav,1
+UNKNOWN,deichmann,Mělník,1
+UNKNOWN,deichmann,Kutná Hora,1
+UNKNOWN,deichmann,Králův Dvůr,1
+UNKNOWN,deichmann,Kolín,1
+UNKNOWN,deichmann,Kladno,1
+UNKNOWN,deichmann,Brandýs nad Labem,1
+UNKNOWN,deichmann,Benešov,1
+UNKNOWN,deichmann,Plzeň,4
+UNKNOWN,deichmann,Klatovy,1
+UNKNOWN,deichmann,Vysoké Mýto,1
+UNKNOWN,deichmann,Svitavy,1
+UNKNOWN,deichmann,Pardubice,2
+UNKNOWN,deichmann,Chrudim,1
+UNKNOWN,deichmann,Česká Třebová,1
+UNKNOWN,deichmann,Šumperk,1
+UNKNOWN,deichmann,Přerov,1
+UNKNOWN,deichmann,Olomouc,2
+UNKNOWN,deichmann,Mohelnice,1
+UNKNOWN,deichmann,Jeseník,1
+UNKNOWN,deichmann,Hranice na Moravě,1
+UNKNOWN,deichmann,Držovice,1
+UNKNOWN,deichmann,Šenov u Nového Jičína,1
+UNKNOWN,deichmann,Ostrava,4
+UNKNOWN,deichmann,Orlová,1
+UNKNOWN,deichmann,Opava,2
+UNKNOWN,deichmann,Kopřivnice,1
+UNKNOWN,deichmann,Karviná,1
+UNKNOWN,deichmann,Havířov,1
+UNKNOWN,deichmann,Frýdek-Místek,1
+UNKNOWN,deichmann,Bruntál,1
+UNKNOWN,deichmann,Liberec,2
+UNKNOWN,deichmann,Jablonec nad Nisou,1
+UNKNOWN,deichmann,Česká Lípa,1
+UNKNOWN,deichmann,Trutnov,1
+UNKNOWN,deichmann,Rychnov nad Kněžnou,1
+UNKNOWN,deichmann,Náchod,1
+UNKNOWN,deichmann,Hradec Králové,2
+UNKNOWN,deichmann,Dvůr Králové nad Labem,1
+UNKNOWN,deichmann,Žďár nad Sázavou,1
+UNKNOWN,deichmann,Velke Mezirici,1
+UNKNOWN,deichmann,Střítež,1
+UNKNOWN,deichmann,Pelhřimov,1
+UNKNOWN,deichmann,Moravské Budějovice,1
+UNKNOWN,deichmann,Jihlava,2
+UNKNOWN,deichmann,Havlíčkův Brod,1
+UNKNOWN,deichmann,Sokolov,1
+UNKNOWN,deichmann,Mariánské Lázně,1
+UNKNOWN,deichmann,Karlovy Vary,1
+UNKNOWN,deichmann,Cheb,1
+UNKNOWN,deichmann,Znojmo,1
+UNKNOWN,deichmann,Vyškov,1
+UNKNOWN,deichmann,Modřice,1
+UNKNOWN,deichmann,Kyjov,1
+UNKNOWN,deichmann,Ivančice,1
+UNKNOWN,deichmann,Hodonín,1
+UNKNOWN,deichmann,Břeclav,1
+UNKNOWN,deichmann,Boskovice,1
+UNKNOWN,deichmann,Blansko,1
+UNKNOWN,deichmann,Tábor,1
+UNKNOWN,deichmann,Strakonice,1
+UNKNOWN,deichmann,Písek,1
+UNKNOWN,deichmann,Jindřichův Hradec,1
+UNKNOWN,deichmann,Český Krumlov,1
+UNKNOWN,deichmann,České Budějovice,2
+UNKNOWN,deichmann,Praha,11
+KRALOVEHRADECKY,deloitte,Hradec Králové,1
+PLZENSKY,deloitte,Pilsen,1
+MORAVSKOSLEZSKY,deloitte,Ostrava,1
+UNKNOWN,deloitte,Prague 2,1
+SOUTHMORAVIAN,deloitte,Brno,1
+UNKNOWN,dm,České Budějovice,6
+UNKNOWN,dm,Plzeň,7
+UNKNOWN,dm,Kolín,1
+UNKNOWN,dm,Jindřichův Hradec,2
+UNKNOWN,dm,Brno,14
+UNKNOWN,dm,Praha,59
+UNKNOWN,dm,Šumperk,2
+UNKNOWN,dm,Jičín,1
+UNKNOWN,dm,Říčany,1
+UNKNOWN,dm,Olomouc,4
+UNKNOWN,dm,Český Těšín,1
+UNKNOWN,dm,Náchod,1
+UNKNOWN,dm,Otvice,1
+UNKNOWN,dm,Děčín,2
+UNKNOWN,dm,Chrudim,1
+UNKNOWN,dm,Vsetín,1
+UNKNOWN,dm,Ústí nad Orlicí,1
+UNKNOWN,dm,Jihlava,4
+UNKNOWN,dm,Karlovy Vary,3
+UNKNOWN,dm,Liberec,4
+UNKNOWN,dm,Prostějov,2
+UNKNOWN,dm,Havířov,2
+UNKNOWN,dm,Hodonín,1
+UNKNOWN,dm,Kladno,2
+UNKNOWN,dm,Louny,1
+UNKNOWN,dm,Hradec Králové,4
+UNKNOWN,dm,Ústí nad Labem,1
+UNKNOWN,dm,Pardubice,3
+UNKNOWN,dm,Beroun,2
+UNKNOWN,dm,Kosmonosy,1
+UNKNOWN,dm,Žďár nad Sázavou,1
+UNKNOWN,dm,Uherské Hradiště,1
+UNKNOWN,dm,Varnsdorf,1
+UNKNOWN,dm,Vlašim,1
+UNKNOWN,dm,Bruntál,1
+UNKNOWN,dm,Benešov,1
+UNKNOWN,dm,Ostrava,8
+UNKNOWN,dm,Vrchlabí,1
+UNKNOWN,dm,Jeseník,1
+UNKNOWN,dm,Přerov,2
+UNKNOWN,dm,Kroměříž,2
+UNKNOWN,dm,Zlín,4
+UNKNOWN,dm,Hlučín,1
+UNKNOWN,dm,Žatec,1
+UNKNOWN,dm,Nový Jičín,1
+UNKNOWN,dm,Modřice,1
+UNKNOWN,dm,Příbram,2
+UNKNOWN,dm,Nový Bor,1
+UNKNOWN,dm,Rakovník,1
+UNKNOWN,dm,Teplice,2
+UNKNOWN,dm,Frenštát pod Radhoštěm,1
+UNKNOWN,dm,Litomyšl,1
+UNKNOWN,dm,Tábor,2
+UNKNOWN,dm,Chotěboř,1
+UNKNOWN,dm,Bystřice nad Pernšt.,1
+UNKNOWN,dm,Česká Třebová,1
+UNKNOWN,dm,Mladá Boleslav,2
+UNKNOWN,dm,Mělník,1
+UNKNOWN,dm,Velký Týnec,1
+UNKNOWN,dm,Písek,2
+UNKNOWN,dm,Cheb,2
+UNKNOWN,dm,Most,2
+UNKNOWN,dm,Česká Lípa,1
+UNKNOWN,dm,Svitavy,1
+UNKNOWN,dm,Trmice,1
+UNKNOWN,dm,Opava,2
+UNKNOWN,dm,Znojmo,2
+UNKNOWN,dm,Trutnov,2
+UNKNOWN,dm,Frýdlant nad Ostravicí,1
+UNKNOWN,dm,Klatovy,1
+UNKNOWN,dm,Vysoké Mýto,1
+UNKNOWN,dm,Dobříš,1
+UNKNOWN,dm,Jesenice,1
+UNKNOWN,dm,Český Krumlov,1
+UNKNOWN,dm,Poděbrady,1
+UNKNOWN,dm,Šenov u Nového Jičína,1
+UNKNOWN,dm,Kyjov,1
+UNKNOWN,dm,Domažlice,1
+UNKNOWN,dm,Boskovice,1
+UNKNOWN,dm,Uherský Brod,1
+UNKNOWN,dm,Havlíčkův Brod,1
+UNKNOWN,dm,Frýdek-Místek,1
+UNKNOWN,dm,Třinec,1
+UNKNOWN,dm,Dvůr Králové nad Labem,1
+UNKNOWN,dm,Mariánské Lázně,1
+UNKNOWN,dm,Neratovice,1
+UNKNOWN,dm,Jablonec nad Nisou,2
+UNKNOWN,dm,Tachov,1
+UNKNOWN,dm,Roudnice nad Labem,1
+UNKNOWN,dm,Pelhřimov,1
+UNKNOWN,dm,Rožnov pod Radhoštěm,1
+UNKNOWN,dm,Litoměřice,1
+UNKNOWN,dm,Turnov,1
+UNKNOWN,dm,Rychnov nad Kněžnou,1
+UNKNOWN,dm,Ivančice,1
+UNKNOWN,dm,Velké Meziříčí,1
+UNKNOWN,dm,Blansko,1
+UNKNOWN,dm,Mohelnice,1
+UNKNOWN,dm,Čáslav,1
+UNKNOWN,dm,Frýdek - Místek,1
+UNKNOWN,dm,Orlová,1
+UNKNOWN,dm,Hrdějovice,1
+UNKNOWN,dm,Rokycany,1
+UNKNOWN,dm,Vestec,1
+UNKNOWN,dm,Týn nad Vltavou,1
+UNKNOWN,dm,Strakonice,1
+UNKNOWN,dm,Valašské Meziříčí,1
+UNKNOWN,dm,Vyškov,1
+UNKNOWN,dm,Holešov,1
+UNKNOWN,dm,Břeclav,1
+UNKNOWN,dm,Staré Město,1
+UNKNOWN,dm,Střítež,1
+UNKNOWN,dm,Sokolov,1
+UNKNOWN,dm,Hranice,1
+UNKNOWN,dm,Milevsko,1
+UNKNOWN,dm,Lanškroun,1
+UNKNOWN,dm,Čestlice,1
+UNKNOWN,dm,Mnichovo Hradiště,1
+UNKNOWN,dm,Bohumín,1
+UNKNOWN,dm,Karviná,1
+UNKNOWN,dm,Chomutov,1
+UNKNOWN,dm,Zábřeh,1
+UNKNOWN,dm,Moravské Budějovice,1
+UNKNOWN,dm,Polička,1
+UNKNOWN,dm,Nymburk,1
+UNKNOWN,dm,Litvínov,1
+UNKNOWN,dm,Pohořelice,1
+UNKNOWN,dm,Stehelčeves,1
+JIHOMORAVSKÝKRAJ,dr_max,Brno - Staré Brno,1
+STŘEDOČESKÝKRAJ,dr_max,Příbram VI,1
+MORAVSKOSLEZSKÝKRAJ,dr_max,Ostrava - Poruba,1
+ÚSTECKÝKRAJ,dr_max,Chomutov,1
+JIHOMORAVSKÝKRAJ,dr_max,Hodonín,1
+MORAVSKOSLEZSKÝKRAJ,dr_max,Kopřivnice,1
+OLOMOUCKÝKRAJ,dr_max,Šumperk,1
+ZLÍNSKÝKRAJ,dr_max,Valašské Meziříčí,1
+ZLÍNSKÝKRAJ,dr_max,Zlín,1
+ZLÍNSKÝKRAJ,dr_max,Uherské Hradiště,1
+JIHOČESKÝKRAJ,dr_max,Jindřichův Hradec,1
+STŘEDOČESKÝKRAJ,dr_max,Beroun,1
+VYSOČINA,dr_max,Žďár nad Sázavou,1
+KARLOVARSKÝKRAJ,dr_max,Karlovy Vary,1
+PARDUBICKÝKRAJ,dr_max,Pardubice,3
+MORAVSKOSLEZSKÝKRAJ,dr_max,Orlová,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha 2 - Vinohrady,1
+MORAVSKOSLEZSKÝKRAJ,dr_max,Frenštát pod Radhoštěm,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha 4 - Modřany,1
+PLZEŇSKÝKRAJ,dr_max,Klatovy,1
+JIHOČESKÝKRAJ,dr_max,Vimperk,1
+JIHOMORAVSKÝKRAJ,dr_max,Brno,1
+ZLÍNSKÝKRAJ,dr_max,Holešov,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha 8 - Libeň,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha 8 - Ládví,1
+LIBERECKÝKRAJ,dr_max,Turnov,1
+ÚSTECKÝKRAJ,dr_max,Ústí nad Labem,1
+ÚSTECKÝKRAJ,dr_max,Žatec,1
+MORAVSKOSLEZSKÝKRAJ,dr_max,Havířov,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha - Horní Počernice,1
+JIHOMORAVSKÝKRAJ,dr_max,Brno - Ivanovice,1
+LIBERECKÝKRAJ,dr_max,Jablonec nad Nisou,1
+PLZEŇSKÝKRAJ,dr_max,Chotíkov,1
+MORAVSKOSLEZSKÝKRAJ,dr_max,Ostrava - Zábřeh,1
+MORAVSKOSLEZSKÝKRAJ,dr_max,Bohumín,1
+JIHOMORAVSKÝKRAJ,dr_max,Brno - Zábrdovice,1
+JIHOMORAVSKÝKRAJ,dr_max,Znojmo,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha 5 - Hlubočepy,1
+MORAVSKOSLEZSKÝKRAJ,dr_max,Karviná,1
+UNKNOWN,dr_max,unknown,18
+ÚSTECKÝKRAJ,dr_max,Lovosice,1
+KRÁLOVÉHRADECKÝKRAJ,dr_max,Nový Bydžov,1
+OLOMOUCKÝKRAJ,dr_max,Olomouc,1
+STŘEDOČESKÝKRAJ,dr_max,Mělník,1
+JIHOMORAVSKÝKRAJ,dr_max,unknown,1
+UNKNOWN,dr_max,Neratovice,1
+KARLOVARSKÝKRAJ,dr_max,Cheb,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha 12 - Modřany,1
+STŘEDOČESKÝKRAJ,dr_max,Sedlčany,1
+STŘEDOČESKÝKRAJ,dr_max,Brandýs nad Labem-Stará Boleslav,1
+OLOMOUCKÝKRAJ,dr_max,Prostějov,1
+ÚSTECKÝKRAJ,dr_max,Roudnice nad Labem,1
+ÚSTECKÝKRAJ,dr_max,Štětí,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha 6 - Vokovice,1
+JIHOMORAVSKÝKRAJ,dr_max,Brno - Brněnské Ivanovice,1
+JIHOČESKÝKRAJ,dr_max,Dačice II,1
+PARDUBICKÝKRAJ,dr_max,Žamberk,1
+HLAVNÍMĚSTOPRAHA,dr_max,Praha 4 - Krč,1
+MORAVSKOSLEZSKÝKRAJ,dr_max,Ostrava - Moravská Ostrava,1
+JIHOMORAVSKÝKRAJ,dr_max,Brno - Líšeň,1
+UNKNOWN,ecco,Ostrava,1
+UNKNOWN,ecco,Praha,10
+UNKNOWN,ecco,Ostrava-Moravská Ostrava,1
+UNKNOWN,ecco,Tuchoměřice,1
+UNKNOWN,ecco,Brno,1
+UNKNOWN,ecco,Plzeň,1
+UNKNOWN,ecco,Pardubice,1
+UNKNOWN,ecco,Olomouc,1
+UNKNOWN,ecco,Modřice,1
+UNKNOWN,enterprise,Ostrava,1
+UNKNOWN,enterprise,Vestec,1
+UNKNOWN,enterprise,Prague,3
+UNKNOWN,enterprise,Pilsen,1
+UNKNOWN,enterprise,Brno,1
+UNKNOWN,enterprise,Hradec Kralove,1
+SOUTHMORAVIAN,ernst_young,Brno,1
+MORAVSKOSLEZSKY,ernst_young,Ostrava,1
+PRAHA,ernst_young,Prague,1
+UNKNOWN,esprit,Praha,6
+UNKNOWN,esprit,Tuchomerice,1
+UNKNOWN,esprit,Brno,1
+TSCHECHIEN,fielmann_cz,Liberec,1
+TSCHECHIEN,fielmann_cz,České Budějovice,1
+TSCHECHIEN,fielmann_cz,Brno,1
+TSCHECHIEN,fielmann_cz,Ostrava,2
+TSCHECHIEN,fielmann_cz,Praha 5,2
+TSCHECHIEN,fielmann_cz,Praha 4,2
+TSCHECHIEN,fielmann_cz,Pardubice,1
+TSCHECHIEN,fielmann_cz,Modřice,1
+TSCHECHIEN,fielmann_cz,Ústí nad Labem,1
+TSCHECHIEN,fielmann_cz,Olomouc,1
+TSCHECHIEN,fielmann_cz,Praha 1,1
+TSCHECHIEN,fielmann_cz,Praha 9,1
+CZJC,footlocker,Brno,1
+CZ622,footlocker,Brno,1
+CZ611,footlocker,Praha,4
+CZ611,footlocker,Prague,3
+CZ207,footlocker,Ostrava,1
+CZ204,footlocker,Hradec Kralove,1
+NY,footlocker,New York,12
+UNKNOWN,ford,Volyně,1
+UNKNOWN,ford,Podbořany,1
+UNKNOWN,ford,Praha 5,1
+UNKNOWN,ford,Olomouc,2
+UNKNOWN,ford,Praha 7,1
+UNKNOWN,ford,Toužim,1
+UNKNOWN,ford,Brandýs nad Labem,1
+UNKNOWN,ford,Brno,3
+UNKNOWN,ford,Kuřim,1
+UNKNOWN,ford,Frýdek Místek,1
+UNKNOWN,ford,Vysoké Mýto,1
+UNKNOWN,ford,Havlíčkův Brod,1
+UNKNOWN,ford,Česká Lípa,1
+UNKNOWN,ford,Havířov - Prostřední Suchá,1
+UNKNOWN,ford,Kosmonosy,1
+UNKNOWN,ford,Plzeň,2
+UNKNOWN,ford,Klatovy,1
+UNKNOWN,ford,Vendryně,1
+UNKNOWN,ford,Most,1
+UNKNOWN,ford,Poděbrady,1
+UNKNOWN,ford,Milovice u Hořic,1
+UNKNOWN,ford,Hradec Králové,2
+UNKNOWN,ford,Liberec,1
+UNKNOWN,ford,Ostrava,2
+UNKNOWN,ford,Svitavy,1
+UNKNOWN,ford,Děčín,1
+UNKNOWN,ford,Ústí nad Labem,1
+UNKNOWN,ford,Průhonice,1
+UNKNOWN,ford,Benešov,1
+UNKNOWN,ford,Bohušovice nad Ohří,1
+UNKNOWN,ford,Kroměříž,1
+UNKNOWN,ford,Šumperk,1
+UNKNOWN,ford,Opava,1
+UNKNOWN,ford,Znojmo,1
+UNKNOWN,ford,Otín u Jindřichova Hradce,1
+UNKNOWN,ford,Praha 9 - Dolní Počernice,1
+UNKNOWN,ford,Nový Jičín,1
+UNKNOWN,ford,Karlovy Vary,1
+UNKNOWN,ford,Cheb,1
+UNKNOWN,ford,České Budějovice,1
+UNKNOWN,ford,Ořech,1
+UNKNOWN,ford,Praha 4,1
+UNKNOWN,ford,Příbram,1
+UNKNOWN,ford,Pardubice,1
+UNKNOWN,ford,Zlín,1
+UNKNOWN,ford,Kladno,1
+UNKNOWN,ford,Pelhřimov,1
+UNKNOWN,ford,Valašské Meziříčí,1
+UNKNOWN,ford,Trutnov,1
+UNKNOWN,ford,Vestec,1
+UNKNOWN,ford,Písek,1
+UNKNOWN,ford,Kolín,1
+UNKNOWN,ford,Třebíč,1
+UNKNOWN,ford,Jihlava,1
+UNKNOWN,ford,Uherské Hradiště,1
+UNKNOWN,ford,Praha 10,1
+UNKNOWN,ford,Praha 10 - Malešice,1
+UNKNOWN,ford,Přerov,1
+UNKNOWN,gbfs,unknown,3064
+SOUTHMORAVIAN,geox,FREEPORT OUTLET,1
+KARLOVARSKY,geox,KARLOVY VARY,2
+PRAHA,geox,PRAHA,3
+PRAHA,geox,PRAHA STERBOHOLY OUTLET,1
+ZLIN,geox,ZLIN,1
+UNKNOWN,goldsgym,Brno,1
+PRAHA,google_offices,Praha 2,1
+PRAHA,hardrock,Prague,1
+UNKNOWN,hilton,unknown,1
+UNKNOWN,hm,Prague,16
+UNKNOWN,hm,Brno,3
+UNKNOWN,hm,Plzen,3
+UNKNOWN,hm,Olomouc,3
+UNKNOWN,hm,Ostrava,4
+UNKNOWN,hm,Zlín,1
+UNKNOWN,hm,Liberec,2
+UNKNOWN,hm,Ústí nad Labem,1
+UNKNOWN,hm,Pardubice,1
+UNKNOWN,hm,Hradec Králové,2
+UNKNOWN,hm,Ceské Budejovice,2
+UNKNOWN,hm,Opava,1
+UNKNOWN,hm,Teplice,1
+UNKNOWN,hm,Frydek-Mistek,1
+UNKNOWN,hm,Decin,1
+UNKNOWN,hm,Kladno,1
+UNKNOWN,hm,Prostejov,1
+UNKNOWN,hm,Přerov,1
+UNKNOWN,hm,Karlovy Vary,1
+PRAHA,hooters,Praha 1,1
+05,hugo_boss,Karlovy Vary,1
+11,hugo_boss,Prague,1
+UNKNOWN,ich_tanke_strom,unknown,1
+UNKNOWN,ikea,Brno-Dolní Herspice,1
+UNKNOWN,ikea,Praha 9-Cerný most,1
+UNKNOWN,ikea,Ostrava-Zábřeh,1
+UNKNOWN,ikea,Praha 5,1
+VYSOCINA,ionity,unknown,2
+CENTRALBOHEMIA,ionity,Okres Praha-Vychod,1
+SOUTHMORAVIAN,ionity,Okres Breclav,1
+CENTRALBOHEMIA,ionity,Okres Beroun,1
+USTECKY,ionity,unknown,1
+CZECHREPUBLIC,jll,Prague,1
+UNKNOWN,jysk,Ostrov nad Ohří,1
+UNKNOWN,jysk,Brandýs nad Labem-Stará Boleslav,1
+UNKNOWN,jysk,Hradec Králové,2
+UNKNOWN,jysk,Vrchlabí,1
+UNKNOWN,jysk,Kutná Hora,1
+UNKNOWN,jysk,Jičín,1
+UNKNOWN,jysk,Olomouc,2
+UNKNOWN,jysk,Mohelnice,1
+UNKNOWN,jysk,Plzeň,3
+UNKNOWN,jysk,Havlíčkův Brod,1
+UNKNOWN,jysk,Vestec,1
+UNKNOWN,jysk,Mladá Boleslav,2
+UNKNOWN,jysk,Ostrava,2
+UNKNOWN,jysk,Vysoké Mýto,1
+UNKNOWN,jysk,České Budějovice,1
+UNKNOWN,jysk,Pardubice,2
+UNKNOWN,jysk,Praha,1
+UNKNOWN,jysk,Rakovník,1
+UNKNOWN,jysk,Zlín,2
+UNKNOWN,jysk,Hranice,1
+UNKNOWN,jysk,Příbram,1
+UNKNOWN,jysk,Vsetín,1
+UNKNOWN,jysk,Praha 10,1
+UNKNOWN,jysk,Staré Město u U. Hradiště,1
+UNKNOWN,jysk,Brno - Vinohrady,1
+UNKNOWN,jysk,Plzeň - Košutka,1
+UNKNOWN,jysk,Litvínov,1
+UNKNOWN,jysk,Praha 9,1
+UNKNOWN,jysk,Plzeň - Doudlevce,1
+UNKNOWN,jysk,Brno,1
+UNKNOWN,jysk,Brno - Bystrc,1
+UNKNOWN,jysk,Šumperk,1
+UNKNOWN,jysk,Kladno,1
+UNKNOWN,jysk,Most,1
+UNKNOWN,jysk,Děčín,1
+UNKNOWN,jysk,Hodonín,1
+UNKNOWN,jysk,Havířov,1
+UNKNOWN,jysk,Ostrava - Třebovice,1
+UNKNOWN,jysk,Klatovy,1
+UNKNOWN,jysk,Ústí nad Orlicí,1
+UNKNOWN,jysk,Karviná,1
+UNKNOWN,jysk,Žďár n. Sázavou,1
+UNKNOWN,jysk,Tábor,1
+UNKNOWN,jysk,Česká Lípa,1
+UNKNOWN,jysk,Žatec,1
+UNKNOWN,jysk,Třebíč - Střítěž,1
+UNKNOWN,jysk,Chrudim,1
+UNKNOWN,jysk,Beroun,1
+UNKNOWN,jysk,České Budějovice 2,1
+UNKNOWN,jysk,Náchod,1
+UNKNOWN,jysk,Liberec XI - Růžodol I,1
+UNKNOWN,jysk,Strakonice,1
+UNKNOWN,jysk,Karlovy Vary - Stará Role,1
+UNKNOWN,jysk,Svitavy,1
+UNKNOWN,jysk,Břeclav,1
+UNKNOWN,jysk,Krnov,1
+UNKNOWN,jysk,"Trmice, Ústí nad Labem",1
+UNKNOWN,jysk,Přerov,1
+UNKNOWN,jysk,Prostějov,1
+UNKNOWN,jysk,Cheb,1
+UNKNOWN,jysk,Praha - Chodov,1
+UNKNOWN,jysk,Frýdek - Místek,1
+UNKNOWN,jysk,Jihlava,1
+UNKNOWN,jysk,Praha 5,1
+UNKNOWN,jysk,Jirkov - Chomutov,1
+UNKNOWN,jysk,Ostrava - Zábřeh,1
+UNKNOWN,jysk,TEPLICE - Řetenice,1
+UNKNOWN,jysk,Brno - Štýřice,1
+UNKNOWN,jysk,Opava,1
+UNKNOWN,jysk,Praha 9 - Černý Most,1
+UNKNOWN,jysk,Praha 4,1
+UNKNOWN,jysk,Orlová,1
+UNKNOWN,jysk,Jindřichův Hradec,1
+UNKNOWN,jysk,Znojmo,1
+UNKNOWN,jysk,Písek,1
+UNKNOWN,jysk,Kolín II,1
+UNKNOWN,jysk,Valašské Meziříčí,1
+UNKNOWN,jysk,Vyškov,1
+UNKNOWN,jysk,Mělník 1,1
+UNKNOWN,jysk,Rumburk,1
+UNKNOWN,jysk,Šenov u Nového Jičína,1
+UNKNOWN,jysk,Litoměřice,1
+UNKNOWN,jysk,Čestlice,1
+UNKNOWN,jysk,Dvůr Králové,1
+UNKNOWN,jysk,Třinec,1
+UNKNOWN,jysk,Český Krumlov,1
+UNKNOWN,jysk,Trutnov,1
+UNKNOWN,jysk,Jablonec n. Nisou,1
+UNKNOWN,jysk,Mariánské Lázně,1
+UNKNOWN,jysk,Praha 5 - Třebonice,1
+UNKNOWN,jysk,Kroměříž,1
+UNKNOWN,jysk,Poděbrady,1
+UNKNOWN,jysk,Lanškroun,1
+UNKNOWN,jysk,Praha 15,1
+UNKNOWN,jysk,Liberec,1
+UNKNOWN,jysk,Bruntál,1
+SOUTHMORAVIAN,kfc_amrest,Znojmo,2
+SOUTHMORAVIAN,kfc_amrest,Ivanovice na Hané,1
+PARDUBICKY,kfc_amrest,Pardubice,2
+ZLIN,kfc_amrest,Uherské Hradiště,1
+UNKNOWN,kfc_amrest,Příšovice,1
+PRAHA,kfc_amrest,Velká Chuchle,1
+CENTRALBOHEMIA,kfc_amrest,Příbram,1
+PRAHA,kfc_amrest,Praha,24
+CENTRALBOHEMIA,kfc_amrest,Mladá Boleslav,2
+PRAHA,kfc_amrest,Praha 5,1
+SOUTHMORAVIAN,kfc_amrest,Brno,7
+KARLOVARSKY,kfc_amrest,Karlovy Vary,1
+USTECKY,kfc_amrest,Ústí nad Labem,2
+CENTRALBOHEMIA,kfc_amrest,Velká Dobrá,1
+KRALOVEHRADECKY,kfc_amrest,Hradec Králové,3
+PLZENSKY,kfc_amrest,Plzeň,7
+JIHOCESKY,kfc_amrest,České Budějovice,3
+CENTRALBOHEMIA,kfc_amrest,Praha,9
+MORAVSKOSLEZSKY,kfc_amrest,Ostrava,6
+USTECKY,kfc_amrest,Most,1
+CENTRALBOHEMIA,kfc_amrest,Loket,1
+JIHOCESKY,kfc_amrest,Strakonice,1
+LIBERECKY,kfc_amrest,Liberec,2
+CENTRALBOHEMIA,kfc_amrest,Trhový Štěpánov,1
+CENTRALBOHEMIA,kfc_amrest,Kladno,1
+MORAVSKOSLEZSKY,kfc_amrest,Opava,2
+SOUTHMORAVIAN,kfc_amrest,Brno-Bystrc,1
+PRAHA,kfc_amrest,Praha 7,1
+CENTRALBOHEMIA,kfc_amrest,Praha 6,1
+JIHOCESKY,kfc_amrest,Tábor,1
+PRAHA,kfc_amrest,Praha 9,1
+ZLIN,kfc_amrest,Zlín,2
+OLOMOUCKY,kfc_amrest,Přerov 1 - Město,1
+VYSOCINA,kfc_amrest,Třebíč,1
+SOUTHMORAVIAN,kfc_amrest,Zálesná Zhoř,1
+CENTRALBOHEMIA,kfc_amrest,Králův Dvůr,1
+KRALOVEHRADECKY,kfc_amrest,Trutnov,1
+SOUTHMORAVIAN,kfc_amrest,Přibyslavice u Velké Bíteše,1
+USTECKY,kfc_amrest,Litoměřice,1
+OLOMOUCKY,kfc_amrest,Olomouc,3
+VYSOCINA,kfc_amrest,Jihlava,2
+USTECKY,kfc_amrest,Děčín,1
+PLZENSKY,kfc_amrest,Rokycany-Borek,1
+SOUTHMORAVIAN,kfc_amrest,Brno venkov,1
+UNKNOWN,kfc_amrest,Liberec,1
+OLOMOUCKY,kfc_amrest,Prostějov,1
+CENTRALBOHEMIA,kfc_amrest,Kolín,1
+ZLIN,kfc_amrest,Valašské Meziříčí,1
+LIBERECKY,kfc_amrest,Jablonec nad Nisou,1
+USTECKY,kfc_amrest,Otvice,1
+USTECKY,kfc_amrest,Teplice,2
+MORAVSKOSLEZSKY,kfc_amrest,Havířov,1
+UNKNOWN,kfc_amrest,Ostrava,1
+CENTRALBOHEMIA,kfc_amrest,Benešov,1
+MORAVSKOSLEZSKY,kfc_amrest,Frýdek-Místek,1
+CENTRALBOHEMIA,kfc_amrest,"odpočívka D11, exit 50",1
+JIHOCESKY,kfc_amrest,Písek,1
+PLZENSKY,kfc_amrest,Klatovy,1
+UNKNOWN,kik,Český Krumlov,1
+UNKNOWN,kik,Trhové Sviny,1
+UNKNOWN,kik,České Budějovice,4
+UNKNOWN,kik,Vodňany,1
+UNKNOWN,kik,Domažlice,1
+UNKNOWN,kik,Strakonice,1
+UNKNOWN,kik,Klatovy,1
+UNKNOWN,kik,Týn nad Vltavou,1
+UNKNOWN,kik,Znojmo,1
+UNKNOWN,kik,Písek,2
+UNKNOWN,kik,Jindřichův Hradec,1
+UNKNOWN,kik,Soběslav,1
+UNKNOWN,kik,Mikulov,1
+UNKNOWN,kik,Přeštice,1
+UNKNOWN,kik,Břeclav,1
+UNKNOWN,kik,Milevsko,1
+UNKNOWN,kik,Tachov,1
+UNKNOWN,kik,Tábor,2
+UNKNOWN,kik,Stribro,1
+UNKNOWN,kik,Nýřany,1
+UNKNOWN,kik,Hustopeče,1
+UNKNOWN,kik,Plzeň Bory,1
+UNKNOWN,kik,Plzeň,5
+UNKNOWN,kik,Hodonín,1
+UNKNOWN,kik,Plzeň Slovany,1
+UNKNOWN,kik,Třešť,1
+UNKNOWN,kik,Třebíč,2
+UNKNOWN,kik,Příbram,3
+UNKNOWN,kik,Třemošná,1
+UNKNOWN,kik,Pelhřimov,1
+UNKNOWN,kik,Mariánské Lázně,1
+UNKNOWN,kik,Rosice u Brna,1
+UNKNOWN,kik,Jihlava,3
+UNKNOWN,kik,Sedlčany,1
+UNKNOWN,kik,Cheb,1
+UNKNOWN,kik,Kyjov,1
+UNKNOWN,kik,Bzenec,1
+UNKNOWN,kik,Brno,5
+UNKNOWN,kik,Brno Nový Lískovec,1
+UNKNOWN,kik,Šlapanice u Brna,1
+UNKNOWN,kik,Velká Bíteš,1
+UNKNOWN,kik,Velké Meziříčí,1
+UNKNOWN,kik,Brno Bystrc,1
+UNKNOWN,kik,Dobříš,1
+UNKNOWN,kik,Bučovice,1
+UNKNOWN,kik,Aš,1
+UNKNOWN,kik,Kuřim,1
+UNKNOWN,kik,Vlašim,1
+UNKNOWN,kik,Uherský Brod,1
+UNKNOWN,kik,Staré Město u Uh.Hradiště,1
+UNKNOWN,kik,Sokolov,1
+UNKNOWN,kik,Havlíčkův Brod,1
+UNKNOWN,kik,Vyškov,1
+UNKNOWN,kik,Beroun,1
+UNKNOWN,kik,Světlá nad Sázavou,1
+UNKNOWN,kik,Blansko,1
+UNKNOWN,kik,Žďár nad Sázavou,1
+UNKNOWN,kik,Karlovy Vary,1
+UNKNOWN,kik,Otrokovice,1
+UNKNOWN,kik,Rakovník,1
+UNKNOWN,kik,Praha 5 Radotín,1
+UNKNOWN,kik,Jesenice u Prahy,1
+UNKNOWN,kik,Kroměříž,1
+UNKNOWN,kik,Ostrov nad Ohří,1
+UNKNOWN,kik,Boskovice,1
+UNKNOWN,kik,Praha 4 Modřany,1
+UNKNOWN,kik,Praha Luka,1
+UNKNOWN,kik,Praha 5 Lužiny,1
+UNKNOWN,kik,Podbořany,1
+UNKNOWN,kik,Praha 5,1
+UNKNOWN,kik,Praha 4,1
+UNKNOWN,kik,Hostivice,1
+UNKNOWN,kik,Praha 4 Háje,1
+UNKNOWN,kik,Kladno,2
+UNKNOWN,kik,Praha Horní Měcholupy,1
+UNKNOWN,kik,Praha 15 Horní Měcholupy,1
+UNKNOWN,kik,Kostelec nad Černými Lesy,1
+UNKNOWN,kik,Praha Skalka,1
+UNKNOWN,kik,Holešov,1
+UNKNOWN,kik,Praha 6,1
+UNKNOWN,kik,Prostějov,2
+UNKNOWN,kik,Praha 9 Dolní Počernice,1
+UNKNOWN,kik,Čáslav,1
+UNKNOWN,kik,Praha 9,1
+UNKNOWN,kik,Úvaly u Prahy,1
+UNKNOWN,kik,Kadaň,1
+UNKNOWN,kik,Žatec,1
+UNKNOWN,kik,Kutná Hora,1
+UNKNOWN,kik,Praha Horní Počernice,1
+UNKNOWN,kik,Šestajovice u Prahy,1
+UNKNOWN,kik,Český Brod,1
+UNKNOWN,kik,Praha 8 Březiněves,1
+UNKNOWN,kik,Přerov,3
+UNKNOWN,kik,Kolín,2
+UNKNOWN,kik,Vsetín,1
+UNKNOWN,kik,Čelákovice,1
+UNKNOWN,kik,Louny,1
+UNKNOWN,kik,Brandýs nad Labem - Stará Boleslav,1
+UNKNOWN,kik,Svitavy,1
+UNKNOWN,kik,Ovčáry u Kolína,1
+UNKNOWN,kik,Olomouc,5
+UNKNOWN,kik,Chrudim,1
+UNKNOWN,kik,Neratovice,1
+UNKNOWN,kik,Moravská Třebová,1
+UNKNOWN,kik,Poděbrady,1
+UNKNOWN,kik,Otvice Jirkov,1
+UNKNOWN,kik,Lysá nad Labem,1
+UNKNOWN,kik,Milovice,1
+UNKNOWN,kik,Pardubice,3
+UNKNOWN,kik,Most,2
+UNKNOWN,kik,Vysoké Mýto,1
+UNKNOWN,kik,Valašské Meziříčí,1
+UNKNOWN,kik,Hranice,1
+UNKNOWN,kik,Mohelnice,1
+UNKNOWN,kik,Mělnik,1
+UNKNOWN,kik,Rožnov pod Radhoštem,1
+UNKNOWN,kik,Česká Třebová,1
+UNKNOWN,kik,Roudnice nad Labem,1
+UNKNOWN,kik,Šternberk,1
+UNKNOWN,kik,Choceň,1
+UNKNOWN,kik,Bílina,1
+UNKNOWN,kik,Lanškroun,1
+UNKNOWN,kik,Litvínov,1
+UNKNOWN,kik,Holice,1
+UNKNOWN,kik,Ústí nad Orlicí,1
+UNKNOWN,kik,Zábřeh na Moravě,1
+UNKNOWN,kik,Litoměřice,2
+UNKNOWN,kik,Duchcov,1
+UNKNOWN,kik,Nový Bydžov,1
+UNKNOWN,kik,Nový Jičín,1
+UNKNOWN,kik,Frenštát pod Radhoštěm,1
+UNKNOWN,kik,Hradec Králové,4
+UNKNOWN,kik,Teplice,3
+UNKNOWN,kik,Týniště nad Orlicí,1
+UNKNOWN,kik,Mladá Boleslav,2
+UNKNOWN,kik,Frýdlant nad Ostravicí,1
+UNKNOWN,kik,Trmice Ústí nad Labem,1
+UNKNOWN,kik,Šumperk,1
+UNKNOWN,kik,Krupka,1
+UNKNOWN,kik,Ústí nad Labem,3
+UNKNOWN,kik,Doksy,1
+UNKNOWN,kik,Velké Albrechtice,1
+UNKNOWN,kik,Jičín,1
+UNKNOWN,kik,Frýdek Místek,1
+UNKNOWN,kik,Jaroměř,1
+UNKNOWN,kik,Bruntál,1
+UNKNOWN,kik,Ostrava Dubina,1
+UNKNOWN,kik,Česká Lípa,2
+UNKNOWN,kik,Ostrava,3
+UNKNOWN,kik,Vratimov,1
+UNKNOWN,kik,Třinec,2
+UNKNOWN,kik,Děčín,1
+UNKNOWN,kik,Ostrava Zábřeh,1
+UNKNOWN,kik,Dvůr Králové nad Labem,1
+UNKNOWN,kik,Turnov,1
+UNKNOWN,kik,Ostrava Poruba,1
+UNKNOWN,kik,Ostrava Mariánské Hory,1
+UNKNOWN,kik,Ostrava Moravská,1
+UNKNOWN,kik,Ostrava Karolina,1
+UNKNOWN,kik,Havířov,1
+UNKNOWN,kik,Český Těšín,1
+UNKNOWN,kik,Opava,2
+UNKNOWN,kik,Stráž pod Ralskem,1
+UNKNOWN,kik,Nový Bor,1
+UNKNOWN,kik,Semily,1
+UNKNOWN,kik,Náchod,1
+UNKNOWN,kik,Orlová,1
+UNKNOWN,kik,Bohumín,1
+UNKNOWN,kik,Karviná,1
+UNKNOWN,kik,Jablonec nad Nisou,3
+UNKNOWN,kik,Jesenik,1
+UNKNOWN,kik,Vrchlabí,1
+UNKNOWN,kik,Liberec,3
+UNKNOWN,kik,Liberec XI,1
+UNKNOWN,kik,Trutnov,1
+UNKNOWN,kik,Tanvald,1
+UNKNOWN,kik,Chrastava,1
+UNKNOWN,kik,Hrádek nad Nisou,1
+UNKNOWN,kik,Police nad Metují,1
+UNKNOWN,kik,Rumburk,1
+UNKNOWN,kik,Frýdlant,1
+UNKNOWN,leonidas,Prague 2,2
+UNKNOWN,leonidas,Prague,1
+PRAHA,lhw,Prague,1
+UNKNOWN,lidl_cz,Písek,1
+UNKNOWN,lidl_cz,Sulice,1
+UNKNOWN,lidl_cz,Praha 8,2
+UNKNOWN,lidl_cz,Pardubice,5
+UNKNOWN,lidl_cz,Praha 20,2
+UNKNOWN,lidl_cz,Plzeň,8
+UNKNOWN,lidl_cz,Praha 5,5
+UNKNOWN,lidl_cz,Praha,20
+UNKNOWN,lidl_cz,Praha 9,5
+UNKNOWN,lidl_cz,Mukařov,1
+UNKNOWN,lidl_cz,Rychnov nad Kněžnou,1
+UNKNOWN,lidl_cz,Ostrava,9
+UNKNOWN,lidl_cz,Uničov,1
+UNKNOWN,lidl_cz,Milovice,1
+UNKNOWN,lidl_cz,Slavkov u Brna,1
+UNKNOWN,lidl_cz,Jihlava,3
+UNKNOWN,lidl_cz,Kravaře,1
+UNKNOWN,lidl_cz,Studénka,1
+UNKNOWN,lidl_cz,Svitavy,1
+UNKNOWN,lidl_cz,Ovčáry,1
+UNKNOWN,lidl_cz,Olomouc,6
+UNKNOWN,lidl_cz,Tišnov,1
+UNKNOWN,lidl_cz,Poděbrady,1
+UNKNOWN,lidl_cz,Praha 2,1
+UNKNOWN,lidl_cz,Unhošť,1
+UNKNOWN,lidl_cz,České Budějovice,4
+UNKNOWN,lidl_cz,Česká Lípa,2
+UNKNOWN,lidl_cz,Velká Bíteš,1
+UNKNOWN,lidl_cz,Frenštát pod Radhoštěm,1
+UNKNOWN,lidl_cz,Čelákovice,1
+UNKNOWN,lidl_cz,Kaplice,1
+UNKNOWN,lidl_cz,Brno,15
+UNKNOWN,lidl_cz,Pohořelice,1
+UNKNOWN,lidl_cz,Srubec,1
+UNKNOWN,lidl_cz,Děčín,2
+UNKNOWN,lidl_cz,Zlín,2
+UNKNOWN,lidl_cz,Litomyšl,1
+UNKNOWN,lidl_cz,Chomutov,3
+UNKNOWN,lidl_cz,Polička,1
+UNKNOWN,lidl_cz,Teplice,3
+UNKNOWN,lidl_cz,Hradec Králové,5
+UNKNOWN,lidl_cz,Držovice,1
+UNKNOWN,lidl_cz,Ústí nad Labem,3
+UNKNOWN,lidl_cz,Kladno,4
+UNKNOWN,lidl_cz,Blansko,1
+UNKNOWN,lidl_cz,Jindrichuv Hradec,1
+UNKNOWN,lidl_cz,Mělník,1
+UNKNOWN,lidl_cz,Pelhřimov,1
+UNKNOWN,lidl_cz,Kolín,1
+UNKNOWN,lidl_cz,Kosmonosy,1
+UNKNOWN,lidl_cz,Český Krumlov,1
+UNKNOWN,lidl_cz,Nymburk,1
+UNKNOWN,lidl_cz,Česká Třebová,1
+UNKNOWN,lidl_cz,Brandýs nad Labem,1
+UNKNOWN,lidl_cz,Praha 10,4
+UNKNOWN,lidl_cz,Praha 4,1
+UNKNOWN,lidl_cz,Kadaň,1
+UNKNOWN,lidl_cz,Bílina,1
+UNKNOWN,lidl_cz,Nový Bor,1
+UNKNOWN,lidl_cz,Louny,1
+UNKNOWN,lidl_cz,Cheb,1
+UNKNOWN,lidl_cz,Mariánské Lázně,1
+UNKNOWN,lidl_cz,Slaný,1
+UNKNOWN,lidl_cz,Klášterec nad Ohří,1
+UNKNOWN,lidl_cz,Příbram,1
+UNKNOWN,lidl_cz,Litvínov,1
+UNKNOWN,lidl_cz,Rakovník,1
+UNKNOWN,lidl_cz,Turnov,1
+UNKNOWN,lidl_cz,Sokolov,1
+UNKNOWN,lidl_cz,Dobříš,1
+UNKNOWN,lidl_cz,Liberec,3
+UNKNOWN,lidl_cz,Hostivice,1
+UNKNOWN,lidl_cz,Nový Jičín,1
+UNKNOWN,lidl_cz,Šumperk,1
+UNKNOWN,lidl_cz,Staré Město,1
+UNKNOWN,lidl_cz,Bruntál,1
+UNKNOWN,lidl_cz,Otrokovice,1
+UNKNOWN,lidl_cz,Břeclav,1
+UNKNOWN,lidl_cz,Opava,2
+UNKNOWN,lidl_cz,Hranice,1
+UNKNOWN,lidl_cz,Třinec,1
+UNKNOWN,lidl_cz,Frýdek Místek,2
+UNKNOWN,lidl_cz,Rožnov pod Radhoštěm,1
+UNKNOWN,lidl_cz,Kopřivnice,1
+UNKNOWN,lidl_cz,Hodonín,1
+UNKNOWN,lidl_cz,Přerov,1
+UNKNOWN,lidl_cz,Vsetin,1
+UNKNOWN,lidl_cz,Uherský Brod,1
+UNKNOWN,lidl_cz,Zlin,1
+UNKNOWN,lidl_cz,Zábřeh,1
+UNKNOWN,lidl_cz,Jeseník,1
+UNKNOWN,lidl_cz,Veselí nad Moravou,1
+UNKNOWN,lidl_cz,Jaroměř,1
+UNKNOWN,lidl_cz,Havlíčkův Brod,1
+UNKNOWN,lidl_cz,Rumburk,1
+UNKNOWN,lidl_cz,Lovosice,1
+UNKNOWN,lidl_cz,Vrchlabí,1
+UNKNOWN,lidl_cz,Sušice,1
+UNKNOWN,lidl_cz,Mohelnice,1
+UNKNOWN,lidl_cz,Český Brod,1
+UNKNOWN,lidl_cz,Praha 17,1
+UNKNOWN,lidl_cz,Říčany,1
+UNKNOWN,lidl_cz,Tachov,1
+UNKNOWN,lidl_cz,Tábor,2
+UNKNOWN,lidl_cz,Šternberk,1
+UNKNOWN,lidl_cz,Stříbro,1
+UNKNOWN,lidl_cz,Chodov,1
+UNKNOWN,lidl_cz,Týn nad Vltavou,1
+UNKNOWN,lidl_cz,Kuřim,1
+UNKNOWN,lidl_cz,Lanškroun,1
+UNKNOWN,lidl_cz,Vysoké Mýto,1
+UNKNOWN,lidl_cz,Čáslav,1
+UNKNOWN,lidl_cz,Vimperk,1
+UNKNOWN,lidl_cz,Moravská Třebová,1
+UNKNOWN,lidl_cz,Chlumec nad Cidlinou,1
+UNKNOWN,lidl_cz,Vlašim,1
+UNKNOWN,lidl_cz,Praha 21,1
+UNKNOWN,lidl_cz,Rosice,1
+UNKNOWN,lidl_cz,Chrudim,1
+UNKNOWN,lidl_cz,Roudnice nad Labem,1
+UNKNOWN,lidl_cz,Náchod,1
+UNKNOWN,lidl_cz,Prachatice,1
+UNKNOWN,lidl_cz,Český Těšín,1
+UNKNOWN,lidl_cz,Uherské Hradiště,1
+UNKNOWN,lidl_cz,Praha 14,1
+UNKNOWN,lidl_cz,Karviná,2
+UNKNOWN,lidl_cz,Valašské Meziříčí,1
+UNKNOWN,lidl_cz,Rokycany,1
+UNKNOWN,lidl_cz,Tanvald,1
+UNKNOWN,lidl_cz,Krnov,1
+UNKNOWN,lidl_cz,Praha 11,2
+UNKNOWN,lidl_cz,Humpolec,1
+UNKNOWN,lidl_cz,Boskovice,1
+UNKNOWN,lidl_cz,Mikulov,1
+UNKNOWN,lidl_cz,Varnsdorf,1
+UNKNOWN,lidl_cz,Soběslav,1
+UNKNOWN,lidl_cz,Česká Kamenice,1
+UNKNOWN,lidl_cz,Doksy,1
+UNKNOWN,lidl_cz,Aš,1
+UNKNOWN,lidl_cz,Blatná,1
+UNKNOWN,lidl_cz,Frýdlant v Čechách,1
+UNKNOWN,lidl_cz,Jičín,1
+UNKNOWN,lidl_cz,Praha 16,1
+UNKNOWN,lidl_cz,Hlinsko v Čechách,1
+UNKNOWN,lidl_cz,Nové Město na Moravě,1
+UNKNOWN,lidl_cz,Třemošná,1
+UNKNOWN,lidl_cz,Žďár nad Sázavou,1
+UNKNOWN,lidl_cz,Hořovice,1
+UNKNOWN,lidl_cz,Hořice,1
+UNKNOWN,lidl_cz,Nová Paka,1
+UNKNOWN,lidl_cz,Holice,1
+UNKNOWN,lidl_cz,Třebíč,2
+UNKNOWN,lidl_cz,Bohumín,1
+UNKNOWN,lidl_cz,Ostrov nad Ohří,1
+UNKNOWN,lidl_cz,Sedlčany,1
+UNKNOWN,lidl_cz,Holešov,1
+UNKNOWN,lidl_cz,Lety u Dobřichovic,1
+UNKNOWN,lidl_cz,Planá u Mariánských Lázní,1
+UNKNOWN,lidl_cz,Žatec,1
+UNKNOWN,lidl_cz,Kyjov,1
+UNKNOWN,lidl_cz,Nýřany,1
+UNKNOWN,lidl_cz,Karlovy Vary,2
+UNKNOWN,lidl_cz,Votice,1
+UNKNOWN,lidl_cz,Týnec nad Sázavou,1
+UNKNOWN,lidl_cz,Jesenice u Prahy,1
+UNKNOWN,lidl_cz,Holýšov,1
+UNKNOWN,lidl_cz,Železný Brod,1
+UNKNOWN,lidl_cz,Ústí nad Orlicí,1
+UNKNOWN,lidl_cz,Choceň,1
+UNKNOWN,lidl_cz,Nové Strašecí,1
+UNKNOWN,lidl_cz,Štětí,1
+UNKNOWN,lidl_cz,Znojmo,2
+UNKNOWN,lidl_cz,Jablonec nad Nisou,1
+UNKNOWN,lidl_cz,Lipník nad Bečvou,1
+UNKNOWN,lidl_cz,Dačice,1
+UNKNOWN,lidl_cz,Semily,1
+UNKNOWN,lidl_cz,Rudná u Prahy,1
+UNKNOWN,lidl_cz,Františkovy Lázně,1
+UNKNOWN,lidl_cz,Broumov,1
+UNKNOWN,lidl_cz,Trhové Sviny,1
+UNKNOWN,lidl_cz,Napajedla,1
+UNKNOWN,lidl_cz,Valašské Klobouky,1
+UNKNOWN,lidl_cz,Duchcov,1
+UNKNOWN,lidl_cz,Bučovice,1
+UNKNOWN,lidl_cz,Vítkov,1
+UNKNOWN,lidl_cz,Dobruška,1
+UNKNOWN,lidl_cz,Bystřice pod Hostýnem,1
+UNKNOWN,lidl_cz,Nový Bydžov,1
+UNKNOWN,lidl_cz,Rýmařov,1
+UNKNOWN,lidl_cz,Hustopeče,1
+UNKNOWN,lidl_cz,Orlová,1
+UNKNOWN,lidl_cz,Litoměřice,1
+UNKNOWN,lidl_cz,Nehvizdy,1
+UNKNOWN,lidl_cz,Zdiby,1
+UNKNOWN,lidl_cz,Beroun,1
+UNKNOWN,lidl_cz,Hlučín,1
+UNKNOWN,lidl_cz,Prostějov,2
+UNKNOWN,lidl_cz,Klatovy,1
+UNKNOWN,lidl_cz,Strakonice I,1
+UNKNOWN,lidl_cz,Mladá Boleslav,1
+UNKNOWN,lidl_cz,Most,2
+UNKNOWN,lidl_cz,Neratovice,1
+UNKNOWN,lidl_cz,Kroměříž,1
+UNKNOWN,lidl_cz,Horoměřice,1
+UNKNOWN,lidl_cz,Vyškov,1
+UNKNOWN,lidl_cz,Praha 12,1
+UNKNOWN,lidl_cz,Benešov,1
+UNKNOWN,lidl_cz,Kralupy nad Vltavou,1
+UNKNOWN,lidl_cz,Mnichovo Hradiště,1
+UNKNOWN,lidl_cz,Havířov,2
+UNKNOWN,lidl_cz,Trutnov,1
+UNKNOWN,lidl_cz,Sviadnov,1
+UNKNOWN,lidl_cz,Benátky nad Jizerou,1
+UNKNOWN,lidl_cz,Praha 7,1
+UNKNOWN,lidl_cz,Praha 17-Řepy,1
+UNKNOWN,longchamp,PRAHA,3
+UNKNOWN,longchamp,CESKY KRUMLOV,1
+UNKNOWN,man_truck_and_bus,Prerov,1
+UNKNOWN,man_truck_and_bus,Zlin,1
+UNKNOWN,man_truck_and_bus,Velka Bites,2
+UNKNOWN,man_truck_and_bus,Chotoviny,1
+UNKNOWN,man_truck_and_bus,Chomutov,1
+UNKNOWN,man_truck_and_bus,Ceske Budejovice,1
+UNKNOWN,man_truck_and_bus,Přestanov,1
+UNKNOWN,man_truck_and_bus,Třemošná,1
+UNKNOWN,man_truck_and_bus,Praha 5,1
+UNKNOWN,man_truck_and_bus,Strakonice,1
+UNKNOWN,man_truck_and_bus,Prosimerice,1
+UNKNOWN,man_truck_and_bus,Sedlnice,2
+UNKNOWN,man_truck_and_bus,Hradec Kralove,1
+UNKNOWN,man_truck_and_bus,Cestlice,1
+UNKNOWN,man_truck_and_bus,Zabreh,1
+UNKNOWN,man_truck_and_bus,Tisnov,1
+UNKNOWN,man_truck_and_bus,Rousínov,2
+UNKNOWN,man_truck_and_bus,Zbuzany,1
+UNKNOWN,man_truck_and_bus,Knezmost,1
+UNKNOWN,man_truck_and_bus,Jenisov,1
+UNKNOWN,man_truck_and_bus,Humpolec,1
+UNKNOWN,man_truck_and_bus,Ostrava,1
+UNKNOWN,man_truck_and_bus,Postřižín,2
+UNKNOWN,man_truck_and_bus,Liberec,1
+UNKNOWN,man_truck_and_bus,Plzeň,1
+PRAHA,marks_and_spencer,Praha 1,1
+CENTRALBOHEMIA,marks_and_spencer,Praha 4,1
+PRAHA,marks_and_spencer,PRAGUE,1
+UNKNOWN,marriott,Brno,1
+UNKNOWN,marriott,Plzen,1
+UNKNOWN,marriott,Prague,3
+UNKNOWN,maserati,BRNO-IVANOVICE,1
+UNKNOWN,maserati,PRAGUE 6,1
+UNKNOWN,mcdonalds_cz,Brno,6
+UNKNOWN,mcdonalds_cz,Brno-Ivanovice,1
+UNKNOWN,mcdonalds_cz,České Budějovice,3
+UNKNOWN,mcdonalds_cz,Cheb,1
+UNKNOWN,mcdonalds_cz,Měřín,1
+UNKNOWN,mcdonalds_cz,Velké Meziříčí,1
+UNKNOWN,mcdonalds_cz,Tvarožná,1
+UNKNOWN,mcdonalds_cz,Praha 4 - Újezd,1
+UNKNOWN,mcdonalds_cz,Čestlice,1
+UNKNOWN,mcdonalds_cz,Bravantice,1
+UNKNOWN,mcdonalds_cz,Čechtice,1
+UNKNOWN,mcdonalds_cz,Praha 9 - Horní Počernice,1
+UNKNOWN,mcdonalds_cz,Benátky nad Jizerou,1
+UNKNOWN,mcdonalds_cz,Vrbová Lhota,1
+UNKNOWN,mcdonalds_cz,Osice,1
+UNKNOWN,mcdonalds_cz,Mitrovice,1
+UNKNOWN,mcdonalds_cz,Litovel - Unčovice,1
+UNKNOWN,mcdonalds_cz,Rudná u Prahy,2
+UNKNOWN,mcdonalds_cz,Rozvadov,1
+UNKNOWN,mcdonalds_cz,Dobrá,1
+UNKNOWN,mcdonalds_cz,Lovosice,1
+UNKNOWN,mcdonalds_cz,Děčín,1
+UNKNOWN,mcdonalds_cz,Frýdek-Místek,1
+UNKNOWN,mcdonalds_cz,Teplice,1
+UNKNOWN,mcdonalds_cz,Havířov,1
+UNKNOWN,mcdonalds_cz,Hradec Králové,4
+UNKNOWN,mcdonalds_cz,Jihlava,2
+UNKNOWN,mcdonalds_cz,Jindřichův Hradec,1
+UNKNOWN,mcdonalds_cz,Karlovy Vary,2
+UNKNOWN,mcdonalds_cz,Kladno,1
+UNKNOWN,mcdonalds_cz,Kolín,1
+UNKNOWN,mcdonalds_cz,Liberec,2
+UNKNOWN,mcdonalds_cz,Liberec (Růžodol 11),1
+UNKNOWN,mcdonalds_cz,Litvínov 1,1
+UNKNOWN,mcdonalds_cz,Mladá Boleslav,2
+UNKNOWN,mcdonalds_cz,Most,2
+UNKNOWN,mcdonalds_cz,Olomouc,3
+UNKNOWN,mcdonalds_cz,Opava - Kateřinky,1
+UNKNOWN,mcdonalds_cz,Opava,1
+UNKNOWN,mcdonalds_cz,Ostrava - Poruba,1
+UNKNOWN,mcdonalds_cz,Ostrava,3
+UNKNOWN,mcdonalds_cz,Ostrava - Zábřeh,1
+UNKNOWN,mcdonalds_cz,Pardubice,2
+UNKNOWN,mcdonalds_cz,Písek,1
+UNKNOWN,mcdonalds_cz,Plzeň,5
+UNKNOWN,mcdonalds_cz,Plzeň-Černice,1
+UNKNOWN,mcdonalds_cz,Praha,5
+UNKNOWN,mcdonalds_cz,Praha 5,6
+UNKNOWN,mcdonalds_cz,Praha 4,6
+UNKNOWN,mcdonalds_cz,Praha 3- Žižkov,1
+UNKNOWN,mcdonalds_cz,Praha 9,6
+UNKNOWN,mcdonalds_cz,Praha 7-Holešovice,1
+UNKNOWN,mcdonalds_cz,Praha 8 - Ďáblice,1
+UNKNOWN,mcdonalds_cz,Praha 10 - Vršovice,1
+UNKNOWN,mcdonalds_cz,Praha 10,2
+UNKNOWN,mcdonalds_cz,Praha 6,2
+UNKNOWN,mcdonalds_cz,Praha 8,2
+UNKNOWN,mcdonalds_cz,Praha 2,1
+UNKNOWN,mcdonalds_cz,Praha 1,5
+UNKNOWN,mcdonalds_cz,Praha 7,1
+UNKNOWN,mcdonalds_cz,Praha 15,1
+UNKNOWN,mcdonalds_cz,Prostějov,1
+UNKNOWN,mcdonalds_cz,Stehelčeves,1
+UNKNOWN,mcdonalds_cz,Tábor,1
+UNKNOWN,mcdonalds_cz,Teplice - Trnovany,1
+UNKNOWN,mcdonalds_cz,Ústí nad Labem,1
+UNKNOWN,mcdonalds_cz,Zlín,3
+UNKNOWN,mcdonalds_cz,Znojmo,1
+VYSOČINA,mercedes_benz,Jihlava,2
+ÚSTECKÝ,mercedes_benz,Ústí nad Labem,1
+MORAVSKOSLEZSKÝKRAJ,mercedes_benz,Opava,1
+MORAVSKOSLEZSKÝKRAJ,mercedes_benz,Moravská Ostrava a Přívoz,1
+STŘEDOČESKÝ,mercedes_benz,Rakovník,2
+ÚSTECKÝ,mercedes_benz,Bílina,1
+HLAVNÍMĚSTOPRAHA,mercedes_benz,Praha,3
+LIBERECKÝ,mercedes_benz,Liberec,1
+HLAVNÍMĚSTOPRAHA,mercedes_benz,Praha - Stodůlky,1
+HLAVNÍMĚSTOPRAHA,mercedes_benz,Praha - Chodov,1
+ČESKÁREPUBLIKA,mercedes_benz,Zlín - Prštné,1
+JIHOČESKÝKRAJ,mercedes_benz,České Budějovice - Litvínovice,1
+PARDUBICKÝKRAJ,mercedes_benz,Pardubice VII -Rosice,1
+KRÁLOVEHRADECKÝ,mercedes_benz,Hradec Králové,1
+JIHOMORAVSKÝKRAJ,mercedes_benz,Brno - Židenice,1
+MORAVSKOSLEZSKÝ,mercedes_benz,Ostrava - Vítkovice,1
+OLOMOUCKÝ,mercedes_benz,Olomouc,1
+JIHOMORAVSKÝKRAJ,mercedes_benz,Brno - Dolní Heršpice,1
+PARDUBICKÝ,mercedes_benz,Svitavy - Lačnov,1
+KARLOVARSKÝ,mercedes_benz,Jenišov,1
+STŘEDOČESKÝ,mercedes_benz,Zápy,1
+PLZEŇSKÝKRAJ,mercedes_benz,Plzeň,1
+PRAHA,meta,Praha 1,1
+UNKNOWN,michaelkors,Praha,2
+UNKNOWN,michaelkors,Prague,4
+UNKNOWN,mol,Dolní Bousov,1
+UNKNOWN,mol,Chotýčany u Českých Budějovic,2
+UNKNOWN,mol,Frenštát pod Radhoštěm,1
+UNKNOWN,mol,Zbiroh,1
+UNKNOWN,mol,Praha 6 - Vokovice,1
+UNKNOWN,mol,Štěchovice,1
+UNKNOWN,mol,Dobříš,2
+UNKNOWN,mol,Kladno - Kročehlavy,1
+UNKNOWN,mol,Praha 3 - Žižkov,1
+UNKNOWN,mol,Lipůvka,1
+UNKNOWN,mol,Chýnov,1
+UNKNOWN,mol,Poříčany,1
+UNKNOWN,mol,Jihlava,1
+UNKNOWN,mol,Chlebovice,2
+UNKNOWN,mol,Prostějov,1
+UNKNOWN,mol,Pelhřimov,1
+UNKNOWN,mol,Olomouc - Hodolany,2
+UNKNOWN,mol,Praha 9,1
+UNKNOWN,mol,Nové Hrady,1
+UNKNOWN,mol,Louny,1
+UNKNOWN,mol,Borovany,1
+UNKNOWN,mol,Studená,1
+UNKNOWN,mol,Libochovice,1
+UNKNOWN,mol,Janovice nad Úhlavou,1
+UNKNOWN,mol,Prachatice,1
+UNKNOWN,mol,Františkovy Lázně,1
+UNKNOWN,mol,Mimoň,1
+UNKNOWN,mol,Chrást u Tišic,1
+UNKNOWN,mol,Hradec nad Moravicí,1
+UNKNOWN,mol,Děčín - Boletice nad Labem,1
+UNKNOWN,mol,Šluknov,2
+UNKNOWN,mol,Nalžovské Hory,1
+UNKNOWN,mol,Brno - Nový Lískovec,1
+UNKNOWN,mol,Rychnov u Jablonce nad Nisou,1
+UNKNOWN,mol,Tasovice,1
+UNKNOWN,mol,Hrádek nad Nisou,1
+UNKNOWN,mol,Stráž nad Nisou,1
+UNKNOWN,mol,Vrchlabí,2
+UNKNOWN,mol,Obrataň,1
+UNKNOWN,mol,Znojmo,1
+UNKNOWN,mol,Hranice,1
+UNKNOWN,mol,Bořislav,1
+UNKNOWN,mol,Pardubice,1
+UNKNOWN,mol,Velký Osek,1
+UNKNOWN,mol,Frýdek-Místek,1
+UNKNOWN,mol,Stráž nad Nežárkou,1
+UNKNOWN,mol,Brno,4
+UNKNOWN,mol,Valašská Polanka,1
+UNKNOWN,mol,Herálec,1
+UNKNOWN,mol,Brodce nad Jizerou,2
+UNKNOWN,mol,Trutnov,1
+UNKNOWN,mol,Cheb,1
+UNKNOWN,mol,Teplice,1
+UNKNOWN,mol,Česká Kubice,2
+UNKNOWN,mol,Příbor,2
+UNKNOWN,mol,Děčín,1
+UNKNOWN,mol,Plzeň - Plaská,1
+UNKNOWN,mol,Chomutov,4
+UNKNOWN,mol,Dolní Zálezly,1
+UNKNOWN,mol,Aš,1
+UNKNOWN,mol,Praha 10 - Štěrboholy,3
+UNKNOWN,mol,Kladno,2
+UNKNOWN,mol,Praha 10,1
+UNKNOWN,mol,Rozvadov,1
+UNKNOWN,mol,Kolín,2
+UNKNOWN,mol,Jablonec nad Nisou,2
+UNKNOWN,mol,Písek,2
+UNKNOWN,mol,Kaplice,2
+UNKNOWN,mol,Ostrava - Poruba,1
+UNKNOWN,mol,Unčovice,1
+UNKNOWN,mol,Praha 4,2
+UNKNOWN,mol,Přelouč,1
+UNKNOWN,mol,Jablonec nad Jizerou,1
+UNKNOWN,mol,Praha 5,2
+UNKNOWN,mol,Chrastava,1
+UNKNOWN,mol,Ostrava - Výškovice,1
+UNKNOWN,mol,Ivanovice na Hané,1
+UNKNOWN,mol,Přerov,4
+UNKNOWN,mol,Most,1
+UNKNOWN,mol,Desná,1
+UNKNOWN,mol,Starý Plzenec,1
+UNKNOWN,mol,Ostrava - Vítkovice,3
+UNKNOWN,mol,Most - Velebudice,1
+UNKNOWN,mol,Ústí nad Labem,3
+UNKNOWN,mol,Třinec,1
+UNKNOWN,mol,Sedlec - Prčice,1
+UNKNOWN,mol,Bílina,1
+UNKNOWN,mol,Ostrava - Přívoz,1
+UNKNOWN,mol,Zdiby,1
+UNKNOWN,mol,Liberec,2
+UNKNOWN,mol,Telnice,2
+UNKNOWN,mol,Litoměřice,1
+UNKNOWN,mol,Lovosice,1
+UNKNOWN,mol,Kuks,1
+UNKNOWN,mol,Stonařov,1
+UNKNOWN,mol,Příbram,1
+UNKNOWN,mol,Jeseník - Bukovice,1
+UNKNOWN,mol,Kraslice,1
+UNKNOWN,mol,Neratovice,1
+UNKNOWN,mol,Nymburk,1
+UNKNOWN,mol,Dvůr Králové nad Labem,1
+UNKNOWN,mol,Benátky nad Jizerou,1
+UNKNOWN,mol,Jablonné v Podještědí,1
+UNKNOWN,mol,Plzeň - Doudlevce,1
+UNKNOWN,mol,Šumperk,2
+UNKNOWN,mol,Jindřichův Hradec,1
+UNKNOWN,mol,Napajedla,1
+UNKNOWN,mol,Hrušovany nad Jevišovkou,1
+UNKNOWN,mol,Mariánské Lázně,1
+UNKNOWN,mol,Dubá,1
+UNKNOWN,mol,Sedlčany,1
+UNKNOWN,mol,Staňkov - Vránov,1
+UNKNOWN,mol,Jesenice u Rakovníka,1
+UNKNOWN,mol,Brno - Královo Pole,1
+UNKNOWN,mol,Teplice - Třešňovka,1
+UNKNOWN,mol,České Budějovice,3
+UNKNOWN,mol,Řevničov,1
+UNKNOWN,mol,Český Brod,1
+UNKNOWN,mol,Jičín,1
+UNKNOWN,mol,Praha 7 - Holešovice,1
+UNKNOWN,mol,Pasohlávky,1
+UNKNOWN,mol,Sezimovo Ústí,1
+UNKNOWN,mol,Nové Strašecí,1
+UNKNOWN,mol,Pardubice - Dubina,1
+UNKNOWN,mol,Slaný,2
+UNKNOWN,mol,Nový Bor,1
+UNKNOWN,mol,Praha 9 - Hloubětín,1
+UNKNOWN,mol,Praha 10 - Zahradní město,1
+UNKNOWN,mol,Hoštka,1
+UNKNOWN,mol,Oseček,1
+UNKNOWN,mol,Kosmonosy,1
+UNKNOWN,mol,Velké Pavlovice,1
+UNKNOWN,mol,Praha 10 - Vršovice,2
+UNKNOWN,mol,Roztoky u Prahy,1
+UNKNOWN,mol,Praha 6 - Liboc,1
+UNKNOWN,mol,Praha 4 - Chodov,2
+UNKNOWN,mol,Praha 10 - Bohdalec,1
+UNKNOWN,mol,Praha 4 - Kunratice,1
+UNKNOWN,mol,Dolní Jirčany,1
+UNKNOWN,mol,Litomyšl,1
+UNKNOWN,mol,Libiš - okr. Mělník,1
+UNKNOWN,mol,Brno - Líšeň,1
+UNKNOWN,mol,Praha 4 - Šeberov,1
+UNKNOWN,mol,Praha 5 - Barrandov,1
+UNKNOWN,mol,Praha 6,1
+UNKNOWN,mol,Havířov,1
+UNKNOWN,mol,Praha 2 - Vinohrady,1
+UNKNOWN,mol,Mikulov,1
+UNKNOWN,mol,Stříbro,1
+UNKNOWN,mol,Pomezí nad Ohří,2
+UNKNOWN,mol,Plzeň,4
+UNKNOWN,mol,Vyškov,2
+UNKNOWN,mol,Praha 9 - Horní Počernice,2
+UNKNOWN,mol,Průhonice,1
+UNKNOWN,mol,Hradec Králové,3
+UNKNOWN,mol,Praha 9 - Černý Most,1
+UNKNOWN,mol,Třebíč - Borovina,1
+UNKNOWN,mol,Velké Meziříčí,2
+UNKNOWN,mol,Horosedly,1
+UNKNOWN,mol,Protivín,1
+UNKNOWN,mol,Veselí nad Lužnicí,1
+UNKNOWN,mol,Praha 8 - Kobylisy,1
+UNKNOWN,mol,Praha 9 - Malešice,1
+UNKNOWN,mol,Ostrava - Svinov,1
+UNKNOWN,mol,Lipník nad Bečvou,1
+UNKNOWN,mol,Kutná Hora - Šipší,1
+UNKNOWN,mol,Habartov,1
+UNKNOWN,mol,Ostrov nad Ohří,1
+UNKNOWN,mol,Nebanice okr. Cheb,1
+UNKNOWN,mol,Plzeň - Vejprnice - Lesní zátiší,1
+UNKNOWN,mol,Kynšperk nad Ohří,1
+UNKNOWN,mol,Plzeň - Košutka,1
+UNKNOWN,mol,Horní Bříza,1
+UNKNOWN,mol,Nový Žďár u Aše,1
+UNKNOWN,mol,Rožmitál pod Třemšínem,1
+UNKNOWN,mol,Brandýs nad Labem,1
+UNKNOWN,mol,Holice v Čechách,1
+UNKNOWN,mol,Ostrava,1
+UNKNOWN,mol,K. Vary - Drahovice,1
+UNKNOWN,mol,Břeclav,1
+UNKNOWN,mol,Plzeň 4 - Východní Předměstí,1
+UNKNOWN,mol,Podbořany,1
+UNKNOWN,mol,Karlovy Vary,1
+UNKNOWN,mol,Praha 2 - Nusle,1
+UNKNOWN,mol,Hevlín,1
+UNKNOWN,mol,Hořovice,2
+UNKNOWN,mol,Město Albrechtice,1
+UNKNOWN,mol,Strážný,1
+UNKNOWN,mol,Klíčany - Vodochody,1
+UNKNOWN,mol,Velké Popovice,1
+UNKNOWN,mol,Chocerady,1
+UNKNOWN,mol,Brno - Černovice,1
+UNKNOWN,mol,Střítěž u Jihlavy,1
+UNKNOWN,mol,Přimda,1
+UNKNOWN,mol,Český Těšín,1
+UNKNOWN,mol,Zlín - Prštné,1
+UNKNOWN,mol,Praha 5 - Zbraslav,1
+UNKNOWN,mol,Králův Dvůr,1
+UNKNOWN,mol,Velké Němčice,2
+UNKNOWN,mol,Mohelnice,1
+UNKNOWN,mol,Praha 9 - Běchovice,1
+UNKNOWN,mol,Ostrava-Muglinov,1
+UNKNOWN,mol,Skrbeň,1
+UNKNOWN,mol,Sadská,2
+UNKNOWN,mol,Kamenice nad Lipou,1
+UNKNOWN,mol,Bruntál,1
+UNKNOWN,mol,Olomouc - Holice,1
+UNKNOWN,mol,Bystřice nad Pernštejnem,1
+UNKNOWN,mol,Kolín IV,1
+UNKNOWN,mol,Praha 10 - Hostivař,1
+UNKNOWN,mol,Pardubice - Svitkov,1
+UNKNOWN,mol,Kopřivnice,1
+UNKNOWN,mol,Nový Jičín,1
+UNKNOWN,mol,Praha 8 - Střížkov,2
+UNKNOWN,mol,Kunovice,1
+UNKNOWN,mol,Český Krumlov,2
+UNKNOWN,mol,Praha 10 - Strašnice,1
+UNKNOWN,mol,Praha 4 - Podolí,1
+UNKNOWN,mol,Holice,1
+UNKNOWN,mol,Troubsko u Brna,1
+UNKNOWN,mol,Rokycany,1
+UNKNOWN,mol,Bystřice nad Olší,1
+UNKNOWN,mol,Zábřeh,1
+UNKNOWN,mol,Vyškov - Pustiměř,1
+UNKNOWN,mol,Ostrava - Mariánské Hory,1
+UNKNOWN,mol,Havlíčkův Brod,1
+UNKNOWN,mol,Opava - Jaktař,1
+UNKNOWN,mol,Ostrava - Zábřeh,1
+UNKNOWN,mol,Komárov,1
+UNKNOWN,mol,Karlštejn,1
+UNKNOWN,mol,Mirošov,1
+UNKNOWN,mol,Brno - Řečkovice,1
+UNKNOWN,mol,Křemže,1
+UNKNOWN,mol,Praha 3,1
+UNKNOWN,mol,Sázava - Černé Budy,1
+UNKNOWN,mol,Trhové Sviny,1
+UNKNOWN,mol,Frýdek Místek,1
+UNKNOWN,mol,Břasy,1
+UNKNOWN,mol,Třebíč,1
+UNKNOWN,mol,Chrudim,1
+UNKNOWN,mol,Milovice,1
+UNKNOWN,mol,Polešovice,1
+UNKNOWN,mol,Břežany,1
+UNKNOWN,mol,Kolín - Zálabí,1
+UNKNOWN,mol,Přerov nad Labem,1
+UNKNOWN,mol,Bzenec,1
+UNKNOWN,mol,Vlašim,1
+UNKNOWN,moneygram,PRAHA,22
+UNKNOWN,moneygram,KARLOVY VARY,4
+UNKNOWN,moneygram,NEW YORK,1
+UNKNOWN,moneygram,ZAPY-BRANDYS AND LABEM,1
+UNKNOWN,moneygram,NYMBURK,1
+UNKNOWN,moneygram,KRALUPY NAD VLTAVOU,1
+UNKNOWN,moneygram,JAROMER,1
+UNKNOWN,moneygram,RAKOVNIK,1
+UNKNOWN,moneygram,PLZEN - VYCHODNI PREDMESTI,1
+UNKNOWN,moneygram,PLZEN,4
+UNKNOWN,moneygram,CESKE BUDEJOVICE - CESKE BUDEJOVICE 2,1
+UNKNOWN,moneygram,PLZE - JINI PEDMSTI,1
+UNKNOWN,moneygram,BRNO,7
+UNKNOWN,moneygram,PRAHA 1 - NOVE MESTO,1
+UNKNOWN,moneygram,PRAHA 1 - JOSEFOV,1
+UNKNOWN,moneygram,DECIN V,1
+UNKNOWN,moneygram,TREBIC,1
+UNKNOWN,moneygram,BEROUN,1
+UNKNOWN,moneygram,ROKYCANY,1
+UNKNOWN,moneygram,DVUR KRALOVE NAD LABEM,1
+UNKNOWN,moneygram,JABLONEC NAD NISOU,1
+UNKNOWN,moneygram,PRIBRAM,1
+UNKNOWN,moneygram,TACHOV,2
+UNKNOWN,moneygram,VARNSDORF,1
+UNKNOWN,moneygram,VLASIM,1
+UNKNOWN,moneygram,ZATEC,1
+UNKNOWN,moneygram,CESKY KRUMLOV,2
+UNKNOWN,moneygram,PRAHA 1 NOVE MESTO,1
+UNKNOWN,moneygram,BENESOV,1
+UNKNOWN,moneygram,DECIN,2
+UNKNOWN,moneygram,KLATOVY,1
+UNKNOWN,moneygram,KRALUV DVUR,1
+UNKNOWN,moneygram,LITOMERICE,1
+UNKNOWN,moneygram,BOR,1
+UNKNOWN,moneygram,PRAHA 1,1
+UNKNOWN,moneygram,AR NAD SAZAVOU,1
+UNKNOWN,moneygram,CHEB,2
+UNKNOWN,moneygram,CHOMUTOV,1
+UNKNOWN,moneygram,ESKE BUDJOVICE,4
+UNKNOWN,moneygram,HRADEC KRALOVE,2
+UNKNOWN,moneygram,HRANICE,1
+UNKNOWN,moneygram,JIHLAVA,2
+UNKNOWN,moneygram,KLADNO,3
+UNKNOWN,moneygram,KOLIN,1
+UNKNOWN,moneygram,LIBEREC,3
+UNKNOWN,moneygram,MLADA BOLESLAV,3
+UNKNOWN,moneygram,OLOMOUC,1
+UNKNOWN,moneygram,OPAVA,3
+UNKNOWN,moneygram,OSTRAVA,2
+UNKNOWN,moneygram,PARDUBICE,3
+UNKNOWN,moneygram,PISEK,1
+UNKNOWN,moneygram,PLZE,1
+UNKNOWN,moneygram,PREROV,1
+UNKNOWN,moneygram,PROSTEJOV,1
+UNKNOWN,moneygram,SLANY,1
+UNKNOWN,moneygram,USTI NAD LABEM,3
+UNKNOWN,moneygram,ZLIN,1
+UNKNOWN,moneygram,ZNOJMO,1
+UNKNOWN,moneygram,HAVLICKUV BROD,1
+UNKNOWN,moneygram,MOST,1
+UNKNOWN,moneygram,TABOR,1
+UNKNOWN,moneygram,TRUTNOV,1
+UNKNOWN,moneygram,JINDRICHUV HRADEC,1
+UNKNOWN,moneygram,KUTNA HORA,1
+UNKNOWN,moneygram,UNICOV,1
+UNKNOWN,moneygram,PRAGUE,2
+UNKNOWN,moneygram,PRAHA 5,1
+UNKNOWN,moneygram,BENATKA NAD JIZEROU,1
+UNKNOWN,moneygram,NACHOD,1
+UNKNOWN,moneygram,KAMIENICE,1
+UNKNOWN,moneygram,DOLNI MCHOLUPY,1
+UNKNOWN,moneygram,PLZE 3,1
+UNKNOWN,moneygram,USTI NAD LABEM - SEVERNI TERASA,1
+UNKNOWN,moneygram,VYKOV,1
+UNKNOWN,moneygram,SUSICE,1
+UNKNOWN,moneygram,SOKOLOV,1
+UNKNOWN,moneygram,LOUNY,1
+UNKNOWN,moneygram,CESKA TREBOVA,1
+UNKNOWN,moneygram,VESTEC,1
+UNKNOWN,moneygram,HRADEK NAD NISOU,1
+UNKNOWN,national,Prague,2
+UNKNOWN,newyorker,Brünn,1
+UNKNOWN,newyorker,Praha,10
+UNKNOWN,newyorker,Plzeň,1
+UNKNOWN,newyorker,Pilzen,1
+UNKNOWN,newyorker,Olomouc,3
+UNKNOWN,newyorker,Karlovy Vary,2
+UNKNOWN,newyorker,Zlin,1
+UNKNOWN,newyorker,Mladá Boleslav,1
+UNKNOWN,newyorker,Trutnov,1
+UNKNOWN,newyorker,Hradec Králové,2
+UNKNOWN,newyorker,Brno,3
+UNKNOWN,newyorker,Ostrava,4
+UNKNOWN,newyorker,Písek,1
+UNKNOWN,newyorker,Havířov,1
+UNKNOWN,newyorker,Opava,2
+UNKNOWN,newyorker,Karviná,1
+UNKNOWN,newyorker,Tábor,1
+UNKNOWN,newyorker,Jihlava,1
+UNKNOWN,newyorker,Příbram,1
+UNKNOWN,newyorker,Kolín,1
+UNKNOWN,newyorker,Most,1
+UNKNOWN,newyorker,Teplice,2
+UNKNOWN,newyorker,Liberec,2
+UNKNOWN,newyorker,Ceské Budejovice,2
+UNKNOWN,newyorker,Ústí nad Labem,1
+UNKNOWN,newyorker,Znojmo,1
+UNKNOWN,newyorker,Kladno,1
+UNKNOWN,newyorker,Frydek-Mistek,1
+UNKNOWN,newyorker,Zlin-Malenovice,1
+UNKNOWN,newyorker,Přerov,1
+UNKNOWN,newyorker,Hradec Kralove,1
+UNKNOWN,newyorker,Jablonec nad Nisou,1
+UNKNOWN,newyorker,Trebic,1
+UNKNOWN,newyorker,Pardubice,1
+UNKNOWN,newyorker,Decin,1
+UNKNOWN,newyorker,Cheb,1
+UNKNOWN,newyorker,Mlada Boleslav,1
+UNKNOWN,newyorker,Otvice,1
+UNKNOWN,nike,Brno,1
+UNKNOWN,nike,Prague,1
+UNKNOWN,nike,Tuchomerice,1
+PRAGUE,nike,Zlicin,1
+UNKNOWN,obi_eu,Cheb,1
+UNKNOWN,obi_eu,Česká Lípa,1
+UNKNOWN,obi_eu,Brno,1
+UNKNOWN,obi_eu,Zlín-Malenovice,1
+UNKNOWN,obi_eu,Ústí nad Labem – Trmice,1
+UNKNOWN,obi_eu,Trutnov,1
+UNKNOWN,obi_eu,Teplice,1
+UNKNOWN,obi_eu,Prostějov,1
+UNKNOWN,obi_eu,Příbram,1
+UNKNOWN,obi_eu,Přerov,1
+UNKNOWN,obi_eu,Praha – Štěrboholy,1
+UNKNOWN,obi_eu,Praha – Ruzyně,1
+UNKNOWN,obi_eu,Praha – Roztyly,1
+UNKNOWN,obi_eu,Praha - Modřany,1
+UNKNOWN,obi_eu,Praha,1
+UNKNOWN,obi_eu,Plzeň – Jižní předměstí,1
+UNKNOWN,obi_eu,Písek,1
+UNKNOWN,obi_eu,Ostrava – Zábřeh,1
+UNKNOWN,obi_eu,Opava,1
+UNKNOWN,obi_eu,Olomouc,1
+UNKNOWN,obi_eu,Most,1
+UNKNOWN,obi_eu,Mladá Boleslav,1
+UNKNOWN,obi_eu,Litoměřice,1
+UNKNOWN,obi_eu,Králův Dvůr,1
+UNKNOWN,obi_eu,Kolín,1
+UNKNOWN,obi_eu,Klatovy,1
+UNKNOWN,obi_eu,Karlovy Vary,1
+UNKNOWN,obi_eu,Jihlava,1
+UNKNOWN,obi_eu,Jablonec nad Nisou,1
+UNKNOWN,obi_eu,Hradec Králové,1
+UNKNOWN,obi_eu,Havířov,1
+UNKNOWN,obi_eu,Frýdek Místek,1
+UNKNOWN,obi_eu,unknown,1
+UNKNOWN,omv,Brno,6
+UNKNOWN,omv,Hodonín,1
+UNKNOWN,omv,Dolní Kralovice,1
+UNKNOWN,omv,Praha,1
+UNKNOWN,omv,Praha 4,9
+UNKNOWN,omv,Kladruby,1
+UNKNOWN,omv,Olomouc,4
+UNKNOWN,omv,Slezská Ostrava,1
+UNKNOWN,omv,Orlová,1
+UNKNOWN,omv,Mladá Boleslav,3
+UNKNOWN,omv,Kroměříž,1
+UNKNOWN,omv,Hnanice,1
+UNKNOWN,omv,Praha 10,3
+UNKNOWN,omv,Zalužany,1
+UNKNOWN,omv,Kladno,2
+UNKNOWN,omv,Uherský Brod,1
+UNKNOWN,omv,Hranice,1
+UNKNOWN,omv,Benešov,2
+UNKNOWN,omv,Vyškov,2
+UNKNOWN,omv,Žďár nad Sázavou,1
+UNKNOWN,omv,Přeštice,1
+UNKNOWN,omv,Kolín,1
+UNKNOWN,omv,Senohraby,2
+UNKNOWN,omv,Jihlava,2
+UNKNOWN,omv,Hradec Králové,2
+UNKNOWN,omv,Brno-Tuřany,1
+UNKNOWN,omv,Vrbová Lhota,1
+UNKNOWN,omv,Praha 8,1
+UNKNOWN,omv,Beroun,3
+UNKNOWN,omv,Příbram,2
+UNKNOWN,omv,Pávov,1
+UNKNOWN,omv,Prostějov-Žešov,1
+UNKNOWN,omv,Praha 5,6
+UNKNOWN,omv,Poděbrady,1
+UNKNOWN,omv,Praha 9-Újezd nad Lesy,1
+UNKNOWN,omv,Praha 4-Lhotka,1
+UNKNOWN,omv,"Siřejovice, sm. Teplice",1
+UNKNOWN,omv,Praha 7,1
+UNKNOWN,omv,Lednice,1
+UNKNOWN,omv,Draženov,1
+UNKNOWN,omv,Sokolov,1
+UNKNOWN,omv,Praha 6,1
+UNKNOWN,omv,Prostějov,1
+UNKNOWN,omv,Vodochody,1
+UNKNOWN,omv,Tvarožná,1
+UNKNOWN,omv,Mariánské Lázně,1
+UNKNOWN,omv,Moravská Třebová,1
+UNKNOWN,omv,Chocerady,1
+UNKNOWN,omv,Havlíčkův Brod,2
+UNKNOWN,omv,Klimkovice,1
+UNKNOWN,omv,Chraštice,1
+UNKNOWN,omv,Česká Třebová,1
+UNKNOWN,omv,Uherské Hradiště,1
+UNKNOWN,omv,Nýrsko,1
+UNKNOWN,omv,Pardubice,1
+UNKNOWN,omv,Praha 8-Karlín,1
+UNKNOWN,omv,Plzeň,3
+UNKNOWN,omv,Uničov,1
+UNKNOWN,omv,Teplice Prosetice,1
+UNKNOWN,omv,Hlinsko,1
+UNKNOWN,omv,Praha 9,1
+UNKNOWN,omv,Zlín - Louky,1
+UNKNOWN,omv,Jihlava - Pávov,1
+UNKNOWN,omv,Herálec,1
+UNKNOWN,omv,Praha 9-Kbely,1
+UNKNOWN,omv,Kolešov u Rakovníka,1
+UNKNOWN,omv,České Budějovice,2
+UNKNOWN,omv,Praha 6-Řepy,1
+UNKNOWN,omv,Karlovy Vary,3
+UNKNOWN,omv,Praha 3,1
+UNKNOWN,omv,Chvalovice,1
+UNKNOWN,omv,Bruntál,1
+UNKNOWN,omv,Boží Dar,1
+UNKNOWN,omv,Písek,1
+UNKNOWN,omv,Blansko,1
+UNKNOWN,omv,Ostrava Kunčice,1
+UNKNOWN,omv,Napajedla,1
+UNKNOWN,omv,Třinec,1
+UNKNOWN,omv,Brno-venkov,2
+UNKNOWN,omv,Svitavy,1
+UNKNOWN,omv,Brno-město,2
+UNKNOWN,omv,Český Krumlov,1
+UNKNOWN,omv,Havířov,1
+UNKNOWN,omv,Starý Hrozenkov,1
+UNKNOWN,omv,Boskovice,1
+UNKNOWN,omv,Rožnov pod Radhoštěm,1
+UNKNOWN,omv,Zlín,1
+UNKNOWN,omv,Znojmo,1
+UNKNOWN,omv,Lužice,1
+UNKNOWN,omv,Ostrava,1
+UNKNOWN,omv,Frýdek-Místek,2
+UNKNOWN,omv,Rozvadov,1
+UNKNOWN,omv,Praha 8-Prosek,1
+UNKNOWN,omv,Strakonice,1
+UNKNOWN,omv,Kopřivnice,1
+USTECKY,orlen,Plavy,1
+UNKNOWN,orlen,Kudowa-Zdrój,2
+PRAHA,orlen,Praha,3
+JIHOCESKY,orlen,Katovice,2
+PRAHA,orlen,Praha 4,1
+KRALOVEHRADECKY,orlen,Dvůr Králové nad Labem,1
+USTECKY,orlen,Kadaň,1
+PRAHA,orlen,Praha 9,4
+VYSOCINA,orlen,Habry,1
+SOUTHMORAVIAN,orlen,Čebín,1
+CENTRALBOHEMIA,orlen,Kolín,1
+PARDUBICKY,orlen,Lhota pod Libčany,1
+PRAHA,orlen,Praha  9 – Horní Počernice,1
+UNKNOWN,orlen,Kostelec nad Orlicí,1
+JIHOCESKY,orlen,Tábor,2
+UNKNOWN,orlen,Černožice nad Labem,1
+USTECKY,orlen,Česká Kamenice,1
+JIHOCESKY,orlen,Stožec,1
+PLZENSKY,orlen,Tachov,3
+JIHOCESKY,orlen,Písek,2
+PLZENSKY,orlen,Klatovy,4
+KRALOVEHRADECKY,orlen,Sadová,1
+CENTRALBOHEMIA,orlen,Mělník,1
+KRALOVEHRADECKY,orlen,Trutnov,3
+CENTRALBOHEMIA,orlen,Jesenice,1
+JIHOCESKY,orlen,České Budějovice,2
+VYSOCINA,orlen,Brtnice,1
+KRALOVEHRADECKY,orlen,Jičín,3
+VYSOCINA,orlen,Třešť,1
+JIHOCESKY,orlen,Soběslav,2
+UNKNOWN,orlen,Ostrava,4
+MORAVSKOSLEZSKY,orlen,Krnov,1
+USTECKY,orlen,Chomutov,4
+USTECKY,orlen,Litvínov,4
+MORAVSKOSLEZSKY,orlen,Ostrava,5
+USTECKY,orlen,Dubí,2
+ZLIN,orlen,Opava,2
+MORAVSKOSLEZSKY,orlen,Opava,4
+KARLOVARSKY,orlen,Cheb,4
+ZLIN,orlen,Holešov,3
+KARLOVARSKY,orlen,Staré Sedlo,1
+SOUTHMORAVIAN,orlen,Brno,11
+SOUTHMORAVIAN,orlen,Znojmo,2
+LIBERECKY,orlen,Liberec,2
+OLOMOUCKY,orlen,Holešov,2
+UNKNOWN,orlen,Nový Bor,2
+SOUTHMORAVIAN,orlen,Rosice,1
+OLOMOUCKY,orlen,Mohelnice,3
+USTECKY,orlen,Teplice,2
+PARDUBICKY,orlen,Ústí nad Orlicí,1
+PARDUBICKY,orlen,Chrudim,2
+USTECKY,orlen,Ústí nad Labem,4
+USTECKY,orlen,Žatec,2
+USTECKY,orlen,Most,3
+USTECKY,orlen,Louny,1
+SOUTHMORAVIAN,orlen,Bantice,1
+OLOMOUCKY,orlen,Šumperk,2
+PARDUBICKY,orlen,Hlinsko,1
+USTECKY,orlen,Hora Svatého Šebestiána,1
+PARDUBICKY,orlen,Svitavy,1
+USTECKY,orlen,Nieprzypisane,1
+KRALOVEHRADECKY,orlen,Slaná,1
+PARDUBICKY,orlen,Polička,1
+CENTRALBOHEMIA,orlen,Čáslav,1
+OLOMOUCKY,orlen,Karviná,1
+CENTRALBOHEMIA,orlen,Miličín,2
+CENTRALBOHEMIA,orlen,Nieprzypisane,3
+JIHOCESKY,orlen,Hluboká nad Vltavou,1
+UNKNOWN,orlen,Vsetín,1
+PLZENSKY,orlen,Kralovice,1
+KARLOVARSKY,orlen,Bochov,1
+JIHOCESKY,orlen,Milevsko,1
+CENTRALBOHEMIA,orlen,Dobřichovice,1
+KARLOVARSKY,orlen,Bečov nad Teplou,1
+LIBERECKY,orlen,Chrastava,1
+USTECKY,orlen,Bílina,2
+JIHOCESKY,orlen,Moravské Budějovice,1
+JIHOCESKY,orlen,Český Krumlov,1
+KRALOVEHRADECKY,orlen,Železný Brod,1
+MORAVSKOSLEZSKY,orlen,Rožnov pod Radhoštěm,2
+CENTRALBOHEMIA,orlen,Říčany,1
+VYSOCINA,orlen,Humpolec,2
+USTECKY,orlen,Praha 10,2
+KARLOVARSKY,orlen,Karlovy Vary,1
+CENTRALBOHEMIA,orlen,Mladá Boleslav,2
+SOUTHMORAVIAN,orlen,Telč,1
+USTECKY,orlen,Mimoň,1
+JIHOCESKY,orlen,Strakonice,2
+KARLOVARSKY,orlen,Kraslice,1
+SOUTHMORAVIAN,orlen,Stará Ves nad Ondřejnicí,1
+KRALOVEHRADECKY,orlen,Jaroměř,1
+ZLIN,orlen,Kroměříž,1
+VYSOCINA,orlen,Kostelec nad Orlicí,1
+ZLIN,orlen,Fulnek,1
+PLZENSKY,orlen,Nieprzypisane,2
+KRALOVEHRADECKY,orlen,Nieprzypisane,2
+PLZENSKY,orlen,Frýdlant nad Ostravicí,1
+VYSOCINA,orlen,Třebíč,1
+UNKNOWN,orlen,Pardubice,1
+USTECKY,orlen,Neratovice,1
+CENTRALBOHEMIA,orlen,Nymburk,1
+JIHOCESKY,orlen,Nieprzypisane,1
+JIHOCESKY,orlen,Vodňany,1
+CENTRALBOHEMIA,orlen,Louny,1
+OLOMOUCKY,orlen,Prostějov,1
+USTECKY,orlen,Roudnice nad Labem,1
+CENTRALBOHEMIA,orlen,Praha 9,3
+PRAHA,orlen,Bystřice,1
+PLZENSKY,orlen,Plzeň,6
+VYSOCINA,orlen,Dačice,1
+CENTRALBOHEMIA,orlen,Velká Dobrá,2
+JIHOCESKY,orlen,Stříbro,1
+PARDUBICKY,orlen,Frýdlant,1
+ZLIN,orlen,Uničov,1
+UNKNOWN,orlen,Doksy,1
+MORAVSKOSLEZSKY,orlen,Olomouc,1
+UNKNOWN,orlen,Krásná Lípa,1
+CENTRALBOHEMIA,orlen,Slaný,1
+OLOMOUCKY,orlen,Zlín,2
+PLZENSKY,orlen,Lnáře,1
+MORAVSKOSLEZSKY,orlen,Valašské Meziříčí,1
+KRALOVEHRADECKY,orlen,Nové Město nad Metují,1
+PRAHA,orlen,Praha 6,1
+PARDUBICKY,orlen,Rychnov nad Kněžnou,1
+LIBERECKY,orlen,Česká Lípa,1
+CENTRALBOHEMIA,orlen,Velvary,1
+JIHOCESKY,orlen,Vyšší Brod,1
+OLOMOUCKY,orlen,Valašské Klobouky,1
+JIHOCESKY,orlen,Frymburk,1
+PARDUBICKY,orlen,Osice,1
+SOUTHMORAVIAN,orlen,Boskovice,1
+JIHOCESKY,orlen,Velká nad Veličkou,1
+CENTRALBOHEMIA,orlen,Praha 6,2
+PLZENSKY,orlen,Dobřany,1
+SOUTHMORAVIAN,orlen,Rousínov,1
+SOUTHMORAVIAN,orlen,Mikulov,1
+PRAHA,orlen,Nieprzypisane,2
+SOUTHMORAVIAN,orlen,Hrušovany nad Jevišovkou,1
+PRAHA,orlen,Panenský Týnec,1
+PRAHA,orlen,Drahelčice,1
+OLOMOUCKY,orlen,Ostrava,2
+USTECKY,orlen,Úštěk,1
+MORAVSKOSLEZSKY,orlen,Česká Ves,1
+PLZENSKY,orlen,Volary,1
+CENTRALBOHEMIA,orlen,Přerov,1
+USTECKY,orlen,Jablonné v Podještědí,1
+CENTRALBOHEMIA,orlen,Kralupy nad Vltavou,1
+ZLIN,orlen,Valtice,1
+PLZENSKY,orlen,Domažlice,1
+PLZENSKY,orlen,Blovice,1
+PLZENSKY,orlen,Horažďovice,1
+JIHOCESKY,orlen,Vimperk,1
+KRALOVEHRADECKY,orlen,Turnov,1
+CENTRALBOHEMIA,orlen,Zruč nad Sázavou,1
+SOUTHMORAVIAN,orlen,Břeclav,1
+CENTRALBOHEMIA,orlen,Čelákovice,1
+PLZENSKY,orlen,Klenčí pod Čerchovem,1
+UNKNOWN,orlen,Kojetín,1
+LIBERECKY,orlen,Chlumec nad Cidlinou,1
+PARDUBICKY,orlen,Velká Bíteš,1
+SOUTHMORAVIAN,orlen,Bavory,1
+PLZENSKY,orlen,Sušice,1
+CENTRALBOHEMIA,orlen,Benešov,1
+PLZENSKY,orlen,Přeštice,1
+LIBERECKY,orlen,Štětí,1
+SOUTHMORAVIAN,orlen,Tišnov,1
+PLZENSKY,orlen,Železná Ruda,1
+MORAVSKOSLEZSKY,orlen,Velké Losiny,1
+CENTRALBOHEMIA,orlen,Příbram,2
+PLZENSKY,orlen,Rokycany,1
+KRALOVEHRADECKY,orlen,Česká Skalice,1
+VYSOCINA,orlen,Týniště nad Orlicí,1
+ZLIN,orlen,Krnov,1
+LIBERECKY,orlen,Mělník,1
+PARDUBICKY,orlen,Náchod,1
+USTECKY,orlen,Kostelec nad Černými lesy,1
+UNKNOWN,orlen,Studénka,1
+PLZENSKY,orlen,Třemošná,1
+JIHOCESKY,orlen,Suchdol nad Lužnicí,1
+CENTRALBOHEMIA,orlen,Smečno,1
+JIHOCESKY,orlen,Trhové Sviny,1
+KRALOVEHRADECKY,orlen,Nový Bydžov,1
+CENTRALBOHEMIA,orlen,Plzeň,1
+KRALOVEHRADECKY,orlen,Harrachov,1
+USTECKY,orlen,Rakovník,2
+VYSOCINA,orlen,Žamberk,1
+MORAVSKOSLEZSKY,orlen,Vrbno pod Pradědem,1
+CENTRALBOHEMIA,orlen,Český Brod,1
+ZLIN,orlen,Frýdlant nad Ostravicí,1
+CENTRALBOHEMIA,orlen,Nové Strašecí,1
+UNKNOWN,orlen,Olomouc,1
+JIHOCESKY,orlen,Třeboň,1
+KARLOVARSKY,orlen,Toužim,1
+CENTRALBOHEMIA,orlen,Dobříš,1
+JIHOCESKY,orlen,Hradec nad Svitavou,1
+KRALOVEHRADECKY,orlen,Přelouč,1
+CENTRALBOHEMIA,orlen,Úvaly,1
+SOUTHMORAVIAN,orlen,Blansko,1
+SOUTHMORAVIAN,orlen,Starovičky,1
+VYSOCINA,orlen,Pardubice,1
+PARDUBICKY,orlen,Třebechovice pod Orebem,1
+JIHOCESKY,orlen,Nová Bystřice,1
+SOUTHMORAVIAN,orlen,Nieprzypisane,1
+USTECKY,orlen,Jirkov,1
+PLZENSKY,orlen,Orlík nad Vltavou,1
+UNKNOWN,orlen,Šluknov,1
+KARLOVARSKY,orlen,Františkovy Lázně,1
+PARDUBICKY,orlen,Hradec Králové,1
+UNKNOWN,orlen,Nieprzypisane,1
+JIHOCESKY,orlen,Jindřichův Hradec,1
+PLZENSKY,orlen,Přimda,1
+LIBERECKY,orlen,Siřejovice,1
+PARDUBICKY,orlen,Králíky,1
+KRALOVEHRADECKY,orlen,Vrchlabí,1
+VYSOCINA,orlen,Znojmo,1
+ZLIN,orlen,Nieprzypisane,2
+UNKNOWN,orlen,Frýdlant nad Ostravicí,1
+SOUTHMORAVIAN,orlen,Přibyslavice,1
+ZLIN,orlen,Slušovice,1
+CENTRALBOHEMIA,orlen,Sedlčany,1
+PLZENSKY,orlen,Nezvěstice,1
+ZLIN,orlen,Kyjov,1
+VYSOCINA,orlen,Vysoké Mýto,1
+VYSOCINA,orlen,Havlíčkův Brod,1
+CENTRALBOHEMIA,orlen,Praha 4,1
+VYSOCINA,orlen,Žďár nad Sázavou,2
+PARDUBICKY,orlen,Ždírec nad Doubravou,1
+JIHOCESKY,orlen,Prachatice,2
+USTECKY,orlen,Liběchov,1
+KARLOVARSKY,orlen,Nieprzypisane,1
+CENTRALBOHEMIA,orlen,Praha 7,1
+PLZENSKY,orlen,Stod,1
+USTECKY,orlen,Jablonec nad Nisou,1
+LIBERECKY,orlen,Rumburk,1
+CENTRALBOHEMIA,orlen,Rudná,1
+OLOMOUCKY,orlen,Hulín,1
+CENTRALBOHEMIA,orlen,Litoměřice,1
+SOUTHMORAVIAN,orlen,Velké Meziříčí,1
+UNKNOWN,orlen,Odry,1
+MORAVSKOSLEZSKY,orlen,Kelč,1
+ZLIN,orlen,Napajedla,1
+USTECKY,orlen,Klášterec nad Ohří,1
+LIBERECKY,orlen,Svoboda nad Úpou,1
+SOUTHMORAVIAN,orlen,Jihlava,2
+PARDUBICKY,orlen,Nová Paka,1
+CENTRALBOHEMIA,orlen,Líšnice,1
+OLOMOUCKY,orlen,Zábřeh,1
+JIHOCESKY,orlen,Protivín,1
+ZLIN,orlen,Nový Jičín,1
+UNKNOWN,orlen,Český Těšín,1
+KARLOVARSKY,orlen,Nejdek,1
+PLZENSKY,orlen,Kaznějov,1
+PARDUBICKY,orlen,Hořice,1
+KARLOVARSKY,orlen,Ostrov,1
+PARDUBICKY,orlen,Dobruška,1
+PRAHA,orlen,Praha 3,2
+VYSOCINA,orlen,Telč,1
+UNKNOWN,orlen,Nové Město na Moravě,1
+UNKNOWN,orlen,Hradec Králové,2
+UNKNOWN,orlen,Frýdek-Místek,1
+ZLIN,orlen,Mikulov,1
+SOUTHMORAVIAN,orlen,Náměšť nad Oslavou,1
+CENTRALBOHEMIA,orlen,Kutná Hora,1
+PLZENSKY,orlen,Kdyně,1
+USTECKY,orlen,Liberec,1
+KRALOVEHRADECKY,orlen,Nová Paka,1
+SOUTHMORAVIAN,orlen,Pohořelice,1
+ZLIN,orlen,Vyškov,1
+ZLIN,orlen,Olomouc,1
+JIHOCESKY,orlen,Velešín,1
+KRALOVEHRADECKY,orlen,Rynoltice,1
+JIHOCESKY,orlen,České Velenice,1
+ZLIN,orlen,Bzenec,1
+JIHOCESKY,orlen,Volyně,1
+ZLIN,orlen,Drslavice,1
+UNKNOWN,orlen,Bravantice,1
+LIBERECKY,orlen,Ústí nad Labem,1
+UNKNOWN,orlen,Mnichovo Hradiště,1
+MORAVSKOSLEZSKY,orlen,Bravantice,1
+SOUTHMORAVIAN,orlen,Slavonice,1
+CENTRALBOHEMIA,orlen,Mníšek pod Brdy,1
+SOUTHMORAVIAN,orlen,Dačice,1
+SOUTHMORAVIAN,orlen,Hodějice,1
+PRAHA,orlen,Kolín,1
+CENTRALBOHEMIA,orlen,Česká Kamenice,1
+CENTRALBOHEMIA,orlen,Lovosice,1
+ZLIN,orlen,Bruntál,1
+OLOMOUCKY,orlen,Šternberk,1
+UNKNOWN,orlen,Ústí nad Orlicí,1
+CENTRALBOHEMIA,orlen,Most,1
+VYSOCINA,orlen,Pelhřimov,1
+OLOMOUCKY,orlen,Otrokovice,1
+CENTRALBOHEMIA,orlen,Brandýs nad Labem-Stará Boleslav,1
+CENTRALBOHEMIA,orlen,Roudnice nad Labem,1
+CENTRALBOHEMIA,orlen,Kosmonosy,1
+CENTRALBOHEMIA,orlen,Beroun,1
+CENTRALBOHEMIA,orlen,Sadská,1
+CENTRALBOHEMIA,orlen,Vlašim,1
+PARDUBICKY,orlen,Býšť,1
+PLZENSKY,orlen,Nepomuk,1
+STŘEDOČESKÝKRAJ,penny,Kralupy nad Vltavou,2
+OLOMOUCKÝKRAJ,penny,Přerov,3
+MORAVSKOSLEZSKÝKRAJ,penny,Petřvald,1
+ÚSTECKÝKRAJ,penny,Lovosice,1
+PRAHA,penny,Praha 10 - Zahradní Město,1
+OLOMOUCKÝKRAJ,penny,Olomouc,3
+STŘEDOČESKÝKRAJ,penny,Beroun,2
+PRAHA,penny,Praha 8 - Bohnice,2
+JIHOMORAVSKÝKRAJ,penny,Hodonín,1
+STŘEDOČESKÝKRAJ,penny,Stará Boleslav,1
+STŘEDOČESKÝKRAJ,penny,Pečky,1
+JIHOČESKÝKRAJ,penny,Suchdol nad Lužnicí,1
+MORAVSKOSLEZSKÝKRAJ,penny,Dobrá,1
+ZLÍNSKÝKRAJ,penny,Valašské Meziříčí,1
+PLZEŇSKÝKRAJ,penny,Bor u Tachova,1
+MORAVSKOSLEZSKÝKRAJ,penny,Karviná,2
+STŘEDOČESKÝKRAJ,penny,Čáslav,1
+JIHOČESKÝKRAJ,penny,Třeboň ,1
+PRAHA,penny,Praha 9 - Prosek,2
+STŘEDOČESKÝKRAJ,penny,Nymburk,1
+KRAJVYSOČINA,penny,Jemnice,1
+PRAHA,penny,Praha 4 - Novodvorská,1
+PRAHA,penny,Praha 3 - Žižkov,1
+MORAVSKOSLEZSKÝKRAJ,penny,Frenštát pod Radhoštěm,1
+MORAVSKOSLEZSKÝKRAJ,penny,Hlučín,1
+ZLÍNSKÝKRAJ,penny,Holešov,1
+JIHOMORAVSKÝKRAJ,penny,Ivančice,1
+KRAJVYSOČINA,penny,Velké Meziříčí,2
+MORAVSKOSLEZSKÝKRAJ,penny,Kopřivnice,2
+ZLÍNSKÝKRAJ,penny,Kroměříž,2
+JIHOČESKÝKRAJ,penny,Týn nad Vltavou,1
+ZLÍNSKÝKRAJ,penny,Luhačovice,1
+OLOMOUCKÝKRAJ,penny,Mohelnice,2
+MORAVSKOSLEZSKÝKRAJ,penny,Odry,1
+MORAVSKOSLEZSKÝKRAJ,penny,Rychvald ,1
+PRAHA,penny,Praha 10 - H. Měcholupy,1
+MORAVSKOSLEZSKÝKRAJ,penny,Třinec,2
+OLOMOUCKÝKRAJ,penny,Uničov,1
+OLOMOUCKÝKRAJ,penny,Zábřeh na Moravě,1
+PLZEŇSKÝKRAJ,penny,Blovice,1
+STŘEDOČESKÝKRAJ,penny,Kladno,3
+PRAHA,penny,Praha 9 - Horní Počernice,1
+STŘEDOČESKÝKRAJ,penny,Kladno - Letná,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Vamberk,1
+PRAHA,penny,Praha - Arbesovo nám.,1
+PARDUBICKÝKRAJ,penny,Litomyšl,1
+MORAVSKOSLEZSKÝKRAJ,penny,Jablunkov,1
+PARDUBICKÝKRAJ,penny,Chrudim,2
+STŘEDOČESKÝKRAJ,penny,Lysá nad Labem,2
+PARDUBICKÝKRAJ,penny,Přelouč,1
+JIHOMORAVSKÝKRAJ,penny,Tišnov,1
+STŘEDOČESKÝKRAJ,penny,Vlašim,1
+ZLÍNSKÝKRAJ,penny,Uherský Brod,1
+MORAVSKOSLEZSKÝKRAJ,penny,Fulnek,1
+STŘEDOČESKÝKRAJ,penny,Sedlčany,1
+PRAHA,penny,Praha 4 - Háje ,1
+KRAJVYSOČINA,penny,Světlá nad Sázavou,1
+ZLÍNSKÝKRAJ,penny,Vsetín,1
+PARDUBICKÝKRAJ,penny,Vysoké Mýto,1
+PRAHA,penny,Praha 9 - Letňany,1
+JIHOMORAVSKÝKRAJ,penny,Znojmo,1
+PLZEŇSKÝKRAJ,penny,Holýšov,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Náchod,2
+KRÁLOVÉHRADECKÝKRAJ,penny,Chlumec nad Cidliou,1
+OLOMOUCKÝKRAJ,penny,Šternberk,1
+LIBERECKÝKRAJ,penny,Nový Bor,1
+PRAHA,penny,Praha 4 - Braník,1
+PARDUBICKÝKRAJ,penny,Žamberk,1
+LIBERECKÝKRAJ,penny,Železý Brod,1
+OLOMOUCKÝKRAJ,penny,Litovel,1
+MORAVSKOSLEZSKÝKRAJ,penny,Studénka,1
+MORAVSKOSLEZSKÝKRAJ,penny,Příbor,1
+STŘEDOČESKÝKRAJ,penny,Zásmuky,1
+PLZEŇSKÝKRAJ,penny,Nýřany  ,1
+MORAVSKOSLEZSKÝKRAJ,penny,Ostrava - Slezská,1
+JIHOMORAVSKÝKRAJ,penny,Blansko,1
+JIHOMORAVSKÝKRAJ,penny,Kuřim,1
+JIHOMORAVSKÝKRAJ,penny,Brno - Slatina,1
+JIHOČESKÝKRAJ,penny,České Budějovice,4
+MORAVSKOSLEZSKÝKRAJ,penny,Frýdlant nad Ostravicí,1
+LIBERECKÝKRAJ,penny,Liberec,2
+ÚSTECKÝKRAJ,penny,Kadaň,1
+ÚSTECKÝKRAJ,penny,Teplice,2
+KRAJVYSOČINA,penny,Ždírec nad Doubravou,1
+OLOMOUCKÝKRAJ,penny,Hranice,1
+PLZEŇSKÝKRAJ,penny,Plzeň Slovany,1
+ÚSTECKÝKRAJ,penny,Bílina,1
+ÚSTECKÝKRAJ,penny,Roudnice nad Labem,2
+STŘEDOČESKÝKRAJ,penny,Kolín,3
+JIHOMORAVSKÝKRAJ,penny,Slavkov,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Nové Město nad Metují,1
+ÚSTECKÝKRAJ,penny,Louny,2
+ÚSTECKÝKRAJ,penny,Most ,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Hradec Králové,2
+MORAVSKOSLEZSKÝKRAJ,penny,Ostrava - Poruba,1
+KRAJVYSOČINA,penny,Havlíčkův Brod,2
+STŘEDOČESKÝKRAJ,penny,Příbram,2
+ÚSTECKÝKRAJ,penny,Litvínov,2
+KARLOVARSKÝKRAJ,penny,Sokolov,2
+PLZEŇSKÝKRAJ,penny,Třemošná,1
+STŘEDOČESKÝKRAJ,penny,Slaný,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Jičín,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Jaroměř,2
+ÚSTECKÝKRAJ,penny,Varnsdorf,2
+ÚSTECKÝKRAJ,penny,Chomutov,2
+STŘEDOČESKÝKRAJ,penny,Hořovice,1
+KARLOVARSKÝKRAJ,penny,Ostrov,2
+KRAJVYSOČINA,penny,Pacov,1
+STŘEDOČESKÝKRAJ,penny,Úvaly,1
+KRAJVYSOČINA,penny,Žďár nad Sázavou,2
+KARLOVARSKÝKRAJ,penny,Kraslice,1
+PLZEŇSKÝKRAJ,penny,Plzeň,5
+PARDUBICKÝKRAJ,penny,Hlinsko,1
+PRAHA,penny,Praha 9 - Hloubětín,2
+STŘEDOČESKÝKRAJ,penny,Benátky ad Jizerou,1
+PRAHA,penny,Praha 7 - Holešovice,1
+STŘEDOČESKÝKRAJ,penny,Řevnice,1
+STŘEDOČESKÝKRAJ,penny,Týnec nad Labem,1
+PARDUBICKÝKRAJ,penny,Choceň,1
+JIHOČESKÝKRAJ,penny,Netolice,1
+JIHOMORAVSKÝKRAJ,penny,Brno,2
+JIHOMORAVSKÝKRAJ,penny,Ivanovice na Hané,1
+STŘEDOČESKÝKRAJ,penny,Rožmitál pod Třemšínem,1
+STŘEDOČESKÝKRAJ,penny,Dobrovice,1
+LIBERECKÝKRAJ,penny,Jilemnice,1
+ÚSTECKÝKRAJ,penny,Ústí nad Labem,5
+PRAHA,penny,Praha 4 - Zahradí Město,1
+ÚSTECKÝKRAJ,penny,Žatec,1
+JIHOMORAVSKÝKRAJ,penny,Letovice,1
+STŘEDOČESKÝKRAJ,penny,Mladá Boleslav,3
+LIBERECKÝKRAJ,penny,Jablonec nad Nisou,2
+KARLOVARSKÝKRAJ,penny,Cheb,2
+MORAVSKOSLEZSKÝKRAJ,penny,Ostrava,1
+PRAHA,penny,Praha 4 - Spořilov,1
+KARLOVARSKÝKRAJ,penny,Mariánské Lázně,2
+ZLÍNSKÝKRAJ,penny,Valašské Klobouky,1
+LIBERECKÝKRAJ,penny,Doksy,1
+PARDUBICKÝKRAJ,penny,Svitavy,1
+JIHOMORAVSKÝKRAJ,penny,Brno - Vinohrady,1
+PRAHA,penny,Praha 4 -  Chodov,1
+STŘEDOČESKÝKRAJ,penny,Bradýs nad Labem,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Dvůr Králové,2
+STŘEDOČESKÝKRAJ,penny,Poděbrady,1
+KARLOVARSKÝKRAJ,penny,Karlovy Vary,3
+ÚSTECKÝKRAJ,penny,Krupka,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Rychnov nad Kněžnou,1
+STŘEDOČESKÝKRAJ,penny,Český Brod,1
+LIBERECKÝKRAJ,penny,Chrastava,1
+PRAHA,penny,Praha - Luka,1
+ÚSTECKÝKRAJ,penny,Děčín - Boletice,1
+KRAJVYSOČINA,penny,Přibyslav,1
+ÚSTECKÝKRAJ,penny,Dubí,1
+JIHOMORAVSKÝKRAJ,penny,Újezd u Brna,1
+STŘEDOČESKÝKRAJ,penny,Unhošť,1
+PRAHA,penny,Praha 22 - Uhříněves,1
+STŘEDOČESKÝKRAJ,penny,Odolena Voda,1
+ÚSTECKÝKRAJ,penny,Litoměřice,2
+KRAJVYSOČINA,penny,Třebíč,2
+PRAHA,penny,Praha,2
+KRÁLOVÉHRADECKÝKRAJ,penny,Vrchlabí,2
+KRÁLOVÉHRADECKÝKRAJ,penny,Hradec Králo,1
+PARDUBICKÝKRAJ,penny,Polička,2
+ÚSTECKÝKRAJ,penny,Česká Kamenice,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Nový Bydžov,2
+PARDUBICKÝKRAJ,penny,Holice,1
+JIHOČESKÝKRAJ,penny,Tábor,1
+JIHOMORAVSKÝKRAJ,penny,Brněnská 1898,1
+JIHOČESKÝKRAJ,penny,Třeboň,1
+STŘEDOČESKÝKRAJ,penny,Dobříš,2
+PARDUBICKÝKRAJ,penny,Pardubice,4
+PLZEŇSKÝKRAJ,penny,Planá,1
+ÚSTECKÝKRAJ,penny,Jirkov,2
+LIBERECKÝKRAJ,penny,Hrádek nad Nisou,1
+ÚSTECKÝKRAJ,penny,Teplice - Prosetice,1
+PRAHA,penny,Praha 10,1
+JIHOČESKÝKRAJ,penny,Písek,2
+KRAJVYSOČINA,penny,Moravské Budějovice,1
+KRAJVYSOČINA,penny,Nové Město na Moravě,1
+PRAHA,penny,Praha 4 - Kunratice,1
+PLZEŇSKÝKRAJ,penny,Domažlice,2
+KRÁLOVÉHRADECKÝKRAJ,penny,Hronov,1
+LIBERECKÝKRAJ,penny,Semily,2
+STŘEDOČESKÝKRAJ,penny,Nové Strašecí,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Kostelec nad Orlicí,1
+JIHOČESKÝKRAJ,penny,Hluboká nad Vltavou,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Červený Kostelec,1
+KRAJVYSOČINA,penny,Náměšť nad Oslavou,1
+LIBERECKÝKRAJ,penny,Mimoň,1
+KRAJVYSOČINA,penny,Jihlava,1
+PRAHA,penny,Praha 4 - Modřany,1
+KRAJVYSOČINA,penny,Ledeč nad Sázavou,1
+MORAVSKOSLEZSKÝKRAJ,penny,Ostrava - Vítkovice,1
+KRAJVYSOČINA,penny,Pelhřimov,2
+MORAVSKOSLEZSKÝKRAJ,penny,Vratimov,1
+STŘEDOČESKÝKRAJ,penny,Černošice,1
+PLZEŇSKÝKRAJ,penny,Tachov,1
+MORAVSKOSLEZSKÝKRAJ,penny,Ostrava - Dubina,1
+MORAVSKOSLEZSKÝKRAJ,penny,Kravaře,1
+MORAVSKOSLEZSKÝKRAJ,penny,Opava,1
+JIHOČESKÝKRAJ,penny,Volary,1
+KRAJVYSOČINA,penny,Počátky,1
+JIHOČESKÝKRAJ,penny,Jindřichův Hradec,1
+PRAHA,penny,Praha 5 - Radotín,1
+ZLÍNSKÝKRAJ,penny,Zlín,3
+JIHOČESKÝKRAJ,penny,Strakonice,1
+MORAVSKOSLEZSKÝKRAJ,penny,Bruntál,1
+KARLOVARSKÝKRAJ,penny,Aš,1
+PRAHA,penny,Praha 9 - Újezd nad Lesy,1
+ÚSTECKÝKRAJ,penny,Štětí,1
+LIBERECKÝKRAJ,penny,Frýdlant v Čechách,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Hořice,1
+PLZEŇSKÝKRAJ,penny,Sušice,1
+PARDUBICKÝKRAJ,penny,Lanškroun,1
+JIHOČESKÝKRAJ,penny,Dačice,1
+STŘEDOČESKÝKRAJ,penny,Čelákovice,1
+STŘEDOČESKÝKRAJ,penny,Brandýs nad Labem,1
+ÚSTECKÝKRAJ,penny,Klášterec nad Ohří,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Nová Paka,1
+JIHOMORAVSKÝKRAJ,penny,Rosice,1
+KRAJVYSOČINA,penny,Humpolec,2
+PLZEŇSKÝKRAJ,penny,Rokycany,1
+STŘEDOČESKÝKRAJ,penny,Kutná Hora,1
+ÚSTECKÝKRAJ,penny,Rumburk,1
+LIBERECKÝKRAJ,penny,Česká Lípa,1
+STŘEDOČESKÝKRAJ,penny,Rakovník,1
+KARLOVARSKÝKRAJ,penny,Chodov,1
+JIHOČESKÝKRAJ,penny,Prachatice,1
+PARDUBICKÝKRAJ,penny,Ústí nad Orlicí,1
+JIHOČESKÝKRAJ,penny,Blatná,1
+LIBERECKÝKRAJ,penny,Tanvald,1
+ÚSTECKÝKRAJ,penny,Most,2
+PRAHA,penny,Praha 8 - Kobylisy,1
+JIHOČESKÝKRAJ,penny,Český Krumlov,2
+JIHOČESKÝKRAJ,penny,Vodňany,1
+MORAVSKOSLEZSKÝKRAJ,penny,Frýdek Místek,1
+PARDUBICKÝKRAJ,penny,Moravská Třebová,1
+ÚSTECKÝKRAJ,penny,Duchcov,1
+PLZEŇSKÝKRAJ,penny,Stříbro,1
+STŘEDOČESKÝKRAJ,penny,Mělník,1
+PARDUBICKÝKRAJ,penny,Skuteč,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Trutnov,2
+JIHOČESKÝKRAJ,penny,Milevsko,1
+PLZEŇSKÝKRAJ,penny,Přeštice,1
+PRAHA,penny,Praha 6 - Řepy,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Broumov,1
+JIHOČESKÝKRAJ,penny,Soběslav,1
+STŘEDOČESKÝKRAJ,penny,Benešov,1
+PLZEŇSKÝKRAJ,penny,Dobřany,1
+MORAVSKOSLEZSKÝKRAJ,penny,Vítkov,1
+PLZEŇSKÝKRAJ,penny,Klatovy,1
+KARLOVARSKÝKRAJ,penny,Toužim,1
+PARDUBICKÝKRAJ,penny,Třemošnice,1
+JIHOČESKÝKRAJ,penny,Velešín,1
+LIBERECKÝKRAJ,penny,Cvikov,1
+ZLÍNSKÝKRAJ,penny,Karolinka,1
+STŘEDOČESKÝKRAJ,penny,Zruč nad Sázavou,1
+STŘEDOČESKÝKRAJ,penny,Městec Králové,1
+OLOMOUCKÝKRAJ,penny,Velká Bystřice,1
+MORAVSKOSLEZSKÝKRAJ,penny,Vrbo pod Pradědem,1
+ZLÍNSKÝKRAJ,penny,Rožov pod Radhoštěm,1
+STŘEDOČESKÝKRAJ,penny,Neratovice,1
+JIHOČESKÝKRAJ,penny,Vimperk,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Rychov nad Kěžou,1
+KRAJVYSOČINA,penny,Chotěboř,1
+PRAHA,penny,Praha 12 - Kamýk,1
+PRAHA,penny,Praha - Štěrboholy,1
+KRAJVYSOČINA,penny,Bystřice nad Pernštejem,1
+PRAHA,penny,Praha 4,1
+MORAVSKOSLEZSKÝKRAJ,penny,Rýmařov,1
+ÚSTECKÝKRAJ,penny,Podbořany,1
+JIHOČESKÝKRAJ,penny,Veselí nad Lužnicí,1
+LIBERECKÝKRAJ,penny,Lomnice nad Popelkou,1
+KRAJVYSOČINA,penny,Kamenice nad Lipou,1
+ÚSTECKÝKRAJ,penny,Děčín,1
+STŘEDOČESKÝKRAJ,penny,Kostelec nad Čerými Lesy,1
+JIHOMORAVSKÝKRAJ,penny,Židlochovice,1
+JIHOMORAVSKÝKRAJ,penny,Kyjov,1
+JIHOMORAVSKÝKRAJ,penny,Brno Lesná,1
+STŘEDOČESKÝKRAJ,penny,Březice,1
+ZLÍNSKÝKRAJ,penny,Brumov - Bylnice,1
+OLOMOUCKÝKRAJ,penny,Hanušovice,1
+PARDUBICKÝKRAJ,penny,Jevíčko,1
+JIHOMORAVSKÝKRAJ,penny,Moravský Krumlov,1
+LIBERECKÝKRAJ,penny,Stráž pod Ralskem,1
+ÚSTECKÝKRAJ,penny,Libochovice,1
+JIHOMORAVSKÝKRAJ,penny,Strážnice,1
+JIHOMORAVSKÝKRAJ,penny,Rousínov,1
+KRAJVYSOČINA,penny,Třešť,1
+ÚSTECKÝKRAJ,penny,Teplice ,1
+JIHOMORAVSKÝKRAJ,penny,Břeclav - Charvátská Nová Ves,1
+MORAVSKOSLEZSKÝKRAJ,penny,Ostrava Radvanice,1
+MORAVSKOSLEZSKÝKRAJ,penny,Velké Albrechtice,1
+PLZEŇSKÝKRAJ,penny,Horšovský Týn,1
+ZLÍNSKÝKRAJ,penny,Vizovice,1
+PRAHA,penny,Praha 6 - Terronská,1
+PRAHA,penny,Praha 1 - Staré Město,1
+JIHOČESKÝKRAJ,penny,Borovany,1
+STŘEDOČESKÝKRAJ,penny,Bělá pod Bezdězem,1
+OLOMOUCKÝKRAJ,penny,Šumperk,2
+PLZEŇSKÝKRAJ,penny,Plzeň - Bory,1
+PLZEŇSKÝKRAJ,penny,Stod,1
+MORAVSKOSLEZSKÝKRAJ,penny,Bohumín,1
+STŘEDOČESKÝKRAJ,penny,Hostivice,1
+PRAHA,penny,Praha 10 - Vršovice,1
+STŘEDOČESKÝKRAJ,penny,Mukařov,1
+STŘEDOČESKÝKRAJ,penny,Mníšek pod Brdy,1
+PARDUBICKÝKRAJ,penny,Letohrad,1
+STŘEDOČESKÝKRAJ,penny,Milovice,1
+JIHOMORAVSKÝKRAJ,penny,Veselí nad Moravou,1
+OLOMOUCKÝKRAJ,penny,Lipník ad Bečvou,1
+JIHOČESKÝKRAJ,penny,Kaplice,1
+ZLÍNSKÝKRAJ,penny,Uherské Hradiště,1
+OLOMOUCKÝKRAJ,penny,Prostějov,1
+STŘEDOČESKÝKRAJ,penny,Mělník ,1
+MORAVSKOSLEZSKÝKRAJ,penny,Orlová,1
+STŘEDOČESKÝKRAJ,penny,Mnichovo Hradiště,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Třebechovice,1
+STŘEDOČESKÝKRAJ,penny,Votice,1
+STŘEDOČESKÝKRAJ,penny,Jesenice,1
+PRAHA,penny,Praha Nová Waltrovka,1
+JIHOMORAVSKÝKRAJ,penny,Krumvíř,1
+KRAJVYSOČINA,penny,Polná,1
+PRAHA,penny,Praha Vyšehrad,1
+STŘEDOČESKÝKRAJ,penny,Kostelec nad Labem,1
+LIBERECKÝKRAJ,penny,Turnov,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Hostinné,1
+KARLOVARSKÝKRAJ,penny,Nejdek,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Dobruška,1
+ÚSTECKÝKRAJ,penny,Šluknov,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Police nad Metují,1
+PLZEŇSKÝKRAJ,penny,Kralovice,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Úpice,1
+STŘEDOČESKÝKRAJ,penny,Říčany,1
+JIHOMORAVSKÝKRAJ,penny,Bzenec,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Česká Skalice,1
+JIHOMORAVSKÝKRAJ,penny,Bučovice,1
+PARDUBICKÝKRAJ,penny,Králíky,1
+KRÁLOVÉHRADECKÝKRAJ,penny,Týniště nad Orlicí,1
+PLZEŇSKÝKRAJ,penny,Horažďovice,1
+KARLOVARSKÝKRAJ,penny,Kynšperk,1
+JIHOMORAVSKÝKRAJ,penny,Hustopeče,1
+JIHOMORAVSKÝKRAJ,penny,Břeclav,1
+OLOMOUCKÝKRAJ,penny,Jeseník,1
+UNKNOWN,pepco,unknown,16
+ZLIN,pepco,unknown,6
+CENTRALBOHEMIA,pepco,Okres Praha-Zapad,5
+CENTRALBOHEMIA,pepco,unknown,31
+PARDUBICKY,pepco,Okres Svitavy,3
+MORAVSKOSLEZSKY,pepco,Okres Ostrava-Mesto,6
+OLOMOUCKY,pepco,Okres Prostejov,3
+SOUTHMORAVIAN,pepco,Mesto Brno,6
+SOUTHMORAVIAN,pepco,unknown,15
+SOUTHMORAVIAN,pepco,Okres Breclav,2
+PRAHA,pepco,Praha 8,4
+JIHOCESKY,pepco,Okres Prachatice,2
+PLZENSKY,pepco,Okres Plzen-Mesto,9
+OLOMOUCKY,pepco,Okres Olomouc,6
+PLZENSKY,pepco,Okres Plzen-Jih,1
+USTECKY,pepco,Okres Teplice,2
+JIHOCESKY,pepco,unknown,7
+CENTRALBOHEMIA,pepco,Okres Mlada Boleslav,3
+PARDUBICKY,pepco,Okres Pardubice,4
+SOUTHMORAVIAN,pepco,Okres Blansko,2
+USTECKY,pepco,unknown,6
+CENTRALBOHEMIA,pepco,Okres Nymburk,2
+PRAHA,pepco,Praha 9,5
+ZLIN,pepco,Okres Zlin,4
+SOUTHMORAVIAN,pepco,Okres Vyskov,1
+LIBERECKY,pepco,Okres Semily,1
+KRALOVEHRADECKY,pepco,Okres Rychnov nad Kneznou,1
+PRAHA,pepco,Praha 19,1
+KRALOVEHRADECKY,pepco,unknown,2
+MORAVSKOSLEZSKY,pepco,unknown,8
+CENTRALBOHEMIA,pepco,Okres Kutna Hora,2
+PRAHA,pepco,Praha 14,2
+KRALOVEHRADECKY,pepco,Okres Hradec Kralove,5
+KARLOVARSKY,pepco,Okres Cheb,3
+PLZENSKY,pepco,Okres Klatovy,1
+USTECKY,pepco,Okres Most,4
+LIBERECKY,pepco,Okres Liberec,3
+PRAHA,pepco,unknown,4
+JIHOCESKY,pepco,Okres Pisek,2
+JIHOCESKY,pepco,Okres Jindrichuv Hradec,3
+USTECKY,pepco,Okres Usti nad Labem,3
+CENTRALBOHEMIA,pepco,Okres Kolin,2
+LIBERECKY,pepco,Okres Jablonec nad Nisou,3
+MORAVSKOSLEZSKY,pepco,Okres Frydek-Mistek,5
+CENTRALBOHEMIA,pepco,Okres Pribram,3
+CENTRALBOHEMIA,pepco,Okres Melnik,2
+KRALOVEHRADECKY,pepco,Okres Nachod,2
+OLOMOUCKY,pepco,unknown,4
+VYSOCINA,pepco,Okres Jihlava,3
+USTECKY,pepco,Okres Decin,3
+JIHOCESKY,pepco,Okres Ceske Budejovice,6
+USTECKY,pepco,Okres Louny,1
+LIBERECKY,pepco,Okres Ceska Lipa,2
+KARLOVARSKY,pepco,unknown,3
+KRALOVEHRADECKY,pepco,Okres Trutnov,2
+PRAHA,pepco,Praha 12,1
+USTECKY,pepco,Okres Chomutov,1
+PARDUBICKY,pepco,Okres Usti nad Orlici,2
+OLOMOUCKY,pepco,Okres Sumperk,2
+OLOMOUCKY,pepco,Okres Jesenik,1
+MORAVSKOSLEZSKY,pepco,Okres Bruntal,1
+KARLOVARSKY,pepco,Okres Karlovy Vary,2
+CENTRALBOHEMIA,pepco,Okres Praha-Vychod,1
+PLZENSKY,pepco,Okres Tachov,2
+USTECKY,pepco,Okres Litomerice,1
+MORAVSKOSLEZSKY,pepco,Okres Opava,3
+PLZENSKY,pepco,unknown,4
+PRAHA,pepco,Praha 4,3
+MORAVSKOSLEZSKY,pepco,Okres Novy Jicin,1
+VYSOCINA,pepco,Okres Trebic,1
+VYSOCINA,pepco,unknown,2
+PARDUBICKY,pepco,unknown,4
+JIHOCESKY,pepco,Okres Tabor,3
+PRAHA,pepco,Praha 2,2
+VYSOCINA,pepco,Okres Pelhrimov,1
+MORAVSKOSLEZSKY,pepco,Okres Karvina,3
+PRAHA,pepco,Praha 1,2
+VYSOCINA,pepco,Okres Zd'ar nad Sazavou,2
+CENTRALBOHEMIA,pepco,Okres Kladno,1
+PARDUBICKY,pepco,Okres Chrudim,1
+PRAHA,pepco,Praha 18,1
+CENTRALBOHEMIA,pepco,Okres Beroun,1
+ZLIN,pepco,Okres Uherske Hradiste,2
+ZLIN,pepco,Okres Vsetin,2
+OLOMOUCKY,pepco,Okres Prerov,1
+JIHOCESKY,pepco,Okres Cesky Krumlov,1
+VYSOCINA,pepco,Okres Havlickuv Brod,1
+ZLIN,pepco,Okres Kromeriz,1
+SOUTHMORAVIAN,pepco,Okres Znojmo,1
+CENTRALBOHEMIA,pepco,Okres Benesov,1
+SOUTHMORAVIAN,pepco,Okres Hodonin,1
+UNKNOWN,petit_bateau,Prague,1
+PRAHA,pizza_hut_amrest,Praha,7
+CENTRALBOHEMIA,pizza_hut_amrest,Praha,2
+MORAVSKOSLEZSKY,pizza_hut_amrest,Ostrava,1
+PLZENSKY,pizza_hut_amrest,Plzeň,1
+SOUTHMORAVIAN,pizza_hut_amrest,Brno,1
+USTECKY,pizza_hut_amrest,Ústí nad Labem,1
+LIBERECKY,pizza_hut_amrest,Liberec,1
+UNKNOWN,reebok,Hatě,1
+UNKNOWN,reebok,Praha 10,1
+UNKNOWN,reebok,Brno,1
+UNKNOWN,reebok,Liberec,1
+UNKNOWN,renault,FRÝDEK-MÍSTEK,2
+UNKNOWN,renault,BRANDÝS NAD LABEM,2
+UNKNOWN,renault,Boskovice,2
+UNKNOWN,renault,SLEZSKÁ OSTRAVA,2
+UNKNOWN,renault,ŠUMPERK,2
+UNKNOWN,renault,HLUČÍN,1
+UNKNOWN,renault,PRAHA 10 - MALEŠICE,2
+UNKNOWN,renault,Benešov,2
+UNKNOWN,renault,ČESKÉ BUDĚJOVICE,2
+UNKNOWN,renault,Plzeň,2
+UNKNOWN,renault,ŠENOV U NOVÉHO JIČÍNA,2
+UNKNOWN,renault,Jirkov,2
+UNKNOWN,renault,JABLONEC NAD JIZEROU,1
+UNKNOWN,renault,Tábor,2
+UNKNOWN,renault,CHRUDIM,2
+UNKNOWN,renault,PLZEŇ,2
+UNKNOWN,renault,PARDUBICE,2
+UNKNOWN,renault,PRŮHONICE,2
+UNKNOWN,renault,Uhlirske Janovice,2
+UNKNOWN,renault,PRAHA 5 Zlicin,2
+UNKNOWN,renault,LOUNY,2
+UNKNOWN,renault,KUTNÁ HORA,2
+UNKNOWN,renault,CHEB,2
+UNKNOWN,renault,JINDŘICHŮV HRADEC,2
+UNKNOWN,renault,Humpolec,2
+UNKNOWN,renault,BŘECLAV,2
+UNKNOWN,renault,Uherske Hradiste,2
+UNKNOWN,renault,MILOVICE,2
+UNKNOWN,renault,SVITAVY,2
+UNKNOWN,renault,BRNO - Lesná,2
+UNKNOWN,renault,KROMĚŘÍŽ,2
+UNKNOWN,renault,Brno Modřice,1
+UNKNOWN,renault,HRADEC KRÁLOVÉ,2
+UNKNOWN,renault,Děčín - Bynov,2
+UNKNOWN,renault,Klatovy,2
+UNKNOWN,renault,HODONÍN,2
+UNKNOWN,renault,MOST - Velebudice,2
+UNKNOWN,renault,TRUTNOV,2
+UNKNOWN,renault,Ostrava- Poruba,2
+UNKNOWN,renault,BRNO - Líšeň,2
+UNKNOWN,renault,TŘINEC,2
+UNKNOWN,renault,Velké Meziříčí,2
+UNKNOWN,renault,Mariánské Lázně,2
+UNKNOWN,renault,ZLIN,2
+UNKNOWN,renault,KLADNO,2
+UNKNOWN,renault,VSETÍN,2
+UNKNOWN,renault,KARLOVY VARY,2
+UNKNOWN,renault,Domažlice,2
+UNKNOWN,renault,ÚSTÍ NAD LABEM,2
+UNKNOWN,renault,Znojmo,2
+UNKNOWN,renault,LIBEREC,2
+UNKNOWN,renault,Ostrava - Mariánské Hory,2
+UNKNOWN,renault,DVŮR KRÁLOVÉ NAD LABEM,2
+UNKNOWN,renault,STRAKONICE,2
+UNKNOWN,renault,Melnik,2
+UNKNOWN,renault,Pribram,2
+UNKNOWN,renault,OPAVA,2
+UNKNOWN,renault,PŘEROV,2
+UNKNOWN,renault,HAVLÍČKŮV BROD,2
+UNKNOWN,renault,OLOMOUC,2
+UNKNOWN,rsg_group,Praha,1
+CENTRALBOHEMIA,samsonite_eu,Praha 4,1
+PRAHA,samsonite_eu,Praha 10,1
+UNKNOWN,scania,Brno,1
+UNKNOWN,scania,České Budějovice,1
+UNKNOWN,scania,Cheb,1
+UNKNOWN,scania,Chomutov,1
+UNKNOWN,scania,Domažlice,1
+UNKNOWN,scania,Jíčín,1
+UNKNOWN,scania,Jihlava,1
+UNKNOWN,scania,Kosmonosy,1
+UNKNOWN,scania,Řícany u Prahy,1
+UNKNOWN,scania,Olomouc,1
+UNKNOWN,scania,Paskov,1
+UNKNOWN,scania,Staré Hradiště,1
+UNKNOWN,scania,Plzeň,1
+UNKNOWN,scania,Chrášťany,1
+UNKNOWN,scania,Strakonice,1
+UNKNOWN,scania,Hnojnik,1
+UNKNOWN,scania,Ústi nad Labem,1
+UNKNOWN,scania,Vizovice,1
+MORAVSKOSLEZSKÝKRAJ,shell,CESKY TESIN,1
+MORAVSKOSLEZSKÝKRAJ,shell,TŘÍNEC 9,1
+MORAVSKOSLEZSKÝKRAJ,shell,HAVÍŘOV,1
+MORAVSKOSLEZSKÝKRAJ,shell,NÁVSÍ,1
+MORAVSKOSLEZSKÝKRAJ,shell,FRÝDEK - MÍSTEK,1
+MORAVSKOSLEZSKÝKRAJ,shell,ORLOVÁ - LUTYNĚ,1
+MORAVSKOSLEZSKÝKRAJ,shell,STAŘÍČ,1
+MORAVSKOSLEZSKÝKRAJ,shell,OSTRAVA - VRATIMOV,1
+MORAVSKOSLEZSKÝKRAJ,shell,OSTRAVA - SLEZSKÁ,1
+MORAVSKOSLEZSKÝKRAJ,shell,OSTRAVA - HRABŮVKA,1
+MORAVSKOSLEZSKÝKRAJ,shell,OSTRAVA 1,1
+MORAVSKOSLEZSKÝKRAJ,shell,ČELADNÁ,1
+MORAVSKOSLEZSKÝKRAJ,shell,OSTRAVA - SVINOV,1
+MORAVSKOSLEZSKÝKRAJ,shell,HLUČÍN,1
+JIHOMORAVSKÝKRAJ,shell,HODONÍN,1
+JIHOMORAVSKÝKRAJ,shell,HODONIN,1
+JIHOMORAVSKÝKRAJ,shell,LADNA U BRECLAVI,2
+JIHOMORAVSKÝKRAJ,shell,BOŘETICE,1
+ZLÍNSKÝKRAJ,shell,OSTROŽSKÁ NOVÁ VES,1
+JIHOMORAVSKÝKRAJ,shell,HUSTOPEČE,1
+ZLÍNSKÝKRAJ,shell,STARÉ MĚSTO,1
+JIHOMORAVSKÝKRAJ,shell,MIKULOV,1
+JIHOMORAVSKÝKRAJ,shell,SLAVKOV,1
+JIHOMORAVSKÝKRAJ,shell,ŠLAPANICE,1
+JIHOMORAVSKÝKRAJ,shell,VYŠKOV,1
+JIHOMORAVSKÝKRAJ,shell,MODŘICE,1
+ZLÍNSKÝKRAJ,shell,NAPAJEDLA,1
+JIHOMORAVSKÝKRAJ,shell,IVANOVICE NA HANÉ,1
+JIHOMORAVSKÝKRAJ,shell,BRNO,9
+JIHOMORAVSKÝKRAJ,shell,BRNO - VINOHRADY,1
+JIHOMORAVSKÝKRAJ,shell,PUSTIMĚŘ,1
+ZLÍNSKÝKRAJ,shell,ZLÍN,2
+ZLÍNSKÝKRAJ,shell,HULÍN,1
+OLOMOUCKÝKRAJ,shell,PROSTĚJOV,1
+OLOMOUCKÝKRAJ,shell,KRČMAŇ,1
+KRÁLOVÉHRADECKÝKRAJ,shell,TRUTNOV,1
+LIBERECKÝKRAJ,shell,STUDENEC U HOREK,1
+KRÁLOVÉHRADECKÝKRAJ,shell,NACHOD,1
+KARLOVARSKÝKRAJ,shell,CHEB,1
+PLZENSKÝKRAJ,shell,SVATÁ KATEŘINA - ROZVADOV,2
+KARLOVARSKÝKRAJ,shell,KARLOVY VARY,1
+KARLOVARSKÝKRAJ,shell,TOUZIM,1
+PLZENSKÝKRAJ,shell,BOR U TACHOVA,2
+KARLOVARSKÝKRAJ,shell,OSTROV,1
+HLAVNÍMESTOPRAHA,shell,PRAHA 4,4
+HLAVNÍMESTOPRAHA,shell,PRAHA 10,6
+HLAVNÍMESTOPRAHA,shell,PRAHA 5,4
+HLAVNÍMESTOPRAHA,shell,PRAHA,1
+HLAVNÍMESTOPRAHA,shell,PRAHA 3,1
+HLAVNÍMESTOPRAHA,shell,PRAHA MALEŠICE,1
+STREDOCESKÝKRAJ,shell,DOLNÍ BŘEŽANY,1
+HLAVNÍMESTOPRAHA,shell,PRAHA 9,3
+HLAVNÍMESTOPRAHA,shell,PRAHA 14,1
+HLAVNÍMESTOPRAHA,shell,PRAHA 6,1
+STREDOCESKÝKRAJ,shell,NUPAKY,1
+STREDOCESKÝKRAJ,shell,ŘÍČANY,1
+HLAVNÍMESTOPRAHA,shell,HORNÍ POČERNICE,1
+HLAVNÍMESTOPRAHA,shell,PRAHA - RUZYNĚ,1
+STREDOCESKÝKRAJ,shell,KRALUPY NAD VLTAVOU,1
+STREDOCESKÝKRAJ,shell,POŘÍČÍ NAD SÁZAVOU,1
+STREDOCESKÝKRAJ,shell,KLADNO,2
+STREDOCESKÝKRAJ,shell,NELAHOZEVES,1
+STREDOCESKÝKRAJ,shell,DOBŘÍŠ,1
+STREDOCESKÝKRAJ,shell,SLANÝ,1
+STREDOCESKÝKRAJ,shell,MĚLNÍK,1
+STREDOCESKÝKRAJ,shell,STOCHOV,1
+STREDOCESKÝKRAJ,shell,VŠECHLAPY,1
+ÚSTECKÝKRAJ,shell,ROUDNICE NAD LABEM,1
+STREDOCESKÝKRAJ,shell,VOTICE,1
+STREDOCESKÝKRAJ,shell,PÍSKOVÁ LHOTA,1
+STREDOCESKÝKRAJ,shell,MLADÁ BOLESLAV,1
+STREDOCESKÝKRAJ,shell,KOLÍN,1
+STREDOCESKÝKRAJ,shell,KOLIN,1
+STREDOCESKÝKRAJ,shell,KALNA,1
+ÚSTECKÝKRAJ,shell,LOUNY,1
+STREDOCESKÝKRAJ,shell,MNICHOVO HRADIŠTĚ,1
+JIHOCESKÝKRAJ,shell,TÁBOR,1
+LIBERECKÝKRAJ,shell,ČESKÁ LÍPA,1
+JIHOCESKÝKRAJ,shell,SEZIMOVO ÚSTÍ,1
+ÚSTECKÝKRAJ,shell,DĚČÍN 5,1
+ÚSTECKÝKRAJ,shell,TEPLICE,2
+ÚSTECKÝKRAJ,shell,ÚSTÍ NAD LABEM,1
+ÚSTECKÝKRAJ,shell,HORA SVATÉHO ŠEBESTIÁNA,1
+ÚSTECKÝKRAJ,shell,MOST,2
+ÚSTECKÝKRAJ,shell,CHOMUTOV,2
+ÚSTECKÝKRAJ,shell,KADAŇ,1
+STREDOCESKÝKRAJ,shell,KUTNÁ HORA,1
+STREDOCESKÝKRAJ,shell,DOBŠICE,1
+PARDUBICKÝKRAJ,shell,PARDUBICE,2
+PARDUBICKÝKRAJ,shell,CHRUDIM,1
+KRÁLOVÉHRADECKÝKRAJ,shell,HRADEC KRÁLOVÉ,4
+VYSOCINA,shell,HAVLÍČKŮV BROD,1
+PARDUBICKÝKRAJ,shell,DOLNÍ ROVEŇ,2
+KRÁLOVÉHRADECKÝKRAJ,shell,OSTROMĚŘ,1
+VYSOCINA,shell,HUMPOLEC,1
+KRÁLOVÉHRADECKÝKRAJ,shell,JIČÍN,1
+VYSOCINA,shell,PELHŘIMOV,1
+VYSOCINA,shell,JIHLAVA,1
+LIBERECKÝKRAJ,shell,PŘÍŠOVICE,2
+LIBERECKÝKRAJ,shell,SEMILY,1
+LIBERECKÝKRAJ,shell,JABLONEC NAD NISOU,2
+LIBERECKÝKRAJ,shell,LIBEREC 1,1
+PLZENSKÝKRAJ,shell,SUŠICE,1
+PLZENSKÝKRAJ,shell,KLATOVY,1
+PLZENSKÝKRAJ,shell,HORŠOVSKÝ TÝN,1
+JIHOMORAVSKÝKRAJ,shell,ZNOJMO,1
+JIHOMORAVSKÝKRAJ,shell,KUCHAŘOVICE,1
+VYSOCINA,shell,TŘEBÍČ,1
+JIHOCESKÝKRAJ,shell,TŘEBOŇ,1
+VYSOCINA,shell,VELKÉ MEZIŘÍČÍ,1
+VYSOCINA,shell,MĚŘÍN,1
+OLOMOUCKÝKRAJ,shell,DASKABÁT,1
+OLOMOUCKÝKRAJ,shell,OLOMOUC,2
+ZLÍNSKÝKRAJ,shell,BYSTŘICE POD HOSTÝNEM,1
+OLOMOUCKÝKRAJ,shell,VRAZNE,2
+OLOMOUCKÝKRAJ,shell,LITOVEL,1
+ZLÍNSKÝKRAJ,shell,VALAŠSKÉ MEZIŘÍČÍ,1
+MORAVSKOSLEZSKÝKRAJ,shell,NOVÝ JIČÍN,1
+MORAVSKOSLEZSKÝKRAJ,shell,VELKÉ ALBRECHTICE,1
+ZLÍNSKÝKRAJ,shell,VSETÍN,1
+ZLÍNSKÝKRAJ,shell,VIZOVICE,1
+MORAVSKOSLEZSKÝKRAJ,shell,OPAVA,1
+OLOMOUCKÝKRAJ,shell,ZÁBŘEH,1
+MORAVSKOSLEZSKÝKRAJ,shell,OPAVA 5,1
+OLOMOUCKÝKRAJ,shell,ŠUMPERK,1
+JIHOMORAVSKÝKRAJ,shell,LETOVICE,1
+LIBERECKÝKRAJ,shell,LIBEREC 10,1
+PARDUBICKÝKRAJ,shell,SVITAVY - LAČNOV,1
+PARDUBICKÝKRAJ,shell,POLIČKA,1
+PARDUBICKÝKRAJ,shell,ÚSTÍ NAD ORLICÍ,1
+PARDUBICKÝKRAJ,shell,VYSOKÉ MÝTO,1
+JIHOMORAVSKÝKRAJ,shell,POPŮVKY,1
+JIHOMORAVSKÝKRAJ,shell,ROSICE,1
+JIHOCESKÝKRAJ,shell,PÍSEK,1
+JIHOCESKÝKRAJ,shell,TÝN NAD VLTAVOU,1
+JIHOCESKÝKRAJ,shell,ČESKÉ BUDĚJOVICE,2
+JIHOCESKÝKRAJ,shell,BORŠOV NAD VLTAVOU,1
+PLZENSKÝKRAJ,shell,ROKYCANY,2
+PLZENSKÝKRAJ,shell,PLZEŇ,4
+UNKNOWN,sixt,Praha,4
+UNKNOWN,sixt,Mosnov,1
+UNKNOWN,sixt,Brno,2
+UNKNOWN,sixt,Ostrava,1
+UNKNOWN,sixt,Praha 2,1
+T,skoda,unknown,25
+A,skoda,unknown,38
+S,skoda,unknown,28
+B,skoda,unknown,24
+C,skoda,unknown,16
+Z,skoda,unknown,12
+U,skoda,unknown,14
+J,skoda,unknown,10
+H,skoda,unknown,15
+P,skoda,unknown,14
+K,skoda,unknown,9
+E,skoda,unknown,11
+L,skoda,unknown,10
+M,skoda,unknown,12
+JIHOMORAVSKÝKRAJ,smart,Brno - Dolní Heršpice,1
+OLOMOUCKÝ,smart,Olomouc,1
+MORAVSKOSLEZSKÝ,smart,Ostrava - Vítkovice,1
+JIHOMORAVSKÝKRAJ,smart,Brno - Židenice,1
+KRÁLOVEHRADECKÝ,smart,Hradec Králové,1
+HLAVNÍMĚSTOPRAHA,smart,Praha - Chodov,1
+HLAVNÍMĚSTOPRAHA,smart,Praha - Stodůlky,1
+ÚSTECKÝ,smart,Ústí nad Labem,1
+CENTRALBOHEMIA,speed_queen,Mlada Boleslav,1
+PRAHA,speed_queen,Praha,5
+KRALOVEHRADECKY,speed_queen,Hradec Králové,1
+CENTRALBOHEMIA,speed_queen,Praha,1
+OLOMOUCKY,speed_queen,Přerov,1
+PRAHA,speed_queen,Praha 8,1
+SOUTHMORAVIAN,speed_queen,Brno,4
+OLOMOUCKY,speed_queen,Olomouc,3
+PARDUBICKY,speed_queen,Pardubice Iii - Studánka,1
+CENTRALBOHEMIA,speed_queen,Kolín,1
+USTECKY,speed_queen,Teplice,1
+JIHOCESKY,speed_queen,Ceské Budejovice,1
+USTECKY,speed_queen,Usti Nad Labem,1
+LIBERECKY,speed_queen,Liberec,1
+PRAHA,speed_queen,Praha10,1
+PRAHA,speed_queen,Praha 4,1
+PLZENSKY,speed_queen,Plzen-Bolevec,1
+SOUTHMORAVIAN,speed_queen,Brno - Slatina,1
+PLZENSKY,speed_queen,Plzeh 3-Doudlevce,1
+CENTRALBOHEMIA,speed_queen,Praha 8,1
+ZLIN,speed_queen,Zlin,1
+PARDUBICKY,speed_queen,Pardubice,1
+OLOMOUCKY,speed_queen,Mohelnice,1
+OLOMOUC,speed_queen,Olomouc,1
+PLZENSKY,starbucks_eu,Plzen,1
+KARLOVARSKY,starbucks_eu,Karlovy   Vary,1
+PRAHA,starbucks_eu,Praha,15
+CENTRALBOHEMIA,starbucks_eu,Prague,3
+CENTRALBOHEMIA,starbucks_eu,Praha,5
+PRAHA,starbucks_eu,Prague,14
+PRAHA,starbucks_eu,Praha 5,1
+CENTRALBOHEMIA,starbucks_eu,Mlada   Boleslav,1
+LIBERECKY,starbucks_eu,Liberec,1
+PARDUBICKY,starbucks_eu,Pardubice,1
+VYSOCINA,starbucks_eu,Jihlava,1
+KRALOVEHRADECKY,starbucks_eu,Hradec   Kralove,1
+CENTRALBOHEMIA,starbucks_eu,Kladno,1
+USTECKY,starbucks_eu,Teplice,1
+SOUTHMORAVIAN,starbucks_eu,Chvalovice,1
+SOUTHMORAVIAN,starbucks_eu,Brno,4
+OLOMOUCKY,starbucks_eu,Olomouc,1
+MORAVSKOSLEZSKY,starbucks_eu,Ostrava,2
+UNKNOWN,subway,Praha,1
+UNKNOWN,subway,Prague,3
+UNKNOWN,subway,Brno,4
+UNKNOWN,subway,Ostrava,2
+UNKNOWN,subway,Olomouc,1
+PLZEŇSKÝKRAJ,tedi,Plzeň,2
+STŘEDOČESKÝKRAJ,tedi,Rakovnik,1
+ÚSTECKÝKRAJ,tedi,Most,1
+OLOMOUCKÝKRAJ,tedi,Most,1
+ÚSTECKÝKRAJ,tedi,Litvínov,1
+KARLOVARSKÝKRAJ,tedi,Cheb,1
+ÚSTECKÝKRAJ,tedi,Teplice,1
+JIHOČESKÝKRAJ,tedi,České Budějovice,1
+JIHOČESKÝKRAJ,tedi,Tábor,1
+HLAVNÍMĚSTOPRAHA,tedi,Praha 10,1
+HLAVNÍMĚSTOPRAHA,tedi,Praha-Štěrboholy,1
+STŘEDOČESKÝKRAJ,tedi,Úvaly,1
+HLAVNÍMĚSTOPRAHA,tedi,Praha 1 - Nové Město,1
+HLAVNÍMĚSTOPRAHA,tedi,Praha 5,1
+STŘEDOČESKÝKRAJ,tedi,Kutna Hora,1
+KRAJVYSOČINA,tedi,Humpolec,1
+STŘEDOČESKÝKRAJ,tedi,Kladno,2
+STŘEDOČESKÝKRAJ,tedi,Mělník,1
+STŘEDOČESKÝKRAJ,tedi,Kosmonosy,1
+LIBERECKÝKRAJ,tedi,Liberec,1
+KRÁLOVÉHRADECKÝKRAJ,tedi,Hradec Králové,1
+LIBERECKÝKRAJ,tedi,Jablonec nad Nisou,1
+PARDUBICKÝKRAJ,tedi,Chrudim,1
+KRAJVYSOČINA,tedi,Jihlava,1
+KRAJVYSOČINA,tedi,Moravské Budějovice,1
+PARDUBICKÝKRAJ,tedi,Pardubice I,1
+JIHOMORAVSKÝKRAJ,tedi,Znojmo,1
+ZLÍNSKÝKRAJ,tedi,Uherské Hradiště,1
+JIHOMORAVSKÝKRAJ,tedi,Staré Mesto,1
+ZLÍNSKÝKRAJ,tedi,Kroměříž,1
+OLOMOUCKÝKRAJ,tedi,Přerov,1
+OLOMOUCKÝKRAJ,tedi,Velký Týnec 2,1
+OLOMOUCKÝKRAJ,tedi,Olomouc,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Nový Jičín,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Opava,2
+MORAVSKOSLEZSKÝKRAJ,tedi,Frýdlant nad Ostravicí,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Frenštát pod Radhoštěm,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Český Těšín,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Karviná,2
+MORAVSKOSLEZSKÝKRAJ,tedi,Havířov,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Ostrava - Dubina,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Ostrava,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Ostrava-Třebovice,1
+MORAVSKOSLEZSKÝKRAJ,tedi,Ostrava-Plesná,1
+JIHOMORAVSKÝKRAJ,tedi,Kuřim,1
+JIHOMORAVSKÝKRAJ,tedi,Blansko,1
+PARDUBICKÝKRAJ,tedi,Moravská Třebová,1
+OLOMOUCKÝKRAJ,tedi,Zábřeh,1
+OLOMOUCKÝKRAJ,tedi,Prostějov,1
+UNKNOWN,the_north_face_eu,Prague,2
+UNKNOWN,the_north_face_eu,Liberec,1
+UNKNOWN,the_north_face_eu,Ostrava,1
+SOUTHMORAVIAN,tier,unknown,2
+SOUTHMORAVIAN,tier,Mesto Brno,3
+UNKNOWN,timberland,Brno - Modrice,1
+UNKNOWN,tommy_hilfiger,Prague,5
+UNKNOWN,tommy_hilfiger,Ostrava,2
+UNKNOWN,tommy_hilfiger,Plzen,1
+UNKNOWN,tommy_hilfiger,Olomouc,1
+UNKNOWN,tommy_hilfiger,Znojmo,2
+UNKNOWN,tommy_hilfiger,Brno,1
+UNKNOWN,tommy_hilfiger,Modřice,1
+UNKNOWN,totalenergies,KAPLICE,2
+UNKNOWN,totalenergies,BORISLAV,1
+UNKNOWN,totalenergies,PRIBOR,1
+UNKNOWN,totalenergies,PROSTEJOV,1
+UNKNOWN,totalenergies,NOVA HOSPODA,1
+UNKNOWN,totalenergies,PLZEN SLOVICE,1
+UNKNOWN,totalenergies,STERNOV,1
+UNKNOWN,totalenergies,USTI NAD LABEM,1
+UNKNOWN,totalenergies,DOPLAZY,1
+UNKNOWN,totalenergies,POPUVKY,1
+UNKNOWN,totalenergies,NAD LABEM,1
+UNKNOWN,totalenergies,ROZVADOV,2
+UNKNOWN,totalenergies,NOVA VES,2
+UNKNOWN,totalenergies,FOLMAVA,2
+UNKNOWN,totalenergies,CHOMUTOV,2
+UNKNOWN,totalenergies,KOSMONOSY,2
+UNKNOWN,totalenergies,PASOHLAVKY,1
+UNKNOWN,totalenergies,BAVORY,1
+UNKNOWN,totalenergies,BOCHOV,1
+UNKNOWN,totalenergies,BOSKOVICE,1
+UNKNOWN,totalenergies,BRECLAV,1
+UNKNOWN,totalenergies,BRNO,4
+UNKNOWN,totalenergies,CESKA LIPA,1
+UNKNOWN,totalenergies,DECIN,1
+UNKNOWN,totalenergies,CESKY KRUMLOV,1
+UNKNOWN,totalenergies,DEVET KRIZU,2
+UNKNOWN,totalenergies,CHEB,1
+UNKNOWN,totalenergies,CHRUDIM,1
+UNKNOWN,totalenergies,GAJER,1
+UNKNOWN,totalenergies,DRAHELCICE,1
+UNKNOWN,totalenergies,DRSLAVICE,1
+UNKNOWN,totalenergies,DUBI,1
+UNKNOWN,totalenergies,HORICE V PODKRKONOSI,1
+UNKNOWN,totalenergies,HRADEC KRALOVE,1
+UNKNOWN,totalenergies,HUMPOLEC,2
+UNKNOWN,totalenergies,HUSTOPECE U BRNA,1
+UNKNOWN,totalenergies,JINDRICHUV HRADEC,1
+UNKNOWN,totalenergies,DALOVICE - VSEBOROVICE,1
+UNKNOWN,totalenergies,KATOVICE,1
+UNKNOWN,totalenergies,KLADRUBY,1
+UNKNOWN,totalenergies,KLASTEREC NAD OHRI,1
+UNKNOWN,totalenergies,KLIMKOVICE,2
+UNKNOWN,totalenergies,HODEJICE,1
+UNKNOWN,totalenergies,HORA SVATEHO SEBESTIANA,1
+UNKNOWN,totalenergies,KRNOV,1
+UNKNOWN,totalenergies,LITVINOV,1
+UNKNOWN,totalenergies,MEZNO,1
+UNKNOWN,totalenergies,MITROVICE,1
+UNKNOWN,totalenergies,MLADA BOLESLAV,2
+UNKNOWN,totalenergies,MOHELNICE,2
+UNKNOWN,totalenergies,MOST (MOST-CHOMUTOV),1
+UNKNOWN,totalenergies,ZNOJMO,2
+UNKNOWN,totalenergies,MOST (CHOMUTOV-MOST),1
+UNKNOWN,totalenergies,OLOMOUC,1
+UNKNOWN,totalenergies,OPAVA,2
+UNKNOWN,totalenergies,NAPAJEDLA,1
+UNKNOWN,totalenergies,NEPOMUK,1
+UNKNOWN,totalenergies,NOVA HOUZNA,1
+UNKNOWN,totalenergies,OSICE,2
+UNKNOWN,totalenergies,OSTRAVA,2
+UNKNOWN,totalenergies,DYSINA,1
+UNKNOWN,totalenergies,PISEK,1
+UNKNOWN,totalenergies,VEJPRNICE 573,1
+UNKNOWN,totalenergies,PRAHA 10 (CENTRUM-CERNY MOST),1
+UNKNOWN,totalenergies,PRAHA PRUHONICE,2
+UNKNOWN,totalenergies,PROTIVIN,1
+UNKNOWN,totalenergies,PRAHA,3
+UNKNOWN,totalenergies,ROUSINOV,1
+UNKNOWN,totalenergies,RUDNA,1
+UNKNOWN,totalenergies,RYCHNOV NAD KNEZNOU,1
+UNKNOWN,totalenergies,PLZEN,1
+UNKNOWN,totalenergies,RYNOLTICE,1
+UNKNOWN,totalenergies,STAROVICKY,1
+UNKNOWN,totalenergies,SIREJOVICE,1
+UNKNOWN,totalenergies,STERNBERK,1
+UNKNOWN,totalenergies,TREBECHOVICE POD OREBEM,1
+UNKNOWN,totalenergies,TRUTNOV,1
+UNKNOWN,totalenergies,STRECHOV LS,1
+UNKNOWN,totalenergies,TURNOV,1
+UNKNOWN,totalenergies,STRECHOV PS,1
+UNKNOWN,totalenergies,USTI NAD ORLICI,1
+UNKNOWN,totalenergies,VALASSKE MEZIRICI,1
+UNKNOWN,totalenergies,VELESIN,1
+UNKNOWN,totalenergies,VELKA DOBRA,2
+UNKNOWN,totalenergies,VELKE MEZINCI,1
+UNKNOWN,totalenergies,VOLARY,1
+UNKNOWN,totalenergies,VRCHLABI,1
+UNKNOWN,totalenergies,ZDIREC NAD DOUBRAVOU,1
+UNKNOWN,totalenergies,ZELEZNA RUDA,1
+UNKNOWN,totalenergies,ZLIN,1
+PLZENSKY,travelex,Rozvadov,1
+CENTRALBOHEMIA,travelex,Praha 6,2
+CENTRALBOHEMIA,travelex,Prague 6,4
+DOWOLNY,tui,Aš,1
+DOWOLNY,tui,Bast,1
+DOWOLNY,tui,Benesov,1
+DOWOLNY,tui,Beroun,1
+DOWOLNY,tui,Bilina,1
+DOWOLNY,tui,Bilovec,1
+DOWOLNY,tui,Bohumin,2
+DOWOLNY,tui,Brandys nad Labem,1
+DOWOLNY,tui,Breclav,1
+DOWOLNY,tui,Brno,11
+DOWOLNY,tui,Bystnce pod Hostynem,1
+DOWOLNY,tui,Cernosice,2
+DOWOLNY,tui,Cerveny Kostelec,1
+DOWOLNY,tui,Ceska Kamenice,1
+DOWOLNY,tui,Ceske Budejovice,2
+DOWOLNY,tui,Cheb,4
+DOWOLNY,tui,Chlumec nad Cidlinou,2
+DOWOLNY,tui,Chomutov,1
+DOWOLNY,tui,Czeski Cieszyn,1
+DOWOLNY,tui,Czeskie Budziejowice,2
+DOWOLNY,tui,Decin,2
+DOWOLNY,tui,Divci Hrad,1
+DOWOLNY,tui,Dobrin,1
+DOWOLNY,tui,Dolni Bela,1
+DOWOLNY,tui,Doubravice nad Svitavou,1
+DOWOLNY,tui,Frenstat pod Radhostem,1
+DOWOLNY,tui,Frydek Mistek,6
+DOWOLNY,tui,Fulnek,1
+DOWOLNY,tui,Hardec Kralove,1
+DOWOLNY,tui,Havirov,5
+DOWOLNY,tui,Havirov-Mesto,1
+DOWOLNY,tui,Havlickuv Brod,1
+DOWOLNY,tui,Hlinsko,1
+DOWOLNY,tui,Hlucin,2
+DOWOLNY,tui,Hodonin,1
+DOWOLNY,tui,Horní Beřkovice,1
+DOWOLNY,tui,Horomerice,1
+DOWOLNY,tui,Hostinne,1
+DOWOLNY,tui,Hostivice,1
+DOWOLNY,tui,Hostomice,1
+DOWOLNY,tui,Hradec Kralove,3
+DOWOLNY,tui,Hranice,2
+DOWOLNY,tui,Hronov,1
+DOWOLNY,tui,Humpolec,1
+DOWOLNY,tui,Jablonec nad Nisou,3
+DOWOLNY,tui,Jicin,2
+DOWOLNY,tui,Jihlava,4
+DOWOLNY,tui,Jilove,1
+DOWOLNY,tui,Jindrichuv Hradec,1
+DOWOLNY,tui,Jinočany,1
+DOWOLNY,tui,KLY-Melnik,1
+DOWOLNY,tui,Karlovy Vary,1
+DOWOLNY,tui,Karvina,4
+DOWOLNY,tui,Karvina-Hranice,1
+DOWOLNY,tui,Kladno,7
+DOWOLNY,tui,Klasterec nad Ohri,1
+DOWOLNY,tui,Klatovy,1
+DOWOLNY,tui,Klobouky u Brno,1
+DOWOLNY,tui,Kly,1
+DOWOLNY,tui,Koci,1
+DOWOLNY,tui,Kolin,1
+DOWOLNY,tui,Koprivnice,3
+DOWOLNY,tui,Kraliky,1
+DOWOLNY,tui,Kraslice,1
+DOWOLNY,tui,Kravare,1
+DOWOLNY,tui,Krnov,4
+DOWOLNY,tui,Lanskroun,1
+DOWOLNY,tui,Letohrad,1
+DOWOLNY,tui,Liberec,3
+DOWOLNY,tui,Litomerice,1
+DOWOLNY,tui,Litvinov,1
+DOWOLNY,tui,Lomnice - Tyn,1
+DOWOLNY,tui,Louny,1
+DOWOLNY,tui,Luhacovice,1
+DOWOLNY,tui,Lysa nad Labem,3
+DOWOLNY,tui,Melnik,2
+DOWOLNY,tui,Mikulov,1
+DOWOLNY,tui,Mlada Boleslav,1
+DOWOLNY,tui,Mnichovice - Myslin	,1
+DOWOLNY,tui,Mnichovo Hradiste,1
+DOWOLNY,tui,Mnisek pod Brdy,1
+DOWOLNY,tui,Most,4
+DOWOLNY,tui,Most - Vtelno,1
+DOWOLNY,tui,Napajedla,1
+DOWOLNY,tui,Nove Straseci,2
+DOWOLNY,tui,Novy Jicin,2
+DOWOLNY,tui,Nový Malin,1
+DOWOLNY,tui,Nupaky,1
+DOWOLNY,tui,Olomouc,1
+DOWOLNY,tui,Opava,4
+DOWOLNY,tui,Orlova-Lutyne,2
+DOWOLNY,tui,Ostrava,16
+DOWOLNY,tui,Ostrava-Poruba,1
+DOWOLNY,tui,Ostrava-Privoz,1
+DOWOLNY,tui,Otrokovice,1
+DOWOLNY,tui,Otvice,1
+DOWOLNY,tui,Pardubice,3
+DOWOLNY,tui,Petrovice,1
+DOWOLNY,tui,Petrovice u Karvine,1
+DOWOLNY,tui,Pilzno,3
+DOWOLNY,tui,Pisek,1
+DOWOLNY,tui,Plzen-Doubravka,1
+DOWOLNY,tui,Pohorelice,1
+DOWOLNY,tui,Policka-Mesto,1
+DOWOLNY,tui,Prachatice,1
+DOWOLNY,tui,Praga,56
+DOWOLNY,tui,Praga Mala Strana,1
+DOWOLNY,tui,Praha,2
+DOWOLNY,tui,Praha 6,1
+DOWOLNY,tui,Praha 8,1
+DOWOLNY,tui,Prelouc,2
+DOWOLNY,tui,Pribram,2
+DOWOLNY,tui,Prostejov,1
+DOWOLNY,tui,Radonice,1
+DOWOLNY,tui,Rakovnik,2
+DOWOLNY,tui,Revnice,2
+DOWOLNY,tui,Roudnice,1
+DOWOLNY,tui,Roznov pod Radhostem,1
+DOWOLNY,tui,Roztoky,1
+DOWOLNY,tui,Roztoky u Prahy,2
+DOWOLNY,tui,Sadska,1
+DOWOLNY,tui,Smecno,1
+DOWOLNY,tui,Sokolov,1
+DOWOLNY,tui,Stara Boleslav,1
+DOWOLNY,tui,Statenice,1
+DOWOLNY,tui,Strakonice,2
+DOWOLNY,tui,Sumvald,1
+DOWOLNY,tui,Sušice,1
+DOWOLNY,tui,Tanvald,1
+DOWOLNY,tui,Teplice,3
+DOWOLNY,tui,Trebechovice pod Orebem ,1
+DOWOLNY,tui,Trebic,2
+DOWOLNY,tui,Trhove Sviny,1
+DOWOLNY,tui,Trinec,4
+DOWOLNY,tui,Trutnov,1
+DOWOLNY,tui,Trzyniec,1
+DOWOLNY,tui,Tábor,1
+DOWOLNY,tui,Třebíč,1
+DOWOLNY,tui,Uherske Hradiste,1
+DOWOLNY,tui,Uhersky Brod,1
+DOWOLNY,tui,Usti nad Labem,3
+DOWOLNY,tui,Usti nad Orlici,1
+DOWOLNY,tui,Uvaly,1
+DOWOLNY,tui,Valasske Mezirici,1
+DOWOLNY,tui,Velesovice,1
+DOWOLNY,tui,Velke Bilovice,1
+DOWOLNY,tui,Velke Popovice,1
+DOWOLNY,tui,Velky Beranov,1
+DOWOLNY,tui,Vlkava,1
+DOWOLNY,tui,Vodňany,1
+DOWOLNY,tui,Vsetin,2
+DOWOLNY,tui,Vyskov,1
+DOWOLNY,tui,Zakrany,1
+DOWOLNY,tui,Zdar nad Sazavou,2
+DOWOLNY,tui,Zelesice,1
+DOWOLNY,tui,Zlin,4
+DOWOLNY,tui,Znojmo,2
+DOWOLNY,tui,Zverinek,1
+DOWOLNY,tui,Ústí nad Labem,1
+DOWOLNY,tui,Česká Kamenice,1
+DOWOLNY,tui,Český Krumlov,1
+DOWOLNY,tui,Šumperk,1
+DOWOLNY,tui,Jilemnice,1
+DOWOLNY,tui,Lipov,1
+DOWOLNY,tui,Nový Hradec Králové,1
+DOWOLNY,tui,Podbořany,1
+DOWOLNY,tui,Skuteč,1
+DOWOLNY,tui,Veselí nad Moravou,1
+DOWOLNY,tui,Říčany,1
+UNKNOWN,united_colors_of_benetton,PRAHA,4
+UNKNOWN,united_colors_of_benetton,ZLIN,3
+UNKNOWN,united_colors_of_benetton,CESKE BUDEJOVICE,1
+UNKNOWN,united_colors_of_benetton,BRNO,1
+UNKNOWN,united_colors_of_benetton,OLOMOUC,1
+UNKNOWN,united_colors_of_benetton,PRIBRAM,2
+UNKNOWN,united_colors_of_benetton,TEPLICE,1
+UNKNOWN,united_colors_of_benetton,PARDUBICE,2
+PRAHA,vans,Praha,2
+OSTRAVA,vans,Ostrava,1
+BRNO,vans,Brno,1
+JIHOCESKY,visa,VYŠŠÍ BROD,1
+JIHOCESKY,visa,VYSSI BROD,2
+JIHOČESKY,visa,LIPNO NAD VLTAVOU,1
+JIHOCESKY,visa,LIPNO NAD VLTAVOU,4
+JIHOCESKY,visa,FRYMBURK,3
+JIHOCESKY,visa,ROŽMBERK NAD VLTAVOU,1
+JIHOCESKY,visa,VYŠŠI BROD,1
+JIHOCESKY,visa,ČESKY KRUMLOV,12
+JIHOCESKY,visa,DOLNI DVOŘIŠTĚ,1
+JIHOCESKY,visa,ČERNA V POŠUMAVI,2
+JIHOCESKY,visa,CERNA V POSUMAVI,1
+JIHOCESKY,visa,HORNÍ PLANÁ,1
+JIHOČESKY,visa,VĚTŘNI,1
+JIHOCESKY,visa,KAPLICE,3
+JIHOČESKY,visa,KAPLICE,1
+JIHOCESKY,visa,KÁJOV,1
+JIHOCESKY,visa,CESKY KRUMLOV,7
+JIHOČESKYKRAJ,visa,ČESKY KRUMLOV,1
+JIHOCESKY,visa,ČESKÝ KRUMLOV,3
+JIHOČESKY,visa,ČESKY KRUMLOV,4
+JIHOCESKY,visa,VOLARY,2
+JIHOČESKÝKRAJ,visa,ČESKÝ KRUMLOV,1
+JIHOCESKY,visa,HORNI VLTAVICE,1
+PLZENSKY,visa,MODRAVA,1
+JIHOČESKY,visa,KVILDA,1
+JIHOCESKY,visa,VELESIN,1
+JIHOCESKY,visa,VELEŠÍN,1
+JIHOCESKY,visa,NOVE HRADY,2
+JIHOCESKY,visa,KREMZE,1
+PLZEŇSKY,visa,ŽELEZNA RUDA,1
+PLZENSKY,visa,SRNI,1
+PLZENSKY,visa,ZELEZNA RUDA,1
+PLZENSKY,visa,ŽELEZNA RUDA,2
+JIHOCESKY,visa,TRHOVE SVINY,2
+JIHOČESKY,visa,TRHOVE SVINY,1
+JIHOCESKY,visa,CESKE VELENICE,1
+JIHOČESKY,visa,VIMPERK,2
+JIHOCESKY,visa,VIMPERK,3
+JIHOCESKY,visa,PRACHATICE,5
+JIHOČESKY,visa,PRACHATICE,4
+JIHOČESKÝKRAJ,visa,PRACHATICE,1
+JIHOCESKY,visa,LHENICE,1
+JIHOCESKY,visa,STACHY,1
+JIHOCESKY,visa,BOROVANY,1
+PLZENSKY,visa,KASPERSKE HORY,1
+JIHOČESKY,visa,ČESKE BUDĚJOVICE,21
+JIHOCESKY,visa,CESKE BUDEJOVICE,26
+JIHOCESKY,visa,LEDENICE,1
+JIHOČESKY,visa,VLACHOVO BŘEZI,1
+JIHOČESKÝKRAJ,visa,ČESKÉ BUDĚJOVICE,7
+JIHOCESKY,visa,ČESKE BUDĚJOVICE,13
+JIHOČESKY,visa,VACOV,1
+JIHOCESKY,visa,ČESKÉ BUDĚJOVICE,5
+JIHOCESKY,visa,SUCHDOL NAD LUZNICI,1
+JIHOCESKY,visa,SUCHDOL NAD LUŽNICÍ,1
+JIHOCESKY,visa,NETOLICE,2
+PLZENSKY,visa,NYRSKO,3
+PLZENSKY,visa,SUŠICE,2
+PLZEŇSKÝKRAJ,visa,SUŠICE,1
+PLZEŇSKY,visa,SUŠICE,1
+PLZENSKY,visa,SUSICE,3
+JIHOCESKY,visa,VOLYNE,2
+JIHOCESKY,visa,ZLIV,1
+JIHOCESKY,visa,HLUBOKA NAD VLTAVOU,3
+JIHOČESKY,visa,HLUBOKA NAD VLTAVOU,2
+JIHOCESKY,visa,LIŠOV,1
+JIHOCESKY,visa,LISOV,1
+JIHOCESKY,visa,CHLUM U TREBONE,1
+JIHOCESKY,visa,TREBON,3
+JIHOČESKY,visa,TŘEBOŇ,3
+JIHOCESKY,visa,TŘEBOŇ,1
+JIHOČESKÝKRAJ,visa,TŘEBOŇ,1
+PLZEŇSKY,visa,JANOVICE NAD UHLAVOU,1
+JIHOČESKY,visa,VODŇANY,1
+JIHOCESKY,visa,VODNANY,2
+JIHOCESKY,visa,VODŇANY,1
+PLZEŇSKY,visa,KDYNĚ,1
+PLZENSKY,visa,KDYNE,2
+PLZENSKY,visa,DOMAZLICE,3
+PLZENSKY,visa,DOMAŽLICE,3
+PLZEŇSKY,visa,DOMAŽLICE,1
+PLZENSKY,visa,CESKA LIPA,1
+PLZEŇSKÝKRAJ,visa,DOMAŽLICE,1
+JIHOCESKY,visa,SEVETIN,1
+JIHOCESKY,visa,STRAKONICE,13
+JIHOČESKY,visa,STRAKONICE,7
+PLZENSKY,visa,KLATOVY,12
+JIHOCESKY,visa,LOMNICE NAD LUŽNICI,1
+JIHOCESKY,visa,LOMNICE NAD LUZNICI,1
+PLZEŇSKY,visa,KLATOVY,4
+SOUTHMORAVIAN,visa,ZNOJMO,22
+JIHOCESKY,visa,PROTIVIN,1
+JIHOCESKY,visa,PROTIVÍN,1
+SOUTHMORAVIAN,visa,HATE,1
+JIHOMORAVSKY,visa,CHVALOVICE,2
+PLZEŇSKÝKRAJ,visa,KLATOVY,1
+PLZENSKY,visa,HORAZDOVICE,2
+PLZEŇSKY,visa,HORAŽĎOVICE,1
+PLZENSKY,visa,HORAŽĎOVICE,1
+JIHOČESKY,visa,TEMELIN,1
+PLZENSKY,visa,POBEZOVICE,1
+JIHOCESKY,visa,NOVA BYSTRICE,1
+JIHOCESKY,visa,NOVÁ BYSTŘICE,1
+SOUTHMORAVIAN,visa,CHVALOVICE,2
+PLZENSKY,visa,PLANICE,1
+JIHOCESKY,visa,SLAVONICE,1
+JIHOCESKY,visa,TYN NAD VLTAVOU,3
+JIHOCESKY,visa,TÝN NAD VLTAVOU,1
+PLZEŇSKY,visa,HORŠOVSKY TYN,1
+PLZENSKY,visa,HORSOVSKY TYN,2
+SOUTHMORAVIAN,visa,HEVLIN,1
+JIHOČESKÝKRAJ,visa,TÝN NAD VLTAVOU,1
+JIHOČESKY,visa,TYN NAD VLTAVOU,1
+JIHOMORAVSKY,visa,ZNOJMO,4
+JIHOČESKÝKRAJ,visa,PÍSEK,1
+JIHOMORAVSKÝKRAJ,visa,ZNOJMO,2
+JIHOCESKY,visa,CELAKOVICE,1
+JIHOČESKY,visa,PISEK,4
+PLZEŇSKY,visa,BĚLA NAD RADBUZOU,1
+JIHOCESKY,visa,PISEK,10
+JIHOCESKY,visa,PÍSEK,3
+VYSOCINA,visa,BITOV,1
+JIHOČESKY,visa,VESELI NAD LUŽNICI,1
+JIHOCESKY,visa,VESELI NAD LUZNICI,2
+SOUTHMORAVIAN,visa,HODONICE,1
+PLZENSKY,visa,ROZVADOV,3
+PLZEŇSKY,visa,STAŇKOV,1
+PLZENSKY,visa,STANKOV,1
+JIHOČESKY,visa,PEC,1
+JIHOCESKY,visa,JINDŘICHŮV HRADEC,5
+JIHOČESKY,visa,JINDŘICHŮV HRADEC,5
+JIHOCESKY,visa,JINDRICHUV HRADEC,6
+JIHOČESKÝKRAJ,visa,JINDŘICHŮV HRADEC,1
+JIHOCESKY,visa,KARDASOVA RECICE,1
+VYSOCINA,visa,JEMNICE,2
+VYSOČINA,visa,JEMNICE,1
+PLZEŇSKY,visa,ROZVADOV,1
+SOUTHMORAVIAN,visa,HRUSOVANY NAD JEVISOVKOU,2
+JIHOCESKY,visa,BECHYNE,2
+SOUTHMORAVIAN,visa,VALTICE,2
+PLZENSKY,visa,NEPOMUK,2
+PLZEŇSKY,visa,NEPOMUK,1
+JIHOCESKY,visa,BLATNA,3
+JIHOČESKY,visa,BLATNA,1
+JIHOČESKY,visa,BECHYNĚ,2
+JIHOCESKY,visa,BLATNÁ,1
+JIHOCESKY,visa,DAČICE,1
+JIHOČESKY,visa,DAČICE,2
+JIHOCESKY,visa,DACICE,2
+PLZENSKY,visa,KASEJOVICE,1
+PLZENSKY,visa,HOLYSOV,2
+JIHOČESKY,visa,SOBĚSLAV,1
+JIHOCESKY,visa,SOBESLAV,3
+JIHOCESKY,visa,SOBĚSLAV,1
+JIHOMORAVSKY,visa,MIKULOV,1
+SOUTHMORAVIAN,visa,MIKULOV,5
+SOUTHMORAVIAN,visa,BRECLAV,9
+SOUTHMORAVIAN,visa,BŘECLAV,8
+PLZEŇSKY,visa,PŘEŠTICE,1
+PLZENSKY,visa,PRESTICE,2
+PLZENSKY,visa,BEROUN,1
+SOUTHMORAVIAN,visa,LANŽHOT,2
+JIHOMORAVSKY,visa,BŘECLAV,4
+JIHOMORAVSKÝKRAJ,visa,BŘECLAV,1
+PLZENSKY,visa,BOR,1
+PLZENSKY,visa,BOR U TACHOVA,1
+VYSOČINA,visa,MORAVSKE BUDĚJOVICE,1
+VYSOCINA,visa,MORAVSKE BUDEJOVICE,2
+PLZENSKY,visa,STOD,2
+SOUTHMORAVIAN,visa,DOLNI DUNAJOVICE,1
+JIHOMORAVSKY,visa,LEDNICE,1
+SOUTHMORAVIAN,visa,LEDNICE,3
+JIHOCESKY,visa,STUDENA,1
+PLZENSKY,visa,CHLUMCANY U PRESTIC,1
+JIHOČESKY,visa,NOVA VČELNICE,1
+JIHOCESKY,visa,CIMELICE,1
+PLZENSKY,visa,BLOVICE,2
+SOUTHMORAVIAN,visa,MIROSLAV,1
+PLZENSKY,visa,CHOTĚŠOV,1
+PLZEŇSKY,visa,KLADRUBY,1
+JIHOCESKY,visa,PLANA NAD LUZNICI,1
+SOUTHMORAVIAN,visa,PODIVIN,1
+SOUTHMORAVIAN,visa,PASOHLAVKY,2
+SOUTHMORAVIAN,visa,PAVLOV,1
+PLZENSKY,visa,DOBRANY,2
+VYSOČINA,visa,TELČ,1
+VYSOCINA,visa,TELČ,3
+VYSOCINA,visa,TELC,3
+VYSOCINA,visa,ZIROVNICE,2
+PLZENSKY,visa,TACHOV,5
+PLZEŇSKY,visa,TACHOV,2
+PLZENSKY,visa,ZBŮCH,1
+PLZEŇSKÝKRAJ,visa,TACHOV,1
+JIHOČESKY,visa,MILEVSKO,3
+JIHOCESKY,visa,MILEVSKO,4
+PLZENSKY,visa,HEŘMANOVA HUŤ,1
+JIHOMORAVSKY,visa,MORAVSKA NOVA VES,1
+SOUTHMORAVIAN,visa,RAKVICE,1
+VYSOCINA,visa,JAROMERICE NAD ROKYTNOU,1
+VYSOČINA,visa,JAROMĚŘICE NAD ROKYTNOU,1
+SOUTHMORAVIAN,visa,ZAJEČI,1
+JIHOCESKY,visa,SEZIMOVO USTI,2
+PLZENSKY,visa,SPALENE PORICI,1
+JIHOČESKY,visa,SEZIMOVO USTI,1
+VYSOCINA,visa,POČÁTKY,1
+VYSOCINA,visa,POCATKY,1
+JIHOCESKY,visa,TABOR,16
+SOUTHMORAVIAN,visa,VELKE BILOVICE,2
+VYSOCINA,visa,KAMENICE NAD LIPOU,2
+SOUTHMORAVIAN,visa,PRUŠÁNKY,1
+PLZENSKY,visa,LÍNĚ,1
+JIHOČESKY,visa,TABOR,6
+STŘEDOČESKY,visa,BŘEZNICE,1
+CENTRALBOHEMIA,visa,BŘEZNICE,1
+CENTRALBOHEMIA,visa,BREZNICE,1
+PLZEŇSKY,visa,NYŘANY,1
+PLZEŇSKY,visa,STŘIBRO,2
+PLZENSKY,visa,STRIBRO,2
+PLZENSKY,visa,NYRANY,2
+PLZENSKY,visa,STŘÍBRO,1
+PLZENSKY,visa,NÝŘANY,1
+SOUTHMORAVIAN,visa,MIKULČICE,1
+JIHOCESKY,visa,TÁBOR,1
+JIHOČESKÝKRAJ,visa,TÁBOR,1
+PLZENSKY,visa,PLZEŇ 6 LITICE,1
+PLZEŇSKYKRAJ,visa,TLUČNA,1
+SOUTHMORAVIAN,visa,VELKE PAVLOVICE,2
+SOUTHMORAVIAN,visa,POHORELICE,2
+PLZENSKY,visa,STAHLAVY,1
+CENTRALBOHEMIA,visa,ROZMITAL POD TREMSINEM,2
+SOUTHMORAVIAN,visa,POHOŘELICE,1
+CENTRALBOHEMIA,visa,ROŽMITÁL POD TREMŠÍNEM,1
+JIHOCESKY,visa,KOVAŘOV,1
+SOUTHMORAVIAN,visa,LUŽICE,1
+PLZENSKY,visa,PLZEN,46
+SOUTHMORAVIAN,visa,VRANOVICE,1
+PLZENSKY,visa,VEJPRNICE,1
+PLZEŇSKY,visa,PLZEŇ,26
+VYSOCINA,visa,DUKOVANY,1
+PLZEŇSKÝKRAJ,visa,PLZEŇ,11
+VYSOCINA,visa,HROTOVICE,1
+JIHOČESKY,visa,CHYNOV,1
+VYSOČINA,visa,ČERNOVICE,1
+SOUTHMORAVIAN,visa,DOLNI BOJANOVICE,1
+PLZENSKY,visa,PLZEŇ,35
+PLZENSKY,visa,MĚSTO TOUŠKOV,1
+PLZENSKY,visa,STARY PLZENEC,1
+SOUTHMORAVIAN,visa,MORAVSKY KRUMLOV,2
+JIHOMORAVSKY,visa,MORAVSKY KRUMLOV,1
+SOUTHMORAVIAN,visa,HUSTOPECE,3
+SOUTHMORAVIAN,visa,MORAVSKÝ KRUMLOV,1
+JIHOMORAVSKY,visa,HUSTOPEČE,1
+JIHOMORAVSKÝKRAJ,visa,HUSTOPEČE,1
+SOUTHMORAVIAN,visa,BOŘETICE,1
+JIHOČESKY,visa,JISTEBNICE,1
+SOUTHMORAVIAN,visa,HODONIN,11
+JIHOMORAVSKY,visa,HODONIN,3
+JIHOMORAVSKÝKRAJ,visa,HODONÍN,1
+SOUTHMORAVIAN,visa,HODONÍN,3
+SOUTHMORAVIAN,visa,CEJKOVICE,1
+PLZENSKY,visa,PLANA,1
+PLZENSKY,visa,PLANÁ,1
+PLZENSKY,visa,MIROŠOV,1
+SOUTHMORAVIAN,visa,KOBYLI,1
+PLZEŇSKY,visa,TOUŠKOV,1
+SOUTHMORAVIAN,visa,ŽABČICE,1
+VYSOCINA,visa,TREST,2
+VYSOCINA,visa,TREBIC,7
+SOUTHMORAVIAN,visa,MUTENICE,1
+VYSOCINA,visa,TŘEBIČ,5
+VYSOCINA,visa,STRITEZ,1
+SOUTHMORAVIAN,visa,HRUŠOVANY U BRNA,1
+KRAJVYSOČINA,visa,TŘEBÍČ,1
+PLZENSKY,visa,HRADEK,1
+PLZENSKY,visa,CHODOVA PLANA,1
+PLZENSKY,visa,PLZEŇ 1 - BOLEVEC,1
+PLZENSKY,visa,CHOTIKOV,1
+VYSOČINA,visa,TŘEBIČ,4
+VYSOCINA,visa,TŘEBÍČ,2
+SOUTHMORAVIAN,visa,ROHATEC,1
+SOUTHMORAVIAN,visa,DOLNI KOUNICE,1
+VYSOCINA,visa,OKRISKY,2
+SOUTHMORAVIAN,visa,ZIDLOCHOVICE,2
+PLZENSKY,visa,ROKYCANY,5
+SOUTHMORAVIAN,visa,BRUMOVICE,1
+SOUTHMORAVIAN,visa,CEJC,1
+JIHOMORAVSKÝKRAJ,visa,IVANČICE,1
+SOUTHMORAVIAN,visa,IVANCICE,3
+PLZEŇSKY,visa,ROKYCANY,4
+PLZEŇSKÝKRAJ,visa,ROKYCANY,2
+JIHOMORAVSKY,visa,IVANČICE,1
+SOUTHMORAVIAN,visa,DUBNANY,1
+JIHOMORAVSKY,visa,DUBŇANY,1
+SOUTHMORAVIAN,visa,OSLAVANY,2
+CENTRALBOHEMIA,visa,PRIBRAM,8
+CENTRALBOHEMIA,visa,PŘIBRAM,7
+STŘEDOČESKÝKRAJ,visa,PŘÍBRAM,2
+CENTRALBOHEMIA,visa,PŘÍBRAM,4
+SOUTHMORAVIAN,visa,ŠITBOŘICE,1
+PLZEŇSKY,visa,KONSTANTINOVY LAZNĚ,1
+SOUTHMORAVIAN,visa,KLOBOUKY U BRNA,1
+CENTRALBOHEMIA,visa,ŘÍČANY,3
+JIHOMORAVSKY,visa,RATIŠKOVICE,1
+PLZENSKY,visa,ZRUČ-SENEC,1
+PLZENSKY,visa,STRASICE,1
+VYSOCINA,visa,BRTNICE,1
+JIHOCESKY,visa,SEDLEC-PRCICE,1
+STŘEDOČESKY,visa,PŘIBRAM,4
+PLZENSKY,visa,TREMOSNA,1
+VYSOČINA,visa,PACOV,1
+VYSOCINA,visa,PACOV,2
+VYSOCINA,visa,PELHRIMOV,7
+VYSOČINA,visa,PELHŘIMOV,4
+KARLOVARSKY,visa,VELKA HLEĎSEBE,1
+STŘEDOČESKY,visa,KAMYK NAD VLTAVOU,1
+VYSOCINA,visa,PELHŘIMOV,5
+SOUTHMORAVIAN,visa,RAJHRAD,2
+KARLOVARSKY,visa,MARIÁNSKÉ LÁZNĚ,2
+SOUTHMORAVIAN,visa,STRAZNICE,2
+SOUTHMORAVIAN,visa,OŘECHOV,1
+KARLOVARSKY,visa,MARIANSKE LAZNE,5
+VYSOCINA,visa,NAMEST NAD OSLAVOU,3
+KRAJVYSOČINA,visa,PELHŘIMOV,1
+VYSOČINA,visa,NAMĚŠŤ NAD OSLAVOU,1
+SOUTHMORAVIAN,visa,ZBYSOV,1
+KARLOVARSKY,visa,MARIANSKE LAZNĚ,13
+JIHOCESKY,visa,MLADA VOZICE,1
+JIHOČESKY,visa,MLADA VOŽICE,1
+PLZENSKY,visa,HORNI BRIZA,1
+SOUTHMORAVIAN,visa,SVATOBOŘICE-MISTŘIN,1
+KARLOVARSKY,visa,CHEB,24
+SOUTHMORAVIAN,visa,STŘELICE,1
+PLZENSKY,visa,MYTO,1
+KARLOVARSKY,visa,LÁZNĚ KYNŽVART,1
+SOUTHMORAVIAN,visa,VELKA NAD VELICKOU,1
+SOUTHMORAVIAN,visa,ROSICE,3
+SOUTHMORAVIAN,visa,MODŘICE,2
+JIHOMORAVSKY,visa,ROSICE U BRNA,1
+VYSOCINA,visa,JIHLAVA,23
+SOUTHMORAVIAN,visa,KYJOV,6
+CENTRALBOHEMIA,visa,SEDLCANY,2
+STŘEDOČESKY,visa,SEDLČANY,1
+KARLOVARSKÝKRAJ,visa,CHEB,1
+CENTRALBOHEMIA,visa,SEDLČANY,1
+VYSOČINA,visa,JIHLAVA,7
+KRAJVYSOČINA,visa,JIHLAVA,2
+SOUTHMORAVIAN,visa,VRACOV,1
+SOUTHMORAVIAN,visa,BRNO,170
+KARLOVARSKY,visa,TEPLA U MARIANSKYCH LAZNI,1
+SOUTHMORAVIAN,visa,BRNO - MODŘICE,1
+SOUTHMORAVIAN,visa,UJEZD U BRNA,1
+SOUTHMORAVIAN,visa,SOKOLNICE,1
+JIHOMORAVSKY,visa,KYJOV,2
+SOUTHMORAVIAN,visa,MODRICE,1
+JIHOMORAVSKY,visa,BRNO,59
+JIHOMORAVSKÝKRAJ,visa,KYJOV,1
+SOUTHMORAVIAN,visa,BZENEC,2
+JIHOMORAVSKÝKRAJ,visa,BRNO - MODŘICE,1
+VYSOČINA,visa,LUKA NAD JIHLAVOU,1
+SOUTHMORAVIAN,visa,BRNO - CHRLICE,1
+JIHOMORAVSKÝKRAJ,visa,BRNO,23
+PLZENSKY,visa,KAZNEJOV,1
+ZLINSKY,visa,VESELI NAD MORAVOU,1
+SOUTHMORAVIAN,visa,VESELÍ NAD MORAVOU,1
+SOUTHMORAVIAN,visa,BRNO - STARY LISKOVEC,1
+SOUTHMORAVIAN,visa,VESELI NAD MORAVOU,5
+PLZENSKY,visa,RADNICE,1
+SOUTHMORAVIAN,visa,OSTROVAČICE,1
+CENTRALBOHEMIA,visa,KOMAROV,1
+CENTRALBOHEMIA,visa,VOTICE,2
+STŘEDOČESKY,visa,VOTICE,1
+CENTRALBOHEMIA,visa,JINCE,1
+SOUTHMORAVIAN,visa,ZDANICE,1
+KARLOVARSKY,visa,FRANTISKOVY LAZNE,2
+KARLOVARSKY,visa,FRANTIŠKOVY LAZNĚ,2
+SOUTHMORAVIAN,visa,ZALESNA ZHOŘ,1
+SOUTHMORAVIAN,visa,PŘIBYSLAVICE,1
+ZLIN,visa,UHERSKY OSTROH,3
+VYSOCINA,visa,VELKÁ BÍTEŠ,1
+VYSOCINA,visa,VELKA BITES,1
+SOUTHMORAVIAN,visa,BRNO - BYSTRC,1
+VYSOČINA,visa,VELKA BITEŠ,1
+SOUTHMORAVIAN,visa,SLAPANICE U BRNA,1
+PLZENSKY,visa,PLASY,1
+ZLIN,visa,STRANI,1
+CENTRALBOHEMIA,visa,OLBRAMOVICE,1
+VYSOCINA,visa,VELKE MEZIRICI,3
+SOUTHMORAVIAN,visa,SLAPANICE,1
+KRAJVYSOČINA,visa,VELKÉ MEZIŘÍČÍ,1
+PLZENSKY,visa,ZBIROH,2
+VYSOČINA,visa,VELKE MEZIŘIČI,2
+VYSOCINA,visa,VELKÉ MEZIŘÍČÍ,1
+VYSOCINA,visa,VELKE MEZIŘIČI,1
+STŘEDOČESKY,visa,HOŘOVICE,1
+SOUTHMORAVIAN,visa,BRNO - JULIANOV,1
+CENTRALBOHEMIA,visa,HOROVICE,4
+CENTRALBOHEMIA,visa,DOBRIS,3
+STŘEDOČESKY,visa,DOBŘIŠ,2
+CENTRALBOHEMIA,visa,DOBŘÍŠ,1
+SOUTHMORAVIAN,visa,BRNO - ŽIDENICE,1
+KARLOVARSKY,visa,KYNSPERK NAD OHRI,2
+VYSOCINA,visa,HERALEC,1
+SOUTHMORAVIAN,visa,SLAVKOV U BRNA,4
+SOUTHMORAVIAN,visa,TVAROZNA,1
+ZLIN,visa,OSTROŽSKÁ NOVÁ VES,1
+JIHOMORAVSKY,visa,SLAVKOV U BRNA,1
+SOUTHMORAVIAN,visa,ROZDROJOVICE,1
+CENTRALBOHEMIA,visa,HOSTOMICE,1
+KARLOVARSKY,visa,VOJTANOV,1
+PLZEŇSKY,visa,MANĚTIN,1
+VYSOCINA,visa,HUMPOLEC,6
+SOUTHMORAVIAN,visa,VEVERSKA BITYSKA,1
+ZLIN,visa,HLUK,2
+VYSOČINA,visa,HUMPOLEC,2
+SOUTHMORAVIAN,visa,TVAROŽNA,1
+KARLOVARSKY,visa,SKALNA,1
+KARLOVARSKY,visa,BEČOV NAD TEPLOU,1
+PRAHA,visa,PRAHA,795
+CENTRALBOHEMIA,visa,ZEBRAK,1
+KARLOVARSKY,visa,TOUZIM,1
+KARLOVARSKY,visa,TOUŽIM,2
+KARLOVARSKY,visa,AŠ,6
+SOUTHMORAVIAN,visa,BUCOVICE,3
+ZLIN,visa,KORYCANY,1
+ZLIN,visa,NIVNICE,1
+JIHOMORAVSKY,visa,BUČOVICE,1
+KARLOVARSKY,visa,AS,3
+SOUTHMORAVIAN,visa,POZOŘICE,1
+SOUTHMORAVIAN,visa,MOKRÁ HORÁKOV,1
+KARLOVARSKÝKRAJ,visa,AŠ,1
+CENTRALBOHEMIA,visa,NEVEKLOV,1
+VYSOCINA,visa,KRIZANOV,1
+SOUTHMORAVIAN,visa,BILOVICE NAD SVITAVOU,1
+VYSOCINA,visa,POLNA,2
+VYSOCINA,visa,POLNÁ,1
+PLZEŇSKY,visa,KRALOVICE,1
+PLZENSKY,visa,KRALOVICE,2
+CENTRALBOHEMIA,visa,BYSTRICE,1
+ZLIN,visa,VLČNOV,1
+KARLOVARSKY,visa,BREZOVA,1
+ZLIN,visa,KUNOVICE,2
+SOUTHMORAVIAN,visa,ROUSINOV,2
+JIHOMORAVSKY,visa,ROUSINOV,1
+ZLIN,visa,BUCHLOVICE,1
+JIHOMORAVSKÝKRAJ,visa,KUŘIM,1
+SOUTHMORAVIAN,visa,KURIM,3
+JIHOMORAVSKY,visa,KUŘIM,2
+SOUTHMORAVIAN,visa,KUŘIM,1
+STŘEDOČESKY,visa,VLAŠIM,3
+ZLINSKY,visa,UHERSKE HRADIŠTĚ,4
+KARLOVARSKY,visa,HORNI SLAVKOV,3
+ZLIN,visa,BÁNOV,1
+KARLOVARSKY,visa,HABARTOV,1
+ZLIN,visa,UHERSKE HRADIŠTĚ,7
+ZLIN,visa,UHERSKE HRADISTE,6
+ZLÍNSKÝKRAJ,visa,UHERSKÉ HRADIŠTĚ,1
+CENTRALBOHEMIA,visa,VLASIM,3
+ZLIN,visa,STARE MĚSTO U UHERSKEHO HRADIŠTĚ,1
+STŘEDOČESKÝKRAJ,visa,VLAŠIM,1
+CENTRALBOHEMIA,visa,VLAŠIM,1
+ZLIN,visa,UHERSKÉ HRADIŠTĚ,2
+ZLIN,visa,UHERSKY BROD,6
+ZLIN,visa,UHERSKÝ BROD,2
+ZLIN,visa,STARE MESTO,3
+SOUTHMORAVIAN,visa,TISNOV,4
+JIHOMORAVSKY,visa,TIŠNOV,2
+ZLINSKY,visa,STARE MĚSTO U UHERSKEHO HRADIŠTĚ,1
+KARLOVARSKY,visa,SOKOLOV,13
+ZLÍNSKÝKRAJ,visa,STARÉ MĚSTO,1
+SOUTHMORAVIAN,visa,TIŠNOV,1
+ZLINSKY,visa,UHERSKY BROD,3
+ZLÍNSKÝKRAJ,visa,UHERSKÝ BROD,1
+CENTRALBOHEMIA,visa,ZDICE,1
+KARLOVARSKÝKRAJ,visa,SOKOLOV,2
+SOUTHMORAVIAN,visa,ADAMOV,3
+ZLINSKYKRAJ,visa,VELEHRAD,1
+KARLOVARSKY,visa,ZLUTICE,1
+CENTRALBOHEMIA,visa,MNISEK POD BRDY,1
+VYSOCINA,visa,HARRACHOV,2
+KARLOVARSKY,visa,ŽLUTICE,1
+STŘEDOČESKY,visa,MNIŠEK POD BRDY,1
+CENTRALBOHEMIA,visa,BENESOV,4
+CENTRALBOHEMIA,visa,BENEŠOV,5
+STŘEDOČESKY,visa,BENEŠOV,4
+CENTRALBOHEMIA,visa,BENESOV U PRAHY,1
+STŘEDOČESKÝKRAJ,visa,BENEŠOV,2
+STREDOCESKY,visa,BENESOV,1
+STŘEDOČESKY,visa,KLADRUBY U VLAŠIMI,1
+KARLOVARSKY,visa,LOKET,1
+CENTRALBOHEMIA,visa,KRALŮV DVŮR,1
+CENTRALBOHEMIA,visa,STECHOVICE,1
+KARLOVARSKY,visa,LUBY U CHEBU,1
+CENTRALBOHEMIA,visa,KRALUV DVUR,2
+VYSOCINA,visa,HAVLÍČKŮV BROD,2
+VYSOČINA,visa,HAVLIČKŮV BROD,5
+VYSOCINA,visa,HAVLICKUV BROD,8
+KARLOVARSKY,visa,NOVE SEDLO,1
+STŘEDOČESKY,visa,TYNEC NAD SAZAVOU,1
+CENTRALBOHEMIA,visa,TYNEC NAD SAZAVOU,2
+CENTRALBOHEMIA,visa,BEROUN,8
+VYSOCINA,visa,HAVLIČKŮV BROD,1
+KRAJVYSOČINA,visa,HAVLÍČKŮV BROD,1
+CENTRALBOHEMIA,visa,REVNICE,1
+CENTRALBOHEMIA,visa,KARLSTEJN,2
+STŘEDOČESKY,visa,BEROUN,4
+STŘEDOČESKY,visa,ŘEVNICE,1
+CENTRALBOHEMIA,visa,TÝNEC NAD SÁZAVOU,1
+ZLIN,visa,BOJKOVICE,2
+CENTRALBOHEMIA,visa,KARLŠTEJN,3
+CENTRALBOHEMIA,visa,ZRUČ NAD SAZAVOU,1
+VYSOCINA,visa,PRIBYSLAV,2
+STŘEDOČESKÝKRAJ,visa,BEROUN,2
+VYSOCINA,visa,ZVOLE,1
+SOUTHMORAVIAN,visa,BLANSKO,11
+CENTRALBOHEMIA,visa,KRALŮV DVŮR (BEROUN),1
+STŘEDOČESKY,visa,KARLŠTEJN,1
+VYSOČINA,visa,LEDEČ NAD SAZAVOU,1
+JIHOMORAVSKY,visa,BLANSKO,2
+CENTRALBOHEMIA,visa,DAVLE,1
+VYSOCINA,visa,LEDEC NAD SAZAVOU,2
+SOUTHMORAVIAN,visa,VYŠKOV,6
+SOUTHMORAVIAN,visa,VYSKOV,7
+VYSOCINA,visa,SVETLA NAD SAZAVOU,2
+VYSOČINA,visa,SVĚTLA NAD SAZAVOU,1
+JIHOMORAVSKÝKRAJ,visa,VYŠKOV,2
+KARLOVARSKY,visa,JENIŠOV U KARLOVYCH VARŮ,3
+CENTRALBOHEMIA,visa,HRADEC KRALOVE,1
+KARLOVARSKY,visa,KARLOVY VARY,54
+KARLOVARSKÝKRAJ,visa,KARLOVY VARY,5
+STŘEDOČESKY,visa,ZRUČ NAD SAZAVOU,1
+KARLOVARSKY,visa,JENISOV,1
+JIHOMORAVSKY,visa,VYŠKOV,3
+CENTRALBOHEMIA,visa,LETY,1
+STŘEDOČESKY,visa,JESENICE U RAKOVNIKA,1
+STŘEDOČESKY,visa,DOBŘICHOVICE,1
+JIHOMORAVSKÝKRAJ,visa,BLANSKO,1
+CENTRALBOHEMIA,visa,ZRUC NAD SAZAVOU,1
+SOUTHMORAVIAN,visa,JEDOVNICE,1
+CENTRALBOHEMIA,visa,DOBRICHOVICE,2
+KARLOVARSKY,visa,CHODOV,4
+VYSOČINA,visa,ŽĎAR NAD SAZAVOU,5
+VYSOCINA,visa,ZDAR NAD SAZAVOU,6
+VYSOCINA,visa,ŽĎÁR NAD SÁZAVOU,2
+SOUTHMORAVIAN,visa,NEDVĚDICE,1
+KARLOVARSKY,visa,CHODOV U KARLOVYCH VARŮ,2
+VYSOCINA,visa,ŽĎAR NAD SAZAVOU,2
+VYSOCINA,visa,ŽDAR NAD SAZAVOU,1
+CENTRALBOHEMIA,visa,HÝSKOV,1
+CENTRALBOHEMIA,visa,JILOVE U PRAHY,1
+CENTRALBOHEMIA,visa,CERCANY,1
+PLZEŇSKYKRAJ,visa,KARLOVY VARY,1
+KRAJVYSOČINA,visa,ŽĎÁR NAD SÁZAVOU,1
+STŘEDOČESKY,visa,JILOVE U PRAHY,1
+CENTRALBOHEMIA,visa,KŘIVOKLAT,1
+ZLIN,visa,MORKOVICE - SLIŽANY,1
+VYSOCINA,visa,HAVLIČKUV BROD,1
+ZLIN,visa,LUHAČOVICE,2
+KARLOVARSKY,visa,KARLOVY VARY - STARA ROLE,1
+SOUTHMORAVIAN,visa,ČERNA HORA,1
+ZLIN,visa,LUHACOVICE,2
+ZLINSKY,visa,LUHAČOVICE,1
+CENTRALBOHEMIA,visa,VRANE NAD VLTAVOU,2
+ZLIN,visa,NAPAJEDLA,3
+CENTRALBOHEMIA,visa,ČERNOŠICE,1
+CENTRALBOHEMIA,visa,CERNOSICE,2
+KARLOVARSKY,visa,ROTAVA,1
+ZLIN,visa,ZDOUNKY,1
+JIHOMORAVSKY,visa,RAJEC - JESTŘEBI,1
+STŘEDOČESKY,visa,KAMENICE U PRAHY,1
+HLAVNIMĚSTOPRAHA,visa,PRAHA,42
+STŘEDOČESKÝKRAJ,visa,ČERNOŠICE,1
+KARLOVARSKY,visa,NOVA ROLE,1
+CENTRALBOHEMIA,visa,KAMENICE,1
+STŘEDOČESKYKRAJ,visa,LODĚNICE,1
+ZLINSKY,visa,SLAVIČIN,1
+VYSOCINA,visa,NOVE MESTO NA MORAVE,2
+ZLIN,visa,SLAVICIN,2
+KARLOVARSKY,visa,KRASLICE,3
+SOUTHMORAVIAN,visa,IVANOVICE NA HANÉ,1
+CENTRALBOHEMIA,visa,RAKOVNIK,9
+VYSOČINA,visa,NOVE MĚSTO NA MORAVĚ,1
+VYSOCINA,visa,NOVÉ MĚSTO NA MORAVĚ,1
+CENTRALBOHEMIA,visa,VYSOKY UJEZD,1
+SOUTHMORAVIAN,visa,LYSICE,1
+VYSOCINA,visa,BYSTRICE NAD PERNSTEJNEM,2
+VYSOČINA,visa,BYSTŘICE NAD PERNŠTEJNEM,2
+VYSOCINA,visa,BYSTŘICE NAD PERNŠTEJNEM,2
+CENTRALBOHEMIA,visa,PRAHA,36
+ZLIN,visa,ŠTÍTNÁ NAD VLÁŘÍ,1
+CENTRALBOHEMIA,visa,CHYŇAVA,1
+STŘEDOČESKY,visa,RAKOVNIK,4
+CENTRALBOHEMIA,visa,RAKOVNÍK,2
+CENTRALBOHEMIA,visa,SULICE,1
+ZLIN,visa,OTROKOVICE,9
+STŘEDOČESKÝKRAJ,visa,RAKOVNÍK,1
+ZLÍNSKÝKRAJ,visa,OTROKOVICE,1
+CENTRALBOHEMIA,visa,PRAHA 5 - ZBRASLAV,1
+CENTRALBOHEMIA,visa,DOLNI BŘEŽANY,1
+ZLINSKY,visa,OTROKOVICE,2
+PRAHA,visa,PRAHA 5,46
+PRAHA,visa,PRAHA 5 - ZBRASLAV,1
+CENTRALBOHEMIA,visa,VELKÉ POPOVICE,1
+CENTRALBOHEMIA,visa,PRAHA 5 - RADOTIN,1
+ZLINSKY,visa,ZLIN,11
+CENTRALBOHEMIA,visa,PRAHA 5,16
+ZLIN,visa,ZLÍN,3
+CENTRALBOHEMIA,visa,PRAHA 1,1
+CENTRALBOHEMIA,visa,DOLNI BREZANY,1
+ZLIN,visa,ZLIN,25
+STŘEDOČESKY,visa,DOLNI BŘEŽANY,1
+KARLOVARSKY,visa,NEJDEK,3
+CENTRALBOHEMIA,visa,SAZAVA,2
+ZLIN,visa,ZLIN - MALENOVICE,1
+ZLIN,visa,KVASICE,1
+ZLINSKY,visa,BRUMOV - BYLNICE,1
+ZLIN,visa,BRUMOV-BYLNICE,2
+CENTRALBOHEMIA,visa,JESENICE,3
+STŘEDOČESKY,visa,JESENICE,1
+STŘEDOČESKÝKRAJ,visa,JESENICE,1
+PRAHA,visa,PRAHA 4,67
+CENTRALBOHEMIA,visa,ZBRASLAVICE,1
+CENTRALBOHEMIA,visa,RUDNA,2
+KARLOVARSKY,visa,HROZNĚTIN,1
+SOUTHMORAVIAN,visa,KUNSTAT,1
+VYSOČINA,visa,CHOTĚBOŘ,1
+VYSOCINA,visa,CHOTĚBOŘ,2
+CENTRALBOHEMIA,visa,MNICHOVICE,2
+CENTRALBOHEMIA,visa,VESTEC U PRAHY,1
+CENTRALBOHEMIA,visa,VESTEC,2
+PRAHA,visa,PRAHA 4 - MODRANY,4
+VYSOCINA,visa,CHOTEBOR,2
+ZLÍNSKÝKRAJ,visa,KROMĚŘÍŽ,2
+ZLIN,visa,KROMERIZ,6
+KARLOVARSKY,visa,OSTROV,4
+STŘEDOČESKY,visa,STRANČICE,1
+KARLOVARSKY,visa,OSTROV NAD OHŘI,2
+PRAHA,visa,PRAHA 12,1
+KARLOVARSKY,visa,OSTROV NAD OHŘÍ,1
+PRAHA,visa,PRAHA 5 - MALA CHUCHLE,1
+OLOMOUCKY,visa,NEMCICE NAD HANOU,1
+KARLOVARSKÝKRAJ,visa,OSTROV,1
+ZLINSKY,visa,KROMĚŘIŽ,5
+VYSOCINA,visa,ŽDÍREC NAD DOUBRAVOU,1
+SOUTHMORAVIAN,visa,BOSKOVICE,8
+JIHOMORAVSKÝKRAJ,visa,BOSKOVICE,1
+JIHOMORAVSKY,visa,BOSKOVICE,3
+ZLIN,visa,KROMĚŘÍŽ,2
+VYSOCINA,visa,ZDIREC NAD DOUBRAVOU,1
+ZLINSKYKRAJ,visa,ZLIN,1
+ZLÍNSKÝKRAJ,visa,ZLÍN,6
+CENTRALBOHEMIA,visa,PRAHA 4,18
+STŘEDOČESKY,visa,CHRAŠŤANY,1
+HLAVNIMĚSTOPRAHA,visa,PRAGUE,49
+SOUTHMORAVIAN,visa,DOMAZLICE,1
+ZLIN,visa,KROMĚŘIŽ,2
+USTECKY,visa,PODBOŘANY,2
+USTECKY,visa,PODBORANY,2
+PRAHA,visa,PRAHA 13,6
+PRAHA,visa,PRAHA 5 - BARRANDOV,2
+CENTRALBOHEMIA,visa,UHLIRSKE JANOVICE,2
+CENTRALBOHEMIA,visa,PRAHA 13,1
+STŘEDOČESKY,visa,UHLIŘSKE JANOVICE,1
+CENTRALBOHEMIA,visa,UNHOŠŤ,1
+CENTRALBOHEMIA,visa,UNHOST,2
+PRAHA,visa,PRAHA 5 - HLUBOCEPY,1
+SOUTHMORAVIAN,visa,OLESNICE,1
+CENTRALBOHEMIA,visa,PRAHA 5 - TREBONICE,2
+STŘEDOČESKÝKRAJ,visa,HOSTIVICE,1
+CENTRALBOHEMIA,visa,PRAHA 4 - KUNRATICE,1
+ZLIN,visa,VALASSKE KLOBOUKY,2
+ZLIN,visa,VALAŠSKÉ KLOBOUKY,1
+CENTRALBOHEMIA,visa,PRŮHONICE,1
+CENTRALBOHEMIA,visa,PRUHONICE,1
+ZLINSKY,visa,VALAŠSKE KLOBOUKY,1
+CENTRALBOHEMIA,visa,VELKÁ DOBRÁ,1
+PRAHA,visa,PRAHA 5 - STODULKY,2
+CENTRALBOHEMIA,visa,CESTLICE,3
+STŘEDOČESKY,visa,PRŮHONICE,1
+PRAHA,visa,PRAHA 4 - BRANIK,1
+KARLOVARSKY,visa,PERNINK,1
+STŘEDOČESKY,visa,ČESTLICE,4
+PRAHA,visa,PRAHA 4 - KRC,1
+OLOMOUCKY,visa,KOJETIN,3
+STŘEDOČESKY,visa,JENEČ,1
+CENTRALBOHEMIA,visa,PRAHA 6 - REPY,3
+CENTRALBOHEMIA,visa,ČESTLICE,1
+CENTRALBOHEMIA,visa,PRAHA 6,14
+PRAHA,visa,PRAHA 6,38
+CENTRALBOHEMIA,visa,PRAHA 22,1
+STŘEDOČESKY,visa,HOSTIVICE,1
+CENTRALBOHEMIA,visa,ŘIČANY,2
+CENTRALBOHEMIA,visa,NOVÉ STRAŠECÍ,1
+STŘEDOČESKY,visa,ŘIČANY U PRAHY,3
+CENTRALBOHEMIA,visa,RICANY,3
+CENTRALBOHEMIA,visa,NOVE STRASECI,2
+STŘEDOČESKY,visa,ŘIČANY,1
+CENTRALBOHEMIA,visa,HOSTIVICE,2
+CENTRALBOHEMIA,visa,PRAHA 4 - CHODOV,3
+CENTRALBOHEMIA,visa,STOCHOV,3
+JIHOMORAVSKY,visa,LETOVICE,1
+PRAHA,visa,PRAHA 4 - PODOLI,2
+SOUTHMORAVIAN,visa,LETOVICE,3
+PRAHA,visa,PRAHA 4 - KAVCI HORY,1
+VYSOCINA,visa,SNĚŽNE,1
+ZLINSKY,visa,HULIN,1
+VYSOCINA,visa,GOLCUV JENIKOV,1
+STŘEDOČESKÝKRAJ,visa,ŘÍČANY,1
+ZLIN,visa,HULIN,2
+CENTRALBOHEMIA,visa,PRAHA 11 - HAJE,1
+STŘEDOČESKY,visa,ŘEVNIČOV,1
+PRAHA,visa,PRAHA 4 - MICHLE,1
+CENTRALBOHEMIA,visa,PRAHA - KOLOVRATY,1
+KARLOVARSKY,visa,JACHYMOV,4
+PRAHA,visa,PRAHA 5 - SMICHOV,4
+STŘEDOČESKY,visa,MUKAŘOV,1
+CENTRALBOHEMIA,visa,MUKAŘOV,1
+CENTRALBOHEMIA,visa,KLADNO,26
+CENTRALBOHEMIA,visa,DOBROVIZ,1
+JIHOMORAVSKY,visa,VIZOVICE,1
+PRAHA,visa,PRAHA 2,27
+ZLIN,visa,VIZOVICE,1
+STŘEDOČESKY,visa,KLADNO,12
+STŘEDOČESKÝKRAJ,visa,KLADNO,4
+PRAHA,visa,PRAHA 2 - ALBERTOV,1
+PRAHA,visa,PRAHA 10,46
+ZLIN,visa,CHROPYNE,1
+PRAHA,visa,PRAHA 2 - NOVE MESTO,1
+PRAHA,visa,PRAHA 4 - KAMYK,1
+PRAHA,visa,PRAGUE,9
+CENTRALBOHEMIA,visa,PRAHA 10 - UHRINEVES,1
+CENTRALBOHEMIA,visa,PRAHA 10 - HORNI MECHOLUPY,2
+PRAHA,visa,PRAHA 22,1
+MORAVSKOSLEZSKY,visa,FRYDLANT NAD OSTRAVICI,1
+CENTRALBOHEMIA,visa,PRAHA 15,1
+CENTRALBOHEMIA,visa,PRAHA 6 - RUZYNE,1
+PRAHA,visa,PRAHA 6 - BREVNOV,1
+PRAHA,visa,PRAHA 10 - VRSOVICE,3
+PRAHA,visa,PRAHA 22 - UHRINEVES,1
+PRAHA,visa,PRAHA 22 - UHŘINĚVES,1
+PRAHA,visa,PRAHA 10 - HORNI MECHOLUPY,1
+PRAHA,visa,PRAHA 15,1
+PARDUBICKY,visa,BYSTRE,1
+ZLIN,visa,SLUSOVICE,1
+PRAHA,visa,PRAHA 1,68
+PRAHA,visa,PRAHA 10 - HOSTIVAR,1
+PRAHA,visa,PRAHA 1 - NOVE MESTO,1
+PRAHA,visa,PRAHA 2 - VINOHRADY,2
+VYSOCINA,visa,SVRATKA,1
+ZLIN,visa,FRYSTAK,2
+PRAHA,visa,PRAHA 3,26
+OLOMOUCKY,visa,PLUMLOV,1
+PRAHA,visa,PRAHA 1 - MALA STRANA,2
+HLAVNIMĚSTOPRAHA,visa,PRAG,1
+PRAHA,visa,PRAHA 1 - STARE MESTO,4
+STŘEDOČESKY,visa,KOSTELEC NAD ČERNYMI LESY,1
+PRAHA,visa,PRAHA 1 - HRADCANY,1
+ZLIN,visa,HOLESOV,3
+PRAHA,visa,PRAGE,1
+PRAHA,visa,PRAHA 10 - STRASNICE,1
+CENTRALBOHEMIA,visa,KOSTELEC NAD CERNYMI LESY,2
+PRAHA,visa,PRAHA 3 - ZIZKOV,2
+PRAHA,visa,PRAHA 8,34
+CENTRALBOHEMIA,visa,ZASMUKY,1
+PRAHA,visa,PRAHA 6 - HRADCANY,1
+HLAVNIMESTOPRAHA,visa,PRAHA,1
+ZLINSKY,visa,HOLEŠOV,2
+ZLIN,visa,HOLEŠOV,1
+CENTRALBOHEMIA,visa,TUCHOMERICE,1
+CENTRALBOHEMIA,visa,TUCHOMĚŘICE,1
+PRAHA,visa,PRAHA 6 - DEJVICE,1
+PRAHA,visa,PRAHA 8 - KARLIN,1
+PRAHA,visa,PRAHA 10 - DUBEC,1
+PRAHA,visa,PRAHA 10 - MALESICE,1
+PRAHA,visa,PRAHA 10 - STERBOHOLY,2
+PARDUBICKY,visa,HLINSKO,4
+PRAHA,visa,PRAHA 7,27
+PARDUBICKÝKRAJ,visa,HLINSKO,1
+PARDUBICKY,visa,HLINSKO V CECHACH,1
+CENTRALBOHEMIA,visa,BUŠTĚHRAD,1
+PRAHA,visa,PRAHA 7 - HOLESOVICE,1
+OLOMOUCKY,visa,PROSTEJOV,13
+OLOMOUCKY,visa,PROSTĚJOV,14
+STŘEDOČESKY,visa,SMEČNO,1
+PRAHA,visa,PRAHA 9 - HRDLOREZY,1
+PRAHA,visa,PRAHA 9,48
+CENTRALBOHEMIA,visa,HOROMERICE,1
+OLOMOUCKÝKRAJ,visa,PROSTĚJOV,2
+USTECKYKRAJ,visa,HORNI JIŘETIN,1
+CENTRALBOHEMIA,visa,HOROMĚŘICE,1
+OLOMOUCKY,visa,TOVACOV,1
+PRAHA,visa,PRAHA 9 - LIBEN,1
+OLOMOUCKY,visa,TOVAČOV,1
+CENTRALBOHEMIA,visa,PRAHA 6 - SUCHDOL,1
+STŘEDOČESKY,visa,STEHELČEVES,1
+CENTRALBOHEMIA,visa,CASLAV,3
+CENTRALBOHEMIA,visa,ČÁSLAV,2
+STŘEDOČESKY,visa,ČASLAV,3
+CENTRALBOHEMIA,visa,KUTNA HORA,17
+CENTRALBOHEMIA,visa,KOURIM,1
+PARDUBICKY,visa,SEC,1
+CENTRALBOHEMIA,visa,PRAHA 8,4
+CENTRALBOHEMIA,visa,PRAHA 8 - TROJA,1
+CENTRALBOHEMIA,visa,PRAHA 9,2
+PRAHA,visa,PRAHA 9 - VYSOCANY,2
+PRAHA,visa,UJEZD NAD LESY,1
+CENTRALBOHEMIA,visa,PRAHA 9 - UJEZD NAD LESY,1
+CENTRALBOHEMIA,visa,PRAHA 8 - BOHNICE,1
+USTECKY,visa,KLASTEREC NAD OHRI,4
+CENTRALBOHEMIA,visa,SUCHDOL NAD ODROU,1
+PARDUBICKY,visa,TREMOSNICE,2
+OLOMOUCKY,visa,DRZOVICE,1
+PRAHA,visa,PRAHA 8 - KOBYLISY,3
+OLOMOUCKY,visa,PROSTĚJOV - DRŽOVICE,1
+USTECKY,visa,ZATEC,6
+USTECKY,visa,ŽATEC,6
+USTECKY,visa,KLÁŠTEREC NAD OHŘÍ,2
+PARDUBICKY,visa,BREZOVA NAD SVITAVOU,1
+CENTRALBOHEMIA,visa,ÚVALY,1
+STŘEDOČESKY,visa,UVALY,1
+STŘEDOČESKY,visa,KUTNA HORA,5
+STŘEDOČESKY,visa,VELKE PŘILEPY,1
+USTECKY,visa,KLAŠTEREC NAD OHŘI,2
+PRAHA,visa,PRAHA 8 - LADVI,1
+CENTRALBOHEMIA,visa,KUTNÁ HORA,2
+STŘEODČESKÝKRAJ,visa,KUTNÁ HORA,1
+PARDUBICKY,visa,POLICKA,2
+PRAHA,visa,PRAHA 9 - CERNY MOST,4
+PARDUBICKY,visa,POLIČKA,3
+USTECKY,visa,KADAN,5
+CENTRALBOHEMIA,visa,UVALY,1
+SOUTHMORAVIAN,visa,VELKE OPATOVICE,1
+USTECKY,visa,KADAŇ,4
+OLOMOUCKY,visa,KOSTELEC NA HANÉ,1
+ÚSTECKÝKRAJ,visa,ŽATEC,1
+PRAHA,visa,PRAHA 9 - LETNANY,7
+CENTRALBOHEMIA,visa,ROZTOKY,2
+STŘEDOČESKÝKRAJ,visa,KUTNÁ HORA,1
+PRAHA,visa,PRAHA 20,1
+PRAHA,visa,PRAHA 9 - HORNI POCERNICE,2
+CENTRALBOHEMIA,visa,ROZTOKY U PRAHY,1
+PARDUBICKY,visa,NASAVRKY,1
+CENTRALBOHEMIA,visa,SLANY,4
+STŘEDOČESKY,visa,SLANY,4
+CENTRALBOHEMIA,visa,SLANÝ,2
+CENTRALBOHEMIA,visa,KLIMKOVICE,1
+STŘEDOČESKÝKRAJ,visa,SLANÝ,1
+PRAHA,visa,PRAHA 9 - KBELY,1
+STŘEDOČESKY,visa,ČESKY BROD,1
+PARDUBICKY,visa,JEVICKO,2
+CENTRALBOHEMIA,visa,ČESKÝ BROD,1
+PRAHA,visa,PRAHA 9 - CAKOVICE,3
+CENTRALBOHEMIA,visa,CESKY BROD,3
+PARDUBICKY,visa,JEVIČKO,1
+STŘEDOČESKYKRAJ,visa,ŠESTAJOVICE,1
+CENTRALBOHEMIA,visa,SEDLEC,1
+OLOMOUCKY,visa,KONICE,2
+CENTRALBOHEMIA,visa,KLECANY,1
+CENTRALBOHEMIA,visa,HOLUBICE,1
+ZLIN,visa,CHVALČOV,1
+OLOMOUCKY,visa,PŘEROV,12
+OLOMOUCKY,visa,PREROV,12
+PRAHA,visa,PRAHA 9 - VINOR,1
+CENTRALBOHEMIA,visa,ZDIBSKO,1
+CENTRALBOHEMIA,visa,ZDIBY,1
+OLOMOUCKÝKRAJ,visa,PŘEROV,2
+CENTRALBOHEMIA,visa,ZELENEČ,1
+OLOMOUCKY,visa,BRODEK U PŘEROVA,1
+STŘEDOČESKY,visa,LIBČICE NAD VLTAVOU,1
+ZLIN,visa,BYSTRICE POD HOSTYNEM,4
+CENTRALBOHEMIA,visa,KOLÍN,2
+CENTRALBOHEMIA,visa,KOLIN,16
+STŘEDOČESKY,visa,KOLIN,7
+ZLINSKY,visa,BYSTŘICE POD HOSTYNEM,1
+OLOMOUCKY,visa,PŘEROV - PŘEDMOSTI,1
+PARDUBICKY,visa,PROSEC,1
+STŘEDOČESKY,visa,NEHVIZDY,1
+STŘEDOČESKÝKRAJ,visa,KOLÍN,2
+ZLIN,visa,HOŠŤÁLKOVÁ,1
+PARDUBICKY,visa,SKUTEČ,1
+ZLIN,visa,HOVĚZÍ,1
+CENTRALBOHEMIA,visa,LIBEREC,1
+PARDUBICKY,visa,SKUTEC,2
+USTECKY,visa,BITOZEVES,1
+OLOMOUCKY,visa,LUTIN,1
+ZLIN,visa,VSETÍN,2
+STŘEDOČESKY,visa,LIBEZNICE,1
+USTECKY,visa,POSTOLOPRTY,3
+USTECKY,visa,VEJPRTY,1
+ZLIN,visa,VSETIN,9
+ZLINSKY,visa,VSETIN,5
+STŘEDOČESKY,visa,KRALUPY NAD VLTAVOU,3
+STŘEDOČESKÝKRAJ,visa,KRALUPY NAD VLTAVOU,2
+CENTRALBOHEMIA,visa,KRALUPY NAD VLTAVOU,7
+CENTRALBOHEMIA,visa,KRALUPY N. VLTAVOU,2
+ZLÍNSKÝKRAJ,visa,VSETÍN,1
+CENTRALBOHEMIA,visa,PORICANY,1
+CENTRALBOHEMIA,visa,PECKY,1
+USTECKY,visa,LOUNY,13
+CENTRALBOHEMIA,visa,PEČKY,1
+CENTRALBOHEMIA,visa,PRESTICE,1
+CENTRALBOHEMIA,visa,CELAKOVICE,3
+PARDUBICKY,visa,SVITAVY,12
+PARDUBICKY,visa,HEŘMANŮV MĚSTEC,2
+ÚSTECKÝKRAJ,visa,LOUNY,2
+CENTRALBOHEMIA,visa,ODOLENA VODA,3
+PARDUBICKY,visa,HERMANUV MESTEC,2
+STŘEDOČESKÝKRAJ,visa,BRANDÝS NAD LABEM,2
+PARDUBICKÝKRAJ,visa,SVITAVY,1
+OLOMOUCKY,visa,NAMĚŠŤ NA HANE,1
+PARDUBICKY,visa,SVITAVY - LANY,1
+CENTRALBOHEMIA,visa,BRANDYS NAD LABEM-STARA BOLESLAV,3
+PARDUBICKY,visa,SLATINANY,1
+STŘEDOČESKY,visa,BRANDYS NAD LABEM,3
+CENTRALBOHEMIA,visa,ČELÁKOVICE,1
+STŘEDOČESKY,visa,ČELAKOVICE,2
+CENTRALBOHEMIA,visa,BRANDÝS NAD LABEM,2
+OLOMOUCKY,visa,OLOMOUC,69
+CENTRALBOHEMIA,visa,BRANDYS NAD LABEM,2
+STŘEDOČESKY,visa,BRANDYS NAD LABEM-STARA BOLESLAV,2
+ZLIN,visa,HALENKOV,1
+PARDUBICKY,visa,HLUBOKA,1
+CENTRALBOHEMIA,visa,VELVARY,1
+STŘEDOČESKY,visa,VELVARY,1
+OLOMOUCKÝKRAJ,visa,OLOMOUC,8
+PARDUBICKY,visa,CHRAST,2
+USTECKY,visa,CHOMUTOV,26
+ÚSTECKÝKRAJ,visa,CHOMUTOV,2
+ZLIN,visa,JABLŮNKA,1
+PARDUBICKY,visa,CHRUDIM,13
+STŘEDOČESKY,visa,TYNEC NAD LABEM,1
+OLOMOUCKY,visa,VELKY TYNEC,3
+OLOMOUCKÝKRAJ,visa,VELKÝ TÝNEC,1
+PARDUBICKY,visa,CHVALETICE,2
+CENTRALBOHEMIA,visa,KOSTELEC NAD LABEM,2
+PARDUBICKY,visa,CHVALETICE U PRELOUCE,1
+CENTRALBOHEMIA,visa,SADSKÁ,1
+CENTRALBOHEMIA,visa,SADSKA,1
+PARDUBICKY,visa,LUZE,1
+PARDUBICKÝKRAJ,visa,CHRUDIM,2
+STŘEDOČESKY,visa,VRBOVA LHOTA,1
+CENTRALBOHEMIA,visa,VELKY OSEK,1
+UNKNOWN,visa,HORA SVATEHO ŠEBESTIANA,1
+STŘEDOČESKÝKRAJ,visa,NERATOVICE,1
+CENTRALBOHEMIA,visa,NERATOVICE,6
+PARDUBICKÝKRAJ,visa,MORAVSKÁ TŘEBOVÁ,1
+STŘEDOČESKY,visa,NERATOVICE,2
+PARDUBICKY,visa,MORAVSKA TŘEBOVA,2
+PARDUBICKY,visa,MORAVSKA TREBOVA,2
+PARDUBICKY,visa,MORAVSKÁ TŘEBOVÁ,1
+STŘEDOČESKÝKRAJ,visa,PODĚBRADY,1
+CENTRALBOHEMIA,visa,PODEBRADY,6
+CENTRALBOHEMIA,visa,LYSA NAD LABEM,4
+OLOMOUCKY,visa,VELKA BYSTŘICE (OLOMOUC),1
+OLOMOUCKY,visa,LIPNIK NAD BECVOU,2
+CENTRALBOHEMIA,visa,LYSÁ NAD LABEM,2
+STŘEDOČESKY,visa,LYSA NAD LABEM,2
+PARDUBICKY,visa,PŘELOUČ,2
+PARDUBICKY,visa,PRELOUC,4
+OLOMOUCKY,visa,LIPNIK NAD BEČVOU,1
+ZLIN,visa,KAROLINKA,1
+CENTRALBOHEMIA,visa,PODĚBRADY,3
+STŘEDOČESKY,visa,PODĚBRADY,2
+OLOMOUCKY,visa,VELKA BYSTRICE,1
+CENTRALBOHEMIA,visa,LIBICE NAD CIDLINOU,1
+STŘEDOČESKY,visa,TIŠICE,1
+USTECKY,visa,JIRKOV,7
+ÚSTECKÝKRAJ,visa,JIRKOV,1
+OLOMOUCKY,visa,HORKA NAD MORAVOU,1
+PARDUBICKY,visa,LITOMYŠL,4
+USTECKY,visa,BEČOV,1
+CENTRALBOHEMIA,visa,KOSTOMLATY NAD LABEM,1
+PARDUBICKY,visa,LITOMYSL,3
+ZLIN,visa,KELC,1
+PARDUBICKÝKRAJ,visa,LITOMYŠL,1
+CENTRALBOHEMIA,visa,DOBŠICE,1
+PARDUBICKY,visa,CASLAV,1
+CENTRALBOHEMIA,visa,NYMBURK,9
+PARDUBICKY,visa,PARDUBICE,50
+CENTRALBOHEMIA,visa,VSETATY,1
+STŘEDOČESKY,visa,NYMBURK,3
+STŘEDOČESKÝKRAJ,visa,NYMBURK,1
+CENTRALBOHEMIA,visa,MILOVICE,5
+USTECKY,visa,LIBOCHOVICE,2
+OLOMOUCKY,visa,HLUBOČKY,1
+STŘEDOČESKY,visa,MILOVICE,1
+USTECKY,visa,MOST,33
+ÚSTECKÝKRAJ,visa,MOST,4
+OLOMOUCKY,visa,LITOVEL,6
+ZLIN,visa,VALAŠSKE MEZIŘIČI,5
+PARDUBICKÝKRAJ,visa,PARDUBICE,5
+OLOMOUCKY,visa,OLOMOUC - SVATY KOPEČEK,1
+PRAHA,visa,PARDUBICE,1
+OLOMOUCKY,visa,LOSTICE,1
+ZLIN,visa,VALAŠSKÉ MEZIŘÍČÍ,2
+ZLINSKY,visa,VALAŠSKE MEZIŘIČI,3
+ZLIN,visa,VALASSKE MEZIRICI,7
+OLOMOUCKY,visa,DOLANY U OLOMOUCE,1
+USTECKY,visa,BUDYNĚ NAD OHŘI,1
+PARDUBICKY,visa,VYSOKE MYTO,6
+ZLÍNSKÝKRAJ,visa,VALAŠSKÉ MEZIŘÍČÍ,1
+OLOMOUCKY,visa,BOHUNOVICE,1
+USTECKY,visa,KOMORANY,1
+OLOMOUCKY,visa,STEPANOV,1
+OLOMOUCKY,visa,HRANICE,7
+PARDUBICKY,visa,VYSOKÉ MÝTO,1
+ZLIN,visa,VELKE KARLOVICE,1
+OLOMOUCKÝKRAJ,visa,HRANICE NA MORAVĚ,1
+OLOMOUCKY,visa,HRANICE NA MORAVĚ,6
+CENTRALBOHEMIA,visa,LOUČNA NAD DESNOU,1
+PARDUBICKY,visa,LAZNE BOHDANEC,1
+CENTRALBOHEMIA,visa,MĚLNÍK,3
+CENTRALBOHEMIA,visa,MELNIK,6
+CENTRALBOHEMIA,visa,MĚLNIK,3
+STŘEDOČESKY,visa,MĚLNIK,3
+STŘEDOČESKÝKRAJ,visa,MĚLNÍK,2
+ZLIN,visa,ZAŠOVÁ,1
+OLOMOUCKY,visa,MOHELNICE,6
+PARDUBICKY,visa,CESKA TREBOVA,4
+ZLIN,visa,ZUBRI,1
+PARDUBICKY,visa,ČESKA TŘEBOVA,4
+PARDUBICKY,visa,ČESKÁ TŘEBOVÁ,2
+ZLÍNSKÝKRAJ,visa,ROŽNOV POD RADHOŠTĚM,1
+ZLIN,visa,ROZNOV POD RADHOSTEM,2
+ZLINSKY,visa,ZUBŘI,1
+ZLINSKY,visa,ROŽNOV POD RADHOŠTĚM,3
+ZLIN,visa,ROZNOV P. RADHOSTEM,1
+CENTRALBOHEMIA,visa,BENATKY NAD JIZEROU,3
+STŘEDOČESKY,visa,BENATKY NAD JIZEROU,1
+ZLIN,visa,ROŽNOV POD RADHOŠTĚM,2
+PARDUBICKÝKRAJ,visa,ČESKÁ TŘEBOVÁ,1
+KRALOVEHRADECKY,visa,CHLUMEC NAD CIDLINOU,3
+USTECKY,visa,ROUDNICE NAD LABEM,10
+ÚSTECKÝKRAJ,visa,ROUDNICE NAD LABEM,1
+ZLINSKY,visa,HORNI BEČVA,1
+USTECKY,visa,ROUDNICE N. L.,1
+PARDUBICKY,visa,SEZEMICE,1
+USTECKY,visa,ZALUZI U LITVINOVA,1
+OLOMOUCKY,visa,STERNBERK,4
+CENTRALBOHEMIA,visa,MĚSTEC KRÁLOVÉ,1
+CENTRALBOHEMIA,visa,MESTEC KRALOVE,1
+OLOMOUCKY,visa,ŠTERNBERK,4
+OLOMOUCKY,visa,UNICOV,4
+OLOMOUCKY,visa,UNIČOV,5
+PARDUBICKY,visa,CHOCEN,2
+PARDUBICKY,visa,CHOCEŇ,2
+OLOMOUCKÝKRAJ,visa,ŠTERNBERK,1
+USTECKY,visa,BILINA,4
+USTECKY,visa,BÍLINA,2
+PARDUBICKY,visa,LANSKROUN,4
+CENTRALBOHEMIA,visa,LOUČEŇ,1
+USTECKY,visa,LITVINOV,9
+PARDUBICKY,visa,LANŠKROUN,3
+PARDUBICKY,visa,HOLICE V CECHACH,1
+PARDUBICKY,visa,HOLICE,3
+PARDUBICKY,visa,USTI NAD ORLICI,9
+PARDUBICKY,visa,ÚSTÍ NAD ORLICÍ,2
+PARDUBICKÝKRAJ,visa,ÚSTÍ NAD ORLICÍ,1
+PARDUBICKY,visa,OPATOVICE,1
+USTECKY,visa,LITVÍNOV,3
+ÚSTECKÝKRAJ,visa,LITVÍNOV,2
+USTECKY,visa,LOVOSICE,7
+USTECKY,visa,BOHUSOVICE NAD OHRI,1
+USTECKY,visa,BOHUŠOVICE NAD OHŘI,1
+USTECKY,visa,ŠTĚTÍ,1
+USTECKY,visa,STETI,2
+USTECKY,visa,ŠTĚTI,1
+OLOMOUCKY,visa,ZABŘEH NA MORAVĚ,3
+OLOMOUCKY,visa,ZABREH,3
+OLOMOUCKÝKRAJ,visa,ZÁBŘEH NA MORAVĚ,1
+MORAVSKOSLEZSKY,visa,NOVY JIČIN,6
+USTECKY,visa,TEREZIN,2
+USTECKY,visa,MEZIBOŘI,1
+OLOMOUCKY,visa,ZÁBŘEH NA MORAVĚ,1
+OLOMOUCKY,visa,ZABREH NA MORAVE,1
+OLOMOUCKY,visa,ZABŘEH,1
+MORAVSKOSLEZSKY,visa,NOVY JICIN,6
+USTECKY,visa,DUCHCOV,5
+USTECKY,visa,LITOMĚŘICE,12
+USTECKY,visa,LITOMERICE,6
+STŘEDOČESKY,visa,ROŽĎALOVICE,1
+MORAVSKOSLEZSKY,visa,NOVÝ JIČÍN,2
+PARDUBICKY,visa,DOLNI DOBROUC,1
+USTECKY,visa,OSEK,1
+MORAVSKOSLEZSKÝKRAJ,visa,NOVÝ JIČÍN,1
+ÚSTECKÝKRAJ,visa,LITOMĚŘICE,1
+KRALOVEHRADECKY,visa,NOVY BYDŽOV,2
+MORAVSKOSLEZSKY,visa,SENOV U NOVEHO JICINA,2
+UNKNOWN,visa,BOROHRÁDEK,1
+MORAVSKOSLEZSKY,visa,FRENŠTÁT POD RADHOŠTĚM,1
+MORAVSKOSLEZSKY,visa,FRENSTAT POD RADHOSTEM,2
+MORAVSKOSLEZSKY,visa,FRENŠTAT POD RADHOŠTĚM,2
+KRALOVEHRADECKY,visa,NOVY BYDZOV,2
+MORAVSKOSLEZSKY,visa,FRENSTAT P. RADHOSTEM,1
+MORAVSKOSLEZSKÝKRAJ,visa,FRENŠTÁT POD RADHOŠTĚM,1
+USTECKY,visa,MŠENO U MĚLNIKA,1
+CENTRALBOHEMIA,visa,DOBROVICE,1
+UNKNOWN,visa,ODRY,2
+KRALOVEHRADECKY,visa,HRADEC KRALOVE,49
+MORAVSKOSLEZSKY,visa,ODRY,1
+OLOMOUCKY,visa,POSTRELMOV,1
+UNKNOWN,visa,HRADEC KRALOVE,2
+PARDUBICKY,visa,HRADEC KRALOVE,1
+UNKNOWN,visa,STRAMBERK,1
+UNKNOWN,visa,PISEK,1
+OLOMOUCKY,visa,LIBINA,1
+KRÁLOVÉHRADECKÝKRAJ,visa,HRADEC KRÁLOVÉ,2
+OLOMOUCKY,visa,STITY,1
+KRALOVEHRADECKY,visa,NECHANICE,1
+MORAVSKOSLEZSKY,visa,KOPŘIVNICE,5
+MORAVSKOSLEZSKY,visa,KOPRIVNICE,6
+MORAVSKOSLEZSKÝKRAJ,visa,KOPŘIVNICE,1
+USTECKY,visa,TEPLICE,36
+KRALOVEHRADECKY,visa,HRADEC KRÁLOVÉ,6
+UNKNOWN,visa,MORAVSKY BEROUN,1
+PARDUBICKY,visa,LETOHRAD,3
+USTECKY,visa,HROB,1
+MORAVSKOSLEZSKY,visa,ČELADNA,1
+CENTRALBOHEMIA,visa,MLADA BOLESLAV,22
+ÚSTECKÝKRAJ,visa,TEPLICE,3
+STŘEDOČESKY,visa,MLADA BOLESLAV,9
+KRALOVEHRADECKY,visa,KOPIDLNO,1
+KRÁLOVEHRADECKÝKRAJ,visa,HRADEC KRÁLOVÉ,6
+USTECKY,visa,KOŠŤANY,1
+USTECKY,visa,KOSTANY,1
+MORAVSKOSLEZSKY,visa,OSTRAVICE,2
+STŘEDOČESKÝKRAJ,visa,MLADÁ BOLESLAV,2
+CENTRALBOHEMIA,visa,MLADÁ BOLESLAV,4
+UNKNOWN,visa,TYNISTE N. ORLICI,1
+UNKNOWN,visa,TYNISTE NAD ORLICI,1
+UNKNOWN,visa,KOSTELEC NAD ORLICI,1
+KRALOVEHRADECKY,visa,KOSTELEC NAD ORLICI,1
+UNKNOWN,visa,KOSTELEC NAD ORLICÍ,1
+UNKNOWN,visa,KOSTELEC N. ORLICI,1
+PARDUBICKY,visa,JABLONNE NAD ORLICI,3
+PARDUBICKY,visa,JABLONNÉ NAD ORLICÍ,1
+KRALOVEHRADECKY,visa,VRDY,1
+USTECKY,visa,NOVOSEDLICE,1
+CENTRALBOHEMIA,visa,KOSMONOSY,3
+UNKNOWN,visa,VAMBERK,2
+KRALOVEHRADECKY,visa,VAMBERK,1
+USTECKY,visa,DUBI,1
+KRALOVEHRADECKY,visa,LIBAN,1
+MORAVSKOSLEZSKY,visa,PŘIBOR,1
+MORAVSKOSLEZSKY,visa,PRIBOR,2
+OLOMOUCKY,visa,SUMPERK,7
+OLOMOUCKY,visa,ŠUMPERK,13
+OLOMOUCKY,visa,NOVÝ MALÍN,1
+PARDUBICKY,visa,ZAMBERK,2
+KRALOVEHRADECKY,visa,TREBECHOVICE POD OREBEM,2
+OLOMOUCKY,visa,RUDA NAD MORAVOU,1
+PARDUBICKY,visa,ŽAMBERK,3
+USTECKY,visa,USTI NAD LABEM,40
+UNKNOWN,visa,FULNEK,2
+UNKNOWN,visa,FRÝDLANT NAD OSTRAVICÍ,1
+UNKNOWN,visa,FRYDLANT NAD OSTRAVICI,2
+OLOMOUCKÝKRAJ,visa,ŠUMPERK,1
+USTECKY,visa,USTI NAD LABEM - TRMICE,1
+ÚSTECKÝKRAJ,visa,TRMICE,1
+MORAVSKOSLEZSKY,visa,BUDIŠOV NAD BUDIŠOVKOU,1
+USTECKY,visa,ÚSTÍ NAD LABEM,6
+USTECKY,visa,TRMICE,1
+LIBERECKY,visa,DUBA,1
+USTECKY,visa,USTEK,1
+USTECKY,visa,KRUPKA,5
+KRALOVEHRADECKY,visa,RYCHNOV NAD KNĚŽNOU,5
+UNKNOWN,visa,VITKOV,3
+PARDUBICKY,visa,CERVENA VODA,1
+MORAVSKOSLEZSKY,visa,VITKOV,1
+KRALOVEHRADECKY,visa,RYCHNOV NAD KNEZNOU,4
+ÚSTECKÝKRAJ,visa,ÚSTÍ NAD LABEM,4
+CENTRALBOHEMIA,visa,BELA POD BEZDEZEM,1
+STŘEDOČESKY,visa,BĚLA POD BEZDĚZEM,1
+KRÁLOVEHRADECKÝKRAJ,visa,RYCHNOV NAD KNĚŽNOU,1
+UNKNOWN,visa,STUDÉNKA,1
+CENTRALBOHEMIA,visa,BAKOV NAD JIZEROU,1
+STŘEDOČESKY,visa,DOLNI BOUSOV,1
+UNKNOWN,visa,PALKOVICE,1
+UNKNOWN,visa,STUDENKA,3
+MORAVSKOSLEZSKY,visa,STUDENKA,1
+UNKNOWN,visa,OSTRAVA,15
+USTECKY,visa,CHLUMEC,1
+KRALOVEHRADECKY,visa,CERNILOV,1
+UNKNOWN,visa,RÝMAŘOV,1
+MORAVSKOSLEZSKY,visa,RYMAŘOV,1
+UNKNOWN,visa,RYMAROV,2
+MORAVSKOSLEZSKY,visa,MOSTY U JABLUNKOVA,1
+OLOMOUCKY,visa,RAPOTIN,1
+UNKNOWN,visa,BRIDLICNA,1
+UNKNOWN,visa,DOKSY,5
+UNKNOWN,visa,SOLNICE,1
+UNKNOWN,visa,BAŠKA,1
+LIBERECKY,visa,DOKSY,1
+USTECKY,visa,POVRLY,1
+USTECKY,visa,VARVAŽOV,1
+UNKNOWN,visa,KVASINY,1
+KRALOVEHRADECKY,visa,OSTROMĚŘ,1
+KRALOVEHRADECKY,visa,SMIRICE,1
+PARDUBICKY,visa,KRALIKY,2
+MORAVSKOSLEZSKY,visa,BILOVEC,1
+UNKNOWN,visa,BILOVEC,2
+UNKNOWN,visa,BRUSPERK,1
+MORAVSKOSLEZSKÝKRAJ,visa,FRÝDEK-MÍSTEK,3
+UNKNOWN,visa,FRÝDEK-MÍSTEK,1
+KRALOVEHRADECKY,visa,SOBOTKA,2
+UNKNOWN,visa,FRYDEK-MISTEK,1
+UNKNOWN,visa,ROKYTNICE V ORLICKYCH HORACH,1
+CENTRALBOHEMIA,visa,MNICHOVO HRADISTE,4
+MORAVSKOSLEZSKY,visa,FRÝDEK-MÍSTEK,5
+KRALOVEHRADECKY,visa,HOŘICE,2
+KRALOVEHRADECKY,visa,HORICE,1
+KRALOVEHRADECKY,visa,JIČIN,6
+KRÁLOVEHRADECKÝKRAJ,visa,JIČÍN,1
+KRALOVEHRADECKY,visa,JICIN,8
+KRALOVEHRADECKY,visa,HORICE V PODKRKONOSI,1
+MORAVSKOSLEZSKY,visa,FRYDEK-MISTEK,20
+MORAVSKOSLEZSKY,visa,FRYDEK MISTEK,3
+KRALOVEHRADECKY,visa,JIČÍN,1
+CENTRALBOHEMIA,visa,MNICHOVO HRADIŠTĚ,1
+STŘEDOČESKY,visa,MNICHOVO HRADIŠTĚ,1
+OLOMOUCKY,visa,VELKE LOSINY,1
+UNKNOWN,visa,NOSOVICE,1
+MORAVSKOSLEZSKYKRAJ,visa,FRYDEK MISTEK - SVIADNOV,1
+KRALOVEHRADECKY,visa,OPOCNO,1
+UNKNOWN,visa,NIZNI LHOTY,1
+MORAVSKOSLEZSKY,visa,NOŠOVICE - NIŽNI LHOTY,1
+MORAVSKOSLEZSKY,visa,JABLUNKOV,4
+MORAVSKOSLEZSKY,visa,JISTEBNÍK,1
+UNKNOWN,visa,DOBRA,1
+OLOMOUCKY,visa,HANUSOVICE,1
+CENTRALBOHEMIA,visa,RALSKO,1
+UNKNOWN,visa,NAVSI,1
+KRALOVEHRADECKY,visa,JAROMĚŘ,4
+UNKNOWN,visa,PASKOV,2
+KRALOVEHRADECKY,visa,JAROMER,5
+KRALOVEHRADECKY,visa,DOBRUŠKA,1
+UNKNOWN,visa,DOBRUSKA,2
+UNKNOWN,visa,DOBRUŠKA,1
+KRALOVEHRADECKY,visa,LAZNE BELOHRAD,2
+PARDUBICKY,visa,LAZNĚ BĚLOHRAD,1
+UNKNOWN,visa,BOSKOVICE,1
+UNKNOWN,visa,KLIMKOVICE,2
+KRÁLOVEHRADECKÝKRAJ,visa,JAROMĚŘ,1
+MORAVSKOSLEZSKY,visa,MALA MORAVKA,1
+USTECKY,visa,DECIN,13
+USTECKY,visa,PETROVICE,3
+USTECKY,visa,JILOVE,1
+MORAVSKOSLEZSKY,visa,BRUNTAL,8
+MORAVSKOSLEZSKY,visa,HRADEC NAD MORAVICI,2
+MORAVSKOSLEZSKÝKRAJ,visa,BRUNTÁL,1
+MORAVSKOSLEZSKÝKRAJ,visa,OSTRAVA,17
+MORAVSKOSLEZSKY,visa,OSTRAVA - DUBINA,3
+MORAVSKOSLEZSKY,visa,OSTRAVA,90
+UNKNOWN,visa,BYSTRICE,1
+MORAVSKOSLEZSKY,visa,OSTRAVA - VYSKOVICE,1
+PARDUBICKY,visa,DOLNI MORAVA,1
+USTECKY,visa,TISA,1
+LIBERECKY,visa,CESKA LIPA,8
+LIBERECKY,visa,ČESKÁ LÍPA,6
+LIBERECKY,visa,ČESKA LIPA,7
+MORAVSKOSLEZSKY,visa,BRUNTÁL,1
+USTECKY,visa,ŽANDOV,1
+MORAVSKOSLEZSKY,visa,LUČINA,1
+LIBERECKY,visa,CESKY KRUMLOV,1
+UNKNOWN,visa,OSTRAVA - HRABOVA,1
+UNKNOWN,visa,VENDRYNE,1
+MORAVSKOSLEZSKY,visa,OSTRAVA - ZABREH,5
+USTECKY,visa,BENESOV NAD PLOUCNICI,1
+LIBERECKY,visa,MIMOŇ,1
+UNKNOWN,visa,MIMON,2
+USTECKY,visa,BENEŠOV NAD PLOUČNICI,1
+UNKNOWN,visa,VRATIMOV,1
+MORAVSKOSLEZSKY,visa,TŘINEC,11
+UNKNOWN,visa,MIMOŇ,1
+MORAVSKOSLEZSKY,visa,TRINEC,7
+UNKNOWN,visa,OSTRAVA - HRABUVKA,1
+MORAVSKOSLEZSKY,visa,OSTRAVA - HRABUVKA,1
+USTECKY,visa,DĚČIN,9
+MORAVSKOSLEZSKÝKRAJ,visa,TŘINEC,1
+UNKNOWN,visa,HORNI BENEŠOV,1
+LIBERECKÝKRAJ,visa,ČESKÁ LÍPA,1
+USTECKY,visa,DĚČÍN,4
+LIBERECKY,visa,KARLOVICE,1
+ÚSTECKÝKRAJ,visa,DĚČÍN,2
+OLOMOUCKY,visa,LOUČNA NAD DESNOU,2
+USTECKY,visa,DEČIN,1
+KRALOVEHRADECKY,visa,KUKS,1
+KRALOVEHRADECKY,visa,NOVÁ PAKA,1
+UNKNOWN,visa,ZAKUPY,1
+KRALOVEHRADECKY,visa,DVUR KRALOVE NAD LABEM,2
+KRALOVEHRADECKY,visa,NOVA PAKA,4
+KRALOVEHRADECKY,visa,NOVE MĚSTO NAD METUJI,1
+UNKNOWN,visa,OSTRAVA - PORUBA,10
+MORAVSKOSLEZSKY,visa,OPAVA,29
+KRALOVEHRADECKY,visa,DVUR KRALOVE N. LABEM,2
+KRALOVEHRADECKY,visa,DVŮR KRÁLOVÉ NAD LABEM,2
+LIBERECKY,visa,LOMNICE NAD POPELKOU,2
+UNKNOWN,visa,NOVE MESTO NAD METUJI,2
+LIBERECKÝKRAJ,visa,TURNOV,2
+KRALOVEHRADECKY,visa,DVŮR KRALOVE NAD LABEM,4
+LIBERECKY,visa,TURNOV,11
+UNKNOWN,visa,DEŠTNE V ORLICKYCH HORACH,1
+UNKNOWN,visa,NOVÉ MĚSTO NAD METUJÍ,1
+MORAVSKOSLEZSKY,visa,OSTRAVA - SVINOV,1
+UNKNOWN,visa,DEŠTNE V ORLIC. HOR.,1
+MORAVSKOSLEZSKY,visa,OSTRAVA - VITKOVICE,3
+MORAVSKOSLEZSKY,visa,OSTRAVA - TREBOVICE,1
+MORAVSKOSLEZSKY,visa,STARE MĚSTO POD SNĚŽNIKEM,1
+MORAVSKOSLEZSKY,visa,HAVIŘOV,13
+UNKNOWN,visa,OSTRAVA - SVINOV,1
+MORAVSKOSLEZSKY,visa,HRABYNĚ,1
+MORAVSKOSLEZSKY,visa,KARLOVA STUDANKA,1
+UNKNOWN,visa,OSTRAVA - PLESNA,1
+UNKNOWN,visa,SENOV,1
+UNKNOWN,visa,OSTRAVA - PUSTKOVEC,1
+MORAVSKOSLEZSKÝKRAJ,visa,HAVÍŘOV,2
+KRALOVEHRADECKY,visa,CESKA SKALICE,2
+MORAVSKOSLEZSKY,visa,HAVIROV,14
+UNKNOWN,visa,ČESKY TĚŠIN,1
+KRALOVEHRADECKY,visa,ČESKA SKALICE,1
+MORAVSKOSLEZSKY,visa,HAVÍŘOV,4
+UNKNOWN,visa,HAVIŘOV,2
+MORAVSKOSLEZSKY,visa,OSTRAVA - MORAVSKA OSTRAVA,10
+MORAVSKOSLEZSKY,visa,ČESKÝ TĚŠÍN,3
+UNKNOWN,visa,OSTRAVA - RADVANICE,1
+UNKNOWN,visa,HAVIROV,1
+UNKNOWN,visa,BRNIŠTĚ,1
+MORAVSKOSLEZSKY,visa,CESKY TESIN,6
+MORAVSKOSLEZSKÝKRAJ,visa,OPAVA,3
+UNKNOWN,visa,OPAVA,2
+MORAVSKOSLEZSKY,visa,ČESKY TĚŠIN,5
+MORAVSKOSLEZSKÝKRAJ,visa,ČESKÝ TĚŠÍN,1
+LIBERECKY,visa,STRAŽ POD RALSKEM,1
+LIBERECKY,visa,STRÁŽ POD RALSKEM,1
+LIBERECKY,visa,KAMENICKY ŠENOV,1
+LIBERECKY,visa,STRAZ POD RALSKEM,1
+UNKNOWN,visa,CESKY DUB,1
+UNKNOWN,visa,KAMENICKY SENOV,1
+UNKNOWN,visa,ČESKÝ DUB,1
+UNKNOWN,visa,NOVY BOR,3
+UNKNOWN,visa,NOVÝ BOR,2
+LIBERECKY,visa,NOVY BOR,2
+MORAVSKOSLEZSKY,visa,OSTRAVA - PRIVOZ,1
+UNKNOWN,visa,HÁJ VE SLEZSKU,1
+MORAVSKOSLEZSKY,visa,ALBRECHTICE,1
+OLOMOUCKY,visa,OSTRUŽNA,1
+UNKNOWN,visa,HORNÍ SUCHÁ,1
+LIBERECKY,visa,SEMILY,5
+UNKNOWN,visa,KRAVARE,2
+USTECKY,visa,ČESKÁ KAMENICE,1
+MORAVSKOSLEZSKY,visa,KRAVAŘE,1
+USTECKY,visa,CESKA KAMENICE,2
+KRALOVEHRADECKY,visa,NACHOD,11
+UNKNOWN,visa,PETRVALD,1
+KRALOVEHRADECKY,visa,NÁCHOD,2
+KRÁLOVEHRADECKÝKRAJ,visa,NÁCHOD,1
+MORAVSKOSLEZSKY,visa,HLUCIN,3
+MORAVSKOSLEZSKY,visa,HLUČIN,3
+MORAVSKOSLEZSKÝKRAJ,visa,HLUČÍN,1
+LIBERECKY,visa,HODKOVICE NAD MOHELKOU,2
+MORAVSKOSLEZSKY,visa,HLUČÍN,1
+LIBERECKY,visa,MALA SKALA,1
+UNKNOWN,visa,DOLNI BENESOV,1
+MORAVSKOSLEZSKY,visa,VRBNO POD PRADĚDEM,1
+UNKNOWN,visa,VRBNO POD PRADEDEM,2
+UNKNOWN,visa,LUDGEROVICE,1
+LIBERECKY,visa,ŽELEZNÝ BROD,1
+UNKNOWN,visa,CVIKOV,2
+LIBERECKY,visa,ZELEZNY BROD,2
+KRALOVEHRADECKY,visa,HOSTINNÉ,1
+KRALOVEHRADECKY,visa,HOSTINNE,1
+UNKNOWN,visa,ŠTĚPÁNKOVICE,1
+UNKNOWN,visa,STONAVA,1
+UNKNOWN,visa,RYCHVALD,2
+UNKNOWN,visa,BOLATICE,1
+UNKNOWN,visa,KARVINA,2
+UNKNOWN,visa,JABLONNÉ V PODJEŠTĚDÍ,1
+UNKNOWN,visa,JABLONNE V PODJESTEDI,1
+LIBERECKY,visa,VELKÝ ŠENOV,1
+LIBERECKY,visa,RYCHNOV U JABLONCE NAD NISOU,1
+MORAVSKOSLEZSKY,visa,ORLOVA,8
+LIBERECKY,visa,JILEMNICE,5
+USTECKY,visa,JETŘICHOVICE,2
+KRALOVEHRADECKY,visa,CERVENY KOSTELEC,2
+KRALOVEHRADECKY,visa,ČERVENY KOSTELEC,1
+KRALOVEHRADECKY,visa,ČERVENÝ KOSTELEC,1
+MORAVSKOSLEZSKÝKRAJ,visa,ORLOVÁ,2
+MORAVSKOSLEZSKY,visa,ORLOVÁ,1
+MORAVSKOSLEZSKY,visa,BOHUMIN,9
+MORAVSKOSLEZSKÝKRAJ,visa,BOHUMÍN,2
+UNKNOWN,visa,ORLOVA,3
+UNKNOWN,visa,LIBEREC,6
+UNKNOWN,visa,KOBERICE,1
+MORAVSKOSLEZSKÝKRAJ,visa,KARVINÁ,2
+MORAVSKOSLEZSKY,visa,KARVINA,20
+OLOMOUCKY,visa,JESENIK,8
+MORAVSKOSLEZSKY,visa,BOHUMÍN,1
+MORAVSKOSLEZSKY,visa,KARVINA - FRYŠTAK,1
+UNKNOWN,visa,ÚPICE,1
+MORAVSKOSLEZSKY,visa,KRNOV,14
+MORAVSKOSLEZSKÝKRAJ,visa,KRNOV,1
+UNKNOWN,visa,UPICE,1
+MORAVSKOSLEZSKY,visa,KARVINÁ,3
+LIBERECKY,visa,LIBEREC,57
+UNKNOWN,visa,HAŤ,1
+USTECKY,visa,CHŘIBSKA,1
+UNKNOWN,visa,HRONOV,2
+UNKNOWN,visa,RTYNE V PODKRKONOSI,1
+LIBERECKY,visa,JABLONEC NAD NISOU,24
+KRALOVEHRADECKY,visa,HRONOV,1
+KRALOVEHRADECKY,visa,VRCHLABI,11
+LIBERECKÝKRAJ,visa,LIBEREC,6
+UNKNOWN,visa,DOLNI LUTYNE,2
+OLOMOUCKY,visa,JESENÍK,1
+OLOMOUCKÝKRAJ,visa,JESENÍK,1
+MORAVSKOSLEZSKY,visa,DĚTMAROVICE,1
+KRALOVEHRADECKY,visa,VRCHLABÍ,2
+LIBERECKÝKRAJ,visa,JABLONEC NAD NISOU,1
+UNKNOWN,visa,PÍŠŤ,1
+LIBERECKY,visa,LIBEREC-VRATISLAVICE NAD NISOU,1
+JIHOČESKÝKRAJ,visa,LIBEREC,1
+KRALOVEHRADECKY,visa,TRUTNOV,22
+KRÁLOVEHRADECKÝKRAJ,visa,TRUTNOV,1
+LIBERECKY,visa,VYSOKE NAD JIZEROU,1
+MORAVSKOSLEZSKY,visa,PETROVICE U KARVINE,1
+UNKNOWN,visa,PETROVICE U KARVINE,2
+UNKNOWN,visa,MESTO ALBRECHTICE,1
+UNKNOWN,visa,BENECKO,1
+LIBERECKY,visa,SMRŽOVKA,1
+KRALOVEHRADECKY,visa,MLADÉ BUKY,1
+LIBERECKY,visa,SMRZOVKA,1
+KRALOVEHRADECKY,visa,ČERNY DŮL,2
+LIBERECKY,visa,JABLONEC NAD JIZEROU,1
+KRALOVEHRADECKY,visa,JANSKE LAZNĚ,5
+KRALOVEHRADECKY,visa,JANSKE LAZNE,1
+USTECKY,visa,TANVALD,1
+OLOMOUCKY,visa,ŽULOVA,2
+LIBERECKY,visa,TANVALD,3
+USTECKY,visa,KRASNA LIPA,2
+LIBERECKY,visa,CHRASTAVA,1
+KRALOVEHRADECKY,visa,SVOBODA NAD UPOU,1
+UNKNOWN,visa,CHRASTAVA,2
+UNKNOWN,visa,MNIŠEK,1
+LIBERECKY,visa,KOŘENOV,1
+KRALOVEHRADECKY,visa,POLICE NAD METUJI,2
+KRALOVEHRADECKY,visa,POLICE NAD METUJÍ,1
+KRALOVEHRADECKY,visa,ŠPINDLERŮV MLYN,15
+LIBERECKY,visa,JANOV NAD NISOU,1
+UNKNOWN,visa,HRADEK NAD NISOU,2
+LIBERECKY,visa,HRADEK NAD NISOU,1
+LIBERECKY,visa,ALBRECHTICE V JIZ HORACH,1
+USTECKY,visa,VARNSDORF,7
+LIBERECKY,visa,DESNA,1
+LIBERECKY,visa,BEDŘICHOV,1
+ÚSTECKÝKRAJ,visa,VARNSDORF,1
+LIBERECKY,visa,ROKYTNICE NAD JIZEROU,4
+USTECKY,visa,DOLNÍ POUSTEVNA,1
+LIBERECKY,visa,ROKYTNICE N. JIZEROU,1
+USTECKY,visa,MIKULÁŠOVICE,1
+OLOMOUCKY,visa,ZLATE HORY,2
+USTECKY,visa,RUMBURK,9
+KRALOVEHRADECKY,visa,PEC POD SNĚŽKOU,1
+KRALOVEHRADECKY,visa,HORNI MARŠOV,1
+KRALOVEHRADECKY,visa,VITKOVICE,1
+OLOMOUCKY,visa,MIKULOVICE,1
+KRALOVEHRADECKY,visa,ZACLER,1
+UNKNOWN,visa,TEPLICE NAD METUJI,2
+KRALOVEHRADECKY,visa,ŠPINDLERŮV MLÝN,1
+KRALOVEHRADECKY,visa,SPINDLERUV MLYN,2
+LIBERECKY,visa,HARRACHOV,15
+KRALOVEHRADECKY,visa,PEC POD SNEZKOU,1
+OLOMOUCKY,visa,JAVORNIK,1
+UNKNOWN,visa,ADRŠPACH,1
+USTECKY,visa,SLUKNOV,1
+USTECKY,visa,ŠLUKNOV,1
+KRALOVEHRADECKY,visa,BROUMOV,4
+USTECKY,visa,JIRIKOV,1
+UNKNOWN,visa,MEZIMĚSTÍ,1
+UNKNOWN,visa,MEZIMESTI,1
+LIBERECKY,visa,HEJNICE,1
+LIBERECKY,visa,FRÝDLANT,1
+LIBERECKY,visa,FRYDLANT V CECHACH,1
+LIBERECKY,visa,FRYDLANT,1
+LIBERECKY,visa,FRYDLANT V ČECHACH,1
+LIBERECKY,visa,NOVE MESTO POD SMRKEM,1

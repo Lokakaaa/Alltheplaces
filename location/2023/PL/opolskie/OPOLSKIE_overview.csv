@@ -1,0 +1,722 @@
+City,Place Name,Zipcode,Name
+Ściborzyce Małe,abc_pl,,unknown,abc
+Głubczyce,abc_pl,,unknown,abc
+Grodków,abc_pl,,unknown,abc
+Opole,abc_pl,,unknown,abc
+Wawelno,abc_pl,,unknown,abc
+Ligota Dobrodzieńska,abc_pl,,unknown,abc
+Siestrzechowice,abc_pl,,unknown,abc
+Kubice,abc_pl,,unknown,abc
+Nysa,abc_pl,,unknown,abc
+Kluczbork,abc_pl,,unknown,abc
+Pakosławice,abc_pl,,unknown,abc
+Głuchołazy,abc_pl,,unknown,abc
+Piotrowice Nyskie,abc_pl,,unknown,abc
+Kamiennik,abc_pl,,unknown,abc
+Wierzbnik,abc_pl,,unknown,abc
+Więcmierzyce,abc_pl,,unknown,abc
+Kobiela,abc_pl,,unknown,abc
+Kędzierzyn-Koźle,abc_pl,,unknown,abc
+Kosorowice,abc_pl,,unknown,abc
+Namysłów,abc_pl,,unknown,abc
+Zdzieszowice,abc_pl,,unknown,abc
+Lasowice Małe,abc_pl,,unknown,abc
+Żędowice,abc_pl,,unknown,abc
+Olszynka,abc_pl,,unknown,abc
+Brzeg,abc_pl,,unknown,abc
+Olszanka,abc_pl,,unknown,abc
+Czeska Wieś,abc_pl,,unknown,abc
+Gierszowice,abc_pl,,unknown,abc
+Przełęk,abc_pl,,unknown,abc
+Radzikowice,abc_pl,,unknown,abc
+Goświnowice,abc_pl,,unknown,abc
+Większyce,abc_pl,,unknown,abc
+Tarnów Opolski,abc_pl,,unknown,abc
+Biała,abc_pl,,unknown,abc
+Rogi,abc_pl,,unknown,abc
+Kościerzyce,abc_pl,,unknown,abc
+Rozmierz,abc_pl,,unknown,abc
+Lisięcice,abc_pl,,unknown,abc
+Skorogoszcz,abc_pl,,unknown,abc
+Mąkoszyce,abc_pl,,unknown,abc
+Borycz,abc_pl,,unknown,abc
+Kotórz Mały,abc_pl,,unknown,abc
+Daniec,abc_pl,,unknown,abc
+Ligota Dolna,abc_pl,,unknown,abc
+Dalachów,abc_pl,,unknown,abc
+Cieciułów,abc_pl,,unknown,abc
+Młyny,abc_pl,,unknown,abc
+Rudniki,abc_pl,,unknown,abc
+Julianpol,abc_pl,,unknown,abc
+Rożniątów,abc_pl,,unknown,abc
+Dzierżysław,abc_pl,,unknown,abc
+Kietrz,abc_pl,,unknown,abc
+Jarnołtówek,abc_pl,,unknown,abc
+Przydroże Małe,abc_pl,,unknown,abc
+Gryżów,abc_pl,,unknown,abc
+Ścinawa Nyska,abc_pl,,unknown,abc
+Grabin,abc_pl,,unknown,abc
+Zielęcice,abc_pl,,unknown,abc
+Wronów,abc_pl,,unknown,abc
+Łubniany,abc_pl,,unknown,abc
+Rybna,abc_pl,,unknown,abc
+Strzelce,abc_pl,,unknown,abc
+Dobieszowice,abc_pl,,unknown,abc
+Walce,abc_pl,,unknown,abc
+Zalesie Śląskie,abc_pl,,unknown,abc
+Długomiłowice,abc_pl,,unknown,abc
+Niewodniki,abc_pl,,unknown,abc
+Błażejowice,abc_pl,,unknown,abc
+Buków,abc_pl,,unknown,abc
+Dobrzeń Wielki,abc_pl,,unknown,abc
+Jodłów,abc_pl,,unknown,abc
+Górki,abc_pl,,unknown,abc
+Byczyna,abc_pl,,unknown,abc
+Osowiec,abc_pl,,unknown,abc
+Biskupice,abc_pl,,unknown,abc
+Strzelniki,abc_pl,,unknown,abc
+Proślice,abc_pl,,unknown,abc
+Młodoszowice,abc_pl,,unknown,abc
+Biadacz,abc_pl,,unknown,abc
+Wierzbięcice,abc_pl,,unknown,abc
+Bielice,abc_pl,,unknown,abc
+Raszowa,abc_pl,,unknown,abc
+Kłodobok,abc_pl,,unknown,abc
+Niemodlin,abc_pl,,unknown,abc
+Dzbańce-Osiedle,abc_pl,,unknown,abc
+Michałowice,abc_pl,,unknown,abc
+Dobrodzień,abc_pl,,unknown,abc
+Pokrzywnica,abc_pl,,unknown,abc
+Ligota Prószkowska,abc_pl,,unknown,abc
+Suszkowice,abc_pl,,unknown,abc
+Bąków,abc_pl,,unknown,abc
+Nowaki,abc_pl,,unknown,abc
+Wierzbno,abc_pl,,unknown,abc
+Rzędów,abc_pl,,unknown,abc
+Czarnolas,abc_pl,,unknown,abc
+Niezdrowice,abc_pl,,unknown,abc
+Pisarzowice,abc_pl,,unknown,abc
+Kuźnica Ligocka,abc_pl,,unknown,abc
+Dobrzyń,abc_pl,,unknown,abc
+Nowa Cerekwia,abc_pl,,unknown,abc
+Kolnica,abc_pl,,unknown,abc
+Opole,agata_meble_pl,,unknown,Opole
+Brzeg,aldi_nord_pl,,unknown,ALDI
+Opole,aldi_nord_pl,,unknown,ALDI
+Nysa,aldi_nord_pl,,unknown,ALDI
+Kluczbork,aldi_nord_pl,,unknown,ALDI
+Krapkowice,aldi_nord_pl,,unknown,ALDI
+Kędzierzyn-Koźle,aldi_nord_pl,,unknown,ALDI
+Prudnik,aldi_nord_pl,,unknown,ALDI [W budowie]
+Namysłów,bricomarche_pl,,unknown,Bricomarché Namysłów
+Głuchołazy,bricomarche_pl,,unknown,Bricomarché Głuchołazy
+Brzeg,bricomarche_pl,,unknown,Bricomarché Brzeg
+Strzelce Opolskie,bricomarche_pl,,unknown,Bricomarché Strzelce Opolskie
+Kluczbork,bricomarche_pl,,unknown,Bricomarché Kluczbork
+Głubczyce,bricomarche_pl,,unknown,Bricomarché Głubczyce
+Nysa,bricomarche_pl,,unknown,Bricomarché Nysa
+Lubrza (Prudnik),bricomarche_pl,,unknown,Bricomarché Lubrza (Prudnik)
+Zdzieszowice,bricomarche_pl,,unknown,Bricomarché Zdzieszowice
+Strzelce Opolskie,credit_agricole_pl,,unknown,"Credit Agricole Rynek 10, Strzelce Opolskie"
+Prudnik,credit_agricole_pl,,unknown,"Credit Agricole Rynek 11, Prudnik"
+Namysłów,credit_agricole_pl,,unknown,"Credit Agricole Rynek 6, Namysłów"
+Lewin Brzeski,credit_agricole_pl,,unknown,"Credit Agricole Rynek 19, Lewin Brzeski"
+Krapkowice,credit_agricole_pl,,unknown,"Credit Agricole Wolności 1, Krapkowice"
+Kluczbork,credit_agricole_pl,,unknown,"Credit Agricole Krakowska 1, Kluczbork"
+Grodków,credit_agricole_pl,,unknown,"Credit Agricole Rynek 18, Grodków"
+Głubczyce,credit_agricole_pl,,unknown,"Credit Agricole Gdańska 28/17, Głubczyce"
+Opole,credit_agricole_pl,,unknown,"Credit Agricole Krakowska 38, Opole"
+Nysa,credit_agricole_pl,,unknown,"Credit Agricole Celna 21/2, Nysa"
+Kędzierzyn-Koźle,credit_agricole_pl,,unknown,"Credit Agricole Wojska Polskiego 4, Kędzierzyn-Koźle"
+Brzeg,credit_agricole_pl,,unknown,"Credit Agricole Długa 43, Brzeg"
+Namysłów,dr_max,,unknown,"Apteka Dr.Max, Sikorskiego 12, Namysłów"
+Grodków,dr_max,,unknown,"Apteka Dr.Max, Rynek 8-9, Grodków"
+Brzeg,dr_max,,unknown,"Apteka Dr.Max, Długa 2, Brzeg"
+Kluczbork,dr_max,,unknown,"Apteka Dr.Max, Podwale 8/2, Kluczbork"
+Opole,dr_max,,unknown,"Apteka Dr.Max, Krakowska 44, Opole"
+Ozimek,dr_max,,unknown,"Apteka Dr.Max, Częstochowska 31, Ozimek"
+Kędzierzyn-Koźle,dr_max,,unknown,"Apteka Dr.Max, Kozielska 36, Kędzierzyn-Koźle"
+Lewin Brzeski,dr_max,,unknown,"Apteka Dr.Max, Kościuszki 37d, Lewin Brzeski"
+Nysa,dr_max,,unknown,"Apteka Dr.Max, Piłsudskiego 21, Nysa"
+Karłowice,groszek_pl,,unknown,Groszek
+Jemielnica,groszek_pl,,unknown,Groszek
+Dąbrowa,groszek_pl,,unknown,Groszek
+Kietrz,groszek_pl,,unknown,Groszek
+Kędzierzyn-Koźle,groszek_pl,,unknown,Groszek
+Dziewkowice,groszek_pl,,unknown,Groszek
+Goworowice,groszek_pl,,unknown,Groszek
+Gościce,groszek_pl,,unknown,Groszek
+Paczków,groszek_pl,,unknown,Groszek
+Zalesie Śląskie,groszek_pl,,unknown,Groszek
+Byczyna,groszek_pl,,unknown,Groszek
+Opole,groszek_pl,,unknown,Groszek
+Włodzienin,groszek_pl,,unknown,Groszek
+Ochodze,groszek_pl,,unknown,Groszek
+Dylaki,groszek_pl,,unknown,Groszek
+Opole,itaka_pl,,unknown,ITAKA OPOLE
+Kędzierzyn-Koźle,itaka_pl,,unknown,ITAKA KĘDZIERZYN-KOŹLE
+Opole,mcdonalds_pl,,unknown,McDonald's
+Kędzierzyn - Koźle,mcdonalds_pl,,unknown,McDonald's
+Nysa,mcdonalds_pl,,unknown,McDonald's
+Krapkowice,mcdonalds_pl,,unknown,McDonald's
+Kępa,mcdonalds_pl,,unknown,McDonald's
+Lubrza,mcdonalds_pl,,unknown,McDonald's
+Schodnia,mcdonalds_pl,,unknown,McDonald's
+Brzeg,mcdonalds_pl,,unknown,McDonald's
+Opole,mercedes_benz,,unknown,Mirosław Wróbel Sp. z o.o.
+Antoniów,paczkomat_inpost_pl,,unknown,Market Dino
+Bąków,paczkomat_inpost_pl,,unknown,Market Dino
+Baborów,paczkomat_inpost_pl,,unknown,Przy posesji prywatnej
+Byczyna,paczkomat_inpost_pl,,unknown,SKLEP WĘDKARSKO-ZOOLOGICZNY
+Bodzanowice,paczkomat_inpost_pl,,unknown,Market Dino
+Borkowice,paczkomat_inpost_pl,,unknown,Przy Sklepie
+Bierdzany,paczkomat_inpost_pl,,unknown,Na parkingu sklepu
+Bogacica,paczkomat_inpost_pl,,unknown,Przy sklepie Delikatesy Centrum
+Boguszyce,paczkomat_inpost_pl,,unknown,Przy noclegach pracowniczych
+Biskupów,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Bierawa,paczkomat_inpost_pl,,unknown,Przy Urzędzie Gminy
+Biała,paczkomat_inpost_pl,,unknown,SKLEP MONOPOLOWY
+Biała Nyska,paczkomat_inpost_pl,,unknown,Przy przystanku autobusowym
+Branice,paczkomat_inpost_pl,,unknown,Market Dino
+Brynica,paczkomat_inpost_pl,,unknown,Na bocznej ścianie pawilonu handlowego
+Brzeg,paczkomat_inpost_pl,,unknown,DUŻY BEN
+Błotnica Strzelecka,paczkomat_inpost_pl,,unknown,Po prawej stronie od wejścia do sklepu Delikatesy Centrum
+Bielice,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu
+Borycz,paczkomat_inpost_pl,,unknown,Przy restauracji Athos
+Bodzanów,paczkomat_inpost_pl,,unknown,Przy sklepie motocyklowym
+Charbielin,paczkomat_inpost_pl,,unknown,SKLEP CYTRYNKA
+Cisek,paczkomat_inpost_pl,,unknown,Market Dino
+Czepielowice,paczkomat_inpost_pl,,unknown,Przy sklepie
+Polska Cerekiew,paczkomat_inpost_pl,,unknown,Po prawej stronie od wejścia do sklepu
+Chrzelice,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Cieciułów,paczkomat_inpost_pl,,unknown,Przy sklepie
+Ciepielowice,paczkomat_inpost_pl,,unknown,Przy sklepie
+Chróścina,paczkomat_inpost_pl,,unknown,BORT WIMAR
+Chróścice,paczkomat_inpost_pl,,unknown,Market Dino
+Chocianowice,paczkomat_inpost_pl,,unknown,Przy Boisku
+Chrząstowice,paczkomat_inpost_pl,,unknown,Za sklepem Tomi Markt
+Chorula,paczkomat_inpost_pl,,unknown,"Przy sklepie spożywczym ""Roma"""
+Opole,paczkomat_inpost_pl,,unknown,HAPPY PACK MONOPOLOWY DAMBONIA
+Chudoba,paczkomat_inpost_pl,,unknown,Market Dino
+Dobra,paczkomat_inpost_pl,,unknown,Przy przychodni rodzinnej
+Dąbrowa,paczkomat_inpost_pl,,unknown,przy sklepie
+Dobrzeń Mały,paczkomat_inpost_pl,,unknown,W płocie od ul. Wolności
+Dobrzeń Wielki,paczkomat_inpost_pl,,unknown,AL.CAPONE
+Długomiłowice,paczkomat_inpost_pl,,unknown,Przy posesji prywatnej
+Dzierżysław,paczkomat_inpost_pl,,unknown,Przy posesji prywatnej
+Dębska Kuźnia,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu
+Daniec,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu
+Dobrodzień,paczkomat_inpost_pl,,unknown,PROMIL
+Domaszowice,paczkomat_inpost_pl,,unknown,Market Dino
+Dąbrówka Górna,paczkomat_inpost_pl,,unknown,Przy punkcie aptecznym
+Dziewkowice,paczkomat_inpost_pl,,unknown,"Przy sklepie spożywczym ""Groszek"""
+Dylaki,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Dytmarów,paczkomat_inpost_pl,,unknown,Obok sklepu Darvita
+Dziergowice,paczkomat_inpost_pl,,unknown,Przy sklepie Delikatesy Centrum
+Dziewiętlice,paczkomat_inpost_pl,,unknown,Przy sklepie Odido
+Gąsiorowice,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Gadzowice,paczkomat_inpost_pl,,unknown,Przy prywatnej posesji
+Gierałcice,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Grodziec,paczkomat_inpost_pl,,unknown,Przy sklepie Emma Market
+Gracze,paczkomat_inpost_pl,,unknown,BORT WIMAR
+Głogówek,paczkomat_inpost_pl,,unknown,PAMIĄTKI Z GŁOGÓWKA 
+Głubczyce,paczkomat_inpost_pl,,unknown,EPAKA W INTERMARCHE
+Głuchołazy,paczkomat_inpost_pl,,unknown,FURGONETKA
+Goświnowice,paczkomat_inpost_pl,,unknown,Market Dino
+Gogolin,paczkomat_inpost_pl,,unknown,Przy prywatnej posesji
+Górki,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Grodków,paczkomat_inpost_pl,,unknown,FURGONETKA
+Grodzisko,paczkomat_inpost_pl,,unknown,Przy budynku OSP
+Grudynia Wielka,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Gorzów Śląski,paczkomat_inpost_pl,,unknown,Market Dino
+Gotartów,paczkomat_inpost_pl,,unknown,Przy Żłobku
+Gostomia,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Górażdże,paczkomat_inpost_pl,,unknown,Po lewej stronie od wejścia do sklepu spożywczego
+Hajduki Nyskie,paczkomat_inpost_pl,,unknown,Przy posesji prywatnej
+Idzikowice,paczkomat_inpost_pl,,unknown,Market Dino
+Izbicko,paczkomat_inpost_pl,,unknown,Market Dino
+Jankowice Wielkie,paczkomat_inpost_pl,,unknown,BORT WIMAR
+Jędrzejów,paczkomat_inpost_pl,,unknown,Na lewo od wejścia do sklepu
+Jędrzychów,paczkomat_inpost_pl,,unknown,Przy posesji prywatnej
+Jarnołtówek,paczkomat_inpost_pl,,unknown,Przy prywatnej posesji
+Jemielnica,paczkomat_inpost_pl,,unknown,"Za sklepem, przy parkingu"
+Jasienica Dolna,paczkomat_inpost_pl,,unknown,Po prawej stronie sklepu Lewiatan
+Jarnołtów,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Jaryszów,paczkomat_inpost_pl,,unknown,Przy hali sportowej
+Jasienica Górna,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Julianpol,paczkomat_inpost_pl,,unknown,Market Dino
+Jełowa,paczkomat_inpost_pl,,unknown,SKLEP SPOŻYWCZY 
+Januszkowice,paczkomat_inpost_pl,,unknown,Market Dino
+Karchów,paczkomat_inpost_pl,,unknown,Market Dino
+Kobylice,paczkomat_inpost_pl,,unknown,Na prawo od sklepu
+Kościeliska,paczkomat_inpost_pl,,unknown,Przy sklepie
+Kadłub,paczkomat_inpost_pl,,unknown,Przy sklepie rolno-budowlanym
+Kępa,paczkomat_inpost_pl,,unknown,Przy Delikatesach Centrum
+Kietrz,paczkomat_inpost_pl,,unknown,BLUESCREEN - KOMPUTERY
+Kujakowice Górne,paczkomat_inpost_pl,,unknown,Przy Family Point
+Kędzierzyn-Koźle,paczkomat_inpost_pl,,unknown,PROMIL
+Kolnica,paczkomat_inpost_pl,,unknown,Prz sklepie
+Kluczbork,paczkomat_inpost_pl,,unknown,LEWIATAN
+Komprachcice,paczkomat_inpost_pl,,unknown,SKLEP BAT
+Kamiennik,paczkomat_inpost_pl,,unknown,BORT WIMAR
+Kolonowskie,paczkomat_inpost_pl,,unknown,"Obok sklepu spożywczego ""Molto"""
+Korfantów,paczkomat_inpost_pl,,unknown,DELIKATESY CENTRUM
+Konradów,paczkomat_inpost_pl,,unknown,Na posesji prywatnej
+Koperniki,paczkomat_inpost_pl,,unknown,Przy OSP
+Kotlarnia,paczkomat_inpost_pl,,unknown,Obok boiska i siłowni plenerowej
+Kosorowice,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Krapkowice,paczkomat_inpost_pl,,unknown,SHIP CENTER
+Karłowice Wielkie,paczkomat_inpost_pl,,unknown,Przy świetlicy wiejskiej
+Karłowice,paczkomat_inpost_pl,,unknown,Przy sklepie
+Krzyżowice,paczkomat_inpost_pl,,unknown,Na przeciwko sklepu Lewiatan
+Krasiejów,paczkomat_inpost_pl,,unknown,Market Dino
+Kąty Opolskie,paczkomat_inpost_pl,,unknown,"Przy sklepie Krzyś, po lewej stronie"
+Kujawy,paczkomat_inpost_pl,,unknown,Na placu przy sklepie Lewiatan
+Kuniów,paczkomat_inpost_pl,,unknown,Market Dino
+Kup,paczkomat_inpost_pl,,unknown,Market Dino
+Łambinowice,paczkomat_inpost_pl,,unknown,BORT WIMAR
+Lewin Brzeski,paczkomat_inpost_pl,,unknown,Przy Polomarkecie
+Łącznik,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu Lewiatan
+Ligota Dolna,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Lędziny,paczkomat_inpost_pl,,unknown,Parking obok centrum ogrodnictwa i sklepu Lewiatan
+Lipki,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Lipniki,paczkomat_inpost_pl,,unknown,Przy OSP
+Lipowa,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Lisięcice,paczkomat_inpost_pl,,unknown,"Na parkingu, przy sklepie spożywczym"
+Łąka Prudnicka,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu spożywczego
+Łubniany,paczkomat_inpost_pl,,unknown,Market Dino
+Łosiów,paczkomat_inpost_pl,,unknown,Market Dino
+Lubrza,paczkomat_inpost_pl,,unknown,"Obok sklepu Sinsay, przed pylonem reklamowym"
+Leśnica,paczkomat_inpost_pl,,unknown,Przy nieczynnym pawilonie handlowym
+Laskowice,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Ligota Prószkowska,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Ligota Turawska,paczkomat_inpost_pl,,unknown,Market Dino
+Łukowice Brzeskie,paczkomat_inpost_pl,,unknown,Przy sklepie
+Lasowice Wielkie,paczkomat_inpost_pl,,unknown,Market Dino
+Lubsza,paczkomat_inpost_pl,,unknown,DAK-BUD
+Luboszyce,paczkomat_inpost_pl,,unknown,Przy sklepie
+Maciowakrze,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym Lewiatan
+Magnuszowice,paczkomat_inpost_pl,,unknown,Market Dino
+Mechnice,paczkomat_inpost_pl,,unknown,Market Dino
+Michałów,paczkomat_inpost_pl,,unknown,BORT WIMAR
+Maciejowice,paczkomat_inpost_pl,,unknown,Przy bloku nr. 59
+Mąkoszyce,paczkomat_inpost_pl,,unknown,Przy sklepie
+Mochów,paczkomat_inpost_pl,,unknown,Przy cateringu
+Moszczanka,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym Darvita
+Murów,paczkomat_inpost_pl,,unknown,Market Dino
+Malnia,paczkomat_inpost_pl,,unknown,"Przy sklepie spożywczym ""Roma"""
+Myślina,paczkomat_inpost_pl,,unknown,Przy świetlicy wiejskiej
+Nowaki,paczkomat_inpost_pl,,unknown,Obok wejścia do OSP
+Namysłów,paczkomat_inpost_pl,,unknown,SKLEP MONOPOLOWY KROPLA
+Nakło,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Naczęsławice,paczkomat_inpost_pl,,unknown,Przy świetlicy wiejskiej
+Nowa Cerekwia,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Niwnica,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Niemodlin,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu
+Narok,paczkomat_inpost_pl,,unknown,Na parkingu przy sklepie
+Nowy Świętów,paczkomat_inpost_pl,,unknown,Za sklepem spożywczym Livio
+Nysa,paczkomat_inpost_pl,,unknown,DUŻY BEN
+Ochodze,paczkomat_inpost_pl,,unknown,Przy Barze Myśliwskim
+Olesno,paczkomat_inpost_pl,,unknown,PROMIL
+Otmice,paczkomat_inpost_pl,,unknown,Przy barze
+Osowiec,paczkomat_inpost_pl,,unknown,Przy sklepie
+Otmuchów,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Ostrożnica,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Ozimek,paczkomat_inpost_pl,,unknown,PROMIL
+Paczków,paczkomat_inpost_pl,,unknown,SKLEP ZABAWKOWY
+Pogorzela,paczkomat_inpost_pl,,unknown,BORT WIMAR
+Pietna,paczkomat_inpost_pl,,unknown,Market Dino
+Piotrówka,paczkomat_inpost_pl,,unknown,Przy świetlicy wiejskiej
+Pakosławice,paczkomat_inpost_pl,,unknown,SKLEP ABC 
+Pludry,paczkomat_inpost_pl,,unknown,Przy Delikatesach Centrum
+Pokój,paczkomat_inpost_pl,,unknown,Market Dino
+Kluczbork ,paczkomat_inpost_pl,,unknown,STACJA CIRCLE K
+Kolanowice,paczkomat_inpost_pl,,unknown,SKLEP DELIKATESY PLUS
+Prudnik,paczkomat_inpost_pl,,unknown,Pawilon handlowy przy byłych koszarach
+Praszka,paczkomat_inpost_pl,,unknown,Market Dino
+Przylesie,paczkomat_inpost_pl,,unknown,Przy sklepie Bort-Wimar
+Rudniki,paczkomat_inpost_pl,,unknown,Market Dino
+Stare Budkowice,paczkomat_inpost_pl,,unknown,Przy parkingu
+Szczedrzyk,paczkomat_inpost_pl,,unknown,Przy sklepie
+Sidzina,paczkomat_inpost_pl,,unknown,"Za rogiem, po lewej stronie od wejścia do sklepu"
+Skarbimierz,paczkomat_inpost_pl,,unknown,Market Dino
+Skorogoszcz,paczkomat_inpost_pl,,unknown,"Po lewej stronie marketu, na bocznej ścianie"
+Skoroszyce,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu
+Strzelce Opolskie,paczkomat_inpost_pl,,unknown,Przy stacji Shell
+Tarnów Opolski,paczkomat_inpost_pl,,unknown,Przy nieczynnym pawilonie handlowym
+Wołczyn,paczkomat_inpost_pl,,unknown,Przy Hurtowni
+Zdzieszowice,paczkomat_inpost_pl,,unknown,Market Dino
+Zakrzów,paczkomat_inpost_pl,,unknown,Parking przy Orliku
+Zawadzkie,paczkomat_inpost_pl,,unknown,Przy Netto
+Prószków,paczkomat_inpost_pl,,unknown,Przy Galerii Centro
+Popielów,paczkomat_inpost_pl,,unknown,Za Galerią
+Pisarzowice,paczkomat_inpost_pl,,unknown,Przy sklepie
+Prusinowice,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Pokrzywnica,paczkomat_inpost_pl,,unknown,Przy posesji prywatnej
+Pawłowiczki,paczkomat_inpost_pl,,unknown,Przy parkingu Delikatesów Centrum
+Polska Nowa Wieś,paczkomat_inpost_pl,,unknown,Market Dino
+Pawłów,paczkomat_inpost_pl,,unknown,Przy Myjni Samochodowej
+Pilszcz,paczkomat_inpost_pl,,unknown,Przy ulicy
+Przywory,paczkomat_inpost_pl,,unknown,Przy pawilonie handlowym
+Olszowa,paczkomat_inpost_pl,,unknown,Przy OSP
+Reńska Wieś,paczkomat_inpost_pl,,unknown,Przy posesji prywatnej
+Rudziczka,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu Darvita
+Radzikowice,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Radłów,paczkomat_inpost_pl,,unknown,Market Dino
+Rogów Opolski,paczkomat_inpost_pl,,unknown,"Przy Piekarni ""Krzyś"""
+Rożniątów,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Racławice Śląskie,paczkomat_inpost_pl,,unknown,Market Dino
+Rusocin,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Raszowa,paczkomat_inpost_pl,,unknown,Przy pawilonie handlowo-usługowym
+Rozwadza,paczkomat_inpost_pl,,unknown,Przy składzie materiałów budowlanych
+Rozmierka,paczkomat_inpost_pl,,unknown,Przy sklepie wielobranżowym
+Strzeleczki,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Świerczów,paczkomat_inpost_pl,,unknown,Market Dino
+Stary Grodków,paczkomat_inpost_pl,,unknown,Przy sklepie Bort-Wimar
+Suchy Bór,paczkomat_inpost_pl,,unknown,Za sklepem Lewiatan
+Schodnia,paczkomat_inpost_pl,,unknown,Market Dino
+Sieroniowice,paczkomat_inpost_pl,,unknown,Market Dino
+Stare Koźle,paczkomat_inpost_pl,,unknown,Market Dino
+Stary Las,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym Rabat
+Śmicz,paczkomat_inpost_pl,,unknown,Przy sklepie Darvita
+Staniszcze Małe,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Solarnia,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Spórok,paczkomat_inpost_pl,,unknown,Przy posesji prywatnej
+Sucha,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym Baltazar
+Strojec,paczkomat_inpost_pl,,unknown,Market Dino
+Szymiszów,paczkomat_inpost_pl,,unknown,Przy pawilonie usługowo-handlowym
+Steblów,paczkomat_inpost_pl,,unknown,Market Dino
+Sternalice,paczkomat_inpost_pl,,unknown,Przy sklepie
+Stare Siołkowice,paczkomat_inpost_pl,,unknown,Na parkingu przed budynkiem handlowym
+Staniszcze Wielkie,paczkomat_inpost_pl,,unknown,Przed hurtownią budowlaną
+Stara Kuźnia,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Szklary,paczkomat_inpost_pl,,unknown,Przy sklepie Bort Wimar
+Tułowice,paczkomat_inpost_pl,,unknown,Market Dino
+Turawa,paczkomat_inpost_pl,,unknown,Po prawej stronie od wejścia do apteki
+Twardawa,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Ucieszków,paczkomat_inpost_pl,,unknown,"Przy parkingu, na przeciwko cmentarza"
+Ujazd,paczkomat_inpost_pl,,unknown,"Za ""Starym Spichlerzem"""
+Ścinawa Nyska,paczkomat_inpost_pl,,unknown,Przy sklepie Odido
+Wierzbięcice,paczkomat_inpost_pl,,unknown,Przy sklepie Darvita
+Walce,paczkomat_inpost_pl,,unknown,Przy myjni samochodowej
+Włodzienin,paczkomat_inpost_pl,,unknown,Przy myjni samochodowej
+Większyce,paczkomat_inpost_pl,,unknown,Po lewej stronie sklepu
+Węgry,paczkomat_inpost_pl,,unknown,Przy zabce
+Więcmierzyce,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Wojciechów,paczkomat_inpost_pl,,unknown,Market Dino
+Wilków,paczkomat_inpost_pl,,unknown,Market Dino
+Wyszków Śląski,paczkomat_inpost_pl,,unknown,Po prawej od wejścia do sklepu
+Wawelno,paczkomat_inpost_pl,,unknown,Parking przy wypożyczalni samochodów
+Kałków,paczkomat_inpost_pl,,unknown,Market Dino
+Kamienica,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Brożec,paczkomat_inpost_pl,,unknown,Przy nieczynnym sklepie spożywczym
+Grabin,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Kielcza,paczkomat_inpost_pl,,unknown,Przy gabinecie rehabilitacyjnym
+Skarbimierz-Osiedle,paczkomat_inpost_pl,,unknown,Przy Sklepie Bort Wimar
+Kórnica,paczkomat_inpost_pl,,unknown,Przy sklepie Odido
+Kamień Śląski,paczkomat_inpost_pl,,unknown,Market Dino
+Stradunia,paczkomat_inpost_pl,,unknown,Parking przy sklepie spożywczym
+Klisino,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Szybowice,paczkomat_inpost_pl,,unknown,Przy sklepie Darvita
+Kozłowice,paczkomat_inpost_pl,,unknown,Przy głównej drodze
+Racławiczki,paczkomat_inpost_pl,,unknown,Przy Domu Kultury
+Zawada,paczkomat_inpost_pl,,unknown,Na parkingu Turawa Park
+Zębowice,paczkomat_inpost_pl,,unknown,Przy sklepie Delikatesy Centrum
+Żędowice,paczkomat_inpost_pl,,unknown,Przy pawilonie handlowym
+Zielęcice,paczkomat_inpost_pl,,unknown,Na terenie firmy eSzydłowski
+Zalesie Śląskie,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym
+Zimnice Wielkie,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Złotniki,paczkomat_inpost_pl,,unknown,Przy salonie meblowym
+Żytniów,paczkomat_inpost_pl,,unknown,Przy sklepie
+Żywocice,paczkomat_inpost_pl,,unknown,Przy hurtowni artykułów do produkcji rolnej
+Nysa,play_pl,Ul. Rynek 5,unknown,Salon Play
+Niemodlin,play_pl,Ul. Rynek 45,unknown,Salon Play
+Krapkowice,play_pl,Ul. Rynek 19,unknown,Salon Play
+Praszka,play_pl,Pl. Grunwaldzki 20,unknown,Salon Play
+Zawada,play_pl,Ul. Dębowa 1,unknown,Salon Play
+Grodków,play_pl,Ul. Rynek 20,unknown,Salon Play
+Nysa,play_pl,Ul. Wolności 2,unknown,Salon Play
+Głubczyce,play_pl,Ul. Gdańska 28C,unknown,Salon Play
+Prudnik,play_pl,Ul. Piastowska 21,unknown,Salon Play
+Opole,play_pl,Ul. Ozimska 8,unknown,Salon Play
+Namysłów,play_pl,Ul. Sikorskiego 12,unknown,Salon Play
+Kluczbork,play_pl,Ul. Byczyńska 101,unknown,Salon Play
+Kędzierzyn-Koźle,play_pl,Ul. Armii Krajowej 38,unknown,Salon Play
+Olesno,play_pl,Ul. Rynek 15,unknown,Salon Play
+Strzelce Opolskie,play_pl,Ul. Krakowska 1,unknown,Salon Play
+Opole,play_pl,Ul. Wrocławska 154,unknown,Salon Play
+Opole,play_pl,Pl. Kopernika 16,unknown,Salon Play
+Brzeg,play_pl,Ul. Bolesława Chrobrego 2,unknown,Salon Play
+Kędzierzyn-Koźle,play_pl,Ul. Kozielska 20,unknown,Salon Play
+Kluczbork,play_pl,Ul. Grunwaldzka 22D,unknown,Salon Play
+Baborów,poczta_polska_pl,,unknown,FUP Kietrz
+Biała,poczta_polska_pl,,unknown,UP Biała
+Bielice,poczta_polska_pl,,unknown,AP Bielice
+Bierawa,poczta_polska_pl,,unknown,FUP Kędzierzyn-Koźle 4
+Bierdzany,poczta_polska_pl,,unknown,AP Bierdzany
+Bliszczyce,poczta_polska_pl,,unknown,AP Bliszczyce
+Borki Wielkie,poczta_polska_pl,,unknown,AP Borki Wielkie
+Branice,poczta_polska_pl,,unknown,FUP Głubczyce
+Brzeg,poczta_polska_pl,,unknown,UP Brzeg 1
+Burgrabice,poczta_polska_pl,,unknown,AP Burgrabice
+Byczyna,poczta_polska_pl,,unknown,UP Byczyna
+Chorula,poczta_polska_pl,,unknown,AP Chorula
+Chróścina,poczta_polska_pl,,unknown,AP Chróścina
+Chrząstowice,poczta_polska_pl,,unknown,FUP Ozimek
+Cisek,poczta_polska_pl,,unknown,FUP Kędzierzyn-Koźle 1
+Dąbrowa,poczta_polska_pl,,unknown,UP Dąbrowa
+Dobrodzień,poczta_polska_pl,,unknown,UP Dobrodzień
+Dobrzeń Wielki,poczta_polska_pl,,unknown,UP Dobrzeń Wielki
+Domaszowice,poczta_polska_pl,,unknown,FUP Namysłów
+Dytmarów,poczta_polska_pl,,unknown,AP Dytmarów
+Gałązczyce,poczta_polska_pl,,unknown,AP Gałązczyce
+Głogówek,poczta_polska_pl,,unknown,UP Głogówek
+Głubczyce,poczta_polska_pl,,unknown,UP Głubczyce
+Głuchołazy,poczta_polska_pl,,unknown,UP Głuchołazy 1
+Głuszyna,poczta_polska_pl,,unknown,AP Głuszyna
+Gogolin,poczta_polska_pl,,unknown,UP Gogolin
+Gorzów Śląski,poczta_polska_pl,,unknown,FUP Praszka
+Gostomia,poczta_polska_pl,,unknown,AP Gostomia
+Górażdże,poczta_polska_pl,,unknown,AP Górażdże
+Górki,poczta_polska_pl,,unknown,AP Górki
+Grabin,poczta_polska_pl,,unknown,AP Grabin
+Gracze,poczta_polska_pl,,unknown,AP Gracze
+Grodków,poczta_polska_pl,,unknown,UP Grodków
+Izbicko,poczta_polska_pl,,unknown,FUP Strzelce Opolskie 1
+Jełowa,poczta_polska_pl,,unknown,AP Jełowa
+Jemielnica,poczta_polska_pl,,unknown,FUP Strzelce Opolskie 1
+Kadłub,poczta_polska_pl,,unknown,AP Kadłub
+Kamiennik,poczta_polska_pl,,unknown,FUP Otmuchów
+Kamień Śląski,poczta_polska_pl,,unknown,AP Kamień Śląski
+Karłowice,poczta_polska_pl,,unknown,AP Karłowice
+Kędzierzyn-Koźle,poczta_polska_pl,,unknown,FUP Kędzierzyn-Koźle 4
+Kielcza,poczta_polska_pl,,unknown,AP Kielcza
+Kietrz,poczta_polska_pl,,unknown,UP Kietrz
+Kluczbork,poczta_polska_pl,,unknown,FUP Kluczbork 1
+Kolnica,poczta_polska_pl,,unknown,AP Kolnica
+Kolonowskie,poczta_polska_pl,,unknown,FUP Zawadzkie
+Komprachcice,poczta_polska_pl,,unknown,UP Komprachcice
+Korfantów,poczta_polska_pl,,unknown,UP Korfantów
+Kostów,poczta_polska_pl,,unknown,AP Kostów
+Kościeliska,poczta_polska_pl,,unknown,AP Kościeliska
+Kotlarnia,poczta_polska_pl,,unknown,FUP Kędzierzyn-Koźle 4
+Kórnica,poczta_polska_pl,,unknown,AP Kórnica
+Krapkowice,poczta_polska_pl,,unknown,UP Krapkowice 1
+Krasiejów,poczta_polska_pl,,unknown,AP Krasiejów
+Kujakowice Górne,poczta_polska_pl,,unknown,AP Kujakowice Górne
+Kujawy,poczta_polska_pl,,unknown,AP Kujawy
+Kup,poczta_polska_pl,,unknown,AP Kup
+Laskowice,poczta_polska_pl,,unknown,AP Laskowice
+Lasowice Małe,poczta_polska_pl,,unknown,AP Lasowice Małe
+Lasowice Wielkie,poczta_polska_pl,,unknown,FUP Kluczbork 1
+Leśnica,poczta_polska_pl,,unknown,UP Leśnica
+Lewin Brzeski,poczta_polska_pl,,unknown,UP Lewin Brzeski
+Luboszyce,poczta_polska_pl,,unknown,FUP Turawa
+Lubrza,poczta_polska_pl,,unknown,FUP Prudnik
+Lubsza,poczta_polska_pl,,unknown,FUP Brzeg 1
+Łambinowice,poczta_polska_pl,,unknown,FUP Korfantów
+Łącznik,poczta_polska_pl,,unknown,AP Łącznik
+Łubniany,poczta_polska_pl,,unknown,UP Łubniany
+Moszczanka,poczta_polska_pl,,unknown,AP Moszczanka
+Murów,poczta_polska_pl,,unknown,FUP Łubniany
+Namysłów,poczta_polska_pl,,unknown,FUP Namysłów
+Nasiedle,poczta_polska_pl,,unknown,AP Nasiedle
+Niemodlin,poczta_polska_pl,,unknown,UP Niemodlin
+Nowaki,poczta_polska_pl,,unknown,AP Nowaki
+Nysa,poczta_polska_pl,,unknown,AP Nysa
+Olesno,poczta_polska_pl,,unknown,FUP Olesno
+Olszanka,poczta_polska_pl,,unknown,FUP Lewin Brzeski
+Opole,poczta_polska_pl,,unknown,FUP Opole 7
+Otmuchów,poczta_polska_pl,,unknown,UP Otmuchów
+Ozimek,poczta_polska_pl,,unknown,UP Ozimek
+Paczków,poczta_polska_pl,,unknown,AP Paczków
+Pakosławice,poczta_polska_pl,,unknown,FUP Nysa 1
+Pawłowiczki,poczta_polska_pl,,unknown,FUP Polska Cerekiew
+Pilszcz,poczta_polska_pl,,unknown,AP Pilszcz
+Pisarzowice,poczta_polska_pl,,unknown,AP Pisarzowice
+Pludry,poczta_polska_pl,,unknown,AP Pludry
+Pokój,poczta_polska_pl,,unknown,FUP Dobrzeń Wielki
+Polska Cerekiew,poczta_polska_pl,,unknown,UP Polska Cerekiew
+Popielów,poczta_polska_pl,,unknown,FUP Dobrzeń Wielki
+Praszka,poczta_polska_pl,,unknown,UP Praszka
+Prószków,poczta_polska_pl,,unknown,UP Prószków
+Prudnik,poczta_polska_pl,,unknown,AP Prudnik
+Pustków,poczta_polska_pl,,unknown,AP Pustków
+Racławice Śląskie,poczta_polska_pl,,unknown,AP Racławice Śląskie
+Radłów,poczta_polska_pl,,unknown,FUP Olesno
+Raszowa,poczta_polska_pl,,unknown,AP Raszowa
+Reńska Wieś,poczta_polska_pl,,unknown,FUP Kędzierzyn-Koźle 1
+Rogów Opolski,poczta_polska_pl,,unknown,AP Rogów Opolski
+Rozmierka,poczta_polska_pl,,unknown,AP Rozmierka
+Rudniki,poczta_polska_pl,,unknown,FUP Praszka
+Rudziczka,poczta_polska_pl,,unknown,AP Rudziczka
+Skarbimierz-Osiedle,poczta_polska_pl,,unknown,FUP Brzeg 1
+Skorogoszcz,poczta_polska_pl,,unknown,FUP Lewin Brzeski
+Skoroszyce,poczta_polska_pl,,unknown,FUP Nysa 1
+Stare Kotkowice,poczta_polska_pl,,unknown,AP Stare Kotkowice
+Strojec,poczta_polska_pl,,unknown,AP Strojec
+Strzelce Opolskie,poczta_polska_pl,,unknown,UP Strzelce Opolskie 1
+Strzeleczki,poczta_polska_pl,,unknown,FUP Krapkowice 1
+Strzelniki,poczta_polska_pl,,unknown,AP Strzelniki
+Szonów,poczta_polska_pl,,unknown,AP Szonów
+Szymiszów,poczta_polska_pl,,unknown,AP Szymiszów
+Śmicz,poczta_polska_pl,,unknown,AP Śmicz
+Świerczów,poczta_polska_pl,,unknown,FUP Namysłów
+Tarnów Opolski,poczta_polska_pl,,unknown,UP Tarnów Opolski
+Trzeboszowice,poczta_polska_pl,,unknown,AP Trzeboszowice
+Tułowice,poczta_polska_pl,,unknown,FUP Niemodlin
+Turawa,poczta_polska_pl,,unknown,UP Turawa
+Ujazd,poczta_polska_pl,,unknown,FUP Leśnica
+Urbanowice,poczta_polska_pl,,unknown,AP Urbanowice
+Uszyce,poczta_polska_pl,,unknown,AP Uszyce
+Walce,poczta_polska_pl,,unknown,FUP Krapkowice 1
+Wąsice,poczta_polska_pl,,unknown,AP Wąsice
+Wilków,poczta_polska_pl,,unknown,FUP Namysłów
+Włodary,poczta_polska_pl,,unknown,AP Włodary
+Wołczyn,poczta_polska_pl,,unknown,UP Wołczyn
+Zakrzów,poczta_polska_pl,,unknown,AP Zakrzów
+Zalesie Śląskie,poczta_polska_pl,,unknown,AP Zalesie Śląskie
+Zawadzkie,poczta_polska_pl,,unknown,UP Zawadzkie
+Zdzieszowice,poczta_polska_pl,,unknown,UP Zdzieszowice
+Zębowice,poczta_polska_pl,,unknown,FUP Ozimek
+Zimnice Wielkie,poczta_polska_pl,,unknown,AP Zimnice Wielkie
+Zubrzyce,poczta_polska_pl,,unknown,AP Zubrzyce
+Źlinice,poczta_polska_pl,,unknown,AP Źlinice
+Żędowice,poczta_polska_pl,,unknown,AP Żędowice
+Żytniów,poczta_polska_pl,,unknown,AP Żytniów
+Prudnik,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Krapkowice,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Opole,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Brzeg,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Kędzierzyn Koźle,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Strzelce Opolskie,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Brzeg,tui,ul Jabłkowa 6,unknown,MAGELLAN
+Brzeg,tui,ul. Łokietka 24a (Kaufland),unknown,Biuro Podróży Columbus
+Glubczyce,tui,ul. Gdańska 26,unknown,Travelplanet.pl Glubczyce
+Kluczbork,tui,ul. Byczyńska 101,unknown,Conti Biuro Podróży
+Kędzierzyn-Koźle,tui,ul. Al. Jana Pawła II 17,unknown,Biuro Turystyczno-Marketingowe MAREK
+Kędzierzyn-Koźle,tui,ul. Głowackiego 20/III,unknown,Biuro Podróży Relaks
+Nysa,tui,ul. Wrocławska 2,unknown,Biuro Podróży Merkury
+Nysa,tui,ul. Królowej Jadwigi 6a,unknown,Centrum Podróży AQUATOUR
+Nysa,tui,ul. Celna 22-26,unknown,Nysa Tour
+Opole,tui,CH Karolinka Wrocławska 152/154,unknown,TUI CH Karolinka
+Opole,tui,ul. Damrota 1A/2,unknown,BIURO PARTNERSKIE TUI: POTOCKA TOUR
+Opole,tui,ul. 1 Maja 49,unknown,RETMAN
+Opole,tui,ul. Sosnkowskiego 16,unknown,Traveletta
+Opole,tui,ul. Plac Kopernika 3,unknown,Wakacyjne Klimaty
+Opole,tui,ul. Plac Kopernika 16,unknown,TUI CH Solaris Center
+Prudnik ,tui,ul. Jagiellońska 22,unknown,Biuro Turystyczne MEDIUM 
+Strzelce Opolskie,tui,Rynek 4,unknown,PTTK - Biuro Turystyki
+Zdzieszowice,tui,ul. Filarskiego 4,unknown,Biuro Podróży Relaks
+BRANICE,visa,,unknown,unknown
+KIETRZ,visa,,unknown,unknown
+GLUBCZYCE,visa,,unknown,unknown
+BABOROW,visa,,unknown,unknown
+GLUCHOLAZY,visa,,unknown,unknown
+GŁUCHOŁAZY,visa,,unknown,unknown
+GŁUBCZYCE,visa,,unknown,unknown
+PACZKOW,visa,,unknown,unknown
+PRUDNIK,visa,,unknown,unknown
+OTMUCHOW,visa,,unknown,unknown
+PAWŁOWICZKI,visa,,unknown,unknown
+POLSKA CEREKIEW,visa,,unknown,unknown
+OPOLE,visa,,unknown,unknown
+BIAŁA,visa,,unknown,unknown
+NYSA,visa,,unknown,unknown
+ŚCINAWA MAŁA,visa,,unknown,unknown
+PAKOSŁAWICE,visa,,unknown,unknown
+GŁOGOWEK,visa,,unknown,unknown
+CISEK,visa,,unknown,unknown
+KAMIENNIK,visa,,unknown,unknown
+REŃSKA WIEŚ,visa,,unknown,unknown
+KEDZIERZYN-KOZLE,visa,,unknown,unknown
+KĘDZIERZYN KOŹLE,visa,,unknown,unknown
+KORFANTOW,visa,,unknown,unknown
+MOSZNA,visa,,unknown,unknown
+WALCE,visa,,unknown,unknown
+KUJAWY,visa,,unknown,unknown
+KĘDZIERZYN-KOŹLE,visa,,unknown,unknown
+STRZELECZKI,visa,,unknown,unknown
+ŁAMBINOWICE,visa,,unknown,unknown
+SKOROSZYCE,visa,,unknown,unknown
+ZDZIESZOWICE,visa,,unknown,unknown
+KRAPKOWICE,visa,,unknown,unknown
+LEŚNICA,visa,,unknown,unknown
+LESNICA,visa,,unknown,unknown
+UJAZD,visa,,unknown,unknown
+GOGOLIN,visa,,unknown,unknown
+TUŁOWICE,visa,,unknown,unknown
+ROGOW OPOLSKI,visa,,unknown,unknown
+LESNICA GMINA,visa,,unknown,unknown
+GRODKOW,visa,,unknown,unknown
+NIEMODLIN,visa,,unknown,unknown
+PROSZKOW,visa,,unknown,unknown
+KAMIEŃ ŚLĄSKI,visa,,unknown,unknown
+PRZYWORY,visa,,unknown,unknown
+STRZELCE OPOLSKIE,visa,,unknown,unknown
+KOMPRACHCICE,visa,,unknown,unknown
+TARNOW OPOLSKI,visa,,unknown,unknown
+IZBICKO,visa,,unknown,unknown
+DĄBROWA,visa,,unknown,unknown
+LEWIN BRZESKI,visa,,unknown,unknown
+JEMIELNICA,visa,,unknown,unknown
+POGORZELA,visa,,unknown,unknown
+ŁOSIOW,visa,,unknown,unknown
+CHRZASTOWICE,visa,,unknown,unknown
+BRZEG,visa,,unknown,unknown
+LUBOSZYCE,visa,,unknown,unknown
+DOBRZEŃ WIELKI,visa,,unknown,unknown
+TURAWA,visa,,unknown,unknown
+CHROŚCICE,visa,,unknown,unknown
+OZIMEK,visa,,unknown,unknown
+ZAWADZKIE,visa,,unknown,unknown
+POPIELOW,visa,,unknown,unknown
+KOLONOWSKIE,visa,,unknown,unknown
+ŁUBNIANY,visa,,unknown,unknown
+JEŁOWA,visa,,unknown,unknown
+MĄKOSZYCE,visa,,unknown,unknown
+MUROW,visa,,unknown,unknown
+DOBRODZIEŃ,visa,,unknown,unknown
+ZĘBOWICE,visa,,unknown,unknown
+POKOJ,visa,,unknown,unknown
+STARE BUDKOWICE,visa,,unknown,unknown
+OLESNO,visa,,unknown,unknown
+NAMYSŁOW,visa,,unknown,unknown
+NAMYSLOW,visa,,unknown,unknown
+CHOCIANOWICE,visa,,unknown,unknown
+KLUCZBORK,visa,,unknown,unknown
+RADŁOW,visa,,unknown,unknown
+GORZOW ŚLĄSKI,visa,,unknown,unknown
+BYCZYNA,visa,,unknown,unknown
+PRASZKA,visa,,unknown,unknown
+RUDNIKI,visa,,unknown,unknown
+Namyslow,western_union,,unknown,BS WOLCZYN O NAMYSLOW
+Biala,western_union,,unknown,BANK SPOLDZIELCZY W BIALEJ
+Skarbimierz,western_union,,unknown,BS OLAWA PK SKARBIMIERZ
+Brzeg,western_union,,unknown,BANK PEKAO SA
+Nysa,western_union,,unknown,STEFCZYK FINANSE
+Glucholazy,western_union,,unknown,STEFCZYK FINANSE
+Lambinowice,western_union,,unknown,BANK SPOLDZIELCZY W PRUDNIKU
+Wolczyn,western_union,,unknown,BS WOLCZYN
+Korfantow,western_union,,unknown,BANK SPOLDZIELCZY W PRUDNIKU
+Prudnik,western_union,,unknown,INMEDIO
+Kluczbork,western_union,,unknown,STEFCZYK FINANSE
+Opole,western_union,,unknown,BANK PEKAO SA
+Praszka,western_union,,unknown,BANK PEKAO SA
+Chrzastowice,western_union,,unknown,BANK SPOLDZIELCZY W LESNICY
+Olesno,western_union,,unknown,INKASO FINANSE
+Krapkowice,western_union,,unknown,INMEDIO
+Glogowek,western_union,,unknown,BS GLOGOWEK
+Ozimek,western_union,,unknown,BANK PEKAO SA
+Glubczyce,western_union,,unknown,STEFCZYK FINANSE
+Gogolin,western_union,,unknown,BANK SPOLDZIELCZY W GOGOLINIE
+Turawa,western_union,,unknown,BANK SPOLDZIELCZY BANK ROLNIKO
+Izbicko,western_union,,unknown,BANK SPOLDZIELCZY W LESNICY
+Strzelce Opolskie,western_union,,unknown,BANK PEKAO SA
+Kedzierzyn Kozle,western_union,,unknown,BANK PEKAO SA
+Zdzieszowice,western_union,,unknown,BANK SPOLDZIELCZY W GOGOLINIE
+Dobrodzien,western_union,,unknown,BANK SPOLDZIELCZY W LESNICY
+Jamielnica,western_union,,unknown,BANK SPOLDZIELCZY W LESNICY
+Polska Cerekiew,western_union,,unknown,POWIATOWY BANK SPOLDZIELCZY
+Lesnica,western_union,,unknown,BANK SPOLDZIELCZY W LESNICY
+Ujazd,western_union,,unknown,BANK SPOLDZIELCZY W LESNICY

@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://www.cic.fr:443/fr/agences/10096/18002/00/000,cic,CIC,,LYON,Rhone-Alpes,,FR,+33 4 37 70 39 44,https://www.cic.fr:443/fr/agences/10096/18002/00/000,"Mo-Fr 09:00-12:15,14:00-18:00",cic,Q746525
+https://www.cic.fr:443/fr/agences/10096/18621/00/000,cic,CIC,,LYON,Rhone-Alpes,,FR,+33 4 72 05 00 10,https://www.cic.fr:443/fr/agences/10096/18621/00/000,"Mo-Th 08:15-12:00,13:30-17:30; Fr 08:15-11:45,13:30-17:00",cic,Q746525
+https://www.cic.fr:443/banqueprivee/fr/agences/10096/18091/05/000,cic,CIC BANQUE PRIVEE LYON - CIC BP LYON,,LYON,Rhone-Alpes,,FR,+33 4 72 40 48 48,https://www.cic.fr:443/banqueprivee/fr/agences/10096/18091/05/000,"Mo-Th 08:15-12:00,13:30-17:30; Fr 08:15-11:45,13:30-17:00",cic,Q746525
+https://www.cic.fr:443/fr/agences/10096/18505/00/000,cic,CIC,,LYON,Rhone-Alpes,,FR,+33 4 72 00 56 21,https://www.cic.fr:443/fr/agences/10096/18505/00/000,"Mo-Th 08:30-12:15,13:45-17:45; Fr 08:30-12:15,13:45-17:00",cic,Q746525
+https://www.cic.fr:443/fr/agences/10096/18101/00/000,cic,CIC,,LYON,Rhone-Alpes,,FR,+33 4 78 92 06 37,https://www.cic.fr:443/fr/agences/10096/18101/00/000,"Mo-Th 08:00-12:30,13:30-17:00; Fr 08:00-12:30,13:30-16:00",cic,Q746525
+https://www.cic.fr:443/fr/agences/10096/18100/00/000,cic,CIC,,LYON,Rhone-Alpes,,FR,+33 4 78 92 79 10,https://www.cic.fr:443/fr/agences/10096/18100/00/000,"Mo-Th 08:00-12:00,13:15-17:15; Fr 08:00-12:00,13:15-16:15",cic,Q746525
+https://local.fedex.com/#1015603454,fedex,,,Lyon,Rhone-Alpes,,FR,,https://local.fedex.com/en-fr/lyon/lynwp,,FedEx,Q459477
+https://local.fedex.com/#1015603389,fedex,,,Lyon,Rhone-Alpes,,FR,,https://local.fedex.com/en-fr/lyon/lynjo,,FedEx,Q459477
+https://local.fedex.com/#1015599896,fedex,,,Lyon,Rhone-Alpes,,FR,,https://local.fedex.com/en-fr/lyon/lyngj,,FedEx,Q459477
+20328,starbucks_eu,Rue de la Republique 2,"2 Rue de la Republique, 69001 Lyon",Lyon,Rhone-Alpes,,FR,+33 4 78 27 44 21,,,Starbucks,Q37158

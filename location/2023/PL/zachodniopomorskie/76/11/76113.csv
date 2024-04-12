@@ -1,0 +1,11 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1162,abc_pl,abc,,Masłowice,zachodniopomorskie,,PL,,,,abc,Q11683985
+4020,abc_pl,abc,,Pieszcz,zachodniopomorskie,,PL,,,,abc,Q11683985
+2251,abc_pl,abc,,Postomino,zachodniopomorskie,,PL,,,,abc,Q11683985
+2249,abc_pl,abc,,Staniewice,zachodniopomorskie,,PL,,,,abc,Q11683985
+13479,abc_pl,abc,,Marszewo,zachodniopomorskie,,PL,,,,abc,Q11683985
+PSM01APP,paczkomat_inpost_pl,Na parkingu przy Urzędzie Gminy,,Postomino,zachodniopomorskie,,PL,,https://inpost.pl/paczkomat-postomino-psm01app-postomino-paczkomaty-zachodniopomorskie,24/7,Paczkomat,Q110970254
+PSM01M,paczkomat_inpost_pl,Przy sklepie ABC,,Postomino,zachodniopomorskie,,PL,,https://inpost.pl/paczkomat-postomino-psm01m-postomino-paczkomaty-zachodniopomorskie,24/7,Paczkomat,Q110970254
+PXV01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Pieńkowo,zachodniopomorskie,,PL,,https://inpost.pl/paczkomat-pienkowo-pxv01m-pienkowo-paczkomaty-zachodniopomorskie,24/7,Paczkomat,Q110970254
+XTI01M,paczkomat_inpost_pl,Przy sklepie ABC,,Staniewice,zachodniopomorskie,,PL,,https://inpost.pl/paczkomat-staniewice-xti01m-staniewice-paczkomaty-zachodniopomorskie,24/7,Paczkomat,Q110970254
+949316,poczta_polska_pl,FUP Sławno 1,,Postomino,ZACHODNIOPOMORSKIE,,PL,+48 59 810 93 58,,,Poczta Polska,Q168833

@@ -1,0 +1,685 @@
+City,Place Name,Zipcode,Name
+Gilów,abc_pl,,unknown,abc
+Gozdnica,abc_pl,,unknown,abc
+Żary,abc_pl,,unknown,abc
+Złotnik,abc_pl,,unknown,abc
+Lubno,abc_pl,,unknown,abc
+Pławin,abc_pl,,unknown,abc
+Lubicz,abc_pl,,unknown,abc
+Dobiegniew,abc_pl,,unknown,abc
+Stare Kurowo,abc_pl,,unknown,abc
+Zielona Góra,abc_pl,,unknown,abc
+Kożuchów,abc_pl,,unknown,abc
+Ulim,abc_pl,,unknown,abc
+Glinik,abc_pl,,unknown,abc
+Osów,abc_pl,,unknown,abc
+Trzebicz,abc_pl,,unknown,abc
+Drezdenko,abc_pl,,unknown,abc
+Ciemnice,abc_pl,,unknown,abc
+Szczawno,abc_pl,,unknown,abc
+Bronków,abc_pl,,unknown,abc
+Pole,abc_pl,,unknown,abc
+Gubin,abc_pl,,unknown,abc
+Jaromirowice,abc_pl,,unknown,abc
+Czarnowice,abc_pl,,unknown,abc
+Chlebowo,abc_pl,,unknown,abc
+Starosiedle,abc_pl,,unknown,abc
+Stargard Gubiński,abc_pl,,unknown,abc
+Stara Jabłona,abc_pl,,unknown,abc
+Nietków,abc_pl,,unknown,abc
+Trzebów,abc_pl,,unknown,abc
+Rudawica,abc_pl,,unknown,abc
+Leszno Górne,abc_pl,,unknown,abc
+Wschowa,abc_pl,,unknown,abc
+Żagań,abc_pl,,unknown,abc
+Stary Żagań,abc_pl,,unknown,abc
+Kargowa,abc_pl,,unknown,abc
+Sanice,abc_pl,,unknown,abc
+Piotrów,abc_pl,,unknown,abc
+Przewóz,abc_pl,,unknown,abc
+Słubice,abc_pl,,unknown,abc
+Lubniewice,abc_pl,,unknown,abc
+Kiełcz,abc_pl,,unknown,abc
+Lubieszów,abc_pl,,unknown,abc
+Nowa Sól,abc_pl,,unknown,abc
+Brody,abc_pl,,unknown,abc
+Trzebiechów,abc_pl,,unknown,abc
+Lipinki Łużyckie,abc_pl,,unknown,abc
+Chocicz,abc_pl,,unknown,abc
+Lubsko,abc_pl,,unknown,abc
+Szprotawa,abc_pl,,unknown,abc
+Uście,abc_pl,,unknown,abc
+Kolsko,abc_pl,,unknown,abc
+Ostrów,abc_pl,,unknown,abc
+Sulęcin,abc_pl,,unknown,abc
+Gorzów Wielkopolski,abc_pl,,unknown,abc
+Murzynowo,abc_pl,,unknown,abc
+Skwierzyna,abc_pl,,unknown,abc
+Gościnowo,abc_pl,,unknown,abc
+Siedlisko,abc_pl,,unknown,abc
+Kaczenice,abc_pl,,unknown,abc
+Nowogród Bobrzański,abc_pl,,unknown,abc
+Konin Żagański,abc_pl,,unknown,abc
+Niwica,abc_pl,,unknown,abc
+Nowe Czaple,abc_pl,,unknown,abc
+Czaple,abc_pl,,unknown,abc
+Tuplice,abc_pl,,unknown,abc
+Wielisławice,abc_pl,,unknown,abc
+Licheń,abc_pl,,unknown,abc
+Szlichtyngowa,abc_pl,,unknown,abc
+Stare Drzewce,abc_pl,,unknown,abc
+Cibórz,abc_pl,,unknown,abc
+Wymiarki,abc_pl,,unknown,abc
+Zwierzyn,abc_pl,,unknown,abc
+Krosno Odrzańskie,abc_pl,,unknown,abc
+Modrzyca,abc_pl,,unknown,abc
+Gola,abc_pl,,unknown,abc
+Łupice,abc_pl,,unknown,abc
+Swarzynice,abc_pl,,unknown,abc
+Myszęcin,abc_pl,,unknown,abc
+Międzyrzecz,abc_pl,,unknown,abc
+Kaława,abc_pl,,unknown,abc
+Kowalów,abc_pl,,unknown,abc
+Wojcieszyce,abc_pl,,unknown,abc
+Nowiny Wielkie,abc_pl,,unknown,abc
+Lubięcin,abc_pl,,unknown,abc
+Chełmek,abc_pl,,unknown,abc
+Niwiska,abc_pl,,unknown,abc
+Kowalewo,abc_pl,,unknown,abc
+Bieniów,abc_pl,,unknown,abc
+Dębinka,abc_pl,,unknown,abc
+Żubrów,abc_pl,,unknown,abc
+Lubień,abc_pl,,unknown,abc
+Witnica,abc_pl,,unknown,abc
+Iłowa,abc_pl,,unknown,abc
+Bytom Odrzański,abc_pl,,unknown,abc
+Mościce,abc_pl,,unknown,abc
+Bielawy,abc_pl,,unknown,abc
+Jankowa Żagańska,abc_pl,,unknown,abc
+Laski,abc_pl,,unknown,abc
+Kamień Wielki,abc_pl,,unknown,abc
+Wężyska,abc_pl,,unknown,abc
+Drągowina,abc_pl,,unknown,abc
+Krążkowo,abc_pl,,unknown,abc
+Wałowice,abc_pl,,unknown,abc
+Małomice,abc_pl,,unknown,abc
+Olbrachtów,abc_pl,,unknown,abc
+Studzieniec,abc_pl,,unknown,abc
+Strzelce Krajeńskie,abc_pl,,unknown,abc
+Sobolice,abc_pl,,unknown,abc
+Glisno,abc_pl,,unknown,abc
+Tarnów Jezierny,abc_pl,,unknown,abc
+Smolno Wielkie,abc_pl,,unknown,abc
+Gorzów Wielkopolski,agata_meble_pl,,unknown,Gorzów Wielkopolski
+Zielona Góra,agata_meble_pl,,unknown,Zielona Góra
+Żary,aldi_nord_pl,,unknown,ALDI
+Sulechów,aldi_nord_pl,,unknown,ALDI
+Zielona Góra,aldi_nord_pl,,unknown,ALDI
+Gorzów Wielkopolski,aldi_nord_pl,,unknown,ALDI
+Wschowa,aldi_nord_pl,,unknown,ALDI
+Szprotawa,aldi_nord_pl,,unknown,ALDI
+Świebodzin,aldi_nord_pl,,unknown,ALDI [W budowie]
+Nowa Sól,aldi_nord_pl,,unknown,ALDI [W budowie]
+Zielona Góra,bmw_group,,unknown,PHU Fialkowski Sp.J.
+Szprotawa,bricomarche_pl,,unknown,Bricomarché Szprotawa
+Zielona Góra,bricomarche_pl,,unknown,Bricomarché Zielona Góra (ul.Szosa Kisielińska)
+Słubice,bricomarche_pl,,unknown,Bricomarché Słubice
+Nowa Sól,bricomarche_pl,,unknown,Bricomarché Nowa Sól
+Wschowa,bricomarche_pl,,unknown,Bricomarché Wschowa
+Kostrzyn nad Odrą,bricomarche_pl,,unknown,Bricomarché Kostrzyn nad Odrą
+Lubsko,bricomarche_pl,,unknown,Bricomarché Lubsko
+Strzelce Krajeńskie,bricomarche_pl,,unknown,Bricomarché Strzelce Krajeńskie
+Żary,bricomarche_pl,,unknown,Bricomarché Żary
+Międzyrzecz,bricomarche_pl,,unknown,Bricomarché Międzyrzecz
+Sulechów,bricomarche_pl,,unknown,Bricomarché Sulechów
+Gubin,bricomarche_pl,,unknown,Bricomarché Gubin
+Babimost,bricomarche_pl,,unknown,Bricomarché Babimost
+Świebodzin,bricomarche_pl,,unknown,Bricomarché Świebodzin
+Poznań,burgerking,,unknown,Burger King
+Zielona Góra,credit_agricole_pl,,unknown,"Credit Agricole Bohaterów Westerplatte 2A, Zielona Góra"
+Żagań,credit_agricole_pl,,unknown,"Credit Agricole Warszawska 17, Żagań"
+Szprotawa,credit_agricole_pl,,unknown,"Credit Agricole Odrodzenia 22, Szprotawa"
+Sulechów,credit_agricole_pl,,unknown,"Credit Agricole Pl. ks. Kaczmarka 2, Sulechów"
+Międzyrzecz,credit_agricole_pl,,unknown,"Credit Agricole 30 Stycznia 7B/1, Międzyrzecz"
+Lubsko,credit_agricole_pl,,unknown,"Credit Agricole Mikołaja Kopernika 5A, Lubsko"
+Gubin,credit_agricole_pl,,unknown,"Credit Agricole Andersa 3, Gubin"
+Drezdenko,credit_agricole_pl,,unknown,"Credit Agricole Stary Rynek 6, Drezdenko"
+Żary,credit_agricole_pl,,unknown,"Credit Agricole Podchorążych 41, Żary"
+Świebodzin,credit_agricole_pl,,unknown,"Credit Agricole Kościelna 5, Świebodzin"
+Nowa Sól,credit_agricole_pl,,unknown,"Credit Agricole Plac Wyzwolenia 9 A, Nowa Sól"
+Gorzów Wielkopolski,credit_agricole_pl,,unknown,"Credit Agricole Sikorskiego 116A, Gorzów Wielkopolski"
+Zielona Góra,dr_max,,unknown,"Apteka Dr.Max, Morelowa 34, Zielona Góra"
+Gorzów Wielkopolski,dr_max,,unknown,"Apteka Dr.Max, Marcinkowskiego 8, Gorzów Wielkopolski"
+Krosno Odrzańskie,dr_max,,unknown,"Apteka Dr.Max, Słoneczna 1/3, Krosno Odrzańskie"
+Nowa Sól,dr_max,,unknown,"Apteka Dr.Max, Parkowa 2, Nowa Sól"
+Strzelce Krajeńskie,dr_max,,unknown,"Apteka Dr.Max, Wyzwolenia 4, Strzelce Krajeńskie"
+Lubsko,dr_max,,unknown,"Apteka Dr.Max, Kazimierza Złotka 1, Lubsko"
+Nowogród Bobrzański,dr_max,,unknown,"Apteka Dr.Max, Rynek 8, Nowogród Bobrzański"
+Torzym,dr_max,,unknown,"Apteka Dr.Max, Wojska Polskiego 57, Torzym"
+Żary,dr_max,,unknown,"Apteka Dr.Max, Przeładunkowa 2, Żary"
+Witnica,dr_max,,unknown,"Apteka Dr.Max, Piaskowa 4, Witnica"
+Kożuchów,dr_max,,unknown,"Apteka Dr.Max, Rynek 16/17, Kożuchów"
+Sława,groszek_pl,,unknown,Groszek
+Międzyrzecz,groszek_pl,,unknown,Groszek
+Kożuchów,groszek_pl,,unknown,Groszek
+Otyń,groszek_pl,,unknown,Groszek
+Wojnowo,groszek_pl,,unknown,Groszek
+Nowa Sól,groszek_pl,,unknown,Groszek
+Wędrzyn,groszek_pl,,unknown,Groszek
+Trzciel,groszek_pl,,unknown,Groszek
+Babimost,groszek_pl,,unknown,Groszek
+Gościkowo,groszek_pl,,unknown,Groszek
+Kargowa,groszek_pl,,unknown,Groszek
+Goszczanowo,groszek_pl,,unknown,Groszek
+Gorzów Wielkopolski,groszek_pl,,unknown,Groszek
+Zielona Góra,groszek_pl,,unknown,Groszek
+Jordanowo,groszek_pl,,unknown,Groszek
+Świebodzin,groszek_pl,,unknown,Groszek
+Nowy Dworek,groszek_pl,,unknown,Groszek
+Janczewo,groszek_pl,,unknown,Groszek
+Czechów,groszek_pl,,unknown,Groszek
+Pierzwin,groszek_pl,,unknown,Groszek
+Wichów,groszek_pl,,unknown,Groszek
+Brzeźnica,groszek_pl,,unknown,Groszek
+Rogoziniec,groszek_pl,,unknown,Groszek
+Słubice,groszek_pl,,unknown,Groszek
+Łęknica,groszek_pl,,unknown,Groszek
+Słońsk,groszek_pl,,unknown,Groszek
+Lubrza,groszek_pl,,unknown,Groszek
+Drezdenko,groszek_pl,,unknown,Groszek
+Kostrzyn nad Odrą,groszek_pl,,unknown,Groszek
+Stanowice,groszek_pl,,unknown,Groszek
+Łośno,groszek_pl,,unknown,Groszek
+Brzoza,groszek_pl,,unknown,Groszek
+Zakęcie,groszek_pl,,unknown,Groszek
+Witnica,groszek_pl,,unknown,Groszek
+Jabłonów,groszek_pl,,unknown,Groszek
+Osów,groszek_pl,,unknown,Groszek
+Bledzew,groszek_pl,,unknown,Groszek
+Zielona Góra,hm,,unknown,Tesco Zielona Góra
+Gorzów Wielkopolski,hm,,unknown,Galeria Askana
+Gorzów Wielkopolski,itaka_pl,,unknown,ITAKA GORZÓW WIELKOPOLSKI
+Zielona Góra,itaka_pl,,unknown,ITAKA ZIELONA GÓRA
+Zielona Góra,mcdonalds_pl,,unknown,McDonald's
+Kostrzyn n/Odrą,mcdonalds_pl,,unknown,McDonald's
+Gubin,mcdonalds_pl,,unknown,McDonald's
+Brójce,mcdonalds_pl,,unknown,McDonald's
+Zbąszynek,mcdonalds_pl,,unknown,McDonald's
+Gorzów Wielkopolski,mcdonalds_pl,,unknown,McDonald's
+Słubice,mcdonalds_pl,,unknown,McDonald's
+Żary,mcdonalds_pl,,unknown,McDonald's
+Sulechów,mcdonalds_pl,,unknown,McDonald's
+Nowa Sól,mcdonalds_pl,,unknown,McDonald's
+Świebodzin,mcdonalds_pl,,unknown,McDonald's
+Żagań,mcdonalds_pl,,unknown,McDonald's
+Gorzów Wielkopolski,mercedes_benz,,unknown,Mojsiuk Sp. z o.o. Sp. k.
+Przylep / Zielona Góra,mercedes_benz,,unknown,Mirosław Wróbel Sp. z o.o.
+Babimost,paczkomat_inpost_pl,,unknown,EPAKA
+Bobowicko,paczkomat_inpost_pl,,unknown,Przy sklepie Grosik
+Baczyna,paczkomat_inpost_pl,,unknown,Przy markecie Chata Polska
+Bledzew,paczkomat_inpost_pl,,unknown,na terenie prywatnej posesji Krótka 2
+Bojadła,paczkomat_inpost_pl,,unknown,przy sklepie SPAR Bojadła
+Brójce,paczkomat_inpost_pl,,unknown,Market Dino
+Bobrowniki,paczkomat_inpost_pl,,unknown,przed sklepem
+Bytnica,paczkomat_inpost_pl,,unknown,Market Dino
+Bytom Odrzański,paczkomat_inpost_pl,,unknown,Market Dino
+Bogdaniec,paczkomat_inpost_pl,,unknown,boczna ściana Delikatesów Centrum
+Bobrówko,paczkomat_inpost_pl,,unknown,przy markecie
+Brzozowiec,paczkomat_inpost_pl,,unknown,przy parkingu
+Bukowiec,paczkomat_inpost_pl,,unknown,Market Dino
+Bobrowice,paczkomat_inpost_pl,,unknown,Market Dino
+Brody,paczkomat_inpost_pl,,unknown,Market Dino
+Bieniów,paczkomat_inpost_pl,,unknown,przy sklepie
+Brzeźnica,paczkomat_inpost_pl,,unknown,na parkingu stacji paliw
+Czarnów,paczkomat_inpost_pl,,unknown,na parkingu
+Cybinka,paczkomat_inpost_pl,,unknown,na parkingu stacji paliw
+Cibórz,paczkomat_inpost_pl,,unknown,przy markecie
+Cigacice,paczkomat_inpost_pl,,unknown,na parkingu z a marketem
+Ciosaniec,paczkomat_inpost_pl,,unknown,na parkingu OSP
+Chwalęcice,paczkomat_inpost_pl,,unknown,Na parkingu sklepu Lewiatan
+Czerwieńsk,paczkomat_inpost_pl,,unknown,na prywatnej posesji
+Ciecierzyce,paczkomat_inpost_pl,,unknown,Market Dino
+Dąbrówka Wielkopolska,paczkomat_inpost_pl,,unknown,Market Dino
+Dąbroszyn,paczkomat_inpost_pl,,unknown,na parkingu za marketem
+Dobiegniew,paczkomat_inpost_pl,,unknown,SKLEP ABC
+Deszczno,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Dychów,paczkomat_inpost_pl,,unknown,przy sklepie ABC
+Dąbie,paczkomat_inpost_pl,,unknown,Market Dino
+Zielona Góra,paczkomat_inpost_pl,,unknown,przy parkingu
+Droszków,paczkomat_inpost_pl,,unknown,przy markecie Słoneczko
+Drezdenko,paczkomat_inpost_pl,,unknown,CENTRUM KURIERSKIE
+Gościm,paczkomat_inpost_pl,,unknown,Market Dino
+Gralewo,paczkomat_inpost_pl,,unknown,na terenie prywatnej posesji
+Grabik,paczkomat_inpost_pl,,unknown,Market Dino
+Golice,paczkomat_inpost_pl,,unknown,Przed sklepem
+Gronów,paczkomat_inpost_pl,,unknown,na parkingu
+Górki Noteckie,paczkomat_inpost_pl,,unknown,Przy piekarni Koszyk
+Górzyca,paczkomat_inpost_pl,,unknown,na parkingu
+Gubin,paczkomat_inpost_pl,,unknown,PUNKT KURIERSKI
+Gorzów Wielkopolski,paczkomat_inpost_pl,,unknown,Na parkingu przy DOM-LUX
+Gądków Wielki,paczkomat_inpost_pl,,unknown,na posesji
+Górzyn,paczkomat_inpost_pl,,unknown,przy bocznej ścianie budynku Marketu Lewiatan
+Gozdnica,paczkomat_inpost_pl,,unknown,przy parkingu stacji paliw
+Iłowa,paczkomat_inpost_pl,,unknown,na parkingu
+Janczewo,paczkomat_inpost_pl,,unknown,LEWIATAN
+Jenin,paczkomat_inpost_pl,,unknown,Na parkingu sklepu Biedronka
+Jordanowo,paczkomat_inpost_pl,,unknown,Market Dino
+Jasień,paczkomat_inpost_pl,,unknown,PUNKT LOTTO (OBOK PRZYSTANKU PKS)
+Jędrzychowice,paczkomat_inpost_pl,,unknown,Market Dino
+Kargowa,paczkomat_inpost_pl,,unknown,SKLEP OGÓLNOSPOŻYWCZY
+Karnin,paczkomat_inpost_pl,,unknown,przy sklepie Chata Polska
+Klenica,paczkomat_inpost_pl,,unknown,przed wejściem do marketu
+Konradowo,paczkomat_inpost_pl,,unknown,Delikatesy Sezam
+Krzeszyce,paczkomat_inpost_pl,,unknown,Przy Zakładzie Pogrzebowym
+Kłodawa,paczkomat_inpost_pl,,unknown,SKLEP POLSKI
+Konotop,paczkomat_inpost_pl,,unknown,na parkingu obok sklepu Spar
+Kostrzyn nad Odrą,paczkomat_inpost_pl,,unknown,przy bocznej ścianie garaży osiedlowych
+Kolsko,paczkomat_inpost_pl,,unknown,"Na parkingu, za marketem Super Sklep"
+Krosno Odrzańskie,paczkomat_inpost_pl,,unknown,przy parkingu
+Kunowice,paczkomat_inpost_pl,,unknown,parking przy stacji paliw
+Kruszyna,paczkomat_inpost_pl,,unknown,przy budynku sklepu budowlanego
+Kije,paczkomat_inpost_pl,,unknown,Przed sklepem spożywczym
+Konin Żagański,paczkomat_inpost_pl,,unknown,na parkingu
+Żary,paczkomat_inpost_pl,,unknown,Przy Żabce oraz gabinecie weterynaryjnym.
+Kożuchów,paczkomat_inpost_pl,,unknown,na parkingu marketu
+Lubieszów,paczkomat_inpost_pl,,unknown,przy sklepie
+Lubno,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Lemierzyce,paczkomat_inpost_pl,,unknown,Market Dino
+Łagów,paczkomat_inpost_pl,,unknown,CARREFOUR EXPRESS
+Lipinki,paczkomat_inpost_pl,,unknown,Po lewej stronie od sklepu spożywczego.
+Lipiny,paczkomat_inpost_pl,,unknown,W płocie prywatnej posesji
+Łęknica,paczkomat_inpost_pl,,unknown,przy ścianie budynku stacji
+Lipinki Łużyckie,paczkomat_inpost_pl,,unknown,na parkingu za marketem
+Lubniewice,paczkomat_inpost_pl,,unknown,przy parkingu przy Gminnym Ośrodku Kultury
+Lubrza,paczkomat_inpost_pl,,unknown,Market Dino
+Leszno Górne,paczkomat_inpost_pl,,unknown,Market Dino
+Lubomyśl,paczkomat_inpost_pl,,unknown,Market Dino
+Lubiszyn,paczkomat_inpost_pl,,unknown,Market Dino
+Łupice,paczkomat_inpost_pl,,unknown,Przy sklepie spożywczym.
+Lubsko,paczkomat_inpost_pl,,unknown,SKLEP ELEKTRYCZNY
+Lipki Wielkie,paczkomat_inpost_pl,,unknown,Market Dino
+Leśniów Wielki,paczkomat_inpost_pl,,unknown,Market Dino
+Lubięcin,paczkomat_inpost_pl,,unknown,Market Dino
+Międzyrzecz,paczkomat_inpost_pl,,unknown,PSB MRÓWKA
+Maszewo,paczkomat_inpost_pl,,unknown,Market Dino
+Mirostowice Dolne,paczkomat_inpost_pl,,unknown,na parkingu sklepu
+Mirocin Dolny,paczkomat_inpost_pl,,unknown,Market Dino
+Małomice,paczkomat_inpost_pl,,unknown,Po prawej od budynku.
+Mostki,paczkomat_inpost_pl,,unknown,przy budynki stacji paliw
+Murzynowo,paczkomat_inpost_pl,,unknown,Na parkingu Sklep Polski
+Modrzyca,paczkomat_inpost_pl,,unknown,PACZUNIA.PL
+Myszęcin,paczkomat_inpost_pl,,unknown,Z boku sklepu
+Nowogród Bobrzański,paczkomat_inpost_pl,,unknown,na parkingu za sklepem Słoneczko (wejście od ulicy Nadbrzeżnej)
+Nowe Czaple,paczkomat_inpost_pl,,unknown,Po lewej stronie od wejścia do sklepu.
+Niedoradz,paczkomat_inpost_pl,,unknown,przy obiekcie
+Niegosławice,paczkomat_inpost_pl,,unknown,Market Dino
+Niegosław,paczkomat_inpost_pl,,unknown,Market Dino
+Nowe Kramsko,paczkomat_inpost_pl,,unknown,na parkingu marketu
+Nowe Miasteczko,paczkomat_inpost_pl,,unknown,przy parkingu zakładu kamieniarskiego
+Nowiny Wielkie,paczkomat_inpost_pl,,unknown,Market Dino
+Nowa Sól,paczkomat_inpost_pl,,unknown,PSB MRÓWKA
+Nietkowice,paczkomat_inpost_pl,,unknown,Market Dino
+Nietków,paczkomat_inpost_pl,,unknown,przy sklepie
+Osiecznica,paczkomat_inpost_pl,,unknown,przy  parkingu sklepu  Odido
+Olbrachtów,paczkomat_inpost_pl,,unknown,ODIDO OLBRACHTÓW
+Ołobok,paczkomat_inpost_pl,,unknown,Market Dino
+Osowa Sień,paczkomat_inpost_pl,,unknown,przy parkingu marketu Lewiatan
+Ośno Lubuskie,paczkomat_inpost_pl,,unknown,Market Dino
+Otyń,paczkomat_inpost_pl,,unknown,Market Dino
+Pasterzowice,paczkomat_inpost_pl,,unknown,Przy parkingu sklepu u Władka.
+Przyborów,paczkomat_inpost_pl,,unknown,Przy sklepie Max-Mebels
+Pszczew,paczkomat_inpost_pl,,unknown,na parkingu
+Podmokle Małe,paczkomat_inpost_pl,,unknown,przy sklepie
+Piotrów,paczkomat_inpost_pl,,unknown,Przy świetlicy
+Płoty,paczkomat_inpost_pl,,unknown,Market Dino
+Babimost ,paczkomat_inpost_pl,,unknown,ALDIK
+Brody ,paczkomat_inpost_pl,,unknown,KIOSK PRZY OSP
+Gorzów ,paczkomat_inpost_pl,,unknown,DUŻY BEN
+Gorzów Wielkopolski ,paczkomat_inpost_pl,,unknown,STACJA CIRCLE K
+Gorzów,paczkomat_inpost_pl,,unknown,PAKERSI-SKLEP POLSKI
+Krosno Odrzańskie ,paczkomat_inpost_pl,,unknown,DUŻY BEN
+Kostrzyń nad Odrą,paczkomat_inpost_pl,,unknown,STACJA CIRCLE K
+Kostrzyn nad Odrą ,paczkomat_inpost_pl,,unknown,BUDDHA VAPE
+Międzyrzecz ,paczkomat_inpost_pl,,unknown,SERWIS GSM
+Połupin,paczkomat_inpost_pl,,unknown,Market Dino
+Różanki,paczkomat_inpost_pl,,unknown,na parkingu sklepu ABC
+Rzepin,paczkomat_inpost_pl,,unknown,przy sklepie
+Świebodzin,paczkomat_inpost_pl,,unknown,przy parkingu
+Wilkowo,paczkomat_inpost_pl,,unknown,SPAR
+Świebodzin ,paczkomat_inpost_pl,,unknown,PAKERSI SPORTOS
+Skwierzyna,paczkomat_inpost_pl,,unknown,Market Dino
+Słubice,paczkomat_inpost_pl,,unknown,za  budynkiem stacji paliw
+Sława,paczkomat_inpost_pl,,unknown,Przy sklepie Groszek
+Strzelce Krajeńskie,paczkomat_inpost_pl,,unknown,Akademia Auto Świat
+Sulechów,paczkomat_inpost_pl,,unknown,przy budynku marketu
+Szprotawa,paczkomat_inpost_pl,,unknown,Market Aldi
+Witnica,paczkomat_inpost_pl,,unknown,Przy Urzędzie Gminy
+Wschowa,paczkomat_inpost_pl,,unknown,Market Dino
+Żagań,paczkomat_inpost_pl,,unknown,Market Dino
+Zielona Góra ,paczkomat_inpost_pl,,unknown,AL CAPONE 
+Zasieki,paczkomat_inpost_pl,,unknown,STACJA CIRCLE K
+Zwierzyn,paczkomat_inpost_pl,,unknown,Przy sklepie Lewiatan
+Przytoczna,paczkomat_inpost_pl,,unknown,Market Dino
+Przewóz,paczkomat_inpost_pl,,unknown,przy budynku biblioteki
+Przytok,paczkomat_inpost_pl,,unknown,przy domu sołtysa
+Przyczyna Górna,paczkomat_inpost_pl,,unknown,przy sklepie
+Krzepielów,paczkomat_inpost_pl,,unknown,Market Dino
+Ostrów,paczkomat_inpost_pl,,unknown,na parkingu
+Radęcin,paczkomat_inpost_pl,,unknown,Przed sklepem
+Rokitno,paczkomat_inpost_pl,,unknown,przy remizie strażackiej
+Rudno,paczkomat_inpost_pl,,unknown,na parkingu
+Santocko,paczkomat_inpost_pl,,unknown,przy parkingu
+Skąpe,paczkomat_inpost_pl,,unknown,Market Dino
+Santok,paczkomat_inpost_pl,,unknown,Market Dino
+Szczaniec,paczkomat_inpost_pl,,unknown,Na parkingu sklepu Lewiatan
+Siedlisko,paczkomat_inpost_pl,,unknown,Market Dino
+Sieniawa Żarska,paczkomat_inpost_pl,,unknown,Przy sklepie u Kasi
+Sulęcin,paczkomat_inpost_pl,,unknown,na parkingu posesji
+Słońsk,paczkomat_inpost_pl,,unknown,Przy hotelu Hubertus
+Szlichtyngowa,paczkomat_inpost_pl,,unknown,Market Dino
+Smardzewo,paczkomat_inpost_pl,,unknown,Market Dino
+Smogóry,paczkomat_inpost_pl,,unknown,Przed sklepem
+Stare Polichno,paczkomat_inpost_pl,,unknown,Prywatna posesja Sportowa 8
+Stare Strącze,paczkomat_inpost_pl,,unknown,przed sklepem
+Starosiedle,paczkomat_inpost_pl,,unknown,Market Dino
+Staropole,paczkomat_inpost_pl,,unknown,Przy sklepie
+Studzieniec,paczkomat_inpost_pl,,unknown,Przy sklepie u Aliny.
+Stypułów,paczkomat_inpost_pl,,unknown,Market Dino
+Świdnica,paczkomat_inpost_pl,,unknown,na parkingu obok sklepu Czapla
+Stare Kurowo,paczkomat_inpost_pl,,unknown,Na parkingu sklepu
+Wiechlice,paczkomat_inpost_pl,,unknown,przy sklepie Słoneczko
+Trzebiechów,paczkomat_inpost_pl,,unknown,Market Dino
+Trzebicz,paczkomat_inpost_pl,,unknown,Market Dino
+Trzebiel,paczkomat_inpost_pl,,unknown,na parkingu stacji paliw przy myjni
+Templewo,paczkomat_inpost_pl,,unknown,Przy sklepie
+Trzemeszno Lubuskie,paczkomat_inpost_pl,,unknown,Market Dino
+Tomaszowo,paczkomat_inpost_pl,,unknown,przy terenie prywatnym
+Torzym,paczkomat_inpost_pl,,unknown,Market Dino
+Tuplice,paczkomat_inpost_pl,,unknown,Stacja paliw Dan-Pol
+Toporów,paczkomat_inpost_pl,,unknown,przy ulicy
+Trzciel,paczkomat_inpost_pl,,unknown,Market Dino
+Ulim,paczkomat_inpost_pl,,unknown,przy parkingu
+Wędrzyn,paczkomat_inpost_pl,,unknown,przy budynku Wspólnoty nr 12
+Wężyska,paczkomat_inpost_pl,,unknown,Market Dino
+Wilkanowo,paczkomat_inpost_pl,,unknown,Market Dino
+Wymiarki,paczkomat_inpost_pl,,unknown,przy sklepie
+Wawrów,paczkomat_inpost_pl,,unknown,Market Dino
+Wojcieszyce,paczkomat_inpost_pl,,unknown,Na parkingu Salonu Stylizacji Paznokci
+Krasowiec,paczkomat_inpost_pl,,unknown,Market Dino
+Kosieczyn,paczkomat_inpost_pl,,unknown,przy sklepie
+Kołczyn,paczkomat_inpost_pl,,unknown,na parkingu
+Kowalów,paczkomat_inpost_pl,,unknown,na parkingu za marketem
+Kalsk,paczkomat_inpost_pl,,unknown,na parkingu przy hotelu
+Kamień Wielki,paczkomat_inpost_pl,,unknown,przy budynku
+Koźla,paczkomat_inpost_pl,,unknown,na posesji
+Zabór,paczkomat_inpost_pl,,unknown,Market Dino
+Zbąszynek,paczkomat_inpost_pl,,unknown,na parkingu od ulicy Długiej
+Żubrów,paczkomat_inpost_pl,,unknown,przy ścianie sklepu
+Żarki Wielkie,paczkomat_inpost_pl,,unknown,przy markecie
+Zielona Góra,play_pl,Ul. Bohaterów Westerplatte 13,unknown,Salon Play
+Krosno Odrzańskie,play_pl,Ul. Poznańska 19A,unknown,Salon Play
+Żary,play_pl,Ul. Podchorążych 41,unknown,Salon Play
+Lubsko,play_pl,Ul. Kopernika 32,unknown,Stoisko Play
+Drezdenko,play_pl,Ul. Kościuszki 38,unknown,Salon Play
+Gorzów Wielkopolski,play_pl,Ul. Przemysłowa 2,unknown,Salon Play
+Międzyrzecz,play_pl,Ul. Mieszka I 10,unknown,Salon Play
+Świebodzin,play_pl,Pl. Plac Jana Pawła II 13/1A,unknown,Salon Play
+Wschowa,play_pl,Ul. Niepodległości 31/1,unknown,Salon Play
+Strzelce Krajeńskie,play_pl,Ul. Bolesława Chrobrego 21,unknown,Salon Play
+Zielona Góra,play_pl,Ul. Dąbrówki 5,unknown,Salon Play
+Gorzów Wielkopolski,play_pl,Ul. Górczyńska 23,unknown,Salon Play
+Nowa Sól,play_pl,Ul. Wyzwolenia 16,unknown,Salon Play
+Gorzów Wielkopolski,play_pl,Al. Konstytucji 3 Maja 102,unknown,Salon Play
+Zielona Góra,play_pl,Ul. Wrocławska 17,unknown,Salon Play
+Kostrzyn nad Odrą,play_pl,Ul. Sikorskiego 16,unknown,Salon Play
+Zielona Góra,play_pl,Ul. Energetyków 2,unknown,Salon Play
+Zielona Góra,play_pl,Ul. Bohaterów Westerplatte 39,unknown,Salon Play
+Żagań,play_pl,Ul. Warszawska 16,unknown,Salon Play
+Sulechów,play_pl,Pl. Ks Kaczmarka 3/1,unknown,Salon Play
+Słubice,play_pl,Ul. Daszyńskiego 1,unknown,Salon Play
+Gorzów Wielkopolski,play_pl,Ul. Sikorskiego 111,unknown,Salon Play
+Gubin,play_pl,Ul. Nowa 1,unknown,Salon Play
+Babimost,poczta_polska_pl,,unknown,UP Babimost
+Biecz,poczta_polska_pl,,unknown,AP Biecz
+Bledzew,poczta_polska_pl,,unknown,FUP Skwierzyna
+Bobrowice,poczta_polska_pl,,unknown,FUP Krosno Odrzańskie 1
+Bogdaniec,poczta_polska_pl,,unknown,UP Bogdaniec
+Bojadła,poczta_polska_pl,,unknown,FUP Kargowa
+Borowina,poczta_polska_pl,,unknown,AP Borowina
+Brody,poczta_polska_pl,,unknown,FUP Lubsko 1
+Brzeźnica,poczta_polska_pl,,unknown,FUP Żagań 1
+Brzoza,poczta_polska_pl,,unknown,AP Brzoza
+Bytnica,poczta_polska_pl,,unknown,FUP Krosno Odrzańskie 1
+Bytom Odrzański,poczta_polska_pl,,unknown,FUP Nowa Sól 1
+Chlebowo,poczta_polska_pl,,unknown,AP Chlebowo k. Gubina
+Cybinka,poczta_polska_pl,,unknown,UP Cybinka
+Czarnów,poczta_polska_pl,,unknown,AP Czarnów
+Czerwieńsk,poczta_polska_pl,,unknown,AP Czerwieńsk
+Dąbie,poczta_polska_pl,,unknown,AP Dąbie
+Deszczno,poczta_polska_pl,,unknown,UP Deszczno
+Dobiegniew,poczta_polska_pl,,unknown,UP Dobiegniew
+Dobrosułów,poczta_polska_pl,,unknown,AP Dobrosułów
+Drągowina,poczta_polska_pl,,unknown,AP Drągowina
+Drezdenko,poczta_polska_pl,,unknown,UP Drezdenko
+Dzierżów,poczta_polska_pl,,unknown,AP Dzierżów
+Goraj,poczta_polska_pl,,unknown,AP Goraj
+Gorzów Wielkopolski,poczta_polska_pl,,unknown,FUP Gorzów Wielkopolski 1
+Gościmiec,poczta_polska_pl,,unknown,AP Gościmiec
+Gozdnica,poczta_polska_pl,,unknown,UP Gozdnica
+Górzyca,poczta_polska_pl,,unknown,FUP Słubice 1
+Gubin,poczta_polska_pl,,unknown,UP Gubin 1
+Iłowa,poczta_polska_pl,,unknown,UP Iłowa k. Żagania
+Jasień,poczta_polska_pl,,unknown,UP Jasień Żarski
+Jordanowo,poczta_polska_pl,,unknown,AP Jordanowo
+Kargowa,poczta_polska_pl,,unknown,UP Kargowa
+Kłodawa,poczta_polska_pl,,unknown,UP Kłodawa Gorzowska
+Kolsko,poczta_polska_pl,,unknown,FUP Sława
+Kosierz,poczta_polska_pl,,unknown,AP Kosierz
+Kostrzyn nad Odrą,poczta_polska_pl,,unknown,AP Kostrzyn nad Odrą
+Kowalów,poczta_polska_pl,,unknown,AP Kowalów
+Kożuchów,poczta_polska_pl,,unknown,UP Kożuchów
+Krosno Odrzańskie,poczta_polska_pl,,unknown,FUP Krosno Odrzańskie 1
+Krzeszyce,poczta_polska_pl,,unknown,UP Krzeszyce
+Lemierzyce,poczta_polska_pl,,unknown,AP Lemierzyce
+Leszno Górne,poczta_polska_pl,,unknown,FUP Szprotawa
+Lgiń,poczta_polska_pl,,unknown,AP Lgiń
+Licheń,poczta_polska_pl,,unknown,AP Licheń
+Lipinki Łużyckie,poczta_polska_pl,,unknown,FUP Żary 1
+Lubięcin,poczta_polska_pl,,unknown,FUP Nowa Sól 1
+Lubiszyn,poczta_polska_pl,,unknown,FUP Gorzów Wielkopolski 1
+Lubniewice,poczta_polska_pl,,unknown,FUP Sulęcin
+Lubrza,poczta_polska_pl,,unknown,FUP Świebodzin
+Lubsko,poczta_polska_pl,,unknown,UP Lubsko 1
+Łagów,poczta_polska_pl,,unknown,UP Łagów Lubuski
+Łęknica,poczta_polska_pl,,unknown,UP Łęknica
+Małomice,poczta_polska_pl,,unknown,FUP Szprotawa
+Maszewo,poczta_polska_pl,,unknown,FUP Krosno Odrzańskie 1
+Międzyrzecz,poczta_polska_pl,,unknown,AP Międzyrzecz
+Mirocin Dolny,poczta_polska_pl,,unknown,FUP Kożuchów
+Niedźwiedź,poczta_polska_pl,,unknown,AP Niedźwiedź
+Niegosławice,poczta_polska_pl,,unknown,FUP Szprotawa
+Nowa Sól,poczta_polska_pl,,unknown,UP Nowa Sól 1
+Nowe Czaple,poczta_polska_pl,,unknown,FUP Łęknica
+Nowe Miasteczko,poczta_polska_pl,,unknown,FUP Nowa Sól 1
+Nowogród Bobrzański,poczta_polska_pl,,unknown,UP Nowogród Bobrzański
+Ogardy,poczta_polska_pl,,unknown,AP Ogardy
+Olbrachtów,poczta_polska_pl,,unknown,FUP Żary 1
+Ośno Lubuskie,poczta_polska_pl,,unknown,UP Ośno Lubuskie
+Otyń,poczta_polska_pl,,unknown,FUP Nowa Sól 1
+Popowo,poczta_polska_pl,,unknown,AP Popowo
+Przewóz,poczta_polska_pl,,unknown,FUP Gozdnica
+Przytoczna,poczta_polska_pl,,unknown,UP Przytoczna
+Pszczew,poczta_polska_pl,,unknown,FUP Międzyrzecz 1
+Pyrnik,poczta_polska_pl,,unknown,AP Pyrnik
+Radęcin,poczta_polska_pl,,unknown,AP Radęcin
+Rogoziniec,poczta_polska_pl,,unknown,AP Rogoziniec
+Rosin,poczta_polska_pl,,unknown,AP Rosin
+Różanki,poczta_polska_pl,,unknown,FUP Kłodawa Gorzowska
+Rudawica,poczta_polska_pl,,unknown,AP Rudawica
+Rzepin,poczta_polska_pl,,unknown,UP Rzepin
+Santok,poczta_polska_pl,,unknown,FUP Gorzów Wielkopolski 1
+Siedlisko,poczta_polska_pl,,unknown,FUP Nowa Sól 1
+Siedlnica,poczta_polska_pl,,unknown,AP Siedlnica
+Skąpe,poczta_polska_pl,,unknown,FUP Świebodzin
+Skwierzyna,poczta_polska_pl,,unknown,AP Skwierzyna
+Sława,poczta_polska_pl,,unknown,UP Sława
+Słońsk,poczta_polska_pl,,unknown,UP Słońsk
+Słubice,poczta_polska_pl,,unknown,AP Słubice
+Stare Drzewce,poczta_polska_pl,,unknown,AP Stare Drzewce
+Stare Kurowo,poczta_polska_pl,,unknown,FUP Drezdenko
+Stare Strącze,poczta_polska_pl,,unknown,AP Stare Strącze
+Strzelce Krajeńskie,poczta_polska_pl,,unknown,AP Strzelce Krajeńskie
+Sulechów,poczta_polska_pl,,unknown,FUP Sulechów 1
+Sulęcin,poczta_polska_pl,,unknown,UP Sulęcin
+Szczaniec,poczta_polska_pl,,unknown,FUP Świebodzin
+Szlichtyngowa,poczta_polska_pl,,unknown,FUP Wschowa
+Szprotawa,poczta_polska_pl,,unknown,UP Szprotawa
+Ściechów,poczta_polska_pl,,unknown,AP Ściechów
+Świdnica,poczta_polska_pl,,unknown,FUP Zielona Góra 2
+Świebodzin,poczta_polska_pl,,unknown,AP Świebodzin
+Tomaszowo,poczta_polska_pl,,unknown,FUP Żagań 1
+Torzym,poczta_polska_pl,,unknown,UP Torzym
+Trzciel,poczta_polska_pl,,unknown,UP Trzciel
+Trzebicz,poczta_polska_pl,,unknown,AP Trzebicz
+Trzebiechów,poczta_polska_pl,,unknown,FUP Sulechów 1
+Trzebiel,poczta_polska_pl,,unknown,FUP Łęknica
+Tuczno,poczta_polska_pl,,unknown,AP Tuczno
+Tuplice,poczta_polska_pl,,unknown,FUP Łęknica
+Tylewice,poczta_polska_pl,,unknown,AP Tylewice
+Wędrzyn,poczta_polska_pl,,unknown,FUP Sulęcin
+Witnica,poczta_polska_pl,,unknown,UP Witnica
+Wschowa,poczta_polska_pl,,unknown,UP Wschowa
+Wymiarki,poczta_polska_pl,,unknown,FUP Iłowa k. Żagania
+Zabór,poczta_polska_pl,,unknown,FUP Zielona Góra 2
+Zbąszynek,poczta_polska_pl,,unknown,UP Zbąszynek
+Zielona Góra,poczta_polska_pl,,unknown,UP Zielona Góra 9
+Zwierzyn,poczta_polska_pl,,unknown,FUP Strzelce Krajeńskie
+Żagań,poczta_polska_pl,,unknown,FUP Żagań 1
+Żary,poczta_polska_pl,,unknown,UP Żary 1
+Lubsko,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Żary,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Gorzów Wielkopolski,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Międzyrzecz,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Zielona Góra,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Nowa Sól,tedi,,unknown,TEDi Sieć Handlowa Sp. z o.o.
+Gorzów Wielkopolski,tui,ul. Przemysłowa 2 CH NoVa Park poziom 0,unknown,TUI CH NoVa Park
+Gorzów Wielkopolski,tui,ul. Mostowa 13/2,unknown,TOP
+Gorzów Wielkopolski,tui,ul. Mieszka I 68/1,unknown,Sun Klub Biuro Podróży
+Gorzów Wielkopolski,tui,Sikorskiego 107,unknown,BEDUIN
+Nowa Sól,tui,ul. Kuśnierska 6,unknown,LUBUSZ TOURIST
+Nowa Sól,tui,Ul. Św. Barbary 2,unknown,POLRIDER B.P.
+Zielona Góra,tui,ul. Kupiecka 23,unknown,TUI Kupiecka
+Zielona Góra,tui,ul. Wrocławska 17 CH Focus Mall poziom 0,unknown,TUI CH Focus Mall Zielona Góra
+Zielona Góra,tui,Plac Pocztowy 16,unknown,SCAN TRAVEL
+Zielona Góra,tui,Plac Bohaterów 1,unknown,Szpak Travel
+Zielona Góra,tui,Ul. Batorego 81,unknown,B.P. Proxima Travel
+Świebodzin,tui,Łużycka 3,unknown,Oceanic S.C.
+Żary,tui,ul. Podchorążych 9,unknown,Biuro Usług Turystycznych Justyna Milczewska
+GOZDNICA,visa,,unknown,unknown
+ŁĘKNICA,visa,,unknown,unknown
+WYMIARKI,visa,,unknown,unknown
+IŁOWA,visa,,unknown,unknown
+IŁOWA CZYŻOWEK,visa,,unknown,unknown
+ILOWA,visa,,unknown,unknown
+TRZEBIEL,visa,,unknown,unknown
+ŻARY,visa,,unknown,unknown
+MAŁOMICE,visa,,unknown,unknown
+ZARY,visa,,unknown,unknown
+ZAGAN,visa,,unknown,unknown
+ŻAGAŃ,visa,,unknown,unknown
+SZPROTAWA,visa,,unknown,unknown
+JASIEN,visa,,unknown,unknown
+LUBSKO,visa,,unknown,unknown
+NOWE MIASTECZKO,visa,,unknown,unknown
+NOWOGROD BOBRZAŃSKI,visa,,unknown,unknown
+KOZUCHOW,visa,,unknown,unknown
+KOŻUCHOW,visa,,unknown,unknown
+GUBIN,visa,,unknown,unknown
+BYTOM ODRZAŃSKI,visa,,unknown,unknown
+NOWA SOL,visa,,unknown,unknown
+SWIDNICA,visa,,unknown,unknown
+ZIELONA GORA,visa,,unknown,unknown
+KROSNO ODRZANSKIE,visa,,unknown,unknown
+KROSNO ODRZAŃSKIE,visa,,unknown,unknown
+WSCHOWA,visa,,unknown,unknown
+CZERWIENSK,visa,,unknown,unknown
+SLAWA,visa,,unknown,unknown
+SŁAWA,visa,,unknown,unknown
+BOJADŁA,visa,,unknown,unknown
+CYBINKA,visa,,unknown,unknown
+KOLSKO,visa,,unknown,unknown
+TRZEBIECHOW,visa,,unknown,unknown
+SULECHOW,visa,,unknown,unknown
+SWIECKO,visa,,unknown,unknown
+SLUBICE GMINA,visa,,unknown,unknown
+SLUBICE,visa,,unknown,unknown
+KARGOWA,visa,,unknown,unknown
+SŁUBICE,visa,,unknown,unknown
+KEPSKO,visa,,unknown,unknown
+NOWE KRAMSKO,visa,,unknown,unknown
+TORZYM,visa,,unknown,unknown
+CHOCIULE,visa,,unknown,unknown
+LUBRZA,visa,,unknown,unknown
+BABIMOST,visa,,unknown,unknown
+MOSTKI,visa,,unknown,unknown
+POZRZADLO,visa,,unknown,unknown
+SWIEBODZIN,visa,,unknown,unknown
+ŚWIEBODZIN,visa,,unknown,unknown
+ZBASZYNEK,visa,,unknown,unknown
+SULECIN,visa,,unknown,unknown
+TRZCIEL GMINA,visa,,unknown,unknown
+KOSTRZYN NAD ODRA,visa,,unknown,unknown
+KOSTRZYN NAD ODRĄ,visa,,unknown,unknown
+KOSTRZYN N/ODRA,visa,,unknown,unknown
+SŁOŃSK,visa,,unknown,unknown
+MIEDZYRZECZ,visa,,unknown,unknown
+MIĘDZYRZECZ,visa,,unknown,unknown
+KRZESZYCE,visa,,unknown,unknown
+BLEDZEW,visa,,unknown,unknown
+WITNICA,visa,,unknown,unknown
+SKWIERZYNA,visa,,unknown,unknown
+BOGDANIEC,visa,,unknown,unknown
+GORZOW WIELKOPOLSKI,visa,,unknown,unknown
+GORZOW WLKP.,visa,,unknown,unknown
+KŁODAWA,visa,,unknown,unknown
+STRZELCE KRAJENSKIE,visa,,unknown,unknown
+STRZELCE KRAJEŃSKIE,visa,,unknown,unknown
+DREZDENKO,visa,,unknown,unknown
+DOBIEGNIEW,visa,,unknown,unknown
+LECZNA,visa,,unknown,unknown
+Ruszow,western_union,,unknown,BANK SPOLDZIELCZY W ILOWEJ
+Gozdnica,western_union,,unknown,BANK SPOLDZIELCZY W ILOWEJ
+Ilowa,western_union,,unknown,BANK SPOLDZIELCZY W ILOWEJ
+Wymiarki,western_union,,unknown,BANK SPOLDZIELCZY W ILOWEJ
+Zagan,western_union,,unknown,STEFCZYK FINANSE
+Zary,western_union,,unknown,KANTOR WYMIANY WALUT
+Szprotawa,western_union,,unknown,AGENCJA BANKOWA
+Gubin,western_union,,unknown,BANK PEKAO SA
+Szlichtyngowa,western_union,,unknown,BS WSCHOWA F SZLICHTYNGOWA
+Nowa Sol,western_union,,unknown,STEFCZYK FINANSE
+Zielona Gora,western_union,,unknown,1 MINUTE
+Slawa,western_union,,unknown,NAWA JAROSLAW CZOPEK
+Wschowa,western_union,,unknown,BS WSCHOWA FILIA WSCHOWA
+Slubice,western_union,,unknown,BANK PEKAO SA
+Sulechow,western_union,,unknown,FINANSE OD A DO Z ROZYCKI SEBASTIAN
+Krosno Odrzanskie,western_union,,unknown,BS KROSNO
+Babimost,western_union,,unknown,BS SIEDLEC O BABIMOST
+Lagow,western_union,,unknown,BS KROSNO O LAGOW
+Zbaszynek,western_union,,unknown,LUBUSKI BANK SPOLDZIELCZY O ZBASZYNEK
+Gorzyca,western_union,,unknown,BS OSNO LUBUSKIE O GORZYCA
+Swiebodzin,western_union,,unknown,INMEDIO
+Sulecin,western_union,,unknown,BS OSNO LUBUSKIE O SULECIN
+Kostrzyn Nad Odra,western_union,,unknown,BANK PEKAO SA
+Torzym,western_union,,unknown,BS KROSNO O TORZYM
+Bledzew,western_union,,unknown,LUBUSKI BANK SPOLDZIELCZY O BLEDZEW
+Miedzyrzecz,western_union,,unknown,LUBUSKI BANK SPODZIELCZY
+Osno Lubuskie,western_union,,unknown,KANTOR KREDYTY UBEZPIECZENIA LOMBARD
+Lubniewice,western_union,,unknown,BS OSNO LUBUSKIE O LUBNIEWICE
+Deszczno,western_union,,unknown,GBS GORZOW WLKP O DESZCZNO
+Lubiszyn,western_union,,unknown,GBS GORZOW WLKP O LUBISZYN
+Przytoczna,western_union,,unknown,LUBUSKI BANK SPOLDZIELCZY O PRZYTOCZNA
+Gorzow Wielkopolski,western_union,,unknown,GBS GORZOW WLKP O I GORZOW
+Pszczew,western_union,,unknown,GBS MIEDZYRZECZ F PSZCZEW
+Skwierzyna,western_union,,unknown,BANK PEKAO SA
+Strzelce Krajenskie,western_union,,unknown,BANK PEKAO SA
+Drezdenko,western_union,,unknown,BANK PEKAO SA

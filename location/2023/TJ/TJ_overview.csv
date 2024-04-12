@@ -1,0 +1,172 @@
+State,Place Name,City,Establishments
+UNKNOWN,dodo_pizza,Душанбе,4
+UNKNOWN,geox,DUSHANBE,1
+UNKNOWN,hilton,unknown,1
+UNKNOWN,moneygram,G.GISSAR,1
+UNKNOWN,moneygram,G. NORAK,1
+UNKNOWN,moneygram,G. ISFARA,1
+UNKNOWN,moneygram,BOKHTAR,1
+UNKNOWN,moneygram,TURSUNZODA,1
+UNKNOWN,visa,KUKHISTONI MASTJOKH,1
+UNKNOWN,visa,SHAHRITUZ,1
+UNKNOWN,visa,KABODIYON,2
+UNKNOWN,visa,PANJAKENT,3
+UNKNOWN,visa,KURGAN-TYUBE,3
+UNKNOWN,visa,TOJIKOBOD,1
+UNKNOWN,visa,JILIKUL,1
+UNKNOWN,visa,TURSUNZADE,1
+UNKNOWN,visa,TURSUNZODA,8
+UNKNOWN,visa,KUMSANGIR,1
+UNKNOWN,visa,SHAHRINAV,3
+UNKNOWN,visa,ASHT,2
+UNKNOWN,visa,HISOR,5
+UNKNOWN,visa,GISSAR,2
+UNKNOWN,visa,BOHTAR,1
+UNKNOWN,visa,RUDAKI,4
+UNKNOWN,visa,VAKHSH,2
+UNKNOWN,visa,GARM,2
+UNKNOWN,visa,PANJ,1
+UNKNOWN,visa,SARBAND,1
+UNKNOWN,visa,DUSHANBE,196
+UNKNOWN,visa,HUDZHAND,1
+UNKNOWN,visa,HUROSON,1
+UNKNOWN,visa,KUSHONIYON,2
+UNKNOWN,visa,A-JOMI,1
+UNKNOWN,visa,B-GAFURVOV,1
+UNKNOWN,visa,HAMADONI,2
+UNKNOWN,visa,TEMURMALIK,1
+UNKNOWN,visa,B.GAFUROV,4
+UNKNOWN,visa,DEVASHTICH,3
+UNKNOWN,visa,SPITAMEN,3
+UNKNOWN,visa,EVON,2
+UNKNOWN,visa,N.KHUSRAV,1
+UNKNOWN,visa,A.JOMI,1
+UNKNOWN,visa,J.RUMI,2
+UNKNOWN,visa,AYNI,1
+UNKNOWN,visa,ROGUN,4
+UNKNOWN,visa,VARZOB,1
+UNKNOWN,visa,VAHDAT,4
+UNKNOWN,visa,VAKHDAT,1
+UNKNOWN,visa,FARKHOR,2
+UNKNOWN,visa,J.RASULOV,2
+UNKNOWN,visa,DANGARA,4
+UNKNOWN,visa,GULISTON,2
+UNKNOWN,visa,SHAHRISTON,1
+UNKNOWN,visa,NORAK,5
+UNKNOWN,visa,FAYZOBOD,1
+UNKNOWN,visa,ZAFAROBOD,1
+UNKNOWN,visa,VOSE,2
+UNKNOWN,visa,ISTARAVSHAN,3
+UNKNOWN,visa,FAIZABAD,1
+UNKNOWN,visa,KULYAB,2
+UNKNOWN,visa,KULOB,8
+UNKNOWN,visa,OBIGARM,1
+UNKNOWN,visa,SHUROBOD,1
+UNKNOWN,visa,MASTCHOH,2
+UNKNOWN,visa,MUMINOBOD,2
+UNKNOWN,visa,KHOVALING,1
+UNKNOWN,visa,BUSTON,2
+UNKNOWN,visa,NUROBOD,1
+UNKNOWN,visa,KHUJAND,33
+UNKNOWN,visa,B. GAFUROV,3
+UNKNOWN,visa,RASHT,1
+UNKNOWN,visa,HORUG,5
+UNKNOWN,visa,DARVOZ,1
+UNKNOWN,visa,KONIBODOM,3
+UNKNOWN,visa,ISFARA,5
+UNKNOWN,visa,ISHKOSHIM,1
+UNKNOWN,visa,BOKHTAR,14
+UNKNOWN,visa,"GBAO, KHOROG",4
+UNKNOWN,visa,SANGVOR,1
+UNKNOWN,visa,SHUGNON,1
+UNKNOWN,visa,JIRGATOL,1
+UNKNOWN,visa,RUSHON,1
+UNKNOWN,visa,VANJ,1
+UNKNOWN,visa,ROSHAKALA,1
+UNKNOWN,western_union,Vakhdat,19
+UNKNOWN,western_union,Khisor,6
+UNKNOWN,western_union,Muminabad,1
+UNKNOWN,western_union,Fayzabad,1
+UNKNOWN,western_union,Ayni,2
+UNKNOWN,western_union,Devashtich,3
+UNKNOWN,western_union,Pandzhakent,6
+UNKNOWN,western_union,Panchakent,1
+UNKNOWN,western_union,Pendzhikent,9
+UNKNOWN,western_union,Tursunzade,9
+UNKNOWN,western_union,Isfara,10
+UNKNOWN,western_union,Khudzhand,28
+UNKNOWN,western_union,Shakhristan,3
+UNKNOWN,western_union,Asht,4
+UNKNOWN,western_union,Istaravshan,13
+UNKNOWN,western_union,Kanibadam,4
+UNKNOWN,western_union,Konibodom,3
+UNKNOWN,western_union,Dzh Rasulov,4
+UNKNOWN,western_union,Spitamen,5
+UNKNOWN,western_union,Navkat,2
+UNKNOWN,western_union,Gulakandoz,2
+UNKNOWN,western_union,Buston,3
+UNKNOWN,western_union,Proletarsk,1
+UNKNOWN,western_union,Dzhabbor Rasulov,1
+UNKNOWN,western_union,Bobodzhon Gafurov,5
+UNKNOWN,western_union,Chkalovsk,1
+UNKNOWN,western_union,Gafurov,7
+UNKNOWN,western_union,Okteppa,1
+UNKNOWN,western_union,Zafarabad,4
+UNKNOWN,western_union,Taboshar,1
+UNKNOWN,western_union,Mastchokh,2
+UNKNOWN,western_union,Zafarobod,1
+UNKNOWN,western_union,Dushanbe,114
+UNKNOWN,western_union,Nurek,3
+UNKNOWN,western_union,Norak,2
+UNKNOWN,western_union,Dangara,8
+UNKNOWN,western_union,Bokhtar,23
+UNKNOWN,western_union,Gissar,7
+UNKNOWN,western_union,Rudaki,13
+UNKNOWN,western_union,Dushambe,2
+UNKNOWN,western_union,Shakhrinav,4
+UNKNOWN,western_union,Kulyab,10
+UNKNOWN,western_union,Firdavsi,1
+UNKNOWN,western_union,Kulob,5
+UNKNOWN,western_union,Temurmalik,1
+UNKNOWN,western_union,Shokhmansur,1
+UNKNOWN,western_union,Panch,1
+UNKNOWN,western_union,Yavan,9
+UNKNOWN,western_union,M Tursunzade,1
+UNKNOWN,western_union,A Chomi,2
+UNKNOWN,western_union,Dzhomi,5
+UNKNOWN,western_union,Tursunzoda,8
+UNKNOWN,western_union,Yovon,3
+UNKNOWN,western_union,Khuroson,4
+UNKNOWN,western_union,Khamadoni,3
+UNKNOWN,western_union,Somoni,1
+UNKNOWN,western_union,Vose,4
+UNKNOWN,western_union,Gisar,1
+UNKNOWN,western_union,Kurgan Tyube,3
+UNKNOWN,western_union,Farkhor,3
+UNKNOWN,western_union,Kumsangir,2
+UNKNOWN,western_union,Sarband,1
+UNKNOWN,western_union,Dzhaykhun,1
+UNKNOWN,western_union,A Dzhomi,2
+UNKNOWN,western_union,Abdurakhmoni Chomi,1
+UNKNOWN,western_union,Vakhsh,3
+UNKNOWN,western_union,Kurgantyube,1
+UNKNOWN,western_union,Payandzh,1
+UNKNOWN,western_union,Pyandzh,5
+UNKNOWN,western_union,Dzh Balkhi,3
+UNKNOWN,western_union,Dzh Rumi,1
+UNKNOWN,western_union,Dusti,3
+UNKNOWN,western_union,Dzhilikul,1
+UNKNOWN,western_union,Pandzh,1
+UNKNOWN,western_union,Kubodien,2
+UNKNOWN,western_union,Shakhritus,5
+UNKNOWN,western_union,Shakhrituz,1
+UNKNOWN,western_union,Kabadiyan,1
+UNKNOWN,western_union,Kubodiyon,1
+UNKNOWN,western_union,Nosiri Khusrav,1
+UNKNOWN,western_union,Nurobod,1
+UNKNOWN,western_union,Navobod,1
+UNKNOWN,western_union,Garma,1
+UNKNOWN,western_union,Ishkashim,1
+UNKNOWN,western_union,Khorog,6
+UNKNOWN,western_union,Todzhikobod,1
+UNKNOWN,western_union,Lakhsh,1

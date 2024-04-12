@@ -1,0 +1,60 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+1003238,dia_es,,,Barcelona,,,ES,,,Mo-Sa 09:00-21:00,Dia,Q925132
+1002229,dia_es,,,Barcelona,,,ES,,,Mo-Sa 09:00-21:00; Su 09:30-15:00,Dia,Q925132
+1000117,dia_es,,,Barcelona,,,ES,,,Mo-Su 09:00-21:00,Dia,Q925132
+60368,dia_es,,,Barcelona,,,ES,,,"Mo-Sa 09:15-14:00,17:00-20:00",Dia,Q925132
+60414,dia_es,,,Barcelona,,,ES,,,Mo-Sa 09:00-21:00,Dia,Q925132
+60408,dia_es,,,Barcelona,,,ES,,,"Mo-Sa 09:15-14:00,17:00-20:00",Dia,Q925132
+844,dia_es,,,Barcelona,,,ES,,,Mo-Sa 09:00-21:00; Su 09:30-14:30,Dia,Q925132
+BCNX68,enterprise,Barcelona Sants Train Station,,Barcelona,,,ES,+34 934 91 01 89,,,Enterprise Rent-A-Car,Q17085454
+BCNC68,enterprise,Barcelona Sants Alquiler furgonetas,,Barcelona,,,ES,+34 935 21 00 28,,,Enterprise Rent-A-Car,Q17085454
+bike_barcelona:95,gbfs,"C/ TARRAGONA, 103-115",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:97,gbfs,"C/ TARRAGONA, 141",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:98,gbfs,"C/ VIRIAT, 43",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:99,gbfs,"C/ VIRIAT,  53",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:100,gbfs,"C/ TARRAGONA,  159-173",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:180,gbfs,"GRAN VIA DE LES CORTS CATALANES, 179 (D)",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:182,gbfs,"C/ SANT PERE D´ABANTO, 2",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:183,gbfs,"C/ GAVÀ, 1",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:184,gbfs,"C/ QUETZAL, 22-24",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:185,gbfs,"C/GAVÀ, 81",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:186,gbfs,"C/CONSELL DE CENT, 6",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:188,gbfs,PG. SANT ANTONI /PL. SANTS,,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:195,gbfs,"C/ VALLESPIR, 130",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:198,gbfs,"C/ VALLESPIR, 194",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:210,gbfs,"C/ VILARDELL, 18",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:403,gbfs,"C/ VALLESPIR, 49",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:404,gbfs,"C/ JUAN GRIS, 28",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:421,gbfs,"C/ VALLESPIR, 13",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:439,gbfs,"RBLA. BADAL, 73 | C/ CONSTITUCIÓ",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+bike_barcelona:441,gbfs,"C/ WATT, 2",,,,,ES,,https://www.bicing.barcelona/,,Bike Barcelona,
+2089,lidl_es,Lidl,,Barcelona,,,ES,,,Mo-Sa 09:00-21:00,Lidl,Q151954
+2102,lidl_es,Lidl,,Barcelona,,,ES,,,Mo-Sa 09:00-21:00,Lidl,Q151954
+BCNSA,marriott,AC Hotel Sants,,Barcelona,,,ES,+34 934 32 45 12,https://www.marriott.com/BCNSA,,AC Hotels,Q5653536
+72263956,moneygram,CENTRAL DE ENVIOS CORTS CATALANES - #571,,BARCELONA,,,ES,+34 933 25 18 45,,Mo-Su 09:00-23:00,MoneyGram,Q1944412
+68991313,moneygram,CALL POINT JATT CHHEENA,,BARCELONA,,,ES,+34 934 22 41 87,,Mo-Su 08:00-24:00,MoneyGram,Q1944412
+73847669,moneygram,PHONE STORE - #14952,,BARCELONA,,,ES,+34 930 26 04 01,,Mo-Su 09:00-23:00,MoneyGram,Q1944412
+73853200,moneygram,LOCUTORIO - #14967,,BARCELONA,,,ES,+34 936 05 15 94,,Mo-Su 09:00-23:00,MoneyGram,Q1944412
+73880105,moneygram,NAMASTE INFORMATICA Y COMUNICACIONES - #,,BARCELONA,,,ES,+34 931 94 85 41,,Mo-Su 09:00-23:00,MoneyGram,Q1944412
+74070969,moneygram,CHANGE LOCUTORI,,BARCELONA,,,ES,+34 935 33 27 97,,Mo-Su 09:00-23:00,MoneyGram,Q1944412
+74464685,moneygram,EASY CALL INTERNET I LOCUTORI - #8949,,BARCELONA,,,ES,+34 936 67 32 77,,Mo-Su 08:00-24:00,MoneyGram,Q1944412
+74543797,moneygram,VITCOINENVIOS - #15617,,BARCELONA,,,ES,+34 936 27 51 14,,Mo-Su 09:00-23:00,MoneyGram,Q1944412
+74875928,moneygram,FAISAL TELEFONIA - #10345,,BARCELONA,,,ES,+34 631 28 28 22,,Mo-Su 08:00-24:00,MoneyGram,Q1944412
+74898950,moneygram,FNQ TELEFONIA - #10337,,BARCELONA,,,ES,+34 936 27 84 80,,Mo-Su 08:00-24:00,MoneyGram,Q1944412
+72405403_001-renault,renault,RNO BYMYCAR BARCELONA/ SENTMENAT,,BARCELONA,,,ES,+34 934 44 78 71,,,Renault,Q6686
+72405403_001-dacia,renault,RNO BYMYCAR BARCELONA/ SENTMENAT,,BARCELONA,,,ES,+34 934 44 78 71,,,Dacia,Q27460
+https://www.sixt.co.uk/car-hire/spain/barcelona/barcelona-sants/,sixt,Car Hire Barcelona  Sants Train Station | SIXT rent a car,,Barcelona,,,ES,,https://www.sixt.co.uk/car-hire/spain/barcelona/barcelona-sants/,Mo-Su 07:00-23:00,SIXT,Q705664
+SQLS135,speed_queen,Lavandería Autoservicio Speed Queen,,Barcelona,,,ES,+34 665 95 27 78,,Mo-Su 08:00-21:30,Speed Queen,Q7575499
+8796399992855,thebodyshop,Barcelona Sants,,BARCELONA,,,ES,,https://www.thebodyshop.com/es-es/store-details/barcelona-sants/7275,,The Body Shop,Q837851
+EXT_CE_02559,totalenergies,DIPUTACION,,BARCELONA,,,ES,,https://store.totalenergies.fr/en_EN/EXT_CE_02559,,Cepsa,Q608819
+,visa,,,CAN PASTILLA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,
+,visa,,,BARCELONA,,,ES,,,,,

@@ -1,0 +1,7 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+4385,abc_pl,abc,,Wola Ręczajska,mazowieckie,,PL,,,,abc,Q11683985
+NER01M,paczkomat_inpost_pl,Ochotnicza Straż Pożarna,,Nowe Ręczaje,mazowieckie,,PL,,https://inpost.pl/paczkomat-nowe-reczaje-ner01m-nowe-reczaje-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+PWT01M,paczkomat_inpost_pl,Przy parkingu Ośrodka Zdrowia,,Poświętne,mazowieckie,,PL,,https://inpost.pl/paczkomat-poswietne-pwt01m-szkolna-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+PWT02M,paczkomat_inpost_pl,Market Dino,,Poświętne,mazowieckie,,PL,,https://inpost.pl/paczkomat-poswietne-pwt02m-jana-pawla-ii-paczkomaty-mazowieckie,24/7,Paczkomat,Q110970254
+260228,poczta_polska_pl,UP Poświętne k. Wołomina,,Poświętne,MAZOWIECKIE,,PL,+48 25 752 03 28,,,Poczta Polska,Q168833
+,visa,,,POŚWIĘTNE,MAZOWIECKIE,,PL,,,,,

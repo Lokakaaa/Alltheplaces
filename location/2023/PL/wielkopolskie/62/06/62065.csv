@@ -1,0 +1,39 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+2721,abc_pl,abc,,Grodzisk Wielkopolski,wielkopolskie,,PL,,,,abc,Q11683985
+1910,abc_pl,abc,,Grodzisk Wielkopolski,wielkopolskie,,PL,,,,abc,Q11683985
+PL001323,aldi_nord_pl,ALDI,,Grodzisk Wielkopolski,Wielkopolskie,,PL,+48 800 118 118,,Mo-Sa 07:00-21:00,ALDI,Q41171373
+277,bricomarche_pl,Bricomarché Grodzisk Wielkopolski,,Grodzisk Wielkopolski,wielkopolskie,,PL,+48 501 814 409,https://www.bricomarche.pl/sklep/bricomarche-grodzisk-wielkopolski,,Bricomarché,Q2925147
+https://www.credit-agricole.pl/kontakt/oddzial/1746-grodzisk-wielkopolski-plac-swietej-anny,credit_agricole_pl,"Credit Agricole plac Świętej Anny 2, Grodzisk Wielkopolski",,Grodzisk Wielkopolski,wielkopolskie,,PL,19 019,https://www.credit-agricole.pl/kontakt/oddzial/1746-grodzisk-wielkopolski-plac-swietej-anny,Mo-Fr 09:00-16:00,Credit Agricole,Q590952
+2688,groszek_pl,Groszek,,Grodzisk Wielkopolski,wielkopolskie,,PL,,,,Groszek,Q9280965
+11862,groszek_pl,Groszek,,Grodzisk Wielkopolski,wielkopolskie,,PL,,,,Groszek,Q9280965
+11879,groszek_pl,Groszek,,Ptaszkowo,wielkopolskie,,PL,,,,Groszek,Q9280965
+11880,groszek_pl,Groszek,,Słocin,wielkopolskie,,PL,,,,Groszek,Q9280965
+11900,groszek_pl,Groszek,,Grąblewo,wielkopolskie,,PL,,,,Groszek,Q9280965
+480,mcdonalds_pl,McDonald's,,Grodzisk Wielkopolski,Wielkopolskie,,PL,+48 882 353 220,https://mcdonalds.pl/restauracje/wielkopolskie/grodzisk-wielkopolski/grodzisk-wielkopolski-ul-fabryczna-1-a,Mo-Th 06:00-01:00; Fr-Sa 06:00-03:00; Su 06:00-01:00,McDonald's,Q38076
+GAL01M,paczkomat_inpost_pl,Parking przy sklepie,,Grąblewo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grablewo-gal01m-grablewo-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL01M,paczkomat_inpost_pl,Przy parkingu sklepu Lidl,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl01m-rakoniewicka-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL01N,paczkomat_inpost_pl,Przy markecie budowlanym Mrówka,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl01n-zielonogorska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL02M,paczkomat_inpost_pl,przy kompleksie garażowym,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl02m-os-wojska-polskiego-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL02N,paczkomat_inpost_pl,Market Dino,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl02n-staszica-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL03M,paczkomat_inpost_pl,Teren stacji benzynowej,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl03m-poznanska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL03N,paczkomat_inpost_pl,Na parkingu stacji paliw i myjni CPN,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl03n-bukowska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL04M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl04m-kwiatowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL05M,paczkomat_inpost_pl,Stacja benzynowa,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl05m-nowotomyska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL06M,paczkomat_inpost_pl,Wzdłuż muru obok bankomatu,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl06m-3-maja-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL07M,paczkomat_inpost_pl,Przy Bricomarche,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl07m-nowa-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL08M,paczkomat_inpost_pl,Przy gabinecie stomatologicznym PrimaDent,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl08m-powstancow-chocieszynskich-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL09M,paczkomat_inpost_pl,Market Dino,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl09m-nowotomyska-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+GWL10M,paczkomat_inpost_pl,przy budynku Paku Handlowego,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-gwl10m-fabryczna-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+POP-GWL10,paczkomat_inpost_pl,HAPPY PACK ALKOHOLE KONESERA,,Grodzisk Wielkopolski ,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-pop-gwl10-bukowska-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+POP-GWL4,paczkomat_inpost_pl,MODA MĘSKA,,Grodzisk Wielkopolski,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-pop-gwl4-garbary-paczkomaty-wielkopolskie,Mo-Fr 10:00-18:00; Sa 09:00-13:00,Paczkomat,Q110970254
+POP-GWL9,paczkomat_inpost_pl,EPAKA ,,Grodzisk Wielkopolski ,wielkopolskie,,PL,,https://inpost.pl/paczkomat-grodzisk-wielkopolski-pop-gwl9-powstancow-wielkopolskich-paczkomaty-wielkopolskie,Mo-Fr 09:00-18:00,Paczkomat,Q110970254
+PWQ01M,paczkomat_inpost_pl,Przy sklepie GS Tęcza,,Ptaszkowo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-ptaszkowo-pwq01m-ptaszkowo-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+SQN01M,paczkomat_inpost_pl,Przed sklepem spożywczym,,Słocin,wielkopolskie,,PL,,https://inpost.pl/paczkomat-slocin-sqn01m-slocin-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+XXL01M,paczkomat_inpost_pl,Przy sklepie Cho no tu,,Kąkolewo,wielkopolskie,,PL,,https://inpost.pl/paczkomat-kakolewo-xxl01m-kakolewo-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+ZDJ01M,paczkomat_inpost_pl,Przy sklepie spożywczym,,Zdrój,wielkopolskie,,PL,,https://inpost.pl/paczkomat-zdroj-zdj01m-zdroj-paczkomaty-wielkopolskie,24/7,Paczkomat,Q110970254
+164,play_pl,Salon Play,Ul. Szeroka 14,Grodzisk Wielkopolski,wielkopolskie,,PL,+48 790 031 447,,Mo-Fr 10:00-18:00; Sa 09:00-13:00,Play,Q7202998
+307466,poczta_polska_pl,FUP Grodzisk Wielkopolski,,Granowo,WIELKOPOLSKIE,,PL,+48 887 854 410,,,Poczta Polska,Q168833
+241522,poczta_polska_pl,UP Grodzisk Wielkopolski,,Grodzisk Wielkopolski,WIELKOPOLSKIE,,PL,+48 885 900 994,,,Poczta Polska,Q168833
+805953,poczta_polska_pl,AP Grodzisk Wielkopolski,,Grodzisk Wielkopolski,WIELKOPOLSKIE,,PL,+48 600 224 491,,,Poczta Polska,Q168833
+,visa,,,GRODZISK WIELKOPOLSKI,WIELKOPOLSKIE,,PL,,,,,
+59c0fcf82b9dd2444e72838498a348e6,western_union,CENTRUM BIZNESOWO FINANSOWE,,Grodzisk Wielkopolski,WIELKOPOLSKIE,,PL,+48 693 217 674,https://location.westernunion.com/pl/wielkopolskie/grodzisk-wielkopolski/59c0fcf82b9dd2444e72838498a348e6,Mo-Fr 09:00-17:00; Sa 09:00-13:00,Western Union,Q861042

@@ -1,0 +1,13 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+5509,abc_pl,abc,,Jasiennik Stary,lubelskie,,PL,,,,abc,Q11683985
+4067,abc_pl,abc,,Zagródki,lubelskie,,PL,,,,abc,Q11683985
+4066,abc_pl,abc,,Dąbrówka,lubelskie,,PL,,,,abc,Q11683985
+9640,abc_pl,abc,,Potok Górny,lubelskie,,PL,,,,abc,Q11683985
+9638,abc_pl,abc,,Lipiny Górne-Lewki,lubelskie,,PL,,,,abc,Q11683985
+6368,abc_pl,abc,,Lipiny Dolne,lubelskie,,PL,,,,abc,Q11683985
+3137,groszek_pl,Groszek,,Lipiny Górne-Lewki,lubelskie,,PL,,,,Groszek,Q9280965
+LYP01M,paczkomat_inpost_pl,Na myjni samochodowej,,Lipiny Dolne-Kolonia,lubelskie,,PL,,https://inpost.pl/paczkomat-lipiny-dolne-kolonia-lyp01m-lipiny-dolne-kolonia-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+PTG01M,paczkomat_inpost_pl,Przy Delikatesach Centrum,,Potok Górny,lubelskie,,PL,,https://inpost.pl/paczkomat-potok-gorny-ptg01m-potok-gorny-paczkomaty-lubelskie,24/7,Paczkomat,Q110970254
+289324,poczta_polska_pl,AP Lipiny Dolne,,Lipiny Dolne,LUBELSKIE,,PL,+48 602 515 817,,,Poczta Polska,Q168833
+260259,poczta_polska_pl,UP Potok Górny,,Potok Górny,LUBELSKIE,,PL,+48 84 685 25 27,,,Poczta Polska,Q168833
+,visa,,,POTOK GORNY,LUBELSKIE,,PL,,,,,

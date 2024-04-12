@@ -1,0 +1,6 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://stations.sinclairoil.com/id/weston/42-e-depot-st,sinclair_us,Sinclair Gas Station,,Weston,ID,,US,+1 208-747-3373,https://stations.sinclairoil.com/id/weston/42-e-depot-st,Mo-Sa 06:00-20:00; Su 00:00-24:00,Sinclair,Q1290900
+1387338,usps,WESTON,,WESTON,ID,,US,+1 208-747-3739,,Mo-Fr 08:00-12:00; Sa 08:00-09:45,United States Postal Service,Q668687
+8328600003,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,77 W DEPOT ST,WESTON,ID,,US,,,,United States Postal Service,Q668687
+8328600001,usps_collection_boxes,USPS COLLECTION BOX - PO LOBBY,77 W DEPOT ST,WESTON,ID,,US,,,,United States Postal Service,Q668687
+8328600002,usps_collection_boxes,USPS COLLECTION BOX - BLUE BOX,77 W DEPOT ST,WESTON,ID,,US,,,,United States Postal Service,Q668687

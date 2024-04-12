@@ -1,0 +1,13 @@
+Ref,Spider,Name,Address,City,State,Zipcode,Country,Phone,Website,Hours,Brand,WikiData
+https://www.cic.fr:443/fr/agences/10057/19417/00/000,cic,CIC,,USSEL,Limousin,,FR,+33 5 55 46 11 99,https://www.cic.fr:443/fr/agences/10057/19417/00/000,"Tu 08:45-12:30,14:30-18:00; We-Fr 08:45-12:30,13:30-18:00; Sa 08:30-12:30",cic,Q746525
+0219t001t1,e_leclerc,Parapharmacie,,USSEL,Limousin,,FR,+33 5 55 46 17 90,,Mo-Sa 09:00-19:00, E.Leclerc Parapharmacie,Q1273376
+0219t008t1,e_leclerc,Station Service,,USSEL,Limousin,,FR,+33 5 55 46 17 90,,Mo-Sa 09:00-19:00,E.Leclerc,Q1273376
+0219t010t1,e_leclerc,Auto,,USSEL,Limousin,,FR,+33 5 55 46 17 95,,"Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00",E.Leclerc,Q1273376
+0219t078t1,e_leclerc,Espace Culturel,,USSEL,Limousin,,FR,+33 5 55 46 17 92,https://e.leclerc/mag/e-leclerc-ussel,Mo-Sa 09:00-19:00,E.Leclerc Espace Culturel,Q1273376
+0219t101t1,e_leclerc,USSEL,,USSEL,Limousin,,FR,+33 5 55 46 17 90,https://e.leclerc/mag/e-leclerc-ussel,Mo-Sa 08:30-19:30,E.Leclerc,Q1273376
+0219t111t1,e_leclerc,Brico,,USSEL,Limousin,,FR,+33 5 55 46 17 91,https://e.leclerc/mag/e-leclerc-ussel,Mo-Sa 09:00-19:00,E.Leclerc Brico,Q1273376
+0219t117t1,e_leclerc,Location,,USSEL,Limousin,,FR,+33 5 55 46 17 90,https://e.leclerc/mag/e-leclerc-ussel,Mo-Sa 09:00-19:00,E.Leclerc Location,Q1273376
+0219t118t1,e_leclerc,Drive Ussel,,USSEL,Limousin,,FR,+33 5 55 46 17 90,https://e.leclerc/mag/e-leclerc-ussel,Mo-Sa 08:30-19:30,E.Leclerc Drive,Q1273376
+https://local.fedex.com/#1017444330,fedex,,,Ussel,Limousin,,FR,,https://local.fedex.com/en-fr/ussel/cfepi,,FedEx,Q459477
+https://local.fedex.com/#1017432821,fedex,,,Ussel,Limousin,,FR,,https://local.fedex.com/en-fr/ussel/cfede,,FedEx,Q459477
+https://local.fedex.com/#1017446715,fedex,,,Ussel,Limousin,,FR,,https://local.fedex.com/en-fr/ussel/cfect,,FedEx,Q459477

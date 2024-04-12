@@ -1,0 +1,24 @@
+State,Place Name,City,Establishments
+UNKNOWN,alamo,Dandan,1
+DANDAN,avis,Saipan Island,1
+CNMI,avis,Saipan Island,1
+TINIANISLAND,avis,Tinian Island,1
+UNKNOWN,enterprise,Dandan,1
+UNKNOWN,enterprise,Garapan,1
+UNKNOWN,ernst_young,Saipan,1
+SAIPAN,first_hawaiian_bank,Saipan,5
+SAIPAN,first_hawaiian_bank,Garapan,1
+SAIPAN,first_hawaiian_bank,Susupe,1
+UNKNOWN,ford,Saipan,1
+SAIPAN,goldsgym,Saipan,1
+UNKNOWN,hardrock,Saipan,1
+UNKNOWN,national,Garapan,1
+UNKNOWN,national,Dandan,1
+PW,visa,KOROR PALAU,1
+GU,visa,TUMON,1
+MP,visa,SAIPAN,11
+MP,visa,GUALO RAI,1
+MPCNMI,western_union,Saipan,1
+UNKNOWN,western_union,Saipan,7
+UNKNOWN,western_union,Tinian,1
+UNKNOWN,western_union,Rota,1
